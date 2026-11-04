@@ -1,0 +1,1575 @@
+{
+ "name": "1台あたりの年間粉末消費量",
+ "en": "annual powder consumption per metal 3D printer",
+ "aliases": [
+  "金属3Dプリンター 粉末 消費量 年間",
+  "LPBF 粉末 使用量",
+  "1台あたり 粉末"
+ ],
+ "context": "繰り返し性",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:51:54.178390+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の球状ナイロンパウダー市場：CAGR 8.5%、市場規模17.7億ドル",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "グルタミン酸市場規模、シェアおよび予測（2025-2035年）",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "ノンウOVン雑草防除布市場規模と2035年までの予測",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "バイオプロセスバッグ市場は2034年までに175億ドルに達し、CAGRは16.9%",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "土壌活性除草剤市場規模と2034年までのCAGR 5.6%",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "フォー・ループ FIBC 市場は 2034 年までに 3.6% の CAGR で 26 億ドルに達する",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "フェイシャルポンプ市場は2034年までに116億ドルに達すると予測",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "トレーラ式ディスクハロー市場規模は235億ドル、4.8%のCAGR",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "PVCツイストフィルム市場は2034年までに4.9%のCAGRで13.5億ドルに達する見込み",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "17.7億ドル",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "（約2,655億円）と評価された市場は、",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "34.6億ドル",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "世界のアトマイズ金属粉末市場規模は、2025年には39億米ドルと評価され、2026年の41億6000万米ドルから2034年には69億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.6%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "アンチモン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "ルビジウム市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "ニッケル市場規模、シェア、成長率、機会、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "ベントナイト粘土市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉱物粉末乾燥機の世界市場（2026年～2032年）、市場規模（シングルドラム回転式乾燥機、トリプルドラム回転式乾燥機、蒸気管式乾燥機、気流式乾燥機）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "鉱物粉末乾燥機の世界市場（2026年～2032年）、市場規模（シングルドラム回転式乾燥機、トリプルドラム回転式乾燥機、蒸気管式乾燥機、気流式乾燥機）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "世界の鉱物粉末乾燥機市場規模は、2025年の12億3,100万米ドルから2032年には18億3,700万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.9%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "2027年から2032年までの地域別、国別（アメリカ大陸、アジア太平洋地域、ヨーロッパ、中東・アフリカ）、製品タイプ別、および用途別の世界市場規模、年間販売台数、年間収益の予測が含まれており、市場の将来の動向を展望します",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "牽引式方位スラスタの世界市場（2026年～2032年）、市場規模（Lドライブ、Zドライブ、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "PERCフロント用銀ペーストの世界市場（2026年～2032年）、市場規模（フィンガー用銀ペースト、バスバー用銀ペースト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "油井ポンプの世界市場（2026年～2032年）、市場規模（試験用ポンプ、酸処理用ポンプ、セメント注入用ポンプ）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "低温収縮試験機の世界市場（2026年～2032年）、市場規模（低温、広温度範囲）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "航空機用防氷システムの世界市場（2026年～2032年）、市場規模（機械式除氷システム、電気パルス式防氷システム、液体防氷システム、熱風式防氷システム、電気加熱式防氷システム）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "産業廃棄物焼却炉の世界市場（2026年～2032年）、市場規模（ロータリーキルン、流動層、火格子、熱分解）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界の球状ナイロンパウダー市場：CAGR 8.5%、市場規模17.7億ドル",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "光学PETフィルム市場：2026-2034年のCAGR動向",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "ポリエステルイミドエナメル市場：2034年まで6.8%のCAGR",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "メタルパッケージ食品缶市場は2034年までに7.3%のCAGRで成長",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "サトウキビ製容器 2029 市場：2033年まで3.74%のCAGR成長",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "バイオプロセスバッグ市場は2034年までに175億ドルに達し、CAGRは16.9%",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "ヒアルロン酸原料市場：2034年までに13%のCAGRを達成？",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "土壌活性除草剤市場規模と2034年までのCAGR 5.6%",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "フォー・ループ FIBC 市場は 2034 年までに 3.6% の CAGR で 26 億ドルに達する",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロアルミナ粉末市場 2024-2034: 7億4,262万ドル、4.3% の CAGR",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "トレーラ式ディスクハロー市場規模は235億ドル、4.8%のCAGR",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "PVCツイストフィルム市場は2034年までに4.9%のCAGRで13.5億ドルに達する見込み",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末噴霧市場の規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のアトマイズ金属粉末市場規模は、2025年には39億米ドルと評価され、2026年の41億6000万米ドルから2034年には69億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.6%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "粉末冶金技術の進歩、産業オートメーションの拡大、そして3Dプリンティング材料への投資増加は、世界市場の成長をさらに加速させています",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形および3Dプリンティング技術の普及拡大",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "持続可能で高品質な3Dプリンティング用粉末を製造するため、UniMeltプラズマアトマイゼーションの生産能力を拡大する",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形の普及拡大に伴い、金属粉末アトマイズ市場の消費パターンが変化しており、このセグメントは売上高の40.44%を占める圧倒的なシェアを獲得しています",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・防衛分野は、部品生産が世界的に拡大するにつれて、アトマイズ粉末需要全体の33.15%を占める主要な需要を生み出しています",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "軽量アセンブリや高応力エンジン部品を製造するために、メーカーはチタンおよびニッケル基超合金の使用を増やしており、7.03%のCAGRで材料セグメントの力強い拡大を支えています",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、EVバッテリーパックや熱管理システム向けにバッテリーグレードの球状銅およびアルミニウム粉末の使用が増加していることから、自動車分野の需要は年平均成長率（CAGR）6.94%で加速しています",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の鉱物粉末乾燥機市場規模は、2025年の12億3,100万米ドルから2032年には18億3,700万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.9%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "米国の鉱物粉末乾燥機市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "中国の鉱物粉末乾燥機市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRはX％になると予測されています",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の鉱物粉末乾燥機市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると予測されています",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "セグメントは、複数の最終用途産業にまたがり、一貫した粒度分布、流動性、材料のリサイクル性を重視し、直接チャネルまたは認定代理店を通じて専門のポリマーパウダー市場サプライヤーから調達することがよくあります",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "球状ナイロンパウダーメーカーと主要な3DプリンターOEMとの間の戦略的提携も重要であり、最適化された材料と機械パラメーターの共同開発を可能にしています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "日本における球状ナイロンパウダーの流通チャネルは、主にメーカーから最終製品を製造する企業への直接販売が中心ですが、中堅・中小企業や研究機関に対しては専門商社や代理店を通じた供給も一般的です",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "特に、日本の商社は、単なる流通だけでなく、技術サポート、在庫管理、海外調達など、多角的なサービスを提供し、サプライチェーンの重要な役割を担っています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "アディティブマニュファクチャリング（3Dプリンティング）サービスビューロー＆OEM：",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "アディティブマニュファクチャリング（3Dプリンティング）サービスビューロー＆OEM",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "という堅調な複合年間成長率（CAGR）で拡大します",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "ポリアミド市場全体の原材料価格の変動や特殊な加工設備の必要性に関連する潜在的な課題にもかかわらず、球状ナイロンパウダーの固有の利点は、球状ナイロンパウダーの世界市場を今後数年間で持続的な成長と革新に導くでしょう",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "向けの一貫した品質を確保するために、直接供給契約を通じて大量を調達することがよくあります",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "彼らの購買決定は、排出量と安全に関する規制遵守に強く影響され、厳格な材料認定プロセスにつながります",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "調達チャネルは、厳格な品質保証とトレーサビリティ要件を伴う長期契約を含むことが多く、複雑な飛行安全部品用のナイロン12パウダーに強い関心があります",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントは、複数の最終用途産業にまたがり、一貫した粒度分布、流動性、材料のリサイクル性を重視し、直接チャネルまたは認定代理店を通じて専門のポリマーパウダー市場サプライヤーから調達することがよくあります",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "過去2～3年間の球状ナイロンパウダーの世界市場における投資と資金調達活動は、主に、材料ポートフォリオや地理的範囲の拡大を目的とした戦略的合併・買収（M&A）と、特に積層造形などの主要な成長セグメントに投入されるベンチャーキャピタルおよび企業の研究開発投資によって特徴づけられています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、世界市場で最大の収益シェアを占め、予測期間中に9.8%という高い複合年間成長率（CAGR）で成長が見込まれており、日本の貢献は重要です",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "ポリマーパウダーに対応する産業用3Dプリンター（例：SLS、MJF）の設置ベースに、1台あたりの年間平均材料消費量を乗じたもの",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "特定の高性能コーティングまたは接着剤セグメント（例：自動車用クリアコート、医療機器用接着剤）における球状ナイロンパウダーの市場シェアまたは消費量",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "欧州自動車工業会（ACEA）によると、ヨーロッパは年間数百万台の車両を生産する主要な製造拠点です",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "微細化された金属粉末は、材料とエネルギー消費量の少ない材料や部品の開発を可能にすることで、これらの目標達成に貢献します",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "既存企業は、大規模なアトマイズ能力、独自の合金技術、航空宇宙認証、グローバルな流通ネットワーク、および自動車・航空宇宙メーカーとの長期供給契約を通じて競争している",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界の総生産能力は年間約26,000台で、平均粗利益率は約23%です",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "世界の鉱物粉末乾燥機市場の10年間の展望は？",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2032年までの年間販売台数、2021年、2025年、2032年における地理的地域別および国/地域別の市場の現状と将来分析が含まれます",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの各企業の年間販売台数、販売市場シェア、年間収益、収益市場シェア、および販売価格の詳細なデータが示されています",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "これには、各地域および国/地域における年間販売台数と年間収益が含まれます",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "2027年から2032年までの地域別、国別（アメリカ大陸、アジア太平洋地域、ヨーロッパ、中東・アフリカ）、製品タイプ別、および用途別の世界市場規模、年間販売台数、年間収益の予測が含まれており、市場の将来の動向を展望します",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "地域全体でグレード、粒子サイズ、アプリケーション別に差別化された、球状ナイロンパウダーの1キログラムあたりの平均販売価格（ASP）",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、航空宇宙グレードのチタンやニッケル基超合金粉末は、複雑な精製・アトマイゼーション工程のため、1キログラムあたり300米ドルを超える場合が多い",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、鉱物粉末乾燥機の世界販売台数は18,500台に達し、1台あたりの平均販売価格は68,000米ドルでした",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "また、製品タイプ別（シングルドラムロータリー乾燥機、トリプルドラムロータリー乾燥機、スチームチューブ乾燥機、エアフロー乾燥機など）、熱源タイプ別（石炭燃焼式熱風炉、蒸気熱源、電気加熱など）、仕様別（例：φ1.2×10m、φ1.5×12mなど）、および用途別（冶金、建築材料、セメントなど）に市場をセグメント化し、それぞれ2021年から2026年までの販売台数、収益、販売価格、および市場シェアの詳細な分析が収録されています",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの各企業の年間販売台数、販売市場シェア、年間収益、収益市場シェア、および販売価格の詳細なデータが示されています",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "第13章「主要プレーヤー分析」では、鉱物粉末乾燥機市場における主要な企業（3W Drying、Zoneding Machine、LIMING、Kerone、ANDRITZ GROUP、Pilotech、RUIGUANG、JIEXIN、HONGXING、JIUTIAN、AVAN MACHINERY、Hywell Machinery、Yangzhou Fengyihang Intelligent Equipment Co.,Ltd.、Zhengzhou Hengyang Industrial Co., Ltd、TONGLIなど）それぞれについて、詳細な企業情報、鉱物粉末乾燥機の製品ポートフォリオと仕様、2021年から2026年までの販売台数、収益、価格、粗利益、主要な事業概要、および最新の動向に関する詳細な分析が示されています",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   }
+  ],
+  "上位シェア・主要企業": [
+   {
+    "quote": "グルタミン酸市場規模、シェアおよび予測（2025-2035年）",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティングのアプリケーションセグメントは、球状ナイロンパウダーの世界市場において揺るぎない支配的な力として存在し、かなりの収益シェアを獲得し、予測期間中に最高の成長潜在力を示しています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "球状ナイロンパウダーの世界市場は、確立された化学大手と専門材料プロバイダーが混在しており、製品イノベーション、戦略的提携、および生産能力拡大を通じて市場シェアを競い合っています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "BASF SE：世界の化学大手であるBASFは、様々な産業用途および積層造形プロセス向けに最適化されたポリアミドパウダーを含む、幅広い高性能ポリアミド市場材料および特殊化学品を提供しています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "：BASF SEは、大手自動車部品メーカーと提携し、電気自動車の軽量化イニシアチブ向けの新しい球状ナイロンパウダー配合を開発しました",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "市場はグローバルであるものの、主要地域間では成長率、市場シェア、主要な需要要因に大きな差異が存在します",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "地域は現在、球状ナイロンパウダーの世界市場で最大の収益シェアを保持しており、予測期間中に",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "は、強力な研究開発能力、成熟した航空宇宙産業、および先進的な医療機器製造に牽引され、かなりの市場シェアを占めています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "は新興市場であり、現在は小さなシェアを占めていますが、将来の成長の可能性を示しており、MEAは約",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、独自の材料技術を持つ小規模な専門パウダー生産者は、提供する製品を多様化しようとしている大手化学コングロマリットにとって魅力的なターゲットです",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、世界市場で最大の収益シェアを占め、予測期間中に9.8%という高い複合年間成長率（CAGR）で成長が見込まれており、日本の貢献は重要です",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "世界の球状ナイロンパウダーの地域別市場シェア",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "これらの広範な市場数値は、採用率、アプリケーション浸透度、および製品タイプシェアに基づいて、特定の球状ナイロンパウダー市場へと細分化されます",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "特定の高性能コーティングまたは接着剤セグメント（例：自動車用クリアコート、医療機器用接着剤）における球状ナイロンパウダーの市場シェアまたは消費量",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share (%)",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末噴霧市場の規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末噴霧市場の規模、シェア、トレンド分析レポート：製品別（鉄粉末噴霧、銅粉末噴霧）、用途別（冶金産業、化学産業、電子材料、ダイヤモンド工具、溶接、3Dプリンティング）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に41.2%の市場シェアを占め、アトマイズ金属粉末市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形の普及拡大に伴い、金属粉末アトマイズ市場の消費パターンが変化しており、このセグメントは売上高の40.44%を占める圧倒的なシェアを獲得しています",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・防衛分野は、軽量かつ高応力のエンジンアセンブリを製造するための粉末アトマイゼーション需要において、全体の大きなシェアを占めている",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "冶金業界は大きな市場シェアを占めている",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、ドイツのアトマイズ金属粉末市場は最大の市場シェアを占め、英国のアトマイズ金属粉末市場はヨーロッパで最も急速な成長を遂げています",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、中国の金属粉末アトマイズ市場は最大の市場シェアを占めており、インドの金属粉末アトマイズ市場はアジア太平洋地域で最も急速に成長している市場です",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年において、金属粉末噴霧市場で最も大きなシェアを占める地域はどこだったでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で41.2%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末噴霧市場における主要企業はどこですか？",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "アンチモン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "ルビジウム市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "ニッケル市場規模、シェア、成長率、機会、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "鋼製屋根材市場の規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界の上位2社が市場シェアの約％を占めました",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "本インサイトレポートは、世界の鉱物粉末乾燥機市場の全体像を包括的に分析し、製品セグメンテーション、企業構成、収益、市場シェア、最新動向、M&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要メーカー、主要地域および国別に、鉱物粉末乾燥機市場の包括的な概要、市場シェア、成長機会を提示しています",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "また、製品タイプ別（シングルドラムロータリー乾燥機、トリプルドラムロータリー乾燥機、スチームチューブ乾燥機、エアフロー乾燥機など）、熱源タイプ別（石炭燃焼式熱風炉、蒸気熱源、電気加熱など）、仕様別（例：φ1.2×10m、φ1.5×12mなど）、および用途別（冶金、建築材料、セメントなど）に市場をセグメント化し、それぞれ2021年から2026年までの販売台数、収益、販売価格、および市場シェアの詳細な分析が収録されています",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "第3章「企業別グローバル分析」では、鉱物粉末乾燥機市場における主要企業のパフォーマンスに焦点が当てられます",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの各企業の年間販売台数、販売市場シェア、年間収益、収益市場シェア、および販売価格の詳細なデータが示されています",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要メーカーの生産拠点分布、提供される製品、市場集中度（CR3、CR5、CR10の競争集中度分析）、新製品の動向、潜在的な新規参入企業、および市場のM&A活動と戦略に関する情報が含まれています",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   }
+  ],
+  "ニッチ度（供給元の数・寡占）": [
+   {
+    "quote": "新規参入業者の脅威",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "粉末汚染リスクと限られたリサイクルインフラが金属粉末噴霧市場の成長を阻害する",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "高性能超合金のリサイクルインフラが限られているため、材料廃棄物が増加し、プロセスの持続可能性が低下することで、積層造形施設やリサイクル企業にとって経済的な課題が生じています",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要メーカーの生産拠点分布、提供される製品、市場集中度（CR3、CR5、CR10の競争集中度分析）、新製品の動向、潜在的な新規参入企業、および市場のM&A活動と戦略に関する情報が含まれています",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   }
+  ],
+  "日本の買い手と供給元": [
+   {
+    "quote": "UBE Industries Ltd.：日本の化学メーカーで、自動車、電気、産業市場向けのナイロン樹脂および微細球状粉末を提供",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "Toray Industries, Inc.：日本の総合化学メーカーで、軽量化や高性能複合材料用途を含む先端ポリマー材料を開発",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "Asahi Kasei Corporation：日本の多国籍化学企業で、自動車および電気用途に幅広く使用される様々なナイロン樹脂を提供",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Chemical Corporation：日本の総合化学企業で、球状ナイロン粉末の基礎となる多様なポリマー材料と先端複合材料を製造",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "Daicel Corporation：日本の化学企業で、特殊粉末製造に応用可能な先端ポリマーおよびファインケミカルに注力",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "この成長は主に、中国、インド、日本、韓国といった国々における堅調な産業拡大と、製造業における3Dプリンティング技術の急速な採用によって推進されています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "5.3. 日本",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場の詳細分析",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "球状ナイロンパウダーの世界市場において、日本はアジア太平洋地域の主要な成長ドライバーの一つとして位置付けられています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、世界市場で最大の収益シェアを占め、予測期間中に9.8%という高い複合年間成長率（CAGR）で成長が見込まれており、日本の貢献は重要です",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "日本の産業界は、精密な製造技術、高品質へのこだわり、そして研究開発への継続的な投資で知られています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "主要な日本企業としては、宇部興産（UBE Industries Ltd.）、東レ（Toray Industries, Inc.）、旭化成（Asahi Kasei Corporation）、三菱ケミカル（Mitsubishi Chemical Corporation）、ダイセル（Daicel Corporation）などが挙げられます",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場における規制・標準フレームワークは、製品の用途によって多岐にわたります",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "材料の品質や試験方法については日本工業規格（JIS）が広く適用されます",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野では、軽量化や燃費向上への厳しい要件を満たすために、国内外の安全基準や排出ガス規制への適合が求められ、材料選定において高度な技術的検証が行われます",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "プラズマリサイクル技術を用いて、超高純度金属粉末および電池粉末の国内サプライチェーンの強靭性を構築する",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mizuho Corporation (Japan)",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "JFE Steel Corporation (Japan)",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）、製品タイプ別、および用途別の販売台数と収益データが提供され、主要な国々の市場状況が詳しく説明されています",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：鉱物粉末乾燥機の世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "一般財団法人JR東日本文化創造財団、MoN Takanawa: The Museum of Narratives、Barbican Centre",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   }
+  ],
+  "日本の顧客が買うか（需要の証拠）": [
+   {
+    "quote": "情報に基づいた意思決定を行うために、完全版レポートをご購入ください",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "個別のセクションや国別レポートの購入オプションを含む、追加費用なしのパーソナライズされたレポート作成を提供します",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "はい、実際のところ購入した2つのレポートの両方に大変満足しており、今後の自社ブランドの国際化プロセスの過程においても引き続き活用させていただきます",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "におけるこれらの先進材料の採用増加が、市場の拡大を継続的に促進しています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "向上する可能性があり、先進的なポリマーパウダー市場の採用に対する強力なインセンティブとなっています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "これらの相互に関連する推進要因は、技術採用から重要な産業需要まで、球状ナイロンパウダーの世界市場における持続的な拡大の基礎となっています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "球状ナイロンパウダーの世界市場は、工業化のレベル、技術採用、規制の枠組みによって影響を受ける明確な地域ダイナミクスを示しています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "この成長は主に、中国、インド、日本、韓国といった国々における堅調な産業拡大と、製造業における3Dプリンティング技術の急速な採用によって推進されています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "構造部品や内装部品向けの航空宇宙分野における高性能材料の需要と、様々な分野での積層造形の広範な採用が、この成長を支えています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "で、この地域は確立された製造拠点と持続可能性への強い重点から恩恵を受けており、先進的なポリアミド市場ソリューションの採用につながっています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "これらの地域での成長は、工業化の増加、インフラ開発、および先進製造技術の初期段階での採用によって推進されています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "向けの一貫した品質を確保するために、直接供給契約を通じて大量を調達することがよくあります",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "調達チャネルは、厳格な品質保証とトレーサビリティ要件を伴う長期契約を含むことが多く、複雑な飛行安全部品用のナイロン12パウダーに強い関心があります",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントは、複数の最終用途産業にまたがり、一貫した粒度分布、流動性、材料のリサイクル性を重視し、直接チャネルまたは認定代理店を通じて専門のポリマーパウダー市場サプライヤーから調達することがよくあります",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "最近のサイクルにおける顕著な変化は、持続可能でバイオベースのナイロンパウダーへの選好の高まりであり、環境に配慮した材料調達と製造慣行へのより広範な業界トレンドを反映しています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙、自動車、ヘルスケア分野では、金属3Dプリンティングによる軽量でカスタマイズ可能な精密部品の採用がますます進んでいます",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、電気自動車メーカーは、車両全体の軽量化とバッテリー効率の最適化のために、粉末冶金部品の採用をますます進めている",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末噴霧市場の投資と資金調達分析",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末噴霧市場における主要な投資および資金調達活動、2025年～2026年",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達／投資活動",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "この価格変動は操業コストを上昇させ、価格に敏感な産業分野における採用を阻害する",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、産業用電力、アルゴンガス、合金の調達コストの変動は、粉末生産の収益性に直接影響を与える",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "本設備は通常、回転ドラムまたは流動層構造を採用しており、ドラム本体、伝動システム、熱源システム、供給・排出装置、および集塵システムで構成される",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   }
+  ],
+  "再生・循環": [
+   {
+    "quote": "選択的レーザー焼結（SLS）、マルチジェットフュージョン（MJF）、高速焼結（HSS）などの技術は、最適な溶融流動特性、熱安定性、リサイクル性から、これらのパウダー、特にナイロン12パウダーを extensively 活用しています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントは、複数の最終用途産業にまたがり、一貫した粒度分布、流動性、材料のリサイクル性を重視し、直接チャネルまたは認定代理店を通じて専門のポリマーパウダー市場サプライヤーから調達することがよくあります",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、バイオベースおよびリサイクル可能なポリアミド市場ソリューションの研究への投資も注目を集めており、持続可能性と循環型経済原則への業界のコミットメントの高まりを反映しています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "近年では、持続可能な社会への意識の高まりから、バイオベースやリサイクル可能なナイロンパウダーへの関心も高まっており、環境性能も重要な選定基準の一つとなっています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能エネルギー",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "プラズマリサイクル技術を用いて、超高純度金属粉末および電池粉末の国内サプライチェーンの強靭性を構築する",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "粉末汚染リスクと限られたリサイクルインフラが金属粉末噴霧市場の成長を阻害する",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "高性能超合金のリサイクルインフラが限られているため、材料廃棄物が増加し、プロセスの持続可能性が低下することで、積層造形施設やリサイクル企業にとって経済的な課題が生じています",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "新興企業は、プラズマアトマイズ技術革新、持続可能な粉末リサイクル技術、カスタマイズされた合金配合、および電気自動車、医療、産業用3Dプリンティング用途向けに設計された特殊粉末を通じて競争している",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "これまでのキャリアを通じて、イスマイルは特殊化学品、先端材料、産業技術、製造設備、再生可能エネルギー、持続可能な包装などを網羅する数多くの業界調査を主導し、貢献してきました",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業固形廃棄物の資源化、スラグ粉末や鉱滓の総合利用に対する需要の高まり、およびますます厳格化する省エネ・環境保護政策に伴い、鉱物粉末乾燥装置は高熱効率、低エネルギー消費、およびインテリジェント制御の方向へと発展しており、グリーン建材や資源リサイクルの分野において、市場規模とビジネスチャンスが継続的に拡大しています",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   },
+   {
+    "quote": "SNSで466万回再生！北海道で大人気のベーカリー",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "8.5",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "quote": "世界の球状ナイロンパウダー市場：CAGR 8.5%、市場規模17.7億ドル"
+   },
+   {
+    "value": "16.9",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "quote": "バイオプロセスバッグ市場は2034年までに175億ドルに達し、CAGRは16.9%"
+   },
+   {
+    "value": "5.6",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "quote": "土壌活性除草剤市場規模と2034年までのCAGR 5.6%"
+   },
+   {
+    "value": "6.6",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "quote": "世界のアトマイズ金属粉末市場規模は、2025年には39億米ドルと評価され、2026年の41億6000万米ドルから2034年には69億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.6%となる見込みです"
+   },
+   {
+    "value": "6.94",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "quote": "さらに、EVバッテリーパックや熱管理システム向けにバッテリーグレードの球状銅およびアルミニウム粉末の使用が増加していることから、自動車分野の需要は年平均成長率（CAGR）6.94%で加速しています"
+   },
+   {
+    "value": "5.9",
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "quote": "世界の鉱物粉末乾燥機市場規模は、2025年の12億3,100万米ドルから2032年には18億3,700万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.9%で成長すると見込まれています"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "9.8",
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "quote": "アジア太平洋地域は、世界市場で最大の収益シェアを占め、予測期間中に9.8%という高い複合年間成長率（CAGR）で成長が見込まれており、日本の貢献は重要です"
+   },
+   {
+    "value": "41.2",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "quote": "北米は、2025年に41.2%の市場シェアを占め、アトマイズ金属粉末市場を牽引しました"
+   },
+   {
+    "value": "40.44",
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "quote": "積層造形の普及拡大に伴い、金属粉末アトマイズ市場の消費パターンが変化しており、このセグメントは売上高の40.44%を占める圧倒的なシェアを獲得しています"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.reportprime.com/ja/%E7%B2%89%E6%9C%AB%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF-r6843",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datainsightsreports.com/ja/reports/nonaironpaud-28027",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/powdered-beverages-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/5721692",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/4623427",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%86%8D%E5%88%86%E6%95%A3%E5%8F%AF%E8%83%BD%E3%81%AA%E3%83%9D%E3%83%AA%E3%83%9E%E3%83%BC%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E5%B8%82%E5%A0%B4-117302",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/powder-metallurgy-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enecho.meti.go.jp/about/whitepaper/2024/pdf/2_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jetro.go.jp/ext_images/_Reports/02/2021/7473437622667d57/202110.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nihon-cha.or.jp/pdf/maff20260511.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maff.go.jp/j/seisan/tokusan/attach/pdf/konnyaku-20.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jppa.biz/news/20210720news01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/6977131",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%B2%89%E6%9C%AB%E9%A3%B2%E6%96%99%E5%B8%82%E5%A0%B4-116056",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://journal.jogmec.go.jp/content/300598236.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%B2%89%E6%9C%AB%E9%A3%B2%E6%96%99%E5%B8%82%E5%A0%B4-116056",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pps-net.org/industryenergy?industrykey=element11",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/4230027",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ene100.jp/zumen/1-1-10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.env.go.jp/earth/ondanka/kateico2tokei/energy/detail/01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpca.or.jp/trends/manufacturer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-analysis/metal-powder-market/4915",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matcha-times.jp/2026/04/matcha-market-growth/19/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.super.or.jp/wp/wp-content/uploads/2024/02/NSAJ-Supermarket-hakusho2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://agriture.jp/oem/powder-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maff.go.jp/j/zyukyu/jki/j_doutai/doutai_top.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maff.go.jp/j/tokei/kikaku/nenji/99nennji/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mofa.go.jp/mofaj/kids/ranking/oil_ex.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://oil-info.ieej.or.jp/whats_sekiyu/2-3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enecho.meti.go.jp/about/energytrends/202506/html/s-1-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yearbook.enerdata.jp/oil-products/world-oil-domestic-consumption-statistics.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpma.gr.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://magnesium.or.jp/_wp/wp-content/uploads/2025/03/%E5%9B%BD%E5%86%85%E3%83%9E%E3%82%B0%E3%83%8D%E3%82%B7%E3%82%A6%E3%83%A02024%E5%B9%B4%E9%9C%80%E8%A6%81%E5%AE%9F%E7%B8%BE2025%E5%B9%B4%E9%9C%80%E8%A6%81%E4%BA%88%E6%B8%AC.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jama.or.jp/library/publish/mioj/ebook/2025/MIoJ2025_j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jetro.go.jp/ext_images/_Reports/01/6f831adb699b3451/20250016rev1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001026130.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jada.or.jp/pages/54/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/shihyo/2025/1003/1388.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jarc.or.jp/renewal/wp-content/themes/jarc/assets/pdf/Basic_working_papers_in_conjunction_with_car_recycling.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/017_03_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maff.go.jp/j/shokusan/sanki/soumu/attach/pdf/seisansei-134.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_12_20.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "1台あたりの年間粉末消費量 市場規模 CAGR",
+   "results": [
+    "https://www.reportprime.com/ja/%E7%B2%89%E6%9C%AB%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF-r6843",
+    "https://www.datainsightsreports.com/ja/reports/globaler-markt-fur-spharisches-nylonpulver-28027",
+    "https://straitsresearch.com/jp/report/powdered-beverages-market",
+    "https://www.atpress.ne.jp/news/5721692",
+    "https://newscast.jp/smart/news/4623427",
+    "https://www.fortunebusinessinsights.com/jp/%E5%86%8D%E5%88%86%E6%95%A3%E5%8F%AF%E8%83%BD%E3%81%AA%E3%83%9D%E3%83%AA%E3%83%9E%E3%83%BC%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E5%B8%82%E5%A0%B4-117302",
+    "https://jp.linkedin.com/pulse/%E4%B9%BE%E7%87%A5%E7%B2%89%E6%9C%AB%E6%B7%B7%E5%90%88%E8%A3%85%E7%BD%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A12026%E5%B9%B42033%E5%B9%B4%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%AF%E5%B9%B4%E9%96%93cagr-141%E3%81%A7%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%88%90%E9%95%B7%E3%81%8C%E3%81%99%E3%81%B9%E3%81%A6%E5%90%AB%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-emmte",
+    "https://www.businessresearchinsights.com/jp/market-reports/boehmite-market-100043",
+    "https://www.marketgrowthreports.com/jp/market-reports/maca-market-114006",
+    "https://www.fortunebusinessinsights.com/jp/粉末飲料市場-116056"
+   ]
+  },
+  {
+   "query": "1台あたりの年間粉末消費量 価格 kg",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/powder-metallurgy-market",
+    "https://www.enecho.meti.go.jp/about/whitepaper/2024/pdf/2_1.pdf",
+    "https://www.jetro.go.jp/ext_images/_Reports/02/2021/7473437622667d57/202110.pdf",
+    "https://nihon-cha.or.jp/pdf/maff20260511.pdf",
+    "https://www.maff.go.jp/j/seisan/tokusan/attach/pdf/konnyaku-20.pdf",
+    "https://jppa.biz/news/20210720news01/",
+    "https://www.mri.co.jp/knowledge/column/20250403.html",
+    "https://journal.jogmec.go.jp/content/300599026.pdf",
+    "https://agriture.jp/oem/powder-oem/",
+    "https://www.maff.go.jp/j/tokei/kikaku/nenji/99nennji/index.html"
+   ]
+  },
+  {
+   "query": "1台あたりの年間粉末消費量 シェア 主要企業",
+   "results": [
+    "https://straitsresearch.com/jp/report/atomizing-metal-powder-market",
+    "https://www.atpress.ne.jp/news/5721692",
+    "https://www.mordorintelligence.com/ja/industry-reports/powder-metallurgy-market",
+    "https://newscast.jp/news/6977131",
+    "https://www.reportprime.com/ja/%E7%B2%89%E6%9C%AB%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF-r6843",
+    "https://www.fortunebusinessinsights.com/jp/%E7%B2%89%E6%9C%AB%E9%A3%B2%E6%96%99%E5%B8%82%E5%A0%B4-116056",
+    "https://www.datainsightsreports.com/ja/reports/globaler-markt-fur-spharisches-nylonpulver-28027",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://journal.jogmec.go.jp/content/300598236.pdf",
+    "https://www.fortunebusinessinsights.com/jp/粉末飲料市場-116056"
+   ]
+  },
+  {
+   "query": "1台あたりの年間粉末消費量 主要メーカー 一覧",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/powder-metallurgy-market",
+    "https://pps-net.org/industryenergy?industrykey=element11",
+    "https://www.atpress.ne.jp/news/4230027",
+    "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/",
+    "https://www.ene100.jp/zumen/1-1-10",
+    "https://newscast.jp/news/6977131",
+    "https://www.env.go.jp/earth/ondanka/kateico2tokei/energy/detail/01/",
+    "https://www.jpca.or.jp/trends/manufacturer.html",
+    "https://www.enecho.meti.go.jp/statistics/energy_consumption/ec001/2024_02/",
+    "https://yhresearch.hatenablog.jp/entry/2026/08/11/120150"
+   ]
+  },
+  {
+   "query": "1台あたりの年間粉末消費量 参入企業 数",
+   "results": [
+    "https://www.atpress.ne.jp/news/5721692",
+    "https://www.reportprime.com/ja/%E7%B2%89%E6%9C%AB%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF-r6843",
+    "https://newscast.jp/news/6977131",
+    "https://www.mordorintelligence.com/ja/industry-reports/powder-metallurgy-market",
+    "https://www.researchnester.jp/industry-analysis/metal-powder-market/4915",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://matcha-times.jp/2026/04/matcha-market-growth/19/",
+    "https://www.super.or.jp/wp/wp-content/uploads/2024/02/NSAJ-Supermarket-hakusho2024.pdf",
+    "https://agriture.jp/oem/powder-report/",
+    "https://www.maff.go.jp/j/zyukyu/jki/j_doutai/doutai_top.html"
+   ]
+  },
+  {
+   "query": "1台あたりの年間粉末消費量 日本 需要",
+   "results": [
+    "https://www.mofa.go.jp/mofaj/kids/ranking/oil_ex.html",
+    "https://oil-info.ieej.or.jp/whats_sekiyu/2-3.html",
+    "https://www.enecho.meti.go.jp/about/energytrends/202506/html/s-1-1.html",
+    "https://yearbook.enerdata.jp/oil-products/world-oil-domestic-consumption-statistics.html",
+    "https://www.jpma.gr.jp/statistics/",
+    "http://magnesium.or.jp/_wp/wp-content/uploads/2025/03/%E5%9B%BD%E5%86%85%E3%83%9E%E3%82%B0%E3%83%8D%E3%82%B7%E3%82%A6%E3%83%A02024%E5%B9%B4%E9%9C%80%E8%A6%81%E5%AE%9F%E7%B8%BE2025%E5%B9%B4%E9%9C%80%E8%A6%81%E4%BA%88%E6%B8%AC.pdf",
+    "https://www.globalnote.jp/post-3202.html",
+    "https://pps-net.org/industryenergy?industrykey=element42",
+    "http://www.paj.gr.jp/statis/statis",
+    "https://www.maff.go.jp/j/tokei/kikaku/nenji/99nennji/index.html"
+   ]
+  },
+  {
+   "query": "1台あたりの年間粉末消費量 国内 導入台数 OR 輸入量",
+   "results": [
+    "https://www.jama.or.jp/library/publish/mioj/ebook/2025/MIoJ2025_j.pdf",
+    "https://www.jetro.go.jp/ext_images/_Reports/01/6f831adb699b3451/20250016rev1.pdf",
+    "https://www.soumu.go.jp/main_content/001026130.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.jada.or.jp/pages/54/",
+    "https://www5.cao.go.jp/keizai3/shihyo/2025/1003/1388.pdf",
+    "https://www.jarc.or.jp/renewal/wp-content/themes/jarc/assets/pdf/Basic_working_papers_in_conjunction_with_car_recycling.pdf",
+    "https://vegetable.alic.go.jp/yasaijoho/senmon/0603_senmon2.html",
+    "https://www.jaia-jp.org/ja/stats/stats-new-car-ja/"
+   ]
+  },
+  {
+   "query": "1台あたりの年間粉末消費量 日本企業 採用 調達 事例",
+   "results": [
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/017_03_00.pdf",
+    "https://www.maff.go.jp/j/shokusan/sanki/soumu/attach/pdf/seisansei-134.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_12_20.pdf",
+    "https://www.mhlw.go.jp/content/11800000/001696694.pdf",
+    "https://www.keidanren.or.jp/CBCC/report/201707_CSR_jirei.pdf",
+    "https://www.jetro.go.jp/ext_images/_Reports/01/d2b735cd5d1a16df/20240055.pdf",
+    "https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_ind__0306S/-oc__020401S/-preBtn__2/",
+    "https://www.accenture.com/content/dam/accenture/final/accenture-com/document-4/Accenture-IEB-Revitalizing-Japan-Future-Through-Metabolic-Renewal.pdf",
+    "https://www.tsukasa-ind.co.jp/case/"
+   ]
+  },
+  {
+   "query": "annual powder consumption per metal 3D printer Japan customers demand imports",
+   "results": [
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/11/3d-printing-and-international-trade_3bcc6805/0de14497-en.pdf",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/japan",
+    "https://www.meticulousresearch.com/product/3d-printing-metal-powder-market-6994",
+    "https://www.linkedin.com/pulse/japan-3d-printing-consumables-market-0wgwf",
+    "https://www.fortunebusinessinsights.com/3d-printing-powder-market-116678",
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://www.trade.gov/market-intelligence/japan-3d-printing-market",
+    "https://en.wikipedia.org/wiki/3D_printing",
+    "https://www.marketdataforecast.com/market-reports/3d-printer-market",
+    "https://www.imarcgroup.com/japan-metal-powder-market"
+   ]
+  },
+  {
+   "query": "1台あたりの年間粉末消費量 供給契約 長期",
+   "results": [
+    "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/system_design_wg/pdf/004_04_00.pdf",
+    "https://pps-net.org/column/146478",
+    "https://www.enegaeru.com/obligation2securequantitativesupply",
+    "https://www.denkishimbun.com/sp/391683",
+    "https://www.kansai-td.co.jp/consignment/adjustment-supply.html",
+    "https://eneken.ieej.or.jp/data/13030.pdf",
+    "https://project.nikkeibp.co.jp/energy/atcl/19/feature/00001/00108/",
+    "https://www.occto.or.jp/assets/market-board/market/files/youryou_gaiyousetumei.pdf",
+    "https://note.com/gridshift/n/na332c4824420",
+    "https://newji.ai/procurement-purchasing/formulating-long-term-stable-supply-contracts-for-raw-materials-led-by-the-purchasing-department/"
+   ]
+  },
+  {
+   "query": "annual powder consumption per metal 3D printer market size CAGR 2030",
+   "results": [
+    "https://www.marknteladvisors.com/research-library/global-metal-3d-printing-market.html",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://www.grandviewresearch.com/industry-analysis/metal-3d-printing-market",
+    "https://additive-manufacturing-report.com/general/3d-printing-market-size/",
+    "https://www.linkedin.com/pulse/navigating-current-trends-industrial-large-scale-ypsyf",
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://www.researchgate.net/figure/The-global-market-for-3D-printing-and-the-estimation-for-the-current-decade-The-market_fig1_376690677",
+    "https://www.marketresearchfuture.com/reports/3d-printing-market-1031",
+    "https://www.strategicmarketresearch.com/market-report/3d-printing-market",
+    "https://www.verifiedmarketreports.com/product/powder-for-3d-metal-printing-market-size-and-forecast/"
+   ]
+  },
+  {
+   "query": "annual powder consumption per metal 3D printer price per kg",
+   "results": [
+    "https://jlc3dp.com/blog/metal-3d-printing-cost",
+    "https://www.makerverse.com/resources/3d-printing/metal-powder-costs-3d-printing/",
+    "https://additiveplus.com/product-category/3dprinters/metal-3d-printers/powder-metal-3d-printers/?srsltid=AYCX9vLfCtmcEoGNtzp0DujSmdDLqIrWb8-F0gmjbPcmz5IGXRORFduT",
+    "https://formlabs.com/blog/how-to-calculate-3d-printer-cost/",
+    "https://www.thesteelprinters.com/news/a-guide-to-calculating-the-cost-of-3d-printed-parts",
+    "https://www.raise3d.com/blog/3d-printing-cost-and-printer-price/",
+    "https://markforged.com/resources/blog/roi-for-metal-3d-printers",
+    "https://www.cads-additive.com/en/what-are-the-6-main-cost-factors-of-3d-metal-printing/",
+    "https://chanhontech.com/metal-3d-printing-cost-calculator/",
+    "https://metal3dpowder.com/posts/Alloys/metal-powder-for-3d-printing-price-guide/"
+   ]
+  },
+  {
+   "query": "annual powder consumption per metal 3D printer key players market share percent",
+   "results": [
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/India",
+    "https://www.thesteelprinters.com/news/metal-3d-printing-market-growth-usage-and-size",
+    "https://www.marketresearchfuture.com/reports/3d-printing-material-market-1912",
+    "https://additive-manufacturing-report.com/general/3d-printing-market-size/",
+    "https://www.linkedin.com/pulse/navigating-current-trends-industrial-large-scale-ypsyf",
+    "https://www.statista.com/topics/1969/additive-manufacturing-and-3d-printing/?srsltid=AYCX9vLr9XftQKzg0sYT2Eo9TFt5nPGHuhEvrQm1BKSrmiqBj5PfZ0v3",
+    "https://www.researchgate.net/publication/366821853_Large-Scale_3D_Printing_--_Market_Analysis",
+    "https://www.facebook.com/NewsContent.CCTVPLUS/videos/chinas-high-tech-3d-printers-see-expanding-applications-capture-90-percent-of-gl/1003428425517890/",
+    "https://www.verifiedmarketreports.com/product/metal-powder-for-3d-printing-market/"
+   ]
+  },
+  {
+   "query": "annual powder consumption per metal 3D printer number of suppliers concentrated OR fragmented",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/3d-printing-powder-market-report",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://www.facebook.com/3dprintcom/posts/austrian-powder-manufacturer-metalpine-has-been-purchased-by-3dprinting-leader-e/1638281231671997/",
+    "https://www.meticulousresearch.com/product/3d-printing-metal-powder-market-6994",
+    "https://www.desktopmetal.com/uploads/20230601_Metal3DSiteEvalGuide.pdf",
+    "https://www.thesteelprinters.com/news/metal-3d-printing-market-growth-usage-and-size",
+    "https://additive-manufacturing-report.com/general/3d-printing-report/",
+    "https://www.ifm.eng.cam.ac.uk/uploads/Research/TEG/Redistributing_material_supply_chains_for_3D_printing.pdf",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/11/3d-printing-and-international-trade_3bcc6805/0de14497-en.pdf",
+    "https://en.wikipedia.org/wiki/Fragmentation_(economics)"
+   ]
+  },
+  {
+   "query": "annual powder consumption per metal 3D printer consumption per machine per year",
+   "results": [
+    "https://3dstartpoint.com/3d-print-power-consumption-how-much-power-does-a-3d-printer-use/",
+    "https://www.sciencedirect.com/science/article/pii/S2666790821000288",
+    "https://jlc3dp.com/blog/how-much-electricity-does-a-3d-printer-use",
+    "https://www.reddit.com/r/3Dprinting/comments/1gmcr01/do_printers_take_a_lot_of_power/",
+    "https://www.flashforge.com/blogs/news/do-3d-printers-use-a-lot-of-electricity?srsltid=AYCX9vIWQJG7EJlxReJ3Wmpnihda9dYiSSdtbnjRs8RaD-1izxL1eyd_",
+    "https://www.youtube.com/watch?v=b77DZ-XObmA",
+    "https://bcn3d.com/3d-printer-power-consumption/",
+    "https://www.reddit.com/r/3Dprinting/comments/wuaoy1/for_anyone_wondering_how_much_power_the_3d/",
+    "https://www.creality.com/blog/do-3d-printers-use-a-lot-of-electricity"
+   ]
+  },
+  {
+   "query": "annual powder consumption per metal 3D printer qualification long-term supply agreement",
+   "results": [
+    "https://3dprintingindustry.com/news/6k-additive-signs-long-term-supply-agreement-with-siemens-energy-249404/",
+    "https://www.meticulousresearch.com/product/3d-printing-metal-powder-market-6994",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://www.makerverse.com/resources/3d-printing/metal-powder-costs-3d-printing/",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://www.facebook.com/powdmaxofficial/posts/whats-the-real-bottleneck-in-metal-3d-printing-in-2026hint-its-not-the-machines-/1418077947099007/",
+    "https://3dologie.com/wp-content/uploads/2021/12/Metal-Buyers-Guide-English.pdf?srsltid=AYCX9vJ4Gg_j4XEICEquxiqBTlnNvDVKY7zUIT0JVG0ItNyN3tD0MO9f",
+    "https://www.lasefinity.com/blogs/metal-3d-printers-for-small-businesses",
+    "https://www.desktopmetal.com/uploads/20230601_Metal3DSiteEvalGuide.pdf",
+    "https://casrai.org/guides/metal-powder-for-3d-printing"
+   ]
+  },
+  {
+   "query": "annual powder consumption per metal 3D printer distributor direct sales OEM approved materials",
+   "results": [
+    "https://www.eos.info/metal-solutions/metal-materials",
+    "https://www.protolabs.com/resources/guides-and-trend-reports/metal-3d-printing-materials-guide/",
+    "https://additive-manufacturing-report.com/general/3d-printing-report/",
+    "https://www.grandviewresearch.com/industry-analysis/3d-printing-powder-market-report",
+    "https://www.lasefinity.com/blogs/metal-3d-printers-for-small-businesses",
+    "https://www.quora.com/What-is-the-typical-price-of-Metal-powders-used-for-3d-printing",
+    "https://additiveplus.com/?srsltid=AYCX9vL-TQZyikU0pOpy5VayQXwxVpURkCEW37izGbUCMCf8vg-ge2UH",
+    "https://markforged.com/resources/metal-x/understanding-metal-3d-printing-powder-media-high-energy-events",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://www.verifiedmarketreports.com/product/metal-powder-for-3d-printing-market/"
+   ]
+  },
+  {
+   "query": "site:note.com 1台あたりの年間粉末消費量",
+   "results": [
+    "https://note.com/iceman_23/n/nfea3a09d5355",
+    "https://note.com/shareshima/n/n92aef134c209",
+    "https://note.com/kenohki/n/nc1e5000cb51b",
+    "https://note.com/suzuroku1919/n/na87340638cc9",
+    "https://note.com/better_equation/n/n68de433b73a4",
+    "https://note.com/all_zero/n/n876eb3b4b4b1",
+    "https://note.com/all_zero/n/n639df77e8576",
+    "https://note.com/sun_r_lab/n/n7e6f44854db0",
+    "https://note.com/kagawatomo/n/ndf2b3052b863",
+    "https://note.com/lyco_pene/n/n7dcc86b4b5c5"
+   ]
+  },
+  {
+   "query": "site:x.com 1台あたりの年間粉末消費量",
+   "results": [
+    "https://x.com/KagawaTomo/article/2080578592044724258",
+    "https://x.com/luigi_jpn/status/2056874954986307624",
+    "https://x.com/searched_press/article/2080307760659624367",
+    "https://x.com/ajinomoto/status/2065314449620353400",
+    "https://x.com/i/article/2107110878248321285",
+    "https://x.com/ibukiyama_drive/with_replies",
+    "https://x.com/t4k1k0/status/1991542466277962136",
+    "https://x.com/hkcafe23",
+    "https://x.com/h_gashiyama/status/1846515138335326389",
+    "https://x.com/hanafusa_hifuka/all"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 1台あたりの年間粉末消費量",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%BA%E3%83%89%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E8%80%83%E5%AF%9F2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AEcagr-125%E3%81%AB%E3%82%88%E3%82%8B%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%81%A8%E5%8F%8E%E7%9B%8A%E6%88%90%E9%95%B7%E3%81%AE%E4%BA%88%E6%B8%AC-brwce",
+    "https://jp.linkedin.com/pulse/%E8%87%AA%E5%8B%95%E3%82%BF%E3%82%A4%E3%83%A4%E3%82%B7%E3%83%A5%E3%83%AC%E3%83%83%E3%83%80%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE%E6%8E%A2%E6%B1%82%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%82%B7%E3%82%A7%E3%82%A2%E5%8F%8E%E7%9B%8A%E3%81%9D%E3%81%97%E3%81%A62026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E4%BA%88%E6%83%B3%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7-7510702251028557824-2x4ke",
+    "https://jp.linkedin.com/pulse/current-status-mlcc-market-june-2026-lillian-lee-ymbfc?tl=ja",
+    "https://jp.linkedin.com/pulse/physical-ai-has-attraction-problem-phil-hunter-tevee?tl=ja",
+    "https://jp.linkedin.com/pulse/%E3%82%B9%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%97%E3%83%BC%E3%83%AB%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E6%8B%A1%E5%A4%A7%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%BA%88%E6%B8%ACcagr-54%E3%81%A8%E5%BD%B1%E9%9F%BF%E8%A6%81%E5%9B%A0-axioraxc-n1eqe",
+    "https://jp.linkedin.com/pulse/engineering-finance-nexus-how-manufacturing-realities-kumar-mitesh-2ynpe?tl=ja",
+    "https://jp.linkedin.com/pulse/bani%E6%99%82%E4%BB%A3%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%8A%B9%E8%8C%B6%E3%83%90%E3%83%96%E3%83%AB%E3%81%AE%E6%A7%8B%E9%80%A0%E7%9A%84%E8%AA%B2%E9%A1%8C%E3%81%A8%E5%AE%A4%E5%86%85%E6%B0%B4%E8%80%95%E6%A0%BD%E5%9F%B9%E3%81%AB%E3%82%88%E3%82%8B%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%82%A8%E3%82%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E8%A8%AD%E8%A8%88-kentaro-ikemoto-d4kmc",
+    "https://jp.linkedin.com/pulse/future-market-revenue-growth-%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%E3%83%89%E3%83%AC%E3%83%83%E3%82%B5%E3%83%BC-89-cagr-2026-3xaye",
+    "https://jp.linkedin.com/pulse/%E6%9F%94%E8%BB%9F%E3%81%AA%E3%82%B3%E3%83%B3%E3%83%99%E3%82%A2%E5%B8%82%E5%A0%B4%E4%BA%88%E6%B8%AC%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%882026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B132%E3%81%AEcagr%E6%88%90%E9%95%B7%E5%B8%82%E5%A0%B4%E8%AA%B2-7520724350971416576-fm1be",
+    "https://jp.linkedin.com/pulse/additive-alchemy-how-3d-printing-reshaping-michael-chu-541tc?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 1台あたりの年間粉末消費量",
+   "results": [
+    "https://www.facebook.com/groups/941377315996887/posts/3972636346204287/",
+    "https://www.facebook.com/hokuden.jp/posts/%E7%9F%B3%E7%82%AD%E7%81%B0%E3%81%AE%E6%9C%89%E5%8A%B9%E6%B4%BB%E7%94%A8%E2%91%A1%E7%9A%86%E3%81%95%E3%82%93%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E7%9F%B3%E7%82%AD%E7%81%B0%E3%81%AE%E6%9C%89%E5%8A%B9%E6%B4%BB%E7%94%A8%E7%AC%AC2%E5%9B%9E%E7%9B%AE%E3%81%AE%E4%BB%8A%E6%97%A5%E3%81%AF%E5%BD%93%E7%A4%BE%E3%81%AE%E7%9F%B3%E7%82%AD%E7%81%AB%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%89%80%E3%81%AE%E4%B8%80%E3%81%A4%E8%8B%AB%E6%9D%B1%E5%8E%9A%E7%9C%9F%E7%99%BA%E9%9B%BB%E6%89%80%E3%82%92%E4%BE%8B%E3%81%AB%E7%9F%B3%E7%82%AD%E7%81%B0%E3%81%8C%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B%E3%81%BE%E3%81%A7%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E8%8B%AB%E6%9D%B1%E5%8E%9A%E7%9C%9F%E7%99%BA%E9%9B%BB%E6%89%80/783662435076648/",
+    "https://www.facebook.com/ericaangyal/posts/%E4%B8%96%E7%95%8C%E3%81%AB%E5%BA%83%E3%81%BE%E3%82%8B%E6%8A%B9%E8%8C%B6%E3%83%96%E3%83%BC%E3%83%A0%E6%8A%B9%E8%8C%B6%E3%81%AF%E3%81%93%E3%81%AE10%E5%B9%B4%E7%A8%8B%E4%B8%96%E7%95%8C%E3%82%92%E5%B8%AD%E5%B7%BB%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%81%AE%E9%AE%AE%E3%82%84%E3%81%8B%E3%81%AA%E7%B7%91%E8%89%B2%E3%81%AE%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%81%AE%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%95%E3%81%AF%E6%84%8F%E8%AD%98%E3%81%AE%E9%AB%98%E3%81%84%E4%BA%BA%E3%82%84%E9%A3%9F%E9%80%9A%E3%81%AE%E4%BA%BA%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E7%9E%AC%E3%81%8F%E9%96%93%E3%81%AB%E6%8B%A1%E6%95%A3%E3%81%95%E3%82%8C%E3%82%B0%E3%82%A6%E3%82%A3%E3%83%8D%E3%82%B9%E3%83%91/2563849813668475/",
+    "https://www.facebook.com/groups/1691433441058140/posts/3260203687514433/",
+    "https://www.facebook.com/yuko.asahina.372/videos/%E6%AF%8E%E5%9B%9E%E3%81%82%E3%81%A3%E3%81%A8%E3%81%84%E3%81%86%E9%96%93%E3%81%AB%E6%BA%80%E5%B8%AD%E3%81%A8%E3%81%AA%E3%82%8B%E5%A4%A7%E4%BA%BA%E6%B0%97%E4%BC%81%E7%94%BB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%84%E3%81%BE%E3%81%AE%E3%81%B6%E3%81%AE%E8%AA%BF%E5%91%B3%E6%96%99%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF%E6%AF%8E%E6%97%A5%E3%81%AE%E3%81%8A%E6%96%99%E7%90%86%E3%81%AB%E6%AC%A0%E3%81%8B%E3%81%9B%E3%81%AA%E3%81%84%E5%A1%A9%E3%81%8A%E5%A1%A9%E3%81%AE%E5%91%B3%E3%81%AA%E3%82%93%E3%81%A6%E3%81%A9%E3%82%8C%E3%82%82%E5%90%8C%E3%81%98%E3%81%A7%E3%81%97%E3%82%87%E3%81%AA%E3%82%93%E3%81%A6%E6%80%9D/1295655772758385/",
+    "https://www.facebook.com/theculinaryartofwar/posts/%E8%8A%A5%E8%98%AD%E7%89%9B%E8%82%89%E7%82%92%E9%A3%AF-%E6%BD%AE%E6%B1%95%E8%8A%A5%E8%98%AD%E7%89%9B%E8%82%89%E7%82%92%E9%A3%AF%E5%B0%91%E4%B8%8D%E4%BA%86%E6%9C%89%E8%91%97%E6%BD%AE%E6%B1%95%E4%BA%BA%E7%9A%84%E8%80%81%E4%B9%BE%E5%AA%BD%E4%B9%8B%E7%A8%B1%E7%9A%84%E6%B2%99%E8%8C%B6%E7%8E%8B%E6%BD%AE%E6%B1%95%E6%B2%99%E8%8C%B6%E9%86%AC%E5%A4%96%E5%8A%A0%E6%B2%99%E8%8C%B6%E7%B2%89%E7%89%9B%E8%82%89%E5%85%88%E7%94%A8%E9%B9%BD%E8%83%A1%E6%A4%92%E7%B2%89%E6%B2%99%E8%8C%B6%E7%8E%8B%E6%B2%99%E8%8C%B6%E9%86%AC%E5%92%8C%E7%94%9F%E7%B2%89%E6%8A%93%E5%8B%BB%E5%BE%8C%E5%8A%A0%E9%A6%99%E6%B2%B9%E7%84%B6%E5%BE%8C%E5%85%A5%E9%8D%8B%E7%82%92%E8%87%B3%E8%AE%8A%E8%89%B2%E5%87%BA%E9%8D%8B%E7%84%B6%E5%BE%8C%E4%BE%9D%E5%BA%8F/1603636327796976/",
+    "https://www.facebook.com/groups/630116513795865/posts/3943951149079035/",
+    "https://www.facebook.com/pocketstock/posts/%E4%B8%80%E9%A1%86%E9%9B%BB%E5%AE%B9%E8%A3%9D%E9%80%B2-ai-%E6%99%82%E4%BB%A3%E7%9A%84%E9%87%8E%E5%BF%83%E5%BE%9E%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6%E7%94%A2%E6%A5%AD%E7%8F%BE%E6%B3%81%E7%9C%8B%E4%B8%89%E5%A4%A7%E7%B5%90%E6%A7%8B%E6%80%A7%E6%88%90%E9%95%B7%E5%8B%95%E8%83%BD2026-%E5%B9%B4%E7%95%B6%E5%85%A8%E7%90%83%E7%A7%91%E6%8A%80%E5%9C%88%E9%83%BD%E5%9C%A8%E8%A8%8E%E8%AB%96-ai-%E6%99%B6%E7%89%87%E5%A4%A7%E5%9E%8B%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%E7%AE%97%E5%8A%9B%E7%AB%B6%E8%B3%BD%E6%9C%89%E4%B8%80%E7%A8%AE%E9%9B%B6%E4%BB%B6%E6%AD%A3%E5%9C%A8%E6%82%84%E6%82%84%E6%94%B9%E5%AF%AB%E4%BE%9B%E6%87%89%E9%8F%88/991854877027247/",
+    "https://www.facebook.com/fisheryTW/videos/%E7%9B%B4%E6%92%AD%E8%A3%9C%E6%AA%94%E7%9B%AE%E5%89%8D%E5%8E%9F%E8%AA%B2%E7%A8%8B%E7%9B%B4%E6%92%AD%E7%9A%84%E5%BD%B1%E7%89%87%E5%8F%AA%E8%83%BD%E5%9C%A8fb%E4%B8%8A%E4%BF%9D%E7%95%9930%E5%A4%A9%E5%9B%A0%E6%AD%A4%E5%B0%8F%E7%B7%A8%E4%BE%86%E8%A3%9C%E4%B8%8A721%E4%BA%8C%E7%9B%B4%E6%92%AD%E7%9A%84115%E5%B9%B4%E6%BC%81%E6%A5%AD%E9%9D%92%E5%B9%B4%E5%9C%8B%E9%9A%9B%E8%A1%8C%E9%8A%B7%E8%88%87%E9%9B%BB%E5%AD%90%E5%95%86%E5%8B%99%E7%B7%9A%E4%B8%8A%E8%AA%B2%E7%A8%8B%E7%AC%AC%E4%B8%80%E5%A0%82%E4%BB%A5%E5%89%B5%E6%96%B0%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88%E5%AF%A6%E8%B8%90%E6%B0%B8%E7%BA%8C%E6%B0%B4%E7%94%A2%E9%A4%8A%E6%AE%96%E8%AE%93%E6%9C%89/2153782165567352/",
+    "https://www.facebook.com/kamishin.net/videos/text%E6%B4%97%E3%81%A3%E3%81%9F%E3%81%B0%E3%81%8B%E3%82%8A%E3%81%AE%E3%82%BF%E3%82%AA%E3%83%AB%E3%81%AA%E3%81%AE%E3%81%AB%E6%BF%A1%E3%82%8C%E3%81%9F%E7%9E%AC%E9%96%93%E3%81%A0%E3%81%91%E3%81%88%E3%81%A3%E3%81%AA%E3%82%93%E3%81%8B%E8%87%AD%E3%81%86%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%E3%82%BF%E3%82%AA%E3%83%AB%E3%81%AF%E4%BD%BF%E7%94%A8%E3%81%A8%E6%B4%97%E6%BF%AF%E3%82%92%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%99%E3%81%86%E3%81%A1%E3%81%AB%E7%B9%8A%E7%B6%AD%E3%81%AE%E5%A5%A5%E3%81%AB%E8%90%BD%E3%81%A8%E3%81%97%E3%81%8D%E3%82%8C%E3%81%AA%E3%81%84%E6%B1%9A%E3%82%8C%E3%82%84%E8%8F%8C%E3%81%AE%E9%9B%86%E3%81%BE%E3%82%8A/3524772914367067/"
+   ]
+  },
+  {
+   "query": "1台あたりの年間粉末消費量 note 社長",
+   "results": [
+    "https://note.com/shareshima/n/n92aef134c209",
+    "https://note.com/ready_honest8301/n/nb115e2c64a05",
+    "https://note.com/kabuberry_/n/n7b7cb76a5bf0",
+    "https://note.com/kenohki/n/nc1e5000cb51b",
+    "https://note.com/clear_knot1605/n/n4acdd88b8738",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://www.enecho.meti.go.jp/about/whitepaper/2024/pdf/2_1.pdf",
+    "https://www.asahiinryo.co.jp/company/vending_machine/co2/",
+    "https://note.com/iceman_23/n/nfea3a09d5355",
+    "https://www.konaya.biz/pblog/7289"
+   ]
+  },
+  {
+   "query": "1台あたりの年間粉末消費量 X 投稿",
+   "results": [
+    "https://www.videor.co.jp/digestplus/article/76087.html",
+    "https://thunderbit.com/ja/blog/x-stats",
+    "https://x.com/ikedanoriyuki/status/1915062790659924393",
+    "https://note.com/rena_fr/n/n8b489fb4a2bf",
+    "https://service.aainc.co.jp/product/echoes/voices/0014",
+    "https://s--line.co.jp/x-twitter-business-2026/",
+    "https://www.youtube.com/watch?v=jQNZ6OSiCDY",
+    "https://www.advertimes.com/20240108/article445043/",
+    "https://hamakikaku.co.jp/archives/20635",
+    "https://www.konaya.biz/pblog/7289"
+   ]
+  },
+  {
+   "query": "annual powder consumption per metal 3D printer site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/key-trends-driving-growth-3d-printing-metal-powders-market-iomwf",
+    "https://www.linkedin.com/pulse/positive-outlook-metal-powders-3d-printer-market-trend-ougyf",
+    "https://www.linkedin.com/pulse/future-directed-energy-deposition-ded-metal-3d-printer-r4v2e",
+    "https://www.linkedin.com/top-content/design/3d-design-techniques/powder-bed-fusion-technologies/",
+    "https://www.linkedin.com/posts/phillips-corporation_phillipscorporation-additivemanufacturing-activity-7397257832766746624-Hne9",
+    "https://de.linkedin.com/company/one-click-metal",
+    "https://cn.linkedin.com/company/hbd-metal-3d-printer",
+    "https://tn.linkedin.com/company/spee3d",
+    "https://www.linkedin.com/in/mv2woods",
+    "https://www.linkedin.com/pulse/metal-powder-3d-printing-market-opportunities-drivers-hxo2c"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,2646 @@
+{
+ "name": "パワー半導体の放熱部材と材料",
+ "en": "power semiconductor thermal management materials heat sink copper",
+ "aliases": [
+  "パワー半導体 放熱 材料",
+  "SiC 放熱 基板 材料",
+  "パワーモジュール 放熱部材"
+ ],
+ "context": "パワー半導体",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:54:24.861891+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "ディスクリートデバイスの2025年の市場規模は373億米ドルで、2035年には市場収益の61.8%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "デバイス構成別パワー半導体市場規模、2025年および2035年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "パワーモジュールは2025年に市場収益の33.0%を占め、2035年には372億6,000万米ドルの市場規模に達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "GaN HEMTおよびトランジスタの2025年の市場規模は26億1,000万米ドルで、2035年には164億8,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "SiCパワーモジュールは2025年に市場の5.3%を占め、2035年には190億1,000万米ドルの市場規模に達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "シリコンパワー半導体の2025年の市場規模は478億2,000万米ドルで、2035年には市場収益の68.5%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウムの市場規模は2025年に19億4,000万米ドルに達し、2026〜2035年に年平均成長率（CAGR）18.8%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "低電圧デバイスの市場規模は2025年に267億2,000万米ドルに達し、2035年には429億1,000万米ドルに拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "SMDパッケージの市場規模は2025年に222億6,000万米ドルに達し、2035年には市場売上高の40.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "EV・充電インフラ分野の市場規模は、2025年に111億3,000万米ドルに達し、2035年には253億5,000万米ドルに拡大すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "通信・データセンター電源分野の市場規模は、2025年に55億6,000万米ドルに達し、2035年には売上高の12.0%を占めると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のパワーエレクトロニクス市場規模は、2025年には437億4000万米ドルと評価され、2026年の463億2000万米ドルから2034年には732億7000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は5.9%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウム（GaN）半導体デバイス市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "光ファイバー市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "固体変圧器市場規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "スピーカー市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "KNX製品市場規模、シェア、成長率、分析、レポート（2034年）",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "2027～2030年の市場規模・需要予測",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "Q7．市場規模も掲載していますか？",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "投資額は約50億円を予定しており、2030年度に売上高200億円を目指しています",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年度には高性能半導体分野で売上高200億円の達成を目指しているとのことです",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "は2024年を85.4億ドル、2033年に125.9億ドル（CAGR 4.5%）と予測しています",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "は2024年を88億ドル、2025〜2034年のCAGRを10%と予測しており、調査機関によって成長率の見方に幅があります",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "によれば、2024年の市場規模は約85.4億ドルで、2033年には125.9億ドル（CAGR 4.5%）に達すると予測されています",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "は2024年を約88億ドルと評価し、2025〜2034年にかけてCAGR 10%で成長すると予測しています",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "は2025年時点の市場規模を86.1億ドルとし、2034年には150.7億ドル（CAGR 6.42%）に達するとの見通しを示しています",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Substrates Market Size, Share | Industry Report, 2033 – Grand View Research",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Substrate Market Size, Share & Forecast Report – 2034 – Global Market Insights",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック基板市場規模、シェア、成長チャート（2034年まで） – Straits Research",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "金属ベース高放熱基板とは、アルミや銅板などと高熱伝導樹脂を貼り合わせた特殊な基板で、日本電子回路工業会（JPCA）がまとめている国内電子回路基板の品種別生産状況によれば、2019年の市場規模は前年比2割以上伸長して150億円超に拡大しているという",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=3318",
+    "pass": 3
+   },
+   {
+    "quote": "今後とも年率20％以上の高成長が見込まれ、2～3年以内には200億円市場の形成も視野に入ってきた",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=3318",
+    "pass": 3
+   },
+   {
+    "quote": "●自動車向け放熱部材 3,330億円(86.7%増)",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25100",
+    "pass": 3
+   },
+   {
+    "quote": "●サーバー向け放熱部材 1,293億円(3.9倍)",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25100",
+    "pass": 3
+   },
+   {
+    "quote": "価格幅が広がっているほか、自動車向けでは構造の変化により駆動用電池(LiB)などで従来ほどの熱伝導率を必要としないケースも出始めているが、xEVや通信、家電、産業機器、電鉄車両など、幅広い用途でサーマルマネジメントの中核を担っていることから、市場は今後も拡大し、2035年には1兆380億円が予測される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25100",
+    "pass": 3
+   },
+   {
+    "quote": "次世代パワー半導体の中でも開発が進んでいるSiCは、2025年見込みで約4,558億円の市場ですが、2035年には約7.4倍の約2.9兆円にまで成長しているとの予測もあります",
+    "url": "https://www.oki.com/jp/showroom/virtual/column/c-21.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の世界市場規模は約258億1,000万ドルに達し、前年比8.0％の成長を記録しました",
+    "url": "https://www.klv.co.jp/corner/power-semiconductor-cooling.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年のメーカー別売上高ランキングでは、インフィニオンテクノロジーズ（ドイツ）が48.69億ドルで首位を占め、オンセミコンダクター（アメリカ）、STマイクロエレクトロニクス（スイス）が続きます",
+    "url": "https://www.klv.co.jp/corner/power-semiconductor-cooling.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業では三菱電機が14.76億ドルで最上位に位置し、富士電機も11.73億ドルでランキングに食い込んでいます",
+    "url": "https://www.klv.co.jp/corner/power-semiconductor-cooling.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年にはSiCパワー半導体の市場規模が29億2,000万ドルに達し、2030年には全パワー半導体市場の17.4％（64億5,000万ドル）を占めると予測されています",
+    "url": "https://www.klv.co.jp/corner/power-semiconductor-cooling.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のTIM市場は2024年時点で約30億ドル規模と推計され、2030年に向けて年率8〜10%の成長が見込まれます",
+    "url": "https://semi-engineers.com/materials-tim-thermal-interface/",
+    "pass": 3
+   },
+   {
+    "quote": "化合物半導体ウエハに関する最新ニュース1. 2030年までに市場規模67億ドルへ急成...",
+    "url": "https://semi-engineers.com/materials-tim-thermal-interface/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "2026〜2035年の年平均成長率（CAGR）は5.80%で、2035年には975億2,000万米ドルに達する見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウムの市場規模は2025年に19億4,000万米ドルに達し、2026〜2035年に年平均成長率（CAGR）18.8%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "低電圧デバイスの市場規模は2025年に267億2,000万米ドルに達し、2035年には429億1,000万米ドルに拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "標準モジュール形状は2025年に売上高の17.0%を占め、2026〜2035年に年平均成長率（CAGR）8.0%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "パワーエレクトロニクス市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のパワーエレクトロニクス市場規模は、2025年には437億4000万米ドルと評価され、2026年の463億2000万米ドルから2034年には732億7000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は5.9%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "直近では炭化ケイ素（SiC）や窒化ガリウム（GaN）を使ったデバイスの開発・実用化・応用拡大が進んでいます（図3）",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "そして、米テスラが2017年に市場投入したEV「Model 3」のモーター駆動用インバーターに採用して以降、EVでの採用拡大が加速",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "は2024年を85.4億ドル、2033年に125.9億ドル（CAGR 4.5%）と予測しています",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "は2024年を88億ドル、2025〜2034年のCAGRを10%と予測しており、調査機関によって成長率の見方に幅があります",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "によれば、2024年の市場規模は約85.4億ドルで、2033年には125.9億ドル（CAGR 4.5%）に達すると予測されています",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "は2024年を約88億ドルと評価し、2025〜2034年にかけてCAGR 10%で成長すると予測しています",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "は2025年時点の市場規模を86.1億ドルとし、2034年には150.7億ドル（CAGR 6.42%）に達するとの見通しを示しています",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "金属ベース高放熱基板とは、アルミや銅板などと高熱伝導樹脂を貼り合わせた特殊な基板で、日本電子回路工業会（JPCA）がまとめている国内電子回路基板の品種別生産状況によれば、2019年の市場規模は前年比2割以上伸長して150億円超に拡大しているという",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=3318",
+    "pass": 3
+   },
+   {
+    "quote": "2025年はxEVの在庫調整が順調に進んでいることに加え、生成AIの需要増加に伴いAIサーバー向けが堅調であり、市場は前年比二桁増が見込まれる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25100",
+    "pass": 3
+   },
+   {
+    "quote": "価格幅が広がっているほか、自動車向けでは構造の変化により駆動用電池(LiB)などで従来ほどの熱伝導率を必要としないケースも出始めているが、xEVや通信、家電、産業機器、電鉄車両など、幅広い用途でサーマルマネジメントの中核を担っていることから、市場は今後も拡大し、2035年には1兆380億円が予測される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25100",
+    "pass": 3
+   },
+   {
+    "quote": "2025年はAppleで新たにベーパーチャンバーが採用されており、市場は大幅に拡大するとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25100",
+    "pass": 3
+   },
+   {
+    "quote": "駆動用電池(LiB)やインバーター向けはxEV需要の影響を受けるため、2024年は伸びが鈍化したが、長期的には大幅な拡大が予想される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25100",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野での伸びが市場をけん引しており、2022年は前年比74.0%増と大きく拡大した",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23084",
+    "pass": 3
+   },
+   {
+    "quote": "日本だけでなく、北米、欧州、中国での採用増加や、メーカーによる生産能力の増強もあり、2023年以降も引き続き拡大が予想される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23084",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の世界市場規模は約258億1,000万ドルに達し、前年比8.0％の成長を記録しました",
+    "url": "https://www.klv.co.jp/corner/power-semiconductor-cooling.html",
+    "pass": 3
+   },
+   {
+    "quote": "この成長は続くと予測されており、2025年には約243億5,100万ドル、2030年には369億8,000万ドルにまで拡大すると見込まれています",
+    "url": "https://www.klv.co.jp/corner/power-semiconductor-cooling.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、2025年から2032年にかけての年平均成長率（CAGR）は6.2％と予測されています",
+    "url": "https://www.klv.co.jp/corner/power-semiconductor-cooling.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、5G基地局やデータセンター、電気自動車（EV）、再生可能エネルギー機器が市場拡大を強力に後押ししています",
+    "url": "https://www.klv.co.jp/corner/power-semiconductor-cooling.html",
+    "pass": 3
+   },
+   {
+    "quote": "Q. パワー半導体市場が拡大すれば材料株も必ず伸びますか？",
+    "url": "https://note.com/loots/n/n8fdd572197c5",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "検証やOEM認証に時間を要するため、新世代SiC・GaN製品の商品化が遅れます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "同国では、自動車OEM、ティア1サプライヤー、産業機械メーカーが集積しており、駆動用モジュール、IGBTプラットフォーム、高度な駆動システムへの需要が集中しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "材料メーカーだけの市場でも、冷却装置メーカーだけの市場でもありません",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "商社・販売会社が売れるもの",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "電子部品商社",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "機械・設備商社",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "商社として次に扱う商材を探している",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "Q4．商社でも使えますか？",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "TIM、グリス、グラファイト、QD、ホース、センサー、フィルター、冷却液など、商社が扱える可能性のある商材についても整理しています",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "ケイエルブイは、ハイパースペクトルカメラ・光学部品・光源など世界中の光学機器を取り扱う専門商社です",
+    "url": "https://www.klv.co.jp/corner/power-semiconductor-cooling.html",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "その結果、デバイスや認定にかかるコストの上昇をシステム全体での利点が正当化できる分野では、新たな設計が炭化ケイ素（SiC）や窒化ガリウム（GaN）へと移行しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測の焦点は、ワイドバンドギャップデバイスが普及するかどうかではなく、製造能力、認定の進捗、材料の供給状況によって、認定済み設計がどの程度の速さで量産売上に結び付くかです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車および産業用途で大口径SiCデバイスの認定が順調に進めば、モジュールのシェアは段階的に拡大すると見込まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、デバイス性能、パッケージの信頼性、自動車向け認定取得の支援を組み合わせて提供できるモジュールサプライヤーの役割が高まっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "国際エネルギー機関は、データセンターの電力消費量が2030年までにおよそ2倍になると予測しており",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "供給の集中により、GaNメーカーは調達の混乱、コストの変動、認定取得の遅延にさらされます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車向け認定取得に要する期間",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "早期に認定を取得したサプライヤーは、プラットフォームの技術サイクルが切り替わる前に設計採用を獲得するうえで有利です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "ガリウムの供給集中は、材料使用量が少なくても、特殊な精製・基板供給網への依存がなくなるわけではないため、重要なリスクとなります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "供給が途絶すると、エピタキシャルウエハーやデバイスのサプライヤーの調達期間が長期化し、高周波電力変換用途からの需要が急増する一方で、認定済み材料の供給が追いつかない事態が生じる可能性があります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、SiC と GaN の採用は、デバイスの物理特性だけでなく、認定プロセスの厳格さや供給の強靭性にも左右される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "多様な回路構成に対応できる柔軟性がある一方、認定に要する作業、熱設計、組み立ての複雑さが顧客のコスト負担を大きくする用途では、統合型モジュールの採用が拡大している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "モジュールはスイッチングデバイスを熱管理構造および相互接続構造とともにパッケージ化し、認定済みのアセンブリとして提供することで、機器メーカーの設計負担を軽減する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "機器の使用期間が長く、高い信頼性が求められるため、認定実績の厚みと実使用環境での性能が、競争力を左右する重要な要素となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "車載品質のSiCモジュールと、顧客認定を長期にわたり支援する体制を備えたサプライヤーは、最も付加価値の高い設計採用案件を獲得するうえで有利な立場にあります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "定期刊行物「Yano E plus」の 2022年4月号です",
+    "url": "https://mono.ipros.com/cg1/%E6%94%BE%E7%86%B1%E6%9D%90/",
+    "pass": 3
+   },
+   {
+    "quote": "ここ数年間、各国政府によるカーボンニュートラル達成へのコミットや、実効性のある脱炭素施策の実施の合意など、より厳格な取り組みが相次いで実施される傾向にあります",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "これまでパワー半導体は、約60年間にわたってシリコン（Si）を基板材料として利用し、主に素子構造を改良することで性能や電力効率を改善してきました",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間200件以上の受託試験実績を通じ",
+    "url": "https://www.f3d.sanken.osaka-u.ac.jp/wp-content/uploads/2022/08/99ba65305f3c0f4ce39d80e9cf1583e2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サイクル試験に関しては、年間200件以上の",
+    "url": "https://www.f3d.sanken.osaka-u.ac.jp/wp-content/uploads/2022/08/99ba65305f3c0f4ce39d80e9cf1583e2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "足元の堅調な受注を背景に、同社の高放熱・高耐熱CCLの年間売上高は年率5％前後の成長を見込む",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=3318",
+    "pass": 3
+   },
+   {
+    "quote": "すでに国内外の車載部品メーカー複数社から認定を取得した",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=3318",
+    "pass": 3
+   },
+   {
+    "quote": "駆動用電池(LiB)では、放熱部材に要求される熱伝導率は高くないものの、車両1台あたりの使用量が多いため、安価な中国メーカーによる放熱ギャップフィラーが中心となっている",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25100",
+    "pass": 3
+   },
+   {
+    "quote": "ベーパーチャンバーは、2024年よりAIサーバーのGPUを中心に採用されており、今後はラック当たりの使用量の増加が期待される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25100",
+    "pass": 3
+   },
+   {
+    "quote": "月刊誌・定期刊行物",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116062",
+    "pass": 3
+   },
+   {
+    "quote": "雑誌・定期刊行物",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116062",
+    "pass": 3
+   },
+   {
+    "quote": "すべての月刊誌・定期刊行物",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116062",
+    "pass": 3
+   },
+   {
+    "quote": "今後の技術進化を見据え、定期的な情報収集と適応が求められます",
+    "url": "https://www.klv.co.jp/corner/power-semiconductor-cooling.html",
+    "pass": 3
+   }
+  ],
+  "上位シェア・主要企業": [
+   {
+    "quote": "パワー半導体市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Infineon Technologies AG が 2025 年に 19.5% 超の市場シェアを占め、首位となった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場シェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車および産業用途で大口径SiCデバイスの認定が順調に進めば、モジュールのシェアは段階的に拡大すると見込まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "半導体材料別パワー半導体市場シェア、2025年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "確立されたシリコンIGBTプラットフォームが引き続き重要である一方、高出力機器や効率が重視される機器では先進材料のシェアが拡大しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "地域別パワー半導体市場シェア、2025年および2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "パワー半導体市場のシェアと競争環境",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "パワー半導体市場のシェアは中程度に集中しており、2025年には上位5社が合計で売上高の約51.5%を占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Infineon Technologies AGは、2025年に19.5%のシェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "STMicroelectronics N.V.は、2025年に10.5%のシェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "onsemiは、2025年に9.5%のシェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "競争は大手サプライヤー以外にも広がっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年現在、アジア太平洋地域はパワー半導体市場で最大のシェアを占めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "パワー半導体市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "パワーエレクトロニクス市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "パワーエレクトロニクス市場の規模、シェア、トレンド分析レポート：デバイスタイプ別（パワーディスクリート、パワーモジュール、パワーIC）、材料別（炭化ケイ素、窒化ガリウム、サファイア、その他）、用途別（電力管理、UPS、輸送、再生可能エネルギー、その他）、産業分野別（通信、産業、自動車、家電、軍事・防衛、エネルギー・電力、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に42.5%の市場シェアを占め、パワーエレクトロニクス市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "パワーディスクリートは、2025年にパワーエレクトロニクス市場で39.2%のシェアを獲得し、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "パワーエレクトロニクス市場において、ディスクリートパワーデバイス分野は圧倒的なシェアを誇り、2025年には世界市場シェアの39.2%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "パワーモジュールおよびパワーICの分野も、産業用途および民生用途における小型で高性能な電源管理ソリューションへの需要の高まりを背景に、市場の大きなシェアを占めている",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "電力管理は、2025年に34.7%のシェアを獲得し、パワーエレクトロニクス市場を席巻するだろう",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "電力管理分野はパワーエレクトロニクス市場を牽引し、2025年には世界市場シェアの34.7%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "無停電電源装置（UPS）、輸送、再生可能エネルギー、その他の用途分野も、無停電電源装置、電気自動車、クリーンエネルギーインフラへの投資増加に支えられ、相当な市場シェアを維持している",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域はパワーエレクトロニクス市場を牽引しており、世界市場シェアの42.5%を占め、2025年には185億9000万米ドルの規模に達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に42.5%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウム（GaN）半導体デバイス市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "光ファイバー市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業業績",
+    "url": "https://www.semiconportal.com/archive/editorial/industry/250522-taiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "太陽インキ製造はプリント回路基板（PCB）に部品を実装する電極以外を覆う緑色の樹脂であるソルダーレジストでは大きなシェアを持つ材料コンパウンドメーカー",
+    "url": "https://www.semiconportal.com/archive/editorial/industry/250522-taiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3位:2025年CIS売上高トップは市場シェア50%のソニー、なぜTSMCと合弁するの?",
+    "url": "https://www.semiconportal.com/archive/editorial/industry/250522-taiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "第6位:最新DRAMランキング、トップスリーのシェア低下、中国CXMT急成長",
+    "url": "https://www.semiconportal.com/archive/editorial/industry/250522-taiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界主要企業",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "日本主要企業",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場でのシェアトップ10の中に、三菱電機、富士電機、東芝、ルネサスエレクトロニクス、ロームの5社が食い込んでいます",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのサービスを利用して、チップ設計だけに注力するファブレス半導体メーカーが数多く登場し、大きなシェアを獲得しています",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "▼この記事をSNSでシェアする",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "・世界シェアNo.1の超高圧ＵＶラン",
+    "url": "https://www.f3d.sanken.osaka-u.ac.jp/wp-content/uploads/2022/08/99ba65305f3c0f4ce39d80e9cf1583e2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "> 放熱基板TOP",
+    "url": "https://www.allied-material.co.jp/products/heatspreader.html",
+    "pass": 3
+   },
+   {
+    "quote": "放熱基板TOP",
+    "url": "https://www.allied-material.co.jp/products/heatspreader.html",
+    "pass": 3
+   },
+   {
+    "quote": "Page top",
+    "url": "https://www.allied-material.co.jp/products/heatspreader.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要メーカーは、高性能化、小型化、コスト削減などの課題に取り組みながら、新たな用途開発や生産能力の拡大を進めています",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック基板市場規模、シェア、成長チャート（2034年まで） – Straits Research",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、層間絶縁材料の最新動向から市場規模、種類、用途、主要メーカーまで、エンジニアが知っておくべき情報を徹底解説します",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "用途・市場・主要メーカーをエンジニア視点で解説します",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "封止材・アンダーフィル完全ガイド〜種類・最新市場動向・主要メーカーをエンジニア視点で解説【2025年版】",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "種類・用途・市場動向・主要メーカーをエンジニア視点で解説します",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシや住友ベークライトといった主要企業が、絶縁放熱回路基板や高放熱絶縁樹脂シートなどを提供し、高性能TIMsや封止材開発を牽引している",
+    "url": "https://troy-technical.jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BE%E7%86%B1%E6%9D%90%E6%96%99%E3%83%BB%E7%B4%A0%E6%9D%90%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC33%E7%A4%BE%E3%81%AE%E8%A3%BD%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88%EF%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "よかったらシェアしてね！",
+    "url": "https://troy-technical.jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BE%E7%86%B1%E6%9D%90%E6%96%99%E3%83%BB%E7%B4%A0%E6%9D%90%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC33%E7%A4%BE%E3%81%AE%E8%A3%BD%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88%EF%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "市場拡大で大手企業も新規参入",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=3318",
+    "pass": 3
+   },
+   {
+    "quote": "放熱基板TOP",
+    "url": "https://www.allied-material.co.jp/products/heatspreader/use.html",
+    "pass": 3
+   },
+   {
+    "quote": "Page top",
+    "url": "https://www.allied-material.co.jp/products/heatspreader/use.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、中国メーカーが高い価格競争力により多くの品目でシェアを拡大させており、日米欧メーカーは以前に増して高熱伝導率品など付加価値の高い製品への注力度を高めている",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25100",
+    "pass": 3
+   },
+   {
+    "quote": "そのSiC半導体は、欧州に拠点のある大手半導体メーカーである",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116062",
+    "pass": 3
+   },
+   {
+    "quote": "日本は世界シェアの約15%を占める",
+    "url": "https://www.oki.com/jp/showroom/virtual/column/c-21.html",
+    "pass": 3
+   },
+   {
+    "quote": "次世代パワー半導体において、日本は世界シェアの約15%を占めています",
+    "url": "https://www.oki.com/jp/showroom/virtual/column/c-21.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロームは、2021年のSiC世界シェアの17%、世界第4位を誇ります",
+    "url": "https://www.oki.com/jp/showroom/virtual/column/c-21.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、SiCウエハー市場を見ると、ロームグループのSiCrystal社が15%のシェアを獲得しています",
+    "url": "https://www.oki.com/jp/showroom/virtual/column/c-21.html",
+    "pass": 3
+   }
+  ],
+  "ニッチ度（供給元の数・寡占）": [
+   {
+    "quote": "このため、既存の SiC および GaN メーカーに代わる、信頼性の高い大量供給が可能な供給企業の数は限られる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "こうした課題は、特に研究開発予算が限られているメーカーにとって、製品の商品化を遅らせ、採用を阻害する要因となり得ます",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "競争軸を見極めた新規参入が選択肢の一つに！～",
+    "url": "https://mono.ipros.com/cg1/%E6%94%BE%E7%86%B1%E6%9D%90/",
+    "pass": 3
+   },
+   {
+    "quote": "新規参入可能性",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "新規参入も続々",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=3318",
+    "pass": 3
+   },
+   {
+    "quote": "また、車の電動化など新市場台頭で、既存のデンカやニッパツ、日本理化工業所などに分け入って、住友ベークライト、三菱マテリアルなど新規参入メーカーも相次いでいる",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=3318",
+    "pass": 3
+   },
+   {
+    "quote": "すでに国内外の車載部品メーカー複数社から認定を取得した",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=3318",
+    "pass": 3
+   },
+   {
+    "quote": "市場拡大で大手企業も新規参入",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=3318",
+    "pass": 3
+   },
+   {
+    "quote": "さらには、積水化学や三菱マテリアルなども新規参入を図る",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=3318",
+    "pass": 3
+   },
+   {
+    "quote": "同市場に新規参入が相次ぐのは、今後LEDヘッドライトやHUD、EV用のオンボードチャージャーのほか、産業用パワーモジュール向けなどに市場が大きく拡大することが見込まれているためだ",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=3318",
+    "pass": 3
+   },
+   {
+    "quote": "その一つである風力発電には、安定した風量確保と騒音対策の観点で、立地場所が限られるという課題がありました",
+    "url": "https://www.allied-material.co.jp/products/heatspreader/use.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売開始から1年を経て類似製品が複数社から供給されるようになり、これこそ誰でもが実感できる嬉しい実用化になっている",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116062",
+    "pass": 3
+   }
+  ],
+  "日本の買い手と供給元": [
+   {
+    "quote": "国内のEV関連プログラム、大規模インフラへの投資、半導体製造への優遇措置を背景に、自動車向けSiC、高度なパワーモジュール、高周波電力変換デバイスの需要が高まっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "国内のEV生産、充電インフラの拡充、再生可能エネルギーの導入が、パワーモジュールやディスクリートデバイスに対する大規模な需要基盤を支えています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本は2025年に世界売上高の7.6%を占め、2035年には66億7,000万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "戦略的に重要な半導体技術・生産能力を国内で確保しようとする動きは、先進パワーデバイスの開発と生産の現地化をさらに後押しする可能性があります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "電動二輪車・三輪車、送電網への投資、電子機器生産の拡大により、国内の需要基盤が広がっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のパワーエレクトロニクス市場に関する洞察",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のパワーエレクトロニクス市場は、2025年には46億5000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "における情報を集めた国内最大級の技術データベースサイトです",
+    "url": "https://mono.ipros.com/cg1/%E6%94%BE%E7%86%B1%E6%9D%90/",
+    "pass": 3
+   },
+   {
+    "quote": "日本旭立科技株式会社",
+    "url": "https://mono.ipros.com/cg1/%E6%94%BE%E7%86%B1%E6%9D%90/",
+    "pass": 3
+   },
+   {
+    "quote": "第1位:SK hynixが日本にメモリ工場~韓国2カ所にも新工場建設へ、設備投資一気に加速~",
+    "url": "https://www.semiconportal.com/archive/editorial/industry/250522-taiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "第9位:日本国内にデータセンター設立への動きが活発に、秋田県に続き四国も",
+    "url": "https://www.semiconportal.com/archive/editorial/industry/250522-taiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "「今日のニュース」の著作権は日本経済新聞社及び日刊工業新聞社に帰属します",
+    "url": "https://www.semiconportal.com/archive/editorial/industry/250522-taiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内関連会社一覧",
+    "url": "https://www.sumibe.co.jp/product/hpp/heat-dissipation-materials/heat-dissipation-sheet/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本主要企業",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "国内で誰が何を作れるのか",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "国内案件・設備投資",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "東京ビッグサイト / Tokyo Big Sight, Japan",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "インテックス大阪 / INTEX Osaka, Japan",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "幕張メッセ / Makuhari Messe, Japan",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用モーターなどを開発・販売している東芝三菱電機産業システムズによると、世界中で発電されている電力のうちの約5割、日本では6割以上が、何らかのモーターを動かすために消費されているそうです",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業が強いパワー半導体は国の期待も大きい",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "パワー半導体の領域は、現時点でも日本企業の国際競争力が維持されている数少ない半導体ビジネスです",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年6月に打ち出された「半導体・デジタル産業戦略（いわゆる半導体戦略）」に沿って国内半導体産業の再興を目指す経済産業省は、パワー半導体の領域の強化も図っています",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "【Ga2O3】日本のスタートアップが技術開発をリード",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "現時点では結晶成長とデバイス作成それぞれが研究開発レベルにありますが、日本のスタートアップであるFLOSFIAとノベルクリスタルテクノロジーが、それぞれ高い潜在能力を引き出すための技術開発を着々と進めています",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、佐賀大学が世界最高出力を実現したダイヤモンドデバイスを実現した成果を挙げています",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © RX Japan GK",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "受託試験実績を持ち国内最大級規模の試",
+    "url": "https://www.f3d.sanken.osaka-u.ac.jp/wp-content/uploads/2022/08/99ba65305f3c0f4ce39d80e9cf1583e2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "🏭 国内メーカー",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシ、パワー半導体向け絶縁放熱回路基板の生産能力を2.5倍に増強へ",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシは、パワー半導体モジュール向け絶縁放熱回路基板の生産能力を2026年度までに現在の約2.5倍に引き上げると発表しました",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシ、チップレット集積向け「ハイセラムキャリア」の生産能力を3倍に増強（2025年11月）",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシは2025年11月、AIや自動運転向けチップレット集積工程に使用する透光性セラミックス製サポートウエハー「ハイセラムキャリア」について、2027年度までに生産能力を現在の約3倍に増強すると発表したと報じられています",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "特に中国、日本、韓国、インドが主要な消費国および製造拠点となっています",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "中国は生産と消費の両面でリーダーであり、日本と韓国も高性能エレクトロニクスや先端通信機器への需要が高まっています",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "EE Times Japan（2025年11月）",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "の報道によれば、日本ガイシはチップレット集積工程向けの透光性セラミックス製サポートウエハー「ハイセラムキャリア」の生産能力を2027年度までに約3倍に増強する計画を発表したとされています",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ファインセラミックス",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "日本特殊陶業",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、日本ガイシはパワー半導体モジュール向け基板の生産能力を2.5倍に増強する計画に加え、チップレット向けセラミックス部材の生産能力についても3倍増強を発表しており、高性能半導体分野への対応を積極的に進めています",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "絶縁放熱回路基板の生産能力を約2.5倍に増強 | ニュース – 日本ガイシ",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシ、チップレット向け支持材の生産能力を3倍に増強へ – EE Times Japan",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の放熱材料・素材メーカー33社の製品リスト：熱伝導性封止材の進化 | 技術情報発信（素材技術を未来へ）",
+    "url": "https://troy-technical.jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BE%E7%86%B1%E6%9D%90%E6%96%99%E3%83%BB%E7%B4%A0%E6%9D%90%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC33%E7%A4%BE%E3%81%AE%E8%A3%BD%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88%EF%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の放熱材料・素材メーカー33社の製品リスト：熱伝導性封止材の進化",
+    "url": "https://troy-technical.jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BE%E7%86%B1%E6%9D%90%E6%96%99%E3%83%BB%E7%B4%A0%E6%9D%90%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC33%E7%A4%BE%E3%81%AE%E8%A3%BD%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88%EF%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月に更新されたこの製品リストは、日本を代表する33社の放熱材料メーカーの製品概要を網羅している",
+    "url": "https://troy-technical.jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BE%E7%86%B1%E6%9D%90%E6%96%99%E3%83%BB%E7%B4%A0%E6%9D%90%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC33%E7%A4%BE%E3%81%AE%E8%A3%BD%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88%EF%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシや住友ベークライトといった主要企業が、絶縁放熱回路基板や高放熱絶縁樹脂シートなどを提供し、高性能TIMsや封止材開発を牽引している",
+    "url": "https://troy-technical.jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BE%E7%86%B1%E6%9D%90%E6%96%99%E3%83%BB%E7%B4%A0%E6%9D%90%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC33%E7%A4%BE%E3%81%AE%E8%A3%BD%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88%EF%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "この課題に対応するため、放熱材料の重要性がますます高まっており、日本の素材メーカーは長年にわたり、この分野で世界をリードする技術開発を行ってきました",
+    "url": "https://troy-technical.jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BE%E7%86%B1%E6%9D%90%E6%96%99%E3%83%BB%E7%B4%A0%E6%9D%90%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC33%E7%A4%BE%E3%81%AE%E8%A3%BD%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88%EF%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月に更新されたこの包括的な製品リストは、日本の主要な放熱材料メーカー33社が提供する製品群を紹介しており、熱管理ソリューションを探す企業にとって貴重な情報源となっています",
+    "url": "https://troy-technical.jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BE%E7%86%B1%E6%9D%90%E6%96%99%E3%83%BB%E7%B4%A0%E6%9D%90%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC33%E7%A4%BE%E3%81%AE%E8%A3%BD%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88%EF%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "特に注目すべきは、日本ガイシ株式会社が提供する絶縁放熱回路基板（AMB）や、住友ベークライト株式会社の高放熱絶縁樹脂シートなどの製品です",
+    "url": "https://troy-technical.jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BE%E7%86%B1%E6%9D%90%E6%96%99%E3%83%BB%E7%B4%A0%E6%9D%90%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC33%E7%A4%BE%E3%81%AE%E8%A3%BD%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88%EF%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの製品は、高性能な熱界面材料や封止材の開発における日本の技術的優位性を示しており、多様な産業ニーズに応えるための継続的な努力がうかがえます",
+    "url": "https://troy-technical.jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BE%E7%86%B1%E6%9D%90%E6%96%99%E3%83%BB%E7%B4%A0%E6%9D%90%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC33%E7%A4%BE%E3%81%AE%E8%A3%BD%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88%EF%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の素材メーカーは、独自の技術と長年の経験を活かし、これらの要求に応える革新的な材料を開発し続けています",
+    "url": "https://troy-technical.jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BE%E7%86%B1%E6%9D%90%E6%96%99%E3%83%BB%E7%B4%A0%E6%9D%90%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC33%E7%A4%BE%E3%81%AE%E8%A3%BD%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88%EF%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "この製品リストは、日本の産業界が、先端技術の進化に合わせていかに材料開発を進めているかを示しており、グローバルな技術競争における日本の競争力を高める上で重要な役割を果たすと考えられます",
+    "url": "https://troy-technical.jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BE%E7%86%B1%E6%9D%90%E6%96%99%E3%83%BB%E7%B4%A0%E6%9D%90%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC33%E7%A4%BE%E3%81%AE%E8%A3%BD%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88%EF%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "今後、AIやIoT、自動運転技術のさらなる発展に伴い、より高度で多様な放熱材料のニーズが生まれ、日本の素材メーカーがそのイノベーションを牽引していくことが期待されます",
+    "url": "https://troy-technical.jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BE%E7%86%B1%E6%9D%90%E6%96%99%E3%83%BB%E7%B4%A0%E6%9D%90%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC33%E7%A4%BE%E3%81%AE%E8%A3%BD%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88%EF%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "金属ベース高放熱基板とは、アルミや銅板などと高熱伝導樹脂を貼り合わせた特殊な基板で、日本電子回路工業会（JPCA）がまとめている国内電子回路基板の品種別生産状況によれば、2019年の市場規模は前年比2割以上伸長して150億円超に拡大しているという",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=3318",
+    "pass": 3
+   },
+   {
+    "quote": "また、車の電動化など新市場台頭で、既存のデンカやニッパツ、日本理化工業所などに分け入って、住友ベークライト、三菱マテリアルなど新規参入メーカーも相次いでいる",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=3318",
+    "pass": 3
+   },
+   {
+    "quote": "日本理化、ニッパツらが新製品投入",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=3318",
+    "pass": 3
+   },
+   {
+    "quote": "日本理化は、ＤＢＣ技術による",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=3318",
+    "pass": 3
+   },
+   {
+    "quote": "なかでも攻勢をかけているのが日本理化工業所（東京都品川区大井）だ",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=3318",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、MOSFETやIGBTなどのパワーディスクリートを搭載できる高耐熱・高放熱銅張積層板（CCL）の量産を国内外で本格化する",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=3318",
+    "pass": 3
+   }
+  ],
+  "日本の顧客が買うか（需要の証拠）": [
+   {
+    "quote": "その結果、デバイス性能、パッケージの信頼性、自動車向け認定取得の支援を組み合わせて提供できるモジュールサプライヤーの役割が高まっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "供給の集中により、GaNメーカーは調達の混乱、コストの変動、認定取得の遅延にさらされます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車向け認定取得に要する期間",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "早期に認定を取得したサプライヤーは、プラットフォームの技術サイクルが切り替わる前に設計採用を獲得するうえで有利です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "供給が途絶すると、エピタキシャルウエハーやデバイスのサプライヤーの調達期間が長期化し、高周波電力変換用途からの需要が急増する一方で、認定済み材料の供給が追いつかない事態が生じる可能性があります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "ワイドバンドギャップ半導体の生産能力を確保するには、基板準備、エピタキシャル成長、製造、パッケージングにわたる専門技術が必要であり、新規拠点の立ち上げによる生産能力の拡大は、資金調達と実行が難しい",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、SiC と GaN の採用は、デバイスの物理特性だけでなく、認定プロセスの厳格さや供給の強靭性にも左右される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "多様な回路構成に対応できる柔軟性がある一方、認定に要する作業、熱設計、組み立ての複雑さが顧客のコスト負担を大きくする用途では、統合型モジュールの採用が拡大している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "高電圧、高温、エネルギー効率の向上を直接収益化できる用途で、SiCモジュールの採用が拡大している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車のトラクションインバーターが引き続き主要な採用を牽引する一方、再生可能エネルギー用インバーターや産業用ドライブも追加の需要源となり、特定の最終市場への依存を軽減している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、産業、再生可能エネルギー、輸送システムへのSiCおよびGaNの採用が進みやすくなる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "この用途には、駆動用インバーター、車載充電器、DC-DCコンバーター、充電設備が含まれ、電動化プラットフォームごとに複数のパワー半導体の採用機会が生まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "車載品質のSiCモジュールと、顧客認定を長期にわたり支援する体制を備えたサプライヤーは、最も付加価値の高い設計採用案件を獲得するうえで有利な立場にあります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "これを背景に、サーバー、UPS、負荷点電源の各構成において、GaNデバイスや先進的なシリコンソリューションに自然な設計採用機会が生まれています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "SiCの採用は選択的に進むとみられ、エネルギー節約、小型化、熱性能の向上によって設備の経済性が大きく改善する用途から加速する見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "パワーエレクトロニクスにおけるワイドバンドギャップ半導体の採用拡大",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "ワイドバンドギャップ（WBG）半導体材料、特に炭化ケイ素（SiC）と窒化ガリウム（GaN）の採用拡大は、パワーエレクトロニクス市場を形成する重要なトレンドとして浮上しています",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "電気自動車、再生可能エネルギーシステム、産業用電力変換アプリケーション向けに設計されたソリューションは、高効率アプリケーションにおける次世代パワーエレクトロニクス技術の採用拡大を浮き彫りにしています",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車、産業オートメーション、家電、再生可能エネルギー、航空宇宙などの産業におけるパワーエレクトロニクスの採用拡大は、パワーエレクトロニクス市場を牽引する主要因です",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車メーカーは、車両効率の向上と航続距離の延長を目指し、トラクションインバータ、車載充電器、DC-DCコンバータ、バッテリー管理システムなどに炭化ケイ素（SiC）ベースのパワーエレクトロニクスを積極的に採用しています",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "こうした課題は、特に研究開発予算が限られているメーカーにとって、製品の商品化を遅らせ、採用を阻害する要因となり得ます",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "この分野の優位性は、自動車、産業オートメーション、民生用電子機器、再生可能エネルギーといった幅広い分野で、ダイオード、MOSFET、IGBTなどのディスクリートパワーデバイスが広く採用されていることに起因しています",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "この成長は、同国の堅調な自動車産業、電気自動車の生産増加、産業オートメーションへの投資拡大、そして電力管理用途における先進半導体技術の採用拡大によって牽引されている",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーコンピューター『富岳』に採用！電気接点障害を低減！低分子シロキサンが発生しない、シリコーンフリーの高機能放熱材のご紹介！",
+    "url": "https://mono.ipros.com/cg1/%E6%94%BE%E7%86%B1%E6%9D%90/",
+    "pass": 3
+   },
+   {
+    "quote": "家電など、多くの分野でご採用・ご使用いただいております",
+    "url": "https://mono.ipros.com/cg1/%E6%94%BE%E7%86%B1%E6%9D%90/",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーコンピューター『富岳』に採用！ 低分子シロキサンが発生しない「シリコーンフリー」の高機能放熱ペーストのご紹介！",
+    "url": "https://mono.ipros.com/cg1/%E6%94%BE%E7%86%B1%E6%9D%90/",
+    "pass": 3
+   },
+   {
+    "quote": "パソコンCPUをはじめ、無線基地局、オフィス複合機、カーナビ、家電など、多くの分野でご採用・ご使用いただいております",
+    "url": "https://mono.ipros.com/cg1/%E6%94%BE%E7%86%B1%E6%9D%90/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでクルマのティア1サプライヤがこの製品サンプルを評価してきたが、この2月に採用を決めた",
+    "url": "https://www.semiconportal.com/archive/editorial/industry/250522-taiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "この新材料は、ティア1サプライヤのOBC（オンボードチャージャー）のパワー半導体の実装に採用された",
+    "url": "https://www.semiconportal.com/archive/editorial/industry/250522-taiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "ティア1サプライヤへの採用に自信をつけ、太陽HDは2026年1月から本格的な量産を開始する",
+    "url": "https://www.semiconportal.com/archive/editorial/industry/250522-taiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報トップ",
+    "url": "https://www.sumibe.co.jp/product/hpp/heat-dissipation-materials/heat-dissipation-sheet/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用情報",
+    "url": "https://www.sumibe.co.jp/product/hpp/heat-dissipation-materials/heat-dissipation-sheet/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "カムバック採用情報",
+    "url": "https://www.sumibe.co.jp/product/hpp/heat-dissipation-materials/heat-dissipation-sheet/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用活動におけるハラスメント防止について",
+    "url": "https://www.sumibe.co.jp/product/hpp/heat-dissipation-materials/heat-dissipation-sheet/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人のお客様へ｜購入前に見積書を発行できます",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "見積書を発行しただけでは購入にはなりません",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "※請求書払い・銀行振込等による法人購入をご希望の場合も対応できます",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "採用条件を確認する",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "購入すれば必ず受注できる営業先が欲しい",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "購入後にダウンロードできるもの",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "購入後、このnoteの有料部分から、",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "noteの購入履歴から領収書を発行できます",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "社内で経費精算される場合は、購入前に自社の経費処理ルールもご確認ください",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "購入前FAQ",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "Q3．両方購入する必要がありますか？",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "Q9．購入すれば受注できますか？",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "ご購入前に必ずご確認ください",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "また、本資料に企業名や案件名が掲載されていても、その企業が特定製品を購入することや、受注できることを保証するものではありません",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の営業・調達担当向けに、「どの会社に・いつ・何を売るか」を公開情報から調査しています",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "そして、米テスラが2017年に市場投入したEV「Model 3」のモーター駆動用インバーターに採用して以降、EVでの採用拡大が加速",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年以降に市場投入されるEVでは、SiC採用が一大トレンドになるとみられています",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "ルにも採用実績が多い",
+    "url": "https://www.f3d.sanken.osaka-u.ac.jp/wp-content/uploads/2022/08/99ba65305f3c0f4ce39d80e9cf1583e2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "パウダーによる金属焼結結合の採用",
+    "url": "https://www.f3d.sanken.osaka-u.ac.jp/wp-content/uploads/2022/08/99ba65305f3c0f4ce39d80e9cf1583e2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ワーモジュールに採用している",
+    "url": "https://www.f3d.sanken.osaka-u.ac.jp/wp-content/uploads/2022/08/99ba65305f3c0f4ce39d80e9cf1583e2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ヒートシンク接合用途など幅広い採用実績",
+    "url": "https://www.f3d.sanken.osaka-u.ac.jp/wp-content/uploads/2022/08/99ba65305f3c0f4ce39d80e9cf1583e2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャリア採用",
+    "url": "https://www.allied-material.co.jp/products/heatspreader.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットを安定して動作させるために、独自材料を採用した高性能放熱基板をご提供します",
+    "url": "https://www.allied-material.co.jp/products/heatspreader.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、SiC製パワー半導体向けの窒化ケイ素製絶縁放熱回路基板の採用が増加しており、今後さらなる市場拡大が見込まれています",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "SiCパワー半導体向けの用途でも採用が拡大しており、海外でも新製品開発が進んでいます（後述）",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、SiC製パワー半導体向けの窒化ケイ素製絶縁放熱回路基板の採用が増加しており、車両の電動化と高効率化に貢献しています",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "pass": 3
+   }
+  ],
+  "再生・循環": [
+   {
+    "quote": "需要は、従来型の産業用スイッチングにとどまらず、駆動系の効率、再生可能エネルギー用インバーターの性能、高密度コンピューティングにおける電力供給を改善する電力アーキテクチャへと広がっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能エネルギーシステムの導入",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の世界の再生可能エネルギー発電設備の新規導入容量は585 GWに達した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー転換に向けた取り組みを背景に導入が継続することで、再生可能エネルギー用パワーエレクトロニクスの持続的な需要が見込まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能エネルギーの導入拡大は、景気変動の影響を受けにくいインバーター需要の第二の源泉となっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "信頼性とシステム統合が部品の最低コストよりも重視されるトラクション、再生可能エネルギー変換、高出力ドライブで、戦略的な優位性が特に大きい",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車のトラクションインバーターが引き続き主要な採用を牽引する一方、再生可能エネルギー用インバーターや産業用ドライブも追加の需要源となり、特定の最終市場への依存を軽減している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "この電流区分は、大電力トラクション、再生可能エネルギーの系統連系、産業用ドライブシステムと密接に結び付いている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、産業、再生可能エネルギー、輸送システムへのSiCおよびGaNの採用が進みやすくなる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能エネルギーシステム",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能エネルギーシステムは、2025年に売上高の15.0%を占め、2035年には175億5,000万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "電力網における変動性再生可能エネルギーの受け入れが進むにつれ、パワーエレクトロニクスは、電力変換だけでなく、安定性と制御の面でも重要性を増しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "電力網の近代化、エネルギー貯蔵、再生可能エネルギーの統合により、高耐久・高出力の電力変換装置への需要が高まっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "このため既存のデバイスメーカーが優位性を保つ一方、駆動システムや再生可能エネルギー向け電力変換では、SiCの普及拡大の余地が生まれています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のパワー半導体市場は、電子機器製造、電気自動車（EV）生産、再生可能エネルギーの導入が集中していることを特徴としています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能エネルギー",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "パワーエレクトロニクス市場の規模、シェア、トレンド分析レポート：デバイスタイプ別（パワーディスクリート、パワーモジュール、パワーIC）、材料別（炭化ケイ素、窒化ガリウム、サファイア、その他）、用途別（電力管理、UPS、輸送、再生可能エネルギー、その他）、産業分野別（通信、産業、自動車、家電、軍事・防衛、エネルギー・電力、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの技術は、電気自動車（EV）、再生可能エネルギーシステム、産業オートメーション、家電製品、電源装置、スマートグリッド、データセンター、輸送インフラなど、幅広い分野で活用されています",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、エネルギー効率とシステム性能を向上させるために、電気自動車（EV）、再生可能エネルギーシステム、産業用モータ駆動装置、データセンター、スマートグリッドインフラなどにますます統合されています",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "電気自動車、再生可能エネルギーシステム、産業用電力変換アプリケーション向けに設計されたソリューションは、高効率アプリケーションにおける次世代パワーエレクトロニクス技術の採用拡大を浮き彫りにしています",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車、産業オートメーション、家電、再生可能エネルギー、航空宇宙などの産業におけるパワーエレクトロニクスの採用拡大は、パワーエレクトロニクス市場を牽引する主要因です",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "高性能電子機器、電気自動車、再生可能エネルギーシステム、データセンター、産業オートメーションに対する需要の高まりは、スイッチング速度の向上、電力損失の低減、熱効率の向上を実現した次世代MOSFETの開発を促進しています",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "冷却が不十分だと、特に電気自動車、産業機器、再生可能エネルギーシステム、データセンターなどにおいて、システム効率の低下、部品の劣化促進、メンテナンス頻度の増加につながります",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "この分野の優位性は、自動車、産業オートメーション、民生用電子機器、再生可能エネルギーといった幅広い分野で、ダイオード、MOSFET、IGBTなどのディスクリートパワーデバイスが広く採用されていることに起因しています",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "このセグメントは、電気自動車、急速充電器、再生可能エネルギーシステム、データセンターにおける高周波・高効率半導体デバイスへの需要の高まりによって牽引されています",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "この分野の優位性は、民生用電子機器、産業機器、自動車システム、再生可能エネルギー設備などにおいて、効率的な電圧調整、電力変換、バッテリー管理、エネルギー最適化に対するニーズが高まっていることに起因しています",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "無停電電源装置（UPS）、輸送、再生可能エネルギー、その他の用途分野も、無停電電源装置、電気自動車、クリーンエネルギーインフラへの投資増加に支えられ、相当な市場シェアを維持している",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "この成長は、家電業界の急速な拡大、電気自動車（EV）の生産増加、再生可能エネルギープロジェクトへの投資増加、そして半導体製造拠点の強力な存在感によって促進されています",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の成長は、中国の大規模な半導体製造産業、電気自動車の普及拡大、再生可能エネルギー設備の拡大、そして産業オートメーションとスマートグリッドインフラへの多額の投資によって牽引されている",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場は、電気自動車、データセンター、再生可能エネルギーの統合、および先進半導体技術への投資増加によって牽引されています",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンニュートラルの達成には、再生可能エネルギーや水素、そして省エネルギー化など、さまざまな領域の技術の活用が欠かせません",
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクル技術の開発",
+    "url": "https://www.allied-material.co.jp/products/heatspreader.html",
+    "pass": 3
+   },
+   {
+    "quote": "新再生可能エネルギーの一つである洋上風力発電は送電距離が長く、直流が有利とされます",
+    "url": "https://www.allied-material.co.jp/products/heatspreader.html",
+    "pass": 3
+   },
+   {
+    "quote": "リチウムイオン電池用バインダー｜フッ素フリー・水溶性によるコスト削減とリサイクル性",
+    "url": "https://troy-technical.jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BE%E7%86%B1%E6%9D%90%E6%96%99%E3%83%BB%E7%B4%A0%E6%9D%90%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC33%E7%A4%BE%E3%81%AE%E8%A3%BD%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88%EF%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "iPS細胞・再生医療",
+    "url": "https://troy-technical.jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BE%E7%86%B1%E6%9D%90%E6%96%99%E3%83%BB%E7%B4%A0%E6%9D%90%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC33%E7%A4%BE%E3%81%AE%E8%A3%BD%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88%EF%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクル技術の開発",
+    "url": "https://www.allied-material.co.jp/products/heatspreader/use.html",
+    "pass": 3
+   },
+   {
+    "quote": "石炭や原子力を利用した発電から、再生可能エネルギーへのシフトが世界的に進んでいます",
+    "url": "https://www.allied-material.co.jp/products/heatspreader/use.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車のインバーターのほか、再生可能エネルギーにおけるパワーコンディショナー向けも伸びている",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25100",
+    "pass": 3
+   },
+   {
+    "quote": "先端医療(再生医療・細胞治療等)",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116062",
+    "pass": 3
+   },
+   {
+    "quote": "未利用資源活用・リサイクル",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116062",
+    "pass": 3
+   },
+   {
+    "quote": "近年は再生可能エネルギーや電気自動車（EV）の普及が進み、省エネルギー化が大きな課題となっています",
+    "url": "https://www.katsura-opto.com/archives/3289",
+    "pass": 3
+   },
+   {
+    "quote": "こうした特性は再生可能エネルギーや自動車分野に適しており、持続的なエネルギー利用を支える重要な要素になっています",
+    "url": "https://www.katsura-opto.com/archives/3289",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能エネルギー分野では、ソーラーパネルで発電した電力を効率よく変換するために、パワー半導体を用いたインバータが欠かせません",
+    "url": "https://www.katsura-opto.com/archives/3289",
+    "pass": 3
+   },
+   {
+    "quote": "電気自動車や再生可能エネルギー拡大などを背景に、パワー半導体市場は拡大が見込まれています",
+    "url": "https://www.katsura-opto.com/archives/3289",
+    "pass": 3
+   },
+   {
+    "quote": "さらにスマートグリッドや風力・太陽光など再生可能エネルギーの活用でも、インバータやコンバータの効率向上にパワー半導体が貢献しており、各国で投資が進んでいます",
+    "url": "https://www.katsura-opto.com/archives/3289",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能エネルギーやEV（電気自動車）の普及に伴い、その需要は急増しています",
+    "url": "https://www.klv.co.jp/corner/power-semiconductor-cooling.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在のパワー半導体市場では、EVインバーターや再生可能エネルギー向けシステムで使用されるデバイスが増加しています",
+    "url": "https://www.klv.co.jp/corner/power-semiconductor-cooling.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、5G基地局やデータセンター、電気自動車（EV）、再生可能エネルギー機器が市場拡大を強力に後押ししています",
+    "url": "https://www.klv.co.jp/corner/power-semiconductor-cooling.html",
+    "pass": 3
+   },
+   {
+    "quote": "持続可能な冷却技術（省エネ設計や再生可能冷媒の使用）",
+    "url": "https://www.klv.co.jp/corner/power-semiconductor-cooling.html",
+    "pass": 3
+   },
+   {
+    "quote": "パワー半導体は電力の変換や制御を効率的に行うことができ、再生可能エネルギーの利用、電気自動車の普及、高効率の産業プロセスなど、様々な分野での需要が高まっているという背景が関係しています",
+    "url": "https://jp.rs-online.com/web/content/discovery/ideas-and-advice/power-semiconductor-guide?srsltid=AYCX9vJPLpHi4bTCyuwvZ5RHNPV9dQantB8xjT_5ZJjVVAtwkYiJRxEd",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能エネルギーの利用、電気自動車の普及、産業プロセスの改善など、エネルギーの効率的な利用に向けた取り組みに貢献しています",
+    "url": "https://jp.rs-online.com/web/content/discovery/ideas-and-advice/power-semiconductor-guide?srsltid=AYCX9vJPLpHi4bTCyuwvZ5RHNPV9dQantB8xjT_5ZJjVVAtwkYiJRxEd",
+    "pass": 3
+   },
+   {
+    "quote": "パワー半導体は、再生可能エネルギー源（太陽光発電や風力発電など）からの電力変換を効率的に行うための鍵となります",
+    "url": "https://jp.rs-online.com/web/content/discovery/ideas-and-advice/power-semiconductor-guide?srsltid=AYCX9vJPLpHi4bTCyuwvZ5RHNPV9dQantB8xjT_5ZJjVVAtwkYiJRxEd",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光発電は再生可能エネルギーのひとつであり、パワー半導体は太陽光パネルで生成された直流電力を効率的に交流電力に変換するために使用されます",
+    "url": "https://jp.rs-online.com/web/content/discovery/ideas-and-advice/power-semiconductor-guide?srsltid=AYCX9vJPLpHi4bTCyuwvZ5RHNPV9dQantB8xjT_5ZJjVVAtwkYiJRxEd",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能エネルギーの利用拡大に伴い、パワー半導体の性能向上が求められています",
+    "url": "https://www.hikari-ax.co.jp/column/thermal-management-solution",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光や風力などの再生可能エネルギーの最大限導入",
+    "url": "https://www.hikari-ax.co.jp/column/thermal-management-solution",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能エネルギーの効率的な活用やEVの性能向上にも、高効率なパワー半導体の存在が不可欠です",
+    "url": "https://www.hikari-ax.co.jp/column/thermal-management-solution",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能エネルギーの利用が拡大する中、特に太陽光発電やxEVの電力変換において、",
+    "url": "https://www.hikari-ax.co.jp/column/thermal-management-solution",
+    "pass": 3
+   },
+   {
+    "quote": "AIデータセンター、EV（電気自動車）、再生可能エネルギー、産業機械",
+    "url": "https://note.com/loots/n/n8fdd572197c5",
+    "pass": 3
+   },
+   {
+    "quote": "・再生可能エネルギー",
+    "url": "https://note.com/loots/n/n8fdd572197c5",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "(参考価格: ¥10,000～¥500,000)",
+    "url": "https://mono.ipros.com/cg1/%E6%94%BE%E7%86%B1%E6%9D%90/",
+    "pass": 3
+   },
+   {
+    "quote": "販売価格（1ヵ年）：106,857円(税込) 本体価格 97,142円",
+    "url": "https://mono.ipros.com/cg1/%E6%94%BE%E7%86%B1%E6%9D%90/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：1万円 ~ 10万円",
+    "url": "https://mono.ipros.com/cg1/%E6%94%BE%E7%86%B1%E6%9D%90/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：10万円 ~ 50万円",
+    "url": "https://mono.ipros.com/cg1/%E6%94%BE%E7%86%B1%E6%9D%90/",
+    "pass": 3
+   },
+   {
+    "quote": "第8位:AI開発の減速を巡って引き続く警鐘&論議；メモリ不足&価格高騰の波紋",
+    "url": "https://www.semiconportal.com/archive/editorial/industry/250522-taiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売価格：49,800円",
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "pass": 3
+   },
+   {
+    "quote": "価格幅が広がっているほか、自動車向けでは構造の変化により駆動用電池(LiB)などで従来ほどの熱伝導率を必要としないケースも出始めているが、xEVや通信、家電、産業機器、電鉄車両など、幅広い用途でサーマルマネジメントの中核を担っていることから、市場は今後も拡大し、2035年には1兆380億円が予測される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25100",
+    "pass": 3
+   },
+   {
+    "quote": "LiBではEV1台につき2～4リットル使用し、量が多いことから、ユーザーからのコストダウン要求が強く、価格が下落している",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23084",
+    "pass": 3
+   },
+   {
+    "quote": "採用実績、利益率、価格転嫁力、量産対応力などを確認する必要があります",
+    "url": "https://note.com/loots/n/n8fdd572197c5",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Heat Sinks Market Size & Share Industry Analysis | 2035Semiconductor Thermal Management Materials Market 2026Semiconductor Heat Sink Market - lucintel.comPower Device Heat Sink Material Market 2026Semiconductor Thermal Management Materials Market 2035Wrought Copper High Copper Alloy Heat Sink Material: Advanced ... — Copper is used in various applications such as industrial facilities, power plant",
+    "url": "https://www.expertmarketresearch.com/reports/heat-sinks-market",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【パワー半導体は“チップ性能”では勝てない】放熱材料・接合技術・パ... 多くの投資家は、 ・SiC（炭化ケイ素） ・GaN（窒化ガリウム） ・パワー半導体メーカー に注目します。 もちろん、それらは重要です。 しかし実際には、 パワー半導体の性能を最終的に決めるのは「パッケージ・放熱・接合」 と言っても過言ではありません。",
+    "url": "https://note.com/loots/n/n8fdd572197c5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【パワー半導体は“チップ性能”では勝てない】放熱材料・接合技術・パッケージで読む日本株の本当の成長シナリオ｜loots",
+    "url": "https://note.com/loots/n/n8fdd572197c5",
+    "pass": 3
+   },
+   {
+    "quote": "【パワー半導体は“チップ性能”では勝てない】放熱材料・接合技術・パッケージで読む日本株の本当の成長シナリオ",
+    "url": "https://note.com/loots/n/n8fdd572197c5",
+    "pass": 3
+   },
+   {
+    "quote": "AIデータセンター、EV（電気自動車）、再生可能エネルギー、産業機械。",
+    "url": "https://note.com/loots/n/n8fdd572197c5",
+    "pass": 3
+   },
+   {
+    "quote": "パワー半導体の性能を最終的に決めるのは「パッケージ・放熱・接合」",
+    "url": "https://note.com/loots/n/n8fdd572197c5",
+    "pass": 3
+   },
+   {
+    "quote": "チップ性能だけでは利益にならず、「実装技術」が収益を左右する",
+    "url": "https://note.com/loots/n/n8fdd572197c5",
+    "pass": 3
+   },
+   {
+    "quote": "という収益構造に分けて分析することが重要です。",
+    "url": "https://note.com/loots/n/n8fdd572197c5",
+    "pass": 3
+   },
+   {
+    "quote": "日本株 デイトレ・短期売買専用AIプロンプト",
+    "url": "https://note.com/loots/n/n8fdd572197c5",
+    "pass": 3
+   },
+   {
+    "quote": "https://note.com/loots/n/n756f872d6f30",
+    "url": "https://note.com/loots/n/n8fdd572197c5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Semi-journal公式 on X: \"【三井金属、パワーモジュール向け銅焼結材... 【三井金属、パワーモジュール向け銅焼結材で放熱・信頼性向上】 三井金属は、パワーモジュール基板と放熱部材の大面積接合に対応する銅焼結材料を開発した。 低負荷条件で接合でき、PMの性能向上とエネルギー効率の改善が期待できる。",
+    "url": "https://x.com/semi_journal_jp/status/2060930161525313886",
+    "pass": 3
+   },
+   {
+    "quote": "三井金属／パワーモジュール放熱部材向け、新「銅焼結材料」開発／大... 三井金属／パワーモジュール放熱部材向け、新「銅焼結材料」開発／大面積・低負荷接合、放熱性能向上 | 日刊鉄鋼新聞 Japan Metal Daily 三井金属は20日、パワーモジュール用放熱部材との大面積接合に適した新たな銅焼結材料を開発したと発表した。",
+    "url": "https://x.com/TEKKOSHIMBUN/status/2057219823445082182",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "5.80",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "quote": "2026〜2035年の年平均成長率（CAGR）は5.80%で、2035年には975億2,000万米ドルに達する見込みです"
+   },
+   {
+    "value": "18.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "quote": "窒化ガリウムの市場規模は2025年に19億4,000万米ドルに達し、2026〜2035年に年平均成長率（CAGR）18.8%で拡大すると予測される"
+   },
+   {
+    "value": "8.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "quote": "標準モジュール形状は2025年に売上高の17.0%を占め、2026〜2035年に年平均成長率（CAGR）8.0%で拡大すると予測される"
+   },
+   {
+    "value": "5.9",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "quote": "世界のパワーエレクトロニクス市場規模は、2025年には437億4000万米ドルと評価され、2026年の463億2000万米ドルから2034年には732億7000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は5.9%となる見込みです"
+   },
+   {
+    "value": "4.5",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "quote": "は2024年を85.4億ドル、2033年に125.9億ドル（CAGR 4.5%）と予測しています"
+   },
+   {
+    "value": "10",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "quote": "は2024年を88億ドル、2025〜2034年のCAGRを10%と予測しており、調査機関によって成長率の見方に幅があります"
+   },
+   {
+    "value": "6.42",
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "quote": "は2025年時点の市場規模を86.1億ドルとし、2034年には150.7億ドル（CAGR 6.42%）に達するとの見通しを示しています"
+   },
+   {
+    "value": "6.2",
+    "url": "https://www.klv.co.jp/corner/power-semiconductor-cooling.html",
+    "quote": "また、2025年から2032年にかけての年平均成長率（CAGR）は6.2％と予測されています"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "19.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "quote": "Infineon Technologies AG が 2025 年に 19.5% 超の市場シェアを占め、首位となった"
+   },
+   {
+    "value": "51.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "quote": "パワー半導体市場のシェアは中程度に集中しており、2025年には上位5社が合計で売上高の約51.5%を占めました"
+   },
+   {
+    "value": "10.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "quote": "STMicroelectronics N.V.は、2025年に10.5%のシェアを占めました"
+   },
+   {
+    "value": "9.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "quote": "onsemiは、2025年に9.5%のシェアを占めました"
+   },
+   {
+    "value": "42.5",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "quote": "アジア太平洋地域は、2025年に42.5%の市場シェアを占め、パワーエレクトロニクス市場を牽引しました"
+   },
+   {
+    "value": "39.2",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "quote": "パワーディスクリートは、2025年にパワーエレクトロニクス市場で39.2%のシェアを獲得し、市場を席巻した"
+   },
+   {
+    "value": "34.7",
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "quote": "電力管理は、2025年に34.7%のシェアを獲得し、パワーエレクトロニクス市場を席巻するだろう"
+   },
+   {
+    "value": "50",
+    "url": "https://www.semiconportal.com/archive/editorial/industry/250522-taiyo.html",
+    "quote": "第3位:2025年CIS売上高トップは市場シェア50%のソニー、なぜTSMCと合弁するの?"
+   },
+   {
+    "value": "15",
+    "url": "https://www.oki.com/jp/showroom/virtual/column/c-21.html",
+    "quote": "日本は世界シェアの約15%を占める"
+   },
+   {
+    "value": "17",
+    "url": "https://www.oki.com/jp/showroom/virtual/column/c-21.html",
+    "quote": "ロームは、2021年のSiC世界シェアの17%、世界第4位を誇ります"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/heat-dissipation-materials-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/ja/reports/power-semiconductor-market-1178",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E6%B4%9E%E5%AF%9F%E5%8A%9B%E3%81%AB%E5%AF%8C%E3%82%93%E3%81%A0%E3%83%91%E3%83%AF%E3%83%BC%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A12026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E4%BA%88%E6%83%B3cagr-7517695843949375488-dt8ce",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/power-electronics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1113920.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E6%94%BE%E7%86%B1%E6%9D%90/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gijutu.co.jp/doc/b_2260.htm",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fcr.co.jp/report/252q06.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.semiconportal.com/archive/editorial/industry/250522-taiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/product/hpp/heat-dissipation-materials/heat-dissipation-sheet/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/5011/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pando.life/article/4738262",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1697/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wish11_11/n/n2433c143c9ae",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.f3d.sanken.osaka-u.ac.jp/wp-content/uploads/2022/08/99ba65305f3c0f4ce39d80e9cf1583e2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.qyresearch.co.jp/reports/1054651/power-semiconductor-module-heat-dissipation-substrate",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.allied-material.co.jp/products/heatspreader.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibismaterials.com/jp/category/%E3%83%91%E3%83%AF%E3%83%BC%E5%8D%8A%E5%B0%8E%E4%BD%93/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://semi-engineers.com/materials-ceramics-substrate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://troy-technical.jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BE%E7%86%B1%E6%9D%90%E6%96%99%E3%83%BB%E7%B4%A0%E6%9D%90%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC33%E7%A4%BE%E3%81%AE%E8%A3%BD%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88%EF%BC%9A/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibismaterials.com/jp/category/%E3%83%91%E3%83%AF%E3%83%BC%E5%8D%8A%E5%B0%8E%E4%BD%93/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibismaterials.com/jp/category/%E6%94%BE%E7%86%B1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=3318",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.resonac.com/jp/solution/column/005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.allied-material.co.jp/products/heatspreader/use.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3699",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25100",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23084",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116062",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oki.com/jp/showroom/virtual/column/c-21.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katsura-opto.com/archives/3289",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.klv.co.jp/corner/power-semiconductor-cooling.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.rs-online.com/web/content/discovery/ideas-and-advice/power-semiconductor-guide?srsltid=AYCX9vJPLpHi4bTCyuwvZ5RHNPV9dQantB8xjT_5ZJjVVAtwkYiJRxEd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112503826",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikari-ax.co.jp/column/thermal-management-solution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chemitox.co.jp/wp-content/themes/chemitox/pdf/ept_36_4_article.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0011/handeji_reviesd.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://semi-engineers.com/materials-tim-thermal-interface/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seaj.or.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/news/marketnews/?b=n202602041162",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/gorinpki/product/detail/2001661881/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/LinkClick.aspx?fileticket=5E6aXvDJgu8%3D",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://metoree.com/categories/6795/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/loots/n/n8fdd572197c5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/semi_journal_jp/status/2060930161525313886",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TEKKOSHIMBUN/status/2057219823445082182",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/loots/n/n8fdd572197c5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/semi_journal_jp/status/2060930161525313886",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TEKKOSHIMBUN/status/2057219823445082182",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "パワー半導体の放熱部材と材料 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/power-semiconductor-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/heat-dissipation-materials-market",
+    "https://www.marketresearchfuture.com/ja/reports/power-semiconductor-market-1178",
+    "https://jp.linkedin.com/pulse/%E6%B4%9E%E5%AF%9F%E5%8A%9B%E3%81%AB%E5%AF%8C%E3%82%93%E3%81%A0%E3%83%91%E3%83%AF%E3%83%BC%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A12026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E4%BA%88%E6%83%B3cagr-7517695843949375488-dt8ce",
+    "https://straitsresearch.com/jp/report/power-electronics-market",
+    "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1113920.html",
+    "https://www.businessresearchinsights.com/jp/market-reports/power-module-substrates-market-111482",
+    "https://www.nepconjapan.jp/hub/ja-jp/blog/blog02.html",
+    "https://www.gii.co.jp/report/smrc2069241-advanced-heat-dissipation-materials-market.html",
+    "https://www.gii.co.jp/report/moi2154755-heat-dissipation-materials-market-share-analysis.html"
+   ]
+  },
+  {
+   "query": "パワー半導体の放熱部材と材料 価格 kg",
+   "results": [
+    "https://mono.ipros.com/cg1/%E6%94%BE%E7%86%B1%E6%9D%90/",
+    "https://www.gijutu.co.jp/doc/b_2260.htm",
+    "https://www.fcr.co.jp/report/252q06.htm",
+    "https://www.semiconportal.com/archive/editorial/industry/250522-taiyo.html",
+    "https://www.sumibe.co.jp/product/hpp/heat-dissipation-materials/heat-dissipation-sheet/index.html",
+    "https://metoree.com/categories/5011/",
+    "https://www.allied-material.co.jp/products/heatspreader/use.html",
+    "https://www.ipros.com/cg1/基板/放熱/",
+    "https://mono.ipros.com/cg1/ヒートシンク/パワー半導体/",
+    "https://mono.ipros.com/cg1/放熱材/"
+   ]
+  },
+  {
+   "query": "パワー半導体の放熱部材と材料 シェア 主要企業",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/heat-dissipation-materials-market",
+    "https://metoree.com/categories/5011/",
+    "https://mono.ipros.com/cg1/%E6%94%BE%E7%86%B1%E6%9D%90/",
+    "https://pando.life/article/4738262",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1697/",
+    "https://www.gijutu.co.jp/doc/b_2260.htm",
+    "https://note.com/wish11_11/n/n2433c143c9ae",
+    "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "https://www.f3d.sanken.osaka-u.ac.jp/wp-content/uploads/2022/08/99ba65305f3c0f4ce39d80e9cf1583e2.pdf",
+    "https://www.qyresearch.co.jp/reports/1054651/power-semiconductor-module-heat-dissipation-substrate"
+   ]
+  },
+  {
+   "query": "パワー半導体の放熱部材と材料 主要メーカー 一覧",
+   "results": [
+    "https://metoree.com/categories/5011/",
+    "https://mono.ipros.com/cg1/%E6%94%BE%E7%86%B1%E6%9D%90/",
+    "https://www.allied-material.co.jp/products/heatspreader.html",
+    "https://www.gijutu.co.jp/doc/b_2260.htm",
+    "https://www.ibismaterials.com/jp/category/%E3%83%91%E3%83%AF%E3%83%BC%E5%8D%8A%E5%B0%8E%E4%BD%93/",
+    "https://www.f3d.sanken.osaka-u.ac.jp/wp-content/uploads/2022/08/99ba65305f3c0f4ce39d80e9cf1583e2.pdf",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1697/",
+    "https://note.com/wish11_11/n/n2433c143c9ae",
+    "https://semi-engineers.com/materials-ceramics-substrate/",
+    "https://troy-technical.jp/日本の放熱材料・素材メーカー33社の製品リスト：/"
+   ]
+  },
+  {
+   "query": "パワー半導体の放熱部材と材料 参入企業 数",
+   "results": [
+    "https://www.sangyo-times.jp/article.aspx?ID=3318",
+    "https://mono.ipros.com/cg1/%E6%94%BE%E7%86%B1%E6%9D%90/",
+    "https://pando.life/article/4738262",
+    "https://www.f3d.sanken.osaka-u.ac.jp/wp-content/uploads/2022/08/99ba65305f3c0f4ce39d80e9cf1583e2.pdf",
+    "https://www.resonac.com/jp/solution/column/005.html",
+    "https://note.com/wish11_11/n/n2433c143c9ae",
+    "https://www.allied-material.co.jp/products/heatspreader/use.html",
+    "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "https://www.yano.co.jp/press-release/show/press_id/3699",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=25100"
+   ]
+  },
+  {
+   "query": "パワー半導体の放熱部材と材料 日本 需要",
+   "results": [
+    "https://www.cmcbooks.co.jp/products/detail.php?product_id=116062",
+    "https://www.oki.com/jp/showroom/virtual/column/c-21.html",
+    "https://www.katsura-opto.com/archives/3289",
+    "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "https://www.gijutu.co.jp/doc/b_2260.htm",
+    "https://metoree.com/categories/5011/",
+    "https://www.sangyo-times.jp/article.aspx?ID=3318",
+    "https://www.klv.co.jp/corner/power-semiconductor-cooling.html",
+    "https://jp.rs-online.com/web/content/discovery/ideas-and-advice/power-semiconductor-guide?srsltid=AYCX9vJPLpHi4bTCyuwvZ5RHNPV9dQantB8xjT_5ZJjVVAtwkYiJRxEd",
+    "https://www.fuji-keizai.co.jp/report/detail.html?code=112503826"
+   ]
+  },
+  {
+   "query": "パワー半導体の放熱部材と材料 国内 導入台数 OR 輸入量",
+   "results": [
+    "https://www.gijutu.co.jp/doc/b_2260.htm",
+    "https://www.hikari-ax.co.jp/column/thermal-management-solution",
+    "https://www.fcr.co.jp/report/252q06.htm",
+    "https://www.allied-material.co.jp/products/heatspreader.html",
+    "https://www.chemitox.co.jp/wp-content/themes/chemitox/pdf/ept_36_4_article.pdf",
+    "https://www.f3d.sanken.osaka-u.ac.jp/wp-content/uploads/2022/08/99ba65305f3c0f4ce39d80e9cf1583e2.pdf",
+    "https://pando.life/article/4738262",
+    "https://note.com/wish11_11/n/n2433c143c9ae",
+    "https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0011/handeji_reviesd.pdf",
+    "https://semi-engineers.com/materials-tim-thermal-interface/"
+   ]
+  },
+  {
+   "query": "パワー半導体の放熱部材と材料 日本企業 採用 調達 事例",
+   "results": [
+    "https://pr.mono.ipros.com/gorinpki/product/detail/2001661881/",
+    "https://www.klv.co.jp/corner/power-semiconductor-cooling.html",
+    "https://www.gijutu.co.jp/doc/b_2260.htm",
+    "https://www.mitsui-kinzoku.com/LinkClick.aspx?fileticket=5E6aXvDJgu8%3D",
+    "https://www.nepconjapan.jp/hub/ja-jp/blog/blog04.html",
+    "https://metoree.com/categories/6795/",
+    "https://www.resonac.com/recruit/jp/field/",
+    "https://newswitch.jp/p/39932",
+    "https://www.qs-qms-co.com/colum/2025-03-07-2.html",
+    "https://www.sumibe.co.jp/topics/2026/pdf/0109_01.pdf"
+   ]
+  },
+  {
+   "query": "power semiconductor thermal management materials heat sink copper Japan customers demand imports",
+   "results": [
+    "https://www.polarismarketresearch.com/industry-analysis/heat-sinks-market",
+    "https://www.maximizemarketresearch.com/market-report/heat-sinks-market/11450/",
+    "https://www.linkedin.com/pulse/power-device-heat-sink-material-market-us-mnjjf",
+    "https://www.ptsmake.com/the-practical-ultimate-guide-to-heat-sink-materials-ptsmake/",
+    "https://thermtest.com/the-importance-of-heat-sinks-for-the-thermal-management-of-electronic-devices",
+    "https://www.fortunebusinessinsights.com/heat-sinks-market-103025",
+    "https://eureka.patsnap.com/article/thermal-management-in-power-semiconductors-heat-sink-design",
+    "https://www.samaterials.com/blog/thermal-management-materials-for-electronic-packaging.html",
+    "https://www.mdpi.com/2079-4991/12/19/3365",
+    "https://www.intelmarketresearch.com/copper-alloy-heat-sinks-market-30052"
+   ]
+  },
+  {
+   "query": "パワー半導体の放熱部材と材料 供給契約 長期",
+   "results": [
+    "https://www.linkedin.com/pulse/%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E5%258D%258A%25E5%25B0%258E%25E4%25BD%2593-%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25BC%25E3%2581%25AE%25E9%2581%25B8%25E5%25AE%259A%25E5%259F%25BA%25E6%25BA%2596sic%25E9%2587%258F%25E7%2594%25A3%25E8%2583%25BD%25E5%258A%259B%25E3%2581%25A8%25E9%2595%25B7%25E6%259C%259F%25E4%25BE%259B%25E7%25B5%25A6%25E3%2581%25A7%25E6%25AF%2594%25E8%25BC%2583%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595-market-insight-desk-esegc",
+    "https://www.mitsui-kinzoku.com/LinkClick.aspx?fileticket=5E6aXvDJgu8%3D",
+    "https://newswitch.jp/p/39932",
+    "https://www.gijutu.co.jp/doc/b_2260.htm",
+    "https://www.hikari-ax.co.jp/column/thermal-management-solution",
+    "https://www.resonac.com/jp/news/2021/09/28/304.html",
+    "https://www.klv.co.jp/corner/power-semiconductor-cooling.html",
+    "https://dempa-digital.com/article/233982",
+    "https://sector-signals.net/trackers/power-semiconductor-supply",
+    "https://www.infineon.com/ja/press-release/2023/infatv202310-006"
+   ]
+  },
+  {
+   "query": "power semiconductor thermal management materials heat sink copper market size CAGR 2030",
+   "results": [
+    "https://www.maximizemarketresearch.com/market-report/heat-sinks-market/11450/",
+    "https://www.fortunebusinessinsights.com/heat-sinks-market-103025",
+    "https://www.grandviewresearch.com/industry-analysis/thermal-management-technologies-industry",
+    "https://uk.finance.yahoo.com/news/global-thermal-solutions-market-report-141900347.html",
+    "https://www.alliedmarketresearch.com/press-release/heat-sink-market.html",
+    "https://www.linkedin.com/pulse/power-device-heat-sink-material-market-us-mnjjf",
+    "https://www.factmr.com/report/thermal-management-materials-market",
+    "https://www.diamondsemicon.com/blog/global-market-outlook-for-diamond-semiconductor-materials-through-2030",
+    "https://www.sphericalinsights.com/our-insights/thermal-management-technologies-market",
+    "https://www.intelmarketresearch.com/copper-heat-sink-market-12940"
+   ]
+  },
+  {
+   "query": "power semiconductor thermal management materials heat sink copper price per kg",
+   "results": [
+    "https://www.ptsmake.com/the-practical-ultimate-guide-to-copper-heat-sinks-ptsmake/",
+    "https://www.protolabs.com/en-gb/resources/blog/materials-for-heat-sinks/",
+    "https://www.sciencedirect.com/science/article/pii/S1359431125039286",
+    "https://www.1-act.com/thermal-solutions/passive/pcm/heat-sinks/?srsltid=AYCX9vLiMdApB45Ai2RJfTfFE_FzFTyjgbYWGIv86qg7BeeXa1-2AnUy",
+    "https://dataintelo.com/report/copper-heatsink-market",
+    "https://www.ametek-ct.com/products/thermal-management-materials",
+    "https://www.amazon.com/Aluminum-Heatsink-Amplifier-Transistor-Semiconductor/dp/B073VDVVP5",
+    "https://www.businessresearchinsights.com/market-reports/copper-heat-sink-market-127430",
+    "https://www.linkedin.com/pulse/power-device-heat-sink-material-market-us-mnjjf",
+    "https://www.digikey.com/en/products/filter/thermal/heat-sinks/copper/219?s=N4IgjCBcoOwAxVAYygMwIYBsDOBTANCAG4B2UALgE4CuBIA9lANogDM7AnGDCALqEAHclBABlKgEsSAcxABfBUA"
+   ]
+  },
+  {
+   "query": "power semiconductor thermal management materials heat sink copper key players market share percent",
+   "results": [
+    "https://www.intelmarketresearch.com/copper-alloy-heat-sinks-market-30052",
+    "https://www.intelmarketresearch.com/copper-heat-sink-market-12940",
+    "https://www.marketresearchfuture.com/reports/heat-sink-market-33155",
+    "https://www.maximizemarketresearch.com/market-report/heat-sinks-market/11450/",
+    "https://www.expertmarketresearch.com/reports/heat-sinks-market",
+    "https://semiconductorinsight.com/report/power-device-heat-sink-material-market/",
+    "https://semiconductorinsight.com/report/semiconductor-heat-sink-market/"
+   ]
+  },
+  {
+   "query": "power semiconductor thermal management materials heat sink copper number of suppliers concentrated OR fragmented",
+   "results": [
+    "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/semiconductor-industry-outlook.html",
+    "https://www.compliancequest.com/blog/hidden-cost-fragmented-supplier-data-procurement-solutions/",
+    "https://www.rottentomatoes.com/m/fragmented",
+    "https://dictionary.cambridge.org/dictionary/english/fragmented",
+    "https://dictionary.cambridge.org/us/dictionary/english/fragmented",
+    "https://evsmetal.com/2026/01/manufacturing-risk-multi-vendor-vs-integrated-supply-chains/",
+    "https://www.merriam-webster.com/dictionary/fragmenting"
+   ]
+  },
+  {
+   "query": "power semiconductor thermal management materials heat sink copper consumption per machine per year",
+   "results": []
+  },
+  {
+   "query": "power semiconductor thermal management materials heat sink copper qualification long-term supply agreement",
+   "results": [
+    "https://blog.goodark.com/power-semiconductor-sourcing-strategy-second-sources-and-long-term-supply/",
+    "https://www.expertmarketresearch.com/reports/heat-sinks-market",
+    "https://semiconductorinsight.com/report/semiconductor-thermal-management-materials-market/",
+    "https://www.lucintel.com/value-chain-analysis/semiconductor-heat-sink-market",
+    "https://semiconductorinsight.com/report/power-device-heat-sink-material-market/",
+    "https://www.datamintelligence.com/research-report/semiconductor-thermal-management-materials-market",
+    "https://eureka.patsnap.com/materials/copper-alloy-heat-sink"
+   ]
+  },
+  {
+   "query": "power semiconductor thermal management materials heat sink copper distributor direct sales OEM approved materials",
+   "results": [
+    "https://www.ametek-ct.com/products/thermal-management-materials",
+    "https://www.hcstarcksolutions.com/products/overview/heat-sinks/",
+    "https://igsink.com/s/copper-heat-sink/",
+    "https://www.digikey.com/en/products/filter/thermal/heat-sinks/copper-alloy/219?s=N4IgjCBcoOwAxVAYygMwIYBsDOBTANCAG4B2UALgE4CuBIA9lANogDM7AnAExcgC6hAA7koIAMpUAliQDmIAL6KgA",
+    "https://www.ametek-ct.com/markets/electronics/heat-sinks-and-heat-spreader",
+    "https://www.newlifematerial.com/en/products/copper-heat-sink",
+    "https://kostec.net/en/"
+   ]
+  },
+  {
+   "query": "site:note.com パワー半導体の放熱部材と材料",
+   "results": [
+    "https://note.com/svp_japan/n/n93c79172fdeb",
+    "https://note.com/loots/n/n8fdd572197c5",
+    "https://note.com/nicks701/n/nb813349e781c",
+    "https://note.com/qy_research/n/n9dc569195c33",
+    "https://note.com/saidatomoya/n/n6bea535ac47c",
+    "https://note.com/qy_research/n/n1a3e533c194a",
+    "https://note.com/qy_research/n/n14b22de7e51f"
+   ]
+  },
+  {
+   "query": "site:x.com パワー半導体の放熱部材と材料",
+   "results": [
+    "https://x.com/semi_journal_jp/status/2060930161525313886",
+    "https://x.com/TEKKOSHIMBUN/status/2057219823445082182",
+    "https://x.com/1p_semicon/status/2092196068935221645",
+    "https://x.com/yukkeyo/status/2097505904925254059",
+    "https://x.com/cbs_chemical/status/2098057657576042620",
+    "https://x.com/nvda_fy2026q1/status/1739968707500351963",
+    "https://x.com/matlantis_ja/status/2077709840961712153"
+   ]
+  },
+  {
+   "query": "site:linkedin.com パワー半導体の放熱部材と材料",
+   "results": [
+    "https://business.linkedin.com/sales-solutions/sales-navigator/comparison-table",
+    "https://uk.linkedin.com/jobs/finance-director-jobs-london",
+    "https://in.linkedin.com/in/suryanarayanadoolla",
+    "https://jp.linkedin.com/pulse/パワーエレクトロニクス用サーマルインターフェース材料-市場分析規模シェア動向予測2026年から2033年予測cagr-dbt0e",
+    "https://www.linkedin.com/posts/jnc-corporation-corporate-r-d-div_高熱伝導放熱材料の最新開発動向最適調整と応用展開今後の展望timの最前線-activity-7338092905569431556-HmYl",
+    "https://jp.linkedin.com/pulse/焼結導電性銀ペースト-産業展望-20262033収益成長市場価値cagrトレンド-cubed-insights-up88e",
+    "https://www.linkedin.com/posts/住友ベークライト（株）_次世代sicパワーモジュール向け高tgエポキシ封止材料を開発-住友ベークライト-activity-7200733025670737920-Atxd"
+   ]
+  },
+  {
+   "query": "site:facebook.com パワー半導体の放熱部材と材料",
+   "results": [
+    "https://www.facebook.com/NiterraMaterials/",
+    "https://www.facebook.com/story.php/?story_fbid=122119689122473718&id=61564211542292",
+    "https://www.facebook.com/sciencet/posts/パワーモジュールの高性能化を支える-高耐熱高信頼性材料と実装技術httpswwwscience-tcombookm086html高温動作si-igbtモジュール/774105121424893/",
+    "https://www.facebook.com/elephantech.jpn/photos/エレファンテックは次世代パワー半導体向けに低温焼結型銅ナノペーストsaphire-dの開発に成功しましたパワー半導体の高出力化高発熱化が進む中低温での焼結が難し/1519975193463541/",
+    "https://www.facebook.com/IBMJapan/posts/-provision-半導体パッケージの新規放熱技術によるaiの加速aiやhpcの進化に伴い半導体の性能向上を左右する重要な要素となっている熱ibm東京基礎研究/1377415554412491/",
+    "https://www.facebook.com/IBMJapan/photos/-provision-半導体パッケージの新規放熱技術によるaiの加速aiやhpcの進化に伴い半導体の性能向上を左右する重要な要素となっている熱ibm東京基礎研究/1377415531079160/",
+    "https://www.facebook.com/okamotoglass/photos/パワーモジュールに必須の次世代半導体用の放熱基板️u-mapさんの面々と️techno-️frontier-東京ビッグサイト/1202784971651775/"
+   ]
+  },
+  {
+   "query": "パワー半導体の放熱部材と材料 note 社長",
+   "results": [
+    "https://note.com/loots/n/n8fdd572197c5",
+    "https://note.com/svp_japan/n/n93c79172fdeb",
+    "https://www.mitsui-kinzoku.com/LinkClick.aspx?fileticket=5E6aXvDJgu8=&tabid=100&mid=826",
+    "https://semicon.today/archives/561",
+    "https://monoist.itmedia.co.jp/mn/articles/2609/15/news016.html",
+    "https://www.nikkei.com/article/DGXZRSP707308_Q6A520C2000000/",
+    "https://tech-seminar.jp/seminar/2026-07-30-パワーデバイスの放熱・冷却技術と熱マネジメント部材の開発"
+   ]
+  },
+  {
+   "query": "パワー半導体の放熱部材と材料 X 投稿",
+   "results": [
+    "https://x.com/semi_journal_jp/status/2060930161525313886",
+    "https://x.com/TEKKOSHIMBUN/status/2057219823445082182",
+    "https://www.mitsui-kinzoku.com/LinkClick.aspx?fileticket=5E6aXvDJgu8=&tabid=100&mid=826",
+    "https://www.nikkei.com/article/DGXZRSP707308_Q6A520C2000000/",
+    "https://monoist.itmedia.co.jp/mn/articles/2609/15/news016.html",
+    "https://semicon.today/archives/561",
+    "https://news.yahoo.co.jp/articles/22c6e226017af58b003d072b4317644bb2e44669"
+   ]
+  },
+  {
+   "query": "power semiconductor thermal management materials heat sink copper site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/heat-sink-technology-advancing-thermal-management-modern-mahajan-cxfif",
+    "https://www.linkedin.com/pulse/heat-sink-technologies-semiconductor-industry-chipxpertofficial-lkwdf/",
+    "https://ch.linkedin.com/company/advanced-thermal-solutions",
+    "https://uk.linkedin.com/in/john-robinson-additive-manufacturing",
+    "https://il.linkedin.com/in/david-dishi-0168935",
+    "https://in.linkedin.com/in/akhil-avula-93a70212b",
+    "https://in.linkedin.com/in/vishwasdesai74"
+   ]
+  }
+ ],
+ "missing": {}
+}

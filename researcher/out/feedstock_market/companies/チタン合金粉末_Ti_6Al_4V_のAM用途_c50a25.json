@@ -1,0 +1,3530 @@
+{
+ "name": "チタン合金粉末（Ti-6Al-4V）のAM用途",
+ "en": "titanium Ti-6Al-4V powder additive manufacturing market",
+ "aliases": [
+  "チタン粉末 3Dプリンター",
+  "Ti64 粉末",
+  "チタン合金粉末 積層造形"
+ ],
+ "context": "航空・宇宙",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:48:58.808570+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "Spherical Insights & Consulting が公表した研究報告によると、Global Ti-6Al-4V チタン合金市場規模は、予測期間2026～2035 年の間に 8.1% の CAGR で 2025 米ドル 8.53 億米ドル 8.1% から成長するプロジェクトです.",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が公表した研究報告によると、Global Ti-6Al-4V チタン合金市場規模は、予測期間2026～2035 年の間に 8.1% の CAGR で 2025 米ドル 8.53 億米ドル 8.1% から成長するプロジェクトです",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な Ti-6Al-4V チタン合金市場の市場規模は 2025 年に USD 3.92 億で評価されました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "世界の化粧品のインプラントの市場規模のトップ25企業、2035にスコープ",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "世界のチタン市場規模と予測（2026年～2030年）：CAGR、動向、供給リスク - HonTitan",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年までの世界のチタン市場規模予測：レポート間の見解が分かれる理由――そしてデータが実際に示していること",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模の概算（2025年）",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の世界のチタン市場規模：コンセンサス予想",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の合金のみの市場規模は$5～7十億の範囲にあり、年間およそ5%のペースで成長しています",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年の市場規模",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模は$2.84億と評価され、2034年まで年平均成長率（CAGR）約9%で拡大すると予測されており、これは地域別セグメントの中で最も高い成長率となる",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の世界のチタン市場規模はどのくらいになるでしょうか？",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "TiO₂顔料を除く）は、2025年の市場規模が$25～260億と推定される",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "二酸化チタンを含むより広範な推計値では、同年の市場規模は$32億を超える可能性がある",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング用チタンおよびチタン合金の世界市場（2026年～2032年）、市場規模（チタン、チタン合金）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "本資料には、3Dプリンティング用チタンおよびチタン合金の世界市場規模、市場動向、セグメント別予測（チタン、チタン合金）、関連企業の情報などが盛り込まれています",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "世界の3Dプリンティング用チタンおよびチタン合金市場規模は、2025年の9億4,600万米ドルから2032年には18億1,200万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）9.9％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "本インサイトレポートでは、3Dプリンティング用チタンおよびチタン合金の世界的な見通しを形作る主要な市場動向、推進要因、および影響要因を評価し、タイプ別、用途別、地域別、市場規模別に予測を細分化することで、新興のビジネスチャンスを浮き彫りにします",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場規模（2021-2026年）",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "カナダ市場規模（2021-2026年）",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "メキシコ市場規模（2021-2026年）",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "ブラジル市場規模（2021-2026年）",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場規模（2021-2026年）",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場規模（2021-2026年）",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "韓国市場規模（2021-2026年）",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "東南アジア市場規模（2021-2026年）",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "インド市場規模（2021-2026年）",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "オーストラリア市場規模（2021-2026年）",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツ市場規模（2021-2026年）",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "チタン合金インゴットの世界市場（2026年～2032年）、市場規模（Ti-6Al-4Vチタン合金インゴット、Ti-4Al-2Vチタン合金インゴット、その他）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "チタン合金インゴットの世界市場（2026年～2032年）、市場規模（Ti-6Al-4Vチタン合金インゴット、Ti-4Al-2Vチタン合金インゴット、その他）・分析レポートを発表",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "本資料には、チタン合金インゴットの世界市場規模、市場動向、セグメント別予測（Ti-6Al-4Vチタン合金インゴット、Ti-4Al-2Vチタン合金インゴット、その他）、関連企業の情報などが盛り込まれています",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "世界のチタン合金インゴット市場規模は、2025年の22億6300万米ドルから2032年には28億1300万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）3.2％で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "第4章「地域別チタン合金インゴット世界歴史レビュー」には、2021年から2026年までの地域別の世界歴史的市場規模が詳細に分析されています",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "第12章「地域別チタン合金インゴット世界予測レビュー」には、チタン合金インゴットのグローバル市場規模の予測が記載されています",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "世界のスポンジチタン生産能力は2020年には約33万トンと推定され、その多くがTi-6Al-4V製造に使用される",
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "YHResearch調査チームの最新レポート「グローバルチタンベースの粉末のトップ会社の市場シェアおよびランキング 2025」によると、2025年から2031年の予測期間中のCAGRが4.1%で、2031年までにグローバルチタンベースの粉末市場規模は5.2億米ドルに達すると予測されている",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "１.市場規模と予測データ：世界のチタンベースの粉末市場に関する過去データ（2020～2025年）および将来予測データ（2026～2031年）を提供し、市場の成長と規模を明確に示します",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "デスクトップメタルがExOneを約634億円で買収",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "方式や仕様によって大きく異なりますが、初期導入には1億円を超える規模の投資が必要となることが多いです",
+    "url": "https://www.jeol.co.jp/column/detail007.html",
+    "pass": 3
+   },
+   {
+    "quote": "3.1 市場規模：歴史的データ（2012-2025）と予測（2026-2035）",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   },
+   {
+    "quote": "3. DOMESTIC MARKET SIZE AND DEVELOPMENT PATH",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   },
+   {
+    "quote": "3.1 Market Size: Historical Data (2012-2025) and Forecast (2026-2035)",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   },
+   {
+    "quote": "Ti-6Al-4V Titanium Alloy Market Size ($25.4 Billion) 2030",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 25.4 billion by 2030",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 15.8 billion in 2024",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size Value in 2024",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 15.8 Billion",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 25.4 Billion",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD Million, CAGR (2024 – 2030)",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global Ti-6Al-4V Titanium Alloy market was valued at USD 15.8 billion in 2024.",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Historical Market Size and Future Projections (2022–2030)",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Historical Market Size and Volume (2022–2023)",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size and Volume Forecasts (2024–2030)",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size by Product Form, End-User, and Region (2024–2030)",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size (2026)",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The titanium powder market was valued at USD 1.7 billion in 2025. The market is set to reach USD 2.0 billion by 2026-end and grow at a CAGR of 14.8% between 2026-2036 to reach USD 7.8 billion by 2036. Alloyed powder will dominate with a 54.6% share, while Grade 5 will lead with a 47.3%% share.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The titanium powder market was valued at USD Billion 1.66 billion in 2025.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "By 2036, the Titanium Powder Market is expected to be worth USD Billion 7.76 billion.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "Spherical Insights & Consulting が公表した研究報告によると、Global Ti-6Al-4V チタン合金市場規模は、予測期間2026～2035 年の間に 8.1% の CAGR で 2025 米ドル 8.53 億米ドル 8.1% から成長するプロジェクトです.",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が公表した研究報告によると、Global Ti-6Al-4V チタン合金市場規模は、予測期間2026～2035 年の間に 8.1% の CAGR で 2025 米ドル 8.53 億米ドル 8.1% から成長するプロジェクトです",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、予測期間2026～2035年の間に8.1%のCAGRで成長すると予想されます",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "金属3D印刷技術の継続的な進歩は、世界中で商用利用を拡大しています",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "世界のチタン市場規模と予測（2026年～2030年）：CAGR、動向、供給リスク - HonTitan",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "3.8% 年平均成長率（CAGR）",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "6.15% 年平均成長率（CAGR）",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "14.82% 年平均成長率（CAGR）",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（2030年／2031年まで）",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRの予測値の幅（3.8%～7.1%）が広いことは、単なる算出方法の問題ではなく、需要の推移に関する真の不確実性を反映している",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": ": $5.4B (2025) → $8.3B (2034)、CAGR 4.70%",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": ": $6.2B (2026) → $8.8B (2033)、CAGR 5.1%",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": ": 158.23 kt (2025年) → 214.35 kt (2031年)、年平均成長率（CAGR）5.19%",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年～2030年の年平均成長率（CAGR）",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "（MarketsandMarkets）は、3.8%のCAGRを採用している",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州における防衛産業の拡大により、Ti-6Al-4V製構造部品の需要が加速している",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の3Dプリンティング用チタンおよびチタン合金市場規模は、2025年の9億4,600万米ドルから2032年には18億1,200万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）9.9％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング用チタンおよびチタン合金の米国市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）XX％で成長すると推定されています",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング用チタンおよびチタン合金の中国市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング用チタンおよびチタン合金の欧州市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2032年までの世界市場規模、2021年、2025年、2032年における地域別の市場規模CAGR、および同期間における国/地域別の現在および将来の市場分析が示されています",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "また、タイプ別（チタン、チタン合金）の市場セグメント分析、その市場規模、2021年、2025年、2032年におけるタイプ別CAGR、2021年から2026年までのタイプ別の世界市場規模市場シェアが詳細に要約されています",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、用途別（航空宇宙、医療、自動車、その他）の市場セグメント分析、その市場規模、2021年、2025年、2032年における用途別CAGR、2021年から2026年までの用途別の世界市場規模市場シェアも含まれています",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要プレイヤーの本社と提供製品に関する情報、市場集中度分析（競争環境分析、CR3、CR5、CR10の集中度および2024年から2026年までの予測）、新製品と潜在的な新規参入者、合併・買収および事業拡大の動向についても記載されています",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "世界のチタン合金インゴット市場規模は、2025年の22億6300万米ドルから2032年には28億1300万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）3.2％で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "米国のチタン合金インゴット市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "中国のチタン合金インゴット市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のチタン合金インゴット市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "疲労データの標準化：HIP処理および表面仕上げを施したAM Ti-6Al-4Vの許容値が拡大され、航空宇宙および医療分野での認定取得が加速される",
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "世界と日本のチタンベースの粉末市場分析：規模、成長率、企業ランキング2025 | NEWSCAST",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "世界と日本のチタンベースの粉末市場分析：規模、成長率、企業ランキング2025",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "YHResearch調査チームの最新レポート「グローバルチタンベースの粉末のトップ会社の市場シェアおよびランキング 2025」によると、2025年から2031年の予測期間中のCAGRが4.1%で、2031年までにグローバルチタンベースの粉末市場規模は5.2億米ドルに達すると予測されている",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "５.主要生産地域のデータ：世界のチタンベースの粉末市場における主要な生産地域、生産能力、生産量、前年比成長率に関する情報を提供します",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：チタンベースの粉末の世界の主要生産地域、パーセントとCAGR（2020～2031）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第6章：製品別の販売量、平均価格、売上、パーセントとCAGR（2020～2031）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：アプリケーション別の販売量、平均価格、売上、パーセントとCAGR（2020～2031）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第8章：地域別セグメントの販売量、平均価格、売上、パーセントとCAGR（2020～2031）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第9章：国別の販売量、平均価格、売上、パーセントとCAGR（2020～2031）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "AMがプロトタイピングから、飛行に耐えうる航空宇宙部品や患者専用インプラントの大量生産へと規模を拡大するにつれ、Ti-64は新素材が比較される基準となる粉末となっている",
+    "url": "https://met3dp.com/ja/titanium-ti-64-for-3d-printing-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "コストは依然として高い方だが、AMがTi-64合金の使用量を拡大し、スケールメリットによる製造の最適化が可能になるにつれて、改善が続いている",
+    "url": "https://met3dp.com/ja/titanium-ti-64-for-3d-printing-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、真空中で3時間程度かけていたHIP処理を省略可能な大気中での短時間熱処理を見出だしたことにより低コスト、低CO2排出量で適用部品を拡大できる社会的意義がある",
+    "url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20K04168/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 8.5%",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 8.5% (2024 – 2030)",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD Million, CAGR (2024 – 2030)",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Q2. What is the CAGR for the Ti-6Al-4V Titanium Alloy market during the forecast period?",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is expected to grow at a CAGR of 8.5% from 2024 to 2030.",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 to 2036)",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The titanium powder market was valued at USD 1.7 billion in 2025. The market is set to reach USD 2.0 billion by 2026-end and grow at a CAGR of 14.8% between 2026-2036 to reach USD 7.8 billion by 2036. Alloyed powder will dominate with a 54.6% share, while Grade 5 will lead with a 47.3%% share.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Growth at 14.8% CAGR reflects the compounding effect of expanding additive manufacturing installed base, increasing adoption in serial production, and new application development across automotive and industrial sectors.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "From 2026 to 2036, the market is projected to expand at a CAGR of 14.8%.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The titanium powder market is expanding at 14.8% CAGR driven by additive manufacturing adoption, aerospace qualification, and medical device growth. Cost barriers constrain broader adoption, while production innovation enables market expansion.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Country Growth Comparison Titanium Powder Market Cagr (2026 2036)",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "China leads at 20.0% CAGR through 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "India leads at 18.5% CAGR through 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Germany leads at 17.0% CAGR through 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "France leads at 15.5% CAGR through 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global titanium powder market is projected to grow at a CAGR of 14.8% from 2026 to 2036. The analysis covers more than 30 countries, with the leading markets detailed below.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD Billion 1.95 to USD Billion 7.76, at a CAGR of 14.8%",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Between 2026 and 2036, demand is expected to grow at a CAGR of 14.8%.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "China is expected to grow at 20.0% CAGR through 2036. Additive manufacturing industry expansion drives powder demand.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア・主要企業": [
+   {
+    "quote": "地域の優位性は、チタンの大手メーカーや航空宇宙の高品質規格の存在によって燃料を供給されています",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "大手のエコノミエを横断する防衛投資は、先進的なチタン材料の運転需要を続け.",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "宝鶏チタン工業株式会社は、航空宇宙、船舶、化学加工、医療および産業用途で使用されるTi-6Al-4V製品を含むチタンおよびチタン合金材料の大手中国メーカーです",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "レポートは、Ti-6al-4vチタン合金市場で動作する大手企業の詳細な分析を提供します",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "製品ポートフォリオ、事業概要、地理的フットプリント、戦略的取り組み、市場セグメントシェア、SWOT分析に基づく比較評価を含みます",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "企業市場シェア分析",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "イギリス 脂肪置換器 市場規模, シェア, トレンド",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア51.6%",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、航空宇宙・防衛分野はチタン市場全体の51.63%のシェアを占めた",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア（2025年）",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": ", 中国の世界のチタン金属生産に占めるシェアは、およそ",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "中国の生産量が75%と圧倒的なシェアを占め、宝鶏（バオジ）の製鋼製品生産量が60%に達していることから、地理的集中リスクは監査上の標準的な課題となっている",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "特にチタンスポンジに限定すると、中国が約51%のシェアを占めており、次いで日本（17%）、ロシア（13%）が続く",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング用チタンおよびチタン合金の世界の主要企業には、サンドビック・オスプレイ、カーペンター・アディティブ、EOS、マテリアライズ、Eplus3Dなどが含まれます",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界の上位2社が市場シェアの約％を占めました",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "本インサイトレポートは、3Dプリンティング用チタンおよびチタン合金の世界的な動向を包括的に分析し、製品セグメンテーション、企業動向、収益、市場シェア、最新の開発動向、M&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、3Dプリンティング用チタンおよびチタン合金市場について、製品タイプ、用途、主要企業、主要地域および国別に、包括的な概要、市場シェア、成長機会を提示しています",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "また、タイプ別（チタン、チタン合金）の市場セグメント分析、その市場規模、2021年、2025年、2032年におけるタイプ別CAGR、2021年から2026年までのタイプ別の世界市場規模市場シェアが詳細に要約されています",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、用途別（航空宇宙、医療、自動車、その他）の市場セグメント分析、その市場規模、2021年、2025年、2032年における用途別CAGR、2021年から2026年までの用途別の世界市場規模市場シェアも含まれています",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "これには、プレイヤー別の市場規模市場シェア、2021年から2026年までのプレイヤー別の世界収益、および同期間におけるプレイヤー別の世界収益市場シェアが含まれます",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "各企業について、会社情報、提供される3Dプリンティング用チタンおよびチタン合金製品、2021年から2026年までの収益、粗利益、市場シェア、主要事業概要、および最新の動向が示されています",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界トップ2社が市場シェアの約％を占めました",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "本インサイトレポートは、世界のチタン合金インゴット業界の全体像を包括的に分析し、製品セグメンテーション、企業構成、売上高、市場シェア、最新動向、およびM&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要メーカー、および主要地域・国別に、チタン合金インゴット市場の包括的な概要、市場シェア、成長機会を提示しています",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "TOPTITECH（宝鶏英高金属材料有限公司）",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "また、チタン合金インゴットのタイプ別（Ti-6Al-4Vチタン合金インゴット、Ti-4Al-2Vチタン合金インゴット、その他）の内訳、各タイプにおける2021年から2026年までのグローバルな販売市場シェア、収益と市場シェア、販売価格の詳細な分析が示されています",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、用途別（航空宇宙、自動車、医療、海洋、その他）の内訳、各用途における2021年から2026年までのグローバルな販売市場シェア、収益と市場シェア、販売価格も含まれます",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "これには、2021年から2026年までのグローバルなチタン合金インゴットの年間販売量と販売市場シェア、年間収益と収益市場シェア、企業ごとの販売価格が含まれます",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "主要メーカーのチタン合金インゴットの生産地域分布、販売地域、製品タイプ、提供される製品に関する情報も網羅されています",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "第13章「主要プレーヤー分析」には、VSMPO-AVISMA、UKTMP、Stanford Advanced Materials、Timet（Precision Castparts）、ATI、LCMASA、Toho Titanium、TiFast、Baoji Qinlong Titanium Industry Co., Ltd.、Zunyi Titanium、Luoyang Sunrui Wangji Titanium CO.,Ltd、ATT Advanced elemental materials Co., Ltd、TOPTITECH（Baoji Yinggao Metal Materials Co., Ltd）、Baoji Yesheng Titanium Industry Co., LTD.といった主要各社の詳細な情報が記載されています",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースのシェア",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "医療や航空宇宙産業の大手ブランドは、一貫した特性と超微細な粒度制御を必要とする重要な用途に、これらのメーカーの高品質粉末を使用している",
+    "url": "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "- 評判の高いサプライヤーは、その能力と実績から、航空宇宙、医療、産業の大手ブランドから信頼を得ています",
+    "url": "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事をシェアする",
+    "url": "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "ミッションクリティカルな連続生産に部品を投入する大手金属AM企業は、市場の需要が加速する中、長期的に安定した粉末供給を確保するため、既存および新興のTi6Al4V粉末ベンダーと積極的に協力している",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事をシェアする",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "上記の図表／データは、YHResearchの最新レポート「グローバルチタンベースの粉末のトップ会社の市場シェアおよびランキング 2025」",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "YHResearch調査チームの最新レポート「グローバルチタンベースの粉末のトップ会社の市場シェアおよびランキング 2025」によると、2025年から2031年の予測期間中のCAGRが4.1%で、2031年までにグローバルチタンベースの粉末市場規模は5.2億米ドルに達すると予測されている",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "図. 世界のチタンベースの粉末市場におけるトップ14企業のランキングと市場シェア（2024年の調査データに基づく；最新のデータは、当社の最新調査データに基づいている）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、世界のトップ10企業は売上の観点から約59.0%の市場シェアを持っていた",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "２.会社別の売上と市場シェア：世界のチタンベースの粉末会社別の売上、価格、市場シェア、業界ランキングを提供します",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "３.中国市場の会社別データ：中国のチタンベースの粉末市場における主要企業の売上、価格、市場シェア、業界ランキングに関するデータを提供します",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：世界チタンベースの粉末の主要会社の市場シェアとランキング、販売量、売上、平均価格（2020～2025）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：中国チタンベースの粉末の主要会社の市場シェアとランキング、販売量、売上、平均価格（2020～2025）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第10章：会社概要、製品仕様、アプリケーション、最近の発展状況、販売量、平均価格、売上、粗利益率などについて、市場における主要企業の基本状況を詳しく紹介する",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースのシェア",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metal社の金属3Dプリンターがチタン材料（Ti64）に対応 ～チタン合金使用で高強度・軽量な部品が造形可能～ « アルテック株式会社",
+    "url": "https://www.altech.co.jp/item_news/dmti64",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metal社の金属3Dプリンターがチタン材料（Ti64）に対応 ～チタン合金使用で高強度・軽量な部品が造形可能～",
+    "url": "https://www.altech.co.jp/item_news/dmti64",
+    "pass": 3
+   },
+   {
+    "quote": "アルテック株式会社（本社：東京都中央区、代表取締役社長：池谷 壽繁（いけや とししげ）、東証一部上場：証券番号9972、以下アルテック）は、国内一次代理店を務める金属3Ｄプリンター業界大手",
+    "url": "https://www.altech.co.jp/item_news/dmti64",
+    "pass": 3
+   },
+   {
+    "quote": "のDesktop Metal社が開発した金属3Dプリンター「Studioシステム」でチタン合金の造形が可能になったことを発表いたしました",
+    "url": "https://www.altech.co.jp/item_news/dmti64",
+    "pass": 3
+   },
+   {
+    "quote": "量産型およびターンキー積層造形ソリューションのリーディングカンパニーであるDesktop Metal社（NYSE:DM）は、Studioシステムにチタン合金Ti-6Al-4V（Ti64）の使用を認定したことを発表しました",
+    "url": "https://www.altech.co.jp/item_news/dmti64",
+    "pass": 3
+   },
+   {
+    "quote": "Ti64は９月に出荷が予定されており、Desktop Metal社は押出方式のBMD（バウンドメタルデポジション）用材料としてTi64を商業的に利用できる最初の企業となります",
+    "url": "https://www.altech.co.jp/item_news/dmti64",
+    "pass": 3
+   },
+   {
+    "quote": "Studioシステムは、Desktop Metal社独自のBound Metal Deposition™ (BMD)技術を活用したオフィスで使いやすい金属プリントシステムです",
+    "url": "https://www.altech.co.jp/item_news/dmti64",
+    "pass": 3
+   },
+   {
+    "quote": "「Desktop Metal Studio System™2」",
+    "url": "https://www.altech.co.jp/item_news/dmti64",
+    "pass": 3
+   },
+   {
+    "quote": "▲TOPに戻る",
+    "url": "https://www.altech.co.jp/item_news/dmti64",
+    "pass": 3
+   },
+   {
+    "quote": "アルテック株式会社（以下、アルテック）は、国内一次代理店を務めるアメリカの金属3Dプリンター業界大手のDesktop Metal社（以下、デスクトップメタル社）が開発した金属3Dプリンター「",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metal 最新NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "脱脂不要の金属FDM方式「Studioシステム2」を発表－DesktopMetal",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "DesktopMetal 公式サイト",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metal",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   }
+  ],
+  "ニッチ度（供給元の数・寡占）": [
+   {
+    "quote": "独占市場インサイトのロック解除",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙分野におけるAMチタン部品の認証プロセスは、従来の鍛造品よりも時間がかかり、認定済みの粉末サプライチェーンは限られています",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "ロシアが「チタンスポンジから始まる重要な中流バリューチェーン」を支配してきたことを指摘している――そして、ロシアの主要なチタン生産企業であるVSMPO-AVISMAは、ウクライナ紛争以前はボーイングやエアバスへの主要な供給元であった",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "医療用途における6.15%の年平均成長率（CAGR）に加え、ELIグレードの厳しい仕様や認定メーカーの数が限られていることから、医療機器メーカーは今後、ますます競争の激化する調達環境に直面することになるでしょう",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙グレードの球状Ti-6Al-4V粉末の認定サプライヤーは限られています",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要プレイヤーの本社と提供製品に関する情報、市場集中度分析（競争環境分析、CR3、CR5、CR10の集中度および2024年から2026年までの予測）、新製品と潜在的な新規参入者、合併・買収および事業拡大の動向についても記載されています",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "新製品の動向、新規参入の可能性、市場におけるM&A活動と戦略についても触れられています",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "AMは、チタン、ニッケル、コバルトクロムなどの反応性高温合金に限られている",
+    "url": "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "金属AMの成長に伴い、多くの新規参入企業がTi6Al4V粉末を提供している",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "限られた、小さい",
+    "url": "https://prep-system.com/ja/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB%E3%81%AE%E7%94%A8%E9%80%94/",
+    "pass": 3
+   },
+   {
+    "quote": "不規則な形態、大きな粒子径（75～250μm）、中～高純度、限られた合金",
+    "url": "https://met3dp.com/ja/titanium-alloys-powder-20231218/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤーが限られている",
+    "url": "https://met3dp.com/ja/titanium-powders-20240103/",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、AMで利用できるのは小粒径（チタン合金の場合は45μm以下）に限られており、大粒径粉末を用いた部品製造技術は実用化されていない",
+    "url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20K04168/",
+    "pass": 3
+   },
+   {
+    "quote": "チタン合金粉末は特殊な製造設備で生産されるため流通量が限られており、市場の需給バランスや国際的な情勢により、価格が大きく変動することもあります",
+    "url": "https://www.jeol.co.jp/column/detail007.html",
+    "pass": 3
+   },
+   {
+    "quote": "この規制のゲートは参入障壁となる一方で、認証されたサプライヤーにとっては品質の堀を確立します",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、高度なアトマイゼーションラインを設置するための資本支出は大きく、新規参入者にとっての障壁となり、確立された技術的に熟練したプレーヤーの周りに市場を集中させています",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   },
+   {
+    "quote": "13.1 Most Attractive Product Niches",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   },
+   {
+    "quote": "限られた材料しか入手できない",
+    "url": "https://met3dp.com/ja/ti-6al-4v-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "限られた拡張性",
+    "url": "https://met3dp.com/ja/ti-6al-4v-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "とくに中国系を含む国際供給元の中には、費用対効果に優れ、事前技術相談と導入後支援が手厚い企業もあり、日本向け認証対応や継続供給体制を満たすなら十分に検討対象になります",
+    "url": "https://blog.met3dp.com/ja/blog/ti6al4v-eli-powder-for-medical-implant-3d-printing-use/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、医療機器メーカー、受託造形会社、研究機関、販売代理店のいずれに対しても、供給元がどの程度まで実務支援できるかが重要です",
+    "url": "https://blog.met3dp.com/ja/blog/ti6al4v-eli-powder-for-medical-implant-3d-printing-use/",
+    "pass": 3
+   },
+   {
+    "quote": "関東の歯科系ラボでは、少量多品種のカスタム部品に対応するため、微粒で流動性の良い粉末を選び、短納期サンプル対応が可能な供給元を採用する傾向があります",
+    "url": "https://blog.met3dp.com/ja/blog/ti6al4v-eli-powder-for-medical-implant-3d-printing-use/",
+    "pass": 3
+   },
+   {
+    "quote": "輸送負荷の低減、再利用粉管理、工程短縮による廃棄削減などを説明できる供給元は、価格競争だけに巻き込まれにくくなります",
+    "url": "https://blog.met3dp.com/ja/blog/ti6al4v-eli-powder-for-medical-implant-3d-printing-use/",
+    "pass": 3
+   },
+   {
+    "quote": "is carving out a niche in",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "ADMA Products (USA), BLT (China) represent emerging participants targeting niche applications.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   }
+  ],
+  "日本の買い手と供給元": [
+   {
+    "quote": "地域における成長は、航空宇宙の生産の高投資、医療インプラントの需要の増加、自動車製造の拡大、中国、日本、韓国、インドの先進金属添加製造技術の使用に起因しています",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "この成長を牽引する2つの構造的要因として、世界的な人口の高齢化（特に日本、ドイツ、北米）と、中国、インド、ブラジルといった新興市場におけるチタン製インプラントの採用拡大が挙げられます",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": ". これは単なる漸進的な変化ではなく、欧米の生産者が事業から撤退する一方で、国内でスポンジおよび合金の生産能力への巨額の投資が行われたことによって引き起こされた構造的な変化である",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "中国 51%、日本 17%、ロシア 13%（『アビエーション・ウィーク』）",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "欧米のOEM各社は代替供給源の認定を積極的に進めているが、認定には2～4年を要し、日本、米国（ATI、TIMET）、オーストラリアからの供給には制約がある",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "貿易制裁、輸出規制、国内政策の転換など、いかなる混乱が生じても、世界の航空宇宙および産業のサプライチェーンに即座に影響が及ぶだろう",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "代替スポンジ原料の認定プロセスを加速する（日本、カザフスタン、オーストラリアの新設生産能力）",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "国内の航空宇宙産業の拡大、医療機器製造、エレクトロニクス",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "国内の防衛用途",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "この成長を牽引しているのは、中国のCOMAC C919プログラムおよび、より広範な国内航空産業の野心である",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "米国は国防総省（DoD）の資金によるプログラムを通じて、国内のスポンジチタン生産能力の耐性強化に投資してきたが、アジアからの供給に完全に依存しない状態になるまでには、まだ数年を要する見通しだ",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "米国防総省が支援する国内生産能力強化イニシアチブ",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "以前はVSMPOから調達していた欧米のOEM各社は、現在では（コストは高いものの）米国・日本のメーカーと、（地政学的リスクへの懸念があるものの）中国のメーカーの2つに分かれている",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "特にチタンスポンジに限定すると、中国が約51%のシェアを占めており、次いで日本（17%）、ロシア（13%）が続く",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年代の国内調達イニシアチブ――IperionX社の米国におけるスポンジチタン生産への資金提供や、ATI社の生産能力拡大への投資など――は、軍事・防衛用航空宇宙部品における中国へのサプライチェーン依存に対する国防総省の懸念を反映したものです",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場規模（2021-2026年）",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア）、タイプ別、および用途別の市場規模が示されています",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "これには、2027年から2032年までの地域別（アメリカ、APAC、ヨーロッパ、中東・アフリカ）予測、アメリカ大陸の国別（米国、カナダ、メキシコ、ブラジル）予測、APACの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア）予測、ヨーロッパの国別（ドイツ、フランス、英国、イタリア、ロシア）予測、中東・アフリカの地域別（エジプト、南アフリカ、イスラエル、トルコ、GCC諸国）予測が含まれます",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：3Dプリンティング用チタンおよびチタン合金の世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "一般財団法人JR東日本文化創造財団、MoN Takanawa: The Museum of Narratives、Barbican Centre",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "特に、中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾の各地域/国の市場状況が個別に分析されています",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：チタン合金インゴットの世界市場2026年～2032年",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://met3dp.com/ja/titanium-powder-for-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "- 国内メーカーは中国/ロシア業者よりも高い料金を請求する",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://prep-system.com/ja/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB%E3%81%AE%E7%94%A8%E9%80%94/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、国内外の 3D 印刷技術が発表され、航空宇宙のニーズが 3D 印刷の最初の産業用アプリケーションのターゲットになります",
+    "url": "https://prep-system.com/ja/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB%E3%81%AE%E7%94%A8%E9%80%94/",
+    "pass": 3
+   },
+   {
+    "quote": "世界と日本のチタンベースの粉末市場分析：規模、成長率、企業ランキング2025 | NEWSCAST",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "世界と日本のチタンベースの粉末市場分析：規模、成長率、企業ランキング2025",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5840-2692（日本）；0081-5058402692（グローバル）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "アルテック株式会社（本社：東京都中央区、代表取締役社長：池谷 壽繁（いけや とししげ）、東証一部上場：証券番号9972、以下アルテック）は、国内一次代理店を務める金属3Ｄプリンター業界大手",
+    "url": "https://www.altech.co.jp/item_news/dmti64",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://met3dp.com/ja/titanium-alloys-powder-20231218/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://met3dp.com/ja/titanium-powders-20240103/",
+    "pass": 3
+   },
+   {
+    "quote": "アルテック株式会社（以下、アルテック）は、国内一次代理店を務めるアメリカの金属3Dプリンター業界大手のDesktop Metal社（以下、デスクトップメタル社）が開発した金属3Dプリンター「",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年2月26日から28日までの3日間にわたって開催される「日本ものづくりワールド」",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Japan 2025主催者に聞く！3Dプリンター展示会来場のポイントとは？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "ShareLabは日本の業務用3Dプリンタ―およびAM（アディティブ・マニュファクチャリング）に関するあらゆる情報が集まるポータルサイトです",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #12 参加申込フォーム",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #13 参加申込フォーム",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #14 参加申込フォーム",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内メーカー一覧",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "における情報を集めた国内最大級の技術データベースサイトです",
+    "url": "https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E3%83%81%E3%82%BF%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "『Super-TIX チタン』は、日本製鉄が開発したチタン合金",
+    "url": "https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E3%83%81%E3%82%BF%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙規格から日本製鉄規格のSuper-TIXまで豊富にラインアップ",
+    "url": "https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E3%83%81%E3%82%BF%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語 (Japanese)",
+    "url": "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/titanium-alloy-am-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "この製品は日本市場ではご利用いただけません",
+    "url": "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/titanium-alloy-am-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://met3dp.com/ja/titanium-ti-64-for-3d-printing-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "日本実験力学会",
+    "url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20K04168/",
+    "pass": 3
+   },
+   {
+    "quote": "130 Bulletin of the Japanese Institute of Additive Manufacturing Vol.1 No.1",
+    "url": "https://www.jstage.jst.go.jp/article/amfuture/1/1/1_129/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "132 Bulletin of the Japanese Institute of Additive Manufacturing Vol.1 No.1",
+    "url": "https://www.jstage.jst.go.jp/article/amfuture/1/1/1_129/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターでチタン合金を造形 レーザー/電子ビームの違い・活用法を解説 | コラム | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/column/detail007.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子ニュース｜技術情報誌",
+    "url": "https://www.jeol.co.jp/column/detail007.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内関係会社",
+    "url": "https://www.jeol.co.jp/column/detail007.html",
+    "pass": 3
+   },
+   {
+    "quote": "数字で見る日本電子",
+    "url": "https://www.jeol.co.jp/column/detail007.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子について",
+    "url": "https://www.jeol.co.jp/column/detail007.html",
+    "pass": 3
+   }
+  ],
+  "日本の顧客が買うか（需要の証拠）": [
+   {
+    "quote": "市場は、航空機の生産の増加、医療インプラントの手順の数の増加、金属3D印刷の採用と軽量産業材料の需要の増加により、航空宇宙安全基準、医療機器の品質の遵守、防衛近代化および高度な製造イニシアチブの増加によって成長しています",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "2024年4月、ノルスクチタンはエアバスエアロ構造と長期マスターサプライ契約を締結し、エアバスA350プログラム用の3Dプリント構造チタン部品を供給し、航空機製造における航空宇宙グレードのTi-6Al-4Vチタン合金の採用増加を支援しました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "商用エアロスペース製造からの調達要求",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "医療用インプラントおよび専門医の採用の増加",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "化学加工装置におけるライジング採用",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "2. 医学のインプラントおよび専門医の採用の増加",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "成長する高齢化の人口, 整形外科手術の上昇と長期インプラント材料の需要の増加は、世界的なヘルスケア市場全体での採用を加速し続ける.",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "レポートの購入について相談する",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "購入前のお問い合わせ",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "チタン市場を調査する際、アナリストや調達担当者が真っ先に気づくのは、数値がまったく一致していないという点だ",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "この適用範囲を採用している企業の例",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用購入者にとって最も明確な指標は、金属のバリューチェーン全体を示す数値である",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": ". これは、ほとんどの航空宇宙および産業分野の調達チームが、社内で市場規模を引用する際に用いるべき数値です",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "TiO₂顔料市場（塗料、紙、プラスチック）は確かに存在し、規模も大きい――しかし、そのサプライチェーンも、購入者層も、価格動向も全く異なる",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "これらをひとまとめにすることで「チタン市場」という表現はより印象的に聞こえるかもしれないが、航空機の構造部品用にグレード5の合金を調達しようとする場合には、あまり役に立たない",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、ほとんどの材料エンジニアや合金購入担当者が基準とすべき数値です",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "（MarketsandMarkets）は、3.8%のCAGRを採用している",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "この成長を牽引する2つの構造的要因として、世界的な人口の高齢化（特に日本、ドイツ、北米）と、中国、インド、ブラジルといった新興市場におけるチタン製インプラントの採用拡大が挙げられます",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "ニアネットシェイプ製造により、購入から飛行までの比率を低減できる",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙用チタン部品の従来の機械加工では、購入量対飛行量比が6:1から20:1となっています",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、これまでコストの面で採用が困難だった衛星部品、医療用スキャフォールド、自動車用高性能部品といった用途へのチタンの導入が可能になっています",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "調達における実務上の意味合い：",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "購入者がすべきこと：",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "以前はVSMPOから調達していた欧米のOEM各社は、現在では（コストは高いものの）米国・日本のメーカーと、（地政学的リスクへの懸念があるものの）中国のメーカーの2つに分かれている",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "数百件に及ぶボトムアップ型の定性的・定量的市場データに基づく透明性の高い方法論を採用した本調査の予測は、3Dプリンティング用チタンおよびチタン合金の世界市場における現状と将来の動向について、極めて精緻な見解を提供します",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "トーホーテックのチタン系粉ご採用のメリット・特徴",
+    "url": "https://nmmjx-dc.com/products/3d_printer/titan_powder.html",
+    "pass": 3
+   },
+   {
+    "quote": "LPBFの採用が活発化：AM製グレード5/23部品の残留応力や歪みを低減し、疲労強度を向上させるため、200～450°Cでのプレート加熱が一般的になりつつある",
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "疲労データの標準化：HIP処理および表面仕上げを施したAM Ti-6Al-4Vの許容値が拡大され、航空宇宙および医療分野での認定取得が加速される",
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "ニアネット鍛造とハイブリッド製造：プリントされたプリフォームと等温鍛造を組み合わせることで、大型構造物の「購入から飛行まで」の比率を低減できる",
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "背景：大型鍛造品における「購入対飛行」比率の高さと、長いリードタイム",
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクルが経済的に理にかなっているため、多くのサービス局や金属AM採用企業は、粉体回収システムや再調整装置に投資している",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "バランスのとれた機械的特性、耐食性、生体適合性、比較的手頃な価格、高度な製造能力により、Ti6Al4V粉末を使用して製造された部品の採用が増加する未来は明るい",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、原料であるスポンジチタンの調達において、地政学的リスクや価格変動に対する対応力が求められており、サプライチェーンの多元化やリサイクルルートの確立が喫緊の課題である",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "チタン粉末冶金の進歩は、AM技術に合わせた最適化された粉末を通して、さらに採用を拡大しています",
+    "url": "https://met3dp.com/ja/titanium-alloys-powder-20231218/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末製造、後加工、合金開発、資格認定に焦点を当てた継続的な研究開発は、チタンの能力が次世代の輸送や健康技術を可能にする航空宇宙、防衛、モータースポーツ、医療分野での採用拡大を目指す",
+    "url": "https://met3dp.com/ja/titanium-powders-20240103/",
+    "pass": 3
+   },
+   {
+    "quote": "DBMD方式は一般的なハイエンドメタル3Dプリンターが採用しているSLS方式とは違い、FDM方式のような仕組みで造形する",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター購入のための助成金・補助金の制度",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター購入時に使える税制優遇措置",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "購入前にお試し！業務用3Dプリンターが利用できる公共施設",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "チタン グレード2のホーローセットや小サイズのボルト、ナット等、海外メーカーから調達可能です",
+    "url": "https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E3%83%81%E3%82%BF%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "海外製はLotが問題視されがちですが、",
+    "url": "https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E3%83%81%E3%82%BF%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "【小ロット購入OK！】耐熱チタン合金『Super-TIX 』",
+    "url": "https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E3%83%81%E3%82%BF%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "大手マフラーメーカーに採用実績多数！マフラーの軽量化を実現！",
+    "url": "https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E3%83%81%E3%82%BF%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "多くのMOTO GP車両や大手マフラーメーカーに採用されています",
+    "url": "https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E3%83%81%E3%82%BF%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "電池ケースや半導体設備など幅広い分野で採用",
+    "url": "https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E3%83%81%E3%82%BF%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "その強度や耐食性、生体適合性から、医療分野でも医療器具として採用される機会が増えています",
+    "url": "https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E3%83%81%E3%82%BF%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "手作業による作業負荷を軽減！各種の道具や治具、攪拌機部品にも採用されています！",
+    "url": "https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E3%83%81%E3%82%BF%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "タンクローリーに多く採用されています",
+    "url": "https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E3%83%81%E3%82%BF%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "攪拌機部品に採用されたり、手作業による作業負荷を軽減するため各種の",
+    "url": "https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E3%83%81%E3%82%BF%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属・鉄鋼・特殊金属材料と、樹脂材料を取り扱い、調達から加工販売までを",
+    "url": "https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E3%83%81%E3%82%BF%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "また、グローバルな価格競争に対応すべく、量産品の海外調達も行っております",
+    "url": "https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E3%83%81%E3%82%BF%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "調達における社会的責任",
+    "url": "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/titanium-alloy-am-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的な採用応募フォーム",
+    "url": "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/titanium-alloy-am-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "3DプリントTi-64はまた、設計の自由度を生かして、ロボット工学、スポーツ用品、電子機器の熱管理といった高価値産業への採用も増えている",
+    "url": "https://met3dp.com/ja/titanium-ti-64-for-3d-printing-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "材料の無駄を最小限に抑え、90%を超える購入対飛行比を実現",
+    "url": "https://met3dp.com/ja/titanium-ti-64-for-3d-printing-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "少量の研究開発用サンプルはMOQなしで購入できるようになったが、生産には注文予測が必要である",
+    "url": "https://met3dp.com/ja/titanium-ti-64-for-3d-printing-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "Ti-64が最も広く採用されている一方で、他のグレードもAMの代替オプションとして競合している：",
+    "url": "https://met3dp.com/ja/titanium-ti-64-for-3d-printing-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "キャリア採用",
+    "url": "https://www.jeol.co.jp/column/detail007.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空機部品や人工関節、レース用車両、自転車フレームなど、さまざまな分野での採用が進んでいます",
+    "url": "https://www.jeol.co.jp/column/detail007.html",
+    "pass": 3
+   }
+  ],
+  "再生・循環": [
+   {
+    "quote": "チタンリサイクルと持続可能な生産の拡大",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "SNSで466万回再生！北海道で大人気のベーカリー",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "最近では、チタン合金のリサイクル技術も注目されています",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "使用済み粉体のリサイクル・システムの構築",
+    "url": "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "粉体使用効率、リサイクル率",
+    "url": "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "Q: 3Dプリント後のチタンパウダーはどのようにリサイクルされるのですか？",
+    "url": "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "Ti6Al4V 粉末リサイクル",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "高い材料費を考えると、レーザー溶融や電子ビーム溶融のようなAMプロセスで使用されるTi6Al4V粉末をリサイクルすることで、最大65%という大幅なコスト削減が可能になる",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "サンプリングに基づき、リサイクル可能な粉末と廃棄粉末を特定する",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクル可能なパウダーを分析し、製造中の酸素ピックアップを調べる",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクル可能な粉末とバージンTi6Al4V粉末のブレンド",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "通常、30～50%のリサイクルパウダーを使用",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "100%リサイクルパウダーは航空宇宙部品には使用しないでください",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクルが経済的に理にかなっているため、多くのサービス局や金属AM採用企業は、粉体回収システムや再調整装置に投資している",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "Q: Ti6Al4Vのバージンパウダーとリサイクルパウダーをブレンドする最も簡単な方法は何ですか？",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、原料であるスポンジチタンの調達において、地政学的リスクや価格変動に対する対応力が求められており、サプライチェーンの多元化やリサイクルルートの確立が喫緊の課題である",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形後のチタン合金はリサイクル可能か？",
+    "url": "https://met3dp.com/ja/titanium-alloys-powder-20231218/",
+    "pass": 3
+   },
+   {
+    "quote": "一部のチタン合金では90%以上のリサイクル歩留まりが達成され、大幅なコスト削減をもたらします",
+    "url": "https://met3dp.com/ja/titanium-alloys-powder-20231218/",
+    "pass": 3
+   },
+   {
+    "quote": "完全リサイクル可能",
+    "url": "https://met3dp.com/ja/titanium-powders-20240103/",
+    "pass": 3
+   },
+   {
+    "quote": "チタンの長所は、高価で、再利用やリサイクル時の汚染に敏感であるという欠点があるにもかかわらず、特殊な用途に適している",
+    "url": "https://met3dp.com/ja/titanium-powders-20240103/",
+    "pass": 3
+   },
+   {
+    "quote": "生産エコシステムには、粉末のふるい分け、リサイクル、特性評価のための専門サービスプロバイダーも含まれており、AMプロセスチェーンにおける品質と経済的効率を確保するために不可欠です",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   },
+   {
+    "quote": "対照的に、産業および自動車用途は、キログラムあたりの粉末コストに対してはるかに敏感であり、より経済的な生産方法やリサイクル粉末の認証を求める需要を生み出しています",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   },
+   {
+    "quote": "また、粉末リサイクルサービスの登場が競争の差別化要因として見られ、顧客が材料コストと持続可能性の目標を管理するのを助けています",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   },
+   {
+    "quote": "重要なアプリケーションにおける粉末リサイクルの認証と標準化は大きな焦点となり、材料コストや持続可能性のプロファイルに影響を与えることになります",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   },
+   {
+    "quote": "クローズドループリサイクル能力やデジタルトレーサビリティへの投資は、競争上の必須条件となるでしょう",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   },
+   {
+    "quote": "- AMバリューチェーン内のリサイクル粉末およびバージン粉末ストリーム",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、この皮膜に傷が付いても、酸素や水分があれば自己修復的に再生成しやすく長期的な耐食性を保ちやすいです",
+    "url": "https://jampt.jp/column/titanium-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "また、再生粉を混ぜる比率や、何サイクルまで医療グレードとして運用できるかは、粉末ごとの挙動差が大きいため、サプライヤーの実測データが重要です",
+    "url": "https://blog.met3dp.com/ja/blog/ti6al4v-eli-powder-for-medical-implant-3d-printing-use/",
+    "pass": 3
+   },
+   {
+    "quote": ", the Ti-6Al-4V market is being impacted by efforts to reduce waste and improve energy efficiency in the production of titanium alloys. Innovations in recycling processes are allowing for the reuse of titanium scrap, which not only reduces costs but also minimizes the environmental impact associated with raw material extraction.",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The drive toward sustainability will likely lead to the increased use of recycled titanium and further push the market toward energy-efficient production methods, making Ti-6Al-4V even more attractive for eco-conscious industries.",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "that reduce the environmental impact of titanium alloy manufacturing. These processes focus on reducing energy consumption during production and increasing the recycling of titanium scrap material, addressing both environmental concerns and rising production costs.",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "recycling infrastructure",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2. Federal Aviation Administration. (2024). FAA Advisory Circular: Additive Manufacturing of Metallic Components for Aircraft. FAA.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Expansion of Titanium Recycling and Sustainable Production",
+    "url": "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "航空宇宙産業のサプライチェーンの混乱が依然として続いており、OEMの生産ペースの回復を妨げている",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "欧米のOEM各社は代替供給源の認定を積極的に進めているが、認定には2～4年を要し、日本、米国（ATI、TIMET）、オーストラリアからの供給には制約がある",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "以前はVSMPOから調達していた欧米のOEM各社は、現在では（コストは高いものの）米国・日本のメーカーと、（地政学的リスクへの懸念があるものの）中国のメーカーの2つに分かれている",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "両OEMからの月次納入データは、追跡すべき最良の先行指標である",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "ビルド・プレートのセットアップについては、OEMのガイドラインに従うこと",
+    "url": "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "OEMのスケジュールに従った予防保守は、プリンターの可用性、印刷の安定性、稼働寿命を最大化するために不可欠です",
+    "url": "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "OEMサポートサービスと対応力",
+    "url": "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM／学術用データセット",
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "機械のOEMに関する開示事項",
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM向けLPBF/EBMパラメータガイド；ベンダーのアプリケーションノートに基づく粉末分析（Malvern Mastersizer、LECO O/N/H）",
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月1日、または、ASTM/SAEがAM用Ti-6Al-4Vの新たな許容値を公表した場合、OEMが検証済みの加熱LPBFデータセットを公開した場合、あるいはNIST/ASMが疲労・欠陥に関するベンチマークの更新版を公表した場合は、それ以前の日付",
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "アルテック株式会社（本社：東京都中央区、代表取締役社長：池谷 壽繁（いけや とししげ）、東証一部上場：証券番号9972、以下アルテック）は、国内一次代理店を務める金属3Ｄプリンター業界大手",
+    "url": "https://www.altech.co.jp/item_news/dmti64",
+    "pass": 3
+   },
+   {
+    "quote": "業務用音響機器等の輸入・販売を行う音響特機株式会社と販売代理店契約を締結 ～クレストロン製品と音響・映像機器のシナジー効果で販促強化を目指す～",
+    "url": "https://www.altech.co.jp/item_news/dmti64",
+    "pass": 3
+   },
+   {
+    "quote": "アルテック株式会社（以下、アルテック）は、国内一次代理店を務めるアメリカの金属3Dプリンター業界大手のDesktop Metal社（以下、デスクトップメタル社）が開発した金属3Dプリンター「",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM 認証仕様",
+    "url": "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/titanium-alloy-am-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "利害関係者の成功は、強靭な原材料調達の確保、AM設計におけるOEMとの協力の深化、航空宇宙および医療分野における認証材料のためのますます複雑化する規制環境のナビゲートに依存します",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   },
+   {
+    "quote": "貿易の流れは、コスト競争力、エンドユーザーが要求する特定の技術仕様、および日本のOEMとグローバルな材料サプライヤーとの既存の商業関係などの要因によって影響を受けます",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルリーダーは、スケール、広範なR&Dリソース、そして多国籍の航空宇宙および医療OEMとの確立された関係を活用しています",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   },
+   {
+    "quote": "これには、国内外のTi-6Al-4V粉末製造業者、付加製造サービスビューロー、そして日本の主要な航空宇宙、医療、産業OEMの調達/サプライチェーン専門家とのシニアエグゼクティブやエンジニアリングリードとの会話が含まれます",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   },
+   {
+    "quote": "12.3 Distributor / Partner / Direct Entry Options",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   },
+   {
+    "quote": "OEM & ODM",
+    "url": "https://met3dp.com/ja/ti-6al-4v-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM/ODMを受け付けています",
+    "url": "https://am-material.com/ja/titanium-alloy-tc4-material/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーですか、それとも商社ですか？",
+    "url": "https://am-material.com/ja/titanium-alloy-tc4-material/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタムオーダーとOEM/ODMに対応しています",
+    "url": "https://am-material.com/ja/titanium-alloy-tc4-material/",
+    "pass": 3
+   },
+   {
+    "quote": "候補としては、株式会社大阪チタニウムテクノロジーズ、株式会社神戸製鋼所、東邦チタニウム株式会社、株式会社フジデノロ系の医療造形関連ネットワーク、そして三井物産系や専門商社を通じた海外粉末供給体制が実務上よく比較対象になります",
+    "url": "https://blog.met3dp.com/ja/blog/ti6al4v-eli-powder-for-medical-implant-3d-printing-use/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、医療機器メーカー、受託造形会社、研究機関、販売代理店のいずれに対しても、供給元がどの程度まで実務支援できるかが重要です",
+    "url": "https://blog.met3dp.com/ja/blog/ti6al4v-eli-powder-for-medical-implant-3d-printing-use/",
+    "pass": 3
+   },
+   {
+    "quote": "海外供給、日本商社経由",
+    "url": "https://blog.met3dp.com/ja/blog/ti6al4v-eli-powder-for-medical-implant-3d-printing-use/",
+    "pass": 3
+   },
+   {
+    "quote": "日本向け直販・代理店連携",
+    "url": "https://blog.met3dp.com/ja/blog/ti6al4v-eli-powder-for-medical-implant-3d-printing-use/",
+    "pass": 3
+   },
+   {
+    "quote": "受託造形、販売店、研究機関、量産準備企業",
+    "url": "https://blog.met3dp.com/ja/blog/ti6al4v-eli-powder-for-medical-implant-3d-printing-use/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器本社、商社、研究機関が集中",
+    "url": "https://blog.met3dp.com/ja/blog/ti6al4v-eli-powder-for-medical-implant-3d-printing-use/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店経由の導入が進みやすい",
+    "url": "https://blog.met3dp.com/ja/blog/ti6al4v-eli-powder-for-medical-implant-3d-printing-use/",
+    "pass": 3
+   },
+   {
+    "quote": "協業面では、最終使用者向けの個別提案だけでなく、販売代理店、地域ディーラー、ブランドオーナー、研究機関、個人開発者まで対象を広げ、OEM、ODM、卸売、小口販売、地域販売パートナーシップに柔軟に対応できる体制を整えています",
+    "url": "https://blog.met3dp.com/ja/blog/ti6al4v-eli-powder-for-medical-implant-3d-printing-use/",
+    "pass": 3
+   },
+   {
+    "quote": "like Ti-6Al-4V. The region is also home to several aerospace OEMs that use Ti-6Al-4V in the production of turbine blades, fasteners, and landing gear.",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "to provide high-quality Ti-6Al-4V for the aerospace company’s next-generation aircraft. This partnership underscores the growing importance of Ti-6Al-4V in aerospace manufacturing and the increasing collaboration between OEMs and material suppliers to meet the stringent demands of the industry.",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The titanium powder market is experiencing accelerated growth as additive manufacturing transitions from prototyping to serial production in aerospace and medical applications, creating sustained demand for qualified powder.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace development programs create qualified powder requirements.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and defense leadership drives qualified powder procurement.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "AP&C (GE Additive) leads with plasma atomized titanium powder production for aerospace AM. Sandvik provides gas atomized powder through its Osprey brand. Praxair S.T. Technology (now part of Linde) and Kymera International supply qualified powder for aerospace and medical markets.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "2026年の合金のみの市場規模は$5～7十億の範囲にあり、年間およそ5%のペースで成長しています",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "チタンの消費量では航空宇宙産業が圧倒的な割合を占めているが、その実態は多くの市場レポートが示唆するよりも複雑である",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアリングチームがAM（アディティブ・マニュファクチャリング）ベースの生産へと移行している場合は、今すぐ粉末サプライヤーの認定作業を開始してください",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙分野におけるAMチタン部品の認証プロセスは、従来の鍛造品よりも時間がかかり、認定済みの粉末サプライチェーンは限られています",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "欧米のOEM各社は代替供給源の認定を積極的に進めているが、認定には2～4年を要し、日本、米国（ATI、TIMET）、オーストラリアからの供給には制約がある",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "代替スポンジ原料の認定プロセスを加速する（日本、カザフスタン、オーストラリアの新設生産能力）",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は世界のチタン生産量をリードしており、消費量においてもますます主導的な地位を占めつつある",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "医療用途における6.15%の年平均成長率（CAGR）に加え、ELIグレードの厳しい仕様や認定メーカーの数が限られていることから、医療機器メーカーは今後、ますます競争の激化する調達環境に直面することになるでしょう",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした状況では、長期供給契約を結ぶことが理にかなっています",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙グレードの球状Ti-6Al-4V粉末の認定サプライヤーは限られています",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "認定プロセスは早めに開始してください",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "医療分野は最も急成長している用途であり、2031年までの年間平均成長率（CAGR）は6.15%と予測されている",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "その主な要因としては、中国の輸出規制、あるいは供給の認定スケジュールを上回る航空宇宙分野での生産急増が考えられる",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "第4章には、地域別の3Dプリンティング用チタンおよびチタン合金市場について、2021年から2026年までの地域別の市場規模、国/地域別の年間収益が示されています",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "pass": 3
+   },
+   {
+    "quote": "世界のチタン合金インゴット市場の今後10年間の見通しは？",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "これには、2021年から2032年までのグローバルな年間販売実績と予測、2021年、2025年、2032年時点の地域別および国/地域別の現状と将来分析が含まれます",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "これには、2021年から2026年までのグローバルなチタン合金インゴットの年間販売量と販売市場シェア、年間収益と収益市場シェア、企業ごとの販売価格が含まれます",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "これには、地域別の年間販売量と年間収益が含まれます",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、国/地域別の年間販売量と年間収益も提供されます",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "これには、2027年から2032年までの地域別の販売量と年間収益の予測が含まれます",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "すべてのシステムコンポーネントを定期的に清掃し、メンテナンスする",
+    "url": "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "微粒子の吸入を制限するため、NIOSH認定の呼吸保護具を着用する",
+    "url": "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "A: 航空宇宙産業はチタン粉末の消費量の60%以上を占めており、エンジン部品、機体部品、ファスナー、その他耐熱性と耐食性と共に極めて高い強度を必要とする重要な軽量構造部品の製造に使用されています",
+    "url": "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "フィルターと消耗品の定期交換",
+    "url": "https://met3dp.com/ja/titanium-powder-for-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "定期的なメンテナンスが必要：",
+    "url": "https://met3dp.com/ja/titanium-powder-for-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、欠陥のない結果を達成するためには、反応性の粉末の取り扱い、制御されたプロセスパラメーター、訓練されたオペレーター、部品認定手順が不可欠です",
+    "url": "https://met3dp.com/ja/titanium-powder-for-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "疲労データの標準化：HIP処理および表面仕上げを施したAM Ti-6Al-4Vの許容値が拡大され、航空宇宙および医療分野での認定取得が加速される",
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "主な見解：「ロット間の粉末の一貫性、CTを用いた欠陥の定量化、および表面状態の管理が、現在では引張試験データよりも、認定スケジュールを左右する主要な要素となっている",
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "Ti-6Al-4Vの加工および認定に特化したツールやリソースを厳選しました",
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "以下は、Ti6Al4V粉末サプライヤーを認定・承認する際の主な検討事項である：",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "高い材料費と重要な最終用途を考えると、承認や長期契約の前に、粉末サプライヤーのデューデリジェンスが不可欠である",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "４.主要消費地域のデータ：世界のチタンベースの粉末市場における主要な消費地域、消費量、売上、および需要構造に関する情報を提供します",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "量産型およびターンキー積層造形ソリューションのリーディングカンパニーであるDesktop Metal社（NYSE:DM）は、Studioシステムにチタン合金Ti-6Al-4V（Ti64）の使用を認定したことを発表しました",
+    "url": "https://www.altech.co.jp/item_news/dmti64",
+    "pass": 3
+   },
+   {
+    "quote": "粉末製造、後加工、合金開発、資格認定に焦点を当てた継続的な研究開発は、チタンの能力が次世代の輸送や健康技術を可能にする航空宇宙、防衛、モータースポーツ、医療分野での採用拡大を目指す",
+    "url": "https://met3dp.com/ja/titanium-powders-20240103/",
+    "pass": 3
+   },
+   {
+    "quote": "そのデスクトップメタル社は新たにチタン合金Ti-6Al-4V（Ti64）の使用を認定し、9月に出荷予定で、DBMD（バウンドメタルでポジション）用材料としてTi64を展開を想定している",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "認定資格と法的記述",
+    "url": "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/titanium-alloy-am-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "コストは依然として高い方だが、AMがTi-64合金の使用量を拡大し、スケールメリットによる製造の最適化が可能になるにつれて、改善が続いている",
+    "url": "https://met3dp.com/ja/titanium-ti-64-for-3d-printing-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "設計認定用許容値データ",
+    "url": "https://met3dp.com/ja/titanium-ti-64-for-3d-printing-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "新たなデジタル機能と、30年以上にわたる航空宇宙および医療への応用で検証された広範な材料データを組み合わせることで、エンジニアは、資格認定リスクを低減しながら、Ti-64の利点を活用した革新的な新しい3Dプリント形状を展開することができます",
+    "url": "https://met3dp.com/ja/titanium-ti-64-for-3d-printing-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "本研究では汎用チタン合金として使用量が圧倒的に多いTi-6Al-4V合金の大粒径粉末（45μm以上）を対象に最適な添加合金成分と超急冷HIP法による組織制御指針を明確化する",
+    "url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20K04168/",
+    "pass": 3
+   },
+   {
+    "quote": "また、導入後には材料費に加えて、定期的なメンテナンス費用や専任オペレーターの人件費、安全対策のための設備投資なども発生します",
+    "url": "https://www.jeol.co.jp/column/detail007.html",
+    "pass": 3
+   },
+   {
+    "quote": "観察された主要な競争戦略には、大手航空宇宙プライムとの長期供給契約、アプリケーション特化型粉末バリアントを作成するための共同開発パートナーシップ、収率を改善し生産コストを削減するための高度な原子化技術への投資が含まれます",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   },
+   {
+    "quote": "AMのシリアル生産への浸透は、拡大する範囲のコンポーネントに対して粉末消費量を着実に増加させ、ニッチなアプリケーションを超えてより主流の製造ワークフローに移行します",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   },
+   {
+    "quote": "6.5 代替、補充および設置ベースのダイナミクス",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   },
+   {
+    "quote": "6.1 Consumption / Demand: Historical Data (2012-2025) and Forecast (2026-2035)",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   },
+   {
+    "quote": "専用の等級はありません（別途認定が必要です）",
+    "url": "https://www.forgecise.com/ja/product/astm%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%895-ti-6al-4v%E3%83%81%E3%82%BF%E3%83%B3%E7%B2%89%E6%9C%AB%EF%BC%883d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%EF%BC%89%EF%BD%9C/",
+    "pass": 3
+   },
+   {
+    "quote": "材料歩留まりがよく、使用量を抑制できる",
+    "url": "https://jampt.jp/column/titanium-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "特に航空機産業では、α + β 型合金であるTi-6Al-4V合金（質量分率でアルミニウム(Al)が6％、バナジウム(V)が4％含まれているチタン合金）が使用量の過半を占める",
+    "url": "https://www.iri-tokyo.jp/tiri-news/gijutsu-2021-07-03/",
+    "pass": 3
+   },
+   {
+    "quote": "第三にサステナビリティ面では、粉末回収率、材料歩留まり、エネルギー使用量、長寿命化設計の観点から、単に新粉を供給するだけでなく、再利用を含めた運用最適化を提案できるサプライヤーが選ばれやすくなります",
+    "url": "https://blog.met3dp.com/ja/blog/ti6al4v-eli-powder-for-medical-implant-3d-printing-use/",
+    "pass": 3
+   },
+   {
+    "quote": "in 2024. This is due to its lightweight yet high-strength properties, essential for reducing fuel consumption in both commercial and military aircraft.",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": ", primarily due to its lightweight yet strong properties, which are essential for reducing fuel consumption and improving performance in aircraft and spacecraft. Titanium alloys, including Ti-6Al-4V, are used extensively in",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "are beneficial in reducing vehicle mass, which directly impacts energy consumption and performance.",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "that reduce the environmental impact of titanium alloy manufacturing. These processes focus on reducing energy consumption during production and increasing the recycling of titanium scrap material, addressing both environmental concerns and rising production costs.",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies combining advanced atomization technology, aerospace and medical qualification, and scalable production capability are positioned to capture the highest growth segments.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies investing in advanced atomization, cost reduction, and supply chain qualification for aerospace and medical standards are positioned to capture the largest share of market growth.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2026, alloyed powder is expected to account for 54.6% of the segment. Ti-6Al-4V (Grade 5) dominates alloyed powder demand due to its established qualification in aerospace structural applications and medical implant standards. Alloyed powder requires precise chemistry control and spherical morphology for consistent additive manufacturing performance.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The titanium powder market is expanding at 14.8% CAGR driven by additive manufacturing adoption, aerospace qualification, and medical device growth. Cost barriers constrain broader adoption, while production innovation enables market expansion.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "OSAKA Titanium Technologies serves Asian markets with established titanium processing capability. Advanced Metallurgical Group provides European supply. Both serve aerospace qualification requirements.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "AM Qualification",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "4. International Organization for Standardization. (2024). ISO/ASTM 52927: Additive Manufacturing General Principles for Qualification of Metallic Powders. ISO.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Ti-6Al-4V ELI（Extra Low Interstitial — AMS 4930）は、医療用グレードの主流であり、標準的な航空宇宙用 Ti-6Al-4V よりも大幅に高い価格が付いています",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "LPBF（レーザー粉末床溶融）プロセス向けの球状Ti-6Al-4V粉末は、標準的な鍛造合金に比べて大幅なプレミアム価格で販売されています",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 供給の混乱が生じない限り、価格の急騰ではなく、緩やかな価格上昇が見込まれる",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "3.8%～5.5%という年平均成長率（CAGR）で市場が拡大し、生産能力も着実に拡大している状況では、サプライヤーに価格決定力は生まれません",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "チタン価格は2018年以降、実質ベースで比較的横ばいの状態が続いており、その",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年までにチタンの価格は大幅に上昇するのでしょうか？",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "pass": 3
+   },
+   {
+    "quote": "また、チタン合金インゴットのタイプ別（Ti-6Al-4Vチタン合金インゴット、Ti-4Al-2Vチタン合金インゴット、その他）の内訳、各タイプにおける2021年から2026年までのグローバルな販売市場シェア、収益と市場シェア、販売価格の詳細な分析が示されています",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、用途別（航空宇宙、自動車、医療、海洋、その他）の内訳、各用途における2021年から2026年までのグローバルな販売市場シェア、収益と市場シェア、販売価格も含まれます",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "これには、2021年から2026年までのグローバルなチタン合金インゴットの年間販売量と販売市場シェア、年間収益と収益市場シェア、企業ごとの販売価格が含まれます",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、企業情報、チタン合金インゴットの製品ポートフォリオと仕様、2021年から2026年までの販売量、収益、価格、粗利益、主要な事業概要、最新の動向が個別に分析されています",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "pass": 3
+   },
+   {
+    "quote": "$100〜$500/kg",
+    "url": "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "$150〜$600/kg",
+    "url": "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "1kgあたり$250-$1000",
+    "url": "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "$300〜$1200/kg",
+    "url": "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "- AS9100およびISO9001規格に準拠した完全なトレーサビリティとQAを備えた航空宇宙グレードは、プレミアム価格となっています",
+    "url": "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "$150〜$450/kg",
+    "url": "https://met3dp.com/ja/titanium-powder-for-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "$200〜$500/kg",
+    "url": "https://met3dp.com/ja/titanium-powder-for-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "$250〜$600/kg",
+    "url": "https://met3dp.com/ja/titanium-powder-for-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "$180〜$480/kg",
+    "url": "https://met3dp.com/ja/titanium-powder-for-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "グレード1およびグレード2の非合金粉末の価格は～$150～250/kg",
+    "url": "https://met3dp.com/ja/titanium-powder-for-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Ti-6Al-4VおよびTi-6Al-7Nbのコストは～$250～450/kg",
+    "url": "https://met3dp.com/ja/titanium-powder-for-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "特殊合金コスト $500-650/kg",
+    "url": "https://met3dp.com/ja/titanium-powder-for-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、Ti-6Al-4Vの組成、特性、用途、仕様、価格、取り扱いなどを含む包括的な概要をご紹介します",
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "Ti-6Al-4V 価格",
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年現在、Ti-6Al-4Vの価格はおよそ以下の通りである：",
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "AM用Ti-6Al-4V粉末の価格",
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "$120～$220/kg",
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "$18–$55/kg",
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、組成、特性、用途、仕様、価格などを網羅したTi6Al4V粉末の包括的な技術リファレンスを提供します",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "Ti6Al4Vパウダーの価格は？",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "Ti6Al4Vパウダー価格",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のサプライヤー間でTi6Al4V粉末の価格を比較する際は、物流を含めた総陸揚げコストを考慮すること",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "バランスのとれた機械的特性、耐食性、生体適合性、比較的手頃な価格、高度な製造能力により、Ti6Al4V粉末を使用して製造された部品の採用が増加する未来は明るい",
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "２.会社別の売上と市場シェア：世界のチタンベースの粉末会社別の売上、価格、市場シェア、業界ランキングを提供します",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "３.中国市場の会社別データ：中国のチタンベースの粉末市場における主要企業の売上、価格、市場シェア、業界ランキングに関するデータを提供します",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第1章：チタンベースの粉末の製品範囲、グローバルの販売量、売上、平均価格および中国の販売量、売上、平均価格、発展機会、課題、動向、政策について説明する",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：世界チタンベースの粉末の主要会社の市場シェアとランキング、販売量、売上、平均価格（2020～2025）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：中国チタンベースの粉末の主要会社の市場シェアとランキング、販売量、売上、平均価格（2020～2025）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第6章：製品別の販売量、平均価格、売上、パーセントとCAGR（2020～2031）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：アプリケーション別の販売量、平均価格、売上、パーセントとCAGR（2020～2031）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第8章：地域別セグメントの販売量、平均価格、売上、パーセントとCAGR（2020～2031）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第9章：国別の販売量、平均価格、売上、パーセントとCAGR（2020～2031）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第10章：会社概要、製品仕様、アプリケーション、最近の発展状況、販売量、平均価格、売上、粗利益率などについて、市場における主要企業の基本状況を詳しく紹介する",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "Ti-6Al-4VのELIグレード粉末は、延性、溶接性、生体適合性、耐食性に優れているが、価格が高い",
+    "url": "https://met3dp.com/ja/titanium-alloys-powder-20231218/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、Ti-10V-2Fe-3Alは、耐食性に優れ、価格が低いが、グレード5および23の合金に比べ、生体医療適合性では劣る",
+    "url": "https://met3dp.com/ja/titanium-alloys-powder-20231218/",
+    "pass": 3
+   },
+   {
+    "quote": "主要なチタングレードであるTi-6Al-4V、Ti-6Al-4V ELI、Ti-10V-2Fe-3Alは、強度、延性、靭性、溶接性、生体適合性、耐薬品性などの特性を魅力的な価格でバランスさせています",
+    "url": "https://met3dp.com/ja/titanium-alloys-powder-20231218/",
+    "pass": 3
+   },
+   {
+    "quote": "価格は、不規則な粉末の$50/kgから、航空宇宙部品のような要求の厳しい用途に使用される高度に球状のプラズマアトマイズ材料の$1000/kg以上まで様々である",
+    "url": "https://met3dp.com/ja/titanium-powders-20240103/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "pass": 3
+   },
+   {
+    "quote": "(価格はステンレスの6倍)の比重を持つものを主に使用しています",
+    "url": "https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E3%83%81%E3%82%BF%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：~ 1万円",
+    "url": "https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E3%83%81%E3%82%BF%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "$150+/kg",
+    "url": "https://met3dp.com/ja/titanium-ti-64-for-3d-printing-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "$50+/kg",
+    "url": "https://met3dp.com/ja/titanium-ti-64-for-3d-printing-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "チタン合金の3Dプリントを導入するには、材料価格や装置費用、外注活用の可否など、事前に検討すべきポイントがあります",
+    "url": "https://www.jeol.co.jp/column/detail007.html",
+    "pass": 3
+   },
+   {
+    "quote": "チタン合金用3Dプリンターは高度な性能を備える一方で、装置そのものの価格も高額です",
+    "url": "https://www.jeol.co.jp/column/detail007.html",
+    "pass": 3
+   },
+   {
+    "quote": "AM用Ti-6Al-4V粉末の価格はプレミアムであり、通常は1キログラムあたり数百ドルから数千ドルの範囲で、標準的なチタン製品よりも大幅に高くなっています",
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "グローバル Ti - 6al - 4vチタン合金市場 におけるトップ15企業 — グローバル Ti - 6al - 4vチタン合金市場 におけるトップ15企業 Spherical Insights https://www.sphericalinsights.com > blogs > top-15-comp...",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "MIM 製 Ti - 6Al - 4V 合金 の疲労強度の向上 - Kyushu — MIM 製 Ti - 6Al - 4V 合金 の疲労強度の向上 - Kyushu 九州大学 PDF https://catalog.lib.kyushu-u.ac.jp > eng2798",
+    "url": "https://catalog.lib.kyushu-u.ac.jp/opac_download_md/1959125/eng2798.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ti - 6Al - 4Vチタン合金 の紹介｜積層造形材料 — Ti - 6Al - 4Vチタン合金 の紹介｜積層造形材料 am-material.com https://am-material.com > ニュース",
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "Ti - 6Al - 4V 大粒径 粉末 の高速加圧焼結に関する研究 - KAKEN — Ti - 6Al - 4V 大粒径 粉末 の高速加圧焼結に関する研究 - KAKEN KAKEN https://kaken.nii.ac.jp > grant",
+    "url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20K04168/",
+    "pass": 3
+   },
+   {
+    "quote": "Ti - 6Al - 4V Titanium Alloy Market Size ($25.4 Billion) 2030 — Ti - 6Al - 4V Titanium Alloy Market Size ($25.4 Billion) 2030 Strategic Market Research https://www.strategicmarketresearch.com > ...",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 15 Companies in Global Ti - 6al - 4v Titanium Alloy Market — Top 15 Companies in Global Ti - 6al - 4v Titanium Alloy Market Spherical Insights https://www.sphericalinsights.com > t...",
+    "url": "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "A - Powder Ti - 6Al - 4V Grade 23 ELI Titanium Powder , 10 kg — A - Powder Ti - 6Al - 4V Grade 23 ELI Titanium Powder , 10 kg Additive Plus https://additiveplus.com > product > a...",
+    "url": "https://additiveplus.com/product/a-powder-ti-6al-4v-ti64-titanium-powder-for-metal-3d-printing-lpbf-compatible-10-kg-22-lbs/?srsltid=AYCX9vKKtf2HOtcsxp8hTsQIEoZ4jkx1eGJ70L5ZoZTLCtfcYrG_RTou",
+    "pass": 3
+   },
+   {
+    "quote": "Titanium Powder , Ti - 6Al - 4V (TC4), for 3D Printing — Titanium Powder , Ti - 6Al - 4V (TC4), for 3D Printing MSE Supplies https://www.msesupplies.com > mse-p...",
+    "url": "https://www.msesupplies.com/products/mse-pro-ti-6al-4v-tc4-titanium-based-metal-powder-for-additive-manufacturing-3d-printing?srsltid=AYCX9vKCrKjuU6MfnJmhFdSg-2hVqo6UDhUQQYY0ktsJUvodWw-Y58g_",
+    "pass": 3
+   },
+   {
+    "quote": "Ti - 6Al - 4V Metal Powder for Additive Manufacturing (AM) Market — Ti - 6Al - 4V Metal Powder for Additive Manufacturing (AM) Market Dataintelo https://dataintelo.com > report > ti-6al...",
+    "url": "https://dataintelo.com/report/ti-6al-4v-metal-powder-for-am-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 20 Companies in Global Ti - 6al - 4v Titanium Alloy Market — Top 20 Companies in Global Ti - 6al - 4v Titanium Alloy Market Spherical Insights https://www.sphericalinsights.com > t...",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "Cost-Effective Laser Powder Bed Fusion of Ti - 6Al - 4V Grade 5 — Cost-Effective Laser Powder Bed Fusion of Ti - 6Al - 4V Grade 5 MDPI https://www.mdpi.com > ...",
+    "url": "https://www.mdpi.com/1996-1944/18/1/6",
+    "pass": 3
+   },
+   {
+    "quote": "Ti - 6Al - 4V 3D Printing: Complete LPBF Process Guide | AO Metal — Ti - 6Al - 4V 3D Printing: Complete LPBF Process Guide | AO Metal AO Metal https://aometal.com > printing-titaniu...",
+    "url": "https://aometal.com/printing-titanium-ti-6al-4v-a-complete-process-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Ti - 6Al - 4V Titanium Alloy Market Growth Outlook 2025-2035 — Ti - 6Al - 4V Titanium Alloy Market Growth Outlook 2025-2035 USD Analytics https://www.usdanalytics.com > globa...",
+    "url": "https://www.usdanalytics.com/press-release/global-ti-6al-4v-titanium-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Titanium Ti - 6Al - 4V (DMLS) 3D Printing Material | Forge Labs — Titanium Ti - 6Al - 4V (DMLS) 3D Printing Material | Forge Labs forgelabs.com https://forgelabs.com > titanium-ti64",
+    "url": "https://forgelabs.com/3d-printing/materials/titanium-ti64",
+    "pass": 3
+   },
+   {
+    "quote": "Titanium Powder , Ti - 6Al - 4V (TC4), for 3D Printing — Titanium Powder , Ti - 6Al - 4V (TC4), for 3D Printing MSE Supplies https://www.msesupplies.com > mse-p...",
+    "url": "https://www.msesupplies.com/products/mse-pro-ti-6al-4v-tc4-titanium-based-metal-powder-for-additive-manufacturing-3d-printing?srsltid=AYCX9vLeTggAB0jS2sS6vYhN2jYYtJdRcW0m4MP8T5yx-bPaooe8kidQ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "2B. Ti - 6Al - 4V 粉末 の球状化技術｜熱プラズマ情報局 - note 2B. Ti - 6Al - 4V 粉末 の球状化技術｜熱プラズマ情報局 - note note https://note.com > 科学・テクノロジー > 機械・工学",
+    "url": "https://note.com/thermal_plasma/n/n29b40608cbe8",
+    "pass": 3
+   },
+   {
+    "quote": "PBFで造形したチタン合金の強度をやさしく解説：as-built・焼鈍・HIP... Mar 31, 2026 · 「金属3Dプリンターで作ったチタン部品って本当に強いの？ 」こんな疑問を持つ方は多いと思います。 この記事では、PBF（粉末床溶融結合）で造形したTi-6Al-4Vチタン合金の強度特性を、後処理の違いに着目してわかりやすく解説します。",
+    "url": "https://note.com/kinzoku2/n/n0728bd1e62a5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "2B. Ti-6Al-4V 粉末の球状化技術｜熱プラズマ情報局",
+    "url": "https://note.com/thermal_plasma/n/n29b40608cbe8",
+    "pass": 3
+   },
+   {
+    "quote": "2B. Ti-6Al-4V 粉末の球状化技術",
+    "url": "https://note.com/thermal_plasma/n/n29b40608cbe8",
+    "pass": 3
+   },
+   {
+    "quote": "RF熱プラズマ処理はAM品質をどこまで変えるのか",
+    "url": "https://note.com/thermal_plasma/n/n29b40608cbe8",
+    "pass": 3
+   },
+   {
+    "quote": "は、航空宇宙・医療・自動車・AM（Additive Manufacturing）分野で最も重要な金属材料のひとつです。しかし AM向け粉末には矛盾した要求が突きつけられます。「高流動性」「狭い粒度分布」「球状形状」「欠陥の少ない内部組織」。このすべてを満たすことは従来の粉砕ベースの粉末製造では極めて難しく、材料特性と造形信頼性の両立が課題となってきました。",
+    "url": "https://note.com/thermal_plasma/n/n29b40608cbe8",
+    "pass": 3
+   },
+   {
+    "quote": "その壁を突破する技術として再注目されているのが",
+    "url": "https://note.com/thermal_plasma/n/n29b40608cbe8",
+    "pass": 3
+   },
+   {
+    "quote": "です。本記事では Nkhasi et al. (2021) の研究を軸に、RF熱プラズマが Ti-6Al-4V 粉末に何を起こすのかを材料プロセスの視点から解説します。",
+    "url": "https://note.com/thermal_plasma/n/n29b40608cbe8",
+    "pass": 3
+   },
+   {
+    "quote": "Nkhasi, R. et al., 2021",
+    "url": "https://note.com/thermal_plasma/n/n29b40608cbe8",
+    "pass": 3
+   },
+   {
+    "quote": "“Influence of RF Plasma Spheroidization on the Microstructure of Ti-6Al-4V Powders”",
+    "url": "https://note.com/thermal_plasma/n/n29b40608cbe8",
+    "pass": 3
+   },
+   {
+    "quote": "PBFで造形したチタン合金の強度をやさしく解説：as-built・焼鈍・HIP処理でどう変わる？｜kinzoku",
+    "url": "https://note.com/kinzoku2/n/n0728bd1e62a5",
+    "pass": 3
+   },
+   {
+    "quote": "PBFで造形したチタン合金の強度をやさしく解説：as-built・焼鈍・HIP処理でどう変わる？",
+    "url": "https://note.com/kinzoku2/n/n0728bd1e62a5",
+    "pass": 3
+   },
+   {
+    "quote": "「金属3Dプリンターで作ったチタン部品って本当に強いの？」こんな疑問を持つ方は多いと思います。この記事では、PBF（粉末床溶融結合）で造形したTi-6Al-4Vチタン合金の強度特性を、後処理の違いに着目してわかりやすく解説します。",
+    "url": "https://note.com/kinzoku2/n/n0728bd1e62a5",
+    "pass": 3
+   },
+   {
+    "quote": "PBF-LB/M（レーザービーム／金属）は、金属粉末をレーザーで層ごとに溶融・積層する方法です。一般に「SLM」と呼ばれることもあります。Ti-6Al-4Vはアルミ6%・バナジウム4%を含むα＋β型合金で、チタン合金の約70%を占める最もポピュラーなグレード。JIS規格では60種、ASTMではGrade 5に相当します。",
+    "url": "https://note.com/kinzoku2/n/n0728bd1e62a5",
+    "pass": 3
+   },
+   {
+    "quote": "PBFで造形したチタンは急速溶融・急冷のため、針状のα'マルテンサイト組織が形成されます。この状態の代表的な機械的性質は次のとおりです。",
+    "url": "https://note.com/kinzoku2/n/n0728bd1e62a5",
+    "pass": 3
+   },
+   {
+    "quote": "・引張強さ（UTS）：1,150〜1,200 MPa",
+    "url": "https://note.com/kinzoku2/n/n0728bd1e62a5",
+    "pass": 3
+   },
+   {
+    "quote": "・0.2%耐力（YS）：955〜1,050 MPa",
+    "url": "https://note.com/kinzoku2/n/n0728bd1e62a5",
+    "pass": 3
+   },
+   {
+    "quote": "鍛造材（焼鈍）のUTSが895 MPa程度であるのに対して、as-builtは引張強さで大きく上回ります。ただし伸びは鍛造材の約半分以下と低く、脆性的な破壊挙動を示します。",
+    "url": "https://note.com/kinzoku2/n/n0728bd1e62a5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Titanium Grade 23 (Ti-6Al-4V ELI) and Titanium Grade 4 (Ti-CP) Sep 14, 2023 · Titanium Grade 23 (Ti-6Al-4V ELI) and Titanium Grade 4 (Ti-CP or commercially pure titanium) are two different grades of titanium alloys, each with its own set of properties and...",
+    "url": "https://www.linkedin.com/pulse/titanium-grade-23-ti-6al-4v-eli-4-ti-cp-rod-jacinto",
+    "pass": 3
+   },
+   {
+    "quote": "What is the Difference Between Ti-6Al-7Nb and Ti-6Al-4V? Nov 22, 2025 · Understanding the differences between Ti-6Al-7Nb and Ti-6Al-4V is essential for engineers, designers, and manufacturers who need to select the right material for demanding applications.",
+    "url": "https://www.linkedin.com/pulse/what-difference-between-ti-6al-7nb-ti-6al-4v-andy-lu-yondc",
+    "pass": 3
+   },
+   {
+    "quote": "Grade 5 Ti - 6Al - 4V Alloy Demand: Key Industries and Uses Grade 5 Ti - 6Al - 4V Alloy Demand: Key Industries and Uses LinkedIn https://www.linkedin.com > pulse > g...",
+    "url": "https://www.linkedin.com/pulse/grade-5-ti-6al-4v-alloy-demand-key-industries-uses-jke1e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Fuji WPC - みんな大好き チタン合金Ti-6Al-4V！（通称64チタン）... ... Apr 28, 2026 · みんな大好き チタン合金Ti-6Al-4V！ （通称64チタン） そのチタン合金Ti-6Al-4Vを最強にするのがWPC処理！ 未処理材と比較すると最大で約36％の疲労強度向上もします！ チタンは軽くて強く、錆びにくい優れた材料ですが実は疲労破壊に弱い一面があります。 ...",
+    "url": "https://www.facebook.com/fujiwpc/posts/みんな大好き-チタン合金ti-6al-4v通称64チタンそのチタン合金ti-6al-4vを最強にするのがwpc処理未処理材と比較すると最大で約36の疲労強度向上/1601125314983077/",
+    "pass": 3
+   },
+   {
+    "quote": "黃至明 - One Click Metal 提供的粉末鈦 Ti-6Al-4V 鈦粉經過優化，可... One Click Metal 提供的粉末鈦 Ti-6Al-4V 鈦粉經過優化，可與 BOLDseries 的 MPRINT 和 MPUREpro 一起生產堅固的部件。 Ti-6Al-4V 23 級，是一種重量輕、強度高、耐腐蝕的鈦合金。 有關機械特性，請參見數據表。",
+    "url": "https://www.facebook.com/huang.randy/posts/one-click-metal-提供的粉末鈦-ti-6al-4v-鈦粉經過優化可與-boldseries-的-mprint-和-mpurepro-一起生產堅固的/10236957074250731/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "3.8",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "quote": "CAGRの予測値の幅（3.8%～7.1%）が広いことは、単なる算出方法の問題ではなく、需要の推移に関する真の不確実性を反映している"
+   },
+   {
+    "value": "4.70",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "quote": ": $5.4B (2025) → $8.3B (2034)、CAGR 4.70%"
+   },
+   {
+    "value": "5.1",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "quote": ": $6.2B (2026) → $8.8B (2033)、CAGR 5.1%"
+   },
+   {
+    "value": "5.19",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "quote": ": 158.23 kt (2025年) → 214.35 kt (2031年)、年平均成長率（CAGR）5.19%"
+   },
+   {
+    "value": "9.9",
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "quote": "世界の3Dプリンティング用チタンおよびチタン合金市場規模は、2025年の9億4,600万米ドルから2032年には18億1,200万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）9.9％で成長すると見込まれています"
+   },
+   {
+    "value": "3.2",
+    "url": "https://newscast.jp/smart/news/5222390",
+    "quote": "世界のチタン合金インゴット市場規模は、2025年の22億6300万米ドルから2032年には28億1300万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）3.2％で成長すると見込まれています"
+   },
+   {
+    "value": "4.1",
+    "url": "https://newscast.jp/news/3065264",
+    "quote": "YHResearch調査チームの最新レポート「グローバルチタンベースの粉末のトップ会社の市場シェアおよびランキング 2025」によると、2025年から2031年の予測期間中のCAGRが4.1%で、2031年までにグローバルチタンベースの粉末市場規模は5.2億米ドルに達すると予測されている"
+   },
+   {
+    "value": "8.5",
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "quote": "CAGR of 8.5%"
+   },
+   {
+    "value": "14.8",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "quote": "The titanium powder market was valued at USD 1.7 billion in 2025. The market is set to reach USD 2.0 billion by 2026-end and grow at a CAGR of 14.8% between 2026-2036 to reach USD 7.8 billion by 2036. Alloyed powder will dominate with a 54.6% share, while Grade 5 will lead with a 47.3%% share."
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "51.6",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "quote": "市場シェア51.6%"
+   },
+   {
+    "value": "51.63",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "quote": "2025年、航空宇宙・防衛分野はチタン市場全体の51.63%のシェアを占めた"
+   },
+   {
+    "value": "75",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "quote": "中国の生産量が75%と圧倒的なシェアを占め、宝鶏（バオジ）の製鋼製品生産量が60%に達していることから、地理的集中リスクは監査上の標準的な課題となっている"
+   },
+   {
+    "value": "60",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "quote": "中国の生産量が75%と圧倒的なシェアを占め、宝鶏（バオジ）の製鋼製品生産量が60%に達していることから、地理的集中リスクは監査上の標準的な課題となっている"
+   },
+   {
+    "value": "51",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "quote": "特にチタンスポンジに限定すると、中国が約51%のシェアを占めており、次いで日本（17%）、ロシア（13%）が続く"
+   },
+   {
+    "value": "17",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "quote": "特にチタンスポンジに限定すると、中国が約51%のシェアを占めており、次いで日本（17%）、ロシア（13%）が続く"
+   },
+   {
+    "value": "13",
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "quote": "特にチタンスポンジに限定すると、中国が約51%のシェアを占めており、次いで日本（17%）、ロシア（13%）が続く"
+   },
+   {
+    "value": "4.1",
+    "url": "https://newscast.jp/news/3065264",
+    "quote": "YHResearch調査チームの最新レポート「グローバルチタンベースの粉末のトップ会社の市場シェアおよびランキング 2025」によると、2025年から2031年の予測期間中のCAGRが4.1%で、2031年までにグローバルチタンベースの粉末市場規模は5.2億米ドルに達すると予測されている"
+   },
+   {
+    "value": "59.0",
+    "url": "https://newscast.jp/news/3065264",
+    "quote": "2024年、世界のトップ10企業は売上の観点から約59.0%の市場シェアを持っていた"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/7938041",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/5222390",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E7%94%A8%E3%83%81%E3%82%BF%E2%80%8B%E2%80%8B%E3%83%B3%E5%B8%82%E5%A0%B4-114582",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreportsworld.com/jp/market-reports/medical-titanium-alloy-market-14718643",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://met3dp.com/ja/titanium-powder-for-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nmmjx-dc.com/products/3d_printer/titan_powder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.lib.kyushu-u.ac.jp/opac_download_md/1959125/eng2798.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponsteel.com/tech/report/nsc/pdf/37516.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/381725687_Titanium_Alloy_Powder_for_Additive_Manufacturing",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prep-system.com/ja/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB%E3%81%AE%E7%94%A8%E9%80%94/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/3065264",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.altech.co.jp/item_news/dmti64",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://met3dp.com/ja/titanium-alloys-powder-20231218/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://met3dp.com/ja/titanium-powders-20240103/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E3%83%81%E3%82%BF%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/titanium-alloy-am-powders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://met3dp.com/ja/titanium-ti-64-for-3d-printing-metal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponsteel.com/tech/report/nsc/pdf/35217.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/%E3%83%81%E3%82%BF%E3%83%B3%E8%AC%9B%E5%BA%A7%EF%BC%88%E4%B8%AD%E9%87%8E%EF%BC%89%E8%BB%BD%E9%87%91%E5%B1%9E%E5%AD%A6%E4%BC%9A%E4%BD%9C%E6%88%90.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20K04168/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/amfuture/1/1/1_129/_pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jeol.co.jp/column/detail007.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalresearch.jp/jp/inbx26d0109",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://met3dp.com/ja/ti-6al-4v-powder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.forgecise.com/ja/product/astm%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%895-ti-6al-4v%E3%83%81%E3%82%BF%E3%83%B3%E7%B2%89%E6%9C%AB%EF%BC%883d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%EF%BC%89%EF%BD%9C/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marutaka-ss.com/case/244/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://am-material.com/ja/titanium-alloy-tc4-material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/titanium-3d-printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/tiri-news/gijutsu-2021-07-03/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/products/powder/ti-6al-4v",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.met3dp.com/ja/blog/ti6al4v-eli-powder-for-medical-implant-3d-printing-use/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/amfuture/1/1/1_129/_pdf/-char/en",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/jjspm/71/12/71_24-00010/_pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/titanium-powders-market-us-japan-korea-europe-analysis-bi4vf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.hoganas.com/en/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/titanium-alloy-am-powders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdpi.com/2079-6412/16/6/654",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/thermal_plasma/n/n29b40608cbe8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kinzoku2/n/n0728bd1e62a5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/titanium-grade-23-ti-6al-4v-eli-4-ti-cp-rod-jacinto",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/what-difference-between-ti-6al-7nb-ti-6al-4v-andy-lu-yondc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fujiwpc/posts/みんな大好き-チタン合金ti-6al-4v通称64チタンそのチタン合金ti-6al-4vを最強にするのがwpc処理未処理材と比較すると最大で約36の疲労強度向上/1601125314983077/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/huang.randy/posts/one-click-metal-提供的粉末鈦-ti-6al-4v-鈦粉經過優化可與-boldseries-的-mprint-和-mpurepro-一起生產堅固的/10236957074250731/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/thermal_plasma/n/n29b40608cbe8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/grade-5-ti-6al-4v-alloy-demand-key-industries-uses-jke1e",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "チタン合金粉末（Ti-6Al-4V）のAM用途 市場規模 CAGR",
+   "results": [
+    "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "https://www.atpress.ne.jp/news/7938041",
+    "https://newscast.jp/smart/news/5222390",
+    "https://www.fortunebusinessinsights.com/jp/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E7%94%A8%E3%83%81%E3%82%BF%E2%80%8B%E2%80%8B%E3%83%B3%E5%B8%82%E5%A0%B4-114582",
+    "https://www.marketreportsworld.com/jp/market-reports/medical-titanium-alloy-market-14718643",
+    "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "https://jp.linkedin.com/pulse/3d%E5%8D%B0%E5%88%B7%E3%83%81%E3%82%BF%E3%83%B3%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E6%A6%82%E8%A6%812026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr6%E3%81%A8%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%82%8B%E5%8C%85%E6%8B%AC%E7%9A%84%E3%81%AA%E6%A5%AD-7514045390594228224-vlhre",
+    "https://www.mordorintelligence.com/ja/industry-reports/titanium-market",
+    "https://www.gii.co.jp/report/ires2157921-titanium-alloy-am-powders-market-global-forecast.html"
+   ]
+  },
+  {
+   "query": "チタン合金粉末（Ti-6Al-4V）のAM用途 価格 kg",
+   "results": [
+    "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "https://met3dp.com/ja/titanium-powder-for-additive-manufacturing/",
+    "https://nmmjx-dc.com/products/3d_printer/titan_powder.html",
+    "https://catalog.lib.kyushu-u.ac.jp/opac_download_md/1959125/eng2798.pdf",
+    "https://am-material.com/ja/news/introduction-to-ti-6al-4v-titanium-alloy/",
+    "https://www.nipponsteel.com/tech/report/nsc/pdf/37516.pdf",
+    "https://energy-ti.com/ja/products/titanium-powder/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "https://am-printing.com/ja/ams4998-202409052/",
+    "https://met3dp.com/ja/ti-6al-4v-powder/"
+   ]
+  },
+  {
+   "query": "チタン合金粉末（Ti-6Al-4V）のAM用途 シェア 主要企業",
+   "results": [
+    "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "https://www.researchgate.net/publication/381725687_Titanium_Alloy_Powder_for_Additive_Manufacturing",
+    "https://prep-system.com/ja/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB%E3%81%AE%E7%94%A8%E9%80%94/",
+    "https://newscast.jp/news/3065264",
+    "https://www.altech.co.jp/item_news/dmti64",
+    "https://met3dp.com/ja/titanium-alloys-powder-20231218/",
+    "https://nmmjx-dc.com/products/3d_printer/titan_powder.html",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "https://www.nipponsteel.com/tech/report/nsc/pdf/35217.pdf",
+    "https://met3dp.com/ja/ti-6al-4v-powder/"
+   ]
+  },
+  {
+   "query": "チタン合金粉末（Ti-6Al-4V）のAM用途 主要メーカー 一覧",
+   "results": [
+    "https://am-printing.com/ja/titanium-based-alloy-powder-applications/",
+    "https://www.researchgate.net/publication/381725687_Titanium_Alloy_Powder_for_Additive_Manufacturing",
+    "https://prep-system.com/ja/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB%E3%81%AE%E7%94%A8%E9%80%94/",
+    "https://met3dp.com/ja/titanium-powders-20240103/",
+    "https://nmmjx-dc.com/products/3d_printer/titan_powder.html",
+    "https://www.altech.co.jp/item_news/dmti64",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "https://mono.ipros.com/cg1/%E5%90%88%E9%87%91/%E3%83%81%E3%82%BF%E3%83%B3/",
+    "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/titanium-alloy-am-powders/"
+   ]
+  },
+  {
+   "query": "チタン合金粉末（Ti-6Al-4V）のAM用途 参入企業 数",
+   "results": [
+    "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "https://www.researchgate.net/publication/381725687_Titanium_Alloy_Powder_for_Additive_Manufacturing",
+    "https://prep-system.com/ja/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB%E3%81%AE%E7%94%A8%E9%80%94/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "https://www.altech.co.jp/item_news/dmti64",
+    "https://nmmjx-dc.com/products/3d_printer/titan_powder.html",
+    "https://met3dp.com/ja/titanium-ti-64-for-3d-printing-metal/",
+    "https://www.nipponsteel.com/tech/report/nsc/pdf/35217.pdf",
+    "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/%E3%83%81%E3%82%BF%E3%83%B3%E8%AC%9B%E5%BA%A7%EF%BC%88%E4%B8%AD%E9%87%8E%EF%BC%89%E8%BB%BD%E9%87%91%E5%B1%9E%E5%AD%A6%E4%BC%9A%E4%BD%9C%E6%88%90.pdf"
+   ]
+  },
+  {
+   "query": "チタン合金粉末（Ti-6Al-4V）のAM用途 日本 需要",
+   "results": [
+    "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "https://www.researchgate.net/publication/381725687_Titanium_Alloy_Powder_for_Additive_Manufacturing",
+    "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20K04168/",
+    "https://www.jstage.jst.go.jp/article/amfuture/1/1/1_129/_pdf",
+    "https://prep-system.com/ja/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB%E3%81%AE%E7%94%A8%E9%80%94/",
+    "https://met3dp.com/ja/titanium-ti-64-for-3d-printing-metal/",
+    "https://www.altech.co.jp/item_news/dmti64",
+    "https://www.jeol.co.jp/column/detail007.html",
+    "https://catalog.lib.kyushu-u.ac.jp/opac_download_md/1959125/eng2798.pdf",
+    "https://www.globalresearch.jp/jp/inbx26d0109"
+   ]
+  },
+  {
+   "query": "チタン合金粉末（Ti-6Al-4V）のAM用途 国内 導入台数 OR 輸入量",
+   "results": [
+    "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "https://www.nipponsteel.com/tech/report/nsc/pdf/35217.pdf",
+    "https://nmmjx-dc.com/products/3d_printer/titan_powder.html",
+    "https://catalog.lib.kyushu-u.ac.jp/opac_download_md/1959125/eng2798.pdf",
+    "https://met3dp.com/ja/titanium-powder-for-additive-manufacturing/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/%E3%83%81%E3%82%BF%E3%83%B3%E8%AC%9B%E5%BA%A7%EF%BC%88%E4%B8%AD%E9%87%8E%EF%BC%89%E8%BB%BD%E9%87%91%E5%B1%9E%E5%AD%A6%E4%BC%9A%E4%BD%9C%E6%88%90.pdf",
+    "https://www.marutaka-ss.com/case/244/",
+    "https://am-material.com/ja/titanium-alloy-tc4-material/"
+   ]
+  },
+  {
+   "query": "チタン合金粉末（Ti-6Al-4V）のAM用途 日本企業 採用 調達 事例",
+   "results": [
+    "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "https://jampt.jp/column/titanium-3d-printer/",
+    "https://www.researchgate.net/publication/381725687_Titanium_Alloy_Powder_for_Additive_Manufacturing",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "https://www.iri-tokyo.jp/tiri-news/gijutsu-2021-07-03/",
+    "https://prep-system.com/ja/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB%E3%81%AE%E7%94%A8%E9%80%94/",
+    "https://www.nipponsteel.com/tech/report/nsc/pdf/35217.pdf",
+    "https://www.marutaka-ss.com/case/244/",
+    "https://www.jeol.co.jp/column/detail007.html",
+    "https://www.daido.co.jp/products/powder/ti-6al-4v"
+   ]
+  },
+  {
+   "query": "titanium Ti-6Al-4V powder additive manufacturing market Japan customers demand imports",
+   "results": [
+    "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "https://www.linkedin.com/pulse/titanium-powders-market-us-japan-korea-europe-analysis-bi4vf",
+    "https://www.hoganas.com/en/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/titanium-alloy-am-powders/",
+    "https://www.mdpi.com/2079-6412/16/6/654",
+    "https://www.fortunebusinessinsights.com/3d-printing-powder-market-116678",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10095803/",
+    "https://www.transparencymarketresearch.com/metal-powders-additive-manufacturing-market.html",
+    "https://www.indexbox.io/store/japan-ti-6al-4v-powder-for-additive-manufacturing-market-analysis-forecast-size-trends-and-insights/"
+   ]
+  },
+  {
+   "query": "チタン合金粉末（Ti-6Al-4V）のAM用途 供給契約 長期",
+   "results": [
+    "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "https://www.researchgate.net/publication/381725687_Titanium_Alloy_Powder_for_Additive_Manufacturing",
+    "https://prep-system.com/ja/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB%E3%81%AE%E7%94%A8%E9%80%94/",
+    "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20K04168/",
+    "https://www.nipponsteel.com/tech/report/nsc/pdf/35217.pdf",
+    "https://catalog.lib.kyushu-u.ac.jp/opac_download_md/1959125/eng2798.pdf",
+    "https://met3dp.com/ja/titanium-alloys-powder-20231218/",
+    "https://nmmjx-dc.com/products/3d_printer/titan_powder.html",
+    "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/titanium-alloy-am-powders/"
+   ]
+  },
+  {
+   "query": "titanium Ti-6Al-4V powder additive manufacturing market market size CAGR 2030",
+   "results": [
+    "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "https://hontitan.com/titanium-market-size-forecast-2030/",
+    "https://www.grandviewresearch.com/industry-analysis/hybrid-additive-manufacturing-market",
+    "https://www.linkedin.com/pulse/titanium-alloy-powder-3d-printing-market-size-growing-cagr-od9qe",
+    "https://www.businessresearchinsights.com/market-reports/3d-printing-titanium-alloy-powder-market-108146",
+    "https://www.marketresearchfuture.com/reports/3d-printing-metal-market-1834",
+    "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "https://dataintelo.com/report/ti-6al-4v-metal-powder-for-am-market",
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://pmarketresearch.com/chemi/ti6al4v-powder-for-additive-manufacturing-market/"
+   ]
+  },
+  {
+   "query": "titanium Ti-6Al-4V powder additive manufacturing market price per kg",
+   "results": [
+    "https://additiveplus.com/product/a-powder-ti-6al-4v-ti64-titanium-powder-for-metal-3d-printing-lpbf-compatible-10-kg-22-lbs/?srsltid=AYCX9vKKtf2HOtcsxp8hTsQIEoZ4jkx1eGJ70L5ZoZTLCtfcYrG_RTou",
+    "https://qualloy.com/materials/titan/Ti6Al4V-ELI-15-53-1",
+    "https://www.msesupplies.com/products/mse-pro-ti-6al-4v-tc4-titanium-based-metal-powder-for-additive-manufacturing-3d-printing?srsltid=AYCX9vKCrKjuU6MfnJmhFdSg-2hVqo6UDhUQQYY0ktsJUvodWw-Y58g_",
+    "https://dataintelo.com/report/ti-6al-4v-metal-powder-for-am-market",
+    "https://am-printing.com/ti6al4v-powder-a-technical-overview/",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/13k09z6/price_of_titanium_ti64_powder_grade5/",
+    "https://met3dp.com/product/ti6al4v-powder/",
+    "https://www.researchgate.net/publication/347489434_Cost-affordable_Ti-6Al-4V_for_additive_manufacturing_Powder_modification_compositional_modulation_and_laser_in-situ_alloying",
+    "https://ampower.eu/insights/cost-additive-manufacturing-make-or-buy/",
+    "https://en.powdersight.com/grade/ti-6al-4v-powder"
+   ]
+  },
+  {
+   "query": "titanium Ti-6Al-4V powder additive manufacturing market key players market share percent",
+   "results": [
+    "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "https://www.grandviewresearch.com/industry-analysis/titanium-metal-powder-market-report",
+    "https://www.fortunebusinessinsights.com/aerospace-titanium-market-114582",
+    "https://www.linkedin.com/pulse/3d-printing-titanium-alloy-powdermarkets-63-cagr-ypmmc",
+    "https://www.transparencymarketresearch.com/metal-powders-additive-manufacturing-market.html",
+    "https://www.precedenceresearch.com/titanium-powder-market",
+    "https://www.skyquestt.com/report/metal-additive-manufacturing-market/companies",
+    "https://chemicalresearchinsight.com/2026/08/29/top-10-companies-in-the-titanium-ti-6al-4v-eli-aerospace-additive-manufacturing-powder-market-2026-market-leaders-powering-global-aerospace/"
+   ]
+  },
+  {
+   "query": "titanium Ti-6Al-4V powder additive manufacturing market number of suppliers concentrated OR fragmented",
+   "results": [
+    "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "https://dataintelo.com/report/ti-6al-4v-metal-powder-for-am-market",
+    "https://am-printing.com/ti6al4v-powder-a-technical-overview/",
+    "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "https://www.linkedin.com/pulse/ti6al4v-alloy-powder-market-growth-challenges-projections-10-rcxqe",
+    "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "https://www.msesupplies.com/products/mse-pro-ti-6al-4v-tc4-titanium-based-metal-powder-for-additive-manufacturing-3d-printing?srsltid=AYCX9vIHj2yCskyX91hJw39dHeCUHZdmIwNvkzFc6Lx_azCgafUNY0Qq",
+    "https://www.mdpi.com/2075-4701/12/9/1462",
+    "https://www.researchgate.net/publication/346573202_The_fragmented_nature_of_the_titanium_metal_value_chain"
+   ]
+  },
+  {
+   "query": "titanium Ti-6Al-4V powder additive manufacturing market consumption per machine per year",
+   "results": [
+    "https://www.sciencedirect.com/science/article/pii/S2666912923000016",
+    "https://www.strategicmarketresearch.com/market-report/ti-6al-4v-titanium-alloy-market",
+    "https://dataintelo.com/report/ti-6al-4v-metal-powder-for-am-market",
+    "https://www.businessresearchinsights.com/market-reports/3d-printing-titanium-alloy-powder-market-108146",
+    "https://am-printing.com/ti6al4v-powder-a-technical-overview/",
+    "https://www.mdpi.com/1996-1944/18/1/6",
+    "https://www.msesupplies.com/products/mse-pro-ti-6al-4v-tc4-titanium-based-metal-powder-for-additive-manufacturing-3d-printing?srsltid=AYCX9vI1HFaUSl5DVuLf5FujEkPOkH71hP3bJ7EjvH9aNlbZh2q3ZJ4j",
+    "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "https://www.linkedin.com/pulse/titanium-alloy-powder-3d-printing-market-size-growing-cagr-od9qe",
+    "https://pmarketresearch.com/chemi/ti6al4v-powder-for-additive-manufacturing-market/"
+   ]
+  },
+  {
+   "query": "titanium Ti-6Al-4V powder additive manufacturing market qualification long-term supply agreement",
+   "results": [
+    "https://am-printing.com/ti64-powder-20250828/",
+    "https://www.factmr.com/report/2799/titanium-alloys-market",
+    "https://blog.met3dp.com/blog/best-metal-powder-for-3d-printing-ti6al4v-eli-selection-guide-2025-biomedical-uses/",
+    "https://aometal.com/printing-titanium-ti-6al-4v-a-complete-process-guide/",
+    "https://www.usdanalytics.com/press-release/global-ti-6al-4v-titanium-alloy-market",
+    "https://www.facebook.com/alltimetals/posts/as-additive-manufacturing-continues-to-transform-modern-industries-the-demand-fo/1522273099919804/",
+    "https://info.ornl.gov/sites/publications/files/Pub39726.pdf",
+    "https://www.grandviewresearch.com/industry-analysis/titanium-metal-powder-market-report",
+    "https://www.futuremarketinsights.com/reports/aerospace-titanium-market",
+    "https://pmarketresearch.com/chemi/ti6al4v-powder-for-additive-manufacturing-market/"
+   ]
+  },
+  {
+   "query": "titanium Ti-6Al-4V powder additive manufacturing market distributor direct sales OEM approved materials",
+   "results": [
+    "https://forgelabs.com/3d-printing/materials/titanium-ti64",
+    "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-ti-6al-4v-titanium-alloy-market-2026-2035-expert-view-by-spherical-insights",
+    "https://www.hoganas.com/en/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/titanium-alloy-am-powders/",
+    "https://www.6kinc.com/titanium-alloy-powder-ti6al4v/",
+    "https://www.msesupplies.com/products/mse-pro-ti-6al-4v-tc4-titanium-based-metal-powder-for-additive-manufacturing-3d-printing?srsltid=AYCX9vLeTggAB0jS2sS6vYhN2jYYtJdRcW0m4MP8T5yx-bPaooe8kidQ",
+    "https://3dprintingindustry.com/news/tekna-expands-titanium-powder-supply-to-u-s-aerospace-tier-1-supplier-248103/",
+    "https://additiveplus.com/product/ti64-grade-23-eli-titanium-alloy-powder-for-metal-3d-printing-lpbf-compatible-5-kg-11-lbs/?srsltid=AYCX9vIvQGhFC-PALC8fygca_PhMx-SzcWQfVfdVv3WDa0Tx8n6RVJ-i",
+    "https://powder.samaterials.com/3d-printing-powder/1904-spherical-tc4-titanium-alloy-powder.html",
+    "https://met3dp.com/titanium-metal-powder-suppliers-20240104/",
+    "https://www.msesupplies.com/products/mse-pro-ti-6al-4v-tc4-titanium-based-metal-powder-for-additive-manufacturing-3d-printing"
+   ]
+  },
+  {
+   "query": "site:note.com チタン合金粉末（Ti-6Al-4V）のAM用途",
+   "results": [
+    "https://note.com/thermal_plasma/n/n29b40608cbe8",
+    "https://note.com/human_macaw1926/n/naab5593bd152",
+    "https://note.com/super_lupine5235/n/n429b10630349",
+    "https://note.com/kinzoku2/n/n0728bd1e62a5",
+    "https://note.com/qy_research/n/necee37aac167",
+    "https://note.com/yhresearch_news/n/nacd028691108",
+    "https://note.com/kinzoku2/n/na17ff92bc4fe",
+    "https://note.com/amauchi_industry/n/nff352f3eeca3",
+    "https://note.com/qy_research/n/n022ba9d33023"
+   ]
+  },
+  {
+   "query": "site:x.com チタン合金粉末（Ti-6Al-4V）のAM用途",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com チタン合金粉末（Ti-6Al-4V）のAM用途",
+   "results": [
+    "https://jp.linkedin.com/pulse/3d%E5%8D%B0%E5%88%B7%E7%94%A8%E7%90%83%E7%8A%B6%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4%E3%81%AE%E6%B4%9E%E5%AF%9F2026%E5%B9%B42033%E5%B9%B4%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%8796%E3%81%A7%E6%88%90%E9%95%B7-insightflow-researchx-lubee",
+    "https://www.linkedin.com/pulse/titanium-grade-23-ti-6al-4v-eli-4-ti-cp-rod-jacinto",
+    "https://www.linkedin.com/pulse/what-difference-between-ti-6al-7nb-ti-6al-4v-andy-lu-yondc",
+    "https://jp.linkedin.com/pulse/advancements-3d-printing-titanium-alloy-powder-napfc?tl=ja",
+    "https://jp.linkedin.com/pulse/現在のトレンドを紐解く主要プレイヤーとステークホルダー向けの3d印刷チタン合金粉末市場レポート2033年までの予-7502378553947095040-0efue",
+    "https://hr.linkedin.com/posts/pushkar-dhekne-196824aa_please-wait-activity-7059606142724820992-2VDo",
+    "https://be.linkedin.com/posts/vivien-lefranc-44a462138_heterogeneity-in-tribologically-transformed-activity-7045064202008297472--oT1",
+    "https://kz.linkedin.com/posts/t.i.c._this-is-an-example-how-tantalum-can-be-activity-7037699987895373824-OnDY"
+   ]
+  },
+  {
+   "query": "site:facebook.com チタン合金粉末（Ti-6Al-4V）のAM用途",
+   "results": [
+    "https://www.facebook.com/fujiwpc/posts/みんな大好き-チタン合金ti-6al-4v通称64チタンそのチタン合金ti-6al-4vを最強にするのがwpc処理未処理材と比較すると最大で約36の疲労強度向上/1601125314983077/",
+    "https://www.facebook.com/huang.randy/posts/one-click-metal-提供的粉末鈦-ti-6al-4v-鈦粉經過優化可與-boldseries-的-mprint-和-mpurepro-一起生產堅固的/10236957074250731/",
+    "https://www.facebook.com/fjtblog/posts/roval-rapide-コクピットの64チタンボルトti-6al-4v作りました-tarmac-sl8-sl7用/1387934426027778/",
+    "https://www.facebook.com/titansofcnc/videos/finally-cnc-machining-the-titanium-6al-4v-lion-will-keep-posting-updatesright-no/1045292105627507/",
+    "https://www.facebook.com/IscarJapan/videos/バレルエンドミルとボールエンドミルでti-6al-4vブレード形状の加工を比較してみましたバレルエンドミルを使うことで最大75のパス数を削減し加工時間を短縮でき/4010481939217486/",
+    "https://www.facebook.com/meltio3d/photos/titanium-and-meltios-additivemanufacturing-a-powerful-combination3dprinting-has-/1402407797874143/",
+    "https://www.facebook.com/IscarJapan/videos/2025年のx投稿で最もいいねをいただいたのは10月1日に投稿した比較動画でしたこの動画はバレルエンドミルとボールエンドミルでti-6al-4vブレード形状の加/869258522485410/"
+   ]
+  },
+  {
+   "query": "チタン合金粉末（Ti-6Al-4V）のAM用途 note 社長",
+   "results": [
+    "https://note.com/thermal_plasma/n/n29b40608cbe8",
+    "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "https://www.researchgate.net/publication/381725687_Titanium_Alloy_Powder_for_Additive_Manufacturing",
+    "https://met3dp.com/ja/titanium-alloys-powder-20231218/",
+    "https://prep-system.com/ja/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB%E3%81%AE%E7%94%A8%E9%80%94/",
+    "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20K04168/",
+    "https://patents.google.com/patent/JP2009155702A/ja",
+    "https://www.altech.co.jp/item_news/dmti64",
+    "https://nmmjx-dc.com/products/3d_printer/titan_powder.html",
+    "https://www.forgecise.com/ja/product/astmグレード5-ti-6al-4vチタン粉末（3dプリンティング用）｜/"
+   ]
+  },
+  {
+   "query": "チタン合金粉末（Ti-6Al-4V）のAM用途 X 投稿",
+   "results": [
+    "https://am-printing.com/ja/ti6al4v-powder-a-technical-overview/",
+    "https://www.researchgate.net/publication/381725687_Titanium_Alloy_Powder_for_Additive_Manufacturing",
+    "https://prep-system.com/ja/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB%E3%81%AE%E7%94%A8%E9%80%94/",
+    "https://jampt.jp/column/titanium-3d-printer/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-210927/",
+    "https://met3dp.com/ja/ti6al4v-spherical-titanium-alloy-powder-unmatched/",
+    "https://nmmjx-dc.com/products/3d_printer/titan_powder.html",
+    "https://www.kyhe-hex.com/ja/application/additive-manufacturing-metal-3d-printing",
+    "https://www.altech.co.jp/item_news/dmti64"
+   ]
+  },
+  {
+   "query": "titanium Ti-6Al-4V powder additive manufacturing market site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/additive-manufacturing-titanium-powder-ohj8f",
+    "https://www.linkedin.com/pulse/technological-innovations-driving-growth-s9gcf/",
+    "https://www.linkedin.com/pulse/grade-5-ti-6al-4v-alloy-demand-key-industries-uses-jke1e",
+    "https://www.linkedin.com/posts/amir-mostafaei-b97690a3_additive-manufacturing-of-titanium-alloys-activity-7469037787174985728-tsg2",
+    "https://www.linkedin.com/posts/astar-research_astar-scicomm-science-activity-7468481748041875456-qEZk",
+    "https://www.linkedin.com/pulse/spherical-titanium-powder-market-new-applications-znxif",
+    "https://www.linkedin.com/posts/lu-wang-439215109_multiobjective-collaborative-process-optimization-activity-7501442632976478208-GjA1",
+    "https://sg.linkedin.com/company/continuum-powders",
+    "https://www.linkedin.com/pulse/cold-spray-metal-additive-manufacturing-technology-alex-huckstepp",
+    "https://www.linkedin.com/pulse/ti6al4v-alloy-powder-market-growth-challenges-projections-10-rcxqe"
+   ]
+  }
+ ],
+ "missing": {}
+}

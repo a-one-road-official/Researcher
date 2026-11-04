@@ -1,0 +1,3138 @@
+{
+ "name": "半導体製造装置部品向けのAM材料",
+ "en": "additive manufacturing materials semiconductor equipment parts",
+ "aliases": [
+  "半導体製造装置 積層造形 材料",
+  "半導体 装置 部品 金属粉末",
+  "半導体 AM 部品 材料"
+ ],
+ "context": "AI・半導体",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:54:43.012061+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "先端光学材料市場規模・予測レポート（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置メーカーおよび先端防衛システムのインテグレーターの調達・サプライチェーン担当チームとの直接的な対話に基づき、当社は2024年の市場規模を約97億米ドルと評価している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "SEMI. \"SEMI Reports Global Semiconductor Equipment Billings Reached $135 Billion in 2025, Up 15% Year-on-Year.\" semi.org",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "光学ガラスの市場規模は2025年に36.4億米ドルとなり、2035年には55.9億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "先端光学材料市場規模：材料タイプ別、2025年・2035年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "光学コーティング材料は、2025年の市場シェア14%から、2035年には市場規模が26億2,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "特殊セラミックスその他は、2025年に17億7,000万米ドルの市場規模を生み出し、2026年から2035年にかけて年平均成長率（CAGR）4.0%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・リソグラフィ用途は、2035年に市場規模が40億2,000万米ドルに達し、2026年から2035年にかけて年平均成長率（CAGR）6.0%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛・航空宇宙は、2025年に17億7,000万米ドルの市場規模を生み出し、2035年までに市場シェア19%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "医療・ライフサイエンスは、2025年の市場シェア14%から、2035年には市場規模が24億5,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の半導体製造装置市場規模は、2025年には1,654億米ドルと評価され、2026年の1,791億3,000万米ドルから2034年には3,389億9,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は8.3%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "湿式プロセス機器市場規模、シェア、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "半導体リソグラフィ装置市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年の日本の半導体製造装置市場規模",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置市場規模、シェア、動向および予測装置タイプ、製品タイプ、寸法、サプライチェーン関係者、地域別2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置市場規模、シェア、動向および予測（2026年～2034年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模（2025年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測市場規模（2034年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "今後、複数の構造的要因が相まって、2034年までに市場規模は2倍以上の152億2,000万米ドルに達すると予測されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "キオクシア（旧東芝メモリ）とウェスタンデジタルとの提携により、四日市および北上ファブにおけるNANDフラッシュの生産能力拡大への投資が継続しており、2028年にかけて数十億ドル規模の装置調達サイクルが推進される見込みである",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "この政策的な後押しにより、国内のファブによる設備投資が活発化するとともに、世界のチップメーカーからの直接投資も誘致されており、これら相まって、2030年までに数百億ドル規模に達すると予想される、数年間にわたる持続的な装置調達サイクルが生み出されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "九州・沖縄地域は、TSMCの2つの熊本ファブ、ソニーのセンサー生産ライン、そして成長を続けるOSATクラスターにより、年間数十億ドル規模の装置調達ゾーンを形成しており、最も魅力的な地域投資機会となっています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の70億4,000万米ドルから、市場規模は2030年までに108億米ドル、2034年までに152億2,000万米ドルに達すると予測されており、予測期間全体で80億米ドルを超える累積増加が見込まれます",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模の推計および予測は、以下の2つのアプローチを組み合わせた手法を用いて導出された：(1) 日本国内の特定された稼働中および計画中のすべてのファブについて、ファブプロジェクト、ノード移行、およびメンテナンス・リプレースメント・サイクルごとに設備投資額を集計するボトムアップモデル； (2) IMARC Groupの世界半導体製造装置市場のベースラインに対し、世界の半導体装置支出に占める日本の推定シェア（約11%～13%）を適用するトップダウンモデル",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のプリント基板市場規模、シェア、動向および予測タイプ、基板、最終用途産業、地域別 2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子レンジ市場規模、シェア、動向およびタイプ、容量、流通チャネル、エンドユーザー、地域別予測2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界半導体製造装置用高性能セラミックス市場、2032年に56.04億ドルへ – 年平均成長率（CAGR）7.3％で成長（2026～2032年） | LP Information Co.,Ltdのプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "世界半導体製造装置用高性能セラミックス市場、2032年に56.04億ドルへ – 年平均成長率（CAGR）7.3％で成長（2026～2032年）",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "2025年時点でのグローバル半導体製造装置用高性能セラミックス市場規模は34.13億米ドルであった",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模と今後5年予測：工程高度化が需要を下支え",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月、NGKは半導体製造装置用セラミックスの新生産拠点を設ける方針を発表し、約700億円を投じて新工場を建設し、2029年10月の量産開始を予定している",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、半導体製造装置用高性能セラミックスの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、半導体製造装置用高性能セラミックスの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "第6章では、アジア太平洋地域における半導体製造装置用高性能セラミックス市場規模と各種用途を、販売量と収益を中心に分析します",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "第12章では、半導体製造装置用高性能セラミックスの世界市場規模を地域と製品タイプ別の売上高、収益、その他の関連指標で予測します",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "熱成形機市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）4.50%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場における水酸化マグネシウムの市場規模：売上規模・シェア・主要事業者別ランキング、CAGR 5.76%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "IMARCグループの最新レポートによると、日本の半導体製造装置市場規模は2025年に70億4000万米ドルに達した",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模（2025年）：70億4000万米ドル",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "フラッシュメモリ生産における戦略的パートナーシップに支えられた国内メモリ工場の継続的な生産能力拡大は、2028年まで数十億ドル規模の装置調達サイクルを牽引すると予想されます",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "7.2キロニュートン以上の推力と完全な再利用性を実証",
+    "url": "https://www.business.nikon.com/ja/customer-success/l-pbf-3d-printer-01/",
+    "pass": 3
+   },
+   {
+    "quote": "エンジンは、7.2キロニュートン以上の推力を達成しました",
+    "url": "https://www.business.nikon.com/ja/customer-success/l-pbf-3d-printer-01/",
+    "pass": 3
+   },
+   {
+    "quote": "Karman Space ProgrammeとNikon SLM Solutionsが製造したエンジンは、7.2キロニュートン以上の推力と18秒以上の稼働を実証しました",
+    "url": "https://www.business.nikon.com/ja/customer-success/l-pbf-3d-printer-01/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に1,255億ドル、2026年に1,381億ドル",
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の1,043億ドルから、2025年に1,108億ドル、2026年に1,221億ドル",
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "pass": 3
+   },
+   {
+    "quote": "テスト装置は2025年に93億ドル、組立・パッケージ装置は54億ドル",
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年に1,560億ドル",
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度：4兆9,111億円",
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度：5兆5,004億円",
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年度：5兆6,104億円",
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "pass": 3
+   },
+   {
+    "quote": "報道によると、米国は2022年に「CHIPS法」を成立させ、半導体製造・研究開発支援のために527億ドルの資金提供を計画​​しています",
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIの進展やデータセンターでの使用拡大により、AI向け半導体市場が急成長しており、2027年には1194億ドルに達するとの予測もあります​​",
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の半導体市場規模の推移（1999年～2019年） 世界の半導体市場規模（分野別）および将来予想（2020年～2030年予想）",
+    "url": "https://www.amova-am.com/files/sp/pdf/semiconductor.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本半導体製造装置市場に関する調査レポートによると、同市場は2026年～2036年の期間において年平均成長率（CAGR）9.1％で推移し、2036年末までに市場規模173億米ドルを創出すると予測されています",
+    "url": "https://www.dreamnews.jp/press/0000364506",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "2026年から2035年にかけて年平均成長率（CAGR）5.5%で拡大し、2035年には174.7億米ドルに達する見通しである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の世界の半導体製造装置売上高は1,351億米ドルに達し、前年比15%増となった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "半導体工場の継続的な生産能力拡大により、EUVおよびDUVリソグラフィ装置に使用されるCaF2結晶、溶融石英、精密光学ガラスの需要が直接押し上げられる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "GDPに連動した需要軟化が複数回発生するリスクにより楽観シナリオは抑制され、予測レンジ上限ではなく基本シナリオの年平均成長率（CAGR）5.5%が支持される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "光学結晶は、2035年までに市場の20%を占め、2026年から2035年にかけて年平均成長率（CAGR）6.7%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "光学ポリマーは、2035年までに市場の18%を占め、2026年から2035年にかけて年平均成長率（CAGR）6.8%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置市場の規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の半導体製造装置市場規模は、2025年には1,654億米ドルと評価され、2026年の1,791億3,000万米ドルから2034年には3,389億9,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は8.3%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、TSMCはハイブリッドボンディング技術を用いたシステムオン集積回路（SoIC）技術の展開を拡大し、超高密度チップレット集積による高度なAIプロセッサの製造に着手した",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）8.93％という",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026-2034年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR成長曲線（図2）は、2026年からの急激な転換を示しています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置市場は、2020年の45億9,000万米ドルを基盤として、過去平均年成長率（CAGR）約8.9%で拡大し、2025年には70億4,000万米ドルに達しました",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "、AI 駆動の HBM および 3D-NAND パッケージング技術には、特殊なボンディング、TSV（Through-Silicon Via）、および積層装置が必要であるため、2034 年まで最も高い CAGR を記録すると予想されます",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "キオクシア（旧東芝メモリ）とウェスタンデジタルとの提携により、四日市および北上ファブにおけるNANDフラッシュの生産能力拡大への投資が継続しており、2028年にかけて数十億ドル規模の装置調達サイクルが推進される見込みである",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体戦略は、国内のチップ製造を強化し、2030 年までに世界の半導体生産額に占める国内のシェアを、従来のレベルから拡大することを目指しています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "TELは、ゲート・オール・アラウンド（GAA）プロセス装置の開発に特に重点を置き、先進ロジック、3D-NAND、およびDRAM装置セグメントの拡大を通じて、売上高の倍増を目指しています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界半導体製造装置用高性能セラミックス市場、2032年に56.04億ドルへ – 年平均成長率（CAGR）7.3％で成長（2026～2032年） | LP Information Co.,Ltdのプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "世界半導体製造装置用高性能セラミックス市場、2032年に56.04億ドルへ – 年平均成長率（CAGR）7.3％で成長（2026～2032年）",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "LP Informationの分析によれば、グローバル半導体製造装置用高性能セラミックス市場は2026年以降も拡大基調を維持する見通しである",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は2032年までに56.04億米ドルに達すると予測され、2026年から2032年の年平均成長率(CAGR)は7.3%と見込まれる",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "）によると、グローバル半導体製造装置用高性能セラミックス市場は2026年から2032年の予測期間においてCAGR 7.3%で拡大し、2032年に56.04億米ドルへ到達する見通しである",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "この成長は、単純な装置台数の増加だけでなく、先端ノード、3D NAND、HBM関連投資、AI向けロジック投資の拡大によって、装置1台当たりに要求される部材性能が高まることに支えられている",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、半導体製造装置用高性能セラミックスの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、半導体製造装置用高性能セラミックスの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "透明Micro LEDディスプレイマーケットリサーチ：調査方法・市場動向・業界規模、年平均成長率（CAGR）52.7%の超高成長",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "熱成形機市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）4.50%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "高度な航空交通マーケットリサーチ：調査方法・市場動向・業界規模、年平均成長率（CAGR）20.6%の超高成長",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場における水酸化マグネシウムの市場規模：売上規模・シェア・主要事業者別ランキング、CAGR 5.76%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "バサルト繊維市場調査：規模・状況・調べ方・算出方法、年平均成長率（CAGR）9.64%の高成長",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "日本半導体製造装置市場は2034年までに米ドル 15.22 十億に達する見込みで、8.93%のCAGRで拡大 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "日本半導体製造装置市場は2034年までに米ドル 15.22 十億に達する見込みで、8.93%のCAGRで拡大",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置市場は2025年に70億4,000万米ドルに達し、2034年までに152億2,000万米ドルに達すると予測されており、2026年から2034年にかけて年平均成長率（CAGR）8.93％という堅調な伸びを示すと見込まれています",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "今後、同市場は2034年までに152億2000万米ドルに達すると予測されており、2026年から2034年にかけて年平均成長率（CAGR）8.93%を示すと見込まれている",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "成長率（2026年～2034年）：年平均成長率8.93%",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "3D-ICおよび高帯域幅メモリアーキテクチャをサポートするため、先進的なパッケージング装置への投資を拡大する",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "フラッシュメモリ生産における戦略的パートナーシップに支えられた国内メモリ工場の継続的な生産能力拡大は、2028年まで数十億ドル規模の装置調達サイクルを牽引すると予想されます",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "先進的なプロセスノードへの移行、新たな製造工場の建設、そして先進的なパッケージング装置への投資拡大が持続的な需要を牽引し続けることから、市場は2034年まで力強い成長を続けると予想される",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置市場は、包括的な装置更新サイクルを必要とする先端ノードへの移行、九州と北海道における新工場建設、そして先端パッケージング装置への長期的な投資拡大という3つの構造的な需要の柱に支えられ、2034年まで平均を上回る持続的な成長が見込まれています",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "IoT、AI、5G通信などの新技術の普及により、半導体需要は急増しており、それに伴い製造装置の市場も拡大しています",
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、2026年度にはAI関連半導体の需要拡大が本格化し、市場を大きく押し上げると予想されています",
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "pass": 3
+   },
+   {
+    "quote": "N2→A16のロードマップが明確になったことで、先端ロジックのPPA（性能・消費電力・面積）改善と設計自由度の拡大が期待されます",
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "pass": 3
+   },
+   {
+    "quote": "、ウエハ処理能力ベースで+69%拡大すると予測",
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIの進展やデータセンターでの使用拡大により、AI向け半導体市場が急成長しており、2027年には1194億ドルに達するとの予測もあります​​",
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "pass": 3
+   },
+   {
+    "quote": "日本半導体製造装置市場に関する調査レポートによると、同市場は2026年～2036年の期間において年平均成長率（CAGR）9.1％で推移し、2036年末までに市場規模173億米ドルを創出すると予測されています",
+    "url": "https://www.dreamnews.jp/press/0000364506",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置市場は、2020年代後半にかけて継続的な拡大が見込まれています",
+    "url": "https://www.dreamnews.jp/press/0000364506",
+    "pass": 3
+   },
+   {
+    "quote": "SEAJによる2026年度5兆5,000億円、2027年度5兆6,100億円という現在の予測は、日本の装置メーカーが短期的な投資急増ではなく、持続的な需要拡大期に入っていることを示しています",
+    "url": "https://www.dreamnews.jp/press/0000364506",
+    "pass": 3
+   },
+   {
+    "quote": "10. 国内半導体生産能力の拡大",
+    "url": "https://www.dreamnews.jp/press/0000364506",
+    "pass": 3
+   },
+   {
+    "quote": "政府は2030年までに半導体関連国内売上高15兆円超を目標としているほか、Rapidus、TSMC、キオクシア、ソニー、Micron、ルネサスなどが関与する主要プロジェクトによって、日本の生産エコシステムが拡大しています",
+    "url": "https://www.dreamnews.jp/press/0000364506",
+    "pass": 3
+   },
+   {
+    "quote": "日本半導体製造装置市場に関する調査レポートによると、同市場は2026年～2036年の期間において年平均成長率（CAGR）9.1％で推移し、2036年末までに市場規模173億米ドルを創出すると予測されています",
+    "url": "https://www.dreamnews.jp/press/0000361413",
+    "pass": 3
+   },
+   {
+    "quote": "SEAJの2026年7月の最新予測では、2026年度の日本製半導体製造装置の販売額は6兆5,500億円となり、前年比26%増を見込んでいます",
+    "url": "https://www.dreamnews.jp/press/0000361413",
+    "pass": 3
+   },
+   {
+    "quote": "2nm／GAA製造： 先端ロジックプロセスの拡大により、高精度なプロセス装置、計測・検査装置への需要が高まっています",
+    "url": "https://www.dreamnews.jp/press/0000361413",
+    "pass": 3
+   },
+   {
+    "quote": "300mmウェーハ生産： 300mmプラットフォームの利用拡大により、自動化、ウェーハ搬送、プロセス制御、生産性に対する要求が高まっています",
+    "url": "https://www.dreamnews.jp/press/0000361413",
+    "pass": 3
+   },
+   {
+    "quote": "日本半導体製造装置市場に関する調査レポートによると、同市場は2026年～2036年の期間において年平均成長率（CAGR）9.1％で推移し、2036年末までに市場規模173億米ドルを創出すると予測されています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1151114.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置市場は、2020年代後半にかけて継続的な拡大が見込まれています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1151114.html",
+    "pass": 3
+   },
+   {
+    "quote": "SEAJによる2026年度5兆5,000億円、2027年度5兆6,100億円という現在の予測は、日本の装置メーカーが短期的な投資急増ではなく、持続的な需要拡大期に入っていることを示しています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1151114.html",
+    "pass": 3
+   },
+   {
+    "quote": "10. 国内半導体生産能力の拡大",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1151114.html",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "半導体製造装置メーカーおよび先端防衛システムのインテグレーターの調達・サプライチェーン担当チームとの直接的な対話に基づき、当社は2024年の市場規模を約97億米ドルと評価している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、地政学的緊張、輸出規制、部品不足といった要因が、装置メーカーに対し、生産拠点の地域化、サプライヤーネットワークの多様化、そして現地生産能力への投資拡大を促しています",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、大手半導体製造装置メーカー各社は、サプライチェーンの強靭性を強化し、世界的な半導体製造投資の拡大を支えるため、地域ごとの生産能力の拡大を継続した",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピューティングの発展に伴い、半導体製造装置メーカー、研究機関、量子チップ製造ファウンドリにとって新たなビジネスチャンスが生まれています",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本は世界有数の半導体製造装置の拠点であり、東京エレクトロン（TEL）やアドバンテストといった世界的に支配的なOEM企業が拠点を置いています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置のエコシステムは、世界の半導体サプライチェーンと深く統合されており、国内のOEMメーカーは東アジア、北米、欧州のファブに重要な装置を供給しています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の「半導体・デジタル産業戦略（2023年）」では、国内の半導体製造に向けて多額の資金が割り当てられており、国内のOEMメーカーや、日本国内にサービスセンターの設立を目指すグローバルサプライヤーの両方から、フロントエンドおよびバックエンド装置への需要を直接刺激しています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "フォトリソグラフィーや成膜プロセスに不可欠な特殊ガス（ネオン、クリプトン、キセノンなど）や希土類材料は、依然として地理的に集中しており、日本の装置メーカーはサプライチェーンの脆弱性やコスト変動のリスクにさらされている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "：ゲート・オール・アラウンド（GAA）トランジスタ・アーキテクチャや、GaN や SiC などのシリコン以外の材料への移行など、半導体の急速な技術革新により、装置メーカーは継続的な研究開発への再投資を迫られています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本にはTEL（売上高で世界第2位の半導体製造装置メーカー）が存在するものの、ASML（オランダ）、アプライド・マテリアルズ（米国）、ラム・リサーチ（米国）といったグローバルな競合他社は、長期供給契約を通じて日本の主要ファブにおいて強固な市場地位を維持している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "TELや日立ハイテクをはじめとする装置メーカーは、プロセス制御モジュールにAIおよび機械学習機能を組み込んでいます",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、重要なプロセス装置にIoT対応センサーを用いた予知保全プラットフォームを導入することで、予期せぬダウンタイムを削減すると同時に、OEMメーカーにとって新たなサービスベースの収益源を創出している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "装置製造（OEM）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "東京のファブクラスター、主要OEMの本社",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な競合他社は、直販拠点や長期供給契約を通じて、日本市場で大きな存在感を維持している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "国際電気株式会社は、チップ製造のための先進プロセス技術を専門とする、日本を拠点とする半導体製造装置メーカーである",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要装置メーカーによる戦略的M&Aは、特にAIを活用したプロセス制御、先端パッケージング、SiC関連技術の分野において、2027年後半にかけて活発化すると予想される",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "この変化により、日本の主要装置メーカーにとって収益の予測可能性が高まり、顧客の定着度も深まるだろう",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートの一次調査は、主要な半導体製造装置メーカー、ファブ運営会社、および JEITA（日本電子情報技術産業協会）や SEAJ（日本半導体製造装置協会）などの業界団体の上級幹部および技術責任者に対する構造化インタビューで構成されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "代理店プログラム",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "国内の装置メーカーは、東アジア、北米、ヨーロッパの製造施設に重要なフロントエンドおよびバックエンド装置を供給することで、世界の半導体サプライチェーンにおいて構造的に重要な位置を占めている",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "国家産業戦略に基づき国内半導体製造に多額の資金が投入されていることは、フロントエンド機器とバックエンド機器の両方に対する需要を直接的に刺激し、国内OEMだけでなく、国内にサービスセンターを設立するグローバルサプライヤーにも恩恵をもたらしている",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "プロセス制御モジュールに組み込まれたAIと機械学習機能は、日本の半導体工場におけるパイロット導入において大幅な歩留まり向上を実現しており、IoT対応の予知保全プラットフォームは、計画外のダウンタイムを削減し、装置メーカーにとって新たなサービスベースの収益源を生み出している",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "世界の半導体およびクラウドコンピューティング顧客からのAIチップテストに対する需要の高まりを受け、装置メーカーはAI関連チップに特化したテスト製品群の拡充を進めている",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "国内有数の半導体試験装置メーカーが、半導体装置のイノベーションにおける業界横断的な連携強化を目的とした、世界的な大手材料・装置サプライヤーとの戦略的提携を発表した",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "関東地方は、東京周辺に主要なOEM本社、研究キャンパス、先端製造施設が集中していることを背景に、2025年の市場を牽引した",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "また、サービスとしての装置（EaaS）やAIを活用したプロセス最適化サブスクリプションなど、サービス収益モデルの成長を通じて業界の変革が実現し、日本の主要装置メーカーの収益予測性と顧客維持率の向上につながると予想されます",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "市場は高度な技術革新が進み、各半導体装置メーカーが競争を繰り広げています",
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置メーカーは、長年にわたり培ってきた高度な技術力と卓越した品質管理によって、世界市場で重要な地位を占めています",
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置メーカー一覧｜日本企業と世界トップ企業のシェア・強みをわかりやすく解説",
+    "url": "https://www.pwsj.co.jp/blog/53",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置メーカー一覧｜日本企業と世界トップ企業のシェア・強みをわかりやすく解説 has loaded",
+    "url": "https://www.pwsj.co.jp/blog/53",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、半導体製造装置メーカーの基本的な役割を踏まえながら、日本企業と海外主要企業の特徴、装置市場の構造までをわかりやすく解説します",
+    "url": "https://www.pwsj.co.jp/blog/53",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置メーカーとは",
+    "url": "https://www.pwsj.co.jp/blog/53",
+    "pass": 3
+   },
+   {
+    "quote": "日本の主要半導体製造装置メーカー",
+    "url": "https://www.pwsj.co.jp/blog/53",
+    "pass": 3
+   },
+   {
+    "quote": "世界の主要半導体装置メーカー",
+    "url": "https://www.pwsj.co.jp/blog/53",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置メーカーとは、半導体工場で使われる各種装置を開発・供給する企業です",
+    "url": "https://www.pwsj.co.jp/blog/53",
+    "pass": 3
+   },
+   {
+    "quote": "半導体メーカーがチップそのものを設計・生産するのに対し、装置メーカーはその生産を支える設備面を担う立場です",
+    "url": "https://www.pwsj.co.jp/blog/53",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、装置メーカーには高精度な加工技術だけでなく、安定稼働や再現性を支える設計力も欠かせません",
+    "url": "https://www.pwsj.co.jp/blog/53",
+    "pass": 3
+   },
+   {
+    "quote": "先端分野になるほど装置の完成度が競争力に直結するため、半導体製造装置メーカーはサプライチェーンの中でも存在感の大きい企業といえます",
+    "url": "https://www.pwsj.co.jp/blog/53",
+    "pass": 3
+   },
+   {
+    "quote": "とくに先端半導体では、露光装置の性能が製品競争力を左右するため、装置メーカーの技術差が表れやすい分野でもあります",
+    "url": "https://www.pwsj.co.jp/blog/53",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、日本の主要半導体製造装置メーカーについて解説します",
+    "url": "https://www.pwsj.co.jp/blog/53",
+    "pass": 3
+   },
+   {
+    "quote": "東京エレクトロンは、成膜装置やエッチング装置、洗浄装置など幅広い分野で製品を展開する日本の代表的な半導体製造装置メーカーです",
+    "url": "https://www.pwsj.co.jp/blog/53",
+    "pass": 3
+   },
+   {
+    "quote": "前工程中心の装置メーカーとは位置づけが異なりますが、半導体を製品として仕上げるうえで欠かせない存在です",
+    "url": "https://www.pwsj.co.jp/blog/53",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、世界の主要半導体装置メーカーについて解説します",
+    "url": "https://www.pwsj.co.jp/blog/53",
+    "pass": 3
+   },
+   {
+    "quote": "本サイトの収録も装置メーカーと材料メーカーが大半を占め、デバイスではキオクシアやルネサス、ソニーなどのIDMが中心になります",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "シリコンウェハの両面研磨・エッジ研磨装置を手掛ける国内装置メーカー",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "住友精密工業から分社した装置メーカー",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "アルバックと米PHIの合弁による表面分析装置メーカー",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "2000年設立の結晶成長装置メーカー",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・FPD製造の排ガス処理装置メーカー",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "i線・KrFステッパーを長年供給する露光装置メーカー",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "キヤノングループの真空成膜装置メーカー",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "コーター・デベロッパ（塗布現像装置）やウェハ搬送装置を手掛ける国内装置メーカー",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置やFPD製造装置に使われる真空チャンバーや電極などの真空部品を、切削・溶接・表面処理を含めて加工し、装置メーカーに供給している",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "装置メーカーへOEM供給し、クリーンな搬送自動化で高い世界シェアを持つ",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "パワーエレクトロニクス事業で半導体・FPD製造装置向けの電源装置を手がけ、米国サンノゼに現地法人を設けて海外の装置メーカーにも供給",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "ジェイテクトグループの熱処理装置メーカー",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "1935年にガラス切りの工具メーカーとして創業した大阪の切断装置メーカー",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "東芝グループの半導体・FPD製造装置メーカー",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "成長は、光学部品全般の数量増加だけでなく、用途固有の性能要件を満たす材料をサプライヤーが認定取得できるかどうかに、ますます左右されるようになっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置への投資、防衛システムの近代化、規制で義務付けられた自動車センシングにより、光学性能と認定の信頼性を兼ね備えた材料への需要が拡大している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "先端ロジックおよびAIメモリーへの投資により、2030年まで光学結晶と特殊ガラスの年間需要は少なくとも一桁台半ばの成長を維持する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "リソグラフィ装置では、材料需要が認定済みの限られたサプライチェーンに集中する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、新たな工場の建設やメンテナンスの各サイクルでは、汎用産業用光学機器に比べて材料使用量の増加が大きくなる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "こうした需要は、光学特性だけでなく、認定実績や供給確保の信頼性も重要となる材料を特に後押ししている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "規制によってセンシング機能の最低要件が定められる一方、車両プラットフォームの標準化により、カメラ、LiDAR、ヘッドアップディスプレイおよび関連システムでの材料使用量が増える可能性がある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛、半導体、高信頼性の商用システムでは、認定済み原材料が必要であり、光学設計の変更と再認定を行わずに材料を容易に代替することはできない",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、供給認定が市場の中心的な戦略変数であるとみている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "結晶成長に長い時間を要し、認定も必要となるため供給は制約されており、より標準化された材料に比べて高価格帯の地位を支えている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "長期にわたる防衛調達サイクルと、認定済みの用途が限られることが市場全体の拡大を抑えるものの、その戦略的重要性は市場規模を上回る",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "この用途では、システム当たりの材料使用量が多い一方、ガラス、結晶、基板、コーティング材料には厳しい認定基準が課される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "先端プロセスの開発に伴い、寸法安定性、表面品質、透過率の制御が一層重要となり、サプライヤーの認定が購入先を左右する決定的な要因となっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "輸出規制、安全保障上の要件、システム認定に要する長い期間が、この用途における既存サプライヤーの地位を強固にしている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "一つは自動車・民生用途が牽引する大量生産・コスト重視型、もう一つはリソグラフィ、防衛、医療システムが牽引する厳格な認定要件を伴う型である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "国際エネルギー機関（IEA）は、世界のデータセンターの電力消費量が2030年までに945TWhを超えると予測しており、AIがその主要な成長要因となるとしている",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "装置の設置、プロセス認定、および生産立ち上げには、歩留まりの低下や製造の中断を避けるために、綿密な調整が必要です",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "インテルの18Aプロセス技術への移行では、量産開始前に段階的な装置アップグレードと長期にわたるプロセス認定が必要となり、技術ノードの移行が装置の導入や商業生産スケジュールを遅らせる可能性があることを示しました",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "先端半導体ファブは施設あたり非常に高額な設備投資を必要とするため、新規参入者にとって大きな資金面の障壁となり、設備調達サイクルを数年間に及ばせ、その結果、短期的な受注ペースを鈍化させている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "AIアクセラレータやHBMモジュール向けの2.5Dおよび3D-ICパッケージングアーキテクチャへの世界的な移行により、2030年までに日本において、特にボンディングシステム、TSVドリル装置、ウェハーレベルパッケージング検査装置において、年間で大きな装置需要の機会が生まれています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本にはTEL（売上高で世界第2位の半導体製造装置メーカー）が存在するものの、ASML（オランダ）、アプライド・マテリアルズ（米国）、ラム・リサーチ（米国）といったグローバルな競合他社は、長期供給契約を通じて日本の主要ファブにおいて強固な市場地位を維持している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "この政策的な後押しにより、国内のファブによる設備投資が活発化するとともに、世界のチップメーカーからの直接投資も誘致されており、これら相まって、2030年までに数百億ドル規模に達すると予想される、数年間にわたる持続的な装置調達サイクルが生み出されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境は、深い技術的参入障壁、主要ファブとの長期的な顧客関係、およびプロセス認定済み装置ポートフォリオに伴う高い切り替えコストによって形成されている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な競合他社は、直販拠点や長期供給契約を通じて、日本市場で大きな存在感を維持している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "九州・沖縄地域は、TSMCの2つの熊本ファブ、ソニーのセンサー生産ライン、そして成長を続けるOSATクラスターにより、年間数十億ドル規模の装置調達ゾーンを形成しており、最も魅力的な地域投資機会となっています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（年平均成長率）の算出は、2025年を基準年として2034年の予測年までの複合年間成長率を反映しています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "AIアクセラレータや高帯域幅メモリモジュール向けの2.5Dおよび3D-ICパッケージングアーキテクチャへの世界的な移行は、特にボンディングシステム、シリコン貫通ビア穴あけ装置、ウェハレベルパッケージング検査ツールにおいて、年間で大きな装置需要機会を生み出しています",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "この10年間でゆっくりですが低価格化が進んでおり、今後も消費量の増大とともに低価格化が進むと思われます",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "残念ながら、装置価格はこの２０年間で安くなった感じはありません",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "今後10年間で約2万機の衛星が必要になると予測されており、それに伴い、数多くのロケット打ち上げが必要になります",
+    "url": "https://www.business.nikon.com/ja/customer-success/l-pbf-3d-printer-01/",
+    "pass": 3
+   },
+   {
+    "quote": "水使用量の削減とリサイクル",
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "pass": 3
+   },
+   {
+    "quote": "昼夜を問わず、1年間を通して22℃±1℃の恒温管理を行っています",
+    "url": "https://mono.ipros.com/cg3/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E9%83%A8%E5%93%81/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年から10年間で",
+    "url": "https://www.amova-am.com/files/sp/pdf/semiconductor.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "- 水消費量",
+    "url": "https://www.dreamnews.jp/press/0000364506",
+    "pass": 3
+   },
+   {
+    "quote": "- 薬品使用量",
+    "url": "https://www.dreamnews.jp/press/0000364506",
+    "pass": 3
+   },
+   {
+    "quote": "- プロセスガス消費量",
+    "url": "https://www.dreamnews.jp/press/0000364506",
+    "pass": 3
+   },
+   {
+    "quote": "装置コンポーネント → 精密部品・材料 → 装置メーカー → プロセス装置統合 → ファブへの設置 → プロセス認定 → 生産立ち上げ → 保守・更新",
+    "url": "https://www.dreamnews.jp/press/0000361413",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内のファブ建設がローカル需要を創出： 新たな生産能力には、プロセス装置だけでなく、設置、認定、自動化、アフターサービスも必要となります",
+    "url": "https://www.dreamnews.jp/press/0000361413",
+    "pass": 3
+   },
+   {
+    "quote": "- 水消費量",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1151114.html",
+    "pass": 3
+   },
+   {
+    "quote": "- 薬品使用量",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1151114.html",
+    "pass": 3
+   },
+   {
+    "quote": "- プロセスガス消費量",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1151114.html",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "2024年12月に発効した中国による米国向けガリウム、ゲルマニウム、アンチモンの輸出禁止措置を受け、ゲルマニウム価格は2023年1月以降、約75%上昇した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "既存サプライヤーは構造的な価格決定力を維持し、隣接する材料よりもコモディティ化の進行が遅い状態が2035年まで続く",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、半導体製造装置用高性能セラミックスの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、半導体製造装置用高性能セラミックスの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "第13章では、半導体製造装置用高性能セラミックス市場の主要メーカーについて、基本情報、製品仕様と用途、販売量、収益、価格設定、粗利益率、主力事業、最近の動向などの詳細情報を紹介します",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "１．材料価格",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "金属の場合ですが、EOSの粉末材料価格は材質に応じてキログラム当たり1.4万円から9.3万円です",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "この10年間でゆっくりですが低価格化が進んでおり、今後も消費量の増大とともに低価格化が進むと思われます",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "３．装置価格",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "残念ながら、装置価格はこの２０年間で安くなった感じはありません",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "金属製の3Dプリント部品の価格は、およそ",
+    "url": "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "500ドルという価格差は、含まれる金属の量とはほとんど関係がありません",
+    "url": "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ質量の2つの部品でも、一方は製造が容易であるのに対し、もう一方はレーザーの長い移動距離、高密度のサポート材、そして重厚な仕上げ加工が必要となるため、価格が数倍も異なる場合があります",
+    "url": "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "工業用金属AMシステム自体の価格は何十万ドルから100万ドル以上にもなり、最初の層をスキャンする前の基本的なコストが決まります",
+    "url": "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "1kgあたり500以上",
+    "url": "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "溶融していない粉末は製造工程内で再利用されることが多く、これにより実質的な材料コストは低下しますが、SLM（選択的レーザー溶融）における粉末の取り扱い、ふるい分け、不活性ガスの使用といったコストは、1kgあたりの価格には反映されません",
+    "url": "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "NASAの資料では、アポロ時代のような使い捨て型の宇宙輸送システムについて、飛行ハードウェアのコストを約5万ドル/kgとする概算が示されています",
+    "url": "https://www.business.nikon.com/ja/customer-success/l-pbf-3d-printer-01/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、近年のロケットでは数千ドル/kg程度の水準が見られ、再利用化がさらに進むことで、将来的には100ドル/kg程度まで低下する可能性も予測されています",
+    "url": "https://www.business.nikon.com/ja/customer-success/l-pbf-3d-printer-01/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターとは？造形方式の種類・メリット・価格・選び方をわかりやすく解説",
+    "url": "https://www.business.nikon.com/ja/customer-success/l-pbf-3d-printer-01/",
+    "pass": 3
+   }
+  ],
+  "上位シェア・主要企業": [
+   {
+    "quote": "先端光学材料市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Corning Inc.は、2025年に8%を超える市場シェアを獲得し、市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "であり、2025年に合計20.2%の市場シェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "光学コーティング材料は、2025年の市場シェア14%から、2035年には市場規模が26億2,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "先端光学材料市場の用途別市場シェア、2025年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛・航空宇宙は、2025年に17億7,000万米ドルの市場規模を生み出し、2035年までに市場シェア19%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "医療・ライフサイエンスは、2025年の市場シェア14%から、2035年には市場規模が24億5,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "先端光学材料市場の地域別シェア、2025年・2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカは2035年までに市場シェア5.5%を占め、2026〜2035年に年平均成長率（CAGR）6.6%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "先進光学材料市場のシェアと競争環境",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "先端光学材料市場のシェア構造は依然として分散しており、2025年には上位5社の売上高合計が世界全体の約20.2%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "は2025年に約8.0%の市場シェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "は2025年に推定6.2%の市場シェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "は2025年に推定2.8%の市場シェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年時点で、アジア太平洋地域は先端光学材料市場で最大のシェアを占めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置市場の規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置市場の規模、シェア、トレンド分析レポート：装置タイプ別（ウェハ製造装置、計測・検査装置、組立・パッケージング装置、試験装置）、寸法別（2D IC、3D IC、5D IC、チップレットベースIC）、用途別（ファウンドリ、メモリ製造、ロジック製造、アナログ・ミックスドシグナル製造）、エンドユーザー別（統合デバイスメーカー（IDM）、半導体組立・テストアウトソーシング（OSAT）プロバイダー、ファウンドリ専業、ファブレス半導体企業）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に64.5%の市場シェアを占め、半導体製造装置市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、大手半導体製造装置メーカー各社は、サプライチェーンの強靭性を強化し、世界的な半導体製造投資の拡大を支えるため、地域ごとの生産能力の拡大を継続した",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "ウェハ製造装置セグメントは、2025年に78.4%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置市場において、ウェハ製造装置分野は圧倒的なシェアを占め、2025年には市場全体の78.4%を占めると予測されている",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2D ICセグメントは2025年に56.8%のシェアを占め、市場を席巻するだろう",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2D ICセグメントは市場を席巻し、2025年には市場シェアの56.8%を占めた",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造のアウトソーシング需要の高まり、大手ファウンドリによるファブ投資の増加、そしてAI、自動車、高性能コンピューティング向けチップの生産拡大が、高度な半導体製造装置の導入を加速させています",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は世界の半導体製造装置市場を牽引し、市場シェアの64.5%を占め、2025年には752億8000万米ドルの規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の半導体製造装置市場において、欧州は10.7%のシェアを占め、2025年には124億9000万米ドルの規模に達すると予測されており、予測期間中の年平均成長率（CAGR）は7.86%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に64.5%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "太陽電池用シリコンウェハー市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置市場規模、シェア、動向および予測装置タイプ、製品タイプ、寸法、サプライチェーン関係者、地域別2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置市場規模、シェア、動向および予測（2026年～2034年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年、フロントエンド装置セグメントは、主に関東および関西の回廊に位置するメモリ、ロジック、および先進ノードのファブにおける継続的な設備投資に支えられ、62.8% の市場シェアで圧倒的な地位を維持しました",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、東京とその周辺の産業クラスターを中核とする関東地域が35.8%のシェアで市場を支配しました",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2D – 2025年のシェア46.2%",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "関東地方 – 2025年のシェア35.8%",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の日本の半導体製造装置市場では、2D寸法装置が46.2%のシェアを占め首位となった",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "しているため、フロントエンド装置が62.8%のシェアを占めて市場を支配した",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "、地域別では最大のシェアとなりました",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に10.3%のシェアを占める九州・沖縄地域は、",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "北海道におけるラピダス社のサブ2nmプロジェクト（2025年の地域シェア4.8%）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "3D ディメンション分野は 2025 年に 32.5% の市場シェアを占め",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "ソニーのイメージセンサー部門、TSMCの熊本工場、新興のOSATプロバイダーなどの主要企業は、先進パッケージングの生産能力に投資しており、ディスコやULVACなどの大手サプライヤーによるダイアタッチ装置、フリップチップボンディングシステム、ウェハーレベルパッケージング装置への需要を直接的に押し上げている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体戦略は、国内のチップ製造を強化し、2030 年までに世界の半導体生産額に占める国内のシェアを、従来のレベルから拡大することを目指しています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "TELの「CLEAN TRACK」リソグラフィー用塗布現像装置は、国内のフォトレジスト塗布装置市場で圧倒的なシェアを占めています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業ランキングと市場シェア",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "LP Informationのトップ企業研究センターによると、世界の主要企業には、NGK Insulators、Kyocera、Niterra Co., Ltd.、Ferrotec、Coorstek、TOTO Advanced Ceramics、MiCo Ceramics Co., Ltd.、Morgan Advanced Materials、Suzhou KemaTek, Inc.、Shanghai Companionなどが含まれる",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "中国企業はまだ世界シェアでは限定的だが、国内装置産業とサプライチェーン国産化の進展を背景に、成長余地が比較的大きい",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の動向",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、半導体製造装置用高性能セラミックスの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、半導体製造装置用高性能セラミックスの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "第13章では、半導体製造装置用高性能セラミックス市場の主要メーカーについて、基本情報、製品仕様と用途、販売量、収益、価格設定、粗利益率、主力事業、最近の動向などの詳細情報を紹介します",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "熱成形機市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）4.50%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場における水酸化マグネシウムの市場規模：売上規模・シェア・主要事業者別ランキング、CAGR 5.76%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "この市場調査レポートは、市場構造、主要企業のポジショニング、成功戦略、競合ダッシュボード、企業評価象限など、競争環境に関する詳細な分析を提供します",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要企業すべての詳細なプロファイルも含まれています",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "国内有数の半導体試験装置メーカーが、半導体装置のイノベーションにおける業界横断的な連携強化を目的とした、世界的な大手材料・装置サプライヤーとの戦略的提携を発表した",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースのシェア",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用TOP",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス : Top",
+    "url": "https://www.business.nikon.com/ja/customer-success/l-pbf-3d-printer-01/",
+    "pass": 3
+   }
+  ],
+  "ニッチ度（供給元の数・寡占）": [
+   {
+    "quote": "リソグラフィ装置では、材料需要が認定済みの限られたサプライチェーンに集中する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "参入障壁により需要急増時の迅速な能力増強が制限され、供給逼迫が循環的に発生するとともに、リードタイムの変動が拡大する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "長期にわたる防衛調達サイクルと、認定済みの用途が限られることが市場全体の拡大を抑えるものの、その戦略的重要性は市場規模を上回る",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方、この用途は半導体、防衛、自動車分野と比べて成熟が進んでおり、市場の増分成長への寄与は限られている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場機会は依然として専門性の高い分野に限られ、認定済みの輸入システムや現地サポートを受けられるシステムの入手可能性に左右される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "こうした関係は、新規参入企業にとって実質的な認定上の障壁となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラムリサーチとJSR株式会社／インプリアは、ドライレジストEUVリソグラフィの発展を目指し、非独占的な相互ライセンスおよび共同開発契約を締結した",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "先端半導体ファブは施設あたり非常に高額な設備投資を必要とするため、新規参入者にとって大きな資金面の障壁となり、設備調達サイクルを数年間に及ばせ、その結果、短期的な受注ペースを鈍化させている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境は、深い技術的参入障壁、主要ファブとの長期的な顧客関係、およびプロセス認定済み装置ポートフォリオに伴う高い切り替えコストによって形成されている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場集中度指数（ハーフィンダール・ハーシュマン指数、HHI）は、競争的ではあるが独占的ではない環境を反映し、中程度の集中範囲にあると推定される",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "ウェーハダイシングや特定のATEセグメントといったニッチな装置カテゴリーでは、寡占的な集中が見られる",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "ポーターの5つの力分析は、新規参入、競合他社との競争、供給者の力、購買者の力、代替品の脅威といった要因の影響をステークホルダーが評価する上で役立ちます",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年時点で世界上位10社が市場全体の約87.0%を占めており、市場は高い技術参入障壁を伴う集中型構造を示している",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "新規参入や周辺事業展開を検討する企業は、材料単体ではなく、加工、洗浄、コーティング、顧客認証まで含めた提供能力を評価する必要がある",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、半導体製造装置用高性能セラミックスの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "1993年 独EOS社と積層造形装置の日本国内における独占販売契約締結",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "そうしたニーズに応えられるメーカーは限られており、その点が同社の競争力につながっています",
+    "url": "https://www.pwsj.co.jp/blog/53",
+    "pass": 3
+   },
+   {
+    "quote": "半導体装置市場が寡占的になりやすい理由も、この構造にあります",
+    "url": "https://www.pwsj.co.jp/blog/53",
+    "pass": 3
+   },
+   {
+    "quote": "味の素にいたっては、ある材料で事実上の独占",
+    "url": "https://semisouchi.com/semiconductor-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "味の素の意外な独占｜ABF",
+    "url": "https://semisouchi.com/semiconductor-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "日本2社の寡占",
+    "url": "https://semisouchi.com/semiconductor-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "世界5社という寡占の構造、新規参入がない理由、CZ法から鏡面研磨までの製造工程は",
+    "url": "https://semisouchi.com/semiconductor-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "この分野で味の素は事実上100%に近い独占状態",
+    "url": "https://semisouchi.com/semiconductor-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "この作り込みが参入障壁になっています",
+    "url": "https://semisouchi.com/semiconductor-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "味の素がパッケージ材料で独占的な地位にある、というような話が転がっているのがこの業界の面白さです",
+    "url": "https://semisouchi.com/semiconductor-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "味の素のABFはパッケージ基板で事実上の独占、アミノ酸技術の応用から生まれた",
+    "url": "https://semisouchi.com/semiconductor-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "シリコンウェハメーカー一覧｜5社で9割の寡占と、AI好況でも赤字という現実",
+    "url": "https://semisouchi.com/semiconductor-materials/",
+    "pass": 3
+   }
+  ],
+  "日本の買い手と供給元": [
+   {
+    "quote": "国内の半導体生産能力の整備、大規模な電子機器生産、材料加工における大きな役割が、地域の需給構造における中国の重要性を支えている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の市場規模は2025年の8億7,400万米ドルから、2035年には13.8億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場は、精密ガラス、光学部品、半導体製造装置のエコシステムを基盤としている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "製造プロジェクトの実行と国内の認定能力の開発が、この潜在需要が継続的な材料消費へと転換する速度を左右する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "国内の半導体生産能力の拡大と防衛の近代化により、高規格のガラス、結晶、セラミックス、コーティング材料の市場が集中している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場は、国内半導体製造への多額の投資、先端製造施設の拡張、半導体自給率向上に向けた政府支援の強化、そしてAI、自動車、産業用半導体デバイスに対する需要の高まりによって牽引されている",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置市場に関する洞察",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置市場は、2025年には188億2000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "この成長は、半導体材料および製造装置における日本の主導的地位、先端チップ製造への投資増加、車載用半導体に対する旺盛な需要、そして高性能コンピューティングデバイスの生産拡大によって支えられている",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場は、国内半導体製造への投資増加、半導体資金援助プログラムに基づく政府の優遇措置、AIインフラの拡大、そして高度なロジックチップおよびメモリチップに対する需要の高まりによって牽引されています",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "この成長は、半導体製造工場への大規模投資、先進製造技術の普及拡大、AIおよびデータセンターインフラの拡張、そして国内半導体生産に対する政府の強力な支援によって牽引されている",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Electron Limited (Japan)",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "SCREEN Holdings Co., Ltd. (Japan)",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi High-Tech Corporation (Japan)",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Advantest Corporation (Japan)",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Canon Inc. (Japan)",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Nikon Corporation (Japan)",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "ASML Holding N.V. (Netherlands) · Applied Materials, Inc. (US) · Lam Research Corporation (US) · Tokyo Electron Limited (Japan) · KLA Corporation (US)",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年の日本の半導体製造装置市場規模",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置市場",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置市場規模、シェア、動向および予測装置タイプ、製品タイプ、寸法、サプライチェーン関係者、地域別2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置市場規模、シェア、動向および予測（2026年～2034年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置市場は2025年に",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本は世界有数の半導体製造装置の拠点であり、東京エレクトロン（TEL）やアドバンテストといった世界的に支配的なOEM企業が拠点を置いています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場は、極端紫外線（EUV）リソグラフィの導入加速、電気自動車およびハイブリッド車（H/EV）への需要拡大、ならびに経済産業省（METI）が支援するプログラムに基づく国内半導体自給自足に向けた全国的な取り組みによって牽引されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置市場は、2020年の45億9,000万米ドルを基盤として、過去平均年成長率（CAGR）約8.9%で拡大し、2025年には70億4,000万米ドルに達しました",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらには、半導体ノードの急速な微細化、家電製品や自動車プラットフォームに組み込まれるコネクテッドデバイスの爆発的な増加、そして国内のチップ製造における自給自足に向けた日本の断固たる政策転換などが含まれます",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の日本の半導体製造装置市場では、2D寸法装置が46.2%のシェアを占め首位となった",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置市場の概要",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に日本市場の12.6%を占めるファブ施設用装置は、高度なガス・化学物質制御、自動化、環境管理システムを通じて、クリーンルーム環境を支えています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置のエコシステムは、世界の半導体サプライチェーンと深く統合されており、国内のOEMメーカーは東アジア、北米、欧州のファブに重要な装置を供給しています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、パンデミック後の自動車、民生用電子機器、データセンターの各分野におけるシリコン需要の急増が、複数の日本のファブにおける生産能力拡張プロジェクトを推進している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ、ホンダ、日産によるハイブリッド車および電気自動車（H/EV）の生産において、最先端の製造装置を必要とするパワーエレクトロニクス、LiDARチップ、先進運転支援システム（ADAS）部品への依存度が高まっていることから、日本の自動車用半導体需要は近年、力強く伸びています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "企業本社ベースでは、日本企業の存在感が大きく、2024年時点で世界市場の70%超を占めた",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "北米企業は約10%、欧州企業は6.7%、中国および韓国企業はいずれも5.5%前後であり、日本勢を中心に、北米・欧州・アジア企業が後続する梯隊分布となっている",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "中国企業はまだ世界シェアでは限定的だが、国内装置産業とサプライチェーン国産化の進展を背景に、成長余地が比較的大きい",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業への示唆",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業にとって、この市場情報は単なる部材市場の規模確認ではなく、半導体装置・材料・精密加工・表面処理領域における事業判断の基礎資料となる",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "投資評価や技術提携の場面では、中国・韓国企業の成長速度と、日本企業が強みを持つ高信頼・高純度領域との差分を継続的に見る必要がある",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "日本語サイト：",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場における水酸化マグネシウムの市場規模：売上規模・シェア・主要事業者別ランキング、CAGR 5.76%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "日本半導体製造装置市場は2034年までに米ドル 15.22 十億に達する見込みで、8.93%のCAGRで拡大 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "日本半導体製造装置市場は2034年までに米ドル 15.22 十億に達する見込みで、8.93%のCAGRで拡大",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置市場は2025年に70億4,000万米ドルに達し、2034年までに152億2,000万米ドルに達すると予測されており、2026年から2034年にかけて年平均成長率（CAGR）8.93％という堅調な伸びを示すと見込まれています",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "日本半導体製造装置市場レポート 2026-2034",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "IMARCグループの最新レポートによると、日本の半導体製造装置市場規模は2025年に70億4000万米ドルに達した",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置市場の動向と推進要因",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置業界は、半導体自給率向上に向けた国家的な取り組み、急速なノード小型化、そしてエレクトロニクス、自動車、データセンター分野における需要急増を背景に、目覚ましい成長を遂げている",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "国内の装置メーカーは、東アジア、北米、ヨーロッパの製造施設に重要なフロントエンドおよびバックエンド装置を供給することで、世界の半導体サプライチェーンにおいて構造的に重要な位置を占めている",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "国家産業戦略に基づき国内半導体製造に多額の資金が投入されていることは、フロントエンド機器とバックエンド機器の両方に対する需要を直接的に刺激し、国内OEMだけでなく、国内にサービスセンターを設立するグローバルサプライヤーにも恩恵をもたらしている",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "こうした政策支援は、パンデミック後の自動車、家電、データセンターといった分野におけるシリコン需要の急増によってさらに強化されており、日本の複数の半導体工場における生産能力拡大プロジェクトを牽引し続けている",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "極端紫外線リソグラフィと3ナノメートル以下のプロセスノードへの移行は、国内の半導体製造工場における装置更新サイクルを加速させている",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置市場の成長要因",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置産業の拡大を支える主な要因は以下のとおりです",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "政府の政策および国家半導体・デジタル産業戦略に基づく義務付けられた国内投資",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "国内メモリ工場における継続的な生産能力拡大は、長期的な設備調達サイクルを支える",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "1993年 独EOS社と積層造形装置の日本国内における独占販売契約締結",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ニコン｜Japan",
+    "url": "https://www.business.nikon.com/ja/customer-success/l-pbf-3d-printer-01/",
+    "pass": 3
+   },
+   {
+    "quote": "「Nikon AM Technology Center Japan」のご紹介",
+    "url": "https://www.business.nikon.com/ja/customer-success/l-pbf-3d-printer-01/",
+    "pass": 3
+   },
+   {
+    "quote": "最先端の金属アディティブマニュファクチャリング（AM）技術の開発およびソリューション・サービス提供拠点として、「Nikon AM Technology Center Japan」を2025年、埼玉県行田市に開設しました",
+    "url": "https://www.business.nikon.com/ja/customer-success/l-pbf-3d-printer-01/",
+    "pass": 3
+   }
+  ],
+  "日本の顧客が買うか（需要の証拠）": [
+   {
+    "quote": "成長は、光学部品全般の数量増加だけでなく、用途固有の性能要件を満たす材料をサプライヤーが認定取得できるかどうかに、ますます左右されるようになっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置メーカーおよび先端防衛システムのインテグレーターの調達・サプライチェーン担当チームとの直接的な対話に基づき、当社は2024年の市場規模を約97億米ドルと評価している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "この基盤を踏まえると、近年の拡大を牽引しているのは、従来型光学材料に対する広範で差別化のない需要増加ではなく、高仕様の調達である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛予算の拡大により、EO/IRシステム、指向性エネルギー、次世代ペイロード光学系向けのゲルマニウム結晶、ZnSe結晶、ALONセラミックス、スピネルの調達が加速する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛需要は、調達において赤外線透過性、レーザー耐性、光学的硬度、環境耐久性が重視されるため、独立した成長エンジンとなっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "赤外線用光学結晶（Ge、ZnSe）のコスト上昇が購入者の調達予算を圧迫し、40週間を超えるリードタイムのリスクをもたらす",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "調達先の多様化に要する期間が短期的な拡大余地を制約する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "下流での経済混乱は、設備調達予算、代替への投資、ファブ建設スケジュールに波及する影響を示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の輸出規制体制に関する業界の報告からは、光学グレードのゲルマニウムや関連する赤外線材料の調達を巡る不確実性が長期化していることが示されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国地質調査所のモデル分析は、ガリウムとゲルマニウムの供給制約が、設備調達、材料代替の判断、投資スケジュールを通じて波及する可能性を示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "長期にわたる防衛調達サイクルと、認定済みの用途が限られることが市場全体の拡大を抑えるものの、その戦略的重要性は市場規模を上回る",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "先端プロセスの開発に伴い、寸法安定性、表面品質、透過率の制御が一層重要となり、サプライヤーの認定が購入先を左右する決定的な要因となっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野での採用では、温度、湿度、振動に耐え、大量生産に対応できる光学ポリマーやコーティングが求められる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "光学材料の調達先の現地化が進めば、特にリソグラフィ関連のガラス、コーティング、結晶材料をめぐるサプライヤーとの関係が変化する可能性が高い",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "同国の需要動向は半導体工場への投資サイクルと密接に結び付いているが、先端電子機器への集中が、厳格な仕様を満たす光学材料の継続的な調達を支えている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "メモリメーカーは、性能と帯域幅の要求の高まりに対応するため、製造能力を拡大し、高度なプロセス技術を採用しています",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "SiCおよびGaNデバイスの採用拡大に伴い、特殊なエピタキシャル成長、成膜、エッチング、およびウェハ検査装置への投資が加速すると予想される",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の成長は、電子機器製造の拡大、産業オートメーションの進展、デジタルインフラへの投資増加、そして様々な産業における半導体技術の採用拡大によって牽引されています",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "先端半導体ファブは施設あたり非常に高額な設備投資を必要とするため、新規参入者にとって大きな資金面の障壁となり、設備調達サイクルを数年間に及ばせ、その結果、短期的な受注ペースを鈍化させている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "キオクシア（旧東芝メモリ）とウェスタンデジタルとの提携により、四日市および北上ファブにおけるNANDフラッシュの生産能力拡大への投資が継続しており、2028年にかけて数十億ドル規模の装置調達サイクルが推進される見込みである",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "導入台数は着実に増加しており、2020年代後半には次世代の高NA EUVシステムが日本のファブに導入される見込みです",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "この政策的な後押しにより、国内のファブによる設備投資が活発化するとともに、世界のチップメーカーからの直接投資も誘致されており、これら相まって、2030年までに数百億ドル規模に達すると予想される、数年間にわたる持続的な装置調達サイクルが生み出されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "国際電気の熱処理およびALDバッチシステムは、マイクロン社の広島工場を含む主要DRAMメーカーに採用されており、300mmウェーハを1時間あたり100枚以上のスループットで処理しています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "九州・沖縄地域は、TSMCの2つの熊本ファブ、ソニーのセンサー生産ライン、そして成長を続けるOSATクラスターにより、年間数十億ドル規模の装置調達ゾーンを形成しており、最も魅力的な地域投資機会となっています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "調査期間を通じて計45件以上の一次インタビューを実施し、専門家パネルへの諮問およびファブ調達チームを対象とした独自調査によって補完した",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "主な動向としては、EUVリソグラフィの普及拡大、AIを統合したプロセス制御、3D-ICおよび先進パッケージング技術の採用、ならびに経済産業省（METI）や日本電子工業会（JEITA）のプログラムを通じた政府支援の強化などが挙げられる",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "ご購入前のお問い合わせ",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "サプライチェーン面では、調達の冗長化と品質の同等性確保が課題となり、材料起点の標準化と工程別の最適化が同時に求められる",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "調達・サプライチェーン部門にとっては、上位企業依存度、地域分散、BCP対応力を踏まえた供給先選定が重要になる",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "調達および投資評価のためのビジネスサンプルレポートをリクエスト",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "国内メモリ工場における継続的な生産能力拡大は、長期的な設備調達サイクルを支える",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "フラッシュメモリ生産における戦略的パートナーシップに支えられた国内メモリ工場の継続的な生産能力拡大は、2028年まで数十億ドル規模の装置調達サイクルを牽引すると予想されます",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "このレポートを購入する理由とは？",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "IMARCのサービスには、徹底的な市場評価、実現可能性調査、会社設立支援、工場設立支援、規制当局の承認とライセンス取得支援、ブランディング、マーケティングおよび販売戦略、競合環境分析とベンチマーク分析、価格設定とコスト調査、調達調査などが含まれます",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用TOP",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "キャリア採用",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "サポート設計ソフトの導入事例 ―AM-Studio 部品製作 編―【EOS 金属3Dプリンター】",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "サポート設計ソフトの導入事例 ―AM-…",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ・採用情報",
+    "url": "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "金属AMは、グラム単位の価格ではなく、階層型のコストモデルを採用している",
+    "url": "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "工場全体で“持続的な効率化”の好循環へ：モノづくりワンストップサービス導入事例",
+    "url": "https://www.business.nikon.com/ja/customer-success/l-pbf-3d-printer-01/",
+    "pass": 3
+   },
+   {
+    "quote": "A16では、チップの“裏側から電源を入れる”方式（BSPDN）を採用",
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用TOP",
+    "url": "https://www.nttdata-xam.com/works/eos/article_961/",
+    "pass": 3
+   },
+   {
+    "quote": "キャリア採用",
+    "url": "https://www.nttdata-xam.com/works/eos/article_961/",
+    "pass": 3
+   },
+   {
+    "quote": "極低温技術を応用したクライオポンプと冷凍機で世界大手であり、半導体製造装置の高真空排気系に広く採用されている",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "【導入事例】品質異常検知",
+    "url": "https://mono.ipros.com/cg3/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E9%83%A8%E5%93%81/",
+    "pass": 3
+   },
+   {
+    "quote": "センサのアナログデータ取得による品質異常を予兆段階で検知する導入事例をご紹介",
+    "url": "https://mono.ipros.com/cg3/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E9%83%A8%E5%93%81/",
+    "pass": 3
+   },
+   {
+    "quote": "予兆段階で検知」する導入事例をご紹介いたします",
+    "url": "https://mono.ipros.com/cg3/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E9%83%A8%E5%93%81/",
+    "pass": 3
+   },
+   {
+    "quote": "素材メーカーとの連携により、多様な材質を迅速に調達可能です",
+    "url": "https://mono.ipros.com/cg3/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E9%83%A8%E5%93%81/",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニア必見！金属3Dプリンター技術やナノ加工技術などが採用された導入お客様の声を満載！半導体製造装置のコア部品にも多数実績！",
+    "url": "https://mono.ipros.com/cg3/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E9%83%A8%E5%93%81/",
+    "pass": 3
+   },
+   {
+    "quote": "大型製品まで高精度を実現するスリットダイなどを採用いただいたお客様の声を",
+    "url": "https://mono.ipros.com/cg3/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E9%83%A8%E5%93%81/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造・機械加工・部品調達・組立まで一貫生産が可能です",
+    "url": "https://mono.ipros.com/cg3/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E9%83%A8%E5%93%81/",
+    "pass": 3
+   },
+   {
+    "quote": "一度採用された材料は、長期にわたって使われ続けます",
+    "url": "https://semisouchi.com/semiconductor-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "切り替えると歩留まりが変わるため、一度採用されると長く使われる",
+    "url": "https://semisouchi.com/semiconductor-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月、同社は2nm量産を2027年に向けて移行するため、IPAからの1,000億円を含む2,676億円の資金調達を発表しました",
+    "url": "https://www.dreamnews.jp/press/0000364506",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月、RapidusはIPAからさらに1,500億円の追加投資を発表し、総資金調達額は約4,249.5億円となりました",
+    "url": "https://www.dreamnews.jp/press/0000364506",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月、同社は2nm量産を2027年に向けて移行するため、IPAからの1,000億円を含む2,676億円の資金調達を発表しました",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1151114.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月、RapidusはIPAからさらに1,500億円の追加投資を発表し、総資金調達額は約4,249.5億円となりました",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1151114.html",
+    "pass": 3
+   }
+  ],
+  "再生・循環": [
+   {
+    "quote": "リサイクル、同盟国からの供給源開発、代替赤外線材料は、時間の経過とともに供給途絶リスクを軽減し得るものの、いずれも確立された材料構成を直ちに置き換えるものではない",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能エネルギー",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "焦点は、極限環境での長期安定と低発塵を両立させる材料設計、部品形状の複雑化や大型化に対する加工技術の高度化、洗浄や再生を含むライフサイクル運用を前提にした表面品質の最適化である",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形（AM）では、機械稼働時間に加えて、不活性ガス室、高出力ファイバーレーザー、粉末リサイクル、応力除去炉、溶接サポートなどの設備が必要となる",
+    "url": "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "フィオナは、製造業、3Dプリンター、自動車、EV、再生可能エネルギー、HVACの専門知識を持つ機械エンジニアです",
+    "url": "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "水使用量の削減とリサイクル",
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能エネルギーの積極的な導入",
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "pass": 3
+   },
+   {
+    "quote": "中古装置の販売・買取・再生",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "真空装置と真空ポンプ、計測器のメンテナンスに加え、真空部品の再生洗浄や金属表面処理を手掛ける",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "半導体分野ではレジスト剥離・洗浄・乾燥からめっき、溶剤再生まで、ウエハや治具の用途に応じたウェットプロセス装置を研究開発用の少量生産機から量産機まで供給する",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "高解像度光学技術とウェーハステージ技術に強みを持ち、成熟プロセス向けや再生装置市場で存在感を発揮",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "化学技術を軸に、半導体・パネル製造装置部材の精密洗浄とシリコンウェーハの再生を手掛ける",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "シリコンウェーハ再生加工を主力事業とする",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "半導体工場から預かった使用済みのテスト／モニター用ウェーハを、薬品処理と研磨加工で再生して返却する",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置のチャンバー内部品にイットリア（Y₂O₃）などの耐プラズマ皮膜を施し、パーティクル発生を抑えて部品寿命を延ばすコーティング・再生サービスを展開する",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "金・銀・白金族金属（プラチナ・ルテニウム・イリジウム・パラジウム）の精製・加工・リサイクルの日本最大手",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "中古の電子デバイス製造装置（部品・ソフトウェアを含む）の売買・保守・再生・改造と、電子デバイス製造装置の輸入代理販売を行う技術系商社",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "ウエハ表面異物検査装置「WiN」シリーズや光学式顕微鏡などの自社製品と、中古のKLA-Tencor製品や露光・塗布現像装置の再生販売、保守サービスを行う",
+    "url": "https://semirai.com/companies/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "マグネット再生などのパーツもご用意",
+    "url": "https://mono.ipros.com/cg3/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E9%83%A8%E5%93%81/",
+    "pass": 3
+   },
+   {
+    "quote": "日本鉛蓄電池市場：自動車の電動化、産業用バックアップ電源、高度なバッテリーリサイクルにおけるビジネス機会",
+    "url": "https://www.dreamnews.jp/press/0000364506",
+    "pass": 3
+   },
+   {
+    "quote": "日本鉛蓄電池市場：自動車の電動化、産業用バックアップ電源、高度なバッテリーリサイクルにおけるビジネス機会",
+    "url": "https://www.dreamnews.jp/press/0000361413",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Additive Manufacturing In Semiconductor Market Size & Share ... — Sep 11, 2026 · Our study defines the additive manufacturing in semiconductor industry market as all revenue generated by purpose-built hardware, software, materials, and related services that 3-dimensionally print parts, tooling, or sub-assemblies subsequently installed in wafer-fabrication, packaging, or test equipment.",
+    "url": "https://www.mordorintelligence.com/industry-reports/additive-manufacturing-in-semiconductor-industry-market",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Toshiyuki Enomoto - backend合同会社 - 代表取締役・コンサルタント...#brandresearchseries #日本の製造業 #古河電工 #半導体 #光通信 #電...EOS、2つの新金属材料で石油・ガスおよび半導体産業向け産業用3Dプリ...認証製造のサンプル部品。マテリアライズCO-AMプラットフォームによっ...1. 是什麼推動了中國增材產業的指數級成長，僅在過去五年內就有 15+ ...Tsuyoshi Kobayashi على LinkedIn: 製造現場がAM活用を使いこなすには...先日、弊社CTO来日にあわせて開催したイベントレポートをSharelabさん... backend合同会社 - 代表取締役・コンサルタント（人材紹介） · 半導体・電子部品等のエレクトロニクスデバイス業界や日本企業の競争力の高い半導体材料・素材メーカー各社、半導体",
+    "url": "https://jp.linkedin.com/in/toshiyuki-enomoto-01811684",
+    "pass": 3
+   },
+   {
+    "quote": "Clare Yong - GlobalFoundries | LinkedInMadhu S - Manager - Manufacturing Engg. @Lam Research ...Philip Hoyle - Engineer electron-beam lithography for ...Prof Arun Arjunan - Professor of Additive Manufacturing and ...Mark Massey - Delmic | LinkedIn Extensive knowledge in semiconductor process engineering and module integration. Broad interest in semiconductor materials applications and procurement.",
+    "url": "https://sg.linkedin.com/in/clare-yong-b387686a",
+    "pass": 3
+   },
+   {
+    "quote": "Madhu S - Manager - Manufacturing Engg. @Lam Research ...Philip Hoyle - Engineer electron-beam lithography for ...Prof Arun Arjunan - Professor of Additive Manufacturing and ...Mark Massey - Delmic | LinkedIn Leading Manufacturing Engineering initiatives across global factories, driving operational excellence in tool builds and Product Development & Release (PDR) cycles. Focusing on enabling seaml",
+    "url": "https://in.linkedin.com/in/madhu-s-435b1a40",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "5.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "quote": "2026年から2035年にかけて年平均成長率（CAGR）5.5%で拡大し、2035年には174.7億米ドルに達する見通しである"
+   },
+   {
+    "value": "6.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "quote": "光学結晶は、2035年までに市場の20%を占め、2026年から2035年にかけて年平均成長率（CAGR）6.7%で拡大すると予測される"
+   },
+   {
+    "value": "6.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "quote": "光学ポリマーは、2035年までに市場の18%を占め、2026年から2035年にかけて年平均成長率（CAGR）6.8%で成長すると予測される"
+   },
+   {
+    "value": "8.3",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "quote": "世界の半導体製造装置市場規模は、2025年には1,654億米ドルと評価され、2026年の1,791億3,000万米ドルから2034年には3,389億9,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は8.3%となる見込みです"
+   },
+   {
+    "value": "8.93",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "quote": "年平均成長率（CAGR）8.93％という"
+   },
+   {
+    "value": "8.9",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "quote": "日本の半導体製造装置市場は、2020年の45億9,000万米ドルを基盤として、過去平均年成長率（CAGR）約8.9%で拡大し、2025年には70億4,000万米ドルに達しました"
+   },
+   {
+    "value": "7.3",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "quote": "世界半導体製造装置用高性能セラミックス市場、2032年に56.04億ドルへ – 年平均成長率（CAGR）7.3％で成長（2026～2032年） | LP Information Co.,Ltdのプレスリリース"
+   },
+   {
+    "value": "52.7",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "quote": "透明Micro LEDディスプレイマーケットリサーチ：調査方法・市場動向・業界規模、年平均成長率（CAGR）52.7%の超高成長"
+   },
+   {
+    "value": "4.50",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "quote": "熱成形機市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）4.50%の安定成長"
+   },
+   {
+    "value": "20.6",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "quote": "高度な航空交通マーケットリサーチ：調査方法・市場動向・業界規模、年平均成長率（CAGR）20.6%の超高成長"
+   },
+   {
+    "value": "5.76",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "quote": "日本市場における水酸化マグネシウムの市場規模：売上規模・シェア・主要事業者別ランキング、CAGR 5.76%の安定成長"
+   },
+   {
+    "value": "9.64",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "quote": "バサルト繊維市場調査：規模・状況・調べ方・算出方法、年平均成長率（CAGR）9.64%の高成長"
+   },
+   {
+    "value": "8.93",
+    "url": "https://newscast.jp/smart/news/6364877",
+    "quote": "日本の半導体製造装置市場は2025年に70億4,000万米ドルに達し、2034年までに152億2,000万米ドルに達すると予測されており、2026年から2034年にかけて年平均成長率（CAGR）8.93％という堅調な伸びを示すと見込まれています"
+   },
+   {
+    "value": "9.1",
+    "url": "https://www.dreamnews.jp/press/0000364506",
+    "quote": "日本半導体製造装置市場に関する調査レポートによると、同市場は2026年～2036年の期間において年平均成長率（CAGR）9.1％で推移し、2036年末までに市場規模173億米ドルを創出すると予測されています"
+   },
+   {
+    "value": "9.1",
+    "url": "https://www.dreamnews.jp/press/0000361413",
+    "quote": "日本半導体製造装置市場に関する調査レポートによると、同市場は2026年～2036年の期間において年平均成長率（CAGR）9.1％で推移し、2036年末までに市場規模173億米ドルを創出すると予測されています"
+   },
+   {
+    "value": "9.1",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1151114.html",
+    "quote": "日本半導体製造装置市場に関する調査レポートによると、同市場は2026年～2036年の期間において年平均成長率（CAGR）9.1％で推移し、2036年末までに市場規模173億米ドルを創出すると予測されています"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "quote": "Corning Inc.は、2025年に8%を超える市場シェアを獲得し、市場をリードした"
+   },
+   {
+    "value": "20.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "quote": "であり、2025年に合計20.2%の市場シェアを占めた"
+   },
+   {
+    "value": "14",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "quote": "光学コーティング材料は、2025年の市場シェア14%から、2035年には市場規模が26億2,000万米ドルに達すると予測される"
+   },
+   {
+    "value": "19",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "quote": "防衛・航空宇宙は、2025年に17億7,000万米ドルの市場規模を生み出し、2035年までに市場シェア19%を占めると予測される"
+   },
+   {
+    "value": "5.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "quote": "中東・アフリカは2035年までに市場シェア5.5%を占め、2026〜2035年に年平均成長率（CAGR）6.6%で成長すると予測される"
+   },
+   {
+    "value": "6.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "quote": "中東・アフリカは2035年までに市場シェア5.5%を占め、2026〜2035年に年平均成長率（CAGR）6.6%で成長すると予測される"
+   },
+   {
+    "value": "8.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "quote": "は2025年に約8.0%の市場シェアを占めた"
+   },
+   {
+    "value": "6.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "quote": "は2025年に推定6.2%の市場シェアを占めた"
+   },
+   {
+    "value": "2.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "quote": "は2025年に推定2.8%の市場シェアを占めた"
+   },
+   {
+    "value": "64.5",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "quote": "アジア太平洋地域は、2025年に64.5%の市場シェアを占め、半導体製造装置市場を牽引しました"
+   },
+   {
+    "value": "78.4",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "quote": "ウェハ製造装置セグメントは、2025年に78.4%のシェアを占め、市場を席巻した"
+   },
+   {
+    "value": "56.8",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "quote": "2D ICセグメントは2025年に56.8%のシェアを占め、市場を席巻するだろう"
+   },
+   {
+    "value": "10.7",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "quote": "世界の半導体製造装置市場において、欧州は10.7%のシェアを占め、2025年には124億9000万米ドルの規模に達すると予測されており、予測期間中の年平均成長率（CAGR）は7.86%と見込まれています"
+   },
+   {
+    "value": "7.86",
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "quote": "世界の半導体製造装置市場において、欧州は10.7%のシェアを占め、2025年には124億9000万米ドルの規模に達すると予測されており、予測期間中の年平均成長率（CAGR）は7.86%と見込まれています"
+   },
+   {
+    "value": "62.8",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "quote": "2025 年、フロントエンド装置セグメントは、主に関東および関西の回廊に位置するメモリ、ロジック、および先進ノードのファブにおける継続的な設備投資に支えられ、62.8% の市場シェアで圧倒的な地位を維持しました"
+   },
+   {
+    "value": "35.8",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "quote": "2025年には、東京とその周辺の産業クラスターを中核とする関東地域が35.8%のシェアで市場を支配しました"
+   },
+   {
+    "value": "46.2",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "quote": "2D – 2025年のシェア46.2%"
+   },
+   {
+    "value": "10.3",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "quote": "2025年に10.3%のシェアを占める九州・沖縄地域は、"
+   },
+   {
+    "value": "4.8",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "quote": "北海道におけるラピダス社のサブ2nmプロジェクト（2025年の地域シェア4.8%）"
+   },
+   {
+    "value": "32.5",
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "quote": "3D ディメンション分野は 2025 年に 32.5% の市場シェアを占め"
+   },
+   {
+    "value": "4.50",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "quote": "熱成形機市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）4.50%の安定成長"
+   },
+   {
+    "value": "5.76",
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "quote": "日本市場における水酸化マグネシウムの市場規模：売上規模・シェア・主要事業者別ランキング、CAGR 5.76%の安定成長"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/additive-manufacturing-in-semiconductor-industry-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000352804",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/6364877",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.business.nikon.com/ja/customer-success/l-pbf-3d-printer-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://flashforge.jp/benefit_list/am-technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.semijapanwfd.org/know-industry/semicon_map/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://semirai.com/companies/market-share",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/works/eos/article_961/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pwsj.co.jp/blog/53",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.z2data.com/ja/insights/who-are-the-top-us-companies-in-the-semiconductor-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://semirai.com/companies/country/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg3/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E9%83%A8%E5%93%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/Category/1539",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/modern_eider5829/n/ne23e240b4c3c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://semicon.jfe-shoji-ele.co.jp/articles/japanese-prosperous-semicon-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://semisouchi.com/semiconductor-materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000572.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.resonac.com/jp/corporate/strategy/semi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/modern_eider5829/n/n91b96fd2db5a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crex-data.com/industry/machinery/semiconductor-equipment",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.act-pr.co.jp/report_detail/id=113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amova-am.com/files/sp/pdf/semiconductor.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.niterragroup.com/business/info_communication/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seaj.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000364506",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=5&dispmid=945",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seaj.or.jp/file/jan2026seajforecastforpress_j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000361413",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amova-am.com/market/rakuyomi/2024/vol-2021",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seaj.or.jp/file/july2026seajforecastforpress_j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nihonsanki-shimbun.com/handoutai_20260720/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1151114.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://highchem.co.jp/article/ihc11/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/JobSearchList/j_ind__0208S/-oc__020401S/-preBtn__2/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seaj.or.jp/semi/recruit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/toshiyuki-enomoto-01811684",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/in/clare-yong-b387686a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/madhu-s-435b1a40",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "半導体製造装置部品向けのAM材料 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/advanced-optics-material-market",
+    "https://straitsresearch.com/jp/report/semiconductor-manufacturing-equipment-market",
+    "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/additive-manufacturing-in-semiconductor-industry-market",
+    "https://www.dreamnews.jp/press/0000352804",
+    "https://newscast.jp/smart/news/6364877",
+    "https://www.fortunebusinessinsights.com/jp/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E5%B8%82%E5%A0%B4-101964",
+    "https://www.semiconportal.com/archive/editorial/market/250123-materialforecast.html",
+    "https://www.atpress.ne.jp/news/4518844",
+    "https://www.gii.co.jp/report/ires1912835-amr-semiconductor-market-by-product-type.html"
+   ]
+  },
+  {
+   "query": "半導体製造装置部品向けのAM材料 価格 kg",
+   "results": [
+    "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "https://www.business.nikon.com/ja/customer-success/l-pbf-3d-printer-01/",
+    "https://flashforge.jp/benefit_list/am-technology/",
+    "https://ja.3dsystems.com/semiconductor",
+    "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00011/00034/?P=2",
+    "https://www.amova-am.com/files/sp/pdf/semiconductor.pdf",
+    "https://mono.ipros.com/cg3/半導体製造装置部品/"
+   ]
+  },
+  {
+   "query": "半導体製造装置部品向けのAM材料 シェア 主要企業",
+   "results": [
+    "https://www.semijapanwfd.org/know-industry/semicon_map/",
+    "https://semirai.com/companies/market-share",
+    "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "https://www.nttdata-xam.com/works/eos/article_961/",
+    "https://www.pwsj.co.jp/blog/53",
+    "https://www.z2data.com/ja/insights/who-are-the-top-us-companies-in-the-semiconductor-industry/",
+    "https://www.youtube.com/watch?v=UGMjjDWw-Uo",
+    "https://www.amova-am.com/files/sp/pdf/semiconductor.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2023FY/000572.pdf",
+    "https://chem-3.com/semiconductor-material-manufacturer/"
+   ]
+  },
+  {
+   "query": "半導体製造装置部品向けのAM材料 主要メーカー 一覧",
+   "results": [
+    "https://www.semijapanwfd.org/know-industry/semicon_map/",
+    "https://semirai.com/companies/country/japan",
+    "https://www.nttdata-xam.com/works/eos/article_961/",
+    "https://www.pwsj.co.jp/blog/53",
+    "https://www.z2data.com/ja/insights/who-are-the-top-us-companies-in-the-semiconductor-industry/",
+    "https://mono.ipros.com/cg3/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E9%83%A8%E5%93%81/",
+    "https://www.indexpro.co.jp/Category/1539",
+    "https://note.com/modern_eider5829/n/ne23e240b4c3c",
+    "https://semicon.jfe-shoji-ele.co.jp/articles/japanese-prosperous-semicon-business",
+    "https://semisouchi.com/semiconductor-materials/"
+   ]
+  },
+  {
+   "query": "半導体製造装置部品向けのAM材料 参入企業 数",
+   "results": [
+    "https://www.nttdata-xam.com/works/eos/article_961/",
+    "https://www.semijapanwfd.org/know-industry/semicon_map/",
+    "https://www.meti.go.jp/meti_lib/report/2023FY/000572.pdf",
+    "https://www.pwsj.co.jp/blog/53",
+    "https://www.z2data.com/ja/insights/who-are-the-top-us-companies-in-the-semiconductor-industry/",
+    "https://www.resonac.com/jp/corporate/strategy/semi.html",
+    "https://note.com/modern_eider5829/n/n91b96fd2db5a",
+    "https://www.y-skt.co.jp/magazine/knowledge/semiconductor_equipment_market/",
+    "https://www.crex-data.com/industry/machinery/semiconductor-equipment",
+    "https://www.act-pr.co.jp/report_detail/id=113"
+   ]
+  },
+  {
+   "query": "半導体製造装置部品向けのAM材料 日本 需要",
+   "results": [
+    "https://www.nttdata-xam.com/works/eos/article_961/",
+    "https://www.amova-am.com/files/sp/pdf/semiconductor.pdf",
+    "https://www.niterragroup.com/business/info_communication/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.seaj.or.jp/",
+    "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "https://www.dreamnews.jp/press/0000364506",
+    "https://www.semijapanwfd.org/know-industry/semicon_map/",
+    "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=5&dispmid=945",
+    "https://www.seaj.or.jp/file/jan2026seajforecastforpress_j.pdf"
+   ]
+  },
+  {
+   "query": "半導体製造装置部品向けのAM材料 国内 導入台数 OR 輸入量",
+   "results": [
+    "https://www.nttdata-xam.com/works/eos/article_961/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.dreamnews.jp/press/0000361413",
+    "https://www.amova-am.com/market/rakuyomi/2024/vol-2021",
+    "https://www.seaj.or.jp/file/july2026seajforecastforpress_j.pdf",
+    "https://www.imarcgroup.com/report/ja/japan-semiconductor-manufacturing-equipment-market",
+    "https://nihonsanki-shimbun.com/handoutai_20260720/",
+    "https://flashforge.jp/benefit_list/am-technology/",
+    "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1151114.html"
+   ]
+  },
+  {
+   "query": "半導体製造装置部品向けのAM材料 日本企業 採用 調達 事例",
+   "results": [
+    "https://www.nttdata-xam.com/works/eos/article_961/",
+    "https://highchem.co.jp/article/ihc11/",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_ind__0208S/-oc__020401S/-preBtn__2/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://jampt.jp/column/additive-manufacturing/",
+    "https://www.semijapanwfd.org/know-industry/semicon_map/",
+    "https://www.seaj.or.jp/semi/recruit.html",
+    "https://www.toyotsu-tec.net/business/semiconductor/",
+    "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945"
+   ]
+  },
+  {
+   "query": "additive manufacturing materials semiconductor equipment parts Japan customers demand imports",
+   "results": [
+    "https://www.trade.gov/country-commercial-guides/japan-semiconductors",
+    "https://www.youtube.com/watch?v=Q2aEFxh5Sg4",
+    "https://www.imarcgroup.com/japan-semiconductor-manufacturing-equipment-market",
+    "https://www.amro-asia.org/wp-content/uploads/2025/03/SI5.-Japans-Strategic-Comeback-in-the-Global-Chip-Race.pdf",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/semiconductor-manufacturing-equipment-market/japan",
+    "https://www.nationalacademies.org/read/5850/chapter/8",
+    "https://www.usitc.gov/publications/332/working_papers/semiconductor_working_paper_corrected_103119.pdf",
+    "https://www.semiconductors.org/wp-content/uploads/2025/05/SIA-Comments-Section-232-Investigation.pdf",
+    "https://www.brookings.edu/articles/the-renaissance-of-the-japanese-semiconductor-industry/",
+    "https://www.decisionsadvisors.com/insights/japan-additive-manufacturing-in-semiconductor-market"
+   ]
+  },
+  {
+   "query": "半導体製造装置部品向けのAM材料 供給契約 長期",
+   "results": [
+    "https://www.nttdata-xam.com/works/eos/article_961/",
+    "https://flashforge.jp/benefit_list/am-technology/",
+    "https://ja.3dsystems.com/semiconductor",
+    "https://www.amova-am.com/market/rakuyomi/2024/vol-2021",
+    "https://www.dmgmori.co.jp/sp/am/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://note.com/modern_eider5829/n/ne23e240b4c3c",
+    "https://www.ey.com/ja_jp/insights/supply-chain/the-future-of-semiconductor-procurement-in-response-of-changing-semiconductor-supply-chain",
+    "https://www.resonac.com/jp/corporate/strategy/semi.html",
+    "https://seisan-navi.com/20260608-ensilica77500/"
+   ]
+  },
+  {
+   "query": "additive manufacturing materials semiconductor equipment parts market size CAGR 2030",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-equipment-market-report",
+    "https://market.us/report/the-additive-manufacturing-market/",
+    "https://straitsresearch.com/report/metal-additive-manufacturing-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/semiconductor-manufacturing-equipment-market/us",
+    "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "https://www.marketresearchfuture.com/reports/semiconductor-equipment-market-26067",
+    "https://www.fortunebusinessinsights.com/additive-manufacturing-equipment-market-117013",
+    "https://www.gminsights.com/industry-analysis/aerospace-additive-manufacturing-market",
+    "https://www.researchgate.net/publication/393766153_Additive_Manufacturing_Market_Trends_Growth_Forecast_and_Opportunities"
+   ]
+  },
+  {
+   "query": "additive manufacturing materials semiconductor equipment parts price per kg",
+   "results": [
+    "https://asmedigitalcollection.asme.org/manufacturingscience/article/139/8/081010/376354/Metal-Additive-Manufacturing-Cost-Competitive",
+    "https://ampower.eu/insights/additive-manufacturing-part-cost-and-pricing/",
+    "https://additive-manufacturing-report.com/additive-manufacturing-market-2024/",
+    "https://www.tth.com/industries/industrial-additive-manufacturing",
+    "https://omni3d.com/additive-manufacturing-cost-per-part-small-series/",
+    "https://www.grandviewresearch.com/industry-analysis/metal-additive-manufacturing-equipment-market-report",
+    "https://www.gminsights.com/industry-analysis/additive-manufacturing-equipment-market",
+    "https://www.precedenceresearch.com/metal-additive-manufacturing-market",
+    "https://www.sciaky.com/largest-metal-3d-printer-available?view=category&id=8",
+    "https://www.sourcebyspec.com/news/additive-manufacturing-material-2026-price-cost-guide-feedstock-process-and.html"
+   ]
+  },
+  {
+   "query": "additive manufacturing materials semiconductor equipment parts key players market share percent",
+   "results": [
+    "https://marketintelo.com/report/additive-manufacturing-in-semiconductor-equipment-market",
+    "https://www.mordorintelligence.com/industry-reports/additive-manufacturing-in-semiconductor-industry-market",
+    "https://www.marketresearchfuture.com/reports/additive-manufacturing-in-semiconductor-industry-market-42690",
+    "https://reedintelligence.com/market-analysis/additive-manufacturing-in-semiconductor-industry-market",
+    "https://marketintelo.com/report/additive-manufacturing-in-semiconductor-fabrication-market",
+    "https://markwideresearch.com/additive-manufacturing-in-semiconductor-market",
+    "https://www.emergenresearch.com/industry-report/additive-manufacturing-in-semiconductor-industry-market"
+   ]
+  },
+  {
+   "query": "additive manufacturing materials semiconductor equipment parts number of suppliers concentrated OR fragmented",
+   "results": [
+    "https://www.scribd.com/document/835345066/Fragmented-vs-Concentrated-Markets",
+    "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/semiconductor-industry-outlook.html",
+    "https://www.linkedin.com/pulse/supply-chain-complex-fragmented-under-pressure-how-muslumov-msc-",
+    "https://dictionary.cambridge.org/us/dictionary/english/fragmented",
+    "https://365financialanalyst.com/knowledge-hub/business-analysis-and-strategy/what-is-industry-concentration/",
+    "https://www.qualtrics.com/articles/strategy-research/market-fragmentation/",
+    "https://fourweekmba.com/market-fragmentation/"
+   ]
+  },
+  {
+   "query": "additive manufacturing materials semiconductor equipment parts consumption per machine per year",
+   "results": []
+  },
+  {
+   "query": "additive manufacturing materials semiconductor equipment parts qualification long-term supply agreement",
+   "results": [
+    "https://amcoe.org/news/astm-additive-center-partner-to-raise-quality-and-certification-in-semiconductor-sector/",
+    "https://3dprintingindustry.com/news/astm-and-additive-center-collaborate-to-accelerate-am-certification-for-semiconductor-suppliers-246543/",
+    "https://qualifiedam.com/case-study/supply-chain-qualification-program-asml-semiconductor-industrial-additive-manufacturing/",
+    "https://qualifiedam.com/asml-establishes-first-qualified-am-supply-chain-for-semiconductor-components/",
+    "https://www.metal-am.com/astm-and-additive-center-to-certify-am-in-semiconductor-industry/",
+    "https://www.voxelmatters.com/astm-and-additive-center-partner-to-strengthen-certification-of-am-for-semiconductors/",
+    "https://min.news/en/tech/e08cb0b1bd0777e9c006600942c7d87b.html"
+   ]
+  },
+  {
+   "query": "additive manufacturing materials semiconductor equipment parts distributor direct sales OEM approved materials",
+   "results": [
+    "https://abachy.com/",
+    "https://www.additivemanufacturing.media/suppliers",
+    "https://www.additiveindustries.com/industries/high-tech/",
+    "https://www.sdmaterials.com/technology-solutions/semiconductor-solutions",
+    "https://www.appliedmaterials.com/",
+    "https://www.additivemanufacturing.media/suppliers/search",
+    "https://orbitskyline.com/semiconductor-fab-solutions/semiconductor-material-supply/",
+    "https://www.amfg.ai/post/how-additive-manufacturing-is-improving-semiconductor-production",
+    "https://additiveplus.com/"
+   ]
+  },
+  {
+   "query": "site:note.com 半導体製造装置部品向けのAM材料",
+   "results": [
+    "https://note.com/fasmcckd/n/n46445c60684b",
+    "https://note.com/natty_toucan386/n/n015e76bf82c3",
+    "https://note.com/modern_eider5829/n/ne23e240b4c3c",
+    "https://note.com/nplus_report/n/n3eec8cd0cc29",
+    "https://note.com/semiconnavi/n/nb00d1fd6bc66",
+    "https://note.com/qy_research/n/nb688621d00f2",
+    "https://note.com/detail_is_more/n/n41fd81692c68"
+   ]
+  },
+  {
+   "query": "site:x.com 半導体製造装置部品向けのAM材料",
+   "results": [
+    "https://jf.x.com/images/media-preview/2101949771405562153",
+    "https://jf.x.com/images/media-preview/2091656730203574368",
+    "https://x.com/t_ryoma1985/status/2116043671799800259",
+    "https://x.com/solavia_A/status/2071419224258666901",
+    "https://x.com/YoichiroKoga/status/2072840151966113978",
+    "https://x.com/intermold_jp/status/2081892393348173995",
+    "https://x.com/ebp8k/status/2077981830033387909"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 半導体製造装置部品向けのAM材料",
+   "results": [
+    "https://jp.linkedin.com/in/toshiyuki-enomoto-01811684",
+    "https://ly.linkedin.com/posts/tsuyoshi-kobayashi_製造現場がam活用を使いこなすにはカイゼンを支える製造管理システムが必要ーマテリアライズ-activity-6996383429751701504-8IlD",
+    "https://jp.linkedin.com/posts/泰幸-岡野-570655282_brandresearchseries-日本の製造業-古河電工-activity-7416782010834329601-uzT7",
+    "https://www.linkedin.com/posts/metalworking-japan_eos2つの新金属材料で石油ガスおよび半導体産業向け産業用3dプリンティングソリューション-activity-7303664791032668160-2LQT",
+    "https://www.linkedin.com/posts/tsuyoshi-kobayashi_認証製造のサンプル部品マテリアライズco-amプラットフォームによって実現されています-activity-7264619124511694849-sikr",
+    "https://cn.linkedin.com/posts/至明chihming-黃huang-850b00a5_1-是什麼推動了中國增材產業的指數級成長僅在過去五年內就有-15-本土-3d-activity-7370345786242449408-pmgw",
+    "https://pr.linkedin.com/posts/tsuyoshi-kobayashi_製造現場がam活用を使いこなすにはカイゼンを支える製造管理システムが必要ーマテリアライズ-activity-6996383429751701504-8IlD"
+   ]
+  },
+  {
+   "query": "site:facebook.com 半導体製造装置部品向けのAM材料",
+   "results": []
+  },
+  {
+   "query": "半導体製造装置部品向けのAM材料 note 社長",
+   "results": [
+    "https://note.com/loyal_myrtle1528/n/n3180c6419d0d",
+    "https://note.com/currentdrive/n/nfec4478c5db9",
+    "https://www.sangyo-times.jp/article.aspx?ID=2179",
+    "https://www.appliedmaterials.com/jp/ja/about/leadership/executives.html",
+    "https://www.sangyo-times.jp/article.aspx?ID=2809",
+    "https://www.nikkei.com/article/DGXZQOUC1927C0Z11C25A2000000/",
+    "https://www.nikkan.co.jp/articles/view/00746640"
+   ]
+  },
+  {
+   "query": "半導体製造装置部品向けのAM材料 X 投稿",
+   "results": [
+    "https://www.jwes.or.jp/committees/am/applications/",
+    "https://www.nttdata-xam.com/news/event/article_9382/",
+    "https://research.konicaminolta.com/jp/report/2024/technical-papers/additive-manufacturing-development-for-mass-production-application/",
+    "https://www.jstage.jst.go.jp/article/jscm/50/1/50_2/_pdf/-char/en",
+    "https://unit.aist.go.jp/cmt-ri/research-topics/am.htm",
+    "https://www.jstage.jst.go.jp/article/materia/56/12/56_56.699/_pdf/-char/ja",
+    "https://www.mssf.or.jp/info281/"
+   ]
+  },
+  {
+   "query": "additive manufacturing materials semiconductor equipment parts site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/saman-gheytani-ph-d-44775838",
+    "https://www.linkedin.com/pulse/global-ceramics-semiconductor-manufacturing-f9vtf",
+    "https://sg.linkedin.com/in/clare-yong-b387686a",
+    "https://in.linkedin.com/in/madhu-s-435b1a40",
+    "https://uk.linkedin.com/in/philiphoyle",
+    "https://uk.linkedin.com/in/prof-arun-arjunan-5b6062197",
+    "https://nl.linkedin.com/in/omejuup"
+   ]
+  }
+ ],
+ "missing": {}
+}

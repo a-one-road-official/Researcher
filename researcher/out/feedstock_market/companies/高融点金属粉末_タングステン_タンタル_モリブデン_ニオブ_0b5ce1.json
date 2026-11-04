@@ -1,0 +1,2210 @@
+{
+ "name": "高融点金属粉末（タングステン・タンタル・モリブデン・ニオブ）",
+ "en": "refractory metal powder additive manufacturing tungsten tantalum",
+ "aliases": [
+  "タングステン粉末 3Dプリンター",
+  "タンタル粉末",
+  "高融点金属 積層造形"
+ ],
+ "context": "航空・宇宙・マテリアル",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:48:33.061523+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "窒化タンタル粉末の世界市場（2026年～2032年）、市場規模（ナノスケール粉末、サブミクロン／微細粉末、ミクロンスケール粉末）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "窒化タンタル粉末の世界市場（2026年～2032年）、市場規模（ナノスケール粉末、サブミクロン／微細粉末、ミクロンスケール粉末）・分析レポートを発表",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "世界の窒化タンタル粉末市場規模は、2025年の1億2,300万米ドルから2032年には2億5,400万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）11.0%で成長すると見込まれています",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、窒化タンタル粉末の世界販売量は680トンに達し、平均販売価格は1トンあたり18万5,000米ドルでした",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "業界全体の生産能力は約850トンで、粗利益率は35％～50％である",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "第4章には、窒化タンタル粉末の世界過去レビューとして、2021年から2026年までの地理的地域別および国/地域別の過去の市場規模（年間販売量と年間収益）が記載されています",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2027年から2032年までの地域別（アメリカ地域、APAC地域、ヨーロッパ地域、中東・アフリカ地域）、国別、種類別、および用途別の市場規模（販売量と年間収益）の予測が示されています",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "窒化タンタル粉末の世界市場（2026年～2032年）、市場規模（ナノスケール粉末、サブミクロン／微細粉末、ミクロンスケール粉末）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "窒化タンタル粉末の世界市場（2026年～2032年）、市場規模（ナノスケール粉末、サブミクロン／微細粉末、ミクロンスケール粉末）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "世界の窒化タンタル粉末市場規模は、2025年の1億2,300万米ドルから2032年には2億5,400万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）11.0%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、窒化タンタル粉末の世界販売量は680トンに達し、平均販売価格は1トンあたり18万5,000米ドルでした",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "業界全体の生産能力は約850トンで、粗利益率は35％～50％である",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "第4章には、窒化タンタル粉末の世界過去レビューとして、2021年から2026年までの地理的地域別および国/地域別の過去の市場規模（年間販売量と年間収益）が記載されています",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2027年から2032年までの地域別（アメリカ地域、APAC地域、ヨーロッパ地域、中東・アフリカ地域）、国別、種類別、および用途別の市場規模（販売量と年間収益）の予測が示されています",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "牽引式方位スラスタの世界市場（2026年～2032年）、市場規模（Lドライブ、Zドライブ、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "PERCフロント用銀ペーストの世界市場（2026年～2032年）、市場規模（フィンガー用銀ペースト、バスバー用銀ペースト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "油井ポンプの世界市場（2026年～2032年）、市場規模（試験用ポンプ、酸処理用ポンプ、セメント注入用ポンプ）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "低温収縮試験機の世界市場（2026年～2032年）、市場規模（低温、広温度範囲）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "航空機用防氷システムの世界市場（2026年～2032年）、市場規模（機械式除氷システム、電気パルス式防氷システム、液体防氷システム、熱風式防氷システム、電気加熱式防氷システム）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "産業廃棄物焼却炉の世界市場（2026年～2032年）、市場規模（ロータリーキルン、流動層、火格子、熱分解）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "高エントロピー合金および高融点金属市場 | 市場規模 業界分析 予測 2034年 【市場調査レポート】",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内消費量は高融点金属粉末全体で年間2,500〜3,500トンと推定され、タングステン系が約45〜55％を占めます",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン原料価格は過去に1トン単位当たり250〜400ドルの範囲で推移してきました",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、日本の高融点金属粉末市場を詳しく分析し、市場規模と成長、需要の構造、供給、貿易フロー、価格、競争環境、そして2035年までの予測を取り上げます",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模、これまでの推移、2035年までの予測",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 国内市場規模とその推移",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模：過去データ（2012-2025年）と予測（2026-2035年）",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模（数量ベース）：実績（2013～2025年）と予測（2026～2036年）",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模（金額ベース）：実績（2013～2025年）と予測（2026～2036年）",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "パウダーをコールドプレスし、10～20トン／平方インチをグリーン・コンパクトにする",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の炭化タングステンの市場規模は、2022年の167億8,000万米ドルから2030年までに297億米ドルに達し、予測期間（2023年～2030年）にCAGRで7.4%の成長が予測されています",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、世界の高融点金属粉末市場を詳しく分析し、市場規模と成長、需要の構造、供給、貿易フロー、価格、競争環境、そして2035年までの予測を取り上げます",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模、これまでの推移、2035年までの予測",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 市場規模とその推移",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模：過去データ（2012-2025年）と予測（2026-2035年）",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模（数量ベース）：実績（2013～2025年）と予測（2026～2036年）",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模（金額ベース）：実績（2013～2025年）と予測（2026～2036年）",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "2036年までの市場規模予測（数量ベース）",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界の窒化タンタル粉末市場規模は、2025年の1億2,300万米ドルから2032年には2億5,400万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）11.0%で成長すると見込まれています",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "米国の窒化タンタル粉末市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されている",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "中国の窒化タンタル粉末市場は、2025年のUS$百万から2032年にはUS$百万に拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の窒化タンタル粉末市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "世界の窒化タンタル粉末市場規模は、2025年の1億2,300万米ドルから2032年には2億5,400万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）11.0%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "米国の窒化タンタル粉末市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されている",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "中国の窒化タンタル粉末市場は、2025年のUS$百万から2032年にはUS$百万に拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の窒化タンタル粉末市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "Stratistics MRCによると、世界のハイエントロピー合金および耐火金属市場は、2026年に6,380万米ドル規模となり、予測期間中にCAGR 14.1％で成長し、2034年までに1億8,330万米ドルに達すると見込まれています",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "国際エネルギー機関（IEA）によると、2023年の世界の電気自動車の販売台数は1,400万台近くに達し、前年比35％の増加となりました",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の高融点金属粉末需要は、半導体設備、航空宇宙の遮熱材、先端エネルギー用途に支えられ、2026〜2035年に年率4〜6％で拡大する見通しです",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・電子機器向け数量は先端実装、パワー半導体、メモリー生産の拡大を受けて50〜70％増える可能性があり、積層造形も小さい基盤から150〜250％の成長が見込まれます",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "製品別輸出成長率、2025年",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン市場は2023-2028年に19億5,371万米ドル、予測期間中のCAGRは7.11%で成長すると予測されます",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の炭化タングステンの市場規模は、2022年の167億8,000万米ドルから2030年までに297億米ドルに達し、予測期間（2023年～2030年）にCAGRで7.4%の成長が予測されています",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "2026〜2035年に高融点金属粉末市場は、電子機器の小型化、電気自動車部品、防衛力の近代化に伴う構造的な需要に支えられ、持続的に拡大する見通しです",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "製品別輸出成長率、2025年",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "具体的には、2021年から2032年までの世界年間販売量、2021年、2025年、2032年時点での地理的地域別および国/地域別の現状と将来分析が含まれます",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、企業別のグローバル分析として、主要企業ごとの窒化タンタル粉末の年間販売量、販売市場シェア、年間収益、収益市場シェア、販売価格（すべて2021年から2026年まで）の詳細な分析が示されています",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "第4章には、窒化タンタル粉末の世界過去レビューとして、2021年から2026年までの地理的地域別および国/地域別の過去の市場規模（年間販売量と年間収益）が記載されています",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2027年から2032年までの地域別（アメリカ地域、APAC地域、ヨーロッパ地域、中東・アフリカ地域）、国別、種類別、および用途別の市場規模（販売量と年間収益）の予測が示されています",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2032年までの世界年間販売量、2021年、2025年、2032年時点での地理的地域別および国/地域別の現状と将来分析が含まれます",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、企業別のグローバル分析として、主要企業ごとの窒化タンタル粉末の年間販売量、販売市場シェア、年間収益、収益市場シェア、販売価格（すべて2021年から2026年まで）の詳細な分析が示されています",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "第4章には、窒化タンタル粉末の世界過去レビューとして、2021年から2026年までの地理的地域別および国/地域別の過去の市場規模（年間販売量と年間収益）が記載されています",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2027年から2032年までの地域別（アメリカ地域、APAC地域、ヨーロッパ地域、中東・アフリカ地域）、国別、種類別、および用途別の市場規模（販売量と年間収益）の予測が示されています",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "次世代の航空機、宇宙船、高速プラットフォームの開発が継続されることで、研究、試験、認定、および商用化が加速され、要求の厳しい航空宇宙および防衛用途において、これらの先進金属材料にさらなる機会が生まれるでしょう",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間契約型情報サービス",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙や医療用インプラントの装置メーカーがタングステン、モリブデン、ニオブ合金の認定を進めています",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・原子力用途で新規供給元を認定するには通常12〜24カ月かかります",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "国内消費量は高融点金属粉末全体で年間2,500〜3,500トンと推定され、タングステン系が約45〜55％を占めます",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形は現在の粉末量の3〜6％程度ですが、航空宇宙、医療、工具の顧客認定が進み、二桁成長が見込まれます",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "標準品では価格競争が厳しく利益率も薄い一方、特殊品では技術と認定実績が価格以上に重要です",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "大手一貫メーカーは、年間数トンを超える顧客や密接な技術協力を要する顧客へ直接販売します",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "超硬工具業界では長期供給契約や共同開発を通じた安定取引が一般的です",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "新たな粉末の採用には供給元の認定と厳格な評価が必要で、会社規模や用途の重要度で調達方法が異なります",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "大手は集中購買と年間契約を行い、小規模顧客は販売会社から必要時に調達します",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までに市場数量は25〜40％増え、2026年の消費量を約3分の1上回る水準となる見通しです",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "買替え、補充、保有基盤の動向",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "国別消費量、2025年",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たり消費量",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "製品別1人当たり消費量",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たり消費量の推移",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "システムのシールをチェックし、フィルターを定期的に交換する",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "粉体処理システムにガス漏れがないか定期的に点検すること",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "ガスと真空ラインのフィルターは定期的に交換する",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "流量、組成などの品質チェックを定期的に行う",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "当レポートでは、今後数年間のタングステン市場成長を牽引する主要因の一つとして、電子部品の小型化を挙げています",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "2026〜2035年に総消費量は約40〜60％増加し、電子・電気機器向け需要は年平均6〜8％で伸びる見通しです",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "電気接点、電極、放熱部材、厚膜基板などを含み、粉末総使用量の35〜45％を占めます",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "認定要件が厳しく供給元の変更が難しいため、長期取引と安定した価格につながっています",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "需要家は四半期または半年ごとに指標連動で価格を改定する数量契約を増やしており、緊急購入や認定用の少量注文では大幅な割増価格が生じます",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "金属くずを高純度粉末に再生する新規企業は低価格帯でシェアを伸ばしていますが、重要用途では認定の壁が高く、参入に時間がかかります",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "個別仕様品は認定用ロットの生産も含め14〜18週間を要します",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州と北米では地域の粉末再生施設が広がり、タングステンとモリブデン粉末の使用量に占める再生材の割合は、推定15〜20％に達しています",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州連合と米国は最大の輸入地域で、それぞれ年間消費量の60〜70％を海外から調達し、主な供給元は中国です",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "国ごとの役割を見ると、中国は最大の生産国であると同時に主要な消費国でもあり、国内の電子機器・電気機器メーカーが世界の高融点金属粉末消費量の推定30〜35％を吸収します",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、現在の高融点金属粉末消費量は世界全体の5〜7％程度にとどまります",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "消費量は40〜60％増える可能性があり、高付加価値品への構成変化を反映した市場額の伸びは、年6〜8％とやや速くなる見込みです",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "供給網のリスクを抑える規制圧力を受け、電子機器メーカーは複数の粉末供給元の認定を進め、監査・認証の体制に投資しています",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "事前認定済みで追跡可能性が高く、供給経路の記録がそろった粉末は、価格面の優位と長期契約につながります",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "買替え、補充、保有基盤の動向",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "国別消費量、2025年",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のレニウム消費量のうち、高温超合金に使用されている, 特にジェット航空機エンジン用のタービンブレード.",
+    "url": "https://langhe-industry.com/ja/refractory-metals-explained/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "2025年、窒化タンタル粉末の世界販売量は680トンに達し、平均販売価格は1トンあたり18万5,000米ドルでした",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "また、窒化タンタル粉末の種類別（ナノスケール粉末、サブミクロン/微細粉末、ミクロンスケール粉末）、結晶構造別（ε-TaN (六方晶)、δ-TaN (立方晶)）、純度別（99.5%、99.9%-99.99%、99.999%）、および用途別（航空宇宙、電子部品、その他）に、それぞれの販売量、市場シェア、収益、販売価格の分析（2021年から2026年まで）が詳細に示されています",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、企業別のグローバル分析として、主要企業ごとの窒化タンタル粉末の年間販売量、販売市場シェア、年間収益、収益市場シェア、販売価格（すべて2021年から2026年まで）の詳細な分析が示されています",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "各企業について、企業情報、窒化タンタル粉末の製品ポートフォリオと仕様、2021年から2026年までの販売量、収益、価格、粗利率、主要事業概要、および最新の動向が記載されています",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、窒化タンタル粉末の世界販売量は680トンに達し、平均販売価格は1トンあたり18万5,000米ドルでした",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "また、窒化タンタル粉末の種類別（ナノスケール粉末、サブミクロン/微細粉末、ミクロンスケール粉末）、結晶構造別（ε-TaN (六方晶)、δ-TaN (立方晶)）、純度別（99.5%、99.9%-99.99%、99.999%）、および用途別（航空宇宙、電子部品、その他）に、それぞれの販売量、市場シェア、収益、販売価格の分析（2021年から2026年まで）が詳細に示されています",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、企業別のグローバル分析として、主要企業ごとの窒化タンタル粉末の年間販売量、販売市場シェア、年間収益、収益市場シェア、販売価格（すべて2021年から2026年まで）の詳細な分析が示されています",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "各企業について、企業情報、窒化タンタル粉末の製品ポートフォリオと仕様、2021年から2026年までの販売量、収益、価格、粗利率、主要事業概要、および最新の動向が記載されています",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "標準タングステン粉末は1キログラム8,000〜14,000円、モリブデン粉末は3,000〜6,000円程度です",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン原料価格は過去に1トン単位当たり250〜400ドルの範囲で推移してきました",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "純度99.95％以上で粒度を管理したモリブデン粉末は1キログラム15,000〜30,000円、積層造形用の球状タングステン粉末は粒度分布や酸素量に応じて30,000〜60,000円です",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、日本の高融点金属粉末市場を詳しく分析し、市場規模と成長、需要の構造、供給、貿易フロー、価格、競争環境、そして2035年までの予測を取り上げます",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "$40〜$1500/kg",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "$400〜$3000/kg",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "$30〜$500/kg",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "$60〜$1000/kg",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "タングステンの価格設定は、純度レベル（99〜99.999%）と粒径に大きく依存します",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "99.9%の純粋な粉末は$400/kgからです",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "モリブデンは純粉で$30-$500/kgと比較的安価で安定した価格である",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "ニオブ粉末は、99%グレードの$60/kgから、純度99.99%の$1000/kgまであります",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "特殊合金の場合、レアアースや貴金属を添加した粉末は、1kgあたり数千ドルすることもある",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "(参考価格: ¥100,000～¥1,000,000)",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：10万円 ~ 50万円",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：~ 1万円",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：50万円 ~ 100万円",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "数量は比較的小さいタンタル粉末とニオブ粉末も、純度要求の高さと供給制約から、キログラム当たりの価格は主要品種の3〜5倍です",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場での標準品の取引価格は、タングステン粉末が1キログラム当たり45〜75米ドル、モリブデン粉末が30〜55米ドルです",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "溶射や積層造形向けのように、酸素含有量が少なく粒度分布を狭く管理した高仕様品には、標準品より40〜80％の上乗せ価格が付きます",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "どちらも中国の供給動向に大きく左右され、環境検査や季節的な電力制限で精鉱生産が減ると、世界の粉末価格は通常、四半期以内に10〜20％上昇します",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   }
+  ],
+  "上位シェア・主要企業": [
+   {
+    "quote": "売上高ベースでは、2025年に世界の上位2社が市場シェアの約％を占めました",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "本インサイトレポートは、世界の窒化タンタル粉末市場の包括的な分析を提供し、製品セグメンテーション、企業構成、売上高、市場シェア、最新動向、およびM&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、世界的な主要企業の戦略を分析し、特に窒化タンタル粉末の製品ポートフォリオと技術力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当てることで、加速する世界の窒化タンタル粉末市場における各企業の独自の立場をより深く理解できるようにしています",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要メーカー、主要地域および国別に、タングステン窒化物粉末市場の包括的な概要、市場シェア、成長機会を提示しています",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "また、窒化タンタル粉末の種類別（ナノスケール粉末、サブミクロン/微細粉末、ミクロンスケール粉末）、結晶構造別（ε-TaN (六方晶)、δ-TaN (立方晶)）、純度別（99.5%、99.9%-99.99%、99.999%）、および用途別（航空宇宙、電子部品、その他）に、それぞれの販売量、市場シェア、収益、販売価格の分析（2021年から2026年まで）が詳細に示されています",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、企業別のグローバル分析として、主要企業ごとの窒化タンタル粉末の年間販売量、販売市場シェア、年間収益、収益市場シェア、販売価格（すべて2021年から2026年まで）の詳細な分析が示されています",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要メーカーの生産地域分布、販売地域、製品タイプ、市場集中度分析（競争状況、CR3、CR5、CR10比率）、新製品と潜在的な新規参入企業、市場のM&A活動と戦略に関する情報が含まれています",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "第13章には、主要企業分析として、Princeton Powder、AEM Metal、HEQICHEM、E FORU Materials Incなどの個々の企業に関する詳細な情報が提供されています",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースのシェア",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界の上位2社が市場シェアの約％を占めました",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "本インサイトレポートは、世界の窒化タンタル粉末市場の包括的な分析を提供し、製品セグメンテーション、企業構成、売上高、市場シェア、最新動向、およびM&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、世界的な主要企業の戦略を分析し、特に窒化タンタル粉末の製品ポートフォリオと技術力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当てることで、加速する世界の窒化タンタル粉末市場における各企業の独自の立場をより深く理解できるようにしています",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要メーカー、主要地域および国別に、タングステン窒化物粉末市場の包括的な概要、市場シェア、成長機会を提示しています",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "また、窒化タンタル粉末の種類別（ナノスケール粉末、サブミクロン/微細粉末、ミクロンスケール粉末）、結晶構造別（ε-TaN (六方晶)、δ-TaN (立方晶)）、純度別（99.5%、99.9%-99.99%、99.999%）、および用途別（航空宇宙、電子部品、その他）に、それぞれの販売量、市場シェア、収益、販売価格の分析（2021年から2026年まで）が詳細に示されています",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、企業別のグローバル分析として、主要企業ごとの窒化タンタル粉末の年間販売量、販売市場シェア、年間収益、収益市場シェア、販売価格（すべて2021年から2026年まで）の詳細な分析が示されています",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要メーカーの生産地域分布、販売地域、製品タイプ、市場集中度分析（競争状況、CR3、CR5、CR10比率）、新製品と潜在的な新規参入企業、市場のM&A活動と戦略に関する情報が含まれています",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "第13章には、主要企業分析として、Princeton Powder、AEM Metal、HEQICHEM、E FORU Materials Incなどの個々の企業に関する詳細な情報が提供されています",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "高エントロピー合金（HEA）セグメントは、機械的強度、硬度、熱安定性、耐食性、耐久性を魅力的に兼ね備えているため、予測期間中は最大の市場シェアを占めると予想されます",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "最大のシェアを占める地域：",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間中、北米地域は、確立された航空宇宙、防衛、エネルギー、および先端製造産業に牽引され、最大の市場シェアを占めると予想されます",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業（最大3社）のSWOT分析",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品ポートフォリオ、事業展開地域、戦略的提携に基づく主要企業のベンチマーキング",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の市場シェア分析",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客は大手一貫メーカー、中堅合金メーカー、研究機関などで、必要量や品質は異なります",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "タングステンやモリブデンの海外大手は現地子会社や長期販売提携を通じ、超硬工具・電子機器向けの標準・中級品を供給します",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "大手一貫メーカーは、年間数トンを超える顧客や密接な技術協力を要する顧客へ直接販売します",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "大手は集中購買と年間契約を行い、小規模顧客は販売会社から必要時に調達します",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "14. 主要企業プロファイル",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業と戦略類型",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "主要メーカー・サプライヤー",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "輸出価格首位",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "輸入成長率首位",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "実績のある大手サプライヤーは、生産量が多く安定している",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "HCスタルク、AMETEK、プランゼーのような大手サプライヤーは、航空宇宙、医療、工業分野の重要な用途に適した高純度で安定した耐火性金属粉末を提供するための技術的専門知識、厳格なQC試験、製造規模を持っています",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事をシェアする",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙や自動車向けにAS9100、IATF 16949などの認証を取得できる大手と、一般産業・電気接点向けに供給する地域の二次加工会社です",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "金属くずを高純度粉末に再生する新規企業は低価格帯でシェアを伸ばしていますが、重要用途では認定の壁が高く、参入に時間がかかります",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業の標準品は通常、納入まで6〜10週間かかります",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "14. 主要企業プロファイル",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業と戦略類型",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "主要メーカー・サプライヤー",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "輸出価格首位",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "輸入成長率首位",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   }
+  ],
+  "ニッチ度（供給元の数・寡占）": [
+   {
+    "quote": "さらに、主要メーカーの生産地域分布、販売地域、製品タイプ、市場集中度分析（競争状況、CR3、CR5、CR10比率）、新製品と潜在的な新規参入企業、市場のM&A活動と戦略に関する情報が含まれています",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要メーカーの生産地域分布、販売地域、製品タイプ、市場集中度分析（競争状況、CR3、CR5、CR10比率）、新製品と潜在的な新規参入企業、市場のM&A活動と戦略に関する情報が含まれています",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "新規参入業者の脅威",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "中間原料であるパラタングステン酸アンモニウムや酸化モリブデンは海外の限られた加工業者に供給が集中し、輸出政策や物流混乱の影響を受けやすい状況です",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・原子力用途で新規供給元を認定するには通常12〜24カ月かかります",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "供給元の多角化が遅れ、高仕様分野では既存企業の優位が続きます",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "新たな粉末の採用には供給元の認定と厳格な評価が必要で、会社規模や用途の重要度で調達方法が異なります",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の基準は国際的にも厳しく、国内加工費を押し上げる一方、参入障壁となって既存事業者を保護する面もあります",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "非常に高価で、入手可能なものは限られている",
+    "url": "https://met3dp.com/ja/refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・電子分野で新しい粉末供給元を採用するには、技術評価に18〜24カ月を超える期間を要する場合があります",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "認定要件が厳しく供給元の変更が難しいため、長期取引と安定した価格につながっています",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州連合と米国は最大の輸入地域で、それぞれ年間消費量の60〜70％を海外から調達し、主な供給元は中国です",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "中東では国内需要は限られるものの、航空宇宙分野の供給網に特殊粉末を再輸出する中継拠点として存在感が増しています",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "供給網のリスクを抑える規制圧力を受け、電子機器メーカーは複数の粉末供給元の認定を進め、監査・認証の体制に投資しています",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   }
+  ],
+  "日本の買い手と供給元": [
+   {
+    "quote": "ビジネスチャンスは、高純度ナノレベル粉末の国内代替化および新規電子材料の継続的な拡大によってもたらされる、高付加価値の成長余地に反映されている",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）の販売量と収益、種類別および用途別の販売量が含まれています",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：窒化タンタル粉末の世界市場2026年～2032年",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスチャンスは、高純度ナノレベル粉末の国内代替化および新規電子材料の継続的な拡大によってもたらされる、高付加価値の成長余地に反映されている",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）の販売量と収益、種類別および用途別の販売量が含まれています",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：窒化タンタル粉末の世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "一般財団法人JR東日本文化創造財団、MoN Takanawa: The Museum of Narratives、Barbican Centre",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "中国、日本、韓国、インドでは、先進金属材料に関する研究プログラムや生産能力の強化が進められています",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://prep-system.com/ja/%E9%AB%98%E8%9E%8D%E7%82%B9%E9%87%91%E5%B1%9E%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の高融点金属粉末市場：規模、動向、2035年までの予測 | IndexBox",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の高融点金属粉末市場：規模、動向、2035年までの予測",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の高融点金属粉末需要は、半導体設備、航空宇宙の遮熱材、先端エネルギー用途に支えられ、2026〜2035年に年率4〜6％で拡大する見通しです",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "純度99.9％超、粒径5マイクロメートル未満の高純度・微粉品は、国内消費額の約35〜45％を占めます",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "スクラップ由来品は国内消費の10〜15％を2030年に賄う見込みで、2026年の5〜8％から増加します",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "還元や焼結は電力を多く使い、日本の工業用電力料金の高さが国内加工粉末に8〜15％のコスト上乗せを生みます",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の高融点金属粉末市場は、精密製造と先端材料科学の接点にあります",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "一次原料を輸入に頼る一方、日本は高度な加工と使用技術を持つため、商社、専門販売会社、粉末加工業者が共存します",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "国内消費量は高融点金属粉末全体で年間2,500〜3,500トンと推定され、タングステン系が約45〜55％を占めます",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の顧客は現地技術支援と迅速な納入を好み、用途開発力が選定を左右します",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "国内加工費は中国・韓国より15〜30％高いものの、品質、特注納期、知的財産保護が一部を補います",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境は、世界規模の一貫生産者、国内の専門加工業者、輸入を調整する商社で構成されます",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の顧客は供給の確実性と品質の一貫性を重視しています",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "国内加工業者は高純度品、特注粒度、合金開発に注力し、半導体、航空宇宙、研究機関の要求に応えます",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "希少金属に詳しい商社は輸入経路と在庫を担い、海外メーカーと国内使用者をつなぎます",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://met3dp.com/ja/refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "における情報を集めた国内最大級の技術データベースサイトです",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "中国製、日本にて検品分包",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "国内外の自社工場と独自のネットワークを駆使して、材料調達から加工まで、",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "■国内外の自社工場と独自のネットワークを生かしたワンストップサービス",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "代表的な企業には、オーストリアのPlansee Group、ドイツを拠点とするH.C. Starck、米国のGlobal Tungsten & Powders、中国のChina Molybdenum Co., Ltd.、日本のA.L.M.T. Corp.があります",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、還元・粉末製造能力は米国、ドイツ、オーストリア、日本、韓国にも分布しています",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "中国は粉末を含むタングステン・モリブデンの半製品で世界最大の輸出国であり、欧州連合、米国、日本、韓国などの主要需要地に供給しています",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年を基準とする推計では、中国のタングステン粉末と関連製品は、中国国内を除く世界貿易量の約40〜50％を占めます",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした摩擦を受け、輸入国では備蓄の積み増し、再生投資、国内鉱床の探査再開など、供給源を広げる取り組みが加速しています",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "国ごとの役割を見ると、中国は最大の生産国であると同時に主要な消費国でもあり、国内の電子機器・電気機器メーカーが世界の高融点金属粉末消費量の推定30〜35％を吸収します",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "日本と韓国は半導体・電子部品の需要地であり、鉱石と完成粉末の双方を大きく輸入に頼っています",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "中東では国内需要は限られるものの、航空宇宙分野の供給網に特殊粉末を再輸出する中継拠点として存在感が増しています",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "世界全体に加え、本レポートが対象とする50か国・地域すべてを個別に取り上げます：アメリカ合衆国、中国、日本、ドイツ、イギリス、フランス、ブラジル、イタリア、ロシア、インド、カナダ、オーストラリア、韓国、スペイン、メキシコ、インドネシア、オランダ、トルコ、サウジアラビア、スイス、スウェーデン、ナイジェリア、ポーランド、ベルギー、アルゼンチン、ノルウェー、オーストリア、タイ、アラブ首長国連邦、コロンビア、デンマーク、南アフリカ、マレーシア、イスラエル、シンガポール、エジプト、フィリピン、フィンランド、チリ、アイルランド、パキスタン、ギリシャ、ポルトガル、カザフスタン、アルジェリア、チェコ、カタール、ペルー、ルーマニア、ベトナム",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   }
+  ],
+  "再生・循環": [
+   {
+    "quote": "SNSで466万回再生！北海道で大人気のベーカリー",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "原子力発電、ガスタービン、水素技術、再生可能エネルギーシステムにおける用途の拡大により、研究開発への関心が高まっています",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "再生原料を精製し粉末に戻す供給が戦略的に重要となります",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "使用済み工具や電子部品からタングステンカーバイドやモリブデンを回収する再生能力もあります",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "海外生産の集約、スクラップ再生の垂直統合、調達の電子化が進み、2035年には低コスト輸入の汎用品と国内・高コスト地域の特殊品という二層構造が明確になります",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "再生・循環利用は、地政学や物流の供給リスクが高まる中で重要な機会です",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "耐火金属粉末はリサイクルできますか？",
+    "url": "https://met3dp.com/ja/refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "はい、耐火物金属粉末はリサイクルできることが多く、コストと環境への影響を軽減するのに役立ちます",
+    "url": "https://met3dp.com/ja/refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "粉体のリサイクル性",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクルと再利用は、原料の回収とコストの相殺に役立つ",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクル・サービス",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "金属AMから使用済み粉末を受け入れ、再加工する能力",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "また、タングステンスクラップのリサイクルや、タングステンの新たな用途が、市場の大きな需要につながります",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "再生材は欧州と北米で粉末原料の15〜25％を賄い、一次鉱石の輸入依存を和らげています",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "金属くずを高純度粉末に再生する新規企業は低価格帯でシェアを伸ばしていますが、重要用途では認定の壁が高く、参入に時間がかかります",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州と北米では地域の粉末再生施設が広がり、タングステンとモリブデン粉末の使用量に占める再生材の割合は、推定15〜20％に達しています",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした摩擦を受け、輸入国では備蓄の積み増し、再生投資、国内鉱床の探査再開など、供給源を広げる取り組みが加速しています",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクルやカナダ、オーストラリア、米国での新規鉱山開発により、中国以外の一次供給の割合は現在の約15〜20％から2035年に25〜35％へ高まる見通しですが、中国は予測期間を通じて供給構造を左右する地位を保つでしょう",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "10. 持続可能性, リサイクルバリティ, およびコストの考慮事項",
+    "url": "https://langhe-industry.com/ja/refractory-metals-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "高融点金属はリサイクル可能ですか?",
+    "url": "https://langhe-industry.com/ja/refractory-metals-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクルも大事. 高融点金属は多くの場合、スクラップの形で重要な価値を保持します, 高価な産業廃棄物からの回収はサプライチェーンの重要な部分です.",
+    "url": "https://langhe-industry.com/ja/refractory-metals-explained/",
+    "pass": 3
+   }
+  ],
+  "日本の顧客が買うか（需要の証拠）": [
+   {
+    "quote": "その結果、材料や部品のコストが高くなることで、コストに敏感なメーカーによる採用が妨げられる可能性があります",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙および極超音速技術における採用拡大",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートをご購入いただいたすべてのお客様は、以下の無料カスタマイズオプションのうち1つをご利用いただけます：",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "GIIから購入するメリット",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "レポートを購入 -",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "供給安全保障と在庫確保が調達上の重要課題です",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の顧客は現地技術支援と迅速な納入を好み、用途開発力が選定を左右します",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "標準品は四半期または半年契約が一般的で、追加分をスポット購入する場合もあります",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "原料調達と上流加工の規模がコスト優位をもたらしますが、海外生産の特殊品は納期が8〜16週間に及ぶことがあります",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の顧客は供給の確実性と品質の一貫性を重視しています",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "国内供給は高付加価値品中心となり、標準品の輸入依存が高まるため、使用者は戦略在庫や複数調達を進めています",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "ベトナム、ロシア、ボリビアからも調達します",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "関税は低率または無税の場合が多いものの、認証や書類要件が調達を左右し、円安は輸入原料費を増やします",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "主な購入者は超硬合金メーカー、半導体装置メーカー、特殊鋼メーカーです",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "新たな粉末の採用には供給元の認定と厳格な評価が必要で、会社規模や用途の重要度で調達方法が異なります",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "大手は集中購買と年間契約を行い、小規模顧客は販売会社から必要時に調達します",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "紛争影響地域由来のタンタル・タングステンについても、業界の取組を通じた供給網調査が調達慣行に組み込まれています",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "海外生産の集約、スクラップ再生の垂直統合、調達の電子化が進み、2035年には低コスト輸入の汎用品と国内・高コスト地域の特殊品という二層構造が明確になります",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "調達の電子化では、価格、在庫、品質記録を見える化する仕組みが求められ、供給網の効率とリスク管理を高めます",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "耐火金属粉末はどこで購入できますか？",
+    "url": "https://met3dp.com/ja/refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "耐火金属粉末は、H.C. Starck、Global Tungsten & Powders、Rhenium Alloys、Admat Inc、ACI Alloysなどの専門業者から購入することができる",
+    "url": "https://met3dp.com/ja/refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ガスアトマイズや金属射出成形によるネットシェイプ製造の採用も増えています",
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "耐火金属の調達先としてゴールデン・サンバード・メタルズを選ぶ理由とは？",
+    "url": "https://gsalloy.com/ja/products/refractory-metals/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末冶金法を採用しており、高品位な製品製造が可能です",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "精鉱はカザフスタン・豪州等多国ソースから調達中",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "スクラップはインドを中心に、様々な国から調達中",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "プランゼーの抵抗溶接用電極は、世界で多くの電装品メーカーにご採用頂いています",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "国内外の自社工場と独自のネットワークを駆使して、材料調達から加工まで、",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "責任ある原料調達",
+    "url": "https://taniobis.com/ja/product/metal-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "レポートを購入 -",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "中国の輸出枠やエネルギー多消費型の製錬に結び付いた原料価格の変動は、長期調達契約を難しくし、粉末加工会社の採算を圧迫します",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・電子分野で新しい粉末供給元を採用するには、技術評価に18〜24カ月を超える期間を要する場合があります",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "需要は半導体工場の設備投資周期と、防衛分野の複数年にわたる調達計画に左右されます",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・防衛の完成品メーカー向け組み込みや保守は、景気や調達周期による波がある一方、価値の高い分野です",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "需要家は四半期または半年ごとに指標連動で価格を改定する数量契約を増やしており、緊急購入や認定用の少量注文では大幅な割増価格が生じます",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "過去10年の合併・買収を経て、精鉱の調達にさかのぼる垂直統合と、下流のターゲット製造への展開が戦略上の潮流となりました",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州連合と米国は最大の輸入地域で、それぞれ年間消費量の60〜70％を海外から調達し、主な供給元は中国です",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "中東では国内需要は限られるものの、航空宇宙分野の供給網に特殊粉末を再輸出する中継拠点として存在感が増しています",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙の購入者は、粉末製造についてNADCAPまたはAS9100の認証を要件としています",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "本調査は、データに基づいて市場を一貫してとらえ、対象範囲を明確に押さえたいメーカー、流通事業者、輸入業者、輸出業者、投資家、調達部門、アドバイザー、戦略担当者に向けたものです",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模の算出、貿易分析、価格ベンチマーク、競合比較に資するよう定義を十分に絞り込みつつ、購入者が同一の商業カテゴリーとして扱う変種も捕捉する",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "通常の調達、卸売、流通、または直接のB2Bチャネルを通じて販売される製品形態",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "商業的に代替可能で、需要、価格、調達に影響を与える場合に限った隣接変種",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、信頼できる市場統計をベースに、販売計画、調達の判断、新規市場への参入、競合の把握、製品ラインアップの優先順位付けに役立つ実務的な分析を組み合わせています",
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "窒化 タンタル粉末 の世界 市場 （2026年～2032年 ... - Newscast.jp — 窒化 タンタル粉末 の世界 市場 （2026年～2032年 ... - Newscast.jp Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "窒化 タンタル粉末 の世界 市場 （2026年～2032 ... - アットプレス — 窒化 タンタル粉末 の世界 市場 （2026年～2032 ... - アットプレス アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   },
+   {
+    "quote": "日本の 高融点金属粉末 市場：規模、動向、2035年までの予測 — 日本の 高融点金属粉末 市場：規模、動向、2035年までの予測 IndexBox https://www.indexbox.io > ... > 市場 > 高融点金属粉末",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "窒化 タンタル粉末 の世界市場（2026年～2032 ... - アットプレス — 窒化 タンタル粉末 の世界市場（2026年～2032 ... - アットプレス アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "航空宇宙や医療用インプラントの装置メーカーがタングステン、モリブデン、ニオブ合金の認定を進めています",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "一次原料を輸入に頼る一方、日本は高度な加工と使用技術を持つため、商社、専門販売会社、粉末加工業者が共存します",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境は、世界規模の一貫生産者、国内の専門加工業者、輸入を調整する商社で構成されます",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "希少金属に詳しい商社は輸入経路と在庫を担い、海外メーカーと国内使用者をつなぎます",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "少量品や特殊品では専門販売会社と商社が重要で、標準品の在庫、物流、海外メーカーと国内顧客の技術調整を担います",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "主な購入者は超硬合金メーカー、半導体装置メーカー、特殊鋼メーカーです",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "球状化設備への投資や装置メーカー・使用者との関係構築に取り組む国内加工業者、販売会社には成長余地があります",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店、提携、直接参入の選択肢",
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "金属材料の専門商社として、タングステン（W）、モリブデン（Mo）を中心に取り扱っております",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "11.0",
+    "url": "https://newscast.jp/news/8841081",
+    "quote": "世界の窒化タンタル粉末市場規模は、2025年の1億2,300万米ドルから2032年には2億5,400万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）11.0%で成長すると見込まれています"
+   },
+   {
+    "value": "11.0",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "quote": "世界の窒化タンタル粉末市場規模は、2025年の1億2,300万米ドルから2032年には2億5,400万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）11.0%で成長すると見込まれています"
+   },
+   {
+    "value": "14.1",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "quote": "Stratistics MRCによると、世界のハイエントロピー合金および耐火金属市場は、2026年に6,380万米ドル規模となり、予測期間中にCAGR 14.1％で成長し、2034年までに1億8,330万米ドルに達すると見込まれています"
+   },
+   {
+    "value": "7.11",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "quote": "タングステン市場は2023-2028年に19億5,371万米ドル、予測期間中のCAGRは7.11%で成長すると予測されます"
+   },
+   {
+    "value": "7.4",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "quote": "世界の炭化タングステンの市場規模は、2022年の167億8,000万米ドルから2030年までに297億米ドルに達し、予測期間（2023年～2030年）にCAGRで7.4%の成長が予測されています"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "99.5",
+    "url": "https://newscast.jp/news/8841081",
+    "quote": "また、窒化タンタル粉末の種類別（ナノスケール粉末、サブミクロン/微細粉末、ミクロンスケール粉末）、結晶構造別（ε-TaN (六方晶)、δ-TaN (立方晶)）、純度別（99.5%、99.9%-99.99%、99.999%）、および用途別（航空宇宙、電子部品、その他）に、それぞれの販売量、市場シェア、収益、販売価格の分析（2021年から2026年まで）が詳細に示されています"
+   },
+   {
+    "value": "99.9",
+    "url": "https://newscast.jp/news/8841081",
+    "quote": "また、窒化タンタル粉末の種類別（ナノスケール粉末、サブミクロン/微細粉末、ミクロンスケール粉末）、結晶構造別（ε-TaN (六方晶)、δ-TaN (立方晶)）、純度別（99.5%、99.9%-99.99%、99.999%）、および用途別（航空宇宙、電子部品、その他）に、それぞれの販売量、市場シェア、収益、販売価格の分析（2021年から2026年まで）が詳細に示されています"
+   },
+   {
+    "value": "99.99",
+    "url": "https://newscast.jp/news/8841081",
+    "quote": "また、窒化タンタル粉末の種類別（ナノスケール粉末、サブミクロン/微細粉末、ミクロンスケール粉末）、結晶構造別（ε-TaN (六方晶)、δ-TaN (立方晶)）、純度別（99.5%、99.9%-99.99%、99.999%）、および用途別（航空宇宙、電子部品、その他）に、それぞれの販売量、市場シェア、収益、販売価格の分析（2021年から2026年まで）が詳細に示されています"
+   },
+   {
+    "value": "999",
+    "url": "https://newscast.jp/news/8841081",
+    "quote": "また、窒化タンタル粉末の種類別（ナノスケール粉末、サブミクロン/微細粉末、ミクロンスケール粉末）、結晶構造別（ε-TaN (六方晶)、δ-TaN (立方晶)）、純度別（99.5%、99.9%-99.99%、99.999%）、および用途別（航空宇宙、電子部品、その他）に、それぞれの販売量、市場シェア、収益、販売価格の分析（2021年から2026年まで）が詳細に示されています"
+   },
+   {
+    "value": "99.5",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "quote": "また、窒化タンタル粉末の種類別（ナノスケール粉末、サブミクロン/微細粉末、ミクロンスケール粉末）、結晶構造別（ε-TaN (六方晶)、δ-TaN (立方晶)）、純度別（99.5%、99.9%-99.99%、99.999%）、および用途別（航空宇宙、電子部品、その他）に、それぞれの販売量、市場シェア、収益、販売価格の分析（2021年から2026年まで）が詳細に示されています"
+   },
+   {
+    "value": "99.9",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "quote": "また、窒化タンタル粉末の種類別（ナノスケール粉末、サブミクロン/微細粉末、ミクロンスケール粉末）、結晶構造別（ε-TaN (六方晶)、δ-TaN (立方晶)）、純度別（99.5%、99.9%-99.99%、99.999%）、および用途別（航空宇宙、電子部品、その他）に、それぞれの販売量、市場シェア、収益、販売価格の分析（2021年から2026年まで）が詳細に示されています"
+   },
+   {
+    "value": "99.99",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "quote": "また、窒化タンタル粉末の種類別（ナノスケール粉末、サブミクロン/微細粉末、ミクロンスケール粉末）、結晶構造別（ε-TaN (六方晶)、δ-TaN (立方晶)）、純度別（99.5%、99.9%-99.99%、99.999%）、および用途別（航空宇宙、電子部品、その他）に、それぞれの販売量、市場シェア、収益、販売価格の分析（2021年から2026年まで）が詳細に示されています"
+   },
+   {
+    "value": "999",
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "quote": "また、窒化タンタル粉末の種類別（ナノスケール粉末、サブミクロン/微細粉末、ミクロンスケール粉末）、結晶構造別（ε-TaN (六方晶)、δ-TaN (立方晶)）、純度別（99.5%、99.9%-99.99%、99.999%）、および用途別（航空宇宙、電子部品、その他）に、それぞれの販売量、市場シェア、収益、販売価格の分析（2021年から2026年まで）が詳細に示されています"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/high-melting-metals-market-100015",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/8841081",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/8841081",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/tungsten-carbide-powder-market/107868",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prep-system.com/ja/%E9%AB%98%E8%9E%8D%E7%82%B9%E9%87%91%E5%B1%9E%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://met3dp.com/ja/refractory-metal-powders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gsalloy.com/ja/products/refractory-metals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.jnm.co.jp/ja/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eikocorp.jp/product-list__trashed/product003/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/products/metallic_powder/tanb/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/ja/product/metal-powders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/7225/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/231367/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hcstarck.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/ja/locations/taniobis-smelting-gmbh-co-kg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sunric.com/metal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sunric.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ctt-media888.com/high-melting-point-metals-comparison/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/ja/item/%E9%AB%98%E6%80%A7%E8%83%BD%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3%E3%83%BB%E3%83%A2%E3%83%AA%E3%83%96%E3%83%87%E3%83%B3%E6%9D%90%E6%96%99/6963766",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nittan.co.jp/products/tungsten.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jtmia.com/w-mo/w",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://am-printing.com/ja/tungsten-powder-properties/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%9B%BD%E5%86%85%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%A8%E5%8F%82%E5%85%A5%E4%BC%81%E6%A5%AD-stratimex-research-yi0le",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://newscast.jp/smart/news/3395748",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kotobank.jp/word/%E9%AB%98%E8%9E%8D%E7%82%B9%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99-1165398",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/jcsj1966/7/2/7_2_60/_pdf/-char/ja",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/technical/powder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bimomaterials.com/ja/materials/refractory-metals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industryresearch.biz/jp/market-reports/high-melting-metals-market-100103",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://langhe-industry.com/ja/refractory-metals-explained/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.jnm.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kasyu-kogyo.com/2019/05/29/molybdenum/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kobun-kogyo.co.jp/products/rare_metals-ta.html",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://journal.jogmec.go.jp/content/300599026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/3395748",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/tariff/2022_01_01/data/j_81.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arrozcorp.com/ultra-high-precision-polishing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://met3dp.com/ja/tungsten-metal-powder-suppliers-20240105/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260909.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "高融点金属粉末（タングステン・タンタル・モリブデン・ニオブ） 市場規模 CAGR",
+   "results": [
+    "https://www.businessresearchinsights.com/jp/market-reports/high-melting-metals-market-100015",
+    "https://newscast.jp/news/8841081",
+    "https://www.atpress.ne.jp/news/8841081",
+    "https://straitsresearch.com/jp/report/tungsten-market",
+    "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "https://www.sdki.jp/reports/tungsten-carbide-powder-market/107868",
+    "https://www.dreamnews.jp/press/0000336241",
+    "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "https://jp.linkedin.com/pulse/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3%E5%90%88%E9%87%91-market-growth-analysis-regions-x1n2e",
+    "https://www.industryresearch.biz/jp/market-reports/high-melting-metals-market-100103"
+   ]
+  },
+  {
+   "query": "高融点金属粉末（タングステン・タンタル・モリブデン・ニオブ） 価格 kg",
+   "results": [
+    "https://prep-system.com/ja/%E9%AB%98%E8%9E%8D%E7%82%B9%E9%87%91%E5%B1%9E%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB/",
+    "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "https://met3dp.com/ja/refractory-metal-powders/",
+    "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "https://gsalloy.com/ja/products/refractory-metals/",
+    "http://www.jnm.co.jp/ja/products/",
+    "https://www.tohokinzoku.co.jp/technical/powder.html",
+    "https://taniobis.com/ja/product/metal-powders/",
+    "https://www.jx-nmm.com/products/metallic_powder/tanb/",
+    "https://www.allied-material.co.jp/products/high-melting-point_hard-material-powder.html"
+   ]
+  },
+  {
+   "query": "高融点金属粉末（タングステン・タンタル・モリブデン・ニオブ） シェア 主要企業",
+   "results": [
+    "https://prep-system.com/ja/%E9%AB%98%E8%9E%8D%E7%82%B9%E9%87%91%E5%B1%9E%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB/",
+    "https://www.businessresearchinsights.com/jp/market-reports/high-melting-metals-market-100015",
+    "https://eikocorp.jp/product-list__trashed/product003/",
+    "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "https://www.jx-nmm.com/products/metallic_powder/tanb/",
+    "https://taniobis.com/ja/product/metal-powders/",
+    "https://gsalloy.com/ja/products/refractory-metals/",
+    "https://metoree.com/categories/7225/",
+    "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/"
+   ]
+  },
+  {
+   "query": "高融点金属粉末（タングステン・タンタル・モリブデン・ニオブ） 主要メーカー 一覧",
+   "results": [
+    "https://prep-system.com/ja/%E9%AB%98%E8%9E%8D%E7%82%B9%E9%87%91%E5%B1%9E%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB/",
+    "https://mono.ipros.com/company/detail/231367/category/",
+    "https://www.hcstarck.com/ja/",
+    "https://taniobis.com/ja/locations/taniobis-smelting-gmbh-co-kg/",
+    "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "https://metoree.com/categories/7225/",
+    "https://gsalloy.com/ja/products/refractory-metals/",
+    "https://www.sunric.com/metal/",
+    "http://www.jnm.co.jp/ja/products/",
+    "https://www.sunric.com/"
+   ]
+  },
+  {
+   "query": "高融点金属粉末（タングステン・タンタル・モリブデン・ニオブ） 参入企業 数",
+   "results": [
+    "https://baike.baidu.com/ja/item/%E9%AB%98%E6%80%A7%E8%83%BD%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3%E3%83%BB%E3%83%A2%E3%83%AA%E3%83%96%E3%83%87%E3%83%B3%E6%9D%90%E6%96%99/6963766",
+    "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "https://www.nittan.co.jp/products/tungsten.html",
+    "https://jtmia.com/w-mo/w",
+    "https://www.atpress.ne.jp/news/8841081",
+    "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "https://am-printing.com/ja/tungsten-powder-properties/",
+    "https://jp.linkedin.com/pulse/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%9B%BD%E5%86%85%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%A8%E5%8F%82%E5%85%A5%E4%BC%81%E6%A5%AD-stratimex-research-yi0le",
+    "https://newscast.jp/smart/news/3395748",
+    "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/"
+   ]
+  },
+  {
+   "query": "高融点金属粉末（タングステン・タンタル・モリブデン・ニオブ） 日本 需要",
+   "results": [
+    "https://prep-system.com/ja/%E9%AB%98%E8%9E%8D%E7%82%B9%E9%87%91%E5%B1%9E%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB/",
+    "http://www.jnm.co.jp/ja/products/",
+    "https://www.jx-nmm.com/products/metallic_powder/tanb/",
+    "https://www.businessresearchinsights.com/jp/market-reports/high-melting-metals-market-100015",
+    "https://kotobank.jp/word/%E9%AB%98%E8%9E%8D%E7%82%B9%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99-1165398",
+    "https://www.jstage.jst.go.jp/article/jcsj1966/7/2/7_2_60/_pdf/-char/ja",
+    "https://www.tohokinzoku.co.jp/technical/powder.html",
+    "https://taniobis.com/ja/product/metal-powders/",
+    "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "https://www.indexbox.io/ja/store/world-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/"
+   ]
+  },
+  {
+   "query": "高融点金属粉末（タングステン・タンタル・モリブデン・ニオブ） 国内 導入台数 OR 輸入量",
+   "results": [
+    "http://www.jnm.co.jp/",
+    "https://baike.baidu.com/ja/item/%E9%AB%98%E6%80%A7%E8%83%BD%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3%E3%83%BB%E3%83%A2%E3%83%AA%E3%83%96%E3%83%87%E3%83%B3%E6%9D%90%E6%96%99/6963766",
+    "https://www.nittan.co.jp/products/tungsten.html",
+    "https://kasyu-kogyo.com/2019/05/29/molybdenum/",
+    "https://www.kobun-kogyo.co.jp/products/rare_metals-ta.html",
+    "https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/",
+    "https://journal.jogmec.go.jp/content/300599026.pdf",
+    "https://www.atpress.ne.jp/news/3395748",
+    "https://www.customs.go.jp/tariff/2022_01_01/data/j_81.htm"
+   ]
+  },
+  {
+   "query": "高融点金属粉末（タングステン・タンタル・モリブデン・ニオブ） 日本企業 採用 調達 事例",
+   "results": [
+    "http://www.jnm.co.jp/",
+    "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "https://taniobis.com/ja/product/metal-powders/",
+    "https://www.nittan.co.jp/products/tungsten.html",
+    "https://www.arrozcorp.com/ultra-high-precision-polishing",
+    "https://baike.baidu.com/ja/item/%E9%AB%98%E6%80%A7%E8%83%BD%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3%E3%83%BB%E3%83%A2%E3%83%AA%E3%83%96%E3%83%87%E3%83%B3%E6%9D%90%E6%96%99/6963766",
+    "https://met3dp.com/ja/tungsten-metal-powder-suppliers-20240105/",
+    "https://www.aist.go.jp/aist_j/magazine/20260909.html",
+    "https://www.allied-material.co.jp/products/high-melting-point_hard-material-powder.html"
+   ]
+  },
+  {
+   "query": "refractory metal powder additive manufacturing tungsten tantalum Japan customers demand imports",
+   "results": [
+    "https://www.jhuapl.edu/news/news-releases/230320-researchers-sidestep-cracking-additive-manufacturing-refractory-metals",
+    "https://www.plansee.com/en/expertise/manufacturing-and-technology/additive-manufacturing.html",
+    "https://www.programmaster.org/PM/PM.nsf/UpcomingSymposia/CA1891C484F13D5B85258D8E003D0475?OpenDocument&ParentUNID=A79798B673220E9885258B13005BB1F5",
+    "https://serdp-estcp.mil/events/details/91d8ba8e-27f9-4525-8578-dd10c71d8530/reuse-of-refractory-metal-powders-for-additive-manufacturing",
+    "https://www.sciepublish.com/article/pii/467",
+    "https://elitemam.com/refractory-metals-2025-annual-state-of-the-industry-report/",
+    "https://powder.samaterials.com/properties-and-applications-comparison%20of-refractory-metal-powder.html",
+    "https://www.elementum3d.com/march-2026/",
+    "https://www.linkedin.com/pulse/deep-processing-refractory-metals-market-us-japan-korea-av2cf"
+   ]
+  },
+  {
+   "query": "高融点金属粉末（タングステン・タンタル・モリブデン・ニオブ） 供給契約 長期",
+   "results": [
+    "https://prep-system.com/ja/%E9%AB%98%E8%9E%8D%E7%82%B9%E9%87%91%E5%B1%9E%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB/",
+    "https://www.jx-nmm.com/products/metallic_powder/tanb/",
+    "https://www.taniobis.com/wp-content/uploads/TANIOBIS-IMAGEBROSCHURE__JAP_03_2025_WEB-Kopie-1.pdf",
+    "https://gsalloy.com/ja/products/refractory-metals/",
+    "https://mono.ipros.com/cg1/%E3%83%8B%E3%82%AA%E3%83%96/",
+    "https://www.arrozcorp.com/niobium",
+    "https://www.tohokinzoku.co.jp/technical/powder-metal.html",
+    "https://www.businessresearchinsights.com/jp/market-reports/high-melting-metals-market-100015",
+    "http://www.jnm.co.jp/",
+    "https://www.allied-material.co.jp/products/high-melting-point_hard-material-powder.html"
+   ]
+  },
+  {
+   "query": "refractory metal powder additive manufacturing tungsten tantalum market size CAGR 2030",
+   "results": [
+    "https://www.sphericalinsights.com/blogs/top-25-companies-in-global-refractory-metals-market-2026-2035-spherical-insights-analysis",
+    "https://www.datamintelligence.com/research-report/refractory-metals-market",
+    "https://elitemam.com/refractory-metals-2025-annual-state-of-the-industry-report/",
+    "https://www.meticulousresearch.com/product/3d-printing-metal-powder-market-6994",
+    "https://www.fortunebusinessinsights.com/industry-reports/metal-powder-market-101458",
+    "https://market.us/report/powder-metallurgy-market/",
+    "https://www.maximizemarketresearch.com/market-report/global-tantalum-market/96022/",
+    "https://www.linkedin.com/pulse/unlocking-potential-metal-powder-additive-manufacturing-asfcc",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://analyticalmr.com/reports-details/niobium-and-tantalum-powders-in-additive-manufacturing-market"
+   ]
+  },
+  {
+   "query": "refractory metal powder additive manufacturing tungsten tantalum price per kg",
+   "results": [
+    "https://powder.samaterials.com/spherical-tantalum-powder.html",
+    "https://globaladvancedmetals.com/high-purity-spherical-tantalum-powder-for-additive-manufacturing/",
+    "https://www.sciepublish.com/article/pii/467",
+    "https://www.thefabricator.com/additivereport/article/additive/3d-printed-parts-made-from-refractory-metals-can-handle-the-heat",
+    "https://am-printing.com/uses-of-refractory-metal-powders/",
+    "https://elitemam.com/refractory-metals-2025-annual-state-of-the-industry-report/",
+    "https://www.magerial.com/products/tantalum-tungsten-alloy-powder",
+    "https://ntrs.nasa.gov/api/citations/20210018657/downloads/AM_Refrac_(AIAA-2021-3533319)_15Jul2021.pdf",
+    "https://www.jhuapl.edu/news/news-releases/230320-researchers-sidestep-cracking-additive-manufacturing-refractory-metals",
+    "https://princetonpowder.com/tantalum-powder-for-additive-manufacturing/"
+   ]
+  },
+  {
+   "query": "refractory metal powder additive manufacturing tungsten tantalum key players market share percent",
+   "results": [
+    "https://www.datamintelligence.com/research-report/refractory-metals-market",
+    "https://elitemam.com/refractory-metals-2025-annual-state-of-the-industry-report/",
+    "https://powder.samaterials.com/properties-and-applications-comparison%20of-refractory-metal-powder.html",
+    "https://www.sphericalinsights.com/blogs/top-25-companies-in-global-refractory-metals-market-2026-2035-spherical-insights-analysis",
+    "https://www.sciepublish.com/article/pii/467",
+    "https://www.jhuapl.edu/news/news-releases/230320-researchers-sidestep-cracking-additive-manufacturing-refractory-metals",
+    "https://globaladvancedmetals.com/high-purity-spherical-tantalum-powder-for-additive-manufacturing/",
+    "https://www.fortunebusinessinsights.com/industry-reports/metal-powder-market-101458",
+    "https://am-printing.com/uses-of-refractory-metal-powders/",
+    "https://chemicalresearchinsight.com/2026/09/13/top-10-companies-in-the-tantalum-carbide-powder-market-2026-market-leaders-driving-innovation/"
+   ]
+  },
+  {
+   "query": "refractory metal powder additive manufacturing tungsten tantalum number of suppliers concentrated OR fragmented",
+   "results": [
+    "https://serdp-estcp.mil/events/details/91d8ba8e-27f9-4525-8578-dd10c71d8530/reuse-of-refractory-metal-powders-for-additive-manufacturing",
+    "https://www.programmaster.org/PM/PM.nsf/UpcomingSymposia/CA1891C484F13D5B85258D8E003D0475?OpenDocument&ParentUNID=A79798B673220E9885258B13005BB1F5",
+    "https://www.sciepublish.com/article/pii/467",
+    "https://www.plansee.com/en/expertise/manufacturing-and-technology/additive-manufacturing.html",
+    "https://elitemam.com/refractory-metals-2025-annual-state-of-the-industry-report/",
+    "https://ntrs.nasa.gov/api/citations/20210018657/downloads/AM_Refrac_(AIAA-2021-3533319)_15Jul2021.pdf",
+    "https://globaladvancedmetals.com/high-purity-spherical-tantalum-powder-for-additive-manufacturing/",
+    "https://powder.samaterials.com/properties-and-applications-comparison%20of-refractory-metal-powder.html",
+    "https://www.jhuapl.edu/news/news-releases/230320-researchers-sidestep-cracking-additive-manufacturing-refractory-metals",
+    "https://www.elmetadditive.com/"
+   ]
+  },
+  {
+   "query": "refractory metal powder additive manufacturing tungsten tantalum consumption per machine per year",
+   "results": [
+    "https://serdp-estcp.mil/events/details/91d8ba8e-27f9-4525-8578-dd10c71d8530/reuse-of-refractory-metal-powders-for-additive-manufacturing",
+    "https://www.programmaster.org/PM/PM.nsf/UpcomingSymposia/CA1891C484F13D5B85258D8E003D0475?OpenDocument&ParentUNID=A79798B673220E9885258B13005BB1F5",
+    "https://www.plansee.com/en/expertise/manufacturing-and-technology/additive-manufacturing.html",
+    "https://journals.sagepub.com/doi/10.1177/13621718241235471",
+    "https://elitemam.com/refractory-metals-2025-annual-state-of-the-industry-report/",
+    "https://www.elementum3d.com/march-2026/",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0925838826000861",
+    "https://powder.samaterials.com/properties-and-applications-comparison%20of-refractory-metal-powder.html",
+    "https://www.jhuapl.edu/news/news-releases/230320-researchers-sidestep-cracking-additive-manufacturing-refractory-metals",
+    "https://www.sciencedirect.com/science/article/pii/S221486042200402X"
+   ]
+  },
+  {
+   "query": "refractory metal powder additive manufacturing tungsten tantalum qualification long-term supply agreement",
+   "results": [
+    "https://serdp-estcp.mil/events/details/91d8ba8e-27f9-4525-8578-dd10c71d8530/reuse-of-refractory-metal-powders-for-additive-manufacturing",
+    "https://elitemam.com/refractory-metals-2025-annual-state-of-the-industry-report/",
+    "https://www.programmaster.org/PM/PM.nsf/UpcomingSymposia/CA1891C484F13D5B85258D8E003D0475?OpenDocument&ParentUNID=A79798B673220E9885258B13005BB1F5",
+    "https://www.elementum3d.com/march-2026/",
+    "https://globaladvancedmetals.com/global-advanced-metals-and-lpw-technology-cooperate-on-3d-printing-of-tantalum/",
+    "https://ntrs.nasa.gov/api/citations/20210018657/downloads/AM_Refrac_(AIAA-2021-3533319)_15Jul2021.pdf",
+    "https://www.elmetadditive.com/",
+    "https://powder.samaterials.com/properties-and-applications-comparison%20of-refractory-metal-powder.html",
+    "https://www.datamintelligence.com/research-report/refractory-metals-market",
+    "https://metalpowdersupply.com/"
+   ]
+  },
+  {
+   "query": "refractory metal powder additive manufacturing tungsten tantalum distributor direct sales OEM approved materials",
+   "results": [
+    "https://www.plansee.com/en/expertise/manufacturing-and-technology/additive-manufacturing.html",
+    "https://globaladvancedmetals.com/high-purity-spherical-tantalum-powder-for-additive-manufacturing/",
+    "https://ntrs.nasa.gov/api/citations/20210018657/downloads/AM_Refrac_(AIAA-2021-3533319)_15Jul2021.pdf",
+    "https://www.sphericalinsights.com/blogs/top-25-companies-in-global-refractory-metals-market-2026-2035-spherical-insights-analysis",
+    "https://www.elmetadditive.com/",
+    "https://www.thefabricator.com/additivereport/article/additive/3d-printed-parts-made-from-refractory-metals-can-handle-the-heat",
+    "https://heegermaterials.com/1182_spherical-powder",
+    "https://www.elmetpowders.com/refractory-metal-powders/",
+    "https://my.mpif.org/MPIF/Associations/RMA",
+    "https://www.elmetadditive.com/additive-manufacturing-powders/"
+   ]
+  },
+  {
+   "query": "site:note.com 高融点金属粉末（タングステン・タンタル・モリブデン・ニオブ）",
+   "results": [
+    "https://note.com/legit_tulip4823/n/ne8ca408c4a7c",
+    "https://note.com/jason_chan/n/nfa8e151ff619",
+    "https://note.com/lyco_pene/n/nddfbc24380f7",
+    "https://note.com/a19691969/n/nd4526834d919",
+    "https://note.com/yebisumeitei2/n/n484f5145f317",
+    "https://note.com/yhresearch_news/n/n6c6015be4350",
+    "https://note.com/y44901726/n/n251b8e9fcf42",
+    "https://note.com/qy_research/n/n8d0d52b33dfa",
+    "https://note.com/iceman_23/n/nbfc11aefc8ab",
+    "https://note.com/vlox/n/na00b4d2dd4d4"
+   ]
+  },
+  {
+   "query": "site:x.com 高融点金属粉末（タングステン・タンタル・モリブデン・ニオブ）",
+   "results": [
+    "https://x.com/OS_Giken/status/2058329790869098584",
+    "https://x.com/dadajiji/status/2043307234143371685",
+    "https://jf.x.com/images/media-preview/2096048573334925373",
+    "https://jf.x.com/images/media-preview/2091820307841683740",
+    "https://x.com/semicon_eng1/status/2067391021139493029",
+    "https://x.com/5moirr/status/2107480118759420107",
+    "https://x.com/TEKKOSHIMBUN/status/2067741422447735078"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 高融点金属粉末（タングステン・タンタル・モリブデン・ニオブ）",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E8%80%90%E9%AB%98%E6%B8%A9%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4%E3%81%AE%E5%B9%85%E5%BA%83%E3%81%84%E6%A6%82%E8%A6%812026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AEcagr-7%E3%81%A7%E3%81%AE%E6%A5%AD%E7%95%8C%E3%81%AE%E6%88%90%E9%95%B7%E3%81%A8%E4%BA%88%E6%B8%AC-wyntrixa-n2vme",
+    "https://jp.linkedin.com/posts/泰幸-岡野-570655282_戦略物資-レアメタル-タングステン-activity-7438008763200176128-HBac",
+    "https://cn.linkedin.com/in/tungstenmolybdenum/ja",
+    "https://www.linkedin.com/pulse/キャパシタグレードタンタル金属粉末市場調査業界の概要主要競合分析2025-2032年のcagr成長率132-drawing-from-i3qse/",
+    "https://cn.linkedin.com/in/tungstenmolybdenumexport/ja",
+    "https://www.linkedin.com/company/taniobis-gmbh",
+    "https://br.linkedin.com/in/lumazaf",
+    "https://jp.linkedin.com/pulse/高融点金属-市場の新規参入機会と事業拡大戦略-brandecho-consulting-hub-ymhmf"
+   ]
+  },
+  {
+   "query": "site:facebook.com 高融点金属粉末（タングステン・タンタル・モリブデン・ニオブ）",
+   "results": [
+    "https://www.facebook.com/higuchi0601/",
+    "https://www.facebook.com/jeol.jp/posts/金属3dプリンターで挑むタングステン造形高融点金属を造形するための最新技術融点3422cのタングステンは熱強度特性に優れ照明から半導体医療まで幅広い分野で活用さ/1342822191195224/",
+    "https://www.facebook.com/100077641527532/posts/タングステンモリブデン白銅では高融点金属タングステンモリブデンの板棒を在庫しておりますウォータージェット切断に加えワイヤーカット切断も承ります白銅ネットサービス/330865446178170/",
+    "https://www.facebook.com/100054661620087/photos/二硫化タングステンって️モリブデンmoとタングステンwはどちらも周期表で同じ6族に属する高融点金属リフラクトリーメタルの代表格で化学的物理的性質が非常に似通って/1543580054140701/",
+    "https://www.facebook.com/100054661620087/photos/二流化モリブデンと有機モリブデンの違いって️これも質問がありましたのでお答えしますね二硫化モリブデンと有機モリブデンはどちらも優れた潤滑性を持つ物質ですがその物/1543051897526850/",
+    "https://www.facebook.com/ray.wang.10004/posts/世界的な軍拡競争と中国の輸出規制によってタングステン希少金属の一種が次の戦略的重要鉱物として注目されているタングステンは兵器半導体先端製造業などに幅広く使用され/10175337798555398/",
+    "https://www.facebook.com/takeishidenki/photos/タンタル精密表面仕上げ-ra002こんにちは-岳石電気ですㅤㅤ今回はタンタルの研磨についてご紹介します加工硬化し変形もしやすく切り粉を引きずりやすいタングステン/1446681413427953/",
+    "https://www.facebook.com/takeishidenki/photos/用途にあわせた耐熱wmo材料のご提案こんにちは-岳石電気ですㅤㅤ今回は耐熱材料のお話をさせて頂きますㅤ当社もフィラメントやヒーター電極以外の高温条件下での使用に/1454920615937366/"
+   ]
+  },
+  {
+   "query": "高融点金属粉末（タングステン・タンタル・モリブデン・ニオブ） note 社長",
+   "results": [
+    "https://prep-system.com/ja/%E9%AB%98%E8%9E%8D%E7%82%B9%E9%87%91%E5%B1%9E%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB/",
+    "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "https://taniobis.com/ja/product/metal-powders/",
+    "https://kotobank.jp/word/%E9%AB%98%E8%9E%8D%E7%82%B9%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99-1165398",
+    "https://www.tohokinzoku.co.jp/technical/powder.html",
+    "https://www.jx-nmm.com/products/metallic_powder/tanb/",
+    "https://www.arrozcorp.com/archives/column/003",
+    "https://baike.baidu.com/ja/item/%E9%AB%98%E6%80%A7%E8%83%BD%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3%E3%83%BB%E3%83%A2%E3%83%AA%E3%83%96%E3%83%87%E3%83%B3%E6%9D%90%E6%96%99/6963766",
+    "https://kasyu-kogyo.com/2019/05/29/molybdenum/",
+    "https://prep-system.com/ja/高融点金属合金粉末/"
+   ]
+  },
+  {
+   "query": "高融点金属粉末（タングステン・タンタル・モリブデン・ニオブ） X 投稿",
+   "results": [
+    "https://prep-system.com/ja/%E9%AB%98%E8%9E%8D%E7%82%B9%E9%87%91%E5%B1%9E%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB/",
+    "https://kotobank.jp/word/%E9%AB%98%E8%9E%8D%E7%82%B9%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99-1165398",
+    "https://am-printing.com/ja/uses-of-refractory-metal-powders/",
+    "https://taniobis.com/ja/product/metal-powders/",
+    "http://www.jnm.co.jp/ja/products/",
+    "https://patents.google.com/patent/JPWO2013018714A1/ja",
+    "https://baike.baidu.com/ja/item/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/1157190",
+    "https://www.tohokinzoku.co.jp/technical/powder-metal.html",
+    "https://www.arrozcorp.com/archives/column/003",
+    "https://www.hcstarck.com/ja/"
+   ]
+  },
+  {
+   "query": "refractory metal powder additive manufacturing tungsten tantalum site:linkedin.com",
+   "results": [
+    "https://jp.linkedin.com/company/elmettechnologies",
+    "https://sg.linkedin.com/company/plansee",
+    "https://www.linkedin.com/company/niobium-research-llc",
+    "https://www.linkedin.com/pulse/regional-outlook-tantalum-tungsten-alloy-market-asia-pacific-3cltc/",
+    "https://kr.linkedin.com/company/plansee",
+    "https://www.linkedin.com/pulse/metal-powder-3d-printing-top-companies-list-2026-flourish-flowes-d6yee",
+    "https://www.linkedin.com/in/stevesparkowich",
+    "https://www.linkedin.com/posts/dierk-raabe-a760a71a3_scrap-alloys-alloys-activity-7516219079620182017-7EyE",
+    "https://www.linkedin.com/in/mike-stawovy-9a659b7",
+    "https://www.linkedin.com/in/kyle-myers-ph-d-74101931"
+   ]
+  }
+ ],
+ "missing": {}
+}

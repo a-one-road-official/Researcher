@@ -1,0 +1,3319 @@
+{
+ "name": "金属AM用粉末（全体）",
+ "en": "metal powder for additive manufacturing market",
+ "aliases": [
+  "金属3Dプリンター 粉末 市場",
+  "積層造形用金属粉末",
+  "AM用金属粉"
+ ],
+ "context": "全体",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:49:05.253191+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフ：金属粉末を用いた積層造形市場規模、材料別、2022年～2035年（100万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフ：米国金属パウダーを用いた積層造形市場規模、2022～2035年（100万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<h1>3Dプリンティング市場規模とシェア、2025～2034年</h1>",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<p>世界の3Dプリンティング市場規模は、2024年に__NUMVAL_0__と推定されており、2025年から2034年にかけて年平均成長率（CAGR）__NUMVAL_1__で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<th>2024年市場規模</th>",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<dt>世界の3Dプリンティング市場規模はどのくらいですか？</dt>",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<dd>2024年の市場規模は__NUMVAL_0__と推定されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<dd>アジア太平洋地域は2024年に__NUMVAL_17__の市場規模を記録し、予測期間中に__NUMVAL_18__のCAGRで成長すると予測されており、世界で最も高い成長率が見込まれています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の金属粉末を用いた付加製造市場の市場規模はどのくらいでしたか",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2025年に6.508億米ドルであり、2035年までに15.4%の年平均成長率（CAGR）が予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形市場規模・成長レポート 2035",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2025 市場規模",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模：",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模：",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月、ストラタシスは、多額の投資を行い、トリトンテクノロジーズと提携することでポリマー以外にも事業を拡大し、製品ポートフォリオに量産グレードの金属およびセラミック積層造形を追加したと発表しました",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "基準年市場規模（2025年）",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "1,131億ドル",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "予測年市場規模（2035年）",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "6,477億ドル",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "予測市場規模（2030年）",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形市場の市場規模は、2035年末までに6,477億米ドルに達すると予測されており、予測期間である2026年から2035年の間に21.4%のCAGRで拡大する見込みです",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形（AM）用ガスアトマイズド金属粉末の世界市場（2026年～2032年）、市場規模（カスタムAM用金属粉末、汎用AM用金属粉末）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形（AM）用ガスアトマイズド金属粉末の世界市場（2026年～2032年）、市場規模（カスタムAM用金属粉末、汎用AM用金属粉末）・分析レポートを発表",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "世界の積層造形（AM）用ガスアトマイズド金属粉末市場規模は、2025年の37億7500万米ドルから2032年には55億9400万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.8％で成長すると見込まれています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、世界の積層造形（AM）用ガスアトマイズド金属粉末の生産量は約19キロトンに達し、世界平均市場価格は1kgあたり約200米ドルでした",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "単一ラインの年間生産能力は平均1,000トンで、粗利益率は約33.8～37.4%となっています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの主要な地理的地域（アメリカ大陸、APAC、ヨーロッパ、中東・アフリカ）および国/地域別の年間販売量と年間収益の市場規模データが提供されています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2027年から2032年までのグローバル市場規模の地域別（アメリカ大陸、APAC、ヨーロッパ、中東・アフリカ）の販売量と年間収益の予測、国別予測、タイプ別予測、および用途別予測が提供されています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属粉末市場規模、シェア、および成長レポート 2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属粉末市場規模、シェア、動向および予測材料、技術、用途、地域別、2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属粉末市場規模は、2025年に",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本粉体塗装装置市場規模、シェア、動向および予測樹脂タイプ別、コンポーネント別、最終用途産業別、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本パウダーコーティング市場規模、シェア、動向および予測樹脂タイプ、コーティング方法、用途、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の粉末冶金市場規模、シェア、動向、予測タイプ、材料、製造プロセス、用途、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のフルーツパウダー市場規模、シェア、動向および予測果物の種類別、技術別、流通チャネル別、用途別、地域別2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末を用いた積層造形（AM）の世界市場規模は、予測期間中に年平均成長率（CAGR）14.9%で拡大し、2035年には1,617億米ドルに達すると予測されています",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模と成長予測（2026~2032）",
+    "url": "https://qyresearch-news.hatenablog.jp/entry/2026/04/20/123109",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金属AM用粉末製造設備市場規模は、2025年に180百万米ドルに達すると予測され、2026年には201百万米ドルに成長する見込みです",
+    "url": "https://qyresearch-news.hatenablog.jp/entry/2026/04/20/123109",
+    "pass": 3
+   },
+   {
+    "quote": "2025～2031年の金属AM用粉末製造設備市場規模推移およびCAGRを提示し、成長ドライバーと拡大ポテンシャルを明確化します",
+    "url": "https://qyresearch-news.hatenablog.jp/entry/2026/04/20/123109",
+    "pass": 3
+   },
+   {
+    "quote": "コールドスプレー用金属粉末の世界市場：産業分析、市場規模、競合環境、現状と展望2025-2031",
+    "url": "https://qyresearch-news.hatenablog.jp/entry/2026/04/20/123109",
+    "pass": 3
+   },
+   {
+    "quote": "青銅の金属粉末調査レポート：市場規模推移、シェア、促進要因、トレンド予測2025-2031",
+    "url": "https://qyresearch-news.hatenablog.jp/entry/2026/04/20/123109",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末射出成形の世界市場レポート：成長、市場規模、競合状況、予測2024-2030",
+    "url": "https://qyresearch-news.hatenablog.jp/entry/2026/04/20/123109",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金属3Dプリンター市場規模・予測グラフ（出典：JMAR、2021年）",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "＞＞製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形 (AM) 金属粉末の世界市場規模：2026年は1500百万米ドルに達する見込み - qyresearchのブログ",
+    "url": "https://qyresearch.hatenadiary.com/entry/2026/06/12/142349",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形 (AM) 金属粉末の世界市場規模：2026年は1500百万米ドルに達する見込み",
+    "url": "https://qyresearch.hatenadiary.com/entry/2026/06/12/142349",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形 (AM) 金属粉末の世界市場規模は2025年に1425百万米ドルに達し、2026年には1500百万米ドルに拡大すると予測されております",
+    "url": "https://qyresearch.hatenadiary.com/entry/2026/06/12/142349",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2032年の期間においては、5.9%の年平均成長率（CAGR）を維持し、最終的に2032年の市場規模は2116百万ドルに達すると予測されております",
+    "url": "https://qyresearch.hatenadiary.com/entry/2026/06/12/142349",
+    "pass": 3
+   },
+   {
+    "quote": "第1章：積層造形 (AM) 金属粉末市場の概要と世界市場規模予測、成長要因・リスク分析（2021～2032）",
+    "url": "https://qyresearch.hatenadiary.com/entry/2026/06/12/142349",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：製品タイプ別積層造形 (AM) 金属粉末市場規模・価格・シェア分析（2021～2032）",
+    "url": "https://qyresearch.hatenadiary.com/entry/2026/06/12/142349",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：用途別積層造形 (AM) 金属粉末市場規模・価格・シェア分析（2021～2032）",
+    "url": "https://qyresearch.hatenadiary.com/entry/2026/06/12/142349",
+    "pass": 3
+   },
+   {
+    "quote": "過去データ（2021～2025年）に基づき、2032年までの市場規模・消費量・成長率を予測します",
+    "url": "https://qyresearch.hatenadiary.com/entry/2026/06/12/142349",
+    "pass": 3
+   },
+   {
+    "quote": "不規則なアルミニウム粉末の世界市場規模：2026年は107百万米ドルに達する見込み",
+    "url": "https://qyresearch.hatenadiary.com/entry/2026/06/12/142349",
+    "pass": 3
+   },
+   {
+    "quote": "積層セラミックコンデンサー（MLCC）誘電体粉末の世界市場規模：年平均成長率6.2%予測、最新トレン…",
+    "url": "https://qyresearch.hatenadiary.com/entry/2026/06/12/142349",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "2026年の8.138億米ドルから2035年の29億米ドルに成長する見通しであり、2026～2035年にかけて年平均成長率（CAGR）15.4%で拡大すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026～2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "合金粉末は最大の材料カテゴリであり、2025年に1.9672億米ドルと評価されており、2035年までに8.1946億米ドルに達すると予測されており、年平均成長率（CAGR）はおよそ15.47%です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "貴金属粉末は2025年の40.46百万米ドルから2035年の1.8504億米ドルに増加すると予測されており、年平均成長率（CAGR）はおよそ16.55%です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "タングステンは33.94百万米ドルから1.586億米ドルへの拡大が予想されており、年平均成長率（CAGR）はおよそ16.81%です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "DMDおよびLENSを含く吹き付け粉末技術は2025年の1.6701億米ドルから2035年の7.4016億米ドルに成長すると予測されており、最速の技術年平均成長率（CAGR）はおよそ16.19%です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "このセグメントの年平均成長率（CAGR）が約15.61%となることは、生産性、安全な粉末取扱い、および従来の大量生産の広範な置き換えではなく、対象となるアプリケーションにおける実証済みのコスト優位性に依存しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギーは60.01百万米ドルから2.6434億米ドルに拡大すると予測され、年平均成長率（CAGR）が約16.12%と最速の用途成長率です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2035",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間（2026年から2035年）中、年平均成長率（CAGR）は21.4%です",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "貿易成長率（5年間年率）",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "過去5年間の平均年間成長率",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、急速な工業化、スマート製造イニシアチブ、そして政府の多大な支援に支えられ、2026年から2035年にかけて最も速いペースで拡大すると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "21.4% CAGR（2026～2035年）",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月、ストラタシスは、多額の投資を行い、トリトンテクノロジーズと提携することでポリマー以外にも事業を拡大し、製品ポートフォリオに量産グレードの金属およびセラミック積層造形を追加したと発表しました",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "インダストリー4.0の導入拡大：",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月、Fabric8Labsは5,000万米ドルを調達し、米国での電気化学的積層造形生産を拡大し、熱管理、無線通信、パワーエレクトロニクス向けの部品の年間生産能力を500万個から2,200万個に増強しました",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "、航空宇宙、ヘルスケア、工業分野における導入拡大と、インダストリー4.0製造業を推進する政策による広範な支援を受け、地域の積層造形市場において支配的な地位を確立しています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "世界の積層造形（AM）用ガスアトマイズド金属粉末市場規模は、2025年の37億7500万米ドルから2032年には55億9400万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.8％で成長すると見込まれています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "米国における積層造形（AM）用ガスアトマイズド金属粉末市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までの年間平均成長率（CAGR）は%になると推定されています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "中国の積層造形（AM）用ガスアトマイズド金属粉末市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の積層造形（AM）用ガスアトマイズド金属粉末市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "に達し、2026年から2034年の期間に年平均成長率",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "（CAGR）4.06%",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場成長率 2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用途における積層造形と3Dプリンティングの利用拡大",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)に関する当社の調査レポートによると、同市場は予測期間である2026―2035年にかけ、年平均成長率（CAGR）",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "2026-2035年の CAGR",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "SDKI Analyticsによる調査でも言及されている通り、2023年にはアディティブ・マニュファクチャリング関連機器の出荷台数が前年比24.2%増加しており、市場需要の堅調な高まりが示されています",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "当社のSDKI市場調査アナリストは、アジア太平洋地域の「金属粉末を用いた積層造形」市場が、予測期間を通じて年平均成長率（CAGR）22%以上を記録し、世界市場において最も急速な成長を遂げると予測しています",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "金属AM用粉末製造設備の世界市場予測レポート：成長率、主要企業調査、ランキング2026-2032 - qyresearch-newsの日記",
+    "url": "https://qyresearch-news.hatenablog.jp/entry/2026/04/20/123109",
+    "pass": 3
+   },
+   {
+    "quote": "金属AM用粉末製造設備の世界市場予測レポート：成長率、主要企業調査、ランキング2026-2032",
+    "url": "https://qyresearch-news.hatenablog.jp/entry/2026/04/20/123109",
+    "pass": 3
+   },
+   {
+    "quote": "その後、2026年から2032年にかけては13.1%の年平均成長率（CAGR）で持続的な成長が見込まれ、2032年までに421百万米ドル規模に拡大すると予測されます",
+    "url": "https://qyresearch-news.hatenablog.jp/entry/2026/04/20/123109",
+    "pass": 3
+   },
+   {
+    "quote": "2025～2031年の金属AM用粉末製造設備市場規模推移およびCAGRを提示し、成長ドライバーと拡大ポテンシャルを明確化します",
+    "url": "https://qyresearch-news.hatenablog.jp/entry/2026/04/20/123109",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター市場の拡大",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター市場拡大の理由を理解するために、まずは従来工法と比較した金属3Dプリンターの特徴について抑えていきましょう",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形 (AM) 金属粉末の世界市場規模は2025年に1425百万米ドルに達し、2026年には1500百万米ドルに拡大すると予測されております",
+    "url": "https://qyresearch.hatenadiary.com/entry/2026/06/12/142349",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2032年の期間においては、5.9%の年平均成長率（CAGR）を維持し、最終的に2032年の市場規模は2116百万ドルに達すると予測されております",
+    "url": "https://qyresearch.hatenadiary.com/entry/2026/06/12/142349",
+    "pass": 3
+   },
+   {
+    "quote": "過去データ（2021～2025年）に基づき、2032年までの市場規模・消費量・成長率を予測します",
+    "url": "https://qyresearch.hatenadiary.com/entry/2026/06/12/142349",
+    "pass": 3
+   },
+   {
+    "quote": "積層セラミックコンデンサー（MLCC）誘電体粉末の世界市場規模：年平均成長率6.2%予測、最新トレン…",
+    "url": "https://qyresearch.hatenadiary.com/entry/2026/06/12/142349",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの推進力を詳細に理解すると、203 年まで市場の拡大と技術の採用に影響を与え続ける根本的な力が明らかになります",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用3Dプリンティングの能力を拡大するために、金属積層造形技術と材料について詳しくご覧ください",
+    "url": "https://www.eos.info/ja/content/blog/know-how/metal-myths-exposed",
+    "pass": 3
+   },
+   {
+    "quote": "産業用3Dプリンティングの能力を拡大するための、樹脂積層造形技術と材料をご覧ください",
+    "url": "https://www.eos.info/ja/content/blog/know-how/metal-myths-exposed",
+    "pass": 3
+   },
+   {
+    "quote": "の総売上額は前年比8.9％増の308億円で、2017～",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年の年間平均成長率を＋9.1％、2022年の市場",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "比成長率＋27.1％の 1,900 台、売上額は＋5.9％の",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ボナファイド・リサーチの調査報告書「日本金属粉末市場概況2030」によると、日本金属粉末市場は2025年から2030年にかけて年平均成長率（CAGR）7.71％超で拡大すると予測される",
+    "url": "https://www.marketresearch.co.jp/mrc-bf09j11-japan-metal-powder-market-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "今後、IMARCグループの予測によると、2034年には7億2320万米ドルに成長し、2026年から2034年までの予測期間における年平均成長率（CAGR）は4.06%を記録すると見込まれています",
+    "url": "https://www.globalresearch.jp/data/japan-metal-powder-market-imarc/",
+    "pass": 3
+   },
+   {
+    "quote": "今後、IMARCグループは2034年までに7億2,320万米ドルに達し、2026年から2034年にかけてCAGR 4.06％で成長すると予測しております",
+    "url": "https://www.gii.co.jp/report/imarc1922865-japan-metal-powder-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用途における積層造形（AM）および3Dプリンティングの活用拡大",
+    "url": "https://www.gii.co.jp/report/imarc1922865-japan-metal-powder-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "アディティブ・マニュファクチャリング（AM）および金属3Dプリンティングは、航空宇宙、自動車、医療機器などの分野における高精度・軽量部品の需要拡大を背景に、日本の製造業の風景を急速に変えつつあります",
+    "url": "https://www.gii.co.jp/report/imarc1922865-japan-metal-powder-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "本調査会社は、この市場が2034年までに7億2320万米ドルに達し、2026年から2034年の間に4.06%の年平均成長率（CAGR）を示すと予測しています",
+    "url": "https://newscast.jp/news/2810444",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属粉末市場の主なトレンドとして、まず、産業用途における積層造形（AM）および3Dプリンティングの利用拡大が挙げられます",
+    "url": "https://newscast.jp/news/2810444",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、大同特殊鋼やJFEスチールといった国内メーカーは、電気自動車や航空宇宙メーカーからの需要増に対応するため、生産規模を拡大しており、例えば大同特殊鋼は2024年に粉末冶金製品の生産量を25%増加させたと報告しています",
+    "url": "https://newscast.jp/news/2810444",
+    "pass": 3
+   },
+   {
+    "quote": "近年では、3Dプリンティング（積層造形）用材料としての需要が急速に拡大しており、SLM（選択的レーザー溶融）やEBM（電子ビーム溶融）といった技術で、航空宇宙部品、医療用インプラント、試作品などの高精度・高機能部品が製造されている",
+    "url": "https://newscast.jp/news/2810444",
+    "pass": 3
+   },
+   {
+    "quote": "日本の年間輸入総額は113兆3,301億円（前年比＋0.5%）であり、",
+    "url": "https://boueki.standage.co.jp/japan-import-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年の輸入総額が前年比＋0.5%の微増にとどまった背景には、",
+    "url": "https://boueki.standage.co.jp/japan-import-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、石炭が前年比▲26.2%（寄与度▲1.1）、原粗油が前年比▲11.5%（寄与度▲1.1）、液化天然ガスが前年比▲8.5%（寄与度▲0.5）となり、これらが輸入総額を大きく引き下げる役割を果たしました",
+    "url": "https://boueki.standage.co.jp/japan-import-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "増加寄与が最も高かった品目は電算機類（含周辺機器）で、前年比＋18.1%（寄与度＋0.5）を記録しました",
+    "url": "https://boueki.standage.co.jp/japan-import-ranking/",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "PyroGenesis チタン粉末適格性評価の進捗（2025年3月）:- PyroGenesis は 2025年3月、同社の NexGen プラズマ霧化チタン粗粉末が世界的な航空機 OEM の技術要件を満たし、顧客の適格性評価プロセスを進めていると発表しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "このコラボレーションは、複雑なアセンブリを簡素化し、国内外のOEMにサービスを提供する堅牢なAMサプライチェーンを構築することを目的としています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "この取り組みは2024年7月から2028年6月まで実施され、OEM、Tier 1、中小企業、RTO、学術機関など11のパートナーが参加しています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "本機の納入は、BLT社の国内におけるリースおよび販売代理店パートナーであるOrix Rentec Corporationによって行われることとなりました",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "■航空機エンジン、発電用ガスタービン認定材料各種",
+    "url": "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM分社化、幅広い素材ポートフォリオ",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー方式の仕様は、搭載するレーザーの出力や台数、装置メーカーの機種により大きく異なります",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、レーザー装置に比べると装置メーカーは多くはなく、造形実績のある材料もまだ限定的なため、今後の造形材料の広がりを期待したいと思います",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "装置メーカーが装置の不具合ではない、と説明するだけで、不具合やイレギュラー発生時に現象説明やカイゼン協力に至らない場合もあります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM 認証仕様",
+    "url": "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "ボーイングやエアバスなどの大手航空宇宙 OEM は、エンジン部品、構造部品、客室内装要素の AM に積極的に投資しており、最近の契約ではチタンやニッケル超合金の重要性が強調されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "大手 OEM と専門粉体メーカーの存在により、品質、プロセスの標準化、認証が強調され、非常に競争力の高い状況が促進されます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "将来の成長は、粉末冶金の技術進歩、OEM 提携の増加、高性能用途に合わせた地域固有の合金の開発によって推進されるでしょう",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "厳しい航空宇宙規格を満たす粉末なので、OEM との長期契約を確保できます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの粉末は AM OEM に供給され、用途に応じてレーザー粉末床溶融 (LPBF)、電子ビーム溶解 (EBM)、またはバインダー ジェット システムに統合されます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", カーペンター・テクノロジーは、高温用途に合わせた次世代ステンレス鋼粉末を共同開発するため、大手航空宇宙OEMとの戦略的パートナーシップを発表した",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "OEMパートナーシップ",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "今日では数十種類の認定材料が利用可能であり、さらに新たな材料が絶えず開発されている",
+    "url": "https://www.eos.info/ja/content/blog/know-how/metal-myths-exposed",
+    "pass": 3
+   },
+   {
+    "quote": "今後は①各装置メーカーの価格の引下げ努力、②唯一無二な機能部",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この技術エコシステムは、金属粉末メーカー、装置メーカー、研究開発機関が政府の産業近代化プログラムに支えられ緊密に連携することで恩恵を受けている",
+    "url": "https://www.marketresearch.co.jp/mrc-bf09j11-japan-metal-powder-market-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "この変革は、強力な研究開発ネットワーク、OEMの参画、産業変革に焦点を当てた政府プログラムによって推進されている",
+    "url": "https://www.marketresearch.co.jp/mrc-bf09j11-japan-metal-powder-market-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒で総合商社の伊藤忠商事株式会社へ入社",
+    "url": "https://boueki.standage.co.jp/japan-import-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターをよく利用する製造現場の方、販売店の方、金属材料を扱うメーカーさまや商社さまとの協業は大歓迎です",
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "規制認定期間と複雑性",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界規模で、認定航空宇宙粉末需要が集約化している地域で深刻",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "原料変更はプロセスチェーン全体を通じて再認定作業を引き起こす可能性があるからです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "規制対象アプリケーションの長い認定サイクル",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "確立されたサプライヤーを保護するのと同じ認定要件が、新しい材料と参入者の導入を遅延させることができます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "FAA規制は材料管理とプロセス仕様を結び付けており、EASAのCM-S-008は積層造形の認定に関する考慮事項に対応しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "認定により、顧客は代替供給源の名目粉末価格が低くても、代替供給源への移行をためらうようになる可能性があります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "これは一貫性を文書化し、認定をサポートし、長期プログラムサイクル全体を通じてサプライチェーン継続性を維持する能力に依存しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国は航空宇宙・防衛需要、医療機器製造、および比較的成熟した適格認定環境を組み合わせています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Equispheres とのこの地域は、パウダーエンジニアリングと適格認定生産プラットフォームの結合に焦点を当てていることを示しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "EASAの積層造形認定覚書は、当地域の規制インフラを支援しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "地域の成長は、地元のメーカーが困難な応用のための信頼できる材料品質と適格認定認証を確立する速度に依存します",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "商業機会は、適格認定金属積層造形能力の広い導入ベースというより、ローカライズされた修理、輸入代替、および応用固有製造に集中しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "当地域のより保守的な成長プロファイルは、適格認定機器、材料、および後処理能力の導入ベースが小さいことを反映していますが、ローカルな重要予備部品プログラムは、サプライチェーン復元力が高い価値を持つ場合に集中した機会を生成できます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "地域間競争は、プリンター設置数だけではなく、認定能力の所在によってますます形作られています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "貿易成長率（5年間年率）",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "過去5年間の平均年間成長率",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月、Fabric8Labsは5,000万米ドルを調達し、米国での電気化学的積層造形生産を拡大し、熱管理、無線通信、パワーエレクトロニクス向けの部品の年間生産能力を500万個から2,200万個に増強しました",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月、島津製作所は、大学や産業界のパートナーと共同で統合型金属積層造形システムを開発するための5年間の研究開発プログラムに、日本のNEDOに選定されたと発表しました",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "単一ラインの年間生産能力は平均1,000トンで、粗利益率は約33.8～37.4%となっています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "米国における積層造形（AM）用ガスアトマイズド金属粉末市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までの年間平均成長率（CAGR）は%になると推定されています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2032年までの世界の年間販売額予測、2021年、2025年、2032年における地域別および国別の世界市場の現状と将来分析が含まれています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業別の積層造形（AM）用ガスアトマイズド金属粉末の年間販売量とその市場シェア、年間収益とその市場シェア、および企業別の販売価格のデータが含まれています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの主要な地理的地域（アメリカ大陸、APAC、ヨーロッパ、中東・アフリカ）および国/地域別の年間販売量と年間収益の市場規模データが提供されています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2027年から2032年までのグローバル市場規模の地域別（アメリカ大陸、APAC、ヨーロッパ、中東・アフリカ）の販売量と年間収益の予測、国別予測、タイプ別予測、および用途別予測が提供されています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "一方、アジア太平洋市場は、今後数年間にわたり、有望な成長機会を示す態勢が整っています",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "米国エネルギー省の調査報告書によると、アディティブ・マニュファクチャリングは従来の製造手法と比較して、エネルギー消費量を約25%削減できるほか、廃棄物および材料費を最大で約90%削減できる可能性があります",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "過去5年間から2024年まで",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までの今後10年間",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "この市場成長の主要な牽引役となっているのは、航空宇宙およびヘルスケア分野における材料認定の適用拡大です",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "防衛、航空宇宙、エネルギー、医療、その他、極めて高い信頼性が求められる重要用途（ミッションクリティカルアプリケーション）向けに、高品質かつ実用認定（クオリフィケーション）に耐えうる部品を製造できるよう設計されています",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "社内の使用量予測に基づき、調達サイクルを計画する",
+    "url": "https://am-printing.com/ja/atomized-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "複合コーティング製品はダイヤモンド砥粒の使用量と摩耗を減らし、ツールの使用寿命を延長させます",
+    "url": "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "■航空機エンジン、発電用ガスタービン認定材料各種",
+    "url": "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "認定資格と法的記述",
+    "url": "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "過去データ（2021～2025年）に基づき、2032年までの市場規模・消費量・成長率を予測します",
+    "url": "https://qyresearch.hatenadiary.com/entry/2026/06/12/142349",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、航空宇宙産業では、燃料消費量と排出ガスを削減する軽量で高強度の部品を製造するために、チタンおよびニッケルベースの粉末への依存が高まっています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "企業は、品質を損なうことなく未使用の粉末を再利用できるプロセスに投資しており、それによって原材料の消費量と廃棄物処理コストを削減しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "価格の変動は供給契約を不安定にし、エンドユーザーの全体的なコスト構造に影響を与える可能性があり、従来の製造方法と比較して AM の競争力が低下します",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "この経済的予測不可能性は、コストに敏感な分野での大規模な導入を妨げ、産業規模の拡大に必要な長期供給契約の開発を妨げます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "合理化された認定および資格取得の経路",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "この地域では、航空宇宙および医療機器の重要な用途向けの高品質の認定粉末に重点が置かれているため、チタンやニッケルベースの超合金などの先進的な粉末の需要が維持されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "この地域は、重要な用途向けの高価値の認定粉末の開発に重点を置いているため、競争力を確保するとともに、学界、産業界、政府機関間の継続的な協力によりイノベーションが促進されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "この国は、特にチタンやニッケル超合金などの高性能合金向けの高品質の認定粉末の開発に重点を置いており、その戦略目標を裏付けています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "厳しい航空宇宙規格を満たす粉末なので、OEM との長期契約を確保できます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "この取り組みは世界的な持続可能性の義務に沿ったものであり、環境に責任のあるサプライチェーンへの市場の移行を示しており、これは今後数年間の原材料調達と価格動向に影響を与える可能性があります",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "4. 測定と認定：基準を引き上げ、課題に挑む",
+    "url": "https://www.eos.info/ja/content/blog/know-how/metal-myths-exposed",
+    "pass": 3
+   },
+   {
+    "quote": "LPBFにおける資格認定と測定は厳格であり、時に過剰とも言えるほどです",
+    "url": "https://www.eos.info/ja/content/blog/know-how/metal-myths-exposed",
+    "pass": 3
+   },
+   {
+    "quote": "今日では数十種類の認定材料が利用可能であり、さらに新たな材料が絶えず開発されている",
+    "url": "https://www.eos.info/ja/content/blog/know-how/metal-myths-exposed",
+    "pass": 3
+   },
+   {
+    "quote": "5 年間常駐させレーザの特性を学び、レーザ加工技術の習得",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年の年間平均成長率を＋9.1％、2022年の市場",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "域における、イ. 指定期間での、 ウ. 全検索回数に対する指定",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「LUMEX Avance-25」）を使用して3 年間で180",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属粉末市場はこれまでどのように推移し、今後数年間はどのように推移するでしょうか？",
+    "url": "https://www.gii.co.jp/report/imarc1922865-japan-metal-powder-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間契約型情報サービス",
+    "url": "https://www.gii.co.jp/report/imarc1922865-japan-metal-powder-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年（2025年）の年間データに基づき、金額順にソルトしたランキング構造は以下の通りです",
+    "url": "https://boueki.standage.co.jp/japan-import-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の年間輸入総額は113兆3,301億円（前年比＋0.5%）であり、",
+    "url": "https://boueki.standage.co.jp/japan-import-ranking/",
+    "pass": 3
+   }
+  ],
+  "上位シェア・主要企業": [
+   {
+    "quote": "金属粉末を用いた付加製造市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "を超える市場シェアでリードしました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフ：金属粉末を用いた積層造形市場の売上高シェア（%）、用途別（2025年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末を用いた積層造形市場シェアと競争環境",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属パウダーを用いた3Dプリンティング業界の主要企業は誰ですか",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<h1>3Dプリンティング市場規模とシェア、2025～2034年</h1>",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<th>2024年市場シェア</th>",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<p>航空宇宙・防衛産業は__NUMVAL_10__の市場シェアを占め、引き続き主要成長分野となっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車産業は__NUMVAL_12__のシェアを保有し、プロトタイピングと部品製造での採用が増加しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<h2>主要企業と競争環境</h2>",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<p>3Dプリンティング市場の主要企業には、3D Systems Corporation、Additive Industries、Advanced Powder & Coatings, Inc、Aubert & Duval S.A、Aerojet Rocketdyne（L3Harris傘下）、Airbus SE、Allegheny Technologies（ATI）、APWorks、Xi'an Bright Laser Technologies、Carpenter Technologies Corp、Colibrium Additive（GE Additive傘下）、Constelliumなどが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<p>これら主要企業は、生産能力の拡大、研究開発投資の増加、戦略的パートナーシップの構築を通じて競争力を強化しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<li><strong>レポート範囲：</strong>市場規模、シェア、成長動向、競争環境、機会分析</li>",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<dt>最大の市場シェアを占めるセグメントはどれですか？</dt>",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形市場の規模とシェア、プリンタータイプ別（デスクトッププリンター、産業用プリンター）、材質別、業界別、テクノロジー別、ソフトウェア別、アプリケーション別、サービス別 - グローバル需給分析、成長予測、統計レポート 2026-2035",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までに44.3％のシェアを獲得",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "世界貿易のシェア",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "北米の付加製造市場は、強力な研究開発能力と潤沢な連邦政府資金に支えられ、2035年までに44.3%のシェアを確保すると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までに、連続生産に適した信頼性の高い大型システムへの需要の高まりにより、積層造形市場における産業用プリンターセグメントは、全体シェアの68.5%を占めると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "高度な製造業における機能的で高性能な部品の採用が増えているため、材料セグメント内の金属サブタイプは 2035 年までにかなりのシェアを占めると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "北米（2035年までに44.3%のシェア）",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間の終わりまでに、産業用プリンターセグメントは、積層造形市場で68.5％という最大のシェアを獲得すると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "材料セグメントでは、金属サ​​ブタイプが2035年末までに高いシェア価値で市場をリードすると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場は、議論された任期を通じて44.3％という最高のシェアを維持すると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場シェア",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2035 年までに、どのエンドユーザー セグメントが積層造形市場で大きな市場シェアを獲得するでしょうか?",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "プリンターの種類別に見ると、産業用プリンターセグメントは2035年までに68.5%という最大の市場シェアを獲得し、2026年から2035年にかけて大きな成長機会を示すことが予想されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場は、2035年末までに44.3%の最大の市場シェアを占めると予測されており、将来的にはさらに多くのビジネスチャンスが生まれると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "アディティブ・マニュファクチャリング（AM）向けガスアトマイズド金属粉末の世界的な主要企業には、サンドビック、リンデAMT、ホーガネスAB、エラスティール（エラメット・グループ）、OSAKAチタニウム・テクノロジーズなどが含まれます",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界トップ2社が市場シェアの約％を占めました",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "本インサイトレポートは、世界の積層造形（AM）用ガスアトマイズド金属粉末の市場動向を包括的に分析し、製品セグメンテーション、企業動向、売上高、市場シェア、最新の開発動向、およびM&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、世界的な主要企業の戦略についても分析しています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要メーカー、主要地域および国別に、積層造形（AM）用ガスアトマイズド金属粉末市場の包括的な概要、市場シェア、成長機会を提示します",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "また、カスタムAM金属粉末とレギュラーAM金属粉末の2つのタイプ別の市場分析、および2021年から2026年までのタイプ別の世界販売シェア、収益、販売価格に関する詳細なデータが示されています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、チタンベース、銅ベース、タングステンベース、ニッケルベース、鉄ベース、その他の粉末原料別の市場分析、および2021年から2026年までの粉末原料別の世界販売シェア、収益、販売価格のデータも提供されています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "最後に、航空宇宙、医療機器、工業用金型、自動車製造、エネルギー・電力などの用途別の市場分析、および2021年から2026年までの用途別の世界販売シェア、収益、販売価格の詳細が記載されています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業別の積層造形（AM）用ガスアトマイズド金属粉末の年間販売量とその市場シェア、年間収益とその市場シェア、および企業別の販売価格のデータが含まれています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "主要メーカーの生産地域分布、販売地域、製品タイプに関する情報も提供されています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "第13章には、主要企業の詳細な分析が個別にまとめられています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "合計で29社の主要企業が分析対象となっています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースのシェア",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属粉末市場規模、シェア、および成長レポート 2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属粉末市場規模、シェア、動向および予測材料、技術、用途、地域別、2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、すべての主要企業の詳細なプロフィールが提供されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境は、利害関係者が競争環境を理解することを可能にし、市場における主要企業の現在のポジションについての洞察を提供します",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本粉体塗装装置市場規模、シェア、動向および予測樹脂タイプ別、コンポーネント別、最終用途産業別、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本パウダーコーティング市場規模、シェア、動向および予測樹脂タイプ、コーティング方法、用途、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の粉末冶金市場規模、シェア、動向、予測タイプ、材料、製造プロセス、用途、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のフルーツパウダー市場規模、シェア、動向および予測果物の種類別、技術別、流通チャネル別、用途別、地域別2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末を用いた積層造形市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析―製造技術別、素材タイプ別、アプリケーション別、及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェアの観点から、",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末を用いた積層造形に関する当社の市場調査によれば、予測期間において、北米市場が約38.5%という圧倒的な市場シェアを維持すると見込まれます",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "会社の収益シェアモデル",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "SDKI Analyticsの専門家によると、Additive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)の世界シェアに関するレポートのインサイトは、以下の通りです:",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、当社の分析によれば、粉末床溶融結合技術が市場シェアの46%を占め、今後も主導的な地位を維持すると予測されます",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "分野における金属粉末を用いた積層造形のアプリケーションが最大のサブセグメントとなり、市場全体の44%のシェアを占めると予測されています",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "北米のAdditive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)は、予測期間において38.5%という圧倒的な収益シェアを確保し、世界市場において主導的な地位を確立すると見込まれています",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "において事業を展開する、世界の主要企業はどれですか",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによれば、世界のAdditive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)の成長において重要な役割を果たしている主要企業には、Sandvik AB、Höganäs AB、Carpenter Technology Corporation、GKN Powder Metallurgy、Oerlikon AMなどが挙げられます",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   }
+  ],
+  "ニッチ度（供給元の数・寡占）": [
+   {
+    "quote": "これらの枠組みは参入障壁を高めますが、検証された粉末・機械・部品の組み合わせが生産に入ると、商業的に持続性を持たせます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "新製品や潜在的な参入企業、市場のM&A活動と戦略についても言及されています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "ポーターのファイブ・フォース分析は、利害関係者が新規参入の影響、競合関係、供給者パワー、買い手パワー、代替の脅威を評価するのに役立つ",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "が、日本の市場参入企業にもたらす恩恵は何ですか",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末の供給元を評価する際、基本スペック以外の特典を考慮する必要がある：",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのイノベーションは、新規参入者の参入障壁を下げるだけでなく、既存のプレーヤーが優れた製品品質とプロセスの機敏性によって差別化できるようにします",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "特殊粉末の規模の経済性が限られており、単価の上昇につながる",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "戦略的金属を調達するための限られた多様化オプション",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙、医療、防衛などの重要な分野に合わせて調整された認証フレームワークにより、参入障壁が軽減され、導入が加速されます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのテクノロジーが成熟するにつれて、参入障壁が低くなり、プロセスの標準化が改善され、より回復力と応答性の高いサプライチェーンが促進され、最終的に市場の成長とイノベーションが加速されます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "課題には、限られた地元の原材料処理やサプライチェーンの脆弱性が含まれますが、地域の協力と地元の粉末生産への投資により、これらの問題は軽減されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "多くのメーカーは今なお、金属3Dプリントを初期の制約――限られた材料、再現性の疑問、「低速」、気孔率への懸念――というレンズを通して見ている",
+    "url": "https://www.eos.info/ja/content/blog/know-how/metal-myths-exposed",
+    "pass": 3
+   },
+   {
+    "quote": "LPBFが限られた数種類の合金にしか適用できないという神話は、ダイヤルアップモデム同様に時代遅れだ",
+    "url": "https://www.eos.info/ja/content/blog/know-how/metal-myths-exposed",
+    "pass": 3
+   },
+   {
+    "quote": "ポーターの5フォース分析は、新規参入者、競争上の対立、サプライヤーの交渉力、買い手の交渉力、代替品の脅威の影響を評価するのに役立ち、日本の金属粉末業界内の競争レベルとその魅力度を分析する上で重要です",
+    "url": "https://www.globalresearch.jp/data/japan-metal-powder-market-imarc/",
+    "pass": 3
+   },
+   {
+    "quote": "12.2.5 新規参入者の脅威",
+    "url": "https://www.globalresearch.jp/data/japan-metal-powder-market-imarc/",
+    "pass": 3
+   },
+   {
+    "quote": "第12章には日本の金属粉末市場の業界分析が記載されており、推進要因、抑制要因、機会（その概要と詳細）、ポーターのファイブフォース分析（その概要と、買い手の交渉力、サプライヤーの交渉力、競争の程度、新規参入の脅威、代替品の脅威）、およびバリューチェーン分析が含まれています",
+    "url": "https://newscast.jp/news/2810444",
+    "pass": 3
+   }
+  ],
+  "日本の買い手と供給元": [
+   {
+    "quote": "グローバル、北米、欧州、日本で最も高い強度",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国は国内航空宇宙、自動車、機器、および材料能力の組み合わせを通じて、当地域の成長の中心となっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "インド、日本、韓国、オーストラリアは防衛、産業、医療、および先進製造プログラムを通じて需要を追加しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方、サプライチェーンの面では、この分野の企業は3Dプリンティングを活用してリードタイムを短縮し、在庫を最小限に抑え、国内生産を可能にして、世界的な物流による混乱を緩和しています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "この点で、インド電子情報技術省は2022年2月に、主にデジタル製造と、Make in IndiaおよびAtmanirbhar Bharatイニシアチブの下での国内生産の強化に焦点を当てた積層造形に関する国家戦略を発表したと報告しました",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "4位 日本 - 5億2900万米ドル",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "ANSYS, Inc. (米国)、Höganäs AB (スウェーデン)、EOS (ドイツ)、Stratasys (米国)、Renishaw plc. (英国)、ヤマザキマザック株式会社 (日本)、Materialise (ベルギー)、Markforged (米国)、Titomic Limited (オーストラリア)、SLM Solutions (ドイツ)、Proto Labs (米国)、ENVISIONTEC US LLC (米国)、Ultimaker BV (オランダ)、American Additive Manufacturing LLC (米国)、Optomec, Inc. (米国)、3D Systems Inc. (米国)、ExOne (米国)",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "米国、中国、ドイツ、日本、英国",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "(日本、中国、インド、インドネシア、マレーシア、オーストラリア、韓国、その他のアジア太平洋地域)",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "日本、中国、インドなどの主要国は、民生用電子機器、自動車、医療部品にAMを活用しており、一方で地域的なデジタル化はAMをより身近なものにしています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月、島津製作所は、大学や産業界のパートナーと共同で統合型金属積層造形システムを開発するための5年間の研究開発プログラムに、日本のNEDOに選定されたと発表しました",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "、スマートシティへの戦略的投資、国内生産の増加、そして高付加価値製造業の台頭により急速に拡大している積層造形市場において、中心的な役割を担う存在として認識されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "国内企業は、大規模な製造拠点を活用し、革新的なオンデマンド生産への需要の高まりを受け、ポリマー印刷と金属印刷の両方において、生産規模の拡大に継続的に注力しています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、中国国内のメーカーは、材料性能、印刷速度、精度の向上を目指し、研究開発にも投資しています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "このコラボレーションは、複雑なアセンブリを簡素化し、国内外のOEMにサービスを提供する堅牢なAMサプライチェーンを構築することを目的としています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "国家戦略とイノベーションハブも、国内企業による積層造形導入の拡大を支援しています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "Japan (+81)",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "Japan オフィス",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までのAPACの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）の販売量と収益、タイプ別の販売量、および用途別の販売量に関するデータが提供されています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：積層造形（AM）用ガスアトマイズド金属粉末の世界市場2026年～2032年",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属粉末市場規模、シェア、および成長レポート 2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属粉末市場",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属粉末市場規模、シェア、動向および予測材料、技術、用途、地域別、2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属粉末市場の概要：",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属粉末市場規模は、2025年に",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属粉末市場動向：",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "アディティブ・マニュファクチャリング（AM）と金属3Dプリンティングは、航空宇宙、自動車、医療機器などの分野における高精度で軽量な部品への需要の高まりに後押しされ、日本の製造業の状況を急速に変化させている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、大同特殊鋼やJFEスチールなどの国内メーカーも事業を拡大している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "イノベーションと伝統的なモノづくりの融合は、3Dプリンターが前例のない設計の柔軟性と製造効率を可能にする、日本の進化する産業アイデンティティを反映している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "2050年までの電動化とカーボンニュートラルに向けた日本の野心的な動きは、先端材料、特に磁性合金、電池電極、燃料電池、軽量構造部品の開発に重要な役割を果たす金属粉末の需要を大幅に押し上げている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本がグリーン・エネルギー・インフラストラクチャーを拡大する中、金属粉末はクリーン技術全体の性能、持続可能性、リサイクル性を高める基盤材料として台頭している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属粉末市場のセグメンテーション：",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属粉末市場ニュース：",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属粉末市場レポートカバレッジ：",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属粉末市場はこれまでどのように推移し、今後どのように推移していくのか?",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "必要に応じて日本語レポートが入手可能",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "が、日本の市場参入企業にもたらす恩恵は何ですか",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "当社のSDKI市場予測によると、日本のAdditive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)は、国内の強固な自動車産業基盤を背景に、世界市場において力強い成長を遂げると予測されています",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "日本自動車工業会による報告書によれば、2023年の日本の自動車生産台数は8.99百万台に達しており、これが軽量かつ高耐久性、さらにはカスタマイズ可能な部品に対する旺盛な需要を牽引しています",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "こうした技術的優位性に加え、増加傾向にある海外からの直接投資や政府主導の研究開発（R&D）プログラムが相乗効果をもたらすことで、日本企業はサプライチェーンを強化し、輸入への依存度を低減させるとともに、国際競争力を一層拡大させることが可能となります",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "自動車生産の拡大、支援的な政策、そして先進的な製造技術が三位一体となって連携することで、アディティブマニュファクチャリングは、日本の産業の未来を根本から変革する原動力として、その地位を確立しつつあります",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "、デンマーク）、アイルランド、スイス、オーストリア、ポーランド、トルコ、ロシア、その他のヨーロッパ）、ポーランド、トルコ、ロシア、その他のヨーロッパ）、アジア太平洋（中国、インド、日本、韓国、シンガポール、インドネシア、マレーシア）",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "において、競合している主要な日本企業はどれですか",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月、Nihon Chuzo Co., Ltdは、Bright Laser Technologies（BLT）社が開発した国内最大級の金属粉末床溶融結合（PBF-LB/M）方式3Dプリンターを、2026年初頭に導入することを決定しました",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "本機の納入は、BLT社の国内におけるリースおよび販売代理店パートナーであるOrix Rentec Corporationによって行われることとなりました",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場のトップ 5 プレーヤー",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末を用いた積層造形市場 における日本のキープレーヤートップ5は誰ですか?",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによれば、Morimura Bros., Inc.、Matsuura Machinery Ltd.、 Nippon Steel Corporation、Hitachi Metals、Mitsubishi Heavy Industriesなどが、Additive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)において、日本国内で事業を展開する主要企業として挙げられます",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "Analyticsは、日本を代表するリサーチと戦略コンサルティング会社です",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "日本のニュース",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://am-printing.com/ja/atomized-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "米国、日本、韓国、中国、ドイツ、インドの6カ国に拠点を持ち、世界30か国以上においてビジネスパートーと提携しています",
+    "url": "https://qyresearch-news.hatenablog.jp/entry/2026/04/20/123109",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、米国、日本、韓国、中国、ドイツ、インド、スイス、ポルトガルに拠点を置き、世界160ヵ国以上、65,000社以上の企業に産業情報サービスを提供しており、グローバル市場での最新動向を提供し、最適な戦略の立案を支援しています",
+    "url": "https://qyresearch-news.hatenablog.jp/entry/2026/04/20/123109",
+    "pass": 3
+   },
+   {
+    "quote": "日本の住所：〒104-0061東京都中央区銀座 6-13-16 銀座 Wall ビル UCF５階",
+    "url": "https://qyresearch-news.hatenablog.jp/entry/2026/04/20/123109",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5893-6232（日本）；0081-5058936232（グローバル）",
+    "url": "https://qyresearch-news.hatenablog.jp/entry/2026/04/20/123109",
+    "pass": 3
+   },
+   {
+    "quote": "japan@qyresearch.com",
+    "url": "https://qyresearch-news.hatenablog.jp/entry/2026/04/20/123109",
+    "pass": 3
+   },
+   {
+    "quote": "における情報を集めた国内最大級の技術データベースサイトです",
+    "url": "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の市場でこれから来る！３Dプリンタの金属粉末のご紹介！",
+    "url": "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "誌面を一新した「レーザー、PTA用盛金用合金粉末カタログ（近日、日本語版を",
+    "url": "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "pass": 3
+   }
+  ],
+  "日本の顧客が買うか（需要の証拠）": [
+   {
+    "quote": "指向性堆積は異なる採用経路を持っています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器採用および規制パス成熟",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー部門の採用は、金属粉の役割を新部品製造を超えて拡大しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部門の採用は、粉末と印刷システムが低～中容量部品を経済的に実現可能にできるかどうかにかかっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "原子力部品の適格化、タービンおよび産業修理、および再生可能エネルギー製造は個別の採用経路を作成し、単一のエネルギーサブセクターへの依存を軽減します",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "貴社の調査ニーズに基づき、地域分析、国別分析、企業プロファイル、またはその他のセグメント別インサイトを個別に購入できます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "<li>高い初期投資コストと装置購入価格</li>",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車産業は__NUMVAL_12__のシェアを保有し、プロトタイピングと部品製造での採用が増加しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "同地域の成長は、デジタル製造の進歩、堅牢なインフラストラクチャ、および航空宇宙、防衛、医療産業における採用の増加によって促進されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "政府の調達記録および政策文書",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "経営幹部、調達責任者、技術専門家",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "投資・資金調達の動向",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "ご購入前のお問い合わせ",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙、自動車、ヘルスケア、消費財などの業界では、さまざまな業界での採用が増加しており、これが積層造形市場の大幅な成長を推進する主な要因となっています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "これは、単一ソースの調達からオープンソースの調達への大きな転換を示し、ベンダー間の競争を促進しています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の輸出額＋輸入額",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "高度な製造業における機能的で高性能な部品の採用が増えているため、材料セグメント内の金属サブタイプは 2035 年までにかなりのシェアを占めると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "この連携により、生産計画、安全性、効率性が向上し、メーカーが産業用途向けにスケーラブルな樹脂ベースのAMを採用しやすくなります",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月、Fabric8Labsは5,000万米ドルを調達し、米国での電気化学的積層造形生産を拡大し、熱管理、無線通信、パワーエレクトロニクス向けの部品の年間生産能力を500万個から2,200万個に増強しました",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "この資金調達はNEAとIntel Capitalが主導し、エンジニアリングチームと生産チームを拡大し、AI / HPC、RF、EVシステムのプログラムを加速します",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "このセクターは、最終用途部品へのAM採用の先駆者として台頭しています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "Make in Indiaやデジタル製造目標などの政府の取り組みは、特に航空宇宙、自動車、防衛などの分野での採用の増加に役立っており、",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、残留応力、歪み、造形不良を予測するための積層造形シミュレーション機能を効率的に強化し、採用拡大に貢献しています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "このため、航空宇宙、自動車、医療、エネルギー産業など広範な分野で積層造形技術が採用されています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "ご購入前のお問い合わせ",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、最近の調査報告書では、迅速な試作（ラピッドプロトタイピング）やカスタマイズ部品の製造において、金属粉末を用いた積層造形の採用が広がりを見せている点も指摘されています",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "国際ロボット連盟（IFR）の報告によると、中国では2023年に276,288台の産業用ロボットが導入され、これは世界の導入台数全体の51%を占めています",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "本システムは、レーザー粉末床溶融結合（LPBF）方式を採用したプリンターです",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "pass": 3
+   },
+   {
+    "quote": "価格は、合金の組成、粒子の特性、パウダーの品質、購入量によって異なります",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "製品を調達する前に、すべての仕様を確認してください",
+    "url": "https://am-printing.com/ja/atomized-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "社内の使用量予測に基づき、調達サイクルを計画する",
+    "url": "https://am-printing.com/ja/atomized-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ材料や金属射出成形材料としても採用！球状のアモルファス合金粉末",
+    "url": "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "合金粉末の海外調達により、コスト削減を実現致します！",
+    "url": "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形 - 一般原則 - 購入AM部品の要件",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "キャリア採用",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子工業株式会社は、高周波焼入れ技術の分野で長年の実績を持ち、金属積層造形技術を採用することでさらなる進化を目指しています",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "この特徴を活かして「部品の強度を落とさない軽量化」「冷却性能などを目的とした中空構造の採用」の面で、従来工法の常識を大きく覆すモノづくりが可能になると期待されています",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "内部流路を備えた金型や、内部中空構造を採用したEVモーターのハウジングなど、熱を効果的に逃がす冷却性能の向上が求められる部品に採用されています",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした重要部品には3Dプリンティング技術を活用した特別な形状の部品が採用されていく可能性が高いでしょう",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "ロケットや人工衛星部品などの生産点数が少ないが非常に高額な部品の製造にも採用報告が相次いでいます",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター購入のための助成金・補助金の制度",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター購入時に使える税制優遇措置",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "購入前にお試し！業務用3Dプリンターが利用できる公共施設",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "採用応募フォーム",
+    "url": "https://jampt.jp/column/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "ため、多くの産業分野で採用されています",
+    "url": "https://jampt.jp/column/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "小型月面着陸実証機SLIM脚部の衝撃吸収材として採用され、ピンポイント着陸の成功に貢献",
+    "url": "https://jampt.jp/column/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "調達における社会的責任",
+    "url": "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的な採用応募フォーム",
+    "url": "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "ヘガネスは、金属粉を使用した3Dプリンティング(積層造形)が近い将来に量産工程でも採用されると確信しています",
+    "url": "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "市場の将来は、プロセス シミュレーションのためのデジタル ツインの採用の増加、閉ループ品質管理システムの進化、予知保全とプロセス パラメーターの最適化のための人工知能 (AI) の統合などの構造的な力によって形作られるでしょう",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "AI アルゴリズムは、高度なシミュレーションとデータに基づいた洞察を通じて、強度重量比、耐食性、または熱安定性を最大化する微細構造構成を特定できるため、合金開発で従来採用されてきた試行錯誤のアプローチを軽減できます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、AI モデルは、原材料の調達から耐用年数終了後のリサイクルに至る粉体のライフサイクル全体をシミュレートし、循環経済統合の機会を特定できます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "市場の将来では、AM ワークフロー全体をシミュレートする AI を活用したデジタル ツインの採用が増加し、メーカーがプロセスを事前検証し、パフォーマンスの結果を高精度で予測できるようになります",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "業界関係者がこれらの機能を活用するにつれて、市場は加速的な成長、より広範なアプリケーションの採用、および金属積層造形で可能なものの境界を再定義する、よりインテリジェントで自律的な製造システムへの移行を経験することになります",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "市場の将来は、原材料調達、プロセスの最適化、規制の枠組み、最終用途業界の要件を含む複雑な相互依存関係によって形作られており、需要と供給の均衡、技術の採用、競争上の地位を支配する基礎となる仕組みを微妙に理解することが求められます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "主な促進要因には、製造の機敏性の絶え間ない追求、軽量で高性能な材料の採用の増加、持続可能な生産慣行の推進、複雑な形状に対する需要の高まり、サプライチェーンの回復力を確保するための業界リーダーによる戦略的投資が含まれます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの推進力を詳細に理解すると、203 年まで市場の拡大と技術の採用に影響を与え続ける根本的な力が明らかになります",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "プロセス最適化のためのデジタルツインとシミュレーション主導の設計の採用の増加",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、リサイクルされた金属や責任を持って採掘された鉱石などの原材料の持続可能な調達慣行の採用は、世界的な環境政策や企業の ESG への取り組みと一致しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   }
+  ],
+  "再生・循環": [
+   {
+    "quote": "VoxelMatters は、原子力、石油・ガス、再生可能エネルギー設定での運用アプリケーション（積層造形された原子力燃料部品と修復指向のアプリケーションを含む）を文書化しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "原子力部品の適格化、タービンおよび産業修理、および再生可能エネルギー製造は個別の採用経路を作成し、単一のエネルギーサブセクターへの依存を軽減します",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能エネルギー",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "このプリンターは、同社のプレス工場から完全にリサイクルされた金属粉末を使用するため、持続可能性と循環型経済の実践が促進されます",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、同社は持続可能性にも重点を置いており、SAFシステムにおける粉末リサイクルを推進しています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、環境に配慮したリサイクル可能な粉末の開発や、新たな合金の創出が進むことで、より高性能な部品の製造が実現するでしょう",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "日本がグリーン・エネルギー・インフラストラクチャーを拡大する中、金属粉末はクリーン技術全体の性能、持続可能性、リサイクル性を高める基盤材料として台頭している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sun Metalon Inc.は、金属産業の脱炭素化を目指した独自の金属粉リサイクル技術を推進するため、シリーズAで2100万米ドルの資金を確保した",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "同社の革新的な電磁加熱プロセスは、金属廃棄物を溶融することなく再利用可能な金属粉に効率的に変換し、エネルギー消費を最大85％削減し、再生可能エネルギーで駆動した場合、CO₂排出ゼロを達成する可能性がある",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "未使用のパウダーをリサイクルすることで材料の無駄を削減し、高価な合金を使用した印刷の費用対効果を改善することができます",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "Q:バージン金属粉とリサイクル金属粉の違いは何ですか？",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクルパウダーは印刷後に回収され、再利用されたパウダーです",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクルパウダーは20-30%と安価ですが、汚染や何度も再利用するうちに特性が変化するリスクがあります",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "Q: AMにおける粉体のリサイクル性はどのような役割を果たしますか？",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "A: 特に高価な合金の場合、印刷後の未使用パウダーをリサイクルすることで、材料の無駄とコストを削減できます",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "不活性雰囲気または真空を使用したプロセスでは、酸化を最小限に抑え、リサイクル性を向上させることができます",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉のリサイクルは可能ですか？",
+    "url": "https://am-printing.com/ja/atomized-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "はい、多くの一般的な合金とレーザーパウダーベッド印刷用パウダーのリサイクルプログラムを提供しています",
+    "url": "https://am-printing.com/ja/atomized-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクルパウダーは安価ですが、プロトタイプ開発には最適です",
+    "url": "https://am-printing.com/ja/atomized-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "使用済粉末のリサイクルにも取り組んでいます",
+    "url": "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "買い取りまたはリサイクル・プログラム",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉リサイクル",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "AMでは金属粉が部品コストの30～50%を占めるため、リサイクルは大きな節約につながります",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクルパウダーをバージンストックと管理された比率でブレンドする",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "再利用可能なリサイクル・ブレンドの品質チェックを行う",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "爆発的な拡大を続ける金属粉末のリサイクルは、成長にとって極めて重要である",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクル：",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、AI モデルは、原材料の調達から耐用年数終了後のリサイクルに至る粉体のライフサイクル全体をシミュレートし、循環経済統合の機会を特定できます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクル可能かつ再利用可能な金属粉末と、閉ループ粉末回収システムの開発が勢いを増しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、リサイクルされた金属や責任を持って採掘された鉱石などの原材料の持続可能な調達慣行の採用は、世界的な環境政策や企業の ESG への取り組みと一致しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "廃棄物を削減するリサイクル・再利用可能な金属粉末の開発",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "環境への影響と原材料コストを削減するためのリサイクル原材料の使用",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのリスクにより、メーカーは代替資源の模索、リサイクル材料の開発、またはそれほど重要ではない合金の革新を余儀なくされますが、そのような移行には技術的および経済的課題が伴うことがよくあります",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "リスクを軽減するためのリサイクルと代替合金開発の必要性",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、持続可能性、デジタル化、サプライチェーンの回復力が重視されるようになったことで、リサイクル粉末、オンデマンド製造、統合供給エコシステムなどの新しいビジネスモデルへの道が開かれています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクル・再利用可能な金属粉末の開発",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "持続可能な製造手法への移行は、リサイクル可能で再利用可能な金属粉末を開発する重要な機会を提供します",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクル粉末が一貫した品質で生産されれば、特に原材料不足に直面している地域において、コストを削減し、サプライチェーンの回復力を向上させることができます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、AP&C のような企業は高純度のリサイクルチタン粉末を開発し、持続可能なソリューションの商業的実現可能性を実証しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクル材料に対応するために業界標準が進化するにつれて、そのような粉末の市場は拡大し、早期採用者や環境に配慮したメーカーに競争力をもたらします",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "再生粉の品質・性能基準の制定",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "環境に優しい粉末、リサイクルプロトコル、エネルギー効率の高いプロセスの開発は、世界的な環境目標と企業の ESG への取り組みと一致しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "pass": 3
+   },
+   {
+    "quote": "並行して、エネルギー価格の上昇やリサイクル規制の強化といった規制・資源動向が、日本の生産者に微粉化、粉末回収、プロセス効率の最適化を迫っている",
+    "url": "https://www.marketresearch.co.jp/mrc-bf09j11-japan-metal-powder-market-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "エプソンアトミックスの新金属リサイクル施設など大規模投資は、循環型材料利用と持続可能な粉末原料への優先度転換を浮き彫りにしている",
+    "url": "https://www.marketresearch.co.jp/mrc-bf09j11-japan-metal-powder-market-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "持続可能性への規制重視も、日本の広範な環境目標に沿った再生非鉄金属粉末への関心を後押ししている",
+    "url": "https://www.marketresearch.co.jp/mrc-bf09j11-japan-metal-powder-market-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "特に持続可能な製造工程やリサイクル技術の開発が求められる中、金属粉末はますます重要な要素となるでしょう",
+    "url": "https://www.marketresearch.co.jp/mrc-bf09j11-japan-metal-powder-market-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "クリーンエネルギーインフラにおいて、金属粉末は、その優れた特性により、クリーン技術全体の性能向上、持続可能性の確保、そしてリサイクル性の強化に不可欠な基盤材料として、ますますその重要性を高めています",
+    "url": "https://www.globalresearch.jp/data/japan-metal-powder-market-imarc/",
+    "pass": 3
+   },
+   {
+    "quote": "金属産業の脱炭素化という喫緊の課題に対応するため、独自の金属粉末リサイクル技術の推進を目的として、シリーズA資金調達ラウンドで2,100万米ドル（約30億円超）を確保しました",
+    "url": "https://www.globalresearch.jp/data/japan-metal-powder-market-imarc/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、再生可能エネルギー源で稼働する際にCO2排出量ゼロを達成する電気モーターの効率向上に貢献するものです",
+    "url": "https://www.globalresearch.jp/data/japan-metal-powder-market-imarc/",
+    "pass": 3
+   },
+   {
+    "quote": "日本がグリーンエネルギーインフラを拡大する中、金属粉末はクリーンテクノロジー全体において性能、持続可能性、リサイクル性を高める基盤材料として台頭しています",
+    "url": "https://www.gii.co.jp/report/imarc1922865-japan-metal-powder-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本がグリーンエネルギーインフラを拡大するにつれて、金属粉末はクリーンテクノロジー全体で性能、持続可能性、リサイクル性を高める基礎材料として浮上しています",
+    "url": "https://newscast.jp/news/2810444",
+    "pass": 3
+   },
+   {
+    "quote": "製造業にとって、エコやリサイクルという言葉は過去10年を振り返っても重要視されていたし、取り組みは多種行われていたが、より踏み込んだ対応を求められているとも言える",
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は米国とシンガポールに拠点を持ち、数々のビジネスアワードに輝いた金属材料リサイクルの取り組みを行っている企業であるContinuumを紹介する",
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "pass": 3
+   },
+   {
+    "quote": "シンガポールで旗揚げし世界中に拠点を伸ばそうとしている同社は、AM用金属材料のリサイクルで世界の企業からの注目を集めている",
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "pass": 3
+   },
+   {
+    "quote": "米軍にも採用された金属粉末のリサイクル装置",
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "pass": 3
+   },
+   {
+    "quote": "金属リサイクル粉末の分野における皆さんのご活動は以前から噂に聞いていました",
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは100％リサイクル素材を利用した金属用の粉末の製造と販売を行っています",
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "pass": 3
+   },
+   {
+    "quote": "Marc氏：こうした金属リサイクルは、従来であれば、廃棄するために他国に輸送され、他の合金と混ぜ合わされ、より低付加価値なリサイクル処理をうけることが多かったと思います",
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクルした金属粉末の方がより手間がかかっているはずですので、コストが高くなっているのではと思うのですが、何故安価に提供できるのでしょうか？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、失敗した造形物がリサイクル可能であれば、そのコストも軽減されます",
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "2025年、世界の積層造形（AM）用ガスアトマイズド金属粉末の生産量は約19キロトンに達し、世界平均市場価格は1kgあたり約200米ドルでした",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "また、カスタムAM金属粉末とレギュラーAM金属粉末の2つのタイプ別の市場分析、および2021年から2026年までのタイプ別の世界販売シェア、収益、販売価格に関する詳細なデータが示されています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、チタンベース、銅ベース、タングステンベース、ニッケルベース、鉄ベース、その他の粉末原料別の市場分析、および2021年から2026年までの粉末原料別の世界販売シェア、収益、販売価格のデータも提供されています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "最後に、航空宇宙、医療機器、工業用金型、自動車製造、エネルギー・電力などの用途別の市場分析、および2021年から2026年までの用途別の世界販売シェア、収益、販売価格の詳細が記載されています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業別の積層造形（AM）用ガスアトマイズド金属粉末の年間販売量とその市場シェア、年間収益とその市場シェア、および企業別の販売価格のデータが含まれています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "Sandvik、Linde AMT、Höganäs ABなど、各企業について、会社情報、積層造形（AM）用ガスアトマイズド金属粉末の製品ポートフォリオと仕様、2021年から2026年までの販売量、収益、価格、粗利益、主要事業の概要、および最新の動向が詳細に記載されています",
+    "url": "https://newscast.jp/news/9786454",
+    "pass": 3
+   },
+   {
+    "quote": "$50-100/kg",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "$50-150/kg",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "$50-200/kg",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "$200-500/kg",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "$100-300/kg",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "$150-250/kg",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "$1500-3000/kg（金、銀用",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙用途で最も一般的に使用されるTi-6Al-4V合金は$250-500/kgの範囲である",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "より高度なチタン合金は$800/kgを超えることもあります",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "積層製造用Ti6Al4V粉末業界の需給分析：販売量、価格動向、供給能力と市場予測2025-2031 …",
+    "url": "https://qyresearch-news.hatenablog.jp/entry/2026/04/20/123109",
+    "pass": 3
+   },
+   {
+    "quote": "1kgあたり$50-120",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "1kgあたり$70-150",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "$200-500/kg",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "1kgあたり$80-220",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "価格帯はPBF方式で3,000万円〜、DED方式で3,000万円以上、金属フィラメント方式なら数十万円から導入可能です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、金属3Dプリンターの価格・方式・メリット・デメリット・活用事例を徹底解説します",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "結果的に金属3Dプリンターは、樹脂3Dプリンターに比べて高価な装備が求められ、その分、装置価格が高額になる傾向があります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円～",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円以上",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター自体、レーザーなどの高額な部品を利用するため、装置価格が数千万円以上するケースも多く、まだ手軽に手を出せる装置ではないため、設計する側も、造形する側も試行錯誤をしながら取り組んでいるという反面、す早い段階から受託造形に取り組んでいる一部のサービスビューロはノウハウを蓄積し、世界的に知名度を上げているケースもあります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：製品タイプ別積層造形 (AM) 金属粉末市場規模・価格・シェア分析（2021～2032）",
+    "url": "https://qyresearch.hatenadiary.com/entry/2026/06/12/142349",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：用途別積層造形 (AM) 金属粉末市場規模・価格・シェア分析（2021～2032）",
+    "url": "https://qyresearch.hatenadiary.com/entry/2026/06/12/142349",
+    "pass": 3
+   },
+   {
+    "quote": "５．性能と価格",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "体の価格が約1000万円以上であり、かつメーカー",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "114億 3,000万円となっている",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5-3 材料や装置本体の価格",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "属粉末材料12の価格であるが、総じて一般に販売さ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "併せて、3Dプリンタ装置本体価格も高額である",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "式約2 億円の価格である",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "mm）の販売価格は一式約8,000 万円、一方、小物",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売価格は一式約3,000 万円と相当の価格差がある",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：財務省 関税局「令和7年分貿易統計（確々報）」（令和8年3月12日発表）に基づき作成（輸入価格はCIFベース）",
+    "url": "https://boueki.standage.co.jp/japan-import-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "資源価格が再び上昇基調に転じた場合、令和7年に縮小した鉱物性燃料の輸入額が急速に拡大し、国内の消費者物価や企業収益を直接的に圧迫する論理的な帰結となります",
+    "url": "https://boueki.standage.co.jp/japan-import-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年の実績では、国際的な資源価格の下落によって全体の伸びは微増に抑制されました",
+    "url": "https://boueki.standage.co.jp/japan-import-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "仮に大きな造形物をチタンで作って失敗すると100万円レベルの損失になります",
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "pass": 3
+   },
+   {
+    "quote": "パーツ価格: AM $100-500、鋳造 $10-50",
+    "url": "https://blog.met3dp.com/ja/blog/metal-additive-vs-casting-process-in-2026-volume-complexity-and-tooling-guide/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "積層造形用 金属粉末市場規模 の概要：成長分析と2026から ... — 積層造形用 金属粉末市場規模 の概要：成長分析と2026から ... LinkedIn https://jp.linkedin.com > pulse > 積層造形用金属粉末市...",
+    "url": "https://jp.linkedin.com/pulse/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E7%94%A8%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%A6%82%E8%A6%81%E6%88%90%E9%95%B7%E5%88%86%E6%9E%90%E3%81%A82026%E3%81%8B%E3%82%892033%E3%81%BE%E3%81%A7%E3%81%AE148cagr%E4%BA%88%E6%B8%AC-atlas-marketz-research-menme",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形用 金属粉末 の選び方 - Met3DP — 積層造形用 金属粉末 の選び方 - Met3DP Met3DP https://met3dp.com > ニュース",
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Powders for Additive Manufacturing Market Size to 2035 — Metal Powders for Additive Manufacturing Market Size to 2035 transparencymarketresearch.com https://www.transparencymarketresearch.com > ...",
+    "url": "https://www.transparencymarketresearch.com/metal-powders-additive-manufacturing-market.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "15.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "quote": "2026年の8.138億米ドルから2035年の29億米ドルに成長する見通しであり、2026～2035年にかけて年平均成長率（CAGR）15.4%で拡大すると予測されています"
+   },
+   {
+    "value": "15.47",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "quote": "合金粉末は最大の材料カテゴリであり、2025年に1.9672億米ドルと評価されており、2035年までに8.1946億米ドルに達すると予測されており、年平均成長率（CAGR）はおよそ15.47%です"
+   },
+   {
+    "value": "16.55",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "quote": "貴金属粉末は2025年の40.46百万米ドルから2035年の1.8504億米ドルに増加すると予測されており、年平均成長率（CAGR）はおよそ16.55%です"
+   },
+   {
+    "value": "16.81",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "quote": "タングステンは33.94百万米ドルから1.586億米ドルへの拡大が予想されており、年平均成長率（CAGR）はおよそ16.81%です"
+   },
+   {
+    "value": "16.19",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "quote": "DMDおよびLENSを含く吹き付け粉末技術は2025年の1.6701億米ドルから2035年の7.4016億米ドルに成長すると予測されており、最速の技術年平均成長率（CAGR）はおよそ16.19%です"
+   },
+   {
+    "value": "15.61",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "quote": "このセグメントの年平均成長率（CAGR）が約15.61%となることは、生産性、安全な粉末取扱い、および従来の大量生産の広範な置き換えではなく、対象となるアプリケーションにおける実証済みのコスト優位性に依存しています"
+   },
+   {
+    "value": "16.12",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "quote": "エネルギーは60.01百万米ドルから2.6434億米ドルに拡大すると予測され、年平均成長率（CAGR）が約16.12%と最速の用途成長率です"
+   },
+   {
+    "value": "21.4",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "quote": "予測期間（2026年から2035年）中、年平均成長率（CAGR）は21.4%です"
+   },
+   {
+    "value": "5.8",
+    "url": "https://newscast.jp/news/9786454",
+    "quote": "世界の積層造形（AM）用ガスアトマイズド金属粉末市場規模は、2025年の37億7500万米ドルから2032年には55億9400万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.8％で成長すると見込まれています"
+   },
+   {
+    "value": "4.06",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "quote": "（CAGR）4.06%"
+   },
+   {
+    "value": "22",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "quote": "当社のSDKI市場調査アナリストは、アジア太平洋地域の「金属粉末を用いた積層造形」市場が、予測期間を通じて年平均成長率（CAGR）22%以上を記録し、世界市場において最も急速な成長を遂げると予測しています"
+   },
+   {
+    "value": "6.2",
+    "url": "https://qyresearch.hatenadiary.com/entry/2026/06/12/142349",
+    "quote": "積層セラミックコンデンサー（MLCC）誘電体粉末の世界市場規模：年平均成長率6.2%予測、最新トレン…"
+   },
+   {
+    "value": "7.71",
+    "url": "https://www.marketresearch.co.jp/mrc-bf09j11-japan-metal-powder-market-overview/",
+    "quote": "ボナファイド・リサーチの調査報告書「日本金属粉末市場概況2030」によると、日本金属粉末市場は2025年から2030年にかけて年平均成長率（CAGR）7.71％超で拡大すると予測される"
+   },
+   {
+    "value": "4.06",
+    "url": "https://www.globalresearch.jp/data/japan-metal-powder-market-imarc/",
+    "quote": "今後、IMARCグループの予測によると、2034年には7億2320万米ドルに成長し、2026年から2034年までの予測期間における年平均成長率（CAGR）は4.06%を記録すると見込まれています"
+   },
+   {
+    "value": "4.06",
+    "url": "https://www.gii.co.jp/report/imarc1922865-japan-metal-powder-market-size-share-trends.html",
+    "quote": "今後、IMARCグループは2034年までに7億2,320万米ドルに達し、2026年から2034年にかけてCAGR 4.06％で成長すると予測しております"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "44.3",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "quote": "2035年までに44.3％のシェアを獲得"
+   },
+   {
+    "value": "68.5",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "quote": "2035年までに、連続生産に適した信頼性の高い大型システムへの需要の高まりにより、積層造形市場における産業用プリンターセグメントは、全体シェアの68.5%を占めると予想されています"
+   },
+   {
+    "value": "38.5",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "quote": "金属粉末を用いた積層造形に関する当社の市場調査によれば、予測期間において、北米市場が約38.5%という圧倒的な市場シェアを維持すると見込まれます"
+   },
+   {
+    "value": "46",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "quote": "したがって、当社の分析によれば、粉末床溶融結合技術が市場シェアの46%を占め、今後も主導的な地位を維持すると予測されます"
+   },
+   {
+    "value": "44",
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "quote": "分野における金属粉末を用いた積層造形のアプリケーションが最大のサブセグメントとなり、市場全体の44%のシェアを占めると予測されています"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/9786454",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E7%94%A8%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%A6%82%E8%A6%81%E6%88%90%E9%95%B7%E5%88%86%E6%9E%90%E3%81%A82026%E3%81%8B%E3%82%892033%E3%81%BE%E3%81%A7%E3%81%AE148cagr%E4%BA%88%E6%B8%AC-atlas-marketz-research-menme",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://am-printing.com/ja/atomized-metal-powder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/products/powder/additive/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapid-model.com/ja/cnc-industry/379.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/metal-powder-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/3d%E5%8D%B0%E5%88%B7%E7%94%A8%E7%90%83%E7%8A%B6%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4%E3%81%AE%E6%B4%9E%E5%AF%9F2026%E5%B9%B42033%E5%B9%B4%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%8796%E3%81%A7%E6%88%90%E9%95%B7-insightflow-researchx-lubee",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4-101458",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/8525/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://qyresearch-news.hatenablog.jp/entry/2026/04/20/123109",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinto.co.jp/promotion/metal-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/additive-manufacturing-am-metal-powder-market-122820",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://qyresearch.hatenadiary.com/entry/2026/06/12/142349",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verifiedmarketreports.com/ja/product/additive-manufacturing-am-metal-powder-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yhresearch.co.jp/news/1224/additive-manufacturing--am--metal-powder",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.eos.info/ja/content/blog/know-how/metal-myths-exposed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.marketresearch.co.jp/mrc-bf09j11-japan-metal-powder-market-overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalresearch.jp/data/japan-metal-powder-market-imarc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/imarc1922865-japan-metal-powder-market-size-share-trends.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/2810444",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/service/am-material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2212/05/news015_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boueki.standage.co.jp/japan-import-ranking/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/srch/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/technology/stories/2509_metal_3d_printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.met3dp.com/ja/blog/metal-additive-vs-casting-process-in-2026-volume-complexity-and-tooling-guide/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属AM用粉末（全体） 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://newscast.jp/news/9786454",
+    "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "https://jp.linkedin.com/pulse/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E7%94%A8%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%A6%82%E8%A6%81%E6%88%90%E9%95%B7%E5%88%86%E6%9E%90%E3%81%A82026%E3%81%8B%E3%82%892033%E3%81%BE%E3%81%A7%E3%81%AE148cagr%E4%BA%88%E6%B8%AC-atlas-marketz-research-menme",
+    "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.gii.co.jp/report/tbrc1927999-metal-additive-manufacturing-global-market-report.html",
+    "https://www.mordorintelligence.com/ja/industry-reports/metal-powder-market",
+    "https://www.businessresearchinsights.com/jp/market-reports/additive-manufacturing-am-metal-powder-market-122820"
+   ]
+  },
+  {
+   "query": "金属AM用粉末（全体） 価格 kg",
+   "results": [
+    "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "https://am-printing.com/ja/atomized-metal-powder/",
+    "https://www.daido.co.jp/products/powder/additive/index.html",
+    "https://www.rapid-model.com/ja/cnc-industry/379.html",
+    "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf",
+    "https://metoree.com/categories/8525/",
+    "https://www.eos.info/ja/metal-solutions/metal-materials",
+    "https://jp.made-in-china.com/video-channel/gzslam_fdyaRzHPaxWk_3D-Printing-Pure-Ti64-Alloy-Powder-for-Additive-Manufacturing.html",
+    "https://blog.met3dp.com/ja/blog/metal-powder-for-am-complete-buyers-guide-for-2025/"
+   ]
+  },
+  {
+   "query": "金属AM用粉末（全体） シェア 主要企業",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.mordorintelligence.com/ja/industry-reports/metal-powder-market",
+    "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "https://jp.linkedin.com/pulse/3d%E5%8D%B0%E5%88%B7%E7%94%A8%E7%90%83%E7%8A%B6%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4%E3%81%AE%E6%B4%9E%E5%AF%9F2026%E5%B9%B42033%E5%B9%B4%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%8796%E3%81%A7%E6%88%90%E9%95%B7-insightflow-researchx-lubee",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4-101458",
+    "https://metoree.com/categories/8525/",
+    "https://newscast.jp/news/9786454",
+    "https://qyresearch-news.hatenablog.jp/entry/2026/04/20/123109"
+   ]
+  },
+  {
+   "query": "金属AM用粉末（全体） 主要メーカー 一覧",
+   "results": [
+    "https://metoree.com/categories/8525/",
+    "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "https://met3dp.com/ja/additive-manufacturing-metal-powder/",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf",
+    "https://www.daido.co.jp/products/powder/additive/index.html",
+    "https://jampt.jp/column/additive-manufacturing/",
+    "https://blog.met3dp.com/ja/blog/metal-powder-for-am-complete-buyers-guide-for-2025/"
+   ]
+  },
+  {
+   "query": "金属AM用粉末（全体） 参入企業 数",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "https://newscast.jp/news/9786454",
+    "https://jampt.jp/column/additive-manufacturing/",
+    "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/",
+    "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.businessresearchinsights.com/jp/market-reports/additive-manufacturing-am-metal-powder-market-122820"
+   ]
+  },
+  {
+   "query": "金属AM用粉末（全体） 日本 需要",
+   "results": [
+    "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf",
+    "https://jampt.jp/column/additive-manufacturing/",
+    "https://www.eos.info/ja/content/blog/know-how/metal-myths-exposed",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.daido.co.jp/products/powder/additive/index.html",
+    "https://www.marketresearch.co.jp/mrc-bf09j11-japan-metal-powder-market-overview/"
+   ]
+  },
+  {
+   "query": "金属AM用粉末（全体） 国内 導入台数 OR 輸入量",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://jampt.jp/service/am-material/",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf",
+    "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2212/05/news015_2.html",
+    "https://boueki.standage.co.jp/japan-import-ranking/"
+   ]
+  },
+  {
+   "query": "金属AM用粉末（全体） 日本企業 採用 調達 事例",
+   "results": [
+    "https://jampt.jp/column/additive-manufacturing/",
+    "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "https://www.youtube.com/watch?v=snJAXXU1cSk",
+    "https://www.jp.nikon.com/company/technology/stories/2509_metal_3d_printing/",
+    "https://blog.met3dp.com/ja/blog/metal-additive-vs-casting-process-in-2026-volume-complexity-and-tooling-guide/",
+    "https://www.jsme.or.jp/kaisi/1280-25/",
+    "https://blog.met3dp.com/ja/blog/metal-powder-for-am-procurement-in-2026-b2b-sourcing-guide/"
+   ]
+  },
+  {
+   "query": "metal powder for additive manufacturing market Japan customers demand imports",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "https://www.precedenceresearch.com/metal-additive-manufacturing-market",
+    "https://www.transparencymarketresearch.com/metal-powders-additive-manufacturing-market.html",
+    "https://straitsresearch.com/report/metal-additive-manufacturing-market",
+    "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "https://www.fukuda-kyoto.co.jp/en/technology/research/additive-manufacturing.html",
+    "https://www.linkedin.com/pulse/japan-3d-printing-stainless-steel-powder-market-key-2ejrc",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://www.sciencedirect.com/science/article/pii/S2666496825000226",
+    "https://www.indexbox.io/store/japan-metal-powders-for-additive-manufacturing-market-analysis-forecast-size-trends-and-insights/"
+   ]
+  },
+  {
+   "query": "金属AM用粉末（全体） 供給契約 長期",
+   "results": [
+    "https://power.mhi.com/jp/news/20201127.html",
+    "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "https://am-printing.com/ja/cunial-powder20251203/",
+    "https://www.dmgmori.co.jp/sp/am/",
+    "https://www.mordorintelligence.com/ja/industry-reports/metal-powder-market",
+    "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf",
+    "https://newji.ai/procurement-purchasing/formulating-long-term-stable-supply-contracts-for-raw-materials-led-by-the-purchasing-department/"
+   ]
+  },
+  {
+   "query": "metal powder for additive manufacturing market market size CAGR 2030",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "https://www.marketresearchfuture.com/reports/additive-manufacturing-metal-powders-market-9339",
+    "https://www.maximizemarketresearch.com/market-report/global-metal-powders-for-additive-manufacturing-market/63568/",
+    "https://www.gminsights.com/industry-analysis/north-america-additive-manufacturing-with-metal-powders-market",
+    "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "https://www.linkedin.com/pulse/unlocking-potential-metal-powder-additive-manufacturing-asfcc",
+    "https://www.precedenceresearch.com/metal-additive-manufacturing-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/metal-powder-market-101458",
+    "https://market.us/report/additive-manufacturing-with-metal-powders-market/",
+    "https://www.verifiedmarketresearch.com/product/metal-powders-for-additive-manufacturing-market/"
+   ]
+  },
+  {
+   "query": "metal powder for additive manufacturing market price per kg",
+   "results": [
+    "https://additiveplus.com/product-category/materials/metal-powders/?srsltid=AYCX9vKUnkHvh11rYxl1opqWyieR-6y7-zMl9CarlYjU4D2fpflCQjqM",
+    "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "https://mtixtl.com/collections/metallic-powder-for-3d-am",
+    "https://www.maximizemarketresearch.com/market-report/metal-powder-market/42246/",
+    "https://www.quora.com/What-is-the-typical-price-of-Metal-powders-used-for-3d-printing",
+    "https://all3dp.com/1/metal-powder-for-metal-3d-printing-a-buyers-guide/",
+    "https://www.transparencymarketresearch.com/metal-powders-additive-manufacturing-market.html",
+    "https://www.fortunebusinessinsights.com/industry-reports/metal-powder-market-101458",
+    "https://www.researchgate.net/figure/Price-comparison-for-1-kg-of-different-types-of-material-feedstock_tbl3_382041269",
+    "https://metal3dpowder.com/posts/Alloys/metal-powder-for-3d-printing-price-guide/"
+   ]
+  },
+  {
+   "query": "metal powder for additive manufacturing market key players market share percent",
+   "results": [
+    "https://www.transparencymarketresearch.com/metal-powders-additive-manufacturing-market.html",
+    "https://straitsresearch.com/report/metal-additive-manufacturing-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/metal-powder-market-101458",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://www.grandviewresearch.com/industry-analysis/3d-printing-powder-market-report",
+    "https://www.precedenceresearch.com/metal-powder-market",
+    "https://www.linkedin.com/pulse/additive-manufacturing-metal-powders-market-size-share-growth-7oekf",
+    "https://www.skyquestt.com/report/metal-additive-manufacturing-market/companies",
+    "https://www.coherentmarketinsights.com/industry-reports/metal-additive-manufacturing-market",
+    "https://www.intelmarketresearch.com/additive-systems-with-metal-powder-market-10069"
+   ]
+  },
+  {
+   "query": "metal powder for additive manufacturing market number of suppliers concentrated OR fragmented",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "https://www.marketresearchfuture.com/reports/additive-manufacturing-metal-powders-market-9339",
+    "https://www.precedenceresearch.com/metal-additive-manufacturing-market",
+    "https://www.maximizemarketresearch.com/market-report/metal-powder-market/42246/",
+    "https://www.linkedin.com/pulse/additive-manufacturing-am-metal-powder-market-growth-report-lxakf/",
+    "https://market.us/report/additive-manufacturing-with-metal-powders-market/",
+    "https://www.fortunebusinessinsights.com/industry-reports/metal-powder-market-101458",
+    "https://straitsresearch.com/report/metal-additive-manufacturing-market",
+    "https://www.marketgrowthreports.com/market-reports/additive-manufacturing-with-metal-powders-market-101874",
+    "https://en.wikipedia.org/wiki/Fragmentation_(economics)"
+   ]
+  },
+  {
+   "query": "metal powder for additive manufacturing market consumption per machine per year",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "https://www.marketresearchfuture.com/reports/additive-manufacturing-metal-powders-market-9339",
+    "https://www.linkedin.com/pulse/unlocking-potential-metal-powder-additive-manufacturing-asfcc",
+    "https://www.precedenceresearch.com/metal-additive-manufacturing-market",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://www.maximizemarketresearch.com/market-report/global-metal-powders-for-additive-manufacturing-market/63568/",
+    "https://market.us/report/additive-manufacturing-with-metal-powders-market/",
+    "https://www.strategicmarketresearch.com/market-report/atomizing-metal-powder-market",
+    "https://www.idtechex.com/en/research-article/trends-impacting-metal-additive-manufacturings-us-13-billion-future/33233",
+    "https://www.verifiedmarketreports.com/product/metal-powder-for-additive-manufacturing-market/"
+   ]
+  },
+  {
+   "query": "metal powder for additive manufacturing market qualification long-term supply agreement",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "https://www.meticulousresearch.com/product/3d-printing-metal-powder-market-6994",
+    "https://www.linkedin.com/pulse/additive-manufacturing-metal-powders-market-9bxdf/",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://www.malvernpanalytical.com/en/learn/knowledge-center/insights/certifying-your-feedstock-materials-for-additive-manufacturing",
+    "https://www.metal-am.com/articles/the-evolving-metal-powder-marketplace-total-solutions-vertical-integrations-and-start-up-innovations/",
+    "https://www.precedenceresearch.com/metal-additive-manufacturing-market",
+    "https://www.marketresearchfuture.com/reports/additive-manufacturing-metal-powders-market-9339",
+    "https://www.facebook.com/unboxingenergy/videos/a-us-company-has-secured-a-new-contract-to-further-develop-specialized-metal-pow/1323240559920682/",
+    "https://3dprint.com/324220/6k-additive-lands-long-term-nickel-alloy-powders-supply-agreement-w-siemens-energy/"
+   ]
+  },
+  {
+   "query": "metal powder for additive manufacturing market distributor direct sales OEM approved materials",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "https://www.hoganas.com/en/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/",
+    "https://www.astroalloys.com/additive-manufacturing-powders.html",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://www.amfg.ai/post/metal-additive-manufacturing-5-questions-to-ask-a-potential-metal-powder-supplier",
+    "https://www.skyquestt.com/report/additive-manufacturing-with-metal-powders-market/companies",
+    "https://www.msesupplies.com/collections/metal-powders-for-3d-printing-and-additive-manufacturing?srsltid=AYCX9vJkbqOTu6fXZ-dXyyJcjzttyXftNPyXpmSQN2Do0CUI5O5SgROR",
+    "https://www.youtube.com/watch?v=QaGIpvI120g",
+    "https://additiveplus.com/product-category/materials/metal-powders/?srsltid=AYCX9vJwy5DAfHLkaXgEDE3H-spCIBAdVvoYbjjCpmaw2YIsTRbQJ8c9",
+    "https://www.msesupplies.com/collections/metal-powders-for-3d-printing-and-additive-manufacturing"
+   ]
+  },
+  {
+   "query": "site:note.com 金属AM用粉末（全体）",
+   "results": [
+    "https://note.com/umaki11/n/n3efcf73dffdc",
+    "https://note.com/qy_research/n/n366973a51371",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/mar810/n/n2fb28a04b6f3",
+    "https://note.com/moka_3dpsales/n/nb9ffba5b89d0",
+    "https://note.com/jack_wiliam/n/nad0ae9173de6",
+    "https://note.com/izuku_idea/n/nd179e4b76227",
+    "https://note.com/qy_research/n/n1041859862b9",
+    "https://note.com/qy_research/n/n6f814bd84d2d",
+    "https://note.com/yuto_matsuura/n/n3d1a6ba993ad"
+   ]
+  },
+  {
+   "query": "site:x.com 金属AM用粉末（全体）",
+   "results": [
+    "https://x.com/KagawaTomo/status/2065355815238963291",
+    "https://x.com/jampt_official",
+    "https://x.com/Kintan_sessaku/status/2115608478333235229",
+    "https://x.com/AIST_JP/status/2095814428310622586",
+    "https://x.com/hashtag/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88",
+    "https://x.com/APPLE_TREE_CO/status/1894316937662140926",
+    "https://x.com/JX_NMM/status/2064240192001818713",
+    "https://x.com/digi_Craft_3D",
+    "https://x.com/HarryPotterMAJP/status/1979095076753268824",
+    "https://x.com/daizo160/status/1866095258045686021"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金属AM用粉末（全体）",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E5%B8%82%E5%A0%B4%E3%83%88%E3%83%83%E3%83%9710%E4%BC%81%E6%A5%AD-nexusfield-market-labs-kdr5e",
+    "https://jp.linkedin.com/company/%E4%B8%89%E8%8F%B1%E5%95%86%E4%BA%8B%E3%83%86%E3%82%AF%E3%83%8E%E3%82%B9%E3%80%80%E6%9D%B1%E4%BA%AC%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%83%BC%E3%83%BB%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9A%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://jp.linkedin.com/pulse/3d-metal-printing-speedy-creation-innovative-shapes-ygjdc?tl=ja",
+    "https://jp.linkedin.com/pulse/%E9%87%91%E5%B1%9E%E5%90%88%E9%87%91%E7%94%A8%E3%81%AE%E9%9C%A7%E5%8C%96%E3%83%97%E3%83%A9%E3%83%B3%E3%83%88%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90%E3%81%A8%E5%8F%8E%E7%9B%8A%E4%BA%88%E6%B8%AC2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AEcagr88%E6%88%90%E9%95%B7-depotdrivex-8gjoe",
+    "https://jp.linkedin.com/pulse/%E5%B8%82%E5%A0%B4%E6%88%90%E9%95%B7%E8%A6%8B%E9%80%9A%E3%81%972026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E6%95%B0%E9%87%8F%E4%BA%88%E6%B8%AC%E3%82%92%E5%8C%85%E6%8B%AC%E7%9A%84%E3%81%AB%E5%88%86%E6%9E%90%E3%81%97cagr-55%E3%82%92%E8%A8%98%E9%8C%B2%E3%81%99%E3%82%8B%E8%A6%8B%E8%BE%BC%E3%81%BF%E3%81%A7%E3%81%99-cw1ye",
+    "https://jp.linkedin.com/pulse/manufacturing-vanguard-6-industrializing-metal-am-caracol-am-uf7rf?tl=ja",
+    "https://jp.linkedin.com/pulse/%E6%B7%BB%E5%8A%A0%E5%89%A4%E3%81%AE%E3%82%A2%E3%83%AD%E3%82%A4%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E7%86%9F%E5%BA%A6%E5%88%86%E6%9E%90%E5%9C%B0%E5%9F%9F%E9%96%93%E6%A0%BC%E5%B7%AE%E3%81%A8%E6%88%90%E9%95%B7%E3%83%9B%E3%83%83%E3%83%88%E3%82%B9%E3%83%9D%E3%83%83%E3%83%882026%E5%B9%B42033%E5%B9%B4-truenorth-analyticsz-2mome",
+    "https://jp.linkedin.com/pulse/revenue-insights-%E9%87%91%E5%B1%9E%E5%90%88%E9%87%91%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC-market-projected-55-cagr-nfzze",
+    "https://jp.linkedin.com/pulse/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC-market-trends-assessment-%E7%8F%BE%E5%9C%A8%E3%81%AE%E5%B8%82%E5%A0%B4%E6%A5%AD%E7%95%8C%E3%81%AE%E7%8A%B6%E6%B3%81%E6%A5%AD%E7%95%8C%E3%81%AE%E8%A6%8F%E6%A8%A1%E3%82%B7%E3%82%A7%E3%82%A2%E7%AB%B6%E4%BA%89%E7%92%B0%E5%A2%832026-2033%E5%B9%B4%E3%81%AEcagr-oodbe",
+    "https://jp.linkedin.com/pulse/zrapid-targets-expansion-europe-islm-3d-printer-range-3dnatives-9j3kf?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金属AM用粉末（全体）",
+   "results": [
+    "https://www.facebook.com/metalprintj3d/",
+    "https://www.facebook.com/p/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%A4%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88-100068835047333/",
+    "https://www.facebook.com/aspect.3Dprinter/",
+    "https://www.facebook.com/Yokoito.info/",
+    "https://www.facebook.com/aspect.3Dprinter/photos/995370749514748/",
+    "https://www.facebook.com/tohotechnology/",
+    "https://www.facebook.com/sanwadental/?locale=ja_JP",
+    "https://www.facebook.com/houdenkakou/",
+    "https://www.facebook.com/rayark.sdorica/posts/sdorica-glorious-summer-infuse-kittyeyes-mz-time-for-the-cheerleading-competitio/1814785328726030/",
+    "https://www.facebook.com/AmazingThailandJP/mentions/"
+   ]
+  },
+  {
+   "query": "金属AM用粉末（全体） note 社長",
+   "results": [
+    "https://pr.mono.ipros.com/hoganas/product/detail/2001065908/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/morimura-before-tct/",
+    "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/",
+    "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "https://am-printing.com/ja/a-step-by-step-guide-to-using-metal-powder-for-3d-printing/",
+    "https://www.eos.info/ja/content/blog/innovations/recoater-material-metal-additive-manufacturing",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.dmgmori.co.jp/sp/am/",
+    "https://www.youtube.com/watch?v=snJAXXU1cSk",
+    "https://note.com/kinzoku2/n/na17ff92bc4fe"
+   ]
+  },
+  {
+   "query": "金属AM用粉末（全体） X 投稿",
+   "results": [
+    "https://www.eos.info/ja/metal-solutions/metal-ecosystem",
+    "https://3dprinter.co.jp/cms3d/wp-content/themes/3dprinter-wp_new/images/product/markforged/metal-x/Metal-3dprinter.pdf",
+    "https://markforged.com/jp/3d-printers/metal-x",
+    "https://am-printing.com/ja/a-step-by-step-guide-to-using-metal-powder-for-3d-printing/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/morimura-before-tct/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.malvernpanalytical.com/jp/industries/metals/metal-powders",
+    "https://www.youtube.com/watch?v=snJAXXU1cSk",
+    "https://canon.jp/biz/product/indtech/3dpsolution/markforged/lineup/metal-x",
+    "https://www.sanyo-steel.co.jp/technology/images/pdf/32/32_10.pdf"
+   ]
+  },
+  {
+   "query": "metal powder for additive manufacturing market site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/additive-manufacturing-metal-powders-market-latest-rjy8e",
+    "https://www.linkedin.com/pulse/additive-manufacturing-news-insights-metalammagazine-ojrgf",
+    "https://www.linkedin.com/pulse/3rs-revolutionizing-metal-powder-additive-manufacturing-vac-u-max-9souf",
+    "https://www.linkedin.com/pulse/emerging-trends-additive-manufacturing-metal-nompf",
+    "https://www.linkedin.com/pulse/global-players-metal-powder-additive-manufacturing-printers-7qrhe",
+    "https://www.linkedin.com/pulse/role-digital-transformation-additive-manufacturing-xpumc/",
+    "https://www.linkedin.com/pulse/metal-powders-3d-printer-market-manufacturing-vbwxf/",
+    "https://www.linkedin.com/pulse/atomized-metal-powder-additive-manufacturing-vanlf",
+    "https://www.linkedin.com/pulse/additive-manufacturing-printers-metal-powders-market-latest-ainke",
+    "https://www.linkedin.com/pulse/positive-outlook-metal-powders-3d-printer-market-trend-ougyf"
+   ]
+  }
+ ],
+ "missing": {}
+}

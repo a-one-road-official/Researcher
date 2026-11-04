@@ -1,0 +1,2177 @@
+{
+ "name": "金属フィラメント（金属を混ぜた造形用フィラメント）",
+ "en": "metal filament bound metal deposition market",
+ "aliases": [
+  "金属フィラメント 3Dプリンター",
+  "Ultrafuse 金属",
+  "メタルフィラメント"
+ ],
+ "context": "方式・フィラメント",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:55:00.000268+00:00",
+ "evidence": {
+  "成長率": [
+   {
+    "quote": "3Dプリンターの技術革新は目覚ましく、造形可能な素材の選択肢も飛躍的に拡大しています",
+    "url": "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dデータを短いサイクルで造形できる3Dプリンターの需要は、年々拡大し続けています",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKaXIwnDnq8hjShTxy4nAwu5doE93jbjc6xL6rndC9wP50BO-jS",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタを用いた最終製品開発、試作支援を手掛けるYOYOMAKER代表",
+    "url": "https://yoyomaker.jp/copperfill/",
+    "pass": 3
+   },
+   {
+    "quote": "© 2026 YOYOMAKER Hideki Toho",
+    "url": "https://yoyomaker.jp/copperfill/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ市場は年々拡大傾向にあります",
+    "url": "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター市場の拡大",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター市場拡大の理由を理解するために、まずは従来工法と比較した金属3Dプリンターの特徴について抑えていきましょう",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dデータを短いサイクルで造形できる3Dプリンターの需要は、年々拡大し続けています",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKlNS-BfO-E-EiKur1J3Y9dgpHop_HertQ19hXFDRvaNW-NF2iR",
+    "pass": 3
+   },
+   {
+    "quote": "3Dデータを短いサイクルで造形できる3Dプリンターの需要は、年々拡大し続けています",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKo-wyikiogCIVQ5foOHRcXsGDrpIc3lGpZE-JjvxGTt0jPXEg3",
+    "pass": 3
+   },
+   {
+    "quote": "3Dデータを短いサイクルで造形できる3Dプリンターの需要は、年々拡大し続けています",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vIv0-dmBYoS47vz73JftXzi49qZAv1o03QXci2zvNRw-f_6XB2S",
+    "pass": 3
+   },
+   {
+    "quote": "3Dデータを短いサイクルで造形できる3Dプリンターの需要は、年々拡大し続けています",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vLGapc3_sWlW89rF_kdt2t0_xgisdIeS12ISqEFhbEbaSq_mAfN",
+    "pass": 3
+   },
+   {
+    "quote": "その後、2026年から2032年にかけては8.9%の年平均成長率（CAGR）で持続的な成長が見込まれ、2032年までに4626百万米ドル規模に拡大すると予測されます",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "2025～2031年の積層造形用金属フィラメント市場規模推移およびCAGRを提示し、成長ドライバーと拡大ポテンシャルを明確化します",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】PVA 3Dプリントフィラメント市場規模は2032年までに165百万米ドルへ、CAGR3…",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "3Dデータを短いサイクルで造形できる3Dプリンターの需要は、年々拡大し続けています",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vLyAP4Fzx7ZbpGD0xTJRqDdDRQI38YG6rAd5emsC_bnCLexECd2",
+    "pass": 3
+   },
+   {
+    "quote": "3Dデータを短いサイクルで造形できる3Dプリンターの需要は、年々拡大し続けています",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJ6eYeU3nmd_sy6AavVcP0DyAzXUjjx2LxmRlFcFnqhGXKObVzK",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "3Dプリンター用TPUフィラメントの特性・販売先・価格を解説",
+    "url": "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "純金属、セラミック、ガラスのパーツを簡単かつ手頃な価格でプリントできる3Dプリント用フィラメントとペレットです",
+    "url": "https://www.unipos.net/products/filamet-3d-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "Weight：スプール巻き（0.5kg / 1kg）、ペレット袋入り（1kg）",
+    "url": "https://www.unipos.net/products/filamet-3d-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "Weight:スプール巻き(0.5kg / 1kg)、ペレット袋入り(1kg)",
+    "url": "https://www.unipos.net/products/filamet-3d-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "最大価格：¥75,000",
+    "url": "https://skhonpo.com/collections/metal-filament",
+    "pass": 3
+   },
+   {
+    "quote": "純金属、セラミック、ガラスのパーツを簡単かつ手頃な価格でプリントできる3Dプリント用フィラメントとペレットが多数用意されています",
+    "url": "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "0.5kg または 1kgのスプール巻きのフィラメントと、1袋 1kg入りのペレットがあります",
+    "url": "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "【2025】低価格3Dスキャナー比較",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "A. レーザー方式の金属3Dプリンタが数千万後半円規模であるのに対し、金属・セラミックスFFFプリンタは数百万円～数千万前半から導入可能です",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "A. 個人で3Dプリントまでであれば低価格帯の3Dプリンターでも難なく可能ですが、脱脂焼結まではさすがに厳しいと思います",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "思い返せば、10年ほど前に低価格帯の樹脂3Dプリンターが登場した当初も、「精度が出ないから実用にはならない」と多くの人が指摘していました",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "低価格3Dスキャナー",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "価格帯はPBF方式で3,000万円〜、DED方式で3,000万円以上、金属フィラメント方式なら数十万円から導入可能です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、金属3Dプリンターの価格・方式・メリット・デメリット・活用事例を徹底解説します",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "結果的に金属3Dプリンターは、樹脂3Dプリンターに比べて高価な装備が求められ、その分、装置価格が高額になる傾向があります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円～",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円以上",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター自体、レーザーなどの高額な部品を利用するため、装置価格が数千万円以上するケースも多く、まだ手軽に手を出せる装置ではないため、設計する側も、造形する側も試行錯誤をしながら取り組んでいるという反面、す早い段階から受託造形に取り組んでいる一部のサービスビューロはノウハウを蓄積し、世界的に知名度を上げているケースもあります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "(参考価格: ¥10,000～¥100,000)",
+    "url": "https://www.ipros.com/cg1/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：1万円 ~ 10万円",
+    "url": "https://www.ipros.com/cg1/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：~ 1万円",
+    "url": "https://www.ipros.com/cg1/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月更新：関連商品（Polymaker ASA・TPU95・PolyDryer）の価格と商品カードを追加し、用途別の早見図を新設",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "価格はSK本舗の販売価格（税込、2026年11月時点）",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker ASA フィラメント（1kg / 1.75mm）",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Q5. 1kg巻きでどれくらい印刷できますか？",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "1kg巻きなら1,000gを基準に、スライサーでサポート・切り替え時の排出分も含む使用量を確認します",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "SK本舗 フィラメント マット色 PLA 1kg",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "【在庫限り】SK本舗フィラメント PLA 光沢色 1kg",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月04日05時時点の価格です",
+    "url": "https://deskmin.net/2026/08/08/%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%9A%E6%9C%80%E6%96%B0%E8%A3%BD%E5%93%81%E3%81%8B%E3%82%89%E7%84%BC%E7%B5%90%E3%82%BF/",
+    "pass": 3
+   },
+   {
+    "quote": "Amazonセール中の人気商品（1万円以上）",
+    "url": "https://deskmin.net/2026/08/08/%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%9A%E6%9C%80%E6%96%B0%E8%A3%BD%E5%93%81%E3%81%8B%E3%82%89%E7%84%BC%E7%B5%90%E3%82%BF/",
+    "pass": 3
+   },
+   {
+    "quote": "低炭素ガラス瓶市場規模と変化予測：産業チェーン、価格リスク、成長分析2026-2032 QYResearch",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "三酸化二ヒ素コーティングステント業界レポート：販売量、価格動向、供給能力と市場予測2026-2032 QYResearch",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使える主な素材一覧｜価格相場や特徴を紹介",
+    "url": "https://3day-printer.com/media/product-service/3d-printer-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターは個人で購入できる？プリントサービスとの比較や価格帯を解説！",
+    "url": "https://3day-printer.com/media/product-service/3d-printer-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "価格は約20万円からとなっています",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "価格は約89,000円と手頃で、代理店が脱脂・焼結の後処理をサポートしてくれるのも魅力です",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "価格は約83,000円となっています",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "：約20万円～",
+    "url": "https://note.com/skhonpo/n/nc1704938f168",
+    "pass": 3
+   },
+   {
+    "quote": "：約10万円",
+    "url": "https://note.com/skhonpo/n/nc1704938f168",
+    "pass": 3
+   },
+   {
+    "quote": "本体価格もお手頃で、入門用にはぴったり",
+    "url": "https://note.com/skhonpo/n/nc1704938f168",
+    "pass": 3
+   },
+   {
+    "quote": "：約150万円～",
+    "url": "https://note.com/skhonpo/n/nc1704938f168",
+    "pass": 3
+   },
+   {
+    "quote": "で、1kgあたり",
+    "url": "https://note.com/skhonpo/n/nc1704938f168",
+    "pass": 3
+   }
+  ],
+  "上位シェア・主要企業": [
+   {
+    "quote": "DfAMソフト nTop",
+    "url": "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "【製品紹介】Wellzoom desktop filament extruder | フィラメント押出機",
+    "url": "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "top of page",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "CeraFila SUS316L / SUS630、Desktop Metal",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタの可能性を限界まで高める！ nTop体験ワークショップ（3/7＠東京）",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "BACK TO TOP",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内メーカー一覧",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 海外メーカー一覧",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "液槽光重合法 / VPP（Vat Photopolymerization）を解説！SLA方式、DLP方式と何が違う？",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "国内トップシェア釣糸メーカー！オーダーメードの糸を作ります！",
+    "url": "https://www.ipros.com/cg1/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事をシェア",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "URLをシェア",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形用金属フィラメントの最新調査：2026 - 2032年市場規模、動向、主要企業動向と成長予測 - QY Research株式会社",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形用金属フィラメントの最新調査：2026 - 2032年市場規模、動向、主要企業動向と成長予測",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月11日、QY Research株式会社（所在地：東京都中央区）は、「積層造形用金属フィラメント―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」の調査レポートを発行しました",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形用金属フィラメント市場の最新データをもとに、主要企業のランキング、売上、販売量、価格推移、収益などを詳細に解析し、競争戦略の最適化や市場ポジショニングの評価を支援します",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "■ 主要企業の競争ポジション",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形用金属フィラメント市場を牽引する企業の売上、シェア、製品戦略、提携・M&A動向を比較し、競争構造の変化を分析します",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "各製品タイプの市場シェア、売上規模、出荷数量、価格推移を比較し、積層造形用金属フィラメント市場における成長持続力と収益性を評価します",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "【競争環境】主要企業のポジショニング",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の市場シェア、事業展開、研究開発、提携・M&A動向を分析し、積層造形用金属フィラメント市場における競争構造と将来変化を考察します",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearch（QYリサーチ）は2007年に設立され、世界中の市場情報を詳細に分析し、業界の現状、成長トレンド、市場シェアの分布などを把握しています",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "遠隔心臓モニタリングシステム業界分析レポート：主要メーカーの競争状況と市場シェア2026-2032",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "世界純竹ソックス市場の主要企業調査：売上、メーカーランキング、シェア分析2026-2032",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "例：Desktop Metal Studio System 2（オフィス向け）",
+    "url": "https://note.com/skhonpo/n/nc1704938f168",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metal",
+    "url": "https://note.com/skhonpo/n/nc1704938f168",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "Forward AM社製3Dプリンターフィラメント【日本総代理店】日本3Dプリンター株式会社",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKaXIwnDnq8hjShTxy4nAwu5doE93jbjc6xL6rndC9wP50BO-jS",
+    "pass": 3
+   },
+   {
+    "quote": "商社のお客さまへ",
+    "url": "https://www.unipos.net/products/filamet-3d-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "商社様経由でのお取引について",
+    "url": "https://www.unipos.net/products/filamet-3d-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs 純正部品",
+    "url": "https://skhonpo.com/collections/metal-filament",
+    "pass": 3
+   },
+   {
+    "quote": "メタル（金属）フィラメント | BASF社製3Dプリンターフィラメント日本総代理店",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "【本音レビュー】3DMakerpro Raven MAX RTKを実際に評価｜メリット・デメリットを正直に正規販売代理店が解説",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "装置メーカーが装置の不具合ではない、と説明するだけで、不具合やイレギュラー発生時に現象説明やカイゼン協力に至らない場合もあります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Forward AM社製3Dプリンターフィラメント【日本総代理店】日本3Dプリンター株式会社",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKlNS-BfO-E-EiKur1J3Y9dgpHop_HertQ19hXFDRvaNW-NF2iR",
+    "pass": 3
+   },
+   {
+    "quote": "Forward AM社製3Dプリンターフィラメント【日本総代理店】日本3Dプリンター株式会社",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKo-wyikiogCIVQ5foOHRcXsGDrpIc3lGpZE-JjvxGTt0jPXEg3",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】3Dプリンターフィラメント完全比較ガイド｜素材・用途別の選び方を正規代理店が解説",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs 純正部品",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab 純正フィラメント一覧｜SK本舗（正規代理店）",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "純正スプールはRFIDで素材・色・推奨温度を自動認識します",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab純正 vs サードパーティフィラメント",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "対応するBambu Lab純正フィラメントでは、RFIDによる材料情報の認識を利用できます",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "最初の1〜2巻はBambu Lab純正で操作に慣れて、その後お気に入りのサードパーティ製も試してみる、というステップがスムーズです",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Q6. Bambu Lab純正と他社フィラメントの違いは？",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "対応する純正フィラメントではRFIDによる材料情報の認識を利用できます",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "純正／他社製という区分だけで、品質や全機種への適合は保証されません",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "SK本舗では、Bambu Lab純正フィラメントをはじめ、各種サードパーティフィラメントを幅広く取り扱っています",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab 製品一覧（純正フィラメント含む）",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "SK本舗は3Dプリンター・レジン・フィラメントの正規代理店",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "BLUETTI ポータブル電源 AORA100 V2 1024Wh 大容量 定格1800W 再生素材採用 45分80％充電 停電時0.01秒切替 | 電力リフト2700W 瞬間最大3600W リン酸鉄 10年長寿命 軽量 停電時も安心バックアップ電源 日本語アプリ遠隔操作 純正弦波 AC100V 50Hz/60Hz対応 耐熱防火設計 低騒音 家庭/アウトドア用 ポタ電 防災/キャンプ/車中泊に最適",
+    "url": "https://deskmin.net/2026/08/08/%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%9A%E6%9C%80%E6%96%B0%E8%A3%BD%E5%93%81%E3%81%8B%E3%82%89%E7%84%BC%E7%B5%90%E3%82%BF/",
+    "pass": 3
+   },
+   {
+    "quote": "Forward AM社製3Dプリンターフィラメント【日本総代理店】日本3Dプリンター株式会社",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vIv0-dmBYoS47vz73JftXzi49qZAv1o03QXci2zvNRw-f_6XB2S",
+    "pass": 3
+   },
+   {
+    "quote": "Forward AM社製3Dプリンターフィラメント【日本総代理店】日本3Dプリンター株式会社",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vLGapc3_sWlW89rF_kdt2t0_xgisdIeS12ISqEFhbEbaSq_mAfN",
+    "pass": 3
+   },
+   {
+    "quote": "Forward AM社製3Dプリンターフィラメント【日本総代理店】日本3Dプリンター株式会社",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vLyAP4Fzx7ZbpGD0xTJRqDdDRQI38YG6rAd5emsC_bnCLexECd2",
+    "pass": 3
+   },
+   {
+    "quote": "Zetamix、3Dプリンターで利用できる最初のセラミックおよび金属フィラメント｜導入事例一覧｜Raise3D国内総代理店｜日本3Dプリンター株式会社",
+    "url": "https://www.raise3d.jp/case/25",
+    "pass": 3
+   },
+   {
+    "quote": "BASF社製3Dプリンターフィラメント日本総代理店 |日本3Dプリンター株式会社 |",
+    "url": "https://www.3d-filament.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Forward AM社製3Dプリンターフィラメント【日本総代理店】日本3Dプリンター株式会社",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJ6eYeU3nmd_sy6AavVcP0DyAzXUjjx2LxmRlFcFnqhGXKObVzK",
+    "pass": 3
+   },
+   {
+    "quote": "価格は約89,000円と手頃で、代理店が脱脂・焼結の後処理をサポートしてくれるのも魅力です",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   }
+  ],
+  "日本の買い手と供給元": [
+   {
+    "quote": "Forward AM社製3Dプリンターフィラメント【日本総代理店】日本3Dプリンター株式会社",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKaXIwnDnq8hjShTxy4nAwu5doE93jbjc6xL6rndC9wP50BO-jS",
+    "pass": 3
+   },
+   {
+    "quote": "日本3Dプリンター株式会社と提携しているForward AM社は、ドイツに本拠地を置く世界的な総合化学・材料メーカーです",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKaXIwnDnq8hjShTxy4nAwu5doE93jbjc6xL6rndC9wP50BO-jS",
+    "pass": 3
+   },
+   {
+    "quote": "金属フィラメント選びでお悩みの方は、日本3Dプリンター株式会社にご相談ください！",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKaXIwnDnq8hjShTxy4nAwu5doE93jbjc6xL6rndC9wP50BO-jS",
+    "pass": 3
+   },
+   {
+    "quote": "もしも金属フィラメントについて知りたいことがあれば、、ぜひ日本3Dプリンター株式会社にご相談ください",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKaXIwnDnq8hjShTxy4nAwu5doE93jbjc6xL6rndC9wP50BO-jS",
+    "pass": 3
+   },
+   {
+    "quote": "日本3Dプリンター株式会社では、自社で世界トップクラスのメーカーの3Dプリンターを複数保有",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKaXIwnDnq8hjShTxy4nAwu5doE93jbjc6xL6rndC9wP50BO-jS",
+    "pass": 3
+   },
+   {
+    "quote": "運営：日本3Dプリンター株式会社",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKaXIwnDnq8hjShTxy4nAwu5doE93jbjc6xL6rndC9wP50BO-jS",
+    "pass": 3
+   },
+   {
+    "quote": "東京都公安委員会 古物商許可 第301072518676号 日本3Dプリンター株式会社",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKaXIwnDnq8hjShTxy4nAwu5doE93jbjc6xL6rndC9wP50BO-jS",
+    "pass": 3
+   },
+   {
+    "quote": "Looking for a market in Japan?",
+    "url": "https://www.unipos.net/products/filamet-3d-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "日本カラーフィラメント",
+    "url": "https://skhonpo.com/collections/metal-filament",
+    "pass": 3
+   },
+   {
+    "quote": "3D Data Japan",
+    "url": "https://skhonpo.com/collections/metal-filament",
+    "pass": 3
+   },
+   {
+    "quote": "日本の伝統色を忠実に再現し、",
+    "url": "https://skhonpo.com/collections/metal-filament",
+    "pass": 3
+   },
+   {
+    "quote": "また、このカスタマイズに必要なモジュールは、日本では技適を通しているものが出回っていませんで（総務省の検索機能や、スイッチサイエンスのページなどで確認しました ...",
+    "url": "https://yoyomaker.jp/copperfill/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語SDSが必要な場合がございます",
+    "url": "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "ご不明の際にはお問い合わせください (弊社では日本語SDSのご用意が可能です)",
+    "url": "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "メタル（金属）フィラメント | BASF社製3Dプリンターフィラメント日本総代理店",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入事例 | Markforged最新素材ーー銅の特性と用途 | 日本3Dプリンター株式会社",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "「寸法精度」と「再現性」を高い水準で実現する日本の品質基準は3Dプリンターの利用を検討する際の大きな検討課題です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "また「なぜ？なに？」をどんどん掘り下げる日本の製造現場のカイゼン圧力に対して、理論的な部分から適切に回答できる知見が育っていないという点も課題として挙がってくるでしょう",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "焼結炉運用のノウハウを持っている日本企業にとっては大きな可能性がある分野です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "WAAM方式などと呼ばれており、国内では三菱電機が取り組んでいます",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Japan 2025主催者に聞く！3Dプリンター展示会来場のポイントとは？",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "ShareLabは日本の業務用3Dプリンタ―およびAM（アディティブ・マニュファクチャリング）に関するあらゆる情報が集まるポータルサイトです",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #12 参加申込フォーム",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #13 参加申込フォーム",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #14 参加申込フォーム",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内メーカー一覧",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Forward AM社製3Dプリンターフィラメント【日本総代理店】日本3Dプリンター株式会社",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKlNS-BfO-E-EiKur1J3Y9dgpHop_HertQ19hXFDRvaNW-NF2iR",
+    "pass": 3
+   },
+   {
+    "quote": "日本3Dプリンター株式会社と提携しているForward AM社は、ドイツに本拠地を置く世界的な総合化学・材料メーカーです",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKlNS-BfO-E-EiKur1J3Y9dgpHop_HertQ19hXFDRvaNW-NF2iR",
+    "pass": 3
+   },
+   {
+    "quote": "金属フィラメント選びでお悩みの方は、日本3Dプリンター株式会社にご相談ください！",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKlNS-BfO-E-EiKur1J3Y9dgpHop_HertQ19hXFDRvaNW-NF2iR",
+    "pass": 3
+   },
+   {
+    "quote": "もしも金属フィラメントについて知りたいことがあれば、、ぜひ日本3Dプリンター株式会社にご相談ください",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKlNS-BfO-E-EiKur1J3Y9dgpHop_HertQ19hXFDRvaNW-NF2iR",
+    "pass": 3
+   },
+   {
+    "quote": "日本3Dプリンター株式会社では、自社で世界トップクラスのメーカーの3Dプリンターを複数保有",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKlNS-BfO-E-EiKur1J3Y9dgpHop_HertQ19hXFDRvaNW-NF2iR",
+    "pass": 3
+   },
+   {
+    "quote": "運営：日本3Dプリンター株式会社",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKlNS-BfO-E-EiKur1J3Y9dgpHop_HertQ19hXFDRvaNW-NF2iR",
+    "pass": 3
+   },
+   {
+    "quote": "東京都公安委員会 古物商許可 第301072518676号 日本3Dプリンター株式会社",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKlNS-BfO-E-EiKur1J3Y9dgpHop_HertQ19hXFDRvaNW-NF2iR",
+    "pass": 3
+   },
+   {
+    "quote": "Forward AM社製3Dプリンターフィラメント【日本総代理店】日本3Dプリンター株式会社",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKo-wyikiogCIVQ5foOHRcXsGDrpIc3lGpZE-JjvxGTt0jPXEg3",
+    "pass": 3
+   },
+   {
+    "quote": "日本3Dプリンター株式会社と提携しているForward AM社は、ドイツに本拠地を置く世界的な総合化学・材料メーカーです",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKo-wyikiogCIVQ5foOHRcXsGDrpIc3lGpZE-JjvxGTt0jPXEg3",
+    "pass": 3
+   },
+   {
+    "quote": "金属フィラメント選びでお悩みの方は、日本3Dプリンター株式会社にご相談ください！",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKo-wyikiogCIVQ5foOHRcXsGDrpIc3lGpZE-JjvxGTt0jPXEg3",
+    "pass": 3
+   },
+   {
+    "quote": "もしも金属フィラメントについて知りたいことがあれば、、ぜひ日本3Dプリンター株式会社にご相談ください",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKo-wyikiogCIVQ5foOHRcXsGDrpIc3lGpZE-JjvxGTt0jPXEg3",
+    "pass": 3
+   },
+   {
+    "quote": "日本3Dプリンター株式会社では、自社で世界トップクラスのメーカーの3Dプリンターを複数保有",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKo-wyikiogCIVQ5foOHRcXsGDrpIc3lGpZE-JjvxGTt0jPXEg3",
+    "pass": 3
+   },
+   {
+    "quote": "運営：日本3Dプリンター株式会社",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKo-wyikiogCIVQ5foOHRcXsGDrpIc3lGpZE-JjvxGTt0jPXEg3",
+    "pass": 3
+   },
+   {
+    "quote": "東京都公安委員会 古物商許可 第301072518676号 日本3Dプリンター株式会社",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKo-wyikiogCIVQ5foOHRcXsGDrpIc3lGpZE-JjvxGTt0jPXEg3",
+    "pass": 3
+   },
+   {
+    "quote": "における情報を集めた国内最大級の技術データベースサイトです",
+    "url": "https://www.ipros.com/cg1/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "国内外メーカーで生産中止になっているLED製品の",
+    "url": "https://www.ipros.com/cg1/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "100％国内生産だから高品質！安心・安全なフィラメント",
+    "url": "https://www.ipros.com/cg1/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "■100％国内生産",
+    "url": "https://www.ipros.com/cg1/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "国内トップシェア釣糸メーカー！オーダーメードの糸を作ります！",
+    "url": "https://www.ipros.com/cg1/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "日本カラーフィラメント",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "3D Data Japan",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "3D Data Japan｜素材・用途から探す3Dデータ（有料・無料／SK本舗運営）",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター用フィギュアデータの作り方と無料配布サイト10選｜3D DATA JAPANから海外サイトまで完全ガイド【最新版】",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "こちらは高密度の金属粉末と樹脂バインダーを混ぜたもので、BASF社のUltrafuseシリーズや、日本の第一セラモ社が開発を進めている製品が代表的です（株式会社Brule、2026年）",
+    "url": "https://deskmin.net/2026/08/08/%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%9A%E6%9C%80%E6%96%B0%E8%A3%BD%E5%93%81%E3%81%8B%E3%82%89%E7%84%BC%E7%B5%90%E3%82%BF/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年新モデル】 iPhone hdmi変換ケーブル i-Phone テレビに映す MFi認証済み iPad/i-Phone ミラーリング Lightning HDMI 変換 1080P@60HZ HD画質 遅延なし TV大画面 自動接続 給電不要 設定不要 操作不要 ライトニング hdm i 日本語取説付き（iOS9.2~iOS26システム対応） [並行輸入品]",
+    "url": "https://deskmin.net/2026/08/08/%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%9A%E6%9C%80%E6%96%B0%E8%A3%BD%E5%93%81%E3%81%8B%E3%82%89%E7%84%BC%E7%B5%90%E3%82%BF/",
+    "pass": 3
+   },
+   {
+    "quote": "パナソニック 浄水器 蛇口直結型 カートリッジ交換1年 19物質除去 日本製 ホワイト TK-CJ14-W",
+    "url": "https://deskmin.net/2026/08/08/%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%9A%E6%9C%80%E6%96%B0%E8%A3%BD%E5%93%81%E3%81%8B%E3%82%89%E7%84%BC%E7%B5%90%E3%82%BF/",
+    "pass": 3
+   },
+   {
+    "quote": "先ほども触れた通り、この分野では海外勢と日本勢がしのぎを削っています",
+    "url": "https://deskmin.net/2026/08/08/%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%9A%E6%9C%80%E6%96%B0%E8%A3%BD%E5%93%81%E3%81%8B%E3%82%89%E7%84%BC%E7%B5%90%E3%82%BF/",
+    "pass": 3
+   },
+   {
+    "quote": "という2つの製品を市場に投入しています（日本3Dプリンター株式会社、2022年）",
+    "url": "https://deskmin.net/2026/08/08/%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%9A%E6%9C%80%E6%96%B0%E8%A3%BD%E5%93%81%E3%81%8B%E3%82%89%E7%84%BC%E7%B5%90%E3%82%BF/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、日本の技術も負けてはいません",
+    "url": "https://deskmin.net/2026/08/08/%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%9A%E6%9C%80%E6%96%B0%E8%A3%BD%E5%93%81%E3%81%8B%E3%82%89%E7%84%BC%E7%B5%90%E3%82%BF/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Brule（2026年）の報告によれば、日本の第一セラモ社は、デスクトップ機器向けの金属フィラメント開発を積極的に進めています",
+    "url": "https://deskmin.net/2026/08/08/%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%9A%E6%9C%80%E6%96%B0%E8%A3%BD%E5%93%81%E3%81%8B%E3%82%89%E7%84%BC%E7%B5%90%E3%82%BF/",
+    "pass": 3
+   },
+   {
+    "quote": "BLUETTI ポータブル電源 AORA100 V2 1024Wh 大容量 定格1800W 再生素材採用 45分80％充電 停電時0.01秒切替 | 電力リフト2700W 瞬間最大3600W リン酸鉄 10年長寿命 軽量 停電時も安心バックアップ電源 日本語アプリ遠隔操作 純正弦波 AC100V 50Hz/60Hz対応 耐熱防火設計 低騒音 家庭/アウトドア用 ポタ電 防災/キャンプ/車中泊に最適",
+    "url": "https://deskmin.net/2026/08/08/%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%9A%E6%9C%80%E6%96%B0%E8%A3%BD%E5%93%81%E3%81%8B%E3%82%89%E7%84%BC%E7%B5%90%E3%82%BF/",
+    "pass": 3
+   }
+  ],
+  "日本の顧客が買うか（需要の証拠）": [
+   {
+    "quote": "購入手続きに進む",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKaXIwnDnq8hjShTxy4nAwu5doE93jbjc6xL6rndC9wP50BO-jS",
+    "pass": 3
+   },
+   {
+    "quote": "Filamet 3D Printing Filament | 造形可能 金属フィラメント 3Dプリント | 海外ハードウェアの購入ならUNIPOS(ユニポス)",
+    "url": "https://www.unipos.net/products/filamet-3d-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発者向け海外製品調達・",
+    "url": "https://www.unipos.net/products/filamet-3d-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "海外製品のため、ご注文後のキャンセル、ご返品はお受けできません",
+    "url": "https://www.unipos.net/products/filamet-3d-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "ユニポスはFilamet 3D Printing Filamentの調達販売を行い、海外製品調達に関するお困りごとを解決するサービスです",
+    "url": "https://www.unipos.net/products/filamet-3d-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発者向け海外製品調達サービスです",
+    "url": "https://www.unipos.net/products/filamet-3d-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "お一人様1回、通常購入のみ",
+    "url": "https://skhonpo.com/collections/metal-filament",
+    "pass": 3
+   },
+   {
+    "quote": "購入前ご相談",
+    "url": "https://skhonpo.com/collections/metal-filament",
+    "pass": 3
+   },
+   {
+    "quote": "学生支援・導入事例",
+    "url": "https://skhonpo.com/collections/metal-filament",
+    "pass": 3
+   },
+   {
+    "quote": "寄贈事業導入事例集",
+    "url": "https://skhonpo.com/collections/metal-filament",
+    "pass": 3
+   },
+   {
+    "quote": "購入可能な商品には予約商品も含まれます",
+    "url": "https://skhonpo.com/collections/metal-filament",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターとレジン&フィラメントの通販・購入はSK本舗",
+    "url": "https://skhonpo.com/collections/metal-filament",
+    "pass": 3
+   },
+   {
+    "quote": "海外製品 新着情報 (ユニポスWEB)",
+    "url": "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "海外製品 新着情報 (ユニポス)",
+    "url": "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発者向け海外製品調達・コンサルテーションサービス",
+    "url": "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "Zetamixではアルミナやジルコニアなどセラミックス系を主として扱っており、アセトンによる溶媒脱脂で使用できるため、溶剤の購入のしやすさや設備の簡易さがメリットです",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、脱脂、焼結の安定性は比較的高めで、メーカー推奨の炉も簡易的で安価なチューブ炉が採用されています",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "特に金属に関しては単に炉の購入だけではなく溶剤や雰囲気ガス（アルゴンガスや窒素など）が必要となるので現実的ではありません",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックスに関しては小規模な炉でもでき、雰囲気ガスの購入も不要なケースが多いので、電源関連（200V必要なケースも）、脱脂時の排気の成分などに気を付け、場所を確保できるようなもの好きの方であれば、、、",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "多くの企業では、ローラー・ガイド・スペーサー・ノズルといった部品を外注調達しており、特にカスタムパーツなどで海外メーカーから取り寄せる必要がある場合には",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "従来は高価なステンレス鋼や耐熱合金、セラミックスを加工して調達する必要がありましたが、FFF/MEX方式を活用すれば",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入事例 | Markforged最新素材ーー銅の特性と用途 | 日本3Dプリンター株式会社",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、MIMやCIMの経験がない方が、いきなり機材を購入して使いこなすのは難しいのが現実です",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "この特徴を活かして「部品の強度を落とさない軽量化」「冷却性能などを目的とした中空構造の採用」の面で、従来工法の常識を大きく覆すモノづくりが可能になると期待されています",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "内部流路を備えた金型や、内部中空構造を採用したEVモーターのハウジングなど、熱を効果的に逃がす冷却性能の向上が求められる部品に採用されています",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした重要部品には3Dプリンティング技術を活用した特別な形状の部品が採用されていく可能性が高いでしょう",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "ロケットや人工衛星部品などの生産点数が少ないが非常に高額な部品の製造にも採用報告が相次いでいます",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター購入のための助成金・補助金の制度",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター購入時に使える税制優遇措置",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "購入前にお試し！業務用3Dプリンターが利用できる公共施設",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "購入手続きに進む",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKlNS-BfO-E-EiKur1J3Y9dgpHop_HertQ19hXFDRvaNW-NF2iR",
+    "pass": 3
+   },
+   {
+    "quote": "購入手続きに進む",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKo-wyikiogCIVQ5foOHRcXsGDrpIc3lGpZE-JjvxGTt0jPXEg3",
+    "pass": 3
+   },
+   {
+    "quote": "お一人様1回、通常購入のみ",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "購入前ご相談",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "学生支援・導入事例",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "寄贈事業導入事例集",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "購入前の確認点",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "フィラメントを選ぶ・購入する",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "購入前相談 →",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "すべての素材を順番に購入する必要はありません",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "購入前の適合確認の順序",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "購入前の相談をする →",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "上表の銘柄・機器・確認日と、購入した製品の現行案内が異なる場合は、現行のメーカー指定を優先してください",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "購入した巻数だけで習熟度は決まりません",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "価格は購入する色や容量、販売時点で変わります",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "GENESIS PLA+ 定期購入の料金・条件を見る",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "プリンターが指定する直径を購入してください",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "[医食同源ドットコム] 立体型スパンレース不織布カラーマスク SPUN MASK 個包装 ホワイト 30枚入 iSDG | 3層の不織布でしっかりガード、 息らくらく立体形状、 やわらかい平ゴムを採用し、耳が痛くなりにくい 、口元やわらか素材",
+    "url": "https://deskmin.net/2026/08/08/%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%9A%E6%9C%80%E6%96%B0%E8%A3%BD%E5%93%81%E3%81%8B%E3%82%89%E7%84%BC%E7%B5%90%E3%82%BF/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの製品は、医療機器、航空宇宙、自動車産業といった、高い強度と信頼性が求められる分野での採用が進んでいます",
+    "url": "https://deskmin.net/2026/08/08/%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%9A%E6%9C%80%E6%96%B0%E8%A3%BD%E5%93%81%E3%81%8B%E3%82%89%E7%84%BC%E7%B5%90%E3%82%BF/",
+    "pass": 3
+   },
+   {
+    "quote": "BLUETTI ポータブル電源 AORA100 V2 1024Wh 大容量 定格1800W 再生素材採用 45分80％充電 停電時0.01秒切替 | 電力リフト2700W 瞬間最大3600W リン酸鉄 10年長寿命 軽量 停電時も安心バックアップ電源 日本語アプリ遠隔操作 純正弦波 AC100V 50Hz/60Hz対応 耐熱防火設計 低騒音 家庭/アウトドア用 ポタ電 防災/キャンプ/車中泊に最適",
+    "url": "https://deskmin.net/2026/08/08/%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%9A%E6%9C%80%E6%96%B0%E8%A3%BD%E5%93%81%E3%81%8B%E3%82%89%E7%84%BC%E7%B5%90%E3%82%BF/",
+    "pass": 3
+   },
+   {
+    "quote": "購入手続きに進む",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vIv0-dmBYoS47vz73JftXzi49qZAv1o03QXci2zvNRw-f_6XB2S",
+    "pass": 3
+   },
+   {
+    "quote": "購入手続きに進む",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vLGapc3_sWlW89rF_kdt2t0_xgisdIeS12ISqEFhbEbaSq_mAfN",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション/導入事例",
+    "url": "https://3dprinter.co.jp/product/basf/",
+    "pass": 3
+   },
+   {
+    "quote": "購入手続きに進む",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vLyAP4Fzx7ZbpGD0xTJRqDdDRQI38YG6rAd5emsC_bnCLexECd2",
+    "pass": 3
+   },
+   {
+    "quote": "Zetamix、3Dプリンターで利用できる最初のセラミックおよび金属フィラメント｜導入事例一覧｜Raise3D国内総代理店｜日本3Dプリンター株式会社",
+    "url": "https://www.raise3d.jp/case/25",
+    "pass": 3
+   },
+   {
+    "quote": "カスタムメイドのセラミックブレードの購入も非常に高価であり、納期は数週間かかります",
+    "url": "https://www.raise3d.jp/case/25",
+    "pass": 3
+   },
+   {
+    "quote": "ご購入、企業に関するお問い合わせ はこちら",
+    "url": "https://www.raise3d.jp/case/25",
+    "pass": 3
+   },
+   {
+    "quote": "購入手続きに進む",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJ6eYeU3nmd_sy6AavVcP0DyAzXUjjx2LxmRlFcFnqhGXKObVzK",
+    "pass": 3
+   },
+   {
+    "quote": "MEX（MaterialExtrusion）方式は、樹脂3Dプリンターで広く採用されている造形手法で、フィラメント状の素材をノズルで加熱・溶融し、層ごとに積み重ねていく仕組みです",
+    "url": "https://3day-printer.com/media/product-service/3d-printer-metal/",
+    "pass": 3
+   }
+  ],
+  "再生・循環": [
+   {
+    "quote": "3Dプリンタ フィラメント押出機/再生機 Filament Extruder (エクストルーダー)",
+    "url": "https://www.unipos.net/products/filamet-3d-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "インプラントや細胞・組織再生用のスキャフォールド（足場材）など",
+    "url": "https://www.ipros.com/cg1/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "BLUETTI ポータブル電源 AORA100 V2 1024Wh 大容量 定格1800W 再生素材採用 45分80％充電 停電時0.01秒切替 | 電力リフト2700W 瞬間最大3600W リン酸鉄 10年長寿命 軽量 停電時も安心バックアップ電源 日本語アプリ遠隔操作 純正弦波 AC100V 50Hz/60Hz対応 耐熱防火設計 低騒音 家庭/アウトドア用 ポタ電 防災/キャンプ/車中泊に最適",
+    "url": "https://deskmin.net/2026/08/08/%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%9A%E6%9C%80%E6%96%B0%E8%A3%BD%E5%93%81%E3%81%8B%E3%82%89%E7%84%BC%E7%B5%90%E3%82%BF/",
+    "pass": 3
+   },
+   {
+    "quote": "難燃性や耐熱性などの機能性やリサイクル材料を使用した製品、強度や造形安定性を高めたフィラメントが含まれています",
+    "url": "https://www.3d-filament.jp/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "3Dプリンター用 金属フィラメント とは？ 金属 素材の種類と強度 — 3Dプリンター用 金属フィラメント とは？ 金属 素材の種類と強度 hotty.co.jp https://www.hotty.co.jp > ... > 3Dプリンターサービス",
+    "url": "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Filamet 3D Printing Filament | 造形 可能 金属フィラメント 3D ... — Filamet 3D Printing Filament | 造形 可能 金属フィラメント 3D ... unipos.net https://www.unipos.net > 製品 > サプライ・消耗品",
+    "url": "https://www.unipos.net/products/filamet-3d-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "デスクトップ機器向けに開発された 金属フィラメント - Brule — デスクトップ機器向けに開発された 金属フィラメント - Brule Brule - 3Dプリンタ https://www.brule.co.jp > learn > casestudy",
+    "url": "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vLbCY6HBE6W1Rth1AVeA8jYuFzqMo_mDmMJL7G11TxJY78VRvGp",
+    "pass": 3
+   },
+   {
+    "quote": "金属フィラメント Ultrafuse 316L 造形 プロセス 1 - YouTube — 金属フィラメント Ultrafuse 316L 造形 プロセス 1 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=LbW89kDln5Y",
+    "pass": 3
+   },
+   {
+    "quote": "デスクトップ機器向けに開発された 金属フィラメント - Brule — デスクトップ機器向けに開発された 金属フィラメント - Brule Brule - 3Dプリンタ https://www.brule.co.jp > learn > casestudy",
+    "url": "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vLxyoY8ZqqzXsQrZBcjXi72Zyu50aM1REl8cvcDRYtN1mSOEhOR",
+    "pass": 3
+   },
+   {
+    "quote": "3D プリンター 用 金属フィラメント とは？ 金属 素材の種類と強度 — 3D プリンター 用 金属フィラメント とは？ 金属 素材の種類と強度 hotty.co.jp https://www.hotty.co.jp > ... > 3Dプリンターサービス",
+    "url": "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "デスクトップ機器向けに開発された 金属フィラメント - Brule — デスクトップ機器向けに開発された 金属フィラメント - Brule Brule - 3Dプリンタ https://www.brule.co.jp > learn > casestudy",
+    "url": "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vILPVitvLzIEyAIgZrFT_ZZZkNKgb-1HruBJnjGSjYETkxir4Yy",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "わずかなエネルギー消費量",
+    "url": "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "GENESIS PLA+ 定期購入の料金・条件を見る",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "概算個数は「使える材料の重さ÷1個あたりの材料使用量」で求めます",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "1kg巻きなら1,000gを基準に、スライサーでサポート・切り替え時の排出分も含む使用量を確認します",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "複数スプール単位での調達・定期発注・請求書払いは法人窓口にてご対応いたします",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "適切な温度設定、高品質のフィラメント使用、定期的なメンテナンスが重要です",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "ノズルを定期的にクリーニングし、詰まりを防ぎましょう",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   }
+  ],
+  "ニッチ度（供給元の数・寡占）": [
+   {
+    "quote": "参入障壁の低さ",
+    "url": "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "pass": 3
+   }
+  ],
+  "市場規模": [
+   {
+    "quote": "世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金属3Dプリンター市場規模・予測グラフ（出典：JMAR、2021年）",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "＞＞製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "物理的、化学的性質に優れたPEEK（ポリエーテルエーテルケトン）樹脂で製造されたFDM方式3Dプリンタ用フィラメントです",
+    "url": "https://www.ipros.com/cg1/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形用金属フィラメントの最新調査：2026 - 2032年市場規模、動向、主要企業動向と成長予測 - QY Research株式会社",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形用金属フィラメントの最新調査：2026 - 2032年市場規模、動向、主要企業動向と成長予測",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模と成長予測（2026~2032）",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "世界の積層造形用金属フィラメント市場規模は、2025年に2568百万米ドルに達すると予測され、2026年には2774百万米ドルに成長する見込みです",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "2025～2031年の積層造形用金属フィラメント市場規模推移およびCAGRを提示し、成長ドライバーと拡大ポテンシャルを明確化します",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "オンデマンド金属積層造形サービス調査レポート：市場規模、産業分析、最新動向、予測2026-2032",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】PVA 3Dプリントフィラメント市場規模は2032年までに165百万米ドルへ、CAGR3…",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末積層造形の最新調査：市場規模、動向、成長予測2026-2032",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "低炭素ガラス瓶市場規模と変化予測：産業チェーン、価格リスク、成長分析2026-2032 QYResearch",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "pass": 3
+   },
+   {
+    "quote": "約2時間の造形後、ブレードをアセトン浴に12時間浸し、乾燥させ、ゼータシンター炉で3日間焼結した",
+    "url": "https://www.raise3d.jp/case/25",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "金属フィラメント対応のFDM3Dプリンターについて徹底解説 Apr 2, 2025 · 今回は、家庭でも使える金属フィラメント対応のFDM方式3Dプリンターについて、詳しくご紹介します。 おすすめの機種から、出力のコツ、必要な道具、注意点まで、しっかり網羅していきますので、ぜひ参考にしてくださいね。 金属フィラメント対応FDMとは？",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "家庭で使える小型金属3Dプリンター完全ガイド！2025年のおすすめモデ... Mar 25, 2025 · 特に 後処理や安全管理 のハードルがあるので、「DIY感覚で楽しむ」というよりは 本格的な金属加工をしたい人向け のツールになります。 ただし、 FDM方式で金属フィラメントを使うモデル なら、家庭でも比較的簡単に 金属パーツの試作 が可能！",
+    "url": "https://note.com/skhonpo/n/nc1704938f168",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "金属フィラメント対応のFDM3Dプリンターについて徹底解説｜SK本舗",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "金属フィラメント対応のFDM3Dプリンターについて徹底解説",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、家庭でも使える金属フィラメント対応のFDM方式3Dプリンターについて、詳しくご紹介します。 おすすめの機種から、出力のコツ、必要な道具、注意点まで、しっかり網羅していきますので、ぜひ参考にしてくださいね。",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめの金属フィラメント対応FDM 3Dプリンター",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "金属フィラメントでの出力のコツと必要な道具",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "金属フィラメントでの造形を成功させるポイント",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "FDM（Fused Deposition Modeling）方式の3Dプリンターは、溶かしたフィラメントを積層して造形する一般的な方式です。 通常はPLAやABSといった樹脂系フィラメントを使用しますが、近年では金属粉末を含んだ金属フィラメントを使用することで、金属パーツの造形も可能になってきました。 これにより、家庭でも手軽に金属製のオブジェクトやパーツを作成できるようになっています。",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "家庭で使える小型金属3Dプリンター完全ガイド！2025年のおすすめモデルも紹介｜SK本舗",
+    "url": "https://note.com/skhonpo/n/nc1704938f168",
+    "pass": 3
+   },
+   {
+    "quote": "家庭で使える小型金属3Dプリンター完全ガイド！2025年のおすすめモデルも紹介",
+    "url": "https://note.com/skhonpo/n/nc1704938f168",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターといえば、プラスチック素材を使うイメージが強いですが、実は",
+    "url": "https://note.com/skhonpo/n/nc1704938f168",
+    "pass": 3
+   },
+   {
+    "quote": "も可能です！昔は工業用途が中心で、大型で高価なものがほとんどでしたが、最近では",
+    "url": "https://note.com/skhonpo/n/nc1704938f168",
+    "pass": 3
+   },
+   {
+    "quote": "「家庭で金属パーツをプリントできたら、DIYの幅が広がりそう！」「でも導入コストや使い方が難しそう…」という疑問を持つ人もいるはず。この記事では",
+    "url": "https://note.com/skhonpo/n/nc1704938f168",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの基本から、2025年におすすめの小型機種まで",
+    "url": "https://note.com/skhonpo/n/nc1704938f168",
+    "pass": 3
+   },
+   {
+    "quote": "そもそも金属3Dプリンターってどんな仕組み？",
+    "url": "https://note.com/skhonpo/n/nc1704938f168",
+    "pass": 3
+   },
+   {
+    "quote": "家庭用におすすめの小型金属3Dプリンター（2025年版）",
+    "url": "https://note.com/skhonpo/n/nc1704938f168",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "MEX方式の3Dプリンタで造形可能な弊社金属フィラメントですが、ステン... MEX方式の3Dプリンタで造形可能な弊社金属フィラメントですが、ステンレス以外の金属も着々と開発進んでいます。 現在、純銅フィラメントが今一歩のところまできてます。 年度内の正式リリースを目指して頑張っています！",
+    "url": "https://x.com/daiichiceramo/status/1963169073946341651",
+    "pass": 3
+   },
+   {
+    "quote": "これがわずか数個しか生産されなかった 第一セラモの金属フィラメント... これがわずか数個しか生産されなかった 第一セラモの金属フィラメントで作られた SUS316LのMakerChipだ 比較に1円玉を置いたが、この細かい文字もエッジが出て良い感じ Bambu LabのA1で出力してるとは思えん オチはご存知、脱脂焼結に1000万超える炉が必要 #JRRF2026",
+    "url": "https://x.com/wakuwaku_jin_jp/status/2061364852648726639",
+    "pass": 3
+   },
+   {
+    "quote": "adventurer3Xは焼結用金属フィラメント対応です！ 後々アップルツリー... 後々アップルツリーがバインダーの脱脂と焼結をするサービスを開始します！ とか大々的に販売しておいて 結局音沙汰なく、通常より数万円高い色の黒いだけのadventurer3を騙されて購入させられましたねー あと、adventurer3と4はメッシュレベリング対応です！",
+    "url": "https://x.com/tonnsoku943/status/2070701583525142648",
+    "pass": 3
+   },
+   {
+    "quote": "写真は先日発表したAdventurer3Xでプリントした金属ギア部品 左は金属... 写真は先日発表したAdventurer3Xでプリントした金属ギア部品 左は金属フィラメントでプリントしたモデル 右は脱脂焼結を行なったことで収縮した金属ギア フィラメントの材質はステンレス316 バインダーは約10%混ざってます 焼結後のモデルはXY方向12%、Z方向 ...",
+    "url": "https://x.com/APPLE_TREE_CO/status/1222005663884181504",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "次世代製造のためのグローバル金属フィラメント市場の成長旅路：現在... Nov 28, 2025 · ステンレス鋼、銅、ブロンズ、アルミニウムなどの金属フィラメントカテゴリは、付加製造市場の将来において重要な役割を果たす。 当これらのフィラメントは、機械的特性や耐久性に優れ、産業用途での需要が高まることで競争力が向上する。",
+    "url": "https://jp.linkedin.com/pulse/次世代製造のためのグローバル金属フィラメント市場の成長旅路現在の-7399562203483426816-amtnc",
+    "pass": 3
+   },
+   {
+    "quote": "金属フィラメントの付加製造市場成長の見通し 2025-2032: 売上、収益... Dec 27, 2025 · この技術は製造プロセスの効率向上を促進し、軽量化や複雑な形状の製品設計を可能にします。 現在、市場は急成長しており、特に航空宇宙や自動車産業における適用が増加しています。",
+    "url": "https://jp.linkedin.com/pulse/金属フィラメントの付加製造市場成長の見通し-2025-2032-売上収益シェア予測cagrは85-bizlogis-e00me",
+    "pass": 3
+   },
+   {
+    "quote": "BASFの金属フィラメントのUltrafuse® 316L、Ultrafuse® 17-4PHは、FFF... #BASF #AdditiveManufacturing #metalprinting #3Dプリント BASF Ultrafuse® Metalフィラメント 詳細：https://bit.ly/48MfnSW",
+    "url": "https://www.linkedin.com/posts/3dprinterjp_basf-additivemanufacturing-metalprinting-activity-7171670982774996994-wCeZ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "日本3Dプリンター株式会社 - BASFの金属フィラメントのUltrafuse® 316... Mar 7, 2024 · BASFの金属フィラメントのUltrafuse® 316L、Ultrafuse® 17-4PHは、FFF方式で金属造形を可能にした革新的なフィラメントです。 取り扱いが簡単で、複雑な金属造形にも適しています。 低コスト、スピード、柔軟性と高い機械的強度と硬度を兼ね備えた素材です。 #BASF...",
+    "url": "https://www.facebook.com/3Dprinter.co.jp/posts/basfの金属フィラメントのultrafuse-316lultrafuse-17-4phはfff方式で金属造形を可能にした革新的なフィラメントです取り扱いが簡単/918477480281843/",
+    "pass": 3
+   },
+   {
+    "quote": "日本3Dプリンター株式会社 - ⚙️金属フィラメントUltrafuse 316L造形プ... Mar 4, 2021 · ⚙️金属フィラメントUltrafuse 316L造形プロセス Ultrafuse Metalフィラメントは従来のFFF方式3Dプリンターで、簡単に造形しやすいよう、ステンレス80%とポリマー20%を混合しており、「Ultrafuse...",
+    "url": "https://www.facebook.com/3Dprinter.co.jp/posts/4446463028704018/",
+    "pass": 3
+   },
+   {
+    "quote": "⚙️金属フィラメントUltrafuse 316L造形 ... - Facebook Ultrafuse Metalフィラメントは従来のFFF方式3Dプリンターで、簡単に造形しやすいよう、ステンレス80%とポリマー20%を混合しており、「Ultrafuse 316L」は脱脂・焼結のプロセスを経ることで、ステンレス316Lグレードの部品生産が可能です。",
+    "url": "https://www.facebook.com/3Dprinter.co.jp/videos/️金属フィラメントultrafuse-316l造形プロセス/835633603659015/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%B8%82%E5%A0%B4-115196",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/3d-printing-filament-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000353813",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%A1%E3%82%BF%E3%83%AB-pla-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%A8%E5%B1%95%E6%9C%9B2026-2033%E4%BC%81%E6%A5%AD%E3%83%97%E3%83%AD%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%A8%E4%BA%88%E6%B8%ACcagr-61-couplercatchx-hmh8e",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://i-maker.jp/blog/colorfabb-bronzefill-3786.html?srsltid=AYCX9vJH2ORisxdzrl0u8BeeI6SSdfrE0-S0eyH7oS3aaDPyF0ra4kaq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKaXIwnDnq8hjShTxy4nAwu5doE93jbjc6xL6rndC9wP50BO-jS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/products/filamet-3d-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/metal-filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoyomaker.jp/copperfill/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKlNS-BfO-E-EiKur1J3Y9dgpHop_HertQ19hXFDRvaNW-NF2iR",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vLbCY6HBE6W1Rth1AVeA8jYuFzqMo_mDmMJL7G11TxJY78VRvGp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/blog/metal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKo-wyikiogCIVQ5foOHRcXsGDrpIc3lGpZE-JjvxGTt0jPXEg3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/cg1/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vLxyoY8ZqqzXsQrZBcjXi72Zyu50aM1REl8cvcDRYtN1mSOEhOR",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://i-maker.jp/blog/colorfabb-bronzefill-3786.html?srsltid=AYCX9vKoXlssfneu4nDTo3pw2_7LSQAfe2X5acLWrP9hyuP-lHgYr6_m",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deskmin.net/2026/08/08/%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%9A%E6%9C%80%E6%96%B0%E8%A3%BD%E5%93%81%E3%81%8B%E3%82%89%E7%84%BC%E7%B5%90%E3%82%BF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vIv0-dmBYoS47vz73JftXzi49qZAv1o03QXci2zvNRw-f_6XB2S",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vIzOJmXrpu0eZPFwNOxw-LcW41kjdNX2x8wNdfLh6KplZdvsFQw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://lifedoor-group.com/files/libs/1751/202404081007129655.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vLGapc3_sWlW89rF_kdt2t0_xgisdIeS12ISqEFhbEbaSq_mAfN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/1ij9uj5/what_filament_is_closest_to_metal/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://3dprinter.co.jp/product/basf/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vKNfzjoqBwM0ByTfxa5SYOwtIlurIRQDtxcSKVrelpGFvV8UdQb",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://i-maker.jp/blog/colorfabb-bronzefill-3786.html?srsltid=AYCX9vIe-wPQXbDx0alFzpjyNvSdy80goEi_BejABqmhjsb_3QPoNCl9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qyresearch.hateblo.jp/entry/2026/05/11/102342",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vLyAP4Fzx7ZbpGD0xTJRqDdDRQI38YG6rAd5emsC_bnCLexECd2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/cerafila-sus316l-tct/?srsltid=AYCX9vKPUiHs_EXOwMolM2HTN4WwkbLLF4mVQhxIP-Zx1WDXBNdgPKa6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://i-maker.jp/blog/colorfabb-bronzefill-3786.html?srsltid=AYCX9vJTHOwGsI4Xbx4bQLTZz78ERgHCVHlMPTLve7i0B298UU1FDW65",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.raise3d.jp/case/25",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-filament.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01537/00879/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJ6eYeU3nmd_sy6AavVcP0DyAzXUjjx2LxmRlFcFnqhGXKObVzK",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3day-printer.com/media/product-service/3d-printer-metal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vILPVitvLzIEyAIgZrFT_ZZZkNKgb-1HruBJnjGSjYETkxir4Yy",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/categories/8363/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.desktopmetal.com/resources/deep-dive-bmd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/skhonpo/n/nc1704938f168",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/daiichiceramo/status/1963169073946341651",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/wakuwaku_jin_jp/status/2061364852648726639",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tonnsoku943/status/2070701583525142648",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/APPLE_TREE_CO/status/1222005663884181504",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/次世代製造のためのグローバル金属フィラメント市場の成長旅路現在の-7399562203483426816-amtnc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/金属フィラメントの付加製造市場成長の見通し-2025-2032-売上収益シェア予測cagrは85-bizlogis-e00me",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/3dprinterjp_basf-additivemanufacturing-metalprinting-activity-7171670982774996994-wCeZ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/3Dprinter.co.jp/posts/basfの金属フィラメントのultrafuse-316lultrafuse-17-4phはfff方式で金属造形を可能にした革新的なフィラメントです取り扱いが簡単/918477480281843/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/3Dprinter.co.jp/posts/4446463028704018/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/3Dprinter.co.jp/videos/️金属フィラメントultrafuse-316l造形プロセス/835633603659015/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属フィラメント（金属を混ぜた造形用フィラメント） 市場規模 CAGR",
+   "results": [
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%B8%82%E5%A0%B4-115196",
+    "https://www.mordorintelligence.com/ja/industry-reports/3d-printing-filament-market",
+    "https://www.dreamnews.jp/press/0000353813",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://jp.linkedin.com/pulse/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%A1%E3%82%BF%E3%83%AB-pla-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%A8%E5%B1%95%E6%9C%9B2026-2033%E4%BC%81%E6%A5%AD%E3%83%97%E3%83%AD%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%A8%E4%BA%88%E6%B8%ACcagr-61-couplercatchx-hmh8e",
+    "https://www.kingsresearch.com/ja/3d-printing-filament-market-536",
+    "https://www.coherentmarketinsights.com/ja/%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E5%B8%82%E5%A0%B4",
+    "https://www.sphericalinsights.com/jp/reports/3d-printing-metals-market"
+   ]
+  },
+  {
+   "query": "金属フィラメント（金属を混ぜた造形用フィラメント） 価格 kg",
+   "results": [
+    "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "https://www.amazon.co.jp/%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/s?k=%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88",
+    "https://i-maker.jp/blog/colorfabb-bronzefill-3786.html?srsltid=AYCX9vJH2ORisxdzrl0u8BeeI6SSdfrE0-S0eyH7oS3aaDPyF0ra4kaq",
+    "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKaXIwnDnq8hjShTxy4nAwu5doE93jbjc6xL6rndC9wP50BO-jS",
+    "https://www.unipos.net/products/filamet-3d-filament/",
+    "https://skhonpo.com/collections/metal-filament",
+    "https://yoyomaker.jp/copperfill/",
+    "https://search.rakuten.co.jp/search/mall/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC+%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88+%E9%87%91%E5%B1%9E/",
+    "https://3dprinter.co.jp/product/markforged/metal-x/",
+    "https://www.amazon.co.jp/金属フィラメント/s?k=金属フィラメント"
+   ]
+  },
+  {
+   "query": "金属フィラメント（金属を混ぜた造形用フィラメント） シェア 主要企業",
+   "results": [
+    "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKlNS-BfO-E-EiKur1J3Y9dgpHop_HertQ19hXFDRvaNW-NF2iR",
+    "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vLbCY6HBE6W1Rth1AVeA8jYuFzqMo_mDmMJL7G11TxJY78VRvGp",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%B8%82%E5%A0%B4-115196",
+    "https://skhonpo.com/blogs/blog/metal"
+   ]
+  },
+  {
+   "query": "金属フィラメント（金属を混ぜた造形用フィラメント） 主要メーカー 一覧",
+   "results": [
+    "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vKo-wyikiogCIVQ5foOHRcXsGDrpIc3lGpZE-JjvxGTt0jPXEg3",
+    "https://www.youtube.com/watch?v=LbW89kDln5Y",
+    "https://www.ipros.com/cg1/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vLxyoY8ZqqzXsQrZBcjXi72Zyu50aM1REl8cvcDRYtN1mSOEhOR",
+    "https://i-maker.jp/blog/colorfabb-bronzefill-3786.html?srsltid=AYCX9vKoXlssfneu4nDTo3pw2_7LSQAfe2X5acLWrP9hyuP-lHgYr6_m",
+    "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "https://deskmin.net/2026/08/08/金属フィラメント徹底解説：最新製品から焼結タ/",
+    "https://deskmin.net/2026/08/11/2026年最新版：デスクトップ3dプリンタで使える金属/"
+   ]
+  },
+  {
+   "query": "金属フィラメント（金属を混ぜた造形用フィラメント） 参入企業 数",
+   "results": [
+    "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vIv0-dmBYoS47vz73JftXzi49qZAv1o03QXci2zvNRw-f_6XB2S",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://skhonpo.com/blogs/blog/metal",
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vIzOJmXrpu0eZPFwNOxw-LcW41kjdNX2x8wNdfLh6KplZdvsFQw",
+    "https://www.youtube.com/watch?v=snJAXXU1cSk",
+    "https://lifedoor-group.com/files/libs/1751/202404081007129655.pdf"
+   ]
+  },
+  {
+   "query": "金属フィラメント（金属を混ぜた造形用フィラメント） 日本 需要",
+   "results": [
+    "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vLGapc3_sWlW89rF_kdt2t0_xgisdIeS12ISqEFhbEbaSq_mAfN",
+    "https://www.youtube.com/watch?v=LbW89kDln5Y",
+    "https://www.reddit.com/r/3Dprinting/comments/1ij9uj5/what_filament_is_closest_to_metal/?tl=ja",
+    "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://3dprinter.co.jp/product/basf/",
+    "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vKNfzjoqBwM0ByTfxa5SYOwtIlurIRQDtxcSKVrelpGFvV8UdQb",
+    "https://i-maker.jp/blog/colorfabb-bronzefill-3786.html?srsltid=AYCX9vIe-wPQXbDx0alFzpjyNvSdy80goEi_BejABqmhjsb_3QPoNCl9",
+    "https://qyresearch.hateblo.jp/entry/2026/05/11/102342"
+   ]
+  },
+  {
+   "query": "金属フィラメント（金属を混ぜた造形用フィラメント） 国内 導入台数 OR 輸入量",
+   "results": [
+    "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vLyAP4Fzx7ZbpGD0xTJRqDdDRQI38YG6rAd5emsC_bnCLexECd2",
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://idarts.co.jp/3dp/cerafila-sus316l-tct/?srsltid=AYCX9vKPUiHs_EXOwMolM2HTN4WwkbLLF4mVQhxIP-Zx1WDXBNdgPKa6",
+    "https://i-maker.jp/blog/colorfabb-bronzefill-3786.html?srsltid=AYCX9vJTHOwGsI4Xbx4bQLTZz78ERgHCVHlMPTLve7i0B298UU1FDW65",
+    "https://www.raise3d.jp/case/25",
+    "https://www.3d-filament.jp/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/01537/00879/"
+   ]
+  },
+  {
+   "query": "金属フィラメント（金属を混ぜた造形用フィラメント） 日本企業 採用 調達 事例",
+   "results": [
+    "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "https://www.youtube.com/watch?v=LbW89kDln5Y",
+    "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJ6eYeU3nmd_sy6AavVcP0DyAzXUjjx2LxmRlFcFnqhGXKObVzK",
+    "https://3day-printer.com/media/product-service/3d-printer-metal/",
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vILPVitvLzIEyAIgZrFT_ZZZkNKgb-1HruBJnjGSjYETkxir4Yy",
+    "https://metoree.com/categories/8363/",
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "https://www.raise3d.jp/case/25"
+   ]
+  },
+  {
+   "query": "metal filament bound metal deposition market Japan customers demand imports",
+   "results": [
+    "https://www.desktopmetal.com/resources/deep-dive-bmd",
+    "https://proto3000.com/service/additive-manufacturing-canada-united-states/materials/overview/bound-metal-deposition-bmd-design-guidelines/",
+    "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.youtube.com/watch?v=78la57yaxBU",
+    "https://nwirc.org/metal-3d-printing/",
+    "https://www.marketsandmarkets.com/ResearchInsight/3d-printing-metal-market.asp",
+    "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "https://thevirtualfoundry.com/3d-printing-additive-manufacturing-definition-2/",
+    "https://dataintelo.com/report/bound-metal-deposition-market"
+   ]
+  },
+  {
+   "query": "金属フィラメント（金属を混ぜた造形用フィラメント） 供給契約 長期",
+   "results": [
+    "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vI4KKzPZaYyF0y_SnEYLKDWkqm6dvr7hKLy0GEDw_IIRhK56drl",
+    "https://www.youtube.com/watch?v=LbW89kDln5Y",
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://i-maker.jp/blog/colorfabb-bronzefill-3786.html?srsltid=AYCX9vKZnxaKrOmDlZTYqAnr8w5nGXJJ7V8Ou_jXYUJZUgX7nU854M0D",
+    "https://www.reddit.com/r/3Dprinting/comments/1b72oug/making_usable_metal_filament/?tl=ja",
+    "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vKRJR8vqyj-Ga_31fulGEKtV2RoEDtBkQ87PhOcfoIM-wyU73Ny",
+    "https://idarts.co.jp/3dp/bambu-lab-the-virtual-foundry-partner-metal-3d-printing/?srsltid=AYCX9vJIZQZHwPiIKT5_GNDwB2N_zsZReICajVSQy9YHbv3qK_w7tqQx"
+   ]
+  },
+  {
+   "query": "metal filament bound metal deposition market market size CAGR 2030",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://www.grandviewresearch.com/industry-analysis/metal-3d-printing-market",
+    "https://straitsresearch.com/report/metal-additive-manufacturing-market",
+    "https://www.linkedin.com/pulse/future-directed-energy-deposition-ded-metal-3d-printer-r4v2e",
+    "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://www.metal-am.com/am-market-forecast-to-reach-51-billion-by-2030/",
+    "https://additive-manufacturing-report.com/general/3d-printing-market-size/",
+    "https://www.coherentmarketinsights.com/industry-reports/metal-additive-manufacturing-market",
+    "https://dataintelo.com/report/bound-metal-deposition-market"
+   ]
+  },
+  {
+   "query": "metal filament bound metal deposition market price per kg",
+   "results": [
+    "https://www.desktopmetal.com/resources/deep-dive-bmd",
+    "https://proto3000.com/3d-printing/deep-dive-bound-metal-deposition/",
+    "https://www.wevolver.com/article/chapter-1-core-metal-3d-printing-technologies",
+    "https://all3dp.com/1/3d-printing-metal-with-metal-filament/",
+    "https://www.researchgate.net/publication/391410447_Life_cycle_assessment_of_metal_additive_manufacturing_processes_A_comparative_study_of_bound_metal_deposition_and_binder_jetting_technologies",
+    "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "https://www.marketsandmarkets.com/Market-Reports/3d-printing-metal-market-34714085.html",
+    "https://additiveplus.com/product-category/materials/metal-powders/?srsltid=AYCX9vLUaigMTXMD0TOgZHlTrGyyvyKGMvcQT6cLJUlLtYdtfnjgFSD7",
+    "https://www.voxelmatters.report/product/metal-am-market-2025/",
+    "https://www.verifiedmarketreports.com/product/bound-metal-deposition-market/"
+   ]
+  },
+  {
+   "query": "metal filament bound metal deposition market key players market share percent",
+   "results": [
+    "https://dataintelo.com/report/bound-metal-deposition-market",
+    "https://www.verifiedmarketreports.com/product/bound-metal-deposition-market/",
+    "https://www.globalinforesearch.com/reports/1909811/bound-metal-deposition",
+    "https://www.verifiedmarketreports.com/product/bound-metal-additive-manufacturing-market/",
+    "https://pdf.marketpublishers.com/globalinfo/global-bound-metal-deposition-market-globalinfo.pdf",
+    "https://www.intelmarketresearch.com/metal-filament-for-additive-market-22991",
+    "https://infinitymarketresearch.com/report/bound-metal-deposition-market/6970"
+   ]
+  },
+  {
+   "query": "metal filament bound metal deposition market number of suppliers concentrated OR fragmented",
+   "results": [
+    "https://en.wikipedia.org/wiki/Fragmentation_(economics)",
+    "https://www.scribd.com/document/835345066/Fragmented-vs-Concentrated-Markets",
+    "https://www.compliancequest.com/blog/hidden-cost-fragmented-supplier-data-procurement-solutions/",
+    "https://slm.mba/mmpc-012/competitive-strategy-in-fragmented-industries/",
+    "https://www.linkedin.com/pulse/supply-chain-complex-fragmented-under-pressure-how-muslumov-msc-",
+    "https://evsmetal.com/2026/01/manufacturing-risk-multi-vendor-vs-integrated-supply-chains/",
+    "https://365financialanalyst.com/knowledge-hub/business-analysis-and-strategy/what-is-industry-concentration/"
+   ]
+  },
+  {
+   "query": "metal filament bound metal deposition market consumption per machine per year",
+   "results": [
+    "https://www.verifiedmarketreports.com/product/bound-metal-deposition-market/",
+    "https://dataintelo.com/report/bound-metal-deposition-market",
+    "https://growthmarketreports.com/report/bound-metal-deposition-3d-printer-market",
+    "https://www.verifiedmarketreports.com/product/bound-metal-additive-manufacturing-market/",
+    "https://pmarketresearch.com/it/bound-metal-deposition-market/",
+    "https://datahorizzonresearch.com/bound-metal-deposition-market-25422",
+    "https://dataintelo.com/report/bound-metal-deposition-printer-market"
+   ]
+  },
+  {
+   "query": "metal filament bound metal deposition market qualification long-term supply agreement",
+   "results": [
+    "https://dataintelo.com/report/bound-metal-deposition-market",
+    "https://www.verifiedmarketreports.com/product/bound-metal-deposition-market/",
+    "https://datahorizzonresearch.com/bound-metal-deposition-market-25422",
+    "https://www.datainsightsreports.com/reports/bound-metal-deposition-market-43300",
+    "https://www.verifiedmarketreports.com/product/bound-metal-additive-manufacturing-market/",
+    "https://www.linkedin.com/pulse/bound-metal-deposition-market-outlook-20242033-4jxcc",
+    "https://blog.met3dp.com/blog/metal-additive-manufacturing-supplier-in-2026-vendor-qualification-playbook/"
+   ]
+  },
+  {
+   "query": "metal filament bound metal deposition market distributor direct sales OEM approved materials",
+   "results": [
+    "https://www.thomasnet.com/suppliers/usa/bound-metal-deposition-(bmd)-additive-manufacturing-97012842",
+    "https://www.desktopmetal.com/",
+    "https://www.desktopmetal.com/resources/deep-dive-bmd",
+    "https://www.voxelmatters.directory/",
+    "https://markforged.com/materials/",
+    "https://proto3000.com/3d-printing/metal-3d-printing/deep-dive-bound-metal-deposition/",
+    "https://www.rapidia.com/conflux1system"
+   ]
+  },
+  {
+   "query": "site:note.com 金属フィラメント（金属を混ぜた造形用フィラメント）",
+   "results": [
+    "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "https://note.com/skhonpo/n/nc1704938f168",
+    "https://note.com/takenoko_lab/n/n13a71e8109e5",
+    "https://note.com/central_wolf/n/n3a0a27c977bc",
+    "https://note.com/kicrea_20251026/n/n058660c47208",
+    "https://note.com/unique_lily8381/n/n427ac5ac778e",
+    "https://note.com/jfe_tec/n/n390e31c22c0b"
+   ]
+  },
+  {
+   "query": "site:x.com 金属フィラメント（金属を混ぜた造形用フィラメント）",
+   "results": [
+    "https://x.com/daiichiceramo/status/1963169073946341651",
+    "https://x.com/wakuwaku_jin_jp/status/2061364852648726639",
+    "https://x.com/tonnsoku943/status/2070701583525142648",
+    "https://x.com/APPLE_TREE_CO/status/1222005663884181504",
+    "https://x.com/daiichiceramo",
+    "https://x.com/max358japan/status/2002982434007322987",
+    "https://x.com/3DFilamentTokyo"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金属フィラメント（金属を混ぜた造形用フィラメント）",
+   "results": [
+    "https://jp.linkedin.com/pulse/次世代製造のためのグローバル金属フィラメント市場の成長旅路現在の-7399562203483426816-amtnc",
+    "https://jp.linkedin.com/pulse/金属フィラメントの付加製造市場成長の見通し-2025-2032-売上収益シェア予測cagrは85-bizlogis-e00me",
+    "https://www.linkedin.com/posts/3dprinterjp_basf-additivemanufacturing-metalprinting-activity-7171670982774996994-wCeZ",
+    "https://il.linkedin.com/posts/thefilamentjp_内向きな大企業をオープンイノベーションのバブルから救うにはqumzine-by-activity-7033329939806375936-JHBO",
+    "https://www.linkedin.com/posts/3dprinterjp_basf-3dプリンター-3dプリント-activity-7208649621865189376-EsDt",
+    "https://jp.linkedin.com/pulse/3dプリンティング用金属の世界市場金属タイプ別形状別技術別最終用途産業別地域別-予測2030年-ytzte",
+    "https://be.linkedin.com/posts/thefilamentjp_新規事業の弊害海外techを社内が導入拒否新規事業お悩み相談室-ｰ第1回ｰ-activity-7069566796885868544-b_Ar"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金属フィラメント（金属を混ぜた造形用フィラメント）",
+   "results": [
+    "https://www.facebook.com/3Dprinter.co.jp/posts/basfの金属フィラメントのultrafuse-316lultrafuse-17-4phはfff方式で金属造形を可能にした革新的なフィラメントです取り扱いが簡単/918477480281843/",
+    "https://www.facebook.com/3Dprinter.co.jp/posts/4446463028704018/",
+    "https://www.facebook.com/3Dprinter.co.jp/videos/️金属フィラメントultrafuse-316l造形プロセス/835633603659015/",
+    "https://www.facebook.com/story.php/?story_fbid=1271278237314940&id=100032983286359",
+    "https://www.facebook.com/UltimakerJP/videos/-ultimakerで金属3dプリントが可能にこのたび第一セラモ株式会社dai-ichi-ceramo-co-ltdのcerafila-sus316-ステンレス/1040358058181925/",
+    "https://www.facebook.com/3Dprinter.co.jp/videos/223048314071343/",
+    "https://www.facebook.com/UltimakerJP/posts/ニュース紹介少し前にultimakerのmaterial-allianceに第一セラモのステンレスフィラメントが正式に追加されcuraにてプロファイルが利用可能/775380168330205/"
+   ]
+  },
+  {
+   "query": "金属フィラメント（金属を混ぜた造形用フィラメント） note 社長",
+   "results": [
+    "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "https://www.youtube.com/watch?v=6fcFv-3Geak",
+    "https://deskmin.net/2026/08/08/金属フィラメント徹底解説：最新製品から焼結タ/",
+    "https://ultrafusefff.jp/blogs/column/7",
+    "https://deskmin.net/2026/08/08/金属フィラメントで失敗しないために知っておく/",
+    "https://jlc3dp.com/jp/blog/metal-filament-for-3d-printers",
+    "https://note.com/takenoko_lab/n/n13a71e8109e5"
+   ]
+  },
+  {
+   "query": "金属フィラメント（金属を混ぜた造形用フィラメント） X 投稿",
+   "results": [
+    "https://deskmin.net/2026/08/08/金属フィラメント徹底解説：最新製品から焼結タ/",
+    "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "https://hitonori-sumaho.com/bambu-lab-a1-mini-metal-filament/",
+    "https://ja.mfgrobots.com/mfg/3dprinting/1007047604.html",
+    "https://deskmin.net/2026/08/08/金属フィラメントで失敗しないために知っておく/",
+    "https://jlc3dp.com/jp/blog/metal-filament-for-3d-printers",
+    "https://swiftwand.com/desktop-metal-printing-basf-ultrafuse/"
+   ]
+  },
+  {
+   "query": "metal filament bound metal deposition market site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/emerging-trends-bound-metal-deposition-market-advanced-q5eef",
+    "https://www.linkedin.com/pulse/bound-metal-deposition-market-opportunities-t20xf",
+    "https://www.linkedin.com/pulse/bound-metal-deposition-market-what-shaping-n93cf",
+    "https://www.linkedin.com/pulse/bound-metal-deposition-market-outlook-20242033-4jxcc",
+    "https://www.linkedin.com/pulse/bound-metal-deposition-market-industry-vtvcc",
+    "https://www.linkedin.com/pulse/global-bound-metal-deposition-market-innovation-rec5c",
+    "https://www.linkedin.com/pulse/bound-metal-deposition-market-forecast-highlights-strong-uw21c"
+   ]
+  }
+ ],
+ "missing": {}
+}

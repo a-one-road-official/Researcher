@@ -1,0 +1,1548 @@
+{
+ "name": "超薄型モーター向けの素材（薄い電磁鋼板・圧粉磁心・磁石）",
+ "en": "thin electrical steel soft magnetic composite axial flux motor materials",
+ "aliases": [
+  "薄型電磁鋼板",
+  "圧粉磁心",
+  "SMC 軟磁性複合材",
+  "アモルファス モーター"
+ ],
+ "context": "マテリアル・素材",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:48:46.362928+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "電磁鋼板市場規模・予測レポート、2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Electrical Steel Market Size, by Type, 2025 & 2035 (USD Million)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "GOESの市場規模は2025年に60億6,000万米ドルとなり、2035年には市場売上高の28.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "無方向性電磁鋼板（NGO）は、2035年までに市場規模が269億1,000万米ドルに達し、2026〜2035年の年平均成長率（CAGR）は6.7%になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "変圧器向けは2025年に市場規模が70億7,000万米ドルとなり、2026〜2035年のCAGRは5.4%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "モーター・駆動装置向けは、2035年までに市場規模が160億3,000万米ドルに達すると予測され、2025年には市場収益の40.0%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "発電機向けは2025年に市場規模が20億2,000万米ドルとなり、2026〜2035年のCAGRは6.4%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他の用途は、2035年までに市場規模が56億4,000万米ドルに達すると予測され、2025年には市場収益の15.0%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー・公益事業向けは2025年に市場規模が60億6,000万米ドルとなり、2035年には市場収益の29.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・電気自動車向けは、2035年までに市場規模が89億7,000万米ドルに達し、2026〜2035年のCAGRは8.3%になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業機械向けは、2035年までに市場規模が71億米ドルに達すると予測され、2025年には市場収益の20.0%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "家電向けは2025年に市場規模が20億2,000万米ドルとなり、2035年には市場収益の9.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Soft Magnetic Composite Market Size, Trends & Forecast, 2026-2033",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "SOFT MAGNETIC COMPOSITE MARKET SIZE AND SHARE ANALYSIS - GROWTH TRENDS AND FORECASTS (2026-2033)",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Soft Magnetic Composite Market Size and Forecast – 2026 To 2033",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "of the global soft magnetic composite market in 2026. The region combines large-scale electric-vehicle production motor manufacturing electronics output and mature powder-metallurgy supply chains. In July 2026, China reported first-half new-energy-vehicle output above seven million units reinforcing the scale of downstream demand for compact motors and magnetic components.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "reported that global electric-car sales were expected to reach 23 million during 2026 underlining the expanding base of electrified platforms requiring efficient magnetic components.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2026:",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global soft magnetic composite market is estimated to be valued at USD 5.13 Bn in 2026 and is expected to reach USD 8.35 Bn by 2033.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "2026〜2035年の年平均成長率（CAGR）6.35%で拡大し、2035年には373億8,000万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の送電分野への投資額は2023年に1,400億米ドルに達し、前年比10%増となりました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "EV駆動モーターにおける厚さ 0.35 mm 未満のNGO材の採用拡大により、NGOの平均販売価格は市場全体に比べて上昇する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "無方向性電磁鋼板（NGO）は、2035年までに市場規模が269億1,000万米ドルに達し、2026〜2035年の年平均成長率（CAGR）は6.7%になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "変圧器向けは2025年に市場規模が70億7,000万米ドルとなり、2026〜2035年のCAGRは5.4%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "発電機向けは2025年に市場規模が20億2,000万米ドルとなり、2026〜2035年のCAGRは6.4%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・電気自動車向けは、2035年までに市場規模が89億7,000万米ドルに達し、2026〜2035年のCAGRは8.3%になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "発電向けは2025年に市場収益の15.0%を占め、2026〜2035年のCAGRは5.6%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他の最終用途は、2035年までに18.6億米ドルに達し、2026〜2035年に年平均成長率（CAGR）6.4%で成長すると予測されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "コイルは2025年の売上高の65.0%を占め、2026〜2035年に年平均成長率（CAGR）6.2%で成長すると予測されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、お客様のご要望にお応えする製品開発を進めるとともに、材料特性を最大限発揮する利用技術の提案、試作評価支援といったお客様との技術交流を進めながら、今後ともCO2排出量削減に寄与するエコプロダクトの供給を拡大していくことで、持続可能な社会の実現に貢献してまいります",
+    "url": "https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026 – 2033",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2033, growing at a compound annual growth rate",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "(CAGR) of 7.20%",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Iron Powder Based SMC is expected to register an estimated CAGR of 7.6% during 2026–2033 and hold",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Electric Motors are projected to expand at an estimated CAGR of 8.2% during 2026–2033 while accounting for",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive is forecast to grow at an estimated CAGR of 8.4% during 2026–2033 and represent",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is estimated to post a CAGR of 7.8% during 2026–2033 and command",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe is expected to record the fastest regional CAGR estimated at 8.6% during 2026–2033 while holding",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2026 To 2033 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "The CAGR of global soft magnetic composite market is projected to be 7.20% from 2026 to 2033.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   }
+  ],
+  "需要量": [
+   {
+    "quote": "電磁鋼板メーカーおよび下流のOEM各社との協議によると、世界の電磁鋼板需要は2025年に1,390万トンに達しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "従来型モーター設計と比べて車両1台当たりの電磁鋼板使用量が少ないなかでも、売上高の成長を下支えする予測条件：800VのEVアーキテクチャーへの広範な移行と高周波誘導モーター用途が、プレミアム超薄手NGO材の需要を下支えする",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "* 3地区電炉メーカー購入価格平均（トン当たり）",
+    "url": "https://www.japanmetal.com/news-h20260703149813.html",
+    "pass": 3
+   },
+   {
+    "quote": "4つの積層方法から、求められるコストや個数に応じて加工",
+    "url": "https://www.motorcore-dojo.com/basic/dust-core.html",
+    "pass": 3
+   },
+   {
+    "quote": "飯島精機…ISO9001を取得していてかつ試作品対応の会社の中で、コストや個数に合わせて選択できる加工方法が最も豊富（4種類）",
+    "url": "https://www.motorcore-dojo.com/basic/dust-core.html",
+    "pass": 3
+   },
+   {
+    "quote": "本論では図15に示す略台形の断面形状を有する圧粉コア と",
+    "url": "https://global.yamaha-motor.com/jp/design_technology/technical/pdf/chapters/YMC-TR56_TechPaper_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4つの積層方法から、求められるコストや個数に応じて加工",
+    "url": "https://www.motorcore-dojo.com/basic/extremely-thin.html",
+    "pass": 3
+   },
+   {
+    "quote": "飯島精機…ISO9001を取得していてかつ試作品対応の会社の中で、コストや個数に合わせて選択できる加工方法が最も豊富（4種類）",
+    "url": "https://www.motorcore-dojo.com/basic/extremely-thin.html",
+    "pass": 3
+   },
+   {
+    "quote": "of the global soft magnetic composite market in 2026. The region combines large-scale electric-vehicle production motor manufacturing electronics output and mature powder-metallurgy supply chains. In July 2026, China reported first-half new-energy-vehicle output above seven million units reinforcing the scale of downstream demand for compact motors and magnetic components.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "added the MCDMCF322520/DS high-temperature metal composite inductor to its MCDMCF series combining a magnetically shielded metal-composite core with high-current low-EMI low-core-loss performance. The launch expands commercialization of composite magnetic cores in thermally demanding compact power-electronics designs.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   }
+  ],
+  "部品構成比・単価": [
+   {
+    "quote": "GOESの市場規模は2025年に60億6,000万米ドルとなり、2035年には市場売上高の28.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー・公益事業向けは2025年に市場規模が60億6,000万米ドルとなり、2035年には市場収益の29.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "家電向けは2025年に市場規模が20億2,000万米ドルとなり、2035年には市場収益の9.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "標準材の2025年の売上高は90.9億米ドルで、2035年の売上高の42.0%を占めると予測されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "イタリアは欧州市場収益に占める割合が2025年の10.0%から、2035年には9.0%になると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場は2025年に90.9億米ドルの規模に達し、2035年にはアジア太平洋地域市場収益の73.2%を占めると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の市場規模は2025年に6億7,000万米ドルとなり、2035年にはアジア太平洋地域の市場収益の4.7%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年において、北米は世界の電磁鋼板市場でどのくらいのシェアを占めるだろうか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、電気自動車製造、電力変圧器、送電網近代化プロジェクトからの需要増加に支えられ、2025年には世界の電磁鋼板市場の12.4%を占める見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "無機コーティングは2025年に市場シェアの35%を占める見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社ではこれまでに、図2に示す部品構成で、扁平形状・",
+    "url": "https://sei.co.jp/technology/tr/bn198/pdf/198-09.pdf",
+    "pass": 3
+   }
+  ],
+  "主要供給元・シェア": [
+   {
+    "quote": "電磁鋼板市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "電磁鋼板メーカーおよび下流のOEM各社との協議によると、世界の電磁鋼板需要は2025年に1,390万トンに達しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "thyssenkrupp Steelは、現代の高速トラクションモーター向けに設計された仕様の、CO₂排出量を削減したpowercore® traction NGO 025-125Y420について、量産供給が可能であることを検証した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "こうした需要は、安定したGOESの磁気特性、技術サポート、確実な納入能力を提供できるサプライヤーに有利に働く",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車OEMやモーターメーカーの認定を取得できる先進NGO材のサプライヤーは、長期にわたり生産される車種プラットフォームへの供給機会を得る",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年までに欧州市場でGOES輸入品が50%を超えるシェアを占めたことを受け、欧州委員会は2026年9月25日発効のGOES暫定セーフガード措置を採択した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "代替の上限は、アモルファスリボンの供給状況と変圧器の設置スペース要件によって制約される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測条件：GOESメーカーはレーザースクライブ処理を施したHi-B鋼種の開発を進める一方、アモルファスリボンの世界的な生産能力の制約により、2035年まで大衆市場での置き換えリスクは抑制される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、電磁鋼板メーカーにとって需要環境は構造的に追い風である一方、受注残への反映は一様ではない",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のGOESメーカーは別の課題にも直面している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "セーフガード措置は国内メーカーに有利な政策環境をもたらすが、保護措置が恒久化されるかどうかや、顧客による再認定がどの程度の速さで進むかをめぐる不確実性は解消されない",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "特定の配電用変圧器の設計では優れた性能を発揮する一方、供給状況、製造要件、大型変圧器コアの物理的特性を踏まえると、GOESは引き続き重要な役割を担う",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "変圧器の供給制約はGOESの収益化を遅らせる可能性があり、貿易面の圧力は価格回復を抑制するおそれがあります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場機会は送電網の近代化と結び付いているが、商業的な成果は、変圧器OEMによる認定、貿易環境、メーカーが高級鋼種の差別化を維持できるかどうかに左右される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "幅広い最終市場に供給されるため需要の底堅さが支えられるほか、薄手化と高性能化の動きにより、技術力を備えたサプライヤーが獲得できる収益構成の改善が見込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "* 3地区電炉メーカー購入価格平均（トン当たり）",
+    "url": "https://www.japanmetal.com/news-h20260703149813.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界団体トップに聞く／日本建設機械工業会／先崎正文会長（日立建機社長）／電動建機の普及環境整備／鉄鋼メーカーとの協業欠かせず",
+    "url": "https://www.japanmetal.com/news-h20260703149813.html",
+    "pass": 3
+   },
+   {
+    "quote": "コアメーカー3選(TOP)",
+    "url": "https://www.motorcore-dojo.com/basic/dust-core.html",
+    "pass": 3
+   },
+   {
+    "quote": "モーターコアメーカーの",
+    "url": "https://www.motorcore-dojo.com/basic/dust-core.html",
+    "pass": 3
+   },
+   {
+    "quote": "モーターコアメーカーの一覧",
+    "url": "https://www.motorcore-dojo.com/basic/dust-core.html",
+    "pass": 3
+   },
+   {
+    "quote": "【PR】モーターコアの費用相場は？コストダウンを提案してくれるメーカーにも迫る",
+    "url": "https://www.motorcore-dojo.com/basic/dust-core.html",
+    "pass": 3
+   },
+   {
+    "quote": "モーターコアメーカー3選",
+    "url": "https://www.motorcore-dojo.com/basic/dust-core.html",
+    "pass": 3
+   },
+   {
+    "quote": "圧粉磁心を用いたアキシャルギャップモーターは、薄型設計が必要な機器を扱うメーカーなどで注目されています",
+    "url": "https://www.motorcore-dojo.com/basic/dust-core.html",
+    "pass": 3
+   },
+   {
+    "quote": "モーターコアメーカー",
+    "url": "https://www.motorcore-dojo.com/basic/dust-core.html",
+    "pass": 3
+   },
+   {
+    "quote": "「小ロットで依頼したら断られた…」という会社のために、小ロット試作から量産まで対応しているモーターコアメーカーを厳選",
+    "url": "https://www.motorcore-dojo.com/basic/dust-core.html",
+    "pass": 3
+   },
+   {
+    "quote": "免責事項:当メディアはモーターコアメーカー選びに悩んでいる人に向け、おすすめのモーターコアメーカーや基本情報を解説しているサイトです",
+    "url": "https://www.motorcore-dojo.com/basic/dust-core.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、最新の情報に関しましては、必ず各モーターコアメーカーの公式サイトで確認していただくようにお願いいたします",
+    "url": "https://www.motorcore-dojo.com/basic/dust-core.html",
+    "pass": 3
+   },
+   {
+    "quote": "圧粉磁心の成形は大手メーカー様や軟磁性鉄粉の素材メーカー様が行い、成形後の圧粉磁心を追加工して形状を仕上げる対応を当社にて対応しております",
+    "url": "https://sintered-metal-processing.com/basic/440",
+    "pass": 3
+   },
+   {
+    "quote": "当社の協力成形メーカー様と相談して検討いたしますので、まずはご希望の材料の種類、もしくは性能目標値をご指示いただき、その後材料の選定をいたします",
+    "url": "https://sintered-metal-processing.com/basic/440",
+    "pass": 3
+   },
+   {
+    "quote": "伊藤忠が低炭素還元鉄の供給網構築に向けた協業の覚書を締結",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2401/29/news027.html",
+    "pass": 3
+   },
+   {
+    "quote": "伊藤忠商事は、JFEスチール、Emirates Steel Arkan、Abu Dhabi Ports Groupと、低炭素還元鉄の供給網構築に向けた協業に関する覚書を締結した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2401/29/news027.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月から低炭素還元鉄の生産を開始し、アジア市場に供給する計画だ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2401/29/news027.html",
+    "pass": 3
+   },
+   {
+    "quote": "V、 W の3相の電流が供給される",
+    "url": "https://global.yamaha-motor.com/jp/design_technology/technical/pdf/chapters/YMC-TR56_TechPaper_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コアメーカー3選(TOP)",
+    "url": "https://www.motorcore-dojo.com/basic/extremely-thin.html",
+    "pass": 3
+   },
+   {
+    "quote": "モーターコアメーカーの",
+    "url": "https://www.motorcore-dojo.com/basic/extremely-thin.html",
+    "pass": 3
+   },
+   {
+    "quote": "モーターコアメーカーの一覧",
+    "url": "https://www.motorcore-dojo.com/basic/extremely-thin.html",
+    "pass": 3
+   },
+   {
+    "quote": "【PR】モーターコアの費用相場は？コストダウンを提案してくれるメーカーにも迫る",
+    "url": "https://www.motorcore-dojo.com/basic/extremely-thin.html",
+    "pass": 3
+   },
+   {
+    "quote": "モーターコアメーカー3選",
+    "url": "https://www.motorcore-dojo.com/basic/extremely-thin.html",
+    "pass": 3
+   },
+   {
+    "quote": "モーターコアメーカー",
+    "url": "https://www.motorcore-dojo.com/basic/extremely-thin.html",
+    "pass": 3
+   },
+   {
+    "quote": "「小ロットで依頼したら断られた…」という会社のために、小ロット試作から量産まで対応しているモーターコアメーカーを厳選",
+    "url": "https://www.motorcore-dojo.com/basic/extremely-thin.html",
+    "pass": 3
+   },
+   {
+    "quote": "免責事項:当メディアはモーターコアメーカー選びに悩んでいる人に向け、おすすめのモーターコアメーカーや基本情報を解説しているサイトです",
+    "url": "https://www.motorcore-dojo.com/basic/extremely-thin.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、最新の情報に関しましては、必ず各モーターコアメーカーの公式サイトで確認していただくようにお願いいたします",
+    "url": "https://www.motorcore-dojo.com/basic/extremely-thin.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、お客様のご要望にお応えする製品開発を進めるとともに、材料特性を最大限発揮する利用技術の提案、試作評価支援といったお客様との技術交流を進めながら、今後ともCO2排出量削減に寄与するエコプロダクトの供給を拡大していくことで、持続可能な社会の実現に貢献してまいります",
+    "url": "https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品メーカー",
+    "url": "https://www.resonac.com/jp/solution/soft-magnetic-motor-core.html",
+    "pass": 3
+   },
+   {
+    "quote": "Motor manufacturers and suppliers face stronger incentives to reduce electrical and magnetic losses through design optimization. For the global soft magnetic composite market this can improve the commercial case for low-loss core materials in motor designs where three-dimensional magnetic paths high-frequency operation or compact construction justify SMC integration.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "The revision gives motor OEMs and material suppliers an early signal to prepare for potentially tighter efficiency requirements. This can increase development attention on magnetic-core losses material characterization and design qualification while favoring suppliers capable of proving measurable motor-level efficiency benefits.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Gives suppliers greater flexibility to tailor permeability saturation behavior compressibility and loss characteristics for individual applications",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Shortens design-in cycles and favors suppliers able to provide validated datasets application engineering and component-level optimization",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Suppliers compete on usable combinations of saturation flux permeability coercivity and core loss rather than on a single headline property.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Material databases simulation support prototype development and motor or inductor co-design increasingly influence supplier selection.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive and industrial buyers favor suppliers able to maintain lot-to-lot consistency traceability and multi-region supply continuity.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "SMC powder manufacturers, magnetic core producers, motor manufacturers, component suppliers, and distributors",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Powder metallurgy processors, insulation coating suppliers, and core manufacturers",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which is the leading material type in the global soft magnetic composite market?",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "This article is a first-pass material selection guide for AFPM motor stators, not a substitute for finite-element analysis, thermal testing, or supplier-specific material datasheets. Use it to shortlist the right stator core route before RFQ; then validate grade, density, potting, speed range, and duty cycle with the actual vendor.",
+    "url": "https://afpmmotor.com/blog/smc-vs-laminated-steel-axial-flux-motor-stators",
+    "pass": 3
+   },
+   {
+    "quote": "For procurement teams, sourcing SMC components requires a different supply chain than traditional steel stamping. The market is dominated by a few key powder suppliers (such as Höganäs AB with their Somaloy® line), but the actual pressing is done by specialized powder metallurgy contractors.",
+    "url": "https://afpmmotor.com/blog/smc-vs-laminated-steel-axial-flux-motor-stators",
+    "pass": 3
+   },
+   {
+    "quote": "When vetting an AFPM motor vendor or an SMC component supplier, procurement and engineering teams must verify the following parameters to ensure production stability:",
+    "url": "https://afpmmotor.com/blog/smc-vs-laminated-steel-axial-flux-motor-stators",
+    "pass": 3
+   },
+   {
+    "quote": "If two supplier quotes look similar on headline torque but diverge on tooling, scrap, or potting assumptions,",
+    "url": "https://afpmmotor.com/blog/smc-vs-laminated-steel-axial-flux-motor-stators",
+    "pass": 3
+   }
+  ],
+  "日本企業の位置": [
+   {
+    "quote": "セーフガード措置は国内メーカーに有利な政策環境をもたらすが、保護措置が恒久化されるかどうかや、顧客による再認定がどの程度の速さで進むかをめぐる不確実性は解消されない",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "送電網の更新、国内サプライチェーン政策、EV製造への投資が、域内需要を下支えしている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の需要は、送配電網への投資、データセンター関連の電力需要の増加、再生可能エネルギーの系統統合、国内製造業政策に支えられている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "電磁鋼板を戦略物資として位置付けることにより、国内生産能力の確保とサプライヤー認定の重要性が高まっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "国内メーカーを取り巻く競争環境は、域内需要がどの程度域内供給につながるかを左右する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の生産規模、インドのインフラ拡大、日本と韓国の技術力を背景に、域内市場は大量供給、高付加価値製品の開発、急成長する最終用途需要にまたがる構成となっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国では、送電網、EV、産業用モーターに対する大規模な国内需要と、広範な電磁鋼板の生産能力が併存している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "電力システムの拡充、配電網の更新、再生可能エネルギーの統合、国内の電気自動車（EV）生産が、電磁鋼板の幅広い需要基盤を形成している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "インフラ計画の拡大に伴い、国内での方向性電磁鋼板（GOES）の生産能力の整備は、変圧器メーカーのサプライチェーンを短縮できるため、戦略上重要である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の市場規模は2025年に6億7,000万米ドルとなり、2035年にはアジア太平洋地域の市場収益の4.7%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "高性能材料の開発力と、世界の変圧器・自動車サプライチェーンとの確立された関係を背景に、日本は引き続き大きな影響力を持つ",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "成熟した国内市場は、プレミアム方向性電磁鋼板（GOES）および無方向性電磁鋼板（NGO）の技術的価値によって補完されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "国内顧客へのアクセスと製造拠点網により、地域の供給、競争、輸出可能量に大きな影響を及ぼしている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cleveland-Cliffsは、米国内のGOES供給企業として戦略的に重要な地位を占めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業としては、中国宝武鋼鉄集団、アルセロールミッタル、日本製鉄、ポスコ、JFEスチールなどが挙げられる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "建値・国内相場",
+    "url": "https://www.japanmetal.com/news-h20260703149813.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本製鉄 鋼矢板・鋼管杭11契販価 輸送エキストラ改定 2000―7000円上げ、2年半ぶり",
+    "url": "https://www.japanmetal.com/news-h20260703149813.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本鉄スクラップ総合価格",
+    "url": "https://www.japanmetal.com/news-h20260703149813.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界団体トップに聞く／日本溶接協会／青山和浩会長（東京大学教授）／技術継承方法の確立重要／溶接学会と合併、情報発信強化",
+    "url": "https://www.japanmetal.com/news-h20260703149813.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界団体トップに聞く／全日本一般缶工業団体連合会／最上裕光会長／（最上CAN社長）／若手の挑戦で業界活性化／スチール缶高リサイクル率ＰＲ",
+    "url": "https://www.japanmetal.com/news-h20260703149813.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界団体トップに聞く／日本建設機械工業会／先崎正文会長（日立建機社長）／電動建機の普及環境整備／鉄鋼メーカーとの協業欠かせず",
+    "url": "https://www.japanmetal.com/news-h20260703149813.html",
+    "pass": 3
+   },
+   {
+    "quote": "新日本電工／社長に小林専務",
+    "url": "https://www.japanmetal.com/news-h20260703149813.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本乾溜工業 社長に光石常務",
+    "url": "https://www.japanmetal.com/news-h20260703149813.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本圧延工業／赤井正年氏が社長に昇格",
+    "url": "https://www.japanmetal.com/news-h20260703149813.html",
+    "pass": 3
+   },
+   {
+    "quote": "（日本製鉄㈱製",
+    "url": "https://sei.co.jp/technology/tr/bn198/pdf/198-09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Japan | JP",
+    "url": "https://sumitomoelectric.com/jp/rd/technical-reviews/authors/tatsuya-saito",
+    "pass": 3
+   },
+   {
+    "quote": "日本粉末冶金工業会「2024年度工業会大賞」を受賞",
+    "url": "https://sumitomoelectric.com/jp/rd/technical-reviews/authors/tatsuya-saito",
+    "pass": 3
+   },
+   {
+    "quote": "日本発条株式会社（ニッパツ）",
+    "url": "https://www.motorcore-dojo.com/basic/dust-core.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社宮本製作所では、国内の主要大手メーカ―様にご依頼いただき、圧粉磁心の試作開発を多数行っております",
+    "url": "https://sintered-metal-processing.com/basic/440",
+    "pass": 3
+   },
+   {
+    "quote": "日本ものづくりワールド",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2401/29/news027.html",
+    "pass": 3
+   },
+   {
+    "quote": "JFEスチールは、自社向けに開発した故障復旧支援システム「J-mAIster」を、日本IBMと共同で販売する",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2401/29/news027.html",
+    "pass": 3
+   },
+   {
+    "quote": "本稿は、 公益社団法人 日本自動車技術会 2021年日本自動車技術会 秋季大会 学術講演会予稿集に掲載された論文を同会の",
+    "url": "https://global.yamaha-motor.com/jp/design_technology/technical/pdf/chapters/YMC-TR56_TechPaper_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本論文の著作権は公益社団法人 日本自動車技術会に属し、 無断複製 ・ 転載を禁じます",
+    "url": "https://global.yamaha-motor.com/jp/design_technology/technical/pdf/chapters/YMC-TR56_TechPaper_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Japan （2018） 20189225.",
+    "url": "https://global.yamaha-motor.com/jp/design_technology/technical/pdf/chapters/YMC-TR56_TechPaper_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Japan | JP",
+    "url": "https://sumitomoelectric.com/jp/products/powdermagneticcore",
+    "pass": 3
+   },
+   {
+    "quote": "日本発条株式会社（ニッパツ）",
+    "url": "https://www.motorcore-dojo.com/basic/extremely-thin.html",
+    "pass": 3
+   },
+   {
+    "quote": "極薄電磁鋼板を実際に調達・加工できる企業として、日本金属株式会社と飯島精機などの会社が挙げられます",
+    "url": "https://www.motorcore-dojo.com/basic/extremely-thin.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属株式会社は、「板厚0.1mm未満」の極薄電磁鋼帯を提供している会社です",
+    "url": "https://www.motorcore-dojo.com/basic/extremely-thin.html",
+    "pass": 3
+   },
+   {
+    "quote": "参照元：日本金属株式会社｜極薄電磁鋼製品（",
+    "url": "https://www.motorcore-dojo.com/basic/extremely-thin.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan | JP",
+    "url": "https://sumitomoelectric.com/jp/press/2020/09/prs096",
+    "pass": 3
+   },
+   {
+    "quote": "JFEスチール、絶縁被覆純鉄粉「電磁郎」を用いたモータで従来比48%の薄型化を実証 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本株ランキング",
+    "url": "https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本株サマリー",
+    "url": "https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ドキュメント日本",
+    "url": "https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "今野真二「日本語日記」",
+    "url": "https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "未来面「国産農畜産物の価値、あなたはどのように伝える？」",
+    "url": "https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "「ごみ」が日本を救う",
+    "url": "https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞の編集者が選んだ押さえておきたい「ニュース５本」をお届けします",
+    "url": "https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞社の関連サイト",
+    "url": "https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "NATIONAL GEOGRAPHIC 日本版",
+    "url": "https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Channel JAPAN",
+    "url": "https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞社について",
+    "url": "https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社（国内）",
+    "url": "https://www.resonac.com/jp/solution/soft-magnetic-motor-core.html",
+    "pass": 3
+   },
+   {
+    "quote": "Global-日本語",
+    "url": "https://www.resonac.com/jp/solution/soft-magnetic-motor-core.html",
+    "pass": 3
+   },
+   {
+    "quote": "reported that more than 80 academic and industry experts from Korea and Japan participated in its International Symposium on Soft Magnetic Materials, exchanging research findings and industrial-development approaches for electrification applications. This cross-border technical depth strengthens Asia Pacific's capacity to industrialize advanced magnetic materials.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Why Is Japan Important in the Global Soft Magnetic Composite Market?",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "China, India, Japan, Australia, South Korea, ASEAN, Rest of Asia Pacific",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Industrial Standards (JIS) define magnetic proper-",
+    "url": "https://global-sei.com/technology/tr/bn86/pdf/86-21.pdf",
+    "pass": 3
+   }
+  ],
+  "供給制約・不足": [
+   {
+    "quote": "計画の遅延や資金不足が生じた場合、短期的なGOES需要の顕在化は抑制されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "大型機器の調達リードタイムはほぼ2倍となり、最長4年に達しており、変圧器製造エコシステム全体で深刻なサプライチェーンの逼迫が生じている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "変圧器の供給制約はGOESの収益化を遅らせる可能性があり、貿易面の圧力は価格回復を抑制するおそれがあります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "地域別の成長は、単一の地域や最終市場への依存度が低下していくとみられる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "ナフサ不足にどう備える？ パワーGXで変わる石油化学の備蓄戦略",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2401/29/news027.html",
+    "pass": 3
+   },
+   {
+    "quote": "権限不足のため、フォローできません",
+    "url": "https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "xial flux motors are driving a power revolution in new energy vehicles, humanoid robots, eVTOL (electric vertical take-off and landing) aircraft, and more, thanks to their compact size, light weight, and high power density. However, the relatively high manufacturing cost remains a bottleneck for large scale adoption. So, what exactly makes up the cost of an",
+    "url": "https://www.magnetschina.com/Axial-Flux-Motor-Rotor-Cost-Breakdown-Magnets-Iron-Core-Or-Encapsulation-Which-Takes-The-Biggest-Share-id07083445.html",
+    "pass": 3
+   },
+   {
+    "quote": "current, and this becomes a bottleneck to motor power",
+    "url": "https://global-sei.com/technology/tr/bn86/pdf/86-21.pdf",
+    "pass": 3
+   }
+  ],
+  "政策・予算": [
+   {
+    "quote": "アジアからの補助金付きGOES輸入が欧州の生産採算を圧迫",
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "モータ用圧粉磁心の材料ラインナップを拡充 ～「JMAG」への材料データ追加により高性能モータ開発を支援～",
+    "url": "https://sumitomoelectric.com/jp/rd/technical-reviews/authors/tatsuya-saito",
+    "pass": 3
+   },
+   {
+    "quote": "難加工鋼材の活用を設計段階から支援、上流へとカバー領域広げるJFEスチール",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2401/29/news027.html",
+    "pass": 3
+   },
+   {
+    "quote": "JFEスチール、IBM Watsonを活用した故障復旧支援システムの販売を開始",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2401/29/news027.html",
+    "pass": 3
+   },
+   {
+    "quote": "JFEスチールは、自社向けに開発した故障復旧支援システム「J-mAIster」を、日本IBMと共同で販売する",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2401/29/news027.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社ではアキシャルギャップモータ用・圧粉磁心のメリットをお客様に実感いただくため、提供されたモータ仕様を元に、アキシャルギャップモータの三次元電磁界解析の支援をいたしております",
+    "url": "https://sumitomoelectric.com/jp/press/2020/09/prs096",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社とJFEテクノリサーチ株式会社は、お客様での圧粉磁心を用いた部品の設計支援を目的とした、外径110mmの切削加工用大型圧粉体の提供や、設計形状に加工した試作圧粉磁心の提供を開始いたしました",
+    "url": "https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、お客様のご要望にお応えする製品開発を進めるとともに、材料特性を最大限発揮する利用技術の提案、試作評価支援といったお客様との技術交流を進めながら、今後ともCO2排出量削減に寄与するエコプロダクトの供給を拡大していくことで、持続可能な社会の実現に貢献してまいります",
+    "url": "https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "フェライト・圧粉磁心・アモルファス・ナノ結晶・電磁鋼板はどう使い... 磁性材料の選定でありがちな失敗は、「高周波ならフェライト」「大電流なら圧粉」「高性能ならナノ結晶」と材料名だけで決めることです。 同じ材料群でも組成、粒径、焼結、薄帯厚、熱処理、コーティングによって特性は大きく変わります。",
+    "url": "https://note.com/volt_edge/n/nf2ab1e654b26",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "フェライト・圧粉磁心・アモルファス・ナノ結晶・電磁鋼板はどう使い分けるのか？｜volt_edge",
+    "url": "https://note.com/volt_edge/n/nf2ab1e654b26",
+    "pass": 3
+   },
+   {
+    "quote": "フェライト・圧粉磁心・アモルファス・ナノ結晶・電磁鋼板はどう使い分けるのか？",
+    "url": "https://note.com/volt_edge/n/nf2ab1e654b26",
+    "pass": 3
+   },
+   {
+    "quote": "磁性材料の選定でありがちな失敗は、「高周波ならフェライト」「大電流なら圧粉」「高性能ならナノ結晶」と材料名だけで決めることです。同じ材料群でも組成、粒径、焼結、薄帯厚、熱処理、コーティングによって特性は大きく変わります。また、高い飽和磁束密度、高い透磁率、低い鉄損、良好な直流重畳、高温安定性、低価格を一つの材料で同時に最大化することはできません。",
+    "url": "https://note.com/volt_edge/n/nf2ab1e654b26",
+    "pass": 3
+   },
+   {
+    "quote": "電力変換回路や制御に関する技術記事を書いています。",
+    "url": "https://note.com/volt_edge/n/nf2ab1e654b26",
+    "pass": 3
+   },
+   {
+    "quote": "教科書や論文では省略されがちな「設計時の考え方」や「判断の背景」を、できるだけ分かりやすくまとめています。",
+    "url": "https://note.com/volt_edge/n/nf2ab1e654b26",
+    "pass": 3
+   },
+   {
+    "quote": "同じ分野で悩む人のヒントになれば幸いです。",
+    "url": "https://note.com/volt_edge/n/nf2ab1e654b26",
+    "pass": 3
+   },
+   {
+    "quote": "パワーエレクトロニクスを中心に、半導体・回路・制御・信頼性・次世代電源まで幅広く発信。学びたい方から実務・研究で活用したい方まで、それぞれのスタイルに合わせてお楽しみいただけます。",
+    "url": "https://note.com/volt_edge/n/nf2ab1e654b26",
+    "pass": 3
+   },
+   {
+    "quote": "Volt Edge Unlimited｜全記事読み放題",
+    "url": "https://note.com/volt_edge/n/nf2ab1e654b26",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "#jmag #最適化 #材料最適化 #リアクトル #圧粉磁心 #フェライト #連成... 機器の寸法と材料の種類を同時に最適化することができます。 さらに連成解析と組み合わせることで、磁気特性だけでなく温度も評価しながら最適な設計案を探索することが可能となります。",
+    "url": "https://jp.linkedin.com/posts/jmag-japan_jmag-最適化-材料最適化-activity-7471056226148188160-AXQT",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "大引け後、次世代モビリティ（EV・eVTOL）の心臓部 となる超高速回転... Jul 12, 2026 · 大引け後、次世代モビリティ（EV・eVTOL）の心臓部となる超高速回転モーター向けに、従来のケイ素鋼板比で鉄損（エネルギーロス）を40%削減し、航続距離を15%延ばす「極薄・高磁束密度・次世代アモルファス合金コア材料」の車載メガサプライヤー向け独占 ...",
+    "url": "https://www.facebook.com/61591833662922/videos/1257240766390358/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E9%9B%BB%E7%A3%81%E9%8B%BC%E6%9D%BF%E5%B8%82%E5%A0%B4-100827",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/non-grain-oriented-electrical-steel-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/electrical-steel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E7%84%A1%E6%96%B9%E5%90%91%E6%80%A7%E9%9B%BB%E7%A3%81%E9%8B%BC%E6%9D%BF%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%A8cagr-99%E4%BA%88%E6%B8%AC%E5%8F%8E%E7%9B%8A%E6%80%A7%E3%81%AE%E9%AB%98%E3%81%84%E6%A9%9F%E4%BC%9A%E3%82%92%E5%BC%B7%E8%AA%BF-20262033-benchmarkbasex-ofhcf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/electrical-steel-market/8409",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%B1%B3%E5%9B%BD%E3%81%AE%E9%9D%9E%E6%96%B9%E5%90%91%E6%80%A7%E9%9B%BB%E7%A3%81%E9%8B%BC%E6%9D%BF%E5%B8%82%E5%A0%B4-108750",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%B1%B3%E5%9B%BD%E3%81%AE%E6%96%B9%E5%90%91%E6%80%A7%E9%9B%BB%E7%A3%81%E9%8B%BC%E6%9D%BF%EF%BC%88goes%EF%BC%89%E5%B8%82%E5%A0%B4-109204",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nedo.go.jp/content/100964720.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokushuko.or.jp/publication/magazine/pdf/2019/magazine1911.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.japanmetal.com/news-h20260703149813.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nedo.go.jp/content/100925839.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sei.co.jp/technology/tr/bn198/pdf/198-09.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sumitomoelectric.com/jp/rd/technical-reviews/authors/tatsuya-saito",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.motorcore-dojo.com/basic/dust-core.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sintered-metal-processing.com/basic/440",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2401/29/news027.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.yamaha-motor.com/jp/design_technology/technical/pdf/chapters/YMC-TR56_TechPaper_04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://metoree.com/categories/9654/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sumitomoelectric.com/jp/products/powdermagneticcore",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.motorcore-dojo.com/basic/extremely-thin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponkinzoku.co.jp/corporate/business/new-business-development-sect",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%96%E3%83%AD%E3%82%B0/%E6%9C%80%E9%AB%98%E3%81%AE%E9%9D%9E%E7%A9%80%E7%89%A9%E5%BF%97%E5%90%91%E3%81%AE%E9%9B%BB%E6%B0%97%E9%8B%BC%E8%A3%BD%E9%80%A0%E6%A5%AD%E8%80%85-11045",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://business.nikkei.com/atcl/gen/19/00289/041100088/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sumitomoelectric.com/jp/press/2020/09/prs096",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.resonac.com/jp/solution/soft-magnetic-motor-core.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanematsu.co.jp/business/steel_materials_plant/iron_steel_foreign_trade/erectromagnethic_steel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-forward.com/ja/%E3%83%AC%E3%82%A2%E3%82%A2%E3%83%BC%E3%82%B9%E4%BD%BF%E7%94%A8%E5%89%8A%E6%B8%9B%E3%81%B8%E3%80%81%E8%84%B1%E4%B8%AD%E5%9B%BD%E4%BE%9D%E5%AD%98%E3%80%80%E6%97%A5%E6%9C%AC%E3%83%A1%E3%83%BC%E3%82%AB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moomoo.com/news/post/52920152",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fairfieldmarketresearch.com/press-release/global-axial-flux-motor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/axial-flux-motor-market-forecast-2024-2030-vijay-k-dufpc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/soft-magnetic-material-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/electrical-steel-market-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/soft-magnetic-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://afpmmotor.com/blog/smc-vs-laminated-steel-axial-flux-motor-stators",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.magnetschina.com/Axial-Flux-Motor-Rotor-Cost-Breakdown-Magnets-Iron-Core-Or-Encapsulation-Which-Takes-The-Biggest-Share-id07083445.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global-sei.com/technology/tr/bn86/pdf/86-21.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.instructables.com/Designing-and-Building-an-Axial-Flux-Motor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nist.gov/system/files/documents/pml/high_megawatt/Cui-FeSi_Cui_Public.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/384794449_Comparative_Analysis_of_Electric_Motor_Designs_Traditional_Steel_Laminations_vs_Soft_Magnetic_Composite_Materials",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.horizontechnology.biz/blog/the-novel-motor-topology-robotics-engineers-have-been-waiting-for",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-report/materials-for-humanoid-robots/1160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honest-hls.com/axial-flux-motor-the-lifeblood-of-humanoid-robots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/volt_edge/n/nf2ab1e654b26",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/posts/jmag-japan_jmag-最適化-材料最適化-activity-7471056226148188160-AXQT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61591833662922/videos/1257240766390358/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "超薄型モーター向けの素材（薄い電磁鋼板・圧粉磁心・磁石） 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E9%9B%BB%E7%A3%81%E9%8B%BC%E6%9D%BF%E5%B8%82%E5%A0%B4-100827",
+    "https://www.mordorintelligence.com/ja/industry-reports/non-grain-oriented-electrical-steel-market",
+    "https://straitsresearch.com/jp/report/electrical-steel-market",
+    "https://www.gminsights.com/ja/industry-analysis/electrical-steel-market",
+    "https://jp.linkedin.com/pulse/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E7%84%A1%E6%96%B9%E5%90%91%E6%80%A7%E9%9B%BB%E7%A3%81%E9%8B%BC%E6%9D%BF%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%A8cagr-99%E4%BA%88%E6%B8%AC%E5%8F%8E%E7%9B%8A%E6%80%A7%E3%81%AE%E9%AB%98%E3%81%84%E6%A9%9F%E4%BC%9A%E3%82%92%E5%BC%B7%E8%AA%BF-20262033-benchmarkbasex-ofhcf",
+    "https://www.researchnester.com/ja/reports/electrical-steel-market/8409",
+    "https://www.businessresearchinsights.com/jp/market-reports/soft-magnetic-materials-market-128672",
+    "https://www.strategicrevenueinsights.com/ja/industry/electrical-steel-market",
+    "https://newscast.jp/smart/news/9399503"
+   ]
+  },
+  {
+   "query": "超薄型モーター向けの素材（薄い電磁鋼板・圧粉磁心・磁石） 需要 見通し 2030",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E7%B1%B3%E5%9B%BD%E3%81%AE%E9%9D%9E%E6%96%B9%E5%90%91%E6%80%A7%E9%9B%BB%E7%A3%81%E9%8B%BC%E6%9D%BF%E5%B8%82%E5%A0%B4-108750",
+    "https://www.fortunebusinessinsights.com/jp/%E7%B1%B3%E5%9B%BD%E3%81%AE%E6%96%B9%E5%90%91%E6%80%A7%E9%9B%BB%E7%A3%81%E9%8B%BC%E6%9D%BF%EF%BC%88goes%EF%BC%89%E5%B8%82%E5%A0%B4-109204",
+    "https://www.nedo.go.jp/content/100964720.pdf",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2019/magazine1911.pdf",
+    "https://www.japanmetal.com/news-h20260703149813.html",
+    "https://www.nedo.go.jp/content/100925839.pdf",
+    "https://sei.co.jp/technology/tr/bn188/pdf/sei10870.pdf",
+    "https://sumitomoelectric.com/jp/id/project/v26/05",
+    "https://www.jfe-steel.co.jp/research/giho/052/pdf/052-14.pdf",
+    "https://www.japanmetal.com/news-t20241028138632.html"
+   ]
+  },
+  {
+   "query": "超薄型モーター向けの素材（薄い電磁鋼板・圧粉磁心・磁石） 部品構成 コスト",
+   "results": [
+    "https://sei.co.jp/technology/tr/bn198/pdf/198-09.pdf",
+    "https://sumitomoelectric.com/jp/rd/technical-reviews/authors/tatsuya-saito",
+    "https://www.motorcore-dojo.com/basic/dust-core.html",
+    "https://sintered-metal-processing.com/basic/440",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2019/magazine1911.pdf",
+    "https://monoist.itmedia.co.jp/mn/articles/2401/29/news027.html",
+    "https://global.yamaha-motor.com/jp/design_technology/technical/pdf/chapters/YMC-TR56_TechPaper_04.pdf",
+    "https://www.jfe-steel.co.jp/release/2024/01/240116.html",
+    "https://www.resonac.com/jp/solution/soft-magnetic-motor-core.html",
+    "https://sumitomoelectric.com/jp/products/powdermagneticcore/manufacturing"
+   ]
+  },
+  {
+   "query": "超薄型モーター向けの素材（薄い電磁鋼板・圧粉磁心・磁石） シェア 主要企業",
+   "results": [
+    "https://metoree.com/categories/9654/",
+    "https://sumitomoelectric.com/jp/products/powdermagneticcore",
+    "https://www.motorcore-dojo.com/basic/extremely-thin.html",
+    "https://www.mordorintelligence.com/ja/industry-reports/non-grain-oriented-electrical-steel-market",
+    "https://www.nipponkinzoku.co.jp/corporate/business/new-business-development-sect",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%96%E3%83%AD%E3%82%B0/%E6%9C%80%E9%AB%98%E3%81%AE%E9%9D%9E%E7%A9%80%E7%89%A9%E5%BF%97%E5%90%91%E3%81%AE%E9%9B%BB%E6%B0%97%E9%8B%BC%E8%A3%BD%E9%80%A0%E6%A5%AD%E8%80%85-11045",
+    "https://monoist.itmedia.co.jp/mn/articles/2401/29/news027.html",
+    "https://business.nikkei.com/atcl/gen/19/00289/041100088/",
+    "https://sumitomoelectric.com/jp/id/project/v26/05",
+    "https://www.resonac.com/jp/solution/soft-magnetic-motor-core.html"
+   ]
+  },
+  {
+   "query": "超薄型モーター向けの素材（薄い電磁鋼板・圧粉磁心・磁石） 日本企業",
+   "results": [
+    "https://sumitomoelectric.com/jp/press/2020/09/prs096",
+    "https://www.nipponkinzoku.co.jp/corporate/business/new-business-development-sect",
+    "https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/",
+    "https://www.motorcore-dojo.com/basic/extremely-thin.html",
+    "https://metoree.com/categories/9654/",
+    "https://monoist.itmedia.co.jp/mn/articles/2401/29/news027.html",
+    "https://www.resonac.com/jp/solution/soft-magnetic-motor-core.html",
+    "https://www.kanematsu.co.jp/business/steel_materials_plant/iron_steel_foreign_trade/erectromagnethic_steel"
+   ]
+  },
+  {
+   "query": "超薄型モーター向けの素材（薄い電磁鋼板・圧粉磁心・磁石） 不足 OR 中国依存",
+   "results": [
+    "https://business.nikkei.com/atcl/gen/19/00289/041100088/",
+    "https://japan-forward.com/ja/%E3%83%AC%E3%82%A2%E3%82%A2%E3%83%BC%E3%82%B9%E4%BD%BF%E7%94%A8%E5%89%8A%E6%B8%9B%E3%81%B8%E3%80%81%E8%84%B1%E4%B8%AD%E5%9B%BD%E4%BE%9D%E5%AD%98%E3%80%80%E6%97%A5%E6%9C%AC%E3%83%A1%E3%83%BC%E3%82%AB/",
+    "https://www.moomoo.com/news/post/52920152",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2019/magazine1911.pdf"
+   ]
+  },
+  {
+   "query": "thin electrical steel soft magnetic composite axial flux motor materials market size CAGR 2030",
+   "results": [
+    "https://www.fairfieldmarketresearch.com/press-release/global-axial-flux-motor-market",
+    "https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market",
+    "https://www.linkedin.com/pulse/axial-flux-motor-market-forecast-2024-2030-vijay-k-dufpc",
+    "https://www.mordorintelligence.com/industry-reports/soft-magnetic-material-market",
+    "https://www.technavio.com/report/electrical-steel-market-analysis",
+    "https://www.grandviewresearch.com/industry-analysis/soft-magnetic-materials-market",
+    "https://www.industryarc.com/report/19433/axial-flux-motor-market",
+    "https://www.marketgrowthreports.com/market-reports/axial-flux-motor-market-117172",
+    "https://www.strategicmarketresearch.com/market-report/soft-magnetic-composites-market",
+    "https://www.strategicmarketresearch.com/market-report/soft-magnetic-materials-market"
+   ]
+  },
+  {
+   "query": "thin electrical steel soft magnetic composite axial flux motor materials cost breakdown bill of materials",
+   "results": [
+    "https://afpmmotor.com/blog/smc-vs-laminated-steel-axial-flux-motor-stators",
+    "https://www.magnetschina.com/Axial-Flux-Motor-Rotor-Cost-Breakdown-Magnets-Iron-Core-Or-Encapsulation-Which-Takes-The-Biggest-Share-id07083445.html",
+    "https://global-sei.com/technology/tr/bn86/pdf/86-21.pdf",
+    "https://www.instructables.com/Designing-and-Building-an-Axial-Flux-Motor/",
+    "https://www.nist.gov/system/files/documents/pml/high_megawatt/Cui-FeSi_Cui_Public.pdf",
+    "https://www.researchgate.net/publication/384794449_Comparative_Analysis_of_Electric_Motor_Designs_Traditional_Steel_Laminations_vs_Soft_Magnetic_Composite_Materials",
+    "https://sintex.com/soft-magnetic-composites/electric-motor/",
+    "https://web.mit.edu/kirtley/binlustuff/literature/electric%20machine/designOfAxialFluxPMM.pdf",
+    "https://www.horizontechnology.biz/blog/axial-electric-motor-assembly-process-laminations-soft-magnetic-composite-material",
+    "https://sinterworks-pm.com/materials/soft-magnetic-composites/"
+   ]
+  },
+  {
+   "query": "thin electrical steel soft magnetic composite axial flux motor materials demand per unit humanoid OR drone OR robot",
+   "results": [
+    "https://www.horizontechnology.biz/blog/the-novel-motor-topology-robotics-engineers-have-been-waiting-for",
+    "https://www.idtechex.com/en/research-report/materials-for-humanoid-robots/1160",
+    "https://www.youtube.com/watch?v=lG_qZSX0J_c",
+    "https://www.honest-hls.com/axial-flux-motor-the-lifeblood-of-humanoid-robots",
+    "https://www.anhadsawhney.com/axial-flux-motor",
+    "https://semotoren.com/2026/10/13/why-axial-flux-motors-are-becoming-the-preferred-drive-solution-for-humanoid-robots/",
+    "https://www.brogenmotors.com/the-role-of-axial-flux-motors-in-robotics/",
+    "https://vocal.media/writers/how-humanoid-robots-reshape-steel-demand",
+    "https://www.researchgate.net/publication/262150738_A_Comprehensive_Review_of_Axial-Flux_Permanent-Magnet_Machines",
+    "https://humanoid.guide/"
+   ]
+  },
+  {
+   "query": "site:note.com 超薄型モーター向けの素材（薄い電磁鋼板・圧粉磁心・磁石）",
+   "results": [
+    "https://note.com/volt_edge/n/nf2ab1e654b26",
+    "https://note.com/miss_ephemeral/n/n6618cc67b7a8",
+    "https://note.com/tsutomu_kamiohta/n/n474eaa93aeba",
+    "https://note.com/yamada_kazuro/n/n01d545acd440",
+    "https://note.com/kishioka/n/nbd35a94a92f7",
+    "https://note.com/qy_research/n/n2475aa3d93e9",
+    "https://note.com/clean_broom590/n/nd1603093bf22",
+    "https://www.bing.com/aclick?ld=e8F3yNnUQR-ylVEA8qeJozDjVUCUyHRrtSl63cQlyBv-_RGz_i0jKTHUFgLAm7zjVE9K3qD9Qn1yacJC_dDBJ4pOUt194kc_yYuBw9J2seYpyGReiHKQIa0eTaX1V52kryS0cLF3AZC7YbkE0ZS_h9U-7qcD1eA4N_gUh0SJK63RP28UhYThp9De3WCEOvdKqvg6-fKA&u=aHR0cHMlM2ElMmYlMmZ3b3JsZHdpZGVlbGVjdHJpYy5jb20lMmZwcm9kdWN0cyUyZmVsZWN0cmljX21vdG9ycyUyZmRjX21vdG9ycyUyZiUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV90ZXJtJTNkUGVybWFuZW50JTI1MjBNYWduZXQlMjUyMERDJTI1MjBNb3RvciUyNnV0bV9jYW1wYWlnbiUzZE1vdG9ycyUyNm1zY2xraWQlM2QyMGQwZjBiN2RhZmQxZWU0OGQ1YjlhNWNjN2U0YjYzZg&rlid=20d0f0b7dafd1ee48d5b9a5cc7e4b63f"
+   ]
+  },
+  {
+   "query": "site:x.com 超薄型モーター向けの素材（薄い電磁鋼板・圧粉磁心・磁石）",
+   "results": [
+    "https://x.com/DAIDOSTEEL_PR/status/2054443793022415055",
+    "https://x.com/cagean/status/2070019998949777431",
+    "https://x.com/NIKKEIxTECH/status/1841292152795755006",
+    "https://x.com/abe_ism/status/2046365927588209096",
+    "https://x.com/nikkei/status/1947243982427501022",
+    "https://x.com/reasonshodou/status/2066690565769748600",
+    "https://x.com/i/trending/2012332592859955494"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 超薄型モーター向けの素材（薄い電磁鋼板・圧粉磁心・磁石）",
+   "results": [
+    "https://jp.linkedin.com/posts/jmag-japan_jmag-最適化-材料最適化-activity-7471056226148188160-AXQT",
+    "https://jp.linkedin.com/pulse/hvwwマグネットワイヤキータスパイアpeekを用いて高電圧800v電動モーターの性能向上熱伝導率2倍p-yasunobu-sato",
+    "https://www.linkedin.com/posts/satoru-noguchi-27484267_半導体の次は電磁鋼板2025年以降に供給不足か-activity-6886841943125573632-8jXs",
+    "https://jp.linkedin.com/posts/邦親-久保田-bb6644218_ev駆動モーター用高性能重希土類フリーネオジム焼結磁石を開発-2025年7月22日-activity-7365662752654151680-G-uG",
+    "https://jp.linkedin.com/posts/jmag-japan_w-ma-100-精度損失評価のための電磁鋼板詳細解析法のご紹介-電磁界解析-activity-7099193391086784512-qYq1",
+    "https://jp.linkedin.com/pulse/electrical-steel-price-trends-regional-insights-supply-naman-sharma-uwwlc",
+    "https://jp.linkedin.com/posts/jp-market-trends-analytics_電磁鋼板市場事業戦略と事業拡大計画2026-2034年-電磁鋼板市場規模-activity-7433035169927753728-Smkh",
+    "https://www.bing.com/aclick?ld=e8pwcZ68a9_gFcc998i5zphjVUCUz-xwF_3ymISWO1AjPkLxEDvzd5EbnLl8Otbe6EHQXty3ezZz1_6ztaozMIvGiFWJafnMebWlJ5pUgMawhpFbOmPVUcK2qK820VmrrX7-nOiKG4rAIeEHzW7LFUtcehP1CDYxANW3fnHndFjmtsqi0LfcI1OykKpLE9OrBbveQDIA&u=aHR0cHMlM2ElMmYlMmZ3b3JsZHdpZGVlbGVjdHJpYy5jb20lMmZwcm9kdWN0cyUyZmVsZWN0cmljX21vdG9ycyUyZmRjX21vdG9ycyUyZiUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV90ZXJtJTNkUGVybWFuZW50JTI1MjBNYWduZXQlMjUyMERDJTI1MjBNb3RvciUyNnV0bV9jYW1wYWlnbiUzZE1vdG9ycyUyNm1zY2xraWQlM2RkZjczZGNkYjViNDMxNjYyNjZlNmI2MzA0NjZmMzU0Yw&rlid=df73dcdb5b43166266e6b630466f354c"
+   ]
+  },
+  {
+   "query": "site:facebook.com 超薄型モーター向けの素材（薄い電磁鋼板・圧粉磁心・磁石）",
+   "results": [
+    "https://www.facebook.com/61591833662922/videos/1257240766390358/",
+    "https://www.facebook.com/fortunetimes/posts/中鋼研發-01mm-超薄電磁鋼片厚度有如一張-a4-紙搭配自黏塗膜技術切入無人機機器人領域中鋼-超薄電磁鋼-無人機/1298151239184166/",
+    "https://www.facebook.com/shinshilab/videos/マイクロリニアモータ/2284424878458966/",
+    "https://www.facebook.com/sh.takao/videos/奇跡の磁石デンソーが開発した中国レアアースをいっさい使わない自動車モーターに世界が絶句した理由-デンソー-denso-鉄ニッケル超格子磁石-l10型超格子構造-/1533039201258759/",
+    "https://www.facebook.com/reel/1312519954099058/",
+    "https://www.facebook.com/nikkeibusiness/posts/中国レアアース規制が揺さぶるモーター生産-技術流出磁石の二の舞い回避を-中国がレアアース希土類による経済的威圧を強めている高性能の磁石に欠かせないジスプロシウム/1470275115143748/",
+    "https://www.facebook.com/SchaefflerJapan/videos/シェフラーの最新eesm巻線界磁型同期モーター技術はトルク密度出力密度において永久磁石モーターに迫る性能を実現するとともに高速域での効率面でも誘導モーターとの差/1056975297262436/"
+   ]
+  },
+  {
+   "query": "超薄型モーター向けの素材（薄い電磁鋼板・圧粉磁心・磁石） note 社長",
+   "results": [
+    "https://sumitomoelectric.com/jp/press/2025/02/prs022",
+    "https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/",
+    "https://www.daido.co.jp/about/release/2024/241025_soft-magnetic.html",
+    "https://sumitomoelectric.com/jp/press/2020/09/prs096",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2014/magazine1409.pdf",
+    "https://note.com/tag/%E9%9B%BB%E7%A3%81%E9%8B%BC%E6%9D%BF",
+    "https://sumitomoelectric.com/jp/id/project/v26/04",
+    "https://sumitomoelectric.com/jp/rd/technical-reviews/authors/tatsuya-saito",
+    "https://sei.co.jp/technology/tr/bn192/pdf/192-23.pdf",
+    "https://sei.co.jp/technology/tr/bn188/pdf/sei10870.pdf"
+   ]
+  },
+  {
+   "query": "超薄型モーター向けの素材（薄い電磁鋼板・圧粉磁心・磁石） X 投稿",
+   "results": [
+    "https://x.com/JFE_STEEL_PR/status/1486543085903384579",
+    "https://sumitomoelectric.com/jp/products/powdermagneticcore",
+    "https://www.nipponkinzoku.co.jp/products/st-series",
+    "https://www.motorcore-dojo.com/basic/extremely-thin.html",
+    "https://motor-fan.jp/article/782767/",
+    "https://www.jfe-steel.co.jp/release/2024/01/240116.html",
+    "https://newswitch.jp/p/40110",
+    "https://sintered-metal-processing.com/basic/440",
+    "https://www.resonac.com/jp/solution/soft-magnetic-motor-core.html",
+    "https://sei.co.jp/technology/tr/bn188/pdf/sei10870.pdf"
+   ]
+  },
+  {
+   "query": "thin electrical steel soft magnetic composite axial flux motor materials site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/soft-magnetic-composites-used-electric-machines-focussmc",
+    "https://www.linkedin.com/pulse/axial-flux-motors-pancake-revolution-jinesh-vinayachandran-jnjjc",
+    "https://www.linkedin.com/pulse/pcb-stators-axial-flux-high-speed-motors-lt-circuit-co-ltd-dutwf",
+    "https://www.linkedin.com/pulse/charting-future-comprehensive-analysis-global-nev-drive-xy5ve",
+    "https://www.linkedin.com/posts/soham-yerandkar-472066170_axialflux-electricmobility-motordesign-activity-7465422542980157440-36o9",
+    "https://www.linkedin.com/top-content/engineering/innovations-in-electrical-engineering/enhancements-in-electric-motor-design/",
+    "https://www.linkedin.com/pulse/pcb-stators-robotics-robotic-actuators-lt-circuit-co-ltd-gytdf",
+    "https://www.linkedin.com/in/anne-good-b612a09",
+    "https://www.linkedin.com/posts/jennifer-thorwart_the-smc-advantage-in-next-gen-electric-motors-activity-7516846664817491968-BZ9P",
+    "https://www.bing.com/aclick?ld=e83v6w8bhIf3GQBRiT37jQhTVUCUwqumSRTrIwvTM8QrQl9KiTua6CvTqQNsK29wRkecYCO2Qi1iRQRDYMT69F0QpxSED69CR_Klq_Zc0Nu9yJQHyQLQmkdJ_23R6SzoELnAkbkj5406HjDZNRIPXqTj3jgbYk49i6P1Mno6XG5kctI4XFsM0HIVyZvf1a9RGcFtYZnw&u=aHR0cHMlM2ElMmYlMmZ3d3cubWFnLWluYy5jb20lMmZQcm9kdWN0cyUyZkZlcnJpdGUtQ29yZXMlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RwcGMlMjZ1dG1fY2FtcGFpZ24lM2RnNzYlMjUyMGNvbGQlMjZ1dG1fdGVybSUzZHByb2R1Y3QlMjZ1dG1fY29udGVudCUzZGZlcnJpdGUlMjZ1dG1fdGVybSUzZHNvZnQlMjUyMG1hZ25ldGljJTI1MjBtYXRlcmlhbHMlMjZ1dG1fY2FtcGFpZ24lM2RHNzYlMmIlMjU3QyUyYlByb2R1Y3QlMmIlMjU3QyUyYlJTQSUyYiUyNTdDJTJiNi4xNy4yNSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZHBwYyUyNmhzYV9hY2MlM2Q2NTQ5NTYyOTQyJTI2aHNhX2NhbSUzZDIyNjg3MjA3Njc2JTI2aHNhX2dycCUzZDExODMwNzY4OTU0MDcxNjIlMjZoc2FfYWQlM2QlMjZoc2Ffc3JjJTNkbyUyNmhzYV90Z3QlM2Rrd2QtNzM5NDMwOTI2NzM3MzAlM2Fsb2MtMTkwJTI2aHNhX2t3JTNkc29mdCUyNTIwbWFnbmV0aWMlMjUyMG1hdGVyaWFscyUyNmhzYV9tdCUzZHAlMjZoc2FfbmV0JTNkYWR3b3JkcyUyNmhzYV92ZXIlM2QzJTI2bXNjbGtpZCUzZGVhMmUzMjVmNzM2MDE3MTA2M2Q3NThiNDZlMmM1YTIw&rlid=ea2e325f7360171063d758b46e2c5a20"
+   ]
+  }
+ ],
+ "missing": {}
+}

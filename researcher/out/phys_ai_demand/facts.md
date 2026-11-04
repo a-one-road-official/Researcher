@@ -1,4 +1,4 @@
-# フィジカルAI・無人化で増える部材と用途 — 需要量・単価・部品構成比・供給元・日本の位置（事実のみ・18品目）
+# フィジカルAI・無人化で増える部材と用途 — 需要量・単価・部品構成比・供給元・日本の位置（事実のみ・19品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -2174,3 +2174,111 @@
 - 検索結果の抜粋：
   - 「アキシャルギャップモーター メーカー5社 - Metoree — アキシャルギャップモーター メーカー5社 - Metoree Metoree https://metoree.com > モーター」（https://metoree.com/categories/8459/）
 - 部品構成比・単価：記載なし（読んだ48頁・検索16回）
+
+## 超薄型モーター向けの素材（薄い電磁鋼板・圧粉磁心・磁石）（thin electrical steel soft magnetic composite axial flux motor materials）
+- 文脈：マテリアル・素材
+- 市場規模：
+  - 「電磁鋼板市場規模・予測レポート、2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「Electrical Steel Market Size, by Type, 2025 & 2035 (USD Million)」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「GOESの市場規模は2025年に60億6,000万米ドルとなり、2035年には市場売上高の28.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「無方向性電磁鋼板（NGO）は、2035年までに市場規模が269億1,000万米ドルに達し、2026〜2035年の年平均成長率（CAGR）は6.7%になると予測される」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「変圧器向けは2025年に市場規模が70億7,000万米ドルとなり、2026〜2035年のCAGRは5.4%と予測される」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「モーター・駆動装置向けは、2035年までに市場規模が160億3,000万米ドルに達すると予測され、2025年には市場収益の40.0%を占めた」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「発電機向けは2025年に市場規模が20億2,000万米ドルとなり、2026〜2035年のCAGRは6.4%と予測される」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「その他の用途は、2035年までに市場規模が56億4,000万米ドルに達すると予測され、2025年には市場収益の15.0%を占めた」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「エネルギー・公益事業向けは2025年に市場規模が60億6,000万米ドルとなり、2035年には市場収益の29.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「自動車・電気自動車向けは、2035年までに市場規模が89億7,000万米ドルに達し、2026〜2035年のCAGRは8.3%になると予測される」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「産業機械向けは、2035年までに市場規模が71億米ドルに達すると予測され、2025年には市場収益の20.0%を占めた」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「家電向けは2025年に市場規模が20億2,000万米ドルとなり、2035年には市場収益の9.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+- 成長率：
+  - 「2026〜2035年の年平均成長率（CAGR）6.35%で拡大し、2035年には373億8,000万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「世界の送電分野への投資額は2023年に1,400億米ドルに達し、前年比10%増となりました」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「EV駆動モーターにおける厚さ 0.35 mm 未満のNGO材の採用拡大により、NGOの平均販売価格は市場全体に比べて上昇する」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「無方向性電磁鋼板（NGO）は、2035年までに市場規模が269億1,000万米ドルに達し、2026〜2035年の年平均成長率（CAGR）は6.7%になると予測される」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「変圧器向けは2025年に市場規模が70億7,000万米ドルとなり、2026〜2035年のCAGRは5.4%と予測される」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「発電機向けは2025年に市場規模が20億2,000万米ドルとなり、2026〜2035年のCAGRは6.4%と予測される」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「自動車・電気自動車向けは、2035年までに市場規模が89億7,000万米ドルに達し、2026〜2035年のCAGRは8.3%になると予測される」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「発電向けは2025年に市場収益の15.0%を占め、2026〜2035年のCAGRは5.6%と予測される」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「その他の最終用途は、2035年までに18.6億米ドルに達し、2026〜2035年に年平均成長率（CAGR）6.4%で成長すると予測されます」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「コイルは2025年の売上高の65.0%を占め、2026〜2035年に年平均成長率（CAGR）6.2%で成長すると予測されます」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「当社は、お客様のご要望にお応えする製品開発を進めるとともに、材料特性を最大限発揮する利用技術の提案、試作評価支援といったお客様との技術交流を進めながら、今後ともCO2排出量削減に寄与するエコプロダクトの供給を拡大していくことで、持続可能な社会の実現に貢献してまいります」（https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/）
+  - 「CAGR, 2026 – 2033」（https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market）
+  - 「by 2033, growing at a compound annual growth rate」（https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market）
+  - 「(CAGR) of 7.20%」（https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market）
+- 需要量：
+  - 「電磁鋼板メーカーおよび下流のOEM各社との協議によると、世界の電磁鋼板需要は2025年に1,390万トンに達しました」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「従来型モーター設計と比べて車両1台当たりの電磁鋼板使用量が少ないなかでも、売上高の成長を下支えする予測条件：800VのEVアーキテクチャーへの広範な移行と高周波誘導モーター用途が、プレミアム超薄手NGO材の需要を下支えする」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「* 3地区電炉メーカー購入価格平均（トン当たり）」（https://www.japanmetal.com/news-h20260703149813.html）
+  - 「4つの積層方法から、求められるコストや個数に応じて加工」（https://www.motorcore-dojo.com/basic/dust-core.html）
+  - 「飯島精機…ISO9001を取得していてかつ試作品対応の会社の中で、コストや個数に合わせて選択できる加工方法が最も豊富（4種類）」（https://www.motorcore-dojo.com/basic/dust-core.html）
+  - 「本論では図15に示す略台形の断面形状を有する圧粉コア と」（https://global.yamaha-motor.com/jp/design_technology/technical/pdf/chapters/YMC-TR56_TechPaper_04.pdf）
+  - 「4つの積層方法から、求められるコストや個数に応じて加工」（https://www.motorcore-dojo.com/basic/extremely-thin.html）
+  - 「飯島精機…ISO9001を取得していてかつ試作品対応の会社の中で、コストや個数に合わせて選択できる加工方法が最も豊富（4種類）」（https://www.motorcore-dojo.com/basic/extremely-thin.html）
+  - 「of the global soft magnetic composite market in 2026. The region combines large-scale electric-vehicle production motor manufacturing electronics output and mature powder-metallurgy supply chains. In July 2026, China reported first-half new-energy-vehicle output above seven million units reinforcing the scale of downstream demand for compact motors and magnetic components.」（https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market）
+  - 「added the MCDMCF322520/DS high-temperature metal composite inductor to its MCDMCF series combining a magnetically shielded metal-composite core with high-current low-EMI low-core-loss performance. The launch expands commercialization of composite magnetic cores in thermally demanding compact power-electronics designs.」（https://www.coherentmarketinsights.com/industry-reports/soft-magnetic-composite-market）
+- 部品構成比・単価：
+  - 「GOESの市場規模は2025年に60億6,000万米ドルとなり、2035年には市場売上高の28.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「エネルギー・公益事業向けは2025年に市場規模が60億6,000万米ドルとなり、2035年には市場収益の29.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「家電向けは2025年に市場規模が20億2,000万米ドルとなり、2035年には市場収益の9.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「標準材の2025年の売上高は90.9億米ドルで、2035年の売上高の42.0%を占めると予測されます」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「イタリアは欧州市場収益に占める割合が2025年の10.0%から、2035年には9.0%になると予測されている」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「中国市場は2025年に90.9億米ドルの規模に達し、2035年にはアジア太平洋地域市場収益の73.2%を占めると予測されている」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「日本の市場規模は2025年に6億7,000万米ドルとなり、2035年にはアジア太平洋地域の市場収益の4.7%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「2025年において、北米は世界の電磁鋼板市場でどのくらいのシェアを占めるだろうか？」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「北米は、電気自動車製造、電力変圧器、送電網近代化プロジェクトからの需要増加に支えられ、2025年には世界の電磁鋼板市場の12.4%を占める見込みである」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「無機コーティングは2025年に市場シェアの35%を占める見込みである」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「当社ではこれまでに、図2に示す部品構成で、扁平形状・」（https://sei.co.jp/technology/tr/bn198/pdf/198-09.pdf）
+- 主要供給元・シェア：
+  - 「電磁鋼板市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「電磁鋼板メーカーおよび下流のOEM各社との協議によると、世界の電磁鋼板需要は2025年に1,390万トンに達しました」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「thyssenkrupp Steelは、現代の高速トラクションモーター向けに設計された仕様の、CO₂排出量を削減したpowercore® traction NGO 025-125Y420について、量産供給が可能であることを検証した」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「こうした需要は、安定したGOESの磁気特性、技術サポート、確実な納入能力を提供できるサプライヤーに有利に働く」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「自動車OEMやモーターメーカーの認定を取得できる先進NGO材のサプライヤーは、長期にわたり生産される車種プラットフォームへの供給機会を得る」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「2025年までに欧州市場でGOES輸入品が50%を超えるシェアを占めたことを受け、欧州委員会は2026年9月25日発効のGOES暫定セーフガード措置を採択した」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「代替の上限は、アモルファスリボンの供給状況と変圧器の設置スペース要件によって制約される」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「予測条件：GOESメーカーはレーザースクライブ処理を施したHi-B鋼種の開発を進める一方、アモルファスリボンの世界的な生産能力の制約により、2035年まで大衆市場での置き換えリスクは抑制される」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「そのため、電磁鋼板メーカーにとって需要環境は構造的に追い風である一方、受注残への反映は一様ではない」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「欧州のGOESメーカーは別の課題にも直面している」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「セーフガード措置は国内メーカーに有利な政策環境をもたらすが、保護措置が恒久化されるかどうかや、顧客による再認定がどの程度の速さで進むかをめぐる不確実性は解消されない」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「特定の配電用変圧器の設計では優れた性能を発揮する一方、供給状況、製造要件、大型変圧器コアの物理的特性を踏まえると、GOESは引き続き重要な役割を担う」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「変圧器の供給制約はGOESの収益化を遅らせる可能性があり、貿易面の圧力は価格回復を抑制するおそれがあります」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「市場機会は送電網の近代化と結び付いているが、商業的な成果は、変圧器OEMによる認定、貿易環境、メーカーが高級鋼種の差別化を維持できるかどうかに左右される」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「幅広い最終市場に供給されるため需要の底堅さが支えられるほか、薄手化と高性能化の動きにより、技術力を備えたサプライヤーが獲得できる収益構成の改善が見込まれる」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+- 日本企業の位置：
+  - 「セーフガード措置は国内メーカーに有利な政策環境をもたらすが、保護措置が恒久化されるかどうかや、顧客による再認定がどの程度の速さで進むかをめぐる不確実性は解消されない」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「送電網の更新、国内サプライチェーン政策、EV製造への投資が、域内需要を下支えしている」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「米国の需要は、送配電網への投資、データセンター関連の電力需要の増加、再生可能エネルギーの系統統合、国内製造業政策に支えられている」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「電磁鋼板を戦略物資として位置付けることにより、国内生産能力の確保とサプライヤー認定の重要性が高まっている」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「国内メーカーを取り巻く競争環境は、域内需要がどの程度域内供給につながるかを左右する」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「中国の生産規模、インドのインフラ拡大、日本と韓国の技術力を背景に、域内市場は大量供給、高付加価値製品の開発、急成長する最終用途需要にまたがる構成となっている」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「中国では、送電網、EV、産業用モーターに対する大規模な国内需要と、広範な電磁鋼板の生産能力が併存している」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「電力システムの拡充、配電網の更新、再生可能エネルギーの統合、国内の電気自動車（EV）生産が、電磁鋼板の幅広い需要基盤を形成している」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「インフラ計画の拡大に伴い、国内での方向性電磁鋼板（GOES）の生産能力の整備は、変圧器メーカーのサプライチェーンを短縮できるため、戦略上重要である」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「日本の市場規模は2025年に6億7,000万米ドルとなり、2035年にはアジア太平洋地域の市場収益の4.7%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「高性能材料の開発力と、世界の変圧器・自動車サプライチェーンとの確立された関係を背景に、日本は引き続き大きな影響力を持つ」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「成熟した国内市場は、プレミアム方向性電磁鋼板（GOES）および無方向性電磁鋼板（NGO）の技術的価値によって補完されている」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「国内顧客へのアクセスと製造拠点網により、地域の供給、競争、輸出可能量に大きな影響を及ぼしている」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「Cleveland-Cliffsは、米国内のGOES供給企業として戦略的に重要な地位を占めている」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「主要企業としては、中国宝武鋼鉄集団、アルセロールミッタル、日本製鉄、ポスコ、JFEスチールなどが挙げられる」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+- 供給制約・不足：
+  - 「計画の遅延や資金不足が生じた場合、短期的なGOES需要の顕在化は抑制されます」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「大型機器の調達リードタイムはほぼ2倍となり、最長4年に達しており、変圧器製造エコシステム全体で深刻なサプライチェーンの逼迫が生じている」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「変圧器の供給制約はGOESの収益化を遅らせる可能性があり、貿易面の圧力は価格回復を抑制するおそれがあります」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「地域別の成長は、単一の地域や最終市場への依存度が低下していくとみられる」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「ナフサ不足にどう備える？ パワーGXで変わる石油化学の備蓄戦略」（https://monoist.itmedia.co.jp/mn/articles/2401/29/news027.html）
+  - 「権限不足のため、フォローできません」（https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/）
+  - 「xial flux motors are driving a power revolution in new energy vehicles, humanoid robots, eVTOL (electric vertical take-off and landing) aircraft, and more, thanks to their compact size, light weight, and high power density. However, the relatively high manufacturing cost remains a bottleneck for large scale adoption. So, what exactly makes up the cost of an」（https://www.magnetschina.com/Axial-Flux-Motor-Rotor-Cost-Breakdown-Magnets-Iron-Core-Or-Encapsulation-Which-Takes-The-Biggest-Share-id07083445.html）
+  - 「current, and this becomes a bottleneck to motor power」（https://global-sei.com/technology/tr/bn86/pdf/86-21.pdf）
+- 政策・予算：
+  - 「アジアからの補助金付きGOES輸入が欧州の生産採算を圧迫」（https://www.gminsights.com/ja/industry-analysis/electrical-steel-market）
+  - 「モータ用圧粉磁心の材料ラインナップを拡充 ～「JMAG」への材料データ追加により高性能モータ開発を支援～」（https://sumitomoelectric.com/jp/rd/technical-reviews/authors/tatsuya-saito）
+  - 「難加工鋼材の活用を設計段階から支援、上流へとカバー領域広げるJFEスチール」（https://monoist.itmedia.co.jp/mn/articles/2401/29/news027.html）
+  - 「JFEスチール、IBM Watsonを活用した故障復旧支援システムの販売を開始」（https://monoist.itmedia.co.jp/mn/articles/2401/29/news027.html）
+  - 「JFEスチールは、自社向けに開発した故障復旧支援システム「J-mAIster」を、日本IBMと共同で販売する」（https://monoist.itmedia.co.jp/mn/articles/2401/29/news027.html）
+  - 「また、当社ではアキシャルギャップモータ用・圧粉磁心のメリットをお客様に実感いただくため、提供されたモータ仕様を元に、アキシャルギャップモータの三次元電磁界解析の支援をいたしております」（https://sumitomoelectric.com/jp/press/2020/09/prs096）
+  - 「また、当社とJFEテクノリサーチ株式会社は、お客様での圧粉磁心を用いた部品の設計支援を目的とした、外径110mmの切削加工用大型圧粉体の提供や、設計形状に加工した試作圧粉磁心の提供を開始いたしました」（https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/）
+  - 「当社は、お客様のご要望にお応えする製品開発を進めるとともに、材料特性を最大限発揮する利用技術の提案、試作評価支援といったお客様との技術交流を進めながら、今後ともCO2排出量削減に寄与するエコプロダクトの供給を拡大していくことで、持続可能な社会の実現に貢献してまいります」（https://www.nikkei.com/article/DGXZRSP667063_W4A110C2000000/）

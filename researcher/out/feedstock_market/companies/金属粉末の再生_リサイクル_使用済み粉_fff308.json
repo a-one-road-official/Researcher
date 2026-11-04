@@ -1,0 +1,932 @@
+{
+ "name": "金属粉末の再生・リサイクル（使用済み粉）",
+ "en": "metal AM powder recycling reuse market",
+ "aliases": [
+  "使用済み粉末 リサイクル",
+  "金属粉末 再生",
+  "AM 粉末 買い戻し"
+ ],
+ "context": "循環",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:54:08.048262+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "アトマイズ金属粉市場：市場規模・成長と2028年までの予測",
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "2021年の市場規模",
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "2028年までの市場規模",
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属粉末市場規模、シェア、および成長レポート 2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属粉末市場規模、シェア、動向および予測材料、技術、用途、地域別、2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属粉末市場規模は、2025年に",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本粉体塗装装置市場規模、シェア、動向および予測樹脂タイプ別、コンポーネント別、最終用途産業別、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本パウダーコーティング市場規模、シェア、動向および予測樹脂タイプ、コーティング方法、用途、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の粉末冶金市場規模、シェア、動向、予測タイプ、材料、製造プロセス、用途、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のフルーツパウダー市場規模、シェア、動向および予測果物の種類別、技術別、流通チャネル別、用途別、地域別2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "噴霧金属粉末市場は2021年に9億1,926万米ドルと評価され、2028年までに14億67万米ドルに達すると予測されており、2021年から2028年にかけて6.2%のCAGRで成長すると予想されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のCAGR（2021年～2028年）",
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "に達し、2026年から2034年の期間に年平均成長率",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "（CAGR）4.06%",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場成長率 2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用途における積層造形と3Dプリンティングの利用拡大",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "しかし、経済が景気回復に向けて動き出す中、今後数年間で世界的にアトマイズ金属粉末の需要が増加すると予想されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Gibraltar",
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "認定資格と法的記述",
+    "url": "https://www.hoganas.com/ja/powder-technologies/iron-powder/",
+    "pass": 3
+   }
+  ],
+  "上位シェア・主要企業": [
+   {
+    "quote": "予測期間中、アジア太平洋地域はアトマイズ金属粉末市場で最大のシェアを占めると予想されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの国々では、都市化の急速な進展と製造業の拡大、そして工業化の進展が見られ、アトマイズ金属粉末市場の主要企業に豊富なビジネスチャンスを提供しています",
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "焼結部品、粉末冶金、積層造形など、様々な用途におけるアトマイズ金属粉末の需要拡大と、主要メーカーによる多額の投資は、予測期間中のアトマイズ金属粉末市場の成長を牽引すると予想されます",
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "アトマイズ鉄粉セグメントは、予測期間中に市場で最大のシェアを占めると予想されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "コーティング・装飾セグメントは、予測期間中に市場で最大のシェアを占めると予想されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場リーダーと主要企業の概要",
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模とシェア",
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属粉末市場規模、シェア、および成長レポート 2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属粉末市場規模、シェア、動向および予測材料、技術、用途、地域別、2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、すべての主要企業の詳細なプロフィールが提供されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境は、利害関係者が競争環境を理解することを可能にし、市場における主要企業の現在のポジションについての洞察を提供します",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本粉体塗装装置市場規模、シェア、動向および予測樹脂タイプ別、コンポーネント別、最終用途産業別、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本パウダーコーティング市場規模、シェア、動向および予測樹脂タイプ、コーティング方法、用途、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の粉末冶金市場規模、シェア、動向、予測タイプ、材料、製造プロセス、用途、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のフルーツパウダー市場規模、シェア、動向および予測果物の種類別、技術別、流通チャネル別、用途別、地域別2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   }
+  ],
+  "日本の買い手と供給元": [
+   {
+    "quote": "国別に見ると、アジア太平洋地域の市場は中国、インド、日本、韓国、オーストラリア、その他のアジア太平洋地域に区分されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属粉末市場規模、シェア、および成長レポート 2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属粉末市場",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属粉末市場規模、シェア、動向および予測材料、技術、用途、地域別、2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属粉末市場の概要：",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属粉末市場規模は、2025年に",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属粉末市場動向：",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "アディティブ・マニュファクチャリング（AM）と金属3Dプリンティングは、航空宇宙、自動車、医療機器などの分野における高精度で軽量な部品への需要の高まりに後押しされ、日本の製造業の状況を急速に変化させている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、大同特殊鋼やJFEスチールなどの国内メーカーも事業を拡大している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "イノベーションと伝統的なモノづくりの融合は、3Dプリンターが前例のない設計の柔軟性と製造効率を可能にする、日本の進化する産業アイデンティティを反映している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "2050年までの電動化とカーボンニュートラルに向けた日本の野心的な動きは、先端材料、特に磁性合金、電池電極、燃料電池、軽量構造部品の開発に重要な役割を果たす金属粉末の需要を大幅に押し上げている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本がグリーン・エネルギー・インフラストラクチャーを拡大する中、金属粉末はクリーン技術全体の性能、持続可能性、リサイクル性を高める基盤材料として台頭している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属粉末市場のセグメンテーション：",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属粉末市場ニュース：",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属粉末市場レポートカバレッジ：",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属粉末市場はこれまでどのように推移し、今後どのように推移していくのか?",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本語 (Japanese)",
+    "url": "https://www.hoganas.com/ja/powder-technologies/iron-powder/",
+    "pass": 3
+   }
+  ],
+  "日本の顧客が買うか（需要の証拠）": [
+   {
+    "quote": "さらに、費用対効果が高く効率的な技術であるため、業界では表面コーティングにアトマイズ金属粉末を採用するケースが増えています",
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の企業は、製品開発、工場の拡張、合併や買収などの戦略を採用して、世界中で事業を拡大し、エンドユーザーからの高まる需要に対応しています",
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "先進国市場と発展途上国市場で採用されているビジネス成長戦略",
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Insight Partnersから市場レポートを購入するのは今回が初めてです",
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "最初は不安でしたが、ウェブサイトを見て、リスクを負ってでも購入してみようという気持ちになりました",
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "ご購入前のお問い合わせ",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "調達における社会的責任",
+    "url": "https://www.hoganas.com/ja/powder-technologies/iron-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的な採用応募フォーム",
+    "url": "https://www.hoganas.com/ja/powder-technologies/iron-powder/",
+    "pass": 3
+   }
+  ],
+  "再生・循環": [
+   {
+    "quote": "化学、食品・飲料、消費財など、複数の分野にわたる経験を持ち、機能性成分、再生可能化学品、飼料、農薬に関する専門知識を有しています",
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本がグリーン・エネルギー・インフラストラクチャーを拡大する中、金属粉末はクリーン技術全体の性能、持続可能性、リサイクル性を高める基盤材料として台頭している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sun Metalon Inc.は、金属産業の脱炭素化を目指した独自の金属粉リサイクル技術を推進するため、シリーズAで2100万米ドルの資金を確保した",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "同社の革新的な電磁加熱プロセスは、金属廃棄物を溶融することなく再利用可能な金属粉に効率的に変換し、エネルギー消費を最大85％削減し、再生可能エネルギーで駆動した場合、CO₂排出ゼロを達成する可能性がある",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末ソリューションを使用することで、資源の不足、再生可能エネルギーの必要性など、社会が直面している多くの課題を解決することに貢献できます",
+    "url": "https://www.hoganas.com/ja/powder-technologies/iron-powder/",
+    "pass": 3
+   }
+  ],
+  "ニッチ度（供給元の数・寡占）": [
+   {
+    "quote": "ポーターのファイブ・フォース分析は、利害関係者が新規参入の影響、競合関係、供給者パワー、買い手パワー、代替の脅威を評価するのに役立つ",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "OEM 認証仕様",
+    "url": "https://www.hoganas.com/ja/powder-technologies/iron-powder/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "4.06",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "quote": "（CAGR）4.06%"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/metal-powder-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factmr.com/ja/report/copper-metal-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-metal-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-steel-metal-powder-market",
+    "status": "http_522",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dokindokin.com/scrap/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://osaka-kogyo.jp/powder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suzukin.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://srs-recycle.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://super-recycle.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yatsude.co.jp/metal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/6285133",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metal-powder-market",
+    "status": "http_522",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%8C%97%E7%B1%B3%E3%81%8A%E3%82%88%E3%81%B3%E3%82%A2%E3%82%B8%E3%82%A2%E5%A4%AA%E5%B9%B3%E6%B4%8B%E3%81%AE%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4-112094",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/6285133",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/8525/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/scrap-metal-recycling-market/3339",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://am-printing.com/ja/lifecycle-of-metal-powder-202407241/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://em.mitsui-kinzoku.com/engineered-powders/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda-kyoto.co.jp/company/business/powder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hoganas.com/ja/powder-technologies/iron-powder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-additive-manufacturing-metal-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.material-expo.jp/hub/ja-jp/column/recycle/12.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finemag.jp/product_02/case2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://partners.solize.com/column/3dprinter/002",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://met3dp.com/ja/3d-printed-metal-powder-202404036/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/6101282",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpma.gr.jp/technology/powder/feature/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://volkmann.co.jp/powtrex/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1080_04.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j4ce.env.go.jp/casestudy/016/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.env.go.jp/council/former2013/03haiki/y0324-04/mat04-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cjc.or.jp/data/pdf/book2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jx-nmm.com/sustainability/2026/environment/resource-recycling/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journal.jogmec.go.jp/content/300599026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jwnet.or.jp/info/assets/files/R06_chousa_metal.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/hoganas/product/detail/2000070650/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.jnm.co.jp/ja/sustainability/recycle.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j4ce.env.go.jp/casestudy/group/1/recycle/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属粉末の再生・リサイクル（使用済み粉） 市場規模 CAGR",
+   "results": [
+    "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/metal-powder-market",
+    "https://www.factmr.com/ja/report/copper-metal-powder-market",
+    "https://www.reportocean.co.jp/industry-reports/japan-metal-powder-market",
+    "https://www.databridgemarketresearch.com/jp/reports/global-steel-metal-powder-market",
+    "https://straitsresearch.com/jp/report/copper-powder-market",
+    "https://www.atpress.ne.jp/news/6285133",
+    "https://www.researchnester.com/ja/reports/scrap-metal-recycling-market/3339",
+    "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market"
+   ]
+  },
+  {
+   "query": "金属粉末の再生・リサイクル（使用済み粉） 価格 kg",
+   "results": [
+    "https://www.dokindokin.com/scrap/",
+    "https://osaka-kogyo.jp/powder.html",
+    "https://suzukin.jp/",
+    "https://srs-recycle.com/",
+    "https://super-recycle.com/",
+    "https://yatsude.co.jp/metal/",
+    "https://tetushigenkan.com/blog/?page_id=2335",
+    "https://www.fukumi-shoji.co.jp/kakaku",
+    "https://haruhi-shokai.com/scrap_nonferrous1.html",
+    "https://www.e-furutani.com/"
+   ]
+  },
+  {
+   "query": "金属粉末の再生・リサイクル（使用済み粉） シェア 主要企業",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/metal-powder-market",
+    "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "https://newscast.jp/news/6285133",
+    "https://www.databridgemarketresearch.com/jp/reports/global-metal-powder-market",
+    "https://www.fortunebusinessinsights.com/jp/%E5%8C%97%E7%B1%B3%E3%81%8A%E3%82%88%E3%81%B3%E3%82%A2%E3%82%B8%E3%82%A2%E5%A4%AA%E5%B9%B3%E6%B4%8B%E3%81%AE%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4-112094",
+    "https://www.atpress.ne.jp/news/6285133",
+    "https://metoree.com/categories/8525/",
+    "https://www.researchnester.com/ja/reports/scrap-metal-recycling-market/3339",
+    "https://www.fortunebusinessinsights.com/jp/業界-レポート/金属粉末市場-101458"
+   ]
+  },
+  {
+   "query": "金属粉末の再生・リサイクル（使用済み粉） 主要メーカー 一覧",
+   "results": [
+    "https://metoree.com/categories/8525/",
+    "https://am-printing.com/ja/lifecycle-of-metal-powder-202407241/",
+    "https://mono.ipros.com/cg2/%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB/",
+    "https://em.mitsui-kinzoku.com/engineered-powders/products/",
+    "https://www.fukuda-kyoto.co.jp/company/business/powder.html",
+    "https://www.hoganas.com/ja/powder-technologies/iron-powder/",
+    "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-additive-manufacturing-metal-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "https://partners.solize.com/column/3dprinter/002",
+    "https://www.ipros.com/cg1/リサイクル/金属/"
+   ]
+  },
+  {
+   "query": "金属粉末の再生・リサイクル（使用済み粉） 参入企業 数",
+   "results": [
+    "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-additive-manufacturing-metal-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "https://www.material-expo.jp/hub/ja-jp/column/recycle/12.html",
+    "https://finemag.jp/product_02/case2",
+    "https://metoree.com/categories/8525/",
+    "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "https://partners.solize.com/column/3dprinter/002",
+    "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "https://www.atpress.ne.jp/news/6285133",
+    "https://www.databridgemarketresearch.com/jp/reports/global-metal-powder-market",
+    "https://met3dp.com/ja/3d-printed-metal-powder-202404036/"
+   ]
+  },
+  {
+   "query": "金属粉末の再生・リサイクル（使用済み粉） 日本 需要",
+   "results": [
+    "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "https://www.material-expo.jp/hub/ja-jp/column/recycle/12.html",
+    "https://finemag.jp/product_02/case2",
+    "https://www.databridgemarketresearch.com/jp/reports/global-steel-metal-powder-market",
+    "https://newscast.jp/news/6101282",
+    "https://www.jpma.gr.jp/technology/powder/feature/",
+    "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "https://www.theinsightpartners.com/ja/reports/atomizing-metal-powder-market",
+    "https://volkmann.co.jp/powtrex/",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1080_04.pdf"
+   ]
+  },
+  {
+   "query": "金属粉末の再生・リサイクル（使用済み粉） 国内 導入台数 OR 輸入量",
+   "results": [
+    "https://www.env.go.jp/council/former2013/03haiki/y0324-04/mat04-2.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "https://www.cjc.or.jp/data/pdf/book2025.pdf",
+    "https://www.jx-nmm.com/sustainability/2026/environment/resource-recycling/",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1080_04.pdf",
+    "https://journal.jogmec.go.jp/content/300599026.pdf",
+    "https://www.jwnet.or.jp/info/assets/files/R06_chousa_metal.pdf",
+    "https://unit.aist.go.jp/env-mri/sure/resycle.html"
+   ]
+  },
+  {
+   "query": "金属粉末の再生・リサイクル（使用済み粉） 日本企業 採用 調達 事例",
+   "results": [
+    "https://pr.mono.ipros.com/hoganas/product/detail/2000070650/",
+    "https://finemag.jp/product_02/case2",
+    "http://www.jnm.co.jp/ja/sustainability/recycle.html",
+    "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "https://j4ce.env.go.jp/casestudy/group/1/recycle",
+    "https://www.dowa-eco.co.jp/service/recycle",
+    "https://www.dowa.co.jp/saiyou/work/project03/",
+    "https://sustech-inc.co.jp/carbonix/media/material-recycling/",
+    "https://partners.solize.com/column/3dprinter/002"
+   ]
+  },
+  {
+   "query": "metal AM powder recycling reuse market Japan customers demand imports",
+   "results": [
+    "https://www.voxelmatters.com/mtc-to-develop-guidance-on-metal-powder-recycling-and-re-use-in-am/",
+    "https://www.factmr.com/report/3202/metal-powder-market",
+    "https://www.grandviewresearch.com/industry-analysis/3d-printing-powder-market-report",
+    "https://research.chalmers.se/publication/545830/file/545830_Fulltext.pdf",
+    "https://www.canadianmetalworking.com/canadianmetalworking/article/metalworking/reuse-strategies-for-metal-additive-manufacturing-powder",
+    "https://www.amazemet.com/metal-powder-recycling-for-sustainable-am/",
+    "https://www.mdpi.com/2075-4701/16/8/871",
+    "https://www.linkedin.com/pulse/japan-precious-metal-scrap-recycling-market-growth-w2w0c/",
+    "https://www.renishaw.com/en/how-much-can-you-recycle-metal-additive-manufacturing-powder--38882?srsltid=AYCX9vLHg5ZWnrT1s1B0HdkThUk8oWkQYV7P7QyYPapDPIzbNUhPaEe8",
+    "https://www.datamarketanalysis.com/reports/metal-additive-manufacturing-powder-recycling-market-size-growth"
+   ]
+  },
+  {
+   "query": "金属粉末の再生・リサイクル（使用済み粉） 供給契約 長期",
+   "results": [
+    "https://am-printing.com/ja/lifecycle-of-metal-powder-202407241/",
+    "https://www.jx-nmm.com/company/industry/metal-recycling/",
+    "https://partners.solize.com/column/3dprinter/002",
+    "https://finemag.jp/product_02/case2",
+    "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "https://www.mordorintelligence.com/ja/industry-reports/metal-powder-market",
+    "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22K03872/",
+    "https://sanyuantangcn.com/ja/production-line-equipment/metal-powder-conveying-and-screening-system",
+    "https://www.dowa-eco.co.jp/service/recycle",
+    "https://met3dp.com/ja/3d-printed-metal-powder-202404036/"
+   ]
+  },
+  {
+   "query": "metal AM powder recycling reuse market market size CAGR 2030",
+   "results": [
+    "https://www.zionmarketresearch.com/report/metal-powders-for-additive-manufacturing-market",
+    "https://www.factmr.com/report/3202/metal-powder-market",
+    "https://ampower.eu/studies/addressable-market-for-additive-manufacturing/",
+    "https://www.mordorintelligence.com/industry-reports/global-additive-manufacturing-and-material-market-industry",
+    "https://www.marketresearchfuture.com/reports/metal-recycling-market-2201",
+    "https://www.grandviewresearch.com/industry-analysis/3d-printing-powder-market-report",
+    "https://straitsresearch.com/report/metal-additive-manufacturing-market",
+    "https://www.renishaw.com/en/how-much-can-you-recycle-metal-additive-manufacturing-powder--38882?srsltid=AYCX9vIvb5zdRMVTXLAmJs1aUXhQwOTvabRpmUojFHUYBMY7-GemTsiN",
+    "https://www.mdpi.com/2075-4701/16/8/871",
+    "https://growthmarketreports.com/report/metal-additive-manufacturing-powder-recycling-market"
+   ]
+  },
+  {
+   "query": "metal AM powder recycling reuse market price per kg",
+   "results": [
+    "https://www.voxelmatters.com/mtc-to-develop-guidance-on-metal-powder-recycling-and-re-use-in-am/",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0032591024004583",
+    "https://www.amazemet.com/metal-powder-recycling-for-sustainable-am/",
+    "https://www.canadianmetalworking.com/canadianmetalworking/article/metalworking/reuse-strategies-for-metal-additive-manufacturing-powder",
+    "https://www.renishaw.com/en/how-much-can-you-recycle-metal-additive-manufacturing-powder--38882?srsltid=AYCX9vK7dfNxS9K0flzvSlKQZUvO4dPtRUFC4xAriBx662NPcOf6nqOs",
+    "https://www.mdpi.com/2075-4701/16/8/871",
+    "https://www.factmr.com/report/3202/metal-powder-market",
+    "https://insidemetaladditivemanufacturing.com/wp-content/uploads/2024/02/PowderReuse_Ti_v1.pdf",
+    "https://globemetal.com/am-3d-printing-recycle/",
+    "https://www.priceofscrapmetals.com/iowa/des-moines/"
+   ]
+  },
+  {
+   "query": "metal AM powder recycling reuse market key players market share percent",
+   "results": [
+    "https://growthmarketreports.com/report/metal-additive-manufacturing-powder-recycling-market",
+    "https://www.datamarketanalysis.com/reports/metal-additive-manufacturing-powder-recycling-market-size-growth",
+    "https://growthmarketreports.com/report/metal-am-powder-market",
+    "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://www.strategymrc.com/report/recycled-metal-powder-additive-feedstock-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/metal-powder-market-101458"
+   ]
+  },
+  {
+   "query": "metal AM powder recycling reuse market number of suppliers concentrated OR fragmented",
+   "results": [
+    "https://en.wikipedia.org/wiki/Fragmentation_(economics)",
+    "https://www.scribd.com/document/835345066/Fragmented-vs-Concentrated-Markets",
+    "https://slm.mba/mmpc-012/competitive-strategy-in-fragmented-industries/",
+    "https://laszeray.com/the-hidden-costs-of-fragmented-supply-chains/",
+    "https://www.sciencedirect.com/science/article/pii/S305129482600157X",
+    "https://evsmetal.com/2026/01/manufacturing-risk-multi-vendor-vs-integrated-supply-chains/",
+    "https://3scsupplychain.com/global-scm/supply-chain-fragmentation/"
+   ]
+  },
+  {
+   "query": "metal AM powder recycling reuse market consumption per machine per year",
+   "results": [
+    "https://www.datamarketanalysis.com/reports/metal-additive-manufacturing-powder-recycling-market-size-growth",
+    "https://growthmarketreports.com/report/metal-additive-manufacturing-powder-recycling-market",
+    "https://www.metal-am.com/articles/metal-powders-in-additive-manufacturing-an-exploration-of-sustainable-production-usage-and-recycling/",
+    "https://www.jstage.jst.go.jp/article/jjspm/72/Supplement/72_14B-T6-03/_article/-char/en",
+    "https://www.researchgate.net/publication/389876973_Powder_for_Metal_Additive_Manufacturing_Production_Reuse_and_Recycling",
+    "https://www.renishaw.com/en/how-much-can-you-recycle-metal-additive-manufacturing-powder--38882",
+    "https://www.amazemet.com/metal-powder-recycling-for-sustainable-am/"
+   ]
+  },
+  {
+   "query": "metal AM powder recycling reuse market qualification long-term supply agreement",
+   "results": [
+    "https://www.indexbox.io/blog/6k-additive-and-siemens-energy-sign-long-term-recycling-agreement-for-am-powders/",
+    "https://6kadditive.com/news/siemens-energy_long-term-supply-agreement/",
+    "https://www.prnewswire.com/news-releases/6k-additive-signs-long-term-supply-agreement-with-siemens-energy-supporting-circularity-in-nickel-based-alloys-302695791.html",
+    "https://www.tctmagazine.com/siemens-energy-to-supply-used-nickel-alloy-powder-to-6k-additive-as-long-term-agreement-reached/",
+    "https://ssw-americas.com/6k-additive-and-siemens-energy-sign-long-term-nickel-alloy-powder-supply-agreement/",
+    "https://www.manufacturingtomorrow.com/news/2026/02/24/6k-additive-signs-long-term-supply-agreement-with-siemens-energy-supporting-circularity-in-nickel-based-alloys/27075/",
+    "https://szcomo.com/insights/qualified-am-powder-second-source/"
+   ]
+  },
+  {
+   "query": "metal AM powder recycling reuse market distributor direct sales OEM approved materials",
+   "results": [
+    "https://www.globusmetalpowders.com/powder-recycling/",
+    "https://www.continuumpowders.com/",
+    "https://www.amazemet.com/metal-powder-recycling-for-sustainable-am/",
+    "https://blog.met3dp.com/blog/metal-powder-used-in-am-complete-buyers-guide-for-2025/",
+    "https://www.carpenteradditive.com/",
+    "https://blog.met3dp.com/blog/recycled-metal-3d-printing-powder-in-2026-sustainable-sourcing-for-b2b/",
+    "https://met3dp.com/metal-am/"
+   ]
+  },
+  {
+   "query": "site:note.com 金属粉末の再生・リサイクル（使用済み粉）",
+   "results": [
+    "https://note.com/ging_2026/n/n9dc3de4fdfe4",
+    "https://note.com/qy_research/n/nd94c1ee683a5",
+    "https://note.com/yokohamashoji05/n/n6862186d98db",
+    "https://note.com/happo_happo/n/na82f288052b1",
+    "https://note.com/pe_metals_o/n/ncf90006b0bd8",
+    "https://note.com/3n7no_tech_pr/n/nbe80f4d53408",
+    "https://note.com/globalbrain/n/n935800b48075"
+   ]
+  },
+  {
+   "query": "site:x.com 金属粉末の再生・リサイクル（使用済み粉）",
+   "results": [
+    "https://x.com/nao_nass/status/2085542420469674222",
+    "https://jf.x.com/images/media-preview/2106341975620489542",
+    "https://jf.x.com/images/media-preview/2104517210945589709",
+    "https://x.com/sangyo_web/status/2071774128697466912",
+    "https://x.com/TungaloyJapan/status/2026156608066388299",
+    "https://x.com/nikkeikansai/status/2108472516654112982",
+    "https://x.com/KYOCERA_JP/status/2108377331123511789"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金属粉末の再生・リサイクル（使用済み粉）",
+   "results": [
+    "https://jp.linkedin.com/pulse/future-metal-recycling-innovations-shape-industry-metalbook-app-ta0ec?tl=ja",
+    "https://de.linkedin.com/in/ratan-k-mishra-015b846",
+    "https://jp.linkedin.com/jobs/view/新金属・アルミ部-電池材料・リサイクル室-at-mitsui-co-ltd-4110176313",
+    "https://jp.linkedin.com/posts/mmccarbide_使用済の超硬工具を次の価値へ-回収から再資源化まで使用済み超硬工具をタングステン-activity-7432605401855991809-R387",
+    "https://www.linkedin.com/pulse/youtube-seo-2025-ultimate-guide-ranking-your-videos-mohammad-eid-iaefe",
+    "https://ir.linkedin.com/in/ava-hanji-91b6912a2",
+    "https://www.linkedin.com/posts/ryota-shimizu-561793165_特許取得済み液体金属を使用した超柔軟高耐久サステナブルな回路基板-activity-7232301271519481856-iDoP"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金属粉末の再生・リサイクル（使用済み粉）",
+   "results": [
+    "https://www.facebook.com/TokyoFireDepartment/videos/実験後の金属粉の廃棄方法は大丈夫/786634823349633/",
+    "https://www.facebook.com/kansai.hitetsu/",
+    "https://www.facebook.com/matsumoto.metalrecycler/videos/いつもご覧いただきありがとうございます尼崎枚方の金属リサイクル企業松本産業です️今日の動画はダライ粉の荷下ろし️ダライ粉とは旋盤などで金属加工される際に発生する/798304479454114/",
+    "https://www.facebook.com/yukogroup/videos/先日ユーコーリプロ-へ撮影に行ってきましたこちらでは使用済みの遊技機の回収リサイクルを行っています️遊技機の搬入から木屑やプラスチック片になるところまで工場内を/1592228828061347/",
+    "https://www.facebook.com/moldino.pr.jp/videos/超硬リサイクル当社は使用済み工具のリサイクル活動を推進していますお客様から使用済みインサートやソリッド工具超硬シャンクなどを回収させていただき再資源化し製品原料/1488516575672299/",
+    "https://www.facebook.com/TokyoFireDepartment/posts/実験後の金属粉の廃棄方法は大丈夫理科の実験で使った金属粉を捨てたゴミ箱から出火した事案が発生実験後の金属粉は発熱の危険性あり可燃物との接触を避けて不燃の容器に分/730872849222500/",
+    "https://www.facebook.com/kakogawaRD/posts/金属を切削した後の切り粉を回収しています金属製品などをつくる鉄工所でお仕事をしていると日々出てくるダライ粉切粉かこ川商店ではダライ粉を立派なリサイクル金属として/3334742506601631/"
+   ]
+  },
+  {
+   "query": "金属粉末の再生・リサイクル（使用済み粉） note 社長",
+   "results": [
+    "https://www.metalandcatalyst.com/ja/",
+    "https://www.material-expo.jp/hub/ja-jp/column/recycle/12.html",
+    "https://www.isz.co.jp/circular/column/165/",
+    "https://ace-corporation.net/special-metal/",
+    "https://www.material-expo.jp/hub/ja-jp/column/recycle/11.html",
+    "https://www.yomiuri.co.jp/local/kyushu/news/20260820-GYS1T00022/",
+    "https://seisan-navi.com/20260406-am6k/"
+   ]
+  },
+  {
+   "query": "金属粉末の再生・リサイクル（使用済み粉） X 投稿",
+   "results": [
+    "https://met3dp.com/ja/3d-printed-metal-powder-202404036/",
+    "https://j4ce.env.go.jp/casestudy/016/",
+    "https://blog.met3dp.com/ja/blog/recycled-metal-3d-printing-powder-in-2026-sustainable-sourcing-for-b2b/",
+    "https://am-printing.com/ja/lifecycle-of-metal-powder-202407241/",
+    "https://www.material-expo.jp/hub/ja-jp/column/recycle/11.html",
+    "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22K03872/",
+    "https://seisan-navi.com/20260406-am6k/"
+   ]
+  },
+  {
+   "query": "metal AM powder recycling reuse market site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/f3nice_reuse-vs-recycling-in-metal-am-activity-7496150586732630017-HJNr",
+    "https://www.linkedin.com/pulse/how-much-can-you-recycle-metal-am-powder-marc-saunders",
+    "https://uk.linkedin.com/in/samuel-french-1a96951b0",
+    "https://kr.linkedin.com/in/波-波-b1a40511a",
+    "https://www.linkedin.com/posts/michael-isakhani-zakaria_metal-powder-recycling-in-additive-manufacturing-activity-7491400627995197440-SPLc",
+    "https://ps.linkedin.com/in/tabarak-zitawi",
+    "https://fi.linkedin.com/in/rikuforsell"
+   ]
+  }
+ ],
+ "missing": {
+  "価格": "記載なし（読んだ45頁・検索24回）"
+ }
+}
