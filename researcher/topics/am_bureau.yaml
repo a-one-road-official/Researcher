@@ -1,0 +1,41 @@
+# 本人の指示（2026-11-04）：金属AM受託の頭打ち金額を、受託会社1社ごとの売上・受託売上・設備台数・最大案件・料金から見る。事実だけ引用、解釈しない。創業年度と株主構成は必ず取る。
+title: 金属AM受託会社 — 売上・受託売上・設備台数・最大案件・料金・創業年度・株主構成
+input: researcher/inputs/am_bureau.csv
+columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
+
+profile_keys:
+  創業年度: [設立, 創業, 創立, 設立年, 創業年, Founded, Established, founded in, year founded]
+  株主: [株主, 主要株主, 大株主, 株主構成, 出資者, 親会社, Shareholders, Ownership, Owner, Parent company, Investors]
+  資本金: [資本金]
+  従業員数: [従業員, 社員数, 従業者, Employees]
+  売上高: [売上高, 売上, 年商, Revenue, Sales, Turnover]
+  事業内容: [事業内容, 事業概要, 営業品目, 業務内容]
+  保有設備: [設備, 保有設備, 設備一覧, 装置, Equipment, Machines]
+  認証: [ISO, JIS Q, AS9100, JISQ9100, ISO 13485, Nadcap, 認証]
+
+evidence:
+  株主構成: [株主, 大株主, 主要株主, 株主構成, 出資比率, 持株比率, 親会社, 資本提携, 出資, 筆頭株主, shareholder, ownership, owned by, stake in, parent company, subsidiary of, investors, backed by]
+  創業年度: [設立, 創業, 創立, 年に設立, 年創業, founded in, established in, was founded, since 19, since 20]
+  売上・受託売上: [売上高, 売上, 年商, 受託売上, AM事業, 積層造形事業, 億円, 百万円, revenue, sales, turnover, million]
+  設備台数: [台, 台数, 保有, 導入, 稼働, machines, printers, systems installed]
+  料金・単価: [料金, 価格, 単価, 見積, 費用, 万円, 円, 時間単価, price, quote, per part]
+  最大案件・量産: [最大, 大型, 量産, 受注, 契約, 年間, ロット, 月産, 個/月, serial production, contract, order, award]
+  顧客・用途: [航空, 宇宙, 防衛, 医療, 半導体, 金型, 自動車, 取引先, 顧客, 導入事例, aerospace, defense, medical, customers]
+  採用・人数: [採用, 名, 人員, エンジニア, 技術者, 募集]
+  発言: [社長, 代表取締役, インタビュー, 語る, CEO]
+
+subpage_keywords: [会社概要, 会社案内, 企業情報, 沿革, 設備, 設備一覧, 料金, 価格, 見積, 事例, 実績, 採用, IR, 決算, ニュース, news, about, company, equipment, pricing, case, ir, pdf]
+image_keywords: [設備, 料金, 価格, 概要, 実績, equipment, price]
+
+external_queries:
+  - "{name} 株主 OR 大株主 OR 出資比率 OR 親会社"
+  - "{name} 設立 OR 創業 OR founded"
+  - "{name} 売上高 OR 年商"
+  - "{name} 金属3Dプリンター 受託 売上"
+  - "{name} 金属積層造形 台数 導入"
+  - "{name} 受注 量産 大型"
+  - "{name} 料金 OR 見積 OR 単価"
+  - "{name} 社長 インタビュー 日刊工業新聞"
+  - "{name} revenue employees"
+
+limits: {pages: 30, subpages: 25, pdfs: 8, images: 8, external_per_query: 3}

@@ -1,0 +1,29 @@
+# 本人の指示（2026-11-04）：金属AM受託の「頭打ち金額」を知る。1件（1個・1ロット・1案件）の上限、1社が年に払う受託額の上限、量産・航空宇宙・医療・金型など用途ごとの上限を、引用のまま取る。要約・解釈しない。
+# 最低受注額1,000万〜2,500万円を置けるかの材料。日本と海外の両方。規模・用途で分かれた数字を優先する。
+kind: market
+title: 金属AM受託の頭打ち金額 — 1件・1社年間・用途ごとの上限
+input: researcher/inputs/am_ceiling.csv
+columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
+
+evidence:
+  1件の単価: [1個, 1件, 1点, 1ロット, 単価, 造形費, 造形料金, 見積, 費用, 料金, 相場, 万円, 円, per part, cost per part, price per part, quote, USD, EUR]
+  最大案件・上限: [最大, 最高, 上限, 過去最大, 大型案件, 大型受注, 受注額, 受注総額, 契約額, 億円, largest order, largest contract, contract worth, multi-year contract, million contract, award, order worth]
+  顧客1社の年間: [年間, 年額, 継続, リピート, 長期契約, 量産, 月産, 年産, ロット, annual, per year, recurring, serial production, series production, long-term agreement, LTA]
+  受託会社の売上: [売上高, 売上, 年商, 受託売上, 事業規模, revenue, sales, turnover]
+  用途別: [航空, 宇宙, 防衛, 医療, インプラント, 歯科, 金型, 半導体, 自動車, エネルギー, ロケット, aerospace, defense, medical, implant, tooling, semiconductor, rocket]
+  価格を決める要因: [造形時間, 材料費, 後処理, HIP, 検査, 認証, 時間単価, チャージ, machine hour, build time, post-processing, certification, AS9100, ISO 13485]
+
+numeric: [1件の単価, 最大案件・上限, 顧客1社の年間, 受託会社の売上]
+
+external_queries:
+  - "{name} 単価 万円"
+  - "{name} 費用 相場"
+  - "{name} 最大 受注 億円"
+  - "{name} 量産 受注 年間"
+  - "{name} 売上高 受託"
+  - "{en} price per part"
+  - "{en} largest contract million"
+  - "{en} serial production long-term agreement value"
+  - "{en} revenue"
+
+limits: {pages: 45, external_per_query: 6, per_cat: 15}
