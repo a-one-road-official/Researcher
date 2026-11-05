@@ -17,9 +17,16 @@ NEWSHOST = re.compile(r"^(news\.|.*(note\.com|sharelab|nikkei|itmedia|monoist|pr
 # 2026-11-05 4-24：登記・開示・判決の「写し」を載せたまとめサイトは一次にしない（Altss OSINT 検証基準：
 # 登記の写しは、役所・登記所の仕組みから取り直すまで報道と同じ扱い）。EDINET・法人番号の写しのサイトが URL に edinet・houjin を含んでも一次にしない
 COPYHOST = re.compile(r"(irbank|buffett-code|kabutan|minkabu|ullet|houjin\.info|houjin-info|corporate-number|alarmbox|catr\.jp|b2bportal|houjinbangou\.|stockclip|kabuyoho|yahoo)", re.I)
+# 2026-11-05 走査の失敗から：神奈川県・京都府の統計（www.pref.kanagawa.jp・www.pref.kyoto.jp）が「.lg.jp」でないため一次0件と出た（mfg_capacity の工業統計表の品目）。
+# 都道府県・市の公式ドメイン（pref.<名>.jp・city.<名>.<…>.jp・metro.tokyo）は自治体自身の統計なので一次にする
+LOCALGOV = re.compile(r"(^|\.)(pref\.[a-z]+\.jp|city\.[a-z-]+(\.[a-z]+)?\.jp|metro\.tokyo(\.lg)?\.jp)$", re.I)
 def is_primary(url):
     host = urlparse(url).netloc
-    return bool(PRIMARY.search(url)) and not NEWSHOST.search(host) and not COPYHOST.search(host)
+    return (bool(PRIMARY.search(url)) or bool(LOCALGOV.search(host))) and not NEWSHOST.search(host) and not COPYHOST.search(host)
+# 2026-11-05 走査の失敗から：奈良県と京都府の別々の県の統計が同じ欄で【裏付けあり】になった（mfg_capacity の規模別の品目）。地域が違えば同じ対象の裏付けではない（4-20 の条件違い）
+def region_of(url):
+    m = re.search(r"(?:^|\.)(pref|city)\.([a-z-]+)", urlparse(url).netloc, re.I)
+    return f"{m.group(1)}.{m.group(2)}" if m else ""
 
 # 2026-11-05 4-24：出どころの立場（Altss の source standing を日本向けに簡略化）。
 # 記録者＝官公庁・登記・開示・統計の役所自身／写し＝報道・まとめ・調査会社・信用調査／本人以外の区別は付かないので残りは「その他」
@@ -36,7 +43,9 @@ CREDIT = re.compile(r"(tdb\.co\.jp|tsr-net|tokyo-keizai|cosmonet|baseconnect|mus
 # 2026-11-05 4-13／4-15：同じ欄でも定義が違う数字（単体と連結、売上高と取扱高、出荷と販売、会員企業だけの集計、規模の裾切り）
 DEFN = [("連結", re.compile(r"連結")), ("単体", re.compile(r"単体|個別")), ("取扱高", re.compile(r"取扱高|流通総額|GMV", re.I)),
         ("出荷ベース", re.compile(r"出荷")), ("販売・小売ベース", re.compile(r"小売|販売額|販売ベース")),
-        ("会員企業のみ", re.compile(r"会員企業|会員各社|加盟")), ("規模の裾切り", re.compile(r"(従業者|従業員)\s*\d+\s*人以上|\d+人以上の事業所"))]
+        ("会員企業のみ", re.compile(r"会員企業|会員各社|加盟")),
+        # 2026-11-05 4-26：付加価値額は従業者規模で式が違う（30人以上は生産額から・減価償却を引く、9人以下は引かない。RIETI 05-P-001）。出荷額・加工賃と同じ欄で比べない
+        ("付加価値", re.compile(r"付加価値")), ("加工賃", re.compile(r"加工賃")), ("規模の裾切り", re.compile(r"(従業者|従業員)\s*\d+\s*人以上|\d+人以上の事業所"))]
 NUM = re.compile(r"(\d{1,3}(?:,\d{3})+|\d+(?:\.\d+)?)\s*(兆円|億円|百万円|千万円|万円|千円|円|万人|千人|人|名|社|事業所|件|倍|％|%|台)")
 YEAR = re.compile(r"(20[0-3]\d|19[89]\d)\s*年")
 TO_MAN = {"兆円": 1e8, "億円": 1e4, "千万円": 1e3, "百万円": 100, "万円": 1, "千円": 0.1, "円": 1e-4}
@@ -134,6 +143,20 @@ def rows_for(topic):
                            "取得日": it.get("first_seen", "") or (d.get("researched_at", "") or "")[:10],
                            "予測": "予測" if y and int(y) > NOW_YEAR else "見通し" if OUTLOOK.search(q) else "",
                            "出典": urlparse(url).netloc, "URL": url, "引用": q[:160]}
+
+# 2026-11-05 4-26：工業統計は2022年から経済構造実態調査（製造業事業所調査）に包まれ、対象が「従業者4人以上の全数」から
+# 「出荷額上位9割の実測＋残りは伸び率で推計、1人以上全数を集計」に変わった（総務省・経産省 2021-03-24 資料）。2021年以前と2022年以降は同じ系列でつながない
+STATSRC = re.compile(r"(工業統計|経済構造実態調査|経済センサス|製造業事業所調査|e-stat|meti\.go\.jp/statistics)", re.I)
+BREAK_YEAR = 2022
+def split_trend(series):
+    a = {y: v for y, v in series.items() if y < BREAK_YEAR}; b = {y: v for y, v in series.items() if y >= BREAK_YEAR}
+    if not a or not b: return ""
+    return f"⚠ 系列の切れ目（{BREAK_YEAR}年に工業統計→経済構造実態調査、対象範囲が変わった）：切れ目の前 {trend(a)}／後 {trend(b)}。前後をまたぐ向きは使わない"
+# 2026-11-05 4-26：1981〜2019年の工業統計は西暦末尾0・3・5・8年が全数、他の年は小さい事業所の一部を調べない（RIETI 05-P-001）。事業所数が年ごとにノコギリ型に動く
+def census_mix(years):
+    old = [y for y in years if 1981 <= y <= 2019]
+    full = {y for y in old if y % 10 in (0, 3, 5, 8)}
+    return bool(full) and bool(set(old) - full)
 
 def trend(series):
     ys = sorted(series)
@@ -265,6 +288,8 @@ def scan(topic):
             for r in g: hc[src_key(r)] = hc.get(src_key(r), 0) + 1
             top_h, top_n = max(hc.items(), key=lambda kv: kv[1])
             if len(g) >= 4 and top_n * 2 > len(g): md.append(f"  - ⚠ 1か所に偏り：{len(g)}件のうち{top_n}件が {top_h}。件数ではなく出どころの数（{len(hc)}か所）で確度を読む")
+            regs = sorted({region_of(r["URL"]) for r in g} - {""})
+            if len(regs) >= 2: md.append(f"  - ⚠ 地域が違う出どころ（{'・'.join(regs[:5])}）：別々の自治体の統計は同じ対象の裏付けではない。地域ごとに別の品目として読む（4-20）")
             ec = echoes(g)
             if ec: md.append("  - ⚠ 写しの疑い（一次でない別々の出どころが同じ値をぴったり持つ。1件に束ねて数えた）：" + "、".join(f"{v:g}{u}が{n}か所" for v, n in sorted(ec.items())[:5]) + "。元（統計・開示・調査）までたどる")
             if len({src_key(r) for r in g}) == 1: thin.append(f"{item}｜{cat}［{ctx}］")
@@ -298,6 +323,10 @@ def scan(topic):
             cr = sum(1 for r in g if r["一次"] == "信用調査")
             if cr: md.append(f"  - 信用調査会社の数字{cr}件（推定値を含むので【推定】扱い・一次に数えない）")
             if med: md.append(f"  - 【推定】年ごとの中央値（{'一次のみ' if prim else '記事含む'}）：" + "、".join(f"{y}年 {v:g}" for y, v in sorted(med.items())) + f" → 向き：{trend(med)}")
+            if med and any(STATSRC.search(r["引用"] + r["URL"]) for r in g):
+                st = split_trend(med)
+                if st: md.append(f"  - {st}")
+                if u in ("事業所", "社") and census_mix(med): md.append("  - ⚠ 全数年と裾切り年が混在（1981〜2019年は末尾0・3・5・8年だけ全数）：事業所数の増減は全数年どうしで比べる")
         # 1人あたり：同じ年に万円と人がある場合
         money = {}; people = {}
         for r in rs:
@@ -327,8 +356,11 @@ def scan(topic):
             if r["単位"] == "万円" and ("あたり" in r["区分"] or re.search(r"(あたり|当たり|平均)", r["引用"])): unit.setdefault(int(r["年"]), []).append(r["値"])
         cm = {y: statistics.median(v) for y, v in cnt.items()}; um = {y: statistics.median(v) for y, v in unit.items()}
         tc, tu = trend(cm), trend(um)
+        # 2026-11-05 4-26：事業所数の「減少」は廃業だけではない（転業・他市区町村への転出・3人以下への規模下がりも含む。RIETI 05-P-001）。
+        # 2022年の対象の変更をまたぐ事業所数は比べない
+        if split_trend(cm): md.append(f"  - 事業所・社の数：{split_trend(cm)}")
         if tc.startswith("下降") and tu.startswith("上昇"):
-            md.append(f"  - ⚠ 生き残り・構成変化の疑い：1あたり金額は{tu}、同じ品目の事業所・社の数は{tc}。規模別に分けた同じ表で、規模の内側でも上がっているかを確かめるまで「能力が上がった」と書かない")
+            md.append(f"  - ⚠ 生き残り・構成変化の疑い：1あたり金額は{tu}、同じ品目の事業所・社の数は{tc}。規模別に分けた同じ表で、規模の内側でも上がっているかを確かめるまで「能力が上がった」と書かない（数の減少には転業・転出・規模下がりも含む。4-26）")
         md.append("")
     # 2026-11-05 4-19：何が見つからなかったかを書く（範囲の明示）。数字が1つも取れなかった品目を並べる
     names = set()
