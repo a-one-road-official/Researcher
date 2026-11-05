@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・44品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・46品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -127,16 +127,16 @@
   - 「三角測量を採用するかどうかを選択する際、研究者は研究の背景、目的、利用可能な資源、研究テーマの性質を慎重に評価すべきである」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
   - 「調査は、統計的に評価できる量的情報を提供し、さまざまな質的情報源と組み合わせることができる」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
   - 「結果を包括的かつ透明性をもって提示し、データ源と採用した分析プロセスを明らかにする」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「実験研究や統計学的処理をしたアンケート調査と比較し、質的研究は主として対象者の語りを分析しますので、結果に数値が使われません」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「エビデンスとしてはやはり統計的に処理をした数値で表す方がどうしても客観性が高くみられるので、質的研究の結果は、量的研究を主とする研究者から、「エビデンスとして価値があるのか？」と懐疑的にみられやすいです」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「しかし、量的な研究にも限界があり、統計学的処理の結果だけをエビデンスとしても患者や住民の困っていることを解決する際には、偏りが出てきます」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「例えば、インタビューの文字おこしをテキストマイニングのような統計的手法をもちいて頻出語句を調べたり、GTAやSCATのようなテクスト分析から文脈を抽出することも」（https://note.com/kasano/n/n5300393c2f30）
-  - 「同様に同じデータを解析するにしても、古典的な統計手法や」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
-  - 「バラツキのロバスト統計量（７）- 指数分布で比較」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
-  - 「バラツキのロバスト統計量（６）- 一様分布で比較」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
-  - 「バラツキのロバスト統計量（５）- 正規分布で比較」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
-  - 「バラツキのロバスト統計量（４）- [math] \displaystyle Q_n [/math]」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
-  - 「統計要約量 (23)」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
+  - 「この科目を担当していたのは、このプログラムの生徒の授業時間の大部分を、進路指導部の教員がカバーする必要があったため、学校側が採用した措置でした」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
+  - 「http://www. psicothema.com/pdf/3429.pdf」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
+  - 「http://www.revistaeducacion.educacion.es/re356/re356_08.pdf」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
+  - 「http://journals.sagepub.com/doi/pdf/10.2304/eerj.2005.4.3.10.」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
+  - 「http://www.rinace.net/rlei/numeros/vol5-num2/art8.pdf」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
+  - 「http://www.rinace.net/rlei/numeros/vol8-num2/art1.pdf」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
+  - 「http://www.ugr.es/~recfpro/rev91ART4res.pdf」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
+  - 「http://www.revistaeducacion.mec.es/re2010/re2010_05.pdf」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
+  - 「http://www.fapac.cat/sites/all/files/aula_1.pdf」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
+  - 「http://www.revistaeducacion.mec.es/re2010/re2010_02.pdf」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
 - 失敗・落とし穴：
   - 「多くの学生は、意見の不一致（対立）を「失敗」と捉えがちです」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「しかしそれは失敗ではなく、適切に対処するための認められた語彙が存在します」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
@@ -306,11 +306,11 @@
   - 「子ども数・総数に対する割合，性、子どもの体型、１年間に医療機関などで診察を受けた（受けている）病気やけが（複数回答）別」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
   - 「講義では、e-Statのさまざまな機能の使い方についての説明がありました」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
   - 「なお、関連として、新型コロナの影響を探るための「VーRESAS」という機能もあります」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
+  - 「e-Statの使い方｜初めて統計表を探す5つの確認 – くらし制度ナビ」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「e-Statの使い方｜初めて統計表を探す5つの確認」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「この五つは統計値の意味を自動的に決める手順ではありません」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「数値の定義や調査方法が分からない場合は、e-Statの調査概要だけで判断せず、所管府省の用語解説や調査方法の説明、最新の公表資料も確認してください」（https://blog.kurashiq.com/estat-first-search-guide/）
   - 「ローカルカタログを併用して 2 回目以降の検索を API なしで即答させる方法」（https://note.com/stats47/n/n7e4572d23a1b）
-  - 「(約 2,000 のランキングを毎日自動更新) を個人で開発・運用しており、本記事の検索手順はその実運用で日々動いているものです」（https://note.com/stats47/n/n7e4572d23a1b）
-  - 「同じテーマでも調査が複数あり、調査ごとに調査年・対象範囲・集計方法が違います」（https://note.com/stats47/n/n7e4572d23a1b）
-  - 「企業型年金の運用実態について」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「環境保全型農業推進農家の経営分析調査」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
 - 突き合わせ・推定：
   - 「e-Stat には膨大な統計表が登録されており、同じ「人口」でも「国勢調査」「人口推計」「住民基本台帳人口移動報告」など複数の調査に分かれています」（https://note.com/stats47/n/n7e4572d23a1b）
   - 「: 国勢調査 / 人口推計 / 経済センサス / 学校基本調査 / 賃金構造基本統計調査 など」（https://note.com/stats47/n/n7e4572d23a1b）
@@ -344,6 +344,7 @@
   - 「https://www.stat.go.jp/data/k-sugata/pdf/setumei.pdf」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
   - 「で、この中から必要な統計を選択し」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
 - 失敗・落とし穴：
+  - 「：検索入口、表示単位、ファイルとデータベース、公開更新日の注意」（https://blog.kurashiq.com/estat-first-search-guide/）
   - 「各機関のホームページには該当する政府統計の「調査概要」「調査結果」「利用上の注意」「公表予定」「お問い合わせ先」等の情報が掲載されております」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
   - 「キーワード検索を使う場合の注意（単語の間のスペース）」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
   - 「相関と因果の区別・母集団と標本・バイアスの把握が統計リテラシーの三本柱」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
@@ -358,8 +359,12 @@
   - 「◎確証バイアス」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
   - 「◎生存バイアス」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
   - 「◎測定バイアス」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
-  - 「「相関と因果を区別する」「誰に聞いた数字かを問う」「バイアスの構造を認識する」、この3つの習慣を持つだけで、データを読む力は大きく変わる」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
 - 実例：
+  - 「初めて使うときは、検索結果の名前だけで決めず、統計名、対象期間、単位、注記まで順に確認すると、目的の表を見つけやすくなります」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「最初は日常語で検索し、結果に表示される統計名と所管府省を確認してから絞り込みます」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「e-Statの検索結果は、同じキーワードでも表示する単位を切り替えられます」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「制度の対象や申請結果を判定するものではありません」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「2025年国勢調査の結果はいつ？人口等基本集計は9月29日公表」（https://blog.kurashiq.com/estat-first-search-guide/）
   - 「「待機児童」「人口移動」「県民所得」の 3 ケースで見る検索の絞り込み方」（https://note.com/stats47/n/n7e4572d23a1b）
   - 「人口 10-30 万人規模の自治体では、企画課・統計担当が月 5-10 件の「データ取得依頼」を受けますが、その半分以上の時間が「該当する統計表 ID を探す」段階に消えるケースが少なくありません」（https://note.com/stats47/n/n7e4572d23a1b）
   - 「結果一覧から各統計表のリンクをクリック (新タブで開く)」（https://note.com/stats47/n/n7e4572d23a1b）
@@ -370,11 +375,6 @@
   - 「地方選挙結果調」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
   - 「衆議院議員総選挙 最高裁判所裁判官国民審査結果調」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
   - 「参議院議員通常選挙結果調」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「地方公共団体における人事評価結果の活用状況等調査」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「関税及び内国消費税脱税事件に係る犯則調査結果」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「関税及び内国消費税の申告内容の輸入事後調査結果」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「定期健康診断結果報告」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「採石業者の業務の状況に関する報告書の集計結果」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
 
 ## 業界分析・業界構造の調べ方（一次情報から）（industry analysis primary sources method）
 - 文脈：業界
@@ -2006,6 +2006,9 @@
   - 「株式会社の決算公告を調べる際と対象を混同しないようご注意ください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
 - 実例：
   - 「P/L全体は見えなくても、最終的な収益性の結果は確認できる仕組みになっています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「特に中小企業同士のビジネスでは、取引先が決算書を開示しないケースが多く、官報公告が唯一の財務情報源になることもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -2079,6 +2082,9 @@
   - 「新規事業の失敗・撤退（4）」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「新規事業の失敗要因を6つの軸で診断」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「競合シェアの調べ方｜情報源・計算方法と比較の注意点」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「市場調査会社8社を比較｜新規事業で失敗しない選び方と依頼例」（https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/）
+  - 「新規事業の失敗・撤退（4）」（https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/）
+  - 「新規事業の失敗要因を6つの軸で診断」（https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/）
 - 実例：
   - 「新規事業の進め方や実践事例を、専門家・実務家から学ぶ」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「検索結果の短い説明文だけでは採用せず、元ページやPDFを開いて数字の前後を読みます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
@@ -2253,6 +2259,8 @@
   - 「Changes to the origin values, the validation statuses, the source-rights rule in 6.6 or the personal-data rules in 6.7 are major changes. New examples and clarifications are minor changes.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「For example, a rating of」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
   - 「IntelTechniques Workbook / Casefile」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
+- 検索結果の抜粋：
+  - 「Admiralty Code for OSINT: Grading Sources in Practice — Sep 30, 2026 · Grading OSINT Sources with the Admiralty Code: A Practical Guide How the Admiralty (NATO) system grades source reliability A to F and information credibility 1 to 6, why most open-source items start at F6, how corroboration moves grades, and how to grade results from aggregated data sources.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
 
 ## デスクリサーチの自動化と引用の検証（DeskrexAI・Grata）（desk research automation citation verification private company revenue estimation）
 - 文脈：探し先
@@ -2605,6 +2613,9 @@
   - 「Reliability and credibility grades are judgments. Irwin and Mandel (2019) argue that the Admiralty-style scales mask subjectivity and recommend numeric probability estimates and periodic re-evaluation. This standard keeps ordinal grades for sources and information, requires reasons for each, and uses numeric ranges for likelihood judgments.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「Triangulation (Source Triangulation)」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「Observed, Derived and Estimated Data」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「このような要因には、正確性および完全性、否定および欺瞞の可能性、情報の古さお よび継続的最新性、情報収集の技術的要素、ならびに情報源へのアクセス、検証、動機、 バイアスの可能性、または専門知識が含まれる」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
+  - 「案の分析とは、出来事や現象を説明し、近い将来の結果を探り、驚きやリスクを軽減するために起こりうる未来を想像するために、異なる仮説を体系的に評価することである」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
+  - 「分析成果物は、もっともらしい代替仮説を特定し、評価しなければならない」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
 - 一次情報の探し方：
   - 「checked against the cited primary sources on」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「In the Protocol's terms, gaining possession of online information through a screenshot, a conversion to PDF, a download or another form of capture.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
@@ -2629,6 +2640,14 @@
   - 「Unbiased, evidence-driven, and free of distortion by advocacy, preference, or pressure. Judgments are not shaded to please a customer or fit a policy.」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
   - 「— the U.S. Army’s comprehensive treatment of the intelligence analysis process, analytic standards, cognitive bias, and structured analytic techniques.」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
   - 「— the operational, anti-bias, and tradecraft rules that govern every Fortune Favors the Prepared analytical product.」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
+  - 「このことは、国防総省全体における分析成果物の客観性、バイアス、政治化、その他の課題に対するアプローチに一貫性がないリスクを増大させる」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
+  - 「分析者は、バイアスを明らかにし、軽減する推論技術や実践的なメカニズムを用いなければならない」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
+  - 「4. The Standards also promote a common ethic for achieving analytic rigor and excellence, and for personal integrity in analytic practice. Adherence to IC Analytic Standards is safeguarded by the ODNI Analytic Ombuds, who addresses concerns regarding lack of objectivity, bias, politicization, or other issues in Standards application in analytic products.」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
+  - 「IC 分析標準の遵守は、ODNI 分析オンブズによって保護されており、このオンブズは、客観性 の欠如、バイアス、政治化、または分析成果物における標準の適用におけるその他の問題に 関する懸念に対処する」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
+  - 「分析者は、特定の分析目的（例えば、対外情報または防諜情報を理解するため、あるいはその重要性を評価するために必要である）に関連する場合に限り、IC 要素の使命に合致し、Pll の誤りを防止し、識別し、修正するための手順を含む IC 要素の規則および方針に従って、PII を成果物に含めるべきである」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
+  - 「分析者は、バイアスを明らかにし、軽減する推論技法と実際的なメカニズムを用いなければならない」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
+  - 「分析者は、既存の分析的立場や判断による影響に注意深くなければならず、代替的な視点や反対情報を考慮しなければならない」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
+  - 「このような要因には、正確性および完全性、否定および欺瞞の可能性、情報の古さお よび継続的最新性、情報収集の技術的要素、ならびに情報源へのアクセス、検証、動機、 バイアスの可能性、または専門知識が含まれる」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
 - 実例：
   - 「Which companies, investors and people matter to your work? Check the scope, fields and depth for your use case.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「10. Edge cases」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
@@ -2644,6 +2663,7 @@
   - 「Example 6: one press release, two origins.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「Changes to the origin values, the validation statuses, the source-rights rule in 6.6 or the personal-data rules in 6.7 are major changes. New examples and clarifications are minor changes.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「— a sanitized, public worked example of a tiered open-source collection framework.」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
+  - 「米国連邦政府の場合、国防に関連する組織、インテリジェンス組織という国家安全保障に関連するために秘密が多いような部門であっても、国民のための政府であるから、当然に法律に基づき内部監査が実施され、その結果は秘密に該当しなければ公開されます」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
 
 ## 公的記録で会社を裏取りする（商業登記・判決・官報）（public records corporate verification Japan registry court kanpo）
 - 文脈：一次の探し方
@@ -2879,3 +2899,75 @@
   - 「Here are three strategies, supported by real-world examples:」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+
+## 統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり）（statistical time series break linking retropolation official statistics）
+- 文脈：突き合わせ・失敗
+- 手順・やり方：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
+
+## 現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手（channel checks methodology expert interviews structured questionnaire bias）
+- 文脈：探し先・書き手
+- 手順・やり方：
+  - 「“outside” experts, meaning those that make and those that analyze political decisions, into an integrated analytical framework. It」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「systematic capturing of evidence. Finally, the article suggests that the combination of expert interviews, experimental methods, and」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「2016) have dominated the methodological debate in the」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「(Pepinsky 2019). This application of rigorous methods of」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「methodological debate in comparative politics and interna-」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「methods, and African politics. He has published in leading」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「existence of classic works on the qualitative interview method」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「how to use the method most eﬀectively (Fujii2017; Lareau」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「as a key method to gather information about political」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「integrated framework. Second, I propose concrete measures」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「interviews with other methods such as list experiments and」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「mixed-method designs (for instance to situate ﬁndings」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「ical basis for the process tracing method (Beach and」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「prediction vis-à-vis other methods, in particular data-」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「Finally, expert interviews may serve as a method of」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+- 突き合わせ・推定：
+  - 「interview is close to zero; it needs to be cross-checked」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「with other interviews or data streams ( “triangulation,”」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「provides “an estimate of how many respondents believe」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「External and Internal Triangulation」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「2020). The precondition for this triangulation is that the」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「In addition to the established triangulation of di ﬀerent」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「triangulation”—meaning the organized cross-checking of」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「Semi-structured interviews typically last between 30 and 90 minutes. The key is balancing enough time for participants to elaborate while avoiding fatigue. If you have many questions, consider piloting the interview first to estimate timing.」（https://www.maxqda.com/research-guides/semi-structured-interviews）
+  - 「Absolutely. MAXQDA allows integration of semi-structured interview data with other data, such as focus groups, open-ended survey responses, and field notes. Combining data sources enhances triangulation and deepens interpretation.」（https://www.maxqda.com/research-guides/semi-structured-interviews）
+- 一次情報の探し方：
+  - 「Advantages Primary source, direct participants ’/」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「chy levels (primary sources), in addition to outside experts」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+- 失敗・落とし穴：
+  - 「puts forward concrete advice addressing this technique ’s inherent challenges of selecting experts, experts ’ personal biases, and the」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「sonal biases are often not tackled; and 3) evidence is not」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「of experts, personal biases, and systematic capturing of」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「challenges and to reduce social-desirability bias. These」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「tial biases in relation to each other, and to construct a」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「selecting experts, dealing with their potential biases, and」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「other are key means of avoiding this pitfall.」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「information gaps and personal biases of experts must」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「experts holds promises but also pitfalls (see the summary in」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「information, systematic bias」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「that respondents ’ personal biases compromise the results」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「Dealing with Personal Biases」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「scholars can actively tackle two core personal biases when」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「accepted that to elicit informed and unbiased insights,」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「for diﬀerent potential biases).」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+- 実例：
+  - 「cases where the number of observations is low. Experts can」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「interventions into the tax administration; and b) examples」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「about the political process or event of interest. In this case,」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「outline with examples from a research project on particu-」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「of interest. In this case, expert interviews are a proxy for」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「The case for mid- and low-level insiders: Oftentimes,」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「level civil servants. For example, to investigate political」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「managers in these cases was ‘don’t go to this man, this」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「scholars reject the method in di ﬃcult cases.」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「analysis (von Soest 2009; for another example, Lundgren」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「Mavourneen G. Casey, and Michael Lawless. 2019.」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「“Case Study Research: Putting the Quant into the」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「George, Alexander L., and Andrew Bennett. 2005. Case」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「Gerring, John. 2017. Case Study Research: Principles and」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「Neopatrimonialism Aﬀect the African State? The Case」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）

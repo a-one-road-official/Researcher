@@ -1,0 +1,852 @@
+{
+ "name": "経済構造実態調査 製造業事業所調査 2022年以降 加工賃収入額 産業別×規模（切れ目の後・4-26）",
+ "en": "Economic Structure Survey manufacturing establishments processing fee 2022 2023 2024 Japan",
+ "aliases": [
+  "site:meti.go.jp 経済構造実態調査 製造業事業所調査 加工賃収入額",
+  "経済構造実態調査 製造業事業所調査 産業別 従業者規模別 確報",
+  "e-Stat 経済構造実態調査 製造業事業所調査 加工賃収入額 2023"
+ ],
+ "context": "一次・切れ目の後",
+ "kind": "market",
+ "researched_at": "2026-11-05T07:49:17.871221+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "経済構造実態調査 品目編 01009 品目別の加工賃収入額及び産出事業所数（全事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数の経理外項目については令和7年6月1日現在、製造品出荷額等、付加価値額などの経理項目については令和6年1月から令和6年12月の実績",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1表 産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び付加価値額（全事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "第2表 従業者規模別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び付加価値額（全事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3表 産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額及び付加価値額（従業者30人以上の事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "第4表 産業中分類別事業所数、在庫額及び有形固定資産額（従業者30人以上の事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "第5表 産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者1～29人の事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "2023000000_2023_112292_ビスコース人絹・キュプラ・アセテート長繊維織物（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_114291_絹・人絹織物機械染色（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_116191_織物製成人男子・少年服（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_116291_織物製成人女子・少女服（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_218391_人工骨材（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_325291_人形（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数の経理外項目については令和7年6月1日現在、製造品出荷額等、付加価値額などの経理項目については令和6年1月から令和6年12月の実績",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本標準産業分類（令和5年総務省告示第256号）に掲げる「大分類E－製造業」に属する全国の事業所（国及び地方公共団体に属する事業所、個人経営及び法人以外の団体の事業所を除く）のうち、日本標準産業分類における大分類、中分類、小分類または細分類ごとに売上高（製造品出荷額等）を上位から累積し、当該分類にかかる売上高（製造品出荷額等）総額の9割を達成する範囲に含まれる事業所",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1表 産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び付加価値額（全事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "第2表 従業者規模別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び付加価値額（全事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3表 産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額及び付加価値額（従業者30人以上の事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "第4表 産業中分類別事業所数、在庫額及び有形固定資産額（従業者30人以上の事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "第5表 産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者1～29人の事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "経済構造実態調査 品目編 01009 品目別の加工賃収入額及び産出事業所数（全事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "時間軸_R7 製造品目（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_091191_部分肉・冷凍肉（ブロイラーを除く）（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_091291_肉加工品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_091391_処理牛乳・乳飲料（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_091491_乳製品（処理牛乳・乳飲料を除く）（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_091991_その他の畜産食料品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092191_水産缶詰・瓶詰（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092291_海藻加工（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092391_水産練製品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092491_塩干・塩蔵品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092591_冷凍水産物（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092691_冷凍水産食品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092991_その他の水産食料品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_093191_野菜缶詰・果実缶詰・農産保存食料品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_093291_野菜漬物（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_094191_味そ（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数の経理外項目については令和7年6月1日現在、製造品出荷額等、付加価値額などの経理項目については令和6年1月から令和6年12月の実績",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本標準産業分類（令和5年総務省告示第256号）に掲げる「大分類E－製造業」に属する全国の事業所（国及び地方公共団体に属する事業所、個人経営及び法人以外の団体の事業所を除く）のうち、日本標準産業分類における大分類、中分類、小分類または細分類ごとに売上高（製造品出荷額等）を上位から累積し、当該分類にかかる売上高（製造品出荷額等）総額の9割を達成する範囲に含まれる事業所",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1表 産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び付加価値額（全事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "第2表 従業者規模別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び付加価値額（全事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3表 産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額及び付加価値額（従業者30人以上の事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "第5表 産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者1～29人の事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "経済構造実態調査 / 2024年経済構造実態調査（製造業事業所調査） / 二次集計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "経済構造実態調査は、我が国の企業等の経済活動の状況を明らかにし、国民経済計算の精度向上等に資するとともに、企業等に関する施策の基礎資料を得ることを目的として、総務省・経済産業省の共管で令和元年（2019年）から実施しております",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2024年経済構造実態調査（製造業事業所調査）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2025-08-29 14:00",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_000000_合計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_090000_食料品",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_091191_部分肉・冷凍肉（ブロイラーを除く）（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_091291_肉加工品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_091391_処理牛乳・乳飲料（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_091491_乳製品（処理牛乳・乳飲料を除く）（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_091991_その他の畜産食料品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092191_水産缶詰・瓶詰（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092291_海藻加工（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092391_水産練製品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092491_塩干・塩蔵品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092591_冷凍水産物（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092691_冷凍水産食品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092991_その他の水産食料品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 経済構造実態調査 製造業事業所調査結果(名古屋市分)｜名古屋市公式ウェブサイト",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 経済構造実態調査 製造業事業所調査結果(名古屋市分)",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年経済構造実態調査 製造業事業所調査（総務省・経済産業省所管）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年 経済構造実態調査 製造業事業所調査結果(名古屋市分)",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年 経済構造実態調査 製造業事業所調査結果(名古屋市分)",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年 経済構造実態調査 製造業事業所調査結果（名古屋市分）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年 工業統計調査結果（名古屋市分）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年 工業統計調査結果（名古屋市分）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成19年 工業統計調査結果 統計レポート 名古屋の製造業の推移",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成10年 工業統計調査結果（名古屋市分）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "3000020231002",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "June 2024",
+    "url": "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(Source)https://www.policyuncertainty.com/ (April, 2024)",
+    "url": "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.imf.org/ja/News/Articles/2021/01/19/blog-what-the-continued-global-uncertainty-means-for-you",
+    "url": "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• China Manufacturing 2025 (Targeting 70% self-",
+    "url": "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023, MAR 2024) (To improve the investment environment for",
+    "url": "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Expansion of export control items (JUL/OCT 2023, etc.)",
+    "url": "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "productive forces (MAR 2024) (Promotion of scientific and",
+    "url": "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "bonds (MAR 2024) Issuance of 1 trillion yuan in 2024",
+    "url": "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturing industry (MAR 2024) (Strengthen",
+    "url": "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• CHIPS Act (AUG 2022): $52.7 billion in funding as incentives",
+    "url": "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Inflation Reduction Act (AUG 2022): $433 billion, including",
+    "url": "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• “Bidenomics” speech (JUN 2023)",
+    "url": "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• \"invest it here and make it here\" (JUL 2023)",
+    "url": "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Outbound Investment restriction to China(AUG 2023)",
+    "url": "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Industries (Announced in DEC 2023)",
+    "url": "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Tariff hike on China (Announced in MAY 2024)",
+    "url": "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Green Deal Industrial Plan (FEB 2023) (Creation of an",
+    "url": "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• GER: Growth Opportunity Act (JUL 2023)",
+    "url": "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "事業所数、従業者数の経理外項目については令和7年6月1日現在、製造品出荷額等、付加価値額などの経理項目については令和6年1月から令和6年12月の実績",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1表 産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び付加価値額（全事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "第2表 従業者規模別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び付加価値額（全事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3表 産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額及び付加価値額（従業者30人以上の事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   },
+   {
+    "quote": "第5表 産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者1～29人の事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "第4表 産業中分類別事業所数、在庫額及び有形固定資産額（従業者30人以上の事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokei.pref.nagano.lg.jp/statistics/24635.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-1.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jisa.or.jp/it_info/statistics/tabid/769/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamaguchi.lg.jp/soshiki/22/249523.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-2.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagasaki.jp/doc/page-615198.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000343.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokei.pref.nagano.lg.jp/statist_list/24620.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/01/oecd-economic-surveys-japan-2024_9289b572/41e807f9-en.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/handbook/pdf/2024all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Economy_of_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2024/data/wp24e14.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jetro.go.jp/en/invest/attractive_sectors/manufacturing/overview.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022年以降 加工賃収入額 産業別×規模（切れ目の後・4-26）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://tokei.pref.nagano.lg.jp/statistics/24635.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&tstat=000001207540"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022年以降 加工賃収入額 産業別×規模（切れ目の後・4-26） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://tokei.pref.nagano.lg.jp/statistics/24635.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "https://www.jisa.or.jp/it_info/statistics/tabid/769/default.aspx",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022年以降 加工賃収入額 産業別×規模（切れ目の後・4-26） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/249523.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://tokei.pref.nagano.lg.jp/statistics/24635.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022年以降 加工賃収入額 産業別×規模（切れ目の後・4-26） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://tokei.pref.nagano.lg.jp/statistics/24635.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022年以降 加工賃収入額 産業別×規模（切れ目の後・4-26） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://tokei.pref.nagano.lg.jp/statistics/24635.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "https://www.pref.nagasaki.jp/doc/page-615198.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022年以降 加工賃収入額 産業別×規模（切れ目の後・4-26） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/249523.html",
+    "https://tokei.pref.nagano.lg.jp/statistics/24635.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022年以降 加工賃収入額 産業別×規模（切れ目の後・4-26） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000343.html",
+    "https://tokei.pref.nagano.lg.jp/statist_list/24620.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/249523.html",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html"
+   ]
+  },
+  {
+   "query": "Economic Structure Survey manufacturing establishments processing fee 2022 2023 2024 Japan Japan statistics",
+   "results": [
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/01/oecd-economic-surveys-japan-2024_9289b572/41e807f9-en.pdf",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2024all.pdf",
+    "https://en.wikipedia.org/wiki/Economy_of_Japan",
+    "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2024/data/wp24e14.pdf",
+    "https://www.jetro.go.jp/en/invest/attractive_sectors/manufacturing/overview.html",
+    "https://www.jil.go.jp/english/estatis/esaikin/2024/e202407.html",
+    "https://www.eu-japan.eu/eubusinessinjapan/about-japan/background/economic-overview",
+    "https://www5.cao.go.jp/keizai3/getsurei-e/2024apr.html",
+    "https://www.e-stat.go.jp/index.php/en/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001221300&result_page=1&statdisp_id=0004054003"
+   ]
+  },
+  {
+   "query": "site:note.com 経済構造実態調査 製造業事業所調査 2022年以降 加工賃収入額 産業別×規模（切れ目の後・4-26）",
+   "results": [
+    "https://note.com/cutecat_37/n/ne71193fcfdf0",
+    "https://note.com/ogawa_tech/n/nd43980a3e026",
+    "https://note.com/japanbizinsight/n/ne55cf8f10bda",
+    "https://note.com/ogawa_tech/n/ndc40f3e6ca98",
+    "https://note.com/ogawa_tech/n/n239320e7d566",
+    "https://note.com/powerpoint_jp/n/n5fe611924a90",
+    "https://note.com/kurashiki_note/n/nf62bfe5b9660?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com 経済構造実態調査 製造業事業所調査 2022年以降 加工賃収入額 産業別×規模（切れ目の後・4-26）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2107586100512370742",
+    "https://jf.x.com/images/media-preview/2111804296266448966",
+    "https://jf.x.com/images/media-preview/2100404370546303364",
+    "https://jf.x.com/images/media-preview/2115407913393242185",
+    "https://jf.x.com/images/media-preview/2114268390525399082",
+    "https://x.com/thedimitri/status/2113705182575861958",
+    "https://x.com/usutaku_channel/status/2108007236132090161"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 経済構造実態調査 製造業事業所調査 2022年以降 加工賃収入額 産業別×規模（切れ目の後・4-26）",
+   "results": [
+    "https://economicgraph.linkedin.com/",
+    "https://www.linkedin.com/pub/dir/Keyaa/Bhatt",
+    "https://www.linkedin.com/sales/home",
+    "https://in.linkedin.com/in/rajivnaithani",
+    "https://in.linkedin.com/in/ni5arga",
+    "https://ng.linkedin.com/in/yischaibeinisch",
+    "https://uk.linkedin.com/in/michelle-mcmanus-49667bb5"
+   ]
+  },
+  {
+   "query": "site:facebook.com 経済構造実態調査 製造業事業所調査 2022年以降 加工賃収入額 産業別×規模（切れ目の後・4-26）",
+   "results": [
+    "https://www.facebook.com/bigfishcasino/",
+    "https://www.facebook.com/kdprice/",
+    "https://www.facebook.com/jodinwk/",
+    "https://www.facebook.com/atsuhiko.ishiguro/posts/10235422263717138/",
+    "https://www.facebook.com/DanKidd68/",
+    "https://www.facebook.com/watch/?v=1815071578782315",
+    "https://www.facebook.com/marketplace/item/28703012185962467/"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022年以降 加工賃収入額 産業別×規模（切れ目の後・4-26） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://tokei.pref.nagano.lg.jp/statistics/24635.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "https://www.pref.nagasaki.jp/doc/page-615198.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022年以降 加工賃収入額 産業別×規模（切れ目の後・4-26） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/249523.html",
+    "https://tokei.pref.nagano.lg.jp/statistics/24635.html",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html"
+   ]
+  },
+  {
+   "query": "Economic Structure Survey manufacturing establishments processing fee 2022 2023 2024 Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/im-foreigner-japan-heres-what-i-think-problem-james-riney-hbpre",
+    "https://www.linkedin.com/top-content/finance/analyzing-economic-indicators/manufacturing-output-insights/",
+    "https://www.linkedin.com/posts/jason-miller-32110325_supplychain-shipsandshipping-manufacturing-activity-7424074151625297920-fEe-",
+    "https://www.linkedin.com/pulse/rise-ai-powered-employees-boosting-productivity-jobs-andre-mxsce",
+    "https://www.linkedin.com/pulse/2026-mid-year-investment-perspectives-ken-caplan-rli9e",
+    "https://www.linkedin.com/pulse/application-innovation-overview-japanese-big-4-youssef-rehab",
+    "https://www.linkedin.com/in/jeffreyrwinter",
+    "https://jp.linkedin.com/in/kenjishinohara358/en",
+    "https://in.linkedin.com/in/vijaykumar-nandani-6463b9121",
+    "https://ca.linkedin.com/in/yui-mikuriya"
+   ]
+  }
+ ],
+ "missing": {
+  "人手と仕事の差": "記載なし（読んだ26頁・検索15回）"
+ }
+}
