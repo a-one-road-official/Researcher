@@ -1,0 +1,1401 @@
+{
+ "name": "運輸業・郵便業",
+ "en": "transport postal Japan census",
+ "aliases": [
+  "運輸業",
+  "道路貨物運送業",
+  "倉庫業",
+  "大分類H"
+ ],
+ "context": "大分類H",
+ "kind": "market",
+ "researched_at": "2026-11-05T11:47:47.198467+00:00",
+ "evidence": {
+  "企業数・事業所数": [
+   {
+    "quote": "統計局ホームページ/令和3年経済センサス‐活動調査 調査の結果",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス-活動調査 調査の結果",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査に関する地域メッシュ統計",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、全産業を対象とする「経済センサス-活動調査」の創設に伴い、平成24年、平成28年、令和３年は「経済センサス-活動調査」の『製造業』として調査を実施し、『製造業』の集計結果を公表しています",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成24年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 速報集計 企業等に関する集計3 企業産業(大分類)、単一・複数(2区分)別企業等数、売上（収入）金額及び１企業当たり売上（収入）金額－全国、都道府県 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 速報集計 企業等に関する集計",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査 速報集計",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３年６月に実施した「経済センサス‐活動調査」の速報集計結果を公表",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の企業等の数は367万４千企業、民営事業所数は507万９千事業所、",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表２ 産業大分類別民営事業所数及び従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．民営事業所数の状況（産業大分類別）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○民営事業所数をみると、「卸売業，小売業」が120万１千事業所（全産業の23.6％）と最も",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図４ 産業大分類別民営事業所数の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「民営事業所数の構成比」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査データ2021のデータ項目 | マップマーケティング株式会社",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査データ2021のデータ項目",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査2021のデータ項目",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "「経済センサス活動調査データ2021」は、法人市場（BtoB）の出店調査や販売促進のための分析におススメのデータです",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～S_全産業事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C～E_第2次産業事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C_鉱業、採石業、砂利採取業事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "D_建設業事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "E_製造業事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "F～S_第3次産業事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "F_電気･ｶﾞｽ･熱供給･水道業事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス­活動調査報告",
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 事業所数及び従業者数",
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数の対全国比（上位５都府県）",
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 民営事業所数は 62 万 8239 事業所、従業者数は 959 万 2059 人で、ともに全国 1 位",
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１）事業所数及び従業者数は、令和３年６月 1 日現在の数値で、必要な事項の数値が得られた事業所を対象に集計しました",
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査結果（METI/経済産業省）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査結果",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "pass": 3
+   },
+   {
+    "quote": "・令和３年６月１日現在で実施した経済センサス‐活動調査の結果です",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年活動調査の集計体系及び公表時期一覧・各集計と産業分類の対象範囲(PDF:92KB)",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "pass": 3
+   },
+   {
+    "quote": "～ 令和３年経済センサス ‐活動調査の結果から ～",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総務省は、令和３年６月１日に実施した令和３年経済センサス‐活動調査（以下「令",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 企業等数・事業所数・従業者数",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年６月１日現在の企業等の数は 368 万企業、民営事業所数（「以下「事業所",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、国・地方公共団体を含めると、事業所数は 529 万事業所、従業者数は 6243",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数をみると、 「卸売業，小売業」が 123 万事業所（全産業の23.8%）と最も",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：総務省・経済産業省「令和３年経済センサス‐ 活動調査」の調査票情報を独自集計したもの",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次回の活動調査は、令和８年の実施を予定しています",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業横断的集計1-2 産業（中分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―全国，都道府県 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業横断的集計",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "産業（中分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―全国，都道府県",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス産業分類(平成26年経済センサス－基礎調査) | 統計分類・用語の検索 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "pass": 3
+   },
+   {
+    "quote": "平成26年経済センサス－基礎調査",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "pass": 3
+   },
+   {
+    "quote": "平成21年経済センサス－基礎調査",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス産業分類(平成26年経済センサス－基礎調査)",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 企業等に関する集計 産業横断的集計 1-3-1 企業産業（大分類）別企業等数，事業所数，従業者数，売上（収入）金額，費用，付加価値額及び設備投資額－市区町村 （総数） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 企業等に関する集計 産業横断的集計 1-3-1 企業産業（大分類）別企業等数，事業所数，従業者数，売上（収入）金額，費用，付加価値額及び設備投資額－市区町村 （総数） | データベース | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "pass": 3
+   }
+  ],
+  "従業者数": [
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "表２ 産業大分類別民営事業所数及び従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」及び「従業者数」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６．従業者数の状況（産業大分類別）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○従業者数をみると、「卸売業，小売業」が1147万７千人（全産業の20.0％）と最も多く、次",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図５ 産業大分類別従業者数の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「従業者数の構成比」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "A～S_全産業従業者数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～S_全産業従業者数男21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～S_全産業従業者数女21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)従業者数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)従業者数男21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)従業者数女21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C～E_第2次産業従業者数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C～E_第2次産業従業者数男21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C～E_第2次産業従業者数女21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C_鉱業、採石業、砂利採取業従業者数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C_鉱業、採石業、砂利採取業従業者数男21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C_鉱業、採石業、砂利採取業従業者数女21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "「経済センサス‐活動調査」は全国の事業所・企業を対象とし、従業者数、売上(収入)金額など経理項目を",
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 事業所数及び従業者数",
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数の対全国比（上位５都府県）",
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 民営事業所数は 62 万 8239 事業所、従業者数は 959 万 2059 人で、ともに全国 1 位",
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 産業分類別の構成比は、事業所数、従業者数ともに「卸売業，小売業」が最も高い",
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別事業所数、従業者数",
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１）事業所数及び従業者数は、令和３年６月 1 日現在の数値で、必要な事項の数値が得られた事業所を対象に集計しました",
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 企業等数・事業所数・従業者数",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）は 516 万事業所、従業者数は 5795 万人となっています",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、国・地方公共団体を含めると、事業所数は 529 万事業所、従業者数は 6243",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数をみると、「卸売業，小売業」が 1161 万人（全産業の 20.0%）と最も多",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別企業等数、事業所数、従業者数",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 企業等に関する集計 産業横断的集計 1-3-1 企業産業（大分類）別企業等数，事業所数，従業者数，売上（収入）金額，費用，付加価値額及び設備投資額－市区町村 （総数） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 企業等に関する集計 産業横断的集計 1-3-1 企業産業（大分類）別企業等数，事業所数，従業者数，売上（収入）金額，費用，付加価値額及び設備投資額－市区町村 （総数） | データベース | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業（大分類）別企業等数，事業所数，従業者数，売上（収入）金額，費用，付加価値額及び設備投資額－市区町村 （総数）",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "pass": 3
+   }
+  ],
+  "売上（収入）金額・付加価値額": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 速報集計 企業等に関する集計3 企業産業(大分類)、単一・複数(2区分)別企業等数、売上（収入）金額及び１企業当たり売上（収入）金額－全国、都道府県 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業(大分類)、単一・複数(2区分)別企業等数、売上（収入）金額及び１企業当たり売上（収入）金額－全国、都道府県",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "１企業当たり売上（収入）金額",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "○2020年の我が国の売上（収入）金額は1702兆201億円、純付加価値額は337兆1437億円",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表１ 産業大分類別企業等数、売上高及び純付加価値額",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２：「売上高」及び「純付加価値額」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注３：本調査における純付加価値額は、以下の計算式を用いている",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．売上高の状況（産業大分類別）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○売上高をみると、「卸売業，小売業」が481兆4654億円（全産業の28.3％）と最も多く、次",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "いで「製造業」が390兆9934億円（同23.0％）、「医療，福祉」が173兆1927億円（同10.2％）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図２ 産業大分類別売上高の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「売上高の構成比」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)5000～1億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)1～10億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)10～50億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)50億円以上企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "E_製造業5000～1億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "E_製造業1～10億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "E_製造業10～50億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "E_製造業50億円以上企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "I_卸売業、小売業5000～1億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "I_卸売業、小売業1～10億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "I_卸売業、小売業10～50億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "I_卸売業、小売業50億円以上企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "２ 売上（収入）金額",
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 事業所の売上（収入）金額は 488 兆 1689 億円で、全国の 4 分の１を超え１位",
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 売上（収入）金額では、「卸売業，小売業」が最も高く、190 兆 9191 億円",
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 産業大分類別売上（収入）金額の対全国比では、「情報通信業」が最も高く、66.1％",
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上（収入）金額の対全国比（上位５都府県）",
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1708兆3748億円",
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・（参考）全産業の事業所の売上（収入）金額に関する試算値 利用上の注意(PDF:138KB)",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "pass": 3
+   },
+   {
+    "quote": "10億円以上",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "1億円以上 - 10億円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "5千万円以上 - 1億円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "1千万円以上 - 1億円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "１ 売上高・純付加価値額",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "我が国の企業等の令和２年の売上高は 1693 兆円、純付加価値額は 336 兆円となっ",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、 会社企業について資本金階級別にみると、 「資本金１億円以上」 の売上高",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が 900 兆円（資本金階級別の合計に占める割合は 63.6%）、純付加価値額が 133 兆",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 令和３年調査の売上高等の経理事項は令和２年の１年間を把握",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高を産業大分類別にみると、「卸売業，小売業」が 480 兆円と最も多く、次い",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で「製造業」が387 兆円、「医療，福祉」が173 兆円などとなっており、上位３産業",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純付加価値額を産業大分類別にみると、 「医療，福祉」が71 兆円で最も多く、次い",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品小売、職業紹介は売上高の約2割が宣伝費 「宣伝費」は回復基調へ | TSRデータインサイト | 東京商工リサーチ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品小売、職業紹介は売上高の約2割が宣伝費 「宣伝費」は回復基調へ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高に占める宣伝費の割合が5％以上の企業は3,513社で、全体の1.3％にとどまる",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "だが、結婚式場業は約7割（66.6％）の企業が売上高の5％以上を広告宣伝費につぎ込む",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、エステティック業（47.6％）、クレジットカード業（41.6％）も半数近い企業が売上高の5％以上を宣伝費に投じている",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "宣伝費ゼロの企業を除いた1社あたりの平均宣伝費は、産業別トップは金融・保険業10億37万円、次いで情報通信業3億7,571万円、小売業1億5,209万円、製造業1億2,398万円と続き、上位4産業は平均1億円を超えた",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金別では、1億円以上が1.9％で、1億円未満の0.5％を1.4ポイント上回った",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1億円以上は、同1億円未満の企業と比較し、利益率が高い企業が多く、資金的余裕から宣伝費を多く使える企業が多いことが要因とみられる",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "【業種別宣伝費状況ランキング】職業紹介業と化粧品小売業は売上高の約2割が宣伝費",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業横断的集計1-2 産業（中分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―全国，都道府県 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "産業（中分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―全国，都道府県",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり付加価値額",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "事業従事者1人当たり付加価値額",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 企業等に関する集計 産業横断的集計 1-3-1 企業産業（大分類）別企業等数，事業所数，従業者数，売上（収入）金額，費用，付加価値額及び設備投資額－市区町村 （総数） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 企業等に関する集計 産業横断的集計 1-3-1 企業産業（大分類）別企業等数，事業所数，従業者数，売上（収入）金額，費用，付加価値額及び設備投資額－市区町村 （総数） | データベース | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "pass": 3
+   }
+  ],
+  "広告宣伝費・販管費": [
+   {
+    "quote": "純付加価値額＝売上高－（費用総額（売上原価＋販売費及び一般管理費） ）＋給与総額＋租税公課",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純付加価値額＝売上高－費用総額［売上原価＋販売費及び一般管理費］＋給与総額＋租税公課",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品小売、職業紹介は売上高の約2割が宣伝費 「宣伝費」は回復基調へ | TSRデータインサイト | 東京商工リサーチ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品小売、職業紹介は売上高の約2割が宣伝費 「宣伝費」は回復基調へ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業の広告や販売促進に使われる宣伝費が、2023年度は2兆9,174億2,700万円（前期比11.6％増）と前年度を上回ったことがわかった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度まで5年連続で宣伝費（広告宣伝費+販売促進費）の推移が判明した14万8,090社を対象に集計した",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "なかでも、医薬品製剤製造業が3,820億8,600万円（前期比43.5％増）、ポータルサイト・サーバ運営業が1,598億5,100万円（同51.5％増）と急回復し、宣伝費総額を押し上げた",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度の産業別の宣伝費は、トップが製造業の1兆164億4,100万円（前期比19.8％増）で、全体の3割超（34.8％）を占めた",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信業、建設業などがけん引し、宣伝費は全体では増加に転じたが、運輸業、金融・保険業、製造業は2019年度から2割以上落ち込み、回復が鈍い",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "1社あたりの平均宣伝費は、金融・保険業が10億37万円（前期比0.9％増）で突出した",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、2023年単年度の宣伝費用が判明した26万5,253社では、売上に対する宣伝費の割合は金融・保険業が8.2％でトップだった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高に占める宣伝費の割合が5％以上の企業は3,513社で、全体の1.3％にとどまる",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "だが、結婚式場業は約7割（66.6％）の企業が売上高の5％以上を広告宣伝費につぎ込む",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、エステティック業（47.6％）、クレジットカード業（41.6％）も半数近い企業が売上高の5％以上を宣伝費に投じている",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "2021年６月１日現在の企業等の数は367万４千企業、民営事業所数は507万９千事業所、",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※2026年4月1日より、事業統合に伴いお問い合わせ先を変更しました",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年（2021年） 令和３年（2021年）",
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度まで5年連続で宣伝費（広告宣伝費+販売促進費）の推移が判明した14万8,090社を対象に集計した",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信業、建設業などがけん引し、宣伝費は全体では増加に転じたが、運輸業、金融・保険業、製造業は2019年度から2割以上落ち込み、回復が鈍い",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度は2兆9,174億2,700万円（前期比11.6％増）と増加に転じた",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "5年間の推移では、農・林・漁・鉱業、建設業、卸売業、情報通信業の4産業は、落ち込んだ宣伝費が回復し、2023年度はコロナ禍前の2019年度を上回った",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、宣伝費の回復が鈍い産業は運輸業（2019年度比85.2％減）、金融・保険業（同34.8％減）、製造業（同28.6％減）で、2019年度から2割以上落ち込んで推移している",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度（1.2％）から0.1ポイント上昇したが、コロナ禍前の2019年度（1.6％）を0.3ポイント下回り、低水準で推移している",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月-9月に倒産した病院・クリニック（診療所）・歯科医院などの「医療機関」は59件（前年同期比28.2％増）と、過去最多を更新した",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "TSR「2026年メインバンク」調査で、「滋賀銀行」（滋賀県：メインバンク取引社数1万799社、金融G取引社数順位27位）と、「池田泉州銀行」（大阪市：同9,085社、同37位）を傘下に持つ池田泉州ホールディングスの2行が経営統合を検討していることを発表した",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   }
+  ],
+  "資本金1億円以上の企業": [
+   {
+    "quote": "法人企業統計調査 時系列データ 時系列データ 1 金融業、保険業以外の業種(原数値) 年度次 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査 | すべて | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査 時系列データ 時系列データ 1 金融業、保険業以外の業種(原数値) 年度次 | データベース | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査は、わが国における営利法人等の企業活動の実態を把握するため、標本調査として実施されている統計法に基づく基幹統計調査です",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "（１）概況及び資本金階級別の状況",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、 会社企業について資本金階級別にみると、 「資本金１億円以上」 の売上高",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が 900 兆円（資本金階級別の合計に占める割合は 63.6%）、純付加価値額が 133 兆",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社企業について、資本金階級別に企業の数をみると、 「資本金1000 万円未満」が",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "104 万企業（資本金階級別の合計に占める割合は59.3%）と最も多く、階級区分が最",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）売上高に占める追加法人の割合（資本金階級別）",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金階級別に、当該階級の 売上高の合計に占める追加法人の売上高の割合をみる",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高く、資本金階級の区分が上がるごとにその割合は低下し、 資本金階級区分が最も高い",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1億円以上は、同1億円未満の企業と比較し、利益率が高い企業が多く、資金的余裕から宣伝費を多く使える企業が多いことが要因とみられる",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "運輸業 とは？需要の高い 運輸業 の基礎知識を解説 - note 運輸業 とは？需要の高い 運輸業 の基礎知識を解説 - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/yamasei015/n/nd4b5bc0c83e0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "運輸業とは？需要の高い運輸業の基礎知識を解説｜やませい",
+    "url": "https://note.com/yamasei015/n/nd4b5bc0c83e0",
+    "pass": 3
+   },
+   {
+    "quote": "運輸業とは？需要の高い運輸業の基礎知識を解説",
+    "url": "https://note.com/yamasei015/n/nd4b5bc0c83e0",
+    "pass": 3
+   },
+   {
+    "quote": "運輸業とはさまざまなものを運ぶ仕事です。インターネットが普及した現代では、ネット通販の利用などに欠かせません。しかし、運輸業にはさまざまな仕事があることを知らない人も多いのではないでしょうか。今回の記事では意外な運輸業の仕事や職業についてご紹介します。",
+    "url": "https://note.com/yamasei015/n/nd4b5bc0c83e0",
+    "pass": 3
+   },
+   {
+    "quote": "今後も需要の増加が予想される運輸業界。興味のある方はぜひ本記事を参考にしてください。",
+    "url": "https://note.com/yamasei015/n/nd4b5bc0c83e0",
+    "pass": 3
+   },
+   {
+    "quote": "googleads.g.doubleclick.net",
+    "url": "https://note.com/yamasei015/n/nd4b5bc0c83e0",
+    "pass": 3
+   },
+   {
+    "quote": "運輸業はさまざまな種類の「もの」を運ぶ仕事です。「もの」は食品や製品などの物質だけではありません。「人」を運ぶ役割も含まれます。ものによって運送方法やサービス提供方法の異なる点が運輸業の特徴です。",
+    "url": "https://note.com/yamasei015/n/nd4b5bc0c83e0",
+    "pass": 3
+   },
+   {
+    "quote": "総務省の日本標準産業分類では「鉄道、自動車、船舶、航空機又はその他の運送用具による旅客、貨物の運送業、倉庫業、運輸に附帯するサービス業を営む事業所」を運輸業と定義しています。",
+    "url": "https://note.com/yamasei015/n/nd4b5bc0c83e0",
+    "pass": 3
+   },
+   {
+    "quote": "また、さらに詳細な中分類を7つに区別しており、それぞれを以下のとおりに定義しています。",
+    "url": "https://note.com/yamasei015/n/nd4b5bc0c83e0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "8月のサービス産業活動は、「 運輸業 、 郵便業 ... - Facebook 8月のサービス産業活動は、「 運輸業 、 郵便業 ... - Facebook Facebook https://www.facebook.com > keizaikaiseki > posts > ８月...",
+    "url": "https://www.facebook.com/keizaikaiseki/posts/%EF%BC%98%E6%9C%88%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%94%A3%E6%A5%AD%E6%B4%BB%E5%8B%95%E3%81%AF%E9%81%8B%E8%BC%B8%E6%A5%AD%E9%83%B5%E4%BE%BF%E6%A5%AD%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD%E3%81%AA%E3%81%A9%E3%81%AE%E6%A5%AD%E7%A8%AE%E3%81%8C%E4%B8%8A%E6%98%87%E3%81%97%E3%81%9F%E4%B8%80%E6%96%B9%E9%87%91%E8%9E%8D%E6%A5%AD%E4%BF%9D%E9%99%BA%E6%A5%AD%E5%B0%8F%E5%A3%B2%E6%A5%AD%E3%81%AA%E3%81%A9%E3%81%AE%E6%A5%AD%E7%A8%AE%E3%81%8C%E4%BD%8E%E4%B8%8B%E3%81%97%E3%81%9F%E3%81%93%E3%81%A8%E3%81%8B%E3%82%89%E5%89%8D%E6%9C%88%E6%AF%94%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9%EF%BC%90%EF%BC%91%E3%81%A8%EF%BC%92%E3%81%8B%E6%9C%88%E3%81%B6%E3%82%8A%E3%81%AE%E4%BD%8E%E4%B8%8B%EF%BC%98%E6%9C%88%E6%99%82%E7%82%B9/1416207610687285/",
+    "pass": 3
+   },
+   {
+    "quote": "月間現金給与総額／26年7月 運輸業 ・ 郵便業 、一般労働者は2.2 ... 月間現金給与総額／26年7月 運輸業 ・ 郵便業 、一般労働者は2.2 ... Facebook https://www.facebook.com > trucknews.biz > posts > 月間...",
+    "url": "https://www.facebook.com/trucknews.biz/posts/%E6%9C%88%E9%96%93%E7%8F%BE%E9%87%91%E7%B5%A6%E4%B8%8E%E7%B7%8F%E9%A1%8D26%E5%B9%B47%E6%9C%88%E9%81%8B%E8%BC%B8%E6%A5%AD%E9%83%B5%E4%BE%BF%E6%A5%AD%E4%B8%80%E8%88%AC%E5%8A%B4%E5%83%8D%E8%80%85%E3%81%AF22%E5%A2%97%E3%81%AE38%E4%B8%874198%E5%86%86%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81%E3%81%8C9%E6%9C%8828%E6%97%A5%E3%81%AB%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9F%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB2026%E5%B9%B47%E6%9C%88%E5%88%86%E7%B5%90%E6%9E%9C%E7%A2%BA%E5%A0%B1%E3%81%AB%E3%82%88%E3%82%8B%E3%81%A8%E4%BA%8B%E6%A5%AD%E6%89%80/1049196081491298/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の荷物を運ぶ、という点で運送業と異なります。 運輸業 ... 自社の荷物を運ぶ、という点で運送業と異なります。 運輸業 ... Facebook https://www.facebook.com > tomajob2019 > posts > ご覧...",
+    "url": "https://www.facebook.com/tomajob2019/posts/%E3%81%94%E8%A6%A7%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E4%BB%8A%E5%9B%9E%E3%81%AF%E9%81%8B%E9%80%81%E6%A5%AD%E3%81%A8%E9%81%8B%E8%BC%B8%E6%A5%AD%E3%81%AE%E9%81%95%E3%81%84%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%A7%E3%81%99%E9%81%8B%E9%80%81%E6%A5%AD%E3%81%A8%E3%81%AF%E4%B8%80%E8%88%AC%E7%9A%84%E3%81%AB%E8%B2%A8%E7%89%A9%E8%87%AA%E5%8B%95%E8%BB%8A%E9%81%8B%E9%80%81%E4%BA%8B%E6%A5%AD%E3%81%A8%E5%91%BC%E3%81%B0%E3%82%8C%E3%82%8B%E3%82%82%E3%81%AE%E3%82%92%E6%8C%87%E3%81%97%E3%81%BE%E3%81%99%E4%BB%96%E4%BA%BA%E3%81%8B%E3%82%89%E4%BE%9D%E9%A0%BC%E3%82%92%E5%8F%97%E3%81%91%E6%9C%89%E5%84%9F%E3%81%A7%E8%87%AA%E5%8B%95%E8%BB%8A/1256863546238946/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://faq-e-census-st.dga.jp/faq_detail.html?id=345&page=1000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dentsu.co.jp/knowledge/ad_cost/2023/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cio_seo_/n/n1ad6f5cb9c88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/80/03/L",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamasei015/n/nd4b5bc0c83e0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/keizaikaiseki/posts/%EF%BC%98%E6%9C%88%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%94%A3%E6%A5%AD%E6%B4%BB%E5%8B%95%E3%81%AF%E9%81%8B%E8%BC%B8%E6%A5%AD%E9%83%B5%E4%BE%BF%E6%A5%AD%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD%E3%81%AA%E3%81%A9%E3%81%AE%E6%A5%AD%E7%A8%AE%E3%81%8C%E4%B8%8A%E6%98%87%E3%81%97%E3%81%9F%E4%B8%80%E6%96%B9%E9%87%91%E8%9E%8D%E6%A5%AD%E4%BF%9D%E9%99%BA%E6%A5%AD%E5%B0%8F%E5%A3%B2%E6%A5%AD%E3%81%AA%E3%81%A9%E3%81%AE%E6%A5%AD%E7%A8%AE%E3%81%8C%E4%BD%8E%E4%B8%8B%E3%81%97%E3%81%9F%E3%81%93%E3%81%A8%E3%81%8B%E3%82%89%E5%89%8D%E6%9C%88%E6%AF%94%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9%EF%BC%90%EF%BC%91%E3%81%A8%EF%BC%92%E3%81%8B%E6%9C%88%E3%81%B6%E3%82%8A%E3%81%AE%E4%BD%8E%E4%B8%8B%EF%BC%98%E6%9C%88%E6%99%82%E7%82%B9/1416207610687285/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/trucknews.biz/posts/%E6%9C%88%E9%96%93%E7%8F%BE%E9%87%91%E7%B5%A6%E4%B8%8E%E7%B7%8F%E9%A1%8D26%E5%B9%B47%E6%9C%88%E9%81%8B%E8%BC%B8%E6%A5%AD%E9%83%B5%E4%BE%BF%E6%A5%AD%E4%B8%80%E8%88%AC%E5%8A%B4%E5%83%8D%E8%80%85%E3%81%AF22%E5%A2%97%E3%81%AE38%E4%B8%874198%E5%86%86%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81%E3%81%8C9%E6%9C%8828%E6%97%A5%E3%81%AB%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9F%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB2026%E5%B9%B47%E6%9C%88%E5%88%86%E7%B5%90%E6%9E%9C%E7%A2%BA%E5%A0%B1%E3%81%AB%E3%82%88%E3%82%8B%E3%81%A8%E4%BA%8B%E6%A5%AD%E6%89%80/1049196081491298/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tomajob2019/posts/%E3%81%94%E8%A6%A7%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E4%BB%8A%E5%9B%9E%E3%81%AF%E9%81%8B%E9%80%81%E6%A5%AD%E3%81%A8%E9%81%8B%E8%BC%B8%E6%A5%AD%E3%81%AE%E9%81%95%E3%81%84%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%A7%E3%81%99%E9%81%8B%E9%80%81%E6%A5%AD%E3%81%A8%E3%81%AF%E4%B8%80%E8%88%AC%E7%9A%84%E3%81%AB%E8%B2%A8%E7%89%A9%E8%87%AA%E5%8B%95%E8%BB%8A%E9%81%8B%E9%80%81%E4%BA%8B%E6%A5%AD%E3%81%A8%E5%91%BC%E3%81%B0%E3%82%8C%E3%82%8B%E3%82%82%E3%81%AE%E3%82%92%E6%8C%87%E3%81%97%E3%81%BE%E3%81%99%E4%BB%96%E4%BA%BA%E3%81%8B%E3%82%89%E4%BE%9D%E9%A0%BC%E3%82%92%E5%8F%97%E3%81%91%E6%9C%89%E5%84%9F%E3%81%A7%E8%87%AA%E5%8B%95%E8%BB%8A/1256863546238946/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済センサス 活動調査 運輸業・郵便業 企業数 売上（収入）金額",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://faq-e-census-st.dga.jp/faq_detail.html?id=345&page=1000",
+    "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "https://www.e-census2026.go.jp/document/pdf/howto_09.pdf",
+    "https://www.e-census-st.go.jp/bunrui/",
+    "https://stats47.jp/survey/economic-census-activity",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/sanko1.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_oroshi_yyk.pdf"
+   ]
+  },
+  {
+   "query": "経済センサス 2021 産業大分類 運輸業・郵便業 従業者数",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21tfpress.pdf",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "https://www.city.kobe.lg.jp/a47946/shise/toke/toukei/keizaicensus/2021sangyououdan.html",
+    "https://www.zenshoren.or.jp/2021census-gyosya",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/keizai-census/documents/r3ecensus-sokuhou.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/index.html"
+   ]
+  },
+  {
+   "query": "法人企業統計 運輸業・郵便業 資本金1億円以上 社数",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/kigyo/kigyo_1.html",
+    "https://shokimap.com/articles/logistics-carriers-it-gap/",
+    "https://www.mof.go.jp/pri/reference/ssc/results/r5.pdf",
+    "https://www.nri.com/jp/media/column/kiuchi/20200601_2.html",
+    "https://open-g.itlibra.com/industries/H"
+   ]
+  },
+  {
+   "query": "運輸業・郵便業 広告宣伝費 売上高比率 業種別",
+   "results": [
+    "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "https://www.dentsu.co.jp/knowledge/ad_cost/2023/business.html",
+    "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "https://note.com/cio_seo_/n/n1ad6f5cb9c88",
+    "https://e-nexts.co.jp/blog-post/optimal-advertising-budget-for-smes/",
+    "https://lumierre.jp/research/market/ad-spend/",
+    "https://grill.co.jp/marketing-log/17487/",
+    "https://www.tsuhan-marketing.com/blog/marketing/adcosts_suitableline",
+    "https://prtimes.jp/main/html/rd/p/000000008.000186784.html"
+   ]
+  },
+  {
+   "query": "e-Stat 経済センサス 運輸業・郵便業 付加価値額",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "https://www.e-stat.go.jp/classifications/terms/80/03/L",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&query=019020026&statdisp_id=0004003964"
+   ]
+  },
+  {
+   "query": "site:note.com 運輸業・郵便業",
+   "results": [
+    "https://note.com/yamasei015/n/nd4b5bc0c83e0",
+    "https://note.com/tomossy3/n/n60e444ff8413",
+    "https://note.com/ikoma_office/n/n365ac1d8e38d",
+    "https://note.com/ikoma_office/n/n87b545a8230e",
+    "https://note.com/ikoma_office/n/n119c2159b46e",
+    "https://note.com/souco/n/n685749c92fd5",
+    "https://note.com/ikoma_office/n/n8a208299b1c4",
+    "https://note.com/ikoma_office/n/n4206f8fd31f6",
+    "https://note.com/ikoma_office/n/n2b5ca8168273",
+    "https://note.com/ikoma_office/n/n779ef16d380f"
+   ]
+  },
+  {
+   "query": "site:x.com 運輸業・郵便業",
+   "results": [
+    "https://x.com/logi_today/status/2104454415952544227?lang=ar",
+    "https://x.com/logi_today/status/2114631011686666304",
+    "https://x.com/logi_today/status/2097227009621708833?lang=bn",
+    "https://x.com/logi_today/status/2105153308474409261",
+    "https://x.com/isyumi_net/status/2113943315880308824",
+    "https://x.com/hashtag/%E9%81%8B%E8%BC%B8%E6%A5%AD",
+    "https://x.com/hashtag/%E9%81%8B%E9%80%81%E6%A5%AD",
+    "https://x.com/city_hanamaki/status/2100415473313829065",
+    "https://x.com/pio_ota/status/1890226706440667278",
+    "https://x.com/hashtag/%E8%A3%BD%E9%80%A0%E6%A5%AD"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 運輸業・郵便業",
+   "results": [
+    "https://www.linkedin.com/help/recruiter/answer/a1421501/recruiter-talent-insights-?lang=ja",
+    "https://jp.linkedin.com/company/magellanav?trk=ppro_cprof",
+    "https://www.linkedin.com/posts/toshiba-tec-corporation_rfid-%E7%89%A9%E6%B5%81dx-%E8%A3%BD%E9%80%A0%E6%A5%ADdx-activity-7511258617623453697-5jIx",
+    "https://www.linkedin.com/posts/dhl-express-japan_dhlexpress-%E9%87%8D%E9%87%8F%E8%B2%A8%E7%89%A9%E8%BC%B8%E9%80%81-%E5%BB%BA%E8%A8%AD%E6%A5%AD-activity-7496038306569375745-hX7m",
+    "https://www.linkedin.com/posts/haruyuki-hiratani-147b281a9_%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E6%B5%B7%E5%A4%96%E6%88%A6%E7%95%A5nasa%E3%81%8C%E9%81%B8%E3%82%93%E3%81%A0%E7%94%BA%E5%B7%A5%E5%A0%B4%E9%AB%98%E7%A0%82%E9%9B%BB%E6%B0%97%E5%B7%A5%E6%A5%AD%E3%81%AE%E4%B8%A1%E5%88%A9%E3%81%8D%E7%B5%8C%E5%96%B6-activity-7437682234930720768-2HnI",
+    "https://www.linkedin.com/pulse/%E8%A3%BD%E9%80%A0%E6%A5%ADai%E3%81%AE%E6%9C%AC%E5%BD%93%E3%81%AE%E5%88%86%E6%B0%B4%E5%B6%BA%E3%83%A2%E3%83%87%E3%83%AB%E7%AB%B6%E4%BA%89%E3%81%8B%E3%82%89%E6%A7%8B%E9%80%A0%E7%AB%B6%E4%BA%89%E3%81%B8the-real-inflection-point-ai-manufacturing-%E5%91%A8-s622c",
+    "https://www.linkedin.com/posts/tulip-interfaces_operationscallingtokyo-tulip-%E8%A3%BD%E9%80%A0%E6%A5%AD-activity-7516476351298756608-e8PS",
+    "https://www.linkedin.com/posts/tulip-interfaces_opscallingtokyo-tulip-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%83%E3%83%97-activity-7513669354907963394-Fhjv",
+    "https://jp.linkedin.com/company/whirlpool-corporation?trk=ppro_cprof",
+    "https://jp.linkedin.com/pulse/inside-aipcon-8-demos-transforming-manufacturing-pafze?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 運輸業・郵便業",
+   "results": [
+    "https://www.facebook.com/keizaikaiseki/posts/%EF%BC%98%E6%9C%88%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%94%A3%E6%A5%AD%E6%B4%BB%E5%8B%95%E3%81%AF%E9%81%8B%E8%BC%B8%E6%A5%AD%E9%83%B5%E4%BE%BF%E6%A5%AD%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD%E3%81%AA%E3%81%A9%E3%81%AE%E6%A5%AD%E7%A8%AE%E3%81%8C%E4%B8%8A%E6%98%87%E3%81%97%E3%81%9F%E4%B8%80%E6%96%B9%E9%87%91%E8%9E%8D%E6%A5%AD%E4%BF%9D%E9%99%BA%E6%A5%AD%E5%B0%8F%E5%A3%B2%E6%A5%AD%E3%81%AA%E3%81%A9%E3%81%AE%E6%A5%AD%E7%A8%AE%E3%81%8C%E4%BD%8E%E4%B8%8B%E3%81%97%E3%81%9F%E3%81%93%E3%81%A8%E3%81%8B%E3%82%89%E5%89%8D%E6%9C%88%E6%AF%94%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9%EF%BC%90%EF%BC%91%E3%81%A8%EF%BC%92%E3%81%8B%E6%9C%88%E3%81%B6%E3%82%8A%E3%81%AE%E4%BD%8E%E4%B8%8B%EF%BC%98%E6%9C%88%E6%99%82%E7%82%B9/1416207610687285/",
+    "https://www.facebook.com/trucknews.biz/posts/%E9%81%8B%E8%BC%B8%E6%A5%AD%E9%83%B5%E4%BE%BF%E6%A5%AD26%E5%B9%B47%E6%9C%88%E3%81%AE%E6%B1%82%E4%BA%BA%E6%95%B0%E3%81%AF%E5%89%8D%E5%B9%B4%E6%AF%9401%E5%A2%97%E3%81%AE4%E4%B8%878418%E4%BA%BA%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81%E3%81%8C8%E6%9C%8828%E6%97%A5%E3%81%AB%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9F%E4%B8%80%E8%88%AC%E8%81%B7%E6%A5%AD%E7%B4%B9%E4%BB%8B%E7%8A%B6%E6%B3%812026%E5%B9%B47%E6%9C%88%E5%88%86%E3%81%AB%E3%82%88%E3%82%8B%E3%81%A8%E9%81%8B%E8%BC%B8%E6%A5%AD%E9%83%B5%E4%BE%BF%E6%A5%AD%E3%81%AE%E6%96%B0%E8%A6%8F%E5%AD%A6%E5%8D%92%E8%80%85%E3%82%92%E9%99%A4/1049216644822575/",
+    "https://www.facebook.com/trucknews.biz/posts/%E6%9C%88%E9%96%93%E7%8F%BE%E9%87%91%E7%B5%A6%E4%B8%8E%E7%B7%8F%E9%A1%8D26%E5%B9%B47%E6%9C%88%E9%81%8B%E8%BC%B8%E6%A5%AD%E9%83%B5%E4%BE%BF%E6%A5%AD%E4%B8%80%E8%88%AC%E5%8A%B4%E5%83%8D%E8%80%85%E3%81%AF22%E5%A2%97%E3%81%AE38%E4%B8%874198%E5%86%86%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81%E3%81%8C9%E6%9C%8828%E6%97%A5%E3%81%AB%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9F%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB2026%E5%B9%B47%E6%9C%88%E5%88%86%E7%B5%90%E6%9E%9C%E7%A2%BA%E5%A0%B1%E3%81%AB%E3%82%88%E3%82%8B%E3%81%A8%E4%BA%8B%E6%A5%AD%E6%89%80/1049196081491298/",
+    "https://www.facebook.com/tomajob2019/posts/%E3%81%94%E8%A6%A7%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E4%BB%8A%E5%9B%9E%E3%81%AF%E9%81%8B%E9%80%81%E6%A5%AD%E3%81%A8%E9%81%8B%E8%BC%B8%E6%A5%AD%E3%81%AE%E9%81%95%E3%81%84%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%A7%E3%81%99%E9%81%8B%E9%80%81%E6%A5%AD%E3%81%A8%E3%81%AF%E4%B8%80%E8%88%AC%E7%9A%84%E3%81%AB%E8%B2%A8%E7%89%A9%E8%87%AA%E5%8B%95%E8%BB%8A%E9%81%8B%E9%80%81%E4%BA%8B%E6%A5%AD%E3%81%A8%E5%91%BC%E3%81%B0%E3%82%8C%E3%82%8B%E3%82%82%E3%81%AE%E3%82%92%E6%8C%87%E3%81%97%E3%81%BE%E3%81%99%E4%BB%96%E4%BA%BA%E3%81%8B%E3%82%89%E4%BE%9D%E9%A0%BC%E3%82%92%E5%8F%97%E3%81%91%E6%9C%89%E5%84%9F%E3%81%A7%E8%87%AA%E5%8B%95%E8%BB%8A/1256863546238946/",
+    "https://www.facebook.com/stat.japan/posts/10%E6%9C%8823%E6%97%A5%E7%B7%8F%E5%8B%99%E7%9C%81%E7%B5%B1%E8%A8%88%E5%B1%80%E3%81%8B%E3%82%89%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%97%E3%81%BE%E3%81%99%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%94%A3%E6%A5%AD%E5%8B%95%E6%85%8B%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB2026%E5%B9%B48%E6%9C%88%E5%88%86%E9%80%9F%E5%A0%B1%E6%9C%88%E9%96%93%E5%A3%B2%E4%B8%8A%E9%AB%98%E3%81%AF374%E5%85%86%E5%86%86%E5%89%8D%E5%B9%B4%E5%90%8C%E6%9C%88%E3%81%AB%E6%AF%94%E3%81%B936%E3%81%AE%E5%A2%97%E5%8A%A058%E3%81%8B%E6%9C%88%E9%80%A3%E7%B6%9A%E5%A3%B2%E4%B8%8A%E9%AB%98%E3%81%AE%E5%A2%97%E5%8A%A0%E3%81%AB%E5%AF%84/1554567286707294/",
+    "https://www.facebook.com/houjinnari/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E8%A1%8C%E6%94%BF%E6%9B%B8%E5%A3%AB%E6%B3%95%E4%BA%BA%E3%81%8D%E3%82%89%E3%82%81%E3%81%8D%E4%BA%8B%E5%8B%99%E6%89%80%E3%81%AE%E6%9F%B4%E7%94%B0%E3%81%A7%E3%81%99%E8%A1%8C%E6%94%BF%E6%9B%B8%E5%A3%AB%E6%B3%95%E4%BA%BA%E3%81%8D%E3%82%89%E3%82%81%E3%81%8D%E4%BA%8B%E5%8B%99%E6%89%80%E3%81%AF%E5%BB%BA%E8%A8%AD%E6%A5%AD%E8%A8%B1%E5%8F%AF%E3%82%84%E7%B5%8C%E5%96%B6%E4%BA%8B%E9%A0%85%E5%AF%A9%E6%9F%BB%E3%82%92%E5%B0%82%E9%96%80%E3%81%A8%E3%81%99%E3%82%8B%E4%BA%8B%E5%8B%99%E6%89%80%E3%81%A7%E3%81%99%E3%81%8C%E9%81%8B%E9%80%81%E6%A5%AD%E8%A8%B1%E5%8F%AF%E7%94%A3%E5%BB%83%E6%A5%AD%E8%A8%B1%E5%8F%AF%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%B0%B1%E5%8A%B4%E3%83%93%E3%82%B6%E3%81%A8%E3%81%84/1378834870924674/",
+    "https://www.facebook.com/stat.japan/posts/9%E6%9C%8824%E6%97%A5%E7%B7%8F%E5%8B%99%E7%9C%81%E7%B5%B1%E8%A8%88%E5%B1%80%E3%81%8B%E3%82%89%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%97%E3%81%BE%E3%81%99%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%94%A3%E6%A5%AD%E5%8B%95%E6%85%8B%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB2026%E5%B9%B47%E6%9C%88%E5%88%86%E9%80%9F%E5%A0%B1%E6%9C%88%E9%96%93%E5%A3%B2%E4%B8%8A%E9%AB%98%E3%81%AF384%E5%85%86%E5%86%86%E5%89%8D%E5%B9%B4%E5%90%8C%E6%9C%88%E3%81%AB%E6%AF%94%E3%81%B950%E3%81%AE%E5%A2%97%E5%8A%A057%E3%81%8B%E6%9C%88%E9%80%A3%E7%B6%9A%E5%A3%B2%E4%B8%8A%E9%AB%98%E3%81%AE%E5%A2%97%E5%8A%A0%E3%81%AB%E5%AF%84%E4%B8%8E/1525601499603873/",
+    "https://www.facebook.com/morikadocci/posts/%E8%A3%BD%E9%80%A0%E5%BB%BA%E8%A8%AD%E9%81%8B%E8%BC%B8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E4%BA%A4%E6%B5%81%E4%BC%9A2025%E6%96%B0%E3%81%9F%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B%E8%A3%BD%E9%80%A0%E5%BB%BA%E8%A8%AD%E9%81%8B%E8%BC%B8%E6%A5%AD%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%AB%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E4%BA%A4%E6%B5%81%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E4%BE%8B%E3%81%88%E3%81%B0%E6%9F%94%E8%BB%9F%E3%81%AB%E7%9B%B8%E8%AB%87%E3%81%AB%E4%B9%97%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E9%81%8B%E8%BC%B8%E6%A5%AD%E3%82%92%E6%8E%A2%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E8%A3%BD%E9%80%A0/1170200541808540/",
+    "https://www.facebook.com/kdmt1939/posts/%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%E6%96%B0%E7%9D%80%E6%83%85%E5%A0%B1%E3%81%8F%E3%81%A0%E3%81%BE%E3%81%A4%E5%B0%B1%E8%81%B7%E5%BF%9C%E6%8F%B4%E3%83%95%E3%82%A7%E3%82%A22026%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%BB%BA%E8%A8%AD%E6%A5%AD%E9%81%8B%E8%BC%B8%E6%A5%AD%E8%AD%A6%E5%82%99%E6%A5%AD%E5%8D%B8%E5%A3%B2%E6%A5%AD%E3%81%AE%E9%96%8B%E5%82%AC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-%E6%89%80%E7%AE%A1%E5%9C%B0%E5%9F%9F%E6%8C%AF%E8%88%88%E9%83%A8%E7%94%A3%E6%A5%AD%E6%8C%AF%E8%88%88%E8%AA%B2%E5%95%86%E5%B7%A5%E5%8A%B4%E6%94%BF%E4%BF%82%E5%B1%B1%E5%8F%A3%E7%9C%8C%E4%B8%8B%E6%9D%BE%E5%B8%82-%E4%B8%8B%E6%9D%BE%E5%B8%82/1527704609390101/",
+    "https://www.facebook.com/bskyjpn/posts/new-ssw-classes-launchedmanufacturing-truck-driver%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E5%B7%A5%E6%A5%AD%E8%A3%BD%E5%93%81%E8%A3%BD%E9%80%A0%E6%A5%AD%E8%87%AA%E5%8B%95%E8%BB%8A%E9%81%8B%E9%80%81%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%AF%BE%E7%AD%96%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%92%E3%83%8D%E3%83%91%E3%83%BC%E3%83%AB%E3%81%A7/122262222326364654/"
+   ]
+  },
+  {
+   "query": "運輸業・郵便業 note 社長",
+   "results": [
+    "https://note.com/tomossy3/n/n60e444ff8413",
+    "https://note.com/tag/%E9%81%8B%E9%80%81%E6%A5%AD",
+    "https://aobato-office.com/note-jisseki/",
+    "https://note.com/aobato_office/m/mbbc42f3bdaa9",
+    "https://takenaka-as.jp/note-026/",
+    "https://www.instagram.com/p/DbcyQfkCfjs/",
+    "https://1truck.pro/%E8%A1%8C%E6%94%BF%E5%87%A6%E5%88%86%E3%82%92%E7%B5%8C%E9%A8%93%E3%81%99%E3%82%8B%E7%A4%BE%E9%95%B7/",
+    "https://note.com/hashtag/%E7%89%A9%E6%B5%81%E6%A5%AD",
+    "https://www.sbbit.jp/article/cont1/108096",
+    "https://ja.wikipedia.org/wiki/長尾裕"
+   ]
+  },
+  {
+   "query": "運輸業・郵便業 X 投稿",
+   "results": [
+    "https://x.com/News_Logi",
+    "https://hatarakikatakaikaku.mhlw.go.jp/casestudy/type/transportation/",
+    "https://weekly-net.co.jp/news/195341/",
+    "https://www.trucknews.biz/article/s010835/",
+    "https://www.sbbit.jp/genretaglist/176",
+    "https://www.youtube.com/watch?v=YRJxuXMsWyY",
+    "https://www.post.japanpost.jp/bizpost/column/logistics19/2024programs/index.html",
+    "https://www.mars-tohken.co.jp/techblog/flags-044-materialhandling/",
+    "https://x.com/unso_shocho/status/2118085882196418823",
+    "https://chigai2.fromation.co.jp/archives/35743"
+   ]
+  },
+  {
+   "query": "transport postal Japan census site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/three-consecutive-population-declines-what-canada-can-murtaza-haider-zy3ue",
+    "https://www.linkedin.com/posts/matthewjhall_japan-shrinkingcities-populationdecline-activity-7493031452847255568-dPMY",
+    "https://www.linkedin.com/pulse/why-japan-became-rail-oriented-nation-while-others-narasimhan-mciht-iwizf",
+    "https://www.linkedin.com/posts/yfreemark_metropolitan-planning-organizations-make-activity-7360690628726349825-iL8I",
+    "https://www.linkedin.com/top-content/recruitment-hr/global-workforce-trends/changes-in-workforce-trends-in-japan/",
+    "https://www.linkedin.com/posts/uchikura_nagoya-japans-most-overlooked-great-city-activity-7481369767816163328-K5FX",
+    "https://www.linkedin.com/posts/vinodchand_japans-population-is-around-123-million-activity-7412386454808645632-8fqw",
+    "https://www.linkedin.com/company/cocensus-io",
+    "https://www.linkedin.com/company/jetro-collaborate-and-invest-japan",
+    "https://www.linkedin.com/pulse/japans-economic-development-what-can-we-learn-paul-cranch-htvqc"
+   ]
+  }
+ ],
+ "missing": {}
+}

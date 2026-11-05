@@ -1,0 +1,2139 @@
+{
+ "name": "金融業・保険業",
+ "en": "finance insurance Japan census",
+ "aliases": [
+  "金融業",
+  "保険業",
+  "大分類J"
+ ],
+ "context": "大分類J",
+ "kind": "market",
+ "researched_at": "2026-11-05T11:48:04.003044+00:00",
+ "evidence": {
+  "企業数・事業所数": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 速報集計 企業等に関する集計3 企業産業(大分類)、単一・複数(2区分)別企業等数、売上（収入）金額及び１企業当たり売上（収入）金額－全国、都道府県 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 速報集計 企業等に関する集計",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "令和８年経済センサス‐活動調査 試験調査 調査票一覧",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅲ 事業所数及び従業者数の状況 .............................................. 22",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．産業大分類別事業所数及び従業者数 ...................................... 22",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．従業者規模別事業所数及び従業者数 ...................................... 28",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．開設時期別事業所数 .................................................... 29",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．他からの出向・派遣従業者の有無別事業所数及び他からの出向・派遣従業者数 32",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査の概要 ......................................... 44",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 令和３年経済センサス‐活動調査は、甲調査と乙調査の２種類から成り、甲調査は",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、従来の活動調査等結果は、当時の消費税率であり、現行の税率（10％）と異",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 甲調査の調査対象の事業所（企業等）は、平成28年経済センサス‐活動調査では活",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 19 産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業横断的集計 事業所数、従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 売上（収入）金額等2-2 産業(大分類)、経営組織(3区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国、都道府県、市区町村 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004006340",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 売上（収入）金額等",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004006340",
+    "pass": 3
+   },
+   {
+    "quote": "産業(大分類)、経営組織(3区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国、都道府県、市区町村",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004006340",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004006340",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004006340",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業横断的集計1-2 産業（中分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―全国，都道府県 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業横断的集計",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "産業（中分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―全国，都道府県",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス産業分類(平成26年経済センサス－基礎調査) | 統計分類・用語の検索 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "pass": 3
+   },
+   {
+    "quote": "平成26年経済センサス－基礎調査",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "pass": 3
+   },
+   {
+    "quote": "平成21年経済センサス－基礎調査",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス産業分類(平成26年経済センサス－基礎調査)",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 企業等に関する集計 産業横断的集計 1-3-1 企業産業（大分類）別企業等数，事業所数，従業者数，売上（収入）金額，費用，付加価値額及び設備投資額－市区町村 （総数） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 企業等に関する集計 産業横断的集計 1-3-1 企業産業（大分類）別企業等数，事業所数，従業者数，売上（収入）金額，費用，付加価値額及び設備投資額－市区町村 （総数） | データベース | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "pass": 3
+   },
+   {
+    "quote": "平成24年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 平成24年経済センサス‐活動調査 / 企業等に関する集計 産業横断的集計",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "pass": 3
+   }
+  ],
+  "従業者数": [
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "４ この事業所の従業者数 ● 10月１日現在の従業者数を記入してください",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）この事業所に所属する従業者数 （２）受入者",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20製造品在庫額、半製品、仕掛品の価額及び原材料、燃料の在庫額 ※第１面４欄「この事業所の従業者数」の(3)が10人以上29人以下の事業所は、製造品①、半製品及び仕掛品②のみ記入してください",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● 第1面４欄「この事業所の従業者数」の（3）が30人以上の場合は全項目を記入し、29人以下の場合は★印の欄（黄色）のみ記入してください",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※第１面４欄「この事業所の従業者数」の(3)が10人以上29人以下の事業所は、有形固定資産の内訳については記入不要です",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この事業所の従業者数 ● 10月１日現在の従業者数を記入してください",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）この事業所に所属する従業者数 ⑤ 小売の商品販売額",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ この事業所の従業者数 ④ 卸売の商品販売額（代理・仲立手数料を含む）",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● 10月１日現在の従業者数を記入してください",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※第１面4欄「この事業所の従業者数」の（３）が10人以上29人以下の事業所は、製造品①、半製品及び仕掛品②のみ記入してください",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11 有形固定資産 ※第１面４欄「この事業所の従業者数」の（３）が10人以上29人以下の事業所は、有形固定資産の内訳については記入不要です",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●第１面４欄「この事業所の従業者数」の（３）が30人以上の場合は全項目を記入してください",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅲ 事業所数及び従業者数の状況 .............................................. 22",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．産業大分類別事業所数及び従業者数 ...................................... 22",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．従業上の地位別従業者数 ................................................ 25",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．従業者規模別事業所数及び従業者数 ...................................... 28",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．他からの出向・派遣従業者の有無別事業所数及び他からの出向・派遣従業者数 32",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）は515万6063事業所、従業者数は5795万人となっている",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、国、地方公共団体を含む事業所数は528万8891事業所、従業者数は6242万８千人とな",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅰ－２ 産業大分類別企業等数、事業所数及び従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「事業所数」、「従業者数」及び「１事業所当たり従業者数」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 従業者数 事業所数 従業者数 事業所数 従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅲ 事業所数及び従業者数の状況 （事業所に関する集計）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．産業大分類別事業所数及び従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 19 産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業横断的集計 事業所数、従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "（ロ）業種別、規模別資産・負債・純資産並びに役員・従業員数",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 業種別、規模別資産・負債・純資産並びに役員・従業員数",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "員給与、役員賞与、従業員給与、従業員賞与、福利厚生費）、人員（役員数、従業員数）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "福利厚生費）、人員（役員数、従業員数）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "従業員賞与、福利厚生費）、人員（役員数、従業員数）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "役員賞与、従業員給与、従業員賞与、福利厚生費）、人員（役員数、従業員数）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "厚生費）、人員（役員数、従業員数）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004006340",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 企業等に関する集計 産業横断的集計 1-3-1 企業産業（大分類）別企業等数，事業所数，従業者数，売上（収入）金額，費用，付加価値額及び設備投資額－市区町村 （総数） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 企業等に関する集計 産業横断的集計 1-3-1 企業産業（大分類）別企業等数，事業所数，従業者数，売上（収入）金額，費用，付加価値額及び設備投資額－市区町村 （総数） | データベース | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業（大分類）別企業等数，事業所数，従業者数，売上（収入）金額，費用，付加価値額及び設備投資額－市区町村 （総数）",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "pass": 3
+   }
+  ],
+  "売上（収入）金額・付加価値額": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 速報集計 企業等に関する集計3 企業産業(大分類)、単一・複数(2区分)別企業等数、売上（収入）金額及び１企業当たり売上（収入）金額－全国、都道府県 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業(大分類)、単一・複数(2区分)別企業等数、売上（収入）金額及び１企業当たり売上（収入）金額－全国、都道府県",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "１企業当たり売上（収入）金額",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "相手先別収入割合 ※10欄①「売上（収入）金額」を得た相手先別の収入額割合について、％で合計が100となるように記入してください",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合 計 10欄①の売上（収入）金額 １ ０",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10欄「①売上（収入）金額」に記入した売上（収入）金額の内訳を",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金額で記入できない場合は、10欄「①売上（収入）金額」に占め",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 売上（収入）金額 0,000",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10 売上（収入）金額、費用総額及び費用項目",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和５年１月から12月までの１年間 の売上（収入）金額及び費",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "仕入れて又は受け入れてそのまま販売するもの（転売品）はここに含めず、第１面11欄「事業別売上（収入）金額」のうち「④卸売",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１面10欄「①売上（収入）金額」に対する直",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅱ 企業等数、売上高及び純付加価値額等の状況 ............................... ３",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．企業等数、売上高及び純付加価値額 ...................................... ３",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．事業活動別売上高 ...................................................... 12",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．都道府県別純付加価値額の状況 .......................................... 21",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 甲調査の売上（収入）金額、費用等の経理事項は2020年１年間の数値である",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の我が国の売上（収入）金額（以下「売上高」という",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1,000万円未満、1,000万円以上2,000万円未満、2,000万円以上5,000万円未満、5,000万円以上１億円未満、１億円以上5億円未満、5億円以上10億円未満、10億円以上の資本金階層別、業種別に層化し、",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "pass": 3
+   },
+   {
+    "quote": "資本金５億円未満の各階層は等確率系統抽出により抽出します",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "pass": 3
+   },
+   {
+    "quote": "資本金５億円以上は全数抽出します",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1,000万円未満、1,000万円以上1億円未満、1億円以上10億円未満、10億円以上の資本金階層別、業種別に層化し、",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1億円未満の各階層は等確率系統抽出により抽出します",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1億円以上は全数抽出します",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "pass": 3
+   },
+   {
+    "quote": "５千万円以上１億円未満 無作為抽出 約２千社 約２千社 約６４千社",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "１億円以上５億円未満 無作為抽出 約１０千社 約２６千社",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "５億円以上10 億円未満 全数 約１.５千社 約１.５千社",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "10 億円以上 全数 約５.１千社 約５.１千社",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "※ 資本金１億円以上の階層は、年次別調査、四半期別調査で同じ法人を標本とする",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "１千万円以上１億円未満 無作為抽出 約４千社 約１０千社",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "１億円以上10 億円未満 全数 約１.６千社 約１.６千社",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "10 億円以上 全数 約０.９千社 約０.９千社",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "(ﾆ) ５千万円以上１億円未満",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "これに対し、資本金10億円以上の法人は6,330社で、わずか0.3%にすぎない（第1表及び第2表参照)",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "また、資本金階級別の法人数の構成割合を平成4年分と比較してみると、資本金1,000万円未満の階級では74.1%から51.9%に大幅な減少となっており、一方、資本金1,000万円以上1億円未満の階級では24.5%から46.6%に大幅な増加となっている",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、資本金階級別に業種別の法人数をみると、資本金1,000万円未満は建設業(18.9%)、小売業(18.2%)、サービス業(17.7%)の占める割合が大きく、資本金10億円以上では機械工業(12.8%)、サービス業(11.8%)、卸売業(10.0%)の占める割合が大きくなっている（第3表参照)",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "10億円未満",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "10億円以上",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "10億円以上",
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "pass": 3
+   },
+   {
+    "quote": "1億円以上 - 10億円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "pass": 3
+   },
+   {
+    "quote": "1千万円以上 - 1億円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品小売、職業紹介は売上高の約2割が宣伝費 「宣伝費」は回復基調へ | TSRデータインサイト | 東京商工リサーチ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品小売、職業紹介は売上高の約2割が宣伝費 「宣伝費」は回復基調へ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高に占める宣伝費の割合が5％以上の企業は3,513社で、全体の1.3％にとどまる",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "だが、結婚式場業は約7割（66.6％）の企業が売上高の5％以上を広告宣伝費につぎ込む",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、エステティック業（47.6％）、クレジットカード業（41.6％）も半数近い企業が売上高の5％以上を宣伝費に投じている",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "宣伝費ゼロの企業を除いた1社あたりの平均宣伝費は、産業別トップは金融・保険業10億37万円、次いで情報通信業3億7,571万円、小売業1億5,209万円、製造業1億2,398万円と続き、上位4産業は平均1億円を超えた",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金別では、1億円以上が1.9％で、1億円未満の0.5％を1.4ポイント上回った",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1億円以上は、同1億円未満の企業と比較し、利益率が高い企業が多く、資金的余裕から宣伝費を多く使える企業が多いことが要因とみられる",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "【業種別宣伝費状況ランキング】職業紹介業と化粧品小売業は売上高の約2割が宣伝費",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の日本の総広告費は8兆623億円（前年比105.1%）と4年連続で過去最高を更新しました（電通「2025年 日本の広告費」）",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "全業種平均は売上高の1.3%ですが、化粧品や人材紹介では20%近くに達する業種もあります",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "電通が2026年3月に発表した「2025年 日本の広告費」によると、日本の総広告費は8兆623億円に達しました",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "注目すべきは、インターネット広告費が4兆459億円（前年比110.8%）と初めて4兆円を超え、総広告費の50.2%を占めた点です",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "テレビを含むマスコミ四媒体は2兆2,980億円（前年比98.4%）と微減が続いています",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "4兆459億円",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "1兆7,556億円",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "4,778億円",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "5,424億円",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "1兆2,406億円",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   }
+  ],
+  "広告宣伝費・販管費": [
+   {
+    "quote": "② 費用総額(売上原価＋販売費及び一般管理費) 0,000",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "費用総額（売上原価＋販売費及び一般管理費）",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純付加価値額＝売上高－（費用総額（売上原価＋販売費及び一般管理費））＋給与総額＋租税公課",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全産業における設備投資額売上高比率（売上高に対する設備投資額の割合）は3.5％とな",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別に設備投資額売上高比率をみると、「電気・ガス・熱供給・水道業」が10.9％",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－13 産業大分類別設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「売上高」、「設備投資額」及び「設備投資額売上高比率」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図Ⅱ－11 産業大分類別設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「設備投資額売上高比率」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類 売上高 設備投資額 設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 費用総額（売上原価＋販売費及び一般管理費）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「売上原価」、「販売費及び一般管理費」それぞれに計上された",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高、売上原価、販売費及び一般管理費、営業利益、営業外収益、営業外費用、経",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "営業収益、金融費用、販売費及び一般管理費、営業利益、営業外収益、営業外費用、",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "営業収益、営業費用、販売費及び一般管理費、営業利益、営業外収益、営業外費用、",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "合計、受取手形割引残高、売上高、売上原価、販売費及び一般管理費、営業利益、受取",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "販売費及び一般管理費、営業利益、営業外収益、営業外費用（支払利息等、その他の営",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品小売、職業紹介は売上高の約2割が宣伝費 「宣伝費」は回復基調へ | TSRデータインサイト | 東京商工リサーチ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品小売、職業紹介は売上高の約2割が宣伝費 「宣伝費」は回復基調へ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業の広告や販売促進に使われる宣伝費が、2023年度は2兆9,174億2,700万円（前期比11.6％増）と前年度を上回ったことがわかった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度まで5年連続で宣伝費（広告宣伝費+販売促進費）の推移が判明した14万8,090社を対象に集計した",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "なかでも、医薬品製剤製造業が3,820億8,600万円（前期比43.5％増）、ポータルサイト・サーバ運営業が1,598億5,100万円（同51.5％増）と急回復し、宣伝費総額を押し上げた",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度の産業別の宣伝費は、トップが製造業の1兆164億4,100万円（前期比19.8％増）で、全体の3割超（34.8％）を占めた",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信業、建設業などがけん引し、宣伝費は全体では増加に転じたが、運輸業、金融・保険業、製造業は2019年度から2割以上落ち込み、回復が鈍い",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "1社あたりの平均宣伝費は、金融・保険業が10億37万円（前期比0.9％増）で突出した",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、2023年単年度の宣伝費用が判明した26万5,253社では、売上に対する宣伝費の割合は金融・保険業が8.2％でトップだった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高に占める宣伝費の割合が5％以上の企業は3,513社で、全体の1.3％にとどまる",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "だが、結婚式場業は約7割（66.6％）の企業が売上高の5％以上を広告宣伝費につぎ込む",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、エステティック業（47.6％）、クレジットカード業（41.6％）も半数近い企業が売上高の5％以上を宣伝費に投じている",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界別広告費比較2026｜EC・SaaS・飲食の目安 | GrantNavi",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "業界別広告費比較2026｜EC・SaaS・飲食の目安",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "「うちの広告費は多すぎるのか、少なすぎるのか」――",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の日本の総広告費は8兆623億円（前年比105.1%）と4年連続で過去最高を更新しました（電通「2025年 日本の広告費」）",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、適正な広告費は業界によって大きく異なります",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、公的統計と上場企業の実績データをもとに、業界別の広告費比率を一覧で整理し、中小企業が自社の広告予算を見直すための考え方を解説します",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "電通が2026年3月に発表した「2025年 日本の広告費」によると、日本の総広告費は8兆623億円に達しました",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "注目すべきは、インターネット広告費が4兆459億円（前年比110.8%）と初めて4兆円を超え、総広告費の50.2%を占めた点です",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "電通 (2026) 2025年 日本の広告費",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工リサーチが上場企業・大企業の決算データを集計した調査（2023年度実績）によると、全業種平均の売上宣伝費比率は",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工リサーチ (2024) TSRデータインサイト",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "金融・保険業が8.2%と突出して高いのは、クレジットカードや保険商品の新規顧客獲得にかかる広告費が大きいためです",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "業種別・業界別広告宣伝費（販促費）の売上比率・割合の平均は？最適な広告予算を立てよう | 販促の大学で広告・マーケティング・経営を学ぶ",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別・業界別広告宣伝費（販促費）の売上比率・割合の平均は？最適な広告予算を立てよう",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "業種・業界の一般的な売上に対する広告宣伝費（",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費（販売促進費）は、自社の商品・サービスの売上をあげるために必要不可欠なコストであることは、販促担当の方なら誰でもご存知のはずです",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで今回は、広告宣伝費（販売促進費）の割合と、最も簡単な広告予算の立て方についても、業種を考慮しながらご説明しますので、ぜひご参考にしてください",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費（販売促進費）とは？ その種類は？",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費（販売促進費）の予算の立て方とは？",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "売上に対する広告宣伝費（販売促進費）の比率・割合",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費（販売促進費）の費用対効果を高める4つの方法",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費（販売促進費）の予算を立てる際の注意点",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費（販売促進費）とは、端的に言うと売り手側がその業界で積極的にブランドイメージを構築し、商品の価値を消費者にわかりやすく伝えるためのコストのことです",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、お客様に商品・サービスの魅力を訴える際の費用（コスト）が広告宣伝費（販売促進費）です",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費は売上・費用の何%か｜業種別の割合（最高11.6%）と上場企業の中央値",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "費用に占める広告宣伝費の割合は、クレジットカード業、割賦金融業（",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業・建設業を除く、サービス・小売・金融など74の事業区分で、法人の広告宣伝費は約9.3兆円（2024年）と推計されます（主な企業の割合を法人全体の費用に当てはめた参考値）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "電通「日本の広告費」とは数え方が違い、日本の広告費全体の話ではありません",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費は費用・売上の何パーセントか（業種別の目安）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "費用に占める広告宣伝費の割合が高い事業区分（各区分の主な企業）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   }
+  ],
+  "資本金1億円以上の企業": [
+   {
+    "quote": "（３）資本金階級別の状況（会社企業に関する集計）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社企業について、資本金階級別に企業数をみると、「資本金1000万円未満」が103万",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6076企業（資本金階級別の合計に占める割合は59.3％） と最も多く、次いで 「資本金1000",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－３ 資本金階級別会社企業数、売上高及び純付加価値額",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図Ⅱ－２ 資本金階級別会社企業数、売上高及び純付加価値額の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（４）資本金階級別設備投資額の状況（会社企業に関する集計）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社企業について、資本金階級別に設備投資額をみると、「資本金１億円以上」が38兆4951",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億円（資本金階級別の合計に占める割合は76.2％）と最も多く、次いで「資本金3000万円",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－14 資本金階級別会社企業数及び設備投資額",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図Ⅱ－12 資本金階級別会社企業数及び設備投資額の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査の目的等（法人企業統計調査） : 財務総合政策研究所",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査は、統計法に基づく基幹統計調査として「法人企業統計調査規則」（昭和45年大蔵省令第48号）に基づいて行うもので、その目的は、我が国における法人の企業活動の実態を明らかにし、あわせて法人を対象とする各種統計調査のための基礎となる法人名簿を整備することです",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査は、営利法人等を対象とする標本調査です（四半期別調査は資本金、出資金又は基金（以下、資本金という）1,000万円以上）",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1億円以上は全数抽出します",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "pass": 3
+   },
+   {
+    "quote": "本調査は、法人企業統計を作成するために行なう調査であり、わが国における法人の企業活動の実態を明",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "企業統計調査には、年度ごとに法人の確定決算の計数を調査する年次別法人企業統計調査（以下、 「年",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "）及び四半期ごとに法人の仮決算の計数を調査する四半期別法人企業統計調査（以下、",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査による法人名簿、その他財務省の資料を母集団情報とし、３（２）の属性的範囲の法",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "８ 集計事項（詳細は、別添３「法人企業統計調査集計事項一覧」を参照）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象の範囲の画定及び集計項目の表章の際に、日本標準産業分類に準拠して作成した法人企業統計調査",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査による法人名簿その他財務省の資料による全国の金融業、保険業を除く営利",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査による法人名簿その他財務省の資料による全国の金融業、保険業を営む法人",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "法人数を資本金階級別にみると、資本金1,000万円未満の法人が128万68社で、51.9%を占めている",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "これに対し、資本金10億円以上の法人は6,330社で、わずか0.3%にすぎない（第1表及び第2表参照)",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "また、資本金階級別の法人数の構成割合を平成4年分と比較してみると、資本金1,000万円未満の階級では74.1%から51.9%に大幅な減少となっており、一方、資本金1,000万円以上1億円未満の階級では24.5%から46.6%に大幅な増加となっている",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "第1表 資本金階級別法人数の累年比較",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "第2表 資本金階級別法人数の構成割合",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、資本金階級別に業種別の法人数をみると、資本金1,000万円未満は建設業(18.9%)、小売業(18.2%)、サービス業(17.7%)の占める割合が大きく、資本金10億円以上では機械工業(12.8%)、サービス業(11.8%)、卸売業(10.0%)の占める割合が大きくなっている（第3表参照)",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "第3表 業種別、資本金階級別法人数",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "第4表 組織別、資本金階級別法人数",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査 時系列データ 時系列データ 2 全産業(金融業、保険業を含む)(原数値) 四半期 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査は、わが国における営利法人等の企業活動の実態を把握するため、標本調査として実施されている統計法に基づく基幹統計調査です",
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1億円以上は、同1億円未満の企業と比較し、利益率が高い企業が多く、資金的余裕から宣伝費を多く使える企業が多いことが要因とみられる",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工リサーチが上場企業・大企業の決算データを集計した調査（2023年度実績）によると、全業種平均の売上宣伝費比率は",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "業種平均と比べると低い水準の企業が多い一方で、限られた予算だからこそ「どこに使うか」の選択が大企業以上に重要になります",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "甲調査及び乙調査とも2021年６月１日を調査日として実施している",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の企業等（※２）の数は368万4049企業、民営事業所数（以下「事業所数」",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年） 【参考】2016年（平成28年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【参考】2016年（平成28年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（ 令和３年） 【参考】 2016年（平成28年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注３：調査事項の変更に伴い、雇用者の内訳が異なるため、2016年の数値は表章していない（利用上の注意",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【参考】2016年",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 2016年以降に開設された事業所の数は、62万2850事業所となっている",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別に2016年以降に開設された事業所の数をみると、「卸売業，小売業」が",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 産業大分類別に、産業ご との事業所数に占める2016年以降に開設された事業所数の",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年（平成27年）以前 2016年（平成28年）以降",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 6月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "平成9年分の法人数は246万5,347社で、前年より2万9,598社(1.2%)増加した",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "また、資本金階級別の法人数の構成割合を平成4年分と比較してみると、資本金1,000万円未満の階級では74.1%から51.9%に大幅な減少となっており、一方、資本金1,000万円以上1億円未満の階級では24.5%から46.6%に大幅な増加となっている",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2026年 4～6月期",
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "pass": 3
+   },
+   {
+    "quote": "2016年1 - 3 月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "pass": 3
+   },
+   {
+    "quote": "2016年4 - 6 月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "pass": 3
+   },
+   {
+    "quote": "2016年7 - 9 月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "pass": 3
+   },
+   {
+    "quote": "2016年10-12月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "pass": 3
+   },
+   {
+    "quote": "2021年1 - 3 月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "pass": 3
+   },
+   {
+    "quote": "2021年4 - 6 月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "pass": 3
+   },
+   {
+    "quote": "2021年7 - 9 月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "pass": 3
+   },
+   {
+    "quote": "2021年10 - 12 月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1 - 3 月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4 - 6 月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度まで5年連続で宣伝費（広告宣伝費+販売促進費）の推移が判明した14万8,090社を対象に集計した",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信業、建設業などがけん引し、宣伝費は全体では増加に転じたが、運輸業、金融・保険業、製造業は2019年度から2割以上落ち込み、回復が鈍い",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度は2兆9,174億2,700万円（前期比11.6％増）と増加に転じた",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "5年間の推移では、農・林・漁・鉱業、建設業、卸売業、情報通信業の4産業は、落ち込んだ宣伝費が回復し、2023年度はコロナ禍前の2019年度を上回った",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、宣伝費の回復が鈍い産業は運輸業（2019年度比85.2％減）、金融・保険業（同34.8％減）、製造業（同28.6％減）で、2019年度から2割以上落ち込んで推移している",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度（1.2％）から0.1ポイント上昇したが、コロナ禍前の2019年度（1.6％）を0.3ポイント下回り、低水準で推移している",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月-9月に倒産した病院・クリニック（診療所）・歯科医院などの「医療機関」は59件（前年同期比28.2％増）と、過去最多を更新した",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "TSR「2026年メインバンク」調査で、「滋賀銀行」（滋賀県：メインバンク取引社数1万799社、金融G取引社数順位27位）と、「池田泉州銀行」（大阪市：同9,085社、同37位）を傘下に持つ池田泉州ホールディングスの2行が経営統合を検討していることを発表した",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "電通が2026年3月に発表した「2025年 日本の広告費」によると、日本の総広告費は8兆623億円に達しました",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "チラシ・ポイント還元中心だが、EC化でネット広告が増加",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "「目標売上の増加額 × 獲得コスト率 ＝ 広告予算」として決める方法です",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "中国DeepSeekが2026年10月17日に公開したDeepSeek-V4.1-Flash-1017について、前版からの変更点、ベンチマーク、API料金を公式発表から整理します",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "イーロン・マスク氏は2026年9月29日、ホワイトハウスで「最も可能性が高いのは豊かさの時代で、全員が高所得になる」と語りました",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "数字の推移、語りたくなる作りの効用、特典の副作用を整理し、中小企業が来店動機を設計するときの判断材料にします",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、広告宣伝をしなくては、売上を大きくあげることは難しく、現状維持もしくは減少していく可能性も出てきます",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度は、多くの企業が広告宣伝費を減少させる傾向にありました",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、ソニーグループにおいては、2020年度と2021年度の広告宣伝費を比べると、約1,000億円もマイナスになっています",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、任天堂は広告宣伝費を増加させていました",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "任天堂が広告宣伝費を増加させたのは、巣ごもり需要が追い風となったためです",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "反対に、ソニーグループや日産自動車など、アウトドアが軸になっている会社は広告宣伝費を減少させていました",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、2024年度は多くの企業が再度広告宣伝費を増加させている傾向にあります",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度には広告宣伝費を減少させたソニーグループですが、2023年3月期には3911億円、2024年3月期には4227億円と、広告宣伝費を増加させています",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、2021年度と比べると依然として宣伝広告費は減少傾向です",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "日産自動車を例にすると、2021年度の広告比率が2.96％だったのに対し、2024年度は2.5%です",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、あくまで比率が下がっているだけであり、広告宣伝費自体は増加傾向にあります",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "※コロナ禍との違いを比較できるように2021年度と比較",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "媒体別の広告費の推移（広告会社の売上高、テレビ・新聞・雑誌・ラジオ・インターネット）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "広告会社の売上高のうちインターネット広告の推移",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年：6,497億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年：13,722億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年：15,440億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年：13,699億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "数値および引用は、2026年10月2日時点で確認できた内容です",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年10月4日 16:53",
+    "url": "https://note.com/aikamiyazawa/n/nc96863650806",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "法人企業統計 調査 時系列データ 時系列データ 2 全産業( 金融業 — 法人企業統計 調査 時系列データ 時系列データ 2 全産業( 金融業 政府統計の総合窓口 https://www.e-stat.go.jp > stat-search > database > second2...",
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "金融業界 ってどう違う？6つの業態から見る - note 金融業界 ってどう違う？6つの業態から見る - note note https://note.com > キャリア > キャリア戦略",
+    "url": "https://note.com/gmf_plus/n/n338ccb9cc14f",
+    "pass": 3
+   },
+   {
+    "quote": "改正 保険 業法により可能となった 保険 会社グループのビジネス ... 改正 保険 業法により可能となった 保険 会社グループのビジネス ... note https://note.com > インタビュー・対談 > インタビュー・対談",
+    "url": "https://note.com/aikamiyazawa/n/nc96863650806",
+    "pass": 3
+   },
+   {
+    "quote": "金融業界 の人気・新着記事まとめ - note 金融業界 の人気・新着記事まとめ - note note https://note.com > tag > 金融業界",
+    "url": "https://note.com/tag/%E9%87%91%E8%9E%8D%E6%A5%AD%E7%95%8C",
+    "pass": 3
+   },
+   {
+    "quote": "AIが変える 金融業界 。銀行・証券・ 保険 の仕事はどうなるのか？ AIが変える 金融業界 。銀行・証券・ 保険 の仕事はどうなるのか？ note https://note.com > 相沢 理人",
+    "url": "https://note.com/rihitoaizawa_qn/n/n8d1b0d5dbb5a",
+    "pass": 3
+   },
+   {
+    "quote": "【 保険業界 ⇒システムエンジニア⇒スタートアップ起業 ... - note 【 保険業界 ⇒システムエンジニア⇒スタートアップ起業 ... - note note https://note.com > キャリア > 起業・独立",
+    "url": "https://note.com/hokenbo/n/nbe740e1504a2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "金融業界ってどう違う？6つの業態から見る、自分に合ったキャリアの探し方｜GMF plus",
+    "url": "https://note.com/gmf_plus/n/n338ccb9cc14f",
+    "pass": 3
+   },
+   {
+    "quote": "金融業界ってどう違う？6つの業態から見る、自分に合ったキャリアの探し方",
+    "url": "https://note.com/gmf_plus/n/n338ccb9cc14f",
+    "pass": 3
+   },
+   {
+    "quote": "「経済学部や商学部にいたから、金融を選んでみようかな」",
+    "url": "https://note.com/gmf_plus/n/n338ccb9cc14f",
+    "pass": 3
+   },
+   {
+    "quote": "そんな気持ちで業界研究を始めた人も多いかもしれません。",
+    "url": "https://note.com/gmf_plus/n/n338ccb9cc14f",
+    "pass": 3
+   },
+   {
+    "quote": "でも実は「金融」とひとくくりにしても、そこには6つの異なる業態があり、仕事内容や関わる相手もまったく違うのです。",
+    "url": "https://note.com/gmf_plus/n/n338ccb9cc14f",
+    "pass": 3
+   },
+   {
+    "quote": "特に金融業界の選考では、「なぜ銀行ではなく証券なのか？」「保険との違いは？」といった“業態の違い”に対する理解が問われることが多くあります。",
+    "url": "https://note.com/gmf_plus/n/n338ccb9cc14f",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、金融に興味がある方・まだよくわかっていない方に向けて、6つの金融業界についてわかりやすく解説していきます。",
+    "url": "https://note.com/gmf_plus/n/n338ccb9cc14f",
+    "pass": 3
+   },
+   {
+    "quote": "銀行は、みなさんの預金を預かり、それを元手に企業にお金を貸し出す「間接金融」の代表です。",
+    "url": "https://note.com/gmf_plus/n/n338ccb9cc14f",
+    "pass": 3
+   },
+   {
+    "quote": "改正保険業法により可能となった保険会社グループのビジネスモデル革新｜Aika Miyazawa",
+    "url": "https://note.com/aikamiyazawa/n/nc96863650806",
+    "pass": 3
+   },
+   {
+    "quote": "改正保険業法により可能となった保険会社グループのビジネスモデル革新",
+    "url": "https://note.com/aikamiyazawa/n/nc96863650806",
+    "pass": 3
+   },
+   {
+    "quote": "2021年5月に銀行法や保険業法など各法律の改正案が成立し、銀行や保険会社の業務範囲が拡大しました。業務範囲規制の緩和により、新しい事業やビジネスモデルの追求が可能となりました。そこで今回、森・濱田松本法律事務所パートナー弁護士の増島先生をお迎えし、「改正保険業法により可能となった保険会社のビジネスモデル革新」をテーマに、業務範囲の拡大状況、保険会社の今後のサービス、そして保険会社とスタートアップの協業可能性についてお話いただきました。",
+    "url": "https://note.com/aikamiyazawa/n/nc96863650806",
+    "pass": 3
+   },
+   {
+    "quote": "（本内容は2021年9月3日に開催した Summer / Fall 2021 Summit、Insurtech Batch 7 EXPO内で行われたKeynote Sessionの内容をもとに作成しています。）",
+    "url": "https://note.com/aikamiyazawa/n/nc96863650806",
+    "pass": 3
+   },
+   {
+    "quote": "森・濱田松本法律事務所パートナー弁護士 増島雅和 先生",
+    "url": "https://note.com/aikamiyazawa/n/nc96863650806",
+    "pass": 3
+   },
+   {
+    "quote": "2000年東京大学法学部卒業。2001年弁護士登録。2006年コロンビア大学ロースクール卒業、2006~07年Wilson Sonsini Goodrich & Rosati(Palo Alto)。2010~12年金融庁監督局保険課、銀行第一課出向。規制改革推進会議専門委員、革新的事業活動評価委員会委員、デジタル競争市場競争会議専門委員、シェアリングエコノミー検討会議委員等の政府委員を歴任。日本ベンチャーキャピタル協会顧問、日本暗号資産ビジネス協会顧問、ブロックチェーン推進協会アドバイザー",
+    "url": "https://note.com/aikamiyazawa/n/nc96863650806",
+    "pass": 3
+   },
+   {
+    "quote": "Plug and Play Japan株式会社 Insurtech Partner Success Associate 西山イサム",
+    "url": "https://note.com/aikamiyazawa/n/nc96863650806",
+    "pass": 3
+   },
+   {
+    "quote": "2021年5月に銀行法や保険業法など各法律の改正案が成立いたしました。増島先生からは法改正が保険会社にどのような影響を与えるのか、どのようなことができ、どのようなことをやっていくべきなのか、というところをご解説いただきます。",
+    "url": "https://note.com/aikamiyazawa/n/nc96863650806",
+    "pass": 3
+   },
+   {
+    "quote": "銀行や証券、保険といった多岐にわたる業態が、AI活用やデジタル化による構造変化の渦中にあります。",
+    "url": "https://note.com/tag/%E9%87%91%E8%9E%8D%E6%A5%AD%E7%95%8C",
+    "pass": 3
+   },
+   {
+    "quote": "就活・転職の戦略や、現場のリアルな働き方、資格取得の重要性に関する記事が集まっています。",
+    "url": "https://note.com/tag/%E9%87%91%E8%9E%8D%E6%A5%AD%E7%95%8C",
+    "pass": 3
+   },
+   {
+    "quote": "銀行や証券、保険といった多岐にわたる業態が、AI活用やデジタル化による構造変化…",
+    "url": "https://note.com/tag/%E9%87%91%E8%9E%8D%E6%A5%AD%E7%95%8C",
+    "pass": 3
+   },
+   {
+    "quote": "「クレヨンを買えない子どもたち」の現実を知った芸術大学の学生が、金融の世界を選んだ理由と苦悩したこと",
+    "url": "https://note.com/tag/%E9%87%91%E8%9E%8D%E6%A5%AD%E7%95%8C",
+    "pass": 3
+   },
+   {
+    "quote": "金融業界出身の行政書士がなぜ強いのか、納得の理由",
+    "url": "https://note.com/tag/%E9%87%91%E8%9E%8D%E6%A5%AD%E7%95%8C",
+    "pass": 3
+   },
+   {
+    "quote": "行政書士冨楽（ふらく）事務所｜フォローバック100%",
+    "url": "https://note.com/tag/%E9%87%91%E8%9E%8D%E6%A5%AD%E7%95%8C",
+    "pass": 3
+   },
+   {
+    "quote": "働きたくなくて、念願の寿退社をしたのに、今は仕事がしたくてたまらない。",
+    "url": "https://note.com/tag/%E9%87%91%E8%9E%8D%E6%A5%AD%E7%95%8C",
+    "pass": 3
+   },
+   {
+    "quote": "AIが変える金融業界。銀行・証券・保険の仕事はどうなるのか？ 〜2026年、金融のプロに求められる価値が変わり始めている〜｜相沢 理人",
+    "url": "https://note.com/rihitoaizawa_qn/n/n8d1b0d5dbb5a",
+    "pass": 3
+   },
+   {
+    "quote": "AIが変える金融業界。銀行・証券・保険の仕事はどうなるのか？ 〜2026年、金融のプロに求められる価値が変わり始めている〜",
+    "url": "https://note.com/rihitoaizawa_qn/n/n8d1b0d5dbb5a",
+    "pass": 3
+   },
+   {
+    "quote": "これらの仕事は、10年後も今と同じ形で存在しているのでしょうか。",
+    "url": "https://note.com/rihitoaizawa_qn/n/n8d1b0d5dbb5a",
+    "pass": 3
+   },
+   {
+    "quote": "AIの進化によって、私たちの働き方は急速に変わり始めています。",
+    "url": "https://note.com/rihitoaizawa_qn/n/n8d1b0d5dbb5a",
+    "pass": 3
+   },
+   {
+    "quote": "中でも、私が特に注目しているのが金融業界です。",
+    "url": "https://note.com/rihitoaizawa_qn/n/n8d1b0d5dbb5a",
+    "pass": 3
+   },
+   {
+    "quote": "金融業界は、膨大な情報を扱い、複雑なルールのもとで商品やサービスを提供する業界です。",
+    "url": "https://note.com/rihitoaizawa_qn/n/n8d1b0d5dbb5a",
+    "pass": 3
+   },
+   {
+    "quote": "これまで専門家にしかできなかった情報収集、比較分析、資料作成などを、AIが支援できるようになってきました。",
+    "url": "https://note.com/rihitoaizawa_qn/n/n8d1b0d5dbb5a",
+    "pass": 3
+   },
+   {
+    "quote": "私は10年以上、生命保険営業の仕事に携わってきました。",
+    "url": "https://note.com/rihitoaizawa_qn/n/n8d1b0d5dbb5a",
+    "pass": 3
+   },
+   {
+    "quote": "【保険業界⇒システムエンジニア⇒スタートアップ起業】プレーヤーの少ないレガシー業界で２０代の凡人がなぜ起業したのか｜井藤健太【保険簿のCEO】",
+    "url": "https://note.com/hokenbo/n/nbe740e1504a2",
+    "pass": 3
+   },
+   {
+    "quote": "【保険業界⇒システムエンジニア⇒スタートアップ起業】プレーヤーの少ないレガシー業界で２０代の凡人がなぜ起業したのか",
+    "url": "https://note.com/hokenbo/n/nbe740e1504a2",
+    "pass": 3
+   },
+   {
+    "quote": "起業の背景のご質問をいただくことが増えたので、お話させていただきます。",
+    "url": "https://note.com/hokenbo/n/nbe740e1504a2",
+    "pass": 3
+   },
+   {
+    "quote": "１９８９年生まれ／兵庫県尼崎市出身／関西学院大学商学部卒",
+    "url": "https://note.com/hokenbo/n/nbe740e1504a2",
+    "pass": 3
+   },
+   {
+    "quote": "保険乗合代理店、保険会社、ＳＩ企業を経て２０１８年１０月に株式会社IBを創業",
+    "url": "https://note.com/hokenbo/n/nbe740e1504a2",
+    "pass": 3
+   },
+   {
+    "quote": "「起業」が人生の選択肢に出てきたのは、社会人になってから",
+    "url": "https://note.com/hokenbo/n/nbe740e1504a2",
+    "pass": 3
+   },
+   {
+    "quote": "加入保険情報の一元管理ツール「保険簿」の構想は大学時代",
+    "url": "https://note.com/hokenbo/n/nbe740e1504a2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "金融業 ・ 保険業 の「平均年収」はいくら？ 年代別の推移を紹介 金融業 ・ 保険業 の「平均年収」はいくら？ 年代別の推移を紹介 X https://x.com > @allabout_news",
+    "url": "https://x.com/allabout_news/status/2102286237549859281",
+    "pass": 3
+   },
+   {
+    "quote": "金融 庁 on X: \" 金融 審議会「損害 保険業 等に関する制度等 ... 金融 庁 on X: \" 金融 審議会「損害 保険業 等に関する制度等 ... X https://x.com > @fsa_JAPAN",
+    "url": "https://x.com/fsa_JAPAN/status/1871825396473446445",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "金融業 ・ 保険業 に効く！初夏の課題 『伝わる提案づくり ... 金融業 ・ 保険業 に効く！初夏の課題 『伝わる提案づくり ... Facebook https://www.facebook.com > infinimum > posts > 金融業...",
+    "url": "https://www.facebook.com/infinimum/posts/%E9%87%91%E8%9E%8D%E6%A5%AD%E4%BF%9D%E9%99%BA%E6%A5%AD%E3%81%AB%E5%8A%B9%E3%81%8F%E5%88%9D%E5%A4%8F%E3%81%AE%E8%AA%B2%E9%A1%8C%E4%BC%9D%E3%82%8F%E3%82%8B%E6%8F%90%E6%A1%88%E3%81%A5%E3%81%8F%E3%82%8A-%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E6%94%AF%E6%8F%B4%E3%81%8C%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A7%E3%82%82%E7%8F%BE%E5%A0%B4%E3%81%8B%E3%82%89%E3%81%AF%E6%8F%90%E6%A1%88%E8%B3%87%E6%96%99%E3%81%8C%E4%BC%9D%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E5%B0%82%E9%96%80%E7%94%A8%E8%AA%9E%E3%81%8C%E9%9F%BF%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A8%E3%81%84%E3%81%A3%E3%81%9F%E5%A3%B0%E3%81%8C%E5%A4%9A%E3%81%84%E3%82%82%E3%81%AE%E9%AB%98%E9%BD%A2%E3%81%AE%E4%BA%8B%E6%A5%AD%E8%80%85%E3%81%95%E3%82%93%E3%82%84/1258645859602337/",
+    "pass": 3
+   },
+   {
+    "quote": "金融保険業 - Početna stranica | Facebook 金融保険業 - Početna stranica | Facebook Facebook https://www.facebook.com > pages > 金融保険業",
+    "url": "https://www.facebook.com/pages/%E9%87%91%E8%9E%8D%E4%BF%9D%E9%99%BA%E6%A5%AD/257717767691154?locale=bs_BA",
+    "pass": 3
+   },
+   {
+    "quote": "金融保険業 - Halaman Utama | Facebook 金融保険業 - Halaman Utama | Facebook Facebook https://www.facebook.com > pages > 金融保険業",
+    "url": "https://www.facebook.com/pages/%E9%87%91%E8%9E%8D%E4%BF%9D%E9%99%BA%E6%A5%AD/257717767691154?locale=ms_MY",
+    "pass": 3
+   },
+   {
+    "quote": "金融保険業 - Startseite | Facebook 金融保険業 - Startseite | Facebook Facebook https://www.facebook.com > pages > 金融保険業",
+    "url": "https://www.facebook.com/pages/%E9%87%91%E8%9E%8D%E4%BF%9D%E9%99%BA%E6%A5%AD/257717767691154?locale=de_DE",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/index-2.html",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://faq-e-census-st.dga.jp/faq_detail.html?id=345&page=1000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134141",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dentsu.co.jp/knowledge/ad_cost/2024/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004006340",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gmf_plus/n/n338ccb9cc14f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aikamiyazawa/n/nc96863650806",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/allabout_news/status/2102286237549859281",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fsa_JAPAN/status/1871825396473446445",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/infinimum/posts/%E9%87%91%E8%9E%8D%E6%A5%AD%E4%BF%9D%E9%99%BA%E6%A5%AD%E3%81%AB%E5%8A%B9%E3%81%8F%E5%88%9D%E5%A4%8F%E3%81%AE%E8%AA%B2%E9%A1%8C%E4%BC%9D%E3%82%8F%E3%82%8B%E6%8F%90%E6%A1%88%E3%81%A5%E3%81%8F%E3%82%8A-%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E6%94%AF%E6%8F%B4%E3%81%8C%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A7%E3%82%82%E7%8F%BE%E5%A0%B4%E3%81%8B%E3%82%89%E3%81%AF%E6%8F%90%E6%A1%88%E8%B3%87%E6%96%99%E3%81%8C%E4%BC%9D%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E5%B0%82%E9%96%80%E7%94%A8%E8%AA%9E%E3%81%8C%E9%9F%BF%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A8%E3%81%84%E3%81%A3%E3%81%9F%E5%A3%B0%E3%81%8C%E5%A4%9A%E3%81%84%E3%82%82%E3%81%AE%E9%AB%98%E9%BD%A2%E3%81%AE%E4%BA%8B%E6%A5%AD%E8%80%85%E3%81%95%E3%82%93%E3%82%84/1258645859602337/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E9%87%91%E8%9E%8D%E4%BF%9D%E9%99%BA%E6%A5%AD/257717767691154?locale=bs_BA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E9%87%91%E8%9E%8D%E4%BF%9D%E9%99%BA%E6%A5%AD/257717767691154?locale=ms_MY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E9%87%91%E8%9E%8D%E4%BF%9D%E9%99%BA%E6%A5%AD/257717767691154?locale=de_DE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tag/%E9%87%91%E8%9E%8D%E6%A5%AD%E7%95%8C",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rihitoaizawa_qn/n/n8d1b0d5dbb5a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hokenbo/n/nbe740e1504a2",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済センサス 活動調査 金融業・保険業 企業数 売上（収入）金額",
+   "results": [
+    "https://www.e-census2026.go.jp/document/pdf/howto_12.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "https://faq-e-census-st.dga.jp/faq_detail.html?id=345&page=1000",
+    "https://www.city.kagoshima.lg.jp/soumu/soumu/soumu/shise/toke-02/kekka/h24census/documents/r3keisen_b3_002_1.pdf",
+    "https://www.e-census-st.go.jp/download/data/Census8_09_Dir.pdf",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/28campaign/answer/pdf/07.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334"
+   ]
+  },
+  {
+   "query": "経済センサス 2021 産業大分類 金融業・保険業 従業者数",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134141",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10000.htm",
+    "https://www.e-census-st.go.jp/bunrui/",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "https://www.stat.go.jp/data/e-census/2021/index.html"
+   ]
+  },
+  {
+   "query": "法人企業統計 金融業・保険業 資本金1億円以上 社数",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "https://www.cao.go.jp/zei-cho/history/1996-2009/etc/1999/zei_d_09c.html",
+    "https://www.indb.co.jp/insight_cat/all/",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "https://lfb.mof.go.jp/tokai/soumu/pagetokaihp007000045.html",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm"
+   ]
+  },
+  {
+   "query": "金融業・保険業 広告宣伝費 売上高比率 業種別",
+   "results": [
+    "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "https://lumierre.jp/research/market/ad-spend/",
+    "https://www.dentsu.co.jp/knowledge/ad_cost/2024/business.html",
+    "https://www.nikkei-koken.gr.jp/publication/6556/",
+    "https://keiei.freee.co.jp/articles/p0100160",
+    "https://www.tsuhan-marketing.com/blog/marketing/adcosts_suitableline",
+    "https://kotouri.com/marketing/ad/budget",
+    "https://news.dellows.jp/459745/"
+   ]
+  },
+  {
+   "query": "e-Stat 経済センサス 金融業・保険業 付加価値額",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0004006340",
+    "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001095895&lid=000001120635&statdisp_id=0003389366",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&query=019020026&statdisp_id=0004003964"
+   ]
+  },
+  {
+   "query": "site:note.com 金融業・保険業",
+   "results": [
+    "https://note.com/gmf_plus/n/n338ccb9cc14f",
+    "https://note.com/aikamiyazawa/n/nc96863650806",
+    "https://note.com/hokendairitenlaw/n/n638f1226308d",
+    "https://note.com/miuraandpartners/n/n5eafb6af584d",
+    "https://note.com/tag/%E4%BF%9D%E9%99%BA%E6%A5%AD",
+    "https://note.com/ogawa_tech/n/n3a12ff1e8506",
+    "https://note.com/jictech_navi/n/n6711a2544d43",
+    "https://note.com/1998office_knet/n/n3ef9fc7a22b4",
+    "https://note.com/hirotsuchida/n/n5c910728f347",
+    "https://note.com/law_y_imoto/n/nb2c72424b84d"
+   ]
+  },
+  {
+   "query": "site:x.com 金融業・保険業",
+   "results": [
+    "https://x.com/allabout_news/status/2102286237549859281",
+    "https://x.com/fsa_JAPAN/status/1921838914202915118",
+    "https://x.com/fsa_JAPAN/status/1871825396473446445",
+    "https://x.com/fsa_JAPAN/status/1867171140583776750?lang=ar",
+    "https://x.com/fsa_JAPAN/status/1849001506135318904",
+    "https://x.com/fsa_JAPAN/status/1867186696238104999",
+    "https://x.com/fsa_JAPAN",
+    "https://x.com/fsa_JAPAN/status/1862061770447413309",
+    "https://x.com/fsa_JAPAN/status/1885161083582747070",
+    "https://x.com/frechet_ai/status/2105227055248081084"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金融業・保険業",
+   "results": [
+    "https://jp.linkedin.com/company/liberty-mutual-insurance/life",
+    "https://jp.linkedin.com/company/western-&-southern-financial-group/life/7cb960a7-f193-4d00-9aac-edf625ee3c38",
+    "https://jp.linkedin.com/company/liberty-mutual-insurance/life/b1a1cf11-114f-4600-a98f-5e45fc6d0903?trk=org-guest_content-selector-option",
+    "https://jp.linkedin.com/company/farmers-insurance/life/eaca96e4-17e0-42b4-b770-f92535e1b49e?trk=org-guest_content-selector-option",
+    "https://jp.linkedin.com/showcase/itc-asia-japan/",
+    "https://jp.linkedin.com/company/markel-insurance?trk=products_details_guest_organization_name",
+    "https://jp.linkedin.com/company/liberty-mutual-insurance/life/f899eb4e-a98e-4b47-a865-86c607c799d3",
+    "https://jp.linkedin.com/company/aflac?trk=public_profile_experience-item_profile-section-card_image-click",
+    "https://jp.linkedin.com/company/lockton-companies",
+    "https://jp.linkedin.com/in/masayasu-chiaki-577727b8"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金融業・保険業",
+   "results": [
+    "https://www.facebook.com/infinimum/posts/%E9%87%91%E8%9E%8D%E6%A5%AD%E4%BF%9D%E9%99%BA%E6%A5%AD%E3%81%AB%E5%8A%B9%E3%81%8F%E5%88%9D%E5%A4%8F%E3%81%AE%E8%AA%B2%E9%A1%8C%E4%BC%9D%E3%82%8F%E3%82%8B%E6%8F%90%E6%A1%88%E3%81%A5%E3%81%8F%E3%82%8A-%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E6%94%AF%E6%8F%B4%E3%81%8C%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A7%E3%82%82%E7%8F%BE%E5%A0%B4%E3%81%8B%E3%82%89%E3%81%AF%E6%8F%90%E6%A1%88%E8%B3%87%E6%96%99%E3%81%8C%E4%BC%9D%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E5%B0%82%E9%96%80%E7%94%A8%E8%AA%9E%E3%81%8C%E9%9F%BF%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A8%E3%81%84%E3%81%A3%E3%81%9F%E5%A3%B0%E3%81%8C%E5%A4%9A%E3%81%84%E3%82%82%E3%81%AE%E9%AB%98%E9%BD%A2%E3%81%AE%E4%BA%8B%E6%A5%AD%E8%80%85%E3%81%95%E3%82%93%E3%82%84/1258645859602337/",
+    "https://www.facebook.com/pages/%E9%87%91%E8%9E%8D%E4%BF%9D%E9%99%BA%E6%A5%AD/257717767691154?locale=bs_BA",
+    "https://www.facebook.com/pages/%E9%87%91%E8%9E%8D%E4%BF%9D%E9%99%BA%E6%A5%AD/257717767691154?locale=ms_MY",
+    "https://www.facebook.com/pages/%E9%87%91%E8%9E%8D%E4%BF%9D%E9%99%BA%E6%A5%AD/257717767691154?locale=de_DE",
+    "https://www.facebook.com/pages/%E9%87%91%E8%9E%8D%E4%BF%9D%E9%99%BA%E6%A5%AD/257717767691154?locale=ca_ES",
+    "https://www.facebook.com/pages/%E9%87%91%E8%9E%8D%E4%BF%9D%E9%99%BA%E6%A5%AD/257717767691154?locale=sq_AL",
+    "https://www.facebook.com/pages/%E9%87%91%E8%9E%8D%E4%BF%9D%E9%99%BA%E6%A5%AD/257717767691154?locale=sl_SI",
+    "https://www.facebook.com/pages/%E9%87%91%E8%9E%8D%E4%BF%9D%E9%99%BA%E6%A5%AD/257717767691154?locale=hu_HU",
+    "https://www.facebook.com/pages/%E9%87%91%E8%9E%8D%E4%BF%9D%E9%99%BA%E6%A5%AD/257717767691154?locale=en_GB",
+    "https://www.facebook.com/pages/%E9%87%91%E8%9E%8D%E4%BF%9D%E9%99%BA%E6%A5%AD/257717767691154?locale=et_EE"
+   ]
+  },
+  {
+   "query": "金融業・保険業 note 社長",
+   "results": [
+    "https://note.com/tag/%E9%87%91%E8%9E%8D%E6%A5%AD%E7%95%8C",
+    "https://note.com/rihitoaizawa_qn/n/n8d1b0d5dbb5a",
+    "https://note.com/hokenbo/n/nbe740e1504a2",
+    "https://www.zenginkyo.or.jp/fileadmin/res/abstract/efforts/contribution/compliance/guidance.pdf",
+    "https://note.trust-partner.co.jp/n/ne57112dc0bdb",
+    "https://note.com/shyuukatu_gy/n/n011aef670579",
+    "https://note.lifenet-seimei.co.jp/n/n9bda08cfa1e4",
+    "https://note.jp.pwc.com/n/n07424754ca2f",
+    "https://www.b-minded.com/news/infomation/949/",
+    "https://ja.wikipedia.org/wiki/小野尚"
+   ]
+  },
+  {
+   "query": "金融業・保険業 X 投稿",
+   "results": [
+    "https://faimake.co.jp/financial-institution-x/",
+    "https://x.com/fsa_JAPAN",
+    "https://www.fsa.go.jp/news/r7/hoken/20260330-3/20260330-3.html",
+    "https://www.youtube.com/watch?v=sHw7NkkiDTg",
+    "https://www.comnico.jp/we-love-social/influencer-kinyu",
+    "https://tatap.jp/knowledge/insurance-finance-sns/",
+    "https://sideinc.jp/blog/230727",
+    "https://www.sbbit.jp/article/fj/187489",
+    "https://www.youtube.com/watch?v=HCzS6FmWjPk",
+    "https://faimake.co.jp/financial-institution-sns-case/"
+   ]
+  },
+  {
+   "query": "finance insurance Japan census site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/tokyofintech_nippon-life-insurance-companys-tender-offer-activity-7417108093496422400-GfQp",
+    "https://www.linkedin.com/pulse/japan-short-term-health-insurance-market-ffpff",
+    "https://uk.linkedin.com/company/census-financial",
+    "https://www.linkedin.com/top-content/finance/emerging-market-investment-opportunities/untapped-insurance-market-opportunities-in-asia-2024/",
+    "https://www.linkedin.com/in/michael-mcbride-globalexecutive",
+    "https://www.linkedin.com/pulse/exposure-edition-12-japan-inc-quiet-takeover-global-specialty-gohil-p9b0e",
+    "https://www.linkedin.com/posts/financial-times_as-the-japanese-currency-hit-a-40-year-low-activity-7491390195431555072-FjTy",
+    "https://www.linkedin.com/in/minoru-kimura-369851204",
+    "https://www.linkedin.com/posts/uchikura_japans-challenge-is-not-population-its-activity-7467556918132318209-xIHh",
+    "https://www.linkedin.com/pulse/lessons-from-japan-land-rising-sun-theodora-lau"
+   ]
+  }
+ ],
+ "missing": {}
+}

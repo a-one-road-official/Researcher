@@ -1,0 +1,2081 @@
+{
+ "name": "建設業",
+ "en": "construction Japan census",
+ "aliases": [
+  "建設業",
+  "総合工事業",
+  "設備工事業",
+  "大分類D"
+ ],
+ "context": "大分類D",
+ "kind": "market",
+ "researched_at": "2026-11-05T11:45:35.583008+00:00",
+ "evidence": {
+  "企業数・事業所数": [
+   {
+    "quote": "統計局ホームページ/令和3年経済センサス‐活動調査 調査の結果",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス-活動調査 調査の結果",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査に関する地域メッシュ統計",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、全産業を対象とする「経済センサス-活動調査」の創設に伴い、平成24年、平成28年、令和３年は「経済センサス-活動調査」の『製造業』として調査を実施し、『製造業』の集計結果を公表しています",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成24年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 企業等に関する集計 産業別集計 建設業及びサービス関連産業Ａに関する集計 3-1 企業産業（小分類）別企業等数及び売上（収入）金額―全国 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107456&result_page=1&tclass4val=0&statdisp_id=0003206460",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107456&result_page=1&tclass4val=0&statdisp_id=0003206460",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 平成28年経済センサス‐活動調査 / 企業等に関する集計 産業別集計 建設業及びサービス関連産業Ａに関する集計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107456&result_page=1&tclass4val=0&statdisp_id=0003206460",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107456&result_page=1&tclass4val=0&statdisp_id=0003206460",
+    "pass": 3
+   },
+   {
+    "quote": "分類番号検索システム｜令和8年経済センサスｰ活動調査 実施事務局",
+    "url": "https://www.e-census-st.go.jp/bunrui/",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査の産業横断的集計「事業所に関する集計・企業等に関する集計」に関する結果を取りまとめました（METI/経済産業省）",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査の産業横断的集計「事業所に関する集計・企業等に関する集計」に関する結果を取りまとめました",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省及び総務省は、国内全ての事業所・企業を対象に、日本の全産業分野の売上（収入）金額や費用等の経理事項を同一時点で網羅的に把握する統計調査として、令和3年6月1日に実施した「令和3年経済センサス‐活動調査」の産業横断的集計結果を取りまとめました",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "1．経済センサス‐活動調査について",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年6月1日現在の民営事業所数は515万6063事業所、従業者数は5795万人となっています",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別に民営事業所数をみると、「卸売業，小売業」が122万8920事業所（全産業の23.8％）と最も多く、次いで「宿泊業，飲食サービス業」が59万9058事業所（同11.6％）、「建設業」が48万5135事業所（同9.4％）などとなっており、上位3産業で全産業の44.9％を占めています",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "表2 産業大分類別民営事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年経済センサス活動調査に基づく対象業者一覧｜全国商工団体連合会",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "2021年経済センサス活動調査に基づく対象業者一覧",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "本集計データは、『令和３年経済センサス‐活動調査』の結果を下記の方式で集計したものです",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "事業所に関する集計 ＞ 産業横断的集計 ＞ 事業所数、従業者数 ＞ 9-3表",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "２）C～Rのうち、従業員１～４⼈の事業所数の全体を抜き出す",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査結果（METI/経済産業省）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査結果",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "pass": 3
+   },
+   {
+    "quote": "・令和３年６月１日現在で実施した経済センサス‐活動調査の結果です",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年活動調査の集計体系及び公表時期一覧・各集計と産業分類の対象範囲(PDF:92KB)",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "経営組織(2区分)別全事業所数、男女別従業者数、1km2当たり事業所数及び従業者数－全国、都道府県、郡・支庁等、市区町村",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "経営組織(5区分)別全事業所数、男女別従業者数、1km2当たり事業所数及び従業者数－全国、都道府県、郡・支庁等、市区町村",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(8区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、従業上の地位(3区分)別事業所数、男女別従業者数及び民間からの従業者数（国及び地方公共団体）－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(5区分)、従業者規模(13区分)別全事業所数、男女別従業者数、常用雇用者数及び１事業所当たり従業者数－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(2区分)、従業者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、大都市、県庁所在市、人口30万以上市",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "産業(小分類)、経営組織(4区分)、単独・本所・支所、従業者規模(15区分)別民営事業所数、男女別従業者数及び常用雇用者数－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "～ 令和３年経済センサス ‐活動調査の結果から ～",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総務省は、令和３年６月１日に実施した令和３年経済センサス‐活動調査（以下「令",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 企業等数・事業所数・従業者数",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年６月１日現在の企業等の数は 368 万企業、民営事業所数（「以下「事業所",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、国・地方公共団体を含めると、事業所数は 529 万事業所、従業者数は 6243",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数をみると、 「卸売業，小売業」が 123 万事業所（全産業の23.8%）と最も",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：総務省・経済産業省「令和３年経済センサス‐ 活動調査」の調査票情報を独自集計したもの",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次回の活動調査は、令和８年の実施を予定しています",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 28,334事業所",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 47,242事業所",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "平成24年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "1km2当たり事業所数（事業内容等不詳を含む）",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "1km2当たり事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "796冠婚葬祭業 事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "79A葬儀業 事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "79B結婚式場業 事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業横断的集計2-2 産業（大分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―都道府県，市区町村 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業横断的集計",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   },
+   {
+    "quote": "産業（大分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―都道府県，市区町村",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   }
+  ],
+  "従業者数": [
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107456&result_page=1&tclass4val=0&statdisp_id=0003206460",
+    "pass": 3
+   },
+   {
+    "quote": "2021年6月1日現在の民営事業所数は515万6063事業所、従業者数は5795万人となっています",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "表2 産業大分類別民営事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」及び「従業者数」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所に関する集計 ＞ 産業横断的集計 ＞ 事業所数、従業者数 ＞ 9-3表",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "特性別、立地環境小分類（小売業・飲食サービス業・生活関連サービス業）別の事業所数、従業者数、売上（収入）金額及び売場面積",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "商業集積地区（商店街）の小売業・飲食サービス業・生活関連サービス業別、都道府県別、市区町村別の商店街数、事業所数、大規模小売店舗数、大規模小売店舗内事業所数、従業者数、売上（収入）金額及び売場面積",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業分類小分類別、企業の従業者規模別、卸売・小売企業数、卸売・小売事業所数、卸売・小売企業の従業者数、卸売・小売企業の商品売上原価、卸売・小売企業の年間商品販売額、卸売・小売企業の年初商品手持額及び卸売・小売企業の年末商品手持額",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "/ 事業所に関する集計 / 産業横断的集計 / 事業所数、従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "経営組織(2区分)別全事業所数、男女別従業者数、1km2当たり事業所数及び従業者数－全国、都道府県、郡・支庁等、市区町村",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "経営組織(5区分)別全事業所数、男女別従業者数、1km2当たり事業所数及び従業者数－全国、都道府県、郡・支庁等、市区町村",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(8区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(7区分)、従業上の地位(6区分)、男女別従業者数（民営事業所）－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、従業上の地位(3区分)別事業所数、男女別従業者数及び民間からの従業者数（国及び地方公共団体）－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(5区分)、従業者規模(13区分)別全事業所数、男女別従業者数、常用雇用者数及び１事業所当たり従業者数－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(2区分)、従業者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、大都市、県庁所在市、人口30万以上市",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(2区分)、従業者規模(9区分)、従業上の地位(6区分)、男女別従業者数－全国、都道府県、大都市、県庁所在市、人口30万以上市",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "建設業就業者数は建設投資の減少に伴い、1997年（685万人）をピークとして減少が続いており、2020年はピーク時比",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大手建設会社の従業者数は、2012年には10万人を割り込んだが、2014年以降は増加に転じ2020年には11.5万人を超",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）…労働生産性＝実質粗付加価値額（2015年価格）/（就業者数×年",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 企業等数・事業所数・従業者数",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）は 516 万事業所、従業者数は 5795 万人となっています",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、国・地方公共団体を含めると、事業所数は 529 万事業所、従業者数は 6243",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数をみると、「卸売業，小売業」が 1161 万人（全産業の 20.0%）と最も多",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別企業等数、事業所数、従業者数",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対象18社の売上・粗利・販売促進費・従業員数・主な事業の売上構成比も収録し、規模や事業タイプで絞り込めます",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 常用雇用者 正社員・正職員 総数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 常用雇用者 正社員・正職員以外 総数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 常用雇用者 正社員・正職員以外 男",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 常用雇用者 正社員・正職員以外 女",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 （再掲） うち他への出向・派遣従業者 総数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 （再掲） うち他への出向・派遣従業者 男",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 （再掲） うち他への出向・派遣従業者 女",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 うち常用雇用者 正社員・正職員以外(パート・アルバイトなど)",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 うち常用雇用者 正社員・正職員以外（パート・アルバイトなど）",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 うち常用雇用者 (再掲)パート・アルバイトなどの８時間換算雇用者数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 企業等に関する集計 産業別集計 建設業及びサービス関連産業Aに関する集計 2 企業産業（小分類）別企業等数，従業上の地位別従業者数，工事種類別完成工事高，元請完成工事高及び下請完成工事高―全国 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=20&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001063644&tclass3=000001064375&tclass4val=0&statdisp_id=0003094921",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 企業等に関する集計 産業別集計 建設業及びサービス関連産業Aに関する集計 2 企業産業（小分類）別企業等数，従業上の地位別従業者数，工事種類別完成工事高，元請完成工事高及び下請完成工事高―全国 | データベース | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=20&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001063644&tclass3=000001064375&tclass4val=0&statdisp_id=0003094921",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=20&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001063644&tclass3=000001064375&tclass4val=0&statdisp_id=0003094921",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業（小分類）別企業等数，従業上の地位別従業者数，工事種類別完成工事高，元請完成工事高及び下請完成工事高―全国",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=20&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001063644&tclass3=000001064375&tclass4val=0&statdisp_id=0003094921",
+    "pass": 3
+   },
+   {
+    "quote": "⑶ 「従業員数基準」導入がゼネコンに与える法務実務上の影響",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "今回の改正で追加された従業員数基準については、製造委託等では従業員300人超vs300人以下、情報・役務等では従業員100人超vs100人以下となります",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "資本金基準または従業員数基準のいずれかに該当すれば適用対象となります",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "今回の改正で導入される「従業員数基準」は、実質的な事業規模が大きいにもかかわらず、資本金を少額にとどめることで取適法の適用を免れる企業や、減資によって対象外となるケースを捕捉するために設けられました",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "次に、発注者において、受注者側の従業員数を把握する必要があります",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数は変動するため、決算期情報やヒアリングにより定期的に更新しなければなりません",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "従来、親事業者が下請事業者に増資を求め、資本金基準を超えさせることで法適用を回避する事例がありましたが、従業員数基準の導入により、この手法は無効化されます",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "取引開始時および年１回程度など、定期的に取引先に対して、「資本金額」ないし「従業員数(正社員・パート・アルバイト含む)」を確認する書面(またはＷｅｂ申告)を徴求し、社内データベースで管理することが推奨されます",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "Ｘ社は、マンション新築工事に使用するアルミサッシの製造を、Ｙ社に委託していますので、資材の製造委託に該当することから、取適法が適用されます（なお、資本金・従業員数の基準も満たしているものとします）",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "なお、Ｂ社らは、Ａ社から鋼材・仮設材・プレキャスト材当の製造委託・納入を受ける受託事業者であるものとし、取適法の資本金・従業員数要件も満たすものとします",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "委託内容は「建設工事の施工」か、「資材製造・設計・運送等」か、当事者の資本金・従業員数はどうかを確認します",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "実務対応としては、外注先の資本金・従業員数の確認、書面による仕様の明記・記録の保存、発注手続きにおける留保事項の整理が重要です",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の就業者数は1997年の685万人をピークに減少を続け、2024年末時点で約477万人まで落ち込んでいる",
+    "url": "https://note.com/katasumi_sakana/n/ne13875bf0b2a",
+    "pass": 3
+   }
+  ],
+  "売上（収入）金額・付加価値額": [
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 企業等に関する集計 産業別集計 建設業及びサービス関連産業Ａに関する集計 3-1 企業産業（小分類）別企業等数及び売上（収入）金額―全国 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107456&result_page=1&tclass4val=0&statdisp_id=0003206460",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省及び総務省は、国内全ての事業所・企業を対象に、日本の全産業分野の売上（収入）金額や費用等の経理事項を同一時点で網羅的に把握する統計調査として、令和3年6月1日に実施した「令和3年経済センサス‐活動調査」の産業横断的集計結果を取りまとめました",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年6月1日現在の企業等の数は368万4049企業、2020年の売上（収入）金額（以下「売上高」という",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "）は1693兆3126億円、純付加価値額は336兆2595億円となっています",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別に売上高をみると、「卸売業，小売業」が480兆1679億円（全産業の28.4％）と最も多く、次いで「製造業」が387兆606億円（同22.9％）、「医療，福祉」が173兆3369億円（同10.2％）などとなっており、上位3産業で全産業の61.5％を占めています",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "表1 産業大分類別企業等数、売上高及び純付加価値額",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "注2：「売上高」及び「純付加価値額」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "注3：本調査における純付加価値額は、以下の計算式を用いている",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "・（参考）全産業の事業所の売上（収入）金額に関する試算値 利用上の注意(PDF:138KB)",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業(小分類)、単一・複数(2区分)別法人数、売上（収入）金額及び建設・サービス収入の内訳－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業(大分類)、単一・複数(2区分)別法人数、売上（収入）金額及び建設・サービス収入の内訳－全国、都道府県",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "附表１ 産業分類、事業活動別売上高（企業等に関する集計）",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "附表２ 産業大分類、都道府県別売上高（事業所に関する集計）",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "附表３ 産業大分類、都道府県別付加価値額（事業所に関する集計）",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "下請完成工事高は1997年度（57.1兆円）をピークに減少が続いていたが、2010年度を底に増加に転じ、2019年度は",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "33.4兆円となった",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大手建設会社（日建連法人会員企業）の受注は、2004年度から４年間、13兆円台で推移した後、リーマンショックを契機",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "とした急激な景気悪化の影響で2008年度以降は大幅減となり、2010年度には9.3兆円とピーク時（1990年度 26.7兆",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〜16兆円台の受注額となっている",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益は、 ６年連続で１兆円を超え、営業利益および利益率は設備投資や堅調な公共投資により2015",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）…労働生産性＝実質粗付加価値額（2015年価格）/（就業者数×年",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の研究費は他産業に比べ少ないが、大手企業の中には年間約100億円の研究費を投じる企業もある",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年度には2兆円超と最高",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は1.1兆円と急減した",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "発注者別では、 2010年度以降民間工事の回復が顕著で2019年度には1.3兆円を超えたが、 2020年度には約８兆円と急減",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "原単位（t-CO２／億円）を2013年度比で2030〜2040年度の早い時期に40％削減を目指している",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円以上 1億円未満",
+    "url": "https://www.mlit.go.jp/totikensangyo/const/1_6_bt_000016.html",
+    "pass": 3
+   },
+   {
+    "quote": "これに対し、資本金10億円以上の法人は6,376社で、わずか0.3%にすぎない（第1表及び第2表参照)",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "また、資本金階級別の法人数の構成割合を平成5年分と比較してみると、資本金1,000万円未満の階級では71.7%から52.5%に大幅な減少となっており、一方、資本金1,000万円以上1億円未満の階級では26.9%から46.1%に大幅な増加となっている",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "10億円未満",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "10億円以上",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、資本金階級別に業種別の法人数をみると、資本金1,000万円未満は建設業(19.2%)、サービス業(18.6%)、小売業(17.8%)の占める割合が大きく、資本金10億円以上では機械工業(12.8%)、サービス業(12.1%)、運輸通信公益事業(10.1%)の占める割合が大きくなっている（第3表参照)",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "10億円未満",
+    "url": "https://www.cao.go.jp/zei-cho/history/1996-2009/etc/1999/zei_d_09c.html",
+    "pass": 3
+   },
+   {
+    "quote": "10億円以上",
+    "url": "https://www.cao.go.jp/zei-cho/history/1996-2009/etc/1999/zei_d_09c.html",
+    "pass": 3
+   },
+   {
+    "quote": "１ 売上高・純付加価値額",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "我が国の企業等の令和２年の売上高は 1693 兆円、純付加価値額は 336 兆円となっ",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、 会社企業について資本金階級別にみると、 「資本金１億円以上」 の売上高",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が 900 兆円（資本金階級別の合計に占める割合は 63.6%）、純付加価値額が 133 兆",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 令和３年調査の売上高等の経理事項は令和２年の１年間を把握",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高を産業大分類別にみると、「卸売業，小売業」が 480 兆円と最も多く、次い",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で「製造業」が387 兆円、「医療，福祉」が173 兆円などとなっており、上位３産業",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純付加価値額を産業大分類別にみると、 「医療，福祉」が71 兆円で最も多く、次い",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1．建設業界の広告費の割合（売上高広告費比率）",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "40.6億円",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "36.1億円",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "25.7億円",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "※ 上の244億円は、対象18社の合計です",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "6.0億円〜36.1億円",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "5.0億円〜15.1億円",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000億円以上",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "100億円〜1,000億円",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "1兆7,101億円（単体）",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "21.3億円",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費は15社で147億円",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "pass": 3
+   },
+   {
+    "quote": "大手・準大手15社の広告宣伝費（単体）を、各社の有価証券報告書を基に集計すると、14年度の計約52億円からほぼ右肩上がりで増え続け、23年度は計約147億円だった",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "pass": 3
+   },
+   {
+    "quote": "日経アーキテクチュアの経営動向調査で、建築売上高上位20社にランクインした企業のうち、有価証券報告書で2015～24年度の広告宣伝費（単体）を公表している企業を集計対象とした",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、大和ハウス工業は単体の広告宣伝費が200億円を超え、15社の合計を上回るため集計の対象外とした（出所：各社の有価証券報告書を基に日経アーキテクチュアが作成）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業や不動産業、サービス業、情報・通信業などの業種別に、主要企業20社の売上高（単体）と広告宣伝費（単体）を有価証券報告書から抽出してそれぞれ合計し、売上高に対する広告宣伝費の比率を算出した",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高（単体）と広告宣伝費（単体）の両方を有価証券報告書で公表している企業について、売上高上位20社の売上高と広告宣伝費の平均値を算出した",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "pass": 3
+   },
+   {
+    "quote": "個別企業について分析すると、建設業の中でも、住宅事業を主体とする大和ハウス工業や積水ハウスは、売上高に対する広告宣伝費の比率が約1％となり、建設業の平均を大きく上回ることが分かった",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "2016年 6月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107456&result_page=1&tclass4val=0&statdisp_id=0003206460",
+    "pass": 3
+   },
+   {
+    "quote": "2021年6月1日現在の企業等の数は368万4049企業、2020年の売上（収入）金額（以下「売上高」という",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年6月1日現在の民営事業所数は515万6063事業所、従業者数は5795万人となっています",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年経済センサス活動調査に基づく対象業者一覧｜全国商工団体連合会",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "2021年経済センサス活動調査に基づく対象業者一覧",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "2021年6月",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "pass": 3
+   },
+   {
+    "quote": "建設業者数は 1 999年度の60. 1 万業者をピークにその後減少",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "下請完成工事高は1997年度（57.1兆円）をピークに減少が続いていたが、2010年度を底に増加に転じ、2019年度は",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大手建設会社（日建連法人会員企業）の受注は、2004年度から４年間、13兆円台で推移した後、リーマンショックを契機",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円）の約35％にまで減少した",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東日本大震災の復旧 ・ 復興需要、民間建設投資の回復により増加に転じ、 2014年度以降15",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "近年は、20％台前半で推移し",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の利益率は、バブル崩壊後の建設市場の長期停滞、競争激化等により2000年代初めまで低い水準で推移した",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1.…2021年第Ⅱ四半期は4月〜5月の平均値",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "……3.…2021年第Ⅰ四半期までの数値は、建設用材料計の値である",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済の成長鈍化に伴う鉄鋼価格下落の影響で下落がみられ、2016年後半からは横ばい状況にあったが、2021年に入って",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建設業就業者数は建設投資の減少に伴い、1997年（685万人）をピークとして減少が続いており、2020年はピーク時比",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新規学卒者の建設業への入職者は減少が続いてきたが、2009年の2.9万人を底に増加に転じ、2014年以降は4万人程度で",
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成10年分の法人数は250万8,852社で、前年より4万3,505社(1.8%)増加した",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "また、資本金階級別の法人数の構成割合を平成5年分と比較してみると、資本金1,000万円未満の階級では71.7%から52.5%に大幅な減少となっており、一方、資本金1,000万円以上1億円未満の階級では26.9%から46.1%に大幅な増加となっている",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "対象：建設業界の上場18社（総合建設会社（ゼネコン）・設備工事・マンション建設）／決算期：2026年3月期／出典：金融庁EDINET 有価証券報告書（株式会社ルミエール集計）",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "「建築リフォーム工事業」の事業所（2021年6月時点",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産会社の一部に当たる区分「不動産代理業・仲介業」の事業所（2021年6月時点）",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "対象：建設業界の上場18社（総合建設会社（ゼネコン）・設備工事・マンション建設）／決算期：2026年3月期／出典：金融庁EDINET 有価証券報告書（2026年6月16日〜2026年6月25日提出）／集計：株式会社ルミエール（2026年9月24日公開）",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "数値および引用は、2026年9月24日時点で確認できた内容です",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "調査結果を裏付けるように、主要建設会社の広告宣伝費は増加傾向にある",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "pass": 3
+   },
+   {
+    "quote": "大手・準大手ゼネコン15社の広告宣伝費（単体）の合計額の推移",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "pass": 3
+   },
+   {
+    "quote": "集計：株式会社ルミエール（2026年9月24日時点）",
+    "url": "https://japan.zdnet.com/release/31210574/",
+    "pass": 3
+   },
+   {
+    "quote": "設立：2026年2月",
+    "url": "https://japan.zdnet.com/release/31210574/",
+    "pass": 3
+   },
+   {
+    "quote": "分離適格振替国債の分離状況並びに現在高推移",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "社内ニート日報2026年10月30日金曜日",
+    "url": "https://note.com/tag/%E5%BB%BA%E8%A8%AD%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月5日 19:23",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "※取適法は2026年1月1日施行予定で、適用範囲が広がっています",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月23日 22:24",
+    "url": "https://note.com/katasumi_sakana/n/ne13875bf0b2a",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の就業者数は1997年の685万人をピークに減少を続け、2024年末時点で約477万人まで落ち込んでいる",
+    "url": "https://note.com/katasumi_sakana/n/ne13875bf0b2a",
+    "pass": 3
+   },
+   {
+    "quote": "約30％の減少だ",
+    "url": "https://note.com/katasumi_sakana/n/ne13875bf0b2a",
+    "pass": 3
+   },
+   {
+    "quote": "建設工事コストは2021年比で平均28〜32％上昇している",
+    "url": "https://note.com/katasumi_sakana/n/ne13875bf0b2a",
+    "pass": 3
+   },
+   {
+    "quote": "でも2026年春からはBIM図面審査が始まり、制度は整いつつある",
+    "url": "https://note.com/katasumi_sakana/n/ne13875bf0b2a",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月29日 07:25",
+    "url": "https://note.com/mjcons/n/n0dfaa910c151",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月1日 09:01",
+    "url": "https://note.com/mjcons/n/n551e39139a0b",
+    "pass": 3
+   }
+  ],
+  "広告宣伝費・販管費": [
+   {
+    "quote": "純付加価値額＝売上高－（費用総額（売上原価＋販売費及び一般管理費））＋給与総額＋租税公課",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "純付加価値額＝売上高－費用総額［売上原価＋販売費及び一般管理費］＋給与総額＋租税公課",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界のマーケティング投資調査2026｜上場18社の広告費と集客手法",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界の広告費の割合（売上比率）調査2026",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "無料資料：建設業界の広告費データ（上場18社・Excel）",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "売上に対する広告宣伝費は0.21%",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "売上に対する広告宣伝費の比率は、事業タイプで1.4倍の開き",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "1．建設業界の広告費の割合（売上高広告費比率）",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費の金額を開示していたのは18社です",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費を開示した会社のうち、広告費と売上を同じ単体基準で比較できる17社を集計しました",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "売上に対する広告費は、中央値で0.21%",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費の合計（18社）",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界の広告宣伝費ランキング（上位3社）",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業に限った金額で、業界全体の広告費ではありません",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "ゼネコンの広告宣伝費が急増、主要15社の総額は10年で3倍 | 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "pass": 3
+   },
+   {
+    "quote": "ゼネコンの広告宣伝費が急増、主要15社の総額は10年で3倍",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費は15社で147億円",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "pass": 3
+   },
+   {
+    "quote": "調査結果を裏付けるように、主要建設会社の広告宣伝費は増加傾向にある",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "pass": 3
+   },
+   {
+    "quote": "大手・準大手15社の広告宣伝費（単体）を、各社の有価証券報告書を基に集計すると、14年度の計約52億円からほぼ右肩上がりで増え続け、23年度は計約147億円だった",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "pass": 3
+   },
+   {
+    "quote": "〔図2〕ゼネコンの広告宣伝費が急増",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "pass": 3
+   },
+   {
+    "quote": "大手・準大手ゼネコン15社の広告宣伝費（単体）の合計額の推移",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "pass": 3
+   },
+   {
+    "quote": "日経アーキテクチュアの経営動向調査で、建築売上高上位20社にランクインした企業のうち、有価証券報告書で2015～24年度の広告宣伝費（単体）を公表している企業を集計対象とした",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、大和ハウス工業は単体の広告宣伝費が200億円を超え、15社の合計を上回るため集計の対象外とした（出所：各社の有価証券報告書を基に日経アーキテクチュアが作成）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "pass": 3
+   },
+   {
+    "quote": "それでも、他業種と比較すると広告宣伝費は多くない",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業や不動産業、サービス業、情報・通信業などの業種別に、主要企業20社の売上高（単体）と広告宣伝費（単体）を有価証券報告書から抽出してそれぞれ合計し、売上高に対する広告宣伝費の比率を算出した",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "pass": 3
+   },
+   {
+    "quote": "〔図3〕建設業の広告宣伝費は他業種に比べて低い",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界の広告宣伝費を調査 売上高広告費比率は中央値0.21%（上場17社） - ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31210574/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界の広告宣伝費を調査 売上高広告費比率は中央値0.21%（上場17社）",
+    "url": "https://japan.zdnet.com/release/31210574/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ルミエール（本社：東京都江東区、代表取締役：池田英加）は、金融庁EDINETに提出された有価証券報告書をもとに、建設業界の上場18社（総合建設会社（ゼネコン）・設備工事・マンション建設）の広告宣伝費を集計し、調査ページを公開しました",
+    "url": "https://japan.zdnet.com/release/31210574/",
+    "pass": 3
+   },
+   {
+    "quote": "調査ページ：建設業界の広告費の割合（売上比率）調査2026",
+    "url": "https://japan.zdnet.com/release/31210574/",
+    "pass": 3
+   },
+   {
+    "quote": "・売上に対する広告宣伝費の中央値は0.21%（比率を算出できた17社）で、上場企業全体の中央値は2.10%です",
+    "url": "https://japan.zdnet.com/release/31210574/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の売上高と粗利率を入力すると、広告費の目安を算出できるシミュレーターも用意しています",
+    "url": "https://japan.zdnet.com/release/31210574/",
+    "pass": 3
+   },
+   {
+    "quote": "ほかの業種の調査は、一覧ページ（業界別の広告費の割合調査2026）からご覧いただけます",
+    "url": "https://japan.zdnet.com/release/31210574/",
+    "pass": 3
+   },
+   {
+    "quote": "・自社の売上高と広告費を入力すると、同じ事業タイプの会社と比べた位置と、目安の金額がわかります",
+    "url": "https://japan.zdnet.com/release/31210574/",
+    "pass": 3
+   },
+   {
+    "quote": "・対象の上場18社が、売上に対してどれだけ広告宣伝費を使っているかを会社ごとに確認できます",
+    "url": "https://japan.zdnet.com/release/31210574/",
+    "pass": 3
+   },
+   {
+    "quote": "対象：建設業界の上場18社（広告宣伝費の金額を開示している会社は18社）",
+    "url": "https://japan.zdnet.com/release/31210574/",
+    "pass": 3
+   },
+   {
+    "quote": "※売上高広告費比率は、広告宣伝費と同じ基準（連結または単体）の売上高で算出できた会社の中央値です",
+    "url": "https://japan.zdnet.com/release/31210574/",
+    "pass": 3
+   }
+  ],
+  "資本金1億円以上の企業": [
+   {
+    "quote": "法人数を資本金階級別にみると、資本金1,000万円未満の法人が131万6,224社で、52.5%を占めている",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "これに対し、資本金10億円以上の法人は6,376社で、わずか0.3%にすぎない（第1表及び第2表参照)",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "また、資本金階級別の法人数の構成割合を平成5年分と比較してみると、資本金1,000万円未満の階級では71.7%から52.5%に大幅な減少となっており、一方、資本金1,000万円以上1億円未満の階級では26.9%から46.1%に大幅な増加となっている",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "第1表 資本金階級別法人数の累年比較",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "第2表 資本金階級別法人数の構成割合",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、資本金階級別に業種別の法人数をみると、資本金1,000万円未満は建設業(19.2%)、サービス業(18.6%)、小売業(17.8%)の占める割合が大きく、資本金10億円以上では機械工業(12.8%)、サービス業(12.1%)、運輸通信公益事業(10.1%)の占める割合が大きくなっている（第3表参照)",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "第3表 業種別・資本金階級別法人数",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "第4表 組織別、資本金階級別法人数",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "（注）「法人企業統計年報（平成9年度）」（大蔵省）により作成",
+    "url": "https://www.cao.go.jp/zei-cho/history/1996-2009/etc/1999/zei_d_09c.html",
+    "pass": 3
+   },
+   {
+    "quote": "（１）概況及び資本金階級別の状況",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、 会社企業について資本金階級別にみると、 「資本金１億円以上」 の売上高",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が 900 兆円（資本金階級別の合計に占める割合は 63.6%）、純付加価値額が 133 兆",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社企業について、資本金階級別に企業の数をみると、 「資本金1000 万円未満」が",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "104 万企業（資本金階級別の合計に占める割合は59.3%）と最も多く、階級区分が最",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）売上高に占める追加法人の割合（資本金階級別）",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金階級別に、当該階級の 売上高の合計に占める追加法人の売上高の割合をみる",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高く、資本金階級の区分が上がるごとにその割合は低下し、 資本金階級区分が最も高い",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査附帯調査 四半期別GDP速報（1次速報）のための一部項目早期調査",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【2026年版】 建設業 許可の 統計 情報（事業 者数 ・ 資本金 ... — 【2026年版】 建設業 許可の 統計 情報（事業 者数 ・ 資本金 ... 日本ソフト販売株式会社 https://www.nipponsoft.co.jp > ブログ > 業界・地域分析",
+    "url": "https://www.nipponsoft.co.jp/blog/analysis/construction-establishments2026/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界 の 広告 費の割合（ 売上比率 ）調査2026 — 建設業界 の 広告 費の割合（ 売上比率 ）調査2026 lumierre.jp https://lumierre.jp > 業界別の広告費の割合調査",
+    "url": "https://lumierre.jp/research/construction/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界 の 広告宣伝費 を調査 売上高 広告費 比率 は中央値0.21 ... — 建設業界 の 広告宣伝費 を調査 売上高 広告費 比率 は中央値0.21 ... ZDNET Japan https://japan.zdnet.com > プレスリリース",
+    "url": "https://japan.zdnet.com/release/31210574/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "建設業 の人気・新着記事まとめ - note 建設業 の人気・新着記事まとめ - note note https://note.com > ビジネス",
+    "url": "https://note.com/tag/%E5%BB%BA%E8%A8%AD%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "建設業 で取適法（中小受託取引適正化法）はどこまで適用され ... 建設業 で取適法（中小受託取引適正化法）はどこまで適用され ... note https://note.com > 政治・経済 > ビジネス・経済",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "これからの日本の 建設業 の行く末とは - note これからの日本の 建設業 の行く末とは - note note https://note.com > ビジネス > データ・分析",
+    "url": "https://note.com/katasumi_sakana/n/ne13875bf0b2a",
+    "pass": 3
+   },
+   {
+    "quote": "建設業 社長のリアル 第1話「独立して最初に作ったのは - note 建設業 社長のリアル 第1話「独立して最初に作ったのは - note note https://note.com > ビジネス > 経営・マネジメント",
+    "url": "https://note.com/mjcons/n/n0dfaa910c151",
+    "pass": 3
+   },
+   {
+    "quote": "建設業社長 のリアル 第1話「独立して最初に作ったのは - note 建設業社長 のリアル 第1話「独立して最初に作ったのは - note note https://note.com > ビジネス > 経営・マネジメント",
+    "url": "https://note.com/mjcons/n/n0dfaa910c151",
+    "pass": 3
+   },
+   {
+    "quote": "建設業社長 のリアル 第3話「仕事はあるのに金がない - note 建設業社長 のリアル 第3話「仕事はあるのに金がない - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/mjcons/n/n551e39139a0b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "人手不足や働き方改革、AI活用など、建設業界が直面する課題や実務の最前線が語られています。",
+    "url": "https://note.com/tag/%E5%BB%BA%E8%A8%AD%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "施工管理のコツや経営の失敗談、最新技術による業務効率化の事例など、現場に根ざした記事が集まっています。",
+    "url": "https://note.com/tag/%E5%BB%BA%E8%A8%AD%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足や働き方改革、AI活用など、建設業界が直面する課題や実務の最前線が語ら…",
+    "url": "https://note.com/tag/%E5%BB%BA%E8%A8%AD%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "家具が置けない、部屋の角のあの出っ張り。つくったのは型枠大工です",
+    "url": "https://note.com/tag/%E5%BB%BA%E8%A8%AD%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "26歳、3現場掛け持ち。ようやく1現場が終わりました。",
+    "url": "https://note.com/tag/%E5%BB%BA%E8%A8%AD%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "還暦爺さんの業務日誌 193日目 お施主様⑱ 契約前に発注！？ 【通知】コングラボードです！",
+    "url": "https://note.com/tag/%E5%BB%BA%E8%A8%AD%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "高卒から土木一筋18年。35歳の現場所長がnoteを始めます",
+    "url": "https://note.com/tag/%E5%BB%BA%E8%A8%AD%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "ホームページを頼む前に聞いてほしい7つのこと。公開後の1年は、保守に入らなければ年2,200〜5,800円です",
+    "url": "https://note.com/tag/%E5%BB%BA%E8%A8%AD%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "建設業で取適法（中小受託取引適正化法）はどこまで適用されるか｜いのうえ＠弁護士",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "建設業で取適法（中小受託取引適正化法）はどこまで適用されるか",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "「建設工事の請負は建設業法／その他業務は取適法か？」",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、プレカット材の加工委託、施工図の外注、運送や修理委託などが",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "どの法令の規制に該当するのかは、単純に“下請け”という言葉では判別できません。",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "本稿では、建設工事そのものとそれ以外の委託取引について、建設業法と取適法（中小受託事業者に対する代金の支払の遅延等の防止に関する法律）の",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "※取適法は2026年1月1日施行予定で、適用範囲が広がっています。",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "⑵ 建設業における取適法適用の具体的フロー",
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "pass": 3
+   },
+   {
+    "quote": "これからの日本の建設業の行く末とは｜人の金で経験を語る|アタマノカタスミ",
+    "url": "https://note.com/katasumi_sakana/n/ne13875bf0b2a",
+    "pass": 3
+   },
+   {
+    "quote": "あなたは海外の建設現場を見たことがあるだろうか。",
+    "url": "https://note.com/katasumi_sakana/n/ne13875bf0b2a",
+    "pass": 3
+   },
+   {
+    "quote": "そして、そのデータが教えてくれることは、日本の建設業が長年「当たり前」だと思ってきたことの多くを、静かに、しかし確実に覆している。",
+    "url": "https://note.com/katasumi_sakana/n/ne13875bf0b2a",
+    "pass": 3
+   },
+   {
+    "quote": "G7各国の建設業の生産性を比較するとき、よく使われる指標がある。「建設業就業者1人当たりの建設投資額」だ。",
+    "url": "https://note.com/katasumi_sakana/n/ne13875bf0b2a",
+    "pass": 3
+   },
+   {
+    "quote": "経済協力開発機構（OECD）の2024年のデータを、GDPベースで見てみよう。",
+    "url": "https://note.com/katasumi_sakana/n/ne13875bf0b2a",
+    "pass": 3
+   },
+   {
+    "quote": "日本の数値は約16.2万ドル（約2430万円）。G7の中で最下位だ。",
+    "url": "https://note.com/katasumi_sakana/n/ne13875bf0b2a",
+    "pass": 3
+   },
+   {
+    "quote": "上位のイタリア・フランス・カナダは26万ドルほど（約3900万円）。ドイツ・米国・英国が約20万ドル（約3000万円）と続く。",
+    "url": "https://note.com/katasumi_sakana/n/ne13875bf0b2a",
+    "pass": 3
+   },
+   {
+    "quote": "日本の生産性は他の主要国と比べて60〜80％の水準にとどまっている。",
+    "url": "https://note.com/katasumi_sakana/n/ne13875bf0b2a",
+    "pass": 3
+   },
+   {
+    "quote": "建設業社長のリアル 第1話「独立して最初に作ったのは、“会社”じゃなく仲間だった」｜Con_work_cons",
+    "url": "https://note.com/mjcons/n/n0dfaa910c151",
+    "pass": 3
+   },
+   {
+    "quote": "建設業社長のリアル 第1話「独立して最初に作ったのは、“会社”じゃなく仲間だった」",
+    "url": "https://note.com/mjcons/n/n0dfaa910c151",
+    "pass": 3
+   },
+   {
+    "quote": "「独立して最初に作ったのは、“会社”じゃなく仲間だった」",
+    "url": "https://note.com/mjcons/n/n0dfaa910c151",
+    "pass": 3
+   },
+   {
+    "quote": "海浜幕張の新築ホテル工事に入っていました。",
+    "url": "https://note.com/mjcons/n/n0dfaa910c151",
+    "pass": 3
+   },
+   {
+    "quote": "■でも、“1人親方”では仕事が貰えなかった",
+    "url": "https://note.com/mjcons/n/n0dfaa910c151",
+    "pass": 3
+   },
+   {
+    "quote": "素人集団だった事が良かったんだと思います。",
+    "url": "https://note.com/mjcons/n/n0dfaa910c151",
+    "pass": 3
+   },
+   {
+    "quote": "そんな悠長な事を言っている暇はありません。",
+    "url": "https://note.com/mjcons/n/n0dfaa910c151",
+    "pass": 3
+   },
+   {
+    "quote": "ちょうどそんな時代に入ってきたと思っています。",
+    "url": "https://note.com/mjcons/n/n0dfaa910c151",
+    "pass": 3
+   },
+   {
+    "quote": "建設業社長のリアル 第3話「仕事はあるのに金がない 〜自転車操業の始まり〜」｜Con_work_cons",
+    "url": "https://note.com/mjcons/n/n551e39139a0b",
+    "pass": 3
+   },
+   {
+    "quote": "建設業社長のリアル 第3話「仕事はあるのに金がない 〜自転車操業の始まり〜」",
+    "url": "https://note.com/mjcons/n/n551e39139a0b",
+    "pass": 3
+   },
+   {
+    "quote": "※現在は色々緩和されて取引が楽になりました",
+    "url": "https://note.com/mjcons/n/n551e39139a0b",
+    "pass": 3
+   },
+   {
+    "quote": "取引できた事は大いなる感謝をしております。",
+    "url": "https://note.com/mjcons/n/n551e39139a0b",
+    "pass": 3
+   },
+   {
+    "quote": "月の売上が2万円しかなかった事もありました。",
+    "url": "https://note.com/mjcons/n/n551e39139a0b",
+    "pass": 3
+   },
+   {
+    "quote": "1級建築施工管理技士として、工事も多岐に渡り着手",
+    "url": "https://note.com/mjcons/n/n551e39139a0b",
+    "pass": 3
+   },
+   {
+    "quote": "「本気で稼ぎ、会社を大きくしたい」と考える経営者に",
+    "url": "https://note.com/mjcons/n/n551e39139a0b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "全国 建設業 協会（全建） (@zenken_net) / X 全国 建設業 協会（全建） (@zenken_net) / X X https://x.com > zenken_net",
+    "url": "https://x.com/zenken_net",
+    "pass": 3
+   },
+   {
+    "quote": "軽部治 | 建設業 の闇を暴露する社長 (@karube_sanei) / X 軽部治 | 建設業 の闇を暴露する社長 (@karube_sanei) / X X https://x.com > karube_sanei",
+    "url": "https://x.com/karube_sanei",
+    "pass": 3
+   },
+   {
+    "quote": "（一社）三重県 建設業 協会 (@mieprefconstr) / X （一社）三重県 建設業 協会 (@mieprefconstr) / X X https://x.com > mieprefconstr",
+    "url": "https://x.com/mieprefconstr",
+    "pass": 3
+   },
+   {
+    "quote": "軽部治 - 今の 建設業 は会社と施工管理技士の立場が - X 軽部治 - 今の 建設業 は会社と施工管理技士の立場が - X X https://x.com > @karube_sanei",
+    "url": "https://x.com/karube_sanei/status/2117543652767760498",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "建設業 は静かにテクノロジー産業になりつつあります - LinkedIn 建設業 は静かにテクノロジー産業になりつつあります - LinkedIn LinkedIn https://jp.linkedin.com > pulse > construction-quietly-bec...",
+    "url": "https://jp.linkedin.com/pulse/construction-quietly-becoming-technology-industry-guy-ofek-inlxc?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "障壁を突破する: 建設業界 がイノベーションを受け入れるべき ... 障壁を突破する: 建設業界 がイノベーションを受け入れるべき ... LinkedIn https://jp.linkedin.com > pulse > breaking-through-barrier...",
+    "url": "https://jp.linkedin.com/pulse/breaking-through-barriers-why-construction-must-embrace-innovation-gduce?tl=ja",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "https://www.facebook.com/hashtag/建設業/ https://www.facebook.com/hashtag/建設業/ Facebook https://www.facebook.com > hashtag > 建設業",
+    "url": "https://www.facebook.com/hashtag/%E5%BB%BA%E8%A8%AD%E6%A5%AD/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業 が好き！ | Facebook 建設業 が好き！ | Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/kennsetugyouiine/",
+    "pass": 3
+   },
+   {
+    "quote": "栃木県 建設業 協会鹿沼支部 | Kanuma-shi Tochigi - Facebook 栃木県 建設業 協会鹿沼支部 | Kanuma-shi Tochigi - Facebook Facebook https://www.facebook.com > ... > Community Organization",
+    "url": "https://www.facebook.com/p/%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%BB%BA%E8%A8%AD%E6%A5%AD%E5%8D%94%E4%BC%9A%E9%B9%BF%E6%B2%BC%E6%94%AF%E9%83%A8-100064603273159/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業 総合支援機構（一般社団法人） | Yokohama Kanagawa 建設業 総合支援機構（一般社団法人） | Yokohama Kanagawa Facebook https://www.facebook.com > kssk",
+    "url": "https://www.facebook.com/kssk.org/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/index-2.html",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107456&result_page=1&tclass4val=0&statdisp_id=0003206460",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-census-st.go.jp/bunrui/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/totikensangyo/const/1_6_bt_000016.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cao.go.jp/zei-cho/history/1996-2009/etc/1999/zei_d_09c.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lumierre.jp/research/construction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.zdnet.com/release/31210574/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fumina-tax.com/blog/startup-advertising-expense-ratio-and-cost-effectiveness/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=20&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001063644&tclass3=000001064375&tclass4val=0&statdisp_id=0003094921",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E5%BB%BA%E8%A8%AD%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/katasumi_sakana/n/ne13875bf0b2a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mjcons/n/n0dfaa910c151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/zenken_net",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/karube_sanei",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mieprefconstr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/karube_sanei/status/2117543652767760498",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/construction-quietly-becoming-technology-industry-guy-ofek-inlxc?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/breaking-through-barriers-why-construction-must-embrace-innovation-gduce?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hashtag/%E5%BB%BA%E8%A8%AD%E6%A5%AD/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/kennsetugyouiine/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%BB%BA%E8%A8%AD%E6%A5%AD%E5%8D%94%E4%BC%9A%E9%B9%BF%E6%B2%BC%E6%94%AF%E9%83%A8-100064603273159/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kssk.org/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tag/%E5%BB%BA%E8%A8%AD%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mjcons/n/n0dfaa910c151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mjcons/n/n551e39139a0b",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済センサス 活動調査 建設業 企業数 売上（収入）金額",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-census2026.go.jp/document/pdf/howto_12.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107456&result_page=1&tclass4val=0&statdisp_id=0003206460",
+    "https://www.e-census-st.go.jp/bunrui/",
+    "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "https://faq-e-census-st.dga.jp/faq_detail.html?id=345&page=1000",
+    "https://www.stat.go.jp/data/e-census/2026/pdf/ichiran_service.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "https://www.soumu.go.jp/main_content/001007791.pdf",
+    "https://www.meti.go.jp/statistics/tyo/census/index.html"
+   ]
+  },
+  {
+   "query": "経済センサス 2021 産業大分類 建設業 従業者数",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10000.htm",
+    "https://www.zenshoren.or.jp/2021census-gyosya",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "https://built.itmedia.co.jp/bt/articles/2012/01/news019.html",
+    "https://www.e-census-st.go.jp/bunrui/"
+   ]
+  },
+  {
+   "query": "法人企業統計 建設業 資本金1億円以上 社数",
+   "results": [
+    "https://www.nikkenren.com/publication/pdf/handbook/2021/2021_04.pdf",
+    "https://www.mlit.go.jp/totikensangyo/const/1_6_bt_000016.html",
+    "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "https://www.cao.go.jp/zei-cho/history/1996-2009/etc/1999/zei_d_09c.html",
+    "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "https://www.nipponsoft.co.jp/blog/analysis/construction-establishments2026/",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "https://www.sangyo-times.jp/article.aspx?ID=2670",
+    "https://www.densai.net/pdf/riyoukigyou_list.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm"
+   ]
+  },
+  {
+   "query": "建設業 広告宣伝費 売上高比率 業種別",
+   "results": [
+    "https://lumierre.jp/research/construction/",
+    "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "https://japan.zdnet.com/release/31210574/",
+    "https://fumina-tax.com/blog/startup-advertising-expense-ratio-and-cost-effectiveness/",
+    "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_03c.pdf",
+    "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "https://www.houjinhokenlabo.com/kensetsu/kensetsu-01/15716/",
+    "https://www.chusho.meti.go.jp/koukai/chousa/keiei_sihyou/h10/07_f.html",
+    "https://prtimes.jp/main/html/rd/p/000000008.000186784.html"
+   ]
+  },
+  {
+   "query": "e-Stat 経済センサス 建設業 付加価値額",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=20&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001063644&tclass3=000001064375&tclass4val=0&statdisp_id=0003094921",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107456&result_page=1&tclass4val=0&statdisp_id=0003206460",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&query=019020026&statdisp_id=0004003964"
+   ]
+  },
+  {
+   "query": "site:note.com 建設業",
+   "results": [
+    "https://note.com/tag/%E5%BB%BA%E8%A8%AD%E6%A5%AD",
+    "https://note.com/brisk_ram7621/n/nb73930212c2f",
+    "https://note.com/katasumi_sakana/n/ne13875bf0b2a",
+    "https://note.com/mjcons/n/n0dfaa910c151",
+    "https://note.com/mjcons/n/n551e39139a0b",
+    "https://note.com/risby/n/n10855516900b",
+    "https://note.com/yosshi_oyakata/n/ndcb093614a8e",
+    "https://note.com/zenken_net",
+    "https://note.com/legal_toad9366/n/n48e9ac5e0ba7",
+    "https://note.com/r1_note/n/n36fe1d45b601"
+   ]
+  },
+  {
+   "query": "site:x.com 建設業",
+   "results": [
+    "https://x.com/zenken_net",
+    "https://x.com/karube_sanei",
+    "https://x.com/mieprefconstr",
+    "https://x.com/karube_sanei/status/2117543652767760498",
+    "https://x.com/hkd_kaihatsu_wr",
+    "https://x.com/kinoppirx78/article/2061721181917774211",
+    "https://x.com/katoccussupport",
+    "https://x.com/intent/retweet?tweet_id=2116730950658764949&utm_source=yjrealtime&utm_medium=search",
+    "https://x.com/karube_sanei/status/2108547829061042661",
+    "https://x.com/akionionio"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 建設業",
+   "results": [
+    "https://jp.linkedin.com/pulse/construction-quietly-becoming-technology-industry-guy-ofek-inlxc?tl=ja",
+    "https://jp.linkedin.com/company/obayashi-corporation-hq",
+    "https://jp.linkedin.com/pulse/breaking-through-barriers-why-construction-must-embrace-innovation-gduce?tl=ja",
+    "https://jp.linkedin.com/company/bechtel-corporation",
+    "https://ca.linkedin.com/jobs/view/links-biz-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEballas-4454500254",
+    "https://jp.linkedin.com/pulse/letter-industry-constructions-invisible-tax-ryan-franco-sjinc?tl=ja",
+    "https://id.linkedin.com/jobs/view/product-manager-pdm-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEballas-4439019517?position=55&pageNum=0&refId=VfIeyd5t2cTn7LqCBIEqvA%3D%3D&trackingId=DQQprgAS2nf6fLipZpHLag%3D%3D",
+    "https://www.linkedin.com/help/recruiter/answer/a1421501/recruiter-talent-insights-?lang=ja",
+    "https://ro.linkedin.com/jobs/view/product-engineer-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEballas-4451654321?position=58&pageNum=0&refId=k5WclyuTVxieuCYu9jmAFA%3D%3D&trackingId=aLFeCJyQleXxX92oyyikXA%3D%3D",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%96%BD%E5%B7%A5%E7%AE%A1%E7%90%86%E3%81%8B%E3%82%89%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8%E3%80%91%E5%BB%BA%E8%A8%AD%E6%A5%AD%E7%89%B9%E5%8C%96%E3%81%AE%E4%BA%BA%E6%9D%90%E6%B4%BE%E9%81%A3%E5%96%B6%E6%A5%AD%EF%BC%8F%E7%A0%94%E4%BF%AE%E5%88%B6%E5%BA%A6%E5%85%85%E5%AE%9F%E2%97%8E%E5%B9%B4%E4%BC%91125%E6%97%A5%E3%83%BB%E5%9C%9F%E6%97%A5%E7%A5%9D%E4%BC%91%E3%81%BF-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4486414365"
+   ]
+  },
+  {
+   "query": "site:facebook.com 建設業",
+   "results": [
+    "https://www.facebook.com/hashtag/%E5%BB%BA%E8%A8%AD%E6%A5%AD/",
+    "https://www.facebook.com/groups/kennsetugyouiine/",
+    "https://www.facebook.com/p/%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%BB%BA%E8%A8%AD%E6%A5%AD%E5%8D%94%E4%BC%9A%E9%B9%BF%E6%B2%BC%E6%94%AF%E9%83%A8-100064603273159/",
+    "https://www.facebook.com/kssk.org/",
+    "https://www.facebook.com/kokenkyo/",
+    "https://www.facebook.com/p/%E5%B1%B1%E5%BD%A2%E7%9C%8C%E5%BB%BA%E8%A8%AD%E6%A5%AD%E5%8D%94%E4%BC%9A%E9%B6%B4%E5%B2%A1%E6%94%AF%E9%83%A8-100080617394928/",
+    "https://www.facebook.com/shimane.no.kensetsu/",
+    "https://www.facebook.com/izumokenkyou/",
+    "https://www.facebook.com/kensetsu.network/",
+    "https://www.facebook.com/kawakenkyo.niseikai/"
+   ]
+  },
+  {
+   "query": "建設業 note 社長",
+   "results": [
+    "https://note.com/tag/%E5%BB%BA%E8%A8%AD%E6%A5%AD",
+    "https://note.com/nifty_vole9692/n/n19ba010ebd20",
+    "https://note.com/mjcons/n/n0dfaa910c151",
+    "https://note.com/mjcons/n/n551e39139a0b",
+    "https://note.com/makoto_yuzawa/n/nf0b94e7be43c",
+    "https://www.instagram.com/p/DaXZvyBpoGt/",
+    "https://note.com/mjcons/n/n918c60ea75a4",
+    "https://note.com/kensetsu_dx_no2/n/n46d049c575b4",
+    "https://note.com/lovely_gnu4462/n/nd6d76a9c0a5d",
+    "https://note.com/kind_harte8971"
+   ]
+  },
+  {
+   "query": "建設業 X 投稿",
+   "results": [
+    "https://x.com/kensetsuDX_lab",
+    "https://built.itmedia.co.jp/bt/articles/2609/07/news006.html",
+    "https://prtimes.jp/main/html/rd/p/000000120.000110808.html",
+    "https://www.kensetsu-kikin.or.jp/sns/",
+    "https://www.shopowner-support.net/attracting_customers/construction/construction-industry/construction_industry_sns/",
+    "https://on-sitex.com/community/",
+    "https://kensetsu-engine-media.jp/people-edu/483",
+    "https://offtie.jp/blog/kensetsu-sns-saiyo-jirei.php",
+    "https://x.com/hashtag/建設業?f=live",
+    "https://x.com/akkun_toushi/status/2118209196147765516"
+   ]
+  },
+  {
+   "query": "construction Japan census site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/danahdunford_realestate-housingmarket-proptech-activity-7487537807515619328-UV9x",
+    "https://www.linkedin.com/top-content/recruitment-hr/global-workforce-trends/changes-in-workforce-trends-in-japan/",
+    "https://www.linkedin.com/posts/alexandrecordovil_us-construction-spending-on-data-centers-activity-7468650762441523200-yf8h",
+    "https://www.linkedin.com/pulse/japans-ai-paradox-what-happens-when-labor-shortage-karine-kyrge",
+    "https://www.linkedin.com/posts/mrdatacenters_us-data-center-construction-spending-is-now-activity-7523402234252935168-sIcN",
+    "https://www.linkedin.com/posts/jay-parsons-a7a6656_apartment-construction-starts-have-already-activity-7523384557379747841-BliN",
+    "https://www.linkedin.com/in/brian-tesch-47411191",
+    "https://www.linkedin.com/pulse/case-2026-rebound-us-non-residential-construction-bernie-ahkong-yxwue",
+    "https://www.linkedin.com/pulse/why-does-japans-population-keep-declining-do-japanese-yutaka-mbpme",
+    "https://www.linkedin.com/posts/edmund-ho-1277b2125_japan-govt-launches-in-house-developed-ai-activity-7497875773064822784-aV14"
+   ]
+  }
+ ],
+ "missing": {}
+}

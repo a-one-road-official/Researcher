@@ -1,0 +1,2354 @@
+{
+ "name": "教育・学習支援業",
+ "en": "education learning support Japan census",
+ "aliases": [
+  "教育",
+  "学習支援業",
+  "大分類O"
+ ],
+ "context": "大分類O",
+ "kind": "market",
+ "researched_at": "2026-11-05T11:50:52.649970+00:00",
+ "evidence": {
+  "企業数・事業所数": [
+   {
+    "quote": "統計局ホームページ/令和3年経済センサス‐活動調査 調査の結果",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス-活動調査 調査の結果",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査に関する地域メッシュ統計",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、全産業を対象とする「経済センサス-活動調査」の創設に伴い、平成24年、平成28年、令和３年は「経済センサス-活動調査」の『製造業』として調査を実施し、『製造業』の集計結果を公表しています",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成24年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 速報集計 企業等に関する集計3 企業産業(大分類)、単一・複数(2区分)別企業等数、売上（収入）金額及び１企業当たり売上（収入）金額－全国、都道府県 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 速報集計 企業等に関する集計",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 企業等に関する集計 産業別集計 学校教育に関する集計 1-1 企業産業（小分類），単一・複数（２区分）別企業等数，事業所数，従業者数，売上（収入）金額及び学校等種類別売上（収入）金額―全国，都道府県 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107495&tclass4val=0&statdisp_id=0003206580",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 企業等に関する集計 産業別集計 学校教育に関する集計 1-1 企業産業（小分類），単一・複数（２区分）別企業等数，事業所数，従業者数，売上（収入）金額及び学校等種類別売上（収入）金額―全国，都道府県 | データベース | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107495&tclass4val=0&statdisp_id=0003206580",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107495&tclass4val=0&statdisp_id=0003206580",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 平成28年経済センサス‐活動調査 / 企業等に関する集計 産業別集計 学校教育に関する集計",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107495&tclass4val=0&statdisp_id=0003206580",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107495&tclass4val=0&statdisp_id=0003206580",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業（小分類），単一・複数（２区分）別企業等数，事業所数，従業者数，売上（収入）金額及び学校等種類別売上（収入）金額―全国，都道府県",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107495&tclass4val=0&statdisp_id=0003206580",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "経営組織(2区分)別全事業所数、男女別従業者数、1km2当たり事業所数及び従業者数－全国、都道府県、郡・支庁等、市区町村",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "経営組織(5区分)別全事業所数、男女別従業者数、1km2当たり事業所数及び従業者数－全国、都道府県、郡・支庁等、市区町村",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(8区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、従業上の地位(3区分)別事業所数、男女別従業者数及び民間からの従業者数（国及び地方公共団体）－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(5区分)、従業者規模(13区分)別全事業所数、男女別従業者数、常用雇用者数及び１事業所当たり従業者数－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(2区分)、従業者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、大都市、県庁所在市、人口30万以上市",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "産業(小分類)、経営組織(4区分)、単独・本所・支所、従業者規模(15区分)別民営事業所数、男女別従業者数及び常用雇用者数－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "産業(小分類)、経営組織(4区分)別事業所数、男女別従業者数及び常用雇用者数（国及び地方公共団体）－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "2021年経済センサス活動調査に基づく対象業者一覧｜全国商工団体連合会",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "2021年経済センサス活動調査に基づく対象業者一覧",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "本集計データは、『令和３年経済センサス‐活動調査』の結果を下記の方式で集計したものです",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "事業所に関する集計 ＞ 産業横断的集計 ＞ 事業所数、従業者数 ＞ 9-3表",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "２）C～Rのうち、従業員１～４⼈の事業所数の全体を抜き出す",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査データ2021のデータ項目 | マップマーケティング株式会社",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査データ2021のデータ項目",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査2021のデータ項目",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "「経済センサス活動調査データ2021」は、法人市場（BtoB）の出店調査や販売促進のための分析におススメのデータです",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～S_全産業事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C～E_第2次産業事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C_鉱業、採石業、砂利採取業事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "D_建設業事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "E_製造業事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "F～S_第3次産業事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "F_電気･ｶﾞｽ･熱供給･水道業事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査の概要 ......................................... 12",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、従来の活動調査等結果は、当時の消費税率であり、現行の税率（10％）と異",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 調査対象の事業所は、平成28年経済センサス‐活動調査では活用されていなかった",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の事業所数は、「不動産業， 物品賃貸業」 が34万669事業所、「学術研究，",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅰ－１ 産業分類別事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－１ 「冠婚葬祭業」における産業小分類別事業所数、売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」 、 「売上高」 、 「結婚式・披露宴の年間取扱件数」 、 「１事業所当たり結婚式・披露宴の年間取扱件数」 、 「葬儀の年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～ 令和３年経済センサス ‐活動調査の結果から ～",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総務省は、令和３年６月１日に実施した令和３年経済センサス‐活動調査（以下「令",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 企業等数・事業所数・従業者数",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年６月１日現在の企業等の数は 368 万企業、民営事業所数（「以下「事業所",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、国・地方公共団体を含めると、事業所数は 529 万事業所、従業者数は 6243",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数をみると、 「卸売業，小売業」が 123 万事業所（全産業の23.8%）と最も",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   }
+  ],
+  "従業者数": [
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 企業等に関する集計 産業別集計 学校教育に関する集計 1-1 企業産業（小分類），単一・複数（２区分）別企業等数，事業所数，従業者数，売上（収入）金額及び学校等種類別売上（収入）金額―全国，都道府県 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107495&tclass4val=0&statdisp_id=0003206580",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 企業等に関する集計 産業別集計 学校教育に関する集計 1-1 企業産業（小分類），単一・複数（２区分）別企業等数，事業所数，従業者数，売上（収入）金額及び学校等種類別売上（収入）金額―全国，都道府県 | データベース | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107495&tclass4val=0&statdisp_id=0003206580",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107495&tclass4val=0&statdisp_id=0003206580",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業（小分類），単一・複数（２区分）別企業等数，事業所数，従業者数，売上（収入）金額及び学校等種類別売上（収入）金額―全国，都道府県",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107495&tclass4val=0&statdisp_id=0003206580",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "経営組織(2区分)別全事業所数、男女別従業者数、1km2当たり事業所数及び従業者数－全国、都道府県、郡・支庁等、市区町村",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "経営組織(5区分)別全事業所数、男女別従業者数、1km2当たり事業所数及び従業者数－全国、都道府県、郡・支庁等、市区町村",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(8区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(7区分)、従業上の地位(6区分)、男女別従業者数（民営事業所）－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、従業上の地位(3区分)別事業所数、男女別従業者数及び民間からの従業者数（国及び地方公共団体）－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(5区分)、従業者規模(13区分)別全事業所数、男女別従業者数、常用雇用者数及び１事業所当たり従業者数－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(2区分)、従業者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、大都市、県庁所在市、人口30万以上市",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(2区分)、従業者規模(9区分)、従業上の地位(6区分)、男女別従業者数－全国、都道府県、大都市、県庁所在市、人口30万以上市",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "産業(小分類)、経営組織(4区分)、単独・本所・支所、従業者規模(15区分)別民営事業所数、男女別従業者数及び常用雇用者数－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "産業(小分類)、経営組織(4区分)、単独・本所・支所、従業者規模(14区分)、従業上の地位(6区分)、男女別従業者数（民営事業所）－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "事業所に関する集計 ＞ 産業横断的集計 ＞ 事業所数、従業者数 ＞ 9-3表",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "A～S_全産業従業者数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～S_全産業従業者数男21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～S_全産業従業者数女21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)従業者数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)従業者数男21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)従業者数女21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C～E_第2次産業従業者数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C～E_第2次産業従業者数男21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C～E_第2次産業従業者数女21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C_鉱業、採石業、砂利採取業従業者数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C_鉱業、採石業、砂利採取業従業者数男21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C_鉱業、採石業、砂利採取業従業者数女21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "１．事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の従業者数は、「不動産業， 物品賃貸業」 が141万５千人、「学術研究，",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅰ－１ 産業分類別事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」及び「従業者数」は 必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付表 産業小分類別事業所数、従業者数及び売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」 、「従業者数」及び「売上高」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付表 産業小分類別事業所数、従業者数及び売上高（続き）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当該事業所で実際に働いている人をいい、 従業者から 「他への出向 ・ 派遣従業者数」 を除き、",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「他からの出向・派遣従業者数」を加えることにより算出している",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "地域、産業（大分類）、経営組織別、事業活動別、従業者規模別等に事業所数、従業者数、",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に企業等数、従業者数、経理事項等を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①事業所数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、従業者規模別、開設時期別、存続・新設・廃業別等に事業所数、従業者数を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 企業等数・事業所数・従業者数",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）は 516 万事業所、従業者数は 5795 万人となっています",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、国・地方公共団体を含めると、事業所数は 529 万事業所、従業者数は 6243",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数をみると、「卸売業，小売業」が 1161 万人（全産業の 20.0%）と最も多",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別企業等数、事業所数、従業者数",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対象12社の売上・粗利・販売促進費・従業員数・主な事業の売上構成比も収録し、規模や事業タイプで絞り込めます",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 常用雇用者 正社員・正職員 総数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 常用雇用者 正社員・正職員以外 総数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 常用雇用者 正社員・正職員以外 男",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 常用雇用者 正社員・正職員以外 女",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 （再掲） うち他への出向・派遣従業者 総数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 （再掲） うち他への出向・派遣従業者 男",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 （再掲） うち他への出向・派遣従業者 女",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 うち常用雇用者 正社員・正職員以外(パート・アルバイトなど)",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 うち常用雇用者 正社員・正職員以外（パート・アルバイトなど）",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 うち常用雇用者 (再掲)パート・アルバイトなどの８時間換算雇用者数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   }
+  ],
+  "売上（収入）金額・付加価値額": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 速報集計 企業等に関する集計3 企業産業(大分類)、単一・複数(2区分)別企業等数、売上（収入）金額及び１企業当たり売上（収入）金額－全国、都道府県 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業(大分類)、単一・複数(2区分)別企業等数、売上（収入）金額及び１企業当たり売上（収入）金額－全国、都道府県",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "１企業当たり売上（収入）金額",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 企業等に関する集計 産業別集計 学校教育に関する集計 1-1 企業産業（小分類），単一・複数（２区分）別企業等数，事業所数，従業者数，売上（収入）金額及び学校等種類別売上（収入）金額―全国，都道府県 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107495&tclass4val=0&statdisp_id=0003206580",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 企業等に関する集計 産業別集計 学校教育に関する集計 1-1 企業産業（小分類），単一・複数（２区分）別企業等数，事業所数，従業者数，売上（収入）金額及び学校等種類別売上（収入）金額―全国，都道府県 | データベース | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107495&tclass4val=0&statdisp_id=0003206580",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業（小分類），単一・複数（２区分）別企業等数，事業所数，従業者数，売上（収入）金額及び学校等種類別売上（収入）金額―全国，都道府県",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107495&tclass4val=0&statdisp_id=0003206580",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)5000～1億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)1～10億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)10～50億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)50億円以上企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "E_製造業5000～1億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "E_製造業1～10億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "E_製造業10～50億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "E_製造業50億円以上企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "I_卸売業、小売業5000～1億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "I_卸売業、小売業1～10億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "I_卸売業、小売業10～50億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "I_卸売業、小売業50億円以上企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "・ 売上（収入）金額等の経理事項は2020年１年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の売上（収入）金額（以下「売上高」という",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "兆378億円、「学術研究， 専門 ・ 技術サービス業」 が46兆3668億円、「宿泊業， 飲食サービス業」",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が18兆9824億円、「生活関連サービス業， 娯楽業」 が29兆7551億円、「教育， 学習支援業」 が３",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "兆5769億円、「サービス業（他に分類されないもの） 」が41兆4390億円となっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅰ－２ 産業分類別売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注： 「売上高」、 「１事業所当たり売上高」 、 「従業者１人当たり売上高」及び「収入を得た相手先別割合」は必要な事項の数値が得",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－１ 「冠婚葬祭業」における産業小分類別事業所数、売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」 、 「売上高」 、 「結婚式・披露宴の年間取扱件数」 、 「１事業所当たり結婚式・披露宴の年間取扱件数」 、 「葬儀の年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 売上高・純付加価値額",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "我が国の企業等の令和２年の売上高は 1693 兆円、純付加価値額は 336 兆円となっ",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、 会社企業について資本金階級別にみると、 「資本金１億円以上」 の売上高",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が 900 兆円（資本金階級別の合計に占める割合は 63.6%）、純付加価値額が 133 兆",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 令和３年調査の売上高等の経理事項は令和２年の１年間を把握",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高を産業大分類別にみると、「卸売業，小売業」が 480 兆円と最も多く、次い",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で「製造業」が387 兆円、「医療，福祉」が173 兆円などとなっており、上位３産業",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純付加価値額を産業大分類別にみると、 「医療，福祉」が71 兆円で最も多く、次い",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10億円以上",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "1億円以上 - 10億円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "5千万円以上 - 1億円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "1千万円以上 - 1億円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "ア 製造業、建設業、運輸業その他の業種：資本金3億円以下又は従業者規模300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ゴム製品製造業は、資本金3億円以下または従業者規模900人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 卸売業：資本金1億円以下又は従業者規模100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ソフトウェア業、情報処理サービス業は、資本金3億円以下又は従業者規模300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中央値の金額は5.4億円から8.6億円（+60.1%）です",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "1．教育業界の広告費の割合（売上高広告費比率）",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "43.5億円",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "41.5億円",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "15.1億円",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "45.9億円",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "28.8億円",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "※ 上の143億円は、対象12社の合計です",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "1社あたりの平均は12.8億円から13.5億円に増えています（+5.6%）",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "中央値でも5.4億円から8.6億円に増えています",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "5年で広告宣伝費を大きく伸ばしたのは、成学社（+79%・6.0億円→10.7億円）、秀英予備校（+36%・4.7億円→6.4億円）、早稲田アカデミー（+28%・11.8億円→15.1億円）の3社です",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "図1：6社を合わせた広告宣伝費と売上高の動き（5年前を100とした指数）／出所：金融庁EDINET 有価証券報告書（株式会社ルミエール集計）",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "教育業界の広告宣伝費を調査 売上高広告費比率は中央値3.52%（上場11社） | 株式会社ルミエールのプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "教育業界の広告宣伝費を調査 売上高広告費比率は中央値3.52%（上場11社）",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、ソニーグループにおいては、2020年度と2021年度の広告宣伝費を比べると、約1,000億円もマイナスになっています",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度には広告宣伝費を減少させたソニーグループですが、2023年3月期には3911億円、2024年3月期には4227億円と、広告宣伝費を増加させています",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "1位は4000億超！広告宣伝費が多いトップ300社1000億円以上の広告費をかける企業は12社 | 企業ランキング | 東洋経済オンライン",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "2016年 6月",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107495&tclass4val=0&statdisp_id=0003206580",
+    "pass": 3
+   },
+   {
+    "quote": "2021年6月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "2021年経済センサス活動調査に基づく対象業者一覧｜全国商工団体連合会",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "2021年経済センサス活動調査に基づく対象業者一覧",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "※2026年4月1日より、事業統合に伴いお問い合わせ先を変更しました",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の事業所数は、「不動産業， 物品賃貸業」 が34万669事業所、「学術研究，",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の従業者数は、「不動産業， 物品賃貸業」 が141万５千人、「学術研究，",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "産業別規模別企業数（民営、非一次産業、2012年、2014年、2016年、2021年）",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(注)1. 2012年2月時点、2014年7月時点、2016年6月時点、2021年6月時点の値を掲載",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対象：教育業界の上場12社（学習塾・予備校・通信教育・語学・オンライン学習）／決算期：2025年8月期〜2026年3月期／出典：金融庁EDINET 有価証券報告書（株式会社ルミエール集計）",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "2．広告宣伝費の推移（5年）",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期・経営者による財政状態、経営成績及びキャッシュ・フローの状況の分析",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "費用面におきましては、交通広告をはじめとする新たな広告手法の導入による広告宣伝費が増加したほか、季節講習における合宿の拡充に伴い運営費用が増加しました",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "5年分の推移を収録",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "広告費と売上の5年分の推移です",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "全国の学習塾（2021年6月時点）",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "英会話教室を含む区分「外国語会話教授業」の事業所（2021年6月時点）",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "習い事教室を含む区分「教養・技能教授業」の事業所（2021年6月時点）",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "全国の保育園（2021年6月時点）",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "対象：教育業界の上場12社（学習塾・予備校・通信教育・語学・オンライン学習）／決算期：2025年8月期〜2026年3月期／出典：金融庁EDINET 有価証券報告書（2025年11月20日〜2026年6月25日提出）／集計：株式会社ルミエール（2026年9月24日公開）",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "数値および引用は、2026年9月24日時点で確認できた内容です",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年09月25日 15:00",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "・広告費と売上の5年分の推移を収録しています",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "集計：株式会社ルミエール（2026年9月24日時点）",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "設立：2026年2月",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月04日 18:00",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月04日 15:00",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月04日 14:00",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月04日 13:00",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、広告宣伝をしなくては、売上を大きくあげることは難しく、現状維持もしくは減少していく可能性も出てきます",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度は、多くの企業が広告宣伝費を減少させる傾向にありました",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、ソニーグループにおいては、2020年度と2021年度の広告宣伝費を比べると、約1,000億円もマイナスになっています",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、任天堂は広告宣伝費を増加させていました",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "任天堂が広告宣伝費を増加させたのは、巣ごもり需要が追い風となったためです",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "反対に、ソニーグループや日産自動車など、アウトドアが軸になっている会社は広告宣伝費を減少させていました",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、2024年度は多くの企業が再度広告宣伝費を増加させている傾向にあります",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度には広告宣伝費を減少させたソニーグループですが、2023年3月期には3911億円、2024年3月期には4227億円と、広告宣伝費を増加させています",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、2021年度と比べると依然として宣伝広告費は減少傾向です",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "日産自動車を例にすると、2021年度の広告比率が2.96％だったのに対し、2024年度は2.5%です",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、あくまで比率が下がっているだけであり、広告宣伝費自体は増加傾向にあります",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "※コロナ禍との違いを比較できるように2021年度と比較",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "分離適格振替国債の分離状況並びに現在高推移",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "甲調査及び乙調査とも2021年６月１日を調査日として実施している",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の企業等（※２）の数は368万4049企業、民営事業所数（以下「事業所数」",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年） 【参考】2016年（平成28年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【参考】2016年（平成28年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（ 令和３年） 【参考】 2016年（平成28年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注３：調査事項の変更に伴い、雇用者の内訳が異なるため、2016年の数値は表章していない（利用上の注意",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【参考】2016年",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 2016年以降に開設された事業所の数は、62万2850事業所となっている",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別に2016年以降に開設された事業所の数をみると、「卸売業，小売業」が",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 産業大分類別に、産業ご との事業所数に占める2016年以降に開設された事業所数の",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年（平成27年）以前 2016年（平成28年）以降",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月13日 11:00",
+    "url": "https://note.com/kamakuracity_edu/n/n3ce24aefefa2",
+    "pass": 3
+   },
+   {
+    "quote": "本ファンドを活用して、2026年度は、希望する教師たちがテーマに応じて全国の学校に学びに行く「先進地視察」、次期学習指導要領の世界観に挑戦する学校の組織的な学びを応援する「サキドリ応援」、自由参加の学びと対話の場である「Kamakura Teacher’s Learning Day」などを予定している",
+    "url": "https://note.com/kamakuracity_edu/n/n3ce24aefefa2",
+    "pass": 3
+   },
+   {
+    "quote": "2021年8月12日 07:00",
+    "url": "https://note.com/tankyumedia/n/nd9c8a1ae3a01",
+    "pass": 3
+   }
+  ],
+  "資本金1億円以上の企業": [
+   {
+    "quote": "産業(中分類)、資本金階級(10区分)、常用雇用者規模(10区分)、単独・本所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社を除く会社の単独及び本所事業所）－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "産業(大分類)、資本金階級(10区分)、単独・本所、存続・新設・廃業別民営事業所数及び男女別従業者数（外国の会社を除く会社の単独及び本所事業所）－全国、都道府県、市区町村",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "pass": 3
+   },
+   {
+    "quote": "地域、産業（大分類）、経営組織別、事業活動別、企業常用雇用者規模別、資本金階級別等",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①企業等数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、企業常用雇用者規模別、資本金階級別等に企業等数、従業者数等を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②経理事項等 地域、産業（大分類・中分類・小分類）、経営組織別、事業活動別、企業常用雇用者規模別、資本金階級別等に経理事項等を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）概況及び資本金階級別の状況",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、 会社企業について資本金階級別にみると、 「資本金１億円以上」 の売上高",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が 900 兆円（資本金階級別の合計に占める割合は 63.6%）、純付加価値額が 133 兆",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社企業について、資本金階級別に企業の数をみると、 「資本金1000 万円未満」が",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "104 万企業（資本金階級別の合計に占める割合は59.3%）と最も多く、階級区分が最",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）売上高に占める追加法人の割合（資本金階級別）",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金階級別に、当該階級の 売上高の合計に占める追加法人の売上高の割合をみる",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高く、資本金階級の区分が上がるごとにその割合は低下し、 資本金階級区分が最も高い",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査 時系列データ 時系列データ 1 金融業、保険業以外の業種(原数値) 年度次 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査 | すべて | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査 時系列データ 時系列データ 1 金融業、保険業以外の業種(原数値) 年度次 | データベース | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査は、わが国における営利法人等の企業活動の実態を把握するため、標本調査として実施されている統計法に基づく基幹統計調査です",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 大企業",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査附帯調査 四半期別GDP速報（1次速報）のための一部項目早期調査",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "（３）資本金階級別の状況（会社企業に関する集計）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社企業について、資本金階級別に企業数をみると、「資本金1000万円未満」が103万",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6076企業（資本金階級別の合計に占める割合は59.3％） と最も多く、次いで 「資本金1000",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－３ 資本金階級別会社企業数、売上高及び純付加価値額",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図Ⅱ－２ 資本金階級別会社企業数、売上高及び純付加価値額の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（４）資本金階級別設備投資額の状況（会社企業に関する集計）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社企業について、資本金階級別に設備投資額をみると、「資本金１億円以上」が38兆4951",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億円（資本金階級別の合計に占める割合は76.2％）と最も多く、次いで「資本金3000万円",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－14 資本金階級別会社企業数及び設備投資額",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図Ⅱ－12 資本金階級別会社企業数及び設備投資額の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   }
+  ],
+  "広告宣伝費・販管費": [
+   {
+    "quote": "純付加価値額＝売上高－費用総額［売上原価＋販売費及び一般管理費］＋給与総額＋租税公課",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "教育業界のマーケティング投資調査2026｜上場12社の広告費と集客手法",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "教育業界の広告費の割合（売上比率）調査2026",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "無料資料：教育業界の広告費データ（上場12社・Excel）",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "売上に対する広告宣伝費は3.52%",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費は5年で1社あたり+5.6%",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "売上に対する広告宣伝費の比率は、事業タイプで1.9倍の開き",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "1．教育業界の広告費の割合（売上高広告費比率）",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費の金額を開示していたのは12社です",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費を開示した会社のうち、広告費と売上を同じ連結基準で比較できる11社を集計しました",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "売上に対する広告費は、中央値で3.52%",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費の合計（12社）",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "教育業界の広告宣伝費ランキング（上位3社）",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "教育業界の広告宣伝費を調査 売上高広告費比率は中央値3.52%（上場11社） | 株式会社ルミエールのプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "教育業界の広告宣伝費を調査 売上高広告費比率は中央値3.52%（上場11社）",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ルミエール（本社：東京都江東区、代表取締役：池田英加）は、金融庁EDINETに提出された有価証券報告書をもとに、教育業界の上場12社（学習塾・予備校・通信教育・語学・オンライン学習）の広告宣伝費を集計し、調査ページを公開しました",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "調査ページ：教育業界の広告費の割合（売上比率）調査2026",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "・売上に対する広告宣伝費の中央値は3.52%（比率を算出できた11社）で、上場企業全体の中央値は2.10%です",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "自社の売上高と粗利率を入力すると、広告費の目安を算出できるシミュレーターも用意しています",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "ほかの業種の調査は、一覧ページ（業界別の広告費の割合調査2026）からご覧いただけます",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "・自社の売上高と広告費を入力すると、同じ事業タイプの会社と比べた位置と、目安の金額がわかります",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "・対象の上場12社が、売上に対してどれだけ広告宣伝費を使っているかを会社ごとに確認できます",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "・広告費と売上の5年分の推移を収録しています",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "対象：教育業界の上場12社（広告宣伝費の金額を開示している会社は12社）",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "※売上高広告費比率は、広告宣伝費と同じ基準（連結または単体）の売上高で算出できた会社の中央値です",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "業種別・業界別広告宣伝費（販促費）の売上比率・割合の平均は？最適な広告予算を立てよう | 販促の大学で広告・マーケティング・経営を学ぶ",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別・業界別広告宣伝費（販促費）の売上比率・割合の平均は？最適な広告予算を立てよう",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "業種・業界の一般的な売上に対する広告宣伝費（",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費（販売促進費）は、自社の商品・サービスの売上をあげるために必要不可欠なコストであることは、販促担当の方なら誰でもご存知のはずです",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで今回は、広告宣伝費（販売促進費）の割合と、最も簡単な広告予算の立て方についても、業種を考慮しながらご説明しますので、ぜひご参考にしてください",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費（販売促進費）とは？ その種類は？",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費（販売促進費）の予算の立て方とは？",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "売上に対する広告宣伝費（販売促進費）の比率・割合",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費（販売促進費）の費用対効果を高める4つの方法",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費（販売促進費）の予算を立てる際の注意点",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費（販売促進費）とは、端的に言うと売り手側がその業界で積極的にブランドイメージを構築し、商品の価値を消費者にわかりやすく伝えるためのコストのことです",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、お客様に商品・サービスの魅力を訴える際の費用（コスト）が広告宣伝費（販売促進費）です",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "純付加価値額＝売上高－（費用総額（売上原価＋販売費及び一般管理費））＋給与総額＋租税公課",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全産業における設備投資額売上高比率（売上高に対する設備投資額の割合）は3.5％とな",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別に設備投資額売上高比率をみると、「電気・ガス・熱供給・水道業」が10.9％",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－13 産業大分類別設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「売上高」、「設備投資額」及び「設備投資額売上高比率」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図Ⅱ－11 産業大分類別設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「設備投資額売上高比率」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類 売上高 設備投資額 設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 費用総額（売上原価＋販売費及び一般管理費）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「売上原価」、「販売費及び一般管理費」それぞれに計上された",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "教育業界 の 広告 費の割合（ 売上比率 ）調査2026 — 教育業界 の 広告 費の割合（ 売上比率 ）調査2026 lumierre.jp https://lumierre.jp > 業界別の広告費の割合調査",
+    "url": "https://lumierre.jp/research/education/",
+    "pass": 3
+   },
+   {
+    "quote": "教育業界 の 広告宣伝費 を調査 売上高 広告費 比率 は中央値3.52 ... — 教育業界 の 広告宣伝費 を調査 売上高 広告費 比率 は中央値3.52 ... ドリームニュース https://www.dreamnews.jp > press",
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "pass": 3
+   },
+   {
+    "quote": "教育業界 の 広告宣伝費 を調査 売上高 広告費 比率 は中央値3.52 ... — 教育業界 の 広告宣伝費 を調査 売上高 広告費 比率 は中央値3.52 ... ニコニコニュース https://news.nicovideo.jp > 「エンタメ」のニュース",
+    "url": "https://news.nicovideo.jp/watch/nw19806339",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ピアノ教室はサービス業なのか？｜vc_archet / チェロの弓 - note ピアノ教室はサービス業なのか？｜vc_archet / チェロの弓 - note note https://note.com > 教育・学び > 教育・学び全般",
+    "url": "https://note.com/vc_archet/n/n7ff93b5b382e",
+    "pass": 3
+   },
+   {
+    "quote": "東京都の主要な 教育 ・ 学習支援業 関連企業一覧② - note 東京都の主要な 教育 ・ 学習支援業 関連企業一覧② - note note https://note.com > 教育・学び > 教育・学び全般",
+    "url": "https://note.com/clipcorporation/n/n896e013f37e1",
+    "pass": 3
+   },
+   {
+    "quote": "発達障害について｜kirarin【発達/ 学習 指導専門員】｜note 発達障害について｜kirarin【発達/ 学習 指導専門員】｜note note https://note.com > kira_rin > hashtag > 教育・学習支援業",
+    "url": "https://note.com/kira_rin/m/m7a5ba17f767b/hashtag/%E6%95%99%E8%82%B2%E3%83%BB%E5%AD%A6%E7%BF%92%E6%94%AF%E6%8F%B4%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "福岡県の主要な 教育 ・ 学習支援業 関連企業一覧 - note 福岡県の主要な 教育 ・ 学習支援業 関連企業一覧 - note note https://note.com > 教育・学び > 学校教育",
+    "url": "https://note.com/clipcorporation/n/n78e96ef86f44",
+    "pass": 3
+   },
+   {
+    "quote": "note の 教育支援 プログラム note の 教育支援 プログラム note https://note.com > edu",
+    "url": "https://note.com/edu",
+    "pass": 3
+   },
+   {
+    "quote": "「先生の学び」に創造的余白を｜鎌倉市 教育 委員会 note 「先生の学び」に創造的余白を｜鎌倉市 教育 委員会 note note https://note.com > 教育・学び > 教育・学び全般",
+    "url": "https://note.com/kamakuracity_edu/n/n3ce24aefefa2",
+    "pass": 3
+   },
+   {
+    "quote": "学校現場に「 学習 する組織」の考え方を広げたい - note 学校現場に「 学習 する組織」の考え方を広げたい - note note https://note.com > 教育・学び > 教育・学び全般",
+    "url": "https://note.com/tankyumedia/n/nd9c8a1ae3a01",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ピアノ教室はサービス業なのか？｜vc_archet / チェロの弓",
+    "url": "https://note.com/vc_archet/n/n7ff93b5b382e",
+    "pass": 3
+   },
+   {
+    "quote": "ピアノ関連のポストや動画を見るために某SNSやYoutubeを利用しているせいか、自然とタイムラインに現れたりするのですよね～。",
+    "url": "https://note.com/vc_archet/n/n7ff93b5b382e",
+    "pass": 3
+   },
+   {
+    "quote": "というわけで。またこの人かと思いつつ、別に私はネットストーカーじゃないのでスルーしようかと思いましたが。。。なんでも、",
+    "url": "https://note.com/vc_archet/n/n7ff93b5b382e",
+    "pass": 3
+   },
+   {
+    "quote": "（国が行っている統計調査）からだそうです。",
+    "url": "https://note.com/vc_archet/n/n7ff93b5b382e",
+    "pass": 3
+   },
+   {
+    "quote": "ではどう思おうが自由だし別にいいのだけど。",
+    "url": "https://note.com/vc_archet/n/n7ff93b5b382e",
+    "pass": 3
+   },
+   {
+    "quote": "！ サービス業なんかじゃない。生徒はお客さん扱いなんかしないぜ！ 何といっても",
+    "url": "https://note.com/vc_archet/n/n7ff93b5b382e",
+    "pass": 3
+   },
+   {
+    "quote": "を受けているんだからな！ などと考えているんだとしたら。。。",
+    "url": "https://note.com/vc_archet/n/n7ff93b5b382e",
+    "pass": 3
+   },
+   {
+    "quote": "という用語。おそらく、今時の小学生のほうが我々大人より正確にその定義を把握しているかも💣 でも、小学生に接する機会が多いピアノの先生にそれをゆがめられてしまうならそれはそれでヤバイ😱",
+    "url": "https://note.com/vc_archet/n/n7ff93b5b382e",
+    "pass": 3
+   },
+   {
+    "quote": "東京都の主要な教育・学習支援業関連企業一覧②｜企業クリップ",
+    "url": "https://note.com/clipcorporation/n/n896e013f37e1",
+    "pass": 3
+   },
+   {
+    "quote": "東京都の主要な教育・学習支援業関連企業一覧②",
+    "url": "https://note.com/clipcorporation/n/n896e013f37e1",
+    "pass": 3
+   },
+   {
+    "quote": "教育，学習支援業の特色や代表する企業｜学校や学習塾教育，学習支援業の特色や代表する企業｜学校や学習塾 - 企業クリップ",
+    "url": "https://note.com/clipcorporation/n/n896e013f37e1",
+    "pass": 3
+   },
+   {
+    "quote": "教育，学習支援業は、日本標準産業分類における「大分類O」に位置づけられ、幼稚園から大学、高等専門学校、専門学校、塾、予備校",
+    "url": "https://note.com/clipcorporation/n/n896e013f37e1",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ビズコム・ジャパン ｜ 東京都世田谷区三軒茶屋２丁目４８－８",
+    "url": "https://note.com/clipcorporation/n/n896e013f37e1",
+    "pass": 3
+   },
+   {
+    "quote": "アイネスト株式会社 ｜ 東京都世田谷区成城６丁目１６番２３号",
+    "url": "https://note.com/clipcorporation/n/n896e013f37e1",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エムティーエス ｜ 東京都世田谷区千歳台５丁目７番７号",
+    "url": "https://note.com/clipcorporation/n/n896e013f37e1",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アテア ｜ 東京都中央区銀座６丁目６番１号",
+    "url": "https://note.com/clipcorporation/n/n896e013f37e1",
+    "pass": 3
+   },
+   {
+    "quote": "ADHDにはどんな学習支援・対応が有効なの？→集中を復活させるのがポイント",
+    "url": "https://note.com/kira_rin/m/m7a5ba17f767b/hashtag/%E6%95%99%E8%82%B2%E3%83%BB%E5%AD%A6%E7%BF%92%E6%94%AF%E6%8F%B4%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "ADHD（注意欠如多動症）って何？困り感はどこにあるのか。",
+    "url": "https://note.com/kira_rin/m/m7a5ba17f767b/hashtag/%E6%95%99%E8%82%B2%E3%83%BB%E5%AD%A6%E7%BF%92%E6%94%AF%E6%8F%B4%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "発達障害について｜kirarin【発達/学習指導専門員】｜note",
+    "url": "https://note.com/kira_rin/m/m7a5ba17f767b/hashtag/%E6%95%99%E8%82%B2%E3%83%BB%E5%AD%A6%E7%BF%92%E6%94%AF%E6%8F%B4%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "福岡県の主要な教育・学習支援業関連企業一覧｜企業クリップ",
+    "url": "https://note.com/clipcorporation/n/n78e96ef86f44",
+    "pass": 3
+   },
+   {
+    "quote": "福岡県の主要な教育・学習支援業関連企業一覧",
+    "url": "https://note.com/clipcorporation/n/n78e96ef86f44",
+    "pass": 3
+   },
+   {
+    "quote": "教育，学習支援業の特色や代表する企業｜学校や学習塾教育，学習支援業の特色や代表する企業｜学校や学習塾 - 企業クリップ",
+    "url": "https://note.com/clipcorporation/n/n78e96ef86f44",
+    "pass": 3
+   },
+   {
+    "quote": "教育，学習支援業は、日本標準産業分類における「大分類O」に位置づけられ、幼稚園から大学、高等専門学校、専門学校、塾、予備校",
+    "url": "https://note.com/clipcorporation/n/n78e96ef86f44",
+    "pass": 3
+   },
+   {
+    "quote": "公益財団法人日本習字教育財団 ｜ 福岡県福岡市中央区赤坂２丁目６番１１号",
+    "url": "https://note.com/clipcorporation/n/n78e96ef86f44",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社教習所サポート ｜ 福岡県大野城市下大利３丁目２番２０号",
+    "url": "https://note.com/clipcorporation/n/n78e96ef86f44",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社大橋スイミングプラザ ｜ 福岡県福岡市南区塩原３丁目４番３５号",
+    "url": "https://note.com/clipcorporation/n/n78e96ef86f44",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ミュージックメイト福岡 ｜ 福岡県福岡市東区千早５丁目４番８号",
+    "url": "https://note.com/clipcorporation/n/n78e96ef86f44",
+    "pass": 3
+   },
+   {
+    "quote": "noteの教育支援プログラムのページナビゲーション",
+    "url": "https://note.com/edu",
+    "pass": 3
+   },
+   {
+    "quote": "noteは創作のたのしさを伝え表現力を育む出前授業の実施や、学校の情報発信のサポートに取り組んでいます。創作を通じて自分の世界が広がる体験を、全国の子どもたちに届けています。",
+    "url": "https://note.com/edu",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアやホームページの構築が簡単にできる「note pro」を学校に無償提供しています。運用フォローアップも行い、学校の情報発信を支援しています。",
+    "url": "https://note.com/edu",
+    "pass": 3
+   },
+   {
+    "quote": "全国の自治体や事業者のみなさんと連携した、広域でのnote pro一括導入や、複数校での出前事業の展開などを行っています。",
+    "url": "https://note.com/edu",
+    "pass": 3
+   },
+   {
+    "quote": "全国の小学校・中学校・高等学校・特別支援学校で、noteが無償で出前授業を行います。授業時間内はもちろん、部活動や生徒会活動、有志での勉強会等、形式問わずご相談ください。",
+    "url": "https://note.com/edu",
+    "pass": 3
+   },
+   {
+    "quote": "簡単にオウンドメディアやホームページを構築できるnote pro",
+    "url": "https://note.com/edu",
+    "pass": 3
+   },
+   {
+    "quote": "学校に対して、オウンドメディアやホームページ構築が簡単にできる「note pro」を無償提供しています。noteディレクターによる運用フォローアップも行い、学校の情報発信を支援しています。公立・私立は問わず、全国の小学校・中学校・高等学校・特別支援学校が対象です。",
+    "url": "https://note.com/edu",
+    "pass": 3
+   },
+   {
+    "quote": "だれでも直感的に操作ができるシンプルで使いやすい投稿画面のため、異動で担当変更が多い公立学校でも、安心して活用いただけます。広告表示がなく、コメントもオフにすることができるので、公共性を保った発信が可能です。noteディレクターが運用のフォローアップも行いますので、はじめてウェブを使った発信をする場合でも、安心してつづけていただけます。",
+    "url": "https://note.com/edu",
+    "pass": 3
+   },
+   {
+    "quote": "「先生の学び」に創造的余白を｜鎌倉市教育委員会note",
+    "url": "https://note.com/kamakuracity_edu/n/n3ce24aefefa2",
+    "pass": 3
+   },
+   {
+    "quote": "『内外教育』で掲載されました「第14回 鎌倉教育長日記」を紹介します。",
+    "url": "https://note.com/kamakuracity_edu/n/n3ce24aefefa2",
+    "pass": 3
+   },
+   {
+    "quote": "教師たちは忙しい。授業、校務、保護者対応、子どもたち一人一人への支援……。目の前の子どもたちに誠実に向き合えば向き合うほど、未来を考える時間や、自分自身の学びを深める時間は後回しになりがちである。しかし、本来、教師という仕事は学び続ける仕事である。子どもたちに「探究しよう」「自分らしく学ぼう」と語る大人自身が、ワクワクしながら学び、悩み、問い直し続けていること。その姿こそが子どもたちの学びに火を",
+    "url": "https://note.com/kamakuracity_edu/n/n3ce24aefefa2",
+    "pass": 3
+   },
+   {
+    "quote": "鎌倉市では1千万円の寄付金を原資に、学校組織と教師個人の学びの両方を支援するため、「先生の学び応援ファンド」を設置した。教育委員会への寄付は、既存施策の財源になるなど使途が見えにくくなりがちだが、本ファンドでは「先生の学び」に使途を明確化した。寄付者にもその意義に共感していただき、強力な応援を頂いた。「先生の学び」のための基金を設置する取り組みは、全国でも初めてとなる。",
+    "url": "https://note.com/kamakuracity_edu/n/n3ce24aefefa2",
+    "pass": 3
+   },
+   {
+    "quote": "こう聞くと、教育委員会が研修予算を積み増し、ただでさえ忙しい教師に「もっと学べ」とトップダウンで研修を課すのかと誤解されるかもしれな い。そうではない。",
+    "url": "https://note.com/kamakuracity_edu/n/n3ce24aefefa2",
+    "pass": 3
+   },
+   {
+    "quote": "われわれが目指すのは、教育委員会から現場に降ってくる",
+    "url": "https://note.com/kamakuracity_edu/n/n3ce24aefefa2",
+    "pass": 3
+   },
+   {
+    "quote": "研修ではなく、学校や教師たちの主体的で個別的な学びに対して、「時間とお金」というリソースを柔軟に提供する試みである。言い換えれば、教師の「創造的な余白」を制度的に生み出すことである。",
+    "url": "https://note.com/kamakuracity_edu/n/n3ce24aefefa2",
+    "pass": 3
+   },
+   {
+    "quote": "鎌倉市ではこれまでも、「スクールコラボファンド」により、寄付を原資として企業や大学と連携した子どもたちの探究的な学びを支援してきた。今回のファンドは、その〝きょうだい〟とも言える教師の探究のためのファンドである。",
+    "url": "https://note.com/kamakuracity_edu/n/n3ce24aefefa2",
+    "pass": 3
+   },
+   {
+    "quote": "異業種から教育分野へ。システム思考教育家として、学校現場に「学習する組織」の考え方を広げたい｜探究メディアQ",
+    "url": "https://note.com/tankyumedia/n/nd9c8a1ae3a01",
+    "pass": 3
+   },
+   {
+    "quote": "異業種から教育分野へ。システム思考教育家として、学校現場に「学習する組織」の考え方を広げたい",
+    "url": "https://note.com/tankyumedia/n/nd9c8a1ae3a01",
+    "pass": 3
+   },
+   {
+    "quote": "組織論の名著『学習する組織』は、世界中の企業や NPO、教育現場などで広く活用されています。その著者であるピーター・センゲ氏の元で10年間学び、ワークショップをサポートしてきた福谷彰鴻さん。",
+    "url": "https://note.com/tankyumedia/n/nd9c8a1ae3a01",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカでMBAを取得した後に企業のマーケティング分野に携わり、その後38歳で独立。現在は、システム思考教育家として学校現場に「学習する組織」や「システム思考」の考え方を広げる活動をされています。",
+    "url": "https://note.com/tankyumedia/n/nd9c8a1ae3a01",
+    "pass": 3
+   },
+   {
+    "quote": "「もともとは、学校教育にはあまり関心がなかったんです」と話す福谷さんが、システム思考教育家としての活動を決めた背景には、どのような思いがあったのでしょうか？これまでの経緯や現在の仕事内容、これから実現したいことを伺いました。",
+    "url": "https://note.com/tankyumedia/n/nd9c8a1ae3a01",
+    "pass": 3
+   },
+   {
+    "quote": "父親がきっかけとなり『学習する組織』に出会い、センゲ氏を追いかけてアメリカへ",
+    "url": "https://note.com/tankyumedia/n/nd9c8a1ae3a01",
+    "pass": 3
+   },
+   {
+    "quote": "センゲの言葉と姪っ子の誕生で、教育に関心を持つ",
+    "url": "https://note.com/tankyumedia/n/nd9c8a1ae3a01",
+    "pass": 3
+   },
+   {
+    "quote": "ワークショップで出会った先生達に刺激を受け、独立を決意",
+    "url": "https://note.com/tankyumedia/n/nd9c8a1ae3a01",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "教育 ICTニュースサイト「こどもとIT」 - X 教育 ICTニュースサイト「こどもとIT」 - X X https://x.com > @EdTech_for_Kids",
+    "url": "https://x.com/EdTech_for_Kids/status/2110626755195335131",
+    "pass": 3
+   },
+   {
+    "quote": "日本語 教育 研究所 (@NihongoNikken) / X 日本語 教育 研究所 (@NihongoNikken) / X X https://x.com > NihongoNikken",
+    "url": "https://x.com/NihongoNikken",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Taniguchi Minami - 教育 ・ 学習支援業 - LinkedIn Taniguchi Minami - 教育 ・ 学習支援業 - LinkedIn LinkedIn https://www.linkedin.com > ...",
+    "url": "https://www.linkedin.com/in/taniguchi-minami-273b616a",
+    "pass": 3
+   },
+   {
+    "quote": "KOHEI SATO - 教育 ・ 学習支援業 - LinkedIn KOHEI SATO - 教育 ・ 学習支援業 - LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/kohei-sato-341949ab",
+    "pass": 3
+   },
+   {
+    "quote": "Takemasa SEKINE - 教育 ・ 学習支援業 - LinkedIn Takemasa SEKINE - 教育 ・ 学習支援業 - LinkedIn LinkedIn https://jp.linkedin.com > takemasa-sekine-63778776",
+    "url": "https://jp.linkedin.com/in/takemasa-sekine-63778776",
+    "pass": 3
+   },
+   {
+    "quote": "Yumiko Nakahara - 教育 ・ 学習支援業 - LinkedIn Yumiko Nakahara - 教育 ・ 学習支援業 - LinkedIn LinkedIn https://www.linkedin.com > yumiko-nakahara-20534885",
+    "url": "https://www.linkedin.com/in/yumiko-nakahara-20534885",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "サイバー攻撃で情報漏えい約3.8億件、 教育 ・ 学習支援業 は24 ... サイバー攻撃で情報漏えい約3.8億件、 教育 ・ 学習支援業 は24 ... Facebook https://www.facebook.com > watch.edu > posts > サイバ...",
+    "url": "https://www.facebook.com/watch.edu/posts/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E3%81%A7%E6%83%85%E5%A0%B1%E6%BC%8F%E3%81%88%E3%81%84%E7%B4%8438%E5%84%84%E4%BB%B6%E6%95%99%E8%82%B2%E5%AD%A6%E7%BF%92%E6%94%AF%E6%8F%B4%E6%A5%AD%E3%81%AF24%E5%A2%97-%EF%BD%8D%EF%BD%8D%E7%B7%8F%E7%A0%94%E8%AA%BF%E6%9F%BB/1785964056718360/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪大学全学 教育 推進機構 教育学習支援 部 | Toyonaka-shi Osaka 大阪大学全学 教育 推進機構 教育学習支援 部 | Toyonaka-shi Osaka Facebook https://www.facebook.com > ... > ビジネス > 教育 > 大学",
+    "url": "https://www.facebook.com/tlscosakauniversity/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://faq-e-census-st.dga.jp/faq_detail.html?id=307&page=1000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107495&tclass4val=0&statdisp_id=0003206580",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000490689.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lumierre.jp/research/education/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000363524",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.nicovideo.jp/watch/nw19806339",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei-koken.gr.jp/publication/6556/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/80/03/82E",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-census-st.go.jp/bunrui/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vc_archet/n/n7ff93b5b382e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clipcorporation/n/n896e013f37e1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kira_rin/m/m7a5ba17f767b/hashtag/%E6%95%99%E8%82%B2%E3%83%BB%E5%AD%A6%E7%BF%92%E6%94%AF%E6%8F%B4%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clipcorporation/n/n78e96ef86f44",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/EdTech_for_Kids/status/2110626755195335131",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/taniguchi-minami-273b616a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/kohei-sato-341949ab",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/takemasa-sekine-63778776",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/yumiko-nakahara-20534885",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/watch.edu/posts/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E3%81%A7%E6%83%85%E5%A0%B1%E6%BC%8F%E3%81%88%E3%81%84%E7%B4%8438%E5%84%84%E4%BB%B6%E6%95%99%E8%82%B2%E5%AD%A6%E7%BF%92%E6%94%AF%E6%8F%B4%E6%A5%AD%E3%81%AF24%E5%A2%97-%EF%BD%8D%EF%BD%8D%E7%B7%8F%E7%A0%94%E8%AA%BF%E6%9F%BB/1785964056718360/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tlscosakauniversity/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/edu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kamakuracity_edu/n/n3ce24aefefa2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tankyumedia/n/nd9c8a1ae3a01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/NihongoNikken",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済センサス 活動調査 教育・学習支援業 企業数 売上（収入）金額",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "https://faq-e-census-st.dga.jp/faq_detail.html?id=307&page=1000",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107056&tclass3=000001107495&tclass4val=0&statdisp_id=0003206580",
+    "https://www.e-census-st.go.jp/",
+    "https://stats47.jp/survey/economic-census-activity",
+    "https://ftf-office.com/2026/04/08/e-census2026/",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?layout=dataset&query=産業+分類+細分&stat_infid=000031685668"
+   ]
+  },
+  {
+   "query": "経済センサス 2021 産業大分類 教育・学習支援業 従業者数",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "https://www.zenshoren.or.jp/2021census-gyosya",
+    "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000275.html",
+    "https://www.stat.go.jp/data/e-census/2021/index.html"
+   ]
+  },
+  {
+   "query": "法人企業統計 教育・学習支援業 資本金1億円以上 社数",
+   "results": [
+    "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "https://www.soumu.go.jp/main_content/000490689.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou2.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://www.nstac.go.jp/sys/files/2022_rengo_02.pdf",
+    "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "https://open-g.itlibra.com/industries/O"
+   ]
+  },
+  {
+   "query": "教育・学習支援業 広告宣伝費 売上高比率 業種別",
+   "results": [
+    "https://lumierre.jp/research/education/",
+    "https://www.dreamnews.jp/press/0000363524",
+    "https://news.nicovideo.jp/watch/nw19806339",
+    "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "https://www.nikkei-koken.gr.jp/publication/6556/",
+    "https://grill.co.jp/marketing-log/17487/",
+    "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/24sendenkoho-houkokusho",
+    "https://keiei.freee.co.jp/articles/p0100160",
+    "https://lumierre.jp/research/market/ad-spend/"
+   ]
+  },
+  {
+   "query": "e-Stat 経済センサス 教育・学習支援業 付加価値額",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.e-stat.go.jp/classifications/terms/80/03/82E",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "https://www.e-census-st.go.jp/bunrui/",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.e-census-st.go.jp/",
+    "https://www.stat.go.jp/data/e-census/2016/kekka/gaiyo.html",
+    "https://www.e-stat.go.jp/stat-search/files?layout=dataset&query=産業+分類+細分&stat_infid=000031685668"
+   ]
+  },
+  {
+   "query": "site:note.com 教育・学習支援業",
+   "results": [
+    "https://note.com/vc_archet/n/n7ff93b5b382e",
+    "https://note.com/clipcorporation/n/n896e013f37e1",
+    "https://note.com/kira_rin/m/m7a5ba17f767b/hashtag/%E6%95%99%E8%82%B2%E3%83%BB%E5%AD%A6%E7%BF%92%E6%94%AF%E6%8F%B4%E6%A5%AD",
+    "https://note.com/clipcorporation/n/n78e96ef86f44",
+    "https://note.com/chubo_wagamama/n/n7084ec1913d1",
+    "https://note.com/clipcorporation/n/nc7a58677f9ac",
+    "https://note.com/lineworks/n/ndf7c11cd96c8",
+    "https://note.com/webcrafts/n/n04897bcd7e40",
+    "https://note.com/transtep/n/nd34e31b23f91",
+    "https://note.com/takekawa_hiroki/n/n95d1fb5bafa6"
+   ]
+  },
+  {
+   "query": "site:x.com 教育・学習支援業",
+   "results": [
+    "https://x.com/sen_u/status/2110615391571677492",
+    "https://x.com/EdTech_for_Kids/status/2110626755195335131",
+    "https://x.com/cloudsign_jp/status/2105490086335033648",
+    "https://x.com/DaysHakuba/status/2110493029887086700",
+    "https://x.com/EdTech_for_Kids/status/2117882065157054886",
+    "https://x.com/allabout_news/status/2104378351356125485?lang=ca",
+    "https://x.com/MalwareBibleJP/status/2110979811875410143",
+    "https://x.com/awakoyot/status/2057659445765919119",
+    "https://x.com/matsumoto1116/status/1787803637743518080"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 教育・学習支援業",
+   "results": [
+    "https://www.linkedin.com/in/taniguchi-minami-273b616a",
+    "https://jp.linkedin.com/in/kohei-sato-341949ab",
+    "https://jp.linkedin.com/in/takemasa-sekine-63778776",
+    "https://www.linkedin.com/in/yumiko-nakahara-20534885",
+    "https://jp.linkedin.com/in/%E6%96%BD%E9%96%80-%E4%B8%8A%E5%8E%9F-0b7403b7",
+    "https://jp.linkedin.com/in/sachiko-nakamura-851bbba2",
+    "https://au.linkedin.com/in/kayo-nishida-000a13b4",
+    "https://jp.linkedin.com/in/%E5%8F%B2%E9%83%8E-%E5%B0%8F%E9%95%B7%E8%B0%B7-4a486295",
+    "https://jp.linkedin.com/in/%E5%8D%83%E6%81%B5%E5%AD%90-%E8%BF%91%E8%97%A4-ba031bab",
+    "https://jp.linkedin.com/in/優子-渡辺-07ba59115"
+   ]
+  },
+  {
+   "query": "site:facebook.com 教育・学習支援業",
+   "results": [
+    "https://www.facebook.com/watch.edu/posts/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E3%81%A7%E6%83%85%E5%A0%B1%E6%BC%8F%E3%81%88%E3%81%84%E7%B4%8438%E5%84%84%E4%BB%B6%E6%95%99%E8%82%B2%E5%AD%A6%E7%BF%92%E6%94%AF%E6%8F%B4%E6%A5%AD%E3%81%AF24%E5%A2%97-%EF%BD%8D%EF%BD%8D%E7%B7%8F%E7%A0%94%E8%AA%BF%E6%9F%BB/1785964056718360/",
+    "https://www.facebook.com/tlscosakauniversity/?locale=ja_JP",
+    "https://www.facebook.com/100064797996105/posts/312%E6%9C%A8%E9%96%8B%E5%82%AC%E5%85%88%E7%AB%AF%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%83%87%E3%83%BC%E3%82%BF%E5%88%A9%E6%B4%BB%E7%94%A8%E3%83%A6%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%B9%E5%89%B5%E5%87%BA%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD%E6%88%90%E6%9E%9C%E5%A0%B1%E5%91%8A%E4%BC%9A%E4%BB%99%E5%8F%B0%E5%B8%82%E3%81%A7%E3%81%AF%E5%85%88%E7%AB%AF%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E8%A3%BD%E5%93%81%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E5%AE%9F%E8%A8%BC%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6%E3%83%A6%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%B9/1350828943753693/",
+    "https://www.facebook.com/yoshitaka.murakami.75/posts/%E5%A4%A7%E9%98%AA%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9Fjica-networking-fair%E3%81%AB%E5%88%9D%E5%87%BA%E5%B1%95%E6%97%A5%E6%9C%AC%E5%85%A8%E5%9B%BD%E3%81%8B%E3%82%89200%E4%BA%BA%E4%BB%A5%E4%B8%8A%E3%81%AEjica%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E7%95%99%E5%AD%A6%E7%94%9F%E3%81%8C%E4%B8%80%E5%A0%82%E3%81%AB%E4%BC%9A%E3%81%99%E3%82%8B%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%A7%E3%81%99%E7%A7%81%E3%81%A9%E3%82%82%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A4/28128321450176600/",
+    "https://www.facebook.com/tlscosakauniversity/posts/%E3%83%90%E3%83%AB%E3%82%BB%E3%83%AD%E3%83%8A%E5%A4%A7%E5%AD%A6-%E6%95%99%E8%82%B2%E5%AD%A6%E9%83%A8-gabriel-hervas-%E5%8A%A9%E6%95%99%E3%81%8C%E6%95%99%E8%82%B2%E5%AD%A6%E7%BF%92%E6%94%AF%E6%8F%B4%E9%83%A8%E3%82%92%E8%A8%AA%E5%95%8F%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E6%97%A5%E6%9C%AC%E3%81%AEfd%E3%82%84%E3%83%97%E3%83%ACfd%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%BF%E6%9F%BB%E4%B8%AD%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8%E3%81%A7%E6%9C%89%E6%84%8F%E7%BE%A9%E3%81%AA%E6%83%85%E5%A0%B1%E4%BA%A4%E6%8F%9B%E3%81%A8%E8%AD%B0%E8%AB%96/1301269323386927/",
+    "https://www.facebook.com/watch.edu/posts/%E3%82%AB%E3%83%8B%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%84ai%E7%A0%94%E7%A9%B6%E3%81%8C%E5%8F%97%E8%B3%9E%E5%AD%A6%E7%94%9F%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%81%AE%E6%9C%80%E7%B5%82%E5%AF%A9%E6%9F%BB%E3%82%92%E5%AE%9F%E6%96%BD/1775053191142780/",
+    "https://www.facebook.com/ctlhokudai/",
+    "https://www.facebook.com/tia21.or.jp/posts/%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%AD%A6%E7%BF%92%E6%94%AF%E6%8F%B4%E7%A0%94%E4%BF%AE%E4%BC%9A-%E7%9F%A2%E6%9D%BF%E5%B8%82%E4%BD%90%E9%87%8E%E5%B8%82%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%AE%E3%81%BF%E3%81%AA%E3%81%95%E3%82%93%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%A7%E5%AE%89%E5%BF%83%E3%81%97%E3%81%A6%E6%9A%AE%E3%82%89%E3%81%9B%E3%82%8B%E5%8F%96%E7%B5%84%E3%81%BF%E3%81%AE%E4%B8%80%E3%81%A4%E3%81%A8%E3%81%97%E3%81%A6%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%AD%A6%E7%BF%92%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E6%B4%BB%E5%8B%95%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E5%A4%96%E5%9B%BD%E8%AA%9E%E3%81%AE%E7%9F%A5%E8%AD%98%E3%81%AF%E5%BF%85%E8%A6%81/1173383971493325/",
+    "https://www.facebook.com/tlscosakauniversity/photos/1415862160337224/"
+   ]
+  },
+  {
+   "query": "教育・学習支援業 note 社長",
+   "results": [
+    "https://note.com/edu",
+    "https://note.com/kamakuracity_edu/n/n3ce24aefefa2",
+    "https://note.com/tankyumedia/n/nd9c8a1ae3a01",
+    "https://prtimes.jp/main/html/rd/p/000000087.000083442.html",
+    "https://www.uchida.co.jp/company/news/press/121031.html",
+    "https://note.com/codetakt/n/nf1a1439eb40a",
+    "https://note.com/kizuki_corp/n/n6cf92d505d42",
+    "https://n.loilo.tv/ja/",
+    "https://cococolor-earth.com/corporate-school-support/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "教育・学習支援業 X 投稿",
+   "results": [
+    "https://www.tepro.or.jp/management/twitter-poricy.html",
+    "https://www.city.tochigi.lg.jp/soshiki/54/64006.html",
+    "https://x.com/NihongoNikken",
+    "https://www.instagram.com/p/DXGpKscEgdF/",
+    "https://www.city.otsu.lg.jp/soshiki/070/2462/g/lifelong_c/1532224959335.html",
+    "https://prtimes.jp/main/html/rd/p/000000006.000117160.html",
+    "https://www.jset.gr.jp/research/research-5918/research-6570/",
+    "https://note.com/coco_write/n/n3b44eb13afe8",
+    "https://www.pref.aomori.lg.jp/soshiki/kyoiku/e-shogai/",
+    "https://hojyokin-search.jp/industry/kyoiku"
+   ]
+  },
+  {
+   "query": "education learning support Japan census site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/dr-shivani-sahni_an-enriching-step-towards-global-learning-activity-7462113581774327808-S0ul",
+    "https://hk.linkedin.com/in/sarah-emberger-04180571",
+    "https://au.linkedin.com/in/sarah-francis-08841719b",
+    "https://pt.linkedin.com/in/ross-hobart-308569182",
+    "https://www.linkedin.com/school/kinternationalschooltokyo",
+    "https://www.linkedin.com/company/populationed",
+    "https://ci.linkedin.com/in/sayaka-usui-86bb6015",
+    "https://www.linkedin.com/posts/into-university-partnerships_internationaleducation-highereducation-activity-7461031383713562625-l39w",
+    "https://sg.linkedin.com/in/nmcculloch02",
+    "https://au.linkedin.com/showcase/education360os/"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1704 @@
+{
+ "name": "鉱業・採石業・砂利採取業",
+ "en": "mining Japan census",
+ "aliases": [
+  "鉱業",
+  "採石業",
+  "大分類C"
+ ],
+ "context": "大分類C",
+ "kind": "market",
+ "researched_at": "2026-11-05T11:45:37.086533+00:00",
+ "evidence": {
+  "企業数・事業所数": [
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 事業所に関する集計 産業別集計 鉱業，採石業，砂利採取業に関する集計 3-2 経済産業局別、産業分類小分類別事業所数、従業者数、売上（収入）額、費用額及び付加価値額 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=0&iroha=32&layout=dataset&page=1&statdisp_id=0003389736&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 事業所に関する集計 産業別集計 鉱業，採石業，砂利採取業に関する集計 3-2 経済産業局別、産業分類小分類別事業所数、従業者数、売上（収入）額、費用額及び付加価値額 | データベース | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=0&iroha=32&layout=dataset&page=1&statdisp_id=0003389736&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "pass": 3
+   },
+   {
+    "quote": "平成24年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=0&iroha=32&layout=dataset&page=1&statdisp_id=0003389736&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 平成24年経済センサス‐活動調査 / 事業所に関する集計 産業別集計 鉱業，採石業，砂利採取業に関する集計",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=0&iroha=32&layout=dataset&page=1&statdisp_id=0003389736&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=0&iroha=32&layout=dataset&page=1&statdisp_id=0003389736&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "pass": 3
+   },
+   {
+    "quote": "統計局ホームページ/平成24年経済センサス-活動調査 調査の結果",
+    "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm",
+    "pass": 3
+   },
+   {
+    "quote": "平成24年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm",
+    "pass": 3
+   },
+   {
+    "quote": "平成24年経済センサス-活動調査 調査の結果",
+    "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm",
+    "pass": 3
+   },
+   {
+    "quote": "平成24年経済センサス‐活動調査結果を用いた日本統計地図",
+    "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm",
+    "pass": 3
+   },
+   {
+    "quote": "（注2）事業内容等不詳を含む事業所数です",
+    "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm",
+    "pass": 3
+   },
+   {
+    "quote": "令和 3 年経済センサス‐活動調査",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．事業所数及び従業者数 ................................................. 1",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)事業所数 ............................................................ 1",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和 3 年経済センサス‐活動調査の概要 ..................................... 6",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．「令和3年経済センサス‐活動調査 産業別集計（鉱業，採石業，砂利採取業に関す",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "め、令和4年5月31日に公表した「令和3年経済センサス‐活動調査（速報）」の「鉱",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６．調査票の欠測値や回答内容の矛盾などについて精査し、平成28年経済センサス‐活",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1）事業所数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業小分類別に事業所数をみると、「採石業，砂・砂利・玉石採取業」が1374事業",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第1表 産業小分類別事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス−活動調査 関連情報",
+    "url": "http://www.etisa.or.jp/joukyou-census-5kan.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年 経済センサス−活動調査報告",
+    "url": "http://www.etisa.or.jp/joukyou-census-5kan.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成２８年 経済センサス−活動調査報告",
+    "url": "http://www.etisa.or.jp/joukyou-census-5kan.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成２４年 経済センサス−活動調査報告",
+    "url": "http://www.etisa.or.jp/joukyou-census-5kan.html",
+    "pass": 3
+   },
+   {
+    "quote": "総務省｜報道資料｜令和3年経済センサス‐活動調査 産業別集計「製造業」、「鉱業，採石業，砂利採取業」及び 産業横断的集計「建設・サービス収入の内訳（一次集計）」結果の公表",
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000265.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査 産業別集計「製造業」、「鉱業，採石業，砂利採取業」及び 産業横断的集計「建設・サービス収入の内訳（一次集計）」結果の公表",
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000265.html",
+    "pass": 3
+   },
+   {
+    "quote": "総務省及び経済産業省は、令和3年経済センサス‐活動調査 産業別集計「製造業」、「鉱業，採石業，砂利採取業」及び 産業横断的集計「建設・サービス収入の内訳（一次集計）」の結果を公表しました",
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000265.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査 産業別集計（「鉱業，採石業，砂利採取業」、「製造業（品目編・産業編・地域編）」）及び産業横断的集計（建設・サービス収入の内訳）",
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000265.html",
+    "pass": 3
+   },
+   {
+    "quote": "統計局ホームページ/令和3年経済センサス‐活動調査 調査の結果",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス-活動調査 調査の結果",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査に関する地域メッシュ統計",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、全産業を対象とする「経済センサス-活動調査」の創設に伴い、平成24年、平成28年、令和３年は「経済センサス-活動調査」の『製造業』として調査を実施し、『製造業』の集計結果を公表しています",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成24年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年経済センサス活動調査に基づく対象業者一覧｜全国商工団体連合会",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "2021年経済センサス活動調査に基づく対象業者一覧",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "本集計データは、『令和３年経済センサス‐活動調査』の結果を下記の方式で集計したものです",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "事業所に関する集計 ＞ 産業横断的集計 ＞ 事業所数、従業者数 ＞ 9-3表",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "２）C～Rのうち、従業員１～４⼈の事業所数の全体を抜き出す",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "分類番号検索システム｜令和8年経済センサスｰ活動調査 実施事務局",
+    "url": "https://www.e-census-st.go.jp/bunrui/",
+    "pass": 3
+   },
+   {
+    "quote": "３-１ 経済センサス ....................................................................................................................... 2",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 総務省「経済センサス‐基礎調査」 、総務省・経済産業省「経済センサス‐活動調査｣、",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３-１経済センサス",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本年度は令和 3 年度経済センサス活動調査（以下「令和 3 年センサス」という）の個票提供に",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その中には、平成 28 年度経済センサス活動調査",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 1 では産業別規模別企業数を集計した1",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 1 産業別規模別企業数（企業）",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 6 は都道府県別規模別に企業数を見たものである",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 6 都道府県別規模別企業数（企業）",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 10 は規模別に存続、開業、廃業の企業数を見たものである",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業別集計 鉱業，採石業，砂利採取業に関する集計 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&iroha=6&toukei=00200553&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106255&tclass3=000001107015&layout=datalist&tclass4val=0",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&iroha=6&toukei=00200553&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106255&tclass3=000001107015&layout=datalist&tclass4val=0",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査の速報集計結果を読む",
+    "url": "https://www.stat.go.jp/info/today/122.htm",
+    "pass": 3
+   },
+   {
+    "quote": "）を実施しており、平成28年6月1日に実施した2回目の活動調査の速報集計結果を平成29年5月31日に公表しました",
+    "url": "https://www.stat.go.jp/info/today/122.htm",
+    "pass": 3
+   },
+   {
+    "quote": "これら調査対象となる“全国”の事業所数（総事業所数）は562万2238事業所となっています",
+    "url": "https://www.stat.go.jp/info/today/122.htm",
+    "pass": 3
+   },
+   {
+    "quote": "ちなみに、産業大分類ごとの数を合計した“全産業”の事業所数（＝総事業所数−事業内容等不詳の事業所）は535万9975事業所で、総事業所数に対する割合は95.3％になっています",
+    "url": "https://www.stat.go.jp/info/today/122.htm",
+    "pass": 3
+   },
+   {
+    "quote": "一方、国民経済計算（内閣府）においても、様々な基礎統計の結果を加工・推計し、国内総生産（GDP）として付加価値が公表されていますが、平成27年で比較すると、活動調査が295兆円であるのに対し、GDPは531兆円と大きな乖(かい)離があるように見えます",
+    "url": "https://www.stat.go.jp/info/today/122.htm",
+    "pass": 3
+   }
+  ],
+  "従業者数": [
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 事業所に関する集計 産業別集計 鉱業，採石業，砂利採取業に関する集計 3-2 経済産業局別、産業分類小分類別事業所数、従業者数、売上（収入）額、費用額及び付加価値額 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=0&iroha=32&layout=dataset&page=1&statdisp_id=0003389736&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 事業所に関する集計 産業別集計 鉱業，採石業，砂利採取業に関する集計 3-2 経済産業局別、産業分類小分類別事業所数、従業者数、売上（収入）額、費用額及び付加価値額 | データベース | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=0&iroha=32&layout=dataset&page=1&statdisp_id=0003389736&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=0&iroha=32&layout=dataset&page=1&statdisp_id=0003389736&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業局別、産業分類小分類別事業所数、従業者数、売上（収入）額、費用額及び付加価値額",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=0&iroha=32&layout=dataset&page=1&statdisp_id=0003389736&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 うち、別経営の事業所へ出向又は派遣している者(送出者) 計",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=0&iroha=32&layout=dataset&page=1&statdisp_id=0003389736&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 うち、別経営の事業所へ出向又は派遣している者(送出者) 男",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=0&iroha=32&layout=dataset&page=1&statdisp_id=0003389736&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 うち、別経営の事業所へ出向又は派遣している者(送出者) 女",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=0&iroha=32&layout=dataset&page=1&statdisp_id=0003389736&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm",
+    "pass": 3
+   },
+   {
+    "quote": "企業等数、従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm",
+    "pass": 3
+   },
+   {
+    "quote": "（参考）産業分類,地域別民営事業所数及び従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm",
+    "pass": 3
+   },
+   {
+    "quote": "注2：「売上高」、「付加価値額の構成比」及び「従業者数の構成比」は必要な事項の数値が得られた企業を対象として算出した",
+    "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm",
+    "pass": 3
+   },
+   {
+    "quote": "１．事業所数及び従業者数 ................................................. 1",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2)従業者数 ............................................................ 1",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "所数、従業者数等の経理事項以外の事項は令和3年6月1日現在の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "数は1769事業所、従業者数は1万9398人となっている（第1表）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第1表 産業小分類別事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2）従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業小分類別に従業者数をみると、「採石業，砂・砂利・玉石採取業」が1万2293人",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "男女別従業者数をみると、男性は「採石業，砂・砂利・玉石採取業」が1万272人と",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第2表 産業小分類、男女別従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数をみると、北海道が1164人（全国の9.7％）と最も多く、次いで新潟県が",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第5表 都道府県別事業所数、従業者数、生産金額及び費用総額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所に関する集計 ＞ 産業横断的集計 ＞ 事業所数、従業者数 ＞ 9-3表",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "けて従業者が増加した企業と減少した企業に分類したうえで規模別に従業者数の増減を見たもの",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 16 は図表 15 と同様の方法で従業者数についても確認を行った",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 16 労働生産性区分別従業者数割合",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業分類細分類別事業所数、従業者数、売上（収入）金額、費用額及び付加価値額－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&iroha=6&toukei=00200553&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106255&tclass3=000001107015&layout=datalist&tclass4val=0",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業局別、産業分類小分類別事業所数、従業者数、売上（収入）金額、費用額及び付加価値額－全国、経済産業局",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&iroha=6&toukei=00200553&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106255&tclass3=000001107015&layout=datalist&tclass4val=0",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別事業所数、従業者数、売上（収入）金額、費用額及び付加価値額－全国、都道府県",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&iroha=6&toukei=00200553&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106255&tclass3=000001107015&layout=datalist&tclass4val=0",
+    "pass": 3
+   },
+   {
+    "quote": "その内容は、企業数、事業所数、従業者数、売上（収入）金額（以下「売上高」といいます",
+    "url": "https://www.stat.go.jp/info/today/122.htm",
+    "pass": 3
+   },
+   {
+    "quote": "5月31日に公表した速報集計結果は、経営組織、従業者数、事業別売上高など全産業共通で調査している事項についての集計（産業横断的集計）でしたが、確報集計結果においては、まず、各産業の特性事項",
+    "url": "https://www.stat.go.jp/info/today/122.htm",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数",
+    "url": "https://www.stat.go.jp/info/today/122.htm",
+    "pass": 3
+   },
+   {
+    "quote": "企業等数、従業者数",
+    "url": "https://www.stat.go.jp/info/today/122.htm",
+    "pass": 3
+   },
+   {
+    "quote": "産業分類細分類別事業所数、従業者数、売上（収入）額、費用額及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&cycle=0&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業局別、産業分類小分類別事業所数、従業者数、売上（収入）額、費用額及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&cycle=0&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別事業所数、従業者数、売上（収入）額、費用額及び付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&cycle=0&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&data=1&metadata=1&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169887&statdisp_id=0003463639",
+    "pass": 3
+   },
+   {
+    "quote": "九州製鋼株式会社所在地福岡県糟屋郡久山町大字久原字原２９２０番地従業員数169人設立年月日昭和62年資本金4億8,000万",
+    "url": "https://note.com/clipcorporation/n/n8f76847d1a13",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社和田石材工業所在地青森県青森市大字矢田字牧原７４番地従業員数8人設立年月日昭和12年資本金2,380万円事業内容採",
+    "url": "https://note.com/clipcorporation/n/n8f76847d1a13",
+    "pass": 3
+   },
+   {
+    "quote": "片品興産株式会社所在地群馬県利根郡片品村大字須賀川７番地の１従業員数20人設立年月日平成13年資本金3,000万円事業内容",
+    "url": "https://note.com/clipcorporation/n/n8f76847d1a13",
+    "pass": 3
+   },
+   {
+    "quote": "新共企業株式会社所在地新潟県北蒲原郡聖籠町東港１丁目１番地１７６従業員数設立年月日資本金事業内容代表者 Ｊマテ．ホールディ",
+    "url": "https://note.com/clipcorporation/n/n8f76847d1a13",
+    "pass": 3
+   },
+   {
+    "quote": "カネモ望月設備建材有限会社所在地静岡県静岡市葵区瀬名川１丁目１４番５４号従業員数3人設立年月日昭和60年資本金500万円事",
+    "url": "https://note.com/clipcorporation/n/n8f76847d1a13",
+    "pass": 3
+   },
+   {
+    "quote": "滋賀鉱産株式会社所在地滋賀県米原市大久保字鬼川原１１０番地従業員数41人設立年月日平成15年資本金4,000万円事業内容東",
+    "url": "https://note.com/clipcorporation/n/n8f76847d1a13",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社坪内石材店所在地島根県大田市温泉津町福光ハ１０７番地１従業員数1人設立年月日昭和56年資本金500万円事業内容採石",
+    "url": "https://note.com/clipcorporation/n/n8f76847d1a13",
+    "pass": 3
+   },
+   {
+    "quote": "阿波商事有限会社所在地徳島県吉野川市鴨島町鴨島１５１番地の１従業員数8人設立年月日昭和51年資本金300万円事業内容採石業",
+    "url": "https://note.com/clipcorporation/n/n8f76847d1a13",
+    "pass": 3
+   }
+  ],
+  "売上（収入）金額・付加価値額": [
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 事業所に関する集計 産業別集計 鉱業，採石業，砂利採取業に関する集計 3-2 経済産業局別、産業分類小分類別事業所数、従業者数、売上（収入）額、費用額及び付加価値額 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=0&iroha=32&layout=dataset&page=1&statdisp_id=0003389736&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 事業所に関する集計 産業別集計 鉱業，採石業，砂利採取業に関する集計 3-2 経済産業局別、産業分類小分類別事業所数、従業者数、売上（収入）額、費用額及び付加価値額 | データベース | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=0&iroha=32&layout=dataset&page=1&statdisp_id=0003389736&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "pass": 3
+   },
+   {
+    "quote": "1335兆5083億円",
+    "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm",
+    "pass": 3
+   },
+   {
+    "quote": "244兆6672億円",
+    "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm",
+    "pass": 3
+   },
+   {
+    "quote": "注2：「売上高」、「付加価値額の構成比」及び「従業者数の構成比」は必要な事項の数値が得られた企業を対象として算出した",
+    "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm",
+    "pass": 3
+   },
+   {
+    "quote": "令和2年の生産金額は5999億円、費用総額は4491億円となっている（第3表）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業小分類別に生産金額をみると、「採石業，砂・砂利・玉石採取業」が2694億円",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（鉱業計の44.9％）と最も多く、次いで「窯業原料用鉱物鉱業」が1362億円（同22.7",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "％）、「原油・天然ガス鉱業」が1257億円（同21.0％）などとなっている（第3表）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業小分類別に費用総額をみると、「採石業，砂・砂利・玉石採取業」が2068億円",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（鉱業計の46.0％）と最も多く、次いで「原油・天然ガス鉱業」が1213億円（同27.0",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "％）、「窯業原料用鉱物鉱業」が977億円（同21.8％）などとなっている（第3表）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "費用総額のうち給与総額をみると、鉱業全体では684億円となっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "類別では、「採石業，砂・砂利・玉石採取業」が325億円と最も多く、次いで「原油・",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "天然ガス鉱業」が210億円、「窯業原料用鉱物鉱業」が117億円などとなっている（第",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産金額をみると、新潟県が1008億円（全国の18.8％）と最も多く、次いで鹿児島",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10億円以上",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "1億円以上 - 10億円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "5千万円以上 - 1億円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "1千万円以上 - 1億円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "これに対し、資本金10億円以上の法人は6,330社で、わずか0.3%にすぎない（第1表及び第2表参照)",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "また、資本金階級別の法人数の構成割合を平成4年分と比較してみると、資本金1,000万円未満の階級では74.1%から51.9%に大幅な減少となっており、一方、資本金1,000万円以上1億円未満の階級では24.5%から46.6%に大幅な増加となっている",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、資本金階級別に業種別の法人数をみると、資本金1,000万円未満は建設業(18.9%)、小売業(18.2%)、サービス業(17.7%)の占める割合が大きく、資本金10億円以上では機械工業(12.8%)、サービス業(11.8%)、卸売業(10.0%)の占める割合が大きくなっている（第3表参照)",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "10億円未満",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "10億円以上",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "図表 4 では産業別規模別で売上高を見ている",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 4 産業別規模別売上高（企業）",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 5 では産業別規模別で付加価値額を見ている",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 5 産業別規模別付加価値額（企業）",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 9 は都道府県別規模別で付加価値額をみたものである",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 9 都道府県別規模別付加価値額（企業）",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 11 は規模別に存続、開業、廃業の付加価値額を見たものである",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 11 規模別存続・開業・廃業企業の付加価値額の割合",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 25 は売上高規模別に企業数割合を見たものである",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 25 企業の売上高の分布",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 26 は従業者規模別売上高規模別の企業数割合を見ている",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 26 従業者規模別売上高規模別企業数割合",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品小売、職業紹介は売上高の約2割が宣伝費 「宣伝費」は回復基調へ | TSRデータインサイト | 東京商工リサーチ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品小売、職業紹介は売上高の約2割が宣伝費 「宣伝費」は回復基調へ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高に占める宣伝費の割合が5％以上の企業は3,513社で、全体の1.3％にとどまる",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "だが、結婚式場業は約7割（66.6％）の企業が売上高の5％以上を広告宣伝費につぎ込む",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、エステティック業（47.6％）、クレジットカード業（41.6％）も半数近い企業が売上高の5％以上を宣伝費に投じている",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "宣伝費ゼロの企業を除いた1社あたりの平均宣伝費は、産業別トップは金融・保険業10億37万円、次いで情報通信業3億7,571万円、小売業1億5,209万円、製造業1億2,398万円と続き、上位4産業は平均1億円を超えた",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金別では、1億円以上が1.9％で、1億円未満の0.5％を1.4ポイント上回った",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1億円以上は、同1億円未満の企業と比較し、利益率が高い企業が多く、資金的余裕から宣伝費を多く使える企業が多いことが要因とみられる",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "【業種別宣伝費状況ランキング】職業紹介業と化粧品小売業は売上高の約2割が宣伝費",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "）から、公営企業等の売上高を含めた全産業分野の経済活動をみると、官民を含めた産業全体に対する公営企業等の売上高の割合は0.9％となっており、日本経済への影響は少ないことが分かります",
+    "url": "https://www.stat.go.jp/info/today/122.htm",
+    "pass": 3
+   },
+   {
+    "quote": "一方、国民経済計算（内閣府）においても、様々な基礎統計の結果を加工・推計し、国内総生産（GDP）として付加価値が公表されていますが、平成27年で比較すると、活動調査が295兆円であるのに対し、GDPは531兆円と大きな乖(かい)離があるように見えます",
+    "url": "https://www.stat.go.jp/info/today/122.htm",
+    "pass": 3
+   },
+   {
+    "quote": "図1 平成27年付加価値額の比較イメージ（国民経済計算 vs 経済センサス‐活動調査）",
+    "url": "https://www.stat.go.jp/info/today/122.htm",
+    "pass": 3
+   },
+   {
+    "quote": "今回公表した平成27年の売上高は1603兆円となり、前回活動調査で集計・公表した平成23年（1336兆円）に比べ20.1％と大きく増加しています",
+    "url": "https://www.stat.go.jp/info/today/122.htm",
+    "pass": 3
+   },
+   {
+    "quote": "統計調査における売上高等の集計に係る消費税の取扱いに関するガイドライン（平成27年5月19日 各府省統計主管課長等会議申合せ）(総務省)",
+    "url": "https://www.stat.go.jp/info/today/122.htm",
+    "pass": 3
+   },
+   {
+    "quote": "例：「年間総売上〇〇億円」 95",
+    "url": "https://note.com/bright_bear5875/n/nff7bcce3f44e",
+    "pass": 3
+   },
+   {
+    "quote": "例：月次売上高（顧客セグメント別、製品カテゴリー別）",
+    "url": "https://note.com/bright_bear5875/n/nff7bcce3f44e",
+    "pass": 3
+   },
+   {
+    "quote": "総売上高（KGI）2,000万円1,950万円97.5%",
+    "url": "https://note.com/bright_bear5875/n/nff7bcce3f44e",
+    "pass": 3
+   }
+  ],
+  "資本金1億円以上の企業": [
+   {
+    "quote": "地域、産業（大分類）、経営組織別、事業活動別、企業常用雇用者規模別、資本金階級別等",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①企業等数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、企業常用雇用者規模別、資本金階級別等に企業等数、従業者数等を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②経理事項等 地域、産業（大分類・中分類・小分類）、経営組織別、事業活動別、企業常用雇用者規模別、資本金階級別等に経理事項等を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査 時系列データ 時系列データ 1 金融業、保険業以外の業種(原数値) 年度次 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査 | すべて | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査 時系列データ 時系列データ 1 金融業、保険業以外の業種(原数値) 年度次 | データベース | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査は、わが国における営利法人等の企業活動の実態を把握するため、標本調査として実施されている統計法に基づく基幹統計調査です",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "法人数を資本金階級別にみると、資本金1,000万円未満の法人が128万68社で、51.9%を占めている",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "これに対し、資本金10億円以上の法人は6,330社で、わずか0.3%にすぎない（第1表及び第2表参照)",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "また、資本金階級別の法人数の構成割合を平成4年分と比較してみると、資本金1,000万円未満の階級では74.1%から51.9%に大幅な減少となっており、一方、資本金1,000万円以上1億円未満の階級では24.5%から46.6%に大幅な増加となっている",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "第1表 資本金階級別法人数の累年比較",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "第2表 資本金階級別法人数の構成割合",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、資本金階級別に業種別の法人数をみると、資本金1,000万円未満は建設業(18.9%)、小売業(18.2%)、サービス業(17.7%)の占める割合が大きく、資本金10億円以上では機械工業(12.8%)、サービス業(11.8%)、卸売業(10.0%)の占める割合が大きくなっている（第3表参照)",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "第3表 業種別、資本金階級別法人数",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "第4表 組織別、資本金階級別法人数",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "３-３ 法人企業統計調査 ............................................................................................................. 41",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（3） 財務省「法人企業統計調査」",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表うち、規模拡大とは中小企業から大企業、もしくは、小規模企業から中規模企業又は",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "規模縮小とは大企業から中小企業、もしくは中規模企業から小",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３-３法人企業統計調査",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査を用いて、産業別に労働生産性の中央値を見ると（図表 59） 、不動産物品賃",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1億円以上は、同1億円未満の企業と比較し、利益率が高い企業が多く、資金的余裕から宣伝費を多く使える企業が多いことが要因とみられる",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "（2021年）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業小分類 合計に占める割合（％）令和3年（2021年）（人）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年経済センサス活動調査に基づく対象業者一覧｜全国商工団体連合会",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "2021年経済センサス活動調査に基づく対象業者一覧",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "平成9年分の法人数は246万5,347社で、前年より2万9,598社(1.2%)増加した",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "また、資本金階級別の法人数の構成割合を平成4年分と比較してみると、資本金1,000万円未満の階級では74.1%から51.9%に大幅な減少となっており、一方、資本金1,000万円以上1億円未満の階級では24.5%から46.6%に大幅な増加となっている",
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "pass": 3
+   },
+   {
+    "quote": "けて従業者が増加した企業と減少した企業に分類したうえで規模別に従業者数の増減を見たもの",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 28 では、規模別に設備投資をしていると回答した企業数割合の推移を見ている",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 29 では規模別に有形固定資産（土地を除く）を回答した企業数割合の推移を見ている",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 30 は規模別に無形固定資産（ソフトウェアのみ）を回答した企業数割合の推移を見てい",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 33 では企業規模別に直接輸出企業割合の推移を見ている",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 33 企業規模別に見た、直接輸出企業割合の推移",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 34 では企業規模別で海外子会社を保有する企業割合の推移をみている",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 34 企業規模別に見た、海外子会社を保有する企業割合の推移",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年実績",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年実績",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 35 では企業規模別に直接輸出比率の推移を見ている",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 35 企業規模別に見た、直接輸出比率の推移",
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度まで5年連続で宣伝費（広告宣伝費+販売促進費）の推移が判明した14万8,090社を対象に集計した",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信業、建設業などがけん引し、宣伝費は全体では増加に転じたが、運輸業、金融・保険業、製造業は2019年度から2割以上落ち込み、回復が鈍い",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度は2兆9,174億2,700万円（前期比11.6％増）と増加に転じた",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "5年間の推移では、農・林・漁・鉱業、建設業、卸売業、情報通信業の4産業は、落ち込んだ宣伝費が回復し、2023年度はコロナ禍前の2019年度を上回った",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、宣伝費の回復が鈍い産業は運輸業（2019年度比85.2％減）、金融・保険業（同34.8％減）、製造業（同28.6％減）で、2019年度から2割以上落ち込んで推移している",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度（1.2％）から0.1ポイント上昇したが、コロナ禍前の2019年度（1.6％）を0.3ポイント下回り、低水準で推移している",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月-9月に倒産した病院・クリニック（診療所）・歯科医院などの「医療機関」は59件（前年同期比28.2％増）と、過去最多を更新した",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "TSR「2026年メインバンク」調査で、「滋賀銀行」（滋賀県：メインバンク取引社数1万799社、金融G取引社数順位27位）と、「池田泉州銀行」（大阪市：同9,085社、同37位）を傘下に持つ池田泉州ホールディングスの2行が経営統合を検討していることを発表した",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "2016年6月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&iroha=6&toukei=00200553&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106255&tclass3=000001107015&layout=datalist&tclass4val=0",
+    "pass": 3
+   },
+   {
+    "quote": "今回公表した平成27年の売上高は1603兆円となり、前回活動調査で集計・公表した平成23年（1336兆円）に比べ20.1％と大きく増加しています",
+    "url": "https://www.stat.go.jp/info/today/122.htm",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、この増加には以下のとおり消費税に関連した状況変化があります",
+    "url": "https://www.stat.go.jp/info/today/122.htm",
+    "pass": 3
+   },
+   {
+    "quote": "してみると、売上高の増加（268兆円、20.1％）のうち、29兆円、2.4％が集計上の取扱いの変更に伴う増分に相当します",
+    "url": "https://www.stat.go.jp/info/today/122.htm",
+    "pass": 3
+   },
+   {
+    "quote": "してみると、売上高の増加のうち、39兆円、3.4％が消費税率の変更に伴う増分に相当します",
+    "url": "https://www.stat.go.jp/info/today/122.htm",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、これらの要因による影響を取り除いた増加率は、公表値の20.1％から（1）（2）の増分の計5.8％を差し引いた14.3％程度と推測されますので、この4年間の経済活動の変化を他統計と比較して読む際には留意する必要があります",
+    "url": "https://www.stat.go.jp/info/today/122.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 6月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&data=1&metadata=1&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169887&statdisp_id=0003463639",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の統計によると、採石事業者の数は年々減少傾向にあります 1",
+    "url": "https://note.com/bright_bear5875/n/nff7bcce3f44e",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省の建設資材需要見通しでは、砕石の需要は近年、横ばいから微減傾向で推移しており、国内需要の大幅な伸びは期待しにくい状況です 6",
+    "url": "https://note.com/bright_bear5875/n/nff7bcce3f44e",
+    "pass": 3
+   },
+   {
+    "quote": "事業者数が減少しているということは、地域内での競合が減ることを意味します",
+    "url": "https://note.com/bright_bear5875/n/nff7bcce3f44e",
+    "pass": 3
+   },
+   {
+    "quote": "例： - 近隣競合の廃業による市場シェア拡大 - 景観用骨材や環境配慮型製品への需要増 - 公共事業（防災・減災、インフラ更新）の増加 - DX化による生産性向上の可能性例： - 燃料費・輸送費の継続的な高騰 - 建設需要の低迷・不安定化 - 環境規制のさらなる強化 - リサイクル骨材との価格競争",
+    "url": "https://note.com/bright_bear5875/n/nff7bcce3f44e",
+    "pass": 3
+   },
+   {
+    "quote": "市場が縮小し、コストが増加する環境下では、まず足元を固めることが最優先です",
+    "url": "https://note.com/bright_bear5875/n/nff7bcce3f44e",
+    "pass": 3
+   },
+   {
+    "quote": "専門知識を発信することで、企業の信頼性が高まり、検索エンジンからのアクセスも増加します 76",
+    "url": "https://note.com/bright_bear5875/n/nff7bcce3f44e",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "採石業 ， 砂利採取業 に関する集計 3-2 経済 産業局別 — 採石業 ， 砂利採取業 に関する集計 3-2 経済 産業局別 政府統計の総合窓口 https://www.e-stat.go.jp > index.php > stat-search > database",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=0&iroha=32&layout=dataset&page=1&statdisp_id=0003389736&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "pass": 3
+   },
+   {
+    "quote": "令和 3 年 経済センサス ‐ 活動調査 産業別集計( 鉱業 , 採石業 , 砂利 ... — 令和 3 年 経済センサス ‐ 活動調査 産業別集計( 鉱業 , 採石業 , 砂利 ... 経済産業省 PDF https://www.meti.go.jp > tyo > pdf > r03_mining_giy",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス － 活動調査 報告 第5巻 鉱業 ， 採石業 — 経済センサス － 活動調査 報告 第5巻 鉱業 ， 採石業 経済産業統計協会 http://www.etisa.or.jp > ...",
+    "url": "http://www.etisa.or.jp/joukyou-census-5kan.html",
+    "pass": 3
+   },
+   {
+    "quote": "採石業 ， 砂利採取業 に関する集計 3-2 経済産業 局別 — 採石業 ， 砂利採取業 に関する集計 3-2 経済産業 局別 政府統計の総合窓口 https://www.e-stat.go.jp > index.php > stat-search > database",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=0&iroha=32&layout=dataset&page=1&statdisp_id=0003389736&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "pass": 3
+   },
+   {
+    "quote": "令和 3 年 経済センサス ‐活動調査 産業 別集計( 鉱業 , 採石業 , 砂利 ... — 令和 3 年 経済センサス ‐活動調査 産業 別集計( 鉱業 , 採石業 , 砂利 ... 経済産業省 PDF https://www.meti.go.jp > tyo > pdf > r03_mining_giy",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和 3 年 経済センサス ‐活動調査 産業別集計( 鉱業 , 採石業 , 砂利 ... — 令和 3 年 経済センサス ‐活動調査 産業別集計( 鉱業 , 採石業 , 砂利 ... 経済産業省 PDF https://www.meti.go.jp > tyo > pdf > r03_mining_giy",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "pass": 3
+   }
+  ],
+  "広告宣伝費・販管費": [
+   {
+    "quote": "化粧品小売、職業紹介は売上高の約2割が宣伝費 「宣伝費」は回復基調へ | TSRデータインサイト | 東京商工リサーチ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品小売、職業紹介は売上高の約2割が宣伝費 「宣伝費」は回復基調へ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業の広告や販売促進に使われる宣伝費が、2023年度は2兆9,174億2,700万円（前期比11.6％増）と前年度を上回ったことがわかった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度まで5年連続で宣伝費（広告宣伝費+販売促進費）の推移が判明した14万8,090社を対象に集計した",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "なかでも、医薬品製剤製造業が3,820億8,600万円（前期比43.5％増）、ポータルサイト・サーバ運営業が1,598億5,100万円（同51.5％増）と急回復し、宣伝費総額を押し上げた",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度の産業別の宣伝費は、トップが製造業の1兆164億4,100万円（前期比19.8％増）で、全体の3割超（34.8％）を占めた",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信業、建設業などがけん引し、宣伝費は全体では増加に転じたが、運輸業、金融・保険業、製造業は2019年度から2割以上落ち込み、回復が鈍い",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "1社あたりの平均宣伝費は、金融・保険業が10億37万円（前期比0.9％増）で突出した",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、2023年単年度の宣伝費用が判明した26万5,253社では、売上に対する宣伝費の割合は金融・保険業が8.2％でトップだった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高に占める宣伝費の割合が5％以上の企業は3,513社で、全体の1.3％にとどまる",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "だが、結婚式場業は約7割（66.6％）の企業が売上高の5％以上を広告宣伝費につぎ込む",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、エステティック業（47.6％）、クレジットカード業（41.6％）も半数近い企業が売上高の5％以上を宣伝費に投じている",
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "九州・沖縄地方の主要な 鉱業 ・ 採石業 ・ 砂利採取業 関連企業一覧 九州・沖縄地方の主要な 鉱業 ・ 採石業 ・ 砂利採取業 関連企業一覧 note https://note.com > 企業クリップ",
+    "url": "https://note.com/clipcorporation/n/n8f76847d1a13",
+    "pass": 3
+   },
+   {
+    "quote": "経営者向け： 鉱業 ・ 採石 ・ 砂利採取 安全と効率化のロボット 経営者向け： 鉱業 ・ 採石 ・ 砂利採取 安全と効率化のロボット note https://note.com > 科学・テクノロジー > ロボット技術",
+    "url": "https://note.com/tanakaminoru_/n/n3fe9fafadd90",
+    "pass": 3
+   },
+   {
+    "quote": "中小 採石業 のための実践的営業戦略：タスクレベルで実行する ... 中小 採石業 のための実践的営業戦略：タスクレベルで実行する ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/bright_bear5875/n/nff7bcce3f44e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "九州・沖縄地方の主要な鉱業・採石業・砂利採取業関連企業一覧｜企業クリップ",
+    "url": "https://note.com/clipcorporation/n/n8f76847d1a13",
+    "pass": 3
+   },
+   {
+    "quote": "九州・沖縄地方の主要な鉱業・採石業・砂利採取業関連企業一覧",
+    "url": "https://note.com/clipcorporation/n/n8f76847d1a13",
+    "pass": 3
+   },
+   {
+    "quote": "九州・沖縄地方の鉱業・採石業・砂利採取業関連企業九州・沖縄地方の鉱業・採石業・砂利採取業関連企業 - 企業クリップ",
+    "url": "https://note.com/clipcorporation/n/n8f76847d1a13",
+    "pass": 3
+   },
+   {
+    "quote": "九州製鋼株式会社所在地福岡県糟屋郡久山町大字久原字原２９２０番地従業員数169人設立年月日昭和62年資本金4億8,000万",
+    "url": "https://note.com/clipcorporation/n/n8f76847d1a13",
+    "pass": 3
+   },
+   {
+    "quote": "九州製鋼株式会社 | 福岡県糟屋郡久山町大字久原字原２９２０番地",
+    "url": "https://note.com/clipcorporation/n/n8f76847d1a13",
+    "pass": 3
+   },
+   {
+    "quote": "武中鉱産株式会社 | 福岡県北九州市小倉南区大字小森５７３番地",
+    "url": "https://note.com/clipcorporation/n/n8f76847d1a13",
+    "pass": 3
+   },
+   {
+    "quote": "白島テクノサポート株式会社 | 福岡県北九州市若松区響町１丁目１０８番地",
+    "url": "https://note.com/clipcorporation/n/n8f76847d1a13",
+    "pass": 3
+   },
+   {
+    "quote": "北九州アッシュリサイクルシステムズ株式会社 | 福岡県北九州市戸畑区牧山５丁目１番１号",
+    "url": "https://note.com/clipcorporation/n/n8f76847d1a13",
+    "pass": 3
+   },
+   {
+    "quote": "経営者向け：鉱業・採石・砂利採取 安全と効率化のロボット｜Minoru Tanaka",
+    "url": "https://note.com/tanakaminoru_/n/n3fe9fafadd90",
+    "pass": 3
+   },
+   {
+    "quote": "経営者向け：鉱業・採石・砂利採取 安全と効率化のロボット",
+    "url": "https://note.com/tanakaminoru_/n/n3fe9fafadd90",
+    "pass": 3
+   },
+   {
+    "quote": "鉱業、採石業、砂利採取業は、社会基盤を支える重要な資源を供給する一方で、常に危険と隣り合わせの過酷な作業環境、人手不足、そして環境負荷への配慮といった多くの課題を抱える産業です。これらの根深い課題に対し、近年「ロボット技術」が安全性と生産性の劇的な向上、そして持続可能なオペレーションを実現する切り札として、世界的に注目を集めています。本記事では、これら extractive industries（採取産業）の経営者の皆様が、自社の未来を切り拓くためにロボット技術をどのように理解し、導入を検討すべきか、その核心となる情報と戦略的視点を包括的に解説します。ロボットは単なる機械の進化形ではなく、経営そのものを変革する可能性を秘めた、今こそ向き合うべきテクノロジーなのです。",
+    "url": "https://note.com/tanakaminoru_/n/n3fe9fafadd90",
+    "pass": 3
+   },
+   {
+    "quote": "1. 鉱業・採石業・砂利採取業 特有の課題とロボットへの期待",
+    "url": "https://note.com/tanakaminoru_/n/n3fe9fafadd90",
+    "pass": 3
+   },
+   {
+    "quote": "これらの産業にロボット技術が求められる背景には、他産業とは異なる、特有で深刻な課題が存在します。",
+    "url": "https://note.com/tanakaminoru_/n/n3fe9fafadd90",
+    "pass": 3
+   },
+   {
+    "quote": "落盤、崩落、粉じんの吸入（じん肺）、重機との接触、騒音・振動による健康被害など、労働災害のリスクが極めて高い環境です。作業員の安全確保は最優先かつ最大の経営課題と言えます。",
+    "url": "https://note.com/tanakaminoru_/n/n3fe9fafadd90",
+    "pass": 3
+   },
+   {
+    "quote": "地下深く、高温多湿、粉じんが舞う坑内、急峻な斜面、遠隔地など、人間が作業するには厳しい、あるいは危険な環境が多く存在します。",
+    "url": "https://note.com/tanakaminoru_/n/n3fe9fafadd90",
+    "pass": 3
+   },
+   {
+    "quote": "掘削、運搬、破砕、選別など、依然として多くの工程で人手に頼る部分が多く、重労働であることから若年層の就労希望者が少なく、人材の確保と定着、高齢化が深刻な問題となっています。",
+    "url": "https://note.com/tanakaminoru_/n/n3fe9fafadd90",
+    "pass": 3
+   },
+   {
+    "quote": "中小採石業のための実践的営業戦略：タスクレベルで実行する成長ロードマップ｜日々勉強",
+    "url": "https://note.com/bright_bear5875/n/nff7bcce3f44e",
+    "pass": 3
+   },
+   {
+    "quote": "中小採石業のための実践的営業戦略：タスクレベルで実行する成長ロードマップ",
+    "url": "https://note.com/bright_bear5875/n/nff7bcce3f44e",
+    "pass": 3
+   },
+   {
+    "quote": "第1章 現状把握：自社と市場の現実的な評価",
+    "url": "https://note.com/bright_bear5875/n/nff7bcce3f44e",
+    "pass": 3
+   },
+   {
+    "quote": "1.1 マクロ環境：逆風と追い風を見極める",
+    "url": "https://note.com/bright_bear5875/n/nff7bcce3f44e",
+    "pass": 3
+   },
+   {
+    "quote": "中小採石業を取り巻く事業環境は、厳しい現実と新たな機会が混在しています。まず、業界全体が構造的な課題に直面していることを認識する必要があります。経済産業省の統計によると、採石事業者の数は年々減少傾向にあります 1。これは、後継者不足やコスト増を理由とした廃業が相次いでいることを示唆しており、業界の淘汰・再編が進んでいる証拠です 3。",
+    "url": "https://note.com/bright_bear5875/n/nff7bcce3f44e",
+    "pass": 3
+   },
+   {
+    "quote": "また、採石業は建設・土木業界への依存度が極めて高く、公共事業や民間設備投資の動向に業績が大きく左右される景気循環型産業です 5。国土交通省の建設資材需要見通しでは、砕石の需要は近年、横ばいから微減傾向で推移しており、国内需要の大幅な伸びは期待しにくい状況です 6。これに加え、燃料費、人件費、そして特に重量物である砕石の輸送コストは上昇の一途をたどっており、利益率を圧迫する大きな要因となっています 3。",
+    "url": "https://note.com/bright_bear5875/n/nff7bcce3f44e",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、この厳しい環境の中にこそ、戦略的な好機が潜んでいます。事業者数が減少しているということは、地域内での競合が減ることを意味します。砕石は重量物であるため、輸送コストの観点から商圏が半径300km程度に限定されるという特性があります 5。この地域密着型のビジネスモデルにおいて、競合が廃業すれば、その顧客を吸収できる可能性が生まれます。ここで重要になるのが「価格」だけでなく、「安定供給能力」と「信頼性」です。顧客である建設会社や生コン工場にとって、資材の供給が滞ることはプロジェクト全体の遅延に直結する致命的なリスクです。したがって、厳しい環境下でも事業を継続し、確実に製品を供給できる企業は、地域で「最後の頼れる供給者（Reliable Last Man Standing）」としての地位を確立できます。これは、単なる生き残り戦略ではなく、地域市場のシェアを獲得するための積極的な攻めの戦略と",
+    "url": "https://note.com/bright_bear5875/n/nff7bcce3f44e",
+    "pass": 3
+   },
+   {
+    "quote": "1.2 内部環境分析：自社特有の強みと資源の棚卸し",
+    "url": "https://note.com/bright_bear5875/n/nff7bcce3f44e",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=0&iroha=32&layout=dataset&page=1&statdisp_id=0003389736&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/joukyou-census-5kan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000265.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/riyou_kakuhou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-census-st.go.jp/bunrui/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lumierre.jp/research/construction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000363504",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&iroha=6&toukei=00200553&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106255&tclass3=000001107015&layout=datalist&tclass4val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/today/122.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&cycle=0&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&data=1&metadata=1&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169887&statdisp_id=0003463639",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clipcorporation/n/n8f76847d1a13",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tanakaminoru_/n/n3fe9fafadd90",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bright_bear5875/n/nff7bcce3f44e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tanakaminoru_/n/n3fe9fafadd90",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済センサス 活動調査 鉱業・採石業・砂利採取業 企業数 売上（収入）金額",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=0&iroha=32&layout=dataset&page=1&statdisp_id=0003389736&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "https://www.stat.go.jp/data/e-census/2012/kakuho/gaiyo.htm",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "http://www.etisa.or.jp/joukyou-census-5kan.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000265.html",
+    "https://www.e-census-st.go.jp/bunrui/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&iroha=6&toukei=00200553&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106255&tclass3=000001107015&layout=datalist&tclass4val=0",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-census2026.go.jp/document/pdf/sheet_02.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&data=1&metadata=1&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169887&statdisp_id=0003463658"
+   ]
+  },
+  {
+   "query": "経済センサス 2021 産業大分類 鉱業・採石業・砂利採取業 従業者数",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=0&iroha=32&layout=dataset&page=1&statdisp_id=0003389736&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "https://www.zenshoren.or.jp/2021census-gyosya",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000265.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/riyou_kakuhou.pdf",
+    "https://www.e-census-st.go.jp/bunrui/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&data=1&metadata=1&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169887&statdisp_id=0003463639"
+   ]
+  },
+  {
+   "query": "法人企業統計 鉱業・採石業・砂利採取業 資本金1億円以上 社数",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "https://www.cao.go.jp/zei-cho/history/1996-2009/etc/1999/zei_d_09c.html",
+    "http://www.ciic.or.jp/course/bunseki/backnumber/",
+    "https://www.net-bizs.jp/dataguide/19007/",
+    "https://www.stat.go.jp/info/today/pdf/195.pdf"
+   ]
+  },
+  {
+   "query": "鉱業・採石業・砂利採取業 広告宣伝費 売上高比率 業種別",
+   "results": [
+    "https://lumierre.jp/research/construction/",
+    "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00252/091800001/",
+    "https://www.dreamnews.jp/press/0000363504",
+    "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "https://prtimes.jp/main/html/rd/p/000000008.000186784.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "https://megdai.jp/markebatake/ads/6619/",
+    "https://www.stat.go.jp/library/faq/faq08/faq08a02.htm"
+   ]
+  },
+  {
+   "query": "e-Stat 経済センサス 鉱業・採石業・砂利採取業 付加価値額",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=0&iroha=32&layout=dataset&page=1&statdisp_id=0003389736&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0&toukei=00200553&tstat=000001056219",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000265.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_mining_giy.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&iroha=6&toukei=00200553&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106255&tclass3=000001107015&layout=datalist&tclass4val=0",
+    "https://www.e-census-st.go.jp/bunrui/",
+    "https://www.stat.go.jp/info/today/122.htm",
+    "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&cycle=0&tclass1=000001061098&tclass2=000001061525&tclass3=000001061526&tclass4val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&data=1&metadata=1&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169887&statdisp_id=0003463639"
+   ]
+  },
+  {
+   "query": "site:note.com 鉱業・採石業・砂利採取業",
+   "results": [
+    "https://note.com/clipcorporation/n/n8f76847d1a13",
+    "https://note.com/tanakaminoru_/n/n3fe9fafadd90",
+    "https://note.com/bright_bear5875/n/nff7bcce3f44e",
+    "https://note.com/vast_cosmos500/n/nb0b36c658671",
+    "https://note.com/chuetsukogyo/n/n82926c9e6148",
+    "https://note.com/zenken_net/n/n3ce9736df25a",
+    "https://note.com/ballas/n/n7ff5eb6a15ab",
+    "https://note.com/ballas/n/na3ea9883071b",
+    "https://note.com/zenken_net/n/n4a9e667f5f11",
+    "https://note.com/kensetsu_dx/n/nba0c124dd815"
+   ]
+  },
+  {
+   "query": "site:x.com 鉱業・採石業・砂利採取業",
+   "results": [
+    "https://x.com/SkySeaOffice/status/2114718691548103063",
+    "https://x.com/SkySeaOffice/status/2114069415239295351",
+    "https://x.com/MLIT_JAPAN/status/882164403134545920",
+    "https://x.com/nikkaniwate/status/2071782574373122197",
+    "https://x.com/mieprefconstr",
+    "https://x.com/hkd_kaihatsu_wr",
+    "https://x.com/mieprefconstr/status/2092882851121561735",
+    "https://x.com/shinkenkyo",
+    "https://x.com/hw_kokura/status/1945620075165429939",
+    "https://x.com/chibaken_kouhou/status/2114869693953761544"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 鉱業・採石業・砂利採取業",
+   "results": [
+    "https://jp.linkedin.com/company/obayashi-corporation-hq",
+    "https://www.linkedin.com/company/oy.construction.com",
+    "https://jp.linkedin.com/company/aecon/life",
+    "https://jp.linkedin.com/company/fayat/jobs",
+    "https://jp.linkedin.com/company/fujita-corporation-japan",
+    "https://jp.linkedin.com/company/%E6%9D%B1%E6%80%A5%E5%BB%BA%E8%A8%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://www.linkedin.com/company/ballasx",
+    "https://jp.linkedin.com/pulse/construction-quietly-becoming-technology-industry-guy-ofek-inlxc?tl=ja",
+    "https://www.linkedin.com/newsletters/%E5%BB%BA%E8%A8%AD%E6%A5%AD%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEaidx%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88-7380230224648523776",
+    "https://jp.linkedin.com/company/michels-corporation/?trk=organization-update_share-update_actor-text"
+   ]
+  },
+  {
+   "query": "site:facebook.com 鉱業・採石業・砂利採取業",
+   "results": [
+    "https://www.facebook.com/chisansabo/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E6%B2%BB%E5%B1%B1%E7%A0%82%E9%98%B2%E8%AA%B2%E6%96%B0%E6%8E%A1%E8%81%B7%E5%93%A1%E3%81%AE%E5%B2%A1%E5%B4%8E%E3%81%A7%E3%81%99%E5%85%88%E6%97%A5%EF%BC%91%E6%97%A5%E3%81%8B%E3%81%91%E3%81%A6%E7%A0%82%E5%88%A9%E6%8E%A1%E5%8F%96%E5%A0%B4%E6%A4%9C%E6%9F%BB%E3%81%A8%E5%85%88%E8%BC%A9%E8%81%B7%E5%93%A1%E3%81%AB%E8%89%B2%E3%80%85%E3%81%AA%E7%8F%BE%E5%A0%B4%E3%81%B8%E9%80%A3%E3%82%8C%E3%81%A6%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%9F%E3%81%AE%E3%81%A7%E7%8F%BE%E5%A0%B4%E8%A6%96%E5%AF%9F%E3%81%AE%E6%A7%98%E5%AD%90%E6%96%B0%E6%8E%A1%E8%81%B7%E5%93%A1%E3%81%AB%E3%82%88%E3%82%8B%E7%8F%BE%E5%A0%B4%E8%A6%96%E5%AF%9F%E6%97%A5%E8%A8%98%E3%82%92%E3%81%8A/1545300064291192/",
+    "https://www.facebook.com/100057518406469/posts/%E6%96%B0%E3%81%97%E3%81%84%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3%E7%A7%81%E3%81%9F%E3%81%A1%E4%B8%89%E5%8E%9F%E7%94%B0%E7%B5%84%E3%81%AF%E6%96%B0%E6%BD%9F%E7%9C%8C%E3%82%88%E3%82%8A%E8%A8%B1%E8%AA%8D%E5%8F%AF%E3%82%92%E5%8F%97%E3%81%91-%E5%BB%BA%E8%A8%AD%E5%B7%A5%E4%BA%8B%E3%81%A7%E7%99%BA%E7%94%9F%E3%81%99%E3%82%8B%E5%BB%BA%E8%A8%AD%E7%99%BA%E7%94%9F%E5%9C%9F%E3%81%AE%E5%8F%97%E3%81%91%E5%85%A5%E3%82%8C%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E9%AA%A8%E6%9D%90%E6%8E%A1%E5%8F%96%E3%82%92%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E8%B7%A1%E5%9C%B0%E3%81%AB/1169366471657289/",
+    "https://www.facebook.com/p/%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%BB%BA%E8%A8%AD%E6%A5%AD%E5%8D%94%E4%BC%9A%E9%B9%BF%E6%B2%BC%E6%94%AF%E9%83%A8-100064603273159/",
+    "https://www.facebook.com/p/%E5%B1%B1%E5%BD%A2%E7%9C%8C%E5%BB%BA%E8%A8%AD%E6%A5%AD%E5%8D%94%E4%BC%9A%E9%B6%B4%E5%B2%A1%E6%94%AF%E9%83%A8-100080617394928/",
+    "https://www.facebook.com/kokenkyo/",
+    "https://www.facebook.com/hagiwara.inc/posts/%E5%BB%BA%E8%A8%AD%E6%A5%AD%E3%81%AB%E3%82%82%E5%96%B6%E6%A5%AD%E3%81%AE%E4%BA%BA%E3%81%AF%E3%81%84%E3%81%BE%E3%81%99%E3%81%84%E3%81%A4%E3%82%82%E7%8F%BE%E5%A0%B4%E3%81%AE%E4%BA%BA%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8C%E4%BB%8A%E5%9B%9E%E3%81%AF%E5%96%B6%E6%A5%AD%E7%A4%BE%E5%93%A1%E3%81%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9%E5%BB%BA%E8%A8%AD%E6%A5%AD%E3%81%AE%E5%96%B6%E6%A5%AD%E3%82%82%E5%9C%9F%E6%9C%A8%E3%81%A8%E5%BB%BA%E7%AF%89%E3%81%AB%E5%88%86%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%A6%E5%BD%93%E7%A4%BE%E3%81%A7%E5%AF%BE%E5%BF%9C%E3%81%A7%E3%81%8D%E3%82%8B%E6%A1%88%E4%BB%B6%E3%82%92%E6%8E%A2%E3%81%97%E3%81%9F%E3%82%8A%E7%99%BA%E6%B3%A8%E8%80%85%E3%81%95/1548318017095729/",
+    "https://www.facebook.com/sagamiharakensetsu/",
+    "https://www.facebook.com/shimane.no.kensetsu/",
+    "https://www.facebook.com/100064603273159/posts/%E4%BB%A4%E5%92%8C%EF%BC%98%E5%B9%B4%EF%BC%98%E6%9C%88%EF%BC%91%EF%BC%97%E6%97%A5%E6%9C%88-%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%BB%BA%E8%A8%AD%E6%A5%AD%E5%8D%94%E4%BC%9A%E6%9C%AC%E9%83%A8%E3%81%A8%E3%81%AE%E6%84%8F%E8%A6%8B%E4%BA%A4%E6%8F%9B%E4%BC%9A-%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%BB%BA%E8%A8%AD%E6%A5%AD%E5%8D%94%E4%BC%9A%E6%9C%AC%E9%83%A8%E3%81%AE%E5%BD%B9%E5%93%A1%E3%81%AE%E7%9A%86%E6%A7%98%E3%81%A8%E9%B9%BF%E6%B2%BC%E6%94%AF%E9%83%A8%E3%81%AE%E7%90%86%E4%BA%8B%E5%8F%8A%E3%81%B3%E5%A7%94%E5%93%A1%E9%95%B7%E3%81%A8%E3%81%AE%E6%84%8F%E8%A6%8B%E4%BA%A4%E6%8F%9B%E4%BC%9A%E3%82%92%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F-%E9%B9%BF%E6%B2%BC%E6%94%AF%E9%83%A8%E3%81%AE%E4%BC%9A%E5%93%A1%E4%BC%81/1501336345363127/",
+    "https://www.facebook.com/constr.pref.yamaguchi/posts/%E3%81%84%E3%82%88%E3%81%84%E3%82%88%E3%82%84%E3%81%BE%E3%81%90%E3%81%A1%E5%BB%BA%E8%A8%AD%E3%83%95%E3%82%A7%E3%82%B92026%E3%81%AE%E9%96%8B%E5%82%AC%E3%81%8C%E9%96%93%E8%BF%91%E3%81%AB%E8%BF%AB%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E5%BB%BA%E8%A8%AD%E6%A5%AD%E3%81%AE%E3%81%97%E3%81%94%E3%81%A8%E4%BD%93%E9%A8%93%E3%82%84%E5%BB%BA%E8%A8%AD%E7%8F%BE%E5%A0%B4%E3%81%A7%E3%81%AF%E3%81%9F%E3%82%89%E3%81%8F%E8%BB%8A%E3%81%AE%E5%A4%A7%E9%9B%86%E5%90%88%E3%81%AA%E3%81%A9%E5%AE%B6%E6%97%8F%E3%81%A7%E6%A5%BD%E3%81%97%E3%81%BF%E3%81%AA%E3%81%8C%E3%82%89%E5%9C%B0%E5%9F%9F%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E5%BB%BA%E8%A8%AD%E7%94%A3%E6%A5%AD%E3%82%92%E8%BA%AB%E8%BF%91%E3%81%AB/1122562686948656/"
+   ]
+  },
+  {
+   "query": "鉱業・採石業・砂利採取業 note 社長",
+   "results": [
+    "https://note.com/tanakaminoru_/n/n3fe9fafadd90",
+    "https://www.niikei.jp/1677039/",
+    "https://www.soumu.go.jp/main_content/000290722.pdf",
+    "https://ma-succeed.jp/content/knowledge/post-12022",
+    "https://note.com/nifty_vole9692/n/n19ba010ebd20",
+    "https://www.chubu.meti.go.jp/d61kogyo/index.html",
+    "https://note.com/sorabito_2014/n/ne51910d6b58b",
+    "https://ainow.ai/tag/for-mining-and-quarrying-and-gravel-pitting/",
+    "https://sankakunet.jp/topics/industrialclassification-c/",
+    "https://clip-corporation.com/column/mining/"
+   ]
+  },
+  {
+   "query": "鉱業・採石業・砂利採取業 X 投稿",
+   "results": [
+    "https://www.chugoku.meti.go.jp/seisaku/energy/kougyou-saiseki-jyari.html",
+    "https://www.soumu.go.jp/main_content/000290722.pdf",
+    "https://ainow.ai/tag/for-mining-and-quarrying-and-gravel-pitting/",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/chushou/shoko/chiiki/jari",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/0549",
+    "https://www.pref.fukui.lg.jp/doc/chisangi/seizo/saisekigyo.html",
+    "https://clip-corporation.com/column/mining/",
+    "http://www.pref.kagoshima.jp/af01/sangyo-rodo/syoko/saiseki/zigyosya/e5040302.html",
+    "https://www.pref.fukushima.lg.jp/sec/41025c/jyarisaisyutouroku.html",
+    "https://sankakunet.jp/topics/industrialclassification-c/"
+   ]
+  },
+  {
+   "query": "mining Japan census site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/oxford-economics_japans-latest-census-highlights-the-scale-activity-7473691108376666114-pkAY",
+    "https://www.linkedin.com/posts/ok-tedi-mining-limited_otml-conducts-communication-consultation-activity-7090186665327038464-zanl",
+    "https://www.linkedin.com/pulse/surface-mining-automation-market-us-japan-korea-europe-analysis-bqevf",
+    "https://at.linkedin.com/in/hayatom",
+    "https://www.linkedin.com/pulse/japan-undeniably-cool-can-its-economy-survive-next-decade-jangda-ewqsc",
+    "https://in.linkedin.com/in/manaskumarrr",
+    "https://au.linkedin.com/in/jinrli26",
+    "https://ci.linkedin.com/jobs/view/social-performance-supervisor-%E2%80%93-lrp-iga-at-endeavour-mining-4434542234",
+    "https://www.linkedin.com/pulse/mineral-based-adjuvants-market-us-japan-korea-europe-strategic-xb2bf",
+    "https://www.linkedin.com/pulse/japan-mining-drilling-services-market-research-statistics-nbmjf"
+   ]
+  }
+ ],
+ "missing": {}
+}

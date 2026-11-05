@@ -1,0 +1,2111 @@
+{
+ "name": "宿泊業・飲食サービス業",
+ "en": "accommodation food services Japan census",
+ "aliases": [
+  "宿泊業",
+  "飲食店",
+  "大分類M"
+ ],
+ "context": "大分類M",
+ "kind": "market",
+ "researched_at": "2026-11-05T11:50:26.666675+00:00",
+ "evidence": {
+  "企業数・事業所数": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 速報集計 企業等に関する集計3 企業産業(大分類)、単一・複数(2区分)別企業等数、売上（収入）金額及び１企業当たり売上（収入）金額－全国、都道府県 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 速報集計 企業等に関する集計",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査の産業横断的集計「事業所に関する集計・企業等に関する集計」に関する結果を取りまとめました（METI/経済産業省）",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査の産業横断的集計「事業所に関する集計・企業等に関する集計」に関する結果を取りまとめました",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省及び総務省は、国内全ての事業所・企業を対象に、日本の全産業分野の売上（収入）金額や費用等の経理事項を同一時点で網羅的に把握する統計調査として、令和3年6月1日に実施した「令和3年経済センサス‐活動調査」の産業横断的集計結果を取りまとめました",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "1．経済センサス‐活動調査について",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年6月1日現在の民営事業所数は515万6063事業所、従業者数は5795万人となっています",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別に民営事業所数をみると、「卸売業，小売業」が122万8920事業所（全産業の23.8％）と最も多く、次いで「宿泊業，飲食サービス業」が59万9058事業所（同11.6％）、「建設業」が48万5135事業所（同9.4％）などとなっており、上位3産業で全産業の44.9％を占めています",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "表2 産業大分類別民営事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅲ 事業所数及び従業者数の状況 .............................................. 22",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．産業大分類別事業所数及び従業者数 ...................................... 22",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．従業者規模別事業所数及び従業者数 ...................................... 28",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．開設時期別事業所数 .................................................... 29",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．他からの出向・派遣従業者の有無別事業所数及び他からの出向・派遣従業者数 32",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査の概要 ......................................... 44",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 令和３年経済センサス‐活動調査は、甲調査と乙調査の２種類から成り、甲調査は",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、従来の活動調査等結果は、当時の消費税率であり、現行の税率（10％）と異",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 甲調査の調査対象の事業所（企業等）は、平成28年経済センサス‐活動調査では活",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査の概要 ......................................... 12",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、従来の活動調査等結果は、当時の消費税率であり、現行の税率（10％）と異",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 調査対象の事業所は、平成28年経済センサス‐活動調査では活用されていなかった",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の事業所数は、「不動産業， 物品賃貸業」 が34万669事業所、「学術研究，",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅰ－１ 産業分類別事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－１ 「冠婚葬祭業」における産業小分類別事業所数、売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」 、 「売上高」 、 「結婚式・披露宴の年間取扱件数」 、 「１事業所当たり結婚式・披露宴の年間取扱件数」 、 「葬儀の年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（e-Stat 統計表ID 0003320726、宿泊業の母集団企業数・従業者数）",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 売上（収入）金額等7-2 産業(小分類)、従業者規模(7区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004006344",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 売上（収入）金額等",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004006344",
+    "pass": 3
+   },
+   {
+    "quote": "産業(小分類)、従業者規模(7区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004006344",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004006344",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004006344",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業横断的集計1-2 産業（中分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―全国，都道府県 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業横断的集計",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "産業（中分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―全国，都道府県",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 10 企業産業（大分類），国内支所の分布範囲（２区分）別企業等数，事業所数，従業者数，売上（収入）金額，費用総額，主な費用項目，付加価値額及び設備投資額（国内複数事業所企業）―市区町村 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&query=%E7%A8%8E%20&layout=dataset&statdisp_id=0003219030",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 平成28年経済センサス‐活動調査 / 企業等に関する集計 産業横断的集計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&query=%E7%A8%8E%20&layout=dataset&statdisp_id=0003219030",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&query=%E7%A8%8E%20&layout=dataset&statdisp_id=0003219030",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&query=%E7%A8%8E%20&layout=dataset&statdisp_id=0003219030",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業（大分類），国内支所の分布範囲（２区分）別企業等数，事業所数，従業者数，売上（収入）金額，費用総額，主な費用項目，付加価値額及び設備投資額（国内複数事業所企業）―市区町村",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&query=%E7%A8%8E%20&layout=dataset&statdisp_id=0003219030",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 1-1-1 サービス関連産業Ｂ(細分類)別民営事業所数，従業者数，売上(収入)金額―全国 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&stat_infid=000023619087&statdisp_id=0003094889",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 平成24年経済センサス‐活動調査 / 事業所に関する集計 産業別集計 サービス関連産業Bに関する集計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&stat_infid=000023619087&statdisp_id=0003094889",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&stat_infid=000023619087&statdisp_id=0003094889",
+    "pass": 3
+   },
+   {
+    "quote": "平成24年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&stat_infid=000023619087&statdisp_id=0003094889",
+    "pass": 3
+   }
+  ],
+  "従業者数": [
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "2021年6月1日現在の民営事業所数は515万6063事業所、従業者数は5795万人となっています",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "表2 産業大分類別民営事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」及び「従業者数」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅲ 事業所数及び従業者数の状況 .............................................. 22",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．産業大分類別事業所数及び従業者数 ...................................... 22",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．従業上の地位別従業者数 ................................................ 25",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．従業者規模別事業所数及び従業者数 ...................................... 28",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．他からの出向・派遣従業者の有無別事業所数及び他からの出向・派遣従業者数 32",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）は515万6063事業所、従業者数は5795万人となっている",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、国、地方公共団体を含む事業所数は528万8891事業所、従業者数は6242万８千人とな",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅰ－２ 産業大分類別企業等数、事業所数及び従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「事業所数」、「従業者数」及び「１事業所当たり従業者数」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 従業者数 事業所数 従業者数 事業所数 従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅲ 事業所数及び従業者数の状況 （事業所に関する集計）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．産業大分類別事業所数及び従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の従業者数は、「不動産業， 物品賃貸業」 が141万５千人、「学術研究，",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅰ－１ 産業分類別事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」及び「従業者数」は 必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付表 産業小分類別事業所数、従業者数及び売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」 、「従業者数」及び「売上高」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付表 産業小分類別事業所数、従業者数及び売上高（続き）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当該事業所で実際に働いている人をいい、 従業者から 「他への出向 ・ 派遣従業者数」 を除き、",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「他からの出向・派遣従業者数」を加えることにより算出している",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "地域、産業（大分類）、経営組織別、事業活動別、従業者規模別等に事業所数、従業者数、",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に企業等数、従業者数、経理事項等を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①事業所数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、従業者規模別、開設時期別、存続・新設・廃業別等に事業所数、従業者数を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（ロ）業種別、規模別資産・負債・純資産並びに役員・従業員数",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 業種別、規模別資産・負債・純資産並びに役員・従業員数",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "員給与、役員賞与、従業員給与、従業員賞与、福利厚生費）、人員（役員数、従業員数）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "福利厚生費）、人員（役員数、従業員数）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "従業員賞与、福利厚生費）、人員（役員数、従業員数）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "役員賞与、従業員給与、従業員賞与、福利厚生費）、人員（役員数、従業員数）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "厚生費）、人員（役員数、従業員数）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、下げの98%を占める資本金1千万円以上5千万円未満の区分は、会社の数が1.1%減にとどまる一方、従業員数が47.9%減っており、実態の縮小より会社の規模の違いが有力です",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "減少額の98%は資本金1千万円以上5千万円未満の1区分で、会社の数は1.1%減なのに従業員数は47.9%減った",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1千万円以上5千万円未満の宿泊業は、1社あたり従業員数が45.2人から23.8人に変わり、実態の縮小より会社の規模の違いと考えられる",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "それなのに、従業員数は28.8万人から15.0万人へ47.9%減りました",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計の全規模の従業員数は25.1%減で食い違いますが、世帯調査に会社の顔ぶれは関係しません",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "1社あたり従業員数が15年で最大の下げ幅になった",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "1社あたり従業員数は45.2人から23.8人へ、47.3%減りました",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1千万円以上5千万円未満の宿泊業では、1社あたり従業員数が45.2人から23.8人へ、2010年度以降で最大の下げ幅になった",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "1社あたり期中平均従業員数（人）、2010〜2025年度、資本金1千万円以上5千万円未満の宿泊業",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "1社あたり従業員数",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "労働力調査は個人への調査の雇用者、法人企業統計は法人の期中平均従業員数で、対象が違います",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "会社の数（母集団）／期中平均従業員数／売上高（資本金1千万円以上5千万円未満）",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "（e-Stat 統計表ID 0003320726、宿泊業の母集団企業数・従業者数）",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004006344",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 10 企業産業（大分類），国内支所の分布範囲（２区分）別企業等数，事業所数，従業者数，売上（収入）金額，費用総額，主な費用項目，付加価値額及び設備投資額（国内複数事業所企業）―市区町村 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&query=%E7%A8%8E%20&layout=dataset&statdisp_id=0003219030",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&query=%E7%A8%8E%20&layout=dataset&statdisp_id=0003219030",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業（大分類），国内支所の分布範囲（２区分）別企業等数，事業所数，従業者数，売上（収入）金額，費用総額，主な費用項目，付加価値額及び設備投資額（国内複数事業所企業）―市区町村",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&query=%E7%A8%8E%20&layout=dataset&statdisp_id=0003219030",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 1-1-1 サービス関連産業Ｂ(細分類)別民営事業所数，従業者数，売上(収入)金額―全国 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&stat_infid=000023619087&statdisp_id=0003094889",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&stat_infid=000023619087&statdisp_id=0003094889",
+    "pass": 3
+   },
+   {
+    "quote": "サービス関連産業Ｂ(細分類)別民営事業所数，従業者数，売上(収入)金額―全国",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&stat_infid=000023619087&statdisp_id=0003094889",
+    "pass": 3
+   }
+  ],
+  "売上（収入）金額・付加価値額": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 速報集計 企業等に関する集計3 企業産業(大分類)、単一・複数(2区分)別企業等数、売上（収入）金額及び１企業当たり売上（収入）金額－全国、都道府県 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業(大分類)、単一・複数(2区分)別企業等数、売上（収入）金額及び１企業当たり売上（収入）金額－全国、都道府県",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "１企業当たり売上（収入）金額",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省及び総務省は、国内全ての事業所・企業を対象に、日本の全産業分野の売上（収入）金額や費用等の経理事項を同一時点で網羅的に把握する統計調査として、令和3年6月1日に実施した「令和3年経済センサス‐活動調査」の産業横断的集計結果を取りまとめました",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年6月1日現在の企業等の数は368万4049企業、2020年の売上（収入）金額（以下「売上高」という",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "）は1693兆3126億円、純付加価値額は336兆2595億円となっています",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別に売上高をみると、「卸売業，小売業」が480兆1679億円（全産業の28.4％）と最も多く、次いで「製造業」が387兆606億円（同22.9％）、「医療，福祉」が173兆3369億円（同10.2％）などとなっており、上位3産業で全産業の61.5％を占めています",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "表1 産業大分類別企業等数、売上高及び純付加価値額",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "注2：「売上高」及び「純付加価値額」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "注3：本調査における純付加価値額は、以下の計算式を用いている",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅱ 企業等数、売上高及び純付加価値額等の状況 ............................... ３",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．企業等数、売上高及び純付加価値額 ...................................... ３",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．事業活動別売上高 ...................................................... 12",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．都道府県別純付加価値額の状況 .......................................... 21",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 甲調査の売上（収入）金額、費用等の経理事項は2020年１年間の数値である",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の我が国の売上（収入）金額（以下「売上高」という",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 売上（収入）金額等の経理事項は2020年１年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の売上（収入）金額（以下「売上高」という",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "兆378億円、「学術研究， 専門 ・ 技術サービス業」 が46兆3668億円、「宿泊業， 飲食サービス業」",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が18兆9824億円、「生活関連サービス業， 娯楽業」 が29兆7551億円、「教育， 学習支援業」 が３",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "兆5769億円、「サービス業（他に分類されないもの） 」が41兆4390億円となっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅰ－２ 産業分類別売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注： 「売上高」、 「１事業所当たり売上高」 、 「従業者１人当たり売上高」及び「収入を得た相手先別割合」は必要な事項の数値が得",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－１ 「冠婚葬祭業」における産業小分類別事業所数、売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」 、 「売上高」 、 「結婚式・披露宴の年間取扱件数」 、 「１事業所当たり結婚式・披露宴の年間取扱件数」 、 「葬儀の年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５千万円以上１億円未満 無作為抽出 約２千社 約２千社 約６４千社",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "１億円以上５億円未満 無作為抽出 約１０千社 約２６千社",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "５億円以上10 億円未満 全数 約１.５千社 約１.５千社",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "10 億円以上 全数 約５.１千社 約５.１千社",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "※ 資本金１億円以上の階層は、年次別調査、四半期別調査で同じ法人を標本とする",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "１千万円以上１億円未満 無作為抽出 約４千社 約１０千社",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "１億円以上10 億円未満 全数 約１.６千社 約１.６千社",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "10 億円以上 全数 約０.９千社 約０.９千社",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "(ﾆ) ５千万円以上１億円未満",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業の付加価値3.53兆円、下げの98%は従業員が47.9%減った1区分｜商機マップ",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業の付加価値3.53兆円、下げの98%は従業員が47.9%減った1区分",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計で、宿泊業の付加価値は2024年度の4.30兆円から2025年度は3.53兆円へ、17.9%下がりました",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計の宿泊業の付加価値は、2025年度に3.53兆円と、前年度の4.30兆円より17.9%下がった",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "減った7,701億円の98%は、資本金1千万円以上5千万円未満の1区分に集まった",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1千万円以上5千万円未満の区分は、付加価値が1兆3,462億円から5,924億円へ、56.0%減りました",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "減少額7,538億円は、宿泊業全体の7,701億円の98%です",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1千万円以上5千万円未満の1区分だけで、宿泊業の付加価値は7,538億円減った",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値の前年度との差（億円）、2024年度から2025年度",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業全体の差は−7,701億円",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "−1,966億円",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "−7,538億円",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "— 2024年度の宿泊業は設備投資5,468億円が減価償却費計3,623億円を上回り、全産業の1.25倍を超えた",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "— 資本金1億円以上は2.82倍まで戻した一方、1億円未満は0.94倍",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "— 1995年以前開業の客室に年40万円を投じると年2,311億円、2024年度設備投資額の42.3%に相当する",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業の設備投資額は2024年度に5,468億円となり、同年度の減価償却費計3,623億円に対して",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高に対する設備投資の比率も5.37%と、全産業の3.21%を大きく超える",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "5年間の累計で見れば設備投資1兆8,352億円に対し減価償却費計1兆8,600億円で、",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高設備投資比率も5.95%→6.15%→5.99%と高止まりしている",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高が4兆1,613億円まで縮小するなかで、工期を要する更新工事の多くが後ろ倒しになった局面である",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "図2 宿泊業の設備投資額と減価償却費計（絶対額・億円）— 2014年度〜2024年度",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "減価償却費は3,000億円台前半で驚くほど安定している",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "——2019年度3,120億円、2020年度3,051億円、2024年度3,623億円",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業・建設業を除く、サービス・小売・金融など74の事業区分で、法人の広告宣伝費は約9.3兆円（2024年）と推計されます（主な企業の割合を法人全体の費用に当てはめた参考値）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "最も多いのはインターネット附随サービス業の約8,065億円です",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象となった広告会社の売上高は5兆7,565億円（2024年）で、うちインターネット広告が1兆5,813億円で27%を占めます",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   }
+  ],
+  "広告宣伝費・販管費": [
+   {
+    "quote": "純付加価値額＝売上高－（費用総額（売上原価＋販売費及び一般管理費））＋給与総額＋租税公課",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "純付加価値額＝売上高－（費用総額（売上原価＋販売費及び一般管理費））＋給与総額＋租税公課",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全産業における設備投資額売上高比率（売上高に対する設備投資額の割合）は3.5％とな",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別に設備投資額売上高比率をみると、「電気・ガス・熱供給・水道業」が10.9％",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－13 産業大分類別設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「売上高」、「設備投資額」及び「設備投資額売上高比率」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図Ⅱ－11 産業大分類別設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「設備投資額売上高比率」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類 売上高 設備投資額 設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 費用総額（売上原価＋販売費及び一般管理費）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「売上原価」、「販売費及び一般管理費」それぞれに計上された",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高、売上原価、販売費及び一般管理費、営業利益、営業外収益、営業外費用、経",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "営業収益、金融費用、販売費及び一般管理費、営業利益、営業外収益、営業外費用、",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "営業収益、営業費用、販売費及び一般管理費、営業利益、営業外収益、営業外費用、",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "合計、受取手形割引残高、売上高、売上原価、販売費及び一般管理費、営業利益、受取",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "販売費及び一般管理費、営業利益、営業外収益、営業外費用（支払利息等、その他の営",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費は売上・費用の何%か｜業種別の割合（最高11.6%）と上場企業の中央値",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "費用に占める広告宣伝費の割合は、クレジットカード業、割賦金融業（",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業・建設業を除く、サービス・小売・金融など74の事業区分で、法人の広告宣伝費は約9.3兆円（2024年）と推計されます（主な企業の割合を法人全体の費用に当てはめた参考値）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "電通「日本の広告費」とは数え方が違い、日本の広告費全体の話ではありません",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費は費用・売上の何パーセントか（業種別の目安）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "費用に占める広告宣伝費の割合が高い事業区分（各区分の主な企業）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "費用に占める広告宣伝費の割合が最も高いのはクレジットカード業、割賦金融業（11.6%）で、音声情報制作業（9.0%）が続きます（2024年）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費を開示している企業のみの集計で、非開示の企業は含みません",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "東証の33業種のうち、広告宣伝費を開示している会社が5社以上の業種（21業種）を中央値の高い順に並べ、上位20業種を載せています",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "業界別の広告費の割合ランキング（上場企業）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別の広告宣伝費ランキング（法人の推計）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "法人の広告宣伝費は、製造業・建設業を除く74の事業区分の合計で約9.3兆円と推計されます（2024年）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別・業界別広告宣伝費（販促費）の売上比率・割合の平均は？最適な広告予算を立てよう | 販促の大学で広告・マーケティング・経営を学ぶ",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別・業界別広告宣伝費（販促費）の売上比率・割合の平均は？最適な広告予算を立てよう",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "業種・業界の一般的な売上に対する広告宣伝費（",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費（販売促進費）は、自社の商品・サービスの売上をあげるために必要不可欠なコストであることは、販促担当の方なら誰でもご存知のはずです",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで今回は、広告宣伝費（販売促進費）の割合と、最も簡単な広告予算の立て方についても、業種を考慮しながらご説明しますので、ぜひご参考にしてください",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費（販売促進費）とは？ その種類は？",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費（販売促進費）の予算の立て方とは？",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "売上に対する広告宣伝費（販売促進費）の比率・割合",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費（販売促進費）の費用対効果を高める4つの方法",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費（販売促進費）の予算を立てる際の注意点",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費（販売促進費）とは、端的に言うと売り手側がその業界で積極的にブランドイメージを構築し、商品の価値を消費者にわかりやすく伝えるためのコストのことです",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、お客様に商品・サービスの魅力を訴える際の費用（コスト）が広告宣伝費（販売促進費）です",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "2021年6月1日現在の企業等の数は368万4049企業、2020年の売上（収入）金額（以下「売上高」という",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年6月1日現在の民営事業所数は515万6063事業所、従業者数は5795万人となっています",
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "pass": 3
+   },
+   {
+    "quote": "甲調査及び乙調査とも2021年６月１日を調査日として実施している",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の企業等（※２）の数は368万4049企業、民営事業所数（以下「事業所数」",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年） 【参考】2016年（平成28年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【参考】2016年（平成28年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（ 令和３年） 【参考】 2016年（平成28年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注３：調査事項の変更に伴い、雇用者の内訳が異なるため、2016年の数値は表章していない（利用上の注意",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【参考】2016年",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 2016年以降に開設された事業所の数は、62万2850事業所となっている",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別に2016年以降に開設された事業所の数をみると、「卸売業，小売業」が",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 産業大分類別に、産業ご との事業所数に占める2016年以降に開設された事業所数の",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年（平成27年）以前 2016年（平成28年）以降",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の事業所数は、「不動産業， 物品賃貸業」 が34万669事業所、「学術研究，",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の従業者数は、「不動産業， 物品賃貸業」 が141万５千人、「学術研究，",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "減少額の98%は資本金1千万円以上5千万円未満の1区分で、会社の数は1.1%減なのに従業員数は47.9%減った",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "減少額7,538億円は、宿泊業全体の7,701億円の98%です",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "残る4回は翌年も増加",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "：メトロエンジンリサーチが追跡する国内約168,000施設のうち、OTA上で稼働が確認できる27,162施設・1,267,377室（2026年8月時点）",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "第2期（2019〜2021年度）",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "なお四半期別調査では2025年度（2025年4月〜2026年3月）の4四半期がすでに出揃っており、その値は1.26倍",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍の2020〜2021年度は",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "同調査で本表が公表されている最新年度は2016年度",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "母集団は法人企業15,178社（2016年度、同 0003320726）",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業の売上高設備投資比率は、2016年度以降、コロナ期の落ち込み（2019年度3.27%・2020年度2.92%）を除けばおおむね5〜7%で推移している",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業実態基本調査で宿泊業（産業中分類75）の設備投資を目的別に見ると、2016年度は",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "金額でも2016年度の1,745億円は2014年度の174億円から10倍に増えている",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "旅館業法上の「旅館・ホテル営業」の客室数は1,757,557室（2021年度末、厚生労働省「衛生行政報告例」）で、この広い分母を使えば1室あたり年311,107円まで下がる",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "媒体別の広告費の推移（広告会社の売上高、テレビ・新聞・雑誌・ラジオ・インターネット）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "広告会社の売上高のうちインターネット広告の推移",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年：6,497億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年：13,722億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年：15,440億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年：13,699億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "数値および引用は、2026年10月2日時点で確認できた内容です",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、広告宣伝をしなくては、売上を大きくあげることは難しく、現状維持もしくは減少していく可能性も出てきます",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度は、多くの企業が広告宣伝費を減少させる傾向にありました",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、ソニーグループにおいては、2020年度と2021年度の広告宣伝費を比べると、約1,000億円もマイナスになっています",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、任天堂は広告宣伝費を増加させていました",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "任天堂が広告宣伝費を増加させたのは、巣ごもり需要が追い風となったためです",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "反対に、ソニーグループや日産自動車など、アウトドアが軸になっている会社は広告宣伝費を減少させていました",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、2024年度は多くの企業が再度広告宣伝費を増加させている傾向にあります",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度には広告宣伝費を減少させたソニーグループですが、2023年3月期には3911億円、2024年3月期には4227億円と、広告宣伝費を増加させています",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、2021年度と比べると依然として宣伝広告費は減少傾向です",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "日産自動車を例にすると、2021年度の広告比率が2.96％だったのに対し、2024年度は2.5%です",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、あくまで比率が下がっているだけであり、広告宣伝費自体は増加傾向にあります",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "※コロナ禍との違いを比較できるように2021年度と比較",
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年 6月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&query=%E7%A8%8E%20&layout=dataset&statdisp_id=0003219030",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版「中小企業白書・小規模企業白書」宿泊業向けまとめ｜謙豪",
+    "url": "https://note.com/yorke19/n/n7cfd6b31e3e5",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版「中小企業白書・小規模企業白書」宿泊業向けまとめ",
+    "url": "https://note.com/yorke19/n/n7cfd6b31e3e5",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月28日 08:05",
+    "url": "https://note.com/yorke19/n/n7cfd6b31e3e5",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版「中小企業白書・小規模企業白書」の概要についての全体要約",
+    "url": "https://note.com/yorke19/n/n7cfd6b31e3e5",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版「中小企業白書・小規模企業白書」は、持続的な賃上げに向けた原資の確保や、「労働供給制約社会（人口減少に伴う深刻な人手不足）」への直面、さらにはインフレ・金利のある時代への移行といった経営環境の歴史的転換期において、「現状維持は最大のリスクである」と定義し、「強い中小企業」への成長に向けた「稼ぐ力（労働生産性）」の強化や「経営リテラシー」の重要性に焦点を当てて分析を行っています",
+    "url": "https://note.com/yorke19/n/n7cfd6b31e3e5",
+    "pass": 3
+   },
+   {
+    "quote": "稼ぐ力（労働生産性）の強化の方程式 労働生産性の向上は、「付加価値額の増加」と「労働投入量の最適化」の双方からアプローチします",
+    "url": "https://note.com/yorke19/n/n7cfd6b31e3e5",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額の増加：設備投資（成長投資）、中長期的な成長を支える、OJT/OFF-JTを組み合わせた人材育成、仕入コスト増に応じた適切な価格転嫁と差別化、若手への事業承継やM&A（およびPMI）が重要とされます",
+    "url": "https://note.com/yorke19/n/n7cfd6b31e3e5",
+    "pass": 3
+   },
+   {
+    "quote": "【全10制度】 観光業で使える補助金まとめ｜従業員20名以下でも申請可能？！｜2026年最新完全ガイド",
+    "url": "https://note.com/tag/%E5%AE%BF%E6%B3%8A%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "資本金1億円以上の企業": [
+   {
+    "quote": "（３）資本金階級別の状況（会社企業に関する集計）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社企業について、資本金階級別に企業数をみると、「資本金1000万円未満」が103万",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6076企業（資本金階級別の合計に占める割合は59.3％） と最も多く、次いで 「資本金1000",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－３ 資本金階級別会社企業数、売上高及び純付加価値額",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図Ⅱ－２ 資本金階級別会社企業数、売上高及び純付加価値額の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（４）資本金階級別設備投資額の状況（会社企業に関する集計）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社企業について、資本金階級別に設備投資額をみると、「資本金１億円以上」が38兆4951",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億円（資本金階級別の合計に占める割合は76.2％）と最も多く、次いで「資本金3000万円",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－14 資本金階級別会社企業数及び設備投資額",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図Ⅱ－12 資本金階級別会社企業数及び設備投資額の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "地域、産業（大分類）、経営組織別、事業活動別、企業常用雇用者規模別、資本金階級別等",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①企業等数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、企業常用雇用者規模別、資本金階級別等に企業等数、従業者数等を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②経理事項等 地域、産業（大分類・中分類・小分類）、経営組織別、事業活動別、企業常用雇用者規模別、資本金階級別等に経理事項等を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本調査は、法人企業統計を作成するために行なう調査であり、わが国における法人の企業活動の実態を明",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "企業統計調査には、年度ごとに法人の確定決算の計数を調査する年次別法人企業統計調査（以下、 「年",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "）及び四半期ごとに法人の仮決算の計数を調査する四半期別法人企業統計調査（以下、",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査による法人名簿、その他財務省の資料を母集団情報とし、３（２）の属性的範囲の法",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "８ 集計事項（詳細は、別添３「法人企業統計調査集計事項一覧」を参照）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象の範囲の画定及び集計項目の表章の際に、日本標準産業分類に準拠して作成した法人企業統計調査",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査による法人名簿その他財務省の資料による全国の金融業、保険業を除く営利",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査による法人名簿その他財務省の資料による全国の金融業、保険業を営む法人",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計で、宿泊業の付加価値は2024年度の4.30兆円から2025年度は3.53兆円へ、17.9%下がりました",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "データ時点 法人企業統計は2025年度まで",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計の宿泊業の付加価値は、2025年度に3.53兆円と、前年度の4.30兆円より17.9%下がった",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1億円以上10億円未満",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金10億円以上",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計の全規模の従業員数は25.1%減で食い違いますが、世帯調査に会社の顔ぶれは関係しません",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "労働力調査は個人への調査の雇用者、法人企業統計は法人の期中平均従業員数で、対象が違います",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "出所：財務省「法人企業統計調査」、総務省「労働力調査」より作成",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計、計算",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計の読み方：四半期と年次の違い、ソフトウェア投資",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業の設備投資は減価償却費の1.51倍 — 1室あたり年43万円、法人企業統計で読む更新余地 | HotelBank (ホテルバンク)",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業の設備投資は減価償却費の1.51倍 — 1室あたり年43万円、法人企業統計で読む更新余地",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "本稿は財務省「法人企業統計調査」の年次別調査から、宿泊業が単独業種として計上している設備投資額と減価償却費を11年分取り出し、産業全体のバランスシートとして読み解く",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "：財務省「法人企業統計調査（年次別調査）」の業種分類コード139「",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "＝売上高 ÷ 有形固定資産（法人企業統計の公表指標をそのまま引用）",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "：法人企業統計の「ソフトウェアを除く設備投資」",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "：財務省「法人企業統計調査」（e-Stat、統計表ID 0003060791／0003060191）、中小企業庁「中小企業実態基本調査」（同 0003286862／0003320726）、厚生労働省「衛生行政報告例」（同 0004048182）、メトロエンジンリサーチ＆コンサルティング",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "— 資本金1億円以上は2.82倍まで戻した一方、1億円未満は0.94倍",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "——これが法人企業統計から読み取れる第一の事実だ",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査には、資本金1千万円未満まで含めて全規模を捉える",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：財務省「法人企業統計調査」（年次別調査：統計表ID 0003060791／四半期別調査：同 0003060191、いずれも業種コード139「宿泊業」単独）よりメトロエンジンリサーチ＆コンサルティング作成",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：財務省「法人企業統計調査（年次別調査）」（統計表ID 0003060791、業種コード139「宿泊業」単独・全規模）よりメトロエンジンリサーチ＆コンサルティング作成",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "宿泊業 の付加価値3.53兆円、下げの98%は従業員が47.9%減っ ... — 宿泊業 の付加価値3.53兆円、下げの98%は従業員が47.9%減っ ... shokimap.com https://shokimap.com > hotel-value-added-target-2025-drop",
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業 の設備投資は減価償却費の1.51倍 — 1 室あたり年43万円 — 宿泊業 の設備投資は減価償却費の1.51倍 — 1 室あたり年43万円 HotelBank https://hotelbank.jp > 投資・開発",
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "2026年版「中小企業白書・小規模企業白書」 宿泊業 向けまとめ 2026年版「中小企業白書・小規模企業白書」 宿泊業 向けまとめ note https://note.com > 政治・経済 > ビジネス・経済",
+    "url": "https://note.com/yorke19/n/n7cfd6b31e3e5",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業 の人気・新着記事まとめ - note 宿泊業 の人気・新着記事まとめ - note note https://note.com > tag > 宿泊業",
+    "url": "https://note.com/tag/%E5%AE%BF%E6%B3%8A%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業界 で働くか迷っているあなたに｜田中幹人 - note 宿泊業界 で働くか迷っているあなたに｜田中幹人 - note note https://note.com > キャリア > キャリア全般",
+    "url": "https://note.com/mikito_tanaka/n/n5f7d79b044ce",
+    "pass": 3
+   },
+   {
+    "quote": "飲食 店を5店舗やって気づいた。「人を置かない経営」が 宿泊 ... 飲食 店を5店舗やって気づいた。「人を置かない経営」が 宿泊 ... note https://note.com > ビジネス > 経営・マネジメント",
+    "url": "https://note.com/light_abelia9609/n/n6c94f7904b3d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "2026年版「中小企業白書・小規模企業白書」宿泊業向けまとめ｜謙豪",
+    "url": "https://note.com/yorke19/n/n7cfd6b31e3e5",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版「中小企業白書・小規模企業白書」宿泊業向けまとめ",
+    "url": "https://note.com/yorke19/n/n7cfd6b31e3e5",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版「中小企業白書・小規模企業白書」の概要についての全体要約",
+    "url": "https://note.com/yorke19/n/n7cfd6b31e3e5",
+    "pass": 3
+   },
+   {
+    "quote": "と、宿泊業（宿泊業・飲食サービス業）に関する言及部分に焦点を当てた詳細なまとめを作成しました。",
+    "url": "https://note.com/yorke19/n/n7cfd6b31e3e5",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.meti.go.jp/press/2026/04/20260424005/20260424005-1r.pdf",
+    "url": "https://note.com/yorke19/n/n7cfd6b31e3e5",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版「中小企業白書・小規模企業白書」は、持続的な賃上げに向けた原資の確保や、「労働供給制約社会（人口減少に伴う深刻な人手不足）」への直面、さらにはインフレ・金利のある時代への移行といった経営環境の歴史的転換期において、「現状維持は最大のリスクである」と定義し、「強い中小企業」への成長に向けた「稼ぐ力（労働生産性）」の強化や「経営リテラシー」の重要性に焦点を当てて分析を行っています。",
+    "url": "https://note.com/yorke19/n/n7cfd6b31e3e5",
+    "pass": 3
+   },
+   {
+    "quote": "稼ぐ力（労働生産性）の強化の方程式 労働生産性の向上は、「付加価値額の増加」と「労働投入量の最適化」の双方からアプローチします。",
+    "url": "https://note.com/yorke19/n/n7cfd6b31e3e5",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額の増加：設備投資（成長投資）、中長期的な成長を支える、OJT/OFF-JTを組み合わせた人材育成、仕入コスト増に応じた適切な価格転嫁と差別化、若手への事業承継やM&A（およびPMI）が重要とされます。",
+    "url": "https://note.com/yorke19/n/n7cfd6b31e3e5",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊施設の運営における経営戦略や、現場での接客、人手不足への対策といった幅広いテーマを扱っています。",
+    "url": "https://note.com/tag/%E5%AE%BF%E6%B3%8A%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "AIによる業務効率化や集客のノウハウ、開業の実体験に基づく記事が多数寄せられています。",
+    "url": "https://note.com/tag/%E5%AE%BF%E6%B3%8A%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊施設の運営における経営戦略や、現場での接客、人手不足への対策といった幅広…",
+    "url": "https://note.com/tag/%E5%AE%BF%E6%B3%8A%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "初めての仕事とやってみたいこと | 誰かに読まれる日記 2026.10.30",
+    "url": "https://note.com/tag/%E5%AE%BF%E6%B3%8A%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "＃１３０ 現役の頃なら論外の手段を「悪くないじゃん」と思う自分の変化が怖い",
+    "url": "https://note.com/tag/%E5%AE%BF%E6%B3%8A%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "「泊まりたいホテルがない」から始まったホテル経営",
+    "url": "https://note.com/tag/%E5%AE%BF%E6%B3%8A%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "深々 books&stay 安曇野のブックホテルとブックカフェ",
+    "url": "https://note.com/tag/%E5%AE%BF%E6%B3%8A%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業界で働くか迷っているあなたに｜田中幹人｜小規模ホテルの運営論",
+    "url": "https://note.com/mikito_tanaka/n/n5f7d79b044ce",
+    "pass": 3
+   },
+   {
+    "quote": "ずいぶんと前、大学生の方向けにホテル業界に関して簡単に説明するような記事を書きました。",
+    "url": "https://note.com/mikito_tanaka/n/n5f7d79b044ce",
+    "pass": 3
+   },
+   {
+    "quote": "この記事があるからか、熱心にSNSをしていない今も学生の方から進路相談の連絡をいただくことがあります。ホテル業界（宿泊業界）のプレーヤーは数多くいらっしゃって、ことオペレーターに絞っても「王道タイプ」と「ストリートタイプ」に分かれていると思っています。",
+    "url": "https://note.com/mikito_tanaka/n/n5f7d79b044ce",
+    "pass": 3
+   },
+   {
+    "quote": "王道タイプはその文字の如く、ホテル業界のメインストリームを歩んで来た人たち。国内・外資問わず長らくホテル業界におり、順当にキャリアを重ねてきた方たちです。たいしてストリートタイプは異業種からホテル業界に入り、今までの経験を元に従来のホテルキャリアとは少し違ったルートで、自身の道を歩んでいる人たちのことです。",
+    "url": "https://note.com/mikito_tanaka/n/n5f7d79b044ce",
+    "pass": 3
+   },
+   {
+    "quote": "私は後者だと自認しているので、これから王道を歩める学生の方にストリート育ちの自分が相談に乗ることが果たしていいことなのか今でもわかりません。そして変なバイアスをかけてしまわないだろうか？と恐れながらコミュニケーションをしています。",
+    "url": "https://note.com/mikito_tanaka/n/n5f7d79b044ce",
+    "pass": 3
+   },
+   {
+    "quote": "それでも2018年からホテル業界に入り、何か少しだけでも参考になればと思い、この記事を書いています。いただいた質問に対する回答内容をベースに伝わりやすくするために一部をアレンジ・補足していることを予めお伝えします。（もちろん、相談してくれた方には事前に許可と内容の確認をしていただいたうえでこの記事を公開しています）",
+    "url": "https://note.com/mikito_tanaka/n/n5f7d79b044ce",
+    "pass": 3
+   },
+   {
+    "quote": "Q1.どのようなキャリアを歩んできましたか？",
+    "url": "https://note.com/mikito_tanaka/n/n5f7d79b044ce",
+    "pass": 3
+   },
+   {
+    "quote": "キャリアの最初は広告の制作会社でした。少し変わった広告会社で”耐久消費財”と呼ばれる、商品の情報量が多く、購買までの検討期間がお菓子やドリンクなどの消費財と比べて長い商品を専門にしていた会社でした。",
+    "url": "https://note.com/mikito_tanaka/n/n5f7d79b044ce",
+    "pass": 3
+   },
+   {
+    "quote": "飲食店を5店舗やって気づいた。「人を置かない経営」が宿泊業ではできるー富士宮まちなかホテルーpart2｜民泊一年目",
+    "url": "https://note.com/light_abelia9609/n/n6c94f7904b3d",
+    "pass": 3
+   },
+   {
+    "quote": "飲食店を5店舗やって気づいた。「人を置かない経営」が宿泊業ではできるー富士宮まちなかホテルーpart2",
+    "url": "https://note.com/light_abelia9609/n/n6c94f7904b3d",
+    "pass": 3
+   },
+   {
+    "quote": "前回の記事では、僕がなぜ今、宿泊業に可能性を感じているのかを書きました。",
+    "url": "https://note.com/light_abelia9609/n/n6c94f7904b3d",
+    "pass": 3
+   },
+   {
+    "quote": "僕はこれまで飲食店を静岡県内で複数店舗運営してきました。",
+    "url": "https://note.com/light_abelia9609/n/n6c94f7904b3d",
+    "pass": 3
+   },
+   {
+    "quote": "飲食店も宿泊施設も、物件を探して、内装をつくって、設備を入れて、お客様を集めて、サービスを提供する。",
+    "url": "https://note.com/light_abelia9609/n/n6c94f7904b3d",
+    "pass": 3
+   },
+   {
+    "quote": "開業までの流れだけを見ると、実はかなり似ています。",
+    "url": "https://note.com/light_abelia9609/n/n6c94f7904b3d",
+    "pass": 3
+   },
+   {
+    "quote": "ところが、実際に運営する段階になると、この2つは大きく違います。",
+    "url": "https://note.com/light_abelia9609/n/n6c94f7904b3d",
+    "pass": 3
+   },
+   {
+    "quote": "「その場所に人がいなくても商売が成立するか」",
+    "url": "https://note.com/light_abelia9609/n/n6c94f7904b3d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "宿泊業 は「売れても苦しい」。観光白書2026が突きつけた - X 宿泊業 は「売れても苦しい」。観光白書2026が突きつけた - X X https://x.com > @iam_y_osaki",
+    "url": "https://x.com/iam_y_osaki/article/2103365876636602421",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/index-2.html",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://faq-e-census-st.dga.jp/faq_detail.html?id=315&category=2098&page=1000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134141",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makusho.jp/wp-content/uploads/2025/01/%E5%AE%BF%E6%B3%8A%E3%83%BB%E9%A3%B2%E9%A3%9F.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keiei.freee.co.jp/articles/p0100160/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuhan-marketing.com/blog/marketing/adcosts_suitableline",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dentsu.co.jp/knowledge/ad_cost/2023/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004006344",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&query=%E7%A8%8E%20&layout=dataset&statdisp_id=0003219030",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&stat_infid=000023619087&statdisp_id=0003094889",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yorke19/n/n7cfd6b31e3e5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/iam_y_osaki/article/2103365876636602421",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tag/%E5%AE%BF%E6%B3%8A%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mikito_tanaka/n/n5f7d79b044ce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/light_abelia9609/n/n6c94f7904b3d",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済センサス 活動調査 宿泊業・飲食サービス業 企業数 売上（収入）金額",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "https://www.e-census2026.go.jp/document/pdf/howto_12.pdf",
+    "https://faq-e-census-st.dga.jp/faq_detail.html?id=315&category=2098&page=1000",
+    "https://www.e-census-st.go.jp/download/data/Census8_07_howto_Dir.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=0&layout=dataset&statdisp_id=0003215481",
+    "https://www.stat.go.jp/info/today/078.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf"
+   ]
+  },
+  {
+   "query": "経済センサス 2021 産業大分類 宿泊業・飲食サービス業 従業者数",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134141",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "https://www.makusho.jp/wp-content/uploads/2025/01/%E5%AE%BF%E6%B3%8A%E3%83%BB%E9%A3%B2%E9%A3%9F.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://baike.baidu.com/ja/item/%E5%AE%BF%E6%B3%8A%E6%A5%AD%E3%83%BB%E9%A3%B2%E9%A3%9F%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%A5%AD/5660162",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&stat_infid=000023619087&statdisp_id=0003094889",
+    "https://www.nikkei.com/article/DGXZQOUA317N90R30C22A5000000/",
+    "https://www.stat.go.jp/data/e-census/2021/index.html"
+   ]
+  },
+  {
+   "query": "法人企業統計 宿泊業・飲食サービス業 資本金1億円以上 社数",
+   "results": [
+    "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "https://shokimap.com/articles/hotel-value-added-target-2025-drop/",
+    "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "https://hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://www.yokohama-ri.co.jp/html/report/pdf/column250718_shirasu.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?toukei=00350600"
+   ]
+  },
+  {
+   "query": "宿泊業・飲食サービス業 広告宣伝費 売上高比率 業種別",
+   "results": [
+    "https://lumierre.jp/research/market/ad-spend/",
+    "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "https://keiei.freee.co.jp/articles/p0100160",
+    "https://www.tsuhan-marketing.com/blog/marketing/adcosts_suitableline",
+    "https://www.dentsu.co.jp/knowledge/ad_cost/2023/business.html",
+    "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "https://kotouri.com/marketing/ad/budget",
+    "https://www.chusho.meti.go.jp/koukai/chousa/keiei_sihyou/h11/07_f.html",
+    "https://e-nexts.co.jp/blog-post/optimal-advertising-budget-for-smes/",
+    "https://go-jo.net/shikinguri/guide/bank-loan-advertising-expense-ratio/"
+   ]
+  },
+  {
+   "query": "e-Stat 経済センサス 宿泊業・飲食サービス業 付加価値額",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0004006344",
+    "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&query=%E7%A8%8E%20&layout=dataset&statdisp_id=0003219030",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&stat_infid=000023619087&statdisp_id=0003094889",
+    "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=0&layout=dataset&statdisp_id=0003215481",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&toukei=00200552&tstat=000001072573&tclass1=000001074946&tclass2=000001077015&stat_infid=000031332501",
+    "https://www.e-stat.go.jp/stat-search/database?toukei=00200553&layout=dataset&statdisp_id=0003094894"
+   ]
+  },
+  {
+   "query": "site:note.com 宿泊業・飲食サービス業",
+   "results": [
+    "https://note.com/yorke19/n/n7cfd6b31e3e5",
+    "https://note.com/chushohakusho/n/n6d7a31ac9f82",
+    "https://note.com/maruakira/n/n74dc8816002a",
+    "https://note.com/yukionoguchi/n/nd6cc77868ec2",
+    "https://note.com/okabe_kuniaki/n/n86226300b17a",
+    "https://note.com/chushohakusho/n/n4ad12293fc09",
+    "https://note.com/ogawa_tech/n/n1c83f59db49b",
+    "https://note.com/mizo_setouchi/n/nf5e098210de5",
+    "https://note.com/tourism_intelli/n/n5ec0bcaaed6c",
+    "https://note.com/todobuono/n/nadcbbd9ef786"
+   ]
+  },
+  {
+   "query": "site:x.com 宿泊業・飲食サービス業",
+   "results": [
+    "https://x.com/amc_corporation/status/2116677023750066675",
+    "https://x.com/iam_y_osaki/article/2103365876636602421",
+    "https://x.com/j_compliance/status/1554360347921764352",
+    "https://x.com/tekkamen_juken/status/2115383080378626334",
+    "https://x.com/nikkeibusiness/status/2019524250483454420",
+    "https://x.com/amusement_japan/article/2091689079465451760",
+    "https://x.com/tomofullmoon/status/2111843164483162130",
+    "https://x.com/maidohachi/status/2102884481380302889",
+    "https://x.com/hw_adachi/status/2116069086220443769",
+    "https://x.com/momuri0201/status/1975761902350500183"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 宿泊業・飲食サービス業",
+   "results": [
+    "https://jp.linkedin.com/company/iconia-hospitality",
+    "https://jp.linkedin.com/pulse/service-vs-hospitality-whats-difference-lessons-from-hotel-nair-phd-thyac?tl=ja",
+    "https://www.linkedin.com/help/recruiter/answer/a1421501/recruiter-talent-insights-?lang=ja",
+    "https://jp.linkedin.com/company/trunk-base",
+    "https://jp.linkedin.com/company/barcelonajapan",
+    "https://jp.linkedin.com/posts/bizmates-inc_%E7%8F%BE%E5%A0%B4%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%8C%E7%9C%9F%E3%81%AB%E6%B4%BB%E8%BA%8D%E3%81%A7%E3%81%8D%E3%82%8B%E7%92%B0%E5%A2%83%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%92-%E3%83%9B%E3%83%86%E3%83%AB%E3%82%84%E6%97%85%E9%A4%A8%E3%81%A7%E5%A4%96%E5%9B%BD%E4%BA%BA-activity-7505200502721253376-VIFx",
+    "https://jp.linkedin.com/pulse/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9Eno64-%E5%8A%B4%E5%83%8D%E9%9B%86%E7%B4%84%E5%9E%8B%E9%A3%B2%E9%A3%9F%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%A5%AD%E3%81%AE%E5%87%A6%E6%96%B9%E7%AE%8B-mitsuo-sakai-%E9%85%92%E4%BA%95%E5%85%89%E9%9B%84",
+    "https://jp.linkedin.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%A5%A5%E7%91%9E",
+    "https://jp.linkedin.com/jobs/view/%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%88ota%E3%83%81%E3%83%BC%E3%83%A0%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E8%81%B7%EF%BC%89-at-%E7%A9%8D%E6%B0%B4%E3%83%8F%E3%82%A6%E3%82%B9%E3%83%9B%E3%83%86%E3%83%AB%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-ff%E9%81%93%E3%81%AE%E9%A7%85%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC-4476280765",
+    "https://jp.linkedin.com/company/kamogawa-beachside-villa"
+   ]
+  },
+  {
+   "query": "site:facebook.com 宿泊業・飲食サービス業",
+   "results": [
+    "https://www.facebook.com/yadoyajuku/posts/%E6%9C%AC%E6%97%A5%E3%81%AE%E6%A5%AD%E7%95%8C%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E5%AE%BF%E6%B3%8A%E9%A3%B2%E9%A3%9F%E5%B0%B1%E6%A5%AD%E8%80%858%E6%9C%88%E3%81%AF%E5%89%8D%E6%9C%88%E6%AF%945%E4%B8%87%E4%BA%BA%E6%B8%9B%E3%81%AE409%E4%B8%87%E4%BA%BA-%E3%82%B3%E3%83%AD%E3%83%8A%E5%89%8D%E6%AF%9410%E4%B8%87%E4%BA%BA%E6%B8%9B20261027%E7%B7%8F%E5%8B%99%E7%9C%81%E3%81%AE%E5%8A%B4%E5%83%8D%E5%8A%9B%E8%AA%BF%E6%9F%BB2026%E5%B9%B48%E6%9C%88%E5%88%86%E3%81%AB%E3%82%88%E3%82%8B%E3%81%A8%E5%AE%BF%E6%B3%8A%E6%A5%AD%E9%A3%B2%E9%A3%9F%E3%82%B5%E3%83%BC%E3%83%93/1603843261545424/",
+    "https://www.facebook.com/sevenuniform/posts/2027%E5%B9%B4%E3%81%AE%E9%A3%B2%E9%A3%9F%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%A5%AD%E7%95%8C%E3%81%AE%E6%AC%A1%E3%81%AA%E3%82%8B%E6%8C%91%E6%88%A6%E3%81%A8%E8%BA%8D%E9%80%B2%E3%81%B8%E5%90%91%E3%81%91%E3%81%A6%E6%9C%80%E6%96%B0%E3%83%A6%E3%83%8B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0%E3%82%92%E7%99%BA%E5%88%8A%E5%AE%BF%E6%B3%8A%E9%A3%B2%E9%A3%9F%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%9C%80%E8%A6%81%E3%81%B8%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%A7%E3%81%82%E3%82%8B%E9%A1%A7%E5%AE%A2%E4%BD%93%E9%A8%93%E3%81%AE%E5%86%8D%E5%AE%9A%E7%BE%A9%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C%E3%83%9B%E3%82%B9%E3%83%94%E3%82%BF%E3%83%AA%E3%83%86%E3%82%A3%E9%87%8D%E8%A6%96/1744666630808510/",
+    "https://www.facebook.com/jarc.official1/",
+    "https://www.facebook.com/100009078753254/posts/%E5%9C%B0%E5%9F%9F%E3%81%AE%E6%8C%81%E7%B6%9A%E7%9A%84%E6%88%90%E9%95%B7%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E5%89%B5%E6%A5%AD%E6%94%BF%E7%AD%96%E3%81%AE%E3%81%82%E3%82%8A%E6%96%B9%E6%A4%9C%E8%A8%8E%E4%BC%9A%E3%81%AB%E6%B7%BB%E4%BB%98%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8C%E8%88%88%E5%91%B3%E6%B7%B1%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%A7%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%97%E3%81%BE%E3%81%99%E6%97%A5%E6%9C%AC%E3%81%AE%E9%96%8B%E6%A5%AD%E7%8E%87%E3%81%AF38%E5%BB%83%E6%A5%AD%E7%8E%87%E3%81%AF37%E9%96%8B%E6%A5%AD%E7%8E%87%E3%81%8C%E9%AB%98%E3%81%84%E6%A5%AD%E7%A8%AE%E3%81%AF%E5%AE%BF%E6%B3%8A%E6%A5%AD%E9%A3%B2%E9%A3%9F%E3%82%B5%E3%83%BC/4189134114732506/",
+    "https://www.facebook.com/insyokusr/posts/%E9%A3%B2%E9%A3%9F%E6%A5%AD%E3%81%AF%E5%B0%8F%E5%A3%B2%E6%A5%AD%E9%A3%B2%E9%A3%9F%E6%A5%AD%E3%81%AF%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%A5%AD%E3%81%A0%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%E7%A7%81%E3%81%AF%E5%B0%91%E3%81%AA%E3%81%8F%E3%81%A8%E3%82%82%EF%BC%92%E5%B9%B4%E5%89%8D%E3%81%BE%E3%81%A7%E3%81%AF%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%A5%AD%E3%81%A0%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%A7%E3%82%82%E3%81%A7%E3%81%99%E3%81%AD%E3%81%8A%E5%BD%B9%E6%89%80%E3%81%AF%E3%81%9D%E3%81%86%E6%80%9D%E3%81%A3%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%81%AE%E3%81%A7%E3%81%99%E5%B0%8F%E5%A3%B2%E6%A5%AD%E3%81%A0%E3%81%A8%E8%80%83%E3%81%88/519779851369396/",
+    "https://www.facebook.com/sevenuniform/posts/2027%E5%B9%B4%E3%81%AE%E9%A3%B2%E9%A3%9F%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%A5%AD%E7%95%8C%E3%81%AE%E6%AC%A1%E3%81%AA%E3%82%8B%E6%8C%91%E6%88%A6%E3%81%A8%E8%BA%8D%E9%80%B2%E3%81%B8%E5%90%91%E3%81%91%E3%81%A6%E6%9C%80%E6%96%B0%E3%83%A6%E3%83%8B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0%E3%82%92%E7%99%BA%E5%88%8A%E5%AE%BF%E6%B3%8A%E9%A3%B2%E9%A3%9F%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%9C%80%E8%A6%81%E3%81%B8%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%A7%E3%81%82%E3%82%8B%E9%A1%A7%E5%AE%A2%E4%BD%93%E9%A8%93%E3%81%AE%E5%86%8D%E5%AE%9A%E7%BE%A9%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C%E3%83%9B%E3%82%B9%E3%83%94%E3%82%BF%E3%83%AA%E3%83%86%E3%82%A3%E9%87%8D%E8%A6%96/1739344218007418/",
+    "https://www.facebook.com/sevenuniform/posts/%E6%9C%AC%E6%97%A52%E6%97%A5%E7%9B%AE%E3%81%AE%E9%A3%B2%E9%A3%9F%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%A5%AD%E7%95%8C%E6%9C%80%E5%A4%A7%E3%81%AE%E5%B1%95%E7%A4%BA%E4%BC%9A%E5%9B%BD%E9%9A%9B%E3%83%9B%E3%83%86%E3%83%AB%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%9B%E3%83%86%E3%83%AC%E3%82%B9%E3%82%82%E7%B5%82%E4%BA%86%E5%A4%9A%E3%81%8F%E3%81%AE%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AB%E3%81%94%E6%9D%A5%E5%A0%B4%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%82%BB%E3%83%96%E3%83%B3%E3%83%A6%E3%83%8B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%AF%E6%9D%B14%E3%83%9B%E3%83%BC%E3%83%AB-m24%E3%83%96%E3%83%BC%E3%82%B9%E3%81%A8/1510821807526328/",
+    "https://www.facebook.com/groups/1265105042261727/posts/1426255939479969/",
+    "https://www.facebook.com/61593637410229/videos/9%E6%9C%88%E5%88%8A%E8%A1%8C%E6%B1%BA%E5%AE%9Anpo%E6%B3%95%E4%BA%BA-%E6%97%A5%E6%9C%AC%E3%83%9B%E3%83%86%E3%83%AB%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E7%B5%8C%E5%96%B6%E7%A0%94%E7%A9%B6%E6%89%80%E3%82%88%E3%82%8A%E6%96%B0%E3%81%97%E3%81%84%E4%B8%80%E5%86%8A%E3%81%8C9%E6%9C%88%E3%81%AB%E5%88%8A%E8%A1%8C%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%83%9B%E3%83%86%E3%83%AB%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E6%A5%AD%E7%95%8C%E3%81%A7%E5%83%8D%E3%81%8F%E7%9A%86%E3%81%95%E3%81%BE%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%A5%AD%E7%95%8C%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E7%9A%86%E3%81%95%E3%81%BE%E3%81%9D%E3%81%97%E3%81%A6/2290812311719254/",
+    "https://www.facebook.com/groups/517222878457724/posts/2549139615266030/"
+   ]
+  },
+  {
+   "query": "宿泊業・飲食サービス業 note 社長",
+   "results": [
+    "https://note.com/tag/%E5%AE%BF%E6%B3%8A%E6%A5%AD",
+    "https://note.com/mikito_tanaka/n/n5f7d79b044ce",
+    "https://note.com/light_abelia9609/n/n6c94f7904b3d",
+    "https://note.com/hotelryokan_note/n/n67044bfa2eb4",
+    "https://note.com/hotelstaff_com/n/n98601b9023df",
+    "https://hatarakikatakaikaku.mhlw.go.jp/casestudy/type/eat/",
+    "https://note.com/ad_sato2020/n/n2e2fc18061c1",
+    "https://note.com/ishill/n/n14422031ded4",
+    "https://note.com/sakamoto_ih/n/nfbf2b6cb2138",
+    "https://note.com/yorke19/n/n7cfd6b31e3e5"
+   ]
+  },
+  {
+   "query": "宿泊業・飲食サービス業 X 投稿",
+   "results": [
+    "https://hatarakikatakaikaku.mhlw.go.jp/casestudy/type/eat/",
+    "https://www.soumu.go.jp/main_content/000290732.pdf",
+    "https://www.yadoken.net/archives/column/%E3%80%90%E6%88%90%E5%8A%9F%E4%BA%8B%E4%BE%8B%E3%81%82%E3%82%8A%E3%80%91%E3%83%9B%E3%83%86%E3%83%AB%E3%83%BB%E6%97%85%E9%A4%A8%E3%81%AEsns%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3",
+    "https://clip-corporation.com/column/stay/",
+    "https://www.kankokeizai.com/2609201000kks/",
+    "https://x.com/greecegreece",
+    "https://snsschool.net/column/industry-hotel/success",
+    "https://kintone-sol.cybozu.co.jp/apps/gyoshu/cat5/",
+    "https://cnctor.jp/sales/column/hotel-sns-success-cases/",
+    "https://ad-comi.co.jp/adrans/post_ideas_hotel/"
+   ]
+  },
+  {
+   "query": "accommodation food services Japan census site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/bilal-i-gilani-2827102a_restaurants-pakistans-one-of-the-largest-activity-7369423903607128064-O1tJ",
+    "https://www.linkedin.com/posts/christian-charnaux-05a418_hiltonforthestay-activity-7493406464514945024-Du6M",
+    "https://www.linkedin.com/posts/chadmoutray_the-restaurant-and-foodservice-industry-is-activity-7442620143425437696-kx7W",
+    "https://www.linkedin.com/pulse/what-migration-has-given-australian-hospitality-phil-gannon-ucxjc",
+    "https://www.linkedin.com/pulse/homelessness-japan-country-smallest-percentage-",
+    "https://www.linkedin.com/in/christscott",
+    "https://www.linkedin.com/in/joey-bergeron-58972863",
+    "https://www.linkedin.com/pulse/synopsis-global-bahrain-food-service-market-trend-fmaje",
+    "https://www.linkedin.com/pulse/in-depth-investigation-japan-food-wrap-dispenser-market-projected-jufze",
+    "https://ca.linkedin.com/in/isabel-collins-801383390"
+   ]
+  }
+ ],
+ "missing": {}
+}

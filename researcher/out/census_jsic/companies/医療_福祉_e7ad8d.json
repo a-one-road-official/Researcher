@@ -1,0 +1,993 @@
+{
+ "name": "医療・福祉",
+ "en": "medical health care welfare Japan census",
+ "aliases": [
+  "医療業",
+  "社会保険・社会福祉・介護事業",
+  "大分類P"
+ ],
+ "context": "大分類P",
+ "kind": "market",
+ "researched_at": "2026-11-05T11:50:27.881112+00:00",
+ "evidence": {
+  "企業数・事業所数": [
+   {
+    "quote": "令和８年経済センサス‐活動調査 試験調査 調査票一覧",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業別集計 医療，福祉に関する集計 1-3 産業（細分類），従業者規模（７区分）別民営事業所数，従業者数，売上（収入）金額，医療，福祉の事業区分別収入額及び医療，福祉の相手先別収入額―全国，都道府県 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001107075&tclass4val=0&statdisp_id=0003215502",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業別集計 医療，福祉に関する集計 1-3 産業（細分類），従業者規模（７区分）別民営事業所数，従業者数，売上（収入）金額，医療，福祉の事業区分別収入額及び医療，福祉の相手先別収入額―全国，都道府県 | データベース | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001107075&tclass4val=0&statdisp_id=0003215502",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001107075&tclass4val=0&statdisp_id=0003215502",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 平成28年経済センサス‐活動調査 / 事業所に関する集計 産業別集計 医療，福祉に関する集計",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001107075&tclass4val=0&statdisp_id=0003215502",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001107075&tclass4val=0&statdisp_id=0003215502",
+    "pass": 3
+   },
+   {
+    "quote": "産業（細分類），従業者規模（７区分）別民営事業所数，従業者数，売上（収入）金額，医療，福祉の事業区分別収入額及び医療，福祉の相手先別収入額―全国，都道府県",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001107075&tclass4val=0&statdisp_id=0003215502",
+    "pass": 3
+   },
+   {
+    "quote": "2021年経済センサス活動調査に基づく対象業者一覧｜全国商工団体連合会",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "2021年経済センサス活動調査に基づく対象業者一覧",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "本集計データは、『令和３年経済センサス‐活動調査』の結果を下記の方式で集計したものです",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "事業所に関する集計 ＞ 産業横断的集計 ＞ 事業所数、従業者数 ＞ 9-3表",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "２）C～Rのうち、従業員１～４⼈の事業所数の全体を抜き出す",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査データ2021のデータ項目 | マップマーケティング株式会社",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査データ2021のデータ項目",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査2021のデータ項目",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "「経済センサス活動調査データ2021」は、法人市場（BtoB）の出店調査や販売促進のための分析におススメのデータです",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～S_全産業事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C～E_第2次産業事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C_鉱業、採石業、砂利採取業事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "D_建設業事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "E_製造業事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "F～S_第3次産業事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "F_電気･ｶﾞｽ･熱供給･水道業事業所数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "平成24年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "1km2当たり事業所数（事業内容等不詳を含む）",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "1km2当たり事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "796冠婚葬祭業 事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "79A葬儀業 事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "79B結婚式場業 事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   }
+  ],
+  "従業者数": [
+   {
+    "quote": "４ この事業所の従業者数 ● 10月１日現在の従業者数を記入してください",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）この事業所に所属する従業者数 （２）受入者",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20製造品在庫額、半製品、仕掛品の価額及び原材料、燃料の在庫額 ※第１面４欄「この事業所の従業者数」の(3)が10人以上29人以下の事業所は、製造品①、半製品及び仕掛品②のみ記入してください",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● 第1面４欄「この事業所の従業者数」の（3）が30人以上の場合は全項目を記入し、29人以下の場合は★印の欄（黄色）のみ記入してください",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※第１面４欄「この事業所の従業者数」の(3)が10人以上29人以下の事業所は、有形固定資産の内訳については記入不要です",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この事業所の従業者数 ● 10月１日現在の従業者数を記入してください",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）この事業所に所属する従業者数 ⑤ 小売の商品販売額",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ この事業所の従業者数 ④ 卸売の商品販売額（代理・仲立手数料を含む）",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● 10月１日現在の従業者数を記入してください",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※第１面4欄「この事業所の従業者数」の（３）が10人以上29人以下の事業所は、製造品①、半製品及び仕掛品②のみ記入してください",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11 有形固定資産 ※第１面４欄「この事業所の従業者数」の（３）が10人以上29人以下の事業所は、有形固定資産の内訳については記入不要です",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●第１面４欄「この事業所の従業者数」の（３）が30人以上の場合は全項目を記入してください",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業別集計 医療，福祉に関する集計 1-3 産業（細分類），従業者規模（７区分）別民営事業所数，従業者数，売上（収入）金額，医療，福祉の事業区分別収入額及び医療，福祉の相手先別収入額―全国，都道府県 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001107075&tclass4val=0&statdisp_id=0003215502",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業別集計 医療，福祉に関する集計 1-3 産業（細分類），従業者規模（７区分）別民営事業所数，従業者数，売上（収入）金額，医療，福祉の事業区分別収入額及び医療，福祉の相手先別収入額―全国，都道府県 | データベース | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001107075&tclass4val=0&statdisp_id=0003215502",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001107075&tclass4val=0&statdisp_id=0003215502",
+    "pass": 3
+   },
+   {
+    "quote": "産業（細分類），従業者規模（７区分）別民営事業所数，従業者数，売上（収入）金額，医療，福祉の事業区分別収入額及び医療，福祉の相手先別収入額―全国，都道府県",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001107075&tclass4val=0&statdisp_id=0003215502",
+    "pass": 3
+   },
+   {
+    "quote": "事業所に関する集計 ＞ 産業横断的集計 ＞ 事業所数、従業者数 ＞ 9-3表",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "A～S_全産業従業者数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～S_全産業従業者数男21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～S_全産業従業者数女21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)従業者数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)従業者数男21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)従業者数女21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C～E_第2次産業従業者数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C～E_第2次産業従業者数男21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C～E_第2次産業従業者数女21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C_鉱業、採石業、砂利採取業従業者数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C_鉱業、採石業、砂利採取業従業者数男21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "C_鉱業、採石業、砂利採取業従業者数女21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 常用雇用者 正社員・正職員 総数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 常用雇用者 正社員・正職員以外 総数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 常用雇用者 正社員・正職員以外 男",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 常用雇用者 正社員・正職員以外 女",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 （再掲） うち他への出向・派遣従業者 総数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 （再掲） うち他への出向・派遣従業者 男",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 （再掲） うち他への出向・派遣従業者 女",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 うち常用雇用者 正社員・正職員以外(パート・アルバイトなど)",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 うち常用雇用者 正社員・正職員以外（パート・アルバイトなど）",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 うち常用雇用者 (再掲)パート・アルバイトなどの８時間換算雇用者数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   }
+  ],
+  "売上（収入）金額・付加価値額": [
+   {
+    "quote": "相手先別収入割合 ※10欄①「売上（収入）金額」を得た相手先別の収入額割合について、％で合計が100となるように記入してください",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合 計 10欄①の売上（収入）金額 １ ０",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10欄「①売上（収入）金額」に記入した売上（収入）金額の内訳を",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金額で記入できない場合は、10欄「①売上（収入）金額」に占め",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 売上（収入）金額 0,000",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10 売上（収入）金額、費用総額及び費用項目",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和５年１月から12月までの１年間 の売上（収入）金額及び費",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "仕入れて又は受け入れてそのまま販売するもの（転売品）はここに含めず、第１面11欄「事業別売上（収入）金額」のうち「④卸売",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１面10欄「①売上（収入）金額」に対する直",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業別集計 医療，福祉に関する集計 1-3 産業（細分類），従業者規模（７区分）別民営事業所数，従業者数，売上（収入）金額，医療，福祉の事業区分別収入額及び医療，福祉の相手先別収入額―全国，都道府県 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001107075&tclass4val=0&statdisp_id=0003215502",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業別集計 医療，福祉に関する集計 1-3 産業（細分類），従業者規模（７区分）別民営事業所数，従業者数，売上（収入）金額，医療，福祉の事業区分別収入額及び医療，福祉の相手先別収入額―全国，都道府県 | データベース | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001107075&tclass4val=0&statdisp_id=0003215502",
+    "pass": 3
+   },
+   {
+    "quote": "産業（細分類），従業者規模（７区分）別民営事業所数，従業者数，売上（収入）金額，医療，福祉の事業区分別収入額及び医療，福祉の相手先別収入額―全国，都道府県",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001107075&tclass4val=0&statdisp_id=0003215502",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)5000～1億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)1～10億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)10～50億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "A～R_全産業(S公務を除く)50億円以上企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "E_製造業5000～1億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "E_製造業1～10億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "E_製造業10～50億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "E_製造業50億円以上企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "I_卸売業、小売業5000～1億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "I_卸売業、小売業1～10億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "I_卸売業、小売業10～50億円未満企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "I_卸売業、小売業50億円以上企業数21",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   }
+  ],
+  "広告宣伝費・販管費": [
+   {
+    "quote": "② 費用総額(売上原価＋販売費及び一般管理費) 0,000",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "費用総額（売上原価＋販売費及び一般管理費）",
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クリニックの広告宣伝費は売上や利益に繋がるのか？【クリニック経営データ分析 Vol.03】 | 税理士への相談",
+    "url": "https://nktax.or.jp/useful/hospital-14352/",
+    "pass": 3
+   },
+   {
+    "quote": "クリニックの広告宣伝費は売上や利益に繋がるのか？【クリニック経営データ分析 Vol.03】",
+    "url": "https://nktax.or.jp/useful/hospital-14352/",
+    "pass": 3
+   },
+   {
+    "quote": "クリニックの広告宣伝費は売上や利益に繋がるのか？",
+    "url": "https://nktax.or.jp/useful/hospital-14352/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費とは、不特定多数の方に対する宣伝的効果を意図した費用のことです",
+    "url": "https://nktax.or.jp/useful/hospital-14352/",
+    "pass": 3
+   },
+   {
+    "quote": "クリニックにおいて広告宣伝費は、駅に設置する医院看板、雑誌や地域紙への掲載、電車やバスの車内放送、医院のwebサイト、求人広告などがあげられます",
+    "url": "https://nktax.or.jp/useful/hospital-14352/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、こうした広告宣伝費がクリニックの業績にプラスの影響があるのかどうか検証してみました",
+    "url": "https://nktax.or.jp/useful/hospital-14352/",
+    "pass": 3
+   },
+   {
+    "quote": "まず、広告宣伝費と売上との相関を取りました",
+    "url": "https://nktax.or.jp/useful/hospital-14352/",
+    "pass": 3
+   },
+   {
+    "quote": "個人法人全体としての広告宣伝費と売上との相関係数は0.52でした",
+    "url": "https://nktax.or.jp/useful/hospital-14352/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、クリニックにおいて広告宣伝費と売上の間には高い正の相関があることが分かります",
+    "url": "https://nktax.or.jp/useful/hospital-14352/",
+    "pass": 3
+   },
+   {
+    "quote": "一定規模以上に収益を拡大しようと考えると、広告宣伝費による集客も必要となってくるのではないかと考えられます",
+    "url": "https://nktax.or.jp/useful/hospital-14352/",
+    "pass": 3
+   },
+   {
+    "quote": "データから見ると、広告宣伝費の支出はクリニックの業績にプラスの影響を与えていると言えるのではないでしょうか",
+    "url": "https://nktax.or.jp/useful/hospital-14352/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、手術や在宅診療など診療単価の高い診療を行っており、広告宣伝費の支出額以上に売上が高くなっている事業所もあると考えられ、一方で、広告費はそれほど支出せず、口コミなどにより売上を伸ばしているクリニックや診療所もあります",
+    "url": "https://nktax.or.jp/useful/hospital-14352/",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "2016年 6月",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001107075&tclass4val=0&statdisp_id=0003215502",
+    "pass": 3
+   },
+   {
+    "quote": "2021年経済センサス活動調査に基づく対象業者一覧｜全国商工団体連合会",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "2021年経済センサス活動調査に基づく対象業者一覧",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "※2026年4月1日より、事業統合に伴いお問い合わせ先を変更しました",
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "pass": 3
+   },
+   {
+    "quote": "人口減少や物価高騰など社会環境が変化する中、クリニックの業績をよりよくしていくための適切な広告宣伝費の使い方が、今後は一層求められてくるのではないでしょうか",
+    "url": "https://nktax.or.jp/useful/hospital-14352/",
+    "pass": 3
+   },
+   {
+    "quote": "分離適格振替国債の分離状況並びに現在高推移",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   }
+  ],
+  "資本金1億円以上の企業": [
+   {
+    "quote": "法人企業統計調査附帯調査 四半期別GDP速報（1次速報）のための一部項目早期調査",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "医療 業界から 福祉 に転身して感じた違い - note 医療 業界から 福祉 に転身して感じた違い - note note https://note.com > キャリア > キャリア全般",
+    "url": "https://note.com/tomo_sabikan/n/nf89d66495c3b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "医療業界から福祉に転身して感じた違い｜とも＠サビ管✖️OT✖️就労支援ブログ",
+    "url": "https://note.com/tomo_sabikan/n/nf89d66495c3b",
+    "pass": 3
+   },
+   {
+    "quote": "作業療法士として医療業界で働いていた私が、福祉業界に転身して感じた大きな違い",
+    "url": "https://note.com/tomo_sabikan/n/nf89d66495c3b",
+    "pass": 3
+   },
+   {
+    "quote": "医療職上がりの人が扱いにくいと感じている方（笑）",
+    "url": "https://note.com/tomo_sabikan/n/nf89d66495c3b",
+    "pass": 3
+   },
+   {
+    "quote": "私はもともと作業療法士として病院で働いていました。",
+    "url": "https://note.com/tomo_sabikan/n/nf89d66495c3b",
+    "pass": 3
+   },
+   {
+    "quote": "患者さんのリハビリを行い、「少しでもよくなる」ことをサポートをするのがメインの業務です。",
+    "url": "https://note.com/tomo_sabikan/n/nf89d66495c3b",
+    "pass": 3
+   },
+   {
+    "quote": "その中で、リハビリ後の生活や就労を含めた社会復帰をどう支えていくかに興味を持つようになり、思い切って福祉業界へ転身しました。",
+    "url": "https://note.com/tomo_sabikan/n/nf89d66495c3b",
+    "pass": 3
+   },
+   {
+    "quote": "正直、最初は「人を支える」という点で医療と福祉は似ていると思っていたのですが、実際に働き始めると多くの違いがありました。",
+    "url": "https://note.com/tomo_sabikan/n/nf89d66495c3b",
+    "pass": 3
+   },
+   {
+    "quote": "結論をお伝えすると、考え方、制度、人間関係、時間軸、営業活動の５つです。",
+    "url": "https://note.com/tomo_sabikan/n/nf89d66495c3b",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/index-2.html",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001107075&tclass4val=0&statdisp_id=0003215502",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://faq-e-census-st.dga.jp/faq_detail.html?id=345&page=1000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kikatu/2026jissi/assets/pdf/26honsya_howto.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cigs.canon/article/20180314_4862.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumierre.jp/research/medical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nktax.or.jp/useful/hospital-14352/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000363513",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145666&tclass2=000001145669&tclass3=000001145674&tclass4val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tomo_sabikan/n/nf89d66495c3b",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済センサス 活動調査 医療・福祉 企業数 売上（収入）金額",
+   "results": [
+    "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2026kk0306.pdf",
+    "https://www.e-census2026.go.jp/document/pdf/howto_12.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001107075&tclass4val=0&statdisp_id=0003215502",
+    "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "https://faq-e-census-st.dga.jp/faq_detail.html?id=345&page=1000",
+    "https://www.e-census-st.go.jp/download/data/Census8_09_Dir.pdf",
+    "https://www.e-stat.go.jp/stat-search?kikan=00200&toukei=00200553&page=1",
+    "https://www.stat.go.jp/data/e-census/2026/shiken/pdf/chousahyou08.pdf",
+    "https://ftf-office.com/2026/04/08/e-census2026/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&statdisp_id=0003215501"
+   ]
+  },
+  {
+   "query": "経済センサス 2021 産業大分類 医療・福祉 従業者数",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "https://www.zenshoren.or.jp/2021census-gyosya",
+    "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "https://webview.isho.jp/journal/detail/pdf/10.11477/mf.1552110075",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001107075&tclass4val=0&statdisp_id=0003215502",
+    "https://www.stat.go.jp/data/e-census/2021/index.html"
+   ]
+  },
+  {
+   "query": "法人企業統計 医療・福祉 資本金1億円以上 社数",
+   "results": [
+    "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kikatu/2026jissi/assets/pdf/26honsya_howto.pdf",
+    "https://cigs.canon/article/20180314_4862.html",
+    "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/09/dl/06_0003.pdf",
+    "https://www.pref.hokkaido.lg.jp/ss/tuk/002eec/01_findings10.html",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm"
+   ]
+  },
+  {
+   "query": "医療・福祉 広告宣伝費 売上高比率 業種別",
+   "results": [
+    "https://lumierre.jp/research/medical/",
+    "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "https://nktax.or.jp/useful/hospital-14352/",
+    "https://www.dreamnews.jp/press/0000363513",
+    "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "https://japan.zdnet.com/release/31210386/",
+    "https://keiei.freee.co.jp/articles/p0100160",
+    "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "https://grill.co.jp/marketing-log/17487/",
+    "https://lumierre.jp/research/market/ad-spend/"
+   ]
+  },
+  {
+   "query": "e-Stat 経済センサス 医療・福祉 付加価値額",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145666&tclass2=000001145669&tclass3=000001145674&tclass4val=0",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106235&tclass2=000001106255&tclass3=000001107075&tclass4val=0&statdisp_id=0003215502",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001069811&result_page=1&statdisp_id=0003389414",
+    "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145666&tclass2=000001145669&tclass3=000001145674&layout=datalist&statdisp_id=0004006334"
+   ]
+  },
+  {
+   "query": "site:note.com 医療・福祉",
+   "results": [
+    "https://note.com/hmw_koho",
+    "https://note.com/tag/%E5%9B%BD%E9%9A%9B%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E5%A4%A7%E5%AD%A6",
+    "https://note.com/ark_college/n/na711e60a974e",
+    "https://note.com/tomo_sabikan/n/nf89d66495c3b",
+    "https://note.com/lostman0101/n/na01696beb8c6",
+    "https://note.com/chihiro_1047/n/n82e3b9bb7c52",
+    "https://note.com/shogo_ikeda/n/na58e45ec3a81",
+    "https://note.com/tag/%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E6%A5%AD%E7%95%8C",
+    "https://note.com/goukalize/n/n9c67a84f1c88",
+    "https://note.com/tag/医療福祉"
+   ]
+  },
+  {
+   "query": "site:x.com 医療・福祉",
+   "results": [
+    "https://x.com/iuhw_narita_c",
+    "https://x.com/nuhw11",
+    "https://x.com/iuhwemdept",
+    "https://x.com/gunma_iryou",
+    "https://x.com/kumw_sw",
+    "https://x.com/iuhw_otawara",
+    "https://x.com/IfcMynavi",
+    "https://x.com/IUHW_CO",
+    "https://x.com/mita_hospital/all",
+    "https://x.com/rjp_news/status/2064184236735865188"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 医療・福祉",
+   "results": [
+    "https://jp.linkedin.com/school/%E5%9B%BD%E9%9A%9B%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E5%A4%A7%E5%AD%A6/",
+    "https://jp.linkedin.com/in/etsuko-nakagami-yamaguchi-702b0476",
+    "https://www.linkedin.com/news/story/%E6%A5%AD%E7%A8%AE%E5%88%A5%E5%81%A5%E5%BA%B7%E3%83%AA%E3%82%B9%E3%82%AF-%E9%A6%96%E4%BD%8D%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89-4891201/",
+    "https://jp.linkedin.com/in/masaya-undefined-aa2a46439",
+    "https://jp.linkedin.com/school/%E6%96%B0%E6%BD%9F%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E5%A4%A7%E5%AD%A6/",
+    "https://www.linkedin.com/pub/%E7%A8%AE%E6%9D%91-%E7%B4%94/b2/5aa/709?trk=pub-pbmap",
+    "https://ph.linkedin.com/pub/yotaro-shinozawa/90/3bb/7b1",
+    "https://jp.linkedin.com/in/masakazunishigaki",
+    "https://jp.linkedin.com/in/san-e-ishikawa-752487137",
+    "https://fr.linkedin.com/school/%E5%BC%98%E5%89%8D%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E5%A4%A7%E5%AD%A6/?trk=similar-companies_org_title"
+   ]
+  },
+  {
+   "query": "site:facebook.com 医療・福祉",
+   "results": [
+    "https://www.facebook.com/KokusaiU/posts/1792286316238040/",
+    "https://www.facebook.com/KokusaiU/posts/1649418367191503/",
+    "https://www.facebook.com/iuhw.rehabilitation.narita.ichikawa/",
+    "https://www.facebook.com/KokusaiU/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E5%9B%BD%E9%9A%9B%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E5%A4%A7%E5%AD%A6%E3%81%A7%E3%81%99%E4%BA%BA%E3%80%85%E3%81%AB%E5%AF%84%E3%82%8A%E6%B7%BB%E3%81%84%E5%91%BD%E3%82%84%E5%81%A5%E5%BA%B7%E5%B9%B8%E3%81%9B%E3%81%AA%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E3%82%92%E5%AE%88%E3%82%8B%E3%81%93%E3%81%A8%E3%81%9D%E3%82%8C%E3%81%8C%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%A7%E3%81%99%E4%BB%8A%E5%9B%9E%E3%81%AF%E4%BB%8A%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%81%A6%E3%81%84%E3%82%8B%E7%9C%8B%E8%AD%B7%E5%B8%AB%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99324%E5%A4%A7%E7%94%B0%E5%8E%9F%E3%82%AD%E3%83%A3/1582709943862346/",
+    "https://www.facebook.com/KokusaiU/",
+    "https://www.facebook.com/KokusaiU/posts/%E6%9C%AA%E6%9D%A5%E3%81%AE%E5%8C%BB%E7%99%82%E4%BA%BA%E3%81%9F%E3%81%A1%E3%81%B8%E5%9B%BD%E9%9A%9B%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E5%A4%A7%E5%AD%A6%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E5%8B%95%E7%94%BBcm%E3%82%92youtube%E3%81%A7%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%9B%9E%E3%81%AEcm%E3%81%AB%E3%82%82%E4%BF%B3%E5%84%AA%E3%81%AE%E4%BB%B2%E5%90%89%E7%8E%B2%E4%BA%9C%E3%81%95%E3%82%93%E3%81%AB%E3%81%94%E5%87%BA%E6%BC%94%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%B2%E5%90%89%E3%81%95%E3%82%93%E3%81%AE%E6%9C%AC%E5%AD%A6cm%E3%81%B8%E3%81%AE%E3%81%94%E5%87%BA/1674712017995471/",
+    "https://www.facebook.com/p/%E7%BE%A4%E9%A6%AC%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E5%A4%A7%E5%AD%A6-100043453466161/",
+    "https://www.facebook.com/KokusaiU/posts/%E4%BA%BA%E3%80%85%E3%81%AB%E5%AF%84%E3%82%8A%E6%B7%BB%E3%81%84%E5%91%BD%E3%82%84%E5%81%A5%E5%BA%B7%E5%B9%B8%E3%81%9B%E3%81%AA%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E3%82%92%E5%AE%88%E3%82%8B%E3%81%93%E3%81%A8%E3%81%9D%E3%82%8C%E3%81%8C%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%A7%E3%81%99%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%81%AE%E7%A4%BE%E4%BC%9A%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%93%E3%81%AE%E5%88%86%E9%87%8E%E3%81%A7%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%81%8A%E4%BB%95%E4%BA%8B%E3%81%8C%E3%81%82%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E4%BB%8A%E5%9B%9E%E3%81%AF%E4%BD%9C/1529579135842094/",
+    "https://www.facebook.com/groups/1854797921496410/",
+    "https://www.facebook.com/nuhw.news/"
+   ]
+  },
+  {
+   "query": "医療・福祉 note 社長",
+   "results": [
+    "https://note.hmw.gr.jp/",
+    "https://www.instagram.com/p/DZ4KpwEFL8z/",
+    "https://note.com/hashtag/%E5%B9%B3%E6%88%90%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+    "https://note.com/hmw_planning",
+    "https://note.com/chihiro_1047/m/m125669156424",
+    "https://www.facebook.com/HMW.group/posts/%E5%B9%B3%E6%88%90%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97note%E3%81%AE%E6%9C%80%E6%96%B0%E8%A8%98%E4%BA%8B%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E3%81%93%E3%81%AE%E6%98%A5%E5%85%A5%E8%81%B7%E3%81%97%E3%81%9F257%E5%90%8D%E3%81%AE%E6%96%B0%E4%BA%BA%E8%81%B7%E5%93%A1%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%AB%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%9F4%E6%97%A5%E9%96%93%E3%81%AE%E6%96%B0%E4%BA%BA%E7%A0%94%E4%BF%AE%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E5%89%8D%E7%B7%A8%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E7%A0%94%E4%BF%AE%E3%81%A7%E3%81%AF%E3%82%B0%E3%83%AB%E3%83%BC/1407689294708977/",
+    "https://note.com/tag/%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E6%A5%AD%E7%95%8C",
+    "https://note.hmw.gr.jp/m/mf2a23d964c87",
+    "https://note.com/ishikawa310jp/m/ma648ea932396/archive",
+    "https://note.hmw.gr.jp/all"
+   ]
+  },
+  {
+   "query": "医療・福祉 X 投稿",
+   "results": [
+    "https://x.com/gunma_iryou",
+    "https://www.hirosakiuhw.jp/twitter-link/",
+    "https://www.jaswhs.or.jp/news/news_detail.php?@DB_ID@=2189",
+    "https://www.nuhw.ac.jp/about/sns_guideline.html",
+    "https://note.com/kanamitsuno/n/nc080c2fa6bee",
+    "https://nshw.smoosy.atlas.jp/ja/submission_instructions",
+    "https://x.com/silver_leehae/status/2110532187099672578",
+    "https://jshwp.org/jhwp.html",
+    "https://x.com/Xetil_Med",
+    "https://www.welfare-ac.or.jp/"
+   ]
+  },
+  {
+   "query": "medical health care welfare Japan census site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/gautam-mane_japan-has-125-hospital-beds-per-1000-people-activity-7479709319727407104-76vF",
+    "https://www.linkedin.com/posts/gautam-mane_japan-has-more-hospital-beds-per-capita-than-activity-7467821400280461313-IRAH",
+    "https://www.linkedin.com/posts/femalequotient_for-the-first-time-in-its-history-japan-activity-7506415561615028224-2Wt8",
+    "https://www.linkedin.com/posts/dean-h-yoshimoto-a28a3310b_the-2040-reckoning-japan-must-kill-the-activity-7518833933313105920-tSH2",
+    "https://www.linkedin.com/posts/swapgov_cm-pate-details-cross-cutting-agreement-with-activity-7404063354262294528-Ze3z",
+    "https://www.linkedin.com/posts/jimpiccillo_i-appreciate-they-were-able-to-focus-on-the-activity-7445454062780821506-h3IK",
+    "https://www.linkedin.com/posts/kk-ntec_ntec-wireharness-controlpanels-activity-7511590910770479104-8Ez5",
+    "https://www.linkedin.com/in/shiori-sawada-ph-d-981290a8",
+    "https://www.linkedin.com/pulse/japan-oral-health-care-essential-the-commonwealth-fund-ntw1e",
+    "https://www.linkedin.com/pulse/care-under-pressure-reforming-hong-kongs-welfare-cheung-h-f-jackie-iuypc"
+   ]
+  }
+ ],
+ "missing": {}
+}

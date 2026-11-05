@@ -1,0 +1,1502 @@
+{
+ "name": "電気・ガス・熱供給・水道業",
+ "en": "utilities Japan census",
+ "aliases": [
+  "電気業",
+  "ガス業",
+  "水道業",
+  "大分類F"
+ ],
+ "context": "大分類F",
+ "kind": "market",
+ "researched_at": "2026-11-05T11:45:33.822851+00:00",
+ "evidence": {
+  "企業数・事業所数": [
+   {
+    "quote": "統計局ホームページ/令和3年経済センサス‐活動調査 調査の結果",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス-活動調査 調査の結果",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査に関する地域メッシュ統計",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、全産業を対象とする「経済センサス-活動調査」の創設に伴い、平成24年、平成28年、令和３年は「経済センサス-活動調査」の『製造業』として調査を実施し、『製造業』の集計結果を公表しています",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成24年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 8-1 企業産業(中分類)、売上（収入）金額階級別企業等数、事業所数、従業者数、売上（収入）金額、費用総額、主な費用項目、粗付加価値額、純付加価値額及び設備投資額－全国 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 企業等に関する集計 産業横断的集計 経理事項等",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅲ 事業所数及び従業者数の状況 .............................................. 22",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．産業大分類別事業所数及び従業者数 ...................................... 22",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．従業者規模別事業所数及び従業者数 ...................................... 28",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．開設時期別事業所数 .................................................... 29",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．他からの出向・派遣従業者の有無別事業所数及び他からの出向・派遣従業者数 32",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査の概要 ......................................... 44",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 令和３年経済センサス‐活動調査は、甲調査と乙調査の２種類から成り、甲調査は",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、従来の活動調査等結果は、当時の消費税率であり、現行の税率（10％）と異",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 甲調査の調査対象の事業所（企業等）は、平成28年経済センサス‐活動調査では活",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査結果（METI/経済産業省）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査結果",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "pass": 3
+   },
+   {
+    "quote": "・令和３年６月１日現在で実施した経済センサス‐活動調査の結果です",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年活動調査の集計体系及び公表時期一覧・各集計と産業分類の対象範囲(PDF:92KB)",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査 速報集計",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３年６月に実施した「経済センサス‐活動調査」の速報集計結果を公表",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の企業等の数は367万４千企業、民営事業所数は507万９千事業所、",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表２ 産業大分類別民営事業所数及び従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．民営事業所数の状況（産業大分類別）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○民営事業所数をみると、「卸売業，小売業」が120万１千事業所（全産業の23.6％）と最も",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図４ 産業大分類別民営事業所数の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「民営事業所数の構成比」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）不動産業の事業所数",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①事業所数の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-4",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②各産業事業所数の全産業事業所数に占める割合・・・・・・・・・・・・・・・・[1]-4",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③産業別事業所数の指数・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-5",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④従業者規模別事業所数とその割合・・・・・・・・・・・・・・・・・・・・・・[1]-6",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２） 不動産業の事業所数",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「経済センサス」と「事業所・企業統計調査」は調査の対象は同様だが、調査手法が異なる",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「事業所・企業統計調査」と「経済センサス」は調査の対象は同様だが、調査手法が異なる",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 産業別事業所数の指数（平成8年＝100，平成21年＝100，平成28年＝100）",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金階級別に企業数をみると，「1,000万〜3,000万円未満」が67万3千企業（企業全体の41.6％）で最も多く，次いで「500万円未満」が60万3千企業（同37.3％），「500万〜1,000万円未満」が20万6千企業（同12.7％）となっており，企業全体の9割以上（91.6％）が資本金3,000万円未満の企業となっている",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金階級別に企業数を平成8年と比べると，「50億円以上」が6.7％増，「10億〜50億円未満」が7.2％増など，3,000万円以上の各階級で増加となっている",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "表II-4-1 資本金階級別企業数の推移（平成3年〜13年）",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "表II-4-2 企業産業大分類，資本金階級別企業数（平成13年）",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業横断的集計1-2 産業（中分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―全国，都道府県 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業横断的集計",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "産業（中分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―全国，都道府県",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス産業分類(平成26年経済センサス－基礎調査) | 統計分類・用語の検索 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "pass": 3
+   },
+   {
+    "quote": "平成26年経済センサス－基礎調査",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "pass": 3
+   },
+   {
+    "quote": "平成21年経済センサス－基礎調査",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス産業分類(平成26年経済センサス－基礎調査)",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "pass": 3
+   }
+  ],
+  "従業者数": [
+   {
+    "quote": "経済センサス‐活動調査 8-1 企業産業(中分類)、売上（収入）金額階級別企業等数、事業所数、従業者数、売上（収入）金額、費用総額、主な費用項目、粗付加価値額、純付加価値額及び設備投資額－全国 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業(中分類)、売上（収入）金額階級別企業等数、事業所数、従業者数、売上（収入）金額、費用総額、主な費用項目、粗付加価値額、純付加価値額及び設備投資額－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅲ 事業所数及び従業者数の状況 .............................................. 22",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．産業大分類別事業所数及び従業者数 ...................................... 22",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．従業上の地位別従業者数 ................................................ 25",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．従業者規模別事業所数及び従業者数 ...................................... 28",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．他からの出向・派遣従業者の有無別事業所数及び他からの出向・派遣従業者数 32",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）は515万6063事業所、従業者数は5795万人となっている",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、国、地方公共団体を含む事業所数は528万8891事業所、従業者数は6242万８千人とな",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅰ－２ 産業大分類別企業等数、事業所数及び従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「事業所数」、「従業者数」及び「１事業所当たり従業者数」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 従業者数 事業所数 従業者数 事業所数 従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅲ 事業所数及び従業者数の状況 （事業所に関する集計）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．産業大分類別事業所数及び従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表２ 産業大分類別民営事業所数及び従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」及び「従業者数」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６．従業者数の状況（産業大分類別）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○従業者数をみると、「卸売業，小売業」が1147万７千人（全産業の20.0％）と最も多く、次",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図５ 産業大分類別従業者数の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「従業者数の構成比」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）不動産業の従業者数",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①従業者数の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-7",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②各産業従業者数の全産業従業者数に占める割合・・・・・・・・・・・・・・・・[1]-7",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③産業別従業者数の指数・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-8",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④業態別民営従業者数の推移・・・・・・・・・・・・・・・・・・・・・・・・・[1]-9",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑤民営の一事業所あたり平均従業者数・・・・・・・・・・・・・・・・・・・・・[1]-10",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３） 不動産業の従業者数",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 各産業従業者数の全産業従業者数に占める割合",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 産業別従業者数の指数（平成8年＝100，平成21年＝100，平成28年＝100）",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "取引士証交付者数 ［Ａ］ 取引士就業者数 ［Ｂ］ 就業率 ［Ｂ／Ａ］",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２：就業者数＝従業員数＋役員数",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "飯塚電気株式会社所在地滋賀県守山市勝部２丁目１番３３号従業員数1人設立年月日平成18年資本金500万円事業内容電気工事業代",
+    "url": "https://note.com/clipcorporation/n/naaac5a024f4b",
+    "pass": 3
+   },
+   {
+    "quote": "野間ガスサービス株式会社所在地京都府京都市右京区嵯峨新宮町３９番地の９従業員数設立年月日資本金事業内容代表者 東海電気土木",
+    "url": "https://note.com/clipcorporation/n/naaac5a024f4b",
+    "pass": 3
+   },
+   {
+    "quote": "扇港興産株式会社所在地兵庫県神戸市灘区都通１丁目１番６号従業員数設立年月日資本金事業内容代表者 ネクスト・ワン株式会社所在",
+    "url": "https://note.com/clipcorporation/n/naaac5a024f4b",
+    "pass": 3
+   },
+   {
+    "quote": "仲野水道設備株式会社所在地奈良県生駒市谷田町８０８番地従業員数12人設立年月日昭和34年資本金2,000万円事業内容上下水",
+    "url": "https://note.com/clipcorporation/n/naaac5a024f4b",
+    "pass": 3
+   },
+   {
+    "quote": "ＱソーラーＡ合同会社所在地和歌山県有田郡有田川町大字上六川小字西上奥６４９番地２従業員数設立年月日資本金事業内容代表者 白",
+    "url": "https://note.com/clipcorporation/n/naaac5a024f4b",
+    "pass": 3
+   }
+  ],
+  "売上（収入）金額・付加価値額": [
+   {
+    "quote": "経済センサス‐活動調査 8-1 企業産業(中分類)、売上（収入）金額階級別企業等数、事業所数、従業者数、売上（収入）金額、費用総額、主な費用項目、粗付加価値額、純付加価値額及び設備投資額－全国 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "3000万円～1億円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "1～3億円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "3～10億円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "10～100億円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "100億円以上",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅱ 企業等数、売上高及び純付加価値額等の状況 ............................... ３",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．企業等数、売上高及び純付加価値額 ...................................... ３",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．事業活動別売上高 ...................................................... 12",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．都道府県別純付加価値額の状況 .......................................... 21",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 甲調査の売上（収入）金額、費用等の経理事項は2020年１年間の数値である",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の我が国の売上（収入）金額（以下「売上高」という",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・（参考）全産業の事業所の売上（収入）金額に関する試算値 利用上の注意(PDF:138KB)",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "pass": 3
+   },
+   {
+    "quote": "○2020年の我が国の売上（収入）金額は1702兆201億円、純付加価値額は337兆1437億円",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表１ 産業大分類別企業等数、売上高及び純付加価値額",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２：「売上高」及び「純付加価値額」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注３：本調査における純付加価値額は、以下の計算式を用いている",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．売上高の状況（産業大分類別）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○売上高をみると、「卸売業，小売業」が481兆4654億円（全産業の28.3％）と最も多く、次",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "いで「製造業」が390兆9934億円（同23.0％）、「医療，福祉」が173兆1927億円（同10.2％）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図２ 産業大分類別売上高の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「売上高の構成比」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ａ売上高の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-30 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②不動産業の資本金別売上高・・・・・・・・・・・・・・・・・・・・・・・・・[1]-31 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ａ不動産業の就業者一人あたり付加価値額・・・・・・・・・・・・・・・・・・[1]-34 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ｂ不動産業の就業者一人あたり付加価値額の推移・・・・・・・・・・・・・・・[1]-34 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ｃ各産業の従業員一人あたり付加価値額の推移・・・・・・・・・・・・・・・・[1]-35 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10億円未満 10億円以上 合計",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10億円未満",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10億円以上",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 不動産業の資本金別売上高 33628281",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年度 １千万円未満 １千万円～１億円未満 １億円～１０億円未満 １０億円以上",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１０億円未満",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金階級別に企業数を平成8年と比べると，「50億円以上」が6.7％増，「10億〜50億円未満」が7.2％増など，3,000万円以上の各階級で増加となっている",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "10億円以上",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "1億円以上 - 10億円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "5千万円以上 - 1億円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "1千万円以上 - 1億円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業横断的集計1-2 産業（中分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―全国，都道府県 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "産業（中分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―全国，都道府県",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり付加価値額",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "事業従事者1人当たり付加価値額",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "アストマックスの覚醒！会計上爆益26億円の裏にある罠と「電気・ガス業」への所属変更がもたらす大逆転ロードマップ",
+    "url": "https://note.com/tag/%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "2021年 6月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "甲調査及び乙調査とも2021年６月１日を調査日として実施している",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の企業等（※２）の数は368万4049企業、民営事業所数（以下「事業所数」",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年） 【参考】2016年（平成28年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【参考】2016年（平成28年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（ 令和３年） 【参考】 2016年（平成28年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注３：調査事項の変更に伴い、雇用者の内訳が異なるため、2016年の数値は表章していない（利用上の注意",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【参考】2016年",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 2016年以降に開設された事業所の数は、62万2850事業所となっている",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別に2016年以降に開設された事業所の数をみると、「卸売業，小売業」が",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 産業大分類別に、産業ご との事業所数に占める2016年以降に開設された事業所数の",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年（平成27年）以前 2016年（平成28年）以降",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の企業等の数は367万４千企業、民営事業所数は507万９千事業所、",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①法人数の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-1 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①事業所数の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-4",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①従業者数の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-7",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④業態別民営従業者数の推移・・・・・・・・・・・・・・・・・・・・・・・・・[1]-9",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑥主な産業別就職者数の推移（４年制大学卒業者）・・・・・・・・・・・・・・・[1]-11 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①宅地建物取引業者数の推移・・・・・・・・・・・・・・・・・・・・・・・・・[1]-13",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③宅地建物取引士登録者数の推移・・・・・・・・・・・・・・・・・・・・・・・[1]-15",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑤宅地建物取引士資格試験受験者数等の推移・・・・・・・・・・・・・・・・・・[1]-17 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ｂ国土交通省及び都道府県における苦情紛争相談件数の推移・・・・・・・・・・[1]-20 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ａ売上高の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-30 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ｂ経常利益の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-30 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④全産業・製造業・不動産業の経営指標の推移・・・・・・・・・・・・・・・・・[1]-33 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金3,000万円以上で増加，3,000万円未満で減少",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金階級別に企業数を平成8年と比べると，「50億円以上」が6.7％増，「10億〜50億円未満」が7.2％増など，3,000万円以上の各階級で増加となっている",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方，「500万〜1,000万円未満」が8.0％減など，3,000万円未満の各階級では減少となっている",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "表II-4-1 資本金階級別企業数の推移（平成3年〜13年）",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "【業種別マップ】あなたの業界は何位?東証33業種の平均年収を一覧化｜海運1位・証券2位・保険3位…意外と高い業種・低い業種が一目でわかる｜年収ランキング.jpで全3,785社を業種補正で比較【2026年最新版】",
+    "url": "https://note.com/tag/%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "【日経225｜2026年04月09日】朝のコーヒーからお金持ちに！さきの150円から始める投資生活",
+    "url": "https://note.com/tag/%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月30日 日本株セクターランキング｜海運業が堅調 今日の相場観と今後の動向",
+    "url": "https://note.com/tag/%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2026年02月20日の国内株式市場市況レポート",
+    "url": "https://note.com/tag/%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "▶️関西電力株式会社＊日経平均株価225／電気・ガス業 原発依存度が高く、定期点検の影響で電力販売量が減少",
+    "url": "https://note.com/tag/%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "資本金1億円以上の企業": [
+   {
+    "quote": "（３）資本金階級別の状況（会社企業に関する集計）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社企業について、資本金階級別に企業数をみると、「資本金1000万円未満」が103万",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6076企業（資本金階級別の合計に占める割合は59.3％） と最も多く、次いで 「資本金1000",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－３ 資本金階級別会社企業数、売上高及び純付加価値額",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図Ⅱ－２ 資本金階級別会社企業数、売上高及び純付加価値額の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（４）資本金階級別設備投資額の状況（会社企業に関する集計）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社企業について、資本金階級別に設備投資額をみると、「資本金１億円以上」が38兆4951",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億円（資本金階級別の合計に占める割合は76.2％）と最も多く、次いで「資本金3000万円",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－14 資本金階級別会社企業数及び設備投資額",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図Ⅱ－12 資本金階級別会社企業数及び設備投資額の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：財務総合政策研究所「法人企業統計調査」による",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（令和4年度までは財務省「財政金融統計月報」－法人企業統計年報特集－による",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "統計局ホームページ/平成13年事業所・企業統計調査 結果の概要 II-4 資本金階級別",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "II-4 資本金階級別",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金階級別に企業数をみると，「1,000万〜3,000万円未満」が67万3千企業（企業全体の41.6％）で最も多く，次いで「500万円未満」が60万3千企業（同37.3％），「500万〜1,000万円未満」が20万6千企業（同12.7％）となっており，企業全体の9割以上（91.6％）が資本金3,000万円未満の企業となっている",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金階級別に企業数を平成8年と比べると，「50億円以上」が6.7％増，「10億〜50億円未満」が7.2％増など，3,000万円以上の各階級で増加となっている",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "表II-4-1 資本金階級別企業数の推移（平成3年〜13年）",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "図II-4 企業の資本金階級別構成比（平成13年）",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業大分類別に企業の資本金階級別構成比をみると，「電気・ガス・熱供給・水道業」は1,000万円以上の企業が9割以上を占めているのに対し，「農林漁業」は1,000万円未満の企業が約7割を占めている",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "表II-4-2 企業産業大分類，資本金階級別企業数（平成13年）",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査 時系列データ 時系列データ 1 金融業、保険業以外の業種(原数値) 年度次 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査 | すべて | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査 時系列データ 時系列データ 1 金融業、保険業以外の業種(原数値) 年度次 | データベース | 統計データを探す",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査は、わが国における営利法人等の企業活動の実態を把握するため、標本調査として実施されている統計法に基づく基幹統計調査です",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "pass": 3
+   }
+  ],
+  "広告宣伝費・販管費": [
+   {
+    "quote": "純付加価値額＝売上高－（費用総額（売上原価＋販売費及び一般管理費））＋給与総額＋租税公課",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全産業における設備投資額売上高比率（売上高に対する設備投資額の割合）は3.5％とな",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別に設備投資額売上高比率をみると、「電気・ガス・熱供給・水道業」が10.9％",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－13 産業大分類別設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「売上高」、「設備投資額」及び「設備投資額売上高比率」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図Ⅱ－11 産業大分類別設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「設備投資額売上高比率」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類 売上高 設備投資額 設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 費用総額（売上原価＋販売費及び一般管理費）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「売上原価」、「販売費及び一般管理費」それぞれに計上された",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純付加価値額＝売上高－（費用総額（売上原価＋販売費及び一般管理費） ）＋給与総額＋租税公課",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "大阪府の主要な 電気 ・ ガス ・ 熱供給 ・ 水道業 関連企業一覧 - note 大阪府の主要な 電気 ・ ガス ・ 熱供給 ・ 水道業 関連企業一覧 - note note https://note.com > 企業クリップ",
+    "url": "https://note.com/clipcorporation/n/naaac5a024f4b",
+    "pass": 3
+   },
+   {
+    "quote": "電気 ・ ガス 業の人気・新着記事まとめ - note 電気 ・ ガス 業の人気・新着記事まとめ - note note https://note.com > tag > 電気・ガス業",
+    "url": "https://note.com/tag/%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "大阪府の主要な電気・ガス・熱供給・水道業関連企業一覧｜企業クリップ",
+    "url": "https://note.com/clipcorporation/n/naaac5a024f4b",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府の主要な電気・ガス・熱供給・水道業関連企業一覧",
+    "url": "https://note.com/clipcorporation/n/naaac5a024f4b",
+    "pass": 3
+   },
+   {
+    "quote": "尻別風力開発株式会社 ｜ 大阪府大阪市中央区道修町３丁目５番１１号",
+    "url": "https://note.com/clipcorporation/n/naaac5a024f4b",
+    "pass": 3
+   },
+   {
+    "quote": "Ｄａｉｇａｓ大分みらいソーラー株式会社 ｜ 大阪府大阪市中央区道修町３丁目５番１１号",
+    "url": "https://note.com/clipcorporation/n/naaac5a024f4b",
+    "pass": 3
+   },
+   {
+    "quote": "東邦ヤンマーテック株式会社 ｜ 大阪府大阪市福島区吉野４丁目６番５号",
+    "url": "https://note.com/clipcorporation/n/naaac5a024f4b",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマト電機株式会社 ｜ 大阪府吹田市千里丘下２２番４号浦田ビル１階",
+    "url": "https://note.com/clipcorporation/n/naaac5a024f4b",
+    "pass": 3
+   },
+   {
+    "quote": "レンゴー株式会社 ｜ 大阪府大阪市福島区大開４丁目１番１８６号",
+    "url": "https://note.com/clipcorporation/n/naaac5a024f4b",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マコト電気 ｜ 大阪府大阪市北区梅田３丁目４番５号",
+    "url": "https://note.com/clipcorporation/n/naaac5a024f4b",
+    "pass": 3
+   },
+   {
+    "quote": "電気・ガス業の人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "【GS AI投資研究室】今週の東証33業種の追い風・向かい風。石油・石炭製品、鉱業、卸売業が上位、電気・ガス業が下位（10/26〜10/30）",
+    "url": "https://note.com/tag/%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "「金利に弱い」と言われる業種は、本当に下がったか",
+    "url": "https://note.com/tag/%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "今日の日本株を一緒にチェック 2026/09/09",
+    "url": "https://note.com/tag/%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "(9/1)東京株式市場、値上がり業種ずらり 日経平均はわずかに続落",
+    "url": "https://note.com/tag/%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "【2026/09/01】日経96円安でもTOPIXは0.62%高――東京エレクトロン単独▲146円は下げ幅の1.52倍／電気機器32銘柄▲193円を卸売+72・情報通信+72で吸収、電気・ガス4.28%高",
+    "url": "https://note.com/tag/%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "【8/31 日本株まとめ】ウォーシュ発言でドル円160円台、日経平均は一時1000円超安から急速に切り返す",
+    "url": "https://note.com/tag/%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "Andy 20代 資産6000万 外資系勤務",
+    "url": "https://note.com/tag/%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "All About on X: \" 電気 ・ ガス ・ 熱供給 ・ 水道業 の「平均年収 ... All About on X: \" 電気 ・ ガス ・ 熱供給 ・ 水道業 の「平均年収 ... X https://x.com > @allabout_news",
+    "url": "https://x.com/allabout_news/status/2103731570138050760",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://faq-e-census-st.dga.jp/faq_detail.html?id=345&page=1000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intage-research.co.jp/ongoing-research/single---id-59.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keiei.freee.co.jp/articles/p0100160/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dentsu.co.jp/knowledge/ad_cost/2024/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389393",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clipcorporation/n/naaac5a024f4b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/allabout_news/status/2103731570138050760",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tag/%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済センサス 活動調査 電気・ガス・熱供給・水道業 企業数 売上（収入）金額",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "https://faq-e-census-st.dga.jp/faq_detail.html?id=345&page=1000",
+    "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "https://www.intage-research.co.jp/ongoing-research/single---id-59.html",
+    "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "https://ftf-office.com/2026/04/08/e-census2026/",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html"
+   ]
+  },
+  {
+   "query": "経済センサス 2021 産業大分類 電気・ガス・熱供給・水道業 従業者数",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://www.nikkei.com/article/DGXZQOUA317N90R30C22A5000000/",
+    "https://www.e-census-st.go.jp/bunrui/",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10000.htm"
+   ]
+  },
+  {
+   "query": "法人企業統計 電気・ガス・熱供給・水道業 資本金1億円以上 社数",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&statdisp_id=0003060791",
+    "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://www.dlri.co.jp/report/macro/378078.html",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/html/nd241610.html",
+    "https://www.cao.go.jp/zei-cho/history/1996-2009/etc/1999/zei_d_09c.html"
+   ]
+  },
+  {
+   "query": "電気・ガス・熱供給・水道業 広告宣伝費 売上高比率 業種別",
+   "results": [
+    "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "https://lumierre.jp/research/market/ad-spend/",
+    "https://keiei.freee.co.jp/articles/p0100160",
+    "https://www.dentsu.co.jp/knowledge/ad_cost/2024/business.html",
+    "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "https://note.com/cio_seo_/n/n1ad6f5cb9c88",
+    "https://www.chusho.meti.go.jp/koukai/chousa/keiei_sihyou/h11/07_f.html",
+    "https://megdai.jp/markebatake/ads/6619/"
+   ]
+  },
+  {
+   "query": "e-Stat 経済センサス 電気・ガス・熱供給・水道業 付加価値額",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389393",
+    "https://www.stat.go.jp/info/today/122.htm",
+    "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "https://www.e-stat.go.jp/classifications/terms/80/03/F"
+   ]
+  },
+  {
+   "query": "site:note.com 電気・ガス・熱供給・水道業",
+   "results": [
+    "https://note.com/career_swai/n/n6b3c7f744053",
+    "https://note.com/clipcorporation/n/naaac5a024f4b",
+    "https://note.com/vast_cosmos500/n/nb0b36c658671",
+    "https://note.com/magic_sorrel5329/n/nfc8093a1b26a",
+    "https://note.com/sskhras/n/ne6a4354acb3e",
+    "https://note.com/nenshu_growth/n/n25b9e73c1a42",
+    "https://note.com/tanakaminoru_/n/ne435a89f57f9",
+    "https://note.com/kei_yoko/n/n57d417c5a4ba",
+    "https://note.com/bunkeiawssan/n/n788890b93ec1",
+    "https://note.com/co2_emission/n/na0329edfac5b"
+   ]
+  },
+  {
+   "query": "site:x.com 電気・ガス・熱供給・水道業",
+   "results": [
+    "https://x.com/allabout_news/status/2103731570138050760",
+    "https://x.com/thinktheworld21/status/2113766285918273566",
+    "https://x.com/Shinsuke_Suzu/status/1873148699532259766",
+    "https://x.com/NEWS_0/status/2104868945119338519",
+    "https://x.com/saaaaaaaaako17/status/2104850365669896324",
+    "https://x.com/Masked_Tigre/status/2104873932914614343",
+    "https://x.com/mmmsumo/status/2112021005564780947",
+    "https://x.com/wakamono_koyou/status/2110182315469222171",
+    "https://x.com/masaki_kito/status/2105132123468583261",
+    "https://x.com/tomofullmoon/status/2111843164483162130"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 電気・ガス・熱供給・水道業",
+   "results": [
+    "https://www.linkedin.com/news/story/%E6%9C%89%E4%BC%91%E5%8F%96%E5%BE%97%E7%8E%87566-%E9%81%8E%E5%8E%BB%E6%9C%80%E9%AB%98%E3%81%AB-5178172/",
+    "https://www.linkedin.com/help/recruiter/answer/a1421501/recruiter-talent-insights-?lang=ja",
+    "https://jp.linkedin.com/pulse/top-service-industry-trends-follow-expert-network-calls-rpq0f?tl=ja",
+    "https://www.linkedin.com/in/motoe-greene-8a049517",
+    "https://nl.linkedin.com/in/patriciamei-watarai",
+    "https://jp.linkedin.com/pulse/why-demand-beats-supply-services-game-kaloyan-gospodinov-toxff?tl=ja",
+    "https://jp.linkedin.com/pulse/one-question-many-service-businesses-cant-answer-klara-akerstrom-oboie?tl=ja",
+    "https://www.linkedin.com/posts/elliot-conti_%E3%81%84%E3%81%BE%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%A5%AD%E3%81%8C%E6%B5%B7%E5%A4%96%E3%82%92%E7%8B%99%E3%81%86%E7%90%86%E7%94%B1-why-japans-service-activity-7380511770186199040-k5ap",
+    "https://jp.linkedin.com/pulse/difference-between-service-business-transformational-one-ellefson-lpe3e?tl=ja",
+    "https://jp.linkedin.com/posts/microsoft_%E5%B0%82%E9%96%80%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%A5%AD%E3%81%AE-azure-%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8Borchard-technology-activity-6577688830135017472-N1zC"
+   ]
+  },
+  {
+   "query": "site:facebook.com 電気・ガス・熱供給・水道業",
+   "results": [
+    "https://www.facebook.com/YoshidamanBZN/posts/%E4%BB%95%E4%BA%8B%E6%9F%84%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E6%89%B1%E3%81%86%E6%A9%9F%E4%BC%9A%E3%81%8C%E3%81%82%E3%82%8B%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C%E8%B1%8A%E5%89%8D%E5%B8%82%E3%81%AE%E7%94%A3%E6%A5%AD%E6%A7%8B%E9%80%A0%E3%82%92%E8%A6%8B%E3%81%A6%E3%83%93%E3%83%83%E3%82%AF%E3%83%AA%E9%9B%BB%E6%B0%97%E3%82%AC%E3%82%B9%E7%86%B1%E4%BE%9B%E7%B5%A6%E6%B0%B4%E9%81%93%E6%A5%AD%E3%81%A7%E4%B8%80%E4%BA%BA%E5%BD%93%E3%81%9F%E3%82%8A%E3%81%AE%E7%94%9F%E7%94%A3%E6%80%A7%E3%81%8C2%E5%84%84%E5%86%86%E3%81%A6%E3%81%8A%E3%81%9D%E3%82%89%E3%81%8F%E8%B3%87%E6%9C%AC%E9%9B%86%E7%B4%84%E5%9E%8B%E3%81%AE%E3%83%90%E3%82%A4%E3%82%AA%E3%83%9E%E3%82%B9%E9%96%A2%E9%80%A3%E3%81%A8%E3%81%8B%E3%81%A0/614283154946553/",
+    "https://www.facebook.com/tobuhotel.saiyo/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%BB%8A%E5%9B%9E%E3%81%AF%E5%92%8C%E5%85%89%E5%B8%82%E6%9D%B1%E6%AD%A6%E3%83%9B%E3%83%86%E3%83%AB%E3%81%A7%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%81%AE%E4%B8%BB%E4%BB%BB%E3%82%92%E3%81%A4%E3%81%A8%E3%82%81%E3%82%8B%E5%85%88%E8%BC%A9%E7%A4%BE%E5%93%A1%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E6%8A%95%E7%A8%BF%E3%81%A7%E3%81%99%E6%9D%B1%E6%AD%A6%E3%83%9B%E3%83%86%E3%83%AB%E3%83%AC%E3%83%90%E3%83%B3%E3%83%88%E7%94%A8%E9%8F%A1%E3%81%A7%E3%81%AE%E5%AE%BF%E6%B3%8A%E9%83%A8%E4%BA%88%E7%B4%84%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%84%E6%9C%AC%E7%A4%BE%E3%81%AE%E7%B7%8F%E5%8B%99%E4%BA%BA%E4%BA%8B%E9%83%A8%E3%81%AB%E3%81%A6%E6%8E%A1%E7%94%A8%E6%8B%85/1480379077430886/",
+    "https://ja-jp.facebook.com/business/help/399587795372584",
+    "https://www.facebook.com/ibaracity/posts/%E8%8D%8F%E5%8E%9F%E6%9D%B1%E3%81%88%E3%81%B0%E3%82%89%E3%81%B2%E3%81%8C%E3%81%97%E7%94%A3%E6%A5%AD%E7%94%A8%E5%9C%B0-%E9%80%B2%E5%87%BA%E4%BC%81%E6%A5%AD%E5%8B%9F%E9%9B%86%E4%B8%AD%E5%9B%BD%E9%81%93486%E5%8F%B7%E6%B2%BF%E3%81%84%E3%81%AB%E7%B4%841ha%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA%E7%94%A3%E6%A5%AD%E7%94%A8%E5%9C%B0%E3%82%92%E6%95%B4%E5%82%99%E3%81%97%E3%81%BE%E3%81%99%E6%9C%80%E4%BD%8E%E5%88%86%E8%AD%B2%E5%8D%98%E4%BE%A1%E4%BA%88%E5%AE%9A%E3%81%AF11000%E5%86%86%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E5%AF%BE%E8%B1%A1%E6%96%BD%E8%A8%AD%E3%81%AF%E8%A3%BD%E9%80%A0%E5%B7%A5%E5%A0%B4%E7%89%A9/1547374797420439/",
+    "https://www.facebook.com/media/set/?set=a.854393021404231.1073741835.539855632857973&type=3",
+    "https://www.facebook.com/tvasahinews/videos/kddi%E3%81%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E4%BA%8B%E6%A5%AD%E3%81%AB%E6%9C%AC%E6%A0%BC%E5%8F%82%E5%85%A5%E3%81%B8-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%A5%AD%E3%82%84%E8%BE%B2%E6%A5%AD%E3%81%B8%E3%81%AE%E5%B1%95%E9%96%8B%E7%9B%AE%E6%8C%87%E3%81%99%E9%80%9A%E4%BF%A1%E5%A4%A7%E6%89%8B%E3%81%AEkddi%E3%81%AF%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E4%BA%8B%E6%A5%AD%E3%81%AB%E6%9C%AC%E6%A0%BC%E5%8F%82%E5%85%A5%E3%81%972030%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AB1000%E5%8F%B0%E4%BB%A5%E4%B8%8A%E3%81%AE%E5%B0%8E%E5%85%A5%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E3%81%A8%E7%99%BA%E8%A1%A8/2086610191977098/",
+    "https://www.facebook.com/Engineering.OsakaUniversity/videos/%E5%A4%A7%E9%98%AA%E5%A4%A7%E5%AD%A6%E5%B7%A5%E5%AD%A6%E9%83%A8%E5%B7%A5%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%A7%91%E3%81%AE%E5%90%84%E5%AD%A6%E7%A7%91%E5%B0%82%E6%94%BB%E3%81%AE%E7%B4%B9%E4%BB%8B%E5%8B%95%E7%94%BB%E3%81%A7%E3%81%99-%E5%B7%A5%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%A7%91hp%E3%81%AB%E3%81%A6%E7%89%B9%E8%A8%AD%E3%82%B5%E3%82%A4%E3%83%88%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E9%98%AA%E5%A4%A7%E5%B7%A5%E5%AD%A6%E9%83%A8%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B92025%E3%82%92%E5%85%AC%E9%96%8B-httpswwwengosa/1293118835881216/",
+    "https://www.facebook.com/morii.yoshihide/videos/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%A5%AD%E3%81%AE%E5%8B%9D%E3%81%A1%E6%96%B9%E3%81%AF2%E3%81%A4%E3%81%A0%E3%81%91%E5%B9%B4%E9%96%931000%E4%BB%B6%E3%81%AE%E4%BA%8B%E6%A5%AD%E8%A8%88%E7%94%BB%E3%82%92%E8%A6%8B%E3%82%8B%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E8%A8%BA%E6%96%AD%E5%A3%AB%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E4%BC%B8%E3%81%B3%E3%82%8B%E4%BA%8B%E6%A5%AD%E5%A4%B1%E6%95%97%E3%81%99%E3%82%8B%E4%BA%8B%E6%A5%AD%E3%82%92%E6%AF%8E%E6%97%A5%E8%A7%A3%E8%AA%AC-%E7%B6%9A%E3%81%8D%E3%81%AFyoutube%E6%9C%AC%E7%B7%A8%E3%81%A7nontitle6/1691256209095067/",
+    "https://www.facebook.com/100001752308785/posts/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%A5%AD%E3%81%AB%E9%96%A2%E3%82%8F%E3%82%8B%E5%85%A8%E3%81%A6%E3%81%AE%E4%BA%BA%E5%90%91%E3%81%91%E3%83%9B%E3%82%B9%E3%83%94%E3%82%BF%E3%83%AA%E3%83%86%E3%82%A3%E3%82%92%E8%A6%8B%E3%82%8B%E8%81%9E%E3%81%8F%E9%A3%B2%E3%82%80%E9%A3%9F%E3%81%B9%E3%82%8B%E5%AD%A6%E3%81%B9%E3%82%8B%E9%81%8A%E3%81%B9%E3%82%8B%E5%9B%BD%E9%9A%9B%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%B1%95%E7%A4%BA%E4%BD%93%E9%A8%93%E4%BC%9A-2%E6%97%A5%E9%96%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9%E3%82%84%E4%BA%BA%E3%81%AE%E8%BE%9E%E3%82%81%E3%81%AA%E3%81%84%E4%BC%81%E6%A5%AD%E3%81%AE/28327602976881401/",
+    "https://www.facebook.com/jetro.openforprofessionals/posts/-%E9%96%8B%E5%82%AC%E3%81%BE%E3%81%A7%E3%81%82%E3%81%A81%E6%97%A5-%E3%82%B8%E3%82%A7%E3%83%88%E3%83%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E5%90%88%E5%90%8C%E4%BC%81%E6%A5%AD%E8%AA%AC%E6%98%8E%E4%BC%9A2026-fall-1013%E3%81%8B%E3%82%894%E6%97%A5%E9%96%93154%E7%A4%BE%E3%81%8C%E5%8F%82%E5%8A%A0%E3%81%99%E3%82%8B%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E5%90%88%E5%90%8C%E4%BC%81%E6%A5%AD%E8%AA%AC%E6%98%8E%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99-%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1/1116722890750233/"
+   ]
+  },
+  {
+   "query": "電気・ガス・熱供給・水道業 note 社長",
+   "results": [
+    "https://note.com/jin_kiyama/n/n036f6caca0c0",
+    "https://note.com/tag/%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E6%A5%AD",
+    "https://www.soumu.go.jp/main_content/000290725.pdf",
+    "https://note.tokyogas-es.co.jp/n/n7ed98e99e26c",
+    "https://note.com/looop_pr/n/n09ee587b04e9",
+    "https://web.gogo.jp/osusume-0048/pages/",
+    "https://note.nam.co.jp/n/nfee3f086bdcd",
+    "https://note.com/fukuda_jimusho/n/n7e34f983d543",
+    "https://clip-corporation.com/column/electricityindustry/",
+    "https://shachomeikan.jp/corporations/25804"
+   ]
+  },
+  {
+   "query": "電気・ガス・熱供給・水道業 X 投稿",
+   "results": [
+    "https://web.gogo.jp/osusume-0048/pages/",
+    "https://www.youtube.com/watch?v=5QvN0XY9Ldw",
+    "https://x.com/tokyogas",
+    "https://find-model.jp/insta-lab/twitter-account-energy-company/",
+    "https://www.enecho.meti.go.jp/category/electricity_and_gas/other/effective_use/",
+    "https://www.tokyo-gas.co.jp/socialmedia/policy/index.html",
+    "https://denkigas-gekihenkanwa.go.jp/",
+    "https://www.re-ep.jp/2e43902/ShowTermsOfUse?param=2&param2=GasRegisterUseElectricity",
+    "https://www.kokusen.go.jp/news/data/n-20260210_1.html",
+    "https://sankakunet.jp/topics/industrialclassification-f/"
+   ]
+  },
+  {
+   "query": "utilities Japan census site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/oxford-economics_japans-latest-census-highlights-the-scale-activity-7473691108376666114-pkAY",
+    "https://www.linkedin.com/posts/gvrkiran_do-data-centers-raise-residential-electricity-activity-7441083737347543040-bWXM",
+    "https://www.linkedin.com/posts/interestingengineering_japan-demographics-urbanplanning-activity-7462321197100408832-vXZu",
+    "https://www.linkedin.com/company/japan-patent-office/",
+    "https://www.linkedin.com/pulse/smart-utility-billing-using-location-intelligence-linking-bhoda-qfvgc",
+    "https://www.linkedin.com/in/steveyu7",
+    "https://www.linkedin.com/company/clarksville-connected-utilities",
+    "https://www.linkedin.com/in/steve-rickert",
+    "https://www.linkedin.com/in/paul-s-mcdonald",
+    "https://www.linkedin.com/in/bradleyjjohnson"
+   ]
+  }
+ ],
+ "missing": {}
+}

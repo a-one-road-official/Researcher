@@ -1,0 +1,1891 @@
+{
+ "name": "生活関連サービス業・娯楽業",
+ "en": "living-related services amusement Japan census",
+ "aliases": [
+  "生活関連サービス業",
+  "娯楽業",
+  "大分類N"
+ ],
+ "context": "大分類N",
+ "kind": "market",
+ "researched_at": "2026-11-05T11:49:55.138995+00:00",
+ "evidence": {
+  "企業数・事業所数": [
+   {
+    "quote": "統計局ホームページ/令和3年経済センサス‐活動調査 産業分類一覧",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査 調査の結果",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査 産業分類一覧",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス-活動調査において、以下に掲げる事業所は調査対象外です",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 速報集計 企業等に関する集計3 企業産業(大分類)、単一・複数(2区分)別企業等数、売上（収入）金額及び１企業当たり売上（収入）金額－全国、都道府県 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 速報集計 企業等に関する集計",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "４．結果数値は、平成16年事業所・企業統計調査結果による都道府県、産業小分類、経営組織別事業所数をベンチマークとする比推定 により推",
+    "url": "https://www.city.sapporo.jp/toukei/tokeisyo/documents/00-08_r2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８－２～８－４表は、経済センサス－活動調査（基幹統計調査）の産業別集計（サービス業）の結果である",
+    "url": "https://www.city.sapporo.jp/toukei/tokeisyo/documents/00-08_r2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜資料＞ 総務省・経済産業省「平成28年経済センサス－活動調査（サービス関連産業Ｂ）」",
+    "url": "https://www.city.sapporo.jp/toukei/tokeisyo/documents/00-08_r2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 1-1-1 サービス関連産業Ｂ(細分類)別民営事業所数，従業者数，売上(収入)金額―全国 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&stat_infid=000023619087&statdisp_id=0003094889",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 平成24年経済センサス‐活動調査 / 事業所に関する集計 産業別集計 サービス関連産業Bに関する集計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&stat_infid=000023619087&statdisp_id=0003094889",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&stat_infid=000023619087&statdisp_id=0003094889",
+    "pass": 3
+   },
+   {
+    "quote": "平成24年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&stat_infid=000023619087&statdisp_id=0003094889",
+    "pass": 3
+   },
+   {
+    "quote": "総務省の経済センサスによると、理容・美容・クリーニングや旅行業、娯楽業を含む生活関連サービス業，娯楽業の従業者数は2012年の254万人から2021年は217万人に減りました",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年時点の全国の事業所数は",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数をこの事業所数で割ると、1事業所あたり平均",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサスは数年おきに実施される調査で、次の本格的な活動調査は2026年です",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス、2021年時点",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "全国の事業所数38万8,976のうち、東京都の4万3,775事業所は",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査 速報集計",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３年６月に実施した「経済センサス‐活動調査」の速報集計結果を公表",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の企業等の数は367万４千企業、民営事業所数は507万９千事業所、",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表２ 産業大分類別民営事業所数及び従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．民営事業所数の状況（産業大分類別）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○民営事業所数をみると、「卸売業，小売業」が120万１千事業所（全産業の23.6％）と最も",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図４ 産業大分類別民営事業所数の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「民営事業所数の構成比」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～ 令和３年経済センサス ‐活動調査の結果から ～",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総務省は、令和３年６月１日に実施した令和３年経済センサス‐活動調査（以下「令",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 企業等数・事業所数・従業者数",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年６月１日現在の企業等の数は 368 万企業、民営事業所数（「以下「事業所",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、国・地方公共団体を含めると、事業所数は 529 万事業所、従業者数は 6243",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数をみると、 「卸売業，小売業」が 123 万事業所（全産業の23.8%）と最も",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：総務省・経済産業省「令和３年経済センサス‐ 活動調査」の調査票情報を独自集計したもの",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次回の活動調査は、令和８年の実施を予定しています",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "いで、全産業に占める第3次産業の事業所数や従業者数、都内総生産額に基づき、近年の動向を分析する",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "1 事業所数の変化",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 都内事業所数の推移：事業所数の全国比は高まり、平成21年には12.0%",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 事業所数の業種別構成比：サービス業は20.0％を占める",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 情報通信業の全国比：事業所数の36.0％、従業者数の47.7％を東京が占める",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（2） 情報通信業における事業所数及び従業者数： 「映像情報制作・配給業」 、 「出版業」の全国比が高い",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（1） サービス業の全国比：事業所数の12.4％、従業者数の19.1％を東京が占める",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（2） サービス業における事業所数及び従業者数： 「広告業」の都内構成比は低いが、全国比は高い",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 都内事業所数の推移 ～事業所数の全国比は高まり、平成21年には12.0％～",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "都内の事業所数（民営、以下同様）は、平成16年までは減少傾向にあったが、平成18年以降は一転して上昇し",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 4,587 黒字かつ自己資本プラス企業数 2,134",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 1,881 黒字かつ自己資本プラス企業数 949",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 13 黒字かつ自己資本プラス企業数 7",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 10 黒字かつ自己資本プラス企業数 7",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 8 黒字かつ自己資本プラス企業数 5",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 105 黒字かつ自己資本プラス企業数 68",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 103 黒字かつ自己資本プラス企業数 67",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 48 黒字かつ自己資本プラス企業数 25",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 421 黒字かつ自己資本プラス企業数 205",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 228 黒字かつ自己資本プラス企業数 107",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 33 黒字かつ自己資本プラス企業数 16",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数 146 黒字かつ自己資本プラス企業数 76",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   }
+  ],
+  "従業者数": [
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "(ア) 存続サービス業事業所（平成13年及び16年の両回の事業所・企業統計調査で調査された事業所）のうち、従業者数30人以 上の事業所に",
+    "url": "https://www.city.sapporo.jp/toukei/tokeisyo/documents/00-08_r2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、従業者数30人未満の事業所については、都道府県、産業小分類別に定めた抽出率に基 づき選",
+    "url": "https://www.city.sapporo.jp/toukei/tokeisyo/documents/00-08_r2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "区から６分の１の抽出率で選定された調査区）に所在する、従業者数30人以上の事業所をすべて調査対象とした",
+    "url": "https://www.city.sapporo.jp/toukei/tokeisyo/documents/00-08_r2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金額階級・専業率、産業（小分類）別事業所数、従業者数及び売上（収入）金額",
+    "url": "https://www.city.sapporo.jp/toukei/tokeisyo/documents/00-08_r2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年間売上（収入）金額階級・専業率、産業（小分類）別事業所数、従業者数",
+    "url": "https://www.city.sapporo.jp/toukei/tokeisyo/documents/00-08_r2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金額階級・専業率、産業（小分類）別事業所数、従業者数及び売上（収入）金額及",
+    "url": "https://www.city.sapporo.jp/toukei/tokeisyo/documents/00-08_r2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 1-1-1 サービス関連産業Ｂ(細分類)別民営事業所数，従業者数，売上(収入)金額―全国 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&stat_infid=000023619087&statdisp_id=0003094889",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&stat_infid=000023619087&statdisp_id=0003094889",
+    "pass": 3
+   },
+   {
+    "quote": "サービス関連産業Ｂ(細分類)別民営事業所数，従業者数，売上(収入)金額―全国",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&stat_infid=000023619087&statdisp_id=0003094889",
+    "pass": 3
+   },
+   {
+    "quote": "総務省の経済センサスによると、理容・美容・クリーニングや旅行業、娯楽業を含む生活関連サービス業，娯楽業の従業者数は2012年の254万人から2021年は217万人に減りました",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "検索語「従業者数」は国会答弁からも複数の数字を集めましたが、実際に語られていたのは鉄道分野の人材不足や防衛装備品の秘密取扱者数、中小企業全体の話でした",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "生活関連サービス業，娯楽業の従業者数（全国）",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数は2012年の254万5,797人から、2014年",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数をこの事業所数で割ると、1事業所あたり平均",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "それでも従業者数全体が減っているのは、開業と同時に廃業も進み、かつ小規模な事業所への入れ替わりが起きているためと考えられます",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "新規開業と廃業・法人成りが同時に進むと、業種全体の事業所数はあまり変わらなくても、従業者数だけが目減りすることがあります",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の従業者数（2021年、上位・下位）",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ「生活関連サービス業」でも、美容業と理容業では従業者数の動きが逆方向を向いています",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別に見ると、2021年時点で最も従業者数が多いのは",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で東京都の従業者数31万8,875人は全国217万6,139人の",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "%にあたり、事業所数の割合より従業者数の割合の方が大きくなっています",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "表２ 産業大分類別民営事業所数及び従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」及び「従業者数」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６．従業者数の状況（産業大分類別）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○従業者数をみると、「卸売業，小売業」が1147万７千人（全産業の20.0％）と最も多く、次",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図５ 産業大分類別従業者数の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「従業者数の構成比」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.常時50人（卸売業又はサービス業は100人）以下の従業員数",
+    "url": "https://www.smrj.go.jp/org/policy/sme_definition/",
+    "pass": 3
+   },
+   {
+    "quote": "2.常時50人以下の従業員数",
+    "url": "https://www.smrj.go.jp/org/policy/sme_definition/",
+    "pass": 3
+   },
+   {
+    "quote": "2.常時50人（酒類卸売業者は100人）以下の従業員数",
+    "url": "https://www.smrj.go.jp/org/policy/sme_definition/",
+    "pass": 3
+   },
+   {
+    "quote": "2.常時300人以下の従業員数",
+    "url": "https://www.smrj.go.jp/org/policy/sme_definition/",
+    "pass": 3
+   },
+   {
+    "quote": "２ 企業等数・事業所数・従業者数",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）は 516 万事業所、従業者数は 5795 万人となっています",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、国・地方公共団体を含めると、事業所数は 529 万事業所、従業者数は 6243",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数をみると、「卸売業，小売業」が 1161 万人（全産業の 20.0%）と最も多",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別企業等数、事業所数、従業者数",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "いで、全産業に占める第3次産業の事業所数や従業者数、都内総生産額に基づき、近年の動向を分析する",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "2 従業者数の変化",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 従業者数の推移：従業者数の全国比は高まり、平成18年には15.2%",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（2） 産業別構成比の推移：第3次産業の従業者数構成比は高まり、平成18年には83.6%",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（2） 従業者数の業種別構成比：サービス業は19.5％を占める",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 情報通信業の全国比：事業所数の36.0％、従業者数の47.7％を東京が占める",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（2） 情報通信業における事業所数及び従業者数： 「映像情報制作・配給業」 、 「出版業」の全国比が高い",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（1） サービス業の全国比：事業所数の12.4％、従業者数の19.1％を東京が占める",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（2） サービス業における事業所数及び従業者数： 「広告業」の都内構成比は低いが、全国比は高い",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "本節では、東京の中小企業をとりまく背景として事業所数、従業者数、都内総生産の実数及び構成比等を用い",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "時系列で見ると、事業所数、従業者数につ",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 従業者数の推移 ～従業者数の全国比は高まり、平成18年度には15.2％～",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅲ 事業所数及び従業者数の状況 .............................................. 22",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．産業大分類別事業所数及び従業者数 ...................................... 22",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．従業上の地位別従業者数 ................................................ 25",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．従業者規模別事業所数及び従業者数 ...................................... 28",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．他からの出向・派遣従業者の有無別事業所数及び他からの出向・派遣従業者数 32",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）は515万6063事業所、従業者数は5795万人となっている",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、国、地方公共団体を含む事業所数は528万8891事業所、従業者数は6242万８千人とな",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅰ－２ 産業大分類別企業等数、事業所数及び従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「事業所数」、「従業者数」及び「１事業所当たり従業者数」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   }
+  ],
+  "売上（収入）金額・付加価値額": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 速報集計 企業等に関する集計3 企業産業(大分類)、単一・複数(2区分)別企業等数、売上（収入）金額及び１企業当たり売上（収入）金額－全国、都道府県 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業(大分類)、単一・複数(2区分)別企業等数、売上（収入）金額及び１企業当たり売上（収入）金額－全国、都道府県",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "１企業当たり売上（収入）金額",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "pass": 3
+   },
+   {
+    "quote": "1億円～1 0億円未満",
+    "url": "https://www.city.sapporo.jp/toukei/tokeisyo/documents/00-08_r2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 0億円以上",
+    "url": "https://www.city.sapporo.jp/toukei/tokeisyo/documents/00-08_r2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1億円～5億円未満",
+    "url": "https://www.city.sapporo.jp/toukei/tokeisyo/documents/00-08_r2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5億円～1 0億円未満",
+    "url": "https://www.city.sapporo.jp/toukei/tokeisyo/documents/00-08_r2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 0億円～1 0 0億円未満",
+    "url": "https://www.city.sapporo.jp/toukei/tokeisyo/documents/00-08_r2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 0 0億円以上",
+    "url": "https://www.city.sapporo.jp/toukei/tokeisyo/documents/00-08_r2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円まで下がり、市場規模も2000年の5,008億円から2015年は3,089億円へと、15年で約4割縮小しました",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "個人企業のサービス業売上高、119万円のまま更新停止",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "○2020年の我が国の売上（収入）金額は1702兆201億円、純付加価値額は337兆1437億円",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表１ 産業大分類別企業等数、売上高及び純付加価値額",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２：「売上高」及び「純付加価値額」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注３：本調査における純付加価値額は、以下の計算式を用いている",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．売上高の状況（産業大分類別）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○売上高をみると、「卸売業，小売業」が481兆4654億円（全産業の28.3％）と最も多く、次",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "いで「製造業」が390兆9934億円（同23.0％）、「医療，福祉」が173兆1927億円（同10.2％）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図２ 産業大分類別売上高の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「売上高の構成比」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金の額又は出資の総額が3億円以下の会社又は",
+    "url": "https://www.chusho.meti.go.jp/soshiki/teigi.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金の額又は出資の総額が1億円以下の会社又は",
+    "url": "https://www.chusho.meti.go.jp/soshiki/teigi.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人税法における中小企業軽減税率の適用範囲は、資本1億円以下の企業が対象です",
+    "url": "https://www.chusho.meti.go.jp/soshiki/teigi.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業関連立法においては、政令によりゴム製品製造業（一部を除く）は、資本金3億円以下または従業員900人以下、旅館業は、資本金5千万円以下または従業員200人以下、ソフトウエア業・情報処理サービス業は、資本金3億円以下または従業員300人以下を中小企業とする場合があります",
+    "url": "https://www.chusho.meti.go.jp/soshiki/teigi.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.資本金の額又は出資の総額3億円以下の会社",
+    "url": "https://www.smrj.go.jp/org/policy/sme_definition/",
+    "pass": 3
+   },
+   {
+    "quote": "1.資本金の額又は出資の総額1億円以下の会社",
+    "url": "https://www.smrj.go.jp/org/policy/sme_definition/",
+    "pass": 3
+   },
+   {
+    "quote": "1.直接又は間接の構成員の2／3以上が、資本金の額若しくは出資の総額5千万円（卸売業は1億円）以下の法人",
+    "url": "https://www.smrj.go.jp/org/policy/sme_definition/",
+    "pass": 3
+   },
+   {
+    "quote": "1.直接又は間接の構成員たる酒類製造業者の2／3以上が、資本金の額若しくは出資の総額3億円以下の法人",
+    "url": "https://www.smrj.go.jp/org/policy/sme_definition/",
+    "pass": 3
+   },
+   {
+    "quote": "1.直接又は間接の構成員たる酒類販売業者の2／3以上が、資本金の額若しくは出資の総額5千万円（酒類卸売業者は1億円）以下の法人",
+    "url": "https://www.smrj.go.jp/org/policy/sme_definition/",
+    "pass": 3
+   },
+   {
+    "quote": "1.直接又は間接の構成員たる内航海運業者の2／3以上が、資本金の額若しくは出資の総額3億円以下の法人",
+    "url": "https://www.smrj.go.jp/org/policy/sme_definition/",
+    "pass": 3
+   },
+   {
+    "quote": "１ 売上高・純付加価値額",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "我が国の企業等の令和２年の売上高は 1693 兆円、純付加価値額は 336 兆円となっ",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、 会社企業について資本金階級別にみると、 「資本金１億円以上」 の売上高",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が 900 兆円（資本金階級別の合計に占める割合は 63.6%）、純付加価値額が 133 兆",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 令和３年調査の売上高等の経理事項は令和２年の１年間を把握",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高を産業大分類別にみると、「卸売業，小売業」が 480 兆円と最も多く、次い",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で「製造業」が387 兆円、「医療，福祉」が173 兆円などとなっており、上位３産業",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純付加価値額を産業大分類別にみると、 「医療，福祉」が71 兆円で最も多く、次い",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅰ-1-3は付加価値額に占める各産業のシェアを示している",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "図Ⅰ-1-3 付加価値額に占める各産業の割合",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "その後、平成15年度以降は増加を続け、平成19年度の国内総生産額は515兆6,510億円に達している",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "し、世界的な経済状況悪化の影響を受け、平成20年度には494兆1,987億円にまで落ち込んでいる",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "その後、平成15年度以降は増加を続け、平成19年度の都内総生産額は93兆9,540億円に達している",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "国内総生産額の推移と同様に、平成20年度に一転して落ち込み、平成20年度は89兆7,149億円となっている",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "5 企業支援サービスにおける売上高増加率の変化： 「インターネット業」は増加率の変動が大きい",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "6 企業支援サービスにおける売上高経常利益率の変化： 「出版業」は3年連続で3％以上",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（2） 純売上高に対する人件費の割合：人件費比率の高さは業種により異なる",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "5 企業支援サービスにおける売上高増加率の変化",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "売上高総利益率 (％) 74.8 75.7 84.3 75.4 74.1 26.2",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高営業利益率 (％) -2.4 7.1 0.6 -1.9 -2.9 20.2",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高経常利益率 (％) -0.8 7.7 1.1 -0.4 -1.3 20.3",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高経常利益率(償却前) (％) 2.3 10.6 3.6 2.8 1.8 21.0",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人件費対売上高比率 (％) 39.5 35.0 37.7 40.1 39.0 22.9",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "諸経費対売上高比率 (％) 32.5 29.9 29.7 32.9 32.1 16.9",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金融費用対売上高比率 (％) 0.5 0.4 0.3 0.5 0.5 0.6",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者１人当たり売上高 (千円) 14,152 16,699 10,139 14,466 13,838 12,867",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者１人当たり粗付加価値額 (千円) 4,654 5,742 4,147 4,725 4,584 2,882",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粗付加価値額対売上高比率 (％) 42.6 45.6 43.0 43.1 42.1 21.7",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粗付加価値額対有形固定資産額比率 (％) 2582.3 3,114.2 368.1 2,847.5 2,317.1 9,835.5",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人件費対粗付加価値額比率 (％) 101.3 75.2 88.8 105.0 97.6 150.6",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   }
+  ],
+  "資本金1億円以上の企業": [
+   {
+    "quote": "8－3 従業者規模・事業従事者規模・資本金階級・単独・本所・支所・年間売上（収入）",
+    "url": "https://www.city.sapporo.jp/toukei/tokeisyo/documents/00-08_r2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "8－4 従業者規模・事業従事者規模・資本金階級・単独・本所・支所・",
+    "url": "https://www.city.sapporo.jp/toukei/tokeisyo/documents/00-08_r2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "8－4 従業者規模・事業従事者規模・資本金階級・単独・本所・支所・年間売上（収入）",
+    "url": "https://www.city.sapporo.jp/toukei/tokeisyo/documents/00-08_r2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "多くの補助金・助成金にて「みなし大企業」として大企業と密接な関係を有する企業が対象から外れる場合があります",
+    "url": "https://www.chusho.meti.go.jp/soshiki/teigi.html",
+    "pass": 3
+   },
+   {
+    "quote": "（１）概況及び資本金階級別の状況",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、 会社企業について資本金階級別にみると、 「資本金１億円以上」 の売上高",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が 900 兆円（資本金階級別の合計に占める割合は 63.6%）、純付加価値額が 133 兆",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社企業について、資本金階級別に企業の数をみると、 「資本金1000 万円未満」が",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "104 万企業（資本金階級別の合計に占める割合は59.3%）と最も多く、階級区分が最",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）売上高に占める追加法人の割合（資本金階級別）",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金階級別に、当該階級の 売上高の合計に占める追加法人の売上高の割合をみる",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高く、資本金階級の区分が上がるごとにその割合は低下し、 資本金階級区分が最も高い",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）資本金階級別の状況（会社企業に関する集計）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社企業について、資本金階級別に企業数をみると、「資本金1000万円未満」が103万",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6076企業（資本金階級別の合計に占める割合は59.3％） と最も多く、次いで 「資本金1000",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－３ 資本金階級別会社企業数、売上高及び純付加価値額",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図Ⅱ－２ 資本金階級別会社企業数、売上高及び純付加価値額の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（４）資本金階級別設備投資額の状況（会社企業に関する集計）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社企業について、資本金階級別に設備投資額をみると、「資本金１億円以上」が38兆4951",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億円（資本金階級別の合計に占める割合は76.2％）と最も多く、次いで「資本金3000万円",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－14 資本金階級別会社企業数及び設備投資額",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図Ⅱ－12 資本金階級別会社企業数及び設備投資額の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "2026年9月12日 09:00",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "総務省の経済センサスによると、理容・美容・クリーニングや旅行業、娯楽業を含む生活関連サービス業，娯楽業の従業者数は2012年の254万人から2021年は217万人に減りました",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "9年で14.5%の減少です",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "人から2021年には",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "2012年から2021年にかけて一貫して減少しています",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "人、2016年",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "人と減り続け、直近の2021年調査では217万6,139人でした",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "9年間で36万9,658人、率にして14.5%の減少です",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年時点の全国の事業所数は",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサスは数年おきに実施される調査で、次の本格的な活動調査は2026年です",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "現時点で公表されている最新値は2021年",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "事業を新たに営む人（開業者）の全国の総数自体も減少傾向です",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の企業等の数は367万４千企業、民営事業所数は507万９千事業所、",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 都内事業所数の推移：事業所数の全国比は高まり、平成21年には12.0%",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（2） 産業別構成比の推移：第3次産業の事業所構成比は高まり、平成18年には84.3%",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 従業者数の推移：従業者数の全国比は高まり、平成18年には15.2%",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（2） 産業別構成比の推移：第3次産業の従業者数構成比は高まり、平成18年には83.6%",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 国内総生産額の推移：平成15年度以降増加していたが、平成20年度に落ち込む",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（2） 都内総生産額と国内総生産額比の推移： 国内総生産額比は平成18年度以降減少し、平成20年度は",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 経済活動別構成比の推移：サービス業の構成比は30.8％",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（2） 対前年度増加率の推移：サービス業は変化が少なく、平成22年度予測は0.5%",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "て、産業の東京への集積、サービス産業への集積の推移を見ていく",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 都内事業所数の推移 ～事業所数の全国比は高まり、平成21年には12.0％～",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "都内の事業所数（民営、以下同様）は、平成16年までは減少傾向にあったが、平成18年以降は一転して上昇し",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "全国の事業所数の推移もほぼ同様の傾向を示すが、事業所数の",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "pass": 3
+   },
+   {
+    "quote": "媒体別の広告費の推移（広告会社の売上高、テレビ・新聞・雑誌・ラジオ・インターネット）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "広告会社の売上高のうちインターネット広告の推移",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年：6,497億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年：13,722億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年：15,440億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年：13,699億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "数値および引用は、2026年10月2日時点で確認できた内容です",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "甲調査及び乙調査とも2021年６月１日を調査日として実施している",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の企業等（※２）の数は368万4049企業、民営事業所数（以下「事業所数」",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年） 【参考】2016年（平成28年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【参考】2016年（平成28年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（ 令和３年） 【参考】 2016年（平成28年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注３：調査事項の変更に伴い、雇用者の内訳が異なるため、2016年の数値は表章していない（利用上の注意",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【参考】2016年",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 2016年以降に開設された事業所の数は、62万2850事業所となっている",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別に2016年以降に開設された事業所の数をみると、「卸売業，小売業」が",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 産業大分類別に、産業ご との事業所数に占める2016年以降に開設された事業所数の",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年（平成27年）以前 2016年（平成28年）以降",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月1日 19:06",
+    "url": "https://note.com/solera_kyoto/n/n52e10a218eaf",
+    "pass": 3
+   },
+   {
+    "quote": "事実、多くのフィットネスクラブが退会者の増加に苦しんでいます",
+    "url": "https://note.com/solera_kyoto/n/n52e10a218eaf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年秋、日本の四産地の職人技を集めたジャケットブランド「THE URAh」を立ち上げ、世界へ挑戦中",
+    "url": "https://note.com/solera_kyoto/n/n52e10a218eaf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年「宿泊業, 飲食サービス業」、「生活関連サービス業, 娯楽業」で売上高が前年同月比で大幅に減少",
+    "url": "https://note.com/chushohakusho/n/n6d7a31ac9f82",
+    "pass": 3
+   },
+   {
+    "quote": "「情報通信業」の売上高、2020年2月以降は前年同月より減少して推移、10月からは前年同月とほと｜中小企業白書から学ぶ",
+    "url": "https://note.com/chushohakusho/n/n6d7a31ac9f82",
+    "pass": 3
+   },
+   {
+    "quote": "「情報通信業」の売上高、2020年2月以降は前年同月より減少して推移、10月からは前年同月とほとんど変わらない水準で推移",
+    "url": "https://note.com/chushohakusho/n/n6d7a31ac9f82",
+    "pass": 3
+   }
+  ],
+  "広告宣伝費・販管費": [
+   {
+    "quote": "純付加価値額＝売上高－（費用総額（売上原価＋販売費及び一般管理費） ）＋給与総額＋租税公課",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純付加価値額＝売上高－費用総額［売上原価＋販売費及び一般管理費］＋給与総額＋租税公課",
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人件費対売上高比率 (％) 39.5 35.0 37.7 40.1 39.0 22.9",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "諸経費対売上高比率 (％) 32.5 29.9 29.7 32.9 32.1 16.9",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金融費用対売上高比率 (％) 0.5 0.4 0.3 0.5 0.5 0.6",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粗付加価値額対売上高比率 (％) 42.6 45.6 43.0 43.1 42.1 21.7",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人件費対売上高比率 (％) 43.2 37.4 42.1 44.1 42.2 25.1",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "諸経費対売上高比率 (％) 34.4 31.1 30.6 35.0 33.7 17.9",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粗付加価値額対売上高比率 (％) 46.2 50.0 47.4 47.1 45.3 22.7",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人件費対売上高比率 (％) 48.5 56.4 53.5 57.6 39.4 18.5",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "諸経費対売上高比率 (％) 35.3 24.8 27.2 47.5 23.1 24.7",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金融費用対売上高比率 (％) 0.4 0.1 0.1 0.8 0.0 0.7",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粗付加価値額対売上高比率 (％) 50.9 63.0 62.0 62.8 38.9 24.2",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人件費対売上高比率 (％) 55.8 56.4 54.4 63.7 48.0 13.5",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費は売上・費用の何%か｜業種別の割合（最高11.6%）と上場企業の中央値",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "費用に占める広告宣伝費の割合は、クレジットカード業、割賦金融業（",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業・建設業を除く、サービス・小売・金融など74の事業区分で、法人の広告宣伝費は約9.3兆円（2024年）と推計されます（主な企業の割合を法人全体の費用に当てはめた参考値）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "電通「日本の広告費」とは数え方が違い、日本の広告費全体の話ではありません",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費は費用・売上の何パーセントか（業種別の目安）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "費用に占める広告宣伝費の割合が高い事業区分（各区分の主な企業）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "費用に占める広告宣伝費の割合が最も高いのはクレジットカード業、割賦金融業（11.6%）で、音声情報制作業（9.0%）が続きます（2024年）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費を開示している企業のみの集計で、非開示の企業は含みません",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "東証の33業種のうち、広告宣伝費を開示している会社が5社以上の業種（21業種）を中央値の高い順に並べ、上位20業種を載せています",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "業界別の広告費の割合ランキング（上場企業）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別の広告宣伝費ランキング（法人の推計）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "法人の広告宣伝費は、製造業・建設業を除く74の事業区分の合計で約9.3兆円と推計されます（2024年）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "純付加価値額＝売上高－（費用総額（売上原価＋販売費及び一般管理費））＋給与総額＋租税公課",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全産業における設備投資額売上高比率（売上高に対する設備投資額の割合）は3.5％とな",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別に設備投資額売上高比率をみると、「電気・ガス・熱供給・水道業」が10.9％",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－13 産業大分類別設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「売上高」、「設備投資額」及び「設備投資額売上高比率」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図Ⅱ－11 産業大分類別設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「設備投資額売上高比率」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類 売上高 設備投資額 設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 費用総額（売上原価＋販売費及び一般管理費）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「売上原価」、「販売費及び一般管理費」それぞれに計上された",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "生活関連サービス業 の 従業者 217万人、9年で14.5%減 | Stated.jp — 生活関連サービス業 の 従業者 217万人、9年で14.5%減 | Stated.jp stated.jp https://stated.jp > 労働と雇用",
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "なぜフィットネスは「 娯楽業 」なのか？フィットネスを「可 ... なぜフィットネスは「 娯楽業 」なのか？フィットネスを「可 ... note https://note.com > 健康・医療 > 運動・トレーニング",
+    "url": "https://note.com/solera_kyoto/n/n52e10a218eaf",
+    "pass": 3
+   },
+   {
+    "quote": "生活関連サービス業 , 娯楽業 」で売上高が前年同月比で大幅に ... 生活関連サービス業 , 娯楽業 」で売上高が前年同月比で大幅に ... note https://note.com > 中小企業白書から学ぶ",
+    "url": "https://note.com/chushohakusho/n/n6d7a31ac9f82",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "なぜフィットネスは「娯楽業」なのか？フィットネスを「可処分所得」から「必須の固定費」へ。｜村松正憲_低酸素ジム&ピラティス＆アパレルブランド経営",
+    "url": "https://note.com/solera_kyoto/n/n52e10a218eaf",
+    "pass": 3
+   },
+   {
+    "quote": "なぜフィットネスは「娯楽業」なのか？フィットネスを「可処分所得」から「必須の固定費」へ。",
+    "url": "https://note.com/solera_kyoto/n/n52e10a218eaf",
+    "pass": 3
+   },
+   {
+    "quote": "村松正憲_低酸素ジム&ピラティス＆アパレルブランド経営",
+    "url": "https://note.com/solera_kyoto/n/n52e10a218eaf",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは、株式会社オリーブの木 代表の村松 正憲です。",
+    "url": "https://note.com/solera_kyoto/n/n52e10a218eaf",
+    "pass": 3
+   },
+   {
+    "quote": "皆さんは、「フィットネスクラブ」や「スポーツジム」が、日本の総務省が定める『日本標準産業分類』において、どのジャンルに振り分けられているかご存知でしょうか？",
+    "url": "https://note.com/solera_kyoto/n/n52e10a218eaf",
+    "pass": 3
+   },
+   {
+    "quote": "医療・福祉でしょうか。それとも教育でしょうか。",
+    "url": "https://note.com/solera_kyoto/n/n52e10a218eaf",
+    "pass": 3
+   },
+   {
+    "quote": "答えは、大分類の「生活関連サービス業、娯楽業」の中にある、",
+    "url": "https://note.com/solera_kyoto/n/n52e10a218eaf",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、国が定める定義において、フィットネスは映画館やボウリング場、遊園地と同じ「レジャー・遊び」の枠組みに分類されているのです。",
+    "url": "https://note.com/solera_kyoto/n/n52e10a218eaf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年「宿泊業, 飲食サービス業」、「生活関連サービス業, 娯楽業」で売上高が前年同月比で大幅に減少。「情報通信業」の売上高、2020年2月以降は前年同月より減少して推移、10月からは前年同月とほと｜中小企業白書から学ぶ",
+    "url": "https://note.com/chushohakusho/n/n6d7a31ac9f82",
+    "pass": 3
+   },
+   {
+    "quote": "2020年「宿泊業, 飲食サービス業」、「生活関連サービス業, 娯楽業」で売上高が前年同月比で大幅に減少。「情報通信業」の売上高、2020年2月以降は前年同月より減少して推移、10月からは前年同月とほとんど変わらない水準で推移。",
+    "url": "https://note.com/chushohakusho/n/n6d7a31ac9f82",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "サービス産業 売上高4.5％増 娯楽業 は0.7％減 - X サービス産業 売上高4.5％増 娯楽業 は0.7％減 - X X https://x.com > @amusement_japan",
+    "url": "https://x.com/amusement_japan/article/2091689079465451760",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "娯楽業 ・広島の開業率は3.5%。中四国で一番高いのは3.7%の ... 娯楽業 ・広島の開業率は3.5%。中四国で一番高いのは3.7%の ... Facebook https://www.facebook.com > posts > 地域の持続的成長に...",
+    "url": "https://www.facebook.com/100009078753254/posts/%E5%9C%B0%E5%9F%9F%E3%81%AE%E6%8C%81%E7%B6%9A%E7%9A%84%E6%88%90%E9%95%B7%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E5%89%B5%E6%A5%AD%E6%94%BF%E7%AD%96%E3%81%AE%E3%81%82%E3%82%8A%E6%96%B9%E6%A4%9C%E8%A8%8E%E4%BC%9A%E3%81%AB%E6%B7%BB%E4%BB%98%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8C%E8%88%88%E5%91%B3%E6%B7%B1%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%A7%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%97%E3%81%BE%E3%81%99%E6%97%A5%E6%9C%AC%E3%81%AE%E9%96%8B%E6%A5%AD%E7%8E%87%E3%81%AF38%E5%BB%83%E6%A5%AD%E7%8E%87%E3%81%AF37%E9%96%8B%E6%A5%AD%E7%8E%87%E3%81%8C%E9%AB%98%E3%81%84%E6%A5%AD%E7%A8%AE%E3%81%AF%E5%AE%BF%E6%B3%8A%E6%A5%AD%E9%A3%B2%E9%A3%9F%E3%82%B5%E3%83%BC/4189134114732506/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.sapporo.jp/toukei/tokeisyo/documents/00-08_r2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&stat_infid=000023619087&statdisp_id=0003094889",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000290733.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sankakunet.jp/topics/industrialclassification-n/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/soshiki/teigi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smrj.go.jp/org/policy/sme_definition/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/newpage_00407.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/summary/gyosyu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keiei_sihyou/h11/07_f.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/solera_kyoto/n/n52e10a218eaf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/chushohakusho/n/n6d7a31ac9f82",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/amusement_japan/article/2091689079465451760",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100009078753254/posts/%E5%9C%B0%E5%9F%9F%E3%81%AE%E6%8C%81%E7%B6%9A%E7%9A%84%E6%88%90%E9%95%B7%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E5%89%B5%E6%A5%AD%E6%94%BF%E7%AD%96%E3%81%AE%E3%81%82%E3%82%8A%E6%96%B9%E6%A4%9C%E8%A8%8E%E4%BC%9A%E3%81%AB%E6%B7%BB%E4%BB%98%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8C%E8%88%88%E5%91%B3%E6%B7%B1%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%A7%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%97%E3%81%BE%E3%81%99%E6%97%A5%E6%9C%AC%E3%81%AE%E9%96%8B%E6%A5%AD%E7%8E%87%E3%81%AF38%E5%BB%83%E6%A5%AD%E7%8E%87%E3%81%AF37%E9%96%8B%E6%A5%AD%E7%8E%87%E3%81%8C%E9%AB%98%E3%81%84%E6%A5%AD%E7%A8%AE%E3%81%AF%E5%AE%BF%E6%B3%8A%E6%A5%AD%E9%A3%B2%E9%A3%9F%E3%82%B5%E3%83%BC/4189134114732506/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済センサス 活動調査 生活関連サービス業・娯楽業 企業数 売上（収入）金額",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "https://www.city.sapporo.jp/toukei/tokeisyo/documents/00-08_r2.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&stat_infid=000023619087&statdisp_id=0003094889",
+    "https://stats47.jp/survey/economic-census-activity",
+    "https://www.stat.go.jp/data/e-census/2026/gaiyo.html",
+    "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "https://www.e-census-st.go.jp/bunrui/"
+   ]
+  },
+  {
+   "query": "経済センサス 2021 産業大分類 生活関連サービス業・娯楽業 従業者数",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "https://stated.jp/posts/lifestyle-service-industry-workers-decline/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&stat_infid=000023619087&statdisp_id=0003094889",
+    "https://www.zenshoren.or.jp/2021census-gyosya",
+    "https://www.soumu.go.jp/main_content/000290733.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "https://sankakunet.jp/topics/industrialclassification-n/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&alpha=17&cycle=0&toukei=00200552&tstat=000001036783&tclass1=000001041926&result_page=1&tclass2val=0&statdisp_id=0003032572"
+   ]
+  },
+  {
+   "query": "法人企業統計 生活関連サービス業・娯楽業 資本金1億円以上 社数",
+   "results": [
+    "https://www.chusho.meti.go.jp/soshiki/teigi.html",
+    "https://www.smrj.go.jp/org/policy/sme_definition/",
+    "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/newpage_00407.html",
+    "https://www.mof.go.jp/pri/reference/ssc/summary/gyosyu.pdf",
+    "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1997/02.htm",
+    "https://www.city.sendai.jp/invest/josei/yougokaisetu2.html",
+    "https://revitalizejapan.com/research/research-949/",
+    "https://www.net-bizs.jp/dataguide/19007/"
+   ]
+  },
+  {
+   "query": "生活関連サービス業・娯楽業 広告宣伝費 売上高比率 業種別",
+   "results": [
+    "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/no1_4",
+    "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "https://lumierre.jp/research/market/ad-spend/",
+    "https://www.chusho.meti.go.jp/koukai/chousa/keiei_sihyou/h11/07_f.html",
+    "https://keiei.freee.co.jp/articles/p0100160",
+    "https://www.dentsu.co.jp/knowledge/ad_cost/2024/business.html",
+    "https://www.tsr-net.co.jp/data/detail/1200876_1527.html",
+    "https://www.niccon.co.jp/koramu/%E9%99%90%E3%82%89%E3%82%8C%E3%81%9F%E4%BA%88%E7%AE%97%E3%81%A7%E3%81%AE%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%B4%BB%E5%8B%95/",
+    "https://prtimes.jp/main/html/rd/p/000000008.000186784.html"
+   ]
+  },
+  {
+   "query": "e-Stat 経済センサス 生活関連サービス業・娯楽業 付加価値額",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&stat_infid=000023619087&statdisp_id=0003094889",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001095895&tclass1=000001106256&tclass2=000001107036&tclass3=000001114545&second2=1&stat_infid=000031722034",
+    "https://www.e-stat.go.jp/classifications/terms/80/03/80G",
+    "https://www.e-stat.go.jp/classifications/terms/80/03/N",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=0&layout=dataset&statdisp_id=0003215421"
+   ]
+  },
+  {
+   "query": "site:note.com 生活関連サービス業・娯楽業",
+   "results": [
+    "https://note.com/solera_kyoto/n/n52e10a218eaf",
+    "https://note.com/vc_archet/n/n7ff93b5b382e",
+    "https://note.com/yamasei015/n/n93d18317681a",
+    "https://note.com/chushohakusho/n/n6d7a31ac9f82",
+    "https://note.com/chushohakusho/n/n4ad12293fc09",
+    "https://note.com/chushohakusho/n/n0dca87572c20",
+    "https://note.com/ogawa_tech/n/n40b30ad43d16",
+    "https://note.com/yamanaka_kan/n/n8f7640ce068e",
+    "https://note.com/vingo_tko/n/n437507ad209c",
+    "https://note.com/vast_cosmos500/n/nb0b36c658671"
+   ]
+  },
+  {
+   "query": "site:x.com 生活関連サービス業・娯楽業",
+   "results": [
+    "https://x.com/Ryuta_Arihara/status/1705158763945365780",
+    "https://x.com/amusement_japan/article/2091689079465451760",
+    "https://x.com/amc_corporation/status/2116677023750066675",
+    "https://x.com/hw_adachi/status/2116069086220443769",
+    "https://x.com/momuri0201/status/1975761902350500183",
+    "https://x.com/hyaku_oyaji/status/1257406359085002756",
+    "https://x.com/wakamono_koyou",
+    "https://x.com/_kan__yamamoto_/status/1973010443569692864",
+    "https://x.com/sen_u/status/2110615391571677492",
+    "https://x.com/iwataiki/status/2052347626578935829"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 生活関連サービス業・娯楽業",
+   "results": [
+    "https://jp.linkedin.com/in/%E8%93%AE-%E5%B0%8F%E5%B7%9D-a0b217357",
+    "https://jp.linkedin.com/in/%E5%8D%93%E4%B9%9F-%E9%AB%99%E5%B3%B6-918a931b7",
+    "https://et.linkedin.com/in/eriko-miyazaki-5a9bb481",
+    "https://www.linkedin.com/in/yumiko-nakahara-20534885",
+    "https://jp.linkedin.com/in/takemasa-sekine-63778776",
+    "https://jp.linkedin.com/in/kohei-sato-341949ab",
+    "https://jp.linkedin.com/in/%E6%96%BD%E9%96%80-%E4%B8%8A%E5%8E%9F-0b7403b7",
+    "https://www.linkedin.com/in/taniguchi-minami-273b616a",
+    "https://jp.linkedin.com/in/masashi-matsumoto-b1899986",
+    "https://jp.linkedin.com/in/%E9%83%81%E5%93%89-%E5%89%8D%E5%B6%8B-35289a331"
+   ]
+  },
+  {
+   "query": "site:facebook.com 生活関連サービス業・娯楽業",
+   "results": [
+    "https://www.facebook.com/ABC.PR.GO/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%EF%BD%81%EF%BD%82%EF%BD%83%E3%81%AF2024%E5%B9%B46%E6%9C%881%E6%97%A5%E4%BB%98%E3%81%91%E3%81%A7%E7%B5%8C%E6%B8%88%E7%94%A3%E6%A5%AD%E7%9C%81%E3%81%8C%E5%AE%9A%E3%82%81%E3%82%8B%EF%BD%84x%E8%AA%8D%E5%AE%9A%E5%88%B6%E5%BA%A6%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8Ddx%E8%AA%8D%E5%AE%9A%E4%BA%8B%E6%A5%AD%E8%80%85%E3%81%A8%E3%81%97%E3%81%A6%E8%AA%8D%E5%AE%9A%E3%82%92%E5%8F%96%E5%BE%97%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%85%A8%E5%9B%BD%E3%81%AE%E7%94%9F%E6%B4%BB%E9%96%A2%E9%80%A3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%A5%AD%E5%A8%AF%E6%A5%BD%E6%A5%AD%E3%81%A7%E3%81%AF9%E7%A4%BE%E7%9B%AE/978588560538506/",
+    "https://www.facebook.com/100009078753254/posts/%E5%9C%B0%E5%9F%9F%E3%81%AE%E6%8C%81%E7%B6%9A%E7%9A%84%E6%88%90%E9%95%B7%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E5%89%B5%E6%A5%AD%E6%94%BF%E7%AD%96%E3%81%AE%E3%81%82%E3%82%8A%E6%96%B9%E6%A4%9C%E8%A8%8E%E4%BC%9A%E3%81%AB%E6%B7%BB%E4%BB%98%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8C%E8%88%88%E5%91%B3%E6%B7%B1%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%A7%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%97%E3%81%BE%E3%81%99%E6%97%A5%E6%9C%AC%E3%81%AE%E9%96%8B%E6%A5%AD%E7%8E%87%E3%81%AF38%E5%BB%83%E6%A5%AD%E7%8E%87%E3%81%AF37%E9%96%8B%E6%A5%AD%E7%8E%87%E3%81%8C%E9%AB%98%E3%81%84%E6%A5%AD%E7%A8%AE%E3%81%AF%E5%AE%BF%E6%B3%8A%E6%A5%AD%E9%A3%B2%E9%A3%9F%E3%82%B5%E3%83%BC/4189134114732506/",
+    "https://www.facebook.com/kasama.city/posts/%E7%9C%8C%E5%86%85%E5%88%9D-%E6%96%B0%E7%B4%99%E5%B9%A3%E5%AF%BE%E5%BF%9C%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AE%E7%94%B3%E8%AB%8B%E3%81%AF%E3%81%8A%E6%97%A9%E3%82%81%E3%81%AB%E5%B8%82%E5%86%85%E3%81%A7%E7%8F%BE%E5%9C%A8%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E7%8F%BE%E9%87%91%E5%8F%8E%E5%8F%97%E6%A9%9F%E9%87%A3%E9%8A%AD%E6%A9%9F%E5%88%B8%E5%A3%B2%E6%A9%9F%E3%81%A7%E7%84%A1%E4%BA%BA%E3%81%A7%E9%87%91%E9%8A%AD%E3%82%92%E5%8F%8E%E5%8F%97%E3%81%99%E3%82%8B%E6%A9%9F%E5%99%A8%E3%82%92%E6%96%B0%E7%B4%99%E5%B9%A3%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E6%94%B9%E4%BF%AE%E6%9B%B4%E6%96%B0%E3%81%AB%E8%A6%81%E3%81%97%E3%81%9F%E8%B2%BB/917677243733496/",
+    "https://www.facebook.com/tsunaguhatarakikata/",
+    "https://www.facebook.com/sharoushi.river/posts/8%E6%9C%88%E3%81%AE%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87%E3%81%AF118%E5%80%8D%E3%81%A7%E6%A8%AA%E3%81%B0%E3%81%84%E6%96%B0%E8%A6%8F%E6%B1%82%E4%BA%BA%E3%81%AF%E5%AE%BF%E6%B3%8A%E9%A3%B2%E9%A3%9F%E5%B0%8F%E5%A3%B2%E3%81%A7%E6%B8%9B%E5%B0%91-%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81%E3%81%AF%E4%BB%A4%E5%92%8C8%E5%B9%B410%E6%9C%882%E6%97%A5%E4%B8%80%E8%88%AC%E8%81%B7%E6%A5%AD%E7%B4%B9%E4%BB%8B%E7%8A%B6%E6%B3%81%E4%BB%A4%E5%92%8C8%E5%B9%B48%E6%9C%88%E5%88%86%E3%82%92%E5%85%AC%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F8%E6%9C%88%E3%81%AE%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87%E5%AD%A3/1555747776592047/",
+    "https://www.facebook.com/tsunaguhatarakikata/posts/%E3%83%84%E3%83%8A%E3%82%B1%E3%83%B3info%E6%9C%AC%E6%97%A5%E7%99%BA%E8%A1%A89%E6%9C%88%E5%BA%A6%E3%81%AE%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87%E3%81%AF119%E5%80%8D%E5%89%8D%E6%9C%88%E3%81%8B%E3%82%89001%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E4%B8%8A%E6%98%87-%E3%83%91%E3%83%BC%E3%83%88%E3%82%BF%E3%82%A4%E3%83%A0%E3%81%AE%E3%81%BF%E3%81%AE%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87%E5%AD%A3%E7%AF%80%E8%AA%BF%E6%95%B4%E5%80%A4%E3%81%AF109%E5%80%8D%E3%81%A8%E3%81%AA%E3%82%8A%E5%85%A8%E4%BD%93%E3%81%A8%E5%90%8C%E6%A7%98%E3%81%AB%E5%89%8D%E6%9C%88%E3%81%8B%E3%82%890/1549841397162463/",
+    "https://www.facebook.com/esantech/?locale=ja_JP",
+    "https://www.facebook.com/pref.kagoshima/posts/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%A5%AD%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD%E8%B2%BB%E8%A3%9C%E5%8A%A9%E9%87%91%E4%B8%80%E6%AC%A1%E5%8B%9F%E9%9B%86%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85-%E7%9C%8C%E3%81%A7%E3%81%AF%E7%9C%8C%E5%86%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BA%8B%E6%A5%AD%E8%80%85%E3%81%8C%E7%89%A9%E4%BE%A1%E9%AB%98%E9%A8%B0%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E7%AD%89%E3%81%AE%E5%8E%B3%E3%81%97%E3%81%84%E7%B5%8C%E5%96%B6%E7%92%B0%E5%A2%83%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%8C%96%E7%9C%81%E5%8A%9B%E5%8C%96%E7%AD%89%E3%81%AB%E3%82%88%E3%82%8B%E7%94%9F%E7%94%A3%E6%80%A7/1394580329371592/",
+    "https://www.facebook.com/keizaikaiseki/",
+    "https://www.facebook.com/groups/631466497540969/posts/1873350726685867/"
+   ]
+  },
+  {
+   "query": "生活関連サービス業・娯楽業 note 社長",
+   "results": [
+    "https://hatarakikatakaikaku.mhlw.go.jp/casestudy/type/lifeservice-entertainment/",
+    "https://clip-corporation.com/column/entertainment/",
+    "https://biz.note.com/n/n96bd2a2931c2",
+    "https://note.com/foodbizinv/n/na29a0eb4dc65",
+    "https://note.jp/n/nfc55554a63fc",
+    "https://keiei-note.wizbiz.jp/",
+    "https://www.saitamadx.com/case/9034/",
+    "https://note.com/topic/noteprolist",
+    "https://note.com/keita_keita_fit",
+    "https://sankakunet.jp/topics/industrialclassification-n/"
+   ]
+  },
+  {
+   "query": "生活関連サービス業・娯楽業 X 投稿",
+   "results": [
+    "https://hatarakikatakaikaku.mhlw.go.jp/casestudy/type/lifeservice-entertainment/",
+    "https://clip-corporation.com/column/entertainment/",
+    "https://blog.office-root.com/data/average-life-related-entertainment-r01-sokuho/",
+    "https://job.career-tasu.jp/guide/study/127/",
+    "https://www.tsr-net.co.jp/service/detail/pdf/code_book.pdf",
+    "https://mie-biz.jp/case/52",
+    "https://www.city.gifu.lg.jp/chotanjikan-work/1029925/index.html",
+    "https://www.onecareer.jp/articles/5197",
+    "https://note.com/ogawa_tech/n/n6299bd0a6539",
+    "https://sankakunet.jp/topics/industrialclassification-n/"
+   ]
+  },
+  {
+   "query": "living-related services amusement Japan census site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/bdc-tokyo_innovation-investor-finance-activity-7397131001493372928-Skgf",
+    "https://www.linkedin.com/pulse/lessons-from-japan-land-rising-sun-theodora-lau",
+    "https://www.linkedin.com/pulse/how-did-solo-living-become-trillion-yuan-market-china-dudarenok-%E8%89%BE%E7%86%99%E4%B8%BD-al9xc",
+    "https://www.linkedin.com/company/amazon-web-services",
+    "https://www.linkedin.com/pulse/my-honest-opinion-working-japan-foreigner-cesar-antonio-diez-pachas",
+    "https://www.linkedin.com/in/dillonjeffrey",
+    "https://www.linkedin.com/company/mars",
+    "https://www.linkedin.com/in/corrigall",
+    "https://uk.linkedin.com/in/tomoko-moore-yurugi-06902b14",
+    "https://www.linkedin.com/posts/rocksaskia_why-language-training-still-matters-in-the-activity-7442564212490633216-Y8N-"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -2497,7 +2497,7 @@
   - 「For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「Entity Resolution Use Cases」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「A single accuracy percentage can be misleading because most possible record pairs are non-matches. Evaluation should therefore include false positives, false negatives, the percentage of cases requiring human review and the quality of complete entity clusters—not only individual record pairs.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-- 失敗・落とし穴：記載なし（読んだ31頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 非上場の売上を複数の信号で挟む（Inven・CUFinder）（private company revenue estimate multiple signals top-down bottom-up conservative）
 - 文脈：推定
@@ -2555,11 +2555,11 @@
 
 ## 出どころを元までたどり、こだまを束ねる（source triangulation・検証の表）（source triangulation trace to origin echo verbatim numbers validation matrix）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ12頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 実例：記載なし（読んだ12頁・検索12回）
 
 ## コンサルの調べ方（目的・予想の仮説・公益社団法人の調査報告）（consulting desk research hypothesis expected answer association reports）
 - 文脈：分析の型
@@ -3086,6 +3086,13 @@
   - 「to quantify their assessments? Be aware of potential biases and distinguish between inherent bias and deliberate misdirection.」（https://kravensecurity.com/source-reliability-and-information-credibility/）
   - 「You check a source’s reliability by evaluating it against established criteria, not just gut feeling. This involves assessing its historical accuracy, reputation in the security community, author expertise, transparency of data collection, and potential biases. A great intelligence framework for performing this analysis is the Admiralty Code.」（https://kravensecurity.com/source-reliability-and-information-credibility/）
   - 「A source is considered unreliable if it has a history of inaccuracies, bias, or the promotion of a particular perspective instead of presenting facts. A lack of transparency is also a red flag; if you don’t know how it obtained the information, it is untrustworthy. Treat anonymous sources with skepticism, considering whether they are involved in spreading disinformation.」（https://kravensecurity.com/source-reliability-and-information-credibility/）
+  - 「Evaluating OSINT effectively requires a structured approach. Rather than relying on gut instinct or assumptions, analysts should assess each piece of information against a set of established criteria. This ensures consistency, reduces bias, and increases the likelihood that your final intelligence product will be trusted and actionable.」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
+  - 「Is the content neutral, or does it show bias? Be wary of emotionally charged language, persuasive tone, or content designed to provoke. Identifying whether the source has an agenda can help you judge how much weight to give the information.」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
+  - 「– how dependable the source is based on past performance, access to information, and known biases.」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
+  - 「5. Consider the Source’s Motivation and Bias」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
+  - 「a source is publishing certain information can help contextualise its reliability. Is the content investigative, promotional, political, or satirical? Is it user-generated or professionally produced? Analysing tone, language, and publication history can reveal bias or intent that may affect credibility.」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
+  - 「Even with a solid framework and a set of reliable techniques, OSINT evaluation often comes down to the fine details – the subtle clues, the consistency checks, and the instinct honed by experience. This section offers practical, hands-on advice to help you refine your evaluation skills and avoid common pitfalls.」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
+  - 「Can I identify any potential bias?」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
 - 実例：
   - 「no piece of information is normally of great value on its own. When first received it is like a sentence without its context. Signal intelligence for example, in its raw state is seldom intelligible on its own to anyone but the expert who extracts it or deciphers it… it cannot be read and understood, even when translated, in isolation」（https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/）
   - 「support-example.example.com」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
@@ -3100,7 +3107,9 @@
   - 「. One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「OSINT investigation guides, case studies and tooling deep-dives from the UserSearch team.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「Here are some examples of Admiralty Code ratings and subsequent actions to be taken:」（https://kravensecurity.com/source-reliability-and-information-credibility/）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
+  - 「For example, a rating of」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
+  - 「IntelTechniques Workbook / Casefile」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
 
 ## e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ）（e-Stat practical search techniques statistical code metadata notes）
 - 文脈：探し先・書き手
@@ -3400,8 +3409,8 @@
   - 「‘, for example, or, in the wake of the collapse of Carillion」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
   - 「, for example, highlight (in a」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
   - 「, for example, includes a whole ‘」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
 
 ## 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説（survey year vs reference year statistics pitfalls Japan census）
 - 文脈：一次情報の探し方

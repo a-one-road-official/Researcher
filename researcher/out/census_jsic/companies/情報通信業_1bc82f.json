@@ -1,0 +1,1729 @@
+{
+ "name": "情報通信業",
+ "en": "information and communications Japan census",
+ "aliases": [
+  "情報通信業",
+  "情報サービス業",
+  "インターネット附随サービス業",
+  "大分類G"
+ ],
+ "context": "大分類G",
+ "kind": "market",
+ "researched_at": "2026-11-05T11:48:07.970986+00:00",
+ "evidence": {
+  "企業数・事業所数": [
+   {
+    "quote": "統計局ホームページ/令和3年経済センサス‐活動調査 調査の結果",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス-活動調査 調査の結果",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査に関する地域メッシュ統計",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、全産業を対象とする「経済センサス-活動調査」の創設に伴い、平成24年、平成28年、令和３年は「経済センサス-活動調査」の『製造業』として調査を実施し、『製造業』の集計結果を公表しています",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成24年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 8-1 企業産業(中分類)、売上（収入）金額階級別企業等数、事業所数、従業者数、売上（収入）金額、費用総額、主な費用項目、粗付加価値額、純付加価値額及び設備投資額－全国 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 企業等に関する集計 産業横断的集計 経理事項等",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "表1はすべて人を単位とした実数で、企業数ではありません*5",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "企業数の側も公表されています*2",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査結果（METI/経済産業省）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査結果",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "pass": 3
+   },
+   {
+    "quote": "・令和３年６月１日現在で実施した経済センサス‐活動調査の結果です",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年活動調査の集計体系及び公表時期一覧・各集計と産業分類の対象範囲(PDF:92KB)",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "pass": 3
+   },
+   {
+    "quote": "●情報通信業を営む企業の売上高は50兆円を超え、企業数は5,714社",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/html/nd241610.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅲ 事業所数及び従業者数の状況 .............................................. 22",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．産業大分類別事業所数及び従業者数 ...................................... 22",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．従業者規模別事業所数及び従業者数 ...................................... 28",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．開設時期別事業所数 .................................................... 29",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．他からの出向・派遣従業者の有無別事業所数及び他からの出向・派遣従業者数 32",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査の概要 ......................................... 44",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 令和３年経済センサス‐活動調査は、甲調査と乙調査の２種類から成り、甲調査は",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、従来の活動調査等結果は、当時の消費税率であり、現行の税率（10％）と異",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 甲調査の調査対象の事業所（企業等）は、平成28年経済センサス‐活動調査では活",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業別規模別企業数（民営、非一次産業、2012年、2014年、2016年、2021年）",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：総務省「平成26年経済センサス‐基礎調査」、総務省・経済産業省「平成24年、28年、令和3年経済センサス‐活動調査」再編加工",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4. 小規模企業の構成比は全企業数に占める割合である",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "平成24年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "1km2当たり事業所数（事業内容等不詳を含む）",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "1km2当たり事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "796冠婚葬祭業 事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "79A葬儀業 事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "79B結婚式場業 事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業横断的集計2-2 産業（大分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―都道府県，市区町村 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業横断的集計",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   },
+   {
+    "quote": "産業（大分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―都道府県，市区町村",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス産業分類(平成26年経済センサス－基礎調査) | 統計分類・用語の検索 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "pass": 3
+   },
+   {
+    "quote": "平成26年経済センサス－基礎調査",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "pass": 3
+   },
+   {
+    "quote": "平成21年経済センサス－基礎調査",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス産業分類(平成26年経済センサス－基礎調査)",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "pass": 3
+   },
+   {
+    "quote": "【産業別規模別企業数(民営、非一次産業)📊】製造・建設・卸/小・情報処理業のデータを徹底比較🔥：2026年版中小企業白書 No.37",
+    "url": "https://note.com/tag/%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "従業者数": [
+   {
+    "quote": "経済センサス‐活動調査 8-1 企業産業(中分類)、売上（収入）金額階級別企業等数、事業所数、従業者数、売上（収入）金額、費用総額、主な費用項目、粗付加価値額、純付加価値額及び設備投資額－全国 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業(中分類)、売上（収入）金額階級別企業等数、事業所数、従業者数、売上（収入）金額、費用総額、主な費用項目、粗付加価値額、純付加価値額及び設備投資額－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "総務省の情報通信業基本調査｜対象業種と従業者数の読み方 | 株式会社LASSIC（ラシック）",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "総務省の情報通信業基本調査｜対象業種と従業者数の読み方",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "派遣は従業者数に入らず、2024年度の受入れ派遣は48,217人です",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の従業者数は合計483,165人",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "この調査の従業者数に、受託開発やシステム運用を担う企業の人数は入っていません*2",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "受入れ派遣従業者は、派遣先企業の指揮命令を受けて業務に従事している従業者を指し、派遣先企業の従業者数計には含まれないと明記されています*3",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "常時従業者数の人数は、内訳の計とは一致しないとされています*3",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "表1：情報通信業基本調査の従業者数（2024年度・単位は人・確認日2026年9月2日）",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "受入れ派遣従業者は従業者数計に含まれません*3",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "4業種の従業者数を足すと483,165人で、合計と一致します*5",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "常時従業者数はわずかにずれます*3*5",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "電気通信業は常時従業者122,333人に臨時雇用者516人を足すと122,849人で、従業者数の欄と一致します*3*5",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性＝付加価値額÷従業者数 従業員一人当たりの付加価値額をみる指標",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/html/nd241610.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働装備率＝有形固定資産÷従業者数 従業員一人当たりどれだけの資本（有形固定資産）を使用しているかをみる指標",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/html/nd241610.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅲ 事業所数及び従業者数の状況 .............................................. 22",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．産業大分類別事業所数及び従業者数 ...................................... 22",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．従業上の地位別従業者数 ................................................ 25",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．従業者規模別事業所数及び従業者数 ...................................... 28",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．他からの出向・派遣従業者の有無別事業所数及び他からの出向・派遣従業者数 32",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）は515万6063事業所、従業者数は5795万人となっている",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、国、地方公共団体を含む事業所数は528万8891事業所、従業者数は6242万８千人とな",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅰ－２ 産業大分類別企業等数、事業所数及び従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「事業所数」、「従業者数」及び「１事業所当たり従業者数」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 従業者数 事業所数 従業者数 事業所数 従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅲ 事業所数及び従業者数の状況 （事業所に関する集計）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．産業大分類別事業所数及び従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 常用雇用者 正社員・正職員 総数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 常用雇用者 正社員・正職員以外 総数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 常用雇用者 正社員・正職員以外 男",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 常用雇用者 正社員・正職員以外 女",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 （再掲） うち他への出向・派遣従業者 総数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 （再掲） うち他への出向・派遣従業者 男",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 （再掲） うち他への出向・派遣従業者 女",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 うち常用雇用者 正社員・正職員以外(パート・アルバイトなど)",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 うち常用雇用者 正社員・正職員以外（パート・アルバイトなど）",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 うち常用雇用者 (再掲)パート・アルバイトなどの８時間換算雇用者数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   }
+  ],
+  "売上（収入）金額・付加価値額": [
+   {
+    "quote": "経済センサス‐活動調査 8-1 企業産業(中分類)、売上（収入）金額階級別企業等数、事業所数、従業者数、売上（収入）金額、費用総額、主な費用項目、粗付加価値額、純付加価値額及び設備投資額－全国 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "3000万円～1億円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "1～3億円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "3～10億円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "10～100億円未満",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "100億円以上",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "調査期日については2025年3月31日現在、それ以外の項目は最近決算期の数値で、売上高等は2024年度1年間の実績です*3",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高の側にも定義が置かれています*3",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "当該業種売上高とは、企業売上高の全体のうち当該業種に係る売上高をいうとされています*3",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "企業全体の売上高とは別の欄です*3",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "図表1-7の労働生産性は付加価値額を企業従業者数で割ったもので、2024年度の合計は2,252.9万円です*5",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "労働分配率は給与総額を付加価値額で割った値で、2024年度の合計は20.8%、インターネット附随サービス業は40.2%です*5",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "調査実施時期に利用可能な最新の事業所母集団データベースの年次フレームを母集団情報として、産業小分類別・企業売上高規模別に層化無作為抽出により選定するとされています*2",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "各調査票で、当該業種のサービス別年間売上高、取得設備投資額、当該業種に係る従業者数などが調査されます*6",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高の水準も同じ本編に載っています*5",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "図表1-1で、2024年度の企業売上高は4業種の合計で38,270,071百万円、うち当該業種売上高は27,698,931百万円です*5",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "調査時点は2025年3月31日、売上高等は2024年度1年間の実績です",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "・（参考）全産業の事業所の売上（収入）金額に関する試算値 利用上の注意(PDF:138KB)",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "pass": 3
+   },
+   {
+    "quote": "●情報通信業を営む企業の売上高は50兆円を超え、企業数は5,714社",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/html/nd241610.html",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信業に係る2019年度の売上高は51兆6,459億円（全社の売上高は70兆3,384億円）で、構成割合をみると、電気通信業が34.0％（前年度差0.6ポイント減少）、ソフトウェア業が31.6％（前年度差1.2ポイント増加）となっている（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/html/nd241610.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表4-1-6-1 情報通信業の売上高（2019年度）",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/html/nd241610.html",
+    "pass": 3
+   },
+   {
+    "quote": "「図表4-1-6-1 情報通信業の売上高（2019年度）」の",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/html/nd241610.html",
+    "pass": 3
+   },
+   {
+    "quote": "）の数は5,714社で、営業利益は6兆3,194億円、経常利益は7兆269億円、保有子会社・関連会社数は10,118社となっている（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/html/nd241610.html",
+    "pass": 3
+   },
+   {
+    "quote": "●12業種中8業種で、資本金が「1億円未満」に属する企業が6割以上を占める",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/html/nd241610.html",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信業を営む企業の構成割合について、資本金規模別にみると、12業種中8業種で「1億円未満」に属する企業が6割以上を占めている",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/html/nd241610.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働分配率＝給与総額÷付加価値額×100 生み出された付加価値のうち、どれだけ人件費に分配されたかをみる指標",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/html/nd241610.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅱ 企業等数、売上高及び純付加価値額等の状況 ............................... ３",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．企業等数、売上高及び純付加価値額 ...................................... ３",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．事業活動別売上高 ...................................................... 12",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．都道府県別純付加価値額の状況 .......................................... 21",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 甲調査の売上（収入）金額、費用等の経理事項は2020年１年間の数値である",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の我が国の売上（収入）金額（以下「売上高」という",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10億円以上",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "1億円以上 - 10億円未満",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "5千万円以上 - 1億円未満",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "1千万円以上 - 1億円未満",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "ア 製造業、建設業、運輸業その他の業種：資本金3億円以下又は従業者規模300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ゴム製品製造業は、資本金3億円以下または従業者規模900人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 卸売業：資本金1億円以下又は従業者規模100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ソフトウェア業、情報処理サービス業は、資本金3億円以下又は従業者規模300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業・建設業を除く、サービス・小売・金融など74の事業区分で、法人の広告宣伝費は約9.3兆円（2024年）と推計されます（主な企業の割合を法人全体の費用に当てはめた参考値）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "最も多いのはインターネット附随サービス業の約8,065億円です",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象となった広告会社の売上高は5兆7,565億円（2024年）で、うちインターネット広告が1兆5,813億円で27%を占めます",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "本統計（調査対象の広告会社の売上高）では、2024年に初めてインターネット広告がテレビ・新聞・雑誌・ラジオの4媒体の合計を上回りました",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "5,415億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "1,340億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "8,065億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "1,186億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "1,284億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "4,399億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "1,357億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の日本の総広告費は8兆623億円（前年比105.1%）と4年連続で過去最高を更新しました（電通「2025年 日本の広告費」）",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "全業種平均は売上高の1.3%ですが、化粧品や人材紹介では20%近くに達する業種もあります",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "電通が2026年3月に発表した「2025年 日本の広告費」によると、日本の総広告費は8兆623億円に達しました",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "注目すべきは、インターネット広告費が4兆459億円（前年比110.8%）と初めて4兆円を超え、総広告費の50.2%を占めた点です",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "テレビを含むマスコミ四媒体は2兆2,980億円（前年比98.4%）と微減が続いています",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "4兆459億円",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "1兆7,556億円",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "4,778億円",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "5,424億円",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "2021年 6月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "pass": 3
+   },
+   {
+    "quote": "2022年調査で範囲が変わったため、2021年以前の数字とは並べられません",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "※ 本記事は2026年9月時点の公式情報（省庁・公的機関・ベンダー公式ドキュメント）に基づきます",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "公表は2026年3月31日、調査の名称は2025年情報通信業基本調査です*5",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年調査までがこの範囲です*2",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年以前の数字と2022年以降の数字は範囲が違うため、並べて増減を語ることはできません*2",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "表1：情報通信業基本調査の従業者数（2024年度・単位は人・確認日2026年9月2日）",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "総務省「2025年情報通信業基本調査結果」図表1-8より作成（確認日2026年9月2日）*5",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年以前の数字は情報サービス業を含む範囲なので、2022年以降と並べません*2",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "総務省の情報通信業基本調査は統計法に基づく一般統計調査で、2025年調査の結果は2026年3月31日に公表されました",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年調査から総務省と経済産業省の共管として始まり、2021年調査までは情報サービス業や映像・音声・文字情報制作業を含んでいました",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "情報サービス業は現在の属性範囲に入っていないため、2021年以前の数字と並べて増減を語ることはできません",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "総務省の情報通信業基本調査について、調査メニューのページ、調査の概要、利用上の注意、報告書のページ、2025年調査の本編、2026年調査の調査事項、e-Statの統計の入口を突き合わせて整理しました",
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信業に係る2019年度の売上高は51兆6,459億円（全社の売上高は70兆3,384億円）で、構成割合をみると、電気通信業が34.0％（前年度差0.6ポイント減少）、ソフトウェア業が31.6％（前年度差1.2ポイント増加）となっている（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/html/nd241610.html",
+    "pass": 3
+   },
+   {
+    "quote": "は40.4％（前年度差1.1ポイント減少）となっている（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/html/nd241610.html",
+    "pass": 3
+   },
+   {
+    "quote": "甲調査及び乙調査とも2021年６月１日を調査日として実施している",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の企業等（※２）の数は368万4049企業、民営事業所数（以下「事業所数」",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年） 【参考】2016年（平成28年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【参考】2016年（平成28年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（ 令和３年） 【参考】 2016年（平成28年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注３：調査事項の変更に伴い、雇用者の内訳が異なるため、2016年の数値は表章していない（利用上の注意",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【参考】2016年",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 2016年以降に開設された事業所の数は、62万2850事業所となっている",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別に2016年以降に開設された事業所の数をみると、「卸売業，小売業」が",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 産業大分類別に、産業ご との事業所数に占める2016年以降に開設された事業所数の",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年（平成27年）以前 2016年（平成28年）以降",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "産業別規模別企業数（民営、非一次産業、2012年、2014年、2016年、2021年）",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(注)1. 2012年2月時点、2014年7月時点、2016年6月時点、2021年6月時点の値を掲載",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "媒体別の広告費の推移（広告会社の売上高、テレビ・新聞・雑誌・ラジオ・インターネット）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "広告会社の売上高のうちインターネット広告の推移",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年：6,497億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年：13,722億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年：15,440億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年：13,699億円",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "数値および引用は、2026年10月2日時点で確認できた内容です",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "電通が2026年3月に発表した「2025年 日本の広告費」によると、日本の総広告費は8兆623億円に達しました",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "チラシ・ポイント還元中心だが、EC化でネット広告が増加",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "「目標売上の増加額 × 獲得コスト率 ＝ 広告予算」として決める方法です",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "中国DeepSeekが2026年10月17日に公開したDeepSeek-V4.1-Flash-1017について、前版からの変更点、ベンチマーク、API料金を公式発表から整理します",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "イーロン・マスク氏は2026年9月29日、ホワイトハウスで「最も可能性が高いのは豊かさの時代で、全員が高所得になる」と語りました",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "数字の推移、語りたくなる作りの効用、特典の副作用を整理し、中小企業が来店動機を設計するときの判断材料にします",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "分離適格振替国債の分離状況並びに現在高推移",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "【産業別規模別企業数(民営、非一次産業)📊】製造・建設・卸/小・情報処理業のデータを徹底比較🔥：2026年版中小企業白書 No.37",
+    "url": "https://note.com/tag/%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "それでも上場来高値を更新した56銘柄の平均が-1.63%だった理由【2026年10月第4週】",
+    "url": "https://note.com/tag/%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ商いが集中したのか｜10月16日の出来高増加10銘柄を分析",
+    "url": "https://note.com/tag/%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "note(5243)、売上高増加による押上げ227百万円―GENIACの精算売上も利益になるのか？",
+    "url": "https://note.com/tag/%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月28",
+    "url": "https://note.com/tag/%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "資本金1億円以上の企業": [
+   {
+    "quote": "情報通信業を営む企業の構成割合について、資本金規模別にみると、12業種中8業種で「1億円未満」に属する企業が6割以上を占めている",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/html/nd241610.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表4-1-6-3 資本金規模別の企業構成割合",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/html/nd241610.html",
+    "pass": 3
+   },
+   {
+    "quote": "「図表4-1-6-3 資本金規模別の企業構成割合」の",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/html/nd241610.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査結果（令和元年度）（2020年10月30日公表）によると、全産業（金融業、保険業を除く）の労働生産性は715万円となっている",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/html/nd241610.html",
+    "pass": 3
+   },
+   {
+    "quote": "（３）資本金階級別の状況（会社企業に関する集計）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社企業について、資本金階級別に企業数をみると、「資本金1000万円未満」が103万",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6076企業（資本金階級別の合計に占める割合は59.3％） と最も多く、次いで 「資本金1000",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－３ 資本金階級別会社企業数、売上高及び純付加価値額",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図Ⅱ－２ 資本金階級別会社企業数、売上高及び純付加価値額の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（４）資本金階級別設備投資額の状況（会社企業に関する集計）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社企業について、資本金階級別に設備投資額をみると、「資本金１億円以上」が38兆4951",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億円（資本金階級別の合計に占める割合は76.2％）と最も多く、次いで「資本金3000万円",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－14 資本金階級別会社企業数及び設備投資額",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図Ⅱ－12 資本金階級別会社企業数及び設備投資額の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査 時系列データ時系列データ 1 金融業、保険業以外の業種(原数値) | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査は、わが国における営利法人等の企業活動の実態を把握するため、標本調査として実施されている統計法に基づく基幹統計調査です",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003060791",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 大企業",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工リサーチが上場企業・大企業の決算データを集計した調査（2023年度実績）によると、全業種平均の売上宣伝費比率は",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "業種平均と比べると低い水準の企業が多い一方で、限られた予算だからこそ「どこに使うか」の選択が大企業以上に重要になります",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査附帯調査 四半期別GDP速報（1次速報）のための一部項目早期調査",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   }
+  ],
+  "広告宣伝費・販管費": [
+   {
+    "quote": "純付加価値額＝売上高－（費用総額（売上原価＋販売費及び一般管理費））＋給与総額＋租税公課",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全産業における設備投資額売上高比率（売上高に対する設備投資額の割合）は3.5％とな",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別に設備投資額売上高比率をみると、「電気・ガス・熱供給・水道業」が10.9％",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－13 産業大分類別設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「売上高」、「設備投資額」及び「設備投資額売上高比率」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図Ⅱ－11 産業大分類別設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「設備投資額売上高比率」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類 売上高 設備投資額 設備投資額売上高比率",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 費用総額（売上原価＋販売費及び一般管理費）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「売上原価」、「販売費及び一般管理費」それぞれに計上された",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費は売上・費用の何%か｜業種別の割合（最高11.6%）と上場企業の中央値",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "費用に占める広告宣伝費の割合は、クレジットカード業、割賦金融業（",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業・建設業を除く、サービス・小売・金融など74の事業区分で、法人の広告宣伝費は約9.3兆円（2024年）と推計されます（主な企業の割合を法人全体の費用に当てはめた参考値）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "電通「日本の広告費」とは数え方が違い、日本の広告費全体の話ではありません",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費は費用・売上の何パーセントか（業種別の目安）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "費用に占める広告宣伝費の割合が高い事業区分（各区分の主な企業）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "費用に占める広告宣伝費の割合が最も高いのはクレジットカード業、割賦金融業（11.6%）で、音声情報制作業（9.0%）が続きます（2024年）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費を開示している企業のみの集計で、非開示の企業は含みません",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "東証の33業種のうち、広告宣伝費を開示している会社が5社以上の業種（21業種）を中央値の高い順に並べ、上位20業種を載せています",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "業界別の広告費の割合ランキング（上場企業）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別の広告宣伝費ランキング（法人の推計）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "法人の広告宣伝費は、製造業・建設業を除く74の事業区分の合計で約9.3兆円と推計されます（2024年）",
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "pass": 3
+   },
+   {
+    "quote": "業界別広告費比較2026｜EC・SaaS・飲食の目安 | GrantNavi",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "業界別広告費比較2026｜EC・SaaS・飲食の目安",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "「うちの広告費は多すぎるのか、少なすぎるのか」――",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の日本の総広告費は8兆623億円（前年比105.1%）と4年連続で過去最高を更新しました（電通「2025年 日本の広告費」）",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、適正な広告費は業界によって大きく異なります",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、公的統計と上場企業の実績データをもとに、業界別の広告費比率を一覧で整理し、中小企業が自社の広告予算を見直すための考え方を解説します",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "電通が2026年3月に発表した「2025年 日本の広告費」によると、日本の総広告費は8兆623億円に達しました",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "注目すべきは、インターネット広告費が4兆459億円（前年比110.8%）と初めて4兆円を超え、総広告費の50.2%を占めた点です",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "電通 (2026) 2025年 日本の広告費",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工リサーチが上場企業・大企業の決算データを集計した調査（2023年度実績）によると、全業種平均の売上宣伝費比率は",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工リサーチ (2024) TSRデータインサイト",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   },
+   {
+    "quote": "金融・保険業が8.2%と突出して高いのは、クレジットカードや保険商品の新規顧客獲得にかかる広告費が大きいためです",
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "情報通信業 の人気・新着記事まとめ - note 情報通信業 の人気・新着記事まとめ - note note https://note.com > tag > 情報通信業",
+    "url": "https://note.com/tag/%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信業 とは？分類や職業上のメリット・デメリットも解説 情報通信業 とは？分類や職業上のメリット・デメリットも解説 note https://note.com > キャリア > 企業分析",
+    "url": "https://note.com/yamasei015/n/nf0805395bccf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "情報通信業の人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル化やAIの進展により、社会の基盤を支える情報通信業は大きな転換期を迎えています。",
+    "url": "https://note.com/tag/%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "企業の決算分析や転職市場の動向、株式投資の視点など、多岐にわたる実態に関する記事が集まっています。",
+    "url": "https://note.com/tag/%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル化やAIの進展により、社会の基盤を支える情報通信業は大きな転換期を迎え…",
+    "url": "https://note.com/tag/%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "IT企業の衛生管理者は第二種で足りるのか。社員50人で1人、資格の試験は30問",
+    "url": "https://note.com/tag/%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル産業の労働生産性、低下しているの？",
+    "url": "https://note.com/tag/%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "【産業別規模別企業数(民営、非一次産業)📊】製造・建設・卸/小・情報処理業のデータを徹底比較🔥：2026年版中小企業白書 No.37",
+    "url": "https://note.com/tag/%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "日経平均は+0.95%。それでも上場来高値を更新した56銘柄の平均が-1.63%だった理由【2026年10月第4週】",
+    "url": "https://note.com/tag/%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信業とは？分類や職業上のメリット・デメリットも解説｜やませい",
+    "url": "https://note.com/yamasei015/n/nf0805395bccf",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信業とは？分類や職業上のメリット・デメリットも解説",
+    "url": "https://note.com/yamasei015/n/nf0805395bccf",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信業とは情報関連のサービスを提供する様々な事業者を指します。今回は情報通信業について解説します。",
+    "url": "https://note.com/yamasei015/n/nf0805395bccf",
+    "pass": 3
+   },
+   {
+    "quote": "「情報通信業」は総務省所管の日本標準産業分類にも定められている職業分類を指し、「情報の伝達を行う事業所、情報の処理や提供などのサービスを行う事業所、インターネットに附随したサービスを提供する事業所、および伝達することを目的として情報の加工を行う事業所」と定義されています。日本標準産業分類では、情報通信業を以下の5種類に分類しています。",
+    "url": "https://note.com/yamasei015/n/nf0805395bccf",
+    "pass": 3
+   },
+   {
+    "quote": "通信業は映像、音声、文字等の情報を伝達したり、それらを伝達するための手段の設置や運用を行う事業を指します。具体的には固定電話業や携帯電話業、無線センターなどが含まれます。",
+    "url": "https://note.com/yamasei015/n/nf0805395bccf",
+    "pass": 3
+   },
+   {
+    "quote": "通信業は主に有線や無線の放送を公衆に届ける事業を指します。無線・有線のテレビ放送やラジオ放送、衛星放送がこれに含まれます。",
+    "url": "https://note.com/yamasei015/n/nf0805395bccf",
+    "pass": 3
+   },
+   {
+    "quote": "情報サービス業は、主に情報処理や情報提供等のサービスを行う事業です。具体的には様々なソフトウェアの開発業やデータベース業、タイムシェアリングサービスや市場調査、世論調査業などが含まれます。",
+    "url": "https://note.com/yamasei015/n/nf0805395bccf",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット附随サービス業は、インターネットを通じて通信、情報サービスを提供する事業に分類されます。ウェブ検索サービス、ネットショッピングサイト運営業、ウェブコンテンツ提供業や電子認証サービス提供業がこの分類に含まれます。",
+    "url": "https://note.com/yamasei015/n/nf0805395bccf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://faq-e-census-st.dga.jp/faq_detail.html?id=345&page=1000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/index-2.html",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/riyou_kakuhou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/html/nd241610.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003060791",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://grill.co.jp/marketing-log/17487/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://lumierre.jp/research/market/ad-spend/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dentsu.co.jp/knowledge/ad_cost/2024/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001069811&result_page=1&statdisp_id=0003389414",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamasei015/n/nf0805395bccf",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済センサス 活動調査 情報通信業 企業数 売上（収入）金額",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334",
+    "https://faq-e-census-st.dga.jp/faq_detail.html?id=345&page=1000",
+    "https://www.e-census2026.go.jp/document/pdf/howto_12.pdf",
+    "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "https://www.e-stat.go.jp/dbview?sid=0003449741",
+    "https://www.stat.go.jp/data/e-census/2026/index-2.html",
+    "https://stats47.jp/survey/economic-census-activity",
+    "https://ftf-office.com/2026/04/08/e-census2026/",
+    "https://www.stat.go.jp/data/e-census/2021/index.html"
+   ]
+  },
+  {
+   "query": "経済センサス 2021 産業大分類 情報通信業 従業者数",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/riyou_kakuhou.pdf",
+    "https://www.gov-online.go.jp/data_room/publication/202306/soumu-020.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01tsushin02_02000163.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&query=%E5%BB%83%E6%A5%AD&statdisp_id=0004005659",
+    "https://www.stat.go.jp/data/e-census/2021/index.html"
+   ]
+  },
+  {
+   "query": "法人企業統計 情報通信業 資本金1億円以上 社数",
+   "results": [
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r03/html/nd241610.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003060791",
+    "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213kigyou2.pdf",
+    "https://www.cao.go.jp/zei-cho/history/1996-2009/etc/1999/zei_d_09c.html",
+    "https://www.mof.go.jp/pri/reference/ssc/summary/gyosyu.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm"
+   ]
+  },
+  {
+   "query": "情報通信業 広告宣伝費 売上高比率 業種別",
+   "results": [
+    "https://grill.co.jp/marketing-log/17487/",
+    "https://lumierre.jp/research/market/ad-spend/",
+    "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "https://www.dentsu.co.jp/knowledge/ad_cost/2024/business.html",
+    "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd213220.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102516",
+    "https://www.e-stat.go.jp/dbview?sid=0003176348",
+    "https://kotouri.com/marketing/ad/budget",
+    "https://prtimes.jp/main/html/rd/p/000000008.000186784.html"
+   ]
+  },
+  {
+   "query": "e-Stat 経済センサス 情報通信業 付加価値額",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001069811&result_page=1&statdisp_id=0003389414",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&tclass1=000001061099&tclass2=000001061426&cycle_facet=tclass1%3Atclass2&tclass3val=0&statdisp_id=0003085436",
+    "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001095895&lid=000001120635&statdisp_id=0003389366",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&query=019020026&statdisp_id=0004003964"
+   ]
+  },
+  {
+   "query": "site:note.com 情報通信業",
+   "results": [
+    "https://note.com/tag/%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD",
+    "https://note.com/yamasei015/n/nf0805395bccf",
+    "https://note.com/mitsushi_sclr/n/nd7060d14f4da",
+    "https://note.com/takeokmt/n/n6946ad797c9b",
+    "https://note.com/maenomery_note/n/nf9b0282616d0",
+    "https://note.com/goldensoldier/n/n72c406294b04",
+    "https://note.com/ogawa_tech/n/nc5ec0de79278",
+    "https://note.com/atled_tunagari/n/n7697a7c1ae6f",
+    "https://note.com/mikketado/n/nd66eeb20ba03",
+    "https://money.note.com/rankings/情報・通信業/market_cap_desc"
+   ]
+  },
+  {
+   "query": "site:x.com 情報通信業",
+   "results": [
+    "https://x.com/active_galactic/status/2111313856123584642",
+    "https://x.com/ieice_EIC/status/2114498036038770719",
+    "https://x.com/nikkeibusiness/status/2023751945232728541",
+    "https://x.com/MIC_JAPAN/status/2080473790593863866",
+    "https://x.com/MIC_JAPAN/status/1771097887289536785",
+    "https://x.com/NTTeastofficial/article/2093232162845884759",
+    "https://x.com/edinetdb/status/2116003047235260896",
+    "https://x.com/nictmp",
+    "https://x.com/sen_u/status/2110615391571677492",
+    "https://x.com/ShinagawaJP/status/1481740338460979200"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 情報通信業",
+   "results": [
+    "https://www.linkedin.com/company/arc-hub-for-ict",
+    "https://za.linkedin.com/company/research-ict-africa",
+    "https://www.linkedin.com/company/indiancountrytoday",
+    "https://business.linkedin.com/en-in/talent-solutions/resources/talent-acquisition/job-descriptions/ict-project-manager",
+    "https://in.linkedin.com/company/t-systems-ict-india-pvt.-ltd.",
+    "https://www.linkedin.com/top-content/technology/tech-compliance-standards-for-businesses/eu-compliance-guidelines-for-ict-professionals/",
+    "https://jp.linkedin.com/company/nict",
+    "https://www.linkedin.com/pulse/canadas-fast-growing-ict-sector-attracting-fdi-ian-g-mckay",
+    "https://ie.linkedin.com/jobs/ict-jobs",
+    "https://jp.linkedin.com/learning/cert-prep-network-for-fundamental-information-technology-engineer-examination/4221209"
+   ]
+  },
+  {
+   "query": "site:facebook.com 情報通信業",
+   "results": [
+    "https://www.facebook.com/IEICE.org/videos/-%E6%97%A5%E6%9C%AC%E3%81%AE%E9%80%9A%E4%BF%A1%E6%8A%80%E8%A1%93%E3%82%92%E4%B8%96%E7%95%8C%E3%81%AE%E7%AB%B6%E4%BA%89%E5%8A%9B%E3%81%B8ai%E3%81%AE%E9%80%B2%E5%8C%96%E3%83%87%E3%83%BC%E3%82%BF%E9%9C%80%E8%A6%81%E3%81%AE%E6%8B%A1%E5%A4%A7%E6%B6%88%E8%B2%BB%E9%9B%BB%E5%8A%9B%E3%81%AE%E5%A2%97%E5%A4%A7%E3%81%93%E3%81%86%E3%81%97%E3%81%9F%E8%AA%B2%E9%A1%8C%E3%81%AB%E5%BF%9C%E3%81%88%E3%82%8B%E3%81%9F%E3%82%81%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%81%AE%E9%80%9A%E4%BF%A1%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%9F%BA%E7%9B%A4%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E5%9B%BD%E9%9A%9B%E7%9A%84%E3%81%AA%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF/1122240000739012/",
+    "https://www.facebook.com/kicc.ict/",
+    "https://www.facebook.com/jetro.openforprofessionals/posts/%E5%8F%82%E5%8A%A0%E4%BC%81%E6%A5%AD%E7%B4%B9%E4%BB%8B%E3%82%B8%E3%82%A7%E3%83%88%E3%83%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E5%90%88%E5%90%8C%E4%BC%81%E6%A5%AD%E8%AA%AC%E6%98%8E%E4%BC%9A2026-fall-%E2%9E%81%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD%E5%BB%BA%E8%A8%AD%E6%A5%AD%E7%A7%8B%E3%81%AE%E5%90%88%E5%90%8C%E4%BC%81%E6%A5%AD%E8%AA%AC%E6%98%8E%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%99%E3%82%8B%E4%BC%81%E6%A5%AD%E3%82%92%E5%85%A84%E5%9B%9E%E3%81%AB%E5%88%86%E3%81%91%E3%81%A6%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E7%AC%AC%EF%BC%92%E5%9B%9E%E7%9B%AE%E3%81%AF%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1/1100928412329681/",
+    "https://www.facebook.com/nictmp/",
+    "https://www.facebook.com/61560239483114/videos/%E4%B8%AD%E7%A6%8F%E5%9C%B0%E5%8C%BA%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E7%AD%89%E3%81%AE%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD%E3%81%AE%E9%96%8B%E7%99%BA%E8%A8%88%E7%94%BB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AE%E7%B5%8C%E7%B7%AF%E5%8F%8A%E3%81%B3%E9%96%A2%E4%BF%82%E3%81%99%E3%82%8B%E7%9A%86%E6%A7%98%E3%81%B8%E3%81%AE%E8%AA%AC%E6%98%8E%E7%8A%B6%E6%B3%81%E7%AD%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%B8%82hp%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99htt/1740833407023061/",
+    "https://www.facebook.com/ictisac/",
+    "https://www.facebook.com/ciaj.or.jp/",
+    "https://www.facebook.com/61560239483114/posts/%E4%B8%AD%E7%A6%8F%E5%9C%B0%E5%8C%BA%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E7%AD%89%E3%81%AE%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E6%A5%AD%E3%81%AE%E9%96%8B%E7%99%BA%E8%A8%88%E7%94%BB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AE%E7%B5%8C%E7%B7%AF%E5%8F%8A%E3%81%B3%E9%96%A2%E4%BF%82%E3%81%99%E3%82%8B%E7%9A%86%E6%A7%98%E3%81%B8%E3%81%AE%E8%AA%AC%E6%98%8E%E7%8A%B6%E6%B3%81%E7%AD%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%B8%82hp%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99-%E6%9C%AC%E4%BB%B6/122255489738341316/",
+    "https://www.facebook.com/moneywiseengineer/posts/ict-is-showing-short-term-price-weakness-900-ang-next-support-level/1476888857818485/",
+    "https://www.facebook.com/keizaikaiseki/"
+   ]
+  },
+  {
+   "query": "情報通信業 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Note_(%E4%BC%81%E6%A5%AD)",
+    "https://note.com/ssvg_recruit/n/n238f1db1a1ac",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.com/kazuyuki_tachi/n/n2915e4f702c6",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://www.nikkei.com/article/DGXZQOUC096DN0Z01C22A2000000/",
+    "https://diamond.jp/articles/-/388572",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "情報通信業 X 投稿",
+   "results": [
+    "https://www.buzzsol.com/column/1773218233-573426",
+    "https://www.soumu.go.jp/menu_kyotsuu/policy/snspolicy.html",
+    "https://tatap.jp/knowledge/x-twitter-corporate-operation-guide/",
+    "https://www.nikkei.com/article/DGXZQOUC01AJ60R00C26A6000000/",
+    "https://www.sns.adishplus.co.jp/blog/x-twitter/blog-20250731/",
+    "https://www.comnico.jp/we-love-social/active-communication",
+    "https://x.com/NICT_Publicity",
+    "https://note.com/yusuke_motoyama/n/n4dd3c56c7df1",
+    "https://www.kalanchoe-law.com/post/%E7%99%BA%E4%BF%A1%E8%80%85%E6%83%85%E5%A0%B1%E9%96%8B%E7%A4%BA%E8%AB%8B%E6%B1%82%E3%81%AE%E6%89%8B%E9%A0%86%EF%BC%88twitter%E3%81%AE%E5%A0%B4%E5%90%88%EF%BC%89",
+    "https://x.com/KIDpgkh/status/2097777059946754205"
+   ]
+  },
+  {
+   "query": "information and communications Japan census site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/us-census-bureau",
+    "https://www.linkedin.com/posts/edmund-ho-1277b2125_japan-govt-launches-in-house-developed-ai-activity-7497875773064822784-aV14",
+    "https://www.linkedin.com/posts/edmund-ho-1277b2125_japan-jobless-rate-rises-to-25-in-august-activity-7512794093098385409-twAO",
+    "https://www.linkedin.com/company/census",
+    "https://www.linkedin.com/in/laura-vandruff-69a723b",
+    "https://www.linkedin.com/in/alexandrasvbarker",
+    "https://www.linkedin.com/in/judy-dunne-80752aa",
+    "https://tt.linkedin.com/company/japan-patent-office",
+    "https://www.linkedin.com/in/vecoya-banks",
+    "https://www.linkedin.com/company/jetro-collaborate-and-invest-japan"
+   ]
+  }
+ ],
+ "missing": {}
+}

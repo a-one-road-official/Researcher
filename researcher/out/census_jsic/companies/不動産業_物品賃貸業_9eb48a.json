@@ -1,0 +1,1952 @@
+{
+ "name": "不動産業・物品賃貸業",
+ "en": "real estate goods rental Japan census",
+ "aliases": [
+  "不動産業",
+  "物品賃貸業",
+  "大分類K"
+ ],
+ "context": "大分類K",
+ "kind": "market",
+ "researched_at": "2026-11-05T11:49:08.118512+00:00",
+ "evidence": {
+  "企業数・事業所数": [
+   {
+    "quote": "経済センサス‐活動調査 1 サービス関連産業(小分類)、単独・本所・支所別民営事業所数、従業者数、売上（収入）金額及び収入を得た相手先別収入額－全国、都道府県 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003270",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業別集計 サービス関連産業に関する集計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003270",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003270",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003270",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査の概要 ......................................... 12",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、従来の活動調査等結果は、当時の消費税率であり、現行の税率（10％）と異",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 調査対象の事業所は、平成28年経済センサス‐活動調査では活用されていなかった",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の事業所数は、「不動産業， 物品賃貸業」 が34万669事業所、「学術研究，",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅰ－１ 産業分類別事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－１ 「冠婚葬祭業」における産業小分類別事業所数、売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」 、 「売上高」 、 「結婚式・披露宴の年間取扱件数」 、 「１事業所当たり結婚式・披露宴の年間取扱件数」 、 「葬儀の年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これ らは、事業所における回答負担を少 しでも軽く するため、 「平成28年経済センサス － 活動調査」",
+    "url": "https://www.stat.go.jp/data/e-census/2021/shiken/pdf/shikata3-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査 速報集計",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３年６月に実施した「経済センサス‐活動調査」の速報集計結果を公表",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の企業等の数は367万４千企業、民営事業所数は507万９千事業所、",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表２ 産業大分類別民営事業所数及び従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．民営事業所数の状況（産業大分類別）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○民営事業所数をみると、「卸売業，小売業」が120万１千事業所（全産業の23.6％）と最も",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図４ 産業大分類別民営事業所数の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「民営事業所数の構成比」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）不動産業の事業所数",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①事業所数の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-4",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②各産業事業所数の全産業事業所数に占める割合・・・・・・・・・・・・・・・・[1]-4",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③産業別事業所数の指数・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-5",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④従業者規模別事業所数とその割合・・・・・・・・・・・・・・・・・・・・・・[1]-6",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２） 不動産業の事業所数",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「経済センサス」と「事業所・企業統計調査」は調査の対象は同様だが、調査手法が異なる",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「事業所・企業統計調査」と「経済センサス」は調査の対象は同様だが、調査手法が異なる",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 産業別事業所数の指数（平成8年＝100，平成21年＝100，平成28年＝100）",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 15 物品賃貸業（細分類）別民営事業所数，従業者数，売上（収入）金額，レンタル物件別年間売上高及びリース物件別年間契約高―全国，都道府県 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?kana=46&layout=dataset&statdisp_id=0003215461",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 平成28年経済センサス‐活動調査 / 事業所に関する集計 産業別集計 サービス関連産業Ｂに関する集計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?kana=46&layout=dataset&statdisp_id=0003215461",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search/database?kana=46&layout=dataset&statdisp_id=0003215461",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?kana=46&layout=dataset&statdisp_id=0003215461",
+    "pass": 3
+   },
+   {
+    "quote": "資料：平成２１年経済センサス－基礎調査",
+    "url": "https://www.city.itami.lg.jp/material/files/group/7/25jyuugyouinnkibobetu21.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５－２．産業（大分類）別，従業者規模別事業所数及び従業者数（平成２１年）",
+    "url": "https://www.city.itami.lg.jp/material/files/group/7/25jyuugyouinnkibobetu21.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 不動産業において、資本金規模1千万円未満の法人は、全体の64%を占め、従業者10名未満の事業所数は全体の9割以上を占める",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【不動産業：従業者規模別の事業所数（2016年）】",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【従業員別にみた不動産取引業の事業所数（2016年）】",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：総務省「経済センサス」（2016年）",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）不動産業の事業所数",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①民営事業所数の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-4",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②各産業事業所数の全産業事業所数に占める割合（民営事業所）・・・・・・・・・・・・・・・・[1]-4",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③産業別民営事業所数の指数・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-5",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④従業者規模別事業所数とその割合・・・・・・・・・・・・・・・・・・・・・・[1]-6",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２） 不動産業の事業所数",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：総務省「経済センサス(基礎調査・活動調査)」による(平成18年は、総務省「事業所・企業統計調査」による)",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「経済センサス」と「事業所・企業統計調査」は調査の対象は同様だが、調査手法が異なる",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「事業所・企業統計調査」と「経済センサス」は調査の対象は同様だが、調査手法が異なる",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 産業別民営事業所数の指数（2009(平成21)年＝100）",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 47,242事業所",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業横断的集計1-2 産業（中分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―全国，都道府県 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業横断的集計",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "産業（中分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―全国，都道府県",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200553&result_page=1&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、事業所敷地面積及び１日当たり水源別用水量（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200553&result_page=1&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別事業所数、事業所敷地面積及び１日当たり水源別用水量（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200553&result_page=1&layout=dataset",
+    "pass": 3
+   }
+  ],
+  "従業者数": [
+   {
+    "quote": "経済センサス‐活動調査 1 サービス関連産業(小分類)、単独・本所・支所別民営事業所数、従業者数、売上（収入）金額及び収入を得た相手先別収入額－全国、都道府県 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003270",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003270",
+    "pass": 3
+   },
+   {
+    "quote": "サービス関連産業(小分類)、単独・本所・支所別民営事業所数、従業者数、売上（収入）金額及び収入を得た相手先別収入額－全国、都道府県",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003270",
+    "pass": 3
+   },
+   {
+    "quote": "１．事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の従業者数は、「不動産業， 物品賃貸業」 が141万５千人、「学術研究，",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅰ－１ 産業分類別事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」及び「従業者数」は 必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付表 産業小分類別事業所数、従業者数及び売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」 、「従業者数」及び「売上高」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付表 産業小分類別事業所数、従業者数及び売上高（続き）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当該事業所で実際に働いている人をいい、 従業者から 「他への出向 ・ 派遣従業者数」 を除き、",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「他からの出向・派遣従業者数」を加えることにより算出している",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "地域、産業（大分類）、経営組織別、事業活動別、従業者規模別等に事業所数、従業者数、",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に企業等数、従業者数、経理事項等を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①事業所数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、従業者規模別、開設時期別、存続・新設・廃業別等に事業所数、従業者数を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■４ この事業所の従業者数 ●\u000710月 １ 日現在の従業者数を記入 してく ださい",
+    "url": "https://www.stat.go.jp/data/e-census/2021/shiken/pdf/shikata3-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）この事業所に所属する従業者数 （２）受入者",
+    "url": "https://www.stat.go.jp/data/e-census/2021/shiken/pdf/shikata3-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ この事業所の従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/shiken/pdf/shikata3-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●\u0007 令和元年10月１日現在で、 「 （1）この事業所に所属する従業者数」について、下記を参考に各区分の該当する欄に",
+    "url": "https://www.stat.go.jp/data/e-census/2021/shiken/pdf/shikata3-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、 「⑧送出者」欄及び「 （2）受入者」欄については、 下の図＜事業所の従業者数の説明＞を参考にしてください",
+    "url": "https://www.stat.go.jp/data/e-census/2021/shiken/pdf/shikata3-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜事業所の従業者数の説明（送出者及び受入者）＞",
+    "url": "https://www.stat.go.jp/data/e-census/2021/shiken/pdf/shikata3-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表２ 産業大分類別民営事業所数及び従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」及び「従業者数」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６．従業者数の状況（産業大分類別）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○従業者数をみると、「卸売業，小売業」が1147万７千人（全産業の20.0％）と最も多く、次",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図５ 産業大分類別従業者数の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「従業者数の構成比」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）不動産業の従業者数",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①従業者数の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-7",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②各産業従業者数の全産業従業者数に占める割合・・・・・・・・・・・・・・・・[1]-7",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③産業別従業者数の指数・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-8",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④業態別民営従業者数の推移・・・・・・・・・・・・・・・・・・・・・・・・・[1]-9",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑤民営の一事業所あたり平均従業者数・・・・・・・・・・・・・・・・・・・・・[1]-10",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３） 不動産業の従業者数",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 各産業従業者数の全産業従業者数に占める割合",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 産業別従業者数の指数（平成8年＝100，平成21年＝100，平成28年＝100）",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "取引士証交付者数 ［Ａ］ 取引士就業者数 ［Ｂ］ 就業率 ［Ｂ／Ａ］",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２：就業者数＝従業員数＋役員数",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 15 物品賃貸業（細分類）別民営事業所数，従業者数，売上（収入）金額，レンタル物件別年間売上高及びリース物件別年間契約高―全国，都道府県 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?kana=46&layout=dataset&statdisp_id=0003215461",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search/database?kana=46&layout=dataset&statdisp_id=0003215461",
+    "pass": 3
+   },
+   {
+    "quote": "物品賃貸業（細分類）別民営事業所数，従業者数，売上（収入）金額，レンタル物件別年間売上高及びリース物件別年間契約高―全国，都道府県",
+    "url": "https://www.e-stat.go.jp/stat-search/database?kana=46&layout=dataset&statdisp_id=0003215461",
+    "pass": 3
+   },
+   {
+    "quote": "５－２．産業（大分類）別，従業者規模別事業所数及び従業者数（平成２１年）",
+    "url": "https://www.city.itami.lg.jp/material/files/group/7/25jyuugyouinnkibobetu21.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 不動産業の従業員数は133.7万人、全産業に占める割合は2.7%である",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：従業員数は役員数も含めた常用者の期中平均人員と、当期中の臨時従業員との合計",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 宅地建物取引士の就業者数は一貫して増加傾向にあり、2017年度は31.3万人",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【宅地建物取引事業者数の推移】 【宅地建物取引業の従事者数・宅地建物取引士の就業者数の推移】",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 業態別の売上金額、企業等数、従業者数等構成比を見ると賃貸業の比率が大きい",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：従業者数には役員は含めない",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【業態別の売上金額、企業等数、従業者数等構成比（2016年）】",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）不動産業の従業者数",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①従業者数の推移（民営事業所）・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-7",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②各産業従業者数の全産業従業者数に占める割合（民営事業所）・・・・・・・・・・・・・・・・[1]-7",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③産業別従業者数の指数（民営事業所）・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-8",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④業態別民営従業者数の推移・・・・・・・・・・・・・・・・・・・・・・・・・[1]-9",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑤民営の一事業所あたり平均従業者数・・・・・・・・・・・・・・・・・・・・・[1]-10",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年調査について、出向・派遣従業者は出向元・派遣元事業所の従業員数に含めることとなった",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３） 不動産業の従業者数",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 各産業従業者数の全産業従業者数に占める割合（民営事業所）",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 産業別従業者数の指数（民営事業所，平成21年＝100）",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "取引士証交付者数 ［Ａ］ 取引士就業者数 ［Ｂ］ 就業率 ［Ｂ／Ａ］",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   }
+  ],
+  "売上（収入）金額・付加価値額": [
+   {
+    "quote": "経済センサス‐活動調査 1 サービス関連産業(小分類)、単独・本所・支所別民営事業所数、従業者数、売上（収入）金額及び収入を得た相手先別収入額－全国、都道府県 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003270",
+    "pass": 3
+   },
+   {
+    "quote": "・ 売上（収入）金額等の経理事項は2020年１年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の売上（収入）金額（以下「売上高」という",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "兆378億円、「学術研究， 専門 ・ 技術サービス業」 が46兆3668億円、「宿泊業， 飲食サービス業」",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が18兆9824億円、「生活関連サービス業， 娯楽業」 が29兆7551億円、「教育， 学習支援業」 が３",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "兆5769億円、「サービス業（他に分類されないもの） 」が41兆4390億円となっている",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅰ－２ 産業分類別売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注： 「売上高」、 「１事業所当たり売上高」 、 「従業者１人当たり売上高」及び「収入を得た相手先別割合」は必要な事項の数値が得",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表Ⅱ－１ 「冠婚葬祭業」における産業小分類別事業所数、売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：「事業所数」 、 「売上高」 、 「結婚式・披露宴の年間取扱件数」 、 「１事業所当たり結婚式・披露宴の年間取扱件数」 、 「葬儀の年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①売上（収入）金額 0,000",
+    "url": "https://www.stat.go.jp/data/e-census/2021/shiken/pdf/shikata3-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "18 物品賃貸業のレンタル年間売上高及びリース年間契約高",
+    "url": "https://www.stat.go.jp/data/e-census/2021/shiken/pdf/shikata3-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・\u0007第１面 の11欄の 「⑧物品賃貸事業の収入」 に記入のある場合は、 平成30年 １ 月から12月までの 「レンタル年間売上高」 、 「オペレーテ ィ ングリース年",
+    "url": "https://www.stat.go.jp/data/e-census/2021/shiken/pdf/shikata3-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●\u0007 「11 事業別売上（収入）金額」の説明は、本書６ページを参照してください",
+    "url": "https://www.stat.go.jp/data/e-census/2021/shiken/pdf/shikata3-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10 売上（収入）金額、費用総額及び費用項目",
+    "url": "https://www.stat.go.jp/data/e-census/2021/shiken/pdf/shikata3-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11 事業別売上（収入）金額",
+    "url": "https://www.stat.go.jp/data/e-census/2021/shiken/pdf/shikata3-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●\u0007 調査票第１面の\u001a欄「①売上（収入）金額」に記入した売上高の内訳について、下表及び9、10ページの分類表か",
+    "url": "https://www.stat.go.jp/data/e-census/2021/shiken/pdf/shikata3-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ら、売上高の上位10位の分類の「分類番号」 、 「サービスの種類」及び「売上（収入）金額」を記入してください",
+    "url": "https://www.stat.go.jp/data/e-census/2021/shiken/pdf/shikata3-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○2020年の我が国の売上（収入）金額は1702兆201億円、純付加価値額は337兆1437億円",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表１ 産業大分類別企業等数、売上高及び純付加価値額",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２：「売上高」及び「純付加価値額」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注３：本調査における純付加価値額は、以下の計算式を用いている",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．売上高の状況（産業大分類別）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○売上高をみると、「卸売業，小売業」が481兆4654億円（全産業の28.3％）と最も多く、次",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "いで「製造業」が390兆9934億円（同23.0％）、「医療，福祉」が173兆1927億円（同10.2％）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図２ 産業大分類別売上高の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「売上高の構成比」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ａ売上高の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-30 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②不動産業の資本金別売上高・・・・・・・・・・・・・・・・・・・・・・・・・[1]-31 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ａ不動産業の就業者一人あたり付加価値額・・・・・・・・・・・・・・・・・・[1]-34 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ｂ不動産業の就業者一人あたり付加価値額の推移・・・・・・・・・・・・・・・[1]-34 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ｃ各産業の従業員一人あたり付加価値額の推移・・・・・・・・・・・・・・・・[1]-35 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10億円未満 10億円以上 合計",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10億円未満",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10億円以上",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 不動産業の資本金別売上高 33628281",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年度 １千万円未満 １千万円～１億円未満 １億円～１０億円未満 １０億円以上",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１０億円未満",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 15 物品賃貸業（細分類）別民営事業所数，従業者数，売上（収入）金額，レンタル物件別年間売上高及びリース物件別年間契約高―全国，都道府県 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?kana=46&layout=dataset&statdisp_id=0003215461",
+    "pass": 3
+   },
+   {
+    "quote": "2,606兆円",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "61.8兆円",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 不動産業の売上高は43.4兆円、全産業に占める割合は2.8%、不動産業の法人数は 、32.9万社、全産業に占める割合は11.5%で",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "43.4兆円",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "31.8兆円",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【業態別の売上金額、企業等数、従業者数等構成比（2016年）】",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建築投資額（累計） 42,238億円 53,855億円 7,461億円 61,316億円",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６兆円前後を推移している",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "時価総額：約0.2兆円",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和2年10月公表）によれば、令和元年度における不動産業の営業利益は約5兆円を超え、前年度を上回った",
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年度の不動産業の売上高",
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年度の不動産業の売上高は",
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "pass": 3
+   },
+   {
+    "quote": "48兆5,822億円",
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "pass": 3
+   },
+   {
+    "quote": "であり、前年度（44兆3,182億円）と比べて9.6％の",
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "pass": 3
+   },
+   {
+    "quote": "6兆580億円",
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "pass": 3
+   },
+   {
+    "quote": "であり、前年度（5兆3,542億円）と比べて13.1％の",
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "pass": 3
+   },
+   {
+    "quote": "5兆3,686億円",
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "pass": 3
+   },
+   {
+    "quote": "であり、前年度（4兆5,058億円）と比べて19.1％の",
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年度の不動産業の売上高経常利益率",
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年度の不動産業の売上高経常利益率は",
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "pass": 3
+   },
+   {
+    "quote": "直近5年度の売上高経常利益率は、すべて10％以上となっています",
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "2021年 6月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003270",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の事業所数は、「不動産業， 物品賃貸業」 が34万669事業所、「学術研究，",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の従業者数は、「不動産業， 物品賃貸業」 が141万５千人、「学術研究，",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の企業等の数は367万４千企業、民営事業所数は507万９千事業所、",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①法人数の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-1 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①事業所数の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-4",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①従業者数の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-7",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④業態別民営従業者数の推移・・・・・・・・・・・・・・・・・・・・・・・・・[1]-9",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑥主な産業別就職者数の推移（４年制大学卒業者）・・・・・・・・・・・・・・・[1]-11 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①宅地建物取引業者数の推移・・・・・・・・・・・・・・・・・・・・・・・・・[1]-13",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③宅地建物取引士登録者数の推移・・・・・・・・・・・・・・・・・・・・・・・[1]-15",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑤宅地建物取引士資格試験受験者数等の推移・・・・・・・・・・・・・・・・・・[1]-17 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ｂ国土交通省及び都道府県における苦情紛争相談件数の推移・・・・・・・・・・[1]-20 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ａ売上高の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-30 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ｂ経常利益の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-30 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④全産業・製造業・不動産業の経営指標の推移・・・・・・・・・・・・・・・・・[1]-33 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年 6月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?kana=46&layout=dataset&statdisp_id=0003215461",
+    "pass": 3
+   },
+   {
+    "quote": "【国民資産としての不動産額の推移】 【不動産業の国内総生産の推移】",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【不動産業の売上高の推移】 【不動産業の法人数の推移】",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 宅地建物取引業者数は1990年代初頭をピークに減少が続いたものの、ここ数年はほぼ横ばいで2017年度は12.4万業者",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 宅地建物取引業に従事する者の数は2010年代以降は増加が続き、2017年度は56.1万人",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 宅地建物取引士の就業者数は一貫して増加傾向にあり、2017年度は31.3万人",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【宅地建物取引事業者数の推移】 【宅地建物取引業の従事者数・宅地建物取引士の就業者数の推移】",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【不動産業：従業者規模別の事業所数（2016年）】",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【不動産業：資本金規模別の法人数（2016年）】",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【業態別の売上金額、企業等数、従業者数等構成比（2016年）】",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年 2017年 2018年",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 昭和42年度に100万戸を越えた以降、景気の影響などにより増減を繰り返しながらも、100万戸を越える水準で推移",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " リーマンショックにより大幅な減少が見られ、40年ぶりに100万戸を下回ったものの、平成21年度以降は緩やかな持ち直しの傾向が継続",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月28日",
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "pass": 3
+   },
+   {
+    "quote": "8年連続の増加",
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "pass": 3
+   },
+   {
+    "quote": "①法人数の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-1 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①民営事業所数の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-4",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①従業者数の推移（民営事業所）・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-7",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④業態別民営従業者数の推移・・・・・・・・・・・・・・・・・・・・・・・・・[1]-9",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑥主な産業別就職者数の推移（４年制大学卒業者）・・・・・・・・・・・・・・・[1]-11",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①宅地建物取引業者数の推移・・・・・・・・・・・・・・・・・・・・・・・・・[1]-13 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③宅地建物取引士登録者数の推移・・・・・・・・・・・・・・・・・・・・・・・[1]-15 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑤宅地建物取引士資格試験受験者数等の推移・・・・・・・・・・・・・・・・・・[1]-17",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ｂ国土交通省及び都道府県における苦情紛争相談件数の推移・・・・・・・・・・[1]-20",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ａ売上高の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-30 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ｂ経常利益の推移・・・・・・・・・・・・・・・・・・・・・・・・・・・・・[1]-30 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④全産業・製造業・不動産業の経営指標の推移・・・・・・・・・・・・・・・・・[1]-33 ★",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対象：不動産業界の上場15社（総合デベロッパー・分譲マンション・賃貸・仲介・不動産メディア）／決算期：2025年6月期〜2026年3月期／出典：金融庁EDINET 有価証券報告書（株式会社ルミエール集計）",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "2．広告宣伝費の推移（4年）",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期・経営者による財政状態、経営成績及びキャッシュ・フローの状況の分析",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "4年分の推移を収録",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "広告費と売上の4年分の推移です",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産会社の一部に当たる区分「不動産代理業・仲介業」の事業所（2021年6月時点）",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "住宅宿泊事業法の届出住宅数（2026年9月15日時点",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "対象：不動産業界の上場15社（総合デベロッパー・分譲マンション・賃貸・仲介・不動産メディア）／決算期：2025年6月期〜2026年3月期／出典：金融庁EDINET 有価証券報告書（2025年9月24日〜2026年6月25日提出）／集計：株式会社ルミエール（2026年9月24日公開）",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "数値および引用は、2026年9月24日時点で確認できた内容です",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月27日 09:00",
+    "url": "https://note.com/minamisouken01/n/n0b0b172c179c",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ルミエールのプレスリリース（2026年9月25日 16時00分）上場383社の広告宣伝費を26業種別に集計 売上に",
+    "url": "https://note.com/minamisouken01/n/n0b0b172c179c",
+    "pass": 3
+   },
+   {
+    "quote": "2021年6月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200553&result_page=1&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "分離適格振替国債の分離状況並びに現在高推移",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月12日 18:17",
+    "url": "https://note.com/icareer_jv/n/ndb54a3c8f41a",
+    "pass": 3
+   },
+   {
+    "quote": "転職サービスdodaの調査によると、2026年6月時点の転職求人倍率は全体平均が2.55倍であるのに対し、不動産を含む「建設・不動産」は5.05倍でした",
+    "url": "https://note.com/icareer_jv/n/ndb54a3c8f41a",
+    "pass": 3
+   }
+  ],
+  "資本金1億円以上の企業": [
+   {
+    "quote": "地域、産業（大分類）、経営組織別、事業活動別、企業常用雇用者規模別、資本金階級別等",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①企業等数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、企業常用雇用者規模別、資本金階級別等に企業等数、従業者数等を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②経理事項等 地域、産業（大分類・中分類・小分類）、経営組織別、事業活動別、企業常用雇用者規模別、資本金階級別等に経理事項等を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：財務総合政策研究所「法人企業統計調査」による",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（令和4年度までは財務省「財政金融統計月報」－法人企業統計年報特集－による",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：財務総合政策研究所「法人企業統計調査」 4",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：財務総合政策研究所「法人企業統計調査」 5",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 不動産業において、資本金規模1千万円未満の法人は、全体の64%を占め、従業者10名未満の事業所数は全体の9割以上を占める",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【不動産業：資本金規模別の法人数（2016年）】",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注2：「法人企業統計調査」とは調査方法が異なるため、各項目の総数には差異あり",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "統計問題で頻出の「年次別法人企業統計調査（令和3年度）」が公表されています ｜ 四谷学院宅建試験対策講座_公式ブログ",
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "pass": 3
+   },
+   {
+    "quote": "統計問題で頻出の「年次別法人企業統計調査（令和3年度）」が公表されています",
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "pass": 3
+   },
+   {
+    "quote": "年次別法人企業統計調査（令和3年度）",
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "pass": 3
+   },
+   {
+    "quote": "年次別法人企業統計調査に関しては、前年度との比較だけではなく、直近5年度分の数値を知っていないと解答できない問題もあります",
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査とは、わが国の営利法人等（主に株式会社）の企業活動の実態を把握するための調査のことで、毎年9月頃に公表されています",
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "pass": 3
+   },
+   {
+    "quote": "に公表された「年次別法人企業統計調査（令和3年度）」から出題されます",
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "pass": 3
+   },
+   {
+    "quote": "統計問題で頻出の「年次別法人企業統計調査（令和4年度）」が公表されています",
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "pass": 3
+   },
+   {
+    "quote": "資料：財務総合政策研究所「法人企業統計調査」による",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（令和4年度までは財務省「財政金融統計月報」－法人企業統計年報特集－による",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、資本金階級(10区分)、常用雇用者規模(10区分)、単独・本所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社を除く会社の単独及び本所事業所）－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200553&result_page=1&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査附帯調査 四半期別GDP速報（1次速報）のための一部項目早期調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200553&result_page=1&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査附帯調査 四半期別GDP速報（1次速報）のための一部項目早期調査",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "財務省：「平成30年度法人企業統計調査」",
+    "url": "https://note.com/rm_sasaki/n/n663febaefe4e",
+    "pass": 3
+   }
+  ],
+  "広告宣伝費・販管費": [
+   {
+    "quote": "②費用総額（売上原価＋販売費及び一般管理費） 0,000",
+    "url": "https://www.stat.go.jp/data/e-census/2021/shiken/pdf/shikata3-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・\u0007 売上（収入）金額に対応する費用総額（売上原価＋販売費及",
+    "url": "https://www.stat.go.jp/data/e-census/2021/shiken/pdf/shikata3-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純付加価値額＝売上高－（費用総額（売上原価＋販売費及び一般管理費） ）＋給与総額＋租税公課",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "不動産業界のマーケティング投資調査2026｜上場15社の広告費と集客手法",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産業界の広告費の割合（売上比率）調査2026",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "無料資料：不動産業界の広告費データ（上場15社・Excel）",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "売上に対する広告宣伝費は0.83%",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費は4年で1社あたり+14.0%",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "売上に対する広告宣伝費の比率は、事業タイプで2.7倍の開き",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "1．不動産業界の広告費の割合（売上高広告費比率）",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費の金額を開示していたのは13社です",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費を開示した会社のうち、広告費と売上を同じ連結基準で比較できる11社を集計しました",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "売上に対する広告費は、中央値で0.83%",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝費の合計（13社）",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産業界の広告宣伝費ランキング（上位3社）",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産会社の広告費は売上の何％が正解？ 上場企業調査で見えた「0.83％」 きょうの不動産、3分で読める話vol.411｜南 智仁/ 株式会社南総合研究所 代表取締役",
+    "url": "https://note.com/minamisouken01/n/n0b0b172c179c",
+    "pass": 3
+   },
+   {
+    "quote": "不動産会社の広告費は売上の何％が正解？ 上場企業調査で見えた「0.83％」 きょうの不動産、3分で読める話vol.411",
+    "url": "https://note.com/minamisouken01/n/n0b0b172c179c",
+    "pass": 3
+   },
+   {
+    "quote": "きょうの不動産:不動産会社の広告費は売上の何％が正解？ 上場企業データから考える「広告費0.83％」の意味",
+    "url": "https://note.com/minamisouken01/n/n0b0b172c179c",
+    "pass": 3
+   },
+   {
+    "quote": "不動産会社を経営していると、「広告費はいくらかけるのが適正なのか」という問題に必ず直面します",
+    "url": "https://note.com/minamisouken01/n/n0b0b172c179c",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、売上に対して何％程度まで広告費を使ってよいのか、明確な基準を持っている会社は意外と少ないのではないでしょうか",
+    "url": "https://note.com/minamisouken01/n/n0b0b172c179c",
+    "pass": 3
+   },
+   {
+    "quote": "今回、上場企業の広告宣伝費を業種別に比較した興味深い調査が発表されました",
+    "url": "https://note.com/minamisouken01/n/n0b0b172c179c",
+    "pass": 3
+   },
+   {
+    "quote": "不動産業界の数字を見ると、売上高に対する広告宣伝費の中央値は「0.83％」",
+    "url": "https://note.com/minamisouken01/n/n0b0b172c179c",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、この0.83％をそのまま「不動産会社の適正広告費」と考えるのは少し危険です",
+    "url": "https://note.com/minamisouken01/n/n0b0b172c179c",
+    "pass": 3
+   },
+   {
+    "quote": "今回はこの調査をもとに、不動産会社にとって最適な広告費とは何なのか、さらに広告費の最適化を難しくしている業界特有の構造について考えてみます",
+    "url": "https://note.com/minamisouken01/n/n0b0b172c179c",
+    "pass": 3
+   },
+   {
+    "quote": "「広告費率」から「1件の利益」へ",
+    "url": "https://note.com/minamisouken01/n/n0b0b172c179c",
+    "pass": 3
+   },
+   {
+    "quote": "上場383社の広告宣伝費を26業種別に集計 売上に対する比率は業種間で137倍の差",
+    "url": "https://note.com/minamisouken01/n/n0b0b172c179c",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ルミエールのプレスリリース（2026年9月25日 16時00分）上場383社の広告宣伝費を26業種別に集計 売上に",
+    "url": "https://note.com/minamisouken01/n/n0b0b172c179c",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "経済センサス - 不動産業 - 総務省統計局 — 経済センサス - 不動産業 - 総務省統計局 統計局 PDF https://www.stat.go.jp > shiken > pdf > shikata3-2",
+    "url": "https://www.stat.go.jp/data/e-census/2021/shiken/pdf/shikata3-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025 不動産業 統計集 — 2025 不動産業 統計集 公益財団法人不動産流通推進センター PDF https://www.retpc.jp > wp-content > uploads > toukei",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス ‐活動調査 15 物品賃貸業 （細 分類 ）別民営 事業 所数 — 経済センサス ‐活動調査 15 物品賃貸業 （細 分類 ）別民営 事業 所数 政府統計の総合窓口 https://www.e-stat.go.jp > stat-search > database",
+    "url": "https://www.e-stat.go.jp/stat-search/database?kana=46&layout=dataset&statdisp_id=0003215461",
+    "pass": 3
+   },
+   {
+    "quote": "2025 不動産業統計 集 — 2025 不動産業統計 集 公益財団法人不動産流通推進センター PDF https://www.retpc.jp > wp-content > uploads > toukei",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "不動産業 ビジョン 2030 参考資料集 - 国土交通省 — 不動産業 ビジョン 2030 参考資料集 - 国土交通省 国土交通省 PDF https://www.mlit.go.jp > common",
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026 不動産業統計 集 — 2026 不動産業統計 集 公益財団法人不動産流通推進センター PDF https://www.retpc.jp > wp-content > uploads > toukei",
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "不動産業界 の 広告 費の割合（ 売上比率 ）調査2026 — 不動産業界 の 広告 費の割合（ 売上比率 ）調査2026 lumierre.jp https://lumierre.jp > 業界別の広告費の割合調査",
+    "url": "https://lumierre.jp/research/realestate/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "不動産業界 12分野を完全マップ化｜転職前に知る構造 - note 不動産業界 12分野を完全マップ化｜転職前に知る構造 - note note https://note.com > キャリア > 転職・キャリアチェンジ",
+    "url": "https://note.com/icareer_jv/n/ndb54a3c8f41a",
+    "pass": 3
+   },
+   {
+    "quote": "業界 レポート 物品賃貸業 ｜佐々木正人 - note 業界 レポート 物品賃貸業 ｜佐々木正人 - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/rm_sasaki/n/n663febaefe4e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "不動産業界12分野を完全マップ化｜転職前に知る構造｜株式会社アイキャリア（不動産業界特化型のキャリア支援）",
+    "url": "https://note.com/icareer_jv/n/ndb54a3c8f41a",
+    "pass": 3
+   },
+   {
+    "quote": "不動産業界12分野を完全マップ化｜転職前に知る構造",
+    "url": "https://note.com/icareer_jv/n/ndb54a3c8f41a",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイキャリア（不動産業界特化型のキャリア支援）",
+    "url": "https://note.com/icareer_jv/n/ndb54a3c8f41a",
+    "pass": 3
+   },
+   {
+    "quote": "不動産業界と聞いて、まず思い浮かぶのは「物件を売る営業」だと思います。その像は一部としては正しいですが、全体像としてはズレています。",
+    "url": "https://note.com/icareer_jv/n/ndb54a3c8f41a",
+    "pass": 3
+   },
+   {
+    "quote": "不動産業界は物件のライフサイクルに沿って12の分野に分かれ、分野が違えば顧客も収益構造も未経験者の入りやすさも別物です。実態は、別業界の集合体に近いと言えます。",
+    "url": "https://note.com/icareer_jv/n/ndb54a3c8f41a",
+    "pass": 3
+   },
+   {
+    "quote": "この違いがわからないまま求人を眺めると、判断材料は会社名と提示年収だけになります。わかるのは条件だけで、仕事そのものはわかりません。",
+    "url": "https://note.com/icareer_jv/n/ndb54a3c8f41a",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、12分野の地図と、異業種の経験が活きる入口を整理します。",
+    "url": "https://note.com/icareer_jv/n/ndb54a3c8f41a",
+    "pass": 3
+   },
+   {
+    "quote": "分野がわかると、求人票の読み方が変わります。",
+    "url": "https://note.com/icareer_jv/n/ndb54a3c8f41a",
+    "pass": 3
+   },
+   {
+    "quote": "業界レポート 物品賃貸業｜佐々木正人｜企業リスクのコンサルタント【ビジネスコラム書いてます】",
+    "url": "https://note.com/rm_sasaki/n/n663febaefe4e",
+    "pass": 3
+   },
+   {
+    "quote": "佐々木正人｜企業リスクのコンサルタント【ビジネスコラム書いてます】",
+    "url": "https://note.com/rm_sasaki/n/n663febaefe4e",
+    "pass": 3
+   },
+   {
+    "quote": "の心臓部であり、格付などの与信指標を生産・保守を行う「データ工場」が集計・分析しており、業界ごとの市場概要や業界動向、与信管理のポイントなどをまとめたレポートです。",
+    "url": "https://note.com/rm_sasaki/n/n663febaefe4e",
+    "pass": 3
+   },
+   {
+    "quote": "特に記事についてのコメント頂けると、今後の記事作成の励みになります。",
+    "url": "https://note.com/rm_sasaki/n/n663febaefe4e",
+    "pass": 3
+   },
+   {
+    "quote": "◉仕事に役立つセミナー情報を発信◉メルマガのご案内",
+    "url": "https://note.com/rm_sasaki/n/n663febaefe4e",
+    "pass": 3
+   },
+   {
+    "quote": "物品賃貸業は「リース業」と「レンタル業」に大別される。",
+    "url": "https://note.com/rm_sasaki/n/n663febaefe4e",
+    "pass": 3
+   },
+   {
+    "quote": "‣ ファイナンスリース ： 一般的なリース取引",
+    "url": "https://note.com/rm_sasaki/n/n663febaefe4e",
+    "pass": 3
+   },
+   {
+    "quote": "‣ オペレーティングリース ： ファイナンスリース以外のリース取引で、代表的なものは、自動車リースや航空機リースがある。",
+    "url": "https://note.com/rm_sasaki/n/n663febaefe4e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "All About on X: \" 不動産業 ・ 物品賃貸業 の「平均年収」は ... All About on X: \" 不動産業 ・ 物品賃貸業 の「平均年収」は ... X https://x.com > @allabout_news",
+    "url": "https://x.com/allabout_news/status/2102865079675072827",
+    "pass": 3
+   },
+   {
+    "quote": "東スポ on X: \"健康リスクの高い業種【後編】「 不動産業 ・ 物品 ... 東スポ on X: \"健康リスクの高い業種【後編】「 不動産業 ・ 物品 ... X https://x.com > @tospo_prores",
+    "url": "https://x.com/tospo_prores/status/2114225177932505137",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/shikata_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003270",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://faq-e-census-st.dga.jp/faq_detail.html?id=362&page=1000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/shiken/pdf/shikata3-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?kana=46&layout=dataset&statdisp_id=0003215461",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.itami.lg.jp/material/files/group/7/25jyuugyouinnkibobetu21.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/r7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/common/001287962.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lunariku.jp/toukei_houjinkigyou_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lumierre.jp/research/realestate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1124810.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/minamisouken01/n/n0b0b172c179c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200553&result_page=1&layout=dataset",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/icareer_jv/n/ndb54a3c8f41a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rm_sasaki/n/n663febaefe4e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/allabout_news/status/2102865079675072827",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tospo_prores/status/2114225177932505137",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済センサス 活動調査 不動産業・物品賃貸業 企業数 売上（収入）金額",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/pdf/shikata_06.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003270",
+    "https://faq-e-census-st.dga.jp/faq_detail.html?id=362&page=1000",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/shiken/pdf/shikata3-2.pdf",
+    "https://ir-i.jp/realestate/?p=2428",
+    "https://www.e-stat.go.jp/stat-search/database?kana=46&layout=dataset&statdisp_id=0003215461",
+    "https://trend.zenchin-fair.com/wp-content/uploads/2024/10/2fbe2f1ba3a95d7a464146734e9a1ede.pdf",
+    "https://www.retpc.jp/wp-content/uploads/toukei/202403/202403_1gaikyo.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?toukei=00200553&layout=dataset&statdisp_id=0003094839"
+   ]
+  },
+  {
+   "query": "経済センサス 2021 産業大分類 不動産業・物品賃貸業 従業者数",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003270",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_service_giy.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10000.htm",
+    "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?kana=46&layout=dataset&statdisp_id=0003215461",
+    "https://www.city.itami.lg.jp/material/files/group/7/25jyuugyouinnkibobetu21.pdf",
+    "https://trend.zenchin-fair.com/wp-content/uploads/2024/10/2fbe2f1ba3a95d7a464146734e9a1ede.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10001.htm",
+    "https://www.stat.go.jp/data/e-census/2021/index.html"
+   ]
+  },
+  {
+   "query": "法人企業統計 不動産業・物品賃貸業 資本金1億円以上 社数",
+   "results": [
+    "https://www.retpc.jp/wp-content/uploads/toukei/202503/202503_1gaikyo.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/results/r7.pdf",
+    "https://www.mlit.go.jp/common/001287962.pdf",
+    "https://yotsuyagakuin-tsushin.com/blog_takkenshiken/r3_kigyotoukei/",
+    "https://www.retpc.jp/wp-content/uploads/toukei/202609/202609_1gaikyo.pdf",
+    "https://lunariku.jp/toukei_houjinkigyou_2026.pdf",
+    "https://ulsta.jp/column/takken-toukei-2026/",
+    "https://www.indb.co.jp/insight_cat/all/",
+    "https://www.tsr-net.co.jp/data/detail/1202327_1527.html",
+    "https://open-g.itlibra.com/industries/K"
+   ]
+  },
+  {
+   "query": "不動産業・物品賃貸業 広告宣伝費 売上高比率 業種別",
+   "results": [
+    "https://lumierre.jp/research/realestate/",
+    "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1124810.html",
+    "https://note.com/minamisouken01/n/n0b0b172c179c",
+    "https://www.dentsu.co.jp/knowledge/ad_cost/2024/business.html",
+    "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_11b.pdf",
+    "https://space-core.jp/media/6786/",
+    "https://www.salesdock.jp/blog/realestate-profit-margin-benchmark",
+    "https://prtimes.jp/main/html/rd/p/000000008.000186784.html"
+   ]
+  },
+  {
+   "query": "e-Stat 経済センサス 不動産業・物品賃貸業 付加価値額",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0003218741",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200553&result_page=1&layout=dataset",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003270",
+    "https://www.e-stat.go.jp/dbview?sid=0003215400",
+    "https://www.e-stat.go.jp/classifications/terms/80/03/70B",
+    "https://www.e-stat.go.jp/stat-search/database?kana=46&layout=dataset&statdisp_id=0003215461",
+    "https://www.e-stat.go.jp/stat-search/database?toukei=00200553&layout=dataset&statdisp_id=0003094839"
+   ]
+  },
+  {
+   "query": "site:note.com 不動産業・物品賃貸業",
+   "results": [
+    "https://note.com/icareer_jv/n/ndb54a3c8f41a",
+    "https://note.com/rm_sasaki/n/n663febaefe4e",
+    "https://note.com/rm_sasaki/n/n4a2de66159ad",
+    "https://note.com/mirailab0924/n/nabf14a52b399",
+    "https://note.com/minamisouken01/n/n083f3cdb1dec",
+    "https://note.com/shoetsu_baba/n/nfa8a38b096a1",
+    "https://note.com/andnext/n/nfbba09e09a12",
+    "https://note.com/wintrance_saiyou/n/nee350bd1696b",
+    "https://note.com/rm_sasaki/n/nfb43ecc9b38c",
+    "https://note.com/hirokimiyano/n/nb61c46c9e03a"
+   ]
+  },
+  {
+   "query": "site:x.com 不動産業・物品賃貸業",
+   "results": [
+    "https://x.com/allabout_news/status/2102865079675072827",
+    "https://x.com/aryarya/status/2111995010707271680",
+    "https://x.com/tospo_prores/status/2114225177932505137",
+    "https://x.com/aryarya/status/2111994665708974291?lang=bg",
+    "https://x.com/mktgxlandlord/status/1757484033037283728",
+    "https://x.com/shotarotanaka/status/2111946224274473000",
+    "https://x.com/hiroki_miyano27/status/2112067613870428274",
+    "https://x.com/hyaku_oyaji/status/1257406359085002756",
+    "https://x.com/HomelessArai/status/2077801167866970381",
+    "https://x.com/PRTIMES_MKTG/status/2105260894183993742"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 不動産業・物品賃貸業",
+   "results": [
+    "https://jp.linkedin.com/posts/tanaakk_acquisition-policy-activity-7209697922068672513-IHzV",
+    "https://jp.linkedin.com/company/hercrentalsinc",
+    "https://jp.linkedin.com/company/japan-airport-terminal-co-ltd",
+    "https://jp.linkedin.com/company/sunstate-equipment?trk=public_profile_experience-item_result-card_image-click",
+    "https://jp.linkedin.com/company/appminds",
+    "https://jp.linkedin.com/company/united-rentals/life/5c05d3f1-bcca-4036-a7f5-a82f9dec63f4",
+    "https://jp.linkedin.com/company/acme-lift-company",
+    "https://jp.linkedin.com/company/hees",
+    "https://jp.linkedin.com/company/united-rentals/life/b13cff5c-6209-40fa-9566-d5f964df0e5d",
+    "https://www.linkedin.com/in/motoe-greene-8a049517"
+   ]
+  },
+  {
+   "query": "site:facebook.com 不動産業・物品賃貸業",
+   "results": [
+    "https://www.facebook.com/e.seikatsu/",
+    "https://www.facebook.com/media/set/?set=a.854393021404231.1073741835.539855632857973&type=3",
+    "https://www.facebook.com/e.seikatsu/posts/%E4%B8%80%E9%83%BD%E4%B8%89%E7%9C%8C%E3%81%AE%E7%89%A9%E4%BB%B6%E3%82%92%E8%B1%8A%E5%AF%8C%E3%81%AB%E3%81%94%E7%94%A8%E6%84%8F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%97%E3%83%A9%E3%82%B6%E3%81%AE%E6%A5%AD%E8%80%85%E9%96%93%E6%B5%81%E9%80%9A%E3%82%B5%E3%82%A4%E3%83%88%E3%81%8C%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%B2%E4%BB%8B%E4%BC%9A%E7%A4%BE%E3%81%AE%E7%9A%86%E6%A7%98es-b2b%E8%B3%83%E8%B2%B8%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%97%E3%83%A9%E3%82%B6%E3%81%AEb2b%E6%A5%AD/2768292086571140/",
+    "https://www.facebook.com/stat.japan/posts/11%E6%9C%8821%E6%97%A5%E7%B7%8F%E5%8B%99%E7%9C%81%E7%B5%B1%E8%A8%88%E5%B1%80%E3%81%8B%E3%82%89%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%97%E3%81%BE%E3%81%99%E6%B6%88%E8%B2%BB%E8%80%85%E7%89%A9%E4%BE%A1%E6%8C%87%E6%95%B0%E5%85%A8%E5%9B%BD2025%E5%B9%B410%E6%9C%88%E5%88%86-2020%E5%B9%B4100%E7%B7%8F%E5%90%88%E6%8C%87%E6%95%B0%E3%81%AF1128%E3%81%A81%E5%B9%B4%E5%89%8D%E3%81%AB%E6%AF%94%E3%81%B930%E3%81%AE%E4%B8%8A%E6%98%87%E7%94%9F%E9%AE%AE%E9%A3%9F%E5%93%81%E3%82%92%E9%99%A4%E3%81%8F%E7%B7%8F%E5%90%88%E6%8C%87%E6%95%B0/1268949075269118/",
+    "https://www.facebook.com/100053978997192/?locale=pa_IN",
+    "https://www.facebook.com/Fleekdrive/posts/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E3%81%AF%E6%9C%AC%E9%83%A8%E5%BA%97%E8%88%97%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%BC%E4%BB%B2%E4%BB%8B%E6%A5%AD%E8%80%85%E9%A1%A7%E5%AE%A2%E3%81%AE%E9%96%93%E3%81%A7%E5%A4%9A%E3%81%8F%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E3%82%84%E3%82%8A%E5%8F%96%E3%82%8A%E3%81%97%E3%81%BE%E3%81%99%E5%BE%93%E6%A5%AD%E5%93%A1%E6%95%B0100%E5%90%8D%E4%BB%A5%E4%B8%8A%E3%81%AE%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%AB%E5%8B%A4%E5%8B%99%E3%81%99%E3%82%8B%E7%A4%BE%E5%93%A1%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%AB%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E7%AE%A1%E7%90%86%E3%81%AB/1402421548546245/",
+    "https://www.facebook.com/e.seikatsu/posts/%E5%80%8B%E4%BA%BA%E6%83%85%E5%A0%B1%E6%BC%8F%E6%B4%A9%E3%81%A7%E6%B8%88%E3%82%80%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%E3%83%BC%E6%BC%8F%E6%B4%A9%E3%81%A8%E6%A5%AD%E5%8B%99%E5%81%9C%E6%AD%A2%E3%81%AF%E5%90%8C%E3%81%98%E4%B8%80%E3%81%A4%E3%81%AE%E4%BA%8B%E4%BB%B6%E3%81%A7%E3%81%99%E3%83%BC%E3%81%93%E3%81%93%E6%95%B0%E9%80%B1%E9%96%93%E5%BD%93%E7%A4%BE%E3%81%A7%E3%81%AF%E5%A4%9A%E3%81%8F%E3%81%AE%E4%B8%8D%E5%8B%95%E7%94%A3%E4%BC%9A%E7%A4%BE%E3%81%AE%E7%9A%86%E3%81%95%E3%81%BE%E3%81%A8%E3%81%8A%E8%A9%B1%E3%81%97%E3%81%99%E3%82%8B%E6%A9%9F%E4%BC%9A%E3%82%92%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%81%9D%E3%81%AE%E4%B8%AD%E3%81%A7%E5%BC%B7%E3%81%84/1973738877373466/",
+    "https://www.facebook.com/aichiwatashinoworkstyle/posts/%E3%81%82%E3%81%84%E3%81%A1%E5%A5%B3%E6%80%A7%E8%BC%9D%E3%81%8D%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC2025%E5%B9%B4%EF%BC%98%E6%9C%88%E3%81%AB%E6%96%B0%E3%81%9F%E3%81%AB%EF%BC%93%EF%BC%93%E7%A4%BE%E8%AA%8D%E8%A8%BC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%84%9B%E7%9F%A5%E7%9C%8C%E3%81%A7%E3%81%AF%E5%A5%B3%E6%80%A7%E6%B4%BB%E8%BA%8D%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E5%8F%96%E7%B5%84%E3%82%92%E7%A9%8D%E6%A5%B5%E7%9A%84%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E4%BC%81%E6%A5%AD%E3%82%92%E3%81%82%E3%81%84%E3%81%A1%E5%A5%B3%E6%80%A7%E8%BC%9D%E3%81%8D%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC%E3%81%A8%E3%81%97%E3%81%A6%E8%AA%8D%E8%A8%BC%E3%81%97%E3%81%A6%E3%81%84/1380034740789471/",
+    "https://www.facebook.com/p/%E5%85%AC%E7%9B%8A%E7%A4%BE%E5%9B%A3%E6%B3%95%E4%BA%BA%E5%85%A8%E5%9B%BD%E5%AE%85%E5%9C%B0%E5%BB%BA%E7%89%A9%E5%8F%96%E5%BC%95%E6%A5%AD%E5%8D%94%E4%BC%9A%E9%80%A3%E5%90%88%E4%BC%9A-100076888749480/",
+    "https://www.facebook.com/suyamakensetu/"
+   ]
+  },
+  {
+   "query": "不動産業・物品賃貸業 note 社長",
+   "results": [
+    "https://note.com/masaki_yoneyama/n/nc5cf92185749",
+    "https://note.com/life_in_progress/n/n08163ddaa503",
+    "https://note.com/365days_tensyoku/n/nb7447a693b22",
+    "https://note.com/otsushacho/n/ncad63ce4cfdc",
+    "https://note.com/manager_ojisan/n/na0d3a20ddad0",
+    "https://note.com/wintrance_saiyou/n/nee350bd1696b",
+    "https://toushi.homes.co.jp/column/rental_management/knowledge/beginner1298/",
+    "https://note.com/hideji22k/n/n2d4009f5c5c1",
+    "https://www.youtube.com/watch?v=yh--Z14dwd8",
+    "https://clip-corporation.com/column/realestate/"
+   ]
+  },
+  {
+   "query": "不動産業・物品賃貸業 X 投稿",
+   "results": [
+    "https://ielove-cloud.jp/blog/entry-02058/",
+    "https://gaiax-socialmedialab.jp/post-37139/",
+    "https://snsschool.net/column/industry-realestate/x",
+    "https://e-pace.co.jp/column/realestate_x/",
+    "https://media.ina-gr.com/ja/archives/column/real-estate-sns-posting-mistakes-avoid",
+    "https://chintaidx.com/media/20231221-2/",
+    "https://iimon.co.jp/column/real-estate-twitter",
+    "https://journal.chintai.net/cool-knowhow/twitter/",
+    "https://x.com/tokyo__r",
+    "https://x.com/akachan_koushi/with_replies"
+   ]
+  },
+  {
+   "query": "real estate goods rental Japan census site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/japans-real-estate-property-market-2025-summary-2026-nakajima-magen-fuvoc",
+    "https://www.linkedin.com/pulse/9-million-seniors-greater-tokyo-inheritance-wave-could-yu-li-shein-8v2hc",
+    "https://www.linkedin.com/posts/yuka-marosek-cfa-70ab6510_jsb-studenthousing-shrinking18olddemo-activity-7397733751427952640-uRdx",
+    "https://pr.linkedin.com/company/housing-japan",
+    "https://www.linkedin.com/pulse/akiya-jiko-bukken-safety-net-housing-japans-broken-real-hoadley",
+    "https://www.linkedin.com/posts/cameenalgoel_one-of-my-recent-posts-on-real-estate-vs-activity-7349068329061339137-OyxJ",
+    "https://jp.linkedin.com/in/sandulvinsuka",
+    "https://www.linkedin.com/pulse/top-25-us-cities-small-real-estate-investors-target-section-scorese-w0jee",
+    "https://jp.linkedin.com/in/jason-lam-156088a",
+    "https://www.linkedin.com/pulse/do-lucky-surnames-expensive-real-estate-tokyo-jim-xu-mids-wv9rc"
+   ]
+  }
+ ],
+ "missing": {}
+}

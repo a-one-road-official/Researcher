@@ -1,0 +1,1348 @@
+{
+ "name": "漁業",
+ "en": "fisheries Japan census",
+ "aliases": [
+  "漁業",
+  "水産養殖",
+  "大分類B"
+ ],
+ "context": "大分類B",
+ "kind": "market",
+ "researched_at": "2026-11-05T11:45:32.385132+00:00",
+ "evidence": {
+  "企業数・事業所数": [
+   {
+    "quote": "統計局ホームページ/令和8年経済センサス‐活動調査の概要",
+    "url": "https://www.stat.go.jp/data/e-census/2026/gaiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年経済センサス‐活動調査",
+    "url": "https://www.stat.go.jp/data/e-census/2026/gaiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年経済センサス‐活動調査の概要",
+    "url": "https://www.stat.go.jp/data/e-census/2026/gaiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 企業等に関する集計 産業横断的集計4 企業産業（小分類）別企業等数，売上（収入）金額及び事業活動（22区分）別売上（収入）金額―全国 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218999",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 企業等に関する集計 産業横断的集計",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218999",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218999",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218999",
+    "pass": 3
+   },
+   {
+    "quote": "2021年経済センサス活動調査に基づく対象業者一覧｜全国商工団体連合会",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "2021年経済センサス活動調査に基づく対象業者一覧",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "本集計データは、『令和３年経済センサス‐活動調査』の結果を下記の方式で集計したものです",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "事業所に関する集計 ＞ 産業横断的集計 ＞ 事業所数、従業者数 ＞ 9-3表",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "２）C～Rのうち、従業員１～４⼈の事業所数の全体を抜き出す",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "資本金階級別に企業数をみると，「1,000万〜3,000万円未満」が67万3千企業（企業全体の41.6％）で最も多く，次いで「500万円未満」が60万3千企業（同37.3％），「500万〜1,000万円未満」が20万6千企業（同12.7％）となっており，企業全体の9割以上（91.6％）が資本金3,000万円未満の企業となっている",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金階級別に企業数を平成8年と比べると，「50億円以上」が6.7％増，「10億〜50億円未満」が7.2％増など，3,000万円以上の各階級で増加となっている",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "表II-4-1 資本金階級別企業数の推移（平成3年〜13年）",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "表II-4-2 企業産業大分類，資本金階級別企業数（平成13年）",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業横断的集計2-2 産業（大分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―都道府県，市区町村 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業横断的集計",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   },
+   {
+    "quote": "産業（大分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―都道府県，市区町村",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "平成24年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "1km2当たり事業所数（事業内容等不詳を含む）",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "1km2当たり事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "796冠婚葬祭業 事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "79A葬儀業 事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "79B結婚式場業 事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 19 産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業横断的集計 事業所数、従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス産業分類(平成26年経済センサス－基礎調査) | 統計分類・用語の検索 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "pass": 3
+   },
+   {
+    "quote": "平成26年経済センサス－基礎調査",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "pass": 3
+   },
+   {
+    "quote": "平成21年経済センサス－基礎調査",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス産業分類(平成26年経済センサス－基礎調査)",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "pass": 3
+   }
+  ],
+  "従業者数": [
+   {
+    "quote": "名称及び電話番号，所在地，経営組織，従業者数，主な事業の内容 など",
+    "url": "https://www.stat.go.jp/data/e-census/2026/gaiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218999",
+    "pass": 3
+   },
+   {
+    "quote": "事業所に関する集計 ＞ 産業横断的集計 ＞ 事業所数、従業者数 ＞ 9-3表",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "（ロ）業種別、規模別資産・負債・純資産並びに役員・従業員数",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 業種別、規模別資産・負債・純資産並びに役員・従業員数",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "員給与、役員賞与、従業員給与、従業員賞与、福利厚生費）、人員（役員数、従業員数）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "福利厚生費）、人員（役員数、従業員数）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "従業員賞与、福利厚生費）、人員（役員数、従業員数）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "役員賞与、従業員給与、従業員賞与、福利厚生費）、人員（役員数、従業員数）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "厚生費）、人員（役員数、従業員数）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 常用雇用者 正社員・正職員 総数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 常用雇用者 正社員・正職員以外 総数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 常用雇用者 正社員・正職員以外 男",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 常用雇用者 正社員・正職員以外 女",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 （再掲） うち他への出向・派遣従業者 総数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 （再掲） うち他への出向・派遣従業者 男",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 （再掲） うち他への出向・派遣従業者 女",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 うち常用雇用者 正社員・正職員以外(パート・アルバイトなど)",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 うち常用雇用者 正社員・正職員以外（パート・アルバイトなど）",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 うち常用雇用者 (再掲)パート・アルバイトなどの８時間換算雇用者数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 19 産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業横断的集計 事業所数、従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "本調査結果は、漁業経営体数、漁業就業者数、魚市場数、冷凍・冷蔵、水産加工場数等を全国、都道府県、市区町村別等に提供しており、国や地方公共団体の水産業施策や地域活性化の推進に活用されています",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00500&toukei=00500210",
+    "pass": 3
+   }
+  ],
+  "売上（収入）金額・付加価値額": [
+   {
+    "quote": "なお、「調査事項」のうち、売上（収入）金額、費用等の経理事項は、令和7年1年間の値を把握しています",
+    "url": "https://www.stat.go.jp/data/e-census/2026/gaiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 企業等に関する集計 産業横断的集計4 企業産業（小分類）別企業等数，売上（収入）金額及び事業活動（22区分）別売上（収入）金額―全国 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218999",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業（小分類）別企業等数，売上（収入）金額及び事業活動（22区分）別売上（収入）金額―全国",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218999",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1,000万円未満、1,000万円以上2,000万円未満、2,000万円以上5,000万円未満、5,000万円以上１億円未満、１億円以上5億円未満、5億円以上10億円未満、10億円以上の資本金階層別、業種別に層化し、",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "pass": 3
+   },
+   {
+    "quote": "資本金５億円未満の各階層は等確率系統抽出により抽出します",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "pass": 3
+   },
+   {
+    "quote": "資本金５億円以上は全数抽出します",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1,000万円未満、1,000万円以上1億円未満、1億円以上10億円未満、10億円以上の資本金階層別、業種別に層化し、",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1億円未満の各階層は等確率系統抽出により抽出します",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1億円以上は全数抽出します",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "pass": 3
+   },
+   {
+    "quote": "５千万円以上１億円未満 無作為抽出 約２千社 約２千社 約６４千社",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "１億円以上５億円未満 無作為抽出 約１０千社 約２６千社",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "５億円以上10 億円未満 全数 約１.５千社 約１.５千社",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "10 億円以上 全数 約５.１千社 約５.１千社",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "※ 資本金１億円以上の階層は、年次別調査、四半期別調査で同じ法人を標本とする",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "１千万円以上１億円未満 無作為抽出 約４千社 約１０千社",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "１億円以上10 億円未満 全数 約１.６千社 約１.６千社",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "10 億円以上 全数 約０.９千社 約０.９千社",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "(ﾆ) ５千万円以上１億円未満",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "資本金階級別に企業数を平成8年と比べると，「50億円以上」が6.7％増，「10億〜50億円未満」が7.2％増など，3,000万円以上の各階級で増加となっている",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業横断的集計2-2 産業（大分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―都道府県，市区町村 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   },
+   {
+    "quote": "産業（大分類），経営組織（３区分）別民営事業所数，事業従事者数，付加価値額，１事業所当たり事業従事者数，１事業所当たり付加価値額及び事業従事者１人当たり付加価値額（外国の会社及び法人でない団体を除く）―都道府県，市区町村",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり付加価値額",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   },
+   {
+    "quote": "事業従事者1人当たり付加価値額",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "人口減少問題対策や定住促進など、各種人口政策の基礎資料として利用されます",
+    "url": "https://www.stat.go.jp/data/e-census/2026/gaiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年経済センサス活動調査に基づく対象業者一覧｜全国商工団体連合会",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "2021年経済センサス活動調査に基づく対象業者一覧",
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "pass": 3
+   },
+   {
+    "quote": "資本金3,000万円以上で増加，3,000万円未満で減少",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金階級別に企業数を平成8年と比べると，「50億円以上」が6.7％増，「10億〜50億円未満」が7.2％増など，3,000万円以上の各階級で増加となっている",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方，「500万〜1,000万円未満」が8.0％減など，3,000万円未満の各階級では減少となっている",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "表II-4-1 資本金階級別企業数の推移（平成3年〜13年）",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "分離適格振替国債の分離状況並びに現在高推移",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 6月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "外国人雇用制度の実務週報＿2026年10月12日〜10月18日",
+    "url": "https://note.com/tag/%E6%BC%81%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "漁獲可能量は減少一辺倒というわけではないこと",
+    "url": "https://note.com/hiro_oaks/n/n294a679987e1",
+    "pass": 3
+   },
+   {
+    "quote": "地球温暖化や世界人口の増加などの影響を受け、水産資源の確保が難しくなっている",
+    "url": "https://note.com/hiro_oaks/n/n294a679987e1",
+    "pass": 3
+   },
+   {
+    "quote": "近年の漁獲量の減少など、漁業のニュースの中にはマイナスなものもあるのが現実です",
+    "url": "https://note.com/fukushima_tanq/n/n42f5b2c768c4",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】漁業・水産業について学びたい初心者におすすめの独学入門書8選｜教養・業界研究のための初学者に最適な良本の比較レビューまとめ｜アジアンクルーラー",
+    "url": "https://note.com/cho_cocoro_ne/n/n485102020c91",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】漁業・水産業について学びたい初心者におすすめの独学入門書8選｜教養・業界研究のための初学者に最適な良本の比較レビューまとめ",
+    "url": "https://note.com/cho_cocoro_ne/n/n485102020c91",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月21日 18:42",
+    "url": "https://note.com/cho_cocoro_ne/n/n485102020c91",
+    "pass": 3
+   },
+   {
+    "quote": "(2026年03月19日 20:22時点",
+    "url": "https://note.com/cho_cocoro_ne/n/n485102020c91",
+    "pass": 3
+   },
+   {
+    "quote": "著者はまず、日本の漁業が直面する資源減少や高齢化、国際競争の激化といった構造的課題を、漁獲量データや制度の変遷、現場の実態を通じて丁寧に整理し、「なぜ今、漁業は厳しいのか」という根本的な問いに具体的な根拠をもって迫ります",
+    "url": "https://note.com/cho_cocoro_ne/n/n485102020c91",
+    "pass": 3
+   },
+   {
+    "quote": "(2026年03月19日 20:23時点",
+    "url": "https://note.com/cho_cocoro_ne/n/n485102020c91",
+    "pass": 3
+   },
+   {
+    "quote": "著者はまず、漁獲量の長期的減少や担い手不足といった表面的な問題の背後に、資源管理の不徹底や既得権益に支えられた制度の硬直性があることを、具体的なデータや事例を通じて丁寧に解き明かします",
+    "url": "https://note.com/cho_cocoro_ne/n/n485102020c91",
+    "pass": 3
+   },
+   {
+    "quote": "(2026年03月19日 20:24時点",
+    "url": "https://note.com/cho_cocoro_ne/n/n485102020c91",
+    "pass": 3
+   },
+   {
+    "quote": "(2026年03月19日 20:25時点",
+    "url": "https://note.com/cho_cocoro_ne/n/n485102020c91",
+    "pass": 3
+   },
+   {
+    "quote": "(2026年03月19日 20:28時点",
+    "url": "https://note.com/cho_cocoro_ne/n/n485102020c91",
+    "pass": 3
+   }
+  ],
+  "資本金1億円以上の企業": [
+   {
+    "quote": "調査の目的等（法人企業統計調査） : 財務総合政策研究所",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査は、統計法に基づく基幹統計調査として「法人企業統計調査規則」（昭和45年大蔵省令第48号）に基づいて行うもので、その目的は、我が国における法人の企業活動の実態を明らかにし、あわせて法人を対象とする各種統計調査のための基礎となる法人名簿を整備することです",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査は、営利法人等を対象とする標本調査です（四半期別調査は資本金、出資金又は基金（以下、資本金という）1,000万円以上）",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1億円以上は全数抽出します",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "pass": 3
+   },
+   {
+    "quote": "本調査は、法人企業統計を作成するために行なう調査であり、わが国における法人の企業活動の実態を明",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "企業統計調査には、年度ごとに法人の確定決算の計数を調査する年次別法人企業統計調査（以下、 「年",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "）及び四半期ごとに法人の仮決算の計数を調査する四半期別法人企業統計調査（以下、",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査による法人名簿、その他財務省の資料を母集団情報とし、３（２）の属性的範囲の法",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "８ 集計事項（詳細は、別添３「法人企業統計調査集計事項一覧」を参照）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象の範囲の画定及び集計項目の表章の際に、日本標準産業分類に準拠して作成した法人企業統計調査",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査による法人名簿その他財務省の資料による全国の金融業、保険業を除く営利",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査による法人名簿その他財務省の資料による全国の金融業、保険業を営む法人",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "統計局ホームページ/平成13年事業所・企業統計調査 結果の概要 II-4 資本金階級別",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "II-4 資本金階級別",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金階級別に企業数をみると，「1,000万〜3,000万円未満」が67万3千企業（企業全体の41.6％）で最も多く，次いで「500万円未満」が60万3千企業（同37.3％），「500万〜1,000万円未満」が20万6千企業（同12.7％）となっており，企業全体の9割以上（91.6％）が資本金3,000万円未満の企業となっている",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金階級別に企業数を平成8年と比べると，「50億円以上」が6.7％増，「10億〜50億円未満」が7.2％増など，3,000万円以上の各階級で増加となっている",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "表II-4-1 資本金階級別企業数の推移（平成3年〜13年）",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "図II-4 企業の資本金階級別構成比（平成13年）",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業大分類別に企業の資本金階級別構成比をみると，「電気・ガス・熱供給・水道業」は1,000万円以上の企業が9割以上を占めているのに対し，「農林漁業」は1,000万円未満の企業が約7割を占めている",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "表II-4-2 企業産業大分類，資本金階級別企業数（平成13年）",
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査附帯調査 四半期別GDP速報（1次速報）のための一部項目早期調査",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   }
+  ],
+  "広告宣伝費・販管費": [
+   {
+    "quote": "売上高、売上原価、販売費及び一般管理費、営業利益、営業外収益、営業外費用、経",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "営業収益、金融費用、販売費及び一般管理費、営業利益、営業外収益、営業外費用、",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "営業収益、営業費用、販売費及び一般管理費、営業利益、営業外収益、営業外費用、",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "合計、受取手形割引残高、売上高、売上原価、販売費及び一般管理費、営業利益、受取",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "販売費及び一般管理費、営業利益、営業外収益、営業外費用（支払利息等、その他の営",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "漁業 の人気・新着記事まとめ - note 漁業 の人気・新着記事まとめ - note note https://note.com > tag > 漁業",
+    "url": "https://note.com/tag/%E6%BC%81%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "漁業 の実態を調べてみて気づくこと｜Hiro Oaks / 日々の雑感 漁業 の実態を調べてみて気づくこと｜Hiro Oaks / 日々の雑感 note https://note.com > 政治・経済 > 政策・法律",
+    "url": "https://note.com/hiro_oaks/n/n294a679987e1",
+    "pass": 3
+   },
+   {
+    "quote": "好きなことから仕事をつくる「 漁業 コミュニケーター」の歩み 好きなことから仕事をつくる「 漁業 コミュニケーター」の歩み note https://note.com > キャリア > キャリア全般",
+    "url": "https://note.com/fukushima_tanq/n/n42f5b2c768c4",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】 漁業 ・水産業について学びたい初心者に ... - note 【2026年最新】 漁業 ・水産業について学びたい初心者に ... - note note https://note.com > レビュー > 本レビュー",
+    "url": "https://note.com/cho_cocoro_ne/n/n485102020c91",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "食料供給や地域経済を支える漁業は、自然の恩恵を受けると同時に多くの課題も抱えています。",
+    "url": "https://note.com/tag/%E6%BC%81%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "現場の過酷な日常や経営の知恵、最新技術による変革など、海に携わる人々の多様な記録が集まっています。",
+    "url": "https://note.com/tag/%E6%BC%81%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "食料供給や地域経済を支える漁業は、自然の恩恵を受けると同時に多くの課題も抱え…",
+    "url": "https://note.com/tag/%E6%BC%81%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "リアルフィッシング詐欺｜｜｜シン小説 no.127",
+    "url": "https://note.com/tag/%E6%BC%81%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "自尊心を「社会との関わり」から見直す心理学！現役漁師と学ぶ自己肯定感が安定する心の技術とは!?",
+    "url": "https://note.com/tag/%E6%BC%81%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "B.J 離島の現役漁師 心理学 第一次産業特化型コンサルティングカウンセラー",
+    "url": "https://note.com/tag/%E6%BC%81%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "海が抱えこむ、地球温暖化の重さー未来の海の姿ー中編《30年後の海と食卓③》",
+    "url": "https://note.com/tag/%E6%BC%81%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "漁業の実態を調べてみて気づくこと｜Hiro Oaks / 日々の雑感",
+    "url": "https://note.com/hiro_oaks/n/n294a679987e1",
+    "pass": 3
+   },
+   {
+    "quote": "を受けて、日本の漁業の実態がどういうものなのかを、改めて知ってみたくなった。魚をよく食べる日本人として、魚が好きな人間として、食べることが好きな人間として、知識は深めていきたいな、と思って。",
+    "url": "https://note.com/hiro_oaks/n/n294a679987e1",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、魚の数が減っているという事実に対して、ではどれだけ捕っていいのかということについて、から見ていくと。",
+    "url": "https://note.com/hiro_oaks/n/n294a679987e1",
+    "pass": 3
+   },
+   {
+    "quote": "魚はどれだけ捕っても良いのかというとそんなことはなくて、各国ごとに漁獲可能な量が決められている。これがTAC(Total Allowable Catch)というもの。TACはいわしとかさんまとか、魚の種類ごとに分けて管理されている。",
+    "url": "https://note.com/hiro_oaks/n/n294a679987e1",
+    "pass": 3
+   },
+   {
+    "quote": "TAC がどうやって決められているのかというのは詳しくは分からなかったのだけど、毎年会議で各国ごとの割当が決まっていっていることから考えると、何かしら魚の量を見極める調査があって、そこから各国の消費実態とか利害関係とかで調整が行われているんだろうな、ということは推測できる。",
+    "url": "https://note.com/hiro_oaks/n/n294a679987e1",
+    "pass": 3
+   },
+   {
+    "quote": "で、このTACの漁獲可能量と実績が、水産庁で公開されている。",
+    "url": "https://note.com/hiro_oaks/n/n294a679987e1",
+    "pass": 3
+   },
+   {
+    "quote": "ここで、馴染みが深い魚についての動向をグラフ化してみた。",
+    "url": "https://note.com/hiro_oaks/n/n294a679987e1",
+    "pass": 3
+   },
+   {
+    "quote": "グラフ化してみることで、いろいろと見えてくるものがある。",
+    "url": "https://note.com/hiro_oaks/n/n294a679987e1",
+    "pass": 3
+   },
+   {
+    "quote": "好きなことから仕事をつくる「漁業コミュニケーター」の歩み｜ふくしま探究の種",
+    "url": "https://note.com/fukushima_tanq/n/n42f5b2c768c4",
+    "pass": 3
+   },
+   {
+    "quote": "好きなことから仕事をつくる「漁業コミュニケーター」の歩み",
+    "url": "https://note.com/fukushima_tanq/n/n42f5b2c768c4",
+    "pass": 3
+   },
+   {
+    "quote": "福島県いわき市では、高校生や大学生などを対象に、地元で暮らし、働くことを学ぶ体験プログラム「いわきアカデミア」が行われています。2025年度に新たに始まった「探究カフェ」の講師を務めたのが漁業コミュニケーターの久保奈都子さんです。",
+    "url": "https://note.com/fukushima_tanq/n/n42f5b2c768c4",
+    "pass": 3
+   },
+   {
+    "quote": "海の仕事や漁業への興味から「漁業コミュニケーター」という新たな仕事を生み出した久保さんですが、自分自身の進路・キャリアに悩んだ時期もあったといいます。なぜこの生き方を選んだのか、お話を伺いました。",
+    "url": "https://note.com/fukushima_tanq/n/n42f5b2c768c4",
+    "pass": 3
+   },
+   {
+    "quote": "「漁業コミュニケーター」という仕事を生み出す",
+    "url": "https://note.com/fukushima_tanq/n/n42f5b2c768c4",
+    "pass": 3
+   },
+   {
+    "quote": "「いわきで働く未来につながる学びと体験を」。産官学が連携し、いわきの将来を担う若い世代に地域で働く魅力を届けています。公式",
+    "url": "https://note.com/fukushima_tanq/n/n42f5b2c768c4",
+    "pass": 3
+   },
+   {
+    "quote": "久保奈都子さんは、いわき市で漁業を営む家庭に生まれました。小さな頃から海や漁はとても身近な存在でしたが、当時は「どちらかと言えば漁業からは離れたい」と思っていたといいます。だからこそ、都会に出ることを目標に、勉強に力を注いでいました。",
+    "url": "https://note.com/fukushima_tanq/n/n42f5b2c768c4",
+    "pass": 3
+   },
+   {
+    "quote": "大学を選ぶ際には「漁業に関わる進路なら納得してもらえるのでは」と考え、東京海洋大学の海洋環境学科に進学。海洋科学を専門に学び始めました。",
+    "url": "https://note.com/fukushima_tanq/n/n42f5b2c768c4",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】漁業・水産業について学びたい初心者におすすめの独学入門書8選｜教養・業界研究のための初学者に最適な良本の比較レビューまとめ｜アジアンクルーラー",
+    "url": "https://note.com/cho_cocoro_ne/n/n485102020c91",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】漁業・水産業について学びたい初心者におすすめの独学入門書8選｜教養・業界研究のための初学者に最適な良本の比較レビューまとめ",
+    "url": "https://note.com/cho_cocoro_ne/n/n485102020c91",
+    "pass": 3
+   },
+   {
+    "quote": "漁業について学びたい初心者におすすめの独学入門書8選",
+    "url": "https://note.com/cho_cocoro_ne/n/n485102020c91",
+    "pass": 3
+   },
+   {
+    "quote": "図解入門業界研究 最新漁業の動向とカラクリがよ~くわかる本",
+    "url": "https://note.com/cho_cocoro_ne/n/n485102020c91",
+    "pass": 3
+   },
+   {
+    "quote": "サカナ戦争（グローバル化する魚食と日本漁業の未来）",
+    "url": "https://note.com/cho_cocoro_ne/n/n485102020c91",
+    "pass": 3
+   },
+   {
+    "quote": "AIが変える漁業の未来 AIが変えるシリーズ",
+    "url": "https://note.com/cho_cocoro_ne/n/n485102020c91",
+    "pass": 3
+   },
+   {
+    "quote": "魚ビジネス 食べるのが好きな人から専門家まで楽しく読める魚の教養",
+    "url": "https://note.com/cho_cocoro_ne/n/n485102020c91",
+    "pass": 3
+   },
+   {
+    "quote": "図解よくわかるスマート水産業 デジタル技術が切り拓く水産ビジネス",
+    "url": "https://note.com/cho_cocoro_ne/n/n485102020c91",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "# 漁業 - Search / X # 漁業 - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E6%BC%81%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "FISHERY JOURNAL (フィッシャリージャーナル)｜ 漁業 ... - X FISHERY JOURNAL (フィッシャリージャーナル)｜ 漁業 ... - X X https://x.com > FISHERYJOURNAL",
+    "url": "https://x.com/FISHERYJOURNAL",
+    "pass": 3
+   },
+   {
+    "quote": "超リアル 漁業 ゲーム『今日船』@土曜-東2タ06 - X 超リアル 漁業 ゲーム『今日船』@土曜-東2タ06 - X X https://x.com > Kyou_Fune",
+    "url": "https://x.com/Kyou_Fune",
+    "pass": 3
+   },
+   {
+    "quote": "全国 漁業 就業者確保育成センター【漁師.jp】 - X 全国 漁業 就業者確保育成センター【漁師.jp】 - X X https://x.com > ryoushi_center",
+    "url": "https://x.com/ryoushi_center",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "一人負けのニッポン 漁業 、どう成長産業に変えていく？ 一人負けのニッポン 漁業 、どう成長産業に変えていく？ LinkedIn https://jp.linkedin.com > pulse > 一人負けのニッポン漁業...",
+    "url": "https://jp.linkedin.com/pulse/%E4%B8%80%E4%BA%BA%E8%B2%A0%E3%81%91%E3%81%AE%E3%83%8B%E3%83%83%E3%83%9D%E3%83%B3%E6%BC%81%E6%A5%AD%E3%81%A9%E3%81%86%E6%88%90%E9%95%B7%E7%94%A3%E6%A5%AD%E3%81%AB%E5%A4%89%E3%81%88%E3%81%A6%E3%81%84%E3%81%8F-satoshi-ebitani",
+    "pass": 3
+   },
+   {
+    "quote": "漁業 および水産養殖用ネット Market」の拡大方法 - LinkedIn 漁業 および水産養殖用ネット Market」の拡大方法 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > 漁業および水産養殖用...",
+    "url": "https://jp.linkedin.com/pulse/%E6%BC%81%E6%A5%AD%E3%81%8A%E3%82%88%E3%81%B3%E6%B0%B4%E7%94%A3%E9%A4%8A%E6%AE%96%E7%94%A8%E3%83%8D%E3%83%83%E3%83%88-market%E3%81%AE%E6%8B%A1%E5%A4%A7%E6%96%B9%E6%B3%95%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%82%8Bcagr-126%E3%81%A82026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%BD%B1%E9%9F%BF%E8%A6%81%E5%9B%A0-pzque",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "漁業 ブ コミュニティ | Facebook 漁業 ブ コミュニティ | Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/681125667272132/members/",
+    "pass": 3
+   },
+   {
+    "quote": "【令和の時代は 漁業 ・養殖業！】 漁業 体験研修で水産業の仕事 ... 【令和の時代は 漁業 ・養殖業！】 漁業 体験研修で水産業の仕事 ... Facebook https://www.facebook.com > aichiosakana > posts > 令和...",
+    "url": "https://www.facebook.com/aichiosakana/posts/%E4%BB%A4%E5%92%8C%E3%81%AE%E6%99%82%E4%BB%A3%E3%81%AF%E6%BC%81%E6%A5%AD%E9%A4%8A%E6%AE%96%E6%A5%AD%E6%BC%81%E6%A5%AD%E4%BD%93%E9%A8%93%E7%A0%94%E4%BF%AE%E3%81%A7%E6%B0%B4%E7%94%A3%E6%A5%AD%E3%81%AE%E4%BB%95%E4%BA%8B%E3%82%92%E7%9F%A5%E3%82%8D%E3%81%86%E9%87%A3%E3%82%8A%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%93%E3%81%A0%E3%81%91%E3%81%A9%E6%BC%81%E6%A5%AD%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%A3%E3%81%A6%E3%81%A9%E3%82%93%E3%81%AA%E6%84%9F%E3%81%98%E3%81%AA%E3%82%93%E3%81%A0%E3%82%8D%E3%81%86%E6%B5%B7%E3%82%92%E7%9B%B8%E6%89%8B%E3%81%AB%E3%81%97%E3%81%9F%E3%82%8A%E9%AD%9A%E3%82%92%E8%82%B2%E3%81%A6%E3%82%8B%E4%BB%95%E4%BA%8B%E3%81%A3%E3%81%A6%E6%A5%BD%E3%81%97%E3%81%9D%E3%81%86%E3%81%A0%E3%82%88%E3%81%AA%E3%81%82/1899421124320857/",
+    "pass": 3
+   },
+   {
+    "quote": "きょうは「 漁業 法記念日」。昭和24年、現行の ... - Facebook きょうは「 漁業 法記念日」。昭和24年、現行の ... - Facebook Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/NHKarchives/videos/%E3%81%8D%E3%82%87%E3%81%86%E3%81%AF%E6%BC%81%E6%A5%AD%E6%B3%95%E8%A8%98%E5%BF%B5%E6%97%A5%E6%98%AD%E5%92%8C24%E5%B9%B4%E7%8F%BE%E8%A1%8C%E3%81%AE%E6%BC%81%E6%A5%AD%E6%B3%95%E3%81%8C%E6%96%BD%E8%A1%8C%E3%81%95%E3%82%8C%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%81%E6%A5%AD%E4%BD%93%E5%88%B6%E3%81%AF%E5%A4%A7%E3%81%8D%E3%81%8F%E6%94%B9%E9%9D%A9%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E6%98%A0%E5%83%8F%E3%81%AF%E6%98%AD%E5%92%8C25%E5%B9%B4%E3%81%AE%E5%8D%83%E8%91%89%E7%9C%8C%E5%BD%93%E6%99%82%E3%81%AE%E6%BC%81%E6%A5%AD%E9%A2%A8%E6%99%AF%E3%81%A7%E3%81%99%E3%81%93%E3%81%AE%E5%B9%B4%E3%81%AF%E4%B8%8D%E6%BC%81%E3%81%8C%E7%B6%9A%E3%81%8D%E4%BA%BA%E3%80%85%E3%81%AF/4366627516917231/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218999",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://faq-e-census-st.dga.jp/faq_detail.html?id=345&page=1000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/index-2.html",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000490689.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/kigyo/kigyo_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumierre.jp/research/webmedia/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grill.co.jp/marketing-log/17487/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keiei.freee.co.jp/articles/p0100160/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00500&toukei=00500210",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E6%BC%81%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiro_oaks/n/n294a679987e1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fukushima_tanq/n/n42f5b2c768c4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cho_cocoro_ne/n/n485102020c91",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/%E6%BC%81%E6%A5%AD",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/FISHERYJOURNAL",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Kyou_Fune",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ryoushi_center",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E4%B8%80%E4%BA%BA%E8%B2%A0%E3%81%91%E3%81%AE%E3%83%8B%E3%83%83%E3%83%9D%E3%83%B3%E6%BC%81%E6%A5%AD%E3%81%A9%E3%81%86%E6%88%90%E9%95%B7%E7%94%A3%E6%A5%AD%E3%81%AB%E5%A4%89%E3%81%88%E3%81%A6%E3%81%84%E3%81%8F-satoshi-ebitani",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E6%BC%81%E6%A5%AD%E3%81%8A%E3%82%88%E3%81%B3%E6%B0%B4%E7%94%A3%E9%A4%8A%E6%AE%96%E7%94%A8%E3%83%8D%E3%83%83%E3%83%88-market%E3%81%AE%E6%8B%A1%E5%A4%A7%E6%96%B9%E6%B3%95%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%82%8Bcagr-126%E3%81%A82026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%BD%B1%E9%9F%BF%E8%A6%81%E5%9B%A0-pzque",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/681125667272132/members/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/aichiosakana/posts/%E4%BB%A4%E5%92%8C%E3%81%AE%E6%99%82%E4%BB%A3%E3%81%AF%E6%BC%81%E6%A5%AD%E9%A4%8A%E6%AE%96%E6%A5%AD%E6%BC%81%E6%A5%AD%E4%BD%93%E9%A8%93%E7%A0%94%E4%BF%AE%E3%81%A7%E6%B0%B4%E7%94%A3%E6%A5%AD%E3%81%AE%E4%BB%95%E4%BA%8B%E3%82%92%E7%9F%A5%E3%82%8D%E3%81%86%E9%87%A3%E3%82%8A%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%93%E3%81%A0%E3%81%91%E3%81%A9%E6%BC%81%E6%A5%AD%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%A3%E3%81%A6%E3%81%A9%E3%82%93%E3%81%AA%E6%84%9F%E3%81%98%E3%81%AA%E3%82%93%E3%81%A0%E3%82%8D%E3%81%86%E6%B5%B7%E3%82%92%E7%9B%B8%E6%89%8B%E3%81%AB%E3%81%97%E3%81%9F%E3%82%8A%E9%AD%9A%E3%82%92%E8%82%B2%E3%81%A6%E3%82%8B%E4%BB%95%E4%BA%8B%E3%81%A3%E3%81%A6%E6%A5%BD%E3%81%97%E3%81%9D%E3%81%86%E3%81%A0%E3%82%88%E3%81%AA%E3%81%82/1899421124320857/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NHKarchives/videos/%E3%81%8D%E3%82%87%E3%81%86%E3%81%AF%E6%BC%81%E6%A5%AD%E6%B3%95%E8%A8%98%E5%BF%B5%E6%97%A5%E6%98%AD%E5%92%8C24%E5%B9%B4%E7%8F%BE%E8%A1%8C%E3%81%AE%E6%BC%81%E6%A5%AD%E6%B3%95%E3%81%8C%E6%96%BD%E8%A1%8C%E3%81%95%E3%82%8C%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%81%E6%A5%AD%E4%BD%93%E5%88%B6%E3%81%AF%E5%A4%A7%E3%81%8D%E3%81%8F%E6%94%B9%E9%9D%A9%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E6%98%A0%E5%83%8F%E3%81%AF%E6%98%AD%E5%92%8C25%E5%B9%B4%E3%81%AE%E5%8D%83%E8%91%89%E7%9C%8C%E5%BD%93%E6%99%82%E3%81%AE%E6%BC%81%E6%A5%AD%E9%A2%A8%E6%99%AF%E3%81%A7%E3%81%99%E3%81%93%E3%81%AE%E5%B9%B4%E3%81%AF%E4%B8%8D%E6%BC%81%E3%81%8C%E7%B6%9A%E3%81%8D%E4%BA%BA%E3%80%85%E3%81%AF/4366627516917231/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tag/%E6%BC%81%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fukushima_tanq/n/n42f5b2c768c4",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済センサス 活動調査 漁業 企業数 売上（収入）金額",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2026/gaiyo.html",
+    "https://www.e-stat.go.jp/dbview?sid=0003218999",
+    "https://faq-e-census-st.dga.jp/faq_detail.html?id=345&page=1000",
+    "https://www.e-census2026.go.jp/document/pdf/sheet_02.pdf",
+    "https://www.meti.go.jp/press/2023/06/20230627001/20230627001.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://ftf-office.com/2026/04/08/e-census2026/",
+    "https://www.city.kitakyushu.lg.jp/files/001089520.pdf",
+    "https://stats47.jp/survey/economic-census-activity",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004006334"
+   ]
+  },
+  {
+   "query": "経済センサス 2021 産業大分類 漁業 従業者数",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "https://www.zenshoren.or.jp/2021census-gyosya",
+    "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "https://www.maff.go.jp/j/tokei/census/shuraku_data/2020/sd/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "https://www.e-census-st.go.jp/bunrui/",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0004005688"
+   ]
+  },
+  {
+   "query": "法人企業統計 漁業 資本金1億円以上 社数",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/outline.htm",
+    "https://www.e-stat.go.jp/surveyplan/p00350600001/download/sp001",
+    "https://www.soumu.go.jp/main_content/000490689.pdf",
+    "https://www.stat.go.jp/data/jigyou/2001/kakuhou/12.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/kigyo/kigyo_1.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://www.nta.go.jp/publication/statistics/kokuzeicho/kaishahyohon1998/03.htm",
+    "https://www.city.yokohama.lg.jp/city-info/yokohamashi/tokei-chosa/portal/kekka/jigyosho/h13/kekka.html",
+    "https://www.cao.go.jp/zei-cho/history/1996-2009/etc/1999/zei_d_09c.html",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm"
+   ]
+  },
+  {
+   "query": "漁業 広告宣伝費 売上高比率 業種別",
+   "results": [
+    "https://hansokunodaigaku.com/koukoku_post/1414/",
+    "https://lumierre.jp/research/webmedia/",
+    "https://grill.co.jp/marketing-log/17487/",
+    "https://hojokin-hub.ai/columns/ad-spend-ratio-by-industry",
+    "https://keiei.freee.co.jp/articles/p0100160",
+    "https://www.tsuhan-marketing.com/blog/marketing/adcosts_suitableline",
+    "https://kotouri.com/marketing/ad/budget",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/24sendenkoho-houkokusho",
+    "https://megdai.jp/markebatake/ads/6619/"
+   ]
+  },
+  {
+   "query": "e-Stat 経済センサス 漁業 付加価値額",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0003218722",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00500&toukei=00500210",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001056219&toukei_kind=6&tclass1=000001061099&tclass2=000001061426&tclass3val=0&statdisp_id=0003090137",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.stat.go.jp/info/today/122.htm",
+    "https://www.stat.go.jp/data/e-census/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 漁業",
+   "results": [
+    "https://note.com/tag/%E6%BC%81%E6%A5%AD",
+    "https://note.com/hiro_oaks/n/n294a679987e1",
+    "https://note.com/fukushima_tanq/n/n42f5b2c768c4",
+    "https://note.com/cho_cocoro_ne/n/n485102020c91",
+    "https://note.com/shirarika_inc/n/nb8613fa04436",
+    "https://note.com/mudnesspartners/n/n059350c67541",
+    "https://note.com/furuno_umi_note/n/n1d85bc76ffc8",
+    "https://note.com/imacoco_12/n/neb338b4be944",
+    "https://note.com/takanagatomo/n/n76d9401a8e6c",
+    "https://note.com/mariiis_mk/n/n66678bff9c7c"
+   ]
+  },
+  {
+   "query": "site:x.com 漁業",
+   "results": [
+    "https://x.com/hashtag/%E6%BC%81%E6%A5%AD",
+    "https://x.com/FISHERYJOURNAL",
+    "https://x.com/Kyou_Fune",
+    "https://x.com/ryoushi_center",
+    "https://x.com/KGK62098637",
+    "https://x.com/ohchan_sub/status/2107116957141172287",
+    "https://x.com/hashtag/%E6%BC%81%E6%A5%AD%E8%80%85",
+    "https://x.com/osakanajournal/article/2034594176265076841",
+    "https://x.com/MofaJapan_FD/status/1310807200491683841",
+    "https://x.com/iwate_iftc/status/2094311497921077676"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 漁業",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E4%B8%80%E4%BA%BA%E8%B2%A0%E3%81%91%E3%81%AE%E3%83%8B%E3%83%83%E3%83%9D%E3%83%B3%E6%BC%81%E6%A5%AD%E3%81%A9%E3%81%86%E6%88%90%E9%95%B7%E7%94%A3%E6%A5%AD%E3%81%AB%E5%A4%89%E3%81%88%E3%81%A6%E3%81%84%E3%81%8F-satoshi-ebitani",
+    "https://jp.linkedin.com/company/trident-seafoods/?trk=organization-update_share-update_actor-text",
+    "https://jp.linkedin.com/pulse/%E6%BC%81%E6%A5%AD%E3%81%8A%E3%82%88%E3%81%B3%E6%B0%B4%E7%94%A3%E9%A4%8A%E6%AE%96%E7%94%A8%E3%83%8D%E3%83%83%E3%83%88-market%E3%81%AE%E6%8B%A1%E5%A4%A7%E6%96%B9%E6%B3%95%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%82%8Bcagr-126%E3%81%A82026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%BD%B1%E9%9F%BF%E8%A6%81%E5%9B%A0-pzque",
+    "https://www.linkedin.com/posts/kristin-iglum-5614784_%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC%E3%81%AE%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%8D%E3%82%B7%E3%83%BC%E3%83%B4%E3%82%A7%E3%83%83%E3%83%88%E3%82%BB%E3%83%B3%E3%83%8D%E3%82%B9%E6%BC%81%E6%A5%AD%E6%B5%B7%E6%B4%8B%E6%94%BF%E7%AD%96%E5%A4%A7%E8%87%A3%E3%82%92%E6%97%A5%E6%9C%AC%E3%81%AB%E8%BF%8E%E3%81%88%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%A6-activity-7204264111734423553-KxXM",
+    "https://jp.linkedin.com/company/westwardseafoods?trk=ppro_cprof",
+    "https://jp.linkedin.com/pulse/%E6%BC%81%E6%A5%AD%E7%AE%A1%E7%90%86-market-growth-study%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AEcagr-115%E3%81%A7%E3%81%AE%E5%B0%86%E6%9D%A5%E6%88%90%E9%95%B7%E3%82%92%E4%BA%88%E6%B8%AC%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-ftiee",
+    "https://jp.linkedin.com/company/silver-bay-seafoods",
+    "https://www.linkedin.com/posts/imron-natsir-0aba27226_lpksopumi-%E5%8C%97%E6%B5%B7%E9%81%93-%E3%83%9B%E3%82%BF%E3%83%86-activity-7522923426517495808-y70Z",
+    "https://jp.linkedin.com/pulse/edition-1-what-fisheries-engineering-why-does-future-need-noorjahan-sozlc?tl=ja",
+    "https://uk.linkedin.com/in/joanna-holbrook-3980988"
+   ]
+  },
+  {
+   "query": "site:facebook.com 漁業",
+   "results": [
+    "https://www.facebook.com/groups/681125667272132/members/",
+    "https://www.facebook.com/aichiosakana/posts/%E4%BB%A4%E5%92%8C%E3%81%AE%E6%99%82%E4%BB%A3%E3%81%AF%E6%BC%81%E6%A5%AD%E9%A4%8A%E6%AE%96%E6%A5%AD%E6%BC%81%E6%A5%AD%E4%BD%93%E9%A8%93%E7%A0%94%E4%BF%AE%E3%81%A7%E6%B0%B4%E7%94%A3%E6%A5%AD%E3%81%AE%E4%BB%95%E4%BA%8B%E3%82%92%E7%9F%A5%E3%82%8D%E3%81%86%E9%87%A3%E3%82%8A%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%93%E3%81%A0%E3%81%91%E3%81%A9%E6%BC%81%E6%A5%AD%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%A3%E3%81%A6%E3%81%A9%E3%82%93%E3%81%AA%E6%84%9F%E3%81%98%E3%81%AA%E3%82%93%E3%81%A0%E3%82%8D%E3%81%86%E6%B5%B7%E3%82%92%E7%9B%B8%E6%89%8B%E3%81%AB%E3%81%97%E3%81%9F%E3%82%8A%E9%AD%9A%E3%82%92%E8%82%B2%E3%81%A6%E3%82%8B%E4%BB%95%E4%BA%8B%E3%81%A3%E3%81%A6%E6%A5%BD%E3%81%97%E3%81%9D%E3%81%86%E3%81%A0%E3%82%88%E3%81%AA%E3%81%82/1899421124320857/",
+    "https://www.facebook.com/suisanjapan.jfa/posts/%E9%87%A3%E3%81%A3%E3%81%A6%E9%A3%9F%E3%81%B9%E3%81%A6%E7%99%92%E3%81%95%E3%82%8C%E3%82%8B-%E6%B5%B7%E6%A5%AD%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E2%91%A3%E9%87%A3%E3%82%8A%E3%82%92%E6%A5%BD%E3%81%97%E3%82%93%E3%81%A0%E5%BE%8C%E3%81%AF%E6%96%B0%E9%AE%AE%E3%81%AA%E6%B5%B7%E3%81%AE%E5%B9%B8%E3%82%92%E5%A0%AA%E8%83%BD%EF%B8%8F-%E7%B6%B2%E4%BB%A3%E5%91%A8%E8%BE%BA%E3%81%AB%E3%81%AF%E5%AE%9A%E7%BD%AE%E7%B6%B2%E6%BC%81%E6%A5%AD%E3%82%92%E5%96%B6%E3%82%80%E6%BC%81%E6%A5%AD%E8%80%85%E3%81%8C%E6%89%8B%E3%81%8C%E3%81%91%E3%82%8B%E9%A3%B2%E9%A3%9F%E5%BA%97%E3%82%82%E3%81%82%E3%82%8A-%E6%B0%B4%E6%8F%9A%E3%81%92%E3%81%95%E3%82%8C%E3%81%9F%E3%81%B0%E3%81%8B%E3%82%8A%E3%81%AE%E9%AD%9A%E3%82%92%E5%91%B3/1336619435268990/",
+    "https://www.facebook.com/NHKarchives/videos/%E3%81%8D%E3%82%87%E3%81%86%E3%81%AF%E6%BC%81%E6%A5%AD%E6%B3%95%E8%A8%98%E5%BF%B5%E6%97%A5%E6%98%AD%E5%92%8C24%E5%B9%B4%E7%8F%BE%E8%A1%8C%E3%81%AE%E6%BC%81%E6%A5%AD%E6%B3%95%E3%81%8C%E6%96%BD%E8%A1%8C%E3%81%95%E3%82%8C%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%81%E6%A5%AD%E4%BD%93%E5%88%B6%E3%81%AF%E5%A4%A7%E3%81%8D%E3%81%8F%E6%94%B9%E9%9D%A9%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E6%98%A0%E5%83%8F%E3%81%AF%E6%98%AD%E5%92%8C25%E5%B9%B4%E3%81%AE%E5%8D%83%E8%91%89%E7%9C%8C%E5%BD%93%E6%99%82%E3%81%AE%E6%BC%81%E6%A5%AD%E9%A2%A8%E6%99%AF%E3%81%A7%E3%81%99%E3%81%93%E3%81%AE%E5%B9%B4%E3%81%AF%E4%B8%8D%E6%BC%81%E3%81%8C%E7%B6%9A%E3%81%8D%E4%BA%BA%E3%80%85%E3%81%AF/4366627516917231/",
+    "https://www.facebook.com/yasushi.kaneko.7/posts/%E6%98%A8%E6%97%A5%E3%81%AF%E7%A7%81%E3%81%8C%E4%BC%9A%E9%95%B7%E3%82%92%E5%8B%99%E3%82%81%E3%82%8B%E8%87%AA%E6%B0%91%E5%85%9A-%E9%A4%8A%E6%AE%96%E6%BC%81%E6%A5%AD%E6%87%87%E8%A9%B1%E4%BC%9A%E6%BC%81%E5%A0%B4%E9%A4%8A%E6%AE%96%E7%94%9F%E7%B0%80%E3%83%96%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%91%E3%83%81%E8%A6%96%E5%AF%9F%E6%84%8F%E8%A6%8B%E4%BA%A4%E6%8F%9B%E5%BE%B3%E5%B3%B6%E7%9C%8C-%E9%B3%B4%E9%96%80%E5%B8%82%E5%8C%97%E7%81%98%E6%BC%81%E6%A5%AD%E5%8D%94%E5%90%8C%E7%B5%84%E5%90%88%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E6%9D%A5%E3%81%BE%E3%81%97%E3%81%9F%E9%A4%8A%E6%AE%96%E6%BC%81%E6%A5%AD%E7%8F%BE%E5%A0%B4%E3%81%A7%E3%81%AE%E6%B0%97%E5%80%99%E5%A4%89%E5%8B%95%E3%81%AB%E3%82%88%E3%82%8B%E6%BC%81%E5%A0%B4/28745056811818090/",
+    "https://www.facebook.com/suisanjapan.jfa/posts/-10%E6%9C%88%E3%81%AF%E6%BC%81%E6%A5%AD%E3%81%AE%E5%AE%89%E5%85%A8%E6%9C%88%E9%96%93%E3%81%A7%E3%81%99-%E6%BC%81%E6%A5%AD%E8%80%85%E6%BC%81%E6%A5%AD%E9%96%A2%E4%BF%82%E3%81%AE%E3%81%BF%E3%81%AA%E3%81%95%E3%81%BE%E3%81%84%E3%81%A4%E3%82%82%E3%81%8A%E7%96%B2%E3%82%8C%E6%A7%98%E3%81%A7%E3%81%99%E6%BC%81%E6%A5%AD%E3%81%AF%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AE%E9%A3%9F%E5%8D%93%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E5%A4%A7%E5%88%87%E3%81%AA%E3%81%8A%E4%BB%95%E4%BA%8B%E3%81%A7%E3%81%99%E3%81%9D%E3%81%AE%E4%B8%80%E6%96%B9%E3%81%A7%E6%B5%B7%E3%81%AE%E4%B8%8A%E3%81%A7%E3%81%AF%E3%81%BB%E3%82%93%E3%81%AE%E5%B0%91%E3%81%97%E3%81%AE%E6%B2%B9%E6%96%AD%E3%81%8C%E5%A4%A7%E3%81%8D%E3%81%AA%E4%BA%8B/1426458886285044/",
+    "https://www.facebook.com/ryoushijp/videos/%E6%86%A7%E3%82%8C%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%9B%E3%81%AA%E3%81%84%E5%A4%A2%E3%82%92%E3%82%AB%E3%82%BF%E3%83%81%E3%81%AB%E3%81%97%E3%81%9F%E6%BC%81%E5%B8%AB%E3%81%9F%E3%81%A1-%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B5%B7%E3%81%A7%E7%94%9F%E3%81%8D%E3%82%8B%E6%BC%81%E5%B8%AB%E3%81%9F%E3%81%A1%E3%81%AE%E3%81%84%E3%81%BE%E3%82%92%E8%BF%BD%E3%81%A3%E3%81%A6%E9%AB%98%E7%9F%A5%E3%81%AE%E3%82%AB%E3%83%84%E3%82%AA%E4%B8%80%E6%9C%AC%E9%87%A3%E3%82%8A%E6%B2%96%E5%B3%B6%E4%BC%8A%E5%B9%B3%E5%B1%8B%E5%B3%B6-%E6%B5%B7%E3%81%A8%E5%90%91%E3%81%8D%E5%90%88%E3%81%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%92%E3%81%BE%E3%81%9A%E3%81%AF%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/897064120030578/",
+    "https://www.facebook.com/p/%E4%B8%80%E8%88%AC%E7%A4%BE%E5%9B%A3%E6%B3%95%E4%BA%BA-%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%AE%9A%E7%BD%AE%E6%BC%81%E6%A5%AD%E5%8D%94%E4%BC%9A-100057086004464/",
+    "https://www.facebook.com/fisheryTW/",
+    "https://www.facebook.com/frs.gov/"
+   ]
+  },
+  {
+   "query": "漁業 note 社長",
+   "results": [
+    "https://note.com/tag/%E6%BC%81%E6%A5%AD",
+    "https://note.com/fukushima_tanq/n/n42f5b2c768c4",
+    "https://note.com/ooji/n/n777089a72215",
+    "https://note.com/fishmenschool/n/n7722723c4d5e",
+    "https://note.com/crafty_official/n/nc0ead3d0d963",
+    "https://ryoushi.jp/staff-blog/8956/",
+    "https://note.com/musumechan/n/nfe3ea2f52225",
+    "https://www.jfmbk.org/magazine/detail/01_201228_01.html",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史"
+   ]
+  },
+  {
+   "query": "漁業 X 投稿",
+   "results": [
+    "https://www.pref.ishikawa.lg.jp/nousei/matsuri/documents/unyopolicy_x_insta.pdf",
+    "https://x.com/balistoides3373",
+    "https://www.youtube.com/watch?v=ig1KQtb7Vbg",
+    "https://bizpageplus.livedoor.com/blog/vyy2urs78c80",
+    "https://tofu.misosil.com/influencers/Fishing-industry/",
+    "http://fsiwakigyokyo.jf-net.ne.jp/author/jfuser/",
+    "https://www.jfa.maff.go.jp/",
+    "https://mainichi.jp/articles/20230921/k00/00m/040/270000c",
+    "https://x.com/F1SH_rhythm/status/2050416003679662589",
+    "https://x.com/kakakaitokpj"
+   ]
+  },
+  {
+   "query": "fisheries Japan census site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/navigating-challenges-perus-informal-economy-fishing-industry-rgrde",
+    "https://lc.linkedin.com/jobs/view/contract-award-notice-for-consultancy-services-census-coordinator-%E2%80%93-census-of-agriculture-and-fisheries-at-government-of-saint-lucia-4437172046",
+    "https://uk.linkedin.com/in/julia-roessger-marine-scientist/en",
+    "https://in.linkedin.com/in/anandaraj-selvam-6556a837",
+    "https://hk.linkedin.com/in/ko-tsang-826630151",
+    "https://www.linkedin.com/posts/andrew-muhammad-utia_analysis-of-japanese-beef-imports-exploring-activity-7396205130888609792-TtUW",
+    "https://www.linkedin.com/in/reid-swanson-404a8548",
+    "https://jp.linkedin.com/in/erwinbrunio",
+    "https://mt.linkedin.com/in/daniel-sultana-983b542a1",
+    "https://lc.linkedin.com/jobs/view/contract-award-notice-for-consultancy-services-census-coordinator-%E2%80%93-census-of-agriculture-and-fisheries-at-government-of-saint-lucia-4445333164"
+   ]
+  }
+ ],
+ "missing": {}
+}
