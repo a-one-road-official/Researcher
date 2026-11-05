@@ -1,0 +1,757 @@
+{
+ "name": "日本商工会議所 人手不足 調査 受注機会の損失 業種別 規模別",
+ "en": "JCCI labor shortage survey lost orders by industry size",
+ "aliases": [
+  "日本商工会議所 人手不足等への対応に関する調査 受注",
+  "人手不足 受注を見送った 製造業 割合 site:jcci.or.jp",
+  "人手不足 機会損失 中小製造業 調査 filetype:pdf"
+ ],
+ "context": "一次・人手と仕事",
+ "kind": "market",
+ "researched_at": "2026-11-05T04:34:32.898536+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "100～299人 30～99人 10～29人 9人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "• 人手不足を感じている企業の割合は世界平均で７割を超えるなど、世界的に人手不足が課題となっている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 生産年齢人口は、2020年から2043年にかけて約1,500万人（7,509万人→5,969万人）減少する可能性",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300人未満 300～999人 1000～4999人 5000人以上",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "EU（27か国）において人手不足を感じている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：総務省「住民基本台帳人口移動報告（令和６年）」を基に中小企業庁が作成 8",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "※大企業：資本金10億円以上、中堅企業：資本金１億円以上10億円未満、中小企業：資本金２千万円以上１億円未満",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上100億円以上 約4,500者",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上10～100億円未満 約９万者",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上１～10億円未満 約60万者",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上1,000万～１億円未満 約140万者",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上1,000万円未満 約140万者",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• その際、売上高１億円～10億円（売上高10億円を目指す企業）／1,000万円～１億円（売上高１億円を目指す企業）に分",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 売上高10億円を目指す企業（従業員数の目安：～約50名程度）は、複数の人材確保が必要となる一方で、大企業",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 売上高1億円を目指す企業（従業員数の目安：～約10名程度）は、人材確保のノウハウや、業務プロセスの見直",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "省力化投資を促進する支援策（中小企業省力化投資補助事業 3,000億円）",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50万円×グループ構成員数",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合わせて3,000万円まで",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(c)事務費・専門家費：200万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１機能：～50万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "※大企業：資本金10億円以上、中堅企業：資本金１億円以上10億円未満、中小企業：資本金２千万円以上１億円未満",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上1,000万円未満 約140万者",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• その際、売上高１億円～10億円（売上高10億円を目指す企業）／1,000万円～１億円（売上高１億円を目指す企業）に分",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50万円×グループ構成員数",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合わせて3,000万円まで",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(c)事務費・専門家費：200万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１機能：～50万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２機能以上：～350万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～350万円 5万円～150万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～50万円以下：3/4",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50万円～350万円：2/3",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5万円～150万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "150万円～450万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "補助上限 600万円 700万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "※ソフトウェア投資比率＝ソフトウェア投資額÷設備投資額×100",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "“人手不足を感じている企業”の割合推移 “人手不足を感じている企業” の国別割合比較",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：ManpowerGroup「2025 Global Talent Shortage 」を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査期間：2024年10月1日～10月31日",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中長期的には、生産年齢人口は減少の可能性",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 生産年齢人口は、2020年から2043年にかけて約1,500万人（7,509万人→5,969万人）減少する可能性",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2018年 2019年 2020年 2021年 2022年 2023年 2024年 2025年",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：中小企業庁「中小企業白書2025」を基に作成 出典：European Commission「Eurobarometer（2023） - SMEs and skills",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Economic Trends（2025）」を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別転入超過数（2023年、2024年）",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：日本商工会議所・東京商工会議所「「人手不足等への対応に関する調査」結果概要」（2024年９月）を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 中小企業では、設備投資額総額に占めるソフトウェア投資額の比率も、大企業と比較すると低い水準で推移",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル化の取組段階 ソフトウェア投資比率の推移（企業規模別）",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：中小企業庁「中小企業白書2025」を基に作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※能力開発費が実質GDPに占める割合の５か年平均の推移",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2016年）",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• また、経営戦略と人材戦略を「紐づけた」企業は、「紐づけなかった」企業と比較して、売上高増加率の水準が高い",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：中小企業庁 「中小企業白書2025」を基に作成 出典：中小企業庁 「中小企業白書2023」を基に作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "15出典：厚生労働省「労働時間制度等に関する実態調査（個人調査） 2024年度」を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "• 人手不足を感じている企業の割合は世界平均で７割を超えるなど、世界的に人手不足が課題となっている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "“人手不足を感じている企業”の割合推移 “人手不足を感じている企業” の国別割合比較",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大企業と比較して中堅・中小企業の人手不足感が強い",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 雇用人員DIによれば、大企業と比較して中堅・中小企業の人手不足感が強い",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 中小企業の従業員数過不足DIを見ると、全ての業種において人手不足感が強まっている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 日本の中小企業は、世界の国々と比較しても人手不足感の強さが見られる",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※人手不足の過不足状況について、「不足」または「やや不足」と",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "EU（27か国）において人手不足を感じている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "首都圏への人口流出が、地方の人手不足に影響",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 人手不足への対策としては採用活動の強化が最多となっており、事業のスリム化、多様な人材の活用、従業員の能力",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：日本商工会議所・東京商工会議所「「人手不足等への対応に関する調査」結果概要」（2024年９月）を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業のスリム化、無駄の排除、外注の活用",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の人手不足への対応は採用活動が中心",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 人手不足や人材育成に対する支援機関のノウハウは必ずしも十分ではなく、機関によってばらつきがある",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 人手不足解消に効果のある「省力化投資」を後押しする補助金",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://archive.jcci.or.jp/Laborshortagesurvey2018.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUA055T90V00C24A9000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cci-lobo.jcci.or.jp/wp-content/uploads/2024/02/LOBO202402.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/002/s001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.koyama-ac.com/files/libs/77/202410241553258509.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jcci.or.jp/news/research/others/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.infoseek.co.jp/article/mynavi_3236879/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1201053",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ab.jcci.or.jp/article/89792/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://n-cci.or.jp/survey2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/soukai/043/dl/s002.pdf?o=6896&o=6896/",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maido.or.jp/wp/wp-content/uploads/2025/07/a4ad1d9357791881e295dc7253c1071e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/japan-firms-face-serious-labour-crunch-aging-population-survey-shows-2025-01-15/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jil.go.jp/english/jli/documents/2025/052-03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.facebook.com/thejapantimes/posts/a-severe-labor-shortage-remains-the-main-reason-japanese-companies-hire-foreign-/1485299786968938/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://asia.nikkei.com/spotlight/datawatch/japan-s-official-statistics-miss-the-depth-of-the-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://izanau.com/article/view/industries-with-the-highest-labor-shortages-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japantimes.co.jp/business/2026/10/08/japan-labor-shortage-business-failure-record-high/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本商工会議所 人手不足 調査 受注機会の損失 業種別 規模別",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://archive.jcci.or.jp/Laborshortagesurvey2018.pdf",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.nikkei.com/article/DGXZQOUA055T90V00C24A9000000/",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260319/004.pdf",
+    "https://cci-lobo.jcci.or.jp/wp-content/uploads/2024/02/LOBO202402.pdf",
+    "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "https://jcci-gw.jcci.or.jp/research/archive.html"
+   ]
+  },
+  {
+   "query": "日本商工会議所 人手不足 調査 受注機会の損失 業種別 規模別 推移",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.nikkei.com/article/DGXZQOUA055T90V00C24A9000000/",
+    "https://cci-lobo.jcci.or.jp/wp-content/uploads/2024/02/LOBO202402.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_3.html",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html"
+   ]
+  },
+  {
+   "query": "日本商工会議所 人手不足 調査 受注機会の損失 業種別 規模別 統計 PDF",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://archive.jcci.or.jp/Laborshortagesurvey2018.pdf",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/002/s001.pdf",
+    "http://www.koyama-ac.com/files/libs/77/202410241553258509.pdf",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf"
+   ]
+  },
+  {
+   "query": "日本商工会議所 人手不足 調査 受注機会の損失 業種別 規模別 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.jcci.or.jp/news/research/others/index.html",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.nikkei.com/article/DGXZQOUA055T90V00C24A9000000/",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://news.infoseek.co.jp/article/mynavi_3236879/"
+   ]
+  },
+  {
+   "query": "日本商工会議所 人手不足 調査 受注機会の損失 業種別 規模別 従業者規模別",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1201053",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://ab.jcci.or.jp/article/89792/",
+    "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "https://n-cci.or.jp/survey2026/",
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html"
+   ]
+  },
+  {
+   "query": "日本商工会議所 人手不足 調査 受注機会の損失 業種別 規模別 1人当たり 万円",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.nikkei.com/article/DGXZQOUA055T90V00C24A9000000/",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/soukai/043/dl/s002.pdf?o=6896&o=6896/",
+    "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "https://www.maido.or.jp/wp/wp-content/uploads/2025/07/a4ad1d9357791881e295dc7253c1071e.pdf",
+    "https://archive.jcci.or.jp/Laborshortagesurvey2018.pdf"
+   ]
+  },
+  {
+   "query": "日本商工会議所 人手不足 調査 受注機会の損失 業種別 規模別 2015 2025",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_3.html",
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://archive.jcci.or.jp/Laborshortagesurvey2018.pdf",
+    "https://www.nikkei.com/article/DGXZQOUA055T90V00C24A9000000/",
+    "https://j-net21.smrj.go.jp/news/hgc8pd000001r322.html",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html"
+   ]
+  },
+  {
+   "query": "JCCI labor shortage survey lost orders by industry size Japan statistics",
+   "results": [
+    "https://www.reuters.com/sustainability/sustainable-finance-reporting/japan-firms-face-serious-labour-crunch-aging-population-survey-shows-2025-01-15/",
+    "https://www.jil.go.jp/english/jli/documents/2025/052-03.pdf",
+    "https://www.facebook.com/thejapantimes/posts/a-severe-labor-shortage-remains-the-main-reason-japanese-companies-hire-foreign-/1485299786968938/",
+    "https://asia.nikkei.com/spotlight/datawatch/japan-s-official-statistics-miss-the-depth-of-the-labor-shortage",
+    "https://izanau.com/article/view/industries-with-the-highest-labor-shortages-japan",
+    "https://www.japantimes.co.jp/business/2026/10/08/japan-labor-shortage-business-failure-record-high/",
+    "https://www.jcer.or.jp/english/is-japan-really-short-of-labour",
+    "https://www.instagram.com/reel/DTpcH_Aki3N/",
+    "https://cdn.prod.website-files.com/67cb23eaf0c6c4d4080e059a/68a5d42fa7f541b482051e76_en-br250401.pdf",
+    "https://www.statista.com/statistics/1620723/japan-diffusion-index-of-insufficient-and-excessive-employment-by-industry/"
+   ]
+  },
+  {
+   "query": "site:note.com 日本商工会議所 人手不足 調査 受注機会の損失 業種別 規模別",
+   "results": [
+    "https://note.com/deft_viper1604/n/ned78b8f5623d",
+    "https://note.com/tanchan0630/n/nb52d7b4e32ee",
+    "https://note.com/ham6344/n/nf33015c0edb2",
+    "https://note.com/chic_deer1160/n/nbd793d2c1193",
+    "https://note.com/sennominato/n/n9fc76094b849",
+    "https://note.com/bright_bear5875/n/ne89b150f38f5",
+    "https://note.com/aichi_baikyaku/n/nf24d86001c5e",
+    "https://note.com/okappiki3/n/nf12f53fbfc7f",
+    "https://note.com/chic_deer1160/n/n4f1e2e32961c",
+    "https://note.com/kandoinspirefact/n/n560d814efea0"
+   ]
+  },
+  {
+   "query": "site:x.com 日本商工会議所 人手不足 調査 受注機会の損失 業種別 規模別",
+   "results": [
+    "https://x.com/anshin_info",
+    "https://x.com/mirai_ai_growth",
+    "https://x.com/hatano_keiei/status/2063365524135031065",
+    "https://x.com/TSR_NEWS/status/2041744155018432512",
+    "https://x.com/zeus_saitama/status/2089315362508820882",
+    "https://x.com/nikkeikansai/status/1781121841815318887",
+    "https://x.com/fericiaworks/status/2114672644440391965",
+    "https://x.com/SORAMON_INC/status/2104330239811756302",
+    "https://x.com/raksul_pr/status/2059456303194628169"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 日本商工会議所 人手不足 調査 受注機会の損失 業種別 規模別",
+   "results": [
+    "https://jp.linkedin.com/posts/shuheikotobuki_大型工事26年度受注できず建設会社の7割成長投資阻む人手不足-日本経済新聞-activity-7418159617349799936-VN1y",
+    "https://jp.linkedin.com/posts/sei-tamai_失業なき労働力移動の行方-窮境状態にある業種と人手不足倒産発生率の相関-activity-7499611801366503424-OEAV",
+    "https://jp.linkedin.com/pulse/なぜ外国人は日本で働きたいのか深刻な人手不足で需要が高まる業界と成功の鍵-susumu-shimoda-7ntcf",
+    "https://www.linkedin.com/news/story/2040年-働き手1100万人不足-5210961/",
+    "https://jp.linkedin.com/posts/健次-髙木-66992543_2026年建設業界動向予測-毎年の人気コンテンツ2026年建設業界動向予測を-activity-7410180936383983616-ak47",
+    "https://www.linkedin.com/posts/達也-代慶-126586226_物流2024年問題戦略なき30年人材14万人不足損失10兆円-日本経済新聞-activity-7124609029053583361-T4XI",
+    "https://jp.linkedin.com/posts/deloitte_デロイト-トーマツ調査国内で優先的に対処すべきリスク1位は3年連続で人材不足-activity-7310247185760043008-y6Pf"
+   ]
+  },
+  {
+   "query": "site:facebook.com 日本商工会議所 人手不足 調査 受注機会の損失 業種別 規模別",
+   "results": [
+    "https://www.facebook.com/fujishi.s/posts/%E9%9D%99%E5%B2%A1%E5%83%8D%E3%81%8D%E6%96%B9%E6%94%B9%E9%9D%A9%E6%8E%A8%E9%80%B2%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E6%8F%90%E4%BE%9B%E6%83%85%E5%A0%B1%E9%9D%99%E5%B2%A1%E5%83%8D%E3%81%8D%E6%96%B9%E6%94%B9%E9%9D%A9%E6%8E%A8%E9%80%B2%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E7%84%A1%E6%96%99%E7%9B%B8%E8%AB%87%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85-%E5%83%8D%E3%81%8D%E6%96%B9%E6%94%B9%E9%9D%A9%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%A7%98%E3%80%85%E3%81%AA%E8%AA%B2%E9%A1%8C%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B%E3%83%AF%E3%83%B3%E3%82%B9%E3%83%88%E3%83%83%E3%83%97%E7%9B%B8%E8%AB%87%E7%AA%93%E5%8F%A3%E3%81%A8%E3%81%97%E3%81%A6%E6%98%A8%E5%B9%B4/1448072220680266/",
+    "https://www.facebook.com/tokyocci/posts/人手不足の状況および多様な人材の活躍等に関する調査を公表東商と日商が実施した人手不足の状況および多様な人材の活躍等に関する調査の結果を本日公表しました中小企業の/717109337122007/",
+    "https://www.facebook.com/osakacci/posts/人手不足への対応が最大の課題調査結果３割強労務費上昇分を全く価格転嫁できず大阪商工会議所は2024年4月18日深刻化する人手不足への中堅中小小規模企業の対応や価/454746870453203/",
+    "https://www.facebook.com/SaseboCCI/posts/931054905731353/",
+    "https://www.facebook.com/projinzaiosaka/posts/お役立ちコラムvol558割が人手不足回答の業種も2019年日本商工会議所人手不足等調査人手不足等への対応に関する調査結果日本商工会議所は全国4125社の中小企/2486401154927080/",
+    "https://www.facebook.com/projinzaiosaka/photos/お役立ちコラムvol558割が人手不足回答の業種も2019年日本商工会議所人手不足等調査人手不足等への対応に関する調査結果日本商工会議所は全国4125社の中小企/2486400641593798/",
+    "https://www.facebook.com/projinzaiosaka/photos/お役立ちコラムvol23人手不足の影響と求める人材像売り手市場が続くなかでの人手不足の経営への影響たとえば機会損失利益の減少その影響が及ぶ範囲は業種により事情が/2115527042014495/",
+    "https://www.facebook.com/mokutaikyo/photos/業界動向レポート建設業界の8割が人手不足により受注を断念httpsforbesjapancomarticlesdetail93940現在私たちの足元で起きている/1333662825528120/"
+   ]
+  },
+  {
+   "query": "日本商工会議所 人手不足 調査 受注機会の損失 業種別 規模別 note 社長",
+   "results": [
+    "https://archive.jcci.or.jp/Laborshortagesurvey2018.pdf",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.nikkei.com/article/DGXZQOUA055T90V00C24A9000000/",
+    "https://ameblo.jp/ohsawa4797/entry-12978956927.html",
+    "https://news.infoseek.co.jp/article/mynavi_3236879/",
+    "https://note.com/8elements_method/n/n1f95224656ba"
+   ]
+  },
+  {
+   "query": "日本商工会議所 人手不足 調査 受注機会の損失 業種別 規模別 X 投稿",
+   "results": [
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1201053",
+    "https://www.jcci.or.jp/news/research/2024/0905140000.html",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.nikkei.com/article/DGXZQOUA055T90V00C24A9000000/",
+    "http://www.koyama-ac.com/files/libs/77/202410241553258509.pdf",
+    "https://www.jcci.or.jp/news/research/index.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2023/PDF/chusho/00Hakusyo_zentai.pdf"
+   ]
+  },
+  {
+   "query": "JCCI labor shortage survey lost orders by industry size site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/burkemca",
+    "https://www.linkedin.com/posts/connie-mashaba-mba-5799971b_jcci-economicgrowth-activity-7206539472732057600-Y2LP",
+    "https://www.linkedin.com/pulse/i-awarded-order-timor-leste-3-years-ago-heres-whats-peter-mcmullin-am-8ei7c",
+    "https://www.linkedin.com/in/christinakuchar",
+    "https://za.linkedin.com/in/theoline-klaas-7988461b5",
+    "https://in.linkedin.com/in/malvika-kareer-7752b229",
+    "https://www.linkedin.com/in/william-stapleton",
+    "https://www.linkedin.com/in/cassie-ruby-24476a39",
+    "https://www.linkedin.com/in/gabriel-almeida",
+    "https://www.linkedin.com/in/salmanarain"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,400 @@
+{
+ "name": "従業員100〜299人の製造業",
+ "en": "manufacturers with 100-299 employees hiring cost Japan",
+ "aliases": [
+  "従業員100〜299人 採用単価",
+  "中堅製造業 採用費"
+ ],
+ "context": "規模",
+ "kind": "market",
+ "researched_at": "2026-11-05T04:39:00.251253+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2019/honbun_pdf/pdf/honbun_01_03_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/dodadirect/case005/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/jiccho_r5_2shou_1",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.itscom.co.jp/forbiz/column/office-environment/16515/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.relax-job.com/recruitment-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11650000/000956216.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www7.econ.hit-u.ac.jp/shokochukin/archives/2014/20140430.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/press/documents/20260527.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.asahi.com/and/pressrelease/17008756",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2007/10/pdf/004-014.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.career-tasu.co.jp/wp/wp-content/uploads/2024/07/2025_chukanchosa_k.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/research/2016/documents/0126_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www7.econ.hit-u.ac.jp/shokochukin/archives/2016/20160420.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai27/shiryou1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000089556_00024.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roberthalf.com/jp/ja/insights/hiring-help/labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/001705160.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/events/bbl/25061901_kawamura.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.g-soumu.com/articles/80533efb-e66c-4533-8937-ee80025d0445?srsltid=AYCX9vJRpmujBJtqxFtEbGUoMSp58zS3qGAgizn9dUg-sj819jRDxcaj",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mirasapo-plus.go.jp/infomation/32451/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/3855/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/001496473.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "従業員100〜299人の製造業 採用単価 規模別",
+   "results": [
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://www.meti.go.jp/report/whitepaper/mono/2019/honbun_pdf/pdf/honbun_01_03_01.pdf",
+    "https://www.neo-career.co.jp/humanresource/dodadirect/case005/",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/jiccho_r5_2shou_1",
+    "https://www.itscom.co.jp/forbiz/column/office-environment/16515/",
+    "https://biz.relax-job.com/recruitment-cost",
+    "https://saiyo.employment.en-japan.com/blog/unit-cost-of-hiring-part-time-employees",
+    "https://saiyo-kakaricho.com/wp/recruitment-costs/",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/"
+   ]
+  },
+  {
+   "query": "従業員100〜299人の製造業 採用コスト 調査 万円",
+   "results": [
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://www.mhlw.go.jp/content/11650000/000956216.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www7.econ.hit-u.ac.jp/shokochukin/archives/2014/20140430.pdf",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.jil.go.jp/press/documents/20260527.pdf",
+    "https://www.itscom.co.jp/forbiz/column/office-environment/16515/",
+    "https://www.asahi.com/and/pressrelease/17008756",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/",
+    "https://www.neo-career.co.jp/humanresource/whitepaper/rm-341/"
+   ]
+  },
+  {
+   "query": "従業員100〜299人の製造業 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2007/10/pdf/004-014.pdf",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.career-tasu.co.jp/wp/wp-content/uploads/2024/07/2025_chukanchosa_k.pdf",
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/026/051/r6koyoukanrijoukyoutyousa2.pdf",
+    "https://career-research.mynavi.jp/reserch/20250326_93514/"
+   ]
+  },
+  {
+   "query": "従業員100〜299人の製造業 採用経路 割合 調査",
+   "results": [
+    "https://www.chukiken.or.jp/report/1627/",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "https://www.jil.go.jp/institute/research/2016/documents/0126_01.pdf",
+    "https://www7.econ.hit-u.ac.jp/shokochukin/archives/2016/20160420.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai27/shiryou1.pdf",
+    "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000089556_00024.html",
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf"
+   ]
+  },
+  {
+   "query": "従業員100〜299人の製造業 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.mh5.jp/announce_95702.html",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://www.roberthalf.com/jp/ja/insights/hiring-help/labor-shortage",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "https://www.mhlw.go.jp/content/001496473.pdf",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html"
+   ]
+  },
+  {
+   "query": "従業員100〜299人の製造業 白書 採用",
+   "results": [
+    "https://www.mhlw.go.jp/content/001705160.pdf",
+    "https://www.meti.go.jp/report/whitepaper/mono/2019/honbun_pdf/pdf/honbun_01_03_01.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/25061901_kawamura.pdf",
+    "https://www.g-soumu.com/articles/80533efb-e66c-4533-8937-ee80025d0445?srsltid=AYCX9vJRpmujBJtqxFtEbGUoMSp58zS3qGAgizn9dUg-sj819jRDxcaj",
+    "https://mirasapo-plus.go.jp/infomation/32451/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/3855/",
+    "https://www.mhlw.go.jp/content/001496473.pdf",
+    "https://career-survival.com/columns/kojou-monozukuri-hakusho/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 従業員100〜299人の製造業",
+   "results": [
+    "https://note.com/ogawa_tech/n/n79684d75a109",
+    "https://note.com/seikahaibun/n/n40f1e0202b4a",
+    "https://note.com/ogawa_tech/n/n6299bd0a6539",
+    "https://note.com/gp__info/n/nb555d27ec9c2",
+    "https://note.com/kakizakisr/n/n0346ba069079",
+    "https://note.com/suzumura_navi/n/n558fcf965fcc",
+    "https://note.com/doctor_nopopon24/n/ne4f4ba006636",
+    "https://note.com/machi_hito1507/n/n266337d049e8",
+    "https://note.com/kongobyora/n/n0c3dd3c77295",
+    "https://note.com/career_adviser_k/n/n3fa841e80b4b"
+   ]
+  },
+  {
+   "query": "site:x.com 従業員100〜299人の製造業",
+   "results": [
+    "https://x.com/Stoneman_ISHIO/status/2115019004805042642",
+    "https://x.com/goen_marketer/status/2116304164976574748",
+    "https://x.com/nobuo_takehara",
+    "https://x.com/Tsubasa19810917",
+    "https://x.com/i/trending/2066284622309155251?lang=gu",
+    "https://x.com/NNAASIA",
+    "https://x.com/M_Miho_JPN/status/2092639095399043386",
+    "https://x.com/M_Miho_JPN/status/2078366557961326816",
+    "https://x.com/09091999_jam",
+    "https://jf.x.com/images/media-preview/2112032678778413142"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 従業員100〜299人の製造業",
+   "results": [
+    "https://jp.linkedin.com/company/usalco",
+    "https://jp.linkedin.com/company/dnp-photo-imaging-america",
+    "https://jp.linkedin.com/company/ciatec",
+    "https://jp.linkedin.com/company/mitsui-chemicals-group",
+    "https://jp.linkedin.com/company/cfj-manufacturing",
+    "https://jp.linkedin.com/company/japan-tobacco-inc-jt",
+    "https://jp.linkedin.com/directory/articles",
+    "https://jp.linkedin.com/company/hario-group",
+    "https://jp.linkedin.com/company/tsiincorporated",
+    "https://jp.linkedin.com/company/k9-natural-japan"
+   ]
+  },
+  {
+   "query": "site:facebook.com 従業員100〜299人の製造業",
+   "results": [
+    "https://www.facebook.com/roumusoudan/posts/%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E4%B8%8D%E8%AA%BF%E3%81%AB%E3%82%88%E3%82%8A%E4%BC%91%E6%A5%AD%E3%81%97%E3%81%9F%E5%8A%B4%E5%83%8D%E8%80%85%E3%81%AE%E7%8A%B6%E6%B3%81%E3%81%A8%E4%BC%81%E6%A5%AD%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E5%AF%BE%E7%AD%96-%E5%A4%9A%E3%81%8F%E3%81%AE%E4%BC%81%E6%A5%AD%E3%81%A7%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E7%96%BE%E6%82%A3%E3%82%92%E7%99%BA%E7%97%87%E3%81%97%E6%AC%A0%E5%8B%A4%E3%82%84%E4%BC%91%E8%81%B7%E3%82%92%E3%81%99%E3%82%8B%E5%BE%93%E6%A5%AD%E5%93%A1%E3%81%8C%E5%A2%97%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8C%E3%81%9D%E3%81%AE%E6%9C%80%E6%96%B0%E3%81%AE%E7%8A%B6%E6%B3%81%E3%82%92%E8%AA%BF/1515574330602577/",
+    "https://www.facebook.com/matsuo.akihito/posts/%E6%97%A5%E6%9C%AC%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99%E7%A4%BE%E9%95%B7140%E4%BA%BA%E3%81%93%E3%81%AE%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E3%81%AF%E6%95%B0%E5%B9%B4%E5%BE%8C%E3%81%AE%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%81%A7%E3%82%82%E3%81%82%E3%82%8B%E4%BB%8A%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E%E3%81%AB%E3%81%A8%E3%81%A6%E3%82%82%E8%88%88%E5%91%B3%E6%B7%B1%E3%81%84%E7%89%B9%E9%9B%86%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E6%97%A5%E6%9C%AC%E3%82%92%E4%BB%A3%E8%A1%A8%E3%81%99%E3%82%8B%E4%BC%81%E6%A5%AD%E3%81%AE%E7%A4%BE%E9%95%B7140%E4%BA%BA/27598117519808420/",
+    "https://www.facebook.com/matsuo.akihito/posts/%E3%83%91%E3%82%BD%E3%83%8A20%E4%BB%A3%E3%81%AE%E5%83%8D%E3%81%8D%E3%81%B6%E3%82%8A%E3%82%92%E8%A6%8B%E3%81%A6%E3%81%8B%E3%82%89%E6%8E%A1%E7%94%A8-%E6%96%B0%E3%81%9F%E3%81%AB%E5%A7%8B%E3%82%81%E3%82%8B%E6%8E%A1%E7%94%A8%E5%89%8D%E6%8F%90%E6%B4%BE%E9%81%A310%E6%9C%881%E6%97%A5%E4%BB%8A%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E%E3%81%AE%E8%A8%98%E4%BA%8B%E3%81%A7%E3%81%99%E3%83%91%E3%82%BD%E3%83%8A%E3%81%AF10%E6%9C%88%E3%81%8B%E3%82%8920%E4%BB%A3%E3%81%AB%E7%89%B9%E5%8C%96%E3%81%97%E3%81%9F%E7%B4%B9%E4%BB%8B%E4%BA%88%E5%AE%9A%E6%B4%BE%E9%81%A3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%A6%E3%83%BC%E3%82%B9%E3%83%91%E3%83%AC/28654217890865039/",
+    "https://www.facebook.com/matsuo.akihito/posts/%E6%9D%B1%E5%A4%A7%E5%AE%87%E5%AE%99%E3%81%AB100%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB%E6%9C%9B%E9%81%A0%E9%8F%A1%E6%A7%8B%E6%83%B3-%E5%B0%8F%E3%81%95%E3%81%AA%E8%A1%9B%E6%98%9F3%E5%80%8B%E3%81%A7%E5%A4%A7%E3%81%8D%E3%81%AA%E6%8C%91%E6%88%A611%E6%9C%881%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E%E3%81%A7%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E3%81%AA%E3%81%A9%E3%81%8C%E5%B0%8F%E5%9E%8B%E8%A1%9B%E6%98%9F3%E5%80%8B%E3%82%92%E4%BD%BF%E3%81%84%E5%AE%87%E5%AE%99%E3%81%AB100%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB%E7%B4%9A%E3%81%AE%E4%BB%AE%E6%83%B3%E6%9C%9B%E9%81%A0%E9%8F%A1%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%E8%A8%88/29082202068066617/",
+    "https://www.facebook.com/matsuo.akihito/posts/openai%E3%81%AE%E6%9A%B4%E8%B5%B0%E5%95%8F%E9%A1%8C%E3%81%AB%E8%80%83%E3%81%88%E3%82%8B%E5%9B%BD%E9%9A%9B%E5%8D%94%E8%AA%BF%E3%81%AE%E5%BF%85%E8%A6%81%E6%80%A7%E4%BB%8A%E6%97%A510%E6%9C%88%EF%BC%98%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E%E3%81%ABai%E3%81%AB%E3%82%88%E3%82%8B%E4%B8%8D%E6%AD%A3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%AA%E3%81%A9%E3%81%AE%E5%95%8F%E9%A1%8C%E3%82%92%E5%8F%97%E3%81%91%E3%81%9Fopenai%E3%81%AE%E8%AA%AC%E6%98%8E%E4%BC%9A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E8%A8%98%E4%BA%8B%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84/28745229055097255/",
+    "https://www.facebook.com/matsuo.akihito/posts/%E6%94%BF%E5%BA%9C%E6%97%A5%E9%8A%80%E9%8A%80%E8%A1%8C%E3%81%AE%E8%9E%8D%E8%B3%87%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E5%A4%96%E9%83%A8%E9%96%8B%E6%94%BE-%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AE%E5%80%9F%E5%85%A5%E6%83%85%E5%A0%B1%E3%81%AF%E3%81%A9%E3%81%86%E6%89%B1%E3%82%8F%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%8B10%E6%9C%88%EF%BC%97%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E%E4%B8%80%E9%9D%A2%E3%83%88%E3%83%83%E3%83%97%E3%81%AB%E6%94%BF%E5%BA%9C%E6%97%A5%E9%8A%80%E3%81%8C%E9%8A%80%E8%A1%8C%E3%81%AE%E8%9E%8D%E8%B3%87%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E5%A4%96%E9%83%A8%E3%81%AB%E9%96%8B%E6%94%BE%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E8%A8%98%E4%BA%8B%E3%81%8C%E8%BC%89%E3%81%A3/28730116499941844/",
+    "https://www.facebook.com/city.kushiro/posts/%E3%83%9D%E3%83%AA%E3%83%86%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E9%87%A7%E8%B7%AF%E4%B8%BB%E5%82%AC%E8%83%BD%E5%8A%9B%E9%96%8B%E7%99%BA%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85%E3%83%9D%E3%83%AA%E3%83%86%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E9%87%A7%E8%B7%AF%E3%81%AB%E3%81%A6%E9%96%8B%E5%82%AC%E4%BA%88%E5%AE%9A%E3%81%AE%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E4%B8%8B%E8%A8%98%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8A%E3%81%94%E6%A1%88%E5%86%85%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E4%BC%81%E6%A5%AD%E3%83%8B%E3%83%BC%E3%82%BA%E3%81%8C%E9%AB%98%E3%81%84%E8%A8%93%E7%B7%B4%E5%86%85%E5%AE%B9%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%97%E4%B8%AD/1279271124236343/",
+    "https://www.facebook.com/groups/1902545183192803/posts/25593871806966808/",
+    "https://www.facebook.com/groups/1168835896656600/posts/3376629229210578/",
+    "https://www.facebook.com/takeshi.tayama.117/followers/"
+   ]
+  },
+  {
+   "query": "従業員100〜299人の製造業 note 社長",
+   "results": [
+    "https://note.com/ogawa_tech/n/n79684d75a109",
+    "https://newspicks.com/news/10611234/body/",
+    "https://note.com/machi_hito1507/n/n266337d049e8",
+    "https://note.com/furu30/n/n359209f70058",
+    "https://note.com/takahashi344",
+    "https://skillnote.jp/knowledge/seizogyo-hitodebusoku-kaiketsu/",
+    "https://www.mhlw.go.jp/content/11911500/001683112.pdf",
+    "https://note.com/ai_funtouki/n/nbcbcc18d50b8",
+    "https://hrnote.jp/contents/roumu-employee-benefits-large-company-20250217/",
+    "https://note.com/ryo_shacho"
+   ]
+  },
+  {
+   "query": "従業員100〜299人の製造業 X 投稿",
+   "results": [
+    "https://newspicks.com/news/10611234/body/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://note.com/ogawa_tech/n/n6299bd0a6539",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2307.pdf",
+    "https://jinjibu.jp/news/detl/26367/",
+    "https://www.mhlw.go.jp/content/11911500/001683114.pdf",
+    "https://www.atled.jp/xpoint_cloud/case/nissin-mfg2/",
+    "https://x.com/industryJapan",
+    "https://x.com/yattemiyou33/status/2088079054067179698",
+    "https://zgeneration.co.jp/2026/10/10/manufacturing-sns-examples/"
+   ]
+  },
+  {
+   "query": "manufacturers with 100-299 employees hiring cost Japan site:linkedin.com",
+   "results": [
+    "https://jp.linkedin.com/company/nihonbiz",
+    "https://www.linkedin.com/pulse/grounds-employee-termination-spain-beyondbordershr-6xxjc",
+    "https://www.linkedin.com/posts/platinumjapanoffice_%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%AE%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%9A-%F0%9D%90%9B%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%A7-activity-7505808015716069376-r3TM",
+    "https://www.linkedin.com/posts/labourlawreporter_labourcodes2025-industrialrelations-hrcommunity-activity-7416027975214612481-Yy0J",
+    "https://www.linkedin.com/posts/mayurhr1996_industrialrelations-labourcodes-standingorders-activity-7416084019466985472-WnsA",
+    "https://www.linkedin.com/posts/vaibhav-patel-81382a63_industrialrelations-labourcodes-standingorders-activity-7417144768125898752-MAuP",
+    "https://www.linkedin.com/posts/takatsugu-suzuki-87b99b40_%E8%BB%A2%E8%81%B7-%E4%B8%AD%E9%AB%98%E9%BD%A2%E8%80%85-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD-activity-7506208527103987713-fqhA",
+    "https://www.linkedin.com/in/marthakendler-accessibility-partner",
+    "https://www.linkedin.com/posts/sureshkumar-s-a39654198_ap-code-on-wages-activity-7478301677603725312-Qx4V",
+    "https://www.linkedin.com/jobs/view/maintenance-supervisor-at-harbor-group-management-company-4484585934"
+   ]
+  }
+ ],
+ "missing": {
+  "セグメント定義": "記載なし（読んだ36頁・検索13回）",
+  "採用単価": "記載なし（読んだ36頁・検索13回）",
+  "年間採用費": "記載なし（読んだ36頁・検索13回）",
+  "採用経路": "記載なし（読んだ36頁・検索13回）",
+  "充足・欠員": "記載なし（読んだ36頁・検索13回）",
+  "調査主体・時期": "記載なし（読んだ36頁・検索13回）"
+ }
+}

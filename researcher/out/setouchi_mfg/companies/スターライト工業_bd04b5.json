@@ -1,0 +1,1187 @@
+{
+ "name": "スターライト工業",
+ "aliases": [],
+ "context": "広島県広島市／出典:大学・高専の企業説明会／求人媒体:Indeed;doda;スタンバイ;マイナビ新卒;自社採用ページ／想定年収:350〜550万円／従業員:623",
+ "researched_at": "2026-11-05T04:37:51.661552+00:00",
+ "official_url": "https://starlite.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：1936年2月",
+    "url": "https://starlite.co.jp/corporate/outline",
+    "pass": 1
+   },
+   {
+    "label": "設立年",
+    "value": "設立年：1936年",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 西郷隆志",
+    "url": "https://starlite.co.jp/corporate/outline",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 西郷 隆志",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "10億6,400万円",
+    "url": "https://starlite.co.jp/corporate/outline",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "623名(関係会社含む1285名 *2026年3月末時点)",
+    "url": "https://starlite.co.jp/corporate/outline",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "1000人以上",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "大阪府大阪市旭区大宮４丁目23番７号",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "CREATORSと最先端工場がつくるミライ",
+    "url": "https://starlite.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "スターライトは､国内11拠点､海外7拠点､総勢1300名が集う技術開発志向のモノづくり企業です｡1936年の創業以来､常に",
+    "url": "https://starlite.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "使命を達成する上で追求している企業像の一つは､｢ビジネスパートナーとして信頼される企業｣です｡スターライトは迅速な対応､提案力､そして何よりも良い品質を維持向上することを優先課題の一つと掲げ､事業活動を行っています｡また､国内外の各生産拠点において｢品質方針および品質目標｣を定め､お客様にご満足頂ける品質保証に努めています｡",
+    "url": "https://starlite.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "国内11拠点､海外7拠点",
+    "url": "https://starlite.co.jp/corporate/outline",
+    "pass": 1
+   },
+   {
+    "quote": "IATF16949 認証取得(広島工場)",
+    "url": "https://starlite.co.jp/corporate/history",
+    "pass": 1
+   },
+   {
+    "quote": "星光樹脂製品(昆山)有限公司 金型工場新設",
+    "url": "https://starlite.co.jp/corporate/history",
+    "pass": 1
+   },
+   {
+    "quote": "星光樹脂製品(昆山)有限公司 高機能品工場新設",
+    "url": "https://starlite.co.jp/corporate/history",
+    "pass": 1
+   },
+   {
+    "quote": "射出成形工場新設(タイ王国チャチェンサオ県)",
+    "url": "https://starlite.co.jp/corporate/history",
+    "pass": 1
+   },
+   {
+    "quote": "大型透明射出成形品用｢クリーン成形工場｣新設/栗東工場",
+    "url": "https://starlite.co.jp/corporate/history",
+    "pass": 1
+   },
+   {
+    "quote": "小型精密成型品｢エスベア｣開発･製造開始/徳庵工場",
+    "url": "https://starlite.co.jp/corporate/history",
+    "pass": 1
+   },
+   {
+    "quote": "大型ＳＭＣ成形工場新設(国内初)/栗東工場",
+    "url": "https://starlite.co.jp/corporate/history",
+    "pass": 1
+   },
+   {
+    "quote": "射出成形工場新設 エンジニアリングプラスチック工業製品製造開始/栗東工場",
+    "url": "https://starlite.co.jp/corporate/history",
+    "pass": 1
+   },
+   {
+    "quote": "フッ素樹脂および強化プラスチック(FRP)工場新設/徳庵工場",
+    "url": "https://starlite.co.jp/corporate/history",
+    "pass": 1
+   },
+   {
+    "quote": "日本スターライト製作所の名称で粉浜工場開設(大阪市)",
+    "url": "https://starlite.co.jp/corporate/history",
+    "pass": 1
+   },
+   {
+    "quote": "2017年 モビリティの新拠点､山口工場(山口スターライト工業株式会社)設立",
+    "url": "https://starlite.co.jp/corporate/history",
+    "pass": 1
+   },
+   {
+    "quote": "2016年 次世代モビリティ向け開発拠点Starlite Creative Center(現 開発センター)開設",
+    "url": "https://starlite.co.jp/corporate/history",
+    "pass": 1
+   },
+   {
+    "quote": "2013年 東南アジアの開発力拡充としてThai Starlite第4工場設立",
+    "url": "https://starlite.co.jp/corporate/history",
+    "pass": 1
+   },
+   {
+    "quote": "1968年 メカニカルシールの日本拠点としてJohn Crane Inc.と",
+    "url": "https://starlite.co.jp/corporate/history",
+    "pass": 1
+   },
+   {
+    "quote": "1963年 徳庵工場成形工場前にて初荷式“さあ､出発だ”",
+    "url": "https://starlite.co.jp/corporate/history",
+    "pass": 1
+   },
+   {
+    "quote": "1961年 スターライトの原点の地｢栗東工場｣の地鎮祭が執り行われた",
+    "url": "https://starlite.co.jp/corporate/history",
+    "pass": 1
+   },
+   {
+    "quote": "1950年代 和気藹々と仕事に取り組んでた徳庵工場事務所",
+    "url": "https://starlite.co.jp/corporate/history",
+    "pass": 1
+   },
+   {
+    "quote": "未経験OK！伝票入力およびデータ入力を担当！面接前に工場見学・作業体験可能",
+    "url": "https://hp-recruit.net/starlite/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "連結：246億円 （2025年3月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・国内11拠点／海外4ヶ国展開（グループ総勢 約1,300名）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内10拠点・世界4ヶ国、総勢約1,300名を抱える技術開発志向の企業です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期 237億円 7億1,800万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期 239億円 2億9,000万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期 246億円 4億1,500万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "●開発拠点：滋賀（栗東市）・広島（広島市）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "●営業拠点：東京・大阪・広島・名古屋・埼玉・福岡",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "●生産拠点：滋賀（栗東市）・広島（安芸高田市）・山口（山口市）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本スターライト製作所の名称で粉浜工場開設(大阪市)",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "フッ素樹脂および強化プラスチック(FRP)工場新設/徳庵工場",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形工場新設 エンジニアリングプラスチック工業製品",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "大型ＳＭＣ成形工場新設(国内初)/栗東工場",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "小型精密成型品「エスベア」開発・製造開始/徳庵工場",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "大型透明射出成形品用「クリーン成形工場」新設/栗東工場",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形工場新設(タイ王国チャチェンサオ県)",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "星光樹脂製品(昆山)有限公司 金型工場新設",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "IATF16949 認証取得(広島工場)",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "年商1,000億円以上もしくは、学生に認知度の高い製品あり",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "採用情報｜新卒・中途求人｜スターライト工業",
+    "url": "https://starlite.co.jp/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "みなさんのエントリーをお待ちしております｡",
+    "url": "https://starlite.co.jp/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "スターライトでは実務経験豊富な即戦力や､新しい知見･メソッドを獲得するために中途採用を行っております｡",
+    "url": "https://starlite.co.jp/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "スターライトでは実務経験豊富な即戦力や､新しい知見･メソッドを獲得するために中途採用を行っております｡主な職種と内容は以下の通りです｡",
+    "url": "https://starlite.co.jp/careers/mid-career/",
+    "pass": 1
+   },
+   {
+    "quote": "STARLITE Careers | New Graduate & Mid-Career Recruitment",
+    "url": "https://starlite.co.jp/en/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "New-graduate recruitment",
+    "url": "https://starlite.co.jp/en/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Mid-career recruitment",
+    "url": "https://starlite.co.jp/en/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "To new graduate recruiting site",
+    "url": "https://starlite.co.jp/en/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "To mid-career recruitment page",
+    "url": "https://starlite.co.jp/en/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "New Graduate Recruitment",
+    "url": "https://starlite.co.jp/en/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Mid-Career Recruitment",
+    "url": "https://starlite.co.jp/en/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "STARLITE Mid-Career Recruitment",
+    "url": "https://starlite.co.jp/en/careers/mid-career/",
+    "pass": 1
+   },
+   {
+    "quote": "New-graduate recruitment",
+    "url": "https://starlite.co.jp/en/careers/mid-career/",
+    "pass": 1
+   },
+   {
+    "quote": "Mid-career recruitment",
+    "url": "https://starlite.co.jp/en/careers/mid-career/",
+    "pass": 1
+   },
+   {
+    "quote": "We accept applications through Hello Work and recruitment agencies.",
+    "url": "https://starlite.co.jp/en/careers/mid-career/",
+    "pass": 1
+   },
+   {
+    "quote": "New Graduate Recruitment",
+    "url": "https://starlite.co.jp/en/careers/mid-career/",
+    "pass": 1
+   },
+   {
+    "quote": "Mid-Career Recruitment",
+    "url": "https://starlite.co.jp/en/careers/mid-career/",
+    "pass": 1
+   },
+   {
+    "quote": "STARLITE Mid-Career Recruitment",
+    "url": "https://starlite.co.jp/en/careers/mid-career",
+    "pass": 1
+   },
+   {
+    "quote": "New-graduate recruitment",
+    "url": "https://starlite.co.jp/en/careers/mid-career",
+    "pass": 1
+   },
+   {
+    "quote": "Mid-career recruitment",
+    "url": "https://starlite.co.jp/en/careers/mid-career",
+    "pass": 1
+   },
+   {
+    "quote": "We accept applications through Hello Work and recruitment agencies.",
+    "url": "https://starlite.co.jp/en/careers/mid-career",
+    "pass": 1
+   },
+   {
+    "quote": "New Graduate Recruitment",
+    "url": "https://starlite.co.jp/en/careers/mid-career",
+    "pass": 1
+   },
+   {
+    "quote": "Mid-Career Recruitment",
+    "url": "https://starlite.co.jp/en/careers/mid-career",
+    "pass": 1
+   },
+   {
+    "quote": "募集職種 - スターライト工業株式会社 採用サイトスターライト工業株式会社 採用サイト",
+    "url": "https://hp-recruit.net/starlite/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 生産管理スタッフ・品質管理スタッフ",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "スターライト工業(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "10億6,400万円",
+    "url": "https://starlite.co.jp/corporate/outline",
+    "pass": 1
+   },
+   {
+    "quote": "スターライト工業の「年収・給与制度」 OpenWork",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "スターライト工業の「年収・給与制度」 ＜社員のクチコミ情報＞",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "350万円〜700万円",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "正社員28人の社員クチコミから年収データを集計した結果、",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "スターライト工業の平均年収は508万円です",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度の特徴： 給与制度： 手当は家族...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "年収事例：４０歳非管理職でおよそ５５０万...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 給与制度については、これまで...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度の特徴： 給与制度： ボーナスが...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度の特徴： 評価制度： 人材育成と...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 給与制度、賞与制度がかなり不...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 技術部なのか製造部なのかで給...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度の特徴： 給与制度： 職務給、職...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度の特徴： 給与制度： 月給は悪く...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度の特徴： 評価制度： 形式として...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 年収については基本給がかなり...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度の特徴： 評価制度： ひと昔前の...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "賞与 平均3.8カ月程度 3回支給(その...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "年収事例：40歳で4等級で、年収520万...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "年収事例： 40歳管理職800万円",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "年収事例： 新卒一年目、大卒総合職、年収...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "年収事例：入社5年目 450万円、入社1...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "年収事例：新卒5年目 年収450万円 給...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "年収事例： 30歳、一般社員、年収370...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 年間賞与は基本給の3.5ヶ月...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "月給 250,000円〜330,000円",
+    "url": "https://hp-recruit.net/starlite/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "350万円～500万円",
+    "url": "https://hp-recruit.net/starlite/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "※諸手当、賞与を含む（通勤手当は除く）",
+    "url": "https://hp-recruit.net/starlite/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "月給 220,000円～300,000円",
+    "url": "https://hp-recruit.net/starlite/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "※給与詳細は経験・スキル・年齢・前職給与等を考慮し決定",
+    "url": "https://hp-recruit.net/starlite/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "400万円～600万円",
+    "url": "https://hp-recruit.net/starlite/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "月給 250,000円～350,000円",
+    "url": "https://hp-recruit.net/starlite/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "※給与詳細は経験・スキル・年齢・前職給与等を考慮し決定いたします",
+    "url": "https://hp-recruit.net/starlite/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "予定年収：400万円～500万円",
+    "url": "https://hp-recruit.net/starlite/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "課長代行：600万円 課長：720万円",
+    "url": "https://hp-recruit.net/starlite/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "月給：250,000円～320,000円",
+    "url": "https://hp-recruit.net/starlite/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "予定年収：360万円～550万円",
+    "url": "https://hp-recruit.net/starlite/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "※上記年収はモデル年収の金額となり、固定給、諸手当、賞与を含みます",
+    "url": "https://hp-recruit.net/starlite/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "月給 223,000円～350,000円",
+    "url": "https://hp-recruit.net/starlite/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "課長代理：600万円 課長：700万円",
+    "url": "https://hp-recruit.net/starlite/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "月給 197,000円～311,000円",
+    "url": "https://hp-recruit.net/starlite/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "月給24万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "なお､募集にあたってはハローワークや転職エージェンシーを通じて行っております",
+    "url": "https://starlite.co.jp/careers/mid-career/",
+    "pass": 1
+   },
+   {
+    "quote": "スターライト工業(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "未経験OK！伝票入力およびデータ入力を担当！面接前に工場見学・作業体験可能",
+    "url": "https://hp-recruit.net/starlite/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "【理系限定案内】会社説明会をご希望の方は、個別にお伺いいたしますのでお知らせください",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "＃インターンシップ＃ものづくり＃研究開発＃楽しい＃ワクワク",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "配属後での若手先輩社員によるメンターを含めたOJTを実施している",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "スターライト工業 株式会社 の 求人 ・中途採用情報 - doda — スターライト工業 株式会社 の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10007604533",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10007604533/",
+    "pass": 3
+   },
+   {
+    "quote": "スターライト工業 の「 年収 ・給与制度」 OpenWork — スターライト工業 の「 年収 ・給与制度」 OpenWork OpenWork https://www.openwork.jp > ... > スターライト工業",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 - スターライト工業 株式会社 採用サイト — 募集職種 - スターライト工業 株式会社 採用サイト hp-recruit.net https://hp-recruit.net > starlite > recruit",
+    "url": "https://hp-recruit.net/starlite/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "スターライト工業 株式会社 - 製造・生産の給与額 — スターライト工業 株式会社 - 製造・生産の給与額 Indeed https://jp.indeed.com > スターライト工業株式会社 > 給与",
+    "url": "https://jp.indeed.com/cmp/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries?job_category=manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "スターライト工業株式会社 の求人情報（17件） — スターライト工業株式会社 の求人情報（17件） スタンバイ",
+    "url": "https://jp.stanby.com/search?cp_id=39929&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "スターライト工業 新卒 高卒 の求人情報をすべて見る （138件） — スターライト工業 新卒 高卒 の求人情報をすべて見る （138件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "スターライト工業 (株)の 新卒採用 ・会社概要 | マイナビ2027 — スターライト工業 (株)の 新卒採用 ・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp58243 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用 情報｜ 新卒 ・中途求人 - スターライト工業 — 採用 情報｜ 新卒 ・中途求人 - スターライト工業 スターライト工業株式会社 https://starlite.co.jp > careers",
+    "url": "https://starlite.co.jp/careers/",
+    "pass": 3
+   },
+   {
+    "quote": "スターライト工業 株式会社 採用 サイト — スターライト工業 株式会社 採用 サイト hp-recruit.net https://hp-recruit.net > starlite",
+    "url": "https://hp-recruit.net/starlite/",
+    "pass": 3
+   },
+   {
+    "quote": "スターライト工業 株式会社の企業情報 - キャリタス就活 — スターライト工業 株式会社の企業情報 - キャリタス就活 キャリタス就活 https://job.career-tasu.jp > corp",
+    "url": "https://job.career-tasu.jp/corp/00107875/",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "技術部門が近くに集まっているからこそ、若手でも視野を広げながら成長できる環境があります",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "若手社員、中堅社員、ベテラン社員まで幅広い年齢層で、気軽に相談・サポートできる環境です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "配属後での若手先輩社員によるメンターを含めたOJTを実施している",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "PR TIMES on X: \" スターライト工業 PR TIMES on X: \" スターライト工業 X https://x.com > @PRTIMES_JP",
+    "url": "https://x.com/PRTIMES_JP/status/2111049521748946985",
+    "pass": 3
+   },
+   {
+    "quote": "埼玉の狐 シロナ on X: \"久々に スターライト工業 プラストール ... 埼玉の狐 シロナ on X: \"久々に スターライト工業 プラストール ... X https://x.com > @AP35UK",
+    "url": "https://x.com/AP35UK/status/2034952935415980148",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "スターライト工業 （株） - LinkedIn スターライト工業 （株） - LinkedIn LinkedIn https://www.linkedin.com > スターライト工業（株）",
+    "url": "https://www.linkedin.com/company/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89?trk=similar-pages_result-card_full-click",
+    "pass": 3
+   },
+   {
+    "quote": "スターライト工業 （株） - LinkedIn スターライト工業 （株） - LinkedIn LinkedIn https://jp.linkedin.com > スターライト工業（株）",
+    "url": "https://jp.linkedin.com/company/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "Takashi Saigo - スターライト工業 株式会社 - LinkedIn Takashi Saigo - スターライト工業 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/takashi-saigo-8a313a110",
+    "pass": 3
+   },
+   {
+    "quote": "秋元 明 - スターライト工業 - 常務取締役 | LinkedIn 秋元 明 - スターライト工業 - 常務取締役 | LinkedIn LinkedIn https://jp.linkedin.com > 明-秋元-707a0549",
+    "url": "https://jp.linkedin.com/in/%E6%98%8E-%E7%A7%8B%E5%85%83-707a0549",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "スターライト工業 株式会社（Starlite Co., Ltd.）に「いいね ... スターライト工業 株式会社（Starlite Co., Ltd.）に「いいね ... Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/1263922820372032/",
+    "pass": 3
+   },
+   {
+    "quote": "スターライト工業 、事業構想大学院大学の産官学 ... - Facebook スターライト工業 、事業構想大学院大学の産官学 ... - Facebook Facebook https://www.facebook.com > jigyokoso > posts > 三次市...",
+    "url": "https://www.facebook.com/jigyokoso/posts/%E4%B8%89%E6%AC%A1%E5%B8%82%E3%81%BF%E3%82%89%E3%81%84%E4%BE%A1%E5%80%A4%E5%85%B1%E5%89%B5%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E7%A0%94%E7%A9%B6-%E9%96%8B%E5%A7%8B%E5%BA%83%E5%B3%B6%E7%9C%8C%E4%B8%89%E6%AC%A1%E5%B8%82%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD%E4%BA%8B%E6%A5%AD%E6%A7%8B%E6%83%B3%E5%A4%A7%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6%E3%81%AE%E7%94%A3%E5%AE%98%E5%AD%A6%E9%80%A3%E6%90%BA%E3%81%AB%E3%82%88%E3%82%8B%E4%B8%89%E6%AC%A1%E5%B8%82%E3%81%BF%E3%82%89%E3%81%84%E4%BE%A1%E5%80%A4%E5%85%B1%E5%89%B5%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E7%A0%94%E7%A9%B6%E3%81%8C7%E6%9C%882%E6%97%A5%E3%81%AB%E3%82%B9%E3%82%BF%E3%83%BC/1131466289012463/",
+    "pass": 3
+   },
+   {
+    "quote": "西郷隆盛の孫、西郷隆明が設立した創業85年 スターライト工業 西郷隆盛の孫、西郷隆明が設立した創業85年 スターライト工業 Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/1263922820372032/posts/3911413372289617/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://starlite.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://starlite.co.jp/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://starlite.co.jp/newsrelease/brandnew/20261009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://starlite.co.jp/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://starlite.co.jp/corporate/outline",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://starlite.co.jp/corporate/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://starlite.co.jp/careers/mid-career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://starlite.co.jp/en/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://starlite.co.jp/en/careers/mid-career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://starlite.co.jp/en/careers/mid-career",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://nyjvilul.cdn.imgeng.in/img/newsrelease/brandnew/20261009/1.webp?v1&imgeng=/w_676",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://nyjvilul.cdn.imgeng.in/img/careers/mv-careers.webp?v4&imgeng=/h_794",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://starlite.co.jp/img/corporate/mv-ol@0.2x.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10007604533/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hp-recruit.net/starlite/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/PRTIMES_JP/status/2111049521748946985",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AP35UK/status/2034952935415980148",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89?trk=similar-pages_result-card_full-click",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/takashi-saigo-8a313a110",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E6%98%8E-%E7%A7%8B%E5%85%83-707a0549",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1263922820372032/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/jigyokoso/posts/%E4%B8%89%E6%AC%A1%E5%B8%82%E3%81%BF%E3%82%89%E3%81%84%E4%BE%A1%E5%80%A4%E5%85%B1%E5%89%B5%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E7%A0%94%E7%A9%B6-%E9%96%8B%E5%A7%8B%E5%BA%83%E5%B3%B6%E7%9C%8C%E4%B8%89%E6%AC%A1%E5%B8%82%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD%E4%BA%8B%E6%A5%AD%E6%A7%8B%E6%83%B3%E5%A4%A7%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6%E3%81%AE%E7%94%A3%E5%AE%98%E5%AD%A6%E9%80%A3%E6%90%BA%E3%81%AB%E3%82%88%E3%82%8B%E4%B8%89%E6%AC%A1%E5%B8%82%E3%81%BF%E3%82%89%E3%81%84%E4%BE%A1%E5%80%A4%E5%85%B1%E5%89%B5%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E7%A0%94%E7%A9%B6%E3%81%8C7%E6%9C%882%E6%97%A5%E3%81%AB%E3%82%B9%E3%82%BF%E3%83%BC/1131466289012463/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1263922820372032/posts/3911413372289617/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "スターライト工業 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10007604533/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1PD&q_no=2",
+    "https://hp-recruit.net/starlite/recruit/",
+    "https://jp.indeed.com/cmp/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries?job_category=manufacturing",
+    "https://jp.stanby.com/search?cp_id=39929&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st",
+    "https://hiroten.hirojob.com/kyujin/87586",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10007604533/",
+    "https://www.r-agent.com/job_search/kw/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "https://mynavi-agent.jp/corpdetail/14704/",
+    "https://next.rikunabi.com/job_search/kw/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/"
+   ]
+  },
+  {
+   "query": "スターライト工業 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://job.mynavi.jp/27/pc/search/corp58243/outline.html",
+    "https://starlite.co.jp/careers/",
+    "https://hp-recruit.net/starlite/",
+    "https://job.career-tasu.jp/corp/00107875/",
+    "https://www.youtube.com/@starlitecareers",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10007604533/",
+    "https://re-katsu.jp/career/company/recruit/54034/",
+    "https://syukatsu-kaigi.jp/companies/42299",
+    "https://mynavi-agent.jp/corpdetail/14704/"
+   ]
+  },
+  {
+   "query": "site:note.com スターライト工業",
+   "results": [
+    "https://note.com/lucky_eagle24/n/ned59c162f0b7",
+    "https://note.com/imaplus/n/n2571b9d51ccc",
+    "https://note.com/miyoshi_mono/n/n884445202820",
+    "https://note.com/lucky_eagle24/n/n567c7e576af3",
+    "https://note.com/uta_inc_8888/n/ndc3a3f4de210",
+    "https://note.com/lucky_eagle24/n/ne36c778f4786",
+    "https://note.com/akariwriter3/n/n6d3d03a72486",
+    "https://note.com/toilet_labo/n/n972689b90801",
+    "https://note.com/suixsuixsui/m/m1108b506cdfc/hashtag/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9",
+    "https://note.com/lucky_eagle24/n/n27e5429c4345?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com スターライト工業",
+   "results": [
+    "https://x.com/PRTIMES_JP/status/2111049521748946985",
+    "https://x.com/AP35UK/status/2034952935415980148",
+    "https://x.com/chemicaldailyad/status/2111954337723548099",
+    "https://x.com/pdesign_jp/status/2114539650488361442",
+    "https://x.com/pdesign_jp/status/2114539647405637671",
+    "https://x.com/nobu473p/status/1278640328874946560",
+    "https://x.com/matsuomitsui/status/2111032313341448449",
+    "https://x.com/neige_soukuu/status/1728001815978160305",
+    "https://x.com/CARPROex",
+    "https://x.com/hiro_ama89/status/2096626570303775156"
+   ]
+  },
+  {
+   "query": "site:linkedin.com スターライト工業",
+   "results": [
+    "https://www.linkedin.com/company/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89?trk=similar-pages_result-card_full-click",
+    "https://jp.linkedin.com/company/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/in/takashi-saigo-8a313a110",
+    "https://jp.linkedin.com/in/%E6%98%8E-%E7%A7%8B%E5%85%83-707a0549",
+    "https://jp.linkedin.com/in/nanami-hanaoka-533b01297",
+    "https://jp.linkedin.com/in/%E8%8B%B1%E4%B8%80-%E4%BD%90%E8%97%A4-40775a247",
+    "https://jp.linkedin.com/in/%E6%82%A0%E5%97%A3-%E5%8E%9F%E7%94%B0-317497308",
+    "https://jp.linkedin.com/in/%E5%92%8C%E4%B9%9F-%E8%A5%BF%E6%9D%91-1ba7b4228",
+    "https://jp.linkedin.com/in/%E9%89%84%E5%B9%B3-%E5%AE%AE%E6%9C%AC-9294a5308",
+    "https://jp.linkedin.com/in/%E6%97%A5%E5%87%BA%E6%99%82-%E6%9D%BE%E7%80%AC-50669359"
+   ]
+  },
+  {
+   "query": "site:facebook.com スターライト工業",
+   "results": [
+    "https://www.facebook.com/groups/1263922820372032/",
+    "https://www.facebook.com/jigyokoso/posts/%E4%B8%89%E6%AC%A1%E5%B8%82%E3%81%BF%E3%82%89%E3%81%84%E4%BE%A1%E5%80%A4%E5%85%B1%E5%89%B5%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E7%A0%94%E7%A9%B6-%E9%96%8B%E5%A7%8B%E5%BA%83%E5%B3%B6%E7%9C%8C%E4%B8%89%E6%AC%A1%E5%B8%82%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD%E4%BA%8B%E6%A5%AD%E6%A7%8B%E6%83%B3%E5%A4%A7%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6%E3%81%AE%E7%94%A3%E5%AE%98%E5%AD%A6%E9%80%A3%E6%90%BA%E3%81%AB%E3%82%88%E3%82%8B%E4%B8%89%E6%AC%A1%E5%B8%82%E3%81%BF%E3%82%89%E3%81%84%E4%BE%A1%E5%80%A4%E5%85%B1%E5%89%B5%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E7%A0%94%E7%A9%B6%E3%81%8C7%E6%9C%882%E6%97%A5%E3%81%AB%E3%82%B9%E3%82%BF%E3%83%BC/1131466289012463/",
+    "https://www.facebook.com/pdreview/posts/%E5%89%B5%E6%A5%AD100%E5%91%A8%E5%B9%B4%E3%81%B8%E6%8A%80%E8%A1%93%E3%81%A7%E5%AE%89%E5%85%A8%E9%98%B2%E7%81%BD%E3%81%AB%E4%BE%A1%E5%80%A4%E3%82%921936%E5%B9%B4%E3%81%AE%E5%89%B5%E6%A5%AD%E4%BB%A5%E6%9D%A5%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%81%AB%E3%82%88%E3%82%8B%E9%AB%98%E5%BA%A6%E3%81%AA%E6%A9%9F%E8%83%BD%E9%83%A8%E5%93%81%E3%81%AE%E9%96%8B%E7%99%BA%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9F%BA%E5%B9%B9%E7%94%A3%E6%A5%AD%E3%82%92%E6%94%AF%E3%81%88%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE10%E5%B9%B4/1816499586830137/",
+    "https://www.facebook.com/groups/1263922820372032/posts/3911413372289617/",
+    "https://www.facebook.com/kendou.yuan.huizhi/",
+    "https://www.facebook.com/riseiwbaseball/posts/2024617%E6%9C%88%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E8%A5%BF%E9%83%B7%E7%A4%BE%E9%95%B7%E5%B1%A5%E6%AD%A3%E7%A4%BE%E4%B8%AD%E5%AD%A6%E5%8D%92%E3%81%AF%E3%81%98%E3%82%81%E3%81%A8%E3%81%99%E3%82%8B%E7%A4%BE%E5%93%A1%E3%81%AE%E6%96%B9%E3%80%85%E3%81%AB%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%92%E4%BC%81%E7%94%BB%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E7%81%BD%E5%AE%B3%E6%99%82%E3%81%AB%E5%BD%B9%E7%AB%8B/1273709823804320/",
+    "https://www.facebook.com/prtimes.business/posts/%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%86%85%E5%88%9D%E6%BF%80%E7%94%9A%E5%8C%96%E3%81%99%E3%82%8B%E6%B0%B4%E5%AE%B3%E3%81%8B%E3%82%89%E5%91%BD%E3%81%A8%E5%9C%B0%E5%9F%9F%E3%82%92%E5%AE%88%E3%82%8B%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD%E3%81%8C%E6%97%A5%E6%9C%AC%E3%82%AB%E3%83%BC%E3%82%B7%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E5%8D%94%E4%BC%9A%E3%81%AE%E7%81%BD%E5%AE%B3%E6%99%82%E8%BF%94%E5%8D%B4%E3%82%AB%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%92%E5%B0%8E%E5%85%A5%E5%85%A8%E5%9B%BD%E3%81%AE%E8%A2%AB%E7%81%BD%E5%9C%B0%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E5%AE%98%E6%B0%91%E9%80%A3%E6%90%BA%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%B8%E5%8F%82%E7%94%BB/1752352840232132/",
+    "https://www.facebook.com/biwakei/posts/%E5%9C%B0%E5%85%83%E4%BC%81%E6%A5%AD%E3%81%AE%E5%BA%83%E5%A0%B1%E6%8E%A1%E7%94%A8%E6%8B%85%E5%BD%93%E8%80%85%E5%90%91%E3%81%91%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E5%A4%A7%E4%BA%BA%E3%81%AE%E4%BC%9A%E7%A4%BE%E8%A6%8B%E5%AD%A6%E3%81%8C5%E6%9C%8819%E6%97%A5%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD%E6%A0%97%E6%9D%B1%E4%BA%8B%E6%A5%AD%E6%89%80%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E7%9C%8C%E5%86%85%E4%BC%81%E6%A5%AD%E3%81%AE%E5%BA%83%E5%A0%B1%E4%BA%BA%E4%BA%8B%E6%8E%A1%E7%94%A8%E6%8B%85%E5%BD%93%E8%80%85%E3%82%89%E3%81%8C%E5%8F%82%E5%8A%A02023%E5%B9%B4%E5%BA%A6%E3%82%B0/1594330602697684/",
+    "https://www.facebook.com/naoya.murao.9/posts/%E4%B8%89%E6%AC%A1%E5%B8%82-%E3%81%BF%E3%82%89%E3%81%84%E4%BE%A1%E5%80%A4%E5%85%B1%E5%89%B5%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E7%A0%94%E7%A9%B6-%E7%A0%94%E7%A9%B6%E5%93%A1%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E4%B8%89%E6%AC%A1%E5%B8%82%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD%E4%BA%8B%E6%A5%AD%E6%A7%8B%E6%83%B3%E5%A4%A7%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6%E3%81%AE%E7%94%A3%E5%AE%98%E5%AD%A6%E9%80%A3%E6%90%BA%E3%81%A7%E8%A1%8C%E3%82%8F%E3%82%8C%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%A7%E3%81%93%E3%81%AE7%E6%9C%88%E3%81%8B%E3%82%89%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%81%97%E6%9D%A5%E5%B9%B4/3357945144345303/",
+    "https://www.facebook.com/kikito.biwako/posts/%E6%9D%B1%E8%BF%91%E6%B1%9F%E5%B8%82%E6%B0%B8%E6%BA%90%E5%AF%BA%E6%A3%AE%E6%9E%97%E7%B5%84%E5%90%88%E3%81%AE%E5%9C%9F%E5%A0%B4%E3%81%A7%E3%81%AE%E9%96%93%E4%BC%90%E6%9D%90%E8%B2%B7%E5%8F%96%E3%82%8A%E3%81%A8%E3%82%86%E3%81%86%E3%81%84%E3%81%A1%E5%90%9B51%E6%AD%B3%E3%81%AE%E3%81%8A%E8%AA%95%E7%94%9F%E6%97%A5%E4%BC%9A%E3%81%AF%E7%84%A1%E4%BA%8B%E3%81%AB%E7%B5%82%E4%BA%86%E7%AC%91%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E3%81%A7%E3%81%8A%E4%BB%98%E3%81%8D%E5%90%88%E3%81%84%E3%81%8C%E5%A7%8B%E3%81%BE%E3%81%A3%E3%81%9F%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E5%B7%A5%E6%A5%AD%E3%81%95%E3%82%93%E3%82%82%E9%9B%A8%E3%81%AE%E4%B8%AD%E6%9D%90%E3%81%AE%E6%8C%81%E3%81%A1%E8%BE%BC%E3%81%BF/588944723242896/"
+   ]
+  },
+  {
+   "query": "スターライト工業 note 社長",
+   "results": [
+    "https://starlite.co.jp/corporate/outline",
+    "https://www.projectdesign.jp/articles/0b3a547d-adb8-4cfc-9cb0-f6f27ac65058",
+    "https://job.mynavi.jp/28/pc/search/corp58243/outline.html",
+    "https://hp-recruit.net/starlite/company/",
+    "https://tomotsuku-lab.com/info/about_tomotsuku.html",
+    "https://safety-life-support.com/",
+    "https://www.alberotto.com/column/%E8%A5%BF%E9%83%B7%E9%9A%86%E7%9B%9B%E3%81%AE%E6%9C%AB%E8%A3%94%E3%81%8C%E5%AE%88%E3%82%8B%E7%8F%BE%E5%A0%B4%E3%81%AE%E5%AE%89%E5%85%A8%E3%80%82%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88/?srsltid=AYCX9vKAScSQZ3CIGcoBxjgJUkP2DGsUM8fvibI1w7mWF7AXa9L1pYEg",
+    "https://www.city.osaka.lg.jp/asahi/page/0000660804.html",
+    "https://jp.linkedin.com/in/takashi-saigo-8a313a110",
+    "https://www.alberotto.com/column/西郷隆盛の末裔が守る現場の安全。スターライト/"
+   ]
+  },
+  {
+   "query": "スターライト工業 X 投稿",
+   "results": [
+    "https://starlite.co.jp/",
+    "https://safety-life-support.com/news",
+    "https://starlite-tribology.com/",
+    "https://x.com/CARPROex",
+    "https://tomotsuku-lab.com/",
+    "https://prtimes.jp/main/html/searchrlp/company_id/76646",
+    "https://barias-coating-solutions.com/",
+    "https://metoree.com/companies/5470/",
+    "https://starlite.co.jp/newsrelease/information/",
+    "https://www.instagram.com/p/DeCmoEKj2qJ/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像3件／外部14頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式10頁／PDF・画像3件／外部14頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式10頁／PDF・画像3件／外部14頁・検索8回）"
+ }
+}

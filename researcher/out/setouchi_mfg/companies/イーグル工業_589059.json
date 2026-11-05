@@ -1,0 +1,891 @@
+{
+ "name": "イーグル工業",
+ "aliases": [],
+ "context": "広島県広島市／出典:マイナビ／求人媒体:Indeed／想定年収:687〜899万円／従業員:不明",
+ "researched_at": "2026-11-05T04:40:56.072569+00:00",
+ "official_url": "https://www.ekkeagle.com/",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "各種メカニカルシール、特殊バルブ、プラント機器、舶用製品、金属ベローズ応用品等の製造・販売 並びに機械器具設置工事等上記に付帯する業務",
+    "url": "https://tenshoku.mynavi.jp/company/445536/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1964年10月1日",
+    "url": "https://tenshoku.mynavi.jp/company/445536/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　鶴 鉄二",
+    "url": "https://tenshoku.mynavi.jp/company/445536/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒105-8587\n東京都港区芝公園2-4-1　芝パークビル14F",
+    "url": "https://tenshoku.mynavi.jp/company/445536/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "6,300名",
+    "url": "https://tenshoku.mynavi.jp/company/445536/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "10,490,981,500円",
+    "url": "https://tenshoku.mynavi.jp/company/445536/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用ページ": [
+   {
+    "quote": "イーグル工業株式会社の会社概要|転職・求人・中途採用情報サイトのマイナビ転職",
+    "url": "https://tenshoku.mynavi.jp/company/445536/",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "※本記事の数値は、イーグル工業株式会社 有価証券報告書 第72期（2026年3月期）と、NOKグループ採用情報（2026年10月23日閲覧）に基づきます",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用はグループ採用で、窓口はNOK Group株式会社",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "480万円～820万円",
+    "url": "https://tenshoku.mynavi.jp/company/445536/",
+    "pass": 3
+   },
+   {
+    "quote": "440万円～820万円",
+    "url": "https://tenshoku.mynavi.jp/company/445536/",
+    "pass": 3
+   },
+   {
+    "quote": "年収490万円 ／",
+    "url": "https://tenshoku.mynavi.jp/company/445536/",
+    "pass": 3
+   },
+   {
+    "quote": "年収560万円 ／",
+    "url": "https://tenshoku.mynavi.jp/company/445536/",
+    "pass": 3
+   },
+   {
+    "quote": "年収660万円 ／",
+    "url": "https://tenshoku.mynavi.jp/company/445536/",
+    "pass": 3
+   },
+   {
+    "quote": "／ 基本給＋残業代（20時間／月）＋賞与（年2回）",
+    "url": "https://tenshoku.mynavi.jp/company/445536/",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "イーグル工業｜28卒就活×IR資料分析——平均年収899万円、船尾管シールは主要造船国で約6割（6486）｜有価証券報告書で読む企業研究・面接対策｜やましゃん@IR就活",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "イーグル工業｜28卒就活×IR資料分析——平均年収899万円、船尾管シールは主要造船国で約6割（6486）｜有価証券報告書で読む企業研究・面接対策",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "1-5. 働く側の事実——1,335人の平均年収899万2,612円と、新卒が入る会社",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "有報の平均年収は、提出会社の単体（イーグル工業1社だけの数字）だ",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "従業員1,335人、平均年齢41.8歳、平均勤続16.1年、平均年間給与は899万2,612円",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "平均年間給与は前期の約834万円から7.8%増えた",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "・第5章 職種別キャリア分析——平均年収899万2,612円の読み方と、グループ採用で入る職種",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "年収・人員・稼いでいる事業を、面接で話せる形にまとめています",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "イーグル工業株式会社の会社概要|転職・求人・中途採用情報サイトのマイナビ転職",
+    "url": "https://tenshoku.mynavi.jp/company/445536/",
+    "pass": 3
+   },
+   {
+    "quote": "あなたの転職を支援する転職サイト「マイナビ転職」豊富な求人情報と転職情報・転職支援サービスで転職をサポート",
+    "url": "https://tenshoku.mynavi.jp/company/445536/",
+    "pass": 3
+   },
+   {
+    "quote": "※オプトアウトをした場合、マイナビ転職の一部サービスを利用できない場合があります",
+    "url": "https://tenshoku.mynavi.jp/company/445536/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "イーグル工業 株式会社 の 求人 ・中途採用情報 - doda — イーグル工業 株式会社 の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10006411662",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10006411662/",
+    "pass": 3
+   },
+   {
+    "quote": "イーグル工業 の「 年収 ・給与制度」 OpenWork — イーグル工業 の「 年収 ・給与制度」 OpenWork OpenWork https://www.openwork.jp > 機械関連 > イーグル工業",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrMo&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "イーグル工業 株式会社の会社概要 - マイナビ転職 — イーグル工業 株式会社の会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/445536/",
+    "pass": 3
+   },
+   {
+    "quote": "イーグル工業 株式会社 【埼玉県】 の 求人 ・中途採用情報 - doda — イーグル工業 株式会社 【埼玉県】 の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10006411662",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10006411662/-pr__11/",
+    "pass": 3
+   },
+   {
+    "quote": "イーグル工業株式会社 の求人情報（30件） — イーグル工業株式会社 の求人情報（30件） スタンバイ",
+    "url": "https://jp.stanby.com/search?cp_id=35776&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "イーグル工業 新卒 高卒 の求人情報をすべて見る （136件） — イーグル工業 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "採用 情報｜岡山 イーグル 株式会社｜自動車・建設機械部品製造 — 採用 情報｜岡山 イーグル 株式会社｜自動車・建設機械部品製造 イーグル工業株式会社 https://www.ekkeagle.com > ホーム > 採用情報",
+    "url": "https://www.ekkeagle.com/jp/oek/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項を知る | 【 イーグル ブルグマンジャパン株式会社 ... — 募集要項を知る | 【 イーグル ブルグマンジャパン株式会社 ... イーグル工業株式会社 https://www.ekkeagle.com > ebj > recruit-requirements",
+    "url": "https://www.ekkeagle.com/jp/ebj/recruit-requirements/",
+    "pass": 3
+   },
+   {
+    "quote": "イーグル工業 の 新卒採用 ・就職・会社概要とクチコミ — イーグル工業 の 新卒採用 ・就職・会社概要とクチコミ ワンキャリア https://www.onecareer.jp > companies",
+    "url": "https://www.onecareer.jp/companies/6363",
+    "pass": 3
+   },
+   {
+    "quote": "イーグル工業 株式会社の中途 採用 の転職・求人情報 — イーグル工業 株式会社の中途 採用 の転職・求人情報 マイナビ転職エージェント https://mynavi-agent.jp > 企業一覧 > メーカー／製造業",
+    "url": "https://mynavi-agent.jp/corpdetail/16385/",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "また、イーグル工業に勤める若手社員、中間管理職の方にも読んでほしい",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "イーグル工業｜28卒就活×IR資料分析——平均年収899万円、船尾管シールは主要造船国で約6割（6486）｜有価証券報告書で読む企業研究・面接対策｜やましゃん@IR就活",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "イーグル工業｜28卒就活×IR資料分析——平均年収899万円、船尾管シールは主要造船国で約6割（6486）｜有価証券報告書で読む企業研究・面接対策",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "1-1. 会社が自分で決めた目標——2028年度に売上2,000億円・ROE9%以上",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "・売上は1,775億円で5.5%増えたが、本業のもうけ（営業利益）は134億円で58.6%増えた",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "・2026年10月1日にNOK（オイルシールの大手で、筆頭株主）と経営統合し、2028年度に売上2,000億円以上、ROE（株主のお金に対する利益の率）9%以上を目指す",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "「EKKグループで売上高2,000億円以上の達成」「全利益項目において最高益の達成」",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期の実績は、売上1,775億円、ROE8.0%（前期は4.2%）",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "売上は目標まで225億円足りない",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "：「2028年度の売上2,000億円まで、当期の1,775億円から225億円足りません",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "その225億円は、NOKとの統合と自動車向けのどちらで埋める計画ですか」",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・建設機械向けの売上は933億円で、全体の52.5%",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "ところが営業利益は31億円で、100円売って残るのは3.3円だ",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "舶用は売上195億円で営業利益51億円、残るのは26.2円",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "一般産業機械は売上395億円で営業利益57億円、残るのは14.6円だ",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "新入社員研修は例年3か月〜半年で、講義のあとに工場実習がある",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "NOK×イーグル工業 経営統合IPO分析｜「隙間を封じる」だけで年商9,000億円",
+    "url": "https://note.com/signal_news/n/nea72ec049375",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに——「隙間を埋める」だけで、年商9,000億円",
+    "url": "https://note.com/signal_news/n/nea72ec049375",
+    "pass": 3
+   },
+   {
+    "quote": "その「隙間を埋める」だけで、合算の売上高は8,854億円",
+    "url": "https://note.com/signal_news/n/nea72ec049375",
+    "pass": 3
+   },
+   {
+    "quote": "あらゆる回転機械の「軸」の隙間を封じる部品を、世界中の工場に供給し続ける",
+    "url": "https://note.com/signal_news/n/nea72ec049375",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は7,384億円",
+    "url": "https://note.com/signal_news/n/nea72ec049375",
+    "pass": 3
+   },
+   {
+    "quote": "前年の7,669億円から、-3.7%減った",
+    "url": "https://note.com/signal_news/n/nea72ec049375",
+    "pass": 3
+   },
+   {
+    "quote": "親会社株主に帰属する純利益は、303億円から463億円へ",
+    "url": "https://note.com/signal_news/n/nea72ec049375",
+    "pass": 3
+   },
+   {
+    "quote": "だが純利益は49億円から98億円へ、ちょうど2倍になった",
+    "url": "https://note.com/signal_news/n/nea72ec049375",
+    "pass": 3
+   },
+   {
+    "quote": "合算8,854億円のこの会社は、営業利益が465億円しかない",
+    "url": "https://note.com/signal_news/n/nea72ec049375",
+    "pass": 3
+   },
+   {
+    "quote": "なのに、経常利益は638億円ある",
+    "url": "https://note.com/signal_news/n/nea72ec049375",
+    "pass": 3
+   },
+   {
+    "quote": "本業の利益より、173億円も多い",
+    "url": "https://note.com/signal_news/n/nea72ec049375",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "イーグル工業 ｜28卒就活×IR資料分析——平均年収899万円 イーグル工業 ｜28卒就活×IR資料分析——平均年収899万円 note https://note.com > キャリア > 就職活動",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "イーグル工業 （6486）最新株価・配当情報と今後の見通し - note イーグル工業 （6486）最新株価・配当情報と今後の見通し - note note https://note.com > noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-6486",
+    "pass": 3
+   },
+   {
+    "quote": "NOK× イーグル工業 経営統合IPO分析｜「隙間を封じる ... - note NOK× イーグル工業 経営統合IPO分析｜「隙間を封じる ... - note note https://note.com > 投資・マネー > IPO",
+    "url": "https://note.com/signal_news/n/nea72ec049375",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "イーグル工業｜28卒就活×IR資料分析——平均年収899万円、船尾管シールは主要造船国で約6割（6486）｜有価証券報告書で読む企業研究・面接対策｜やましゃん@IR就活",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "イーグル工業｜28卒就活×IR資料分析——平均年収899万円、船尾管シールは主要造船国で約6割（6486）｜有価証券報告書で読む企業研究・面接対策",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "1-1. 会社が自分で決めた目標——2028年度に売上2,000億円・ROE9%以上",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "1-2. 増やす事業と減らす事業——NOKとの統合はロールアップではない",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "1-3. 28卒は、統合から1年半後に入社する",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "1-4. 稼ぎ頭はどこか——売上の半分は、いちばん利益が薄い",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "1-5. 働く側の事実——1,335人の平均年収899万2,612円と、新卒が入る会社",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "2-1. 新品を納める事業と、納めたあとで稼ぐ事業",
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "pass": 3
+   },
+   {
+    "quote": "イーグル工業（6486）株価・今後の見通し・予想｜noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-6486",
+    "pass": 3
+   },
+   {
+    "quote": "NOK×イーグル工業 経営統合IPO分析｜「隙間を封じる」だけで年商9,000億円。名前を誰も知らない二社が一つになる、その本当の理由｜SIGNAL | 決算分析×スタートアップの罠",
+    "url": "https://note.com/signal_news/n/nea72ec049375",
+    "pass": 3
+   },
+   {
+    "quote": "NOK×イーグル工業 経営統合IPO分析｜「隙間を封じる」だけで年商9,000億円。名前を誰も知らない二社が一つになる、その本当の理由",
+    "url": "https://note.com/signal_news/n/nea72ec049375",
+    "pass": 3
+   },
+   {
+    "quote": "SIGNAL | 決算分析×スタートアップの罠",
+    "url": "https://note.com/signal_news/n/nea72ec049375",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに——「隙間を埋める」だけで、年商9,000億円",
+    "url": "https://note.com/signal_news/n/nea72ec049375",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月1日、一つの会社が生まれる。",
+    "url": "https://note.com/signal_news/n/nea72ec049375",
+    "pass": 3
+   },
+   {
+    "quote": "だが、この名前を初めて聞く人がほとんどだろう。",
+    "url": "https://note.com/signal_news/n/nea72ec049375",
+    "pass": 3
+   },
+   {
+    "quote": "この会社は、10月1日にまだ存在すらしていない。",
+    "url": "https://note.com/signal_news/n/nea72ec049375",
+    "pass": 3
+   },
+   {
+    "quote": "9月29日、二つの上場企業が東証から消える。",
+    "url": "https://note.com/signal_news/n/nea72ec049375",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "日経電子版 ビジネス on X: \"NOKと イーグル工業 統合で共同 ... 日経電子版 ビジネス on X: \"NOKと イーグル工業 統合で共同 ... X https://x.com > @nikkei_business",
+    "url": "https://x.com/nikkei_business/status/2105597417634881776",
+    "pass": 3
+   },
+   {
+    "quote": "官報決算データベース on X: \" イーグル工業 株式会社 2026年3 ... 官報決算データベース on X: \" イーグル工業 株式会社 2026年3 ... X https://x.com > @kessan_db",
+    "url": "https://x.com/kessan_db/status/2058183233574224159",
+    "pass": 3
+   },
+   {
+    "quote": "[画像] OCR: EAGLE INDUSTRY 出願人: イーグル工業 株式会社 ... [画像] OCR: EAGLE INDUSTRY 出願人: イーグル工業 株式会社 ... X https://x.com > @trademark_bot",
+    "url": "https://x.com/trademark_bot/status/2073439235378409780",
+    "pass": 3
+   },
+   {
+    "quote": "共同通信PRワイヤー on X: \"NOKと イーグル工業 の経営統合 ... 共同通信PRワイヤー on X: \"NOKと イーグル工業 の経営統合 ... X https://x.com > @kyodonewsprwire",
+    "url": "https://x.com/kyodonewsprwire/status/2105545841989816476",
+    "pass": 3
+   },
+   {
+    "quote": "すいはら on X: \"イーグル工業入ってる！あそこ単なる代理店じゃなか... Dec 4, 2025 · イーグル工業入ってる！ あそこ単なる代理店じゃなかったのか…メカニカルシールがちるのは確かにロケットの高頻度打上には重要か．言われてみればシールって何回まで耐えるんだろう",
+    "url": "https://x.com/muro731/status/1996598091990942159",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "イーグル工業（株） | LinkedIn イーグル工業（株） 機械製造業 港区、東京都 35人のフォロワー",
+    "url": "https://jp.linkedin.com/company/イーグル工業（株）",
+    "pass": 3
+   },
+   {
+    "quote": "イーグル工業株式会社 - LinkedIn イーグル工業株式会社 | LinkedInのフォロワー数3,227人。 Perfection in motion. | イーグル工業株式会社は、機械の信頼性向上と環境負荷低減に貢献するシーリング技術とトライボロジー技術を基盤とするシール・制御製品のグローバルメーカーです。",
+    "url": "https://jp.linkedin.com/company/ekk-eagle-industry-co-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "#イーグル工業 #ekkeagleindustry #jast #日本トライボロジー学会 #も... #イーグル工業 #ekkeagleindustry #JAST #日本トライボロジー学会 #ものづくり #Technology #Engineering #表面テクスチャ #メカニカルシール #surfacetexturedmechanicalseal",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7338031703531077632/",
+    "pass": 3
+   },
+   {
+    "quote": "青山 直樹 - イーグル工業（株） - 機械エンジニア | LinkedIn イーグル工業（株） - 機械エンジニア · 経歴 〜2015 3月: 早稲田大学創造理工学部総合機械工学科卒業 2015 4月〜：イーグル工業株式会社 航空宇宙事業部 技術部 ・航空宇宙用製品の機械設計（構造設計、詳細設計、部品設計） ・製品開発における、試作から ...",
+    "url": "https://jp.linkedin.com/in/naoki-aoyama-255610237/ja",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "イーグル工業株式会社 / EKK Eagle Industry Co.,Ltd. | Minato Tokyoイーグル工業株式会社 /... - イーグル工業株式会社 / EKK Eagle Indu...\\⋱出展レポート ⋰╱... - イーグル工業株式会社 / EKK Eagle Industry ...イーグル工業株式会社 /... - イーグル工業株式会社 / EKK Eagle Indu...イーグル工業株式会社 / EKK Eagle Industry Co.,Ltd.イーグル工業株式会社 / EKK Eagle Industry Co.,Ltd.イーグル工業株式会社 /... - イーグル工業株式会社 / EKK Eagle Indu... Aug 2, 2026 · イーグル工業株式会社 / EKK Eagle Industry Co.,Ltd., Minato-ku. 3",
+    "url": "https://www.facebook.com/EKKEagleIndustry/",
+    "pass": 3
+   },
+   {
+    "quote": "イーグル工業株式会社 /... - イーグル工業株式会社 / EKK Eagle Indu... May 14, 2026 · Recent posts イーグル工業株式会社 / EKK Eagle Industry Co.,Ltd. 1d 【大切なお知らせ】 いつも弊社のFacebookページをご覧いただきありがと うございます。 SNS運用の見直しに伴い、今後 本Facebookページでのお知らせ投稿を終了し、Linked Inへ集約いたします。",
+    "url": "https://www.facebook.com/EKKEagleIndustry/photos/1002068938838649/",
+    "pass": 3
+   },
+   {
+    "quote": "\\⋱出展レポート ⋰╱... - イーグル工業株式会社 / EKK Eagle Industry ... Jul 26, 2026 · We appreciate this opportunity to connect and contribute to the global engineering community! 🌐Please refer to the comments for the related URLs. イーグル工業株式会社 / EKK Eagle Industry Co.,Ltd.",
+    "url": "https://www.facebook.com/EKKEagleIndustry/posts/出展レポート-7月1日より東京ビッグサイトにて開催されたものづくりワールド東京-2026-機械要素技術展に出展しました今回の展示では省エネと高い冷却性能を両立す/1062518119460397/",
+    "pass": 3
+   },
+   {
+    "quote": "イーグル工業株式会社 /... - イーグル工業株式会社 / EKK Eagle Indu... Apr 5, 2026 · Recent Posts イーグル工業株式会社 / EKK Eagle Industry Co.,Ltd. 5d \\⋱「ASME Turbo Expo 2026」講演のお知らせ⋰╱ 6月15日から19日、イタリア・ミラノで開催されるタ ーボ機械・ガスタービン分野の国際学会・展示会「AS",
+    "url": "https://www.facebook.com/EKKEagleIndustry/photos/971854571860086/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ekk.nokgrp.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10006411662/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrMo&q_no=2",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/445536/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/vm/investment_money/company-6486",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/signal_news/n/nea72ec049375",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/nikkei_business/status/2105597417634881776",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kessan_db/status/2058183233574224159",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/trademark_bot/status/2073439235378409780",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kyodonewsprwire/status/2105545841989816476",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/イーグル工業（株）",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/ekk-eagle-industry-co-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7338031703531077632/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/naoki-aoyama-255610237/ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/EKKEagleIndustry/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/EKKEagleIndustry/photos/1002068938838649/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/EKKEagleIndustry/posts/出展レポート-7月1日より東京ビッグサイトにて開催されたものづくりワールド東京-2026-機械要素技術展に出展しました今回の展示では省エネと高い冷却性能を両立す/1062518119460397/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/EKKEagleIndustry/photos/971854571860086/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/muro731/status/1996598091990942159",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "イーグル工業 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10006411662/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrMo&q_no=2",
+    "https://tenshoku.mynavi.jp/company/445536/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10006411662/-pr__11/",
+    "https://jp.stanby.com/search?cp_id=35776&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st",
+    "https://jobhouse.jp/factory/articles/b_588",
+    "https://hw-jobs.careermine.jp/salary/eagle-industry",
+    "https://www.hellowork.careers/%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "https://job-q.me/articles/16288"
+   ]
+  },
+  {
+   "query": "イーグル工業 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.ekkeagle.com/jp/oek/recruit/",
+    "https://www.ekkeagle.com/jp/ebj/recruit-requirements/",
+    "https://www.onecareer.jp/companies/6363",
+    "https://mynavi-agent.jp/corpdetail/16385/",
+    "https://www.ekkeagle.com/jp/hek/recruitment/recruit/",
+    "https://ekk.nokgrp.com/recruit/",
+    "https://tenshoku.mynavi.jp/jobinfo-445536-5-1-4/",
+    "https://jo-katsu.com/campus/23159/",
+    "https://www.openwork.jp/a0910000000FrMo/job/"
+   ]
+  },
+  {
+   "query": "site:note.com イーグル工業",
+   "results": [
+    "https://note.com/irshukatsu/n/nd9e7c0a3b6c9",
+    "https://note.com/tag/vm/investment_money/company-6486",
+    "https://note.com/signal_news/n/nea72ec049375",
+    "https://note.com/good_dill292/n/nd37ac70ffc6b",
+    "https://note.com/sankituushin/n/n735dbca847cb",
+    "https://note.com/yosshiiii_9999/n/n7a7501d4e9fb",
+    "https://note.com/sankituushin/n/ndf971c14f460",
+    "https://note.com/kabuhanetemate/n/n98b62c2effe4",
+    "https://note.com/deft_knot1002/n/nafc07b7be833",
+    "https://note.com/manuru_haitou/n/n96d808e30db1"
+   ]
+  },
+  {
+   "query": "site:x.com イーグル工業",
+   "results": [
+    "https://x.com/nikkei_business/status/2105597417634881776",
+    "https://x.com/kessan_db/status/2058183233574224159",
+    "https://x.com/trademark_bot/status/2073439235378409780",
+    "https://x.com/kyodonewsprwire/status/2105545841989816476",
+    "https://x.com/Nagoya_Tyouki/status/2106045544112222286",
+    "https://x.com/muro731/status/1996598091990942159",
+    "https://x.com/JAM_halibm/status/2104459041204535420/photo/1",
+    "https://x.com/NOK_expo/status/1201656139089203200",
+    "https://x.com/kyodonewsprwire/status/2105545841989816476?lang=bg",
+    "https://x.com/albirexL/status/1800459457899745401"
+   ]
+  },
+  {
+   "query": "site:linkedin.com イーグル工業",
+   "results": [
+    "https://jp.linkedin.com/company/イーグル工業（株）",
+    "https://jp.linkedin.com/company/ekk-eagle-industry-co-ltd",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7338031703531077632/",
+    "https://jp.linkedin.com/in/naoki-aoyama-255610237/ja",
+    "https://jp.linkedin.com/in/哲郎-宇野-701bb6305",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7511316379162189824",
+    "https://nl.linkedin.com/company/ekk-eagle-industry-co-ltd"
+   ]
+  },
+  {
+   "query": "site:facebook.com イーグル工業",
+   "results": [
+    "https://www.facebook.com/EKKEagleIndustry/",
+    "https://www.facebook.com/EKKEagleIndustry/photos/1002068938838649/",
+    "https://www.facebook.com/EKKEagleIndustry/posts/出展レポート-7月1日より東京ビッグサイトにて開催されたものづくりワールド東京-2026-機械要素技術展に出展しました今回の展示では省エネと高い冷却性能を両立す/1062518119460397/",
+    "https://www.facebook.com/EKKEagleIndustry/photos/971854571860086/",
+    "https://www.facebook.com/EKKEagleIndustry/posts/377515084627374/",
+    "https://www.facebook.com/story.php/?story_fbid=454315353614013&id=100071066572555",
+    "https://www.facebook.com/EKKEagleIndustry/photos/d41d8cd9/971854521860091/"
+   ]
+  },
+  {
+   "query": "イーグル工業 note 社長",
+   "results": [
+    "https://japanir.jp/company/company-6486/ir/6486-20260928-01_wp_executive_change/",
+    "https://ekk.nokgrp.com/aboutus/company/message/",
+    "https://www.nikkei.com/article/DGXZQODZ00006_Y6A920C2000000/",
+    "https://kigyo-scope.jp/company/6486/decisions/20260925540374/",
+    "https://kitaishihon.com/company/6486/board-of-director",
+    "https://ekk.nokgrp.com/news/2026/100101.html",
+    "https://finance.biggo.com/news/jpx_tdnet_140120260925540374"
+   ]
+  },
+  {
+   "query": "イーグル工業 X 投稿",
+   "results": [
+    "https://finance.yahoo.co.jp/quote/6486.T/forum",
+    "https://wolf-fun.secret.jp/?cmd=stock_detail&code=6486",
+    "https://x.com/muro731/status/1996598091990942159",
+    "https://ekk.nokgrp.com/",
+    "https://www.instagram.com/stories/ekk_eagle_industry_official/",
+    "https://x.com/spaceconnect_/status/2061360313489072451",
+    "https://xkings.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索8回）"
+ }
+}

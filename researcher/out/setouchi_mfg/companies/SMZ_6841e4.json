@@ -1,0 +1,631 @@
+{
+ "name": "SMZ",
+ "aliases": [],
+ "context": "岡山県岡山市／出典:県・市の企業ガイド／求人媒体:doda／想定年収:500〜500万円／従業員:不明",
+ "researched_at": "2026-11-05T04:50:55.034081+00:00",
+ "official_url": "https://smz-ev.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2021年12月22日",
+    "url": "https://en-ambi.com/agency/a-7693/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "6,140万円",
+    "url": "https://en-ambi.com/agency/a-7693/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "清水正輝",
+    "url": "https://en-ambi.com/agency/a-7693/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "14名 (業務委託含む)",
+    "url": "https://en-ambi.com/agency/a-7693/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "次世代電動モビリティを開発する岡山発のスタートアップ企業。 創業1年8ヶ月で累計資金調達額が1.5億円を突破。 国内向けブランド「VERACITY」とグローバル向けブランド「SHIMIZU」の2軸で展開しており、SHIMIZUでは世界最小のA4サイズに折り畳めるEScooter「Arma」など未だかつてないモビリティを開発しています。 現在は国内外共に電動キックボードなどのマイクロモビリティ開発が中心ですが、今後2輪・4輪だけでなくその先の未来のモビリティの研究開発と世界中での販売を企画しております。 「日本を再び世界一にする」をビジョンに掲げており、日本製で世界中の人に愛され利用される私たちにしか生み出せないモビリティを開発していきます。 これから新しい時代を創る創業期の私たちに共感し、共に世界を変える仲間を熱望しています。",
+    "url": "https://en-ambi.com/agency/a-7693/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "SMZ株式会社の平均年収、年間給与所得情報 − 転職ならdoda（デューダ... — SMZ株式会社の平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで424,436社の企業情報が無料で検索・閲覧できます。",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10216774791/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社SMZの平均年収、年間給与所得情報 − 転職ならdoda（デューダ... — 株式会社SMZの平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで429,466社の企業情報が無料で検索・閲覧できます。",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10142639931/",
+    "pass": 3
+   },
+   {
+    "quote": "SMZ株式会社の転職・求人情報一覧｜若手ハイキャリアのスカウト転職な... — SMZ株式会社の転職・求人情報一覧ページ。 アンビ（AMBI）は若手ハイキャリアのためのスカウト転職サービス。 年収500万円以上の案件が多数。 応募前に合格可能性を判定できる機能や、職務適性がわかるツールなど独自機能が充実。",
+    "url": "https://en-ambi.com/search/?aid=7693",
+    "pass": 3
+   },
+   {
+    "quote": "SMZ株式会社の転職・求人情報一覧｜30代・40代・50代のハイクラス転職... — 転職成功者続出！ SMZ株式会社の転職・求人情報一覧ページ。 各専門分野に精通する転職のプロ、コンサルタントがサポートする日本最大級のキャリア転職情報サイト。 30代・40代・50代のハイクラス転職ならエンの【ミドルの転職】。",
+    "url": "https://mid-tenshoku.com/agency/a-7693/job-list/",
+    "pass": 3
+   },
+   {
+    "quote": "SMZ株式会社の会社概要｜ミドルの転職 — 転職成功者続出！ SMZ株式会社などの人材紹介会社が保有する転職・求人情報が満載。 800万円以上の高年収、管理職・スペシャリストの求人、SMZ株式会社が保有する非公開求人スカウトも多数。",
+    "url": "https://mid-tenshoku.com/agency/a-7693/",
+    "pass": 3
+   },
+   {
+    "quote": "清水物産株式会社SMK 採用サイト｜世界的な電子部品メーカーSMK新卒採用 募集要項｜採用情報｜SMK 採用サイト｜世界的な電子部品メー...SMZ株式会社の転職・求人情報｜若手ハイキャリアのスカウト転職ならア... — TOP 採用情報 総務職（新卒） 総務職（新卒） コネクタ、スイッチ、プラグ・ジャック、リモコン、タッチパネルなど、電子部品の開発、製造、販売を行う世界的部品メーカのSMK株式会社の採用情報サイトです。 SMKの新卒・中途・障がい者向けの採用情報を掲載しています。 新卒採用担当からの メッセージ SMKに興味をお持ちいただきありがとうございます。 SMKは、やってみたい、モノづくりが好き！という想いを100年間繋ぎ続けてきました。同じくそんな思いを持つ皆様がSMKに加わり、新たな風を吹かせてくれることを楽しみにしています。 皆様のご応募を心より ... Dec 22, 2",
+    "url": "https://smz-products.co.jp/recruit_requirements/car002/",
+    "pass": 3
+   },
+   {
+    "quote": "SMZ株式会社の転職・求人情報｜若手ハイキャリアのスカウト転職ならア... — Dec 22, 2021 · SMZ株式会社のページ。 アンビ（AMBI）は若手ハイキャリアのためのスカウト転職サービス。 年収500万円以上の案件が多数。 応募前に合格可能性を判定できる機能や、職務適性がわかるツールなど独自機能が充実。",
+    "url": "https://en-ambi.com/agency/a-7693/",
+    "pass": 3
+   },
+   {
+    "quote": "清水物産株式会社 - smz-products.co.jp — 応募フォーム 採用応募フォーム 清水物産株式会社に入社を希望される方は、下記採用応募フォームからご応募ください。 備考欄以外は全て必須項目となります。 入力に誤りがある場合には、ご連絡が出来ませんのでご留意ください。",
+    "url": "https://smz-products.co.jp/recruit/apply/",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "・中途採用、新卒採用求人掲載、応募対応、学校訪問、ビザ申請資料作成等",
+    "url": "https://smz-products.co.jp/recruit_requirements/car002/",
+    "pass": 3
+   },
+   {
+    "quote": "エントリー→書類選考→一次面接→二次面接→内定",
+    "url": "https://smz-products.co.jp/recruit_requirements/car002/",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "初任給 260,000円（基本給：200,000円、職能手当：35,000、外勤手当：25,000）",
+    "url": "https://smz-products.co.jp/recruit_requirements/car002/",
+    "pass": 3
+   },
+   {
+    "quote": "6,140万円",
+    "url": "https://en-ambi.com/agency/a-7693/",
+    "pass": 3
+   },
+   {
+    "quote": "年収500万円以上の案件が多数",
+    "url": "https://en-ambi.com/agency/a-7693/",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "・技能実習生・特定技能全般管理入社資料保管、残業時間管理、生活サポート等）",
+    "url": "https://smz-products.co.jp/recruit_requirements/car002/",
+    "pass": 3
+   },
+   {
+    "quote": "SMZ株式会社の転職・求人情報｜若手ハイキャリアのスカウト転職ならアンビ（AMBI）",
+    "url": "https://en-ambi.com/agency/a-7693/",
+    "pass": 3
+   },
+   {
+    "quote": "アンビは若手ハイキャリアのためのスカウト転職サービス",
+    "url": "https://en-ambi.com/agency/a-7693/",
+    "pass": 3
+   },
+   {
+    "quote": "ABABA 共同創業者の久保駿貴さんが、起業の秘訣についてアドバイスをくれる「教えてくぼしゅん！」は、若手起業家がやってしまいそうな致命的なミスについて解説",
+    "url": "https://note.com/momo_start/n/nbeba184e5b2e",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "北海道工場、十和田工場、三沢工場、東北工場、関東工場、潮来物流センター、関西工場、徳島工場、九州工場",
+    "url": "https://smz-products.co.jp/recruit_requirements/car002/",
+    "pass": 3
+   },
+   {
+    "quote": "創業1年8ヶ月で累計資金調達額が1.5億円を突破",
+    "url": "https://en-ambi.com/agency/a-7693/",
+    "pass": 3
+   },
+   {
+    "quote": "ももスタは、これまでにない新しい事業や社会課題の解決にビジネスとして取り組む未来の起業家の育成や、ビジネスプランの成長支援を目的としたスタートアップの支援拠点です",
+    "url": "https://note.com/momo_start/n/nbeba184e5b2e",
+    "pass": 3
+   },
+   {
+    "quote": "岡山スタートアップ支援拠点「ももたろう・スタートアップカフェ」公式noteです",
+    "url": "https://note.com/momo_start/n/nbeba184e5b2e",
+    "pass": 3
+   },
+   {
+    "quote": "「いえいえ、国内向けのプロダクトはいまは全部中国の工場で作っているんです",
+    "url": "https://note.com/1zk/n/n54df732a3b25",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【SMZ Inc. 】モビリティメーカーで1兆円企業を目指す 岡山の新星 清... Aug 29, 2024 · 第16回は岡山のモビリティメーカーSMZ Inc. の清水正輝代表。 5年以内に1兆円規模のメーカーに成長すると挑戦を語る清水さんの素顔に迫る。 Forbes JAPAN情報 #セトフラ が登場！ Forbes JAPAN10周年記念号は こちら じっくり伺います。",
+    "url": "https://note.com/momo_start/n/nbeba184e5b2e",
+    "pass": 3
+   },
+   {
+    "quote": "「いかに世界で勝つか？にしか興味がなくて」SMZ株式会社CEO清水正輝... Feb 1, 2024 · 今回のインタビューは、電動モビリティの開発・販売事業を展開するSMZ株式会社CEOの清水正輝さんにお話を伺いました。 一緒にオフィスで過ごす猫さんを抱っこしている清水さん。 Name : 橙香（とうか） 現役高校生 乗り物に対するふんわりとした憧れがある。",
+    "url": "https://note.com/1zk/n/n54df732a3b25",
+    "pass": 3
+   },
+   {
+    "quote": "What we know about the DC domain｜TKD+SMZ - note（ノート） Jan 13, 2026 · What we know about the DC domain TKD+SMZ Jan 13, 2026 13:32 Table of Contents What is the DC domain? What is the problem? FDA's Study Data Technical Conformance Guide Usage examples and rules for the DC domain in SDTM IG v4.0",
+    "url": "https://note.com/cdisc/n/nc56330b4b789?hl=en",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "ももスタは、YouTube番組『Setouchi Startup Flag （通称：セトフラ）』のスポンサーです！",
+    "url": "https://note.com/momo_start/n/nbeba184e5b2e",
+    "pass": 3
+   },
+   {
+    "quote": "公式Youtubeチャンネル『Setouchi Startup Flag』にて毎週水曜21時～配信を行なっています",
+    "url": "https://note.com/momo_start/n/nbeba184e5b2e",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.youtube.com/@8bitnewsAsia",
+    "url": "https://note.com/momo_start/n/nbeba184e5b2e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【SMZ Inc. 】モビリティメーカーで１兆円企業を目指す 岡山の新星 清水正輝 #セトフラ 公開！｜ももスタ",
+    "url": "https://note.com/momo_start/n/nbeba184e5b2e",
+    "pass": 3
+   },
+   {
+    "quote": "【SMZ Inc. 】モビリティメーカーで１兆円企業を目指す 岡山の新星 清水正輝 #セトフラ 公開！",
+    "url": "https://note.com/momo_start/n/nbeba184e5b2e",
+    "pass": 3
+   },
+   {
+    "quote": "ももスタは、YouTube番組『Setouchi Startup Flag （通称：セトフラ）』のスポンサーです！",
+    "url": "https://note.com/momo_start/n/nbeba184e5b2e",
+    "pass": 3
+   },
+   {
+    "quote": "瀬戸内・中四国特化型ベンチャーキャピタル「",
+    "url": "https://note.com/momo_start/n/nbeba184e5b2e",
+    "pass": 3
+   },
+   {
+    "quote": "」の共同代表、藤田圭一郎氏と山田邦明氏がMCとなって地域で活躍する起業家やアトツギを紹介する番組『Setouchi Startup Flag』通称『セトフラ』。",
+    "url": "https://note.com/momo_start/n/nbeba184e5b2e",
+    "pass": 3
+   },
+   {
+    "quote": "堀潤氏が代表を務める8bitNewsが制作をしています。",
+    "url": "https://note.com/momo_start/n/nbeba184e5b2e",
+    "pass": 3
+   },
+   {
+    "quote": "公式Youtubeチャンネル『Setouchi Startup Flag』にて毎週水曜21時～配信を行なっています。",
+    "url": "https://note.com/momo_start/n/nbeba184e5b2e",
+    "pass": 3
+   },
+   {
+    "quote": "セトフラ Setouchi Startup Flag",
+    "url": "https://note.com/momo_start/n/nbeba184e5b2e",
+    "pass": 3
+   },
+   {
+    "quote": "「いかに世界で勝つか？にしか興味がなくて」SMZ株式会社CEO清水正輝インタビュー｜無花果グループ｜よい教育",
+    "url": "https://note.com/1zk/n/n54df732a3b25",
+    "pass": 3
+   },
+   {
+    "quote": "「いかに世界で勝つか？にしか興味がなくて」SMZ株式会社CEO清水正輝インタビュー",
+    "url": "https://note.com/1zk/n/n54df732a3b25",
+    "pass": 3
+   },
+   {
+    "quote": "・瀬戸内エリアで活躍する起業家・経営者にインタビューを行ったもの",
+    "url": "https://note.com/1zk/n/n54df732a3b25",
+    "pass": 3
+   },
+   {
+    "quote": "今回のインタビューは、電動モビリティの開発・販売事業を展開するSMZ株式会社CEOの清水正輝さんにお話を伺いました。",
+    "url": "https://note.com/1zk/n/n54df732a3b25",
+    "pass": 3
+   },
+   {
+    "quote": "一緒にオフィスで過ごす猫さんを抱っこしている清水さん。",
+    "url": "https://note.com/1zk/n/n54df732a3b25",
+    "pass": 3
+   },
+   {
+    "quote": "”いかにして、世界で勝つか？” 「モビリティへの想いと、キックボードをつくるわけ。」",
+    "url": "https://note.com/1zk/n/n54df732a3b25",
+    "pass": 3
+   },
+   {
+    "quote": "SMZさんのインターンでやるお仕事！/事業に込める清水さんの想い",
+    "url": "https://note.com/1zk/n/n54df732a3b25",
+    "pass": 3
+   },
+   {
+    "quote": "「まずは詳しい事業内容からお聞きしてもいいでしょうか？」",
+    "url": "https://note.com/1zk/n/n54df732a3b25",
+    "pass": 3
+   },
+   {
+    "quote": "What we know about the DC domain｜TKD+SMZ",
+    "url": "https://note.com/cdisc/n/nc56330b4b789?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What we know about the DC domain",
+    "url": "https://note.com/cdisc/n/nc56330b4b789?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is the DC domain?",
+    "url": "https://note.com/cdisc/n/nc56330b4b789?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "FDA's Study Data Technical Conformance Guide",
+    "url": "https://note.com/cdisc/n/nc56330b4b789?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Usage examples and rules for the DC domain in SDTM IG v4.0",
+    "url": "https://note.com/cdisc/n/nc56330b4b789?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This article summarizes what is known as of the time of writing about the DC domain, which was introduced in SDTM v4.0.",
+    "url": "https://note.com/cdisc/n/nc56330b4b789?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Last updated: 2026/05/26",
+    "url": "https://note.com/cdisc/n/nc56330b4b789?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "- Demographics Domains: Demographics (DM) and Demographics for Multiple Participations (DC), CDISC Interchange US 2025",
+    "url": "https://note.com/cdisc/n/nc56330b4b789?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "smz (@smz) / X Bob Dylan - I've Made Up My Mind to Give Myself to You - live 01.11.2026 in Zürich From youtube.com 208 smz @smz Nov 2 Bob Dylan - Every Grain of Sand - live in Zürich 1.11.2026 (Last Song)",
+    "url": "https://x.com/smz",
+    "pass": 3
+   },
+   {
+    "quote": "SMZ (@SajirMtz) / X Fan account THE KPDH COLLAB TITLE SCREEN 33 SMZ @SajirMtz Mar 3 I wanted these skins to win the only one that I voted for was the Doug one especially the lili one",
+    "url": "https://x.com/SajirMtz",
+    "pass": 3
+   },
+   {
+    "quote": "SMZ (@zimsmz) / Posts / X SMZ (@zimsmz) - Posts - Political mastermind. Liberal progressive Loves- Great food, stunning architecture and design. Inter... | X (formerly Twitter)",
+    "url": "https://x.com/zimsmz",
+    "pass": 3
+   },
+   {
+    "quote": "smz on X: \"DAVID KOPPEL’S SPOTLIGHT REVEALS THE WILD STORIES ... DAVID KOPPEL’S SPOTLIGHT REVEALS THE WILD STORIES BEHIND HIS CELEBRITY PHOTOGRAPHS! https://t.co/BGSaXrAxyE",
+    "url": "https://x.com/smz/status/2117919934680559807",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by 換算 (@k4smz) / X 先生、Xに投稿されている作品を中国語に翻訳してもよろしいでしょうか？",
+    "url": "https://x.com/k4smz/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "𝓢 (@Smz_0201) / Posts / X Mar 25, 2025 · May 18 【限定/願う紹介】 限定/願う「猫にくびったけ」 にて獲得可能な思念をご紹介します。 星5思念： #シン・猫にくびったけ フォロー＆この投稿をRPで抽選5名様に Amazonコード1,000円分 をプレゼント🎁 🔽応募期間 5/30 23:59迄 #恋と深空 #シン 💬 138 🔄 9430 ...",
+    "url": "https://x.com/Smz_0201",
+    "pass": 3
+   },
+   {
+    "quote": "⚔️島津 鋼輝⚔️ (@kouki_smz) / X 【月イチ音声投稿＃1】 今回は 斎湖様 @psycholovewanko の台本をお借りしました！ 台本置き場【萬華境】より shibalove.web.fc2.com/00-top0-base.h… 素晴らしい台本の数々です！ 是非皆様も覗いてください！ #声優 #島津座",
+    "url": "https://x.com/kouki_smz",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SMZ FOODS (SMZ Industries Private LTD.) - LinkedIn SMZ Foods is a Pakistan based export house with a 56 year legacy in premium rice, grains, spices, and food essentials. Since 1969, we've built a reputation for consistency and quality across...",
+    "url": "https://pk.linkedin.com/company/smzfoods",
+    "pass": 3
+   },
+   {
+    "quote": "SMZ International Group - LinkedIn SMZ International Group is a boutique strategic advisory firm specializing in bespoke solutions that catalyze high-stakes ventures, cross-border investments, and public-private alliances across...",
+    "url": "https://www.linkedin.com/company/smzinternationalgroup",
+    "pass": 3
+   },
+   {
+    "quote": "SMZ Advertising - LinkedIn SMZ Advertising | 3,146 followers on LinkedIn. Where Experience Meets Excellence. | At SMZ, we like to say we’re the overachievers who happily work under the radar, creating noise with a...",
+    "url": "https://www.linkedin.com/company/smz-advertising",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "SMZ - FacebookSMZ Smeets & Zonen | Bree - FacebookFacebook - log in or sign upSMZ Artworks - FacebookSMZ Smeets & Zonen Parts | Bree - FacebookFacebookSMZ - I guess these are going to be the last pictures of ... SMZ. 30,408 followers · 4 talking about this. Artist ️With you, every step feels divine, in your presence, i find my strength, in your love, i find my peace. Together, like Shiva and Parva",
+    "url": "https://www.facebook.com/official.smz/",
+    "pass": 3
+   },
+   {
+    "quote": "SMZ Smeets & Zonen | Bree - FacebookFacebook - log in or sign upSMZ Artworks - FacebookSMZ Smeets & Zonen Parts | Bree - FacebookFacebookSMZ - I guess these are going to be the last pictures of ... Oct 26, 2026 · SMZ Smeets & Zonen, Bree. 18,076 followers · 805 talking about this · 51 were here. Smeets & Zonen operates worldwide and specialises in buying and... Connect with friends and the world a",
+    "url": "https://www.facebook.com/smeetszonen/",
+    "pass": 3
+   },
+   {
+    "quote": "SMZ Artworks - FacebookSMZ Smeets & Zonen Parts | Bree - FacebookFacebookSMZ - I guess these are going to be the last pictures of ... Oct 22, 2026 · SMZ Artworks. 3,326 followers · 32 talking about this. Graphic designer and illustrator 💻 ️🖋 Death metal, sci-fi, and horror obsessed 📼💿🔪 SMZ Smeets & Zonen Parts, Bree. 2,801 followers · 8 talking about this · 1 was here. Smeets & Zonen operates worl",
+    "url": "https://www.facebook.com/SmzArtwork/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://smz-ev.jp/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10216774791/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10142639931/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://en-ambi.com/search/?aid=7693",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://smz-products.co.jp/recruit_requirements/car002/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en-ambi.com/agency/a-7693/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smz-products.co.jp/recruit/apply/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/momo_start/n/nbeba184e5b2e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/1zk/n/n54df732a3b25",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cdisc/n/nc56330b4b789?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/smz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SajirMtz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zimsmz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/smz/status/2117919934680559807",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pk.linkedin.com/company/smzfoods",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/smzinternationalgroup",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/smz-advertising",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/official.smz/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/smeetszonen/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SmzArtwork/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/smz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/k4smz/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Smz_0201",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kouki_smz",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "SMZ 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10216774791/",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10142639931/",
+    "https://en-ambi.com/search/?aid=7693",
+    "https://mid-tenshoku.com/agency/a-7693/job-list/",
+    "https://mid-tenshoku.com/agency/a-7693/",
+    "https://jp.indeed.com/q-smz-求人.html?vjk=c6d23202431b74db",
+    "https://en-ambi.com/agency/a-7693/"
+   ]
+  },
+  {
+   "query": "SMZ 採用 新卒 高卒",
+   "results": [
+    "https://smz-products.co.jp/recruit_requirements/car002/",
+    "https://en-ambi.com/agency/a-7693/",
+    "https://smz-products.co.jp/recruit/apply/",
+    "https://smcrecruit.smcworld.com/guideline/new-graduate/",
+    "https://smcrecruit.smcworld.com/guideline/",
+    "https://www.smk.co.jp/recruitment/r_newcomer/",
+    "https://recruitment.smk.co.jp/ja/information/newcomer.html"
+   ]
+  },
+  {
+   "query": "site:note.com SMZ",
+   "results": [
+    "https://note.com/momo_start/n/nbeba184e5b2e",
+    "https://note.com/1zk/n/n54df732a3b25",
+    "https://note.com/tag/DESIGN.md",
+    "https://note.com/cdisc/n/nc56330b4b789?hl=en",
+    "https://note.com/cdisc/n/n2f5189c6f2ee?hl=en",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/cdisc/n/na8bbf71380ee?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com SMZ",
+   "results": [
+    "https://x.com/smz",
+    "https://x.com/SajirMtz",
+    "https://x.com/zimsmz",
+    "https://x.com/smz/status/2117919934680559807",
+    "https://x.com/ordinarythingzz/status/2110367650346135688",
+    "https://help.x.com/en",
+    "https://help.x.com/en/using-x/download-the-x-app"
+   ]
+  },
+  {
+   "query": "site:linkedin.com SMZ",
+   "results": [
+    "https://pk.linkedin.com/company/smzfoods",
+    "https://www.linkedin.com/company/smzinternationalgroup",
+    "https://www.linkedin.com/company/smz-advertising",
+    "https://az.linkedin.com/company/suraxanı-maşınqayırma-zavodu",
+    "https://pk.linkedin.com/in/zara-nadeem-sheikh-444882275",
+    "https://ae.linkedin.com/company/smz-inc",
+    "https://in.linkedin.com/company/sm-enterprises5"
+   ]
+  },
+  {
+   "query": "site:facebook.com SMZ",
+   "results": [
+    "https://www.facebook.com/official.smz/",
+    "https://www.facebook.com/smeetszonen/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/SmzArtwork/",
+    "https://www.facebook.com/smzparts.be/",
+    "https://www.facebook.com/theSMZofficial/",
+    "https://www.facebook.com/official.smz/posts/i-guess-these-are-going-to-be-the-last-pictures-of-my-bike️-honda-crfrally/1389547335853397/"
+   ]
+  },
+  {
+   "query": "SMZ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/smz2",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw"
+   ]
+  },
+  {
+   "query": "SMZ X 投稿",
+   "results": [
+    "https://x.com/smz",
+    "https://x.com/k4smz/with_replies",
+    "https://x.com/Smz_0201",
+    "https://x.com/kouki_smz",
+    "https://x.com/mh_smz/status/2112491532062495044",
+    "https://x.com/kanon_smz2bmg/status/2068538384768008625",
+    "https://tuma.jp/gazou/category/31"
+   ]
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索8回）"
+ }
+}

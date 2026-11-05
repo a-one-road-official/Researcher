@@ -1,0 +1,1257 @@
+{
+ "name": "経営上の問題点 製造業「求人難・人手不足」を挙げた割合（中小企業景況調査・年ごと）",
+ "en": "share of SME manufacturers citing labor shortage as top issue Japan survey yearly",
+ "aliases": [
+  "中小企業景況調査 経営上の問題点 求人難 製造業 site:smrj.go.jp",
+  "日本政策金融公庫 全国中小企業動向調査 経営上の問題点 求人難",
+  "経営上の問題点 求人難 割合 推移 filetype:pdf"
+ ],
+ "context": "①営業と採用・一次（人材確保の側）",
+ "kind": "market",
+ "researched_at": "2026-11-05T04:31:26.726666+00:00",
+ "evidence": {
+  "社数（規模別）": [
+   {
+    "quote": "従業者規模別の企業の雇用者数の推移について、直近の20年間で従業者規模が1～29人の企業と500人以上の規模の企業について着目して見ると、当初は両者の雇用者数は共に横ばいで推移していたが、2000年代に入るにつれて従業者規模が1～29人の企業の雇用者数は減少傾向に、500人以上の企業は増加傾向に転じ、2014年以降は雇用者数が逆転している（",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "2．この場合の未充足率は、各事業所の未充足率を求めた上で、それらを合計した後、事業所数で除することで算出している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2-1-8 図 従業者規模別非農林雇用者数の推移",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、外国人労働者を雇用する事業所数は約 19 万",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コラム 2-1-1 ①図 外国人労働者数及び外国人雇用事業所数の推移",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2‌n は回答のあった企業数（図－5も同じ）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   }
+  ],
+  "採用難（公的統計）": [
+   {
+    "quote": "第1章 深刻化する人手不足の現状",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "第2部 深刻化する人手不足と中小企業の生産性革命",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1章では、昨今強まっている人手不足の実態について現状を把握する",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1節 中小企業において深刻化する人手不足",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "〔1〕中小企業における人手不足感",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "〔3〕人材の未充足率",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "第 1節 中小企業において深刻化する人手不足",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 1 章では、昨今強まっている人手不足の実態について現状を把握する",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2-1-3 図 従業員規模別に見た、人材の未充足率",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1．未充足率＝ （未充足者数／常用労働者数）×100",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2．この場合の未充足率は、各事業所の未充足率を求めた上で、それらを合計した後、事業所数で除することで算出している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2-1-4 図 従業員規模別高校卒業者の充足率の推移",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2．充足率＝ （就職者数/求人数）×100",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "深刻化する人手不足の現状第1章",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 3節 人手不足の下での中小企業の対応",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：三菱 UFJ リサーチ＆コンサルティング（株） 「人手不足対応に向けた生産性向上の取組に関する調査」 （2017年 12 月）",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2-1-29 図 人手不足感別に見た、女性・シニアの活用状況",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2-1-32 図 人手不足感別に見た、女性・シニアの業務範囲拡大へ向けた取組の実施状況",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第3は、人手不足が企業にどのような影響を与え、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   }
+  ],
+  "採用にいくら払うか": [
+   {
+    "quote": "5年間でいずれの規模の企業においても高校卒業者の充足率は減少傾向にあり、特に従業員が29人以下の企業については充足率の減少が著しく、足下では求人数の5分の1程度しか確保できていないことが分かる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別の企業の雇用者数の推移について、直近の20年間で従業者規模が1～29人の企業と500人以上の規模の企業について着目して見ると、当初は両者の雇用者数は共に横ばいで推移していたが、2000年代に入るにつれて従業者規模が1～29人の企業の雇用者数は減少傾向に、500人以上の企業は増加傾向に転じ、2014年以降は雇用者数が逆転している（",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "3．1 年間における回答を平均して算出している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2．1 年間における回答を平均して集計している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2．1 年間における回答を平均して算出している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2-1-25 図 賃上げ（一人当たり平均賃金の改定率）の推移",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4．一人平均賃金の改定率は、常用労働者数による加重平均による",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2．ここでいう大企業とは資本金 10 億円以上の企業、中小企業とは資本金 1 千万円以上 1 億円未満の企業とする",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本金 300 万円）は、作業療法士の資格を持つ雅樂川陽子",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 2,000 万円）は、1888 年に鍛冶屋と して創業し、",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "岐阜県中津川市の株式会社加藤製作所 従業員 \u0014\u0013\u001a 名、資本金 \u0015\u000f\u0013\u0013\u0013 万円 は、\u0014\u001b\u001b\u001b 年に鍛冶屋として創業し、5",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本金1,000万円）は、一時保育や小規模認可保育園を手",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本金2,000万円）は、金属パイプ成形加工によ り 、業務",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本金 1,000 万円）は、特殊金属のリサイ クルと金属系産業",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社有吉農園（従業員15名、資本金300万円）",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上記の結果、取組を始めて約 3 年間で高齢者（最高 68",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "比較可能な1980年代から足元までの約40年間の時",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が大きいうえに、1981年から90年の10年間で1.5倍",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注） 1‌月次の現金給与総額の年平均値",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－７ 現金給与総額の推移（事業所規模別）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "野呂さんは31年間、大手化",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 1,000万円",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "や金融機関に16年間勤め、ネット",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "費が保険料込みで約12万円以上、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "防疫検査の代行費用が約2万円、さ",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年までの22年間で、53カ国",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平均すると月に3、4件の受注",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を1年間にわたり紹介していきます",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   }
+  ],
+  "営業と採用のどちらに困っているか": [
+   {
+    "quote": "第1章 深刻化する人手不足の現状",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "第2部 深刻化する人手不足と中小企業の生産性革命",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1章では、昨今強まっている人手不足の実態について現状を把握する",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1節 中小企業において深刻化する人手不足",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "〔1〕中小企業における人手不足感",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "〔2〕中小企業の抱える経営課題",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "第 1節 中小企業において深刻化する人手不足",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 1 章では、昨今強まっている人手不足の実態について現状を把握する",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "深刻化する人手不足の現状第1章",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4．「適当な仕事がありそうにない」の内訳である上記の選択肢のみで回答割合が合計 100％となるように再集計している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3．「適当な仕事がありそうにない」の内訳である上記の選択肢のみで回答割合が合計 100％となるように再集計している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 3節 人手不足の下での中小企業の対応",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：三菱 UFJ リサーチ＆コンサルティング（株） 「人手不足対応に向けた生産性向上の取組に関する調査」 （2017年 12 月）",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 労働人材不足への対応",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2-1-23 図 中小企業における労働人材不足への対応方法",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 労働人材不足に対応するための、女性・シニア活用の実態",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2-1-28 図 業種別に見た、労働人材不足対応へ向けた女性・シニアの活用状況",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2-1-29 図 人手不足感別に見た、女性・シニアの活用状況",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2-1-32 図 人手不足感別に見た、女性・シニアの業務範囲拡大へ向けた取組の実施状況",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上位3項目は、 「原材料高」 「売上・受注の停滞、減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に40％近い水準となり、第1位となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2‌直近の上位3項目を表示",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第3は、人手不足が企業にどのような影響を与え、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   }
+  ],
+  "前例の会社（製造業特化）": [
+   {
+    "quote": "本調査の対象は、常時雇用する従業員数が21名以上の中小企業であることに留意が必要である",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、中小企業における業種別の人手不足感を見るため、中小企業庁・（独）中小企業基盤整備機構「中小企業景況調査」を用いて従業員数過不足DIの推移を確認する（",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを見ると、全ての業種において、2009年をピークに総じてマイナス方向に転じ、2013年第4四半期以降、全ての業種において従業員が「過剰」と答えた企業の割合を従業員が「不足」と答えた企業の割合が上回っていることが分かる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "（株）日本政策金融公庫「全国中小企業動向調査」は、小企業編（原則従業員20人未満）と中小企業編（原則従業員20人以上）に分けて調査されている",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、企業の従業員規模別に、人材の未充足率を表したものである",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "続いて、従業員規模別に見た、高校卒業者の充足率の推移を確認する（",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "5年間でいずれの規模の企業においても高校卒業者の充足率は減少傾向にあり、特に従業員が29人以下の企業については充足率の減少が著しく、足下では求人数の5分の1程度しか確保できていないことが分かる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "次に、従業員規模別に企業の大卒予定者求人数及び就職希望者数の推移について確認する",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員299人以下の企業において、求人倍率は約3～4倍で推移してきたが、足下では上昇傾向にあり、2017年度は6.4倍と大きく跳ね上がっていることが分かる（",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "では、事業所の従業員規模別に求人数の推移を確認する",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを見ると、2009年に全ての従業員規模の企業で求人数が落ち込んだ後、規模が小さいほど求人を増加させていることが分かる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "pass": 3
+   },
+   {
+    "quote": "第 2-1-1 図 業種別従業員数過不足 DI の推移",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）従業員数過不足数 DI とは、従業員の今期の状況について、 「過剰」と答えた企業の割合（％）から、 「不足」と答えた企業の割合（％）",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "する従業員数が 21 名以上の中小企業であることに留意が必要である",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "求人難 売上・受注の停滞、減少 人件費、支払利息等経費の増加",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）ここでいう中小企業とは、 （株）日本政策金融公庫取引先のうち、原則として従業員20 人以上の企業",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 （株）日本政策金融公庫「全国中小企業動向調査」は、小企業編（原則従業員 20 人未満）と中小企業編（原則従業員 20 人以上）に分けて調査されている",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2-1-3 図 従業員規模別に見た、人材の未充足率",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2-1-4 図 従業員規模別高校卒業者の充足率の推移",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2-1-5 図 従業員数 299 人以下の企業の大卒予定者求人数・就職希望者数の推移",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2-1-6 図 従業員数 300 人以上の企業の大卒予定者求人数・就職希望者数の推移",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "正規の職員・従業員 非正規の職員・従業員 その他役員等",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1．労働分配率＝人件費（役員給与＋役員賞与＋従業員給与＋従業員賞与＋福利厚生費）/ 付加価値額（人件費＋支払利息等＋動産・不動",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "群馬県桐生市の有限会社COCO-LO（従業員86名、資",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社長が、祖母の介護を機に、数名の従業員と共に2005",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年に創業した、訪問看護事業所、通所介護事業所、居宅",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次に、二つ目の考え方として、従業員に向けた消費者",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "昨今、リスキリングが叫ばれ、従業員の学び直しの機会",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が従業員に対して行う理由とは、第1には企業のリスク",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第2の理由は、従業員が持つ消費者の視点が、企業経",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会を実現する上で、企業活動に求められる事項を従業員",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て、消費者教育を受けた従業員の消費者の視点が身近",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上位3項目は、 「原材料高」 「売上・受注の停滞、減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（以下、売上不振） 」 「求人難」の順となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－2で従業員",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上機会を逃したり、残業代などの追加コストが発生し",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代には、従業員 DI もまた、バブル期以来の高水準となっ",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第1に、長期的にみて、景況感と従業員の増減の関",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "いた時代と比べて、従業員を増やしにくくなってきてい",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第2に、従業員を増やす企業と減らす企業で、属性",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2‌従業員 DI は、前年同期比で「増加」企業割合－ 「減少」企業割合（季節調整値）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   }
+  ],
+  "採用広報・採用サイトの単価": [
+   {
+    "quote": "2．ここでいう大企業とは資本金 10 億円以上の企業、中小企業とは資本金 1 千万円以上 1 億円未満の企業とする",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本金 300 万円）は、作業療法士の資格を持つ雅樂川陽子",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 2,000 万円）は、1888 年に鍛冶屋と して創業し、",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "岐阜県中津川市の株式会社加藤製作所 従業員 \u0014\u0013\u001a 名、資本金 \u0015\u000f\u0013\u0013\u0013 万円 は、\u0014\u001b\u001b\u001b 年に鍛冶屋として創業し、5",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本金1,000万円）は、一時保育や小規模認可保育園を手",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本金2,000万円）は、金属パイプ成形加工によ り 、業務",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本金 1,000 万円）は、特殊金属のリサイ クルと金属系産業",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社有吉農園（従業員15名、資本金300万円）",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 1,000万円",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "費が保険料込みで約12万円以上、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "防疫検査の代行費用が約2万円、さ",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   }
+  ],
+  "継続して払うか": [
+   {
+    "quote": "その後もシニア人材を継続的に採用し、今では従業員",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その後もシニア人材を継続的に採用し、今では従業員 \u0014\u0013\u001a 名のうち、短時間勤務のシニア人材が \u0018\u0017 名と約半数",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り 、平成 19 年に届出が義務化されて以来の過去最高値を更新 した",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "か所とな り 、外国人労働者数同様、過去最高値を更新 した（コ ラム2-1-1 ①図）",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "き手の立場に立 った）職場環境改善」等、総合的な取組を多面的・継続的に行 っている こ とが多い",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "れるが、その確立には、地域金融機関や大学、NPO 法人等地域に根ざ した機関等の担い手によ る継続的な運営が必要",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（木造建築工事業）など、人手不足が事業の継続に与え",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "景気の変動にかかわらず、事業を継続するうえで避けて",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "継や事業の継続に支障が出かねない状況も広がってきて",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "響を受け、2020年に業況判断DIは過去最低を更新する",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "度でブログを更新し、写真や用語解説を交えて記事を掲",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の開設や運用を支援したりと、支援",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ルの違いは、操作中にも思考を継続したい状況で問題と",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が多いなら、紙の継続的利用を検討する価値があるかも",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "手書きには、 入力中にも思考を継続できる利点がある",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   }
+  ],
+  "どう買われるか": [
+   {
+    "quote": "資料：厚生労働省「新規学卒者の職業紹介状況」",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社長が、祖母の介護を機に、数名の従業員と共に2005",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "知度が高ま り 、常に雇用についての問い合わせが来るよ",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "多数いるこ とを知り 、同社の加藤景司社長（当時専務）",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "」と、加藤社長は語る",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その時、 働く意欲はあるが働く場のないシニア人材が多数いることを知り、 同社の加藤景司社長 当時専務 は、10",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "」 と、 加藤社長は語る",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加藤景司社長\u0003 同社で働くシニア人材の姿\u0003 同社がシニア人材向けに出した広告\u0003",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "公嗣社長が、シ ョ ッピングモールでおむつの販売イベン ト",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そこ で、有吉富雄社長が年間の業務を振り返ったと こ",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現状では、経営支援（経営支援機関等）と求人採用支援（人材紹介会社等）は、異なる機関が担当する こ とが多い",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "れるが、その確立には、地域金融機関や大学、NPO 法人等地域に根ざ した機関等の担い手によ る継続的な運営が必要",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "28 戦国マネジメ ン ト ―社長とし ての戦国大名―",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "菓子屋を開くことで、地元の役に立",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "使う材料は、できる限り地元業者か",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "地元では、一人暮らしのお年寄り",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が募ったものの、 地元でのネットワー",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、さまざまな場所や方法で、地元",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ちが地元の良さを理解し、交流を深",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ほかにも、地元の小学校や中学校",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "敬老の日の菓子をきっかけに、地元",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で地元の人との関係を築きながら、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "こうした良好な関係が築かれているのは、荒井さんが常に地元の人たちを気遣い、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の取引先だった㈱キラックスの社長である吉良伸一さん",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "た製品や技術、サービスに関する展示会で、環境分野と",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全般における環境意識の高まりから、展示会で知り合っ",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今回紹介した２社は水に弱い、独特のにおいがある、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "300",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "quote": "本金 300 万円）は、作業療法士の資格を持つ雅樂川陽子"
+   },
+   {
+    "value": "2,000",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "quote": "資本金 2,000 万円）は、1888 年に鍛冶屋と して創業し、"
+   },
+   {
+    "value": "1,000",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "quote": "本金1,000万円）は、一時保育や小規模認可保育園を手"
+   },
+   {
+    "value": "1,000",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "quote": "資本金 1,000万円"
+   },
+   {
+    "value": "12",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "quote": "費が保険料込みで約12万円以上、"
+   },
+   {
+    "value": "2",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "quote": "防疫検査の代行費用が約2万円、さ"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bsearch.co.jp/media/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.osaka-ue.ac.jp/file/general/37572",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mirasapo-plus.go.jp/wordpress/wp-content/uploads/2020/03/26173736/jinzai_guidelines.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-tantou.sun-spark.jp/blog/sme-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/19/dl/19-2-2-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/24-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smrj.go.jp/press/2026/qsktgp000000b76c-att/20260930_press01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmac.co.jp/column/detail/manufacturing_2024_survey.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.manufacturing-world.jp/hub/ja-jp/blog/article20.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoscope-media.com/people-labor-shortage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b2_1_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経営上の問題点 製造業「求人難・人手不足」を挙げた割合（中小企業景況調査・年ごと）",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "https://www.bsearch.co.jp/media/manufacturing/",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://www.staffservice.co.jp/client/contents/work/column005.html",
+    "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/19/dl/19-2-2-1.pdf"
+   ]
+  },
+  {
+   "query": "経営上の問題点 製造業「求人難・人手不足」を挙げた割合（中小企業景況調査・年ごと） 調査 PDF",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/37572",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://mirasapo-plus.go.jp/wordpress/wp-content/uploads/2020/03/26173736/jinzai_guidelines.pdf",
+    "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://www.bsearch.co.jp/media/manufacturing/",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/19/dl/19-2-2-1.pdf"
+   ]
+  },
+  {
+   "query": "経営上の問題点 製造業「求人難・人手不足」を挙げた割合（中小企業景況調査・年ごと） 厚生労働省",
+   "results": [
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-2.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.bsearch.co.jp/media/manufacturing/",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/",
+    "https://ai-tantou.sun-spark.jp/blog/sme-labor-shortage",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html"
+   ]
+  },
+  {
+   "query": "経営上の問題点 製造業「求人難・人手不足」を挙げた割合（中小企業景況調査・年ごと） 規模別 万円",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://www.smrj.go.jp/press/2026/qsktgp000000b76c-att/20260930_press01.pdf",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/19/dl/19-2-2-1.pdf"
+   ]
+  },
+  {
+   "query": "経営上の問題点 製造業「求人難・人手不足」を挙げた割合（中小企業景況調査・年ごと） 製造業 事例",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.bsearch.co.jp/media/manufacturing/",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "https://www.youtube.com/watch?v=I8TK4vxFo08",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article20.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html"
+   ]
+  },
+  {
+   "query": "経営上の問題点 製造業「求人難・人手不足」を挙げた割合（中小企業景況調査・年ごと） 2025 OR 2026",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://www.youtube.com/watch?v=qPwxmxo953Q"
+   ]
+  },
+  {
+   "query": "site:note.com 経営上の問題点 製造業「求人難・人手不足」を挙げた割合（中小企業景況調査・年ごと）",
+   "results": [
+    "https://note.com/alert_swan3960/n/n4dc2e9a7fdc7",
+    "https://note.com/anatagohanyo/n/n7feb93a1f66c",
+    "https://note.com/utsu50/n/ncd0025640e1f",
+    "https://note.com/amane_bombaye/n/n7e0b138e6b7d",
+    "https://note.com/credit_rabbit/n/n26d9c1072e7c",
+    "https://note.com/crisp_panda5486/n/nce1fc643137d",
+    "https://note.com/keiei_lab_note/n/nbfb89bcc221f",
+    "https://note.com/chic_deer1160/n/n90f503955cf1",
+    "https://note.com/improvebiz_jp/n/nd371b66b32fb",
+    "https://note.com/kaji0620/n/nb1dec436c34b"
+   ]
+  },
+  {
+   "query": "site:x.com 経営上の問題点 製造業「求人難・人手不足」を挙げた割合（中小企業景況調査・年ごと）",
+   "results": [
+    "https://x.com/i/trending/2106676181609193886",
+    "https://x.com/inagaki_hq/status/2093830705583460430",
+    "https://x.com/icchi_sokuho/status/2106982969248477540",
+    "https://x.com/hisas1973/status/2107215662934532404",
+    "https://x.com/i/trending/2106951963829284908",
+    "https://x.com/TSR_NEWS/status/2106933859250278638",
+    "https://x.com/sputnik_jp/status/2107078609869647876"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 経営上の問題点 製造業「求人難・人手不足」を挙げた割合（中小企業景況調査・年ごと）",
+   "results": [
+    "https://jp.linkedin.com/posts/kotarofuruno_卸の中でも機械器具は人手不足が2位-中小企業基盤整備機構の景況調査2026-activity-7522800007473786880-5a-H",
+    "https://jp.linkedin.com/posts/keisuke-saita_2024年1-11月人手不足倒産266件人材難の中小企業が押し上げ年間最多-activity-7287984327764676608-NimJ",
+    "https://jp.linkedin.com/posts/daishiito-com_人手不足-採用-経営-activity-7498152258388475904-3swP",
+    "https://jp.linkedin.com/posts/koji-furukawa-b79a98289_日銀短観の雇用人員判断diを見ていて改めて人手不足の根深さを感じた雇用人員判断-activity-7515560652921270272-rDTf",
+    "https://jp.linkedin.com/posts/naruhiro-seya-a66281342_日本の製造業が長年築き上げてきた現場力や品質力-今それが組織のあちこちで-activity-7465205137754492928-s1Rd",
+    "https://jp.linkedin.com/posts/kazuji-nakazato_人手不足で製造業はどう変わる経産省ものづくり白書に見るdxの課題と打ち手-activity-7445768827944226816-NK9n",
+    "https://jp.linkedin.com/posts/海地-杉田-053ab0348_求人を出してもそもそも応募が一件も来ない-人手不足の相談でここ最近いちばん-activity-7476839397443698688-Sszn"
+   ]
+  },
+  {
+   "query": "site:facebook.com 経営上の問題点 製造業「求人難・人手不足」を挙げた割合（中小企業景況調査・年ごと）",
+   "results": [
+    "https://www.facebook.com/tsrnet/posts/人手不足が一層深刻関連倒産が上半期最多-求人難退職人件費のトリプル苦が中小企業を直撃中小企業で人手不足の深刻な影響が広がっている2025年上半期1-6月の人手不/1464265728210192/",
+    "https://www.facebook.com/tsrnet/photos/深刻人手不足関連倒産が4月としては過去最多賃上げをできない零細企業ほど人手不足が進む悪循環2025年4月の人手不足が一因の倒産は36件前年同月比440増で4月と/1415899289713503/",
+    "https://www.facebook.com/tsrnet/photos/人件費高騰の倒産が急増人手不足が深刻に-2024年の人手不足倒産-過去最多の289件コロナ禍は落ち着いたが大手中心に進む賃上げが中小企業を追い詰めている2024/1338633554106744/",
+    "https://www.facebook.com/nipponishinnokai/videos/人手不足なのに人が余る-ai時代の雇用危機2026年6月3日-衆議院-経済産業委員会日本維新の会-衆議院議員-阿部司阿部議員aiによる業務の代替ですね職種そのも/1005666675767566/",
+    "https://www.facebook.com/ビジなび【公式】/videos/448821197922741/",
+    "https://www.facebook.com/talentxbuzz/photos/採用危機深刻化カギは業界理解-候補者理解-物流建設業界で7割近くが正社員不足と回答企業の現場力が問われる今必要なのは本質的なマッチング帝国データバンクの最新調査/740302728742958/",
+    "https://www.facebook.com/kensyu.saitama/photos/月刊誌アクセス埼玉2026年1月号-発行特集新春座談会-人手不足対応企業の取り組み-座談会のテーマは人手不足対応企業-の取り組みです少子高齢化超高齢社会で労働人/1279359427555022/"
+   ]
+  },
+  {
+   "query": "経営上の問題点 製造業「求人難・人手不足」を挙げた割合（中小企業景況調査・年ごと） note 社長",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "https://note.com/japancareer_co/n/n674223972b65",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%83%BB%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%82%92%E8%A7%A3%E6%B6%88%E3%81%99%E3%82%8B%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90%E3%81%A8%E5%AF%BE/",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "https://www.osaka-ue.ac.jp/file/general/37572",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803"
+   ]
+  },
+  {
+   "query": "経営上の問題点 製造業「求人難・人手不足」を挙げた割合（中小企業景況調査・年ごと） X 投稿",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://www.bsearch.co.jp/media/manufacturing/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html"
+   ]
+  },
+  {
+   "query": "share of SME manufacturers citing labor shortage as top issue Japan survey yearly site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/copy-japan-targets-5000-companies-india-2029-yashasvi-rathore-gxlrc",
+    "https://business.linkedin.com/learn/resources/workplace-learning-report",
+    "https://www.linkedin.com/in/toshihiro-kazama-667736111",
+    "https://www.linkedin.com/in/willhealyiii",
+    "https://www.linkedin.com/posts/brunellalupano_global-usage-of-anthropics-claude-ai-activity-7506274787988705280-y6M5",
+    "https://www.linkedin.com/in/denise-campbell-7152257",
+    "https://sg.linkedin.com/in/jane-chen-71b76734",
+    "https://www.linkedin.com/top-content/recruitment-hr/understanding-labor-market-trends/corporate-restructuring-trends/",
+    "https://www.linkedin.com/in/jaspercan",
+    "https://www.linkedin.com/in/richardswartphd"
+   ]
+  }
+ ],
+ "missing": {
+  "作る側の原価": "記載なし（読んだ30頁・検索13回）"
+ }
+}

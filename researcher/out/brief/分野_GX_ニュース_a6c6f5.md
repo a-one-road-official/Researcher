@@ -509,50 +509,50 @@
   - ［一次］2026-11-04「世界の 小型モジュール炉 の開発動向 - 内閣府原子力委員会 — 世界の 小型モジュール炉 の開発動向 - 内閣府原子力委員会 原子力委員会 PDF https://www.aec.go.jp > teirei > siryo32 > 1_haifu」https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf
   - ［記事］2026-11-04「小型モジュール炉SMR はデータセンターの深刻な電力不足を ... — 小型モジュール炉SMR はデータセンターの深刻な電力不足を ... オルタナティブ・ブログ https://blogs.itmedia.co.jp > business20 > 2026/10 > smrai」https://blogs.itmedia.co.jp/business20/2026/10/smrai.html
 ### 業界ニュース（毎日）｜バイオ由来化学品（bio-based chemicals）
-- 取得：2026-11-04T01:15・調査1回目・読んだ頁37
-- 顧客（金を払う側）（60件）：
-  - ［一次］2026-11-04「本発表会は、バイオものづくり分野に取り組む大学・研究機関や企業、自治体等に毎月ご登壇いただき、取組内容の紹介と意見交換を行うことで、バイオものづくり分野への理解を深めていただき、産学連携・産産連携の促進を図ることを目的としています」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
-  - ［一次］2026-11-04「随時募集中となっておりますので、バイオものづくり分野に取り組まれている研究者、企業、自治体の皆様は是非エントリーください」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
-  - ［一次］2026-11-04「14:10～14:30 「『【企業向け】事例から考える！バイオものづくり製品導入に向けたガイドブック』のご紹介」」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
-  - ［一次］2026-11-04「バイオものづくりは、環境対応だけでなく調達戦略や新たな価値創出にもつながる、現在注目の生産技術です」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
-  - ［一次］2026-11-04「導入の考え方から成功のポイントまで、実践的に学べる機会をぜひご活用ください」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
-- 顧客の顧客（発注元が求めること）（38件）：
+- 取得：2026-11-05T04:31・調査2回目・読んだ頁37
+- 顧客（金を払う側）（77件）：
+  - ［一次］2026-11-05「料メーカー、農家」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
+  - ［一次］2026-11-05「メーカー、小売、」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
+  - ［一次］2026-11-05「食品メーカー、」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
+  - ［一次］2026-11-05「化学、食品メーカー」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
+  - ［一次］2026-11-05「 2025年3月、GX企業の人材確保に関する事例集を公表」https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf
+- 顧客の顧客（発注元が求めること）（43件）：
+  - ［一次］2026-11-05「（脱炭素電源を活用し、当該電源の立地地域に貢献する事業者の設備投資を後押し）」https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf
+  - ［一次］2026-11-05「脱炭素電源を活用した団地を整備し、当」https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf
+  - ［一次］2026-11-05「 脱炭素のための設備更新等のため、」https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf
   - ［一次］2026-11-04「本講演では、糖資源を用いた発酵法による芳香族化学品生産を紹介し、脱炭素と経済安全保障を両立する国産バイオものづくりの方向性を議論する」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
   - ［一次］2026-11-04「今後は製造効率向上と用途開発を加速させ、脱炭素社会に向けた木質資源の社会実装を目指す」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
-  - ［一次］2026-11-04「ス製品の認証・標準化を推進」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-  - ［一次］2026-11-04「• 燃料や素材等の 汎用領域では、脱炭素や経済安保の観点からの 政策的な市場創出 ・需要促進」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-  - ［一次］2026-11-04「⚫ 併せて、経済安全保障や脱炭素の観点から国内生産基盤の構築が求められる領域（バイオエタノール等）については、需要創」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-- 顧客の競合（奪いに来る側）（34件）：
+- 顧客の競合（奪いに来る側）（40件）：
+  - ［一次］2026-11-05「ら中国への輸出は徐々に難しくなり減少していく見込み」https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf
   - ［一次］2026-11-04「演者はこれまでにインドネシア研究者らとの連携によって、実バイオマスを用いたバイオものづくりに焦点をあてた研究を進めてきている」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
   - ［一次］2026-11-04「2025年12月には中国バイオも」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
   - ［一次］2026-11-04「• 米国防総省は、優先して研究開発に取り組む重」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
   - ［一次］2026-11-04「米国研究機関はCRISPR-Cas9（高効」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-  - ［一次］2026-11-04「• また、米国は2025年12月、Biosecure Act」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
 - 自社の競合（商社・代理店・仲介）（1件）：
   - ［記事］2026-11-04「東南アジア、カナダ、米国の木質ペレットの商社および生産者」https://www.cmtevents.com/aboutevent.aspx?ev=260501&
-- 政治（法・予算・規制）（38件）：
+- 政治（法・予算・規制）（46件）：
+  - ［一次］2026-11-05「革命推進基金（2,700億円）」を実施中」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
+  - ［一次］2026-11-05「①GI基金 （1,775億円）」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
+  - ［一次］2026-11-05「戦略に沿って、引き続き複数年にわたる予算措置で研究開」https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf
   - ［一次］2026-11-04「本講演では、糖資源を用いた発酵法による芳香族化学品生産を紹介し、脱炭素と経済安全保障を両立する国産バイオものづくりの方向性を議論する」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
   - ［一次］2026-11-04「を成立させ、経済安全保障の確保を図っている」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-  - ［一次］2026-11-04「を連邦政府が指定し、連邦政府の調達や補助」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-  - ［一次］2026-11-04「• 投資拡大のため、規制当局と民間企」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-  - ［一次］2026-11-04「業の対話フォーラム設置、規制簡素」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-- 経済（規模・価格・為替）（45件）：
+- 経済（規模・価格・為替）（46件）：
+  - ［一次］2026-11-05「1.3兆円~」https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf
   - ［一次］2026-11-04「13:30～14:00 「高品質L-PGAの低価格化に向けた枯草菌生産技術の開発」」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
   - ［一次］2026-11-04「産業として、これまで10年間で約1兆円の経済産業省支援を実施」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
   - ［一次］2026-11-04「2024年におけるバイオ医薬品の輸出入は、1.7兆円の輸入超過」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
   - ［一次］2026-11-04「1000億ドル（約11兆円）以上の」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-  - ［一次］2026-11-04「のづくり産業が約24兆円規模に達し」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-- 社会（人・担い手）（19件）：
+- 社会（人・担い手）（22件）：
   - ［一次］2026-11-04「0.25L～30Lまでの比較的小規模の培養槽を設置しており、バイオものづくり分野の新規参入企業をターゲットに、これまで30社以上の培養条件の最適化・小規模試作支援、150社400名以上の人材育成など、多くの実績を積み重ねてきました」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
   - ［一次］2026-11-04「・人材育成など自立的な産業エコシステムの構築」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
   - ［一次］2026-11-04「を通じて、目的物質を安定的・大量に生産するための知見や技能を含む」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
   - ［一次］2026-11-04「「学会発表が投資契機／技術に合う経営人材紹介」」https://www.rite.or.jp/bio/works/media/
   - ［一次］2026-11-04「 2025年3月、GX企業の人材確保に関する事例集を公表」https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf
-- 技術（新しい技術・実証）（60件）：
+- 技術（新しい技術・実証）（77件）：
+  - ［一次］2026-11-05「を俯瞰した技術開発及び実証を進めることで、バイオ原料や製品の早期の社会実装を目指す」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
+  - ［一次］2026-11-05「「ゲノム編集で高機能素材 住化などAI駆使し微生物から」」https://www.rite.or.jp/bio/works/media/
   - ［一次］2026-11-04「近年、バイオテクノロジーとデジタル技術の進展により、微生物等の生物機能を最大限に活用した「バイオものづくり」が新たに生まれ、次世代を担う産業として国内外で大きな注目を集めています」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
   - ［一次］2026-11-04「13:30～14:00 「高品質L-PGAの低価格化に向けた枯草菌生産技術の開発」」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
   - ［一次］2026-11-04「我々は世界初の枯草菌L-PGA生産技術を確立し、低価格化に向けて高効率・安定生産法と連続好気生産系を開発している」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
-  - ［一次］2026-11-04「13:30～14:00 「循環型社会の実現を目指したバイオものづくり技術の開発」」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
-  - ［一次］2026-11-04「本講演では、当機構における未利用バイオマスやCO2など多様な炭素源の有効利用を目指した微生物変換およびバイオプロセス開発の取組を紹介する」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
 - SNS・note（LinkedIn・検索結果の抜粋）（1件）：
   - ［SNS］2026-11-04「Bio - based Chemicals : Paving the Way for a Sustainable ... Bio - based Chemicals : Paving the Way for a Sustainable ... LinkedIn https://www.linkedin.com > pulse > bi...」https://www.linkedin.com/pulse/bio-based-chemicals-paving-way-sustainable-1xghe

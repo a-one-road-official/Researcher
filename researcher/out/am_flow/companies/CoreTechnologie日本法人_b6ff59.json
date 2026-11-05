@@ -1,0 +1,320 @@
+{
+ "name": "CoreTechnologie日本法人",
+ "aliases": [],
+ "context": "/ CT CoreTechnologie（独）4D Additive",
+ "researched_at": "2026-11-05T04:31:05.014371+00:00",
+ "official_url": "https://jp.coretechnologie.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {},
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://jp.coretechnologie.com",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://coretechnologie.com/ja/company-ja/ct/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/stockholder/?scode=4371",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/en/papers/contribution/miyajima/12.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renesas.com/en/about/press-room/renesas-electronics-announces-change-controlling-shareholder-other-parent-company?srsltid=AYCX9vKwIqEeMNfSpAEGC17g83uUfev4nZOVsDVmLTtSI46C5xlMQeTX",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alliancebernstein.com/americas/en/institutions/insights/investment-insights/japans-corporate-reforms-create-a-catalyst-for-equity-returns.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sharelab.jp/company/coretechnologie/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/subsidiaries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corestaff.co.jp/about/press/detail/134",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/subsidiaries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadjapan.com/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.servicenow.com/jp/customers.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://coretechnologie.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sharelab.jp/company/coretechnologie/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/ja/company-ja/ct/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/ja/products-ja/4d-additive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/4d_additive-1-8-sp1-coretechnologie%E3%81%8C3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E9%80%A0%E5%BD%A2%E3%82%B8%E3%83%A7%E3%83%96%E6%BA%96%E5%82%99%E3%82%92%E8%87%AA%E5%8B%95%E5%8C%96-05164806/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "CoreTechnologie日本法人 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://coretechnologie.com/ja/company-ja/ct/",
+    "https://www.nikkei.com/nkd/company/stockholder/?scode=4371",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://www.buffett-code.com/company/6085/mainshareholder",
+    "https://www.coinex.com/ja/information/news/6a979c25faeac230b7977b45",
+    "https://itf.minkabu.jp/fund/42311206/monthlyreport",
+    "https://mono.ipros.com/product/detail/2000151865/",
+    "https://jp.investing.com/news/pro/article-1710302",
+    "https://edinetdb.jp/shareholders",
+    "https://www.yuhodb.com/shareholders/overview"
+   ]
+  },
+  {
+   "query": "CoreTechnologie日本法人 shareholders ownership investors parent company",
+   "results": [
+    "https://www.rieti.go.jp/en/papers/contribution/miyajima/12.html",
+    "https://www.renesas.com/en/about/press-room/renesas-electronics-announces-change-controlling-shareholder-other-parent-company?srsltid=AYCX9vKwIqEeMNfSpAEGC17g83uUfev4nZOVsDVmLTtSI46C5xlMQeTX",
+    "https://www.alliancebernstein.com/americas/en/institutions/insights/investment-insights/japans-corporate-reforms-create-a-catalyst-for-equity-returns.html",
+    "https://www.innotech.co.jp/english/ir/stock/",
+    "https://www.mdpi.com/2076-3387/13/6/141",
+    "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/closing-japans-valuation-gap-by-changing-corporate-traditions",
+    "https://www.theworldfolio.com/interviews/redefining-private-equity-with-longterm-vision/6889/?id=6889",
+    "https://corp.shiseido.com/en/ir/pdf/ir20210701_806.pdf",
+    "https://www.reuters.com/sustainability/sustainable-finance-reporting/activist-threat-pushes-japanese-companies-unwind-cross-shareholdings-2026-03-09/",
+    "https://companydata.com/company-ownership-lookup/"
+   ]
+  },
+  {
+   "query": "CoreTechnologie日本法人 設立 OR 創業 OR founded",
+   "results": [
+    "https://coretechnologie.com/",
+    "https://sharelab.jp/company/coretechnologie/",
+    "https://coretechnologie.com/subsidiaries/",
+    "https://compalyze.co.jp/company/3010001175969",
+    "https://www.linkedin.com/company/ctcoretechnologie",
+    "https://3dprintalive.com/suppliers/068gii",
+    "https://www.intermold.jp/2025/outline/search_2025_detail/417/",
+    "https://www.youtube.com/watch?v=onfcqrrnQ9M",
+    "https://www.core.co.jp/company/history",
+    "https://ja.wikipedia.org/wiki/デル・テクノロジーズ"
+   ]
+  },
+  {
+   "query": "CoreTechnologie日本法人 代理店 契約",
+   "results": [
+    "https://coretechnologie.com/",
+    "https://www.corestaff.co.jp/about/press/detail/134",
+    "https://coretechnologie.com/subsidiaries/",
+    "https://sharelab.jp/company/coretechnologie/",
+    "https://dempa-digital.com/article/481547",
+    "https://www.hakuto.co.jp/news/260820.pdf",
+    "https://www.quest.com/community/jp-ja/w/platform-management-wiki/2293/microsoft-platform-management",
+    "https://www.ashisuto.co.jp/news/detail/1188741_1507.html",
+    "https://www.elysium-global.com/ja/about/resellers/",
+    "https://distymap.com/manufacturers/coretec"
+   ]
+  },
+  {
+   "query": "CoreTechnologie日本法人 導入事例",
+   "results": [
+    "https://coretechnologie.com/ja/",
+    "https://www.cadjapan.com/case/",
+    "https://www.servicenow.com/jp/customers.html",
+    "https://www.ptc.com/ja/blogs/cad/introducing-generative-design-case-studies?srsltid=AYCX9vLvDTOyLGpgQ5rt5Pli-LGbajOL9JhPXhwLifuTJLwx5JwKS3YG",
+    "https://www.autodesk.com/jp/customer-stories/case-studies",
+    "https://www.fsi.co.jp/cases/",
+    "https://www.visualcomponents.com/jp/case-studies/",
+    "https://www.scsk.jp/sp/servicenow/casestudies/",
+    "https://www.jbcc.co.jp/download/purpose/case/",
+    "https://coretechnologie.com/"
+   ]
+  },
+  {
+   "query": "CoreTechnologie日本法人 価格 OR 料金",
+   "results": [
+    "https://coretechnologie.com/ja/",
+    "https://sharelab.jp/company/coretechnologie/",
+    "https://coretechnologie.com/ja/company-ja/ct/",
+    "https://pdf.aeroexpo.online/ja/pdf/coretechnologie-169578.html",
+    "https://www.directindustry.com/ja/prod/coretechnologie/product-196687-1959126.html",
+    "https://www.cals.jacic.or.jp/coreconso/charge/data/charge_20240401.pdf",
+    "https://www.otsuka-shokai.co.jp/hard-soft/cad/",
+    "https://marsflag.zohodesk.com/portal/ja/kb/%E4%BE%A1%E6%A0%BC%E6%94%B9%E5%AE%9A%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%94%E6%A1%88%E5%86%85",
+    "https://www.imsidesign.com/ja/enterprise?srsltid=AYCX9vIb7x8MjdjFwhCT2chf1RcJMgBHls8aBmt-TuIQmIpVnmlmOXVV"
+   ]
+  },
+  {
+   "query": "CoreTechnologie日本法人 受託 造形",
+   "results": [
+    "https://coretechnologie.com/ja/products-ja/4d-additive/",
+    "https://3druck.com/ja/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/4d_additive-1-8-sp1-coretechnologie%E3%81%8C3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E9%80%A0%E5%BD%A2%E3%82%B8%E3%83%A7%E3%83%96%E6%BA%96%E5%82%99%E3%82%92%E8%87%AA%E5%8B%95%E5%8C%96-05164806/",
+    "https://jampt.jp/",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://jtdtky.co.jp/product/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://www.koeitool.com/business/3d-modeling.html",
+    "https://www.youtube.com/watch?v=vhtcVIo1Mgg",
+    "https://sharelab.jp/company/coretechnologie/",
+    "https://coretechnologie.com/ja/"
+   ]
+  },
+  {
+   "query": "site:note.com CoreTechnologie日本法人",
+   "results": [
+    "https://note.com/chimimo/n/n3e796812fb7d?hl=en",
+    "https://note.com/nori_noguchi/n/n306656dcf416",
+    "https://note.com/akkk0429/n/n2c34fcb372bf?hl=en",
+    "https://note.com/vottia_0421/n/n972bcd0204b6",
+    "https://note.com/20240901_kabu/n/nb42fddf6c6ea",
+    "https://note.com/onoshin_digital/n/n4c92921922a0",
+    "https://note.com/calm_tern9358/n/n1c602242f6dc?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com CoreTechnologie日本法人",
+   "results": [
+    "https://x.com/coretechnologie",
+    "https://x.com/CoreTechnologie/status/1575824380713893888",
+    "https://x.com/CoreTechnologie/status/1063097371616337920",
+    "https://x.com/ecog_core_tech",
+    "https://x.com/hashtag/CoreTechnologie",
+    "https://x.com/CoreTechnologie/status/1359895759655690244",
+    "https://x.com/humilliatedTina"
+   ]
+  },
+  {
+   "query": "site:linkedin.com CoreTechnologie日本法人",
+   "results": [
+    "https://jp.linkedin.com/directory/companies/c"
+   ]
+  },
+  {
+   "query": "site:facebook.com CoreTechnologie日本法人",
+   "results": [
+    "https://www.facebook.com/CTCoreTechnologie/posts/-discover-our-new-website-all-coretechnologie-products-in-one-place-were-excited/1380259283280069/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/CTCoreTechnologie/posts/were-thrilled-to-announce-that-manufacturing-world-rx-japan-has-officially-start/954226449216690/",
+    "https://www.facebook.com/CTCoreTechnologie/posts/-first-day-at-am-expo-japan-2025-were-officially-kicking-off-am-expo-at-tokyo-bi/1488572065782123/",
+    "https://www.facebook.com/CTCoreTechnologie/posts/1145618535841542/",
+    "https://www.facebook.com/CTCoreTechnologie/posts/1374545013851496/",
+    "https://www.facebook.com/CTCoreTechnologie/posts/our-team-in-japan-is-doing-a-great-job-at-the-manufacturing-world-nagoya-2023-tr/954879619151373/"
+   ]
+  },
+  {
+   "query": "CoreTechnologie日本法人 note 社長",
+   "results": [
+    "https://coretechnologie.com/ja/company-ja/ct/",
+    "https://sharelab.jp/company/coretechnologie/",
+    "https://note.com/y_matsuwitter/n/na346c75028c0",
+    "https://corp.skillnote.jp/company/",
+    "https://note.com/note_ir/n/n4a9098319c3c",
+    "https://www.youtube.com/watch?v=3omWJLzwZbw",
+    "https://coretechnologie.com/ja/",
+    "https://note.jp/n/nf016d2c0bc2f",
+    "https://www.autodesk.com/autodesk-university/class/Japan-kinoto-chuangzaonoweilainoshixianteshitarutoransufuomeshiyonnoqurizumi-KN-2021",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "CoreTechnologie日本法人 X 投稿",
+   "results": [
+    "https://coretechnologie.com/",
+    "https://coretechnologie.com/send-a-request/",
+    "https://sharelab.jp/company/coretechnologie/",
+    "https://www.youtube.com/watch?v=4mYmH5IHzUs",
+    "https://about.x.com/ja",
+    "https://3druck.com/ja/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/4d_additive-1-8-sp1-coretechnologie%E3%81%8C3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E9%80%A0%E5%BD%A2%E3%82%B8%E3%83%A7%E3%83%96%E6%BA%96%E5%82%99%E3%82%92%E8%87%AA%E5%8B%95%E5%8C%96-05164806/",
+    "https://code41.com/ja/projects/day41/projects/x41/",
+    "https://uravation.com/media/claude-code-x-auto-post-2026/",
+    "https://www.cadjapan.com/news/2025/d20251224_01.html",
+    "https://x.com/coretechnologie"
+   ]
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索13回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索13回）",
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索13回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索13回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索13回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索13回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索13回）",
+  "株主構成": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索13回）",
+  "誰から": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索13回）",
+  "何をする": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索13回）",
+  "誰に": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索13回）",
+  "お金の形": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索13回）",
+  "いくら": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索13回）"
+ }
+}

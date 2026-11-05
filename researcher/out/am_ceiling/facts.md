@@ -1,4 +1,4 @@
-# 金属AM受託の頭打ち金額 — 1件・1社年間・用途ごとの上限（事実のみ・15品目）
+# 金属AM受託の頭打ち金額 — 1件・1社年間・用途ごとの上限（事実のみ・18品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1302,3 +1302,30 @@
   - 「This partnership with the JGDSF signifies how SPEE3D technology continues to offer Defence a reliable metal manufacturing capability to further strengthen existing supply chains in the field, or on base. The most recent example of this is that just last month, the」（https://www.spee3d.com/bridging-innovation-and-defence-spee3ds-3d-printers-to-transform-japans-military-operations/）
 - 最大案件・上限：記載なし（読んだ45頁・検索16回）
 - 受託会社の売上：記載なし（読んだ45頁・検索16回）
+
+## 金属3Dプリンター受託造形の体積単価（円/cm3・材料別）（metal 3D printing service price per cubic centimeter stainless titanium）
+- 文脈：料金・一次
+- 1件の単価：記載なし（読んだ45頁・検索16回）
+- 最大案件・上限：記載なし（読んだ45頁・検索16回）
+- 顧客1社の年間：記載なし（読んだ45頁・検索16回）
+- 受託会社の売上：記載なし（読んだ45頁・検索16回）
+- 用途別：記載なし（読んだ45頁・検索16回）
+- 価格を決める要因：記載なし（読んだ45頁・検索16回）
+
+## 防衛装備庁の中央調達 契約情報（積層造形・3Dプリンター）（Japan Acquisition Technology and Logistics Agency contract information additive manufacturing）
+- 文脈：防衛・一次
+- 1件の単価：記載なし（読んだ43頁・検索16回）
+- 最大案件・上限：記載なし（読んだ43頁・検索16回）
+- 顧客1社の年間：記載なし（読んだ43頁・検索16回）
+- 受託会社の売上：記載なし（読んだ43頁・検索16回）
+- 用途別：記載なし（読んだ43頁・検索16回）
+- 価格を決める要因：記載なし（読んだ43頁・検索16回）
+
+## 国内の金属AM受託会社の決算公告（純資産・当期純利益）（Japanese metal additive manufacturing service bureau financial statements）
+- 文脈：決算・一次
+- 1件の単価：記載なし（読んだ45頁・検索16回）
+- 最大案件・上限：記載なし（読んだ45頁・検索16回）
+- 顧客1社の年間：記載なし（読んだ45頁・検索16回）
+- 受託会社の売上：記載なし（読んだ45頁・検索16回）
+- 用途別：記載なし（読んだ45頁・検索16回）
+- 価格を決める要因：記載なし（読んだ45頁・検索16回）

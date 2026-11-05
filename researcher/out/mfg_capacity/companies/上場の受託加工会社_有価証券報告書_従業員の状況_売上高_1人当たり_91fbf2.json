@@ -1,0 +1,711 @@
+{
+ "name": "上場の受託加工会社 有価証券報告書 従業員の状況 売上高 1人当たり",
+ "en": "listed Japanese contract manufacturers revenue per employee annual securities report",
+ "aliases": [
+  "受託加工 有価証券報告書 従業員の状況 site:disclosure2.edinet-fsa.go.jp",
+  "めっき 熱処理 受託 上場 従業員数 売上高",
+  "部品加工 受託 上場企業 有報 設備の新設"
+ ],
+ "context": "一次・上場",
+ "kind": "market",
+ "researched_at": "2026-11-05T04:35:59.328941+00:00",
+ "evidence": {
+  "10年推移": [
+   {
+    "quote": "(January 1, 2025 through December 31, 2025)",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Securities Report for the 54th Fiscal Year Ended December 31, 2025",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Fiscal year The 54th fiscal year (January 1, 2025 through December 31, 2025)",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Year ended December 31, 2021 2022 2023 2024 2025",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2. The Company has applied the Accounting Standard for Revenue Recognition (ASBJ Statement No. 29, March 31, 2020)",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5 . The Company has applied the Accounting Standard for Revenue Recognition (ASBJ Statement No. 29, March 31, 2020)",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6. The highest and lowest share prices on and before April 3, 2022 are quoted prices on the First Section of the Tokyo Stock",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Exchange and prices on and after April 4, 2022 are quoted from the Prime Market of the Tokyo Stock Exchange.",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "January 2015 The Company, as the surviving company, merged with Tokowaka Co., Ltd.",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "April 2015 Roland RVS Holding Inc. (holding company of RVS) established",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "May 2015 A company to develop and distribute music/media production software (RVS) established in the U.S.",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "August 2015 Roland DG Corporation excluded from the scope of application of equity method due to sale of part of the",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "March 2016 Roland VM Corporation (holding company of V-MODA) established",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "May 2016 A headphone development and manufacturing company in the U.S. (V-MODA) converted into a subsidiary of",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "April 2017 A global commercial distribution management company established in Malaysia",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "January 2018 Boss Corporation merged and absorbed into the Company",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "July 2018 A sales company established in Mexico",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "October 2020 A UK-based sales company and a general management company (holding company) combined",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "From April 1, 2024 to March 31, 2025",
+    "url": "https://www.aisin.com/en/investors/latest/uploads/Annual_Securities_Report_for_the_102nd_Fisical_Year.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Filing date June 16, 2025",
+    "url": "https://www.aisin.com/en/investors/latest/uploads/Annual_Securities_Report_for_the_102nd_Fisical_Year.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Fiscal year 102nd (From April 1, 2024 to March 31, 2025)",
+    "url": "https://www.aisin.com/en/investors/latest/uploads/Annual_Securities_Report_for_the_102nd_Fisical_Year.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Fiscal year ended March 2021 March 2022 March 2023 March 2024 March 2025",
+    "url": "https://www.aisin.com/en/investors/latest/uploads/Annual_Securities_Report_for_the_102nd_Fisical_Year.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2. On October 1, 2024, the Company executed a one-for-three stock split of each common stock. Equity attributable to",
+    "url": "https://www.aisin.com/en/investors/latest/uploads/Annual_Securities_Report_for_the_102nd_Fisical_Year.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Notes: 1. On October 1, 2024, the Company executed a one-for-three stock split of each common stock. Net assets per share and",
+    "url": "https://www.aisin.com/en/investors/latest/uploads/Annual_Securities_Report_for_the_102nd_Fisical_Year.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "with Aisin AW Co., Ltd. in April 2021.",
+    "url": "https://www.aisin.com/en/investors/latest/uploads/Annual_Securities_Report_for_the_102nd_Fisical_Year.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022, and on the Tokyo Stock Exchange First Section before April 4, 2022. For the 102nd fiscal year, the highest and",
+    "url": "https://www.aisin.com/en/investors/latest/uploads/Annual_Securities_Report_for_the_102nd_Fisical_Year.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "April 2019).",
+    "url": "https://www.aisin.com/en/investors/latest/uploads/Annual_Securities_Report_for_the_102nd_Fisical_Year.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "April 2016 Shiroki Corporation (currently AISIN SHIROKI CORPORA TION) became a wholly owned subsidiary",
+    "url": "https://www.aisin.com/en/investors/latest/uploads/Annual_Securities_Report_for_the_102nd_Fisical_Year.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "February 2017 ART METAL MFG. CO., LTD. became a subsidiary through share acquisition.",
+    "url": "https://www.aisin.com/en/investors/latest/uploads/Annual_Securities_Report_for_the_102nd_Fisical_Year.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "April 2021 Aisin AW Co., Ltd. was merged, and the company name was changed to AISIN CORPORA TION.",
+    "url": "https://www.aisin.com/en/investors/latest/uploads/Annual_Securities_Report_for_the_102nd_Fisical_Year.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "April 2025 AISIN CHEMICAL CO., LTD. was merged.",
+    "url": "https://www.aisin.com/en/investors/latest/uploads/Annual_Securities_Report_for_the_102nd_Fisical_Year.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "As of March 31, 2025",
+    "url": "https://www.aisin.com/en/investors/latest/uploads/Annual_Securities_Report_for_the_102nd_Fisical_Year.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Fiscal year ended March 31, 2025",
+    "url": "https://www.aisin.com/en/investors/latest/uploads/Annual_Securities_Report_for_the_102nd_Fisical_Year.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Professional Life (Act No. 64 of 2015).",
+    "url": "https://www.aisin.com/en/investors/latest/uploads/Annual_Securities_Report_for_the_102nd_Fisical_Year.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Act on the Promotion of Women’s Active Engagement in Professional Life (Act No. 64 of 2015), or because there is",
+    "url": "https://www.aisin.com/en/investors/latest/uploads/Annual_Securities_Report_for_the_102nd_Fisical_Year.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Company’s best estimates or judgment as of March 31, 2025.",
+    "url": "https://www.aisin.com/en/investors/latest/uploads/Annual_Securities_Report_for_the_102nd_Fisical_Year.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "From January 1, 2024 To December 31, 2024",
+    "url": "https://www.bridgestone.com/ir/library/securities_report/pdf/e_106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "106th Fiscal Period (from January 1, 2024 to December 31, 2024)",
+    "url": "https://www.bridgestone.com/ir/library/securities_report/pdf/e_106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "and Exchange Act, submitted as data on March 25, 2025 using the Electronic Data Processing System",
+    "url": "https://www.bridgestone.com/ir/library/securities_report/pdf/e_106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[Date of Submission] March 25, 2025",
+    "url": "https://www.bridgestone.com/ir/library/securities_report/pdf/e_106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[Business Year] 106th Fiscal Period (from January 1, 2024 to December 31, 2024)",
+    "url": "https://www.bridgestone.com/ir/library/securities_report/pdf/e_106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Year ended December 2020 December 2021 December 2022 December 2023 December 2024",
+    "url": "https://www.bridgestone.com/ir/library/securities_report/pdf/e_106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Reporting Standards (IFRS) from the 102nd fiscal period, with the transition date of January 1, 2019.",
+    "url": "https://www.bridgestone.com/ir/library/securities_report/pdf/e_106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4. On March 31, 2021, Firestone Building Products Company, LLC (hereinafter “FSBP”), a subsidiary of Bridgestone",
+    "url": "https://www.bridgestone.com/ir/library/securities_report/pdf/e_106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5. On December 10, 2021, the Company decided to newly establish a wholly owned subsidiary through an absorption -",
+    "url": "https://www.bridgestone.com/ir/library/securities_report/pdf/e_106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6. On December 10, 2021, the Company decided to newly establish a wholly owned subsidiary through an absorption -",
+    "url": "https://www.bridgestone.com/ir/library/securities_report/pdf/e_106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7. The Group has adopted International Accounting Standards (IAS) 12, “Income Taxes” (revised in May 2021), from",
+    "url": "https://www.bridgestone.com/ir/library/securities_report/pdf/e_106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Year ended December 2020",
+    "url": "https://www.bridgestone.com/ir/library/securities_report/pdf/e_106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2. From April 4, 2022, the highest share price and lowest share price are those recorded on the Tokyo Stock Exchange",
+    "url": "https://www.bridgestone.com/ir/library/securities_report/pdf/e_106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(ASBJ Statement No. 29, March 31, 2020) and relevant ASBJ regulations. The key financial data for the 104th fiscal",
+    "url": "https://www.bridgestone.com/ir/library/securities_report/pdf/e_106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "May 2017 Bridgestone Europe NV/SA acquired Ets Paul Ayme (Holding) & Ayme er Fils SAS (now First Stop",
+    "url": "https://www.bridgestone.com/ir/library/securities_report/pdf/e_106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "April 2019 Bridgestone Europe NV/SA acquired Tom Tom Telematics B.V . (now Bridgestone Mobility Solutions",
+    "url": "https://www.bridgestone.com/ir/library/securities_report/pdf/e_106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "September 2021 Bridgestone Americas, Inc. acquired Azuga Holdings, Inc.",
+    "url": "https://www.bridgestone.com/ir/library/securities_report/pdf/e_106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "December 2021 Bridgestone Mining Solutions Australia Pty. Ltd. acquired Otraco International Pty. Ltd.",
+    "url": "https://www.bridgestone.com/ir/library/securities_report/pdf/e_106.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001xw9e-att/10LECRE-1s.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sony.com/ja/SonyInfo/IR/library/r6_q4.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hirata.co.jp/files/optionallink/00002982_file.pdf?1782180115",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.takano-net.co.jp/file.jsp?id=17891",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/jafcogroup8595/n/n7d67cd4e3ded",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2406.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sony.com/ja/SonyInfo/IR/library/r7_q4.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.eizo.co.jp/ir/library/report/2023/report56.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.umios.com/jp/corporate/ir/library/pdf/82nd_term_securities_report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nomuraholdings.com/jp/investor/library/report/main/0110/teaserItems5/0/linkList/0/link/103_full_jsec.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nidec.com/files/user/www-nidec-com/ir/library/reports/FY25Q4_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.adeka.co.jp/ir/library/pdf/yuhou_163-4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://regfis.com/sections/human-capital",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/assets/pdf/20240801_report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.tsubame.niigata.jp/soshiki/somu/1/toukei/3336.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/surveyplan/p00200555001/download/sp002",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.yuhodb.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://regfis.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsa.go.jp/news/r7/singi/20251225/05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://disclo-navi.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://disclosure2.edinet-fsa.go.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.maruchan.co.jp/ir/library/new/uploads/%E7%AC%AC77%E6%9C%9F%20%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%282025%E5%B9%B43%E6%9C%88%E6%9C%9F%29.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toyota-tsusho.com/ir/library/securities-report/upload_files/105th_yuho_ALL.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pwc.com/jp/ja/knowledge/column/sustainability/human-capital-analysis04.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fpco.jp/dcms_media/other/press_keieikikaku_20250624.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tazmo.co.jp/wp/wp-content/uploads/2026/03/fr_fy2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://corp.shiseido.com/en/ir/library/financial_statements/pdf/2025/annual_securities_report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://global.canon/en/ir/yuuhou/canon2025q2-e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sekisuichemical.com/ir/report/financial_report/__icsFiles/afieldfile/2022/07/27/ASR_Mar2022.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aisin.com/en/investors/latest/uploads/Annual_Securities_Report_for_the_102nd_Fisical_Year.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bridgestone.com/ir/library/securities_report/pdf/e_106.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "上場の受託加工会社 有価証券報告書 従業員の状況 売上高 1人当たり",
+   "results": [
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001xw9e-att/10LECRE-1s.pdf",
+    "https://www.sony.com/ja/SonyInfo/IR/library/r6_q4.pdf",
+    "https://www.hirata.co.jp/files/optionallink/00002982_file.pdf?1782180115",
+    "https://www.takano-net.co.jp/file.jsp?id=17891",
+    "https://note.com/jafcogroup8595/n/n7d67cd4e3ded",
+    "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2406.pdf",
+    "https://www.toyota-tsusho.com/ir/library/securities-report/upload_files/105th_yuho_ALL.pdf",
+    "https://fusokk.co.jp/wp-content/uploads/2026/06/34f9a5a79523c4b148a527cc5a787fc5.pdf",
+    "https://www.eizo.co.jp/ir/library/report/2023/report56.pdf",
+    "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社 有価証券報告書 従業員の状況 売上高 1人当たり 推移",
+   "results": [
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001xw9e-att/10LECRE-1s.pdf",
+    "https://www.sony.com/ja/SonyInfo/IR/library/r7_q4.pdf",
+    "https://note.com/jafcogroup8595/n/n7d67cd4e3ded",
+    "https://www.hirata.co.jp/files/optionallink/00002982_file.pdf?1782180115",
+    "https://www.takano-net.co.jp/file.jsp?id=17891",
+    "https://www.eizo.co.jp/ir/library/report/2023/report56.pdf",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf",
+    "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2406.pdf",
+    "https://www.umios.com/jp/corporate/ir/library/pdf/82nd_term_securities_report.pdf"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社 有価証券報告書 従業員の状況 売上高 1人当たり 統計 PDF",
+   "results": [
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001xw9e-att/10LECRE-1s.pdf",
+    "https://www.sony.com/ja/SonyInfo/IR/library/r7_q4.pdf",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf",
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/0110/teaserItems5/0/linkList/0/link/103_full_jsec.pdf",
+    "https://www.nidec.com/files/user/www-nidec-com/ir/library/reports/FY25Q4_jp.pdf",
+    "https://www.umios.com/jp/corporate/ir/library/pdf/82nd_term_securities_report.pdf",
+    "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2406.pdf",
+    "https://www.adeka.co.jp/ir/library/pdf/yuhou_163-4.pdf",
+    "https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf",
+    "https://regfis.com/sections/human-capital"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社 有価証券報告書 従業員の状況 売上高 1人当たり 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.city.tsubame.niigata.jp/soshiki/somu/1/toukei/3336.html",
+    "https://www.e-stat.go.jp/surveyplan/p00200555001/download/sp002",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001xw9e-att/10LECRE-1s.pdf",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社 有価証券報告書 従業員の状況 売上高 1人当たり 従業者規模別",
+   "results": [
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001xw9e-att/10LECRE-1s.pdf",
+    "https://www.sony.com/ja/SonyInfo/IR/library/r6_q4.pdf",
+    "https://www.takano-net.co.jp/file.jsp?id=17891",
+    "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2406.pdf",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf",
+    "https://www.eizo.co.jp/ir/library/report/2023/report56.pdf",
+    "https://www.hirata.co.jp/files/optionallink/00002982_file.pdf?1782180115",
+    "https://www.adeka.co.jp/ir/library/pdf/yuhou_163-4.pdf",
+    "https://www.nidec.com/files/user/www-nidec-com/ir/library/reports/FY25Q4_jp.pdf",
+    "https://regfis.com/sections/human-capital"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社 有価証券報告書 従業員の状況 売上高 1人当たり 1人当たり 万円",
+   "results": [
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001xw9e-att/10LECRE-1s.pdf",
+    "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2406.pdf",
+    "https://www.hirata.co.jp/files/optionallink/00002982_file.pdf?1782180115",
+    "https://note.com/jafcogroup8595/n/n7d67cd4e3ded",
+    "https://www.maruchan.co.jp/ir/library/new/uploads/%E7%AC%AC77%E6%9C%9F%20%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%282025%E5%B9%B43%E6%9C%88%E6%9C%9F%29.pdf",
+    "https://www.sony.com/ja/SonyInfo/IR/library/r6_q4.pdf",
+    "https://www.toyota-tsusho.com/ir/library/securities-report/upload_files/105th_yuho_ALL.pdf",
+    "https://www.umios.com/jp/corporate/ir/library/pdf/82nd_term_securities_report.pdf",
+    "https://www.takano-net.co.jp/file.jsp?id=17891",
+    "https://regfis.com/sections/human-capital"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社 有価証券報告書 従業員の状況 売上高 1人当たり 2015 2025",
+   "results": [
+    "https://www.sony.com/ja/SonyInfo/IR/library/r6_q4.pdf",
+    "https://www.fpco.jp/dcms_media/other/press_keieikikaku_20250624.pdf",
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001xw9e-att/10LECRE-1s.pdf",
+    "https://www.takano-net.co.jp/file.jsp?id=17891",
+    "https://www.hirata.co.jp/files/optionallink/00002982_file.pdf?1782180115",
+    "https://www.nidec.com/files/user/www-nidec-com/ir/library/reports/FY25Q4_jp.pdf",
+    "https://tazmo.co.jp/wp/wp-content/uploads/2026/03/fr_fy2025.pdf",
+    "https://www.adeka.co.jp/ir/library/pdf/yuhou_163-4.pdf",
+    "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2406.pdf",
+    "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/"
+   ]
+  },
+  {
+   "query": "listed Japanese contract manufacturers revenue per employee annual securities report Japan statistics",
+   "results": [
+    "https://corp.shiseido.com/en/ir/library/financial_statements/pdf/2025/annual_securities_report.pdf",
+    "https://global.canon/en/ir/yuuhou/canon2025q2-e.pdf",
+    "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "https://www.sekisuichemical.com/ir/report/financial_report/__icsFiles/afieldfile/2022/07/27/ASR_Mar2022.pdf",
+    "https://www.aisin.com/en/investors/latest/uploads/Annual_Securities_Report_for_the_102nd_Fisical_Year.pdf",
+    "https://www.bridgestone.com/ir/library/securities_report/pdf/e_106.pdf",
+    "https://www.mitsuifudosan.co.jp/english/corporate/ir/library/fs/pdf/ASR_2503.pdf",
+    "https://www.daifuku.com/ir/assets/SR24e.pdf",
+    "https://www.mitsubishielectric.com/investors/library/securities-report/pdf/Annual_Securities_Report_FY2025.pdf",
+    "https://edinetdb.com/"
+   ]
+  },
+  {
+   "query": "site:note.com 上場の受託加工会社 有価証券報告書 従業員の状況 売上高 1人当たり",
+   "results": [
+    "https://note.com/jafcogroup8595/n/n7d67cd4e3ded",
+    "https://note.com/jafcogroup8595/n/nb5fbb5d9c242",
+    "https://note.com/nekota_toure/n/n117c838c816d",
+    "https://note.com/marunon_invest/n/nf65dbd240abf",
+    "https://note.com/lucid_lotus6287/n/nba63b35a7722",
+    "https://note.com/tatsuya_sabato/n/n3057569a0e48",
+    "https://note.com/humble_crane7701/n/n0570c7856767",
+    "https://note.com/nekota_toure/n/n0c13f287fd65",
+    "https://note.com/kabuberry_/n/n044abca182b6",
+    "https://note.com/saakuru_ir/n/n0863c0dba5ab"
+   ]
+  },
+  {
+   "query": "site:x.com 上場の受託加工会社 有価証券報告書 従業員の状況 売上高 1人当たり",
+   "results": [
+    "https://x.com/urahr_hongkong/status/2051838374101889039",
+    "https://x.com/CoreRiseCo/status/2099641893491757148",
+    "https://x.com/resaco_kenkyu/status/2077875426551029846",
+    "https://x.com/listedcorp_inc/status/2073271070438875451",
+    "https://x.com/listedcorp_inc/status/2076348416133918969",
+    "https://x.com/edinetdb/status/2079379240680915412",
+    "https://x.com/listedcorp_inc/status/2083603865535181032"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 上場の受託加工会社 有価証券報告書 従業員の状況 売上高 1人当たり",
+   "results": [
+    "https://jp.linkedin.com/in/大成-名古屋-8776a4233",
+    "https://www.linkedin.com/jobs/ヤンマーホールディングス-2026年3月期-決算-売上高-営業利益-当期利益-jobs",
+    "https://www.linkedin.com/jobs/ms-japan-有価証券報告書-売上高-売上総利益-決算-jobs",
+    "https://www.linkedin.com/jobs/高砂工業-　有価証券報告書-jobs",
+    "https://hk.linkedin.com/jobs/view/【大阪・営業】鋼材・鋼製加工製品の営業・加工エンジニアリング推進／独立系総合商社-東証プライム上場-海外44ヶ国・国内18拠点のグローバル事業展開-at-hanwa-co-ltd-4439997489?position=23&pageNum=0",
+    "https://nl.linkedin.com/in/rpverhag",
+    "https://jp.linkedin.com/in/kokiito"
+   ]
+  },
+  {
+   "query": "site:facebook.com 上場の受託加工会社 有価証券報告書 従業員の状況 売上高 1人当たり",
+   "results": [
+    "https://www.facebook.com/pages/It%E3%83%97%E3%83%AD%E3%83%9E%E3%83%83%E3%83%81%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/987854894580882/",
+    "https://www.facebook.com/lanchesterkeiei/posts/良い会社の事例として紹介する場合従業員１人当たりの年間純利益と自己資本の２つをチェックしておくことが欠かせないhttpbloglivedoorjpisakigy/2975123849223456/",
+    "https://www.facebook.com/tbsnewsdig/videos/見られています出勤時間は自由従業員第一主義で売り上げ20倍に急成長のプリント加工会社-78歳の新入社員もゲキ推しさん2023年6月13日配信/1157121326150094/",
+    "https://graph.facebook.com/v2.8/10222026345231134/picture/",
+    "https://www.facebook.com/KPMG.JP/posts/金融庁は2025年4月1日有価証券報告書の作成提出に際しての留意すべき事項等識別された課題への対応にあたって参考となる開示例集を含む及び有価証券報告書レビューの/1071355568344973/",
+    "https://www.facebook.com/ToyokeizaiOnline/posts/会社四季報最新号で取り上げた1人当たり営業利益改善度ランキング企業の生産性や付加価値の高低が読み取れる指標の1つで上位50社を掲載しました従業員1人当たりの稼ぎ/660596239849639/",
+    "https://www.facebook.com/nikkeibusiness/posts/非鉄金属商社で東証プライム上場のアルコニックスは日本電産に引けを取らないma巧者だ金属加工会社を中心に2022年までの13年で14社を完全子会社化したが減損損失/5974613379253560/",
+    "https://www.facebook.com/reel/1985821335682614/"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社 有価証券報告書 従業員の状況 売上高 1人当たり note 社長",
+   "results": [
+    "https://www.jpx.co.jp/listing/stocks/new/co3pgt0000001sxv-att/12note-1s.pdf",
+    "https://note.com/note_ir/n/n8e61bc29837d",
+    "https://note.com/mode_1023/n/nc2f0ad9ca898",
+    "https://www.eizo.co.jp/ir/library/report/2023/report56.pdf",
+    "https://kitaishihon.com/company/5243/business",
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/0110/teaserItems5/0/linkList/0/link/103_full_jsec.pdf",
+    "https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2026_03.pdf",
+    "https://note.com/irshukatsu/n/n113c198cd569",
+    "https://www.mitsui.com/jp/ja/ir/library/securities/__icsFiles/afieldfile/2024/06/19/ja_105yuho.pdf",
+    "https://regfis.com/sections/human-capital"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社 有価証券報告書 従業員の状況 売上高 1人当たり X 投稿",
+   "results": [
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt000000gfzl-att/02TOBooks-1s.pdf",
+    "https://note.com/jafcogroup8595/n/n7d67cd4e3ded",
+    "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2406.pdf",
+    "https://www.fujioil.co.jp/pdf/ir/library/negotiable/95th_4.pdf",
+    "https://www.sekisui.co.jp/ir/pdf/summary/yuhou104.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YLSW.pdf",
+    "https://www.fancl.jp/ir/library/finance_report/pdf/y_2403.pdf",
+    "https://www.suzuki.co.jp/ir/library/valuablesecurities/pdf/2025_3.pdf",
+    "https://www.furukawaelectric.com/ir/library/sr/pdf/203_04.pdf",
+    "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/"
+   ]
+  },
+  {
+   "query": "listed Japanese contract manufacturers revenue per employee annual securities report site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/japan-automobile-manufacturers-association-inc-",
+    "https://sg.linkedin.com/in/amir-anvarzadeh-08572132",
+    "https://www.linkedin.com/company/prudential-financial",
+    "https://www.linkedin.com/company/flexintl",
+    "https://www.linkedin.com/company/northern-trust",
+    "https://www.linkedin.com/in/johngherndon",
+    "https://www.linkedin.com/company/bmw-group/",
+    "https://www.linkedin.com/posts/forviahella_annual-report-fy-2025-activity-7440307655182606336-fEub",
+    "https://www.linkedin.com/company/spglobal",
+    "https://www.linkedin.com/in/kevin-rule"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ39頁・検索15回）",
+  "社員数・平均社員数": "記載なし（読んだ39頁・検索15回）",
+  "受注金額・加工賃収入": "記載なし（読んだ39頁・検索15回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ39頁・検索15回）",
+  "生産能力・設備": "記載なし（読んだ39頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ39頁・検索15回）"
+ }
+}

@@ -1,0 +1,959 @@
+{
+ "name": "テンパール工業",
+ "aliases": [],
+ "context": "広島県広島市／出典:大学・高専の企業説明会／求人媒体:Indeed;doda;自社採用ページ／想定年収:450〜450万円／従業員:334",
+ "researched_at": "2026-11-05T04:47:52.202981+00:00",
+ "official_url": "https://www.tempearl.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本店商品センター (外部業者)",
+    "value": "〒730-0835 広島市中区江波南2丁目15番26号 GLP広島Ⅱ 082-218-5555 082-532-1016 地図 駐車場",
+    "url": "https://www.tempearl.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "本店所在地",
+    "value": "〒732-0802 広島市南区大州3丁目1番42号 (代表)082-282-1341",
+    "url": "https://www.tempearl.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "広島県広島市南区大州3丁目1番42号",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "広島県広島市南区大州3-1-42",
+    "url": "https://www.denko-navi.com/kyujin/9229",
+    "pass": 3
+   },
+   {
+    "label": "本店郵便番号",
+    "value": "732-0802",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本店所在地",
+    "value": "広島県広島市南区大州3丁目1-42",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本店電話番号",
+    "value": "082-282-1341",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "広島県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "大阪府",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "茨城県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "取締役社長　佐久間　由峰",
+    "url": "https://www.tempearl.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "水津卓也",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "佐久間 由峰",
+    "url": "https://www.denko-navi.com/kyujin/9229",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1951(昭和26)年1月22日",
+    "url": "https://www.tempearl.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "設立年",
+    "value": "設立年：1946年",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1951年1月",
+    "url": "https://www.denko-navi.com/kyujin/9229",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1951年1月22日",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1億5,000万円",
+    "url": "https://www.tempearl.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "150百万円",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "1億5,000万円",
+    "url": "https://www.denko-navi.com/kyujin/9229",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "1億5,000万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "333名（2026年4月現在）",
+    "url": "https://www.tempearl.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "337名",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "320名",
+    "url": "https://www.denko-navi.com/kyujin/9229",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "325名（2025年3月末現在）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "配線用遮断器、漏電遮断器、住宅用分電盤の設計・開発・製造・販売",
+    "url": "https://www.tempearl.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "電気機械器具、精密機械器具の製造・販売および設計・施工。 主要商品：配線用遮断器、漏電遮断器、住宅用分電盤、標準分電盤、特注分電盤、キュービクル等",
+    "url": "https://www.denko-navi.com/kyujin/9229",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "■配線用遮断器、漏電遮断器、住宅用分電盤、標準・特注分電盤等の開発、設計、製造、販売 主力商品であるブレーカをはじめ、電気と暮らしを安全につなぎ続けるための様々な製品を開発・製造・販売しています。 また、常に新しい技術の開発にも積極的に取り組んでいます。産業機器分野の周辺機器やマイクロエレクトロニクス商品の研究開発、さらにはエネルギー、新センサー技術を中心とした計測、制御分野にも進出しています。 電気を利用するためには必ず設置のある住宅用分電盤やブレーカを開発・設計・製造・販売しています。社員一同、日々改善・改良を重ね電気安全に貢献しています。",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "116億8,600万円",
+    "url": "https://www.denko-navi.com/kyujin/9229",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "117億2300万円（2024年度）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主な取引先",
+    "value": "官公庁、公社、独立行政法人、鉄道会社、電力会社、ガス会社、電気工事会社、造船会社、建設会社、電設資材店　他",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "1億5,000万円",
+    "url": "https://www.tempearl.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "1月22日、広島市皆実町に資本金100万円で西美電気工業株式会社を設立",
+    "url": "https://www.tempearl.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "テンパール工業の年収・給与 平均年収 - エン カイシャの評判",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "テンパール工業株式会社の正社員22人の回答によると平均年収は454万円、年収範囲は250～700万円です",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "カイシャの評判に掲載されている年収情報は、当該企業で就業経験のある方を対象としたアンケートを基に、有効な回答かつ、雇用形態が正社員の回答から算出しております",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトの年収情報は、ユーザーの皆様に投稿いただいた時点の回答に基づいているため、実際の年収とは異なる可能性があります",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "テンパール工業株式会社の年収・給与についての口コミ",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与昇給については、県平均を上回る水準であり、総じて十分に満足しております",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "特に評価できる点は、業務量や責任の大きさに対して給与が適切に設定されていると感じられる点です",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "また、中小企業メーカーという特性上、個々の貢献が見えやすく、それが賞与や昇給に一定時間反映されている点もモチベーション向上につながっています",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "今後は評価基準や昇給プロセスがより明確になることで、さらなる納得感と意欲向上につながることを期待しています",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "会社の業績も上昇傾向にあり、給与、ボーナスにも反映されているので少しづつですが、実力主義になりつつあるように思います",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:広島では給与は平均くらいだと...",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "本店はいろんな職種があり、経理関係、人事、企画、開発、工場、品管、検査、営業関係など色々あるが給与はほとんど変わらないが部署によって業務量+難易度が違う",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:定期昇給制度があり、金額は低...",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "定期昇給制度があり、金額は低いがある程度の勤続年数を重ねると、それなりの昇給が見込める",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:昇給は年3000円程度",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給は年3000円程度",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は平均4ヶ月",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "中途で入っても、年齢に合わせた給与がもらえる",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:昇給は１回/年査定により、多...",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給は１回/年",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は業績連動賞与のため、会社の業績に応じた支給額となっている",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は業績連動賞与であり、外的要因で業績の変動幅が大きい",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:営業は家賃補助もあり給与面で...",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "営業は家賃補助もあり給与面では困らなかった",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "月給：230,000円～370,100円",
+    "url": "https://www.denko-navi.com/kyujin/9229",
+    "pass": 3
+   },
+   {
+    "quote": "370万円～450万円",
+    "url": "https://www.denko-navi.com/kyujin/9229",
+    "pass": 3
+   },
+   {
+    "quote": "安定した給与体系、個人やチームの成果は賞与でしっかり還元！！",
+    "url": "https://www.denko-navi.com/kyujin/9229",
+    "pass": 3
+   },
+   {
+    "quote": "当社規定により支給（月上限：15万円）",
+    "url": "https://www.denko-navi.com/kyujin/9229",
+    "pass": 3
+   },
+   {
+    "quote": "1億5,000万円",
+    "url": "https://www.denko-navi.com/kyujin/9229",
+    "pass": 3
+   },
+   {
+    "quote": "116億8,600万円",
+    "url": "https://www.denko-navi.com/kyujin/9229",
+    "pass": 3
+   },
+   {
+    "quote": "月給：234,020円～377,720円",
+    "url": "https://www.denko-navi.com/kyujin/9229",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "1億5,000万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "117億2300万円（2024年度）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "●1月22日 広島市皆実町に資本金100万円で西美電気工業(株)を設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "22拠点(26営業所) (",
+    "url": "https://www.tempearl.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "広島銀行 三井住友銀行 三菱UFJ銀行 他",
+    "url": "https://www.tempearl.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "官公庁 公社 独立行政法人 鉄道会社 電力会社 ガス会社 電気工事会社 造船会社 建設会社 電設資材会社 他",
+    "url": "https://www.tempearl.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "広島市安佐北区可部町にテンパールグループ可部工場を設立",
+    "url": "https://www.tempearl.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "広島市安佐北区可部町にテンパール可部第二工場を設立",
+    "url": "https://www.tempearl.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、取引先との信頼関係を構築し、相互の発展を目指します",
+    "url": "https://www.tempearl.co.jp/company/green/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、調達にあたり取引先の評価基準を設け、品質・価格・納期・安全・環境などのほか、情報力や提案力、コミュニケーションなどを総合的に判断し、適正かつ安定的な調達を目指します",
+    "url": "https://www.tempearl.co.jp/company/green/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、お取引先さまから提供された機密情報の価値を認識し、適切に管理するとともに、承諾なしに第三者への開示はいたしません",
+    "url": "https://www.tempearl.co.jp/company/green/",
+    "pass": 1
+   },
+   {
+    "quote": "総合職での採用を前提としており、転勤（国内営業拠点）はあります",
+    "url": "https://www.tempearl.co.jp/recruit/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "営業配属者は,先輩から担当のお客様を引き継ぎ、新築住宅や建物、設備に納入する当社商品を提案しています",
+    "url": "https://www.tempearl.co.jp/recruit/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "本店はいろんな職種があり、経理関係、人事、企画、開発、工場、品管、検査、営業関係など色々あるが給与はほとんど変わらないが部署によって業務量+難易度が違う",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川県川崎市高津区末長3丁目3番17号",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "官公庁、公社、独立行政法人、鉄道会社、電力会社、ガス会社、電気工事会社、造船会社、建設会社、電設資材店 他",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "開発部 遮断器担当 S.R. 2011年入社 | 採用情報 | テンパール工業株式会社",
+    "url": "https://www.tempearl.co.jp/recruit/person/SR.html",
+    "pass": 1
+   },
+   {
+    "quote": "福利厚生・教育制度 | 採用情報 | テンパール工業株式会社",
+    "url": "https://www.tempearl.co.jp/recruit/welfare/",
+    "pass": 1
+   },
+   {
+    "quote": "よくあるご質問 | 採用情報 | テンパール工業株式会社",
+    "url": "https://www.tempearl.co.jp/recruit/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "北日本支店 仙台営業所 K.T. 2025年入社 | 採用情報 | テンパール工業株式会社",
+    "url": "https://www.tempearl.co.jp/recruit/person/KT.html",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用の方も中途採用の方も多く在籍しており、いろいろな意見交換ができたりいろいろな価値観を持った方がいらっしゃいます",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "応募（エントリーシート・履歴書）→WEB面接→最終面接（対面）→入社",
+    "url": "https://www.denko-navi.com/kyujin/9229",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "テンパール工業(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "テンパール工業 株式会社 の 求人 ・中途採用情報 - doda — テンパール工業 株式会社 の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__00007888919",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00007888919/",
+    "pass": 3
+   },
+   {
+    "quote": "テンパール工業 の 年収 ・給与 平均 年収 - エン カイシャの評判 — テンパール工業 の 年収 ・給与 平均 年収 - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company > salary",
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "テンパール工業 の「 年収 ・給与制度」 OpenWork — テンパール工業 の「 年収 ・給与制度」 OpenWork OpenWork https://www.openwork.jp > ... > テンパール工業",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1ge&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "テンパール工業株式会社 の求人情報（8件） — テンパール工業株式会社 の求人情報（8件） スタンバイ",
+    "url": "https://jp.stanby.com/search?cp_id=41207&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "テンパール工業 新卒 高卒 の求人情報をすべて見る （136件） — テンパール工業 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "テンパール工業 (株)の 新卒採用 ・会社概要 | マイナビ2027 — テンパール工業 (株)の 新卒採用 ・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp81002 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用 情報 | テンパール工業 株式会社 — 採用 情報 | テンパール工業 株式会社 テンパール工業株式会社 https://www.tempearl.co.jp > recruit",
+    "url": "https://www.tempearl.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "テンパール工業 の 新卒採用 ・就職・企業情報 - 就活会議 — テンパール工業 の 新卒採用 ・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > companies",
+    "url": "https://syukatsu-kaigi.jp/companies/16315",
+    "pass": 3
+   },
+   {
+    "quote": "テンパール工業 の 新卒採用 ・就職・会社概要とクチコミ — テンパール工業 の 新卒採用 ・就職・会社概要とクチコミ ワンキャリア https://www.onecareer.jp > companies",
+    "url": "https://www.onecareer.jp/companies/5324",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "テンパール工業(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "テンパール工業 とマルニ木工、不燃性木材を使ったオブジェの ... テンパール工業 とマルニ木工、不燃性木材を使ったオブジェの ... Facebook https://www.facebook.com > prtimes.tech > posts > テンパ...",
+    "url": "https://www.facebook.com/prtimes.tech/posts/%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD%E3%81%A8%E3%83%9E%E3%83%AB%E3%83%8B%E6%9C%A8%E5%B7%A5%E4%B8%8D%E7%87%83%E6%80%A7%E6%9C%A8%E6%9D%90%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%88%86%E9%9B%BB%E7%9B%A4%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%AB%E7%9D%80%E6%89%8B/1364964064450337/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tempearl.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tempearl.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tempearl.co.jp/company/number/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tempearl.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tempearl.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tempearl.co.jp/company/iso/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tempearl.co.jp/company/green/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tempearl.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tempearl.co.jp/recruit/person/SR.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tempearl.co.jp/recruit/welfare/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tempearl.co.jp/recruit/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tempearl.co.jp/recruit/person/KT.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tempearl.co.jp/company/jisedai/EmployerActionPlan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tempearl.co.jp/recruit/harassment/sexual_Harassment_Policy_for_Job_Applicants.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tempearl.co.jp/company/jinken/jinken_housin.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00007888919/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://en-hyouban.com/company/00007888919/salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.denko-navi.com/kyujin/9229",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/prtimes.tech/posts/%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD%E3%81%A8%E3%83%9E%E3%83%AB%E3%83%8B%E6%9C%A8%E5%B7%A5%E4%B8%8D%E7%87%83%E6%80%A7%E6%9C%A8%E6%9D%90%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%88%86%E9%9B%BB%E7%9B%A4%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%AB%E7%9D%80%E6%89%8B/1364964064450337/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "テンパール工業 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00007888919/",
+    "https://en-hyouban.com/company/00007888919/salary/",
+    "https://www.denko-navi.com/kyujin/9229",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1ge&q_no=2",
+    "https://jp.stanby.com/search?cp_id=41207&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st",
+    "https://www.tempearl.co.jp/recruit/",
+    "https://doda.jp/DodaFront/View/Company/j_id__00007888919/",
+    "https://jp.indeed.com/q-%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB-%E6%B1%82%E4%BA%BA.html",
+    "https://www.cognavi.jp/catalog/003596/000001/",
+    "https://jobcatalog.yahoo.co.jp/company/1000005830/salaries/"
+   ]
+  },
+  {
+   "query": "テンパール工業 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://job.mynavi.jp/27/pc/search/corp81002/outline.html",
+    "https://www.tempearl.co.jp/recruit/",
+    "https://syukatsu-kaigi.jp/companies/16315",
+    "https://www.onecareer.jp/companies/5324",
+    "https://www.denko-navi.com/kyujin/9229",
+    "https://www.f-tempearl.co.jp/recruit/",
+    "https://jp.indeed.com/q-%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB-%E6%B1%82%E4%BA%BA.html",
+    "https://career-tetsujin.jp/companies/tempearl-industrial/",
+    "https://jakunen-hiroshima.mhlw.go.jp/setsumeiHS/pdf/hiroshima/47.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com テンパール工業",
+   "results": [
+    "https://note.com/shiny_moraea889/n/n91ee7e528db3",
+    "https://note.com/aibased_analysis/n/nc341a79612a8",
+    "https://note.com/sessair/n/n69107b2ccf12",
+    "https://note.com/dise_design/n/n95f0e8a845f7",
+    "https://note.com/altenergy/n/n040f1e0f7090",
+    "https://note.com/ripe_ixora5107/n/ne99d01f7d7c0",
+    "https://note.com/powermesh/n/nd070ebae51b6",
+    "https://note.com/saegusa_m/n/nbb955648596a",
+    "https://note.com/aiwriter0116/n/nc36f7d46ce7d",
+    "https://note.com/pana_shop/n/na59d6889e35a"
+   ]
+  },
+  {
+   "query": "site:x.com テンパール工業",
+   "results": [
+    "https://x.com/prostock_ALL/status/1490603739337707522",
+    "https://x.com/kahoparts/status/2055160614931316752",
+    "https://x.com/katudon_suki_/status/2066327924207481023",
+    "https://x.com/kurohakase8012/status/1730988175135490395",
+    "https://x.com/intent/like?tweet_id=1428582223364558849&related=twicomi_kari",
+    "https://x.com/i/status/1848531098474823862",
+    "https://x.com/fuyuji/status/2113530811387634061",
+    "https://x.com/kahoparts",
+    "https://x.com/denkou_nis",
+    "https://x.com/kessan_db/status/2069553962190332300"
+   ]
+  },
+  {
+   "query": "site:linkedin.com テンパール工業",
+   "results": [
+    "https://www.linkedin.com/pub/dir/Kouji/Yamauchi/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://www.linkedin.com/pub/dir/%E3%81%93%E3%81%86%E3%81%98/%E5%B1%B1%E5%86%85",
+    "https://www.linkedin.com/pub/dir/%E6%B5%A9%E4%BA%8C/%E5%B1%B1%E5%86%85",
+    "https://jp.linkedin.com/in/hiromichi-yoshino",
+    "https://jp.linkedin.com/pub/dir/%E6%B5%A9%E4%BA%8C/%E5%B1%B1%E5%86%85/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/pulse/%E5%8F%96%E3%82%8A%E5%A4%96%E3%81%97%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%A2%E3%83%AC%E3%82%B9%E3%82%BF%E3%83%BC-market-report-2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E5%B0%86%E6%9D%A5cagr-146%E3%82%92%E8%A6%8B%E6%8D%AE%E3%81%88%E3%81%9F%E5%B1%95%E6%9C%9B-aunke",
+    "https://jp.linkedin.com/in/dewiyuliana979",
+    "https://jp.linkedin.com/company/テンパール工業（株）",
+    "https://jp.linkedin.com/in/浩二-山内-78b2a6189",
+    "https://www.linkedin.com/pub/dir/こうじ/山内"
+   ]
+  },
+  {
+   "query": "site:facebook.com テンパール工業",
+   "results": [
+    "https://www.facebook.com/prtimes.tech/posts/%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD%E3%81%A8%E3%83%9E%E3%83%AB%E3%83%8B%E6%9C%A8%E5%B7%A5%E4%B8%8D%E7%87%83%E6%80%A7%E6%9C%A8%E6%9D%90%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%88%86%E9%9B%BB%E7%9B%A4%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%AB%E7%9D%80%E6%89%8B/1364964064450337/",
+    "https://www.facebook.com/p/%E4%BA%95%E6%9C%AC%E4%BD%B3%E5%AD%90-100012342849258/",
+    "https://www.facebook.com/kaneshin/",
+    "https://ja-jp.facebook.com/public/%E6%9E%97-%E6%AD%A3%E7%AF%84",
+    "https://www.facebook.com/saraki61/?locale=pa_IN",
+    "https://www.facebook.com/taaaaiki/?locale=ja_JP",
+    "https://www.facebook.com/HiroshimaKENKO/posts/%E7%AC%AC60%E5%9B%9E-%E5%BA%83%E5%B7%A5%E7%A5%AD-%E9%96%8B%E5%82%AC%E4%BB%A4%E5%92%8C%EF%BC%98%E5%B9%B411%E6%9C%88%EF%BC%97%E6%97%A5%E5%9C%9F%E9%96%8B%E5%82%AC%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%8C%E5%A4%A7%E9%9B%86%E5%90%88%E4%BB%8A%E5%B9%B4%E3%81%AE%E5%BA%83%E5%B7%A5%E7%A5%AD%E3%81%A7%E3%81%AF%E4%BC%81%E6%A5%AD%E3%81%A8%E3%82%B3%E3%83%A9%E3%83%9C%E3%81%97%E3%81%9F%E6%9C%AC%E6%A0%BC%E7%9A%84%E3%81%AA%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E4%BD%93%E9%A8%93%E3%81%8C%E6%A5%BD%E3%81%97%E3%82%81%E3%81%BE%E3%81%99%E3%81%95%E3%82%89%E3%81%AB%EF%BC%93%E5%B9%B4%E7%94%9F%E3%81%AB%E3%82%88%E3%82%8B%E9%A3%9F%E5%93%81%E3%83%90/1120274737011706/",
+    "https://www.facebook.com/hints.sc/posts/%E5%8F%82%E5%8A%A0%E8%80%85%E5%8B%9F%E9%9B%86%E7%95%99%E5%AD%A6%E7%94%9F%E3%81%A8%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BC%81%E6%A5%AD%E3%81%A8%E3%81%AE%E4%BA%A4%E6%B5%81%E4%BC%9A%EF%BC%91%EF%BC%92%EF%BC%95participant-recruitment-meeting-with-japanese-companies%EF%BC%91%EF%BC%92%EF%BC%95/4585255548203089/",
+    "https://www.facebook.com/groups/921859011785104/posts/2094496377854689/",
+    "https://www.facebook.com/groups/428454668135450/posts/1919245342389701/"
+   ]
+  },
+  {
+   "query": "テンパール工業 note 社長",
+   "results": [
+    "https://www.tempearl.co.jp/",
+    "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00930.html",
+    "https://www.youtube.com/watch?v=r4Xj6LXjUNI",
+    "https://tempearl.biz/cate02/list1.php?n=3",
+    "https://note.com/denkikogyo/n/na9836c9260f4",
+    "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD",
+    "https://www.youtube.com/@Tempearl_Industrial",
+    "https://job.mynavi.jp/28/pc/search/corp81002/outline.html",
+    "https://ja.wikipedia.org/wiki/テンパール工業",
+    "https://compalyze.co.jp/company/2240001007258"
+   ]
+  },
+  {
+   "query": "テンパール工業 X 投稿",
+   "results": [
+    "https://www.tempearl.co.jp/",
+    "https://www.youtube.com/watch?v=-VleXIckHBM",
+    "https://syukatsu-kaigi.jp/companies/16315",
+    "https://www.youtube.com/@Tempearl_Industrial",
+    "https://faq.tempearl.biz/",
+    "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD",
+    "https://www.tempearl.co.jp/support/",
+    "https://www.youtube.com/watch?v=cQrTseuUR9w",
+    "https://www.instagram.com/p/DDy1w1yBa-X/",
+    "https://www.instagram.com/p/DC8wfhZhbTt/"
+   ]
+  }
+ ],
+ "missing": {
+  "採用の発信": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部6頁・検索8回）"
+ }
+}

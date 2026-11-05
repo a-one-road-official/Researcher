@@ -1,0 +1,834 @@
+{
+ "name": "西川物産",
+ "aliases": [],
+ "context": "広島県広島市／出典:大学・高専の企業説明会／求人媒体:見当たらず／想定年収:511〜511万円／従業員:不明",
+ "researched_at": "2026-11-05T04:37:19.026035+00:00",
+ "official_url": "https://www.nishikawa-bussan.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1962年12月10日",
+    "url": "https://www.nishikawa-bussan.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月",
+    "value": "設立年月：1962年12月",
+    "url": "https://jobtalk.jp/companies/63847",
+    "pass": 3
+   },
+   {
+    "label": "設立日",
+    "value": "設立日：1962年12月",
+    "url": "https://syukatsu-kaigi.jp/companies/16938",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "代表取締役社長　京本 敬二",
+    "url": "https://www.nishikawa-bussan.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役社長",
+    "value": "京本 敬二",
+    "url": "https://www.nishikawa-bussan.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "京本敬二",
+    "url": "https://jobtalk.jp/companies/63847",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "京本敬二",
+    "url": "https://syukatsu-kaigi.jp/companies/16938",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社ビル所在地",
+    "value": "〒731-0138 広島県広島市安佐南区祇園3丁目37番16号",
+    "url": "https://www.nishikawa-bussan.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒731-0138 広島県広島市安佐南区祇園3丁目37番16号 MAPはこちら",
+    "url": "https://www.nishikawa-bussan.jp/about/network/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒731-0138 広島県広島市安佐南区祇園3丁目36番20号 MAPはこちら",
+    "url": "https://www.nishikawa-bussan.jp/about/network/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒448-0011 愛知県刈谷市築地町5丁目7番1号 MAPはこちら",
+    "url": "https://www.nishikawa-bussan.jp/about/network/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒731-0213 広島県広島市安佐北区三入南1丁目13番17号 MAPはこちら",
+    "url": "https://www.nishikawa-bussan.jp/about/network/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒731-1516 広島県山県郡北広島町川西425番1号 MAPはこちら",
+    "url": "https://www.nishikawa-bussan.jp/about/network/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "広島県広島市山本２丁目１番２７号",
+    "url": "https://jobtalk.jp/companies/63847",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒731-0137 広島県広島市安佐南区山本2丁目1番27号",
+    "url": "https://syukatsu-kaigi.jp/companies/16938",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "東京都",
+    "url": "https://syukatsu-kaigi.jp/companies/16938",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "宮城県",
+    "url": "https://syukatsu-kaigi.jp/companies/16938",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "2,120万円",
+    "url": "https://www.nishikawa-bussan.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "21,000,000円",
+    "url": "https://jobtalk.jp/companies/63847",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "2120万円",
+    "url": "https://syukatsu-kaigi.jp/companies/16938",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "183名（2024年4月時点）",
+    "url": "https://www.nishikawa-bussan.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "210人",
+    "url": "https://jobtalk.jp/companies/63847",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "210人",
+    "url": "https://syukatsu-kaigi.jp/companies/16938",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・ゴム・ウレタン加工/販売（化成品) ・ゴム成型用金型製造販売（CAD／CAM） ・化粧用スポンジパフ製造 ・工業用ラテックス製品製造 ・こんにゃくスポンジ製造（ナチュラブ アクアコンディショナー)",
+    "url": "https://www.nishikawa-bussan.jp/about/company/",
+    "pass": 1
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要取引先 （50音順）",
+    "value": "【上場企業】　　　　　　　　　　【非上場企業】 エスペック株式会社　　　　　　　アロン化成株式会社 花王株式会社　　　　　　　　　　株式会社ヴィテック 株式会社コーセー　　　　　　　　片山工業株式会社 ショーボンド建設株式会社　　　　株式会社カネボウ化粧品 ダイキョーニシカワ株式会社　　　クリヤマジャパン株式会社 株式会社長府製作所　　　　　　　ゴムノイナキ株式会社 西川ゴム工業株式会社　　　　　　デルタ工業株式会社 株式会社ニフコ　　　　　　　　　株式会社ナリス化粧品 株式会社パイオラックス　　　　　南条工業株式会社 フマキラー株式会社　　　　　　　南条装備工業株式会社 ミタチ産業株式会社　　　　　　　株式会社ニシヤマ 株式会社良品計画　　　　　　　　株式会社ニトムズ 株式会社日本クライメイトシステムズ 株式会社広島東洋カープ 宮川化成工業株式会社 株式会社モルテン 株式会社レニアス",
+    "url": "https://www.nishikawa-bussan.jp/about/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "会社概要、主要取引先様、社是および事業方針についてご紹介いたします",
+    "url": "https://www.nishikawa-bussan.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "【適用範囲】本社、可部工場、本社工場、千代田物流センター、横浜営業所、名古屋営業所",
+    "url": "https://www.nishikawa-bussan.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "広島県山県郡千代田町（現：山県郡北広島町）に子会社西川化工株式会社を設立（ウレタンフォーム・ゴム加工工場）",
+    "url": "https://www.nishikawa-bussan.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "広島市安佐南区祇園に第1工場落成（ゴム加工・金型製造工場）",
+    "url": "https://www.nishikawa-bussan.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "・広島市安佐南区山本に第2工場落成（フォームラバー製造工場）",
+    "url": "https://www.nishikawa-bussan.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "子会社、西川化工株式会社を吸収合併、当工場の名称を西川物産千代田工場へ変更",
+    "url": "https://www.nishikawa-bussan.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "広島市安佐南区祇園第1工場（金型工場）を増改築",
+    "url": "https://www.nishikawa-bussan.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "・関連会社、西和工業株式会社を吸収合併、当工場の名称を西川物産可部工場（広島市安佐北区三入南）へ変更",
+    "url": "https://www.nishikawa-bussan.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "・千代田工場（広島県山県郡北広島町）の生産設備を可部工場（広島市安佐北区三入南）へ移設し、生産拠点を集約",
+    "url": "https://www.nishikawa-bussan.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "千代田工場は、千代田物流センターへ変更",
+    "url": "https://www.nishikawa-bussan.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "またすべて国内工場で生産しており、漂白剤や防腐剤も無添加",
+    "url": "https://www.nishikawa-bussan.jp/service/beauty/",
+    "pass": 1
+   },
+   {
+    "quote": "親会社の西川ゴムや取引先とも交流戦をして親交を深めています！",
+    "url": "https://www.nishikawa-bussan.jp/recruit/honne/",
+    "pass": 1
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "#製造業 #自動車 #メーカー #マツダ #ゴム #金型 #建築 #住宅 #化粧品 #広島 #地場企業 #横浜 #愛知 #CAD #CAM #3D #設計 #化学 #技術 #営業 #商品企画 #事務 #D2C #Uターン歓迎 #Iターン歓迎 #福利厚生充実 #育休推奨 #フレックスタイム制 #スポーツ好き多い #フットサルサークル #サッカー観戦 #野球観戦 #カープ #ゴルフ #社会貢献活動 #地域貢献活動 #インターン",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242498/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "可部工場(安佐北区)、金型工場(安佐南区)、千代田物流センター(北広島町）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242498/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "広島県山県郡千代田町（現：山県郡北広島町）に子会社西川化工(株)を設立（ウレタンフォーム・ゴム加工工場）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242498/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "広島市安佐南区祇園に第一工場落成（ゴム加工・金型製造工場）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242498/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "広島市安佐南区山本に第二工場落成（フォームラバー製造工場）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242498/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "子会社、西川化工(株)を吸収合併、当工場の名称を西川物産千代田工場へ変更",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242498/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "千代田工場（ウレタンフォーム・ゴム加工工場）を増設",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242498/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【新入社員】導入教育、工場実習、専門教育",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242498/outline.html",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "2,120万円",
+    "url": "https://www.nishikawa-bussan.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "年収、評価制度",
+    "url": "https://jobtalk.jp/companies/63847",
+    "pass": 3
+   },
+   {
+    "quote": "現社員や元社員から投稿された企業の評判・面接・年収などの口コミ情報を、",
+    "url": "https://jobtalk.jp/companies/63847",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "2,120万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242498/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "49億8,128万円（2025年3月）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242498/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 50億1,747万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242498/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益 3億1,035万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242498/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "年収、評価制度",
+    "url": "https://syukatsu-kaigi.jp/companies/16938",
+    "pass": 3
+   },
+   {
+    "quote": "業界内では、比較的給与は良い方だと思います",
+    "url": "https://syukatsu-kaigi.jp/companies/16938",
+    "pass": 3
+   },
+   {
+    "quote": "2120万円",
+    "url": "https://syukatsu-kaigi.jp/companies/16938",
+    "pass": 3
+   },
+   {
+    "quote": "就活会議に掲載している口コミ及び口コミに紐づく属性情報（性別、雇用時の年齢・年代、職種、年収、役職、雇用形態など）は、",
+    "url": "https://syukatsu-kaigi.jp/companies/16938",
+    "pass": 3
+   },
+   {
+    "quote": "西川物産株式会社の年収、社風、強みなど、実際に西川物産株式会社で働いていた人の口コミをもとに企業理解を深められるだけでなく、先輩の体験記やESから選考の傾向をつかんで効率的に選考対策を進めることができます",
+    "url": "https://syukatsu-kaigi.jp/companies/16938",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "西川物産に興味のある方、このページをみて一緒に仕事をしたいと思ってくださった方、エントリーフォームへお進みください！",
+    "url": "https://www.nishikawa-bussan.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "西川物産に興味のある方、このページをみて一緒に仕事をしたいと思ってくださった方、エントリーフォームへお進みください！",
+    "url": "https://www.nishikawa-bussan.jp/recruit/picture_book/",
+    "pass": 1
+   },
+   {
+    "quote": "また、最近は新卒採用にも力を入れています",
+    "url": "https://www.nishikawa-bussan.jp/recruit/honne/",
+    "pass": 1
+   },
+   {
+    "quote": "西川物産に興味のある方、このページをみて一緒に仕事をしたいと思ってくださった方、エントリーフォームへお進みください！",
+    "url": "https://www.nishikawa-bussan.jp/recruit/honne/",
+    "pass": 1
+   },
+   {
+    "quote": "西川物産の転職・採用情報｜社員口コミでわかる【転職会議】",
+    "url": "https://jobtalk.jp/companies/63847",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "西川物産(株)【西川ゴムグループ】の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242498/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242498/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242498/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "西川物産の新卒採用・就職・企業情報【就活会議】",
+    "url": "https://syukatsu-kaigi.jp/companies/16938",
+    "pass": 3
+   },
+   {
+    "quote": "西川物産株式会社の新卒採用・就職・企業情報",
+    "url": "https://syukatsu-kaigi.jp/companies/16938",
+    "pass": 3
+   },
+   {
+    "quote": "ぜひ、選考体験記の詳細ページにて最新情報やエントリーシート・体験記全文を確認し、選考対策に役立ててください",
+    "url": "https://syukatsu-kaigi.jp/companies/16938",
+    "pass": 3
+   },
+   {
+    "quote": "就活会議では、西川物産株式会社の評判や口コミ、選考を突破した先輩のエントリーシート、実際の選考内容を確認できる体験記、選考状況をリアルタイムで把握できる就活速報を掲載しています",
+    "url": "https://syukatsu-kaigi.jp/companies/16938",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "西川物産を一番知っている先輩社員ならではの“感じること”についてお話を伺いました",
+    "url": "https://www.nishikawa-bussan.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "※西川物産を選んだ理由から実際に働いてみて感じたこと、今後のキャリアステップなど、営業から製造業、総合職まで幅広い分野で活躍する先輩社員インタビューです",
+    "url": "https://www.nishikawa-bussan.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員のホンネ対談 | 西川物産株式会社",
+    "url": "https://www.nishikawa-bussan.jp/recruit/honne/",
+    "pass": 1
+   },
+   {
+    "quote": "西川物産をよく知っている先輩社員同士の対談から、会社の雰囲気を覗き見してみましょう！",
+    "url": "https://www.nishikawa-bussan.jp/recruit/honne/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "西川物産 株式会社の平均 年収 、年間給与所得情報 - doda — 西川物産 株式会社の平均 年収 、年間給与所得情報 - doda doda https://doda.jp > CompanyIncome > j_id__10002491495",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10002491495/",
+    "pass": 3
+   },
+   {
+    "quote": "西川物産 の転職・採用情報｜社員口コミでわかる【転職会議】 — 西川物産 の転職・採用情報｜社員口コミでわかる【転職会議】 転職会議 https://jobtalk.jp > 化学・素材業界ランキング",
+    "url": "https://jobtalk.jp/companies/63847",
+    "pass": 3
+   },
+   {
+    "quote": "西川物産 株式会社の 年収 ・給与 - エン カイシャの評判 — 西川物産 株式会社の 年収 ・給与 - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company > salary",
+    "url": "https://en-hyouban.com/company/10002491495/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "西川物産 株式会社のアルバイト・バイト 求人 情報 - タウンワーク — 西川物産 株式会社のアルバイト・バイト 求人 情報 - タウンワーク タウンワーク https://townwork.net > job_search > 西川物産株式会社",
+    "url": "https://townwork.net/job_search/kw/%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 3
+   },
+   {
+    "quote": "西川物産 新卒 高卒 の求人情報をすべて見る （136件） — 西川物産 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "西川物産 (株)【西川ゴムグループ】の会社概要 | マイナビ2027 — 西川物産 (株)【西川ゴムグループ】の会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp242498 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242498/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "西川物産 の 新卒採用 ・就職・企業情報 - 就活会議 — 西川物産 の 新卒採用 ・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > ... > 化学・石油業界の企業一覧",
+    "url": "https://syukatsu-kaigi.jp/companies/16938",
+    "pass": 3
+   },
+   {
+    "quote": "BUSINESS 仕事内容・キャリア - 西川物産株式会社 — BUSINESS 仕事内容・キャリア - 西川物産株式会社 西川物産株式会社 https://www.nishikawa-bussan.jp > recruit > career",
+    "url": "https://www.nishikawa-bussan.jp/recruit/career/",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "西川物産(株)【西川ゴムグループ】の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242498/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242498/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nishikawa-bussan.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nishikawa-bussan.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nishikawa-bussan.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nishikawa-bussan.jp/about/greeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nishikawa-bussan.jp/about/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nishikawa-bussan.jp/about/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nishikawa-bussan.jp/about/network/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nishikawa-bussan.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nishikawa-bussan.jp/news/detail?id=850",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nishikawa-bussan.jp/service/beauty/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nishikawa-bussan.jp/recruit/picture_book/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nishikawa-bussan.jp/recruit/honne/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10002491495/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jobtalk.jp/companies/63847",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en-hyouban.com/company/10002491495/salary/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp242498/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://syukatsu-kaigi.jp/companies/16938",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "西川物産 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10002491495/",
+    "https://jobtalk.jp/companies/63847",
+    "https://en-hyouban.com/company/10002491495/salary/",
+    "https://jp.indeed.com/q-%E8%A5%BF%E5%B7%9D%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-l-%E5%BA%83%E5%B3%B6%E7%9C%8C-%E6%B1%82%E4%BA%BA.html",
+    "https://townwork.net/job_search/kw/%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "https://job.mynavi.jp/27/pc/search/corp242498/recruiting_course27023016/recruiting_course.html?site_preference=pc",
+    "https://www.nishikawa-bussan.jp/recruit/career/",
+    "https://syukatsu-kaigi.jp/companies/16938/post_items/2/word_mouths",
+    "https://jp.indeed.com/cmp/西川物産株式会社/salaries",
+    "https://www.nishikawa-bussan.jp/recruit/"
+   ]
+  },
+  {
+   "query": "西川物産 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E8%A5%BF%E5%B7%9D%E7%89%A9%E7%94%A3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://job.mynavi.jp/27/pc/search/corp242498/outline.html",
+    "https://syukatsu-kaigi.jp/companies/16938",
+    "https://www.nishikawa-bussan.jp/recruit/career/",
+    "https://www.nishikawa-y.co.jp/jobdescription/",
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002176512.pdf",
+    "https://jobtalk.jp/companies/63847",
+    "https://www.nishikawa1566.com/company/recruit/fresh/?srsltid=AYCX9vLmUv1U71HKK15DrwbD0ebcSEWi6nLHNAQJGgbiLnkDd9CUwXVT",
+    "https://www.nishikawa-nbc.co.jp/recruit/graduate/",
+    "https://www.nishikawa-bussan.jp/recruit/"
+   ]
+  },
+  {
+   "query": "site:note.com 西川物産",
+   "results": [
+    "https://note.com/ujiiebussan/n/n08db938d3e4d",
+    "https://note.com/hlab/n/n28353143bd4f",
+    "https://note.com/peragaru/n/nb55224f6f9c0",
+    "https://note.com/ujiiebussan/n/n1edd959e715d",
+    "https://note.com/gifted_flax7955/n/n2e6af723b3d4",
+    "https://note.com/real_pothos5521/n/n2005764b2c81",
+    "https://note.com/gifted_flax7955/n/nc5d128de5aa9",
+    "https://note.com/daily_ad/n/nf23ffecb396d",
+    "https://note.com/sunrise_pub/n/n27a25c5f4de7",
+    "https://note.com/yusuke_007/n/nbef41efb649b"
+   ]
+  },
+  {
+   "query": "site:x.com 西川物産",
+   "results": [
+    "https://x.com/uij_gohiroshima/status/2000868513733341587",
+    "https://x.com/ReutersJapan/status/2008808542317191519",
+    "https://x.com/TMR15/status/1939193390589190401",
+    "https://x.com/Charming_Bull/status/2008801819565453592",
+    "https://x.com/TMR15/status/1660059103329398787",
+    "https://x.com/mi_bussanten/status/2055211589654180021",
+    "https://x.com/TMR15/status/1854142970993516987?lang=bg",
+    "https://x.com/shimasagenta/status/1765716689017336234",
+    "https://x.com/thisis_shun/status/1892865099289022928",
+    "https://x.com/luckypanda_club/status/1799345072129126673"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 西川物産",
+   "results": [
+    "https://jp.linkedin.com/in/ynishikawap",
+    "https://jp.linkedin.com/in/yoshihiro-yoshida-7016582b",
+    "https://jp.linkedin.com/pub/dir/+/%E8%A5%BF%E5%B7%9D/jp-7680-%E5%A4%A7%E9%98%AA%E5%BA%9C",
+    "https://jp.linkedin.com/in/%E7%BE%8E%E7%B4%97-%E8%A5%BF%E5%B7%9D-7b56022bb",
+    "https://jp.linkedin.com/in/shibagaki-shinya-3905a111a",
+    "https://www.linkedin.com/pub/dir/%E8%AA%A0%E5%BF%97/+",
+    "https://www.linkedin.com/pub/dir/Yaeko/+/jp-0-Japan",
+    "https://jp.linkedin.com/in/hiroyuki-kikuchi",
+    "https://jp.linkedin.com/company/crowd-credit-inc",
+    "https://jp.linkedin.com/jobs/view/看護師-准看護師【学歴不問】-at-西川物産株式会社-4161338410"
+   ]
+  },
+  {
+   "query": "site:facebook.com 西川物産",
+   "results": [
+    "https://www.facebook.com/Nishikawa1566/",
+    "https://www.facebook.com/Nishikawa1566/posts/snoopy-%E3%82%AA%E3%83%BC%E3%82%BF%E3%83%A0%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E5%AE%9F%E6%96%BD%E4%B8%ADnishikawa%E3%81%AEpeanuts%E5%95%86%E5%93%81%E3%82%925500%E5%86%86%E4%BB%A5%E4%B8%8A%E3%81%8A%E8%B2%B7%E3%81%84%E4%B8%8A%E3%81%92%E3%81%A7%E3%83%88%E3%83%BC%E3%83%88%E3%83%90%E3%83%83%E3%82%B0%E3%81%8C%E3%82%82%E3%82%89%E3%81%88%E3%82%8B%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8A%E6%AC%A1%E7%AC%AC%E7%B5%82%E4%BA%86%E3%81%A7%E3%81%99%E8%A9%B3%E3%81%97%E3%81%8F%E3%81%AF%E5%BA%97%E9%A0%AD/1586047343561716/",
+    "https://www.facebook.com/100069900391418/posts/1423515809988419/",
+    "https://www.facebook.com/Nishikawa1566/posts/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E6%8E%A8%E3%81%97%E3%81%AF9%E6%9C%88%E3%81%AB%E3%81%AA%E3%82%8A%E6%9C%9D%E6%99%A9%E3%81%8C%E5%B0%91%E3%81%97%E3%81%9A%E3%81%A4%E6%B6%BC%E3%81%97%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%81%AD%E5%AD%A3%E7%AF%80%E3%81%AE%E5%A4%89%E3%82%8F%E3%82%8A%E7%9B%AE%E3%81%AF%E5%AF%9D%E5%85%B7%E3%82%82%E8%A1%A3%E6%9B%BF%E3%81%88%E3%81%AE%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E4%BA%BA%E6%B0%97%E3%82%AB%E3%83%90%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%83%9C%E3%83%BC%E3%83%86%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F4%E3%81%A4%E3%81%AE%E7%A7%8B%E8%89%B2%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%8D%E3%83%BC/1573086631524454/",
+    "https://www.facebook.com/Nishikawa1566/posts/%E4%BE%A1%E6%A0%BC%E6%94%B9%E5%AE%9A%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E8%A5%BF%E5%B7%9D%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AF2026%E5%B9%B49%E6%9C%881%E6%97%A5%E7%81%AB%E3%82%88%E3%82%8A%E4%B8%80%E9%83%A8%E5%95%86%E5%93%81%E3%81%AE%E5%B8%8C%E6%9C%9B%E5%B0%8F%E5%A3%B2%E4%BE%A1%E6%A0%BC%E6%94%B9%E5%AE%9A%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%BE%E3%81%99%E6%98%A8%E4%BB%8A%E3%81%AE%E5%A4%96%E5%9B%BD%E7%82%BA%E6%9B%BF%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%86%86%E5%AE%89%E3%81%AE%E9%80%B2%E8%A1%8C%E3%81%AB%E5%8A%A0%E3%81%88%E4%B8%96%E7%95%8C%E7%9A%84%E3%81%AA%E5%8E%9F%E6%9D%90%E6%96%99%E4%BE%A1%E6%A0%BC%E3%81%AE%E9%AB%98%E9%A8%B0/1548001250699659/",
+    "https://www.facebook.com/Nishikawa1566/posts/1%E4%BA%BA%E6%9A%AE%E3%82%89%E3%81%97%E3%81%AB%E3%82%AA%E3%82%B9%E3%82%B9%E3%83%A1%E3%81%99%E3%81%8E%E3%82%8B%E3%83%99%E3%83%83%E3%83%89%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%93%E3%82%93%E3%81%AA%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%81%8C%EF%B8%8F%E5%8F%8E%E7%B4%8D%EF%B8%8F%E9%AB%98%E3%81%95%E8%AA%BF%E6%95%B4%EF%B8%8F%E7%B5%84%E3%81%BF%E7%AB%8B%E3%81%A6%E3%82%84%E3%81%99%E3%81%95%EF%B8%8F%E8%80%90%E4%B9%85%E6%80%A7%E3%81%BE%E3%81%95%E3%81%8B%E3%81%AE%E7%AB%8B%E3%81%A1%E3%82%84%E3%81%99%E3%81%95%E3%81%BE%E3%81%A7%E8%A8%AD%E8%A8%88%E3%81%95%E3%82%8C%E3%81%9F%E3%83%99%E3%83%83%E3%83%89%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AA/1567251485441302/",
+    "https://www.facebook.com/omi8kb/posts/%E7%99%BD%E9%9B%B2%E9%A4%A8%E5%86%85%E3%81%AE%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC%E3%81%AB%E3%81%A6%E8%A5%BF%E5%B7%9D%E7%95%B3%E5%95%86%E5%BA%97%E3%81%95%E3%82%93%E5%B8%82%E5%86%85%E6%A1%9C%E5%AE%AE%E7%94%BA-%E3%81%AE%E5%95%86%E5%93%81%E3%81%8C%E4%B8%A6%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%81%82%E3%82%93%E3%81%AA%E7%95%B3%E3%81%93%E3%82%93%E3%81%AA%E7%95%B3%E8%89%B2%E3%80%85%E3%81%A8%E4%B8%A6%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%81%AE%E3%81%A7%E6%98%AF%E9%9D%9E%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E8%B2%A9%E5%A3%B2%E3%82%82%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E4%BB%8A%E6%9C%88%E6%9C%AB%E3%81%BE%E3%81%A7/1534591865344401/",
+    "https://www.facebook.com/Nishikawa1566/posts/%E3%82%A8%E3%82%A2%E3%83%BC%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%B3%E3%81%A3%E3%81%A6%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%8B%E3%81%8A%E6%89%8B%E6%8C%81%E3%81%A1%E3%81%AE%E3%83%9E%E3%83%83%E3%83%88%E3%83%AC%E3%82%B9%E3%82%84%E6%95%B7%E3%81%B5%E3%81%A8%E3%82%93%E3%81%AB%E3%83%97%E3%83%A9%E3%82%B9%E3%83%AF%E3%83%B3%E5%AF%9D%E5%BF%83%E5%9C%B0up%E3%81%AF%E3%82%82%E3%81%A1%E3%82%8D%E3%82%93%E6%B9%BF%E6%B0%97%E5%AF%BE%E7%AD%96%E3%81%AB%E3%82%82%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%83%A0%E3%83%AC%E6%84%9F%E3%82%82%E8%BB%BD%E6%B8%9B%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%A71%E5%B9%B4%E4%B8%AD%E4%BD%BF%E3%81%88%E3%82%8B%E5%84%AA%E3%82%8C%E3%82%82%E3%81%AE__/1235324125300708/",
+    "https://www.facebook.com/nika.design.chubu/posts/1119015370720783/",
+    "https://www.facebook.com/100069900391418/posts/7215ee9c/1405244005148933/"
+   ]
+  },
+  {
+   "query": "西川物産 note 社長",
+   "results": [
+    "https://www.nishikawa-bussan.jp/",
+    "https://syukatsu-kaigi.jp/companies/16938/word_mouths",
+    "https://jpn.nec.com/dennou/library/jirei/nishikawa/contents.html",
+    "https://apparelweb-innovation-lab.com/topics/community_ail_member/innovation-note-18-showa-nishikawa-top-story-global-strategy/",
+    "https://note.com/shuheinishikawa/all",
+    "https://note.com/allhandsm18",
+    "https://www.library.pref.ishikawa.lg.jp/shosho/detail/orgn/D000123920",
+    "https://www.sen-i-news.co.jp/seninews/view/?article=19563",
+    "https://compalyze.co.jp/company/1240001008331",
+    "https://www.nishikawa-bussan.jp/about/greeting/"
+   ]
+  },
+  {
+   "query": "西川物産 X 投稿",
+   "results": [
+    "https://syukatsu-kaigi.jp/companies/16938/jobhunt_prompt_reports",
+    "https://x.com/nishikawa_sleep/status/2039277525474685219",
+    "https://www.instagram.com/p/DTT2388Ey2M/",
+    "https://careerconnection.jp/review/47412/whiteblack/",
+    "https://minlabo.nishikawa1566.com/article/news/campaign/912/",
+    "https://syukatsu-kaigi.jp/companies/16938/word_mouths",
+    "https://x.com/nishikawa_sleep",
+    "https://x.com/S_Nishikawa1997/status/2116909559902245253",
+    "https://search.yahoo.co.jp/realtime/search/西川/",
+    "https://www.instagram.com/nishikawa_co.ltd/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）"
+ }
+}

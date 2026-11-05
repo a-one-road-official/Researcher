@@ -1,0 +1,691 @@
+{
+ "name": "坂田電機",
+ "aliases": [],
+ "context": "岡山県／出典:県・市の企業ガイド／求人媒体:自社採用ページ／想定年収:未取得／従業員:9",
+ "researched_at": "2026-11-05T04:51:50.520167+00:00",
+ "official_url": "https://www.sakatadenki.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：昭和27年11月25日",
+    "url": "https://www.sakatadenki.co.jp/coinfo/company_summary.php",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "9,000万円",
+    "url": "https://www.sakatadenki.co.jp/coinfo/company_summary.php",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "髙濱 利光",
+    "url": "https://www.sakatadenki.co.jp/coinfo/company_summary.php",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "110名（令和7年4月現在）",
+    "url": "https://www.sakatadenki.co.jp/coinfo/company_summary.php",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "土木、建築、公害関係の各種計測機器、試験機の開発、試作、設計、製造、販売、および上記製品の設置工事、建設コンサルタント業務",
+    "url": "https://www.sakatadenki.co.jp/coinfo/company_summary.php",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "〒202-0022 東京都西東京市柳沢2-17-20",
+    "url": "https://www.sakatadenki.co.jp/coinfo/company_summary.php",
+    "pass": 1
+   },
+   {
+    "label": "住所（都道府県） 必須",
+    "value": "選択して下さい 北海道 青森県 岩手県 秋田県 宮城県 山形県 福島県 栃木県 群馬県 茨城県 埼玉県 東京都 千葉県 神奈川県 山梨県 長野県 新潟県 富山県 石川県 福井県 静岡県 岐阜県 愛知県 三重県 滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県 徳島県 香川県 愛媛県 高知県 鳥取県 島根県 岡山県 広島県 山口県 福岡県 佐賀県 長崎県 大分県 熊本県 宮崎県 鹿児島県 沖縄県",
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/entry/index.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "東京都西東京市柳沢2丁目17番20号",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用ページ": [
+   {
+    "quote": "募集要項、会社説明会、インターン情報、そのほか社員インタビューなど",
+    "url": "https://www.sakatadenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年度採用情報｜計測器・センサーの坂田電機株式会社",
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年度新規採用募集要項",
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "エントリーフォーム 採用情報｜計測器・センサーの坂田電機株式会社",
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/entry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "エントリーされる方は、下記の項目にご入力いただき、個人情報取扱いに関する同意を必ずご欄いただき、次へお進みください",
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/entry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお、当社は、個人情報の漏洩を防止するため、エントリーフォームにはSSL(暗号化)を採用しています",
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/entry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "こちらの「エントリーフォーム」に入力して頂きました個人情報は、採用業務に利用し、他の目的には利用致しません",
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/entry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年度採用情報｜計測器・センサーの坂田電機株式会社",
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年度新規採用募集要項",
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "募集要項 2027年度採用情報｜計測器・センサーの坂田電機株式会社",
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/requirements.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年度 募集要項",
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/requirements.html",
+    "pass": 1
+   },
+   {
+    "quote": "社長インタビュー 採用情報｜計測器・センサーの坂田電機株式会社",
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "仕事の内容 採用情報｜計測器・センサーの坂田電機株式会社",
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/description/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "社員インタビュー 採用情報｜計測器・センサーの坂田電機株式会社",
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/interview.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年度採用情報｜計測器・センサーの坂田電機株式会社",
+    "url": "https://sakatadenki.sakura.ne.jp/coinfo/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年度新規採用募集要項",
+    "url": "https://sakatadenki.sakura.ne.jp/coinfo/recruit/",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "募集要項、会社説明会、インターン情報、そのほか社員インタビューなど",
+    "url": "https://www.sakatadenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "社員インタビュー 採用情報｜計測器・センサーの坂田電機株式会社",
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/interview.html",
+    "pass": 1
+   },
+   {
+    "quote": "Instagram (@openmoney_jp)",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "9,000万円",
+    "url": "https://www.sakatadenki.co.jp/coinfo/company_summary.php",
+    "pass": 1
+   },
+   {
+    "quote": "坂田電機の年収・給与2件｜平均・中央値・ボーナス・職種・役職・年代別",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "年収・給与データ (2件)",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "同業種の年収カーブを坂田電機の給与データで補正した推定値",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "年収範囲は推定の幅で、投稿された金額の最小と最大ではない",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "30歳・技術職の年収・給与データ",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "29歳・技術職の年収・給与データ",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "坂田電機の年収イメージ・給与制度に関するクチコミ・評判",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "技術職 (30代・在籍3年目) が給与データを投稿しました",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "技術職 (20代・在籍7年目) が給与データを投稿しました",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "坂田電機の社員・元社員の年収・給与データを掲載中",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "建設・建築・土木業界で転職・就職を考えている方、坂田電機への転職・就職を考えている方、在籍中で自分の年収水準を確かめたい方に向けて、社員・元社員の回答をもとに掲載しています",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "51歳・コーポレートの年収・給与データ",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "36歳・技術職の年収・給与データ",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "25歳・営業の年収・給与データ",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "33歳・施工管理の年収・給与データ",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "52歳・その他の年収・給与データ",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "24歳・技術職の年収・給与データ",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "35歳・事務職の年収・給与データ",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "22歳・コーポレートの年収・給与データ",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "38歳・施工管理の年収・給与データ",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "25歳・技術職の年収・給与データ",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "坂田電機について OpenMoney に投稿された給与データ2件（2025年〜2026年）を集計しています",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "坂田電機の年収を年齢別に見ると、30歳で",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "OpenMoneyは、ユーザーのみなさまから給与データやレポートをご提供いただき、サービスを運営しています",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "OpenMoney（オープンマネー）は、「お金に関する情報をオープンにする」というミッションのもと、ユーザーのみなさまから給与データやレポートをご提供いただき、サービスを運営しています",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "リクナビ2027",
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "リクナビ2027",
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "リクナビ2027",
+    "url": "https://sakatadenki.sakura.ne.jp/coinfo/recruit/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "坂田電機株式会社 の給与 | Indeed (インディード) — 日本での坂田電機株式会社の平均給与 Indeed に掲載された求人と、この企業の従業員から寄せられた坂田電機株式会社の給与情報を参照する。 給与情報は、Indeed にこれまでに掲載された9件の求人に基いた推定値です。",
+    "url": "https://jp.indeed.com/cmp/坂田電機株式会社/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "坂田電機の年収・給与制度（2件投稿） — Jul 15, 2026 · 坂田電機の在籍社員・元社員の回答に基づいた給与データ、年収・給与制度に関するクチコミ・評判を掲載中。坂田電機への就職・転職を検討されている方が、年収・給与制度を把握するための参考情報として掲載しています。",
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "坂田電機の「年収・給与制度」 OpenWork坂田電機の30歳男性技術職・担当者の年収・給与詳細（2026年6月回答）坂田電機の年収・給与 平均年収も - エン カイシャの評判 (4066)坂田電機の転職・採用情報｜社員口コミでわかる【転職会議】 — 坂田電機の同業界の「年収・給与制度」 新光電気工業（精密機器）の就職・転職リサーチ 「新光電気工業（精密機器）」の年収・給与制度 回答日2026年04月19日 回答者 事務系、在籍3～5年、現職（回答時）、中途入社、男性、新光電気工業（精密機器） 1.8 Jul 1, 2026 · 坂田電機で働く30歳男性技術職（担当者）の年収・給与データ1件を掲載中。在籍3年目・社会人8年目の方が2026年6月に回答したものです。建設・建築・土木業界で転職・就職を考えている方、坂田電機への転職・就職を考えている方、自分と近い年齢・職種の年収水準を確かめたい",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G18a&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "坂田電機の30歳男性技術職・担当者の年収・給与詳細（2026年6月回答） — Jul 1, 2026 · 坂田電機で働く30歳男性技術職（担当者）の年収・給与データ1件を掲載中。在籍3年目・社会人8年目の方が2026年6月に回答したものです。建設・建築・土木業界で転職・就職を考えている方、坂田電機への転職・就職を考えている方、自分と近い年齢・職種の年収水準を確かめたい方に向けて ...",
+    "url": "https://openmoney.jp/salaries/oDTb48N",
+    "pass": 3
+   },
+   {
+    "quote": "坂田電機の年収・給与 平均年収も - エン カイシャの評判 (4066) — 坂田電機株式会社で働く社員・元社員による年収・給与の口コミを2件掲載中。「エン カイシャの評判（旧ライトハウス）」。",
+    "url": "https://en-hyouban.com/company/00005824066/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年度採用情報｜計測器・センサーの坂田電機株式会社 — 計測器・センサーの坂田電機株式会社【公式サイト】採用情報ページ。地すべり計、間隙水圧計、土圧計、水位計、ひずみ計、荷重計、応力計、傾斜計、沈下計、漏水検知など計測に関するご相談からセンサーの製造・開発をおこなう計測システムインテグレータです。",
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年度採用情報｜計測器・センサーの坂田電機株式会社 — 計測器・センサーの坂田電機株式会社の新卒、キャリア採用情報ページです。世界でも珍しい無線技術を体験！1Dayインターンシップや、オンライン対応の会社説明会も実施中です。「仲間と一緒だからこそ、出来ることがある！」。新しい技術、新しい製品の研究開発に興味がある学生のご ...",
+    "url": "https://sakatadenki.sakura.ne.jp/coinfo/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "坂田電機株式会社 採用ホームページ [採用・求人情報] — 坂田電機株式会社の公式採用サイトです。【24時間WEB応募可！】皆様のご応募、お待ちしております。",
+    "url": "https://job-gear.net/sakatadenki/",
+    "pass": 3
+   },
+   {
+    "quote": "坂田電機株式会社の新卒採用・会社概要丨就活ならリクナビ — 転換点 1957年ごろ、坂田電機は貨物列車の仕分けに使う列車速度計を開発し、国鉄技術研究所に納品した。 当時は高速道路が整っておらず、鉄道が物流の主役だったので、貨車を安全な速さでつなぐには、速度を測って調整する装置が必要だった。",
+    "url": "https://job.rikunabi.com/selection/company_jobs/2086740234/",
+    "pass": 3
+   },
+   {
+    "quote": "坂田電機の新卒採用・就職・企業情報【就活会議】 — 坂田電機の新卒採用・就職・企業情報 坂田電機株式会社の社員・元社員による総合評価は3.3点です（口コミ回答数16件）。ESや本選考体験記は0件あります。基本情報のほか、坂田電機株式会社の社員・元社員による会社の評価、過去のインターン選考の内容、内定した学生の志望動機など、一部 ...",
+    "url": "https://syukatsu-kaigi.jp/companies/172098/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "坂田電機株式会社 第74期決算公告 東京都杉並区 純利益： 5億9,055万2... 官報決算データベース (@kessan_db). 109 views. 坂田電機株式会社 第74期決算公告 東京都杉並区 純利益： 5億9,055万2,000円 総資産：21億912万1,000円 (前期比+5.02%)",
+    "url": "https://x.com/kessan_db/status/2050891787573813328",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Norihisa Sugahara - 坂田電機株式会社 - 次長 | LinkedIn黒木 隆男 - 株式会社坂田電機宮崎研究センター - 研究開発スペシャリ...3 \"Takao Kuroki\" profiles | LinkedIn61坂田電機株式会社 評判 Jobs in United StatesDr. Armin Frommer – Chief Technical Officer bei Vaillant ...سكسي نيك طيز - -- | LinkedInEgidio Stasi - -- | LinkedIn 坂田電機株式会社 - 次長 · 職歴: 坂田電機株式会社 · 場所: 日本。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでNorihisa Sugaharaさんのプロフィールを閲覧しましょう。 株式会社坂田電機宮崎研究センタ",
+    "url": "https://jp.linkedin.com/in/norihisa-sugahara-75317699",
+    "pass": 3
+   },
+   {
+    "quote": "黒木 隆男 - 株式会社坂田電機宮崎研究センター - 研究開発スペシャリ... 株式会社坂田電機宮崎研究センター - 研究開発スペシャリスト · 職歴: 株式会社坂田電機宮崎研究センター · 場所: 宮崎県。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで黒木 隆男さんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/隆男-黒木-3707371a7",
+    "pass": 3
+   },
+   {
+    "quote": "61坂田電機株式会社 評判 Jobs in United States Today's top 61 坂田電機株式会社 評判 jobs in United States. Leverage your professional network, and get hired. New 坂田電機株式会社 評判 jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/坂田電機株式会社-評判-jobs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "坂田電機株式会社 - Facebook 坂田電機株式会社. 9 likes. 精密部品製造業",
+    "url": "https://www.facebook.com/p/坂田電機株式会社-100063606511176/",
+    "pass": 3
+   },
+   {
+    "quote": "坂田電機株式会社 - Facebook Jun 13, 2025 · Details Page · Product/service sakata-denki.jp Not yet rated (0 Reviews) 坂田電機株式会社 updated their cover",
+    "url": "https://www.facebook.com/100063606511176/",
+    "pass": 3
+   },
+   {
+    "quote": "坂田電機 - Facebook 坂田電機 - Facebook ... 坂田電機",
+    "url": "https://www.facebook.com/坂田電機-101772501405892/",
+    "pass": 3
+   },
+   {
+    "quote": "坂田電機株式会社 - Facebook 坂田電機株式会社",
+    "url": "https://www.facebook.com/坂田電機株式会社-317161275033359/",
+    "pass": 3
+   },
+   {
+    "quote": "取手市消防団第33分団 - 消防団員向けの投稿です。 我々第33分団では... Jul 24, 2016 · 消防団員向けの投稿です。 我々第33分団では、今年度ホース巻取機を更新しました。 検討を重ねた結果、坂田電機工業所「はやまきくんHタイプ」を購入しました。 硬く、コンパクトに巻き上がります。その上軽い！文句無しの機材です。",
+    "url": "https://www.facebook.com/33fvc/posts/消防団員向けの投稿です我々第33分団では今年度ホース巻取機を更新しました検討を重ねた結果坂田電機工業所はやまきくんhタイプを購入しました硬くコンパクトに巻き上が/1774275909476388/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sakatadenki.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakatadenki.co.jp/catalog/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakatadenki.co.jp/coinfo/company_summary.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakatadenki.co.jp/coinfo/history.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakatadenki.co.jp/product/_Iot-Keisha-kei/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/entry/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/requirements.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/message/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/description/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/interview.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sakatadenki.co.jp/catalog/pdf23/SD15-008_ECM-800.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sakatadenki.co.jp/catalog/pdf23/SD10-015.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/images/side01-bosyu.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sakatadenki.co.jp/coinfo/recruit/images/side06-voice-2023.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sakatadenki.co.jp/product/_Iot-Keisha-kei/images/IoTkeisyakei-system.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/cmp/%E5%9D%82%E7%94%B0%E9%9B%BB%E6%A9%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://openmoney.jp/corporations/19638/salaries",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G18a&q_no=2",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sakatadenki.sakura.ne.jp/coinfo/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job-gear.net/sakatadenki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kessan_db/status/2050891787573813328",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/norihisa-sugahara-75317699",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/隆男-黒木-3707371a7",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/坂田電機株式会社-評判-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/坂田電機株式会社-100063606511176/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100063606511176/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/坂田電機-101772501405892/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/坂田電機株式会社-317161275033359/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/33fvc/posts/消防団員向けの投稿です我々第33分団では今年度ホース巻取機を更新しました検討を重ねた結果坂田電機工業所はやまきくんhタイプを購入しました硬くコンパクトに巻き上が/1774275909476388/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "坂田電機 求人 年収",
+   "results": [
+    "https://jp.indeed.com/cmp/坂田電機株式会社/salaries",
+    "https://openmoney.jp/corporations/19638/salaries",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000G18a&q_no=2",
+    "https://openmoney.jp/salaries/oDTb48N",
+    "https://en-hyouban.com/company/00005824066/salary/",
+    "https://jobtalk.jp/companies/34075",
+    "https://www.openwork.jp/one_answer.php?vid=a0A2x0000046K6R&qco=2"
+   ]
+  },
+  {
+   "query": "坂田電機 採用 新卒 高卒",
+   "results": [
+    "https://www.sakatadenki.co.jp/coinfo/recruit/index.html",
+    "https://sakatadenki.sakura.ne.jp/coinfo/recruit/",
+    "https://job-gear.net/sakatadenki/",
+    "https://job.rikunabi.com/selection/company_jobs/2086740234/",
+    "https://syukatsu-kaigi.jp/companies/172098/",
+    "https://www.sakatadenki.co.jp/coinfo/recruit/requirements.html",
+    "https://www.sakatadenki.net/coinfo/recruit/requirements.html"
+   ]
+  },
+  {
+   "query": "site:note.com 坂田電機",
+   "results": [
+    "https://note.com/muratsubaki/n/n36017ff0fc68",
+    "https://note.com/fukunishidenki/n/n17e56e25d445",
+    "https://note.com/uemura_kaede/n/nfbd22122cf16",
+    "https://note.com/irihune_amamiko2/n/n8980af1ce472",
+    "https://note.com/las_meninas/n/nec44d70d43f1",
+    "https://tales.note.com/unique_ram5290/woyagm44x23qe",
+    "https://note.com/denkinko/n/ne73b765000f2"
+   ]
+  },
+  {
+   "query": "site:x.com 坂田電機",
+   "results": [
+    "https://x.com/kessan_db/status/2050891787573813328",
+    "https://x.com/Sakata_denki/status/2034438471067357532",
+    "https://x.com/Sakata_denki",
+    "https://x.com/Sakata_denki/status/2034436944852332765",
+    "https://x.com/sakatadenkiyuto",
+    "https://x.com/Sakata_denki/status/2044218900473393455",
+    "https://x.com/Sakata_denki/status/2095306846617919536"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 坂田電機",
+   "results": [
+    "https://jp.linkedin.com/in/norihisa-sugahara-75317699",
+    "https://jp.linkedin.com/in/隆男-黒木-3707371a7",
+    "https://www.linkedin.com/pub/dir/Takao/Kuroki",
+    "https://www.linkedin.com/jobs/坂田電機株式会社-評判-jobs",
+    "https://sa.linkedin.com/in/سكسي-نيك-طيز-6295a21aa",
+    "https://it.linkedin.com/in/egidio-stasi-541411229",
+    "https://de.linkedin.com/in/dr-armin-frommer-80107a364"
+   ]
+  },
+  {
+   "query": "site:facebook.com 坂田電機",
+   "results": [
+    "https://www.facebook.com/p/坂田電機株式会社-100063606511176/",
+    "https://www.facebook.com/100063606511176/",
+    "https://www.facebook.com/坂田電機-101772501405892/",
+    "https://www.facebook.com/坂田電機株式会社-317161275033359/",
+    "https://www.facebook.com/pages/坂田電機株式会社/1587627921529381/",
+    "https://www.facebook.com/people/坂田電機株式会社/100063606511176/",
+    "https://www.facebook.com/sakatadenki.kosai/"
+   ]
+  },
+  {
+   "query": "坂田電機 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.sakatadenki.co.jp/coinfo/message.php",
+    "https://www.sakatadenki.co.jp/coinfo/recruit/message/index.html",
+    "https://compalyze.co.jp/company/9011301002659",
+    "https://www.toyokanetsu.co.jp/pdf/f49dbcaf33a8a82141d2c468110ff57ab1af4c76.pdf",
+    "https://openbizgraph.com/detail/19964",
+    "https://www.tokyo-cci.or.jp/market/keieitaisyo/award_company_list/02/05/"
+   ]
+  },
+  {
+   "query": "坂田電機 X 投稿",
+   "results": [
+    "https://www.sakatadenki.co.jp/",
+    "https://www.facebook.com/33fvc/posts/消防団員向けの投稿です我々第33分団では今年度ホース巻取機を更新しました検討を重ねた結果坂田電機工業所はやまきくんhタイプを購入しました硬くコンパクトに巻き上が/1774275909476388/",
+    "https://x.com/Sakata_denki",
+    "https://x.com/sakatadenkiyuto",
+    "https://search.yahoo.co.jp/realtime/search/ななにー/",
+    "https://chatgpt.com/?locale=ja-JP&noauth_recent_chat_failed=1",
+    "https://search.yahoo.co.jp/realtime"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像5件／外部14頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像5件／外部14頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式12頁／PDF・画像5件／外部14頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式12頁／PDF・画像5件／外部14頁・検索8回）",
+  "取引先・規模": "記載なし（3回確認済み：公式12頁／PDF・画像5件／外部14頁・検索8回）"
+ }
+}

@@ -1,0 +1,429 @@
+{
+ "name": "YKK",
+ "aliases": [],
+ "context": "山口県山口市／出典:タウンページ;大学・高専の企業説明会／求人媒体:見当たらず／想定年収:500〜691万円／従業員:不明",
+ "researched_at": "2026-11-05T04:39:09.439598+00:00",
+ "official_url": "https://www.ykk.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：1934（昭和9）年1月1日 沿革",
+    "url": "https://www.ykk.com/corporate/group/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1961(昭和36)年7月27日",
+    "url": "https://www.ykk.com/corporate/group/companylist/ykk_re.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1988（昭和63）年3月1日",
+    "url": "https://www.ykk.com/corporate/group/companylist/cafe.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1968(昭和43)年1月26日",
+    "url": "https://www.ykk.com/corporate/group/companylist/emutech.html",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "119億9,240万500円 ※1",
+    "url": "https://www.ykk.com/corporate/group/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1億8千万円",
+    "url": "https://www.ykk.com/corporate/group/companylist/ykk_re.html",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "2千万円",
+    "url": "https://www.ykk.com/corporate/group/companylist/cafe.html",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "2,800万円",
+    "url": "https://www.ykk.com/corporate/group/companylist/emutech.html",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "松嶋 耕一 役員構成",
+    "url": "https://www.ykk.com/corporate/group/",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役社長",
+    "value": "志水 宏朗",
+    "url": "https://www.ykk.com/corporate/group/companylist/ykk_re.html",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役社長",
+    "value": "西村 良二",
+    "url": "https://www.ykk.com/corporate/group/companylist/cafe.html",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役社長",
+    "value": "坂井 一夫",
+    "url": "https://www.ykk.com/corporate/group/companylist/emutech.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒101-8642 東京都千代田区神田和泉町1",
+    "url": "https://www.ykk.com/corporate/group/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒938-8601 富山県黒部市吉田200",
+    "url": "https://www.ykk.com/corporate/group/",
+    "pass": 1
+   },
+   {
+    "label": "会社所在地",
+    "value": "〒101-8642 東京都千代田区神田和泉町1",
+    "url": "https://www.ykk.com/corporate/group/companylist/ykk_re.html",
+    "pass": 1
+   },
+   {
+    "label": "会社所在地",
+    "value": "〒101-8642 東京都千代田区神田和泉町1",
+    "url": "https://www.ykk.com/corporate/group/companylist/cafe.html",
+    "pass": 1
+   },
+   {
+    "label": "会社所在地",
+    "value": "〒 938-0005 富山県黒部市吉田200",
+    "url": "https://www.ykk.com/corporate/group/companylist/emutech.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ファスニング・建材・ファスニング加工機械及び建材加工機械等の製造・販売 国内主要事業会社",
+    "url": "https://www.ykk.com/corporate/group/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "56,899名 （国内　28,114名／海外　28,785名） ※4",
+    "url": "https://www.ykk.com/corporate/group/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "連結売上高",
+    "value": "9,925億円 （ファスニング4,314億円／AP 5,576億円　他） ※5",
+    "url": "https://www.ykk.com/corporate/group/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "拠点数：818拠点 （国内 502拠点／海外 316拠点）",
+    "url": "https://www.ykk.com/corporate/group/",
+    "pass": 1
+   },
+   {
+    "quote": "9,925億円",
+    "url": "https://www.ykk.com/corporate/group/",
+    "pass": 1
+   },
+   {
+    "quote": "（ファスニング4,314億円／AP 5,576億円 他）",
+    "url": "https://www.ykk.com/corporate/group/",
+    "pass": 1
+   },
+   {
+    "quote": "自社内で材料開発、設備開発、機械部品製造を行い、ファスニング事業・AP事業向け専用機械を国内外の各工場に供給しています",
+    "url": "https://www.ykk.com/business/me.html",
+    "pass": 1
+   },
+   {
+    "quote": "ファスニング事業向けには各国の工場に適応したファスナー専用機械の開発・設計を、AP事業向けには窓を中心とするAP製品の生産ラインや生産システムなどの開発・設計を行っています",
+    "url": "https://www.ykk.com/business/me.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京大空襲による小松川工場全焼に伴い一旦解散",
+    "url": "https://www.ykk.com/corporate/group/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "YKKグループが産業観光としての工場見学「YKK TOURS」を開始",
+    "url": "https://www.ykk.com/corporate/group/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、YKKグループの一員として、昭和43年発足以来、電気、空調、給排水、衛生施設に関する工事を中心にYKK黒部事業所を拠点とした事業展開を行ってきました",
+    "url": "https://www.ykk.com/corporate/group/companylist/emutech.html",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスや工場などの建築物の中は、高度にシステム化されており、その中で人々が快適に過ごすため「最適なシステム作り」を実現し、高度なニーズで応えなければなりません",
+    "url": "https://www.ykk.com/corporate/group/companylist/emutech.html",
+    "pass": 1
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "YKKグループが産業観光としての工場見学「YKK TOURS」を開始",
+    "url": "https://www.ykk.com/corporate/group/outline.html",
+    "pass": 1
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "1億8千万円",
+    "url": "https://www.ykk.com/corporate/group/companylist/ykk_re.html",
+    "pass": 1
+   },
+   {
+    "quote": "2,800万円",
+    "url": "https://www.ykk.com/corporate/group/companylist/emutech.html",
+    "pass": 1
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "黒部エムテック リクルートサイトはこちらから",
+    "url": "https://www.ykk.com/corporate/group/companylist/emutech.html",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ykk.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ykk.com/corporate/group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ykk.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ykk.com/business/me.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ykk.com/corporate/group/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ykk.com/corporate/group/companylist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ykk.com/corporate/group/companylist/ykk_re.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ykk.com/corporate/group/companylist/cafe.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ykk.com/corporate/group/companylist/emutech.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10003744440/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://recruiting.ykk.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/a0910000000G2en/job/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=ykk+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruiting-ykkap.com/recruit/newgraduate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruiting.ykk.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "YKK 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10003744440/",
+    "https://recruiting.ykk.com/",
+    "https://www.openwork.jp/a0910000000G2en/job/",
+    "https://jp.indeed.com/cmp/Ykk/salaries",
+    "https://next.rikunabi.com/job_search/kw/ykk%20%E5%B9%B4%E5%8F%8E%20%E6%B5%B7%E5%A4%96/",
+    "https://job-q.me/12200",
+    "https://xn--pckua2a7gp15o89zb.com/YKK-AP%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "https://hw-jobs.careermine.jp/salary/ykk",
+    "https://talentsquare.co.jp/career/ykk-salary/",
+    "https://careerup-media.com/annual-income-ykk"
+   ]
+  },
+  {
+   "query": "YKK 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=ykk+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://recruiting-ykkap.com/recruit/newgraduate/",
+    "https://recruiting.ykk.com/",
+    "https://recruiting-ykkap.com/",
+    "https://hrmos.co/pages/ykkap/jobs/0008000",
+    "https://syukatsu-kaigi.jp/companies/107653",
+    "https://www.openwork.jp/one_answer.php?vid=a0A2x000008V4Av&qco=3",
+    "https://job.mynavi.jp/27/pc/search/corp241806/outline.html",
+    "https://kosen.ykk-saiyo.jp/",
+    "https://recruiting.ykk.co.jp/newgrads/recruit/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com YKK",
+   "results": [
+    "https://note.com/kigyo_navi/n/n0ead067ce9a6",
+    "https://note.com/shotar/n/n70692e46a953",
+    "https://note.com/ryokubota/n/n935fa5ce34ba",
+    "https://note.com/tau_crimson/n/n5f50af4a8431",
+    "https://note.com/jobhuntkeyence/n/n6b63d8ec82e7",
+    "https://note.com/archnote/n/n735c59e994ef",
+    "https://note.com/pvlabo_2020/n/n4726d2334727",
+    "https://note.com/hayato_kumemura/n/n90ef9d0f5cc9",
+    "https://note.com/careercompass_c/n/ne6133709b9a3",
+    "https://note.com/tag/YKK%E3%83%95%E3%82%A1%E3%82%B9%E3%83%8A%E3%83%BC"
+   ]
+  },
+  {
+   "query": "site:x.com YKK",
+   "results": [
+    "https://x.com/ykkfasteners",
+    "https://x.com/YKK_AP_official",
+    "https://x.com/YKK_AP_official/articles",
+    "https://x.com/YKK_AP_official/status/2103318632575184934",
+    "https://x.com/YKK_AP_official/highlights",
+    "https://x.com/ykkfasteners/status/2117604484725485749",
+    "https://x.com/YKK_AP_official/status/2107304898425676039",
+    "https://x.com/YKK_AP_official/status/2055423499641278584",
+    "https://x.com/ykkfasteners/status/2115052331901272545",
+    "https://x.com/ykkfasteners/status/2115776513844895835"
+   ]
+  },
+  {
+   "query": "site:linkedin.com YKK",
+   "results": [
+    "https://jp.linkedin.com/company/ykk",
+    "https://www.linkedin.com/company/ykk-ap-america-inc",
+    "https://tt.linkedin.com/company/ykk?trk=similar-pages_result-card_full-click",
+    "https://www.linkedin.com/company/ykk-ap-inc-/",
+    "https://www.linkedin.com/company/ykk-europe-limited/",
+    "https://www.linkedin.com/in/jim-reed-7b8b6a35",
+    "https://www.linkedin.com/in/toby-gould-215278103",
+    "https://www.linkedin.com/company/ykk-ap-technologies-lab-na-inc",
+    "https://jp.linkedin.com/company/ykk-ap-america-inc?trk=ppro_cprof",
+    "https://www.linkedin.com/company/ykk"
+   ]
+  },
+  {
+   "query": "site:facebook.com YKK",
+   "results": [
+    "https://www.facebook.com/ykkfasteners/",
+    "https://www.facebook.com/p/YKK-Japan-100070963695425/?locale=vi_VN",
+    "https://www.facebook.com/WSJ/videos/ykk-is-on-everything-from-your-clothes-to-furniture-to-even-space-suits-wsj-trav/1382048276909121/",
+    "https://www.facebook.com/Upworthy/posts/what-does-ykk-stand-for-anyway/1420257573468563/",
+    "https://www.facebook.com/ykkapamerica/photos/at-ykk-ap-we-love-celebrating-the-people-who-make-it-all-possible-your-skill-ded/1529578675641085/",
+    "https://www.facebook.com/ykkapjapan/",
+    "https://www.facebook.com/ykknorway/",
+    "https://www.facebook.com/ykkusaincstore/",
+    "https://www.facebook.com/WSJ/posts/ykk-is-on-everything-from-your-clothes-to-furniture-to-even-space-suits-wsj-trav/1426433479343245/",
+    "https://www.facebook.com/NBCNews/videos/ykk-the-worlds-largest-zipper-company-is-upgrading-the-zipper-after-100-years-nb/823855966942226/"
+   ]
+  },
+  {
+   "query": "YKK note 社長",
+   "results": [
+    "https://note.com/archnote/n/n735c59e994ef",
+    "https://note.com/brandedshorts/n/ncd73e01e8abb",
+    "https://recruiting-ykkap.com/ceo-interview/",
+    "https://note.com/hashtag/ykkap",
+    "https://www.ykk.com/corporate/group/directors.html",
+    "https://www.ykk.com/newsroom/g_news/2023/20231006.html",
+    "https://www.nikkei.com/article/DGKKZO73464340Y3A800C2TB1000/",
+    "https://note.com/gentle_yarrow801/n/n5018134f4a31",
+    "https://toyokeizai.net/articles/-/7328",
+    "https://ja.wikipedia.org/wiki/松嶋耕一"
+   ]
+  },
+  {
+   "query": "YKK X 投稿",
+   "results": [
+    "https://x.com/YKK_AP_official",
+    "https://faq.ykkap.co.jp/faq_detail.html?id=9231",
+    "https://www.ykk.com/newsroom/g_news/2026/",
+    "https://www.ykk.com/inquiry/",
+    "https://x.com/ykkfasteners",
+    "https://www.instagram.com/ykkap_japan/",
+    "https://www.ykk.com/newsroom/important/",
+    "https://www.ykkapglobal.com/ja/",
+    "https://www.facebook.com/ykkfasteners/",
+    "https://x-sou.com/ja/u/xiaoshuijiang"
+   ]
+  }
+ ],
+ "missing": {
+  "主要取引先": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）"
+ }
+}

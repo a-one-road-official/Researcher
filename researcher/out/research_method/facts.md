@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・31品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・35品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -21,6 +21,8 @@
   - 「フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル」（https://note.com/missiondrivencom/n/n9201e39a1296）
   - 「正しい手順とフレームワークさえ踏めば、誰にでも習得可能な「論理的思考の技術」であり、再現性のある「方法論」だ」（https://note.com/missiondrivencom/n/n9201e39a1296）
 - 突き合わせ・推定：
+  - 「ただし、ここで得た声はあくまで仮説のヒントとして扱います」（https://consul-data-bank.com/insight/5868/）
+  - 「海外リサーチの流れは「Statistaや国際機関で数字の候補を掴む → Crunchbaseで投資動向を見る → 専門メディアで定性情報を拾う → 原典で裏取り」が基本形です」（https://consul-data-bank.com/insight/5868/）
   - 「ここで私が意識しているのは、1つの計算方法に頼らず、複数の手法で計算して妥当性を検証する」（https://note.com/bon0404/n/n3912f28693b8）
   - 「特に現場実装を前提とするアフリカビジネスでは、この推定が事業の成否を分けます」（https://note.com/bon0404/n/n3912f28693b8）
   - 「正確な数字がない場合は、論理的な推論（フェルミ推定）を用います」（https://note.com/bon0404/n/n3912f28693b8）
@@ -34,9 +36,12 @@
   - 「フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル」（https://note.com/missiondrivencom/n/n9201e39a1296）
   - 「このページに辿り着いたあなたなら、今まさに「フェルミ推定をマスターして、思考の解像度を上げたい」、あるいは「コンサル流の地頭の良さを自分のスキルとして定着させたい」という強い向上心を持っていることだろう」（https://note.com/missiondrivencom/n/n9201e39a1296）
   - 「「フェルミ推定」という言葉を聞いて、あなたはどのような印象を持つだろうか？」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「フェルミ推定とは、単なる「数字の当てっこ」ではない」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「それは、混沌とした不確実なビジネス環境において、手元にある限られた情報から「筋の良い仮説」を導き出し、意思決定を加速させるための「最強の思考OS」であり、戦略的思考スキルの土台である」（https://note.com/missiondrivencom/n/n9201e39a1296）
 - 一次情報の探し方：
+  - 「"EV charging" market size filetype:pdf site:.org」（https://consul-data-bank.com/insight/5868/）
+  - 「「-求人 -転職」のように除外語を足すと、目的と関係ないページが検索結果から消え、原典に近い資料が上位に残ります」（https://consul-data-bank.com/insight/5868/）
+  - 「コマンドは一次情報を保証するものではありません」（https://consul-data-bank.com/insight/5868/）
+  - 「同じ「情報ソース」でも、一次情報なのか、データを集約したものなのか、仮説のヒントなのかで扱いが変わります」（https://consul-data-bank.com/insight/5868/）
+  - 「国内①：政府統計の総合窓口（e-Stat）｜総務省統計局」（https://consul-data-bank.com/insight/5868/）
   - 「① 公的機関」（https://note.com/bon0404/n/n3912f28693b8）
   - 「各国の統計局（例：ケニア国立統計局 KNBSなど）がWebサイトでデータを公開している場合があります」（https://note.com/bon0404/n/n3912f28693b8）
   - 「更新頻度はまちまちですが、人口センサスなどの一次情報はここで確認します」（https://note.com/bon0404/n/n3912f28693b8）
@@ -47,11 +52,6 @@
   - 「統計情報が少ないアフリカにおいて、市場規模算出に「正解」はありません」（https://note.com/bon0404/n/n3912f28693b8）
   - 「2つ目は「最新の統計数字を知らないから計算できない」と諦めてしまうことだ」（https://note.com/missiondrivencom/n/n9201e39a1296）
   - 「しかし、一流のコンサルタントもすべての統計を暗記しているわけではない」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「最も手軽で強力な手法が、自分自身の行動や周辺の事象を統計の最小単位として扱う「サンプル・オブ・ワン」だ」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「：誰もが知っている巨大市場や国家統計と比べる」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「以下はストラテジストが「世界のスケール感」を測るために頭に入れている必須の統計定数だ」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「公的統計調査」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「委託調査（公的統計）」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
 - 失敗・落とし穴：
   - 「注意ポイント：インフォーマルセクターを見落とさない」（https://note.com/bon0404/n/n3912f28693b8）
   - 「これらは非常に質が高い一方で、一部のサービスや詳細なレポートは「有料」となる点に注意が必要です」（https://note.com/bon0404/n/n3912f28693b8）
@@ -84,42 +84,45 @@
   - 「しかし本書は「仮説思考に必要な頭の使い方の手順」を、豊富な事例とともに徹底解説している」（https://note.com/missiondrivencom/n/n9201e39a1296）
   - 「調査結果の分析効率化ダッシュボード構築支援」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
   - 「調査結果は、ニーズ・アイディア検索や市場把握の資料としてご活用ください」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+- 検索結果の抜粋：
+  - 「What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsDesk Research: What It Is, Methods & When to Use It | PRSDesk Research: Step-by-Step Guide & Tips | UXAtlasScope and financial impact of unpublished data and unused ...Desk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 」（https://www.meltwater.com/en/blog/desk-research）
 
 ## 複数の情報源を突き合わせる三角測量（トライアンギュレーション）（triangulation multiple sources research）
 - 文脈：突き合わせ
 - 手順・やり方：
-  - 「単一の情報源に依存せず、複数の異なる手段から情報を集め、突き合わせることで真実に近づく方法です」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
-  - 「こんにちは！今回は、質的研究においてその質を上げるための方法として」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「でも、初心者の皆さんでも活用できる方法があるかもしれません」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「その方法の一つとして、」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「これは複数の観測地点から目標物への角度を測定し、その位置を特定する方法です」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「複数のデータソース、方法論、また理論を用いて研究対象を多角的に分析すること」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「これにより、単一の視点や方法だけを使った場合に生じる偏り（バイアス）を減らし、結果の妥当性と信頼性を高めます」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「これは、 異なる人・時間・場所から同じ現象に関するデータを収集し比較する方法です」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「ただ、この方法をとると妥当性・信頼性は高まりますが、対象者の人数が増えていきますので、初心者の皆さんや臨床の看護研究では、時間的制約が多いので、非現実的かもしれませんね」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「２番目は、調査をする人のトライアンギュレーションで、複数の研究者が独立して同じデータを分析し、解釈を比較検討する方法です」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「これは複数の理論的枠組みを用いて同じデータを分析・解釈する方法です」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「こうすると、家族支援の多面的な側面を理解し、より包括的な支援方法を導き出せそうですね」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「4. 方法論的トライアンギュレーション」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「最後は、方法論のトライアンギュレーションです」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「これは、複数のデータ収集方法を組み合わせて同じ現象を調査する方法です」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「以下では、4つのタイプが実際にどのようなものであるか、三角測量によって得られるものと得られないもの、情報源が対立したときの対処法、そして過剰な主張をせずに方法論のセクションに記述する方法を解説します」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「三角測量とは、複数の視点から現象を検討する手法であり、結論が単一の情報源、単一の方法、単一の分析者、あるいは単一の理論のみに依存しないようにするものです」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「いかなる単一の証拠収集方法にも特有の盲点があり、それらの盲点はランダムに発生するものではありません」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「方法論の三角測量 (Methodological triangulation)」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「この区別については、関連する「データ対方法論の三角測量」の記事で詳しく解説しています」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「三角測量は通常、妥当性を高めるためのもの（同じことを2つの方法で検証し、答えが一致すればより確信を持てる）として喧伝されます」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「は、異なる方法が現象の異なる側面を明らかにするため、その目的は検証ではなく、より全体的な像を描くことにあるとします」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「異なる方法は、」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「他の方法を使用することでは明らかにできない現象の側面を明らかにする」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「方法論のセクションでそう述べることは、あなたがその違いを理解していることを示します" />」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「そうではなく、それぞれの方法がどのような位置づけで観察していたのかを問いかけてください」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「ここでの異議は、検証としての三角測量が、複数の方法が収束する「単一の客観的現実」を前提としている点にあります」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「1回はデータ収集方法において、もう1回は信頼性を高めるためのテクニックとしてです」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「優れた方法論の段落に含まれるべき内容：どのタイプを使用し、なぜそのタイプなのか、具体的に何を変化させたのか、分析のどの段階で情報源を比較したのか、意見が対立したときにどう対処したのか、そしてその結果として何を主張しているのか」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「<CTA title="擁護可能な方法論セクションを書く" description="章を構成し、信頼する手法論者を引用し、すべての主張が設計に合致しているかを検証しましょう" buttonLabel="Jenniを無料で試す" link="https://app.jenni.ai/register" />」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
 - 突き合わせ・推定：
-  - 「単一の情報源に依存せず、複数の異なる手段から情報を集め、突き合わせることで真実に近づく方法です」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
-  - 「地図でいう「三角測量」のイメージです」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
-  - 「フェルミ推定」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
-  - 「の発想を借りて、事前に仮説を立てることにしました」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
-  - 「業界の慣行から推測される原価構造、直近の設備投資の動向、競合製品との差分——これらを組み合わせて「おそらく先方が困っているのはこのあたりではないか」という仮説を3つほど作って商談に入りました」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
-  - 「そしてその仮説があったことで、商談の序盤から「課題を一緒に考える対話」が始まりました」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
-  - 「"triangulation"」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「これを日本語に役すると、「三角測量」ということになります」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「この三角測量とは一体なんでしょうか？」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「本稿では、大規模言語モデル（Large Languagn Model, LLM）の急速かつ劇的な進歩を踏まえ、社会学の研究者であるノーマン・K・デンジンが1970年代に提唱した「トライアンギュレーション（三角測量）」という方法論の拡張を、デザインリサーチの多元化の一例として考察したいと思います」（https://note.com/kasano/n/n5300393c2f30）
-  - 「を用いる「トライアンギュレーション（三角測量）」によって、デンジンは批判を乗り越えようとしたのです」（https://note.com/kasano/n/n5300393c2f30）
-  - 「Triangulation 2.0」（https://note.com/kasano/n/n5300393c2f30）
-  - 「トライアンギュレーション（triangulation）」（https://note.com/saito_lab/n/n554cd436c4ae）
-  - 「そこで、複数のデータ・方法・研究者・理論を組み合わせて、同じ現象を多角的に検証する考え方が」（https://scholarcompass.net/columns/184）
-  - 「もともとは測量の「三角測量」に由来する言葉で、質的研究の妥当性を高める工夫として広まりました」（https://scholarcompass.net/columns/184）
+  - 「質的研究においてなぜ三角測量（トライアンギュレーション）を用いるのか？」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「三角測量（トライアンギュレーション）は測量法にその名を由来しています」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「その緊張感こそが三角測量において最も興味深い部分であり、ほぼすべてのガイドブックが省略している点です」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「以下では、4つのタイプが実際にどのようなものであるか、三角測量によって得られるものと得られないもの、情報源が対立したときの対処法、そして過剰な主張をせずに方法論のセクションに記述する方法を解説します」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「<CTA title="データと主張の整合性を保つ" description="Jenniは、すべての主張がデータに裏付けられているかどうか、下書き、引用、検証をサポートします" buttonLabel="Jenniを無料で試す" link="https://app.jenni.ai/register" />」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「三角測量（トライアンギュレーション）とは？」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「三角測量とは、複数の視点から現象を検討する手法であり、結論が単一の情報源、単一の方法、単一の分析者、あるいは単一の理論のみに依存しないようにするものです」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「デンジンによる4つの三角測量のタイプ」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「データの三角測量 (Data triangulation)」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「調査者の三角測量 (Investigator triangulation)」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「理論の三角測量 (Theory triangulation)」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「方法論の三角測量 (Methodological triangulation)」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「この区別については、関連する「データ対方法論の三角測量」の記事で詳しく解説しています」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「環境の三角測量 (environmental triangulation)」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「もし2つ目の情報源も同じ盲点を共有しているなら、それは三角測量ではなく、単に音量を大きくしただけにすぎません" />」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
 - 一次情報の探し方：
+  - 「三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「実験研究や統計学的処理をしたアンケート調査と比較し、質的研究は主として対象者の語りを分析しますので、結果に数値が使われません」（https://note.com/goldmist1959/n/nb892f5128ad2）
   - 「エビデンスとしてはやはり統計的に処理をした数値で表す方がどうしても客観性が高くみられるので、質的研究の結果は、量的研究を主とする研究者から、「エビデンスとして価値があるのか？」と懐疑的にみられやすいです」（https://note.com/goldmist1959/n/nb892f5128ad2）
   - 「しかし、量的な研究にも限界があり、統計学的処理の結果だけをエビデンスとしても患者や住民の困っていることを解決する際には、偏りが出てきます」（https://note.com/goldmist1959/n/nb892f5128ad2）
@@ -134,8 +137,10 @@
   - 「富山大学医学部医学科 医療統計学講座」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_article/-char/ja）
   - 「PDFをダウンロード」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_article/-char/ja）
   - 「疫学や統計学では因果関係を立証するための方法論を総じて因果推論と呼ぶ」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_article/-char/ja）
-  - 「【Mac編】統計解析ソフトrのダウンロード&インストール方法」（https://clitama.human-relation.net/triangulation/）
 - 失敗・落とし穴：
+  - 「多くの学生は、意見の不一致（対立）を「失敗」と捉えがちです」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「しかしそれは失敗ではなく、適切に対処するための認められた語彙が存在します」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「Convenience Sampling: Avoid Bias When Recruiting Study Participants」（https://www.nngroup.com/articles/triangulation-better-research-results-using-multiple-ux-methods/）
   - 「人間には「確証バイアス」があります」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
   - 「これにより、単一の視点や方法だけを使った場合に生じる偏り（バイアス）を減らし、結果の妥当性と信頼性を高めます」（https://note.com/goldmist1959/n/nb892f5128ad2）
   - 「坪山先生（2021） 「3.トライアンギュレーション：徹底したバイアスの排除」」（https://note.com/saito_lab/n/n554cd436c4ae）
@@ -148,25 +153,22 @@
   - 「注意点・限界」（https://scholarcompass.net/columns/184）
   - 「それぞれの方法が同じ弱点（バイアス）を共有していれば、いくつ重ねても偏りは補正されません」（https://scholarcompass.net/columns/184）
   - 「注意点・誤解されやすい点」（https://scholarcompass.net/columns/184）
-  - 「：方法を増やすこと自体が目的化しないよう注意が必要です」（https://scholarcompass.net/columns/184）
-  - 「食い違いは失敗ではなく、重要な手がかりです」（https://scholarcompass.net/columns/184）
-  - 「情報源同士の不一致は失敗ではなく、知見の一つです」（https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026）
 - 実例：
+  - 「どちらの立場を主張するかによって結果が異なります」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「優れた方法論の段落に含まれるべき内容：どのタイプを使用し、なぜそのタイプなのか、具体的に何を変化させたのか、分析のどの段階で情報源を比較したのか、意見が対立したときにどう対処したのか、そしてその結果として何を主張しているのか」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「一方で「調査結果を三角測量した」という曖昧な記述は検証不可能であり、審査員はそのような曖昧な表現を単なる飾り（装飾）として受け取ります" />」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「Read modern, diverse business cases」（https://methods.sagepub.com/ency/edvol/sage-encyc-qualitative-research-methods/chpt/triangulation#_）
+  - 「Procedural bias – Procedural bias occurs when participants are put under some kind of pressure to provide information. For example, doing “vox pop” style interrupt polls might catch the participants unaware and thus affect their answers. Triangulation allows us to combine short engagements with longer engagements where participants have more time to give considered responses.」（https://www.betterevaluation.org/methods-approaches/methods/triangulation）
+  - 「Desperately seeking dissonance identifying the disconfirming case in qualitative evidence synthesis」（https://www.betterevaluation.org/methods-approaches/methods/triangulation）
+  - 「Chapter 8: Case study」（https://openpub.libraries.rutgers.edu/qualgo2/chapter/28/）
+  - 「is a good example of methodological triangulation because it used a combination of workshops, interviews and focus groups to collect data.」（https://openpub.libraries.rutgers.edu/qualgo2/chapter/28/）
+  - 「Table 28.1 provides examples of the four main types of triangulation. Other types of triangulation, such as ‘time’ and ‘space’」（https://openpub.libraries.rutgers.edu/qualgo2/chapter/28/）
+  - 「Examples of Triangulation in UX」（https://www.nngroup.com/articles/triangulation-better-research-results-using-multiple-ux-methods/）
+  - 「Triangulation can take many forms; two examples of how you could triangulate UX research are shown here. Left: Triangulate by using multiple methods to study the same activity, such as quantitative research, qualitative research, and expert review. Right: Triangulate by analyzing several different metrics related to the same activity, such as satisfaction ratings, time spent, and revenue volume.」（https://www.nngroup.com/articles/triangulation-better-research-results-using-multiple-ux-methods/）
+  - 「Some examples of research triangulation are:」（https://www.nngroup.com/articles/triangulation-better-research-results-using-multiple-ux-methods/）
   - 「その差が、長い目で見ると大きな結果の違いになる、ということなのだと思っています」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
   - 「結果として、3つのうち2つは的外れでしたが、1つが「まさにそこが課題です」という反応をもらえました」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
-  - 「質的研究の結果はエビデンスになるのか？」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「実験研究や統計学的処理をしたアンケート調査と比較し、質的研究は主として対象者の語りを分析しますので、結果に数値が使われません」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「エビデンスとしてはやはり統計的に処理をした数値で表す方がどうしても客観性が高くみられるので、質的研究の結果は、量的研究を主とする研究者から、「エビデンスとして価値があるのか？」と懐疑的にみられやすいです」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「しかし、量的な研究にも限界があり、統計学的処理の結果だけをエビデンスとしても患者や住民の困っていることを解決する際には、偏りが出てきます」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「これにより、単一の視点や方法だけを使った場合に生じる偏り（バイアス）を減らし、結果の妥当性と信頼性を高めます」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「例えば、５人しか調査できないのに、全て異なった属性の人を選んでしまうと、類似の現象が得られずに、カテゴリーを作ること困難になるかもしれません」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「患者の疼痛管理に関するインタビューデータを、複数の研究、例えば、臨床看護師、疼痛専門看護師、看護教育者の3名が別々に分析します」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「例えば、終末期患者の家族支援に関するデータを、危機理論（家族の心理的危機への対応）、グリーフケア理論（悲嘆プロセスへの支援）、システム理論（家族を一つのシステムとして捉える）など異なる理論的視点から分析してみます」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「例えば、新人看護師の職場適応過程を研究する場合、質問紙調査（ストレスレベルや満足度の定量評価）、個別インタビュー（個人の経験や感情の深い理解）、業務場面の参与観察（実際の行動パターン）、プリセプターの指導記録分析（公式な評価）を組み合わせてみます」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「例えば、質的なインタビュー調査だけでなく、定量的なアンケート調査も行ない、その結果を比較することで、より正確な分析を目指します」（https://note.com/kasano/n/n5300393c2f30）
-  - 「また、トライアンギュレーションは、単一の研究者の偏りや主観性を排除するためにも有効であり、異なる研究者や研究グループが異なる手法で同じ問題に取り組むことで、より客観的な結果を得ることができるとされています」（https://note.com/kasano/n/n5300393c2f30）
-  - 「例えば、2050年のユーザーが置かれる予測などを入力し、その上で現在の定性的な調査内容をともに分析したり、アイデア創出ワークショップの参加者としてともに考えることも可能になるのです」（https://note.com/kasano/n/n5300393c2f30）
-  - 「例えば、インタビューの文字おこしをテキストマイニングのような統計的手法をもちいて頻出語句を調べたり、GTAやSCATのようなテクスト分析から文脈を抽出することも」（https://note.com/kasano/n/n5300393c2f30）
 - 検索結果の抜粋：
   - 「質的研究におけるトライアンギュレーションとは｜M. Kawabata, RN., P... — Mar 7, 2025 · こんにちは！今回は、質的研究においてその質を上げるための方法として トライアンギュレーション について説明します ...」（https://note.com/goldmist1959/n/nb892f5128ad2）
   - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ...VP ARCHIVE SCIENCE | Measuring the Earth PHASE 01-06 ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...上谷 良吉 ～解析空中三角測量システムの開発と実用化～ — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査をおこなう研究者から度々批判が」（https://note.com/kasano/n/n5300393c2f30）
@@ -302,21 +304,21 @@
   - 「子どもの貧困率・地域別人口推計など社会課題に直結する統計は無料で入手できる」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
   - 「例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
 - 一次情報の探し方：
-  - 「e-Stat の統計表 ID を最短で特定する — search-estat スキルで政府統計を 1 分で見つける｜統計で見る都道府県」（https://note.com/stats47/n/n7e4572d23a1b）
-  - 「e-Stat の統計表 ID を最短で特定する — search-estat スキルで政府統計を 1 分で見つける」（https://note.com/stats47/n/n7e4572d23a1b）
-  - 「統計で見る都道府県」（https://note.com/stats47/n/n7e4572d23a1b）
-  - 「「待機児童数の都道府県別データを e-Stat から取りたい」「県民所得の最新」（https://note.com/stats47/n/n7e4572d23a1b）
-  - 「値を 47 都道府県で比較したい」——統計担当・企画課でこの種の依頼を受」（https://note.com/stats47/n/n7e4572d23a1b）
-  - 「けた職員が、最初の 20-30 分を消費するのが「目的のデータがどの統計表に入っているか分からない」という状況です」（https://note.com/stats47/n/n7e4572d23a1b）
-  - 「e-Stat には膨大な統計表が登録されており、同じ「人口」でも「国勢調査」「人口推計」「住民基本台帳人口移動報告」など複数の調査に分かれています」（https://note.com/stats47/n/n7e4572d23a1b）
-  - 「e-Stat の統計表 ID (statsDataId) を 1 分で特定するワークフロー」（https://note.com/stats47/n/n7e4572d23a1b）
-  - 「「どの統計表に目的のデータが入っているか」を探すだけで 20-30 分かけている統計担当・企画課の職員」（https://note.com/stats47/n/n7e4572d23a1b）
-  - 「同じ「人口」でも調査が複数に分かれる e-Stat の構造に、毎回タブを開いて確認している方」（https://note.com/stats47/n/n7e4572d23a1b）
-  - 「データ取得依頼が月 5-10 件あり、探索時間を圧縮したい統計担当の方」（https://note.com/stats47/n/n7e4572d23a1b）
-  - 「現在は Claude Code で 47 都道府県の統計サイト」（https://note.com/stats47/n/n7e4572d23a1b）
-  - 「人口 10-30 万人規模の自治体では、企画課・統計担当が月 5-10 件の「データ取得依頼」を受けますが、その半分以上の時間が「該当する統計表 ID を探す」段階に消えるケースが少なくありません」（https://note.com/stats47/n/n7e4572d23a1b）
-  - 「e-Stat 利用規約上、商用・非商用を問わずデータ利用は自由です (出典: 政府統計の総合窓口 e-Stat 利用規約、出典明記必須)」（https://note.com/stats47/n/n7e4572d23a1b）
-  - 「背景: なぜ e-Stat の検索 UI は複雑か」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「疾病、傷害及び死因の統計分類（死因分類）」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「統計名(50音)」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「一般職国家公務員在職状況統計表（人事統計報告）」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「連合会を組織する共済組合における医療状況実態統計調査」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「法人企業統計調査附帯調査 四半期別GDP速報（1次速報）のための一部項目早期調査」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「介護給付費等実態統計（旧：介護給付費等実態調査）」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「ビッグデータを活用した商業動態統計調査（試験調査：家電大型専門店分野）」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「総合エネルギー統計補足調査（電気事業者の発電量内訳等調査）」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「家庭部門のCO2排出実態統計調査」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「各統計調査の詳細については、上記の担当機関のホームページを参照してください」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「各機関のホームページには該当する政府統計の「調査概要」「調査結果」「利用上の注意」「公表予定」「お問い合わせ先」等の情報が掲載されております」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「https://www.stat.go.jp/data/s-sugata/pdf/bunkatsu2_shi.pdf」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
+  - 「D 行政基盤（財政力指数、歳入決算額、地方税など）」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
+  - 「https://www.stat.go.jp/data/k-sugata/pdf/setumei.pdf」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
+  - 「で、この中から必要な統計を選択し」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
 - 失敗・落とし穴：
   - 「各機関のホームページには該当する政府統計の「調査概要」「調査結果」「利用上の注意」「公表予定」「お問い合わせ先」等の情報が掲載されております」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
   - 「キーワード検索を使う場合の注意（単語の間のスペース）」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
@@ -545,7 +547,7 @@
   - 「For example, a software company pulling in $1.76 million per employee and a hospital averaging $8,700 are both running normal operations for their industry. One runs on code and licensing. The other runs on a large network of staff and overnight shifts. We may be looking at the same metric, but each has a completely different story.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
   - 「Labor-intensive industries such as restaurants, general retail and hospitals cluster at the low end, with RPE figures below $35,000 in some cases, reflecting high headcount relative to revenue.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
   - 「For example, a software company and a hospital can both be healthy, well-run businesses and show wildly different RPE figures. The U.S. total market average sits at $111,000 per employee, but that number masks enormous variation by industry.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ9頁・検索12回）
 
 ## OSINT（公開情報調査）の手法（OSINT open source intelligence business research）
 - 文脈：探し方
@@ -1839,70 +1841,13 @@
 - 検索結果の抜粋：
   - 「ゼロ から はじめる OSINT Open Source Intelligence — ゼロ から はじめる OSINT Open Source Intelligence Contentstack PDF https://assets.contentstack.io > assets > SANS_20230...」（https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltbe45ede7e0e1f6ba/63e5348101ddee6a0d86d72f/SANS_20230119_OSINT_Ja.pdf）
 
-## デスクリサーチの自動化と引用の検証（DeskrexAI・Grata）（desk research automation citation verification private company revenue estimation）
-- 文脈：探し先
-- 手順・やり方：
-  - 「本記事では、AIへ任せる候補収集と構造化、人が残す原典確認と採否、工程ごとの成果物をつなぎ、再現可能なデスクリサーチへ変える方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「これにより、情報が陳腐化した時点で再び収集のステップから始まるサイクルが動き出し、常に最新の実務判断を下せる運用が定着します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「ひとつの実務課題において調査を自動化するには、担当者の裁量に頼るのではなく、AIに与える前提資料、実行させる作業、受け取るデータ、そして最終的に人間が行う確認手順を、一連の流れとして具体的に記録しておく必要があります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「出来上がるのは、社内の意思決定を支える判断台帳、事実の根拠をたどれる出典台帳、通常とは異なるケースをまとめた例外記録、そして情報が陳腐化した際に再び収集ステップを起動するための再調査条件です」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「この手順をあらかじめ定めておくことで、自動化されたプロセスが途切れることなく機能し続けます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「そのため、人が情報源となる一次資料にアクセスし、事実と合致しているかを見極めるステップを調査記録に組み込みます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「このように、前提となる情報の提示から、AIによる探索と集約、そして最終的な証拠・例外・権限のチェックに至るまでの実務の手順を一つのつながりとして残します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「まず、前回作成した比較表や自社の企画書を前提となる資料としてどのようにシステムへ提示したかという手順を記録します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「このように、前提条件の提示、AIによる処理の実行、生成されたデータ、そして人が介入した検証のステップをひとつの流れとして記録しておくことで、四半期ごとの見直しが容易になります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「まず、届けたい成果物と現在の作業手順を確認し、実際の仕事をAIで試します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「その結果をもとに、工程の統合や並列化、ツール連携、結果の検証と修正の手順を組み込みます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「実行回数や費用の上限、人の判断を待つ条件、途中の状態を保存して再開する方法も含めて設計し、実務で動作を確かめます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「新規事業テーマ探索の手順｜AIで回す3-6-12週間ロードマップ」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「新規事業テーマ探索の手順を、3週間マクロ発散→6週間フォーカス絞り込み→12週間ゴー/ノーゴー判断のロードマップで整理します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「AIヒアリングで集めた現場の回答を事業仮説の検証へつなぐ方法」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-- 突き合わせ・推定：
-  - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
-  - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
-  - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ | DeskrexAIリサーチ」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「前工程で固定した判断課題と完了条件を満たすには、実際の調査プロセスを「収集」「検証」「統合」「更新」という4つの工程に分割し、前の作業から得られた成果を次の判断材料として滞りなく渡していく必要があります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「ここでは人間が例外的な情報や出典の確からしさを承認し、検証済みの事実だけを次へ送ります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「前工程で得られたAIの出力結果は、そのまま自動で実務の意思決定へと渡すのではなく、必ず人が介入して検証する仕組みを経由させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「モデルを用いた検証でも、タスクによっては3.1〜19.1%のハルシネーション（事実に基づかない出力）が実測」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「前工程で人が検証と承認を終えた事実を、途切れることなく次の判断へ渡すためには、作業の段階に合わせて適切なツールと手法を選択し、つなぎ合わせる必要があります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「を用いて検証済みの事実だけを抽出したりと、目的に応じたガイドを選びます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「最後に、検証を通過した確かな事実だけを、」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「そのため、人が情報源の確からしさをたどり、例外的な条件を補足し、機密情報の取り扱いが適切であったかを検証したプロセスを、調査の完了条件として台帳に書き留めます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「このように、前提条件の提示、AIによる処理の実行、生成されたデータ、そして人が介入した検証のステップをひとつの流れとして記録しておくことで、四半期ごとの見直しが容易になります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「監査のタイミングでこの記録を振り返り、「AIの抽出精度にブレが生じていないか」「人が検証する負担が増加していないか」「新たな手法へ置き換えるべき工程はないか」を評価し、調査の設計図を最新の状態へ更新します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「前工程の成果と検証の記録を次の判断へ渡し続けることで、担当者の力量に依存しない、再現可能な自動化の仕組みが自社に根付きます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-- 一次情報の探し方：
-  - 「さらに、その情報を採用するかどうかの採否、利用における権限、次に見直すべき更新期限を判断します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「現場の状況や一次情報に基づく例外事象を人が補足し、調査結果へ反映させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「また、観点マトリクスを30秒・構造化レポートを10分で自動生成する機能があり、出典付きのレポートをMarkdown/PDF形式でエクスポートできます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「化学特許AIツール6選｜構造式・マーカッシュ対応の使い分け」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「化学のR&Dで使う特許AIツール6選を構造式画像認識・マーカッシュ検索・自然言語AI・FTOの4軸で比較」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「CAS SciFinder・Reaxys・Patsnap Eureka・Derwent・Patentfield AIR・IPRallyの使い分けと、三井化学1万件PDFエージェント事例、職種別早」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「It was 2022, my third year running outbound for a B2B team. I had 200 private companies to tier by size. No filings. No earnings call. Just names and websites. So I eyeballed one mid-market firm into the “small” bucket and pitched them our starter package.」（https://cufinder.io/blog/find-private-company-revenue/）
-  - 「You can’t pull the exact annual revenue of a private company from a filing, because private firms don’t file one. But you can estimate it well by combining headcount, funding, and industry benchmarks, then confirming against a data provider. The more signals agree, the tighter your number.」（https://cufinder.io/blog/find-private-company-revenue/）
-  - 「Yes, for many businesses. Public companies post exact revenue in their filings, and data providers carry estimated revenue for millions of private firms. A free lookup gets you a ballpark, while a paid enrichment tool gets you a researched figure across a whole list.」（https://cufinder.io/blog/find-private-company-revenue/）
-  - 「SEC EDGAR (sec.gov/edgar) for public company filings」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
-- 失敗・落とし穴：
-  - 「社内資料を接続するときの注意点は何ですか？」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「重大な仕様変更や取得失敗があれば定期日を待たず見直します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-- 実例：
-  - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
-  - 「毎週、生成AIに関するビジネス活用の事例をお届けしています」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
-  - 「デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「このように、事前に判断課題と条件を固定することで、誰が依頼しても同じ品質の調査結果が得られる土台が完成します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「完成した調査結果を一度きりで終わらせるのではなく、台帳へ記録する際に次回の見直し期限や再調査の条件を合わせて定めます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「AIは与えられた文脈をもとにウェブ上の情報を探索し、候補の収集や分類、比較表の初稿作成、過去の調査結果との差分抽出といった作業を実行します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「出来上がるのは、社内の意思決定を支える判断台帳、事実の根拠をたどれる出典台帳、通常とは異なるケースをまとめた例外記録、そして情報が陳腐化した際に再び収集ステップを起動するための再調査条件です」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「前工程で得られたAIの出力結果は、そのまま自動で実務の意思決定へと渡すのではなく、必ず人が介入して検証する仕組みを経由させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「されており、引用元のURLが実在しない捏造であるケースも一定割合で発生します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「AIは収集可能なWeb上の情報を平準化してまとめますが、特定の顧客にのみ適用されている非公開の条件や、期間限定のキャンペーンといった通常とは異なるケースまでは完全に捉えきれません」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「現場の状況や一次情報に基づく例外事象を人が補足し、調査結果へ反映させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「このとき、単に複数のツールを場当たり的に使うのではなく、何を前提となるデータとして渡し、どのように処理を実行させ、どのような結果を受け取り、最終的に人間がどこを確かめるのかという一連の流れを記録しながら進行します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「問いが明確になったら、その結果を次の二次情報収集ツールへ引き継ぎます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「などへ検索の指示を渡し、ウェブ上の膨大なページから関連する情報を探し出させ、引用元のリンクが添えられた初期レポートの形で結果を引き出します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「その結果をもとに、工程の統合や並列化、ツール連携、結果の検証と修正の手順を組み込みます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+## 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）（checking statistical definitions coverage threshold member-only shipment vs sales）
+- 文脈：定義の点検
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）（reading Japanese public financial notices small companies net assets net income）
 - 文脈：決算公告
@@ -1960,22 +1905,6 @@
   - 「経済産業省の商工業実態基本調査によると、製造業の中小企業では20%台が一つの基準となるケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「なお、電子公告を選択している中小企業の一部は、義務の範囲を超えて損益計算書も任意で掲載するケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-
-## 生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法）（structured analytic techniques ACH analysis of competing hypotheses generation verification separation）
-- 文脈：分析の型
-- 手順・やり方：記載なし（読んだ20頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
-- 実例：記載なし（読んだ20頁・検索12回）
-
-## 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）（checking statistical definitions coverage threshold member-only shipment vs sales）
-- 文脈：定義の点検
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ）（how to find private company revenue Japan consulting knowledge base）
 - 文脈：探し先
@@ -2049,3 +1978,334 @@
   - 「調査結果を、次の事業判断に使える形へ」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「業種別・企業事例（6）」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「例えば会社が買収の影響を説明しているなら、売上増加をそのまま既存事業の顧客獲得力と捉えないようにします」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+
+## 生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法）（structured analytic techniques ACH analysis of competing hypotheses generation verification separation）
+- 文脈：分析の型
+- 手順・やり方：
+  - 「本稿は、世界の主要な情報機関が生成AI(大規模言語モデル、エージェント型AI、マルチモーダルAI)をどのように実際の業務に取り入れているかを調べ、その知見を実務向けにまとめたものである」（https://note.com/everprogress/n/nc066813442e3）
+  - 「エージェント型AI：人間が与えた目標に対し、必要な手順を自ら組み立て、外部の道具を呼び出して多段階の作業を進めるAI」（https://note.com/everprogress/n/nc066813442e3）
+  - 「Khalid & Witmer(2025)は、大規模言語モデルを用いた主題分析の手順を四段階に整理した」（https://note.com/everprogress/n/nc066813442e3）
+  - 「一つの情報源に頼らず、複数の情報源を突き合わせることが方法論上欠かせない」（https://note.com/everprogress/n/nc066813442e3）
+  - 「エージェント型AIはこれをさらに進め、収集、処理、分析の三つの段階を自律的に行き来する(Palmieri et al., 2026)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「：theHarvester、SpiderFoot、OSINT Framework」（https://note.com/everprogress/n/nc066813442e3）
+  - 「エージェント型の例としてOpenOSINTがある」（https://note.com/everprogress/n/nc066813442e3）
+  - 「対話型の実行環境、ウェブ画面、コマンドライン、MCPサーバーの四つの使い方がある(OpenOSINT, 2026)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「2.2.3 「エージェント型OSINT」という質的な転換」（https://note.com/everprogress/n/nc066813442e3）
+  - 「情報機関のOSINT自動化と企業の競争インテリジェンスの自動化が、方法論としてほぼ同じ線上にあることを示す実例である」（https://note.com/everprogress/n/nc066813442e3）
+  - 「CIAの公刊誌に載った近年の論考は、ソーシャルメディアなどの公開データと業務上の記録を大規模言語モデルに読み込ませ、協力者との対話で使うべき言葉や避けるべき話題、相手が示しそうな反論を事前に助言させる使い方を提案している(Mulligan, 2026)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「GCHQ長官のアン・キースト＝バトラーは、2026年5月27日にブレッチリー・パークで行った第1回GCHQ年次講演で、国家サイバーセキュリティセンター(NCSC)がエージェント型AIを組み込んだ国家規模のサイバー防衛能力を開発中であることを明らかにした」（https://note.com/everprogress/n/nc066813442e3）
+  - 「2021年の「拡張知能」から2026年の「エージェント型AIによる機械の速さでの防御」への移行は、後述する導入計画の第一段階から第四段階までを、一つの機関が5年間で歩んだ例といえる」（https://note.com/everprogress/n/nc066813442e3）
+  - 「2.4.2 フランスDGSEの統合型モデル」（https://note.com/everprogress/n/nc066813442e3）
+  - 「GCHQが自らの防御にエージェント型AIを組み込もうとしているように、企業も自社ネットワークの防御に同じ技術を使うことができる」（https://note.com/everprogress/n/nc066813442e3）
+- 突き合わせ・推定：
+  - 「競合仮説分析、悪魔の代弁者、レッドチーム分析などが含まれる」（https://note.com/everprogress/n/nc066813442e3）
+  - 「市場規模や性能に関する推計は情報源によって大きく食い違う」（https://note.com/everprogress/n/nc066813442e3）
+  - 「一つの情報源に頼らず、複数の情報源を突き合わせることが方法論上欠かせない」（https://note.com/everprogress/n/nc066813442e3）
+  - 「どちらも、集めた情報を処理してから分析官に渡すという一方通行の流れを、分析官が生のデータと対話しながら仮説を組み立てる双方向の流れに変えている」（https://note.com/everprogress/n/nc066813442e3）
+  - 「画像に埋め込まれた位置情報(EXIF)に頼らず、建築様式、植生、標識といった見た目の手がかりから撮影場所を推定する(GeoSeer, 2026)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「研究は収集と分析に偏り、検証と報告の段階が手薄である」（https://note.com/everprogress/n/nc066813442e3）
+  - 「同論文はこの状況を「幻覚と検証の隔たり」と名づけ、当面もっとも安全な形として、大規模言語モデルが収集と優先順位づけを担い、分析官が検証と意思決定の責任を持つ、人間とAIの協働モデルを提案している」（https://note.com/everprogress/n/nc066813442e3）
+  - 「AIに事実を作らせるのではなく、検証可能な外部ツールの選択と連鎖だけを任せ、事実そのものは決定論的なツールの出力から得る」（https://note.com/everprogress/n/nc066813442e3）
+  - 「この「生成と検証の分離」は、幻覚と検証の隔たりに対する設計段階の答えであり、情報機関にも企業にも応用できる」（https://note.com/everprogress/n/nc066813442e3）
+  - 「第一に、OSINTが法執行機関の情報素材の約80%を占めるという推計(nullsec.news, 2026)が示すように、公開情報を処理する力が、組織の情報能力の大半を決める時代に入っている」（https://note.com/everprogress/n/nc066813442e3）
+  - 「モサドのAI計画を論じた個人の分析記事も、本文を確認できておらず、内容を検証できていない」（https://note.com/everprogress/n/nc066813442e3）
+  - 「本稿はこれを報道に基づく推定と位置づけ、確認できた事実とは区別する」（https://note.com/everprogress/n/nc066813442e3）
+  - 「大規模言語モデルは、組織の構造や過去の報告内容を与えれば筋の通った偽情報を量産できるため、AI時代には情報源の検証がこれまで以上に重要になる(Mulligan, 2026)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「技術面では、DRMが軍事情報のデータを統合するAI搭載アプリ「エスクリム」を、DRSDが防諜のために異なる種類のデータを突き合わせる「シルシド」を開発し、DGSEも内製の生成AIを整備している」（https://note.com/everprogress/n/nc066813442e3）
+  - 「この「合理性バイアス」の指摘は、後述する構造化分析技法において、生成AIに相手の非合理的な行動の仮説も立てさせる必要があることを示している」（https://note.com/everprogress/n/nc066813442e3）
+- 一次情報の探し方：
+  - 「：求人情報の急増、規制当局への提出書類の変化、SNS上の感情の変化など、公開情報に現れる小さな兆候をAIが検出し、分析官に示す」（https://note.com/everprogress/n/nc066813442e3）
+  - 「この論文の主題は国防の調達、組織改革、訓練、採用という公共行政上の課題であり、作戦の技術的な詳細は扱っていない」（https://note.com/everprogress/n/nc066813442e3）
+  - 「Massive社の分類は、金融犯罪と暗号資産の追跡分析をOSINTツールの独立した分野として位置づけ、Chainalysisなどの事業者を挙げるとともに、2025年の不正な暗号資産取引が409億ドルに上るという統計を引いている(Turner, 2026)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「2025年2月から5月の軍の調達文書にはDeepSeekへの言及が150件以上あり、兵器工業集団傘下の兵器科学研究院の特許は、公開情報、人的情報、信号情報、地理空間情報、技術情報のデータで軍用大規模言語モデルを訓練し、情報サイクルの全段階を支援する構想を示している(Insikt Group, 2025)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「この段階では「人間とAIの協働モデル」を明示的な設計原則として採用し、AIが収集と優先順位づけを、人間が検証と意思決定を担う役割分担を制度化する(Palmieri et al., 2026)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「本稿の調査範囲では、日本の公的機関が生成AIのインテリジェンス活用に関する公式方針や倫理原則を公表した文書は確認できなかった」（https://note.com/everprogress/n/nc066813442e3）
+  - 「https://aclanthology.org/2023.eval4nlp-1.7.pdf」（https://note.com/everprogress/n/nc066813442e3）
+  - 「https://www.cia.gov/resources/csi/static/643e18ba5bf779749a14059019db53b2/Article-The-Promise-and-Peril-of-Artificial-Intelligence-Studies-68-1-March-2024.pdf」（https://note.com/everprogress/n/nc066813442e3）
+  - 「https://www.cimic-coe.org/wp-content/uploads/2025/03/factsheet-ai.pdf」（https://note.com/everprogress/n/nc066813442e3）
+  - 「https://assets.recordedfuture.com/insikt-report-pdfs/2025/ta-cn-2025-0617.pdf」（https://note.com/everprogress/n/nc066813442e3）
+  - 「https://www.defense.gouv.fr/sites/default/files/drm/Esprit%20d%C3%A9fense%20n%C2%B0%2017%20-%20Automne%202025-24-43.pdf」（https://note.com/everprogress/n/nc066813442e3）
+  - 「https://www.cia.gov/resources/csi/static/Article-Espionage-in-Our-AI-Future-Studies-70-1-Mar2026.pdf」（https://note.com/everprogress/n/nc066813442e3）
+  - 「https://docs.house.gov/meetings/BA/BA10/20230427/115822/HHRG-118-BA10-Wstate-NelsonB-20230427.pdf」（https://note.com/everprogress/n/nc066813442e3）
+  - 「https://cdn.asp.events/CLIENT_Defence__8EE24275_D70D_4386_936BB8991B847FF8/sites/Navy-Leaders-2022/media/libraries/cne24-presentations/Day-3-UDSA-1115-OPTION-1-_PUBLIC_CNE_NATO_Data_and_AI_Policies.pdf」（https://note.com/everprogress/n/nc066813442e3）
+  - 「https://www.dni.gov/files/documents/ICD/ICD-203.pdf」（https://note.com/everprogress/n/nc066813442e3）
+- 失敗・落とし穴：
+  - 「確証バイアスを増幅するため、分析の場面では幻覚と並ぶ危険をなす」（https://note.com/everprogress/n/nc066813442e3）
+  - 「構造化分析技法(SATs)：分析官の認知バイアスを抑えるために情報機関が発展させてきた一連の手法」（https://note.com/everprogress/n/nc066813442e3）
+  - 「第四に、公開資料の中には本文を確認できないものや、著者や日付の記載に誤りがあるものが少なくない」（https://note.com/everprogress/n/nc066813442e3）
+  - 「同論考は元CIA工作担当官による規範的な考察であり、現在の運用を記述したものではない点に注意が必要である」（https://note.com/everprogress/n/nc066813442e3）
+  - 「Block他(2023)の実験が示すように、大規模言語モデルは分析記録の要約で数値計算を誤り、指示文中の語句に引きずられる傾向があり、要約の忠実さは保証されない」（https://note.com/everprogress/n/nc066813442e3）
+  - 「同誌はまた、ウクライナ戦争の教訓として、侵攻を予測できなかった「合理性バイアス」(相手が合理的に行動するという思い込み)と、米国が情報を意図的に機密解除した前例のない戦略を挙げている(Ministère des Armées, 2025b)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「この「合理性バイアス」の指摘は、後述する構造化分析技法において、生成AIに相手の非合理的な行動の仮説も立てさせる必要があることを示している」（https://note.com/everprogress/n/nc066813442e3）
+  - 「信号情報の市場規模については、情報源による推計の差が大きいため、推計の信頼性に注意が必要である」（https://note.com/everprogress/n/nc066813442e3）
+  - 「CIAをはじめとする情報機関は、認知バイアスを抑えるために、競合仮説分析(ACH)、主要な前提の点検、悪魔の代弁者、代替未来分析、レッドチーム分析といった構造化分析技法を使ってきた」（https://note.com/everprogress/n/nc066813442e3）
+  - 「事実の誤りは少なかったが、文脈のつながりの誤りや同じ語句の繰り返しが残り、モデルは数値の計算を誤り、指示文中の語句に引きずられ、すべての操作を目標に関係するものとみなす傾向を示した」（https://note.com/everprogress/n/nc066813442e3）
+  - 「構造化分析技法は認知バイアスに対処するために発展してきたが、生成AIは二種類の新しいバイアスを持ち込む」（https://note.com/everprogress/n/nc066813442e3）
+  - 「メトレウェリが「アルゴリズムは人々の偏見に迎合する」と警告したとおり(Dunton, 2025)、迎合性は確証バイアスを増幅し、構造化分析技法が抑えようとしてきたまさにその偏りを強める」（https://note.com/everprogress/n/nc066813442e3）
+  - 「CIAの公刊誌に載った論考も、質の高いAIを使う人ほど注意を怠りがちになり、利用者がAIの偏りを吸収して使うのをやめた後も保ち続けるという研究を引いて、この危険を警告している(Brown, 2024)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「報告書は、幻覚、イデオロギー上の偏り、データの漏洩、敵対勢力によるディープフェイクといったリスクがPLA側でも認識されていると指摘し、結果として起こりうることを「大幅な改善」から「重大な失敗」までの六つのシナリオに整理している(Insikt Group, 2025; Recorded Future, 2025)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「同時に、報告書自身が、開発や販売にあたる主体は有効性を誇張する動機を持つと注意を促していることは、中国側の能力を評価する際にも情報源の格付けが必要であることを示している」（https://note.com/everprogress/n/nc066813442e3）
+- 実例：
+  - 「エージェントは、Shodan、Censys、Maltego、VirusTotal、MISPといった外部ツールを自分で選んで呼び出し、結果を見て推論を更新し、目的を達成するか停止条件に達するまで作業を繰り返す(Palmieri et al., 2026)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「同プロジェクトは「AIはツールの呼び出しを指示するだけで、実際のプログラムは利用者側のコードが実行するため、幻覚による調査結果は構造的に生じない」という原則を掲げる(OpenOSINT, 2026)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「国内の事例では、公開情報と企業情報を大規模なデータベース上で名寄せして整理し、営業活動に活かす取り組みにより、年間約1,300時間の情報収集の工数削減が報告されている(ユーソナー, 2023)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「情報機関のOSINT自動化と企業の競争インテリジェンスの自動化が、方法論としてほぼ同じ線上にあることを示す実例である」（https://note.com/everprogress/n/nc066813442e3）
+  - 「第二に、HavocSecが挙げる事例(銀行がフィッシング用ドメイン3件を47分で特定、ジャーナリストが47のボットアカウントを特定)は、AIを用いたOSINTの効果が調査の速さに最もはっきり現れることを示している(HavocSec, 2026)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「GCHQの倫理文書は、AIを自ら判断する主体ではなく、人間の分析官が審査するためのデータを抽出する「拡張知能」と位置づけ、データ、設計、結果の各段階で偏りを抑えることを求めている(GCHQ, 2021)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「2.3.3 イスラエルの事例と証拠の限界」（https://note.com/everprogress/n/nc066813442e3）
+  - 「イスラエルの事例が示しているのは、AIが信号情報、計測・痕跡情報、人的情報の境界を溶かす統合運用の可能性である」（https://note.com/everprogress/n/nc066813442e3）
+  - 「衛星、無人機、電波の傍受によって収集能力が飛躍的に高まった結果、「情報が多すぎると情報が死ぬ」という処理能力の限界が課題になっていると指摘する」（https://note.com/everprogress/n/nc066813442e3）
+  - 「企業での応用としては、農業関連企業が衛星のスペクトルデータで広い地域の作物の収量を評価し、商品取引や供給計画に活かす事例や、競合他社の工場周辺の熱の放出や環境データを観察して生産量や稼働率を推定する「間接計測」の手法がある」（https://note.com/everprogress/n/nc066813442e3）
+  - 「Khalid & Witmer(2025)は、大規模言語モデルを使った帰納的な主題分析に関する12本の研究を体系的に検討し、モデルの結果は人間の分析とおおむね一致するものの、わずかなプロンプトの違いで出力が大きく変わる再現性の低さが最大の限界だと結論づけた」（https://note.com/everprogress/n/nc066813442e3）
+  - 「Schulhoff他(2024)が第6章で示した事例研究は、支援を求める文章の中から自殺の危険を示す「切迫した絶望感」を検出するという課題に対し、プロンプトの設計を繰り返し改善していく過程を詳しく記している」（https://note.com/everprogress/n/nc066813442e3）
+  - 「公開情報を大量に取り込むOSINTエージェントはこの攻撃に構造的に弱く、敵対勢力が公開情報源に仕込んだ指示によって分析結果が操作されうる」（https://note.com/everprogress/n/nc066813442e3）
+  - 「データ、設計、結果の各段階で偏りを抑えること、必要性と比例性を評価すること、多様な人材でチームを構成すること、説明可能なAI技術を使うことが掲げられている」（https://note.com/everprogress/n/nc066813442e3）
+  - 「2.8.2 中国の事例が示す対照的な型」（https://note.com/everprogress/n/nc066813442e3）
+
+## OSINTの出どころ評価と検証の型（intelligencenotes・osint-software）（OSINT source verification framework reliability grading provenance）
+- 文脈：探し先
+- 手順・やり方：
+  - 「Altss Private Markets OSINT Verification Standard | Altss Frameworks」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Inspect the methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「The Altss standard for verifying publicly accessible private-markets information: Berkeley Protocol-aligned source, item and content verification, the three evidence dimensions with origin kept separate from collection method, source grading, ICD 203 language for judgments, and source-rights recording.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「5. Method」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「The record kept for each evidence item about a private-markets entity or event: identifier, retrieval date, fixed copy or fingerprint, collection method and rights basis.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Source Reliability & Confidence Methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Entity Resolution Methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Temporal Data & Freshness Methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Investment Signal Classification Methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「The standing of a source for a type of claim (RECORD_KEEPER, SUBJECT, DIRECT_ACCESS, COPY_OR_COMPILATION or UNATTRIBUTED), a grade of how dependable it has been for that type of claim (A to F), and a grade of how well an item of information is supported (1 to 6), all defined in the Source Reliability & Confidence Methodology. See」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「the collection method, as process metadata (rule 6.2);」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「describes the quality and credibility of its underlying sources and methods;」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Rules 6.1 to 6.4 set out the Altss evidence model. It is an Altss-defined methodology, not an industry standard.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「6.2 Collection method is not origin.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「The collection method is recorded separately, with each capture, as process metadata and is never an origin value. Origin follows the artefact: a Form ADV has origin REGULATORY_PUBLIC_RECORD, a news article OSINT_SOURCED and a statement the subject gives in answer to a request DISCLOSED, however each was obtained.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+- 突き合わせ・推定：
+  - 「observed, derived and estimated data」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「DERIVED and ESTIMATED values have no origin of their own. Their origin is the set of origins of their inputs.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「For DERIVED and ESTIMATED values, validation covers the inputs and the correct application of the rule or method. Validation never turns an ESTIMATED value into an OBSERVED one.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Reliability and credibility grades are judgments. Irwin and Mandel (2019) argue that the Admiralty-style scales mask subjectivity and recommend numeric probability estimates and periodic re-evaluation. This standard keeps ordinal grades for sources and information, requires reasons for each, and uses numeric ranges for likelihood judgments.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Triangulation (Source Triangulation)」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Observed, Derived and Estimated Data」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+- 一次情報の探し方：
+  - 「checked against the cited primary sources on」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「In the Protocol's terms, gaining possession of online information through a screenshot, a conversion to PDF, a download or another form of capture.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Filings to, and records kept by, a regulator, statutory registry or court, retrieved from that body's own system」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Anything beyond the third party's own access; the content of a filing it describes, until the filing itself is retrieved」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「4.2 What common US filings do and do not show.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Establish that the item is what it appears to be. A filing retrieved from the registry's own system is a different item from a copy of it hosted elsewhere. Check metadata, and compare dates inside the document with the page's dates.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「A news report of a filing is evidence of what the reporter wrote. Its origin is OSINT_SOURCED. When the filing itself is retrieved from the regulator's own system, it becomes a second evidence item with origin REGULATORY_PUBLIC_RECORD. An evidence item names only what the researcher actually read.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「A filing to, or a record kept by, a regulator, statutory registry or court, retrieved from that body's own system」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「An official publication of a public body or public-sector institution, issued in its official capacity and not as a filing to a regulator」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「A filing is still the filer's own account. REGULATORY_PUBLIC_RECORD says where it was filed, not that it is true.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「A subject's filing and the same subject's press release are one originating source for facts only the subject can supply. Together they do not make a claim CORROBORATED (see」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Filings are the filers' own accounts. A body's acceptance of a filing does not by itself establish that its content is true; for Form ADV the SEC states that accepting the form is not a finding that it was completed correctly.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Every evidence item records its capture date and time, the artefact's own publication or filing date, and the as-of date of the value, using the date vocabulary of the Evidence & Provenance Standard. These dates are never substituted for one another.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「A copy of a filing hosted by an aggregator.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「It is OSINT_SOURCED until the filing is retrieved from the regulator's or registry's own system.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+- 失敗・落とし穴：
+  - 「Evaluating OSINT effectively requires a structured approach. Rather than relying on gut instinct or assumptions, analysts should assess each piece of information against a set of established criteria. This ensures consistency, reduces bias, and increases the likelihood that your final intelligence product will be trusted and actionable.」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
+  - 「Is the content neutral, or does it show bias? Be wary of emotionally charged language, persuasive tone, or content designed to provoke. Identifying whether the source has an agenda can help you judge how much weight to give the information.」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
+  - 「– how dependable the source is based on past performance, access to information, and known biases.」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
+  - 「5. Consider the Source’s Motivation and Bias」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
+  - 「a source is publishing certain information can help contextualise its reliability. Is the content investigative, promotional, political, or satirical? Is it user-generated or professionally produced? Analysing tone, language, and publication history can reveal bias or intent that may affect credibility.」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
+  - 「Even with a solid framework and a set of reliable techniques, OSINT evaluation often comes down to the fine details – the subtle clues, the consistency checks, and the instinct honed by experience. This section offers practical, hands-on advice to help you refine your evaluation skills and avoid common pitfalls.」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
+  - 「Can I identify any potential bias?」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
+  - 「3. Beware of Confirmation Bias」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
+- 実例：
+  - 「Which companies, investors and people matter to your work? Check the scope, fields and depth for your use case.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「10. Edge cases」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「11. Worked examples」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Example 1: a fund commitment, recorded in full.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Claim: "Example County Pension committed USD 50 million to Example Buyout Fund IV."」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「E1: Example Capital's press release on the fund's first close, naming the pension and the amount」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Example 2: a report of a filing.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Example 3: circular reporting.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Example 4: an attribute no usable source states.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Example 5: separating information from judgment.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Information: "The June 2026 minutes of Example University Endowment's investment committee record approval of a revised policy portfolio with a 5% private credit target." (OFFICIAL_INSTITUTIONAL, OBSERVED.)」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Example 6: one press release, two origins.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Changes to the origin values, the validation statuses, the source-rights rule in 6.6 or the personal-data rules in 6.7 are major changes. New examples and clarifications are minor changes.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「For example, a rating of」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
+  - 「IntelTechniques Workbook / Casefile」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
+
+## デスクリサーチの自動化と引用の検証（DeskrexAI・Grata）（desk research automation citation verification private company revenue estimation）
+- 文脈：探し先
+- 手順・やり方：
+  - 「本記事では、AIへ任せる候補収集と構造化、人が残す原典確認と採否、工程ごとの成果物をつなぎ、再現可能なデスクリサーチへ変える方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「これにより、情報が陳腐化した時点で再び収集のステップから始まるサイクルが動き出し、常に最新の実務判断を下せる運用が定着します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「ひとつの実務課題において調査を自動化するには、担当者の裁量に頼るのではなく、AIに与える前提資料、実行させる作業、受け取るデータ、そして最終的に人間が行う確認手順を、一連の流れとして具体的に記録しておく必要があります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「出来上がるのは、社内の意思決定を支える判断台帳、事実の根拠をたどれる出典台帳、通常とは異なるケースをまとめた例外記録、そして情報が陳腐化した際に再び収集ステップを起動するための再調査条件です」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「この手順をあらかじめ定めておくことで、自動化されたプロセスが途切れることなく機能し続けます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「そのため、人が情報源となる一次資料にアクセスし、事実と合致しているかを見極めるステップを調査記録に組み込みます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「このように、前提となる情報の提示から、AIによる探索と集約、そして最終的な証拠・例外・権限のチェックに至るまでの実務の手順を一つのつながりとして残します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「まず、前回作成した比較表や自社の企画書を前提となる資料としてどのようにシステムへ提示したかという手順を記録します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「このように、前提条件の提示、AIによる処理の実行、生成されたデータ、そして人が介入した検証のステップをひとつの流れとして記録しておくことで、四半期ごとの見直しが容易になります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「まず、届けたい成果物と現在の作業手順を確認し、実際の仕事をAIで試します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「その結果をもとに、工程の統合や並列化、ツール連携、結果の検証と修正の手順を組み込みます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「実行回数や費用の上限、人の判断を待つ条件、途中の状態を保存して再開する方法も含めて設計し、実務で動作を確かめます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「新規事業テーマ探索の手順｜AIで回す3-6-12週間ロードマップ」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「新規事業テーマ探索の手順を、3週間マクロ発散→6週間フォーカス絞り込み→12週間ゴー/ノーゴー判断のロードマップで整理します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「AIヒアリングで集めた現場の回答を事業仮説の検証へつなぐ方法」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+- 突き合わせ・推定：
+  - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
+  - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
+  - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ | DeskrexAIリサーチ」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「前工程で固定した判断課題と完了条件を満たすには、実際の調査プロセスを「収集」「検証」「統合」「更新」という4つの工程に分割し、前の作業から得られた成果を次の判断材料として滞りなく渡していく必要があります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「ここでは人間が例外的な情報や出典の確からしさを承認し、検証済みの事実だけを次へ送ります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「前工程で得られたAIの出力結果は、そのまま自動で実務の意思決定へと渡すのではなく、必ず人が介入して検証する仕組みを経由させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「モデルを用いた検証でも、タスクによっては3.1〜19.1%のハルシネーション（事実に基づかない出力）が実測」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「前工程で人が検証と承認を終えた事実を、途切れることなく次の判断へ渡すためには、作業の段階に合わせて適切なツールと手法を選択し、つなぎ合わせる必要があります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「を用いて検証済みの事実だけを抽出したりと、目的に応じたガイドを選びます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「最後に、検証を通過した確かな事実だけを、」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「そのため、人が情報源の確からしさをたどり、例外的な条件を補足し、機密情報の取り扱いが適切であったかを検証したプロセスを、調査の完了条件として台帳に書き留めます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「このように、前提条件の提示、AIによる処理の実行、生成されたデータ、そして人が介入した検証のステップをひとつの流れとして記録しておくことで、四半期ごとの見直しが容易になります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「監査のタイミングでこの記録を振り返り、「AIの抽出精度にブレが生じていないか」「人が検証する負担が増加していないか」「新たな手法へ置き換えるべき工程はないか」を評価し、調査の設計図を最新の状態へ更新します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「前工程の成果と検証の記録を次の判断へ渡し続けることで、担当者の力量に依存しない、再現可能な自動化の仕組みが自社に根付きます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+- 一次情報の探し方：
+  - 「さらに、その情報を採用するかどうかの採否、利用における権限、次に見直すべき更新期限を判断します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「現場の状況や一次情報に基づく例外事象を人が補足し、調査結果へ反映させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「また、観点マトリクスを30秒・構造化レポートを10分で自動生成する機能があり、出典付きのレポートをMarkdown/PDF形式でエクスポートできます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「化学特許AIツール6選｜構造式・マーカッシュ対応の使い分け」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「化学のR&Dで使う特許AIツール6選を構造式画像認識・マーカッシュ検索・自然言語AI・FTOの4軸で比較」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「CAS SciFinder・Reaxys・Patsnap Eureka・Derwent・Patentfield AIR・IPRallyの使い分けと、三井化学1万件PDFエージェント事例、職種別早」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「It was 2022, my third year running outbound for a B2B team. I had 200 private companies to tier by size. No filings. No earnings call. Just names and websites. So I eyeballed one mid-market firm into the “small” bucket and pitched them our starter package.」（https://cufinder.io/blog/find-private-company-revenue/）
+  - 「You can’t pull the exact annual revenue of a private company from a filing, because private firms don’t file one. But you can estimate it well by combining headcount, funding, and industry benchmarks, then confirming against a data provider. The more signals agree, the tighter your number.」（https://cufinder.io/blog/find-private-company-revenue/）
+  - 「Yes, for many businesses. Public companies post exact revenue in their filings, and data providers carry estimated revenue for millions of private firms. A free lookup gets you a ballpark, while a paid enrichment tool gets you a researched figure across a whole list.」（https://cufinder.io/blog/find-private-company-revenue/）
+  - 「SEC EDGAR (sec.gov/edgar) for public company filings」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+- 失敗・落とし穴：
+  - 「社内資料を接続するときの注意点は何ですか？」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「重大な仕様変更や取得失敗があれば定期日を待たず見直します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+- 実例：
+  - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
+  - 「毎週、生成AIに関するビジネス活用の事例をお届けしています」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
+  - 「デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「このように、事前に判断課題と条件を固定することで、誰が依頼しても同じ品質の調査結果が得られる土台が完成します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「完成した調査結果を一度きりで終わらせるのではなく、台帳へ記録する際に次回の見直し期限や再調査の条件を合わせて定めます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「AIは与えられた文脈をもとにウェブ上の情報を探索し、候補の収集や分類、比較表の初稿作成、過去の調査結果との差分抽出といった作業を実行します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「出来上がるのは、社内の意思決定を支える判断台帳、事実の根拠をたどれる出典台帳、通常とは異なるケースをまとめた例外記録、そして情報が陳腐化した際に再び収集ステップを起動するための再調査条件です」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「前工程で得られたAIの出力結果は、そのまま自動で実務の意思決定へと渡すのではなく、必ず人が介入して検証する仕組みを経由させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「されており、引用元のURLが実在しない捏造であるケースも一定割合で発生します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「AIは収集可能なWeb上の情報を平準化してまとめますが、特定の顧客にのみ適用されている非公開の条件や、期間限定のキャンペーンといった通常とは異なるケースまでは完全に捉えきれません」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「現場の状況や一次情報に基づく例外事象を人が補足し、調査結果へ反映させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「このとき、単に複数のツールを場当たり的に使うのではなく、何を前提となるデータとして渡し、どのように処理を実行させ、どのような結果を受け取り、最終的に人間がどこを確かめるのかという一連の流れを記録しながら進行します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「問いが明確になったら、その結果を次の二次情報収集ツールへ引き継ぎます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「などへ検索の指示を渡し、ウェブ上の膨大なページから関連する情報を探し出させ、引用元のリンクが添えられた初期レポートの形で結果を引き出します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「その結果をもとに、工程の統合や並列化、ツール連携、結果の検証と修正の手順を組み込みます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+
+## 代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率）（entity resolution survivorship rules precision recall human review）
+- 文脈：同一性
+- 手順・やり方：
+  - 「Entity Resolution for Enterprise Data: How It Works, Where It Fails, and How to Choose the Right Tool」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「Deduplication is often one step within entity resolution. Deduplication generally identifies duplicate records within a dataset, whereas entity resolution can connect related records across multiple sources and determine which records collectively represent the same real-world entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「What Is an Entity Resolution Framework?」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「An entity resolution framework is the end-to-end process used to identify which records refer to the same real-world entity. It defines how data is prepared, how potential matches are generated and evaluated, how related records are grouped, and how uncertain decisions are reviewed and monitored.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「A complete enterprise entity resolution framework generally includes the following stages:」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「Candidate records are compared across relevant attributes. Different fields may require different comparison methods.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「The right approach depends on the entity type, data quality, available identifiers, acceptable error rates, and the consequences of an incorrect decision. Exact or deterministic methods may be sufficient for clean data with dependable identifiers, while inconsistent and incomplete enterprise data generally requires a hybrid approach.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「No single customer identifier is shared across all three systems, and the organization name, address, and email address differ between the records. An entity resolution framework could process them as follows:」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「Entity resolution tools offer significant advantages over traditional manual or rule-based ER methods. These include:」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「How to Measure Entity Resolution Quality」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「How to Choose the Right Entity Resolution Software」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「No. Some implementations only identify and group records belonging to the same entity while preserving every source record. Creating a golden record is a separate canonicalization step that applies survivorship rules to select the preferred values for the resolved entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「What Are Entity Graphs and How to Build One You Can Trust」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「The precision/recall/F-score framework above is the stable, vendor-neutral way to score matching quality. What has sharpened since 2026 is how teams turn those scores into an operational」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「how to evaluate entity resolution systems (Binette et al., 2024)」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+- 突き合わせ・推定：
+  - 「techniques to compare attributes and estimate whether records belong to the same entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「Assigns weights to agreements and disagreements across multiple attributes to estimate whether records refer to the same entity. It is useful when no single reliable identifier is available.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「For records with incomplete or inconsistent data, use similarity scoring, fuzzy algorithms, or ML models to estimate match likelihood.」（https://www.rudderstack.com/blog/what-is-entity-resolution/）
+- 一次情報の探し方：
+  - 「2. Data Profiling and Standardization」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「Matching records across heterogeneous datasets (e.g., SQL and NoSQL databases, spreadsheets, PDFs) can be exceptionally difficult due to different types of entities, encoding, formatting, languages, and schemas. Converting all this different type of data into a pre-defined schema through schema-matching and data exchange is a risky process and can result in the loss of valuable information.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「2. Scalable Data Profiling and Cleansing」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「3. Linking and profiling」（https://www.rudderstack.com/blog/what-is-entity-resolution/）
+- 実例：
+  - 「For example, a CRM may contain a customer named “Maria Hernandez,” while a billing system records the same person as “M. Hernández.” Their names are not identical, but similarities across their address, email, telephone number, and other attributes may provide enough evidence to link the records to the same customer.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「For example, one system may use “Customer Name,” another “Account Holder,” and a third separate the same information into first-name and last-name fields.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「The appropriate thresholds depend on the consequences of false positives and false negatives for the use case.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「Combines several techniques—for example, exact rules for reliable identifiers, fuzzy comparison for names, and probabilistic scoring across the complete record.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「Regardless of technique, match quality should be evaluated using representative labelled records. Teams should examine precision, recall, false positives, false negatives, and the number of uncertain cases requiring human review rather than relying on a single vendor-provided accuracy percentage.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「Worked Example: Resolving Customer Records Across Enterprise Systems」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「contact@alpinemedical.example」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「accounts@alpinemedical.example」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「support@alpinemedical.example」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「This example illustrates why entity resolution is broader than simply deleting duplicate rows. The process evaluates evidence across systems, groups related records, preserves source lineage, and creates a usable representation of the underlying entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「Adapt ER rules for different business use cases (e.g., customer data deduplication vs. fraud detection).」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「In most cases, time is critical for ER projects, especially in the case of」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「Entity Resolution Use Cases」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「A single accuracy percentage can be misleading because most possible record pairs are non-matches. Evaluation should therefore include false positives, false negatives, the percentage of cases requiring human review and the quality of complete entity clusters—not only individual record pairs.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+
+## 情報機関の手法を企業調査に（代理観測・倫理の線・裁判記録）（everprogress note）（intelligence tradecraft applied to business research alternative data proxy observation ethics）
+- 文脈：分析の型
+- 手順・やり方：
+  - 「公的記録で企業情報を確認する方法 — 商業登記・裁判記録・官報の読み方」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「登記簿・判決検索・官報といった公的記録を使って、ネット上の企業情報を自分で裏取りする方法を、手順と限界の両面から整理しました」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「その作業の中で、商業登記や裁判記録の取り寄せは定型業務だった」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「本記事では、誰でもアクセスできる主要な公的記録の使い方を、料金や画面遷移のレベルまで具体的に整理し、最後に公的記録では分からない領域についても触れておく」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「商業登記簿は、法人の基本情報——商号、本店所在地、目的、資本金、公告方法、役員などを、法令に基づいて記録した公的な記録だ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「読者向けには、上から順に①会社名、②本店、③事業目的、④公告方法、⑤株式と資本金の基本設計、⑥役員履歴、という順番で読むと迷わない」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「2026年5月時点の登記情報提供サービスは、利用方法が2系統に整理されている」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「いずれの利用方法でも、EMV 3-Dセキュア登録済みのクレジットカードが必要だ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「実際にこの方法で買取大吉と株式会社エンパワーの2社の商業登記を取り寄せ、両社の関係を独立検証した事例として」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「いずれも、第三者が同じ手順で登記を取れば再現できる検証だ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「公的記録を使って企業の実態を確認する具体的な手順は、私の著書」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「企業の裏取りで実務上よく使うのは、まず民事・刑事・行政という事件の性質を頭で分けたうえで、画面上は統合検索または行政事件タブを使い分ける、というやり方だ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「判決文の具体的な読み解き例として、「反社」「反社会的勢力」のようなレッテル型の表現について最高裁が真実相当性の基準を示した、最判平成9年9月9日（夕刊フジ・ロス疑惑事件）の活用例を、別記事」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「「『反社』表現の最高裁判例と4階層フレーム」」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「判決理由のどこに着目すれば、現代のネット告発の検証に橋を架けられるかを、フレームごとに示している」（https://shiraberu-note.com/public-records-corporate-verification/）
+- 突き合わせ・推定：
+  - 「登記簿・判決検索・官報といった公的記録を使って、ネット上の企業情報を自分で裏取りする方法を、手順と限界の両面から整理しました」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「危機管理と情報検証の実務で、情報の真偽を判定する作業に長く関わってきた」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「その経験から断言できるのは、ネット上に流通する企業情報の多くは、調査会社に頼まなくても、公的記録を読めば一般読者が自分で裏取りできるということだ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「商業登記・裁判記録・官報がその代表で、ネット上の主張を一次情報で裏取りする際の中核になる」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「ただし、企業の裏取りで実際に使う記録の多くは、いちいち情報公開請求を出さなくても、法定の公示制度として最初から閲覧可能になっている」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「役員の就任日・退任日と本店所在地の履歴を時系列で追うことが、登記簿を企業情報の裏取りに使う基本になる」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「なお、「履歴事項全部証明書」は現在事項に加えて過去の変更履歴も追えるので、企業の裏取りには「現在事項証明書」よりこちらを取り寄せた方がよい」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「「本店所在地＝営業実態の所在地」と短絡しないことが、裏取り記事では重要だ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「実際にこの方法で買取大吉と株式会社エンパワーの2社の商業登記を取り寄せ、両社の関係を独立検証した事例として」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「同じ手法で、アクセスジャーナルが報じた株式会社エンパワーをめぐる9つの個別主張を項目別に登記と照合した事例として」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「いずれも、第三者が同じ手順で登記を取れば再現できる検証だ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「企業の裏取りで実務上よく使うのは、まず民事・刑事・行政という事件の性質を頭で分けたうえで、画面上は統合検索または行政事件タブを使い分ける、というやり方だ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「判決理由のどこに着目すれば、現代のネット告発の検証に橋を架けられるかを、フレームごとに示している」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「公的記録は強力な裏取り手段だが、設計上の限界がある」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「公的記録を使えば、ネット上に流通している企業情報の多くは、第三者が独立に裏取りできる」（https://shiraberu-note.com/public-records-corporate-verification/）
+- 一次情報の探し方：
+  - 「公的記録で企業情報を確認する方法 — 商業登記・裁判記録・官報の読み方」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「登記簿・判決検索・官報といった公的記録を使って、ネット上の企業情報を自分で裏取りする方法を、手順と限界の両面から整理しました」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「その作業の中で、商業登記や裁判記録の取り寄せは定型業務だった」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「その経験から断言できるのは、ネット上に流通する企業情報の多くは、調査会社に頼まなくても、公的記録を読めば一般読者が自分で裏取りできるということだ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「本記事では、誰でもアクセスできる主要な公的記録の使い方を、料金や画面遷移のレベルまで具体的に整理し、最後に公的記録では分からない領域についても触れておく」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「公的記録を読む技術は、専門家でなくても身につけられる」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「ただし、公的記録に書かれていない事実は「存在しない」のではなく「公的記録には載らない種類の情報」であることが多い、という制度上の特徴も併せて意識しておきたい」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「公的記録とは何か — 誰でも独立して確認できる一次情報」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「商業登記簿の読み方 — 役員・本店所在地・履歴」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「官報の読み方 — 公告から企業の動きを読む」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「公的記録の限界 — 公開情報で「分からないこと」」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「公的記録とは、法令に基づいて国や公的機関が作成・保有・公示する記録のことだ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「商業登記・裁判記録・官報がその代表で、ネット上の主張を一次情報で裏取りする際の中核になる」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「制度の枠組みとしては、公文書管理法が公的文書の作成・整理・保存の統一ルールを定め、情報公開法が行政機関の保有する文書に対する開示請求制度を定めている」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「商業登記、裁判記録、官報、国税庁の法人番号公表サイトがそれにあたる」（https://shiraberu-note.com/public-records-corporate-verification/）
+- 失敗・落とし穴：
+  - 「検索を使うときの最大の注意点は、収録範囲だ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「注意点として、2025年3月15日にサービスの提供内容が変更されており、旧A・B・Cコース（日付検索のみ1,672円、日付＋記事検索2,200円など）は同年3月31日に終了している」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「「公的記録に載っていない」という事実を、その主張が事実ではないことの証明として使うのは、論理的には誤りだ」（https://shiraberu-note.com/public-records-corporate-verification/）
+- 実例：
+  - 「実際にこの方法で買取大吉と株式会社エンパワーの2社の商業登記を取り寄せ、両社の関係を独立検証した事例として」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「同じ手法で、アクセスジャーナルが報じた株式会社エンパワーをめぐる9つの個別主張を項目別に登記と照合した事例として」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「第3章でも、実務で取り扱った企業案件の事例とあわせて詳しく解説している」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「したがって、「登記簿に株主が出ていない」のは隠蔽ではなく、制度上の分離の結果だ」（https://shiraberu-note.com/public-records-corporate-verification/）
+
+## 非上場の売上を複数の信号で挟む（Inven・CUFinder）（private company revenue estimate multiple signals top-down bottom-up conservative）
+- 文脈：推定
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）

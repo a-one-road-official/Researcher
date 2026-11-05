@@ -1,0 +1,390 @@
+{
+ "name": "広島・岡山労働局 職業別有効求人倍率（生産工程・技術者）",
+ "en": "Hiroshima Okayama labor bureau job openings ratio by occupation production",
+ "aliases": [
+  "広島労働局 職業別 有効求人倍率 生産工程",
+  "岡山労働局 職業別 求人倍率 技術者 site:mhlw.go.jp",
+  "愛媛労働局 職業別 有効求人倍率 製造"
+ ],
+ "context": "②採用難",
+ "kind": "market",
+ "researched_at": "2026-11-05T04:31:22.801770+00:00",
+ "evidence": {
+  "採用難（公的統計）": [
+   {
+    "quote": "〇 有効求人倍率（季節調整値） 1.36 倍 （全国10位／中国地方２位）",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002715278.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・就業地別有効求人倍率（同） 1.30 倍 前月より0.01ポイント低下",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002715278.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・正社員有効求人倍率（原数値） 1.13 倍 前年同月より0.05ポイント低下",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002715278.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇 新規求人倍率（同） 2.43 倍 （",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002715278.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５ 公共職業安定所別有効求人倍率（受理地別・原数値）",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002715278.pdf",
+    "pass": 3
+   }
+  ],
+  "採用にいくら払うか": [
+   {
+    "quote": "（注）１ 数値目標は令和８年度における年間目標値で、実績は当月までの累計である",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002715278.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１ 数値目標は令和７年度における年間目標値で、実績は２か月後の集計となるため、前月又は前々月までの累計の割合となる",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002715278.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "有効求人倍率": [
+   {
+    "value": "1.36",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002715278.pdf",
+    "quote": "〇 有効求人倍率（季節調整値） 1.36 倍 （全国10位／中国地方２位）"
+   },
+   {
+    "value": "1.30",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002715278.pdf",
+    "quote": "・就業地別有効求人倍率（同） 1.30 倍 前月より0.01ポイント低下"
+   },
+   {
+    "value": "1.13",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002715278.pdf",
+    "quote": "・正社員有効求人倍率（原数値） 1.13 倍 前年同月より0.05ポイント低下"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/jirei_toukei/shokugyou_shoukai/chingin_info.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/article/1964588",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okayama-keikyo.jp/archives/2823",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.okayama.jp/kurashi/0000010081.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tghd.co.jp/media-download/326/29ab87a5a943d758/PDF/",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000143877.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://service.gakujo.ne.jp/jinji-library/saiyo/00042/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002715278.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/okayama-roudoukyoku/jirei_toukei/kyujin_kyushoku/_2308_00017.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002835748.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sanyonews.jp/article/1946774",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/jirei_toukei/shokugyou_shoukai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/114-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hwiroha.com/area/Okayama/Okayama.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topics.smt.docomo.ne.jp/article/ksb/region/ksb-17011699",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hitokuru.atimes.co.jp/list/521",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/114-1d.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&query=有効求人倍率",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://hitokuru.atimes.co.jp/list/274",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rs-hiroshima.net/staffblog/hiroshima_260731.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "広島・岡山労働局 職業別有効求人倍率（生産工程・技術者）",
+   "results": [
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/jirei_toukei/shokugyou_shoukai/chingin_info.html",
+    "https://www.sanyonews.jp/article/1964588",
+    "https://www.okayama-keikyo.jp/archives/2823",
+    "https://www.city.okayama.jp/kurashi/0000010081.html",
+    "https://www.youtube.com/watch?v=thJ6NiZnWbs",
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://www.hwiroha.com/area/Okayama/Okayama.html",
+    "https://hitokuru.atimes.co.jp/list/521",
+    "https://ldesign-reform.com/2026/11/05/okayama-job-offers-ratio-september-2026/"
+   ]
+  },
+  {
+   "query": "広島・岡山労働局 職業別有効求人倍率（生産工程・技術者） 調査 PDF",
+   "results": [
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/jirei_toukei/shokugyou_shoukai/chingin_info.html",
+    "https://www.okayama-keikyo.jp/archives/2823",
+    "https://www.sanyonews.jp/article/1964588",
+    "https://www.city.okayama.jp/kurashi/0000010081.html",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://tghd.co.jp/media-download/326/29ab87a5a943d758/PDF/",
+    "https://www.soumu.go.jp/main_content/000143877.pdf",
+    "https://service.gakujo.ne.jp/jinji-library/saiyo/00042/"
+   ]
+  },
+  {
+   "query": "広島・岡山労働局 職業別有効求人倍率（生産工程・技術者） 厚生労働省",
+   "results": [
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/jirei_toukei/shokugyou_shoukai/chingin_info.html",
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002715278.pdf",
+    "https://jsite.mhlw.go.jp/okayama-roudoukyoku/jirei_toukei/kyujin_kyushoku/_2308_00017.html",
+    "https://www.okayama-keikyo.jp/archives/2823",
+    "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002835748.pdf",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://www.sanyonews.jp/article/1946774",
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/jirei_toukei/shokugyou_shoukai.html",
+    "https://service.gakujo.ne.jp/jinji-library/saiyo/00042/",
+    "https://www.mhlw.go.jp/toukei/list/114-1.html"
+   ]
+  },
+  {
+   "query": "広島・岡山労働局 職業別有効求人倍率（生産工程・技術者） 規模別 万円",
+   "results": [
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/jirei_toukei/shokugyou_shoukai/chingin_info.html",
+    "https://www.sanyonews.jp/article/1964588",
+    "https://www.city.okayama.jp/kurashi/0000010081.html",
+    "https://www.okayama-keikyo.jp/archives/2823",
+    "https://www.youtube.com/watch?v=thJ6NiZnWbs",
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "https://www.hwiroha.com/area/Okayama/Okayama.html",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://topics.smt.docomo.ne.jp/article/ksb/region/ksb-17011699",
+    "https://hitokuru.atimes.co.jp/list/521"
+   ]
+  },
+  {
+   "query": "広島・岡山労働局 職業別有効求人倍率（生産工程・技術者） 製造業 事例",
+   "results": [
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/jirei_toukei/shokugyou_shoukai/chingin_info.html",
+    "https://www.sanyonews.jp/article/1964588",
+    "https://www.youtube.com/watch?v=cUWzhJCsXKs",
+    "https://www.okayama-keikyo.jp/archives/2823",
+    "https://www.city.okayama.jp/kurashi/0000010081.html",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/77/"
+   ]
+  },
+  {
+   "query": "広島・岡山労働局 職業別有効求人倍率（生産工程・技術者） 2025 OR 2026",
+   "results": [
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/jirei_toukei/shokugyou_shoukai/chingin_info.html",
+    "https://www.youtube.com/watch?v=4CSKTjZAC7M",
+    "https://rs-hiroshima.net/staffblog/hiroshima_260731.html",
+    "https://www.city.okayama.jp/kurashi/0000010081.html",
+    "https://www.sanyonews.jp/article/1964588",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://www.okayama-keikyo.jp/archives/2823",
+    "https://service.gakujo.ne.jp/jinji-library/saiyo/00042/"
+   ]
+  },
+  {
+   "query": "site:note.com 広島・岡山労働局 職業別有効求人倍率（生産工程・技術者）",
+   "results": [
+    "https://note.com/leadstar/n/na54b0254fc05",
+    "https://note.com/xoperation/n/n93109494872d",
+    "https://note.com/deep_think_ai/n/n0846c080aad1",
+    "https://note.com/powerpoint_jp/n/n19840a713886",
+    "https://note.com/medley/n/n8f005b4887af",
+    "https://note.com/atom_/n/nd0275e85a343",
+    "https://note.com/loyal_ivy9071/n/n9f8ac4bd7d24",
+    "https://note.com/haradaiko1/n/nee30d9a777cc",
+    "https://note.com/ocaml/n/nb4d8473484bb",
+    "https://note.com/kyo8095/n/n95b88b1bae49"
+   ]
+  },
+  {
+   "query": "site:x.com 広島・岡山労働局 職業別有効求人倍率（生産工程・技術者）",
+   "results": [
+    "https://x.com/mhlw_okayama",
+    "https://jf.x.com/images/media-preview/2106182365018308879",
+    "https://x.com/MHLW_Okayama/status/2105809991475032441",
+    "https://x.com/i/trending/2079145432018559004",
+    "https://x.com/indbgraphreport/status/2038957947339100420",
+    "https://x.com/i/trending/2079500433479933988",
+    "https://x.com/indbgraphreport/status/2105818342489817272"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 広島・岡山労働局 職業別有効求人倍率（生産工程・技術者）",
+   "results": [
+    "https://jp.linkedin.com/",
+    "https://www.linkedin.com/in/gabrielakaynor",
+    "https://www.linkedin.com/in/maggie-gauger-2176674",
+    "https://in.linkedin.com/in/virat-kohli-444085220",
+    "https://uk.linkedin.com/in/faris-mckinnon-57938350",
+    "https://au.linkedin.com/in/rheeley",
+    "https://jp.linkedin.com/posts/pasona-business_2026年4月最新版採用市場はどう動いた転職動向と求人倍率を業界職種別に解説-activity-7452555538288263168-9KXU"
+   ]
+  },
+  {
+   "query": "site:facebook.com 広島・岡山労働局 職業別有効求人倍率（生産工程・技術者）",
+   "results": [
+    "https://www.facebook.com/100010001958931/",
+    "https://www.facebook.com/people/広島県商工労働局-産業人材課/100076456611712/",
+    "https://www.facebook.com/y.workokayama/",
+    "https://www.facebook.com/photo.php/?fbid=1058764129603528",
+    "https://www.facebook.com/gohiroshima/",
+    "https://www.facebook.com/tsunaguhatarakikata/photos/2025年12月実績労働市場データ-2026年2月httpstsuna-kencomresearch_report202512_report-121月下旬に公表/1327293219417283/",
+    "https://www.facebook.com/kazunori.kawanabe.9/videos/第39回失業率24-何が見える失業率と就業者数求人倍率は何を表す-比較の基準を整理します総務省統計局-労働力調査-2026年10月30日公表httpswwwst/1123965923926239/"
+   ]
+  },
+  {
+   "query": "広島・岡山労働局 職業別有効求人倍率（生産工程・技術者） note 社長",
+   "results": [
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/jirei_toukei/shokugyou_shoukai/chingin_info.html",
+    "https://note.com/leadstar/n/ned2e83831c5b",
+    "https://www.sanyonews.jp/article/1964588",
+    "https://www.youtube.com/watch?v=7pjCAQZcFkU",
+    "https://note.fa-japan.jp/n/n45c7379e49b4",
+    "https://www.nikkei.com/article/DGXMZO47965310Q9A730C1LC0000/",
+    "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "https://www.pacola.co.jp/n2025112810/",
+    "https://www.youtube.com/watch?v=Yfl_JkQSzlo",
+    "https://www.city.okayama.jp/kurashi/0000010081.html"
+   ]
+  },
+  {
+   "query": "広島・岡山労働局 職業別有効求人倍率（生産工程・技術者） X 投稿",
+   "results": [
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/jirei_toukei/shokugyou_shoukai/chingin_info.html",
+    "https://x.com/MHLW_Okayama",
+    "https://www.okayama-keikyo.jp/archives/2823",
+    "https://www.sanyonews.jp/article/1964588",
+    "https://www.youtube.com/watch?v=7pjCAQZcFkU",
+    "https://www.city.okayama.jp/kurashi/0000010081.html",
+    "https://www.youtube.com/watch?v=4CSKTjZAC7M",
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/jirei_toukei/shokugyou_shoukai.html",
+    "https://www.mhlw.go.jp/toukei/list/114-1d.html"
+   ]
+  },
+  {
+   "query": "Hiroshima Okayama labor bureau job openings ratio by occupation production site:linkedin.com",
+   "results": [
+    "https://jp.linkedin.com/in/driptadutta",
+    "https://uk.linkedin.com/in/lena-pratt-b2b56bb",
+    "https://jp.linkedin.com/in/hikaru-oba-837670300",
+    "https://uk.linkedin.com/in/daniella-rahimzadeh-7003461b",
+    "https://au.linkedin.com/in/carlito-baltazar-tabelin-phd-3ab80145",
+    "https://jp.linkedin.com/in/masahide-amada-44358122",
+    "https://jp.linkedin.com/in/tezuka-masako-9b8316113",
+    "https://jp.linkedin.com/in/toyomu-masaki-39192b62",
+    "https://id.linkedin.com/in/regina-citra-pesela",
+    "https://jp.linkedin.com/in/faruq-ahmad-58022b1b9"
+   ]
+  }
+ ],
+ "missing": {
+  "社数（規模別）": "記載なし（読んだ24頁・検索13回）",
+  "採用広報・採用サイトの単価": "記載なし（読んだ24頁・検索13回）",
+  "継続して払うか": "記載なし（読んだ24頁・検索13回）",
+  "作る側の原価": "記載なし（読んだ24頁・検索13回）",
+  "どう買われるか": "記載なし（読んだ24頁・検索13回）",
+  "営業と採用のどちらに困っているか": "記載なし（読んだ24頁・検索13回）",
+  "前例の会社（製造業特化）": "記載なし（読んだ24頁・検索13回）"
+ }
+}

@@ -1,0 +1,555 @@
+{
+ "name": "コスモ情報システム",
+ "aliases": [],
+ "context": "岡山県玉野市／出典:県・市の企業ガイド／求人媒体:Indeed;doda／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T04:47:48.798692+00:00",
+ "official_url": "https://www.cosmo-info.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "Japan 〒",
+    "url": "https://www.cosmo-info.co.jp/recruit/entry/",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒706-0153 岡山県玉野市滝1463番地",
+    "url": "https://www.cosmo-info.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "岡山県玉野市槌ケ原",
+    "url": "https://www.cosmo-info.co.jp/about/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　小泉 金吾",
+    "url": "https://www.cosmo-info.co.jp/about/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1988年(昭和63年)4月1日",
+    "url": "https://www.cosmo-info.co.jp/about/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1,000万円",
+    "url": "https://www.cosmo-info.co.jp/about/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "48名(2025年1月1日現在)",
+    "url": "https://www.cosmo-info.co.jp/about/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "電子応用機器、機械・コンピュータシステムの設計、開発、製造、販売、保守 ソフトウェア開発事業 ハードウェア開発事業(電子回路技術者、マイコン制御回路の設計、製作) 人材派遣・職業紹介",
+    "url": "https://www.cosmo-info.co.jp/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "人手不足の発言": [
+   {
+    "quote": "＼若手もベテランも活躍できる！／ 株式会社コスモ情報システムは、 技術と実行力で信頼されるIT企業で",
+    "url": "https://www.cosmo-info.co.jp/",
+    "pass": 1
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "下記エントリーフォームよりご応募ください!",
+    "url": "https://www.cosmo-info.co.jp/recruit/apply/",
+    "pass": 1
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "月給25万円～40万円（※経験・能力により考慮します",
+    "url": "https://www.cosmo-info.co.jp/recruit/apply/",
+    "pass": 1
+   },
+   {
+    "quote": "各種社会保険完備、交通費支給（月2万円まで）、退職金制度、制服貸与",
+    "url": "https://www.cosmo-info.co.jp/recruit/apply/",
+    "pass": 1
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://www.cosmo-info.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "大学卒 24万円以上 ／ 大学院卒 27万円以上",
+    "url": "https://www.cosmo-i.co.jp/recruit/graduate",
+    "pass": 3
+   },
+   {
+    "quote": "昇給：年1回（4月）",
+    "url": "https://www.cosmo-i.co.jp/recruit/graduate",
+    "pass": 3
+   },
+   {
+    "quote": "賞与：年2回（7月、12月）",
+    "url": "https://www.cosmo-i.co.jp/recruit/graduate",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社コスモ情報システム の 日本 での給与 | Indeed (インディー... — 株式会社コスモ情報システムの平均年収は、約346万円 (プログラマー) 〜490万円 (SE・PG) です。 株式会社コスモ情報システムの平均月給の範囲は約 22.6万円／月（ソフト開発）から約 37.7万円／月（回路設計）です。",
+    "url": "https://jp.indeed.com/cmp/株式会社コスモ情報システム/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 コスモ情報システム の 日本 での給与 | Indeed (インディー... — 日本での株式会社 コスモ情報システムの平均給与 Indeed に掲載された求人と、この企業の従業員から寄せられた株式会社 コスモ情報システムの給与情報を参照する。 給与情報は、Indeed にこれまでに掲載された4件の求人に基いた推定値です。",
+    "url": "https://jp.indeed.com/cmp/株式会社-コスモ情報システム/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社コスモ情報システムの中途採用の転職・求人情報｜転職エージ... — 株式会社コスモ情報システムの求人情報一覧ページ。 職種や勤務地での詳細の絞り込み検索ができます。 また、「年収」「年間休日120日以上」「在宅ワーク/リモート勤務可能」など、企業・職種の特色が一目でわかります。",
+    "url": "https://mynavi-agent.jp/corpdetail/27207/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社コスモ情報システムの転職・求人・中途採用情報|マイナビ転職 — 「株式会社コスモ情報システム」の転職・求人・中途採用情報ページです。株式会社コスモ情報システムで募集中の求人情報（2件)を掲載しています。マイナビ転職の企業別求人情報一覧ページでは、関連する業種・職種の企業の求人情報なども探せます。",
+    "url": "https://tenshoku.mynavi.jp/company/260942/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "コスモ情報システムの年収・給与体系・待遇の魅力 — 【本選考一次 コスモ情報システムの年収に関する情報です。 職種別の初任給や年収、賞与、昇給に関するクチコミなど、気になる待遇面を詳しく掲載しています。 将来のキャリアパスやライフプランを考えるための企業研究にご活用ください。",
+    "url": "https://www.onecareer.jp/companies/57241/salary",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 | 株式会社コスモ情報システム採用情報｜コスモ情報システム - cosmo-info.co.jpエントリーフォーム｜コスモ情報システム新卒採用情報 | コスモシステム株式会社 採用サイトコスモシステム - cosmo-sys.co.jp(株)コスモシステムの新卒採用・会社概要 | マイナビ2027採用情報 – 株式会社コスモシステム | 株式会社コスモシステム — 株式会社コスモ情報システムは、ITコンサルティング、システム開発、ERP、CRM、ネットワーク、セキュリティ等、トータルソリューションを提供し、ITでお客様のビジネスに新しい付加価値を創造します。 制御系の開発では量産品ではなく、一品物の開発を主体としており、特殊な艦船の内部で動作する機器やシステムの開発に携わっています。 機械の制御に興味がある方 電子回路の製作が得意な方 常に新しい技術に挑戦したい方 お電話でのお問",
+    "url": "https://www.cosmo-i.co.jp/recruit/graduate",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報｜コスモ情報システム - cosmo-info.co.jp — 制御系の開発では量産品ではなく、一品物の開発を主体としており、特殊な艦船の内部で動作する機器やシステムの開発に携わっています。 機械の制御に興味がある方 電子回路の製作が得意な方 常に新しい技術に挑戦したい方",
+    "url": "https://www.cosmo-info.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "エントリーフォーム｜コスモ情報システム — お電話でのお問い合わせ 086-477-8328 【受付時間】8:30～17:30 （土日、祝祭日、年末年始、GW等および弊社定休日を除く） 採用担当:青山 英世 ... プライバシーポリシーはこちら",
+    "url": "https://www.cosmo-info.co.jp/recruit/entry/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "岡山県の主要なインターネット附随サービス業関連企業一覧 Jun 7, 2025 · 株式会社コスモ情報システム ｜ 岡山県玉野市滝1463番地 エムアンドシーシステム株式会社 ｜ 岡山県倉敷市沖255番地11 株式会社アリオンシステム ｜ 岡山県岡山市北区柳町2丁目4－23プレジデント山忠ビル9階",
+    "url": "https://note.com/clipcorporation/n/na25fb36116a4",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "有限会社雅堂 ｜ 岡山県津山市川崎１９３番地の７",
+    "url": "https://note.com/clipcorporation/n/na25fb36116a4",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社西日本地研 ｜ 岡山県津山市川崎１８５番地",
+    "url": "https://note.com/clipcorporation/n/na25fb36116a4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "岡山県の主要なインターネット附随サービス業関連企業一覧｜企業クリップ",
+    "url": "https://note.com/clipcorporation/n/na25fb36116a4",
+    "pass": 3
+   },
+   {
+    "quote": "岡山県の主要なインターネット附随サービス業関連企業一覧",
+    "url": "https://note.com/clipcorporation/n/na25fb36116a4",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信業の特色や代表企業｜成長が期待されるネット企業情報通信業の特色や代表企業｜成長が期待されるネット企業 - 企業クリップ",
+    "url": "https://note.com/clipcorporation/n/na25fb36116a4",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信業は、電波や回線、放送、インターネット関連業務、新聞、出版などで構成され、現代社会において不可欠な、情報の生成、収",
+    "url": "https://note.com/clipcorporation/n/na25fb36116a4",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社システムサポート ｜ 岡山県岡山市南区福富東２丁目９番９－３号",
+    "url": "https://note.com/clipcorporation/n/na25fb36116a4",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ウィルウェーブ ｜ 岡山県岡山市北区芳賀５３０３",
+    "url": "https://note.com/clipcorporation/n/na25fb36116a4",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社インターネット倉敷 ｜ 岡山県倉敷市粒江２４２５番地",
+    "url": "https://note.com/clipcorporation/n/na25fb36116a4",
+    "pass": 3
+   },
+   {
+    "quote": "晴れの国ネット株式会社 ｜ 岡山県岡山市北区中山下１丁目１０番１０号",
+    "url": "https://note.com/clipcorporation/n/na25fb36116a4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#コスモ情報システム\" - Results on X | Live Posts & Updates Results for \"#コスモ情報システム\" on X (Twitter). Find the latest posts, discussions, and updates about #コスモ情報システム. 3 results found.",
+    "url": "https://x.com/hashtag/コスモ情報システム",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社コスモ情報システム (@cosmo_info) / X 【製品情報追加】2軸モーター制御付きPICマイコン制御ユニット cosmo-info.co.jp/product/stcbjc… #PIC #マイコン @cosmo_info",
+    "url": "https://x.com/cosmo_info",
+    "pass": 3
+   },
+   {
+    "quote": "Twitterはじめました。#はじめてのツイート Twitterはじめました。#はじめてのツイート 株式会社コスモ情報システムcosmo_info May 5",
+    "url": "https://x.com/cosmo_info/status/728466971017154560",
+    "pass": 3
+   },
+   {
+    "quote": "2017夏季休業のお知らせ https://t.co/2f9qQpGByc @cosmo_info 株式会社コスモ情報システムcosmo_info Aug 2 2017夏季休業のお知らせ cosmo-info.co.jp/20170802-2/ @cosmo_info 💬0 🔄0 🤍1 0 📎",
+    "url": "https://x.com/cosmo_info/status/892943738049249280",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社コスモ情報システム (@cosmo_info) / X May 6, 2016 · 【製品情報追加】リハビリ支援装置 -株式会社コスモ情報システム cosmo-info.co.jp/product/rsjc-2… #リハビリ @cosmo_info",
+    "url": "https://x.com/cosmo_info",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "森田 徹郎 - 株式会社コスモ情報ｼｽﾃﾑ - 東京支店営業部長 | Linke...青山 ひでよ - 株式会社コスモ情報システム - 技術営業 | LinkedIn2 \"青山ひでよ\" profiles | LinkedIn20+ \"Hiroyuki Koyama\" profiles | LinkedInCaio Mariano - Enfermeiro Sênior - Especialista em Enfermagem ...Egidio Stasi - -- | LinkedInClaire Oatridge - Chief Executive Officer PHL Group | LinkedIn 株式会社コスモ情報ｼｽﾃﾑ - 東京支店営業部長 · 職歴: 株式会社コスモ情報ｼｽﾃﾑ · 場所: 東京 · LinkedInのつながり3人。 10億人のメンバーを擁するプロフェッ",
+    "url": "https://jp.linkedin.com/in/徹郎-森田-4a757999",
+    "pass": 3
+   },
+   {
+    "quote": "青山 ひでよ - 株式会社コスモ情報システム - 技術営業 | LinkedIn 株式会社コスモ情報システム - 技術営業 · 職歴: 株式会社コスモ情報システム · 場所: 岡山県。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで青山 ひでよさんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/ひでよ-青山-35a791302",
+    "pass": 3
+   },
+   {
+    "quote": "2 \"青山ひでよ\" profiles | LinkedIn 株式会社コスモ情報システム - 技術営業 Okayama, Japan 株式会社コスモ情報システム",
+    "url": "https://www.linkedin.com/pub/dir/ひでよ/青山",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "コスモ情報システム - Facebook コスモ情報システム",
+    "url": "https://www.facebook.com/コスモ情報システム-156885337669027/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社コスモ情報システム - Facebook 株式会社コスモ情報システム",
+    "url": "https://www.facebook.com/pages/株式会社コスモ情報システム/869522476437042/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.cosmo-info.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosmo-info.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosmo-info.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosmo-info.co.jp/recruit/comic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosmo-info.co.jp/recruit/movie/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosmo-info.co.jp/recruit/voice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosmo-info.co.jp/recruit/welfare/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosmo-info.co.jp/recruit/apply/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosmo-info.co.jp/recruit/entry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosmo-info.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosmo-info.co.jp/product/i-station-2-20-standard-edition/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosmo-info.co.jp/productcat/end/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.cosmo-info.co.jp/wp-content/themes/child/image/contents/recruit/comics/comic.pdf?202510",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cosmo-info.co.jp/wp-content/uploads/2025/08/IS_Catalogpdf1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cosmo-info.co.jp/wp-content/themes/child/image/contents/recruit/recruit_05_1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cosmo-info.co.jp/wp-content/themes/child/image/contents/recruit/apply/apply_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cosmo-info.co.jp/wp-content/themes/child/image/contents/home/recruit_05_1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%B9%E3%83%A2%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E3%82%B3%E3%82%B9%E3%83%A2%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mynavi-agent.jp/corpdetail/27207/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosmo-i.co.jp/recruit/graduate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clipcorporation/n/na25fb36116a4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/コスモ情報システム",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cosmo_info",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cosmo_info/status/728466971017154560",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cosmo_info/status/892943738049249280",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/徹郎-森田-4a757999",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/ひでよ-青山-35a791302",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pub/dir/ひでよ/青山",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/コスモ情報システム-156885337669027/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/株式会社コスモ情報システム/869522476437042/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cosmo_info",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/コスモ情報システム",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "コスモ情報システム 求人 年収",
+   "results": [
+    "https://jp.indeed.com/cmp/株式会社コスモ情報システム/salaries",
+    "https://jp.indeed.com/cmp/株式会社-コスモ情報システム/salaries",
+    "https://mynavi-agent.jp/corpdetail/27207/",
+    "https://tenshoku.mynavi.jp/company/260942/joblist/",
+    "https://www.onecareer.jp/companies/57241/salary",
+    "https://okaten.okajob.com/kyujin/83843",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00003640181/"
+   ]
+  },
+  {
+   "query": "コスモ情報システム 採用 新卒 高卒",
+   "results": [
+    "https://www.cosmo-i.co.jp/recruit/graduate",
+    "https://www.cosmo-info.co.jp/recruit/",
+    "https://www.cosmo-info.co.jp/recruit/entry/",
+    "https://www.cosmo-sys.co.jp/recruitment/recruit/graduate/",
+    "https://www.cosmo-sys.co.jp/saiyo/saiyo_top.html",
+    "https://job.mynavi.jp/27/pc/search/corp88677/outline.html",
+    "https://cosmosystem-web.com/recruit/"
+   ]
+  },
+  {
+   "query": "site:note.com コスモ情報システム",
+   "results": [
+    "https://note.com/clipcorporation/n/na25fb36116a4",
+    "https://note.com/mikketado/n/ncd3fb03b968e",
+    "https://note.com/carly_ip_edu/n/n1f70f5dbb953",
+    "https://note.com/daikidomon/n/n238268ba8967",
+    "https://note.com/secure_inc/n/nbb4d6eefa595",
+    "https://note.com/nemotaka/n/nbb3c3e41540e",
+    "https://note.com/cosmojapan/n/nc793618722f5"
+   ]
+  },
+  {
+   "query": "site:x.com コスモ情報システム",
+   "results": [
+    "https://x.com/hashtag/コスモ情報システム",
+    "https://x.com/cosmo_info",
+    "https://x.com/cosmo_info/status/728466971017154560",
+    "https://x.com/cosmo_info/status/892943738049249280",
+    "https://x.com/kanpo_blog/status/2111025904940167574",
+    "https://x.com/DrKarte/status/2113158242390225160",
+    "https://x.com/stock_unknown/status/2117144709332427097"
+   ]
+  },
+  {
+   "query": "site:linkedin.com コスモ情報システム",
+   "results": [
+    "https://jp.linkedin.com/in/徹郎-森田-4a757999",
+    "https://jp.linkedin.com/in/ひでよ-青山-35a791302",
+    "https://www.linkedin.com/pub/dir/ひでよ/青山",
+    "https://www.linkedin.com/pub/dir/hiroyuki/koyama",
+    "https://br.linkedin.com/in/caio-mariano-14014019b",
+    "https://it.linkedin.com/in/egidio-stasi-541411229",
+    "https://uk.linkedin.com/in/claire-oatridge-698a2a2b"
+   ]
+  },
+  {
+   "query": "site:facebook.com コスモ情報システム",
+   "results": [
+    "https://www.facebook.com/コスモ情報システム-156885337669027/",
+    "https://www.facebook.com/pages/株式会社コスモ情報システム/869522476437042/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/amostrim/",
+    "https://www.facebook.com/KosumoshisutemuZhuShiHuiShe/",
+    "https://www.facebook.com/p/株式会社コスモサイエンティフィックシステム-100066549277781/",
+    "https://www.facebook.com/profile.php/?id=61566841914379"
+   ]
+  },
+  {
+   "query": "コスモ情報システム note 社長",
+   "results": [
+    "https://www.cosmo-info.co.jp/about/",
+    "https://www.cosmo-info.co.jp/",
+    "https://review-dark.com/theme_detail?theme_id=692431",
+    "https://houjin.jp/c/9011001066665",
+    "https://openbizgraph.com/detail/306739",
+    "https://www.cosmo-sys.co.jp/news/news-1357/",
+    "https://www.cosmo-sys.co.jp/company/"
+   ]
+  },
+  {
+   "query": "コスモ情報システム X 投稿",
+   "results": [
+    "https://x.com/cosmo_info",
+    "https://x.com/hashtag/コスモ情報システム",
+    "https://www.instagram.com/p/DPS5SLik04O/",
+    "https://www.instagram.com/p/DSRW8xCk6AR/",
+    "https://www.cosmo-i.co.jp/",
+    "https://www.cosmo-info.co.jp/",
+    "https://rocket-boys.co.jp/security-measures-lab/tradeworks-iwai-cosmo-third-report-access-contro/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像5件／外部16頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像5件／外部16頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式12頁／PDF・画像5件／外部16頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式12頁／PDF・画像5件／外部16頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式12頁／PDF・画像5件／外部16頁・検索8回）"
+ }
+}

@@ -8,7 +8,7 @@
  ],
  "context": "能力",
  "kind": "market",
- "researched_at": "2026-11-05T00:00:25.623714+00:00",
+ "researched_at": "2026-11-05T04:45:18.766985+00:00",
  "evidence": {
   "実例": [
    {
@@ -114,14 +114,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Common Mistakes",
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "平均付加価値率は、業種によって大きく異なり、付加価値率は必ずしも企業の収益性と比例しませんが、付加価値率を高めることは収益性を向上させる方法の一つになります",
@@ -252,6 +244,14 @@
    {
     "quote": "Learn the difference between revenue and profit, the various methods of calculating each, and which metric matters most based on your business.",
     "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Common Mistakes",
+    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -287,152 +287,47 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
+    "url": "https://en.wikipedia.org/wiki/1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kanrisya_note/n/n21ec9ccea6e0",
+    "url": "https://simple.wikipedia.org/wiki/1_(number)",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kanri_prp/n/ne92c20cd0570",
+    "url": "https://ja.wikipedia.org/wiki/1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/aminderyota/n/n7fcc582f23e7",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/gangaraganchan/n/ne1db0ada5e58",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/rokkakuakio/n/n662cca1bfe79",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.layers.co.jp/solution/action/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/cloud_hr_bank/n/n256b095a5956",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://zaimani.com/financial-indicators/labor-productivity/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://slack.com/intl/ja-jp/blog/collaboration/how-to-measure-indicator-of-productivity",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://corp.miidas.jp/assessment/11118/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c022.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://canon.jp/biz/trend/bpo-27",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://tayori.com/blog/labor-productivity/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.ojt-s.jp/kaizenlibrary/seisansei/labor-productivity/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://takakuka.jp/column/organization/okok.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.persol-bd.co.jp/service/product/s-miteras/column/human_resources_productivity/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.motivation-cloud.com/hr2048/c489",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.r-agent.com/business/knowhow/article/9555/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://media.shouin.io/jinjiseisansei-keisan-jirei",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://biz.moneyforward.com/erp/basic/2625/",
+    "url": "https://www.wikiwand.com/en/1",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://salesnow.jp/insights/score/revenue-per-employee/",
+    "url": "https://www.newworldencyclopedia.org/entry/1_(number)",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
+    "url": "https://commons.wikimedia.org/wiki/1_(number)",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Employee.html",
+    "url": "https://math.fandom.com/wiki/1_(number)",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.definitions.net/definition/1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.hibob.com/financial-metrics/revenue-per-employee/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.benchmarkit.ai/saas-talk-1/revenue-per-employee",
+    "url": "https://www.reveliolabs.com/companies/foundation-software/employees",
     "status": "ok",
     "method": "http"
    }
@@ -441,462 +336,149 @@
  "search_log": [
   {
    "query": "1人あたり売上・労働生産性で会社の能力を比べる方法 site:note.com",
-   "results": [
-    "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "https://note.com/kanrisya_note/n/n21ec9ccea6e0",
-    "https://note.com/kanri_prp/n/ne92c20cd0570",
-    "https://note.com/aminderyota/n/n7fcc582f23e7",
-    "https://note.com/gangaraganchan/n/ne1db0ada5e58",
-    "https://note.com/rokkakuakio/n/n662cca1bfe79",
-    "https://note.com/r33biz/n/n01b28dd4d175",
-    "https://note.com/monozukuri_d_lab/n/n8767c384d74a",
-    "https://note.com/miraikyoso/n/nc396ca4c3047",
-    "https://note.com/mad2007takahashi/n/n7f646325e917"
-   ]
+   "results": []
   },
   {
    "query": "1人あたり売上・労働生産性で会社の能力を比べる方法 note",
    "results": [
-    "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
-    "https://www.layers.co.jp/solution/action/",
-    "https://note.com/cloud_hr_bank/n/n256b095a5956",
-    "https://zaimani.com/financial-indicators/labor-productivity/",
-    "https://slack.com/intl/ja-jp/blog/collaboration/how-to-measure-indicator-of-productivity",
-    "https://corp.miidas.jp/assessment/11118/",
-    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
-    "https://biz.moneyforward.com/erp/basic/2625/",
-    "https://note.com/dpopsgroup/n/n6ead1340b46d"
+    "https://en.wikipedia.org/wiki/1",
+    "https://simple.wikipedia.org/wiki/1_(number)",
+    "https://ja.wikipedia.org/wiki/1",
+    "https://www.wikiwand.com/en/1",
+    "https://www.newworldencyclopedia.org/entry/1_(number)",
+    "https://www.youtube.com/watch?v=LJMfmGU4VMY",
+    "https://commons.wikimedia.org/wiki/1_(number)",
+    "https://www.youtube.com/watch?v=jVeYnCehEFE",
+    "https://math.fandom.com/wiki/1_(number)",
+    "https://www.definitions.net/definition/1"
    ]
   },
   {
    "query": "1人あたり売上・労働生産性で会社の能力を比べる方法 やり方",
    "results": [
-    "https://www.hitachi-solutions.co.jp/wsi/column/c022.html",
-    "https://www.layers.co.jp/solution/action/",
-    "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
-    "https://slack.com/intl/ja-jp/blog/collaboration/how-to-measure-indicator-of-productivity",
-    "https://canon.jp/biz/trend/bpo-27",
-    "https://tayori.com/blog/labor-productivity/",
-    "https://www.ojt-s.jp/kaizenlibrary/seisansei/labor-productivity/",
-    "https://takakuka.jp/column/organization/okok.html",
-    "https://www.persol-bd.co.jp/service/product/s-miteras/column/human_resources_productivity/",
-    "https://keisan.navilly.com/tools/productivity.html"
+    "https://en.wikipedia.org/wiki/1",
+    "https://simple.wikipedia.org/wiki/1_(number)",
+    "https://ja.wikipedia.org/wiki/1",
+    "https://www.wikiwand.com/en/1",
+    "https://www.newworldencyclopedia.org/entry/1_(number)",
+    "https://www.youtube.com/watch?v=LJMfmGU4VMY",
+    "https://commons.wikimedia.org/wiki/1_(number)",
+    "https://www.youtube.com/watch?v=jVeYnCehEFE",
+    "https://math.fandom.com/wiki/1_(number)",
+    "https://www.definitions.net/definition/1"
    ]
   },
   {
    "query": "1人あたり売上・労働生産性で会社の能力を比べる方法 事例",
-   "results": [
-    "https://www.hitachi-solutions.co.jp/wsi/column/c022.html",
-    "https://www.layers.co.jp/solution/action/",
-    "https://www.motivation-cloud.com/hr2048/c489",
-    "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
-    "https://www.r-agent.com/business/knowhow/article/9555/",
-    "https://takakuka.jp/column/organization/okok.html",
-    "https://slack.com/intl/ja-jp/blog/collaboration/how-to-measure-indicator-of-productivity",
-    "https://media.shouin.io/jinjiseisansei-keisan-jirei",
-    "https://biz.moneyforward.com/erp/basic/2625/",
-    "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/"
-   ]
+   "results": []
   },
   {
    "query": "revenue per employee benchmark analysis",
    "results": [
-    "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
-    "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Employee.html",
-    "https://www.hibob.com/financial-metrics/revenue-per-employee/",
-    "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "https://www.venasolutions.com/blog/average-revenue-per-employee",
-    "https://www.benchmarkit.ai/saas-talk-1/revenue-per-employee",
-    "https://www.metrichq.org/finance/revenue-per-employee/",
-    "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "https://tractian.com/en/glossary/revenue-per-employee",
-    "https://www.companysights.com/resources/revenue-per-employee-a-key-benchmarking-metric-for-businesses"
+    "https://www.reveliolabs.com/companies/foundation-software/employees"
    ]
   },
   {
    "query": "site:note.com 1人あたり売上・労働生産性で会社の能力を比べる方法",
    "results": [
-    "https://note.com/tommy610/n/nd90eaf5baffd",
-    "https://note.com/masayuki_arai/n/n731a884f400f",
-    "https://note.com/ote_walk/n/n8c5ea5503c8f",
-    "https://note.com/rinchan_15/n/n80fcd8eaceca",
-    "https://note.com/ak_hikiyose/n/nf08aa578d306",
-    "https://note.com/decem_u/n/n836b72420237",
-    "https://note.com/newbizcreate_777/n/ncdb09e84038b",
-    "https://note.com/tera_socrates/n/nb5202c543447",
-    "https://note.com/iqoys/n/n1b2bd28bcf9a",
-    "https://note.com/cheeky_crab838/n/n8523064a11fc"
+    "https://en.wikipedia.org/wiki/1",
+    "https://simple.wikipedia.org/wiki/1_(number)",
+    "https://ja.wikipedia.org/wiki/1",
+    "https://commons.wikimedia.org/wiki/1_(number)",
+    "https://www.wikiwand.com/en/1",
+    "https://www.newworldencyclopedia.org/entry/1_(number)",
+    "https://www.youtube.com/watch?v=LJMfmGU4VMY",
+    "https://www.youtube.com/watch?v=jVeYnCehEFE",
+    "https://math.fandom.com/wiki/1_(number)",
+    "https://www.definitions.net/definition/1"
    ]
   },
   {
    "query": "site:x.com 1人あたり売上・労働生産性で会社の能力を比べる方法",
    "results": [
-    "https://x.com/coreline_japan/status/2022208498503942186",
-    "https://x.com/i/article/2095696677118333332",
-    "https://x.com/zakiryo1533/article/2065096178136682867",
-    "https://x.com/luigi_jpn/article/2094562625690755302",
-    "https://x.com/KagawaTomo/status/2110523688902873223",
-    "https://x.com/KagawaTomo/status/2115207581384011796",
-    "https://x.com/hrtech_/article/2074876792482205841",
-    "https://x.com/unikoukokun/status/2038507100599701783",
-    "https://x.com/unikoukokun/status/2039755013048954960",
-    "https://x.com/luigi_jpn/article/2058327743977369647"
+    "https://en.wikipedia.org/wiki/1",
+    "https://simple.wikipedia.org/wiki/1_(number)",
+    "https://ja.wikipedia.org/wiki/1",
+    "https://commons.wikimedia.org/wiki/1_(number)",
+    "https://www.wikiwand.com/en/1",
+    "https://www.newworldencyclopedia.org/entry/1_(number)",
+    "https://www.youtube.com/watch?v=LJMfmGU4VMY",
+    "https://www.youtube.com/watch?v=jVeYnCehEFE",
+    "https://math.fandom.com/wiki/1_(number)",
+    "https://www.definitions.net/definition/1"
    ]
   },
   {
    "query": "site:linkedin.com 1人あたり売上・労働生産性で会社の能力を比べる方法",
    "results": [
-    "https://jp.linkedin.com/pulse/march-18-2026-culture-credibility-architecture-jessica-gioglio-3z3vc?tl=ja",
-    "https://jp.linkedin.com/in/%E4%BA%AE%E4%BB%8B-%E9%95%B7%E4%B9%85-225205235",
-    "https://www.linkedin.com/showcase/realpacking-japan/",
-    "https://jp.linkedin.com/in/hidetoshitakano",
-    "https://jp.linkedin.com/in/isc-ceo",
-    "https://jp.linkedin.com/in/dmaeda-2147ba11a",
-    "https://za.linkedin.com/in/coach-koichi/ja",
-    "https://jp.linkedin.com/in/kaiseyuichi",
-    "https://jp.linkedin.com/in/kazuhiro-nomoto-24772237/ja",
-    "https://jp.linkedin.com/posts/%E6%9A%A2%E5%8F%B8-%E7%B2%95%E8%B0%B7-9063369a_%E9%87%8E%E6%9D%91%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%AE%E5%B9%B4%E5%8F%8E%E3%81%AF%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%ABse%E3%81%AE%E5%BD%B9%E8%81%B7%E5%88%A5%E7%B5%A6%E4%B8%8E%E3%81%A8%E5%B9%B4%E9%BD%A2%E5%88%A5%E3%81%AE%E5%B9%B4%E5%8F%8E%E6%8E%A8%E7%A7%BB%E9%AB%98%E7%B5%A6%E3%81%AE%E7%90%86%E7%94%B1%E3%82%92-activity-7091951755260825600-BUUJ"
+    "https://en.wikipedia.org/wiki/1",
+    "https://simple.wikipedia.org/wiki/1_(number)",
+    "https://ja.wikipedia.org/wiki/1",
+    "https://commons.wikimedia.org/wiki/1_(number)",
+    "https://www.wikiwand.com/en/1",
+    "https://www.newworldencyclopedia.org/entry/1_(number)",
+    "https://www.youtube.com/watch?v=LJMfmGU4VMY",
+    "https://www.youtube.com/watch?v=jVeYnCehEFE",
+    "https://math.fandom.com/wiki/1_(number)",
+    "https://www.definitions.net/definition/1"
    ]
   },
   {
    "query": "site:facebook.com 1人あたり売上・労働生産性で会社の能力を比べる方法",
    "results": [
-    "https://www.facebook.com/kiichiro.minami/posts/%E7%94%9F%E7%94%A3%E6%80%A7%E3%81%AE%E8%A9%B1%E3%82%92%E3%81%99%E3%82%8B%E3%81%AA%E3%82%89%E5%AE%9F%E9%9A%9B%E3%81%AE%E5%95%86%E5%A3%B2%E3%82%92%E8%80%83%E3%81%88%E3%81%A6%E3%81%BF%E3%82%8C%E3%81%B0%E3%81%84%E3%81%84%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC%E3%81%A7300%E5%86%86%E3%81%A7%E5%A3%B2%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%83%81%E3%82%A7%E3%82%B3%E8%A3%BD%E3%81%AE%E3%83%9C%E3%83%98%E3%83%9F%E3%82%A2%E3%83%B3%E3%83%AF%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%B9%E3%82%923000%E5%86%86%E3%81%A7%E5%A3%B2%E3%82%8B500%E5%86%86%E3%81%AE%E3%83%AF%E3%82%A4%E3%83%B3%E3%82%92%E5%A3%B2%E3%82%8B%E3%82%88%E3%82%8A50/39348168478160668/",
-    "https://www.facebook.com/bioforestation/",
-    "https://www.facebook.com/VUC2021/",
-    "https://www.facebook.com/pages/It%E3%83%97%E3%83%AD%E3%83%9E%E3%83%83%E3%83%81%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/987854894580882/",
-    "https://www.facebook.com/yosuke.naganawa/",
-    "https://www.facebook.com/61554216255590/posts/%E9%9B%BB%E6%B0%97%E4%BB%A3%E3%81%8C%E6%97%A5%E6%9C%AC%E4%B8%80%E9%AB%98%E3%81%84%E3%81%AE%E3%81%AF%E6%9D%B1%E4%BA%AC%E3%81%A7%E3%82%82%E5%A4%A7%E9%98%AA%E3%81%A7%E3%82%82%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E5%85%A8%E5%9B%BD47%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E3%81%AE%E5%B9%B4%E9%96%93%E9%9B%BB%E6%B0%97%E4%BB%A3%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B01%E4%BD%8D%E3%81%AF%E7%A6%8F%E4%BA%95%E7%9C%8C%E3%81%AE215694%E5%86%86%E6%9C%80%E4%B8%8B%E4%BD%8D%E3%81%AF%E5%85%B5%E5%BA%AB%E7%9C%8C%E3%81%AE115320%E5%86%86%E3%81%9D%E3%81%AE%E5%B7%AE%E5%B9%B4%E9%96%93%E3%81%AA%E3%82%93%E3%81%A8%E7%B4%84/122276952386140541/",
-    "https://www.facebook.com/100047671456712",
-    "https://www.facebook.com/keieisyajyuku/posts/あなたの会社の社員1人あたりの売上高は社員1人あたり年2000万円の売上を上げられる事業をした方がいいってアドバイスしていたコンサルタントがいたもう少し経営を勉/4933308890067726/",
-    "https://www.facebook.com/fudousan271/posts/日本一生産性の高い管理会社のつくりかた社員1人あたり生産性2500万円の超高収益企業の成功事例大公開2020年4月に緊急事態宣言が発令された直後10年遅れている/5223540794384852/",
-    "https://www.facebook.com/cuoreplanning.co.jp/photos/今期の方針生産性向上-方針例1-時間タイム-成果方針1人あたりの施術時間を最適化し回転率と満足度を両立する-施術プロセスの標準化シャンプーやカラーの手順を統一-/1269625554965574/"
+    "https://en.wikipedia.org/wiki/1",
+    "https://simple.wikipedia.org/wiki/1_(number)",
+    "https://ja.wikipedia.org/wiki/1",
+    "https://commons.wikimedia.org/wiki/1_(number)",
+    "https://www.wikiwand.com/en/1",
+    "https://www.newworldencyclopedia.org/entry/1_(number)",
+    "https://www.youtube.com/watch?v=LJMfmGU4VMY",
+    "https://www.youtube.com/watch?v=jVeYnCehEFE",
+    "https://math.fandom.com/wiki/1_(number)",
+    "https://www.definitions.net/definition/1"
    ]
   },
   {
    "query": "1人あたり売上・労働生産性で会社の能力を比べる方法 note 社長",
    "results": [
-    "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
-    "https://note.com/cloud_hr_bank/n/n256b095a5956",
-    "https://www.layers.co.jp/solution/action/",
-    "https://biz.moneyforward.com/erp/basic/2625/",
-    "https://slack.com/intl/ja-jp/blog/collaboration/how-to-measure-indicator-of-productivity",
-    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
-    "https://note.com/gangaraganchan/n/ne1db0ada5e58",
-    "https://corp.miidas.jp/assessment/11118/",
-    "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf",
-    "https://notepm.jp/blog/24039"
+    "https://en.wikipedia.org/wiki/1",
+    "https://simple.wikipedia.org/wiki/1_(number)",
+    "https://ja.wikipedia.org/wiki/1",
+    "https://www.wikiwand.com/en/1",
+    "https://www.newworldencyclopedia.org/entry/1_(number)",
+    "https://www.youtube.com/watch?v=LJMfmGU4VMY",
+    "https://commons.wikimedia.org/wiki/1_(number)",
+    "https://www.youtube.com/watch?v=jVeYnCehEFE",
+    "https://math.fandom.com/wiki/1_(number)",
+    "https://www.definitions.net/definition/1"
    ]
   },
   {
    "query": "1人あたり売上・労働生産性で会社の能力を比べる方法 X 投稿",
    "results": [
-    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
-    "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
-    "https://www.layers.co.jp/solution/action/",
-    "https://slack.com/intl/ja-jp/blog/collaboration/how-to-measure-indicator-of-productivity",
-    "https://www.ojt-s.jp/kaizenlibrary/seisansei/labor-productivity/",
-    "https://canon.jp/biz/trend/bpo-27",
-    "https://tayori.com/blog/labor-productivity/",
-    "https://www.jpc-net.jp/research/list/comparison.html",
-    "https://www.youtube.com/watch?v=WthpqgTvX2E",
-    "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/"
+    "https://en.wikipedia.org/wiki/1",
+    "https://simple.wikipedia.org/wiki/1_(number)",
+    "https://ja.wikipedia.org/wiki/1",
+    "https://www.wikiwand.com/en/1",
+    "https://www.newworldencyclopedia.org/entry/1_(number)",
+    "https://www.youtube.com/watch?v=LJMfmGU4VMY",
+    "https://commons.wikimedia.org/wiki/1_(number)",
+    "https://www.youtube.com/watch?v=jVeYnCehEFE",
+    "https://math.fandom.com/wiki/1_(number)",
+    "https://www.definitions.net/definition/1"
    ]
   },
   {
    "query": "revenue per employee benchmark analysis site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/top-content/retail-merchandising/retail-performance-metrics/revenue-per-employee-statistics/",
-    "https://www.linkedin.com/pulse/what-revenue-per-employee-how-can-i-use-grow-my-hancott-cgma-gysve",
-    "https://www.linkedin.com/pulse/how-healthy-your-pr-firm-understanding-revenue-per-chuck-tanowitz",
-    "https://www.linkedin.com/pulse/revenue-per-employee-lets-talk-numbers-strategy-bobby-kimani-wpnuf",
-    "https://www.linkedin.com/posts/ivanlandabaso_anthropic-generates-56m-revenue-per-employee-activity-7430865110384021504-b42v",
-    "https://www.linkedin.com/posts/uphoff-advisory-llc_%F0%9D%97%A5%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%82%F0%9D%97%B2-%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%97%B2%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%BC%F0%9D%98%86%F0%9D%97%B2%F0%9D%97%B2-%F0%9D%98%82-activity-7517983947734245376-PxQl",
-    "https://www.linkedin.com/pulse/global-cost-per-employee-benchmarks-delivery-models-ali-katkhada-fbmrf",
-    "https://www.linkedin.com/pulse/arr-per-employee-false-metric-ai-boom-nitish-shrivastava-dbonc",
-    "https://www.linkedin.com/pulse/four-real-world-employeerevenue-ratios-can-drive-your-glenn-perkins",
-    "https://www.linkedin.com/pulse/revenue-per-employee-benchmark-what-scaling-ceos-missing-oper-hand-gmuec"
+    "https://www.reveliolabs.com/companies/foundation-software/employees"
    ]
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ9頁・検索12回）"
  },
- "new_this_run": {
-  "実例": [
-   {
-    "quote": "例えば、最新鋭設備の導入により省力化を図った場合、従業員数が減った分だけ労働生産性が上がります",
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "限界利益は、企業の内部分析でも使われ、例えば、部門毎や商品毎、地域毎など、それぞれに限界利益率を求めることで簡単に利益分析（収益性の明確化）をすることができ、改善すべき点を洗い出すのに便利です",
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A common metric by which SaaS companies track their performance is annual recurring revenue (ARR) per employee. As was the case with the last post, the data and analysis below on ARR per employee comes from our 15th annual survey of more than 1,000 SaaS companies, which was completed in March.",
-    "url": "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The chart below shows the median ARR per employee broken down by company size. For example, the chart shows that companies with $1 million to $3 million in ARR have a median ARR per employee of $109,644.",
-    "url": "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The chart below shows the median ARR per employee broken down by company size and funding type, equity-backed or bootstrapped. For example, equity-backed companies with $5 million to $10 million in ARR have a median ARR per employee of $152,295. Meanwhile, bootstrapped companies of the same size show a median ARR per full-time equivalent (FTE) of $177,240.",
-    "url": "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, if a company earns $100,000 in revenue and has 10 full-time people, the RPE would be $10,000.",
-    "url": "https://www.hibob.com/financial-metrics/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, a sudden increase in RPE might look positive on the surface. But if the change stems from layoffs or high turnover, the story is very different. By digging into the “why” behind your RPE numbers, you can set thoughtful targets that evolve as your company grows.",
-    "url": "https://www.hibob.com/financial-metrics/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, if a company generates $1 million in total revenue during 2022 and has 100 full-time people, the",
-    "url": "https://www.hibob.com/financial-metrics/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example:",
-    "url": "https://www.hibob.com/financial-metrics/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Worked Example",
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "When RPE is falling, two root causes explain most cases. Headcount grew faster than revenue, meaning the organization hired ahead of actual demand. Or revenue declined while headcount held steady, meaning a retention or hiring freeze decision is already overdue. Each cause calls for a different response.",
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example:",
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, a software company pulling in $1.76 million per employee and a hospital averaging $8,700 are both running normal operations for their industry. One runs on code and licensing. The other runs on a large network of staff and overnight shifts. We may be looking at the same metric, but each has a completely different story.",
-    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Labor-intensive industries such as restaurants, general retail and hospitals cluster at the low end, with RPE figures below $35,000 in some cases, reflecting high headcount relative to revenue.",
-    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, a software company and a hospital can both be healthy, well-run businesses and show wildly different RPE figures. The U.S. total market average sits at $111,000 per employee, but that number masks enormous variation by industry.",
-    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Cross-industry comparisons also have limits. An industry’s structure shapes RPE as much as management quality does, which is why our previous example of comparing a hospital to a software company on this metric tells you very little of analytical value.",
-    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Use Cases",
-    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Common Mistakes",
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "平均付加価値率は、業種によって大きく異なり、付加価値率は必ずしも企業の収益性と比例しませんが、付加価値率を高めることは収益性を向上させる方法の一つになります",
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "付加価値の計算方法",
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "便宜的な方法",
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "給与や賞与が定期的に上昇し、付加価値とは関係なく決まる年功型給与・賞与は、企業の成長に大きな障害となっています",
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "〇企業内講師｜伴走型セミナー",
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What is revenue per employee & how to calculate | HiBob",
-    "url": "https://www.hibob.com/financial-metrics/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to calculate revenue per employee",
-    "url": "https://www.hibob.com/financial-metrics/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Projected revenue & how to calculate it in SaaS",
-    "url": "https://www.hibob.com/financial-metrics/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 1: Pull your revenue figure.",
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 2: Pull your employee count.",
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 3: Define who counts.",
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 4: Divide and interpret in context.",
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Adjusts employee count to reflect full-time equivalents, giving part-time workers fractional weight. More precise for organizations with variable workforce composition, and often the better choice when benchmarking against peers who use the same method.",
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Revenue figures may be finalized on a different cadence than headcount reporting. Document the sourcing method so period-over-period comparisons stay consistent.",
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For private SaaS companies specifically, SaaS Capital's 2025 survey of more than 1,000 firms found a median of $129,724 per FTE, up from $125,000 in the prior year. This is one of the few sector figures with a disclosed methodology and sample size.",
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to use these figures:",
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "RPE calculated using month-end headcount differs from RPE using average headcount for the period. Neither is wrong, but switching between them creates false trends. Document which method applies every time the number is reported.",
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Revenue per Employee by Industry: 2026 Benchmarks and How To Calculate Yours",
-    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How To Calculate Revenue per Employee",
-    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How To Measure Financial Efficiency: 10 Metrics To Track in 2026",
-    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Find the true cost of your workforce beyond salary. Learn how to calculate total employee expenses, including hidden costs like benefits, taxes and overhead.",
-    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Learn the difference between revenue and profit, the various methods of calculating each, and which metric matters most based on your business.",
-    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "備忘録#011｜中小企業庁統計による経営指標",
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業の決算書に「付加価値」という項目はありません",
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "営業利益 ＋ 人件費 ＋ 賃借料 ＋ 租税公課 ＋ 減価償却費 ＋ 知財特許料",
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "〇政府統計からオープンデータまで活用した経営判断指標の可視化",
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ]
- },
- "runs": 1,
+ "new_this_run": {},
+ "runs": 2,
  "first_researched_at": "2026-11-05T00:00:25.623714+00:00"
 }

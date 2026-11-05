@@ -1,0 +1,698 @@
+{
+ "name": "日本金属プレス工業協会 プレス加工 事業所数 従業者 出荷額 統計",
+ "en": "Japan Metal Stamping Association statistics establishments employees",
+ "aliases": [
+  "日本金属プレス工業協会 統計",
+  "金属プレス製品製造業 事業所数 従業者 工業統計",
+  "プレス加工 賃加工 1人当たり"
+ ],
+ "context": "団体・プレス",
+ "kind": "market",
+ "researched_at": "2026-11-05T04:41:16.542183+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "海外移転が進んでおり1、国内における事業所数、従業員数等金属プレス加",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ ２ 「金属素形材製品製造業」従業者規模別統計",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ ３ 金属プレス加工業の事業所数、従業員数の推移",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "3.4 万人から 9.3 万人（製造業の従業員総数に占める割合は 0.4～1.1％）、",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１事業所あたりの従業員数 10 人未満の事業所が全体の約 75％を占めると",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "海外移転が進んでおり1、国内における事業所数、従業員数等金属プレス加",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300～499人 9 3615 64812 29779 16961 28969 17.9 8.0 469.2",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "500～999人 6 3950 152268 76533 23820 62362 38.5 15.8 603.0",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ ３ 金属プレス加工業の事業所数、従業員数の推移",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１）コスト・人材",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "図表２．１－ ４ 需要部門別（単位：百万円）販売額（平成１６年）",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ ９ 家電製品の生産額推移",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ １０ 生産額に対する輸出比率の推移 図表２．１－ １１ 国内出荷額に対する輸入比率の推移",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金型費(～500 万円／台)と金型開発期間(15 日～１ヶ月)を圧縮する",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "して算出）は約 433 万円であったのに対し、金属プレス製品製造業（アルミニウム・同合金を除く）のそれは約 369 万",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円と約 64 万円（約 15％）の差があった",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "図表２．１－ ４ 需要部門別（単位：百万円）販売額（平成１６年）",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金型費(～500 万円／台)と金型開発期間(15 日～１ヶ月)を圧縮する",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "して算出）は約 433 万円であったのに対し、金属プレス製品製造業（アルミニウム・同合金を除く）のそれは約 369 万",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円と約 64 万円（約 15％）の差があった",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "図表２．１－ ３ 金属プレス加工業の事業所数、従業員数の推移",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "販売額推移をみると、近年の自動車産業の好 調さから、自動車向けは上",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "向いているものの、その他の用途向けはほぼ横ばいで推移している",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ ５ 需要部門別販売額推移",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ ６ 需要部門別販売額推移（除く自動車、その他）",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "昨今、川下産業側技術者の現場業務に携わる 機会・経験が減少傾向にあ",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、現場のことが分かる技術者が減少していると言 われている",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ ８ 自動車の生産台数推移",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ ９ 家電製品の生産額推移",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ １０ 生産額に対する輸出比率の推移 図表２．１－ １１ 国内出荷額に対する輸入比率の推移",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ １２ 家電製品の輸出額の推移 図表２．１－ １３ 家電製品の輸入額の推移",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "レス機械の台数削減、さらに成形のための搬送工程 も減少し、加工時間と",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "待され、 在来材料に加え、 プレコート材料、 樹脂複合鋼板の適用も増加し、",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "増加が見込まれるサービスロボット（清掃、警備、 介護等に使用されるロ",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る範囲で使い捨て製品が多く、今後も増加すると見 込まれている",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "載した使い捨てセンサーチップ形態が増加すると見 られ、人体に優しい高",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、ハイテン材やアルミ合金などの 難加工材の使用も増加しており、曲",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "短納期への対応としてトライ回数を減少 させるためにも、データベースを構築",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度（令和5年度）",
+    "url": "https://jmsa1964.com/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度（令和4年度）",
+    "url": "https://jmsa1964.com/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度（令和3年度）",
+    "url": "https://jmsa1964.com/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年度（令和2年度）",
+    "url": "https://jmsa1964.com/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年度（令和元年度）",
+    "url": "https://jmsa1964.com/finance/",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "経営面について原価構成比でみると、直接材 料費・外注工賃・直接労務",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外注工賃 9.6 16.8",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セット製品の高度化と同時に短納期化及び低 コスト化が進展してい",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "納期などに関する厳しい要求につながり、これらへ の対応如何が今後の金",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、ユーザー企業からのコスト、精度、納期などに 関する厳しい要求への",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対応及びユーザー企業の海外 生産の進展などから、「利益なき繁忙」「限ら",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "密機器等の高度化や低コスト化、短納期化の要求に 伴って、生産工程の高",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同 時に、常に「高精度化」、「短納期化」、「低コ",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "では短納期、低コスト化が一層求められ ていることから、できる限りの工程削",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー企業からのコスト、精度、納期 に対する厳しい要求に応え、同時に",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なり、短納期化が実現しやすくなる",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、 金属プレス加工業において人に依存する部分を減らすことで、 短納期・",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "短納期、低コスト化、高精度化が求めら れていることから、できる限り起こ",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "程シミュレーションを行うことが可能と なれば、より一層の短納期や低コスト",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現在、検査作業に時間・手間・コストが かかっており、短納期及び低コスト",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "短納期への対応としてトライ回数を減少 させるためにも、データベースを構築",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産活動全体を効率化することにより短 納期・低コスト化を図るために、設",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "短納期や低コストへの要求対応から、２ ４時間プレス加工を行い、プレス機",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/2008910news-toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osaka-ue.ac.jp/file/general/15272",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.yokkaichi.lg.jp/www/contents/1001000000245/simple/6-kougyou26.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jmsa1964.com/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sokeizai.or.jp/pages/58/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/9f75fac4-2a3d-4abb-b875-1202df7d7fd2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jmsa1964.com/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035163",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/pdf/2025gaiyo1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstor.org/stable/41842694",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bls.gov/opub/mlr/1986/05/art2full.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://j-fma.or.jp/en/overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanmetalstampingequipmentmarket.docs.apiary.io/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pma.org/industry-data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fred.stlouisfed.org/series/JPNPEFANA",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本金属プレス工業協会 プレス加工 事業所数 従業者 出荷額 統計",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf"
+   ]
+  },
+  {
+   "query": "日本金属プレス工業協会 プレス加工 事業所数 従業者 出荷額 統計 推移",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.osaka-ue.ac.jp/file/general/15272"
+   ]
+  },
+  {
+   "query": "日本金属プレス工業協会 プレス加工 事業所数 従業者 出荷額 統計 統計 PDF",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.city.yokkaichi.lg.jp/www/contents/1001000000245/simple/6-kougyou26.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://jmsa1964.com/finance/"
+   ]
+  },
+  {
+   "query": "日本金属プレス工業協会 プレス加工 事業所数 従業者 出荷額 統計 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.sokeizai.or.jp/pages/58/"
+   ]
+  },
+  {
+   "query": "日本金属プレス工業協会 プレス加工 事業所数 従業者 出荷額 統計 従業者規模別",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/9f75fac4-2a3d-4abb-b875-1202df7d7fd2",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://jmsa1964.com/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88/"
+   ]
+  },
+  {
+   "query": "日本金属プレス工業協会 プレス加工 事業所数 従業者 出荷額 統計 1人当たり 万円",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035163",
+    "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://jmsa1964.com/finance/",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2025gaiyo1.pdf"
+   ]
+  },
+  {
+   "query": "日本金属プレス工業協会 プレス加工 事業所数 従業者 出荷額 統計 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "https://jmsa1964.com/finance/",
+    "https://forwit.jp/column/die-and-mold/"
+   ]
+  },
+  {
+   "query": "Japan Metal Stamping Association statistics establishments employees Japan statistics",
+   "results": [
+    "https://www.jstor.org/stable/41842694",
+    "https://www.bls.gov/opub/mlr/1986/05/art2full.pdf",
+    "https://j-fma.or.jp/en/overview",
+    "https://japanmetalstampingequipmentmarket.docs.apiary.io/",
+    "https://www.pma.org/industry-data/",
+    "https://fred.stlouisfed.org/series/JPNPEFANA",
+    "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vLkCcAeo1HEq849sY3-_IdEDSonFJJ3WHx_4WxUQ4VfKk83pxMO",
+    "https://www.imarcgroup.com/japan-metal-fabrication-market",
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.reportsinsights.com/quants/research/metal-stamping-market/japan"
+   ]
+  },
+  {
+   "query": "site:note.com 日本金属プレス工業協会 プレス加工 事業所数 従業者 出荷額 統計",
+   "results": [
+    "https://note.com/3n7no_tech_pr/n/n3ea2e6b3cdf7",
+    "https://note.com/quiet_myrtle840/n/n17ce08b4c4be",
+    "https://note.com/nekota_toure/n/n3b4bbc55614a",
+    "https://note.com/mc_motto/n/nb46ccd0d5445",
+    "https://note.com/apako_news/n/nbb10051fed91",
+    "https://note.com/automationjp/n/nedc6c5889a1e",
+    "https://note.com/jack4manastalk/n/ncf970b24dd2b",
+    "https://note.com/scosco/n/n12c9dc391f30",
+    "https://note.com/makabe_takashi/n/n10bd363c59a6",
+    "https://note.com/apako_news/n/n66d49e138ce9"
+   ]
+  },
+  {
+   "query": "site:x.com 日本金属プレス工業協会 プレス加工 事業所数 従業者 出荷額 統計",
+   "results": [
+    "https://x.com/hashtag/金属プレス加工",
+    "https://jf.x.com/images/media-preview/2113204274486555111",
+    "https://jf.x.com/images/media-preview/2106168043399532897",
+    "https://x.com/intermold_jp/status/2035884748388945984",
+    "https://x.com/intermold_jp/status/2039549381775446212",
+    "https://x.com/intermold_jp/status/2047184270750625947",
+    "https://x.com/intermold_jp/status/2049303151757717532"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 日本金属プレス工業協会 プレス加工 事業所数 従業者 出荷額 統計",
+   "results": [
+    "https://jp.linkedin.com/in/日本金属プレス工業協会-一般社団法人-b1396636a",
+    "https://jp.linkedin.com/in/manabu-barada-a819b5288",
+    "https://www.linkedin.com/%",
+    "https://www.linkedin.com/login/employer",
+    "https://uk.linkedin.com/in/zandile-khumalo-tshuma-49350721",
+    "https://uk.linkedin.com/in/katarina-strupinska-89b3a7b",
+    "https://za.linkedin.com/in/muziwandile-qiniso-luthuli-mphil-9b401b135"
+   ]
+  },
+  {
+   "query": "site:facebook.com 日本金属プレス工業協会 プレス加工 事業所数 従業者 出荷額 統計",
+   "results": [
+    "https://www.facebook.com/pages/It%E3%83%97%E3%83%AD%E3%83%9E%E3%83%83%E3%83%81%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/987854894580882/",
+    "https://www.facebook.com/JMSAnews/",
+    "https://www.facebook.com/hashtag/日本金属プレス工業協会/",
+    "https://www.facebook.com/INTERMOLD/photos/プレス加工メーカー過去最大数参加予定金属プレス加工技術展2023東京展-日本金属プレス工業協会ブースへご参加予定の企業をご紹介します過去最大級約50社参加予定日/666078258645605/",
+    "https://www.facebook.com/INTERMOLD/posts/一社日本金属プレス工業協会-特別講演自動車づくりの大変革期におけるプレス部品づくりの成長戦略技術力生産性向上ユーザーニーズへの適応力sp2-23-4月16日木1/1487972383122851/",
+    "https://www.facebook.com/kunokinzoku/posts/日本金属プレス工業協会誌newsletterに掲載されました5月27日機械振興会館にて日本金属プレス工業協会の第15回通常総会が開催されました総会に先立ち同協会/1804177300805862/",
+    "https://www.facebook.com/INTERMOLD/posts/一社日本金属プレス工業協会-特別講演自動車づくりの大変革期におけるプレス部品づくりの成長戦略技術力生産性向上ユーザーニーズへの適応力sp2-32-4月17日金1/1492637689322987/",
+    "https://www.facebook.com/kunokinzoku/posts/-掲載のお知らせ1月10日発行の業界紙金型しんぶんに日本金属プレス工業協会-会長を務める弊社社長のコメントが掲載されました年頭所感として業界を取り巻く現状や今後/1641581403732120/"
+   ]
+  },
+  {
+   "query": "日本金属プレス工業協会 プレス加工 事業所数 従業者 出荷額 統計 note 社長",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "https://jmsa1964.com/finance/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.tetras.uitec.jeed.go.jp/files/kankoubutu/a-130-2-03.pdf",
+    "https://kojomag.nikkan.co.jp/press/263"
+   ]
+  },
+  {
+   "query": "日本金属プレス工業協会 プレス加工 事業所数 従業者 出荷額 統計 X 投稿",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://jmsa1964.com/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.youtube.com/watch?v=wLNl-XXdm_o",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "https://forwit.jp/column/die-and-mold/"
+   ]
+  },
+  {
+   "query": "Japan Metal Stamping Association statistics establishments employees site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/associatedmetalformingtechnologies",
+    "https://www.linkedin.com/company/commercialmetalforming",
+    "https://www.linkedin.com/company/wiegelmfg",
+    "https://www.linkedin.com/in/peterulintz",
+    "https://www.linkedin.com/company/hatch-stamping-and-assembly",
+    "https://www.linkedin.com/company/ice-industries",
+    "https://www.linkedin.com/company/minnesota-precision-manufacturing-association",
+    "https://www.linkedin.com/company/batesville-tool-&-die-inc.",
+    "https://www.linkedin.com/company/aida-america",
+    "https://www.linkedin.com/company/sigma-engineered-solutions"
+   ]
+  }
+ ],
+ "missing": {
+  "生産能力・設備": "記載なし（読んだ30頁・検索15回）"
+ }
+}

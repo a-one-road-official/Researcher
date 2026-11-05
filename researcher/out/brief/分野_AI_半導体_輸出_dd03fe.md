@@ -211,78 +211,86 @@
   - ［記事］2026-11-04「AI Accelerator Chips Market Size, Share & Growth, 2026-2035 — AI Accelerator Chips Market Size, Share & Growth, 2026-2035 SNS Insider https://www.snsinsider.com > reports」https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899
   - ［SNS］2026-11-04「AI Accelerator Chip Market Outlook from 2026 to 2033 - LinkedIn — AI Accelerator Chip Market Outlook from 2026 to 2033 - LinkedIn LinkedIn https://www.linkedin.com > pulse > ai...」https://www.linkedin.com/pulse/ai-accelerator-chip-market-outlook-from-2026-2033-fznzf
 ### 日本→海外（輸出）｜バーティカルAI（vertical AI）
-- 取得：2026-11-04T01:25・調査1回目・読んだ頁67
-- 顧客（金を払う側）（60件）：
+- 取得：2026-11-05T04:43・調査2回目・読んだ頁78
+- 顧客（金を払う側）（71件）：
+  - ［一次］2026-11-05「・各産業ドメインにおけるAIロボット導入投資」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［一次］2026-11-05「・ハードとソフトの統合力に加えて、導入後の運用力が競争力を左」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［一次］2026-11-05「右するフィジカルAIは、工場等の現場データやノウハウ、高い品」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「①植物工場 ・・・p.279」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「（注１）官民投資額については、当該分野に見識のある学者、シンクタンク、企業関係者などにより構成される戦略17分野の各WGでの議論を踏まえ、「主要な製品・技」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-04「その上で官民投資ロードマップ案を前提として、原則、政府担当部局が主要企業や団」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-04「主要企業以外のプレイヤーが多い場合や、投資予定が明確にならない将」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-04「品・技術等」毎に、研究開発、実証、本格商品化、量産化といった発展ステージが、今後どの程度の時間軸で上がっていくかのシナリオによって、その関与度合」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-- 顧客の顧客（発注元が求めること）（41件）：
+- 顧客の顧客（発注元が求めること）（49件）：
+  - ［一次］2026-11-05「＊1 一定のセキュリティ基準に適合するIoT製品を認証する制度」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「し、重要なコンポーネントの開発・製造能力やOEM機能を強化」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「・AIロボットのOEMや重要コンポーネントの開発・製造機能」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「スタートアップからの発展を念頭に、多用途ロボットOEMの育成を推進」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「・ティーチングカスタマーやOEM等と協働し、工場、物流、小売、防災、介護、家庭、廃炉等への導入を念頭にモックアップ」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-04「性認証制度や安全規制の在り方をAISIと連携しながら検討」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-- 顧客の競合（奪いに来る側）（60件）：
+- 顧客の競合（奪いに来る側）（71件）：
+  - ［一次］2026-11-05「‐ 世界の自動車販売台数の約25％のシェア、」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［一次］2026-11-05「車両販売台数の約25％のシェアを獲得」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「並ぶ第三極として世界シェア3割超の獲得を通じて、2040年に」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「シェア約7割を有し、モーター、減速機等の主要コンポーネントでも高い競争力を持」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「一方、サービスロボット市場（約2.8兆円）での世界シェアは１割強にとどまる」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-04「 現状、我が国は、産業用ロボット市場で世界シェア約7割を有し、モーター、減速機、センサー、蓄電池等の主要部品でも高い」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-04「して、世界シェア3割超の獲得」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-- 自社の競合（商社・代理店・仲介）（58件）：
+- 自社の競合（商社・代理店・仲介）（75件）：
   - ［一次］2026-11-04「・近年、エージェント型AI(Agentic AI)の発展もあり、産業や行政でのAI利活用の」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「 エージェント型AI(Agentic AI)の社会実装やAIを軸とした経営改革（AX）の進展により、想定以上の付加価値の創出が期待されて」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「加えて、Agentic AIやグラフニューラルネットワークを最適に演算可能なプロセッサの技術開発を実」https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0015/handeji15-4.pdf
-  - ［記事］2026-11-04「・エージェント型AI(Agentic AI)の社会実装やAIを軸とした経営改革（AX）の進展により、想定以上の付加価値の創出が期待されている」https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html
-  - ［記事］2026-11-04「・近年、エージェント型AI(Agentic AI)の発展もあり、産業や行政でのAI利活用の機運が高まり、 AI投資で出遅れている我が国でもようやく市場の急成長が期待されている」https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html
-- 政治（法・予算・規制）（60件）：
+  - ［記事］2026-11-05「推論能力の高度化やマルチモーダル化、さらにはAI自身がコーディングを行う技術の実用化により、目的達成のために自ら計画・実行・検証・修正を繰り返す「自律行動型AI（Agentic AI）」が急速に伸長しています」https://newspicks.com/news/17011823/body/
+  - ［記事］2026-11-05「We recently commissioned multiple market research reports from IMARC, and the insights we received were invaluable. The depth of analysis, accuracy of data, and actionable recommendations have greatly enhanced our strate」https://www.imarcgroup.com/japan-generative-ai-market
+- 政治（法・予算・規制）（70件）：
+  - ［一次］2026-11-05「・戦略的重要性：製造業等の国内データホルダーにとって、産業競争力や経済安全保障に係」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［一次］2026-11-05「て、産業競争力や経済安全保障」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「②セキュリティの確保された政府・地方公共団体のAX/DX基盤 ・・・p.24」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「その上で官民投資ロードマップ案を前提として、原則、政府担当部局が主要企業や団」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「当該官民投資額は、官民投資ロードマップ策定後も、１）予算編成の過程を通じて、新たな発想や視点に基づく真に効果」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-04「また、フィジカルAIのサプライチェーンを国内で確保することは経済安全保障上の」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-04「性認証制度や安全規制の在り方をAISIと連携しながら検討」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-- 経済（規模・価格・為替）（60件）：
+- 経済（規模・価格・為替）（62件）：
   - ［一次］2026-11-04「（２）官民投資の具体像 ①投資内容、②投資額（注１）、③定量的インパクト：投資による経済波及効果（注２）」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「（注１）官民投資額については、当該分野に見識のある学者、シンクタンク、企業関係者などにより構成される戦略17分野の各WGでの議論を踏まえ、「主要な製品・技」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「当該官民投資額は、官民投資ロードマップ策定後も、１）予算編成の過程を通じて、新たな発想や視点に基づく真に効果」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「（注２）経済波及効果については、各「主要な製品・技術等」の官民投資額及び当該官民投資による生産増加額をインプットとして、産業連関分析を実施して算出」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「的には、産業連関表を用いて、（１）当該製品・技術等に係る最終需要額（投資額・生産額）の増加が、生産工程の川上産業（部品、部素材、原料といった関連」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-- 社会（人・担い手）（60件）：
-  - ［一次］2026-11-04「・構造的な人手不足を背景とする潜在的な導入需要を顕在化させ、」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-04「人手不足の解消・生産性向上により、産業競争力の強化」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-04「・戦略的重要性：フィジカルAI導入による省力化を通じ構造的人手不足の解決に貢献」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-04「検証・試験設備を活用しながら、ロボットを導入してデータ収集、検証、標準化、人材育成を同時に進める社会実装のハブ」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-04「となる環境を構築することで、世界から優秀な人材が集まるAIロボティクスのCenter of Excellenceやテストベットを創設」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-- 技術（新しい技術・実証）（60件）：
+- 社会（人・担い手）（73件）：
+  - ［一次］2026-11-05「設計開発支援を強化するとともに設計人材を育成」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［一次］2026-11-05「・人手不足に直面する我が国の供給力を維持し、力強い成長」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［一次］2026-11-05「ワーク、人材等への誘発効果、更にユーザー産業において、省人化のみならず、」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［一次］2026-11-05「ティカルAI導入、データや人材を含めたAI基盤投資」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［一次］2026-11-05「※先端人材、モデルやエージェント、オープンウェイトモデ」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+- 技術（新しい技術・実証）（81件）：
+  - ［一次］2026-11-05「・「AIロボティクス戦略」を踏まえ、特にAIロボットにおいては、」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［一次］2026-11-05「・ また、AIロボットに限らず、フィジカルAIは現実世界で作用す」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「（AI・半導体分野）」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「①フィジカルAI（特にAIロボット） ・・・p.4」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「③バーティカルAI（領域特化型AI） ・・・p.14」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-04「③AI時代に対応した先進的サイバーセキュリティ製品・サービス ・・・p.29」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-04「③次世代ワイヤレス」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-- SNS・note（X・検索結果の抜粋）（2件）：
-  - ［SNS］2026-11-04「CAIO＠StudyPocket on X: "教育領域の バーティカルAI 。7月10 ... CAIO＠StudyPocket on X: "教育領域の バーティカルAI 。7月10 ... X https://x.com > @mocchicc」https://x.com/mocchicc/status/2076643504722502136
-  - ［SNS］2026-11-04「Aki(本物)＠めもおきば on X: "「 バーティカルAI 領域別戦略 ... Aki(本物)＠めもおきば on X: "「 バーティカルAI 領域別戦略 ... X https://x.com > @nekoruri」https://x.com/nekoruri/status/2110618137544859862
-- SNS・note（LinkedIn・検索結果の抜粋）（4件）：
-  - ［SNS］2026-11-04「What Is Vertical AI (and Why It Actually Matters) | Trace Cohen What Is Vertical AI (and Why It Actually Matters) | Trace Cohen LinkedIn https://www.linkedin.com > posts > tr...」https://www.linkedin.com/posts/tracecohen_what-is-vertical-ai-and-why-it-actually-activity-7386424121263353856-Kam1
-  - ［SNS］2026-11-04「Vertical AI surpasses SaaS in industries like healthcare, legal ... Vertical AI surpasses SaaS in industries like healthcare, legal ... LinkedIn https://www.linkedin.com > posts > b...」https://www.linkedin.com/posts/bessemer-venture-partners_the-state-of-vertical-ai-activity-7367260176954920961-7Jdy
-  - ［SNS］2026-11-04「The rise of vertical AI agents — and the big opportunity for ... The rise of vertical AI agents — and the big opportunity for ... LinkedIn https://www.linkedin.com > pulse > ri...」https://www.linkedin.com/pulse/rise-vertical-ai-agents-big-opportunity-startups-geekwire-ibwsc
-  - ［SNS］2026-11-04「Vertical SaaS vs. Vertical AI : a distinction with a (key) difference Vertical SaaS vs. Vertical AI : a distinction with a (key) difference LinkedIn https://www.linkedin.com > pulse > v...」https://www.linkedin.com/pulse/vertical-saas-vs-ai-distinction-key-difference-andrew-oved-zb9wc
+- SNS・note（Facebook・検索結果の抜粋）（5件）：
+  - ［SNS］2026-11-05「バーティカルai領域別戦略 Profiles - Facebook View the profiles of people named バーティカルai領域別戦略. Join Facebook to connect with バーティカルai領域別戦略 and others you may know. Facebook gives people the power to...」https://www.facebook.com/public/バーティカルai領域別戦略/
+  - ［SNS］2026-11-05「ANDPAD（アンドパッド） - 【建設バーティカルAIと現場経験豊富なプロ... 【建設バーティカルAIと現場経験豊富なプロ人材が業務代行を行う「ANDPAD AI-BPOサービス」を提供開始 | 第1弾として、電気工事会社向けに拾い出しから見積までの積算業務に対応した積算AI-BPOサービスを提供開始】...」https://www.facebook.com/andpad/posts/建設バーティカルaiと現場経験豊富なプロ人材が業務代行を行うandpad-ai-bpoサービスを提供開始-第１弾として電気工事会社向けに拾い出しから見積までの積/1739760981489053/
+  - ［SNS］2026-11-05「デジタル社会推進本部 AI・web3PTを開催。議題は「バーティカルAI領域... 同時に、AI政策を力強く前進させるため、政府の司令 塔機能を抜本的に強化し、省庁の縦割りを越えて、政 策、予算、データ、計算資源、人材を一体的に動かす 体制を構築します。 「AIを使う国」から、「AIで社会を変え、新たな価値 を創る国」へ。」https://www.facebook.com/hiratakuchan/videos/vertical-ai/4454192671502881/
+  - ［SNS］2026-11-05「日刊工業新聞 - 政府のAI（人工知能）ロボティクスの成長戦略に、領域... May 27, 2026 · 政府のAI（人工知能）ロボティクスの成長戦略に、領域特化のバーティカル（垂直型）AIと、ロボットや産業機械を自律的に動かすフィジカルAIが盛り込まれる。 バーティカルAIで専門知識や現場ノウハウをAIが... #日刊工業新聞」https://www.facebook.com/nikkan.BusinessLine/posts/政府のａｉ人工知能ロボティクスの成長戦略に領域特化のバーティカル垂直型ａｉとロボットや産業機械を自律的に動かすフィジカルａｉが盛り込まれるバーティカルａｉで専門/1590737529723577/
+  - ［SNS］2026-11-04「建設 バーティカルAI と現場経験豊富なプロ人材が ... - Facebook 建設 バーティカルAI と現場経験豊富なプロ人材が ... - Facebook Facebook https://www.facebook.com > andpad > posts > 建設バー...」https://www.facebook.com/andpad/posts/%E5%BB%BA%E8%A8%AD%E3%83%90%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AB%E3%83%ABai%E3%81%A8%E7%8F%BE%E5%A0%B4%E7%B5%8C%E9%A8%93%E8%B1%8A%E5%AF%8C%E3%81%AA%E3%83%97%E3%83%AD%E4%BA%BA%E6%9D%90%E3%81%8C%E6%A5%AD%E5%8B%99%E4%BB%A3%E8%A1%8C%E3%82%92%E8%A1%8C%E3%81%86andpad-ai-bpo%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B-%E7%AC%AC%EF%BC%91%E5%BC%BE%E3%81%A8%E3%81%97%E3%81%A6%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E4%BC%9A%E7%A4%BE%E5%90%91%E3%81%91%E3%81%AB%E6%8B%BE%E3%81%84%E5%87%BA%E3%81%97%E3%81%8B%E3%82%89%E8%A6%8B%E7%A9%8D%E3%81%BE%E3%81%A7%E3%81%AE%E7%A9%8D/1739760981489053/
+- 検索結果の抜粋（16件）：
+  - ［一次］2026-11-05「社会実装から見る バーティカル AI の可能性 - 大和総研 — 社会実装から見る バーティカル AI の可能性 - 大和総研 大和総研 PDF https://www.dir.co.jp > japan > 20260930_026094」https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf
+  - ［一次］2026-11-04「バーティカルAI 領域別戦略 中間とりまとめ — バーティカルAI 領域別戦略 中間とりまとめ 内閣府ホームページ PDF https://www8.cao.go.jp > ai > ai_hq > shiryo2_2」https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf
+  - ［一次］2026-11-04「バーティカルAI 領域別戦略 中間とりまとめ案（概要） — バーティカルAI 領域別戦略 中間とりまとめ案（概要） 内閣官房 PDF https://www.cas.go.jp > axkaigi > dai1 > shiryo5-1」https://www.cas.go.jp/jp/seisaku/axkaigi/dai1/shiryo5-1.pdf
+  - ［記事］2026-11-05「業界特化型 AI市場 の 規模 とシェア、成長予測（2025〜2034年） — 業界特化型 AI市場 の 規模 とシェア、成長予測（2025〜2034年） Global Market Insights Inc. https://www.gminsights.com > vertical-ai-market」https://www.gminsights.com/ja/industry-analysis/vertical-ai-market
+  - ［記事］2026-11-05「Vertical AI Companies: Why Domain Expertise Wins (2026) — Vertical AI Companies: Why Domain Expertise Wins (2026) Charles River Ventures https://www.crv.com > content > verti...」https://www.crv.com/content/vertical-ai-companies
 - SNS・note（note・検索結果の抜粋）（3件）：
   - ［SNS］2026-11-04「汎用AIだけじゃ足りない？国が バーティカルAI に動いた理由 汎用AIだけじゃ足りない？国が バーティカルAI に動いた理由 note https://note.com > 科学・テクノロジー > AI・機械学習」https://note.com/mugimugi92/n/n97bd457851d3
   - ［SNS］2026-11-04「Vertical AI は「すべての会社が取り組む課題」？ - note Vertical AI は「すべての会社が取り組む課題」？ - note note https://note.com > ビジネス > 経営・マネジメント」https://note.com/muarata/n/n563662390fa8
   - ［SNS］2026-11-04「「 バーティカルAI × 暗黙知 × 実装力」で選ぶ - note 「 バーティカルAI × 暗黙知 × 実装力」で選ぶ - note note https://note.com > 投資・マネー > 投資・マネー全般」https://note.com/144292/n/nb9690ab333a5
-- SNS・note（Facebook・検索結果の抜粋）（1件）：
-  - ［SNS］2026-11-04「建設 バーティカルAI と現場経験豊富なプロ人材が ... - Facebook 建設 バーティカルAI と現場経験豊富なプロ人材が ... - Facebook Facebook https://www.facebook.com > andpad > posts > 建設バー...」https://www.facebook.com/andpad/posts/%E5%BB%BA%E8%A8%AD%E3%83%90%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AB%E3%83%ABai%E3%81%A8%E7%8F%BE%E5%A0%B4%E7%B5%8C%E9%A8%93%E8%B1%8A%E5%AF%8C%E3%81%AA%E3%83%97%E3%83%AD%E4%BA%BA%E6%9D%90%E3%81%8C%E6%A5%AD%E5%8B%99%E4%BB%A3%E8%A1%8C%E3%82%92%E8%A1%8C%E3%81%86andpad-ai-bpo%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B-%E7%AC%AC%EF%BC%91%E5%BC%BE%E3%81%A8%E3%81%97%E3%81%A6%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E4%BC%9A%E7%A4%BE%E5%90%91%E3%81%91%E3%81%AB%E6%8B%BE%E3%81%84%E5%87%BA%E3%81%97%E3%81%8B%E3%82%89%E8%A6%8B%E7%A9%8D%E3%81%BE%E3%81%A7%E3%81%AE%E7%A9%8D/1739760981489053/
 - SNS・note（note・本文）（24件）：
   - ［SNS］2026-11-04「汎用AIだけじゃ足りない？国がバーティカルAIに動いた理由｜むぎ屋@生成AI×仕事」https://note.com/mugimugi92/n/n97bd457851d3
   - ［SNS］2026-11-04「汎用AIだけじゃ足りない？国がバーティカルAIに動いた理由」https://note.com/mugimugi92/n/n97bd457851d3
   - ［SNS］2026-11-04「こんむぎわ〜♪むぎ屋に来てくれてありがとうございます(´∀｀)」https://note.com/mugimugi92/n/n97bd457851d3
   - ［SNS］2026-11-04「実は最近、ちょっとゾッとしたニュースを見つけたんです。。。」https://note.com/mugimugi92/n/n97bd457851d3
   - ［SNS］2026-11-04「「ChatGPTとかClaude、使いこなせてるから大丈夫！」って思ってた私なんですが、日経クロステックの記事を読んで「あれ、私、次のフェーズに乗り遅れてる...？」って焦りが出てきちゃいました。」https://note.com/mugimugi92/n/n97bd457851d3
-- 検索結果の抜粋（13件）：
-  - ［一次］2026-11-04「バーティカルAI 領域別戦略 中間とりまとめ — バーティカルAI 領域別戦略 中間とりまとめ 内閣府ホームページ PDF https://www8.cao.go.jp > ai > ai_hq > shiryo2_2」https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf
-  - ［一次］2026-11-04「バーティカルAI 領域別戦略 中間とりまとめ案（概要） — バーティカルAI 領域別戦略 中間とりまとめ案（概要） 内閣官房 PDF https://www.cas.go.jp > axkaigi > dai1 > shiryo5-1」https://www.cas.go.jp/jp/seisaku/axkaigi/dai1/shiryo5-1.pdf
-  - ［記事］2026-11-04「バーティカルAI とは｜領域特化型AIで2030年に内外5兆円の ... — バーティカルAI とは｜領域特化型AIで2030年に内外5兆円の ... 日本DX地域創生応援団 https://digital-supporter.net > ... > (1) AI・半導体」https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html
-  - ［記事］2026-11-04「2026 年のVertical AI を3層で整理する - Qiita — 2026 年のVertical AI を3層で整理する - Qiita Qiita https://qiita.com > AIガバナンス」https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743
-  - ［記事］2026-11-04「領域特化の「 バーティカルAI 」、官民で2040年度までに23兆 ... — 領域特化の「 バーティカルAI 」、官民で2040年度までに23兆 ... 日経クロステック https://xtech.nikkei.com > 3分でわかる必修ワード IT」https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/
+- SNS・note（X・検索結果の抜粋）（8件）：
+  - ［SNS］2026-11-05「#バーティカルAI - Search / X See posts about #バーティカルAI on X. See what people are saying and join the conversation.」https://x.com/hashtag/バーティカルAI
+  - ［SNS］2026-11-05「ザイ・オンライン on X: "｢#バーティカルAI｣関連銘柄を紹介！ ChatG... 「バーティカルAI」関連銘柄について、アナリストの村瀬智一さんが解説。 政府は「AI基本計画」において、「バーティカルAI」を中核に、AIで社会全体を駆動する「AX（AIトランスフォーメーション）」を強力に推進するとしています。」https://x.com/zaionline/status/2077963752826392911
+  - ［SNS］2026-11-05「高市首相、バーティカルAIとフィジカルAIの開発推進を表明 日本政府は人工知能基本計画を改定し、米中主導の汎用AIではなく、製造業、医療、防災など17分野のバーティカルAIと物理世界で動くフィジカルAIを柱に据える。 「日本AX」をスローガンに官民投資を後押しし、人手不足解消や安全保障強化を目指す。」https://x.com/i/trending/2075427445662961989
+  - ［SNS］2026-11-05「バーティカルAI領域別戦略 中間とりまとめ【詳細資料】 https://t.co/... ️7月10日【第5回人工知能戦略本部】を開催 AIの活用や「人工知能基本計画」の改定案、業界特化型AI「バーティカルAI」に関する戦略 主な決定事項と戦略のポイント ・バーティカルAIの重点支援 ・フィジカルAIと開発基盤 ・信頼性確保と法整備 💬 1 🔄 0 🤍 2」https://x.com/extreme877/status/2076305803213144171
+  - ［SNS］2026-11-05「バーティカルAIは生き残れるかーLegalOn角田氏が語る、独自価値を作る... May 21, 2026 · そのうえで角田さんが整理してくれたのが、バーティカルAIが基盤モデルと共存しながら独自価値を出すための3つの要件でした。 ・専門領域における高い精度 ・深い知識との接続 ・業務オペレーションのカバー」https://x.com/productai_/article/2057601150543868194
+- SNS・note（LinkedIn・検索結果の抜粋）（11件）：
+  - ［SNS］2026-11-05「専門業務を支えるVertical AI（バーティカルAI）とは？汎用AIだけでは... 🆕【AI】ChatGPTを全社展開したのに成果が出ない？ 専門業務を支えるVertical AI（バーティカルAI）の必要性 「ChatGPTを全社展開したのに、現場の成果になかなかつながらない」 こうした悩みの背景には、汎用AIの構造的な限界があるのかもしれません。」https://jp.linkedin.com/posts/members-co--ltd_専門業務を支えるvertical-aiバーティカルaiとは汎用aiだけでは超-activity-7446798891208830976-Mw1E
+  - ［SNS］2026-11-05「バーティカルAIとは何か｜「IT予算ではなく人件費」を狙う領域特化型A... バーティカルAI（領域特化型AI）による日本復活を目指す 日本政府は2040年迄に強く豊かな日本列島を目指し、 370兆円の国内投資を行います その中の1丁目1番地がバーティカルAIへの投資です。」https://jp.linkedin.com/posts/志浩-竹下-379929273_バーティカルaiとは何かit予算ではなく人件費を狙う領域特化型aiの正体-activity-7498137052610387968-yjrF
+  - ［SNS］2026-11-05「The Vertical AI | LinkedIn TheVertical.ai is the AI-native Enterprise OS — unifying conversations, compliance, and outcomes. From AI voice and chat agents to audit, analytics, training, CRM, omnichannel engagement, and..」https://in.linkedin.com/company/theverticalai
+  - ［SNS］2026-11-05「The surge of vertical AI companies, the trends and the top ... Sep 17, 2025 · This is where the vertical AI trend emerges. Instead of selling a generic tool, these startups build bespoke solutions for a specific industry」https://www.linkedin.com/pulse/surge-vertical-ai-companies-trends-top-from-around-world-engman-xj3wf/
+  - ［SNS］2026-11-05「Understanding Horizontal and Vertical AI: What's the ... Jul 23, 2025 · In this article, we’ll break down the difference between horizontal and vertical AI, explore real-world examples, and look at how these models are s」https://www.linkedin.com/pulse/understanding-horizontal-vertical-ai-whats-difference-thilakaratne-jf84e

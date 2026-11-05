@@ -1,0 +1,881 @@
+{
+ "name": "都市環境整備",
+ "aliases": [],
+ "context": "広島県広島市／出典:大学・高専の企業説明会／求人媒体:Indeed;スタンバイ／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T04:33:13.926595+00:00",
+ "official_url": "https://www.mitani.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：1928年（昭和3年）2月11日",
+    "url": "https://www.mitani.co.jp/company/profile",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1949年（昭和24年）8月11日",
+    "url": "https://www.mitani.co.jp/company/profile",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "48億8百万円",
+    "url": "https://www.mitani.co.jp/company/profile",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　三谷　忠照",
+    "url": "https://www.mitani.co.jp/company/profile",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "連結売上高",
+    "value": "117,531百万円（2026年3月期）",
+    "url": "https://www.mitani.co.jp/company/profile",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "（連結） 3,569名 / （単体） 629名（2026年3月末時点）",
+    "url": "https://www.mitani.co.jp/company/profile",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "情報システム関連、樹脂・エレクトロニクス関連、化学品関連、空調設備工事関連、 住宅設備機器関連およびエネルギー関連事業",
+    "url": "https://www.mitani.co.jp/company/profile",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "日本とベトナムを拠点に、",
+    "url": "https://www.mitani.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、三谷産業グループは、多様な事業分野があり、オフィスビルにとどまらず、データセンターや工場など、規模や用途の異なるさまざまな建築設備を保有しています",
+    "url": "https://www.mitani.co.jp/business/ac",
+    "pass": 1
+   },
+   {
+    "quote": "商社として、特定のメーカーに偏らず、さまざまな取引先から幅広い製品を調達、お客様に提案できること",
+    "url": "https://www.mitani.co.jp/business/housing",
+    "pass": 1
+   },
+   {
+    "quote": "また、互いに異なる分野や異なるバックグラウンドを持つ社員同士が近接しており、さらにはそれらの取引先も含めると、新たなイノベーションが生まれやすい環境です",
+    "url": "https://www.mitani.co.jp/company/policy",
+    "pass": 1
+   },
+   {
+    "quote": "コロナ禍のベトナムでロックダウンが発令され、工場稼働が大幅に制限される中、力を合わせてお客さまへの供給を守り抜いた事例や、異動直後に大きなお客さまを任され、あらゆるリソースを駆使して受注にこぎつけた事例など、仕事をする上での刺激と活力が得られるイベントです",
+    "url": "https://www.mitani.co.jp/company/policy",
+    "pass": 1
+   },
+   {
+    "quote": "また、日本やベトナムに主要拠点を有していますが、仕入先・販売先といったサプライチェーン全体を通じて様々な国・地域の企業や人々と繋がっています",
+    "url": "https://www.mitani.co.jp/company/policy",
+    "pass": 1
+   },
+   {
+    "quote": "1994年から事業拠点を置くベトナムは、",
+    "url": "https://www.mitani.co.jp/company/csr",
+    "pass": 1
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "8億円（2024年3月実績）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255785/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "家庭ごみや事業ごみなどの一般廃棄物、および工場や建設現場などから排出される産業廃棄物を収集し、適正かつ迅速に処理します",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255785/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "JST SCORE 事業（拠点都市環境整備型）横浜プラットフォーム",
+    "url": "https://note.com/yfo/n/n54f83eaedb70",
+    "pass": 3
+   },
+   {
+    "quote": "JST SCORE事業（拠点都市環境整備型）横浜プラットフォームは横浜の四⼤学（神奈川⼤学・関東学院⼤学・横浜国⽴⼤学・横浜市⽴⼤学）が連携し、",
+    "url": "https://note.com/yfo/n/n54f83eaedb70",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "また、少子高齢化・国際化社会に応えるユニバーサルデザインも模索しています",
+    "url": "https://www.mitani.co.jp/business/ac",
+    "pass": 1
+   },
+   {
+    "quote": "建設業界では、施工現場における人手不足解消や業務負荷の低減、そして、安心・安全を守ることが最重要課題となっています",
+    "url": "https://www.mitani.co.jp/business/ac",
+    "pass": 1
+   },
+   {
+    "quote": "業界的に深刻な人手不足が続く現在でも、十分な施工体制を確保できます",
+    "url": "https://www.mitani.co.jp/business/housing",
+    "pass": 1
+   },
+   {
+    "quote": "若手社員向け研修の中でキャリア研修を加えたり、定年前でのキャリア・リ・デザイン研修を実施してきています",
+    "url": "https://www.mitani.co.jp/company/policy",
+    "pass": 1
+   },
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "若手社員の意見に耳を傾ける社風は全部署共通の特徴です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255785/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "若手社員と採用担当者が仕事のやりがいや自社の特徴を語る",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255785/outline.html",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "入社後3年間の定着率（新卒採用）",
+    "url": "https://www.mitani.co.jp/company/cwi",
+    "pass": 1
+   },
+   {
+    "quote": "入社後3年間の定着率（キャリア採用）",
+    "url": "https://www.mitani.co.jp/company/cwi",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用の場合も年齢によるが、概ね19万円~22万円程度となる",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "都市環境整備(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255785/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "★エントリーいただいた方には当社の情報を定期配信中★",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255785/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、この度2027年度卒の新卒採用を実施中です！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255785/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255785/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255785/outline.html",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "（会社、上司、給与賞与、人事制度、業務内容、福利厚生等）",
+    "url": "https://www.mitani.co.jp/company/cwi",
+    "pass": 1
+   },
+   {
+    "quote": "約73百万円",
+    "url": "https://www.mitani.co.jp/company/cwi",
+    "pass": 1
+   },
+   {
+    "quote": "そこで、当社は毎年社員にアンケートをとり、会社/上司/給与/人事制度/業務内容/福利厚生等の観点を総合した社員満足度を把握し、一定水準以上をキープするように取り組んでまいります",
+    "url": "https://www.mitani.co.jp/company/cwi",
+    "pass": 1
+   },
+   {
+    "quote": "社員の成長や働きがい向上のため、社員の給与については年功序列的ではなく、半期ごとに個人目標を設定して成果を評価し、その評価に基づいて決定しています",
+    "url": "https://www.mitani.co.jp/company/cwi",
+    "pass": 1
+   },
+   {
+    "quote": "一方で成果主義的な報酬体系または会社の命じる異動等によって、社員子女の\"教育\"に関わる機会が著しく損なわれることがあってはならないという思いから、子女のいる社員に対し、給与とは別に様々な手当を支給しています",
+    "url": "https://www.mitani.co.jp/company/cwi",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度の公益事業に投じた金額は約73百万円でした",
+    "url": "https://www.mitani.co.jp/company/cwi",
+    "pass": 1
+   },
+   {
+    "quote": "48億8百万円",
+    "url": "https://www.mitani.co.jp/company/profile",
+    "pass": 1
+   },
+   {
+    "quote": "117,531百万円（2026年3月期）",
+    "url": "https://www.mitani.co.jp/company/profile",
+    "pass": 1
+   },
+   {
+    "quote": "2023年4月より「早い者勝ち！みんなで550万円使える探索型プロトタイピング応援制度（以下、550制度）」の募集を開始しました",
+    "url": "https://www.mitani.co.jp/company/policy",
+    "pass": 1
+   },
+   {
+    "quote": "給与面では、65歳までは昇給の機会を設け、退職するまで成果に見合った賞与を支給します",
+    "url": "https://www.mitani.co.jp/company/policy",
+    "pass": 1
+   },
+   {
+    "quote": "・当社従業員の人事管理、勤怠管理、給与計算処理、業務管理、安全管理のため",
+    "url": "https://www.mitani.co.jp/company/policy",
+    "pass": 1
+   },
+   {
+    "quote": "都市環境整美の年収・給与 平均年収 - エン カイシャの評判",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "都市環境整美株式会社の正社員44人の回答によると平均年収は338万円、年収範囲は250～500万円です",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "カイシャの評判に掲載されている年収情報は、当該企業で就業経験のある方を対象としたアンケートを基に、有効な回答かつ、雇用形態が正社員の回答から算出しております",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトの年収情報は、ユーザーの皆様に投稿いただいた時点の回答に基づいているため、実際の年収とは異なる可能性があります",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "都市環境整美株式会社の年収・給与についての口コミ",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:昇給は結果を残せば額が多少変...",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給は結果を残せば額が多少変わるが、会社からの目標数字が高くクリアが困難な為そこそこのベースアップに落ち着く人が多い",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は正社員であれば貰えるが、総合職の一般職は賞与と呼べる金額をあまり貰えてない",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "上に着く人間が部長クラスのいいなりであれば昇給等もあまり見込めない",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:基本給は本人の経験に寄るとこ...",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給は毎年あったが微々たるものであり、後述の評価制度が明確に定められてない件も相まって努力が正当に評価されにくい環境だった",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は入社1年後より支給され、毎年3ヵ月給与分程度は支給されていた",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:入社時の年齢や経験で基本給が...",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:・場合により、家賃補助が出る...",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:300万円ほど",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "300万円ほど",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "基本給が低く設定されているため賞与も低い傾向にある",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:あまり上がる事には期待できな...",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は毎回ちゃんと支給されるが、額が何故かずっと変わらない",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "上限はあるが、資格手当が多岐にわたるので、やる気次第で給与アップを見込める",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:未経験にしては設備管理の割に...",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "評価によっては年の昇給がなかったりもするらしい",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:基本的に昇給に関して、賞与に...",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "基本的に昇給に関して、賞与に関しての明確な基準は現場に出ている社員については分からないと思う",
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255785/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "都市環境整備 の「採用情報」 OpenWork — 都市環境整備 の「採用情報」 OpenWork OpenWork https://www.openwork.jp > 環境サービス > 都市環境整備",
+    "url": "https://www.openwork.jp/a0C2x000008wukl/job/",
+    "pass": 3
+   },
+   {
+    "quote": "都市環境整備 株式会社の 求人 ・転職情報／設備管理技術者 — 都市環境整備 株式会社の 求人 ・転職情報／設備管理技術者 リクナビNEXT https://next.rikunabi.com > 山梨県 > 中央市",
+    "url": "https://next.rikunabi.com/viewjob/jk3c36b3e65a869d64/",
+    "pass": 3
+   },
+   {
+    "quote": "都市環境整備 新卒 高卒 の求人情報をすべて見る （136件） — 都市環境整備 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "都市環境整備 (株)の 新卒採用 ・会社概要 | マイナビ2027 — 都市環境整備 (株)の 新卒採用 ・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp255785 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255785/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "都市環境整備 株式会社の求人・転職情報／設備管理技術者 — 都市環境整備 株式会社の求人・転職情報／設備管理技術者 リクナビNEXT https://next.rikunabi.com > 山梨県 > 中央市",
+    "url": "https://next.rikunabi.com/viewjob/jk3c36b3e65a869d64/",
+    "pass": 3
+   },
+   {
+    "quote": "都市環境整備 の「 採用 情報」 OpenWork — 都市環境整備 の「 採用 情報」 OpenWork OpenWork https://www.openwork.jp > 環境サービス > 都市環境整備",
+    "url": "https://www.openwork.jp/a0C2x000008wukl/job/",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "都市環境整備(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255785/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255785/outline.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "JST SCORE 事業（拠点 都市環境整備 型）横浜 ... - note JST SCORE 事業（拠点 都市環境整備 型）横浜 ... - note note https://note.com > ... > 科学・テクノロジー全般",
+    "url": "https://note.com/yfo/n/n54f83eaedb70",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "JST SCORE 事業（拠点都市環境整備型）横浜プラットフォーム",
+    "url": "https://note.com/yfo/n/n54f83eaedb70",
+    "pass": 3
+   },
+   {
+    "quote": "Demo Day を開催しました。｜横浜未来機構",
+    "url": "https://note.com/yfo/n/n54f83eaedb70",
+    "pass": 3
+   },
+   {
+    "quote": "JST SCORE事業（拠点都市環境整備型）横浜プラットフォームは横浜の四⼤学（神奈川⼤学・関東学院⼤学・横浜国⽴⼤学・横浜市⽴⼤学）が連携し、",
+    "url": "https://note.com/yfo/n/n54f83eaedb70",
+    "pass": 3
+   },
+   {
+    "quote": "起業を志す⽅の新しいチャレンジを⽀えるプログラムで、各⼤学を代表する",
+    "url": "https://note.com/yfo/n/n54f83eaedb70",
+    "pass": 3
+   },
+   {
+    "quote": "研究者による成果発表の場をメインとし、横浜エコシステム内で様々な⽀援活動を⾏うプロフェッショナル⼈材や、同じ志を持つ仲間との出会いの場を提供することで、⼈脈づくりの実現を⽬指しています。",
+    "url": "https://note.com/yfo/n/n54f83eaedb70",
+    "pass": 3
+   },
+   {
+    "quote": "Demo Day 第⼀部では、⼤学研究者５名による研究開発課題の発表が⾏われ、それぞれの発表の後、講評者の⽅から講評をいただきました。",
+    "url": "https://note.com/yfo/n/n54f83eaedb70",
+    "pass": 3
+   },
+   {
+    "quote": "（各研究者の研究課題についてはこちらを御覧ください）",
+    "url": "https://note.com/yfo/n/n54f83eaedb70",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "都市環境整備 株式会社 (@toshikankyouseibi) - Photos 都市環境整備 株式会社 (@toshikankyouseibi) - Photos Facebook https://www.facebook.com > toshikankyouseibi > photos",
+    "url": "https://www.facebook.com/toshikankyouseibi/photos/",
+    "pass": 3
+   },
+   {
+    "quote": "都市環境整備 株式会社 - Facebook 都市環境整備 株式会社 - Facebook Facebook https://www.facebook.com > toshikankyouseibi",
+    "url": "https://www.facebook.com/toshikankyouseibi/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "都市環境整備 株式会社 - Startpagina - Facebook 都市環境整備 株式会社 - Startpagina - Facebook Facebook https://www.facebook.com > 都市環境整備株式会社",
+    "url": "https://www.facebook.com/pages/%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/386114485095257?locale=nl_NL",
+    "pass": 3
+   },
+   {
+    "quote": "都市環境整備 株式会社 - Ana Sayfa - Facebook 都市環境整備 株式会社 - Ana Sayfa - Facebook Facebook https://www.facebook.com > 都市環境整備株式会社",
+    "url": "https://www.facebook.com/pages/%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/386114485095257?locale=tr_TR",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mitani.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mitani.co.jp/company",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mitani.co.jp/acs-seminar/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mitani.co.jp/business/ac",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mitani.co.jp/business/housing",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mitani.co.jp/company/message",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mitani.co.jp/company/cwi",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mitani.co.jp/company/profile",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mitani.co.jp/company/history",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mitani.co.jp/company/group",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mitani.co.jp/company/policy",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mitani.co.jp/company/csr",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mitani.co.jp/application/files/2915/6317/0247/img_3.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://en-hyouban.com/company/00006416765/salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/384961/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00006416765/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toshi-kankyo.jp/recruit/fresh/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp255785/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yfo/n/n54f83eaedb70",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/toshikankyouseibi/photos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/toshikankyouseibi/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/386114485095257?locale=nl_NL",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/386114485095257?locale=tr_TR",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "都市環境整備 求人 年収",
+   "results": [
+    "https://en-hyouban.com/company/00006416765/salary/",
+    "https://tenshoku.mynavi.jp/company/384961/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00006416765/",
+    "https://www.openwork.jp/a0C2x000008wukl/job/",
+    "https://next.rikunabi.com/viewjob/jk3c36b3e65a869d64/",
+    "https://xn--pckua2a7gp15o89zb.com/%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E7%BE%8E%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "https://jp.indeed.com/cmp/%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries/%E4%BA%8B%E5%8B%99",
+    "https://toshi-kankyo.jp/recruit/career/",
+    "https://employment.en-japan.com/comp-116213/",
+    "https://tenshoku.mynavi.jp/company/478558/joblist/"
+   ]
+  },
+  {
+   "query": "都市環境整備 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://toshi-kankyo.jp/recruit/fresh/",
+    "https://job.mynavi.jp/27/pc/search/corp255785/outline.html",
+    "https://next.rikunabi.com/viewjob/jk3c36b3e65a869d64/",
+    "https://www.openwork.jp/a0C2x000008wukl/job/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10111007407/",
+    "https://en-gage.net/toshikankyouseibi_saiyo/",
+    "https://toshi-kankyo.jp/recruit/",
+    "https://recruit.kankyouseibi.work/",
+    "https://syukatsu-kaigi.jp/companies/106754"
+   ]
+  },
+  {
+   "query": "site:note.com 都市環境整備",
+   "results": [
+    "https://note.com/pbdlab/n/n8e7177eee3a9",
+    "https://note.com/fine_takumi296/n/n3cfea9f0c905",
+    "https://note.com/yfo/n/n54f83eaedb70",
+    "https://note.com/idj/n/n2f6e7ac9770e",
+    "https://note.com/witty_zephyr8784/n/n798a7f4dd0b2",
+    "https://note.com/nikken/n/n9e109f9149dc",
+    "https://note.com/kanto_machinote/n/n25664cc63e5c",
+    "https://note.com/satoshiikuta/n/n9054225c9b9c",
+    "https://note.com/judikouhou/n/nb8269d806b96",
+    "https://note.com/kanto_machinote"
+   ]
+  },
+  {
+   "query": "site:x.com 都市環境整備",
+   "results": [
+    "https://x.com/hiroshima_pref/status/2073602781399728633",
+    "https://x.com/sunday_iwafune/status/2038440139396141218",
+    "https://x.com/inspiring_dots/status/2107449544200057310",
+    "https://x.com/Kamikawa_Yoko/status/2059606209020441074",
+    "https://x.com/jktdy522/status/2113799695567114264?lang=ar",
+    "https://x.com/SkySeaOffice/status/2112197077220409841",
+    "https://x.com/a_nomoto/status/2048571720572043440",
+    "https://x.com/suto_akio/status/2031675319456043349",
+    "https://x.com/mlit_tonejo/status/1871116292385906878",
+    "https://x.com/MOJ_KYOUSEI/status/1805526963085623621"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 都市環境整備",
+   "results": [
+    "https://jp.linkedin.com/in/kenji-oka-9a065660",
+    "https://www.linkedin.com/posts/world-bank-tokyo-development-learning-center-tdlc_apcs2026-urbandevelopment-urbanregeneration-activity-7518208447541153793-EIA8",
+    "https://www.linkedin.com/pub/dir/Kenji/Oka",
+    "https://jp.linkedin.com/in/yoshito-kitagawa-8bb613151",
+    "https://www.linkedin.com/in/taku-samejima",
+    "https://www.linkedin.com/in/keiko-sugawara-b5901b67/ja",
+    "https://www.linkedin.com/in/takahiro-ide-9a906b62",
+    "https://jp.linkedin.com/posts/takero-izuhara-4a1a22105_%E4%BA%BA%E7%94%9F100%E5%B9%B4%E6%99%82%E4%BB%A3-%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%88%A6%E7%95%A5-%E9%83%BD%E5%B8%82%E6%88%A6%E7%95%A5-activity-7481637491909816320-Bu-K",
+    "https://www.linkedin.com/in/yuko-sono-663a91b6",
+    "https://jp.linkedin.com/in/滉一-氏家-063844177"
+   ]
+  },
+  {
+   "query": "site:facebook.com 都市環境整備",
+   "results": [
+    "https://www.facebook.com/toshikankyouseibi/photos/",
+    "https://www.facebook.com/toshikankyouseibi/?locale=ja_JP",
+    "https://www.facebook.com/pages/%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/386114485095257?locale=nl_NL",
+    "https://www.facebook.com/pages/%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/386114485095257?locale=tr_TR",
+    "https://www.facebook.com/386114485095257",
+    "https://www.facebook.com/toshikankyouseibi/photos/1091360841035200/",
+    "https://www.facebook.com/pages/%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/386114485095257?locale=lv_LV",
+    "https://www.facebook.com/pages/%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/386114485095257?locale=de_DE",
+    "https://www.facebook.com/pages/%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/386114485095257?locale=pt_BR",
+    "https://www.facebook.com/pages/%E9%83%BD%E5%B8%82%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/386114485095257?locale=ms_MY"
+   ]
+  },
+  {
+   "query": "都市環境整備 note 社長",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp255785/outline.html",
+    "https://note.com/kandousoukolfc/n/n8b7678f23c3c",
+    "https://note.com/kanto_machinote",
+    "https://www.kurashimanet.jp/job/company/652019",
+    "https://toshikankyouseibi.com/",
+    "https://webcourse.jp/hiroshima/articles/1190",
+    "https://www.instagram.com/p/CPh8xg7nBNJ/",
+    "https://www.facebook.com/toshikankyouseibi/posts/2021%E5%B9%B45%E6%9C%881%E6%97%A5%E5%B9%B3%E7%B4%A0%E3%81%AF%E6%A0%BC%E5%88%A5%E3%81%AE%E3%81%94%E9%AB%98%E9%85%8D%E3%82%92%E8%B3%9C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%A6%E5%8E%9A%E3%81%8F%E5%BE%A1%E7%A4%BC%E7%94%B3%E3%81%97%E4%B8%8A%E3%81%92%E3%81%BE%E3%81%99%E3%81%93%E3%81%AE%E5%BA%A62021%E5%B9%B45%E6%9C%881%E6%97%A5%E4%BB%98%E3%81%A7%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E4%BC%9A%E9%95%B7%E3%81%AB%E8%B0%B7%E6%9C%AC%E6%AC%A1%E9%83%8E%E5%89%8D%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7%E3%81%AB%E5%92%8C%E7%94%B0%E6%B4%8B%E4%B8%80/1821035591401051/",
+    "https://note.com/tag/%E4%BD%8F%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99",
+    "https://toshikankyouseibi.com/company/"
+   ]
+  },
+  {
+   "query": "都市環境整備 X 投稿",
+   "results": [
+    "https://toshikankyouseibi.com/",
+    "https://en-hyouban.com/company/10200199639/",
+    "https://www.pref.hiroshima.lg.jp/soshiki/262/",
+    "https://www.instagram.com/tks_coltd/",
+    "https://syukatsu-kaigi.jp/companies/106754/post_items/11/word_mouths",
+    "https://www.facebook.com/toshikankyouseibi/",
+    "https://www.jst.go.jp/start/file/document/base-city/score-u-city_handbook.pdf",
+    "https://www.openwork.jp/user_answer.php?vid=a0AIh000001u7kr",
+    "https://job.mynavi.jp/27/pc/search/corp255785/outline.html",
+    "https://x.com/osaka_tosei"
+   ]
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部11頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部11頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部11頁・検索8回）"
+ }
+}

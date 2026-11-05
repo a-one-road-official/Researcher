@@ -1,0 +1,737 @@
+{
+ "name": "側島製罐",
+ "aliases": [],
+ "context": "全国／出典:Wantedly／求人媒体:Indeed;リクナビNEXT／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T04:31:17.858278+00:00",
+ "official_url": "https://sobajima.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1906年",
+    "url": "https://www.uij-aichi.jp/introduction/sobajimacancompany/entry-5923.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "4900万円",
+    "url": "https://www.uij-aichi.jp/introduction/sobajimacancompany/entry-5923.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上",
+    "value": "6.3億円",
+    "url": "https://www.uij-aichi.jp/introduction/sobajimacancompany/entry-5923.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "43名",
+    "url": "https://www.uij-aichi.jp/introduction/sobajimacancompany/entry-5923.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "愛知県海部郡大治町西條附田89",
+    "url": "https://www.uij-aichi.jp/introduction/sobajimacancompany/entry-5923.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "4900万円",
+    "url": "https://sobajima.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "募集職種による／賞与年2回、昇級昇格年1回",
+    "url": "https://sobajima.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "月給 190,000円 ～ 300,000円",
+    "url": "https://www.uij-aichi.jp/introduction/sobajimacancompany/entry-5923.html",
+    "pass": 3
+   },
+   {
+    "quote": "（※想定年収 2,470,000円 ～ 4,200,000円）",
+    "url": "https://www.uij-aichi.jp/introduction/sobajimacancompany/entry-5923.html",
+    "pass": 3
+   },
+   {
+    "quote": "4900万円",
+    "url": "https://www.uij-aichi.jp/introduction/sobajimacancompany/entry-5923.html",
+    "pass": 3
+   },
+   {
+    "quote": "月給200,000円～350,000円",
+    "url": "https://toranet.jp/viewjob/6e91ec97e0d1f226/",
+    "pass": 3
+   },
+   {
+    "quote": "基本給：月給 20万円 〜 35万円",
+    "url": "https://toranet.jp/viewjob/6e91ec97e0d1f226/",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給21.4万円〜22.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "側島製罐では「自己申告型報酬制度」という人事給与制度を導入しています",
+    "url": "https://www.wantedly.com/companies/cancompany/projects",
+    "pass": 3
+   },
+   {
+    "quote": "既存社員の給与を上限額とするような年功序列制や上司や経営者が一方的に給与を決定する仕組みは存在せず、入社年数や役職などに囚われず自由に給与額を提示することができます",
+    "url": "https://www.wantedly.com/companies/cancompany/projects",
+    "pass": 3
+   },
+   {
+    "quote": "側島製罐が社史クラファンで1030万円を集めた泥臭さ｜地域共創マガジン～HEROES～",
+    "url": "https://heroes.freee.co.jp/n/n79f751876487?sub_rt=share_pw&gs=eb601cfcffd85ef8fb3d60d66b9d7545",
+    "pass": 3
+   },
+   {
+    "quote": "側島製罐が社史クラファンで1030万円を集めた泥臭さ",
+    "url": "https://heroes.freee.co.jp/n/n79f751876487?sub_rt=share_pw&gs=eb601cfcffd85ef8fb3d60d66b9d7545",
+    "pass": 3
+   },
+   {
+    "quote": "最初の数日間、SNSで呼びかけを行うものの、支援額が200万円に達したあたりでグラフはピタリと止まります",
+    "url": "https://heroes.freee.co.jp/n/n79f751876487?sub_rt=share_pw&gs=eb601cfcffd85ef8fb3d60d66b9d7545",
+    "pass": 3
+   },
+   {
+    "quote": "1137人、1,000万円超という結果は、「大切なものを缶にしまうという行為を、社会の記憶にしたい」という願いに対し、プライドを捨て、一個人の人間として全力でぶつかった石川さんの生き様そのものに対する、社会からの「返答」なのでしょう",
+    "url": "https://heroes.freee.co.jp/n/n79f751876487?sub_rt=share_pw&gs=eb601cfcffd85ef8fb3d60d66b9d7545",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "もともとは養蚕業の孵化装置やそのための暖房器具にブリキ板を使っていたところから始まり、その後はブリキ缶製造の専門の会社となって戦前は陸軍糧秣廠の指定工場としての乾パンの缶や航空機部品の製造をしてまいりました",
+    "url": "https://sobajima.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "貴也さんが戻られた当初、足の踏み場もないくらい散らかっていたそうですが、いまはメンバーの皆さんの自主的な取り組みでキレイな工場に",
+    "url": "https://note.com/amane_sawatari/n/nc21c840ba2b8",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "採用情報｜側島製罐｜愛知県にある明治創業の缶メーカー",
+    "url": "https://sobajima.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "最終的には中途採用で参画したメンバーも含む18名がこのプロジェクトに加わり、",
+    "url": "https://note.com/amane_sawatari/n/nc21c840ba2b8",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "お菓子缶メーカーの技術スタッフ【未経験応募可】 | 側島製罐 ... — お菓子缶メーカーの技術スタッフ【未経験応募可】 | 側島製罐 ... あいちUIJターン支援センター https://www.uij-aichi.jp > introduction > entry-5923",
+    "url": "https://www.uij-aichi.jp/introduction/sobajimacancompany/entry-5923.html",
+    "pass": 3
+   },
+   {
+    "quote": "側島製罐 株式会社の 求人 ・転職情報 - とらばーゆ — 側島製罐 株式会社の 求人 ・転職情報 - とらばーゆ とらばーゆ https://toranet.jp > ... > 尾張 > 清須市/稲沢市/津島市エリア",
+    "url": "https://toranet.jp/viewjob/6e91ec97e0d1f226/",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報｜ 側島製罐 ｜愛知県にある明治創業の缶メーカー — 採用情報｜ 側島製罐 ｜愛知県にある明治創業の缶メーカー 側島製缶 https://sobajima.jp > recruit",
+    "url": "https://sobajima.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "側島製罐 株式会社の転職・企業概要 - doda — 側島製罐 株式会社の転職・企業概要 - doda doda https://doda.jp > View > Company > j_id__10046775676",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10046775676/",
+    "pass": 3
+   },
+   {
+    "quote": "側島製罐 新卒 高卒 の求人情報をすべて見る （136件） — 側島製罐 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "採用 情報｜ 側島製罐 ｜愛知県にある明治創業の缶メーカー — 採用 情報｜ 側島製罐 ｜愛知県にある明治創業の缶メーカー 側島製缶 https://sobajima.jp > recruit",
+    "url": "https://sobajima.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "側島製罐 株式会社の募集・ 採用 ・募集条件 - Wantedly — 側島製罐 株式会社の募集・ 採用 ・募集条件 - Wantedly Wantedly https://www.wantedly.com > ... > 側島製罐株式会社",
+    "url": "https://www.wantedly.com/companies/cancompany/projects",
+    "pass": 3
+   },
+   {
+    "quote": "側島製罐 株式会社の 採用 ・求人情報-engage - エンゲージ — 側島製罐 株式会社の 採用 ・求人情報-engage - エンゲージ エンゲージ https://en-gage.net > sobajima_saiyo",
+    "url": "https://en-gage.net/sobajima_saiyo/",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "側島製罐株式会社の募集・採用・募集条件 - Wantedly",
+    "url": "https://www.wantedly.com/companies/cancompany/projects",
+    "pass": 3
+   },
+   {
+    "quote": "Wantedly は「中の人」とつながるビジネスSNS",
+    "url": "https://www.wantedly.com/companies/cancompany/projects",
+    "pass": 3
+   },
+   {
+    "quote": "©2026 Wantedly, Inc.",
+    "url": "https://www.wantedly.com/companies/cancompany/projects",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "側島製罐 が社史クラファンで1030万円を集めた泥臭さ 側島製罐 が社史クラファンで1030万円を集めた泥臭さ note.com https://note.com > chiiki_heros",
+    "url": "https://note.com/chiiki_heros/n/n79f751876487?sub_rt=share_pw",
+    "pass": 3
+   },
+   {
+    "quote": "Vol.001 石川貴也さん（ 側島製罐 代表取締役・愛知県大治町） Vol.001 石川貴也さん（ 側島製罐 代表取締役・愛知県大治町） note https://note.com > インタビュー・対談 > インタビュー・対談",
+    "url": "https://note.com/amane_sawatari/n/nc21c840ba2b8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "側島製罐が社史クラファンで1030万円を集めた泥臭さ｜地域共創マガジン～HEROES～",
+    "url": "https://heroes.freee.co.jp/n/n79f751876487?sub_rt=share_pw&gs=eb601cfcffd85ef8fb3d60d66b9d7545",
+    "pass": 3
+   },
+   {
+    "quote": "側島製罐が社史クラファンで1030万円を集めた泥臭さ",
+    "url": "https://heroes.freee.co.jp/n/n79f751876487?sub_rt=share_pw&gs=eb601cfcffd85ef8fb3d60d66b9d7545",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県大治町で120年の歴史を刻む缶メーカーの「側島製罐（そばじませいかん）」。代表取締役である石川貴也さんが始めた、創業120周年を記念する「社史」の制作とクラウドファンディングは、最終的に1137人から10,308,900円もの支援を集めました。「内輪の記録」として扱われてきた社史を社会に解放し「社会の記憶」へと昇華させるため、経営者としてのプライドを捨て、愚直に思いを伝え続けました。「凡人」を自称する石川さんから見えてきたのは、ノウハウやテクニックではなく、一人の人間としての「感謝」を届ける、そして缶の価値を届けたいという熱意で周囲を巻き込む「狂気」と呼ばれるほどの執念でした。",
+    "url": "https://heroes.freee.co.jp/n/n79f751876487?sub_rt=share_pw&gs=eb601cfcffd85ef8fb3d60d66b9d7545",
+    "pass": 3
+   },
+   {
+    "quote": "凡人だからできる「等身大のリーダーシップ」",
+    "url": "https://heroes.freee.co.jp/n/n79f751876487?sub_rt=share_pw&gs=eb601cfcffd85ef8fb3d60d66b9d7545",
+    "pass": 3
+   },
+   {
+    "quote": "側島製罐が120周年を機に制作した社史は、一般的な企業のそれとは異なり「缶という存在を見つめ直すための本」として再定義しました。",
+    "url": "https://heroes.freee.co.jp/n/n79f751876487?sub_rt=share_pw&gs=eb601cfcffd85ef8fb3d60d66b9d7545",
+    "pass": 3
+   },
+   {
+    "quote": "歌人の俵万智さんによる短歌、グラフィックデザイナーの原研哉さんのインタビュー、そして製造現場の美しい撮り下ろし写真。編集者の出川光さんと共に「欲しくなるくらい面白い社史」を目指して作られたこの本は、缶を愛するすべての人へ向けたファンブックです。",
+    "url": "https://heroes.freee.co.jp/n/n79f751876487?sub_rt=share_pw&gs=eb601cfcffd85ef8fb3d60d66b9d7545",
+    "pass": 3
+   },
+   {
+    "quote": "石川さんがこの社史をクラウドファンディングで世に問うた背景には、使命感がありました。",
+    "url": "https://heroes.freee.co.jp/n/n79f751876487?sub_rt=share_pw&gs=eb601cfcffd85ef8fb3d60d66b9d7545",
+    "pass": 3
+   },
+   {
+    "quote": "「缶が使われなくなってきている世の中だからこそ、缶の良さを改めて知ってほしい。そして、これまで缶を愛し、作り続けてきた人たちの気持ちを残したい。この本が歴史にちゃんと残ってほしいんです」",
+    "url": "https://heroes.freee.co.jp/n/n79f751876487?sub_rt=share_pw&gs=eb601cfcffd85ef8fb3d60d66b9d7545",
+    "pass": 3
+   },
+   {
+    "quote": "#旅と対話と組織開発 〜Vol.001 石川貴也さん（側島製罐 代表取締役・愛知県大治町）｜沢渡あまね",
+    "url": "https://note.com/amane_sawatari/n/nc21c840ba2b8",
+    "pass": 3
+   },
+   {
+    "quote": "#旅と対話と組織開発 〜Vol.001 石川貴也さん（側島製罐 代表取締役・愛知県大治町）",
+    "url": "https://note.com/amane_sawatari/n/nc21c840ba2b8",
+    "pass": 3
+   },
+   {
+    "quote": "沢渡あまねが、組織や地域の景色を変えている変革実践者と対話しエンパワーし合う旅日記、",
+    "url": "https://note.com/amane_sawatari/n/nc21c840ba2b8",
+    "pass": 3
+   },
+   {
+    "quote": "側島製罐の代表取締役 石川貴也さん（写真真ん中）と筆者、そして当社役員の平野さん",
+    "url": "https://note.com/amane_sawatari/n/nc21c840ba2b8",
+    "pass": 3
+   },
+   {
+    "quote": "ちなみに、#旅と対話と組織開発 とはこんな企画（↓）です。",
+    "url": "https://note.com/amane_sawatari/n/nc21c840ba2b8",
+    "pass": 3
+   },
+   {
+    "quote": "貴也さんは側島製罐の6代目の代表取締役（代表取締役・平社員を名乗られています）で、4年前（2020年）に同社に入社。",
+    "url": "https://note.com/amane_sawatari/n/nc21c840ba2b8",
+    "pass": 3
+   },
+   {
+    "quote": "人事評価ナシ、業務命令ナシなど「メンバーを信じる経営」を追求および体現",
+    "url": "https://note.com/amane_sawatari/n/nc21c840ba2b8",
+    "pass": 3
+   },
+   {
+    "quote": "メンバーのエンゲージメントも業績もV字回復",
+    "url": "https://note.com/amane_sawatari/n/nc21c840ba2b8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "側島製罐 株式会社 (@sobajimacan) / X 側島製罐 株式会社 (@sobajimacan) / X X https://x.com > sobajimacan",
+    "url": "https://x.com/sobajimacan",
+    "pass": 3
+   },
+   {
+    "quote": "側島製罐 株式会社 on X 側島製罐 株式会社 on X X https://x.com > @sobajimacan",
+    "url": "https://x.com/sobajimacan/status/2009154232629485883",
+    "pass": 3
+   },
+   {
+    "quote": "側島製罐 株式会社 on X 側島製罐 株式会社 on X X https://x.com > @sobajimacan",
+    "url": "https://x.com/sobajimacan/status/1987692866337206648",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "石川 貴也 - 側島製罐 株式会社 - LinkedIn 石川 貴也 - 側島製罐 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > lwitbr1906",
+    "url": "https://jp.linkedin.com/in/lwitbr1906",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "側島製罐 株式会社 - Home | Facebook 側島製罐 株式会社 - Home | Facebook Facebook https://www.facebook.com > pages > 側島製罐株式会社",
+    "url": "https://www.facebook.com/pages/%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/102349665295433",
+    "pass": 3
+   },
+   {
+    "quote": "セトフラ に出演してくださった 側島製罐 株式会社 ... - Facebook セトフラ に出演してくださった 側島製罐 株式会社 ... - Facebook Facebook https://www.facebook.com > HORIJUN > posts > 先日セト...",
+    "url": "https://www.facebook.com/HORIJUN/posts/%E5%85%88%E6%97%A5%E3%82%BB%E3%83%88%E3%83%95%E3%83%A9-%E3%81%AB%E5%87%BA%E6%BC%94%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%A3%E3%81%9F%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%EF%BC%96%E4%BB%A3%E7%9B%AE%E3%82%A2%E3%83%88%E3%83%84%E3%82%AE%E7%9F%B3%E5%B7%9D%E8%B2%B4%E4%B9%9F%E3%81%95%E3%82%93%E3%81%8C%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90120%E5%91%A8%E5%B9%B4%E7%A4%BE%E5%8F%B2%E6%9B%B8%E7%B1%8D%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E7%9F%B3%E5%B7%9D%E3%81%95%E3%82%93%E3%81%AE%E3%81%8A%E8%A9%B1%E3%82%92%E4%BC%BA%E3%81%A3%E3%81%A6%E3%81%84%E3%81%A6%E7%BC%B6%E3%81%AE%E5%A5%A5%E6%B7%B1/10234572552074549/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sobajima.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sobajima.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sobajima.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sobajima.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sobajima.jp/products/semi-order/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sobajima.jp/products/candaycan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sobajima.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sobajima.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sobajima.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sobajima.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sobajima.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sobajima.jp/products/semi-order/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://sobajima.jp/assets/images/component/logo-trans.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.uij-aichi.jp/introduction/sobajimacancompany/entry-5923.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://next.rikunabi.com/session/destroy/?type=webSso",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toranet.jp/viewjob/6e91ec97e0d1f226/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/cancompany/projects",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://heroes.freee.co.jp/n/n79f751876487?sub_rt=share_pw&gs=eb601cfcffd85ef8fb3d60d66b9d7545",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/amane_sawatari/n/nc21c840ba2b8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/sobajimacan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sobajimacan/status/2009154232629485883",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sobajimacan/status/1987692866337206648",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/lwitbr1906",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/102349665295433",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/HORIJUN/posts/%E5%85%88%E6%97%A5%E3%82%BB%E3%83%88%E3%83%95%E3%83%A9-%E3%81%AB%E5%87%BA%E6%BC%94%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%A3%E3%81%9F%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%EF%BC%96%E4%BB%A3%E7%9B%AE%E3%82%A2%E3%83%88%E3%83%84%E3%82%AE%E7%9F%B3%E5%B7%9D%E8%B2%B4%E4%B9%9F%E3%81%95%E3%82%93%E3%81%8C%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90120%E5%91%A8%E5%B9%B4%E7%A4%BE%E5%8F%B2%E6%9B%B8%E7%B1%8D%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E7%9F%B3%E5%B7%9D%E3%81%95%E3%82%93%E3%81%AE%E3%81%8A%E8%A9%B1%E3%82%92%E4%BC%BA%E3%81%A3%E3%81%A6%E3%81%84%E3%81%A6%E7%BC%B6%E3%81%AE%E5%A5%A5%E6%B7%B1/10234572552074549/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "側島製罐 求人 年収",
+   "results": [
+    "https://www.uij-aichi.jp/introduction/sobajimacancompany/entry-5923.html",
+    "https://next.rikunabi.com/viewjob/jk31958d88e57e9d39/",
+    "https://toranet.jp/viewjob/6e91ec97e0d1f226/",
+    "https://sobajima.jp/recruit/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10046775676/",
+    "https://townwork.net/job_search/kw/%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90/",
+    "https://en-gage.net/user/search/desc/4182632/",
+    "https://en-hyouban.com/company/10105540919/user_kuchikomi/6432837/",
+    "https://jp.indeed.com/q-%E5%81%B4%E5%B3%B6-%E6%B1%82%E4%BA%BA.html",
+    "https://jp.indeed.com/cmp/側島製罐株式会社"
+   ]
+  },
+  {
+   "query": "側島製罐 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://sobajima.jp/recruit/",
+    "https://www.wantedly.com/companies/cancompany/projects",
+    "https://www.uij-aichi.jp/introduction/sobajimacancompany/entry-5923.html",
+    "https://en-gage.net/sobajima_saiyo/",
+    "https://townwork.net/viewjob/jobid_4465fea9b25caf40/",
+    "https://www.r-agent.com/company/f4320/",
+    "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=2310007193761&kJKbn=1&jGSHNo=hqArg%2BBljqTRhkaVuY71wQ%3D%3D&fullPart=1&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=0",
+    "https://next.rikunabi.com/viewjob/jk2ab8ef686fe04d97/",
+    "https://bizreach.biz/service/bizreach/testimonial/sobajima/"
+   ]
+  },
+  {
+   "query": "site:note.com 側島製罐",
+   "results": [
+    "https://note.com/goodaction/n/nc4ba634c5bf7",
+    "https://note.com/lwitbr1906",
+    "https://note.com/chiiki_heros/n/n79f751876487?sub_rt=share_pw",
+    "https://note.com/amane_sawatari/n/nc21c840ba2b8",
+    "https://note.com/snowflake_note/n/n7df0fbe6782d",
+    "https://note.com/lwitbr1906/n/n09a42b5f43dc",
+    "https://note.com/mgaction/n/n090352f8e321",
+    "https://note.com/morato_rium1/n/n588066ce09e5",
+    "https://note.com/monojirei/n/n6a0ba1da3f86",
+    "https://note.com/royinlocal/n/n2f718423acb3"
+   ]
+  },
+  {
+   "query": "site:x.com 側島製罐",
+   "results": [
+    "https://x.com/sobajimacan",
+    "https://x.com/sobajimacan/status/2009154232629485883",
+    "https://x.com/LWITBR1906",
+    "https://x.com/sobajimacan/status/1987692866337206648",
+    "https://x.com/sobajima_thing",
+    "https://x.com/LWITBR1906/status/2046708536756048165",
+    "https://x.com/sobajimacan/status/2117814087836918075",
+    "https://x.com/LWITBR1906/status/2117898828045316333",
+    "https://x.com/sobajimacan/status/2059815360925434299",
+    "https://x.com/room_315/status/2068928533288870286"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 側島製罐",
+   "results": [
+    "https://jp.linkedin.com/in/lwitbr1906",
+    "https://jp.linkedin.com/pub/dir/%E8%B2%B4%E4%B9%9F/%E7%9F%B3%E5%B7%9D/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/pub/dir/Shin/Nakashima/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://www.linkedin.com/pub/dir/Takaya/Ishikawa",
+    "https://www.linkedin.com/pub/dir/Shin/Nakashima",
+    "https://jp.linkedin.com/in/yasuhiro-seki-60670565",
+    "https://jp.linkedin.com/pub/dir/Takaya/Ishikawa/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://www.linkedin.com/pub/dir/%E8%B2%B4%E4%B9%9F/+",
+    "https://jp.linkedin.com/in/jun-hattori-98a4b817a",
+    "https://jp.linkedin.com/in/%E9%9B%85%E5%BF%97-%E6%9C%AC%E8%94%B5-4b18624a"
+   ]
+  },
+  {
+   "query": "site:facebook.com 側島製罐",
+   "results": [
+    "https://www.facebook.com/p/%E7%9F%B3%E5%B7%9D%E8%B2%B4%E4%B9%9F-100059316092622/",
+    "https://www.facebook.com/pages/%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/102349665295433",
+    "https://www.facebook.com/INDUSTRIALJP/videos/%E6%9C%80%E6%96%B0%E4%BD%9C3%E5%88%86%E7%89%88-%E3%81%BF%E3%81%AA%E3%81%95%E3%81%BE%E3%81%8A%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A%E3%81%A7%E3%81%99%E6%9C%AC%E7%B7%A8%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AF%E5%AE%9F%E3%81%AB4%E5%B9%B4%E3%81%B6%E3%82%8A14%E4%BD%9C%E7%9B%AE%E5%85%AC%E9%96%8B%E3%81%A7%E3%81%99%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E3%81%8B%E3%82%89%E5%B0%91%E3%81%97%E9%9B%A2%E3%82%8C%E3%81%9F%E5%9C%B0%E3%81%AB%E4%BD%8D%E7%BD%AE%E3%81%99%E3%82%8B%E7%BC%B6%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90%E3%81%A7%E9%B3%B4%E3%82%8A%E9%9F%BF%E3%81%8F%E7%BC%B6%E3%81%AE%E8%A3%BD%E9%80%A0%E5%B7%A5%E7%A8%8B%E3%81%AB%E3%81%8A/1012279247778912/",
+    "https://www.facebook.com/HORIJUN/posts/%E5%85%88%E6%97%A5%E3%82%BB%E3%83%88%E3%83%95%E3%83%A9-%E3%81%AB%E5%87%BA%E6%BC%94%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%A3%E3%81%9F%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%EF%BC%96%E4%BB%A3%E7%9B%AE%E3%82%A2%E3%83%88%E3%83%84%E3%82%AE%E7%9F%B3%E5%B7%9D%E8%B2%B4%E4%B9%9F%E3%81%95%E3%82%93%E3%81%8C%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90120%E5%91%A8%E5%B9%B4%E7%A4%BE%E5%8F%B2%E6%9B%B8%E7%B1%8D%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E7%9F%B3%E5%B7%9D%E3%81%95%E3%82%93%E3%81%AE%E3%81%8A%E8%A9%B1%E3%82%92%E4%BC%BA%E3%81%A3%E3%81%A6%E3%81%84%E3%81%A6%E7%BC%B6%E3%81%AE%E5%A5%A5%E6%B7%B1/10234572552074549/",
+    "https://www.facebook.com/p/S%E3%82%AB%E3%83%AC-2026-%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E7%AB%8B%E5%91%BD%E9%A4%A8%E5%A4%A7%E5%AD%A6%E4%BB%8A%E4%BA%95%E3%82%BC%E3%83%9F-%E3%83%81%E3%83%BC%E3%83%A0can-can-61591384622512/",
+    "https://www.facebook.com/marimosocks/posts/%EF%B8%8F%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90-%E7%9F%B3%E5%B7%9D%E8%B2%B4%E4%B9%9F%E3%81%95%E3%81%BE%E5%85%88%E6%97%A5%E3%81%AA%E3%81%94%E3%81%BF%E3%82%84%E3%81%92%E3%81%A7%E3%81%94%E4%B8%80%E7%B7%92%E3%81%97%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E9%83%A8%E9%96%80%E3%81%A7%E8%AA%8D%E5%AE%9A%E3%81%95%E3%82%8C%E3%81%9F%E8%80%81%E8%88%97%E7%BC%B6%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90%E3%81%AE%E4%BB%A3%E8%A1%A8-%E7%9F%B3%E5%B7%9D%E3%81%95%E3%82%93%E3%81%A8%E3%81%8A%E7%A5%9D%E3%81%84%E3%81%AE%E3%81%8A%E9%A3%9F%E4%BA%8B%E3%82%92%E3%81%94%E4%B8%80%E7%B7%92%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%B9%B4%E3%81%A7/1122921280274622/",
+    "https://www.facebook.com/yudai.shibuya/posts/%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90%E3%81%95%E3%82%93%E3%81%AE%E7%B4%A0%E6%95%B5%E3%81%99%E3%81%8E%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E5%85%A8%E5%8A%9B%E5%BF%9C%E6%8F%B4%E3%81%97%E3%81%BE%E3%81%99%E3%83%BC%E7%A4%BE%E5%8F%B2%E6%A5%BD%E3%81%97%E3%81%BF%E3%81%A7%E3%81%99%E4%BF%B5%E4%B8%87%E6%99%BA%E3%81%95%E3%82%93%E3%81%AE%E7%9F%AD%E6%AD%8C%E3%81%8C%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B/10243877916222757/",
+    "https://www.facebook.com/p/S%E3%82%AB%E3%83%AC-2026-%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%A4%A7%E5%AD%A6%E6%9F%B3%E3%82%BC%E3%83%9F-61590257717212/",
+    "https://www.facebook.com/cultibase.jp/posts/%E5%A3%B2%E4%B8%8A%E6%BF%80%E6%B8%9B%E3%82%84%E7%B5%84%E7%B9%94%E3%81%AE%E5%81%9C%E6%BB%9E%E3%81%A8%E3%81%84%E3%81%A3%E3%81%9F%E5%8D%B1%E6%A9%9F%E3%81%8B%E3%82%89%E3%81%84%E3%81%8B%E3%81%AB%E3%81%97%E3%81%A6%E7%B5%84%E7%B9%94%E3%82%92%E5%86%8D%E7%94%9F%E3%81%97v%E5%AD%97%E5%9B%9E%E5%BE%A9%E3%82%92%E6%88%90%E3%81%97%E9%81%82%E3%81%92%E3%82%8B%E3%81%AE%E3%81%8B%E8%80%81%E8%88%97%E7%BC%B6%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90%E3%81%A7%E3%81%AF%E5%8E%B3%E3%81%97%E3%81%84%E7%8A%B6%E6%B3%81%E3%81%8B%E3%82%89%E6%95%B0%E5%B9%B4%E3%81%A75%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%AE%E9%BB%92%E5%AD%97%E5%8C%96%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%9D/1459575416283225/",
+    "https://www.facebook.com/tomoyo.motomura/posts/wo-one-pr%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%A7%E6%9C%881%E5%9B%9E%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%B7%E3%82%A7%E3%82%A2%E4%BC%9A%E4%BB%8A%E6%9C%88%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF2%E6%9C%AC%E7%AB%8B%E3%81%A6%E3%81%A7%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93%E3%81%AE%E5%AD%A6%E3%81%B3%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%81%BE%E3%81%9A%E3%81%AF%E5%81%B4%E5%B3%B6%E8%A3%BD%E7%BD%90%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE-%E7%9F%B3%E5%B7%9D%E8%B2%B4%E4%B9%9F%E7%A4%BE%E9%95%B7%E3%81%AE%E3%81%8A%E8%A9%B1120%E5%91%A8%E5%B9%B4%E7%A4%BE/29195957360038888/"
+   ]
+  },
+  {
+   "query": "側島製罐 note 社長",
+   "results": [
+    "https://note.com/lwitbr1906",
+    "https://note.com/lwitbr1906/n/n68c7c78514a7",
+    "https://shachomeikan.jp/industry_article/2524",
+    "https://orderie.jp/component/e/e-Co007/",
+    "https://note.com/lwitbr1906/n/nd4de4cdfec21",
+    "https://www.youtube.com/watch?v=hS6WWJRuFMo",
+    "https://manabi-naoshi.mhlw.go.jp/jirei/18/",
+    "https://www.nnlife.co.jp/pedia/succession/202512_sobajima",
+    "https://sobajima.jp/company/",
+    "https://note.com/okabiz/n/nd8e3101f2d8f"
+   ]
+  },
+  {
+   "query": "側島製罐 X 投稿",
+   "results": [
+    "https://adv.chunichi.co.jp/adfile/nagoya_love23/",
+    "https://x.com/LWITBR1906",
+    "https://orderie.jp/component/e/e-Co007/",
+    "https://sobajima.jp/news/1243/",
+    "https://www.wantedly.com/companies/cancompany/stories",
+    "https://note.com/risa_italy/n/nbf13774c24e7",
+    "https://prtimes.com/magazine/award-2022-sobajima/",
+    "https://tokyonewsmedia.com/archives/27262",
+    "https://www.chukei-news.co.jp/news/2025/11/01/OK0002511010e01_01/",
+    "https://x.com/sobajimacan"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部13頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部13頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部13頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部13頁・検索8回）"
+ }
+}

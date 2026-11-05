@@ -1,0 +1,738 @@
+{
+ "name": "経営上の問題点 製造業「需要の停滞・受注不足・販路開拓」を挙げた割合（同じ調査・年ごと）",
+ "en": "share of SME manufacturers citing weak demand as top issue Japan survey yearly",
+ "aliases": [
+  "中小企業景況調査 経営上の問題点 需要の停滞 製造業 site:smrj.go.jp",
+  "日本政策金融公庫 経営上の問題点 売上・受注の停滞",
+  "経営上の問題点 需要の停滞 割合 推移 filetype:pdf"
+ ],
+ "context": "①営業と採用・一次（販路の側）",
+ "kind": "market",
+ "researched_at": "2026-11-05T04:32:02.842060+00:00",
+ "evidence": {
+  "社数（規模別）": [
+   {
+    "quote": "総務省・経済産業省「令和3年経済センサス−活動調査」",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "半年かけて100人以上の人に会っ",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   }
+  ],
+  "採用難（公的統計）": [
+   {
+    "quote": "小企業の人手不足、 賃金 ・ 最低賃金に関する調査」 （2024年2月14日）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   }
+  ],
+  "採用にいくら払うか": [
+   {
+    "quote": "は全国加重平均で961円であったが、 2023年10月に43円",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に関する小委員会（第2回） 」によると、全国加重平均の",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年から2023年までの5年間において、DX の取り",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－10 直近3年間程度における、金融機関による経営支援",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "、調査時点（2023年）から直近3年間程",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－12 2 023年の年間売上高見通し（顧客ターゲットの明",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "19年時点と比較した、 2023年の年間売上高の見通しを確認した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年間売上高は、1月から12月にかけての売上高の合計",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年と比較した1カ月の平均的な相",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を務めたのは最初の1年間だけで",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当初の2年間は一人で経営していま",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   }
+  ],
+  "採用広報・採用サイトの単価": [
+   {
+    "quote": "装置を購入したいが、1台3,000万円前後という価格が",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 2,000万円",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 300万円",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金は1億1,125万円と、中小企業が多くを占めた",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 2,400万円",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   }
+  ],
+  "継続して払うか": [
+   {
+    "quote": "発展させるために必要となる取り組み、事業の継続に欠かせない資金と人手を確保する取り組み、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に対しては、事業の継続や雇用の維持に向けた緊急的な",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "れたものの、 経済の状況は改善基調が継続している （図−2",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ータの制約上、2000年については、2001年1月更新時点のデータ",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を、 ほかの系列については毎年12月更新時点のデータを使用している",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が平時に戻ったのもあるが、継続的",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を使用して、SNS アカウントの運用",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業継続マネジメントをはじめリスクマネジメントが幅広",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業継続計画の策定や、 新規事業ま",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同族経営であると、家業の継続を重視するだろう",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第4に、 事業継続計画などのリスク管理体制",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "などを統合、再編、更新、再創造しつつ、自らの中核的な",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "組織能力の更新、再創造も志向する危機への対応できる",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業継続計画の策定と、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ナンス面では、事業継続に強くコミットする経営者達が",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   }
+  ],
+  "どう買われるか": [
+   {
+    "quote": "本リポートでは、白書の概要について紹介して",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "関による実質無利子・無担保融資」 「民間金融機関による",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：日本商工会議所「商工会議所早期景気観測調査（LOBO調査） 」",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料： 日 本商工会議所・東京商工会議所「最低賃金引上げの影響および",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次に、 M&Aの満足度について紹介する",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、金融機関は、資金の出し手だけではなく、経営支",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "はいえないものの、数年間で金融機関が経営支援に注力",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－9 中小企業における金融機関からの経営支援サービス",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－10 直近3年間程度における、金融機関による経営支援",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "度で金融機関から受けた経営支援の効果について、 「効果があった」",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金を確保できる」 「金融機関からの評価が上がる」 「出資者",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以上、2024年版白書を紹介してきた",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "こでの 「支援機関」 とは、 商工会・商工会議所、 よろず支援拠点、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金融機関、税・法務関係士業・中小企業診断士・コンサルタント",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "だ、地元の神戸市で働いている方ば",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   }
+  ],
+  "営業と採用のどちらに困っているか": [
+   {
+    "quote": "小企業の人手不足、 賃金 ・ 最低賃金に関する調査」 （2024年2月14日）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2位を四捨五入して表示しているため、合計は",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   }
+  ],
+  "前例の会社（製造業特化）": [
+   {
+    "quote": "大学在学中に、キャ ンパス内に畑を耕すサーク ルを設立し、キャ ンパス内外で野菜を栽培する",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "程修了後、シンクタンク 、青果流通企業を経て㈱グッ ドテーブルズを設立",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "況調査」 で中小企業の従業員数過不足 DIの推移を確認し",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－2 中小企業の売上DIの推移（前年同期比）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「中小企業景況調査」 で、 中小企業・小規模事業者の売上",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の推移を確認したところ、 2021年以降、 売上単価が上昇",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "む中小企業が増加しており、これらの投資行動が売上高",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、 投資意欲と業績動向の関係について、 売上高、 経",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は「付加価値を高めるための行動をするべき」 と回",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "消極的な企業の売上高および労働生産性の変化率は負の",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "、売上高の変化率0.4％、経常利益の変",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "組んだ企業や、 M&A 成立後に 「相手先従業員とのコミュ",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、 中小企業と比べて売上不振の割合が高く、 厳しい経営",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模別の経営上の問題点をみると、 従業員20人未満",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の規模の小さい事業者は、 中小企業と比べ 「売上不振」 の",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "3,000",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "quote": "装置を購入したいが、1台3,000万円前後という価格が"
+   },
+   {
+    "value": "2,000",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "quote": "資本金 2,000万円"
+   },
+   {
+    "value": "300",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "quote": "資本金 300万円"
+   },
+   {
+    "value": "1,125",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "quote": "資本金は1億1,125万円と、中小企業が多くを占めた"
+   },
+   {
+    "value": "2,400",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "quote": "資本金 2,400万円"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://wp.standage.co.jp/2025/05/15/research20250512/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/016_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.yao.osaka.jp/_res/projects/default_project/_page_/001/012/054/vol70.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jma.or.jp/img/pdf-report/keieikadai_2024_report_issues_manufacturing.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shinkin.co.jp/okayama//files/keikyo43.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://caddi.com/ja-jp/news/press/20200915/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jma.or.jp/img/pdf-report/keieikadai_2024_report_issues_manufacturing-result.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hello-green.jp/column/manufacturing-10-years-later/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smrj.go.jp/research_case/questionnaire/fbrion0000002pjw-att/kaigaitenkai_202403_2_report_C1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/014_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/001496473.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kizuna-group.jp/nestlab/industry-manufacturing.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1692/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.biznet.co.jp/column/1639/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lfb.mof.go.jp/kantou/content/000105134.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hyogo.doyu.jp/files/4217/6231/1037/NT_report_58.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/pdf/ap2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ccreb-gateway.jp/reports/industry-trends-2026-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fiweek.jp/hub/ja-jp/blog/article01-issue.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jma-news.com/archives/6525",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orbray.com/magazine/archives/11882",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/017_03_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caddi.com/ja-jp/news/press/20251204/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsme.or.jp/kaisi/1293-28/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経営上の問題点 製造業「需要の停滞・受注不足・販路開拓」を挙げた割合（同じ調査・年ごと）",
+   "results": [
+    "https://wp.standage.co.jp/2025/05/15/research20250512/",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/016_04_00.pdf",
+    "https://www.city.yao.osaka.jp/_res/projects/default_project/_page_/001/012/054/vol70.pdf",
+    "https://www.jma.or.jp/img/pdf-report/keieikadai_2024_report_issues_manufacturing.pdf",
+    "https://www.shinkin.co.jp/okayama//files/keikyo43.pdf",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://jma-news.com/archives/6525",
+    "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "https://www2.biznet.co.jp/column/1639/",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/017_03_00.pdf"
+   ]
+  },
+  {
+   "query": "経営上の問題点 製造業「需要の停滞・受注不足・販路開拓」を挙げた割合（同じ調査・年ごと） 調査 PDF",
+   "results": [
+    "https://wp.standage.co.jp/2025/05/15/research20250512/",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/016_04_00.pdf",
+    "https://www.city.yao.osaka.jp/_res/projects/default_project/_page_/001/012/054/vol70.pdf",
+    "https://caddi.com/ja-jp/news/press/20200915/",
+    "https://www.jma.or.jp/img/pdf-report/keieikadai_2024_report_issues_manufacturing-result.pdf",
+    "https://hello-green.jp/column/manufacturing-10-years-later/",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://www.smrj.go.jp/research_case/questionnaire/fbrion0000002pjw-att/kaigaitenkai_202403_2_report_C1.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/017_03_00.pdf"
+   ]
+  },
+  {
+   "query": "経営上の問題点 製造業「需要の停滞・受注不足・販路開拓」を挙げた割合（同じ調査・年ごと） 厚生労働省",
+   "results": [
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/014_04_00.pdf",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "https://wp.standage.co.jp/2025/05/15/research20250512/",
+    "https://www.mhlw.go.jp/content/001496473.pdf",
+    "https://kizuna-group.jp/nestlab/industry-manufacturing.html",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://hello-green.jp/column/manufacturing-10-years-later/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1692/",
+    "https://www2.biznet.co.jp/column/1639/",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/016_04_00.pdf"
+   ]
+  },
+  {
+   "query": "経営上の問題点 製造業「需要の停滞・受注不足・販路開拓」を挙げた割合（同じ調査・年ごと） 規模別 万円",
+   "results": [
+    "https://wp.standage.co.jp/2025/05/15/research20250512/",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/016_04_00.pdf",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "https://www.jma.or.jp/img/pdf-report/keieikadai_2024_report_issues_manufacturing-result.pdf",
+    "https://lfb.mof.go.jp/kantou/content/000105134.pdf",
+    "https://www.hyogo.doyu.jp/files/4217/6231/1037/NT_report_58.pdf",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/pdf/ap2025.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf",
+    "https://ccreb-gateway.jp/reports/industry-trends-2026-manufacturing/"
+   ]
+  },
+  {
+   "query": "経営上の問題点 製造業「需要の停滞・受注不足・販路開拓」を挙げた割合（同じ調査・年ごと） 製造業 事例",
+   "results": [
+    "https://wp.standage.co.jp/2025/05/15/research20250512/",
+    "https://caddi.com/ja-jp/news/press/20200915/",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/014_04_00.pdf",
+    "https://kizuna-group.jp/nestlab/industry-manufacturing.html",
+    "https://hello-green.jp/column/manufacturing-10-years-later/",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1692/",
+    "https://www.fiweek.jp/hub/ja-jp/blog/article01-issue.html",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/016_04_00.pdf"
+   ]
+  },
+  {
+   "query": "経営上の問題点 製造業「需要の停滞・受注不足・販路開拓」を挙げた割合（同じ調査・年ごと） 2025 OR 2026",
+   "results": [
+    "https://wp.standage.co.jp/2025/05/15/research20250512/",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/014_04_00.pdf",
+    "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "https://hello-green.jp/column/manufacturing-10-years-later/",
+    "https://caddi.com/ja-jp/news/press/20251204/",
+    "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "https://jma-news.com/archives/6525",
+    "https://www.jsme.or.jp/kaisi/1293-28/"
+   ]
+  },
+  {
+   "query": "site:note.com 経営上の問題点 製造業「需要の停滞・受注不足・販路開拓」を挙げた割合（同じ調査・年ごと）",
+   "results": [
+    "https://note.com/sheep_ceosyatyo/n/ncfc7269a66cd",
+    "https://note.com/seankawakami/n/nbabccdcdbab7",
+    "https://note.com/nasu_strategy/n/nc1a0cbf80032",
+    "https://note.com/ib_pe_hf/n/n00c40c2a3c3a",
+    "https://note.com/xoperation/n/n93109494872d",
+    "https://note.com/tetsuji55/n/n0061c1868d67",
+    "https://note.com/loyal_ivy9071/n/nf6656a048090",
+    "https://note.com/sheep_ceosyatyo/n/n54a6d463bcf2",
+    "https://note.com/poromin/n/na452073d15b0",
+    "https://note.com/keiei_lab_note/n/nbfb89bcc221f"
+   ]
+  },
+  {
+   "query": "site:x.com 経営上の問題点 製造業「需要の停滞・受注不足・販路開拓」を挙げた割合（同じ調査・年ごと）",
+   "results": [
+    "https://x.com/sputnik_jp/status/2007867971931136106",
+    "https://x.com/murc_official/status/2069615300660904145",
+    "https://x.com/i/trending/2054138601936478610",
+    "https://x.com/firstep_karash/status/2038949430900969542",
+    "https://x.com/hiroki_shimazu/status/2117047094469087232",
+    "https://x.com/shinshu_makers/status/2112692878921343407",
+    "https://x.com/yossi0728/status/2110845671796576307"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 経営上の問題点 製造業「需要の停滞・受注不足・販路開拓」を挙げた割合（同じ調査・年ごと）",
+   "results": [
+    "https://jp.linkedin.com/pulse/top-challenges-manufacturing-firms-ooa9c?tl=ja",
+    "https://jp.linkedin.com/pulse/pain-manufacturing-company-5enlc?tl=ja",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7277095651329327104/",
+    "https://jp.linkedin.com/posts/kazuji-nakazato_人手不足で製造業はどう変わる経産省ものづくり白書に見るdxの課題と打ち手-activity-7445768827944226816-NK9n",
+    "https://jp.linkedin.com/pulse/why-marketing-fails-manufacturing-10-real-problems-solutions-mamure-qb7sf?tl=ja",
+    "https://www.linkedin.com/posts/masayoshi-ogawa1980_自社の商品が激安で売られてた販路拡大でメーカーが陥る大問題と解決策-activity-7293231508272623619-uTb1",
+    "https://jp.linkedin.com/posts/イチロー-菊田-8ab472a1_２０２６年最大の経営課題超人手不足時代の物流人材定着策ハコベル-activity-7398892422497390592-P_C5"
+   ]
+  },
+  {
+   "query": "site:facebook.com 経営上の問題点 製造業「需要の停滞・受注不足・販路開拓」を挙げた割合（同じ調査・年ごと）",
+   "results": [
+    "https://www.facebook.com/HuffPostJapan/posts/ナフサ不足製造業の3割にリスク中小製造業の経営を圧迫-ユニットバスが届かないなど住宅設備や食品パッケージの流通にも目詰まり-石油備蓄放出第2弾は5月1日開始サプ/1375102527991538/",
+    "https://www.facebook.com/doshinweb/posts/建設需要停滞の影響が資材製造などの関連企業にまで及んでいる室蘭市内で建築や土木関係を得意先とする製造業者の中には受注低迷を受け社員の一部を休ませる動きもある今後/6331631560204378/",
+    "https://www.facebook.com/nico.niigata/photos/-専門家等相談-新事業展開-商品技術開発-販路開拓国内-締切迫る第84回nicoクラブセミナー大廃業時代の町工場の生き残り戦略浜野製作所奮闘記のご案内-日本のも/1264025675763008/",
+    "https://www.facebook.com/rikkenminshu/videos/今国会の補正予算３つの問題点本日参院本会議にて令和8年度補正予算２案に対し反対討論を行いました私たちが求めてきた補正予算の編成電気ガス代支援の盛り込みは評価しま/1520122833227083/",
+    "https://www.facebook.com/tms.japan/photos/緊急報告アドブルー調達難が物流を直撃-在庫枯渇連休明けに限界点か-概要現在のアドブルー不足は単なる一時的な品薄の域を完全に超え国家規模の物流インフラ危機へと深化/26485129951113527/",
+    "https://www.facebook.com/nikkei/posts/totoユニットバスの受注停止へ-中東情勢で材料ナフサが不足/1486818042789593/",
+    "https://www.facebook.com/nikkei/posts/大型工事2026年度受注できず建設会社の7割-4割弱は契約済みの工事で工期が遅れる可能性があると回答しました東京都の中野サンプラザの再開発が白紙になるなど全国で/1415684729902925/"
+   ]
+  },
+  {
+   "query": "経営上の問題点 製造業「需要の停滞・受注不足・販路開拓」を挙げた割合（同じ調査・年ごと） note 社長",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000127.000033629.html",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/016_04_00.pdf",
+    "https://www.jma.or.jp/img/pdf-report/keieikadai_2024_report_issues_manufacturing.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.satfaq.jp/dx-column/manufacting-issues/",
+    "https://www.jfca-net.or.jp/data_files/view/4609",
+    "https://www.hyogo.doyu.jp/files/4217/6231/1037/NT_report_58.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2009.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/017_03_00.pdf"
+   ]
+  },
+  {
+   "query": "経営上の問題点 製造業「需要の停滞・受注不足・販路開拓」を挙げた割合（同じ調査・年ごと） X 投稿",
+   "results": [
+    "https://wp.standage.co.jp/2025/05/15/research20250512/",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/016_04_00.pdf",
+    "https://www.rieti.go.jp/jp/publications/nts/25j022.html",
+    "https://www.jma.or.jp/img/pdf-report/keieikadai_2024_report_issues_manufacturing-result.pdf",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1692/",
+    "https://www2.biznet.co.jp/column/1639/",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article29.html",
+    "https://qast.jp/media/manufacturing_future/",
+    "https://ccreb-gateway.jp/reports/industry-trends-2026-manufacturing/",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/017_03_00.pdf"
+   ]
+  },
+  {
+   "query": "share of SME manufacturers citing weak demand as top issue Japan survey yearly site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/copy-japan-targets-5000-companies-india-2029-yashasvi-rathore-gxlrc",
+    "https://www.linkedin.com/posts/jrstorment_yesterday-we-announced-the-state-of-tokenomics-activity-7509284449944088576-VZ68",
+    "https://business.linkedin.com/learn/resources/workplace-learning-report",
+    "https://www.linkedin.com/posts/jason-ong-%E7%8E%8B%E5%8A%B1%E5%BE%B7-%F0%9F%87%B8%F0%9F%87%AC-548311a1_singapore-hiring-outlook-hits-4-year-low-activity-7406302041368596480-Er1j",
+    "https://www.linkedin.com/pulse/weekly-economic-commentary-27-sep-2020-nasser-saidi",
+    "https://www.linkedin.com/posts/fintech-association-of-kenya_ceo-survey-september-2026-activity-7518638392159715329-rktp",
+    "https://jp.linkedin.com/in/azizbensoltana/pt",
+    "https://www.linkedin.com/posts/jeoung-yul-lee-667552108_decoupling-and-recoupling-through-stakeholder-activity-7516204419747856385-AYmJ",
+    "https://ca.linkedin.com/in/james-poston-your-working-capital-expert",
+    "https://jp.linkedin.com/in/pgudorf"
+   ]
+  }
+ ],
+ "missing": {
+  "作る側の原価": "記載なし（読んだ31頁・検索13回）"
+ }
+}

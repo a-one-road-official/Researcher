@@ -1,0 +1,643 @@
+{
+ "name": "中国地方の商工会議所・経済団体の経営課題調査（人材確保と販路開拓の同じ設問）",
+ "en": "Chugoku region chamber of commerce management issues survey labor shortage sales channel",
+ "aliases": [
+  "広島商工会議所 経営課題 調査 人材確保 販路開拓",
+  "岡山商工会議所 景気動向 経営上の問題点",
+  "中国経済連合会 アンケート 人手不足 受注 site:or.jp"
+ ],
+ "context": "①順位",
+ "kind": "market",
+ "researched_at": "2026-11-05T04:31:38.909198+00:00",
+ "evidence": {
+  "社数（規模別）": [
+   {
+    "quote": "➢ 全企業数の約85％、生産、雇用、消費・投資、公租公課等、地域経済の担い手",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 小規模事業者は、全企業数の約85％、生産、雇用、消費・投資、公租公課等を担う、地域経済",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   }
+  ],
+  "採用にいくら払うか": [
+   {
+    "quote": "◼ 経営支援は年間で約160万件",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高は過去最高の5,811万円（創業時557万円）を達成",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上３,000万円向上",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   }
+  ],
+  "採用広報・採用サイトの単価": [
+   {
+    "quote": "高は過去最高の5,811万円（創業時557万円）を達成",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上３,000万円向上",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   }
+  ],
+  "継続して払うか": [
+   {
+    "quote": "事業の継続や発展には、生産性向上による付加価値の拡大が急務",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "個々の事業継続と成長が地域経済循環を支え、日本経済全体の成長に繋がる",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 小規模事業者が物価高など急激な環境変化を克服し、事業継続、自立的な経営を実現する鍵は、",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その後も支援を継続、17年、持続化補助金でパンフ",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "た事業を安定して末永く、継続させていくことにある",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業継続５年以上の会員に表彰制度を設け、感謝状等",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ これら課題を克服し、事業継続していくには、生産性向上や付加価値拡大に向け、事業者の",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 経営発達支援計画の対象事業の拡大と柔軟な運用、伴走型補助金総額と上限引上げ",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 事業継続力強化支援計画の策定や法定経営指導員に対するインセンティブの拡充",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   }
+  ],
+  "どう買われるか": [
+   {
+    "quote": "１．商工会議所の概要 1",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 商工会議所は、商工会議所法に基づく、地域の商工業者等を会員とする「地域総合経済団体」",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 1878（明治11）年、渋沢栄一が東京、大阪、神戸に商法会議所（後の商工会議所）設立",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現在、515商工会議所（会員:126万者）、現場主義・双方向主義の下、地域経済の底上げを担う",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③公共性－商工会議所法に基づき設立される民間団体、④国際性－各国に商工会議所が組織",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商工会議所活動の３本柱 地域経済の好循環",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商工会議所の経営指導員は、経営者に寄り添い伴走支援",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．商工会議所の経営支援の特長：個社支援",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商店街活性化商工会議所は多様な主体と連携し",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６．商工会議所の経営支援の特長：「点」「線」「面」の伴走支援 6",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 商工会議所法の目的は「商工業の総合的な改善発達」と「社会一般の福祉の増進」",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商工会議所は、気軽に相談できる「かかりつけ医」、困った時の「駆け込み寺」、災害発生時",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商工会議所の経営指導員等の他にはない支援の特徴（点と線と面の全てを支援）",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "専門家等の支援は、ビジネスベースの「点」での個社支援が主となるが、商工会議所の経営指導員等は、",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７．商工会議所の経営支援の特長：内外ネットワークの活用 7",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   }
+  ],
+  "営業と採用のどちらに困っているか": [
+   {
+    "quote": "３．小規模事業者の労働分配率と経営課題 3",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   }
+  ],
+  "前例の会社（製造業特化）": [
+   {
+    "quote": "◼ 1878（明治11）年、渋沢栄一が東京、大阪、神戸に商法会議所（後の商工会議所）設立",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③公共性－商工会議所法に基づき設立される民間団体、④国際性－各国に商工会議所が組織",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◆事業者のビジネスステージに応じ、創業、事業承継、",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 販売や調達等の事業活動を立地地域に依存し、経営者や従業員の多くが居住者",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対応すべき課題は多様化し、売上不振の企業割合は高い",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "小規模事業者は中小企業に比べて売上不振の割合が高い",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "規模や売上拡大を目指し、成長の梯子を上っていく",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③公共性－商工会議所法に基づき設立される民間団体",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※2005年時は、創業、事業承継、海外展開は未集計",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "創業、事業承継、DX、ビジネス変革、海外展開、",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②創業、事業承継の推進",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 産官学金連携による創業塾やセミナー開催、",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年創業の着物・呉服業",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2011年設立の厨房排水の油阻集器に係る消耗品の卸",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1982年創業の業務用パン製造・卸売業",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "5,811",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "quote": "高は過去最高の5,811万円（創業時557万円）を達成"
+   },
+   {
+    "value": "557",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "quote": "高は過去最高の5,811万円（創業時557万円）を達成"
+   },
+   {
+    "value": "３,000",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "quote": "売上３,000万円向上"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_2_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=4424",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.zenkyo.or.jp/chiiki/docs/chosa/houkoku_2020.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jcci.or.jp/activity/research/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.energia.co.jp/eneso/kankoubutsu/keirepo/pdf/MR1307-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.miyazaki-cci.or.jp/miyazaki/wp-content/uploads/2025/09/%E3%80%90%E5%AE%AE%E5%B4%8E%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80%E3%80%91%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6_%E7%AC%AC2%E5%9B%9E%E7%B5%8C%E5%96%B6%E8%AA%B2%E9%A1%8C%E8%AA%BF%E6%9F%BB%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yokkaichi-cci.or.jp/news/11774/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hiroshimacci.or.jp/investigation/202604",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.yonago.lg.jp/secure/57199/enquete.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/yorozu/003/006.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chugoku.meti.go.jp/r8fy/research/kikaku/260623.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.anshin-zaidan.or.jp/about/report/202007_08report1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/yamaguchi-roudoukyoku/content/contents/002602937.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://chugokukeiren.jp/proposal/pdf/y2021/20220317press-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/chiiki_keizai/pdf/021_01_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/003.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fukunet.or.jp/wp-content/uploads/2018/12/20191128_fukusho1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://h-c.or.jp/wp-content/uploads/2025/11/R7-%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E8%AA%BF%E6%9F%BB%EF%BC%88%E8%AA%BF%E6%9F%BB%E7%A5%A8-%E6%AD%A3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/ncs/33/0/33_72/_pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_kaseguchikara/003/004.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://chugokukeiren.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.e-rep.jp/katudou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sousei.bz/case-workstyle-reform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chugokukeiren.jp/proposal/pdf/y2014/201406tyuugokutiikinoseizougyotyougaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://crirc.jp/jigyonaiyou/research/jishu/pdf/project/2022-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chugoku.meti.go.jp/seisaku/tiiki/sangyoujinzainoikusei.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.miraiken.or.jp/topics.html?id=153",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/special/index.php?page=6&label1%5B%5D=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中国地方の商工会議所・経済団体の経営課題調査（人材確保と販路開拓の同じ設問）",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_2_1.html",
+    "https://www.tokyo-cci.or.jp/page.jsp?id=4424",
+    "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "https://www.zenkyo.or.jp/chiiki/docs/chosa/houkoku_2020.pdf",
+    "https://www.jcci.or.jp/activity/research/index.html",
+    "https://www.energia.co.jp/eneso/kankoubutsu/keirepo/pdf/MR1307-1.pdf",
+    "https://kashihara-cci.or.jp/jigyokankyo/",
+    "https://h-c.or.jp/wp-content/uploads/2025/11/R7-%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E8%AA%BF%E6%9F%BB%EF%BC%88%E8%AA%BF%E6%9F%BB%E7%A5%A8-%E6%AD%A3.pdf",
+    "https://www.ishikari-cci.or.jp/info/seminar/59078.html",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/yorozu/003/006.pdf"
+   ]
+  },
+  {
+   "query": "中国地方の商工会議所・経済団体の経営課題調査（人材確保と販路開拓の同じ設問） 調査 PDF",
+   "results": [
+    "https://www.miyazaki-cci.or.jp/miyazaki/wp-content/uploads/2025/09/%E3%80%90%E5%AE%AE%E5%B4%8E%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80%E3%80%91%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6_%E7%AC%AC2%E5%9B%9E%E7%B5%8C%E5%96%B6%E8%AA%B2%E9%A1%8C%E8%AA%BF%E6%9F%BB%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88.pdf",
+    "https://www.yokkaichi-cci.or.jp/news/11774/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_2_1.html",
+    "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "https://www.tokyo-cci.or.jp/page.jsp?id=4424",
+    "https://www.zenkyo.or.jp/chiiki/docs/chosa/houkoku_2020.pdf",
+    "https://www.hiroshimacci.or.jp/investigation/202604",
+    "https://www.city.yonago.lg.jp/secure/57199/enquete.pdf",
+    "https://www.jcci.or.jp/activity/research/index.html",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/yorozu/003/006.pdf"
+   ]
+  },
+  {
+   "query": "中国地方の商工会議所・経済団体の経営課題調査（人材確保と販路開拓の同じ設問） 厚生労働省",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_2_1.html",
+    "https://www.tokyo-cci.or.jp/page.jsp?id=4424",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "https://www.energia.co.jp/eneso/kankoubutsu/keirepo/pdf/MR1307-1.pdf",
+    "https://www.anshin-zaidan.or.jp/about/report/202007_08report1/",
+    "https://www.jcci.or.jp/activity/research/index.html",
+    "https://www.zenkyo.or.jp/chiiki/docs/chosa/houkoku_2020.pdf",
+    "https://jsite.mhlw.go.jp/yamaguchi-roudoukyoku/content/contents/002602937.pdf",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/yorozu/003/006.pdf"
+   ]
+  },
+  {
+   "query": "中国地方の商工会議所・経済団体の経営課題調査（人材確保と販路開拓の同じ設問） 規模別 万円",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/003.pdf",
+    "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "https://www.zenkyo.or.jp/chiiki/docs/chosa/houkoku_2020.pdf",
+    "https://www.yokkaichi-cci.or.jp/news/11774/",
+    "https://www.tokyo-cci.or.jp/page.jsp?id=4424",
+    "https://www.miyazaki-cci.or.jp/miyazaki/wp-content/uploads/2025/09/%E3%80%90%E5%AE%AE%E5%B4%8E%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80%E3%80%91%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6_%E7%AC%AC2%E5%9B%9E%E7%B5%8C%E5%96%B6%E8%AA%B2%E9%A1%8C%E8%AA%BF%E6%9F%BB%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88.pdf",
+    "https://www.fukunet.or.jp/wp-content/uploads/2018/12/20191128_fukusho1.pdf",
+    "https://www.jcci.or.jp/activity/research/index.html",
+    "https://h-c.or.jp/wp-content/uploads/2025/11/R7-%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E8%AA%BF%E6%9F%BB%EF%BC%88%E8%AA%BF%E6%9F%BB%E7%A5%A8-%E6%AD%A3.pdf",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/yorozu/003/006.pdf"
+   ]
+  },
+  {
+   "query": "中国地方の商工会議所・経済団体の経営課題調査（人材確保と販路開拓の同じ設問） 製造業 事例",
+   "results": [
+    "https://www.tokyo-cci.or.jp/page.jsp?id=4424",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/003.pdf",
+    "https://www.zenkyo.or.jp/chiiki/docs/chosa/houkoku_2020.pdf",
+    "https://www.jcci.or.jp/activity/research/index.html",
+    "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "http://www.e-rep.jp/katudou.html",
+    "https://sousei.bz/case-workstyle-reform/",
+    "https://chugokukeiren.jp/proposal/pdf/y2014/201406tyuugokutiikinoseizougyotyougaiyou.pdf",
+    "https://crirc.jp/jigyonaiyou/research/jishu/pdf/project/2022-2.pdf",
+    "https://chugokukeiren.jp/proposal/pdf/y2021/20220317press-2.pdf"
+   ]
+  },
+  {
+   "query": "中国地方の商工会議所・経済団体の経営課題調査（人材確保と販路開拓の同じ設問） 2025 OR 2026",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_2_1.html",
+    "https://www.tokyo-cci.or.jp/page.jsp?id=4424",
+    "https://www.jcci.or.jp/activity/research/index.html",
+    "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "https://www.miyazaki-cci.or.jp/miyazaki/wp-content/uploads/2025/09/%E3%80%90%E5%AE%AE%E5%B4%8E%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80%E3%80%91%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6_%E7%AC%AC2%E5%9B%9E%E7%B5%8C%E5%96%B6%E8%AA%B2%E9%A1%8C%E8%AA%BF%E6%9F%BB%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88.pdf",
+    "https://www.miraiken.or.jp/topics.html?id=153",
+    "https://j-net21.smrj.go.jp/special/index.php?page=6&label1%5B%5D=1",
+    "https://www.zenkyo.or.jp/chiiki/docs/chosa/houkoku_2020.pdf",
+    "https://www.shokochukin.co.jp/report/data/"
+   ]
+  },
+  {
+   "query": "site:note.com 中国地方の商工会議所・経済団体の経営課題調査（人材確保と販路開拓の同じ設問）",
+   "results": [
+    "https://note.com/seikeitohoku/n/n5cbf77a9f3ad",
+    "https://note.com/loyal_ivy9071/n/nf6656a048090",
+    "https://note.com/loyal_ivy9071/n/n4adec46f77ec",
+    "https://note.com/ochyai/n/n8ee6b5be5f55",
+    "https://note.com/fujit_ecbassman/n/n23a0ab6aa8cf",
+    "https://note.com/ezuremanagement/n/ned8d225ba00b",
+    "https://note.com/china_business_t/n/ne6b757b23afd",
+    "https://note.com/layer_sei/n/n0eb94cea1c05",
+    "https://note.com/proper_oriole263/n/nc8b28c0a4faf",
+    "https://note.com/kamitaku1113/n/n129272237840"
+   ]
+  },
+  {
+   "query": "site:x.com 中国地方の商工会議所・経済団体の経営課題調査（人材確保と販路開拓の同じ設問）",
+   "results": [
+    "https://x.com/meti_Chugoku",
+    "https://x.com/Yakushi_com",
+    "https://x.com/Kaiji_Press/status/2100425555317576072",
+    "https://x.com/TetsushiNikkei/status/2066526746447601809",
+    "https://x.com/hasibiro_maga/status/2067937220598902983",
+    "https://x.com/peopledailyJP/status/2079473451342135366",
+    "https://x.com/feari_doll/status/2076630652699681002"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 中国地方の商工会議所・経済団体の経営課題調査（人材確保と販路開拓の同じ設問）",
+   "results": [
+    "https://www.linkedin.com/posts/hubei-talent_%E8%8D%86%E6%A5%9A%E4%BA%A7%E4%B8%9A-%E6%B9%96%E5%8C%97%E4%B8%80%E6%9D%9F%E5%85%89%E8%B7%A8%E8%B6%8A%E5%9F%8E%E9%99%85%E7%85%A7%E4%BA%AE%E4%B8%80%E7%89%87%E4%BA%A7%E4%B8%9A-one-beam-of-light-activity-7504080869381382145-GPLW",
+    "https://jp.linkedin.com/in/satorushibata",
+    "https://jp.linkedin.com/in/yoshikazu-furukawa-5916a541",
+    "https://jp.linkedin.com/posts/satorushibata_岡山-倉敷-中国地方-activity-7401367884113076225-TkkO",
+    "https://jp.linkedin.com/posts/satorushibata_地方創生-広島-広島大学-activity-7291281197140258816-cDZe",
+    "https://www.linkedin.com/pulse/中国e82-ai時代の採用条件企業が求める人材採用条件の変化-国良-大槻-otsuki--kh9zc",
+    "https://www.linkedin.com/posts/momoko-tanaka-833126174_日頃よりお世話になっています大阪商工会議所国際部主催の視察ツアーの案内が公開されました-activity-7084399884233027584-C4Hy",
+    "https://jp.linkedin.com/posts/jun-matsumoto-449499152_経理財務税務部門の357が人材育成人材確保に課題感-デロイト-トーマツ-activity-7352197353912590336-prV1"
+   ]
+  },
+  {
+   "query": "site:facebook.com 中国地方の商工会議所・経済団体の経営課題調査（人材確保と販路開拓の同じ設問）",
+   "results": [
+    "https://www.facebook.com/meti.chugoku/",
+    "https://www.facebook.com/yeg.shimonoseki/posts/令和８年５月２３日土岡山県津山市の津山鶴山ホテルにて令和８年度中国ブロック商工会議所青年部連合会第１回会長会議定時総会が開催されました下関ｙｅｇからは藤村会長が/977600491565064/",
+    "https://www.facebook.com/izumoyeg/posts/中国ブロック商工会議所青年部連合会地域再考委員会による地域版ふるさと創造風会議が出雲で開催されました商工会議所の風会議とは行政経済団体青年部yegなど立場の垣根/1434218922077739/",
+    "https://www.facebook.com/matsuecci/posts/11月6日開催人材課題解決に向けた方策を考えるワークショップについて中国経済産業局では採用や定着など人材課題の解決に向けたワークショップを開催されますのでご案内/1131798175790959/",
+    "https://www.facebook.com/meti.chugoku/posts/yeg商工会議所青年部との共同事業をテーマにした記事を公開しました地域の取組というともっと大きくもっと多くの人にという発想になりがちです一方で長く続いてきた活動/1531353639031550/",
+    "https://www.facebook.com/matsuecci/posts/中国経済産業局では地域企業の経営者人事担当者の方々を対象に人材戦略に関するセミナーを開催されますのでご案内いたします人材の確保や定着に向けた事例を踏まえた話をさ/1080150714289039/",
+    "https://www.facebook.com/izmcci/photos/中国地方商工会議所女性会連合会-会長-田島久子氏あいさつの様子/2293163694095767/"
+   ]
+  },
+  {
+   "query": "中国地方の商工会議所・経済団体の経営課題調査（人材確保と販路開拓の同じ設問） note 社長",
+   "results": [
+    "https://www.tokyo-cci.or.jp/page.jsp?id=4424",
+    "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/003.pdf",
+    "https://www.zenkyo.or.jp/chiiki/docs/chosa/houkoku_2020.pdf",
+    "https://kashihara-cci.or.jp/jigyokankyo/",
+    "https://www.ishikari-cci.or.jp/info/seminar/59078.html",
+    "https://sousei.bz/case-workstyle-reform/",
+    "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "https://www.jcci.or.jp/news/research/index.html",
+    "https://www.chugoku.meti.go.jp/r8fy/research/kikaku/260623.html"
+   ]
+  },
+  {
+   "query": "中国地方の商工会議所・経済団体の経営課題調査（人材確保と販路開拓の同じ設問） X 投稿",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b2_2_1.html",
+    "https://www.tokyo-cci.or.jp/page.jsp?id=4424",
+    "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "https://www.miyazaki-cci.or.jp/miyazaki/wp-content/uploads/2025/09/%E3%80%90%E5%AE%AE%E5%B4%8E%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80%E3%80%91%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6_%E7%AC%AC2%E5%9B%9E%E7%B5%8C%E5%96%B6%E8%AA%B2%E9%A1%8C%E8%AA%BF%E6%9F%BB%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88.pdf",
+    "https://www.zenkyo.or.jp/chiiki/docs/chosa/houkoku_2020.pdf",
+    "https://www.active-hiroshima.jp/activenews/kenren/page/4/",
+    "https://www.hiroshimacci.or.jp/investigation/202604",
+    "https://www.acci.or.jp/2026/04/28/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E7%B5%8C%E5%96%B6%E8%AA%B2%E9%A1%8C%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E8%AA%BF%E6%9F%BB%E7%B5%90%E6%9E%9C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "https://www.jcci.or.jp/news/research/index.html",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/yorozu/003/006.pdf"
+   ]
+  },
+  {
+   "query": "Chugoku region chamber of commerce management issues survey labor shortage sales channel site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/nozomimorgan_japanesebusiness-hrstrategy-usbusiness-activity-7491180040978796544-QqKY",
+    "https://jp.linkedin.com/in/marcpinsard",
+    "https://jp.linkedin.com/in/heather-prosser-350bba1a",
+    "https://www.linkedin.com/posts/alexandraschirmer_join-us-virtually-on-22-september-for-the-activity-7507365583706009600-3kJb",
+    "https://cn.linkedin.com/in/qi-t-b5835479",
+    "https://cn.linkedin.com/in/ira-zaka-6b776248",
+    "https://www.linkedin.com/posts/ahk-greater-china_partnerforgrowth-activity-7509151119680512000-jqYl",
+    "https://jp.linkedin.com/in/hirohitoazuma",
+    "https://cn.linkedin.com/in/dbirke",
+    "https://sg.linkedin.com/in/dulguunnomin-gantur"
+   ]
+  }
+ ],
+ "missing": {
+  "採用難（公的統計）": "記載なし（読んだ33頁・検索13回）",
+  "作る側の原価": "記載なし（読んだ33頁・検索13回）"
+ }
+}

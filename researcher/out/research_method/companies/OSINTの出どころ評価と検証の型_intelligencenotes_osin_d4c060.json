@@ -1,0 +1,1225 @@
+{
+ "name": "OSINTの出どころ評価と検証の型（intelligencenotes・osint-software）",
+ "en": "OSINT source verification framework reliability grading provenance",
+ "aliases": [
+  "intelligencenotes OSINT methodologies",
+  "osint-software methodology investigators",
+  "source reliability information credibility admiralty grading"
+ ],
+ "context": "探し先",
+ "kind": "market",
+ "researched_at": "2026-11-05T04:42:23.981695+00:00",
+ "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "Altss Private Markets OSINT Verification Standard | Altss Frameworks",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Inspect the methodology",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The Altss standard for verifying publicly accessible private-markets information: Berkeley Protocol-aligned source, item and content verification, the three evidence dimensions with origin kept separate from collection method, source grading, ICD 203 language for judgments, and source-rights recording.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5. Method",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The record kept for each evidence item about a private-markets entity or event: identifier, retrieval date, fixed copy or fingerprint, collection method and rights basis.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Source Reliability & Confidence Methodology",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Entity Resolution Methodology",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Temporal Data & Freshness Methodology",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Investment Signal Classification Methodology",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The standing of a source for a type of claim (RECORD_KEEPER, SUBJECT, DIRECT_ACCESS, COPY_OR_COMPILATION or UNATTRIBUTED), a grade of how dependable it has been for that type of claim (A to F), and a grade of how well an item of information is supported (1 to 6), all defined in the Source Reliability & Confidence Methodology. See",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the collection method, as process metadata (rule 6.2);",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "describes the quality and credibility of its underlying sources and methods;",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Rules 6.1 to 6.4 set out the Altss evidence model. It is an Altss-defined methodology, not an industry standard.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "6.2 Collection method is not origin.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The collection method is recorded separately, with each capture, as process metadata and is never an origin value. Origin follows the artefact: a Form ADV has origin REGULATORY_PUBLIC_RECORD, a news article OSINT_SOURCED and a statement the subject gives in answer to a request DISCLOSED, however each was obtained.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Evaluating OSINT: Why It Matters and How to Do It Right - SOS Intelligence",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Evaluating OSINT: Why It Matters and How to Do It Right",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In short, evaluation is what separates noise from insight. It’s not just a good practice – it’s a critical step that determines the overall value and credibility of your intelligence output.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "One widely recognised method for evaluating sources and information is the Admiralty Code, also known as the NATO Source Reliability and Information Credibility grading system. It uses a two-part alphanumeric rating to assess:",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Once you’ve identified what you’re looking for and established your evaluation criteria, the next step is to put those principles into practice. Evaluating sources effectively requires both critical thinking and a methodical approach. Below are some techniques that can help analysts assess the credibility, authenticity, and relevance of open source material.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Even with a solid framework and a set of reliable techniques, OSINT evaluation often comes down to the fine details – the subtle clues, the consistency checks, and the instinct honed by experience. This section offers practical, hands-on advice to help you refine your evaluation skills and avoid common pitfalls.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Maintain a record of how you’ve assessed each source – including decisions around credibility, context, and any verification steps taken. This is especially important in collaborative environments or when intelligence may need to be defended later. Tools like analyst notebooks, spreadsheets, or structured databases can help you track this clearly.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Structured templates and tools from the OSINT community that support methodical evaluation and reporting.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Absence of a Structured Framework",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Whether you’re using the Admiralty Code, applying structured frameworks, or leveraging specialised tools, the goal remains the same: to produce intelligence that is accurate, reliable, and actionable. Evaluation isn’t a final step in the OSINT process – it’s woven throughout.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Evaluating OSINT effectively requires a structured approach. Rather than relying on gut instinct or assumptions, analysts should assess each piece of information against a set of established criteria. This ensures consistency, reduces bias, and increases the likelihood that your final intelligence product will be trusted and actionable.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Is the content neutral, or does it show bias? Be wary of emotionally charged language, persuasive tone, or content designed to provoke. Identifying whether the source has an agenda can help you judge how much weight to give the information.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "– how dependable the source is based on past performance, access to information, and known biases.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5. Consider the Source’s Motivation and Bias",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "a source is publishing certain information can help contextualise its reliability. Is the content investigative, promotional, political, or satirical? Is it user-generated or professionally produced? Analysing tone, language, and publication history can reveal bias or intent that may affect credibility.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Even with a solid framework and a set of reliable techniques, OSINT evaluation often comes down to the fine details – the subtle clues, the consistency checks, and the instinct honed by experience. This section offers practical, hands-on advice to help you refine your evaluation skills and avoid common pitfalls.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Can I identify any potential bias?",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3. Beware of Confirmation Bias",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "checked against the cited primary sources on",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In the Protocol's terms, gaining possession of online information through a screenshot, a conversion to PDF, a download or another form of capture.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Filings to, and records kept by, a regulator, statutory registry or court, retrieved from that body's own system",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Anything beyond the third party's own access; the content of a filing it describes, until the filing itself is retrieved",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4.2 What common US filings do and do not show.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Establish that the item is what it appears to be. A filing retrieved from the registry's own system is a different item from a copy of it hosted elsewhere. Check metadata, and compare dates inside the document with the page's dates.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A news report of a filing is evidence of what the reporter wrote. Its origin is OSINT_SOURCED. When the filing itself is retrieved from the regulator's own system, it becomes a second evidence item with origin REGULATORY_PUBLIC_RECORD. An evidence item names only what the researcher actually read.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A filing to, or a record kept by, a regulator, statutory registry or court, retrieved from that body's own system",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "An official publication of a public body or public-sector institution, issued in its official capacity and not as a filing to a regulator",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A filing is still the filer's own account. REGULATORY_PUBLIC_RECORD says where it was filed, not that it is true.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A subject's filing and the same subject's press release are one originating source for facts only the subject can supply. Together they do not make a claim CORROBORATED (see",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Filings are the filers' own accounts. A body's acceptance of a filing does not by itself establish that its content is true; for Form ADV the SEC states that accepting the form is not a finding that it was completed correctly.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Every evidence item records its capture date and time, the artefact's own publication or filing date, and the as-of date of the value, using the date vocabulary of the Evidence & Provenance Standard. These dates are never substituted for one another.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A copy of a filing hosted by an aggregator.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "It is OSINT_SOURCED until the filing is retrieved from the regulator's or registry's own system.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Which companies, investors and people matter to your work? Check the scope, fields and depth for your use case.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "10. Edge cases",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "11. Worked examples",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 1: a fund commitment, recorded in full.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claim: \"Example County Pension committed USD 50 million to Example Buyout Fund IV.\"",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "E1: Example Capital's press release on the fund's first close, naming the pension and the amount",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 2: a report of a filing.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 3: circular reporting.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 4: an attribute no usable source states.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 5: separating information from judgment.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Information: \"The June 2026 minutes of Example University Endowment's investment committee record approval of a revised policy portfolio with a 5% private credit target.\" (OFFICIAL_INSTITUTIONAL, OBSERVED.)",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 6: one press release, two origins.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Changes to the origin values, the validation statuses, the source-rights rule in 6.6 or the personal-data rules in 6.7 are major changes. New examples and clarifications are minor changes.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, a rating of",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IntelTechniques Workbook / Casefile",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Case Study: Misidentification in the Boston Marathon Bombing",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The 2013 Boston Marathon bombing provides a powerful example of how poor OSINT evaluation can lead to serious consequences. In the immediate aftermath of the attack, online communities – particularly Reddit – attempted to crowdsource intelligence to help identify the perpetrators.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This case shows that while open source intelligence can be powerful, it must be used responsibly. Without evaluation, it’s just noise – and in high-stakes situations, that noise can do real damage.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "observed, derived and estimated data",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "DERIVED and ESTIMATED values have no origin of their own. Their origin is the set of origins of their inputs.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For DERIVED and ESTIMATED values, validation covers the inputs and the correct application of the rule or method. Validation never turns an ESTIMATED value into an OBSERVED one.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Reliability and credibility grades are judgments. Irwin and Mandel (2019) argue that the Admiralty-style scales mask subjectivity and recommend numeric probability estimates and periodic re-evaluation. This standard keeps ordinal grades for sources and information, requires reasons for each, and uses numeric ranges for likelihood judgments.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation (Source Triangulation)",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Observed, Derived and Estimated Data",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/platypus2000jp/n/n5eecd471d349",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sk_kasou/n/nbde2a2effa4d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nikkeimatomemo/n/ncd86c6ef3ffb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sk_kasou/n/n5f1905ea4f6f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/platypus2000jp/n/n908cf3d0301e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.forensicnotes.com/osint-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kishioka/n/nf3b74d4d4ffe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hhs.gov/sites/default/files/osint-how-to-analyst-note-tlpwhite.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/dora_e_m/n/n53da07162cf1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiz.io/ja-jp/academy/threat-intel/osint-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibm.com/jp-ja/think/topics/osint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://product.sct.co.jp/blog/security/free-7-recommended-osint-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f2ff.jp/introduction/11270?event_id=secd-2025-02-tokyo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sans.org/webcasts/nextstep-osint-practical-image-video-verification-techniques-ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aofirs.org/articles/osint-open-source-intelligence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it.miyazaki.tv/osint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.babelstreet.com/blog/reliable-and-verifiable-osint-with-new-standard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://knowlesys.com/en/articles/news/resources_a_practical_guide_to_source_verification_in_open_source_intelligence.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://osint.dev/osint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bitsight.com/learn/cti/osint-framework",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "OSINTの出どころ評価と検証の型（intelligencenotes・osint-software） site:note.com",
+   "results": [
+    "https://note.com/platypus2000jp/n/n5eecd471d349",
+    "https://note.com/sk_kasou/n/nbde2a2effa4d",
+    "https://note.com/nikkeimatomemo/n/ncd86c6ef3ffb",
+    "https://note.com/sk_kasou/n/n5f1905ea4f6f",
+    "https://note.com/platypus2000jp/n/n908cf3d0301e",
+    "https://note.com/itta_usa/n/nd300923856e1",
+    "https://note.com/bright_slug2632/n/n44571e8c8f5d"
+   ]
+  },
+  {
+   "query": "OSINTの出どころ評価と検証の型（intelligencenotes・osint-software） note",
+   "results": [
+    "https://www.forensicnotes.com/osint-tools/",
+    "https://note.com/kishioka/n/nf3b74d4d4ffe",
+    "https://www.hhs.gov/sites/default/files/osint-how-to-analyst-note-tlpwhite.pdf",
+    "https://note.com/dora_e_m/n/n53da07162cf1",
+    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://www.wiz.io/ja-jp/academy/threat-intel/osint-tools",
+    "https://note.com/4989er/n/n40c8fd7dc601",
+    "https://intelligencenotes.com/"
+   ]
+  },
+  {
+   "query": "OSINTの出どころ評価と検証の型（intelligencenotes・osint-software） やり方",
+   "results": [
+    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://www.wiz.io/ja-jp/academy/threat-intel/osint-tools",
+    "https://www.ibm.com/jp-ja/think/topics/osint",
+    "https://www.youtube.com/watch?v=lr-4eNnBKNA",
+    "https://dataimpulse.com/ja-jp/blog/osint-tools/"
+   ]
+  },
+  {
+   "query": "OSINTの出どころ評価と検証の型（intelligencenotes・osint-software） 事例",
+   "results": [
+    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://product.sct.co.jp/blog/security/free-7-recommended-osint-tools",
+    "https://f2ff.jp/introduction/11270?event_id=secd-2025-02-tokyo",
+    "https://www.sans.org/webcasts/nextstep-osint-practical-image-video-verification-techniques-ja",
+    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス"
+   ]
+  },
+  {
+   "query": "OSINT source verification framework reliability grading provenance",
+   "results": [
+    "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "https://www.babelstreet.com/blog/reliable-and-verifiable-osint-with-new-standard",
+    "https://knowlesys.com/en/articles/news/resources_a_practical_guide_to_source_verification_in_open_source_intelligence.html",
+    "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "https://osint.dev/osint",
+    "https://www.bitsight.com/learn/cti/osint-framework",
+    "https://shadowdragon.io/resources/osint-data-sources/",
+    "https://osintersect.com/training/specialist-training/verification-validation/",
+    "https://www.sans.org/cyber-security-courses/advanced-open-source-intelligence-gathering-analysis",
+    "https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework"
+   ]
+  },
+  {
+   "query": "site:note.com OSINTの出どころ評価と検証の型（intelligencenotes・osint-software）",
+   "results": [
+    "https://note.com/platypus2000jp/n/n5eecd471d349",
+    "https://note.com/sk_kasou/n/nbde2a2effa4d",
+    "https://note.com/nikkeimatomemo/n/ncd86c6ef3ffb",
+    "https://note.com/sk_kasou/n/n5f1905ea4f6f",
+    "https://note.com/platypus2000jp/n/n908cf3d0301e",
+    "https://note.com/itta_usa/n/nd300923856e1",
+    "https://note.com/bright_slug2632/n/n44571e8c8f5d"
+   ]
+  },
+  {
+   "query": "site:x.com OSINTの出どころ評価と検証の型（intelligencenotes・osint-software）",
+   "results": [
+    "https://x.com/note_osint",
+    "https://x.com/connect24h/status/2069065298511352053",
+    "https://x.com/osintjapan/status/2105508006163095752",
+    "https://x.com/bluesbookblog/status/1976795618568995106",
+    "https://x.com/KimK91fw/status/2039154604202766587",
+    "https://x.com/hikarine3/status/2116912534150410458",
+    "https://x.com/MalwareBibleJP/status/2075021875810607315"
+   ]
+  },
+  {
+   "query": "site:linkedin.com OSINTの出どころ評価と検証の型（intelligencenotes・osint-software）",
+   "results": [
+    "https://jp.linkedin.com/pulse/what-osint-investigation-why-does-matter-ethos-risk-services-h8bfe?tl=ja",
+    "https://jp.linkedin.com/pulse/open-source-intelligence-osint-powerful-tool-information-t-w96pc?tl=ja",
+    "https://www.linkedin.com/pulse/evolution-osint-beyond-modern-investigations-vub6f",
+    "https://at.linkedin.com/posts/nihonmatsu_ctivd-automated-osint自動化されたosint-オープンソース-activity-7065927076675006465-OeBm",
+    "https://www.linkedin.com/pulse/7-essential-tools-open-source-intelligence-osint-gathering-gupta--mbpsc",
+    "https://br.linkedin.com/company/osintcombine",
+    "https://jp.linkedin.com/pulse/case-studies-successful-osint-investigations-vijay-gupta--0b7cc?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com OSINTの出どころ評価と検証の型（intelligencenotes・osint-software）",
+   "results": [
+    "https://www.facebook.com/groups/459810919686665/",
+    "https://www.facebook.com/fb-answers/osint-investigation-tools/",
+    "https://graph.facebook.com/v2.8/2366569693651460/picture/",
+    "https://www.facebook.com/OneBeInc/photos/新コラム現代社会で重要性がましているosintopen-source-intelligenceosintとはインターネットなどの公開情報を収集分析して有用な情報/1452940110171432/",
+    "https://www.facebook.com/groups/5ecurity/permalink/1600191954724365/",
+    "https://www.facebook.com/fb-answers/osint-tools-for-online-profiling/",
+    "https://www.facebook.com/groups/1042378370061476/posts/1630306281268679/"
+   ]
+  },
+  {
+   "query": "OSINTの出どころ評価と検証の型（intelligencenotes・osint-software） note 社長",
+   "results": [
+    "https://note.com/kishioka/n/nf3b74d4d4ffe",
+    "https://note.com/4989er/n/n40c8fd7dc601",
+    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://www.hhs.gov/sites/default/files/osint-how-to-analyst-note-tlpwhite.pdf",
+    "https://note.com/dora_e_m/n/n53da07162cf1",
+    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "OSINTの出どころ評価と検証の型（intelligencenotes・osint-software） X 投稿",
+   "results": [
+    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "https://www.wiz.io/ja-jp/academy/threat-intel/osint-tools",
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://www.ibm.com/jp-ja/think/topics/osint",
+    "https://www.osintframework.com/",
+    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://japanese.opswat.com/products/metadefender/insights-osint",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://ttlab.hopto.org/blog/culture/2026-05-16-modern-osint-tools-2026-maltego-spiderfoot-recon-ng-theharvester-osint-industries-trace-labs-bellingcat-aleph-project-deep-dive?lang=ja"
+   ]
+  },
+  {
+   "query": "OSINT source verification framework reliability grading provenance site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/assessing-source-credibility-osint-applying-admiralty-matthias-wilson-chqif",
+    "https://www.linkedin.com/posts/the-coalition-of-cyber-investigators_from-guidance-to-proof-what-an-evidence-grade-activity-7516834000397811712-18Uw",
+    "https://www.linkedin.com/pulse/ethical-dilemma-using-data-breach-information-osint-paul-wright-jmmaf",
+    "https://www.linkedin.com/posts/hitesh-ramnani_nothing-here-is-secret-thats-the-problem-activity-7512785158798958593-Owft",
+    "https://www.linkedin.com/in/signallink-protocol-llc-86a453183",
+    "https://nl.linkedin.com/in/dutch-osintguy",
+    "https://de.linkedin.com/in/christina-lekati-social-engineering",
+    "https://www.linkedin.com/in/alessandrorossetti/",
+    "https://uk.linkedin.com/in/markjohnsontrmg",
+    "https://www.linkedin.com/pulse/digital-forensic-validation-principles-methods-examples-james-henning-xbjye"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "Altss Private Markets OSINT Verification Standard | Altss Frameworks",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Inspect the methodology",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The Altss standard for verifying publicly accessible private-markets information: Berkeley Protocol-aligned source, item and content verification, the three evidence dimensions with origin kept separate from collection method, source grading, ICD 203 language for judgments, and source-rights recording.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5. Method",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The record kept for each evidence item about a private-markets entity or event: identifier, retrieval date, fixed copy or fingerprint, collection method and rights basis.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Source Reliability & Confidence Methodology",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Entity Resolution Methodology",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Temporal Data & Freshness Methodology",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Investment Signal Classification Methodology",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The standing of a source for a type of claim (RECORD_KEEPER, SUBJECT, DIRECT_ACCESS, COPY_OR_COMPILATION or UNATTRIBUTED), a grade of how dependable it has been for that type of claim (A to F), and a grade of how well an item of information is supported (1 to 6), all defined in the Source Reliability & Confidence Methodology. See",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the collection method, as process metadata (rule 6.2);",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "describes the quality and credibility of its underlying sources and methods;",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Rules 6.1 to 6.4 set out the Altss evidence model. It is an Altss-defined methodology, not an industry standard.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "6.2 Collection method is not origin.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The collection method is recorded separately, with each capture, as process metadata and is never an origin value. Origin follows the artefact: a Form ADV has origin REGULATORY_PUBLIC_RECORD, a news article OSINT_SOURCED and a statement the subject gives in answer to a request DISCLOSED, however each was obtained.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Evaluating OSINT: Why It Matters and How to Do It Right - SOS Intelligence",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Evaluating OSINT: Why It Matters and How to Do It Right",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In short, evaluation is what separates noise from insight. It’s not just a good practice – it’s a critical step that determines the overall value and credibility of your intelligence output.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "One widely recognised method for evaluating sources and information is the Admiralty Code, also known as the NATO Source Reliability and Information Credibility grading system. It uses a two-part alphanumeric rating to assess:",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Once you’ve identified what you’re looking for and established your evaluation criteria, the next step is to put those principles into practice. Evaluating sources effectively requires both critical thinking and a methodical approach. Below are some techniques that can help analysts assess the credibility, authenticity, and relevance of open source material.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Even with a solid framework and a set of reliable techniques, OSINT evaluation often comes down to the fine details – the subtle clues, the consistency checks, and the instinct honed by experience. This section offers practical, hands-on advice to help you refine your evaluation skills and avoid common pitfalls.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Maintain a record of how you’ve assessed each source – including decisions around credibility, context, and any verification steps taken. This is especially important in collaborative environments or when intelligence may need to be defended later. Tools like analyst notebooks, spreadsheets, or structured databases can help you track this clearly.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Structured templates and tools from the OSINT community that support methodical evaluation and reporting.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Absence of a Structured Framework",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Whether you’re using the Admiralty Code, applying structured frameworks, or leveraging specialised tools, the goal remains the same: to produce intelligence that is accurate, reliable, and actionable. Evaluation isn’t a final step in the OSINT process – it’s woven throughout.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Evaluating OSINT effectively requires a structured approach. Rather than relying on gut instinct or assumptions, analysts should assess each piece of information against a set of established criteria. This ensures consistency, reduces bias, and increases the likelihood that your final intelligence product will be trusted and actionable.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Is the content neutral, or does it show bias? Be wary of emotionally charged language, persuasive tone, or content designed to provoke. Identifying whether the source has an agenda can help you judge how much weight to give the information.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "– how dependable the source is based on past performance, access to information, and known biases.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5. Consider the Source’s Motivation and Bias",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "a source is publishing certain information can help contextualise its reliability. Is the content investigative, promotional, political, or satirical? Is it user-generated or professionally produced? Analysing tone, language, and publication history can reveal bias or intent that may affect credibility.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Even with a solid framework and a set of reliable techniques, OSINT evaluation often comes down to the fine details – the subtle clues, the consistency checks, and the instinct honed by experience. This section offers practical, hands-on advice to help you refine your evaluation skills and avoid common pitfalls.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Can I identify any potential bias?",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3. Beware of Confirmation Bias",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "checked against the cited primary sources on",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In the Protocol's terms, gaining possession of online information through a screenshot, a conversion to PDF, a download or another form of capture.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Filings to, and records kept by, a regulator, statutory registry or court, retrieved from that body's own system",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Anything beyond the third party's own access; the content of a filing it describes, until the filing itself is retrieved",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4.2 What common US filings do and do not show.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Establish that the item is what it appears to be. A filing retrieved from the registry's own system is a different item from a copy of it hosted elsewhere. Check metadata, and compare dates inside the document with the page's dates.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A news report of a filing is evidence of what the reporter wrote. Its origin is OSINT_SOURCED. When the filing itself is retrieved from the regulator's own system, it becomes a second evidence item with origin REGULATORY_PUBLIC_RECORD. An evidence item names only what the researcher actually read.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A filing to, or a record kept by, a regulator, statutory registry or court, retrieved from that body's own system",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "An official publication of a public body or public-sector institution, issued in its official capacity and not as a filing to a regulator",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A filing is still the filer's own account. REGULATORY_PUBLIC_RECORD says where it was filed, not that it is true.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A subject's filing and the same subject's press release are one originating source for facts only the subject can supply. Together they do not make a claim CORROBORATED (see",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Filings are the filers' own accounts. A body's acceptance of a filing does not by itself establish that its content is true; for Form ADV the SEC states that accepting the form is not a finding that it was completed correctly.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Every evidence item records its capture date and time, the artefact's own publication or filing date, and the as-of date of the value, using the date vocabulary of the Evidence & Provenance Standard. These dates are never substituted for one another.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A copy of a filing hosted by an aggregator.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "It is OSINT_SOURCED until the filing is retrieved from the regulator's or registry's own system.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Which companies, investors and people matter to your work? Check the scope, fields and depth for your use case.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "10. Edge cases",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "11. Worked examples",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 1: a fund commitment, recorded in full.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claim: \"Example County Pension committed USD 50 million to Example Buyout Fund IV.\"",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "E1: Example Capital's press release on the fund's first close, naming the pension and the amount",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 2: a report of a filing.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 3: circular reporting.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 4: an attribute no usable source states.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 5: separating information from judgment.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Information: \"The June 2026 minutes of Example University Endowment's investment committee record approval of a revised policy portfolio with a 5% private credit target.\" (OFFICIAL_INSTITUTIONAL, OBSERVED.)",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 6: one press release, two origins.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Changes to the origin values, the validation statuses, the source-rights rule in 6.6 or the personal-data rules in 6.7 are major changes. New examples and clarifications are minor changes.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, a rating of",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IntelTechniques Workbook / Casefile",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Case Study: Misidentification in the Boston Marathon Bombing",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The 2013 Boston Marathon bombing provides a powerful example of how poor OSINT evaluation can lead to serious consequences. In the immediate aftermath of the attack, online communities – particularly Reddit – attempted to crowdsource intelligence to help identify the perpetrators.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This case shows that while open source intelligence can be powerful, it must be used responsibly. Without evaluation, it’s just noise – and in high-stakes situations, that noise can do real damage.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "observed, derived and estimated data",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "DERIVED and ESTIMATED values have no origin of their own. Their origin is the set of origins of their inputs.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For DERIVED and ESTIMATED values, validation covers the inputs and the correct application of the rule or method. Validation never turns an ESTIMATED value into an OBSERVED one.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Reliability and credibility grades are judgments. Irwin and Mandel (2019) argue that the Admiralty-style scales mask subjectivity and recommend numeric probability estimates and periodic re-evaluation. This standard keeps ordinal grades for sources and information, requires reasons for each, and uses numeric ranges for likelihood judgments.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation (Source Triangulation)",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Observed, Derived and Estimated Data",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-05T04:42:23.981695+00:00"
+}

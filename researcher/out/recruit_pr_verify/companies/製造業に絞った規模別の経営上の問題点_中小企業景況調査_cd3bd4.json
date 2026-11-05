@@ -1,0 +1,1648 @@
+{
+ "name": "製造業に絞った規模別の経営上の問題点（中小企業景況調査）",
+ "en": "SME business conditions survey manufacturing management problems by size Japan",
+ "aliases": [
+  "中小企業景況調査 経営上の問題点 製造業 求人難 需要の停滞",
+  "中小機構 景況調査 製造業 問題点 推移 site:smrj.go.jp",
+  "日本政策金融公庫 中小企業 経営上の問題点 製造業"
+ ],
+ "context": "①順位",
+ "kind": "market",
+ "researched_at": "2026-11-05T04:31:37.515876+00:00",
+ "evidence": {
+  "採用にいくら払うか": [
+   {
+    "quote": "小売業では、従業員50人以下または資本金5千万円以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業では従業員100人以下または資本金5千万円以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象企業は原則一定期間（最低3年間程度）変更しない",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "(3)調査対象企業は,原則として一定期間（最低3年間）は変更しないこと",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下または従業者50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下または従業者100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業景況調査10年間の歩み（調査結果の検証と特徴把握）",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業景況調査は1980年（昭和55年）7-9月期に調査を開始しており、2005年（平成17年）4-6月期をもって、25周年（第100回）を迎えるにあたり、25年間にわたる調査データを、主要マクロ指標との比較、各調査項目間の関連性、地域別動向などの支援から分析し、本調査の特徴や位置づけ、今後期待される役割等について検討したものです",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   },
+   {
+    "quote": "表 1 より例えば、製造業・建設業・運輸業では、 「資本金の額または出資の総額」が 3 億円以下",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3.サービス業 5000 万円以下 100 人以下 5 人以下",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4.小売業 5000 万円以下 50 人以下 5 人以下",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代化が進んだことで、1960 年代の 10 年間で中小企業の賃金率は毎年 10％以上の上昇を続け、大",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の差を比較すると、男性で大企業の場合約 26.9 万円、中企業の場合約 20.9 万円、小企業の場合",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "約 14.1 万円の月収の差がある",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、 女性で大企業の場合約 7.5 万円、 中企業の場合約 7.1 万円、",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "小企業の場合約 5.3 万円の月収の差がある",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、１人当たりの平均給与を事業所規模別にみると、表 3 より、小規模事業者・中小企業",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に分類される従業員 10 人未満の事業所では約 382 万円 （男性約 476 万円、 女性約 272 万円） 、従",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業員 10 から 29 人の事業所では約 420 万円（男性約 518 万円、女性約 290 万円）となっている",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、従業員 5000 人以上の事業所においては約 520 万円（男性約 675 万円、女性約 316 万円）",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "140 万円の差があり、性別ごとにみると男性の場合は約 200 万円、女性の場合は約 44 万円の差",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業別 過去3年間の業況DI（前年同期比）の推移",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "～各機関の見通しの平均は09年度▲2.7％、10年度＋1.1％～",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3
+   },
+   {
+    "quote": "～各機関の見通しの平均は09年度▲2.9％、10年度＋1.0％～",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3
+   },
+   {
+    "quote": "民間シンクタンク等の経済見通しについて～各機関の見通しの平均は09年度▲4.0％、10年度＋1.0％～",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3
+   },
+   {
+    "quote": "民間シンクタンク等の経済見通しについて～各機関の見通しの平均は過去最悪の08年度▲2.9％、09年度▲3.9％～",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3
+   },
+   {
+    "quote": "民間シンクタンク等の2008、09年度経済見通し～各機関の見通しの平均は08年度▲0.9％、09年度▲0.9％～",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3
+   }
+  ],
+  "採用広報・採用サイトの単価": [
+   {
+    "quote": "小売業では、従業員50人以下または資本金5千万円以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業では従業員100人以下または資本金5千万円以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下または従業者50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下または従業者100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "3.サービス業 5000 万円以下 100 人以下 5 人以下",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4.小売業 5000 万円以下 50 人以下 5 人以下",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の差を比較すると、男性で大企業の場合約 26.9 万円、中企業の場合約 20.9 万円、小企業の場合",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "約 14.1 万円の月収の差がある",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、 女性で大企業の場合約 7.5 万円、 中企業の場合約 7.1 万円、",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "小企業の場合約 5.3 万円の月収の差がある",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に分類される従業員 10 人未満の事業所では約 382 万円 （男性約 476 万円、 女性約 272 万円） 、従",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業員 10 から 29 人の事業所では約 420 万円（男性約 518 万円、女性約 290 万円）となっている",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、従業員 5000 人以上の事業所においては約 520 万円（男性約 675 万円、女性約 316 万円）",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "140 万円の差があり、性別ごとにみると男性の場合は約 200 万円、女性の場合は約 44 万円の差",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対象になるものの例としては、100 万円以上の機械及び装置、30 万円以上の器",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "具及び備品、60 万円以上の建物附属設備がある",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の範囲内（最高 8000 万円）で共済金の貸付けが受けられる制度である",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   }
+  ],
+  "継続して払うか": [
+   {
+    "quote": "また、調査対象企業が倒産,又はその他の事情により調査の継続が不可能となった場合,できる限り同一企業規模の企業を補充するよう配慮しています",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、 個人企業は法人企業と比べて 「現在の事業を継続するつもりはない」 と回",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "遇した場合において、事業資産の損害を最小限にとどめつつ、中核となる事業の継続や早期復旧",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を可能とするための事業継続計画のことである44",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "継続することは困難であるため、 限られた資源や人材で対応しなければならない",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "BCP を作成する際に企業が検討すべき観点としては、1. 重要製品・サービスの供給継続・早期",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク 「事業継続計画「（BCP）に対する企業の意識調査「（2024 年）」によると、BCP",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019 年 7 月 16 日から 2027 年 3 月 31 日までの間に事業継続力",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "強化計画または連携事業継続力強化計画の認定を受けた事業者が、認定を受けた日から 1 年を",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業継続計画（BCP）を策定または既存の BCP の改善を行う際に要する経費の一部を補助し、",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外部人材の活用により、課題解決や事業を安定的に継続のた",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業が賃上げへの対応を継続して、雇用を守っていくために、政府の価格転嫁や生産性の",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "16.8%増加し、2016 年以降で最多件数を更新している80",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で技術力や生産効率を向上させるためにも、 スタートアップ 企業の育成支援も継続的に行うこ",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・香川県 （2025a） 「県内中小企業の皆さんの BCP「 （事業継続計画） 策定を応援します！ （香川県",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・中小企業庁 （2025d） 「中小企業防災・減殺投資促進税制「（特定事業継続力強化設備等の特別償",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産設備の不足が、全体の非効率につながっており、設備の更新が不可欠である",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "官公需要は今も継続的にあり、今後も売上増等、期待できる",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "中小製造業の設備投資は更新投資中心に増加の見通し「中小製造業設備投資動向調査（第109回）」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業における事業継続計画（BCP）への取り組みに関する調査結果",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業における事業継続計画（BCP）の重要性",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3
+   },
+   {
+    "quote": "新型コロナウイルスの感染拡大に備え、公的機関等へ必要な協力を求めながら事業継続を図ることが重要である",
+    "url": "https://j-net21.smrj.go.jp/report/smrjsurvey/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "リピートオーダー頻度（間隔）が長期化、対象商品終売によるパッケージ終",
+    "url": "https://j-net21.smrj.go.jp/report/smrjsurvey/tsdlje0000001alv-att/181_20_report_summary_Official.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "リピートオーダー頻度（間隔）が長期化、対象商品終売によるパッケージ終了",
+    "url": "https://j-net21.smrj.go.jp/report/smrjsurvey/tsdlje0000001alv-att/181_20_report_summary_Official.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設備の更新や省力化の投資は、資金繰りと税務の両面から計画的に進めたいテーマです",
+    "url": "https://dosai.jp/news/chusho-keikyo-chosa-185-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "反対に、利益が増えている場合は、人材への投資や設備の更新に回す余力があるかを、資金繰りとあわせて判断します",
+    "url": "https://dosai.jp/news/chusho-keikyo-chosa-185-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載日：2026年7月10日更新",
+    "url": "https://www.pref.aichi.jp/press-release/keikyo260406.html",
+    "pass": 3
+   }
+  ],
+  "どう買われるか": [
+   {
+    "quote": "調査対象には各商工会、商工会議所、中央会管内の企業の中から次の(1)～(2)の事項に留意しつつ、調査対象企業規模の範囲内で地域の実情に合わせて適宜選定しています",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "全国の商工会、商工会議所の経営指導員、及び中小企業団体中央会の調査員が調査対象企業を訪問面接し、調査票に基づき聴き取りによって調査を行っています",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁からの運営費交付金により独立行政法人 中小企業基盤整備機構から、「日本商工会議所」「全国商工会連合会」「全国中小企業団体中央会」へ依頼します",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "「日本商工会議所」からは「商工会議所」を通して、「全国商工会連合会」からは「都道府県商工会連合会」を経て「商工会」を通して、「全国中小企業団体中央会」を経て「都道府県中小企業団体中央会」を通して、「調査対象中小企業（約19000）」に対して調査を行っています",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 調査方法：原則として、全国の商工会､商工会議所の経営指導員及び中小企業団体中央会の情報連絡",
+    "url": "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁及び中小機構では、中小企業の景気動向を総合的に把握することを目的に、全国商工会連合会、日本商工会議所及び全国中小企業団体中央会の協力を得て、「中小企業景況調査」を実施しています",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   },
+   {
+    "quote": "商工会議所、商工会、中小企業団体中央会により任意抽出した約19,000社の中小企業（金融機関を除く全業種）",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   },
+   {
+    "quote": "図－８ 資金繰り（前年比） 図－ 10 金融機関からの借入残高（前年比）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－９ メイン金融機関の貸出態度（前年比） 図－ 11 借入金利（前年比）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "信用保険法」により、中小企業などが金融機関から事業資金を借りる際に、信用保証協会が公的",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1992 年から 1994 年には政府系中小企業金融機関（日本政策金融公庫、商工組合中央金庫など）",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "による貸付限度枠の拡大、1998 年には金融機関の貸し渋り22を受けた中小企業に保証を認める制",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "庫や商工組合中央金庫 の政府系中小企業金融機関 とゼロゼロ融資と呼ばれた民間金融機関 によ",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "22 貸し渋りとは、金融機関が本来は融資をしても問題ないと考えられる企業に対しても融資控",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "や金融機関と連携して事業継承診断 などを用いた事業継承計画 の策定を行っている",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "承支援では、中小企業診断士や金融機関 OB などの専門家によるアドバイスを受けることができ",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、マッチングから成約までのコーディネート、登録されている民間業者や金融機関の",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "福井県では福井商工会議所と連携してふくいジョブステーションという中小企業の人材確保 ・",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "12 は日本商工会議所と東京商工会議所が「最低賃金を下回る従業員がいたため、賃金を引き上",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "75 日本商工会議所・東京商工会議所（2025）p. 3.",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）日本商工会議所・東京商工会議所（2025）「中小企業における最低賃金の影響に関する",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・日本商工会議所・東京商工会議所（2025） 「中小企業における最低賃金の影響に関する調査」,",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(１)商工会の経営指導員による訪問面接調査",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "10商工会地区",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "(２)調査対象地区の決定は、商工会地区市町村の人口規模別実態を勘案し、",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "商工会地区内の地域産業の状況、経済動向等について一定期間ごとに変化の実態や諸事情",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "社長に相当の負担がかかっており、人材の確保と育成が企業存続のための絶対の条件となっている",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "増税を行った直後よりは客足も増えてきたような気がするが、まだ低迷しており連休も9月にあり、地元消費が見",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "今年度は特に新規展示会開催が増加し、企業も販売機会に期待し出店意欲は高まっている",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "前回のコラム（注1）では中小企業基盤整備機構の「中小企業景況調査」（注2）の「業況（自社）今期の水準」を用いて、1994年から直近の景況感の上位5位と下位5位のランキングを紹介した",
+    "url": "https://j-net21.smrj.go.jp/report/smrjsurvey/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 調査方法 原則として、全国の商工会、商工会議所の経営指導員、及び中小企業",
+    "url": "https://j-net21.smrj.go.jp/report/smrjsurvey/tsdlje0000001alv-att/181_20_report_summary_Official.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全国の商工会・商工会議所などを通じて18,829社を対象に聴き取った調査で、小規模事業者や個人事業主の実感がよく表れるのが特徴です",
+    "url": "https://dosai.jp/news/chusho-keikyo-chosa-185-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業景況調査は、中小機構が中小企業の景況を把握し、中小企業施策立案の基礎資料を収集することを目的に、四半期に一度、全国商工会連合会、日本商工会議所及び全国中小企業団体中央会の協力を得て実施している調査です",
+    "url": "https://dosai.jp/news/chusho-keikyo-chosa-185-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "全国の商工会、商工会議所の経営指導員、及び中小企業団体中央会の情報連絡員が訪問面接し、聴き取りによって実施",
+    "url": "https://dosai.jp/news/chusho-keikyo-chosa-185-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "全国の商工会、商工会議所の経営指導員、及び中小企業団体中央会の情報連絡員が訪問面接し、聴き取りによって実施しています",
+    "url": "https://dosai.jp/news/chusho-keikyo-chosa-185-2026/",
+    "pass": 3
+   }
+  ],
+  "前例の会社（製造業特化）": [
+   {
+    "quote": "製造業、建設業では、従業員数300人以下または資本金3億円以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "卸売業では、従業員100人以下または資本金1億円以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "小売業では、従業員50人以下または資本金5千万円以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業では従業員100人以下または資本金5千万円以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、調査対象企業に占める小規模企業（製造業、建設業は従業員20人以下、卸売り業、小売業、サービス業は従業員5人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "1-2.売上（加工）額",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "1-3.売上額",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "1-4.売上（収入）額",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2-1.売上（加工）単価",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2-2.売上単価",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "3-1.売上（加工）数量",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "11.従業員（含臨時・パート）",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "3.売上に対する製品在庫",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "7.従業員（含臨時・パート）",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2-1.工場建物",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上額ＤＩは、▲2.9（前期▲7.1、前期差4.2ポイント増）と２期ぶりにマイナス幅が縮小",
+    "url": "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 価格転嫁交渉は一段落し、売上高も例年並みを確保しているが、人件費や調達物資価格の上昇、包装工場の減価",
+    "url": "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、「従業員過不足DI（前年同期比）」は、建設業で2.5ポイント減（▲3.6）、製造業で0.5ポイント減（▲5.2）と低下し、業況が改善した2産業で人手不足感が強まった",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 売上額（前年同期比、前期比原数値、前期比季節調整値）",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   },
+   {
+    "quote": "売上額（Excel:84 KB）",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業を対象に、業況判断・売上高・経常利益等のDI値※を、四半期毎に産業別・地域別等に算出する景気動向調査です",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   },
+   {
+    "quote": "２ 売上高・経常利益額の見通し",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 2025 年の売上高 DI は、 16.0 と、 2024 年実績（ 1.2 ）から 14.8 ポイント上昇する見通し",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－２ 売上高（前年比）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）売上高 DI は、前年比で「増加」－「減少」企業割合",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 設備投資額・従業員数の見通し",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 2025 年の従業員数 DI は、 12.4 と、 2024 年実績（ 0.8 ）から 11.6 ポイント上昇する見通し",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－７ 従業員数（前年比）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）従業員数 DI は、前年比で「増加」－「減少」企業割合",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「資本金額」、 「常時雇用する従業員の数」のいずれかで基準を満たせば中小企業に当てはまる",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "または「常時使用する従業員の数」が 300 人以下となっている1",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員総数は約 69.7％という割合になっている",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の約 84.5%、常用雇用数は約 12.4％、従業員総数は約 20.5％の割合になっている2",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ら、小規模企業の企業数は約 84.5%と高くなっているが、常用雇用数や従業員数の割合は低くな",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の常用雇用数と従業員総数を比較すると、約 600 万人、大企業では約 14 万人の",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員総数 構成比 従業員総数 構成比 従業員総数 構成比 従業員総数",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このことから、中小企業は資金や従業員数といった中小規模性により、大企業に比べてより競",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しさへの迅速な対応するための創業支援などが必要である5",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "共同施設、工場団地などを建設する際に低金利で融資するものであった16",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1.4 バブル崩壊後（1990 年代から 2020 年代前半）の創業・新事業支援政策への転換",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次に 1990 年代中頃になると、創業・新規事業支援が本格化した",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、新 「中小企業基本法」の創業支援は小さな企業を増やすことである",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新 「中小企業基本法」の施策は、旧 「中小企業基本法」にはなかった創業支援やベンチャー企",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ブル経済の崩壊によって倒産した企業の従業員を救ったり、新しく起業して挑戦したいと思う",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "となり、全体としての経営者の売上に対する強気の度合いを表している",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "(例)売上高で増加企業50％、不変企業30％、減少企業20％の場合のＤＩ指数",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "得意先の廃業が多く、売上減少に結びついている",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "従業員（後継者）が、諸般の事情により退職した為、業務の運営の立て直しが急務の課題となった",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "建設会社も下請けに対して材料支給が多くなり売上額が伸び悩む状況",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "今の状態は親会社が仕事が不足して従業員を休ませている状態で",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "官公需要は今も継続的にあり、今後も売上増等、期待できる",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "6月に売上が増えているが、これは父親の葬儀の返礼品の全額を載せたもので比べようがない",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "繁忙期である前期から比べれば今期の売上額が落ちるのは当たり前である",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "売上に直接は繋がってはいないが、お客様の購買意欲は上がってきているように感じる",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "来店客数や売上の減少に伴い、品揃えの減少で大型店との差が広がる一方である",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の高齢化による農家の減少で売上の見込みの減少及び購買意欲の低下、今後は営業地域を拡大し顧客",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "仕入単価上昇はどこも同じ条件なので少しでも売上アップに繋がるメニュー作りやサービスを心掛け、引き続き",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "売上も上がってきて、安定してました",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "今後、売上増加と客数の増加の為に利用者のニーズに対応できるように",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "役員や従業員への承継を円滑に進めるためのポイント",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3
+   }
+  ],
+  "営業と採用のどちらに困っているか": [
+   {
+    "quote": "今期直面している経営上の問題点としては、 前回同様｢原材料価格の上昇｣が１位、「需要の停滞」",
+    "url": "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1位 2位 3位 4位 5位",
+    "url": "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.業況が改善した産業で人手不足感が強まる",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、「従業員過不足DI（前年同期比）」は、建設業で2.5ポイント減（▲3.6）、製造業で0.5ポイント減（▲5.2）と低下し、業況が改善した2産業で人手不足感が強まった",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   },
+   {
+    "quote": "複数回答、上位 10 項目）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 2025 年に期待する要素は、「円高による輸入製・商品等の価格の低下」の回答割合が 20.2 ％と最も高く、次いで「原油価格の下落による",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜参考＞ 需要分野別にみた 2025 年に期待する要素（回答割合の上位 四つ、単位：％）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2 節 中小企業の経営課題と政策的対応の方向性",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.1 人材課題（人材確保、事業継承、省力化・生産性向上）",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクが行った日本の中小企業の経営課題と事業活動に関する調査（2024 年度）",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 1 最も重視する経営課題（企業規模別）",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）帝国データバンク「令和 6 年度中小企業の経営課題と事業活動に関する調査」p. 17 よ",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "DI（2025 年 4 月から 6 月期）は▲23.0 となっており、中小企業の人材不足は歯止めがかかって",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）厚生労働省（2024）「令和 6 年度版労働経済の分析―人手不足への対応―」",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の2013年下期の経営上の課題 ～景況感は改善する一方、販売面や価格動向に不安を持つ企業が多数～",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3
+   },
+   {
+    "quote": "前回のコラム（注1）では中小企業基盤整備機構の「中小企業景況調査」（注2）の「業況（自社）今期の水準」を用いて、1994年から直近の景況感の上位5位と下位5位のランキングを紹介した",
+    "url": "https://j-net21.smrj.go.jp/report/smrjsurvey/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "前期 1位 28.0 2位 18.7 5位 8.3 4位 9.1 3位 9.5",
+    "url": "https://j-net21.smrj.go.jp/report/smrjsurvey/tsdlje0000001alv-att/181_20_report_summary_Official.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前々期 1位 30.5 2位 18.3 5位 7.4 4位 9.2 3位 9.3",
+    "url": "https://j-net21.smrj.go.jp/report/smrjsurvey/tsdlje0000001alv-att/181_20_report_summary_Official.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前期 1位 33.8 2位 20.9 3位 8.7 4位 7.7 5位 6.7",
+    "url": "https://j-net21.smrj.go.jp/report/smrjsurvey/tsdlje0000001alv-att/181_20_report_summary_Official.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前々期 1位 34.8 2位 19.4 3位 8.1 4位 7.2 5位 6.8",
+    "url": "https://j-net21.smrj.go.jp/report/smrjsurvey/tsdlje0000001alv-att/181_20_report_summary_Official.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前期 2位 20.4 1位 24.7 4位 9.3 3位 10.9 5位 5.3",
+    "url": "https://j-net21.smrj.go.jp/report/smrjsurvey/tsdlje0000001alv-att/181_20_report_summary_Official.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前々期 2位 20.0 1位 26.7 4位 9.3 3位 10.3 5位 6.6",
+    "url": "https://j-net21.smrj.go.jp/report/smrjsurvey/tsdlje0000001alv-att/181_20_report_summary_Official.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前期 1位 27.5 3位 13.0 2位 13.8 4位 7.6 5位 7.4",
+    "url": "https://j-net21.smrj.go.jp/report/smrjsurvey/tsdlje0000001alv-att/181_20_report_summary_Official.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前々期 1位 28.4 3位 12.4 2位 12.9 5位 7.9 4位 8.1",
+    "url": "https://j-net21.smrj.go.jp/report/smrjsurvey/tsdlje0000001alv-att/181_20_report_summary_Official.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前期 1位 25.7 3位 11.3 5位 9.3 2位 11.8 4位 9.9",
+    "url": "https://j-net21.smrj.go.jp/report/smrjsurvey/tsdlje0000001alv-att/181_20_report_summary_Official.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業景況調査2026｜7-9月期は5期ぶり上昇・人手不足が強まる - 道濟会計事務所",
+    "url": "https://dosai.jp/news/chusho-keikyo-chosa-185-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業景況調査2026｜7-9月期は5期ぶり上昇・人手不足が強まる",
+    "url": "https://dosai.jp/news/chusho-keikyo-chosa-185-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント資料は、前年同期比で見た従業員数過不足DIが建設業で2.5ポイント減（▲3.6）、製造業で0.5ポイント減（▲5.2）となり、業況が改善した２産業で人手不足感が強まったと分析しています",
+    "url": "https://dosai.jp/news/chusho-keikyo-chosa-185-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 人手不足と人件費",
+    "url": "https://dosai.jp/news/chusho-keikyo-chosa-185-2026/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "第185回 中小企業景況調査 報告書 — 第185回 中小企業景況調査 報告書 独立行政法人 中小企業基盤整備機構 PDF https://www.smrj.go.jp > survey > 185_42_seizogyo",
+    "url": "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第184回 中小企業景況調査 — 第184回 中小企業景況調査 厚生労働省 PDF https://jsite.mhlw.go.jp > shiryou5-2-26101502",
+    "url": "https://jsite.mhlw.go.jp/nagasaki-roudoukyoku/content/contents/shiryou5-2-26101502.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 期連続して低下 ～第 184 回 中小企業景況調査 (2026 年 4 — 4 期連続して低下 ～第 184 回 中小企業景況調査 (2026 年 4 独立行政法人 中小企業基盤整備機構 PDF https://www.smrj.go.jp > press > 20260630_press01",
+    "url": "https://www.smrj.go.jp/press/2026/qsktgp0000000pvv-att/20260630_press01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業景況調査2026 ｜7-9月期は5期ぶり上昇・人手不足が ... — 中小企業景況調査2026 ｜7-9月期は5期ぶり上昇・人手不足が ... 道濟会計事務所 https://dosai.jp > お知らせ",
+    "url": "https://dosai.jp/news/chusho-keikyo-chosa-185-2026/",
+    "pass": 3
+   }
+  ],
+  "社数（規模別）": [
+   {
+    "quote": "調査対象企業数 18,829社",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   },
+   {
+    "quote": "有効回答企業数 17,902社",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   },
+   {
+    "quote": "有効回答企業数 510社",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ら、小規模企業の企業数は約 84.5%と高くなっているが、常用雇用数や従業員数の割合は低くな",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 2 規模別企業数・常用雇用数・従業者数",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）中小企業庁再編加工「総務省・経済産業省 2021 年経済センサス―活動調査」より筆者",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年 9 月 30 日時点の活動状況としては、支援申し込み企業数 805",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業は企業数の約 99.7%、 従業員総数の約 7 割を占めており、多くの雇用を生み出し、労",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・中小企業庁（2023）『総務省・経済産業省「令和 3 年経済センサス‐活動調査」再編加工』,",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(２)対象企業数 150企業",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "(３)回答企業数 150企業(回答率100％)",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "５．対象地区別回答企業数内訳",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "0 0.0% 企業数 構成比",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "3 11.1% 企業数 構成比",
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象企業数18,829、有効回答企業数17,902、有効回答率95.1%",
+    "url": "https://dosai.jp/news/chusho-keikyo-chosa-185-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "第185回は調査対象企業数18,829、有効回答企業数17,902で、有効回答率は95.1%でした",
+    "url": "https://dosai.jp/news/chusho-keikyo-chosa-185-2026/",
+    "pass": 3
+   }
+  ],
+  "採用難（公的統計）": [
+   {
+    "quote": "2.業況が改善した産業で人手不足感が強まる",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、「従業員過不足DI（前年同期比）」は、建設業で2.5ポイント減（▲3.6）、製造業で0.5ポイント減（▲5.2）と低下し、業況が改善した2産業で人手不足感が強まった",
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）厚生労働省（2024）「令和 6 年度版労働経済の分析―人手不足への対応―」",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 7 の日本政策公庫の調査結果から、中小企業の人手不足への対応として、「従業員の多能工",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 7 人手不足への対応",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "省力化の成果として、省電力投資によって人手不足を乗り越えている中小製造業 4 社の事例",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "持したまま、残業時間を半分に削減することができ量的にも質的にも人手不足を緩和したり、8",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業景況調査2026｜7-9月期は5期ぶり上昇・人手不足が強まる - 道濟会計事務所",
+    "url": "https://dosai.jp/news/chusho-keikyo-chosa-185-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業景況調査2026｜7-9月期は5期ぶり上昇・人手不足が強まる",
+    "url": "https://dosai.jp/news/chusho-keikyo-chosa-185-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント資料は、前年同期比で見た従業員数過不足DIが建設業で2.5ポイント減（▲3.6）、製造業で0.5ポイント減（▲5.2）となり、業況が改善した２産業で人手不足感が強まったと分析しています",
+    "url": "https://dosai.jp/news/chusho-keikyo-chosa-185-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 人手不足と人件費",
+    "url": "https://dosai.jp/news/chusho-keikyo-chosa-185-2026/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "中小機構（中小企業基盤整備機構） on X: \" 第185回中小企業景況調査... 📢第185回中小企業景況調査（2026年7‐9月期） 業況DIは5期ぶりに改善、全業種で上昇。 製造業は2期ぶりに改善、非製造業も全業種で上向き。 地域別では九州・沖縄を除き改善、熊本県は地震の影響で低下。",
+    "url": "https://x.com/smrjpr/status/2108106509200887982",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "5000",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "3.サービス業 5000 万円以下 100 人以下 5 人以下"
+   },
+   {
+    "value": "26.9",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "の差を比較すると、男性で大企業の場合約 26.9 万円、中企業の場合約 20.9 万円、小企業の場合"
+   },
+   {
+    "value": "20.9",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "の差を比較すると、男性で大企業の場合約 26.9 万円、中企業の場合約 20.9 万円、小企業の場合"
+   },
+   {
+    "value": "14.1",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "約 14.1 万円の月収の差がある"
+   },
+   {
+    "value": "7.5",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "一方、 女性で大企業の場合約 7.5 万円、 中企業の場合約 7.1 万円、"
+   },
+   {
+    "value": "7.1",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "一方、 女性で大企業の場合約 7.5 万円、 中企業の場合約 7.1 万円、"
+   },
+   {
+    "value": "5.3",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "小企業の場合約 5.3 万円の月収の差がある"
+   },
+   {
+    "value": "382",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "に分類される従業員 10 人未満の事業所では約 382 万円 （男性約 476 万円、 女性約 272 万円） 、従"
+   },
+   {
+    "value": "476",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "に分類される従業員 10 人未満の事業所では約 382 万円 （男性約 476 万円、 女性約 272 万円） 、従"
+   },
+   {
+    "value": "272",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "に分類される従業員 10 人未満の事業所では約 382 万円 （男性約 476 万円、 女性約 272 万円） 、従"
+   },
+   {
+    "value": "420",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "業員 10 から 29 人の事業所では約 420 万円（男性約 518 万円、女性約 290 万円）となっている"
+   },
+   {
+    "value": "518",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "業員 10 から 29 人の事業所では約 420 万円（男性約 518 万円、女性約 290 万円）となっている"
+   },
+   {
+    "value": "290",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "業員 10 から 29 人の事業所では約 420 万円（男性約 518 万円、女性約 290 万円）となっている"
+   },
+   {
+    "value": "520",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "一方、従業員 5000 人以上の事業所においては約 520 万円（男性約 675 万円、女性約 316 万円）"
+   },
+   {
+    "value": "675",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "一方、従業員 5000 人以上の事業所においては約 520 万円（男性約 675 万円、女性約 316 万円）"
+   },
+   {
+    "value": "316",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "一方、従業員 5000 人以上の事業所においては約 520 万円（男性約 675 万円、女性約 316 万円）"
+   },
+   {
+    "value": "140",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "140 万円の差があり、性別ごとにみると男性の場合は約 200 万円、女性の場合は約 44 万円の差"
+   },
+   {
+    "value": "200",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "140 万円の差があり、性別ごとにみると男性の場合は約 200 万円、女性の場合は約 44 万円の差"
+   },
+   {
+    "value": "44",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "140 万円の差があり、性別ごとにみると男性の場合は約 200 万円、女性の場合は約 44 万円の差"
+   },
+   {
+    "value": "100",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "対象になるものの例としては、100 万円以上の機械及び装置、30 万円以上の器"
+   },
+   {
+    "value": "30",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "対象になるものの例としては、100 万円以上の機械及び装置、30 万円以上の器"
+   },
+   {
+    "value": "60",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "具及び備品、60 万円以上の建物附属設備がある"
+   },
+   {
+    "value": "8000",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "の範囲内（最高 8000 万円）で共済金の貸付けが受けられる制度である"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chuokai.or.jp/index.php/13574/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/0502.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.douyukai.or.jp/wp-content/uploads/2020/05/keikyo201802_97.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/130.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/nagasaki-roudoukyoku/content/contents/shiryou5-2-26101502.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/data/chushou/keikyou",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/report/smrjsurvey/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smrj.go.jp/press/2026/qsktgp0000000pvv-att/20260630_press01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seri.or.jp/news/news_2021.12.23-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ma-cp.com/about-ma/challenges-of-smes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kipc.or.jp/blog/setsubi-623/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ec-cube.net/enterprise/btob/column/manufacture-dx-cases-smb/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jma.or.jp/img/pdf-report/keieikadai_2024_report_issues_manufacturing-result.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/PDF/chusho/03Hakusyo_part1_chap4_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/report/smrjsurvey/tsdlje0000001alv-att/181_20_report_summary_Official.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.metro.tokyo.lg.jp/information/press/2026/09/2026092415",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dosai.jp/news/chusho-keikyo-chosa-185-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chushin.co.jp/cms_source/files/20260929260.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/press-release/keikyo260406.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/smrjpr/status/2108106509200887982",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "製造業に絞った規模別の経営上の問題点（中小企業景況調査）",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf",
+    "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "https://www.chuokai.or.jp/index.php/13574/",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/0502.pdf",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.ma-cp.com/about-ma/challenges-of-smes/",
+    "https://www.jfc.go.jp/n/findings/tyousa_sihanki.html",
+    "https://www.youtube.com/watch?v=I8TK4vxFo08",
+    "https://j-net21.smrj.go.jp/report/smrjsurvey/index.html"
+   ]
+  },
+  {
+   "query": "製造業に絞った規模別の経営上の問題点（中小企業景況調査） 調査 PDF",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.smrj.go.jp/research_case/survey/",
+    "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "https://www.douyukai.or.jp/wp-content/uploads/2020/05/keikyo201802_97.pdf",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf",
+    "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/130.pdf",
+    "https://j-net21.smrj.go.jp/report/smrjsurvey/index.html"
+   ]
+  },
+  {
+   "query": "製造業に絞った規模別の経営上の問題点（中小企業景況調査） 厚生労働省",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf",
+    "https://jsite.mhlw.go.jp/nagasaki-roudoukyoku/content/contents/shiryou5-2-26101502.pdf",
+    "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "https://www.chuokai.or.jp/index.php/13574/",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/data/chushou/keikyou",
+    "https://j-net21.smrj.go.jp/report/smrjsurvey/index.html"
+   ]
+  },
+  {
+   "query": "製造業に絞った規模別の経営上の問題点（中小企業景況調査） 規模別 万円",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.smrj.go.jp/press/2026/qsktgp0000000pvv-att/20260630_press01.pdf",
+    "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://www.seri.or.jp/news/news_2021.12.23-1.pdf"
+   ]
+  },
+  {
+   "query": "製造業に絞った規模別の経営上の問題点（中小企業景況調査） 製造業 事例",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf",
+    "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "https://www.ma-cp.com/about-ma/challenges-of-smes/",
+    "https://www.kipc.or.jp/blog/setsubi-623/",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.ec-cube.net/enterprise/btob/column/manufacture-dx-cases-smb/",
+    "https://www.youtube.com/watch?v=I8TK4vxFo08",
+    "https://j-net21.smrj.go.jp/report/smrjsurvey/index.html"
+   ]
+  },
+  {
+   "query": "製造業に絞った規模別の経営上の問題点（中小企業景況調査） 2025 OR 2026",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.smrj.go.jp/research_case/survey/",
+    "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "https://www.metro.tokyo.lg.jp/information/press/2026/09/2026092415",
+    "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "https://dosai.jp/news/chusho-keikyo-chosa-185-2026/",
+    "https://www.chushin.co.jp/cms_source/files/20260929260.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://www.pref.aichi.jp/press-release/keikyo260406.html"
+   ]
+  },
+  {
+   "query": "site:note.com 製造業に絞った規模別の経営上の問題点（中小企業景況調査）",
+   "results": [
+    "https://note.com/shindan_kaichi/n/n47b208d08ce8",
+    "https://note.com/smallbiz_startup/n/nee38985c188d",
+    "https://note.com/oh_no/n/n1c51fc7bb28a",
+    "https://note.com/nekota_toure/n/n22989f213c1c",
+    "https://note.com/hirokimiyano/n/n7bdad0f70bb2",
+    "https://note.com/lagless/n/n4630b937afc4",
+    "https://note.com/nakaikeya/n/ncd38a4d6965a",
+    "https://note.com/amane_bombaye/n/n7e0b138e6b7d",
+    "https://note.com/anms/n/n4e57c9e06a12",
+    "https://note.com/ikedaosamu/n/n261b32bcfa67"
+   ]
+  },
+  {
+   "query": "site:x.com 製造業に絞った規模別の経営上の問題点（中小企業景況調査）",
+   "results": [
+    "https://x.com/i/status/2092790514261364988",
+    "https://x.com/500drachmas",
+    "https://x.com/smrjpr/status/2108106509200887982",
+    "https://x.com/meti_chusho",
+    "https://x.com/ozawa_jimusho/status/2092476332680884309",
+    "https://x.com/giraffe2304",
+    "https://x.com/factaonline/status/1971888315482947692",
+    "https://x.com/OgawaSeisakusho/status/2101838401943323059",
+    "https://x.com/Kazuchika_Iwata/status/2037152681806934156"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 製造業に絞った規模別の経営上の問題点（中小企業景況調査）",
+   "results": [
+    "https://jp.linkedin.com/pulse/problem-succession-sme-industries-swaminathan-kalyanam?tl=ja",
+    "https://jp.linkedin.com/posts/masayoshi-ogawa1980_日本の製造業は本業以外で儲けてるって本当-企業規模別の営業外収益費用損益-activity-7443388930839945216-QVdF",
+    "https://jp.linkedin.com/posts/naruhiro-seya-a66281342_日本の製造業が長年築き上げてきた現場力や品質力-今それが組織のあちこちで-activity-7465205137754492928-s1Rd",
+    "https://jp.linkedin.com/pulse/maintaining-quality-scale-manufacturing-challenges-7dsac?tl=ja",
+    "https://jp.linkedin.com/posts/techport-co-jp_なぜ中小製造業の営業は疲弊するのか-受託加工業に潜むマーケティング不在という-activity-7428936151824154624-vBy6",
+    "https://jp.linkedin.com/pulse/why-marketing-fails-manufacturing-10-real-problems-solutions-mamure-qb7sf?tl=ja",
+    "https://jp.linkedin.com/pulse/unseen-cost-quality-issues-manufacturing-part-2-solvei8-tgpac?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 製造業に絞った規模別の経営上の問題点（中小企業景況調査）",
+   "results": [
+    "https://www.facebook.com/smrjpr/",
+    "https://www.facebook.com/mssf.jp/posts/連載コラム中小製造業の今を変える-経営と現場のデジタル改革-第４回本コラムでは労働生産性に焦点を当てなぜデジタル化dx化が重要なのかを考察します第４回のテーマは/122161576166609139/",
+    "https://www.facebook.com/smrjpr/photos/省力化ナビを公開業種別の課題と解決策をイラストで分かりやすく紹介し現場で活かせる事例や取組ステップ相談先までワンストップで確認できますさらに省力化ナビを活用する/1451717326994212/",
+    "https://www.facebook.com/TakeharaCCI/posts/業種別補助金支援策チラシのご案内中小機構中小小規模事業者の皆さまが抱える業務課題人手不足売上向上等の解決に向け補助金を活用しやすいよう飲食業建設業宿泊業小売卸売/1334174605404515/",
+    "https://www.facebook.com/EYJapanOfficial/photos/動画公開新リース会計基準製造業への影響と注意点新リース会計基準の適用により製造業ではどのような影響があるのかこれまでリースと認識していなかった契約隠れリースはど/1371314148339902/",
+    "https://www.facebook.com/chudokyo/posts/いよいよ第55回中小企業問題全国研究集会in愛媛がスタートしました今シーズン一番の大寒波の中今年の全研には全国から約1170名が参加初日は14の分科会に分かれて/931311122514845/",
+    "https://www.facebook.com/ehime.doyu.jp/posts/来る2025年267に愛媛県松市にて第55回中企業問題全国研究集会を開催いたします経営者の学校ともいわれる中小企業家同友会全国各地から1000名以上の素晴らしい/615227464193783/"
+   ]
+  },
+  {
+   "query": "製造業に絞った規模別の経営上の問題点（中小企業景況調査） note 社長",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "https://note.com/serendip_hd7318/n/nec88e8bdfcf9",
+    "https://www.smrj.go.jp/press/2024/rvuad1000001tzts-att/20240930_press02.pdf",
+    "https://cr-cres.jp/cresight/production/%E4%B8%AD%E5%B0%8F%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%B5%8C%E5%96%B6%EF%BD%9C%E4%B8%89%E9%87%8D%E8%8B%A6%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E5%88%A9%E7%9B%8A%E3%82%92%E6%AE%8B%E3%81%99/",
+    "https://www.works-i.com/column/labor-market/detail004.html",
+    "https://note.com/kens_reading1/n/n9d4afdd81a29",
+    "https://business.nikkei.com/atcl/opinion/16/011000037/071100038/",
+    "https://www.smrj.go.jp/research_case/survey/"
+   ]
+  },
+  {
+   "query": "製造業に絞った規模別の経営上の問題点（中小企業景況調査） X 投稿",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "https://www.works-i.com/column/labor-market/detail004.html",
+    "https://factoryadvance.jp/blog/565/",
+    "https://www.techs-s.com/media/show/299",
+    "https://www.youtube.com/watch?v=I8TK4vxFo08",
+    "https://smartf-nexta.com/archives/14634",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1692/",
+    "https://j-net21.smrj.go.jp/report/smrjsurvey/index.html"
+   ]
+  },
+  {
+   "query": "SME business conditions survey manufacturing management problems by size Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/assessing-financial-management-practices-smes-ghana-isaac-lomo-bnbpc",
+    "https://www.linkedin.com/pulse/insights-from-myanmar-micro-small-medium-enterprise-survey-finn-tarp",
+    "https://jp.linkedin.com/in/ichiroyasui",
+    "https://uk.linkedin.com/in/mr-nathan-palmer",
+    "https://www.linkedin.com/pulse/challenges-facing-smes-namibia-heinrich-mihe-gaomab-ii",
+    "https://www.linkedin.com/posts/kai-ko_epa-eencanhelp-japan-activity-7398690933686521857-GjUt",
+    "https://www.linkedin.com/posts/executive-advisor-asia-and-saudi-arabia_more-firms-expect-business-conditions-to-activity-7520051540276170752-scoi",
+    "https://uk.linkedin.com/in/atanuchaudhuri1",
+    "https://www.linkedin.com/posts/kotaro-takahashi-bab9892_%E5%9B%BD%E5%86%85%E3%81%8C%E5%A5%BD%E8%AA%BF%E3%81%AA%E3%81%86%E3%81%A1%E3%81%AB%E6%B5%B7%E5%A4%96%E3%81%A7%E5%B0%8F%E3%81%95%E3%81%8F%E5%A4%B1%E6%95%97%E3%81%97%E3%81%A6%E3%81%8A%E3%81%8F-%E6%88%90%E6%9E%9C%E3%81%8C%E9%81%85%E3%82%8C%E3%81%A6%E5%B1%8A%E3%81%8F%E4%BA%8B%E6%A5%AD%E3%82%92%E7%A4%BE%E5%86%85%E3%81%A7%E3%81%A9%E3%81%86-activity-7514550444283752449-yyTB",
+    "https://uk.linkedin.com/in/neilkendall"
+   ]
+  }
+ ],
+ "missing": {
+  "作る側の原価": "記載なし（読んだ33頁・検索13回）"
+ }
+}

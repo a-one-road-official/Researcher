@@ -1,0 +1,967 @@
+{
+ "name": "ホシザキ中国",
+ "aliases": [],
+ "context": "広島県広島市／出典:マイナビ／求人媒体:Indeed;マイナビ新卒／想定年収:未取得／従業員:547",
+ "researched_at": "2026-11-05T04:45:00.346513+00:00",
+ "official_url": "https://www.hoshizaki-chugoku.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：昭和51（1976）年12月17日",
+    "url": "https://www.hoshizaki-chugoku.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1976年",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1976年12月",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://www.hoshizaki-chugoku.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "10,000万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "530名（男性　424名/女性　106名）　2026年1月1日現在",
+    "url": "https://www.hoshizaki-chugoku.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "524名",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "523名（2024年12月末現在）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "営業品目",
+    "value": "全自動製氷機・業務用冷凍冷蔵庫・食器洗浄機・電解水生成装置・生ビールサーバー・コーヒーサーバー・ティーサーバー・ソフトクリームフリーザー・各種自動販売機・その他厨房機器",
+    "url": "https://www.hoshizaki-chugoku.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "全自動製氷機、業務用冷凍冷蔵庫、食器洗浄機 をはじめとする各種業務用厨房機器の販売 及びアフターサービス ●取扱商品 全自動製氷機 業務用冷凍冷蔵庫 食器洗浄機 生ビールサーバー スチームコンベクション アイスディスペンサー ティーサーバー 電解水生成装置 温冷配膳車　他 ●ホシザキの全自動製氷機（国内販売シェア65％） ※社団法人日本冷凍空調工業会2016年度12月調査より ●ホシザキの全自動製氷機（国内シェア1位） ※2017年自社調べ",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "製氷機・冷凍機・各種自動販売機の販売およびメンテナンス 厨房機器の加工請負および販売 当社ホームページ：https://www.hoshizaki-chugoku.co.jp/ 当社インスタグラム：https://www.instagram.com/hoshizaki.chugoku キーワード：食品、衛生、管理栄養士、機械、厨房機器、営業、技術、事務、 主な取引先：飲食店、ホテル、病院、学校、スーパー、オフィス、物流　その他",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "広島市中区土橋町1-13",
+    "url": "https://www.hoshizaki-chugoku.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "広島県広島市中区土橋町1－13",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "label": "本社郵便番号",
+    "value": "730-0854",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "広島県広島市中区土橋町1-13",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社電話番号",
+    "value": "082-293-9451",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "広島県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "愛知県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "佐賀県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "千葉県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "大阪府",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "埼玉県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "静岡県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "香川県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "鹿児島県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "愛媛県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "高知県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　榊原 康人",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　榊原　康人",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "社長からのメッセージ",
+    "value": "快適な食環境を作る担い手として私たちホシザキ中国は全自動製氷機をはじめ優れたオリジナル製品ときめ細やかなサービスを提供してまいりました。 広島、岡山、山口、島根、鳥取の5県を担当し、食に関わるお客様のニーズに対応すべく、30拠点のネットワークを確立し、より高品質でスピーディなサービスを今後も提供してまいります。 グループ全体の取り組みとして、電解水生成装置やスチームコンベクションオーブンなどの新製品の開発により外食産業だけでなく、病院・福祉施設・学校・スーパー・ホテルなど様々な業界への販路拡大にも努めております。 弊社ではお客様の満足度向上を目指し、営業・サービス一体となり日々営業活動を展開しています。 中長期視点からも今まで以上の成長を目指し、新しいマーケット獲得に向け、新商品導入、調理のフォロー、お客様のビジネスソリューションなど新たな手法で営業展開をチャレンジしてまいります。",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "142億円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "146億円（2024年12月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主な取引先",
+    "value": "飲食店、ホテル、病院、学校、スーパー、オフィス、物流 その他",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "資本金250万円全額星崎電機株式会社の出資により中国星崎株式会社として松江市西津田町278番地に設立する",
+    "url": "https://www.hoshizaki-chugoku.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ホシザキ中国株式会社の求人情報／【 メーカー営業 】◎賞与実績5.5ヶ月分※未経験大歓迎 (377634) | 転職・求人情報サイトのマイナビ転職【掲載終了】",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "【 メーカー営業 】◎賞与実績5.5ヶ月分※未経験大歓迎の求人情報",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "【 メーカー営業 】◎賞与実績5.5ヶ月分※未経験大歓迎",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "350万～400万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "利益は社員に還元｜賞与の前年実績は平均5.56ヵ月分",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "■月給20万9,000円以上",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "初年度年収は、入社後向こう一年間に支給される予定の金額で、基本給に諸手当と前年度の標準的な査定ベースの賞与額を加えたものです",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "初年度年収は、入社される方のスキルや経験によって必ずしも一定ではありませんので、検索した年収額と実際に入社した際の金額は異なる場合があります",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "350万円～400万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "年収360万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "年収430万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "■昇給：年1回(4月)",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "■賞与：年2回(7月・12月)",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与5ヶ月以上",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "10,000万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "年収1,000万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "資本金250万円で松江市西津田町278番地に設立する",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "広島、岡山、山口、島根、鳥取の５県を担当し、食に関わるお客様のニーズに対応すべく30拠点のネットワークを確立し、より高品質でスピーディなサービスを今後も提供してまいります",
+    "url": "https://www.hoshizaki-chugoku.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "中国5県エリアを30拠点でカバーし、地域密着型でホシザキ製品の販売・メンテナンスを行っております",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "その他、海外にもホシザキグループの拠点あり",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "146億円（2024年12月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "営業拠点は30カ所あり、地域に密着したサービスを提供しております",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "主な取引先：飲食店、ホテル、病院、学校、スーパー、オフィス、物流 その他",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "営業所/広島、岡山、山口、島根、鳥取 に30拠点",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "広島、岡山、山口、島根、鳥取の5県を担当し、食に関わるお客様のニーズに対応すべく、30拠点のネットワークを確立し、より高品質でスピーディなサービスを今後も提供してまいります",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "キャリア採用の情報は、最寄りのハローワークをご確認ください",
+    "url": "https://www.hoshizaki-chugoku.co.jp/recruite/requirments/",
+    "pass": 1
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "ホシザキ中国(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "エントリーいただいた方には選考情報を配信いたします！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在は随時募集に切り替えておりますので、選考に参加されたい方はまずはエントリーいただき、弊社からのメッセージをお待ちください！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "マイナビ2027より応募可",
+    "url": "https://www.hoshizaki-chugoku.co.jp/recruite/requirments/",
+    "pass": 1
+   },
+   {
+    "quote": "キャリア採用の情報は、最寄りのハローワークをご確認ください",
+    "url": "https://www.hoshizaki-chugoku.co.jp/recruite/requirments/",
+    "pass": 1
+   },
+   {
+    "quote": "マイナビ2027よりご予約",
+    "url": "https://www.hoshizaki-chugoku.co.jp/recruite/educational/",
+    "pass": 1
+   },
+   {
+    "quote": "ホシザキ中国株式会社の求人情報／【 メーカー営業 】◎賞与実績5.5ヶ月分※未経験大歓迎 (377634) | 転職・求人情報サイトのマイナビ転職【掲載終了】",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "本求人はマイナビ転職の応募フォームでのみ受け付けます",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "本求人は、株式会社マイナビが運営する",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "「マイナビ転職AGENT キャリアパートナー」による人材紹介案件です",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "※個人情報について「個人情報の取り扱いについて（マイナビ転職AGENT）」に同意いただき、",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "上記は、株式会社マイナビ内／ホシザキ中国株式会社採用事務局の所在地です",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "※オプトアウトをした場合、マイナビ転職の一部サービスを利用できない場合があります",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "ホシザキ中国(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "会社説明会に参加しないと選考には進めませんか？",
+    "url": "https://www.hoshizaki-chugoku.co.jp/recruite/educational/",
+    "pass": 1
+   },
+   {
+    "quote": "選考参加の条件として会社説明会の参加は必須ではありません",
+    "url": "https://www.hoshizaki-chugoku.co.jp/recruite/educational/",
+    "pass": 1
+   },
+   {
+    "quote": "はじめは先輩社員がしっかりサポートしてくれる環境なので、徐々に慣れていきましょう！",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "当社インスタグラム：https://www.instagram.com/hoshizaki.chugoku",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ホシザキ中国 株式会社 の 求人 ・中途採用情報 - doda — ホシザキ中国 株式会社 の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__00003761772",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00003761772/",
+    "pass": 3
+   },
+   {
+    "quote": "ホシザキ中国 株式会社の 求人 情報 - マイナビ転職 — ホシザキ中国 株式会社の 求人 情報 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > ... > ホシザキ中国株式会社",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項 | ホシザキ中国 株式会社 — 募集要項 | ホシザキ中国 株式会社 ホシザキ中国株式会社 https://www.hoshizaki-chugoku.co.jp > 採用情報",
+    "url": "https://www.hoshizaki-chugoku.co.jp/recruite/requirments/",
+    "pass": 3
+   },
+   {
+    "quote": "ホシザキ中国 の 年収 ・ボーナス・給与・初任給に関する評判 ... — ホシザキ中国 の 年収 ・ボーナス・給与・初任給に関する評判 ... 就活会議 https://syukatsu-kaigi.jp > post_items > word_mouths",
+    "url": "https://syukatsu-kaigi.jp/companies/1083/post_items/2/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "ホシザキ中国 株式会社 【技術職（機械・電気）】 の 求人 ... — ホシザキ中国 株式会社 【技術職（機械・電気）】 の 求人 ... doda https://doda.jp > CompanyJobs > j_id__00003761772",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00003761772/-oc__04L/",
+    "pass": 3
+   },
+   {
+    "quote": "ホシザキ中国 新卒 高卒 の求人情報をすべて見る （136件） — ホシザキ中国 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "ホシザキ中国 (株)の 新卒採用 ・会社概要 | マイナビ2027 — ホシザキ中国 (株)の 新卒採用 ・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp53025 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用 情報 | ホシザキ中国 株式会社 — 採用 情報 | ホシザキ中国 株式会社 ホシザキ中国株式会社 https://www.hoshizaki-chugoku.co.jp > recruite",
+    "url": "https://www.hoshizaki-chugoku.co.jp/recruite/",
+    "pass": 3
+   },
+   {
+    "quote": "ホシザキ中国 株式会社 - ジョブカフェしまね — ホシザキ中国 株式会社 - ジョブカフェしまね ジョブカフェしまね https://www.gogo-jobcafe-shimane.jp > しごとを探す",
+    "url": "https://www.gogo-jobcafe-shimane.jp/job/detail?job_id=2042458",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "# ホシザキ中国 株式会社 - Search / X # ホシザキ中国 株式会社 - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE?src=hashtag_click",
+    "pass": 3
+   },
+   {
+    "quote": "モルツウェル on X: \" ホシザキ中国 さんの展示会に出展してます ... モルツウェル on X: \" ホシザキ中国 さんの展示会に出展してます ... X https://x.com > @morzwell_food",
+    "url": "https://x.com/morzwell_food/status/2113163589385376209",
+    "pass": 3
+   },
+   {
+    "quote": "モルツウェル on X: \"本日は ホシザキ中国 株式会社 山陰支店 ... モルツウェル on X: \"本日は ホシザキ中国 株式会社 山陰支店 ... X https://x.com > @morzwell_food",
+    "url": "https://x.com/morzwell_food/status/2052263748845617409",
+    "pass": 3
+   },
+   {
+    "quote": "#ホシザキ中国 - Search / X See posts about #ホシザキ中国 on X. See what people are saying and join the conversation.",
+    "url": "https://x.com/hashtag/ホシザキ中国",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "坂田 利文 - -- | LinkedIn -- · 職歴: ホシザキ中国株式会社 · 場所: 7380011。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで坂田 利文さんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/利文-坂田-57847722a",
+    "pass": 3
+   },
+   {
+    "quote": "19 ホシザキ中国株式会社 jobs - LinkedIn Today’s top 19 ホシザキ中国株式会社 jobs. Leverage your professional network, and get hired. New ホシザキ中国株式会社 jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/ホシザキ中国株式会社-jobs-worldwide?f_C=33362459",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ホシザキ中国 - Facebook ホシザキ中国 - Facebook ... ホシザキ中国",
+    "url": "https://www.facebook.com/ホシザキ中国-566367606711725/",
+    "pass": 3
+   },
+   {
+    "quote": "ホシザキ中国株式会社 - Facebook ホシザキ中国株式会社",
+    "url": "https://www.facebook.com/ホシザキ中国株式会社-187156234656680/",
+    "pass": 3
+   },
+   {
+    "quote": "モルツウェル株式会社 - ホシザキ中国株式会社 松江支店のテストキッ... ホシザキ中国株式会社 松江支店のテストキッチンにて、「アフターコロナ対策試食会」を実施いたします！ 調理時間を短縮して、入居者様との時間を増やしませんか？ 真空パックの調理済み食材「楽盛」は、温めてお皿に盛るだけ スチームコンベクションオーブンやブラストチラーなどの ...",
+    "url": "https://www.facebook.com/morzwell/posts/ホシザキ中国株式会社-松江支店のテストキッチンにてアフターコロナ対策試食会を実施いたします調理時間を短縮して入居者様との時間を増やしませんか真空パックの調理済み/3294688630581895/",
+    "pass": 3
+   },
+   {
+    "quote": "モルツウェル株式会社 - ホシザキ中国株式会社 松江支店のテストキッ... Aug 25, 2020 · ホシザキ中国株式会社 松江支店のテストキッチンにて、「Withコロナ対策試食会」を実施いたします！ 調理時間を短縮して、入居者様との時間を増やしませんか？ 真空パックの調理済み食材「楽盛」は、温めてお皿に盛るだけ スチームコンベクションオーブンやブラストチラーなどの機械を ...",
+    "url": "https://www.facebook.com/morzwell/posts/ホシザキ中国株式会社-松江支店のテストキッチンにてwithコロナ対策試食会を実施いたします調理時間を短縮して入居者様との時間を増やしませんか真空パックの調理済み/3414620791922011/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hoshizaki-chugoku.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hoshizaki-chugoku.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hoshizaki-chugoku.co.jp/item/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hoshizaki-chugoku.co.jp/recruite/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hoshizaki-chugoku.co.jp/news/%E6%8E%A1%E7%94%A8%E6%B4%BB%E5%8B%95%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%9F%BA%E6%9C%AC%E6%96%B9%E9%87%9D%E3%81%8A%E3%82%88%E3%81%B3%E7%9B%B8%E8%AB%87%E7%AA%93%E5%8F%A3%E3%81%AE%E3%81%94%E6%A1%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hoshizaki-chugoku.co.jp/sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hoshizaki-chugoku.co.jp/recruite/job/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hoshizaki-chugoku.co.jp/recruite/number/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hoshizaki-chugoku.co.jp/interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hoshizaki-chugoku.co.jp/recruite/requirments/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hoshizaki-chugoku.co.jp/recruite/educational/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hoshizaki-chugoku.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00003761772/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE?src=hashtag_click",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/morzwell_food/status/2113163589385376209",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/morzwell_food/status/2052263748845617409",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/利文-坂田-57847722a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/ホシザキ中国株式会社-jobs-worldwide?f_C=33362459",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ホシザキ中国-566367606711725/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ホシザキ中国株式会社-187156234656680/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/morzwell/posts/ホシザキ中国株式会社-松江支店のテストキッチンにてアフターコロナ対策試食会を実施いたします調理時間を短縮して入居者様との時間を増やしませんか真空パックの調理済み/3294688630581895/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/morzwell/posts/ホシザキ中国株式会社-松江支店のテストキッチンにてwithコロナ対策試食会を実施いたします調理時間を短縮して入居者様との時間を増やしませんか真空パックの調理済み/3414620791922011/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/ホシザキ中国",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ホシザキ中国 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00003761772/",
+    "https://tenshoku.mynavi.jp/jobinfo-377634-2-3-1/",
+    "https://www.hoshizaki-chugoku.co.jp/recruite/requirments/",
+    "https://syukatsu-kaigi.jp/companies/1083/post_items/2/word_mouths",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00003761772/-oc__04L/",
+    "https://www.openwork.jp/a0C1000000jwS2Z/job/",
+    "https://www.gogo-jobcafe-shimane.jp/job/detail?job_id=2042458",
+    "https://www.hellowork.careers/%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "https://jp.indeed.com/cmp/ホシザキ中国株式会社/salaries",
+    "https://en-hyouban.com/company/00003761772/salary/"
+   ]
+  },
+  {
+   "query": "ホシザキ中国 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.hoshizaki-chugoku.co.jp/recruite/requirments/",
+    "https://job.mynavi.jp/27/pc/search/corp53025/outline.html",
+    "https://www.hoshizaki-chugoku.co.jp/recruite/",
+    "https://www.gogo-jobcafe-shimane.jp/job/detail?job_id=2042458",
+    "https://jp.indeed.com/q-%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-l-%E5%BA%83%E5%B3%B6%E7%9C%8C-%E6%B1%82%E4%BA%BA.html",
+    "https://www.onecareer.jp/companies/55997",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00003761772/",
+    "https://wagasyade-saiyo.jp/hoshizaki-chugoku/top",
+    "https://www.r-agent.com/company/f0040/"
+   ]
+  },
+  {
+   "query": "site:note.com ホシザキ中国",
+   "results": [
+    "https://note.com/ipnote/n/n71338aa44983",
+    "https://note.com/maps2400/n/n26c55aa9a75f",
+    "https://note.com/froggy_smbcnikko/n/n860583bd9435",
+    "https://note.com/irshukatsu/n/nf105e7733c5b",
+    "https://note.com/japanhandson/n/n7962f2056910",
+    "https://note.com/merlin973/n/n7f4b9934f5f5",
+    "https://note.com/tatsuya_sabato/n/n39d8daef3863",
+    "https://note.com/kassie/n/n5e124165a490",
+    "https://note.com/better_equation/n/nadfffa83b880",
+    "https://note.com/maps2400/n/nd0518756dbb6"
+   ]
+  },
+  {
+   "query": "site:x.com ホシザキ中国",
+   "results": [
+    "https://x.com/hashtag/%E3%83%9B%E3%82%B7%E3%82%B6%E3%82%AD%E4%B8%AD%E5%9B%BD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE?src=hashtag_click",
+    "https://x.com/morzwell_food/status/2113163589385376209",
+    "https://x.com/morzwell_food/status/2113845397579837821",
+    "https://x.com/morzwell_food/status/2052263748845617409",
+    "https://x.com/chujitsu_tf/status/2117101052533379475",
+    "https://x.com/morzwell_food/status/1404656579752824838",
+    "https://x.com/morzwell_food",
+    "https://x.com/NEXTCARPORT01/status/2113277410993143892",
+    "https://x.com/NEXTCARPORT01/status/2111435790190538754",
+    "https://x.com/hashtag/ホシザキ中国"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ホシザキ中国",
+   "results": [
+    "https://jp.linkedin.com/in/利文-坂田-57847722a",
+    "https://www.linkedin.com/jobs/ホシザキ中国株式会社-jobs-worldwide?f_C=33362459",
+    "https://www.linkedin.com/pub/dir/幸久/峯澤",
+    "https://cn.linkedin.com/in/hailin-hvac/en",
+    "https://cn.linkedin.com/in/幸久-峯澤-847374340",
+    "https://cn.linkedin.com/in/崇秀-五味-061802111",
+    "https://cn.linkedin.com/in/凌翔-瞿-95a36612b"
+   ]
+  },
+  {
+   "query": "site:facebook.com ホシザキ中国",
+   "results": [
+    "https://www.facebook.com/ホシザキ中国-566367606711725/",
+    "https://www.facebook.com/ホシザキ中国株式会社-187156234656680/",
+    "https://www.facebook.com/morzwell/posts/ホシザキ中国株式会社-松江支店のテストキッチンにてアフターコロナ対策試食会を実施いたします調理時間を短縮して入居者様との時間を増やしませんか真空パックの調理済み/3294688630581895/",
+    "https://www.facebook.com/morzwell/posts/ホシザキ中国株式会社-松江支店のテストキッチンにてwithコロナ対策試食会を実施いたします調理時間を短縮して入居者様との時間を増やしませんか真空パックの調理済み/3414620791922011/",
+    "https://www.facebook.com/hironori.kusizaki/",
+    "https://www.facebook.com/Hoshizakihongkong/",
+    "https://www.facebook.com/Carpigiani.Japan.1980/photos/spring-tour4️⃣広島で開催決定今回ホシザキ中国株式会社様にご協力いただき広島で2種類のジェラート講習会を開催することとなりましたこの機会をお見逃しな/642037751906727/"
+   ]
+  },
+  {
+   "query": "ホシザキ中国 note 社長",
+   "results": [
+    "http://www.hoshizaki-chugoku.co.jp/",
+    "https://www.hoshizaki-chugoku.co.jp/company/",
+    "https://www.hoshizaki.com/news/20241101",
+    "https://compalyze.co.jp/company/8240001010801",
+    "https://www.hoshizaki.com/story/leadership",
+    "https://note.com/froggy_smbcnikko/n/n860583bd9435",
+    "https://the-shashi.com/tse/6465/executives/"
+   ]
+  },
+  {
+   "query": "ホシザキ中国 X 投稿",
+   "results": [
+    "https://x.com/hashtag/ホシザキ中国",
+    "https://www.instagram.com/hoshizaki.chugoku/",
+    "https://www.instagram.com/p/DawNCLDgWjh/",
+    "http://www.hoshizaki-chugoku.co.jp/",
+    "https://x.com/hoshu_rekishi/status/2117658116666065243",
+    "https://search.yahoo.co.jp/realtime/search/ホシザキ/",
+    "https://af4d8.e4zxp.cc/?chan=knmtkjhys"
+   ]
+  }
+ ],
+ "missing": {}
+}

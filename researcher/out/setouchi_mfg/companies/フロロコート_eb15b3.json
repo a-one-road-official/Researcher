@@ -1,0 +1,649 @@
+{
+ "name": "フロロコート",
+ "aliases": [],
+ "context": "岡山県岡山市／出典:県・市の企業ガイド／求人媒体:Indeed;doda;マイナビ転職／想定年収:300〜700万円／従業員:不明",
+ "researched_at": "2026-11-05T04:47:22.102533+00:00",
+ "official_url": "https://www.fluorocoat.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒350-0833 埼玉県川越市芳野台1-103-37 TEL 049-225-4321 FAX 049-223-1009",
+    "url": "https://www.fluorocoat.co.jp/overview/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒350-0833 埼玉県川越市芳野台1-103-37 TEL 049-225-4321",
+    "url": "https://www.fluorocoat.co.jp/newgraduate/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒350-0833 埼玉県川越市芳野台1-103-37 TEL 049-225-4321",
+    "url": "https://www.fluorocoat.co.jp/mid-career/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創立",
+    "value": "創立：2005年3月",
+    "url": "https://www.fluorocoat.co.jp/overview/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2005年3月25日",
+    "url": "https://www.fluorocoat.co.jp/newgraduate/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2005年3月25日",
+    "url": "https://www.fluorocoat.co.jp/mid-career/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 諏訪部　充弘",
+    "url": "https://www.fluorocoat.co.jp/overview/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　諏訪部　充弘",
+    "url": "https://www.fluorocoat.co.jp/newgraduate/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　諏訪部　充弘",
+    "url": "https://www.fluorocoat.co.jp/mid-career/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "2,000万円",
+    "url": "https://www.fluorocoat.co.jp/overview/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "2,000万円",
+    "url": "https://www.fluorocoat.co.jp/newgraduate/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "2,000万円",
+    "url": "https://www.fluorocoat.co.jp/mid-career/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "110名",
+    "url": "https://www.fluorocoat.co.jp/overview/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "表面改質加工業 （主としてふっ素樹脂コーティング加工）",
+    "url": "https://www.fluorocoat.co.jp/newgraduate/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "表面改質加工業 （主としてふっ素樹脂コーティング加工）",
+    "url": "https://www.fluorocoat.co.jp/mid-career/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用の発信": [
+   {
+    "quote": "「研究所長のブログ」の第13稿を公開いたしました",
+    "url": "https://www.fluorocoat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【研究所長のブログ】化学プラントでの耐食コーティング～ライニングとの使い分け～",
+    "url": "https://www.fluorocoat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置向けコーティングの技術ブログ（第7弾）を公開しました",
+    "url": "https://www.fluorocoat.co.jp/",
+    "pass": 1
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "国内の全工場にてISO9001の認証を取得",
+    "url": "https://www.fluorocoat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ企業を合わせた６事業拠点で全国をカバー",
+    "url": "https://www.fluorocoat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "（川越、名古屋、新潟、岡山他）全ての事業拠点で工場を有しており、お客様の最寄りの事業拠点にて高品質、短納期の対応が可能です",
+    "url": "https://www.fluorocoat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "国内の全工場にてISO9001の認証を取得しています",
+    "url": "https://www.fluorocoat.co.jp/production/",
+    "pass": 1
+   },
+   {
+    "quote": "新潟県長岡市下下條に新潟営業所（工場併設）を開設",
+    "url": "https://www.fluorocoat.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新潟工場を新潟県長岡市東高見工業団地内に新設移転",
+    "url": "https://www.fluorocoat.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "岡山工場を岡山県御津郡御津町御津工業団地に新設移転",
+    "url": "https://www.fluorocoat.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "何の変哲もない普通の工場…と、思いきや！？",
+    "url": "https://www.fluorocoat.co.jp/recruit/",
+    "pass": 1
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "2,000万円",
+    "url": "https://www.fluorocoat.co.jp/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "2,000万円",
+    "url": "https://www.fluorocoat.co.jp/newgraduate/",
+    "pass": 1
+   },
+   {
+    "quote": "夏季、冬季のほかに業績に応じて決算賞与の支給あり",
+    "url": "https://www.fluorocoat.co.jp/newgraduate/",
+    "pass": 1
+   },
+   {
+    "quote": "2,000万円",
+    "url": "https://www.fluorocoat.co.jp/mid-career/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社フロロコート | ★転勤なし／賞与年3回／育児・介護休暇取得実績あり★",
+    "url": "https://tenshoku.mynavi.jp/company/442822/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "ふっ素樹脂コーティングに関する技術全般の仕事をお任せします！ ★賞与年3回・残業時間月平均10h！プライベートも充実できます！",
+    "url": "https://tenshoku.mynavi.jp/company/442822/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "月給245,699円〜314,238円 ※経験・年齢を考慮の上、決定します",
+    "url": "https://tenshoku.mynavi.jp/company/442822/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "ふっ素樹脂コーティングの【生産技術】残業月10h／賞与年3回",
+    "url": "https://tenshoku.mynavi.jp/company/442822/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "ふっ素樹脂コーティングに関する生産技術全般の仕事をお任せします！ ★賞与年3回・残業時間月平均10h！プライベートも充実できます！",
+    "url": "https://tenshoku.mynavi.jp/company/442822/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "月給245,699円〜314,238円",
+    "url": "https://tenshoku.mynavi.jp/company/442822/joblist/",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "エントリーシートのフォーマットは問いません",
+    "url": "https://www.fluorocoat.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "New graduate recruitment information",
+    "url": "https://www.fluorocoat.co.jp/newgraduate/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年4月度 新卒採用情報",
+    "url": "https://www.fluorocoat.co.jp/newgraduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Mid-career recruitment information",
+    "url": "https://www.fluorocoat.co.jp/mid-career/",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用の詳細については採用担当までご連絡ください",
+    "url": "https://www.fluorocoat.co.jp/mid-career/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社フロロコートの転職・求人・中途採用情報|マイナビ転職",
+    "url": "https://tenshoku.mynavi.jp/company/442822/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フロロコートの転職・求人・中途採用情報",
+    "url": "https://tenshoku.mynavi.jp/company/442822/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "「株式会社フロロコート」の転職・求人・中途採用情報を掲載しています",
+    "url": "https://tenshoku.mynavi.jp/company/442822/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用情報｜フロロコート新潟｜フッ素樹脂コーティング（テフロン加工）のパイオニア",
+    "url": "https://www.fluorocoat-niigata.jp/reqruit/newgraduate.html",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用情報は、株式会社フロロコート（本社）",
+    "url": "https://www.fluorocoat-niigata.jp/reqruit/newgraduate.html",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "株式会社フロロコートの転職・求人・中途採用情報|マイナビ転職",
+    "url": "https://tenshoku.mynavi.jp/company/442822/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "※オプトアウトをした場合、マイナビ転職の一部サービスを利用できない場合があります",
+    "url": "https://tenshoku.mynavi.jp/company/442822/joblist/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "13 件の 株式会社 フロロコート の求人 | Indeed (インディード) — 株式会社 フロロコートの求人は13件あります。営業事務, 製造, 技術者などの仕事・転職・アルバイト情報もまとめて検索。",
+    "url": "https://jp.indeed.com/q-株式会社-フロロコート-求人.html?vjk=2d5259c252329c70",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フロロコートの転職・求人・中途採用情報|マイナビ転職 — 「株式会社フロロコート」の転職・求人・中途採用情報ページです。株式会社フロロコートで募集中の求人情報（2件)を掲載しています。マイナビ転職の企業別求人情報一覧ページでは、関連する業種・職種の企業の求人情報なども探せます。",
+    "url": "https://tenshoku.mynavi.jp/company/442822/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フロロコートの平均年収、年間給与所得情報 − 転職ならdoda（... — 株式会社フロロコートの平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで473,145社の企業情報が無料で検索・閲覧できます。",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10096605404/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フロロコートの転職・企業概要 − 転職ならdoda（デューダ）【株式会社フロロコート】【長岡市】製造／作業でなく日本初のフッ素...株式会社フロロコートのハローワーク求人｜埼玉県川越市｜事務（デー...株式会社フロロコート の 日本 での給与 | Indeed (インディード) — 株式会社フロロコートの公開中の求人（3件）や従業員・年収・事業内容・業績・業種・所在地の情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで475,734社の企業情報が無料で検索・閲覧できます。 株式会社フロロコートの【長岡市】製造／作業でなく日本初のフッ素樹脂コーティングを習得 正社員採用/日勤のみ/年休119日【転職支援サービス求人】の正社員求人はこちら。 Oct 8, 2026 · ハローワークインターネットサービスに掲載された株式会社フロロコートの求人情報です。雇用形態",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10096605404/",
+    "pass": 3
+   },
+   {
+    "quote": "【株式会社フロロコート】【長岡市】製造／作業でなく日本初のフッ素... — 株式会社フロロコートの【長岡市】製造／作業でなく日本初のフッ素樹脂コーティングを習得 正社員採用/日勤のみ/年休119日【転職支援サービス求人】の正社員求人はこちら。",
+    "url": "https://tenshoku-ex.jp/job_41177666",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用情報 - 株式会社フロロコート — フロロコートでは世界に誇れる「フッ素樹脂コーティングのプロフェッショナル」となり、フッ素樹脂のもたらす各種機能を追求しようとする、会社の将来を担う人材を求めています。 ・科学的に物事を考える人 ・正確な仕事ができる人",
+    "url": "https://www.fluorocoat.co.jp/newgraduate/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用情報｜フロロコート新潟｜フッ素樹脂コーティング（テフロン... — フロロコート新潟は、フッ素樹脂コーティング（テフロン加工）のパイオニアです。 表面処理で太陽電池、液晶、食品、その他の加工ニーズにお応えし、日本海側（新潟県）の発展に貢献します。",
+    "url": "https://www.fluorocoat-niigata.jp/reqruit/newgraduate.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報 - 株式会社フロロコート — 日本初！ フッ素樹脂コーティングのパイオニア 一体どこに通じているのか、誰も知らない扉が…！ 社用車のナンバーは全て2660 (フロロ)!? フロロコートの不思議はこれだけではありません！ 続きは、ぜひ会社見学でお確かめください。",
+    "url": "https://www.fluorocoat.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報｜フロロコート新潟｜フッ素樹脂コーティング（テフロン加工... — フロロコート新潟は、フッ素樹脂コーティング（テフロン加工）のパイオニアです。 表面処理で太陽電池、液晶、食品、その他の加工ニーズにお応えし、日本海側（新潟県）の発展に貢献します。",
+    "url": "https://www.fluorocoat-niigata.jp/reqruit/",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報｜株式会社フロロコート名古屋13 件の 株式会社 フロロコート の求人 | Indeed (インディード)11 件の 株式会社フロロコート の求人 | Indeed (インディード) — フッ素樹脂コーティングの受託加工メーカー『フロロコート名古屋』のホームページ。 「表面」に関する課題や問題、他にも品質・納期・コストなどお客様がお困りなっていることをお聞かせ下さい。 確かな技術力と加工実績でお応えします。 (製造経験必須)フッ素樹脂の塗装業務/年収400万~・賞与3回/半年分以上/47382 株式会社フロロコート 新潟事業部 新潟県 長岡市 城岡 交通費支給 月給 225,589円 ~ 253,378円 相談に応じます。 作業服は 会社 より貸与します。 【仕事の魅... 樹脂（テフロン）コーティング加工 ・関連 会社： 株式会社フロロコート 、 株式会社フロロコート 名古屋 ・",
+    "url": "https://www.fluorocoat-nagoya.co.jp/recruit.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Ay@to'n Ackkerman on X: \"@Astro_417 こいつ何号くらいのラインで望... こいつ何号くらいのラインで望むサイズ？ 写真のが3号ナイロンのフロロコートなんだけど 10:52 AM · Oct 8, 2026 · 29 Views 1 2 🇺🇸K417🇯🇵 @Astro_417 Oct 8",
+    "url": "https://x.com/SakuraDsukamori/status/2108148630049951861",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月5日 (岡山市 第41弾) 岡山電気軌道 株式会社 バス事業部 岡... MOMIJI_MAPLE416 (高槻紅葉 by思い出記録帳). 1 likes 0 replies. 2026年10月5日 (岡山市 第41弾) 岡山電気軌道 株式会社 バス事業部 岡電バス 三菱ふそう エアロスター 561 ( 1702 ) 2PG-MP38FM 2019年式 株式会社フロロコート ラッピング 津高営業所 https://t.co/lHBr9gScRZ",
+    "url": "https://x.com/MOMIJI_MAPLE416/status/2111386471416647752",
+    "pass": 3
+   },
+   {
+    "quote": "KOYA7260 (@koya72602026) / Posts and Replies / X 株式会社フロロコート 企業VP サンライズ工業株式会社 企業VP 栄電子工業株式会社 企業VP ボイスオーバー TBS「ワールド極限ミステリー」--ジャック・ジョン・クリストファー 人体の不思議ミステリー その他 ※太文字は主役・メインキャラクター WEBアニメ",
+    "url": "https://x.com/koya72602026/with_replies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Fluorocoat Corporation（株式会社フロロコート） | LinkedIn Fluorocoat Corporation (株式会社フロロコート) is a Japan-based specialist in fluoropolymer coating and metal surface treatment, built on a legacy that dates back to 1954.",
+    "url": "https://jp.linkedin.com/company/fluorocoat",
+    "pass": 3
+   },
+   {
+    "quote": "染谷 公司 - フロロコートの社員 | LinkedIn フロロコートの社員 · 職歴: フロロコート · 場所: 広域東京エリア。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで染谷 公司さんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/公司-染谷-95618a410",
+    "pass": 3
+   },
+   {
+    "quote": "We have launched our company page on LinkedIn. I would ... #Fluoropolymer #Coating #SurfaceTreatment #Manufacturing #BtoB 株式会社フロロコートは、1954年を起源とするフッ素樹脂コーティングおよび金属表面処理の専門 ...",
+    "url": "https://www.linkedin.com/posts/fluorocoat_we-have-launched-our-company-page-on-linkedin-activity-7445286207942520836-6rY2",
+    "pass": 3
+   },
+   {
+    "quote": "上田 一成 - （株）フロロコートの部長 Technical Director at Fluoro... （株）フロロコートの部長 Technical Director at Fluorocoat Corporation | Fluoropolymer Coating Specialist | PTFE・PFA Coating | Surface Engineering · 職歴: （株）フロロコート · 場所: さいたま · LinkedInのつながり23人。",
+    "url": "https://jp.linkedin.com/in/一成-上田-924017399",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社フロロコート | Kawagoe-shi Saitama - Facebook株式会社フロロコート - 本日、当社ホームページをリニューアルいたし...株式会社フロロコート - Facebook株式会社フロロコート - 若手社員の一日 〜様々な試験や評価を行いま...株式会社フロロコート - 【フロロコートの新しい技術発信を始めました...株式会社フロロコート - 株式会社フロロコート added a new photo.株式会社フロロコート - 株式会社フロロコート added a new photo. フロロコートには社員寮があります。 春には前の川沿いが桜で満開になります。 また、朝食と夕食のまかない付きで、 いつも温かい食事を食べることができます。 現在4名の社員と長期インターンの学生1人が住んで います。 Mar 15, 2022 · 株式会社フロロコートの技術の歩みは、",
+    "url": "https://www.facebook.com/Fluorocoat/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フロロコート - 本日、当社ホームページをリニューアルいたし... Mar 15, 2022 · 株式会社フロロコートの技術の歩みは、1954年に始ま りました。 創業者の諏訪部喜義がシリコーン樹脂コーティングを 始め、1957年には東京シリコーン株式会社を設立。 年、フッ素樹脂コーティングを開始し、日本で初めて",
+    "url": "https://www.facebook.com/Fluorocoat/posts/本日当社ホームページをリニューアルいたしました-ぜひご覧ください/4411241865642975/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フロロコート - Facebook 株式会社フロロコート",
+    "url": "https://www.facebook.com/株式会社フロロコート-1292056564258794/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フロロコート - 若手社員の一日 〜様々な試験や評価を行いま... 午前中は通常業務、 午後から緊張した面持ちでインタビュー、 終わった後は同僚といつものスマイルです。 Kousuke Miyano and 19 others 20 株式会社フロロコート Aug 29",
+    "url": "https://www.facebook.com/Fluorocoat/posts/若手社員の一日-様々な試験や評価を行います-入社２年目の中島さん今日は技術部長の指導を受けながら塩水噴霧試験器とレーザー顕微鏡での検査を教わっています温水をかけ/1407040478177515/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フロロコート | Kawagoe-shi Saitama - Facebook株式会社フロロコート | フッ素樹脂コーティングのパイオニアYK／創作 ️最新まで済 on X: \"フロくんたちのぬいに何着てもらおっか...Fluorocoat Corporation（株式会社フロロコート） | LinkedInオリジナル投稿画像・動画掲示板【会員制・毎日更新】釣りの最新情報がここにある!!│ルアマガプラス フロロコートには社員寮があります。 春には前の川沿いが桜で満開になります。 また、朝食と夕食のまかない付きで、 いつも温かい食事を食べることができます。 現在4名の社員と長期インターンの学生1人が住んで います。 OUR ADVANTAGE 当社の強み 日本初の実績に裏付けられた技術力とその歩み フロロコートは1957年にふっ素樹脂コーティングを日本で初めて提供したメーカーです。 ",
+    "url": "https://www.facebook.com/Fluorocoat/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fluorocoat.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fluorocoat.co.jp/production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fluorocoat.co.jp/adron-coating/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fluorocoat.co.jp/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fluorocoat.co.jp/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fluorocoat.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fluorocoat.co.jp/newgraduate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fluorocoat.co.jp/mid-career/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.fluorocoat.co.jp/wp-content/themes/fluorocoat/common/img/recruit/20160616_pressrelease.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/q-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E3%83%95%E3%83%AD%E3%83%AD%E3%82%B3%E3%83%BC%E3%83%88-%E6%B1%82%E4%BA%BA.html?vjk=2d5259c252329c70",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/442822/joblist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10096605404/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fluorocoat-niigata.jp/reqruit/newgraduate.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SakuraDsukamori/status/2108148630049951861",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MOMIJI_MAPLE416/status/2111386471416647752",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/koya72602026/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/fluorocoat",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/公司-染谷-95618a410",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/fluorocoat_we-have-launched-our-company-page-on-linkedin-activity-7445286207942520836-6rY2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/一成-上田-924017399",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Fluorocoat/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Fluorocoat/posts/本日当社ホームページをリニューアルいたしました-ぜひご覧ください/4411241865642975/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/株式会社フロロコート-1292056564258794/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Fluorocoat/posts/若手社員の一日-様々な試験や評価を行います-入社２年目の中島さん今日は技術部長の指導を受けながら塩水噴霧試験器とレーザー顕微鏡での検査を教わっています温水をかけ/1407040478177515/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Fluorocoat/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/fluorocoat",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "フロロコート 求人 年収",
+   "results": [
+    "https://jp.indeed.com/q-株式会社-フロロコート-求人.html?vjk=2d5259c252329c70",
+    "https://tenshoku.mynavi.jp/company/442822/joblist/",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10096605404/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10096605404/",
+    "https://tenshoku-ex.jp/job_41177666",
+    "https://hellowork-plus.com/job-32669801/",
+    "https://jp.indeed.com/cmp/株式会社フロロコート/salaries"
+   ]
+  },
+  {
+   "query": "フロロコート 採用 新卒 高卒",
+   "results": [
+    "https://www.fluorocoat.co.jp/newgraduate/",
+    "https://www.fluorocoat-niigata.jp/reqruit/newgraduate.html",
+    "https://www.fluorocoat.co.jp/recruit/",
+    "https://www.fluorocoat-niigata.jp/reqruit/",
+    "https://www.fluorocoat-nagoya.co.jp/recruit.html",
+    "https://jp.indeed.com/q-株式会社-フロロコート-求人.html?vjk=7a0ff81182dd6b19",
+    "https://jp.indeed.com/q-株式会社フロロコート-求人.html?vjk=54b1978d9978b78c"
+   ]
+  },
+  {
+   "query": "site:note.com フロロコート",
+   "results": [
+    "https://note.com/tackleplus/n/n6ccef474df37",
+    "https://note.com/basshunter70/n/nf781ccead2b3",
+    "https://tales.note.com/journalist_shell/wk8adzwep4tux",
+    "https://tales.note.com/fair_rhino6105/wjx5vvkg5um66",
+    "https://note.com/youout5678/n/nfd4589c30056",
+    "https://note.com/inagonokyujitsu/n/nc99da854e0e7",
+    "https://note.com/ika_fishing/n/nd04c238bf4c4"
+   ]
+  },
+  {
+   "query": "site:x.com フロロコート",
+   "results": [
+    "https://x.com/",
+    "https://x.com/SakuraDsukamori/status/2108148630049951861",
+    "https://x.com/MOMIJI_MAPLE416/status/2111386471416647752",
+    "https://x.com/koya72602026/with_replies",
+    "https://x.com/fluorotech01",
+    "https://x.com/shindouyatsuha/status/2117579607415369829",
+    "https://x.com/lovergrl2002/status/2114215220327678069"
+   ]
+  },
+  {
+   "query": "site:linkedin.com フロロコート",
+   "results": [
+    "https://jp.linkedin.com/company/fluorocoat",
+    "https://jp.linkedin.com/in/公司-染谷-95618a410",
+    "https://www.linkedin.com/posts/fluorocoat_we-have-launched-our-company-page-on-linkedin-activity-7445286207942520836-6rY2",
+    "https://jp.linkedin.com/in/一成-上田-924017399",
+    "https://jp.linkedin.com/in/仁-大河内-925632404",
+    "https://www.linkedin.com/posts/fluorocoat_nanocoat-surfaceengineering-thinfilm-activity-7513050424162021376-xsbY",
+    "https://jp.linkedin.com/in/suwabe-mitsuhiro-465a285"
+   ]
+  },
+  {
+   "query": "site:facebook.com フロロコート",
+   "results": [
+    "https://www.facebook.com/Fluorocoat/",
+    "https://www.facebook.com/Fluorocoat/posts/本日当社ホームページをリニューアルいたしました-ぜひご覧ください/4411241865642975/",
+    "https://www.facebook.com/株式会社フロロコート-1292056564258794/",
+    "https://www.facebook.com/Fluorocoat/posts/若手社員の一日-様々な試験や評価を行います-入社２年目の中島さん今日は技術部長の指導を受けながら塩水噴霧試験器とレーザー顕微鏡での検査を教わっています温水をかけ/1407040478177515/",
+    "https://www.facebook.com/Fluorocoat/posts/フロロコートの新しい技術発信を始めましたこのたびフロロコートとして初めての-linkedin-pulse技術記事-を公開しましたこれまでもホームページや技術ブロ/1376950737853156/",
+    "https://www.facebook.com/photo/?fbid=1275457198002511",
+    "https://www.facebook.com/photo/?fbid=1275457191335845"
+   ]
+  },
+  {
+   "query": "フロロコート note 社長",
+   "results": [
+    "https://www.fluorocoat.co.jp/message/",
+    "https://www.fluorocoat.co.jp/overview/",
+    "https://compalyze.co.jp/company/4030001057669",
+    "https://risou-business.com/visit_2023/",
+    "https://jp.linkedin.com/company/fluorocoat",
+    "https://webdb.tsjiba.or.jp/main/company/00001820/show",
+    "https://kanto-meti-gov.note.jp/n/n76bfd88d71e2"
+   ]
+  },
+  {
+   "query": "フロロコート X 投稿",
+   "results": [
+    "https://www.facebook.com/Fluorocoat/",
+    "https://www.fluorocoat.co.jp/",
+    "https://jp.linkedin.com/company/fluorocoat",
+    "https://x.com/phrolo_hsr/status/2116847043822154005",
+    "https://x.com/YKK_sousaku/status/2117947857076658452",
+    "https://liberty-net.jp/toukou/",
+    "https://plus.luremaga.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部17頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部17頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部17頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部17頁・検索8回）"
+ }
+}

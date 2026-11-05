@@ -1,0 +1,233 @@
+{
+ "name": "rightmfg.co.jp 運営会社(社名ページ未取得)",
+ "aliases": [],
+ "context": "受託(金属3Dプリンター 420×420×500mm・500W×2、設計〜後処理・リバース、2023年9月開始) / 装置メーカー記載なし",
+ "researched_at": "2026-11-05T04:37:12.668088+00:00",
+ "official_url": "https://rightmfg.co.jp/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {},
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://rightmfg.co.jp/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.linkedin.com/company/rightmfg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jpx.co.jp/english/equities/follow-up/b5b4pj000004yqcc-att/vk0khi0000025c6g.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "rightmfg.co.jp 運営会社(社名ページ未取得) 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://rightmfg.co.jp/",
+    "https://rightmfg.co.jp/about/outline.html",
+    "https://rightmfg.co.jp/about/index.html",
+    "https://rightmfg.co.jp/about/efforts.html",
+    "https://rightmfg.co.jp/news/2025/1216-629.html",
+    "https://compalyze.co.jp/company/2011401006896",
+    "https://rightmfg.co.jp/sitemap.html",
+    "https://eigyo-mfg.com/service/navi/company/o0zeJ1wK0tTH",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2011401006896",
+    "https://edinetdb.jp/shareholders"
+   ]
+  },
+  {
+   "query": "rightmfg.co.jp 運営会社(社名ページ未取得) shareholders ownership investors parent company",
+   "results": [
+    "https://rightmfg.co.jp/en/index.html",
+    "https://www.linkedin.com/company/rightmfg",
+    "https://www.jpx.co.jp/english/equities/follow-up/b5b4pj000004yqcc-att/vk0khi0000025c6g.pdf",
+    "https://www.koito.co.jp/english/ir/stock/",
+    "https://www.reuters.com/business/retail-consumer/japan-invest-up-21-billion-two-us-chip-factories-be-run-by-globalfoundries-2026-10-14/",
+    "https://www.rightmfg.com/",
+    "https://www.jftc.go.jp/en/legislation_gls/amended_ama09/amended_ama15_04.html",
+    "https://www.olympus-global.com/ir/data/announcement/pdf/if111206corpe.pdf",
+    "https://www.nomuraholdings.com/en/report/main/01/teaserItems1/01/linkList/0/link/share250926.pdf"
+   ]
+  },
+  {
+   "query": "rightmfg.co.jp 運営会社(社名ページ未取得) 設立 OR 創業 OR founded",
+   "results": [
+    "https://rightmfg.co.jp/",
+    "https://rightmfg.co.jp/about/outline.html",
+    "https://rightmfg.co.jp/about/index.html",
+    "https://rightmfg.co.jp/news/2022/0714-238.html",
+    "https://compalyze.co.jp/company/2011401006896",
+    "https://eigyo-mfg.com/service/navi/company/o0zeJ1wK0tTH",
+    "https://rightmfg.co.jp/news/page/2",
+    "https://www.jmoia.jp/aboutjmoia/m25.html",
+    "https://rightmfg.co.jp/sitemap.html",
+    "https://ja.wikipedia.org/wiki/村田製作所"
+   ]
+  },
+  {
+   "query": "rightmfg.co.jp 運営会社(社名ページ未取得) 代理店 契約",
+   "results": [
+    "https://rightmfg.co.jp/",
+    "https://rightmfg.co.jp/about/outline.html",
+    "https://rightmfg.co.jp/about/index.html",
+    "https://rightmfg.co.jp/news/",
+    "https://eigyo-mfg.com/service/navi/company/o0zeJ1wK0tTH",
+    "https://www.jmoia.jp/aboutjmoia/m25.html",
+    "https://rightmfg.co.jp/news/2025/1216-629.html",
+    "https://compalyze.co.jp/company/2011401006896",
+    "https://rightmfg.co.jp/sitemap.html"
+   ]
+  },
+  {
+   "query": "rightmfg.co.jp 運営会社(社名ページ未取得) 導入事例",
+   "results": [
+    "https://rightmfg.co.jp/",
+    "https://rightmfg.co.jp/about/outline.html",
+    "https://rightmfg.co.jp/sitemap.html",
+    "https://rightmfg.co.jp/news/",
+    "https://rightmfg.co.jp/about/index.html",
+    "https://www.jmoia.jp/aboutjmoia/m25.html",
+    "https://eigyo-mfg.com/service/navi/company/o0zeJ1wK0tTH",
+    "https://rightmfg.co.jp/about/efforts.html",
+    "https://rightmfg.co.jp/factory/network.html",
+    "https://sur.ly/i/rightmfg.co.jp/"
+   ]
+  },
+  {
+   "query": "rightmfg.co.jp 運営会社(社名ページ未取得) 価格 OR 料金",
+   "results": [
+    "https://rightmfg.co.jp/",
+    "https://rightmfg.co.jp/about/outline.html",
+    "https://rightmfg.co.jp/about/index.html",
+    "https://rightmfg.co.jp/sitemap.html",
+    "https://eigyo-mfg.com/service/navi/company/o0zeJ1wK0tTH",
+    "https://rightmfg.co.jp/terms.html",
+    "https://compalyze.co.jp/company/2011401006896",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2011401006896",
+    "https://rightmfg.co.jp/about/efforts.html",
+    "https://www.one-line.com/ja/local-information/jp/local-charges"
+   ]
+  },
+  {
+   "query": "rightmfg.co.jp 運営会社(社名ページ未取得) 受託 造形",
+   "results": [
+    "https://rightmfg.co.jp/",
+    "https://rightmfg.co.jp/about/outline.html",
+    "https://rightmfg.co.jp/sitemap.html",
+    "https://rightmfg.co.jp/service/index.html",
+    "https://eigyo-mfg.com/service/navi/company/o0zeJ1wK0tTH",
+    "https://rightmfg.co.jp/news/",
+    "https://compalyze.co.jp/company/2011401006896",
+    "https://rightmfg.co.jp/news/2026/0518-698.html",
+    "https://www.jmoia.jp/aboutjmoia/m25.html"
+   ]
+  },
+  {
+   "query": "site:note.com rightmfg.co.jp 運営会社(社名ページ未取得)",
+   "results": [
+    "https://note.com/daikidomon/n/n238268ba8967",
+    "https://note.com/researchranking/n/nb440b4baa309",
+    "https://note.com/neo_blood/n/n65ed1a483b8f",
+    "https://note.com/abuabu/n/nde0d506402f0",
+    "https://note.com/zephel01/n/n84fdb7de06ee",
+    "https://note.com/katoyumi/n/n3dd8f26777a6",
+    "https://note.com/twinturbo/n/n7aa031b05719"
+   ]
+  },
+  {
+   "query": "site:x.com rightmfg.co.jp 運営会社(社名ページ未取得)",
+   "results": [
+    "https://about.x.com/",
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/vibeistani/status/2116644824703279122",
+    "https://about.x.com/ja",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/adrnvic/status/2116339042962833541",
+    "https://x.com/evadentz/status/2115896420809216184"
+   ]
+  },
+  {
+   "query": "site:linkedin.com rightmfg.co.jp 運営会社(社名ページ未取得)",
+   "results": [
+    "https://jp.linkedin.com/company/rightmfg",
+    "https://www.linkedin.com/company/rightmfg",
+    "https://www.linkedin.com/in/ed-wright-363b5a13",
+    "https://www.linkedin.com/company/wrightmfg",
+    "https://jp.linkedin.com/in/abdurrahim-ammar-07772615b",
+    "https://jp.linkedin.com/company/（株）ライト製作所",
+    "https://www.linkedin.com/posts/rightmfg_activity-7407595149247090689--_pr",
+    "https://www.linkedin.com/pub/dir/Hiroshi/Matsueda",
+    "https://jp.linkedin.com/in/hiroshi-matsueda-bb844379",
+    "https://jp.linkedin.com/in/mayuko-matsui-288a20149"
+   ]
+  },
+  {
+   "query": "site:facebook.com rightmfg.co.jp 運営会社(社名ページ未取得)",
+   "results": [
+    "https://www.facebook.com/sinjab.academy/posts/%EF%B8%8F-the-international-strabismus-course-is-here-%EF%B8%8F-session-6-3rd-and-4th-nerves-pal/1728440252405734/",
+    "https://www.facebook.com/AEA111/posts/-now-available-on-our-youtube-channel%F0%9D%90%87%F0%9D%90%A8%F0%9D%90%AD-%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%9C%F0%9D%90%AC-%F0%9D%90%A2%F0%9D%90%A7-%F0%9D%90%92%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%9B%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%A6%F0%9D%90%AE%F0%9D%90%ACdecision-making-in-/122274727496175452/",
+    "https://www.facebook.com/groups/197487061505020/posts/1262572048329844/",
+    "https://www.facebook.com/pages/Right+Manufacturing/147633571921294/",
+    "https://www.facebook.com/RightWay-Mfg-Solutions-LLC-1432592330304791/",
+    "https://www.facebook.com/Right-Mfg-Systems-inc-110082417035168/",
+    "https://business.facebook.com/groups/1119805468413204/",
+    "https://business.facebook.com/groups/broncotradingpost/",
+    "https://www.facebook.com/groups/nextgenerationnclex/posts/624506931376356/",
+    "https://www.facebook.com/toughlures/videos/here-is-a-sampling-of-a-bunch-of-old-lures-and-decoys-i-have-available-right-now/2398376380929966/"
+   ]
+  },
+  {
+   "query": "rightmfg.co.jp 運営会社(社名ページ未取得) note 社長",
+   "results": [
+    "https://rightmfg.co.jp/",
+    "https://rightmfg.co.jp/about/outline.html",
+    "https://rightmfg.co.jp/about/index.html",
+    "https://rightmfg.co.jp/news/2025/1216-629.html",
+    "https://eigyo-mfg.com/service/navi/company/o0zeJ1wK0tTH",
+    "https://www.jmoia.jp/aboutjmoia/m25.html",
+    "https://compalyze.co.jp/company/2011401006896",
+    "https://rightmfg.co.jp/news/",
+    "https://rightmfg.co.jp/terms.html"
+   ]
+  },
+  {
+   "query": "rightmfg.co.jp 運営会社(社名ページ未取得) X 投稿",
+   "results": [
+    "https://rightmfg.co.jp/",
+    "https://rightmfg.co.jp/about/outline.html",
+    "https://rightmfg.co.jp/about/index.html",
+    "https://rocketreach.co/zhu-raitozhi-zuo-suo-email-format_b6b02c82c8436f8c",
+    "https://rightmfg.co.jp/terms.html",
+    "https://rightmfg.co.jp/sitemap.html",
+    "https://www.jmoia.jp/aboutjmoia/m25.html",
+    "https://syukatsu-kaigi.jp/companies/73970/word_mouths?page=2",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000ObUrH"
+   ]
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部2頁・検索13回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部2頁・検索13回）",
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部2頁・検索13回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部2頁・検索13回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部2頁・検索13回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部2頁・検索13回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部2頁・検索13回）",
+  "株主構成": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部2頁・検索13回）",
+  "誰から": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部2頁・検索13回）",
+  "何をする": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部2頁・検索13回）",
+  "誰に": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部2頁・検索13回）",
+  "お金の形": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部2頁・検索13回）",
+  "いくら": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部2頁・検索13回）"
+ }
+}

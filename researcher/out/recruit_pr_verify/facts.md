@@ -1,4 +1,4 @@
-# 仮説の検証 — 中堅製造業向け採用広報：社数・採用難・採用費・採用広報の単価・継続・原価・買い方・前例（事実のみ・27品目）
+# 仮説の検証 — 中堅製造業向け採用広報：社数・採用難・採用費・採用広報の単価・継続・原価・買い方・前例（事実のみ・34品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -2783,3 +2783,518 @@
   - 「制作実績には、株式会社シグマの採用サイトなどがあります」（https://sevendex.com/post/31388/）
   - 「株式会社カケハシスカイの企業情報・採用サイトの制作実績」（https://sevendex.com/post/31388/）
   - 「株式会社ジオコードは、Webサイト制作に加えて、SEO、コンテンツマーケティング、広告運用、UI/UX改善などを提供している会社です」（https://sevendex.com/post/31388/）
+
+## 中国地方の商工会議所・経済団体の経営課題調査（人材確保と販路開拓の同じ設問）（Chugoku region chamber of commerce management issues survey labor shortage sales channel）
+- 文脈：①順位
+- 社数（規模別）：
+  - 「➢ 全企業数の約85％、生産、雇用、消費・投資、公租公課等、地域経済の担い手」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「◼ 小規模事業者は、全企業数の約85％、生産、雇用、消費・投資、公租公課等を担う、地域経済」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+- 採用にいくら払うか：
+  - 「◼ 経営支援は年間で約160万件」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「高は過去最高の5,811万円（創業時557万円）を達成」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「売上３,000万円向上」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+- 採用広報・採用サイトの単価：
+  - 「高は過去最高の5,811万円（創業時557万円）を達成」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「売上３,000万円向上」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+- 継続して払うか：
+  - 「事業の継続や発展には、生産性向上による付加価値の拡大が急務」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「個々の事業継続と成長が地域経済循環を支え、日本経済全体の成長に繋がる」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「◼ 小規模事業者が物価高など急激な環境変化を克服し、事業継続、自立的な経営を実現する鍵は、」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「その後も支援を継続、17年、持続化補助金でパンフ」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「た事業を安定して末永く、継続させていくことにある」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「事業継続５年以上の会員に表彰制度を設け、感謝状等」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「◼ これら課題を克服し、事業継続していくには、生産性向上や付加価値拡大に向け、事業者の」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「➢ 経営発達支援計画の対象事業の拡大と柔軟な運用、伴走型補助金総額と上限引上げ」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「➢ 事業継続力強化支援計画の策定や法定経営指導員に対するインセンティブの拡充」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+- どう買われるか：
+  - 「１．商工会議所の概要 1」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「◼ 商工会議所は、商工会議所法に基づく、地域の商工業者等を会員とする「地域総合経済団体」」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「◼ 1878（明治11）年、渋沢栄一が東京、大阪、神戸に商法会議所（後の商工会議所）設立」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「現在、515商工会議所（会員:126万者）、現場主義・双方向主義の下、地域経済の底上げを担う」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「③公共性－商工会議所法に基づき設立される民間団体、④国際性－各国に商工会議所が組織」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「商工会議所活動の３本柱 地域経済の好循環」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「商工会議所の経営指導員は、経営者に寄り添い伴走支援」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「５．商工会議所の経営支援の特長：個社支援」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「商店街活性化商工会議所は多様な主体と連携し」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「６．商工会議所の経営支援の特長：「点」「線」「面」の伴走支援 6」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「◼ 商工会議所法の目的は「商工業の総合的な改善発達」と「社会一般の福祉の増進」」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「商工会議所は、気軽に相談できる「かかりつけ医」、困った時の「駆け込み寺」、災害発生時」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「商工会議所の経営指導員等の他にはない支援の特徴（点と線と面の全てを支援）」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「専門家等の支援は、ビジネスベースの「点」での個社支援が主となるが、商工会議所の経営指導員等は、」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「７．商工会議所の経営支援の特長：内外ネットワークの活用 7」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+- 営業と採用のどちらに困っているか：
+  - 「３．小規模事業者の労働分配率と経営課題 3」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+- 前例の会社（製造業特化）：
+  - 「◼ 1878（明治11）年、渋沢栄一が東京、大阪、神戸に商法会議所（後の商工会議所）設立」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「③公共性－商工会議所法に基づき設立される民間団体、④国際性－各国に商工会議所が組織」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「◆事業者のビジネスステージに応じ、創業、事業承継、」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「➢ 販売や調達等の事業活動を立地地域に依存し、経営者や従業員の多くが居住者」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「対応すべき課題は多様化し、売上不振の企業割合は高い」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「小規模事業者は中小企業に比べて売上不振の割合が高い」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「規模や売上拡大を目指し、成長の梯子を上っていく」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「③公共性－商工会議所法に基づき設立される民間団体」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「※2005年時は、創業、事業承継、海外展開は未集計」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「創業、事業承継、DX、ビジネス変革、海外展開、」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「②創業、事業承継の推進」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「➢ 産官学金連携による創業塾やセミナー開催、」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「2021年創業の着物・呉服業」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「2011年設立の厨房排水の油阻集器に係る消耗品の卸」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+  - 「1982年創業の業務用パン製造・卸売業」（https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/001/005.pdf）
+- 採用難（公的統計）：記載なし（読んだ33頁・検索13回）
+- 作る側の原価：記載なし（読んだ33頁・検索13回）
+
+## 製造業に絞った規模別の経営上の問題点（中小企業景況調査）（SME business conditions survey manufacturing management problems by size Japan）
+- 文脈：①順位
+- 社数（規模別）：
+  - 「調査対象企業数 18,829社」（https://www.smrj.go.jp/research_case/survey/）
+  - 「有効回答企業数 17,902社」（https://www.smrj.go.jp/research_case/survey/）
+  - 「有効回答企業数 510社」（https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf）
+  - 「ら、小規模企業の企業数は約 84.5%と高くなっているが、常用雇用数や従業員数の割合は低くな」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「表 2 規模別企業数・常用雇用数・従業者数」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「（出所）中小企業庁再編加工「総務省・経済産業省 2021 年経済センサス―活動調査」より筆者」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「2025 年 9 月 30 日時点の活動状況としては、支援申し込み企業数 805」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「中小企業は企業数の約 99.7%、 従業員総数の約 7 割を占めており、多くの雇用を生み出し、労」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「・中小企業庁（2023）『総務省・経済産業省「令和 3 年経済センサス‐活動調査」再編加工』,」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「(２)対象企業数 150企業」（https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094）
+  - 「(３)回答企業数 150企業(回答率100％)」（https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094）
+  - 「５．対象地区別回答企業数内訳」（https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094）
+  - 「0 0.0% 企業数 構成比」（https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094）
+  - 「3 11.1% 企業数 構成比」（https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094）
+  - 「調査対象企業数18,829、有効回答企業数17,902、有効回答率95.1%」（https://dosai.jp/news/chusho-keikyo-chosa-185-2026/）
+- 採用難（公的統計）：
+  - 「2.業況が改善した産業で人手不足感が強まる」（https://www.smrj.go.jp/research_case/survey/）
+  - 「一方、「従業員過不足DI（前年同期比）」は、建設業で2.5ポイント減（▲3.6）、製造業で0.5ポイント減（▲5.2）と低下し、業況が改善した2産業で人手不足感が強まった」（https://www.smrj.go.jp/research_case/survey/）
+  - 「（出所）厚生労働省（2024）「令和 6 年度版労働経済の分析―人手不足への対応―」」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「図 7 の日本政策公庫の調査結果から、中小企業の人手不足への対応として、「従業員の多能工」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「図 7 人手不足への対応」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「省力化の成果として、省電力投資によって人手不足を乗り越えている中小製造業 4 社の事例」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「持したまま、残業時間を半分に削減することができ量的にも質的にも人手不足を緩和したり、8」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「中小企業景況調査2026｜7-9月期は5期ぶり上昇・人手不足が強まる - 道濟会計事務所」（https://dosai.jp/news/chusho-keikyo-chosa-185-2026/）
+  - 「中小企業景況調査2026｜7-9月期は5期ぶり上昇・人手不足が強まる」（https://dosai.jp/news/chusho-keikyo-chosa-185-2026/）
+  - 「ポイント資料は、前年同期比で見た従業員数過不足DIが建設業で2.5ポイント減（▲3.6）、製造業で0.5ポイント減（▲5.2）となり、業況が改善した２産業で人手不足感が強まったと分析しています」（https://dosai.jp/news/chusho-keikyo-chosa-185-2026/）
+  - 「2. 人手不足と人件費」（https://dosai.jp/news/chusho-keikyo-chosa-185-2026/）
+- 採用にいくら払うか：
+  - 「小売業では、従業員50人以下または資本金5千万円以下」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「サービス業では従業員100人以下または資本金5千万円以下」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「調査対象企業は原則一定期間（最低3年間程度）変更しない」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「(3)調査対象企業は,原則として一定期間（最低3年間）は変更しないこと」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「資本金5千万円以下または従業者50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「資本金5千万円以下または従業者100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「中小企業景況調査10年間の歩み（調査結果の検証と特徴把握）」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「中小企業景況調査は1980年（昭和55年）7-9月期に調査を開始しており、2005年（平成17年）4-6月期をもって、25周年（第100回）を迎えるにあたり、25年間にわたる調査データを、主要マクロ指標との比較、各調査項目間の関連性、地域別動向などの支援から分析し、本調査の特徴や位置づけ、今後期待される役割等について検討したものです」（https://www.smrj.go.jp/research_case/survey/）
+  - 「表 1 より例えば、製造業・建設業・運輸業では、 「資本金の額または出資の総額」が 3 億円以下」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「3.サービス業 5000 万円以下 100 人以下 5 人以下」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「4.小売業 5000 万円以下 50 人以下 5 人以下」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「代化が進んだことで、1960 年代の 10 年間で中小企業の賃金率は毎年 10％以上の上昇を続け、大」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「の差を比較すると、男性で大企業の場合約 26.9 万円、中企業の場合約 20.9 万円、小企業の場合」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「約 14.1 万円の月収の差がある」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「一方、 女性で大企業の場合約 7.5 万円、 中企業の場合約 7.1 万円、」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+- 採用広報・採用サイトの単価：
+  - 「小売業では、従業員50人以下または資本金5千万円以下」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「サービス業では従業員100人以下または資本金5千万円以下」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「資本金5千万円以下または従業者50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「資本金5千万円以下または従業者100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「3.サービス業 5000 万円以下 100 人以下 5 人以下」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「4.小売業 5000 万円以下 50 人以下 5 人以下」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「の差を比較すると、男性で大企業の場合約 26.9 万円、中企業の場合約 20.9 万円、小企業の場合」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「約 14.1 万円の月収の差がある」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「一方、 女性で大企業の場合約 7.5 万円、 中企業の場合約 7.1 万円、」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「小企業の場合約 5.3 万円の月収の差がある」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「に分類される従業員 10 人未満の事業所では約 382 万円 （男性約 476 万円、 女性約 272 万円） 、従」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「業員 10 から 29 人の事業所では約 420 万円（男性約 518 万円、女性約 290 万円）となっている」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「一方、従業員 5000 人以上の事業所においては約 520 万円（男性約 675 万円、女性約 316 万円）」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「140 万円の差があり、性別ごとにみると男性の場合は約 200 万円、女性の場合は約 44 万円の差」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「対象になるものの例としては、100 万円以上の機械及び装置、30 万円以上の器」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+- 継続して払うか：
+  - 「また、調査対象企業が倒産,又はその他の事情により調査の継続が不可能となった場合,できる限り同一企業規模の企業を補充するよう配慮しています」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「一方、 個人企業は法人企業と比べて 「現在の事業を継続するつもりはない」 と回」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「遇した場合において、事業資産の損害を最小限にとどめつつ、中核となる事業の継続や早期復旧」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「を可能とするための事業継続計画のことである44」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「継続することは困難であるため、 限られた資源や人材で対応しなければならない」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「BCP を作成する際に企業が検討すべき観点としては、1. 重要製品・サービスの供給継続・早期」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「帝国データバンク 「事業継続計画「（BCP）に対する企業の意識調査「（2024 年）」によると、BCP」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「2019 年 7 月 16 日から 2027 年 3 月 31 日までの間に事業継続力」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「強化計画または連携事業継続力強化計画の認定を受けた事業者が、認定を受けた日から 1 年を」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「事業継続計画（BCP）を策定または既存の BCP の改善を行う際に要する経費の一部を補助し、」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「外部人材の活用により、課題解決や事業を安定的に継続のた」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「中小企業が賃上げへの対応を継続して、雇用を守っていくために、政府の価格転嫁や生産性の」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「16.8%増加し、2016 年以降で最多件数を更新している80」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「で技術力や生産効率を向上させるためにも、 スタートアップ 企業の育成支援も継続的に行うこ」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「・香川県 （2025a） 「県内中小企業の皆さんの BCP「 （事業継続計画） 策定を応援します！ （香川県」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+- どう買われるか：
+  - 「調査対象には各商工会、商工会議所、中央会管内の企業の中から次の(1)～(2)の事項に留意しつつ、調査対象企業規模の範囲内で地域の実情に合わせて適宜選定しています」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「全国の商工会、商工会議所の経営指導員、及び中小企業団体中央会の調査員が調査対象企業を訪問面接し、調査票に基づき聴き取りによって調査を行っています」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「中小企業庁からの運営費交付金により独立行政法人 中小企業基盤整備機構から、「日本商工会議所」「全国商工会連合会」「全国中小企業団体中央会」へ依頼します」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「「日本商工会議所」からは「商工会議所」を通して、「全国商工会連合会」からは「都道府県商工会連合会」を経て「商工会」を通して、「全国中小企業団体中央会」を経て「都道府県中小企業団体中央会」を通して、「調査対象中小企業（約19000）」に対して調査を行っています」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「(2) 調査方法：原則として、全国の商工会､商工会議所の経営指導員及び中小企業団体中央会の情報連絡」（https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf）
+  - 「中小企業庁及び中小機構では、中小企業の景気動向を総合的に把握することを目的に、全国商工会連合会、日本商工会議所及び全国中小企業団体中央会の協力を得て、「中小企業景況調査」を実施しています」（https://www.smrj.go.jp/research_case/survey/）
+  - 「商工会議所、商工会、中小企業団体中央会により任意抽出した約19,000社の中小企業（金融機関を除く全業種）」（https://www.smrj.go.jp/research_case/survey/）
+  - 「図－８ 資金繰り（前年比） 図－ 10 金融機関からの借入残高（前年比）」（https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf）
+  - 「図－９ メイン金融機関の貸出態度（前年比） 図－ 11 借入金利（前年比）」（https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf）
+  - 「信用保険法」により、中小企業などが金融機関から事業資金を借りる際に、信用保証協会が公的」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「1992 年から 1994 年には政府系中小企業金融機関（日本政策金融公庫、商工組合中央金庫など）」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「による貸付限度枠の拡大、1998 年には金融機関の貸し渋り22を受けた中小企業に保証を認める制」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「庫や商工組合中央金庫 の政府系中小企業金融機関 とゼロゼロ融資と呼ばれた民間金融機関 によ」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「22 貸し渋りとは、金融機関が本来は融資をしても問題ないと考えられる企業に対しても融資控」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「や金融機関と連携して事業継承診断 などを用いた事業継承計画 の策定を行っている」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+- 営業と採用のどちらに困っているか：
+  - 「今期直面している経営上の問題点としては、 前回同様｢原材料価格の上昇｣が１位、「需要の停滞」」（https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf）
+  - 「1位 2位 3位 4位 5位」（https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf）
+  - 「2.業況が改善した産業で人手不足感が強まる」（https://www.smrj.go.jp/research_case/survey/）
+  - 「一方、「従業員過不足DI（前年同期比）」は、建設業で2.5ポイント減（▲3.6）、製造業で0.5ポイント減（▲5.2）と低下し、業況が改善した2産業で人手不足感が強まった」（https://www.smrj.go.jp/research_case/survey/）
+  - 「複数回答、上位 10 項目）」（https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf）
+  - 「○ 2025 年に期待する要素は、「円高による輸入製・商品等の価格の低下」の回答割合が 20.2 ％と最も高く、次いで「原油価格の下落による」（https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf）
+  - 「＜参考＞ 需要分野別にみた 2025 年に期待する要素（回答割合の上位 四つ、単位：％）」（https://www.jfc.go.jp/n/findings/pdf/c3_2412.pdf）
+  - 「第 2 節 中小企業の経営課題と政策的対応の方向性」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「2.1 人材課題（人材確保、事業継承、省力化・生産性向上）」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「帝国データバンクが行った日本の中小企業の経営課題と事業活動に関する調査（2024 年度）」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「図 1 最も重視する経営課題（企業規模別）」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「（出所）帝国データバンク「令和 6 年度中小企業の経営課題と事業活動に関する調査」p. 17 よ」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「DI（2025 年 4 月から 6 月期）は▲23.0 となっており、中小企業の人材不足は歯止めがかかって」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「（出所）厚生労働省（2024）「令和 6 年度版労働経済の分析―人手不足への対応―」」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「中小企業の2013年下期の経営上の課題 ～景況感は改善する一方、販売面や価格動向に不安を持つ企業が多数～」（https://www.jfc.go.jp/n/findings/tyuusyou_topics.html）
+- 前例の会社（製造業特化）：
+  - 「製造業、建設業では、従業員数300人以下または資本金3億円以下」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「卸売業では、従業員100人以下または資本金1億円以下」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「小売業では、従業員50人以下または資本金5千万円以下」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「サービス業では従業員100人以下または資本金5千万円以下」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「ただし、調査対象企業に占める小規模企業（製造業、建設業は従業員20人以下、卸売り業、小売業、サービス業は従業員5人以下」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「1-2.売上（加工）額」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「1-3.売上額」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「1-4.売上（収入）額」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「2-1.売上（加工）単価」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「2-2.売上単価」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「3-1.売上（加工）数量」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「11.従業員（含臨時・パート）」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「3.売上に対する製品在庫」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「7.従業員（含臨時・パート）」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+  - 「2-1.工場建物」（https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html）
+- 検索結果の抜粋：
+  - 「第185回 中小企業景況調査 報告書 — 第185回 中小企業景況調査 報告書 独立行政法人 中小企業基盤整備機構 PDF https://www.smrj.go.jp > survey > 185_42_seizogyo」（https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf）
+  - 「第184回 中小企業景況調査 — 第184回 中小企業景況調査 厚生労働省 PDF https://jsite.mhlw.go.jp > shiryou5-2-26101502」（https://jsite.mhlw.go.jp/nagasaki-roudoukyoku/content/contents/shiryou5-2-26101502.pdf）
+  - 「4 期連続して低下 ～第 184 回 中小企業景況調査 (2026 年 4 — 4 期連続して低下 ～第 184 回 中小企業景況調査 (2026 年 4 独立行政法人 中小企業基盤整備機構 PDF https://www.smrj.go.jp > press > 20260630_press01」（https://www.smrj.go.jp/press/2026/qsktgp0000000pvv-att/20260630_press01.pdf）
+  - 「中小企業景況調査2026 ｜7-9月期は5期ぶり上昇・人手不足が ... — 中小企業景況調査2026 ｜7-9月期は5期ぶり上昇・人手不足が ... 道濟会計事務所 https://dosai.jp > お知らせ」（https://dosai.jp/news/chusho-keikyo-chosa-185-2026/）
+- 作る側の原価：記載なし（読んだ33頁・検索13回）
+
+## 日銀短観 雇用人員判断DI 製造業 中小・中堅（値の時系列）（BOJ Tankan employment conditions DI manufacturing small medium enterprises time series）
+- 文脈：②採用難
+- 社数（規模別）：
+  - 「一方で中堅企業は+33から+36へ3ポイント上がり、中小企業は+18から+12へ6ポイント下がるという具合に、規模によって向きがそろっていない」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「短観の調査対象は資本金2千万円以上の民間企業（大企業＝資本金10億円以上、中堅企業＝1億円以上10億円未満、中小企業＝2千万円以上1億円未満）」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「2026年9月調査の回答期間は8月26日〜9月30日、全国企業の回答社数は9,104社（回答率99.4%）」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「読み方 — DIは社数構成比、宿泊と飲食の合算、母集団は資本金2千万円以上」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「日本銀行「短観（要旨）（2026年9月）」調査対象企業数・回答期間」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+- 採用難（公的統計）：
+  - 「宿泊業の人手不足感38.5%まで低下、生産性は全産業比79.6%」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「宿泊業の人手不足感38.5%まで低下、生産性は全産業比79.6% — 1人あたり客室数2.02室の47都道府県マップ」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「雇用人員判断DIが全産業で-38（前回調査-36）となり、企業の深刻な人手不足が継続」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「は▲49 と、さらに人手不足 感が強まる 見込みであ」（https://www.itochu-research.com/ja/uploads/em20241213_2024-061_J_TANKAN202412.pdf）
+  - 「【2026年最新】日銀短観 雇用人員判断DI推移グラフ（四半期・人手不足感）| 経済まるみえ」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「0が過剰・不足の境界線で、マイナスが大きいほど人手不足感が強いことを示します」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「2010年代後半から人手不足が深刻化し、コロナ禍で一時的に緩和したものの、その後再び不足感が強まる傾向が続いています」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「人手不足と業況の関係、変わったか？～2025年12月の日銀短観｜飯塚 信夫」（https://note.com/todobuono/n/nd388cfd3ff99）
+  - 「人手不足と業況の関係、変わったか？～2025年12月の日銀短観」（https://note.com/todobuono/n/nd388cfd3ff99）
+  - 「「雇用状況を示す指数は全規模全産業でマイナス38と34年ぶりの「人手不足超」の水準となった」とのこと」（https://note.com/todobuono/n/nd388cfd3ff99）
+  - 「確かに1984年３月調査以降の推移をグラフに描くと、全規模全産業の雇用人員判断DIはバブル期の1990年12月調査、1991年３月調査のマイナス46に近づいています（マイナスは人手不足超を表し、プラスは人手過剰を表します）」（https://note.com/todobuono/n/nd388cfd3ff99）
+  - 「人手不足34年ぶり水準 日銀短観 設備投資は上方修正 - 日本経済新聞」（https://note.com/todobuono/n/nd388cfd3ff99）
+  - 「日銀が15日公表した12月の全国企業短期経済観測調査（短観）では、企業の人手不足が一段と深刻になっていることが浮き彫りにな」（https://note.com/todobuono/n/nd388cfd3ff99）
+- 採用にいくら払うか：
+  - 「• ADR（平均客室単価）＝各施設がOTA上で公開する最安プラン水準（2名1室利用時・1室あたり料金・税込）に業態別の補正係数を適用して算出した推定成約単価（税抜相当）」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「短観の調査対象は資本金2千万円以上の民間企業（大企業＝資本金10億円以上、中堅企業＝1億円以上10億円未満、中小企業＝2千万円以上1億円未満）」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「：全規模の不足超幅は2023年12月の−75から縮んだが、非製造業平均より14ポイント深く、先行きは−61へ再び広がる見通し」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「：宿泊と飲食の合算、母集団は資本金2千万円以上」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「雇用人員判断DIは全規模−58 — 2023年12月の−75から縮んだが、非製造業平均より14ポイント深い」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「読み方 — DIは社数構成比、宿泊と飲食の合算、母集団は資本金2千万円以上」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「短観の調査対象は資本金2千万円以上の民間企業で、宿泊・飲食サービスの回答企業はチェーン運営会社や中堅以上の旅館・ホテル事業者が中心になる」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「短観の中小企業（資本金2千万円以上1億円未満）のDIが+12と最も低いのに対し、当社データで旅館の前年比が多くの地域でプラスなのは、矛盾というより母集団の違いの表れである」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「雇用人員判断DIは全規模−58で、2023年12月の−75から縮んだものの非製造業平均より14ポイント深い」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「A. 短観の調査対象は資本金2千万円以上の民間企業で、中小企業区分は資本金2千万円以上1億円未満です」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「宿泊業の人手不足感38.5%まで低下、生産性は全産業比79.6% — 1人あたり客室数2.02室の47都道府県マップ」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「推定稼働率はリードタイム45日から1日までの残室観測に基づく月平均で、2026年3月以降の収集のため前年比は示していない」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「短観の業種区分は宿泊業と飲食サービス業の合算で、母集団は資本金2千万円以上の企業である」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「SK産業（旧・味匠）が破産、負債総額３０億円超」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「【2026年10月最新】2026年7-9月期の訪日外国人旅行消費額は2兆2,076億円となり、13期連続で前年同期比でプラス成長（5年間推移データ）」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+- 採用広報・採用サイトの単価：
+  - 「• ADR（平均客室単価）＝各施設がOTA上で公開する最安プラン水準（2名1室利用時・1室あたり料金・税込）に業態別の補正係数を適用して算出した推定成約単価（税抜相当）」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「• 掲載価格に言及する箇所は、2名1室利用時の1室あたり料金（税込）です」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「短観の調査対象は資本金2千万円以上の民間企業（大企業＝資本金10億円以上、中堅企業＝1億円以上10億円未満、中小企業＝2千万円以上1億円未満）」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「：宿泊と飲食の合算、母集団は資本金2千万円以上」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「読み方 — DIは社数構成比、宿泊と飲食の合算、母集団は資本金2千万円以上」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「短観の調査対象は資本金2千万円以上の民間企業で、宿泊・飲食サービスの回答企業はチェーン運営会社や中堅以上の旅館・ホテル事業者が中心になる」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「短観の中小企業（資本金2千万円以上1億円未満）のDIが+12と最も低いのに対し、当社データで旅館の前年比が多くの地域でプラスなのは、矛盾というより母集団の違いの表れである」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「A. 短観の調査対象は資本金2千万円以上の民間企業で、中小企業区分は資本金2千万円以上1億円未満です」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「過去のホテル料金の検証手順｜東京ビジネスホテル2025年9月は前年比+9.4%、4つの公表値で突き合わせ」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「過去のホテル料金を調べる手順 — e-Statの引き方と月次ADRの読み方、金沢市24か月の実例」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「短観の業種区分は宿泊業と飲食サービス業の合算で、母集団は資本金2千万円以上の企業である」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「過去のホテル料金の調べ方｜47都道府県A...」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「東横インのチェックイン時間は15時・チェックアウトは10時｜早着・遅着の手順と延長料金【2026年11月確認】」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「伊東園ホテルズとは？1泊2食バイキングと飲み放題の温泉宿53施設、料金の目安【2026】」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「ホテル浦島は営業中、新しいのは日昇館｜4館の違いと料金（1室2名・税込）2026年11月」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+- 継続して払うか：
+  - 「• 出典：メトロエンジンリサーチ（国内約168,000施設のOTA公開価格を継続追跡、うち稼働確認済み約27,000施設）」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「販売価格の見通し：5年後＋5.2％とインフレマインドが継続する見通し」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「常に最新のデータを手元に：更新作業から解放」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「11期連続での＋10％ポイント超えとなり、底堅さが継続する」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「雇用人員判断DIが全産業で-38（前回調査-36）となり、企業の深刻な人手不足が継続」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「作成した分析表（Excelシート）は、更新ボタンひと押しで最新データに更新可能」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「コンプライアンス面でも安心なデータ運用をサポートします」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「＜2025/12/25 更新＞」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「一人当たり月額賃金・俸給（総額・ドイツ・四半期）」（https://keizai-marumie.com/tankan/employment_di/）
+- どう買われるか：
+  - 「日本銀行が12月に公表した「全国企業短期経済観測調査（日銀短観）」につき、データからわかる動向・特徴について紹介します」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「今回紹介したデータだけでなく、過去の調査結果も含め、日銀短観データのすべてを収録しております」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「本記事でご紹介した分析は、当社が提供する経済統計データベース『」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「以下では、Accelがもたらす主なメリットをご紹介します」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+- 営業と採用のどちらに困っているか：
+  - 「雇用人員判断DIは全規模−58 — 2023年12月の−75から縮んだが、非製造業平均より14ポイント深い」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「雇用人員判断DIは「過剰」から「不足」を引いた値で、全規模合計は2026年9月調査で−58（6月−57）、先行きは−61である」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「宿泊業の人手不足感38.5%まで低下、生産性は全産業比79.6%」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「雇用人員判断DIは全規模−58で、2023年12月の−75から縮んだものの非製造業平均より14ポイント深い」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「みっつめは、雇用人員判断DIの先行き−61が示す冬の採用環境で、人員計画を前提にした販売客室数の設定が単価戦略の前提になる」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「宿泊業の人手不足感38.5%まで低下、生産性は全産業比79.6% — 1人あたり客室数2.02室の47都道府県マップ」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「雇用人員判断DIが全産業で-38（前回調査-36）となり、企業の深刻な人手不足が継続」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「は▲49 と、さらに人手不足 感が強まる 見込みであ」（https://www.itochu-research.com/ja/uploads/em20241213_2024-061_J_TANKAN202412.pdf）
+  - 「【2026年最新】日銀短観 雇用人員判断DI推移グラフ（四半期・人手不足感）| 経済まるみえ」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「上位1%が保有する純資産の割合（米国・四半期）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「上位0.1%が保有する純資産の割合（米国・四半期）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「中間層（資産上位10〜50%）が保有する純資産の割合（米国・四半期）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「上位1%が保有する株式・投資信託の割合（米国・四半期）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「資産上位1〜10%が保有する純資産の割合（米国・四半期）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「上位1%が保有する不動産の割合（米国・四半期）」（https://keizai-marumie.com/tankan/employment_di/）
+- 前例の会社（製造業特化）：
+  - 「DIは「良い」と答えた社数の割合から「悪い」の割合を引いた構成比であり、売上や単価の水準ではない」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「業況判断DIが+46から+38へ下がるとは、「良い」と答えた企業の割合から「悪い」の割合を引いた値が8ポイント縮んだことを意味し、売上や単価が8%下がったことを意味しない」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「Q. 短観の業況判断DIが下がると、ホテルの売上も下がっているのですか」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「DIは「良い」と答えた企業の割合から「悪い」の割合を引いた社数構成比で、売上や単価の水準・変化率ではありません」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「DIは「良い」−「悪い」などの社数構成比で、売上や単価の水準ではない」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「メトロエンジン株式会社が保有するホテル、旅館、」（https://hotelbank.jp/trends/boj-tankan-sep-2026-accommodation-food-service-di-by-firm-size/）
+  - 「全国約1万社の企業を対象に、年4回（3月、6月、9月、12月）四半期ごとに実施され、企業の業況や経済環境の現状・先行き（今後3か月）についての判断、売上高、収益、設備投資額などの事業計画の実績と予測値を調査します」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「©️2025 株式会社アイ・エヌ情報センター」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「作成時点で、株式会社伊」（https://www.itochu-research.com/ja/uploads/em20241213_2024-061_J_TANKAN202412.pdf）
+  - 「小売売上高（自動車・部品を除く・米国・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「小売売上高（自動車・部品販売店・米国・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「小売売上高（ガソリンスタンド・米国・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「小売売上高（建材・園芸用品店・米国・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「企業売上高（製造・卸売・小売の合計・米国・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「食品小売の売上高指数（実質・ドイツ・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+- 作る側の原価：記載なし（読んだ26頁・検索13回）
+
+## 広島・岡山労働局 職業別有効求人倍率（生産工程・技術者）（Hiroshima Okayama labor bureau job openings ratio by occupation production）
+- 文脈：②採用難
+- 採用難（公的統計）：
+  - 「〇 有効求人倍率（季節調整値） 1.36 倍 （全国10位／中国地方２位）」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002715278.pdf）
+  - 「・就業地別有効求人倍率（同） 1.30 倍 前月より0.01ポイント低下」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002715278.pdf）
+  - 「・正社員有効求人倍率（原数値） 1.13 倍 前年同月より0.05ポイント低下」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002715278.pdf）
+  - 「〇 新規求人倍率（同） 2.43 倍 （」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002715278.pdf）
+  - 「５ 公共職業安定所別有効求人倍率（受理地別・原数値）」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002715278.pdf）
+- 採用にいくら払うか：
+  - 「（注）１ 数値目標は令和８年度における年間目標値で、実績は当月までの累計である」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002715278.pdf）
+  - 「（注）１ 数値目標は令和７年度における年間目標値で、実績は２か月後の集計となるため、前月又は前々月までの累計の割合となる」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002715278.pdf）
+- 社数（規模別）：記載なし（読んだ24頁・検索13回）
+- 採用広報・採用サイトの単価：記載なし（読んだ24頁・検索13回）
+- 継続して払うか：記載なし（読んだ24頁・検索13回）
+- 作る側の原価：記載なし（読んだ24頁・検索13回）
+- どう買われるか：記載なし（読んだ24頁・検索13回）
+- 営業と採用のどちらに困っているか：記載なし（読んだ24頁・検索13回）
+- 前例の会社（製造業特化）：記載なし（読んだ24頁・検索13回）
+
+## 就職みらい研究所 就職白書 採用単価（原典）
+- 文脈：
+- エラー：ValueError: netloc '関連記事：採用ピッチ資料とは？25社の成功事例と効果・メリットを徹底解説｜応募者の共感を生む採用戦略の新定番' contains invalid characters under NFKC normalization
+
+## 経営上の問題点 製造業「求人難・人手不足」を挙げた割合（中小企業景況調査・年ごと）（share of SME manufacturers citing labor shortage as top issue Japan survey yearly）
+- 文脈：①営業と採用・一次（人材確保の側）
+- 社数（規模別）：
+  - 「従業者規模別の企業の雇用者数の推移について、直近の20年間で従業者規模が1～29人の企業と500人以上の規模の企業について着目して見ると、当初は両者の雇用者数は共に横ばいで推移していたが、2000年代に入るにつれて従業者規模が1～29人の企業の雇用者数は減少傾向に、500人以上の企業は増加傾向に転じ、2014年以降は雇用者数が逆転している（」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「2．この場合の未充足率は、各事業所の未充足率を求めた上で、それらを合計した後、事業所数で除することで算出している」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「第 2-1-8 図 従業者規模別非農林雇用者数の推移」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「また、外国人労働者を雇用する事業所数は約 19 万」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「コラム 2-1-1 ①図 外国人労働者数及び外国人雇用事業所数の推移」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「2‌n は回答のあった企業数（図－5も同じ）」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+- 採用難（公的統計）：
+  - 「第1章 深刻化する人手不足の現状」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「第2部 深刻化する人手不足と中小企業の生産性革命」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「第1章では、昨今強まっている人手不足の実態について現状を把握する」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「第1節 中小企業において深刻化する人手不足」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「〔1〕中小企業における人手不足感」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「〔3〕人材の未充足率」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「第 1節 中小企業において深刻化する人手不足」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「第 1 章では、昨今強まっている人手不足の実態について現状を把握する」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「第 2-1-3 図 従業員規模別に見た、人材の未充足率」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「（注）1．未充足率＝ （未充足者数／常用労働者数）×100」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「2．この場合の未充足率は、各事業所の未充足率を求めた上で、それらを合計した後、事業所数で除することで算出している」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「第 2-1-4 図 従業員規模別高校卒業者の充足率の推移」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「2．充足率＝ （就職者数/求人数）×100」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「深刻化する人手不足の現状第1章」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「第 3節 人手不足の下での中小企業の対応」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+- 採用にいくら払うか：
+  - 「5年間でいずれの規模の企業においても高校卒業者の充足率は減少傾向にあり、特に従業員が29人以下の企業については充足率の減少が著しく、足下では求人数の5分の1程度しか確保できていないことが分かる」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「従業者規模別の企業の雇用者数の推移について、直近の20年間で従業者規模が1～29人の企業と500人以上の規模の企業について着目して見ると、当初は両者の雇用者数は共に横ばいで推移していたが、2000年代に入るにつれて従業者規模が1～29人の企業の雇用者数は減少傾向に、500人以上の企業は増加傾向に転じ、2014年以降は雇用者数が逆転している（」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「3．1 年間における回答を平均して算出している」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「2．1 年間における回答を平均して集計している」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「2．1 年間における回答を平均して算出している」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「第 2-1-25 図 賃上げ（一人当たり平均賃金の改定率）の推移」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「4．一人平均賃金の改定率は、常用労働者数による加重平均による」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「2．ここでいう大企業とは資本金 10 億円以上の企業、中小企業とは資本金 1 千万円以上 1 億円未満の企業とする」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「本金 300 万円）は、作業療法士の資格を持つ雅樂川陽子」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「資本金 2,000 万円）は、1888 年に鍛冶屋と して創業し、」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「岐阜県中津川市の株式会社加藤製作所 従業員  名、資本金  万円 は、 年に鍛冶屋として創業し、5」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「本金1,000万円）は、一時保育や小規模認可保育園を手」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「本金2,000万円）は、金属パイプ成形加工によ り 、業務」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「本金 1,000 万円）は、特殊金属のリサイ クルと金属系産業」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「有限会社有吉農園（従業員15名、資本金300万円）」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+- 採用広報・採用サイトの単価：
+  - 「2．ここでいう大企業とは資本金 10 億円以上の企業、中小企業とは資本金 1 千万円以上 1 億円未満の企業とする」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「本金 300 万円）は、作業療法士の資格を持つ雅樂川陽子」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「資本金 2,000 万円）は、1888 年に鍛冶屋と して創業し、」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「岐阜県中津川市の株式会社加藤製作所 従業員  名、資本金  万円 は、 年に鍛冶屋として創業し、5」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「本金1,000万円）は、一時保育や小規模認可保育園を手」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「本金2,000万円）は、金属パイプ成形加工によ り 、業務」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「本金 1,000 万円）は、特殊金属のリサイ クルと金属系産業」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「有限会社有吉農園（従業員15名、資本金300万円）」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「資本金 1,000万円」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+  - 「費が保険料込みで約12万円以上、」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+  - 「防疫検査の代行費用が約2万円、さ」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+- 継続して払うか：
+  - 「その後もシニア人材を継続的に採用し、今では従業員」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「その後もシニア人材を継続的に採用し、今では従業員  名のうち、短時間勤務のシニア人材が  名と約半数」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「り 、平成 19 年に届出が義務化されて以来の過去最高値を更新 した」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「か所とな り 、外国人労働者数同様、過去最高値を更新 した（コ ラム2-1-1 ①図）」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「き手の立場に立 った）職場環境改善」等、総合的な取組を多面的・継続的に行 っている こ とが多い」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「れるが、その確立には、地域金融機関や大学、NPO 法人等地域に根ざ した機関等の担い手によ る継続的な運営が必要」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「（木造建築工事業）など、人手不足が事業の継続に与え」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+  - 「景気の変動にかかわらず、事業を継続するうえで避けて」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+  - 「継や事業の継続に支障が出かねない状況も広がってきて」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+  - 「響を受け、2020年に業況判断DIは過去最低を更新する」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+  - 「度でブログを更新し、写真や用語解説を交えて記事を掲」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+  - 「の開設や運用を支援したりと、支援」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+  - 「ルの違いは、操作中にも思考を継続したい状況で問題と」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+  - 「が多いなら、紙の継続的利用を検討する価値があるかも」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+  - 「手書きには、 入力中にも思考を継続できる利点がある」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+- どう買われるか：
+  - 「資料：厚生労働省「新規学卒者の職業紹介状況」」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「社長が、祖母の介護を機に、数名の従業員と共に2005」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「知度が高ま り 、常に雇用についての問い合わせが来るよ」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「多数いるこ とを知り 、同社の加藤景司社長（当時専務）」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「」と、加藤社長は語る」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「その時、 働く意欲はあるが働く場のないシニア人材が多数いることを知り、 同社の加藤景司社長 当時専務 は、10」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「」 と、 加藤社長は語る」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「加藤景司社長 同社で働くシニア人材の姿 同社がシニア人材向けに出した広告」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「公嗣社長が、シ ョ ッピングモールでおむつの販売イベン ト」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「そこ で、有吉富雄社長が年間の業務を振り返ったと こ」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「現状では、経営支援（経営支援機関等）と求人採用支援（人材紹介会社等）は、異なる機関が担当する こ とが多い」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「れるが、その確立には、地域金融機関や大学、NPO 法人等地域に根ざ した機関等の担い手によ る継続的な運営が必要」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「28 戦国マネジメ ン ト ―社長とし ての戦国大名―」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+  - 「菓子屋を開くことで、地元の役に立」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+  - 「使う材料は、できる限り地元業者か」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+- 営業と採用のどちらに困っているか：
+  - 「第1章 深刻化する人手不足の現状」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「第2部 深刻化する人手不足と中小企業の生産性革命」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「第1章では、昨今強まっている人手不足の実態について現状を把握する」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「第1節 中小企業において深刻化する人手不足」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「〔1〕中小企業における人手不足感」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「〔2〕中小企業の抱える経営課題」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「第 1節 中小企業において深刻化する人手不足」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「第 1 章では、昨今強まっている人手不足の実態について現状を把握する」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「深刻化する人手不足の現状第1章」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「4．「適当な仕事がありそうにない」の内訳である上記の選択肢のみで回答割合が合計 100％となるように再集計している」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「3．「適当な仕事がありそうにない」の内訳である上記の選択肢のみで回答割合が合計 100％となるように再集計している」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「第 3節 人手不足の下での中小企業の対応」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「資料：三菱 UFJ リサーチ＆コンサルティング（株） 「人手不足対応に向けた生産性向上の取組に関する調査」 （2017年 12 月）」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「2 労働人材不足への対応」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「第 2-1-23 図 中小企業における労働人材不足への対応方法」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+- 前例の会社（製造業特化）：
+  - 「本調査の対象は、常時雇用する従業員数が21名以上の中小企業であることに留意が必要である」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「まずは、中小企業における業種別の人手不足感を見るため、中小企業庁・（独）中小企業基盤整備機構「中小企業景況調査」を用いて従業員数過不足DIの推移を確認する（」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「これを見ると、全ての業種において、2009年をピークに総じてマイナス方向に転じ、2013年第4四半期以降、全ての業種において従業員が「過剰」と答えた企業の割合を従業員が「不足」と答えた企業の割合が上回っていることが分かる」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「（株）日本政策金融公庫「全国中小企業動向調査」は、小企業編（原則従業員20人未満）と中小企業編（原則従業員20人以上）に分けて調査されている」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「は、企業の従業員規模別に、人材の未充足率を表したものである」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「続いて、従業員規模別に見た、高校卒業者の充足率の推移を確認する（」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「5年間でいずれの規模の企業においても高校卒業者の充足率は減少傾向にあり、特に従業員が29人以下の企業については充足率の減少が著しく、足下では求人数の5分の1程度しか確保できていないことが分かる」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「次に、従業員規模別に企業の大卒予定者求人数及び就職希望者数の推移について確認する」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「従業員299人以下の企業において、求人倍率は約3～4倍で推移してきたが、足下では上昇傾向にあり、2017年度は6.4倍と大きく跳ね上がっていることが分かる（」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「では、事業所の従業員規模別に求人数の推移を確認する」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「これを見ると、2009年に全ての従業員規模の企業で求人数が落ち込んだ後、規模が小さいほど求人を増加させていることが分かる」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html）
+  - 「第 2-1-1 図 業種別従業員数過不足 DI の推移」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「（注）従業員数過不足数 DI とは、従業員の今期の状況について、 「過剰」と答えた企業の割合（％）から、 「不足」と答えた企業の割合（％）」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「する従業員数が 21 名以上の中小企業であることに留意が必要である」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「求人難 売上・受注の停滞、減少 人件費、支払利息等経費の増加」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+- 作る側の原価：記載なし（読んだ30頁・検索13回）
+
+## 経営上の問題点 製造業「需要の停滞・受注不足・販路開拓」を挙げた割合（同じ調査・年ごと）（share of SME manufacturers citing weak demand as top issue Japan survey yearly）
+- 文脈：①営業と採用・一次（販路の側）
+- 社数（規模別）：
+  - 「総務省・経済産業省「令和3年経済センサス−活動調査」」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「半年かけて100人以上の人に会っ」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+- 採用難（公的統計）：
+  - 「小企業の人手不足、 賃金 ・ 最低賃金に関する調査」 （2024年2月14日）」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+- 採用にいくら払うか：
+  - 「は全国加重平均で961円であったが、 2023年10月に43円」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「に関する小委員会（第2回） 」によると、全国加重平均の」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「2019年から2023年までの5年間において、DX の取り」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「図－10 直近3年間程度における、金融機関による経営支援」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「、調査時点（2023年）から直近3年間程」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「図－12 2 023年の年間売上高見通し（顧客ターゲットの明」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「19年時点と比較した、 2023年の年間売上高の見通しを確認した」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「年間売上高は、1月から12月にかけての売上高の合計」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「2019年と比較した1カ月の平均的な相」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「を務めたのは最初の1年間だけで」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「当初の2年間は一人で経営していま」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+- 採用広報・採用サイトの単価：
+  - 「装置を購入したいが、1台3,000万円前後という価格が」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「資本金 2,000万円」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「資本金 300万円」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「資本金は1億1,125万円と、中小企業が多くを占めた」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「資本金 2,400万円」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+- 継続して払うか：
+  - 「発展させるために必要となる取り組み、事業の継続に欠かせない資金と人手を確保する取り組み、」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「に対しては、事業の継続や雇用の維持に向けた緊急的な」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「れたものの、 経済の状況は改善基調が継続している （図−2」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「ータの制約上、2000年については、2001年1月更新時点のデータ」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「を、 ほかの系列については毎年12月更新時点のデータを使用している」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「が平時に戻ったのもあるが、継続的」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「を使用して、SNS アカウントの運用」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「業継続マネジメントをはじめリスクマネジメントが幅広」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「事業継続計画の策定や、 新規事業ま」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「同族経営であると、家業の継続を重視するだろう」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「第4に、 事業継続計画などのリスク管理体制」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「などを統合、再編、更新、再創造しつつ、自らの中核的な」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「組織能力の更新、再創造も志向する危機への対応できる」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「事業継続計画の策定と、」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「ナンス面では、事業継続に強くコミットする経営者達が」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+- どう買われるか：
+  - 「本リポートでは、白書の概要について紹介して」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「関による実質無利子・無担保融資」 「民間金融機関による」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「資料：日本商工会議所「商工会議所早期景気観測調査（LOBO調査） 」」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「資料： 日 本商工会議所・東京商工会議所「最低賃金引上げの影響および」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「次に、 M&Aの満足度について紹介する」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「また、金融機関は、資金の出し手だけではなく、経営支」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「はいえないものの、数年間で金融機関が経営支援に注力」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「図－9 中小企業における金融機関からの経営支援サービス」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「図－10 直近3年間程度における、金融機関による経営支援」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「度で金融機関から受けた経営支援の効果について、 「効果があった」」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「金を確保できる」 「金融機関からの評価が上がる」 「出資者」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「以上、2024年版白書を紹介してきた」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「こでの 「支援機関」 とは、 商工会・商工会議所、 よろず支援拠点、」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「金融機関、税・法務関係士業・中小企業診断士・コンサルタント」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「だ、地元の神戸市で働いている方ば」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+- 営業と採用のどちらに困っているか：
+  - 「小企業の人手不足、 賃金 ・ 最低賃金に関する調査」 （2024年2月14日）」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「2位を四捨五入して表示しているため、合計は」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+- 前例の会社（製造業特化）：
+  - 「大学在学中に、キャ ンパス内に畑を耕すサーク ルを設立し、キャ ンパス内外で野菜を栽培する」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「程修了後、シンクタンク 、青果流通企業を経て㈱グッ ドテーブルズを設立」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「況調査」 で中小企業の従業員数過不足 DIの推移を確認し」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「図－2 中小企業の売上DIの推移（前年同期比）」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「「中小企業景況調査」 で、 中小企業・小規模事業者の売上」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「の推移を確認したところ、 2021年以降、 売上単価が上昇」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「む中小企業が増加しており、これらの投資行動が売上高」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「また、 投資意欲と業績動向の関係について、 売上高、 経」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「売上高は「付加価値を高めるための行動をするべき」 と回」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「消極的な企業の売上高および労働生産性の変化率は負の」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「、売上高の変化率0.4％、経常利益の変」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「組んだ企業や、 M&A 成立後に 「相手先従業員とのコミュ」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「は、 中小企業と比べて売上不振の割合が高く、 厳しい経営」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「企業規模別の経営上の問題点をみると、 従業員20人未満」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+  - 「の規模の小さい事業者は、 中小企業と比べ 「売上不振」 の」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
+- 作る側の原価：記載なし（読んだ31頁・検索13回）

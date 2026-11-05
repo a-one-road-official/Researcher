@@ -1,0 +1,313 @@
+{
+ "name": "03-5693-2775",
+ "aliases": [],
+ "context": "香川県高松市／出典:タウンページ／求人媒体:見当たらず／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T04:40:00.234260+00:00",
+ "official_url": "https://www.kyousin-seikou.com/",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "有友 博子",
+    "url": "https://www.kyousin-seikou.com/res/",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役",
+    "value": "有友　博子",
+    "url": "https://www.kyousin-seikou.com/res/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒769-2302 香川県さぬき市長尾西１２０６－２",
+    "url": "https://www.kyousin-seikou.com/res/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒125-0053 東京都葛飾区鎌倉4-16-1",
+    "url": "https://www.kyousin-seikou.com/res/",
+    "pass": 1
+   },
+   {
+    "label": "所在地・連絡先",
+    "value": "本　　　社 〒769-2302 香川県さぬき市長尾西1206-2 Tel：0879-53-2233 Fax：0879-53-2234 東京営業所 〒125-0053 東京都葛飾区鎌倉4-16-1 Tel ：03-3671-3413 Fax：03-5693-2775",
+    "url": "https://www.kyousin-seikou.com/res/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "精密プレス金型の設計、製作 精密プレス加工",
+    "url": "https://www.kyousin-seikou.com/res/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "精密プレス金型の設計、製作 精密プレス加工",
+    "url": "https://www.kyousin-seikou.com/res/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "精密プレス金型の設計製作及びプレス加工",
+    "url": "https://www.kyousin-seikou.com/res/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1,000万円",
+    "url": "https://www.kyousin-seikou.com/res/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：昭和42年4月",
+    "url": "https://www.kyousin-seikou.com/res/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 1
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主たる取引先",
+    "value": "四変テック（株） 三菱電機（株） 受配電システム製作所（丸亀） （株）東芝　浜川崎工場 シミズ精工（株） 丸亀菱電テクニカ（株） （株）サンコー 菱電商事（株） 日本電産コパル（株） 四方工業（株） 大阪フォーミング（株）",
+    "url": "https://www.kyousin-seikou.com/res/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "香川本社14名、東京営業所2名（2023年1月現在）",
+    "url": "https://www.kyousin-seikou.com/res/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "1,000万円",
+    "url": "https://www.kyousin-seikou.com/res/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kyousin-seikou.com/res/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyousin-seikou.com/res/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyousin-seikou.com/res/%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyousin-seikou.com/res/%E8%A8%AD%E5%82%99%E7%B4%B9%E4%BB%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyousin-seikou.com/res/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyousin-seikou.com/res/tap1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyousin-seikou.com/items01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyousin-seikou.com/res/wp-content/uploads/2018/09/company_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kyousin-seikou.com/res/wp-content/uploads/2018/09/company_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kyousin-seikou.com/profile.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kyousin-seikou.com/items01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyousin-seikou.com/items02.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/q-%E6%89%8B%E5%8F%96%E3%82%8A30%E4%B8%87%E4%BB%A5%E4%B8%8A-l-%E6%9D%B1%E4%BA%AC%E9%83%BD-%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA-%E5%B0%8F%E5%B2%A9%E9%A7%85-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://and-pro.jp/job-info-422993/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jobmore.co.jp/job-detail/?jid=9a24d13f-c547-4ae7-b463-b422f75317a4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.hrpro.co.jp/bc.php?id=33129",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/common/displayRelayScreen/displayForLogin?__u=L3VzZXIvcmVnaXN0RW50cnkvaW5kZXg_Y29ycElkPTgwNDkmb3B0Tm89bFp2MHlB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job-draft.com/jobs/8741/recruitments",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "03-5693-2775 求人 年収",
+   "results": [
+    "https://jp.indeed.com/q-%E6%89%8B%E5%8F%96%E3%82%8A30%E4%B8%87%E4%BB%A5%E4%B8%8A-l-%E6%9D%B1%E4%BA%AC%E9%83%BD-%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA-%E5%B0%8F%E5%B2%A9%E9%A7%85-%E6%B1%82%E4%BA%BA.html",
+    "https://and-pro.jp/job-info-422993/",
+    "https://jobmore.co.jp/job-detail/?jid=9a24d13f-c547-4ae7-b463-b422f75317a4",
+    "https://public-connect.jp/employer/job/12730",
+    "https://www.fukushijinzai.metro.tokyo.lg.jp/info/kyujin/message/1300-2610-00205",
+    "https://www.hayatemaru.com/pdf/kyujin1811.pdf",
+    "https://kaigoplus.com/job/547",
+    "https://job.mynavi.jp/27/pc/optuW7yaA/info.html?corpId=249813",
+    "https://m.recruit.co.jp/5a171fbd0441",
+    "https://jp.indeed.com/q-%E6%AD%A3%E7%A4%BE%E5%93%A1-%E5%B0%8F%E5%B2%A9%E9%A7%85-l-%E6%9D%B1%E4%BA%AC%E9%83%BD-%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA-%E6%B1%82%E4%BA%BA.html"
+   ]
+  },
+  {
+   "query": "03-5693-2775 採用 新卒 高卒",
+   "results": [
+    "https://www.hrpro.co.jp/bc.php?id=33129",
+    "https://job.mynavi.jp/28/pc/corp8049/list.html",
+    "https://job-draft.com/jobs/8741/recruitments",
+    "https://www.recruit.co.jp/wp-*.php",
+    "https://www.fukushijinzai.metro.tokyo.lg.jp/info/kyujin/message/1300-2610-00205",
+    "https://contact01.shi.co.jp/m?f=2274",
+    "https://dei-go.com/jobs/company-7tmmikbgk2ya/detail-6a92dvwnhooa",
+    "https://pm-career.jp/jobs/sms003",
+    "https://www.ishi-career.jp/accounts/registration?offer_code=ms123213-27",
+    "https://www.ws-chikusei.jp/work_news.php?mode=job_info&mode2=detail&code=22"
+   ]
+  },
+  {
+   "query": "site:note.com 03-5693-2775",
+   "results": [
+    "https://note.com/tomylee/n/n917dcba6afad",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/pei_umapro",
+    "https://note.com/uenohiromi03/n/nb67c5f5693fa",
+    "https://note.com/kirik/n/n8d03dc1ce205",
+    "https://note.com/kind_marten160/n/n8cf03c5693ff",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ]
+  },
+  {
+   "query": "site:x.com 03-5693-2775",
+   "results": [
+    "https://about.x.com/en",
+    "https://blog.x.com/en/product/introducing-a-new-twitter-dot-com",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/chillestwoman/status/2116669325868400644",
+    "https://x.com/gustavoinsol/status/2115330668368400586",
+    "https://help.x.com/en",
+    "https://business.x.com/en/advertising"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 03-5693-2775",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com 03-5693-2775",
+   "results": [
+    "https://www.facebook.com/HarrisCountyTACOffice/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/helloroofing/",
+    "https://www.facebook.com/p/ASEAN-Engineering-Registry-100063487103719/",
+    "https://business.facebook.com/groups/674647975942387/",
+    "https://www.facebook.com/thevoiceofrock/",
+    "https://business.facebook.com/latest/home/"
+   ]
+  },
+  {
+   "query": "03-5693-2775 note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://note.jp/n/ncdf97fd53291",
+    "https://x.com/sadaaki",
+    "https://note.com/sadaaki",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://www.smrj.go.jp/supporter/fund_investment/funding/case/aihbak0000001wv3.html",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://talesandco.com/n/n8734d4a56ba8",
+    "https://note.com/lottnest_pr"
+   ]
+  },
+  {
+   "query": "03-5693-2775 X 投稿",
+   "results": [
+    "https://x.com/edogawa_city",
+    "https://www.swave.co.jp/about.html",
+    "https://www.city.abiko.chiba.jp/shisei/kouhou/houdouteikyou/h31houdou04-09.files/0614fmedogawa.pdf",
+    "https://www.telnavi.jp/landline/03/5693/number_6.html",
+    "https://www.jpnumber.com/numberlist_03_5693_6.html",
+    "https://www.faq.mizuhobank.co.jp/faq/show/5012",
+    "https://www.city.edogawa.tokyo.jp/documents/2741/170120.pdf",
+    "https://www.chokai.info/minamishinozaki/49014a297246bbdb57f9a66b18dce66d7409ea3d.pdf",
+    "https://alarmbox.jp/companyinfo/entities/9011701025714",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/syukuirai-202605-pdf"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用ページ": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）",
+  "取引先・規模": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）"
+ }
+}
