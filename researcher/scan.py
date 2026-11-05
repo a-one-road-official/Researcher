@@ -61,8 +61,9 @@ def join_okuman(q):
 # 2026-11-05：「4〜9人」「30人以上」「100人未満」は規模の区分の境目で、人数の事実ではない（mfg_capacity で社員数4〜615人の幅になった失敗から）
 def is_size_band(q, m):
     if m.group(2) not in ("人", "名", "万人", "千人"): return False
-    after, before = q[m.end():m.end() + 3], q[max(0, m.start() - 2):m.start()]
-    return bool(re.match(r"\s*(以上|未満|以下|超|〜|～|-|−|―|規模|の事業所|の企業)", after) or re.search(r"[〜～\-−―]\s*$", before))
+    # 2026-11-05：NFKC で「～」が半角の「~」になり「4人~29人」の4が残った失敗と、PDFの「4人 以 上」の字間の空白から、半角~と空白入りも境目にする
+    after, before = q[m.end():m.end() + 6], q[max(0, m.start() - 3):m.start()]
+    return bool(re.match(r"\s*(以\s*上|未\s*満|以\s*下|超|〜|～|~|-|−|―|から\s*\d|規模|の事業所|の企業)", after) or re.search(r"[〜～~\-−―]\s*$|から\s*$", before))
 
 # 2026-11-05 4-20：同じ統計・同じ論文でも版で数字が違う（速報→確報→改定）。版を値に残し、確報・改定があれば速報を年の中央値から外す（Deskrex の版の照合）
 VERSION = [("改定", re.compile(r"(改定値|改訂値|遡及改定|訂正)")), ("確報", re.compile(r"(確報|確定値|確定)")), ("速報", re.compile(r"(速報|概数|暫定|preliminary|advance estimate)", re.I))]
@@ -148,6 +149,26 @@ def grade(g):
     if any(r["一次"] == "一次" for r in g): return "【一次で確認】"
     return "【未確認】"
 
+# 2026-11-05 4-21：代表値を採る規則（survivorship）を明示する（Data Ladder の entity resolution：元の記録は残し、代表値の選び方は別の段で規則にする）。
+# 順：予測・見通しを外す → 一次があれば一次だけ → 確報・改定があれば速報を外す → いちばん新しい年 → その年の中央値。
+# 食い違い・低確度のときは保守側（低い側＝第1四分位、4件未満は最小）も並べる（CUFinder：信号が合わなければ低い側に寄せ、低確度と印す）。
+def pick(g):
+    c = [r for r in g if not r.get("予測")] or []
+    if not c: return None
+    c = [r for r in c if r["一次"] == "一次"] or c
+    fin = [r for r in c if r.get("版") in ("確報", "改定")]
+    if fin: c = [r for r in c if r.get("版") != "速報"]
+    yrs = [int(r["年"]) for r in c if r["年"]]
+    if yrs:
+        y = max(yrs); c = [r for r in c if r["年"] and int(r["年"]) == y]
+    else: y = None
+    vals = sorted(r["値"] for r in c)
+    return y, statistics.median(vals), len(c), {r["出典"] for r in c}
+
+def conservative(vals):
+    vals = sorted(vals)
+    return statistics.quantiles(vals, n=4)[0] if len(vals) >= 4 else vals[0]
+
 def scan(topic):
     rows = drop_boilerplate(dedupe(list(rows_for(topic))))
     if not rows: return 0
@@ -156,7 +177,10 @@ def scan(topic):
     md = [f"# 走査（自動）— {topic}", "", "機械で出した突き合わせと【推定】。式と出典件数つき。最終の結論は scan.md。", ""]
     # 2026-11-05 4-19：出どころの記録（URL・取得日）が欠けた数字を数える。0件でなければ HEALTH と同じく直す対象
     nprov = sum(1 for r in rows if not r["URL"] or not r["取得日"])
-    md += [f"- 出どころの記録が欠けた数字：{nprov}件／{len(rows)}件（URLか取得日が無い）", ""]
+    md += [f"- 出どころの記録が欠けた数字：{nprov}件／{len(rows)}件（URLか取得日が無い）"]
+    # 2026-11-05 4-21：機械で決めきれず人（Claude の走査）の確認が要る件数（Data Ladder：保留の件数を品質の指標にする）。文脈不明か年が無い数字
+    nhold = sum(1 for r in rows if r["文脈"] == "不明" or not r["年"])
+    md += [f"- 要確認（文脈不明か年が無い）：{nhold}件／{len(rows)}件。この数字は結論に使う前に引用の本文で確かめる", ""]
     by_item = {}
     for r in rows: by_item.setdefault(r["品目"], []).append(r)
     for item, rs in sorted(by_item.items()):
@@ -175,7 +199,16 @@ def scan(topic):
                 if r["年"] and not r["予測"] and not (r.get("版") == "速報" and r["年"] in fin_years): peryear.setdefault(int(r["年"]), []).append(r["値"])
             med = {y: statistics.median(v) for y, v in peryear.items()}
             fut = [r for r in g if r["予測"]]
-            md.append(f"- {grade(g)} {cat}［{ctx}］（{u}）：{len(g)}件・一次{len(prim)}件・出典{len({src_key(r) for r in g})}か所（調査会社は1つに束ねる）・予測値{len(fut)}件、幅 {lo:g}〜{hi:g}（食い違い{spread}）")
+            gr = grade(g)
+            md.append(f"- {gr} {cat}［{ctx}］（{u}）：{len(g)}件・一次{len(prim)}件・出典{len({src_key(r) for r in g})}か所（調査会社は1つに束ねる）・予測値{len(fut)}件、幅 {lo:g}〜{hi:g}（食い違い{spread}）")
+            pk = pick(g)
+            if pk:
+                py, pv, pn, pd = pk
+                md.append(f"  - 採る値（規則：予測除外→一次優先→確報優先→最新年→中央値）：{pv:g}{u}（{py or '年不明'}年・{pn}件・出典{len(pd)}か所）")
+                # 4-21：最新の年が3年以上前なら古い（Inven：公表データは古いことがある）。今の判断に使う前に新しい版を探す
+                if py and NOW_YEAR - py >= 3: md.append(f"  - ⚠ 古い：採った値の最新の年が{py}年（{NOW_YEAR - py}年前）。新しい版・新しい年を探す")
+            if gr in ("【食い違い】", "【未確認】") and len(vals) >= 2:
+                md.append(f"  - 【推定】保守側の値（低い側に寄せる・低確度）：{conservative(vals):g}{u}")
             # 2026-11-05 4-15：外れ値に引っ張られた幅か、全体が散っているかを見るため四分位も出す（感度の確認）
             if len(vals) >= 4:
                 qs = statistics.quantiles(vals, n=4)

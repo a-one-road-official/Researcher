@@ -12,8 +12,13 @@ import re
 MENU_RE = re.compile(r"^[^0-9０-９、，,。]{1,20}$")
 
 
+# 2026-11-05：brief に「BRAND VOICE・Paid Program」（広告枠の見出し）や投資信託の手数料の免責文が業界の事実として入った失敗から。
+# 広告・タイアップ・免責・問い合わせの定型文は事実にしない（METHOD.md 4-21）
+BOILER_RE = re.compile(r"(Paid Program|BRAND VOICE|Sponsored|タイアップ|広告掲載|手数料がかか|お問い合わせ(下|くだ)さい|免責|投資勧誘|将来の運用成果|元本(割れ|保証)|Copyright|All rights reserved|利用規約|プライバシーポリシー|Cookie)", re.I)
+
+
 def _is_menu(ln: str) -> bool:
-    return bool(MENU_RE.match(ln))
+    return bool(MENU_RE.match(ln)) or bool(BOILER_RE.search(ln))
 
 
 HISTORY_RE = re.compile(r"^(?:19|20)\d{2}\s*年|^(?:昭和|平成|令和)\s*(?:元|\d{1,2})\s*年")
