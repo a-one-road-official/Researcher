@@ -1,0 +1,335 @@
+{
+ "name": "経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74",
+ "en": "587人・2024年69",
+ "aliases": [
+  "553人を所管の表で取り直す・時点をそろえた裏付け・4-24・4-44）"
+ ],
+ "context": "Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024",
+ "kind": "market",
+ "researched_at": "2026-11-05T21:08:27.526122+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-1.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://banenews.jp/statistics/684.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokei.pref.nagano.lg.jp/statist_list/24620.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/handbook/pdf/2024all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jtsb.mlit.go.jp/statistics_air.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/06/recruiting-immigrant-workers-japan-2024_0034390d/0e5a10e3-en.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://web-japan.org/atlas/ss/jp2/lnk/jp226.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ganjoho.jp/public/qa_links/report/statistics/pdf/cancer_statistics_2025_fig_E.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/houkoku24/dl/all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://banenews.jp/statistics/684.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "http://www.etisa.or.jp/kkj-1.htm"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://tokei.pref.nagano.lg.jp/statist_list/24620.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "https://banenews.jp/statistics/684.html"
+   ]
+  },
+  {
+   "query": "587人・2024年69 Japan statistics",
+   "results": [
+    "https://www.stat.go.jp/english/data/handbook/pdf/2024all.pdf",
+    "https://jtsb.mlit.go.jp/statistics_air.html",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/06/recruiting-immigrant-workers-japan-2024_0034390d/0e5a10e3-en.pdf",
+    "https://web-japan.org/atlas/ss/jp2/lnk/jp226.html",
+    "https://ganjoho.jp/public/qa_links/report/statistics/pdf/cancer_statistics_2025_fig_E.pdf",
+    "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/houkoku24/dl/all.pdf",
+    "https://www.fpcr.or.jp/pdf/pamphlet/cancer_statistics_2025.pdf",
+    "https://www.wis-jma.go.jp/sataid/nw/IR20210628.Z0750",
+    "https://en.wikipedia.org/wiki/Nagoya",
+    "https://www.stat.go.jp/english/data/jinsui/2024np/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74",
+   "results": [
+    "https://note.com/seankawakami/n/nce00a85c104b",
+    "https://note.com/ikedon0505/n/n3d4e402301e3",
+    "https://note.com/tatsuya_sabato/n/nfc9081910ae2",
+    "https://note.com/deep_think_ai/n/nea4a83f6b3ee",
+    "https://note.com/kaish_mitemita/n/na43bfeff2313",
+    "https://note.com/nekota_toure/n/ndce0be49784c",
+    "https://note.com/nekota_toure/n/ncddcbecdd452",
+    "https://note.com/hirokimiyano/n/n6249fe5e55b7",
+    "https://note.com/kagawatomo/n/nfa97baccac78",
+    "https://note.com/zouplans/n/n8d3ef7e2d9fa"
+   ]
+  },
+  {
+   "query": "site:x.com 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74",
+   "results": [
+    "https://x.com/luigi_jpn/article/2094562625690755302",
+    "https://x.com/luigi_jpn/article/2092385763262660913",
+    "https://x.com/reoleo_29",
+    "https://x.com/tokei_ibaraki/status/2038550140701851845",
+    "https://x.com/gototaisuke/status/2117062016578076881",
+    "https://x.com/tokei_ibaraki/status/2082712347798577159",
+    "https://x.com/i/trending/2102617203036106778",
+    "https://x.com/asahicom/status/2117013823261720881",
+    "https://x.com/nao_nass/status/2096793391002780049",
+    "https://x.com/Asahi_Shakai/status/2117050261537726838"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74",
+   "results": [
+    "https://jp.linkedin.com/posts/kpmg-jp_kpmgグローバル自動車業界調査2022から考察する自動車業界の将来展望-activity-7080374204688175104-4jTq",
+    "https://www.linkedin.com/posts/rikamatsunoa4b7741a9_事業構想2024年4月号製造業dxの今に取締役阿部大生のインタビューが掲載-activity-7181766735895674880-FiTK",
+    "https://jp.linkedin.com/in/asako-hayata",
+    "https://jp.linkedin.com/posts/naoki-kudo-cfe-695a0b1aa_ma-事業承継-金型-activity-7445638369612681216-fei1",
+    "https://jp.linkedin.com/posts/清悟-中村-6952563ba_従業員38人で売上73億円の衝撃世界初製造aiで常識を覆す金沢の町工場の-activity-7497826220953202689-j7r4",
+    "https://jp.linkedin.com/in/狭山金型製作所-株式会社-b92b91230",
+    "https://jp.linkedin.com/posts/hmkoiuy5129a120_amtiで知られる金沢大学設計製造技術研究所様のシンポジウムで講演させていただくことになりました-activity-7005714786990657536-af0M"
+   ]
+  },
+  {
+   "query": "site:facebook.com 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74",
+   "results": [
+    "https://www.facebook.com/groups/1272297446949368/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1384167243755964/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査集計結果-茨城県概要2024年６月１日現在で実施した2024年経済構造実態調査製造業事業所調査集計結果の概要を９月２日/1209595741213116/",
+    "https://www.facebook.com/kanpo.kagoshima/photos/新刊のご案内です日本の金型産業の規模事業所数生産額などの基礎データはもちろん金型の材料工作機械熱処理加工等の生産統計まで幅広く金型の統計データをまとめた金型統計/1089609011189282/",
+    "https://www.facebook.com/jpkanagata/posts/1999554936871021/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-6月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1374119468050206/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-5月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1678169717645178/",
+    "https://www.facebook.com/jpkanagata/"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74 note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74 X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html"
+   ]
+  },
+  {
+   "query": "587人・2024年69 site:linkedin.com",
+   "results": [
+    "https://jp.linkedin.com/in/lichtt",
+    "https://jp.linkedin.com/in/yukiko-konishi-6632612a",
+    "https://jp.linkedin.com/in/shun-kuramochi-8aa597121",
+    "https://jp.linkedin.com/in/tomoyuki-nii-97166491",
+    "https://jp.linkedin.com/in/tomomi-sato-95950032",
+    "https://jp.linkedin.com/in/andrian-perdana-26b829193",
+    "https://au.linkedin.com/in/ictrun",
+    "https://www.linkedin.com/in/christopher-morrissey-ab846584",
+    "https://cn.linkedin.com/in/holly-lei-%E9%9B%B7%E7%84%95%E4%B8%BD-832b4730",
+    "https://jp.linkedin.com/in/hilmiyafi"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ19頁・検索15回）",
+  "社員数・平均社員数": "記載なし（読んだ19頁・検索15回）",
+  "受注金額・加工賃収入": "記載なし（読んだ19頁・検索15回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ19頁・検索15回）",
+  "生産能力・設備": "記載なし（読んだ19頁・検索15回）",
+  "10年推移": "記載なし（読んだ19頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ19頁・検索15回）"
+ }
+}
