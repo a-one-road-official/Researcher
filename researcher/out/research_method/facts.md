@@ -3806,6 +3806,7 @@
   - 「Steven Raphael and Jens Ludwig, Evaluating Gun Policy: Effects on Crime and Violence (Chicago: Brookings Institution Press, 2003), 251–277, https://home.uchicago.edu/ludwigj/papers/Exile_chapter_2003.pdf.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
   - 「Andrew Gelman, “Statistics for Cigarette Sellers,” Chance, 3 (2012), https://www.stat.columbia.edu/~gelman/research/published/ChanceEthics4.pdf.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
   - 「Bikaramjit Mann and Evan Wood, “Confounding in Observational Studies Explained,” The Open Epidemiology Journal (2012), https://benthamopen.com/contents/pdf/TOEPIJ/TOEPIJ-5-18.pdf.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「We provide links to primary sources for all factual assertions wherever possible and aim to provide at least two sources to verify the central claim of a check unless there is only one relevant source. We prefer to link to data tables, legal documents, or other primary sources rather than press releases or executive summaries of statistical releases.」（https://fullfact.org/how-we-fact-check/）
 - 失敗・落とし穴：
   - 「Consider unemployment again. A survey asks a few questions of many people, so that we can count how many people are unemployed. We can also find patterns of connection between employment status and location, education, age, and so on. To see these patterns truly, without bias, we must either count every single person or take a random sample. That is, a random sample is a」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
   - 「The crimes that get reported are always the most serious. Content analysis has shown that coverage is biased toward victims who are young, female, white, and famous, as well as crimes which are particularly gruesome or sexual. Yet these examples are the stuff from which our perceptions are formed. it’s enough to make a media researcher weep:」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
@@ -4461,10 +4462,15 @@
   - 「recommends staying consistent within your comparison set rather than picking whichever method flatters the number.」（https://bizminer.com/revenue-per-employee-benchmarks/）
 - 突き合わせ・推定：
   - 「The AI infrastructure companies sit above even that. Epoch AI estimates Anthropic at roughly」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「peppereffect measurement, September 2026. Medians, not averages. Quartile spread on the full set: current visits per employee 38 at the 25th percentile, 135 median, 577 at the 75th. Our figures are estimated monthly organic visits, which is close to but not identical with a GA4 session count.」（https://peppereffect.com/blog/revenue-per-employee-benchmarks）
 - 実例：
   - 「Reconciliation example」（https://bizminer.com/revenue-per-employee-benchmarks/）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+  - 「Department KPI Dashboard Examples by Function」（https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry）
+  - 「Markup vs Margin Calculator Explained With Real Business Examples」（https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry）
+  - 「Finance teams can use the metric to test hiring plans. If projected headcount growth is much faster than projected revenue growth, revenue per employee may decline. That may be acceptable, but it should be visible. Include base, upside, and downside cases in your planning spreadsheet so leadership can see the expected impact.」（https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry）
+  - 「This metric becomes less useful at a narrow departmental level unless revenue can be credibly attributed. Sales teams may influence revenue more directly than HR or finance, so department-level comparisons need care. In most cases, it is better to use function-specific KPIs and reserve revenue per employee for the company level or business unit level.」（https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
 
 ## 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）（statistical data revisions analysis real-time vintages revision size bias preliminary final）
 - 文脈：改訂

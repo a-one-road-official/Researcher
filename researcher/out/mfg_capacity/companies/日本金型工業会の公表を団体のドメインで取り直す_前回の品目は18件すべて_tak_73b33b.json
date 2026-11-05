@@ -1,0 +1,374 @@
+{
+ "name": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43）",
+ "en": "Japan Die and Mould Industry Association statistics site:jdmia.or.jp",
+ "aliases": [
+  "site:jdmia.or.jp 金型生産額",
+  "site:jdmia.or.jp 統計 会員",
+  "日本金型工業会 金型 生産実績 filetype:pdf"
+ ],
+ "context": "業種・団体",
+ "kind": "market",
+ "researched_at": "2026-11-05T23:13:14.787293+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/kanagata-day/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kanagata-shimbun.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kojomag.nikkan.co.jp/kata/689",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmtba.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/jpkanagata/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kanagata-shimbun.com/2008910news-toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=2&toukei=00200555&result_page=1&statdisp_id=0003433760",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wis-jma.go.jp/sataid/ec/GS261021.Z00",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/210410administration-jdmia/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-senpai.com/event/takumisenpai-kanagata-project/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/220510event-takumisenpai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/about-intermold-2022/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/news/%E3%80%8Eistma%E7%B5%B1%E8%A8%88%E3%83%96%E3%83%83%E3%82%AF2023%E3%80%8F%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/technical_management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/english/document/jyuryo_m_e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/data/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/kikai/suii_m.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43）",
+   "results": [
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.jdmia.or.jp/",
+    "https://takumi-senpai.com/blog/kanagata-day/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "https://kanagata-shimbun.com/",
+    "https://takumi-senpai.com/blog/mold-industry-2024/",
+    "https://www.jmtba.or.jp/",
+    "https://kojomag.nikkan.co.jp/kata/689",
+    "https://www.jdmia.or.jp/document/"
+   ]
+  },
+  {
+   "query": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43） 推移",
+   "results": [
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://takumi-senpai.com/blog/kanagata-day/",
+    "https://takumi-senpai.com/blog/mold-industry-2024/",
+    "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "https://kanagata-shimbun.com/",
+    "https://kojomag.nikkan.co.jp/kata/689",
+    "https://www.jmtba.or.jp/"
+   ]
+  },
+  {
+   "query": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43） 統計 PDF",
+   "results": [
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://takumi-senpai.com/blog/mold-industry-2024/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.facebook.com/jpkanagata/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.jmtba.or.jp/"
+   ]
+  },
+  {
+   "query": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://takumi-senpai.com/blog/mold-industry-2024/",
+    "https://kanagata-shimbun.com/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=2&toukei=00200555&result_page=1&statdisp_id=0003433760",
+    "https://www.wis-jma.go.jp/sataid/ec/GS261021.Z00",
+    "https://ja.wikipedia.org/wiki/工業統計調査"
+   ]
+  },
+  {
+   "query": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43） 従業者規模別",
+   "results": [
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://takumi-senpai.com/blog/kanagata-day/",
+    "https://kanagata-shimbun.com/210410administration-jdmia/",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://takumi-senpai.com/blog/mold-industry-2024/",
+    "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "https://www.youtube.com/watch?v=6zFlKOKrhqk"
+   ]
+  },
+  {
+   "query": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43） 1人当たり 万円",
+   "results": [
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.jdmia.or.jp/",
+    "https://takumi-senpai.com/blog/kanagata-day/",
+    "https://kanagata-shimbun.com/210410administration-jdmia/",
+    "https://takumi-senpai.com/blog/mold-industry-2024/",
+    "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "https://kojomag.nikkan.co.jp/kata/689",
+    "https://takumi-senpai.com/event/takumisenpai-kanagata-project/",
+    "https://www.jmtba.or.jp/"
+   ]
+  },
+  {
+   "query": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43） 2015 2025",
+   "results": [
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.jdmia.or.jp/",
+    "https://takumi-senpai.com/blog/kanagata-day/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://kanagata-shimbun.com/220510event-takumisenpai/",
+    "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "https://takumi-senpai.com/blog/about-intermold-2022/",
+    "https://kojomag.nikkan.co.jp/kata/689",
+    "https://takumi-senpai.com/event/takumisenpai-kanagata-project/",
+    "https://www.youtube.com/watch?v=6zFlKOKrhqk"
+   ]
+  },
+  {
+   "query": "Japan Die and Mould Industry Association statistics site:jdmia.or.jp Japan statistics",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "https://www.jdmia.or.jp/news/%E3%80%8Eistma%E7%B5%B1%E8%A8%88%E3%83%96%E3%83%83%E3%82%AF2023%E3%80%8F%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "https://www.jdmia.or.jp/technical_management/",
+    "https://www.jdmia.or.jp/english/document/jyuryo_m_e.pdf",
+    "https://www.jdmia.or.jp/data/",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.jdmia.or.jp/toukei/kikai/suii_m.pdf",
+    "https://www.jdmia.or.jp/",
+    "https://www.jdmia.or.jp/data/輸出入統計（財務省）-8月分更新/"
+   ]
+  },
+  {
+   "query": "site:note.com 日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43）",
+   "results": [
+    "https://note.com/hirokimiyano/n/n7b1b1d66a86d",
+    "https://note.com/saidatomoya/n/ncb03bee12541",
+    "https://note.com/fukuoka_lawyer/n/n487ee9e7ffbd",
+    "https://note.com/_mamamaru/n/n3a9bf8d28839",
+    "https://note.com/aoi_law_neko/n/na3707222cce8",
+    "https://note.com/sana_engage/n/n2506e1dc53c1",
+    "https://note.com/dear_hyssop6712/n/nc61b8273f7d3"
+   ]
+  },
+  {
+   "query": "site:x.com 日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43）",
+   "results": [
+    "https://x.com/hashtag/日本金型工業会",
+    "https://x.com/asahicom/status/2117013822678736971",
+    "https://x.com/i/trending/2102617203036106778",
+    "https://x.com/nao_nass/status/2096793391002780049",
+    "https://x.com/m4sa_k1/status/2083203151457669402",
+    "https://x.com/nkinvestigation/status/2034956374871089424",
+    "https://x.com/Matsuno_Mold/status/2039823222221463784"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43）",
+   "results": [
+    "https://www.linkedin.com/help/linkedin/answer/a568303?lang=ja-JP",
+    "https://jp.linkedin.com/company/協同組合日本飼料工業会",
+    "https://jp.linkedin.com/posts/shin-o-46068515_金型づくり効率化推進会議-activity-7408309432826130432-5J-i",
+    "https://jp.linkedin.com/in/裕貴-古田-29bb1033b",
+    "https://jp.linkedin.com/posts/takamasa-adachi-a7415297_ニデック報告書から下会計不正の手法7パターンさびた金型新品で計上費用圧縮-activity-7437664940204736512-5aun",
+    "https://jp.linkedin.com/pulse/kerberos-認証のセキュリティ強化rc4-から-aes-への移行ガイド-shuman-zhu-poi4c",
+    "https://jp.linkedin.com/company/japan-uav-association"
+   ]
+  },
+  {
+   "query": "site:facebook.com 日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43）",
+   "results": [
+    "https://www.facebook.com/jpkanagata/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-8月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1427978675997618/",
+    "https://www.facebook.com/jpkanagata/posts/貿易統計輸出輸入-2月分発表貿易統計とは関税法の規定に基づき日本から外国への輸出及び外国から日本への輸入について税関に提出された輸出入の申告を集計し定期的に公表/1581380907324060/",
+    "https://www.facebook.com/jpkanagata/posts/貿易統計輸出輸入-1月分発表貿易統計とは関税法の規定に基づき日本から外国への輸出及び外国から日本への輸入について税関に提出された輸出入の申告を集計し定期的に公表/1558416239620527/",
+    "https://www.facebook.com/jpkanagata/posts/貿易統計輸出輸入-3月分発表貿易統計とは関税法の規定に基づき日本から外国への輸出及び外国から日本への輸入について税関に提出された輸出入の申告を集計し定期的に公表/1612792840849533/",
+    "https://www.facebook.com/jpkanagata/posts/貿易統計輸出輸入-11月分発表貿易統計とは関税法の規定に基づき日本から外国への輸出及び外国から日本への輸入について税関に提出された輸出入の申告を集計し定期的に公/1503962205065931/",
+    "https://www.facebook.com/jpkanagata/posts/貿易統計輸出輸入-10月分発表貿易統計とは関税法の規定に基づき日本から外国への輸出及び外国から日本への輸入について税関に提出された輸出入の申告を集計し定期的に公/1898956813597501/"
+   ]
+  },
+  {
+   "query": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43） note 社長",
+   "results": [
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.jdmia.or.jp/",
+    "https://takumi-senpai.com/blog/kanagata-day/",
+    "https://kanagata-shimbun.com/210410administration-jdmia/",
+    "https://takumi-senpai.com/event/takumisenpai-kanagata-project/",
+    "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "https://kojomag.nikkan.co.jp/kata/689",
+    "https://takumi-senpai.com/blog/mold-industry-2024/",
+    "https://note.com/dear_hyssop6712/n/nc61b8273f7d3"
+   ]
+  },
+  {
+   "query": "日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43） X 投稿",
+   "results": [
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.jdmia.or.jp/",
+    "https://takumi-senpai.com/blog/kanagata-day/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://kanagata-shimbun.com/220510event-takumisenpai/",
+    "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "https://takumi-senpai.com/event/takumisenpai-kanagata-project/",
+    "https://www.jmtba.or.jp/",
+    "https://www.youtube.com/watch?v=6zFlKOKrhqk"
+   ]
+  },
+  {
+   "query": "Japan Die and Mould Industry Association statistics site:jdmia.or.jp site:linkedin.com",
+   "results": []
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ30頁・検索15回）",
+  "社員数・平均社員数": "記載なし（読んだ30頁・検索15回）",
+  "受注金額・加工賃収入": "記載なし（読んだ30頁・検索15回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ30頁・検索15回）",
+  "生産能力・設備": "記載なし（読んだ30頁・検索15回）",
+  "10年推移": "記載なし（読んだ30頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ30頁・検索15回）"
+ }
+}
