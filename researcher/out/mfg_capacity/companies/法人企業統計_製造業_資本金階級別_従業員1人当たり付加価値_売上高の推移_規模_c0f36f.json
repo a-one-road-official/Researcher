@@ -1,0 +1,442 @@
+{
+ "name": "法人企業統計 製造業 資本金階級別 従業員1人当たり付加価値・売上高の推移（規模別の全国の2本目・4-31）",
+ "en": "Financial Statements Statistics of Corporations manufacturing value added per employee by capital size Japan time series",
+ "aliases": [
+  "法人企業統計 年次別調査 製造業 資本金階級別 従業員1人当たり付加価値額 推移",
+  "site:mof.go.jp 法人企業統計 労働生産性 資本金規模別 製造業",
+  "財務総合政策研究所 法人企業統計 時系列 製造業 中小企業 1人当たり"
+ ],
+ "context": "全体・規模別・一次",
+ "kind": "market",
+ "researched_at": "2026-11-05T09:58:34.129330+00:00",
+ "evidence": {
+  "10年推移": [
+   {
+    "quote": "Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 183",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the Ministry of Finance. In the FY2015 survey, proﬁt distributions to which large ﬁrms",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 185",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 Ito, Dejima and Kinoshita (2015) uses data from the Basic Survey of Japanese Business Structure",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 187",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "times price, p (Arai 2006). “Analysis of the Labor Economy 2015” outlines Japan’s situation",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "net income (2011 - 2015). Strictly speaking, ﬁrms do not pay dividends only from the net",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "In 2015, according to the Financial Statements Statistics of Corporations by Industry, out",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 189",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "sample survey conducted by Ministry of Finance and in 2015 about 29,000 ﬁrms responded.",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 191",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 193",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 195",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "earnings than returns for shareholders. Also, Takada (2015) shows that there are differences",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 197",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 199",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 201",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ito, Shinsuke, Takahisa Dejima, and Kazuhiro Kinoshita. (2015) Quantitative Analysis",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je25/h03-02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nochuri.co.jp/report/pdf/f1904fo1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dlri.co.jp/report/macro/282636.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003060791",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200555&layout=dataset",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/today/pdf/208.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indb.co.jp/insight_cat/ranking/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/list/trend.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/am/pii/S0922142523000324",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/nenkan/72nenkan/zenbun/en72/book/pageindices/index230.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n1c8090721c94?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kikatu/pdf/2025_notes.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "法人企業統計 製造業 資本金階級別 従業員1人当たり付加価値・売上高の推移（規模別の全国の2本目・4-31）",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www5.cao.go.jp/j-j/wp/wp-je25/h03-02.html",
+    "https://www.nochuri.co.jp/report/pdf/f1904fo1.pdf",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://www.e-stat.go.jp/dbview?sid=0003060791",
+    "https://www.indb.co.jp/insight_cat/ranking/",
+    "https://www.mof.go.jp/pri/reference/ssc/index.htm"
+   ]
+  },
+  {
+   "query": "法人企業統計 製造業 資本金階級別 従業員1人当たり付加価値・売上高の推移（規模別の全国の2本目・4-31） 推移",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www5.cao.go.jp/j-j/wp/wp-je25/h03-02.html",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.nochuri.co.jp/report/pdf/f1904fo1.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003060791"
+   ]
+  },
+  {
+   "query": "法人企業統計 製造業 資本金階級別 従業員1人当たり付加価値・売上高の推移（規模別の全国の2本目・4-31） 統計 PDF",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www5.cao.go.jp/j-j/wp/wp-je25/h03-02.html",
+    "https://www.nochuri.co.jp/report/pdf/f1904fo1.pdf",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://www.e-stat.go.jp/dbview?sid=0003060791",
+    "https://www.jpc-net.jp/research/rd/db/"
+   ]
+  },
+  {
+   "query": "法人企業統計 製造業 資本金階級別 従業員1人当たり付加価値・売上高の推移（規模別の全国の2本目・4-31） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www5.cao.go.jp/j-j/wp/wp-je25/h03-02.html",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200555&layout=dataset",
+    "https://www.stat.go.jp/info/today/pdf/208.pdf",
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf"
+   ]
+  },
+  {
+   "query": "法人企業統計 製造業 資本金階級別 従業員1人当たり付加価値・売上高の推移（規模別の全国の2本目・4-31） 従業者規模別",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www5.cao.go.jp/j-j/wp/wp-je25/h03-02.html",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf"
+   ]
+  },
+  {
+   "query": "法人企業統計 製造業 資本金階級別 従業員1人当たり付加価値・売上高の推移（規模別の全国の2本目・4-31） 1人当たり 万円",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www5.cao.go.jp/j-j/wp/wp-je25/h03-02.html",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.indb.co.jp/insight_cat/ranking/",
+    "https://www.jpc-net.jp/research/list/trend.html"
+   ]
+  },
+  {
+   "query": "法人企業統計 製造業 資本金階級別 従業員1人当たり付加価値・売上高の推移（規模別の全国の2本目・4-31） 2015 2025",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www5.cao.go.jp/j-j/wp/wp-je25/h03-02.html",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.nochuri.co.jp/report/pdf/f1904fo1.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102159",
+    "https://www.e-stat.go.jp/dbview?sid=0003060791",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://www.indb.co.jp/insight_cat/ranking/"
+   ]
+  },
+  {
+   "query": "Financial Statements Statistics of Corporations manufacturing value added per employee by capital size Japan time series Japan statistics",
+   "results": [
+    "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "https://www.sciencedirect.com/science/article/am/pii/S0922142523000324",
+    "https://www.stat.go.jp/english/data/nenkan/72nenkan/zenbun/en72/book/pageindices/index230.html",
+    "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a2.pdf",
+    "https://note.com/ogawa_tech/n/n1c8090721c94?hl=en",
+    "https://www.meti.go.jp/english/statistics/tyo/kikatu/pdf/2025_notes.pdf",
+    "https://data.worldbank.org/indicator/NV.IND.MANF.ZS?locations=JP",
+    "https://www.esri.cao.go.jp/jp/esri/content/e_dis389.pdf",
+    "https://en.wikipedia.org/wiki/Economy_of_Japan",
+    "https://www.mof.go.jp/english/pri/publication/zaikin_geppo/hyou/g822/all_822_e.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 法人企業統計 製造業 資本金階級別 従業員1人当たり付加価値・売上高の推移（規模別の全国の2本目・4-31）",
+   "results": [
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/ogawa_tech/n/n50af1e1e8268",
+    "https://note.com/ogawa_tech/n/ne51fccd38962",
+    "https://note.com/chushohakusho/n/n4affa3989932",
+    "https://note.com/nok_dy/n/neb2991243fae",
+    "https://note.com/ogawa_tech/n/naba6bc2b50fd",
+    "https://note.com/at_consulting18/n/nf47674263cb5"
+   ]
+  },
+  {
+   "query": "site:x.com 法人企業統計 製造業 資本金階級別 従業員1人当たり付加価値・売上高の推移（規模別の全国の2本目・4-31）",
+   "results": [
+    "https://x.com/OgawaSeisakusho/status/2103809193270825107",
+    "https://x.com/OgawaSeisakusho/status/2027491253462729022",
+    "https://x.com/ad1978920/status/2056592513243521345",
+    "https://x.com/OgawaSeisakusho/status/2027490451725684795",
+    "https://x.com/nmatsumoto4t/status/2028471842630172996",
+    "https://x.com/OgawaSeisakusho/status/2030753771119399049",
+    "https://x.com/21keiei/status/2076577373546557501"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 法人企業統計 製造業 資本金階級別 従業員1人当たり付加価値・売上高の推移（規模別の全国の2本目・4-31）",
+   "results": [
+    "https://in.linkedin.com/in/sauravdas12345",
+    "https://sg.linkedin.com/in/rodrigo-kede-lima-51941129",
+    "https://www.linkedin.com/pulse/付加価値向上シリーズ3-戦略意識改革-丈博-近藤",
+    "https://jp.linkedin.com/posts/ampersand-tax_従業員1人当たりの稼ぎが急増したトップ50社-東洋経済オンライン-activity-7309025087322501121-xjlY",
+    "https://www.linkedin.com/posts/kondo-takehiro_付加価値-付加価値を上げる要素-シリーズ-activity-6896739376705994752-mDAA",
+    "https://jp.linkedin.com/pulse/付加価値向上シリーズ2-付加価値を上げる要素-丈博-近藤",
+    "https://jp.linkedin.com/in/kondo-takehiro"
+   ]
+  },
+  {
+   "query": "site:facebook.com 法人企業統計 製造業 資本金階級別 従業員1人当たり付加価値・売上高の推移（規模別の全国の2本目・4-31）",
+   "results": [
+    "https://www.facebook.com/ObserveTW/posts/東西南北中製造業當家看廣東廣東2023年規模以上製造業企業營業收入達17萬億元製造業增加值佔gdp比重達到327今年1-2月廣東規模以上製造業增加值同比增長10/122137247780051295/",
+    "https://www.facebook.com/CafedeFinance/photos/統計數據規模以上工業企業利潤微增裝備高技術製造動能足國家統計局公布今年首11個月全國規模以上工業企業實現利潤總額662686億元按可比口徑計算同比增長01自今年/1356434516279130/",
+    "https://www.facebook.com/ToyokeizaiOnline/posts/会社四季報最新号で取り上げた1人当たり営業利益改善度ランキング企業の生産性や付加価値の高低が読み取れる指標の1つで上位50社を掲載しました従業員1人当たりの稼ぎ/660596239849639/",
+    "https://www.facebook.com/Deloitte.Japan/posts/871289171685312/",
+    "https://www.facebook.com/Deloitte.Japan/posts/1人あたり付加価値の向上が人口減少時代の答えになるデロイト-トーマツ-グループ著の書籍価値循環の成長戦略のポイントを動画で解説執筆を手掛けたデロイト-トーマツ-/888672193280343/",
+    "https://www.facebook.com/jinminmou/photos/8月には中国の全国の一定規模以上企業年売上高2000万元以上の企業の工業付加価値が前年比で52増全国サービス業生産指数が同56増社会消費財小売総額が同34増とな/1289444143223119/",
+    "https://www.facebook.com/tatsuya.ito.18/photos/中小企業小規模事業者政策調査会の提言を福田達夫調査会長を先頭に総理に申し入れました日本の雇用の7割付加価値の5割を生み出す中小小規模事業者の発展が国民全体の給料/27229544070034106/"
+   ]
+  },
+  {
+   "query": "法人企業統計 製造業 資本金階級別 従業員1人当たり付加価値・売上高の推移（規模別の全国の2本目・4-31） note 社長",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://note.com/ogawa_tech/n/ne51fccd38962",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "https://www.sbbit.jp/article/fj/84684",
+    "https://newspicks.com/news/14990936/body/",
+    "https://hajime-i.com/2016/07/11/blog193added-value-per-man/",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4"
+   ]
+  },
+  {
+   "query": "法人企業統計 製造業 資本金階級別 従業員1人当たり付加価値・売上高の推移（規模別の全国の2本目・4-31） X 投稿",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai3/shiryou1.pdf",
+    "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "https://www5.cao.go.jp/j-j/wp/wp-je25/pdf/p030002.pdf",
+    "https://note.com/ogawa_tech/n/ne51fccd38962",
+    "https://www.dlri.co.jp/report/macro/282636.html",
+    "https://www.e-stat.go.jp/dbview?sid=0003060791"
+   ]
+  },
+  {
+   "query": "Financial Statements Statistics of Corporations manufacturing value added per employee by capital size Japan time series site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/new-mountain-capital",
+    "https://www.linkedin.com/company/the-riverside-company",
+    "https://www.linkedin.com/company/bain-capital",
+    "https://www.linkedin.com/company/ifclinkedin",
+    "https://www.linkedin.com/company/kkr",
+    "https://www.linkedin.com/company/blue-owl-capital",
+    "https://www.linkedin.com/company/kps-capital-partners",
+    "https://www.linkedin.com/company/monomoy-capital-partners",
+    "https://www.linkedin.com/company/golub-capital",
+    "https://www.linkedin.com/company/morgan-stanley"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ23頁・検索15回）",
+  "社員数・平均社員数": "記載なし（読んだ23頁・検索15回）",
+  "受注金額・加工賃収入": "記載なし（読んだ23頁・検索15回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ23頁・検索15回）",
+  "生産能力・設備": "記載なし（読んだ23頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ23頁・検索15回）"
+ }
+}

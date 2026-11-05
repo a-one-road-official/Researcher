@@ -1,4 +1,558 @@
 {
  "name": "三王ハウジング",
- "error": "ValueError: Invalid IPv6 URL"
+ "aliases": [],
+ "context": "愛媛県新居浜市／出典:大学・高専の企業説明会／求人媒体:Indeed;doda／想定年収:300〜800万円／従業員:不明",
+ "researched_at": "2026-11-05T09:58:10.252710+00:00",
+ "official_url": "https://sanno-web.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本 　社",
+    "value": "愛媛県新居浜市阿島1丁目5-35 tel 0897-46-1511 fax 0897-46-3120",
+    "url": "https://sanno-web.com/",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒792－0896　愛媛県新居浜市阿島1丁目5－35 TEL 0897－46－1511 FAX 0897－46－3120",
+    "url": "https://sanno-hr.com/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立年",
+    "value": "設立年：1988年",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "label": "創業",
+    "value": "創業：昭和63年",
+    "url": "https://sanno-hr.com/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "2,000万円",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "2000万円",
+    "url": "https://sanno-hr.com/",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要取引先",
+    "value": "-",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "三王産業株式会社を設立し、製材工場を稼働",
+    "url": "https://sanno-web.com/g-enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "構造材～羽柄材を一貫生産するプレカット工場となる",
+    "url": "https://sanno-web.com/g-enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "年収700万円以上の求人",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "quote": "500万円~700万円",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "quote": "300万円~500万円",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "quote": "480万円~640万円",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "quote": "600万円~800万円",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "quote": "500万円~600万円 ※有資格者は優遇",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "quote": "400万円~450万円",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "quote": "500万円~900万円 ※年齢・経験・能力等を考慮のうえ決定",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "quote": "420万円~560万円",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "quote": "400万円~600万円（経験に応じて相談）",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "quote": "400万円~",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "quote": "340万円~500万円 ※スキル・経験を考慮",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "quote": "2000万円",
+    "url": "https://sanno-hr.com/",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給21.4万円〜22.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "350万円~500万円（※スキル・経験を考慮）",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "quote": "600万円~",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "quote": "416万円~560万円 ※スキル・経験を考慮",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "quote": "400万円~600万円",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "quote": "450万円~600万円",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "quote": "400万円~550万円",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "quote": "432万円~560万円 ※スキル・経験を考慮",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "上記の募集はハローワークの情報に掲載しておりますので、そちらをご確認ください",
+    "url": "https://sanno-hr.com/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "三王ハウジング 株式会社の管理職 求人 (愛媛県新居浜市) — 三王ハウジング 株式会社の管理職 求人 (愛媛県新居浜市) グローカルミッションジョブズ https://glocalmissionjobs.jp > search > detail",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "quote": "三王ハウジング の働き方（勤務時間・残業・休日休暇・制度） — 三王ハウジング の働き方（勤務時間・残業・休日休暇・制度） エン カイシャの評判 https://en-hyouban.com > company",
+    "url": "https://en-hyouban.com/company/10007968547/18/",
+    "pass": 3
+   },
+   {
+    "quote": "三王ハウジング の残業の口コミ（4件） - 転職会議 — 三王ハウジング の残業の口コミ（4件） - 転職会議 転職会議 https://jobtalk.jp > ... > 三王ハウジング株式会社",
+    "url": "https://jobtalk.jp/companies/68779/answers?topic=%E6%AE%8B%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "三王ハウジング 新卒 高卒 の求人情報をすべて見る （136件） — 三王ハウジング 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "三王ハウジング 株式会社の管理職求人(愛媛県新居浜市) — 三王ハウジング 株式会社の管理職求人(愛媛県新居浜市) グローカルミッションジョブズ https://glocalmissionjobs.jp > search > detail",
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "pass": 3
+   },
+   {
+    "quote": "三王ハウジング 株式会社 | キャリアマップ — 三王ハウジング 株式会社 | キャリアマップ Careermap https://www.careermap.jp > corporations",
+    "url": "https://www.careermap.jp/corporations/94112",
+    "pass": 3
+   },
+   {
+    "quote": "三王ハウジング 株式会社の 採用 ・求人情報-engage - エンゲージ — 三王ハウジング 株式会社の 採用 ・求人情報-engage - エンゲージ エンゲージ https://en-gage.net > sanno-web_saiyo",
+    "url": "https://en-gage.net/sanno-web_saiyo/",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "三王ハウジング 株式会社 | Niihama-shi Ehime - Facebook 三王ハウジング 株式会社 | Niihama-shi Ehime - Facebook Facebook https://www.facebook.com > ... > Construction Company",
+    "url": "https://www.facebook.com/sanno.housing/",
+    "pass": 3
+   },
+   {
+    "quote": "三王ハウジング 株式会社 | Niihama-shi Ehime - Facebook 三王ハウジング 株式会社 | Niihama-shi Ehime - Facebook Facebook https://www.facebook.com > ... > Construction Company",
+    "url": "https://www.facebook.com/sanno.housing/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sanno-web.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanno-web.com/g-enkaku/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanno-hr.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en-hyouban.com/company/10007968547/18/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://glocalmissionjobs.jp/search/detail/2768",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanno-hr.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/sanno.housing/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sanno.housing/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sanno.housing/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "三王ハウジング 求人 年収",
+   "results": [
+    "https://glocalmissionjobs.jp/search/detail/2768",
+    "https://sanno-hr.com/",
+    "https://en-hyouban.com/company/10007968547/18/",
+    "https://jobtalk.jp/companies/68779/answers?topic=%E6%AE%8B%E6%A5%AD",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10010678236/",
+    "https://ano-kono.ehime.jp/area/niihama/job/ref/52c36dca7e056e343cd0af25248ea65c",
+    "https://www.careermap.jp/corporations/94112",
+    "https://en-gage.net/sanno-web_saiyo/",
+    "https://jp.indeed.com/cmp/%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
+    "https://www.job-net.jp/employers/7500001009883"
+   ]
+  },
+  {
+   "query": "三王ハウジング 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://glocalmissionjobs.jp/search/detail/2768",
+    "https://sanno-hr.com/",
+    "https://www.careermap.jp/corporations/94112",
+    "https://en-gage.net/sanno-web_saiyo/",
+    "https://ano-kono.ehime.jp/area/niihama/job/ref/52c36dca7e056e343cd0af25248ea65c",
+    "https://jp.indeed.com/cmp/%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
+    "https://sannotec.co.jp/recruit/entry_new/",
+    "https://job-gear.net/sanohsaitama/",
+    "https://sanoh.biz/recruit/"
+   ]
+  },
+  {
+   "query": "site:note.com 三王ハウジング",
+   "results": [
+    "https://note.com/shingo25652/n/nf3f841152ca2",
+    "https://note.com/yumehoujing/n/ndcbde3be9322",
+    "https://note.com/kaburagi_wakana/n/n9fb1776e6e4e",
+    "https://note.com/kensetsu_dx/n/nfda48e20bb6a",
+    "https://note.com/nikken/n/ne1f12faa9c61",
+    "https://note.com/magical_ujyu/n/nfab193cc3b40",
+    "https://note.com/take_housing/n/nf113d777714d",
+    "https://note.com/mocchan/n/n040760590759",
+    "https://note.com/gr_near_39/n/n2728d0c839ac",
+    "https://note.com/yoshicom/n/n2b4538a642b7"
+   ]
+  },
+  {
+   "query": "site:x.com 三王ハウジング",
+   "results": [
+    "https://x.com/mimatadance/status/1720661254661079486",
+    "https://x.com/myfoot_ehime",
+    "https://x.com/LunaHouseFF14",
+    "https://x.com/cis_ngy",
+    "https://x.com/Tkagames0323/status/2067951004264571259",
+    "https://x.com/ichikawakoji",
+    "https://x.com/DQ_X/status/1498661434133151746",
+    "https://x.com/moni_nyan",
+    "https://x.com/HobbyShopOMJ/all",
+    "https://x.com/19851016tiger/status/2050895706144280662"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 三王ハウジング",
+   "results": [
+    "https://jp.linkedin.com/directory/companies/z-3",
+    "https://jp.linkedin.com/in/%E9%83%B7%E5%8F%B2-%E5%90%89%E6%9D%91-5767111b7",
+    "https://jp.linkedin.com/pulse/camera-lens-cnc-machining-precision-manufacturing-optical-sam-xie-saw7c?tl=ja",
+    "https://jp.linkedin.com/directory/companies/more-4",
+    "https://jp.linkedin.com/in/%E8%81%A1-%E8%B5%A4%E5%B0%BE-696375225",
+    "https://jp.linkedin.com/in/satoshi-yoshimura",
+    "https://jp.linkedin.com/in/%E7%9B%B4%E4%BA%BA-%E6%B1%A0%E7%94%B0-8179751b4",
+    "https://jp.linkedin.com/in/%E8%B1%8A-%E4%B8%AD%E6%88%B8%E5%B7%9D-6aa851144",
+    "https://jp.linkedin.com/in/雄二-三木-164608117",
+    "https://uk.linkedin.com/in/matt-hennessy-057b4162"
+   ]
+  },
+  {
+   "query": "site:facebook.com 三王ハウジング",
+   "results": [
+    "https://www.facebook.com/sanno.housing/",
+    "https://www.facebook.com/61561387281846/posts/%E4%BB%8A%E6%97%A5%E3%82%82%E7%AB%AF%E6%9D%90%E3%81%8C%E5%87%BA%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E7%9B%B4%E6%8E%A5%E5%B7%A5%E5%A0%B4%E6%84%9B%E5%AA%9B%E7%9C%8C%E6%96%B0%E5%B1%85%E6%B5%9C%E5%B8%82%E3%81%AB%E5%8F%96%E3%82%8A%E3%81%AB%E6%9D%A5%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8F%E3%81%93%E3%81%A8%E3%82%82%E5%8F%AF%E8%83%BD%E3%81%A7%E3%81%99%E3%81%97%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA%E3%81%A7%E8%B2%A9%E5%A3%B2%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%A7%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-%E8%A7%92%E6%9D%90%E3%82%84%E3%81%8A%E3%81%8C%E3%81%8F%E3%81%9A%E3%81%8B%E3%82%93%E3%81%AA%E3%81%8F%E3%81%9A%E8%96%AA%E3%81%AA%E3%81%A9%E8%B2%A9%E5%A3%B2%E3%81%97%E3%81%A6/122115553808379576/",
+    "https://www.facebook.com/sanno.housing/posts/%E5%A4%A7%E6%99%A6%E6%97%A5%E3%81%AB%E7%AC%AC%E5%85%AD%E5%8D%81%E7%95%AA%E6%9C%AD%E6%89%80%E3%81%AE%E6%A8%AA%E5%B3%B0%E5%AF%BA%E3%81%AB%E5%8F%82%E6%8B%9D%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E9%81%8D%E8%B7%AF%E9%81%93%E3%81%A8%E5%A2%83%E5%86%85%E3%81%AB%E3%81%AF%E9%9B%AA%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F%E3%81%8C%E5%A5%A5%E3%81%AE%E9%99%A2%E3%81%8C%E3%81%82%E3%82%8B%E6%98%9F%E3%81%8C%E6%A3%AE%E3%81%8B%E3%82%89%E3%81%AF%E3%81%86%E3%81%A3%E3%81%99%E3%82%89%E3%81%A8%E9%9B%AA%E5%8C%96%E7%B2%A7%E3%81%97%E3%81%9F%E9%9C%8A%E5%B3%B0%E7%9F%B3%E9%8E%9A%E5%B1%B1%E3%82%92%E6%8B%9D%E3%82%80%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F/1440248664459682/",
+    "https://www.facebook.com/sanno.housing/posts/%E9%80%B1%E6%9C%AB%E3%81%AB%E8%B6%B3%E7%AB%8B%E7%BE%8E%E8%A1%93%E9%A4%A8%E3%81%AE%E6%97%A5%E6%9C%AC%E5%BA%AD%E5%9C%92%E3%82%92%E8%A6%8B%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E8%83%8C%E6%99%AF%E3%81%AE%E5%B1%B1%E3%81%AB%E7%99%BD%E7%A0%82%E9%9D%92%E6%9D%BE%E3%81%AE%E5%BA%AD%E3%81%8C%E3%81%A8%E3%81%91%E3%81%93%E3%81%BF%E7%B5%B5%E7%94%BB%E3%81%AE%E3%82%88%E3%81%86%E3%81%A7%E3%81%97%E3%81%9F/1006778624473357/",
+    "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E5%B1%B1%E7%8E%8B-100054656641083/",
+    "https://www.facebook.com/sanno.housing/posts/%E4%BB%8A%E5%B9%B4%E3%82%82ufo%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%A2%E3%82%BF%E3%83%83%E3%82%AF%E3%81%8C%E9%AB%98%E7%9F%A5%E7%9C%8C%E3%81%84%E3%81%AE%E7%94%BA%E3%81%A7%E9%96%8B%E9%80%9A%E5%89%8D%E3%81%AEufo%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E9%80%94%E4%B8%AD%E3%81%BE%E3%81%A7%E3%81%AF%E9%9B%A8%E3%81%A7%E3%81%97%E3%81%9F%E3%81%8C%E6%8A%98%E3%82%8A%E8%BF%94%E3%81%97%E5%9C%B0%E7%82%B9%E3%81%A7%E3%81%AF%E9%9D%92%E7%A9%BA%E3%81%AB%E7%86%8A%E7%AC%B9%E3%81%AB%E8%A6%86%E3%82%8F%E3%82%8C%E3%81%9F17001800m%E3%81%AE%E5%B1%B1%E3%80%85%E3%81%AE/1233658001785417/",
+    "https://www.facebook.com/sanno.housing/posts/%E9%B3%A5%E5%8F%96%E7%9C%8C%E3%81%AE%E5%A4%A7%E5%B1%B1%E3%81%A7%E3%81%99%E8%A6%8B%E3%82%8B%E6%96%B9%E8%A7%92%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E9%81%95%E3%81%A3%E3%81%9F%E9%A1%94%E6%96%9C%E9%9D%A2%E3%81%8C%E3%81%82%E3%82%8B%E5%B1%B1%E3%81%A7%E3%81%99%E6%A1%A7%E3%81%A8%E6%9D%89%E3%81%AE%E6%A3%AE%E3%81%AF%E3%82%88%E3%81%8F%E6%89%8B%E5%85%A5%E3%82%8C%E3%81%8C%E3%81%95%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E5%A4%AA%E9%99%BD%E3%81%AE%E5%85%89%E3%81%8C%E6%A3%AE%E3%81%AE%E5%A5%A5%E3%81%BE%E3%81%A7%E8%A1%8C%E3%81%8D%E5%B1%8A%E3%81%8D%E5%A4%9A%E6%A7%98%E3%81%AA%E6%A4%8D%E7%89%A9%E3%82%92%E8%82%B2%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E8%87%AA%E8%BB%A2%E8%BB%8A%E3%81%A7%E4%B8%80%E5%91%A8%E3%81%99%E3%82%8B%E3%81%A8/1006961427788410/",
+    "https://www.facebook.com/100070129509123/videos/%E3%83%9B%E3%83%9E%E3%83%83%E3%82%B0%E5%A4%A7%E4%BA%BA%E6%B0%97%E3%81%AE%E6%9C%A8%E5%B7%A5%E6%A9%9F%E6%A2%B05%E8%BB%B8%E5%88%B6%E5%BE%A1%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BFcentateq-p-110%E3%81%A7%E3%81%99%E3%83%A1%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%94%E3%83%B3%E3%83%89%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E6%BA%9D%E4%BB%98%E3%81%91%E9%8B%B8%E3%81%93%E3%82%8C%E4%B8%80%E5%8F%B0%E3%81%A7%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E4%BA%8B%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E7%B8%A6%E6%A8%AA%E6%96%9C%E3%82%81%E3%81%A9%E3%81%AE%E9%9D%A2/828667124507688/?locale=ms_MY",
+    "https://www.facebook.com/ktn.housing/posts/9%E6%9C%8827%E6%97%A5%E5%9C%9F28%E6%97%A5%E6%97%A5%E3%81%AF%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A7%E3%82%A2%EF%B8%8F-%E4%BA%BA%E6%B0%97%E3%81%AE%E3%81%AF%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%B1%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%84%E3%83%91%E3%82%A6%E3%83%91%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB%E3%81%8C%E3%82%84%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8B%E3%81%95%E3%82%89%E3%81%AB%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%9E%E3%83%AB%E3%82%B7%E3%82%A7%E3%82%82%E5%90%8C%E6%99%82%E9%96%8B%E5%82%AC-%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AB%E3%82%82%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%83%A9%E3%83%AA/1365500522251177/",
+    "https://www.facebook.com/p/三王ハウジング株式会社-61561387281846/"
+   ]
+  },
+  {
+   "query": "三王ハウジング note 社長",
+   "results": [
+    "https://www.sanno-er.com/company/",
+    "https://sanno-web.com/sanno-sangyou/",
+    "https://www.cisjp.com/casestudy/post_18/",
+    "https://www.facebook.com/sanno.housing/?locale=ja_JP",
+    "https://web-eis.com/sannou/",
+    "http://company-portal.city.niihama.ehime.jp/work/cn5/cn10/pg3366.html",
+    "https://www.instagram.com/sannohousing1988/",
+    "https://www.youtube.com/watch?v=FeYHl9bd6fM",
+    "https://glocalmissionjobs.jp/search/detail/2768",
+    "https://www.kensetumap.com/company/448819/profile.php"
+   ]
+  },
+  {
+   "query": "三王ハウジング X 投稿",
+   "results": [
+    "https://sanno-web.com/sanno-sangyou/",
+    "https://www.sanno-er.com/company/",
+    "https://www.facebook.com/sanno.housing/?locale=ja_JP",
+    "https://www.youtube.com/watch?v=FeYHl9bd6fM",
+    "http://company-portal.city.niihama.ehime.jp/work/cn5/cn10/pg3366.html",
+    "https://www.instagram.com/sannohousing1988/",
+    "https://web-eis.com/sannou/",
+    "https://www.cf-eco.jp/member/shikoku/003.html",
+    "https://sanno-web.com/",
+    "https://x.com/sannnou_ehime"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索8回）"
+ }
 }

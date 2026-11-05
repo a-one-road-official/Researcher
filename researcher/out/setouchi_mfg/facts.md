@@ -19442,8 +19442,54 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 採用の発信：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部9頁・検索8回）
 
 ## 三王ハウジング
-- 公式URL：特定できず（）
-- エラー：ValueError: Invalid IPv6 URL
+- 公式URL：https://sanno-web.com/（given）
+- 所在地：愛媛県新居浜市阿島1丁目5-35 tel 0897-46-1511 fax 0897-46-3120（https://sanno-web.com/・1回目）
+- 所在地：〒792－0896　愛媛県新居浜市阿島1丁目5－35 TEL 0897－46－1511 FAX 0897－46－3120（https://sanno-hr.com/・3回目）
+- 創業年度：設立年：1988年（https://glocalmissionjobs.jp/search/detail/2768・3回目）
+- 創業年度：創業：昭和63年（https://sanno-hr.com/・3回目）
+- 資本金：2,000万円（https://glocalmissionjobs.jp/search/detail/2768・3回目）
+- 資本金：2000万円（https://sanno-hr.com/・3回目）
+- 主要取引先：-（https://glocalmissionjobs.jp/search/detail/2768・3回目）
+- 採用ページ：
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 想定年収・給与：
+  - 「年収700万円以上の求人」（https://glocalmissionjobs.jp/search/detail/2768・3回目）
+  - 「500万円~700万円」（https://glocalmissionjobs.jp/search/detail/2768・3回目）
+  - 「2,000万円」（https://glocalmissionjobs.jp/search/detail/2768・3回目）
+  - 「300万円~500万円」（https://glocalmissionjobs.jp/search/detail/2768・3回目）
+  - 「480万円~640万円」（https://glocalmissionjobs.jp/search/detail/2768・3回目）
+  - 「600万円~800万円」（https://glocalmissionjobs.jp/search/detail/2768・3回目）
+  - 「500万円~600万円 ※有資格者は優遇」（https://glocalmissionjobs.jp/search/detail/2768・3回目）
+  - 「400万円~450万円」（https://glocalmissionjobs.jp/search/detail/2768・3回目）
+  - 「500万円~900万円 ※年齢・経験・能力等を考慮のうえ決定」（https://glocalmissionjobs.jp/search/detail/2768・3回目）
+  - 「420万円~560万円」（https://glocalmissionjobs.jp/search/detail/2768・3回目）
+  - 「400万円~600万円（経験に応じて相談）」（https://glocalmissionjobs.jp/search/detail/2768・3回目）
+  - 「400万円~」（https://glocalmissionjobs.jp/search/detail/2768・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 求人媒体：
+  - 「上記の募集はハローワークの情報に掲載しておりますので、そちらをご確認ください」（https://sanno-hr.com/・3回目）
+- 取引先・規模：
+  - 「三王産業株式会社を設立し、製材工場を稼働」（https://sanno-web.com/g-enkaku/・1回目）
+  - 「構造材～羽柄材を一貫生産するプレカット工場となる」（https://sanno-web.com/g-enkaku/・1回目）
+  - 「専務の中島は、三菱UFJ銀行で約10」（https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 検索結果の抜粋：
+  - 「三王ハウジング 株式会社の管理職 求人 (愛媛県新居浜市) — 三王ハウジング 株式会社の管理職 求人 (愛媛県新居浜市) グローカルミッションジョブズ https://glocalmissionjobs.jp > search > detail」（https://glocalmissionjobs.jp/search/detail/2768・3回目）
+  - 「三王ハウジング の働き方（勤務時間・残業・休日休暇・制度） — 三王ハウジング の働き方（勤務時間・残業・休日休暇・制度） エン カイシャの評判 https://en-hyouban.com > company」（https://en-hyouban.com/company/10007968547/18/・3回目）
+  - 「三王ハウジング の残業の口コミ（4件） - 転職会議 — 三王ハウジング の残業の口コミ（4件） - 転職会議 転職会議 https://jobtalk.jp > ... > 三王ハウジング株式会社」（https://jobtalk.jp/companies/68779/answers?topic=%E6%AE%8B%E6%A5%AD・3回目）
+  - 「三王ハウジング 新卒 高卒 の求人情報をすべて見る （136件） — 三王ハウジング 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E4%B8%89%E7%8E%8B%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「三王ハウジング 株式会社の管理職求人(愛媛県新居浜市) — 三王ハウジング 株式会社の管理職求人(愛媛県新居浜市) グローカルミッションジョブズ https://glocalmissionjobs.jp > search > detail」（https://glocalmissionjobs.jp/search/detail/2768・3回目）
+  - 「三王ハウジング 株式会社 | キャリアマップ — 三王ハウジング 株式会社 | キャリアマップ Careermap https://www.careermap.jp > corporations」（https://www.careermap.jp/corporations/94112・3回目）
+  - 「三王ハウジング 株式会社の 採用 ・求人情報-engage - エンゲージ — 三王ハウジング 株式会社の 採用 ・求人情報-engage - エンゲージ エンゲージ https://en-gage.net > sanno-web_saiyo」（https://en-gage.net/sanno-web_saiyo/・3回目）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索8回）
+- 採用の発信：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索8回）
 
 ## 三菱ガス化学
 - 公式URL：https://www.mgc.co.jp/（given）

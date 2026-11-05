@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・49品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・51品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -220,7 +220,7 @@
   - 「それぞれについて「なぜこの企業がそれを求めているのか」を1行で書く（仮説でよい）」（https://note.com/restart_notes25/n/nf64264f912f9）
   - 「自己分析で出てきた「自分が求めていること」と、Q4で調べた内容を照合する」（https://note.com/restart_notes25/n/nf64264f912f9）
   - 「IT系職種21選｜「目指したい自分像」からの逆算が適職発見のカギ」（https://careerpark-agent.jp/column/67587）
-  - 「会計検査院による抽出調査および国税庁による再検証データは、現行の類似業種比準方式が内包する客観的な価格乖離を明らかにしました2」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「上場類似企業の株価倍率（PER、PBR、EV/EBITDA）を用いて企業価値を推定します」（https://note.com/finanscope/n/n62d819db22c2）
 - 一次情報の探し方：
   - 「300社以上の採用支援をしてきた経験をもとに、各大学の就活講座の講師も務め、年間3,000人以上に講演」（https://careerpark-agent.jp/column/67587）
   - 「②ホームページや採用ページ：企業の詳しい情報がわかる」（https://careerpark-agent.jp/column/67587）
@@ -3000,6 +3000,8 @@
 - 一次情報の探し方：
   - 「Advantages Primary source, direct participants ’/」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
   - 「chy levels (primary sources), in addition to outside experts」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
+  - 「The remaining edge in fundamental equity research is increasingly a human one. Not the ability to build a better model, but the ability to have better conversations — with the people who sit one or two steps away from the company being analyzed and who have a ground-level view of what is actually happening that no quarterly filing captures.」（https://rosettistarr.com/case-studie/the-channel-check-framework-what-suppliers-know-that-analysts-dont/）
+  - 「Human intelligence from channel sources is most powerful when it can be reconciled against quantitative data that provides independent corroboration or challenge. Trade data — customs records, shipping databases, and import/export filings across relevant jurisdictions — provides exactly that corroboration for companies with significant physical product flows.」（https://rosettistarr.com/case-studie/the-channel-check-framework-what-suppliers-know-that-analysts-dont/）
 - 失敗・落とし穴：
   - 「puts forward concrete advice addressing this technique ’s inherent challenges of selecting experts, experts ’ personal biases, and the」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
   - 「sonal biases are often not tackled; and 3) evidence is not」（https://www.maastrichtuniversity.nl/sites/default/files/2023-11/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method.pdf）
@@ -3070,7 +3072,7 @@
 - 実例：
   - 「例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
   - 「(無料、データ加工実例)」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
 
 ## 官報・電子公告の決算公告で中小の財務を読む実務（探し方・単位・公告が無い理由）（reading Japanese public financial notices kanpo SME balance sheet units）
 - 文脈：一次情報の探し方
@@ -3102,6 +3104,8 @@
   - 「「検証中」は、その期の公告に当期純利益の印字はあるが、符号または単位の判読を検証中のため非掲載にしていることを示します」（https://kaijiwire.jp/guide/kessan-kokoku）
   - 「期の区切りは前後の期末からの推定で、欠落した期を詰めずに軸上に空きを残して描きます」（https://kaijiwire.jp/guide/kessan-kokoku）
   - 「国税庁の法人番号と照合済みの企業は法人番号も併記されます」（https://kanpou.ai/guide/kessan-kokoku）
+  - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 - 一次情報の探し方：
   - 「貸借対照表の公告（決算公告）で注意すべき事項 - あなたのまちの司法書士事務所グループ」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「「自分で登記できるもん」セルフ登記マンといわれる方々へ」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
@@ -3148,3 +3152,168 @@
   - 「なお、電子公告を選択している中小企業の一部は、義務の範囲を超えて損益計算書も任意で掲載するケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「実務上、直ちに科されるケースは多くありませんが、義務であることに変わりはなく、金融機関や取引先からの信用にも関わります」（https://kanpou.ai/guide/kessan-kokoku）
+  - 「P/L全体は見えなくても、最終的な収益性の結果は確認できる仕組みになっています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「特に中小企業同士のビジネスでは、取引先が決算書を開示しないケースが多く、官報公告が唯一の財務情報源になることもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+
+## 日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出）（productivity decomposition within between entry exit Melitz Polanec Japan establishment data）
+- 文脈：突き合わせ・推定
+- 手順・やり方：
+  - 「需給ギャップは実際の産出と基準となる産出の差であるが、基準となる潜在産出は直接観測されず、推計の方法に依存する」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「景気の判定方法そのものも、経済構造の変化に合わせて改定の対象になっている」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「同研究会は、新CIと新DIに基づく景気基準日付の判定方法を、早ければ次の景気の山を暫定設定する際に、従来の方法と大きな乖離がないことを確認したうえで採用するとした[19]」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「潜在産出は生産要素、生産性、インフレ率の動きなどから推計する持続可能な産出の水準であり、推計方法が複数ある」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「そのうえでHamiltonは、四半期データについて2年先の値を現在までの直近4期の値に回帰し、その残差を循環成分とする方法を代替案として提案した[24]」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「複数の系列の突き合わせが個々の推計誤差の影響を小さくするという性質は、推計値を誤差のない観測値として扱わずに景気を判断する方法が存在することを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「例えば、ハイエク型の機構で特定の不況を説明するには、その前の拡張期に投資の期間構成と信用条件が実際に変化していたことを示す証拠が必要になる」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「合理的期待と政策の実体的な効果が両立する経済が存在することは、ルーカス批判が対象とするのが政策の有効性ではなく政策評価の方法であることを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「ただし、金融循環の長さも、測定に用いる系列、平滑化の方法、各国の金融制度に依存し、固定周期の法則として確立したものではない」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「金融循環の長さが測定方法と制度に依存することは、金融循環も固定周期の規則として予測に用いることができないことを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「石油価格ショックの効果と政策反応の効果の配分が推定方法によって変わることは、供給ショックの影響を金融政策の反応から切り離して測定できないことを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「ショックの寄与率が系統的な反応の効果を含まないことは、二つの問いに別の推定方法が必要であることを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「外部操作変数を用いる方法は、関心のある構造ショックとだけ相関する外部の系列を利用して、モデル全体の構造を特定せずに動学的な因果効果を推定する」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「彼らは、名目硬直性に強く依存せずに需要主導の循環を生むモデルが、データに見られる伝播の型と整合しやすいと論じた[87]」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「公刊された実証研究が報告する財政乗数は、国、期間、識別の方法、経済の状態によって異なり、一つの普遍的な値に収束していない」（https://note.com/reading_monkey/n/n6ea2542812c6）
+- 突き合わせ・推定：
+  - 「Jevonsは1878年に、イギリスの商業恐慌がおよそ10年の間隔で繰り返し起きていることを指摘し、その間隔を太陽黒点の周期と結びつける仮説を提示した[1]」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「これらの名称は、個々の研究者が観測した変動に後の研究者が与えた整理であり、名称が付いた時点で循環の存在や重なりが検証されていたわけではない」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「反実仮想の問いは、別の政策ルールや制度の下で同じ起点が生じた場合に経済がどう動いたかを推定する作業であり、厚生評価の問いは、変動を小さくすることで誰の消費、雇用、将来所得がどれだけ改善するかを測る作業である」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「GDPの推移を正確に記述しても起点は特定されず、起点を特定しても別の政策の下での経路は推定されず、その経路を推定しても望ましい政策は確定しないので、四つの問いはそれぞれ別の情報と仮定を必要とする」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「需給ギャップは実際の産出と基準となる産出の差であるが、基準となる潜在産出は直接観測されず、推計の方法に依存する」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「各量の定義が異なる対象を指していることは、GDPが増えているかという問いと生活が改善しているかという問いを別々に検証しなければならない根拠になる」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「これらは公表表からの単純集計であり将来の周期を推定したものではないが、平均の約37%に当たる散らばりは、平均の長さから次の転換点の時期を決められないことを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「さらに、長さの異なる循環が重なって観測データを生んでいるという仮説は、それぞれの機構が存在するかどうかとは別に検証を要する命題である」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「分類が時間スケールと機構の対応を示すだけで重なりの検証を含まないことは、この分類を転換点の予測規則として用いることができない理由になる」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「彼らが推定したモデルでは、外生的な攪乱がごく短命であっても、内生的な循環の力によってデータの周期的な性質が再現された[22]」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「一つの研究が第一と第二の命題を支持する証拠を与えながら第三の命題を含まないことは、三つの命題が別々に検証されるべきものであることを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「潜在産出は生産要素、生産性、インフレ率の動きなどから推計する持続可能な産出の水準であり、推計方法が複数ある」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「Hamiltonは、HPフィルターが元のデータ生成過程に根拠のない動学的関係を作り出すこと、標本の末端での推計値が標本の中央での推計値と大きく異なること、問題を統計的に定式化すると慣行の1600とはかけ離れた平滑化パラメータが選ばれることを指摘した[24]」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「政策当局がその時点で用いる需給ギャップの推計は、事後に改訂されたデータによる推計と大きく異なることがある」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「Orphanides–van Nordenは、米国の産出ギャップについて、各時点で入手できたデータで推計した値と最終的な改訂データで推計した値を比較した[26]」（https://note.com/reading_monkey/n/n6ea2542812c6）
+- 一次情報の探し方：
+  - 「景気変動という概念は、19世紀の工業化した経済で繰り返された恐慌の観察から生まれ、20世紀に統計による測定と政策の対象になり、現在は家計と企業の分布、金融、期待を含む動学として研究されている」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「教科書の一つの用語がこの三つの段階を経て現在の形になったことは、景気変動の理解に経済史、統計、政治、経済理論の複数の領域の知識が必要であることを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「それより前の1862年にJuglarは、フランス、イギリス、アメリカの銀行の貸出と準備、物価などの統計を用いて、恐慌を繁栄、恐慌、清算が繰り返す過程の一局面として扱った[2]」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「恐慌の反復が同時代の複数の論者によって統計と理論の両面から扱われたことは、景気変動の概念が19世紀の工業化した経済の観察から生まれたことを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「教科書の四局面の区分は、20世紀前半の米国で景気変動を統計的に測定する研究計画の中で定式化された」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「Mitchellは1913年に景気循環に関する統計的な記述を体系化し[4]、その後1920年に設立された全米経済研究所（NBER）で、多数の経済系列の転換点を測定する研究を主導した」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「理論、法律、統計の制度が相次いで整えられたことは、景気変動が20世紀半ばに政策の対象として位置づけられたことを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「日本の景気基準日付は、景気動向指数の一致系列に属する個々の指標の転換点を統計的に定め、転換の方向の合意度から事後的に設定される」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「内閣府経済社会総合研究所は、CI一致指数の採用系列ごとにBry–Boschan法で山と谷を定め、谷から山までを上昇、山から谷までを下降として、上昇している系列の割合をヒストリカルDIとして算出する[17][18]」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「同研究会は、新CIと新DIに基づく景気基準日付の判定方法を、早ければ次の景気の山を暫定設定する際に、従来の方法と大きな乖離がないことを確認したうえで採用するとした[19]」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「採用する系列の構成を変えたときの日付を別に試算して比較していることは、景気の山と谷が測定の手続きに依存して決まる量であることを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「トレンドとして用いられる基準には、統計的トレンド、潜在産出、自然産出、効率的産出の少なくとも四種類があり、それぞれ異なる反実仮想に対応する」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「統計的トレンドは平滑化や時系列モデルによって得られる趨勢であり、経済的な解釈を前提としない」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「Hamiltonは、HPフィルターが元のデータ生成過程に根拠のない動学的関係を作り出すこと、標本の末端での推計値が標本の中央での推計値と大きく異なること、問題を統計的に定式化すると慣行の1600とはかけ離れた平滑化パラメータが選ばれることを指摘した[24]」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「同じ原油価格の上昇は、家計の実質所得を減らして消費需要を減らし、企業の利益と担保価値を減らして借入制約を強め、先行きの悲観的な見通しを通じて投資と採用を減らす」（https://note.com/reading_monkey/n/n6ea2542812c6）
+- 失敗・落とし穴：
+  - 「ただし、残された誤りは筆者らに帰する」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「認識や起業能力に対する認識が低いほか、 失敗に対する恐れが高い （図 24）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「新興国等、産業構造の大きく異なる国や地域の比較を行う際には注意が必要で」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「ただし、残された誤りは全て筆者に帰する」（https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf）
+  - 「を表すものであるが、業種ごとにその平均的な水準が異なる点に注意する必要」（https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf）
+  - 「海外と比べて、起業家精神が極端に低いことや、失敗に対する恐れが大きいこ」（https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf）
+  - 「を増やす必要があっても、その事業が失敗した際に、従業員の解雇ができず低」（https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf）
+  - 「ション成長経路）へと適切なタイミングで移行することができず、 「停滞の罠」」（https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf）
+  - 「2 Melitz and Polanec (2015) argue that BHC-FHK decomposition has a potential bias such that entry/」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf）
+  - 「estimates, because it is shown that there is no bias in original LM estimates (except for the level of」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf）
+- 実例：
+  - 「Kydland–Prescottは、その時点ごとに最適な裁量的政策を選ぶと、事前に規則を約束する場合より悪い結果になりうるという時間非整合性の問題を示し、この議論は中央銀行に政府から独立した権限を与える制度の理論的な根拠の一つになった[12]」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「米国の景気後退でも、期間と深さは事例ごとに大きく異なる」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「期間の短さと低下幅の大きさが同じ事例の中で併存することは、景気後退の大きさを期間の長さだけで比較できないことを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「広く使われてきたHodrick–Prescottフィルターは、元のデータ生成過程にない循環的な動学を抽出結果に生じさせることがある」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「その結果、両者の差は産出ギャップそのものと同程度の大きさになり、差の主な源泉はGDPデータの改訂ではなく、標本の末端でトレンドの推計値が変わることにあった[26]」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「リアルタイム推計と事後推計の差が主にトレンドの末端推計から生じるという結果は、政策判断の時点で需給ギャップを誤差のない観測値として扱えないことを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「この5は仮定したモデルの計算結果であって実際の経済で測定された財政乗数ではなく、価格、金利、計画投資、税、輸入、供給能力の反応をすべて固定したことに依存している」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「この結果は、税を一定とする仮定を税が支出に連動する仮定に置き換えただけで生じる」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「支出と所得の相互依存は、個々の主体にとって合理的な行動が、集計すると意図と異なる結果を生む場合があることを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「この結果は貯蓄のパラドックスと呼ばれ、投資が貯蓄の増加に反応して増える場合や、金利が下がって支出を支える場合には成立しない」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「成立するかどうかが投資と政策の反応に依存することは、この集計上の結果が支出と所得の相互依存の仮定から導かれていることを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「例えば、ハイエク型の機構で特定の不況を説明するには、その前の拡張期に投資の期間構成と信用条件が実際に変化していたことを示す証拠が必要になる」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「例えば、政府が一度だけ給付金を支払う場合と、景気が悪化するたびに自動的に給付する制度を導入する場合とでは、家計の平常時の貯蓄やリスクのとり方が異なりうる」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「Basu–Fernald–Kimballは、稼働率の変動などを補正した技術の系列では技術の改善が短期的に労働投入を減らすことを示し、Galíも長期制約による識別から同様の結果を得た[35][36]」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「第二に、基本モデルで変動が効率的な調整になるのは、保険市場の不完備、金融危機、名目契約などを省いた結果であり、現実の不況が効率的であることの証拠ではない」（https://note.com/reading_monkey/n/n6ea2542812c6）
+
+## 競合仮説分析（ACH）とOSINTの情報評価の実務ブログ（誤り仮説・合わない証拠・結論を変える証拠）（analysis of competing hypotheses OSINT practitioner blog disconfirming evidence）
+- 文脈：突き合わせ・推定
+- 手順・やり方：
+  - 「「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「教官・井上成美が教えた「合理的敵情判断ノ方法」は、現代の心理学や意思決定理論と通底する先見性を持っていたのです」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「1930年代の日本海軍において、戦略教官であった井上成美は「合理的敵情判断ノ方法」という名の情報分析法を教えていました(髙橋, 2013)」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「彼の方法論は、仮説や証拠の扱い方、直観と論理のバランスなど、現代の心理学や情報分析論とも通じるものがあります」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「これは、ある問題について複数の仮説を意図的に設定し、それぞれの仮説に対して集められた証拠が整合するか不整合かをマトリックス形式で可視化するという方法です」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「戦前の日本海軍において、極めて先駆的な情報分析の方法論が存在していました」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「戦略教官として海軍大学校で教鞭をとった彼は、情報をいかにして戦略判断に結びつけるかについて、自らの方法論を「合理的敵情判断ノ方法」として体系化しました」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「髙橋(2013)によると、井上の方法論は三つの側面から成り立っています」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「競合仮説分析（ACH）と井上成美の「合理的敵情判断ノ方法」は、一見するとまったく異なる時代と文化の産物です」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「いわば、ACHが「バイアスを排除する道具」だとすれば、井上の方法は「バイアスを含んだまま、それを飼い慣らす知恵」とも言えるかもしれません」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「これは「代表性ヒューリスティック」や「アンカリング」の典型例です」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「プロセスの最初のステップは可能性のあるすべての仮説を特定することです」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「ホイヤーによるとこのステップが最も重要になります」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+- 突き合わせ・推定：
+  - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学｜ホウリクス(Haurix)」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「現代CIA手法と日本の知の交差──競合仮説分析と井上情報論の比較」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「なかでも、米中央情報局（CIA）で生まれた「競合仮説分析（Analysis of Competing Hypotheses：ACH）」という手法は、情報分析の現場で数々の失敗を経たうえで開発されたものです」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「この手法は、複数の仮説を並列して検討し、それぞれに対して反証的な証拠をあてはめていくという、非常に構造的で理性的なアプローチを取ります」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「彼の方法論は、仮説や証拠の扱い方、直観と論理のバランスなど、現代の心理学や情報分析論とも通じるものがあります」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「たとえば「確証バイアス」は、ある仮説を立てたときに、それを裏付ける情報ばかりを重視し、反証となる情報に注意がいかなくなる傾向です」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「ある国家が攻撃してくるという仮説を一度信じると、その仮説を支持する証拠ばかりに注目してしまい、逆の証拠に対しては「特殊な事情による例外」として処理してしまう」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「このようなバイアスを克服するために、米中央情報局（CIA）の分析官であったリチャーズ・ホイヤーによって考案されたのが「競合仮説分析（ACH）」です」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「これは、ある問題について複数の仮説を意図的に設定し、それぞれの仮説に対して集められた証拠が整合するか不整合かをマトリックス形式で可視化するという方法です」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「この手法の背後にあるのは、「人間は仮説を支持する情報に注意が向きやすく、仮説を疑うという行為が極めて難しい」という認知心理学の知見です」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「競合仮説分析は、軍事や外交における戦略的判断の場面だけでなく、ビジネスや医療など、判断の正確性が求められるあらゆる分野で活用可能なアプローチです」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「これはまさに、現代の構造的分析手法における仮説と証拠の対応関係を明示するプロセスと重なります」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「資料に込められた意味を兵術的知識をもとに読み解き、仮説を立て、さまざまな組み合わせを試みる」（https://note.com/haurix/n/ncc5a33f069f9）
+- 一次情報の探し方：
+  - 「その領域にはデータマイニングや認知心理学、視覚化、確率と統計などを含みます」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「年功序列望む若手が増加？採用・定着を左右する「福利厚生」とは」（https://diamond.jp/articles/-/290369）
+  - 「インターネット上のウェブサイト、ソーシャルメディア、公的文書など、誰でもアクセス可能な情報源を活用して、必要な情報を体系的に収集・分析します」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
+  - 「仮説を1つずつ検討するのではなく、複数の仮説を同時に評価するプロセスを採用している点」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
+  - 「第二に、数字や統計です」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「数値化は有効な手段ですが、統計は操作可能であることを常に意識する必要があります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「第一次情報源とは、ある事象について最初に情報が発せられた出所を指します」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「第一次情報源から得られた情報を第一次情報と呼びます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「それに対して、第一次情報をもとに編集や解釈が加えられた情報は、数次情報と呼ばれ、一般にはまとめて第二次情報として扱われます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「一般に、第一次情報とは「本人が直接見たもの、聞いたもの」だと言われます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「この説明だけを見ると、第一次情報を得るには、現場に行ったり、当事者に話を聞いたりする必要があるように思えます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「第一次情報か第二次情報かは、情報がどれだけ加工されているかという「距離」の問題です」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「公開情報であっても、加工されていない原資料に当たれば、それは第一次情報に近いオシントになります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「つまり、第一次情報＝ヒューミント、オシント＝第二次情報、という対応関係が成り立つわけではありません」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「たとえば、新聞記事は記者の判断や編集が加えられた二次情報ですが、記者会見の全文記録、公式声明文、統計の原表などは、公開情報でありながら第一次情報源に位置づけることができます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+- 失敗・落とし穴：
+  - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学｜ホウリクス(Haurix)」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「それを紹介・分析した論文 (髙橋, 2013) に依拠しながら、このnoteでは、これらの手法を通じて「人がなぜ誤るのか」「どのようにすればバイアスに気づけるのか」について検討します」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「認知バイアスの仕組みに関心がある方、よりよい判断を目指したい方にとって、多くの示唆を得られる内容になっています」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「なぜ“賢い人”ほど誤るのか──バイアスが仕掛ける思考の罠」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「インテリジェンス失敗の構造──情報分析を歪める認知バイアスとは」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「あなたの判断も歪んでいる？──日常に潜む認知バイアスを見つめる」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「こうした「思考のクセ」、すなわち認知バイアスの存在は、日常生活だけでなく、企業経営、政策決定、国家の安全保障にまで影響を与えるのです」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「近年、こうしたバイアスの影響を軽減しようとする試みが注目を集めています」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「なかでも、米中央情報局（CIA）で生まれた「競合仮説分析（Analysis of Competing Hypotheses：ACH）」という手法は、情報分析の現場で数々の失敗を経たうえで開発されたものです」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「「インテリジェンスの歴史は、失敗の歴史でもある」と言われることがあります」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「こうした失敗が繰り返される背景には、構造的な問題だけでなく、人間の「認知のクセ」、すなわち認知バイアスの影響があることが指摘されています」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「たとえば「確証バイアス」は、ある仮説を立てたときに、それを裏付ける情報ばかりを重視し、反証となる情報に注意がいかなくなる傾向です」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「このようなバイアスを克服するために、米中央情報局（CIA）の分析官であったリチャーズ・ホイヤーによって考案されたのが「競合仮説分析（ACH）」です」（https://note.com/haurix/n/ncc5a33f069f9）
+- 実例：
+  - 「「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「専門的な知識がなくても理解できるように、実例や具体的な理論を交えて丁寧に解説していきますので、どうぞ最後までお付き合いください」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「これらはすべて、国家レベルでの情報分析が重大な判断ミスを犯した事例として知られています」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「アナリストは調査結果を確認し、ギャップを特定し、残りの仮説をできるだけ多く否定するために必要な追加の証拠を収集します」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「ACH分析の結果自体が、アナリスト自身の判断を覆すべきではありません」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「アナリストは感度分析を使用して結果をテストします」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「スパイがどのように情報を収集し、分析し、活用しているのか？ そのテクニックをかつての実例を深堀りしながら「10のレッスン」として解説している」（https://diamond.jp/articles/-/290369）
+  - 「たとえば、証拠を検証した結果、サイバー攻撃の背後にいるのは、敵対する国の諜報機関ではなく犯罪グループである可能性が高いということになるかもしれない」（https://diamond.jp/articles/-/290369）
+  - 「1000回、1万回振って同じような結果になるなら、サイコロが疑わしいという結論が正しい可能性はより高まる」（https://diamond.jp/articles/-/290369）
+  - 「仮説（サイコロは適正である）と、別の仮説（サイコロは6の目が出るように細工されている）の結果を比べたデータ分析によって、サイコロは適正でないという仮説を信じるのは理にかなっている」（https://diamond.jp/articles/-/290369）
+  - 「また、観察したデータと比較できる理想的な結果（たとえば適正なサイコロの特徴）を事前に、あるいは原則から知ることもできない」（https://diamond.jp/articles/-/290369）
+  - 「4. ACH結果」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
+  - 「今回は身近な題材を使ってCopilotによるACHの結果を観察してみた」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
+  - 「ACHの分析内容も、概ね意図したとおりの結果だった」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
+  - 「例えば、「調査中のAPTは中国のグループだ」という仮説を立てた場合、その仮説を裏付ける情報ばかりを重視し、反証となりうる情報を無意識的に無視してしまったりするのがこの例」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
+- 検索結果の抜粋：
+  - 「競合する仮説の分析｜幻想の近現代 - note（ノート） — 「競合する仮説の分析」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたと ...」（https://note.com/ia_wake/n/ne7dcc8132cdf）

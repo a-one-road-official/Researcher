@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・48品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・51品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -2764,3 +2764,147 @@
 - 生産能力・設備：記載なし（読んだ45頁・検索15回）
 - 10年推移：記載なし（読んだ45頁・検索15回）
 - 人手と仕事の差：記載なし（読んだ45頁・検索15回）
+
+## 法人企業統計 製造業 資本金階級別 従業員1人当たり付加価値・売上高の推移（規模別の全国の2本目・4-31）（Financial Statements Statistics of Corporations manufacturing value added per employee by capital size Japan time series）
+- 文脈：全体・規模別・一次
+- 10年推移：
+  - 「Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 183」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「the Ministry of Finance. In the FY2015 survey, proﬁt distributions to which large ﬁrms」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 185」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「4 Ito, Dejima and Kinoshita (2015) uses data from the Basic Survey of Japanese Business Structure」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 187」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「times price, p (Arai 2006). “Analysis of the Labor Economy 2015” outlines Japan’s situation」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「net income (2011 - 2015). Strictly speaking, ﬁrms do not pay dividends only from the net」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「In 2015, according to the Financial Statements Statistics of Corporations by Industry, out」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 189」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「sample survey conducted by Ministry of Finance and in 2015 about 29,000 ﬁrms responded.」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 191」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 193」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 195」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「earnings than returns for shareholders. Also, Takada (2015) shows that there are differences」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+  - 「Policy Research Institute, Ministry of Finance, Japan, Public Policy Review, Vol.13, No.2, October 2017 197」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf）
+- 事業所数・社数：記載なし（読んだ23頁・検索15回）
+- 社員数・平均社員数：記載なし（読んだ23頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ23頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ23頁・検索15回）
+- 生産能力・設備：記載なし（読んだ23頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ23頁・検索15回）
+
+## 工業統計 全国 産業細分類×従業者規模 同じ規模区分の年次（2014・2019・2020の全数年・規模の内側の向き・4-31）（Census of Manufacture Japan by detailed industry and employee size class national 2014 2019 2020）
+- 文脈：全体・規模別・一次
+- 10年推移：
+  - 「THE MOTOR INDUSTRY OF JAPAN 2025」（https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf）
+  - 「Notes: 1. Data through 2020 includes shipments from all manufacturing operations with four or more employees. 2. Compilation of data on production in value terms was discontinued in 1996 and replaced」（https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf）
+  - 「˔SHIPMENTS OF MAJOR MANUFACTURING SECTORS IN VALUE TERMS, 1975-2023 x 100 million yen」（https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf）
+  - 「ɹSECTORS IN VALUE TERMS (2023)」（https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf）
+  - 「ɹMANUFACTURING SECTORS (FY 2024)」（https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf）
+  - 「trillion yen in 2023, up 14% from the previous year, accounting for 19.2% of the total value of Japan’s manufacturing shipments」（https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf）
+  - 「in 2024 totalled 1.6 trillion yen and its research and development expenditures stood at 4.3 trillion yen in 2023; those figures」（https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf）
+  - 「motor vehicle exports in value terms amounting to 22.5 trillion yen in 2024 and auto-related employment in Japan totalling 5.59」（https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf）
+  - 「ɹMANUFACTURING SECTORS, 2015-2024」（https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf）
+  - 「20242016 2017 2018 2019 2020 2021 2022 2023」（https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf）
+  - 「Sources for data in above charts: 2024 Economic Census for Business Activity, Ministry of Economy, Trade and Industry, Ministry of Internal Affairs and Communications;」（https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf）
+  - 「2022 20232015 2016 2017 2018 2019 2020 2021」（https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf）
+  - 「ɹMANUFACTURING SECTORS (FY 2023)」（https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf）
+  - 「ɹMANUFACTURING SECTORS, 2014-2023」（https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf）
+  - 「20232015 2016 2017 2018 2019 2020 2021 2022」（https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf）
+- 事業所数・社数：記載なし（読んだ37頁・検索15回）
+- 社員数・平均社員数：記載なし（読んだ37頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ37頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ37頁・検索15回）
+- 生産能力・設備：記載なし（読んだ37頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ37頁・検索15回）
+
+## 金属製品の塗装・表面処理の受託（工業統計の細分類・事業所数・従業者数・加工賃）（Japan metal product painting coating contract processing establishments employees）
+- 文脈：工法・塗装
+- 事業所数・社数：
+  - 「事業所数、従業者数＝翌年の6月1日現在 (日付の年の翌年)」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「(1) 事業所数は、平成 22年 12月 31日現在の数値です」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「○ 事業所数は、430 事業所で、前年と比べ 20 事業所の減少（増減率△4.4%）となりまし」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「事業所数 事業所 450 430 95.6 △20」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「表 3 長野県内の市町村別事業所数、従業者数、製造品等出荷額、粗付加価値額の順位」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「1 事業所数」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「事業所数は、430 事業所で、前年と比べ 20 事業所の減少（増減率△4.4%）となりまし」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「(1) 産業別事業所数（図 2）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「(2) 従業員規模別事業所数（表 4）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「従業者規模別では、4～29人が 343事業所 （構成比79.8%） 、30人以上が 87事業所 （構」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「(2) 従業者規模別従業者数（表 4）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「従業者規模別では、4～29人が 3,850人 （構成比22.9%） 、30人以上が 12,938人（同 77.1%）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「(2) 従業者規模別製造品出荷額（表 4）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「従業者規模別では、4～29 人が 508 億 6,188 万円（構成比 12.3%） 、30人以上が 3,638」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+- 社員数・平均社員数：
+  - 「1122_絹・人絹織物業」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「1142_絹・人絹織物機械染色業」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「1161_織物製成人男子・少年服製造業（不織布製及びレース製を含む）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「1162_織物製成人女子・少女服製造業（不織布製及びレース製を含む）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「2183_人工骨材製造業」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「3251_娯楽用具・がん具製造業（人形を除く）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「3252_人形製造業」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「ただし、従業者3人以下の事業所を除く」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「事業所数、従業者数＝翌年の6月1日現在 (日付の年の翌年)」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「Ⅰ 従 業 者4人以上の事業所の概要 ............................................................. 7」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「5 1 事業所当たり従業者数、製造品出荷額等及び粗付加価値額 ..........12」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「6 従 業 者1人当たりの製造品出荷額等及び粗付加価値額 ...................12」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「Ⅱ 従 業 者30人以上の事業所の概要 ..........................................................17」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+- 受注金額・加工賃収入：
+  - 「製造品出荷額などの経理事項＝1月～12月の実績 (日付の年のとおり)」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「3 製造品出荷額等 ............................................................................11」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「5 1 事業所当たり従業者数、製造品出荷額等及び粗付加価値額 ..........12」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「6 従 業 者1人当たりの製造品出荷額等及び粗付加価値額 ...................12」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「3 製造品出荷額等 ............................................................................17」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「4 生産額及び付加価値額 ..................................................................17」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「5 1 事業所当たり生産額及び付加価値額 ...........................................18」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「6 従 業 者1人当たり生産額及び付加価値額 .......................................19」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「(5) 製造品出荷額等は、平成 22 年 1 年間における製造品出荷額、加工賃収入額、製造」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「イ 加工賃収入額とは、平成 22年中に他企業の所有に属する主要原材料によって製」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「・ 粗付加価値額＝製造品出荷額等－（消費税を除く内国消費税額 *1+推計消費税額*2）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+- 1人あたり・1社あたり金額：
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「4 粗付加価値額 ................................................................................11」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「5 1 事業所当たり従業者数、製造品出荷額等及び粗付加価値額 ..........12」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「6 従 業 者1人当たりの製造品出荷額等及び粗付加価値額 ...................12」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「4 生産額及び付加価値額 ..................................................................17」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「5 1 事業所当たり生産額及び付加価値額 ...........................................18」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「6 従 業 者1人当たり生産額及び付加価値額 .......................................19」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「・ 粗付加価値額＝製造品出荷額等－（消費税を除く内国消費税額 *1+推計消費税額*2）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「(2) 金額表示の単位は万円とし、単位未満は四捨五入としています」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「○ 製造品出荷額等は、4,146 億 7,086万円で、前年に比べ 454億 2,192万円の増加」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「○ 原材料使用額等は、2,445 億 8,681万円で、前年に比べ 359億 8,037万円の増加」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「○ 粗付加価値額は、1,645 億 5,580 万円で、前年に比べ 93 億 358 万円の増加（同＋6.0%）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「○ 現金給与総額は、692 億 3,892 万円で、前年に比べ 5,621 万円の増加（同＋0.1%）とな」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「製造品出荷額等 万円 36,924,894 41,467,086 112.3 4,542,192」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+- 生産能力・設備：
+  - 「9 有形固定資産投資総額 ..................................................................19」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「(7) 有形固定資産の額は、 平成22年 1 年間における数値で、 帳簿価額によっています」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「9 有形固定資産投資総額（表 8、統計表冊子 第 7表）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「有形固定資産総額は、52億 8,922万円で、前年に比べ116 億 2,691万円の減少（増減率」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「産業別では、 有形固定資産投資総額の多い順に、電気 14億 4,616万円、輸送 11億 8,110」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「表 8 原材料使用額等、現金給与総額、有形固定資産投資総額（H21 年、H22年）」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「第7表 産業中分類別事業所数、現金給与総額、原材料使用額等、製造品出荷額等、在庫額、有形固定資産、リース金額、生産額、付加価値額、」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+- 10年推移：
+  - 「経済センサス活動調査・工業統計調査_2-01_産業細分類別_ 年次 2005年 – 2020年 (列 – 複数値形式) - データ製作所」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「2022年8月5日」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「経済センサス活動調査・工業統計調査_2-01_産業細分類別_ 年次 2005年 – 2020年 (列 – 複数値形式)」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「公開日 2022年8月5日」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「最終更新日 2023年1月6日」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「工業統計調査は2019年で終了したため、2020年は「経済センサス活動調査」の値を使用しています」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「2021_工業用革製品製造業（手袋を除く）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「調査対象数＝192,047事業所（2020年調査）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「回収率＝95.1％（2020年調査）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「2005年 – 2020年」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「2005年 – 2020年 月日の部分へすべて1月1日」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「工業統計調査_2-01_産業細分類別_ 年次 2005年 - 2019年 (列 - 複数値形式)」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「＞工業統計調査_2-01_産業細分類別_ 年次 2005年 - 2019年 (列 - 複数値形式)(https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/)...」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「経済センサス活動調査・工業統計調査_1-03_品目別_都道府県別_年次 2016年 – 2020年 (列指向形式)」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「イ 建設仮勘定の増加額とは、 この勘定の借方に加えられた額をいい、 減少額とは、」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+- 人手と仕事の差：
+  - 「用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額で、消費税」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「エ 製造等に関連する外注費とは、生産設備の保守・点検・修理、機械・装置の操作、」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「製品に組み込まれるソフトウェアの開発など、事業所収入に直接関連する外注費」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）
+  - 「外注費、転売」（https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf）

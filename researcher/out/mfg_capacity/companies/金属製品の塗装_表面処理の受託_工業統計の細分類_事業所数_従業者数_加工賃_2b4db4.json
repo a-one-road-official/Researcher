@@ -1,0 +1,1061 @@
+{
+ "name": "金属製品の塗装・表面処理の受託（工業統計の細分類・事業所数・従業者数・加工賃）",
+ "en": "Japan metal product painting coating contract processing establishments employees",
+ "aliases": [
+  "金属製品塗装業 事業所数 従業者数 工業統計",
+  "工業塗装 受託 業界団体 事業所 推移",
+  "電気めっき以外の金属表面処理業 事業所数 加工賃収入額"
+ ],
+ "context": "工法・塗装",
+ "kind": "market",
+ "researched_at": "2026-11-05T09:58:19.632954+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "事業所数、従業者数＝翌年の6月1日現在 (日付の年の翌年)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 事業所数は、平成 22年 12月 31日現在の数値です",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 事業所数は、430 事業所で、前年と比べ 20 事業所の減少（増減率△4.4%）となりまし",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 事業所 450 430 95.6 △20",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 3 長野県内の市町村別事業所数、従業者数、製造品等出荷額、粗付加価値額の順位",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 事業所数",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は、430 事業所で、前年と比べ 20 事業所の減少（増減率△4.4%）となりまし",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 産業別事業所数（図 2）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業員規模別事業所数（表 4）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別では、4～29人が 343事業所 （構成比79.8%） 、30人以上が 87事業所 （構",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者規模別従業者数（表 4）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別では、4～29人が 3,850人 （構成比22.9%） 、30人以上が 12,938人（同 77.1%）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者規模別製造品出荷額（表 4）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別では、4～29 人が 508 億 6,188 万円（構成比 12.3%） 、30人以上が 3,638",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者規模別現金給与総額及び常用労働者 1 人当たり現金給与総額（表 4）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別では、4～29人が 120 億 8,392万円（構成比 17.5%、増減率△1.2%） 、30",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 4 従業者規模別事業所数、従業者数、製造品出荷額等、現金給与総額",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "1122_絹・人絹織物業",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "1142_絹・人絹織物機械染色業",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "1161_織物製成人男子・少年服製造業（不織布製及びレース製を含む）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "1162_織物製成人女子・少女服製造業（不織布製及びレース製を含む）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2183_人工骨材製造業",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "3251_娯楽用具・がん具製造業（人形を除く）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "3252_人形製造業",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、従業者3人以下の事業所を除く",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数＝翌年の6月1日現在 (日付の年の翌年)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ 従 業 者4人以上の事業所の概要 ............................................................. 7",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5 1 事業所当たり従業者数、製造品出荷額等及び粗付加価値額 ..........12",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 従 業 者1人当たりの製造品出荷額等及び粗付加価値額 ...................12",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅱ 従 業 者30人以上の事業所の概要 ..........................................................17",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 従 業 者1人当たり生産額及び付加価値額 .......................................19",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "者 3 人以下の事業所を除く）です",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査は、従業員 30人以上の事業所（製造、加工又は修理を行っていない本",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社又は本店を除く）については「工業調査票甲」 、従業者29 人以下の事業所（製造、",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者数は、平成 22年 12月 31日現在の数値です",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウ 臨時雇用者とは、常用労働者以外の雇用者で、1 か月以内の期間を定めて雇用さ",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 現金給与総額は、 平成22年 1年間に常用労働者のうち雇用者 （ 「正社員、 正職員等」",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＋（半製品及び仕掛品年末価額－半製品及び仕掛品年初価額） （従業者30人以上の事業所）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ 従業者 4人以上の事業所の概要（表 1）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "製造品出荷額などの経理事項＝1月～12月の実績 (日付の年のとおり)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "3 製造品出荷額等 ............................................................................11",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5 1 事業所当たり従業者数、製造品出荷額等及び粗付加価値額 ..........12",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 従 業 者1人当たりの製造品出荷額等及び粗付加価値額 ...................12",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 製造品出荷額等 ............................................................................17",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 生産額及び付加価値額 ..................................................................17",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5 1 事業所当たり生産額及び付加価値額 ...........................................18",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 従 業 者1人当たり生産額及び付加価値額 .......................................19",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 製造品出荷額等は、平成 22 年 1 年間における製造品出荷額、加工賃収入額、製造",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 加工賃収入額とは、平成 22年中に他企業の所有に属する主要原材料によって製",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 粗付加価値額＝製造品出荷額等－（消費税を除く内国消費税額 *1+推計消費税額*2）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "4 粗付加価値額 ................................................................................11",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5 1 事業所当たり従業者数、製造品出荷額等及び粗付加価値額 ..........12",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 従 業 者1人当たりの製造品出荷額等及び粗付加価値額 ...................12",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 生産額及び付加価値額 ..................................................................17",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5 1 事業所当たり生産額及び付加価値額 ...........................................18",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 従 業 者1人当たり生産額及び付加価値額 .......................................19",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 粗付加価値額＝製造品出荷額等－（消費税を除く内国消費税額 *1+推計消費税額*2）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 金額表示の単位は万円とし、単位未満は四捨五入としています",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 製造品出荷額等は、4,146 億 7,086万円で、前年に比べ 454億 2,192万円の増加",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 原材料使用額等は、2,445 億 8,681万円で、前年に比べ 359億 8,037万円の増加",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 粗付加価値額は、1,645 億 5,580 万円で、前年に比べ 93 億 358 万円の増加（同＋6.0%）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 現金給与総額は、692 億 3,892 万円で、前年に比べ 5,621 万円の増加（同＋0.1%）とな",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等 万円 36,924,894 41,467,086 112.3 4,542,192",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "原材料使用額等 万円 20,860,644 24,458,681 117.2 3,598,037",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粗付加価値額 万円 15,525,222 16,455,580 106.0 930,358",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現金給与総額 万円 6,918,271 6,923,892 100.1 5,621",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "経済センサス活動調査・工業統計調査_2-01_産業細分類別_ 年次 2005年 – 2020年 (列 – 複数値形式) - データ製作所",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年8月5日",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査・工業統計調査_2-01_産業細分類別_ 年次 2005年 – 2020年 (列 – 複数値形式)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "公開日 2022年8月5日",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日 2023年1月6日",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査は2019年で終了したため、2020年は「経済センサス活動調査」の値を使用しています",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2021_工業用革製品製造業（手袋を除く）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数＝192,047事業所（2020年調査）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "回収率＝95.1％（2020年調査）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2005年 – 2020年",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2005年 – 2020年 月日の部分へすべて1月1日",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査_2-01_産業細分類別_ 年次 2005年 - 2019年 (列 - 複数値形式)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "＞工業統計調査_2-01_産業細分類別_ 年次 2005年 - 2019年 (列 - 複数値形式)(https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/)...",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査・工業統計調査_1-03_品目別_都道府県別_年次 2016年 – 2020年 (列指向形式)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "イ 建設仮勘定の増加額とは、 この勘定の借方に加えられた額をいい、 減少額とは、",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 事業所数は、430 事業所で、前年と比べ 20 事業所の減少（増減率△4.4%）となりまし",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 従業者数は、16,788 人で、前年に比べ 44人の増加（同＋0.3%）となりました",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 製造品出荷額等は、4,146 億 7,086万円で、前年に比べ 454億 2,192万円の増加",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 原材料使用額等は、2,445 億 8,681万円で、前年に比べ 359億 8,037万円の増加",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 粗付加価値額は、1,645 億 5,580 万円で、前年に比べ 93 億 358 万円の増加（同＋6.0%）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 現金給与総額は、692 億 3,892 万円で、前年に比べ 5,621 万円の増加（同＋0.1%）とな",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 1 上田市の工業の推移（平成 12、13年を 100とした場合）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "項目 単位 平成21年 平成22年 前年比 増減数",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は、430 事業所で、前年と比べ 20 事業所の減少（増減率△4.4%）となりまし",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数は、16,788人で前年に比べ 44人の増加（増減率＋0.3%）となりました",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は 4,146億 7,086万円で、前年に比べ 454 億 2,192万円の増加",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "645億 5,580万円で前年に比べ 93億 358万円の増加 （増減率＋6.0%）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１事業所当たり従業者数は、39.0人で、前年に比べ 1.8人の増加（増減率＋4.8%）と",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の増加（増減率＋17.5%）となりました",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 事業所当たりの粗付加価値額は、3 億 8,269 万円で、前年に比べ 3,769 万円の 増加",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者 1人当たりの製造品出荷額等は、2,470万円で、 前年に比べ265万円の増加（増",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者 1 人当たりの粗付加価値額は、980万円で前年に比べ 53 万円の増加（増減率",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Statistics Bureau Home Page/Industrial Classification used in the 2016 Economic Census for Business Activity",
+    "url": "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Classification used in the 2016 Economic Census for Business Activity",
+    "url": "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021 Mechanical and industrial leather products, except gloves and mittens",
+    "url": "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "©1996 Statistics Bureau, Ministry of Internal Affairs and Communications (JCN2000012020001)",
+    "url": "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "9 有形固定資産投資総額 ..................................................................19",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(7) 有形固定資産の額は、 平成22年 1 年間における数値で、 帳簿価額によっています",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9 有形固定資産投資総額（表 8、統計表冊子 第 7表）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産総額は、52億 8,922万円で、前年に比べ116 億 2,691万円の減少（増減率",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業別では、 有形固定資産投資総額の多い順に、電気 14億 4,616万円、輸送 11億 8,110",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 8 原材料使用額等、現金給与総額、有形固定資産投資総額（H21 年、H22年）",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第7表 産業中分類別事業所数、現金給与総額、原材料使用額等、製造品出荷額等、在庫額、有形固定資産、リース金額、生産額、付加価値額、",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額で、消費税",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "エ 製造等に関連する外注費とは、生産設備の保守・点検・修理、機械・装置の操作、",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製品に組み込まれるソフトウェアの開発など、事業所収入に直接関連する外注費",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外注費、転売",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/07-060/documents/riyou_2023kkj_shizu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&page=1&statdisp_id=0003448106&tclass1=000001022790&tclass2=000001156946&tclass3val=0&toukei=00550010&toukei_kind=6&tstat=000001022686",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.naruto.lg.jp/docs/2025061000064/file_contents/2025061000064__files_00624220_h033_h034.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/04/2461",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou26-1_d/fil/14-fukuikennokougyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/uploaded/attachment/8134.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/03/2461",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2024/pdf/sanngyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kantoko.com/blog/2025/09/90946/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.komae.tokyo.jp/index.cfm/46,79208,c,html/79208/1kougyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.nishitokyo.lg.jp/siseizyoho/tokei/toukeisyo/R5toukeinishitokyo.files/4-4kougyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/654192.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2013/03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=1&toukei=00200553&statdisp_id=0003395332",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/sei/kinzoku/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.komae.tokyo.jp/index.cfm/46,124876,c,html/124876/4-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkakyo.org/system/files/files%20%286%29_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/sei/kinzoku/result-2.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/paint-coating-market/japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coatingsworld.com/the-coating-industry-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/trending-report-japan-metal-coatings-market-global-rp87f",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thefabricator.com/thefabricator/article/shopmanagement/metal-fabrication-in-japan-technology-and-data-for-a-comfortable-day",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-japan_b825563e-en/full-report/ai-use-in-the-japanese-workplace_faf178d2.html",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属製品の塗装・表面処理の受託（工業統計の細分類・事業所数・従業者数・加工賃）",
+   "results": [
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/documents/riyou_2023kkj_shizu.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&page=1&statdisp_id=0003448106&tclass1=000001022790&tclass2=000001156946&tclass3val=0&toukei=00550010&toukei_kind=6&tstat=000001022686",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2014/01.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?query=産業分類+6322&layout=dataset&statdisp_id=0004068329"
+   ]
+  },
+  {
+   "query": "金属製品の塗装・表面処理の受託（工業統計の細分類・事業所数・従業者数・加工賃） 推移",
+   "results": [
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.city.naruto.lg.jp/docs/2025061000064/file_contents/2025061000064__files_00624220_h033_h034.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2461"
+   ]
+  },
+  {
+   "query": "金属製品の塗装・表面処理の受託（工業統計の細分類・事業所数・従業者数・加工賃） 統計 PDF",
+   "results": [
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/documents/riyou_2023kkj_shizu.pdf",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou26-1_d/fil/14-fukuikennokougyo.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/8134.pdf",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2461"
+   ]
+  },
+  {
+   "query": "金属製品の塗装・表面処理の受託（工業統計の細分類・事業所数・従業者数・加工賃） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/documents/riyou_2023kkj_shizu.pdf",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://kantoko.com/blog/2025/09/90946/"
+   ]
+  },
+  {
+   "query": "金属製品の塗装・表面処理の受託（工業統計の細分類・事業所数・従業者数・加工賃） 従業者規模別",
+   "results": [
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,79208,c,html/79208/1kougyou.pdf",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.city.nishitokyo.lg.jp/siseizyoho/tokei/toukeisyo/R5toukeinishitokyo.files/4-4kougyou.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf"
+   ]
+  },
+  {
+   "query": "金属製品の塗装・表面処理の受託（工業統計の細分類・事業所数・従業者数・加工賃） 1人当たり 万円",
+   "results": [
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.pref.fukushima.lg.jp/uploaded/attachment/654192.pdf",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2013/03.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=1&toukei=00200553&statdisp_id=0003395332",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2461"
+   ]
+  },
+  {
+   "query": "金属製品の塗装・表面処理の受託（工業統計の細分類・事業所数・従業者数・加工賃） 2015 2025",
+   "results": [
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,124876,c,html/124876/4-1.pdf",
+    "https://www.nikkakyo.org/system/files/files%20%286%29_1.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2461"
+   ]
+  },
+  {
+   "query": "Japan metal product painting coating contract processing establishments employees Japan statistics",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/geography/paint-coating-market/japan",
+    "https://www.coatingsworld.com/the-coating-industry-in-japan/",
+    "https://www.linkedin.com/pulse/trending-report-japan-metal-coatings-market-global-rp87f",
+    "https://www.thefabricator.com/thefabricator/article/shopmanagement/metal-fabrication-in-japan-technology-and-data-for-a-comfortable-day",
+    "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-japan_b825563e-en/full-report/ai-use-in-the-japanese-workplace_faf178d2.html",
+    "https://www.imarcgroup.com/japan-anti-corrosion-coatings-market-statistics",
+    "https://www.nipponpaint-holdings.com/en/company/asset/asset_japan/",
+    "https://www.paint.org/wp-content/uploads/dlm_uploads/2023/04/Economic-April-2023.pdf",
+    "https://www.e-stat.go.jp/en/stat-search/database?statdisp_id=0004040076"
+   ]
+  },
+  {
+   "query": "site:note.com 金属製品の塗装・表面処理の受託（工業統計の細分類・事業所数・従業者数・加工賃）",
+   "results": [
+    "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "https://note.com/manav_/n/ndae2cdc06cfe",
+    "https://note.com/lucid_lotus6287/n/nf781b769b137",
+    "https://note.com/kaisyakachitrend/n/ned058e083914",
+    "https://note.com/andy868/n/n797d2f8be589",
+    "https://note.com/firealnote/n/naa91dcdb0c7b",
+    "https://note.com/shirase_kankyo/n/n4349a50c412c"
+   ]
+  },
+  {
+   "query": "site:x.com 金属製品の塗装・表面処理の受託（工業統計の細分類・事業所数・従業者数・加工賃）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2099870031811322199",
+    "https://x.com/metaltechjapan",
+    "https://x.com/soudosha_consul/status/2087810283805045073",
+    "https://x.com/OgawaSeisakusho/status/2110533866247336076",
+    "https://x.com/ChemStat66667/status/2053067707487072673",
+    "https://x.com/masashi_i/status/2084834106253472010",
+    "https://x.com/OgawaSeisakusho/status/2102560195989901604"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金属製品の塗装・表面処理の受託（工業統計の細分類・事業所数・従業者数・加工賃）",
+   "results": [
+    "https://www.linkedin.com/in/everettstern",
+    "https://jp.linkedin.com/learning/what-is-stp-strategy",
+    "https://jp.linkedin.com/pulse/アルト-スウププルイエス市場の最新動向主要企業市場細分化と将来展望2026年版-wmayf",
+    "https://jp.linkedin.com/posts/tony-huang-b48512166_黒染めとパーカー処理の違いとは専門家が解説する金属表面処理の真実-activity-7340975212110233600-9Kfw",
+    "https://www.linkedin.com/posts/the-manila-times_castel-gandolfo-italy-pope-leo-xiv-on-activity-7500954068484431872-UoER",
+    "https://jp.linkedin.com/jobs/統計処理担当-jobs"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金属製品の塗装・表面処理の受託（工業統計の細分類・事業所数・従業者数・加工賃）",
+   "results": [
+    "https://www.facebook.com/yamakintoso/",
+    "https://www.facebook.com/nihondento/",
+    "https://www.facebook.com/p/いわて塗装技術研究会-100064593673931/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査集計結果-茨城県概要2024年６月１日現在で実施した2024年経済構造実態調査製造業事業所調査集計結果の概要を９月２日/1209595741213116/",
+    "https://www.facebook.com/p/株式会社高田金属塗装工業-100057268637372/",
+    "https://www.facebook.com/horei.gis/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1653107256686060/",
+    "https://www.facebook.com/nihon.horei/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1585815203548328/"
+   ]
+  },
+  {
+   "query": "金属製品の塗装・表面処理の受託（工業統計の細分類・事業所数・従業者数・加工賃） note 社長",
+   "results": [
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "https://www.pref.kanagawa.jp/documents/1090/29kekka_2.pdf",
+    "https://www.city.yonezawa.yamagata.jp/material/files/group/7/R2hyoushishikumi.pdf",
+    "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,124876,c,html/124876/4-1.pdf",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2461"
+   ]
+  },
+  {
+   "query": "金属製品の塗装・表面処理の受託（工業統計の細分類・事業所数・従業者数・加工賃） X 投稿",
+   "results": [
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,124876,c,html/124876/4-1.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&tclass4val=0&layout=datalist&statdisp_id=0004005647",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.stat.go.jp/info/kenkyu/e-census/katsuken/pdf/2021kk020200.pdf",
+    "https://kantoko.com/blog/2025/09/90946/",
+    "https://toryo.or.jp/jp/data/index.html",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2461"
+   ]
+  },
+  {
+   "query": "Japan metal product painting coating contract processing establishments employees site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/special-products-&-mfg.-inc.",
+    "https://www.linkedin.com/company/bluescope-coated-products",
+    "https://www.linkedin.com/company/mccainmfg",
+    "https://www.linkedin.com/posts/universal-metal-coating-company_steel-galvanized-prepainted-activity-7360958230795087874-4SWO",
+    "https://www.linkedin.com/company/prince-manufacturing",
+    "https://www.linkedin.com/company/cerakote",
+    "https://www.linkedin.com/showcase/sherwin-williams-general-industrial-coatings/",
+    "https://www.linkedin.com/company/northstar-metal-products-inc",
+    "https://www.linkedin.com/company/kapco-metal-stamping",
+    "https://www.linkedin.com/company/hentzen-coatings"
+   ]
+  }
+ ],
+ "missing": {}
+}

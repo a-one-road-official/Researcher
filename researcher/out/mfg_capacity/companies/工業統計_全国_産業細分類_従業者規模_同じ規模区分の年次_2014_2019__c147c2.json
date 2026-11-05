@@ -1,0 +1,516 @@
+{
+ "name": "工業統計 全国 産業細分類×従業者規模 同じ規模区分の年次（2014・2019・2020の全数年・規模の内側の向き・4-31）",
+ "en": "Census of Manufacture Japan by detailed industry and employee size class national 2014 2019 2020",
+ "aliases": [
+  "工業統計調査 確報 産業編 産業細分類別 従業者規模別 加工賃収入額 xlsx",
+  "工業統計表 産業別統計表 従業者規模別 全国 2019年 2014年",
+  "site:meti.go.jp 工業統計 従業者規模別 産業細分類 確報 時系列"
+ ],
+ "context": "全体・規模別・一次",
+ "kind": "market",
+ "researched_at": "2026-11-05T09:58:24.277616+00:00",
+ "evidence": {
+  "10年推移": [
+   {
+    "quote": "THE MOTOR INDUSTRY OF JAPAN 2025",
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Notes: 1. Data through 2020 includes shipments from all manufacturing operations with four or more employees. 2. Compilation of data on production in value terms was discontinued in 1996 and replaced",
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "˔\u0001SHIPMENTS OF MAJOR MANUFACTURING SECTORS IN VALUE TERMS, 1975-2023 x 100 million yen",
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ɹ\u0001SECTORS IN VALUE TERMS (2023)",
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ɹ\u0001MANUFACTURING SECTORS (FY 2024)",
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "trillion yen in 2023, up 14% from the previous year, accounting for 19.2% of the total value of Japan’s manufacturing shipments",
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "in 2024 totalled 1.6 trillion yen and its research and development expenditures stood at 4.3 trillion yen in 2023; those figures",
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "motor vehicle exports in value terms amounting to 22.5 trillion yen in 2024 and auto-related employment in Japan totalling 5.59",
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ɹ\u0001MANUFACTURING SECTORS, 2015-2024",
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20242016 2017 2018 2019 2020 2021 2022 2023",
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Sources for data in above charts: 2024 Economic Census for Business Activity, Ministry of Economy, Trade and Industry, Ministry of Internal Affairs and Communications;",
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022 20232015 2016 2017 2018 2019 2020 2021",
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ɹ\u0001MANUFACTURING SECTORS (FY 2023)",
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ɹ\u0001MANUFACTURING SECTORS, 2014-2023",
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20232015 2016 2017 2018 2019 2020 2021 2022",
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Source for all statistical data on this page: The Summary Report on Trade of Japan (2024), Japan Tariff Association",
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ɹ\u0001(FOB) IN 2024 x 10 billion yen",
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024 Japan’s gross exports and imports increased from the previous year, by 6.2% and 2.1%, respectively. In value",
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.atsugi.kanagawa.jp/material/files/group/6/kougyousuii.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.niigata.lg.jp/site/tokei/2019kougyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc50/keisen/kako.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu/resource/1ffe8a52-b6c8-4c69-8926-a4582a695b2c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei-r.co.jp/news/information/id7173",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hokkaido.lg.jp/ss/tuk/003ecc/2021-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.gunma.jp/gec/gec2022_k.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/kokusei/2020/summary.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rokugeisha.com/en/data-instruments/census-2020/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n6299bd0a6539?hl=en",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計 全国 産業細分類×従業者規模 同じ規模区分の年次（2014・2019・2020の全数年・規模の内側の向き・4-31）",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "https://www.city.atsugi.kanagawa.jp/material/files/group/6/kougyousuii.pdf",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu",
+    "https://www.pref.hokkaido.lg.jp/ss/tuk/003ecc/2021-1.html"
+   ]
+  },
+  {
+   "query": "工業統計 全国 産業細分類×従業者規模 同じ規模区分の年次（2014・2019・2020の全数年・規模の内側の向き・4-31） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.city.atsugi.kanagawa.jp/material/files/group/6/kougyousuii.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.pref.niigata.lg.jp/site/tokei/2019kougyou.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019-kogyo.html"
+   ]
+  },
+  {
+   "query": "工業統計 全国 産業細分類×従業者規模 同じ規模区分の年次（2014・2019・2020の全数年・規模の内側の向き・4-31） 統計 PDF",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.kanagawa.jp/docs/x6z/tc50/keisen/kako.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu/resource/1ffe8a52-b6c8-4c69-8926-a4582a695b2c",
+    "https://www.city.atsugi.kanagawa.jp/material/files/group/6/kougyousuii.pdf"
+   ]
+  },
+  {
+   "query": "工業統計 全国 産業細分類×従業者規模 同じ規模区分の年次（2014・2019・2020の全数年・規模の内側の向き・4-31） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/gaiyo.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf",
+    "https://www.nikkei-r.co.jp/news/information/id7173",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html"
+   ]
+  },
+  {
+   "query": "工業統計 全国 産業細分類×従業者規模 同じ規模区分の年次（2014・2019・2020の全数年・規模の内側の向き・4-31） 従業者規模別",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.pref.hokkaido.lg.jp/ss/tuk/003ecc/2021-1.html",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.city.atsugi.kanagawa.jp/material/files/group/6/kougyousuii.pdf"
+   ]
+  },
+  {
+   "query": "工業統計 全国 産業細分類×従業者規模 同じ規模区分の年次（2014・2019・2020の全数年・規模の内側の向き・4-31） 1人当たり 万円",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.pref.hokkaido.lg.jp/ss/tuk/003ecc/2021-1.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu/resource/1ffe8a52-b6c8-4c69-8926-a4582a695b2c",
+    "https://www.jagat.or.jp/archives/99010"
+   ]
+  },
+  {
+   "query": "工業統計 全国 産業細分類×従業者規模 同じ規模区分の年次（2014・2019・2020の全数年・規模の内側の向き・4-31） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200553&tstat=000001145590&cycle=0&tclass=000001134122",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.city.atsugi.kanagawa.jp/material/files/group/6/kougyousuii.pdf",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "https://toukei.pref.gunma.jp/gec/gec2022_k.html",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339"
+   ]
+  },
+  {
+   "query": "Census of Manufacture Japan by detailed industry and employee size class national 2014 2019 2020 Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.stat.go.jp/english/data/kokusei/2020/summary.html",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "https://www.rokugeisha.com/en/data-instruments/census-2020/",
+    "https://note.com/ogawa_tech/n/n6299bd0a6539?hl=en",
+    "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=dataset&data=1&metadata=1&cycle=0&toukei=00200552&tstat=000001072573&tclass1=000001074966&tclass2=000001077095&tclass3=000001077107&result_page=1&tclass4val=0&stat_infid=000031334482",
+    "https://data.worldbank.org/country/japan",
+    "https://www.jil.go.jp/english/lsj/general/2015-2016/2-4.pdf",
+    "https://globaledge.msu.edu/countries/japan/statistics"
+   ]
+  },
+  {
+   "query": "site:note.com 工業統計 全国 産業細分類×従業者規模 同じ規模区分の年次（2014・2019・2020の全数年・規模の内側の向き・4-31）",
+   "results": [
+    "https://note.com/chushohakusho/n/ne9c22decff6a",
+    "https://note.com/asagaya106/n/n7857b8a4fdf1",
+    "https://note.com/kens_reading1/n/n472aa64b72bc",
+    "https://note.com/sghr_tkn/n/n3fdd6b4b0a55",
+    "https://note.com/ogawa_tech/n/nb0d05b22a981",
+    "https://note.com/hitorikaisha/n/n42e0d148e277",
+    "https://note.com/hitorikaisha/n/n624859a8851e"
+   ]
+  },
+  {
+   "query": "site:x.com 工業統計 全国 産業細分類×従業者規模 同じ規模区分の年次（2014・2019・2020の全数年・規模の内側の向き・4-31）",
+   "results": [
+    "https://x.com/MKPSDX/status/2083533603208835165",
+    "https://x.com/OgawaSeisakusho/status/1800405469405876725",
+    "https://x.com/OgawaSeisakusho/status/1610079552700841984",
+    "https://x.com/OgawaSeisakusho/status/2065544435795177585",
+    "https://x.com/OgawaSeisakusho/status/2101871494855028939",
+    "https://x.com/OgawaSeisakusho/status/2090185196268405159",
+    "https://x.com/head_s/status/2107639123075072355"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 工業統計 全国 産業細分類×従業者規模 同じ規模区分の年次（2014・2019・2020の全数年・規模の内側の向き・4-31）",
+   "results": [
+    "https://www.linkedin.com/pulse/linkedin-hashtags-complete-guide-kumar-dmexpert-lgwuc",
+    "https://jp.linkedin.com/pulse/年齢あるいは年次このやっかいなもの-takatsugu-suzuki",
+    "https://jp.linkedin.com/posts/amane-shumiya_ビザ申請のカテゴリーってなに③-実は会社の規模では決まらない-activity-7450308831160573952-yRJJ",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7388892265093644288/",
+    "https://jp.linkedin.com/posts/tetsuro-yoshimura-a3045a134_多機能型生活介護定員を一つの数字で扱わない-2024年5月10日の厚生労働省-activity-7506868899628457985-bo8J",
+    "https://jp.linkedin.com/pulse/2026年から2033年にかけて86のcagrが見込まれる市場規模に関する情報および年次予測を含む工業用食品および飲料ろ-7500937266635300864-2kbnf",
+    "https://jp.linkedin.com/posts/英俊-林-8a83b118_2025年度-第66回-全国ｉｅ年次大会中部インダストリアルエンジニアリング協会-activity-7350349348515303424-kA1q"
+   ]
+  },
+  {
+   "query": "site:facebook.com 工業統計 全国 産業細分類×従業者規模 同じ規模区分の年次（2014・2019・2020の全数年・規模の内側の向き・4-31）",
+   "results": [
+    "https://www.facebook.com/jiie.information/posts/-２０１４日本ｉｅ協会年次大会のご案内-912金まで早期申込割引実施中-未来を創る力-飛躍するｉｅ活動-多様化する時代に求められる価値創造-１０月１５日水開催-/669624569800778/",
+    "https://www.facebook.com/takuo.toda/posts/部品製造業は今は2019年と同じ在庫調整期間に入っていると思われますこの時期にキャステムグループはベトナム工場立ち上げと国内のdxを大きく推進していきます総投資/6459549350799845/",
+    "https://www.facebook.com/kyushuseisanseidaigaku/posts/いよいよ始動全国から製造業の方が一堂に会する全国ｉｅ年次大会が来年2026年７月に福岡国際会議場で開催されます九州ｉｅ協会は大会大成功に向けて大事な大会テーマ大/1212944754207755/",
+    "https://www.facebook.com/tsrnet/photos/tsrデータインサイト登記上の本社同一地の最多は4535社-代表ひとりが兼任する企業の最多は628社2024年法人登記多数住所動向調査全国で同じ住所に法人登記さ/1292356845401082/",
+    "https://www.facebook.com/superkyokai/posts/全国スーパーマーケット協会日本スーパーマーケット協会オール日本スーパーマーケット協会のスーパーマーケット業界三団体合同で実施公表しておりますスーパーマーケット年/1656928438863578/",
+    "https://www.facebook.com/CSISut/posts/共同研究利用システムjorasに大型小売店ポイントデータ全国2016年2018年2020年2022年が追加されました店舗名業態区分などのポイント型のデータですぜ/1370123371577726/",
+    "https://www.facebook.com/superkyokai/photos/トレードショーにて配布いたしました2026年版スーパーマーケット白書のデータをwebで公開しました当協会webサイトよりpdfを無料でダウンロードいただけます今/1763891471500607/"
+   ]
+  },
+  {
+   "query": "工業統計 全国 産業細分類×従業者規模 同じ規模区分の年次（2014・2019・2020の全数年・規模の内側の向き・4-31） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "https://www.pref.niigata.lg.jp/site/tokei/r3-seizougyo.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,124876,c,html/124876/4-1.pdf"
+   ]
+  },
+  {
+   "query": "工業統計 全国 産業細分類×従業者規模 同じ規模区分の年次（2014・2019・2020の全数年・規模の内側の向き・4-31） X 投稿",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "https://www.city.atsugi.kanagawa.jp/material/files/group/6/kougyousuii.pdf",
+    "https://www.pref.hokkaido.lg.jp/ss/tuk/003ecc/2021-1.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/sangyouchuubunruibetsujigyoushosuujuugyoushasuu/resource/1ffe8a52-b6c8-4c69-8926-a4582a695b2c",
+    "http://sentence.co.jp/2019/03/06/%E7%B5%8C%E6%B8%88%E7%94%A3%E6%A5%AD%E7%9C%81%E3%81%8C%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%80%8C%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB%E3%80%8D%E3%81%AE%E8%AA%BF/"
+   ]
+  },
+  {
+   "query": "Census of Manufacture Japan by detailed industry and employee size class national 2014 2019 2020 site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/emilylwiley",
+    "https://www.linkedin.com/in/steven-jost-3b879b2b",
+    "https://www.linkedin.com/in/deborah-stempowski-pmp-a7812833",
+    "https://www.linkedin.com/in/melissa-cidade",
+    "https://www.linkedin.com/in/luke-e-keller",
+    "https://www.linkedin.com/in/nateclayberg",
+    "https://www.linkedin.com/in/sudipbhattacharjee",
+    "https://www.linkedin.com/in/justin-kurz",
+    "https://www.linkedin.com/in/curtiss-chapman",
+    "https://www.linkedin.com/in/taylorjameswilson"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ37頁・検索15回）",
+  "社員数・平均社員数": "記載なし（読んだ37頁・検索15回）",
+  "受注金額・加工賃収入": "記載なし（読んだ37頁・検索15回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ37頁・検索15回）",
+  "生産能力・設備": "記載なし（読んだ37頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ37頁・検索15回）"
+ }
+}
