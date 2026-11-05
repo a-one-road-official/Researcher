@@ -82,8 +82,11 @@ OKUMAN = re.compile(r"(\d{1,3}(?:,\d{3})+|\d+)\s*億\s*(\d{1,3}(?:,\d{3})+|\d+)\
 OKUHYAKU = re.compile(r"(\d{1,3}(?:,\d{3})+|\d+)\s*億\s*(\d+)\s*百万\s*円")
 # 2026-11-05：「1ドル約149円」の為替の換算レートを149円として拾った失敗から。換算レートの数字は外す
 FXRATE = re.compile(r"1\s*(ドル|米ドル|ユーロ|元|USD|EUR)\s*(=|＝|約|あたり|当たり)?\s*約?\s*\d+(\.\d+)?\s*円")
+# 2026-11-05 4-37 走査の失敗から：「11万8213人」の後ろの「8213人」だけが拾われ、金型製造業の従業員数が1991年 8,213人と1/14になった。万＋人・事業所・社・件も1つの値にまとめる
+MANCOUNT = re.compile(r"(\d{1,4})\s*万\s*(\d{1,3},\d{3}|\d{1,4})\s*(人|名|事業所|社|件|台)")
 def join_okuman(q):
     q = FXRATE.sub("", q)
+    q = MANCOUNT.sub(lambda m: f"{int(m.group(1)) * 10000 + int(m.group(2).replace(',', ''))}{m.group(3)}", q)
     q = OKUHYAKU.sub(lambda m: f"{int(m.group(1).replace(',', '')) * 10000 + int(m.group(2)) * 100}万円", q)
     return OKUMAN.sub(lambda m: f"{int(m.group(1).replace(',', '')) * 10000 + int(m.group(2).replace(',', ''))}万円", q)
 
@@ -192,10 +195,20 @@ def rows_for(topic):
 # 「出荷額上位9割の実測＋残りは伸び率で推計、1人以上全数を集計」に変わった（総務省・経産省 2021-03-24 資料）。2021年以前と2022年以降は同じ系列でつながない
 STATSRC = re.compile(r"(工業統計|経済構造実態調査|経済センサス|製造業事業所調査|e-stat|meti\.go\.jp/statistics)", re.I)
 BREAK_YEAR = 2022
-def split_trend(series):
-    a = {y: v for y, v in series.items() if y < BREAK_YEAR}; b = {y: v for y, v in series.items() if y >= BREAK_YEAR}
+def split_trend(series, year=BREAK_YEAR, label="工業統計→経済構造実態調査、対象範囲が変わった"):
+    a = {y: v for y, v in series.items() if y < year}; b = {y: v for y, v in series.items() if y >= year}
     if not a or not b: return ""
-    return f"⚠ 系列の切れ目（{BREAK_YEAR}年に工業統計→経済構造実態調査、対象範囲が変わった）：切れ目の前 {trend(a)}／後 {trend(b)}。前後をまたぐ向きは使わない"
+    return f"⚠ 系列の切れ目（{year}年に{label}）：切れ目の前 {trend(a)}／後 {trend(b)}。前後をまたぐ向きは使わない"
+# 2026-11-05 4-37：賃金構造基本統計調査は令和2年（2020年）に推計方法（復元倍率）・短時間労働者の対象・新規学卒者の把握を変えた（厚労省「遡及集計について」「利用上の注意」）。
+# 2019年以前の公表値と2020年以降を直接つながない。比べるなら厚労省の遡及集計（参考系列、平成18年〜令和元年）どうしで
+WAGESRC = re.compile(r"(賃金構造基本統計|賃金センサス|賃金構造)")
+WAGE_BREAK = 2020
+WAGE_RETRO = re.compile(r"(遡及|参考系列|特別集計)")
+# 2026-11-05 4-37：%どうしの差はポイント（Sarah Cohen "Danger! Numbers in the Newsroom"）。%の変化率と%ポイントの差を同じ欄で比べない
+PPOINT = re.compile(r"\d+(?:\.\d+)?\s*(ポイント|pt|%ポイント)", re.I)
+# 2026-11-05 4-37：回答が100未満の調査の%は偽りの精度（Cohen：20社なら1社で5ポイント動く）。実数で読む
+SMALLN = re.compile(r"(n\s*=\s*\d{1,2}(?!\d)|回答\s*(数)?\s*\d{1,2}\s*(社|人|件|名)(?!\d))", re.I)
+REAL = re.compile(r"(実質|物価調整|インフレ調整|デフレーター|消費者物価で割)")
 # 2026-11-05 4-26：1981〜2019年の工業統計は西暦末尾0・3・5・8年が全数、他の年は小さい事業所の一部を調べない（RIETI 05-P-001）。事業所数が年ごとにノコギリ型に動く
 def census_mix(years):
     old = [y for y in years if 1981 <= y <= 2019]
@@ -209,7 +222,10 @@ def trend(series):
     if first == 0: return "判定不可"
     ch = (last - first) / abs(first)
     word = "上昇" if ch > 0.05 else "下降" if ch < -0.05 else "横ばい"
-    return f"{word}（{ys[0]}→{ys[-1]}で{ch*100:+.0f}%）"
+    # 2026-11-05 4-37：年ごとの伸びは足し算でなく複利（Cohen：年3%の10年は30%でなく約34%）。年率は (最後÷最初)^(1/年数)-1 で出す
+    span = ys[-1] - ys[0]
+    cagr = f"、年率{((last / first) ** (1 / span) - 1) * 100:+.1f}%（複利）" if span > 0 and first > 0 and last > 0 else ""
+    return f"{word}（{ys[0]}→{ys[-1]}で{ch*100:+.0f}%{cagr}）"
 
 def dedupe(rows):
     """同じ出どころ（同じ値・単位・引用の頭40字）を1件にまとめる。METHOD.md 4-1。"""
@@ -274,6 +290,9 @@ def grade(g):
     contra = {indep_key(r, ec) for r in g} - agree
     if vals and vals[0] > 0 and vals[-1] / vals[0] > 10 and contra and len(doms) >= 2: return "【食い違い】"
     if any(len(v) >= 2 for v in near.values()): return "【裏付けあり】"
+    # 2026-11-05 4-37 走査の失敗から：mfg_capacity で1か所（1つのホスト）の欄の幅が 6,257倍・782,397倍なのに【一次で確認】と出た。
+    # 1か所の中で100倍以上散るのは、同じ表の別の行・列（総額と1あたり、別の業種・規模）が1つの欄に混ざった印。確認ではなく【未確認】にする
+    if vals and vals[0] > 0 and vals[-1] / vals[0] >= 100 and len(doms) == 1: return "【未確認】"
     if vals and vals[0] > 0 and vals[-1] / vals[0] > 3 and len(doms) >= 2: return "【食い違い】"
     if any(r["一次"] == "一次" for r in g): return "【一次で確認】"
     return "【未確認】"
@@ -408,7 +427,11 @@ def scan(topic):
             if len(vc) >= 2: md.append("  - ⚠ 版が混在：" + "、".join(f"{k}{v}件" for k, v in vc.items()) + "（同じ年は確報・改定を採り、速報は年の中央値から外した）")
             # 4-19：一次の出どころが2か所以上で中央値の±20%に収まれば、いちばん確度が高い（一次どうしの裏付け）
             pmed = statistics.median(vals)
-            pdoms = {r["出典"] for r in prim if pmed and abs(r["値"] - pmed) <= 0.2 * abs(pmed)}
+            # 2026-11-05 4-37 走査の失敗から：京都府と奈良県の一次2か所で「一次どうしの裏付け」と出た。地域が違う統計は同じ対象の裏付けではない（4-30）。地域ごとに数える
+            preg_d = {}
+            for r in prim:
+                if pmed and abs(r["値"] - pmed) <= 0.2 * abs(pmed): preg_d.setdefault(region_of(r["URL"]) or "全国", set()).add(r["出典"])
+            pdoms = max(preg_d.values(), key=len) if preg_d else set()
             if len(pdoms) >= 2: md.append(f"  - 一次どうしの裏付け：一次{len(pdoms)}か所が中央値±20%で一致（確度がいちばん高い）")
             cr = sum(1 for r in g if r["一次"] == "信用調査")
             if cr: md.append(f"  - 信用調査会社の数字{cr}件（推定値を含むので【推定】扱い・一次に数えない）")
@@ -417,6 +440,18 @@ def scan(topic):
                 st = split_trend(med)
                 if st: md.append(f"  - {st}")
                 if u in ("事業所", "社") and census_mix(med): md.append("  - ⚠ 全数年と裾切り年が混在（1981〜2019年は末尾0・3・5・8年だけ全数）：事業所数の増減は全数年どうしで比べる")
+            # 4-37：賃金構造基本統計調査の2020年の推計方法の変更をまたがない（遡及集計の参考系列どうしなら比べてよい）
+            if med and any(WAGESRC.search(r["引用"]) for r in g):
+                st = split_trend(med, WAGE_BREAK, "賃金構造基本統計調査の推計方法・短時間労働者の対象が変わった")
+                if st: md.append(f"  - {st}" + ("（引用に遡及集計・参考系列の語あり：その系列どうしなら比べてよい）" if any(WAGE_RETRO.search(r["引用"]) for r in g) else "（厚労省の遡及集計＝参考系列 平成18年〜令和元年で取り直す）"))
+            # 4-37：長期の金額の向きは名目。実質（物価で割った値）の語が無ければ名目と印す
+            if u == "万円" and med and max(med) - min(med) >= 5 and not any(REAL.search(r["引用"]) for r in g):
+                md.append("  - 名目の向き：物価で割っていない金額の向き。10年の伸びの一部は物価の上昇で、能力の伸びと書く前に実質と並べる（4-37）")
+            # 4-37：%の欄に「ポイント」の差が混ざる／回答100未満の調査の%
+            if u == "%" and any(PPOINT.search(r["引用"]) for r in g):
+                md.append("  - ⚠ %とポイントの混在：%どうしの差（ポイント）と%の変化率を同じ欄で比べない。引用ごとにどちらかを確かめる（4-37）")
+            nsm = sum(1 for r in g if u == "%" and SMALLN.search(r["引用"]))
+            if nsm: md.append(f"  - ⚠ 回答100未満の調査の%：{nsm}件（1件で数ポイント動く偽りの精度。実数で読み、裏付けに数えない。4-37）")
         # 4-30：定義・計算方法の変わり目の注記
         dch = sorted({m.group(2) for r in rs for m in DEFCHANGE.finditer(r["引用"])})
         if dch: md.append("- ⚠ 定義・計算方法の変わり目の注記（" + "・".join(f"{y}年" for y in dch) + "）：この年をまたいだ向きは使わない。メタ情報・注記で中身を確かめる（4-30）")
@@ -427,6 +462,8 @@ def scan(topic):
             if r["単位"] == "万円": money.setdefault(int(r["年"]), []).append(r["値"])
             if r["単位"] == "人": people.setdefault(int(r["年"]), []).append(r["値"])
         per = {y: statistics.median(money[y]) / statistics.median(people[y]) for y in money if y in people and statistics.median(people[y]) > 0}
+        # 2026-11-05 4-37：物理的にありえない1人あたり（年0.1万円＝1,000円未満）は別の欄の割り算。向きに入れない（金属切削で「2024年 0.0万円→-100%」と出た失敗から。4-35 の物理的上限・下限）
+        per = {y: v for y, v in per.items() if v >= 0.1}
         if per:
             md.append("  - 【推定】1人あたり金額＝その年の金額の中央値÷人数の中央値（同じ品目の別出典をまたぐので桁違いに注意）：" + "、".join(f"{y}年 {v:,.1f}万円" for y, v in sorted(per.items())) + f" → 向き：{trend(per)}")
         # 2026-11-05：1人あたりの金額（給与以外）÷1人あたり給与＝受託の天井の厚み（H3）。同じ品目・同じ年にそろったときだけ
