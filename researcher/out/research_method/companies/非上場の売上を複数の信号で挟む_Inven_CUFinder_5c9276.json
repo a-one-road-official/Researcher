@@ -8,296 +8,8 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-05T09:19:50.871522+00:00",
+ "researched_at": "2026-11-05T10:32:50.789176+00:00",
  "evidence": {
-  "失敗・落とし穴": [
-   {
-    "quote": "Revenue Forecasting: Models, Benefits, Tips & Pitfalls to Avoid | Cherry Bekaert",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Understanding Revenue Forecasting: Models, Benefits and Pitfalls",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Revenue Projection Pitfalls To Avoid",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Without effective strategies in place, companies are more likely to make forecasting mistakes and calculate inaccurate projections. Newer companies may struggle due to the lack of historical data available. Companies can use competitor information and industry benchmarks to create predictions if there is not enough business-specific data to utilize for a forecast.",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Other mistakes businesses should work to avoid include:",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Common Mistakes to Avoid",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "企業の年間売上高調査の仕組み：かんたん3ステップ",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業の売上高を大規模に調べるのは3ステップ",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Find a Company’s Annual Revenue (Public and Private)",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Learn 6 proven methods to find company annual revenue data and size deals perfectly. Turn revenue intelligence into bigger proposals and higher win rates.",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Find the Annual Revenue of a Private Company",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to estimate the annual revenue of a private company that never files public numbers, using signals, benchmarks and enrichment data.",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Where to get reliable company revenue figures in 2026. The databases worth trusting and how to pull accurate numbers at scale.",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Find the Revenue of a Company (One or a Whole List)",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to find a company's revenue: free filings for public companies, honest estimate methods for private ones, and a bulk workflow for whole lists.",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最も手早いのは、CUFinderのような売上検索ツールを使う方法です",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "By implementing key steps and aligning operational forecasting with other key departments, such as accounting, companies can streamline their forecasting models and gain access to valuable business insights.",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A moving average model averages results over a fixed number of periods, allowing for steadier forecast trends that aren't heavily influenced by short-term fluctuations. This method is beneficial for companies that do not have strong seasonal patterns or those working with limited data.",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Time series modeling analyzes revenue data over a period of time to detect seasonal or cyclical trends. A benefit of this forecasting method is its ability to differentiate random, unexplained variations from true cyclical patterns. However, this model can miss new market dynamics since it is relying on historical data.",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The straight line method is a simple quantitative approach that assumes a company's financials will continue to grow or decline at the same rate of historic periods, regardless of market conditions or seasonal trends. This model is best suited to companies with predictable growth patterns, rather than those in rapidly evolving industries.",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This method aggregates revenue projections from various departments, such as sales, marketing and team leads, to create a company-wide forecast. While the bottom-up method can promote buy-in across the organization due to including a variety of team inputs, issues may arise if teams have inconsistent assumptions that skew the predictions.",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In contrast to the bottom-up method, top-down models begin with big-picture goals and business strategies. Taking economic conditions and the addressable market into consideration, leadership sets overall business goals and then delegates a revenue target to each team, allowing them to build their own execution plans.",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Forecasts from ML and AI methods can be harder to interpret, as the process and methodology are not always as clear. For this reason, companies may choose to combine traditional models with ML insights.",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How To Revenue Forecast",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "By using historical data, external factors and internal factors of the business, leadership can make educated predictions on future revenue. Most revenue forecasting methods follow these steps:",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Accounting for the unique needs of the business, choose a revenue forecasting model and apply it. Some companies see success in combining multiple methods to provide a more comprehensive forecast.",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Accounting and operations teams must align for an accurate forecast. For example, companies using the accrual method with long order-to-cash timelines will not have a sales team’s forecast that aligns with the financials unless it takes into account things like contract terms, billing efficiency, etc.",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Overreliance on qualitative methods:",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Companies should not rely solely on qualitative methods, such as expert opinion and market research, for forecasting. Quantitative methods that use hard data and statistical techniques must also be used for accurate projections.",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Which revenue forecasting method is right for my business?",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The best forecasting method depends on your business model, data maturity and forecasting goals. Companies with strong historical data often use quantitative methods, while newer or rapidly changing businesses may rely more on qualitative approaches or hybrid models. Many organizations combine top-down and bottom-up methods to balance strategic perspective with operational detail.",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How To Estimate A Private Company's Revenue (2026)",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Estimate a Private Company’s Revenue: A Practical Guide",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to estimate a private company’s revenue is one of the most common challenges faced by investors, sales teams, job seekers, and business analysts. Unlike public companies, private businesses aren’t required to disclose their financial statements, which makes revenue estimation part research and part educated calculation.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This article walks you through practical, reliable methods to estimate a private company’s revenue using publicly available data, industry benchmarks, and smart analytical techniques. Whether you’re evaluating a potential business partner, researching a competitor, or preparing for B2B sales outreach, you’ll find actionable steps here.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Before diving into methods, it helps to understand why this task is difficult in the first place.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Method 1: Use Employee Count and Revenue-Per-Employee Ratios",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to apply this method",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This method assumes the company performs close to industry average, which isn’t always true. High-growth startups or highly efficient companies may significantly outperform the benchmark, while struggling companies may fall short.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Method 2: Analyze Industry Benchmarks and Market Reports",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Steps to use this method",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This method works best when combined with other data points rather than used alone, since broad industry averages can miss company-specific nuances.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Method 3: Review Business Databases and Credit Reports",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Method 4: Estimate Revenue From Funding and Valuation Data",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This method is most reliable for startups with recent, publicly reported funding rounds. It becomes less accurate for older or slower-growth private companies where valuation multiples may not apply as cleanly.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Method 5: Analyze Physical Footprint and Operational Signals",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "How to find a company's revenue: free filings for public companies, honest estimate methods for private ones, and a bulk workflow for whole lists.",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "実例": [
    {
     "quote": "手軽な単発検索でも一括の売上エンリッチメントでも、すぐに結果が返ります",
@@ -553,267 +265,158 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ]
- },
- "figures": {},
- "checked": {
-  "pass3": [
-   {
-    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/relic_kitajima/n/n36ec7aa9f53a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/irshukatsu/n/n9fd752118742",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/nayami_answer/n/ncacdf3ca4150",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/jsuccession/n/n121cd8650c54",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/value_stock_lab/n/ne66e3df843e7",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://cufinder.io/ja",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://skywork.ai/skypage/ja/ai-deal-sourcing-inven/1984183337062682624",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-lookalikes",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://service.g-search.jp/2024/12/20/01062.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://cufinder.io/ja/buying-signals",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://aitools.aiting.com/ja/ai/inven",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://twostone-s.com/columns/dx/dx-guide/15212/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://adlega.com/blog/revenue-forecasting/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.everydaybudd.com/tools/business-startup-finance/revenue-forecasting-top-down-bottom-up",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.easyfinancialmodels.com/blog/revenue-forecasting-top-down-bottom-up",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://onedesksolution.com/revenue-forecasting-methods/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.oxxonadvisors.com/fmae-knowledge-centre/technical-guides/revenue-forecasting-methods/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "status": "ok",
-    "method": "http"
-   }
-  ]
- },
- "search_log": [
-  {
-   "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） site:note.com",
-   "results": [
-    "https://note.com/isa99999/n/n7aadf977f2e7",
-    "https://note.com/relic_kitajima/n/n36ec7aa9f53a",
-    "https://note.com/irshukatsu/n/n9fd752118742",
-    "https://note.com/nayami_answer/n/ncacdf3ca4150",
-    "https://note.com/jsuccession/n/n121cd8650c54",
-    "https://note.com/value_stock_lab/n/ne66e3df843e7",
-    "https://note.com/sk_kasou/n/n5f399867efe8"
-   ]
-  },
-  {
-   "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） note",
-   "results": []
-  },
-  {
-   "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） やり方",
-   "results": [
-    "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "https://cufinder.io/ja",
-    "https://skywork.ai/skypage/ja/ai-deal-sourcing-inven/1984183337062682624",
-    "https://cufinder.io/ja/enrichment-engine/find-company-lookalikes",
-    "https://service.g-search.jp/2024/12/20/01062.html",
-    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "https://sw-kaikei.com/archives/1256"
-   ]
-  },
-  {
-   "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） 事例",
-   "results": [
-    "https://cufinder.io/ja",
-    "https://cufinder.io/ja/buying-signals",
-    "https://skywork.ai/skypage/ja/ai-deal-sourcing-inven/1984183337062682624",
-    "https://aitools.aiting.com/ja/ai/inven",
-    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "https://twostone-s.com/columns/dx/dx-guide/15212/",
-    "https://service.g-search.jp/2024/12/20/01062.html"
-   ]
-  },
-  {
-   "query": "private company revenue estimate multiple signals top-down bottom-up conservative",
-   "results": [
-    "https://adlega.com/blog/revenue-forecasting/",
-    "https://www.everydaybudd.com/tools/business-startup-finance/revenue-forecasting-top-down-bottom-up",
-    "https://www.easyfinancialmodels.com/blog/revenue-forecasting-top-down-bottom-up",
-    "https://onedesksolution.com/revenue-forecasting-methods/",
-    "https://www.oxxonadvisors.com/fmae-knowledge-centre/technical-guides/revenue-forecasting-methods/",
-    "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "https://epignosisinsights.com/blog/how-strategies-and-revenue-estimation-for-private-companies-is-done"
-   ]
-  },
-  {
-   "query": "site:note.com 非上場の売上を複数の信号で挟む（Inven・CUFinder）",
-   "results": [
-    "https://note.com/isa99999/n/n7aadf977f2e7",
-    "https://note.com/relic_kitajima/n/n36ec7aa9f53a",
-    "https://note.com/nus_cpa/n/nc113303bcd8a",
-    "https://note.com/bloomo_economics/n/ncd864eb73506",
-    "https://note.com/kyoki_labo/n/na1f6d6b90e9b",
-    "https://note.com/irshukatsu/n/n9fd752118742",
-    "https://note.com/hirokimiyano/n/nf56f7e6de1a5"
-   ]
-  },
-  {
-   "query": "site:x.com 非上場の売上を複数の信号で挟む（Inven・CUFinder）",
-   "results": [
-    "https://x.com/labo_rabo/status/2079570844796473353",
-    "https://x.com/tenma417/status/2087123885007442319",
-    "https://x.com/IA_okada/status/2100364647786479788",
-    "https://x.com/StockSun_ceo/status/2089055769820024942",
-    "https://x.com/nikkepedia_jp/status/2087109901323837507",
-    "https://x.com/nikkepedia_jp/status/2056315388565344706",
-    "https://x.com/Takuma_Uemura_/status/2088101782723723268"
-   ]
-  },
-  {
-   "query": "site:linkedin.com 非上場の売上を複数の信号で挟む（Inven・CUFinder）",
-   "results": [
-    "https://www.linkedin.com/company/cufinder",
-    "https://www.linkedin.com/products/inven-ai-inven/",
-    "https://jp.linkedin.com/company/inven-ai",
-    "https://ae.linkedin.com/company/cufinder",
-    "https://www.linkedin.com/posts/cufinder_gtm-activity-7520879108533436416-1mQP",
-    "https://www.linkedin.com/posts/cufinder_gtm-activity-7505670124767653888-6WOz",
-    "https://www.linkedin.com/posts/cufinder_gtm-activity-7519066663258836992-VFJm"
-   ]
-  },
-  {
-   "query": "site:facebook.com 非上場の売上を複数の信号で挟む（Inven・CUFinder）",
-   "results": [
-    "https://www.facebook.com/groups/cufinder/",
-    "https://www.facebook.com/cufinder/",
-    "https://www.facebook.com/watch/?v=1023178446489253",
-    "https://www.facebook.com/celf.scsk/videos/日本語の指示だけで誰でも簡単データ集計/1388157590072474/",
-    "https://www.facebook.com/reel/4038660449792662/",
-    "https://www.facebook.com/100078468711879/videos/1875185950525611/",
-    "https://www.facebook.com/nobuhiko.suda/videos/aiソロプレナー挑戦日記-4gumroadで販売開始から1週間アクセス0件そこで今回はchatgptclaudegeminigrokなど複数のaiと一緒にアクセ/889643920890873/"
-   ]
-  },
-  {
-   "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） note 社長",
-   "results": [
-    "https://diamond.jp/articles/-/388571",
-    "https://cufinder.io/ja",
-    "https://skywork.ai/skypage/ja/ai-deal-sourcing-inven/1984183337062682624",
-    "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "https://note.com/proper_macaw3470/n/nb4f83f52d2a7",
-    "https://note.com/nayami_answer/n/ncacdf3ca4150",
-    "https://lekky.jp/articles/20650/"
-   ]
-  },
-  {
-   "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） X 投稿",
-   "results": [
-    "https://cufinder.io/ja/buying-signals",
-    "https://skywork.ai/skypage/ja/ai-deal-sourcing-inven/1984183337062682624",
-    "https://cufinder.io/",
-    "https://x.com/JobHuntKEYENCE/status/2034347979256270941",
-    "https://x.com/aki_kun_fx/status/2117882945570767277",
-    "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
-   ]
-  },
-  {
-   "query": "private company revenue estimate multiple signals top-down bottom-up conservative site:linkedin.com",
-   "results": [
-    "https://www.linkedin.com/posts/shradha-khera-finance_fpanda-financialforecasting-financialmodeling-activity-7495217434988118017-Gb9J",
-    "https://www.linkedin.com/posts/paras-arora-232b25240_revenue-drivers-activity-7393929583085101056-9CJb",
-    "https://www.linkedin.com/posts/alphavaluations_building-better-revenue-forecasts-activity-7457370236816809984-s3ig",
-    "https://www.linkedin.com/pulse/how-i-forecast-revenue-inventory-one-spreadsheet-top-down-kesina-skxbc",
-    "https://www.linkedin.com/pulse/know-signals-revenue-speaks-patterns-before-shows-up-atkins-mba-sblee",
-    "https://www.linkedin.com/advice/1/what-differences-between-top-down-bottom-up-financial-umuue",
-    "https://www.linkedin.com/advice/0/what-benefits-challenges-using-bottom-up-versus"
-   ]
-  }
- ],
- "missing": {},
- "new_this_run": {
-  "失敗・落とし穴": [
-   {
-    "quote": "Common Mistakes to Avoid",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ],
   "手順・やり方": [
+   {
+    "quote": "企業の年間売上高調査の仕組み：かんたん3ステップ",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業の売上高を大規模に調べるのは3ステップ",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Find a Company’s Annual Revenue (Public and Private)",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Learn 6 proven methods to find company annual revenue data and size deals perfectly. Turn revenue intelligence into bigger proposals and higher win rates.",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Find the Annual Revenue of a Private Company",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to estimate the annual revenue of a private company that never files public numbers, using signals, benchmarks and enrichment data.",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Where to get reliable company revenue figures in 2026. The databases worth trusting and how to pull accurate numbers at scale.",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Find the Revenue of a Company (One or a Whole List)",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to find a company's revenue: free filings for public companies, honest estimate methods for private ones, and a bulk workflow for whole lists.",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最も手早いのは、CUFinderのような売上検索ツールを使う方法です",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "By implementing key steps and aligning operational forecasting with other key departments, such as accounting, companies can streamline their forecasting models and gain access to valuable business insights.",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A moving average model averages results over a fixed number of periods, allowing for steadier forecast trends that aren't heavily influenced by short-term fluctuations. This method is beneficial for companies that do not have strong seasonal patterns or those working with limited data.",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Time series modeling analyzes revenue data over a period of time to detect seasonal or cyclical trends. A benefit of this forecasting method is its ability to differentiate random, unexplained variations from true cyclical patterns. However, this model can miss new market dynamics since it is relying on historical data.",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The straight line method is a simple quantitative approach that assumes a company's financials will continue to grow or decline at the same rate of historic periods, regardless of market conditions or seasonal trends. This model is best suited to companies with predictable growth patterns, rather than those in rapidly evolving industries.",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This method aggregates revenue projections from various departments, such as sales, marketing and team leads, to create a company-wide forecast. While the bottom-up method can promote buy-in across the organization due to including a variety of team inputs, issues may arise if teams have inconsistent assumptions that skew the predictions.",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In contrast to the bottom-up method, top-down models begin with big-picture goals and business strategies. Taking economic conditions and the addressable market into consideration, leadership sets overall business goals and then delegates a revenue target to each team, allowing them to build their own execution plans.",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Forecasts from ML and AI methods can be harder to interpret, as the process and methodology are not always as clear. For this reason, companies may choose to combine traditional models with ML insights.",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How To Revenue Forecast",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "By using historical data, external factors and internal factors of the business, leadership can make educated predictions on future revenue. Most revenue forecasting methods follow these steps:",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Accounting for the unique needs of the business, choose a revenue forecasting model and apply it. Some companies see success in combining multiple methods to provide a more comprehensive forecast.",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Accounting and operations teams must align for an accurate forecast. For example, companies using the accrual method with long order-to-cash timelines will not have a sales team’s forecast that aligns with the financials unless it takes into account things like contract terms, billing efficiency, etc.",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Overreliance on qualitative methods:",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Companies should not rely solely on qualitative methods, such as expert opinion and market research, for forecasting. Quantitative methods that use hard data and statistical techniques must also be used for accurate projections.",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Which revenue forecasting method is right for my business?",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The best forecasting method depends on your business model, data maturity and forecasting goals. Companies with strong historical data often use quantitative methods, while newer or rapidly changing businesses may rely more on qualitative approaches or hybrid models. Many organizations combine top-down and bottom-up methods to balance strategic perspective with operational detail.",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
    {
     "quote": "How To Estimate A Private Company's Revenue (2026)",
     "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
@@ -905,113 +508,376 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "実例": [
+  "一次情報の探し方": [
    {
-    "quote": "Since private company data is inherently uncertain, presenting a range (for example, $8–10 million) is more honest and useful than a single false-precision figure.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Practical Example: Putting It All Together",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "quote": "How to find a company's revenue: free filings for public companies, honest estimate methods for private ones, and a bulk workflow for whole lists.",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ],
-  "突き合わせ・推定": [
+  "失敗・落とし穴": [
    {
-    "quote": "How To Estimate A Private Company's Revenue (2026)",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "quote": "Revenue Forecasting: Models, Benefits, Tips & Pitfalls to Avoid | Cherry Bekaert",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "How to Estimate a Private Company’s Revenue: A Practical Guide",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "quote": "Understanding Revenue Forecasting: Models, Benefits and Pitfalls",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "How to estimate a private company’s revenue is one of the most common challenges faced by investors, sales teams, job seekers, and business analysts. Unlike public companies, private businesses aren’t required to disclose their financial statements, which makes revenue estimation part research and part educated calculation.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "quote": "Revenue Projection Pitfalls To Avoid",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "This article walks you through practical, reliable methods to estimate a private company’s revenue using publicly available data, industry benchmarks, and smart analytical techniques. Whether you’re evaluating a potential business partner, researching a competitor, or preparing for B2B sales outreach, you’ll find actionable steps here.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "quote": "Without effective strategies in place, companies are more likely to make forecasting mistakes and calculate inaccurate projections. Newer companies may struggle due to the lack of historical data available. Companies can use competitor information and industry benchmarks to create predictions if there is not enough business-specific data to utilize for a forecast.",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Sales teams use revenue estimates to qualify leads and prioritize accounts. Investors and lenders use them to assess risk before extending credit or considering a deal. Job seekers use them to evaluate a company’s stability before accepting an offer. Competitors use them to benchmark market position and growth trends.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "quote": "Other mistakes businesses should work to avoid include:",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Because of this, most revenue estimates are approximations built from multiple data points rather than a single confirmed figure.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This approach estimates revenue by multiplying a company’s employee count by the average revenue generated per employee in that specific industry.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Multiply the employee count by that average to get an estimated range.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "If a marketing agency has 40 employees and the industry average revenue per employee is $150,000, the estimated annual revenue would be around $6 million.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Adjust the estimate based on known factors like location, market share, or growth stage.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Several commercial databases compile estimated revenue figures for private companies based on aggregated data, surveys, and modeling.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Offers business credit reports that often include estimated annual revenue figures.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Provides company profiles with estimated revenue ranges based on proprietary data models.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Crowdsources and estimates competitive intelligence including revenue ranges.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "These platforms use algorithms and data aggregation rather than confirmed financials, so treat their figures as informed estimates, not verified facts.",
+    "quote": "Common Mistakes to Avoid",
     "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ]
  },
- "runs": 4,
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/isa99999/n/n7aadf977f2e7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/relic_kitajima/n/n36ec7aa9f53a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/irshukatsu/n/n9fd752118742",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nayami_answer/n/ncacdf3ca4150",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jsuccession/n/n121cd8650c54",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/value_stock_lab/n/ne66e3df843e7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fas_cpa/n/n43d79bd96d63",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://solid-ventures.media/knowledge/considering-a-non-listed-growth-model-for-solid-ventures-that-dare-not-aim-for-an-ipo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fundnote_inc/n/ndf434e402bc5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicmr.com/nicmr/report/repo/2020/2020win09.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gckk.co.jp/event/gcc003-02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fundnote.co.jp/wp-content/uploads/fund-reports/fund_akebono_report_2026_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cpa-ishiwari.jp/column/valuation-3types/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20250222060506922843650&postId=1519815207",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://community.squareup.com/t5/%E4%BE%BF%E5%88%A9%E3%81%AA%E6%A9%9F%E8%83%BD%E3%81%A8%E5%95%8F%E9%A1%8C%E8%A7%A3%E6%B1%BA/%E6%97%A5%E6%AC%A1%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%83%AC%E3%83%9D%E3%83%88%E3%81%AB-Square-POS%E4%B8%8A%E4%BB%A5%E5%A4%96%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%9F%E3%81%84-Ubereats%E3%81%AA%E3%81%A9/m-p/805694",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://zac-reforma.zendesk.com/hc/ja/articles/15102180638617--29%E5%88%86-2-0-19-%E8%AB%8B%E6%B1%82-%E5%A3%B2%E4%B8%8A-%E3%81%9D%E3%81%AE%E4%BB%96%E3%82%BF%E3%83%96-%E8%A4%87%E6%95%B0%E5%A3%B2%E4%B8%8A%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://zac-reforma.zendesk.com/hc/ja/articles/13172393132569--2-0-8-%E8%A4%87%E6%95%B0%E5%A3%B2%E4%B8%8A-%E8%A4%87%E6%95%B0%E5%A3%B2%E4%B8%8A%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E6%A6%82%E8%A6%81",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsda.or.jp/about/kaigi/jisyukisei/gijigaiyou/files/201130_gaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.g-search.or.jp/column/trend/unlisted-company/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/news/marketnews/?b=n202304110472",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://s.gbase.ai/insight/japan-unlisted-companies-ranking-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.finrofca.com/news/top-down-vs-bottom-up-revenue-modeling-which-is-right-for-your-startup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pedowitzgroup.com/whats-the-difference-between-top-down-and-bottom-up-forecasting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/carlseidman_most-small-businesses-default-to-two-forecasting-activity-7377723296139644928-5TYl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.wallstreetprep.com/knowledge/bottom-up-forecasting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fe.training/free-resources/financial-modeling/bottom-up-forecasting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forecastio.ai/blog/top-down-vs-bottom-up-forecasting",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） site:note.com",
+   "results": [
+    "https://note.com/isa99999/n/n7aadf977f2e7",
+    "https://note.com/relic_kitajima/n/n36ec7aa9f53a",
+    "https://note.com/irshukatsu/n/n9fd752118742",
+    "https://note.com/nayami_answer/n/ncacdf3ca4150",
+    "https://note.com/jsuccession/n/n121cd8650c54",
+    "https://note.com/value_stock_lab/n/ne66e3df843e7",
+    "https://note.com/sk_kasou/n/n5f399867efe8"
+   ]
+  },
+  {
+   "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） note",
+   "results": [
+    "https://note.com/fas_cpa/n/n43d79bd96d63",
+    "https://solid-ventures.media/knowledge/considering-a-non-listed-growth-model-for-solid-ventures-that-dare-not-aim-for-an-ipo/",
+    "https://note.com/fundnote_inc/n/ndf434e402bc5",
+    "https://www.nicmr.com/nicmr/report/repo/2020/2020win09.pdf",
+    "https://www.gckk.co.jp/event/gcc003-02/",
+    "https://www.fundnote.co.jp/wp-content/uploads/fund-reports/fund_akebono_report_2026_01.pdf",
+    "https://note.com/good_camel6014",
+    "https://www.youtube.com/watch?v=QuMrCOUBFQw",
+    "https://ontrack.co.jp/f-terms/%E6%9C%AA%E4%B8%8A%E5%A0%B4%E4%BC%81%E6%A5%AD%E3%81%AE%CE%B2/"
+   ]
+  },
+  {
+   "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） やり方",
+   "results": [
+    "https://note.com/fas_cpa/n/n43d79bd96d63",
+    "https://www.youtube.com/watch?v=mxe3TctThfA",
+    "https://www.cpa-ishiwari.jp/column/valuation-3types/",
+    "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20250222060506922843650&postId=1519815207",
+    "https://community.squareup.com/t5/%E4%BE%BF%E5%88%A9%E3%81%AA%E6%A9%9F%E8%83%BD%E3%81%A8%E5%95%8F%E9%A1%8C%E8%A7%A3%E6%B1%BA/%E6%97%A5%E6%AC%A1%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%83%AC%E3%83%9D%E3%83%88%E3%81%AB-Square-POS%E4%B8%8A%E4%BB%A5%E5%A4%96%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%9F%E3%81%84-Ubereats%E3%81%AA%E3%81%A9/m-p/805694",
+    "https://solid-ventures.media/knowledge/considering-a-non-listed-growth-model-for-solid-ventures-that-dare-not-aim-for-an-ipo/",
+    "https://zac-reforma.zendesk.com/hc/ja/articles/15102180638617--29%E5%88%86-2-0-19-%E8%AB%8B%E6%B1%82-%E5%A3%B2%E4%B8%8A-%E3%81%9D%E3%81%AE%E4%BB%96%E3%82%BF%E3%83%96-%E8%A4%87%E6%95%B0%E5%A3%B2%E4%B8%8A%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3",
+    "https://zac-reforma.zendesk.com/hc/ja/articles/13172393132569--2-0-8-%E8%A4%87%E6%95%B0%E5%A3%B2%E4%B8%8A-%E8%A4%87%E6%95%B0%E5%A3%B2%E4%B8%8A%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E6%A6%82%E8%A6%81",
+    "https://www.gckk.co.jp/event/gcc003-02/",
+    "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue"
+   ]
+  },
+  {
+   "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） 事例",
+   "results": [
+    "https://www.jsda.or.jp/about/kaigi/jisyukisei/gijigaiyou/files/201130_gaiyo.pdf",
+    "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "https://www.g-search.or.jp/column/trend/unlisted-company/",
+    "https://kabutan.jp/news/marketnews/?b=n202304110472",
+    "https://solid-ventures.media/knowledge/considering-a-non-listed-growth-model-for-solid-ventures-that-dare-not-aim-for-an-ipo/",
+    "https://s.gbase.ai/insight/japan-unlisted-companies-ranking-2026/",
+    "https://biz.moneyforward.com/ipo/basic/1686/",
+    "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20260322102632341491200&postId=1682790988"
+   ]
+  },
+  {
+   "query": "private company revenue estimate multiple signals top-down bottom-up conservative",
+   "results": [
+    "https://www.finrofca.com/news/top-down-vs-bottom-up-revenue-modeling-which-is-right-for-your-startup",
+    "https://www.pedowitzgroup.com/whats-the-difference-between-top-down-and-bottom-up-forecasting",
+    "https://www.linkedin.com/posts/carlseidman_most-small-businesses-default-to-two-forecasting-activity-7377723296139644928-5TYl",
+    "https://www.wallstreetprep.com/knowledge/bottom-up-forecasting/",
+    "https://www.fe.training/free-resources/financial-modeling/bottom-up-forecasting/",
+    "https://forecastio.ai/blog/top-down-vs-bottom-up-forecasting",
+    "https://gocardless.com/guides/posts/top-down-vs-bottom-up-forecasting",
+    "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "https://waveup.com/blog/top-down-and-bottom-up-market-size-calculation/",
+    "https://adlega.com/blog/revenue-forecasting/"
+   ]
+  },
+  {
+   "query": "site:note.com 非上場の売上を複数の信号で挟む（Inven・CUFinder）",
+   "results": [
+    "https://note.com/isa99999/n/n7aadf977f2e7",
+    "https://note.com/relic_kitajima/n/n36ec7aa9f53a",
+    "https://note.com/nus_cpa/n/nc113303bcd8a",
+    "https://note.com/kyoki_labo/n/na1f6d6b90e9b",
+    "https://note.com/irshukatsu/n/n9fd752118742",
+    "https://note.com/bloomo_economics/n/ncd864eb73506",
+    "https://note.com/hirokimiyano/n/nf56f7e6de1a5"
+   ]
+  },
+  {
+   "query": "site:x.com 非上場の売上を複数の信号で挟む（Inven・CUFinder）",
+   "results": [
+    "https://x.com/labo_rabo/status/2079570844796473353",
+    "https://x.com/tenma417/status/2087123885007442319",
+    "https://x.com/nikkepedia_jp/status/2087109901323837507",
+    "https://x.com/nikkepedia_jp/status/2056315388565344706",
+    "https://x.com/IA_okada/status/2100364647786479788",
+    "https://x.com/StockSun_ceo/status/2089055769820024942",
+    "https://x.com/Takuma_Uemura_/status/2088101782723723268",
+    "https://x.com/labo_rabo/status/2075779351904419891"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 非上場の売上を複数の信号で挟む（Inven・CUFinder）",
+   "results": [
+    "https://www.linkedin.com/company/cufinder",
+    "https://jp.linkedin.com/company/inven-ai",
+    "https://www.linkedin.com/posts/cufinder_how-to-find-company-annual-revenue-using-activity-7310593906901975040-Iv-U",
+    "https://www.linkedin.com/posts/cufinder_boost-your-leads-with-revenue-filter-welcome-activity-7260961079738961920-Unsz",
+    "https://www.linkedin.com/products/inven-ai-inven/",
+    "https://www.linkedin.com/posts/cufinder_gtm-activity-7519066663258836992-VFJm",
+    "https://www.linkedin.com/posts/cufinder_gtm-activity-7520879108533436416-1mQP"
+   ]
+  },
+  {
+   "query": "site:facebook.com 非上場の売上を複数の信号で挟む（Inven・CUFinder）",
+   "results": [
+    "https://www.facebook.com/groups/cufinder/",
+    "https://www.facebook.com/cufinder/",
+    "https://www.facebook.com/watch/?v=1023178446489253",
+    "https://www.facebook.com/celf.scsk/videos/日本語の指示だけで誰でも簡単データ集計/1388157590072474/",
+    "https://www.facebook.com/reel/4038660449792662/",
+    "https://www.facebook.com/100078468711879/videos/1875185950525611/",
+    "https://www.facebook.com/nobuhiko.suda/videos/aiソロプレナー挑戦日記-4gumroadで販売開始から1週間アクセス0件そこで今回はchatgptclaudegeminigrokなど複数のaiと一緒にアクセ/889643920890873/"
+   ]
+  },
+  {
+   "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） note 社長",
+   "results": [
+    "https://note.com/fas_cpa/n/n43d79bd96d63",
+    "https://note.com/fundnote_inc/n/ndf434e402bc5",
+    "https://solid-ventures.media/knowledge/considering-a-non-listed-growth-model-for-solid-ventures-that-dare-not-aim-for-an-ipo/",
+    "https://www.gckk.co.jp/event/gcc003-02/",
+    "https://note.vs-group.jp/n/n5a70762a18e3",
+    "https://www.threads.com/@naka_cpa/post/DYas4DTCe8C/%E9%9D%9E%E4%B8%8A%E5%A0%B4%E6%A1%88%E4%BB%B6%E3%81%AE%E8%B2%B7%E5%8F%8E%E3%81%A0%E3%81%A8%E7%9B%B8%E5%A0%B4%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AFebitda%E3%81%AE35%E5%80%8D%E3%81%AE%E8%B2%B7%E5%8F%8E%E4%BE%A1%E6%A0%BC%E3%81%8C%E5%A4%9A%E3%81%84%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E3%81%AF%E9%9D%9E%E4%B8%8A%E5%A0%B4%E6%A1%88%E4%BB%B6%E3%81%AE%E8%B2%B7%E5%8F%8E%E3%81%A7%E3%81%AF%E3%83%90%E3%83%AA%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%8C%E3%81%A7%E3%81%AA%E3%81%84%E5%82%BE%E5%90%91%E3%81%AB%E3%81%82%E3%82%8A%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cexit/",
+    "https://newspicks.com/news/8082791/body/",
+    "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/CL03-50.pdf",
+    "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20260316101235704631470&postId=1679544028",
+    "https://diamond.jp/articles/-/388571"
+   ]
+  },
+  {
+   "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） X 投稿",
+   "results": [
+    "https://www.jsda.or.jp/about/kaigi/jisyukisei/gijigaiyou/files/201130_gaiyo.pdf",
+    "https://nakamurafumi.com/video.php?pg=%E4%BB%A3%E5%B8%81%E6%8A%95%E6%B3%A8%E6%9B%BF%E4%BB%A3&srsltid=AYCX9vINyBK-Ui8JJN_JmOWkhOYew_VUpZuGL8PVGW-8pGudGMeR6fiB",
+    "https://ma-la.co.jp/m-and-a/non-listed-company/",
+    "https://www.nicmr.com/nicmr/report/repo/2020/2020win09.pdf",
+    "https://community.squareup.com/t5/%E4%BE%BF%E5%88%A9%E3%81%AA%E6%A9%9F%E8%83%BD%E3%81%A8%E5%95%8F%E9%A1%8C%E8%A7%A3%E6%B1%BA/%E6%97%A5%E6%AC%A1%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%83%AC%E3%83%9D%E3%83%88%E3%81%AB-Square-POS%E4%B8%8A%E4%BB%A5%E5%A4%96%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%9F%E3%81%84-Ubereats%E3%81%AA%E3%81%A9/m-p/805694",
+    "https://www.cpa-ishiwari.jp/column/valuation-multiple-backsolve/",
+    "https://www.gckk.co.jp/event/gcc003-02/",
+    "https://www.youtube.com/watch?v=A-vjciBnUes",
+    "https://cufinder.io/ja",
+    "https://cufinder.io/ja/buying-signals"
+   ]
+  },
+  {
+   "query": "private company revenue estimate multiple signals top-down bottom-up conservative site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/karim-boussedra_stop-building-the-model-for-the-investor-activity-7518676612536614912-UHL1",
+    "https://www.linkedin.com/top-content/marketing/marketing-budget-allocation/marketing-budget-forecasting-techniques/",
+    "https://www.linkedin.com/in/stephen-frieder",
+    "https://www.linkedin.com/top-content/finance/private-equity-basics/financial-performance-metrics-for-portfolio-companies/",
+    "https://www.linkedin.com/company/insight--partners",
+    "https://www.linkedin.com/pulse/rule-40-saas-how-calculate-what-investors-expect-2026-shawn-elliott-djqxc",
+    "https://www.linkedin.com/posts/torontofidelitywholesaler_fidelitycanada-ai-activity-7487953089023524865-xn5r",
+    "https://www.linkedin.com/in/ashishsrimal",
+    "https://www.linkedin.com/top-content/finance/financial-analysis-techniques/best-practices-for-financial-forecasting-accuracy/",
+    "https://uk.linkedin.com/in/gregor-eadie-cfa-a21b28139"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {},
+ "runs": 5,
  "first_researched_at": "2026-11-05T05:08:45.202393+00:00"
 }

@@ -8,8 +8,154 @@
  ],
  "context": "凄腕・突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-05T09:15:41.000041+00:00",
+ "researched_at": "2026-11-05T10:29:00.037835+00:00",
  "evidence": {
+  "実例": [
+   {
+    "quote": "AIの調査結果を、どこまで信じてよいのか？出典・反証・不確実性を管理する基本設計｜南翔伍 / AIコンパニオンとSNSの間くらいの「Jams」開発中",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AIの調査結果を、どこまで信じてよいのか？出典・反証・不確実性を管理する基本設計",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "重要なのは、検索結果を大量に集めることでも、参考文献の数を増やすことでもありません",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果を誰が何に使うかで、確認密度を変える",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果を何の判断に使うか",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果の用途：",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、検索結果の要約やスニペットだけで確定せず、最終的には該当ページを開きます",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "エージェント型検索では、AIが検索結果を読み、",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "関連性の低い結果を除外する",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "制度・研究・企業事例を組み合わせる分析",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "複数国の事例比較",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Deep Researchは、複数ステップの探索、情報源の評価、質問の改善、結果の統合をまとめて進める用途に向いています",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "回答が検索結果ではなく、モデルの一般知識を混ぜていないか",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索結果のスニペット",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "研究結果を対象外へ一般化していないか確認する",
+    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example:",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in M&E: 4 Types and Examples | M&E Studio",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in M&E: Four Types, Examples and What to Do When Sources Disagree",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Most methodologies describe what happens when sources agree and are silent on the case that actually requires judgment.",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "If the sources differ, give the range, the likely reason and what you checked. See the examples below.",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A joint display lines up survey and interview findings by question, population and period. A fictional case shows how to read agreement, silence and conflict without forcing a single story.",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Negative Case Analysis: Testing a Finding Against What Does Not Fit",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Negative case analysis searches for accounts that contradict an emerging explanation, then revises the explanation or limits its claim.",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Contribution Analysis: Building a Credible Case Without a Control Group",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "企業の公式発表を、第三者が検証した市場評価のように扱っていた",
@@ -398,122 +544,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "一次情報の探し方": [
-   {
-    "quote": "どの情報源を最終根拠として採用するか",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AIが情報を提示したことと、人間がその情報を判断材料として採用したことは分けます",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "引用先が一次情報か、別資料の要約か",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統計：公的統計・一次データ",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "導入率を示す統計",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "しかし、実際にFACTとして採用するには、",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「一次情報を使えばよい」と言われることがあります",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "方向性としては正しいのですが、一次情報だけで調査が完了するとは限りません",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一次情報は、事実の原点を確認するために使う",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一次情報の例です",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一次情報が何を意味するかを理解したり、複数の一次資料を比較したりする際に役立ちます",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一次情報を「中立的な情報」と決めつけず、",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統計的有意差と実務上の大きさを分ける",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統計的に差があっても、実務上は小さな差かもしれません",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公的機関の資料でも、今回の質問と対象が違えば、直接の根拠にはなりません",
-    "url": "https://note.com/gtminami/n/n5d18b36d3acc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and",
-    "url": "https://skillmd.com/skills/mohitagw15856/source-triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1. **Trace to the birth certificate:** follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and *with what incentive* (vendor research isn't wrong by default, but its selection pressure is part of the record).",
-    "url": "https://skillmd.com/skills/mohitagw15856/source-triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Does the source’s reporting infrastructure reach the target location, or is it filing from a distance based on secondary information?",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "POI Profiling Methodology",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "通常検索・エージェント型検索・Deep Research・ファイル検索を使い分ける",
@@ -876,148 +906,118 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "実例": [
+  "一次情報の探し方": [
    {
-    "quote": "AIの調査結果を、どこまで信じてよいのか？出典・反証・不確実性を管理する基本設計｜南翔伍 / AIコンパニオンとSNSの間くらいの「Jams」開発中",
+    "quote": "どの情報源を最終根拠として採用するか",
     "url": "https://note.com/gtminami/n/n5d18b36d3acc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "AIの調査結果を、どこまで信じてよいのか？出典・反証・不確実性を管理する基本設計",
+    "quote": "AIが情報を提示したことと、人間がその情報を判断材料として採用したことは分けます",
     "url": "https://note.com/gtminami/n/n5d18b36d3acc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "重要なのは、検索結果を大量に集めることでも、参考文献の数を増やすことでもありません",
+    "quote": "引用先が一次情報か、別資料の要約か",
     "url": "https://note.com/gtminami/n/n5d18b36d3acc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "調査結果を誰が何に使うかで、確認密度を変える",
+    "quote": "統計：公的統計・一次データ",
     "url": "https://note.com/gtminami/n/n5d18b36d3acc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "調査結果を何の判断に使うか",
+    "quote": "導入率を示す統計",
     "url": "https://note.com/gtminami/n/n5d18b36d3acc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "調査結果の用途：",
+    "quote": "しかし、実際にFACTとして採用するには、",
     "url": "https://note.com/gtminami/n/n5d18b36d3acc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ただし、検索結果の要約やスニペットだけで確定せず、最終的には該当ページを開きます",
+    "quote": "「一次情報を使えばよい」と言われることがあります",
     "url": "https://note.com/gtminami/n/n5d18b36d3acc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "エージェント型検索では、AIが検索結果を読み、",
+    "quote": "方向性としては正しいのですが、一次情報だけで調査が完了するとは限りません",
     "url": "https://note.com/gtminami/n/n5d18b36d3acc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "関連性の低い結果を除外する",
+    "quote": "一次情報は、事実の原点を確認するために使う",
     "url": "https://note.com/gtminami/n/n5d18b36d3acc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "制度・研究・企業事例を組み合わせる分析",
+    "quote": "一次情報の例です",
     "url": "https://note.com/gtminami/n/n5d18b36d3acc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "複数国の事例比較",
+    "quote": "一次情報が何を意味するかを理解したり、複数の一次資料を比較したりする際に役立ちます",
     "url": "https://note.com/gtminami/n/n5d18b36d3acc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Deep Researchは、複数ステップの探索、情報源の評価、質問の改善、結果の統合をまとめて進める用途に向いています",
+    "quote": "一次情報を「中立的な情報」と決めつけず、",
     "url": "https://note.com/gtminami/n/n5d18b36d3acc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "回答が検索結果ではなく、モデルの一般知識を混ぜていないか",
+    "quote": "統計的有意差と実務上の大きさを分ける",
     "url": "https://note.com/gtminami/n/n5d18b36d3acc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "検索結果のスニペット",
+    "quote": "統計的に差があっても、実務上は小さな差かもしれません",
     "url": "https://note.com/gtminami/n/n5d18b36d3acc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "研究結果を対象外へ一般化していないか確認する",
+    "quote": "公的機関の資料でも、今回の質問と対象が違えば、直接の根拠にはなりません",
     "url": "https://note.com/gtminami/n/n5d18b36d3acc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Example:",
+    "quote": "follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and",
+    "url": "https://skillmd.com/skills/mohitagw15856/source-triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1. **Trace to the birth certificate:** follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and *with what incentive* (vendor research isn't wrong by default, but its selection pressure is part of the record).",
+    "url": "https://skillmd.com/skills/mohitagw15856/source-triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Does the source’s reporting infrastructure reach the target location, or is it filing from a distance based on secondary information?",
     "url": "https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Triangulation in M&E: 4 Types and Examples | M&E Studio",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Triangulation in M&E: Four Types, Examples and What to Do When Sources Disagree",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Most methodologies describe what happens when sources agree and are silent on the case that actually requires judgment.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "If the sources differ, give the range, the likely reason and what you checked. See the examples below.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A joint display lines up survey and interview findings by question, population and period. A fictional case shows how to read agreement, silence and conflict without forcing a single story.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Negative Case Analysis: Testing a Finding Against What Does Not Fit",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Negative case analysis searches for accounts that contradict an emerging explanation, then revises the explanation or limits its claim.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Contribution Analysis: Building a Credible Case Without a Control Group",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "quote": "POI Profiling Methodology",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -1047,6 +1047,16 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "status": "ok",
     "method": "http"
@@ -1072,14 +1082,14 @@
     "method": "http"
    },
    {
-    "url": "https://keywordkatakanagojiten2013.blogspot.com/2015/04/blog-post_55.html",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
     "url": "https://jlta2016.sakura.ne.jp/tutorial/Qualitative%20Methods/contents/page_032.html",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://keywordkatakanagojiten2013.blogspot.com/2015/04/blog-post_55.html",
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://clitama.human-relation.net/triangulation/",
@@ -1092,12 +1102,12 @@
     "method": "http"
    },
    {
-    "url": "https://rde.ac/journal/view.php?doi=10.5395/rde.202",
+    "url": "https://www.zentsuken.net/journal/file/144_5.html",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://www.zentsuken.net/journal/file/144_5.html",
+    "url": "https://researchmap.jp/t-koike0226/published_papers/30206068?lang=ja",
     "status": "ok",
     "method": "browser"
    },
@@ -1117,23 +1127,23 @@
     "method": "http"
    },
    {
-    "url": "https://marketintelligencetools.com/learn/data-triangulation/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.quirkos.com/blog/post/triangulation-in-qualitative-research-analysis/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://libguides.princeton.edu/medialiteracy/triangulation",
+    "url": "https://marketintelligencetools.com/learn/data-triangulation/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=6071&context=tqr",
+    "url": "https://www.researchgate.net/post/What_is_Exactly_Triangulation_in_Educational_Research",
     "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://libguides.princeton.edu/medialiteracy/triangulation",
+    "status": "ok",
     "method": "http"
    }
   ]
@@ -1144,7 +1154,14 @@
    "results": [
     "https://note.com/tomohiko_naba/n/nadf414935ef3",
     "https://note.com/everprogress/n/nc066813442e3",
-    "https://note.com/misaki_ai_work/n/ncf3719c7972c"
+    "https://note.com/misaki_ai_work/n/ncf3719c7972c",
+    "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "https://note.com/saito_lab/n/n554cd436c4ae",
+    "https://note.com/kasano/n/n5300393c2f30",
+    "https://note.com/near_lab/n/n100bd07232a2",
+    "https://note.com/saito_lab/n/n1c8a7d0eac6e",
+    "https://note.com/sphonline/n/nfd6879241d0f",
+    "https://note.com/gtminami/n/n5d18b36d3acc"
    ]
   },
   {
@@ -1158,7 +1175,7 @@
     "https://www.igaku-shoin.co.jp/paper/archive/old/old_article/n2000dir/n2374dir/n2374_03.htm",
     "https://jlta2016.sakura.ne.jp/tutorial/Qualitative%20Methods/contents/page_032.html",
     "https://rde.ac/DOIx.php?id=10.5395/rde.2021.46.2.e29",
-    "https://clitama.human-relation.net/triangulation/"
+    "https://report.prism-ai.jp/thesis-writing-note-citation/"
    ]
   },
   {
@@ -1184,8 +1201,8 @@
     "https://www.ritsumei.ac.jp/file.jsp?id=254534",
     "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
     "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
-    "https://rde.ac/DOIx.php?id=10.5395/rde.202",
     "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://researchmap.jp/t-koike0226/published_papers/30206068?lang=ja",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text"
    ]
   },
@@ -1194,45 +1211,79 @@
    "results": [
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/",
     "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "https://marketintelligencetools.com/learn/data-triangulation/",
     "https://www.quirkos.com/blog/post/triangulation-in-qualitative-research-analysis/",
+    "https://marketintelligencetools.com/learn/data-triangulation/",
+    "https://www.researchgate.net/post/What_is_Exactly_Triangulation_in_Educational_Research",
     "https://libguides.princeton.edu/medialiteracy/triangulation",
     "https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=6071&context=tqr",
+    "https://manuelgarcia.info/guides/research/guide/triangulation-in-research",
     "https://quali-fi.com/learn/triangulation",
-    "https://www.researchgate.net/publication/355425953_Triangulation_in_Research",
-    "https://delvetool.com/blog/researcher-triangulation"
+    "https://skills.rest/skill/investigation-triangulation"
    ]
   },
   {
    "query": "site:note.com 出典の独立性と確度の判定（ソース・トライアンギュレーション）",
    "results": [
-    "https://note.com/everprogress/n/nc066813442e3"
+    "https://note.com/everprogress/n/nc066813442e3",
+    "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "https://note.com/near_lab/n/n100bd07232a2",
+    "https://note.com/saito_lab/n/n554cd436c4ae",
+    "https://note.com/kasano/n/n5300393c2f30",
+    "https://note.com/hazelrecords/n/n82054fa40c21",
+    "https://note.com/gtminami/n/n5d18b36d3acc",
+    "https://note.com/deft_pothos2980/n/n4738fa472999"
    ]
   },
   {
    "query": "site:x.com 出典の独立性と確度の判定（ソース・トライアンギュレーション）",
-   "results": []
+   "results": [
+    "https://x.com/Mar_3simai/status/2074830097534837025",
+    "https://x.com/MLB_Connection/status/2081382401394245969",
+    "https://x.com/NaoyukiSae12978/status/2065729640103309641",
+    "https://x.com/aooi_AI/status/2065590127624339574",
+    "https://x.com/MLB_Connection/status/2074726138170298745",
+    "https://x.com/saj_aibusiness/status/2114675921336819977",
+    "https://x.com/triangle_chain/status/2114716096788087180",
+    "https://x.com/yokippu/status/2044064284033048748",
+    "https://x.com/QuizChecker/status/2103376529988419668"
+   ]
   },
   {
    "query": "site:linkedin.com 出典の独立性と確度の判定（ソース・トライアンギュレーション）",
-   "results": []
+   "results": [
+    "https://jp.linkedin.com/posts/光輔-池田-488a901bb_詳細なデータソースのご提示誠にありがとうございますストリーミング統計テレビ放送-activity-7426566502642016256-7DLy",
+    "https://www.linkedin.com/in/sijia-gao-2bb706101",
+    "https://de.linkedin.com/in/till-deckart",
+    "https://fr.linkedin.com/in/jean-christophe-roda-376b42aa",
+    "https://in.linkedin.com/company/celebaltechnologies",
+    "https://jp.linkedin.com/pulse/importance-independence-market-research-charlotte-hawkes-m0nze?tl=ja",
+    "https://www.linkedin.com/posts/masatomatsuoka_triangulationの問題-activity-7070279136543440896-21Pg"
+   ]
   },
   {
    "query": "site:facebook.com 出典の独立性と確度の判定（ソース・トライアンギュレーション）",
-   "results": []
+   "results": [
+    "https://www.facebook.com/Gooseberry12000/",
+    "https://www.facebook.com/groups/aiacademy.jp/",
+    "https://www.facebook.com/mdhphotog/",
+    "https://www.facebook.com/ibooks.japan/photos/chatgptでの卒論作成はバレるのかai判定出典管理ドラフト運用のコツ1-なぜバレるのかai判定と人的判定のメカニズム1-1-ツールによるai判定文体の統計的/1208298017979702/",
+    "https://www.facebook.com/ibooks.japan/posts/chatgptでの卒論作成はバレるのかai判定出典管理ドラフト運用のコツ1-なぜバレるのかai判定と人的判定のメカニズム1-1-ツールによるai判定文体の統計的/1208298237979680/",
+    "https://www.facebook.com/Miwa007/",
+    "https://www.facebook.com/kouta.atsumi.9/videos/先生のための商業出版プロジェクトがどれだけ確度の高い事業かと言えばたとえば令和の龍では今まで放送された10回のうちで見ていただくと分かるポジティブな結末になった/1128350599881389/"
+   ]
   },
   {
    "query": "出典の独立性と確度の判定（ソース・トライアンギュレーション） note 社長",
    "results": [
     "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "https://scholarcompass.net/columns/184",
     "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "https://scholarcompass.net/columns/184",
     "https://www.ritsumei.ac.jp/file.jsp?id=254534",
-    "https://www.igaku-shoin.co.jp/paper/archive/old/old_article/n2000dir/n2374dir/n2374_03.htm",
     "https://note.com/reading_monkey/n/nd296c3a4db64",
-    "https://jlta2016.sakura.ne.jp/tutorial/Qualitative%20Methods/contents/page_032.html",
-    "https://www.zentsuken.net/journal/file/173_1.html"
+    "https://www.igaku-shoin.co.jp/paper/archive/old/old_article/n2000dir/n2374dir/n2374_03.htm",
+    "https://www.zentsuken.net/journal/file/173_1.html",
+    "https://rde.ac/DOIx.php?id=10.5395/rde.2021.46.2.e29"
    ]
   },
   {
@@ -1241,8 +1292,8 @@
     "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
     "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://formative.jmir.org/2021/11/e24332",
     "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
+    "https://formative.jmir.org/2021/11/e24332",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://jp.edanz.com/blog/peer-review-limitations",
     "https://ci.nii.ac.jp/naid/10013302688/",
@@ -1267,6 +1318,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-05T00:07:26.055012+00:00"
 }
