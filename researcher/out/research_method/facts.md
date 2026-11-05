@@ -1,0 +1,892 @@
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・12品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## デスクリサーチで書かれていない数字を推定する方法（desk research estimating unpublished numbers）
+- 文脈：推定
+- 手順・やり方：
+  - 「市場規模算出の目的と、思考のフレームワークである「TAM / SAM / SOM」について解説」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「「3つの手順」と、数字の解像度を上げるための「泥臭いテクニック」」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「実践編：市場規模を算出する「3つのステップ」」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「Step 1: すでに存在するレポートから調べる」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「Step 2：算出ロジックを組み立てる（4つのアプローチ）」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「Step 3：データの精度を高めるテクニック」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「ではここから、私がいつも市場規模を算出するために行っていることをステップごとにご紹介します」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「ここで私が意識しているのは、1つの計算方法に頼らず、複数の手法で計算して妥当性を検証する」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「顧客1人、あるいは店舗1つあたりの経済活動を特定し、それを積み上げる方法」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「「リープフロッグ（技術的飛躍）」型のビジネスに最適」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「ここまで、技術的な手法やフレームワークについてお話ししてきましたが、改めて最後に強調したいのは」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「『日本とアフリカ諸国を繋ぎ、社会課題解決型ビジネスを共創することで、アフリカの持続的成長に貢献する』をビジョンに日本企業のアフリカへのビジネス進出や現地での事業開発をサポートする日系コンサルティング会社です」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル｜ k_bird｜Branding Strategist｜ASAKO」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「正しい手順とフレームワークさえ踏めば、誰にでも習得可能な「論理的思考の技術」であり、再現性のある「方法論」だ」（https://note.com/missiondrivencom/n/n9201e39a1296）
+- 突き合わせ・推定：
+  - 「ここで私が意識しているのは、1つの計算方法に頼らず、複数の手法で計算して妥当性を検証する」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「特に現場実装を前提とするアフリカビジネスでは、この推定が事業の成否を分けます」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「正確な数字がない場合は、論理的な推論（フェルミ推定）を用います」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「推定は数字の正確性よりも、「仮定が明示されており、議論・修正が可能である」という点」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「知りたい直接的なデータ（例：特定商品の正確な売上高など）が存在しない場合でも、それと強い相関関係にある別のデータ、すなわち「プロキシ」を探すことで実態を推計」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「デスクリサーチの仮説を、現地の「肌感覚」で修正します」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「デスクリサーチで立てた仮説は、必ず現地の「肌感覚」と照らし合わせて修正する必要」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「「公式市場の1.5倍〜2倍程度の実態があるのではないか？」といった仮説を持ち、現地パートナーの知見を借りて係数として組み込む視点を持つことが重要です」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「フェルミ推定」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル｜ k_bird｜Branding Strategist｜ASAKO」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「このページに辿り着いたあなたなら、今まさに「フェルミ推定をマスターして、思考の解像度を上げたい」、あるいは「コンサル流の地頭の良さを自分のスキルとして定着させたい」という強い向上心を持っていることだろう」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「「フェルミ推定」という言葉を聞いて、あなたはどのような印象を持つだろうか？」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「フェルミ推定とは、単なる「数字の当てっこ」ではない」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「それは、混沌とした不確実なビジネス環境において、手元にある限られた情報から「筋の良い仮説」を導き出し、意思決定を加速させるための「最強の思考OS」であり、戦略的思考スキルの土台である」（https://note.com/missiondrivencom/n/n9201e39a1296）
+- 一次情報の探し方：
+  - 「① 公的機関」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「各国の統計局（例：ケニア国立統計局 KNBSなど）がWebサイトでデータを公開している場合があります」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「更新頻度はまちまちですが、人口センサスなどの一次情報はここで確認します」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「現地の統計局に比べて国際機関のデータの方がよく整備されておりアクセスも容易です」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「世界中の統計データを集約したプラットフォーム」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「統計データが不足しているアフリカ市場において」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「また、アフリカの多くの国では製造業が未発達で輸入に依存しているため、特定の消費財市場を知るには「HSコードに基づく輸入統計（UN Comtradeなど）」がそのまま市場規模に近い数値を示すことも少なくありません」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「統計情報が少ないアフリカにおいて、市場規模算出に「正解」はありません」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「2つ目は「最新の統計数字を知らないから計算できない」と諦めてしまうことだ」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「しかし、一流のコンサルタントもすべての統計を暗記しているわけではない」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「最も手軽で強力な手法が、自分自身の行動や周辺の事象を統計の最小単位として扱う「サンプル・オブ・ワン」だ」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「：誰もが知っている巨大市場や国家統計と比べる」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「以下はストラテジストが「世界のスケール感」を測るために頭に入れている必須の統計定数だ」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「公的統計調査」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「委託調査（公的統計）」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+- 失敗・落とし穴：
+  - 「注意ポイント：インフォーマルセクターを見落とさない」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「これらは非常に質が高い一方で、一部のサービスや詳細なレポートは「有料」となる点に注意が必要です」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「その中で多くのビジネスパーソンが、KPIや既存データといった「目に見える指標」に過度に依存する「可視化依存社会」の罠に嵌まっている」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「脳が「未知のもの」に対して拒絶反応を起こす際、特定の「心理的な罠」に嵌まっているからだ」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「罠-1：正解主義の呪縛」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「一つ目の罠は、日本の教育で植え付けられた「テストには必ず1つの絶対的な正解がある」という思い込みだ」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「罠-2：知識依存の罠」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「罠-3：計算衝動の罠」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「思考の停止を防ぐ「7つの認知バイアス」――論理の罠を回避せよ」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「以下の「心理の罠」に陥っていないか、常に客観的なメタ認知を働かせる必要がある」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「代表性バイアス」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「正常性バイアス」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「確証バイアス」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「KPIや数値データなどの「目に見える」情報に注意が奪われ「目に見えない」質的な側面や、背景にあるストーリーは軽視されていく」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「「一生もののスキルになるのは間違いない」」（https://note.com/missiondrivencom/n/n9201e39a1296）
+- 実例：
+  - 「例えば、富裕層や中間層の規模を把握したい場合、高級ショッピングモールの店舗数やiPhoneのシェア率、あるいはインターナショナルスクールの生徒数などが有効な指標となります」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「「外資系コンサルのケース面接（入社試験）のための特殊なクイズ」」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「例えば、日本全体の売上を考える際、いきなり細かい数字を追うのではない」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「C：Calibration（キャリブレーション）――結果の妥当性検証」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「：算出された結果が、自分が想定していた「桁の範囲」に収まっているかを確認する」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「：例えば、あるニッチな「高級文房具」の市場規模を「5兆円」と推定したとする」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「：その結果、「日本国民全員が、365日欠かさずその商品を1日5回買う」という結論になっていないか？ 「一店舗あたりの売上が、24時間不眠不休で客を詰め込んでも不可能な数字」になっていないか？」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「一つの問いに対して、複数の解法（モデル）を試み、その結果が近似するかを確認する」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「計算結果を常識という名の『物差し』で測り直し、論理の健全性を保証する防波堤である」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「：周辺アクセサリー市場（スマホケース等）、代替サービス（カーシェアリング等）」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「事実を整理するだけ、分析結果を説明するだけ、誰かの意見に同調するだけでは、プロフェッショナルとして十分とは言えない」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「短期的な結果を求めるあまり、問題の本質に向き合う時間を確保できず、解決策は表面的なものになる」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「しかし本書は「仮説思考に必要な頭の使い方の手順」を、豊富な事例とともに徹底解説している」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「調査結果の分析効率化ダッシュボード構築支援」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「調査結果は、ニーズ・アイディア検索や市場把握の資料としてご活用ください」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+
+## 複数の情報源を突き合わせる三角測量（トライアンギュレーション）（triangulation multiple sources research）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「単一の情報源に依存せず、複数の異なる手段から情報を集め、突き合わせることで真実に近づく方法です」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
+  - 「こんにちは！今回は、質的研究においてその質を上げるための方法として」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「でも、初心者の皆さんでも活用できる方法があるかもしれません」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「その方法の一つとして、」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「これは複数の観測地点から目標物への角度を測定し、その位置を特定する方法です」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「複数のデータソース、方法論、また理論を用いて研究対象を多角的に分析すること」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「これにより、単一の視点や方法だけを使った場合に生じる偏り（バイアス）を減らし、結果の妥当性と信頼性を高めます」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「これは、 異なる人・時間・場所から同じ現象に関するデータを収集し比較する方法です」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「ただ、この方法をとると妥当性・信頼性は高まりますが、対象者の人数が増えていきますので、初心者の皆さんや臨床の看護研究では、時間的制約が多いので、非現実的かもしれませんね」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「２番目は、調査をする人のトライアンギュレーションで、複数の研究者が独立して同じデータを分析し、解釈を比較検討する方法です」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「これは複数の理論的枠組みを用いて同じデータを分析・解釈する方法です」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「こうすると、家族支援の多面的な側面を理解し、より包括的な支援方法を導き出せそうですね」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「4. 方法論的トライアンギュレーション」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「最後は、方法論のトライアンギュレーションです」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「これは、複数のデータ収集方法を組み合わせて同じ現象を調査する方法です」（https://note.com/goldmist1959/n/nb892f5128ad2）
+- 突き合わせ・推定：
+  - 「単一の情報源に依存せず、複数の異なる手段から情報を集め、突き合わせることで真実に近づく方法です」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
+  - 「地図でいう「三角測量」のイメージです」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
+  - 「フェルミ推定」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
+  - 「の発想を借りて、事前に仮説を立てることにしました」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
+  - 「業界の慣行から推測される原価構造、直近の設備投資の動向、競合製品との差分——これらを組み合わせて「おそらく先方が困っているのはこのあたりではないか」という仮説を3つほど作って商談に入りました」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
+  - 「そしてその仮説があったことで、商談の序盤から「課題を一緒に考える対話」が始まりました」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
+  - 「"triangulation"」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「これを日本語に役すると、「三角測量」ということになります」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「この三角測量とは一体なんでしょうか？」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「本稿では、大規模言語モデル（Large Languagn Model, LLM）の急速かつ劇的な進歩を踏まえ、社会学の研究者であるノーマン・K・デンジンが1970年代に提唱した「トライアンギュレーション（三角測量）」という方法論の拡張を、デザインリサーチの多元化の一例として考察したいと思います」（https://note.com/kasano/n/n5300393c2f30）
+  - 「を用いる「トライアンギュレーション（三角測量）」によって、デンジンは批判を乗り越えようとしたのです」（https://note.com/kasano/n/n5300393c2f30）
+  - 「Triangulation 2.0」（https://note.com/kasano/n/n5300393c2f30）
+  - 「トライアンギュレーション（triangulation）」（https://note.com/saito_lab/n/n554cd436c4ae）
+  - 「そこで、複数のデータ・方法・研究者・理論を組み合わせて、同じ現象を多角的に検証する考え方が」（https://scholarcompass.net/columns/184）
+  - 「もともとは測量の「三角測量」に由来する言葉で、質的研究の妥当性を高める工夫として広まりました」（https://scholarcompass.net/columns/184）
+- 一次情報の探し方：
+  - 「実験研究や統計学的処理をしたアンケート調査と比較し、質的研究は主として対象者の語りを分析しますので、結果に数値が使われません」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「エビデンスとしてはやはり統計的に処理をした数値で表す方がどうしても客観性が高くみられるので、質的研究の結果は、量的研究を主とする研究者から、「エビデンスとして価値があるのか？」と懐疑的にみられやすいです」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「しかし、量的な研究にも限界があり、統計学的処理の結果だけをエビデンスとしても患者や住民の困っていることを解決する際には、偏りが出てきます」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「例えば、インタビューの文字おこしをテキストマイニングのような統計的手法をもちいて頻出語句を調べたり、GTAやSCATのようなテクスト分析から文脈を抽出することも」（https://note.com/kasano/n/n5300393c2f30）
+  - 「同様に同じデータを解析するにしても、古典的な統計手法や」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
+  - 「バラツキのロバスト統計量（７）- 指数分布で比較」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
+  - 「バラツキのロバスト統計量（６）- 一様分布で比較」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
+  - 「バラツキのロバスト統計量（５）- 正規分布で比較」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
+  - 「バラツキのロバスト統計量（４）- [math] \displaystyle Q_n [/math]」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
+  - 「統計要約量 (23)」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
+  - 「http://www.edu-ctr.pref.okayama.jp/chousa/study/h19/07-04.pdf#search='%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%AE%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3+%E6%95%99%E8%82%B2」（https://keywordkatakanagojiten2013.blogspot.com/2015/04/blog-post_55.html）
+  - 「富山大学医学部医学科 医療統計学講座」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_article/-char/ja）
+  - 「PDFをダウンロード」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_article/-char/ja）
+  - 「疫学や統計学では因果関係を立証するための方法論を総じて因果推論と呼ぶ」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_article/-char/ja）
+  - 「【Mac編】統計解析ソフトrのダウンロード&インストール方法」（https://clitama.human-relation.net/triangulation/）
+- 失敗・落とし穴：
+  - 「人間には「確証バイアス」があります」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
+  - 「これにより、単一の視点や方法だけを使った場合に生じる偏り（バイアス）を減らし、結果の妥当性と信頼性を高めます」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「坪山先生（2021） 「3.トライアンギュレーション：徹底したバイアスの排除」」（https://note.com/saito_lab/n/n554cd436c4ae）
+  - 「（4）研究者のバイアス排除」（https://note.com/saito_lab/n/n554cd436c4ae）
+  - 「また、インタビューの手法についても、異なるタイプを組み合わせるころで、バイアスを少なくし、より正確な情報の取得に勤めます」（https://note.com/saito_lab/n/n554cd436c4ae）
+  - 「個別のインタビューにおいて実施から24 時間以内にメモやテープ起こしを作成することで記憶の歪みを防ぐことが推奨されている．それと同時に，複数の研究者の参加により，個々の研究者の持ち込むバイアスが研究に影響を及ぼすことを防ぐことも推奨されている．」（https://note.com/saito_lab/n/n554cd436c4ae）
+  - 「この記事では、トライアンギュレーションの意味、デンジンによる4つの種類、目的、具体例、混合研究法との関係、注意点までを、研究法の標準的な文献にもとづいて整理します」（https://scholarcompass.net/columns/184）
+  - 「ただし注意点として、「トライアンギュレーション」という言葉は、デンジンが提唱した」（https://scholarcompass.net/columns/184）
+  - 「トライアンギュレーションのメリットと注意点」（https://scholarcompass.net/columns/184）
+  - 「注意点・限界」（https://scholarcompass.net/columns/184）
+  - 「それぞれの方法が同じ弱点（バイアス）を共有していれば、いくつ重ねても偏りは補正されません」（https://scholarcompass.net/columns/184）
+  - 「注意点・誤解されやすい点」（https://scholarcompass.net/columns/184）
+  - 「：方法を増やすこと自体が目的化しないよう注意が必要です」（https://scholarcompass.net/columns/184）
+  - 「食い違いは失敗ではなく、重要な手がかりです」（https://scholarcompass.net/columns/184）
+  - 「情報源同士の不一致は失敗ではなく、知見の一つです」（https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026）
+- 実例：
+  - 「その差が、長い目で見ると大きな結果の違いになる、ということなのだと思っています」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
+  - 「結果として、3つのうち2つは的外れでしたが、1つが「まさにそこが課題です」という反応をもらえました」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
+  - 「質的研究の結果はエビデンスになるのか？」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「実験研究や統計学的処理をしたアンケート調査と比較し、質的研究は主として対象者の語りを分析しますので、結果に数値が使われません」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「エビデンスとしてはやはり統計的に処理をした数値で表す方がどうしても客観性が高くみられるので、質的研究の結果は、量的研究を主とする研究者から、「エビデンスとして価値があるのか？」と懐疑的にみられやすいです」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「しかし、量的な研究にも限界があり、統計学的処理の結果だけをエビデンスとしても患者や住民の困っていることを解決する際には、偏りが出てきます」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「これにより、単一の視点や方法だけを使った場合に生じる偏り（バイアス）を減らし、結果の妥当性と信頼性を高めます」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「例えば、５人しか調査できないのに、全て異なった属性の人を選んでしまうと、類似の現象が得られずに、カテゴリーを作ること困難になるかもしれません」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「患者の疼痛管理に関するインタビューデータを、複数の研究、例えば、臨床看護師、疼痛専門看護師、看護教育者の3名が別々に分析します」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「例えば、終末期患者の家族支援に関するデータを、危機理論（家族の心理的危機への対応）、グリーフケア理論（悲嘆プロセスへの支援）、システム理論（家族を一つのシステムとして捉える）など異なる理論的視点から分析してみます」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「例えば、新人看護師の職場適応過程を研究する場合、質問紙調査（ストレスレベルや満足度の定量評価）、個別インタビュー（個人の経験や感情の深い理解）、業務場面の参与観察（実際の行動パターン）、プリセプターの指導記録分析（公式な評価）を組み合わせてみます」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「例えば、質的なインタビュー調査だけでなく、定量的なアンケート調査も行ない、その結果を比較することで、より正確な分析を目指します」（https://note.com/kasano/n/n5300393c2f30）
+  - 「また、トライアンギュレーションは、単一の研究者の偏りや主観性を排除するためにも有効であり、異なる研究者や研究グループが異なる手法で同じ問題に取り組むことで、より客観的な結果を得ることができるとされています」（https://note.com/kasano/n/n5300393c2f30）
+  - 「例えば、2050年のユーザーが置かれる予測などを入力し、その上で現在の定性的な調査内容をともに分析したり、アイデア創出ワークショップの参加者としてともに考えることも可能になるのです」（https://note.com/kasano/n/n5300393c2f30）
+  - 「例えば、インタビューの文字おこしをテキストマイニングのような統計的手法をもちいて頻出語句を調べたり、GTAやSCATのようなテクスト分析から文脈を抽出することも」（https://note.com/kasano/n/n5300393c2f30）
+- 検索結果の抜粋：
+  - 「質的研究におけるトライアンギュレーションとは｜M. Kawabata, RN., P... — Mar 7, 2025 · こんにちは！今回は、質的研究においてその質を上げるための方法として トライアンギュレーション について説明します ...」（https://note.com/goldmist1959/n/nb892f5128ad2）
+  - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ...VP ARCHIVE SCIENCE | Measuring the Earth PHASE 01-06 ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...上谷 良吉 ～解析空中三角測量システムの開発と実用化～ — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査をおこなう研究者から度々批判が」（https://note.com/kasano/n/n5300393c2f30）
+  - 「287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ... — Jun 11, 2025 · 今日は、坪山先生（2021） 「3.トライアンギュレーション：徹底したバイアスの排除」についての整理です。 Eisenhardt メソッドの特徴に、 徹底したトライアンギュレーションによって研究の厳密性を確保しようとしている p.26 が挙げられます。」（https://note.com/saito_lab/n/n554cd436c4ae）
+  - 「トライアンギュレーション とは？意味・4つの種類・研究での ... — トライアンギュレーション とは？意味・4つの種類・研究での ... scholarcompass.net https://scholarcompass.net > コラム」（https://scholarcompass.net/columns/184）
+  - 「質的研究における トライアンギュレーション とは？4つの型と ... — 質的研究における トライアンギュレーション とは？4つの型と ... Qualitati https://qualitati.com > blog > what-is-triangulation-qualitat...」（https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026）
+  - 「トリアンギュレーション・ トライアンギュレーション — トリアンギュレーション・ トライアンギュレーション さくらインターネット https://navymule9.sakura.ne.jp > 16_triangulation_Social...」（https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html）
+  - 「トライアンギュレーション （データの 三角測量 ） — トライアンギュレーション （データの 三角測量 ） はてなブログ https://oceanone.hatenablog.com > entry > 2020/02/19」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
+
+## 企業分析のやり方（非上場・中小企業）（how to analyze private small companies）
+- 文脈：企業
+- 手順・やり方：
+  - 「第四の項目である子会社および企業グループの評価方法について、現行制度では親会社が保有する子会社株式を純資産価額等により個別に算定して織り込んでいます」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「これは、地域経済の構造転換と企業の大型化を促す産業政策の方向性と正面から衝突します」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「ドイツの相続・贈与税法（ErbStG）は、中規模企業（Mittelstand）の事業継続と雇用を守るため、事業資産に対して85%免税の基本型または100%免税の選択型という極めて手厚い事業資産控除（Verschonungsabschlag）を設けていました32」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「第二に、事業承継税制の対象拡大とインセンティブ連動型への再設計です」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「【企業分析シート付き】企業研究のやり方とポイントを徹底解説！｜就活サイト【ワンキャリア】」（https://www.onecareer.jp/articles/3345）
+  - 「【企業分析シート付き】企業研究のやり方とポイントを徹底解説！」（https://www.onecareer.jp/articles/3345）
+  - 「企業研究のやり方」（https://www.onecareer.jp/articles/3345）
+  - 「「企業研究のやり方がわからない」「どんな情報を集めればいいの？」」（https://www.onecareer.jp/articles/3345）
+  - 「企業研究は、志望動機やES、面接対策のすべての土台となる重要なステップです」（https://www.onecareer.jp/articles/3345）
+  - 「就活初心者でも今日から実践できる企業研究のやり方」（https://www.onecareer.jp/articles/3345）
+  - 「また、企業研究ノートの作り方や調べるべき項目リスト、情報収集のコツまで徹底解説します」（https://www.onecareer.jp/articles/3345）
+  - 「企業研究のやり方｜全体像を5ステップで解説！」（https://www.onecareer.jp/articles/3345）
+  - 「ステップ1. 企業研究先を決める」（https://www.onecareer.jp/articles/3345）
+  - 「ステップ2. 企業研究ノートのテンプレートを用意する」（https://www.onecareer.jp/articles/3345）
+  - 「ステップ3. 企業の基本情報を調べ、企業研究ノートに書き込む」（https://www.onecareer.jp/articles/3345）
+- 突き合わせ・推定：
+  - 「会計検査院による抽出調査および国税庁による再検証データは、現行の類似業種比準方式が内包する客観的な価格乖離を明らかにしました2」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「国税庁の集計では、過去10年間に14件、推計約14億円に及ぶ税額減少事例が把握され、課税の公平性を著しく損ねている実態が是正の論拠として位置づけられました7」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「ギリシャにおいて2002年に同族企業内の承継税率が20%から2%へと大幅に引き下げられた制度変更を差の差法（Difference-in-Differences）によって検証した結果、高率課税に直面した企業は承継の前後において設備投資（有形固定資産投資）が40%以上減少することが確認されました19」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「このような行動様式は、政府が賃上げ促進税制や中小企業投資促進税制を通じて推進してきた設備投資の拡大や賃金引き上げという政策目標と根本的に矛盾し、中小企業セクター全体の生産性向上を抑制する要因となってきました8」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「完璧な企業研究を目指すよりも、「自分が納得できる仮説を持っているか」を重視しましょう」（https://www.onecareer.jp/articles/3345）
+  - 「「仮説を立てて動く」」（https://www.onecareer.jp/articles/3345）
+  - 「売り手が「会社には7億円の価値がある」と考え、買い手が「株式は4億円」と考えている場合、両者は必ずしも矛盾したことを言っているわけではありません」（https://www.ma-cp.com/about-ma/unlisted-stock-valuation/）
+  - 「この場合、それぞれの前提を検証しながら、おおむね3億8,000万円～4億4,000万円の範囲を交渉の目安とする、といった整理が考えられます」（https://www.ma-cp.com/about-ma/unlisted-stock-valuation/）
+  - 「事業計画を作成し、実績との差異を検証する習慣をつけておく」（https://www.ma-cp.com/about-ma/unlisted-stock-valuation/）
+  - 「(the factor multiplied by the company’s EBITDA) to estimate enterprise value.」（https://1719partners.com/small-business-private-equity-what-to-expect-and-how-to-choose-the-right-partner/）
+  - 「Option #2: Estimate the Company’s “Future Liquidation Value” and Use That for its Terminal Value」（https://mergersandinquisitions.com/private-company-valuation/）
+  - 「and its Terminal Value, and then you discount both of them back to their Present Values and add them to estimate the company’s implied value.」（https://mergersandinquisitions.com/private-company-valuation/）
+  - 「You could estimate Beta and Cost of Equity by using dividend growth or earnings volatility relative to a broad index instead.」（https://mergersandinquisitions.com/private-company-valuation/）
+  - 「Damodaran recommends using “Total Beta” to estimate Beta by linking it to the market correlation factor of the company and the “portfolio diversification factor.”」（https://mergersandinquisitions.com/private-company-valuation/）
+  - 「cross-check it by calculating the implied multiple or long-term growth rate」（https://mergersandinquisitions.com/private-company-valuation/）
+- 一次情報の探し方：
+  - 「しかし、会計検査院が公表した令和5年度決算検査報告における構造的問題の指摘を直接の契機として、国税庁の取引相場のない株式の評価に関する有識者会議において評価通達の抜本的改定に向けた議論が急速に進展しました3」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「このモデルは、将来予測に伴う主観性を排除するために過去実績の平均値を採用し、継続企業の価値を簿価純資産と収益性の双方から直接算定する構造を目指しています7」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「国税庁が採用を目指す残余利益モデル（Residual Income Valuation: RIV）は、近代会計学および資本市場理論において理論的整合性が高く評価されている枠組みです15」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「類似業種比準方式は、配当金額、利益金額、簿価純資産価額の比準3要素を基礎として株価を算定する仕組みを採用してきました14」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「ドイツの制度は、簡便収益還元法または客観的時価を基礎とし、事業資産控除として85%免税または100%免税の選択制を採用しています32」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「https://www.nta.go.jp/about/council/nai-hyoka/20260820/pdf/05giji_kabukaigi.pdf」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「https://www.chusho.meti.go.jp/zaimu/zeisei/2026/260916.pdf」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「https://www.nta.go.jp/about/council/nai-hyoka/20260820/pdf/05kijoshiryo_kabukaigi.pdf」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「https://www.nta.go.jp/about/council/nai-hyoka/20260820/pdf/05shiryo_kabukaigi.pdf」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「https://www.nta.go.jp/about/council/nai-hyoka/20260604/pdf/03giji_kabukaigi.pdf」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「Ohlson's Clean Surplus Valuation Model | PDF | Book Value - Scribd,」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「https://www.fondazioneoiv.it/wp-content/uploads/2019/06/Residual-Income-Model.pdf」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「https://exinfm.com/pdffiles/ca.pdf」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「https://www.imes.boj.or.jp/research/papers/english/me34-1.pdf」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「https://edoc.ku.de/id/eprint/35276/1/ssrn-4800777.pdf」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+- 失敗・落とし穴：
+  - 「純資産の厚い建設会社ほど注意す,」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「企業研究を行う際の6つの注意点」（https://www.onecareer.jp/articles/3345）
+  - 「両者を混同してしまうと、就活で必要な作業に抜け漏れや重複が生じる恐れがあるため、十分注意してください」（https://www.onecareer.jp/articles/3345）
+  - 「このとき、最初から企業研究先を絞りすぎると、視野が狭まり後悔するケースもあるので注意が必要です」（https://www.onecareer.jp/articles/3345）
+  - 「一人の意見を鵜呑みにしないこと」（https://www.onecareer.jp/articles/3345）
+  - 「記載金額は手取りではなく、税金や社会保険料を控除する前の総額であるため、注意してください」（https://www.onecareer.jp/articles/3345）
+  - 「選考の開始時期も企業によって異なるため、注意が必要です」（https://www.onecareer.jp/articles/3345）
+  - 「これらの注意点を意識すれば、企業理解を深めるだけでなく、選考対策でも力を発揮するでしょう」（https://www.onecareer.jp/articles/3345）
+  - 「企業研究の方法を列挙するとともに、各方法の注意点やポイントを解説します」（https://www.onecareer.jp/articles/3345）
+  - 「6つの注意点」（https://www.onecareer.jp/articles/3345）
+  - 「よくある失敗は、情報をまとめることに満足してしまい、「企業研究ノートを埋めること」が目的になってしまうことです」（https://www.onecareer.jp/articles/3345）
+  - 「インターネットで得た情報は不確かなものもあるため、注意しましょう」（https://www.onecareer.jp/articles/3345）
+  - 「企業分析のやり方や注意点について徹底的に解説」（https://campus.doda.jp/career/job/000292.html）
+  - 「例えば、銀行を志望する際、「お金の貸付」がメイン事業であることは間違いありませんが、これはどの銀行にも言えること」（https://campus.doda.jp/career/job/000292.html）
+  - 「企業分析でやりがちな失敗！3つの注意点とは？」（https://campus.doda.jp/career/job/000292.html）
+- 実例：
+  - 「この乖離を背景として、純資産価額に対する申告評価額の割合の中央値は大会社で0.32倍、中会社で0.50倍、小会社で0.61倍となり、企業規模が大きくなるほど類似業種比準方式の適用比率が高まる結果、評価額が純資産に対して相対的に著しく低く抑えられる逆転構造が形成されていました」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「国税庁の集計では、過去10年間に14件、推計約14億円に及ぶ税額減少事例が把握され、課税の公平性を著しく損ねている実態が是正の論拠として位置づけられました7」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「客観的時価の名の下に評価額を引き上げることは、後継者個人に対して多額の現金納税負担を一方的に課す結果となり、担税力の原則と乖離します」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「商工会議所等の試算によれば、一定の自己資本と利益を蓄積した中堅企業において、評価額が現行方式と比較して2倍から5倍に膨張するケースが報告されています7」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「対して中小企業庁は、過去10年で14件と把握された特定事例への対処であれば、現行通達の運用の厳格化によって個別に対処可能であると反論しています」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「理論的残余利益モデルは将来の業績予想および無限期間の残余利益の収束を仮定しますが、税務執行における大量画一的処理および争訟防止の要請から、国税庁案では将来予測を排除し、過去数期（概ね5年間）の実績純利益の平均値を基礎として、有限期間（例えば5年分）の超過収益を割り引かずに合算する簡便法が検討されています」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「税務通達において画一的な資本コスト率を設定した場合、リスクの高い業種や新興企業に対して過大評価を強いる結果となります」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「ギリシャにおいて2002年に同族企業内の承継税率が20%から2%へと大幅に引き下げられた制度変更を差の差法（Difference-in-Differences）によって検証した結果、高率課税に直面した企業は承継の前後において設備投資（有形固定資産投資）が40%以上減少することが確認されました19」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「この実証結果は、相続税の納税義務が後継者個人に帰属する場合であっても、後継者は納税資金を工面するために企業から配当金や役員報酬の形でキャッシュを引き出さざるを得ず、結果として企業の内部留保が流出して投資機会が奪われる流動性制約チャネルの存在を明確に示しています8」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「その結果、創業者一族の子供が経営を引き継ぐ同族承継は、外部の専門経営者を登用する非同族承継と比較して、承継後の総資産利益率（ROA）を平均して約4%ポイント悪化させることが実証されました27」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「金融市場に情報の非対称性や借入制約が存在する場合、外部の優秀な労働者出身者は買収資金を調達するために高い金利負担を課される一方、親の資産を無税で引き継ぐ能力の劣る同族後継者が市場に居座る結果となり、マクロ経済全体で経営資源のミスアロケーション（不適正配分）が固定化されます9」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「承継課税の経済的影響に関する代表的な先行研究および国際機関の分析結果は、本見直し議論に対してそれぞれ重要な示唆を与えています」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「この結果は、税制優遇によって同族承継を無条件に誘導することが経営能力のミスマッチを長期固定化させるリスクを浮き彫りにしています22」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「この結果、同族企業の経営者が承継時期を控えて意図的に設備投資を手控え、過大な役員報酬や退職金を計上して会計上の利益を消却し、配当を抑制するという非効率性のタックスシールドが常態化してきました7」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「例えば、金融業界やメーカー業界といった業界で絞るのもいいですし、コンサル職や営業職といった職種で絞るのもいいでしょう」（https://www.onecareer.jp/articles/3345）
+
+## 求人情報・採用ページから会社の実態を読む方法（infer company from job postings）
+- 文脈：企業
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 統計（e-Stat・工業統計・経済センサス）の読み方と時系列の作り方（how to use Japanese government statistics time series）
+- 文脈：統計
+- 手順・やり方：
+  - 「ローカルカタログを併用して 2 回目以降の検索を API なしで即答させる方法」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「(約 2,000 のランキングを毎日自動更新) を個人で開発・運用しており、本記事の検索手順はその実運用で日々動いているものです」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「同じテーマでも調査が複数あり、調査ごとに調査年・対象範囲・集計方法が違います」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「企業型年金の運用実態について」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「環境保全型農業推進農家の経営分析調査」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「農業経営改善計画の営農類型別認定状況」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「家畜排せつ物管理方法等実態調査」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「ビッグデータを活用した商業動態統計調査（試験調査：家電大型専門店分野）」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「エコツーリズムガイド等の国内実態調査」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「学校等種類別収入内訳 幼保連携型認定こども園」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「」をご記憶でしょうか？ 厚生労働省が実施する「毎月勤労統計」が、定められた方法で調査が行われていなかったことが発端となって、国会でも激論となり、連日一般のニュースでも大きく取り上げられ、大問題となりました」（https://note.com/keisemi/n/naf14ab3c9062）
+  - 「e-Stat（政府統計の総合窓口）の使い方」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
+  - 「• 「分野」から統計を探す場合の方法ーまとめ」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
+  - 「方法などを知ることが可能です」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
+  - 「「分野」から統計を探す場合の方法ーまとめ」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
+- 突き合わせ・推定：
+  - 「e-Stat には膨大な統計表が登録されており、同じ「人口」でも「国勢調査」「人口推計」「住民基本台帳人口移動報告」など複数の調査に分かれています」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「: 国勢調査 / 人口推計 / 経済センサス / 学校基本調査 / 賃金構造基本統計調査 など」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「市町村別農業産出額（推計）」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「家庭からの二酸化炭素排出量の推計に係る実態調査 試験調査」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「同ウェブサイトにて、四半期速報および年次推計などの各種データや解説が提供されている」（https://note.com/keisemi/n/naf14ab3c9062）
+  - 「各部門別に全要素生産性（TFP）を推計するために、資本サービス投入指数と資本コスト、労働投入指数と労働コスト、名目・実質の生産・中間投入、TFPの上昇率を計算した成長会計の結果等を網羅した年次データから構成される」（https://note.com/keisemi/n/naf14ab3c9062）
+  - 「オランダのフローニンゲン大学のチームが中心となってEU主要国、米国、韓国等について産業別に全要素生産性の推計を行ってきたデータベース」（https://note.com/keisemi/n/naf14ab3c9062）
+  - 「選択バイアス（特定の人だけ回答）・確証バイアス（自分の仮説に合うデータのみ見る）・生存バイアス（成功事例しか残らない）など、データが偏る構造を意識する」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
+  - 「自分の仮説に合うデータだけを探す」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
+  - 「人口・将来推計」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
+  - 「（国立社会保障・人口問題研究所）の「日本の地域別将来推計人口（令和5年推計）」では、2020年から2050年にかけての市区町村別人口を男女・5歳階級別に公表している」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
+  - 「日本の地域別将来推計人口（令和5年推計）」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
+  - 「参加者を無作為に介入群と対照群に分けて効果を検証する実験デザイン」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
+  - 「子どもの貧困率・地域別人口推計など社会課題に直結する統計は無料で入手できる」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
+  - 「例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
+- 一次情報の探し方：
+  - 「e-Stat の統計表 ID を最短で特定する — search-estat スキルで政府統計を 1 分で見つける｜統計で見る都道府県」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「e-Stat の統計表 ID を最短で特定する — search-estat スキルで政府統計を 1 分で見つける」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「統計で見る都道府県」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「「待機児童数の都道府県別データを e-Stat から取りたい」「県民所得の最新」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「値を 47 都道府県で比較したい」——統計担当・企画課でこの種の依頼を受」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「けた職員が、最初の 20-30 分を消費するのが「目的のデータがどの統計表に入っているか分からない」という状況です」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「e-Stat には膨大な統計表が登録されており、同じ「人口」でも「国勢調査」「人口推計」「住民基本台帳人口移動報告」など複数の調査に分かれています」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「e-Stat の統計表 ID (statsDataId) を 1 分で特定するワークフロー」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「「どの統計表に目的のデータが入っているか」を探すだけで 20-30 分かけている統計担当・企画課の職員」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「同じ「人口」でも調査が複数に分かれる e-Stat の構造に、毎回タブを開いて確認している方」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「データ取得依頼が月 5-10 件あり、探索時間を圧縮したい統計担当の方」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「現在は Claude Code で 47 都道府県の統計サイト」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「人口 10-30 万人規模の自治体では、企画課・統計担当が月 5-10 件の「データ取得依頼」を受けますが、その半分以上の時間が「該当する統計表 ID を探す」段階に消えるケースが少なくありません」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「e-Stat 利用規約上、商用・非商用を問わずデータ利用は自由です (出典: 政府統計の総合窓口 e-Stat 利用規約、出典明記必須)」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「背景: なぜ e-Stat の検索 UI は複雑か」（https://note.com/stats47/n/n7e4572d23a1b）
+- 失敗・落とし穴：
+  - 「各機関のホームページには該当する政府統計の「調査概要」「調査結果」「利用上の注意」「公表予定」「お問い合わせ先」等の情報が掲載されております」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「キーワード検索を使う場合の注意（単語の間のスペース）」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
+  - 「相関と因果の区別・母集団と標本・バイアスの把握が統計リテラシーの三本柱」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
+  - 「相関と因果・母集団と標本・バイアスの把握」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
+  - 「バイアスの型を見抜く」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
+  - 「選択バイアス（特定の人だけ回答）・確証バイアス（自分の仮説に合うデータのみ見る）・生存バイアス（成功事例しか残らない）など、データが偏る構造を意識する」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
+  - 「例: 成功したNPOの事例集——廃業した団体は調査に残らない（生存バイアス）」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
+  - 「社会課題の文脈でも同じ誤りは起きる」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
+  - 「バイアスの種類と回避法」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
+  - 「データの偏り（バイアス）は、統計の「正確さ」に対する最大の脅威だ」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
+  - 「◎選択バイアス」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
+  - 「◎確証バイアス」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
+  - 「◎生存バイアス」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
+  - 「◎測定バイアス」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
+  - 「「相関と因果を区別する」「誰に聞いた数字かを問う」「バイアスの構造を認識する」、この3つの習慣を持つだけで、データを読む力は大きく変わる」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
+- 実例：
+  - 「「待機児童」「人口移動」「県民所得」の 3 ケースで見る検索の絞り込み方」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「人口 10-30 万人規模の自治体では、企画課・統計担当が月 5-10 件の「データ取得依頼」を受けますが、その半分以上の時間が「該当する統計表 ID を探す」段階に消えるケースが少なくありません」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「結果一覧から各統計表のリンクをクリック (新タブで開く)」（https://note.com/stats47/n/n7e4572d23a1b）
+  - 「調査計画／点検・評価結果」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「点検・評価結果一覧」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「検索結果をさらに絞込み」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「地方選挙結果調」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「衆議院議員総選挙 最高裁判所裁判官国民審査結果調」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「参議院議員通常選挙結果調」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「地方公共団体における人事評価結果の活用状況等調査」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「関税及び内国消費税脱税事件に係る犯則調査結果」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「関税及び内国消費税の申告内容の輸入事後調査結果」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「定期健康診断結果報告」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「採石業者の業務の状況に関する報告書の集計結果」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+
+## 業界分析・業界構造の調べ方（一次情報から）（industry analysis primary sources method）
+- 文脈：業界
+- 手順・やり方：
+  - 「「高学歴じゃなくても、考え方とツールの使い方次第で戦える」をテーマに発信しています」（https://note.com/4kodai_student/n/n298d2518aad8）
+  - 「この記事では、私が企業研究で試行錯誤した結果たどり着いた方法を共有します」（https://note.com/4kodai_student/n/n298d2518aad8）
+  - 「AIを使って企業の情報を構造的に集め、複数の企業を比較できるようにするやり方です」（https://note.com/4kodai_student/n/n298d2518aad8）
+  - 「私がやった企業研究の方法：AIで「調べるべきこと」を構造化した」（https://note.com/4kodai_student/n/n298d2518aad8）
+  - 「ここからは、私が実際にやった企業研究の方法についてお話しします」（https://note.com/4kodai_student/n/n298d2518aad8）
+  - 「就活での考え方とAIの使い方を書いてます」（https://note.com/4kodai_student/n/n298d2518aad8）
+  - 「業界をまたいで「どう儲けているか」の型を学ぶ層です」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「この章では、業界研究そのもののやり方から教えてくれる入門書を集めました」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「2026年2月刊行のムックで、通常版から就活に必要な部分を抜き出し、業界研究のやり方の解説を足した構成になっています」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「A4変型の大判で図版が大きく、電車の中で開くのは少し勇気が要りますが、机に広げて業界を比較する使い方には向いています」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「夏のインターン選考から本選考へ移る時期に、最新の情報を補充する目的で買い足す使い方もできます」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「使い方のコツは、通読しないことです」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「ES提出直前や面接前日に該当ページだけ開き直す使い方が、いちばん費用対効果が高くなります」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「NA（回答拒否）表記の多さから企業の姿勢を読み取る、という使い方も定番です」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「読み方のコツは、NAの扱いにあります」（https://note.com/tasuto11/n/n3d32991f6192）
+- 突き合わせ・推定：
+  - 「この2つの目的から逆算すると、調べるべき情報はある程度絞れます」（https://note.com/4kodai_student/n/n298d2518aad8）
+  - 「全体を俯瞰する業界地図、企業のデータを突き合わせる就職四季報、志望業界を掘り下げる業界別の専門書、そして業界の稼ぎ方そのものを読み解くビジネスモデル本まで、就活のフェーズに合わせて選べるように並べました」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「業界と職種を「掛け算」で考えさせる構成」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「採用サイトの美しい言葉と、四季報の数字を突き合わせる作業が、企業研究の核心になります」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「ケース面接やフェルミ推定の対策本は別に必要ですが、その前提となる業界理解はこの1冊で足ります」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「㉚ もうけの仕組み ビジネスモデル大図鑑 404社を徹底検証!｜会社四季報業界地図編集部 編／井上達彦 監修」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「もうけの仕組み: ビジネスモデル大図鑑 404社を徹底検証!」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「就職四季報の数字と、業界地図のシェア情報、業界別の本の記述を突き合わせると、この1行が書けるようになります」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「例えば、「企業概要」「事業ポートフォリオ」「財務」「採用情報」だけしか調べない計画になっていたら、「競合比較をもっと厚くしてください」「投資先や具体的プロジェクトも見てください」「人材戦略と採用サイトを照合してください」「若手社員の仕事内容を追加してください」と変更する」（https://note.com/shukatsu_decode/n/ncf4c08c027df）
+  - 「そのうえで、「この3社の中期経営計画を比較し、今後3〜5年でどの領域へ投資しようとしているか整理してください」「統合報告書の人材戦略と採用サイトを照合し、各社がどんな人材を必要としているか比較してください」「決算説明資料から、各事業の利益構成と成長性を比較してください」と依頼する」（https://note.com/shukatsu_decode/n/ncf4c08c027df）
+  - 「ただし、個々の経験や主観に基づく情報もあるため、全てを鵜呑みにせず、自分なりに検証することが重要です」（https://typeshukatsu.jp/s/article/step/research/57960/）
+  - 「ただし、SNS上の情報は誤った情報が混在していることも多いため、複数の信頼できる情報源を照合し、情報の正確性を見極める姿勢が重要です」（https://www.wakayama-uiturn.jp/arekore/arekore014）
+  - 「③その変化が業界の売上/コスト/採用に与える影響を短い仮説にする」（https://br-campus.jp/articles/report/2408）
+  - 「次に、仮説を1つ立てたら、同じ数だけ「反対の根拠」も探す（例：成長業界でも減速要因は？）と、見落としが減ります」（https://br-campus.jp/articles/report/2408）
+  - 「③自分の仮説が崩れていないか」（https://br-campus.jp/articles/report/2408）
+- 一次情報の探し方：
+  - 「「受けるかどうかの判断」に必要なのは、待遇（初任給、残業時間、福利厚生）、採用選考の情報（選考フロー、求める人物像）、人材定着性（離職率、退職理由の傾向）などです」（https://note.com/4kodai_student/n/n298d2518aad8）
+  - 「もちろんそれは大切な一次情報ですが、実際の社風や職場の雰囲気、働いている人たちの様子は、文字だけではなかなか伝わりません」（https://note.com/4kodai_student/n/n298d2518aad8）
+  - 「待遇、採用選考、事業構造、技術戦略、開発文化……すべて同じ項目が同じ順番で並ぶので、後から2社、3社を横並びで比較できるようになります」（https://note.com/4kodai_student/n/n298d2518aad8）
+  - 「採用選考の情報」（https://note.com/4kodai_student/n/n298d2518aad8）
+  - 「採用人数・3年後離職率・平均年収・有休取得日数といった、企業の採用サイトには載りにくい数字が並びます」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「就職活動版はそこを削り、業界ごとの働き方や採用の実態、志望動機への落とし込み方に紙面を割いています」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「著者の岡茂信氏は、長年にわたり就活生の指導とエントリーシート添削に携わってきた採用のプロです」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「2026年3月刊行で、最新の採用スケジュールに対応しています」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「掲載されるのは、採用予定数、応募倍率、3年後離職率、平均年収、平均勤続年数、有休取得日数、残業時間、そして男女別の採用実績です」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「採用サイトの美しい言葉と、四季報の数字を突き合わせる作業が、企業研究の核心になります」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「掲載項目は総合版と同じく、採用実績、離職率、年収、有休といった実数が中心です」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「近年は総合系ファームの採用規模が拡大しており、以前より門戸は広がっています」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「売上規模、事業領域、採用実績といった情報に加え、現場エンジニアや若手社員へのインタビューが多数収録されています」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「中村恵二氏は業界研究シリーズを長年にわたり手がけてきた書き手で、統計と現場取材を組み合わせた構成に安定感があります」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「マスコミは採用人数が少なく、志望動機の精度がそのまま合否に直結します」（https://note.com/tasuto11/n/n3d32991f6192）
+- 失敗・落とし穴：
+  - 「業界研究でよくある失敗と、その対策」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「❌ 失敗1：業界地図を1ページ目から読もうとする」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「❌ 失敗2：最新版でない本を使う」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「❌ 失敗3：業界研究を自己分析と切り離す」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「❌ 失敗4：本だけで完結させる」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「【調査上の注意】」（https://note.com/shukatsu_decode/n/ncf4c08c027df）
+  - 「業界研究ノート作成時の注意点」（https://shukatsu-magazine.com/column/52152/?columnid=52152）
+  - 「結果的に、「この会社じゃないとダメな理由」が言語化しやすくなるので、ESや面接対策にもつながります」（https://shukatsu-magazine.com/column/52152/?columnid=52152）
+  - 「実際の就職活動に役立てるには、視点や記述方法に注意する必要があるでしょう」（https://shukatsu-magazine.com/column/52152/?columnid=52152）
+  - 「「なぜ似たような別の業界ではダメなのか？」という面接官の鋭い質問に答えられる準備をします（例：銀行ではなく、なぜ信託銀行なのか？）」（https://typeshukatsu.jp/s/article/step/research/57960/）
+  - 「ただし、情報の信頼性や正確性には注意が必要です」（https://typeshukatsu.jp/s/article/step/research/57960/）
+  - 「ただし、個々の経験や主観に基づく情報もあるため、全てを鵜呑みにせず、自分なりに検証することが重要です」（https://typeshukatsu.jp/s/article/step/research/57960/）
+  - 「年間20件以上の就活イベント運営や、東北大・京大などの現役インターン生との日常的な対話から、AIでは汲み取れない「今の学生が直面するリアルな葛藤や失敗談」を直接ヒアリング」（https://typeshukatsu.jp/s/article/step/research/57960/）
+  - 「単なるノウハウ提供に留まらず、自身の失敗経験や現場での一次情報を交え 、最新の就活トレンドと検索意図の両面から、就活生が「納得感のある決断」を下せるために、就活生に「今、本当に必要な情報」を届けている」（https://typeshukatsu.jp/s/article/step/research/57960/）
+  - 「業界研究は情報の集めやすさが落とし穴になる」（https://www.shupass.jp/guides/gyokai-kenkyu-yarikata）
+- 実例：
+  - 「この記事では、私が企業研究で試行錯誤した結果たどり着いた方法を共有します」（https://note.com/4kodai_student/n/n298d2518aad8）
+  - 「最初から業界全体を完璧に理解しようとするよりも、まずは気になる企業を1社ずつ調べていく方が、結果的に業界への理解も深まると思います」（https://note.com/4kodai_student/n/n298d2518aad8）
+  - 「こうすると、どの企業を調べても同じ構成の調査結果が出てきます」（https://note.com/4kodai_student/n/n298d2518aad8）
+  - 「日経は毎年「主要商品・サービスの世界シェア調査」を実施しており、その結果が地図に反映されています」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「ジョブ選考やケース面接が課される世界なので、早い段階で全体像を掴んでおく価値は大きいはずです」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「ケース面接やフェルミ推定の対策本は別に必要ですが、その前提となる業界理解はこの1冊で足ります」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「この本はその流れを、開発の実例に沿って追いかけます」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「単に事例を並べるのではなく、収益モデルの型として整理されているため、応用が効きます」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「取り上げられる企業は、既存の大企業から新しいスタートアップまで幅広く、社会性と経済合理性を両立させた事例が多く選ばれています」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「原価率、固定費、回転率、立地といった要素が、実例とともに感覚的に理解できます」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「今回は、28卒の企業研究を想定して、①ChatGPTの機能の使い分け、②Deep Researchの使い方、③企業研究で最初に渡すべき情報、④そのまま使えるプロンプト、⑤調査結果を志望動機につなげる方法までまとめます」（https://note.com/shukatsu_decode/n/ncf4c08c027df）
+  - 「例えばChatGPTに、「三菱商事について企業研究してください」とだけ入力したとします」（https://note.com/shukatsu_decode/n/ncf4c08c027df）
+  - 「例えば、「総合デベロッパーを比較するとき、どんな評価軸を見るべき？」のような問いなら、まず通常チャットで十分です」（https://note.com/shukatsu_decode/n/ncf4c08c027df）
+  - 「例えば、「三菱地所の最新中期経営計画は？」「28卒向けの採用情報は公開されている？」といった確認です」（https://note.com/shukatsu_decode/n/ncf4c08c027df）
+  - 「例えば、「三井不動産・三菱地所・東急不動産を、最新のIR、統合報告書、中期経営計画、採用情報から比較し、志望動機を言い分けられるレベルまで分析する」といった使い方です」（https://note.com/shukatsu_decode/n/ncf4c08c027df）
+
+## 有価証券報告書・決算資料から稼ぎ方を読み解く方法（read annual reports business model analysis）
+- 文脈：企業
+- 手順・やり方：
+  - 「初学者でも出来る『５つのSTEPで読み解く有価証券報告書』｜wkwk｜小さな事業のAI・経営実践」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「初学者でも出来る『５つのSTEPで読み解く有価証券報告書』」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「▶まずは全体像！５つのSTEPを確認する」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「▶【STEP1】企業の「全体像」を把握する（第1部：企業情報）」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「▶【STEP2】損益計算書（P/L）で「儲けの構造」を読む」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「▶【STEP3】貸借対照表（B/S）で「体質」を読む」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「今回は『有価証券報告書（有報）』を読めるようになりたい人が『読めた！』となることを目的とし、５つのSTEPで『読めるように』解説します」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「【STEP1】企業の「全体像」を把握する（第1部：企業情報）」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「【STEP2】損益計算書（P/L）で「儲けの構造」を読む」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「【STEP3】貸借対照表（B/S）で「体質」を読む」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「【STEP4】キャッシュ・フロー計算書（C/F）で「資金の実態」を読む」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「【STEP5】注記・セグメント情報・リスク要因で「裏のストーリー」を読む」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「コツは数字を読むのではなく、各意味を読むことです！」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「＜チェックポイント＞財務依存型企業に注意」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「▶【STEP4】キャッシュ・フロー計算書（C/F）で「資金の実態」を読む」（https://note.com/yoh2619/n/nab63a136eecc）
+- 突き合わせ・推定：
+  - 「正しい使い方は、AIの分析を「仮説」として持ち、商談の中で確認する」（https://note.com/f_bby__shota/n/nee46643ea909）
+  - 「AIの分析を仮説として持ち、自分の言葉で顧客に確認する」（https://note.com/f_bby__shota/n/nee46643ea909）
+  - 「数百ページの有報の中から必要な情報を正確に拾い上げ、「どこに書いてあったか」を提示しながら答えてくれるため、重要な判断の場面でも回答の信頼性を自分で検証できます」（https://inuiwan.com/archives/3282）
+- 一次情報の探し方：
+  - 「初学者でも出来る『５つのSTEPで読み解く有価証券報告書』｜wkwk｜小さな事業のAI・経営実践」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「初学者でも出来る『５つのSTEPで読み解く有価証券報告書』」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「そもそも『有価証券報告書』とは？」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「年1回（通常は決算後3ヶ月以内）」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「実際の『有価証券報告書』を手元に用意して、読みながら実践するのがいいです！」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「まだ準備できてない人は、『（会社名）_有価証券報告書』で探してみてください！」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「今回は『有価証券報告書（有報）』を読めるようになりたい人が『読めた！』となることを目的とし、５つのSTEPで『読めるように』解説します」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「有価証券報告書の準備はできていますか？」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「財務諸表を読むだけであれば、このSTEPはいらないですが、今回の目的は『有価証券報告書』を読めるようになることです」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「「注記まで読める人」は、決算書読解の中上級者です」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「この５つの質問に回答出来たら、『有価証券報告書を読めた』と区切りをつけましょう！」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「そのためにも出来る限り多くの有価証券報告書に触れ、」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「また前述で記載しましたが、有価証券報告書は」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「有価証券報告書を読み解くことはとても有益なのです」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「有価証券報告書」（https://note.com/yoh2619/n/nab63a136eecc）
+- 失敗・落とし穴：
+  - 「⇒連結子会社が多いほど、単体とのズレに注意」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「＜チェックポイント＞財務依存型企業に注意」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「金利負担に注意！」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「M&A失敗・のれん減損リスク」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「初心者が最初にやるべき失敗は、頭から全部読もうとすることです」（https://note.com/f_bby__shota/n/nee46643ea909）
+  - 「AIの推測をそのまま鵜呑みにするのではなく、どの数字やどの記載から、その推測に至ったのかを確認する習慣をつけることで、自分自身の読解力も同時に鍛えられます」（https://note.com/f_bby__shota/n/nee46643ea909）
+  - 「ここまでAIの活用法を紹介してきましたが、一点、注意が必要です」（https://note.com/f_bby__shota/n/nee46643ea909）
+  - 「探すときの注意」（https://note.com/irshukatsu/n/n426fc7c8c112）
+  - 「ここで最も重要な注意点がある」（https://note.com/irshukatsu/n/n426fc7c8c112）
+  - 「二次情報は解釈が混じり、時にはバイアスや誤りが含まれることがあります」（https://note.com/bookreview_lab/n/n5ddefc10af59）
+  - 「見逃しがちですが、「広告費を減らしたため」「研究開発費を抑えた結果」など、利益の背景や注意点が書かれていることがあります」（https://kabu.com/kabuyomu/money/1191.html）
+  - 「宇野千代は間違いなく惚れていた､では芥川龍之介は…文豪が短編小説に描いた｢一束4銭のネギ｣という"恋"」（https://president.jp/category/c05577）
+  - 「語尾を1文字変えるだけ…恥ずかしい失敗をした相手に育ちがいい人が｢大丈夫ですか?｣の代わりにかける言葉」（https://president.jp/category/c05577）
+  - 「純資産が大きくプラスでも多額の繰延税金資産がある場合には注意が必要です」（https://journal.bizocean.jp/corp08/h03/2552/）
+  - 「正しい位置や注意点を解説」（https://journal.bizocean.jp/corp08/h03/2552/）
+- 実例：
+  - 「4-2.実例を見てみよう」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「実例：のれん注記（M&A関連）」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「顧客の意思決定を前に進める営業の考え方を、具体的な事例・実践手順・AIプロンプトとともに解説します」（https://note.com/f_bby__shota/n/nee46643ea909）
+  - 「AIの分析結果を、そのまま顧客に話すのは危険です」（https://note.com/f_bby__shota/n/nee46643ea909）
+  - 「近年の有報では、リスクの重要度(影響度・発生可能性)を会社が自己評価して明記しているケースも増えている」（https://note.com/irshukatsu/n/n426fc7c8c112）
+  - 「最後には、レーザーテックなど7社の事例が紹介され、実践的な速読スキルを身につける練習ができます」（https://note.com/bookreview_lab/n/n5ddefc10af59）
+  - 「著者の川口宏之さんは、難解に思える決算書を、実践的かつ効率的に読み解く方法を丁寧に解説しており、特に実例を交えた説明が非常にわかりやすいです」（https://note.com/bookreview_lab/n/n5ddefc10af59）
+  - 「NotebookLMはアップロードした資料の範囲で回答する以上、入れる資料の質がそのまま分析結果の質に直結します」（https://inuiwan.com/archives/3282）
+  - 「見逃しがちですが、「広告費を減らしたため」「研究開発費を抑えた結果」など、利益の背景や注意点が書かれていることがあります」（https://kabu.com/kabuyomu/money/1191.html）
+  - 「2025年3月期（2024年4月から2025年3月まで）は、増収減益という結果になりました」（https://kabu.com/kabuyomu/money/1191.html）
+  - 「一見すると“減益”という結果に不安を感じるかもしれませんが、「添付資料」まで目を通すと営業利益の主な増減要因が記されています」（https://kabu.com/kabuyomu/money/1191.html）
+  - 「GMO熊谷代表の｢コント会見｣は結果的によかった…報道対策のプロが分析するサイバー攻撃犯の"本当の狙い"」（https://president.jp/category/c05577）
+  - 「例えば、下記の連結経営指標等の※１の箇所では、本業の営業CFがマイナスになっていないか、多額の投資を行っている場合にはどのような内容のものか、資金繰りに窮して資産を売却し、投資CFが大きくプラスとなっていないかなど、企業の資金繰りに関する情報を確認します」（https://journal.bizocean.jp/corp08/h03/2552/）
+  - 「例えば、下記のような分析を行うことが考えられます」（https://journal.bizocean.jp/corp08/h03/2552/）
+  - 「繰延税金資産を除くと純資産がほとんどなくなるようなケースでは、純資産が一時に大きく減少する恐れがあり、純資産自体も安定性に欠けている可能性があります」（https://journal.bizocean.jp/corp08/h03/2552/）
+
+## 1人あたり売上・労働生産性で会社の能力を比べる方法（revenue per employee benchmark analysis）
+- 文脈：能力
+- 手順・やり方：
+  - 「平均付加価値率は、業種によって大きく異なり、付加価値率は必ずしも企業の収益性と比例しませんが、付加価値率を高めることは収益性を向上させる方法の一つになります」（https://note.com/yajirushi_works/n/nacbfd931b027）
+  - 「付加価値の計算方法」（https://note.com/yajirushi_works/n/nacbfd931b027）
+  - 「便宜的な方法」（https://note.com/yajirushi_works/n/nacbfd931b027）
+  - 「給与や賞与が定期的に上昇し、付加価値とは関係なく決まる年功型給与・賞与は、企業の成長に大きな障害となっています」（https://note.com/yajirushi_works/n/nacbfd931b027）
+  - 「〇企業内講師｜伴走型セミナー」（https://note.com/yajirushi_works/n/nacbfd931b027）
+  - 「What is revenue per employee & how to calculate | HiBob」（https://www.hibob.com/financial-metrics/revenue-per-employee/）
+  - 「How to calculate revenue per employee」（https://www.hibob.com/financial-metrics/revenue-per-employee/）
+  - 「Projected revenue & how to calculate it in SaaS」（https://www.hibob.com/financial-metrics/revenue-per-employee/）
+  - 「Step 1: Pull your revenue figure.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「Step 2: Pull your employee count.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「Step 3: Define who counts.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「Step 4: Divide and interpret in context.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「Adjusts employee count to reflect full-time equivalents, giving part-time workers fractional weight. More precise for organizations with variable workforce composition, and often the better choice when benchmarking against peers who use the same method.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「Revenue figures may be finalized on a different cadence than headcount reporting. Document the sourcing method so period-over-period comparisons stay consistent.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「For private SaaS companies specifically, SaaS Capital's 2025 survey of more than 1,000 firms found a median of $129,724 per FTE, up from $125,000 in the prior year. This is one of the few sector figures with a disclosed methodology and sample size.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+- 一次情報の探し方：
+  - 「備忘録#011｜中小企業庁統計による経営指標」（https://note.com/yajirushi_works/n/nacbfd931b027）
+  - 「企業の決算書に「付加価値」という項目はありません」（https://note.com/yajirushi_works/n/nacbfd931b027）
+  - 「営業利益 ＋ 人件費 ＋ 賃借料 ＋ 租税公課 ＋ 減価償却費 ＋ 知財特許料」（https://note.com/yajirushi_works/n/nacbfd931b027）
+  - 「〇政府統計からオープンデータまで活用した経営判断指標の可視化」（https://note.com/yajirushi_works/n/nacbfd931b027）
+- 失敗・落とし穴：
+  - 「Common Mistakes」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+- 実例：
+  - 「例えば、最新鋭設備の導入により省力化を図った場合、従業員数が減った分だけ労働生産性が上がります」（https://note.com/yajirushi_works/n/nacbfd931b027）
+  - 「限界利益は、企業の内部分析でも使われ、例えば、部門毎や商品毎、地域毎など、それぞれに限界利益率を求めることで簡単に利益分析（収益性の明確化）をすることができ、改善すべき点を洗い出すのに便利です」（https://note.com/yajirushi_works/n/nacbfd931b027）
+  - 「A common metric by which SaaS companies track their performance is annual recurring revenue (ARR) per employee. As was the case with the last post, the data and analysis below on ARR per employee comes from our 15th annual survey of more than 1,000 SaaS companies, which was completed in March.」（https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/）
+  - 「The chart below shows the median ARR per employee broken down by company size. For example, the chart shows that companies with $1 million to $3 million in ARR have a median ARR per employee of $109,644.」（https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/）
+  - 「The chart below shows the median ARR per employee broken down by company size and funding type, equity-backed or bootstrapped. For example, equity-backed companies with $5 million to $10 million in ARR have a median ARR per employee of $152,295. Meanwhile, bootstrapped companies of the same size show a median ARR per full-time equivalent (FTE) of $177,240.」（https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/）
+  - 「For example, if a company earns $100,000 in revenue and has 10 full-time people, the RPE would be $10,000.」（https://www.hibob.com/financial-metrics/revenue-per-employee/）
+  - 「For example, a sudden increase in RPE might look positive on the surface. But if the change stems from layoffs or high turnover, the story is very different. By digging into the “why” behind your RPE numbers, you can set thoughtful targets that evolve as your company grows.」（https://www.hibob.com/financial-metrics/revenue-per-employee/）
+  - 「For example, if a company generates $1 million in total revenue during 2022 and has 100 full-time people, the」（https://www.hibob.com/financial-metrics/revenue-per-employee/）
+  - 「For example:」（https://www.hibob.com/financial-metrics/revenue-per-employee/）
+  - 「Worked Example」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「When RPE is falling, two root causes explain most cases. Headcount grew faster than revenue, meaning the organization hired ahead of actual demand. Or revenue declined while headcount held steady, meaning a retention or hiring freeze decision is already overdue. Each cause calls for a different response.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「Example:」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「For example, a software company pulling in $1.76 million per employee and a hospital averaging $8,700 are both running normal operations for their industry. One runs on code and licensing. The other runs on a large network of staff and overnight shifts. We may be looking at the same metric, but each has a completely different story.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
+  - 「Labor-intensive industries such as restaurants, general retail and hospitals cluster at the low end, with RPE figures below $35,000 in some cases, reflecting high headcount relative to revenue.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
+  - 「For example, a software company and a hospital can both be healthy, well-run businesses and show wildly different RPE figures. The U.S. total market average sits at $111,000 per employee, but that number masks enormous variation by industry.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+
+## OSINT（公開情報調査）の手法（OSINT open source intelligence business research）
+- 文脈：探し方
+- 手順・やり方：
+  - 「ペネトレーションテストの標準的なフレームワークでは、最初のフェーズは必ず」（https://note.com/red_structure/n/na2c79b00d217）
+  - 「典型的なペンテストの偵察フェーズでは次のような情報を収集する」（https://note.com/red_structure/n/na2c79b00d217）
+  - 「Step 1」（https://note.com/red_structure/n/na2c79b00d217）
+  - 「Step 2」（https://note.com/red_structure/n/na2c79b00d217）
+  - 「Step 3」（https://note.com/red_structure/n/na2c79b00d217）
+  - 「Step 4」（https://note.com/red_structure/n/na2c79b00d217）
+  - 「Step 5」（https://note.com/red_structure/n/na2c79b00d217）
+  - 「Step 6」（https://note.com/red_structure/n/na2c79b00d217）
+  - 「OSINTの実現方法」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「正しい使い方をすることで、多くの情報を取得し、活用することができます」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「一方で、競争情報活動と企業スパイ行為の境界を適切に管理することが重要であり、P&G対ユニリーバのスパイ事件（Barboza, 2001）などはその典型例である」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「各カテゴリーについて、CIA（米国）、モサド（イスラエル）、MI6（英国）、およびKGB（ソ連/ロシア）が伝統的に情報を収集する方法を検討し、独自のアプローチや歴史的事例を強調する」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「国際スパイ博物館によれば、最も古いインテリジェンス収集方法は人間の情報源（スパイ）を活用することであり、ケースオフィサーやエージェントが機密情報を取得するために知略を駆使する（International Spy Museum, n.d.）」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「貿易展示会や業界イベントでのカジュアルな会話も、適切な方法で行えば貴重な情報源となる」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「HUMINTは、データ駆動型の手法では得られない深い洞察を提供する」（https://note.com/everprogress/n/n28fc53b2c5cc）
+- 突き合わせ・推定：
+  - 「OSINT を通じて得られる情報は、すべて検証されているわけではありません」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「情報を正確に活用するためには、取得した情報を検証することが大切です」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「本稿は、主要なインテリジェンス機関（CIA、モサド、MI6、KGB）が情報を収集・分析する手法を検証し、これらの手法が企業の市場調査にどのように適用可能かを考察するものである」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「2015年の事例では、衛星画像から小売店の駐車場の車両数を分析し、四半期売上を推定する手法が用いられた」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「例えば、衛星写真（IMINT）をスペクトル分析（MASINT）と併用することで、撮影対象の化学組成を推定できる」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「AIが提供するデータの精度は、トレーニングデータの質に依存するため、企業は信頼性の高いデータソースを確保し、分析結果を批判的に検証する必要がある」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「この調査手法は政府の諜報機関のプロセスと類似しており、OSINTと「近接情報源」HUMINTを組み合わせ、データの相互関連性を分析し、仮説を検証しながらバイアスを排除する手法を採用していた（Black Cube, n.d.）」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「なお、防衛分野の信号情報市場は2026年に約196億ドルと推計される一方(Mordor Intelligence, 2026)、市場規模や成長率の推計は情報源によって大きく食い違っている(SDKI Analytics, 2025)」（https://note.com/everprogress/n/nde8351a93d60）
+  - 「一つの推計を鵜呑みにせず、複数の情報源で裏づける(トライアンギュレーション)必要があることは、方法論上の重要な教訓である」（https://note.com/everprogress/n/nde8351a93d60）
+  - 「この流れは、商業的な市場調査における「目的の設定、仮説の立案、調査の設計、データの収集、分析、意思決定」という調査設計と構造的によく似ており、両者を比べるための共通の物差しになる(矢野経済研究所, n.d.; SATORI, 2025)」（https://note.com/everprogress/n/nde8351a93d60）
+  - 「市場規模や成長率の推計が情報源によって大きく食い違う例が確認されたため、一つの情報源に頼らず、複数の情報源で裏づけること(トライアンギュレーション)を方法論上の原則とした」（https://note.com/everprogress/n/nde8351a93d60）
+  - 「よく知られた事例では、商用衛星が撮った小売店の駐車場の画像から車の台数を数え、小売業者の四半期の売上を推計する手法が使われた」（https://note.com/everprogress/n/nde8351a93d60）
+  - 「要点は、公開データを実行に移せるインテリジェンスに変える手順、すなわち情報を検証し、文脈の中で分析し、意思決定者に使いやすい形で届ける手順を備えることである」（https://note.com/everprogress/n/nde8351a93d60）
+  - 「情報源の質と信頼性を記述すること、主要な判断に伴う不確実性を明示すること、根拠となる情報と分析官の仮定を区別すること、代替仮説を検討すること、顧客にとっての意味を示すこと、明快で論理的な論証を用いることなどが、すべての分析製品が満たすべき技法基準とされる(ODNI, 2015)」（https://note.com/everprogress/n/nde8351a93d60）
+  - 「この検証の段階では、複数の情報源による裏づけを通じて情報の出所と信頼性を確かめることが、実務上の要点として強調されている(三和コムテック, 2025; GMOインターネットグループ, 2025)」（https://note.com/everprogress/n/nde8351a93d60）
+- 一次情報の探し方：
+  - 「とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ」（https://note.com/red_structure/n/na2c79b00d217）
+  - 「検索エンジンの検索結果・SNSの投稿・企業のWebサイト・ドメイン登録情報（WHOIS）・求人票・政府機関の公開データベース・学術論文・ニュース記事——これらすべてが対象になりうる」（https://note.com/red_structure/n/na2c79b00d217）
+  - 「法人登記情報・組織図・使用している技術スタック（求人票から判明することが多い）・パートナー企業・オフィスの所在地などが対象になる」（https://note.com/red_structure/n/na2c79b00d217）
+  - 「従業員のSNS・GitHubのパブリックリポジトリ・求人票の記述内容を定期的に見直す」（https://note.com/red_structure/n/na2c79b00d217）
+  - 「site:自社ドメイン filetype:pdf や site:自社ドメイン inurl:admin といった検索で、意図せず公開されているドキュメントや管理画面へのアクセス経路がないかを確認できる」（https://note.com/red_structure/n/na2c79b00d217）
+  - 「情報収集先は公開されている情報全てとなりますので、ネット情報、公的記録、メディアなど、様々です」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「ネットだけでなく、新聞や官報なども含まれます」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「例えば、採用ターゲットとなる個人や競合する企業の情報、日本に帰化した外国出身の方の名前などを収集することができます」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「採用関係などであれば、個人について公開されている情報を調べるさい迷わず利用されているかと思います」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「Whois Lookup、SEC Filings、County Recordsなどを使うことで得られる公的情報です」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「企業も同様に、リアルタイムで競合情報や市場情報を収集するためにOSINTを活用しており、合法的かつ低コストで公的データを利用している（Bensoussan & Fleisher, 2013）」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「企業は競争情報を強化するために元インテリジェンス職員を採用することもあるが、倫理的および法的な境界を逸脱しないよう注意が必要である（Barboza, 2001）」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「競争インテリジェンスチームは、ニュース記事、業界レポート、特許、学術研究、さらにはソーシャルメディアやウェブ解析といった多くの同様の情報源を活用する」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「例えば、企業は競合他社の求人情報やプレスリリースを分析し（公開情報の活用）、その事業拡大計画や研究開発の焦点を推測できる」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「公的規制申請や財務報告も分析することで、企業の業績や投資優先順位に関する情報を得ることができる」（https://note.com/everprogress/n/n28fc53b2c5cc）
+- 失敗・落とし穴：
+  - 「OSINTの注意点」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「多くの場合、非常に有益な情報を取得できますが、注意すべき点もあるということを頭に入れておく必要があります」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「下記に注意点をあげます」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「特に、サイトやブログなどで公開されている個人情報を収集する場合、取り扱いには十分に注意する必要があります」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「特に２については、収集先のサービスの運営元の国の法律に則った処罰を場合によっては受けますので、細心の注意が必要となります」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「法律違反には注意しましょう」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「企業は競争情報を強化するために元インテリジェンス職員を採用することもあるが、倫理的および法的な境界を逸脱しないよう注意が必要である（Barboza, 2001）」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「公開情報や合法的に入手可能なデータを活用することが重要であり、インサイダー情報の利用は法的リスクを伴う点に注意が必要である」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「倫理的考察と注意点」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「また、AIの使用がバイアスや誤認を招く可能性があることを認識し、慎重に管理することが求められる」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「この調査手法は政府の諜報機関のプロセスと類似しており、OSINTと「近接情報源」HUMINTを組み合わせ、データの相互関連性を分析し、仮説を検証しながらバイアスを排除する手法を採用していた（Black Cube, n.d.）」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「なお、これらの手法をまとめて「インテリジェンス」と呼ぶ際には、概念上の緊張関係に注意が必要である」（https://note.com/everprogress/n/nde8351a93d60）
+  - 「競争インテリジェンスを強化するために元情報機関の職員を雇う企業もあるが、その際には倫理と法の一線を越えないよう注意しなければならない(United Press International [UPI], 2001)」（https://note.com/everprogress/n/nde8351a93d60）
+  - 「一つの推計を鵜呑みにせず、複数の情報源で裏づける(トライアンギュレーション)必要があることは、方法論上の重要な教訓である」（https://note.com/everprogress/n/nde8351a93d60）
+  - 「ただし、こうした公開情報からの人物特定の技法は、前述の攻撃者によるソーシャルエンジニアリングと表裏一体である点に注意が必要である」（https://note.com/everprogress/n/nde8351a93d60）
+- 実例：
+  - 「検索エンジンの検索結果・SNSの投稿・企業のWebサイト・ドメイン登録情報（WHOIS）・求人票・政府機関の公開データベース・学術論文・ニュース記事——これらすべてが対象になりうる」（https://note.com/red_structure/n/na2c79b00d217）
+  - 「といった投稿をSNSにしてしまうケースも実際に起きている」（https://note.com/red_structure/n/na2c79b00d217）
+  - 「例えば「あるメールアドレス」を起点に、関連するドメイン・IPアドレス・SNSアカウント・人物情報が芋づる式に展開されていく」（https://note.com/red_structure/n/na2c79b00d217）
+  - 「例えば、ビジネスにおける市場調査や競合他社の動向などの情報収集もOSINTです」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「例えば、まとめサイト、検索エンジンなどを利用することで、容易に情報を収集することができます」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「例えば、採用ターゲットとなる個人や競合する企業の情報、日本に帰化した外国出身の方の名前などを収集することができます」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「ただし、ユーザ情報をもとにしたカスタマイズをした検索結果が表示されるということも考慮した方がいいです」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「例えば、nslookup、dig、whoisなどがあります」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「これによってフェイク情報による分析をしてしまい、分析結果が好ましくないものになる可能性があります」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「さらにその結果を公開した場合、偽情報と共に広がってしまう可能性があります」（https://note.com/subland_/n/nd946aa4f734d）
+  - 「本稿では、各機関がこれらの手法をどのように活用しているかを比較し、さらに実際のビジネスにおける応用事例を取り上げる」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「主な調査結果は以下のとおりである」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「例えば、投資家は小売店の駐車場の衛星写真を分析することで売上予測を行い、競争優位を確立した事例がある（Groll, 2017）」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「：ケーススタディによれば、インテリジェンス思考を導入することで戦略的優位性を得ることができる」（https://note.com/everprogress/n/n28fc53b2c5cc）
+  - 「例えば、ヘッジファンドが画像データや取引データを活用して投資判断を行ったり、企業がプライベート・インテリジェンス企業を利用してデューデリジェンスや競合分析を行ったりしている（Black Cube, n.d.）」（https://note.com/everprogress/n/n28fc53b2c5cc）
+
+## コンサル・アナリストのリサーチの型（consultant research methodology）
+- 文脈：型
+- 手順・やり方：
+  - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法｜30代コンサルマネージャー｜仕事とキャリアのリアル」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「1. コンサルが実務で使っている「リサーチの型」を理解できる」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「コンサルのデスクリサーチには明確な「型」があります」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「ここでは、コンサルティングの現場でどのようにして効果的なリサーチを行い、その結果をどのように資料としてまとめるかについて3ステップで超簡単に解説します」（https://note.com/mngt46/n/na1c988382e73）
+  - 「ステップ1: ファクトのリサーチ」（https://note.com/mngt46/n/na1c988382e73）
+  - 「ステップ2: 分析と示唆出し」（https://note.com/mngt46/n/na1c988382e73）
+  - 「コンサルタントは、一般的な分析フレームワーク（SWOT分析、PEST分析、ポーターの5フォース分析など）を活用して、情報を構造化し洞察を得ます」（https://note.com/mngt46/n/na1c988382e73）
+  - 「ステップ3: 結果の報告」（https://note.com/mngt46/n/na1c988382e73）
+  - 「それぞれのステップにおいては、業界ごとの専門知識や、業界をまたいでも活用可能な境界知見をフル活用しながら、リサーチの結果分かった示唆についてわかりやくす資料化していきます」（https://note.com/mngt46/n/na1c988382e73）
+  - 「として捉え、目的設定から仮説構築、情報の収集と検証、そして洞察の導出に至るまでの流れを、明確な方法論として描いています」（https://note.com/ten365_blog/n/n7c6df28110e7）
+  - 「現代のリサーチにおいて重要なのは、方法やツールが進化しても、思考の本質は変わらないという点です」（https://note.com/ten365_blog/n/n7c6df28110e7）
+  - 「仮説は答えではなく分析の出発点であり、思考を導くフレームです」（https://note.com/ten365_blog/n/n7c6df28110e7）
+  - 「なぜなら、情報をどう読み解くかという行為そのものが、すでに自分の思考フレームに影響されているからです」（https://note.com/ten365_blog/n/n7c6df28110e7）
+  - 「世の中のあらゆるファクトは、誰かが形づくった一面である――その前提を忘れずにいることが、思考の質を保ち続ける唯一の方法なのです」（https://note.com/ten365_blog/n/n7c6df28110e7）
+- 突き合わせ・推定：
+  - 「② 調べるべき論点（＝仮説）」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「コンサルは最初に仮説を立てますが、これは「当てるため」ではなく 調査の抜け漏れ防止のための枠組みづくり です」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「• 論点（仮説）は整理したか？」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「リサーチの前提に、そもそも何が課題で、その課題を検証するために何を調べるべきかという「問いの設計」があり、問いを設計するための情報は生成AIの入力ソースであるWeb上には含まれていないものがあるためです」（https://note.com/mngt46/n/na1c988382e73）
+  - 「第一の視点：問いと仮説の展開性」（https://note.com/ten365_blog/n/n7c6df28110e7）
+  - 「として捉え、目的設定から仮説構築、情報の収集と検証、そして洞察の導出に至るまでの流れを、明確な方法論として描いています」（https://note.com/ten365_blog/n/n7c6df28110e7）
+  - 「その出発点にあるのが「問い」と「仮説」です」（https://note.com/ten365_blog/n/n7c6df28110e7）
+  - 「仮説は答えではなく分析の出発点であり、思考を導くフレームです」（https://note.com/ten365_blog/n/n7c6df28110e7）
+  - 「たとえば「市場が拡大している理由は何か」という問いは、やがて「その成長を支える社会構造は何か」「変化を生み出す要因はどこにあるのか」「今後の限界点は何か」と展開し、問いが派生し仮説が修正される過程で構造的な理解が形成されていきます」（https://note.com/ten365_blog/n/n7c6df28110e7）
+  - 「リサーチは単なる調査ではなく、問いと仮説を軸に構造化と再解釈を繰り返す思考のプロセスそのものなのです」（https://note.com/ten365_blog/n/n7c6df28110e7）
+  - 「集めた情報の量ではなく、構造化された情報から導かれる示唆の質、そしてその出発点となる問いと仮説の精度によって決まります」（https://note.com/ten365_blog/n/n7c6df28110e7）
+  - 「問いを再設定し、仮説を再構築する」（https://note.com/ten365_blog/n/n7c6df28110e7）
+  - 「データを排除するのではなく、そのデータがどのような問いに基づき、どのような条件で集められたのかを検証する」（https://note.com/ten365_blog/n/n7c6df28110e7）
+  - 「自らの仮説や前提もまた、常に検証の対象でなければなりません」（https://note.com/ten365_blog/n/n7c6df28110e7）
+  - 「自分の立てた仮説を一度壊し、再構築する勇気がなければ、リサーチは硬直化し、思考は停滞します」（https://note.com/ten365_blog/n/n7c6df28110e7）
+- 一次情報の探し方：
+  - 「① 一次情報 → 二次情報 → Web の順に見る」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「2. 省庁資料・クレディブルな統計データ」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「3. 企業資料（IR・決算・プレスリリース）」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「つまり、コンサルは 「一次情報に近いほど優先度が高い」 と考えます」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「1. 公的統計（最強）」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「3. 企業決算・公式資料」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「• 公的資料 → 業界レポート → 企業資料 → Web の順になっているか？」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「ツールとしては、官公庁や民間調査機関の統計資料、科学や学術的なリサーチでは、Google ScholarやStatistaなどのプラットフォームが一般的に利用されます」（https://note.com/mngt46/n/na1c988382e73）
+  - 「文献調査やインタビュー、統計分析、現地調査など多様な手法を扱いながらも、根底に流れるのは「事実に向き合い、同時に疑う」という知的な姿勢です」（https://note.com/ten365_blog/n/n7c6df28110e7）
+  - 「数字や統計は、その前提を離れれば単なる断片情報に過ぎず、」（https://note.com/ten365_blog/n/n7c6df28110e7）
+  - 「この構造は、有価証券報告書のような公的文書であっても、有名な学術論文であっても、あるいは政府統計のような権威性を帯びた情報であっても同じです」（https://note.com/ten365_blog/n/n7c6df28110e7）
+  - 「弱いアンテナとは、気になった一点に小さな追加調査を重ねる行為――一次情報にあたって定義や範囲を確かめる、統計の原典に戻って母集団や期間を確認する、反対仮説を一度当ててみる、といった**“一歩だけ深掘りする”能動性です」（https://note.com/ten365_blog/n/n7c6df28110e7）
+  - 「数字や統計の背後にある前提を読み解き、誰の視点で作られた情報なのかを問い直す批判性が求められます」（https://note.com/ten365_blog/n/n7c6df28110e7）
+  - 「— 外資系うさぎのちょこさん（コンサル社員採用中！） (@ChoConejito)」（https://note.com/choconejito/n/n2c2adb7a2830）
+  - 「Webや文献、記事、公的調査・統計、民間調査レポートからすでに存在している情報を調べる（さがす）方法」（https://note.com/lpkojitaku/n/n34c9eadcab84）
+- 失敗・落とし穴：
+  - 「多種多様なリサーチ技法について、それぞれの主な使用シーン、テクニック、ルール、注意点がわかりやすくまとまっており、非常に使いやすい一冊と言えるでしょう」（https://note.com/lpkojitaku/n/n34c9eadcab84）
+  - 「特に注目すべきなのは、情報は「調べる」だけでなく「つくる」ことができると指摘している点であり、インタビューやフィールド調査を行う際の注意点まできちんとカバーされているのです」（https://note.com/lpkojitaku/n/n34c9eadcab84）
+  - 「特に、必要な情報が手に入るかどうか実際に調べてみないと分からない場合、1つだけの情報源に絞ってしまうと失敗したときのリスクが高まります」（https://note.com/lpkojitaku/n/n34c9eadcab84）
+  - 「いかなる文献にも作者のバイアスが少なからずかかっているので何が事実で、どういった文脈で使われている言葉、数字なのかを見極めることを怠ってはならないのです」（https://note.com/lpkojitaku/n/n34c9eadcab84）
+  - 「確かに、経験上アンケートにかいてある内容を鵜呑みにするのは危険であります」（https://note.com/lpkojitaku/n/n34c9eadcab84）
+  - 「また、性別やライフスタイルの異なる消費者を同一グループに混ぜないように注意しよう」（https://note.com/lpkojitaku/n/n34c9eadcab84）
+  - 「今後、企業支援をする際にもＷｅｂ広告だけでなく経営全体を改善できるコンサルタントでない限り、仕事がＡｉに持っていかれるのは間違いないと思います」（https://note.com/lpkojitaku/n/n34c9eadcab84）
+  - 「入社後すぐにアナリストとして任されることが多い「デスクリサーチ」を例に方法と注意すべきポイントを解説」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「次世代のマテハン「物流ロボット」を解説！導入のメリットと注意点」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「ため注意が必要です」（https://consulfree.com/blog/consultant-analyst/）
+  - 「フリーランスコンサルタントの年収・月収比較、職位別の年収相場、稼働率別の年収の違い、年収アップのコツや注意点など業界最前線の実態をわかりやすく解説」（https://consulfree.com/blog/consultant-analyst/）
+  - 「コンサルのアナリストになるデメリットと注意点」（https://consulfree.com/blog/consultant-analyst/）
+  - 「デメリット・注意点」（https://consulfree.com/blog/consultant-analyst/）
+  - 「コンサル業界で成功を収めるためのプレッシャーは時に努力の躍進力になり大きな成長につながりますが、同時にメンタルや体力にダメージを与えるデメリットもあります」（https://consulfree.com/blog/consultant-analyst/）
+  - 「を主としており、業務委託契約には「委任」「準委任」「請負」など様々な契約種類があり、法律行為の有無や業務責任において違いを知っておかないと違反行為にもなってしまうため注意が必要です」（https://consulfree.com/blog/consultant-analyst/）
+- 実例：
+  - 「例えば、上司からあなたに次の指示が来たとします」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「→ 具体的な事例や競合比較に使える」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「コンサルは調査結果をまとめるとき、いきなりパワポを作りません」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「ここでは、コンサルティングの現場でどのようにして効果的なリサーチを行い、その結果をどのように資料としてまとめるかについて3ステップで超簡単に解説します」（https://note.com/mngt46/n/na1c988382e73）
+  - 「ここでは、コンサルティングの現場でどのようにして効果的なリサーチを行い、その結果をどのように資料としてまとめるかについて詳しく解説します」（https://note.com/mngt46/n/na1c988382e73）
+  - 「ステップ3: 結果の報告」（https://note.com/mngt46/n/na1c988382e73）
+  - 「リサーチと分析の結果をクライアントに伝えるためには、見やすく理解しやすい資料が不可欠です」（https://note.com/mngt46/n/na1c988382e73）
+  - 「資料作成では、まず主張を明確にし、サポートするデータや事例を効果的に配置します」（https://note.com/mngt46/n/na1c988382e73）
+  - 「コンサルタントの行うリサーチと結果の分析、資料へのまとめ方も、プロセスとしては一般的な資料作成と大きく変わりはありません」（https://note.com/mngt46/n/na1c988382e73）
+  - 「それぞれのステップにおいては、業界ごとの専門知識や、業界をまたいでも活用可能な境界知見をフル活用しながら、リサーチの結果分かった示唆についてわかりやくす資料化していきます」（https://note.com/mngt46/n/na1c988382e73）
+  - 「、と本当に強く実感する結果となりました」（https://note.com/choconejito/n/n2c2adb7a2830）
+  - 「今後は、公開情報をソースにした一次リサーチやその集計結果からの示唆出しはAIが一瞬で片付けてしまい、コンサルはその先にある」（https://note.com/choconejito/n/n2c2adb7a2830）
+  - 「AIが台頭した結果、」（https://note.com/choconejito/n/n2c2adb7a2830）
+  - 「- RPAには言うほど定型事務作業が駆逐されなかったのは、導入や保守運用コストがオペレーターの人件費より高いケースがあるから」（https://note.com/choconejito/n/n2c2adb7a2830）
+  - 「目的意識を持たず興味の赴くままにリサーチを進めると、いざ結果をまとめるタイミングになって「いろいろ知識は溜まったけれど、肝心のことがよくわからない」という事態に陥ってしまうのです」（https://note.com/lpkojitaku/n/n34c9eadcab84）
+- 検索結果の抜粋：
+  - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法 — Dec 1, 2025 · 1. コンサルが実務で使っている「リサーチの型」を理解できる 2. “思考の枠組みを先に作る”ことで調査のムダが消える理由が分かる 3. 明日から使えるインタビュー・デスクリサーチの具体手法を獲得できる ⸻ 第1章：コンサ」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「コンサル流リサーチ業務から資料への落とし方｜O-LLC — Jan 3, 2025 · はじめに: リサーチの重要性 コンサルティング業界では、正確な情報と深い分析がクライアントに対する価値提案の鍵となります。そのため、リサーチ業務はプロジェクトの初期段階で非常に重要な役割を果たします。生成AIにより大量の情報を即座に収集できるようになっても、その重要性は ...」（https://note.com/mngt46/n/na1c988382e73）
+  - 「外資系コンサルのリサーチ技法｜MIDAS_TOUCH — Nov 1, 2025 · 概要 本書は、外資系コンサルティングの現場で培われたリサーチ技法を体系的に整理し、実務に直結する形で提示した一冊です。リサーチを単なる情報収集ではなく「思考を構築するための営み」として捉え、目的設定から仮説構築、情報の収集と検証、そして洞察の導出に至るまでの流れを ...」（https://note.com/ten365_blog/n/n7c6df28110e7）
+  - 「「とりあえず調べといて」で何時間も彷徨ったコンサル1年目に効いた、... — Oct 5, 2026 · この記事では、リサーチを行き当たりばったりにしないための型を、コンサル実務書から紹介します。 なぜリサーチが迷子になるのか 優れたリサーチャーは、検索を始める前に「目的」「企画のステージ」「どこまでの精度が必要か」の3つを先に確認」（https://note.com/strategy_x/n/n208ff7d2043d）
+  - 「「外資系コンサルのリサーチ技法」を読んですぐに取り入れられること — Apr 19, 2020 · 本レポートの抜粋 はじめに 「答えるべき問い」をはっきりさせる 企画がどの段階なのか全体感から見極める ゴールとなる完成図を意識する いつ、どの順番でリサーチするか? 情報を「さがす」技法と「つくる」技法 Web検索に時間をかけすぎてはならない 1冊で判断ではなく少なくとも3冊の ...」（https://note.com/lpkojitaku/n/n34c9eadcab84）
+  - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法｜3... — Dec 1, 2025 · コンサルとキャリアのリアルを、もっと身近に 事業会社エンジニア → 30歳未経験コンサル→ マネージャー 「コンサルに転職したい」 「30代のキャリアを考えたい」 「コンサルでさらに成長したい」 そんな方のキャリア選択に役立つ情報を届けます。」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！ -... — Nov 12, 2023 · 1.コンサルタントが業務で行っているリサーチは主に3種類 コンサルタントは課題解決のための戦略を立案・提言することによって企業の成長や業績改善を支援する仕事です。 戦略策定を行うにあたり自社の課題の特定が必要ですが、そのためには市場環境（マクロ環境や消費者ニーズ）、競合 ...」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！ -... — Nov 12, 2023 · 「コンサルタントになるとリサーチをすると聞いたけど、どのような内容なの？」 「リサーチのレベルを高める良いやり方やコツはあるの？」 コンサルタントの業務のひとつである調査・リサーチ。コンサルタント職に興味を持つとどのような調査・リサーチをしているか気になりますよね ...」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法 — Dec 1, 2025 · コンサルとキャリアのリアルを、もっと身近に 事業会社エンジニア → 30歳未経験コンサル→ マネージャー 「コンサルに転職したい」 「30代のキャリアを考えたい」 「コンサルでさらに成長したい」 そんな方のキャリア選択に役立つ情報を届けます。」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「コンサル現場で使えるリサーチ手法（実行以上に定義・設計が重要！） ...外資系コンサル直伝！『本質を見抜く』ためのリサーチ術 - KOTORA JOU...やってみると意外と難しい、良いリサーチのコツ！【企画の道具箱 #20...【コンサル流】リサーチにおける考え方 - アーツアンドクラフツ株式会...調査・リサーチの成果を最大化する方法｜現役コンサルタントが語るプ... — リサーチを行う際は、冒頭に紹介したように、フォアキャスティングではなく、バックキャスティング（最初に目標を描き、それを実現するためのプロセスを未来から現在へさかのぼるシナリオ手法）の考え方が重要です。 実際には、下記の3ステップでリサーチを行うことになりますが、『実行』前の『定義』や『設計』がリサーチ成功のカギとなります。 以下、それぞれのフェーズにおけるポイントを紹介します。 See full list on bi」（https://biz-con.plus/skillup-researchprocess/）
+  - 「外資系コンサル直伝！『本質を見抜く』ためのリサーチ術 - KOTORA JOU... — Jan 2, 2024 · 第3章 外資系コンサルが使うリサーチテクニック 便利サイトとツールを駆使する 外資系コンサルタントが行うリサーチでは、専門的な情報を迅速かつ正確に収集するために、便利なサイトやツールが欠かせません。市場動向を把握するためにはStatistaやIBISWorldなどのデータベースが活用され ...」（https://www.kotora.jp/c/50381/）
+  - 「調査・リサーチの成果を最大化する方法｜現役コンサルタントが語るプ... — Dec 20, 2023 · 覚えておいてほしいのは、 リサーチにかかる時間の高々2割程度を占める（1）（2）（4）の作業が、リサーチから得られる成果の8割以上を占めるということです。 私の実感では、1年目のコンサルタントがリサーチでほしい情報が得られなくて徹夜になったり、時間をかけたのに何の意味もない ...」（https://gaishishukatsu.com/archives/36953）
+  - 「【コンサル流】リサーチにおける考え方 - アーツアンドクラフツ株式会... — Sep 30, 2022 · リサーチの重要性 昨今のテクノロジーの発展に伴い、企業は DX 化や新しいビジネスモデルの創出を求められるようになっています。このような状況下では、市場のニーズや他社の戦略などを分析し、自社が取るべき販売戦略やサービス開発戦略を見つけることが重要です。そのために、必要な ...」（https://www.arts-crafts.co.jp/post-16243/）
+  - 「コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！ -... — Nov 12, 2023 · この記事を読めば、リサーチの種類や方法から具体的なリサーチの事例について理解が深まっていくはずです。 ぜひ、最後まで読んでお役立てください。 【記事監修】安孫子 悠介 コンサルティングファームRally Growth株式会社の取締役。」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「【コンサルティング業界向け】リサーチシナリオ10選 | リサーチ・市場... — May 18, 2026 · 本資料は、コンサルティングファームの戦略部門や新規事業担当者が直面する課題に基づき、リサーチをどのようにコンサルティング実務に組み込み、成果へ導くかをまとめた事例集です 。市場環境分析から価格戦略、CX改善まで、明日からの提案活動に活かせるリサーチの「型」を10の ...」（https://www.cross-m.co.jp/report_all/consulting_case-studies）
+
+## OSINT 企業調査の手法（調査報道・OSINTアナリスト）（OSINT company investigation methodology analyst）
+- 文脈：凄腕・OSINT
+- 手順・やり方：
+  - 「OSINTとは？意味・手法・ツールと、公開情報を効率的に集める方法【2026年】 | Octoparse」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「OSINTとは？意味・手法・ツールと、公開情報を効率的に集める方法【2026年】」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「あわせて、OSINTの土台になる「公開情報を効率的に集める」部分を、手作業に頼らず進める方法（」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「OSINTには決まった唯一の手順はなく、目的に応じて手法を組み合わせます」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「OSINTは強力なぶん、使い方を誤ると法的・倫理的な問題につながります」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「Power BI、Tableau、Qlik Sense、Data Studio、MotionBoard、Zoho Analyticsを同じ課題で試す方法と、Webデータ活用時の確認点を紹介します」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「競合調査とは？やり方・フレームワークからAI×Octoparseによる自動化まで【完全ガイド2026】」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「本記事では、競合調査の正しいやり方4ステップ・フレームワーク5選を解説した上で、OctoparseとAIを使って1日の作業を30分に短縮する自動化ワークフローを完全公開します」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「OSINTには決まった唯一の手順がなく、目的に応じて複数のツールを組み合わせて使うのが一般的です」（https://www.octoparse.jp/blog/osint-tools）
+  - 「検索エンジンの高度な検索オプションを使いこなすのが基本で、複数の情報源をまとめて調べられる集約型のツールもあります」（https://www.octoparse.jp/blog/osint-tools）
+  - 「のがビジネスでの使い方です」（https://www.octoparse.jp/blog/osint-tools）
+  - 「ツールが便利になるほど、使い方の線引きが大切になります」（https://www.octoparse.jp/blog/osint-tools）
+  - 「データクレンジングとは？メリット・進め方・おすすめツール7選をわかりやすく解説【2026年】」（https://www.octoparse.jp/blog/osint-tools）
+  - 「データクレンジングとは何かを、目的・メリット・進め方6ステップ・ツールの選び方とおすすめ7選まで解説」（https://www.octoparse.jp/blog/osint-tools）
+  - 「AI時代の自動化や、収集の段階から汚れを減らす方法（Octoparse）まで、実務目線でわかりやすくまとめました」（https://www.octoparse.jp/blog/osint-tools）
+- 突き合わせ・推定：
+  - 「いずれも共通するのは、「公開情報を広く集め、突き合わせて意味を読む」という流れです」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「OSINTの精度は「どれだけ公開情報を集め、突き合わせられるか」で決まりますが、」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「集めたあとの「分析・突き合わせ」に時間を回せるのが利点です」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「競合調査や市場調査のように、集めたあとに分析・突き合わせをする調査では、この工程が要になります」（https://www.octoparse.jp/blog/osint-tools）
+  - 「ツールは「何がしたいか」から逆算して選ぶと迷いません」（https://www.octoparse.jp/blog/osint-tools）
+  - 「OSINTの精度は「どれだけ公開情報を集め、突き合わせられるか」で決まりますが、データ収集系の工程を手作業でやると、すぐ限界がきます」（https://www.octoparse.jp/blog/osint-tools）
+  - 「集める工程を効率化すれば、そのぶん「分析・突き合わせ」に時間を回せます」（https://www.octoparse.jp/blog/osint-tools）
+  - 「「現在の従業員」から技術スタックの推定」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+  - 「「採用情報」からの技術スタック推定」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+  - 「Google StreetViewやGoogle Earthと照合して撮影地点を特定する「」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+  - 「ランドマークの三角測量」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+  - 「太陽の位置・影の角度から方角・時刻を推定（SunCalcツールが有効）」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+  - 「Google StreetViewでの地上視点確認と照合」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+  - 「PeakFinderアプリで山の稜線パターンと照合（山岳地帯）」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+  - 「ShodanでそのIPレンジ全体のスキャン結果と照合」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+- 一次情報の探し方：
+  - 「：競合の製品・価格・採用状況・プレスリリースなどから戦略の変化を読む」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「：取引先の公式情報・登記・IR・報道をもとに、信頼性やリスクを確認する」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「：業界ニュース・口コミ・公開統計から市場のトレンドを把握する」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「：業界の求人動向や自社の評判を、公開情報から継続的にチェックする」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「公式サイト・IR・採用ページ」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「：会社概要、プレスリリース、有価証券報告書、募集要項など、企業が自ら公開している一次情報」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「：政府統計、公示情報、地図・気象などの公開データ」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「競合100社の価格、業界の求人一覧、製品レビューの束——こうした「同じ形の公開情報をまとめて集める」作業は、人手でコピー＆ペーストするには量が多すぎます」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「まずは目的（何を知りたいか）を決め、公式サイト・IR・報道などの一次情報から着手するのがおすすめです」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「企業調査であれば、公式サイト・IR・報道・登記情報など、対象が自ら公開している一次情報を効率よく見つける用途が中心です」（https://www.octoparse.jp/blog/osint-tools）
+  - 「競合の価格・製品一覧、業界の求人、公開レビューなど、「同じ形の公開情報を大量に集めたい」ときに中心となるカテゴリです」（https://www.octoparse.jp/blog/osint-tools）
+  - 「たとえば競合調査なら、「検索・集約系」で対象企業の公開情報を洗い出し、「データ収集系」で価格や求人を継続的に集め、集めたデータを分析する——という流れです」（https://www.octoparse.jp/blog/osint-tools）
+  - 「競合各社の価格、業界の求人一覧、公開レビューの束——こうした同じ形の情報を、人手でコピー＆ペーストするには量が多すぎるからです」（https://www.octoparse.jp/blog/osint-tools）
+  - 「filetype:xlsx OR filetype:pdf」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+  - 「企業サイトの過去の「採用ページ」から当時の組織構造・使用技術スタックを特定」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+- 失敗・落とし穴：
+  - 「OSINT（オシント）とは何かを、意味・活用場面・主な手法・ツールの種類・注意点までビジネス視点で解説」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「OSINTの注意点・合法性【重要】」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「本記事では、OSINTとは何か・できること・主な手法とツール・注意点を、ビジネスで合法的に活用する視点から整理します」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「BIツール比較｜主要6製品の特徴と失敗しない選び方【2026年版】」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「公開情報を大量に集めるデータ収集系の実務や、合法的に使うための注意点まで、ビジネス調査の視点でまとめました」（https://www.octoparse.jp/blog/osint-tools）
+  - 「OSINTツールを使うときの注意点【合法・公開・目的】」（https://www.octoparse.jp/blog/osint-tools）
+  - 「OSINTとは？意味・手法・注意点」（https://www.octoparse.jp/blog/osint-tools）
+  - 「OSINT（オシント）とは何かを、意味・活用場面・主な手法・ツールの種類・注意点までビジネス視点で解説」（https://www.octoparse.jp/blog/osint-tools）
+  - 「2024年現在も要注意」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+  - 「：顔認識精度が高く、人物特定に有効（プライバシー侵害リスクに注意）」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+  - 「OSINT investigations are difficult because public data is fragmented, inconsistent, and often outdated. Investigators must reconcile multiple sources without contaminating the case. A single weak assumption can bias the entire workflow, leading to false positives or missed signals.」（https://theosintvault.io/osint-handbook）
+  - 「, you will inevitably suffer from information overload, miss critical connections, or worse, succumb to cognitive bias and falsely accuse an innocent person of a cybercrime.」（https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis）
+  - 「The biggest mistake you can make is opening a web browser and typing a target’s name without a plan. Before you collect a single byte of data, you must define the scope of the investigation.」（https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis）
+  - 「6. Mitigating Cognitive Bias」（https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis）
+  - 「Confirmation Bias」（https://www.freetechlearner.com/blog/cybersecurity/osint-methodology-collection-to-analysis）
+- 実例：
+  - 「インターネットやSNSの普及で扱える公開情報が爆発的に増えた結果、いまでは民間企業でも、競合の動向把握や自社リスクの点検など、日常の意思決定にOSINTが活用されています」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「ユースケース」（https://www.octoparse.jp/blog/what-is-osint）
+  - 「アカウント分析・ソーシャルリスニング・データ収集の3タイプの違いと選び方、無料で使えるツール、Octoparseで公式では取れないデータを補完する方法まで、目的別の組み合わせ方を実例つきで解説します」（https://www.octoparse.jp/blog/osint-tools）
+  - 「ユースケース」（https://www.octoparse.jp/blog/osint-tools）
+  - 「実際の調査フロー（ケーススタディ）」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+  - 「site:example.co.jp」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+  - 「intitle:"admin panel" inurl:"/admin/login" site:example.com」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+  - 「Google結果をプロキシ経由で取得」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+  - 「プロのOSINTアナリストは3つすべてを使い、結果をクロスリファレンスします」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+  - 「ShodanでそのIPレンジ全体のスキャン結果と照合」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+  - 「調査方法・結果について説明責任を持つ」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+  - 「rule／meta／strings／conditionの構造、16進パターン、メモリスキャン、Velociraptorでの全端末ハント、誤検知を抑える運用まで、実例コードと図解でやさしく解説します」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
+  - 「. For applied examples, review the investigative articles in the」（https://theosintvault.io/osint-handbook）
+  - 「username tracing case studies」（https://theosintvault.io/osint-handbook）
+  - 「OSINT investigations are difficult because public data is fragmented, inconsistent, and often outdated. Investigators must reconcile multiple sources without contaminating the case. A single weak assumption can bias the entire workflow, leading to false positives or missed signals.」（https://theosintvault.io/osint-handbook）
+
+## 出典の独立性と確度の判定（ソース・トライアンギュレーション）（source triangulation independence confidence grading）
+- 文脈：凄腕・突き合わせ
+- 手順・やり方：
+  - 「通常検索・エージェント型検索・Deep Research・ファイル検索を使い分ける」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「現在の主要AIサービスには、最新Web情報を取得する検索、複数の検索を自律的に進めるエージェント型検索、長時間の調査と統合を行うDeep Research、アップロード資料から関連箇所を検索するファイル検索・RAGなどがあります」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「では、適切な方法が異なります」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「情報源と調査方法を決める」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「この流れは、AIを信用しないための手順ではありません」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「次の問いは、それぞれ調査方法が違います」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「検索語を変えながら論点を掘るならエージェント型検索を使う」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「エージェント型検索では、AIが検索結果を読み、」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「Deep Researchは、複数ステップの探索、情報源の評価、質問の改善、結果の統合をまとめて進める用途に向いています」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「サンプル数・期間・方法を確認する」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「測定方法が違う」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「調査方法が違う」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「一方、効果はタスク、利用者、利用方法、評価指標によって異なります」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「使用する調査方法：」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「通常検索・エージェント型検索・Deep Research・ファイル検索を使い分けられる」（https://note.com/gtminami/n/n5d18b36d3acc）
+- 突き合わせ・推定：
+  - 「企業の公式発表を、第三者が検証した市場評価のように扱っていた」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「検証を始めるための入口です」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「AI活用成熟度のフェーズ4では、問い、前提、仮説、代替案、判断基準を整理しました」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「フェーズ5では、その判断に使う情報が本当に信頼できるのかを検証します」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「フェーズ5｜調査・検証・信頼性管理」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「原典へ戻って照合する」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「反証・限界・矛盾・取得漏れを確認する」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「情報源同士の矛盾候補を見つける」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「将来予測は、確認済み事実ではなく仮説です」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「内部提案を外部情報で検証する」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「ただし、出力は最終成果物ではなく、重要主張を検証するための調査下書きとして扱います」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「文章をそのまま検証せず、重要主張へ分解する」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「中心命題を支える重要主張から検証する」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「記事や提案の全文章を、同じ密度で検証する必要はありません」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「文章を`FACT`と分類しただけでは、検証は完了していません」（https://note.com/gtminami/n/n5d18b36d3acc）
+- 一次情報の探し方：
+  - 「どの情報源を最終根拠として採用するか」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「AIが情報を提示したことと、人間がその情報を判断材料として採用したことは分けます」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「引用先が一次情報か、別資料の要約か」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「統計：公的統計・一次データ」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「導入率を示す統計」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「しかし、実際にFACTとして採用するには、」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「「一次情報を使えばよい」と言われることがあります」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「方向性としては正しいのですが、一次情報だけで調査が完了するとは限りません」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「一次情報は、事実の原点を確認するために使う」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「一次情報の例です」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「一次情報が何を意味するかを理解したり、複数の一次資料を比較したりする際に役立ちます」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「一次情報を「中立的な情報」と決めつけず、」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「統計的有意差と実務上の大きさを分ける」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「統計的に差があっても、実務上は小さな差かもしれません」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「公的機関の資料でも、今回の質問と対象が違えば、直接の根拠にはなりません」（https://note.com/gtminami/n/n5d18b36d3acc）
+- 失敗・落とし穴：
+  - 「効果がなかった研究や失敗事例も確認する」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「矛盾は、どちらかが間違いとは限りません」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「AI時代には、仮説を速く作ることだけでなく、間違いに気づき、現実に合わせて修正する速度が重要であることを扱っています」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「Pattern of inaccuracy; questionable access; biased reporting」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「Known falsification or bias; hostile disinformation source」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「State-aligned media (RT, CGTN, Press TV) will systematically bias toward state narratives; this doesn’t mean everything they publish is false, but it affects what they choose to report and how they frame it」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「a source is likely to report accurately vs. biasedly.」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「Chinese state media reports on Indian troop movements may be operationally accurate even if framed to support CCP messaging. Russian state media reports on Western political dynamics may be accurate on facts while biased in framing.」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「Selection bias:」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「What was NOT leaked? Leaks are typically incomplete; the leaker’s selection criteria bias what’s available」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「Cognitive Biases in Intelligence Analysis」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+- 実例：
+  - 「AIの調査結果を、どこまで信じてよいのか？出典・反証・不確実性を管理する基本設計｜南翔伍 / AIコンパニオンとSNSの間くらいの「Jams」開発中」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「AIの調査結果を、どこまで信じてよいのか？出典・反証・不確実性を管理する基本設計」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「重要なのは、検索結果を大量に集めることでも、参考文献の数を増やすことでもありません」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「調査結果を誰が何に使うかで、確認密度を変える」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「調査結果を何の判断に使うか」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「調査結果の用途：」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「ただし、検索結果の要約やスニペットだけで確定せず、最終的には該当ページを開きます」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「エージェント型検索では、AIが検索結果を読み、」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「関連性の低い結果を除外する」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「制度・研究・企業事例を組み合わせる分析」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「複数国の事例比較」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「Deep Researchは、複数ステップの探索、情報源の評価、質問の改善、結果の統合をまとめて進める用途に向いています」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「回答が検索結果ではなく、モデルの一般知識を混ぜていないか」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「検索結果のスニペット」（https://note.com/gtminami/n/n5d18b36d3acc）
+  - 「研究結果を対象外へ一般化していないか確認する」（https://note.com/gtminami/n/n5d18b36d3acc）

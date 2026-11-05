@@ -1,0 +1,360 @@
+{
+ "name": "求人情報・採用ページから会社の実態を読む方法",
+ "en": "infer company from job postings",
+ "aliases": [
+  "求人票から読み解く 会社",
+  "採用ページ 分析 従業員数 推定",
+  "求人 年収 から 売上 推定"
+ ],
+ "context": "企業",
+ "kind": "market",
+ "researched_at": "2026-11-04T23:56:47.256718+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/lucky_daphne262/n/n0aedd82619a8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ready_prawn3804/n/n5ee232f6341e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/robinson_0822/n/n57139c8a158f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fond_phlox8789/n/nb7e02d008b33",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/robinson_0822/n/n6a4dac170f59",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/try_note_1026/n/n87f70ef36581",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sota_career/n/n93ea578f39e8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.help-note.com/hc/ja/articles/33937437714969-note%E3%81%AB%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%95%E3%81%9B%E3%82%8B-%E9%80%A3%E6%90%BA%E3%81%A7%E3%81%8D%E3%82%8B%E6%8E%A1%E7%94%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%B8%80%E8%A6%A7-ATS%E9%80%A3%E6%90%BA",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://marugotoinc.jp/blog/note/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.jp/n/na66380adc503?gs=29a8dc98f462de8abbdd7102265ae589",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mizusaki-inc.com/knowledge/article93",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.note.com/n/ne042982856d1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.querylift.co.jp/blog/qxetp5k-n",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baigie.me/recruit-blog/2024/10/09/midcareer-survey-2024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saiyo-ura.com/tenshoku-kigyou-kenkyu-yarikata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001319267.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://doda.jp/guide/oubo/kenkyu/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/career-advice/finding-a-job/the-complete-guide-to-researching-a-company",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://nalevi.mynavi.jp/seeker-trends/21704/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coosy.co.jp/blog/recruiting-site-data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://local-saiyo.jp/blog/recruitment-site/design/p5279/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://n-works.link/blog/marketing/report-questionnaire-16",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creerplus.nobu-n.co.jp/column/recruitment-site-examples/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://noside-ltd.co.jp/blog/recruit-data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infersol.com/career-at-infer-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indeed.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://apply.workable.com/infer/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/technicalwriting/comments/16lzcpw/why_are_some_jobs_listed_on_a_jobs_board_but_not/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/infer/jobs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/infer-solutions",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "求人情報・採用ページから会社の実態を読む方法 site:note.com",
+   "results": [
+    "https://note.com/lucky_daphne262/n/n0aedd82619a8",
+    "https://note.com/ready_prawn3804/n/n5ee232f6341e",
+    "https://note.com/robinson_0822/n/n57139c8a158f",
+    "https://note.com/fond_phlox8789/n/nb7e02d008b33",
+    "https://note.com/robinson_0822/n/n6a4dac170f59",
+    "https://note.com/try_note_1026/n/n87f70ef36581",
+    "https://note.com/jinzaikakuho/n/n9d76f814cbbe",
+    "https://note.com/sota_career/n/n93ea578f39e8",
+    "https://note.com/yutaro_ishii/n/n657611c8a7c4",
+    "https://note.com/robinson_0822/n/n660f8a923cf4"
+   ]
+  },
+  {
+   "query": "求人情報・採用ページから会社の実態を読む方法 note",
+   "results": [
+    "https://note.com/sota_career/n/n93ea578f39e8",
+    "https://note.com/try_note_1026/n/n87f70ef36581",
+    "https://www.help-note.com/hc/ja/articles/33937437714969-note%E3%81%AB%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%95%E3%81%9B%E3%82%8B-%E9%80%A3%E6%90%BA%E3%81%A7%E3%81%8D%E3%82%8B%E6%8E%A1%E7%94%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%B8%80%E8%A6%A7-ATS%E9%80%A3%E6%90%BA",
+    "https://marugotoinc.jp/blog/note/",
+    "https://note.jp/n/na66380adc503",
+    "https://mizusaki-inc.com/knowledge/article93",
+    "https://biz.note.com/n/ne042982856d1",
+    "https://saiyo.migi-nanameue.co.jp/posts-1/note_recruit/",
+    "https://www.careermart.co.jp/blog/14811",
+    "https://note.com/imprecruitment/n/n82254ebe4955"
+   ]
+  },
+  {
+   "query": "求人情報・採用ページから会社の実態を読む方法 やり方",
+   "results": [
+    "https://www.querylift.co.jp/blog/qxetp5k-n",
+    "https://baigie.me/recruit-blog/2024/10/09/midcareer-survey-2024/",
+    "https://saiyo-ura.com/tenshoku-kigyou-kenkyu-yarikata/",
+    "https://www.mhlw.go.jp/content/11600000/001319267.pdf",
+    "https://doda.jp/guide/oubo/kenkyu/",
+    "https://jp.indeed.com/career-advice/finding-a-job/the-complete-guide-to-researching-a-company",
+    "https://www.gohp.jp/blog/website-operation/4894/",
+    "https://wi-t.co.jp/outline/recruiting/guide/candidate-journey.html",
+    "https://n-works.link/blog/marketing/report-questionnaire-16",
+    "https://job.rikunabi.com/contents/company/21862/"
+   ]
+  },
+  {
+   "query": "求人情報・採用ページから会社の実態を読む方法 事例",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001319267.pdf",
+    "https://nalevi.mynavi.jp/seeker-trends/21704/",
+    "https://coosy.co.jp/blog/recruiting-site-data/",
+    "https://local-saiyo.jp/blog/recruitment-site/design/p5279/",
+    "https://n-works.link/blog/marketing/report-questionnaire-16",
+    "https://creerplus.nobu-n.co.jp/column/recruitment-site-examples/",
+    "https://noside-ltd.co.jp/blog/recruit-data/",
+    "https://www.tracom.co.jp/tralog/job-idea/",
+    "https://en-gage.net/engage-contents/knowledge/article/?id=recruitment-website",
+    "https://jinzai-tenshokuroot.jp/column/362/"
+   ]
+  },
+  {
+   "query": "infer company from job postings",
+   "results": [
+    "https://www.infersol.com/career-at-infer-solutions/",
+    "https://www.indeed.com/",
+    "https://apply.workable.com/infer/",
+    "https://www.reddit.com/r/technicalwriting/comments/16lzcpw/why_are_some_jobs_listed_on_a_jobs_board_but_not/",
+    "https://www.ycombinator.com/companies/infer/jobs",
+    "https://www.linkedin.com/company/infer-solutions",
+    "https://www.facebook.com/Indeed/videos/did-you-know-almost-35-million-employers-use-indeed-thats-a-lot-of-job-listings-/1006084177848676/",
+    "https://theirstack.com/en/job-lookup",
+    "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings"
+   ]
+  },
+  {
+   "query": "site:note.com 求人情報・採用ページから会社の実態を読む方法",
+   "results": [
+    "https://note.com/lucky_daphne262/n/n0aedd82619a8",
+    "https://note.com/ready_prawn3804/n/n5ee232f6341e",
+    "https://note.com/fond_phlox8789/n/nb7e02d008b33",
+    "https://note.com/sota_career/n/n93ea578f39e8",
+    "https://note.com/jinzaikakuho/n/n9d76f814cbbe",
+    "https://note.com/try_note_1026/n/n87f70ef36581",
+    "https://note.com/35masataka/n/na7c4ce36e2b1",
+    "https://note.com/try_note_1026/n/nb4a79ad783ba",
+    "https://note.com/ehimesr/n/nd28143dbff2f",
+    "https://note.com/chusho_yosuke/n/n3a7962a1e9b8"
+   ]
+  },
+  {
+   "query": "site:x.com 求人情報・採用ページから会社の実態を読む方法",
+   "results": [
+    "https://x.com/luigi_jpn/article/2090779211283976223",
+    "https://x.com/HRFreaksYamane",
+    "https://x.com/nocompany_jp",
+    "https://x.com/CSA_recruit",
+    "https://x.com/MOJ_IMMI/all?lang=bg",
+    "https://x.com/ca_tec_des",
+    "https://x.com/morimoto_region",
+    "https://x.com/OpenWork_JP",
+    "https://x.com/dossun_jack",
+    "https://x.com/luigi_jpn/status/2112692683017949491"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 求人情報・採用ページから会社の実態を読む方法",
+   "results": [
+    "https://jp.linkedin.com/posts/hidetoshitakano_%E4%BB%8A%E9%80%B1%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%9249%E7%A4%BE%E3%81%BE%E3%81%A8%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F%E7%B4%84255%E5%84%84%E5%86%86%E3%81%A7%E3%81%99-%E6%AF%8E%E9%80%B1%E3%81%93%E3%82%8C%E3%82%92%E3%82%84%E3%81%A3%E3%81%A6%E3%81%84%E3%81%A6%E6%80%9D%E3%81%86%E3%81%AE%E3%81%AF-activity-7492840571821182976-QIQj",
+    "https://jp.linkedin.com/posts/hidetoshitakano_ai%E3%81%A7%E4%BB%95%E4%BA%8B%E3%81%AF%E7%84%A1%E3%81%8F%E3%81%AA%E3%82%8B%E3%81%AE%E3%81%8B-%E3%81%93%E3%81%AE%E5%95%8F%E3%81%84%E3%81%AB%E4%B8%8A%E5%A0%B4%E4%BC%81%E6%A5%AD%E3%81%AEir%E8%B3%87%E6%96%99%E3%81%A7%E6%AD%A3%E9%9D%A2%E3%81%8B%E3%82%89%E7%AD%94%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E3%82%82%E3%81%AE%E3%82%92-activity-7452151541639290880-eO0m",
+    "https://jp.linkedin.com/in/takeshi-kikui",
+    "https://jp.linkedin.com/pulse/why-linkedin-longer-useful-finding-job-where-look-instead-john-miller-vswcc?tl=ja",
+    "https://jp.linkedin.com/in/%E5%81%A5%E4%BB%8B-%E8%8F%8A%E7%94%B0-a3a192149",
+    "https://jp.linkedin.com/company/oneper-inc",
+    "https://jp.linkedin.com/company/shljapan",
+    "https://jp.linkedin.com/in/mkuroda/ja",
+    "https://jp.linkedin.com/pulse/daily-ai-work-pulse-may-12th-jeroen-ern%C3%A9-9tfic?tl=ja",
+    "https://jp.linkedin.com/in/yusuke-ninomiya-964a85185"
+   ]
+  },
+  {
+   "query": "site:facebook.com 求人情報・採用ページから会社の実態を読む方法",
+   "results": [
+    "https://www.facebook.com/%E3%82%BC%E3%83%8D%E3%83%A9%E3%83%AB%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%BA-1429538733742516/",
+    "https://www.facebook.com/net.phoenix/",
+    "https://www.facebook.com/castdice/?locale=ja_JP",
+    "https://www.facebook.com/kyodonews.saiyou/posts/%E5%85%B1%E5%90%8C%E9%80%9A%E4%BF%A1%E3%81%AE%E4%BB%95%E4%BA%8B%E7%B4%B9%E4%BB%8B%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E7%A7%8B%E3%81%AE%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E5%A1%BEin%E5%A4%A7%E9%98%AA%E3%82%9222%E6%97%A5%E5%85%B1%E5%90%8C%E9%80%9A%E4%BF%A1%E5%A4%A7%E9%98%AA%E6%94%AF%E7%A4%BE%E3%81%A7%E9%96%8B%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E8%BF%91%E7%95%BF%E5%9C%8F%E3%81%AE%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AE%E7%9A%86%E3%81%95%E3%82%93%E3%81%AB%E5%A4%9A%E6%95%B0%E3%81%8A%E8%B6%8A%E3%81%97%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%B9%B4%E5%85%A5/1710621032396495/",
+    "https://www.facebook.com/saponet.mynavi/",
+    "https://www.facebook.com/kyodonews.saiyou/posts/%E6%9C%AC%E6%97%A528%E6%97%A5%E3%81%AF%E6%9D%B1%E4%BA%AC%E6%9D%B1%E6%96%B0%E6%A9%8B%E3%81%AE%E6%9C%AC%E7%A4%BE%E3%81%A7%EF%BC%97%E6%9C%88%E3%81%AE%E5%A4%8F%E5%AD%A3%E6%8E%A1%E7%94%A8%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E4%BC%9A%E3%82%92%E9%96%8B%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E4%B8%80%E8%88%AC%E8%A8%98%E8%80%853%E4%BA%BA%E8%8B%B1%E6%96%87%E8%A8%98%E8%80%85%E3%81%A8%E6%8A%80%E8%A1%93%E8%81%B7%E5%93%A1%E5%90%841%E4%BA%BA%E3%81%8C%E7%99%BB%E5%A3%87%E3%81%97%E5%85%B1%E5%90%8C%E9%80%9A%E4%BF%A1%E3%81%AB%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%9F%E3%81%84%E3%81%8D%E3%81%95%E3%81%A4%E3%82%84%E4%BB%8A%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%AE%E3%82%84%E3%82%8A/1470709159721018/",
+    "https://www.facebook.com/kyodonews.saiyou/posts/4%E6%97%A5%E7%9B%AE%E3%82%92%E8%BF%8E%E3%81%88%E3%81%9F%E5%85%B1%E5%90%8C%E9%80%9A%E4%BF%A1%E7%B4%B9%E4%BB%8B%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E6%B1%90%E7%95%99%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E5%A1%BE12%E6%97%A5%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF%E6%94%AF%E5%B1%80%E8%A8%98%E8%80%85%E7%A4%BE%E4%BC%9A%E9%83%A8%E8%A8%98%E8%80%85%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%A7%E3%81%99%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E6%94%AF%E5%B1%80%E3%81%AE%E6%BE%A4%E7%94%B0%E5%92%8C%E6%A8%B9%E3%81%A8%E7%A4%BE%E4%BC%9A%E9%83%A8%E3%81%AE%E6%88%B8%E5%8F%A3%E6%8B%93%E6%B5%B7%E3%81%8C%E7%B4%84100%E4%BA%BA%E3%81%AE%E5%AD%A6%E7%94%9F%E3%81%95%E3%82%93%E3%82%92%E8%BF%8E%E3%81%88/1224801744311762/",
+    "https://www.facebook.com/nextbeat1/?locale=ja_JP",
+    "https://www.facebook.com/vietnamtechnicalinterntrainee/posts/202643-%E6%84%9A%E7%97%B4ph%C3%A0n-n%C3%A0n-%E7%99%BB%E9%8C%B2%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%95%99%E5%93%A1%E3%81%AB%E9%96%A2%E3%81%97%E3%81%A6%E3%81%AE%E6%84%9A%E7%97%B4%E3%81%A7%E3%81%99%C4%91%C3%A2y-l%C3%A0-l%E1%BB%9Di-ph%C3%A0n-n%C3%A0n-v%E1%BB%81-gi%C3%A1o-vi%C3%AAn-ti%E1%BA%BFng-nh%E1%BA%ADt-ch/1550039853795967/",
+    "https://www.facebook.com/61585100396169/posts/%E7%A6%8F%E7%A5%89%E4%BD%8F%E7%92%B0%E5%A2%83%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%8D%E3%83%BC%E3%82%BF%E3%83%BC%E6%9D%B1%E4%BA%AC%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80%E3%81%AE%E8%AA%8D%E5%AE%9A%E8%B3%87%E6%A0%BC%E7%A6%8F%E7%A5%89%E4%BD%8F%E7%92%B0%E5%A2%83%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%8D%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%B5%E3%81%8F%E3%81%97%E3%81%98%E3%82%85%E3%81%86%E3%81%8B%E3%82%93%E3%81%8D%E3%82%87%E3%81%86%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%8D%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%AE%E5%85%AC%E7%9A%84%E8%B3%87%E6%A0%BC%E3%81%AE1%E3%81%A4%E9%AB%98%E9%BD%A2%E8%80%85%E3%82%84%E9%9A%9C%E5%AE%B3%E8%80%85%E3%81%AB%E5%AF%BE%E3%81%97%E3%81%A6%E4%BD%8F/122144507595170013/"
+   ]
+  },
+  {
+   "query": "求人情報・採用ページから会社の実態を読む方法 note 社長",
+   "results": [
+    "https://note.com/sota_career/n/n93ea578f39e8",
+    "https://biz.note.com/n/n1169ea18b8be",
+    "https://marugotoinc.jp/blog/note/",
+    "https://www.careermart.co.jp/blog/14811",
+    "https://note.com/try_note_1026/n/n87f70ef36581",
+    "https://note.jp/n/na66380adc503",
+    "https://saiyo.migi-nanameue.co.jp/posts-1/note_recruit/",
+    "https://www.funnypro.net/officialblog/article/knowhow/867/",
+    "https://www.help-note.com/hc/ja/articles/33937437714969-note%E3%81%AB%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%95%E3%81%9B%E3%82%8B-%E9%80%A3%E6%90%BA%E3%81%A7%E3%81%8D%E3%82%8B%E6%8E%A1%E7%94%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%B8%80%E8%A6%A7-ATS%E9%80%A3%E6%90%BA",
+    "https://jinzai-tenshokuroot.jp/column/362/"
+   ]
+  },
+  {
+   "query": "求人情報・採用ページから会社の実態を読む方法 X 投稿",
+   "results": [
+    "https://nanairoinc.co.jp/column/x-recruitment-activities/",
+    "https://www.wantedly.com/hiringeek/recruit/twitter/",
+    "https://sharefull.com/content/business/20188/",
+    "https://whom-hr.co.jp/uncategorized/recruitment-sns/",
+    "https://azu-rite.co.jp/clumn/x-recruitment",
+    "https://hypex.jp/articles/twitter-saiyo",
+    "https://ats.atcompany.jp/recruiting/2589/",
+    "https://freejob.work/content/t0082/",
+    "https://ulforce-one.co.jp/blog/3209/",
+    "https://jinzai-tenshokuroot.jp/column/362/"
+   ]
+  },
+  {
+   "query": "infer company from job postings site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/infer-solutions",
+    "https://www.linkedin.com/company/infer-so",
+    "https://www.linkedin.com/pulse/you-applying-job-doesnt-exist-what-seekers-need-know-growing-4nnnc",
+    "https://www.linkedin.com/company/infer-inc-",
+    "https://www.linkedin.com/pulse/how-get-job-alerts-from-any-companys-careers-page-before-everyone-z1lcc",
+    "https://www.linkedin.com/posts/jordanmazer_most-jobs-arent-posted-on-linkedin-heres-activity-7381330182722408448-FfLp",
+    "https://www.linkedin.com/posts/debashish-ghatak_ai-inference-engineer-is-the-hottest-title-activity-7519939792273534976-LHtW",
+    "https://www.linkedin.com/jobs/causal-inference-jobs",
+    "https://www.linkedin.com/jobs/inference-solutions-jobs",
+    "https://www.linkedin.com/blog/engineering/infrastructure/engineering-linkedins-job-ingestion-system-at-scale"
+   ]
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-04T23:56:47.256718+00:00"
+}

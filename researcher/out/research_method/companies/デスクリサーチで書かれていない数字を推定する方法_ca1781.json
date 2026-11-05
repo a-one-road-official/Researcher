@@ -1,0 +1,3363 @@
+{
+ "name": "デスクリサーチで書かれていない数字を推定する方法",
+ "en": "desk research estimating unpublished numbers",
+ "aliases": [
+  "フェルミ推定 実務 市場規模",
+  "公開情報から売上を推定",
+  "非上場企業 売上 推定 方法"
+ ],
+ "context": "推定",
+ "kind": "market",
+ "researched_at": "2026-11-04T23:54:31.177110+00:00",
+ "evidence": {
+  "実例": [
+   {
+    "quote": "例えば、富裕層や中間層の規模を把握したい場合、高級ショッピングモールの店舗数やiPhoneのシェア率、あるいはインターナショナルスクールの生徒数などが有効な指標となります",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「外資系コンサルのケース面接（入社試験）のための特殊なクイズ」",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば、日本全体の売上を考える際、いきなり細かい数字を追うのではない",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "C：Calibration（キャリブレーション）――結果の妥当性検証",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：算出された結果が、自分が想定していた「桁の範囲」に収まっているかを確認する",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：例えば、あるニッチな「高級文房具」の市場規模を「5兆円」と推定したとする",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：その結果、「日本国民全員が、365日欠かさずその商品を1日5回買う」という結論になっていないか？ 「一店舗あたりの売上が、24時間不眠不休で客を詰め込んでも不可能な数字」になっていないか？",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一つの問いに対して、複数の解法（モデル）を試み、その結果が近似するかを確認する",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "計算結果を常識という名の『物差し』で測り直し、論理の健全性を保証する防波堤である",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：周辺アクセサリー市場（スマホケース等）、代替サービス（カーシェアリング等）",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "事実を整理するだけ、分析結果を説明するだけ、誰かの意見に同調するだけでは、プロフェッショナルとして十分とは言えない",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "短期的な結果を求めるあまり、問題の本質に向き合う時間を確保できず、解決策は表面的なものになる",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "しかし本書は「仮説思考に必要な頭の使い方の手順」を、豊富な事例とともに徹底解説している",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "調査結果の分析効率化ダッシュボード構築支援",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "調査結果は、ニーズ・アイディア検索や市場把握の資料としてご活用ください",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "前提条件の設定からMECEな要素分解、仮定数値の計算、結果の検証という手順とともに、得られる結果は特定の範囲にとどまる概算であることや数値化できない課題には適用できない留意点が分かります",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば「日本にある電柱の本数は？」や「人は1日に何歩くらい歩くのか？」といった、一見すると答えが見当たらない質問に対しても、すでにわかっている情報を細かく分けて考え、推論を積み重ねることで現実的な見積もりを導き出します",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定を取り入れることで、テストマーケティングの結果をもとに早期に施策を調整することが可能になります",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定の結果はあくまでも「仮説の出発点」として位置づけ、過信しすぎないことが重要です",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特に重大な意思決定を伴う場面では、フェルミ推定の結果を参考程度に留め、必ず別途裏付けとなるデータを収集するようにしましょう",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "リサーチ力がどんな案件・選考で求められるか（CDB掲載案件の実例つき）",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "目的がないと、検索結果のどれが必要でどれが不要かを判断できません",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "仮説があるからこそ、検索結果を見た瞬間に「仮説どおりか、違うか」を判断でき、調査のスピードが上がります",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "コンサルの議事録の書き方｜1年目に叩き込まれる外資系ファームの基本【実例・Wordテンプレ付き】",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "コンサルの議事録の書き方｜実例・Wordテンプレ付き",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "調査結果を「伝わる1枚」にする",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「-求人 -転職」のように除外語を足すと、目的と関係ないページが検索結果から消え、原典に近い資料が上位に残ります",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "絞り込んだ結果についても、",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海外の事例を日本語で集めたい → Felo",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：過去数十年分の統計や海外事例など、個人のインタビューでは得られない視点を得られる",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "リサーチ力が求められるコンサル案件の実例",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ES・面接・ケース対策まで一気通貫で支援",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【完全保存版】コンサル流パワポテンプレート・作成テクニック10選 | トップファームの実例から学ぶ",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "コンサルケース面接対策",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新規事業の進め方や実践事例を、専門家・実務家から学ぶ",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "調査結果を次の顧客ヒアリングへつなぐ",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "まとめ：調査結果を、次の事業判断につなげよう",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば「金曜日のチーム会議で、最初に話を聞く店舗の条件を決める」という形です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "逆に、検索結果の上から順に読むだけでは、同じ種類の情報に偏りやすくなります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば、発注担当者が在庫まで把握している店と、複数店舗を本部で管理する企業では、同じ支援策が適するとは限りません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば「個人店全般を対象に開発へ進む根拠はまだ不足している",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「飲食店 新規事業」だけでは、広告、事例、支援サービスなどが混ざります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば次のように使えます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "担当者と期限を決め、結果に応じて対象・提供内容を見直す",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、発注の改善より別の課題の優先度が高いと分かったら、それも重要な調査結果です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "結果を何の判断に使うか",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この結果だけで、対話が少ないことが失敗の原因だとは言えません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば業界統計から店舗数は推計できても、対象店舗がどの作業に困り、月額いくらで切り替えるかは未確認です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば、情報収集だけで時間を使い切らないよう、整理と報告に使う時間を先に確保します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "ここで私が意識しているのは、1つの計算方法に頼らず、複数の手法で計算して妥当性を検証する",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特に現場実装を前提とするアフリカビジネスでは、この推定が事業の成否を分けます",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "正確な数字がない場合は、論理的な推論（フェルミ推定）を用います",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "推定は数字の正確性よりも、「仮定が明示されており、議論・修正が可能である」という点",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "知りたい直接的なデータ（例：特定商品の正確な売上高など）が存在しない場合でも、それと強い相関関係にある別のデータ、すなわち「プロキシ」を探すことで実態を推計",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチの仮説を、現地の「肌感覚」で修正します",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチで立てた仮説は、必ず現地の「肌感覚」と照らし合わせて修正する必要",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「公式市場の1.5倍〜2倍程度の実態があるのではないか？」といった仮説を持ち、現地パートナーの知見を借りて係数として組み込む視点を持つことが重要です",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル｜ k_bird｜Branding Strategist｜ASAKO",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このページに辿り着いたあなたなら、今まさに「フェルミ推定をマスターして、思考の解像度を上げたい」、あるいは「コンサル流の地頭の良さを自分のスキルとして定着させたい」という強い向上心を持っていることだろう",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「フェルミ推定」という言葉を聞いて、あなたはどのような印象を持つだろうか？",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定とは、単なる「数字の当てっこ」ではない",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "それは、混沌とした不確実なビジネス環境において、手元にある限られた情報から「筋の良い仮説」を導き出し、意思決定を加速させるための「最強の思考OS」であり、戦略的思考スキルの土台である",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "もしあなたが自由自在にフェルミ推定を使いこなすことができれば、",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定は、生まれ持ったセンスや才能の話ではない",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "よって今回は、ビジネスにおける思考ツールである「フェルミ推定のやり方」について、その本質から実務への応用手順までを徹底的に解説しよう",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定とは何か？――AI時代に必須の「問題解決能力」としての価値",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "不確実な状況下で妥当な仮説を数値化する「フェルミ推定の考え方」こそが、情報洪水の中で自分を守り、成果を出し続けるための生存戦略（サバイバルスキル）となる",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定の定義：概算の技術を超えた「仮説構築力」",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「フェルミ推定」とは何か？",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定の対義語は「精密な実態調査（実査）」だ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方でフェルミ推定は、細かなディテールを捨象し、物事の「構造」を捉える",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定の解き方やメリットを解説！活用の注意点は？ | リサーチ・市場調査ならクロス・マーケティング",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定の解き方やメリットを解説！活用の注意点は？",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定の基本概念",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "大規模調査を行わずとも一定の根拠を得られる点や、データ不足でも特定の要素から市場規模を把握できるなど、意思決定や仮説検証を迅速化させる利点を把握できます",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "前提条件の設定からMECEな要素分解、仮定数値の計算、結果の検証という手順とともに、得られる結果は特定の範囲にとどまる概算であることや数値化できない課題には適用できない留意点が分かります",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定とは、限られた情報と論理的な思考を組み合わせて、大まかな数値を素早く推定できる手法です",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "実際のデータが十分に揃っていない状況でも、仮説と計算を重ねることで妥当な概算を導き出せるため、マーケティングや新規事業の検討など、ビジネスのさまざまな場面で活用されています",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回は、フェルミ推定の基本的な概念から実践的な解き方のステップ、マーケターにとってのメリット、そして活用時の注意点まで、わかりやすく解説します",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定とは",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "マーケターがフェルミ推定を活用するメリット",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定の解き方",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定を活用する際の注意点",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定とは、実際のデータや正確な統計情報がない場合でも、限られた情報をもとに論理的な仮定と計算を組み合わせることで、妥当な範囲の推定値を導き出す思考法です",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定は、マーケティング分析にスピードと精度をもたらします",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定は、大規模な市場調査を実施しなくても、自社が保有するデータや一般に公開されている情報をもとに、仮説を立てたりマーケットの概算を把握したりできます",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "目的と仮説を先に置き、調べる項目を表にしてから検索を始める",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「目的と仮説を決める → 調べる項目を設計する → 検索する → 情報を分類・評価する」の4ステップ",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "STEP 1 調査目的の把握と仮説構築",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ステップ1：調査目的の定義と仮説構築",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "目的が決まったら、仮説を立てます",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「この市場は〇〇という技術革新によって伸びているはずだ」という仮説があれば、検索語は「〇〇技術 市場規模 推移」に絞られます",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "仮説があるからこそ、検索結果を見た瞬間に「仮説どおりか、違うか」を判断でき、調査のスピードが上がります",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "仮説は「正しいことを証明するため」のものではなく、調査の起点です",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "反証するデータが出たら、仮説のほうを更新します",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "仮説を立てたら、具体的に何を調べるかの「設計図」を作ります",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "調べた情報を整理し、足りない数字を推計し、相手が判断できる資料に落とすところまでつながって、はじめて実務で使えるスキルになります",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定とは？例題20問と解き方を回答付きで解説",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "明らかにしたい問い（仮説）",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同じ「情報ソース」でも、一次情報なのか、データを集約したものなのか、仮説のヒントなのかで扱いが変わります",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "仮説探索（二次情報）",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Plan｜会議の指摘を具体的な仕事に変え、AIとプロ人材で調査・検証へつなぐ",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "TeamPro Pilots｜新規事業の検証と実行を、経験者と進める",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Plan｜AIとプロ人材で、調査・検証から次の判断まで支援する",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アイデア創出から顧客検証・事業計画・事業化まで、進め方を学ぶ",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "顧客・市場・検証などの目的から、必要な手法を選べる実践集です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2. 調べる問いと仮説を絞る",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "市場規模算出の目的と、思考のフレームワークである「TAM / SAM / SOM」について解説",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「3つの手順」と、数字の解像度を上げるための「泥臭いテクニック」",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "実践編：市場規模を算出する「3つのステップ」",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Step 1: すでに存在するレポートから調べる",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Step 2：算出ロジックを組み立てる（4つのアプローチ）",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Step 3：データの精度を高めるテクニック",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ではここから、私がいつも市場規模を算出するために行っていることをステップごとにご紹介します",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ここで私が意識しているのは、1つの計算方法に頼らず、複数の手法で計算して妥当性を検証する",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "顧客1人、あるいは店舗1つあたりの経済活動を特定し、それを積み上げる方法",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「リープフロッグ（技術的飛躍）」型のビジネスに最適",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ここまで、技術的な手法やフレームワークについてお話ししてきましたが、改めて最後に強調したいのは",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "『日本とアフリカ諸国を繋ぎ、社会課題解決型ビジネスを共創することで、アフリカの持続的成長に貢献する』をビジョンに日本企業のアフリカへのビジネス進出や現地での事業開発をサポートする日系コンサルティング会社です",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル｜ k_bird｜Branding Strategist｜ASAKO",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "正しい手順とフレームワークさえ踏めば、誰にでも習得可能な「論理的思考の技術」であり、再現性のある「方法論」だ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "よって今回は、ビジネスにおける思考ツールである「フェルミ推定のやり方」について、その本質から実務への応用手順までを徹底的に解説しよう",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "推定を科学する「MPCフレームワーク」完全版――初心者からプロまで使える3ステップ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "M-P-Cフレームワーク",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この3ステップを順に踏むことで、どんな難問も解体可能になる",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "、論理の設計図を作る最も重要なステップだ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "数式の設計図（モデル）が完成したら、次はその各変数に「具体的な数値」を割り当てるステップだ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定「5つの解体モデル」詳説――あらゆる市場規模を因数分解する手順",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "MPCフレームワークの「M（モデリング）」を成功させるには、目的に合った「型」の選択が不可欠だ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「誰が欲しがっているか」という消費者の総量から攻める、BtoCビジネスの基本型だ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フレームワークという「型」があっても、代入する数字という「弾丸」がなければ戦えない",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "時間の使い方",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "実務への応用：生成AIの市場規模予測――MPCフレームワークの全プロセス",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "セルフ型リサーチ",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特化型データ分析",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "セルフ型アンケートツール「QiQUMO」",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海外向け セルフ型アンケートツール「Global QiQUMO」",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "セルフ型アンケートツール QiQUMO",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アンケート調査の種類・方法・費用相場",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "解き方の4ステップと注意点",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "前提条件の設定からMECEな要素分解、仮定数値の計算、結果の検証という手順とともに、得られる結果は特定の範囲にとどまる概算であることや数値化できない課題には適用できない留意点が分かります",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場規模の算出方法やマーケティングへの活用法を知りたい方は「",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場規模とは？算出方法とマーケティングに役立つポイントを解説",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回は、フェルミ推定の基本的な概念から実践的な解き方のステップ、マーケターにとってのメリット、そして活用時の注意点まで、わかりやすく解説します",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定の解き方を、「日本の年間コーヒー消費量」を例に、4つのステップで解説します",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ステップ1：前提条件の確認（問題の明確化）",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ステップ2：要素分解をして公式を作成（因数分解）",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ステップ3：公式に数字を入力（計算）",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクトップリサーチ（デスクリサーチ）のやり方｜調査設計テンプレ・検索コマンド集",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチ（デスクトップリサーチ）のやり方｜調査設計テンプレ・検索コマンド集・情報ソース9選【2026年版】",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチの速さと質は、検索やAIの使い方の上手さではなく",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本記事では、その手順を実務のまま公開します",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "調べる前に何を決めるべきか——デスクリサーチの基本手順4ステップ",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "コンサルが実際に使う国内・海外の情報ソース9選と、生成AIの安全な使い方",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチの基本手順4ステップ",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「目的と仮説を決める → 調べる項目を設計する → 検索する → 情報を分類・評価する」の4ステップ",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このうち時間をかけるべきは前半の2ステップです",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "STEP 1 調査目的の把握と仮説構築",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "STEP 2 調査項目のリストアップ",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "PEST・3Cなどのフレームワークで調査の設計図を作る",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "STEP 3 キーワードの抽出と検索",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "STEP 4 情報ソースの一次・二次の分類と評価",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ステップ1：調査目的の定義と仮説構築",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチのやり方｜6ステップと新規事業に使える記入例｜ナレッジ｜イノベーション総合研究所",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "TeamPro Leaders｜判断の型・実践・1on1伴走で育てる",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新規事業の進め方、事業テーマの探し方、企業の最新動向を紹介",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "① 公的機関",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "各国の統計局（例：ケニア国立統計局 KNBSなど）がWebサイトでデータを公開している場合があります",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "更新頻度はまちまちですが、人口センサスなどの一次情報はここで確認します",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "現地の統計局に比べて国際機関のデータの方がよく整備されておりアクセスも容易です",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界中の統計データを集約したプラットフォーム",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "統計データが不足しているアフリカ市場において",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、アフリカの多くの国では製造業が未発達で輸入に依存しているため、特定の消費財市場を知るには「HSコードに基づく輸入統計（UN Comtradeなど）」がそのまま市場規模に近い数値を示すことも少なくありません",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "統計情報が少ないアフリカにおいて、市場規模算出に「正解」はありません",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2つ目は「最新の統計数字を知らないから計算できない」と諦めてしまうことだ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "しかし、一流のコンサルタントもすべての統計を暗記しているわけではない",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "最も手軽で強力な手法が、自分自身の行動や周辺の事象を統計の最小単位として扱う「サンプル・オブ・ワン」だ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：誰もが知っている巨大市場や国家統計と比べる",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "以下はストラテジストが「世界のスケール感」を測るために頭に入れている必須の統計定数だ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "公的統計調査",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "委託調査（公的統計）",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "最も高い評価のコンセプトを採用したい",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "最も訴求力の高いデザインを採用したい",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "統計分析手法をはじめとするマーケティングリサーチ用語や、データマーケティング用語、デジタルデータマーケティング用語について広く解説しています",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定とは、実際のデータや正確な統計情報がない場合でも、限られた情報をもとに論理的な仮定と計算を組み合わせることで、妥当な範囲の推定値を導き出す思考法です",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIに何を調べさせるかを決め、出てきた数字の出所を確かめ、一次情報に当たり直す",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一次情報にたどり着きやすくする",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「filetype:pdf」と「site:go.jp」を組み合わせる",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：官公庁の統計、企業のIR・決算資料、法令・制度資料、企業自身のプレスリリースなど、調査対象となる主体や公的機関が直接公表している情報",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：新聞・ニュースサイト、調査会社のレポート、解説記事など、一次情報を第三者が整理・分析した情報",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一次情報が存在するものについては原則として一次情報まで遡って確認します",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "経産省 資料／業界団体",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「主要3社の数字が揃えば終了」「公的資料2本で傾向が一致すれば終了」のように、どこまで調べたら止めるかを先に決める",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一次情報や信頼性の高い原典に効率よくたどり着くには、検索コマンド（演算子）を組み合わせます",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "filetype:pdf",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "白書・調査レポート・決算資料などPDFだけを抽出",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "DX動向 filetype:pdf",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場規模 -求人 -転職",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "蓄電池 市場規模 filetype:pdf site:meti.go.jp after:2024-01-01",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "充電インフラ 設置数 site:or.jp filetype:pdf",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチは、統計や企業の公開資料、社内の記録など、既存の情報を集めて分析する調査です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "全50ページ／PDF",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "公的統計で確認できる事実を押さえる",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチは、統計、企業の公開資料、業界レポート、論文、社内の記録など、すでに存在する情報を集めて分析する調査です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ここで混同しやすいのが「一次情報」です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "たとえばデスクリサーチでも、ニュース記事が紹介する数値を政府の統計や企業の決算資料に戻って確認できます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "たとえば、店舗数なら統計、サービスの料金なら提供企業の公式ページ、現場で困っている作業なら社内の商談記録や公開インタビューが候補です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、資料名やURLを後から探し直すのではなく、情報を採用するときに一緒に保存するのがコツです",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次の表は、探し始める場所と、採用前に見る点をまとめたものです",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "調査の問いに応じた情報源と採用前の確認点",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "採用前に確認すること",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "e-Stat、担当省庁の統計",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国立国会図書館リサーチ・ナビ、業界団体の公開資料",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "統計や発言の出典があるか",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "で資料の探し方を確認すると、検索エンジンだけでは気づきにくい統計や業界資料を探す手掛かりになります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "注意ポイント：インフォーマルセクターを見落とさない",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらは非常に質が高い一方で、一部のサービスや詳細なレポートは「有料」となる点に注意が必要です",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "その中で多くのビジネスパーソンが、KPIや既存データといった「目に見える指標」に過度に依存する「可視化依存社会」の罠に嵌まっている",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脳が「未知のもの」に対して拒絶反応を起こす際、特定の「心理的な罠」に嵌まっているからだ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "罠-1：正解主義の呪縛",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一つ目の罠は、日本の教育で植え付けられた「テストには必ず1つの絶対的な正解がある」という思い込みだ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "罠-2：知識依存の罠",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "罠-3：計算衝動の罠",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "思考の停止を防ぐ「7つの認知バイアス」――論理の罠を回避せよ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "以下の「心理の罠」に陥っていないか、常に客観的なメタ認知を働かせる必要がある",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "代表性バイアス",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "正常性バイアス",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "確証バイアス",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "KPIや数値データなどの「目に見える」情報に注意が奪われ「目に見えない」質的な側面や、背景にあるストーリーは軽視されていく",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「一生もののスキルになるのは間違いない」",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "使って、失敗して、組み合わせて、初めてあなたの血肉となる",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定の解き方やメリットを解説！活用の注意点は？ | リサーチ・市場調査ならクロス・マーケティング",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定の解き方やメリットを解説！活用の注意点は？",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "解き方の4ステップと注意点",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回は、フェルミ推定の基本的な概念から実践的な解き方のステップ、マーケターにとってのメリット、そして活用時の注意点まで、わかりやすく解説します",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定を活用する際の注意点",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "使うときの注意は4つです",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチの限界と、失敗しないための注意点",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この章では、デスクリサーチで取れないものと、判断を誤りやすいポイントを整理します",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "確証バイアスと「鮮度・出所」の確認",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これを確証バイアスと呼びます",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この結果だけで、対話が少ないことが失敗の原因だとは言えません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、望んだ結論と違っても、調査の失敗ではありません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ただし、これだけで誤りをなくせるわけではありません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新規事業の失敗・撤退（4）",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新規事業の失敗要因を6つの軸で診断",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/304836/n/n13af8e7d1ebc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/diisuket/n/n7f2cfdfd775f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.intimatemerger.com/n/nd584a0f055b1?gs=e6e6345875aaf1173a2f8e0a02267e3b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.intimatemerger.com/n/n3a013272d443?gs=5e22de72e9a55fe824c70d5fbcbeade3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/diisuket/n/nc5f302c13f7f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=0fbe129751694dccd9c08ee27751dbb2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/consulting_lab15/n/n6786a17f7eb2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/drneurosur/n/nd180496c06c3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.kotora.jp/n/n0ec9d5ce6a6f?gs=206e0942ee8c8bd4b1041a8553ccda8f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yutori_kun01/n/n09a6ac9fee80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://otsumu.co.jp/knowledge/glossary/terms/desukurisaachi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grooveworks.co.jp/how-to-get-evidence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.provej.jp/column/na/desk-research/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-research.ai/research-column/qualitative-survey",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://just-c.net/column/7437/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sevendex.com/post/7748/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macromill.com/service/words/fermi-estimation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.spready.co.jp/desk-research-with-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sisinternational.com/solutions/desk-research-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.b2binternational.com/publications/desk-research/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thisisservicedesigndoing.com/methods/secondary-research",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://files.eric.ed.gov/fulltext/ED565366.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10359936/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digital.gov/guides/hcd/discovery-operations/desk-research",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "デスクリサーチで書かれていない数字を推定する方法 site:note.com",
+   "results": [
+    "https://note.com/304836/n/n13af8e7d1ebc",
+    "https://note.com/diisuket/n/n7f2cfdfd775f",
+    "https://note.com/intimatemerger/n/nd584a0f055b1",
+    "https://note.com/intimatemerger/n/n3a013272d443",
+    "https://note.com/diisuket/n/nc5f302c13f7f",
+    "https://note.com/bon0404/n/n3912f28693b8",
+    "https://note.com/manzoku/n/n395b8d50ae62",
+    "https://note.com/diisuket/n/nb1d2e50020af",
+    "https://note.com/ai_datamimi/n/n2df21522023d",
+    "https://note.com/famous_crow7951/n/n40e7a4cbdef9"
+   ]
+  },
+  {
+   "query": "デスクリサーチで書かれていない数字を推定する方法 note",
+   "results": [
+    "https://note.intimatemerger.com/n/n9012095e7eac",
+    "https://note.com/consulting_lab15/n/n6786a17f7eb2",
+    "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "https://note.com/drneurosur/n/nd180496c06c3",
+    "https://note.kotora.jp/n/n0ec9d5ce6a6f",
+    "https://note.com/yutori_kun01/n/n09a6ac9fee80",
+    "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "https://nano.globis.ac.jp/r/digital-glossary/article/312",
+    "https://note.com/tofumaru_min/n/ne9df8d35b7e0",
+    "https://note.com/abiraunken/n/n153bb02e064f"
+   ]
+  },
+  {
+   "query": "デスクリサーチで書かれていない数字を推定する方法 やり方",
+   "results": [
+    "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "https://consul-data-bank.com/insight/5868/",
+    "https://www.youtube.com/watch?v=fe3EVSJ5pfw",
+    "https://otsumu.co.jp/knowledge/glossary/terms/desukurisaachi.html",
+    "https://note.intimatemerger.com/n/n9012095e7eac",
+    "https://grooveworks.co.jp/how-to-get-evidence/",
+    "https://www.provej.jp/column/na/desk-research/",
+    "https://iri-group.jp/knowledge/desk-research/",
+    "https://my-vision.co.jp/articles/fermi-estimation-explanation"
+   ]
+  },
+  {
+   "query": "デスクリサーチで書かれていない数字を推定する方法 事例",
+   "results": [
+    "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "https://note.intimatemerger.com/n/n9012095e7eac",
+    "https://www.youtube.com/watch?v=fe3EVSJ5pfw",
+    "https://consul-data-bank.com/insight/5868/",
+    "https://gmo-research.ai/research-column/qualitative-survey",
+    "https://just-c.net/column/7437/",
+    "https://sevendex.com/post/7748/",
+    "https://www.macromill.com/service/words/fermi-estimation/",
+    "https://media.spready.co.jp/desk-research-with-ai/",
+    "https://media.deskrex.ai/desk-research-automation-complete-2026/"
+   ]
+  },
+  {
+   "query": "desk research estimating unpublished numbers",
+   "results": [
+    "https://www.sisinternational.com/solutions/desk-research-agency/",
+    "https://www.b2binternational.com/publications/desk-research/",
+    "https://www.thisisservicedesigndoing.com/methods/secondary-research",
+    "https://files.eric.ed.gov/fulltext/ED565366.pdf",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10359936/",
+    "https://digital.gov/guides/hcd/discovery-operations/desk-research",
+    "https://condens.io/blog/desk-research-in-user-research/",
+    "https://visionone.co.uk/research-glossary/desk-secondary-research/",
+    "https://www.quirks.com/glossary/desk-research",
+    "https://www.questionpro.com/blog/desk-research/"
+   ]
+  },
+  {
+   "query": "site:note.com デスクリサーチで書かれていない数字を推定する方法",
+   "results": [
+    "https://note.com/intimatemerger/n/nd584a0f055b1",
+    "https://note.com/304836/n/n13af8e7d1ebc",
+    "https://note.com/diisuket/n/n7f2cfdfd775f",
+    "https://note.com/intimatemerger/n/n3a013272d443",
+    "https://note.com/diisuket/n/nc5f302c13f7f",
+    "https://note.com/bon0404/n/n3912f28693b8",
+    "https://note.com/manzoku/n/n395b8d50ae62",
+    "https://note.com/ai_datamimi/n/n2df21522023d",
+    "https://note.com/diisuket/n/nb1d2e50020af",
+    "https://note.com/kawaidesign/n/nf4edba183bca"
+   ]
+  },
+  {
+   "query": "site:x.com デスクリサーチで書かれていない数字を推定する方法",
+   "results": [
+    "https://x.com/deskrex",
+    "https://x.com/ai_jitan/status/2086969518648381889",
+    "https://x.com/Akki_AI7/status/2113824308028187133",
+    "https://x.com/TAKAHIRO3IURA/status/2116386686074831051",
+    "https://x.com/UT_Codex/article/2057745791083786272",
+    "https://x.com/F8Q75WZwaibw/status/2106856331756056711",
+    "https://x.com/WIZAI_AI_0/article/2038587986271785435",
+    "https://x.com/unikoukokun/status/2036470354907111876",
+    "https://x.com/MakeAI_CEO/status/2040722018635747663",
+    "https://x.com/so_ainsight/status/2116448567858778182"
+   ]
+  },
+  {
+   "query": "site:linkedin.com デスクリサーチで書かれていない数字を推定する方法",
+   "results": [
+    "https://jp.linkedin.com/pulse/did-market-change-ai-just-blink-crisis-consistency-desk-lahouasnia-9atnc?tl=ja",
+    "https://jp.linkedin.com/pulse/secondary-research-modern-b2b-market-saqib-saeed-oovtf?tl=ja",
+    "https://jp.linkedin.com/pulse/5-figures-ai-bubble-concerns-raynor-de-best-wrn1f?tl=ja",
+    "https://jp.linkedin.com/pulse/you-measuring-wrong-thing-more-research-better-mbj2f?tl=ja",
+    "https://jp.linkedin.com/pulse/layer-beneath-model-just-got-price-tag-180m-yves-mulkers-vn7ve?tl=ja",
+    "https://jp.linkedin.com/pulse/should-agentic-ai-have-seat-your-research-desk-mindcog-tech-xknwc?tl=ja",
+    "https://jp.linkedin.com/pulse/2026-year-ai-augmented-pmm-tom-doherty-j2i1c?tl=ja",
+    "https://jp.linkedin.com/pulse/making-every-insight-count-measuring-roi-primary-marketing-noah-pines-egzue?tl=ja",
+    "https://jp.linkedin.com/pulse/how-do-you-research-business-book-yes-having-cat-helps-jaqui-lane-zuevc?tl=ja",
+    "https://jp.linkedin.com/pulse/really-changes-all-yash-agarwal-qdaqc?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com デスクリサーチで書かれていない数字を推定する方法",
+   "results": [
+    "https://www.facebook.com/100008201735579/videos/ai%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%81%AE99%E3%81%AF%E8%A9%90%E6%AC%BA%E5%B0%91%E3%81%97%E5%A4%A7%E8%A2%88%E8%A3%9F%E3%81%AA%E8%A1%A8%E7%8F%BE%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%8B%E3%82%82%E3%81%97%E3%82%8C%E3%81%BE%E3%81%9B%E3%82%93%E4%B8%80%E7%94%9F%E6%87%B8%E5%91%BD%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E4%BC%9A%E7%A4%BE%E3%81%8C%E3%81%BB%E3%81%A8%E3%82%93%E3%81%A9%E3%81%A0%E3%81%A8%E3%81%AF%E6%80%9D%E3%81%84%E3%81%BE%E3%81%99%E3%81%97%E3%81%8B%E3%81%97%E6%AE%8B%E9%85%B7%E3%81%AA%E4%BA%8B%E5%AE%9F%E3%81%A8%E3%81%97%E3%81%A6%E6%88%90%E6%9E%9C%E3%81%AF%E5%87%BA%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8C/2544093682678009/",
+    "https://www.facebook.com/takuya.inoue.39982/videos/%E8%89%B2%E3%82%93%E3%81%AA%E3%81%A8%E3%81%93%E3%82%8D%E3%81%A7ai%E7%A4%BE%E5%93%A1%E3%81%9F%E3%81%A1%E3%81%AB%E9%A0%91%E5%BC%B5%E3%81%A3%E3%81%A6%E9%A0%82%E3%81%84%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E4%BC%81%E7%94%BB%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AA%E3%81%A9%E3%81%8C%E4%B8%80%E6%B0%97%E9%80%9A%E8%B2%AB%E3%81%A7%E5%87%BA%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%AF%E3%81%99%E3%81%94%E3%81%8F%E3%81%82%E3%82%8A%E3%81%8C%E3%81%9F%E3%81%84%E3%81%A7%E3%81%99%E6%A5%AD%E5%8B%99%E3%81%AE%E5%8A%B9%E7%8E%87%E5%8C%96%E3%82%84%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AA%E3%81%8F%E3%81%93%E3%82%8C/1031636489680808/",
+    "https://www.facebook.com/jicavolunteer/posts/1164544365865124/",
+    "https://www.facebook.com/100092715664950/posts/-recruitment-selection-process-in-japan-understanding-the-recruitment-process-in/878392998594548/",
+    "https://www.facebook.com/jicadrlc/posts/english-follows-after-japanese-%E3%82%A4%E3%83%B3%E3%83%89%E5%9B%BD%E5%88%A5%E7%A0%94%E4%BF%AE%E4%BA%BA%E3%81%A8%E9%98%B2%E7%81%BD%E6%9C%AA%E6%9D%A5%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E8%A8%AA%E5%95%8F-%E3%82%A4%E3%83%B3%E3%83%89%E5%8C%97%E6%9D%B1%E5%B7%9E%E3%81%8B%E3%82%89%E6%9D%A5%E6%97%A5%E3%81%97%E3%81%9F%E7%A0%94%E4%BF%AE%E5%93%A113%E5%90%8D%E3%81%8C5%E6%9C%8812%E6%97%A5%E7%81%AB%E3%81%AB%E5%85%B5%E5%BA%AB%E7%9C%8C/1288182670068309/",
+    "https://www.facebook.com/100062616217622/videos/ai%E6%B4%BB%E7%94%A8-ai-chatgpt-claude/2508305699655051/",
+    "https://www.facebook.com/apamanshopcom/posts/%E4%BC%8A%E5%8B%A2%E3%81%AE%E8%88%9E%E3%82%A8%E3%83%93ver%E3%81%AB%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8-%E3%81%B9%E3%81%82%E5%90%9B%E3%83%80%E3%83%B3%E3%82%B9%E4%B8%89%E9%87%8D%E7%B7%A8%E5%85%AC%E9%96%8B%E4%BC%8A%E5%8B%A2%E6%B5%B7%E8%80%81%E3%81%9F%E3%81%A1%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E3%83%80%E3%83%B3%E3%82%B9%E6%8C%AF%E4%BB%98%E3%82%92%E8%A6%9A%E3%81%88%E3%81%A6%E8%B8%8A%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%E3%83%80%E3%83%B3%E3%82%B9%E6%8C%AF%E4%BB%98%E2%91%A0%E3%81%BF%E3%81%8E%E5%90%91%E3%81%84%E3%81%A6%E2%91%A1%E3%83%9D%E3%83%BC%E3%82%BA%E2%91%A2%E3%81%B2%E3%81%A0%E3%82%8A%E5%90%91%E3%81%84%E3%81%A6%E2%91%A3%E3%83%9D%E3%83%BC%E3%82%BA%E2%91%A4%E6%AD%A3/1237640265075799/",
+    "https://www.facebook.com/GiGWorksAddValue/posts/%E3%82%AE%E3%82%B0%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3ai%E3%81%AE%E7%B2%BE%E5%BA%A6%E3%82%92%E5%B7%A6%E5%8F%B3%E3%81%99%E3%82%8B%E3%81%AE%E3%81%AF%E7%8F%BE%E5%A0%B4%E3%83%87%E3%83%BC%E3%82%BF%E3%81%A0%E3%81%A3%E3%81%9F%E7%94%BB%E5%83%8F%E3%83%87%E3%83%BC%E3%82%BF%E5%8F%8E%E9%9B%86%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E6%96%B9%E6%B3%95%E7%94%9F%E6%88%90ai%E3%82%84%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98ai%E3%81%AE%E6%B4%BB%E7%94%A8%E3%81%8C%E9%80%B2%E3%81%BFai%E3%81%AF%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AE%E4%BB%95%E4%BA%8B%E3%82%84%E7%94%9F%E6%B4%BB%E3%81%AB%E8%BA%AB%E8%BF%91%E3%81%AA%E5%AD%98%E5%9C%A8%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/1616891346803670/",
+    "https://www.facebook.com/masaru.seo/posts/%E3%81%9F%E3%81%A8%E3%81%88%E3%81%93%E3%81%AE%E4%B8%96%E3%81%8B%E3%82%89%E5%8E%BB%E3%81%A3%E3%81%A6%E3%82%82%E8%AA%B0%E3%81%8B%E3%81%AE%E4%B8%AD%E3%81%A7%E7%94%9F%E3%81%8D%E3%81%A6%E3%81%84%E3%81%8F%E3%81%9D%E3%82%8C%E3%81%8C%E4%BA%BA%E9%96%93%E3%81%AA%E3%82%93%E3%81%A0%E3%81%AA%E3%81%82%E3%81%A8%E3%81%97%E3%81%BF%E3%81%98%E3%81%BF%E6%80%9D%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%9C%E3%81%B2%E8%AA%AD%E3%82%93%E3%81%A7%E3%81%BF%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/27113908091580085/",
+    "https://www.facebook.com/groups/indiansinjapan/posts/24127538966878722/"
+   ]
+  },
+  {
+   "query": "デスクリサーチで書かれていない数字を推定する方法 note 社長",
+   "results": [
+    "https://note.intimatemerger.com/n/n9012095e7eac",
+    "https://note.com/consulting_lab15/n/n6786a17f7eb2",
+    "https://www.youtube.com/watch?v=2qpTY-U6g_w",
+    "https://note.com/practicalcompass/n/ne3cd43458114",
+    "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "https://nano.globis.ac.jp/r/digital-glossary/article/312",
+    "https://note.kotora.jp/n/n0ec9d5ce6a6f",
+    "https://www.youtube.com/watch?v=fe3EVSJ5pfw",
+    "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "https://note.com/abiraunken/n/n153bb02e064f"
+   ]
+  },
+  {
+   "query": "デスクリサーチで書かれていない数字を推定する方法 X 投稿",
+   "results": [
+    "https://sebaschans.com/blog/x-impressions",
+    "https://note.com/pokemimi/n/n6306c1aff751",
+    "https://prtimes.com/magazine/twitter-measurement-of-effectiveness/",
+    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vIt3LaPBxiLSALyVZSiRbZkg8tnQh41UyHPqQ_cJHKeF45L_SCm",
+    "https://sns.userlocal.jp/column/how-to-twitter-analytics/",
+    "https://addness.co.jp/media/x-impression/",
+    "https://www.aspicjapan.org/asu/article/48686",
+    "https://www.gas-laboratory.com/courses/twitter-kw-posts-data",
+    "https://note.intimatemerger.com/n/n9012095e7eac",
+    "https://media.spready.co.jp/desk-research-with-ai/"
+   ]
+  },
+  {
+   "query": "desk research estimating unpublished numbers site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/david-brzostowicki-4305b893_private-offline-and-yours-how-to-search-activity-7518178479893557248-TM74",
+    "https://www.linkedin.com/posts/alessandro-mantelero-a4872329_research-aiact-ai-activity-7408071387707514882-8IbO",
+    "https://www.linkedin.com/posts/gianmariasilvello_slides-of-the-keynote-at-tpdl-2026-activity-7508850769383571456-B9Oq",
+    "https://www.linkedin.com/in/david-letzler-5a2035b9",
+    "https://uk.linkedin.com/in/marco-raugei-09086438",
+    "https://uk.linkedin.com/in/julie-glanville-552ba619",
+    "https://www.linkedin.com/posts/professor-dylan-jones-evans-obe-3755a711_the-more-we-learn-about-the-wru-welsh-rugby-activity-7494286421784961025-4fQT",
+    "https://www.linkedin.com/in/jentsminger",
+    "https://uk.linkedin.com/in/charles-tallack-b0812a18",
+    "https://www.linkedin.com/in/ctralie"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "実例": [
+   {
+    "quote": "例えば、富裕層や中間層の規模を把握したい場合、高級ショッピングモールの店舗数やiPhoneのシェア率、あるいはインターナショナルスクールの生徒数などが有効な指標となります",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「外資系コンサルのケース面接（入社試験）のための特殊なクイズ」",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば、日本全体の売上を考える際、いきなり細かい数字を追うのではない",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "C：Calibration（キャリブレーション）――結果の妥当性検証",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：算出された結果が、自分が想定していた「桁の範囲」に収まっているかを確認する",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：例えば、あるニッチな「高級文房具」の市場規模を「5兆円」と推定したとする",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：その結果、「日本国民全員が、365日欠かさずその商品を1日5回買う」という結論になっていないか？ 「一店舗あたりの売上が、24時間不眠不休で客を詰め込んでも不可能な数字」になっていないか？",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一つの問いに対して、複数の解法（モデル）を試み、その結果が近似するかを確認する",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "計算結果を常識という名の『物差し』で測り直し、論理の健全性を保証する防波堤である",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：周辺アクセサリー市場（スマホケース等）、代替サービス（カーシェアリング等）",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "事実を整理するだけ、分析結果を説明するだけ、誰かの意見に同調するだけでは、プロフェッショナルとして十分とは言えない",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "短期的な結果を求めるあまり、問題の本質に向き合う時間を確保できず、解決策は表面的なものになる",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "しかし本書は「仮説思考に必要な頭の使い方の手順」を、豊富な事例とともに徹底解説している",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "調査結果の分析効率化ダッシュボード構築支援",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "調査結果は、ニーズ・アイディア検索や市場把握の資料としてご活用ください",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "前提条件の設定からMECEな要素分解、仮定数値の計算、結果の検証という手順とともに、得られる結果は特定の範囲にとどまる概算であることや数値化できない課題には適用できない留意点が分かります",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば「日本にある電柱の本数は？」や「人は1日に何歩くらい歩くのか？」といった、一見すると答えが見当たらない質問に対しても、すでにわかっている情報を細かく分けて考え、推論を積み重ねることで現実的な見積もりを導き出します",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定を取り入れることで、テストマーケティングの結果をもとに早期に施策を調整することが可能になります",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定の結果はあくまでも「仮説の出発点」として位置づけ、過信しすぎないことが重要です",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特に重大な意思決定を伴う場面では、フェルミ推定の結果を参考程度に留め、必ず別途裏付けとなるデータを収集するようにしましょう",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "リサーチ力がどんな案件・選考で求められるか（CDB掲載案件の実例つき）",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "目的がないと、検索結果のどれが必要でどれが不要かを判断できません",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "仮説があるからこそ、検索結果を見た瞬間に「仮説どおりか、違うか」を判断でき、調査のスピードが上がります",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "コンサルの議事録の書き方｜1年目に叩き込まれる外資系ファームの基本【実例・Wordテンプレ付き】",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "コンサルの議事録の書き方｜実例・Wordテンプレ付き",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "調査結果を「伝わる1枚」にする",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「-求人 -転職」のように除外語を足すと、目的と関係ないページが検索結果から消え、原典に近い資料が上位に残ります",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "絞り込んだ結果についても、",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海外の事例を日本語で集めたい → Felo",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：過去数十年分の統計や海外事例など、個人のインタビューでは得られない視点を得られる",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "リサーチ力が求められるコンサル案件の実例",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ES・面接・ケース対策まで一気通貫で支援",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【完全保存版】コンサル流パワポテンプレート・作成テクニック10選 | トップファームの実例から学ぶ",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "コンサルケース面接対策",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新規事業の進め方や実践事例を、専門家・実務家から学ぶ",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "調査結果を次の顧客ヒアリングへつなぐ",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "まとめ：調査結果を、次の事業判断につなげよう",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば「金曜日のチーム会議で、最初に話を聞く店舗の条件を決める」という形です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "逆に、検索結果の上から順に読むだけでは、同じ種類の情報に偏りやすくなります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば、発注担当者が在庫まで把握している店と、複数店舗を本部で管理する企業では、同じ支援策が適するとは限りません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば「個人店全般を対象に開発へ進む根拠はまだ不足している",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「飲食店 新規事業」だけでは、広告、事例、支援サービスなどが混ざります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば次のように使えます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "担当者と期限を決め、結果に応じて対象・提供内容を見直す",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、発注の改善より別の課題の優先度が高いと分かったら、それも重要な調査結果です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "結果を何の判断に使うか",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この結果だけで、対話が少ないことが失敗の原因だとは言えません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば業界統計から店舗数は推計できても、対象店舗がどの作業に困り、月額いくらで切り替えるかは未確認です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば、情報収集だけで時間を使い切らないよう、整理と報告に使う時間を先に確保します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "ここで私が意識しているのは、1つの計算方法に頼らず、複数の手法で計算して妥当性を検証する",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特に現場実装を前提とするアフリカビジネスでは、この推定が事業の成否を分けます",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "正確な数字がない場合は、論理的な推論（フェルミ推定）を用います",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "推定は数字の正確性よりも、「仮定が明示されており、議論・修正が可能である」という点",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "知りたい直接的なデータ（例：特定商品の正確な売上高など）が存在しない場合でも、それと強い相関関係にある別のデータ、すなわち「プロキシ」を探すことで実態を推計",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチの仮説を、現地の「肌感覚」で修正します",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチで立てた仮説は、必ず現地の「肌感覚」と照らし合わせて修正する必要",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「公式市場の1.5倍〜2倍程度の実態があるのではないか？」といった仮説を持ち、現地パートナーの知見を借りて係数として組み込む視点を持つことが重要です",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル｜ k_bird｜Branding Strategist｜ASAKO",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このページに辿り着いたあなたなら、今まさに「フェルミ推定をマスターして、思考の解像度を上げたい」、あるいは「コンサル流の地頭の良さを自分のスキルとして定着させたい」という強い向上心を持っていることだろう",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「フェルミ推定」という言葉を聞いて、あなたはどのような印象を持つだろうか？",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定とは、単なる「数字の当てっこ」ではない",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "それは、混沌とした不確実なビジネス環境において、手元にある限られた情報から「筋の良い仮説」を導き出し、意思決定を加速させるための「最強の思考OS」であり、戦略的思考スキルの土台である",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "もしあなたが自由自在にフェルミ推定を使いこなすことができれば、",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定は、生まれ持ったセンスや才能の話ではない",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "よって今回は、ビジネスにおける思考ツールである「フェルミ推定のやり方」について、その本質から実務への応用手順までを徹底的に解説しよう",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定とは何か？――AI時代に必須の「問題解決能力」としての価値",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "不確実な状況下で妥当な仮説を数値化する「フェルミ推定の考え方」こそが、情報洪水の中で自分を守り、成果を出し続けるための生存戦略（サバイバルスキル）となる",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定の定義：概算の技術を超えた「仮説構築力」",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「フェルミ推定」とは何か？",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定の対義語は「精密な実態調査（実査）」だ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方でフェルミ推定は、細かなディテールを捨象し、物事の「構造」を捉える",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定の解き方やメリットを解説！活用の注意点は？ | リサーチ・市場調査ならクロス・マーケティング",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定の解き方やメリットを解説！活用の注意点は？",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定の基本概念",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "大規模調査を行わずとも一定の根拠を得られる点や、データ不足でも特定の要素から市場規模を把握できるなど、意思決定や仮説検証を迅速化させる利点を把握できます",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "前提条件の設定からMECEな要素分解、仮定数値の計算、結果の検証という手順とともに、得られる結果は特定の範囲にとどまる概算であることや数値化できない課題には適用できない留意点が分かります",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定とは、限られた情報と論理的な思考を組み合わせて、大まかな数値を素早く推定できる手法です",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "実際のデータが十分に揃っていない状況でも、仮説と計算を重ねることで妥当な概算を導き出せるため、マーケティングや新規事業の検討など、ビジネスのさまざまな場面で活用されています",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回は、フェルミ推定の基本的な概念から実践的な解き方のステップ、マーケターにとってのメリット、そして活用時の注意点まで、わかりやすく解説します",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定とは",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "マーケターがフェルミ推定を活用するメリット",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定の解き方",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定を活用する際の注意点",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定とは、実際のデータや正確な統計情報がない場合でも、限られた情報をもとに論理的な仮定と計算を組み合わせることで、妥当な範囲の推定値を導き出す思考法です",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定は、マーケティング分析にスピードと精度をもたらします",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定は、大規模な市場調査を実施しなくても、自社が保有するデータや一般に公開されている情報をもとに、仮説を立てたりマーケットの概算を把握したりできます",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "目的と仮説を先に置き、調べる項目を表にしてから検索を始める",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「目的と仮説を決める → 調べる項目を設計する → 検索する → 情報を分類・評価する」の4ステップ",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "STEP 1 調査目的の把握と仮説構築",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ステップ1：調査目的の定義と仮説構築",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "目的が決まったら、仮説を立てます",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「この市場は〇〇という技術革新によって伸びているはずだ」という仮説があれば、検索語は「〇〇技術 市場規模 推移」に絞られます",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "仮説があるからこそ、検索結果を見た瞬間に「仮説どおりか、違うか」を判断でき、調査のスピードが上がります",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "仮説は「正しいことを証明するため」のものではなく、調査の起点です",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "反証するデータが出たら、仮説のほうを更新します",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "仮説を立てたら、具体的に何を調べるかの「設計図」を作ります",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "調べた情報を整理し、足りない数字を推計し、相手が判断できる資料に落とすところまでつながって、はじめて実務で使えるスキルになります",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定とは？例題20問と解き方を回答付きで解説",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "明らかにしたい問い（仮説）",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同じ「情報ソース」でも、一次情報なのか、データを集約したものなのか、仮説のヒントなのかで扱いが変わります",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "仮説探索（二次情報）",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Plan｜会議の指摘を具体的な仕事に変え、AIとプロ人材で調査・検証へつなぐ",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "TeamPro Pilots｜新規事業の検証と実行を、経験者と進める",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Plan｜AIとプロ人材で、調査・検証から次の判断まで支援する",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アイデア創出から顧客検証・事業計画・事業化まで、進め方を学ぶ",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "顧客・市場・検証などの目的から、必要な手法を選べる実践集です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2. 調べる問いと仮説を絞る",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "市場規模算出の目的と、思考のフレームワークである「TAM / SAM / SOM」について解説",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「3つの手順」と、数字の解像度を上げるための「泥臭いテクニック」",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "実践編：市場規模を算出する「3つのステップ」",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Step 1: すでに存在するレポートから調べる",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Step 2：算出ロジックを組み立てる（4つのアプローチ）",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Step 3：データの精度を高めるテクニック",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ではここから、私がいつも市場規模を算出するために行っていることをステップごとにご紹介します",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ここで私が意識しているのは、1つの計算方法に頼らず、複数の手法で計算して妥当性を検証する",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "顧客1人、あるいは店舗1つあたりの経済活動を特定し、それを積み上げる方法",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「リープフロッグ（技術的飛躍）」型のビジネスに最適",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ここまで、技術的な手法やフレームワークについてお話ししてきましたが、改めて最後に強調したいのは",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "『日本とアフリカ諸国を繋ぎ、社会課題解決型ビジネスを共創することで、アフリカの持続的成長に貢献する』をビジョンに日本企業のアフリカへのビジネス進出や現地での事業開発をサポートする日系コンサルティング会社です",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル｜ k_bird｜Branding Strategist｜ASAKO",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "正しい手順とフレームワークさえ踏めば、誰にでも習得可能な「論理的思考の技術」であり、再現性のある「方法論」だ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "よって今回は、ビジネスにおける思考ツールである「フェルミ推定のやり方」について、その本質から実務への応用手順までを徹底的に解説しよう",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "推定を科学する「MPCフレームワーク」完全版――初心者からプロまで使える3ステップ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "M-P-Cフレームワーク",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この3ステップを順に踏むことで、どんな難問も解体可能になる",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "、論理の設計図を作る最も重要なステップだ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "数式の設計図（モデル）が完成したら、次はその各変数に「具体的な数値」を割り当てるステップだ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定「5つの解体モデル」詳説――あらゆる市場規模を因数分解する手順",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "MPCフレームワークの「M（モデリング）」を成功させるには、目的に合った「型」の選択が不可欠だ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「誰が欲しがっているか」という消費者の総量から攻める、BtoCビジネスの基本型だ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フレームワークという「型」があっても、代入する数字という「弾丸」がなければ戦えない",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "時間の使い方",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "実務への応用：生成AIの市場規模予測――MPCフレームワークの全プロセス",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "セルフ型リサーチ",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特化型データ分析",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "セルフ型アンケートツール「QiQUMO」",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海外向け セルフ型アンケートツール「Global QiQUMO」",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "セルフ型アンケートツール QiQUMO",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アンケート調査の種類・方法・費用相場",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "解き方の4ステップと注意点",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "前提条件の設定からMECEな要素分解、仮定数値の計算、結果の検証という手順とともに、得られる結果は特定の範囲にとどまる概算であることや数値化できない課題には適用できない留意点が分かります",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場規模の算出方法やマーケティングへの活用法を知りたい方は「",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場規模とは？算出方法とマーケティングに役立つポイントを解説",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回は、フェルミ推定の基本的な概念から実践的な解き方のステップ、マーケターにとってのメリット、そして活用時の注意点まで、わかりやすく解説します",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定の解き方を、「日本の年間コーヒー消費量」を例に、4つのステップで解説します",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ステップ1：前提条件の確認（問題の明確化）",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ステップ2：要素分解をして公式を作成（因数分解）",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ステップ3：公式に数字を入力（計算）",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクトップリサーチ（デスクリサーチ）のやり方｜調査設計テンプレ・検索コマンド集",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチ（デスクトップリサーチ）のやり方｜調査設計テンプレ・検索コマンド集・情報ソース9選【2026年版】",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチの速さと質は、検索やAIの使い方の上手さではなく",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本記事では、その手順を実務のまま公開します",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "調べる前に何を決めるべきか——デスクリサーチの基本手順4ステップ",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "コンサルが実際に使う国内・海外の情報ソース9選と、生成AIの安全な使い方",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチの基本手順4ステップ",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「目的と仮説を決める → 調べる項目を設計する → 検索する → 情報を分類・評価する」の4ステップ",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このうち時間をかけるべきは前半の2ステップです",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "STEP 1 調査目的の把握と仮説構築",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "STEP 2 調査項目のリストアップ",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "PEST・3Cなどのフレームワークで調査の設計図を作る",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "STEP 3 キーワードの抽出と検索",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "STEP 4 情報ソースの一次・二次の分類と評価",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ステップ1：調査目的の定義と仮説構築",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチのやり方｜6ステップと新規事業に使える記入例｜ナレッジ｜イノベーション総合研究所",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "TeamPro Leaders｜判断の型・実践・1on1伴走で育てる",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新規事業の進め方、事業テーマの探し方、企業の最新動向を紹介",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "① 公的機関",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "各国の統計局（例：ケニア国立統計局 KNBSなど）がWebサイトでデータを公開している場合があります",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "更新頻度はまちまちですが、人口センサスなどの一次情報はここで確認します",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "現地の統計局に比べて国際機関のデータの方がよく整備されておりアクセスも容易です",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界中の統計データを集約したプラットフォーム",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "統計データが不足しているアフリカ市場において",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、アフリカの多くの国では製造業が未発達で輸入に依存しているため、特定の消費財市場を知るには「HSコードに基づく輸入統計（UN Comtradeなど）」がそのまま市場規模に近い数値を示すことも少なくありません",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "統計情報が少ないアフリカにおいて、市場規模算出に「正解」はありません",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2つ目は「最新の統計数字を知らないから計算できない」と諦めてしまうことだ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "しかし、一流のコンサルタントもすべての統計を暗記しているわけではない",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "最も手軽で強力な手法が、自分自身の行動や周辺の事象を統計の最小単位として扱う「サンプル・オブ・ワン」だ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：誰もが知っている巨大市場や国家統計と比べる",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "以下はストラテジストが「世界のスケール感」を測るために頭に入れている必須の統計定数だ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "公的統計調査",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "委託調査（公的統計）",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "最も高い評価のコンセプトを採用したい",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "最も訴求力の高いデザインを採用したい",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "統計分析手法をはじめとするマーケティングリサーチ用語や、データマーケティング用語、デジタルデータマーケティング用語について広く解説しています",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定とは、実際のデータや正確な統計情報がない場合でも、限られた情報をもとに論理的な仮定と計算を組み合わせることで、妥当な範囲の推定値を導き出す思考法です",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIに何を調べさせるかを決め、出てきた数字の出所を確かめ、一次情報に当たり直す",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一次情報にたどり着きやすくする",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「filetype:pdf」と「site:go.jp」を組み合わせる",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：官公庁の統計、企業のIR・決算資料、法令・制度資料、企業自身のプレスリリースなど、調査対象となる主体や公的機関が直接公表している情報",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：新聞・ニュースサイト、調査会社のレポート、解説記事など、一次情報を第三者が整理・分析した情報",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一次情報が存在するものについては原則として一次情報まで遡って確認します",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "経産省 資料／業界団体",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「主要3社の数字が揃えば終了」「公的資料2本で傾向が一致すれば終了」のように、どこまで調べたら止めるかを先に決める",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一次情報や信頼性の高い原典に効率よくたどり着くには、検索コマンド（演算子）を組み合わせます",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "filetype:pdf",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "白書・調査レポート・決算資料などPDFだけを抽出",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "DX動向 filetype:pdf",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場規模 -求人 -転職",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "蓄電池 市場規模 filetype:pdf site:meti.go.jp after:2024-01-01",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "充電インフラ 設置数 site:or.jp filetype:pdf",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチは、統計や企業の公開資料、社内の記録など、既存の情報を集めて分析する調査です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "全50ページ／PDF",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "公的統計で確認できる事実を押さえる",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチは、統計、企業の公開資料、業界レポート、論文、社内の記録など、すでに存在する情報を集めて分析する調査です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ここで混同しやすいのが「一次情報」です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "たとえばデスクリサーチでも、ニュース記事が紹介する数値を政府の統計や企業の決算資料に戻って確認できます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "たとえば、店舗数なら統計、サービスの料金なら提供企業の公式ページ、現場で困っている作業なら社内の商談記録や公開インタビューが候補です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、資料名やURLを後から探し直すのではなく、情報を採用するときに一緒に保存するのがコツです",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次の表は、探し始める場所と、採用前に見る点をまとめたものです",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "調査の問いに応じた情報源と採用前の確認点",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "採用前に確認すること",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "e-Stat、担当省庁の統計",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国立国会図書館リサーチ・ナビ、業界団体の公開資料",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "統計や発言の出典があるか",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "で資料の探し方を確認すると、検索エンジンだけでは気づきにくい統計や業界資料を探す手掛かりになります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "注意ポイント：インフォーマルセクターを見落とさない",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらは非常に質が高い一方で、一部のサービスや詳細なレポートは「有料」となる点に注意が必要です",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "その中で多くのビジネスパーソンが、KPIや既存データといった「目に見える指標」に過度に依存する「可視化依存社会」の罠に嵌まっている",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脳が「未知のもの」に対して拒絶反応を起こす際、特定の「心理的な罠」に嵌まっているからだ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "罠-1：正解主義の呪縛",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一つ目の罠は、日本の教育で植え付けられた「テストには必ず1つの絶対的な正解がある」という思い込みだ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "罠-2：知識依存の罠",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "罠-3：計算衝動の罠",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "思考の停止を防ぐ「7つの認知バイアス」――論理の罠を回避せよ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "以下の「心理の罠」に陥っていないか、常に客観的なメタ認知を働かせる必要がある",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "代表性バイアス",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "正常性バイアス",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "確証バイアス",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "KPIや数値データなどの「目に見える」情報に注意が奪われ「目に見えない」質的な側面や、背景にあるストーリーは軽視されていく",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「一生もののスキルになるのは間違いない」",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "使って、失敗して、組み合わせて、初めてあなたの血肉となる",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定の解き方やメリットを解説！活用の注意点は？ | リサーチ・市場調査ならクロス・マーケティング",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定の解き方やメリットを解説！活用の注意点は？",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "解き方の4ステップと注意点",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回は、フェルミ推定の基本的な概念から実践的な解き方のステップ、マーケターにとってのメリット、そして活用時の注意点まで、わかりやすく解説します",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定を活用する際の注意点",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "使うときの注意は4つです",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチの限界と、失敗しないための注意点",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この章では、デスクリサーチで取れないものと、判断を誤りやすいポイントを整理します",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "確証バイアスと「鮮度・出所」の確認",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これを確証バイアスと呼びます",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この結果だけで、対話が少ないことが失敗の原因だとは言えません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、望んだ結論と違っても、調査の失敗ではありません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ただし、これだけで誤りをなくせるわけではありません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新規事業の失敗・撤退（4）",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新規事業の失敗要因を6つの軸で診断",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-04T23:54:31.177110+00:00"
+}
