@@ -1,0 +1,360 @@
+{
+ "name": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30）",
+ "en": "Japan die and mold manufacturing employees establishments census of manufactures series",
+ "aliases": [
+  "工業統計 金型・同部分品・附属品製造業 従業者数 事業所数 推移",
+  "金型製造業 従業者数 工業統計 2014 2019 2020",
+  "site:meti.go.jp 工業統計 金型 従業者"
+ ],
+ "context": "工法・金型",
+ "kind": "market",
+ "researched_at": "2026-11-05T09:42:33.610055+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003448117",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&toukei_kind=6&statdisp_id=0003448117",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.town.shimosuwa.lg.jp/www/contents/1496908388898/files/8-46.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep21/15indus.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/today/pdf/195.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.census.gov/programs-surveys/asm.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/en/publications/summary/26050008.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fred.stlouisfed.org/series/JPNPEFANA",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://akagurok.com/paper/dynamics.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30）",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/dbview?sid=0003448117",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf"
+   ]
+  },
+  {
+   "query": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30） 推移",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003448117",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf"
+   ]
+  },
+  {
+   "query": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30） 統計 PDF",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&toukei_kind=6&statdisp_id=0003448117",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.town.shimosuwa.lg.jp/www/contents/1496908388898/files/8-46.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf"
+   ]
+  },
+  {
+   "query": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.town.shimosuwa.lg.jp/www/contents/1496908388898/files/8-46.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html"
+   ]
+  },
+  {
+   "query": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30） 従業者規模別",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.e-stat.go.jp/dbview?sid=0003448117",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep21/15indus.htm"
+   ]
+  },
+  {
+   "query": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30） 1人当たり 万円",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/dbview?sid=0003448117",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://www.stat.go.jp/info/today/pdf/195.pdf"
+   ]
+  },
+  {
+   "query": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30） 2015 2025",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003448117",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151"
+   ]
+  },
+  {
+   "query": "Japan die and mold manufacturing employees establishments census of manufactures series Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.census.gov/programs-surveys/asm.html",
+    "https://www.rieti.go.jp/en/publications/summary/26050008.html",
+    "https://fred.stlouisfed.org/series/JPNPEFANA",
+    "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "https://www.zhuxuanli.com/paper/dynamics.pdf",
+    "https://www.stat.go.jp/english/data/nenkan/1431-09e.htm",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://www.jil.go.jp/english/events/documents/session_1.pdf",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ]
+  },
+  {
+   "query": "site:note.com 金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30）",
+   "results": [
+    "https://note.com/isl_mono29r1/n/n686bf0077f70",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/nakagawasann/n/n70b8aa442c02",
+    "https://note.com/kessankokokku/n/n11ff4eb5b6f5",
+    "https://note.com/nakagawasann/n/n534f168f4335",
+    "https://note.com/izuku_idea/n/n95100a4c2910",
+    "https://note.com/ogawa_tech/n/n6299bd0a6539"
+   ]
+  },
+  {
+   "query": "site:x.com 金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30）",
+   "results": [
+    "https://x.com/i/trending/2102617203036106778",
+    "https://x.com/asahicom/status/2117013822678736971",
+    "https://x.com/asahicom/status/2117013823261720881",
+    "https://x.com/nao_nass/status/2096793391002780049",
+    "https://x.com/yuto_matsuura/status/1747015870210351387",
+    "https://x.com/i/trending/2099672122675396842",
+    "https://x.com/Matsuno_Mold/status/2102546579232280721"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30）",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com 金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30）",
+   "results": [
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-8月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1427978675997618/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-12月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計し/1541721361290015/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-5月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1678169717645178/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-3月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1630573649071452/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-12月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計し/1207529431375878/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-11月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計し/1515678883894263/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-6月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1374119468050206/"
+   ]
+  },
+  {
+   "query": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30） note 社長",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.monodukuri.com/gihou/article/4430",
+    "https://www.asahi.com/articles/ASVBW2H72VBWOXIE03PM.html",
+    "https://www.matsump.co.jp/60th/chap05/sec_02_4.html"
+   ]
+  },
+  {
+   "query": "金型製造業の従業者数・事業所数の推移（工業統計の産業細分類・1人あたりの分母・4-30） X 投稿",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.town.shimosuwa.lg.jp/www/contents/1496908388898/files/8-46.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003448117",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/"
+   ]
+  },
+  {
+   "query": "Japan die and mold manufacturing employees establishments census of manufactures series site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/ryobidiecasting",
+    "https://www.linkedin.com/company/national-association-of-manufacturers---nam",
+    "https://www.linkedin.com/company/iowamoldtooling",
+    "https://www.linkedin.com/company/flexintl",
+    "https://www.linkedin.com/company/texas-instruments",
+    "https://www.linkedin.com/company/prince-industries",
+    "https://www.linkedin.com/company/u-s-department-of-labor",
+    "https://www.linkedin.com/company/foxfactory",
+    "https://www.linkedin.com/company/mizkan-america",
+    "https://www.linkedin.com/company/caterpillar-inc"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ27頁・検索15回）",
+  "社員数・平均社員数": "記載なし（読んだ27頁・検索15回）",
+  "受注金額・加工賃収入": "記載なし（読んだ27頁・検索15回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ27頁・検索15回）",
+  "生産能力・設備": "記載なし（読んだ27頁・検索15回）",
+  "10年推移": "記載なし（読んだ27頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ27頁・検索15回）"
+ }
+}

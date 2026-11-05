@@ -1278,7 +1278,7 @@
   - 「９ 調査結果の」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ また、工業統計調査においては、市区町村別結果等の詳細集計や個人経営事業所」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ これに基づき、乙調査の位置づけについて検討を行った結果、①甲調査という産業」（https://www.soumu.go.jp/main_content/000744047.pdf）
-- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## エキスパートや調査会社のリサーチャーが書いた調べ方のブログ（professional researcher blog research techniques）
 - 文脈：凄腕・実務
@@ -1686,6 +1686,7 @@
   - 「データクレンジングは、表記ゆれ、欠損、誤り、重複など、データの汚れを直す作業の全体です」（https://www.sento.group/concepts/nayose）
   - 「you can reliably collapse duplicates. No matter how rich your datasets or how cutting-edge your graph database, if you match “Acme Holdings LLC” (parent) to “Acme Corp Ltd” (subsidiary) by mistake, your risk scores, supply-chain exposure, and ESG metrics all fall like dominoes. Entity Resolution is the hinge on which the entire narrative, and any real-world compliance program, turns.」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
   - 「Many US states still hide officers, and only a slice of businesses carry LEIs. Bias can creep into machine-learning matches, and survivorship rules require human oversight. Finally, if your downstream teams ignore the golden source and keep editing records locally, duplicates will creep back. Entity resolution is a」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
+  - 「compare librarian, database engineer, investigator, privacy owner and receiver. Each values a different balance between recall and mistaken identity.」（https://edukatesg.com/2026/09/05/how-entity-resolution-works/）
 - 実例：
   - 「例えば、次のような顧客データが存在していたとします」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
   - 「例えば、次のようなケースを考えてみましょう」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
@@ -1803,7 +1804,7 @@
   - 「仮説検証の考え方や手順について！ポイント・注意点まで詳しく解説」（https://sherpaworks.jp/sherpa/backcast/）
 - 実例：
   - 「結果として、社員の士気を向上させ、離職率を下げることにつながります」（https://sherpaworks.jp/sherpa/backcast/）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 有価証券報告書の設備の状況・セグメント情報・将来見通しの読み方（reading annual report capex plan segment forward-looking statement）
 - 文脈：企業
@@ -1971,6 +1972,7 @@
   - 「What Is OSINT? Open Source Intelligence for Security ... — Mar 24, 2026 · OSINT is intelligence gathered from public sources - DNS, social media, Shodan, job postings. Here's what it is, how it fits into security research, and the...」（https://infishark.com/blogs/learn/what-is-osint-open-source-intelligence-for-security-researchers）
   - 「OSINT Tools And Techniques | OSINT Technical Sources - Neotas — 1 day ago · Open Source Intelligence (OSINT) refers to the systematic process of collecting, analyzing, and transforming publicly available information into actionable intelligence.」（https://www.neotas.com/osint-tools-and-techniques/）
   - 「OSINT collection techniques using legitimate tools — Aug 6, 2026 · In practice, OSINT collection is a workflow, not just a set of tools. You start with a question, gather public data from a defined set of sources, validate what you find, and then decide whether the result changes your risk picture.」（https://securityboulevard.com/2026/08/osint-collection-techniques-using-legitimate-tools/）
+  - 「Complete Osint Guide. In cybersecurity, some of the most ... — Aug 13, 2025 · In this guide, we’ll cover key OSINT techniques, tools, and workflows for gathering actionable intelligence. What is OSINT and Why It Matters. OSINT involves collecting data from public...」（https://medium.com/@lakeshriyasha/complete-osint-guide-2496e118c813）
 
 ## 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）（checking statistical definitions coverage threshold member-only shipment vs sales）
 - 文脈：定義の点検

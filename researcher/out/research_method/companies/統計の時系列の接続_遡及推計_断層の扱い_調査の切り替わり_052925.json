@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ・失敗",
  "kind": "market",
- "researched_at": "2026-11-05T08:37:48.099258+00:00",
+ "researched_at": "2026-11-05T09:48:23.277134+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -24,22 +24,22 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tk_caesar/n/n0f2a00012968",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/qsgly/n/n816869d5eaa7",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/outlifest/n/n428fa2839fc2",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://note.com/nanto_econ/n/n480d956bf5a9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tsukasa_sugiura/n/ncd527f352d1e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiroshi_gomi/n/n244c6a44f6b4",
     "status": "ok",
     "method": "http"
    },
@@ -84,14 +84,14 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.pref.tottori.lg.jp/309966.htm",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.tottori.lg.jp/325553.htm",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
@@ -119,12 +119,17 @@
     "method": "pdf"
    },
    {
+    "url": "https://www5.cao.go.jp/keizai3/2024/0212nk/img/n24_5_b_2_01c.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www5.cao.go.jp/keizai3/2024/0212nk/img/n24_5_b_2_01c.html",
+    "url": "https://www.stata.com/features/overview/structural-breaks/",
     "status": "ok",
     "method": "http"
    },
@@ -139,8 +144,8 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.stata.com/features/overview/structural-breaks/",
-    "status": "ok",
+    "url": "https://medium.com/@simomenaldo/structural-break-and-change-point-detection-in-financial-time-series-584172ffa805",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -149,14 +154,9 @@
     "method": "http"
    },
    {
-    "url": "https://rpubs.com/Ken_Fritzell/982102",
+    "url": "https://stats.stackexchange.com/questions/395078/how-to-detect-and-quantify-a-structural-break-in-time-series-r",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://medium.com/@simomenaldo/structural-break-and-change-point-detection-in-financial-time-series-584172ffa805",
-    "status": "http_403",
-    "method": "http"
+    "method": "browser"
    }
   ]
  },
@@ -166,14 +166,13 @@
    "results": [
     "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "https://note.com/ocaml/n/n505db5d67548",
-    "https://note.com/tk_caesar/n/n0f2a00012968",
-    "https://note.com/qsgly/n/n816869d5eaa7",
     "https://note.com/outlifest/n/n428fa2839fc2",
     "https://note.com/nanto_econ/n/n480d956bf5a9",
+    "https://note.com/tsukasa_sugiura/n/ncd527f352d1e",
     "https://note.com/hiroshi_gomi/n/n244c6a44f6b4",
     "https://note.com/takusuke_note/n/n62ee167dcb62",
-    "https://note.com/tsukasa_sugiura/n/ncd527f352d1e",
-    "https://note.com/e_dao/n/n378940bcd85a"
+    "https://note.com/e_dao/n/nd75a74b66c9d",
+    "https://note.com/qsgly/n/n816869d5eaa7"
    ]
   },
   {
@@ -200,9 +199,9 @@
     "https://bellcurve.jp/statistics/course/23739.html",
     "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
     "https://www.ism.ac.jp/shikoin/training/dstn/pdf/C5.pdf",
-    "https://www.pref.tottori.lg.jp/309966.htm",
     "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
-    "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
+    "https://www.pref.tottori.lg.jp/325553.htm",
+    "https://www.youtube.com/shorts/gCLMP7f0M0o",
     "https://www.soumu.go.jp/main_content/000576512.pdf"
    ]
   },
@@ -224,28 +223,28 @@
   {
    "query": "statistical time series break linking retropolation official statistics",
    "results": [
+    "https://www.stata.com/features/overview/structural-breaks/",
     "https://www.bu.edu/econ/files/2019/01/structural-change-oxford.pdf",
     "https://rady.ucsd.edu/_files/faculty-research/timmermann/time-series.pdf",
-    "https://www.stata.com/features/overview/structural-breaks/",
-    "https://www.aptech.com/structural-breaks/",
-    "https://rpubs.com/Ken_Fritzell/982102",
     "https://medium.com/@simomenaldo/structural-break-and-change-point-detection-in-financial-time-series-584172ffa805",
+    "https://www.aptech.com/structural-breaks/",
+    "https://stats.stackexchange.com/questions/395078/how-to-detect-and-quantify-a-structural-break-in-time-series-r",
+    "https://rpubs.com/Ken_Fritzell/982102",
+    "https://www.ifo.de/DocDL/cesifo1_wp1237.pdf",
     "https://ec.europa.eu/eurostat/documents/3888793/5838209/KS-DT-05-029-EN.PDF/9cb16268-6479-4014-8a0c-68606e772a2f",
-    "https://docs.iza.org/dp1196.pdf",
-    "https://metricgate.com/blogs/workflow-for-detecting-structural-breaks/",
     "https://en.wikipedia.org/wiki/Structural_break"
    ]
   },
   {
    "query": "site:note.com 統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり）",
    "results": [
-    "https://note.com/qsgly/n/n816869d5eaa7",
     "https://note.com/outlifest/n/n428fa2839fc2",
     "https://note.com/nanto_econ/n/n480d956bf5a9",
     "https://note.com/e_dao/n/n378940bcd85a",
+    "https://note.com/e_dao/n/nd75a74b66c9d",
+    "https://note.com/toshi_matsuura/n/n16f931d36c2e",
     "https://note.com/hiroshi_gomi/n/n244c6a44f6b4",
-    "https://note.com/tsukasa_sugiura/n/ncd527f352d1e",
-    "https://note.com/dapper_pansy7918/n/nd2d56084e2e0"
+    "https://note.com/qsgly/n/n816869d5eaa7"
    ]
   },
   {
@@ -262,15 +261,7 @@
   },
   {
    "query": "site:linkedin.com 統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり）",
-   "results": [
-    "https://www.linkedin.com/pulse/作業ログ20240526-koji-hirai-h8pnf",
-    "https://jp.linkedin.com/pulse/breaking-down-trends-guide-time-series-decomposition-haitham-radhi-vzeff?tl=ja",
-    "https://jp.linkedin.com/pulse/intro-time-series-analysis-thu-m-pham-qx8rc?tl=ja",
-    "https://jp.linkedin.com/pulse/statistical-characteristics-time-series-comprehensive-fatma-al-ajmi-beigf?tl=ja",
-    "https://jp.linkedin.com/pulse/how-join-two-time-series-when-timestamps-dont-match-marco-gessner?tl=ja",
-    "https://jp.linkedin.com/pulse/mastering-time-series-analysis-from-scratch-data-anello-marcucci-z8pbf?tl=ja",
-    "https://jp.linkedin.com/pulse/time-series-forecasting-decomposition-practical-kalyan-sarvepalli-p6bic?tl=ja"
-   ]
+   "results": []
   },
   {
    "query": "site:facebook.com 統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり）",
@@ -280,7 +271,7 @@
     "https://www.facebook.com/seikatsusoken/posts/サイト更新長期時系列調査生活定点の最新2024年データを公開中膨大なデータをグラフィカルに分かりやすく表示するとともに意外な発見やヒントを得たい方のために様々な/988155229783035/",
     "https://www.facebook.com/hamakaze.shinbun/posts/創立30周年記念講演会開催三浦半島活断層調査会三浦半島の大地を知り減災を考える2025年7月4日号-横須賀三浦湘南版活断層のことを多くの人に正確に伝えるため調査/1242975424506407/",
     "https://www.facebook.com/NHKonline/photos/ｎｈｋスペシャル-緊急報告熊本地震の衝撃-爆発断層猛暑現場で何がhttpswwwwebnhktvanspecialplseries-tep-2ny2qqlpm3/1575506497271555/",
-    "https://www.facebook.com/nikkei/posts/東九州新幹線の駅ルート需要推計国が初調査-50年ぶりの動き-国は2026年度中に整備の手法を調査するケーススタディーを初めて実施します整備計画への格上げにつなが/1623868429084553/",
+    "https://www.facebook.com/rc.persol/photos/調査研究要覧-2024年度版-発刊2024年度に発表した調査研究成果の中から代表的なものを研究員それぞれの解説にてご紹介します座談会労働市場の未来推計2035公/966148442171766/",
     "https://www.facebook.com/economics.kwansei/videos/授業の様子をお届けrによるデータ分析経済学部３年生以上が履修できる人気授業rによるデータ分析に潜入してきましたこの授業では統計分析ソフト-r-を使い高度なデータ/1620697982952099/"
    ]
   },
@@ -291,8 +282,8 @@
     "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/qa2.html",
     "https://www.boj.or.jp/statistics/outline/notice_2026/not260625a.htm",
     "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_04.pdf",
-    "https://note.com/nanto_econ/n/n480d956bf5a9",
     "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
+    "https://note.com/nanto_econ/n/n480d956bf5a9",
     "https://bellcurve.jp/statistics/course/23739.html",
     "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
     "https://www.soumu.go.jp/main_content/000428257.pdf",
@@ -305,11 +296,11 @@
     "https://www.stat.go.jp/data/cti/pdf/kaitei_201812.pdf",
     "https://metricgate.com/blogs/ja/time-series-vs-cross-sectional/",
     "https://www.ism.ac.jp/shikoin/training/dstn/pdf/C5.pdf",
-    "https://www.mi.u-tokyo.ac.jp/mds-oudan/lecture_document_2019_math7/%E6%99%82%E7%B3%BB%E5%88%97%E8%A7%A3%E6%9E%90%EF%BC%88%EF%BC%91%EF%BC%89_2019.pdf",
     "https://www.esri.cao.go.jp/jp/sna/data/data_list/kakuhou/files/about_old_kaku/about_old_kaku.html",
+    "https://www.mi.u-tokyo.ac.jp/mds-oudan/lecture_document_2019_math7/%E6%99%82%E7%B3%BB%E5%88%97%E8%A7%A3%E6%9E%90%EF%BC%88%EF%BC%91%EF%BC%89_2019.pdf",
     "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
-    "https://www.youtube.com/shorts/gCLMP7f0M0o",
     "https://www.boj.or.jp/research/research_data/cai/rel200605b.htm",
+    "https://forestgeo.info/2026/05/08/%E4%BD%8D%E7%BD%AE%E6%83%85%E5%A0%B1x%E6%99%82%E7%B3%BB%E5%88%97%E3%81%A7%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E8%A6%8B%E6%96%B9%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B/",
     "https://epirhandbook.com/jp/new_pages/time_series.jp.html",
     "https://www.stat.go.jp/data/roudou/pdf/hndbk03.pdf"
    ]
@@ -322,10 +313,10 @@
     "https://www.linkedin.com/advice/1/how-can-you-test-structural-breaks-time-series-data-econometric-rtg6e",
     "https://www.linkedin.com/pulse/statistical-characteristics-time-series-comprehensive-fatma-al-ajmi-beigf",
     "https://uk.linkedin.com/posts/titi-kanti-lestari-5aaa1a122_dataintegration-timeseries-activity-7039828731560943617-9CfR",
+    "https://mx.linkedin.com/posts/international-association-of-survey-statisticians-iass_dataintegration-timeseries-activity-7039142358830985216-P2bm",
     "https://ph.linkedin.com/in/jdlalunio",
     "https://pe.linkedin.com/posts/office-for-statistics-regulation_a-reason-to-be-optimistic-sharing-and-linking-activity-7293585931113041921-kNKG",
-    "https://mx.linkedin.com/posts/international-association-of-survey-statisticians-iass_dataintegration-timeseries-activity-7039142358830985216-P2bm",
-    "https://pe.linkedin.com/posts/ali-sheikholeslami-3839931_univ-of-toronto-statopt-tool-activity-7148364966947880960-iV3P"
+    "https://pk.linkedin.com/in/saadiakhan0901"
    ]
   }
  ],
@@ -337,6 +328,6 @@
   "実例": "記載なし（読んだ29頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-05T08:37:48.099258+00:00"
 }
