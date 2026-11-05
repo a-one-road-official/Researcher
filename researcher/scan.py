@@ -449,6 +449,10 @@ def take_kind(url):
 
 EMPMIX = re.compile(r"(パート|臨時|派遣|非正規|短時間労働|アルバイト|常用雇用者|常用労働者)")
 MERGER = re.compile(r"(合併|経営統合|事業譲渡|買収|M&A|子会社化|吸収)", re.I)
+# 2026-11-06 4-43（毎月勤労統計調査の集計方法の解説：標本の抽出替え・母集団労働者数のベンチマーク更新・復元の有無で、同じ統計の値に段差が出る。
+# 「推計母集団労働者数」は推計比率を作るための重みで、ふつうの意味の人数ではない）
+SAMPLEROT = re.compile(r"(抽出替え|標本の?入れ替え|サンプル替え|ベンチマーク(の)?更新|ギャップ修正|復元(倍率)?|再集計|遡及(改訂|集計))")
+POPWEIGHT = re.compile(r"(推計母集団労働者数|推計比率|母集団労働者数)")
 
 def conservative(vals):
     vals = sorted(vals)
@@ -494,11 +498,24 @@ def scan(topic):
                 h = urlparse(r["URL"]).netloc if r["URL"] else ""
                 if h and not NATSTAT_HOST.search(h): off[h] = off.get(h, 0) + 1
             if off: md.append(f"- ⚠ 品目が名指しする国の統計と出どころが違う（4-41）：{sum(off.values())}件／{len(rs)}件が " + "・".join(f"{h} {n}件" for h, n in sorted(off.items(), key=lambda kv: -kv[1])[:4]) + "。その統計の値として使わず、所管（経産省・総務省・e-Stat）の表から取り直す")
+        # 2026-11-06 4-43 走査の失敗から：品目「全国鍍金工業組合連合会 …」の数字が syntaxpartners.com・wakayamapp.jp（団体でないサイト）だけで、
+        # wakayamapp.jp の1か所で幅795万倍になった。品目の主語が業界団体なのに、団体らしいドメイン（.or.jp・.go.jp・.lg.jp）以外から来た数字は、その団体の統計の値として使わない
+        subj = item.split("（")[0]
+        if re.search(r"(工業会|協会|連合会|組合)", subj):
+            offa = {}
+            for r in rs:
+                h = urlparse(r["URL"]).netloc if r["URL"] else ""
+                if h and not re.search(r"\.(or|go|lg)\.jp$", h): offa[h] = offa.get(h, 0) + 1
+            if offa and sum(offa.values()) * 2 > len(rs):
+                md.append(f"- ⚠ 品目が名指しする団体と出どころが違う疑い（4-43）：{sum(offa.values())}件／{len(rs)}件が " + "・".join(f"{h} {n}件" for h, n in sorted(offa.items(), key=lambda kv: -kv[1])[:4]) + "。団体の統計の値として使わず、団体自身の公表（.or.jp など）か国の表から取り直す")
         # 2026-11-06 4-42（日銀 WP24-J-17 の生産性の分解：非正規雇用の広がりで労働投入の測り方が動き、合併で企業間の再配分の項が動く）。
         # 引用に雇用形態・合併の語があれば、1人あたり・社数の向きを「内側の改善」と読む前に分母と構成を確かめる印を出す
         nemp = sum(1 for r in rs if EMPMIX.search(r["引用"])); nmer = sum(1 for r in rs if MERGER.search(r["引用"]))
         if nemp: md.append(f"- ⚠ 分母の雇用形態（パート・臨時・派遣・非正規）の語が{nemp}件：1人あたりの分母が常用だけか全員かを確かめ、混ぜて向きを出さない（4-42）")
         if nmer: md.append(f"- ⚠ 合併・統合・事業譲渡の語が{nmer}件：1社・1事業所あたりの向きは再配分・構成の変化を含む。内側の改善と書かない（4-42）")
+        nrot = sum(1 for r in rs if SAMPLEROT.search(r["引用"])); npw = sum(1 for r in rs if POPWEIGHT.search(r["引用"]))
+        if nrot: md.append(f"- ⚠ 抽出替え・ベンチマーク更新・復元・再集計の語が{nrot}件：その月・年の前後で値に段差が出る。段差をまたいだ向きを使わず、遡及・再集計の系列どうしで比べる（4-43）")
+        if npw: md.append(f"- ⚠ 推計母集団労働者数・推計比率の語が{npw}件：集計の重みで人数の事実ではない。社員数・従業者数の欄に入れない（4-43）")
         groups = {}
         for r in rs: groups.setdefault((r["区分"], r["文脈"], r["単位"]), []).append(r)
         for (cat, ctx, u), g in sorted(groups.items(), key=lambda kv: -len(kv[1])):
@@ -744,6 +761,29 @@ def scan(topic):
                        "出どころの数が変わった" if o.get("出典数") is not None and v.get("出典数") != o.get("出典数") else "同じ年・同じ出どころ数で値が動いた（取り違え・混入を疑う）")
                 ch.append(f"- 変わった：{k} {o.get('値', 0):g}（{o.get('年') or '年不明'}年）{o.get('確度', '')} → {v['値']:g}（{v['年'] or '年不明'}年）{v['確度']}［理由の型：{why}］")
         ch += [f"- 消えた：{k}" for k in sorted(set(prev) - set(picks))]
+    # 2026-11-06 4-43（OECD の改訂分析の指針：平均改訂＝片寄りの向き、平均絶対改訂＝大きさ、上方・下方・ゼロの割合）。
+    # 同じ欄・同じ年のまま値が動いた分を毎回 revisions.json に積み、改訂が一方向に偏っていないか（早い値が過小・過大か）を出す
+    rf = os.path.join(OUT, topic, "revisions.json")
+    try: revs = json.load(open(rf, encoding="utf-8"))
+    except Exception: revs = []
+    if prev is not None:
+        for k, v in picks.items():
+            o = prev.get(k)
+            if o and o.get("値") and o.get("年") == v["年"] and v["値"] != o["値"]:
+                revs.append({"欄": k, "年": v["年"], "前": o["値"], "後": v["値"], "率": (v["値"] - o["値"]) / abs(o["値"])})
+    revs = revs[-2000:]
+    json.dump(revs, open(rf, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
+    rv = [x["率"] for x in revs if abs(x["率"]) < 100]
+    if rv:
+        mr = statistics.mean(rv); mar = statistics.mean(abs(x) for x in rv)
+        up = sum(1 for x in rv if x > 0); dn = sum(1 for x in rv if x < 0)
+        verdict = ("（5件未満：判定しない）" if len(rv) < 5 else
+                   "⚠ 上に直る側に片寄り：早い値は過小に出やすい。最初の値で向きを言い切らない" if mr > 0 and abs(mr) > 0.5 * mar else
+                   "⚠ 下に直る側に片寄り：早い値は過大に出やすい。最初の値で向きを言い切らない" if mr < 0 and abs(mr) > 0.5 * mar else
+                   "片寄りは目立たない（上下の直しが打ち消し合う）")
+        md += ["## 改訂の分析（同じ欄・同じ年で値が直った分・4-43）",
+               f"- 件数 {len(rv)}／平均改訂（向き）{mr:+.1%}／平均絶対改訂（大きさ）{mar:.1%}／上方 {up / len(rv):.0%}・下方 {dn / len(rv):.0%}・ゼロ {1 - (up + dn) / len(rv):.0%}",
+               f"- {verdict}", ""]
     md += ["## 前回からの変化（採る値・確度・年。4-38）", *(ch[:40] or (["（変化なし）"] if prev is not None else ["（初回。次の実行から比べる）"])), *([f"- ほか{len(ch) - 40}件"] if len(ch) > 40 else []), ""]
     json.dump(picks, open(pf, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
     # 2026-11-05 4-39：同じ文の中の総額と人数（例「年間の中途採用費用総額は平均650.6万円、採用人数の平均は20.8人」）から

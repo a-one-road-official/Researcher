@@ -70,3 +70,6 @@ IFCN・FIJ のファクトチェックの手順とレーティング基準の定
 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）,statistical data revisions analysis real-time vintages revision size bias preliminary final,速報値 確報値 改訂幅 分析;統計 改定 要因 定義変更;real-time data revisions vintage analysis central bank working paper,改訂
 名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社）,entity matching key profiling missing rate composite key false merge,名寄せ キー 欠損率 棚卸し;複合キー 誤統合 同じ住所 別会社;record linkage blocking key quality,突き合わせ
 中央銀行・統計局のワーキングペーパーにある生産性の測り方の注意（非正規の広がり・合併の再配分・分母の選び方）,central bank working paper labor productivity measurement part-time mergers reallocation decomposition,日本銀行 ワーキングペーパー 労働生産性 分解 再配分;労働生産性 非正規雇用 労働投入 測り方;RIETI 生産性 企業間 再配分 合併,推定
+統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例）,revision analysis mean revision mean absolute revision bias test preliminary estimates real-time data,速報 確報 改訂幅 平均絶対改訂;GDP 速報 改定 バイアス 分析;real-time data revision analysis guidelines OECD,突き合わせ
+競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例）,how to research competitor revenue private company step by step sources,競合 売上 調べ方 非上場 手順;競合調査 売上 推定 公開情報;competitor revenue research private company sources,推定
+大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API）,e-Stat user guide university library statistics code database API,e-Stat 使い方 手引き 図書館 filetype:pdf;e-Stat 統計表 データベース 注記 ダウンロード 方法;e-Stat API 使い方 統計表ID,統計
