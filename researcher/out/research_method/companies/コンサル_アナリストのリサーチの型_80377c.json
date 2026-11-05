@@ -8,8 +8,918 @@
  ],
  "context": "型",
  "kind": "market",
- "researched_at": "2026-11-05T17:05:36.592917+00:00",
+ "researched_at": "2026-11-05T18:52:15.092223+00:00",
  "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "② 調べるべき論点（＝仮説）",
+    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサルは最初に仮説を立てますが、これは「当てるため」ではなく 調査の抜け漏れ防止のための枠組みづくり です",
+    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• 論点（仮説）は整理したか？",
+    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチの前提に、そもそも何が課題で、その課題を検証するために何を調べるべきかという「問いの設計」があり、問いを設計するための情報は生成AIの入力ソースであるWeb上には含まれていないものがあるためです",
+    "url": "https://note.com/mngt46/n/na1c988382e73",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第一の視点：問いと仮説の展開性",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "として捉え、目的設定から仮説構築、情報の収集と検証、そして洞察の導出に至るまでの流れを、明確な方法論として描いています",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その出発点にあるのが「問い」と「仮説」です",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説は答えではなく分析の出発点であり、思考を導くフレームです",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "たとえば「市場が拡大している理由は何か」という問いは、やがて「その成長を支える社会構造は何か」「変化を生み出す要因はどこにあるのか」「今後の限界点は何か」と展開し、問いが派生し仮説が修正される過程で構造的な理解が形成されていきます",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチは単なる調査ではなく、問いと仮説を軸に構造化と再解釈を繰り返す思考のプロセスそのものなのです",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "集めた情報の量ではなく、構造化された情報から導かれる示唆の質、そしてその出発点となる問いと仮説の精度によって決まります",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "問いを再設定し、仮説を再構築する",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データを排除するのではなく、そのデータがどのような問いに基づき、どのような条件で集められたのかを検証する",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自らの仮説や前提もまた、常に検証の対象でなければなりません",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自分の立てた仮説を一度壊し、再構築する勇気がなければ、リサーチは硬直化し、思考は停滞します",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチでは、最初から強固な仮説を掲げるよりも、柔軟で修正可能な「弱い仮説」を持つことが重要です",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "弱い仮説は確信ではなく暫定的理解の足場であり、更新を前提に外界との往復で育てていきます",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "弱いアンテナとは、気になった一点に小さな追加調査を重ねる行為――一次情報にあたって定義や範囲を確かめる、統計の原典に戻って母集団や期間を確認する、反対仮説を一度当ててみる、といった**“一歩だけ深掘りする”能動性です",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この最小単位の追検証が、異常値や齟齬、語られていない前提といった違和感を可視化し、その違和感が弱い仮説の更新を促します",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まだ全体像を把握しようとしている段階なのか、もう仮説立案の段階に移っているのか、あるいはすでに仮説を検証する段階なのかで、リサーチの目的は変わってきます",
+    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説を打ち立てる段階では、それぞれの情報を比較しながら、調べるべきポイントを絞ることがリサーチの目的になります",
+    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "多くの情報の中から自分なりの仮説を組み立て、深くリサーチすべき対象を見つけ出すことが、この段階では求められます",
+    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "たとえば着手しはじめた段階ではスピードが最優先されるだろうし、仮説を検証する段階では制度と網羅性が特に重視されるはずです",
+    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説ができたら、それが妥当かどうかを検証する段階に入る",
+    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "３）仮説が外れた場合の対応策を考慮しておく",
+    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「確からしい」仮説ができたとしても、往々にしてそのような仮説は外れるものであります",
+    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "時間の都合上、仮説が外れてからまた新たにリサーチをすることは厳しいことも多いと思います",
+    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説が外れていた場合に備え、最初からなるべく広い範囲で調査することが、まわりまわっているように見えて一番の近道になります",
+    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "こともあり戦略や調査設計時の仮説構築のために使われることが多いです",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "どのような情報になるか事前に仮説をたてておくことも重要です",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説に基づいて示唆出し、アウトプットの整理",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クライアント課題の整理と分析、仮説構築",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "単なるデータ処理に留まらず、分析結果から論理的な仮説を導く思考力が求められます",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサル業界では「結論ファースト」という言葉が頻出しますが、まずは結論を導くための仮説を立案し、その結論を出すためのファクト（根拠）を論理的に構成する必要があるからです",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "代表作として、「コンサル一年目が学ぶこと」「イシューからはじめよ」「論点思考」「仮説思考」などがあります",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特注のケース面接・フェルミ推定面接などの対策を行うことができます",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "民間求人サイトの有効活用方法等を検証するための実証調査",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサルとメディアの掛け算で革命を起こす「コンサルフリー」とは【企業インタビュー】",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説思考とMECEフレームワークの活用",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=eea50c2ad34b60325dde9debc68c11f4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まずは効率的に全体像を把握し、仮説を立てた上でより深い分析へと進むのがプロフェッショナルの標準的なアプローチです",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=eea50c2ad34b60325dde9debc68c11f4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチの精度を高める鍵は、早い段階で仮説を立てることにあります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=eea50c2ad34b60325dde9debc68c11f4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このアプローチにより、初期の仮説の妥当性を検証し、不足している情報をピンポイントで特定できるようになります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=eea50c2ad34b60325dde9debc68c11f4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチの精度（公知の情報？複数の情報ソースによる検証？個別ヒアリング？）",
+    "url": "https://biz-con.plus/skillup-researchprocess/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "』はリサーチのフェーズ（検討着手段階 or 仮説検証段階）によっても変わるべきである点も留意するようにしましょう",
+    "url": "https://biz-con.plus/skillup-researchprocess/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "」を立て、仮説検証のために情報源をどう活用するか、設計するようにしましょう",
+    "url": "https://biz-con.plus/skillup-researchprocess/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "」へアクセスすることで常識や全体像を短期間でつかむことができ、リサーチ対象に対し理解や仮説を持った上で「",
+    "url": "https://biz-con.plus/skillup-researchprocess/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説が外れた際の対応策を考慮",
+    "url": "https://biz-con.plus/skillup-researchprocess/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチに先立って仮説設定の重要性を解きましたが、実際のリサーチにおいて仮説が外れることは珍しくありません",
+    "url": "https://biz-con.plus/skillup-researchprocess/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、結果に偏りが出ないよう客観的な視点を持つこと、そして情報源の信頼性を常に検証する習慣も欠かせません",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、ある航空業界での調査では、新規ルートの収益性を検証するため、定量調査を用いて需要予測を行い、具体的な施策の立案に結びつけました",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチ課題によって使う方法が異なりますが、コンサルタントの多くが「まずはググる」ことから始め、基本的な仮説を立ててからフィールドリサーチを実施するといった手法が一般的です",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説を立てる：MECEフレームワーク活用術",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチの過程で仮説を立てるのは欠かせないステップです",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "MECEは、全体を矛盾なく網羅的に分解する思考法であり、リサーチ結果を効率的にまとめる際にも用いられます",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このアプローチにより、リサーチの初期で考えた仮説が正しいのか、不足する情報は何かを見極めることができます",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さらに、定期的に仮説思考のトレーニングを行い、自分で立てた仮説を検証するプロセスを意識的に繰り返すことで、リサーチスキル全体が強化されます",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このステップで行うべきことは、（１）で特定したリサーチで答える論点に対し、仮説を持ったうえでアプローチ・情報ソース・大まかな時間配分を明確化することです",
+    "url": "https://gaishishukatsu.com/archives/36953",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まず論点については、最初の最初は漠然と情報を集めるのもよいですが、ある程度全体が理解できた後は、自分やチームの仮説を持って臨むと効率が大幅に上がります",
+    "url": "https://gaishishukatsu.com/archives/36953",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「この論点について、文献調査から仮説Aは検証できなかったのですが、仮説Bはいけそうなのでこういうデータを集めます」という伝え方をするのが大事です",
+    "url": "https://gaishishukatsu.com/archives/36953",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチ目的の確認においては、クライアントのニーズに正しく応えるためにも、リサーチを行う背景やリサーチの意味 （＝検証すべき論点）と、求められる情報の粒度を正しく理解する必要があります",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "からKey Questionをくり抜き、検証し、結果を紙にする能力は当然身についている前提で、",
+    "url": "https://note.com/prism_case/n/n47bfc4066728",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ので、論点仮説！ロジカルシンキング！とか言ってる場合じゃないです",
+    "url": "https://note.com/prism_case/n/n47bfc4066728",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "● 2. 仮説構築の「たたき台」",
+    "url": "https://note.com/tom_mba/n/n0ee295df2f32",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そして最終的には、**「仮説力」「判断力」「提案力」**こそが生き残る力になる",
+    "url": "https://note.com/tom_mba/n/n0ee295df2f32",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【コンサルタントが実践】論点・仮説思考のChatGPT Deep Research活用｜河野将希 | Masaki Kono",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【コンサルタントが実践】論点・仮説思考のChatGPT Deep Research活用",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチフェーズが劇的に短くなることで、より多くの時間を仮説構築や戦略立案へ振り向けられる",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事では、論点・仮説思考を組み合わせたChatGPT Deep Research活用法を、",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このサービスの特徴は、利用者が調べたいテーマを入力すると、数百件単位のオンラインソースを一気に横断的に集め、そのうえでAI自身が情報の真偽を検証しながら要点を整理したレポートを短時間で作成してくれる点にあります",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "レポートの中に参照先のURLや出典がしっかりと示されているため、「この情報はどこから来ているのか？」という検証が極めて容易です",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2. 論点・仮説思考がリサーチを決定づける",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサルティングの世界では、調査計画の良し悪しは「どのような論点を立て、どのような仮説を設定するか」によって大きく左右されるといわれます",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "※論点・仮説思考についての詳細は以下の書籍をご覧ください",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説思考 BCG流 問題発見・解決の発想法",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "たとえば「本事業の採算性」という大論点を、より具体的な「必要投資額は何か？」「想定売上高の計画は妥当か？」「市場規模の推定値に信頼性はあるか？」などの小論点に切り分け、イシューツリーの形で可視化していきます",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "論点をただ羅列するのではなく、調査に入る前の段階で「初期仮説」を立てることがさらに重要です",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "初期仮説とは、「おそらく○○であろう」という暫定的な見立てのことで、確証はまだない段階",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "たとえば「市場規模は○○億円以上あり、競合企業が少ないため、事業参入は有望である」という見立ては典型的な初期仮説です",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "初期仮説の狙いは、リサーチを「仮説を確かめるための作業」に変えることにあります",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのため、プロジェクトを通して検証すべき論点や、その中で重要性の高い論点を特定し、適切な調査項目を設定することが重要です",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説構築、分析フレームの設計",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会員データや購買データを活用したマーケティング施策の実行・効果検証の実務経験（目安：2年以上）",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサルティングの現場では、「なぜその課題が起きているのか？」「どんな要因が絡んでいるのか？」といった複雑な問題に対して、仮説を立て、データやファクトを用いて検証する作業が日常的に行われます",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アナリストの業務では、仮説の裏付けとして膨大なデータを扱う場面が多いため、データを的確に扱い、意味のある情報に変換する「分析力」が非常に重要です",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "単なる求人紹介ではなく、将来の目標から逆算して「今どのファームに入るべきか」「どの領域で経験を積むべきか」といったアドバイスが得られるのが大きな特徴です",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アソシエイトは、アナリストの上位職として仮説構築や業務の推進、後輩指導などを担います",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日常業務に追われ、CRM分析や効果検証が後回し",
+    "url": "https://www.nikkei-r.co.jp/service/analytics-consulting",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新規事業の仮説検証において、最適な調査手法とアウトプットの型を知りたい方",
+    "url": "https://www.cross-m.co.jp/report_all/consulting_case-studies",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説立案から検証までのプロジェクト推進実績",
+    "url": "https://www.kotora.jp/c/77700-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "弱い仮説が更新されると、情報の並びは関係へ、関係は構造へと組み替わり、構造から判断に耐える示唆**が抽出可能になります",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただ情報を集めるのではなく、“仮説を持って調べ、構造を掴み、答えを導く”のがプロのリサーチ",
+    "url": "https://note.com/hiradairaheipei/n/ne937a31c89c1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本書は、検索・分析・仮説検証のあらゆる工程を“型”として学べる一冊",
+    "url": "https://note.com/hiradairaheipei/n/ne937a31c89c1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まずは効率的に全体像を把握し、仮説を立てた上でより深い分析へと進むのがプロフェッショナルの標準的なアプローチです",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=2aaa958c77f37f6f058a55f3b6c05377",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチの精度を高める鍵は、早い段階で仮説を立てることにあります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=2aaa958c77f37f6f058a55f3b6c05377",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このアプローチにより、初期の仮説の妥当性を検証し、不足している情報をピンポイントで特定できるようになります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=2aaa958c77f37f6f058a55f3b6c05377",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "論点が定まったら、その論点に対するそのとき時点の解＝仮説を出します",
+    "url": "https://note.com/ulcons/n/n4e5578444b56",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "先ほどの例で言えば、以下のように調査の論点と仮説を考えながら調査のストーリーを組み立ててていきます",
+    "url": "https://note.com/ulcons/n/n4e5578444b56",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「消費者や地域特性に着目してみたが、他には…」といった具合で論点と仮説を整理しながら目的に沿うように考えていきます",
+    "url": "https://note.com/ulcons/n/n4e5578444b56",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新規事業を題材として、リサーチのタイミングが「着手段階」「仮説立案段階」「仮説検証段階」とあった際、それぞれのタイミングにおけるリサーチの目的、調査の深さの一例を示します",
+    "url": "https://note.com/ulcons/n/n4e5578444b56",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "オンライン公開資料では機械可読な留保等を確認し、各国の国内実施法も照合）・米国Fair Use原則との整合・FCPA/UKBAの国際リサーチ営業規制が論点化します",
+    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "主に、社内データベースとアクセス権ガバナンス、AIによる支援を活用した自動収集・要約・引用検証、SRE／プラットフォームエンジニアリングとの連携（データレイク・LLMOps）、AIエージェントによるDeepResearch・トレンドスキャン、AgentOps、ChatOpsによる調査連絡、データガバナンス（出典管理・利益相反チェック）、外部AIパートナー（DBベンダー）との連携、社員教育（リサーチ手法・統計・AIリテラシー）、ハルシネーション対策プレイブック、KPIモニタリング（調査リードタイム・引用精度・インサイトの活用率）、PDCAサイクル、です",
+    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "- test facilities, controls, sampling, estimates,",
+    "url": "https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "計画を立て、仮説を持って調べることの大切さなど、土台となる考え方が示されます",
+    "url": "https://note.com/shotar/n/nd265c2e98ffa",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ビジネスにおける分析は、基本的にはなんとなくのアタリ（コンサルでは初期仮説と呼ぶそうですが）を検証する、あるいは別の事実を発見するという、仮説と検証の行ったり来たり作業（仮説⇆検証）の繰り返しですが、リサーチも同様で、それによって",
+    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企画のステージはどの段階か？「（検討着手S）全体間の把握」「（仮説立案S）方向性を定める」「（仮説検証S）言いたいことに根拠を与える」",
+    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企画ステージの段階はあれ、求められる成果（リサーチ側のアウトプット）は主張したいストーリー（仮説）とその根拠で構成されて、意思決定の",
+    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "複数のソースに並行してあたる、仮説が外れた場合の対応策を考慮に入れて、リサーチの広さと効率を考える",
+    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "たしかに、仮説は大概外れるものですね",
+    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プロビット回帰の二段階推定と逆ミルズ比（調査観察データの統計科学 ５章：選択バイアスの補足）",
+    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「効果検証入門：DIDの章」を読んで気になったのでDIDのテクをいろいろ調べて試してみる",
+    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「効果検証入門」：傾向スコアと共変量のバランスについて気になったこと",
+    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まずは効率的に全体像を把握し、仮説を立てた上でより深い分析へと進むのがプロフェッショナルの標準的なアプローチです",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=0383e43acfccccdaf895d4fc10980793",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチの精度を高める鍵は、早い段階で仮説を立てることにあります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=0383e43acfccccdaf895d4fc10980793",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このアプローチにより、初期の仮説の妥当性を検証し、不足している情報をピンポイントで特定できるようになります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=0383e43acfccccdaf895d4fc10980793",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "限られた情報からどのようなプロセスでいい示唆や仮説を導き出すか？本書ですべて解説します",
+    "url": "https://kanataw.com/knowledge/all/becoming-a-consultant/consultant-work-technique/information-gathering/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "著書は『「暗記する」戦略思考』『コンサルが「最初の3年間」で学ぶコト』『「答えのないゲーム」を楽しむ思考技術』『フェルミ推定の技術』等多数",
+    "url": "https://kanataw.com/knowledge/all/becoming-a-consultant/consultant-work-technique/information-gathering/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まずは効率的に全体像を把握し、仮説を立てた上でより深い分析へと進むのがプロフェッショナルの標準的なアプローチです",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチの精度を高める鍵は、早い段階で仮説を立てることにあります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このアプローチにより、初期の仮説の妥当性を検証し、不足している情報をピンポイントで特定できるようになります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "this step cannot be overestimated. It is the foundation",
+    "url": "https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "“The biggest time killers in consulting research aren’t data collection. They’re unclear objectives, late stakeholder alignment, and underestimated recruitment timelines. Fix those first.”",
+    "url": "https://veridatainsights.com/business-consultant-research-process-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "wherever possible, even rough estimates are better than vague claims",
+    "url": "https://veridatainsights.com/business-consultant-research-process-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Organizations see up to 3.6% productivity gains and meaningful wage growth over five years from expert research engagements. These are empirically measured outcomes, not projected estimates.",
+    "url": "https://veridatainsights.com/business-consultant-research-process-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まずは効率的に全体像を把握し、仮説を立てた上でより深い分析へと進むのがプロフェッショナルの標準的なアプローチです",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=7edd64ec1576a83c39898a1df7ef79c2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチの精度を高める鍵は、早い段階で仮説を立てることにあります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=7edd64ec1576a83c39898a1df7ef79c2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このアプローチにより、初期の仮説の妥当性を検証し、不足している情報をピンポイントで特定できるようになります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=7edd64ec1576a83c39898a1df7ef79c2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法｜30代コンサルマネージャー｜仕事とキャリアのリアル",
+    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法",
+    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "30代コンサルマネージャー｜仕事とキャリアのリアル",
+    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事は、以下のような方に向けて書いています。",
+    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• コンサルタントの「情報収集力」を身につけたい人",
+    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• 企画・提案資料の質を高めたいビジネスパーソン",
+    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• 調査の精度が低く、上司からよく「根拠が弱い」と言われてしまう人",
+    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• 効率よくリサーチし、短い時間で良質なアウトプットを作りたい人",
+    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサル流リサーチ業務から資料への落とし方｜O-LLC",
+    "url": "https://note.com/mngt46/n/na1c988382e73",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサル流リサーチ業務から資料への落とし方",
+    "url": "https://note.com/mngt46/n/na1c988382e73",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサルティング業界では、正確な情報と深い分析がクライアントに対する価値提案の鍵となります。そのため、リサーチ業務はプロジェクトの初期段階で非常に重要な役割を果たします。生成AIにより大量の情報を即座に収集できるようになっても、その重要性は変わりません。",
+    "url": "https://note.com/mngt46/n/na1c988382e73",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチの前提に、そもそも何が課題で、その課題を検証するために何を調べるべきかという「問いの設計」があり、問いを設計するための情報は生成AIの入力ソースであるWeb上には含まれていないものがあるためです。",
+    "url": "https://note.com/mngt46/n/na1c988382e73",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クライアントの現状分析や競合他社の動向、市場トレンドの把握が可能となり、それが具体的な戦略提案や意思決定に繋がります。",
+    "url": "https://note.com/mngt46/n/na1c988382e73",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでは、コンサルティングの現場でどのようにして効果的なリサーチを行い、その結果をどのように資料としてまとめるかについて3ステップで超簡単に解説します。",
+    "url": "https://note.com/mngt46/n/na1c988382e73",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでは、コンサルティングの現場でどのようにして効果的なリサーチを行い、その結果をどのように資料としてまとめるかについて詳しく解説します。",
+    "url": "https://note.com/mngt46/n/na1c988382e73",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサルタントが行うリサーチは、ただ闇雲に情報を集めるわけではありません。",
+    "url": "https://note.com/mngt46/n/na1c988382e73",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "外資系コンサルのリサーチ技法｜MIDAS_TOUCH",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第三の視点：弱いアンテナなくして、価値ある示唆なし",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本書は、外資系コンサルティングの現場で培われたリサーチ技法を体系的に整理し、実務に直結する形で提示した一冊です。",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチを単なる情報収集ではなく「思考を構築するための営み」",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "として捉え、目的設定から仮説構築、情報の収集と検証、そして洞察の導出に至るまでの流れを、明確な方法論として描いています。文献調査やインタビュー、統計分析、現地調査など多様な手法を扱いながらも、根底に流れるのは「事実に向き合い、同時に疑う」という知的な姿勢です。つまり本書の本質は、正確な情報を集める技術ではなく、情報をどう読み解き、自分の思考をどう磨くかという「考えるための技法」にあります。情報が過剰な現代において、リサーチとは結論を導く作業ではなく、問いを立て、理解を更新するための知的訓練であるという視点が、いま改めて重要性を持っています。",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "現代のリサーチにおいて重要なのは、方法やツールが進化しても、思考の本質は変わらないという点です。AIの導入によって、情報へのアクセスは格段に容易になりました。キーワードを入力すれば、AIが関連資料を抽出し、要約し、比較分析まで自動で提示します。検索エンジンや生成AIの発展により、「調べる」行為のコストは限りなく低下しました。しかし、情報を得ることが容易になった一方で、その答えの価値はむしろ低下しています。リサーチの成果を左右するのは、情報そのものではなく、それをどう整理し、構造化し、そこからどのような示唆を導くかにあります。情報を“集める”ことと“理解する”ことは、もはや別次元の行為なのです。",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチとは、知識を積み上げることではなく、世界の見方を設計する行為です。情報を並べるだけでは意味がなく、要素間の関係を整理し、文脈を構造化して判断に耐える示唆へと転換する必要があります。データを集めることよりも、データを構造化して“意味を創る”ことこそが、現代のリサーチャーに求められる思考力です。情報の蓄積よりも、解釈と構造化の精度が成果を左右し、リサーチとは情報を増やす行為ではなく、情報に秩序を与える営みと言えます。その出発点にあるのが「問い」と「仮説」です。良い問いはリサーチの構造を定義し、",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "単に「何を知りたいか」を問うのではなく、「なぜそれを知る必要があるのか」を明確にします。",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説は答えではなく分析の出発点であり、思考を導くフレームです。たとえば「市場が拡大している理由は何か」という問いは、やがて「その成長を支える社会構造は何か」「変化を生み出す要因はどこにあるのか」「今後の限界点は何か」と展開し、問いが派生し仮説が修正される過程で構造的な理解が形成されていきます。リサーチは単なる調査ではなく、問いと仮説を軸に構造化と再解釈を繰り返す思考のプロセスそのものなのです。",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "SNS・note（note・検索結果の抜粋）": [
    {
     "quote": "コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法 Dec 1, 2025 · 1. コンサルが実務で使っている「リサーチの型」を理解できる 2. “思考の枠組みを先に作る”ことで調査のムダが消える理由が分かる 3. 明日から使えるインタビュー・デスクリサーチの具体手法を獲得できる ⸻ 第1章：コンサ",
@@ -38,6 +948,1358 @@
    {
     "quote": "コンサル 流 リサーチ 術：質の高いアウトプットを最速で ... - note コンサル 流 リサーチ 術：質の高いアウトプットを最速で ... - note note https://note.com > ビジネス > キャリア・働き方",
     "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！ -... 【コンサルのリサーチ実務方法】 コンサルタントになるとリサーチタスクを担当することになりますが、入社前はイメージがつかないことも多い ...",
+    "url": "https://www.linkedin.com/posts/yusuke-abiko_コンサルのリサーチ実務どうやるの4つのステップを実例交え解説-rally-activity-7276882349974241280-yshN",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Gunasekar Rajaratnam - Research Methodology Consultant | LinkedIn Research Methodology Consultant · Looking for real challenges. · Experience: Methodlabs India · Education: Indian Institute of Planning and Management · Location: Chennai · 500+ connections on LinkedIn. View Gunasekar Rajaratnam’s profile on LinkedIn, a professional community of 1 billion members.",
+    "url": "https://in.linkedin.com/in/crguna",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Damaris Muthoni - Research Consultant | Data Analyst ...Riette Eiselen - Research Methodology and Analysis Consultant ...Sherona Lewis - Independent Research Consultant | LinkedInElida Metaj - Monitoring and Evaluation Consultant | LinkedIn Damaris Muthoni Research Consultant | Data Analyst |Research Coordinator; I work with individuals and organizations in navigating the research process: Proposa",
+    "url": "https://ke.linkedin.com/in/damaris-muthoni-27601919a",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Researcher vs Consultant Mindsets: From Methodology to ... Researcher vs Consultant Mindsets: From Methodology to ... LinkedIn https://www.linkedin.com > posts > c...",
+    "url": "https://www.linkedin.com/posts/chris-crook-6818942_researcher-v-consultant-mindsets-over-the-activity-7425056611825676289-c91q",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【コンサルがオワコンに!?】ChatGPT最強の検索AI「Deep Research」が... What are your thoughts on how this might transform research-intensive roles? ChatGPTの最新AI機能「Deep Research」の精度が高すぎて本当にリサーチャー、コンサルオワコンになりそう。 たった数分で具体的過ぎる完璧な2万文字のリサーチを生成。",
+    "url": "https://pe.linkedin.com/posts/chaen-masa_コンサルがオワコンにchatgpt最強の検索aideep-research-activity-7292362724687155206-d6VN",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Damaris Muthoni - Research Consultant | Data Analyst ...Gunasekar Rajaratnam - Research Methodology Consultant | LinkedInRiette Eiselen - Research Methodology and Analysis Consultant ...Pablo Ezequiel Flores Kanter - Research Methodology and ...Adam Smith - Research & Insight Consultant | Mixed Methods ... Damaris Muthoni Research Consultant | Data Analyst |Research Coordinator; I work with indivi",
+    "url": "https://ke.linkedin.com/in/damaris-muthoni-27601919a",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Riette Eiselen - Research Methodology and Analysis Consultant ...Gunasekar Rajaratnam - Research Methodology Consultant | LinkedInDamaris Muthoni - Research Consultant | Data Analyst ...Pablo Ezequiel Flores Kanter - Research Methodology and ...Adam Smith - Research & Insight Consultant | Mixed Methods ... Research Methodology and Analysis Consultant · I have 30+ years experience in academia: teac",
+    "url": "https://za.linkedin.com/in/riette-eiselen-b7687514a",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Riette Eiselen - Research Methodology and Analysis Consultant ...Gunasekar Rajaratnam - Research Methodology Consultant | LinkedInDamaris Muthoni - Research Consultant | Data Analyst ...Adam Smith - Research & Insight Consultant | Mixed Methods ...Sherona Lewis - Independent Research Consultant | LinkedIn Research Methodology and Analysis Consultant · I have 30+ years experience in academia: teach",
+    "url": "https://za.linkedin.com/in/riette-eiselen-b7687514a",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "① 一次情報 → 二次情報 → Web の順に見る",
+    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2. 省庁資料・クレディブルな統計データ",
+    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3. 企業資料（IR・決算・プレスリリース）",
+    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "つまり、コンサルは 「一次情報に近いほど優先度が高い」 と考えます",
+    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1. 公的統計（最強）",
+    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3. 企業決算・公式資料",
+    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• 公的資料 → 業界レポート → 企業資料 → Web の順になっているか？",
+    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ツールとしては、官公庁や民間調査機関の統計資料、科学や学術的なリサーチでは、Google ScholarやStatistaなどのプラットフォームが一般的に利用されます",
+    "url": "https://note.com/mngt46/n/na1c988382e73",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "文献調査やインタビュー、統計分析、現地調査など多様な手法を扱いながらも、根底に流れるのは「事実に向き合い、同時に疑う」という知的な姿勢です",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "数字や統計は、その前提を離れれば単なる断片情報に過ぎず、",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この構造は、有価証券報告書のような公的文書であっても、有名な学術論文であっても、あるいは政府統計のような権威性を帯びた情報であっても同じです",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "弱いアンテナとは、気になった一点に小さな追加調査を重ねる行為――一次情報にあたって定義や範囲を確かめる、統計の原典に戻って母集団や期間を確認する、反対仮説を一度当ててみる、といった**“一歩だけ深掘りする”能動性です",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "数字や統計の背後にある前提を読み解き、誰の視点で作られた情報なのかを問い直す批判性が求められます",
+    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "— 外資系うさぎのちょこさん（コンサル社員採用中！） (@ChoConejito)",
+    "url": "https://note.com/choconejito/n/n2c2adb7a2830",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Webや文献、記事、公的調査・統計、民間調査レポートからすでに存在している情報を調べる（さがす）方法",
+    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、採用の際に学生にアンケートを書いてもらい例えば志望度はと質問した際に、少なくとも80%以上で解答してくるはずだ、私であればいったん100%と全部書いてしまうと思います",
+    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "現職では営業と人材採用を統括",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "[コンサルタント積極採用中]",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日本ロジスティクスシステム協会などの公益社団法人の調査報告・統計結果",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "現在のメンバーは6名ですが、事業拡大に伴い採用を強化しています",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "正直にお伝えすると、その背景には採用難易度の高さがあります",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "もし少しでもRally Growthに興味をお持ち頂けたら、以下のリンクよりRally Growthの採用サイトをご覧ください",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【採用サイト】",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "以下のラインナップで採用に関する情報を、かなり詳しく掲載しています",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "以下よりRally Growthの採用や会社概要に関する資料もご請求いただけます",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Rally Growthに関する情報を1ファイルのPDFでまとめて見ることができるため、まとまった資料をご希望の方は以下リンクよりご請求ください",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "＜Rally Growth 会社概要・採用情報資料 イメージ＞",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用企業の方",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "具体的には、市場規模や市場成長性・業界構造・競合他社のプレイヤー調査などを、業界レポート、ニュース記事、統計データ、政府機関の資料などから調査します",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "賃金構造基本統計調査",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "令和5年賃金構造基本統計調査",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "年収1000万円以上の求人多数",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開求人数：紹介可能なポジションは1,000件以上",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非公開求人数：非公開",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "求人職種・業界",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "求人検索・求人紹介",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "戦略・総合・ITコンサル・M&A求人に強い！",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開求人数：非公開",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非公開求人数：77%",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その他の出身者への求人ポジションは少ない傾向",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AXIS Agentの最大の魅力は、非公開求人の情報量と質の高さです",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "他社では見つからない求人を紹介してもらえました",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報の収集には、既存の資料や統計データを活用する【デスクリサーチ】と、実地訪問やインタビューを通じて一次情報を取得する【フィールドリサーチ】の2種類があります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=eea50c2ad34b60325dde9debc68c11f4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特定のサイト内を検索する「site:」や、ファイル形式を指定する「filetype:pdf」などのテクニックは、必要な情報へ最短距離でアクセスするために極めて有効です",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=eea50c2ad34b60325dde9debc68c11f4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "資料作成においては、結論を最初に提示し、それを裏付ける根拠を配置する「ピラミッド構造」の採用が基本となります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=eea50c2ad34b60325dde9debc68c11f4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・非公開専門領域の求人へのアクセス",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=eea50c2ad34b60325dde9debc68c11f4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用トレンド、スキルセット、転職の成否事例まで、働く人・採用する企業に役立つ専門情報を発信します",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=eea50c2ad34b60325dde9debc68c11f4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統計・レポート",
+    "url": "https://biz-con.plus/skillup-researchprocess/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的（行政・研究機関）や民間（調査会社）の報告による情報収集",
+    "url": "https://biz-con.plus/skillup-researchprocess/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "」からリサーチを始め、その後統計・レポートやインタビューなどの「",
+    "url": "https://biz-con.plus/skillup-researchprocess/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのため、例えば統計・レポートを用いる場合にも",
+    "url": "https://biz-con.plus/skillup-researchprocess/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統計検定2級を独学攻略！勉強法が確立しているため合格しやすい試験",
+    "url": "https://biz-con.plus/skillup-researchprocess/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データサイエンスの勉強を進めていく中で、その中核を担うデータサイエンス力を伸ばすためぜひ身に着けたい数学力、特に統計スキル",
+    "url": "https://biz-con.plus/skillup-researchprocess/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この分野を勉強するのであればそのロードマップとして統計学に関する資格を取得したい！そんなあなたに統計検定の徹底攻略を紹介します",
+    "url": "https://biz-con.plus/skillup-researchprocess/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "求人情報を探す",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "三菱UFJリサーチ＆コンサルティング株式会社の転職・採用情報",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチとは、インターネット上の情報、既存の市場レポート、統計データ、業界ニュースなどを活用する方法で、資料や公開データなどの二次情報をもとにして分析を進めます",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一方、フィールドリサーチは、現地訪問やエキスパートへのインタビュー、またはアンケート調査によるデータ収集など、一次情報を直接取得する方法です",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "外資系コンサルタントがよく活用するのは、ピボットテーブルや統計分析ツール、さらにはPythonやRなどのプログラミングスキルを取り入れた高度な分析です",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、特定のファイル形式を探したい場合には「filetype:pdf キーワード」を活用します",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサルタントが典型的に採用するプロセスを例にすると、大きく「",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査対象は学術論文や経済紙の記事、政府の統計データや業界団体のレポートなど多岐にわたります",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでポイントとなるのが引用元情報で、レポート内に「政府統計局○○年版」「経済誌××の特集記事」などのリンクや出典が明示されるため、後から利用者が自分で「この根拠は本当か？」と確かめることが可能です",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "- 政府統計や業界団体のデータ、有名経済紙の記事、学術論文などできる限り信頼性の高い情報を参考にしてください",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社全体の人員構成は、そうした案件の組み替えが積み重なり、さらに採用の判断などが加わった結果として変わっていきます",
+    "url": "https://note.com/yukiaaaaaaaa/n/neb3367687f28",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Deloitteは国内の3法人を統合し、1万人規模の国内最大級のファームとなりましたが、その統合を率いるトップは、新卒採用について「厳選の時代へ」と述べ、「スケールで勝負するのは賢くない」とも語っています",
+    "url": "https://note.com/yukiaaaaaaaa/n/neb3367687f28",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "[7] 「【デロイト2トップが激白！前編】3社統合で『1万人規模』の巨大コンサル誕生！新卒採用は“厳選”の時代へ」ダイヤモンド・オンライン",
+    "url": "https://note.com/yukiaaaaaaaa/n/neb3367687f28",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "面接で見られるポイント、企業ごとの採用背景、求める人物像を構造的に分析",
+    "url": "https://note.com/consulting_lab15",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "面接で見られるポイント、企業ごとの採用背景、求める…",
+    "url": "https://note.com/consulting_lab15",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "マッキンゼーの採用背景を読み解く——なぜ今、この人材が求められているのか",
+    "url": "https://note.com/consulting_lab15",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "MUFGグループのシンクタンクで働くとは？MURCの組織文化から採用戦略を読む",
+    "url": "https://note.com/consulting_lab15",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "東京・名古屋・大阪の3拠点体制からわかる、三菱UFJリサーチ&コンサルティングの事業構造と採用背景",
+    "url": "https://note.com/consulting_lab15",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "三菱UFJリサーチ&コンサルティングが中途採用で求める人物像とは？「ベンチャー気質」が評価される理由",
+    "url": "https://note.com/consulting_lab15",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "とは、フリーランスコンサルタント向けに業務委託案件の求人を紹介してくれる",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "20代・30代・40代・50代などの年齢により採用ポジションや転職難易度、転職の対策方法が大きく異なるため、自身の強みを踏まえた準備が重要です",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサルティング業界ではITコンサルを中心にエンジニア出身者の採用が増えており、",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "民間求人サイトの有効活用方法等を検証するための実証調査",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "基幹統計として初めて把握したフリーランスの働き方",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・有価証券報告書等を通して、「調査に必要な前提知識」をインプットすることが重要です",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索・文献検索・記事検索や公的・民間調査レポートを活用する際は、以下のようなことに留意することが有用です",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的調査や民間調査レポートは、素早く市場の全体像を把握する際に有用です",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "​独自ネットワークに​よる​高待遇の​非公開求人を​豊富に​保有し、​大手コンサルティングファームや​事業会社の​経営企画・DX職など、​ハイクラスポジションを​ご紹介します",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "続いて、コンサルタントのアナリスト・アソシエイト・シニアアソシエイトの年収目安を、求人例とともに紹介します",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アナリストの求人例①クラウドソーシングサービス会社",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アナリストの求人例②大手通信会社ユーザー系SIer",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アソシエイトの求人例①大手総合商社グループ",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アソシエイトの求人例②財務・会計コンサルティングファーム",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "シニアアナリストの求人例①資本市場コンサルティング会社",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "シニアアナリストの求人例②総合系コンサルティングファーム",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クラウドソーシング事業を展開する企業で、戦略立案から新規事業まで幅広く携われるアナリストポジションの求人です",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "求人ボックス公式サイト（2025年6月16日時点）(記事作成時点の情報のため現在は募集終了している可能性があります)",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "具体的には、Excelでの関数・ピボットテーブルの活用、BIツール（Tableau、Power BIなど）による可視化、統計的な知見を活かした数値の読み解きなど、実務で求められるスキルは多岐にわたります",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AI・機械学習を取り入れたデジタル分析や統計的予測のスキルは希少価値が高く、今後の市場において不可欠となるでしょう",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アナリスト職の求人にも強いおすすめエージェント",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "独自ルートによる非公開求人も多く、外資系ファームの紹介にも対応",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "戦略ファームやIT系コンサルファームにおける未経験可の求人",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "PEファンド、ベンチャーキャピタル(VC)の最新求人情報",
+    "url": "https://www.kotora.jp/c/77700-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "簡単無料登録で、各業界を熟知したキャリアコンサルタントが非公開求人など多数のハイクラス求人からあなたの最新のポジションを紹介します",
+    "url": "https://www.kotora.jp/c/77700-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この定義には明確な法的基準がないものの、企業や求人サイトに […]",
+    "url": "https://www.kotora.jp/c/77700-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "キャリア相談（無料）を受ける、経験にマッチした求人案件を受信する",
+    "url": "https://www.kotora.jp/c/77700-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "求人企業とコトラのコンサルタントによるインタビュー記事を読む",
+    "url": "https://www.kotora.jp/c/77700-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "専門コンサルタントが、開発・ファンド・売買等の非公開求人をご案内します",
+    "url": "https://www.kotora.jp/c/77700-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プロフェッショナルのための求人情報/業界情報を配信",
+    "url": "https://www.kotora.jp/c/77700-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アンケート設計やソーシャルリスニングなどの技法が解説されており、ユーザーの声や市場の動向を一次情報から掘り出す力こそが、差を生むスキルとなる",
+    "url": "https://note.com/hiradairaheipei/n/ne937a31c89c1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この思考法を採用することで、表面的な課題にとどまることなく、クライアントの意思決定を支援するための深い洞察を提供することができます",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最初に結論を提示し、その後に結論を裏付ける根拠やデータを示す「ピラミッド構造」を採用することで、見た人がすぐに全体像を把握できるようにします",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "簡単無料登録で、各業界を熟知したキャリアコンサルタントが非公開求人など多数のハイクラス求人からあなたの最新のポジションを紹介します",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "理系の強み採用！理系院卒がコンサル業界で求められる理由",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "キャリア相談（無料）を受ける、経験にマッチした求人案件を受信する",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "求人企業とコトラのコンサルタントによるインタビュー記事を読む",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "専門コンサルタントが、開発・ファンド・売買等の非公開求人をご案内します",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プロフェッショナルのための求人情報/業界情報を配信",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報の収集には、既存の資料や統計データを活用する【デスクリサーチ】と、実地訪問やインタビューを通じて一次情報を取得する【フィールドリサーチ】の2種類があります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=2aaa958c77f37f6f058a55f3b6c05377",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特定のサイト内を検索する「site:」や、ファイル形式を指定する「filetype:pdf」などのテクニックは、必要な情報へ最短距離でアクセスするために極めて有効です",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=2aaa958c77f37f6f058a55f3b6c05377",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "資料作成においては、結論を最初に提示し、それを裏付ける根拠を配置する「ピラミッド構造」の採用が基本となります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=2aaa958c77f37f6f058a55f3b6c05377",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用トレンド、スキルセット、転職の成否事例まで、働く人・採用する企業に役立つ専門情報を発信します",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=2aaa958c77f37f6f058a55f3b6c05377",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統計局の大量データを取得し、ある時点のデータでサマリしてグラフ化しただけ",
+    "url": "https://note.com/ulcons/n/n4e5578444b56",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界レポート、政府統計、インタビューの実施など",
+    "url": "https://note.com/ulcons/n/n4e5578444b56",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一次情報を取得するために足を動かし、実際の現場を観察するのも一つの手です",
+    "url": "https://note.com/ulcons/n/n4e5578444b56",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "＜公的調査レポート・統計データ・情報取得＞",
+    "url": "https://note.com/ulcons/n/n4e5578444b56",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・総務省統計局トップページ（総務省統計局）",
+    "url": "https://note.com/ulcons/n/n4e5578444b56",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・e-Stat 政府統計の総合窓口（総務省/独立行政法人統計センター）",
+    "url": "https://note.com/ulcons/n/n4e5578444b56",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.e-stat.go.jp/",
+    "url": "https://note.com/ulcons/n/n4e5578444b56",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://dashboard.e-stat.go.jp/",
+    "url": "https://note.com/ulcons/n/n4e5578444b56",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統計分析手法をはじめとするマーケティングリサーチ用語や、データマーケティング用語、デジタルデータマーケティング用語について広く解説しています",
+    "url": "https://www.cross-m.co.jp/report_all/consulting_case-studies",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：各種データベース（Statista、Bloomberg、各省庁統計等）のライセンス管理と活用ガイドの整備",
+    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：政府統計、業界団体データ、企業IR情報、市場調査レポートからの定量データの収集",
+    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：回帰分析、相関分析、時系列分析等の統計的手法を用いたデータ分析",
+    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析結果の解釈（統計的に有意でも、ビジネス上の意味があるかの判断）",
+    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "①Web検索、②文献検索（書籍）、③記事検索（ニュース記事）、④公的調査・統計データ、⑤民間の調査レポート",
+    "url": "https://note.com/shotar/n/nd265c2e98ffa",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そこでさっそく次のブログ記事ネタ探しでは**「30分で必要な統計データ3つ見つける」**とゴールと制限時間を決めて検索してみました",
+    "url": "https://note.com/shotar/n/nd265c2e98ffa",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・採用人事戦略、 […]",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プロビット回帰の二段階推定と逆ミルズ比（調査観察データの統計科学 ５章：選択バイアスの補足）",
+    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報の収集には、既存の資料や統計データを活用する【デスクリサーチ】と、実地訪問やインタビューを通じて一次情報を取得する【フィールドリサーチ】の2種類があります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=0383e43acfccccdaf895d4fc10980793",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特定のサイト内を検索する「site:」や、ファイル形式を指定する「filetype:pdf」などのテクニックは、必要な情報へ最短距離でアクセスするために極めて有効です",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=0383e43acfccccdaf895d4fc10980793",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "資料作成においては、結論を最初に提示し、それを裏付ける根拠を配置する「ピラミッド構造」の採用が基本となります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=0383e43acfccccdaf895d4fc10980793",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競合が今後海外の人材をどれくらい採用するのか知りたかったのか？",
+    "url": "https://kanataw.com/knowledge/all/becoming-a-consultant/consultant-work-technique/information-gathering/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサル転職の最適な時期はいつ？求人が多い季節や年代別の成功戦略を解説！",
+    "url": "https://kanataw.com/knowledge/all/becoming-a-consultant/consultant-work-technique/information-gathering/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報の収集には、既存の資料や統計データを活用する【デスクリサーチ】と、実地訪問やインタビューを通じて一次情報を取得する【フィールドリサーチ】の2種類があります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特定のサイト内を検索する「site:」や、ファイル形式を指定する「filetype:pdf」などのテクニックは、必要な情報へ最短距離でアクセスするために極めて有効です",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "資料作成においては、結論を最初に提示し、それを裏付ける根拠を配置する「ピラミッド構造」の採用が基本となります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：競合の特許出願動向、技術開発の方向性の調査",
+    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一次情報の獲得（守秘義務・営業秘密・インサイダー情報規制を遵守した範囲でのエキスパートインタビュー）",
+    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：AIが競合企業のニュース・IR情報・特許出願を自動巡回しアラート",
+    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：AIが官報・規制当局の公表資料を自動スキャンし、関連改正を検出",
+    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "主に、業界分析（市場規模・成長性・競合構造）、ベンチマーク調査（先進事例・KPI比較）、規制動向（政府・業界団体）、企業調査（M&A・財務・組織）、データ収集（公開データ・有料DB・スクレイピング）、データ加工・統計分析、AIによる支援を活用したDeepResearch、AgentOps、ChatOpsによるリサーチャー連絡、データガバナンス（情報の鮮度・出典管理）、外部AIパートナー連携、社員教育、KPIモニタリング、などです",
+    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "主に、社内データベースとアクセス権ガバナンス、AIによる支援を活用した自動収集・要約・引用検証、SRE／プラットフォームエンジニアリングとの連携（データレイク・LLMOps）、AIエージェントによるDeepResearch・トレンドスキャン、AgentOps、ChatOpsによる調査連絡、データガバナンス（出典管理・利益相反チェック）、外部AIパートナー（DBベンダー）との連携、社員教育（リサーチ手法・統計・AIリテラシー）、ハルシネーション対策プレイブック、KPIモニタリング（調査リードタイム・引用精度・インサイトの活用率）、PDCAサイクル、です",
+    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報の収集には、既存の資料や統計データを活用する【デスクリサーチ】と、実地訪問やインタビューを通じて一次情報を取得する【フィールドリサーチ】の2種類があります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=7edd64ec1576a83c39898a1df7ef79c2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特定のサイト内を検索する「site:」や、ファイル形式を指定する「filetype:pdf」などのテクニックは、必要な情報へ最短距離でアクセスするために極めて有効です",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=7edd64ec1576a83c39898a1df7ef79c2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "資料作成においては、結論を最初に提示し、それを裏付ける根拠を配置する「ピラミッド構造」の採用が基本となります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=7edd64ec1576a83c39898a1df7ef79c2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "「外資系コンサルのリサーチ技法」 アクセンチュアの調査系スキルのノ... 「外資系コンサルのリサーチ技法」 アクセンチュアの調査系スキルのノウハウを詰めた本ね。昔読んで体系的にまとまってるから後輩に読ませよ、って思ったやつなのだわ。かなり実務に近いレイヤーで書かれてるので良書よ とあるコンサルタント consultnt_a 0h",
+    "url": "https://x.com/consultnt_a/status/2081151755358728214",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサル3〜4年目で成長が止まり昇進できない人の共通点 リサーチ、イ... 一ノ瀬 (@consul_ichinose). 505 likes. コンサル3〜4年目で成長が止まり昇進できない人の共通点 リサーチ、インタビュー、スライド作成などのアナリストワークを完璧にこなせるようになった時点で満足しているパターンです。",
+    "url": "https://x.com/consul_ichinose/status/2056374865817739430",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサル入社直後、2時間かけたリサーチ設計が上司に「何これ？もうい... タナカ (@tanaka_aal). 99 views. コンサル入社直後、2時間かけたリサーチ設計が上司に「何これ？もういいよ」と一蹴された。情報を集めて整理する作業は、今やAIが数分でやる。 「求められる役割が変わった」って、あの時の僕が淘汰される側だったってことだと思う。生き残ったのは、英語 ...",
+    "url": "https://x.com/tanaka_aal/status/2043177462478315797",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ポスコンちゃん on X: \"コンサルにいましたが、アナリスト時代の「作... コンサルにいましたが、アナリスト時代の「作業」が好きでした。エクセルの枠にひたすらリサーチした情報を埋めていくだけの作業です。 これをしている間は、顧客からもマネージャーからも詰められることはありません。誰にも邪魔されない深夜のフィーバータイムです。 でも、成長した ...",
+    "url": "https://x.com/posconchan/status/2096461396754219241",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサル3〜4年目で成長が止まり昇進できない人の共通点 リサーチ、インタビュー、スライド作成などのアナリストワークを完璧にこなせるようになった ... 一ノ瀬 (@consul_ichinose). 505 likes. コンサル3〜4年目で成長が止まり昇進できない人の共通点 リサーチ、インタビュー、スライド作成などのアナリストワークを完璧にこなせるようになった時点で満足しているパターンです。",
+    "url": "https://x.com/consul_ichinose/status/2056374865817739430",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチ業界で働いている人はコンサルやアナリストを上に見て、自分たちは考えることをやめ、データ提供だけに集中し、クライアントとディスカッション ... リサーチ業界で働いている人はコンサルやアナリストを上に見て、自分たちは考えることをやめ、データ提供だけに集中し、クライアントとディスカッションするのを避ける人よく見るが、それだとリサーチのスキルは上がらないし価値はない。 顧客をよくするための提案をできる限りしよう ...",
+    "url": "https://x.com/carrer0518happy/status/2077627005944869184",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「外資系コンサルのリサーチ技法」 アクセンチュアの調査系スキルのノウハウを詰めた本ね。昔読んで体系的にまとまってるから後輩に読ませよ、って思っ ... 「外資系コンサルのリサーチ技法」 アクセンチュアの調査系スキルのノウハウを詰めた本ね。昔読んで体系的にまとまってるから後輩に読ませよ、って思ったやつなのだわ。かなり実務に近いレイヤーで書かれてるので良書よ とあるコンサルタント consultnt_a 0h",
+    "url": "https://x.com/consultnt_a/status/2081151755358728214",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "多種多様なリサーチ技法について、それぞれの主な使用シーン、テクニック、ルール、注意点がわかりやすくまとまっており、非常に使いやすい一冊と言えるでしょう",
+    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特に注目すべきなのは、情報は「調べる」だけでなく「つくる」ことができると指摘している点であり、インタビューやフィールド調査を行う際の注意点まできちんとカバーされているのです",
+    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特に、必要な情報が手に入るかどうか実際に調べてみないと分からない場合、1つだけの情報源に絞ってしまうと失敗したときのリスクが高まります",
+    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "いかなる文献にも作者のバイアスが少なからずかかっているので何が事実で、どういった文脈で使われている言葉、数字なのかを見極めることを怠ってはならないのです",
+    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "確かに、経験上アンケートにかいてある内容を鵜呑みにするのは危険であります",
+    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、性別やライフスタイルの異なる消費者を同一グループに混ぜないように注意しよう",
+    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今後、企業支援をする際にもＷｅｂ広告だけでなく経営全体を改善できるコンサルタントでない限り、仕事がＡｉに持っていかれるのは間違いないと思います",
+    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "入社後すぐにアナリストとして任されることが多い「デスクリサーチ」を例に方法と注意すべきポイントを解説",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "次世代のマテハン「物流ロボット」を解説！導入のメリットと注意点",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ため注意が必要です",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "フリーランスコンサルタントの年収・月収比較、職位別の年収相場、稼働率別の年収の違い、年収アップのコツや注意点など業界最前線の実態をわかりやすく解説",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサルのアナリストになるデメリットと注意点",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デメリット・注意点",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサル業界で成功を収めるためのプレッシャーは時に努力の躍進力になり大きな成長につながりますが、同時にメンタルや体力にダメージを与えるデメリットもあります",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を主としており、業務委託契約には「委任」「準委任」「請負」など様々な契約種類があり、法律行為の有無や業務責任において違いを知っておかないと違反行為にもなってしまうため注意が必要です",
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "記事検索では、記載されるファクトと、それが語られている視点に注意する必要があります",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "■ダメなリサーチと良いリサーチ",
+    "url": "https://note.com/ulcons/n/n4e5578444b56",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "▶ダメなリサーチ",
+    "url": "https://note.com/ulcons/n/n4e5578444b56",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチは一見簡単に思えるかもしれませんが、実際には奥が深く、注意して進めなければ落とし穴にハマる可能性もあります",
+    "url": "https://note.com/ulcons/n/n4e5578444b56",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ダメな例をいくつか列挙してみました",
+    "url": "https://note.com/ulcons/n/n4e5578444b56",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "＜ダメなリサーチの例＞",
+    "url": "https://note.com/ulcons/n/n4e5578444b56",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査した結果が活かされないようなアウトプットになってしまったり、とにかく検索、検索、検索で何をゴールにしているのか分からなくなったり、目的を忘れて作業に没頭してしまうようなリサーチは、ダメなリサーチと言えます",
+    "url": "https://note.com/ulcons/n/n4e5578444b56",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "論点を明確にすることは、冒頭のダメなリサーチにあるような何のためのリサーチなのか？がはっきりしますし、調査を通して論点を解くためのネタをアウトプットすることがゴールとなります",
+    "url": "https://note.com/ulcons/n/n4e5578444b56",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "設計観点の整理：コンサルリサーチAI導入で陥りやすい3大落とし穴",
+    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "落とし穴1：著作権法×引用要件×AI Deep Researchのハルシネーション管理",
+    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "落とし穴2：グローバルリサーチAI×EU AI Act×越境データ",
+    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "落とし穴3：中国拠点リサーチAI×PIPL/大模型備案×情報管制",
+    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでは、著作権/引用・グローバルAI×越境データ・中国拠点×PIPLの3観点で落とし穴を整理します",
+    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Deep Research系（OpenAI/Gemini/Perplexity/Grok/Manus）のAI活用の落とし穴は、",
+    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "controls and standards, replication, bias of",
+    "url": "https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "measurement, bias of researcher",
+    "url": "https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "must not only fend off personal influences/biases that",
+    "url": "https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Bias mitigation strategy",
+    "url": "https://researchgold.org/services/research-consultant",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "common market research pitfalls",
+    "url": "https://veridatainsights.com/business-consultant-research-process-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Overcoming Common Pitfalls in Market Research for Consulting Firms – Veridata Insights",
+    "url": "https://veridatainsights.com/business-consultant-research-process-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4. ChatGPT Deep Research活用による具体的効果と注意点",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際にChatGPT Deep Researchを使って調査を行う際には、メリットだけでなく、注意すべきポイントも同時に知っておく必要があります",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AIの調査・文章作成能力は驚異的ですが、AIが何らかのバイアスを持っていないとは言えません",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Deep Researchを活用した調査結果を鵜呑みにせず、人間側が「本当にそうか？」とクロスチェック",
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここで注意したいのは、この三つが、実はまったく同じレベルの話をしているわけではないということです",
+    "url": "https://note.com/yukiaaaaaaaa/n/neb3367687f28",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "※本サイトに掲載されている記事の内容は、正しく客観的な情報を提供するように務めていますが、情報に誤りがあったり、古くなっていることがあることをご了承願います",
+    "url": "https://consulgo.jp/article/consulting-analyst/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アナリストレポートを活用する際には、いくつかの重要な注意点があります",
+    "url": "https://investmentbridge.co.jp/business/ir-consulting/column/analyst-report/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これらの注意点を押さえることで、",
+    "url": "https://investmentbridge.co.jp/business/ir-consulting/column/analyst-report/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "投資家からレポート内容について質問を受けた場合は、事実関係の確認に留め、レポートの評価や判断には言及しないよう注意が必要です",
+    "url": "https://investmentbridge.co.jp/business/ir-consulting/column/analyst-report/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Save time and resources by preventing common mistakes.",
+    "url": "https://methodoresearch.com/en/services/methodology-consulting/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Increase efficiency and reduce biases in your data collection process.",
+    "url": "https://methodoresearch.com/en/services/methodology-consulting/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Correct biases to improve the accuracy of your data.",
+    "url": "https://methodoresearch.com/en/services/methodology-consulting/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Create and refine survey tools that effectively capture necessary data without bias.",
+    "url": "https://methodoresearch.com/en/services/methodology-consulting/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Avoid biases to reflect true respondent views.",
+    "url": "https://methodoresearch.com/en/services/methodology-consulting/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "お話しした中で町田さん自身も戦略系コンサルティングファームへ転職された経験をお持ちだと知り、この方なら間違い無いだろうと思ってそのまま支援をお願いしました",
+    "url": "https://my-vision.co.jp/success-stories/case216",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "専門性やITスキルもないですし、営業職からコンサル転職がうまくいくというイメージはなかったので、初めはダメ元で話を聞いてみよう程度の気持ちでした",
+    "url": "https://my-vision.co.jp/success-stories/case216",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新卒で学生インターンをしていたベンチャーにそのまま就職しましたが、正直なところ失敗したなと考えており、キャリアの再構築をしたいと考えたからです",
+    "url": "https://my-vision.co.jp/success-stories/case216",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "監査法人から経理部への転職で年収アップは可能？活かせる経験・評価されるポイントと注意点",
+    "url": "https://www.kotora.jp/c/50381/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "いかなる文献も、著者のバイアスがかかっていることや、情報の網羅性が担保されないリスクがつきまとうため",
+    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "が、ビジネス課題は複雑な要因で成り立っているため、その取り組み例における成功・失敗の結果は再現性がなく、自社の課題にそのままあてはめることができないものがほとんどです",
+    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プロビット回帰の二段階推定と逆ミルズ比（調査観察データの統計科学 ５章：選択バイアスの補足）",
+    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "外資系コンサルティングファームBCG（ボストン・コンサルティング・グループ）に新卒で入社した女子 “ファンタジスタ品川” さんが、自分は優秀だと勘違いしているダメダメアソシエイトたちへコンサルタントとして立ち上がるための仕事術を伝授",
+    "url": "https://kanataw.com/knowledge/all/becoming-a-consultant/consultant-work-technique/information-gathering/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【BCG流】スライド2枚の指示に潜む罠",
+    "url": "https://kanataw.com/knowledge/all/becoming-a-consultant/consultant-work-technique/information-gathering/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しかし、そもそも『英語を活かせる仕事』とは何か、考えたことはあるでしょうか？英語を活かせる仕事にはどんなパターンがあるか、またそれぞれに陥りがちな注意点について説明します",
+    "url": "https://biz-con.plus/skillup-researchprocess/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -864,1138 +3126,16 @@
     "url": "https://www.arts-crafts.co.jp/post-16243/",
     "pass": 3,
     "first_seen": "2026-11-05"
-   }
-  ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
-   {
-    "quote": "コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！ -... 【コンサルのリサーチ実務方法】 コンサルタントになるとリサーチタスクを担当することになりますが、入社前はイメージがつかないことも多い ...",
-    "url": "https://www.linkedin.com/posts/yusuke-abiko_コンサルのリサーチ実務どうやるの4つのステップを実例交え解説-rally-activity-7276882349974241280-yshN",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Gunasekar Rajaratnam - Research Methodology Consultant | LinkedIn Research Methodology Consultant · Looking for real challenges. · Experience: Methodlabs India · Education: Indian Institute of Planning and Management · Location: Chennai · 500+ connections on LinkedIn. View Gunasekar Rajaratnam’s profile on LinkedIn, a professional community of 1 billion members.",
-    "url": "https://in.linkedin.com/in/crguna",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Damaris Muthoni - Research Consultant | Data Analyst ...Riette Eiselen - Research Methodology and Analysis Consultant ...Sherona Lewis - Independent Research Consultant | LinkedInElida Metaj - Monitoring and Evaluation Consultant | LinkedIn Damaris Muthoni Research Consultant | Data Analyst |Research Coordinator; I work with individuals and organizations in navigating the research process: Proposa",
-    "url": "https://ke.linkedin.com/in/damaris-muthoni-27601919a",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Researcher vs Consultant Mindsets: From Methodology to ... Researcher vs Consultant Mindsets: From Methodology to ... LinkedIn https://www.linkedin.com > posts > c...",
-    "url": "https://www.linkedin.com/posts/chris-crook-6818942_researcher-v-consultant-mindsets-over-the-activity-7425056611825676289-c91q",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【コンサルがオワコンに!?】ChatGPT最強の検索AI「Deep Research」が... What are your thoughts on how this might transform research-intensive roles? ChatGPTの最新AI機能「Deep Research」の精度が高すぎて本当にリサーチャー、コンサルオワコンになりそう。 たった数分で具体的過ぎる完璧な2万文字のリサーチを生成。",
-    "url": "https://pe.linkedin.com/posts/chaen-masa_コンサルがオワコンにchatgpt最強の検索aideep-research-activity-7292362724687155206-d6VN",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Damaris Muthoni - Research Consultant | Data Analyst ...Gunasekar Rajaratnam - Research Methodology Consultant | LinkedInRiette Eiselen - Research Methodology and Analysis Consultant ...Pablo Ezequiel Flores Kanter - Research Methodology and ...Adam Smith - Research & Insight Consultant | Mixed Methods ... Damaris Muthoni Research Consultant | Data Analyst |Research Coordinator; I work with indivi",
-    "url": "https://ke.linkedin.com/in/damaris-muthoni-27601919a",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Riette Eiselen - Research Methodology and Analysis Consultant ...Gunasekar Rajaratnam - Research Methodology Consultant | LinkedInDamaris Muthoni - Research Consultant | Data Analyst ...Pablo Ezequiel Flores Kanter - Research Methodology and ...Adam Smith - Research & Insight Consultant | Mixed Methods ... Research Methodology and Analysis Consultant · I have 30+ years experience in academia: teac",
-    "url": "https://za.linkedin.com/in/riette-eiselen-b7687514a",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "② 調べるべき論点（＝仮説）",
-    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コンサルは最初に仮説を立てますが、これは「当てるため」ではなく 調査の抜け漏れ防止のための枠組みづくり です",
-    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• 論点（仮説）は整理したか？",
-    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチの前提に、そもそも何が課題で、その課題を検証するために何を調べるべきかという「問いの設計」があり、問いを設計するための情報は生成AIの入力ソースであるWeb上には含まれていないものがあるためです",
-    "url": "https://note.com/mngt46/n/na1c988382e73",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第一の視点：問いと仮説の展開性",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "として捉え、目的設定から仮説構築、情報の収集と検証、そして洞察の導出に至るまでの流れを、明確な方法論として描いています",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その出発点にあるのが「問い」と「仮説」です",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説は答えではなく分析の出発点であり、思考を導くフレームです",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "たとえば「市場が拡大している理由は何か」という問いは、やがて「その成長を支える社会構造は何か」「変化を生み出す要因はどこにあるのか」「今後の限界点は何か」と展開し、問いが派生し仮説が修正される過程で構造的な理解が形成されていきます",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチは単なる調査ではなく、問いと仮説を軸に構造化と再解釈を繰り返す思考のプロセスそのものなのです",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "集めた情報の量ではなく、構造化された情報から導かれる示唆の質、そしてその出発点となる問いと仮説の精度によって決まります",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "問いを再設定し、仮説を再構築する",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データを排除するのではなく、そのデータがどのような問いに基づき、どのような条件で集められたのかを検証する",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "自らの仮説や前提もまた、常に検証の対象でなければなりません",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "自分の立てた仮説を一度壊し、再構築する勇気がなければ、リサーチは硬直化し、思考は停滞します",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチでは、最初から強固な仮説を掲げるよりも、柔軟で修正可能な「弱い仮説」を持つことが重要です",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "弱い仮説は確信ではなく暫定的理解の足場であり、更新を前提に外界との往復で育てていきます",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "弱いアンテナとは、気になった一点に小さな追加調査を重ねる行為――一次情報にあたって定義や範囲を確かめる、統計の原典に戻って母集団や期間を確認する、反対仮説を一度当ててみる、といった**“一歩だけ深掘りする”能動性です",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この最小単位の追検証が、異常値や齟齬、語られていない前提といった違和感を可視化し、その違和感が弱い仮説の更新を促します",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まだ全体像を把握しようとしている段階なのか、もう仮説立案の段階に移っているのか、あるいはすでに仮説を検証する段階なのかで、リサーチの目的は変わってきます",
-    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説を打ち立てる段階では、それぞれの情報を比較しながら、調べるべきポイントを絞ることがリサーチの目的になります",
-    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "多くの情報の中から自分なりの仮説を組み立て、深くリサーチすべき対象を見つけ出すことが、この段階では求められます",
-    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "たとえば着手しはじめた段階ではスピードが最優先されるだろうし、仮説を検証する段階では制度と網羅性が特に重視されるはずです",
-    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説ができたら、それが妥当かどうかを検証する段階に入る",
-    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "３）仮説が外れた場合の対応策を考慮しておく",
-    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「確からしい」仮説ができたとしても、往々にしてそのような仮説は外れるものであります",
-    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "時間の都合上、仮説が外れてからまた新たにリサーチをすることは厳しいことも多いと思います",
-    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説が外れていた場合に備え、最初からなるべく広い範囲で調査することが、まわりまわっているように見えて一番の近道になります",
-    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "こともあり戦略や調査設計時の仮説構築のために使われることが多いです",
-    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "どのような情報になるか事前に仮説をたてておくことも重要です",
-    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説に基づいて示唆出し、アウトプットの整理",
-    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "クライアント課題の整理と分析、仮説構築",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "単なるデータ処理に留まらず、分析結果から論理的な仮説を導く思考力が求められます",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コンサル業界では「結論ファースト」という言葉が頻出しますが、まずは結論を導くための仮説を立案し、その結論を出すためのファクト（根拠）を論理的に構成する必要があるからです",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "代表作として、「コンサル一年目が学ぶこと」「イシューからはじめよ」「論点思考」「仮説思考」などがあります",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特注のケース面接・フェルミ推定面接などの対策を行うことができます",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "民間求人サイトの有効活用方法等を検証するための実証調査",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コンサルとメディアの掛け算で革命を起こす「コンサルフリー」とは【企業インタビュー】",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説思考とMECEフレームワークの活用",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=eea50c2ad34b60325dde9debc68c11f4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まずは効率的に全体像を把握し、仮説を立てた上でより深い分析へと進むのがプロフェッショナルの標準的なアプローチです",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=eea50c2ad34b60325dde9debc68c11f4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチの精度を高める鍵は、早い段階で仮説を立てることにあります",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=eea50c2ad34b60325dde9debc68c11f4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このアプローチにより、初期の仮説の妥当性を検証し、不足している情報をピンポイントで特定できるようになります",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=eea50c2ad34b60325dde9debc68c11f4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチの精度（公知の情報？複数の情報ソースによる検証？個別ヒアリング？）",
-    "url": "https://biz-con.plus/skillup-researchprocess/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "』はリサーチのフェーズ（検討着手段階 or 仮説検証段階）によっても変わるべきである点も留意するようにしましょう",
-    "url": "https://biz-con.plus/skillup-researchprocess/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "」を立て、仮説検証のために情報源をどう活用するか、設計するようにしましょう",
-    "url": "https://biz-con.plus/skillup-researchprocess/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "」へアクセスすることで常識や全体像を短期間でつかむことができ、リサーチ対象に対し理解や仮説を持った上で「",
-    "url": "https://biz-con.plus/skillup-researchprocess/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説が外れた際の対応策を考慮",
-    "url": "https://biz-con.plus/skillup-researchprocess/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチに先立って仮説設定の重要性を解きましたが、実際のリサーチにおいて仮説が外れることは珍しくありません",
-    "url": "https://biz-con.plus/skillup-researchprocess/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、結果に偏りが出ないよう客観的な視点を持つこと、そして情報源の信頼性を常に検証する習慣も欠かせません",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、ある航空業界での調査では、新規ルートの収益性を検証するため、定量調査を用いて需要予測を行い、具体的な施策の立案に結びつけました",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチ課題によって使う方法が異なりますが、コンサルタントの多くが「まずはググる」ことから始め、基本的な仮説を立ててからフィールドリサーチを実施するといった手法が一般的です",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説を立てる：MECEフレームワーク活用術",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチの過程で仮説を立てるのは欠かせないステップです",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "MECEは、全体を矛盾なく網羅的に分解する思考法であり、リサーチ結果を効率的にまとめる際にも用いられます",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このアプローチにより、リサーチの初期で考えた仮説が正しいのか、不足する情報は何かを見極めることができます",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さらに、定期的に仮説思考のトレーニングを行い、自分で立てた仮説を検証するプロセスを意識的に繰り返すことで、リサーチスキル全体が強化されます",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このステップで行うべきことは、（１）で特定したリサーチで答える論点に対し、仮説を持ったうえでアプローチ・情報ソース・大まかな時間配分を明確化することです",
-    "url": "https://gaishishukatsu.com/archives/36953",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まず論点については、最初の最初は漠然と情報を集めるのもよいですが、ある程度全体が理解できた後は、自分やチームの仮説を持って臨むと効率が大幅に上がります",
-    "url": "https://gaishishukatsu.com/archives/36953",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「この論点について、文献調査から仮説Aは検証できなかったのですが、仮説Bはいけそうなのでこういうデータを集めます」という伝え方をするのが大事です",
-    "url": "https://gaishishukatsu.com/archives/36953",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチ目的の確認においては、クライアントのニーズに正しく応えるためにも、リサーチを行う背景やリサーチの意味 （＝検証すべき論点）と、求められる情報の粒度を正しく理解する必要があります",
-    "url": "https://www.arts-crafts.co.jp/post-16243/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "からKey Questionをくり抜き、検証し、結果を紙にする能力は当然身についている前提で、",
-    "url": "https://note.com/prism_case/n/n47bfc4066728",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ので、論点仮説！ロジカルシンキング！とか言ってる場合じゃないです",
-    "url": "https://note.com/prism_case/n/n47bfc4066728",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "● 2. 仮説構築の「たたき台」",
-    "url": "https://note.com/tom_mba/n/n0ee295df2f32",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そして最終的には、**「仮説力」「判断力」「提案力」**こそが生き残る力になる",
-    "url": "https://note.com/tom_mba/n/n0ee295df2f32",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【コンサルタントが実践】論点・仮説思考のChatGPT Deep Research活用｜河野将希 | Masaki Kono",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【コンサルタントが実践】論点・仮説思考のChatGPT Deep Research活用",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチフェーズが劇的に短くなることで、より多くの時間を仮説構築や戦略立案へ振り向けられる",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事では、論点・仮説思考を組み合わせたChatGPT Deep Research活用法を、",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このサービスの特徴は、利用者が調べたいテーマを入力すると、数百件単位のオンラインソースを一気に横断的に集め、そのうえでAI自身が情報の真偽を検証しながら要点を整理したレポートを短時間で作成してくれる点にあります",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "レポートの中に参照先のURLや出典がしっかりと示されているため、「この情報はどこから来ているのか？」という検証が極めて容易です",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2. 論点・仮説思考がリサーチを決定づける",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コンサルティングの世界では、調査計画の良し悪しは「どのような論点を立て、どのような仮説を設定するか」によって大きく左右されるといわれます",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "※論点・仮説思考についての詳細は以下の書籍をご覧ください",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説思考 BCG流 問題発見・解決の発想法",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "たとえば「本事業の採算性」という大論点を、より具体的な「必要投資額は何か？」「想定売上高の計画は妥当か？」「市場規模の推定値に信頼性はあるか？」などの小論点に切り分け、イシューツリーの形で可視化していきます",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "論点をただ羅列するのではなく、調査に入る前の段階で「初期仮説」を立てることがさらに重要です",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "初期仮説とは、「おそらく○○であろう」という暫定的な見立てのことで、確証はまだない段階",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "たとえば「市場規模は○○億円以上あり、競合企業が少ないため、事業参入は有望である」という見立ては典型的な初期仮説です",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "初期仮説の狙いは、リサーチを「仮説を確かめるための作業」に変えることにあります",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのため、プロジェクトを通して検証すべき論点や、その中で重要性の高い論点を特定し、適切な調査項目を設定することが重要です",
-    "url": "https://www.arts-crafts.co.jp/post-16243/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説構築、分析フレームの設計",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会員データや購買データを活用したマーケティング施策の実行・効果検証の実務経験（目安：2年以上）",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コンサルティングの現場では、「なぜその課題が起きているのか？」「どんな要因が絡んでいるのか？」といった複雑な問題に対して、仮説を立て、データやファクトを用いて検証する作業が日常的に行われます",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アナリストの業務では、仮説の裏付けとして膨大なデータを扱う場面が多いため、データを的確に扱い、意味のある情報に変換する「分析力」が非常に重要です",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "単なる求人紹介ではなく、将来の目標から逆算して「今どのファームに入るべきか」「どの領域で経験を積むべきか」といったアドバイスが得られるのが大きな特徴です",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アソシエイトは、アナリストの上位職として仮説構築や業務の推進、後輩指導などを担います",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日常業務に追われ、CRM分析や効果検証が後回し",
-    "url": "https://www.nikkei-r.co.jp/service/analytics-consulting",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新規事業の仮説検証において、最適な調査手法とアウトプットの型を知りたい方",
-    "url": "https://www.cross-m.co.jp/report_all/consulting_case-studies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説立案から検証までのプロジェクト推進実績",
-    "url": "https://www.kotora.jp/c/77700-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "弱い仮説が更新されると、情報の並びは関係へ、関係は構造へと組み替わり、構造から判断に耐える示唆**が抽出可能になります",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただ情報を集めるのではなく、“仮説を持って調べ、構造を掴み、答えを導く”のがプロのリサーチ",
-    "url": "https://note.com/hiradairaheipei/n/ne937a31c89c1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本書は、検索・分析・仮説検証のあらゆる工程を“型”として学べる一冊",
-    "url": "https://note.com/hiradairaheipei/n/ne937a31c89c1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まずは効率的に全体像を把握し、仮説を立てた上でより深い分析へと進むのがプロフェッショナルの標準的なアプローチです",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=2aaa958c77f37f6f058a55f3b6c05377",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチの精度を高める鍵は、早い段階で仮説を立てることにあります",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=2aaa958c77f37f6f058a55f3b6c05377",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このアプローチにより、初期の仮説の妥当性を検証し、不足している情報をピンポイントで特定できるようになります",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=2aaa958c77f37f6f058a55f3b6c05377",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "論点が定まったら、その論点に対するそのとき時点の解＝仮説を出します",
-    "url": "https://note.com/ulcons/n/n4e5578444b56",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "先ほどの例で言えば、以下のように調査の論点と仮説を考えながら調査のストーリーを組み立ててていきます",
-    "url": "https://note.com/ulcons/n/n4e5578444b56",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「消費者や地域特性に着目してみたが、他には…」といった具合で論点と仮説を整理しながら目的に沿うように考えていきます",
-    "url": "https://note.com/ulcons/n/n4e5578444b56",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新規事業を題材として、リサーチのタイミングが「着手段階」「仮説立案段階」「仮説検証段階」とあった際、それぞれのタイミングにおけるリサーチの目的、調査の深さの一例を示します",
-    "url": "https://note.com/ulcons/n/n4e5578444b56",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "オンライン公開資料では機械可読な留保等を確認し、各国の国内実施法も照合）・米国Fair Use原則との整合・FCPA/UKBAの国際リサーチ営業規制が論点化します",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "主に、社内データベースとアクセス権ガバナンス、AIによる支援を活用した自動収集・要約・引用検証、SRE／プラットフォームエンジニアリングとの連携（データレイク・LLMOps）、AIエージェントによるDeepResearch・トレンドスキャン、AgentOps、ChatOpsによる調査連絡、データガバナンス（出典管理・利益相反チェック）、外部AIパートナー（DBベンダー）との連携、社員教育（リサーチ手法・統計・AIリテラシー）、ハルシネーション対策プレイブック、KPIモニタリング（調査リードタイム・引用精度・インサイトの活用率）、PDCAサイクル、です",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "- test facilities, controls, sampling, estimates,",
-    "url": "https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "計画を立て、仮説を持って調べることの大切さなど、土台となる考え方が示されます",
-    "url": "https://note.com/shotar/n/nd265c2e98ffa",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ビジネスにおける分析は、基本的にはなんとなくのアタリ（コンサルでは初期仮説と呼ぶそうですが）を検証する、あるいは別の事実を発見するという、仮説と検証の行ったり来たり作業（仮説⇆検証）の繰り返しですが、リサーチも同様で、それによって",
-    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企画のステージはどの段階か？「（検討着手S）全体間の把握」「（仮説立案S）方向性を定める」「（仮説検証S）言いたいことに根拠を与える」",
-    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企画ステージの段階はあれ、求められる成果（リサーチ側のアウトプット）は主張したいストーリー（仮説）とその根拠で構成されて、意思決定の",
-    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "複数のソースに並行してあたる、仮説が外れた場合の対応策を考慮に入れて、リサーチの広さと効率を考える",
-    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "たしかに、仮説は大概外れるものですね",
-    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "プロビット回帰の二段階推定と逆ミルズ比（調査観察データの統計科学 ５章：選択バイアスの補足）",
-    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「効果検証入門：DIDの章」を読んで気になったのでDIDのテクをいろいろ調べて試してみる",
-    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「効果検証入門」：傾向スコアと共変量のバランスについて気になったこと",
-    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まずは効率的に全体像を把握し、仮説を立てた上でより深い分析へと進むのがプロフェッショナルの標準的なアプローチです",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=0383e43acfccccdaf895d4fc10980793",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチの精度を高める鍵は、早い段階で仮説を立てることにあります",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=0383e43acfccccdaf895d4fc10980793",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このアプローチにより、初期の仮説の妥当性を検証し、不足している情報をピンポイントで特定できるようになります",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=0383e43acfccccdaf895d4fc10980793",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "限られた情報からどのようなプロセスでいい示唆や仮説を導き出すか？本書ですべて解説します",
-    "url": "https://kanataw.com/knowledge/all/becoming-a-consultant/consultant-work-technique/information-gathering/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "著書は『「暗記する」戦略思考』『コンサルが「最初の3年間」で学ぶコト』『「答えのないゲーム」を楽しむ思考技術』『フェルミ推定の技術』等多数",
-    "url": "https://kanataw.com/knowledge/all/becoming-a-consultant/consultant-work-technique/information-gathering/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まずは効率的に全体像を把握し、仮説を立てた上でより深い分析へと進むのがプロフェッショナルの標準的なアプローチです",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチの精度を高める鍵は、早い段階で仮説を立てることにあります",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このアプローチにより、初期の仮説の妥当性を検証し、不足している情報をピンポイントで特定できるようになります",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "this step cannot be overestimated. It is the foundation",
-    "url": "https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "“The biggest time killers in consulting research aren’t data collection. They’re unclear objectives, late stakeholder alignment, and underestimated recruitment timelines. Fix those first.”",
-    "url": "https://veridatainsights.com/business-consultant-research-process-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "wherever possible, even rough estimates are better than vague claims",
-    "url": "https://veridatainsights.com/business-consultant-research-process-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Organizations see up to 3.6% productivity gains and meaningful wage growth over five years from expert research engagements. These are empirically measured outcomes, not projected estimates.",
-    "url": "https://veridatainsights.com/business-consultant-research-process-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "多種多様なリサーチ技法について、それぞれの主な使用シーン、テクニック、ルール、注意点がわかりやすくまとまっており、非常に使いやすい一冊と言えるでしょう",
-    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に注目すべきなのは、情報は「調べる」だけでなく「つくる」ことができると指摘している点であり、インタビューやフィールド調査を行う際の注意点まできちんとカバーされているのです",
-    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に、必要な情報が手に入るかどうか実際に調べてみないと分からない場合、1つだけの情報源に絞ってしまうと失敗したときのリスクが高まります",
-    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "いかなる文献にも作者のバイアスが少なからずかかっているので何が事実で、どういった文脈で使われている言葉、数字なのかを見極めることを怠ってはならないのです",
-    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "確かに、経験上アンケートにかいてある内容を鵜呑みにするのは危険であります",
-    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、性別やライフスタイルの異なる消費者を同一グループに混ぜないように注意しよう",
-    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今後、企業支援をする際にもＷｅｂ広告だけでなく経営全体を改善できるコンサルタントでない限り、仕事がＡｉに持っていかれるのは間違いないと思います",
-    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "入社後すぐにアナリストとして任されることが多い「デスクリサーチ」を例に方法と注意すべきポイントを解説",
-    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "次世代のマテハン「物流ロボット」を解説！導入のメリットと注意点",
-    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ため注意が必要です",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "フリーランスコンサルタントの年収・月収比較、職位別の年収相場、稼働率別の年収の違い、年収アップのコツや注意点など業界最前線の実態をわかりやすく解説",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コンサルのアナリストになるデメリットと注意点",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デメリット・注意点",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コンサル業界で成功を収めるためのプレッシャーは時に努力の躍進力になり大きな成長につながりますが、同時にメンタルや体力にダメージを与えるデメリットもあります",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "を主としており、業務委託契約には「委任」「準委任」「請負」など様々な契約種類があり、法律行為の有無や業務責任において違いを知っておかないと違反行為にもなってしまうため注意が必要です",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "記事検索では、記載されるファクトと、それが語られている視点に注意する必要があります",
-    "url": "https://www.arts-crafts.co.jp/post-16243/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "■ダメなリサーチと良いリサーチ",
-    "url": "https://note.com/ulcons/n/n4e5578444b56",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "▶ダメなリサーチ",
-    "url": "https://note.com/ulcons/n/n4e5578444b56",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチは一見簡単に思えるかもしれませんが、実際には奥が深く、注意して進めなければ落とし穴にハマる可能性もあります",
-    "url": "https://note.com/ulcons/n/n4e5578444b56",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ダメな例をいくつか列挙してみました",
-    "url": "https://note.com/ulcons/n/n4e5578444b56",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "＜ダメなリサーチの例＞",
-    "url": "https://note.com/ulcons/n/n4e5578444b56",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査した結果が活かされないようなアウトプットになってしまったり、とにかく検索、検索、検索で何をゴールにしているのか分からなくなったり、目的を忘れて作業に没頭してしまうようなリサーチは、ダメなリサーチと言えます",
-    "url": "https://note.com/ulcons/n/n4e5578444b56",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "論点を明確にすることは、冒頭のダメなリサーチにあるような何のためのリサーチなのか？がはっきりしますし、調査を通して論点を解くためのネタをアウトプットすることがゴールとなります",
-    "url": "https://note.com/ulcons/n/n4e5578444b56",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "設計観点の整理：コンサルリサーチAI導入で陥りやすい3大落とし穴",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "落とし穴1：著作権法×引用要件×AI Deep Researchのハルシネーション管理",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "落とし穴2：グローバルリサーチAI×EU AI Act×越境データ",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "落とし穴3：中国拠点リサーチAI×PIPL/大模型備案×情報管制",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここでは、著作権/引用・グローバルAI×越境データ・中国拠点×PIPLの3観点で落とし穴を整理します",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Deep Research系（OpenAI/Gemini/Perplexity/Grok/Manus）のAI活用の落とし穴は、",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "controls and standards, replication, bias of",
-    "url": "https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "measurement, bias of researcher",
-    "url": "https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "must not only fend off personal influences/biases that",
-    "url": "https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Bias mitigation strategy",
-    "url": "https://researchgold.org/services/research-consultant",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "common market research pitfalls",
-    "url": "https://veridatainsights.com/business-consultant-research-process-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Overcoming Common Pitfalls in Market Research for Consulting Firms – Veridata Insights",
-    "url": "https://veridatainsights.com/business-consultant-research-process-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "4. ChatGPT Deep Research活用による具体的効果と注意点",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実際にChatGPT Deep Researchを使って調査を行う際には、メリットだけでなく、注意すべきポイントも同時に知っておく必要があります",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AIの調査・文章作成能力は驚異的ですが、AIが何らかのバイアスを持っていないとは言えません",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Deep Researchを活用した調査結果を鵜呑みにせず、人間側が「本当にそうか？」とクロスチェック",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここで注意したいのは、この三つが、実はまったく同じレベルの話をしているわけではないということです",
-    "url": "https://note.com/yukiaaaaaaaa/n/neb3367687f28",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "※本サイトに掲載されている記事の内容は、正しく客観的な情報を提供するように務めていますが、情報に誤りがあったり、古くなっていることがあることをご了承願います",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アナリストレポートを活用する際には、いくつかの重要な注意点があります",
-    "url": "https://investmentbridge.co.jp/business/ir-consulting/column/analyst-report/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これらの注意点を押さえることで、",
-    "url": "https://investmentbridge.co.jp/business/ir-consulting/column/analyst-report/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "投資家からレポート内容について質問を受けた場合は、事実関係の確認に留め、レポートの評価や判断には言及しないよう注意が必要です",
-    "url": "https://investmentbridge.co.jp/business/ir-consulting/column/analyst-report/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Save time and resources by preventing common mistakes.",
-    "url": "https://methodoresearch.com/en/services/methodology-consulting/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Increase efficiency and reduce biases in your data collection process.",
-    "url": "https://methodoresearch.com/en/services/methodology-consulting/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Correct biases to improve the accuracy of your data.",
-    "url": "https://methodoresearch.com/en/services/methodology-consulting/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Create and refine survey tools that effectively capture necessary data without bias.",
-    "url": "https://methodoresearch.com/en/services/methodology-consulting/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Avoid biases to reflect true respondent views.",
-    "url": "https://methodoresearch.com/en/services/methodology-consulting/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "お話しした中で町田さん自身も戦略系コンサルティングファームへ転職された経験をお持ちだと知り、この方なら間違い無いだろうと思ってそのまま支援をお願いしました",
-    "url": "https://my-vision.co.jp/success-stories/case216",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "専門性やITスキルもないですし、営業職からコンサル転職がうまくいくというイメージはなかったので、初めはダメ元で話を聞いてみよう程度の気持ちでした",
-    "url": "https://my-vision.co.jp/success-stories/case216",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新卒で学生インターンをしていたベンチャーにそのまま就職しましたが、正直なところ失敗したなと考えており、キャリアの再構築をしたいと考えたからです",
-    "url": "https://my-vision.co.jp/success-stories/case216",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "監査法人から経理部への転職で年収アップは可能？活かせる経験・評価されるポイントと注意点",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "いかなる文献も、著者のバイアスがかかっていることや、情報の網羅性が担保されないリスクがつきまとうため",
-    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "が、ビジネス課題は複雑な要因で成り立っているため、その取り組み例における成功・失敗の結果は再現性がなく、自社の課題にそのままあてはめることができないものがほとんどです",
-    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "プロビット回帰の二段階推定と逆ミルズ比（調査観察データの統計科学 ５章：選択バイアスの補足）",
-    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
-    "pass": 3,
-    "first_seen": "2026-11-05"
    },
    {
-    "quote": "外資系コンサルティングファームBCG（ボストン・コンサルティング・グループ）に新卒で入社した女子 “ファンタジスタ品川” さんが、自分は優秀だと勘違いしているダメダメアソシエイトたちへコンサルタントとして立ち上がるための仕事術を伝授",
-    "url": "https://kanataw.com/knowledge/all/becoming-a-consultant/consultant-work-technique/information-gathering/",
+    "quote": "例えば、新市場の可能性を探る際には「需要側」と「供給側」に分けて整理するなど、全体を構造的に捉えることが重要です",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=7edd64ec1576a83c39898a1df7ef79c2",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "【BCG流】スライド2枚の指示に潜む罠",
-    "url": "https://kanataw.com/knowledge/all/becoming-a-consultant/consultant-work-technique/information-gathering/",
+    "quote": "結果として、アウトプットの説得力は格段に高まります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=7edd64ec1576a83c39898a1df7ef79c2",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -3000,202 +4140,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "SNS・note（X・検索結果の抜粋）": [
-   {
-    "quote": "「外資系コンサルのリサーチ技法」 アクセンチュアの調査系スキルのノ... 「外資系コンサルのリサーチ技法」 アクセンチュアの調査系スキルのノウハウを詰めた本ね。昔読んで体系的にまとまってるから後輩に読ませよ、って思ったやつなのだわ。かなり実務に近いレイヤーで書かれてるので良書よ とあるコンサルタント consultnt_a 0h",
-    "url": "https://x.com/consultnt_a/status/2081151755358728214",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コンサル3〜4年目で成長が止まり昇進できない人の共通点 リサーチ、イ... 一ノ瀬 (@consul_ichinose). 505 likes. コンサル3〜4年目で成長が止まり昇進できない人の共通点 リサーチ、インタビュー、スライド作成などのアナリストワークを完璧にこなせるようになった時点で満足しているパターンです。",
-    "url": "https://x.com/consul_ichinose/status/2056374865817739430",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コンサル入社直後、2時間かけたリサーチ設計が上司に「何これ？もうい... タナカ (@tanaka_aal). 99 views. コンサル入社直後、2時間かけたリサーチ設計が上司に「何これ？もういいよ」と一蹴された。情報を集めて整理する作業は、今やAIが数分でやる。 「求められる役割が変わった」って、あの時の僕が淘汰される側だったってことだと思う。生き残ったのは、英語 ...",
-    "url": "https://x.com/tanaka_aal/status/2043177462478315797",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ポスコンちゃん on X: \"コンサルにいましたが、アナリスト時代の「作... コンサルにいましたが、アナリスト時代の「作業」が好きでした。エクセルの枠にひたすらリサーチした情報を埋めていくだけの作業です。 これをしている間は、顧客からもマネージャーからも詰められることはありません。誰にも邪魔されない深夜のフィーバータイムです。 でも、成長した ...",
-    "url": "https://x.com/posconchan/status/2096461396754219241",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コンサル3〜4年目で成長が止まり昇進できない人の共通点 リサーチ、インタビュー、スライド作成などのアナリストワークを完璧にこなせるようになった ... 一ノ瀬 (@consul_ichinose). 505 likes. コンサル3〜4年目で成長が止まり昇進できない人の共通点 リサーチ、インタビュー、スライド作成などのアナリストワークを完璧にこなせるようになった時点で満足しているパターンです。",
-    "url": "https://x.com/consul_ichinose/status/2056374865817739430",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチ業界で働いている人はコンサルやアナリストを上に見て、自分たちは考えることをやめ、データ提供だけに集中し、クライアントとディスカッション ... リサーチ業界で働いている人はコンサルやアナリストを上に見て、自分たちは考えることをやめ、データ提供だけに集中し、クライアントとディスカッションするのを避ける人よく見るが、それだとリサーチのスキルは上がらないし価値はない。 顧客をよくするための提案をできる限りしよう ...",
-    "url": "https://x.com/carrer0518happy/status/2077627005944869184",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「外資系コンサルのリサーチ技法」 アクセンチュアの調査系スキルのノウハウを詰めた本ね。昔読んで体系的にまとまってるから後輩に読ませよ、って思っ ... 「外資系コンサルのリサーチ技法」 アクセンチュアの調査系スキルのノウハウを詰めた本ね。昔読んで体系的にまとまってるから後輩に読ませよ、って思ったやつなのだわ。かなり実務に近いレイヤーで書かれてるので良書よ とあるコンサルタント consultnt_a 0h",
-    "url": "https://x.com/consultnt_a/status/2081151755358728214",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "SNS・note（note・本文）": [
-   {
-    "quote": "コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法｜30代コンサルマネージャー｜仕事とキャリアのリアル",
-    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法",
-    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "30代コンサルマネージャー｜仕事とキャリアのリアル",
-    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事は、以下のような方に向けて書いています。",
-    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• コンサルタントの「情報収集力」を身につけたい人",
-    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• 企画・提案資料の質を高めたいビジネスパーソン",
-    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• 調査の精度が低く、上司からよく「根拠が弱い」と言われてしまう人",
-    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• 効率よくリサーチし、短い時間で良質なアウトプットを作りたい人",
-    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コンサル流リサーチ業務から資料への落とし方｜O-LLC",
-    "url": "https://note.com/mngt46/n/na1c988382e73",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コンサル流リサーチ業務から資料への落とし方",
-    "url": "https://note.com/mngt46/n/na1c988382e73",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コンサルティング業界では、正確な情報と深い分析がクライアントに対する価値提案の鍵となります。そのため、リサーチ業務はプロジェクトの初期段階で非常に重要な役割を果たします。生成AIにより大量の情報を即座に収集できるようになっても、その重要性は変わりません。",
-    "url": "https://note.com/mngt46/n/na1c988382e73",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチの前提に、そもそも何が課題で、その課題を検証するために何を調べるべきかという「問いの設計」があり、問いを設計するための情報は生成AIの入力ソースであるWeb上には含まれていないものがあるためです。",
-    "url": "https://note.com/mngt46/n/na1c988382e73",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "クライアントの現状分析や競合他社の動向、市場トレンドの把握が可能となり、それが具体的な戦略提案や意思決定に繋がります。",
-    "url": "https://note.com/mngt46/n/na1c988382e73",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここでは、コンサルティングの現場でどのようにして効果的なリサーチを行い、その結果をどのように資料としてまとめるかについて3ステップで超簡単に解説します。",
-    "url": "https://note.com/mngt46/n/na1c988382e73",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここでは、コンサルティングの現場でどのようにして効果的なリサーチを行い、その結果をどのように資料としてまとめるかについて詳しく解説します。",
-    "url": "https://note.com/mngt46/n/na1c988382e73",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コンサルタントが行うリサーチは、ただ闇雲に情報を集めるわけではありません。",
-    "url": "https://note.com/mngt46/n/na1c988382e73",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "外資系コンサルのリサーチ技法｜MIDAS_TOUCH",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第三の視点：弱いアンテナなくして、価値ある示唆なし",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本書は、外資系コンサルティングの現場で培われたリサーチ技法を体系的に整理し、実務に直結する形で提示した一冊です。",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチを単なる情報収集ではなく「思考を構築するための営み」",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "として捉え、目的設定から仮説構築、情報の収集と検証、そして洞察の導出に至るまでの流れを、明確な方法論として描いています。文献調査やインタビュー、統計分析、現地調査など多様な手法を扱いながらも、根底に流れるのは「事実に向き合い、同時に疑う」という知的な姿勢です。つまり本書の本質は、正確な情報を集める技術ではなく、情報をどう読み解き、自分の思考をどう磨くかという「考えるための技法」にあります。情報が過剰な現代において、リサーチとは結論を導く作業ではなく、問いを立て、理解を更新するための知的訓練であるという視点が、いま改めて重要性を持っています。",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "現代のリサーチにおいて重要なのは、方法やツールが進化しても、思考の本質は変わらないという点です。AIの導入によって、情報へのアクセスは格段に容易になりました。キーワードを入力すれば、AIが関連資料を抽出し、要約し、比較分析まで自動で提示します。検索エンジンや生成AIの発展により、「調べる」行為のコストは限りなく低下しました。しかし、情報を得ることが容易になった一方で、その答えの価値はむしろ低下しています。リサーチの成果を左右するのは、情報そのものではなく、それをどう整理し、構造化し、そこからどのような示唆を導くかにあります。情報を“集める”ことと“理解する”ことは、もはや別次元の行為なのです。",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチとは、知識を積み上げることではなく、世界の見方を設計する行為です。情報を並べるだけでは意味がなく、要素間の関係を整理し、文脈を構造化して判断に耐える示唆へと転換する必要があります。データを集めることよりも、データを構造化して“意味を創る”ことこそが、現代のリサーチャーに求められる思考力です。情報の蓄積よりも、解釈と構造化の精度が成果を左右し、リサーチとは情報を増やす行為ではなく、情報に秩序を与える営みと言えます。その出発点にあるのが「問い」と「仮説」です。良い問いはリサーチの構造を定義し、",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "単に「何を知りたいか」を問うのではなく、「なぜそれを知る必要があるのか」を明確にします。",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説は答えではなく分析の出発点であり、思考を導くフレームです。たとえば「市場が拡大している理由は何か」という問いは、やがて「その成長を支える社会構造は何か」「変化を生み出す要因はどこにあるのか」「今後の限界点は何か」と展開し、問いが派生し仮説が修正される過程で構造的な理解が形成されていきます。リサーチは単なる調査ではなく、問いと仮説を軸に構造化と再解釈を繰り返す思考のプロセスそのものなのです。",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "SNS・note（Facebook・検索結果の抜粋）": [
    {
     "quote": "三菱UFJリサーチ&コンサルティング | Minato-ku TokyoISSUE Research & Technologies, Inc（株式会社イシューリサーチアン...Facebook - log in or sign upコンサルのあんなこと、こんなこと - FacebookMasakazu Murai (@masakazu.murai.7) • Facebook, Connect with ...アーツアンドクラフツ株式会社 - 【コンサル流】リサーチにおける考え...分析工房 株式会社 - Facebook Oct 20, 2026 · 三菱UFJリサーチ&コンサルティング, Minato. 1,415 followers · 24 talking about this · 48 were here. 三菱UFJリサーチ&コンサルティング（MURC）の公式Facebookペー",
@@ -3238,888 +4182,16 @@
     "url": "https://www.facebook.com/murc.jp/",
     "pass": 3,
     "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "① 一次情報 → 二次情報 → Web の順に見る",
-    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2. 省庁資料・クレディブルな統計データ",
-    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3. 企業資料（IR・決算・プレスリリース）",
-    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "つまり、コンサルは 「一次情報に近いほど優先度が高い」 と考えます",
-    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1. 公的統計（最強）",
-    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3. 企業決算・公式資料",
-    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• 公的資料 → 業界レポート → 企業資料 → Web の順になっているか？",
-    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ツールとしては、官公庁や民間調査機関の統計資料、科学や学術的なリサーチでは、Google ScholarやStatistaなどのプラットフォームが一般的に利用されます",
-    "url": "https://note.com/mngt46/n/na1c988382e73",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "文献調査やインタビュー、統計分析、現地調査など多様な手法を扱いながらも、根底に流れるのは「事実に向き合い、同時に疑う」という知的な姿勢です",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "数字や統計は、その前提を離れれば単なる断片情報に過ぎず、",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この構造は、有価証券報告書のような公的文書であっても、有名な学術論文であっても、あるいは政府統計のような権威性を帯びた情報であっても同じです",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "弱いアンテナとは、気になった一点に小さな追加調査を重ねる行為――一次情報にあたって定義や範囲を確かめる、統計の原典に戻って母集団や期間を確認する、反対仮説を一度当ててみる、といった**“一歩だけ深掘りする”能動性です",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "数字や統計の背後にある前提を読み解き、誰の視点で作られた情報なのかを問い直す批判性が求められます",
-    "url": "https://note.com/ten365_blog/n/n7c6df28110e7",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "— 外資系うさぎのちょこさん（コンサル社員採用中！） (@ChoConejito)",
-    "url": "https://note.com/choconejito/n/n2c2adb7a2830",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Webや文献、記事、公的調査・統計、民間調査レポートからすでに存在している情報を調べる（さがす）方法",
-    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、採用の際に学生にアンケートを書いてもらい例えば志望度はと質問した際に、少なくとも80%以上で解答してくるはずだ、私であればいったん100%と全部書いてしまうと思います",
-    "url": "https://note.com/lpkojitaku/n/n34c9eadcab84",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "現職では営業と人材採用を統括",
-    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "[コンサルタント積極採用中]",
-    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日本ロジスティクスシステム協会などの公益社団法人の調査報告・統計結果",
-    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "現在のメンバーは6名ですが、事業拡大に伴い採用を強化しています",
-    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "正直にお伝えすると、その背景には採用難易度の高さがあります",
-    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "もし少しでもRally Growthに興味をお持ち頂けたら、以下のリンクよりRally Growthの採用サイトをご覧ください",
-    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【採用サイト】",
-    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "以下のラインナップで採用に関する情報を、かなり詳しく掲載しています",
-    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "以下よりRally Growthの採用や会社概要に関する資料もご請求いただけます",
-    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Rally Growthに関する情報を1ファイルのPDFでまとめて見ることができるため、まとまった資料をご希望の方は以下リンクよりご請求ください",
-    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "＜Rally Growth 会社概要・採用情報資料 イメージ＞",
-    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用企業の方",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "具体的には、市場規模や市場成長性・業界構造・競合他社のプレイヤー調査などを、業界レポート、ニュース記事、統計データ、政府機関の資料などから調査します",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "賃金構造基本統計調査",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "令和5年賃金構造基本統計調査",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "年収1000万円以上の求人多数",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開求人数：紹介可能なポジションは1,000件以上",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "非公開求人数：非公開",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "求人職種・業界",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "求人検索・求人紹介",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "戦略・総合・ITコンサル・M&A求人に強い！",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開求人数：非公開",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "非公開求人数：77%",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その他の出身者への求人ポジションは少ない傾向",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AXIS Agentの最大の魅力は、非公開求人の情報量と質の高さです",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "他社では見つからない求人を紹介してもらえました",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情報の収集には、既存の資料や統計データを活用する【デスクリサーチ】と、実地訪問やインタビューを通じて一次情報を取得する【フィールドリサーチ】の2種類があります",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=eea50c2ad34b60325dde9debc68c11f4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特定のサイト内を検索する「site:」や、ファイル形式を指定する「filetype:pdf」などのテクニックは、必要な情報へ最短距離でアクセスするために極めて有効です",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=eea50c2ad34b60325dde9debc68c11f4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "資料作成においては、結論を最初に提示し、それを裏付ける根拠を配置する「ピラミッド構造」の採用が基本となります",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=eea50c2ad34b60325dde9debc68c11f4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "・非公開専門領域の求人へのアクセス",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=eea50c2ad34b60325dde9debc68c11f4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用トレンド、スキルセット、転職の成否事例まで、働く人・採用する企業に役立つ専門情報を発信します",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=eea50c2ad34b60325dde9debc68c11f4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統計・レポート",
-    "url": "https://biz-con.plus/skillup-researchprocess/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公的（行政・研究機関）や民間（調査会社）の報告による情報収集",
-    "url": "https://biz-con.plus/skillup-researchprocess/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "」からリサーチを始め、その後統計・レポートやインタビューなどの「",
-    "url": "https://biz-con.plus/skillup-researchprocess/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのため、例えば統計・レポートを用いる場合にも",
-    "url": "https://biz-con.plus/skillup-researchprocess/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統計検定2級を独学攻略！勉強法が確立しているため合格しやすい試験",
-    "url": "https://biz-con.plus/skillup-researchprocess/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データサイエンスの勉強を進めていく中で、その中核を担うデータサイエンス力を伸ばすためぜひ身に着けたい数学力、特に統計スキル",
-    "url": "https://biz-con.plus/skillup-researchprocess/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この分野を勉強するのであればそのロードマップとして統計学に関する資格を取得したい！そんなあなたに統計検定の徹底攻略を紹介します",
-    "url": "https://biz-con.plus/skillup-researchprocess/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "求人情報を探す",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "三菱UFJリサーチ＆コンサルティング株式会社の転職・採用情報",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチとは、インターネット上の情報、既存の市場レポート、統計データ、業界ニュースなどを活用する方法で、資料や公開データなどの二次情報をもとにして分析を進めます",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一方、フィールドリサーチは、現地訪問やエキスパートへのインタビュー、またはアンケート調査によるデータ収集など、一次情報を直接取得する方法です",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "外資系コンサルタントがよく活用するのは、ピボットテーブルや統計分析ツール、さらにはPythonやRなどのプログラミングスキルを取り入れた高度な分析です",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、特定のファイル形式を探したい場合には「filetype:pdf キーワード」を活用します",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コンサルタントが典型的に採用するプロセスを例にすると、大きく「",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査対象は学術論文や経済紙の記事、政府の統計データや業界団体のレポートなど多岐にわたります",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここでポイントとなるのが引用元情報で、レポート内に「政府統計局○○年版」「経済誌××の特集記事」などのリンクや出典が明示されるため、後から利用者が自分で「この根拠は本当か？」と確かめることが可能です",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "- 政府統計や業界団体のデータ、有名経済紙の記事、学術論文などできる限り信頼性の高い情報を参考にしてください",
-    "url": "https://note.com/masakikono/n/n21d47d81468f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社全体の人員構成は、そうした案件の組み替えが積み重なり、さらに採用の判断などが加わった結果として変わっていきます",
-    "url": "https://note.com/yukiaaaaaaaa/n/neb3367687f28",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Deloitteは国内の3法人を統合し、1万人規模の国内最大級のファームとなりましたが、その統合を率いるトップは、新卒採用について「厳選の時代へ」と述べ、「スケールで勝負するのは賢くない」とも語っています",
-    "url": "https://note.com/yukiaaaaaaaa/n/neb3367687f28",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "[7] 「【デロイト2トップが激白！前編】3社統合で『1万人規模』の巨大コンサル誕生！新卒採用は“厳選”の時代へ」ダイヤモンド・オンライン",
-    "url": "https://note.com/yukiaaaaaaaa/n/neb3367687f28",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "面接で見られるポイント、企業ごとの採用背景、求める人物像を構造的に分析",
-    "url": "https://note.com/consulting_lab15",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "面接で見られるポイント、企業ごとの採用背景、求める…",
-    "url": "https://note.com/consulting_lab15",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "マッキンゼーの採用背景を読み解く——なぜ今、この人材が求められているのか",
-    "url": "https://note.com/consulting_lab15",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "MUFGグループのシンクタンクで働くとは？MURCの組織文化から採用戦略を読む",
-    "url": "https://note.com/consulting_lab15",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "東京・名古屋・大阪の3拠点体制からわかる、三菱UFJリサーチ&コンサルティングの事業構造と採用背景",
-    "url": "https://note.com/consulting_lab15",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "三菱UFJリサーチ&コンサルティングが中途採用で求める人物像とは？「ベンチャー気質」が評価される理由",
-    "url": "https://note.com/consulting_lab15",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "とは、フリーランスコンサルタント向けに業務委託案件の求人を紹介してくれる",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "20代・30代・40代・50代などの年齢により採用ポジションや転職難易度、転職の対策方法が大きく異なるため、自身の強みを踏まえた準備が重要です",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コンサルティング業界ではITコンサルを中心にエンジニア出身者の採用が増えており、",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "民間求人サイトの有効活用方法等を検証するための実証調査",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "基幹統計として初めて把握したフリーランスの働き方",
-    "url": "https://consulfree.com/blog/consultant-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "・有価証券報告書等を通して、「調査に必要な前提知識」をインプットすることが重要です",
-    "url": "https://www.arts-crafts.co.jp/post-16243/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索・文献検索・記事検索や公的・民間調査レポートを活用する際は、以下のようなことに留意することが有用です",
-    "url": "https://www.arts-crafts.co.jp/post-16243/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公的調査や民間調査レポートは、素早く市場の全体像を把握する際に有用です",
-    "url": "https://www.arts-crafts.co.jp/post-16243/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "​独自ネットワークに​よる​高待遇の​非公開求人を​豊富に​保有し、​大手コンサルティングファームや​事業会社の​経営企画・DX職など、​ハイクラスポジションを​ご紹介します",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "続いて、コンサルタントのアナリスト・アソシエイト・シニアアソシエイトの年収目安を、求人例とともに紹介します",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アナリストの求人例①クラウドソーシングサービス会社",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アナリストの求人例②大手通信会社ユーザー系SIer",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アソシエイトの求人例①大手総合商社グループ",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アソシエイトの求人例②財務・会計コンサルティングファーム",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "シニアアナリストの求人例①資本市場コンサルティング会社",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "シニアアナリストの求人例②総合系コンサルティングファーム",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "クラウドソーシング事業を展開する企業で、戦略立案から新規事業まで幅広く携われるアナリストポジションの求人です",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "求人ボックス公式サイト（2025年6月16日時点）(記事作成時点の情報のため現在は募集終了している可能性があります)",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "具体的には、Excelでの関数・ピボットテーブルの活用、BIツール（Tableau、Power BIなど）による可視化、統計的な知見を活かした数値の読み解きなど、実務で求められるスキルは多岐にわたります",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AI・機械学習を取り入れたデジタル分析や統計的予測のスキルは希少価値が高く、今後の市場において不可欠となるでしょう",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アナリスト職の求人にも強いおすすめエージェント",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "独自ルートによる非公開求人も多く、外資系ファームの紹介にも対応",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "戦略ファームやIT系コンサルファームにおける未経験可の求人",
-    "url": "https://consulgo.jp/article/consulting-analyst/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "PEファンド、ベンチャーキャピタル(VC)の最新求人情報",
-    "url": "https://www.kotora.jp/c/77700-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "簡単無料登録で、各業界を熟知したキャリアコンサルタントが非公開求人など多数のハイクラス求人からあなたの最新のポジションを紹介します",
-    "url": "https://www.kotora.jp/c/77700-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この定義には明確な法的基準がないものの、企業や求人サイトに […]",
-    "url": "https://www.kotora.jp/c/77700-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "キャリア相談（無料）を受ける、経験にマッチした求人案件を受信する",
-    "url": "https://www.kotora.jp/c/77700-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "求人企業とコトラのコンサルタントによるインタビュー記事を読む",
-    "url": "https://www.kotora.jp/c/77700-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "専門コンサルタントが、開発・ファンド・売買等の非公開求人をご案内します",
-    "url": "https://www.kotora.jp/c/77700-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "プロフェッショナルのための求人情報/業界情報を配信",
-    "url": "https://www.kotora.jp/c/77700-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アンケート設計やソーシャルリスニングなどの技法が解説されており、ユーザーの声や市場の動向を一次情報から掘り出す力こそが、差を生むスキルとなる",
-    "url": "https://note.com/hiradairaheipei/n/ne937a31c89c1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この思考法を採用することで、表面的な課題にとどまることなく、クライアントの意思決定を支援するための深い洞察を提供することができます",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最初に結論を提示し、その後に結論を裏付ける根拠やデータを示す「ピラミッド構造」を採用することで、見た人がすぐに全体像を把握できるようにします",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "簡単無料登録で、各業界を熟知したキャリアコンサルタントが非公開求人など多数のハイクラス求人からあなたの最新のポジションを紹介します",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "理系の強み採用！理系院卒がコンサル業界で求められる理由",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "キャリア相談（無料）を受ける、経験にマッチした求人案件を受信する",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "求人企業とコトラのコンサルタントによるインタビュー記事を読む",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "専門コンサルタントが、開発・ファンド・売買等の非公開求人をご案内します",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "プロフェッショナルのための求人情報/業界情報を配信",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情報の収集には、既存の資料や統計データを活用する【デスクリサーチ】と、実地訪問やインタビューを通じて一次情報を取得する【フィールドリサーチ】の2種類があります",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=2aaa958c77f37f6f058a55f3b6c05377",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特定のサイト内を検索する「site:」や、ファイル形式を指定する「filetype:pdf」などのテクニックは、必要な情報へ最短距離でアクセスするために極めて有効です",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=2aaa958c77f37f6f058a55f3b6c05377",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "資料作成においては、結論を最初に提示し、それを裏付ける根拠を配置する「ピラミッド構造」の採用が基本となります",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=2aaa958c77f37f6f058a55f3b6c05377",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用トレンド、スキルセット、転職の成否事例まで、働く人・採用する企業に役立つ専門情報を発信します",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=2aaa958c77f37f6f058a55f3b6c05377",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統計局の大量データを取得し、ある時点のデータでサマリしてグラフ化しただけ",
-    "url": "https://note.com/ulcons/n/n4e5578444b56",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界レポート、政府統計、インタビューの実施など",
-    "url": "https://note.com/ulcons/n/n4e5578444b56",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一次情報を取得するために足を動かし、実際の現場を観察するのも一つの手です",
-    "url": "https://note.com/ulcons/n/n4e5578444b56",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "＜公的調査レポート・統計データ・情報取得＞",
-    "url": "https://note.com/ulcons/n/n4e5578444b56",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "・総務省統計局トップページ（総務省統計局）",
-    "url": "https://note.com/ulcons/n/n4e5578444b56",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "・e-Stat 政府統計の総合窓口（総務省/独立行政法人統計センター）",
-    "url": "https://note.com/ulcons/n/n4e5578444b56",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://www.e-stat.go.jp/",
-    "url": "https://note.com/ulcons/n/n4e5578444b56",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://dashboard.e-stat.go.jp/",
-    "url": "https://note.com/ulcons/n/n4e5578444b56",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統計分析手法をはじめとするマーケティングリサーチ用語や、データマーケティング用語、デジタルデータマーケティング用語について広く解説しています",
-    "url": "https://www.cross-m.co.jp/report_all/consulting_case-studies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：各種データベース（Statista、Bloomberg、各省庁統計等）のライセンス管理と活用ガイドの整備",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：政府統計、業界団体データ、企業IR情報、市場調査レポートからの定量データの収集",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：回帰分析、相関分析、時系列分析等の統計的手法を用いたデータ分析",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析結果の解釈（統計的に有意でも、ビジネス上の意味があるかの判断）",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "①Web検索、②文献検索（書籍）、③記事検索（ニュース記事）、④公的調査・統計データ、⑤民間の調査レポート",
-    "url": "https://note.com/shotar/n/nd265c2e98ffa",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そこでさっそく次のブログ記事ネタ探しでは**「30分で必要な統計データ3つ見つける」**とゴールと制限時間を決めて検索してみました",
-    "url": "https://note.com/shotar/n/nd265c2e98ffa",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "・採用人事戦略、 […]",
-    "url": "https://www.kotora.jp/c/50381/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "プロビット回帰の二段階推定と逆ミルズ比（調査観察データの統計科学 ５章：選択バイアスの補足）",
-    "url": "https://shinomiya-note.hatenablog.com/entry/2021/01/17/192749",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情報の収集には、既存の資料や統計データを活用する【デスクリサーチ】と、実地訪問やインタビューを通じて一次情報を取得する【フィールドリサーチ】の2種類があります",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=0383e43acfccccdaf895d4fc10980793",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特定のサイト内を検索する「site:」や、ファイル形式を指定する「filetype:pdf」などのテクニックは、必要な情報へ最短距離でアクセスするために極めて有効です",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=0383e43acfccccdaf895d4fc10980793",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "資料作成においては、結論を最初に提示し、それを裏付ける根拠を配置する「ピラミッド構造」の採用が基本となります",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=0383e43acfccccdaf895d4fc10980793",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "競合が今後海外の人材をどれくらい採用するのか知りたかったのか？",
-    "url": "https://kanataw.com/knowledge/all/becoming-a-consultant/consultant-work-technique/information-gathering/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コンサル転職の最適な時期はいつ？求人が多い季節や年代別の成功戦略を解説！",
-    "url": "https://kanataw.com/knowledge/all/becoming-a-consultant/consultant-work-technique/information-gathering/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情報の収集には、既存の資料や統計データを活用する【デスクリサーチ】と、実地訪問やインタビューを通じて一次情報を取得する【フィールドリサーチ】の2種類があります",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特定のサイト内を検索する「site:」や、ファイル形式を指定する「filetype:pdf」などのテクニックは、必要な情報へ最短距離でアクセスするために極めて有効です",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "資料作成においては、結論を最初に提示し、それを裏付ける根拠を配置する「ピラミッド構造」の採用が基本となります",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：競合の特許出願動向、技術開発の方向性の調査",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一次情報の獲得（守秘義務・営業秘密・インサイダー情報規制を遵守した範囲でのエキスパートインタビュー）",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：AIが競合企業のニュース・IR情報・特許出願を自動巡回しアラート",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：AIが官報・規制当局の公表資料を自動スキャンし、関連改正を検出",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
    },
    {
-    "quote": "主に、業界分析（市場規模・成長性・競合構造）、ベンチマーク調査（先進事例・KPI比較）、規制動向（政府・業界団体）、企業調査（M&A・財務・組織）、データ収集（公開データ・有料DB・スクレイピング）、データ加工・統計分析、AIによる支援を活用したDeepResearch、AgentOps、ChatOpsによるリサーチャー連絡、データガバナンス（情報の鮮度・出典管理）、外部AIパートナー連携、社員教育、KPIモニタリング、などです",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "quote": "コンサルのあんなこと、こんなこと - FacebookISSUE Research & Technologies, Inc（株式会社イシューリサーチアン...アーツアンドクラフツ株式会社 - 【コンサル流】リサーチにおける考え...Masakazu Murai (@masakazu.murai.7) • Facebook, Connect with ...三菱UFJリサーチ&コンサルティング | Minato-ku Tokyo分析工房 株式会社 - FacebookJapan Research Consultants Co., Ltd. 株式会社ジャパンリサーチコン... 【Mupがレビューで本当に見ている3つのポイント】 徹底的なフィードバックで成長につなげるコンサル業 界。 Mupが見ているのは「思考力」や「ドキュメンテーシ ョン」といったスキルだけではありません。レビュー の本質を知",
+    "url": "https://www.facebook.com/consul.global/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "主に、社内データベースとアクセス権ガバナンス、AIによる支援を活用した自動収集・要約・引用検証、SRE／プラットフォームエンジニアリングとの連携（データレイク・LLMOps）、AIエージェントによるDeepResearch・トレンドスキャン、AgentOps、ChatOpsによる調査連絡、データガバナンス（出典管理・利益相反チェック）、外部AIパートナー（DBベンダー）との連携、社員教育（リサーチ手法・統計・AIリテラシー）、ハルシネーション対策プレイブック、KPIモニタリング（調査リードタイム・引用精度・インサイトの活用率）、PDCAサイクル、です",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "quote": "三菱UFJリサーチ&コンサルティング | Minato-ku Tokyo分析工房 株式会社 - FacebookJapan Research Consultants Co., Ltd. 株式会社ジャパンリサーチコン... Oct 20, 2026 · 三菱UFJリサーチ&コンサルティング, Minato. 1,415 followers · 24 talking about this · 48 were here. 三菱UFJリサーチ&コンサルティング（MURC）の公式Facebookページです。... Apr 23, 2026 · 分析工房 株式会社. 64 likes. 有機ELディスプレイ関係分野の事業企画、業界調査などのコンサルティン Mar 15, 2011 · Oki Katase Japan Research Consultants Co., Ltd. 株式会社ジャパンリサー",
+    "url": "https://www.facebook.com/murc.jp/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -4169,17 +4241,37 @@
     "method": "http"
    },
    {
+    "url": "https://consulfree.com/blog/consultant-analyst/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.kotora.jp/c/50381/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.consulnote.com/about/",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=7edd64ec1576a83c39898a1df7ef79c2",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
+    "url": "https://biz-con.plus/skillup-researchprocess/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gaishishukatsu.com/archives/36953",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ulcons/n/n4e5578444b56",
     "status": "ok",
     "method": "http"
    },
@@ -4194,12 +4286,7 @@
     "method": "http"
    },
    {
-    "url": "https://biz-con.plus/skillup-researchprocess/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "url": "https://my-vision.co.jp/articles/consul-materials",
     "status": "ok",
     "method": "http"
    },
@@ -4224,12 +4311,12 @@
     "method": "http"
    },
    {
-    "url": "https://research10x.com/",
+    "url": "https://researchgold.org/services/research-consultant",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://nmsconsulting.com/consulting-frameworks-and-methodologies/",
+    "url": "https://www.centerforresearchmethods.com/",
     "status": "ok",
     "method": "http"
    },
@@ -4252,6 +4339,21 @@
     "url": "https://note.com/strategy_x/n/n208ff7d2043d",
     "status": "ok",
     "method": "browser"
+   },
+   {
+    "url": "https://x.com/consultnt_a/status/2081151755358728214",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/consul_ichinose/status/2056374865817739430",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tanaka_aal/status/2043177462478315797",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
     "url": "https://www.linkedin.com/posts/yusuke-abiko_コンサルのリサーチ実務どうやるの4つのステップを実例交え解説-rally-activity-7276882349974241280-yshN",
@@ -4279,12 +4381,22 @@
     "method": ""
    },
    {
+    "url": "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mngt46/n/na1c988382e73",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "https://x.com/posconchan/status/2096461396754219241",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://ke.linkedin.com/in/damaris-muthoni-27601919a",
+    "url": "https://za.linkedin.com/in/riette-eiselen-b7687514a",
     "status": "robots_disallowed",
     "method": ""
    },
@@ -4315,14 +4427,22 @@
     "https://note.rallygrowth.co.jp/recommend/consultant-research/",
     "https://note.com/mngt46/n/na1c988382e73",
     "https://www.consulnote.com/",
+    "https://consulfree.com/blog/consultant-analyst/",
     "https://www.kotora.jp/c/50381/",
-    "https://www.consulnote.com/about/",
     "https://note.kotora.jp/n/nc550a05c2c32"
    ]
   },
   {
    "query": "コンサル・アナリストのリサーチの型 やり方",
-   "results": []
+   "results": [
+    "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "https://biz-con.plus/skillup-researchprocess/",
+    "https://www.kotora.jp/c/50381/",
+    "https://gaishishukatsu.com/archives/36953",
+    "https://www.arts-crafts.co.jp/post-16243/",
+    "https://note.com/ulcons/n/n4e5578444b56"
+   ]
   },
   {
    "query": "コンサル・アナリストのリサーチの型 事例",
@@ -4333,7 +4453,8 @@
     "https://www.kotora.jp/c/50381/",
     "https://renue.co.jp/posts/consulting-research-department-guide",
     "https://biz-con.plus/skillup-researchprocess/",
-    "https://www.arts-crafts.co.jp/post-16243/"
+    "https://www.arts-crafts.co.jp/post-16243/",
+    "https://my-vision.co.jp/articles/consul-materials"
    ]
   },
   {
@@ -4343,9 +4464,9 @@
     "https://research10x.com/research-methodology-consulting-services/",
     "https://veridatainsights.com/business-consultant-research-process-guide/",
     "https://www.researchgate.net/publication/319679335_Applying_Research_Methods_in_Strategy_Consulting",
-    "https://research10x.com/",
-    "https://nmsconsulting.com/consulting-frameworks-and-methodologies/",
-    "https://fourweekmba.com/consulting-frameworks/"
+    "https://researchgold.org/services/research-consultant",
+    "https://www.centerforresearchmethods.com/",
+    "https://nmsconsulting.com/consulting-frameworks-and-methodologies/"
    ]
   },
   {
@@ -4355,14 +4476,24 @@
     "https://note.com/mngt46/n/na1c988382e73",
     "https://note.com/ten365_blog/n/n7c6df28110e7",
     "https://note.com/strategy_x/n/n208ff7d2043d",
-    "https://note.com/hiradairaheipei/n/na29c20d99741",
-    "https://note.com/lpkojitaku/n/n34c9eadcab84",
-    "https://note.com/ulcons/n/n4e5578444b56"
+    "https://note.com/ndot_man/n/nd21767274f52",
+    "https://note.com/choconejito/n/n2c2adb7a2830",
+    "https://note.com/ulcons/n/n4e5578444b56",
+    "https://note.com/hiradairaheipei/n/ne937a31c89c1",
+    "https://note.com/lpkojitaku/n/n34c9eadcab84"
    ]
   },
   {
    "query": "site:x.com コンサル・アナリストのリサーチの型",
-   "results": []
+   "results": [
+    "https://x.com/consultnt_a/status/2081151755358728214",
+    "https://x.com/sub_consultant/status/2096559037521555786",
+    "https://x.com/consul_ichinose/status/2056374865817739430",
+    "https://x.com/tanaka_aal/status/2043177462478315797",
+    "https://x.com/carrer0518happy/status/2077627005944869184",
+    "https://x.com/tousigatizei/status/2077617314401566991",
+    "https://x.com/sub_consultant/status/2096559296016490968"
+   ]
   },
   {
    "query": "site:linkedin.com コンサル・アナリストのリサーチの型",
@@ -4381,28 +4512,35 @@
    "results": [
     "https://www.facebook.com/consul.global/",
     "https://www.facebook.com/ArtsAndCraftsCompany/posts/コンサル流リサーチにおける考え方httpswwwarts-craftscojppost-16243目次リサーチの重要性リサーチ方法デスクリサーチの紹介-①リサー/522319403235838/",
-    "https://www.facebook.com/murc.jp/",
-    "https://www.facebook.com/profile.php/?id=100086601451982",
     "https://www.facebook.com/masakazu.murai.7/",
+    "https://www.facebook.com/murc.jp/",
     "https://www.facebook.com/p/分析工房-株式会社-100063625537841/",
+    "https://www.facebook.com/p/Japan-Research-Consultants-Co-Ltd-株式会社ジャパンリサーチコンサルタント-100081932067519/",
     "https://www.facebook.com/issueinc2021/"
    ]
   },
   {
    "query": "コンサル・アナリストのリサーチの型 note 社長",
-   "results": []
+   "results": [
+    "https://note.com/gomaengineer/n/nf0782f7d7838",
+    "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "https://note.com/mngt46/n/na1c988382e73",
+    "https://www.kotora.jp/c/50381/",
+    "https://consulfree.com/blog/consultant-analyst/",
+    "https://note.kotora.jp/n/n5359c32a1d4b",
+    "https://www.consulnote.com/about/"
+   ]
   },
   {
    "query": "コンサル・アナリストのリサーチの型 X 投稿",
    "results": [
     "https://x.com/posconchan/status/2096461396754219241",
+    "https://note.rallygrowth.co.jp/recommend/consultant-research/",
     "https://x.com/Xxx_note_xx/article/2072667314294837624",
     "https://note.com/mainyannn/n/n2d36ae94f963",
+    "https://note.com/satorid2c/n/n75f64631ad44",
     "https://profit-sns.jp/column/x-materials-research/",
-    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/",
-    "https://research.thinkmove.jp/",
-    "https://www.comnico.jp/we-love-social/how-to-use-twitter-analytics",
-    "https://note.rallygrowth.co.jp/recommend/consultant-research/"
+    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/"
    ]
   },
   {
@@ -4410,10 +4548,9 @@
    "results": [
     "https://www.linkedin.com/advice/0/how-can-you-conduct-effective-research-consultant-consulting-advice",
     "https://www.linkedin.com/advice/1/what-most-effective-tools-methods-conducting-3c",
-    "https://ke.linkedin.com/in/damaris-muthoni-27601919a",
-    "https://in.linkedin.com/in/crguna",
     "https://za.linkedin.com/in/riette-eiselen-b7687514a",
-    "https://ar.linkedin.com/in/floreskanter/en",
+    "https://in.linkedin.com/in/crguna",
+    "https://ke.linkedin.com/in/damaris-muthoni-27601919a",
     "https://uk.linkedin.com/in/adam-smith-197b89224",
     "https://jm.linkedin.com/in/sherona-lewis-99489049"
    ]
@@ -4421,188 +4558,30 @@
  ],
  "missing": {},
  "new_this_run": {
-  "実例": [
-   {
-    "quote": "例えば、新市場の可能性を探る際には「需要側」と「供給側」に分けて整理するなど、全体を構造的に捉えることが重要です",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "結果として、アウトプットの説得力は格段に高まります",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査結果の分析効率化ダッシュボード構築支援",
-    "url": "https://www.cross-m.co.jp/report_all/consulting_case-studies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査結果は、ニーズ・アイディア検索や市場把握の資料としてご活用ください",
-    "url": "https://www.cross-m.co.jp/report_all/consulting_case-studies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（公開情報の調査）、ベンチマーク調査（先進事例の比較分析）、規制動向の追跡、定量データの収集・加工まで、プロジェクトの「知的インフラ」を提供する専門チームです",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：調査結果を構造化した業界分析レポートの作成",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：分析結果のグラフ・チャート・ダッシュボードの作成",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析結果の解釈（統計的に有意でも、ビジネス上の意味があるかの判断）",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：LLMが分析結果からレポートの構成・本文のドラフトを自動生成",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界分析・市場調査、ベンチマーク調査（先進事例の比較分析）、規制動向レポート、データ収集・加工・分析、競合分析・企業調査の5つが主要業務です",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "主に、業界分析（市場規模・成長性・競合構造）、ベンチマーク調査（先進事例・KPI比較）、規制動向（政府・業界団体）、企業調査（M&A・財務・組織）、データ収集（公開データ・有料DB・スクレイピング）、データ加工・統計分析、AIによる支援を活用したDeepResearch、AgentOps、ChatOpsによるリサーチャー連絡、データガバナンス（情報の鮮度・出典管理）、外部AIパートナー連携、社員教育、KPIモニタリング、などです",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "しかし、フレームワークが問題解決の『答え』であるという思想を持ち、上記のような切り口で分類した結果、『So What?（だから何？）』となり、フレームワークの有効性を疑う方も少なくありません",
-    "url": "https://biz-con.plus/skillup-researchprocess/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチは経営戦略に近しい場に従事する戦略コンサルタントの主業務の一つであり、市場環境の調査・競合サービスの調査・最新事例の調査を行うことで、戦略策定に必要なファクトを整理しています",
-    "url": "https://www.arts-crafts.co.jp/post-16243/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なので、今回は、戦略コンサルタントが実施する「リサーチの基本やまとめ方」について、実例を交えて紹介しようと思います",
-    "url": "https://www.arts-crafts.co.jp/post-16243/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上記にも述べた通り、戦略策定のためには「市場環境の調査・競合サービスの調査・最新事例の調査」等を行います",
-    "url": "https://www.arts-crafts.co.jp/post-16243/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "突き合わせ・推定": [
    {
     "quote": "まずは効率的に全体像を把握し、仮説を立てた上でより深い分析へと進むのがプロフェッショナルの標準的なアプローチです",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=7edd64ec1576a83c39898a1df7ef79c2",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
     "quote": "リサーチの精度を高める鍵は、早い段階で仮説を立てることにあります",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=7edd64ec1576a83c39898a1df7ef79c2",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
     "quote": "このアプローチにより、初期の仮説の妥当性を検証し、不足している情報をピンポイントで特定できるようになります",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "this step cannot be overestimated. It is the foundation",
-    "url": "https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "“The biggest time killers in consulting research aren’t data collection. They’re unclear objectives, late stakeholder alignment, and underestimated recruitment timelines. Fix those first.”",
-    "url": "https://veridatainsights.com/business-consultant-research-process-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "wherever possible, even rough estimates are better than vague claims",
-    "url": "https://veridatainsights.com/business-consultant-research-process-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Organizations see up to 3.6% productivity gains and meaningful wage growth over five years from expert research engagements. These are empirically measured outcomes, not projected estimates.",
-    "url": "https://veridatainsights.com/business-consultant-research-process-guide/",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=7edd64ec1576a83c39898a1df7ef79c2",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ],
-  "手順・やり方": [
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
    {
-    "quote": "その際、MECE（漏れなく、ダブりなく）のフレームワークを活用して情報を網羅的に分解することで、論理的な抜け漏れを防ぎ、調査対象を明確に特定できます",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "海外向け セルフ型アンケートツール「Global QiQUMO」",
-    "url": "https://www.cross-m.co.jp/report_all/consulting_case-studies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新規事業の仮説検証において、最適な調査手法とアウトプットの型を知りたい方",
-    "url": "https://www.cross-m.co.jp/report_all/consulting_case-studies",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "落とし穴3：中国拠点リサーチAI×PIPL/大模型備案×情報管制",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ペーパーレス化の進め方｜中小企業のための導入ステップとツール選定ガイド【2026年版】",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AI導入ROI測定とは？生成AIの投資対効果・PoC評価フレームワーク・企業のAI価値実証ガイド【2026年版】",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "renueは自社開発のAIツールを自社運用する「自社実証型」AIコンサルティングファームです",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "renueのAI支援実績、コンサルティングの方針や進め方をご紹介します",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "quote": "Riette Eiselen - Research Methodology and Analysis Consultant ...Gunasekar Rajaratnam - Research Methodology Consultant | LinkedInDamaris Muthoni - Research Consultant | Data Analyst ...Adam Smith - Research & Insight Consultant | Mixed Methods ...Sherona Lewis - Independent Research Consultant | LinkedIn Research Methodology and Analysis Consultant · I have 30+ years experience in academia: teach",
+    "url": "https://za.linkedin.com/in/riette-eiselen-b7687514a",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -4610,60 +4589,60 @@
   "一次情報の探し方": [
    {
     "quote": "情報の収集には、既存の資料や統計データを活用する【デスクリサーチ】と、実地訪問やインタビューを通じて一次情報を取得する【フィールドリサーチ】の2種類があります",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=7edd64ec1576a83c39898a1df7ef79c2",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
     "quote": "特定のサイト内を検索する「site:」や、ファイル形式を指定する「filetype:pdf」などのテクニックは、必要な情報へ最短距離でアクセスするために極めて有効です",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=7edd64ec1576a83c39898a1df7ef79c2",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
     "quote": "資料作成においては、結論を最初に提示し、それを裏付ける根拠を配置する「ピラミッド構造」の採用が基本となります",
-    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=288060b915e08b566c4373d5b54c6c40",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=7edd64ec1576a83c39898a1df7ef79c2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "しかし、そもそも『英語を活かせる仕事』とは何か、考えたことはあるでしょうか？英語を活かせる仕事にはどんなパターンがあるか、またそれぞれに陥りがちな注意点について説明します",
+    "url": "https://biz-con.plus/skillup-researchprocess/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "例えば、新市場の可能性を探る際には「需要側」と「供給側」に分けて整理するなど、全体を構造的に捉えることが重要です",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=7edd64ec1576a83c39898a1df7ef79c2",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "：競合の特許出願動向、技術開発の方向性の調査",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "quote": "結果として、アウトプットの説得力は格段に高まります",
+    "url": "https://note.kotora.jp/n/nc550a05c2c32?gs=7edd64ec1576a83c39898a1df7ef79c2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "コンサルのあんなこと、こんなこと - FacebookISSUE Research & Technologies, Inc（株式会社イシューリサーチアン...アーツアンドクラフツ株式会社 - 【コンサル流】リサーチにおける考え...Masakazu Murai (@masakazu.murai.7) • Facebook, Connect with ...三菱UFJリサーチ&コンサルティング | Minato-ku Tokyo分析工房 株式会社 - FacebookJapan Research Consultants Co., Ltd. 株式会社ジャパンリサーチコン... 【Mupがレビューで本当に見ている3つのポイント】 徹底的なフィードバックで成長につなげるコンサル業 界。 Mupが見ているのは「思考力」や「ドキュメンテーシ ョン」といったスキルだけではありません。レビュー の本質を知",
+    "url": "https://www.facebook.com/consul.global/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "一次情報の獲得（守秘義務・営業秘密・インサイダー情報規制を遵守した範囲でのエキスパートインタビュー）",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：AIが競合企業のニュース・IR情報・特許出願を自動巡回しアラート",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：AIが官報・規制当局の公表資料を自動スキャンし、関連改正を検出",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "主に、業界分析（市場規模・成長性・競合構造）、ベンチマーク調査（先進事例・KPI比較）、規制動向（政府・業界団体）、企業調査（M&A・財務・組織）、データ収集（公開データ・有料DB・スクレイピング）、データ加工・統計分析、AIによる支援を活用したDeepResearch、AgentOps、ChatOpsによるリサーチャー連絡、データガバナンス（情報の鮮度・出典管理）、外部AIパートナー連携、社員教育、KPIモニタリング、などです",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "主に、社内データベースとアクセス権ガバナンス、AIによる支援を活用した自動収集・要約・引用検証、SRE／プラットフォームエンジニアリングとの連携（データレイク・LLMOps）、AIエージェントによるDeepResearch・トレンドスキャン、AgentOps、ChatOpsによる調査連絡、データガバナンス（出典管理・利益相反チェック）、外部AIパートナー（DBベンダー）との連携、社員教育（リサーチ手法・統計・AIリテラシー）、ハルシネーション対策プレイブック、KPIモニタリング（調査リードタイム・引用精度・インサイトの活用率）、PDCAサイクル、です",
-    "url": "https://renue.co.jp/posts/consulting-research-department-guide",
+    "quote": "三菱UFJリサーチ&コンサルティング | Minato-ku Tokyo分析工房 株式会社 - FacebookJapan Research Consultants Co., Ltd. 株式会社ジャパンリサーチコン... Oct 20, 2026 · 三菱UFJリサーチ&コンサルティング, Minato. 1,415 followers · 24 talking about this · 48 were here. 三菱UFJリサーチ&コンサルティング（MURC）の公式Facebookページです。... Apr 23, 2026 · 分析工房 株式会社. 64 likes. 有機ELディスプレイ関係分野の事業企画、業界調査などのコンサルティン Mar 15, 2011 · Oki Katase Japan Research Consultants Co., Ltd. 株式会社ジャパンリサー",
+    "url": "https://www.facebook.com/murc.jp/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ]
  },
- "runs": 8,
+ "runs": 9,
  "first_researched_at": "2026-11-05T00:04:05.825734+00:00"
 }

@@ -4318,6 +4318,14 @@
   - 「同じデータセット内で、データが異なる形式や構造で表現されていると矛盾が生じます」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
   - 「これに対処するため、データ専門家は欠損値を推定データで置き換えたり、不完全な入力項目を削除したり、さらなる調査のために欠損値にフラグを立てたりする場合があります」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
   - 「データの検証では、多くの場合、手動検査または自動データ・クリーニング・ツールを使用して、エラーや一貫性のないデータ、異常が残っていないかをチェックします」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
+  - 「Step4｜変換を実行し元データと突き合わせて検証する」（https://www.nomura-system.co.jp/contents/data-crensing/）
+  - 「取引先マスタと品目マスタのどちらを先に着手するか、過去何年分を対象にするかといった判断は、用途から逆算して決めます」（https://www.nomura-system.co.jp/contents/data-crensing/）
+  - 「実行後は、元データと突き合わせて検証します」（https://www.nomura-system.co.jp/contents/data-crensing/）
+  - 「社名や住所の正確さが求められる場合は法人番号公表サイトなどで照合しますが、公表されているのは登記上の商号と本店の所在地までのため、支店の住所は取引先に確認します」（https://www.nomura-system.co.jp/contents/data-crensing/）
+  - 「あいまい一致が使えるのは2つの表を突き合わせるマージ操作のテキスト列に限られ、どこまでを同じとみなすかのしきい値は人が判断する」（https://www.nomura-system.co.jp/contents/data-crensing/）
+  - 「画面をまたぐ定型的な転記や突き合わせの自動化」（https://www.nomura-system.co.jp/contents/data-crensing/）
+  - 「進め方は、利用目的の決定、現状の可視化、ルールの定義、実行と検証、再発を防ぐ運用への落とし込みという5つのステップです」（https://www.nomura-system.co.jp/contents/data-crensing/）
+  - 「AIは表記ゆれの検出、重複候補の抽出、ほかの項目や公開情報から推測できる範囲での欠損値の候補提示に活用でき、RPAは画面をまたぐ転記や突き合わせといった定型作業に向いています」（https://www.nomura-system.co.jp/contents/data-crensing/）
 - 一次情報の探し方：
   - 「統計表における機械判読可能なデータ作成に関する表記方法」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
   - 「以下の画像は、同じテキストをPDF（画像左）とプレーンテキスト（画像右）で表示した例です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
@@ -4327,6 +4335,8 @@
   - 「異常値を含んだまま分析すると、平均値や統計結果が大きく歪んでしまう可能性があります」（https://www.cm-net.co.jp/blog/data-cleansing/）
   - 「文字データを、AIや統計ソフトが扱える「数値」に変換します」（https://www.cm-net.co.jp/blog/data-cleansing/）
   - 「機械学習や統計分析を行う際に必要となる処理です」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「社名や住所の正確さが求められる場合は法人番号公表サイトなどで照合しますが、公表されているのは登記上の商号と本店の所在地までのため、支店の住所は取引先に確認します」（https://www.nomura-system.co.jp/contents/data-crensing/）
+  - 「一方で、抽出された候補のうちどれを採用するかは、業務ルールに照らして担当者が確認する必要があります」（https://www.nomura-system.co.jp/contents/data-crensing/）
 - 失敗・落とし穴：
   - 「分析をはじめる前に、いくつかデータをピックアップしてチェックしたり、データを可視化したりして間違いを見つけることで、こうした二度手間を避けることができます」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
   - 「ツール使用時にテキストデータがサーバに送信されるため、個人情報を含むテキストで使用する場合には注意が必要です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）

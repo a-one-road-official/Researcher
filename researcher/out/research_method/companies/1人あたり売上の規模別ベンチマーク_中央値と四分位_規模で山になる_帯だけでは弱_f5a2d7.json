@@ -7,8 +7,24 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-05T16:50:46.037848+00:00",
+ "researched_at": "2026-11-05T18:43:42.244000+00:00",
  "evidence": {
+  "実例": [
+   {
+    "quote": "Reconciliation example",
+    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "The AI infrastructure companies sit above even that. Epoch AI estimates Anthropic at roughly",
+    "url": "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "SaaS CAC Ratio | How to Calculate and Why It Matters",
@@ -114,22 +130,6 @@
    },
    {
     "quote": "Data Provenance: What It Is and How to Use It",
-    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "The AI infrastructure companies sit above even that. Epoch AI estimates Anthropic at roughly",
-    "url": "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "Reconciliation example",
     "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -255,7 +255,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/s_toyama/n/n002c062ac803",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%88%86%E4%BD%8D%E6%95%B0",
     "status": "ok",
     "method": "http"
    },
@@ -318,8 +318,8 @@
     "http://www.jorms.net/CN/matrix/matrix.do?articleId=12172&type=AbstractDistribution",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://note.com/shintaku0707/n/naa8fa2a261e7",
-    "https://mazrica.com/product/businesslab/trend/gross-sales-analytics/",
-    "https://note.com/revenuescope/n/n00fd31afad70"
+    "https://note.com/revenuescope/n/n00fd31afad70",
+    "https://note.com/bizgem_1220/n/n09441131d3fe"
    ]
   },
   {
@@ -333,8 +333,8 @@
     "https://datamix.co.jp/media/datascience/blog-datascience-bs/",
     "https://note.com/nobuakimichihata/n/ndf3b592ee4f5",
     "https://www.kousotu.com/lect_math/d02.php",
-    "https://cacco.co.jp/datascience/media/data-analysis/3271/",
-    "https://ta5k.com/tools/industry/sme-financial"
+    "https://ta5k.com/tools/industry/sme-financial",
+    "https://zaimani.com/financial-indicators/sales-per-employee/"
    ]
   },
   {
@@ -347,8 +347,8 @@
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://mazrica.com/product/businesslab/trend/gross-sales-analytics/",
     "https://www.bi.ksc.co.jp/tips/data-utilization/sales-analysis",
+    "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%88%86%E4%BD%8D%E6%95%B0",
     "https://note.com/s_toyama/n/n002c062ac803",
-    "https://qiita.com/lycopene_/items/ed2c90592901a587bd3b",
     "https://ta5k.com/tools/industry/sme-financial"
    ]
   },
@@ -384,7 +384,15 @@
   },
   {
    "query": "site:x.com 1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号）",
-   "results": []
+   "results": [
+    "https://x.com/edinetdb/status/2079379240680915412",
+    "https://x.com/nikkei_business/status/2110099584727109886",
+    "https://x.com/nikkeinagoya/status/2110132723436171637",
+    "https://x.com/shiho_aga/status/2109113003924926946",
+    "https://x.com/gagarot200/status/2041103628799483905",
+    "https://x.com/maru_DTJ/status/2110134517109596310",
+    "https://x.com/maruyama_hoshi/status/2094423428078117102"
+   ]
   },
   {
    "query": "site:linkedin.com 1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号）",
@@ -395,20 +403,12 @@
     "https://jp.linkedin.com/pulse/sales-geek-health-check-q2-2026-survey-results-executive-elken-qquje?tl=ja",
     "https://jp.linkedin.com/pulse/108-per-employee-standard-cross-industry-saas-spending-jaymita-prasad-gwnjc?tl=ja",
     "https://jp.linkedin.com/posts/元-橋場-839684424_就活必見1人当たり売上5000万の凄腕ベンチャー20代で市場価値が爆発的-activity-7500854276504567808-0uwn",
-    "https://jp.linkedin.com/posts/hidehitoyoichi0323_売上億の壁の本質はたぶん売上ではなく従業員数の壁-マネジメント可能な人数-activity-6810926162794164224-AaV2"
+    "https://jp.linkedin.com/pulse/contact-center-performance-case-quartile-management-reform-lewis-plc4e?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com 1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号）",
-   "results": [
-    "https://www.facebook.com/ryutaro.hojyo/photos/-なぜ食品メーカーの真ん中は年商4億円利益率1なのか1️⃣-tsrデータが示す厳しい中央値食品関連企業約15万社を集計売上高43億円営業利益率101人あたり売上/26571553412496546/",
-    "https://www.facebook.com/PwCJapan/posts/876448842390768/",
-    "https://www.facebook.com/itscobuy/photos/情勢混乱の現状下他社比較で進む方向を測るに有効なベンチマーク指標を連ねた資料cpoハンドブックを発表-ベロア-cobuy-httpswwwberoeinccom/4775549409142932/",
-    "https://www.facebook.com/nawoki.ikegami/videos/5社規模ランキング1位餃子の王将店舗数約730店舗売上額約1110億円2位バーミヤン店舗数約360店舗売上額約400億円規模3位山岡家店舗数約190店舗売上額約/1193139079568789/",
-    "https://www.facebook.com/groups/970784596300476/posts/25714853758133550/",
-    "https://www.facebook.com/jadma.official.account/photos/2024年度通販ec市場売上高調査-公表-通販ec市場14兆円規模へ-前年比73増-伸び率上昇で堅調に推移2024年度2024年4月2025年3月の通信販売ec/1379120757546519/",
-    "https://www.facebook.com/allstarsaas/videos/この会社いろいろ数字がズバ抜けてる-ae1人で45社を回し月3500万件の通話の95をaiだけで完結させる商談の最中にその連携はまだありませんと言えば裏でコーデ/1756902858814902/"
-   ]
+   "results": []
   },
   {
    "query": "1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号） note 社長",
@@ -429,12 +429,12 @@
    "query": "1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号） X 投稿",
    "results": [
     "https://wakara.co.jp/mathlog/20251114",
-    "https://bellcurve.jp/statistics/course/5220.html",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://bellcurve.jp/statistics/course/5220.html",
     "http://www.jorms.net/CN/matrix/matrix.do?articleId=12172&type=AbstractDistribution",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%88%86%E4%BD%8D%E6%95%B0",
     "https://note.com/s_toyama/n/n002c062ac803",
+    "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%88%86%E4%BD%8D%E6%95%B0",
     "https://x.com/masahirochaen/article/2087098827375628628",
     "https://dxpo.jp/college/front/x-algorithm.html",
     "https://ta5k.com/tools/industry/sme-financial"
@@ -460,134 +460,7 @@
   "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
   "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
- "new_this_run": {
-  "手順・やり方": [
-   {
-    "quote": "SaaS CAC Ratio | How to Calculate and Why It Matters",
-    "url": "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Calculate Your Renewal and Upsell Rate",
-    "url": "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The Rule of 40 SaaS | How to Calculate and Why It Matters in 2025? (Updated)",
-    "url": "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Calculate and Understand the SaaS Quick Ratio",
-    "url": "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Correctly Calculate your SaaS Gross Profit Margin",
-    "url": "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Calculate Customer Lifetime Value (CLTV)",
-    "url": "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Create the Dreaded Excel Waterfall Chart",
-    "url": "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Prepare for Preliminary SaaS Due Diligence",
-    "url": "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Prepare for M&A Management Presentations",
-    "url": "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Forecast Your Sales Team Headcount While Scaling Bookings",
-    "url": "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Five Pillar SaaS Metrics Framework",
-    "url": "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Move Your Number",
-    "url": "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Want ARR per employee alongside the rest of the Efficiency pillar and the full Five Pillar Framework?",
-    "url": "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Calculate the Burn Multiple",
-    "url": "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "recommends staying consistent within your comparison set rather than picking whichever method flatters the number.",
-    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Industry Life Cycle: The Four Stages and How to Use Them",
-    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "NAICS vs. SIC Codes: Differences and How to Convert",
-    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Data Provenance: What It Is and How to Use It",
-    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "The AI infrastructure companies sit above even that. Epoch AI estimates Anthropic at roughly",
-    "url": "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "Reconciliation example",
-    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ]
- },
- "runs": 1,
+ "new_this_run": {},
+ "runs": 2,
  "first_researched_at": "2026-11-05T16:50:46.037848+00:00"
 }

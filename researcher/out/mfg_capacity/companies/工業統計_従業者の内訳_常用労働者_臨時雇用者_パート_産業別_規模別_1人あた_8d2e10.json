@@ -1,0 +1,406 @@
+{
+ "name": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42）",
+ "en": "census of manufactures employees breakdown regular temporary part-time by size",
+ "aliases": [
+  "工業統計 従業者 常用労働者 臨時雇用者 内訳 規模別",
+  "経済構造実態調査 製造業事業所調査 従業者 内訳 パート"
+ ],
+ "context": "全体・規模別",
+ "kind": "market",
+ "researched_at": "2026-11-05T18:43:45.438235+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h25/kakuho/sangyo/pdf/h25-k3-riyou-j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/yougo/d05.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/001234734.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.toshima.lg.jp/documents/39519/4-2-r3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pacola.co.jp/%E6%97%A5%E6%9C%AC%E5%85%A8%E4%BD%93%E3%81%AE%E3%83%91%E3%83%BC%E3%83%88%E6%AF%94%E7%8E%87%E3%81%8C30-84%EF%BC%85%E3%81%AB%E5%88%B0%E9%81%94%E3%80%81%E9%9D%9E%E6%AD%A3%E8%A6%8F%E9%9B%87%E7%94%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h21/kakuho/kogyochiku/pdf/h21-k7-riyou-j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202106.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2020kogyo/2020kogyotoukeihyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.saijo.ehime.jp/uploaded/attachment/7569.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.tsubame.niigata.jp/soshiki/somu/1/toukei/3336.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&statdisp_id=0003449952&result_page=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h25/gaiyo/pdf/h25-k1-riyou-j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.ehime.jp/page/2950.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2020/01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/keitai/03/kekka1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2406/25/news002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085371",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/222904967_Part-time_Workers_Doing_Full-time_Work_in_Japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/english/jli/documents/2023/044-05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jassa.or.jp/en/know/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/f5b3c112ace253719216769ebb6d3c48",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.wiego.org/wp-content/uploads/2019/09/Chatani_non-regular_employment_statistics_Japan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h25/kakuho/sangyo/pdf/h25-k3-riyou-j.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.jil.go.jp/kokunai/statistics/yougo/d05.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.mhlw.go.jp/content/001234734.pdf",
+    "https://www.pref.ehime.jp/page/2950.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.city.saijo.ehime.jp/uploaded/attachment/7569.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=2436&layout=dataset&statdisp_id=0004003247"
+   ]
+  },
+  {
+   "query": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42） 推移",
+   "results": [
+    "https://www.city.toshima.lg.jp/documents/39519/4-2-r3.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.mhlw.go.jp/content/001234734.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.pacola.co.jp/%E6%97%A5%E6%9C%AC%E5%85%A8%E4%BD%93%E3%81%AE%E3%83%91%E3%83%BC%E3%83%88%E6%AF%94%E7%8E%87%E3%81%8C30-84%EF%BC%85%E3%81%AB%E5%88%B0%E9%81%94%E3%80%81%E9%9D%9E%E6%AD%A3%E8%A6%8F%E9%9B%87%E7%94%A8/",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf"
+   ]
+  },
+  {
+   "query": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42） 統計 PDF",
+   "results": [
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h21/kakuho/kogyochiku/pdf/h21-k7-riyou-j.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.mhlw.go.jp/content/001234734.pdf",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202106.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2020kogyo/2020kogyotoukeihyou.html",
+    "https://www.city.saijo.ehime.jp/uploaded/attachment/7569.pdf"
+   ]
+  },
+  {
+   "query": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.city.tsubame.niigata.jp/soshiki/somu/1/toukei/3336.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&statdisp_id=0003449952&result_page=1",
+    "https://www.jil.go.jp/kokunai/statistics/dbdata/wage/sub7.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.city.shibata.lg.jp/machidukuri/about/toukei/kougyo/1001789.html"
+   ]
+  },
+  {
+   "query": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42） 従業者規模別",
+   "results": [
+    "https://www.city.saijo.ehime.jp/uploaded/attachment/7569.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h25/gaiyo/pdf/h25-k1-riyou-j.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.mhlw.go.jp/content/001234734.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.pref.ehime.jp/page/2950.html",
+    "https://www.jil.go.jp/kokunai/statistics/yougo/d05.html"
+   ]
+  },
+  {
+   "query": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h25/kakuho/sangyo/pdf/h25-k3-riyou-j.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "https://www.jil.go.jp/kokunai/statistics/yougo/d05.html",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2020/01.pdf",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/keitai/03/kekka1.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://monoist.itmedia.co.jp/mn/articles/2406/25/news002.html"
+   ]
+  },
+  {
+   "query": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h21/kakuho/kogyochiku/pdf/h21-k7-riyou-j.pdf",
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2020/01.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085371",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.city.toshima.lg.jp/documents/39519/4-2-r3.pdf",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/keitai/03/kekka1.html",
+    "https://lassic.co.jp/media/person/ict-industry-basic-survey/",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.pacola.co.jp/%E6%97%A5%E6%9C%AC%E5%85%A8%E4%BD%93%E3%81%AE%E3%83%91%E3%83%BC%E3%83%88%E6%AF%94%E7%8E%87%E3%81%8C30-84%EF%BC%85%E3%81%AB%E5%88%B0%E9%81%94%E3%80%81%E9%9D%9E%E6%AD%A3%E8%A6%8F%E9%9B%87%E7%94%A8/"
+   ]
+  },
+  {
+   "query": "census of manufactures employees breakdown regular temporary part-time by size Japan statistics",
+   "results": [
+    "https://www.researchgate.net/publication/222904967_Part-time_Workers_Doing_Full-time_Work_in_Japan",
+    "https://www.jil.go.jp/english/jli/documents/2023/044-05.pdf",
+    "https://www.jassa.or.jp/en/know/data/",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/f5b3c112ace253719216769ebb6d3c48.pdf",
+    "https://www.wiego.org/wp-content/uploads/2019/09/Chatani_non-regular_employment_statistics_Japan.pdf",
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.stat.go.jp/english/data/e-census/2021/pdf/k_term.pdf",
+    "https://fred.stlouisfed.org/series/JPNPEFANA",
+    "https://teamstage.io/japanese-workforce-statistics/",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ]
+  },
+  {
+   "query": "site:note.com 工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42）",
+   "results": [
+    "https://note.com/ogawa_tech/n/n40b30ad43d16",
+    "https://note.com/ogawa_tech/n/n79684d75a109",
+    "https://note.com/ogawa_tech/n/nb9c64341cf84",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/kens_reading1/n/n3a82d8634512",
+    "https://note.com/1998office_knet/n/nee1c5f6e0734",
+    "https://note.com/1998office_knet/n/n531458b437cb"
+   ]
+  },
+  {
+   "query": "site:x.com 工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42）",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com 工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42）",
+   "results": [
+    "https://pulse.linkedin.com/",
+    "https://www.linkedin.com/?|/",
+    "https://jp.linkedin.com/posts/瑛亮-小林-b28879318_働く人が64万人増えました-それでも採用が難しいと感じる企業が減らないのはなぜか-activity-7467136107013570560-DOZe",
+    "https://jp.linkedin.com/pulse/臨時労働市場の未来2026年から2033年までの構造的洞察とcagr予測-polycore-market-research-xqbde",
+    "https://www.linkedin.com/posts/剛-野村-58844a20b_多様性を受け入れて共存していきましょう日経から政府は外国人労働者の在留資格特定技能-activity-7171113852263100417-wtQw",
+    "https://jp.linkedin.com/pulse/how-beat-5-biggest-contingent-workforce-challenges-holding-bbb2c?tl=ja",
+    "https://jp.linkedin.com/posts/剛-野村-58844a20b_多様性を受け入れて共存していきましょう日経から政府は外国人労働者の在留資格特定技能-activity-7171113852263100417-wtQw"
+   ]
+  },
+  {
+   "query": "site:facebook.com 工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42）",
+   "results": [
+    "https://www.facebook.com/socialsaiyo/posts/就職者の主な内訳は正規雇用が8964人増の42万7219人1年以上の有期雇用は253人減の1万5896人だった/7491777880878071/",
+    "https://www.facebook.com/genma2da/posts/コラムアップしました恐ろしく強い雇用統計内訳を見ると選挙要員も雇用に差し込み良い数値を何がなんでも出したかったのではないかと邪推される不可解な発表だったようでc/1065493052246200/",
+    "https://www.facebook.com/jsaunion/posts/435222162767143/",
+    "https://www.facebook.com/office.oshima/posts/令和７年-障害者雇用状況の集計結果厚生労働省ではこのほど令和７年の障害者雇用状況集計結果を取りまとめましたので公表します障害者の雇用の促進等に関する法律では事業/1286403356861672/",
+    "https://www.facebook.com/gifushougaikigyoshien/photos/ビジネス-アンド-ハンディキャップト企業と障がい者企業-福祉-教育-行政-をつなぐ-障がい者雇用-情報紙2020年第2号を発行しました障がい者雇用の先進企業紹介/2956589231042959/",
+    "https://www.facebook.com/zentekkin/photos/新たな商取引が始まる-建設通信新聞処遇改善の取組可視化自主宣言-12月12日から申請受付国交省-国土交通省は改正建設業法の全面施行で運用が始まる労務費の基準標準/1195020309392177/",
+    "https://www.facebook.com/zentekkin/posts/下請け企業は見積書を出す習慣を-建設工業新聞国交省労務費内訳明示の見積書書き方ガイドと様式例作成中小下請にも普及促す-国土交通省は改正建設業法に基づく労務費や必/1184102750483933/"
+   ]
+  },
+  {
+   "query": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h25/gaiyo/pdf/h25-k1-riyou-j.pdf",
+    "https://www.pref.ehime.jp/page/2997.html",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "https://www.city.nishitokyo.lg.jp/siseizyoho/tokei/toukeisyo/R5toukeinishitokyo.files/4-4kougyou.pdf",
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "https://www.pref.ibaraki.jp/kikaku/tokei/fukyu/tokei/betsu/koko/kogyo2020/index.html",
+    "https://www.jil.go.jp/kokunai/statistics/yougo/chosa.html",
+    "https://note.com/ogawa_tech/n/n79684d75a109"
+   ]
+  },
+  {
+   "query": "工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h25/kakuho/sangyo/pdf/h25-k3-riyou-j.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2019kogyo/2019kogyotokeihyo.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.pref.ehime.jp/page/2997.html",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/keitai/03/kekka1.html",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2020/01.pdf"
+   ]
+  },
+  {
+   "query": "census of manufactures employees breakdown regular temporary part-time by size site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/codyorr",
+    "https://www.linkedin.com/company/bureau-of-labor-statistics",
+    "https://www.linkedin.com/company/u-s-department-of-labor",
+    "https://www.linkedin.com/company/re-build-manufacturing",
+    "https://www.linkedin.com/company/cooper-standard-automotive",
+    "https://www.linkedin.com/company/medtronic",
+    "https://www.linkedin.com/company/davis-standard",
+    "https://www.linkedin.com/company/ford-motor-company",
+    "https://www.linkedin.com/company/texas-instruments",
+    "https://www.linkedin.com/company/3m"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ36頁・検索15回）",
+  "社員数・平均社員数": "記載なし（読んだ36頁・検索15回）",
+  "受注金額・加工賃収入": "記載なし（読んだ36頁・検索15回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ36頁・検索15回）",
+  "生産能力・設備": "記載なし（読んだ36頁・検索15回）",
+  "10年推移": "記載なし（読んだ36頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ36頁・検索15回）"
+ }
+}
