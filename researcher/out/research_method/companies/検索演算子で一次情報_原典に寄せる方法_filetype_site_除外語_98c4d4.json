@@ -8,7 +8,7 @@
  ],
  "context": "探し方",
  "kind": "market",
- "researched_at": "2026-11-05T06:59:29.039545+00:00",
+ "researched_at": "2026-11-05T08:43:17.243222+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -29,17 +29,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/science_summary/n/n223612b7a530",
+    "url": "https://note.com/fresh_impala9007/n/n62355267896c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/nana_882391/n/n35ce95bb325e",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://note.com/kyotomori/n/nd498747a7c3e",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/nana_882391/n/n35ce95bb325e",
     "status": "ok",
     "method": "http"
    },
@@ -114,6 +114,11 @@
     "method": "http"
    },
    {
+    "url": "https://lifestyle.assist-all.co.jp/google-site-operator-search-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.sorank.com/ja/blog-geo-seo/google-search-operators",
     "status": "ok",
     "method": "http"
@@ -125,11 +130,6 @@
    },
    {
     "url": "https://minto.tech/google-search-operators-advanced-guide/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://aqlier.com/2026/09/04/google_search_operator/",
     "status": "ok",
     "method": "http"
    },
@@ -172,10 +172,10 @@
     "https://note.com/zero_impact_edu/n/n0e08081a3573",
     "https://note.com/hikaru_thinks/n/nebc54c341963",
     "https://note.com/super_phlox114/n/na80f971322ef",
-    "https://note.com/science_summary/n/n223612b7a530",
-    "https://note.com/kyotomori/n/nd498747a7c3e",
+    "https://note.com/fresh_impala9007/n/n62355267896c",
     "https://note.com/nana_882391/n/n35ce95bb325e",
-    "https://note.com/fresh_impala9007/n/n62355267896c"
+    "https://note.com/kyotomori/n/nd498747a7c3e",
+    "https://note.com/mdp/n/nc204d39d34bc"
    ]
   },
   {
@@ -190,7 +190,7 @@
     "https://ahrefs.com/ja/blog/google-advanced-search-operators/",
     "https://hack.nikkei.com/blog/search_operator/",
     "https://altenas.jp/blog/search-command",
-    "https://note.com/hikaru_thinks/n/nebc54c341963"
+    "https://www.sorank.com/ja/blog-geo-seo/google-search-operators"
    ]
   },
   {
@@ -220,7 +220,7 @@
     "https://jp.indeed.com/career-advice/work-efficiency/google-search-operators",
     "https://ischool.co.jp/2018-11-09/",
     "https://jp.strikingly.com/content/blog/google-search/",
-    "https://www.sorank.com/ja/blog-geo-seo/google-search-operators"
+    "https://lifestyle.assist-all.co.jp/google-site-operator-search-guide/"
    ]
   },
   {
@@ -244,9 +244,9 @@
     "https://note.com/zero_impact_edu/n/n0e08081a3573",
     "https://note.com/hikaru_thinks/n/nebc54c341963",
     "https://note.com/kyotomori/n/nd498747a7c3e",
-    "https://note.com/super_phlox114/n/na80f971322ef",
     "https://note.com/nana_882391/n/n35ce95bb325e",
-    "https://note.com/mdp/n/nc204d39d34bc",
+    "https://note.com/science_summary/n/n223612b7a530",
+    "https://note.com/nana_882391/n/nfc50f20bd0b3",
     "https://note.com/fresh_impala9007/n/n62355267896c"
    ]
   },
@@ -255,12 +255,11 @@
    "results": [
     "https://x.com/cat_meety/status/2115318737519923600",
     "https://x.com/uchita_success/status/2093514295778877913",
+    "https://x.com/ChiseGomen/status/2110118589600837924",
     "https://x.com/ss_shiratori/status/2114921116800311315",
     "https://x.com/xkaseki413/status/2051160097288839258",
-    "https://x.com/ChiseGomen/status/2110118589600837924",
     "https://x.com/BaronLeon86/status/2056003869734535543",
-    "https://x.com/bossnyan_ai/status/2098741815046443099",
-    "https://x.com/hashtag/検索演算子"
+    "https://x.com/shibakatze/status/2068629304033075563"
    ]
   },
   {
@@ -272,19 +271,19 @@
     "https://jp.linkedin.com/pulse/google-search-operators-master-your-searching-sree-datta-1f?tl=ja",
     "https://jp.linkedin.com/pulse/seoの本質は一次情報にあり記事の信頼性と順位を爆上げする方法-剛-柏崎-hwatc",
     "https://jp.linkedin.com/pulse/seoで一次情報が重要な理由とは二次情報との違いと活用方法-剛-柏崎-p6mxc",
-    "https://jp.linkedin.com/pulse/google-x-ray-search-advanced-tool-sourcing-top-talent-amant-gupta?tl=ja"
+    "https://jp.linkedin.com/pulse/improve-your-job-search-results-google-x-ray-rich-do?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com 検索演算子で一次情報・原典に寄せる方法（filetype・site・除外語）",
    "results": [
-    "https://www.facebook.com/public/(1)「Safari」や「メール」に表示されたQRを読み取る方法-filetype:svg/",
+    "https://www.facebook.com/public/VLOOKUP関数で複数の条件を設定・抽出する方法を解説-U-NOTE-filetype:doc/",
     "https://www.facebook.com/100070183516807/videos/2442001329657780/",
     "https://www.facebook.com/groups/880912055374027/posts/3852178711580665/",
-    "https://www.facebook.com/yeswecan.jp/posts/claris-filemaker-2025-の新機能より直感的な検索を自然言語で検索実行-スクリプトステップ概要編少し複雑な検索を行う場合演算子や検索除外などを/1427295775672083/",
     "https://developers.facebook.com/documentation/instagram-platform/instagram-api-with-facebook-login/hashtag-search/",
-    "https://www.facebook.com/nikkeib2b/videos/ビジネスの生成aiにたしかな一次情報/1045822954567996/",
-    "https://www.facebook.com/lany.co.jp/posts/639476175308809/"
+    "https://www.facebook.com/yeswecan.jp/posts/claris-filemaker-2025-の新機能より直感的な検索を自然言語で検索実行-スクリプトステップ概要編少し複雑な検索を行う場合演算子や検索除外などを/1427295775672083/",
+    "https://www.facebook.com/lany.co.jp/posts/639476175308809/",
+    "https://www.facebook.com/nikkeib2b/videos/ビジネスの生成aiにたしかな一次情報/1045822954567996/"
    ]
   },
   {
@@ -298,8 +297,7 @@
     "https://help.hcl-software.com/notes/11.0.0/nl/ja/sch_refine_query_r.html",
     "https://jp.indeed.com/career-advice/work-efficiency/google-search-operators",
     "https://hack.nikkei.com/blog/search_operator/",
-    "https://ahrefs.com/ja/blog/google-advanced-search-operators/",
-    "https://www.sorank.com/ja/blog-geo-seo/google-search-operators"
+    "https://ahrefs.com/ja/blog/google-advanced-search-operators/"
    ]
   },
   {
@@ -313,18 +311,19 @@
     "https://xboost.now/tools/x-search-builder",
     "https://generaltranslation.mintlify.app/ja/x-api/posts/search/integrate/operators",
     "https://www.reddit.com/r/uBlockOrigin/comments/1i8o5la/permanently_excluding_a_site_from_google_search/?tl=ja",
-    "https://help.x.com/ja/rules-and-policies/x-search-policies"
+    "https://help.x.com/ja/rules-and-policies/x-search-policies",
+    "https://lifestyle.assist-all.co.jp/google-site-operator-search-guide/"
    ]
   },
   {
    "query": "search operators primary sources filetype site research site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/kashmala-malik_19-google-search-operators-you-need-to-know-activity-7292139154753138688-75Kt",
     "https://www.linkedin.com/pulse/google-search-operators-elevate-your-searching-game-expert-david-gage-knioe",
+    "https://www.linkedin.com/posts/kashmala-malik_19-google-search-operators-you-need-to-know-activity-7292139154753138688-75Kt",
     "https://www.linkedin.com/pulse/search-techniques-google-ajith-thampi-joseph-q3v6c",
     "https://www.linkedin.com/pulse/authoritative-sources-101-how-find-use-reliable-vincent-d-eletto",
-    "https://www.linkedin.com/posts/shushant-lakhyani_im-shocked-most-people-still-use-google-activity-7480123445285072896-tsIN",
     "https://www.linkedin.com/pulse/google-search-operators-master-your-searching-sree-datta-1f",
+    "https://www.linkedin.com/posts/shushant-lakhyani_im-shocked-most-people-still-use-google-activity-7480123445285072896-tsIN",
     "https://www.linkedin.com/pulse/7-tools-enhance-your-open-source-investigations-aman-bhuiyan-zhqrc",
     "https://www.linkedin.com/posts/stevetothjr_steal-my-claude-project-that-sourced-34-rare-activity-7492565518873255937-nxPT",
     "https://www.linkedin.com/top-content/networking/networking-in-research/utilizing-social-media-for-research-networking/",
@@ -340,6 +339,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-05T05:08:52.502564+00:00"
 }

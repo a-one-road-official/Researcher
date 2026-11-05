@@ -218,8 +218,8 @@
   - 「Selecting the appropriate valuation method depends on the nature of your business, the availability of data, and the purpose of the valuation. It is often helpful to use multiple methods to cross-check and validate your results.」（https://aventis-advisors.com/how-to-value-a-private-company/）
   - 「それぞれについて「なぜこの企業がそれを求めているのか」を1行で書く（仮説でよい）」（https://note.com/restart_notes25/n/nf64264f912f9）
   - 「自己分析で出てきた「自分が求めていること」と、Q4で調べた内容を照合する」（https://note.com/restart_notes25/n/nf64264f912f9）
+  - 「IT系職種21選｜「目指したい自分像」からの逆算が適職発見のカギ」（https://careerpark-agent.jp/column/67587）
   - 「会計検査院による抽出調査および国税庁による再検証データは、現行の類似業種比準方式が内包する客観的な価格乖離を明らかにしました2」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「国税庁の集計では、過去10年間に14件、推計約14億円に及ぶ税額減少事例が把握され、課税の公平性を著しく損ねている実態が是正の論拠として位置づけられました7」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
 - 一次情報の探し方：
   - 「300社以上の採用支援をしてきた経験をもとに、各大学の就活講座の講師も務め、年間3,000人以上に講演」（https://careerpark-agent.jp/column/67587）
   - 「②ホームページや採用ページ：企業の詳しい情報がわかる」（https://careerpark-agent.jp/column/67587）
@@ -2807,6 +2807,8 @@
   - 「TR2005-01.pdf. Accessed June 6, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「tradecraftprimer-apr09-1.pdf. Accessed May 7, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「such as ACH. URL: http://c4i.gmu.edu/wp-content/uploads/AFCEA-gmkuk-2016-Rieber.pdf.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「Competitor Analysis and Profiling」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
+  - 「Competitor Profiling Framework」（https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/）
 - 失敗・落とし穴：
   - 「similar clinical symptoms in a patient. ACH enables the user to reduce cognitive bias,」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「notably confirmation bias which compels people to seek evidence confirming their」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
