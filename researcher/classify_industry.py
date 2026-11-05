@@ -219,6 +219,7 @@ def _read_site(home: str, name: str) -> tuple[str, int]:
     if top["status"] != "ok":
         return "", 0
     texts, n = [top["text"]], 1
+    own_recruit = []  # 自社の採用ページ（自社が雇う職種＝エンジニア等）は S3 に入れない
     seen = {home}
     host = home.split("/")[2]
     subs = [u for t, u in top.get("links", []) if host in u and re.search(PREF_PAGES, t + " " + u, re.I)]
@@ -227,6 +228,11 @@ def _read_site(home: str, name: str) -> tuple[str, int]:
             continue
         seen.add(u)
         p = fetch(u)
+        if p["status"] == "ok" and re.search(r"recruit|career|採用|求人情報|募集要項|jobs", u + " " + p.get("title", ""), re.I):
+            own_recruit.append(u)
+            texts.append(re.sub(r"\S+", lambda m: m.group(0), "\n".join(f"{a} {b}" for a, b in p.get("pairs", []) if re.search(r"許可|登録|免許|取引先|事業内容", a))))
+            n += 1
+            continue
         if p["status"] == "ok":
             texts.append(p["text"])
             # 会社概要の表（pairs）は許認可・取引先が入る場所なので、そのまま足す
