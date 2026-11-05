@@ -1,0 +1,555 @@
+{
+ "name": "ムカイ鐵工",
+ "aliases": [],
+ "context": "岡山県／出典:県・市の企業ガイド／求人媒体:Indeed;doda;マイナビ転職／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T05:44:53.004886+00:00",
+ "official_url": "https://www.mukai-tk.jp/",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役 向井 賢",
+    "url": "https://www.mukai-tk.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 向井 賢",
+    "url": "https://recruit-site.info/mukai-tk/company",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒709-0414 岡山県和気郡和気町大田原325-2",
+    "url": "https://www.mukai-tk.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒709-0414 岡山県和気郡和気町大田原325-2",
+    "url": "https://recruit-site.info/mukai-tk/company",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1960年(昭和35年)",
+    "url": "https://www.mukai-tk.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1960年(昭和35年)",
+    "url": "https://recruit-site.info/mukai-tk/company",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1,000万円",
+    "url": "https://www.mukai-tk.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1,000万円",
+    "url": "https://recruit-site.info/mukai-tk/company",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "15名",
+    "url": "https://www.mukai-tk.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "16名(2021年8月現在)",
+    "url": "https://recruit-site.info/mukai-tk/company",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "取引先",
+    "value": "院庄林業株式会社 岡山県、岡山県内市町村 株式会社岡山和気ヤクルト工場 カバヤ食品株式会社 株式会社タック 中四国セキスイハイム工業株式会社 西日本積水工業株式会社 備前化成株式会社 五十音順・敬称略 電子部品メーカー ポリマー技術開発・加工メーカー 耐火煉瓦メーカー プラスチック製品メーカー",
+    "url": "https://www.mukai-tk.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "取引先",
+    "value": "院庄林業株式会社 岡山県、岡山県内市町村 株式会社岡山和気ヤクルト工場 カバヤ食品株式会社 株式会社タック 中四国セキスイハイム工業株式会社 西日本積水工業株式会社 備前化成株式会社 五十音順・敬称略 電子部品メーカー ポリマー技術開発・加工メーカー 耐火煉瓦メーカー プラスチック製品メーカー",
+    "url": "https://recruit-site.info/mukai-tk/company",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "1,000万円",
+    "url": "https://www.mukai-tk.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://recruit-site.info/mukai-tk/company",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収214.8万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円〜510万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "評価・昇給についてはわかりやすいポイント制を採用",
+    "url": "https://recruit-site.info/mukai-tk/posts/recruit-honsya-n-sogosyoku-mikeiken2",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "ムカイ鐵工は、昭和30年より、岡山県の和気町に工場を構える鉄工所です",
+    "url": "https://www.mukai-tk.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "機械、組立工場建設",
+    "url": "https://www.mukai-tk.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫は、商品が「つくられてから、お客様のもとへ届くまで」をつなぐ大切な物流拠点です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "会社情報 | ムカイ鐵工株式会社｜採用情報サイト",
+    "url": "https://recruit-site.info/mukai-tk/company",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "製造系総合職（新卒） | ムカイ鐵工株式会社｜採用情報サイト",
+    "url": "https://recruit-site.info/mukai-tk/posts/recruit-honsya-n-sogosyoku-mikeiken2",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "先輩社員たちはみな手間を惜しまず、自分とお客さまが納得するまでとことん製作に打ち込んでいます",
+    "url": "https://recruit-site.info/mukai-tk/company",
+    "pass": 3
+   },
+   {
+    "quote": "【主な仕事内容】 ・商品の入荷、検品 ・商品の仕分け、ピッキング ・商品の出荷準備 ・フォークリフトを使用した荷役作業 ・商品の在庫管理 ・倉庫内の商品整理、保管 ・入出庫に関するデータ入力、管理 ・トラックへの積み込み、荷下ろし ・その他、倉庫運営に関わる業務 入社後は、先輩社員と一緒に仕事をしながら、商品の扱い方や倉庫内のルールなどを一つひとつ覚えていきます",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "入社後は先輩社員と一緒に現場に入り、工具の名前や使い方、作業の進め方から一つずつ覚えていきます",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "先輩社員のサポートを受けながら、一つずつできることを増やしていける環境です",
+    "url": "https://recruit-site.info/mukai-tk/posts/recruit-honsya-n-sogosyoku-mikeiken2",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ムカイ鐵工 株式会社｜採用情報サイト — ムカイ鐵工 株式会社｜採用情報サイト recruit-site.info https://recruit-site.info > mukai-tk > company",
+    "url": "https://recruit-site.info/mukai-tk/company",
+    "pass": 3
+   },
+   {
+    "quote": "正社員 ムカイ鐵工 株式会社 - タウンワーク — 正社員 ムカイ鐵工 株式会社 - タウンワーク タウンワーク https://townwork.net > ... > 機械設計・CADオペレーター",
+    "url": "https://townwork.net/viewjob/jobid_d5028db9a96cf2fd/",
+    "pass": 3
+   },
+   {
+    "quote": "ムカイ鐵工 株式会社のキャリア・企業情報 — ムカイ鐵工 株式会社のキャリア・企業情報 Indeed https://jp.indeed.com > cmp > ムカイ鐵工株式会社-1",
+    "url": "https://jp.indeed.com/cmp/%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-1",
+    "pass": 3
+   },
+   {
+    "quote": "ムカイ鐵工 株式会社（ID：33060-01964061）の 求人 — ムカイ鐵工 株式会社（ID：33060-01964061）の 求人 ハローワークの求人を検索 https://www.hellowork.careers > ... > ＡＤ+和気郡和気町",
+    "url": "https://www.hellowork.careers/%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A7%E3%81%AE%E6%A9%9F%E6%A2%B0%E8%A8%AD%E8%A8%88%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%EF%BC%88%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%92%8C%E6%B0%97%E9%83%A1%E5%92%8C%E6%B0%97%E7%94%BA%EF%BC%89-%2033060-01964061/",
+    "pass": 3
+   },
+   {
+    "quote": "ムカイ鐵工 新卒 高卒 の求人情報をすべて見る （136件） — ムカイ鐵工 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "製造系総合職（ 新卒 ） | ムカイ鐵工 株式会社｜ 採用 情報サイト — 製造系総合職（ 新卒 ） | ムカイ鐵工 株式会社｜ 採用 情報サイト recruit-site.info https://recruit-site.info > HOME > 募集職種一覧",
+    "url": "https://recruit-site.info/mukai-tk/posts/recruit-honsya-n-sogosyoku-mikeiken2",
+    "pass": 3
+   },
+   {
+    "quote": "キャリア 採用 機械設計 | ムカイ鐵工 株式会社 — キャリア 採用 機械設計 | ムカイ鐵工 株式会社 ムカイ鐵工株式会社 https://www.mukai-tk.jp > recruit > design",
+    "url": "https://www.mukai-tk.jp/recruit/design/",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ムカイ鐵工株式会社 - Facebookムカイ鐵工株式会社 採用・広報 - Facebookムカイ鐵工株式会社 - 弊社のホーム ... - Facebookムカイ鐵工株式会社 採用・広報 - ★ 採用情報をサイトにて公開中！ ★ ...ムカイ鐵工株式会社 - IAIさんがECキャラバンカーで来社されました 時...ムカイ鐵工株式会社 - 弊社のホームページを約6年ぶりにリニューアル...ムカイ鐵工株式会社 - 夏本番前に25年間活躍してくれた設計室のエアコ... Oct 20, 2022 · IAIさんがECキャラバンカーで来社されました🚐 時代の流れは電動シリンダーなのかっ？ 😳 ムカイ鐵工株式会社 is at ムカイ鐵工株式会社. 弊社のホームページを約6年ぶりにリニューアルしま した！ https://www.mukai-tk.jp ムカイ鐵工株式会社 is at Zipアリーナ.",
+    "url": "https://www.facebook.com/mukaitkjp/",
+    "pass": 3
+   },
+   {
+    "quote": "ムカイ鐵工株式会社 採用・広報 - Facebook Dec 20, 2022 · ムカイ鐵工株式会社 採用・広報. 19 likes · 3 talking about this. ムカイ鐵工株式会社の採用・広報に関する情報などをお届けします。",
+    "url": "https://www.facebook.com/mukai.tk.HRPR/",
+    "pass": 3
+   },
+   {
+    "quote": "ムカイ鐵工株式会社 - 弊社のホーム ... - Facebook ムカイ鐵工株式会社 oSnpserdtoegD7f2t1827m,2r0t78u91ff1e17ae8t1t6cf5t9m6i2u00b · Shared with Public",
+    "url": "https://www.facebook.com/mukaitkjp/photos/弊社のホームページを約6年ぶりにリニューアルしましたhttpswwwmukai-tkjp/110636911455087/",
+    "pass": 3
+   },
+   {
+    "quote": "ムカイ鐵工株式会社 採用・広報 - ★ 採用情報をサイトにて公開中！ ★ ... Dec 20, 2022 · ムカイ鐵工株式会社 採用・広報 Dec 20, 2022 \\こんな方であれば、ぜひご応募ください／ ものづくりが好きな方 技術を身に付けて成長していきたい方 オンオフのメリハリをつけて働きたい方 和気町という地方地域ですが生活施設は豊富。 田舎で",
+    "url": "https://www.facebook.com/mukai.tk.HRPR/posts/-採用情報をサイトにて公開中-ムカイ鐵工株式会社ってどんな会社なのどんな職種を募集しているのどんな役割があるのか活躍している先輩はどんな人がいるの会社の雰囲気を/110003365299657/",
+    "pass": 3
+   },
+   {
+    "quote": "ムカイ鐵工株式会社 - Facebookムカイ鐵工株式会社 採用・広報 (@mukai.tk.hrpr) • Instagram photos...ムカイ鐵工株式会社 (@mukai_tk.jp) • Instagram photos and videosムカイ鐵工 株式会社 - おかやまものづくりネットワーク - 岡山県ホー... Oct 20, 2022 · IAIさんがECキャラバンカーで来社されました🚐 時代の流れは電動シリンダーなのかっ？ 😳 ムカイ鐵工株式会社 is at ムカイ鐵工株式会社. 弊社のホームページを約6年ぶりにリニューアルしま した！ https://www.mukai-tk.jp ムカイ鐵工株式会社 is at Zipアリーナ. 12 Followers, 0 Following, 3 Posts - ムカイ鐵工株式会社 採用・広報 (@mukai.tk.hr",
+    "url": "https://www.facebook.com/mukaitkjp/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mukai-tk.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mukai-tk.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mukai-tk.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mukai-tk.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mukai-tk.jp/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://recruit-site.info/mukai-tk/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://townwork.net/session/destroy/?type=webSSO",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-1",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit-site.info/mukai-tk/posts/recruit-honsya-n-sogosyoku-mikeiken2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okubotk.co.jp/recruit/new_guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/mukaitkjp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mukai.tk.HRPR/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mukaitkjp/photos/弊社のホームページを約6年ぶりにリニューアルしましたhttpswwwmukai-tkjp/110636911455087/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mukai.tk.HRPR/posts/-採用情報をサイトにて公開中-ムカイ鐵工株式会社ってどんな会社なのどんな職種を募集しているのどんな役割があるのか活躍している先輩はどんな人がいるの会社の雰囲気を/110003365299657/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mukaitkjp/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ムカイ鐵工 求人 年収",
+   "results": [
+    "https://recruit-site.info/mukai-tk/company",
+    "https://townwork.net/viewjob/jobid_d5028db9a96cf2fd/",
+    "https://jp.indeed.com/cmp/%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-1",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10010603849/",
+    "https://www.hellowork.careers/%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A7%E3%81%AE%E6%A9%9F%E6%A2%B0%E8%A8%AD%E8%A8%88%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%EF%BC%88%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%92%8C%E6%B0%97%E9%83%A1%E5%92%8C%E6%B0%97%E7%94%BA%EF%BC%89-%2033060-01964061/",
+    "https://www.mukai-tk.jp/recruit/design/",
+    "https://jobtalk.jp/companies/7295194/answers?question_codes=worth",
+    "https://jp.indeed.com/cmp/%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "https://jp.indeed.com/cmp/ムカイ鐵工株式会社-1/salaries",
+    "https://jp.indeed.com/cmp/ムカイ鐵工株式会社/salaries"
+   ]
+  },
+  {
+   "query": "ムカイ鐵工 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://recruit-site.info/mukai-tk/posts/recruit-honsya-n-sogosyoku-mikeiken2",
+    "https://www.okubotk.co.jp/recruit/new_guide/",
+    "https://www.mukai-tk.jp/recruit/design/",
+    "https://jp.indeed.com/cmp/%E3%83%A0%E3%82%AB%E3%82%A4%E9%90%B5%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-1",
+    "https://recruit-site.info/mukai-tk/",
+    "https://townwork.net/viewjob/jobid_d5028db9a96cf2fd/",
+    "https://job.mynavi.jp/27/pc/search/corp78340/outline.html",
+    "https://www.akasaka-diesel.jp/employment_information/new_graduate/",
+    "https://fab-taihei.co.jp/recruit/"
+   ]
+  },
+  {
+   "query": "site:note.com ムカイ鐵工",
+   "results": [
+    "https://note.com/kobachou/n/nef88f8d9daed",
+    "https://note.com/kobachou/n/nebe10e9f5371",
+    "https://note.com/prime_cat8744/n/ne43bc708588b",
+    "https://note.com/kobachou/n/n3299ff328ac7",
+    "https://note.com/kobachou/n/nf4981ebabf62",
+    "https://note.com/clipcorporation/n/n1c9bfdb464b5",
+    "https://note.com/kobachou/n/nad29bf224791",
+    "https://note.com/kobachou/n/n1872fdb9aa0a",
+    "https://note.com/kobachou/n/n49f8a215e04c",
+    "https://note.com/cogito1961/n/n4bb2c7290bff"
+   ]
+  },
+  {
+   "query": "site:x.com ムカイ鐵工",
+   "results": [
+    "https://x.com/hashtag/ムカイ",
+    "https://x.com/00mukaiya00",
+    "https://x.com/mukai_info",
+    "https://x.com/YuichiMukai3",
+    "https://x.com/MukaiHp",
+    "https://x.com/hakoniwa_next/status/1837831843351007234",
+    "https://x.com/katsunoriM313"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ムカイ鐵工",
+   "results": [
+    "https://nl.linkedin.com/in/rima-husseini-8873a6364",
+    "https://ch.linkedin.com/in/vasee-moorthy-md-phd-21791599",
+    "https://uk.linkedin.com/in/robertocastangia",
+    "https://jp.linkedin.com/in/takaaki-mukai-7a4072360",
+    "https://www.linkedin.com/pulse/teen-nude-selfie-paul-litherland",
+    "https://www.linkedin.com/in/toyokazu-yamaguchi-mba-emp-84a4522b1",
+    "https://dk.linkedin.com/in/wolfgangchristensen"
+   ]
+  },
+  {
+   "query": "site:facebook.com ムカイ鐵工",
+   "results": [
+    "https://www.facebook.com/mukaitkjp/",
+    "https://www.facebook.com/mukai.tk.HRPR/",
+    "https://www.facebook.com/mukaitkjp/photos/弊社のホームページを約6年ぶりにリニューアルしましたhttpswwwmukai-tkjp/110636911455087/",
+    "https://www.facebook.com/mukai.tk.HRPR/posts/-採用情報をサイトにて公開中-ムカイ鐵工株式会社ってどんな会社なのどんな職種を募集しているのどんな役割があるのか活躍している先輩はどんな人がいるの会社の雰囲気を/110003365299657/",
+    "https://www.facebook.com/mukaitkjp/posts/iaiさんがecキャラバンカーで来社されました時代の流れは電動シリンダーなのかっ/111582194693892/",
+    "https://www.facebook.com/mukaitkjp/posts/夏本番前に25年間活躍してくれた設計室のエアコンを更新しました今までありがとうどうぞよろしく️/160730386445739/",
+    "https://www.facebook.com/mukaitkjp/posts/弊社のホームページを約6年ぶりにリニューアルしましたhttpswwwmukai-tkjp/110636931455085/"
+   ]
+  },
+  {
+   "query": "ムカイ鐵工 note 社長",
+   "results": [
+    "https://compalyze.co.jp/company/1260001021324",
+    "https://www.mukai-tk.jp/company/",
+    "https://keisin.biz/chugoku/33-010248/",
+    "https://www.kensetumap.com/company/413110/profile.php",
+    "https://jp.indeed.com/cmp/ムカイ鐵工株式会社-1",
+    "https://houjin.jp/c/1260001021324",
+    "https://www.mukai-tk.jp/"
+   ]
+  },
+  {
+   "query": "ムカイ鐵工 X 投稿",
+   "results": [
+    "https://www.mukai-tk.jp/dx/",
+    "https://www.facebook.com/mukaitkjp/",
+    "https://www.instagram.com/mukai.tk.hrpr/",
+    "https://www.instagram.com/mukai_tk.jp/",
+    "https://www.mukai-tk.jp/",
+    "https://www.pref.okayama.jp/site/micro/886497.html",
+    "https://x.com/mukaikamo"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部11頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部11頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部11頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部11頁・検索8回）"
+ }
+}

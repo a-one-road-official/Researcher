@@ -1,0 +1,180 @@
+{
+ "name": "関西製缶",
+ "aliases": [],
+ "context": "山口県下関市／出典:タウンページ／求人媒体:見当たらず／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T05:49:20.826086+00:00",
+ "official_url": "https://www.cybo.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "有限会社関西製缶 の 日本 での給与 | Indeed (インディード) — Indeed に掲載された求人と、この企業の従業員から寄せられた有限会社関西製缶の給与情報を参照する。",
+    "url": "https://jp.indeed.com/cmp/有限会社関西製缶/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックス｜製缶の転職・求人情報 - 関西 — 製缶・鈑金加工 ～鉄のスペシャリスト／将来の中核人材候補／転... 株式会社日越工業 関西 - 大阪府 富田林市 年収350万円～450万円 正社員 同社は、鉄の溶接や製造、および 製缶 や板金加工などを手掛けています。あらゆる鉄を溶接・加工し...鉄の溶接や製造、および 製缶 や板金加工などを ...",
+    "url": "https://xn--pckua2a7gp15o89zb.com/製缶の仕事-関西",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.cybo.com/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/cmp/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E9%96%A2%E8%A5%BF%E8%A3%BD%E7%BC%B6/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E8%A3%BD%E7%BC%B6%E3%81%AE%E5%B9%B4%E5%8F%8E%E3%83%BB%E6%99%82%E7%B5%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E8%A3%BD%E7%BC%B6-l-%E9%96%A2%E8%A5%BF-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dainichi-can.co.jp/recruit/new_graduate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.daiwa-can.co.jp/recruit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tskg-hd.com/company/recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "関西製缶 求人 年収",
+   "results": [
+    "https://jp.indeed.com/cmp/有限会社関西製缶/salaries",
+    "https://xn--pckua2a7gp15o89zb.com/製缶の年収・時給",
+    "https://jp.indeed.com/q-製缶-l-関西-求人.html",
+    "https://xn--pckua2a7gp15o89zb.com/製缶の仕事-関西",
+    "https://bluecollarlabo.com/job/製缶工/",
+    "https://bluecareer.jp/metal-fabricator-career-salary/",
+    "https://nenshu-souba-navi.com/job/tekko/"
+   ]
+  },
+  {
+   "query": "関西製缶 採用 新卒 高卒",
+   "results": [
+    "https://www.dainichi-can.co.jp/recruit/new_graduate/",
+    "https://recruit.daiwa-can.co.jp/recruit",
+    "https://www.tskg-hd.com/company/recruit/",
+    "https://www.tskg-hd.com/company/recruit/information/jobdescription.html",
+    "https://jp.indeed.com/q-高卒新卒-l-関西-求人.html",
+    "https://xn--pckua2a7gp15o89zb.com/製缶工-新卒の仕事",
+    "https://job.mynavi.jp/27/pc/search/corp50335/outline.html"
+   ]
+  },
+  {
+   "query": "site:note.com 関西製缶",
+   "results": [
+    "https://money.note.com/companies/5905",
+    "https://note.com/higakougyou_note/n/n199b38675ef7",
+    "https://note.com/hiroworkdeskjp/n/n4acc69c1ef32",
+    "https://note.com/shizuko_fujii/n/nf53ae7e4415a",
+    "https://note.com/asada_tekko/n/nb95e27bea474",
+    "https://note.com/asada_tekko/n/n0d846296c823",
+    "https://note.com/fond_eagle6588/n/n92877b158551"
+   ]
+  },
+  {
+   "query": "site:x.com 関西製缶",
+   "results": [
+    "https://x.com/lmaga_jp/status/1842705074948120724",
+    "https://x.com/shimizuman15",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/LWITBR1906",
+    "https://x.com/kaneta5810",
+    "https://x.com/sobajimacan",
+    "https://x.com/yuuka_k816/status/2043107983383760898"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 関西製缶",
+   "results": [
+    "https://jp.linkedin.com/in/聡-松尾-58442a1b3",
+    "https://pk.linkedin.com/in/fizza-amjad-2a7b3a219",
+    "https://jp.linkedin.com/in/shu-k-8a4408178",
+    "https://ro.linkedin.com/in/ana-cristina-varga-0376257b",
+    "https://www.linkedin.com/company/luna-software-solutions",
+    "https://de.linkedin.com/in/andreas-schneck-0250093",
+    "https://www.linkedin.com/in/shervin-korangy"
+   ]
+  },
+  {
+   "query": "site:facebook.com 関西製缶",
+   "results": [
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/有限会社-関西製罐-102876441651240/",
+    "https://www.facebook.com/kobaeico/",
+    "https://www.facebook.com/profile.php/?id=61590409011160",
+    "https://www.facebook.com/p/缶パッケージの大阪製缶-100057589774258/",
+    "https://www.facebook.com/takemuragp/videos/882790289151455/",
+    "https://www.facebook.com/geopowersystem/posts/920446883415034/"
+   ]
+  },
+  {
+   "query": "関西製缶 note 社長",
+   "results": [
+    "https://note.com/lwitbr1906",
+    "https://note.com/lwitbr1906/n/nd4de4cdfec21",
+    "https://x.com/LWITBR1906",
+    "https://technofirm-blog.com/",
+    "https://www.businessinsider.jp/article/259833/",
+    "https://shachomeikan.jp/industry_article/2524",
+    "https://technofirm-blog.com/archives/post-7612.html"
+   ]
+  },
+  {
+   "query": "関西製缶 X 投稿",
+   "results": [
+    "https://x.com/hashtag/製缶",
+    "https://x.com/kanda_________/with_replies",
+    "https://myfans.jp/",
+    "https://seesaawiki.jp/nedumix/d/�������+���ʥꥹ��",
+    "https://www.facebook.com/profile.php/?id=61590409011160",
+    "https://www.fnn.jp/articles/-/1097883",
+    "https://metoree.com/categories/9028/area/osaka/"
+   ]
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）",
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）",
+  "資本金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用ページ": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）",
+  "想定年収・給与": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）",
+  "取引先・規模": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）"
+ }
+}

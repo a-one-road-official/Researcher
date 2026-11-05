@@ -1,0 +1,658 @@
+{
+ "name": "ユタカ電装工業",
+ "aliases": [],
+ "context": "香川県高松市／出典:マイナビ／求人媒体:Indeed;doda;タウンワーク／想定年収:280〜320万円／従業員:45",
+ "researched_at": "2026-11-05T05:55:22.858209+00:00",
+ "official_url": "https://www.wskagawa.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "住　　所",
+    "value": "〒760-0019 香川県高松市サンポート2-1 マリタイムプラザ高松2階",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_disp&exec=about",
+    "pass": 1
+   },
+   {
+    "label": "住　　所",
+    "value": "〒102-0093 東京都千代田区平河町2-6-3 都道府県会館9階 香川県東京事務所内",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_disp&exec=about",
+    "pass": 1
+   },
+   {
+    "label": "住　　所",
+    "value": "〒542-0083 大阪市中央区東心斎橋1-18-24 クロスシティ心斎橋4階 香川県大阪事務所内",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_disp&exec=about",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒7618014 香川県高松市香西南町455-1",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=detail&kigyo_key=08-0028",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "株式会社長峰製作所 PDF WEB",
+    "value": "七王工業株式会社 PDF WEB",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_disp&exec=companyguide",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "木下　和洋",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=detail&kigyo_key=08-0028",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立年",
+    "value": "設立年：昭和44年",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=detail&kigyo_key=08-0028",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "4,545,500,000円",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=detail&kigyo_key=08-0028",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1,547 （男性 1,238人、女性309人） うち正社員以外 119人",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=detail&kigyo_key=08-0028",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年商",
+    "value": "令和\n5年\n33,941,000千円 令和\n4年\n37,231,000千円 令和\n6年\n34,974,000千円",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=detail&kigyo_key=08-0028",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用の発信": [
+   {
+    "quote": "【学生向け】就活・インターンシップ準備オンラインセミナー（Zoom)のご案内",
+    "url": "https://www.wskagawa.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "登録企業・求人・インターンシップに関する疑問・相談に専門の人材コーディネーターがお答えします",
+    "url": "https://www.wskagawa.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "香川県が運営する就職・転職・インターンシップ支援サイト",
+    "url": "https://www.wskagawa.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "香川県で正社員就職を考えている方に、就職・インターンシップに関する情報提供や、マッチングを行うサイトです",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_disp&exec=about",
+    "pass": 1
+   },
+   {
+    "quote": "求人やインターンシップにオンラインで応募することができます",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_disp&exec=about",
+    "pass": 1
+   },
+   {
+    "quote": "また、インターンシップ・就業体験も掲載していますので、就職活動前からあなたに合う企業を研究することができます",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_disp&exec=about",
+    "pass": 1
+   },
+   {
+    "quote": "登録企業・求人・インターンシップに関する疑問・相談に専門の人材コーディネーターがお答えします",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_disp&exec=about",
+    "pass": 1
+   },
+   {
+    "quote": "香川県が運営する就職・転職・インターンシップ支援サイト",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_disp&exec=about",
+    "pass": 1
+   },
+   {
+    "quote": "登録企業・求人・インターンシップに関する疑問・相談に専門の人材コーディネーターがお答えします",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kyujin&exec=list",
+    "pass": 1
+   },
+   {
+    "quote": "香川県が運営する就職・転職・インターンシップ支援サイト",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kyujin&exec=list",
+    "pass": 1
+   },
+   {
+    "quote": "登録企業・求人・インターンシップに関する疑問・相談に専門の人材コーディネーターがお答えします",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=list",
+    "pass": 1
+   },
+   {
+    "quote": "香川県が運営する就職・転職・インターンシップ支援サイト",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=list",
+    "pass": 1
+   },
+   {
+    "quote": "香川県が運営する就職・転職・インターンシップ支援サイト",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_disp&exec=companyguide",
+    "pass": 1
+   },
+   {
+    "quote": "登録企業・求人・インターンシップに関する疑問・相談に専門の人材コーディネーターがお答えします",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kyujin&exec=detail&kyujin_key=08-0028-b076",
+    "pass": 1
+   },
+   {
+    "quote": "香川県が運営する就職・転職・インターンシップ支援サイト",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kyujin&exec=detail&kyujin_key=08-0028-b076",
+    "pass": 1
+   },
+   {
+    "quote": "登録企業・求人・インターンシップに関する疑問・相談に専門の人材コーディネーターがお答えします",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kyujin&exec=detail&kyujin_key=08-0028-b077",
+    "pass": 1
+   },
+   {
+    "quote": "香川県が運営する就職・転職・インターンシップ支援サイト",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kyujin&exec=detail&kyujin_key=08-0028-b077",
+    "pass": 1
+   },
+   {
+    "quote": "登録企業・求人・インターンシップに関する疑問・相談に専門の人材コーディネーターがお答えします",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kyujin&exec=detail&kyujin_key=08-0028-b082",
+    "pass": 1
+   },
+   {
+    "quote": "香川県が運営する就職・転職・インターンシップ支援サイト",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kyujin&exec=detail&kyujin_key=08-0028-b082",
+    "pass": 1
+   },
+   {
+    "quote": "登録企業・求人・インターンシップに関する疑問・相談に専門の人材コーディネーターがお答えします",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kyujin&exec=list&restore=1",
+    "pass": 1
+   },
+   {
+    "quote": "香川県が運営する就職・転職・インターンシップ支援サイト",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kyujin&exec=list&restore=1",
+    "pass": 1
+   },
+   {
+    "quote": "登録企業・求人・インターンシップに関する疑問・相談に専門の人材コーディネーターがお答えします",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=detail&kigyo_key=08-0028",
+    "pass": 1
+   },
+   {
+    "quote": "香川県が運営する就職・転職・インターンシップ支援サイト",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=detail&kigyo_key=08-0028",
+    "pass": 1
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "ワークサポートかがわは、香川県が運営する\"ハローワーク\"です",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_disp&exec=about",
+    "pass": 1
+   },
+   {
+    "quote": "ユタカ電装工業 株式会社のハローワーク求人情報一覧｜しごと情報ネット",
+    "url": "https://www.job-net.jp/employers/9470001005389",
+    "pass": 3
+   },
+   {
+    "quote": "ユタカ電装工業 株式会社のハローワーク求人情報一覧",
+    "url": "https://www.job-net.jp/employers/9470001005389",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "就職支援拠点「ワークサポートかがわ」のコーディネーターが採用ニーズに合った人材提供など、企業の人材確保をサポートします",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_disp&exec=about",
+    "pass": 1
+   },
+   {
+    "quote": "なお、来所相談は、就職支援拠点「ワークサポートかがわ」で行っています",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_disp&exec=about",
+    "pass": 1
+   },
+   {
+    "quote": "官公庁、自治体が取引先で安定しています",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=list",
+    "pass": 1
+   },
+   {
+    "quote": "取引先は香川県、徳島県、愛媛県下の自治体官公庁",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=list",
+    "pass": 1
+   },
+   {
+    "quote": "香川県高松市と東京都昭島市の２地域に事業拠点を置く、活気ある子育て支援事業会社です",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=list",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社マルヨシセンターの子会社であり、マルヨシセンターやその他取引先への配送業務を含め幅広い物流事業を営んでいます",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=list",
+    "pass": 1
+   },
+   {
+    "quote": "建設業の資材製作を行う「建福連携」や、様々なほ場にいって作業を行う「農福連携」の他に、工場やベットメイキング、民泊施設の清掃など人手不足の社会課題に対して、障がい者の支援をおこないながら、彼らと共に社会課題解決の一助に向けて頑張っています",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=list",
+    "pass": 1
+   },
+   {
+    "quote": "地域子育て支援拠点設置か所数（乳幼児人口千人当たり）",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_disp&exec=companyguide",
+    "pass": 1
+   },
+   {
+    "quote": "その後は工程管理や工場全体の管理業務にも携わるなど、全くの未経験から、将来のリーダー候補へと成長できる環境をご用意しています",
+    "url": "https://www.job-net.jp/employers/9470001005389",
+    "pass": 3
+   },
+   {
+    "quote": "○エアコン完備の工場内での、ワイヤーハーネスの製造、検品、出荷のお仕事です",
+    "url": "https://www.job-net.jp/employers/9470001005389",
+    "pass": 3
+   },
+   {
+    "quote": "四国三菱電機販売株式会社 ｜ 香川県高松市朝日新町２９番１８号",
+    "url": "https://note.com/clipcorporation/n/n2a72376e6cc7",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "営業職の平均年収はなんと800万円！3人に1人は年収1,000万円プレイヤーです",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=list",
+    "pass": 1
+   },
+   {
+    "quote": "月給: 230,000円〜250,000円",
+    "url": "https://www.job-net.jp/employers/9470001005389",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "また、年功序列でない企業方針が、若手の成長を促進！",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=list",
+    "pass": 1
+   },
+   {
+    "quote": "建設業の資材製作を行う「建福連携」や、様々なほ場にいって作業を行う「農福連携」の他に、工場やベットメイキング、民泊施設の清掃など人手不足の社会課題に対して、障がい者の支援をおこないながら、彼らと共に社会課題解決の一助に向けて頑張っています",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=list",
+    "pass": 1
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "https://www.aoi-electronics.co.jp/recruit/",
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=detail&kigyo_key=08-0028",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ユタカ電装工業 株式会社のハローワーク求人情報一覧 — ユタカ電装工業 株式会社 パート 経験不問 資格不問 時間外労働なし 週休二日制（土日休） 転勤なし 通勤手当あり 駅近（徒歩10分以内） マイカー通勤可 年齢不問 オンライン自主応募可 ... 掲載日 2026年8月26日 詳細を見る",
+    "url": "https://www.job-net.jp/employers/9470001005389",
+    "pass": 3
+   },
+   {
+    "quote": "14 件の ユタカ電装工業株式会社 の求人 | Indeed (インディード) — ユタカ電装工業株式会社の求人は14件あります。マネージャー候補, 製造管理者, 軽作業スタッフなどの仕事・転職・アルバイト情報もまとめて検索。",
+    "url": "https://jp.indeed.com/q-ユタカ電装工業株式会社-求人.html?vjk=eb5cdbda921c2644",
+    "pass": 3
+   },
+   {
+    "quote": "ユタカ電装工業 株式会社のバイト・パート・正社員求人情報 | Indeed ... — ユタカ電装工業 株式会社の最新の求人は5件です。ユタカ電装工業 株式会社の求人情報、採用動向、社員クチコミ、給与などの企業情報を掲載しています。",
+    "url": "https://jp.indeed.com/cmp/ユタカ電装工業　株式会社/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "ユタカ電装工業株式会社の中途採用・転職・求人情報｜転職エージェン... — Sep 14, 2026 · ユタカ電装工業株式会社の転職・求人・中途採用情報ページです。 公開求人数：2件。 非公開求人もご紹介。 リクルートエージェントは人材紹介会社ならではの大手・優良企業・優良ベンチャー/中小企業を中心に業界最大級の求人数を掲載中。",
+    "url": "https://www.r-agent.com/company/h7495/",
+    "pass": 3
+   },
+   {
+    "quote": "ユタカ電装工業株式会社の平均年収、年間給与所得情報 − 転職ならdoda... — ユタカ電装工業株式会社の平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで約37万社の企業情報が無料で検索・閲覧できます。",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10012858677/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)ユタカの新卒採用・会社概要 | マイナビ2027募集要項│RECRUIT│ユタカ工業株式会社｜品質保証力、コスト改善力、技...募集要項｜株式会社ユタカ採用サイト【ユタカ電装工業株式会社】の採用サイトRECRUIT│ユタカ工業株式会社｜品質保証力、コスト改善力、技術提案力...ユタカ工業 (株)の新卒採用・会社概要 | マイナビ2027 — Mar 19, 2026 · (株)ユタカの会社概要ページです。マイナビ2027は、(株)ユタカの採用情報や企業情報で、就職活動をサポートします。 募集要項のページです。ユタカ工業株式会社の新卒・キャリア採用サイトです。数々の自動車部品を製造しているユタカ工業株式会社の仕事について、社員インタビュー、採用情報などご紹介します。 ユタカの営業の最前線で活躍していただきます。 担当するエリアは全国各地。 営業スタッフがエリアを分担し顧客を訪問します。",
+    "url": "https://job.mynavi.jp/27/pc/search/corp284522/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項│RECRUIT│ユタカ工業株式会社｜品質保証力、コスト改善力、技...募集要項｜株式会社ユタカ採用サイト【ユタカ電装工業株式会社】の採用サイトRECRUIT│ユタカ工業株式会社｜品質保証力、コスト改善力、技術提案力...ユタカ工業 (株)の新卒採用・会社概要 | マイナビ2027 — 募集要項のページです。ユタカ工業株式会社の新卒・キャリア採用サイトです。数々の自動車部品を製造しているユタカ工業株式会社の仕事について、社員インタビュー、採用情報などご紹介します。 ユタカの営業の最前線で活躍していただきます。 担当するエリアは全国各地。 営業スタッフがエリアを分担し顧客を訪問します。 お客様のものづくりにおいて必要な部品のニーズをヒアリング。 当社の技術をPRしていただきます。 文系・理系を問いません。 ユタカ電装工業株式会社 COMPANY 会社情報 ユタカ電装工業株式会社 住所",
+    "url": "https://yutaka-japan.com/recruit/recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "【ユタカ電装工業株式会社】の採用サイト — ユタカ電装工業株式会社 COMPANY 会社情報 ユタカ電装工業株式会社 住所 香川県高松市香南町吉光870-1 業種 / 許認可番号 半導体・電子機器メーカー 代表者肩書き 代表取締役 代表氏名 坂東 和良 ホームページ https://www.yutaka-denso.co.jp/ 設立年月 1987年7月 従業員 ...",
+    "url": "https://arwrk.net/recruit/if5kjky5cvkcu2q/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "四国地方の主要な電気機械器具製造業関連企業一覧｜企業クリップ Aug 5, 2025 · ユタカ電装工業株式会社 ｜ 香川県高松市香南町吉光870番地1 レルテック医療器株式会社 ｜ 香川県坂出市川津町3795番地1 株式会社タケチ ｜ 愛媛県松山市中野町甲936番地 株式会社観音寺電子 ｜ 香川県観音寺市大野原町花稲1558番地",
+    "url": "https://note.com/clipcorporation/n/n2a72376e6cc7",
+    "pass": 3
+   },
+   {
+    "quote": "香川県の主要な生産用機械器具製造業関連企業一覧｜企業クリップ Jul 31, 2025 · ユタカ電装工業株式会社 | 香川県高松市香南町吉光870番地1 有限会社伸栄製作所 | 香川県仲多度郡まんのう町吉野4291番地9 トヨタ工業有限会社 | 香川県高松市生島町608番地23 株式会社協進精工 | 香川県さぬき市長尾西1206番地2",
+    "url": "https://note.com/clipcorporation/n/n834229069188",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "四国地方の主要な電気機械器具製造業関連企業一覧｜企業クリップ",
+    "url": "https://note.com/clipcorporation/n/n2a72376e6cc7",
+    "pass": 3
+   },
+   {
+    "quote": "四国地方の主要な電気機械器具製造業関連企業一覧",
+    "url": "https://note.com/clipcorporation/n/n2a72376e6cc7",
+    "pass": 3
+   },
+   {
+    "quote": "山英電機株式会社 ｜ 香川県高松市香南町横井３７５番地１",
+    "url": "https://note.com/clipcorporation/n/n2a72376e6cc7",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ミトヨテクニカル ｜ 香川県観音寺市柞田町甲４８６番地１",
+    "url": "https://note.com/clipcorporation/n/n2a72376e6cc7",
+    "pass": 3
+   },
+   {
+    "quote": "高島総業株式会社 ｜ 香川県仲多度郡多度津町大字葛原１０６９番地",
+    "url": "https://note.com/clipcorporation/n/n2a72376e6cc7",
+    "pass": 3
+   },
+   {
+    "quote": "ＳＹＮＫＳ株式会社 ｜ 愛媛県松山市高岡町３６８番地１",
+    "url": "https://note.com/clipcorporation/n/n2a72376e6cc7",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社鳳凰機械工業 ｜ 徳島県阿南市中林町原２番地の２",
+    "url": "https://note.com/clipcorporation/n/n2a72376e6cc7",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社共立電機工業 ｜ 徳島県吉野川市鴨島町麻植塚２７１番地",
+    "url": "https://note.com/clipcorporation/n/n2a72376e6cc7",
+    "pass": 3
+   },
+   {
+    "quote": "香川県の主要な生産用機械器具製造業関連企業一覧｜企業クリップ",
+    "url": "https://note.com/clipcorporation/n/n834229069188",
+    "pass": 3
+   },
+   {
+    "quote": "香川県の主要な生産用機械器具製造業関連企業一覧",
+    "url": "https://note.com/clipcorporation/n/n834229069188",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社クシベウィンテック | 香川県三豊市高瀬町上高瀬１５７４番地１",
+    "url": "https://note.com/clipcorporation/n/n834229069188",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社三共機械工業 | 香川県高松市牟礼町牟礼３１９５番地４",
+    "url": "https://note.com/clipcorporation/n/n834229069188",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社草薙鉄工所 | 香川県丸亀市金倉町１１１５番地",
+    "url": "https://note.com/clipcorporation/n/n834229069188",
+    "pass": 3
+   },
+   {
+    "quote": "永和工機株式会社 | 香川県高松市新田町甲２０６８番地",
+    "url": "https://note.com/clipcorporation/n/n834229069188",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社タダノアイレック | 香川県仲多度郡多度津町西港町１４番地の１",
+    "url": "https://note.com/clipcorporation/n/n834229069188",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社協和鉄工所 | 香川県坂出市林田町２８５１番地２８２",
+    "url": "https://note.com/clipcorporation/n/n834229069188",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.wskagawa.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_disp&exec=about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kyujin&exec=list",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=list",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_disp&exec=companyguide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kyujin&exec=detail&kyujin_key=08-0028-b076",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kyujin&exec=detail&kyujin_key=08-0028-b077",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kyujin&exec=detail&kyujin_key=08-0028-b082",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kyujin&exec=list&restore=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=detail&kigyo_key=08-0028",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.wskagawa.jp/img/companyguide/pdf/KagawaCompanyGuide.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.wskagawa.jp/img/companyguide/pdf/P26.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.wskagawa.jp/img/companyguide/pdf/P27.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.job-net.jp/employers/9470001005389",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E3%83%A6%E3%82%BF%E3%82%AB%E9%9B%BB%E8%A3%85%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%B1%82%E4%BA%BA.html?vjk=eb5cdbda921c2644",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E3%83%A6%E3%82%BF%E3%82%AB%E9%9B%BB%E8%A3%85%E5%B7%A5%E6%A5%AD%E3%80%80%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/jobs",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp284522/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yutaka-japan.com/recruit/recruitment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arwrk.net/recruit/if5kjky5cvkcu2q/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clipcorporation/n/n2a72376e6cc7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clipcorporation/n/n834229069188",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ユタカ電装工業 求人 年収",
+   "results": [
+    "https://www.job-net.jp/employers/9470001005389",
+    "https://jp.indeed.com/q-ユタカ電装工業株式会社-求人.html?vjk=eb5cdbda921c2644",
+    "https://jp.indeed.com/cmp/ユタカ電装工業　株式会社/jobs",
+    "https://www.r-agent.com/company/h7495/",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10012858677/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10012858677/",
+    "https://arwrk.net/recruit/if5kjky5cvkcu2q/"
+   ]
+  },
+  {
+   "query": "ユタカ電装工業 採用 新卒 高卒",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp284522/outline.html",
+    "https://yutaka-japan.com/recruit/recruitment/",
+    "https://arwrk.net/recruit/if5kjky5cvkcu2q/",
+    "https://www.r-yutaka.jp/entry/",
+    "https://www.r-yutaka.jp/requirement/",
+    "https://yutaka-japan.com/recruit/index.html",
+    "https://job.mynavi.jp/27/pc/search/corp249961/outline.html"
+   ]
+  },
+  {
+   "query": "site:note.com ユタカ電装工業",
+   "results": [
+    "https://note.com/yutakanvc_note",
+    "https://note.com/clipcorporation/n/n2a72376e6cc7",
+    "https://note.com/clipcorporation/n/n834229069188",
+    "https://note.com/yutakanvc_note/n/n5044a69711bd",
+    "https://tales.note.com/nice_sorrel6709/w6khs0zpmfzoi/episodes/ecmz7jxxco5nb",
+    "https://tales.note.com/nice_sorrel6709/w6khs0zpmfzoi",
+    "https://note.com/keiei_riaru/n/n5f9ab72ed542"
+   ]
+  },
+  {
+   "query": "site:x.com ユタカ電装工業",
+   "results": [
+    "https://x.com/",
+    "https://blog.x.com/en/product/introducing-a-new-twitter-dot-com",
+    "https://x.com/aryarya",
+    "https://x.com/yutaka_Water1",
+    "https://x.com/yutaka_Water",
+    "https://x.com/yutaka_Water2/status/2116092771635273914",
+    "https://x.com/yutaka_Water2"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ユタカ電装工業",
+   "results": [
+    "https://jp.linkedin.com/in/豊-青野-60189126b",
+    "https://jp.linkedin.com/in/ikedayutaka",
+    "https://sg.linkedin.com/company/yutaka-global",
+    "https://in.linkedin.com/in/reshmarosebaby",
+    "https://www.linkedin.com/company/ユタカ設備工業（株）",
+    "https://www.linkedin.com/",
+    "https://uk.linkedin.com/in/marie-ebert"
+   ]
+  },
+  {
+   "query": "site:facebook.com ユタカ電装工業",
+   "results": [
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/yutakadk/photos/",
+    "https://www.facebook.com/p/ユタカ電業株式会社-100081744583460/",
+    "https://www.facebook.com/yutaka.itizenya/",
+    "https://www.facebook.com/yutakadk/posts/歩廊式大型橋梁点検車mbi-200が現場デビュー致しました今まで差し込めなかった3車線道路での中央分離帯部も届くようになりました18m部のエアー式昇降作業台も活/2905146643058971/",
+    "https://www.facebook.com/yutakadk/photos/この度橋梁新聞の特集記事で弊社と取り上げて頂きましたまもなく導入予定の大型橋梁点検車mbi-200歩廊長国内最大の20m対応です是非ご熟読ください橋梁点検車-大/2816855585221411/",
+    "https://www.facebook.com/yutakadk/posts/新機種を導入しましたタダノ製-３２ｍ高所作業車at-320xtg最大地上高３２０ｍ40t車クラスなので限定中型免許対応です車両総重量80ｔ未満旧普通免許に対応し/2756454484594855/"
+   ]
+  },
+  {
+   "query": "ユタカ電装工業 note 社長",
+   "results": [
+    "https://compalyze.co.jp/company/9470001005389",
+    "https://www.alevelsearch.com/company/yutaka-denso/",
+    "https://www.alevelsearch.com/company/yutaka-denso-2/",
+    "https://www.114bank.co.jp/newsrelease/2025/pdf/news_20250701_1.pdf",
+    "https://www.kagawabiz-news.media/keizai/7951",
+    "http://www.yutaka-denso.co.jp/cms/wp-content/uploads/2025/07/0a96728aad52be7d3428617566d0d999.pdf",
+    "https://www.yutaca.co.jp/company/message/"
+   ]
+  },
+  {
+   "query": "ユタカ電装工業 X 投稿",
+   "results": [
+    "https://companydata.tsujigawa.com/company2/9470001005389/",
+    "https://www.youtube.com/@ユタカ電装工業株式会社",
+    "https://prtimes.jp/topics/keywords/ユタカ電装工業",
+    "https://x.com/tanaka3593",
+    "https://x.com/yutakashi451/status/2118192369921335779",
+    "https://wolf-fun.secret.jp/?cmd=trader_stock&twid=152202530&code=2806",
+    "https://shinya-no-ippon.com/myfans/posts/b5fe490c-f496-4056-b8d9-e0465ebf3d66/"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式10頁／PDF・画像3件／外部8頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式10頁／PDF・画像3件／外部8頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式10頁／PDF・画像3件／外部8頁・検索8回）"
+ }
+}

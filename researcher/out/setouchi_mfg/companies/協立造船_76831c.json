@@ -1,0 +1,263 @@
+{
+ "name": "協立造船",
+ "aliases": [],
+ "context": "山口県下関市／出典:タウンページ／求人媒体:見当たらず／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T05:49:03.636525+00:00",
+ "official_url": "https://pitact.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "〒162-0801 東京都新宿区山吹町346 シマダビル6F",
+    "url": "https://pitact.com/pages/about",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　金城 宏樹",
+    "url": "https://pitact.com/pages/about",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2014年3月",
+    "url": "https://pitact.com/pages/about",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業概要",
+    "value": "インターネット広告事業 代理店専門サイト：代理店本舗 を運営 フランチャイズ募集専門サイト：フランチャイズ通信 を運営",
+    "url": "https://pitact.com/pages/about",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "5000万円〜1億円未満の会社",
+    "url": "https://pitact.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1000万円〜5000万円未満の会社",
+    "url": "https://pitact.com/",
+    "pass": 1
+   },
+   {
+    "quote": "500万円〜1000万円未満の会社",
+    "url": "https://pitact.com/",
+    "pass": 1
+   },
+   {
+    "quote": "100万円〜500万円未満の会社",
+    "url": "https://pitact.com/",
+    "pass": 1
+   },
+   {
+    "quote": "100万円未満の会社",
+    "url": "https://pitact.com/",
+    "pass": 1
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "事業内容・地域・資本金・従業員数などの条件から、取引先や発注先の候補を探せます",
+    "url": "https://pitact.com/",
+    "pass": 1
+   },
+   {
+    "quote": "10億円以上の会社",
+    "url": "https://pitact.com/",
+    "pass": 1
+   },
+   {
+    "quote": "5億円〜10億円未満の会社",
+    "url": "https://pitact.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1億円〜5億円未満の会社",
+    "url": "https://pitact.com/",
+    "pass": 1
+   },
+   {
+    "quote": "5000万円〜1億円未満の会社",
+    "url": "https://pitact.com/",
+    "pass": 1
+   },
+   {
+    "quote": "協立造船の評判・クチコミ | 就職・転職に役立つ企業リサーチはYahoo!しごとカタログ",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2003835368/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "協立の年収・給与 平均年収も - エン カイシャの評判 (5699)造船業界の年収は高い？平均年収・ボーナスを徹底解説｜造船ナビ造船の仕事の平均年収は440万円／平均時給は1,199円！給料ナビで詳し...株式会社協立 の給与 - Indeed (インディード)株式会社協立の平均年収、年間給与所得情報 − 転職ならdoda（デューダ...造船所の仕事はきつい？造船工の給料・年収と未経験からのなり方協立造船の評判・クチコミ | 就職・転職に役立つ企業リサーチはYahoo!... — 株式会社協立の平均年収は614万円、年収範囲は350～1050万円です（19人の正社員の回答）。年収・給与に関する口コミを14件掲載中。「エン カイシャの評判（旧ライトハウス）」。 造船業界の平均年収は 「495万円」。ただし… 求人サイトの最新データ（※1）によると、造船業界全体の正社員平均年収は 約495万円",
+    "url": "https://en-hyouban.com/company/10007635699/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "協立造船の評判・クチコミ | 就職・転職に役立つ企業リサーチはYahoo!... — 登録者の99% ※にオファーが届いています。就業経験がない方、現在離職中の方、経歴に自信がない方、シニアの方など、幅広く登録されています。※2024年9月～2025年4月の当社実績 オファーサービスについて詳しく 協立造船株式会社の",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2003835368/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://pitact.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitact.com/pages/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://en-hyouban.com/company/10007635699/salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jobcatalog.yahoo.co.jp/company/2003835368/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zousennavi.com/shipbuilding-industry/salary.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp282250/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoritsu-sol.co.jp/recruit/guide-new-graduate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-kyoritsu.co.jp/recruit/entry",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "協立造船 求人 年収",
+   "results": [
+    "https://en-hyouban.com/company/10007635699/salary/",
+    "https://jobcatalog.yahoo.co.jp/company/2003835368/",
+    "https://www.zousennavi.com/shipbuilding-industry/salary.html",
+    "https://xn--pckua2a7gp15o89zb.com/造船の年収・時給",
+    "https://jp.indeed.com/cmp/株式会社協立/salaries",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10010546367/",
+    "https://bluecareer.jp/shipbuilding-worker-career-salary/"
+   ]
+  },
+  {
+   "query": "協立造船 採用 新卒 高卒",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp282250/outline.html",
+    "https://www.kyoritsu-sol.co.jp/recruit/guide-new-graduate/",
+    "https://www.k-kyoritsu.co.jp/recruit/entry",
+    "https://www.kyoritsu-sol.co.jp/recruit/guide-new-graduate/2982/",
+    "https://www.k-kyoritsu.co.jp/recruit",
+    "https://job.mynavi.jp/27/pc/search/corp56708/outline.html",
+    "https://jp.indeed.com/q-株式会社協立-新卒採用-求人.html"
+   ]
+  },
+  {
+   "query": "site:note.com 協立造船",
+   "results": [
+    "https://note.com/kippei_invest/n/n46ed3589dad3",
+    "https://note.com/kabu_times/n/nd40c96cbf181",
+    "https://tales.note.com/",
+    "https://note.com/izuku_idea/n/n24824bb6a00b",
+    "https://note.com/nattu02/n/n8c5ec2fefede",
+    "https://note.com/deltacf/n/na180066a9922",
+    "https://note.com/nyamu_forfire/n/n25cb71ff389d"
+   ]
+  },
+  {
+   "query": "site:x.com 協立造船",
+   "results": [
+    "https://x.com/TAKEUCHIKENJI5/status/2065561038188167359",
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/Edenlife9/status/2113565596336169327",
+    "https://x.com/adrnvic/status/2116339042962833541",
+    "https://x.com/abdulbasitaka/status/2115913589441843427",
+    "https://x.com/hkane/status/2115011493464821911",
+    "https://x.com/AlexZarkage/status/2113754409410674975"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 協立造船",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com 協立造船",
+   "results": [
+    "https://www.facebook.com/kyoritu/",
+    "https://www.facebook.com/miraiships/",
+    "https://www.facebook.com/alexwilsonband/",
+    "https://www.facebook.com/slingocasino/",
+    "https://www.facebook.com/awkwardfamilyphotos/photos/",
+    "https://www.facebook.com/kyouritsu.japan/",
+    "https://www.facebook.com/chukotei/posts/共立レジンクラフト-104トン漁船モデルサイズ20ft出品エリア宮崎九州共立レジンクラフト製-104トン漁船になります検査証より全長-568m-となっていた為-/1073568810415388/"
+   ]
+  },
+  {
+   "query": "協立造船 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://prtimes.jp/main/html/rd/p/000000097.000080389.html"
+   ]
+  },
+  {
+   "query": "協立造船 X 投稿",
+   "results": [
+    "https://www.tokyo-keizai.com/archives/63071",
+    "https://x.com/kotoheihei_room",
+    "https://x.com/post15550072/status/2117920354131988536",
+    "https://wolf-fun.secret.jp/?TRADER/1597472798011953152",
+    "https://note.com/mgane/n/n1c0d7384c8a0",
+    "https://search.yahoo.co.jp/realtime/search/内海造船/",
+    "https://diamond.jp/articles/-/387648"
+   ]
+  }
+ ],
+ "missing": {
+  "資本金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用ページ": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）"
+ }
+}

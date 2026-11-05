@@ -1,0 +1,809 @@
+{
+ "name": "シバセ工業",
+ "aliases": [],
+ "context": "岡山県浅口市／出典:県・市の企業ガイド／求人媒体:Indeed;doda;自社採用ページ／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T05:44:41.314688+00:00",
+ "official_url": "https://www.shibase.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 磯田 拓也",
+    "url": "https://www.shibase.co.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "磯田拓也",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "【本社工場】 〒719-0252 岡山県浅口市鴨方町六条院中3037 TEL 0865-44-2215　FAX 0865-44-2640 【金光工場】 〒719-0104 岡山県浅口市金光町占見新田200-1 TEL 0865-42-3225　FAX 0865-42-3556 【関東営業所】 〒330-0854 埼玉県さいたま市大宮区桜木町1-9-18-6F TEL 080-3876-2212　FAX 050-6877-5385",
+    "url": "https://www.shibase.co.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "岡山県浅口市鴨方町六条院中3037番地",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1000万円",
+    "url": "https://www.shibase.co.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "10百万円",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "各種ストローの製造・販売 【飲料用ストロー】 ・ストレートストロー ・フレックス(曲がる)ストロー ・スプーンストロー 口径・長さ・色・包装形態など、約200種類のストローの製造・販売 【工業用ストロー】(飲料用途以外全般) 工業用はもちろん、園芸用や教材用、医療用など各産業分野でのストロー状の部品 【電子事業】 モーター自動検査装置の開発",
+    "url": "https://www.shibase.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "38名",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立年",
+    "value": "設立年：1926年",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "（バイオマス度25％分）また、工場内で製造途中に発生したプラスチックはすべて自社で粉砕し、リサイクルして他のプラスチック製品の材料として再利用されています",
+    "url": "https://www.shibase.co.jp/drinking-straw",
+    "pass": 1
+   },
+   {
+    "quote": "現地工場への指導も行い、安心してお使いいただくために万全の体制をとっています",
+    "url": "https://www.shibase.co.jp/drinking-straw",
+    "pass": 1
+   },
+   {
+    "quote": "国産品は岡山県の弊社工場で生産したもの、輸入品はインドネシアの協力工場で生産したものです",
+    "url": "https://www.shibase.co.jp/drinking-straw",
+    "pass": 1
+   },
+   {
+    "quote": "私は、2005年に先代の跡を継いで3代目の社長になりましたが、先代の時代の1996年に5億円あった売上も急減して、私が社長になった時には1億3000万円ほどになっていました",
+    "url": "https://www.shibase.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "その後、会社の方針を変えることで、売上も回復して2023年に4億2000万円まで回復して、さらに売上が増えると見込んで新工場を作る計画を立てましたが、2024年の私の突然の事故で中止になりました",
+    "url": "https://www.shibase.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "モーターの量産工場での生産ラインの立上げ等に従事して、生産ライン用のモーター自動検査装置を開発",
+    "url": "https://www.shibase.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "日本電産（現ニデック）を退職して、芝勢興業株式会社を事業承継 工場長",
+    "url": "https://www.shibase.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "2023年に新工場計画を立ち上げるも、突然の事故で入院し、新工場計画は白紙に",
+    "url": "https://www.shibase.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "環境マネジメントシステム ISO 14001:2015の認証取得／本社工場 備品倉庫の新設",
+    "url": "https://www.shibase.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "工場見学・業務体験を通じて、実際の職場を知ってから正式応募のご判断いただけます",
+    "url": "https://www.shibase.co.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "金光工場も本社同様に社員全員で清掃をしています",
+    "url": "https://www.shibase.co.jp/interview",
+    "pass": 1
+   },
+   {
+    "quote": "本社工場（岡山県浅口市鴨方町六条院中3037 鴨方駅より徒歩３分）",
+    "url": "https://www.shibase.co.jp/recruit/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "金光工場（岡山県浅口市金光町占見新田 200-1）",
+    "url": "https://www.shibase.co.jp/recruit/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "本社工場（岡山県浅口市鴨方町六条院中3037 鴨方駅より徒歩３分）",
+    "url": "https://www.shibase.co.jp/recruit/sales",
+    "pass": 1
+   },
+   {
+    "quote": "金光工場（岡山県浅口市金光町占見新田 200-1）",
+    "url": "https://www.shibase.co.jp/recruit/development",
+    "pass": 1
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫は、商品が「つくられてから、お客様のもとへ届くまで」をつなぐ大切な物流拠点です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "私は、2005年に先代の跡を継いで3代目の社長になりましたが、先代の時代の1996年に5億円あった売上も急減して、私が社長になった時には1億3000万円ほどになっていました",
+    "url": "https://www.shibase.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "その後、会社の方針を変えることで、売上も回復して2023年に4億2000万円まで回復して、さらに売上が増えると見込んで新工場を作る計画を立てましたが、2024年の私の突然の事故で中止になりました",
+    "url": "https://www.shibase.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "1000万円",
+    "url": "https://www.shibase.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "正社員 基本給：19万円～25万円",
+    "url": "https://www.shibase.co.jp/recruit/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "履歴書に、経歴・業務能力（できること）・希望職種・希望勤務時間・希望年収・入社可能時期を記載して下記へ郵送して下さい",
+    "url": "https://www.shibase.co.jp/recruit/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "正社員 基本給：19万円～25万円",
+    "url": "https://www.shibase.co.jp/recruit/sales",
+    "pass": 1
+   },
+   {
+    "quote": "履歴書に、経歴・業務能力（できること）・希望職種・希望勤務時間・希望年収・入社可能時期を記載して下記へ郵送して下さい",
+    "url": "https://www.shibase.co.jp/recruit/sales",
+    "pass": 1
+   },
+   {
+    "quote": "正社員 基本給：19万円～25万円",
+    "url": "https://www.shibase.co.jp/recruit/development",
+    "pass": 1
+   },
+   {
+    "quote": "履歴書に、経歴・業務能力（できること）・希望職種・希望勤務時間・希望年収・入社可能時期",
+    "url": "https://www.shibase.co.jp/recruit/development",
+    "pass": 1
+   },
+   {
+    "quote": "シバセ工業の年収・給与 平均年収 - エン カイシャの評判",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "シバセ工業株式会社の年収・給与の口コミページです",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "シバセ工業株式会社で働く社員や元社員が投稿した、年収・給与に関する口コミを10件掲載中",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "シバセ工業株式会社の年収・給与についての口コミ",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "今年の昇給は近年の物価高を考慮して多めに上げていただいたため、生活費の負担増がカバーできて助かっている",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与に関しては利益が出ていればもちろん支給されるが、業績に応じては無かったり、少なくなってしまう年もある",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:賞与には、有給休暇の消滅分を...",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与には、有給休暇の消滅分を考慮して賞与に盛り込んでくれています",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は、給料の何か月分というものではなく、利益に応じて大きく変わるので、働きがいがあります",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は、各リーダーが評価を実施し社長がそれを参考に算出しているため、実力や勤務態度が反映されやすいです",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:年1回、給与の確認があります...",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年1回、給与の確認があります",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与水準：仕事内容や能力で査定されるわ...",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与水準：仕事内容や能力で査定されるわけではない",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与水準：自分は勤めて半年経ってなかっ...",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与水準：自分は勤めて半年経ってなかったので無かったが、売り上げが年々伸びているため今年の夏も賞与が出たそう",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与水準：残業代はつきますが、早朝はつ...",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与水準：残業代はつきますが、早朝はつきません",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "退職率が高いため、絶えず新人に教えては辞めを繰り返すので、年収には満足出来ません",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与水準：パートで働く場合は時給が良い...",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与水準：パートで働く場合は時給が良いと聞きます",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与水準：【賞与（ボーナス）制度の特徴...",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与水準：【賞与（ボーナス）制度の特徴】数年前からないようです",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与水準：パートの方は、時給がよいと聞...",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収214.8万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "工場見学・業務体験を通じて、実際の職場を知ってから正式応募のご判断いただけます",
+    "url": "https://www.shibase.co.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "【主な仕事内容】 ・商品の入荷、検品 ・商品の仕分け、ピッキング ・商品の出荷準備 ・フォークリフトを使用した荷役作業 ・商品の在庫管理 ・倉庫内の商品整理、保管 ・入出庫に関するデータ入力、管理 ・トラックへの積み込み、荷下ろし ・その他、倉庫運営に関わる業務 入社後は、先輩社員と一緒に仕事をしながら、商品の扱い方や倉庫内のルールなどを一つひとつ覚えていきます",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "製造オペレーター | 採用情報 | シバセ工業株式会社",
+    "url": "https://www.shibase.co.jp/recruit/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "販売営業 | 採用情報 | シバセ工業株式会社",
+    "url": "https://www.shibase.co.jp/recruit/sales",
+    "pass": 1
+   },
+   {
+    "quote": "設計・開発 | 採用情報 | シバセ工業株式会社",
+    "url": "https://www.shibase.co.jp/recruit/development",
+    "pass": 1
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "シバセ工業 株式会社の 年収 ・給与 - エン カイシャの評判 — シバセ工業 株式会社の 年収 ・給与 - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company > salary",
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報｜ シバセ工業 株式会社 — 採用情報｜ シバセ工業 株式会社 シバセ工業株式会社 https://www.shibase.co.jp > recruit",
+    "url": "https://www.shibase.co.jp/recruit",
+    "pass": 3
+   },
+   {
+    "quote": "シバセ工業 株式会社の平均 年収 、年間給与所得情報 - doda — シバセ工業 株式会社の平均 年収 、年間給与所得情報 - doda doda https://doda.jp > CompanyIncome > j_id__10001606831",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10001606831/",
+    "pass": 3
+   },
+   {
+    "quote": "シバセ工業 「社員クチコミ」 就職・転職の採用企業リサーチ ... — シバセ工業 「社員クチコミ」 就職・転職の採用企業リサーチ ... OpenWork https://www.openwork.jp > company",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C10000010ZlaI",
+    "pass": 3
+   },
+   {
+    "quote": "シバセ工業 株式会社の評判・口コミ - エン カイシャの評判 — シバセ工業 株式会社の評判・口コミ - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > メーカー（化学）業界",
+    "url": "https://en-hyouban.com/company/10001606831/",
+    "pass": 3
+   },
+   {
+    "quote": "シバセ工業 新卒 高卒 の求人情報をすべて見る （136件） — シバセ工業 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "採用 情報｜ シバセ工業 株式会社 — 採用 情報｜ シバセ工業 株式会社 シバセ工業株式会社 https://www.shibase.co.jp > recruit",
+    "url": "https://www.shibase.co.jp/recruit",
+    "pass": 3
+   },
+   {
+    "quote": "シバセ工業 「社員クチコミ」 就職・転職の 採用 企業リサーチ ... — シバセ工業 「社員クチコミ」 就職・転職の 採用 企業リサーチ ... OpenWork https://www.openwork.jp > company",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C10000010ZlaI",
+    "pass": 3
+   },
+   {
+    "quote": "シバセ工業 株式会社 採用 ホームページ [ 採用 ・求人情報] — シバセ工業 株式会社 採用 ホームページ [ 採用 ・求人情報] job-gear.net https://job-gear.net > shibase",
+    "url": "https://job-gear.net/shibase/",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "シバセ工業 株式会社（公式） (@shibase_straw) / X シバセ工業 株式会社（公式） (@shibase_straw) / X X https://x.com > shibase_straw",
+    "url": "https://x.com/shibase_straw",
+    "pass": 3
+   },
+   {
+    "quote": "# シバセ工業 - Search / X # シバセ工業 - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "シバセ工業 株式会社（公式） on X シバセ工業 株式会社（公式） on X X https://x.com > @shibase_straw",
+    "url": "https://x.com/shibase_straw/status/1339486001194885123",
+    "pass": 3
+   },
+   {
+    "quote": "\"#シバセ工業\" - Results on X | Live Posts & Updates Results for \"#シバセ工業\" on X (Twitter). Find the latest posts, discussions, and updates about #シバセ工業. 20 results found.",
+    "url": "https://x.com/hashtag/シバセ工業",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "国産業務用ストロー生産で5割シェアのシバセ工業の記事。 | Yuki Mats... シバセ工業も再エネ100%利用工場でのバイオマスストロー生産など、樹脂の特性を活かしつつの環境配慮製品への転換は行われているようですし、工業用・医療用ストローへの進出も、英国などで使い捨てプラスチックストロー規制が医療用ストロー等を除外 ...",
+    "url": "https://in.linkedin.com/posts/yuki-matsuzawa29_うちは紙ストローは作りません岡山の日本一のストロー会社が脱プラ運動に真っ向-activity-7064250245701861377-BPWL",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "シバセ工業株式会社 | Asakuchi-shi Okayama - Facebook【すごい会社】No.2820☆シバセ工業（株）（岡山県浅口市）... - 【す...シバセ工業株式会社 - シバセ工業のキャラクター「むぎちゃんとかんく...シバセ工業株式会社 - ツツムンジャー四コママンガ第1話 「ストローは...シバセ工業株式会社 - ツツムンジャー四コママンガ第3話 「キュアピン...シバセ工業株式会社 - ツツムンジャー四コママンガ第2話 「ストローと...【すごい会社】No.2385☆シバセ工業（株）（岡山県浅口市）... - 【す... May 5, 2021 · シバセ工業株式会社, Asakuchi-shi. 103 followers · 6 were here. シバセ工業株式会社は、岡山県浅口市にあるストロー製造メーカーです。 Sep 22, 2024 · 【すごい",
+    "url": "https://www.facebook.com/shibasestraw/",
+    "pass": 3
+   },
+   {
+    "quote": "【すごい会社】No.2820☆シバセ工業（株）（岡山県浅口市）... - 【す... Sep 22, 2024 · 【すごい会社】No.2820☆シバセ工業（株）（岡山県浅口市） 国産業務用プラスチック製ストローの売上高シェアで首位。 ストローは環境問題を受け飲料用で逆風を受けるものの、新たな需要を創出するとともに飲料と並ぶ工業・医療向けの商品を強化する。製品開発にかかる時間とコストを ...",
+    "url": "https://www.facebook.com/excellentJapaneseCompanies/posts/すごい会社no2820シバセ工業株岡山県浅口市国産業務用プラスチック製ストローの売上高シェアで首位ストローは環境問題を受け飲料用で逆風を受けるものの新たな需要を/943155444504979/",
+    "pass": 3
+   },
+   {
+    "quote": "シバセ工業株式会社 - シバセ工業のキャラクター「むぎちゃんとかんく... Sep 17, 2020 · 11 シバセ工業株式会社 Oct 20, 2020 飲料用ストロー・工業用ストロー・医療用ストローの 製造販売をしている会社です！ 【募集職種】 ・営業事務 仕事内容：顧客対応、見積・サンプル作成、出荷業務 に係わる送り状・納品書の発行、電話 ...",
+    "url": "https://www.facebook.com/shibasestraw/posts/シバセ工業のキャラクターむぎちゃんとかんくんのlineスタンプが発売開始となりました日常でのあいさつやたのしいかなしいの感情など使いやすくてこどもらしいかわいい/1577665275748933/",
+    "pass": 3
+   },
+   {
+    "quote": "シバセ工業株式会社 - ツツムンジャー四コママンガ第3話 「キュアピン... Nov 29, 2020 · · November 29, 2020 · Shared with Public ツツムンジャー四コママンガ第3話 「キュアピンクにプレゼントするんじゃあ～！」 All reactions: 11 1 share Like Comment ツツムンジャー四コママンガ第3話 「キュアピンクにプレゼントするんじゃあ～！」",
+    "url": "https://www.facebook.com/shibasestraw/posts/ツツムンジャー四コママンガ第３話キュアピンクにプレゼントするんじゃあ/1643819935800133/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.shibase.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibase.co.jp/drinking-straw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibase.co.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibase.co.jp/recruit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibase.co.jp/interview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibase.co.jp/recruit/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibase.co.jp/recruit/sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibase.co.jp/recruit/development",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://en-hyouban.com/company/10001606831/salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10001606831/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company.php?m_id=a0C10000010ZlaI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/shibase_straw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shibase_straw/status/1339486001194885123",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/posts/yuki-matsuzawa29_うちは紙ストローは作りません岡山の日本一のストロー会社が脱プラ運動に真っ向-activity-7064250245701861377-BPWL",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/shibasestraw/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/excellentJapaneseCompanies/posts/すごい会社no2820シバセ工業株岡山県浅口市国産業務用プラスチック製ストローの売上高シェアで首位ストローは環境問題を受け飲料用で逆風を受けるものの新たな需要を/943155444504979/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/shibasestraw/posts/シバセ工業のキャラクターむぎちゃんとかんくんのlineスタンプが発売開始となりました日常でのあいさつやたのしいかなしいの感情など使いやすくてこどもらしいかわいい/1577665275748933/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/shibasestraw/posts/ツツムンジャー四コママンガ第３話キュアピンクにプレゼントするんじゃあ/1643819935800133/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/シバセ工業",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "シバセ工業 求人 年収",
+   "results": [
+    "https://en-hyouban.com/company/10001606831/salary/",
+    "https://www.shibase.co.jp/recruit",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10001606831/",
+    "https://www.openwork.jp/company.php?m_id=a0C10000010ZlaI",
+    "https://en-hyouban.com/company/10001606831/",
+    "https://jobtalk.jp/companies/365822/answers",
+    "https://job-gear.net/shibase/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10001606831/",
+    "https://en-hyouban.com/company/10001606831/salary/?job_type=10",
+    "https://jp.indeed.com/cmp/シバセ工業株式会社/salaries"
+   ]
+  },
+  {
+   "query": "シバセ工業 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.shibase.co.jp/recruit",
+    "https://www.openwork.jp/company.php?m_id=a0C10000010ZlaI",
+    "https://job-gear.net/shibase/",
+    "https://xn--pckua2a7gp15o89zb.com/%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%AE%E4%BB%95%E4%BA%8B-%E5%B2%A1%E5%B1%B1%E7%9C%8C%E6%B5%85%E5%8F%A3%E5%B8%82",
+    "https://en-hyouban.com/company/10001606831/23/",
+    "https://www.harikennabi.jp/recruit/?kinmu_id=&syokusyu_id=&gyosyu_id=g06&merit04=0&merit05=0&merit06=0&merit07=0&merit09=0&merit10=0&merit11=0&merit12=0&merit14=0&merit15=0&merit17=0&merit18=0&merit21=0&merit24=0&merit25=0&merit26=0&merit27=0&merit28=0&merit29=0&merit30=0&freeword=",
+    "https://doda.jp/DodaFront/View/Company/j_id__10001606831/",
+    "https://chugokukeiren.jp/info/2019/02/mfg/958/",
+    "https://unistyleinc.com/companies/5818"
+   ]
+  },
+  {
+   "query": "site:note.com シバセ工業",
+   "results": [
+    "https://note.com/incoblue_lom0924/n/n868a9303b8b6?hl=en",
+    "https://note.com/incoblue_lom0924/n/n4dd0cb2a3844",
+    "https://note.com/incoblue_lom0924/n/n868a9303b8b6",
+    "https://note.com/tomomishimizu/n/n630afa0a7d79",
+    "https://note.com/rinentokeiei/n/n0a15553187b7"
+   ]
+  },
+  {
+   "query": "site:x.com シバセ工業",
+   "results": [
+    "https://x.com/shibase_straw",
+    "https://x.com/LBS_localnews/status/1855888582952546421",
+    "https://x.com/hashtag/%E3%82%B7%E3%83%90%E3%82%BB%E5%B7%A5%E6%A5%AD",
+    "https://x.com/shibase_straw/status/1339486001194885123",
+    "https://x.com/shibase_straw/status/1722477265114829260/photo/1",
+    "https://x.com/rnc_tvradio/status/1960958752963879324",
+    "https://x.com/seazoo_key",
+    "https://x.com/straw_hirata",
+    "https://x.com/tao1129",
+    "https://x.com/Shibase_Himmeli"
+   ]
+  },
+  {
+   "query": "site:linkedin.com シバセ工業",
+   "results": [
+    "https://in.linkedin.com/posts/yuki-matsuzawa29_うちは紙ストローは作りません岡山の日本一のストロー会社が脱プラ運動に真っ向-activity-7064250245701861377-BPWL",
+    "https://www.linkedin.com/pub/dir/Cécile/VERGNES",
+    "https://nl.linkedin.com/in/rima-husseini-8873a6364",
+    "https://uk.linkedin.com/in/cesarkawakami",
+    "https://www.linkedin.com/",
+    "https://jp.linkedin.com/in/シバチェタン-041b45251",
+    "https://jp.linkedin.com/in/sivatoolingtech"
+   ]
+  },
+  {
+   "query": "site:facebook.com シバセ工業",
+   "results": [
+    "https://www.facebook.com/shibasestraw/",
+    "https://www.facebook.com/excellentJapaneseCompanies/posts/すごい会社no2820シバセ工業株岡山県浅口市国産業務用プラスチック製ストローの売上高シェアで首位ストローは環境問題を受け飲料用で逆風を受けるものの新たな需要を/943155444504979/",
+    "https://www.facebook.com/shibasestraw/posts/シバセ工業のキャラクターむぎちゃんとかんくんのlineスタンプが発売開始となりました日常でのあいさつやたのしいかなしいの感情など使いやすくてこどもらしいかわいい/1577665275748933/",
+    "https://www.facebook.com/shibasestraw/posts/ツツムンジャー四コママンガ第３話キュアピンクにプレゼントするんじゃあ/1643819935800133/",
+    "https://www.facebook.com/shibasestraw/posts/1601930696655724/",
+    "https://www.facebook.com/excellentJapaneseCompanies/posts/4471312022950245/",
+    "https://www.facebook.com/shibasestraw/posts/ツツムンジャー四コママンガ第１話ストローはみな包めるんじゃあ/1596647573850703/"
+   ]
+  },
+  {
+   "query": "シバセ工業 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/シバセ工業",
+    "https://www.shibase.co.jp/company",
+    "https://www.shibase.co.jp/news/20261104",
+    "https://compalyze.co.jp/company/2260001017949",
+    "https://www.nikkan.co.jp/articles/view/00706318",
+    "https://bizhint.jp/report/782868",
+    "https://president.jp/articles/-/69447?page=5"
+   ]
+  },
+  {
+   "query": "シバセ工業 X 投稿",
+   "results": [
+    "https://x.com/hashtag/シバセ工業",
+    "https://www.instagram.com/shibase_straw/",
+    "https://www.shibase.co.jp/",
+    "https://en-hyouban.com/company/10001606831/kuchikomi/9531243/",
+    "https://www.shibase.co.jp/news",
+    "https://www.instagram.com/shibase_himmeli_straw/",
+    "https://x.com/shibase_straw"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部13頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部13頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部13頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部13頁・検索8回）"
+ }
+}

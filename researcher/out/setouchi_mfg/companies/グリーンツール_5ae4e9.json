@@ -1,0 +1,687 @@
+{
+ "name": "グリーンツール",
+ "aliases": [],
+ "context": "岡山県笠岡市／出典:県・市の企業ガイド／求人媒体:Indeed;doda;engage;スタンバイ／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T05:43:14.413558+00:00",
+ "official_url": "https://greentool.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立年月",
+    "value": "設立年月：1978年4月",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "設立年",
+    "value": "設立年：昭和53年",
+    "url": "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3308000031068&kJKbn=2&jGSHNo=47TNoFDpN98zaAZa1AjX1A%3D%3D&fullPart=&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役会長　　藤原　雅義 代表取締役社長　　村上　香",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "役職 代表取締役社長 代表者名 村上　香",
+    "url": "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3308000031068&kJKbn=2&jGSHNo=47TNoFDpN98zaAZa1AjX1A%3D%3D&fullPart=&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "8,000万円",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "8,000万円",
+    "url": "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3308000031068&kJKbn=2&jGSHNo=47TNoFDpN98zaAZa1AjX1A%3D%3D&fullPart=&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "切削工具の製造、再研削、各種コーティング、超硬廃材の買取",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "切削工具の再研削および製造 【主要取扱品目】ドリル、エンドミル、リーマ、カッター類",
+    "url": "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3308000031068&kJKbn=2&jGSHNo=47TNoFDpN98zaAZa1AjX1A%3D%3D&fullPart=&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "222人　（2025年4月現在）",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "企業全体 190人 就業場所 180人 うち女性 81人 うちパート 14人",
+    "url": "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3308000031068&kJKbn=2&jGSHNo=47TNoFDpN98zaAZa1AjX1A%3D%3D&fullPart=&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒714-0006　岡山県笠岡市みの越17番地",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒714-0006 岡山県笠岡市みの越17番地",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒714-0002 岡山県笠岡市甲弩2110-1",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒377-0425 群馬県吾妻郡中之条町西中之条81-1",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "本社みの越工場",
+    "value": "敷地　　8,726㎡ 工場棟　1,878㎡ 事務棟　1,590㎡",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒714-0006 岡山県笠岡市みの越１７番地 最寄り駅１ ＪＲ山陽本線　笠岡駅 最寄り駅から就業場所までの交通手段 車 所要時間 15分",
+    "url": "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3308000031068&kJKbn=2&jGSHNo=47TNoFDpN98zaAZa1AjX1A%3D%3D&fullPart=&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用ページ": [
+   {
+    "quote": "採用情報 | 切削工具の再研削・製造のグリーンツール株式会社",
+    "url": "https://greentool.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "グリーンツールは、「切削工具の再研削」といったニッチな産業の為、中途採用者は他業種からの転職がほとんどです",
+    "url": "https://greentool.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "グリーンツールでは新卒採用にも力を入れています",
+    "url": "https://greentool.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "OpenWorkでは、新卒採用と中途採用それぞれの求人掲載が可能です",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000teHB8",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "生のグリーンツールを感じていただくために、インターンシップ・職場見学の機会を設けています",
+    "url": "https://greentool.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "インターンシップ・職場見学は随時受け付けております",
+    "url": "https://greentool.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "入社後は先輩社員と一緒に現場に入り、工具の名前や使い方、作業の進め方から一つずつ覚えていきます",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "工場見学、会社説明会等は随時受け付けておりますのでお気軽に",
+    "url": "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3308000031068&kJKbn=2&jGSHNo=47TNoFDpN98zaAZa1AjX1A%3D%3D&fullPart=&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "事業拡大に伴い、工場の増設や設備導入を行ってまいりました",
+    "url": "https://greentool.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様に満足いただける品質をお届け出来るよう、より一層技術に磨きをかけていきます",
+    "url": "https://greentool.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "この度弊社は創業45周年を迎え、お得意先、お取引先をはじめとする関係各位、そして常に前向きに誠実に業務に奮励されている社員の皆さんに心より感謝申し上げます",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "工場棟 1,878㎡",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "工場棟 1,465㎡",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "工場棟 1,468㎡",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "グリーンツール・グリーンツール第二工場をクリックするとgoogleMAPをご覧いただけます",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "工場棟 658㎡",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "グリーンツール関東工場をクリックするとgoogleMAPをご覧いただけます",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "岡山県笠岡市港町に新工場建設（現在は移転済み）",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "岡山県笠岡市みの越に本社新工場を建設、操業開始",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "岡山県内に数ヵ所の自社工場を持ち、切削工具の製造・再研削・各種コーティングなどを行っている",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000teHB8",
+    "pass": 3
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "工場見学、会社説明会等は随時受け付けておりますのでお気軽に",
+    "url": "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3308000031068&kJKbn=2&jGSHNo=47TNoFDpN98zaAZa1AjX1A%3D%3D&fullPart=&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "8,000万円",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "資本金6,000万円から8,000万円に増資",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "年収 500万〜600万円",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000teHB8",
+    "pass": 3
+   },
+   {
+    "quote": "年収 380万〜450万円",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000teHB8",
+    "pass": 3
+   },
+   {
+    "quote": "年収 450万〜650万円",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000teHB8",
+    "pass": 3
+   },
+   {
+    "quote": "◤未経験歓迎＆現職給与以上保証◢ コンサルティング営業（静岡勤務）",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000teHB8",
+    "pass": 3
+   },
+   {
+    "quote": "年収 600万～1000万円",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000teHB8",
+    "pass": 3
+   },
+   {
+    "quote": "年収 400万〜600万円",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000teHB8",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円〜510万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "8,000万円",
+    "url": "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3308000031068&kJKbn=2&jGSHNo=47TNoFDpN98zaAZa1AjX1A%3D%3D&fullPart=&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=",
+    "pass": 3
+   },
+   {
+    "quote": "＊【賞与】賞与は、入社２年目から会社業績、個人の評価実績によ",
+    "url": "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3308000031068&kJKbn=2&jGSHNo=47TNoFDpN98zaAZa1AjX1A%3D%3D&fullPart=&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "また今後人材不足が深刻化する中で、多種多様な人材の育成が急務と考えています",
+    "url": "https://greentool.jp/company",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "グリーンツール 株式会社 の 求人 ・中途採用情報 - doda — グリーンツール 株式会社 の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10001459974",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10001459974/",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンツール 「社員クチコミ」 就職・転職の採用企業 ... — グリーンツール 「社員クチコミ」 就職・転職の採用企業 ... OpenWork https://www.openwork.jp > 鉄鋼、非鉄金属",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000teHB8",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 | 切削工具の再研削・製造の グリーンツール 株式会社 — 募集職種 | 切削工具の再研削・製造の グリーンツール 株式会社 グリーンツール株式会社 https://greentool.jp > recruit > job",
+    "url": "https://greentool.jp/recruit/job",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンツール株式会社 の求人情報（11件） — グリーンツール株式会社 の求人情報（11件） スタンバイ",
+    "url": "https://jp.stanby.com/search?cp_id=374688&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンツール 新卒 高卒 の求人情報をすべて見る （136件） — グリーンツール 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "採用 情報 | 切削工具の再研削・製造の グリーンツール 株式会社 — 採用 情報 | 切削工具の再研削・製造の グリーンツール 株式会社 グリーンツール株式会社 https://greentool.jp > recruit",
+    "url": "https://greentool.jp/recruit",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンツール 株式会社の 採用 ・求人情報-engage - エンゲージ — グリーンツール 株式会社の 採用 ・求人情報-engage - エンゲージ エンゲージ https://en-gage.net > greentool_saiyo",
+    "url": "https://en-gage.net/greentool_saiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンツール 株式会社 の求人・中途 採用 情報 - doda — グリーンツール 株式会社 の求人・中途 採用 情報 - doda doda https://doda.jp > CompanyJobs > j_id__10001459974",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10001459974/",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "ハローワークインターネットサービス - 求人情報",
+    "url": "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3308000031068&kJKbn=2&jGSHNo=47TNoFDpN98zaAZa1AjX1A%3D%3D&fullPart=&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワーク紹介状，履歴書，卒業見込証明書，成績証明書",
+    "url": "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3308000031068&kJKbn=2&jGSHNo=47TNoFDpN98zaAZa1AjX1A%3D%3D&fullPart=&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークでの紹介は６月１日からとなります",
+    "url": "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3308000031068&kJKbn=2&jGSHNo=47TNoFDpN98zaAZa1AjX1A%3D%3D&fullPart=&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークにお越しの際は、相談窓口で以下の二次元バーコードをご提示いただくと、スムーズに本求人のご案内が可能となります",
+    "url": "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3308000031068&kJKbn=2&jGSHNo=47TNoFDpN98zaAZa1AjX1A%3D%3D&fullPart=&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "# グリーンツール センター - Search / X # グリーンツール センター - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://greentool.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://greentool.jp/recruit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://greentool.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://greentool.jp/contact_recruit",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://greentool.jp/wp-content/themes/greentool/library/img/pdf/catalog/2025.08_GT01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://greentool.jp/wp-content/themes/greentool/library/img/nav/btn-recruit-off.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://greentool.jp/wp-content/themes/greentool/library/img/nav/nav01_company.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://greentool.jp/wp-content/themes/greentool/library/img/nav/nav01_company_img02.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10001459974/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000teHB8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3308000031068&kJKbn=2&jGSHNo=47TNoFDpN98zaAZa1AjX1A%3D%3D&fullPart=&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "グリーンツール 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10001459974/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000teHB8",
+    "https://greentool.jp/recruit/job",
+    "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3308000031068&kJKbn=2&jGSHNo=47TNoFDpN98zaAZa1AjX1A%3D%3D&fullPart=&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=",
+    "https://jp.stanby.com/search?cp_id=374688&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st",
+    "https://en-gage.net/user/search/desc/5825178/",
+    "https://jp.indeed.com/cmp/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries/%E8%A3%BD%E9%80%A0",
+    "https://en-hyouban.com/company/10001459974/salary/",
+    "https://www.hellowork.careers/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "https://jp.stanby.com/r_16ae1d6eced9884a8a38bddbd4ab0e90"
+   ]
+  },
+  {
+   "query": "グリーンツール 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://greentool.jp/recruit",
+    "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3308000031068&kJKbn=2&jGSHNo=47TNoFDpN98zaAZa1AjX1A%3D%3D&fullPart=&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=",
+    "https://en-gage.net/greentool_saiyo/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10001459974/",
+    "https://jp.indeed.com/q-%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-l-%E5%B2%A1%E5%B1%B1%E7%9C%8C-%E7%AC%A0%E5%B2%A1%E5%B8%82-%E7%AC%A0%E5%B2%A1%E9%A7%85-%E6%B1%82%E4%BA%BA.html",
+    "https://jp.stanby.com/r_5fb6a30e729dae0eaf16a504b742ad4e",
+    "https://greentool.jp/recruit/job",
+    "https://www.hellowork.careers/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "https://en-gage.net/user/search/desc/4640658/"
+   ]
+  },
+  {
+   "query": "site:note.com グリーンツール",
+   "results": [
+    "https://note.com/cre_816/n/n7724cbeb8f08",
+    "https://note.com/parkful/n/ne0b9d03cf2a8",
+    "https://note.com/glossy_daphne371/n/n9a2fadea30be",
+    "https://note.com/cerealtalk/n/n722c481925be",
+    "https://note.com/cre_816/m/m91a358384b8e/hashtag/Fusion",
+    "https://note.com/totonoikko/n/na0c848b302cc",
+    "https://note.com/parker_official/n/n850ebdf647eb",
+    "https://note.com/nature_positive/n/n38c259d3568a",
+    "https://note.com/vuild/n/naf0224ec9862",
+    "https://note.com/chic_fowl7530/n/n9e7c900deecc"
+   ]
+  },
+  {
+   "query": "site:x.com グリーンツール",
+   "results": [
+    "https://x.com/hashtag/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://x.com/DFAroboticsInc/status/2046475344316858432",
+    "https://x.com/Kiichi_tools/status/2016678212785623399",
+    "https://x.com/pvQucs04sq7iw2o/status/1963713664218980565",
+    "https://x.com/astroproducts/status/2029752577974292583",
+    "https://x.com/DFAroboticsInc",
+    "https://x.com/JAMSTEC_PR/status/2072512915073274233",
+    "https://x.com/astroproducts/status/2050138169455132921",
+    "https://x.com/POSTALCO_NEWS/status/1382642986257813506",
+    "https://x.com/ecotool_okazaki/status/2110971595716165789"
+   ]
+  },
+  {
+   "query": "site:linkedin.com グリーンツール",
+   "results": [
+    "https://jp.linkedin.com/pulse/greenfield-finance-5-systems-tools-data-how-build-can-ociepka-rmmec?tl=ja",
+    "https://jp.linkedin.com/pulse/issue-stimulating-demand-unlock-700bn-investment-potential-xbswe?tl=ja",
+    "https://jp.linkedin.com/pulse/monday-futures-books-net-zero-strategies-business-robert-c-brears-aey2f?tl=ja",
+    "https://jp.linkedin.com/pulse/silencing-sustainability-from-greenwashing-leyla-acaroglu-cjwce?tl=ja",
+    "https://jp.linkedin.com/pulse/sustainable-tech-scale-smarter-reduce-costs-build-resilience-amadi-mn9hc?tl=ja",
+    "https://jp.linkedin.com/pulse/does-sustainability-still-matteror-has-ecommerce-moved-segtc?tl=ja",
+    "https://jp.linkedin.com/pulse/green-belt-vs-black-which-lean-six-sigma-certification-spyqf?tl=ja",
+    "https://jp.linkedin.com/in/md-iqbal-hossain-b566751aa",
+    "https://jp.linkedin.com/pulse/policy-brief-accelerating-green-resilient-0z5uf?tl=ja",
+    "https://jp.linkedin.com/pulse/ai-internal-audit-tools-deploy-across-lifecycle-vadali-bjknc?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com グリーンツール",
+   "results": [
+    "https://www.facebook.com/adbjapan/posts/%E3%82%A2%E3%82%B8%E3%82%A2%E5%A4%AA%E5%B9%B3%E6%B4%8B%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0%E6%8C%81%E7%B6%9A%E5%8F%AF%E8%83%BD%E3%81%AA%E4%BA%A4%E9%80%9A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%8F%96%E3%82%8A%E4%B8%8A%E3%81%92%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E3%83%84%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%83%E3%83%88%E3%82%92%E7%99%BA%E8%A1%A8-adb%E3%81%AF%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3%E3%81%AE%E3%83%9E%E3%83%8B%E3%83%A9%E3%81%A75%E6%9C%8814%E6%97%A517%E6%97%A5%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%82%A2%E3%82%B8%E3%82%A2%E5%A4%AA/886708856805107/",
+    "https://www.facebook.com/aoyamaflowermarket/posts/%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E8%8A%B1%E3%81%B0%E3%81%95%E3%81%BF%E3%82%A2%E3%83%BC%E3%83%A2%E3%83%B3%E3%83%89%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B36%E6%9C%8816%E6%97%A5%E6%9C%88%E3%82%88%E3%82%8A%E3%82%B1%E3%82%A2%E3%83%84%E3%83%BC%E3%83%AB%E3%83%95%E3%82%A7%E3%82%A2%E3%82%92%E9%96%8B%E5%82%AC%E4%B8%AD%E6%9A%91%E3%81%95%E3%81%8C%E5%A2%97%E3%81%99%E5%AD%A3%E7%AF%80%E3%81%93%E3%81%9D%E6%B6%BC%E3%82%84%E3%81%8B%E3%81%AB%E8%8A%B1%E3%82%84%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%92%E6%A5%BD%E3%81%97%E3%82%93%E3%81%A7%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%9F%E3%81%84%E3%81%A8%E3%81%84%E3%81%86%E6%83%B3%E3%81%84%E3%81%A7%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%81%97%E3%81%BE/1137928655042790/",
+    "https://www.facebook.com/osk.nogyofukyu/posts/%E8%BE%B2%E4%BD%9C%E6%A5%AD%E7%AE%A1%E7%90%86%E3%81%AE%E5%8A%B9%E7%8E%87%E5%8C%96%E8%A6%8B%E3%81%88%E3%82%8B%E5%8C%96%E3%81%AB%E5%BD%B9%E7%AB%8B%E3%81%A4%E8%AC%9B%E7%BF%92%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E5%A4%A7%E9%98%AA%E5%BA%9C%E3%81%A7%E3%81%AF%E8%BE%B2%E4%BD%9C%E6%A5%AD%E7%AE%A1%E7%90%86%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E7%B5%8C%E5%96%B6%E7%AE%A1%E7%90%86%E3%81%AE%E5%8A%B9%E7%8E%87%E5%8C%96%E3%82%92%E5%9B%B3%E3%82%8B%E6%89%8B%E6%B3%95%E3%82%92%E5%AD%A6%E3%81%B6%E8%AC%9B%E7%BF%92%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E4%B8%AD%E5%B0%8F%E4%BA%8B%E6%A5%AD%E8%80%85%E3%81%AEit%E3%83%84%E3%83%BC%E3%83%AB%E5%B0%8E/1557674689717927/",
+    "https://m.facebook.com/hobbyhikari/photos/%E3%82%BF%E3%83%9F%E3%83%A4-%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%83%84%E3%83%BC%E3%83%AB-%E3%83%A2%E3%83%87%E3%83%A9%E3%83%BC%E3%82%BA%E3%83%8A%E3%82%A4%E3%83%95%E3%83%9F%E3%83%B3%E3%83%88%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E9%99%90%E5%AE%9A%E3%82%AB%E3%83%A9%E3%83%BC%E5%85%A5%E8%8D%B7%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/1407908381122650/",
+    "https://www.facebook.com/fujiwarasangyo/posts/%E9%AB%98%E5%BC%B7%E5%BA%A6%E3%82%A2%E3%83%AB%E3%83%9F%E8%A3%BD%E9%8D%9B%E9%80%A0%E3%82%AB%E3%83%A9%E3%83%93%E3%83%8A%EF%BD%93%EF%BD%8B%EF%BC%91%EF%BC%91-%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%84%E3%83%BC%E3%83%AB%E3%83%95%E3%83%83%E3%82%AF-color%E3%81%AF%E8%85%B0%E3%81%BE%E3%82%8F%E3%82%8A%E3%82%92%E9%AE%AE%E3%82%84%E3%81%8B%E3%81%AB%E3%81%8B%E3%81%A3%E3%81%93%E3%82%88%E3%81%8F%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%8D%E3%83%BC%E3%83%88%E5%B7%A5%E5%85%B7%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E5%90%8A%E3%82%8A%E4%B8%8B%E3%81%92%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E6%B9%BE%E6%9B%B2%E3%82%B2%E3%83%BC%E3%83%88%E4%BB%95%E6%A7%98/1767861403339574/",
+    "https://www.facebook.com/3COINS.jp/posts/new-arrival%E5%A4%A7%E4%BA%BA%E6%B0%97%E3%81%AE%E3%83%84%E3%83%BC%E3%83%AB%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AB%E6%96%B0%E8%89%B2%E7%99%BB%E5%A0%B4%E3%82%B3%E3%82%B9%E3%83%A1%E3%82%84%E3%81%8A%E3%81%8F%E3%81%99%E3%82%8A%E8%A3%81%E7%B8%AB%E9%81%93%E5%85%B7%E3%82%84%E6%8E%A8%E3%81%97%E3%82%B0%E3%83%83%E3%82%BA%E3%81%AE%E5%8F%8E%E7%B4%8D%E3%81%AA%E3%81%A9%E5%B9%85%E5%BA%83%E3%81%84%E7%94%A8%E9%80%94%E3%81%AB%E3%81%8A%E4%BD%BF%E3%81%84%E3%81%84%E3%81%9F%E3%81%A0%E3%81%91%E3%81%BE%E3%81%99%E3%83%84%E3%83%BC%E3%83%AB%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%88%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%E3%82%B0/973193204172176/",
+    "https://www.facebook.com/d.and.department.tokyo/posts/%E3%82%BF%E3%83%95%E3%81%A7%E5%8F%8E%E7%B4%8D%E5%8A%9B%E3%82%82%E6%8A%9C%E7%BE%A4%E3%81%AA%E6%9D%BE%E9%87%8E%E5%B1%8B-%E3%83%98%E3%83%93%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%83%84%E3%83%BC%E3%83%AB%E3%83%88%E3%83%BC%E3%83%88%E5%B2%A1%E5%B1%B1%E7%9C%8C%E7%94%A3%E3%81%AE%E5%B8%86%E5%B8%83%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E6%9D%B1%E4%BA%AC%E4%B8%8B%E7%94%BA%E3%81%AE%E9%9E%84%E8%81%B7%E4%BA%BA%E3%81%8C%E4%B8%80%E3%81%A4%E3%81%B2%E3%81%A8%E3%81%A4%E4%B8%81%E5%AF%A7%E3%81%AB%E7%B8%AB%E8%A3%BD%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E7%B6%BF100%E3%81%AE%E5%B8%86%E5%B8%83%E3%81%AF%E7%9B%AE%E3%81%8C%E8%A9%B0%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%9F/1419027370257015/",
+    "https://www.facebook.com/greenpiayame/posts/2025%E5%B9%B410%E6%9C%8811%E6%97%A5%E5%9C%9F%E5%9B%BD%E5%86%85%E5%B1%88%E6%8C%87%E3%81%AE%E8%87%AA%E8%BB%A2%E8%BB%8A%E3%83%AD%E3%83%BC%E3%83%89%E3%83%AC%E3%83%BC%E3%82%B9-%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%9F-%E3%83%84%E3%83%BC%E3%83%AB%E3%83%89%E4%B9%9D%E5%B7%9E2025-%E3%81%AE%E7%A6%8F%E5%B2%A1%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%8C%E5%9C%B0%E5%85%83%E5%85%AB%E5%A5%B3%E5%B8%82%E9%BB%92%E6%9C%A8%E7%94%BA%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99-%E3%83%AC%E3%83%BC%E3%82%B9%E6%A6%82%E8%A6%81%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E5%9C%B0%E7%82%B9%E3%81%AF-/767877529344727/",
+    "https://www.facebook.com/bonmaisoncojp/posts/%E5%AD%A3%E7%AF%80%E3%81%AE%E7%A7%BB%E3%82%8D%E3%81%84%E3%81%A8%E7%99%92%E3%81%97%E3%81%AE%E7%A9%BA%E9%96%93%E6%9C%9D%E5%A4%95%E3%81%AB%E6%B6%BC%E3%81%97%E3%81%84%E9%A2%A8%E3%82%92%E6%84%9F%E3%81%98%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8A%E7%A7%8B%E3%81%AE%E6%B0%97%E9%85%8D%E3%81%8C%E5%B0%91%E3%81%97%E3%81%9A%E3%81%A4%E8%BF%91%E3%81%A5%E3%81%84%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%81%AD%E3%83%9C%E3%83%B3%E3%83%A1%E3%82%BE%E3%83%B3%E3%81%AE%E5%BA%97%E5%86%85%E3%82%82%E5%AD%A3%E7%AF%80%E3%81%AE%E7%A7%BB%E3%82%8D%E3%81%84%E3%81%A8%E3%81%A8%E3%82%82%E3%81%AB%E6%96%B0%E3%81%97%E3%81%84%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E3%81%8C%E4%BB%B2%E9%96%93%E5%85%A5%E3%82%8A%E3%81%97%E3%81%A6%E3%81%84/1600748058410024/",
+    "https://www.facebook.com/cpij.or.jp/posts/%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9-%E3%82%B7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%A6%E3%83%A0%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%81%E3%81%AB-%E3%81%9B%E3%81%9F%E3%81%8C%E3%82%84%E3%81%AE%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%92%E8%80%83%E3%81%88%E3%82%88%E3%81%86%E4%B8%8B%E8%A8%98%E3%81%AE%E9%80%9A%E3%82%8A%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%B8%BB%E5%82%AC%E4%B8%96%E7%94%B0%E8%B0%B7%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9/1968656259895439/"
+   ]
+  },
+  {
+   "query": "グリーンツール note 社長",
+   "results": [
+    "https://greentool.jp/company",
+    "https://bingolife.jp/work/people/467/",
+    "https://syukatsu-kaigi.jp/companies/16034/post_items/11/word_mouths",
+    "https://www.kirari-okayama.jp/joseikai/%E6%96%B0%E8%A6%8F%E9%96%8B%E7%99%BA%E3%81%8B%E3%82%89%E5%86%8D%E7%94%9F%E3%80%81%E5%BB%83%E6%A3%84%E5%9B%9E%E5%8F%8E%E3%81%BE%E3%81%A7%E3%80%82-%E4%B8%80%E5%93%81%E4%B8%80%E6%A7%98%E3%81%AE-2/",
+    "https://okayama.doyu.jp/kaiin/211021-142742.html",
+    "https://www.openwork.jp/one_answer.php?vid=a0A1000001nvXtQ&qco=1",
+    "https://ikasa-koyou.jp/interview/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB%E6%A0%AA",
+    "https://keizai.info/cover-okayama/148598",
+    "https://note.com/ibaraki_gcb/n/ne893bedafa26",
+    "https://greentool.jp/news/information/4448"
+   ]
+  },
+  {
+   "query": "グリーンツール X 投稿",
+   "results": [
+    "https://greentool.jp/",
+    "https://syukatsu-kaigi.jp/companies/16034/post_items/11/word_mouths",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000teHB8",
+    "https://x.com/gas93740656/status/1905757688241516665",
+    "https://www.youtube.com/watch?v=AOQGOSiGNwc",
+    "https://jobtalk.jp/companies/24821/answers",
+    "https://mect-japan.com/2025/visitor/Information/index/charge_no=154",
+    "https://sananeblog.com/x-delete-tool-free/",
+    "https://www.gas-laboratory.com/courses/twitter-link-posts-data",
+    "https://note.com/aikachan_ai/n/n5bf03e58300f"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部5頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部5頁・検索8回）"
+ }
+}

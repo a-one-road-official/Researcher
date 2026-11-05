@@ -643,6 +643,14 @@
   - 「例えば、投資家は小売店の駐車場の衛星写真を分析することで売上予測を行い、競争優位を確立した事例がある（Groll, 2017）」（https://note.com/everprogress/n/n28fc53b2c5cc）
   - 「：ケーススタディによれば、インテリジェンス思考を導入することで戦略的優位性を得ることができる」（https://note.com/everprogress/n/n28fc53b2c5cc）
   - 「例えば、ヘッジファンドが画像データや取引データを活用して投資判断を行ったり、企業がプライベート・インテリジェンス企業を利用してデューデリジェンスや競合分析を行ったりしている（Black Cube, n.d.）」（https://note.com/everprogress/n/n28fc53b2c5cc）
+- 検索結果の抜粋：
+  - 「公開情報という武器――OSINT入門｜red_structure — Mar 18, 2026 · OSINTとは何か——諜報活動との違い OSINT（Open Source Intelligence）とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ。」（https://note.com/red_structure/n/na2c79b00d217）
+  - 「OSINT（公開情報調査）入門｜個人でも使える基本ツール5選 — Jul 28, 2026 · OSINT（Open Source Intelligence／公開情報調査）は、公開されている情報源を体系的に収集・分析し、判断材料として整理する手法の総称だ。 特別なツールを揃えないと使えないものではなく、公的データベースや報道アーカイブと...」（https://shiraberu-note.com/osint-basic-tools-guide/）
+  - 「OSINTとは公開情報を利用して情報収集・分析を行う手法 — Jan 17, 2025 · OSINT（オープンソース・インテリジェンス）は、インターネット上の公開情報を利用して情報収集・分析を行う手法です。 サイバーセキュリティから企業調査まで幅広い分野で活用されています。」（https://cybersecurity-info.com/column/30403/）
+  - 「OSINT（公開情報調査）入門｜個人でも使える基本ツール5選 — Jul 28, 2026 · 特別なツールを揃えないと使えないものではなく、公的データベースや報道アーカイブといった身近な公開情報を、検証の作法に沿って組み合わせる姿勢そのものがOSINTを構成する。」（https://shiraberu-note.com/osint-basic-tools-guide/）
+  - 「【初心者向け完全ガイド】OSINTとは何か？公開情報から真実を読み解く... — Mar 9, 2026 · OSINT（Open Source Intelligence）とは何かを初心者向けに解説。 公開情報を使った情報収集の基本、検索テクニック、SNS・地理情報・企業調査への活用方法、注意点までわかりやすく紹介する完全ガイド。」（https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/）
+  - 「Open Source Intelligence (OSINT) Market (2026 – 2035)Open-Source Intelligence (OSINT) - Global Strategic Business ...Open Source Intelligence Market Trends Anaysis Report 2026-2030Top 15 OSINT Tools for Business Intelligence - salesfuel.comOpen-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (Osint) Market Size, Share | Growth ... — Open-Source Intelligence (OSINT) Type」（https://www.marketresearchfuture.com/reports/open-source-intelligence-market-4545）
+  - 「Open-Source Intelligence (OSINT) - Global Strategic Business ...Open Source Intelligence Market Trends Anaysis Report 2026-2030Top 15 OSINT Tools for Business Intelligence - salesfuel.comOpen-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (Osint) Market Size, Share | Growth ... — The Open-Source Intelligence (OSINT) Market, valued at USD 12.4B in 2025, is projected to 」（https://www.researchandmarkets.com/reports/6236083/open-source-intelligence-osint-global）
 
 ## コンサル・アナリストのリサーチの型（consultant research methodology）
 - 文脈：型
@@ -1343,6 +1351,14 @@
   - 「対象集団や実験条件が異なる複数の追試を、「同じ再現結果が得られた」とひとまとめに扱わないように注意してください」（https://media.deskrex.ai/case-citation-research-2026/）
   - 「Transformerの自己注意が抱えるO(N^2)の計算コストを、SSM（状態空間モデル、例：Mamba）のO(N)でどう回避するか」（https://media.deskrex.ai/case-citation-research-2026/）
   - 「Hikvision、Predpol、Flock Safety、Abel Policeなど、警察の犯罪捜査や現場の業務効率化に革新をもたらす技術とは？プライバシーやバイアスの課題も議論します」（https://media.deskrex.ai/case-citation-research-2026/）
+  - 「導入判断では論文数より調査の失敗が減るかを見る」（https://note.com/gtminami/n/n0a5308378b21）
+  - 「どの主張をどの情報源で確かめるかを先に決める方が、AIリサーチの誤りを減らしやすい」（https://note.com/gtminami/n/n0a5308378b21）
+  - 「査読状況、撤回、研究デザイン、サンプル、バイアス、因果の妥当性、対象への適用可能性」（https://note.com/gtminami/n/n0a5308378b21）
+  - 「検索から検証までの失敗しやすい工程を、明示的に設計できたときです」（https://note.com/gtminami/n/n0a5308378b21）
+  - 「深い研究は、いきなり deep にすると高確率で失敗します」（https://note.com/tasty_dunlin998/n/nef86167fa436）
+  - 「失敗1：質問が広すぎて、調査が散る」（https://note.com/tasty_dunlin998/n/nef86167fa436）
+  - 「失敗2：出典はあるが、単一ソース依存になる」（https://note.com/tasty_dunlin998/n/nef86167fa436）
+  - 「失敗3：それっぽい文章で、検証不能になる」（https://note.com/tasty_dunlin998/n/nef86167fa436）
 - 実例：
   - 「AIの調査結果を、どこまで信じてよいのか？出典・反証・不確実性を管理する基本設計｜南翔伍 / AIコンパニオンとSNSの間くらいの「Jams」開発中」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「AIの調査結果を、どこまで信じてよいのか？出典・反証・不確実性を管理する基本設計」（https://note.com/gtminami/n/n5d18b36d3acc）
@@ -1776,6 +1792,7 @@
   - 「また、配当しすぎた結果、資金ショートするという事態は避けるため、手元の資金の状況もふまえて配当金額を決定します」（https://cpa-apple.com/2593/）
   - 「（実践編）「キャッシュ・フロー計算書」の事例分析 ～15社分のCF計算書を比較してみた～」（https://cpa-apple.com/2593/）
   - 「（実践）事例で理解する「財務諸表分析」～任天堂、ユニクロ、アサヒビール～【分析後編】」（https://cpa-apple.com/2593/）
+  - 「（実践）事例で理解する「財務諸表分析」～ケンタッキー、スシロー、丸亀正麺～【回答/分析編】」（https://cpa-apple.com/2593/）
 
 ## 公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT）（OSINT document metadata job postings tech blog business process）
 - 文脈：企業
@@ -1861,6 +1878,18 @@
   - 「Claudeのコメント: 100万ドルの不正通報報奨金は、司法省の実際の制度と食い違っていても「選挙不正が広く存在する」という前提を有権者に浸透させる働きを持ち、選挙結果の正統性を揺さぶる国内外の情報操作の素地になりうる」（https://note.com/ichi_twnovel/n/n56533998f7d3）
 - 検索結果の抜粋：
   - 「ゼロ から はじめる OSINT Open Source Intelligence — ゼロ から はじめる OSINT Open Source Intelligence Contentstack PDF https://assets.contentstack.io > assets > SANS_20230...」（https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltbe45ede7e0e1f6ba/63e5348101ddee6a0d86d72f/SANS_20230119_OSINT_Ja.pdf）
+  - 「情報収集手法 (INT)の融合案まとめレポート｜ittakou — Aug 2, 2026 · 1.基本概念 OSINT(Open Source Intelligence / 公開情報収集) 新聞、テレビ、インターネット、SNS、学術論文、公的統計、衛星画像など、誰でもアクセス可能な公開情報から情報を収集・分析する手法。 合法的でコストが低い SNSやジオロケーション解析の発達により重要性が急上昇 用途例:企業リスク分析 ...」（https://note.com/itta_usa/n/nd300923856e1）
+  - 「オープン・ソース・インテリジェンス - Wikipedia — OSINT （オシント）と略す。 アメリカ合衆国の 国家情報長官室 （英語版） （ODNI）は、2024年の戦略で、OSINTを「特定の情報上の優先事項、要求または空白に対応する、公開または商業的に利用可能な情報だけから導かれたインテリジェンス」と定義した [1]。」（https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス）
+  - 「OSINTとは？公開情報から不正アクセスや情報漏洩の兆候を探る調査手法... — Aug 6, 2025 · OSINT（オープンソースインテリジェンス）は、公開情報をもとに不正アクセスや情報漏洩の兆候を調査する技術です。 本記事では、OSINTの基本から実際の活用方法、注意点までを専門的にわかりやすく解説します。」（https://cybersecurity-info.com/column/40141/）
+  - 「【社長のためのインテリジェンス特別講義】元FBI捜査官に学ぶ、OSINT... — 著者のバゼル氏は、元FBIサイバー犯罪タスクフォースの捜査官として20年以上にわたりサイバー犯罪捜査に従事し、大ヒット海外ドラマ『Mr. Robot』の技術アドバイザーも務めた、サイバー・インテリジェンスの実戦的プロフェッショナルです。」（https://note.com/terueda/n/n5707498651c3）
+  - 「あなたの会社は大丈夫？ ～メタデータの落とし穴～ - NFLabs. エンジ... — Dec 17, 2021 · セキュリティ研修でOSINT（Open Source Intelligence : 公開されている情報ソースから入手可能なデータを収集・分析する技術）を教えることが多いのですが、今日はOSINTのテクニックの一つであるメタデータの収集について書いていきたいと思います。」（https://blog.nflabs.jp/entry/2021/12/17/094635）
+  - 「第32回：メタデータから情報を読み解く - Shikata Ga Nai — Jun 25, 2025 · 写真、文書、PDF、動画などのファイルには、作成者・日時・場所・機器情報などのメタデータが自動的に記録されています。 これらは通常、ファイルを開いても目には見えませんが、OSINT調査では重要な手がかりになります。」（https://cysec148.hatenablog.com/entry/2025/06/25/062841）
+  - 「OSINT #5: Metadata Analysis: Uncovering the Hidden Data Layer ... — Mar 5, 2025 · Uncover hidden intelligence in digital files: Master metadata analysis for OSINT investigations. Tools, case studies, and ethical practices every cyber pro needs.」（https://www.cyberquizzer.com/blog/osint-metadata-analysis）
+  - 「OSINT Handbook 2026 | The OSINT Vault — Oct 13, 2026 · The goal is to standardize how you think, search, pivot, and document across cases without sacrificing accuracy. In practice, that means controlling the process even when the data is chaotic.」（https://theosintvault.io/osint-handbook）
+  - 「Complete Guide to Assessing Your Company OSINT Footprint — Jul 5, 2026 · Learn to assess, reduce, and monitor your organization's OSINT footprint. Protect against cyberattacks by understanding your digital exposure today!」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「What Is OSINT? Open Source Intelligence for Security ... — Mar 24, 2026 · OSINT is intelligence gathered from public sources - DNS, social media, Shodan, job postings. Here's what it is, how it fits into security research, and the...」（https://infishark.com/blogs/learn/what-is-osint-open-source-intelligence-for-security-researchers）
+  - 「OSINT Tools And Techniques | OSINT Technical Sources - Neotas — 1 day ago · Open Source Intelligence (OSINT) refers to the systematic process of collecting, analyzing, and transforming publicly available information into actionable intelligence.」（https://www.neotas.com/osint-tools-and-techniques/）
+  - 「OSINT collection techniques using legitimate tools — Aug 6, 2026 · In practice, OSINT collection is a workflow, not just a set of tools. You start with a question, gather public data from a defined set of sources, validate what you find, and then decide whether the result changes your risk picture.」（https://securityboulevard.com/2026/08/osint-collection-techniques-using-legitimate-tools/）
 
 ## 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）（checking statistical definitions coverage threshold member-only shipment vs sales）
 - 文脈：定義の点検

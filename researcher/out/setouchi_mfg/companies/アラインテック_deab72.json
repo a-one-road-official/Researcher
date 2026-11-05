@@ -1,0 +1,974 @@
+{
+ "name": "アラインテック",
+ "aliases": [],
+ "context": "愛媛県松山市／出典:マイナビ／求人媒体:Indeed;doda;マイナビ新卒;自社採用ページ／想定年収:400〜550万円／従業員:159",
+ "researched_at": "2026-11-05T05:50:20.124555+00:00",
+ "official_url": "https://alinetech.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　上田 文雄（うえだ ふみお）",
+    "url": "https://alinetech.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "上田文雄",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1950年（昭和25年）2月",
+    "url": "https://alinetech.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立年",
+    "value": "設立年：1950年",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1950（昭和25）年2月25日",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "6400万円",
+    "url": "https://alinetech.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "64百万円",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "6,400万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "約170名",
+    "url": "https://alinetech.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "176名",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "170名(2025年4月）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "42億円（2020年度）",
+    "url": "https://alinetech.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "39億円（2025年1月）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "住所 *",
+    "value": "郵便番号 都道府県 —以下から選択してください— 北海道 青森県 岩手県 宮城県 秋田県 山形県 福島県 茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県 新潟県 富山県 石川県 福井県 山梨県 長野県 岐阜県 静岡県 愛知県 三重県 滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県 鳥取県 島根県 岡山県 広島県 山口県 徳島県 香川県 愛媛県 高知県 福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県 沖縄県 市町村番地",
+    "url": "https://alinetech.co.jp/recruit/entry/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "山口県岩国市長野1815番地7",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "label": "本社郵便番号",
+    "value": "740-0045",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "山口県岩国市長野1815-7",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社電話番号",
+    "value": "0827-38-3300",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "山口県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "茨城県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "奈良県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "山口県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/recruiting_course27052870/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "静岡県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/recruiting_course27052870/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "大阪府",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/recruiting_course27052870/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/recruiting_course27052870/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "北海道",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/recruiting_course27052870/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "長野県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/recruiting_course27052870/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "愛知県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/recruiting_course27052870/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都、広島県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/recruiting_course27052870/recruiting_course.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "当社は1950年に、戦後復興を担うべく石油化学プラント建設・メンテナンス事業をもって創業しました。その後、産業機械、自動車製造装置、電機半導体製造設備、自動化・ロボットシステム、医療機器製造装置、さらには2018年からは先端医療機器の展開を開始し、時代の発展に合わせて常に新たな成長産業分野に取り組み、堅実な成長を続けています。 主に行っている事業 1：各種自動化システム 2：各種産業機械 3：医療機器 4：フラットパネルディスプレイ・太陽電池・半導体製造装置 5：各種プラントの建設、配管、据付、メンテナンス 【プロジェクト事例】 ■DNAチップ自動検査装置の共同開発 抗がん剤は2～3割の人にしか有効ではないものも多く、強い副作用により治療継続を断念することが多いのが現状です。私たちがお客様とともに開発したこの自動検査装置により、患者様個人の遺伝子を解析、抗がん剤に対する有効性や副作用の程度を正確に判別し、個人に合った適切な治療方針をより早く、決定することが出来るようになりました。 ■製薬業界向けロボットシステム開発 製薬業界では、製造プロセスにおける製品の成分分析においても、デジタル化",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主な取引先",
+    "value": "様々な業界トップレベルのクライアントの技術開発に携わっています！ (株)浅野研究所、出光興産(株)、岩谷産業(株)、コスモエンジニアリング(株)、山九(株)、サンワテクノス(株)、シャープ(株)、積水化学工業(株)、積水ハウス(株)、第一実業(株)、太陽テクノサービス(株)、大和エネルギー(株)、武田薬品工業(株)、月島機械(株)、月島テクノマシナリー(株)、帝人エンジニアリング(株)、、(株)トクヤマ、東レエンジニアリング(株)、轟産業(株)、日揮プラントイノベーション(株)、日本コークス工業(株)、日本ゼオン(株)、日本通運(株)、マツダエース(株)、三井化学(株)、三井E&Sプラントエンジニアリング(株)、三菱重工業(株)、三菱重工マシナリーテクノロジー(株)、安川エンジニアリング(株)、(株)安川電機　他（五十音順）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "人手不足の発言": [
+   {
+    "quote": "第４次産業革命の進展、人口減少、高齢化の進展、地球環境問題などの事業環境変化に伴い、新製品開発、新規製造プロセスの確立などが求められています",
+    "url": "https://alinetech.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "現在日本は、AI（人工知能）の急速な発展に代表される急速な技術革新の進行、生産年齢人口の減少に伴う人手不足の深刻化、超高齢化の進展、地球温暖化の進行、国際環境の変化など、様々な変化に直面しています",
+    "url": "https://alinetech.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "人口減少や超高齢化にともなう人手不足の深刻化、介護や医療への負担の増加、経済の停滞、地球環境問題の深刻化など、将来を担う子供たちのためにも解決が欠かせません",
+    "url": "https://alinetech.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "「技術革新への対応」「人口減少・人手不足」「超高齢化・がん治療」があります",
+    "url": "https://alinetech.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "今日本は、人口減少・高齢化に伴う人手不足、国際競争力の低下、地球温暖化問題、高齢化の進展に伴う医療健康問題など様々な課題を抱えています",
+    "url": "https://alinetech.co.jp/recruit/message/",
+    "pass": 1
+   },
+   {
+    "quote": "アラインテックという名前が表に出ることは少なくても、私たちが創り出したものは、地球温暖化対策、人手不足対策、AIや医療の進化など、社会問題を解決する一助となっていくのです",
+    "url": "https://alinetech.co.jp/recruit/message/",
+    "pass": 1
+   },
+   {
+    "quote": "人手不足のため、新卒、中途採用の給与面での待遇はとても良いです",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足から急激に待遇を変えたため、既存社員の中でも実力のある人がどんどん退職していくので、入社後はすぐに責任のある仕事に就けます",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の時代に欠かせないロボット技術を利用した機械メーカーです",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "高齢化が進み、人口が減少する日本は、大きな課題に直面しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後、日本は人口減少と超高齢化に伴う「生産年齢人口の減少」と「働き方改革の進展」により人手不足がより深刻化すると予測されます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "#山口 #岩国 #光 #周南 #広島 #三原 #中国 #岐阜 #愛媛 #松山 #建設業 #製造業 #プラント #施工管理 #メンテナンス #ロボット #設計 #機械 #電気・電子 #CAD #組立 #加工 #成長性 #やりがい #若手 #安定 #出張 #技術 #安定 #挑戦 #新しい事 #メーカー #ものづくり",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "6400万円",
+    "url": "https://alinetech.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "アラインテックの年収・給与 平均年収 - エン カイシャの評判",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "アラインテック株式会社の正社員12人の回答によると平均年収は462万円、年収範囲は399～600万円です",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "カイシャの評判に掲載されている年収情報は、当該企業で就業経験のある方を対象としたアンケートを基に、有効な回答かつ、雇用形態が正社員の回答から算出しております",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトの年収情報は、ユーザーの皆様に投稿いただいた時点の回答に基づいているため、実際の年収とは異なる可能性があります",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "アラインテック株式会社の年収・給与についての口コミ",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足のため、新卒、中途採用の給与面での待遇はとても良いです",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:毎年3月に昇給があり、昨今の...",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "毎年3月に昇給があり、昨今の物価高騰もあり、昇給の額も増えてきているようです",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:最近は昇給の額も多いようで、...",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "最近は昇給の額も多いようで、物価の高騰などに合わせて対応しているのだと思います",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "また、賞与も地方の中小企業だと多いのではないかと感じています",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:昇給：物価の上昇に伴い、以前...",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給：物価の上昇に伴い、以前より昇給の幅は大きくなった",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与：全社平均4ヶ月以上はあるため、ある程度安定している",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":・昇給半期ごとの売上や利益の達成率、その他数字以外での自己評...",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":昇給・賞与は極めて典型的な日本企業の方式です",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、賞与は...",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":賞与はその年度の実績にもよるが、毎年賞与は必ず出ます",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":給与面などには特に不満は無く、昇給に関してもスキルや成績に見...",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "6,400万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金6,400万円に増資",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "42億円（2020年度）",
+    "url": "https://alinetech.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "岐阜出張所（２００１年岐阜事業所に改称、2017年4月に現岐阜工場に統合）開設",
+    "url": "https://alinetech.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO9001認証取得（本社、岩国工場、徳山工場）",
+    "url": "https://alinetech.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "岩国工場と光工場を統合し、機械システム事業部に名称変更",
+    "url": "https://alinetech.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造業登録（機械システム事業部岩国工場）",
+    "url": "https://alinetech.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO9001認証取得（岐阜工場）",
+    "url": "https://alinetech.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "売上高100億円",
+    "url": "https://alinetech.co.jp/recruit/message/",
+    "pass": 1
+   },
+   {
+    "quote": "工場現場組立中の案件確認作業なども行います",
+    "url": "https://alinetech.co.jp/recruit/jobguide/",
+    "pass": 1
+   },
+   {
+    "quote": "岩国工場、光工場、岐阜工場、",
+    "url": "https://alinetech.co.jp/recruit/keyword/",
+    "pass": 1
+   },
+   {
+    "quote": "39億円（2025年1月）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「主な取引先」を見れば一目瞭然! 数多の大手企業に支持された高い技術と多展開による\"安定性を地盤とした推進力\"が強み\"の『アラインテック』",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"陸\"に目をやれば、広島東洋カープのファーム拠点である「由宇練習場」まで車でサッと10分",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "岩国工場、光工場、岐阜工場、岩国事業所、周南事業所、松山事業所、光出張所、三原出張所",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)浅野研究所、出光興産(株)、岩谷産業(株)、コスモエンジニアリング(株)、山九(株)、サンワテクノス(株)、シャープ(株)、積水化学工業(株)、積水ハウス(株)、第一実業(株)、太陽テクノサービス(株)、大和エネルギー(株)、武田薬品工業(株)、月島機械(株)、月島テクノマシナリー(株)、帝人エンジニアリング(株)、、(株)トクヤマ、東レエンジニアリング(株)、轟産業(株)、日揮プラントイノベーション(株)、日本コークス工業(株)、日本ゼオン(株)、日本通運(株)、マツダエース(株)、三井化学(株)、三井E&Sプラントエンジニアリング(株)、三菱重工業(株)、三菱重工マシナリーテクノロジー(株)、安川エンジニアリング(株)、(株)安川電機 他（五十音順）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "徳山工場徳山市（現 周南市）奈切企業団地に移転",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ISO9001認証取得（本社、岩国工場、徳山工場）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "岩国化工機工場を岩国市装束に移転し、プラント事業部に名称変更",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "岩国工場と光工場を統合し機械システム事業部に名称変更",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)TMEIC（旧社名：東芝三菱電機産業システム）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "【エントリー受付中！】2027年の採用に関するお知らせ",
+    "url": "https://alinetech.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "【エントリー受付中！】2026年の採用に関するお知らせ",
+    "url": "https://alinetech.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ｜アラインテック株式会社 採用サイト",
+    "url": "https://alinetech.co.jp/recruit/message/",
+    "pass": 1
+   },
+   {
+    "quote": "職種紹介｜アラインテック株式会社 採用サイト",
+    "url": "https://alinetech.co.jp/recruit/jobguide/",
+    "pass": 1
+   },
+   {
+    "quote": "社員紹介｜アラインテック株式会社 採用サイト",
+    "url": "https://alinetech.co.jp/recruit/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "キーワードで知る｜アラインテック株式会社 採用サイト",
+    "url": "https://alinetech.co.jp/recruit/keyword/",
+    "pass": 1
+   },
+   {
+    "quote": "募集要項｜アラインテック株式会社 採用サイト",
+    "url": "https://alinetech.co.jp/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "募集要項｜アラインテック株式会社 採用サイト",
+    "url": "https://alinetech.co.jp/recruit/requirements/?id=chuto",
+    "pass": 1
+   },
+   {
+    "quote": "エントリー（新卒採用）｜アラインテック株式会社 採用サイト",
+    "url": "https://alinetech.co.jp/recruit/entry/",
+    "pass": 1
+   },
+   {
+    "quote": "採用応募希望の方は、下記フォームからエントリーをお願いします",
+    "url": "https://alinetech.co.jp/recruit/entry/",
+    "pass": 1
+   },
+   {
+    "quote": "人手不足のため、新卒、中途採用の給与面での待遇はとても良いです",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "アラインテック(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "なにかしら少しでも気にとまったなら、忘れないうちにとりあえずエントリーしてみて、少しずつ我々のことを知っていただければうれしいです",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "★秋採用も積極実施中！あなたのエントリーをお待ちしています！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "エントリーもしくは会社説明後のタイミングで希望の職種をお選びください",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/recruiting_course27052870/recruiting_course.html",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "社員紹介｜アラインテック株式会社 採用サイト",
+    "url": "https://alinetech.co.jp/recruit/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、選考・インターンシップ等のあらゆる場面においてハラスメント行為を一切容認しません",
+    "url": "https://alinetech.co.jp/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、選考・インターンシップ等のあらゆる場面においてハラスメント行為を一切容認しません",
+    "url": "https://alinetech.co.jp/recruit/requirements/?id=chuto",
+    "pass": 1
+   },
+   {
+    "quote": "会社説明会後に、随時選考を行っております",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/recruiting_course27052870/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、会社説明会へのご参加をお願いいたします",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/recruiting_course27052870/recruiting_course.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "アラインテック株式会社 の給与 | Indeed (インディード) — アラインテック株式会社の平均年収は、約377万円 (法人営業) 〜653万円 (アプリケーションエンジニア) です。 アラインテック株式会社の平均月給の範囲は約 20.0万円／月（メンテナンスサービス）から約 38.8万円／月（事業責任者）です。",
+    "url": "https://jp.indeed.com/cmp/アラインテック株式会社/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "アラインテック株式会社のエンジニアの給与 | Indeed (インディード) — 日本 の アラインテック株式会社 の エンジニア の給与情報 日本のアラインテック株式会社−エンジニアの平均年収は、約 526万円 です。 これは全国平均に値します。 給与情報は、Indeed にこれまでに掲載された6件の求人に基いた推定値です。",
+    "url": "https://jp.indeed.com/cmp/アラインテック株式会社/salaries/エンジニア",
+    "pass": 3
+   },
+   {
+    "quote": "アラインテックの年収・給与 平均年収も - エン カイシャの評判アラインテック株式会社 採用サイトアラインテック株式会社の平均年収、年間給与所得情報 − 転職ならdoda...アラインテック株式会社 の求人・中途採用情報 − 転職ならdoda（デュ...アラインテックの年収・給与1件｜平均・中央値・ボーナス・職種・役職... — アラインテック株式会社の正社員12人の回答によると平均年収は462万円、年収範囲は399～600万円です。 また、集計期間は2022年～2025年で回答者の平均年齢は36.7歳です。 アラインテック株式会社の採用情報です。 私たちは日本が抱える課題を、当社が持つ技術や資源を活かせる3つの成長分野で解決しようとしています。 日本の課題解決に、一緒に挑戦しましょう。 アラインテック株式会社の平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを",
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "アラインテック株式会社 採用サイト — アラインテック株式会社の採用情報です。 私たちは日本が抱える課題を、当社が持つ技術や資源を活かせる3つの成長分野で解決しようとしています。 日本の課題解決に、一緒に挑戦しましょう。",
+    "url": "https://alinetech.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "アラインテック株式会社の平均年収、年間給与所得情報 − 転職ならdoda... — アラインテック株式会社の平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで475,832社の企業情報が無料で検索・閲覧できます。",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10006776272/",
+    "pass": 3
+   },
+   {
+    "quote": "アラインテック (株)の新卒採用・会社概要 | マイナビ2027アラインテック(株)の採用データ - マイナビ2027アラインテック株式会社（旧旭興産株式会社）のハローワーク求人情報...アラインテック（旧：旭興産）の新卒採用・就職・会社概要とクチコミアラインテック（旧：旭興産）の募集コース一覧 — なにかしら少しでも気にとまったなら、忘れないうちにとりあえずエントリーしてみて、少しずつ我々のことを知っていただければうれしいです。 ★秋採用も積極実施中！ あなたのエントリーをお待ちしています！ アラインテック(株)の採用データページです。マイナビ2027は、アラインテック(株)の採用情報や企業情報で、就職活動を ... Oct 7, 2026 · アラインテック株式会社（旧旭興産株式会社）のハローワーク求人情報一覧です。 ハローワークプラスはハローワークの求人を検索できるサイトです。 職業",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "アラインテック(株)の採用データ - マイナビ2027 — アラインテック(株)の採用データページです。マイナビ2027は、アラインテック(株)の採用情報や企業情報で、就職活動を ...",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/recruiting_course27052870/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "アラインテック株式会社（旧旭興産株式会社）のハローワーク求人情報... — Oct 7, 2026 · アラインテック株式会社（旧旭興産株式会社）のハローワーク求人情報一覧です。 ハローワークプラスはハローワークの求人を検索できるサイトです。 職業安定所（職安）が提供しているハローワークインターネットサービスの求人情報を掲載しています。",
+    "url": "https://hellowork-plus.com/company/7250001011114/",
+    "pass": 3
+   },
+   {
+    "quote": "アラインテック（旧：旭興産）の新卒採用・就職・会社概要とクチコミ — アラインテック（旧：旭興産）の概要、企業研究、就活対策情報です。 最新のインターンシップ ・説明会情報の他、ES・GD・面接・インターン・OB訪問・リクルーターの選考内容と先輩内定者の回答例を掲載しています。",
+    "url": "https://www.onecareer.jp/companies/54948",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "アラインテック(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "アラインテック(株)の採用データ | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/recruiting_course27052870/recruiting_course.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "アラインテック株式会社 (@alinetech_PR) / Posts / X アラインテック株式会社 (@alinetech_PR) - Posts - アラインテックは、長年にわたる各種産業向けの「ロボットシステム」「自動化設備」の開発・製作を通じて、さまざまな『ものづくり現場』の生産性向上に貢献して参りました。",
+    "url": "https://x.com/alinetech_PR",
+    "pass": 3
+   },
+   {
+    "quote": "インターフェックス Week東京 無事終了いたしました！ \\ 多くのお客様... アラインテック株式会社 (@alinetech_PR). 378 views. ／ #インターフェックス Week東京 無事終了いたしました！ \\ 多くのお客様にお立寄りいただき、 誠にありがとうございました。 自動化について お困りごとがございましたら、 是非ご相談ください！",
+    "url": "https://x.com/alinetech_PR/status/1678286985138667520",
+    "pass": 3
+   },
+   {
+    "quote": "#国際ロボット展 1日目！ 多くの方にお立寄りいただき、 ありがとうご... アラインテック株式会社 (@alinetech_PR). 534 views. #国際ロボット展 1日目！ 多くの方にお立寄りいただき、 ありがとうございます。 #ラボ用ロボットシステム #アラインピッキングDF #ケースローダーALシリーズ 引き続き、よろしくお願い致します！",
+    "url": "https://x.com/alinetech_PR/status/1729758294355456369",
+    "pass": 3
+   },
+   {
+    "quote": "【製薬・医療業界の転職】製薬オンライン公式 on X: \"【ロート製薬、... 【ロート製薬、品質検査をロボットで自動化！ 技術者不足をDXで突破】 👁️🤖 ロート製薬がアラインテックと共同で、医薬品分析（HPLC）の「前処理」を自動化する新装置を開発。 茨木市の検査センターで稼働を開始しました。",
+    "url": "https://x.com/seiyakuonline/status/2057370816820457501",
+    "pass": 3
+   },
+   {
+    "quote": "アラインテック株式会社 (@alinetech_PR) / Posts / X Jun 23, 2023 · アラインテック株式会社 (@alinetech_PR) - Posts - アラインテックは、長年にわたる各種産業向けの「ロボットシステム」「自動化設備」の開発・製作を通じて、さまざまな『ものづくり現場』の生産性向上に貢献して参りました。",
+    "url": "https://x.com/alinetech_PR",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Fumio Ueda - アラインテック株式会社（旭興産を社名変更） - 代表取...神田 峻輔 - アラインテック - エンジニア | LinkedInアラインテック株式会社 hiring 【岐阜】機械設計 ～安川電機の代表的...7 \"Shunsuke Kanda\" profiles | LinkedInAna Cristina Varga - Business & Marketing | Digital ...Egidio Stasi - -- | LinkedInTianseng Toh - Charitoh Consulting Pte Ltd | LinkedIn アラインテック株式会社（旭興産を社名変更） - 代表取締役社長 · 職歴: アラインテック株式会社（旭興産を社名変更） · 学歴: 東京大学 · 場所: 山口県 · LinkedInのつながり65人。 アラインテック",
+    "url": "https://jp.linkedin.com/in/ｆumio-ｕeda-670b38ab",
+    "pass": 3
+   },
+   {
+    "quote": "神田 峻輔 - アラインテック - エンジニア | LinkedInアラインテック株式会社 hiring 【岐阜】機械設計 ～安川電機の代表的...7 \"Shunsuke Kanda\" profiles | LinkedInAna Cristina Varga - Business & Marketing | Digital ...Egidio Stasi - -- | LinkedInTianseng Toh - Charitoh Consulting Pte Ltd | LinkedIn アラインテック - エンジニア · 職歴: アラインテック · 場所: 山口県。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで神田 峻輔さんのプロフィールを閲覧しましょう。 Posted 8:20:00 PM. 【企業名】アラインテック株式会社【職種名】【岐阜】機械",
+    "url": "https://jp.linkedin.com/in/峻輔-神田-131a99210",
+    "pass": 3
+   },
+   {
+    "quote": "アラインテック株式会社 hiring 【岐阜】機械設計 ～安川電機の代表的... Posted 8:20:00 PM. 【企業名】アラインテック株式会社【職種名】【岐阜】機械設計 ～安川電機の代表的なロボットシステムパートナー～ (M31)【仕事 ...",
+    "url": "https://www.linkedin.com/jobs/view/【岐阜】機械設計-～安川電機の代表的なロボットシステムパートナー～-m31-at-アラインテック株式会社-3964786744",
+    "pass": 3
+   },
+   {
+    "quote": "Fumio Ueda - アラインテック株式会社（旭興産を社名変更） - 代表取...アラインテック株式会社（山口県）の会社概要・役員 | Compalyzeアラインテック 第2創業期、EV向け強みに | 日刊工業新聞 電子版アラインテック（旧: 旭興産）の社長と経営方針【代表 : 上田文雄】 (...noteの歴代社長 - the-shashi.com アラインテック株式会社（旭興産を社名変更） - 代表取締役社長 · 職歴: アラインテック株式会社（旭興産を社名変更） · 学歴: 東京大学 · 場所: 山口県 · LinkedInのつながり65人。 事業概要 アラインテック株式会社は、総合機械・設備メーカーであり、「イノベーション実現パートナー」として、多岐にわたる産業分野の“モノづくり”の変革と社会の発展に貢献しています。 Mar 11, 2024 · アラインテック（山口県岩国市、",
+    "url": "https://jp.linkedin.com/in/ｆumio-ｕeda-670b38ab",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://alinetech.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alinetech.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alinetech.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alinetech.co.jp/company/human-rights-statement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alinetech.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alinetech.co.jp/recruit/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alinetech.co.jp/recruit/jobguide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alinetech.co.jp/recruit/interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alinetech.co.jp/recruit/keyword/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alinetech.co.jp/recruit/requirements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alinetech.co.jp/recruit/requirements/?id=chuto",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alinetech.co.jp/recruit/entry/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://alinetech.co.jp/content/themes/alinetech/images/linkbnr_recruit.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://alinetech.co.jp/content/themes/alinetech/images/logo_recruit_sp.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://alinetech.co.jp/content/themes/alinetech/images/logo_recruit_pc.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/cmp/%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en-hyouban.com/company/10006776272/salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp108038/recruiting_course27052870/recruiting_course.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/alinetech_PR",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/alinetech_PR/status/1678286985138667520",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/alinetech_PR/status/1729758294355456369",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/seiyakuonline/status/2057370816820457501",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/ｆumio-ｕeda-670b38ab",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/峻輔-神田-131a99210",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/view/【岐阜】機械設計-～安川電機の代表的なロボットシステムパートナー～-m31-at-アラインテック株式会社-3964786744",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/ｆumio-ｕeda-670b38ab",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/alinetech_PR",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/alinetech_PR/status/1729758294355456369",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アラインテック 求人 年収",
+   "results": [
+    "https://jp.indeed.com/cmp/アラインテック株式会社/salaries",
+    "https://jp.indeed.com/cmp/アラインテック株式会社/salaries/エンジニア",
+    "https://en-hyouban.com/company/10006776272/salary/",
+    "https://alinetech.co.jp/recruit/",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10006776272/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10006776272/",
+    "https://openmoney.jp/corporations/22488/salaries"
+   ]
+  },
+  {
+   "query": "アラインテック 採用 新卒 高卒",
+   "results": [
+    "https://alinetech.co.jp/recruit/",
+    "https://job.mynavi.jp/27/pc/search/corp108038/outline.html",
+    "https://job.mynavi.jp/27/pc/search/corp108038/recruiting_course27052870/recruiting_course.html",
+    "https://hellowork-plus.com/company/7250001011114/",
+    "https://www.onecareer.jp/companies/54948",
+    "https://www.onecareer.jp/companies/54948/recruitment_courses",
+    "https://alinetech.co.jp/recruit/entry/"
+   ]
+  },
+  {
+   "query": "site:note.com アラインテック",
+   "results": [
+    "https://note.com/r_i1356/n/n2566a1ac22c0",
+    "https://note.com/momoblog0214/n/nd35b0d9d0cde",
+    "https://note.com/kabuya66/n/nded872fa74b0",
+    "https://note.com/keizo3333/n/n85ce6526aa72",
+    "https://note.com/kaburou_com/n/nd977b7d2951e",
+    "https://note.com/gaburieru/n/n8dc9ead7d0b2",
+    "https://note.com/komdent1/n/n1d53a70bb179"
+   ]
+  },
+  {
+   "query": "site:x.com アラインテック",
+   "results": [
+    "https://x.com/alinetech_PR",
+    "https://x.com/alinetech_PR/status/1678286985138667520",
+    "https://x.com/alinetech_PR/status/1729758294355456369",
+    "https://x.com/seiyakuonline/status/2057370816820457501",
+    "https://x.com/arianetechpfal",
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/Edenlife9/status/2113565596336169327"
+   ]
+  },
+  {
+   "query": "site:linkedin.com アラインテック",
+   "results": [
+    "https://jp.linkedin.com/in/ｆumio-ｕeda-670b38ab",
+    "https://jp.linkedin.com/in/峻輔-神田-131a99210",
+    "https://www.linkedin.com/jobs/view/【岐阜】機械設計-～安川電機の代表的なロボットシステムパートナー～-m31-at-アラインテック株式会社-3964786744",
+    "https://www.linkedin.com/pub/dir/shunsuke/kanda",
+    "https://ro.linkedin.com/in/ana-cristina-varga-0376257b",
+    "https://it.linkedin.com/in/egidio-stasi-541411229",
+    "https://sg.linkedin.com/in/tianseng-toh"
+   ]
+  },
+  {
+   "query": "site:facebook.com アラインテック",
+   "results": []
+  },
+  {
+   "query": "アラインテック note 社長",
+   "results": [
+    "https://alinetech.co.jp/company/",
+    "https://jp.linkedin.com/in/ｆumio-ｕeda-670b38ab",
+    "https://compalyze.co.jp/company/7250001011114",
+    "https://www.nikkan.co.jp/articles/view/00704649",
+    "https://jobtalk.jp/companies/10890/answers?question_codes=president",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://alinetech.co.jp/news/202607314768.html"
+   ]
+  },
+  {
+   "query": "アラインテック X 投稿",
+   "results": [
+    "https://x.com/alinetech_PR",
+    "https://bakusai.com/sch_all/acode=8/word=アラインテック/",
+    "https://www.youtube.com/channel/UCWRV4riBys41-C00zNRWdnw",
+    "https://x.com/alinetech_PR/status/1729758294355456369",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://photo-tools.tech/",
+    "https://www.a8.net/as/x/"
+   ]
+  }
+ ],
+ "missing": {
+  "採用人数": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部15頁・検索8回）"
+ }
+}

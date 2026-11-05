@@ -1,0 +1,357 @@
+{
+ "name": "受託加工の1人あたり生産額の代わりの切り口（中小企業実態基本調査の産業中分類×従業者規模の売上高÷従業者数）",
+ "en": "SME basic survey sales per employee manufacturing subcategory size class",
+ "aliases": [
+  "中小企業実態基本調査 産業中分類 従業者規模別 売上高 site:go.jp",
+  "中小企業実態基本調査 金属製品製造業 1企業当たり 売上高 従業者数",
+  "中小企業実態基本調査 確報 製造業 時系列 e-Stat"
+ ],
+ "context": "推定・別の切り口",
+ "kind": "market",
+ "researched_at": "2026-11-05T05:36:56.642791+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001156334&tclass2=000001156335&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keiridriven.mjs.co.jp/180619/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukuoka.lg.jp/uploaded/life/758108_62400806_misc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_26_03_27b.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ab.jcci.or.jp/article/111581/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/columns/a01_0504.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2024/0130_004.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pecc.org/resources/labor/1337-human-capacity-building-in-smes-japanese-experiences-and-regional-challenges/file",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.statista.com/topics/13372/smes-in-japan/?srsltid=AYCX9vKjYp49rXN4akDJixmq0Iax1UzWOyNwPe99FQ3G30iX9GFlHns1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/en/data/indicators/enterprises-by-business-size.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adb.org/sites/default/files/publication/156024/adbi-wp169.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "受託加工の1人あたり生産額の代わりの切り口（中小企業実態基本調査の産業中分類×従業者規模の売上高÷従業者数）",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001156334&tclass2=000001156335&tclass3val=0",
+    "https://keiridriven.mjs.co.jp/180619/",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_26_03_27b.pdf",
+    "https://ab.jcci.or.jp/article/111581/",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_outline_gaiyo.pdf"
+   ]
+  },
+  {
+   "query": "受託加工の1人あたり生産額の代わりの切り口（中小企業実態基本調査の産業中分類×従業者規模の売上高÷従業者数） 推移",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001156334&tclass2=000001156335&tclass3val=0",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://keiridriven.mjs.co.jp/180619/",
+    "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.pref.fukuoka.lg.jp/uploaded/life/758108_62400806_misc.pdf"
+   ]
+  },
+  {
+   "query": "受託加工の1人あたり生産額の代わりの切り口（中小企業実態基本調査の産業中分類×従業者規模の売上高÷従業者数） 統計 PDF",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001156334&tclass2=000001156335&tclass3val=0",
+    "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.pref.fukuoka.lg.jp/uploaded/life/758108_62400806_misc.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_26_03_27b.pdf",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf"
+   ]
+  },
+  {
+   "query": "受託加工の1人あたり生産額の代わりの切り口（中小企業実態基本調査の産業中分類×従業者規模の売上高÷従業者数） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_26_03_27b.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf"
+   ]
+  },
+  {
+   "query": "受託加工の1人あたり生産額の代わりの切り口（中小企業実態基本調査の産業中分類×従業者規模の売上高÷従業者数） 従業者規模別",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001156334&tclass2=000001156335&tclass3val=0",
+    "https://keiridriven.mjs.co.jp/180619/",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_26_03_27b.pdf",
+    "https://ab.jcci.or.jp/article/111581/"
+   ]
+  },
+  {
+   "query": "受託加工の1人あたり生産額の代わりの切り口（中小企業実態基本調査の産業中分類×従業者規模の売上高÷従業者数） 1人当たり 万円",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001156334&tclass2=000001156335&tclass3val=0",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://keiridriven.mjs.co.jp/180619/",
+    "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://www.rieti.go.jp/jp/columns/a01_0504.html",
+    "https://ab.jcci.or.jp/article/111581/"
+   ]
+  },
+  {
+   "query": "受託加工の1人あたり生産額の代わりの切り口（中小企業実態基本調査の産業中分類×従業者規模の売上高÷従業者数） 2015 2025",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001156334&tclass2=000001156335&tclass3val=0",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "https://keiridriven.mjs.co.jp/180619/",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076"
+   ]
+  },
+  {
+   "query": "SME basic survey sales per employee manufacturing subcategory size class Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/press/2024/0130_004.html",
+    "https://www.pecc.org/resources/labor/1337-human-capacity-building-in-smes-japanese-experiences-and-regional-challenges/file",
+    "https://www.statista.com/topics/13372/smes-in-japan/?srsltid=AYCX9vKjYp49rXN4akDJixmq0Iax1UzWOyNwPe99FQ3G30iX9GFlHns1",
+    "https://www.oecd.org/en/data/indicators/enterprises-by-business-size.html",
+    "https://www.adb.org/sites/default/files/publication/156024/adbi-wp169.pdf",
+    "https://www.apec.org/docs/default-source/publications/2020/4/overview-of-the-sme-sector-in-the-apec-region---key-issues-on-market-access-and-internationalization/220_psu_sme-market-access-and-internalization.pdf?sfvrsn=2758bd1_1",
+    "https://ised-isde.canada.ca/site/sme-research-statistics/en/key-small-business-statistics/key-small-business-statistics-2025",
+    "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Structural_business_statistics_overview",
+    "https://www.jetro.go.jp/ext_images/en/news/releases/2025/30059aa3effdfc56/2024_N_America.pdf",
+    "https://www.meti.go.jp/english/press/2024/0329_001.html"
+   ]
+  },
+  {
+   "query": "site:note.com 受託加工の1人あたり生産額の代わりの切り口（中小企業実態基本調査の産業中分類×従業者規模の売上高÷従業者数）",
+   "results": [
+    "https://note.com/nekota_toure/n/n117c838c816d",
+    "https://note.com/bizgram/n/n5bde4d5402d1",
+    "https://note.com/paguinu/n/n96cf07f01cbc",
+    "https://note.com/nekota_toure/n/n0c13f287fd65",
+    "https://note.com/bizgram/n/nf746e7c683ec",
+    "https://note.com/xoperation/n/n93109494872d",
+    "https://note.com/610_mto/n/n5fe57e207f7b",
+    "https://note.com/powerpoint_jp/n/n19840a713886",
+    "https://note.com/fair_clover666/n/n009fc95d09bf",
+    "https://note.com/free_kigyo/n/ne00594c8ad53"
+   ]
+  },
+  {
+   "query": "site:x.com 受託加工の1人あたり生産額の代わりの切り口（中小企業実態基本調査の産業中分類×従業者規模の売上高÷従業者数）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2107586100512370742",
+    "https://jf.x.com/images/media-preview/2101792442542416292",
+    "https://x.com/isyokenmei/status/1905515817355329587",
+    "https://x.com/OgawaSeisakusho/status/2114827307454238733",
+    "https://x.com/rika_investor/status/2094287238842794033",
+    "https://x.com/soudosha_consul/status/2092364886852698490",
+    "https://x.com/soudosha_consul/status/2087810454924222846"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 受託加工の1人あたり生産額の代わりの切り口（中小企業実態基本調査の産業中分類×従業者規模の売上高÷従業者数）",
+   "results": [
+    "https://www.linkedin.com/company/souffletherapeutics",
+    "https://jp.linkedin.com/pulse/202611施行改正下請法取適法の実務ポイント3つ対象拡大価格協議支払手段-伸一-湯原-ntpnc",
+    "https://jp.linkedin.com/posts/知也-村上-27671741_下請法は取適法へ中小受託取引適正化法が来年１月からスタートで何がかわるのか-activity-7402493645570121728-Jzcj",
+    "https://jp.linkedin.com/posts/techport-co-jp_なぜ中小製造業の営業は疲弊するのか-受託加工業に潜むマーケティング不在という-activity-7428936151824154624-vBy6",
+    "https://jp.linkedin.com/pulse/労働生産性付加価値額-労働投入量数字の裏にある本質-美徳-鈴木-mwvnc",
+    "https://jp.linkedin.com/posts/和田-栄太-060bb4175_士業様は受託件数を大きく増やせます-事業経営者様は固定間接経費を削減額を収益に-activity-7444653092962402304-M0Mg",
+    "https://jp.linkedin.com/pulse/digitizing-planning-production-contract-manufacturers-thomas-mba-diodc?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 受託加工の1人あたり生産額の代わりの切り口（中小企業実態基本調査の産業中分類×従業者規模の売上高÷従業者数）",
+   "results": [
+    "https://www.facebook.com/nihon.horei/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1585815203548328/",
+    "https://www.facebook.com/horei.gis/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1653107256686060/",
+    "https://www.facebook.com/JapanFTC/posts/下請法改正後初の取適法定期調査開始6月19日金委託事業者75000名を対象に令和8年度中小受託事業者との取引に関する調査を開始しました下請法から取適法への改正後/1490463846457618/",
+    "https://www.facebook.com/100080449922191/posts/取適法改正下請法に係るリーフレットについて令和８年１月１日より製造委託等に係る中小受託事業者に対する代金の支払の遅延等の防止に関する法律略称中小受託取引適正化法/940129652012024/",
+    "https://www.facebook.com/tokyocci/posts/中小受託取引適正化法-対応チェックシートを作成しました東商は中小企業委員会において中小受託取引適正化法取適法の内容や実務対応のポイントをチェック項目の形式でまと/1381002864065981/",
+    "https://www.facebook.com/NewsPicksStudios/videos/見たい数字を経営の意思決定に/4023735337763871/",
+    "https://www.facebook.com/withbiz/photos/2026年1月施行下請法が取適法とりてきほうに変わります事業者のみなさま取引のルールが大きく変わるのをご存知ですか2026年1月1日より下請法が改正され新たに中/1435656655230721/"
+   ]
+  },
+  {
+   "query": "受託加工の1人あたり生産額の代わりの切り口（中小企業実態基本調査の産業中分類×従業者規模の売上高÷従業者数） note 社長",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://keiridriven.mjs.co.jp/180619/",
+    "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://note.com/ogawa_tech/n/n5c50bae0afa8",
+    "https://newspicks.com/news/10647184/body/",
+    "https://www.rieti.go.jp/jp/columns/a01_0504.html",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf"
+   ]
+  },
+  {
+   "query": "受託加工の1人あたり生産額の代わりの切り口（中小企業実態基本調査の産業中分類×従業者規模の売上高÷従業者数） X 投稿",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001156334&tclass2=000001156335&tclass3val=0",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://note.com/ogawa_tech/n/n5c50bae0afa8",
+    "https://www.rieti.go.jp/jp/events/bbl/24062801_kikuta.pdf",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/h20sokuhou/"
+   ]
+  },
+  {
+   "query": "SME basic survey sales per employee manufacturing subcategory size class site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/sme",
+    "https://www.linkedin.com/company/apple",
+    "https://business.linkedin.com/learn/resources/workplace-learning-report",
+    "https://www.linkedin.com/company/baxter-healthcare",
+    "https://www.linkedin.com/company/dun-&-bradstreet",
+    "https://www.linkedin.com/in/cwluecke",
+    "https://www.linkedin.com/company/u-s-department-of-commerce",
+    "https://www.linkedin.com/company/industry-week",
+    "https://www.linkedin.com/in/bill-chouinard-rbm",
+    "https://www.linkedin.com/company/varda-space-industries"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ24頁・検索15回）",
+  "社員数・平均社員数": "記載なし（読んだ24頁・検索15回）",
+  "受注金額・加工賃収入": "記載なし（読んだ24頁・検索15回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ24頁・検索15回）",
+  "生産能力・設備": "記載なし（読んだ24頁・検索15回）",
+  "10年推移": "記載なし（読んだ24頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ24頁・検索15回）"
+ }
+}

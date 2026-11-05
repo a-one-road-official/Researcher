@@ -1,0 +1,904 @@
+{
+ "name": "エース",
+ "aliases": [],
+ "context": "岡山県倉敷市／出典:県・市の企業ガイド／求人媒体:doda／想定年収:未取得／従業員:25",
+ "researched_at": "2026-11-05T05:41:57.528532+00:00",
+ "official_url": "https://ace-cutter.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "自社製品",
+    "value": "ベルトカッター製造・販売",
+    "url": "https://ace-cutter.co.jp/company",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "1,000万円",
+    "url": "https://ace-cutter.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "年収610万円／35歳エリアマネージャー",
+    "url": "https://www.ace-group.co.jp/recruit-employment/career/",
+    "pass": 3
+   },
+   {
+    "quote": "年収560万円／31歳店長",
+    "url": "https://www.ace-group.co.jp/recruit-employment/career/",
+    "pass": 3
+   },
+   {
+    "quote": "年収460万円／28歳副店長 ※残業代を含む",
+    "url": "https://www.ace-group.co.jp/recruit-employment/career/",
+    "pass": 3
+   },
+   {
+    "quote": "■昇給年1回（4月）",
+    "url": "https://www.ace-group.co.jp/recruit-employment/career/",
+    "pass": 3
+   },
+   {
+    "quote": "■賞与年2回（6月・12月）",
+    "url": "https://www.ace-group.co.jp/recruit-employment/career/",
+    "pass": 3
+   },
+   {
+    "quote": "前職の給与は考慮してもらえるのでしょうか？",
+    "url": "https://www.ace-group.co.jp/recruit-employment/career/",
+    "pass": 3
+   },
+   {
+    "quote": "今までのご経験や前職の給与を考慮いたしますが、当社の給与規定に基づき設定させていただきます",
+    "url": "https://www.ace-group.co.jp/recruit-employment/career/",
+    "pass": 3
+   },
+   {
+    "quote": "年収340万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給25万円〜28万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年実績】 昇給：年1回（4月） ／ 賞与：年2回（6月、12月）",
+    "url": "https://www.ace-group.co.jp/recruit-employment/newgrads/",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "第二工場 稼働開始（2023年11月）",
+    "url": "https://ace-cutter.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "更なる事業拡大を目指し、本社隣に第二工場設立、稼働開始しました",
+    "url": "https://ace-cutter.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工業 GB15CNC 1台",
+    "url": "https://ace-cutter.co.jp/system_panel/uploads/images/20260317134658466160.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "三菱重工業 GE15A/GE20A 2台",
+    "url": "https://ace-cutter.co.jp/system_panel/uploads/images/20260317134658466160.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "取引先によっては、めちゃくちゃ上からモノを言われます",
+    "url": "https://note.com/ichio_2025/n/n8bb42c642f20",
+    "pass": 3
+   },
+   {
+    "quote": "少し笑えるのは、こういう取引先ほど、後から私の経歴を知った瞬間に、態度が180度変わることです",
+    "url": "https://note.com/ichio_2025/n/n8bb42c642f20",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "中途採用 | 採用情報 | 株式会社エース",
+    "url": "https://www.ace-group.co.jp/recruit-employment/career/",
+    "pass": 3
+   },
+   {
+    "quote": "営業事務／「27年新卒採用」面接はリラックスして参加OK／人物重視の営業サポート職／研修充実",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 | 採用情報 | 株式会社エース",
+    "url": "https://www.ace-group.co.jp/recruit-employment/newgrads/",
+    "pass": 3
+   },
+   {
+    "quote": "でエントリー後、説明会にご参加ください",
+    "url": "https://www.ace-group.co.jp/recruit-employment/newgrads/",
+    "pass": 3
+   },
+   {
+    "quote": "説明会の日時・実施エリアについては募集要項ページに掲載しております",
+    "url": "https://www.ace-group.co.jp/recruit-employment/newgrads/",
+    "pass": 3
+   },
+   {
+    "quote": "ご興味がある方は、情報内容をご確認いただき、WEBエントリーをお願いいたします",
+    "url": "https://www.ace-group.co.jp/recruit-employment/newgrads/",
+    "pass": 3
+   },
+   {
+    "quote": "詳しい採用情報は採用サイトからご覧になれます",
+    "url": "https://cloud-ace-recruit.com/?gs=3d18d77f2f479ba951c18f8843edb8fd",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "中途採用 | 採用情報 | 株式会社 エース - 北野 エース — 中途採用 | 採用情報 | 株式会社 エース - 北野 エース 北野エース https://www.ace-group.co.jp > recruit-employment > career",
+    "url": "https://www.ace-group.co.jp/recruit-employment/career/",
+    "pass": 3
+   },
+   {
+    "quote": "エース （小売・東京都）の「 年収 ・給与制度」 OpenWork — エース （小売・東京都）の「 年収 ・給与制度」 OpenWork OpenWork https://www.openwork.jp > ... > エース（小売・東京都）",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000000q8ogV&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エース の平均 年収 、年間給与所得情報 - doda — 株式会社 エース の平均 年収 、年間給与所得情報 - doda doda https://doda.jp > CompanyIncome > j_id__10172327302",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10172327302/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エース の会社概要 - マイナビ転職 — 株式会社 エース の会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/413355/",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項とよくある質問｜採用情報 - ACE — 募集要項とよくある質問｜採用情報 - ACE ACE エース株式会社 https://www.ace.jp > newgraduate > recruit > information",
+    "url": "https://www.ace.jp/recruit/newgraduate/recruit/information/",
+    "pass": 3
+   },
+   {
+    "quote": "エース 新卒 高卒 の求人情報をすべて見る （224件） — エース 新卒 高卒 の求人情報をすべて見る （224件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 | 採用 情報 | 株式会社 エース - 北野 エース — 新卒採用 | 採用 情報 | 株式会社 エース - 北野 エース 北野エース https://www.ace-group.co.jp > newgrads",
+    "url": "https://www.ace-group.co.jp/recruit-employment/newgrads/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 サイト｜ エース 株式会社 - ACE — 新卒採用 サイト｜ エース 株式会社 - ACE ACE エース株式会社 https://www.ace.jp > recruit > newgraduate",
+    "url": "https://www.ace.jp/recruit/newgraduate/",
+    "pass": 3
+   },
+   {
+    "quote": "エース ｜ 高卒採用 支援「若い力を企業の未来に」 (@eisu_jinzai) — エース ｜ 高卒採用 支援「若い力を企業の未来に」 (@eisu_jinzai) Instagram https://www.instagram.com > eisu_jinzai",
+    "url": "https://www.instagram.com/eisu_jinzai/",
+    "pass": 3
+   },
+   {
+    "quote": "採用 情報RECRUIT - 株式会社エース — 採用 情報RECRUIT - 株式会社エース e-ace.jp http://www.e-ace.jp > recruit",
+    "url": "http://www.e-ace.jp/recruit.html",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【完全版】最速でエースへと駆け上がる３ステップ（新人～若手向け）",
+    "url": "https://note.com/tag/%E3%82%A8%E3%83%BC%E3%82%B9",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "マイナビ2027",
+    "url": "https://www.ace-group.co.jp/recruit-employment/newgrads/",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "会社説明会・1次面接・適性検査・2次面接・最終面接・内々定という流れになります",
+    "url": "https://www.ace-group.co.jp/recruit-employment/newgrads/",
+    "pass": 3
+   },
+   {
+    "quote": "当社エンジニア社員による技術ブログはこちら",
+    "url": "https://cloud-ace-recruit.com/?gs=3d18d77f2f479ba951c18f8843edb8fd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "エース の人気・新着記事まとめ - note エース の人気・新着記事まとめ - note note https://note.com > tag > エース",
+    "url": "https://note.com/tag/%E3%82%A8%E3%83%BC%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド エース 公式note クラウド エース 公式note note.com https://note.com > cloud_ace",
+    "url": "https://note.com/cloud_ace",
+    "pass": 3
+   },
+   {
+    "quote": "食料品専門店「北野 エース 」| 広報 - note 食料品専門店「北野 エース 」| 広報 - note note https://note.com > kitano_ace",
+    "url": "https://note.com/kitano_ace",
+    "pass": 3
+   },
+   {
+    "quote": "大企業 エース が中小やスタートアップで爆死する、本当の理由 大企業 エース が中小やスタートアップで爆死する、本当の理由 note https://note.com > ビジネス > キャリア・働き方",
+    "url": "https://note.com/ichio_2025/n/n8bb42c642f20",
+    "pass": 3
+   },
+   {
+    "quote": "エース 分室 - note エース 分室 - note note https://note.com > ace_magazine",
+    "url": "https://note.com/ace_magazine",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "スポーツの主軸や組織を牽引する中心人物、あるいは特定のブランドやキャラクターを指す言葉です。",
+    "url": "https://note.com/tag/%E3%82%A8%E3%83%BC%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "エースの役割や育成、属人化を防ぐ仕組み作りに関する記事や、作品の登場人物を巡る考察が集まっています。",
+    "url": "https://note.com/tag/%E3%82%A8%E3%83%BC%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツの主軸や組織を牽引する中心人物、あるいは特定のブランドやキャラクター…",
+    "url": "https://note.com/tag/%E3%82%A8%E3%83%BC%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "エース!! 都立杉並東高校硬式野球部の夏 (富士見L文庫)",
+    "url": "https://note.com/tag/%E3%82%A8%E3%83%BC%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "人間性の素晴らしい人に共通する、9つの特徴",
+    "url": "https://note.com/tag/%E3%82%A8%E3%83%BC%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "幹夫｜スクールカウンセラー23年｜生きやすくなる考え方を探究＆発信",
+    "url": "https://note.com/tag/%E3%82%A8%E3%83%BC%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "ジャックファミリーの４コマ漫画〝今日はだれ〟エースが、とおせんぼ",
+    "url": "https://note.com/tag/%E3%82%A8%E3%83%BC%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドエース株式会社はGoogle Cloud に強いシステムインテグレータ（Sler）です。クラウドエースで働く社員のリアルな声をお届けします！",
+    "url": "https://cloud-ace-recruit.com/?gs=3d18d77f2f479ba951c18f8843edb8fd",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドエース株式会社はGoogle Cloud に強いシステムインテグレータ（Sler）です。クラウド…",
+    "url": "https://cloud-ace-recruit.com/?gs=3d18d77f2f479ba951c18f8843edb8fd",
+    "pass": 3
+   },
+   {
+    "quote": "詳しい採用情報は採用サイトからご覧になれます。",
+    "url": "https://cloud-ace-recruit.com/?gs=3d18d77f2f479ba951c18f8843edb8fd",
+    "pass": 3
+   },
+   {
+    "quote": "当社エンジニア社員による技術ブログはこちら。",
+    "url": "https://cloud-ace-recruit.com/?gs=3d18d77f2f479ba951c18f8843edb8fd",
+    "pass": 3
+   },
+   {
+    "quote": "AX コンサルタント（AI Agentで企業の業務改革をリードするパイオニア募集）",
+    "url": "https://cloud-ace-recruit.com/?gs=3d18d77f2f479ba951c18f8843edb8fd",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアスキルを顧客の業務変革に繋げるAX コンサルタント（AIエンジニアリング/アーキテクトリード",
+    "url": "https://cloud-ace-recruit.com/?gs=3d18d77f2f479ba951c18f8843edb8fd",
+    "pass": 3
+   },
+   {
+    "quote": "AXコンサルティング営業｜将来の営業マネージャー候補",
+    "url": "https://cloud-ace-recruit.com/?gs=3d18d77f2f479ba951c18f8843edb8fd",
+    "pass": 3
+   },
+   {
+    "quote": "「『なんでも自分一人でやらない、背負わない』が私のポリシー」新プロジェクトリーダーが語る、ダイバーシティ推進プロジェクトへの決意。",
+    "url": "https://cloud-ace-recruit.com/?gs=3d18d77f2f479ba951c18f8843edb8fd",
+    "pass": 3
+   },
+   {
+    "quote": "食料品専門店「北野エース」| 広報｜note",
+    "url": "https://note.com/kitano_ace",
+    "pass": 3
+   },
+   {
+    "quote": "食料品専門店「北野エース」広報のnoteです。HPでは伝えきれない情報をお伝えいたします。",
+    "url": "https://note.com/kitano_ace",
+    "pass": 3
+   },
+   {
+    "quote": "商品や店舗に関するお問い合わせはHPのお問い合わせフォームからお願いいたします。",
+    "url": "https://note.com/kitano_ace",
+    "pass": 3
+   },
+   {
+    "quote": "創業65周年を迎える前に、北野エースのnoteを始めます",
+    "url": "https://note.com/kitano_ace",
+    "pass": 3
+   },
+   {
+    "quote": "【北野エース カレー部】北野エース カレーなる本棚®公式アンバサダー尾上右近さんの自主公演『第十回 研の會』を観劇しました",
+    "url": "https://note.com/kitano_ace",
+    "pass": 3
+   },
+   {
+    "quote": "【絆にほっこり】北野エースの接客コンテスト「第4回ACE SERVICE AWARD」アフターレポート",
+    "url": "https://note.com/kitano_ace",
+    "pass": 3
+   },
+   {
+    "quote": "食品バイヤーの仕事_バイヤーインタビュー【北野エースFAN BOOK】",
+    "url": "https://note.com/kitano_ace",
+    "pass": 3
+   },
+   {
+    "quote": "大企業エースが中小やスタートアップで爆死する、本当の理由｜いちお",
+    "url": "https://note.com/ichio_2025/n/n8bb42c642f20",
+    "pass": 3
+   },
+   {
+    "quote": "大企業エースが中小やスタートアップで爆死する、本当の理由",
+    "url": "https://note.com/ichio_2025/n/n8bb42c642f20",
+    "pass": 3
+   },
+   {
+    "quote": "第1回のnoteの冒頭で、私はこの投稿を引用しました。",
+    "url": "https://note.com/ichio_2025/n/n8bb42c642f20",
+    "pass": 3
+   },
+   {
+    "quote": "大企業で活躍したエリサラが、満を持してスタートアップや中小企業に幹部として飛び込んだ末、鳴かず飛ばずで苦しむ事象を分析すると、口ばかりで手が動かないってのもあるがそれは論外だとして、上手くいかない理由の大半は、従業員の思考回路やメンタリティを理解できないことに帰結すると思う。…",
+    "url": "https://note.com/ichio_2025/n/n8bb42c642f20",
+    "pass": 3
+   },
+   {
+    "quote": "— いちお｜商社→中小企業経営 (@ichio_2025)",
+    "url": "https://note.com/ichio_2025/n/n8bb42c642f20",
+    "pass": 3
+   },
+   {
+    "quote": "そして、第1回の「プロローグ」に続いて、第2回で「中小企業への転身経緯」、第3回「中小企業経営の二つの難易度」といった内容でnoteを書いてきました。ようやく今回、本題にたどり着いた次第です。",
+    "url": "https://note.com/ichio_2025/n/n8bb42c642f20",
+    "pass": 3
+   },
+   {
+    "quote": "なぜこの投稿を書くのか、先に前提を申し上げます。",
+    "url": "https://note.com/ichio_2025/n/n8bb42c642f20",
+    "pass": 3
+   },
+   {
+    "quote": "そもそも、私自身は爆死しているわけではありません。今のところ、いまの場所で、どうにか前に進めています。ただし、自戒と内省の意味も込めて、一般にJTCに蔓延していると考えられる病について、自分なりの考えを整理しておきたいと思いました。",
+    "url": "https://note.com/ichio_2025/n/n8bb42c642f20",
+    "pass": 3
+   },
+   {
+    "quote": "日本リサーチセンターが年に4回発行する機関誌『ACE』の公式ページです。本誌からおすすめの記事をご紹介します。発行月は1・4・7・10月です。",
+    "url": "https://note.com/ace_magazine",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.nrc.co.jp/ace/backnumber/index.html",
+    "url": "https://note.com/ace_magazine",
+    "pass": 3
+   },
+   {
+    "quote": "日本リサーチセンターが年に4回発行する機関誌『ACE』の公式ページです。本誌からおすすめの記…",
+    "url": "https://note.com/ace_magazine",
+    "pass": 3
+   },
+   {
+    "quote": "【インタビュー】勅使川原真衣さん｜能力って誰か見たことがあるのでしょうか？",
+    "url": "https://note.com/ace_magazine",
+    "pass": 3
+   },
+   {
+    "quote": "しっぽを失くした私たち──ヒトにはなぜしっぽがないのだろう？",
+    "url": "https://note.com/ace_magazine",
+    "pass": 3
+   },
+   {
+    "quote": "【インタビュー】横尾忠則さん｜Y字路と死。終わりの先、向こう側の風景",
+    "url": "https://note.com/ace_magazine",
+    "pass": 3
+   },
+   {
+    "quote": "ヒト、穴を掘る──日本で発見された世界最古の陥し穴",
+    "url": "https://note.com/ace_magazine",
+    "pass": 3
+   },
+   {
+    "quote": "全国「甌穴」絶景スポット！～悠久の時をかけて自然がつくった芸術的な穴",
+    "url": "https://note.com/ace_magazine",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "バッテリィズ エース (@KentoMaruko) / X バッテリィズ エース (@KentoMaruko) / X X https://x.com > KentoMaruko",
+    "url": "https://x.com/KentoMaruko",
+    "pass": 3
+   },
+   {
+    "quote": "ACE BAGS & LUGGAGE エース 株式会社 - X ACE BAGS & LUGGAGE エース 株式会社 - X X https://x.com > ACE_BagsLuggage",
+    "url": "https://x.com/ACE_BagsLuggage",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクション・ エース 【公式】 (@proace_official) / X プロダクション・ エース 【公式】 (@proace_official) / X X https://x.com > proace_official",
+    "url": "https://x.com/proace_official",
+    "pass": 3
+   },
+   {
+    "quote": "公式｜ エース オンラインストア｜安心のバッグメーカー直販 - X 公式｜ エース オンラインストア｜安心のバッグメーカー直販 - X X https://x.com > ACEonlinstore",
+    "url": "https://x.com/ACEonlinstore",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド エース (@cloudace_jp) / X クラウド エース (@cloudace_jp) / X X https://x.com > cloudace_jp",
+    "url": "https://x.com/cloudace_jp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "山口 エース - アメリカ合衆国 カリフォルニア パロアルト 山口 エース - アメリカ合衆国 カリフォルニア パロアルト LinkedIn https://www.linkedin.com > ayamaguchi",
+    "url": "https://www.linkedin.com/in/ayamaguchi/ja",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド エース 株式会社 - LinkedIn Singapore クラウド エース 株式会社 - LinkedIn Singapore LinkedIn Singapore https://sg.linkedin.com > company > cloud-ace",
+    "url": "https://sg.linkedin.com/company/cloud-ace",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ace .JAPAN( エース ) (@acedotjapan) - Facebook ace .JAPAN( エース ) (@acedotjapan) - Facebook Facebook https://www.facebook.com > ... > バッグ・旅行かばん",
+    "url": "https://www.facebook.com/acedotjapan/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "エース 株式会社 | Shibuya-ku Tokyo - Facebook エース 株式会社 | Shibuya-ku Tokyo - Facebook Facebook https://www.facebook.com > acebagsandluggage",
+    "url": "https://www.facebook.com/acebagsandluggage/",
+    "pass": 3
+   },
+   {
+    "quote": "Alex Ace - アレックス エース (@AlexAceWrestler) - Facebook Alex Ace - アレックス エース (@AlexAceWrestler) - Facebook Facebook https://www.facebook.com > Pages > Public figure > Athlete",
+    "url": "https://www.facebook.com/AlexAceWrestler/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ace-cutter.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ace-cutter.co.jp/products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ace-cutter.co.jp/equipment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ace-cutter.co.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ace-cutter.co.jp/newsdetail?wgd=news-8&wgdo=date-DESC",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://ace-cutter.co.jp/system_panel/uploads/images/%E8%A3%BD%E5%93%81%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ace-cutter.co.jp/system_panel/uploads/images/20260317134658466160.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.ace-group.co.jp/recruit-employment/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000000q8ogV&q_no=2",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10172327302/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ace-group.co.jp/recruit-employment/newgrads/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ace.jp/recruit/newgraduate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E3%82%A8%E3%83%BC%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloud-ace-recruit.com/?gs=3d18d77f2f479ba951c18f8843edb8fd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/KentoMaruko",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ACE_BagsLuggage",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/proace_official",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ACEonlinstore",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ayamaguchi/ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/company/cloud-ace",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/acedotjapan/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/acebagsandluggage/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AlexAceWrestler/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/kitano_ace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ichio_2025/n/n8bb42c642f20",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ace_magazine",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/cloudace_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エース 求人 年収",
+   "results": [
+    "https://www.ace-group.co.jp/recruit-employment/career/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C1000000q8ogV&q_no=2",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10172327302/",
+    "https://tenshoku.mynavi.jp/company/413355/",
+    "https://www.ace.jp/recruit/newgraduate/recruit/information/",
+    "https://xn--pckua2a7gp15o89zb.com/%E6%9D%89%E7%94%B0%E3%82%A8%E3%83%BC%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%B9%B4%E5%8F%8E",
+    "https://employment.en-japan.com/comp-61478/",
+    "https://en-hyouban.com/company/00006774313/salary/",
+    "https://www.plex-job.com/company/c98fbe4c-09d9-45ba-a6ae-5528b0f075a5/"
+   ]
+  },
+  {
+   "query": "エース 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%82%A8%E3%83%BC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.ace-group.co.jp/recruit-employment/newgrads/",
+    "https://www.ace.jp/recruit/newgraduate/",
+    "https://www.instagram.com/eisu_jinzai/",
+    "http://www.e-ace.jp/recruit.html",
+    "https://job.mynavi.jp/27/pc/search/corp80247/outline.html",
+    "https://syukatsu-kaigi.jp/companies/74076",
+    "https://recruit.sugita-ace.co.jp/sp/recruit/",
+    "https://www.gakujo.ne.jp/campus/company/employ/84031/",
+    "https://www.ace-tech.co.jp/recruit/new_graduate/"
+   ]
+  },
+  {
+   "query": "site:note.com エース",
+   "results": [
+    "https://note.com/tag/%E3%82%A8%E3%83%BC%E3%82%B9",
+    "https://note.com/acejapan",
+    "https://note.com/cloud_ace",
+    "https://note.com/hay_ato_m/n/nfb0a53e1418e",
+    "https://note.com/ace_magazine",
+    "https://note.com/serene_willet251/n/n6ea9b0b6384c",
+    "https://note.com/kinya_kuriyama/n/n90e75f8dfd79",
+    "https://note.com/hotel_japan_log/n/n3508e09fed2c",
+    "https://note.com/jun_pp21/n/na6f9d6ceaf43",
+    "https://note.com/akolamble/n/n2b3b5e7455bf"
+   ]
+  },
+  {
+   "query": "site:x.com エース",
+   "results": [
+    "https://x.com/KentoMaruko",
+    "https://x.com/ACE_BagsLuggage",
+    "https://x.com/proace_official",
+    "https://x.com/ACEonlinstore",
+    "https://x.com/Ace_Contact_jp",
+    "https://x.com/yuderon1/status/1514245890092929026",
+    "https://x.com/ACE0317",
+    "https://x.com/ACE0317/status/1635987022363103233",
+    "https://x.com/KentoMaruko/status/1996197043375923210",
+    "https://x.com/shonen_Ace"
+   ]
+  },
+  {
+   "query": "site:linkedin.com エース",
+   "results": [
+    "https://www.linkedin.com/in/ayamaguchi/ja",
+    "https://eg.linkedin.com/company/ace-and-company",
+    "https://www.linkedin.com/company/ace-usa",
+    "https://sg.linkedin.com/company/cloud-ace",
+    "https://www.linkedin.com/company/ace-hotel-atelier-ace",
+    "https://cn.linkedin.com/company/acebattery",
+    "https://www.linkedin.com/company/ace-mentor",
+    "https://www.linkedin.com/in/nickace",
+    "https://www.linkedin.com/company/ace-aeronautics-llc",
+    "https://www.linkedin.com/company/ace-companies-inc"
+   ]
+  },
+  {
+   "query": "site:facebook.com エース",
+   "results": [
+    "https://www.facebook.com/acedotjapan/?locale=ja_JP",
+    "https://www.facebook.com/acebagsandluggage/",
+    "https://www.facebook.com/ACEOnlineStore/",
+    "https://www.facebook.com/AlexAceWrestler/",
+    "https://www.facebook.com/acehardware/",
+    "https://www.facebook.com/acejapan/?locale=ja_JP",
+    "https://www.facebook.com/acecanbadge/",
+    "https://www.facebook.com/ACE/",
+    "https://www.facebook.com/pr.As.model/",
+    "https://www.facebook.com/RamenEsu/"
+   ]
+  },
+  {
+   "query": "エース note 社長",
+   "results": [
+    "https://note.com/kitano_ace",
+    "https://note.com/ichio_2025/n/n8bb42c642f20",
+    "https://cloud-ace-recruit.com/",
+    "https://note.com/ace_magazine",
+    "https://note.com/tag/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%BC%E3%82%B9",
+    "https://senken.co.jp/posts/ace-230105",
+    "https://www.ace.jp/company/topmessage.html",
+    "https://note.com/m_warmode/n/n1a16a5b89a29",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/kitano_ace/n/n1cfb42046924"
+   ]
+  },
+  {
+   "query": "エース X 投稿",
+   "results": [
+    "https://x.com/ACE0317",
+    "https://zenn.dev/cloud_ace",
+    "https://www.pref.kanagawa.jp/docs/j3t/cnt/f984/policy.html?mode=preview",
+    "https://x.com/cloudace_jp",
+    "https://www.sponichi.co.jp/entertainment/news/2025/12/08/kiji/20251208s00041000273000c.html",
+    "https://www.reddit.com/r/acecombat/comments/1b5gy92/ace_difficulty_on_ace_combat_x/?tl=ja",
+    "https://ace-x.co.jp/workstyle/",
+    "https://qiita.com/sky2432/items/9a89443e08d6b77b4687",
+    "https://gigazine.net/news/20260718-access/",
+    "https://ja.wikipedia.org/wiki/エース投手"
+   ]
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部21頁・検索8回）",
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部21頁・検索8回）",
+  "資本金": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部21頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部21頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部21頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部21頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部21頁・検索8回）"
+ }
+}

@@ -1,0 +1,780 @@
+{
+ "name": "クレファクト",
+ "aliases": [],
+ "context": "岡山県総社市／出典:県・市の企業ガイド／求人媒体:Indeed;doda／想定年収:511〜511万円／従業員:不明",
+ "researched_at": "2026-11-05T05:41:01.933877+00:00",
+ "official_url": "https://www.crefact.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1967年7月1日",
+    "url": "https://www.crefact.co.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "設立年",
+    "value": "設立年：1967年",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A2x0000001TKX&qco=2",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "4,800万円",
+    "url": "https://www.crefact.co.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "48百万円",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A2x0000001TKX&qco=2",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　小田 崇之",
+    "url": "https://www.crefact.co.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　横内　義雄",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A2x0000001TKX&qco=2",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "265名(2026年4月現在)",
+    "url": "https://www.crefact.co.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "100〜499人",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A2x0000001TKX&qco=2",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "139億円(2025年12月期)",
+    "url": "https://www.crefact.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "自動車部品、農業・産業車両部品の開発設計及び製造",
+    "url": "https://www.crefact.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要取引先",
+    "value": "三菱自動車工業 株式会社 マツダ 株式会社 日産自動車 株式会社 ヒルタ工業 株式会社 フタバ産業 株式会社 株式会社 アステア 株式会社 J-MAX 株式会社ヒロテック 日清紡精機広島 株式会社 ニッパツ水島 株式会社 ヤンマー建機 株式会社 ヤンマーアグリ 株式会社 イーグル工業 株式会社 三菱電機 株式会社",
+    "url": "https://www.crefact.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社 〒719-1154 岡山県総社市井尻野105 TEL：0866(93)1131（代） FAX：0866(93)1431 第二工場 〒719-1154 岡山県総社市井尻野字石堤439-4 東海工場 〒441-8074 愛知県豊橋市明海町2-16 TEL：0532(26)2772 滋賀工場 〒520-1823 滋賀県高島市マキノ町中庄464番地",
+    "url": "https://www.crefact.co.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "岡山県総社市井尻野105番地",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A2x0000001TKX&qco=2",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "岡山県総社市井尻野105番地",
+    "url": "https://en-hyouban.com/company/10202211321/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "岡山：本社・第2工場",
+    "url": "https://www.crefact.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年7月、私たちのDNAである創造力Creativeを高め、感動工場Factoryを力強く目指すという意思と誇りを込めて『クレファクトCREFACT』と社名変更しました",
+    "url": "https://www.crefact.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "創造力Creativeで感動工場Factoryを力強く目指すという誇りを込めています",
+    "url": "https://www.crefact.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "環境技術の追求で工場・施設の生産設備や機器のCO",
+    "url": "https://www.crefact.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "139億円(2025年12月期)",
+    "url": "https://www.crefact.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "三菱自動車工業（株）VFG優秀賞（3年連続）",
+    "url": "https://www.crefact.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくりは、工場で行われます",
+    "url": "https://www.crefact.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "どんな工場であるかによって、つくられるものの良さが決まります",
+    "url": "https://www.crefact.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "そんな雰囲気の工場で、力を合わせて何かを達成した時、私たちは大きな喜びを感じます",
+    "url": "https://www.crefact.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "クレファクトは、そんな多くの喜びが生まれる感動的な工場であることを目指します",
+    "url": "https://www.crefact.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくりは、工場で行われます",
+    "url": "https://www.crefact.co.jp/recruit/?anc=top-message",
+    "pass": 1
+   },
+   {
+    "quote": "どんな工場であるかによって、つくられるものの良さが決まります",
+    "url": "https://www.crefact.co.jp/recruit/?anc=top-message",
+    "pass": 1
+   },
+   {
+    "quote": "そんな雰囲気の工場で、力を合わせて何かを達成した時、私たちは大きな喜びを感じます",
+    "url": "https://www.crefact.co.jp/recruit/?anc=top-message",
+    "pass": 1
+   },
+   {
+    "quote": "クレファクトは、そんな多くの喜びが生まれる感動的な工場であることを目指します",
+    "url": "https://www.crefact.co.jp/recruit/?anc=top-message",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくりは、工場で行われます",
+    "url": "https://www.crefact.co.jp/recruit/?anc=message",
+    "pass": 1
+   },
+   {
+    "quote": "どんな工場であるかによって、つくられるものの良さが決まります",
+    "url": "https://www.crefact.co.jp/recruit/?anc=message",
+    "pass": 1
+   },
+   {
+    "quote": "そんな雰囲気の工場で、力を合わせて何かを達成した時、私たちは大きな喜びを感じます",
+    "url": "https://www.crefact.co.jp/recruit/?anc=message",
+    "pass": 1
+   },
+   {
+    "quote": "クレファクトは、そんな多くの喜びが生まれる感動的な工場であることを目指します",
+    "url": "https://www.crefact.co.jp/recruit/?anc=message",
+    "pass": 1
+   },
+   {
+    "quote": "工場での生産実習やリアルな製造工程を経験してもらいます",
+    "url": "https://www.crefact.co.jp/recruit/upbringing.html",
+    "pass": 1
+   },
+   {
+    "quote": "神奈川県川崎市中原区大倉町10番地",
+    "url": "https://en-hyouban.com/company/10202211321/",
+    "pass": 3
+   },
+   {
+    "quote": "＊取引先（自動車メーカー）との窓口業務 ＊新規部品の見積業務 ＊売上資料等の作成業務 ＊業務の変更範囲：会社が定めるすべての業務 「働き方改革関連認定企業」",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "4,800万円",
+    "url": "https://www.crefact.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "昇給 :年一回 4月(昨年実績)",
+    "url": "https://www.crefact.co.jp/recruit/new-graduate.html",
+    "pass": 1
+   },
+   {
+    "quote": "賞与 :年二回 7月・12月(昨年実績)",
+    "url": "https://www.crefact.co.jp/recruit/new-graduate.html",
+    "pass": 1
+   },
+   {
+    "quote": "昇給 :年一回 4月(昨年実績)",
+    "url": "https://www.crefact.co.jp/recruit/mid-career.html",
+    "pass": 1
+   },
+   {
+    "quote": "賞与 :年二回 7月・12月(昨年実績)",
+    "url": "https://www.crefact.co.jp/recruit/mid-career.html",
+    "pass": 1
+   },
+   {
+    "quote": "「年収：370万円 年収内訳（基本給：252万円、残業代：60万円、賞与：50万円）... クレファクト OpenWork",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A2x0000001TKX&qco=2",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社クレファクト 「年収：370万円 年収内訳（基本給：252万円、残業代：60万円、賞与：50万円）...」",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A2x0000001TKX&qco=2",
+    "pass": 3
+   },
+   {
+    "quote": "年収：370万円 年収内訳（基本給：252万円、残業代：60万円、賞与：50万円）",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A2x0000001TKX&qco=2",
+    "pass": 3
+   },
+   {
+    "quote": "クレファクトへの就職・転職を検討されている方が、クレファクトの実情を把握するための参考情報として、「社員による会社評価・クチコミ情報」（専門職、在籍5～10年、退社済み(2015年より前)、新卒入社、男性、クレファクト）「年収：370万円 年収内訳（基本給：252万円、残業代：60万円、賞与：50万円）...」を共有しています",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A2x0000001TKX&qco=2",
+    "pass": 3
+   },
+   {
+    "quote": "評価制度： 評価基準が分からず、賞与査定の際も上長面談....",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A2x0000001TKX&qco=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 見直しが入り、以前よりも実力や責任に応じて給料に差が出るように改善さ....",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A2x0000001TKX&qco=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 制度はあるが評価者による裁量が大きい 評価制度： 親会社からの受け売....",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A2x0000001TKX&qco=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 車を売れば売るほどお金は日いるので二十代でもそこら辺の同期とかよりは....",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A2x0000001TKX&qco=2",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社クレファクトで働く社員や元社員が投稿した、給与・年収、勤務時間、休日・休暇、面接などの評判・口コミを1件掲載中",
+    "url": "https://en-hyouban.com/company/10202211321/",
+    "pass": 3
+   },
+   {
+    "quote": "月給20.4万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "労働施策総合推進法に基づく中途採用比率を公表いたします",
+    "url": "https://www.crefact.co.jp/archives/news/%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8%E6%AF%94%E7%8E%87%E3%81%AE%E5%85%AC%E8%A1%A8-3",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用者もトレーナーと一緒にOJTを行います",
+    "url": "https://www.crefact.co.jp/recruit/upbringing.html",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用の応募は、下記の項目へご入力いただき「確認画面へ」をクリックしてください",
+    "url": "https://www.crefact.co.jp/mid-career-form",
+    "pass": 1
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "メンター・メンティー制度もあり、女性先輩社員に仕事以外でプライベートのことまで話せることができたので、早くから会社に馴染むことができました",
+    "url": "https://www.crefact.co.jp/recruit/work-environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "配属後は先輩社員がパートナーとなり、一緒に1年間の目標を立て、実務を通じて必要なスキルと知識を学んでいきます",
+    "url": "https://www.crefact.co.jp/recruit/upbringing.html",
+    "pass": 1
+   },
+   {
+    "quote": "入社後は新人1人に対して先輩社員がメンターとして1人付きます",
+    "url": "https://www.crefact.co.jp/recruit/upbringing.html",
+    "pass": 1
+   },
+   {
+    "quote": "同期入社や先輩社員、メンターも含め1年の活動を称え合います",
+    "url": "https://www.crefact.co.jp/recruit/upbringing.html",
+    "pass": 1
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "Oさん、総務部(若手女性社員)",
+    "url": "https://www.crefact.co.jp/recruit/work-environment.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 クレファクト の転職・企業概要 - doda — 株式会社 クレファクト の転職・企業概要 - doda doda https://doda.jp > View > Company > j_id__10001476351",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10001476351/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 クレファクト - OpenWork — 株式会社 クレファクト - OpenWork OpenWork https://www.openwork.jp > ... > 年収・給与制度",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A2x0000001TKX&qco=2",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 クレファクト の評判・口コミ - エン カイシャの評判 — 株式会社 クレファクト の評判・口コミ - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company",
+    "url": "https://en-hyouban.com/company/10202211321/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 クレファクト の管理職 求人 (岡山県総社市) — 株式会社 クレファクト の管理職 求人 (岡山県総社市) グローカルミッションジョブズ https://glocalmissionjobs.jp > search > detail",
+    "url": "https://glocalmissionjobs.jp/search/detail/311",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 クレファクト のキャリア・企業情報 — 株式会社 クレファクト のキャリア・企業情報 Indeed https://jp.indeed.com > cmp > 株式会社クレファクト",
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "クレファクト 新卒 高卒 の求人情報をすべて見る （137件） — クレファクト 新卒 高卒 の求人情報をすべて見る （137件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 クレファクト リクルートサイト2027 — 株式会社 クレファクト リクルートサイト2027 株式会社クレファクト https://www.crefact.co.jp > recruit",
+    "url": "https://www.crefact.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "クレファクト 「社員クチコミ」 就職・転職の 採用 ... - OpenWork — クレファクト 「社員クチコミ」 就職・転職の 採用 ... - OpenWork OpenWork https://www.openwork.jp > company",
+    "url": "https://www.openwork.jp/company.php?m_id=a0910000000G1AG",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 クレファクト の管理職求人(岡山県総社市) — 株式会社 クレファクト の管理職求人(岡山県総社市) グローカルミッションジョブズ https://glocalmissionjobs.jp > search > detail",
+    "url": "https://glocalmissionjobs.jp/search/detail/311",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 クレファクト | Soja-shi Okayama - Facebook 株式会社 クレファクト | Soja-shi Okayama - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/CrefactCorporation/",
+    "pass": 3
+   },
+   {
+    "quote": "【第3回 クレファクト 家族ふれあいBBQ】 みなさんこんにちは ... 【第3回 クレファクト 家族ふれあいBBQ】 みなさんこんにちは ... Facebook https://www.facebook.com > CrefactCorporation > posts",
+    "url": "https://www.facebook.com/CrefactCorporation/posts/%E7%AC%AC3%E5%9B%9E%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E5%AE%B6%E6%97%8F%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84bbq%E3%81%BF%E3%81%AA%E3%81%95%E3%82%93%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%81%A7%E3%81%99113%E6%97%A5%E3%81%AB%E7%A4%BE%E5%86%85%E3%81%A7%E3%81%AEbbq%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%8E%BB%E5%B9%B4%E4%B8%80%E6%98%A8%E5%B9%B4%E3%81%A8%E4%BC%81%E7%94%BB%E3%82%92%E7%AB%8B%E3%81%A6%E3%81%A6%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8C%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AE%E5%BD%B1/904660771759626/",
+    "pass": 3
+   },
+   {
+    "quote": "クレファクト 労働組合の「第58回 定期大会」にお招き ... クレファクト 労働組合の「第58回 定期大会」にお招き ... Facebook https://www.facebook.com > posts > クレファクト労働組合...",
+    "url": "https://www.facebook.com/61551940644687/posts/%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E5%8A%B4%E5%83%8D%E7%B5%84%E5%90%88%E3%81%AE%E7%AC%AC58%E5%9B%9E-%E5%AE%9A%E6%9C%9F%E5%A4%A7%E4%BC%9A%E3%81%AB%E3%81%8A%E6%8B%9B%E3%81%8D%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E6%97%A5%E9%A0%83%E3%81%AE%E6%B8%A9%E3%81%8B%E3%81%84%E3%81%94%E6%94%AF%E6%8F%B4%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%BE%A1%E7%A4%BC%E3%81%A8%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AE%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A%E3%82%92%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E6%97%A5%E9%A0%83%E3%82%88%E3%82%8A%E5%A4%9A%E5%A4%A7%E3%81%AA%E3%82%8B%E3%81%94%E5%8D%94%E5%8A%9B%E3%82%92%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84/122298958400064688/",
+    "pass": 3
+   },
+   {
+    "quote": "クレファクト - Nyumbani | Facebook クレファクト - Nyumbani | Facebook Facebook https://sw-ke.facebook.com > pages > クレファクト",
+    "url": "https://sw-ke.facebook.com/pages/%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88/2233673073575650",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.crefact.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crefact.co.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crefact.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crefact.co.jp/archives/news/%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8%E6%AF%94%E7%8E%87%E3%81%AE%E5%85%AC%E8%A1%A8-3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crefact.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crefact.co.jp/recruit/?anc=top-message",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crefact.co.jp/recruit/?anc=message",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crefact.co.jp/recruit/work-environment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crefact.co.jp/recruit/upbringing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crefact.co.jp/recruit/new-graduate.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crefact.co.jp/recruit/mid-career.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crefact.co.jp/mid-career-form",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10001476351/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A2x0000001TKX&qco=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en-hyouban.com/company/10202211321/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/CrefactCorporation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CrefactCorporation/posts/%E7%AC%AC3%E5%9B%9E%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E5%AE%B6%E6%97%8F%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84bbq%E3%81%BF%E3%81%AA%E3%81%95%E3%82%93%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%81%A7%E3%81%99113%E6%97%A5%E3%81%AB%E7%A4%BE%E5%86%85%E3%81%A7%E3%81%AEbbq%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%8E%BB%E5%B9%B4%E4%B8%80%E6%98%A8%E5%B9%B4%E3%81%A8%E4%BC%81%E7%94%BB%E3%82%92%E7%AB%8B%E3%81%A6%E3%81%A6%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8C%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AE%E5%BD%B1/904660771759626/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61551940644687/posts/%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E5%8A%B4%E5%83%8D%E7%B5%84%E5%90%88%E3%81%AE%E7%AC%AC58%E5%9B%9E-%E5%AE%9A%E6%9C%9F%E5%A4%A7%E4%BC%9A%E3%81%AB%E3%81%8A%E6%8B%9B%E3%81%8D%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E6%97%A5%E9%A0%83%E3%81%AE%E6%B8%A9%E3%81%8B%E3%81%84%E3%81%94%E6%94%AF%E6%8F%B4%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%BE%A1%E7%A4%BC%E3%81%A8%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AE%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A%E3%82%92%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E6%97%A5%E9%A0%83%E3%82%88%E3%82%8A%E5%A4%9A%E5%A4%A7%E3%81%AA%E3%82%8B%E3%81%94%E5%8D%94%E5%8A%9B%E3%82%92%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84/122298958400064688/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sw-ke.facebook.com/pages/%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88/2233673073575650",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CrefactCorporation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CrefactCorporation/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "クレファクト 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/Company/j_id__10001476351/",
+    "https://www.openwork.jp/one_answer.php?vid=a0A2x0000001TKX&qco=2",
+    "https://en-hyouban.com/company/10202211321/",
+    "https://glocalmissionjobs.jp/search/detail/311",
+    "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88",
+    "https://www.crefact.co.jp/recruit/",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10001476351/",
+    "https://www.openwork.jp/company.php?m_id=a0910000000G1AG",
+    "https://hw-jobs.careermine.jp/view/33031-00965061",
+    "https://jp.indeed.com/cmp/株式会社クレファクト/salaries"
+   ]
+  },
+  {
+   "query": "クレファクト 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.crefact.co.jp/recruit/",
+    "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88",
+    "https://www.openwork.jp/company.php?m_id=a0910000000G1AG",
+    "https://glocalmissionjobs.jp/search/detail/311",
+    "https://hw-jobs.careermine.jp/view/33031-00965061",
+    "https://syukatsu-kaigi.jp/companies/127134",
+    "https://soja-no-mirai.jp/pickup/3462.html",
+    "https://en-hyouban.com/company/10202211321/",
+    "https://www.crefact.co.jp/recruit/new-graduate.html"
+   ]
+  },
+  {
+   "query": "site:note.com クレファクト",
+   "results": [
+    "https://note.com/re_nissan/n/n411a16229f61",
+    "https://note.com/commons_pj/n/n0886a20b434a",
+    "https://note.com/kure_kuredo/n/nab8698d790fd?hl=en",
+    "https://note.com/min_shin/n/nc65788bb3207?hl=en",
+    "https://note.com/local_edu_lab/n/ndf63e6273a9e?hl=en",
+    "https://note.com/cocco_ksk/n/n3af57c3a5782?hl=en",
+    "https://note.com/sato_kureshin/n/nb3952c2ef016?hl=en",
+    "https://note.com/calm_pika4006/n/n5b171a5455bf?hl=en",
+    "https://note.com/inji/n/nbe0c382443c0",
+    "https://note.com/dcreate_1201/n/n7bd343de47b2?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com クレファクト",
+   "results": [
+    "https://x.com/kskgroup2017/status/1097004903304552448",
+    "https://x.com/RBcleay/status/2080995236600578086?lang=fa",
+    "https://x.com/s_culekop/status/1906927495607406929",
+    "https://x.com/cule_1125/status/2065991896732938703",
+    "https://x.com/RBcleay/status/2073207576687448203",
+    "https://x.com/OfficialPDPNig/status/2018398092723359953",
+    "https://x.com/RBcleay/status/2077547367478469105",
+    "https://x.com/RBcleay/status/2077136498336665978",
+    "https://x.com/dr_dash250/status/1999029168655237620",
+    "https://x.com/TOYOTA_PR/status/2048326258459807768"
+   ]
+  },
+  {
+   "query": "site:linkedin.com クレファクト",
+   "results": [
+    "https://jp.linkedin.com/in/satoshi-hasegawa-95825185",
+    "https://www.linkedin.com/pub/dir/Satoshi/Hasegawa",
+    "https://www.linkedin.com/in/kenneth-kure-cpa-mba",
+    "https://jp.linkedin.com/pub/dir/Satoshi/Hasegawa/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://www.linkedin.com/in/tonikure",
+    "https://www.linkedin.com/in/iliya-kure-35b79335",
+    "https://mt.linkedin.com/in/rimante-kure-operation-excellence",
+    "https://in.linkedin.com/in/rushikesh-kure",
+    "https://ng.linkedin.com/in/faith-kure",
+    "https://sn.linkedin.com/in/samuelkure"
+   ]
+  },
+  {
+   "query": "site:facebook.com クレファクト",
+   "results": [
+    "https://www.facebook.com/CrefactCorporation/",
+    "https://www.facebook.com/CrefactCorporation/posts/%E7%AC%AC3%E5%9B%9E%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E5%AE%B6%E6%97%8F%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84bbq%E3%81%BF%E3%81%AA%E3%81%95%E3%82%93%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%81%A7%E3%81%99113%E6%97%A5%E3%81%AB%E7%A4%BE%E5%86%85%E3%81%A7%E3%81%AEbbq%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%8E%BB%E5%B9%B4%E4%B8%80%E6%98%A8%E5%B9%B4%E3%81%A8%E4%BC%81%E7%94%BB%E3%82%92%E7%AB%8B%E3%81%A6%E3%81%A6%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8C%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AE%E5%BD%B1/904660771759626/",
+    "https://www.facebook.com/61551940644687/posts/%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E5%8A%B4%E5%83%8D%E7%B5%84%E5%90%88%E3%81%AE%E7%AC%AC58%E5%9B%9E-%E5%AE%9A%E6%9C%9F%E5%A4%A7%E4%BC%9A%E3%81%AB%E3%81%8A%E6%8B%9B%E3%81%8D%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E6%97%A5%E9%A0%83%E3%81%AE%E6%B8%A9%E3%81%8B%E3%81%84%E3%81%94%E6%94%AF%E6%8F%B4%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%BE%A1%E7%A4%BC%E3%81%A8%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AE%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A%E3%82%92%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E6%97%A5%E9%A0%83%E3%82%88%E3%82%8A%E5%A4%9A%E5%A4%A7%E3%81%AA%E3%82%8B%E3%81%94%E5%8D%94%E5%8A%9B%E3%82%92%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84/122298958400064688/",
+    "https://sw-ke.facebook.com/pages/%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88/2233673073575650",
+    "https://hr-hr.facebook.com/pages/%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88/2233673073575650",
+    "https://www.facebook.com/CrefactCorporation/posts/%E6%9C%AB%E9%87%8E%E6%8A%95%E6%89%8B%E3%81%8Cjr%E8%A5%BF%E6%97%A5%E6%9C%AC%E3%82%88%E3%82%8A%E7%AC%AC95%E5%9B%9E-%E9%83%BD%E5%B8%82%E5%AF%BE%E6%8A%97%E9%87%8E%E7%90%83%E5%A4%A7%E4%BC%9A%E3%81%AE%E8%A3%9C%E5%BC%B7%E9%81%B8%E6%89%8B%E3%81%AB%E9%81%B8%E5%87%BA%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F2%E5%B9%B4%E6%8C%AF%E3%82%8A2%E5%BA%A6%E7%9B%AE%E3%81%AE%E9%81%B8%E5%87%BA%E5%80%89%E6%95%B7%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%BA%E3%81%AF%E6%AE%8B%E5%BF%B5%E3%81%AA%E3%81%8C%E3%82%89%E4%BA%88%E9%81%B8%E6%95%97%E9%80%80%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8C%E3%81%9D%E3%81%AE%E7%84%A1%E5%BF%B5%E3%82%92%E3%83%81%E3%83%BC/807709728121398/",
+    "https://www.facebook.com/OkayamawineFes/posts/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%8A%E3%81%8B%E3%82%84%E3%81%BE%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B1%95otex2026-%E7%B2%BE%E9%8B%AD%E4%BC%81%E6%A5%AD%E3%81%A8%E5%87%BA%E4%BC%9A%E3%81%86%E6%8A%80%E8%A1%93%E5%B1%95%E7%A4%BA%E5%95%86%E8%AB%87%E4%BC%9A%E6%97%A5%E6%99%822026%E5%B9%B411%E6%9C%8811%E6%97%A5%E6%B0%B412%E6%97%A5%E6%9C%A8-10%E6%99%8217%E6%99%82-%E6%9C%80%E7%B5%82%E6%97%A5%E3%81%AF-16%E6%99%8230%E5%88%86-/1940432317294631/",
+    "https://www.facebook.com/mizukikurashiki/posts/2026%E5%B9%B47%E6%9C%8831%E6%97%A5-%E7%99%BE%E5%8D%81%E5%9B%9B%E9%8A%80%E8%A1%8C%E6%A7%98%E3%81%AB%E3%83%9D%E3%82%B8%E3%83%86%E3%82%A3%E3%83%96%E3%82%A4%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9%E4%BB%A5%E4%B8%8Bpif%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9Fpif%E3%81%A8%E3%81%AF%E4%BC%81%E6%A5%AD%E6%B4%BB%E5%8B%95%E3%81%8C%E7%92%B0%E5%A2%83%E7%A4%BE%E4%BC%9A%E7%B5%8C%E6%B8%88%E3%81%AB%E3%82%82%E3%81%9F%E3%82%89%E3%81%99%E3%82%A4%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%83%9D%E3%82%B8%E3%83%86/1689574746505572/",
+    "https://www.facebook.com/61551940644687/posts/%E7%A7%8B%E6%99%B4%E3%82%8C%E3%81%AE%E3%82%82%E3%81%A8%E4%B8%89%E8%8F%B1%E8%87%AA%E5%8B%95%E8%BB%8A%E3%82%AA%E3%83%BC%E3%82%BF%E3%83%A0%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB%E3%81%8C%E7%9B%9B%E5%A4%A7%E3%81%AB%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E8%BB%8A%E4%B8%A1%E5%B1%95%E7%A4%BA%E3%82%84%E9%81%8B%E5%8B%95%E9%83%A8%E3%81%AB%E3%82%88%E3%82%8B%E4%BD%93%E9%A8%93%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E3%82%B0%E3%83%AB%E3%83%A1%E3%81%AB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%A8%E5%A4%A7%E4%BA%BA%E3%81%8B%E3%82%89%E5%AD%90%E3%81%A9%E3%82%82%E3%81%BE%E3%81%A7%E7%AC%91%E9%A1%94%E3%81%82%E3%81%B5%E3%82%8C%E3%82%8B1%E6%97%A5/122298176654064688/",
+    "https://www.facebook.com/ryojikonpou/posts/ksb%E7%80%AC%E6%88%B8%E5%86%85%E6%B5%B7%E6%94%BE%E9%80%81-%E8%87%AA%E7%94%B1%E4%BA%BA%E4%BC%9A%E7%A4%BE%E4%BA%BA-%E3%83%88%E3%83%83%E3%83%97%E3%81%AE%E6%A8%AA%E9%A1%94/1679515798853584/"
+   ]
+  },
+  {
+   "query": "クレファクト note 社長",
+   "results": [
+    "https://www.crefact.co.jp/company",
+    "https://www.nikkan.co.jp/articles/view/684718",
+    "https://www.facebook.com/CrefactCorporation/",
+    "https://mono.ipros.com/company/detail/2091829/",
+    "https://www.instagram.com/crefact/",
+    "https://note.com/nifty_daisy3638/n/nc37f5df2c289",
+    "https://archive.otex-online.jp/cms/storage/uploads/152/panel/1/pdf/%E2%91%A0%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81(FY25).pdf",
+    "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88/reviews",
+    "https://glocalmissionjobs.jp/search/detail/311",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "クレファクト X 投稿",
+   "results": [
+    "https://www.instagram.com/crefact/",
+    "https://archive.otex-online.jp/cms/storage/uploads/152/panel/1/pdf/%E2%91%A0%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81(FY25).pdf",
+    "https://www.facebook.com/CrefactCorporation/",
+    "https://mono.ipros.com/company/detail/2091829/",
+    "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AF%E3%83%AC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88/reviews",
+    "https://www.instagram.com/reel/Cod2LaRONDu/",
+    "https://www.crefact.co.jp/news",
+    "https://syukatsu-kaigi.jp/companies/127134/word_mouths",
+    "https://x.com/bolt_inc0623/status/2116488656160731232",
+    "https://www.crefact.co.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "求人媒体": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部11頁・検索8回）"
+ }
+}

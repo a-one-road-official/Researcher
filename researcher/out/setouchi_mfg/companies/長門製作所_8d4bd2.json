@@ -1,0 +1,662 @@
+{
+ "name": "長門製作所",
+ "aliases": [],
+ "context": "山口県宇部市／出典:タウンページ;地元の合同説明会／求人媒体:見当たらず／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T05:47:12.357210+00:00",
+ "official_url": "https://nagato-ube.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "山口県宇部市大字山中230番地-14",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "山口県宇部市大字山中230番地-14",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000tfeOa",
+    "pass": 3
+   },
+   {
+    "label": "本店所在地",
+    "value": "山口県宇部市大字山中２３０番地１４",
+    "url": "https://jp.stanby.com/r_2fca889a27e1823635cbe2199bfba14c",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：昭和15年6月1日",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "44,000,000円(払込済)",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "4,400万円",
+    "url": "https://jp.stanby.com/r_2fca889a27e1823635cbe2199bfba14c",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "三好 俊雄",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 武永 敏博",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000tfeOa",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "武永敏博",
+    "url": "https://jp.stanby.com/r_2fca889a27e1823635cbe2199bfba14c",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "68人",
+    "url": "https://jp.stanby.com/r_2fca889a27e1823635cbe2199bfba14c",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "良い製品は清潔な工場から生まれると確信しています",
+    "url": "https://nagato-ube.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ＣＮＣタレパンによる打抜加工、非常電源用耐熱配電盤、分電盤の設計製作（非常用電源盤製作認定工場）等を行なっております",
+    "url": "https://nagato-ube.com/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金150万円に増資匿名組合長門機械製作所と改称し電機、鉄工の総合工場として小野田セメント株式会社の指定工場となった",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社（資本金150万円）に改組、電気機器製作の専門工場を宇部市東区海岸通5丁目に設置",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "資本金600万円（増資450万円）に増資すると共に高周波焼入設備を小野田工場内に設置操業を開始する",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "資本金900万円（増資300万円）に増資、小野田工場狭小のため小野田市港町に製缶工場を移転設置",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "資本金1,575万円（増資675万円）に増資し宇部市厚南区西割に電機工場移設用地を購入",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "小野田工場鉄工部増強と電機工場を宇部市厚南区西割に移設拡充するため総額10,500万円で工事に着手",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "小野田工場増強工事及び宇部工場新築移設工事を夫々竣工し、宇部工場移転完了及び旧宇部工場を閉鎖する",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "日立金属㈱九州工場の水処理チェンの組立協力工場となる",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "小野田工場、構内へ計2億円を以て新熱処理工場を完成（延1,800㎡）",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "総額2億円を以て熱処理工場の増築、設備の改増及び事務所、研修室、集会場の改築に着手（57年9月完成）",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "小野田工場構内（宇部市厚南区北若山）へ計5,000万円にて建設し、精密部品の組立及び機械加工を行う",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "日本鉄塔工業㈱若松工場経由東京電力向送電用部品の熱処理開始",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "山口テクノパークへ電機工場進出決定 （総額10億5千万円）工場用地27,845㎡取得",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "電気工場完成、移転完了、旧宇部工場閉鎖、売却",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "小野田工場にガス窒化炉設置操業（平成16年移転に際してガス窒化炉廃止）",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "山口テクノパーク電機工場に隣接して熱処理工場を新築、 小野田工場は解体し更地とする",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "小野田工場跡地12,000㎡にヤマダ電機向け店舗建設完成賃貸契約を結ぶ",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "資本金150万円に増資匿名組合長門機械製作所と改称し電機、鉄工の総合工場として小野田セメント株式会社の指定工場となった",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社（資本金150万円）に改組、電気機器製作の専門工場を宇部市東区海岸通5丁目に設置",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "資本金600万円（増資450万円）に増資すると共に高周波焼入設備を小野田工場内に設置操業を開始する",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "資本金900万円（増資300万円）に増資、小野田工場狭小のため小野田市港町に製缶工場を移転設置",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "資本金1,575万円（増資675万円）に増資し宇部市厚南区西割に電機工場移設用地を購入",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "小野田工場鉄工部増強と電機工場を宇部市厚南区西割に移設拡充するため総額10,500万円で工事に着手",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "資本金4,400万円（増資1,100万円）に増資",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "小野田工場構内（宇部市厚南区北若山）へ計5,000万円にて建設し、精密部品の組立及び機械加工を行う",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "山口テクノパークへ電機工場進出決定 （総額10億5千万円）工場用地27,845㎡取得",
+    "url": "https://nagato-ube.com/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "◤未経験歓迎＆現職給与以上保証◢ コンサルティング営業（静岡勤務）",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000tfeOa",
+    "pass": 3
+   },
+   {
+    "quote": "年収 600万～1000万円",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000tfeOa",
+    "pass": 3
+   },
+   {
+    "quote": "年収 700万〜1200万円",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000tfeOa",
+    "pass": 3
+   },
+   {
+    "quote": "年収 930万〜1350万円",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000tfeOa",
+    "pass": 3
+   },
+   {
+    "quote": "年収 459万〜528万円",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000tfeOa",
+    "pass": 3
+   },
+   {
+    "quote": "年収 480万〜650万円",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000tfeOa",
+    "pass": 3
+   },
+   {
+    "quote": "月給21.5万円〜26.5万円",
+    "url": "https://jp.stanby.com/r_2fca889a27e1823635cbe2199bfba14c",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円〜25万円",
+    "url": "https://jp.stanby.com/r_2fca889a27e1823635cbe2199bfba14c",
+    "pass": 3
+   },
+   {
+    "quote": "昇給はその年の売上にもよりますが5千円／年単位で昇給します",
+    "url": "https://jp.stanby.com/r_2fca889a27e1823635cbe2199bfba14c",
+    "pass": 3
+   },
+   {
+    "quote": "4,400万円",
+    "url": "https://jp.stanby.com/r_2fca889a27e1823635cbe2199bfba14c",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給21.4万円〜22.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "◤未経験歓迎＆現職給与以上保証◢ コンサルティング営業（金沢勤務）",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000tfeOa",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "OpenWorkでは、新卒採用と中途採用それぞれの求人掲載が可能です",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000tfeOa",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "４トントラックを使用し、配電盤・制御盤などの製品や部品の配送 業務を担当していただきます 製品を安全・確実にお客様へお届けすることが主な業務です 積込み・荷下ろしや製品の確認も行っていただきます 配送がない時間は、組立課で部品の準備や製品の組立補助、などの 構内作業を行っていただきます 入社後は、配送ルートや製品の取り扱い方法、安全作業の基本から 先輩社員が丁寧に指導します 製品の積み下ろしや社内作業についても、一つずつ覚えていただけ ますので、未経験の方でも安心して働けます 【業務内容の変更範囲】変更なし",
+    "url": "https://jp.stanby.com/r_2fca889a27e1823635cbe2199bfba14c",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 長門製作所 の 求人 情報 - キュウサク — 株式会社 長門製作所 の 求人 情報 - キュウサク キュウサク https://kyusaku.jp > 株式会社長門製作所の求人",
+    "url": "https://kyusaku.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "長門製作所 「社員クチコミ」 就職・転職の採用企業リサーチ ... — 長門製作所 「社員クチコミ」 就職・転職の採用企業リサーチ ... OpenWork https://www.openwork.jp > 鉄鋼、非鉄金属",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000tfeOa",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 長門製作所 の 求人 ・仕事・採用 - スタンバイ — 株式会社 長門製作所 の 求人 ・仕事・採用 - スタンバイ スタンバイ https://jp.stanby.com > ...",
+    "url": "https://jp.stanby.com/r_2fca889a27e1823635cbe2199bfba14c",
+    "pass": 3
+   },
+   {
+    "quote": "正社員 長門製作所 の 求人 - 山口県 宇部市 | Indeed (インディード) — 正社員 長門製作所 の 求人 - 山口県 宇部市 | Indeed (インディード) Indeed https://jp.indeed.com > q-正社員-長門製作所-l-山口県-宇...",
+    "url": "https://jp.indeed.com/q-%E6%AD%A3%E7%A4%BE%E5%93%A1-%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80-l-%E5%B1%B1%E5%8F%A3%E7%9C%8C-%E5%AE%87%E9%83%A8%E5%B8%82-%E6%B1%82%E4%BA%BA.html",
+    "pass": 3
+   },
+   {
+    "quote": "長門製作所 新卒 高卒 の求人情報をすべて見る （136件） — 長門製作所 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 長門製作所 の求人・仕事・ 採用 - スタンバイ — 株式会社 長門製作所 の求人・仕事・ 採用 - スタンバイ スタンバイ https://jp.stanby.com > ...",
+    "url": "https://jp.stanby.com/r_2fca889a27e1823635cbe2199bfba14c",
+    "pass": 3
+   },
+   {
+    "quote": "長門製作所 「社員クチコミ」 就職・転職の 採用 企業リサーチ ... — 長門製作所 「社員クチコミ」 就職・転職の 採用 企業リサーチ ... OpenWork https://www.openwork.jp > 鉄鋼、非鉄金属",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000tfeOa",
+    "pass": 3
+   },
+   {
+    "quote": "正社員 長門製作所 の求人 - 山口県 宇部市 | Indeed (インディード) — 正社員 長門製作所 の求人 - 山口県 宇部市 | Indeed (インディード) Indeed https://jp.indeed.com > q-正社員-長門製作所-l-山口県-宇...",
+    "url": "https://jp.indeed.com/q-%E6%AD%A3%E7%A4%BE%E5%93%A1-%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80-l-%E5%B1%B1%E5%8F%A3%E7%9C%8C-%E5%AE%87%E9%83%A8%E5%B8%82-%E6%B1%82%E4%BA%BA.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 長門製作所 の求人情報 - キュウサク — 株式会社 長門製作所 の求人情報 - キュウサク キュウサク https://kyusaku.jp > 株式会社長門製作所の求人",
+    "url": "https://kyusaku.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社長門製作所 - Facebook 株式会社長門製作所",
+    "url": "https://www.facebook.com/株式会社長門製作所-100831795029129/",
+    "pass": 3
+   },
+   {
+    "quote": "山口の社長.tv - FacebookYIC学院 社会事業本部 - 【参加者募集】 前回ご好評いただいたUBEオー...山口の社長.tv - 【 4月5日 新番組到着 - Facebook May 15, 2012 · 山口の社長.tv. 164 followers. 日本最大級の経営者WEB番組 Mar 9, 2021 · 【参加者募集】 前回ご好評いただいたUBEオープンファクトリー 第2弾を開催します！！ リアルな企業の仕事現場、働く環境、働く人の生の声をお届けするUBEオープンファクトリー♪♪ 「業界研究・企業研究の参考にした！」 「将来モノづくりに関わる仕事がしたい！」 「実際作っている ... 求めるものはお客様の満足。 熱処理と電機のプロフェッショナルが想う企業のあり方とは？ 顧客と誠心誠意向きあう独自の経営理念に迫る。 bpqH9pfmL.com 株式会社長門製作所 武永 ",
+    "url": "https://www.facebook.com/yamaguchi.president/",
+    "pass": 3
+   },
+   {
+    "quote": "山口の社長.tv - 【 4月5日 新番組到着 - Facebook 求めるものはお客様の満足。 熱処理と電機のプロフェッショナルが想う企業のあり方とは？ 顧客と誠心誠意向きあう独自の経営理念に迫る。 bpqH9pfmL.com 株式会社長門製作所 武永 敏博 様 インタビュー",
+    "url": "https://www.facebook.com/yamaguchi.president/posts/-4月5日-新番組到着-中小企業ゆえの小廻りのきく営業サービスを武器に高品質低価格短納期をモットーに掲げ特にクレーム処理等に力を入れ日本全国まれに海外にも即座に/363536127024604/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://nagato-ube.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nagato-ube.com/denki-jigyoubu/denki-seihinshoukai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nagato-ube.com/company-profile",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://kyusaku.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E6%B1%82%E4%BA%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000tfeOa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/r_2fca889a27e1823635cbe2199bfba14c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/r_2fca889a27e1823635cbe2199bfba14c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000tfeOa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/株式会社長門製作所-100831795029129/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/yamaguchi.president/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/yamaguchi.president/posts/-4月5日-新番組到着-中小企業ゆえの小廻りのきく営業サービスを武器に高品質低価格短納期をモットーに掲げ特にクレーム処理等に力を入れ日本全国まれに海外にも即座に/363536127024604/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "長門製作所 求人 年収",
+   "results": [
+    "https://kyusaku.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E6%B1%82%E4%BA%BA",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000tfeOa",
+    "https://jp.stanby.com/r_2fca889a27e1823635cbe2199bfba14c",
+    "https://jp.indeed.com/q-%E6%AD%A3%E7%A4%BE%E5%93%A1-%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80-l-%E5%B1%B1%E5%8F%A3%E7%9C%8C-%E5%AE%87%E9%83%A8%E5%B8%82-%E6%B1%82%E4%BA%BA.html",
+    "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3503007912761&kJKbn=1&jGSHNo=MDZpDbwLSxBHOYANB%2BpWbQ%3D%3D&fullPart=1&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=0",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10012591643/",
+    "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E5%BA%9C%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E5%B9%B4%E5%8F%8E",
+    "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80-1/jobs/l-%E5%AE%87%E9%83%A8%E5%B8%82-%E5%A4%A7%E5%AD%97%E5%B1%B1%E4%B8%AD",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10006843652/",
+    "https://jp.indeed.com/cmp/株式会社-長門製作所-1/jobs"
+   ]
+  },
+  {
+   "query": "長門製作所 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://jp.stanby.com/r_2fca889a27e1823635cbe2199bfba14c",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000tfeOa",
+    "https://jp.indeed.com/q-%E6%AD%A3%E7%A4%BE%E5%93%A1-%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80-l-%E5%B1%B1%E5%8F%A3%E7%9C%8C-%E5%AE%87%E9%83%A8%E5%B8%82-%E6%B1%82%E4%BA%BA.html",
+    "https://kyusaku.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E9%96%80%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E6%B1%82%E4%BA%BA",
+    "https://yamamoto-mfg.jp/original95.html",
+    "https://nagato-ube.com/",
+    "https://www.chofu.co.jp/recruit/entry_freshman.html",
+    "https://www.hisakado.co.jp/recruit/requirements",
+    "https://salesnow.jp/db/companies/jcbwc9ed70mgw1ur"
+   ]
+  },
+  {
+   "query": "site:note.com 長門製作所",
+   "results": [
+    "https://note.com/eli_fumoto/n/ndfaf898a2aa3",
+    "https://note.com/genkiyamaguchi/n/n5305353fc6bf",
+    "https://note.com/route_signal35/n/nd7ae1febe253",
+    "https://note.com/route_signal35/n/ne008813f02a7",
+    "https://note.com/econodecode/n/ne6d54e18acf3",
+    "https://note.com/route_signal35/n/n48fb426b82e3",
+    "https://note.com/route_signal35/n/n9bf482e842bc",
+    "https://note.com/route_signal35/n/n98caea223bde",
+    "https://note.com/route_signal35/n/n9fa6ef3a46fd",
+    "https://note.com/omobabagogo/n/n3ae6cde16623"
+   ]
+  },
+  {
+   "query": "site:x.com 長門製作所",
+   "results": [
+    "https://x.com/mems6934/status/1924437380456497287",
+    "https://x.com/syoubo_88040510/status/1798457556970684872",
+    "https://x.com/mlit_kanto_koho/status/2102715681951351043",
+    "https://x.com/Nagato503Yuki/status/1097091009966559232",
+    "https://x.com/albireo710/status/1751177503685689524",
+    "https://x.com/Nagato503Yuki/status/1059941800721309696",
+    "https://x.com/inaina777777/status/1050551148845785088",
+    "https://x.com/TamamizuTM/status/1911984306886746473",
+    "https://x.com/kkr_kisha_works",
+    "https://x.com/kkr_kisha_works/status/2012877263285698836"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 長門製作所",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com 長門製作所",
+   "results": [
+    "https://www.facebook.com/株式会社長門製作所-100831795029129/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/yamaguchi.president/",
+    "https://www.facebook.com/yamaguchi.president/posts/-4月5日-新番組到着-中小企業ゆえの小廻りのきく営業サービスを武器に高品質低価格短納期をモットーに掲げ特にクレーム処理等に力を入れ日本全国まれに海外にも即座に/363536127024604/",
+    "https://www.facebook.com/presidenttv/posts/日本最大級の経営者動画メディア日本の社長tv全国の注目番組をご紹介します山口県株式会社長門製作所武永敏博-様匠の技の伝承こそ存在意義であり命であるhttpsj-/6292223497535346/",
+    "https://www.facebook.com/presidenttv/posts/日本最大級の経営者動画メディア日本の社長tv全国の注目番組をご紹介します山口県株式会社長門製作所武永敏博-様匠の技の伝承こそ存在意義であり命であるhttpsj-/4904170713007305/",
+    "https://www.facebook.com/YIC.ccinfo/posts/参加者募集前回ご好評いただいたubeオープンファクトリー第2弾を開催しますリアルな企業の仕事現場働く環境働く人の生の声をお届けするubeオープンファクトリー業界/3901021176629513/"
+   ]
+  },
+  {
+   "query": "長門製作所 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://nagato-ube.com/company-profile",
+    "https://nagato-ube.com/greeting",
+    "https://compalyze.co.jp/company/2250001003867",
+    "https://note.com/rinyama319618/n/n7159d2d4586a",
+    "https://www.bm-ube.jp/company/3052/",
+    "https://relax-job.com/more/105402"
+   ]
+  },
+  {
+   "query": "長門製作所 X 投稿",
+   "results": [
+    "https://nagato-ube.com/",
+    "https://www.instagram.com/nagato.netsu/",
+    "https://x.com/Narukamizima/with_replies",
+    "https://x.com/NagatoFinance",
+    "https://x-sou.com/ja",
+    "https://xkings.jp/",
+    "https://twiman.net/search?q=長門&m=tweet&o=1"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部9頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部9頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部9頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部9頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部9頁・検索8回）"
+ }
+}
