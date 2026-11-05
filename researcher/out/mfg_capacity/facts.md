@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・79品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・81品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -4472,3 +4472,46 @@
 - 生産能力・設備：記載なし（読んだ35頁・検索15回）
 - 10年推移：記載なし（読んだ35頁・検索15回）
 - 人手と仕事の差：記載なし（読んだ35頁・検索15回）
+
+## 日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43）（Japan Die and Mould Industry Association statistics site:jdmia.or.jp）
+- 文脈：業種・団体
+- 事業所数・社数：記載なし（読んだ39頁・検索15回）
+- 社員数・平均社員数：記載なし（読んだ39頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ39頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ39頁・検索15回）
+- 生産能力・設備：記載なし（読んだ39頁・検索15回）
+- 10年推移：記載なし（読んだ39頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ39頁・検索15回）
+
+## 電気めっき業の事業所数と従業者数を同じ表・同じ年で（工業統計 産業細分類2464・全国鍍金工業組合連合会 site:zenmekki.or.jp・別出典どうしで割らない）（Japan electroplating establishments and employees same table same year）
+- 文脈：業種・統計
+- 社員数・平均社員数：
+  - 「工業統計調査 産業編 2-01 【１．産業別統計表 (産業細分類別)】 (1)従業者４人以上の事業所に関する統計表 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【１．産業別統計表 (産業細分類別)】 (1)従業者４人以上の事業所に関する統計表」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年初現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年末現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【1122】絹・人絹織物業」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【1142】絹・人絹織物機械染色業」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【1161】織物製成人男子・少年服製造業（不織布製及びレース製を含む）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【1162】織物製成人女子・少女服製造業（不織布製及びレース製を含む）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【2183】人工骨材製造業」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【3251】娯楽用具・がん具製造業（人形を除く）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【3252】人形製造業」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+- 受注金額・加工賃収入：
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年初現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年末現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+- 1人あたり・1社あたり金額：
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年初現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年末現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+- 生産能力・設備：
+  - 「有形固定資産額(従業者30人以上)［年初現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年末現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+- 10年推移：
+  - 「2016-04-28 00:00」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【2020】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【2021】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+- 事業所数・社数：記載なし（読んだ12頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ12頁・検索15回）

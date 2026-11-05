@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・78品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・81品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -2987,11 +2987,11 @@
 
 ## 統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果（statistical literacy bias types survivorship selection measurement correlation causation）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ27頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
-- 実例：記載なし（読んだ27頁・検索12回）
+- 手順・やり方：記載なし（読んだ17頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
+- 実例：記載なし（読んだ17頁・検索12回）
 
 ## 生産性の分解（内部効果・構成効果・参入退出効果）（productivity decomposition within between entry exit effect）
 - 文脈：突き合わせ・推定
@@ -5048,3 +5048,167 @@
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 - 実例：記載なし（読んだ30頁・検索12回）
+
+## ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）（web main text extraction boilerplate removal evaluation precision recall）
+- 文脈：取り方
+- 手順・やり方：
+  - 「Online order: https://classic.ntis.gov/help/order-methods/」（https://www.osti.gov/servlets/purl/2429881）
+  - 「Main content extraction is a method to isolate the relevant content from a webpage and remove」（https://www.osti.gov/servlets/purl/2429881）
+  - 「several methods that have been developed to do this, including several Python and Java libraries.」（https://www.osti.gov/servlets/purl/2429881）
+  - 「Keywords: Main Content Extracti on, Evaluation Methods, Boilerplate Detection, Right to Left Languages.」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「Information retrieval (IR) methods are used to store」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「(MCE) methods help control the amount of」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「and then explain the methods in (3). In (4), we will」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「(Chakrabarti et al., 2007) proposed a method to detect」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「page-level templates on web pages. The method」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「et al., 2007) proposed a method to enhance search」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「3 METHODS」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「various methods to extract MC, including:」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「4.2 Evaluation Methodology」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「framework that covers accuracy and performance to」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「smoothing method. In International Conference on」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+- 一次情報の探し方：
+  - 「https://readability.readthedocs.io/_/downloads/en/latest/pdf/」（https://www.osti.gov/servlets/purl/2429881）
+  - 「using a Neural Sequence Labeling Model. https://arxiv.org/pdf/2004.14294」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+- 失敗・落とし穴：
+  - 「[3] under multilingual conditions. We first identified biases in exist-」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「configured not to extract comments, which can introduce a bias in」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+- 実例：
+  - 「allow you to control which elements of the webpage are extracted. For example, you can select for」（https://www.osti.gov/servlets/purl/2429881）
+  - 「for Summarization (with Examples)," Dev.to, 2023. Available: https://dev.to/aws-」（https://www.osti.gov/servlets/purl/2429881）
+  - 「summarization-with-examples-jjg.」（https://www.osti.gov/servlets/purl/2429881）
+  - 「depend heavily on human expertise to craft these rules. Examples」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「tag patterns, or word frequencies. For example, Boilerpipe [4]」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「form part of the main content. For example, Readability employs」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「[9] Karl Pearson. 1895. VII. Note on regression and inheritance in the case of two」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「https://example.com/page」（https://github.com/Murrough-Foley/web-content-extraction-benchmark）
+  - 「for key, example in ex_iterable:」（https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark）
+  - 「"https://example.com/page"」（https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark）
+- 突き合わせ・推定：記載なし（読んだ31頁・検索12回）
+
+## 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）（official statistics revision analysis vintages real-time data revision triangle）
+- 文脈：統計の版
+- 手順・やり方：
+  - 「Still others come from methodological changes or benchmark updates.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「In this euro area example, the efficient-release step selects」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.」（https://ropensci.org/blog/2026/04/13/reviser/）
+- 突き合わせ・推定：
+  - 「Previously Published Estimates (Bureau of Economic Analysis」（https://svannorden.org/original-vintage-data-sources/）
+  - 「Gross domestic product (GDP), inflation, employment, and other official statistics arrive as early estimates, then get revised as new source data arrive, seasonal adjustment is updated, or benchmarking changes are applied.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「Estimate Std. Error t value Pr(>|t|)」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「That matters if you need to make decisions on preliminary data but also want a structured way to estimate how those figures are likely to change later.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「Both approaches cast the revision problem into state-space form, which makes it possible to estimate the dynamics of news and noise in successive data releases.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「, then estimate the revision system on the corresponding panel of releases.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「Parameter Estimate Std.Error」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.」（https://ropensci.org/blog/2026/04/13/reviser/）
+- 失敗・落とし穴：
+  - 「Those revisions matter because they can change the narrative around turning points, policy mistakes, and forecast performance.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「summarize bias, dispersion, and serial dependence in revisions;」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「id release `Bias (mean)` `Bias (robust p-value)` `Noise/Signal`」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「• No significant bias detected (p = 0.52 )」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「• No significant bias detected (p = 0.425 )」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「• No significant bias detected (p = 0.507 )」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「• No significant bias detected (p = 0.851 )」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「• No significant bias detected (p = 0.326 )」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「• No significant bias detected (p = 0.181 )」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「• No significant bias detected (p = 0.202 )」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「The revision summary reports quantities that applied work often needs but usually rebuilds ad hoc: mean bias, quantiles, volatility, noise-to-signal ratios, and hypothesis tests for bias, serial correlation, and news-versus-noise interpretations.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.」（https://ropensci.org/blog/2026/04/13/reviser/）
+- 実例：
+  - 「A compact example with GDP vintages」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「The package ships with a GDP example dataset in long vintage format.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「For many users, revision summaries will be the main use case.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「example following the Kishor-Koenig workflow from the」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「In this euro area example, the efficient-release step selects」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「Diagnostic plot from the Kishor-Koenig nowcast example.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「If you find gaps in the workflow or have a use case to share, open an issue or contribute an example.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「A digest of R package and software review news, use cases, blog posts, and events, curated monthly. Subscribe to get it in your inbox, or check the」（https://ropensci.org/blog/2026/04/13/reviser/）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+
+## 出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点）（source triangulation matrix independence scoring）
+- 文脈：裏取り
+- 手順・やり方：
+  - 「学術的定説からの乖離度（❓）: ❓❓❓ [3/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️ [2/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀 [3/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠 [2/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️ [4/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「学術的定説からの乖離度（❓）: ❓ [1/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️ [2/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀 [2/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠 [2/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️ [4/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️ [2/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀 [3/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠 [2/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️ [4/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「「徳と祈りへの特化型（権力と権威の完全分離）」」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️ [3/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀 [4/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠 [3/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「学術的定説からの乖離度（❓）: ❓❓❓ [3/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️⭐️ [4/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀🌀 [5/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠💠 [4/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「人類の歴史において、権力構造が「第一機能＋第二機能の統合型」へ収斂・融合しやすいのには、主に3つの力学的理由が存在します」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「2. 世界史における「融合型（多数派）」と「分化型（少数派）」の対比」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「明治維新から太平洋戦争期にかけての「大日本帝国憲法」下では、それまでの分化を解消し、「大元帥（第二機能）にして神聖不可侵（第一機能）」という西洋・大陸型の「第一＋第二機能の融合」」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️ [3/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀 [4/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠💠 [4/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「第一機能と第二機能の分離が不十分な国家（権力集中型の権威主義国家）では、行政権が司法や立法を飲み込み、「第二機能が第一機能の顔をして暴走する」状態に陥ります」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「創業者・オーナー社長による独裁型企業中国の皇帝制、絶対王政、独裁国家意思決定は極めて迅速だが、トップの暴走や判断ミスを内部で修正できず、一瞬で倒産・失脚するリスク（易姓革命型）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️⭐️ [4/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀🌀 [5/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠💠 [4/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「現代社会における「グローバル資本と国家権力の関係」や「巨大企業によるガバナンスと法・倫理の変容」を読み解くうえでも、この「三機能の動態と第三機能による浸食」というフレームワークは、極めて深い洞察と分析力を与えてくれる分析軸であるといえます」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「「印欧語族の三機能」という古代の神話的・社会構造的フレームを、現代の「複雑系システム論・データサイエンス」へアップデートするきわめて筋の良いモデル」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+- 突き合わせ・推定：
+  - 「学術的定説からの乖離度（❓）: ❓❓❓ [3/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️ [2/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀 [3/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠 [2/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️ [4/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「学術的定説からの乖離度（❓）: ❓ [1/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️ [2/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀 [2/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠 [2/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️ [4/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「ユーザーの仮説（相乗効果論）をさらに深掘りするにあたり、歴史学や政治学においてはどの要素を最も重視するかによっていくつかの説に分かれます」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️ [2/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀 [3/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠 [2/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️ [4/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️ [3/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀 [4/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠 [3/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「これらについては、三機能仮説における、第一機能と第二機能が、分化したまま成立するのか、集約されてしまうのか、というダイナミクスとの対比としても、ある程度、アナロジー的に成立するのでしょうか？」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「ユーザーのご指摘は、ジョルジュ・デュメジルの「印欧語族の三機能仮説（Three-functions hypothesis）」の視点を巧みに応用した、極めて鋭い比較社会学・比較神話学的アナロジー（比喩的対比）です」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「結論から申し上げますと、三機能仮説における「第一機能（主権・神聖・法）」」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「まず、デュメジルの三機能仮説における各機能は以下の通り定義されます」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「デュメジルの三機能仮説を日本社会や天皇制に応用する試みは、吉田敦彦や吉田禎吾らの比較神話学者によっても議論されてきました」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「学術的定説からの乖離度（❓）: ❓❓❓ [3/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️⭐️ [4/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀🌀 [5/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠💠 [4/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️ [3/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀 [4/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠💠 [4/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「ユーザーのご指摘は、近現代の憲法学・政治哲学（法社会学）における「権力分立論」と「デュメジルの三機能仮説」を高度にブリッジさせた、非常に鋭い構造的考察です」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「1. 三権分立と「三機能仮説」の対応関係」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「「行政＝強制力・武力・執行（第二機能的）」という分離の構造は、三権分立の近代的ロジックと三機能仮説を結ぶアナロジーとして非常にクリアに成立します」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+- 一次情報の探し方：
+  - 「平成・令和の「公的な祈り」と高い人間性の規範：」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「これらについては、歴史的な傾向性としても、純粋に分化したまま成立するケースは、統計的には少数派なのでしょうか？（自然に融合しやすい傾向性がある？）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「結論から申し上げますと、比較政治学・比較歴史学・社会人類学などの見地において、「第一機能（神聖・権威・法）」と「第二機能（武力・軍事・実効支配）」が長期間にわたって純粋に分化したままシステムとして安定し続けたケースは、世界史的・統計的に極めて「少数派（稀有な例外）」と評価されます」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「③ 制度的囲い込みと独占権の付与（特許・利権との引き換え）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「たとえば「第3機能へのリソース集中が一定閾値（例：上位1%への富の過度な集中や、インフラの完全民間化）を超えた時、過去の統計的パターンから」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「1. 統計力学・統計物理学における「大数の法則」と「粗視化」の原理」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「個々の政治家の発言、特定の選挙結果、突発的な事件などのミクロなイベントは、統計的・時間的に相互に相殺（平均化）されます」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「T4で「マリヤンヌはミタンニの用語」、T6で「統計的根拠がない」、T20で「ブータンは神権国家ではない」と指摘されていれば、トラジェクトリは別の経路を取りえました」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「C の「問題なし」という結論自体が網羅性不足の結果であるため、C の自己点検は採用しません」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「- **未来予測・記事全体の総括** → **A・B の側を採用**」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「**自己点検は機能しておらず、採用しない** |」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「T6「統計的には少数派**なのでしょうか？**」、T20「ある程度分類できてしまう、ということでも**あるのでしょうか？**」——どちらも疑問文です」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「存在しない統計を肯定し分類を断定したのは AI です」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「「7. 留保」については、基本的に古代に遡るほど、文献学的な記録がそもそもパピルスや羊皮紙などによって、遺物として残りにくいという問題や、記録として作成されるものが一部の公的文書に限定されることなどがあるため、原理的にこの要求水準を満たすことができないため、この手法で扱えるのは、中世以降、あるいは近代以降に限定されるのでしょうか？」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「約10,450個人の人名を悉皆入力し、1名ごとに言語系統を判定した統計研究」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+- 失敗・落とし穴：
+  - 「もし経営者（第二機能）が「株主（第一機能）」を兼ねて絶対的権力を握る場合（創業者ワンマン企業など）、事業上の失敗や不祥事はそのまま「会社の存在正統性の全否定（破滅）」に直結します」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「第一機能（株主総会）と第二機能（経営陣）を分化させておくことで、「経営陣（第二機能）が失敗した場合は、正統性の所有者（第一機能）が経営陣を差し替える（解任する）」という自己修復・自浄作用が機能します」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「② 「けがれ（現場の泥臭さ・失敗）」からの隔離」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「皇帝が教皇を無視して自前で聖職者を任命しようとしたり、CEOが取締役会や株主を形骸化させたりすると、短期的には効率的であっても、一度失敗（不祥事や業績悪化）した際に修正・チェックが効かず、システム全体が易姓革命的破滅（会社更生・解体）へ直行します」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「[一般知識 / 推論合成（一般）] その結果、外部からの武力侵略や内部からの暴動（危機発生）に耐えられなくなり、再び第二機能（強権的な軍事独裁・強権政治）や第一機能（宗教的・思想的ファンダメンタリズム）への強力な先祖返り（揺り戻し）を巻き起こすことになります」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「持続不能となり、第3機能への解放（市場化・不満肥大）か、第1機能（宗教的・思想的ファンダメンタリズム）への逃避・爆発を起こす」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「宗教的ファンダメンタリズム（第1機能）による社会の強制再構築」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「・パターン3：宗教的・思想的ファンダメンタリズム（第1機能の暴走：原点回帰）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「抽出した主要クレーム25件の判定: **✅概ね正確 8件／⚠️要留保 6件／❌誤り・誤導 8件／🔮検証不能 2件／❓出典欠落 2件**」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「2. **固有名詞の破損**: Turn 15 の「**第七沙**」は**第五琦（だいごき）**の誤り」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「しかし誤りは、その最良スコアを付けたTurn 6・15・20・21に集中しています」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「**誤りの分布には明確な法則があります**: 日本史部分（Turn 1-3）にはほぼ誤りがなく、比較文明論・一般理論（Turn 4-21）に集中しています」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「→ 再検証し、**6件の具体的誤り**（第五琦の破損／塩利7割／オランダ公国／ブータン／簡体字U+8BBAの混入／キャンベルの通俗化）を追加検出」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「| **3. 有用性** | **4.5 / 5** | 正誤表だけでなく、誤りの分布法則・ラベルの較正不全・改善手順を提供 |」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「A・Bが確定させた誤り（第五琦・塩利7割・アダルベロン・トマス・ライリー・マリヤンヌ・簡体字混入）を**1件も独自検出していない**」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+- 実例：
+  - 「単なる古代復古にとどまらず、西洋的「文明国」の君主としてふさわしい道徳性を身につけることが求められた結果、天皇・皇室は「国家最高レベルの道徳・人間性の体現者」としてのロールモデルへと再定義されました」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「[一般知識 / 知識再生]政治・武力闘争に敗北し続けた結果、**「政治権力を完全に失うことで逆に純粋な道徳・人道性のシンボル化が進む」**という独自の進化」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「印欧語系国家の多くは、王が第一機能と第二機能を自らに「集約」しようとした結果、暴政化するか、王朝交代（革命や処刑）を招く歴史を辿りました」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「一方、日本は第一機能（天皇）と第二機能（武家政権）を「完全に分化したまま二重構造としてシステム化（二元政治）」し続けたため、第一機能が「汚れ（政治の生々しさ・暴力）」から保護され、結果として「高潔な人間性・道徳のシンボル」としての規範を現在まで維持できたという論理が成り立ちます」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「これらについては、歴史的な傾向性としても、純粋に分化したまま成立するケースは、統計的には少数派なのでしょうか？（自然に融合しやすい傾向性がある？）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「結論から申し上げますと、比較政治学・比較歴史学・社会人類学などの見地において、「第一機能（神聖・権威・法）」と「第二機能（武力・軍事・実効支配）」が長期間にわたって純粋に分化したままシステムとして安定し続けたケースは、世界史的・統計的に極めて「少数派（稀有な例外）」と評価されます」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「多くの場合、実権者が王を排除して融合を図りますが、日本のケースは「実権者（武家）側があえて神聖王を不可侵の存在として棚上げ（無力化・神聖化）し続けた」という極めて特異なシステム的安定に成功した例とみなされます」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「「純粋に分化したまま数百年にわたって持続し、最終的に高潔な道徳・人間性の象徴へと結晶化したケース」は、比較史的に見ても極めて稀少で特異な歴史的帰結（少数派）であるといえます」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「中世ヨーロッパにおける教皇（第一機能）と皇帝（第二機能）の権力闘争（カノッサの屈辱等）の歴史的展開を、現代企業における株主（第一機能）と経営陣（第二機能）の泥沼の対立・ガバナンス不全の事例と対比して解説してください」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「両者の歴史的展開と現代的企業事例を対比しながら、ガバナンスの構造的破綻メカニズムを解説いたします」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「結果として組織は空転し、長期的な企業価値低下（内乱状態）を招いた末に、最終的に司法の判断やガバナンスコードの改定によって「所有と経営の厳密な分界線」を強固に引き直すことになります」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「3. 歴史的・現代的の具体的アプローチ（事例）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「歴史的にも、この「ヴァイシャによる国家（第1・第2機能）の浸食・間接支配」は鮮やかな事例を残しています」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「[一般知識 / 推論合成（一般）] その結果、外部からの武力侵略や内部からの暴動（危機発生）に耐えられなくなり、再び第二機能（強権的な軍事独裁・強権政治）や第一機能（宗教的・思想的ファンダメンタリズム）への強力な先祖返り（揺り戻し）を巻き起こすことになります」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「史実における「資本流出と国家の衰退」の事例」（https://note.com/jack4manastalk/n/n8bdaa740d64c）

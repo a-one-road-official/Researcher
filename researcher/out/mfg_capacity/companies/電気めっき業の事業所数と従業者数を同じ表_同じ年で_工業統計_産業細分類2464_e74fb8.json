@@ -1,0 +1,300 @@
+{
+ "name": "電気めっき業の事業所数と従業者数を同じ表・同じ年で（工業統計 産業細分類2464・全国鍍金工業組合連合会 site:zenmekki.or.jp・別出典どうしで割らない）",
+ "en": "Japan electroplating establishments and employees same table same year",
+ "aliases": [
+  "工業統計 2464 電気めっき業 事業所数 従業者数",
+  "site:zenmekki.or.jp 統計 組合員 従業者",
+  "経済構造実態調査 電気めっき業 従業者数 事業所数"
+ ],
+ "context": "業種・統計",
+ "kind": "market",
+ "researched_at": "2026-11-05T22:23:04.930830+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "工業統計調査 産業編 2-01 【１．産業別統計表 (産業細分類別)】 (1)従業者４人以上の事業所に関する統計表 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】 (1)従業者４人以上の事業所に関する統計表",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額(従業者30人以上)［年初現在高］（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額(従業者30人以上)［年末現在高］（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "【1122】絹・人絹織物業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "【1142】絹・人絹織物機械染色業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "【1161】織物製成人男子・少年服製造業（不織布製及びレース製を含む）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "【1162】織物製成人女子・少女服製造業（不織布製及びレース製を含む）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "【2183】人工骨材製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "【3251】娯楽用具・がん具製造業（人形を除く）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "【3252】人形製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額(従業者30人以上)［年初現在高］（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額(従業者30人以上)［年末現在高］（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額(従業者30人以上)［年初現在高］（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額(従業者30人以上)［年末現在高］（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "有形固定資産額(従業者30人以上)［年初現在高］（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額(従業者30人以上)［年末現在高］（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2016-04-28 00:00",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "【2020】工業用革製品製造業（手袋を除く）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "【2021】工業用革製品製造業（手袋を除く）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001022686",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nlftp.mlit.go.jp/ksj/gmlold/datalist/gmlold_KsjTmplt-S03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/publications/dp/15e002.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://academiccommons.columbia.edu/doi/10.7916/D8959R1H/download",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/structural-adjustment-and-changes-to-employment-use-in-japan_da70101b/f58e9301-en.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pzacad.pitzer.edu/~lyamane/kato.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://users.nber.org/~confer/2005/jpmf05/ono.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "電気めっき業の事業所数と従業者数を同じ表・同じ年で（工業統計 産業細分類2464・全国鍍金工業組合連合会 site:zenmekki.or.jp・別出典どうしで割らない）",
+   "results": []
+  },
+  {
+   "query": "電気めっき業の事業所数と従業者数を同じ表・同じ年で（工業統計 産業細分類2464・全国鍍金工業組合連合会 site:zenmekki.or.jp・別出典どうしで割らない） 推移",
+   "results": []
+  },
+  {
+   "query": "電気めっき業の事業所数と従業者数を同じ表・同じ年で（工業統計 産業細分類2464・全国鍍金工業組合連合会 site:zenmekki.or.jp・別出典どうしで割らない） 統計 PDF",
+   "results": []
+  },
+  {
+   "query": "電気めっき業の事業所数と従業者数を同じ表・同じ年で（工業統計 産業細分類2464・全国鍍金工業組合連合会 site:zenmekki.or.jp・別出典どうしで割らない） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://ja.wikipedia.org/wiki/工業統計調査",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.e-stat.go.jp/stat-search/files?tstat=000001022686",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "https://nlftp.mlit.go.jp/ksj/gmlold/datalist/gmlold_KsjTmplt-S03.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_outline_shosai.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき業の事業所数と従業者数を同じ表・同じ年で（工業統計 産業細分類2464・全国鍍金工業組合連合会 site:zenmekki.or.jp・別出典どうしで割らない） 従業者規模別",
+   "results": []
+  },
+  {
+   "query": "電気めっき業の事業所数と従業者数を同じ表・同じ年で（工業統計 産業細分類2464・全国鍍金工業組合連合会 site:zenmekki.or.jp・別出典どうしで割らない） 1人当たり 万円",
+   "results": []
+  },
+  {
+   "query": "電気めっき業の事業所数と従業者数を同じ表・同じ年で（工業統計 産業細分類2464・全国鍍金工業組合連合会 site:zenmekki.or.jp・別出典どうしで割らない） 2015 2025",
+   "results": []
+  },
+  {
+   "query": "Japan electroplating establishments and employees same table same year Japan statistics",
+   "results": [
+    "https://www.rieti.go.jp/jp/publications/dp/15e002.pdf",
+    "https://academiccommons.columbia.edu/doi/10.7916/D8959R1H/download",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/structural-adjustment-and-changes-to-employment-use-in-japan_da70101b/f58e9301-en.pdf",
+    "https://pzacad.pitzer.edu/~lyamane/kato.pdf",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://users.nber.org/~confer/2005/jpmf05/ono.pdf",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2021all.pdf",
+    "https://www.wiego.org/wp-content/uploads/2019/09/Chatani_non-regular_employment_statistics_Japan.pdf",
+    "https://www.jil.go.jp/english/jli/documents/2024/047-05.pdf",
+    "https://www.stat.go.jp/english/data/nenkan/74nenkan/1431-07.html"
+   ]
+  },
+  {
+   "query": "site:note.com 電気めっき業の事業所数と従業者数を同じ表・同じ年で（工業統計 産業細分類2464・全国鍍金工業組合連合会 site:zenmekki.or.jp・別出典どうしで割らない）",
+   "results": []
+  },
+  {
+   "query": "site:x.com 電気めっき業の事業所数と従業者数を同じ表・同じ年で（工業統計 産業細分類2464・全国鍍金工業組合連合会 site:zenmekki.or.jp・別出典どうしで割らない）",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com 電気めっき業の事業所数と従業者数を同じ表・同じ年で（工業統計 産業細分類2464・全国鍍金工業組合連合会 site:zenmekki.or.jp・別出典どうしで割らない）",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com 電気めっき業の事業所数と従業者数を同じ表・同じ年で（工業統計 産業細分類2464・全国鍍金工業組合連合会 site:zenmekki.or.jp・別出典どうしで割らない）",
+   "results": []
+  },
+  {
+   "query": "電気めっき業の事業所数と従業者数を同じ表・同じ年で（工業統計 産業細分類2464・全国鍍金工業組合連合会 site:zenmekki.or.jp・別出典どうしで割らない） note 社長",
+   "results": []
+  },
+  {
+   "query": "電気めっき業の事業所数と従業者数を同じ表・同じ年で（工業統計 産業細分類2464・全国鍍金工業組合連合会 site:zenmekki.or.jp・別出典どうしで割らない） X 投稿",
+   "results": []
+  },
+  {
+   "query": "Japan electroplating establishments and employees same table same year site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/tin-electroplating-solution-market-us-japan-korea-imxxf",
+    "https://ca.linkedin.com/company/kuntz",
+    "https://www.linkedin.com/pulse/nickel-plated-steel-strip-market-us-japan-korea-6el4f",
+    "https://hk.linkedin.com/company/eci-technology-inc",
+    "https://zw.linkedin.com/company/okuno-auromex",
+    "https://www.linkedin.com/pulse/metal-finishing-machines-market-global-outlook-oy5mf",
+    "https://uk.linkedin.com/company/bep-surface-technologies",
+    "https://www.linkedin.com/in/michael-beesley-2799b76",
+    "https://www.linkedin.com/pulse/rise-cyanide-free-electroplating-sustainable-revolution-hzptc",
+    "https://mt.linkedin.com/company/sts-industrie-sa"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ12頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ12頁・検索15回）"
+ }
+}

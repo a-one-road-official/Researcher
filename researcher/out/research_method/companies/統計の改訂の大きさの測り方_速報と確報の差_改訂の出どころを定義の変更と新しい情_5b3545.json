@@ -8,7 +8,7 @@
  ],
  "context": "改訂",
  "kind": "market",
- "researched_at": "2026-11-05T19:48:01.281309+00:00",
+ "researched_at": "2026-11-05T22:16:36.898277+00:00",
  "evidence": {
   "実例": [
    {
@@ -84,120 +84,64 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "失敗・落とし穴": [
+  "手順・やり方": [
    {
-    "quote": "revisions are more in one direction than another, suggesting possible bias in the earlier",
+    "quote": "statistics on how to interpret the results of a revision analys es for economic variable s",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "the average size of the revisions, but it cannot provide an indication of directional bias",
+    "quote": "this document for other sophisticated / specific user methods.",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "be of limited use (also called “average bias”).",
+    "quote": "aware of changes to compilation methods that may have occurred over time to the",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "revision is statistically different from zero which may give an insight of whether a bias 7",
+    "quote": "3 The task-force has made recommendations on how to build a database of „real-time‟ data required for",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
+    "quote": "the real-time dataset available to analyse. The reader is therefore referred to the guidelines on how to build",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)",
+    "quote": "expect a non-zero mean revision, such as the impact of methodological or definitional changes which may",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "considering whether there is bias in the revision process (i.e. there may be some degree of",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "statistically significant positive bias to revisions for GDP growth.",
+    "quote": "take place as new methods of calculating figures are",
     "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "however, is whether this apparent bias is statistically significant",
+    "quote": "revision results from changes in the methodology used to compile",
     "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
     "pass": 3,
     "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
+   },
    {
-    "quote": "http://www.oecd.org/dataoecd/44/36/40308976.pdf?contentId=40308977",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "quote": "The first step in constructing a real-time database is deciding",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "http://www.oecd.org/dataoecd/20/26/34350524.pdf.",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2005, Paris http://www.oecd.org/dataoecd/55/17/35010765.pdf.",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Paris. http://www.oecd.org/dataoecd/13/49/35440080.pdf",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "http://www.oecd.org/dataoecd/44/38/40309461.pdf?contentId=40309462",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "http://www.oecd.org/dataoecd/45/29/36561675.pdf",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "http://www.cirano.qc.ca/fin/Real-timeData/2007/McKenzie.pdf",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "http://www.oecd.org/dataoecd/47/15/40315408.pdf",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ONS, UK. http://www.oecd.org/dataoecd/43/62/33779647.pdf",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "quote": "is that revisions due to methodological changes are likely to",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -384,63 +328,119 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "手順・やり方": [
+  "一次情報の探し方": [
    {
-    "quote": "statistics on how to interpret the results of a revision analys es for economic variable s",
+    "quote": "http://www.oecd.org/dataoecd/44/36/40308976.pdf?contentId=40308977",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "this document for other sophisticated / specific user methods.",
+    "quote": "http://www.oecd.org/dataoecd/20/26/34350524.pdf.",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "aware of changes to compilation methods that may have occurred over time to the",
+    "quote": "2005, Paris http://www.oecd.org/dataoecd/55/17/35010765.pdf.",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "3 The task-force has made recommendations on how to build a database of „real-time‟ data required for",
+    "quote": "Paris. http://www.oecd.org/dataoecd/13/49/35440080.pdf",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "the real-time dataset available to analyse. The reader is therefore referred to the guidelines on how to build",
+    "quote": "http://www.oecd.org/dataoecd/44/38/40309461.pdf?contentId=40309462",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "expect a non-zero mean revision, such as the impact of methodological or definitional changes which may",
+    "quote": "http://www.oecd.org/dataoecd/45/29/36561675.pdf",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "take place as new methods of calculating figures are",
+    "quote": "http://www.cirano.qc.ca/fin/Real-timeData/2007/McKenzie.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "http://www.oecd.org/dataoecd/47/15/40315408.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ONS, UK. http://www.oecd.org/dataoecd/43/62/33779647.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "revisions are more in one direction than another, suggesting possible bias in the earlier",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the average size of the revisions, but it cannot provide an indication of directional bias",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "be of limited use (also called “average bias”).",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "revision is statistically different from zero which may give an insight of whether a bias 7",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "considering whether there is bias in the revision process (i.e. there may be some degree of",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "statistically significant positive bias to revisions for GDP growth.",
     "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "revision results from changes in the methodology used to compile",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The first step in constructing a real-time database is deciding",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "is that revisions due to methodological changes are likely to",
+    "quote": "however, is whether this apparent bias is statistically significant",
     "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -461,22 +461,22 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/kouzoukaikaku/n/n61492d0a1a63",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/mmiya/n/nbc20f5e66490",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/zenkok/n/n7a1dabfd8585",
+    "url": "https://note.com/vast_cosmos500/n/n18123aba930e",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/vast_cosmos500/n/n18123aba930e",
+    "url": "https://note.com/kouzoukaikaku/n/n61492d0a1a63",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/everprogress/n/nc066813442e3",
     "status": "ok",
     "method": "http"
    },
@@ -546,9 +546,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.moneypost.jp/34478",
+    "url": "https://www.stat.go.jp/training/2kenkyu/pdf/rn/rn007b00.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://www.cuc.ac.jp/om_miraitimes/column/mnlquk0000000j9y.html",
@@ -608,13 +608,13 @@
    "results": [
     "https://note.com/kagawatomo/n/n5cbaf70a8af2",
     "https://note.com/lsic/n/n1fea64e472f0",
-    "https://note.com/kouzoukaikaku/n/n61492d0a1a63",
     "https://note.com/mmiya/n/nbc20f5e66490",
-    "https://note.com/zenkok/n/n7a1dabfd8585",
     "https://note.com/vast_cosmos500/n/n18123aba930e",
-    "https://note.com/jdex/n/n944c34672656",
+    "https://note.com/kouzoukaikaku/n/n61492d0a1a63",
     "https://note.com/everprogress/n/nc066813442e3",
+    "https://note.com/jdex/n/n944c34672656",
     "https://note.com/jack4manastalk/n/n1b775b1daaa5",
+    "https://note.com/zenkok/n/n7a1dabfd8585",
     "https://note.com/deep_think_ai/n/n9be5052b1abf"
    ]
   },
@@ -655,9 +655,9 @@
     "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
     "https://www.digital.go.jp/resources/japandashboard/gdp-introduction",
     "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
-    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/pdf/ap2025.pdf",
     "https://www.nikkei.com/article/DGXMZO49564930Z00C19A9EE8000/",
-    "https://www.moneypost.jp/34478",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/pdf/ap2025.pdf",
+    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/rn007b00.pdf",
     "https://www.cuc.ac.jp/om_miraitimes/column/mnlquk0000000j9y.html",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://manabi-biz.com/magazine/sokuhouchi-kakuhouchi-hikaku"
@@ -738,7 +738,7 @@
     "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
     "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.nikkei.com/article/DGXMZO49564930Z00C19A9EE8000/",
+    "https://www.nikkei.com/article/DGXZZO76056900T20C14A8000058/",
     "https://note.com/good_poppy696/n/n51c7e41d15ce",
     "https://note.com/good_poppy696/n/n5a548ce40e91",
     "https://manabi-biz.com/magazine/sokuhouchi-kakuhouchi-hikaku"
@@ -777,6 +777,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-05T17:50:43.722749+00:00"
 }

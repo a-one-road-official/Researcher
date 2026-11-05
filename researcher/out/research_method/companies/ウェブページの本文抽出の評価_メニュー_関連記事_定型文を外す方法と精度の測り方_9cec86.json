@@ -1,0 +1,834 @@
+{
+ "name": "ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）",
+ "en": "web main text extraction boilerplate removal evaluation precision recall",
+ "aliases": [
+  "本文抽出 定型文 除去 評価",
+  "trafilatura 本文抽出 精度",
+  "boilerplate removal benchmark news"
+ ],
+ "context": "取り方",
+ "kind": "market",
+ "researched_at": "2026-11-05T22:11:28.747705+00:00",
+ "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "https://readability.readthedocs.io/_/downloads/en/latest/pdf/",
+    "url": "https://www.osti.gov/servlets/purl/2429881",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "using a Neural Sequence Labeling Model. https://arxiv.org/pdf/2004.14294",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方｜N... 【Webスクレイピングを効率化するTrafilatura】 HTMLの「ノイズ」を自動で除去し、記事の本文だけを高精度に抽出するPythonツール「Trafilatura」をご存知ですか？ 主な特徴： ・ナビゲーションバーや広告などを自動削除 ・タイトル、著者、日付などのメタデータも同時取得 ・複数の出力形式（JSON ...",
+    "url": "https://jp.linkedin.com/posts/niti-technology-株式会社-a1400a363_webスクレイピング本文抽出ツールtrafilaturaの特徴と使い方niti-activity-7435557619198525441-c8km",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "[3] under multilingual conditions. We first identified biases in exist-",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "configured not to extract comments, which can introduce a bias in",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "allow you to control which elements of the webpage are extracted. For example, you can select for",
+    "url": "https://www.osti.gov/servlets/purl/2429881",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "for Summarization (with Examples),\" Dev.to, 2023. Available: https://dev.to/aws-",
+    "url": "https://www.osti.gov/servlets/purl/2429881",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "summarization-with-examples-jjg.",
+    "url": "https://www.osti.gov/servlets/purl/2429881",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "depend heavily on human expertise to craft these rules. Examples",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "tag patterns, or word frequencies. For example, Boilerpipe [4]",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "form part of the main content. For example, Readability employs",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "[9] Karl Pearson. 1895. VII. Note on regression and inheritance in the case of two",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://example.com/page",
+    "url": "https://github.com/Murrough-Foley/web-content-extraction-benchmark",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "for key, example in ex_iterable:",
+    "url": "https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "\"https://example.com/page\"",
+    "url": "https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Online order: https://classic.ntis.gov/help/order-methods/",
+    "url": "https://www.osti.gov/servlets/purl/2429881",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Main content extraction is a method to isolate the relevant content from a webpage and remove",
+    "url": "https://www.osti.gov/servlets/purl/2429881",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "several methods that have been developed to do this, including several Python and Java libraries.",
+    "url": "https://www.osti.gov/servlets/purl/2429881",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Keywords: Main Content Extracti on, Evaluation Methods, Boilerplate Detection, Right to Left Languages.",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Information retrieval (IR) methods are used to store",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(MCE) methods help control the amount of",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "and then explain the methods in (3). In (4), we will",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(Chakrabarti et al., 2007) proposed a method to detect",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "page-level templates on web pages. The method",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "et al., 2007) proposed a method to enhance search",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3 METHODS",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "various methods to extract MC, including:",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4.2 Evaluation Methodology",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "framework that covers accuracy and performance to",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "smoothing method. In International Conference on",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "and robust method for web page template detection and",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "approaches. Heuristic methods, used in tools like Readability",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "learning methods, such as those in Boilerpipe [4] and BoilerNet",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Bevendorff et al. show that while no single method outperforms",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "a given threshold. We tested thresholds from 0.1 to 0.5 (step 0.1),",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Annotation Methodology",
+    "url": "https://github.com/Murrough-Foley/web-content-extraction-benchmark",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "how to configure the dataset viewer",
+    "url": "https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Annotation Methodology",
+    "url": "https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/gtminami/n/nac7ff90798ca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zenkok/n/ndd9acda2e800",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/minamominamoto/n/n6dafd444d520",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/loyal_gnu2078/n/n899b7d4d9052",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/simizu_note_ai/n/n98d84eba96d9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/trimoneyx/n/n13a25a7d7895",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_komon/n/ndd2a1fdc500b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kira_ai_lab/n/n0c9d01a4cb9e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.help-note.com/hc/ja/articles/40993401998489-AI%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC-%CE%B2-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/asahi_ictrad/n/n306b1aa244c0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/work-efficiency/basic/19685/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.watch.impress.co.jp/docs/news/1480286.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tech.smarthr.jp/entry/2025/08/05/192115",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mieruka-engine.com/media/textmining",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rabiloo.co.jp/blog/model-evaluation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenn.dev/pharmax/articles/2d07bf0498e212",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jreadability.net/jwriter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crystal-method.com/blog/textmining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mieruka-engine.com/media/txm-case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pickupon.io/posts/text-analysis",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://it-trend.jp/textmining/article/124-0019",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-research.ai/research-column/text-mining",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttcoms.com/service/research/dataanalysis/textmining/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://data.wingarc.com/text-mining-17884",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafilatura.readthedocs.io/en/latest/evaluation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osti.gov/servlets/purl/2429881",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://github.com/Murrough-Foley/web-content-extraction-benchmark",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/posts/niti-technology-株式会社-a1400a363_webスクレイピング本文抽出ツールtrafilaturaの特徴と使い方niti-activity-7435557619198525441-c8km",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方） site:note.com",
+   "results": [
+    "https://note.com/gtminami/n/nac7ff90798ca",
+    "https://note.com/zenkok/n/ndd9acda2e800",
+    "https://note.com/minamominamoto/n/n6dafd444d520",
+    "https://note.com/loyal_gnu2078/n/n899b7d4d9052",
+    "https://note.com/simizu_note_ai/n/n98d84eba96d9",
+    "https://note.com/trimoneyx/n/n13a25a7d7895",
+    "https://note.com/it_shikaku_lab/n/n2e340abb783a",
+    "https://note.com/zenkok/n/n866418d067c8",
+    "https://note.com/vast_cosmos500/n/nfc3ee4cea095",
+    "https://note.com/unikoukokun/n/n7e0a8e5fc4f3"
+   ]
+  },
+  {
+   "query": "ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方） note",
+   "results": [
+    "https://note.com/ai_komon/n/ndd2a1fdc500b",
+    "https://note.com/kira_ai_lab/n/n0c9d01a4cb9e",
+    "https://www.help-note.com/hc/ja/articles/40993401998489-AI%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC-%CE%B2-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "https://note.com/asahi_ictrad/n/n306b1aa244c0",
+    "https://biz.moneyforward.com/work-efficiency/basic/19685/",
+    "https://www.watch.impress.co.jp/docs/news/1480286.html",
+    "https://note.com/happy_impala205/n/n17c03af02217",
+    "https://zenn.dev/pharmax/articles/9b5fba24c252f3",
+    "https://evernote.com/ja-jp/learn/how-to-write-a-literature-review-from-your-notes",
+    "https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57"
+   ]
+  },
+  {
+   "query": "ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方） やり方",
+   "results": [
+    "https://tech.smarthr.jp/entry/2025/08/05/192115",
+    "https://www.mieruka-engine.com/media/textmining",
+    "https://rabiloo.co.jp/blog/model-evaluation",
+    "https://zenn.dev/pharmax/articles/2d07bf0498e212",
+    "https://jreadability.net/jwriter/",
+    "https://note.com/asahi_ictrad/n/n306b1aa244c0",
+    "https://crystal-method.com/blog/textmining/",
+    "https://www.acceluniverse.com/blog/developers/2020/02/post-45.html",
+    "https://textmining.userlocal.jp/questions",
+    "https://www.jstage.jst.go.jp/article/pjsai/JSAI2011/0/JSAI2011_3F35/_pdf/-char/ja"
+   ]
+  },
+  {
+   "query": "ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方） 事例",
+   "results": [
+    "https://www.mieruka-engine.com/media/txm-case",
+    "https://pickupon.io/posts/text-analysis",
+    "https://it-trend.jp/textmining/article/124-0019",
+    "https://gmo-research.ai/research-column/text-mining",
+    "https://www.nttcoms.com/service/research/dataanalysis/textmining/",
+    "https://data.wingarc.com/text-mining-17884",
+    "https://data-viz-lab.com/textanalytics",
+    "https://biz.loyalty.co.jp/column/096/",
+    "https://crystal-method.com/blog/textmining/",
+    "https://www.jstage.jst.go.jp/article/pjsai/JSAI2011/0/JSAI2011_3F35/_pdf/-char/ja"
+   ]
+  },
+  {
+   "query": "web main text extraction boilerplate removal evaluation precision recall",
+   "results": [
+    "https://trafilatura.readthedocs.io/en/latest/evaluation.html",
+    "https://www.osti.gov/servlets/purl/2429881",
+    "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "https://github.com/Murrough-Foley/web-content-extraction-benchmark",
+    "https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark",
+    "https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf",
+    "https://dl.acm.org/doi/10.1145/3539618.3591920",
+    "https://www.llamaindex.ai/glossary/f1-score-for-document-extraction",
+    "https://stackoverflow.com/questions/1783653/computing-precision-and-recall-in-named-entity-recognition"
+   ]
+  },
+  {
+   "query": "site:note.com ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）",
+   "results": [
+    "https://note.com/minamominamoto/n/n6dafd444d520",
+    "https://note.com/trimoneyx/n/n13a25a7d7895",
+    "https://note.com/it_shikaku_lab/n/n2e340abb783a",
+    "https://note.com/unikoukokun/n/n7e0a8e5fc4f3",
+    "https://note.com/nonb0716/n/n368fd19cf874",
+    "https://note.com/calm_mimosa478/n/n1bc9372972f8",
+    "https://note.com/misaki_ai_work/n/ncf3719c7972c",
+    "https://note.com/ryuyan/n/nab3b305ca57b",
+    "https://note.com/55clotho/n/n816d179b53ec",
+    "https://note.com/todoonada/n/ne5b21886eec0"
+   ]
+  },
+  {
+   "query": "site:x.com ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）",
+   "results": [
+    "https://x.com/MakeAI_CEO/article/2084991158426755538",
+    "https://x.com/curryNOprince/status/2112421491300340214",
+    "https://x.com/fujikawa/status/2115585448978563288",
+    "https://x.com/y__fixer/article/2097525977865973954?lang=ar",
+    "https://x.com/MakeAI_CEO/article/2077774187863978101",
+    "https://x.com/noel_ai_lab/status/2072554321926148201",
+    "https://x.com/KagawaTomo/status/2113066175089508431",
+    "https://x.com/KagawaTomo/status/2115363932168998957",
+    "https://x.com/MGT_maccha/article/2073014053153480914",
+    "https://x.com/sora_biz/status/2058901946845815092"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）",
+   "results": [
+    "https://www.linkedin.com/post-inspector/",
+    "https://jp.linkedin.com/jobs/view/ウェブ検索結果品質評価者-at-welocalize-3654767035",
+    "https://jp.linkedin.com/posts/niti-technology-株式会社-a1400a363_webスクレイピング本文抽出ツールtrafilaturaの特徴と使い方niti-activity-7435557619198525441-c8km",
+    "https://jp.linkedin.com/pulse/understanding-osint-2025-tools-techniques-every-analyst-okorobie-1xkff?tl=ja",
+    "https://www.linkedin.com/jobs/view/search-quality-rater-japanese-ウェブ検索結果品質評価者【在宅-フリーランス-英語を活かせる】-日本在住の方-at-welocalize-3492472557",
+    "https://jp.linkedin.com/pulse/googleのリンク評価を読み解くリーズナブルサーファーモデルから考えるseo設計-剛-柏崎-nddqc",
+    "https://jp.linkedin.com/jobs/view/scout-search-quality-rater-japanese-ウェブ検索結果品質評価者【在宅-フリーランス-英語を活かせる】-日本在住の方-at-welocalize-3595137899"
+   ]
+  },
+  {
+   "query": "site:facebook.com ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）",
+   "results": [
+    "https://www.facebook.com/ebisol/videos/%E4%BA%88%E7%B4%84%E3%82%92%E5%A2%97%E3%82%84%E3%81%97%E3%81%9F%E3%81%84%E3%81%A8%E3%81%8A%E8%80%83%E3%81%88%E3%81%AE%E9%A3%B2%E9%A3%9F%E5%BA%97%E3%81%AE%E6%96%B9%E5%BF%85%E8%A6%8B%E3%81%84%E3%81%84%E3%81%AD%E3%82%92%E4%BA%88%E7%B4%84%E3%81%AB%E5%A4%89%E3%81%88%E3%82%8Binstagram%E3%81%8B%E3%82%89%E3%81%AE%E4%BA%88%E7%B4%84%E3%81%A9%E3%81%86%E3%82%84%E3%81%A3%E3%81%A6%E5%A2%97%E3%82%84%E3%81%99%E5%85%A8%E5%9B%BD15000%E5%BA%97%E8%88%97%E3%81%8C%E5%B0%8E%E5%85%A5%E4%B8%AD%E9%A3%B2%E9%A3%9F%E5%BA%97%E5%90%91%E3%81%91%E4%BA%88%E7%B4%84%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0eb/1875065699746303/",
+    "https://www.facebook.com/shukan.bunshun.official/",
+    "https://www.facebook.com/waca.jp/photos/ウェブ解析士認定試験公式テキスト2026第17版pdf版発売しました生成ai関連など最新の状況に対応するため内容を大幅に改訂しています-主な変更点生成ai関連を/1387957500007623/",
+    "https://www.facebook.com/ajinomoto.co.jp/posts/失敗も評価する社内表彰味の素グループの味の素agf株式会社にagfチャレンジアワードという社内表彰制度について聞いてきました️-社内表彰と聞くと成果や数字での評/851550407526877/",
+    "https://www.facebook.com/Deloitte.Japan/posts/ウェブ更新情報ストレス関連情報マクロ経済リスク情報提供サービスフォワードルッキングな視点に基づく経営管理体制構築のために企業の経営者や財務企画部門が必要とする漠/1500685406681198/",
+    "https://www.facebook.com/kyoikugijutsu/posts/通知表特集評価のポイントや所見文の書き方多様な状況下にある先生方に少しでも合う方法を選んでいただけるよういろいろな視点から通知表に関する記事を提案していますht/714431145883020/",
+    "https://www.facebook.com/NRICPT/posts/保存科学第59号令和元年度版2020年3月発行がウェブ公開されました-報文報告資料あわせて11件が掲載されています報文湿度制御温風処理における殺虫効果判定法の開/2889571664474822/",
+    "https://www.facebook.com/digikar.jp/posts/digikarデジカルは現場の声を反映して成長し続けますリリースノート2016315ファイルタブの文書雛形ボタンから下記の文書のテンプレートをダウンロードできる/521888651317115/"
+   ]
+  },
+  {
+   "query": "ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方） note 社長",
+   "results": [
+    "https://note.com/ai_komon/n/ndd2a1fdc500b",
+    "https://note.com/kira_ai_lab/n/n0c9d01a4cb9e",
+    "https://note.com/itso_/n/n491386452fa7",
+    "https://note.com/bokannya/n/n9fcff0c6facb",
+    "https://www.watch.impress.co.jp/docs/news/1480286.html",
+    "https://note.com/asahi_ictrad/n/n306b1aa244c0",
+    "https://zenn.dev/ktymmt/articles/aa5e1e8cc4e68c",
+    "https://textmining.userlocal.jp/questions",
+    "https://qiita.com/ntaka329/items/ed0be05099ae142d9e70",
+    "https://axgo.jp/recipes/089d43fb-3ca3-4257-8eb6-56cf8bafa4b9"
+   ]
+  },
+  {
+   "query": "ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方） X 投稿",
+   "results": [
+    "https://x.com/read_kei/article/2086758239665054031",
+    "https://www.cl.ecei.tohoku.ac.jp/resources/twitter_target_review/",
+    "https://note.com/ogataka/n/n51f144be23b1",
+    "https://camtsuku.com/guide/3811",
+    "https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews?hl=ja",
+    "https://qiita.com/ntaka329/items/ed0be05099ae142d9e70",
+    "https://uzurea.net/how-to-exclude-and-search-for-impression-spam-in-x/",
+    "https://textmining.userlocal.jp/parser",
+    "https://readability-checker.khufrudamonotes.com/",
+    "https://www.jstage.jst.go.jp/article/pjsai/JSAI2011/0/JSAI2011_3F35/_pdf/-char/ja"
+   ]
+  },
+  {
+   "query": "web main text extraction boilerplate removal evaluation precision recall site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/building-high-accuracy-rag-chatbot-5000-complex-pdfs-text-akash-singh-e08ic",
+    "https://www.linkedin.com/posts/martijn-schouten_day-19-document-parsing-and-ingestion-activity-7462041839056011265-2jzd",
+    "https://www.linkedin.com/pulse/document-parsing-rag-comprehensive-guide-understand-skugan-venkatesan-nt0bc",
+    "https://www.linkedin.com/posts/andrey-kutuzov-b53a1318b_hplt-datasets-v2-activity-7247252150282555394-nBwt",
+    "https://www.linkedin.com/pulse/from-ots-production-ready-data-pipeline-frontier-model-training-bojkf",
+    "https://www.linkedin.com/posts/sidmanchkanti_pulse-ultra-2-is-live-our-highest-accuracy-activity-7452395479142785024-hxq2",
+    "https://www.linkedin.com/posts/simon-lechevalier-5ba743198_feeding-raw-html-or-full-dom-trees-to-an-activity-7510941586269261824-jGwr",
+    "https://www.linkedin.com/in/vietrov",
+    "https://www.linkedin.com/posts/prvshrvo_the-first-rag-system-that-never-reads-text-activity-7473303599997984768-7Tvq",
+    "https://www.linkedin.com/pulse/how-llm-tools-actually-read-your-website-joe-robson-v4gge"
+   ]
+  }
+ ],
+ "missing": {
+  "突き合わせ・推定": "記載なし（読んだ31頁・検索12回）"
+ },
+ "new_this_run": {
+  "一次情報の探し方": [
+   {
+    "quote": "https://readability.readthedocs.io/_/downloads/en/latest/pdf/",
+    "url": "https://www.osti.gov/servlets/purl/2429881",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "using a Neural Sequence Labeling Model. https://arxiv.org/pdf/2004.14294",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方｜N... 【Webスクレイピングを効率化するTrafilatura】 HTMLの「ノイズ」を自動で除去し、記事の本文だけを高精度に抽出するPythonツール「Trafilatura」をご存知ですか？ 主な特徴： ・ナビゲーションバーや広告などを自動削除 ・タイトル、著者、日付などのメタデータも同時取得 ・複数の出力形式（JSON ...",
+    "url": "https://jp.linkedin.com/posts/niti-technology-株式会社-a1400a363_webスクレイピング本文抽出ツールtrafilaturaの特徴と使い方niti-activity-7435557619198525441-c8km",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "[3] under multilingual conditions. We first identified biases in exist-",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "configured not to extract comments, which can introduce a bias in",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "allow you to control which elements of the webpage are extracted. For example, you can select for",
+    "url": "https://www.osti.gov/servlets/purl/2429881",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "for Summarization (with Examples),\" Dev.to, 2023. Available: https://dev.to/aws-",
+    "url": "https://www.osti.gov/servlets/purl/2429881",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "summarization-with-examples-jjg.",
+    "url": "https://www.osti.gov/servlets/purl/2429881",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "depend heavily on human expertise to craft these rules. Examples",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "tag patterns, or word frequencies. For example, Boilerpipe [4]",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "form part of the main content. For example, Readability employs",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "[9] Karl Pearson. 1895. VII. Note on regression and inheritance in the case of two",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://example.com/page",
+    "url": "https://github.com/Murrough-Foley/web-content-extraction-benchmark",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "for key, example in ex_iterable:",
+    "url": "https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "\"https://example.com/page\"",
+    "url": "https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Online order: https://classic.ntis.gov/help/order-methods/",
+    "url": "https://www.osti.gov/servlets/purl/2429881",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Main content extraction is a method to isolate the relevant content from a webpage and remove",
+    "url": "https://www.osti.gov/servlets/purl/2429881",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "several methods that have been developed to do this, including several Python and Java libraries.",
+    "url": "https://www.osti.gov/servlets/purl/2429881",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Keywords: Main Content Extracti on, Evaluation Methods, Boilerplate Detection, Right to Left Languages.",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Information retrieval (IR) methods are used to store",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(MCE) methods help control the amount of",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "and then explain the methods in (3). In (4), we will",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(Chakrabarti et al., 2007) proposed a method to detect",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "page-level templates on web pages. The method",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "et al., 2007) proposed a method to enhance search",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3 METHODS",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "various methods to extract MC, including:",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4.2 Evaluation Methodology",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "framework that covers accuracy and performance to",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "smoothing method. In International Conference on",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "and robust method for web page template detection and",
+    "url": "https://www.scitepress.org/Papers/2023/121620/121620.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "approaches. Heuristic methods, used in tools like Readability",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "learning methods, such as those in Boilerpipe [4] and BoilerNet",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Bevendorff et al. show that while no single method outperforms",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "a given threshold. We tested thresholds from 0.1 to 0.5 (step 0.1),",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Annotation Methodology",
+    "url": "https://github.com/Murrough-Foley/web-content-extraction-benchmark",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "how to configure the dataset viewer",
+    "url": "https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Annotation Methodology",
+    "url": "https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-05T22:11:28.747705+00:00"
+}

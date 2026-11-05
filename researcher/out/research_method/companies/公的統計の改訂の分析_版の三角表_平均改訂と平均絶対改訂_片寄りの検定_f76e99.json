@@ -1,0 +1,789 @@
+{
+ "name": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）",
+ "en": "official statistics revision analysis vintages real-time data revision triangle",
+ "aliases": [
+  "統計 改訂 分析 速報 確報 差",
+  "revision triangle real-time database",
+  "mean absolute revision bias test"
+ ],
+ "context": "統計の版",
+ "kind": "market",
+ "researched_at": "2026-11-05T22:24:39.527283+00:00",
+ "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "Still others come from methodological changes or benchmark updates.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In this euro area example, the efficient-release step selects",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "A compact example with GDP vintages",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The package ships with a GDP example dataset in long vintage format.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For many users, revision summaries will be the main use case.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "example following the Kishor-Koenig workflow from the",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In this euro area example, the efficient-release step selects",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Diagnostic plot from the Kishor-Koenig nowcast example.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "If you find gaps in the workflow or have a use case to share, open an issue or contribute an example.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A digest of R package and software review news, use cases, blog posts, and events, curated monthly. Subscribe to get it in your inbox, or check the",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Previously Published Estimates (Bureau of Economic Analysis",
+    "url": "https://svannorden.org/original-vintage-data-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Gross domestic product (GDP), inflation, employment, and other official statistics arrive as early estimates, then get revised as new source data arrive, seasonal adjustment is updated, or benchmarking changes are applied.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Estimate Std. Error t value Pr(>|t|)",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "That matters if you need to make decisions on preliminary data but also want a structured way to estimate how those figures are likely to change later.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Both approaches cast the revision problem into state-space form, which makes it possible to estimate the dynamics of news and noise in successive data releases.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", then estimate the revision system on the corresponding panel of releases.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Parameter Estimate Std.Error",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Those revisions matter because they can change the narrative around turning points, policy mistakes, and forecast performance.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "summarize bias, dispersion, and serial dependence in revisions;",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "id release `Bias (mean)` `Bias (robust p-value)` `Noise/Signal`",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.52 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.425 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.507 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.851 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.326 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.181 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.202 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The revision summary reports quantities that applied work often needs but usually rebuilds ad hoc: mean bias, quantiles, volatility, noise-to-signal ratios, and hypothesis tests for bias, serial correlation, and news-versus-noise interpretations.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/jun8888888/n/n671b79694bb7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ocaml/n/n7d712123cbea",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ezuremanagement/n/ne844b7c1197b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fueki_pug/n/n1a4676abf18b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/e_dao/n/n4a89d35ed368",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://katosei.jsbba.or.jp/view_html.php?aid=1183",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toketarou.com/cheatsheet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sas.com/content/dam/SAS/documents/event-collateral/2018/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2018/sas-basic-statistical-seminars-for-beginning-sas-users-2018-august.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.statweb.jp/method",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsac.or.jp/bunseki/pdf/bunseki2010/201003nyuumon.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toukei-kentei.jp/grade/grade3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bellcurve.jp/statistics/course/9317.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei-kentei.jp/news/post-16945",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bellcurve.jp/statistics/course/10004.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stern-bow.hatenablog.com/entry/2025/12/01/000000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fmu.ac.jp/gendeqsp/data/file/manual_statistics_04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/nihon/index2-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crepe.e.u-tokyo.ac.jp/results/2025/CREPEDP173.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://svannorden.org/original-vintage-data-sources/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0304407610002526",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://hdsr.mitpress.mit.edu/pub/w8l955ol",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://facultystaff.richmond.edu/~dcrousho/docs/Croushore%20Oxford%20Handbook%20paper.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） site:note.com",
+   "results": [
+    "https://note.com/jun8888888/n/n671b79694bb7",
+    "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "https://note.com/ocaml/n/n7d712123cbea",
+    "https://note.com/ezuremanagement/n/ne844b7c1197b",
+    "https://note.com/dakudhigura/n/nba796ec546bf",
+    "https://note.com/dakudhigura/n/n83c3936035fc",
+    "https://note.com/dakudhigura/n/n1cf48e633662",
+    "https://note.com/dakudhigura/n/n9afc1c8b6a7d"
+   ]
+  },
+  {
+   "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） note",
+   "results": [
+    "https://note.com/fueki_pug/n/n1a4676abf18b",
+    "https://note.com/e_dao/n/n4a89d35ed368",
+    "https://katosei.jsbba.or.jp/view_html.php?aid=1183",
+    "https://toketarou.com/cheatsheet/",
+    "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
+    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
+    "https://stern-bow.hatenablog.com/entry/2025/12/01/000000",
+    "https://note.com/bluestatistics/n/n63deb183890b",
+    "https://www.tokyo-tosho.co.jp/02332/",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf"
+   ]
+  },
+  {
+   "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） やり方",
+   "results": [
+    "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
+    "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
+    "https://www.sas.com/content/dam/SAS/documents/event-collateral/2018/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2018/sas-basic-statistical-seminars-for-beginning-sas-users-2018-august.pdf",
+    "https://www.statweb.jp/method",
+    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
+    "https://www.jsac.or.jp/bunseki/pdf/bunseki2010/201003nyuumon.pdf",
+    "https://toketarou.com/cheatsheet/",
+    "https://www.toukei-kentei.jp/grade/grade3/",
+    "https://bellcurve.jp/statistics/course/9317.html",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf"
+   ]
+  },
+  {
+   "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） 事例",
+   "results": [
+    "https://www.toukei-kentei.jp/news/post-16945",
+    "https://katosei.jsbba.or.jp/view_html.php?aid=1183",
+    "https://www.statweb.jp/method",
+    "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
+    "https://bellcurve.jp/statistics/course/10004.html",
+    "https://stern-bow.hatenablog.com/entry/2025/12/01/000000",
+    "https://toketarou.com/cheatsheet/",
+    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
+    "https://www.fmu.ac.jp/gendeqsp/data/file/manual_statistics_04.pdf",
+    "https://www.stat.go.jp/data/nihon/index2-2.html"
+   ]
+  },
+  {
+   "query": "official statistics revision analysis vintages real-time data revision triangle",
+   "results": [
+    "https://svannorden.org/original-vintage-data-sources/",
+    "https://ropensci.org/blog/2026/04/13/reviser/",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0304407610002526",
+    "https://hdsr.mitpress.mit.edu/pub/w8l955ol",
+    "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "https://facultystaff.richmond.edu/~dcrousho/docs/Croushore%20Oxford%20Handbook%20paper.pdf",
+    "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "https://www.bruegel.org/blog-post/blogs-review-gdp-revisions-news-and-noise",
+    "https://www.bea.gov/news/gdp-release-additional-information",
+    "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html"
+   ]
+  },
+  {
+   "query": "site:note.com 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）",
+   "results": [
+    "https://note.com/jun8888888/n/n671b79694bb7",
+    "https://note.com/dr_sakura/n/n845fe91423c7",
+    "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "https://note.com/ocaml/n/n7d712123cbea",
+    "https://note.com/ezuremanagement/n/ne844b7c1197b",
+    "https://note.com/dakudhigura/n/n83c3936035fc",
+    "https://note.com/dakudhigura/n/n1cf48e633662",
+    "https://note.com/kamokita/n/n99626649661e"
+   ]
+  },
+  {
+   "query": "site:x.com 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2106168043399532897",
+    "https://jf.x.com/images/media-preview/2114698995163603299",
+    "https://x.com/koumuinright2/status/2057692623268462895",
+    "https://x.com/RvFDRutpR26jgO3/status/2083179279106621564",
+    "https://x.com/Logics_of_Blue/status/2043199544788504990",
+    "https://x.com/nkinvestigation/status/2106889779531108419",
+    "https://x.com/nananairu7/status/2074096861515063569"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）",
+   "results": [
+    "https://jp.linkedin.com/pulse/evolution-thematic-analysis-methodologies-comparative-dr-muhammad-qzwxe?tl=ja",
+    "https://www.linkedin.com/posts/gagan-anand-328b8ba2_salesforce-salesforcedevelopers-salesforcewinter27-activity-7498169018109890560-V2uG",
+    "https://jp.linkedin.com/posts/shinobu-matsuoka_2027年3月-また今回の新旧対比表に記載した改訂箇所等を組み込-activity-7477285422302191616-DBA_",
+    "https://www.linkedin.com/jobs/archives-technician-jobs",
+    "https://cn.linkedin.com/pulse/exploring-delta-lakes-tables-unifying-data-management-hemant-kumar?tl=zh",
+    "https://jp.linkedin.com/pulse/spss-vs-r-choosing-right-tool-statistical-analysis-muhammad-faheem-mqhkf?tl=ja",
+    "https://jp.linkedin.com/posts/株式会社日経hr（nikkei-human-resources-inc-_大卒年収調査2026年度版-業界別編平均年収約1400万円で2年連続トップとなった-activity-7480093259050962944-DsJO"
+   ]
+  },
+  {
+   "query": "site:facebook.com 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）",
+   "results": []
+  },
+  {
+   "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） note 社長",
+   "results": [
+    "https://note.com/fueki_pug/n/n1a4676abf18b",
+    "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
+    "https://note.com/asobeyokiken_/n/n1205d172b215",
+    "https://www.youtube.com/watch?v=0K9jMwCcQJ0",
+    "https://note.com/paguinu/n/n5e638afbfc77",
+    "https://www.sas.com/content/dam/SAS/documents/event-collateral/2018/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2018/sas-basic-statistical-seminars-for-beginning-sas-users-2018-august.pdf",
+    "https://toketarou.com/cheatsheet/",
+    "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
+    "https://stern-bow.hatenablog.com/entry/2025/12/01/000000",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf"
+   ]
+  },
+  {
+   "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） X 投稿",
+   "results": [
+    "https://www.toukei-kentei.jp/news/post-16945",
+    "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
+    "https://x.com/toukei_kentei",
+    "https://www.youtube.com/watch?v=0K9jMwCcQJ0",
+    "https://www.tokyo-tosho.co.jp/02332/",
+    "https://stern-bow.hatenablog.com/entry/2025/12/01/000000",
+    "https://qiita.com/MariMurotani/items/1a216b6e48fc35d8ac47",
+    "https://www.sas.com/content/dam/SAS/documents/event-collateral/2018/ja/customer-care-events/basic-statistical-seminars-for-beginning-sas-users-2018/sas-basic-statistical-seminars-for-beginning-sas-users-2018-september.pdf",
+    "https://toketarou.com/cheatsheet/",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf"
+   ]
+  },
+  {
+   "query": "official statistics revision analysis vintages real-time data revision triangle site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/riccardo-trezzi-phd-780799a5_once-again-istat-has-revised-gdp-upward-activity-7508809509310586880-I0gj",
+    "https://www.linkedin.com/posts/domenico-giannone-55755b45_macroeconomic-forecasting-and-machine-learning-activity-7383993725779271680-ZTe2",
+    "https://de.linkedin.com/in/daniel-ollech/en",
+    "https://ca.linkedin.com/in/josef-perktold-josef-pktd-9a23b316",
+    "https://www.linkedin.com/in/domenico-giannone-55755b45",
+    "https://sg.linkedin.com/jobs/view/senior-data-engineer-econtech-contract-at-monetary-authority-of-singapore-mas-4468179373",
+    "https://ch.linkedin.com/in/vazquezvazquezmiguel",
+    "https://www.linkedin.com/in/zhenyu-jimmy-wang",
+    "https://www.linkedin.com/in/jpazvd",
+    "https://www.linkedin.com/posts/nickmelton_earlier-this-week-a-major-commodity-trader-activity-7514376416310775812-qmtq"
+   ]
+  }
+ ],
+ "missing": {
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "Still others come from methodological changes or benchmark updates.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In this euro area example, the efficient-release step selects",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "A compact example with GDP vintages",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The package ships with a GDP example dataset in long vintage format.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For many users, revision summaries will be the main use case.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "example following the Kishor-Koenig workflow from the",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In this euro area example, the efficient-release step selects",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Diagnostic plot from the Kishor-Koenig nowcast example.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "If you find gaps in the workflow or have a use case to share, open an issue or contribute an example.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A digest of R package and software review news, use cases, blog posts, and events, curated monthly. Subscribe to get it in your inbox, or check the",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Previously Published Estimates (Bureau of Economic Analysis",
+    "url": "https://svannorden.org/original-vintage-data-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Gross domestic product (GDP), inflation, employment, and other official statistics arrive as early estimates, then get revised as new source data arrive, seasonal adjustment is updated, or benchmarking changes are applied.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Estimate Std. Error t value Pr(>|t|)",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "That matters if you need to make decisions on preliminary data but also want a structured way to estimate how those figures are likely to change later.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Both approaches cast the revision problem into state-space form, which makes it possible to estimate the dynamics of news and noise in successive data releases.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", then estimate the revision system on the corresponding panel of releases.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Parameter Estimate Std.Error",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Those revisions matter because they can change the narrative around turning points, policy mistakes, and forecast performance.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "summarize bias, dispersion, and serial dependence in revisions;",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "id release `Bias (mean)` `Bias (robust p-value)` `Noise/Signal`",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.52 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.425 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.507 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.851 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.326 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.181 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• No significant bias detected (p = 0.202 )",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The revision summary reports quantities that applied work often needs but usually rebuilds ad hoc: mean bias, quantiles, volatility, noise-to-signal ratios, and hypothesis tests for bias, serial correlation, and news-versus-noise interpretations.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-05T22:24:39.527283+00:00"
+}
