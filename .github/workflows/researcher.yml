@@ -114,6 +114,7 @@ jobs:
           for d in dl/research-*/*/; do t=$(basename "$d"); mkdir -p "researcher/out/$t/companies"; cp "$d"companies/*.json "researcher/out/$t/companies/" 2>/dev/null || true; done
           for t in researcher/out/*/; do [ "$(basename "$t")" = brief ] || python -m researcher.merge "$(basename "$t")"; done
           python -m researcher.scan || true
+          python -m researcher.health || true
           python -m researcher.brief
           # 走査の計算（AIが書いた計算プログラム）。トークンを使わずに毎回回す
           mkdir -p researcher/calc
