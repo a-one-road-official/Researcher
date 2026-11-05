@@ -447,6 +447,9 @@ NATSTAT_HOST = re.compile(r"(\.go\.jp$|e-stat\.go\.jp|\.lg\.jp$|^www\.pref\.|^ww
 def take_kind(url):
     return "表" if TABLEPAGE.search(url or "") else "要約" if SUMMARYPAGE.search(url or "") else ""
 
+EMPMIX = re.compile(r"(パート|臨時|派遣|非正規|短時間労働|アルバイト|常用雇用者|常用労働者)")
+MERGER = re.compile(r"(合併|経営統合|事業譲渡|買収|M&A|子会社化|吸収)", re.I)
+
 def conservative(vals):
     vals = sorted(vals)
     return statistics.quantiles(vals, n=4)[0] if len(vals) >= 4 else vals[0]
@@ -472,7 +475,11 @@ def scan(topic):
     dr = DROPS.get(topic, {})
     md += ["- 除外の点検（規則ごとに外した数字の件数・4-39）：" + ("、".join(f"{k} {v}件" for k, v in sorted(dr.items(), key=lambda kv: -kv[1])) or "（なし）")]
     nshort = sum(1 for r in rows if len(re.sub(r"\s", "", r["引用"])) < SHORTQ)
-    md += [f"- 短すぎる引用（{SHORTQ}字未満・メニューや表の切れ端の疑い・4-39）から取った数字：{nshort}件。結論に使う前に本文で確かめる", ""]
+    md += [f"- 短すぎる引用（{SHORTQ}字未満・メニューや表の切れ端の疑い・4-39）から取った数字：{nshort}件。結論に使う前に本文で確かめる"]
+    # 2026-11-06 4-42：照合の前の棚卸し（GENIEE の名寄せロジック：キーごとの欠損率を先に測り、欠けが多いキーは補助のキーで補う）。
+    # 突き合わせの鍵（年・規模・文脈・取得日）ごとに欠けた数字の割合を出す。欠けの多い鍵で突き合わせた向き・裏付けは弱い
+    keys = [("年", lambda r: not r["年"]), ("規模区分", lambda r: not r.get("規模")), ("文脈", lambda r: r["文脈"] == "不明"), ("取得日", lambda r: not r["取得日"])]
+    md += ["- 鍵の欠け率（照合の前の棚卸し・4-42）：" + "、".join(f"{k} {sum(1 for r in rows if f(r))}/{len(rows)}件（{sum(1 for r in rows if f(r)) * 100 / len(rows):.0f}%）" for k, f in keys), ""]
     by_item = {}
     for r in rows: by_item.setdefault(r["品目"], []).append(r)
     thin = []  # 4-23：主張×独立の出どころの表（theosintvault の validation matrix）で、出どころ1か所の欄を最後に並べる
@@ -480,12 +487,18 @@ def scan(topic):
         md.append(f"## {item}")
         # 2026-11-06 4-41 走査の失敗から：品目「工業統計 全国 産業細分類×従業者規模…」の数字4件が全部 www.jama.or.jp（日本自動車工業会）で、
         # .or.jp なので一次に数えられ【一次で確認】B3 と出た。品目が国の統計を名指しするのに、所管（国の .go.jp・e-Stat）以外から来た数字は、その統計の値ではない
-        if NATSTAT_ITEM.search(item):
+        # 2026-11-06 4-42：品目の主語が業界団体（「日本金型工業会 …（工業統計の金型製造業と並べる）」）なら、団体のサイトの数字は品目どおりの出どころ。括弧の前の主語で判定する
+        if NATSTAT_ITEM.search(item.split("（")[0]) and not re.search(r"(工業会|協会|連合会|組合)", item.split("（")[0]):
             off = {}
             for r in rs:
                 h = urlparse(r["URL"]).netloc if r["URL"] else ""
                 if h and not NATSTAT_HOST.search(h): off[h] = off.get(h, 0) + 1
             if off: md.append(f"- ⚠ 品目が名指しする国の統計と出どころが違う（4-41）：{sum(off.values())}件／{len(rs)}件が " + "・".join(f"{h} {n}件" for h, n in sorted(off.items(), key=lambda kv: -kv[1])[:4]) + "。その統計の値として使わず、所管（経産省・総務省・e-Stat）の表から取り直す")
+        # 2026-11-06 4-42（日銀 WP24-J-17 の生産性の分解：非正規雇用の広がりで労働投入の測り方が動き、合併で企業間の再配分の項が動く）。
+        # 引用に雇用形態・合併の語があれば、1人あたり・社数の向きを「内側の改善」と読む前に分母と構成を確かめる印を出す
+        nemp = sum(1 for r in rs if EMPMIX.search(r["引用"])); nmer = sum(1 for r in rs if MERGER.search(r["引用"]))
+        if nemp: md.append(f"- ⚠ 分母の雇用形態（パート・臨時・派遣・非正規）の語が{nemp}件：1人あたりの分母が常用だけか全員かを確かめ、混ぜて向きを出さない（4-42）")
+        if nmer: md.append(f"- ⚠ 合併・統合・事業譲渡の語が{nmer}件：1社・1事業所あたりの向きは再配分・構成の変化を含む。内側の改善と書かない（4-42）")
         groups = {}
         for r in rs: groups.setdefault((r["区分"], r["文脈"], r["単位"]), []).append(r)
         for (cat, ctx, u), g in sorted(groups.items(), key=lambda kv: -len(kv[1])):
@@ -530,7 +543,9 @@ def scan(topic):
             if prim and tk.get("要約") and not tk.get("表"): md.append(f"  - ⚠ 一次{len(prim)}件のうち{tk['要約']}件が統計の概要・報道発表のページから、表から0件：同じ数字を統計の表（xlsx・csv・e-Stat の表）で取り直す（4-41）")
             if pk:
                 py, pv, pn, pd, preg = pk
-                picks[f"{item}｜{cat}［{ctx}］（{u}）"] = {"年": py, "値": pv, "件": pn, "確度": gr}
+                picks[f"{item}｜{cat}［{ctx}］（{u}）"] = {"年": py, "値": pv, "件": pn, "確度": gr,
+                    "版": "・".join(sorted({r.get("版") for r in g if r.get("版")})), "出典数": len(pd),
+                    "定義変更": bool(any(DEFCHANGE.search(r["引用"]) for r in g))}
                 md.append(f"  - 採る値（規則：予測除外→一次優先→全国優先→確報優先→最新年→中央値）：{pv:g}{u}（{py or '年不明'}年・{pn}件・出典{len(pd)}か所）")
                 if len(preg) >= 2: md.append(f"  - ⚠ 採る値に地域が混ざる（{'・'.join(sorted(preg)[:5])}）：この中央値は使わず、地域ごとに読む（4-30）")
                 # 4-21：最新の年が3年以上前なら古い（Inven：公表データは古いことがある）。今の判断に使う前に新しい版を探す
@@ -722,7 +737,12 @@ def scan(topic):
             if o is None: ch.append(f"- 新しく出た：{k} {v['値']:g}（{v['年'] or '年不明'}年）{v['確度']}"); continue
             moved = o.get("値") and abs(v["値"] - o["値"]) > abs(o["値"]) * 0.2
             if moved or o.get("確度") != v["確度"] or o.get("年") != v["年"]:
-                ch.append(f"- 変わった：{k} {o.get('値', 0):g}（{o.get('年') or '年不明'}年）{o.get('確度', '')} → {v['値']:g}（{v['年'] or '年不明'}年）{v['確度']}")
+                # 2026-11-06 4-42（Bundesbank DP 32/2004・FRB FEDS 2020-102：改訂は「定義の変更」と「新しい情報」で出どころが違い、
+                # その時点の推計と事後の推計は大きく違いうる）。変わった欄に、変わった理由の型を機械で付ける
+                why = ("定義・版の変更" if v.get("定義変更") or (v.get("版") and v.get("版") != o.get("版")) else
+                       "年が新しくなった" if v["年"] != o.get("年") else
+                       "出どころの数が変わった" if o.get("出典数") is not None and v.get("出典数") != o.get("出典数") else "同じ年・同じ出どころ数で値が動いた（取り違え・混入を疑う）")
+                ch.append(f"- 変わった：{k} {o.get('値', 0):g}（{o.get('年') or '年不明'}年）{o.get('確度', '')} → {v['値']:g}（{v['年'] or '年不明'}年）{v['確度']}［理由の型：{why}］")
         ch += [f"- 消えた：{k}" for k in sorted(set(prev) - set(picks))]
     md += ["## 前回からの変化（採る値・確度・年。4-38）", *(ch[:40] or (["（変化なし）"] if prev is not None else ["（初回。次の実行から比べる）"])), *([f"- ほか{len(ch) - 40}件"] if len(ch) > 40 else []), ""]
     json.dump(picks, open(pf, "w", encoding="utf-8"), ensure_ascii=False, indent=0)

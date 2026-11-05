@@ -83,9 +83,20 @@ def junk(q: str) -> bool:
     return _is_menu(q) or bool(TITLE_RE.search(q))
 
 
+# 2026-11-06 4-42 走査の失敗から：forbesjapan.com の1つの記事から、同じページの関連記事の題名（「企業の海外進出を支える…の「多様性」」
+# 「サステナグロースを実現する企業の条件…審査員対談」）が人型ロボットの「顧客」の事実として brief に出た。
+# 句点も数字も無い60字以下の行で、品目の名前（の3字）を含まないものは、同じページの別記事の題名とみなして外す（4-35 の本文の枠を brief にも当てる）
+def off_topic_title(q: str, name: str) -> bool:
+    q = re.sub(r"\s+", " ", q or "").strip()
+    if "。" in q or re.search(r"\d", q) or len(q) > 60: return False
+    keys = {t[i:i + 3] for t in re.split(r"[\s・／/（）()、,]+", name or "") if len(t) >= 3 for i in range(len(t) - 2)}
+    return bool(keys) and not any(k in q for k in keys)
+
+
 def box_lines(rec: dict, cats: list[str], own_host: str = "") -> list[str]:
     ev, lines = rec.get("evidence", {}), []
-    ev = {k: [i for i in (v or []) if not junk(i.get("quote", ""))] for k, v in ev.items()}
+    nm = rec.get("name", "")
+    ev = {k: [i for i in (v or []) if not junk(i.get("quote", "")) and not off_topic_title(i.get("quote", ""), nm)] for k, v in ev.items()}
     extra = [k for k in ev if k.startswith("SNS・note") or k == "検索結果の抜粋"]
     for c in cats + extra:
         items = ev.get(c, [])

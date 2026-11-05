@@ -67,3 +67,6 @@ IFCN・FIJ のファクトチェックの手順とレーティング基準の定
 議会図書館・統計機関のファクトチェックの手引き（要約でなく表を引く・比べる相手・確かめられない主張の扱い）,House of Commons Library how to check facts statistics primary source data tables,英国下院図書館 ファクトチェック 手引き;Full Fact statistics checking guide;統計 報道発表 要約 原典 表 確認,検証
 研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合）,data cleaning plan checklist consistency checks Crystal Lewis data management education research,データクリーニング 計画 チェックリスト;data cleaning checklist research team;欄 整合 チェック 重複 欠損,清掃
 1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号）,revenue per employee benchmark by company size median quartile,従業員1人当たり売上高 規模別 中央値;revenue per employee benchmark by headcount band,推定
+統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）,statistical data revisions analysis real-time vintages revision size bias preliminary final,速報値 確報値 改訂幅 分析;統計 改定 要因 定義変更;real-time data revisions vintage analysis central bank working paper,改訂
+名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社）,entity matching key profiling missing rate composite key false merge,名寄せ キー 欠損率 棚卸し;複合キー 誤統合 同じ住所 別会社;record linkage blocking key quality,突き合わせ
+中央銀行・統計局のワーキングペーパーにある生産性の測り方の注意（非正規の広がり・合併の再配分・分母の選び方）,central bank working paper labor productivity measurement part-time mergers reallocation decomposition,日本銀行 ワーキングペーパー 労働生産性 分解 再配分;労働生産性 非正規雇用 労働投入 測り方;RIETI 生産性 企業間 再配分 合併,推定
