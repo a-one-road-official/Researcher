@@ -10,8 +10,23 @@ OUT = os.path.join(os.path.dirname(__file__), "out")
 PRIMARY = re.compile(r"(\.go\.jp|xbrl|kanpo|houjin-bangou|\.lg\.jp|e-stat|edinet|jpx\.co\.jp|boj\.or\.jp|jil\.go|meti|mhlw|stat\.go|\.or\.jp|\.ac\.jp|ir\.|/ir/|disclosure)")
 # 2026-11-05：ニュースサイトの「/ir/」カテゴリ（news.sharelab.jp/3dp-news/ir/…）を一次と判定した失敗から。報道・ブログのホストは一次にしない
 NEWSHOST = re.compile(r"^(news\.|.*(note\.com|sharelab|nikkei|itmedia|monoist|prtimes|yahoo|newswitch|nikkan|livedoor|ameblo|hatena))", re.I)
+# 2026-11-05 4-24：登記・開示・判決の「写し」を載せたまとめサイトは一次にしない（Altss OSINT 検証基準：
+# 登記の写しは、役所・登記所の仕組みから取り直すまで報道と同じ扱い）。EDINET・法人番号の写しのサイトが URL に edinet・houjin を含んでも一次にしない
+COPYHOST = re.compile(r"(irbank|buffett-code|kabutan|minkabu|ullet|houjin\.info|houjin-info|corporate-number|alarmbox|catr\.jp|b2bportal|houjinbangou\.|stockclip|kabuyoho|yahoo)", re.I)
 def is_primary(url):
-    return bool(PRIMARY.search(url)) and not NEWSHOST.search(urlparse(url).netloc)
+    host = urlparse(url).netloc
+    return bool(PRIMARY.search(url)) and not NEWSHOST.search(host) and not COPYHOST.search(host)
+
+# 2026-11-05 4-24：出どころの立場（Altss の source standing を日本向けに簡略化）。
+# 記録者＝官公庁・登記・開示・統計の役所自身／写し＝報道・まとめ・調査会社・信用調査／本人以外の区別は付かないので残りは「その他」
+def standing(url, kind):
+    if kind == "一次": return "記録者・本人"
+    if kind in ("調査会社", "信用調査") or COPYHOST.search(urlparse(url).netloc) or NEWSHOST.search(urlparse(url).netloc): return "写し・集計"
+    return "その他"
+
+# 2026-11-05 4-24：記事が一次（統計・有報・決算・官報・登記・会社発表）を名指ししている数字は、元へ戻って取り直す候補（iri-group デスクリサーチ：
+# ニュースが紹介する数値を政府統計・決算資料に戻って確かめる／Altss：報道は「記者が書いたこと」の証拠で、届出そのものではない）
+CITES_PRIMARY = re.compile(r"(e-Stat|経済センサス|工業統計|経済構造実態調査|中小企業実態基本調査|賃金構造基本統計|法人企業統計|有価証券報告書|有報|決算短信|決算説明|官報|登記|IR資料|統計によると|調査によると|発表した|公表した|によると)")
 # 2026-11-05 4-14：信用調査会社の売上は取材に基づく推定値を含む。一次に数えず「信用調査」とする（電子決算公告ドットコムの解説）
 CREDIT = re.compile(r"(tdb\.co\.jp|tsr-net|tokyo-keizai|cosmonet|baseconnect|musubu|salesnow|\.dnb\.com|dun-bradstreet)")
 # 2026-11-05 4-13／4-15：同じ欄でも定義が違う数字（単体と連結、売上高と取扱高、出荷と販売、会員企業だけの集計、規模の裾切り）
@@ -75,6 +90,8 @@ def version_of(q):
 def defn_of(q):
     return "・".join(n for n, rx in DEFN if rx.search(q))
 
+PERDENOM = re.compile(r"1\s*(人|名|社|事業所|件|台|企業)\s*(あたり|当たり|当り|につき|平均)")
+
 def norm(v, u):
     x = float(v.replace(",", ""))
     if u in TO_MAN: return x * TO_MAN[u], "万円"
@@ -96,16 +113,21 @@ def rows_for(topic):
                 ctx = context_of(q)
                 for m in NUM.finditer(q):
                     if is_size_band(q, m): continue  # 規模区分の境目は数えない
+                    # 2026-11-05：「1人あたり」「1事業所当たり」の1を人数・事業所数として拾い、幅が「1〜3,952事業所」になった失敗から。割り算の分母の1は数えない
+                    if PERDENOM.match(q, m.start()): continue
                     v, u = norm(*m.groups())
                     if u == "万円" and v <= 0: continue
                     # 数字の近く（前40字）の年を優先
                     near = YEAR.findall(q[max(0, m.start() - 40):m.start() + 5])
                     y = (near or ys or [""])[-1]
+                    kind = "調査会社" if REPORT.search(url) else "信用調査" if CREDIT.search(url) else "一次" if is_primary(url) else "記事"
                     yield {"品目": name, "区分": cat, "文脈": ctx, "年": y, "値": round(v, 4), "単位": u,
-                           "一次": "調査会社" if REPORT.search(url) else "信用調査" if CREDIT.search(url) else "一次" if is_primary(url) else "記事",
+                           "一次": kind, "立場": standing(url, kind),
+                           "元へ戻る": "要" if kind != "一次" and CITES_PRIMARY.search(q) else "",
                            "定義": defn_of(q), "版": version_of(q),
                            # 2026-11-05 4-19：出どころの記録（URL・取得日・取り方）。欠けた引用は後から確かめられない
-                           "取得日": it.get("first_seen", ""),
+                           # 2026-11-05：mfg_capacity の引用は first_seen が無く「記録が欠けた数字 1488/1488」になった。ファイルの researched_at を取得日に使う
+                           "取得日": it.get("first_seen", "") or (d.get("researched_at", "") or "")[:10],
                            "予測": "予測" if y and int(y) > NOW_YEAR else "見通し" if OUTLOOK.search(q) else "",
                            "出典": urlparse(url).netloc, "URL": url, "引用": q[:160]}
 
@@ -140,8 +162,11 @@ def src_key(r):
 # 2026-11-05 4-23：こだまの判定（skillmd source-triangulation：独立は媒体の数でなく方法・データの違い。
 # 「独立」のはずの出どころが同じ数字を一字一句同じに持つのは、1つの元を写した指紋）。
 # 一次でない出どころどうしで値がぴったり同じなら、同じ元の写しとして1つに束ねる。一次は元そのものなのでホストで数える。
-def indep_key(r):
-    return src_key(r) if r["一次"] == "一次" else ("同じ値", r["値"])
+def indep_key(r, ec=None):
+    # 2026-11-05 修正：前の版は一次でない数字を値ごとに別の出どころと数え、同じホスト1か所の近い値2つで【裏付けあり】になっていた
+    # （mfg_capacity のめっき・金型で「一次0件・出典1か所」なのに【裏付けあり】）。独立の単位はホスト。写し（同じ値が一次でない2か所以上）だけ1つに束ねる
+    if r["一次"] != "一次" and ec and r["値"] in ec: return ("同じ値", r["値"])
+    return src_key(r)
 
 def echoes(g):
     """一次でない2か所以上が同じ値を持つ値の一覧（値→ホスト数）。"""
@@ -164,7 +189,8 @@ def grade(g):
     doms = {src_key(r) for r in g}
     vals = sorted(r["値"] for r in g)
     med = statistics.median(vals)
-    near = {indep_key(r) for r in g if med and abs(r["値"] - med) <= 0.2 * abs(med)}
+    ec = echoes(g)
+    near = {indep_key(r, ec) for r in g if med and abs(r["値"] - med) <= 0.2 * abs(med)}
     if len(near) >= 2: return "【裏付けあり】"
     if vals and vals[0] > 0 and vals[-1] / vals[0] > 3 and len(doms) >= 2: return "【食い違い】"
     if any(r["一次"] == "一次" for r in g): return "【一次で確認】"
@@ -284,6 +310,10 @@ def scan(topic):
         try: names.add(json.load(open(f, encoding="utf-8")).get("name", ""))
         except Exception: pass
     empty = sorted(n for n in names - set(by_item) if n)
+    # 2026-11-05 4-24：記事・調査会社が一次を名指しして紹介している数字。元の統計・開示を取り直すまで「記者が書いたこと」として扱う
+    back = [r for r in rows if r.get("元へ戻る")]
+    md += [f"## 元へ戻って取り直す数字（記事が一次を名指し・{len(back)}件・4-24）",
+           *(f"- {r['品目']}｜{r['値']:g}{r['単位']}（{r['年'] or '年不明'}年）｜{r['出典']}：{r['引用'][:60]}" for r in back[:15]), *(["（なし）"] if not back else []), ""]
     md += ["## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）", *(f"- {t}" for t in thin or ["（なし）"]), ""]
     md += ["## 数字が1つも取れなかった品目（範囲の明示）", *(f"- {n}" for n in empty or ["（なし）"]), ""]
     open(os.path.join(OUT, topic, "scan_auto.md"), "w", encoding="utf-8").write("\n".join(md))
