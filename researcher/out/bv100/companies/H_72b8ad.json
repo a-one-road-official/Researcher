@@ -1,0 +1,1321 @@
+{
+ "name": "H&",
+ "aliases": [
+  "handk-inc"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T14:46:42.943201+00:00",
+ "official_url": "https://www.handk-inc.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2020年9月",
+    "url": "https://www.handk-inc.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "安藤 弘樹",
+    "url": "https://www.handk-inc.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "15名",
+    "url": "https://www.handk-inc.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地（東京）",
+    "value": "〒104-0061 東京都中央区銀座1-12-4 N&E BLD.6F",
+    "url": "https://www.handk-inc.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "DXコンサルティング、マーケティングコンサルティング、開発（スクラッチ・アプリ）",
+    "url": "https://www.handk-inc.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "・事業内容",
+    "value": "オフィス移転/レイアウト変更学校ICT化、福祉・公共施設の開設/改修、備品通販など",
+    "url": "https://www.handk-inc.co.jp/case/uchidasystems/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "BRANU株式会社 の運営するCAREECONに当社が掲載されました",
+    "url": "https://www.handk-inc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "monday.com の要件定義・設計・設定・ライセンス販売から保守まで対応します",
+    "url": "https://www.handk-inc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ムーア様：HubSpotさんから紹介を受けたことがきっかけでした",
+    "url": "https://www.handk-inc.co.jp/case/yamaman/",
+    "pass": 1
+   },
+   {
+    "quote": "葛西様：弊社は、多岐にわたる事業を展開しているため、事業内容を正確に理解し、高度なシステム構築に対応できるパートナーを探していました",
+    "url": "https://www.handk-inc.co.jp/case/yamaman/",
+    "pass": 1
+   },
+   {
+    "quote": "綱島：事業内容の理解の深さという所に重みを置かれていたのですね",
+    "url": "https://www.handk-inc.co.jp/case/yamaman/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容への理解がないと、システムを構築できたとしても絵に描いた餅になってしまうのではないかという懸念がありました",
+    "url": "https://www.handk-inc.co.jp/case/yamaman/",
+    "pass": 1
+   },
+   {
+    "quote": "綱島：実際にユーカリが丘に行かせていただいた際に、事業内容についてのご説明をいただいたので、ビジネスモデルを理解することができました",
+    "url": "https://www.handk-inc.co.jp/case/yamaman/",
+    "pass": 1
+   },
+   {
+    "quote": "時間を掛けて、ほぼ100％私たちの事業内容を理解し、提案していただいたので、不安を解消することができました",
+    "url": "https://www.handk-inc.co.jp/case/yamaman/",
+    "pass": 1
+   },
+   {
+    "quote": "monday.com の要件定義・設計・設定・ライセンス販売から保守まで対応します",
+    "url": "https://www.handk-inc.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "「売上の拡大」や「採用」、それらを支援できるようなサービスを提供しています",
+    "url": "https://www.handk-inc.co.jp/case/web-renewal/",
+    "pass": 1
+   },
+   {
+    "quote": "そのためサイトに関しては、費用対効果で言うと「売上を上げていない」ので、”コスト”という位置づけになってしまっています",
+    "url": "https://www.handk-inc.co.jp/case/web-renewal/",
+    "pass": 1
+   },
+   {
+    "quote": "矢嶋：弊社では、ほとんどが紹介か営業で獲得しているお客様でして、営業ではWebサイトを活用した提案をあまりしたことがなかったので、今後そのような事例ページを充実させていきたいですね",
+    "url": "https://www.handk-inc.co.jp/case/web-renewal/",
+    "pass": 1
+   },
+   {
+    "quote": "最初に適切に費用をかけることで、現在「売上」の向上にほとんど貢献してないサイトを集客媒体として、きちんと運用できると考えています",
+    "url": "https://www.handk-inc.co.jp/case/web-renewal/",
+    "pass": 1
+   },
+   {
+    "quote": "・事業内容：オフィス移転/レイアウト変更学校ICT化、福祉・公共施設の開設/改修、備品通販など",
+    "url": "https://www.handk-inc.co.jp/case/uchidasystems/",
+    "pass": 1
+   },
+   {
+    "quote": "山田様：MAを選定するときにHubSpot様からいくつかの企業を紹介して頂きました",
+    "url": "https://www.handk-inc.co.jp/case/uchidasystems/",
+    "pass": 1
+   },
+   {
+    "quote": "ただインサイドセールスで売上を伸ばしたいという思いがあるので今後より力を入れていきたいです",
+    "url": "https://www.handk-inc.co.jp/case/uchidasystems/",
+    "pass": 1
+   },
+   {
+    "quote": "また、弊社は、SNSプラットフォームマーケティングツールを主力商材としており、プラットフォームからの認知拡大を得意としていますが、さらにそこから長期的な資産を効率的に生産して、リード獲得数向上を目指したいと考えました",
+    "url": "https://www.handk-inc.co.jp/case/smartshare/",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、受注/失注の理由をそれぞれ分析して、運用を工夫することで、売上向上に貢献していきたいと考えています",
+    "url": "https://www.handk-inc.co.jp/case/smartshare/",
+    "pass": 1
+   },
+   {
+    "quote": "【製造業×AI】約20億円調達ベンチャーへSFA導入支援を実施",
+    "url": "https://www.handk-inc.co.jp/blog/service-tag/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "H&M、25年度売上高は3兆9630億円 減収も収益性改善 | 繊研新聞",
+    "url": "https://senken.co.jp/posts/handm-260205",
+    "pass": 3
+   },
+   {
+    "quote": "H&M、25年度売上高は3兆9630億円 減収も収益性改善",
+    "url": "https://senken.co.jp/posts/handm-260205",
+    "pass": 3
+   },
+   {
+    "quote": "H&Mの25年度（24年12月～25年11月）決算は1ケタ増収で、日本円換算（1クローナ＝17.36円）の売上高が3兆9630億円だった",
+    "url": "https://senken.co.jp/posts/handm-260205",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は2282億8500万クローナ（前期比2.6％減）、営業総利益1218億2100万クローナ（2.8％減）、営業利益183億9000万クローナ（6.3％増）だった",
+    "url": "https://senken.co.jp/posts/handm-260205",
+    "pass": 3
+   },
+   {
+    "quote": "ダニエル・エルベールCEO（最高経営責任者）は「25年度を通じて取り組んで業務効率化の効果で売れ行きは改善し、収益性も下期（6～11月）にかけて改善した",
+    "url": "https://senken.co.jp/posts/handm-260205",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では北欧、西欧、東欧、南欧との欧州に加え、北南米、アジア・オセアニア・アフリカと全世界で売上高が減少した",
+    "url": "https://senken.co.jp/posts/handm-260205",
+    "pass": 3
+   },
+   {
+    "quote": "北南米を除く全市場で不採算店舗を中心に店舗数が減っており、9～11月は「前期より4％少ない店舗数で現地通貨ベースの売上高が2％増加した」",
+    "url": "https://senken.co.jp/posts/handm-260205",
+    "pass": 3
+   },
+   {
+    "quote": "25年12月～26年1月の売上高は現地通貨ベースで前年同期比2％減となる見込み",
+    "url": "https://senken.co.jp/posts/handm-260205",
+    "pass": 3
+   },
+   {
+    "quote": "バロックジャパンリミテッド下期、事業の立て直しへ 主力業態「アズールバイマウジー」をテコ入れ",
+    "url": "https://senken.co.jp/posts/handm-260205",
+    "pass": 3
+   },
+   {
+    "quote": "ユニクロの10月既存店売上高 後半の気温上昇で5.5％減",
+    "url": "https://senken.co.jp/posts/handm-260205",
+    "pass": 3
+   },
+   {
+    "quote": "児島発の国産ジーンズ「オモトデニム」が好調 海外販売先が急増",
+    "url": "https://senken.co.jp/posts/handm-260205",
+    "pass": 3
+   },
+   {
+    "quote": "ファクタリング含む利息の支払い額が、1億5千万円の売上に対して年間2200万",
+    "url": "https://hm-biz-p.com/case.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上：1億5千万円",
+    "url": "https://hm-biz-p.com/case.html",
+    "pass": 3
+   },
+   {
+    "quote": "きっかけ：保険のライフプランナーからの紹介",
+    "url": "https://hm-biz-p.com/case.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上管理はできても、損益分岐の管理はできていない為、キャッシュフローとの連動がわかりにくい",
+    "url": "https://hm-biz-p.com/case.html",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介業務と別事業と本部経費と事業に対する経費が何に連動する化を可視化することで損益分岐点の詳細の把握をできる環境の構築を実施",
+    "url": "https://hm-biz-p.com/case.html",
+    "pass": 3
+   },
+   {
+    "quote": "受注見込、売上計上、資金回収をそれぞれ一目で把握できるようにするためのシステム構築",
+    "url": "https://hm-biz-p.com/case.html",
+    "pass": 3
+   },
+   {
+    "quote": "H&Mは、同社グループの倉庫、物流、販売に関するデータを持っていると主張するハッカー集団の言い分を調べている",
+    "url": "https://pasqualepillitteri.it/ja/news/24046/hm-greyorange-torihikisaki-ryushutsu-hacker",
+    "pass": 3
+   },
+   {
+    "quote": "、自称犯人が在庫記録、物流データ、販売分析、店舗運営と注文処理を支えるインフラの情報を含むデータベースを入手したと主張していると書いた",
+    "url": "https://pasqualepillitteri.it/ja/news/24046/hm-greyorange-torihikisaki-ryushutsu-hacker",
+    "pass": 3
+   },
+   {
+    "quote": "H&amp;M English Coachingが運営する、英語のアウトプット力を鍛える実践型メンバーシップです",
+    "url": "https://note.com/changee_english",
+    "pass": 3
+   },
+   {
+    "quote": "H&Mは2015年からオリジナルコスメを販売しており、",
+    "url": "https://note.com/cerealtalk/n/n69b7c6a8c142",
+    "pass": 3
+   },
+   {
+    "quote": "AmazonがアメリカでのUPSストアへの返品に対して手数料を取り始めている",
+    "url": "https://note.com/cerealtalk/n/n69b7c6a8c142",
+    "pass": 3
+   },
+   {
+    "quote": "CEREAL TALKでは、noteで紹介したサービスやブランドの創業者へのインタビューや、Podcastでの深掘り配信を行っています",
+    "url": "https://note.com/cerealtalk/n/n69b7c6a8c142",
+    "pass": 3
+   },
+   {
+    "quote": "今回紹介したニュースにまつわる質問や、取り上げてほしいサービス/テーマなどがあれば、下記よりお気軽にお送りください",
+    "url": "https://note.com/cerealtalk/n/n69b7c6a8c142",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "【SFA/MA導入事例】街づくり企業の不動産事業における顧客情報管理",
+    "url": "https://www.handk-inc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【ウェビナー支援】VC1億円調達のStock様｜顧客の分析から企画・集客を実行",
+    "url": "https://www.handk-inc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療DX加算とは？推進体制整備の施設基準・点数から2026年改定要件まで解説",
+    "url": "https://www.handk-inc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【SFA/MA導入事例】街づくり企業の不動産事業における顧客情報管理 - 株式会社H&K",
+    "url": "https://www.handk-inc.co.jp/case/yamaman/",
+    "pass": 1
+   },
+   {
+    "quote": "【SFA/MA導入事例】街づくり企業の不動産事業における顧客情報管理",
+    "url": "https://www.handk-inc.co.jp/case/yamaman/",
+    "pass": 1
+   },
+   {
+    "quote": "HubSpotの導入により、顧客情報の一元管理が可能となり、業務の効率化と適切なタイミングで適切なサービスを提供できる社内環境を実現しました",
+    "url": "https://www.handk-inc.co.jp/case/yamaman/",
+    "pass": 1
+   },
+   {
+    "quote": "葛西様：これまでは、グループ会社ごとに異なる顧客管理システムを利用していました",
+    "url": "https://www.handk-inc.co.jp/case/yamaman/",
+    "pass": 1
+   },
+   {
+    "quote": "この課題解決のため、グループ全体で運用可能な新しい顧客管理システムの検討を進めていました",
+    "url": "https://www.handk-inc.co.jp/case/yamaman/",
+    "pass": 1
+   },
+   {
+    "quote": "綱島：新しい顧客管理システムを選定する際の条件などはございましたか？",
+    "url": "https://www.handk-inc.co.jp/case/yamaman/",
+    "pass": 1
+   },
+   {
+    "quote": "葛西様：顧客管理システムに求める条件としては、・簡単な操作性・柔軟なカスタマイズ性・安価であること以上3点を重視しました",
+    "url": "https://www.handk-inc.co.jp/case/yamaman/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、綱島さんは不動産事業の複雑な業務を理解し、吸収して提案をしてくださったので驚きました",
+    "url": "https://www.handk-inc.co.jp/case/yamaman/",
+    "pass": 1
+   },
+   {
+    "quote": "【ウェビナー支援】VC1億円調達のStock様｜顧客の分析から企画・集客を実行",
+    "url": "https://www.handk-inc.co.jp/case/yamaman/",
+    "pass": 1
+   },
+   {
+    "quote": "【HubSpot MA導入事例】顧客データを更に有効活用するMA導入・構築を支援",
+    "url": "https://www.handk-inc.co.jp/case/yamaman/",
+    "pass": 1
+   },
+   {
+    "quote": "【HubSpot MA導入事例】SNSプラットフォームとHubSpotの連携でインサイドセールス業務を自動化し、リードの獲得数向上を実現",
+    "url": "https://www.handk-inc.co.jp/case/yamaman/",
+    "pass": 1
+   },
+   {
+    "quote": "【SFA/MA導入事例】街づくり企業の不動産事業における顧客情報管理",
+    "url": "https://www.handk-inc.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "【ウェビナー支援】VC1億円調達のStock様｜顧客の分析から企画・集客を実行",
+    "url": "https://www.handk-inc.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "【HubSpot MA導入事例】顧客データを更に有効活用するMA導入・構築を支援",
+    "url": "https://www.handk-inc.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "【HubSpot MA導入事例】SNSプラットフォームとHubSpotの連携でインサイドセールス業務を自動化し、リードの獲得数向上を実現",
+    "url": "https://www.handk-inc.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "【SFA/MA導入事例】HubSpot CRMを軸にマーケティングと営業を一貫して運用できる体制構築",
+    "url": "https://www.handk-inc.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "【SFA導入事例】シンプルな実装で製薬会社様の代理店管理を実現",
+    "url": "https://www.handk-inc.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "【Youtube・動画コンテンツ制作】学校法人の先駆けとして動画コンテンツの活用で学生など若い世代への認知拡大へ",
+    "url": "https://www.handk-inc.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "東京メディカル・スポーツ専門学校 広報センター",
+    "url": "https://www.handk-inc.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "【学校法人様のマーケティング総合支援】MAとSFAを組み合わせた学生の把握体制構築とオウンドメディアの実装で最先端DXを実現",
+    "url": "https://www.handk-inc.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "【MA設計】顧客のデータ分析と集客キャンペーンの実行｜メールマーケティングの開封率は驚異の58％越え",
+    "url": "https://www.handk-inc.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "【ウェビナー支援】VC1億円調達のStock様｜顧客の分析から企画・集客を実行 - 株式会社H&K",
+    "url": "https://www.handk-inc.co.jp/case/webinar-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "【ウェビナー支援】VC1億円調達のStock様｜顧客の分析から企画・集客を実行",
+    "url": "https://www.handk-inc.co.jp/case/webinar-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "・どのように既存の顧客情報を分析し・どのような企画をたて・開催後のどのようにアプローチしていけば、商談を効率よく創出できるか",
+    "url": "https://www.handk-inc.co.jp/case/webinar-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "1、顧客の分析",
+    "url": "https://www.handk-inc.co.jp/case/webinar-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "まずはじめに今回、顧客獲得活動を強化しようと思ったきっかけはなんですか？",
+    "url": "https://www.handk-inc.co.jp/case/webinar-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "従来は能動的なセールス活動というよりは、受動的にユーザーさんが見つけてくださった場合にフォローしていましたが、こちらから能動的に顧客獲得活動をしてより成長速度を高めようと思って強化しようと思ったのがきっかけです",
+    "url": "https://www.handk-inc.co.jp/case/webinar-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "澤村社長：田邊さんより、まずは、顧客の分析をしてから企画に入った方がいいと提案いただいたので、そこからお願いしました",
+    "url": "https://www.handk-inc.co.jp/case/webinar-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "田邊：マーケティング活動をする上で、顧客を置いてけぼりにしてしまう企画ほど渋い企画はありません",
+    "url": "https://www.handk-inc.co.jp/case/webinar-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "②その課題をクリアし効率的に活用できているユーザークライアント様の抽出",
+    "url": "https://www.handk-inc.co.jp/case/webinar-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "ただ単に、自分たちが思った企画をやってしまうと実際の顧客には刺さらず、集客が厳しいということにもなりかねないのでまずは上記は最低限行った方がいいと思います",
+    "url": "https://www.handk-inc.co.jp/case/webinar-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "澤村社長：思ってたよりも熱量を持った方（確度が高い顧客）が想定よりも多いなと思いました",
+    "url": "https://www.handk-inc.co.jp/case/webinar-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "澤村社長：ポジティブなところであげた話でいくと、今までこちらがリーチできていなかった顧客そうにアプローチすることができました",
+    "url": "https://www.handk-inc.co.jp/case/webinar-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "【SFA/MA導入事例】街づくり企業の不動産事業における顧客情報管理",
+    "url": "https://www.handk-inc.co.jp/case/webinar-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "【HubSpot MA導入事例】顧客データを更に有効活用するMA導入・構築を支援",
+    "url": "https://www.handk-inc.co.jp/case/webinar-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "【HubSpot MA導入事例】SNSプラットフォームとHubSpotの連携でインサイドセールス業務を自動化し、リードの獲得数向上を実現",
+    "url": "https://www.handk-inc.co.jp/case/webinar-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "ちなみに、弊社がクライアント様の事例コンテンツを作らせていただいた場合には、商談時に自社サイトを利用し商談の後押しになるような活用をされています",
+    "url": "https://www.handk-inc.co.jp/case/web-renewal/",
+    "pass": 1
+   },
+   {
+    "quote": "また、御社からいただくノウハウ的な内容は、SNSマーケティングにもかなり通ずるものがありますので、弊社のクライアントにお話する際にも今後使わせていただこうと思っています",
+    "url": "https://www.handk-inc.co.jp/case/web-renewal/",
+    "pass": 1
+   },
+   {
+    "quote": "【SFA/MA導入事例】街づくり企業の不動産事業における顧客情報管理",
+    "url": "https://www.handk-inc.co.jp/case/web-renewal/",
+    "pass": 1
+   },
+   {
+    "quote": "【ウェビナー支援】VC1億円調達のStock様｜顧客の分析から企画・集客を実行",
+    "url": "https://www.handk-inc.co.jp/case/web-renewal/",
+    "pass": 1
+   },
+   {
+    "quote": "【HubSpot MA導入事例】顧客データを更に有効活用するMA導入・構築を支援",
+    "url": "https://www.handk-inc.co.jp/case/web-renewal/",
+    "pass": 1
+   },
+   {
+    "quote": "【HubSpot MA導入事例】SNSプラットフォームとHubSpotの連携でインサイドセールス業務を自動化し、リードの獲得数向上を実現",
+    "url": "https://www.handk-inc.co.jp/case/web-renewal/",
+    "pass": 1
+   },
+   {
+    "quote": "【HubSpot MA導入事例】顧客データを更に有効活用するMA導入・構築を支援 - 株式会社H&K",
+    "url": "https://www.handk-inc.co.jp/case/uchidasystems/",
+    "pass": 1
+   },
+   {
+    "quote": "【HubSpot MA導入事例】顧客データを更に有効活用するMA導入・構築を支援",
+    "url": "https://www.handk-inc.co.jp/case/uchidasystems/",
+    "pass": 1
+   },
+   {
+    "quote": "・事業内容：オフィス移転/レイアウト変更学校ICT化、福祉・公共施設の開設/改修、備品通販など",
+    "url": "https://www.handk-inc.co.jp/case/uchidasystems/",
+    "pass": 1
+   },
+   {
+    "quote": "・既存顧客リストを有効に活用できていなかった",
+    "url": "https://www.handk-inc.co.jp/case/uchidasystems/",
+    "pass": 1
+   },
+   {
+    "quote": "【SFA/MA導入事例】街づくり企業の不動産事業における顧客情報管理",
+    "url": "https://www.handk-inc.co.jp/case/uchidasystems/",
+    "pass": 1
+   },
+   {
+    "quote": "【ウェビナー支援】VC1億円調達のStock様｜顧客の分析から企画・集客を実行",
+    "url": "https://www.handk-inc.co.jp/case/uchidasystems/",
+    "pass": 1
+   },
+   {
+    "quote": "【HubSpot MA導入事例】SNSプラットフォームとHubSpotの連携でインサイドセールス業務を自動化し、リードの獲得数向上を実現",
+    "url": "https://www.handk-inc.co.jp/case/uchidasystems/",
+    "pass": 1
+   },
+   {
+    "quote": "【HubSpot MA導入事例】SNSプラットフォームとHubSpotの連携でインサイドセールス業務を自動化し、リードの獲得数向上を実現 - 株式会社H&K",
+    "url": "https://www.handk-inc.co.jp/case/smartshare/",
+    "pass": 1
+   },
+   {
+    "quote": "【HubSpot MA導入事例】SNSプラットフォームとHubSpotの連携でインサイドセールス業務を自動化し、リードの獲得数向上を実現",
+    "url": "https://www.handk-inc.co.jp/case/smartshare/",
+    "pass": 1
+   },
+   {
+    "quote": "HubSpotからリードのログを追うこともできるので、セールス時には顧客に最適な提案ができると思います",
+    "url": "https://www.handk-inc.co.jp/case/smartshare/",
+    "pass": 1
+   },
+   {
+    "quote": "【SFA/MA導入事例】街づくり企業の不動産事業における顧客情報管理",
+    "url": "https://www.handk-inc.co.jp/case/smartshare/",
+    "pass": 1
+   },
+   {
+    "quote": "【ウェビナー支援】VC1億円調達のStock様｜顧客の分析から企画・集客を実行",
+    "url": "https://www.handk-inc.co.jp/case/smartshare/",
+    "pass": 1
+   },
+   {
+    "quote": "【HubSpot MA導入事例】顧客データを更に有効活用するMA導入・構築を支援",
+    "url": "https://www.handk-inc.co.jp/case/smartshare/",
+    "pass": 1
+   },
+   {
+    "quote": "【SFA/MA導入事例】街づくり企業の不動産事業における顧客情報管理",
+    "url": "https://www.handk-inc.co.jp/blog/service-tag/hubspot/",
+    "pass": 1
+   },
+   {
+    "quote": "【HubSpot MA導入事例】顧客データを更に有効活用するMA導入・構築を支援",
+    "url": "https://www.handk-inc.co.jp/blog/service-tag/hubspot/",
+    "pass": 1
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "澤村社長：セールス活動をしようっていうような話が出た時と同タイミングで、シードラウンドで資金調達を実施しまして1億円私たちは2020年の9月に資金調達しました",
+    "url": "https://www.handk-inc.co.jp/case/webinar-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "その時にうちの株主としてマネーフォワードさんが参加していただきまして、マネーフォワードさんがターゲットとされてるその会計事務所さんは私たちStockにとっても非常に重要なよく使ってくださるお客様たちなので一緒にウェビナーをやろうという話が持ち上がったっていうようなのが背景です",
+    "url": "https://www.handk-inc.co.jp/case/webinar-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "澤村社長：そういった意味で言うとあの今回の我々のケースで言うと株主のマネーフォワードさんが、もう何百回もやられているみたいなので、そこのノウハウはちょっとお伺いをしながらこちらで設計をしてやっていこうかなとは思ってました",
+    "url": "https://www.handk-inc.co.jp/case/webinar-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "それが更になぜかと言うと先ほど申し上げた通りその資金調達をしたタイミングで、だいぶ組織が増えていたり採用したりだとか、オフィスの移転をしたりだとかバタバタしてました",
+    "url": "https://www.handk-inc.co.jp/case/webinar-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "資金調達をしたことによって戦略で打てるオプションが変わったので、それの検討など、かなりやる事が山積みなタイミングだったんですね",
+    "url": "https://www.handk-inc.co.jp/case/webinar-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "【MA導入＆SFA・CRM移行】マザーズ上場企業がKPI管理と情報の一元化でDX化を推進",
+    "url": "https://www.handk-inc.co.jp/blog/service-tag/hubspot/",
+    "pass": 1
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "御社の場合ですと、BtoBのマーケティング支援になりますので「法人」の方に訪問してもらえるようなサイトの設計や、キーワードの戦略が必要になってきますよね",
+    "url": "https://www.handk-inc.co.jp/case/web-renewal/",
+    "pass": 1
+   },
+   {
+    "quote": "【B2B観光誘致プロジェクト】淡路島観光・法人向けサイト構築と、お客様ジャーニーに合わせたコンテンツ",
+    "url": "https://www.handk-inc.co.jp/blog/service-tag/web-seo/",
+    "pass": 1
+   },
+   {
+    "quote": "【BtoBサイトリニューアルプロジェクト】企業の健康経営・自治体住民の健康増進の重要性認知拡大ためのBtoBサイトをリニューアル",
+    "url": "https://www.handk-inc.co.jp/blog/service-tag/web-seo/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | H&S 株式会社 — 会社概要 | H&S 株式会社 H&S 株式会社 https://hands-ltd.co.jp > company",
+    "url": "https://hands-ltd.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "H&M 、25年度 売上 高は3兆9630億円 減収も収益性改善 — H&M 、25年度 売上 高は3兆9630億円 減収も収益性改善 繊研新聞 https://senken.co.jp > posts > handm-260205",
+    "url": "https://senken.co.jp/posts/handm-260205",
+    "pass": 3
+   },
+   {
+    "quote": "H＆M 、6  8月営業利益が急増 9月 売上 は10％減の見込み — H＆M 、6  8月営業利益が急増 9月 売上 は10％減の見込み Reuters https://www.reuters.com > world > china",
+    "url": "https://www.reuters.com/jp/world/china/4HTKM5NJ25JSLOYON2PZWL46RE-2023-09-27/",
+    "pass": 3
+   },
+   {
+    "quote": "売上 高3.9兆円で H&M 抜き世界2位へ 純利益も過去最高 — 売上 高3.9兆円で H&M 抜き世界2位へ 純利益も過去最高 BigGo ファイナンス https://finance.biggo.jp > news",
+    "url": "https://finance.biggo.jp/news/0d4f6534-b82c-480c-a271-8f841be1e315",
+    "pass": 3
+   },
+   {
+    "quote": "H&M の第2四半期利益が改善、 売上 高は依然として目標を下回る — H&M の第2四半期利益が改善、 売上 高は依然として目標を下回る Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース https://jp.investing.com > news > transcripts",
+    "url": "https://jp.investing.com/news/transcripts/article-93CH-1583188",
+    "pass": 3
+   },
+   {
+    "quote": "H&M 、 売上 高に陰り 株価が過去8年間で最低に - WWDJAPAN — H&M 、 売上 高に陰り 株価が過去8年間で最低に - WWDJAPAN WWDJAPAN https://www.wwdjapan.com > articles",
+    "url": "https://www.wwdjapan.com/articles/522487",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 ｜合同会社 H&M ビジネスパートナーズ — 導入事例 ｜合同会社 H&M ビジネスパートナーズ 合同会社H&Mビジネスパートナーズ https://hm-biz-p.com > case",
+    "url": "https://hm-biz-p.com/case.html",
+    "pass": 3
+   },
+   {
+    "quote": "Supply chain transparency - H&M Group — Supply chain transparency - H&M Group H&M Group https://hmgroup.com > supply-chain",
+    "url": "https://hmgroup.com/sustainability/supply-chain/",
+    "pass": 3
+   },
+   {
+    "quote": "【スウェーデン】 H&M 、2014年度のサステナビリティ報告書 ... — 【スウェーデン】 H&M 、2014年度のサステナビリティ報告書 ... Sustainable Japan https://sustainablejapan.jp > 2015/05/18 > hm-report2014",
+    "url": "https://sustainablejapan.jp/2015/05/18/hm-report2014/15649",
+    "pass": 3
+   },
+   {
+    "quote": "H&M へのハッカー主張、手がかりはGreyOrangeに — H&M へのハッカー主張、手がかりはGreyOrangeに Pasquale Pillitteri https://pasqualepillitteri.it > ... > サイバーセキュリティ",
+    "url": "https://pasqualepillitteri.it/ja/news/24046/hm-greyorange-torihikisaki-ryushutsu-hacker",
+    "pass": 3
+   },
+   {
+    "quote": "アパレル大手 H＆M 、ミャンマー企業への発注を徐々に再開 — アパレル大手 H＆M 、ミャンマー企業への発注を徐々に再開 Reuters https://www.reuters.com > markets > global-markets",
+    "url": "https://www.reuters.com/jp/markets/global-markets/LC7B3RO6H5N5RE4ACCPLRUMS5U-2021-05-18/",
+    "pass": 3
+   },
+   {
+    "quote": "H＆M コンサルティングジャパン合同会社 - Baseconnect — H＆M コンサルティングジャパン合同会社 - Baseconnect Baseconnect https://baseconnect.in > companies",
+    "url": "https://baseconnect.in/companies/bf175be8-5dc4-4577-b2e9-3f65f016af9f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "H&M English Coaching - note H&M English Coaching - note note https://note.com > changee_english",
+    "url": "https://note.com/changee_english",
+    "pass": 3
+   },
+   {
+    "quote": "Day 3：【Say it Now】｜ H&M English Coaching - note Day 3：【Say it Now】｜ H&M English Coaching - note note https://note.com > 語学 > 英語学習",
+    "url": "https://note.com/changee_english/n/n03d38195e214",
+    "pass": 3
+   },
+   {
+    "quote": "夫がキレた｜ H&M English Coaching - note 夫がキレた｜ H&M English Coaching - note note https://note.com > ライフスタイル > 時間管理・習慣化",
+    "url": "https://note.com/changee_english/n/n4737aa05c988",
+    "pass": 3
+   },
+   {
+    "quote": "H&M がノルウェーに初のビューティーラインショップを ... - note H&M がノルウェーに初のビューティーラインショップを ... - note note https://note.com > 美容 > コスメ",
+    "url": "https://note.com/cerealtalk/n/n69b7c6a8c142",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "H&M English Coaching｜note",
+    "url": "https://note.com/changee_english",
+    "pass": 3
+   },
+   {
+    "quote": "【第2期募集開始】英検要約トレーニング｜Summarize It Now!【第2期】",
+    "url": "https://note.com/changee_english",
+    "pass": 3
+   },
+   {
+    "quote": "【Week 2｜Day 4】実践！ミニ要約",
+    "url": "https://note.com/changee_english",
+    "pass": 3
+   },
+   {
+    "quote": "【Week 2｜Day 3】列挙をまとめて圧縮する",
+    "url": "https://note.com/changee_english",
+    "pass": 3
+   },
+   {
+    "quote": "【Week 2｜Day 2】抽象化しすぎてもダメ",
+    "url": "https://note.com/changee_english",
+    "pass": 3
+   },
+   {
+    "quote": "【Week 2】具体を、一つ上の箱にまとめる",
+    "url": "https://note.com/changee_english",
+    "pass": 3
+   },
+   {
+    "quote": "「書く」だけじゃない。「聞く・話す」で、英語力を底上げ！",
+    "url": "https://note.com/changee_english",
+    "pass": 3
+   },
+   {
+    "quote": "【Week 1｜Day 5】Before / Afterで確認する",
+    "url": "https://note.com/changee_english",
+    "pass": 3
+   },
+   {
+    "quote": "Day 3：【Say it Now】｜H&M English Coaching",
+    "url": "https://note.com/changee_english/n/n03d38195e214",
+    "pass": 3
+   },
+   {
+    "quote": "H&M English Coaching の MAKIKO です。",
+    "url": "https://note.com/changee_english/n/n03d38195e214",
+    "pass": 3
+   },
+   {
+    "quote": "・得意なのは英検対策（要約／作文／長文読解）",
+    "url": "https://note.com/changee_english/n/n03d38195e214",
+    "pass": 3
+   },
+   {
+    "quote": "夫がキレた｜H&M English Coaching",
+    "url": "https://note.com/changee_english/n/n4737aa05c988",
+    "pass": 3
+   },
+   {
+    "quote": "出会って22年、冷静沈着な夫が初めてキレたのが衝撃的だったので備忘録です。有益な情報はひとつもない、単なる私的な呟きです。",
+    "url": "https://note.com/changee_english/n/n4737aa05c988",
+    "pass": 3
+   },
+   {
+    "quote": "(文末にスマホの利点と欠点について英作文あります。)",
+    "url": "https://note.com/changee_english/n/n4737aa05c988",
+    "pass": 3
+   },
+   {
+    "quote": "簡単に言うと「やるべきこともせんと、なにスマホ見てんねんどつくぞ」ということなので、結論としては、スマホは勉強も仕事も娯楽もワンステップで完結するけど依存性が高くて危険なので勉強も余暇も、意識的に時間で区切ってコントロールする必要があるな、と自戒しました。おわり。",
+    "url": "https://note.com/changee_english/n/n4737aa05c988",
+    "pass": 3
+   },
+   {
+    "quote": "• 家族（子どもたちに体験や挑戦の機会を与えたい）",
+    "url": "https://note.com/changee_english/n/n4737aa05c988",
+    "pass": 3
+   },
+   {
+    "quote": "• 学び・挑戦（英語力を磨いて講師として成長する）",
+    "url": "https://note.com/changee_english/n/n4737aa05c988",
+    "pass": 3
+   },
+   {
+    "quote": "• 自分を大切にすること（休息や気持ちの切り替え）",
+    "url": "https://note.com/changee_english/n/n4737aa05c988",
+    "pass": 3
+   },
+   {
+    "quote": "• 朝4時起床、家事を済ませてから1時間勉強・添削を継続している➕子どもを寝かしつけてから深夜1時まで講義準備・添削その他の作業をしている",
+    "url": "https://note.com/changee_english/n/n4737aa05c988",
+    "pass": 3
+   },
+   {
+    "quote": "H&Mがノルウェーに初のビューティーラインショップをオープン｜CEREAL TALK（シリアルトーク）",
+    "url": "https://note.com/cerealtalk/n/n69b7c6a8c142",
+    "pass": 3
+   },
+   {
+    "quote": "H&Mがノルウェーに初のビューティーラインショップをオープン",
+    "url": "https://note.com/cerealtalk/n/n69b7c6a8c142",
+    "pass": 3
+   },
+   {
+    "quote": "CEREAL TALKでは、毎週月曜日に米国の次世代スタートアップやリテールテックにフォーカスした情報をお届けしています。",
+    "url": "https://note.com/cerealtalk/n/n69b7c6a8c142",
+    "pass": 3
+   },
+   {
+    "quote": "2023年4月17日配信 Vol.111より",
+    "url": "https://note.com/cerealtalk/n/n69b7c6a8c142",
+    "pass": 3
+   },
+   {
+    "quote": "ビューティーラインの旗艦店をオープンすると発表した",
+    "url": "https://note.com/cerealtalk/n/n69b7c6a8c142",
+    "pass": 3
+   },
+   {
+    "quote": "。初のビューティーライン店舗は、5月4日と25日にそれぞれ既存のH&M店舗のエントランス箇所を使ってオープンする予定。どちらも300平米の広さとなる予定で、これは既存店のビューティーセクションの2倍の広さとなる。",
+    "url": "https://note.com/cerealtalk/n/n69b7c6a8c142",
+    "pass": 3
+   },
+   {
+    "quote": "H&Mは2015年からオリジナルコスメを販売しており、",
+    "url": "https://note.com/cerealtalk/n/n69b7c6a8c142",
+    "pass": 3
+   },
+   {
+    "quote": "2021年には自社製品以外の商品の取り扱いも開始",
+    "url": "https://note.com/cerealtalk/n/n69b7c6a8c142",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "H&M (@hm) / X H&M (@hm) / X X https://x.com > ...",
+    "url": "https://x.com/hm",
+    "pass": 3
+   },
+   {
+    "quote": "H&M USA (@hmusa) / X H&M USA (@hmusa) / X X https://x.com > hmusa",
+    "url": "https://x.com/hmusa",
+    "pass": 3
+   },
+   {
+    "quote": "H&M United Kingdom (@hmunitedkingdom) / X H&M United Kingdom (@hmunitedkingdom) / X X https://x.com > hmunitedkingdom",
+    "url": "https://x.com/hmunitedkingdom",
+    "pass": 3
+   },
+   {
+    "quote": "H&M Customer Service (@hm_custserv) / X H&M Customer Service (@hm_custserv) / X X https://x.com > hm_custserv",
+    "url": "https://x.com/hm_custserv",
+    "pass": 3
+   },
+   {
+    "quote": "スカルプ＆ヘアケア | h&s | エイチアンドエス スカルプ＆ヘアケア | h&s | エイチアンドエス X https://x.com > hscareJapan",
+    "url": "https://x.com/hscareJapan",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "H&M USA INC. - LinkedIn H&M USA INC. - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/h&m-usa-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "H&M - LinkedIn H&M - LinkedIn LinkedIn Sverige https://se.linkedin.com > company",
+    "url": "https://se.linkedin.com/company/h&m",
+    "pass": 3
+   },
+   {
+    "quote": "H&M Group - LinkedIn H&M Group - LinkedIn LinkedIn Sverige https://se.linkedin.com > hmgroup",
+    "url": "https://se.linkedin.com/company/hmgroup",
+    "pass": 3
+   },
+   {
+    "quote": "H&M Communications - LinkedIn H&M Communications - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/h&m-communications",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "H&M (@hm) - Facebook H&M (@hm) - Facebook Facebook https://www.facebook.com > ... > Brand > Product/service",
+    "url": "https://www.facebook.com/hm/",
+    "pass": 3
+   },
+   {
+    "quote": "H&M (@hmtheus) - Facebook H&M (@hmtheus) - Facebook Facebook https://www.facebook.com > ... > Brand > Product/service",
+    "url": "https://www.facebook.com/hmtheus/",
+    "pass": 3
+   },
+   {
+    "quote": "Did you know that H&M stands for Hennes and Mauritz? The ... Did you know that H&M stands for Hennes and Mauritz? The ... Facebook https://www.facebook.com > CitadelOutlets > posts > did-...",
+    "url": "https://www.facebook.com/CitadelOutlets/posts/did-you-know-that-hm-stands-for-hennes-and-mauritz-the-company-was-originally-fo/621539103339650/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.handk-inc.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handk-inc.co.jp/case/yamaman/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handk-inc.co.jp/services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handk-inc.co.jp/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handk-inc.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handk-inc.co.jp/case/webinar-consulting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handk-inc.co.jp/case/web-renewal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handk-inc.co.jp/case/uchidasystems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handk-inc.co.jp/case/smartshare/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handk-inc.co.jp/blog/service-tag/hubspot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handk-inc.co.jp/blog/service-tag/web-seo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handk-inc.co.jp/blog/service-tag/recruiting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handk-inc.co.jp/blog/service-tag/strategy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handk-inc.co.jp/blog/service-tag/other/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://hands-ltd.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vs-group.jp/startup/establishment/11104.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/establish/basic/614/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://senken.co.jp/posts/handm-260205",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/world/china/4HTKM5NJ25JSLOYON2PZWL46RE-2023-09-27/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://finance.biggo.jp/news/0d4f6534-b82c-480c-a271-8f841be1e315",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://fundoor.com/newsletters/31",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.smartround.com/public/articles/fundraising/fl1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yourtory.com/corp/migiude-note/shusshi-chotatsu",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://hm-biz-p.com/case.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.halcyon.ai/jp/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manageengine.jp/products/Endpoint_Central/case-studies.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hmgroup.com/sustainability/supply-chain/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sustainablejapan.jp/2015/05/18/hm-report2014/15649",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://pasqualepillitteri.it/ja/news/24046/hm-greyorange-torihikisaki-ryushutsu-hacker",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/changee_english",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/changee_english/n/n03d38195e214",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/changee_english/n/n4737aa05c988",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cerealtalk/n/n69b7c6a8c142",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hm",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hmusa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hmunitedkingdom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hm_custserv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/h&m-usa-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://se.linkedin.com/company/h&m",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://se.linkedin.com/company/hmgroup",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/h&m-communications",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hm/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hmtheus/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CitadelOutlets/posts/did-you-know-that-hm-stands-for-hennes-and-mauritz-the-company-was-originally-fo/621539103339650/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hscareJapan",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "H& 会社概要 資本金 設立",
+   "results": [
+    "https://hands-ltd.co.jp/company/",
+    "https://vs-group.jp/startup/establishment/11104.html",
+    "https://biz.moneyforward.com/establish/basic/614/",
+    "https://www.ht-tax.or.jp/kigyou-guide/established-as-a-corporation-conditions",
+    "https://www.smbc-card.com/hojin/magazine/tips/capital.jsp",
+    "https://www.readytofashion.jp/companies/484461494",
+    "https://doda.jp/DodaFront/View/Company/j_id__10146580616/",
+    "https://en-gage.net/hands-sole/",
+    "https://www.mizuhobank.co.jp/corporate/account/tips/topic_159.html",
+    "https://ja.wikipedia.org/wiki/H&M"
+   ]
+  },
+  {
+   "query": "H& 事業内容 売上",
+   "results": [
+    "https://senken.co.jp/posts/handm-260205",
+    "https://www.reuters.com/jp/world/china/4HTKM5NJ25JSLOYON2PZWL46RE-2023-09-27/",
+    "https://finance.biggo.jp/news/0d4f6534-b82c-480c-a271-8f841be1e315",
+    "https://jp.investing.com/news/transcripts/article-93CH-1583188",
+    "https://www.wwdjapan.com/articles/522487",
+    "https://forbesjapan.com/articles/detail/95397",
+    "https://www.reuters.com/jp/video/watch/idOVDX9INIJ/",
+    "https://jp.fashionnetwork.com/news/H-m%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-%E7%AC%AC4%E5%9B%9B%E5%8D%8A%E6%9C%9F%E3%81%AF%E5%A3%B2%E4%B8%8A%E6%B8%9B%E3%81%AE%E3%81%AA%E3%81%8B%E5%88%A9%E7%9B%8A%E3%81%8C%E4%BA%88%E6%83%B3%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B,1802519.html",
+    "https://ja.wikipedia.org/wiki/H&M",
+    "https://zukaikeizai.com/kaisha/2792/"
+   ]
+  },
+  {
+   "query": "H& 資金調達 株主",
+   "results": [
+    "https://fundoor.com/newsletters/31",
+    "https://jp.smartround.com/public/articles/fundraising/fl1",
+    "https://yourtory.com/corp/migiude-note/shusshi-chotatsu",
+    "https://www.hijojo-partners.com/news/b1",
+    "https://initial.inc/tags/fundraising-articles",
+    "https://www.jsda.or.jp/about/kaigi/chousa/startup/file/startup_houkokusho_0905.pdf",
+    "https://www.meti.go.jp/policy/newbusiness/houkokusyo/financeguidance.pdf",
+    "https://note.com/preventure/n/n781084c141bb",
+    "https://funds.jp/blog/detail/230",
+    "https://shikin-bank.com/shikinchotatsu/shikinchotatsu_kihon/a-thorough-explanation-of-the/"
+   ]
+  },
+  {
+   "query": "H& 導入事例",
+   "results": [
+    "https://hm-biz-p.com/case.html",
+    "https://www.halcyon.ai/jp/resources/case-studies",
+    "https://www.manageengine.jp/products/Endpoint_Central/case-studies.html",
+    "https://www2.biznet.co.jp/case/",
+    "https://www.rhizome-e.com/solution/case/",
+    "https://www.hms-global.com/case-study",
+    "https://olga-legal.com/case/",
+    "https://hmgroup.com/sustainability/",
+    "https://www.youtube.com/shorts/hqlrtYAbavk",
+    "https://www.hitachi-ies.co.jp/products/case/index.html"
+   ]
+  },
+  {
+   "query": "H& 主要取引先",
+   "results": [
+    "https://hmgroup.com/sustainability/supply-chain/",
+    "https://sustainablejapan.jp/2015/05/18/hm-report2014/15649",
+    "https://pasqualepillitteri.it/ja/news/24046/hm-greyorange-torihikisaki-ryushutsu-hacker",
+    "https://www.reuters.com/jp/markets/global-markets/LC7B3RO6H5N5RE4ACCPLRUMS5U-2021-05-18/",
+    "https://baseconnect.in/companies/bf175be8-5dc4-4577-b2e9-3f65f016af9f",
+    "https://www.openwork.jp/asking/a0910000003Wvro/questions",
+    "https://www.buffett-code.com/company/0yfi2xg8y9/",
+    "https://career.hm.com/jp-ja/the-hm-group/",
+    "https://www.hirata.co.jp/corporate/customers",
+    "https://www.hs-fujisawa.com/主要取引先-実績"
+   ]
+  },
+  {
+   "query": "site:note.com H&",
+   "results": [
+    "https://note.com/changee_english",
+    "https://note.com/changee_english/n/n03d38195e214",
+    "https://note.com/changee_english/n/n4737aa05c988",
+    "https://note.com/cerealtalk/n/n69b7c6a8c142",
+    "https://note.com/changee_english/n/n543e637064d5?hl=en",
+    "https://note.com/changee_english/n/n9af675b29ce2",
+    "https://note.com/changee_english/n/na956aef14228",
+    "https://note.com/changee_english/n/n41cfc26d6807",
+    "https://note.com/arata0358/n/ne02e15190875?hl=en",
+    "https://note.com/matsumoto_yusuke/n/n1b85e09b519b?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com H&",
+   "results": [
+    "https://x.com/hm",
+    "https://x.com/hmusa",
+    "https://x.com/hmunitedkingdom",
+    "https://x.com/hm_custserv",
+    "https://x.com/hmeire",
+    "https://x.com/hm/with_replies",
+    "https://x.com/aakashgupta/status/2042725821635572198",
+    "https://x.com/hmindonesia_",
+    "https://x.com/HyM_Espana",
+    "https://x.com/hmnewzealand"
+   ]
+  },
+  {
+   "query": "site:linkedin.com H&",
+   "results": [
+    "https://www.linkedin.com/company/h&m-usa-inc-",
+    "https://se.linkedin.com/company/h&m",
+    "https://se.linkedin.com/company/hmgroup",
+    "https://www.linkedin.com/company/h&m-communications",
+    "https://www.linkedin.com/posts/elaineparrthecpggeek_agility-leadtimes-markdowns-activity-7400495746476822528-_C_j",
+    "https://www.linkedin.com/company/h&m-bay-inc.",
+    "https://www.linkedin.com/news/story/hm-under-pressure-7165948/",
+    "https://www.linkedin.com/news/story/hm-to-use-ai-model-twins-6356860/",
+    "https://www.linkedin.com/news/story/hm-says-it-is-now-a-data-company-5638596/",
+    "https://www.linkedin.com/company/hco"
+   ]
+  },
+  {
+   "query": "site:facebook.com H&",
+   "results": [
+    "https://www.facebook.com/hm/",
+    "https://www.facebook.com/hmtheus/",
+    "https://www.facebook.com/CitadelOutlets/posts/did-you-know-that-hm-stands-for-hennes-and-mauritz-the-company-was-originally-fo/621539103339650/",
+    "https://www.facebook.com/Reuters/videos/could-turnaround-struggles-see-hm-go-private-why-some-think-so/1726595348433269/",
+    "https://www.facebook.com/p/HM-100025054944241/",
+    "https://www.facebook.com/hmindonesia/",
+    "https://www.facebook.com/hmbelgium/",
+    "https://www.facebook.com/magrietgroenewaldsocial/videos/we-all-know-hm-but-i-never-knew-the-story-behind-itit-all-started-with-one-simpl/1304342991473374/",
+    "https://www.facebook.com/fleurdeforce/videos/the-best-hm-order-ive-made-in-years-comment-shop-and-ill-dm-you-the-links-%EF%B8%8F/2037078127219633/",
+    "https://www.facebook.com/61576364465176/videos/hm-new-collection-shopping/1467069465524381/"
+   ]
+  },
+  {
+   "query": "H& note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://www.ch-files.net/note/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://diamond.jp/articles/-/388572",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "H& X 投稿",
+   "results": [
+    "https://x.com/hscareJapan",
+    "https://www.instagram.com/hm/",
+    "https://www.youtube.com/watch?v=gvbCoPOjdwA",
+    "https://press.hm.com/",
+    "https://x.com/hm",
+    "https://filmarks.zendesk.com/hc/ja/articles/59246950677017--%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-X-%E6%97%A7Twitter-%E3%81%B8%E3%81%AE%E8%87%AA%E5%8B%95%E6%8A%95%E7%A8%BF%E6%A9%9F%E8%83%BD%E3%81%AE%E5%81%9C%E6%AD%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "https://www.instagram.com/reel/DecBbmOKunz/",
+    "https://www.asahi.com/articles/ASS2Y4JTHS2XULLI001.html",
+    "https://www.bbc.com/japanese/42616947",
+    "https://ja.wikipedia.org/wiki/HX005IN"
+   ]
+  }
+ ],
+ "missing": {
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部31頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部31頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部31頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部31頁・検索11回）",
+  "選出の記録": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部31頁・検索11回）"
+ }
+}

@@ -1,0 +1,1755 @@
+{
+ "name": "BUNKLE",
+ "aliases": [
+  "bunkle"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T14:42:46.509477+00:00",
+ "official_url": "https://bunkle.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2016年8月",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2016年8月15日",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2016年8月",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "東京本社 〒108-0073 東京都港区三田1-4-1 住友不動産麻布十番ビル 4F 大阪支社 〒541-0056 大阪府大阪市中央区久太郎町4-2-15 岡地ビル 5F 横浜支社 〒222-0033 神奈川県横浜市港北区新横浜2-5-2 新横浜UUビル 5F",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社郵便番号",
+    "value": "108-0073",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都港区三田1-4-1 住友不動産麻布十番ビル 4F",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社電話番号",
+    "value": "03-5797-7563",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "大阪支社所在地",
+    "value": "大阪府大阪市中央区久太郎町4-2-15 岡地ビル 5F",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "大阪府",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "新潟県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "愛媛県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "群馬県\n\t\t\t\t\t\t\t\t\t\t、東京都",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "北海道\n\t\t\t\t\t\t\t\t\t\t、福岡県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒108-0073　東京都港区三田一丁目4番1号 住友不動産麻布十番ビル4階",
+    "url": "https://best100.v-tsushin.jp/company/bunkle/",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都、長野県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "滋賀県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都\n\t\t\t\t\t\t\t\t\t\t、神奈川県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社郵便番号",
+    "value": "108-0073",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都港区三田一丁目4番1号 住友不動産麻布十番ビル4階",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   },
+   {
+    "label": "本社電話番号",
+    "value": "03-5797-7563",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   },
+   {
+    "label": "第二本社郵便番号",
+    "value": "541-0056",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   },
+   {
+    "label": "第二本社所在地",
+    "value": "大阪府大阪市中央区久太郎町4-2-15 岡地ビル 5F",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都、沖縄県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都、愛知県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "千葉県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "福岡県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "5,000万円（※グループ資本金等1億6,850万円）",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "資本金5000万円 (※グループ資本金等1億6850万円)",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "50,000,000円",
+    "url": "https://best100.v-tsushin.jp/company/bunkle/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "5000万円 (※グループ資本金等1億6850万円)",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "事業 プログラミングスクール運営事業 各種コンサルティング事業 受託開発事業 SES事業 人材派遣事業 人材紹介事業 サービス Freeks Chip Career Connect Three",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "\"■『HRソリューション事業』 ・大手モバイル通信会社ユーザー向けカスタマーサポート業務 ・大手通信グループ法人向け固定回線サービスのカスタマーサクセス業務 ・大手通信インフラ構築プロジェクトのスケジュールマネジメント支援  etc... ■『システムコンサルティング事業』（受託の実績記載） ・東証プライム上場金融企業基幹システム全面刷新プロジェクト ・東証プライム上場飲料メーカーコーポレートサイトの保守・運用 ・高級飲食ブランドECサイト新規開発 ・エンタメ業界向けシステム開発・運用支援 ・不動産クラウドサービスの開発  etc... ■『ITソリューション事業』 プロジェクト例 ・東証プライム上場企業大手金融サービス企業 WEBサイトリニューアル・CMS移行開発 ・東証プライム上場企業カード会社 クレジット決済システムの新規開発 ・大手企業基幹システムの開発（ラボ型開発） ・国内最大級金融機関 サーバー・クラウド基盤の構築プロジェクト ・大手IT商社向け 法人顧客へのITソリューションコンサルティング ・大手自動車メーカー向け 業務システムの企画・要件定義支援  etc... ■ ",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "・プログラミングスクール運営 ・各種コンサルティング事業 ・受託開発事業 ・SES事業 ・人材派遣事業 ・人材紹介事業",
+    "url": "https://best100.v-tsushin.jp/company/bunkle/",
+    "pass": 3
+   },
+   {
+    "label": "事業概要",
+    "value": "Web・AI・IoTといった先端領域のシステム開発をはじめ、プログラミングスクール『Freeks』の運営、キャリア支援サービス『chip career』の運営、HRソリューション事業、カスタマーサクセス事業、スポーツ事業など",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "400名（2026年2月現在） ※グループ全体550名(2026年2月現在)",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "400名（2026年2月現在）\n※グループ全体550名(2026年2月現在)",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "450名（2026年4月現在）※グループ全体600名",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "40億円（2026年2月期実績）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "売上高推移",
+    "value": "40億円(2025年1月期実績) 30億円(2024年1月期実績) 20億円(2023年1月期実績) 15億円(2022年1月期実績) 10億円(2021年1月期実績) 7億円(2020年1月期実績) 2億3,000万円(2019年1月期実績)",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "40億円（2025年1月期実績) 30億円（2024年1月期実績） 20億円（2023年1月期実績）",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "40億円（2025年1月期実績)",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 高橋悠太",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "【PR TIMES掲載】株式会社ABABA様に弊社を紹介いただきました",
+    "url": "https://bunkle.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "人材派遣事業(許認可番号13-314436)",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "有料職業紹介事業(許認可番号13-ユ-311686)",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "新規事業開始 -プログラミングスクール運営-",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "労働者派遣事業許可証獲得 ベストベンチャー 100選出",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "有料職業紹介事業許可証獲得 本社オフィス8階増設",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "著作権法に定められた私的使用の範囲内において使用する場合を除き、事前にBUNKLE株式会社に許諾を得ることなく、無断で転載、複製、改変、公衆送信、翻訳、販売等をすることはできません",
+    "url": "https://bunkle.co.jp/terms-of-service/",
+    "pass": 1
+   },
+   {
+    "quote": "専任のコンサルタントが、求職者のスキルと経験を深くまでヒアリングし、マッチしている案件をご紹介いたします",
+    "url": "https://bunkle.co.jp/products/chip-career/",
+    "pass": 1
+   },
+   {
+    "quote": "企業との繋がりが多いため、個人では見つけられないような優良案件のご紹介が可能です",
+    "url": "https://bunkle.co.jp/products/chip-career/",
+    "pass": 1
+   },
+   {
+    "quote": "3年後に子会社20社・売上100億を目指す急成長企業",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "プログラミングスクール『Freeks』の運営や、キャリア支援サービス『chip career』など、ITを起点に「人の可能性を広げる」多角的な事業を展開しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年に始動した投資事業では、すでに8社への成長投資を実行し、運用先売上は20億円を突破",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■『システムコンサルティング事業』（受託の実績記載）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■ プログラミングスクール『Freeks』の運営・他社導入支援",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・IT業界未経験者・微経験者向けの学習支援サービス『Freeks』を自社で企画・運営",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■挑戦する人と成長企業をつなぐキャリアプラットフォーム『chip career』の運営",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・新規加盟支援に留まらず、導入後の活用支援・売上最大化までを一気通貫でコンサルティング",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・野球用品の企画・製造から販売までを一貫して手がけるスポーツメーカー事業",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・競技現場の声を反映したプロダクト開発・ブランド運営を実施",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "それでも売上40億円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・設立10年で売上40億円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"7年で売上20倍── それは「人」に本気で投資してきた結果です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "わずか2年で8社への成長投資を実行し、運用先の売上合計は20億円を突破",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上20倍という成果は、その哲学が生んだ“通過点”にすぎません",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社運営のプログラミングスクール「Freeks」と連携し、アプリ開発・Web制作・インフラ構築など、現場ニーズに直結したスキルを完全実践型で習得します",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "3年連続売上高前年比が130％以上と急成長中",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "主にIT/webサービスを中心とした多角的な事業運営を行っています",
+    "url": "https://best100.v-tsushin.jp/company/bunkle/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高：40億円（2025年1月期実績)",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   },
+   {
+    "quote": "Web・AI・IoTといった先端領域のシステム開発をはじめ、プログラミングスクール『Freeks』の運営、キャリア支援サービス『chip career』の運営、HRソリューション事業、カスタマーサクセス事業、スポーツ事業など",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   },
+   {
+    "quote": "自社教育機関『BUNKLEカレッジ』の運営",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   },
+   {
+    "quote": "野球特化型SNS「Baselink AI」を開発・運営する株式会社SportsTech Japan（本社：東京都港区、代表取締役：金澤 賢人、以下「当社」）は、BUNKLE株式会社（本社：東京都港区、代表取締役：髙橋 悠太）、株式会社NEOLAB（本社：東京都渋谷区、代表取締役：内田 聖人）、既存株主であるアウルズ・ビジネス・パートナーズ株式会社（本社：東京都港区、代表取締役：向井 健太）、およびエンジェル投資家を引受先とする第三者割当増資を実施したことをお知らせいたします",
+    "url": "https://sportstechjapan.com/posts/weQS5_WP",
+    "pass": 3
+   },
+   {
+    "quote": "今回のラウンドでは、創業初期より伴走いただいているアウルズ・ビジネス・パートナーズに加え、充実した屋内施設とチーム運営ノウハウを持つ「tsuzuki BASE（BUNKLE株式会社）」、そしてプロ野球選手や甲子園球児の指導でも知られる国内最高峰の野球アカデミー「NEOLAB」という、日本の野球指導シーンを牽引する2大アカデミーを株主としてお迎えしました",
+    "url": "https://sportstechjapan.com/posts/weQS5_WP",
+    "pass": 3
+   },
+   {
+    "quote": "SportsTech Japan社が運営する『Baselink AI』には、テクノロジーの力でその常識を変え、誰もがより良い環境で挑戦し、成長できる可能性を感じています",
+    "url": "https://sportstechjapan.com/posts/weQS5_WP",
+    "pass": 3
+   },
+   {
+    "quote": "そして今回、tsuzuki BASEを運営するBUNKLE様、日本の野球指導の最前線を走るNEOLAB様が株主として加わってくださったことは、私たちにとって非常に大きな推進力です",
+    "url": "https://sportstechjapan.com/posts/weQS5_WP",
+    "pass": 3
+   },
+   {
+    "quote": "JICベンチャー・グロース・インベストメンツ、京都iCAPの各運営ファンド",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣・フェムトパートナーズとGxPartnersの各運営ファンド・九州大学",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "ラウンドは、シンガポールのGranite Integral Capitalと、発表で「迅速診断キットの最大手企業の一社」と紹介されるタウンズ（静岡県伊豆の国市）の2社が共同で主導した",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、マサチューセッツ工科大学の資産運用会社であるMIT Investment Management Companyの名前もある（発表自身がそう紹介している）",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "採用マーケティングツール「採用係長」を運営）は、クックビズ（東証グロース・6558）が8月19日の取締役会で連結子会社化を決議した",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "大学の資産運用会社、国立大学法人そのもの、大学系ベンチャーキャピタルが運営するファンド",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "大学系ベンチャーキャピタルが運営するファンド",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "（東京都渋谷区）は、シリーズAの2ndクローズとして第三者割当増資を実施し、引受先にはJICベンチャー・グロース・インベストメンツと、京都大学系の京都iCAPが運営する各ファンドが並んだ",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "（東京都港区）には住友商事のCVC（事業会社の投資子会社）である住商ベンチャー・パートナーズが、製造業向けAIワークフローの",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "この発表はFUNDINNOによるもので、同社が仲介・支援（FA）を担ったとしている",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "（東京都町田市）は、山陰合同銀行グループのごうぎんキャピタルが運営するファンドを引受先に",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "個人向けVCファンドを組成・運営する新興の運用会社が、日本政策金融公庫の「新規開業・スタートアップ支援資金」と、西日本シティ銀行を取扱金融機関とする福岡市の制度融資を使って、創業期の資金を確保した",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "創業11期目にして総社員数600名・売上40億円を突破し、いま第2創業期として100億企業・1000名体制を本気で見据えています",
+    "url": "https://www.wantedly.com/companies/bunkle/about",
+    "pass": 3
+   },
+   {
+    "quote": "ITソリューション事業：エンジニアリソース提供／請負開発／Web制作",
+    "url": "https://www.wantedly.com/companies/bunkle/about",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツマネジメント事業：スポーツ施設運営／スクール事業",
+    "url": "https://www.wantedly.com/companies/bunkle/about",
+    "pass": 3
+   },
+   {
+    "quote": "ショップコンサルティング事業：店舗運営支援・売上最大化サポート",
+    "url": "https://www.wantedly.com/companies/bunkle/about",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "BUNKLEは顧客のIT×教育×環境を最大化させ、",
+    "url": "https://bunkle.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "BUNKLEでは顧客の本質的な企業成長の実現のために、エンジニア職や総合職などさまざまなアプローチ方法で並走し結果にコミットするメンバーを募集しています",
+    "url": "https://bunkle.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「社会・顧客・仲間関わる全ての人にとって”なくてはならない会社”であり続ける」という想いは創業当初から僕の中で変わりません",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客が成長するために必要なものを常に提供し続けてきた当社は、今までは正直に言うと”泥臭く”、”がむしゃらに”といった気持ちだけでやってきたところもありました",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "”第2創業期”は、”泥臭さ”だけでなく、これまでに得た＋αを総動員し、圧倒的な”パワー”と”スピード”、そして”当事者意識”をもって「顧客をいかにグロースさせられるか」にさらに拘っていきますので、大いに期待してくださると嬉しく思います",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都港区三田1-4-1 住友不動産麻布十番ビル 4F",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "本社移転 -東京都港区三田1-4-1 住友不動産麻布十番ビル 4F-",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの新規事業立ち上げをデザインでサポート",
+    "url": "https://bunkle.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "様々な業界や企業規模におけるDX支援と導入実績",
+    "url": "https://bunkle.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "最新技術を駆使し、顧客のビジネス課題に対する実践的なソリューションを提案します",
+    "url": "https://bunkle.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "常に新しい技術動向を捉え、顧客の事業をテクノロジーで支え新たな成長をサポートします",
+    "url": "https://bunkle.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客のニーズを見極め、独自のネットワークとノウハウを活かして最適な人材ソリューションを提供します",
+    "url": "https://bunkle.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "また、独自の教育プログラムにより人材のスキルアップを図り組織の内部資源の強化を目指します",
+    "url": "https://bunkle.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "企業の成長を促す洗練されたオフィスデザインと実用的な設備を提供することで、顧客のビジネス環境を進化させます",
+    "url": "https://bunkle.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客のニーズを丁寧にヒアリングし、知見のある担当者が顧客の発展をサポートする人材を提案します",
+    "url": "https://bunkle.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "独自のノウハウを活かし、迅速なエンジニアのマッチングで顧客のサービスや会社の成長を最大限に引き出します",
+    "url": "https://bunkle.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "長年にわたる豊富な経験と実績が、高品質なサービスを生み出す基盤となり、顧客のニーズに応じた技術提供で事業グロースの一旦を担います",
+    "url": "https://bunkle.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はヒアリングから顧客のニーズを抽出して、市場価値の高い人材ソリューションを提供し、事業拡大の支援をします",
+    "url": "https://bunkle.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の組織戦略を鑑みて、最適な人材を育成・確保するための包括的な支援をいたします",
+    "url": "https://bunkle.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客のニーズを丁寧にヒアリングし、知見のある担当者が顧客の発展をサポートする人材を提案します",
+    "url": "https://bunkle.co.jp/service/%E3%83%86%E3%83%83%E3%82%AF%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "quote": "独自のノウハウを活かし、迅速なエンジニアのマッチングで顧客のサービスや会社の成長を最大限に引き出します",
+    "url": "https://bunkle.co.jp/service/%E3%83%86%E3%83%83%E3%82%AF%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "quote": "長年にわたる豊富な経験と実績が、高品質なサービスを生み出す基盤となり、顧客のニーズに応じた技術提供で事業グロースの一旦を担います",
+    "url": "https://bunkle.co.jp/service/%E8%AB%8B%E8%B2%A0%E9%96%8B%E7%99%BA/",
+    "pass": 1
+   },
+   {
+    "quote": "HP制作｜IT企業のコーポレートサイト制作",
+    "url": "https://bunkle.co.jp/service/web%E5%88%B6%E4%BD%9C/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はヒアリングから顧客のニーズを抽出して、市場価値の高い人材ソリューションを提供し、事業拡大の支援をします",
+    "url": "https://bunkle.co.jp/service/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9-2/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の組織戦略を鑑みて、最適な人材を育成・確保するための包括的な支援をいたします",
+    "url": "https://bunkle.co.jp/service/%E4%BA%BA%E6%9D%90%E8%82%B2%E6%88%90/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの新規事業立ち上げをデザインでサポート",
+    "url": "https://bunkle.co.jp/all-works/",
+    "pass": 1
+   },
+   {
+    "quote": "LP制作｜エネルギーコスト削減のサポートサービス",
+    "url": "https://bunkle.co.jp/all-works/",
+    "pass": 1
+   },
+   {
+    "quote": "HP制作｜IT企業のコーポレートサイト制作",
+    "url": "https://bunkle.co.jp/all-works/",
+    "pass": 1
+   },
+   {
+    "quote": "・東証プライム上場金融企業基幹システム全面刷新プロジェクト",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・東証プライム上場飲料メーカーコーポレートサイトの保守・運用",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・不動産クラウドサービスの開発 etc...",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・東証プライム上場企業大手金融サービス企業 WEBサイトリニューアル・CMS移行開発",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・国内最大級金融機関 サーバー・クラウド基盤の構築プロジェクト",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・大手IT商社向け 法人顧客へのITソリューションコンサルティング",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・大手自動車メーカー向け 業務システムの企画・要件定義支援 etc...",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・企業の育成課題に応じた教育設計・研修運用に関するコンサルティングを実施",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・野球用品の企画・製造から販売までを一貫して手がけるスポーツメーカー事業",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区三田1-4-1 住友不動産麻布十番ビル 4F",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのために、教育・抜擢・挑戦機会に惜しみなくリソースを投じてきました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、教育で芽を育て、抜擢でチャンスを与え、挑戦の場で覚醒させていく──そんなサイクルを意図的に創ってきました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "本社オフィス移転 -東京都港区三田1-4-1 住友不動産麻布十番ビル 4F-",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "学ぶための教育ではなく、“現場で勝てる人材”を育てる実践機関──それがY&Iカレッジです",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "青山学院大学、亜細亜大学、桜美林大学、大阪経済法科大学、大阪産業大学、大妻女子大学、岡山大学、神奈川大学、神田外語大学、近畿大学、久留米大学、慶應義塾大学、神戸大学、神戸学院大学、國學院大學、国士舘大学、駒澤大学、埼玉大学、産業能率大学、順天堂大学、城西大学、城西国際大学、上武大学、成蹊大学、成城大学、専修大学、創価大学、大正大学、大東文化大学、拓殖大学、千葉大学、千葉工業大学、千葉商科大学、中央大学、帝京大学、帝京平成大学、東海大学、東京国際大学、東京農業大学、東京理科大学、東北芸術工科大学、東洋大学、獨協大学、新潟大学、二松学舎大学、日本大学、日本体育大学、文教大学、法政大学、北海道大学、武蔵大学、武蔵野大学、明治大学、明治学院大学、目白大学、山梨学院大学、横浜国立大学、立正大学、立命館大学、流通経済大学（茨城）、流通経済大学（千葉）、早稲田大学",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "国際情報工科自動車大学校、東京電子専門学校、船橋情報ビジネス専門学校",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "〒108-0073 東京都港区三田一丁目4番1号 住友不動産麻布十番ビル4階",
+    "url": "https://best100.v-tsushin.jp/company/bunkle/",
+    "pass": 3
+   },
+   {
+    "quote": "我々は大手企業でもメーカーでもなく、人々の利便性を増すサービスもまだ生み出せていません",
+    "url": "https://best100.v-tsushin.jp/company/bunkle/",
+    "pass": 3
+   },
+   {
+    "quote": "滋賀県信用農業協同組合連合会【JAバンク滋賀信連】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区三田一丁目4番1号 住友不動産麻布十番ビル4階",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   },
+   {
+    "quote": "自社教育機関『BUNKLEカレッジ』の運営",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   },
+   {
+    "quote": "日本政策金融公庫・西日本シティ銀行（融資）",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "融資の借入先も具体的で、常陽銀行、東日本銀行、北洋銀行、北國銀行、名古屋銀行の5行と日本政策金融公庫の名前が挙がっている",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "5つの銀行が同じスタートアップの貸し手として1つの発表に並ぶ",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "今回の資金は米国でのR&D体制とプロダクトローンチ、国内ではすい臓がん向け医療機器プログラムの薬事承認に充てると説明する",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役の河邑亮太氏について、会社サイトは、三井物産で南米チリの自動車金融会社の社長補佐兼CFOとM&A投資を経験し、2019年からAIスタートアップの代表を務めたとしている",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "買収と企業金融の実務経験を持つ創業者であることは、会社自身が示している",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "（東京都港区）には住友商事のCVC（事業会社の投資子会社）である住商ベンチャー・パートナーズが、製造業向けAIワークフローの",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "全身スキャン×AIの予防医療「AI Dock」を始めた",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "（東京都町田市）は、山陰合同銀行グループのごうぎんキャピタルが運営するファンドを引受先に",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "札幌では、建設業向けに外国人材の採用・定着支援を行う",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "に、同じ札幌で建設・不動産など多様な事業を展開するグループの持株会社SOUSHINホールディングスが出資した",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   }
+  ],
+  "選出の記録": [
+   {
+    "quote": "7年連続ベストベンチャー100選出",
+    "url": "https://bunkle.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "労働者派遣事業許可証獲得 ベストベンチャー 100選出",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2年連続 ベストベンチャー 100選出",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "3年連続 ベストベンチャー 100選出",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "5年連続ベストベンチャー100選出",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "6年連続ベストベンチャー100選出",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ベストベンチャー 100選出",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "6年連続ベストベンチャー100選出",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "BUNKLE株式会社 髙橋 悠太 | ベストベンチャー100",
+    "url": "https://best100.v-tsushin.jp/company/bunkle/",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "「中小企業からニッポンを元気にプロジェクト」に参画",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "LP制作｜BtoB向け フードデリバリーサービス",
+    "url": "https://bunkle.co.jp/all-works/",
+    "pass": 1
+   },
+   {
+    "quote": "・大手通信グループ法人向け固定回線サービスのカスタマーサクセス業務",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・大手企業基幹システムの開発（ラボ型開発）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「中小企業からニッポンを元気にプロジェクト」に参画",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "我々は大手企業でもメーカーでもなく、人々の利便性を増すサービスもまだ生み出せていません",
+    "url": "https://best100.v-tsushin.jp/company/bunkle/",
+    "pass": 3
+   },
+   {
+    "quote": "で、約90.4億円という合計は、がんの早期発見に取り組むCraif（約53億円）と、中小企業の事業承継を掲げるHinoki（約31億円）の2件に大きく押し上げられている",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "ラウンドは、シンガポールのGranite Integral Capitalと、発表で「迅速診断キットの最大手企業の一社」と紹介されるタウンズ（静岡県伊豆の国市）の2社が共同で主導した",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "事業は「中小企業の連続的な譲受及び譲受企業の経営支援」",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "後継者のいない中小企業を連続して譲り受け、売却せず保有し続けることを前提に経営を引き継ぐモデルで、調達した資金はその譲受の原資になる",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "個人向けVCファンドを組成・運営する新興の運用会社が、日本政策金融公庫の「新規開業・スタートアップ支援資金」と、西日本シティ銀行を取扱金融機関とする福岡市の制度融資を使って、創業期の資金を確保した",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業のように縦割りでスピードを失うこともなく、",
+    "url": "https://www.wantedly.com/companies/bunkle/about",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "5,000万円（※グループ資本金等1億6,850万円）",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金5000万円 (※グループ資本金等1億6850万円)",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "3年後に子会社20社・売上100億を目指す急成長企業",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ITを起点に、コンサル・PM・事業責任者・子会社経営まで挑戦可能な環境",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "全国に支社を展開し、子会社の設立も進むなど、企業として次のステージに進化しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・東証プライム上場金融企業基幹システム全面刷新プロジェクト",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・東証プライム上場飲料メーカーコーポレートサイトの保守・運用",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・東証プライム上場企業大手金融サービス企業 WEBサイトリニューアル・CMS移行開発",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・東証プライム上場企業カード会社 クレジット決済システムの新規開発",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2029年・年商100億円、子会社20社体制という未来も──その延長線上にあると、私たちは本気で信じています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "BOS (株)設立（当社100％出資）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "B&B (株)（当社100％出資）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "tsuzuki BASE (株)（当社100％出資）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "YIG Solution (株)設立（当社100％出資）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "Goistech (株)設立（当社100％出資）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ひと創研 (株)設立（当社100％出資）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダイニチ工業(株)【東証スタンダード上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "旭情報サービス(株)【東証スタンダード市場上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金：5000万円 (※グループ資本金等1億6850万円)",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   },
+   {
+    "quote": "5000万円 (※グループ資本金等1億6850万円)",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   },
+   {
+    "quote": "野球特化型SNS「Baselink AI」を提供するSportsTech Japanが、BUNKLE、NEOLAB、アウルズ・ビジネス・パートナーズなどから資金調達を実施",
+    "url": "https://sportstechjapan.com/posts/weQS5_WP",
+    "pass": 3
+   },
+   {
+    "quote": "野球特化型SNS「Baselink AI」を開発・運営する株式会社SportsTech Japan（本社：東京都港区、代表取締役：金澤 賢人、以下「当社」）は、BUNKLE株式会社（本社：東京都港区、代表取締役：髙橋 悠太）、株式会社NEOLAB（本社：東京都渋谷区、代表取締役：内田 聖人）、既存株主であるアウルズ・ビジネス・パートナーズ株式会社（本社：東京都港区、代表取締役：向井 健太）、およびエンジェル投資家を引受先とする第三者割当増資を実施したことをお知らせいたします",
+    "url": "https://sportstechjapan.com/posts/weQS5_WP",
+    "pass": 3
+   },
+   {
+    "quote": "今回の資金調達を通じて、SNS機能およびAI言語化サポート基盤の強化を図るとともに、参画いただいた国内トップクラスの野球アカデミー・指導現場との強力なパートナーシップにより、「オンラインコミュニティ×リアル指導」を融合した次世代の野球育成環境を創出してまいります",
+    "url": "https://sportstechjapan.com/posts/weQS5_WP",
+    "pass": 3
+   },
+   {
+    "quote": "今回のラウンドでは、創業初期より伴走いただいているアウルズ・ビジネス・パートナーズに加え、充実した屋内施設とチーム運営ノウハウを持つ「tsuzuki BASE（BUNKLE株式会社）」、そしてプロ野球選手や甲子園球児の指導でも知られる国内最高峰の野球アカデミー「NEOLAB」という、日本の野球指導シーンを牽引する2大アカデミーを株主としてお迎えしました",
+    "url": "https://sportstechjapan.com/posts/weQS5_WP",
+    "pass": 3
+   },
+   {
+    "quote": "今回の出資は、単なる事業への投資ではなく、スポーツの未来への投資です",
+    "url": "https://sportstechjapan.com/posts/weQS5_WP",
+    "pass": 3
+   },
+   {
+    "quote": "「前回の出資以降、『Baselink AI』は国内唯一の野球特化型SNSとしてわずか3か月で1万ユーザーを突破するなど、市場のニーズを的確に捉えて目覚ましい成長を遂げています",
+    "url": "https://sportstechjapan.com/posts/weQS5_WP",
+    "pass": 3
+   },
+   {
+    "quote": "そして今回、tsuzuki BASEを運営するBUNKLE様、日本の野球指導の最前線を走るNEOLAB様が株主として加わってくださったことは、私たちにとって非常に大きな推進力です",
+    "url": "https://sportstechjapan.com/posts/weQS5_WP",
+    "pass": 3
+   },
+   {
+    "quote": "先週の資金調達（2026年8月15日〜8月21日）— 公表額の9割が2件に、がんの早期発見と会社の後継ぎへ",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "先週（2026年8月15日〜8月21日）に新たに確認できた、未上場企業の資金調達に関する発表は",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "Craifの53億円は、概算で増資39億円、融資5億円、既存株主の持ち株売却分（セカンダリー取引）9億円に分かれる",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "この9億円は会社ではなく売った株主に入る",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズD（出資・融資・セカンダリー含む総額）",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "53億円の内訳は、増資39億・融資5億・既存株主への9億",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "この53億円は、第三者割当増資だけの数字ではない",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "出資・融資・セカンダリー取引を含むラウンド総額",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "だと明示したうえで、内訳も「第三者割当増資及びセカンダリー取引：約48億円」「融資：5億円」と書いている",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "さらに本文には、既存株主（事業会社）の一部持分の譲渡がセカンダリー取引として約9億円あったとある",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "セカンダリー取引は、会社が新しく発行する株ではなく既存株主が持つ株を別の投資家へ売る取引で、代金は会社ではなく売った株主に入る",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "第三者割当増資による約39億円と融資の5億円が会社に、セカンダリーの約9億円が既存株主に入る",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "「53億円調達」という1つの見出しの中に、会社の資本、借入、株主の出口が同居している",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "この2社を含む計7社と個人投資家が、第三者割当増資の引受先に並んだ",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来の調達累計は約142億円（出資・融資・助成金の合計）と発表している",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "（東京都渋谷区）は、第三者割当増資により総額約31億円を調達したと発表した",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "案件ごとに資金調達するのではなく、先に31億円の資本基盤を作った",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "31億円の払込に伴う資本金の増加は、8月21日時点の受付記録にはまだ現れていない",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "増資を併用した子会社化が、2件あった",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "今週は、第三者割当増資が単独の成長資金ではなく、",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業による子会社化の一部として使われた発表",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "どちらも上場企業側の適時開示で内容が細かく分かる",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "（名古屋市、1941年創業の製本会社）について、日本創発グループ（東証スタンダード・7814）が子会社化を決議した",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "既存株主からの譲受けは300株にとどまる（その対価は個別に開示されていない）",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "採用マーケティングツール「採用係長」を運営）は、クックビズ（東証グロース・6558）が8月19日の取締役会で連結子会社化を決議した",
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "pass": 3
+   },
+   {
+    "quote": "(株)ソフトウェア・サービス【東証スタンダード上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "COMPANY 会社概要 - BUNKLE株式会社 — COMPANY 会社概要 - BUNKLE株式会社 bunkle.co.jp https://bunkle.co.jp > company",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "BUNKLE (株)【旧社名：Y＆I Group(株)】の新卒採用・ 会社概要 — BUNKLE (株)【旧社名：Y＆I Group(株)】の新卒採用・ 会社概要 マイナビ https://job.mynavi.jp > search > corp264576 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "BUNKLE 株式 会社 髙橋 悠太 - ベストベンチャー100 — BUNKLE 株式 会社 髙橋 悠太 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > bunkle",
+    "url": "https://best100.v-tsushin.jp/company/bunkle/",
+    "pass": 3
+   },
+   {
+    "quote": "BUNKLE 株式 会社 （128502）の転職・求人情報 — BUNKLE 株式 会社 （128502）の転職・求人情報 エン転職 https://employment.en-japan.com > 会社名一覧",
+    "url": "https://employment.en-japan.com/comp-128502/",
+    "pass": 3
+   },
+   {
+    "quote": "BUNKLE （旧：Y＆I Group）の新卒採用・就職・ 会社概要 と ... — BUNKLE （旧：Y＆I Group）の新卒採用・就職・ 会社概要 と ... ワンキャリア https://www.onecareer.jp > companies",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   },
+   {
+    "quote": "BUNKLE (株)【旧社名：Y＆I Group(株)】の新卒採用・会社概要 — BUNKLE (株)【旧社名：Y＆I Group(株)】の新卒採用・会社概要 マイナビ https://job.mynavi.jp > search > corp264576 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "COMPANY会社概要 - BUNKLE株式会社 — COMPANY会社概要 - BUNKLE株式会社 bunkle.co.jp https://bunkle.co.jp > company",
+    "url": "https://bunkle.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "BUNKLE （旧：Y＆I Group）の新卒採用・就職・会社概要と ... — BUNKLE （旧：Y＆I Group）の新卒採用・就職・会社概要と ... ワンキャリア https://www.onecareer.jp > companies",
+    "url": "https://www.onecareer.jp/companies/90907",
+    "pass": 3
+   },
+   {
+    "quote": "BUNKLE 株式会社の 事業 とカルチャー - Wantedly — BUNKLE 株式会社の 事業 とカルチャー - Wantedly Wantedly https://www.wantedly.com > ... > BUNKLE株式会社",
+    "url": "https://www.wantedly.com/companies/bunkle/about",
+    "pass": 3
+   },
+   {
+    "quote": "BUNKLE の業績・ 売上 ・ 事業 の将来性と成長性の口コミ — BUNKLE の業績・ 売上 ・ 事業 の将来性と成長性の口コミ 転職会議 https://jobtalk.jp > companies > answers",
+    "url": "https://jobtalk.jp/companies/9151231/answers/9104182",
+    "pass": 3
+   },
+   {
+    "quote": "BUNKLE 株式会社の事業とカルチャー - Wantedly — BUNKLE 株式会社の事業とカルチャー - Wantedly Wantedly https://www.wantedly.com > ... > BUNKLE株式会社",
+    "url": "https://www.wantedly.com/companies/bunkle/about",
+    "pass": 3
+   },
+   {
+    "quote": "BUNKLE 株式会社 — BUNKLE 株式会社 bunkle.co.jp https://bunkle.co.jp",
+    "url": "https://bunkle.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "BUNKLE (株)【旧社名：Y＆I Group(株)】の採用データ — BUNKLE (株)【旧社名：Y＆I Group(株)】の採用データ マイナビ https://job.mynavi.jp > corp264576 > recruiting_course",
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/recruiting_course27061334/recruiting_course.html?func=corpinfo",
+    "pass": 3
+   },
+   {
+    "quote": "BUNKLE GROUP (@bunkle_group) - Instagram — BUNKLE GROUP (@bunkle_group) - Instagram Instagram https://www.instagram.com > bunkle_group",
+    "url": "https://www.instagram.com/bunkle_group/",
+    "pass": 3
+   },
+   {
+    "quote": "BUNKLE 株式会社 髙橋 悠太 - ベストベンチャー100 — BUNKLE 株式会社 髙橋 悠太 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > bunkle",
+    "url": "https://best100.v-tsushin.jp/company/bunkle/",
+    "pass": 3
+   },
+   {
+    "quote": "BUNKLE （旧：Y&I Group株式会社） 「企業分析」 OpenWork — BUNKLE （旧：Y&I Group株式会社） 「企業分析」 OpenWork OpenWork https://www.openwork.jp > analysis",
+    "url": "https://www.openwork.jp/a0C100000183U0R/analysis/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "本社移転のお知らせ｜YIGsolution株式会社 Jul 21, 2026 · また、7月1日より、 親会社であるY&I GroupはBUNKLE株式会社に社名変更をいたしますのでお知らせいたします。 事業の成長に合わせて、より働きやすく、挑戦しやすい環境をつくるための一歩です。",
+    "url": "https://note.com/yigsolution/n/n954390826ea1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "本社移転のお知らせ｜YIGsolution株式会社",
+    "url": "https://note.com/yigsolution/n/n954390826ea1",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは！YIG solution株式会社 人事部 吉澤です。",
+    "url": "https://note.com/yigsolution/n/n954390826ea1",
+    "pass": 3
+   },
+   {
+    "quote": "いつも弊社のnoteをご覧いただき、ありがとうございます☺️",
+    "url": "https://note.com/yigsolution/n/n954390826ea1",
+    "pass": 3
+   },
+   {
+    "quote": "本日は皆様にご報告があり執筆をしております。",
+    "url": "https://note.com/yigsolution/n/n954390826ea1",
+    "pass": 3
+   },
+   {
+    "quote": "このたび弊社は、2026年7月1日をもって、本社を移転いたしました。",
+    "url": "https://note.com/yigsolution/n/n954390826ea1",
+    "pass": 3
+   },
+   {
+    "quote": "創業からたくさんの方々とのご縁に支えられ、おかげさまで8月より6期目を迎えます。",
+    "url": "https://note.com/yigsolution/n/n954390826ea1",
+    "pass": 3
+   },
+   {
+    "quote": "ここまで歩んでこられたのは、お取引先の皆さま、社員の皆さま、そして日頃から応援してくださる皆さまのおかげです。心より感謝申し上げます。",
+    "url": "https://note.com/yigsolution/n/n954390826ea1",
+    "pass": 3
+   },
+   {
+    "quote": "今回の移転は、グループ会社間のシナジー創出および、社員の皆さまにとってより働きやすい環境づくりを目的としております。",
+    "url": "https://note.com/yigsolution/n/n954390826ea1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "RBSL on X: \"Last week, we welcomed Maj Gen Owen Bunkle ... RBSL on X: \"Last week, we welcomed Maj Gen Owen Bunkle ... X https://x.com > @RH_BAES_Land",
+    "url": "https://x.com/RH_BAES_Land/status/2025904856498647541",
+    "pass": 3
+   },
+   {
+    "quote": "BUNKLE GROUP (@YIGroupinc1) / X BUNKLE GROUP (@YIGroupinc1) / X X https://x.com > YIGroupinc1",
+    "url": "https://x.com/YIGroupinc1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "David Bunkle - Partner at Aon - LinkedIn David Bunkle - Partner at Aon - LinkedIn LinkedIn https://uk.linkedin.com > david-bunkl...",
+    "url": "https://uk.linkedin.com/in/david-bunkle-54754244",
+    "pass": 3
+   },
+   {
+    "quote": "STEVE BUNKLE - Technical Support Manager - LinkedIn STEVE BUNKLE - Technical Support Manager - LinkedIn LinkedIn https://uk.linkedin.com > steve-bunkl...",
+    "url": "https://uk.linkedin.com/in/steve-bunkle-93a62869",
+    "pass": 3
+   },
+   {
+    "quote": "Owen Bunkle - Army Officer - LinkedIn Owen Bunkle - Army Officer - LinkedIn LinkedIn https://uk.linkedin.com > owenbunkle",
+    "url": "https://uk.linkedin.com/in/owenbunkle",
+    "pass": 3
+   },
+   {
+    "quote": "Mark Bunkle - Television Production Executive - LinkedIn Mark Bunkle - Television Production Executive - LinkedIn LinkedIn https://uk.linkedin.com > mark-bunkle",
+    "url": "https://uk.linkedin.com/in/mark-bunkle",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Wendy Bunkle (@wendywoo666) - Facebook Wendy Bunkle (@wendywoo666) - Facebook Facebook https://www.facebook.com > wendywoo666",
+    "url": "https://www.facebook.com/wendywoo666/",
+    "pass": 3
+   },
+   {
+    "quote": "Hayley Bunkle - Facebook Hayley Bunkle - Facebook Facebook https://www.facebook.com > hayley.bunkle",
+    "url": "https://www.facebook.com/hayley.bunkle/",
+    "pass": 3
+   },
+   {
+    "quote": "Happy birthday to our 4-year-old beagle, Bubba Bunkle ! Happy birthday to our 4-year-old beagle, Bubba Bunkle ! Facebook https://www.facebook.com > beagleownersclub > posts",
+    "url": "https://www.facebook.com/groups/beagleownersclub/posts/1851929549492692/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://bunkle.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bunkle.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bunkle.co.jp/works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bunkle.co.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bunkle.co.jp/service/%E3%83%86%E3%83%83%E3%82%AF%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bunkle.co.jp/service/%E8%AB%8B%E8%B2%A0%E9%96%8B%E7%99%BA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bunkle.co.jp/service/web%E5%88%B6%E4%BD%9C/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bunkle.co.jp/service/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bunkle.co.jp/service/%E4%BA%BA%E6%9D%90%E8%82%B2%E6%88%90/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bunkle.co.jp/service/%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E8%A8%AD%E5%82%99%E6%94%AF%E6%8F%B4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bunkle.co.jp/service/%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bunkle.co.jp/terms-of-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bunkle.co.jp/products/chip-career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bunkle.co.jp/all-works/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://best100.v-tsushin.jp/company/bunkle/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onecareer.jp/companies/90907",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sportstechjapan.com/posts/weQS5_WP",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://andpad.co.jp/news/1380/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/bunkle/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reskillingcamp.jp/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/bunkle/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yigsolution/n/n954390826ea1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/RH_BAES_Land/status/2025904856498647541",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/YIGroupinc1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/david-bunkle-54754244",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/steve-bunkle-93a62869",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/owenbunkle",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/mark-bunkle",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/wendywoo666/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hayley.bunkle/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/beagleownersclub/posts/1851929549492692/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "BUNKLE 会社概要 資本金 設立",
+   "results": [
+    "https://bunkle.co.jp/company/",
+    "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "https://best100.v-tsushin.jp/company/bunkle/",
+    "https://employment.en-japan.com/comp-128502/",
+    "https://www.onecareer.jp/companies/90907",
+    "https://www.openwork.jp/a0C100000183U0R/analysis/",
+    "https://www.wantedly.com/companies/bunkle/about",
+    "https://compalyze.co.jp/company/2010001177768",
+    "https://tenshoku.mynavi.jp/company/472372/",
+    "https://job.mynavi.jp/28/pc/search/corp264576/outline.html"
+   ]
+  },
+  {
+   "query": "BUNKLE 事業内容 売上",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "https://bunkle.co.jp/company/",
+    "https://www.onecareer.jp/companies/90907",
+    "https://www.wantedly.com/companies/bunkle/about",
+    "https://jobtalk.jp/companies/9151231/answers/9104182",
+    "https://best100.v-tsushin.jp/company/bunkle/",
+    "https://www.openwork.jp/company.php?m_id=a0C100000183U0R",
+    "https://employment.en-japan.com/comp-128502/",
+    "https://baseconnect.in/companies/33f2cc70-96ff-4cf7-816d-88361c0c195e",
+    "https://job.mynavi.jp/28/pc/search/corp264576/outline.html"
+   ]
+  },
+  {
+   "query": "BUNKLE 資金調達 株主",
+   "results": [
+    "https://sportstechjapan.com/posts/weQS5_WP",
+    "https://andpad.co.jp/news/1380/",
+    "https://compalyze.co.jp/journal/weekly-funding-20260815",
+    "https://fundinno.com/about_company",
+    "https://adv.tokyo-np.co.jp/prtimes/article192186/",
+    "https://www.nikkei.com/article/DGXZQOUC129680S6A310C2000000/",
+    "https://www.ey.com/ja_jp/technical/ipo/ipo-insights/basic/ipo-insights-basic-2022-05",
+    "https://www.forstartups.com/news/financing-ranking-20210114",
+    "https://initial.inc/companies/A-39612",
+    "https://bunkle.co.jp/"
+   ]
+  },
+  {
+   "query": "BUNKLE 導入事例",
+   "results": [
+    "https://www.wantedly.com/companies/bunkle/about",
+    "https://bunkle.co.jp/",
+    "https://www.reskillingcamp.jp/case",
+    "https://job.mynavi.jp/27/pc/search/corp264576/recruiting_course27061334/recruiting_course.html?func=corpinfo",
+    "https://www.instagram.com/bunkle_group/",
+    "https://www.openwork.jp/a0C100000183U0R/analysis/",
+    "https://jp.findy-team.io/cases/",
+    "https://www.techvan.co.jp/casestudy/",
+    "https://insight-lab.co.jp/resultlist/",
+    "https://prtimes.jp/main/html/rd/p/000000148.000068609.html"
+   ]
+  },
+  {
+   "query": "BUNKLE 主要取引先",
+   "results": [
+    "https://bunkle.co.jp/company/",
+    "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "https://www.wantedly.com/companies/bunkle/about",
+    "https://best100.v-tsushin.jp/company/bunkle/",
+    "https://www.openwork.jp/a0C100000183U0R/analysis/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10172538991/",
+    "https://www.onecareer.jp/companies/90907",
+    "https://en-hyouban.com/company/10200169810/",
+    "https://www.instagram.com/bunkle_group/"
+   ]
+  },
+  {
+   "query": "site:note.com BUNKLE",
+   "results": [
+    "https://note.com/yigsolution/n/n954390826ea1?hl=en",
+    "https://note.com/wet_shaving_lab/n/na6134556551a",
+    "https://note.com/maxdmoore_2025/n/nca3fbf72e4ec",
+    "https://note.com/yigsolution/n/n954390826ea1",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d",
+    "https://note.com/hirasawa_susumu/n/n13f1a23484be",
+    "https://note.com/numata_27/n/nc1918d1a0330",
+    "https://note.com/daiki1979/n/na3f36c87cca0"
+   ]
+  },
+  {
+   "query": "site:x.com BUNKLE",
+   "results": [
+    "https://x.com/RH_BAES_Land/status/2025904856498647541",
+    "https://x.com/YIGroupinc1",
+    "https://x.com/grunklestunkle",
+    "https://x.com/_AlexHirsch/status/1841696753382248901",
+    "https://x.com/forever_gf618/status/1841725694419603678",
+    "https://x.com/ToonHive/status/2104064688505958689",
+    "https://x.com/friedginoo/status/2044029601698197557",
+    "https://x.com/box_a_spinners/status/2115242433835659733",
+    "https://x.com/_AlexHirsch/status/1840798619068444821",
+    "https://x.com/azurimira/status/1842352539557413021"
+   ]
+  },
+  {
+   "query": "site:linkedin.com BUNKLE",
+   "results": [
+    "https://uk.linkedin.com/in/david-bunkle-54754244",
+    "https://uk.linkedin.com/in/steve-bunkle-93a62869",
+    "https://uk.linkedin.com/in/owenbunkle",
+    "https://uk.linkedin.com/in/mark-bunkle",
+    "https://www.linkedin.com/in/beebo-and-bunkle-5094ab269",
+    "https://uk.linkedin.com/in/cheryl-bunkle-0b103023",
+    "https://uk.linkedin.com/in/steve-bunkle-88239668",
+    "https://uk.linkedin.com/in/gemma-bunkle-aatqb-2204074b",
+    "https://www.linkedin.com/posts/rbsl_telford-skills-challenger3-activity-7431669411448655873-afbl",
+    "https://www.linkedin.com/pub/dir/+/Bunkle"
+   ]
+  },
+  {
+   "query": "site:facebook.com BUNKLE",
+   "results": [
+    "https://www.facebook.com/wendywoo666/",
+    "https://www.facebook.com/hayley.bunkle/",
+    "https://www.facebook.com/groups/beagleownersclub/posts/1851929549492692/",
+    "https://www.facebook.com/Sommediapublicnews/videos/european-leaders-have-reiterated-their-support-for-ukraine-in-a-meeting-with-pre/1808843453651486/",
+    "https://www.facebook.com/craig.bunkle/",
+    "https://www.facebook.com/phillida.bunkle/",
+    "https://www.facebook.com/groups/5668319929882800/posts/9053286631386096/",
+    "https://www.facebook.com/groups/553218763650469/posts/1085650733740600/",
+    "https://www.facebook.com/groups/fjrowners/posts/10166622569630367/",
+    "https://www.facebook.com/groups/521730235044856/posts/2251399128744616/"
+   ]
+  },
+  {
+   "query": "BUNKLE note 社長",
+   "results": [
+    "https://bunkle.co.jp/news-list/yig%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%80%8C%E4%BA%BA%E8%B2%A1%E5%8A%9B%E3%80%8D%E6%8E%B2%E8%BC%89%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "https://www.wantedly.com/companies/bunkle/post_articles/1081570",
+    "https://www.openwork.jp/a0C100000183U0R/analysis/",
+    "https://job.mynavi.jp/27/pc/search/corp264576/outline.html",
+    "https://note.com/hyakkei2025",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://www.instagram.com/bunkle_group/",
+    "https://employment.en-japan.com/comp-128502/",
+    "https://best100.v-tsushin.jp/company/bunkle/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "BUNKLE X 投稿",
+   "results": [
+    "https://x.com/grunklestunkle",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C100000183U0R",
+    "https://www.instagram.com/bunkle_group/",
+    "https://genius.com/Bumr-grunkle-stunkle-wins-the-funkle-bunkle-lyrics",
+    "https://www.urbandictionary.com/define.php?term=Bunkle",
+    "https://tenshoku.mynavi.jp/company/472372/",
+    "https://www.wantedly.com/projects/332963",
+    "https://bunkle.co.jp/",
+    "https://x.com/agiatTM/status/2106313763561566430",
+    "https://x.com/bunkle_m/status/1105009840848433152"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部21頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部21頁・検索11回）"
+ }
+}

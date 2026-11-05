@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・61品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・63品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3636,3 +3636,178 @@
   - 「的な人手不足に対応するための省力化・効率化投」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
   - 「正規雇用は、人手不足感の強い情報通信や医療・」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
   - 「不足感をみても、人手不足感の強い水準で横ばい」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+
+## 工業統計 産業細分類別 従業者規模別 加工賃収入額 Excel（e-Stat の統計表ファイル・自動車工業会など別の団体を除く・4-38）（census of manufactures detailed industry employee size processing fee revenue excel e-Stat）
+- 文脈：全体・統計
+- 事業所数・社数：
+  - 「2．従業者規模別統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「事業所数、事業所敷地面積及び１日当たり水源別用水量」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「（1）産業細分類別事業所数、従業者数、製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「（2）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生：２０２０年工業統計表 産業別統計表 1200」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び：２０２０年工業統計表 産業別統計表 1300」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「INDEX：２．従業者規模別統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品：２０２０年工業統計表 産業別統計表 2200」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「（産業中分類別の事業所数、在庫額、有形固定資産額） (3) Stati：２０２０年工業統計表 産業別統計表 2300」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「INDEX：（２）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等 (2) Statisti：２０２０年工業統計表 産業別統計表 5200」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「留意事項：○ 事業所数、従業者数については令和2(2020)年6月1日現在、現金給与総額、製造品出荷額等、付加価値額などの経理事項については平成31(2019)年1月～令和元(2019)年12月の実績により調査している」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：産業分類 事業所数 従業者数 現金給与」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「目次：第１表 時系列表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、付加価値額、製造品年末在庫額、有形固定資産投資総額）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「目次：第２表 産業中分類別 事業所数（従業者４人以上の事業所）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+- 社員数・平均社員数：
+  - 「（1）従業者4人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「（2）従業者30人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「（3）従業者4～29人の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「（2）従業者4人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「（3）従業者30人の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「従業者４人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「従業者30人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「推計による従業者３人以下の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「（1）産業細分類別事業所数、従業者数、製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「（2）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「INDEX：（２）従業者３０人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生：２０２０年工業統計表 産業別統計表 1200」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「INDEX：（３）従業者４～２９人の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び：２０２０年工業統計表 産業別統計表 1300」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「INDEX：（２）従業者４人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+- 受注金額・加工賃収入：
+  - 「（1）産業細分類別事業所数、従業者数、製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「（2）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生：２０２０年工業統計表 産業別統計表 1200」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び：２０２０年工業統計表 産業別統計表 1300」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「INDEX：（２）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等 (2) Statisti：２０２０年工業統計表 産業別統計表 5200」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「留意事項：○ 事業所数、従業者数については令和2(2020)年6月1日現在、現金給与総額、製造品出荷額等、付加価値額などの経理事項については平成31(2019)年1月～令和元(2019)年12月の実績により調査している」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：年次 （人） （百万円） （百万円） （百万円） （百万円）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「目次：第１表 時系列表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、付加価値額、製造品年末在庫額、有形固定資産投資総額）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「目次：第６表 〃 製造品出荷額等（ 〃 ）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「目次：第17表 〃 製造品出荷額等（ 〃 ）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「目次：第22表 〃 製造品出荷額等（ 〃 ）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「目次：第24表 製造品出荷額等の都道府県別順位及び主要産業の概況（ 〃 ）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「目次：第26表 〃 製造品出荷額等（ 〃 ）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「利用上の注意：(4) 製造品出荷額等 ＝ 製造品出荷額 ＋ 製造工程から出たくず及び廃物の出荷額＋ 加工賃収入額 ＋ その他収入額（転売収入、修理料収入等）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+- 1人あたり・1社あたり金額：
+  - 「留意事項：○ 事業所数、従業者数については令和2(2020)年6月1日現在、現金給与総額、製造品出荷額等、付加価値額などの経理事項については平成31(2019)年1月～令和元(2019)年12月の実績により調査している」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：年次 （人） （百万円） （百万円） （百万円） （百万円）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「目次：第１表 時系列表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、付加価値額、製造品年末在庫額、有形固定資産投資総額）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「目次：第７表 〃 付加価値額（ 〃 ）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「目次：第18表 〃 付加価値額（ 〃 ）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「目次：第23表 〃 付加価値額（ 〃 ）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「目次：第27表 〃 付加価値額（ 〃 ）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「利用上の注意：(5) 付加価値額 ＝ 製造品出荷額等 ＋（製造品年末在庫額 － 製造品年初在庫額）＋（半製品及び仕掛品年末価額 － 半製品及び仕掛品年初価額）－ （推計酒税、たばこ税、揮発油税及び地方揮発油税額 ＋ 推計消費税額）－ 原材料使用額等 － 減価償却額」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「利用上の注意：(6) 粗付加価値額 ＝ 製造品出荷額等－（推計酒税、たばこ税、揮発油税及び地方揮発油税額 ＋ 推計消費税額）－ 原材料使用額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「第1表：<< 事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、付加価値額、」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「第1表：（百万円） （％） （百万円） （％） （百万円） （％）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「第1表：注1：付加価値額で、従業者4～29人の事業所については粗付加価値額である」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「第2～7表：産 業 （百万円） （％） （％） （百万円） （％） （％）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「第2～7表：第７表 産業中分類別 付加価値額」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+- 生産能力・設備：
+  - 「（産業中分類別の事業所数、在庫額、有形固定資産額） (3) Stati：２０２０年工業統計表 産業別統計表 2300」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「目次：第１表 時系列表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、付加価値額、製造品年末在庫額、有形固定資産投資総額）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「目次：第12表 〃 有形固定資産投資総額（ 〃 ）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「目次：第19表 〃 有形固定資産投資総額（従業者３０人以上の事業所）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「利用上の注意：(7) 有形固定資産投資総額 ＝ 土地の取得額 ＋ 有形固定資産(土地を除く)の取得額＋ 建設仮勘定の年間増減」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「第1表：年 次 付 加 価 値 額 製造品年末在庫額 有形固定資産投資総額」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「第1表：注2：有形固定資産投資総額には建設仮勘定の増減を含む」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「第8～12表：第１２表 産業中分類別 有形固定資産投資総額」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「第19表：第１９表 従業者規模別 有形固定資産投資総額」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+  - 「第19表：従 業 者 規 模 有形固定資産投資総額」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+- 10年推移：
+  - 「最終更新日：2021.08.13」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「INDEX：２０２０年工業統計表 産業別統計表 Report by Industry of the 2020 Census」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「INDEX：令和3(2021)年 8月13日公表 2021/8/13」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「留意事項：○ 事業所数、従業者数については令和2(2020)年6月1日現在、現金給与総額、製造品出荷額等、付加価値額などの経理事項については平成31(2019)年1月～令和元(2019)年12月の実績により調査している」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「留意事項：○ 時系列表中の平成27（2015）年における数値は、「平成28年経済センサス-活動調査 製造業（総務省・経済産業省）」の調査結果のうち、工業統計調査の調査範囲に合わせるため、以下の全てに該当する製造事業所について集計したものであり、斜体で表章してある」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：2020年工業統計表 産業別統計表データ 令和3(2021)年8月13日掲載」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：※ 2015年の数値（斜体部分）については、平成28年経済センサス－活動調査 製造業（産業編）（総務省・経済産業省）から転載した」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：製造業計：2020年工業統計表 産業別統計表データ 令和3(2021)年8月13日掲載 0000」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：製造業計： 2015」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：製造業計： 2016」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：製造業計： 2017」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：製造業計： 2018」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：製造業計： 2019」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：食料品製造業：2020年工業統計表 産業別統計表データ 令和3(2021)年8月13日掲載 0900」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：食料品製造業： 2015」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+- 人手と仕事の差：
+  - 「利用上の注意：(3) 原材料使用額等 ＝ 原材料使用額 ＋ 燃料使用額 ＋ 電力使用額 ＋ 委託生産費＋ 製造等に関連する外注費 ＋ 転売した商品の仕入額」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-gaikyo-data.xls）
+
+## 日本金型工業会 金型の事業所数・従業者数の年次（会員の統計か全体か・工業統計の金型製造業と並べる・4-15・4-38）（Japan Die and Mould Industry Association establishments employees annual statistics）
+- 文脈：金型・統計
+- 事業所数・社数：
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「同レポートでは、工業統計に基づく事業所数が1990年の13,115から2017年には7,074へ減り、1事業所あたりの平均従業者数が12.1人であることも報告されています」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会の資料によれば、事業所数のピークは1991年で約13,000でした」（https://forwit.jp/column/die-and-mold/）
+  - 「事業所数が1991年の約13,000から2024年の約4,000へ減り、従業者数も2022年の77,035人から2024年の69,553人へ減るなかで、技能を渡す相手がいないまま廃業する工場が出ています」（https://forwit.jp/column/die-and-mold/）
+  - 「国内でも、事業所数は1991年の約13,000から2024年の約4,000へ減りました」（https://forwit.jp/column/die-and-mold/）
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人でした」（https://forwit.jp/column/die-and-mold/）
+  - 「３）従業員規模別、事業所数生産額（2024年）・・・・・・・・・・」（https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf）
+  - 「６）型種別都道府県別金型生産額および事業所数（2024年）・・・・」（https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf）
+  - 「７）型種別都道府県別金型生産額＆事業所数（2024年）・・・・・・」（https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf）
+  - 「事業所数 従業者数 10名以下の 20名以下の」（https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf）
+  - 「※旧工業統計と製造業事業所調査における「事業所数」の差異については P13を参照」（https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf）
+  - 「３）従業員規模別、事業所数生産額」（https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf）
+  - 「■ 2003年～2024年の事業所数推移」（https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf）
+  - 「６）型種別都道府県別金型生産額および事業所数（２０２４年／令和６年）」（https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf）
+- 社員数・平均社員数：
+  - 「一般社団法人日本金型工業会（以下、日本金型工業会）が2026年9月17日に公表した資料では、国際特殊工具・機械加工協会（ISTMA）の統計に基づく35カ国の金型生産額の合計は13兆1,221億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「3次元CADで型の形を決め、マシニングセンタで削り、焼き入れで硬くし、放電加工で細部をつくり、最後は人の手で鏡のように磨きます」（https://forwit.jp/column/die-and-mold/）
+  - 「こうした形は、職人が1個ずつ削り出しているわけではありません」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「2022年（令和4年）は4,357所、77,035人でしたから、2年で事業所は280所、従業者は7,482人減っています」（https://forwit.jp/column/die-and-mold/）
+  - 「産業の構造｜9人以下が6割、100人以上が生産額の4割」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がまとめた2024年（令和6年）の製造業事業所調査では、従業者9人以下の事業所が2,545所で全体の62.4%を占める一方、生産額では9.4%にとどまります」（https://forwit.jp/column/die-and-mold/）
+  - 「30人から99人が417所で生産額の27.9%、100人以上は89所と全体の2.2%しかありませんが生産額では41.7%を占めます」（https://forwit.jp/column/die-and-mold/）
+  - 「同レポートでは、工業統計に基づく事業所数が1990年の13,115から2017年には7,074へ減り、1事業所あたりの平均従業者数が12.1人であることも報告されています」（https://forwit.jp/column/die-and-mold/）
+  - 「従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「米国の専門誌MoldMaking Technologyが2018年12月に伝えた記事では、マリーニャグランデとオリベイラ・デ・アゼメイシュの2地域に500社を超える金型企業が集まり、約10,500人を雇用し、2017年の輸出額は6億7,500万ユーロでした」（https://forwit.jp/column/die-and-mold/）
+  - 「一般財団法人機械振興協会経済研究所が2026年1月に公表した小論文では、土地や建物の費用、固定資産税などの公租公課、運送費、錆取りや磨きのメンテナンス費、パレットや棚の設備費、備品費、保管や移動の労務費という7項目が示されています」（https://forwit.jp/column/die-and-mold/）
+  - 「２）金型製造業の事業所・従業者数の推移・・・・・・・・・・・・」（https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf）
+  - 「※1994年の旧工業統計は従業員1～3人が集計されていないので、1993年の資料をベースに算出」（https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf）
+- 受注金額・加工賃収入：
+  - 「一般社団法人日本金型工業会（以下、日本金型工業会）が2026年9月17日に公表した資料では、国際特殊工具・機械加工協会（ISTMA）の統計に基づく35カ国の金型生産額の合計は13兆1,221億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がISTMAの統計をもとに示した国別比較では、中国の生産額が7兆382億円で53.6%（2024年）、米国が2兆3,014億円で17.5%（2021年）、日本が9,771億円で7.4%（2023年）、韓国が9,627億円で7.3%（2019年）、ドイツが6,440億円で4.9%（2024年）でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本の2025年の金型輸出額は2,040億円、輸入額は1,339億円で、輸入の58%は中国からです」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の機械統計をもとにした日本金型工業会の集計では、2026年1月から7月までの金型生産額は1,866億円で、前年同期比は105.15%でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本の金型産業は、1991年に約13,000あった事業所が2024年には約4,000まで減り、生産額でも中国に大きく引き離されました」（https://forwit.jp/column/die-and-mold/）
+  - 「それでも、日本から出ていく金型は年間2,000億円を超え、入ってくる金型を上回り続けています」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会が2026年9月に公表した資料によると、2025年の型種別の生産額構成比は、プラスチック型33.2%、プレス型32.7%、鋳造型・ダイカスト型8.4%、鍛造型4.3%、ゴム型・ガラス型3.1%で、残りがその他の金型や部分品でした」（https://forwit.jp/column/die-and-mold/）
+  - 「財務省貿易統計をもとにした日本金型工業会の集計では、2025年の金型輸出2,040億円のうち射出式または圧縮式のプラスチック・ゴム成形用型が587億円を占めました」（https://forwit.jp/column/die-and-mold/）
+  - 「産業の構造｜9人以下が6割、100人以上が生産額の4割」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がまとめた2024年（令和6年）の製造業事業所調査では、従業者9人以下の事業所が2,545所で全体の62.4%を占める一方、生産額では9.4%にとどまります」（https://forwit.jp/column/die-and-mold/）
+  - 「30人から99人が417所で生産額の27.9%、100人以上は89所と全体の2.2%しかありませんが生産額では41.7%を占めます」（https://forwit.jp/column/die-and-mold/）
+  - 「従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「国別の順位も入れ替わり、日本金型工業会がISTMAの統計をもとに整理した比較で、日本の生産額シェアは7.4%の3位になりました」（https://forwit.jp/column/die-and-mold/）
+- 1人あたり・1社あたり金額：
+  - 「従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「2026年1月期の連結売上高は2,183億2,900万円、営業利益は126億5,100万円で、モーターコア製品などを手がける電機部品事業が1,546億4,900万円、金型・工作機械事業が102億4,700万円でした」（https://forwit.jp/column/die-and-mold/）
+- 生産能力・設備：
+  - 「日本政策金融公庫総合研究所のレポートでは、IoT関連の設備投資について金型製造業では7.2%がすでに実施、12.6%が予定ありと答え、製造業全体の4.5%と6.2%を上回っていました」（https://forwit.jp/column/die-and-mold/）
+- 10年推移：
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がISTMAの統計をもとに示した国別比較では、中国の生産額が7兆382億円で53.6%（2024年）、米国が2兆3,014億円で17.5%（2021年）、日本が9,771億円で7.4%（2023年）、韓国が9,627億円で7.3%（2019年）、ドイツが6,440億円で4.9%（2024年）でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本の2025年の金型輸出額は2,040億円、輸入額は1,339億円で、輸入の58%は中国からです」（https://forwit.jp/column/die-and-mold/）
+  - 「日本の金型産業は、1991年に約13,000あった事業所が2024年には約4,000まで減り、生産額でも中国に大きく引き離されました」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会が示す需要業界別の生産金額構成比では、2025年時点で自動車、二輪、輸送用車両機器が73.0%を占め、産業機器が6.0%、生活用品が2.9%、情報・通信機器が2.8%と続きます」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「2022年（令和4年）は4,357所、77,035人でしたから、2年で事業所は280所、従業者は7,482人減っています」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会が2026年9月に公表した資料によると、2025年の型種別の生産額構成比は、プラスチック型33.2%、プレス型32.7%、鋳造型・ダイカスト型8.4%、鍛造型4.3%、ゴム型・ガラス型3.1%で、残りがその他の金型や部分品でした」（https://forwit.jp/column/die-and-mold/）
+  - 「財務省貿易統計をもとにした日本金型工業会の集計では、2025年の金型輸出2,040億円のうち射出式または圧縮式のプラスチック・ゴム成形用型が587億円を占めました」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がまとめた2024年（令和6年）の製造業事業所調査では、従業者9人以下の事業所が2,545所で全体の62.4%を占める一方、生産額では9.4%にとどまります」（https://forwit.jp/column/die-and-mold/）
+  - 「日本政策金融公庫総合研究所が2019年11月に公表したレポートでは、金型製造業の販売先として自動車用が76.6%、電機用が3.1%となり、2012年時点の64%と10%から自動車への集中が進んだことが示されています」（https://forwit.jp/column/die-and-mold/）
+  - 「同レポートでは、工業統計に基づく事業所数が1990年の13,115から2017年には7,074へ減り、1事業所あたりの平均従業者数が12.1人であることも報告されています」（https://forwit.jp/column/die-and-mold/）
+  - 「従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「2010年には、自動車ボディ用大型プレス金型を手がけてきたオギハラの館林工場が中国のBYDグループに買収され、技術の海外流出として広く報じられました」（https://forwit.jp/column/die-and-mold/）
+  - 「生産額は日本金型工業会がISTMAの統計集2025年版に基づいて示した国別比較を使います」（https://forwit.jp/column/die-and-mold/）
+- 人手と仕事の差：
+  - 「納期と原価の見通しが狂う原因の多くは、この修正の回数が読み切れないところにあります」（https://forwit.jp/column/die-and-mold/）
+  - 「内製と外注の線引きも産業の形を決めています」（https://forwit.jp/column/die-and-mold/）
+  - 「日本｜精度と納期で勝ち、量と価格で押される」（https://forwit.jp/column/die-and-mold/）
+  - 「金型に使うガイドピンやパンチ、ブッシュといった部品を規格化し、寸法をミクロン単位で指定できるようにしたうえで短納期で届ける仕組みを築きました」（https://forwit.jp/column/die-and-mold/）
+  - 「量産が読める型は安い国へ、立ち上げが難しい型や短納期が求められる型は日本へ、という棲み分けが統計の上にも表れています」（https://forwit.jp/column/die-and-mold/）
+  - 「精度と納期、そして立ち上げの速さです」（https://forwit.jp/column/die-and-mold/）

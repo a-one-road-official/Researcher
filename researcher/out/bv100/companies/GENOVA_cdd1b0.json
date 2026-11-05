@@ -1,0 +1,1804 @@
+{
+ "name": "GENOVA",
+ "aliases": [
+  "genova"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T15:01:00.318646+00:00",
+ "official_url": "https://genova.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "[ 東京本社 ] 渋谷ヒカリエ 〒150-8510 東京都渋谷区渋谷2-21-1 　渋谷ヒカリエ34F T：0120-811-009　F：03-5766-1801 渋谷アクシュ 〒150‐0002 東京都渋谷区渋谷2‐17‐1 渋谷アクシュ23F [ 名古屋支店 ] 〒460-0008 愛知県名古屋市中区栄3-3-21　セントライズ栄6F T：052-959-5791　F：052-959-5792 [ 大阪支店 ] 〒542-0086 大阪府大阪市中央区西心斎橋1-5-5　アーバンBLD心斎橋7F T：06-6281-5401　F：06-6281-5402 [ 福岡支店 ] 〒810-0021 福岡県福岡市中央区今泉1-20-2　天神MENTビル8F T：092-739-5411　F：092-739-5412 [ 札幌支店 ] 〒060-0063 北海道札幌市中央区南三条西3-11-1 サザンクロス札幌8F T：011-200-1011　F：011-200-1012 [ 沖縄営業所 ] 〒900-0014 沖縄県那覇市松尾1-19-1　合人社沖縄県庁前アネクス3F T：098-941-",
+    "url": "https://genova.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都渋谷区渋谷2丁目21番1号\n渋谷ヒカリエ34階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000016520.html",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都渋谷区宇田川町 10 －3 SHIBUYA EDGE ビル 5F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000016520.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2005年7月4日",
+    "url": "https://genova.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2005年07月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000016520.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "780百万円（2026年6月末時点）",
+    "url": "https://genova.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "7億8000万円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000016520.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "グループ会社全体593名（2026年6月末時点）",
+    "url": "https://genova.co.jp/company/company.html",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "平瀬智樹",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000016520.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "【講演レポート】後編｜病院から、暮らしの中へ——5人の医師が語る「クリニックの未来」",
+    "url": "https://genova.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【講演レポート】前編｜「食べられない」「通えない」「支えきれない」—医療現場の最前線から見えた3つの課題",
+    "url": "https://genova.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【社員インタビュー#04】組織体制の転換期、他部署との方向性の相違、—GENOVAの医療DXを支える「自律型チーム」の舞台裏",
+    "url": "https://genova.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "21世紀型の医療インフラを",
+    "url": "https://genova.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "待たない、通いやすいクリニックを",
+    "url": "https://genova.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「ヒトと医療をつないで健康な社会を創る」というミッションのもと、",
+    "url": "https://genova.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "メディカルプラットフォーム事業とスマートクリニック事業を展開しています",
+    "url": "https://genova.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "患者さん（利用者）の医療に関する不安や不満を、医療機関側と協力することで解決し、一人ひとりが健康に生活できる社会を実現します",
+    "url": "https://genova.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クリニック向け総合展「クリニックEXPO」に出展",
+    "url": "https://genova.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 - 株式会社GENOVA｜ヒトと医療をつなぐ",
+    "url": "https://genova.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "〒980-0021 宮城県仙台市⻘葉区中央3-2-23 野村不動産仙台⻘葉通ビル3F",
+    "url": "https://genova.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "メディカルプラットフォーム事業 / スマートクリニック事業/ 歯科流通事業",
+    "url": "https://genova.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "国立国際医療研究センター 糖尿病情報センター長",
+    "url": "https://genova.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京慈恵会医科大学附属柏病院 心臓外科教授 心臓外科診療部長",
+    "url": "https://genova.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "山形県立保健医療大学 理事長・学長 / 東北大学名誉教授 / 日本腎臓リハビリテーション学会 理事",
+    "url": "https://genova.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "筑波大学 客員教授 / つくば消化器・内視鏡クリニック 院長",
+    "url": "https://genova.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "学校法人健生学園東日本医療専門学校 理事長 / ジャパン柔道整復師会 会長",
+    "url": "https://genova.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "慶應義塾大学名誉教授 / 慶應義塾大学予防医療センター 特任教授",
+    "url": "https://genova.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "筑波大学 医学医療系 臨床医学域 地域医療教育学 教授 / 日本プライマリ・ケア連合学会 副理事長",
+    "url": "https://genova.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "慶應義塾大学名誉教授/慶應義塾大学予防医療センター特任教授",
+    "url": "https://genova.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療法人健真会 理事長 / 城本クリニック 総院長",
+    "url": "https://genova.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療法人社団景翠会 金沢病院 整形外科副部長",
+    "url": "https://genova.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本口腔インプラント学会 / 日本臨床歯科学会（SJCDインターナショナル） / JIADS / 日本アンチエイジング歯科学会 / 日本美容外科学会 / MID-G / CID Club / 日本舌側矯正歯科学会 / 日本臨床歯周病学会 / 日本臨床歯科CADCAM学会 / 日本顎咬合学会 / 日本スウェーデン歯科学会 / 近畿矯正歯科研究会 / ILSC即時荷重研究会 / PDM札幌 / オールデンタルジャパン / PHIJ / 国際スマイリスト協会 / 康本塾 / 日本人材ビジネス協議会",
+    "url": "https://genova.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社沿革 - 株式会社GENOVA｜ヒトと医療をつなぐ",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "NOMOCa ver.1（病院ポータルアプリ）サービス提供開始",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "一般社団法人予防医療普及協会のプロジェクト賛同協力企業に参画",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "Medical DOC（医療情報サイト）サービス提供開始",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "NOMOCa-Stand（スマート簡易自動精算機/再来受付機）、NOMOCa-Regi（クリニック・診療所専用セルフ精算レジ）、NOMOCa-Guide（待合・会計案内表示システム）サービス提供開始",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "医科 / 歯科クリニック・整骨院の待合室に設置できるモニター作品《スケッチピストン – playing music》、《こびとが住まう黒板》チームラボの協力のもと提供開始",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "GENOVA SMART One（快適な医療体験を提供するサービス）をBonBon株式会社と共同開発し、提供開始",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "NOMOCa AI chat（クリニック向けAI chat自動応答システム）の販売開始",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "スケッチピストン – playing music（待合室に設置できるモニター作品）の歯科医院向け新バージョンの提供開始",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社APOSTROとクリニック向け自動精算機の総販売代理店契約を締結",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "mappin株式会社と医療機関向け在庫管理・自動発注システム「pitto（ピット）」の販売代理店契約を締結",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社メディカルフォースと自由診療・美容クリニック向けクラウド型電子カルテ「medicalforce」の販売",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "RIZAP株式会社および株式会社サイバーエージェントと連携し、歯科に特化したデジタルサイネージ広告配信",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "予約・問診・決済がオンラインで完結するクリニック向け診療予約システム「SMART One」の販売を開始",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "クリニックの受電対応を削減するAI電話自動応答サービス「NOMOCa AI call」の提供を開始",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ADI.Gの歯科関連事業の継承に伴い、100％子会社として 株式会社ASANOを設立",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "病院・クリニック・介護施設に設置できる、チームラボのモニター作品《こびとが住まうキャンバス》の提供を開始",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ASANOが、グループ会社として歯科流通事業および関連サービス事業を開始",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "「メディカルドック」と歯科医院向け患者管理システム「ジニー」のAPI連携を開始",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "代表挨拶 - 株式会社GENOVA｜ヒトと医療をつなぐ",
+    "url": "https://genova.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療の現場に、テクノロジーを通してサービスの創造と新たな価値を提供します",
+    "url": "https://genova.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "気候変動や環境問題が人々の健康に直結する「プラネタリーヘルス」の視点が不可欠となる一方で、足元の日本では、少子高齢化による医療費の増大や現場の人手不足、必要な薬が届かないドラッグロス、そして国民皆保険制度の持続可能性など、医療提供体制を揺るがしかねない課題が山積しています",
+    "url": "https://genova.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、便利なサービスを提供するだけの企業から、日本の医療課題を解決し、社会を支える「公器（パブリック・パートナー）」へと進化します",
+    "url": "https://genova.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "最後に患者さんの手を握るのは「人」であり、必要な物資を届けるのは「物流」であり、医療はどこまでも「リアル」な営みであることを",
+    "url": "https://genova.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "そして、グループ会社ASANOが担う、医療物資を確実に届ける「物流という足腰」",
+    "url": "https://genova.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "この「リアルの基盤」があるからこそ、デジタルは初めて医療現場の役に立ち、患者さんの安心につながると信じています",
+    "url": "https://genova.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、この「現場力（リアル）」と「技術力（デジタル）」を融合させ、「薬が届かない」「地域の医療機関がなくなる」といった、我が国が直面する大きな課題に対し、その解決の一翼を担うべく挑んでまいります",
+    "url": "https://genova.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "自分たちの仕事が、日本の医療を支え、誰かの命や健康につながっている",
+    "url": "https://genova.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "その誇りを胸に、泥臭く、かつスマートに、医療の未来を皆さまと共に創ってまいります",
+    "url": "https://genova.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例 - 株式会社GENOVA｜ヒトと医療をつなぐ",
+    "url": "https://genova.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "自動精算機「NOMOCa-Desk(ノモカデスク)」を導入した苫小牧にあるサンプラザ歯科クリニック様",
+    "url": "https://genova.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "「メディカルドック」「NOMOCa-AI chat」「CLINIC BOT」を導入した札幌にある宇治矯正歯科クリニック様",
+    "url": "https://genova.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "1日50分の業務削減を実現し、自動精算機導入で叶えた「三方よし」のクリニック運営",
+    "url": "https://genova.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "患者さんとの交流を強化する医療機関向けLINEチャットボットシステム「CLINIC BOT」を活用！",
+    "url": "https://genova.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機関向けLINEチャットボットシステム「CLINIC BOT」を導入した三島にある三島駅前消化器・肝臓内科クリニック様",
+    "url": "https://genova.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "導入後のクリニックの変化について伺いました",
+    "url": "https://genova.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "医療メディアへの掲載とWebサイトリニューアルを行った沖縄にあるたろう歯科医院様",
+    "url": "https://genova.co.jp/works/",
+    "pass": 1
+   }
+  ],
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "「カロミル」を運営するライフログテクノロジー株式会社と連携した「Food DOC（フードドック）」の提供を開始",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "NOMOCa AI chat（クリニック向けAI chat自動応答システム）の販売開始",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社APOSTROとクリニック向け自動精算機の総販売代理店契約を締結",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "mappin株式会社と医療機関向け在庫管理・自動発注システム「pitto（ピット）」の販売代理店契約を締結",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社メディカルフォースと自由診療・美容クリニック向けクラウド型電子カルテ「medicalforce」の販売",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "大日本印刷株式会社および株式会社サイバーエージェントらが運営するエレベーターサイネージと連携",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "予約・問診・決済がオンラインで完結するクリニック向け診療予約システム「SMART One」の販売を開始",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソースネクスト株式会社とAI翻訳機「ポケトーク」のの販売代理店契約を締結",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "業務効率化だけでなく、医院運営そのものを支える仕組みとして欠かせない存在に",
+    "url": "https://genova.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "1日50分の業務削減を実現し、自動精算機導入で叶えた「三方よし」のクリニック運営",
+    "url": "https://genova.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "熱海にある医療複合ビルを運営する株式会社K’sメディカルの取り組みについてお話しを伺いました",
+    "url": "https://genova.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "患者様ニーズにあうアプローチとクチコミ増加でクリニックの売上を向上",
+    "url": "https://genova.co.jp/smartclinic/",
+    "pass": 1
+   },
+   {
+    "quote": "業務効率化だけでなく、医院運営そのものを支える仕組みとして欠かせない存在に | GENOVA",
+    "url": "https://genova.co.jp/works/case11.html",
+    "pass": 1
+   },
+   {
+    "quote": "レセコン連動により会計業務を効率化し医院運営を改善",
+    "url": "https://genova.co.jp/works/case11.html",
+    "pass": 1
+   },
+   {
+    "quote": "「一人でも無理なく運営できる環境づくり」を",
+    "url": "https://genova.co.jp/works/case11.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後の医院運営そのものを見直す中で、会計まわりの業務を自動化することが特に重要だと感じられた理由を教えてください",
+    "url": "https://genova.co.jp/works/case11.html",
+    "pass": 1
+   },
+   {
+    "quote": "1日50分の業務削減を実現し、自動精算機導入で叶えた「三方よし」のクリニック運営 | GENOVA",
+    "url": "https://genova.co.jp/works/case09.html",
+    "pass": 1
+   },
+   {
+    "quote": "患者さんにとって便利で、スタッフの業務負担も軽減され、結果としてクリニック全体の運営も良くなる",
+    "url": "https://genova.co.jp/works/case09.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後も新患の方への案内を中心に、クリニックの運営に欠かせないツールとして継続的に活用していきたいと考えています",
+    "url": "https://genova.co.jp/works/case08.html",
+    "pass": 1
+   },
+   {
+    "quote": "口コミや知り合いからの紹介以外の人づてに聞いたことがないような人たちにも、Webサイトを目に触れてもらうきっかけができたのが大きかったです",
+    "url": "https://genova.co.jp/works/case07.html",
+    "pass": 1
+   },
+   {
+    "quote": "1,正しい予防情報や健康知識を求める人々に医療情報を届けるため、1,300名以上のドクターが監修する医療メディアの運営",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "著名人（スポーツ選手、俳優、女優、モデル、芸人、アナウンサーなど）のインタビュー記事も掲載しており、幅広い世代から注目されているメディアを自社で運営しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "3年連続売上高前年比が130％以上と急成長中",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "GENOVA（9341）、1Q売上高は前期比64.7%増で過去最高を更新 積極的なM&Aにより歯科流通事業が新たな成長ドライバーへ - ログミーファイナンス",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "全体の連結売上高は30億5,000万円で前期比64.7パーセント増、連結営業利益はマイナス2億2,000万円で前期比5,000万円減少しました",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、医療記事を掲載するインターネットメディア「Medical DOC」を運営しています",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "スライド下部に示されているように、2026年3月期第1四半期の売上高は10億6,000万円でしたが、今期第1四半期は11億4,000万円となり、前期比7.3パーセント増となりました",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "この2年間の反省を活かし、「Medical DOC」が今後成長できる運営体制を整えていきたいと考えています",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "直近3ヶ月の月間平均PV数が2,184万PVに達したことにより、メディカルプラットフォーム事業の売上が今期中に伸びていく可能性があると考えています",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "アクセス数が増えた月に売上が直ちに上がるわけではありませんが、営業活動においては非常に有利に働くため、結果的に今後、売上の向上が期待されます",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "スライド上部に記載のとおり、この事業では患者さまの予約から運営効率化まで、患者さまの来院フローに合わせたすべてのフェーズでソリューションを展開しています",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "このように、予約、受付、会計、CRMまでクリニック運営をワンストップでDX化できることが、他社にはない当社の強みと考えています",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "スライド下部に記載のとおり、2026年3月期第1四半期の売上高は6億7,000万円でしたが、今期の第1四半期は9億7,000万円となりました",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "GENOVA単体では売上高が8億7,000万円となり、昨年に比べて2億円増加し、単体で約30パーセントの増加を記録しました",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "スライド下部に記載のとおり、2027年3月期第1四半期の売上高は8億2,000万円となりました",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "前期の4月から6月にはこの事業を行っていなかったため記載がありませんが、今期はこの3ヶ月間で8億2,000万円の売上高を達成しました",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第1四半期の売上高は、全体で30億5,000万円となり、前年同期比65パーセント増となりました",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "メディカルプラットフォーム事業の売上高は11億4,000万円で前年同期比7パーセント増、スマートクリニック事業の売上高は9億7,000万円で前年同期比44パーセント増となりました",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "3ヵ年サマリー 四半期事業別売上",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第1四半期の売上高は30億5,000万円で、前年同期比65パーセント増となり、過去の第1四半期と比較して最高値を更新しました",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月21日にグループインしたアカサカ歯材社は第2四半期から連結されるため、第1四半期の売上には含まれていません",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "ASANO社のグループイン後、製造経費の比率は高い傾向にあります",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "先ほどご説明したとおり、製造経費15億2,000万円と人件費9億4,000万円が費用の中心となっています",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "計画的な投資を行い、未来の売上と利益につなげるものと考えています",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "歯科流通事業は民事再生の影響が続いており、事業譲受前の売上や利益水準までいまだ回復できていません",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "当社はフロー型の収益モデルを採用しており、21年間の歴史を通じて培った医療機関のタッチポイントを活用し、既存顧客への再販およびクロスセルによって一定水準の売上高を創出しています",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "今四半期の売上では、約77パーセントが既存のお客さまからのご注文によるものです",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "既存のお客さまが増えることで売上は向上しますが、一方で新規のお客さまの開拓も確実に進めていきます",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "【医療情報】医療情報サイトを運営し、医療機関の紹介記事を制作",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9341",
+    "pass": 3
+   },
+   {
+    "quote": "※１円の変動による、営業利益など本業収益へのプラス効果を示す",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9341",
+    "pass": 3
+   },
+   {
+    "quote": "直近５期の売上高",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9341",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社GENOVA（本社：東京都渋谷区、代表取締役社長：平瀬 智樹／以下：当社）は、この度、株式会社 NTT ドコモ・ベンチャーズ（本社：東京都港区、代表取締役社長：中山 俊樹／以下：NTTドコモ・ベンチャーズ）が運営管理するファンドを割当先とする第三者割当増資を実施いたしましたのでお知らせいたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000016520.html",
+    "pass": 3
+   },
+   {
+    "quote": "【医療情報】医療情報サイトを運営し、医療機関の紹介記事を制作",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=9341",
+    "pass": 3
+   },
+   {
+    "quote": "事業展開当初から直販ベースの展開に注力していますが、代理店を通じた販売も一定数あります",
+    "url": "https://www.immedio.io/case/genova/",
+    "pass": 3
+   },
+   {
+    "quote": "ただ少人数で運営しているので一気にリードが5件ぐらい入ってくると対応が大変です",
+    "url": "https://www.immedio.io/case/genova/",
+    "pass": 3
+   },
+   {
+    "quote": "石井様：私も全体的に満足していますが、日程調整モーダルが出る部分にサービス紹介の動画などを入れられたらより顧客体験はなめらかになるのでは？と思っています",
+    "url": "https://www.immedio.io/case/genova/",
+    "pass": 3
+   },
+   {
+    "quote": "GENOVAで働く社員の仕事やキャリア、挑戦の裏側を紹介するインタビューマガジンです",
+    "url": "https://note.com/genova_pr/m/mb1850a47ac2a",
+    "pass": 3
+   },
+   {
+    "quote": "そんなタイミングで「加藤さんに合う会社がある」と紹介されたのがGENOVAでした",
+    "url": "https://note.com/genova_pr/n/n00671e5ab62c",
+    "pass": 3
+   },
+   {
+    "quote": "GENOVAは「ヒトと医療をつないで健康な社会を創る」というミッションのもと、医療情報メディア「メディカルドック（Medical DOC）」の運営や、クリニック向けの自動精算機、予約システムなどを展開しています",
+    "url": "https://note.com/genova_pr/n/n20c029e1eff4",
+    "pass": 3
+   },
+   {
+    "quote": "【ようこそGENOVAへ！】26年新卒研修合宿を実施しました！未来のGENOVAをつくる、2日間の学びと対話を紹介｜GENOVA公式note",
+    "url": "https://note.com/genova_pr/n/nc05a858589b8",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "東京都港区六本木においてインターネットウェブコンテンツ開発会社として、資本金1,000万円で設立",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社GENOVAの100％子会社として中国大連に智树(大连)技术开发有限公司設立",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社GENOVAの100％子会社として株式会社GENOVA DESiGN設立",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京証券取引所グロース市場上場（証券コード：9341）",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京証券取引所プライム市場への上場市場区分変更",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ADI.Gの歯科関連事業の継承に伴い、100％子会社として 株式会社ASANOを設立",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "完全子会社（株式会社 GENOVA DESiGN）を吸収合併",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)GENOVA【東証プライム上場】・メディカルプラットフォームコースの新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)GENOVA【東証プライム上場】・メディカルプラットフォームコース",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年12月上場を果たし、世の中により貢献し、これからも業界トップを邁進していきます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "7月 (株)TORINOを子会社化",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "5月 (株)GENOVAの100％子会社として(株)GENOVA DESiGN設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "7月 (株)NOMOCa子会社の設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "12月 大連子会社設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "9月 資本金を8,975万円に増資",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "8月 (株)エアーエイジ名古屋支店開設 資本金を5,225万円に増資",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "3月 (株)エアーエイジを完全子会社化 資本金を3,900万円に増資",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "7月 東京都港区六本木においてインターネットウェブコンテンツ開発会社として、資本金1,000万円で設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)GENOVA【東証プライム上場】・メディカルプラットフォームコースの画像と似た雰囲気の画像から企業をおすすめしています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)バレッグス【TOKYO PRO Market上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)GENOVA【東証プライム上場】・メディカルプラットフォームコースの会社概要",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【資本金】778百万円",
+    "url": "https://www.bizreach.jp/companies/2843/",
+    "pass": 3
+   },
+   {
+    "quote": "その他取り組みについて、まず、先月発表しましたアカサカ歯材社の子会社化に関する内容です",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、利益剰余金が蓄積されていることを踏まえ、株主還元にも継続的に取り組む方針です",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "なお、自己株式取得を含むその他の株主還元政策については、今後も株価および投資家の意見を反映しながら前向きに検討していきます",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "Allganize Holdings上場会見、AI業務自動化を日米韓で展開 SaaSとオンプレミスの同時提供が強み",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "Allganize Holdings株式会社（656A）新規上場記者会見",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9341",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社GENOVAが株式会社NTTドコモ・ベンチャーズより資金調達を実施いたしました | 株式会社GENOVAのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000016520.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社GENOVAが株式会社NTTドコモ・ベンチャーズより資金調達を実施�いたしました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000016520.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社GENOVA（本社：東京都渋谷区、代表取締役社長：平瀬 智樹／以下：当社）は、この度、株式会社 NTT ドコモ・ベンチャーズ（本社：東京都港区、代表取締役社長：中山 俊樹／以下：NTTドコモ・ベンチャーズ）が運営管理するファンドを割当先とする第三者割当増資を実施いたしましたのでお知らせいたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000016520.html",
+    "pass": 3
+   },
+   {
+    "quote": "【GENOVA】[9341]適時開示情報 株主総会や定款関連 | 日経電子版",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=9341",
+    "pass": 3
+   },
+   {
+    "quote": "上場維持基準への適合に向けた計画（改善期間入り）について",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=9341",
+    "pass": 3
+   },
+   {
+    "quote": "主要株主及び主要株主である筆頭株主の異動（予定）及び公開買付けに準ずる行為として政令で定める買集め行為に関するお知らせ",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=9341",
+    "pass": 3
+   },
+   {
+    "quote": "第21回定時株主総会の招集に際しての電子提供措置事項（交付書面省略事項）",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=9341",
+    "pass": 3
+   },
+   {
+    "quote": "第21回定時株主総会招集ご通知",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=9341",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=9341",
+    "pass": 3
+   },
+   {
+    "quote": "2022年12月23日、東証グロース市場に新規上場した",
+    "url": "https://www.youtube.com/watch?v=VF8NC83zkcM",
+    "pass": 3
+   },
+   {
+    "quote": "(株)三井E＆S【東証プライム市場上場】【旧：三井造船グループ】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)GENOVA【東証プライム上場】・カスタマーアカウントコース",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "サンワテクノス(株) 【東証プライム市場上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業でありながら、まだ変わる余地が大きい",
+    "url": "https://note.com/genova_pr/n/n00671e5ab62c",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業から上場企業への転職って、特に人事だと難しい意思決定だと思うんですが、最終的な決め手は何だったんですか？",
+    "url": "https://note.com/genova_pr/n/n00671e5ab62c",
+    "pass": 3
+   },
+   {
+    "quote": "上場後、さらに成長していくフェーズにありますが、どこに伸びしろを感じていますか？",
+    "url": "https://note.com/genova_pr/n/n00671e5ab62c",
+    "pass": 3
+   },
+   {
+    "quote": "GENOVAは上場企業ではありますが、まだまだ完成された会社ではありません",
+    "url": "https://note.com/genova_pr/n/n00671e5ab62c",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "4月 歯科業界向けにモバイルのサービス提供開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1月 美容業界向けにモバイルのサービス提供開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "(株) GENOVA 【東証プライム上場】・メディカル ... - マイナビ — (株) GENOVA 【東証プライム上場】・メディカル ... - マイナビ マイナビ https://job.mynavi.jp > search > corp255741 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社 GENOVA ｜ヒトと医療をつなぐ — 会社概要 - 株式会社 GENOVA ｜ヒトと医療をつなぐ 株式会社GENOVA https://genova.co.jp > company > company",
+    "url": "https://genova.co.jp/company/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社GENOVA の求人・採用 情報 - ビズリーチ — 株式 会社GENOVA の求人・採用 情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies",
+    "url": "https://www.bizreach.jp/companies/2843/",
+    "pass": 3
+   },
+   {
+    "quote": "【 GENOVA 】[9341]企業 概要 社員数や役員報酬・ 資本金 | 日経 ... — 【 GENOVA 】[9341]企業 概要 社員数や役員報酬・ 資本金 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9341",
+    "pass": 3
+   },
+   {
+    "quote": "会社 沿革 - 株式 会社GENOVA ｜ヒトと医療をつなぐ — 会社 沿革 - 株式 会社GENOVA ｜ヒトと医療をつなぐ 株式会社GENOVA https://genova.co.jp > company > history",
+    "url": "https://genova.co.jp/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "業績ハイライト - 株式会社 GENOVA ｜ヒトと医療をつなぐ — 業績ハイライト - 株式会社 GENOVA ｜ヒトと医療をつなぐ 株式会社GENOVA https://genova.co.jp > highlights",
+    "url": "https://genova.co.jp/ir/highlights.html",
+    "pass": 3
+   },
+   {
+    "quote": "GENOVA 、1Q 売上 高は前期比64.7%増で過去最高を更新 積極 ... — GENOVA 、1Q 売上 高は前期比64.7%増で過去最高を更新 積極 ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/385752",
+    "pass": 3
+   },
+   {
+    "quote": "【 GENOVA 】[9341]決算発表や業務・財務情報 | 日経電子版 — 【 GENOVA 】[9341]決算発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9341",
+    "pass": 3
+   },
+   {
+    "quote": "GENOVA (9341) の企業概要・業績・財務・IR資料 — GENOVA (9341) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/9341",
+    "pass": 3
+   },
+   {
+    "quote": "個人投資家の皆様へ - 株式会社 GENOVA ｜ヒトと医療をつなぐ — 個人投資家の皆様へ - 株式会社 GENOVA ｜ヒトと医療をつなぐ 株式会社GENOVA https://genova.co.jp > individual_investor",
+    "url": "https://genova.co.jp/ir/individual_investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 GENOVA が株式会社NTTドコモ・ベンチャーズより ... — 株式会社 GENOVA が株式会社NTTドコモ・ベンチャーズより ... PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000016520.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 GENOVA 】[9341]適時開示情報 株主 総会や定款関連 | 日経 ... — 【 GENOVA 】[9341]適時開示情報 株主 総会や定款関連 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > disclose",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=9341",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 GENOVA - スピーダ スタートアップ情報リサーチ — 株式会社 GENOVA - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-01487",
+    "pass": 3
+   },
+   {
+    "quote": "GENOVA 【9341】の大 株主 情報 - 株探 — GENOVA 【9341】の大 株主 情報 - 株探 株探 https://kabutan.jp > stock > holder",
+    "url": "https://kabutan.jp/stock/holder?code=9341",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 - 株式会社 GENOVA ｜ヒトと医療をつなぐ — 導入事例 - 株式会社 GENOVA ｜ヒトと医療をつなぐ 株式会社GENOVA https://genova.co.jp > works",
+    "url": "https://genova.co.jp/works/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 GENOVA 様の 導入事例 ｜immedio導入を通じてお客様 ... — 株式会社 GENOVA 様の 導入事例 ｜immedio導入を通じてお客様 ... 株式会社immedio https://www.immedio.io > case > genova",
+    "url": "https://www.immedio.io/case/genova/",
+    "pass": 3
+   },
+   {
+    "quote": "【 GENOVA 】クリニック向け「NOMOCa-AI chat」が市場調査 ... — 【 GENOVA 】クリニック向け「NOMOCa-AI chat」が市場調査 ... PR TIMES https://prtimes.jp > 調査レポート",
+    "url": "https://prtimes.jp/main/html/rd/p/000000109.000016520.html",
+    "pass": 3
+   },
+   {
+    "quote": "GENOVA が創る医療の未来【DX・AI・集患・ブランディング】 — GENOVA が創る医療の未来【DX・AI・集患・ブランディング】 YouTube https://www.youtube.com > @genova.movies",
+    "url": "https://www.youtube.com/@genova.movies",
+    "pass": 3
+   },
+   {
+    "quote": "株式情報 - 株式会社 GENOVA ｜ヒトと医療をつなぐ — 株式情報 - 株式会社 GENOVA ｜ヒトと医療をつなぐ 株式会社GENOVA https://genova.co.jp > stock",
+    "url": "https://genova.co.jp/ir/stock.html",
+    "pass": 3
+   },
+   {
+    "quote": "GENOVA [9341] Growth Market IPO - YouTube — GENOVA [9341] Growth Market IPO - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=VF8NC83zkcM",
+    "pass": 3
+   },
+   {
+    "quote": "GENOVA 、ASANOによる歯科流通事業は 取引 回復が進展、再 ... — GENOVA 、ASANOによる歯科流通事業は 取引 回復が進展、再 ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/383866",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 GENOVA - NTTドコモ・ベンチャーズ — 株式会社 GENOVA - NTTドコモ・ベンチャーズ nttdocomo-v.com https://www.nttdocomo-v.com > Portfolio",
+    "url": "https://www.nttdocomo-v.com/portfolio/genova/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[Transcript] GENOVA (9341) IR Seminar & Q&A - May 30, 2026 [Transcript] GENOVA (9341) IR Seminar & Q&A - May 30, 2026 note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/kabuberry_/n/n8f4df7445453?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "社員インタビュー｜ GENOVA 公式note 社員インタビュー｜ GENOVA 公式note note https://note.com > genova_pr",
+    "url": "https://note.com/genova_pr/m/mb1850a47ac2a",
+    "pass": 3
+   },
+   {
+    "quote": "キープレイヤーズ 高野秀敏さん× GENOVA 戦略人事部長 加藤 ... キープレイヤーズ 高野秀敏さん× GENOVA 戦略人事部長 加藤 ... note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/genova_pr/n/n00671e5ab62c",
+    "pass": 3
+   },
+   {
+    "quote": "AIロープレ／AI面談）をいち早く導入した理由｜ GENOVA 公式 ... AIロープレ／AI面談）をいち早く導入した理由｜ GENOVA 公式 ... note https://note.com > インタビュー・対談 > テーマ別対談",
+    "url": "https://note.com/genova_pr/n/n20c029e1eff4",
+    "pass": 3
+   },
+   {
+    "quote": "「ヒトと医療をつないで健康な社会を創る」ー GENOVA ... - note 「ヒトと医療をつないで健康な社会を創る」ー GENOVA ... - note note https://note.com > 健康・医療 > 健康・医療全般",
+    "url": "https://note.com/genova_pr/n/n130f0f73020b",
+    "pass": 3
+   },
+   {
+    "quote": "その新人が、なぜ8年で執行役員になれたのか｜ GENOVA 公式 ... その新人が、なぜ8年で執行役員になれたのか｜ GENOVA 公式 ... note https://note.com > キャリア > 昇進・キャリアアップ",
+    "url": "https://note.com/genova_pr/n/n4a4d39c14314",
+    "pass": 3
+   },
+   {
+    "quote": "【ようこそ GENOVA へ！】26年新卒研修合宿を実施しました ... 【ようこそ GENOVA へ！】26年新卒研修合宿を実施しました ... note https://note.com > キャリア > キャリア全般",
+    "url": "https://note.com/genova_pr/n/nc05a858589b8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[Transcript] GENOVA (9341) IR Seminar & Q&A - May 30, 2026｜Kabu Berry (yama)",
+    "url": "https://note.com/kabuberry_/n/n8f4df7445453?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Transcript] GENOVA (9341) IR Seminar & Q&A - May 30, 2026",
+    "url": "https://note.com/kabuberry_/n/n8f4df7445453?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is a transcript of the GENOVA (9341) IR Seminar & Q&A held on May 30, 2026.",
+    "url": "https://note.com/kabuberry_/n/n8f4df7445453?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Speaker] Mr. Tomoki Hirase, President and Representative Director",
+    "url": "https://note.com/kabuberry_/n/n8f4df7445453?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Thank you for taking the time out of your busy schedules. My name is Hirase, and I serve as the President of GENOVA, Inc. Thank you for joining me. I would like to begin by explaining our company.",
+    "url": "https://note.com/kabuberry_/n/n8f4df7445453?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Our company's stock code is 9341. First, I would like you to remember this number, 9341, before you leave today.",
+    "url": "https://note.com/kabuberry_/n/n8f4df7445453?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "First, I would like you to look at the table regarding dividends. Our company plans a dividend payout ratio of 188% and an annual dividend of 30 yen per share. We will pay these dividends after the general meeting of shareholders in June, following the closing of the fiscal year ending March 2026. On the Prime Market, a dividend payout ratio of 188% is, in a sense, a dishonorable figure. This is b",
+    "url": "https://note.com/kabuberry_/n/n8f4df7445453?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Company Overview and Business Structure",
+    "url": "https://note.com/kabuberry_/n/n8f4df7445453?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "GENOVAで働く社員の仕事やキャリア、挑戦の裏側を紹介するインタビューマガジンです。入社のきっかけや日々の業務、乗り越えてきた壁、成長の転機、仕事への想いなど、一人ひとりのリアルな声を…",
+    "url": "https://note.com/genova_pr/m/mb1850a47ac2a",
+    "pass": 3
+   },
+   {
+    "quote": "「あのパンデミック」を、今あらためて聞く—尾身茂氏への取材でMedical DOC（メディカルドック）編集部が伝えたかったこと",
+    "url": "https://note.com/genova_pr/m/mb1850a47ac2a",
+    "pass": 3
+   },
+   {
+    "quote": "【社員インタビュー#04】組織体制の転換期、他部署との方向性の相違、—GENOVAの医療DXを支える「自律型チーム」の舞台裏",
+    "url": "https://note.com/genova_pr/m/mb1850a47ac2a",
+    "pass": 3
+   },
+   {
+    "quote": "【社員インタビュー#03】ついに実現！注目対談。営業×CAのリアルな本音と「チームドリブン」の真髄",
+    "url": "https://note.com/genova_pr/m/mb1850a47ac2a",
+    "pass": 3
+   },
+   {
+    "quote": "【社員インタビュー#02】「本配属は同期で一番遅かった」GENOVA若手営業3名が語る、入社後の壁と成長のリアル",
+    "url": "https://note.com/genova_pr/m/mb1850a47ac2a",
+    "pass": 3
+   },
+   {
+    "quote": "キープレイヤーズ 高野秀敏さん× GENOVA戦略人事部長 加藤正太が語る、これからのGENOVAで活躍する人とは｜GENOVA公式note",
+    "url": "https://note.com/genova_pr/n/n00671e5ab62c",
+    "pass": 3
+   },
+   {
+    "quote": "キープレイヤーズ 高野秀敏さん× GENOVA戦略人事部長 加藤正太が語る、これからのGENOVAで活躍する人とは",
+    "url": "https://note.com/genova_pr/n/n00671e5ab62c",
+    "pass": 3
+   },
+   {
+    "quote": "医療業界を取り巻く環境はいま、大きく変わろうとしています。",
+    "url": "https://note.com/genova_pr/n/n00671e5ab62c",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化、労働人口の減少、地域医療の課題、そして医療現場のDX推進。社会課題が複雑化するなかで、求められているのは、単なる効率化ではなく、医療のあり方そのものを前に進める仕組みづくりです。",
+    "url": "https://note.com/genova_pr/n/n00671e5ab62c",
+    "pass": 3
+   },
+   {
+    "quote": "GENOVAは、まさにその変化の中心で、「医療×DX」で新たな価値を生み出してきました。",
+    "url": "https://note.com/genova_pr/n/n00671e5ab62c",
+    "pass": 3
+   },
+   {
+    "quote": "今回の対談では、転職エージェント「キープレイヤーズ」代表の高野秀敏さんと、GENOVAの戦略人事部長の加藤正太が、GENOVAの現在地と、これからの成長を担う“キープレイヤーズ”像について語り合いました。",
+    "url": "https://note.com/genova_pr/n/n00671e5ab62c",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業でありながら、まだ変わる余地が大きい。",
+    "url": "https://note.com/genova_pr/n/n00671e5ab62c",
+    "pass": 3
+   },
+   {
+    "quote": "制度も組織も、これからさらに磨かれていく。",
+    "url": "https://note.com/genova_pr/n/n00671e5ab62c",
+    "pass": 3
+   },
+   {
+    "quote": "【GENOVA×PeopleX】未来の採用をここから作る。期待の最新ツール（AI面接／AIロープレ／AI面談）をいち早く導入した理由｜GENOVA公式note",
+    "url": "https://note.com/genova_pr/n/n20c029e1eff4",
+    "pass": 3
+   },
+   {
+    "quote": "【GENOVA×PeopleX】未来の採用をここから作る。期待の最新ツール（AI面接／AIロープレ／AI面談）をいち早く導入した理由",
+    "url": "https://note.com/genova_pr/n/n20c029e1eff4",
+    "pass": 3
+   },
+   {
+    "quote": "みなさん、こんにちは。GENOVAの採用広報担当です。",
+    "url": "https://note.com/genova_pr/n/n20c029e1eff4",
+    "pass": 3
+   },
+   {
+    "quote": "「AI面接」と聞いて、皆さんはどんな場面を想像するでしょうか。",
+    "url": "https://note.com/genova_pr/n/n20c029e1eff4",
+    "pass": 3
+   },
+   {
+    "quote": "効率的で便利そう—そう感じる一方で、「AIだけで自分を判断されるのだろうか」と不安になる方もいる",
+    "url": "https://note.com/genova_pr/n/n20c029e1eff4",
+    "pass": 3
+   },
+   {
+    "quote": "医療DXを通じて「ヒトと医療をつないで健康な社会を創る」ことを目指すGENOVAは、",
+    "url": "https://note.com/genova_pr/n/n20c029e1eff4",
+    "pass": 3
+   },
+   {
+    "quote": "PeopleXが提供する「AI面接」を新卒・中途採用の一次選考に、「AI面談」を社員のコンディション把握のために、「AIロープレ」を新入社員の早期戦力化を目的に導入",
+    "url": "https://note.com/genova_pr/n/n20c029e1eff4",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、いきなりすべてをAIに委ねたわけではありません。現在は、人事が面接動画と評価結果を確認しながら、自社に合う評価基準を検討している段階です。",
+    "url": "https://note.com/genova_pr/n/n20c029e1eff4",
+    "pass": 3
+   },
+   {
+    "quote": "「ヒトと医療をつないで健康な社会を創る」ーGENOVAが目指す未来ー社長メッセージ｜GENOVA公式note",
+    "url": "https://note.com/genova_pr/n/n130f0f73020b",
+    "pass": 3
+   },
+   {
+    "quote": "「ヒトと医療をつないで健康な社会を創る」ーGENOVAが目指す未来ー社長メッセージ",
+    "url": "https://note.com/genova_pr/n/n130f0f73020b",
+    "pass": 3
+   },
+   {
+    "quote": "昨年、GENOVAは創立20周年を迎えました。",
+    "url": "https://note.com/genova_pr/n/n130f0f73020b",
+    "pass": 3
+   },
+   {
+    "quote": "決して平坦な道のりではありませんでしたが、変化を恐れず挑戦し続ける企業であることだけは、創業以来変わっていません。",
+    "url": "https://note.com/genova_pr/n/n130f0f73020b",
+    "pass": 3
+   },
+   {
+    "quote": "この20年の歩みは、挑戦の連続であり、同時に多くのご縁に支えられた歴史でもあります。改めて、関わってくださったすべての皆様に深く感謝申し上げます。",
+    "url": "https://note.com/genova_pr/n/n130f0f73020b",
+    "pass": 3
+   },
+   {
+    "quote": "そして今、私たちはこの節目を単なる通過点とするのではなく、新たな出発点と捉えています。20年の歴史を礎に、改めて原点に立ち返り、社員一丸となって次の成長フェーズへ踏み出してまいります。",
+    "url": "https://note.com/genova_pr/n/n130f0f73020b",
+    "pass": 3
+   },
+   {
+    "quote": "医療の現場に、テクノロジーを通してサービスの創造と新たな価値を提供",
+    "url": "https://note.com/genova_pr/n/n130f0f73020b",
+    "pass": 3
+   },
+   {
+    "quote": "現在、私たちはこれまでにない大きな社会課題と向き合っています。",
+    "url": "https://note.com/genova_pr/n/n130f0f73020b",
+    "pass": 3
+   },
+   {
+    "quote": "【社員インタビュー#01】「同期で一番、契約が遅かった」—その新人が、なぜ8年で執行役員になれたのか｜GENOVA公式note",
+    "url": "https://note.com/genova_pr/n/n4a4d39c14314",
+    "pass": 3
+   },
+   {
+    "quote": "【社員インタビュー#01】「同期で一番、契約が遅かった」—その新人が、なぜ8年で執行役員になれたのか",
+    "url": "https://note.com/genova_pr/n/n4a4d39c14314",
+    "pass": 3
+   },
+   {
+    "quote": "みなさん、こんにちは。GENOVAの広報担当です。",
+    "url": "https://note.com/genova_pr/n/n4a4d39c14314",
+    "pass": 3
+   },
+   {
+    "quote": "医療DX業界は、いま大きな変革期にあります。診療報酬改定、AI診断の浸透、医療機関のDX需要——市場は急拡大しています。",
+    "url": "https://note.com/genova_pr/n/n4a4d39c14314",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、医療系ITベンチャーへの就職には、いまもこんな声が聞こえてきます。",
+    "url": "https://note.com/genova_pr/n/n4a4d39c14314",
+    "pass": 3
+   },
+   {
+    "quote": "今回の対談は、その問いに「数字で答えられる」一人を招きました。GENOVA営業執行役員・下村直也さん。しかし、2019年新卒入社から、わずか8年で執行役員に駆け上がった同氏は、入社当時「同期で一番、契約が取れない新人」だったといいます。",
+    "url": "https://note.com/genova_pr/n/n4a4d39c14314",
+    "pass": 3
+   },
+   {
+    "quote": "聞き手は、12,000人以上のキャリア相談、4,000人以上の経営者輩出の実績を持つキープレイヤーズ代表・高野秀敏さん。「同期最下位の新人が、なぜ8年で執行役員に届いたか」を、構造的に分解します。",
+    "url": "https://note.com/genova_pr/n/n4a4d39c14314",
+    "pass": 3
+   },
+   {
+    "quote": "左：（株）キープレイヤーズ 高野秀敏さん、右：（株）GENOVA 下村直也",
+    "url": "https://note.com/genova_pr/n/n4a4d39c14314",
+    "pass": 3
+   },
+   {
+    "quote": "【ようこそGENOVAへ！】26年新卒研修合宿を実施しました！未来のGENOVAをつくる、2日間の学びと対話を紹介｜GENOVA公式note",
+    "url": "https://note.com/genova_pr/n/nc05a858589b8",
+    "pass": 3
+   },
+   {
+    "quote": "【ようこそGENOVAへ！】26年新卒研修合宿を実施しました！未来のGENOVAをつくる、2日間の学びと対話を紹介",
+    "url": "https://note.com/genova_pr/n/nc05a858589b8",
+    "pass": 3
+   },
+   {
+    "quote": "みなさん、こんにちは。GENOVAの採用広報担当です。",
+    "url": "https://note.com/genova_pr/n/nc05a858589b8",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、26年新卒メンバーを対象に実施した「研修合宿」の様子をお届けします。",
+    "url": "https://note.com/genova_pr/n/nc05a858589b8",
+    "pass": 3
+   },
+   {
+    "quote": "今回の研修合宿は、社会人としての土台をつくるだけでなく、GENOVAで働く意味を考え、自らの役割や目指す姿を言葉にしていくことを目的に開催しました。",
+    "url": "https://note.com/genova_pr/n/nc05a858589b8",
+    "pass": 3
+   },
+   {
+    "quote": "2日間のプログラムを通して、新入社員一人ひとりが仲間と向き合い、会社と向き合い、そして自分自身と向き合う時間となったのではないでしょうか。",
+    "url": "https://note.com/genova_pr/n/nc05a858589b8",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、その学びのプロセスをご紹介します。",
+    "url": "https://note.com/genova_pr/n/nc05a858589b8",
+    "pass": 3
+   },
+   {
+    "quote": "■1日目：「社会人として働く」とは何かを考える1日",
+    "url": "https://note.com/genova_pr/n/nc05a858589b8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Lisa Genova (@lisagenova) / X Lisa Genova (@lisagenova) / X X https://x.com > lisagenova",
+    "url": "https://x.com/lisagenova",
+    "pass": 3
+   },
+   {
+    "quote": "Taylor Genova • 2027 (@TaylorGenova) / X Taylor Genova • 2027 (@TaylorGenova) / X X https://x.com > TaylorGenova",
+    "url": "https://x.com/TaylorGenova",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 GENOVA 広報担当【公式】 (@genova_press) / X 株式会社 GENOVA 広報担当【公式】 (@genova_press) / X X https://x.com > genova_press",
+    "url": "https://x.com/genova_press",
+    "pass": 3
+   },
+   {
+    "quote": "Jayson Genova (@JaysonGenova1) / X Jayson Genova (@JaysonGenova1) / X X https://x.com > JaysonGenova1",
+    "url": "https://x.com/JaysonGenova1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Genova Diagnostics | LinkedIn Genova Diagnostics | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/genova-diagnostics-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "Frank Genova III - Co-CEO, Convergent Energy and Power Frank Genova III - Co-CEO, Convergent Energy and Power LinkedIn https://www.linkedin.com > frank-ge...",
+    "url": "https://www.linkedin.com/in/frank-genova-iii-24698924",
+    "pass": 3
+   },
+   {
+    "quote": "Genova Technologies | LinkedIn Genova Technologies | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/genova-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Jeff L. - Genova Diagnostics - LinkedIn Jeff L. - Genova Diagnostics - LinkedIn LinkedIn https://www.linkedin.com > jledford",
+    "url": "https://www.linkedin.com/in/jledford",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Genova , Italy - Home | Facebook Genova , Italy - Home | Facebook Facebook https://www.facebook.com > pages > Genova-Italy",
+    "url": "https://www.facebook.com/pages/Genova-Italy/106073859432101",
+    "pass": 3
+   },
+   {
+    "quote": "Genova's - Spring Grove - Facebook Genova's - Spring Grove - Facebook Facebook https://www.facebook.com > ... > Restaurant > Pizza place",
+    "url": "https://www.facebook.com/genovaspizzasg/",
+    "pass": 3
+   },
+   {
+    "quote": "Genova Diagnostics, Inc. - Facebook Genova Diagnostics, Inc. - Facebook Facebook https://www.facebook.com > ... > Medical Lab",
+    "url": "https://www.facebook.com/genova.diagnostics/",
+    "pass": 3
+   },
+   {
+    "quote": "Genova Italian Restaurant | Newton KS - Facebook Genova Italian Restaurant | Newton KS - Facebook Facebook https://www.facebook.com > ... > Italian Restaurant",
+    "url": "https://www.facebook.com/genovaitalianrestaurantinnewtonks/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://genova.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genova.co.jp/company/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genova.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genova.co.jp/company/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genova.co.jp/works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genova.co.jp/service/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://genova.co.jp/smartclinic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genova.co.jp/company/access.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genova.co.jp/company/vision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genova.co.jp/works/case11.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genova.co.jp/works/case10.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genova.co.jp/works/case09.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genova.co.jp/works/case08.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genova.co.jp/works/case07.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bizreach.jp/companies/2843/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.logmi.jp/articles/385752",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9341",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000016520.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=9341",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.immedio.io/case/genova/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nomoca.net/nomocaaichat/jirei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=VF8NC83zkcM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kabuberry_/n/n8f4df7445453?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/genova_pr/m/mb1850a47ac2a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/genova_pr/n/n00671e5ab62c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/genova_pr/n/n20c029e1eff4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/lisagenova",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TaylorGenova",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/genova_press",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JaysonGenova1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/genova-diagnostics-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/frank-genova-iii-24698924",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/genova-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jledford",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/Genova-Italy/106073859432101",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/genovaspizzasg/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/genova.diagnostics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/genovaitalianrestaurantinnewtonks/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/genova_pr/n/n130f0f73020b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/genova_pr/n/n4a4d39c14314",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/genova_pr/n/nc05a858589b8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/genova_press",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "GENOVA 会社概要 資本金 設立",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "https://genova.co.jp/company/company.html",
+    "https://www.bizreach.jp/companies/2843/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9341",
+    "https://genova.co.jp/company/history.html",
+    "https://macloud.jp/companies/18564",
+    "https://best100.v-tsushin.jp/company/genova/",
+    "https://job.mynavi.jp/28/pc/search/corp296674/outline.html",
+    "https://gyokai.media/company/6011001046711/",
+    "https://job.mynavi.jp/28/pc/search/corp262718/outline.html"
+   ]
+  },
+  {
+   "query": "GENOVA 事業内容 売上",
+   "results": [
+    "https://genova.co.jp/ir/highlights.html",
+    "https://finance.logmi.jp/articles/385752",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=9341",
+    "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "https://www.crex-data.com/company/9341",
+    "https://genova.co.jp/ir/presentation.html",
+    "https://minkabu.jp/news/4232286",
+    "https://kitaishihon.com/company/9341/business",
+    "https://zukaikeizai.com/kaisha/9341/",
+    "https://genova.co.jp/ir/result.html"
+   ]
+  },
+  {
+   "query": "GENOVA 資金調達 株主",
+   "results": [
+    "https://genova.co.jp/ir/individual_investor.html",
+    "https://prtimes.jp/main/html/rd/p/000000005.000016520.html",
+    "https://www.nikkei.com/nkd/company/disclose/?scode=9341",
+    "https://initial.inc/companies/A-01487",
+    "https://kabutan.jp/stock/holder?code=9341",
+    "https://note.com/umeki/n/na10316c6cf05",
+    "https://search.sbisec.co.jp/v2/popwin/info/connect/ipo/202211182101.pdf",
+    "https://minkabu.jp/stock/9341/ipo",
+    "https://j-lic.com/companies/9341/shareholders",
+    "https://kabutan.jp/stock/holder?code=9341&tab=0"
+   ]
+  },
+  {
+   "query": "GENOVA 導入事例",
+   "results": [
+    "https://genova.co.jp/works/",
+    "https://www.immedio.io/case/genova/",
+    "https://nomoca.net/nomocaaichat/jirei/",
+    "https://prtimes.jp/main/html/rd/p/000000109.000016520.html",
+    "https://www.youtube.com/@genova.movies",
+    "https://nomoca.net/stand/works/",
+    "https://clinic-keiei-lab.com/clinic-koritsuka-service/",
+    "https://www.exitfare-induction.net/list/genova.html",
+    "https://gjc.me/video-detail/%E5%8C%BB%E7%99%82%E6%B3%95%E4%BA%BA%E7%A4%BE%E5%9B%A3%E7%B4%B9%E4%BB%8B%E5%8B%95%E7%94%BB%E4%BA%8B%E4%BE%8B/",
+    "https://genova.co.jp/en/"
+   ]
+  },
+  {
+   "query": "GENOVA 主要取引先",
+   "results": [
+    "https://genova.co.jp/ir/stock.html",
+    "https://www.youtube.com/watch?v=VF8NC83zkcM",
+    "https://job.mynavi.jp/27/pc/search/corp255741/outline.html",
+    "https://finance.logmi.jp/articles/383866",
+    "https://www.nttdocomo-v.com/portfolio/genova/",
+    "https://scouter.monex.co.jp/report/top/9341",
+    "https://holistic-r.org/c_info/9341/",
+    "https://maonline.jp/db/companies/9341/shareholding",
+    "https://genova.co.jp/ir/individual_investor.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9341"
+   ]
+  },
+  {
+   "query": "site:note.com GENOVA",
+   "results": [
+    "https://note.com/kabuberry_/n/n8f4df7445453?hl=en",
+    "https://note.com/genova_pr/m/mb1850a47ac2a",
+    "https://note.com/genova_pr/n/n00671e5ab62c",
+    "https://note.com/genova_pr/n/n20c029e1eff4",
+    "https://note.com/genova_pr/m/mb1850a47ac2a/hashtag/AI%E6%B4%BB%E7%94%A8",
+    "https://note.com/genova_pr/m/mb1850a47ac2a/hashtag/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEGENOVA",
+    "https://note.com/genova_pr/n/n47f91eb263c6",
+    "https://note.com/genova_pr/m/mb1850a47ac2a/archive/2026-09",
+    "https://note.com/genova_pr/m/m0a5ec33e65e5",
+    "https://note.com/genova_pr/m/m18df7f46d26f/archive/2026-08"
+   ]
+  },
+  {
+   "query": "site:x.com GENOVA",
+   "results": [
+    "https://x.com/lisagenova",
+    "https://x.com/TaylorGenova",
+    "https://x.com/genova_press",
+    "https://x.com/JaysonGenova1",
+    "https://x.com/lauren_genova",
+    "https://x.com/ComunediGenova",
+    "https://x.com/MelissaDeGenova/status/2109695304866124213",
+    "https://x.com/NJCAAFootball/status/2118048130080129410",
+    "https://x.com/mosquitosplace",
+    "https://x.com/MelissaDeGenova/status/2074750180671578120"
+   ]
+  },
+  {
+   "query": "site:linkedin.com GENOVA",
+   "results": [
+    "https://www.linkedin.com/company/genova-diagnostics-inc-",
+    "https://www.linkedin.com/in/frank-genova-iii-24698924",
+    "https://www.linkedin.com/company/genova-technologies",
+    "https://www.linkedin.com/in/jledford",
+    "https://www.linkedin.com/company/genovatransact",
+    "https://www.linkedin.com/in/tom-genova",
+    "https://www.linkedin.com/company/genovacd",
+    "https://www.linkedin.com/in/maxgenova",
+    "https://www.linkedin.com/in/gmongalo",
+    "https://www.linkedin.com/in/diane-genova-02541543"
+   ]
+  },
+  {
+   "query": "site:facebook.com GENOVA",
+   "results": [
+    "https://www.facebook.com/pages/Genova-Italy/106073859432101",
+    "https://www.facebook.com/genovaspizzasg/",
+    "https://www.facebook.com/genova.diagnostics/",
+    "https://www.facebook.com/genovaitalianrestaurantinnewtonks/",
+    "https://www.facebook.com/genovadeli/",
+    "https://www.facebook.com/CiaoAndiamo/videos/genova-seen-by-someone-who-actually-knows-it-max-co-owner-of-ciao-andiamo-grew-u/1770453173984915/",
+    "https://www.facebook.com/p/Genova-Academy-61586877673505/",
+    "https://www.facebook.com/p/Genovas-Pizza-Station-Take-Out-Kitchen-100079041878926/",
+    "https://www.facebook.com/GenovaSeafood/",
+    "https://www.facebook.com/bibliotecadeamicisgenova/"
+   ]
+  },
+  {
+   "query": "GENOVA note 社長",
+   "results": [
+    "https://note.com/genova_pr/n/n130f0f73020b",
+    "https://note.com/genova_pr/n/n4a4d39c14314",
+    "https://note.com/genova_pr/n/nc05a858589b8",
+    "https://genova.co.jp/company/officers.html",
+    "https://www.facebook.com/genova.co.ltd/posts/note%E6%96%B0%E9%80%A3%E8%BC%89%E3%82%AD%E3%83%BC%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%BAgenova%E5%AF%BE%E8%AB%87-%E5%8C%BB%E7%99%82%E6%A5%AD%E7%95%8C%E3%81%AE%E5%A4%89%E9%9D%A9%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99genova%E3%81%AE%E4%BB%8A%E3%82%92%E4%BC%9D%E3%81%88%E3%82%8B%E5%AF%BE%E8%AB%87%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%81%8C%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%AC%E9%80%A3%E8%BC%89%E3%81%A7%E3%81%AF%E6%95%B0%E3%80%85%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%82%92%E6%88%90%E5%8A%9F/1539411331518699/",
+    "https://note.com/genova_pr/n/n00671e5ab62c",
+    "https://x.com/genova_press",
+    "https://note.com/genova_pr/n/nbae6b45057ac",
+    "https://the-shashi.com/tse/9341/ceo/",
+    "https://note.com/genova_pr"
+   ]
+  },
+  {
+   "query": "GENOVA X 投稿",
+   "results": [
+    "https://x.com/genova_press",
+    "https://genova.co.jp/category/news/topics",
+    "https://www.shain-voice.com/corporate/561551146509846",
+    "https://syukatsu-kaigi.jp/companies/82600/experiences/interview",
+    "https://jp.linkedin.com/company/genova-inc-",
+    "https://note.com/genova_pr/n/n20c029e1eff4",
+    "https://s.kabutan.jp/stocks/9341/news/",
+    "https://www.reddit.com/r/FFVIIRemake/comments/1ey4gib/aeriths_theme_x_jenova_tenacity_seamless/?tl=ja",
+    "https://www.facebook.com/watch/hashtag/genova/",
+    "https://x.com/GENOVA2dm"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部30頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部30頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部30頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部30頁・検索11回）",
+  "選出の記録": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部30頁・検索11回）"
+ }
+}

@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・59品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・61品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1981,6 +1981,7 @@
   - 「OSINT Tools And Techniques | OSINT Technical Sources - Neotas — 1 day ago · Open Source Intelligence (OSINT) refers to the systematic process of collecting, analyzing, and transforming publicly available information into actionable intelligence.」（https://www.neotas.com/osint-tools-and-techniques/）
   - 「OSINT collection techniques using legitimate tools — Aug 6, 2026 · In practice, OSINT collection is a workflow, not just a set of tools. You start with a question, gather public data from a defined set of sources, validate what you find, and then decide whether the result changes your risk picture.」（https://securityboulevard.com/2026/08/osint-collection-techniques-using-legitimate-tools/）
   - 「Complete Osint Guide. In cybersecurity, some of the most ... — Aug 13, 2025 · In this guide, we’ll cover key OSINT techniques, tools, and workflows for gathering actionable intelligence. What is OSINT and Why It Matters. OSINT involves collecting data from public...」（https://medium.com/@lakeshriyasha/complete-osint-guide-2496e118c813）
+  - 「【第14章】OSINT実践編：公開情報からここまでわかるなんて…！ #初心... — Aug 11, 2025 · 🔎 第14章：OSINT実践編 こんにちは、守山しずくです🌸 今回は、誰でもアクセスできる“公開情報”を活用して、情報を収集・分析する技術「OSINT（Open Source Intelligence）」を実際に体験してみましょう！」（https://qiita.com/securitytimes/items/5c380709711cfedae0bc）
 
 ## 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）（checking statistical definitions coverage threshold member-only shipment vs sales）
 - 文脈：定義の点検
@@ -3140,7 +3141,7 @@
 - 実例：
   - 「例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
   - 「(無料、データ加工実例)」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
-- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
 
 ## 官報・電子公告の決算公告で中小の財務を読む実務（探し方・単位・公告が無い理由）（reading Japanese public financial notices kanpo SME balance sheet units）
 - 文脈：一次情報の探し方
@@ -3503,11 +3504,11 @@
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
 
 ## Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）（main content extraction boilerplate removal related articles scraping）
 - 文脈：
@@ -3679,3 +3680,144 @@
   - 「毎月勤労統計調査の結果をほかの統計と組み合わせて算出した指標が公表されている」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
   - 「この時期の調査結果については、「東日本大震災に関連した特別集計」」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
   - 「このために過去の統計との比較に問題が生じることを考慮して、新たに「共通事業所」(前年にも調査対象であった事業所のみを抽出して、現在のウエイトに固定して集計した結果) の前年同月比の集計結果を作成・公表することとした」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+
+## 名寄せ・照合の正解例（正解ラベル）で判定を検証する実務（失敗例・未判定例の扱い・自動で上書きしない）（entity resolution gold standard labeled pairs evaluation precision recall manual review）
+- 文脈：同一性
+- 手順・やり方：
+  - 「この手順で確認するのは入力データの一致です」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「ベンチマークの方法論と再現手順（固定コミット）」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説｜グロービス経営大学院 ナノ単科」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「この記事では、名寄せの基本から、データクレンジングとの違い、実施手順、精度を保つ工夫まで解説します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「用途ごとの違いも押さえ、自社や自身の目的に合った進め方を考えていきましょう」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「履歴を残したまま共通IDで結ぶ方法もあり、情報を消して一件にする方法だけが名寄せではありません」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「確実性の高い会員番号などがある場合は、その番号を中心に記録を結び付ける方法が考えられます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「情報を入力する人や入力方法が複数あることも、重複を生む要因です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「判断に迷った記録は「要確認」として保留し、無理に自動処理へ含めない方法もあります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「「株式会社」を機械的に削除するなどの処理は、別の会社との区別を弱める場合があるため、対象項目や処理方法を慎重に決めましょう」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「更新日が新しい情報を優先する方法、情報源の信頼性を基準にする方法、項目ごとに優先順位を設定する方法などがあります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「判定の根拠が弱いものは候補として保留し、担当者が確認する手順を設けてください」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「名寄せは個人情報を扱うことがあるため、利用目的やアクセス権限、保管方法を確認してから実施します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「データの抽出、加工、外部委託、作業後の保管や削除など、工程ごとに管理方法を決めることが重要です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+- 突き合わせ・推定：
+  - 「また、このv1では全入力の生成元が検証用DBに存在するため、unmatched率と偽陰性率が一致します」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「には、入力の生成器、検証用データ（fixture）、曖昧行のラベル、集計コード、測定結果があります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「ここでは、入力の再構築とAPI照合の再測定を分けて説明します」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「曖昧性の判定を独立に検証したり、APIを呼んで名寄せの精度を測り直したりするものではありません」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「API経由で照合結果まで測り直すには、同じfixtureを投入済みの検証APIとAPIキーが必要です」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「環境変数の指定だけで検証APIやDBが作られるわけではありません」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「どのデータに、どのルールを適用した結果なのかまで確認して、自分たちの入力で検証する範囲を決める必要があります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「名寄せとは、複数のデータに記録された情報を照合し、同じ人物・企業・世帯などに関するものを判定して、関連付けたり統合したりする作業です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「名寄せとは、複数の記録を照合し、同じ対象についての情報であると判断できたものに共通の識別子を付けたり、代表となる情報にまとめたりすることです」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「顧客番号や法人番号のように重複しにくい番号があれば照合に役立ちますが、番号がない場合は氏名、住所、電話番号などの組み合わせを使います」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「氏名、ふりがな、生年月日、住所、電話番号、メールアドレスなどが照合項目になります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「法人番号のような識別情報が利用できれば、名称だけに頼るより照合しやすくなります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「旧社名や合併前の情報は削除せず、変更履歴として保持すると、過去の取引記録との照合にも役立ちます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「仮説を立て、データで検証する思考を身に付ける」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「これに対して名寄せは、整えたデータを照合し、同一の人物や企業などに属する記録を特定して結び付ける作業です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+- 一次情報の探し方：
+  - 「資料の用途と限界を理解し、登記事項証明書など他の情報と組み合わせることが大切です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「過去の一定期間で値動きが小さくても、企業の決算、政策変更、災害や地政学的な出来事などで急に価格が動く場合があります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「計算には、データの散らばり具合を示す統計量である標準偏差がよく使われます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「例えば年率20％という表示は、一定の統計上の仮定を置いたときに、年間の収益率の標準的な振れ幅を表します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「株式なら企業の業績見通しの変更、決算発表、新製品や規制に関するニュースなどが、売買の判断を変えるきっかけになります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「ただし、統計上のばらつきは上昇と下落の両方を含みます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「標準偏差とは、データが平均値の周辺にどの程度散らばっているかを測る統計量です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「決算や金融政策の発表などを控え、市場参加者が大きな値動きを警戒すると、オプションへの需要が高まり、IVが上昇することがあります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「株式では、個別企業の業績や決算、製品発表、業界の見通しなどが価格変動に影響します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「氏名や所属、雇用契約、勤怠、給与、評価、保有資格、研修履歴などを扱い、採用から入社、配置、育成、退職まで、従業員に関わるさまざまな場面で利用されます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「従業員情報の管理を基礎として、労務手続きや勤怠、給与、人事評価、採用、分析などが組み合わされています」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「特化型は、労務手続き、人事評価、採用、勤怠など、特定の業務に重点を置くシステムです」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「分布の形が分析手法の前提に関わる場合は、ヒストグラムや統計的な確認を行い、目的に応じた方法を選びます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「2020年末から2025年末までなら5年ですが、2020年度と2025年度の決算値を比較するときは、各値がどの時点を表すかを確かめます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「年度のラベルだけで機械的に判断せず、決算期、対象期間、データの基準日をそろえるのが基本です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+- 失敗・落とし穴：
+  - 「ほとんどの入力を人手確認へ回せば、自動確定した結果の誤りは減らしやすくなります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「人手に戻る件数と、自動処理に混ざる誤りを、一つの数字で表そうとしないための2軸です」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「この条件で自動確定した1,363件では、誤りが観測されませんでした」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「DBに存在しない企業を混ぜる評価では、同じ集計式をそのまま使えない点にも注意が必要です」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「この合成セットでのconfident判定の誤り」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「このセットでは、0.70の点でも誤りが観測されていないからです」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説｜グロービス経営大学院 ナノ単科」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「寮や集合住宅、事業所なども同じ住所を共有するため、住所の一致だけで世帯を判断すると誤りが生じます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「データクレンジングとは、データの誤りや欠損、表記のばらつきなどを確認し、決めた基準に沿って修正・整理する作業です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「小さな範囲で試行し、結果を業務担当者が確認してから全体に適用すると、影響の大きい誤りを抑えられます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「どの程度の誤りを許容できるかは業務によって異なるため、試行結果を確認しながら調整します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「統合後は、無作為に選んだ記録や誤りが起きやすいパターンを確認し、誤統合と見落としの両方を検証します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「顧客情報を修正する担当者、統合を承認する責任者、誤りが見つかった場合の戻し方を決めておくと、継続運用が安定します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+  - 「ただし、名寄せだけでデータが正確になるわけではなく、欠損や入力誤り、集計条件も別途確認する必要があります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
+- 実例：
+  - 「自動確定できた割合と、自動確定した結果の正しさを分けて測ること」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「公開している合成データ2,000件のベンチマークを使い、指標の分母、曖昧な入力の採点、測定結果の読み方を整理します」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「正解を付けた評価データに適用して、結果を測る必要があります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「ほとんどの入力を人手確認へ回せば、自動確定した結果の誤りは減らしやすくなります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「正解データを作るときには、入力だけでは一社に決められないケースも考える必要があります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「合成2,000件の測定結果を読む」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「ここからは、2026年7月20日付の結果JSONに記録された測定値です」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「一方、公開している閾値カーブには、候補のスコアに別の閾値を当てた比較結果もあります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「これは候補のスコアを使った事後分析であり、本番の設定を変えて測り直した結果ではありません」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「閾値を選ぶ材料にはなりますが、0.85が最適だと示した結果ではありません」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「合成データで観測した結果を、そのまま顧客の取引先マスタや本番の全入力へ当てはめることはできません」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「同じ判定ルールでも、入力の構成が違えば測定結果は変わります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「には、入力の生成器、検証用データ（fixture）、曖昧行のラベル、集計コード、測定結果があります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「API経由で照合結果まで測り直すには、同じfixtureを投入済みの検証APIとAPIキーが必要です」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+  - 「本文の精度やカバレッジは7月20日付の保存結果、9月27日に確認したのは入力の再構築です」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
+
+## 分析の成果物で「前回から何が変わったか」を書く実務（ICD 203・分析の変化の説明・判断の言い換え）（analytic standards change in analytic judgment explain what changed ICD 203 tradecraft）
+- 文脈：書き方
+- 手順・やり方：
+  - 「standards, taking steps to anticipate challenges, and set the conditions for the IC」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「(1) Properly describes quality and credibility of underlying sources, data, and methodologies」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「“more effective methods for creating, exploiting, and sharing databases”25 and」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「and credibility of underlying sources, data, and methodologies. ” (emphasis added)」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「Methodologies casts a wide enough net that it could include adding a descriptor or」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「Framework for Artificial Intelligence46 and any AI governing policies」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「of data which may have been processed using AI/ML methods.47」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「2’s review will develop recommendations on how to avoid potential pitfalls」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「46 See Artificial Intelligence Ethics Framework for the Intelligence Community v. 1.0 as of June 2020; AI_Ethics_」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「Framework_for_the_Intelligence_Community_10.pdf (dni.gov)」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+- 突き合わせ・推定：
+  - 「In the wake of the faulty 2002 National Intelligence Estimate (NIE) on Iraq’s」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+- 一次情報の探し方：
+  - 「Intelligence Community Directive 203; ICD-203_TA_Analytic_Standards_21_Dec_2022.pdf (dni.gov)」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「NSAEBB129/nie.pdf」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「15 Intelligence Community Directive 203; ICD-203_TA_Analytic_Standards_21_Dec_2022.pdf (dni.gov)」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「16 Intelligence Community Directive 203; ICD-203_TA_Analytic_Standards_21_Dec_2022.pdf (dni.gov)」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「TA_Analytic_Standards_21_Dec_2022.pdf (dni.gov)). In both instances, the Directive appears to have been adjusted to」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「files/2020-09/AI-Definitions-HAI.pdf」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「1, Number 5; Nov. 2002; https:/ /www.cia.gov/static/Kent-Profession-Intel-Analysis.pdf; Barnes, Bart, “CIA Official」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「Machines; January 16, 2019; AIM-Strategy.pdf (dni.gov)」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「39 Intelligence Community Directive 203; ICD-203_TA_Analytic_Standards_21_Dec_2022.pdf (dni.gov)」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「when new developments indicate a modification is necessary. See ICD-203_TA_Analytic_Standards_21_Dec_2022.pdf」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「Recruiters;” Working Paper. Falling+Asleep+at+the+Wheel+-+Fabrizio+DellAcqua.pdf (squarespace.com)」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「Framework_for_the_Intelligence_Community_10.pdf (dni.gov)」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+- 失敗・落とし穴：
+  - 「has led to mistaken arrests30 or disparate outcomes in sentencing, as warnings of」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「mistakes to come.31 Adopting AI tools provides exciting new opportunities but」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「the potential for it to contain error and bias. As noted in the ATS 3 example, any」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「reveal and mitigate bias. ” Further, the section notes that analysts must be “alert to」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「own biases, a fair reading would extend that awareness to other sources which」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「Controlling for bias is nothing new in the conduct of analysis. Further, contending」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「is controlling for bias. Even with this backdrop, the introduction of an AI tool」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「workers’ use of AI tools revealed both benefits and pitfalls. While some」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「2’s review will develop recommendations on how to avoid potential pitfalls」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「19 This includes: Kwoun, J. (2021); “Cognitive Biases and the Need for Analytic Tradecraft Standards in Large-Scale Ground」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「31 Angwin, Julia; Larson, Jeff; Mattu, Surya; Kirchner, Lauren; “Machine Bias;” ProPublica; May 23, 2016; https:/ /www.」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「33 Gordon, Susan; “Op-ed: We keep making the same mistakes with data. Here’s how we fix the problem;” CNBC; August」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「7, 2020; Op-ed: We keep making the same mistakes with data. Here’s how we fix the problem | Belfer Center for」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「and mitigate bias. Analysts should be alert to influence by existing analytic positions or judgments and must consider」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+- 実例：
+  - 「imply meaning where it had not existed. As an example, if an AI-T」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「meaning to the observed behavior. As a hypothetical example, when」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「led to those characterizations. Building on the surveillance example, the」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「counter-surveillance conduct or provides examples. Citations provide」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「determine its relevance, reliability, and applicability to the current case.」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「example, an additional surveillance report were added which determined」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「statement that meets the structure outlined in ATS.iii For example, the prompt」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「the potential for it to contain error and bias. As noted in the ATS 3 example, any」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「1 As an example related to facial recognition, see the Intelligence Advanced Research Activity’s JANUS program, whose」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「5 See US Department of Justice’s “AI Use Case Inventory;” https:/ /www.justice.gov/open/page/file/1517316/」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「9 In addition to these examples, DHS initiated an AI safety board, particularly as it pertains to the use of AI to secure」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「41 As an example, Harvard University offers an FAQ page related to AI guidance and use in academia. Three sample」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）

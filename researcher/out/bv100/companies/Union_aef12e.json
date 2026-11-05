@@ -1,0 +1,867 @@
+{
+ "name": "Union",
+ "aliases": [
+  "union-company"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T15:13:29.438797+00:00",
+ "official_url": "https://union-company.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "［東京本社］ 〒160-0022 東京都新宿区新宿4丁目1-6 JR新宿ミライナタワー 22階 Google Map TEL：03-5944-0940／FAX：03-5944-0941",
+    "url": "https://union-company.jp/company/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：平成24年11月",
+    "url": "https://union-company.jp/company/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "20,000,000円",
+    "url": "https://union-company.jp/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "堺 健太",
+    "url": "https://union-company.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "30名 (2023.3現在)",
+    "url": "https://union-company.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "企業プロモーション映像や商品紹介動画、オリジナルアニメーション、SNS向け短尺動画など、",
+    "url": "https://union-company.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "以下に、一部のお客様からいただいた声をご紹介いたします",
+    "url": "https://union-company.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容｜新宿のWebマーケティングに強い広告代理店｜株式会社Union",
+    "url": "https://union-company.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "アフィリエイト広告運用サービスは、効果的なパートナーシップを構築し、収益の最大化を実現します",
+    "url": "https://union-company.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "広告用動画制作サービスは、徹底的に成果にこだわり、売上や申込件数の増加に直結する購買促進動画を制作します",
+    "url": "https://union-company.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "収益を重視した広告動画をYouTube広告やTikTok広告などのプラットフォームに完全対応して提供",
+    "url": "https://union-company.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "美容クリニックブランディング動画（施術紹介）",
+    "url": "https://union-company.jp/video-works/",
+    "pass": 1
+   },
+   {
+    "quote": "Unionが提供する広告事業は、企画・制作から運用・運営までワンストップで進められるだけでなく、さまざまなチャネルにも対応が可能です",
+    "url": "https://union-company.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "この多様性を生かすことで、コロナ渦においても売上を2倍以上にすることができました",
+    "url": "https://union-company.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、オウンドメディアの運営経験を活かし、小学生や中学生など若いカテゴリーが中長期的に成長できるサービスにも力を入れ、その分野でトップシェアを取ることを目標としています",
+    "url": "https://union-company.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容を詳しくヒアリングし、最適な媒体とターゲティング、運用方針を提案",
+    "url": "https://union-company.jp/service/sns-ad/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の広告費を無駄にせず、効果的な広告を展開するために、事業内容や課題に合わせた戦略を構築します",
+    "url": "https://union-company.jp/service/sns-ad/",
+    "pass": 1
+   },
+   {
+    "quote": "Unionのアフィリエイト広告運用サービスは、さまざまな業界のアフィリエイト広告運用の実績を豊富に持ち、金融・保険業、人材派遣・紹介業、美容、不動産、EC、士業、通信など競合が多い分野でも成功を収めてきました",
+    "url": "https://union-company.jp/service/affiliate-ad/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の広告を効果的に展開するために、業界内で高い影響力を持つメディアを運営しています",
+    "url": "https://union-company.jp/service/affiliate-ad/",
+    "pass": 1
+   },
+   {
+    "quote": "各メディアごとに業界の知識に精通した専任担当者が運営を行っています",
+    "url": "https://union-company.jp/service/affiliate-ad/",
+    "pass": 1
+   },
+   {
+    "quote": "徹底的に成果にこだわり、売上や申込件数の増加に直結する購買促進動画を制作",
+    "url": "https://union-company.jp/service/video-ad/",
+    "pass": 1
+   },
+   {
+    "quote": "豊富な実績を持つ成果報酬型の運用に基づき、収益を重視した広告動画をYouTube広告やTikTok広告などのプラットフォームに完全対応して提供します",
+    "url": "https://union-company.jp/service/video-ad/",
+    "pass": 1
+   },
+   {
+    "quote": "美容クリニックブランディング動画（施術紹介）",
+    "url": "https://union-company.jp/service/video-ad/",
+    "pass": 1
+   },
+   {
+    "quote": "を持ち、安定した収益力を示しています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/11/28/080000_1",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容: 土木建築線路工事の施工、建設資材・機械の販売等",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/11/28/080000_1",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容: 土木建築線路工事の施工、建設資材の販売・運送等",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/11/28/080000_1",
+    "pass": 3
+   },
+   {
+    "quote": "導入前の背景や決め手から、TUNAG活用によって得られた効果や成果をご紹介します",
+    "url": "https://union.tunag.jp/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "基本機能は全て月額費用内でご利用いただけます",
+    "url": "https://biz.tunag.jp/lp/union",
+    "pass": 3
+   },
+   {
+    "quote": "現在のご状況や組織課題を伺い、事例のご紹介や最適な活用方法のご提案をさせていただきます",
+    "url": "https://biz.tunag.jp/lp/union",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "また、私たちは顧客との密なコミュニケーションを大切にし、お客様のニーズに合わせた柔軟なサービス提供が可能です",
+    "url": "https://union-company.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "効果的な広告戦略とクリエイティブなLP・バナー、動画コンテンツで、ブランドの魅力を最大限に引き出し、顧客の心を捉えます",
+    "url": "https://union-company.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "美容クリニックブランディング動画（経営理念）",
+    "url": "https://union-company.jp/video-works/",
+    "pass": 1
+   },
+   {
+    "quote": "美容クリニックブランディング動画（施術紹介）",
+    "url": "https://union-company.jp/video-works/",
+    "pass": 1
+   },
+   {
+    "quote": "実際に成果が発生した顧客データを広告ツールに読み込ませることで広告配信の最適化が進みます",
+    "url": "https://union-company.jp/service/listing-ad/",
+    "pass": 1
+   },
+   {
+    "quote": "病院やクリニック様のWeb集客に特化したプラン",
+    "url": "https://union-company.jp/service/listing-ad/",
+    "pass": 1
+   },
+   {
+    "quote": "Unionのアフィリエイト広告運用サービスは、さまざまな業界のアフィリエイト広告運用の実績を豊富に持ち、金融・保険業、人材派遣・紹介業、美容、不動産、EC、士業、通信など競合が多い分野でも成功を収めてきました",
+    "url": "https://union-company.jp/service/affiliate-ad/",
+    "pass": 1
+   },
+   {
+    "quote": "質の高いユーザーを集めることで、コンバージョン率の向上や顧客獲得の効率化を図ります",
+    "url": "https://union-company.jp/service/affiliate-ad/",
+    "pass": 1
+   },
+   {
+    "quote": "広告用動画制作サービスでは、幅広い演技経験を持つプロの演者を起用し、クライアントのニーズに合わせた撮影を行います",
+    "url": "https://union-company.jp/service/video-ad/",
+    "pass": 1
+   },
+   {
+    "quote": "美容クリニックブランディング動画（経営理念）",
+    "url": "https://union-company.jp/service/video-ad/",
+    "pass": 1
+   },
+   {
+    "quote": "美容クリニックブランディング動画（施術紹介）",
+    "url": "https://union-company.jp/service/video-ad/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の声 | 新宿のWebマーケティングに強い広告代理店｜株式会社Union",
+    "url": "https://union-company.jp/customer-reviews/",
+    "pass": 1
+   },
+   {
+    "quote": "竹中工務店・清水建設・鹿島建設・大林組・大成建設・LIXIL・三協立山・杉田エース・三和シヤッタ－・YKK AP 等",
+    "url": "https://www.artunion.co.jp/about_us/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ドアハンドル専門メーカー、株式会社ユニオンを大阪市南区に設立",
+    "url": "https://www.artunion.co.jp/about_us/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "大阪市西区南堀江(現在地)に本社ビルを建設、本社を移転",
+    "url": "https://www.artunion.co.jp/about_us/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユニオン物流株式会社を大阪市西淀川区へ移転",
+    "url": "https://www.artunion.co.jp/about_us/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "#6451 決算分析 : ユニオン建設株式会社 第67期決算 当期純利益 2,829百万円 - 決算公告データ倉庫",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/11/28/080000_1",
+    "pass": 3
+   },
+   {
+    "quote": "グループの中核企業として鉄道インフラの建設・メンテナンスを担うユニオン建設株式会社",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/11/28/080000_1",
+    "pass": 3
+   },
+   {
+    "quote": "は約77.0%と、建設業として極めて高い水準を誇ります",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/11/28/080000_1",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容: 土木建築線路工事の施工、建設資材・機械の販売等",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/11/28/080000_1",
+    "pass": 3
+   },
+   {
+    "quote": "同社の事業は、鉄道インフラを支える「総合建設業」に集約されます",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/11/28/080000_1",
+    "pass": 3
+   },
+   {
+    "quote": "詳細は公式HPに記載は少ないが、総合建設業として事業に含まれています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/11/28/080000_1",
+    "pass": 3
+   },
+   {
+    "quote": "私鉄・公営鉄道や海外プロジェクトへの参画で顧客基盤を",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/11/28/080000_1",
+    "pass": 3
+   },
+   {
+    "quote": "ユニオン建設株式会社は、日本の鉄道網を支える縁の下の力持ちであり、財務的にも極めて優良な企業です",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/11/28/080000_1",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容: 土木建築線路工事の施工、建設資材の販売・運送等",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/11/28/080000_1",
+    "pass": 3
+   },
+   {
+    "quote": "経営情報｜JR東日本グループ｜ユニオン建設株式会社",
+    "url": "https://www.union-k.co.jp/company/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "ユニオン建設では新入社員を積極採用中！充実した研修制度やチャレンジを後押しする環境が、1人ひとりの成長を支えます",
+    "url": "https://www.union-k.co.jp/company/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "JR東日本グループ唯一の総合建設会社ユニオン建設で、きみの可能性が走りだす！詳しくはこちらから！",
+    "url": "https://www.union-k.co.jp/company/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "AI金融OSスタートアップのCollective、シリーズBとグロース・ファシリティで総額1億ドルを調達",
+    "url": "https://www.unite.ai/ja/union-ai-raises-38-1m-series-a-to-expand-ai-development-infrastructure/",
+    "pass": 3
+   },
+   {
+    "quote": "400組合以上のご導入事例を基に",
+    "url": "https://biz.tunag.jp/lp/union",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "BtoBの商材やサービスの広告でそのパフォーマンスが発揮されやすいMicrosoft広告運用方法から応用までを解説します",
+    "url": "https://union-company.jp/service/listing-ad/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | 企業情報 | UNION CORPORATION JAPAN — 会社概要 社名 株式会社ユニオン 代表名 代表取締役 立野純三 設立 1958年12月 資本金 9,500万 所在地 [本社] 〒550-0015 大阪市西区南堀江2-13-22 TEL.06 (6532)3188／FAX.06 (6533)3747 UNION本社のGoogleマップ [大阪支店] 〒550-0015 大阪市西区南堀江2-13-22 TEL.06 (6532)3731／FAX.06 (6533)2293",
+    "url": "https://www.artunion.co.jp/about_us/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜新宿のWebマーケティングに強い広告代理店｜株式会社Union — Unionは、2012年に創業以来、”必要な情報を必要な人へ、より早く正確に届けるサービスの実現”を目指して活動を続けてきました。 現在、インターネットの普及率は90％を超え、ほぼすべての人がインターネットを通じて毎日何かしらの情報を得ています。",
+    "url": "https://union-company.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社ユニオン - union-will.jp会社概要 | 株式会社ユニオンコーポレーション会社概要 | 株式会社ユニオン | オフィスづくりをワンストップで支援会社概要 | ユニオンツール株式会社 - UNION TOOL — 世界と食卓を結ぶ架け橋に。 海外の生産地に密着し、日本人が日本人の目と舌で確かめた安全かつ質の高いフルーツと野菜を素早くお客様のニーズに合わせてお届けできること、それが私たちユニオンの最大の強みです。 私たちはウエルネス企業である上で最新の技術を探求、駆使してよりファクトな情報のみ収 集しあらゆるシチュエーションにおいてもブレの無い決断と実行を目標に、利用者目線に立っ て必要とされるものを創出致します。 所在地 〒536-0022 大阪府大阪市城東区永田2丁目1番23号 TEL 06-6969-8213 FAX 06-6969-0089 設立 昭和",
+    "url": "https://union-will.jp/company-2/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業情報 | UNION CORPORATION JAPAN — TEL.+852 (3180)9254 事業内容 建設環境金属製品の製造・販売 主要取引先 竹中工務店・清水建設・鹿島建設・大林組・大成建設・LIXIL・三協立山・杉田エース・三和シヤッタ－・YKK AP 等 主要取引銀行 みずほ銀行・三菱UFJ銀行・三井住友銀行 貿易（輸出先）",
+    "url": "https://www.artunion.co.jp/about_us/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "Union.aiが3億8100万ドルを調達し、AI開発インフラストラクチャを拡大 — Feb 25, 2026 · 今日、Union.aiは、伝統的なデータツールがサポートすることのできない、ダイナミックで非決定的なワークフローを管理するのに役立つ、モダンAIスタックの開発レイヤーとして自己を位置付けている。",
+    "url": "https://www.unite.ai/ja/union-ai-raises-38-1m-series-a-to-expand-ai-development-infrastructure/",
+    "pass": 3
+   },
+   {
+    "quote": "TUNAGガイド | for UNION（フォーユニオン） — Sep 8, 2026 · TUNAGニュース TUNAG導入組合の活用事例から組合活動の活性化に役立つ最新ニュースまでをお届けします。 TUNAG導入事例 導入前の背景や決め手から、TUNAG活用によって得られた効果や成果をご紹介します。 情報誌アーカイブ インタビ",
+    "url": "https://union.tunag.jp/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "労働組合向けアプリ - TUNAG for UNION｜情報共有、申請手続きをペー... — TUNAG for UNION とは？ 組合活動に必要な機能や情報を 集約できる労働組合に特化した サービスです。 TUNAGは組合活動を実施するために必要な機能を統合できるアプリです。",
+    "url": "https://biz.tunag.jp/lp/union",
+    "pass": 3
+   },
+   {
+    "quote": "TUNAG for UNION 第1号ユーザーの活用事例公開！〜TUNAGと共に歩んだ6... — Jun 14, 2024 · そこにあった御社のブースでTUNAGに出会ったんです。 また、TUNAG導入の決め手については、ペーパーレス化の話と合わせてスマホ時代が来ていたため、スマホでも見られるという点を重要視していました。",
+    "url": "https://biz.tunag.jp/case/14954",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "資本金: 1億2,000万円",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/11/28/080000_1",
+    "pass": 3
+   },
+   {
+    "quote": "は、3億8100万ドルのシリーズAラウンドを閉じ、以前発表した1億9100万ドルの資金調達額を上回った",
+    "url": "https://www.unite.ai/ja/union-ai-raises-38-1m-series-a-to-expand-ai-development-infrastructure/",
+    "pass": 3
+   },
+   {
+    "quote": "この資金調達は、AIオーケストレーションがニッチな懸念からフロントラインのエンジニアリングの優先事項に移行する時期に実現した",
+    "url": "https://www.unite.ai/ja/union-ai-raises-38-1m-series-a-to-expand-ai-development-infrastructure/",
+    "pass": 3
+   },
+   {
+    "quote": "Agility Robotics、SPACとの合併完了を前に総額4億6,500万ドルの資金調達を見込む",
+    "url": "https://www.unite.ai/ja/union-ai-raises-38-1m-series-a-to-expand-ai-development-infrastructure/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Union Diversity Project｜note 「労働組合を将来にわたって持続可能化するために、私たち自身の価値観や運営方法の変革によって、各単組が『性別や属性に関わらず誰もが参画できる状態』になる」ことを目指し、Shiseido Unionとマルイグループユニオンが一緒に立ち上げたプロジェクトです。",
+    "url": "https://note.com/udpj_0613",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Union Diversity Project｜note",
+    "url": "https://note.com/udpj_0613",
+    "pass": 3
+   },
+   {
+    "quote": "はじめまして、UNION DIVERSITY PROJECTです！",
+    "url": "https://note.com/udpj_0613",
+    "pass": 3
+   },
+   {
+    "quote": "Union Diversity Project",
+    "url": "https://note.com/udpj_0613",
+    "pass": 3
+   },
+   {
+    "quote": "UNION DIVERSITY PROJECTフォーラム2026を開催しました！",
+    "url": "https://note.com/udpj_0613",
+    "pass": 3
+   },
+   {
+    "quote": "UNION DIVERSITY PROJECT第3回事例研究会を開催しました！",
+    "url": "https://note.com/udpj_0613",
+    "pass": 3
+   },
+   {
+    "quote": "労働組合を未来につなぐために。UNION DIVERSITY PROJECTに込めた想い ～後編～",
+    "url": "https://note.com/udpj_0613",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Union Plus (@UnionPlus) / X Union Plus @UnionPlus Benefits, Discounts & Savings for Union Members | Founded by the @ AFLCIO | Staffed by @ OPEIULocal2 Members | #1u #UnionStrong #Solidarity #UnionsPowerAmerica Washington, DC unionplus.org Born 1986 Joined January 2009",
+    "url": "https://x.com/unionplus",
+    "pass": 3
+   },
+   {
+    "quote": "#Union - Search / X See posts about #Union on X. See what people are saying and join the conversation.",
+    "url": "https://x.com/hashtag/Union",
+    "pass": 3
+   },
+   {
+    "quote": "Daily Union Elections (@UnionElections) / X NEW: 322 staff and faculty at Whitman College in Washington are unionizing with @AFTunion.",
+    "url": "https://x.com/UnionElections",
+    "pass": 3
+   },
+   {
+    "quote": "Union (@union_build) / X The leading ZK interoperability L1. Union enables settlement and liquidity for protocols and asset issuers.",
+    "url": "https://x.com/union_build",
+    "pass": 3
+   },
+   {
+    "quote": "連合公式PR大使ユニオニオン (@unionion) / X \\はたらくみんなの味方／ 🧅連合 (日本労働組合総連合会)公式キャラクター 🧅11月20日生まれ 🧅労働組合でやっていること紹介 🧅日常動画・漫画投稿 etc… 知って得するお役立ち情報発信中📡",
+    "url": "https://x.com/unionion",
+    "pass": 3
+   },
+   {
+    "quote": "華音 on X: \" 指揮官とユニオンをつなぐマッチングアプリ 「NIKKE UNI... 🔎 指揮官とユニオンをつなぐマッチングアプリ 「NIKKE UNION MATCH」に募集登録しました！ 🏢 PEACH 🏆 プラチナ 📊 現在の登録状況 👤 1名 🏢 13 🎓 15名 👇 UNION MATCH x.gd/4tEJo 👇 募集投稿",
+    "url": "https://x.com/kumaxusa/status/2102373057906311262",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "What is a Labor Union? Benefits and How They Work - LinkedIn Sep 30, 2022 · Discover what labor unions are, their benefits, and how they work. Learn about collective bargaining, employee rights and union membership advantages.",
+    "url": "https://www.linkedin.com/pulse/what-labor-union-get-ahead-by-linkedin-news",
+    "pass": 3
+   },
+   {
+    "quote": "Gesa Credit Union - LinkedIn Gesa Credit Union stands as one of the largest member-owned credit unions in the Pacific Northwest, proudly serving more than 300,000 members across Washington, Oregon, and Idaho with over $6.4...",
+    "url": "https://www.linkedin.com/company/gesa-credit-union",
+    "pass": 3
+   },
+   {
+    "quote": "People Policy and Union Engagement Manager - LinkedIn 2 days ago · Apply for People Policy and Union Engagement Manager at GDST (The Girls' Day School Trust) in London, England, United Kingdom. Full-time Mid-Senior level role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://uk.linkedin.com/jobs/view/people-policy-and-union-engagement-manager-at-gdst-the-girls-​-day-school-trust-4486054485",
+    "pass": 3
+   },
+   {
+    "quote": "Junior AML Compliance Specialist – Paris, France - LinkedIn JR0131449 📍 Paris La Défense | Hybrid (3 days/week) Join Western Union and help fight financial crime. At Western Union, we connect millions of customers across more than 200 countries and territories. Behind every transaction is a strong commitment to protecting customers, preventing financial crime, and supporting regulatory compliance.",
+    "url": "https://fr.linkedin.com/jobs/view/junior-aml-compliance-specialist-–-paris-france-at-western-union-4469483381",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Banking Options in Moses Lake - Facebook For business and personal banking in Moses Lake, locals recommend Horizon Credit Union for low fees and friendly service, and STCU for experienced staff. Northwoods Bank also gets strong reviews for...",
+    "url": "https://www.facebook.com/fb-answers/banking-options-in-moses-lake/",
+    "pass": 3
+   },
+   {
+    "quote": "FacebookFacebookThe Union - FacebookGRANCO Federal Credit Union - FacebookIAM Eastern Washington | Spokane WA - Facebook 5 days ago · Facebook is a platform to connect, share updates, and discover content with friends, family, and communities. Facebook ... Facebook Jun 24, 2026 · The Union. 926 followers · 4 talking about this. Growing threats to democracy demand action. We are dedicated toward th",
+    "url": "https://l.facebook.com/facebook/",
+    "pass": 3
+   },
+   {
+    "quote": "The Union - FacebookGRANCO Federal Credit Union - FacebookIAM Eastern Washington | Spokane WA - Facebook Jun 24, 2026 · The Union. 926 followers · 4 talking about this. Growing threats to democracy demand action. We are dedicated toward the goal of defending democracy. GRANCO Federal Credit Union. 878 followers · 8 talking about this · 99 were here. GRANCO Federal Credit Union is a small town cred",
+    "url": "https://www.facebook.com/JoinTheUnionUS/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://union-company.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://union-company.jp/works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://union-company.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://union-company.jp/ad-works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://union-company.jp/video-works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://union-company.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://union-company.jp/service/listing-ad/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://union-company.jp/service/sns-ad/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://union-company.jp/service/affiliate-ad/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://union-company.jp/service/creative-ad/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://union-company.jp/service/video-ad/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://union-company.jp/service/manga-ad/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://union-company.jp/ad-works/listing-ad03/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://union-company.jp/customer-reviews/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.artunion.co.jp/about_us/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.union-k.co.jp/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artunion.co.jp/about_us/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/11/28/080000_1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.union-k.co.jp/company/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.investing.com/news/company-news/article-93CH-1277715",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.unite.ai/ja/union-ai-raises-38-1m-series-a-to-expand-ai-development-infrastructure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.investing.com/news/company-news/article-1277715",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://union.tunag.jp/guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.tunag.jp/lp/union",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.utc-net.co.jp/case-study-top/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artunion.co.jp/about_us/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artist-union.com/company/client",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kk-mu.co.jp/client/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/udpj_0613",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/unionplus",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/Union",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/UnionElections",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/union_build",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/what-labor-union-get-ahead-by-linkedin-news",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/gesa-credit-union",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/jobs/view/people-policy-and-union-engagement-manager-at-gdst-the-girls-​-day-school-trust-4486054485",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/jobs/view/junior-aml-compliance-specialist-–-paris-france-at-western-union-4469483381",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/banking-options-in-moses-lake/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://l.facebook.com/facebook/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/JoinTheUnionUS/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/unionion",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kumaxusa/status/2102373057906311262",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Union 会社概要 資本金 設立",
+   "results": [
+    "https://www.artunion.co.jp/about_us/outline.html",
+    "https://union-company.jp/company/",
+    "http://www.union-k.co.jp/company/profile.html",
+    "https://union-will.jp/company-2/",
+    "https://www.unionnet.co.jp/company.html",
+    "https://union-corp.net/company/会社概要/",
+    "https://www.uniontool.co.jp/corporate/outline.html"
+   ]
+  },
+  {
+   "query": "Union 事業内容 売上",
+   "results": [
+    "https://www.artunion.co.jp/about_us/outline.html",
+    "https://ryo-nakamura1.hatenablog.jp/entry/2025/11/28/080000_1",
+    "https://www.union-k.co.jp/company/ir/",
+    "https://www.union-k.co.jp/company/sales.html",
+    "https://www.union-tec.jp/news/280/",
+    "https://www.union-tec.jp/news/301/",
+    "https://job.mynavi.jp/28/pc/search/corp294965/outline.html"
+   ]
+  },
+  {
+   "query": "Union 資金調達 株主",
+   "results": [
+    "https://jp.investing.com/news/company-news/article-93CH-1277715",
+    "https://www.unite.ai/ja/union-ai-raises-38-1m-series-a-to-expand-ai-development-infrastructure/",
+    "https://jp.investing.com/news/company-news/article-1277715",
+    "https://prtimes.jp/main/html/rd/p/000000033.000165558.html",
+    "https://www.reuters.com/jp/markets/japan/ZRH4FFJ6CZOZXGWT7XCA362Y4I-2026-04-07/",
+    "https://www.uniontool.co.jp/ir/",
+    "https://www.japanir.jp/wp-content/uploads/2026/04/6278-20260406-01.pdf"
+   ]
+  },
+  {
+   "query": "Union 導入事例",
+   "results": [
+    "https://union.tunag.jp/guide/",
+    "https://biz.tunag.jp/lp/union",
+    "https://www.utc-net.co.jp/case-study-top/",
+    "https://biz.tunag.jp/case/14954",
+    "https://www.unions.co.jp/case/",
+    "https://www.unions.co.jp/case/index.php",
+    "https://smaflo.j-union.com/"
+   ]
+  },
+  {
+   "query": "Union 主要取引先",
+   "results": [
+    "https://www.artunion.co.jp/about_us/outline.html",
+    "https://www.artist-union.com/company/client",
+    "https://kk-mu.co.jp/client/",
+    "https://www.wcon.co.jp/supplier/",
+    "https://www.union-jk.co.jp/mainclient.html",
+    "https://www.fastretailing.com/jp/sustainability/labor/list.html",
+    "https://kanaseki.co.jp/company/customer/"
+   ]
+  },
+  {
+   "query": "site:note.com Union",
+   "results": [
+    "https://note.com/udpj_0613",
+    "https://note.com/kitaoosaka_union",
+    "https://note.com/unionlinkplus/n/n2b6cc9b829af?hl=en",
+    "https://note.com/yuu_union5655",
+    "https://note.com/sguion/n/n6422cc617ded?hl=en",
+    "https://note.com/onkunion/n/nf818f595a8d5",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ]
+  },
+  {
+   "query": "site:x.com Union",
+   "results": [
+    "https://x.com/unionplus",
+    "https://x.com/hashtag/Union",
+    "https://x.com/UnionElections",
+    "https://x.com/union_build",
+    "https://x.com/IAM_Union",
+    "https://x.com/CantEverDie",
+    "https://x.com/uaw"
+   ]
+  },
+  {
+   "query": "site:linkedin.com Union",
+   "results": [
+    "https://www.linkedin.com/pulse/what-labor-union-get-ahead-by-linkedin-news",
+    "https://www.linkedin.com/company/gesa-credit-union",
+    "https://uk.linkedin.com/jobs/view/people-policy-and-union-engagement-manager-at-gdst-the-girls-​-day-school-trust-4486054485",
+    "https://fr.linkedin.com/jobs/view/junior-aml-compliance-specialist-–-paris-france-at-western-union-4469483381",
+    "https://be.linkedin.com/jobs/view/aml-compliance-officer-at-western-union-4475452821",
+    "https://ca.linkedin.com/jobs/view/class-5-driver-union-at-iron-mountain-4483109289",
+    "https://ca.linkedin.com/jobs/view/it-field-technician-union-at-dp-world-4486413793"
+   ]
+  },
+  {
+   "query": "site:facebook.com Union",
+   "results": [
+    "https://www.facebook.com/fb-answers/banking-options-in-moses-lake/",
+    "https://l.facebook.com/facebook/",
+    "https://business.facebook.com/groups/modernunion/",
+    "https://www.facebook.com/JoinTheUnionUS/",
+    "https://www.facebook.com/GRANCOFCU/",
+    "https://www.facebook.com/IAMEasternWashington/",
+    "https://www.facebook.com/p/Teamsters-Local-760-61576185482974/"
+   ]
+  },
+  {
+   "query": "Union note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://shikiho.toyokeizai.net/stocks/5243/corporate",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://bunshun.jp/list/author/5f223a15776561773d000000"
+   ]
+  },
+  {
+   "query": "Union X 投稿",
+   "results": [
+    "https://x.com/unionion",
+    "https://union.fanbox.cc/posts",
+    "https://x.com/kumaxusa/status/2102373057906311262",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://www.witha.jp/sns・マーケティング/x-posting-guide-beginners/",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://www.pixiv.net/users/258003"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部28頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部28頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部28頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部28頁・検索11回）",
+  "選出の記録": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部28頁・検索11回）"
+ }
+}

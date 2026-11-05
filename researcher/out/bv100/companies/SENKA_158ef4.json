@@ -1,0 +1,988 @@
+{
+ "name": "SENKA",
+ "aliases": [
+  "senka"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T14:51:37.152240+00:00",
+ "official_url": "https://kaitori-senka.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "買取専門店『買取専科』の運営およびフランチャイズ展開",
+    "url": "https://best100.v-tsushin.jp/company/senka/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "貴金属・ブランド品の買取、リサイクル事業",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "貴金属・ブランド品買取、リサイクル業",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "【本社】東京都渋谷区千駄ヶ谷1丁目28-8 ニュー千駄ヶ谷マンション401 【管理本部】東京都中央区銀座6丁目18-2 野村不動産銀座ビル10F",
+    "url": "https://best100.v-tsushin.jp/company/senka/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都渋谷区千駄ヶ谷1丁目28-8 ニュー千駄ヶ谷マンション401",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2023年（令和5年）5月",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2023年5月",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役 栗田 康弘",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "40百万円",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "当店では、店頭販売を⾏わず在庫を抱えないことで、在庫コストなどの無駄を削減し、⾼価買取につなげています",
+    "url": "https://kaitori-senka.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要｜買取専門店「買取専科」運営の株式会社SENKA",
+    "url": "https://senka.company/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社SENKA｜買取専門店「買取専科」の運営会社",
+    "url": "https://senka.company/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様一人ひとりに合わせた接客を大切にし、価格・対応・スピードのすべてにおいてご満足いただける「心に寄り添う満足査定」を理念として、買取専門店『買取専科』を運営しています",
+    "url": "https://senka.company/",
+    "pass": 3
+   },
+   {
+    "quote": "買取専門店『買取専科』の運営およびフランチャイズ展開",
+    "url": "https://best100.v-tsushin.jp/company/senka/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年4月期実績 売上5億7,600万円",
+    "url": "https://best100.v-tsushin.jp/company/senka/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月期実績 売上15億9,600万円",
+    "url": "https://best100.v-tsushin.jp/company/senka/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期見込 売上25億円",
+    "url": "https://best100.v-tsushin.jp/company/senka/",
+    "pass": 3
+   },
+   {
+    "quote": "結果として会社も売上を伸ばすことができていますし、「人」を大切にする方針に間違いはなかったと確信しています",
+    "url": "https://best100.v-tsushin.jp/company/senka/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容: 貴金属・ブランド品の買取、リサイクル事業",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   },
+   {
+    "quote": "現時点では、事業の成長性（店舗数増加による売上拡大期待）を担保に資金を調達しているフェーズと考えられますが、これ以上の赤字拡大は資金ショートのリスクを高めます",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   },
+   {
+    "quote": "競合他社との買取価格競争に加え、人件費やテナント料の上昇が収益を圧迫します",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、拡大路線から収益重視の経営へと舵を切り、財務の立て直しを図れるかが、企業の存続を左右する最大のカギとなるでしょう",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容: 貴金属・ブランド品買取、リサイクル業",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   },
+   {
+    "quote": "製造業にとって、在庫の適正化をはじめとした、効率的な流通網の構築は重要な課題です",
+    "url": "https://note.finetoday.com/n/n72d31264c4c8?gs=bc9168e65e4b504afbb4154ae8b11e93",
+    "pass": 3
+   },
+   {
+    "quote": "効率的でムダのない流通網は、企業自身の収益性向上はもとより、環境負荷の低減やサステナビリティの実現にも貢献します",
+    "url": "https://note.finetoday.com/n/n72d31264c4c8?gs=bc9168e65e4b504afbb4154ae8b11e93",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、余剰在庫の削減による、SENKAが提供するブランド体験の最大化・収益性向上とともに、返品作業の減少による販売店さまの人的・時間的コストの削減、返品の輸送や処分に伴う環境負荷の低減、そして、未出荷製品の寄贈による生活者への貢献を実現しました",
+    "url": "https://note.finetoday.com/n/n72d31264c4c8?gs=bc9168e65e4b504afbb4154ae8b11e93",
+    "pass": 3
+   },
+   {
+    "quote": "リニューアルによって価値を高めた製品へ切り替える必要があるため、古い製品を販売するわけにはいかないことは理解しているのですが、まだ使える製品がムダになってしまうことへの違和感をずっと抱いていました",
+    "url": "https://note.finetoday.com/n/n72d31264c4c8?gs=bc9168e65e4b504afbb4154ae8b11e93",
+    "pass": 3
+   },
+   {
+    "quote": "私は全国の営業担当者の窓口として、在庫管理の方法が変更となる今回の取組みを、いかにして営業担当者に理解してもらうか、そして、それを商談の場でいかに販売店様にもご理解いただくかを必死に考えました",
+    "url": "https://note.finetoday.com/n/n72d31264c4c8?gs=bc9168e65e4b504afbb4154ae8b11e93",
+    "pass": 3
+   },
+   {
+    "quote": "今回の取組みにおいては、リニューアル後の店頭展開についてだけではなく、リニューアル前の在庫平準化についても、販売店さまにご理解・ご協力いただく必要がありました",
+    "url": "https://note.finetoday.com/n/n72d31264c4c8?gs=bc9168e65e4b504afbb4154ae8b11e93",
+    "pass": 3
+   },
+   {
+    "quote": "リニューアルを前に、全国の営業担当者が集まる会議の場で、どのように販売店さまに説明したらいいのか、徹底的にディスカッションして、具体的なイメージを持ってもらえるように工夫しました",
+    "url": "https://note.finetoday.com/n/n72d31264c4c8?gs=bc9168e65e4b504afbb4154ae8b11e93",
+    "pass": 3
+   },
+   {
+    "quote": "全員が、販売店さまに真摯に向き合い、努力してくれました",
+    "url": "https://note.finetoday.com/n/n72d31264c4c8?gs=bc9168e65e4b504afbb4154ae8b11e93",
+    "pass": 3
+   },
+   {
+    "quote": "この取組みは、当社の営業担当者による、販売店さまの店舗単位での精緻な需要予測がカギを握っています",
+    "url": "https://note.finetoday.com/n/n72d31264c4c8?gs=bc9168e65e4b504afbb4154ae8b11e93",
+    "pass": 3
+   },
+   {
+    "quote": "販売店さまには、需要の読みづらい中での在庫オペレーションにご心配をおかけする部分もあったと思うのですが、返品作業にかかる人的・時間的コストが削減できたことやスムーズな店頭切替へのポジティブな声もいただくことができ、改めて取り組んでよかったと思っています",
+    "url": "https://note.finetoday.com/n/n72d31264c4c8?gs=bc9168e65e4b504afbb4154ae8b11e93",
+    "pass": 3
+   },
+   {
+    "quote": "売り手（ファイントゥデイ）：ブランド体験の最大化と収益性向上",
+    "url": "https://note.finetoday.com/n/n72d31264c4c8?gs=bc9168e65e4b504afbb4154ae8b11e93",
+    "pass": 3
+   },
+   {
+    "quote": "買い手（販売店さま）：返品や在庫削減の省コスト化",
+    "url": "https://note.finetoday.com/n/n72d31264c4c8?gs=bc9168e65e4b504afbb4154ae8b11e93",
+    "pass": 3
+   },
+   {
+    "quote": "このnoteでは、これからもサステナビリティに資するさまざまな取組みを紹介していきますので、どうぞご期待ください！",
+    "url": "https://note.finetoday.com/n/n72d31264c4c8?gs=bc9168e65e4b504afbb4154ae8b11e93",
+    "pass": 3
+   },
+   {
+    "quote": "パーソナルケア製品の生産・マーケティング・販売等",
+    "url": "https://www.bsearchtech.com/casestudy/finetoday/",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "〒104-0061 東京都中央区銀座6丁目18-2 野村不動産銀座ビル10F",
+    "url": "https://senka.company/company",
+    "pass": 3
+   },
+   {
+    "quote": "三井住友銀行、GMOあおぞらネット銀行、PayPay銀行",
+    "url": "https://senka.company/company",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中央区銀座6丁目18-2 野村不動産銀座ビル10F",
+    "url": "https://senka.company/company",
+    "pass": 3
+   },
+   {
+    "quote": "【管理本部】東京都中央区銀座6丁目18-2 野村不動産銀座ビル10F",
+    "url": "https://best100.v-tsushin.jp/company/senka/",
+    "pass": 3
+   },
+   {
+    "quote": "管理職になってからも、自部署が買取した商材のことで卸担当の部署とは頻繁に議論を交わしたものです",
+    "url": "https://best100.v-tsushin.jp/company/senka/",
+    "pass": 3
+   },
+   {
+    "quote": "そんな折、巡り合わせもあって卸売会社への転職が決まりました",
+    "url": "https://best100.v-tsushin.jp/company/senka/",
+    "pass": 3
+   },
+   {
+    "quote": "だからこそ、キャリアステージの拡大や教育体制の強化に自分も携わり、従業員のスキルアップを推進しています",
+    "url": "https://best100.v-tsushin.jp/company/senka/",
+    "pass": 3
+   },
+   {
+    "quote": "#11009 決算分析 : 株式会社SENKA 第2期決算 当期純損失 5百万円（赤字） - 決算公告データ倉庫",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   },
+   {
+    "quote": "「断捨離」ニーズをまるごと受け止める体制を整えることで、顧客との接点を最大化しています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   },
+   {
+    "quote": "自己資本比率0.3%は、金融機関からの融資を受ける上で非常に厳しい数字です",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   },
+   {
+    "quote": "製造業にとって、在庫の適正化をはじめとした、効率的な流通網の構築は重要な課題です",
+    "url": "https://note.finetoday.com/n/n72d31264c4c8?gs=bc9168e65e4b504afbb4154ae8b11e93",
+    "pass": 3
+   },
+   {
+    "quote": "在庫の管理・調整にあたっては、サプライチェーンの担当部門、財務部門、そして工場など、多くの部門の協力が必要です",
+    "url": "https://note.finetoday.com/n/n72d31264c4c8?gs=bc9168e65e4b504afbb4154ae8b11e93",
+    "pass": 3
+   },
+   {
+    "quote": "そんな中でも、サプライチェーンの担当部門や工場をはじめ、全社で柔軟な対応を行い、何とか乗り切ることができました",
+    "url": "https://note.finetoday.com/n/n72d31264c4c8?gs=bc9168e65e4b504afbb4154ae8b11e93",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ファイントゥデイホールディングス様導入事例 – サイト内検索GENIEE SEARCH | GENIEE SEARCH",
+    "url": "https://www.bsearchtech.com/casestudy/finetoday/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ファイントゥデイホールディングス様導入事例 – サイト内検索GENIEE SEARCH",
+    "url": "https://www.bsearchtech.com/casestudy/finetoday/",
+    "pass": 3
+   },
+   {
+    "quote": "1950年の創業以来、当社は界面活性剤を中心とした有機合成と機能性を追求した製品開発に取り組み、各種繊維素材の加工薬剤メーカーとして、確固たる地歩を築いてまいりました",
+    "url": "https://www.senkajpn.com/info/index2.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要｜買取専門店「買取専科」運営の株式会社SENKA — COMPANY 会社概要 OUR MISSION 私たちは豊かな社会づくりに貢献するために、買取事業を通じて人々に感動を提供していきます。 また、ミッションとバリューを定め、サービスづくりや組織づくりにおいて一貫した企業活動をしています。",
+    "url": "https://senka.company/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社SENKA｜買取専門店「買取専科」の運営会社 — RECRUIT ご応募はこちらから keyboard_arrow_right ホーム 会社概要 事業内容 お知らせ お問い合わせ 採用情報 プライバシーポリシー 利用規約 株式会社SENKA 〒151-0051 東京都渋谷区千駄ヶ谷1丁目28-8 ニュー千駄ヶ谷マンション 401",
+    "url": "https://senka.company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - SENKA株式会社株式会社センカ - senka.site株式会社SENKA（東京都）の会社概要・役員 | Compalyze株式会社SENKAの会社概要とプレスリリース会社概要｜株式会社センカ｜土産｜食事｜新千歳空港｜大阪空港｜羽田... — 会社名 SENKA株式会社 所在地 〒811-3436 福岡県宗像市東郷2丁目4-16 宗像市役所近く Tel 0940-62-6789 Fax 0940-62-6795 従業員数 3名 資本金 5, Outline 【社名】 株式会社センカ（SENKA Co.,Ltd） 【設立】 2006年3月 【資本金】 2,000万円（2020年1月現在） 【代表取締役】 加納 光植 【社員】 50名（グループ全体） 【年商】 10億2,000万円（センカグループ全体）※平成28年7月 【取引先銀行】 三菱UFJ銀行 ... 〒151-0051",
+    "url": "https://www.senka-serv.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社センカ - senka.site — Outline 【社名】 株式会社センカ（SENKA Co.,Ltd） 【設立】 2006年3月 【資本金】 2,000万円（2020年1月現在） 【代表取締役】 加納 光植 【社員】 50名（グループ全体） 【年商】 10億2,000万円（センカグループ全体）※平成28年7月 【取引先銀行】 三菱UFJ銀行 ...",
+    "url": "http://senka.site/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社SENKA（東京都）の会社概要・役員 | Compalyze — 〒151-0051 東京都渋谷区に本社を置く株式会社SENKAの企業情報。 株式会社SENKAは、同社が運営する「買取専科」において、貴金属・ブランド品の買取とリサイクル事業を手掛ける。 小売・EC (専門店)、2023年設立、社会保険被保険者数73名。",
+    "url": "https://compalyze.co.jp/company/6010501050454",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社SENKA 栗田 康弘 | ベストベンチャー100株式会社SENKA｜買取専門店「買取専科」の運営会社#11009 決算分析 : 株式会社SENKA 第2期決算 当期純損失 5百万円（赤...センカの企業概要・売上・業績など｜Yahoo!しごとカタログ会社概要｜買取専門店「買取専科」運営の株式会社SENKAセンカ (株)の新卒採用・会社概要 | マイナビ2027 — ─ 御社の事業内容を教えて下さい。 買取専門店『買取専科』を運営しています。 創業初年度は関東圏を中心に14店舗展開でしたが、現在は50店舗。 大阪や北海道など、日本全国への展開が進んでいます。 RECRUIT ご応募はこちらから keyboard_arrow_right ホーム 会社概要 事業内容 お知らせ お問い合わせ 採用情報 プライバシーポリシー 利用規約 株式会社SENKA 〒151-0051 東京都渋谷区千",
+    "url": "https://best100.v-tsushin.jp/company/senka/",
+    "pass": 3
+   },
+   {
+    "quote": "#11009 決算分析 : 株式会社SENKA 第2期決算 当期純損失 5百万円（赤... — Feb 19, 2026 · 今回は、貴金属やブランド品の買取専門店「買取専科」を展開する株式会社SENKAを取り上げます。 「中小企業からニッポンを元気にプロジェクト」への参画や、有名タレントを起用したプロモーションなど、スタートアップらしい勢いを感じさせる同社。",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   },
+   {
+    "quote": "センカ株式会社-senka — 当社滋賀湖南事業所は琵琶湖の南、滋賀県がインダストリアルパークと銘うって開発した工業団地の一角に位置し、周囲の美しい自然とよく調和した姿は地域社会への融和と貢献を表しています。 ‥",
+    "url": "https://www.senkajpn.com/",
+    "pass": 3
+   },
+   {
+    "quote": "#11009 決算分析 : 株式会社senka 第2期決算 当期純損失 5百万円（赤字） - 決算公告データ倉庫 — 第2期決算公告の数値を基に、株式会社SENKAの経営状態を分析します。 外部環境 リユース市場は拡大傾向にありますが、同時に競争も激化しています。 「なんぼや」や「大黒屋」といった大手チェーンに加え、メルカリなどのCtoCアプリも競合となります。",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜買取専門店「買取専科」運営の株式会社SENKA — 株式会社SENKAの会社概要をご紹介します。ミッション「豊かな社会へ、感動のRe:サイクルを」、5つのバリュー、代表メッセージ、会社情報などを掲載しています。",
+    "url": "https://senka.company/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社SENKAの第1期決算公告の決算・財務情報 — 株式会社SENKAの第1期決算公告の売上高・当期純利益・総資本・自己資本比率などの財務情報を掲載しています",
+    "url": "https://prtimes.com/finance/6010501050454/settlement/383270",
+    "pass": 3
+   },
+   {
+    "quote": "PDF 株式会社 Senka の株式の取得（子会社化）に関するお知らせ — 株式会社 SENKA の株式の取得(子会社化)に関するお知らせ 当社は、2025 年 4 月 28 日開催の取締役会において、以下の通り株式会社 SENKA (以下「SENKA 社」) の全株式を取得し、子会社化することを決議いたしましたので、お知らせいたします。この決定は、事業成長のみならず、SDGs (持続可能な開発 ...",
+    "url": "https://www.marr.jp/shared_files/contents/manews/59/59963/59963.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SENKAが取り組むSDGs～流通網のムダを削減し、“三方よし”の実現へ～｜... — Oct 31, 2023 · 具体的には、余剰在庫の削減による、SENKAが提供するブランド体験の最大化・収益性向上とともに、返品作業の減少による販売店さまの人的・時間的コストの削減、返品の輸送や処分に伴う環境負荷の低減、そして、未出荷製品の寄贈による生活者への貢献 ...",
+    "url": "https://note.finetoday.com/n/n72d31264c4c8",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ファイントゥデイホールディングス様導入事例 – サイト内検索... — 導入イメージ fino、TSUBAKI、SENKA、unoなど、「毎日を豊かにする素晴らしい製品」を通じて世界中の人々の生活を彩るファイントゥデイのコーポレートサイトに、GENIEE SEARCHを導入。",
+    "url": "https://www.bsearchtech.com/casestudy/finetoday/",
+    "pass": 3
+   },
+   {
+    "quote": "センカ株式会社-senka — 令和8年度南部地域「びわ湖の日」環境美化活動へ参加しました。",
+    "url": "https://www.senkajpn.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社センカ - senka.site — 許可番号：13-ユ-303934 【主要取引先】 （株）JALカード （株）オリエントコーポレーション （株）ホロニック （株）オートリ 外資系・国内系ホテル 等 ※順不同 【関連会社】 （株）センカ・コミュニケーションズ STGイノベーション（株） 【Google Map】",
+    "url": "http://senka.site/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社紹介 l センカ株式会社 - senkajpn.com主要取引先 – シンカ情報システム株式会社会社概要｜買取専門店「買取専科」運営の株式会社SENKA主要取引先の実績一覧｜ホームページ制作専科About us – SENKA INTERNATIONAL, INC — 1950年の創業以来、当社は界面活性剤を中心とした有機合成と機能性を追求した製品開発に取り組み、各種繊維素材の加工薬剤メーカーとして、確固たる地歩を築いてまいりました。現在では、その永い伝統と培われた研究・開発のノウハウを生かして、社会のニーズに対応し、新分野を開拓し ... Copyright © シンカ情報システム株式会社 All Rights Reserved. Powered by WordPress & Lightning Theme by Vektor,Inc. technology. SENKAの5つの行動",
+    "url": "https://www.senkajpn.com/info/index2.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜買取専門店「買取専科」運営の株式会社SENKA — SENKAの5つの行動指針 社会に価値を生み出すために存在するという信念のもと、サービスを提供しています。 現状に満足しない。 向上心と主体性を持って日々高みを目指す。 真剣な姿勢で取り組む。 周囲に影響を与え合う組織を目指す。",
+    "url": "https://senka.company/company",
+    "pass": 3
+   },
+   {
+    "quote": "About us – SENKA INTERNATIONAL, INC — SENKA International 『ギフトの専門店』センカでは、創業1974年以来、 \"旬のフルーツ\"にこだわり続け、産地、選別に最も力を入れ皆様の信頼を頂いております。 『こだわりのフルーツ』をはじめお肉、シーフード、",
+    "url": "https://www.senka.com/pages/about-us",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "2025年5月には、東証スタンダード上場企業である株式会社ベネフィットジャパンのグループ企業となりました",
+    "url": "https://best100.v-tsushin.jp/company/senka/",
+    "pass": 3
+   },
+   {
+    "quote": "利益剰余金は約6,900万円のマイナスとなっており、資本金4,000万円を大きく毀損しています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   },
+   {
+    "quote": "自己資本がほぼ枯渇しており、追加の資金調達が難航した場合、事業継続に黄色信号が灯ります",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   },
+   {
+    "quote": "資本金: 40百万円",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   }
+  ],
+  "選出の記録": [
+   {
+    "quote": "株式会社SENKA 栗田 康弘 | ベストベンチャー100",
+    "url": "https://best100.v-tsushin.jp/company/senka/",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "「中小企業からニッポンを元気にプロジェクト」への参画や、有名タレントを起用したプロモーションなど、スタートアップらしい勢いを感じさせる同社",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   },
+   {
+    "quote": "「中小企業からニッポンを元気にプロジェクト」に参加し、タレントのウエンツ瑛士さんを公式アンバサダーに起用しています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Takarazuka Lab #04 What is the Senka?｜宝塚DB Jul 12, 2026 · The Senka is a special department composed of students who are not permanently assigned to any of the five troupes. They appear in performances of each troupe as needed, taking on the roles most suitable for that production.",
+    "url": "https://note.com/takarazuka_db/n/n863ff90449b4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "About Senka｜りんどる - note（ノート） Oct 28, 2020 · I have finished a deck list for a going-first Senka build, so I will summarize the reasons for my card choices. The time before last and last time as well, I built this with the intention of being able to win at the official tournament level.",
+    "url": "https://note.com/rindl26/n/n31d647b49140?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is Cork Manga Senka like? [Personal Experience] Through reactions and comments on my X posts, I was able to look back on my work and grow. Furthermore, Manga Senka holds online social gatherings and chats, and being constantly stimulated by my peers is another great appeal!",
+    "url": "https://note.com/cupofmisoshiru_/n/n4365a887bf7c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Beautiful Poison for You,\" this is Senka☆｜泉花 Jun 19, 2025 · ① Self-Introduction Name: Senka Gender: Female Hometown: Kanazawa City, Ishikawa Prefecture 🌌 Creative Origin Creative Policy 🌌 Specialty Genres Japanese-style Romance Fantasy / Isekai Romance Fantasy 🌌 Characteristics I specialize in stories where girls go through \"adventures\" and \"trials,\" acting alongside a hero to achieve their ...",
+    "url": "https://note.com/senka88/n/n754d7d267cb6?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Takarazuka Lab #04 What is the Senka?｜宝塚fanDB",
+    "url": "https://note.com/takarazuka_db/n/n863ff90449b4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Takarazuka Lab #04 What is the Senka?",
+    "url": "https://note.com/takarazuka_db/n/n863ff90449b4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "~Different from the 5 troupes, another stage that supports the Takarazuka Revue~",
+    "url": "https://note.com/takarazuka_db/n/n863ff90449b4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Takarazuka Revue consists of five troupes: Flower, Moon, Snow, Star, and Cosmos.",
+    "url": "https://note.com/takarazuka_db/n/n863ff90449b4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, there is one more entity that must not be forgotten.",
+    "url": "https://note.com/takarazuka_db/n/n863ff90449b4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "That is the \"Senka\" (Specialized Troupe).",
+    "url": "https://note.com/takarazuka_db/n/n863ff90449b4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When you first start watching the performances, many of you might have wondered, \"What is the Senka?\"",
+    "url": "https://note.com/takarazuka_db/n/n863ff90449b4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "They appear in a Flower Troupe performance, and then in the next, they are with the Moon Troupe.",
+    "url": "https://note.com/takarazuka_db/n/n863ff90449b4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Reasons for Inclusion",
+    "url": "https://note.com/rindl26/n/n31d647b49140?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Changes from Last Time",
+    "url": "https://note.com/rindl26/n/n31d647b49140?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Strengths and Interesting Aspects of Senka",
+    "url": "https://note.com/rindl26/n/n31d647b49140?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For those meeting me for the first time, I am Lindol. I have finished a deck list for a going-first Senka build, so I will summarize the reasons for my card choices.",
+    "url": "https://note.com/rindl26/n/n31d647b49140?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "as well, I built this with the intention of being able to win at the official tournament level. There is some overlap, so please take a look at those as well if you would like.",
+    "url": "https://note.com/rindl26/n/n31d647b49140?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Excluding mirrors, you can basically Special Summon this if there is a Senka on the field. The first effect can destroy an opponent's monster and can also trigger Sun Mou during the opponent's turn. Although the destruction effect can only destroy the monster with the highest attack, it can be expected to serve as a valuable non-targeting removal for Senka. However, be careful because you cannot u",
+    "url": "https://note.com/rindl26/n/n31d647b49140?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Overall, it is strong, so adopting 1 to 3 copies is worth considering. As for the destruction restriction, it just makes it harder to use Pankratops and various hand traps, and above all, the fact that it is a Senka that can be Special Summoned under loose conditions is reason enough to include it.",
+    "url": "https://note.com/rindl26/n/n31d647b49140?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is Cork Manga Senka like? [Personal Experience]｜かい",
+    "url": "https://note.com/cupofmisoshiru_/n/n4365a887bf7c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is Cork Manga Senka like? [Personal Experience]",
+    "url": "https://note.com/cupofmisoshiru_/n/n4365a887bf7c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The cicadas are chirping energetically again today.",
+    "url": "https://note.com/cupofmisoshiru_/n/n4365a887bf7c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "With applications for the 12th term of Cork Manga Senka now open, I'd like to look back on my impressions of taking the course. (There's an online information session on 8/8 from 7 PM!)",
+    "url": "https://note.com/cupofmisoshiru_/n/n4365a887bf7c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It started with a YouTube radio show",
+    "url": "https://note.com/cupofmisoshiru_/n/n4365a887bf7c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I studied manga for five months as an 11th-term student.",
+    "url": "https://note.com/cupofmisoshiru_/n/n4365a887bf7c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I first learned about this school through the \"Manga Tame ni Naru Radio\" (Manga Useful Radio), hosted by instructor Goto-san and editor Yoshiki-san.",
+    "url": "https://note.com/cupofmisoshiru_/n/n4365a887bf7c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"I want to try drawing interesting manga.\" Thinking that, I happened to see an announcement for an online information session on YouTube, and feeling intrigued, I decided to apply.",
+    "url": "https://note.com/cupofmisoshiru_/n/n4365a887bf7c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I am Senka, 'Beautiful Poison for You'☆｜和泉 泉花",
+    "url": "https://note.com/senka88/n/n754d7d267cb6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I am Senka, 'Beautiful Poison for You'☆",
+    "url": "https://note.com/senka88/n/n754d7d267cb6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Aiming for book publication!",
+    "url": "https://note.com/senka88/n/n754d7d267cb6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Aiming to be a reprint-author who can consistently release works︎🌟",
+    "url": "https://note.com/senka88/n/n754d7d267cb6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Living as an artist✨️",
+    "url": "https://note.com/senka88/n/n754d7d267cb6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2024: Surpassed 1 million characters annually!",
+    "url": "https://note.com/senka88/n/n754d7d267cb6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2025: Surpassed 1.3 million characters annually!",
+    "url": "https://note.com/senka88/n/n754d7d267cb6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Achieving goals, and beyond.",
+    "url": "https://note.com/senka88/n/n754d7d267cb6?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Senka (@senka) / Posts / X Senka (@senka) - Posts - parent; partner; engineer; STL via Čengić Vila | X (formerly Twitter)",
+    "url": "https://x.com/senka",
+    "pass": 3
+   },
+   {
+    "quote": "Senka ☾〖 Davidbeatt 】| CF AG01-02 (@ChouSenka) / X Senka ☾〖 Davidbeatt 】| CF AG01-02 @ChouSenka Oct 30 Ampunilah aku donatur maha dahsyat, cukup bikin ak ketar ketir😭🙏🙏🙏",
+    "url": "https://x.com/ChouSenka",
+    "pass": 3
+   },
+   {
+    "quote": "Senka (@senka) / Posts and Replies / X Senka (@senka) - Posts and Replies - parent; partner; engineer; STL via Čengić Vila | X (formerly Twitter)",
+    "url": "https://x.com/senka/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "Senka Wolf (@SenkaWolf) / Posts / X Senka Wolf (@SenkaWolf) - Posts - Catch me playing games and watching 🇯🇵anime, what more could you want in life? 🤪 - Discord: Senka... | X (formerly Twitter)",
+    "url": "https://x.com/SenkaWolf",
+    "pass": 3
+   },
+   {
+    "quote": "SENKA公式（センカ） on X: \"／ #SENKAxGISELLE 新CM公開記念 \\ パー... Jul 5, 2026 · SENKAさま🫧🤍 この度は素敵なプレゼント企画の開催、誠にありがとうございます🎀 そして #SENKAxGISELLE の新CM公開本当におめでとうございます🙈︎💕︎ #パーフェクトホイップ 4種セットで是非マグネットのような「ピタ！",
+    "url": "https://x.com/senka_jp/status/2071413345983594519",
+    "pass": 3
+   },
+   {
+    "quote": "せんか@趣味・雑談垢 (@snk_senka) / Posts / X Jun 27, 2026 · せんか@趣味・雑談垢 (@snk_senka) - Posts - 泉花（ @senka_88 ）の自由に呟くアカウントです。 ★好き→アニメ・漫画 (渡瀬悠宇作品、犬夜叉、鬼滅の刃、進撃の巨人、天は赤い河のほとりなど)小説 (銀の海金の大地、十二国記)キャラ（ちいかわ、古... | X (formerly ...",
+    "url": "https://x.com/snk_senka",
+    "pass": 3
+   },
+   {
+    "quote": "SENKA公式（センカ） on X: \"〆切まであと2週間⏰ ︵︵︵︵︵︵︵︵︵... Aug 4, 2025 · 応募方法はこちら👀 1️⃣ @senka_jp をフォロー 2️⃣CP応募投稿をリポスト #SENKAのプレミアム と #ベスコスW受賞 を付けて 引用リポストすると当選確率がアップするかも!? 〆切は【8/18（月）】23:59 キャンペーン応募規約はこちらから hada-senka.com/campaign/wbest…",
+    "url": "https://x.com/senka_jp/status/1952187740117721088",
+    "pass": 3
+   },
+   {
+    "quote": "SENKA公式（センカ） on X: \"︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵ #SENK... Jul 28, 2025 · 応募方法はこちら👀 1️⃣ @senka_jp をフォロー 2️⃣CP応募投稿をリポスト #SENKAのプレミアム と #ベスコスW受賞 を付けて 引用リポストすると当選確率がアップするかも!? 〆切は【8/18（月）】23:59 キャンペーン応募規約はこちらから hada-senka.com/campaign/wbest…",
+    "url": "https://x.com/senka_jp/status/1949651021803770288",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Senka Thailand - FacebookSenka Philippines - FacebookGorski kotar... u fotografiji - FacebookSenka Vietnam - FacebookConvención Senka | Mérida - FacebookSENKA Dental Supply | Taoyüanhsien - FacebookSenka Indonesia | Jakarta - Facebook Oct 27, 2026 · ชอป SENKA A.L.L. Clear Water 400ml ทั้ง 4 สูตร ได้เลยที่ Watsons, EVEANDBOY, Beautrium, Matsukiyo และร้านค้าชั้นนำทั่วประเทศ . Nothing beats a fresh s",
+    "url": "https://www.facebook.com/SenkaThailand/",
+    "pass": 3
+   },
+   {
+    "quote": "Senka Philippines - FacebookGorski kotar... u fotografiji - FacebookSenka Vietnam - FacebookConvención Senka | Mérida - FacebookSENKA Dental Supply | Taoyüanhsien - FacebookSenka Indonesia | Jakarta - Facebook Nothing beats a fresh skin reset. 💙☁️ Start every day with Senka Perfect Whip, then level up the routine twice a week with Perfect White Clay for a deeper cleanse and skin that feels soft, f",
+    "url": "https://www.facebook.com/SENKAPH.WHIP/",
+    "pass": 3
+   },
+   {
+    "quote": "Senka Vietnam - FacebookConvención Senka | Mérida - FacebookSENKA Dental Supply | Taoyüanhsien - FacebookSenka Indonesia | Jakarta - Facebook Oct 9, 2026 · Hãy để Senka Perfect Whip Collagen In thay đổi thói quen của bạn với CÔNG NGHỆ LÀM SẠCH KHÔNG MA SÁT hoàn toàn mới hoạt động như nam châm giúp tự động hút sạch mọi bụi bẩn và tạp chất trên da mà không cần chà xát mạnh. Dec 23, 2025 · Convención",
+    "url": "https://www.facebook.com/senkavietnam/",
+    "pass": 3
+   },
+   {
+    "quote": "Convención Senka | Mérida - FacebookSENKA Dental Supply | Taoyüanhsien - FacebookSenka Indonesia | Jakarta - Facebook Dec 23, 2025 · Convención Senka is with Infinity Life Entertainment and Smartkesitas at Centro de Convenciones Yucatán Siglo XXI. 💥 ¡SENKA REGRESA CARGADA DE PODER! 💥 🚨 Más grande, más intenso y más legendario que nunca. Apr 29, 2026 · SENKA Dental Supply, Taoyüanhsien. 2,468 likes",
+    "url": "https://www.facebook.com/senkaexpo/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://kaitori-senka.co.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://senka.company/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://senka.company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.senka-serv.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://best100.v-tsushin.jp/company/senka/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://senka.company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.watch.impress.co.jp/docs/news/1561584.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://senka.company/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.finetoday.com/n/n72d31264c4c8?gs=bc9168e65e4b504afbb4154ae8b11e93",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proactive.jp/casestudy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bsearchtech.com/casestudy/finetoday/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://senka.site/outline.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.senkajpn.com/info/index2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://senka.company/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/takarazuka_db/n/n863ff90449b4?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rindl26/n/n31d647b49140?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cupofmisoshiru_/n/n4365a887bf7c?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/senka88/n/n754d7d267cb6?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/senka",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ChouSenka",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/senka/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SenkaWolf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SenkaThailand/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SENKAPH.WHIP/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/senkavietnam/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/senkaexpo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/senka_jp/status/2071413345983594519",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/snk_senka",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/senka_jp/status/1952187740117721088",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/senka_jp/status/1949651021803770288",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "SENKA 会社概要 資本金 設立",
+   "results": [
+    "https://senka.company/company",
+    "https://senka.company/",
+    "https://www.senka-serv.com/about/",
+    "http://senka.site/outline.html",
+    "https://compalyze.co.jp/company/6010501050454",
+    "https://companydata.tsujigawa.com/company2/6010501050454/",
+    "https://www.senka.co.jp/pages/5/"
+   ]
+  },
+  {
+   "query": "SENKA 事業内容 売上",
+   "results": [
+    "https://best100.v-tsushin.jp/company/senka/",
+    "https://senka.company/",
+    "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "https://www.senkajpn.com/",
+    "https://senka.company/company",
+    "https://jobcatalog.yahoo.co.jp/company/2000701505/information/",
+    "https://job.mynavi.jp/27/pc/search/corp208895/outline.html"
+   ]
+  },
+  {
+   "query": "SENKA 資金調達 株主",
+   "results": [
+    "https://www.watch.impress.co.jp/docs/news/1561584.html",
+    "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/19/100000_2",
+    "https://senka.company/company",
+    "https://prtimes.com/finance/6010501050454/settlement/383270",
+    "https://www.marr.jp/shared_files/contents/manews/59/59963/59963.pdf",
+    "https://prtimes.com/finance/6010501050454/settlement",
+    "https://www.senkajpn.com/",
+    "https://irbank.net/株式会社Senka",
+    "https://irbank.net/E40809",
+    "https://www.senkajpn.com/news/index.html"
+   ]
+  },
+  {
+   "query": "SENKA 導入事例",
+   "results": [
+    "https://note.finetoday.com/n/n72d31264c4c8",
+    "https://proactive.jp/casestudy/",
+    "https://www.bsearchtech.com/casestudy/finetoday/",
+    "https://news.mynavi.jp/techplus/casestudy/",
+    "https://www.senkajpn.com/",
+    "https://senjufamily.nri.co.jp/report/index.html",
+    "https://senkajpn.com/products/index.html"
+   ]
+  },
+  {
+   "query": "SENKA 主要取引先",
+   "results": [
+    "http://senka.site/outline.html",
+    "https://www.senkajpn.com/info/index2.html",
+    "https://senka.company/company",
+    "https://www.hp-senka.jp/company/client/",
+    "https://www.senka.com/pages/about-us",
+    "https://www.senkajpn.com/",
+    "https://www.synka.co.jp/company/main-customer/"
+   ]
+  },
+  {
+   "query": "site:note.com SENKA",
+   "results": [
+    "https://note.com/takarazuka_db/n/n863ff90449b4?hl=en",
+    "https://note.com/rindl26/n/n31d647b49140?hl=en",
+    "https://note.com/cupofmisoshiru_/n/n4365a887bf7c?hl=en",
+    "https://note.com/senka88/n/n754d7d267cb6?hl=en",
+    "https://note.com/senka_1000ka_/n/nee6572d20262?hl=en",
+    "https://note.com/senka_1000ka_/n/n60d4a41823be?hl=en",
+    "https://note.com/senka_1000ka_/n/n73aeadd24f76?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com SENKA",
+   "results": [
+    "https://x.com/senka",
+    "https://x.com/ChouSenka",
+    "https://x.com/senka/with_replies",
+    "https://x.com/SenkaWolf",
+    "https://x.com/SenKa_art",
+    "https://x.com/SenkaBuric",
+    "https://x.com/_senka"
+   ]
+  },
+  {
+   "query": "site:linkedin.com SENKA",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com SENKA",
+   "results": [
+    "https://www.facebook.com/SenkaThailand/",
+    "https://www.facebook.com/SENKAPH.WHIP/",
+    "https://www.facebook.com/senkavietnam/",
+    "https://www.facebook.com/senkaexpo/",
+    "https://www.facebook.com/senkadentalglobal/",
+    "https://www.facebook.com/senka.indo/",
+    "https://business.facebook.com/groups/gorskikotarphotography/",
+    "https://www.facebook.com/public/Senka/",
+    "https://www.facebook.com/people/The-Senka-Agency/100046869625452/",
+    "https://www.facebook.com/SenkaMalaysia/"
+   ]
+  },
+  {
+   "query": "SENKA note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/sadaaki",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ]
+  },
+  {
+   "query": "SENKA X 投稿",
+   "results": [
+    "https://x.com/senka_jp/status/2071413345983594519",
+    "https://x.com/snk_senka",
+    "https://x.com/senka_jp/status/1952187740117721088",
+    "https://x.com/senka_jp/status/1949651021803770288",
+    "https://x.com/senka1515",
+    "https://x.com/senka_73/status/2116202282253725850",
+    "https://x.com/senka_jp/status/2072863012931981683"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索11回）"
+ }
+}

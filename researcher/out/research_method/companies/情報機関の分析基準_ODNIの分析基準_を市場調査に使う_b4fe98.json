@@ -8,8 +8,354 @@
  ],
  "context": "型",
  "kind": "market",
- "researched_at": "2026-11-05T11:03:51.521881+00:00",
+ "researched_at": "2026-11-05T14:45:03.754208+00:00",
  "evidence": {
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "5つの「Analytic Standards」｜データ分析とインテリジェンス Jul 13, 2026 · 資料をあさっていたら、こんなものを見つけた。 米国のODNI（Office of the Director of National Intelligence、国家情報長官室）が出しているICD 203（Intelligence Community Directive 203）、副題は「Analytic Standards」、分析基準だ。",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "競争インテリジェンスの担当部門は、報道記事、業界報告書、特許、学術研究、そして近年ではソーシャルメディアやウェブ解析といった、情報機関と多くを共有する情報源に頼っている",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "たとえば企業は、競合の求人情報やプレスリリースを見ることで、その事業拡大の計画や研究開発の重点を推し量ることができる",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実証研究によれば、こうした衛星画像を使える投資家は、決算発表の前に売上の動向を予測して取引を行い、その情報を持たない投資家より優位に立っていた(Berkeley Haas, 2019)",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "たとえばエネルギー企業は、石油探査の候補地を見つけたり、操業を妨げる地震を予測したりするために、公的な地質データベースなどを通じて地震データを監視できる",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "赤外線画像による熱の放出、公的な環境報告や慎重な検査による周辺水域の汚染物質の濃度、さらにはスマートグリッドの情報や送電線の発熱の観察から得られる電力使用量などである",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業は、衛星画像サービスに加入し、センサー測定値のデータを購入し、気象、気候、交通センサーなどの公的なデータベースを利用できる",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "金融情報の要点は、資金の流れが銀行の記録、電信送金、ペーパーカンパニーの登記といった痕跡を残し、それらをつなぎ合わせられることにある",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ヘッジファンドは、決算発表の前に企業の業績を測るために、クレジットカードデータを購入したり、電子商取引の購入記録を集めたりすることで知られている",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "資金を調達しているか(ベンチャー投資のデータベースや、社債を発行していれば証券取引委員会への提出書類を見る)、大きな資産を買ったか(不動産登記や地元の報道が新施設に触れることがある)、積極的に採用しているか(求人情報や給与税の登録に表れる)といった問いである",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "求人情報のような兆候は第3節でも述べたとおりで、金融情報と公開情報の分析が実務では連続していることを示している",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "報道、ソーシャルメディア、特許、ウェブサイトなど、自社の業界に関する公開データを継続的に監視するための道具と手順を整える",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.cia.gov/resources/csi/static/643e18ba5bf779749a14059019db53b2/Article-The-Promise-and-Peril-of-Artificial-Intelligence-Studies-68-1-March-2024.pdf",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.cia.gov/spy-kids/static/59d238b4b5f69e0497325e49f0769acf/Briefing-intelligence-cycle.pdf",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.cia.gov/podcast/static/7cd1e1a80447e96fc5d55d8a17fc0db6/The-Langley-Files-File-015-DDI-Transcript.pdf",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.cia.gov/resources/csi/static/Article-Espionage-in-Our-AI-Future-Studies-70-1-Mar2026.pdf",
+    "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業も同様に、リアルタイムで競合情報や市場情報を収集するためにOSINTを活用しており、合法的かつ低コストで公的データを利用している（Bensoussan & Fleisher, 2013）",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業は競争情報を強化するために元インテリジェンス職員を採用することもあるが、倫理的および法的な境界を逸脱しないよう注意が必要である（Barboza, 2001）",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競争インテリジェンスチームは、ニュース記事、業界レポート、特許、学術研究、さらにはソーシャルメディアやウェブ解析といった多くの同様の情報源を活用する",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、企業は競合他社の求人情報やプレスリリースを分析し（公開情報の活用）、その事業拡大計画や研究開発の焦点を推測できる",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的規制申請や財務報告も分析することで、企業の業績や投資優先順位に関する情報を得ることができる",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "合法的なHUMINTの例としては、顧客や業界専門家との対話、展示会での非公式な情報収集、競合他社からの従業員採用（法的範囲内）、競合他社のサービスを体験する「ミステリーショッパー」の活用などがある",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、不動産購入記録や従業員採用動向の分析を通じて、企業の拡張計画を把握することが可能である",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "財務諸表や店舗レポートの伝統的な分析には限界があるため、同ファンドはOSINTとMASINTを融合した革新的な手法として、衛星画像解析を採用した",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この情報を基に、ファンドは決算発表前にウォルマート株を大量に取得した",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINTの手法として、アナリストは現地のニュースアーカイブ、企業登記情報、裁判記録を精査し、ターゲット企業の経営状況や法的問題を調査した",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的な裁判記録により、ターゲット企業が契約を獲得するために賄賂を支払っていた事実が確認された",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この調査手法は政府の諜報機関のプロセスと類似しており、OSINTと「近接情報源」HUMINTを組み合わせ、データの相互関連性を分析し、仮説を検証しながらバイアスを排除する手法を採用していた（Black Cube, n.d.）",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ニュース、ソーシャルメディア、特許、企業ウェブサイトなどのデータを継続的に監視し、リアルタイムで競争動向を把握する",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.dni.gov/files/NationalOpenSourceEnterprise2021.pdf",
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：求人情報の急増、規制当局への提出書類の変化、SNS上の感情の変化など、公開情報に現れる小さな兆候をAIが検出し、分析官に示す",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この論文の主題は国防の調達、組織改革、訓練、採用という公共行政上の課題であり、作戦の技術的な詳細は扱っていない",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Massive社の分類は、金融犯罪と暗号資産の追跡分析をOSINTツールの独立した分野として位置づけ、Chainalysisなどの事業者を挙げるとともに、2025年の不正な暗号資産取引が409億ドルに上るという統計を引いている(Turner, 2026)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2025年2月から5月の軍の調達文書にはDeepSeekへの言及が150件以上あり、兵器工業集団傘下の兵器科学研究院の特許は、公開情報、人的情報、信号情報、地理空間情報、技術情報のデータで軍用大規模言語モデルを訓練し、情報サイクルの全段階を支援する構想を示している(Insikt Group, 2025)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この段階では「人間とAIの協働モデル」を明示的な設計原則として採用し、AIが収集と優先順位づけを、人間が検証と意思決定を担う役割分担を制度化する(Palmieri et al., 2026)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本稿の調査範囲では、日本の公的機関が生成AIのインテリジェンス活用に関する公式方針や倫理原則を公表した文書は確認できなかった",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://aclanthology.org/2023.eval4nlp-1.7.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.cia.gov/resources/csi/static/643e18ba5bf779749a14059019db53b2/Article-The-Promise-and-Peril-of-Artificial-Intelligence-Studies-68-1-March-2024.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.cimic-coe.org/wp-content/uploads/2025/03/factsheet-ai.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://assets.recordedfuture.com/insikt-report-pdfs/2025/ta-cn-2025-0617.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.defense.gouv.fr/sites/default/files/drm/Esprit%20d%C3%A9fense%20n%C2%B0%2017%20-%20Automne%202025-24-43.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.cia.gov/resources/csi/static/Article-Espionage-in-Our-AI-Future-Studies-70-1-Mar2026.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://docs.house.gov/meetings/BA/BA10/20230427/115822/HHRG-118-BA10-Wstate-NelsonB-20230427.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://cdn.asp.events/CLIENT_Defence__8EE24275_D70D_4386_936BB8991B847FF8/sites/Navy-Leaders-2022/media/libraries/cne24-presentations/Day-3-UDSA-1115-OPTION-1-_PUBLIC_CNE_NATO_Data_and_AI_Policies.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.dni.gov/files/documents/ICD/ICD-203.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "SQLの書き方も可視化の作法も統計手法の選び方も、手段の教材は山ほどある",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "参考: ICD 203 原文（ODNI公式PDF）",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.dni.gov/files/documents/ICD/ICD-203.pdf",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OECD 公的監査における人工知能の現状 2026.05.07)",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(公認会計士試験ガイド★講座 対策 受験 求人 事務所 問題集 合格 資格 学校)",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さらに、COVID-19パンデミックの際、NGIC、MCIA、ONI、USCYBERCOMで新たに採用されたアナリストや軍事アナリストは、さまざまな理由から、ICD203分析トレードクラフト標準の訓練を受けていなかった",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・2015.01.02 [PDF]",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・2007.06.21 [PDF]",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「なぜこのIOCを採用したのか」を B2 という2文字で示せれば、レビューする側は根拠の強さを即座に把握でき、半年後の自分も同じ基準で再評価できます",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用した仮説、その確度（6章）、そして「どんな証拠が出たら結論を変えるか」を明記する",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ICD 203: Analytic Standards（米国家情報長官室・確度表現の原典PDF・英語）",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「Opus級のAIがVRAM 12GBで動く」はどこまで本当？話題のStrata 0.2を一次情報で確かめた",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
    {
     "quote": "各機関がこれらの手法をどのように使ってきたかを比較したうえで、インテリジェンスの考え方を経営戦略に取り入れた企業の事例を含めて、企業への応用の可能性を探る",
@@ -402,6 +748,56 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "5つの「Analytic Standards」｜データ分析とインテリジェンス",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5つの「Analytic Standards」",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "どんなにデータ基盤を充実させて整備したとしても、分析がおかしければすべては無駄になる。",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ところが、分析の成果物について、「これはこうあるべきだ」という体系的な基準が見当たらない（自分も書けていないので責任の一端は感じている）。SQLの書き方も可視化の作法も統計手法の選び方も、手段の教材は山ほどある。だが、良い分析と悪い分析を何が分けるのか、その基準を示したものにはなかなか出会わない。",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "資料をあさっていたら、こんなものを見つけた。米国のODNI（Office of the Director of National Intelligence、国家情報長官室）が出しているICD 203（Intelligence Community Directive 203）、副題は「Analytic Standards」、分析基準だ。",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "8ページではあるが、分析成果物が満たすべき基準を明文化している。読んでみると、これがデータ分析の成果物にもほとんどそのまま当てはまる。データから意思決定に資するインテリジェンスを作るという営みの構造が、国家安全保障でも企業でも個人でも同じだからだ。",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この文書は、二階建ての構造になっている。上の階が、Analytic Standards（分析基準）である。これは理念のレベルだ。分析はそもそもどうあるべきかをまとめている。",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この4つは分析がまず満たすべき項目である。正しい分析になるための前提であると言ってもいい。1つでも欠ける分析には価値がない。",
+    "url": "https://note.com/shinu/n/n92a701e0f992",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "なお、これらの手法をまとめて「インテリジェンス」と呼ぶ際には、概念上の緊張関係に注意が必要である",
@@ -712,372 +1108,6 @@
    {
     "quote": "公開情報を使った情報収集の基本、検索テクニック、SNS・地理情報・企業調査への活用方法、注意点までわかりやすく紹介する完全ガイド",
     "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "競争インテリジェンスの担当部門は、報道記事、業界報告書、特許、学術研究、そして近年ではソーシャルメディアやウェブ解析といった、情報機関と多くを共有する情報源に頼っている",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "たとえば企業は、競合の求人情報やプレスリリースを見ることで、その事業拡大の計画や研究開発の重点を推し量ることができる",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実証研究によれば、こうした衛星画像を使える投資家は、決算発表の前に売上の動向を予測して取引を行い、その情報を持たない投資家より優位に立っていた(Berkeley Haas, 2019)",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "たとえばエネルギー企業は、石油探査の候補地を見つけたり、操業を妨げる地震を予測したりするために、公的な地質データベースなどを通じて地震データを監視できる",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "赤外線画像による熱の放出、公的な環境報告や慎重な検査による周辺水域の汚染物質の濃度、さらにはスマートグリッドの情報や送電線の発熱の観察から得られる電力使用量などである",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業は、衛星画像サービスに加入し、センサー測定値のデータを購入し、気象、気候、交通センサーなどの公的なデータベースを利用できる",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "金融情報の要点は、資金の流れが銀行の記録、電信送金、ペーパーカンパニーの登記といった痕跡を残し、それらをつなぎ合わせられることにある",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ヘッジファンドは、決算発表の前に企業の業績を測るために、クレジットカードデータを購入したり、電子商取引の購入記録を集めたりすることで知られている",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "資金を調達しているか(ベンチャー投資のデータベースや、社債を発行していれば証券取引委員会への提出書類を見る)、大きな資産を買ったか(不動産登記や地元の報道が新施設に触れることがある)、積極的に採用しているか(求人情報や給与税の登録に表れる)といった問いである",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "求人情報のような兆候は第3節でも述べたとおりで、金融情報と公開情報の分析が実務では連続していることを示している",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "報道、ソーシャルメディア、特許、ウェブサイトなど、自社の業界に関する公開データを継続的に監視するための道具と手順を整える",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://www.cia.gov/resources/csi/static/643e18ba5bf779749a14059019db53b2/Article-The-Promise-and-Peril-of-Artificial-Intelligence-Studies-68-1-March-2024.pdf",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://www.cia.gov/spy-kids/static/59d238b4b5f69e0497325e49f0769acf/Briefing-intelligence-cycle.pdf",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://www.cia.gov/podcast/static/7cd1e1a80447e96fc5d55d8a17fc0db6/The-Langley-Files-File-015-DDI-Transcript.pdf",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://www.cia.gov/resources/csi/static/Article-Espionage-in-Our-AI-Future-Studies-70-1-Mar2026.pdf",
-    "url": "https://note.com/everprogress/n/nde8351a93d60",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業も同様に、リアルタイムで競合情報や市場情報を収集するためにOSINTを活用しており、合法的かつ低コストで公的データを利用している（Bensoussan & Fleisher, 2013）",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業は競争情報を強化するために元インテリジェンス職員を採用することもあるが、倫理的および法的な境界を逸脱しないよう注意が必要である（Barboza, 2001）",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "競争インテリジェンスチームは、ニュース記事、業界レポート、特許、学術研究、さらにはソーシャルメディアやウェブ解析といった多くの同様の情報源を活用する",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、企業は競合他社の求人情報やプレスリリースを分析し（公開情報の活用）、その事業拡大計画や研究開発の焦点を推測できる",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公的規制申請や財務報告も分析することで、企業の業績や投資優先順位に関する情報を得ることができる",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "合法的なHUMINTの例としては、顧客や業界専門家との対話、展示会での非公式な情報収集、競合他社からの従業員採用（法的範囲内）、競合他社のサービスを体験する「ミステリーショッパー」の活用などがある",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、不動産購入記録や従業員採用動向の分析を通じて、企業の拡張計画を把握することが可能である",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "財務諸表や店舗レポートの伝統的な分析には限界があるため、同ファンドはOSINTとMASINTを融合した革新的な手法として、衛星画像解析を採用した",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この情報を基に、ファンドは決算発表前にウォルマート株を大量に取得した",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINTの手法として、アナリストは現地のニュースアーカイブ、企業登記情報、裁判記録を精査し、ターゲット企業の経営状況や法的問題を調査した",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公的な裁判記録により、ターゲット企業が契約を獲得するために賄賂を支払っていた事実が確認された",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この調査手法は政府の諜報機関のプロセスと類似しており、OSINTと「近接情報源」HUMINTを組み合わせ、データの相互関連性を分析し、仮説を検証しながらバイアスを排除する手法を採用していた（Black Cube, n.d.）",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ニュース、ソーシャルメディア、特許、企業ウェブサイトなどのデータを継続的に監視し、リアルタイムで競争動向を把握する",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://www.dni.gov/files/NationalOpenSourceEnterprise2021.pdf",
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：求人情報の急増、規制当局への提出書類の変化、SNS上の感情の変化など、公開情報に現れる小さな兆候をAIが検出し、分析官に示す",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この論文の主題は国防の調達、組織改革、訓練、採用という公共行政上の課題であり、作戦の技術的な詳細は扱っていない",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Massive社の分類は、金融犯罪と暗号資産の追跡分析をOSINTツールの独立した分野として位置づけ、Chainalysisなどの事業者を挙げるとともに、2025年の不正な暗号資産取引が409億ドルに上るという統計を引いている(Turner, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2025年2月から5月の軍の調達文書にはDeepSeekへの言及が150件以上あり、兵器工業集団傘下の兵器科学研究院の特許は、公開情報、人的情報、信号情報、地理空間情報、技術情報のデータで軍用大規模言語モデルを訓練し、情報サイクルの全段階を支援する構想を示している(Insikt Group, 2025)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この段階では「人間とAIの協働モデル」を明示的な設計原則として採用し、AIが収集と優先順位づけを、人間が検証と意思決定を担う役割分担を制度化する(Palmieri et al., 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本稿の調査範囲では、日本の公的機関が生成AIのインテリジェンス活用に関する公式方針や倫理原則を公表した文書は確認できなかった",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://aclanthology.org/2023.eval4nlp-1.7.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://www.cia.gov/resources/csi/static/643e18ba5bf779749a14059019db53b2/Article-The-Promise-and-Peril-of-Artificial-Intelligence-Studies-68-1-March-2024.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://www.cimic-coe.org/wp-content/uploads/2025/03/factsheet-ai.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://assets.recordedfuture.com/insikt-report-pdfs/2025/ta-cn-2025-0617.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://www.defense.gouv.fr/sites/default/files/drm/Esprit%20d%C3%A9fense%20n%C2%B0%2017%20-%20Automne%202025-24-43.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://www.cia.gov/resources/csi/static/Article-Espionage-in-Our-AI-Future-Studies-70-1-Mar2026.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://docs.house.gov/meetings/BA/BA10/20230427/115822/HHRG-118-BA10-Wstate-NelsonB-20230427.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://cdn.asp.events/CLIENT_Defence__8EE24275_D70D_4386_936BB8991B847FF8/sites/Navy-Leaders-2022/media/libraries/cne24-presentations/Day-3-UDSA-1115-OPTION-1-_PUBLIC_CNE_NATO_Data_and_AI_Policies.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://www.dni.gov/files/documents/ICD/ICD-203.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "SQLの書き方も可視化の作法も統計手法の選び方も、手段の教材は山ほどある",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "参考: ICD 203 原文（ODNI公式PDF）",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://www.dni.gov/files/documents/ICD/ICD-203.pdf",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OECD 公的監査における人工知能の現状 2026.05.07)",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(公認会計士試験ガイド★講座 対策 受験 求人 事務所 問題集 合格 資格 学校)",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さらに、COVID-19パンデミックの際、NGIC、MCIA、ONI、USCYBERCOMで新たに採用されたアナリストや軍事アナリストは、さまざまな理由から、ICD203分析トレードクラフト標準の訓練を受けていなかった",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "・2015.01.02 [PDF]",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "・2007.06.21 [PDF]",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「なぜこのIOCを採用したのか」を B2 という2文字で示せれば、レビューする側は根拠の強さを即座に把握でき、半年後の自分も同じ基準で再評価できます",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用した仮説、その確度（6章）、そして「どんな証拠が出たら結論を変えるか」を明記する",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ICD 203: Analytic Standards（米国家情報長官室・確度表現の原典PDF・英語）",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「Opus級のAIがVRAM 12GBで動く」はどこまで本当？話題のStrata 0.2を一次情報で確かめた",
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
-   {
-    "quote": "The Value of ICD 203 Analytical Tradecraft Standards in the ... The Value of ICD 203 Analytical Tradecraft Standards in the ... LinkedIn https://www.linkedin.com > pulse > v...",
-    "url": "https://www.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The Value of ICD 203 Analytical Tradecraft Standards in the ... Oct 20, 2023 · The US Intelligence Community (IC) has long been a beacon of rigorous analytical standards, with the Intelligence Community Directive (ICD) 203 serving as its guiding light. But can the...",
-    "url": "https://pe.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Intelligence Tradecraft Standards: ICD 203 Analytic ... It contains the nine analytic tradecraft standards that govern how analysis is constructed and evaluated, including sourcing, uncertainty, alternatives, argumentation, accuracy, and structure.",
-    "url": "https://www.linkedin.com/posts/jessicastutzman_osint-intelligenceanalysis-intelligencetradecraft-activity-7423762491249266688-lDNb",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "SNS・note（note・検索結果の抜粋）": [
-   {
-    "quote": "5つの「Analytic Standards」｜データ分析とインテリジェンス Jul 13, 2026 · 資料をあさっていたら、こんなものを見つけた。 米国のODNI（Office of the Director of National Intelligence、国家情報長官室）が出しているICD 203（Intelligence Community Directive 203）、副題は「Analytic Standards」、分析基準だ。",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -1812,6 +1842,26 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "The Value of ICD 203 Analytical Tradecraft Standards in the ... The Value of ICD 203 Analytical Tradecraft Standards in the ... LinkedIn https://www.linkedin.com > pulse > v...",
+    "url": "https://www.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The Value of ICD 203 Analytical Tradecraft Standards in the ... Oct 20, 2023 · The US Intelligence Community (IC) has long been a beacon of rigorous analytical standards, with the Intelligence Community Directive (ICD) 203 serving as its guiding light. But can the...",
+    "url": "https://pe.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Intelligence Tradecraft Standards: ICD 203 Analytic ... It contains the nine analytic tradecraft standards that govern how analysis is constructed and evaluated, including sourcing, uncertainty, alternatives, argumentation, accuracy, and structure.",
+    "url": "https://www.linkedin.com/posts/jessicastutzman_osint-intelligenceanalysis-intelligencetradecraft-activity-7423762491249266688-lDNb",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "検索結果の抜粋": [
    {
     "quote": "Analytic Standards - DNI .gov — Analytic Standards - DNI .gov DNI.gov PDF https://archive.dni.gov > documents > ICD > ICD-203",
@@ -1828,56 +1878,6 @@
    {
     "quote": "Alexandru Marcoci, Ans Vercammen and Mark Burgman] ODNI as an ... — Director of National Intelligence (ODNI) charged with ensuring that intelligence reports from across the IC comply with these standards. ICD203 (in its second, January 2, 2015 iteration) contains four analytic standards: objectivity, political independence, timeliness and good tradecraft. The last is broken down into nine analytic",
     "url": "https://researchonline.lse.ac.uk/id/eprint/90562/1/Marcoci_ODNI+as+analytic+ombudsman_2018.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "SNS・note（note・本文）": [
-   {
-    "quote": "5つの「Analytic Standards」｜データ分析とインテリジェンス",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "5つの「Analytic Standards」",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "どんなにデータ基盤を充実させて整備したとしても、分析がおかしければすべては無駄になる。",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ところが、分析の成果物について、「これはこうあるべきだ」という体系的な基準が見当たらない（自分も書けていないので責任の一端は感じている）。SQLの書き方も可視化の作法も統計手法の選び方も、手段の教材は山ほどある。だが、良い分析と悪い分析を何が分けるのか、その基準を示したものにはなかなか出会わない。",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "資料をあさっていたら、こんなものを見つけた。米国のODNI（Office of the Director of National Intelligence、国家情報長官室）が出しているICD 203（Intelligence Community Directive 203）、副題は「Analytic Standards」、分析基準だ。",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "8ページではあるが、分析成果物が満たすべき基準を明文化している。読んでみると、これがデータ分析の成果物にもほとんどそのまま当てはまる。データから意思決定に資するインテリジェンスを作るという営みの構造が、国家安全保障でも企業でも個人でも同じだからだ。",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この文書は、二階建ての構造になっている。上の階が、Analytic Standards（分析基準）である。これは理念のレベルだ。分析はそもそもどうあるべきかをまとめている。",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この4つは分析がまず満たすべき項目である。正しい分析になるための前提であると言ってもいい。1つでも欠ける分析には価値がない。",
-    "url": "https://note.com/shinu/n/n92a701e0f992",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -1927,7 +1927,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.intimatemerger.com/n/n3a013272d443?gs=ecaa535656be9070f8e35fd19045dc76",
+    "url": "https://note.intimatemerger.com/n/n3a013272d443?gs=a13fbcb9d925b082a9473e83714eb40b",
     "status": "ok",
     "method": "http"
    },
@@ -1939,7 +1939,7 @@
    {
     "url": "https://hon-dana.seesaa.net/article/521698239.html",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://www.amazon.ca/%E5%85%A8%E8%A8%B3%E6%B3%A8-%E7%B1%B3%E5%9B%BD%E6%83%85%E5%A0%B1%E6%A9%9F%E9%96%A2%E3%81%AE%E5%88%86%E6%9E%90%E6%8A%80%E8%A1%93-CIA%E3%83%BBODNI%E5%85%AC%E9%96%8B%E8%B3%87%E6%96%99%E3%81%AB%E5%AD%A6%E3%81%B6%E4%BB%AE%E8%AA%AC%E6%A4%9C%E8%A8%BC%E3%83%BB%E5%87%BA%E5%85%B8%E8%A9%95%E4%BE%A1%E3%83%BB%E6%84%8F%E6%80%9D%E6%B1%BA%E5%AE%9A%E3%81%AE%E6%8A%80%E6%B3%95-%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E4%B8%AD%E5%A4%AE%E6%83%85%E5%A0%B1%E5%B1%80-%E5%9B%BD%E5%AE%B6%E6%83%85%E5%A0%B1%E9%95%B7%E5%AE%98%E5%AE%A4/dp/B0H6TP8KBH",
@@ -1953,11 +1953,6 @@
    },
    {
     "url": "https://surveroid.jp/mr-journal/globalresearch/s5jiX",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.yano.co.jp/announce/generationAI.html?srsltid=AYCX9vL0BxXALysf_4Mgv8nd2QjwUAFTbTC1IQsgVz8TAM5oh1nVkfvw",
     "status": "ok",
     "method": "http"
    },
@@ -1977,14 +1972,14 @@
     "method": "http"
    },
    {
-    "url": "https://www.nids.mod.go.jp/about_us/topic/pdf/240301_1_03.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.yano.co.jp/announce/generationAI.html?srsltid=AYCX9vIDGYERmd5xEEoyWBvrKf0IIFtRK1NhYUOSEKkp0lfafzSP-nhO",
+    "url": "https://www.brainpad.co.jp/brandwatch/blog/5829/",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.nids.mod.go.jp/about_us/topic/pdf/240301_1_03.pdf",
+    "status": "network_error:ReadTimeoutError",
+    "method": "pdf"
    },
    {
     "url": "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
@@ -2004,6 +1999,11 @@
    {
     "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2026/03/post-39014e.html",
     "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/smrc2170067-data-privacy-management-market-forecasts-global.html",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -2012,14 +2012,14 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.ndu.edu/Portals/59/Documents/NIC%20Documents/Shorts/NIUShort_20240606_DNI_2024_02624.pdf",
-    "status": "http_403",
-    "method": "pdf"
-   },
-   {
     "url": "https://www.intelligence.gov/mission/our-values/objectivity",
     "status": "http_403",
     "method": "http"
+   },
+   {
+    "url": "https://www.ndu.edu/Portals/59/Documents/NIC%20Documents/Shorts/NIUShort_20240606_DNI_2024_02624.pdf",
+    "status": "http_403",
+    "method": "pdf"
    },
    {
     "url": "https://www.tandfonline.com/doi/full/10.1080/08850607.2023.2235078",
@@ -2071,7 +2071,7 @@
     "https://note.com/everprogress/n/ne12359f56406",
     "https://note.intimatemerger.com/n/n3a013272d443",
     "https://www8.cao.go.jp/cstp/stmain/pdf/20230314thinktank/seikabutsu/shiryou3-1-01.pdf",
-    "https://hon-dana.seesaa.net/article/521698239.html"
+    "https://www.amazon.co.jp/全訳注-米国情報機関の分析技術-CIA・ODNI公開資料に学ぶ仮説検証・出典評価・意思決定の技法-アメリカ中央情報局-国家情報長官室-ebook/dp/B0H6TSCJVN"
    ]
   },
   {
@@ -2080,12 +2080,12 @@
     "https://note.com/everprogress/n/nde8351a93d60",
     "https://www.ipsos.com/ja-jp/market-research-in-usa",
     "https://surveroid.jp/mr-journal/globalresearch/s5jiX",
-    "https://www.yano.co.jp/announce/generationAI.html?srsltid=AYCX9vL0BxXALysf_4Mgv8nd2QjwUAFTbTC1IQsgVz8TAM5oh1nVkfvw",
     "https://professional.mynavi.jp/magazine/magazine_230",
     "https://www.waltsu.co.jp/blog/ai-market-research/",
     "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
     "https://www.brainpad.co.jp/brandwatch/blog/5829/",
     "https://www.ninout.ai/blog/posts/%E5%B8%82%E5%A0%B4%E8%AA%BF%E6%9F%BB%E3%81%AE%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95%EF%BD%9C%E5%AE%9A%E9%87%8F%E3%83%BB%E5%AE%9A%E6%80%A7%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E5%88%86%E6%9E%90%E3%81%97/",
+    "https://www.macromill.com/service/column/researcher-071/",
     "https://note.com/everprogress/n/n28fc53b2c5cc"
    ]
   },
@@ -2094,22 +2094,22 @@
    "results": [
     "https://note.com/everprogress/n/nde8351a93d60",
     "https://www.nids.mod.go.jp/about_us/topic/pdf/240301_1_03.pdf",
-    "https://www.yano.co.jp/announce/generationAI.html?srsltid=AYCX9vIDGYERmd5xEEoyWBvrKf0IIFtRK1NhYUOSEKkp0lfafzSP-nhO",
     "https://www8.cao.go.jp/cstp/stmain/pdf/20230314thinktank/seikabutsu/shiryou3-1-01.pdf",
     "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
     "https://www.ipsos.com/ja-jp/social-media-research-insight-services",
     "https://research.impress.co.jp/",
     "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2026/03/post-39014e.html",
-    "https://gmo-research.ai/research-column",
-    "https://note.com/everprogress/n/n28fc53b2c5cc"
+    "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "https://www.gii.co.jp/report/smrc2170067-data-privacy-management-market-forecasts-global.html",
+    "https://www.amazon.co.jp/全訳注-米国情報機関の分析技術-CIA・ODNI公開資料に学ぶ仮説検証・出典評価・意思決定の技法-アメリカ中央情報局-国家情報長官室/dp/B0H6TP8KBH"
    ]
   },
   {
    "query": "ODNI analytic standards applied business research",
    "results": [
     "https://archive.dni.gov/files/documents/ICD/ICD-203.pdf",
-    "https://www.ndu.edu/Portals/59/Documents/NIC%20Documents/Shorts/NIUShort_20240606_DNI_2024_02624.pdf",
     "https://www.intelligence.gov/mission/our-values/objectivity",
+    "https://www.ndu.edu/Portals/59/Documents/NIC%20Documents/Shorts/NIUShort_20240606_DNI_2024_02624.pdf",
     "https://www.tandfonline.com/doi/full/10.1080/08850607.2023.2235078",
     "https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/March-April-2021/Kwoun-Tradecraft-Standards/",
     "https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1923&context=jss",
@@ -2137,13 +2137,16 @@
   {
    "query": "site:x.com 情報機関の分析基準（ODNIの分析基準）を市場調査に使う",
    "results": [
-    "https://x.com/qqOoUmYgbI80868/status/2035218895028855059",
-    "https://x.com/SON_SC/status/2059980313863024644",
     "https://x.com/RibbonChieko/status/2089975733729083399",
-    "https://x.com/seculligence/status/2062263299614376387",
     "https://x.com/i/trending/2034947663532056912",
-    "https://x.com/01ra66it/status/2046033752909021596",
-    "https://x.com/K_Ichida/status/2072276026097336767"
+    "https://x.com/SON_SC/status/2059980313863024644",
+    "https://x.com/qqOoUmYgbI80868/status/2035218895028855059",
+    "https://x.com/Valkyrie17q45/status/2103042805291774325",
+    "https://x.com/PeacePhilosophy/status/2068735690704368069",
+    "https://x.com/K_Ichida/status/2072276026097336767",
+    "https://x.com/seculligence/status/2062263299614376387",
+    "https://x.com/Dr_Extension/status/1981706967581335593",
+    "https://x.com/01ra66it/status/2046033752909021596"
    ]
   },
   {
@@ -2151,9 +2154,9 @@
    "results": [
     "https://www.linkedin.com/posts/osint-foundation_osint-opensourceintelligence-intelligence-activity-7416462289769390080-zdSW",
     "https://www.linkedin.com/posts/odni_ics-206-01pdf-activity-7269818693260349440-zVb5",
-    "https://www.linkedin.com/posts/giangiuseppe-pili-02a22658_analyticstandards-objectivity-politicallyindependent-activity-7355556133010296832-7PMM/",
     "https://www.linkedin.com/pulse/key-china-content-from-odnis-annual-threat-assessment-andrew-erickson",
     "https://jp.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford?tl=ja",
+    "https://www.linkedin.com/posts/giangiuseppe-pili-02a22658_analyticstandards-objectivity-politicallyindependent-activity-7355556133010296832-7PMM/",
     "https://jp.linkedin.com/posts/増田聡-masudasatoshi7-73150b59_速報国家情報局国家情報会議新設など盛り込む法案が閣議決定インテリジェンス-activity-7438325508221751296-Ldua",
     "https://www.linkedin.com/posts/増田聡-masudasatoshi7-73150b59_odni-と-cia-が-2024-年から-2026-年に向けたインテリジェンス-activity-7172736893980278784-aE4_"
    ]
@@ -2182,22 +2185,22 @@
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://manamina.valuesccg.com/articles/5262",
     "https://www8.cao.go.jp/cstp/stmain/pdf/20230314thinktank/seikabutsu/shiryou3-1-01.pdf",
-    "https://www.amazon.co.jp/全訳注-米国情報機関の分析技術-CIA・ODNI公開資料に学ぶ仮説検証・出典評価・意思決定の技法-アメリカ中央情報局-国家情報長官室/dp/B0H6TP8KBH"
+    "https://walkand.co.jp/market-research-method/"
    ]
   },
   {
    "query": "情報機関の分析基準（ODNIの分析基準）を市場調査に使う X 投稿",
    "results": [
     "https://note.com/everprogress/n/nde8351a93d60",
-    "https://www.mieruka-engine.com/media/sns",
     "https://sns.userlocal.jp/column/how-to-twitter-analytics/",
+    "https://www.mieruka-engine.com/media/sns",
     "https://www.koukoku.jp/service/suketto/marketer/sns/x%EF%BC%88%E6%97%A7twitter%EF%BC%89%E5%8B%95%E7%94%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A7%E6%88%90%E6%9E%9C%E3%82%92%E5%87%BA%E3%81%99%E6%B4%BB%E7%94%A8%E6%B3%95/",
-    "https://www.nttcoms.com/service/social/column/sns-research-tool/",
     "https://www.ipsos.com/ja-jp/social-media-research-insight-services",
+    "https://www.nttcoms.com/service/social/column/sns-research-tool/",
     "https://prtimes.jp/main/html/rd/p/000000094.000026754.html",
     "https://www.aspicjapan.org/asu/article/48686",
-    "https://xn--q6vw15bczbg0p.com/knowhow/u4_x/",
-    "https://note.com/everprogress/n/n28fc53b2c5cc"
+    "https://www.nhk.or.jp/bunken/d/research/yoron/BUNA0000010730030005/",
+    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス"
    ]
   },
   {
@@ -2218,6 +2221,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-05T00:48:39.389212+00:00"
 }

@@ -1,0 +1,1257 @@
+{
+ "name": "Onfleek",
+ "aliases": [
+  "onfleek"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T14:49:55.762297+00:00",
+ "official_url": "https://onfleek.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "〒160-0023 東京都新宿区西新宿7-5-2 西新宿ビジネスキューブ2階 TEL：03-5358-9859",
+    "url": "https://onfleek.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "東京都新宿区西新宿7-5-2 西新宿ビジネスキューブ2階",
+    "url": "https://best100.v-tsushin.jp/company/onfleek/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2020年1月",
+    "url": "https://onfleek.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2020年",
+    "url": "https://en-ambi.com/agency/a-5536/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "2,000万円",
+    "url": "https://onfleek.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "2,000万円",
+    "url": "https://best100.v-tsushin.jp/company/onfleek/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "5000000円",
+    "url": "https://en-ambi.com/agency/a-5536/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "137名 ※2026年時点",
+    "url": "https://onfleek.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "法人全体：71名／人材紹介部門：30名",
+    "url": "https://en-ambi.com/agency/a-5536/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "渡邊 将",
+    "url": "https://onfleek.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "渡邊 将",
+    "url": "https://en-ambi.com/agency/a-5536/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "人材紹介事業、人材派遣事業、ITソリューション事業、コンストラクション事業",
+    "url": "https://onfleek.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "・人材紹介事業(中途/新卒) ・エンジニア派遣事業 ・施工管理派遣事業",
+    "url": "https://best100.v-tsushin.jp/company/onfleek/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "■有料職業紹介事業 ■ITソリューション事業",
+    "url": "https://en-ambi.com/agency/a-5536/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "株式会社Onfleek（オンフリーク）｜人材紹介・ITソリューション・コンストラクション事業",
+    "url": "https://onfleek.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介と派遣を通して、人と企業をつなぎ、",
+    "url": "https://onfleek.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Onfleekは「人材紹介・派遣」と「ITソリューション」を両輪に、採用からシステムの要件定義・設計・開発・運用・保守まで、最適な解決策をご提案します",
+    "url": "https://onfleek.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアのスキルアップ支援から常駐・請負開発まで、包括的なITソリューションを提供",
+    "url": "https://onfleek.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業界に新しい風を吹き込む若手人材の採用力と、派遣した人材が長く活躍する高い定着率",
+    "url": "https://onfleek.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 | 株式会社Onfleek（オンフリーク）｜人材紹介・ITソリューション・コンストラクション事業",
+    "url": "https://onfleek.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介事業、人材派遣事業、ITソリューション事業、コンストラクション事業",
+    "url": "https://onfleek.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "有料職業紹介：13-ユ-312089",
+    "url": "https://onfleek.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "労働者派遣事業許可番号：派13-316225",
+    "url": "https://onfleek.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "JCSSA 一般社団法人日本コンピュータシステム販売店協会",
+    "url": "https://onfleek.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "システム開発支援、エンジニアへの案件紹介業務",
+    "url": "https://onfleek.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "キャリトレが選ぶ 優良人材紹介会社10社 powered by BIZREACH 受賞",
+    "url": "https://onfleek.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "売上高10億円を達成",
+    "url": "https://onfleek.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの理念 | 株式会社Onfleek（オンフリーク）｜人材紹介・ITソリューション・コンストラクション事業",
+    "url": "https://onfleek.jp/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来、多くの皆様に支えられ、人材紹介サービスをはじめ、IT・建設業界におけるソリューション提供を通じて、確かな信頼と実績を積み重ねてこられたこと、心より感謝申し上げます",
+    "url": "https://onfleek.jp/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "今後は、技術者派遣の専門性をさらに高めるとともに、採用戦略・組織づくりを支援するコンサルティング事業を強化し、企業の成長と個人のキャリアをつなぐ「真のパートナー」として進化してまいります",
+    "url": "https://onfleek.jp/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "社員紹介 | 株式会社Onfleek（オンフリーク）｜人材紹介・ITソリューション・コンストラクション事業",
+    "url": "https://onfleek.jp/about/member/",
+    "pass": 1
+   },
+   {
+    "quote": "システム開発支援（労働者派遣業務・SES）の管理",
+    "url": "https://onfleek.jp/about/member/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介事業 | 株式会社Onfleek（オンフリーク）｜人材紹介・ITソリューション・コンストラクション事業",
+    "url": "https://onfleek.jp/service/agent/",
+    "pass": 1
+   },
+   {
+    "quote": "他では出会えない成長企業・優良企業の独占案件をご紹介",
+    "url": "https://onfleek.jp/service/agent/",
+    "pass": 1
+   },
+   {
+    "quote": "10,000社以上の求人がご紹介可能となっております",
+    "url": "https://onfleek.jp/service/agent/",
+    "pass": 1
+   },
+   {
+    "quote": "ヒアリングしたのちご希望に沿った最適な企業様をご紹介します",
+    "url": "https://onfleek.jp/service/agent/",
+    "pass": 1
+   },
+   {
+    "quote": "初回面談のみ最終のご案内可能時間を20:00としておりますが企業紹介、対策等は夜間でも実施しておりますのでご安心ください",
+    "url": "https://onfleek.jp/service/agent/",
+    "pass": 1
+   },
+   {
+    "quote": "※全国47都道府県ご紹介可能です",
+    "url": "https://onfleek.jp/service/agent/",
+    "pass": 1
+   },
+   {
+    "quote": "離職期間が長いのですが、紹介可能な求人はありますか？",
+    "url": "https://onfleek.jp/service/agent/",
+    "pass": 1
+   },
+   {
+    "quote": "離職期間に関わらず、紹介可能な求人もございます",
+    "url": "https://onfleek.jp/service/agent/",
+    "pass": 1
+   },
+   {
+    "quote": "業界・職種問わず幅広い求人をご紹介しております",
+    "url": "https://onfleek.jp/service/agent/",
+    "pass": 1
+   },
+   {
+    "quote": "キャリア相談や求人のご紹介など、",
+    "url": "https://onfleek.jp/service/agent/",
+    "pass": 1
+   },
+   {
+    "quote": "紹介にとどまらず、採用成功の確度を高める伴走型サポートを行います",
+    "url": "https://onfleek.jp/service/agent/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介に限らず、採用広報・集客・研修など幅広いソリューションをご用意",
+    "url": "https://onfleek.jp/service/agent/",
+    "pass": 1
+   },
+   {
+    "quote": "ITソリューション事業 | 株式会社Onfleek（オンフリーク）｜人材紹介・ITソリューション・コンストラクション事業",
+    "url": "https://onfleek.jp/service/it-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "コンストラクション事業 | 株式会社Onfleek（オンフリーク）｜人材紹介・ITソリューション・コンストラクション事業",
+    "url": "https://onfleek.jp/service/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "御社のプロジェクト現場のニーズに合わせ、技術者を適材適所に派遣",
+    "url": "https://onfleek.jp/service/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "ただ人を派遣するのではなく、「長く活躍できる人材」を育てる",
+    "url": "https://onfleek.jp/service/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "だからこそ、派遣先各社での評価は軒並み高く、再指名・長期稼働へとつながっています",
+    "url": "https://onfleek.jp/service/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "「まずは一緒に働いて見極める」建設現場の実態に即した紹介予定派遣",
+    "url": "https://onfleek.jp/service/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "建築・土木現場のプロジェクトを牽引する施工管理をはじめ、社会インフラを支える測量や品質管理、建物の生命線となる設備工事、そして設計の起点であるCADオペレーターまで、プロジェクトの成功に不可欠な専門人材を、お客様の多様なニーズに的確にお応えしながらご紹介します",
+    "url": "https://onfleek.jp/service/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "道路や橋など公共事業を中心に、測量、品質・工程管理を担う技術者をご紹介",
+    "url": "https://onfleek.jp/service/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "ビルや商業施設等の新築・改修工事を円滑に進めるための施工管理や積算、安全管理の専門職をご紹介します",
+    "url": "https://onfleek.jp/service/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "電気・空調・給排水衛生など、建物の快適性を支えるための設備工事の専門技術者・施工管理技士をご紹介します",
+    "url": "https://onfleek.jp/service/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "企業の方のリアルな声から届いたワクワクしたエピソードをご紹介します",
+    "url": "https://onfleek.jp/service/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "まず派遣で適合を確認してから、直接雇用に",
+    "url": "https://onfleek.jp/service/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "Onfleekについて | 株式会社Onfleek（オンフリーク）｜人材紹介・ITソリューション・コンストラクション事業",
+    "url": "https://onfleek.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "システム開発支援（労働者派遣業務・SES）の管理",
+    "url": "https://onfleek.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス | 株式会社Onfleek（オンフリーク）｜人材紹介・ITソリューション・コンストラクション事業",
+    "url": "https://onfleek.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "Onfleekは「人材紹介・派遣」と「ITソリューション」を両輪に、採用からシステムの要件定義・設計・開発・運用・保守まで、最適な解決策をご提案します",
+    "url": "https://onfleek.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "20〜30代をメインに、3軸で人材紹介事業を展開しています",
+    "url": "https://best100.v-tsushin.jp/company/onfleek/",
+    "pass": 3
+   },
+   {
+    "quote": "会社運営を進める中で、採用において多くの企業様がさまざまな悩みを抱えていらっしゃることを、より深く知るようになりました",
+    "url": "https://best100.v-tsushin.jp/company/onfleek/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、非公開かつ独占的な求人をご紹介できる強みを持ち、業界や職種の理解、ビジネスモデルや企業文化に加え、一緒に働くメンバーや入社後のキャリアパスまで詳細に把握しているため、求職者の皆様に最適なご提案を行います",
+    "url": "https://en-ambi.com/agency/a-5536/",
+    "pass": 3
+   },
+   {
+    "quote": "法人全体：71名／人材紹介部門：30名",
+    "url": "https://en-ambi.com/agency/a-5536/",
+    "pass": 3
+   },
+   {
+    "quote": "自社開拓の限界を突破し、半年で売上5,000万円を創出",
+    "url": "https://service.circus-group.jp/circus/foragent/case/onfleekagent/",
+    "pass": 3
+   },
+   {
+    "quote": "Onfleek Agentが実践する『自社求人×circusAGENT』のハイブリッド戦略 - circusAGENT｜【人材紹介会社様向け】掲載求人数15万件超の求人データベース（サーカスエージェント）",
+    "url": "https://service.circus-group.jp/circus/foragent/case/onfleekagent/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介事業、人材派遣事業",
+    "url": "https://service.circus-group.jp/circus/foragent/case/onfleekagent/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介業と人材派遣業の2軸を展開し、総合型エージェントとして幅広い業界・職種をカバーする株式会社Onfleek Agent",
+    "url": "https://service.circus-group.jp/circus/foragent/case/onfleekagent/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の躍進を支えているのが、自社で開拓した求人と、人材紹介会社向け求人データベース「circusAGENT」を掛け合わせた「ハイブリッド戦略」です",
+    "url": "https://service.circus-group.jp/circus/foragent/case/onfleekagent/",
+    "pass": 3
+   },
+   {
+    "quote": "自社のリソースだけでは開拓が困難な地方求人や特定領域をcircusAGENTでカバーし、導入後わずか半年（2025年上半期）で、システム経由での売上5,000万円という圧倒的な成果を創出しました",
+    "url": "https://service.circus-group.jp/circus/foragent/case/onfleekagent/",
+    "pass": 3
+   },
+   {
+    "quote": "他社データベースと比較しても圧倒的に高い紹介料率（Fee）により、導入直後から売上利益率が向上",
+    "url": "https://service.circus-group.jp/circus/foragent/case/onfleekagent/",
+    "pass": 3
+   },
+   {
+    "quote": "収益性の高い自社求人とデータベースを巧みに使い分け、売上確保と「求職者ファースト」を両立",
+    "url": "https://service.circus-group.jp/circus/foragent/case/onfleekagent/",
+    "pass": 3
+   },
+   {
+    "quote": "――まずは、御社の人材紹介事業における強みや、大切にされているスタンスを教えてください",
+    "url": "https://service.circus-group.jp/circus/foragent/case/onfleekagent/",
+    "pass": 3
+   },
+   {
+    "quote": "：ありがたいことに、Webマーケティングやリファラル（紹介）など集客手法の拡大に伴い、幅広い属性の求職者様にご登録いただけるようになりました",
+    "url": "https://service.circus-group.jp/circus/foragent/case/onfleekagent/",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "「人と企業のファーストエージェント」として、「伴走」の精神を基に、総合的な人材課題とIT・建設の専門課題に対し、双方の豊かな成長とワクワクを創造する採用ソリューションを提供しています",
+    "url": "https://onfleek.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来、多くの皆様に支えられ、人材紹介サービスをはじめ、IT・建設業界におけるソリューション提供を通じて、確かな信頼と実績を積み重ねてこられたこと、心より感謝申し上げます",
+    "url": "https://onfleek.jp/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "地方中堅メーカー／広報担当（年収400万円）",
+    "url": "https://onfleek.jp/service/agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Onfleekが志向性・スキルを丁寧に棚卸し、SNS・Webマーケ領域への転身をサポート",
+    "url": "https://onfleek.jp/service/agent/",
+    "pass": 1
+   },
+   {
+    "quote": "面接では「クライアント課題の可視化力」を強みとして整理し、第一志望の広告代理店に内定",
+    "url": "https://onfleek.jp/service/agent/",
+    "pass": 1
+   },
+   {
+    "quote": "現在は大手クライアントを担当し、戦略立案フェーズから携わっている",
+    "url": "https://onfleek.jp/service/agent/",
+    "pass": 1
+   },
+   {
+    "quote": "中堅企業から大手SIerまで、顧客規模に応じた最適なITサービスを提供",
+    "url": "https://onfleek.jp/service/it-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "幅広い顧客層に対し、システムのライフサイクル全体を通じて",
+    "url": "https://onfleek.jp/service/it-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "「人」が主役の、新しい建設を描くために",
+    "url": "https://onfleek.jp/service/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "土木、建築、建設の全分野をカバーする研修済み人材からベテランの施工管理職が、各専門業者の工事を一元的にマネジメントします",
+    "url": "https://onfleek.jp/service/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "「まずは一緒に働いて見極める」建設現場の実態に即した紹介予定派遣",
+    "url": "https://onfleek.jp/service/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "「人と企業のファーストエージェント」として、「伴走」の精神を基に、総合的な人材課題とIT・建設の専門課題に対し、双方の豊かな成長とワクワクを創造する採用ソリューションを提供しています",
+    "url": "https://onfleek.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "■美容手当や図書手当、炊き立てライス無料などユニークな福利厚生",
+    "url": "https://best100.v-tsushin.jp/company/onfleek/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業から大手SIerまで、顧客規模に応じた最適なITサービスを提供",
+    "url": "https://best100.v-tsushin.jp/company/onfleek/",
+    "pass": 3
+   },
+   {
+    "quote": "土木、建築、建設の全分野をカバーする研修済み人材からベテランの施工管理職が、各専門業者の工事を一元的にマネジメントします",
+    "url": "https://best100.v-tsushin.jp/company/onfleek/",
+    "pass": 3
+   },
+   {
+    "quote": "日本を代表するエンタープライズ企業を中心としたクライアントに対し、本質的な価値創出に重きを置いたプロジェクトの…",
+    "url": "https://en-ambi.com/agency/a-5536/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Onfleekグループは、20代に特化した人材紹介から始まり、現在は建設・IT分野の技術者派遣へと事業を拡大している",
+    "url": "https://zuuonline.com/archives/302599",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役の渡邊将氏は、高校を卒業後、飲食業界での経験から、「なぜこれほど良い奴らが、仕事でつまずいてしまうのか」と疑問に感じ、人材支援に興味を持ち、起業する",
+    "url": "https://zuuonline.com/archives/302599",
+    "pass": 3
+   },
+   {
+    "quote": "以前は飲食事業なども手がけていましたが、現在は売却し、人材サービスへの「選択と集中」を行っています",
+    "url": "https://zuuonline.com/archives/302599",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントやお客様に対して誠実であることはもちろん、一緒に働く仲間に対しても誠実であるべきです",
+    "url": "https://zuuonline.com/archives/302599",
+    "pass": 3
+   },
+   {
+    "quote": "コンストラクション事業については、私の家系、具体的には祖父が建設業で事業を起こしたことが背景にあります",
+    "url": "https://zuuonline.com/archives/302599",
+    "pass": 3
+   },
+   {
+    "quote": "これまで自由にやらせてもらった恩返しとして、自分にできることは何かと考えたとき、建設業界の深刻な人手不足が思い浮かびました",
+    "url": "https://zuuonline.com/archives/302599",
+    "pass": 3
+   },
+   {
+    "quote": "私たちが得意とする「20代の人材支援」を通じて、質の高い人材を建設業界に送り出すことができれば、業界全体に価値を提供できると考えました",
+    "url": "https://zuuonline.com/archives/302599",
+    "pass": 3
+   },
+   {
+    "quote": "── 建設業界の経営者は、軒並み人材確保に悩んでいます",
+    "url": "https://zuuonline.com/archives/302599",
+    "pass": 3
+   },
+   {
+    "quote": "コンストラクション事業では、土木、特に電力インフラに特化することで、唯一無二の存在を目指します",
+    "url": "https://zuuonline.com/archives/302599",
+    "pass": 3
+   },
+   {
+    "quote": "現在は金融機関からの融資を活用しながら、自分たちのペースで加速しています",
+    "url": "https://zuuonline.com/archives/302599",
+    "pass": 3
+   },
+   {
+    "quote": "IT企業の買収や、集客力のあるメディアを持つ会社のM&Aは検討しています",
+    "url": "https://zuuonline.com/archives/302599",
+    "pass": 3
+   },
+   {
+    "quote": "私たちの教育体制やマッチングの仕組みに、強力な集客プラットフォームが加われば、さらに大きなスケールメリットを生み出せると確信しています",
+    "url": "https://zuuonline.com/archives/302599",
+    "pass": 3
+   },
+   {
+    "quote": "金融業界の新着情報をメールマガジンでお届け",
+    "url": "https://zuuonline.com/archives/302599",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "（子会社：株式会社Onfleek Agent）",
+    "url": "https://onfleek.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "子会社（株式会社Onfleek Agent）を設立",
+    "url": "https://onfleek.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金2000万円",
+    "url": "https://onfleek.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "【140％成長中】東証グロース上場｜5万人のプロ人材と挑むIT／DX案件多数のITコンサルタント",
+    "url": "https://en-ambi.com/agency/a-5536/",
+    "pass": 3
+   },
+   {
+    "quote": "上場についても、現時点では考えていません",
+    "url": "https://zuuonline.com/archives/302599",
+    "pass": 3
+   }
+  ],
+  "選出の記録": [
+   {
+    "quote": "ベストベンチャー100選出",
+    "url": "https://onfleek.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社Onfleek 渡邊 将 | ベストベンチャー100",
+    "url": "https://best100.v-tsushin.jp/company/onfleek/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | 株式会社 Onfleek （オンフリーク）｜人材紹介・IT ... — 会社概要 | 株式会社 Onfleek （オンフリーク）｜人材紹介・IT ... 株式会社Onfleek https://onfleek.jp > Onfleekについて",
+    "url": "https://onfleek.jp/about/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社Onfleek 渡邊 将 - ベストベンチャー100 — 株式 会社Onfleek 渡邊 将 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > onfleek",
+    "url": "https://best100.v-tsushin.jp/company/onfleek/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社Onfleek Agent（旧 - AMBI — 株式 会社Onfleek Agent（旧 - AMBI アンビ（AMBI） https://en-ambi.com > agency",
+    "url": "https://en-ambi.com/agency/a-5536/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Onfleek の 会社情報 - Wantedly — 株式会社 Onfleek の 会社情報 - Wantedly Wantedly https://www.wantedly.com > company_5940476",
+    "url": "https://www.wantedly.com/companies/company_5940476",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Onfleek の 会社概要 - マイナビ転職 — 株式会社 Onfleek の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/473019/",
+    "pass": 3
+   },
+   {
+    "quote": "半年で 売上 5000万円を創出。 Onfleek Agentが ... - circusAGENT — 半年で 売上 5000万円を創出。 Onfleek Agentが ... - circusAGENT circusAGENT https://service.circus-group.jp > ... > 人材紹介会社向け",
+    "url": "https://service.circus-group.jp/circus/foragent/case/onfleekagent/",
+    "pass": 3
+   },
+   {
+    "quote": "「イケてる人材」こそ最強の資産 Onfleek グループが質で挑む — 「イケてる人材」こそ最強の資産 Onfleek グループが質で挑む ZUU online https://zuuonline.com > archives",
+    "url": "https://zuuonline.com/archives/302599",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Onfleek 様｜コーポレートサイトリニューアル事例 ... — 株式会社 Onfleek 様｜コーポレートサイトリニューアル事例 ... grow-group.jp https://grow-group.jp > インタビュー",
+    "url": "https://grow-group.jp/interview/29034/",
+    "pass": 3
+   },
+   {
+    "quote": "Onfleek の業績・ 売上 ・ 事業 の将来性と成長性の口コミ — Onfleek の業績・ 売上 ・ 事業 の将来性と成長性の口コミ 転職会議 https://jobtalk.jp > companies > answers",
+    "url": "https://jobtalk.jp/companies/10182944/answers/4735200",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "多くの大手企業では、営業担当者の評価指標（KPI）が面接設定数などの「数」に置かれています",
+    "url": "https://zuuonline.com/archives/302599",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "BARBERSHOP ONFLEEK｜まちトレンド - note（ノート） Jan 31, 2025 · 【酒田市・バーバー・床屋・人気・おすすめ】 のBARBERSHOP ONFLEEK 酒田市のメンズ専門バーバー｜BARBERSHOP ONFLEEK イケてるヘアスタイルにするなら、酒田市の**「BARBERSHOP ONFLEEK」**へ！メンズスタイルに特化した当店では、スキンフェードや刈り上げ、パーマスタイルなど、トレンドを押さえた ...",
+    "url": "https://note.com/quirky_kalmia953/n/nb9f2da1b69ec",
+    "pass": 3
+   },
+   {
+    "quote": "BARBERSHOP ONFLEEK｜ご近所グルメ＆ショップ 【酒田市・バーバー・床屋・人気・おすすめ】のBARBERSHOP ONFLEEK 酒田市のメンズ専門バーバー｜BARBERSHOP ONFLEEK イケてるヘアスタイルにするなら、酒田市の**「BARBERSHOP ONFLEEK」**へ！メンズスタイルに特化した当店では、スキンフェードや刈り上げ、パーマスタイルなど、トレンドを押さえたカット ...",
+    "url": "https://note.com/jazzy_eagle6582/n/naa8455664861",
+    "pass": 3
+   },
+   {
+    "quote": "BARBERSHOP ONFLEEK｜ストリートセレクト Jan 31, 2025 · 【酒田市・バーバー・床屋・人気・おすすめ】のBARBERSHOP ONFLEEK 酒田市のメンズ専門バーバー｜BARBERSHOP ONFLEEK イケてるヘアスタイルにするなら、酒田市の**「BARBERSHOP ONFLEEK」**へ！メンズスタイルに特化した当店では、スキンフェードや刈り上げ、パーマスタイルなど、トレンドを押さえたカット ...",
+    "url": "https://note.com/famous_magpie965/n/na116ff0c34eb",
+    "pass": 3
+   },
+   {
+    "quote": "[Video Editing] Recreating and Explaining TV Program Telops ... [Video Editing] Recreating and Explaining TV Program Telops using only Premiere Pro Vol. 49 (MLB's on FLEEK Speech Telop)",
+    "url": "https://note.com/crisp_phlox8047/n/n080ce8b82e7b?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "BARBERSHOP ONFLEEK｜まちトレンド",
+    "url": "https://note.com/quirky_kalmia953/n/nb9f2da1b69ec",
+    "pass": 3
+   },
+   {
+    "quote": "【酒田市・バーバー・床屋・人気・おすすめ】",
+    "url": "https://note.com/quirky_kalmia953/n/nb9f2da1b69ec",
+    "pass": 3
+   },
+   {
+    "quote": "酒田市のメンズ専門バーバー｜BARBERSHOP ONFLEEK",
+    "url": "https://note.com/quirky_kalmia953/n/nb9f2da1b69ec",
+    "pass": 3
+   },
+   {
+    "quote": "イケてるヘアスタイルにするなら、酒田市の**「BARBERSHOP ONFLEEK」**へ！メンズスタイルに特化した当店では、スキンフェードや刈り上げ、パーマスタイルなど、トレンドを押さえたカットを提供。おしゃれでアメリカンな雰囲気の店内で、リラックスしながら施術を受けられます。",
+    "url": "https://note.com/quirky_kalmia953/n/nb9f2da1b69ec",
+    "pass": 3
+   },
+   {
+    "quote": "✔ フェードカット（スキンフェードも対応）",
+    "url": "https://note.com/quirky_kalmia953/n/nb9f2da1b69ec",
+    "pass": 3
+   },
+   {
+    "quote": "大人の男性はもちろん、小学生以下・中高生向けのメニューも充実。親子で通うのもおすすめ！",
+    "url": "https://note.com/quirky_kalmia953/n/nb9f2da1b69ec",
+    "pass": 3
+   },
+   {
+    "quote": "詳細はインスタグラムでチェック！ご予約・ご来店を心よりお待ちしております。",
+    "url": "https://note.com/quirky_kalmia953/n/nb9f2da1b69ec",
+    "pass": 3
+   },
+   {
+    "quote": "〒998-0052 山形県酒田市緑ケ丘２丁目２−９",
+    "url": "https://note.com/quirky_kalmia953/n/nb9f2da1b69ec",
+    "pass": 3
+   },
+   {
+    "quote": "BARBERSHOP ONFLEEK｜ご近所グルメ＆ショップ",
+    "url": "https://note.com/jazzy_eagle6582/n/naa8455664861",
+    "pass": 3
+   },
+   {
+    "quote": "【酒田市・バーバー・床屋・人気・おすすめ】",
+    "url": "https://note.com/jazzy_eagle6582/n/naa8455664861",
+    "pass": 3
+   },
+   {
+    "quote": "酒田市のメンズ専門バーバー｜BARBERSHOP ONFLEEK",
+    "url": "https://note.com/jazzy_eagle6582/n/naa8455664861",
+    "pass": 3
+   },
+   {
+    "quote": "イケてるヘアスタイルにするなら、酒田市の**「BARBERSHOP ONFLEEK」**へ！メンズスタイルに特化した当店では、スキンフェードや刈り上げ、パーマスタイルなど、トレンドを押さえたカットを提供。おしゃれでアメリカンな雰囲気の店内で、リラックスしながら施術を受けられます。",
+    "url": "https://note.com/jazzy_eagle6582/n/naa8455664861",
+    "pass": 3
+   },
+   {
+    "quote": "✔ フェードカット（スキンフェードも対応）",
+    "url": "https://note.com/jazzy_eagle6582/n/naa8455664861",
+    "pass": 3
+   },
+   {
+    "quote": "大人の男性はもちろん、小学生以下・中高生向けのメニューも充実。親子で通うのもおすすめ！",
+    "url": "https://note.com/jazzy_eagle6582/n/naa8455664861",
+    "pass": 3
+   },
+   {
+    "quote": "詳細はインスタグラムでチェック！ご予約・ご来店を心よりお待ちしております。",
+    "url": "https://note.com/jazzy_eagle6582/n/naa8455664861",
+    "pass": 3
+   },
+   {
+    "quote": "〒998-0052 山形県酒田市緑ケ丘２丁目２−９",
+    "url": "https://note.com/jazzy_eagle6582/n/naa8455664861",
+    "pass": 3
+   },
+   {
+    "quote": "BARBERSHOP ONFLEEK｜ストリートセレクト",
+    "url": "https://note.com/famous_magpie965/n/na116ff0c34eb",
+    "pass": 3
+   },
+   {
+    "quote": "【酒田市・バーバー・床屋・人気・おすすめ】",
+    "url": "https://note.com/famous_magpie965/n/na116ff0c34eb",
+    "pass": 3
+   },
+   {
+    "quote": "酒田市のメンズ専門バーバー｜BARBERSHOP ONFLEEK",
+    "url": "https://note.com/famous_magpie965/n/na116ff0c34eb",
+    "pass": 3
+   },
+   {
+    "quote": "イケてるヘアスタイルにするなら、酒田市の**「BARBERSHOP ONFLEEK」**へ！メンズスタイルに特化した当店では、スキンフェードや刈り上げ、パーマスタイルなど、トレンドを押さえたカットを提供。おしゃれでアメリカンな雰囲気の店内で、リラックスしながら施術を受けられます。",
+    "url": "https://note.com/famous_magpie965/n/na116ff0c34eb",
+    "pass": 3
+   },
+   {
+    "quote": "✔ フェードカット（スキンフェードも対応）",
+    "url": "https://note.com/famous_magpie965/n/na116ff0c34eb",
+    "pass": 3
+   },
+   {
+    "quote": "大人の男性はもちろん、小学生以下・中高生向けのメニューも充実。親子で通うのもおすすめ！",
+    "url": "https://note.com/famous_magpie965/n/na116ff0c34eb",
+    "pass": 3
+   },
+   {
+    "quote": "詳細はインスタグラムでチェック！ご予約・ご来店を心よりお待ちしております。",
+    "url": "https://note.com/famous_magpie965/n/na116ff0c34eb",
+    "pass": 3
+   },
+   {
+    "quote": "〒998-0052 山形県酒田市緑ケ丘２丁目２−９",
+    "url": "https://note.com/famous_magpie965/n/na116ff0c34eb",
+    "pass": 3
+   },
+   {
+    "quote": "[Video Editing] Recreating and Explaining TV Program Telops using only Premiere Pro Vol. 49 (MLB's on FLEEK Speech Telop)｜あんぼう@テロップ解説者",
+    "url": "https://note.com/crisp_phlox8047/n/n080ce8b82e7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Video Editing] Recreating and Explaining TV Program Telops using only Premiere Pro Vol. 49 (MLB's on FLEEK Speech Telop)",
+    "url": "https://note.com/crisp_phlox8047/n/n080ce8b82e7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Good morning, good afternoon, good evening. I'm Anbou.",
+    "url": "https://note.com/crisp_phlox8047/n/n080ce8b82e7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, I will recreate the speech telop that appears in \"",
+    "url": "https://note.com/crisp_phlox8047/n/n080ce8b82e7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "which is broadcast on ABEMA TV every Friday from 12:00 PM to 12:15 PM.",
+    "url": "https://note.com/crisp_phlox8047/n/n080ce8b82e7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It's an amazing era we live in where Yoshinobu Yamamoto pitches, Shohei Ohtani hits, and Roki Sasaki closes in the Major Leagues.",
+    "url": "https://note.com/crisp_phlox8047/n/n080ce8b82e7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "*For those who get stuck while creating or those who think, \"I don't need the explanation, just give me the telop,\" I have prepared a download file at the bottom of the article, so please feel free to download it.",
+    "url": "https://note.com/crisp_phlox8047/n/n080ce8b82e7b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sequence settings 1920x1080: 29.97 frames",
+    "url": "https://note.com/crisp_phlox8047/n/n080ce8b82e7b?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "OnFleek【公式】 (@onfleekjp) / X Follow PostsPosts RepliesReplies RepostsReposts MediaMedia Pinned OnFleek【公式】 @onfleekjp Apr 24",
+    "url": "https://x.com/onfleekjp",
+    "pass": 3
+   },
+   {
+    "quote": "iball (@onfleek) / X Follow PostsPosts RepliesReplies RepostsReposts MediaMedia iball @onfleek Aug 17, 2014 When people act like they didn't know school was coming iball",
+    "url": "https://x.com/ONFLEEK",
+    "pass": 3
+   },
+   {
+    "quote": "笠谷 朗 ／AKIRA【ON FLEEK】 (@ONFLEEK_AKIRA) / X 笠谷 朗 ／AKIRA【ON FLEEK】 @ONFLEEK_AKIRA Oct 12 ウブウブすぎる〜🫶 イグニス登場シーンは2人がずっと居てくれたんだけどいつも引っ張って貰ってて、 2人の熱量を正面から受けてシビれました いつかまたウブウブ踊らせちゃうぞ👑 #精霊ミュ #せれまほ 神志那結衣",
+    "url": "https://x.com/ONFLEEK_AKIRA",
+    "pass": 3
+   },
+   {
+    "quote": "平崎 遥斗 ／ HARUTO 【 ON FLEEK 】 (@ONFLEEK_HARUTO) / X 1710 followers · 75 following. Joined Oct 2022. See the latest conversations with @ONFLEEK_HARUTO",
+    "url": "https://x.com/ONFLEEK_HARUTO",
+    "pass": 3
+   },
+   {
+    "quote": "笠谷 朗 ／AKIRA【ON FLEEK】 (@ONFLEEK_AKIRA) / X Mar 13, 2015 · 笠谷 朗 ／AKIRA【ON FLEEK】 @ONFLEEK_AKIRA Oct 26 2026/10/26 『 ON FLEEK'reation vol.61』 ありがとうございました😊 1週間駆け抜けるパワーチャージ出来ました👍 今週は天気もあんまり良くなさそうだけど共に頑張ろう☺️ 2 8 73",
+    "url": "https://x.com/ONFLEEK_AKIRA",
+    "pass": 3
+   },
+   {
+    "quote": "ひなこ@マーケとイベント企画部長 ♀️ ︎ (@onfleek_hinako) / Posts /... Nov 1, 2022 · 部署が異動になりましたので、改めて自己紹介させていただきます🙋♀️ 株式会社Onfleekのマーケティング兼、イベント企画部長を担当しています、やぎひなこです🌈 ️元インサイドセールス📞 ️7年間吹奏楽経験🎵 ️社内イベント企画しがち ️ ️静岡出身🍵 ️地元の祭り大好き🌺 ...",
+    "url": "https://x.com/onfleek_hinako",
+    "pass": 3
+   },
+   {
+    "quote": "OnFleek【公式】 (@onfleekjp) / X 【On Fleek FEST 2025 AICHI】 1300名を超える来場者が熱狂した“ストリートの祭典”、 その一日を詰め込んだ公式ダイジェストムービー、近日公開！ ストリートカルチャー、音楽、車、そしてファミリー。",
+    "url": "https://x.com/onfleekjp",
+    "pass": 3
+   },
+   {
+    "quote": "RYOTARO/遼太郎【ON FLEEK】 (@ONFLEEK_RYOTARO) / X Apr 1, 2016 · @ON_FLEEK_staff 本日もありがとうございましたー！ 11月一発目制服ライブでした💫 まだいけるかな？？笑 たくさんの人に見てもらえて本当に嬉しかったし、みんなが楽しそうで幸せでした😌 みんなの顔見ると本当に元気出るよ！ 本当にいつもありがとう 次は明日です！ お待ちしてます！",
+    "url": "https://x.com/ONFLEEK_RYOTARO",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "OnFleek Media and Technologies Pvt Ltd - LinkedIn OnFleek Media and Technologies Pvt Ltd | 375 followers on LinkedIn. Product-driven engineering & custom software for ERP, FinTech, AI, Healthcare & E-commerce | Unit of Credentech | We Carve Your ...",
+    "url": "https://www.linkedin.com/company/onfleek",
+    "pass": 3
+   },
+   {
+    "quote": "Onfleek. - LinkedIn Onfleek was born in 2020 in Spain with the intention of becoming a reference app for cosmetics enthusiasts. It is a platform halfway between a marketplace and a social network. In it, users share ...",
+    "url": "https://www.linkedin.com/company/onfleekapp",
+    "pass": 3
+   },
+   {
+    "quote": "OnFleek Digital | LinkedIn OnFleek Digital Marketing Goiânia, Goiás 94 seguidores Potencializamos a voz de líderes, construindo negócios sólidos e escaláveis. Sobre nós Desde 2020 a OnFleek Digital acelera negócios e potencializa a voz de líderes por meio do mercado da educação digital.",
+    "url": "https://br.linkedin.com/company/onfleek-digital",
+    "pass": 3
+   },
+   {
+    "quote": "On Fleek Marketing Agency | LinkedIn On Fleek is a social media marketing agency that aims to satisfy each client with the expected results. We suggest outstanding ideas and strategies to them which will help them accomplish their marketing goals faster. Our main focus is to provide the best-personalized marketing without any compulsion of signing up for pre-planned packages. Dissecting our logo W",
+    "url": "https://in.linkedin.com/company/digitallyonfleek",
+    "pass": 3
+   },
+   {
+    "quote": "将 Watanabe - 株式会社Onfleek - 代表取締役CEO | LinkedIn 株式会社Onfleek - 代表取締役CEO · 職歴: 株式会社Onfleek · 場所: 1640011 · LinkedInのつながり2人。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで将 Watanabeさんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/将-watanabe-84bab4371",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "OnFleek | Warsaw - FacebookOnfleek - FacebookOn Fleek - FacebookOn Fleek - FacebookOnfleek - FacebookOnFleek | Cairo - FacebookOnFleek - Facebook OnFleek, Warsaw. 2,312 followers · 9 were here. ON FLEEK | FASHION BRAND *the quality of being perfect or on point ONLINE SHOP: onfleek.com.pl BOU Apr 13, 2025 · Onfleek, Kingston. 40,489 likes · 16 talking about this. Fun, Entertainment and Photography.",
+    "url": "https://www.facebook.com/OnFleekWomenFashion/",
+    "pass": 3
+   },
+   {
+    "quote": "Onfleek - FacebookOn Fleek - FacebookOn Fleek - FacebookOnfleek - FacebookOnFleek | Cairo - FacebookOnFleek - Facebook Apr 13, 2025 · Onfleek, Kingston. 40,489 likes · 16 talking about this. Fun, Entertainment and Photography. Oct 17, 2026 · On Fleek New York.. لأنكِ النسخة الأجمل! في On Fleek New York، نحن لا نبيع مجرد مواد تجميل، بل نهتم بكل تفصيلة تعكس سحركِ الخاص. نحن رفيقكِ في رحلة الدلال، لن",
+    "url": "https://www.facebook.com/onfleekja/",
+    "pass": 3
+   },
+   {
+    "quote": "On Fleek - FacebookOnfleek - FacebookOnFleek | Cairo - FacebookOnFleek - Facebook May 15, 2016 · On Fleek. 232 followers. On Fleek keeps you confident, stylish, and on-trend. Feb 6, 2024 · Posts Onfleek Feb 6, 2024 Still rocking the hoodie 👀#fyp#explorepage#streetwear#clothingbrand#hoodie#onfleek#sneakers Onfleek Dec 27, 2023 Fits so well, updating on the website really soon 🤌🏻 Jul 9, 2020 · OnFle",
+    "url": "https://www.facebook.com/Onfleek/",
+    "pass": 3
+   },
+   {
+    "quote": "Onfleek - Facebook Feb 6, 2024 · Posts Onfleek Feb 6, 2024 Still rocking the hoodie 👀#fyp#explorepage#streetwear#clothingbrand#hoodie#onfleek#sneakers Onfleek Dec 27, 2023 Fits so well, updating on the website really soon 🤌🏻",
+    "url": "https://www.facebook.com/onfleek.cult/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://onfleek.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onfleek.jp/about/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onfleek.jp/about/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onfleek.jp/about/member/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onfleek.jp/service/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onfleek.jp/service/it-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onfleek.jp/service/construction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onfleek.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onfleek.jp/service/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://onfleek.jp/wp-content/themes/onfleek-html/dist/assets/images/img-about-company.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://best100.v-tsushin.jp/company/onfleek/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en-ambi.com/agency/a-5536/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.circus-group.jp/circus/foragent/case/onfleekagent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zuuonline.com/archives/302599",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/tags/fundraising-articles",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundoor.com/newsletters/31",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funds.jp/blog/detail/410",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/quirky_kalmia953/n/nb9f2da1b69ec",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jazzy_eagle6582/n/naa8455664861",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/famous_magpie965/n/na116ff0c34eb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/crisp_phlox8047/n/n080ce8b82e7b?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/onfleekjp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ONFLEEK",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ONFLEEK_AKIRA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ONFLEEK_HARUTO",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/onfleek",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/onfleekapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/company/onfleek-digital",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/digitallyonfleek",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/OnFleekWomenFashion/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/onfleekja/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Onfleek/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/onfleek.cult/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/将-watanabe-84bab4371",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ONFLEEK_AKIRA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/onfleek_hinako",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/onfleekjp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ONFLEEK_RYOTARO",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Onfleek 会社概要 資本金 設立",
+   "results": [
+    "https://onfleek.jp/about/company/",
+    "https://best100.v-tsushin.jp/company/onfleek/",
+    "https://en-ambi.com/agency/a-5536/",
+    "https://www.wantedly.com/companies/company_5940476",
+    "https://tenshoku.mynavi.jp/company/473019/",
+    "https://prtimes.jp/main/html/rd/p/000000003.000176742.html",
+    "https://grow-group.jp/interview/29034/",
+    "https://www.workport.co.jp/details/711294723/406320274/",
+    "https://compalyze.co.jp/company/2011101090142",
+    "https://onfleek.jp/"
+   ]
+  },
+  {
+   "query": "Onfleek 事業内容 売上",
+   "results": [
+    "https://onfleek.jp/about/company/",
+    "https://service.circus-group.jp/circus/foragent/case/onfleekagent/",
+    "https://zuuonline.com/archives/302599",
+    "https://grow-group.jp/interview/29034/",
+    "https://jobtalk.jp/companies/10182944/answers/4735200",
+    "https://compalyze.co.jp/company/2011101090142",
+    "https://www.wantedly.com/companies/company_5940476",
+    "https://en-ambi.com/agency/a-5536/",
+    "https://jp.indeed.com/q-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEonfleek-%E6%B1%82%E4%BA%BA.html",
+    "https://onfleek.jp/"
+   ]
+  },
+  {
+   "query": "Onfleek 資金調達 株主",
+   "results": [
+    "https://initial.inc/tags/fundraising-articles",
+    "https://fundoor.com/newsletters/31",
+    "https://funds.jp/blog/detail/410",
+    "https://oceanpowergrid.jp/ja/newsroom/2026-02-27?gl=JP",
+    "https://www.nikkei.com/article/DGXZQOUC129680S6A310C2000000/",
+    "https://www.xmile.co.jp/news/release265",
+    "https://fundinno.com/about_company",
+    "https://www.fastgrow.jp/articles/funding-210509",
+    "https://bondmba.bbt757.com/post-events-archive/post-2190/",
+    "https://finance.protocol.ooo/equity/deals/"
+   ]
+  },
+  {
+   "query": "Onfleek 導入事例",
+   "results": []
+  },
+  {
+   "query": "Onfleek 主要取引先",
+   "results": []
+  },
+  {
+   "query": "site:note.com Onfleek",
+   "results": [
+    "https://note.com/quirky_kalmia953/n/nb9f2da1b69ec",
+    "https://note.com/jazzy_eagle6582/n/naa8455664861",
+    "https://note.com/famous_magpie965/n/na116ff0c34eb",
+    "https://note.com/crisp_phlox8047/n/n080ce8b82e7b?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/nosuke0607/n/n09d02c47e173"
+   ]
+  },
+  {
+   "query": "site:x.com Onfleek",
+   "results": [
+    "https://x.com/onfleekjp",
+    "https://x.com/ONFLEEK",
+    "https://x.com/ONFLEEK_AKIRA",
+    "https://x.com/ONFLEEK_HARUTO",
+    "https://x.com/onfleek_yasuda",
+    "https://x.com/on_fleek_staff",
+    "https://x.com/ON_FLEEK_staff/status/2118305369009295569"
+   ]
+  },
+  {
+   "query": "site:linkedin.com Onfleek",
+   "results": [
+    "https://www.linkedin.com/company/onfleek",
+    "https://www.linkedin.com/company/onfleekapp",
+    "https://br.linkedin.com/company/onfleek-digital",
+    "https://in.linkedin.com/company/digitallyonfleek",
+    "https://au.linkedin.com/in/onfleek-cosmetics-3a9aa6164",
+    "https://ae.linkedin.com/in/on-fleek-49783b1b6",
+    "https://lk.linkedin.com/in/shakila-hapuarachchie-03427937a"
+   ]
+  },
+  {
+   "query": "site:facebook.com Onfleek",
+   "results": [
+    "https://www.facebook.com/OnFleekWomenFashion/",
+    "https://www.facebook.com/onfleekja/",
+    "https://www.facebook.com/Onfleek/",
+    "https://www.facebook.com/onfleek.cult/",
+    "https://www.facebook.com/onfleekapp/",
+    "https://www.facebook.com/goonfleek/",
+    "https://www.facebook.com/p/On-Fleek-100087964711642/"
+   ]
+  },
+  {
+   "query": "Onfleek note 社長",
+   "results": [
+    "https://best100.v-tsushin.jp/company/onfleek/",
+    "https://onfleek.jp/about/company/",
+    "https://jp.linkedin.com/in/将-watanabe-84bab4371",
+    "https://onfleek.jp/",
+    "https://fujbrilliantcompny.com/onfleek/",
+    "https://officialonfleek.wixsite.com/onfleek/about",
+    "https://venture.jp/news/2026/06/29/24486/"
+   ]
+  },
+  {
+   "query": "Onfleek X 投稿",
+   "results": [
+    "https://x.com/ONFLEEK_AKIRA",
+    "https://x.com/onfleek_hinako",
+    "https://x.com/onfleekjp",
+    "https://x.com/ONFLEEK_RYOTARO",
+    "https://x.com/on_fleek_staff",
+    "https://x.com/ON_FLEEK_staff/status/2115690724675203249",
+    "https://x.com/ON_FLEEK_staff/status/2118305369009295569"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部28頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部28頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部28頁・検索11回）"
+ }
+}

@@ -1,0 +1,1092 @@
+{
+ "name": "KITEN",
+ "aliases": [
+  "kiten"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T14:49:11.061800+00:00",
+ "official_url": "https://kit-en.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "〒150-0031　東京都渋谷区桜丘町18-4 二宮ビル3階",
+    "url": "https://kit-en.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "東京都渋谷区桜丘町18−4 二宮ビル3階",
+    "url": "https://best100.v-tsushin.jp/company/kiten/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2020年9月",
+    "url": "https://kit-en.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2020年9月",
+    "url": "https://mid-tenshoku.com/agency/a-6874/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1,000万円",
+    "url": "https://kit-en.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1000万円",
+    "url": "https://mid-tenshoku.com/agency/a-6874/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "1,000万円",
+    "url": "https://best100.v-tsushin.jp/company/kiten/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "松村　周",
+    "url": "https://kit-en.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "松村周",
+    "url": "https://mid-tenshoku.com/agency/a-6874/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "マーケティングコンサルティング 広告制作・運用",
+    "url": "https://kit-en.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "マーケティングコンサルティング 広告制作・運用 D2Cコンサルティング",
+    "url": "https://mid-tenshoku.com/agency/a-6874/",
+    "pass": 3
+   },
+   {
+    "label": "サービス",
+    "value": "サービス一覧 「働きがいのある会社」調査 「働きがいのある会社」認定 「働きがいのある会社」ランキング 研修サービス",
+    "url": "https://hatarakigai.info/tip/interview/20251112_5275.html",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "■広告戦略コンサル(市場リサーチ・PL設計・広告制作ディレクション・広告予算のアロケーション) ■ハンズオン事業(投資先のマーケティング戦略からオペレーションまでを支援し事業再生を行う)",
+    "url": "https://best100.v-tsushin.jp/company/kiten/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "120人",
+    "url": "https://mid-tenshoku.com/agency/a-6874/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "クライアントが市場で勝つことに向けて自身の能力を最大化することで、",
+    "url": "https://kit-en.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "最新の広告トレンドを取り入れ、戦略的かつ革新的な広告キャンペーンを設計し、顧客のビジネス課題を解決します",
+    "url": "https://kit-en.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "広告の効果を継続的に分析し、トレンドに合わせた改善提案を行い、クライアントROIを高めるサポートを行います",
+    "url": "https://kit-en.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "過去も現在も変わることなく、従業員とクライアントにとっての「起点」であることが、私たちの根本的な存在理由",
+    "url": "https://kit-en.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントのビジネス成功に向けて自身の能力を最大化することで、自らの市場価値も上がり、自分の未来の選択肢と可能性を最大化できる",
+    "url": "https://kit-en.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "いかにクライアントのビジネスに貢献できるか、が大前提",
+    "url": "https://kit-en.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントが、社会が、誰かが必要としてくれて、喜んでくれている状態＝「利他」が、この会社の活動の根源",
+    "url": "https://kit-en.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "真のユーザー理解によって、クライアント＆ユーザーが「想像したこともない未来」を提供してきました",
+    "url": "https://kit-en.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年 三井住友信託銀行就職",
+    "url": "https://kit-en.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年 野村證券株式会社投資銀行部門に入社",
+    "url": "https://kit-en.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちのグループには、D2Cメーカーとしてオーラルケア商品を展開する「CANOW」や、EC商品の開発を手がける「willed」など、さまざまな企業が集まっています",
+    "url": "https://kit-en.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "KITENは、クライアント企業の広告戦略を担う「支援会社」としての側面と、",
+    "url": "https://www.wantedly.com/companies/company_6969614/about",
+    "pass": 3
+   },
+   {
+    "quote": "「ノウハウ」を教えるのではなく「考え方」から徹底的に教育します",
+    "url": "https://www.wantedly.com/companies/company_6969614/about",
+    "pass": 3
+   },
+   {
+    "quote": "特に、YouTube、Instagram、TikTokなどのSNS媒体を駆使したデジタルマーケティングを強みに、クライアントのビジネス課題を広告戦略でサポートする",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "「クライアントの“問題解決”をすることが、自分たちの仕事だ」",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "WEBマーケティング領域で、どんなジャンルに特化してクライアントを獲得するか、広告制作と運用をいかに効率的に組織化して利益を上げるか",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の存在意義は過去も現在も変わらず、全従業員の人生の“起点”となり、ビジネスの“起点”としてクライアントに貢献すること",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "飲食事業経営者が挑む、「考える…",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "医療法人社団CRS きずときずあとのクリニック豊洲院",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "「自分たちで、クリニックを創っていく実感がある」",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社WAKUWAKU / リノベ不動産株式会社",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "イノルト整形外科 痛みと骨粗鬆症クリニック",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "100年続く地域医療を目指す",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、YouTube、Instagram、TikTokなどのSNS媒体を駆使したデジタルマーケティングを強みに、クライアントのビジネス課題を広告戦略でサポートする",
+    "url": "https://www.sugoikaigi.jp/case/case-4164/",
+    "pass": 3
+   },
+   {
+    "quote": "（ 松村 ）クライアントのターゲット層を変更しました",
+    "url": "https://www.sugoikaigi.jp/case/case-4164/",
+    "pass": 3
+   },
+   {
+    "quote": "以前は、eコマースで商品を販売する企業を中心に顧客開拓してきましたが、美容系クリニックなど、店舗集客が必要な企業を顧客化する戦略がうまくいきました",
+    "url": "https://www.sugoikaigi.jp/case/case-4164/",
+    "pass": 3
+   },
+   {
+    "quote": "もともと当社は広告でユーザー数を獲得することを得意としてきましたが、目をひく広告表現で集客しても、クライアントの利益に貢献できるだけのユーザーの質が伴わなければ意味がない",
+    "url": "https://www.sugoikaigi.jp/case/case-4164/",
+    "pass": 3
+   },
+   {
+    "quote": "「自分たちの仕事は誰のためになっているのか」「本質的な課題は何なのか」「クライアントと長期的にお付き合いするにはどうすればいいのか」",
+    "url": "https://www.sugoikaigi.jp/case/case-4164/",
+    "pass": 3
+   },
+   {
+    "quote": "「すごい会議」で向き合った結果、クライアントとの関わり方が変わり、継続的な関係が実現しています",
+    "url": "https://www.sugoikaigi.jp/case/case-4164/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、前述の話で言うと、eコマースのクライアントを担当し続けたとしても、集客ができて報酬がもらえるならば、僕たちはメリットを享受し続けられる",
+    "url": "https://www.sugoikaigi.jp/case/case-4164/",
+    "pass": 3
+   },
+   {
+    "quote": "コーチとは、仕事を通して自分の「幸せ」を体感し、自分と顧客の幸せをイコールにしていく仕事",
+    "url": "https://www.sugoikaigi.jp/case/case-4164/",
+    "pass": 3
+   },
+   {
+    "quote": "自分だけでは見れなかった景色、できなかった体験を、素晴らしい顧客との出会いが可能にしてくれました",
+    "url": "https://www.sugoikaigi.jp/case/case-4164/",
+    "pass": 3
+   },
+   {
+    "quote": "メンバーの人生の「起点」となり、「機転」の力でクライアントに貢献する",
+    "url": "https://hatarakigai.info/tip/interview/20251112_5275.html",
+    "pass": 3
+   },
+   {
+    "quote": "広告代理店事業とD2Cのメーカー事業、新規事業やM&Aによる企業買収と事業再生に取り組んでいます",
+    "url": "https://hatarakigai.info/tip/interview/20251112_5275.html",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん会社は、学校でも職業訓練校でもないので成果は求めます",
+    "url": "https://hatarakigai.info/tip/interview/20251112_5275.html",
+    "pass": 3
+   },
+   {
+    "quote": "クライアント企業の成長支援にとどまらず、起業家育成や社会貢献も視野に入れた事業運営を行う",
+    "url": "https://hatarakigai.info/tip/interview/20251112_5275.html",
+    "pass": 3
+   },
+   {
+    "quote": "既存産業に新たな価値をもたらす「Marketing×X」、市場調査から広告制作ディレクションまでを包括的に担い売上最大化を実現する「広告運用」、投資先に対して戦略から実行まで伴走し企業価値を高める「ハンズオン支援」、広告事業の知見を活かしてオーラルケアを中心に多様なプロダクトを展開する「メーカー事業」、さらにSNS広告に特化した「DRMコンサルティング」など、多彩な領域で成果を追求",
+    "url": "https://hatarakigai.info/tip/interview/20251112_5275.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社KITENの導入事例 | ゼロワンインターン | 日本最大級の長期インターン採用メディア",
+    "url": "https://01intern.com/recruitment/case/475/",
+    "pass": 3
+   },
+   {
+    "quote": "会社詳細：D2C企業のコンサルティングと新規顧客獲得のための広告運用代理事業を行っている",
+    "url": "https://01intern.com/recruitment/case/475/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルや教育体制がすごい優秀なんじゃないかって思われることも多いんですけど、そういうことではなく、純粋に一人一人の教育にはすごく時間をかけています",
+    "url": "https://01intern.com/recruitment/case/475/",
+    "pass": 3
+   },
+   {
+    "quote": "インターンではありますが、新卒社員の教育くらいちゃんと時間かけていると思いますよ",
+    "url": "https://01intern.com/recruitment/case/475/",
+    "pass": 3
+   },
+   {
+    "quote": "D2C企業のコンサルティングと新規顧客獲得のための広告運用代理事業を行っている",
+    "url": "https://01intern.com/recruitment/case/475/",
+    "pass": 3
+   },
+   {
+    "quote": "kiten-1の導入事例 | ゼロワンインターン | 日本最大級の長期インターン採用メディア",
+    "url": "https://01intern.com/recruitment/case/475/kiten-1/",
+    "pass": 3
+   },
+   {
+    "quote": "YouTube、Instagram、TikTok、LINEなどのSNS広告を使って、企業の新規顧客創出にコミットしています",
+    "url": "https://best100.v-tsushin.jp/company/kiten/",
+    "pass": 3
+   },
+   {
+    "quote": "6年かけてWebメディア、代理店、DtoCメーカー、事業会社を経験してきて、IT業界が「効率的・合理的・生産的」なエネルギーが強いことを痛感しました",
+    "url": "https://best100.v-tsushin.jp/company/kiten/",
+    "pass": 3
+   }
+  ],
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "心から「一緒に働きたい」と思う人と理想のコミュニティを運営し続けるために、いいマーケットを狙って事業を拡大し続けるのが経営者としての作戦",
+    "url": "https://kit-en.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "自社で商品開発・運営を行う「事業会社」としての側面を併せ持つ",
+    "url": "https://www.wantedly.com/companies/company_6969614/about",
+    "pass": 3
+   },
+   {
+    "quote": "『売上1000億を突破し、「KITEN経済圏」を構築する』",
+    "url": "https://www.wantedly.com/companies/company_6969614/about",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、入社3ヶ月で売上3000万円を達成するメンバーを続々と輩出",
+    "url": "https://www.wantedly.com/companies/company_6969614/about",
+    "pass": 3
+   },
+   {
+    "quote": "約60名のメンバーで5期目売上60億円を達成",
+    "url": "https://www.wantedly.com/companies/company_6969614/about",
+    "pass": 3
+   },
+   {
+    "quote": "現在、私たちは売上1000億、利益100億を目指すエキサイティングなフェーズにいます",
+    "url": "https://www.wantedly.com/companies/company_6969614/about",
+    "pass": 3
+   },
+   {
+    "quote": "導入2年で売上利益3倍",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "人材課題（従業員育成・人材採用）, 売上・営業課題",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "久保田コーチの「すごい会議」を他の経営者に紹介する場合、どのように伝えますか",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "2年で売上3倍",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "7年で売上865%業界No.1を生んだ、最高の“独裁…",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "部門売上138%…",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "売上昨対割れから営業利益2.1倍達成",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "意思決定構造を組織に宿し、売上2倍へ",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "採用をセンターピンに、売上昨対170%超達成",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "月間販売件数10倍、組織規模2倍",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "前期比売上1.2倍、営業利益約2倍",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "部門別売上昨対130％・160％・過去最高売上達成─…",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "一体感ある「経営チーム」で、売上2倍を実現",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍に昨対売上160%超",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "売上150…",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "売上目標3倍、組織の改編",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "売上160%、利益550%成長の軌跡…",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "売上利益200%、新…",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "導入8カ月で売上倍増",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "導入2年で売上利益3倍",
+    "url": "https://www.sugoikaigi.jp/case/case-4164/",
+    "pass": 3
+   },
+   {
+    "quote": "売上利益を伸ばすために、どのような「違い」をつくりましたか",
+    "url": "https://www.sugoikaigi.jp/case/case-4164/",
+    "pass": 3
+   },
+   {
+    "quote": "以前は、eコマースで商品を販売する企業を中心に顧客開拓してきましたが、美容系クリニックなど、店舗集客が必要な企業を顧客化する戦略がうまくいきました",
+    "url": "https://www.sugoikaigi.jp/case/case-4164/",
+    "pass": 3
+   },
+   {
+    "quote": "というのも、受験でラストスパートする男子学生のように、期限間際の数カ月間で売上倍増という実績を出してのゴールテープ",
+    "url": "https://www.sugoikaigi.jp/case/case-4164/",
+    "pass": 3
+   },
+   {
+    "quote": "◆2025＜5年連続＞すごい会議コーチ内売上実績No.1◆ TOKYO MX「企業家たちの挑戦ストーリー 」第42回 出演 https://x.gd/i5FaE",
+    "url": "https://www.sugoikaigi.jp/case/case-4164/",
+    "pass": 3
+   },
+   {
+    "quote": "当社が集客のリスクを負い、結果に連動して売上が立つモデルです",
+    "url": "https://hatarakigai.info/tip/interview/20251112_5275.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上100億円・1000億円を目指す中で、経営陣も幹部も成長に向けてギアをぐっと上げました",
+    "url": "https://hatarakigai.info/tip/interview/20251112_5275.html",
+    "pass": 3
+   },
+   {
+    "quote": "21歳で広告代理店を創業し、売上20億円規模に成長させた後に事業譲渡、譲渡先の役員を務める",
+    "url": "https://hatarakigai.info/tip/interview/20251112_5275.html",
+    "pass": 3
+   },
+   {
+    "quote": "クライアント企業の成長支援にとどまらず、起業家育成や社会貢献も視野に入れた事業運営を行う",
+    "url": "https://hatarakigai.info/tip/interview/20251112_5275.html",
+    "pass": 3
+   },
+   {
+    "quote": "既存産業に新たな価値をもたらす「Marketing×X」、市場調査から広告制作ディレクションまでを包括的に担い売上最大化を実現する「広告運用」、投資先に対して戦略から実行まで伴走し企業価値を高める「ハンズオン支援」、広告事業の知見を活かしてオーラルケアを中心に多様なプロダクトを展開する「メーカー事業」、さらにSNS広告に特化した「DRMコンサルティング」など、多彩な領域で成果を追求",
+    "url": "https://hatarakigai.info/tip/interview/20251112_5275.html",
+    "pass": 3
+   },
+   {
+    "quote": "-最初に、簡単な会社紹介をお願いします",
+    "url": "https://01intern.com/recruitment/case/475/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年までに売上10億円以上の子会社を3つ創出する",
+    "url": "https://best100.v-tsushin.jp/company/kiten/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Company 会社概要 - KITEN — Company 会社概要 - KITEN 株式会社KITEN https://kit-en.co.jp > company",
+    "url": "https://kit-en.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社KITEN - ミドルの転職 — 株式 会社KITEN - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 掲載企業一覧",
+    "url": "https://mid-tenshoku.com/agency/a-6874/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社KITEN の転職・企業 概要 - doda — 株式 会社KITEN の転職・企業 概要 - doda doda https://doda.jp > View > Company > j_id__10203423594",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10203423594/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 KITEN （東京都）の 会社概要 ・役員 | Compalyze — 株式会社 KITEN （東京都）の 会社概要 ・役員 | Compalyze Compalyze https://compalyze.co.jp > 企業検索 > デジタル広告・運用",
+    "url": "https://compalyze.co.jp/company/3011001135657",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社KITEN 松村 周 - ベストベンチャー100 — 株式 会社KITEN 松村 周 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > kiten",
+    "url": "https://best100.v-tsushin.jp/company/kiten/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 KITEN の 事業 とカルチャー - Wantedly — 株式会社 KITEN の 事業 とカルチャー - Wantedly Wantedly https://www.wantedly.com > Wantedly > 株式会社KITEN",
+    "url": "https://www.wantedly.com/companies/company_6969614/about",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 KITEN のインターンシップ・企業情報 | Infraインターン — 株式会社 KITEN のインターンシップ・企業情報 | Infraインターン Infraインターン https://www.in-fra.jp > long-internships > companies",
+    "url": "https://www.in-fra.jp/long-internships/companies/4332",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 KITEN 松村 周 - ベストベンチャー100 — 株式会社 KITEN 松村 周 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > kiten",
+    "url": "https://best100.v-tsushin.jp/company/kiten/",
+    "pass": 3
+   },
+   {
+    "quote": "前期比188％成長のベンチャーが認定を活用する理由 株式会社KITENの事... — Nov 12, 2025 · Great Place To Work®は、世界約170ヶ国で従業員意識調査を行い、調査結果をもとに毎年「働きがいのある会社」ランキングを発表している機関です。本ページでは前期比188％成長のベンチャーが認定を活用する理由 株式会社KITENの事例の導入・取組み事例についてご紹介します。",
+    "url": "https://hatarakigai.info/tip/interview/20251112_5275.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社KITENの導入事例 | ゼロワンインターン | 日本最大級の長期イ... — Apr 21, 2023 · 従業員数：40名 インターン生数：4名 会社詳細：D2C企業のコンサルティングと新規顧客獲得のための広告運用代理事業を行っている。 代表取締役： 松村様 (2022/4時点)広告運用経験は不問。やる気や地頭の良さを重視しています-最初...",
+    "url": "https://01intern.com/recruitment/case/475/",
+    "pass": 3
+   },
+   {
+    "quote": "kiten-1の導入事例 | ゼロワンインターン | 日本最大級の長期インター... — その他の場合はこちらにご入力ください",
+    "url": "https://01intern.com/recruitment/case/475/kiten-1/",
+    "pass": 3
+   },
+   {
+    "quote": "乖離率40%→半減、CPA10%削減。AFADで変えた広告代理店の運用効率。 | ... — （写真右）株式会社KITEN 営業部統括責任者 大橋 周平 様 （写真左）株式会社KITEN 業務推進部統括アシスタント 常見 汰希 様 Meta・YouTube・TikTokなど複数のSNS広告媒体を横断し、美容クリニック領域を中心に広告制作及び運用を手がける株式会社KITEN。 同社では5年前にAFADを導入し、最大30案件に ...",
+    "url": "https://markecats.co.jp/case-studies/kiten/",
+    "pass": 3
+   },
+   {
+    "quote": "導入2年で売上利益3倍。経営危機から一転、非連続な成長を遂げた、創... — 一緒に仕事をしていた 株式会社ナハトさん が「すごい会議」を導入していて、僕もその会議に参加していました。 KITENは、2020年に立ち上げたばかりで組織体制は発展途上。ナハトの安達さんに導入を薦められ、僕自身も必要性を感じて導入を決めました。",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社KITEN — KITEN経済圏を、持続可能な事業創出の起点に イノベーションで未来を創る多彩なブランド群 私たちのグループには、D2Cメーカーとしてオーラルケア商品を展開する「CANOW」や、EC商品の開発を手がける「willed」など、さまざまな企業が集まっています。",
+    "url": "https://kit-en.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "KITENについて - 株式会社KITEN — KITENでしか、経験できないことがある。 経験が人を育み、人が集って組織が光る。 唯一無二の経験を生み出す場として事業を拡張し、「ヒト」を真ん中に置き続ける組織であり続ける。 非連続な成長を通して、社会に経済的／完成的なインパクトを与える。",
+    "url": "https://kit-en.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社KITEN 松村 周 | ベストベンチャー100 — 株式会社KITEN 代表取締役 松村 周 ─ 御社の事業内容を教えて下さい。 YouTube、Instagram、TikTok、LINEなどのSNS広告を使って、企業の新規顧客創出にコミットしています。 また、要望に応じて市場リサーチを通じた事業の戦略策定や、PLの作成もコンサルしてい ...",
+    "url": "https://best100.v-tsushin.jp/company/kiten/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社KITEN - 販売促進コンサルティング業界の会社の企業情報 | Ba... — 株式会社KITENの企業情報ページ。販売促進コンサルティング業界の会社・従業員数66名。事業内容・役員・連絡先をBaseconnectで確認できます。",
+    "url": "https://baseconnect.in/companies/b54c1438-288b-4735-a50f-526d149a013b",
+    "pass": 3
+   }
+  ],
+  "選出の記録": [
+   {
+    "quote": "わずか3社の中の1社に選出されました",
+    "url": "https://www.wantedly.com/companies/company_6969614/about",
+    "pass": 3
+   },
+   {
+    "quote": "「ベストベンチャー100」3年連続選出や「働きがいのある会社」ベスト100選出など、",
+    "url": "https://www.wantedly.com/companies/company_6969614/about",
+    "pass": 3
+   },
+   {
+    "quote": "先輩インターン生が後輩を育成して、さらに、インターン生の中でマネージャーを選出して、大学生の広告運用組織も作れたら面白いかなと思っています",
+    "url": "https://01intern.com/recruitment/case/475/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社KITEN 松村 周 | ベストベンチャー100",
+    "url": "https://best100.v-tsushin.jp/company/kiten/",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "広告・メディア・人材・コンサル（BtoBサービス）",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の広告ノウハウはBtoB支援の枠を超えて、投資先や新規事業の集客にも応用し、連続的な事業創造をモットーにしています",
+    "url": "https://best100.v-tsushin.jp/company/kiten/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "上場企業が挑む、",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "未だかつてない挑戦で掴んだ、上場への道",
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業ではないので、どんなペースで進んでも誰かに文句を言われることはありません",
+    "url": "https://www.sugoikaigi.jp/case/case-4164/",
+    "pass": 3
+   },
+   {
+    "quote": "その後、上場企業やファンドで働き、21歳で起業しました",
+    "url": "https://hatarakigai.info/tip/interview/20251112_5275.html",
+    "pass": 3
+   },
+   {
+    "quote": "その後は売った会社の役員に入り、上場を目指しました",
+    "url": "https://hatarakigai.info/tip/interview/20251112_5275.html",
+    "pass": 3
+   },
+   {
+    "quote": "訪問営業がメインの会社でしたがコロナで営業ができなくなり、上場もできなくなった",
+    "url": "https://hatarakigai.info/tip/interview/20251112_5275.html",
+    "pass": 3
+   },
+   {
+    "quote": "5つの子会社を擁するホールディングス会社として、D2Cコンサルティングを中心に多角的な事業を展開",
+    "url": "https://hatarakigai.info/tip/interview/20251112_5275.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年までに売上10億円以上の子会社を3つ創出する",
+    "url": "https://best100.v-tsushin.jp/company/kiten/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "What is \"Kiten\" (Returning to Heaven)? ️ Following the news ... Jul 22, 2026 · The reason \" Kiten \" trended on X this time is that following the news of the late Goro Yamada's passing, programs and fans used the expression \"Kiten\" instead of \"Seikyo\" (passing away).",
+    "url": "https://note.com/2ch3ch/n/n63d7be04bdeb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Greeting on the Start of Operations Under a New Management ... served as a place where local residents, newcomers, and visitors from outside the town can meet, fostering numerous connections and new endeavors. A place to step away from the daily routine and spark new ideas and encounters. It has been used by many as a \"starting point\" (kiten) where someone's \"I ...",
+    "url": "https://note.com/bihoro_kiten/n/n1ec1c9f89ca0?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "What is \"Kiten\" (Returning to Heaven)? ✝️ Following the news of the late Goro Yamada's passing, programs and fans used the expression \"Kiten\" instead of \"Seikyo\" (passing away) ➡️ Seikyo, death, eternal sleep, may your soul rest in peace, attaining Buddhahood, Kiten, Shouten (calling to heaven), being called to heaven, departing to the afterlife, Kiyu (returning to the hidden world)｜AIちゃんねる_トレンド研究",
+    "url": "https://note.com/2ch3ch/n/n63d7be04bdeb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is \"Kiten\" (Returning to Heaven)? ✝️ Following the news of the late Goro Yamada's passing, programs and fans used the expression \"Kiten\" instead of \"Seikyo\" (passing away) ➡️ Seikyo, death, eternal sleep, may your soul rest in peace, attaining Buddhahood, Kiten, Shouten (calling to heaven), being called to heaven, departing to the afterlife, Kiyu (returning to the hidden world)",
+    "url": "https://note.com/2ch3ch/n/n63d7be04bdeb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\" trended on X this time is that following the news of the late Goro Yamada's passing, programs and fans used the expression \"Kiten\" instead of \"Seikyo\" (passing away).",
+    "url": "https://note.com/2ch3ch/n/n63d7be04bdeb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Kiten\" is an expression mainly used in **Christianity (especially Catholicism)**, and",
+    "url": "https://note.com/2ch3ch/n/n63d7be04bdeb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "being called to heaven",
+    "url": "https://note.com/2ch3ch/n/n63d7be04bdeb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "has a meaning based on that faith.",
+    "url": "https://note.com/2ch3ch/n/n63d7be04bdeb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Therefore, it has a slightly different nuance from general terms like",
+    "url": "https://note.com/2ch3ch/n/n63d7be04bdeb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"may your soul rest in peace\"",
+    "url": "https://note.com/2ch3ch/n/n63d7be04bdeb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Greeting on the Start of Operations Under a New Management Structure | Working Space KITEN｜Working Space KITEN",
+    "url": "https://note.com/bihoro_kiten/n/n1ec1c9f89ca0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Greeting on the Start of Operations Under a New Management Structure | Working Space KITEN",
+    "url": "https://note.com/bihoro_kiten/n/n1ec1c9f89ca0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since its opening in 2023, \"Working Space KITEN\" has",
+    "url": "https://note.com/bihoro_kiten/n/n1ec1c9f89ca0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "served as a place where local residents, newcomers, and visitors from outside the town can meet, fostering numerous connections and new endeavors.",
+    "url": "https://note.com/bihoro_kiten/n/n1ec1c9f89ca0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A place to step away from the daily routine and spark new ideas and encounters.",
+    "url": "https://note.com/bihoro_kiten/n/n1ec1c9f89ca0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It has been used by many as a \"starting point\" (kiten) where someone's \"I want to try this\" can begin to take shape.",
+    "url": "https://note.com/bihoro_kiten/n/n1ec1c9f89ca0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Transitioning to a New Management Structure from April 2026",
+    "url": "https://note.com/bihoro_kiten/n/n1ec1c9f89ca0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, \"Working Space KITEN\" has taken over the vision and space established thus far,",
+    "url": "https://note.com/bihoro_kiten/n/n1ec1c9f89ca0?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Official Kiten ♥ (@TeamKITEN) / X Official Kiten ♥ @TeamKITEN Nov 21, 2013 So happy to know na may MMK ang Kiten together @iamKarenReyes17 @kit15thompson #kiten #meow 2 4 2",
+    "url": "https://x.com/TeamKITEN",
+    "pass": 3
+   },
+   {
+    "quote": "\"#KITeN\" - Results on X | Live Posts & Updates Results for \"#KITeN\" on X (Twitter). Find the latest posts, discussions, and updates about #KITeN. 20 results found.",
+    "url": "https://x.com/hashtag/KITeN",
+    "pass": 3
+   },
+   {
+    "quote": "KITen tUy (@KITen_tuy) / X KITen tUy @KITen_tuy VALORANT競技部門 @ kit_esports_pj デバイス好きです Joined May 2025 7 Following",
+    "url": "https://x.com/KITen_tuy",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Kiten M. - L.A. Care Health Plan | LinkedIn20+ \"Kiten\" profiles | LinkedInLeecha Kiten - General Manager at Microsoft | LinkedInMarc Kitten - London Area, United Kingdom | Professional ...Gregory Kitten - Professor at Universidade Federal de Minas ...Bhavin Parekh - Managing Director @ KITTEN ENTERPRISES PVT ...kitten chou - Project Manager at KITEN TECH. | LinkedIn Experience: L.A. Care Health Pl",
+    "url": "https://www.linkedin.com/in/kitenmeena",
+    "pass": 3
+   },
+   {
+    "quote": "20+ \"Kiten\" profiles | LinkedIn View the profiles of professionals named \"Kiten\" on LinkedIn. There are 20+ professionals named \"Kiten\", who use LinkedIn to exchange information, ideas, and opportunities.",
+    "url": "https://www.linkedin.com/pub/dir/+/Kiten",
+    "pass": 3
+   },
+   {
+    "quote": "Leecha Kiten - General Manager at Microsoft | LinkedIn General Manager at Microsoft · Experience: Microsoft · Location: Lahore. View Leecha Kiten’s profile on LinkedIn, a professional community of 1 billion members.",
+    "url": "https://pk.linkedin.com/in/leecha-kiten-a57777418",
+    "pass": 3
+   },
+   {
+    "quote": "Marc Kitten - London Area, United Kingdom | Professional ...Gregory Kitten - Professor at Universidade Federal de Minas ...Bhavin Parekh - Managing Director @ KITTEN ENTERPRISES PVT ...kitten chou - Project Manager at KITEN TECH. | LinkedIn Location: London Area, United Kingdom · 500+ connections on LinkedIn. View Marc Kitten’s profile on LinkedIn, a professional community of 1 billion members. Pr",
+    "url": "https://uk.linkedin.com/in/marckitten",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://kit-en.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kit-en.co.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kit-en.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kit-en.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mid-tenshoku.com/agency/a-6874/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10203423594/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/company_6969614/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.delphi-consulting.com/case/2025/4710/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sugoikaigi.jp/case/case-4164/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://podcasts.apple.com/us/podcast/%E7%95%AA%E5%A4%96%E7%B7%A8-93-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEcoten%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94-%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%94%E3%82%BF%E3%83%AA%E3%82%B9%E3%83%88%E3%81%A8%E8%AA%9E%E3%82%8B%E7%8F%BE%E4%BB%A3%E3%81%AE%E5%91%AA%E8%A1%93/id1450522865?i=1000630370949",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ouRfL63Yf_M",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://coten.co.jp/blog/news/2091/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hatarakigai.info/tip/interview/20251112_5275.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://01intern.com/recruitment/case/475/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://01intern.com/recruitment/case/475/kiten-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://best100.v-tsushin.jp/company/kiten/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/2ch3ch/n/n63d7be04bdeb?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bihoro_kiten/n/n1ec1c9f89ca0?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TeamKITEN",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/KITeN",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KITen_tuy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/kitenmeena",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pub/dir/+/Kiten",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pk.linkedin.com/in/leecha-kiten-a57777418",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/marckitten",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "KITEN 会社概要 資本金 設立",
+   "results": [
+    "https://kit-en.co.jp/company/",
+    "https://mid-tenshoku.com/agency/a-6874/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10203423594/",
+    "https://compalyze.co.jp/company/3011001135657",
+    "https://best100.v-tsushin.jp/company/kiten/",
+    "https://en-ambi.com/agency/a-6874/",
+    "https://www.youtube.com/watch?v=nKZCwlbs0fw",
+    "https://lawplayer.com/jp/company/7011001097951",
+    "https://www.wantedly.com/companies/company_6969614",
+    "https://kit-en.co.jp/about/"
+   ]
+  },
+  {
+   "query": "KITEN 事業内容 売上",
+   "results": [
+    "https://www.wantedly.com/companies/company_6969614/about",
+    "https://www.delphi-consulting.com/case/2025/4710/",
+    "https://www.sugoikaigi.jp/case/case-4164/",
+    "https://www.in-fra.jp/long-internships/companies/4332",
+    "https://best100.v-tsushin.jp/company/kiten/",
+    "https://hatarakigai.info/tip/interview/20251112_5275.html",
+    "https://www.youtube.com/watch?v=nKZCwlbs0fw",
+    "https://kit-en.co.jp/service/",
+    "https://jobtalk.jp/companies/4192967/answers/8223535",
+    "https://kit-en.co.jp/company/"
+   ]
+  },
+  {
+   "query": "KITEN 資金調達 株主",
+   "results": [
+    "https://podcasts.apple.com/us/podcast/%E7%95%AA%E5%A4%96%E7%B7%A8-93-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEcoten%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94-%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%94%E3%82%BF%E3%83%AA%E3%82%B9%E3%83%88%E3%81%A8%E8%AA%9E%E3%82%8B%E7%8F%BE%E4%BB%A3%E3%81%AE%E5%91%AA%E8%A1%93/id1450522865?i=1000630370949",
+    "https://www.youtube.com/watch?v=ouRfL63Yf_M",
+    "https://coten.co.jp/blog/news/2091/",
+    "https://note.com/coten_inc/n/n1c6278cc2c2a",
+    "https://open.spotify.com/episode/1KXn57ukK65GQHJWEYZ2Gc",
+    "https://www.meti.go.jp/policy/newbusiness/houkokusyo/financeguidance.pdf",
+    "https://initial.inc/tags/fundraising-articles",
+    "https://m.incubatefund.com/media/startupfinance_04",
+    "https://fundoor.com/newsletters/16",
+    "https://kit-en.co.jp/"
+   ]
+  },
+  {
+   "query": "KITEN 導入事例",
+   "results": [
+    "https://hatarakigai.info/tip/interview/20251112_5275.html",
+    "https://01intern.com/recruitment/case/475/",
+    "https://01intern.com/recruitment/case/475/kiten-1/",
+    "https://markecats.co.jp/case-studies/kiten/",
+    "https://www.delphi-consulting.com/case/2025/4710/",
+    "https://www.sugoikaigi.jp/case/case-4159/",
+    "https://note.com/sakidoritenshoku/n/nc63b5a87607d"
+   ]
+  },
+  {
+   "query": "KITEN 主要取引先",
+   "results": [
+    "https://kit-en.co.jp/company/",
+    "https://kit-en.co.jp/about/",
+    "https://best100.v-tsushin.jp/company/kiten/",
+    "https://baseconnect.in/companies/b54c1438-288b-4735-a50f-526d149a013b",
+    "https://www.uchigen.co.jp/company/business_partners/",
+    "https://catr.jp/companies/bc778/246770",
+    "https://compalyze.co.jp/company/3011001135657"
+   ]
+  },
+  {
+   "query": "site:note.com KITEN",
+   "results": [
+    "https://note.com/2ch3ch/n/n63d7be04bdeb?hl=en",
+    "https://note.com/mikan_kitten/n/n37da36f74196?hl=en",
+    "https://note.com/mikan_kitten/n/na35c8de735ae?hl=en",
+    "https://note.com/bihoro_kiten/n/n1ec1c9f89ca0?hl=en",
+    "https://note.com/kiten_column/n/nf72600b6fd64?hl=en",
+    "https://tales.note.com/kitten89/w5usufjjj9eso",
+    "https://note.com/yui_fantasia/n/n7258128a5285?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com KITEN",
+   "results": [
+    "https://x.com/TeamKITEN",
+    "https://x.com/hashtag/KITeN",
+    "https://x.com/KITen_tuy",
+    "https://x.com/KonekoKittenYT",
+    "https://x.com/kitten_beloved/status/2117997117059055806",
+    "https://x.com/kitten_beloved",
+    "https://x.com/hashtag/kitten"
+   ]
+  },
+  {
+   "query": "site:linkedin.com KITEN",
+   "results": [
+    "https://www.linkedin.com/in/kitenmeena",
+    "https://www.linkedin.com/pub/dir/+/Kiten",
+    "https://pk.linkedin.com/in/leecha-kiten-a57777418",
+    "https://uk.linkedin.com/in/marckitten",
+    "https://br.linkedin.com/in/gregory-kitten-678701207",
+    "https://tw.linkedin.com/in/kitten-chou-a94a7791",
+    "https://in.linkedin.com/in/bhavin-parekh-97216752"
+   ]
+  },
+  {
+   "query": "site:facebook.com KITEN",
+   "results": []
+  },
+  {
+   "query": "KITEN note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://kiten.inotem.jp/",
+    "https://best100.v-tsushin.jp/company/kiten/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://ibasho-ob.com/archives/50228/",
+    "https://note.com/kiten_good_life/all",
+    "https://www.wantedly.com/companies/company_6969614/post_articles/512866"
+   ]
+  },
+  {
+   "query": "KITEN X 投稿",
+   "results": [
+    "https://www.cosme.net/products/10247590/",
+    "https://www.instagram.com/p/DZW6FzFFIME/",
+    "https://x.com/kittenYukiHina/status/2117740288399884351",
+    "https://x.com/kitten_gravity",
+    "https://note.com/munou_ac/n/n3489f9572885",
+    "https://kittenx.ai/",
+    "https://help.x.com/ja/using-x/edit-post"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索11回）"
+ }
+}

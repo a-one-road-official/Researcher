@@ -1,0 +1,870 @@
+{
+ "name": "LEGAREA",
+ "aliases": [
+  "legarea"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T14:49:15.523654+00:00",
+ "official_url": "https://www.legarea.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2020年9月1日",
+    "url": "https://www.legarea.jp/profile",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2020年9月1日",
+    "url": "https://tenshoku.mynavi.jp/company/403292/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2020年09月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2020年9月1日",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2020年9月",
+    "url": "https://aiworkstyle.net/ainews/19951/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　三坂 健悟",
+    "url": "https://www.legarea.jp/profile",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役　三坂 健悟",
+    "url": "https://tenshoku.mynavi.jp/company/403292/",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "三坂健悟",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 三坂 健悟",
+    "url": "https://aiworkstyle.net/ainews/19951/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "8,000,000円",
+    "url": "https://www.legarea.jp/profile",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "800万円",
+    "url": "https://tenshoku.mynavi.jp/company/403292/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "800万円",
+    "url": "https://best100.v-tsushin.jp/company/legarea/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "800万円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒102-0083 東京都千代田区麹町3丁目2-9　VORT麹町III 6階",
+    "url": "https://www.legarea.jp/profile",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒102-0083 東京都千代田区麹町3丁目2-9 VORT麹町III 6階",
+    "url": "https://www.legarea.jp/profile",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都千代田区麹町3丁目2-9 VORT麹町3 6階",
+    "url": "https://tenshoku.mynavi.jp/company/403292/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都千代田区麹町3丁目2-9 VORT麹町III 6階",
+    "url": "https://best100.v-tsushin.jp/company/legarea/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都千代田区麹町3丁目2-9\nVORT麹町III 6階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都千代田区麴町3丁目2-9",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都千代田区麹町3丁目2-9 VORT麹町III 6階",
+    "url": "https://aiworkstyle.net/ainews/19951/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "113名（2026年10月時点）",
+    "url": "https://www.legarea.jp/profile",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "103名（2025年4月1日現在）",
+    "url": "https://tenshoku.mynavi.jp/company/403292/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "受託開発（JustFit）/自社開発/SES事業",
+    "url": "https://www.legarea.jp/profile",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "■システムエンジニアリングサービス事業、マーケティング支援事業 【代表：三坂の想い】 代表の三坂自身がSES業界でエンジニアや営業として長く携わる中で、「スキルチェンジがしにくい」「低還元・不透明」「営業の知識が低くてエンジニアへのキャリア構築ができていない」「案件選択の自由がない」など、業界特有の課題を数多く感じてきました。 全てのエンジニアが自身の力を発揮し、キャリアを構築できる場所を提供したいとの想いでLEGAREAを創業。現在では、エンジニアが主体的にキャリア選択できるよう「透明性の高い評価制度」と「納得感のある報酬体制」を整えました。これからも、エンジニアがより良い環境で働ける未来の実現と唯一無二の存在を目指して走り続けていきます。",
+    "url": "https://tenshoku.mynavi.jp/company/403292/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "・システムエンジニアリングサービス事業",
+    "url": "https://best100.v-tsushin.jp/company/legarea/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "システムエンジニアリングサービス事業",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "受託開発、自社サービス開発、SES事業",
+    "url": "https://www.legarea.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "受託開発を軸に、企業の変革を支える",
+    "url": "https://www.legarea.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "期間が延びるほど開発会社の売上は増え、お客様は安く早くを求める",
+    "url": "https://www.legarea.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "受託開発（JustFit）/自社開発/SES事業",
+    "url": "https://www.legarea.jp/profile",
+    "pass": 1
+   },
+   {
+    "quote": "部門ごとの売上・経費・人員コストから採算を可視化します",
+    "url": "https://www.legarea.jp/works",
+    "pass": 1
+   },
+   {
+    "quote": "組織の規模と定着性、経験の広がりを、事実に基づくデータで紹介します",
+    "url": "https://www.legarea.jp/business-ses",
+    "pass": 1
+   },
+   {
+    "quote": "受託開発として、2026年2月に着手し、同年8月から利用が始まっています",
+    "url": "https://www.legarea.jp/works/8",
+    "pass": 1
+   },
+   {
+    "quote": "主な事業内容はシステムエンジニアリングサービス（SES）とエンジニア育成支援です",
+    "url": "https://best100.v-tsushin.jp/company/legarea/",
+    "pass": 3
+   },
+   {
+    "quote": "イトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サー",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   },
+   {
+    "quote": "な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されま",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   },
+   {
+    "quote": "・経営者が中長期的視座を持ち、売上が右肩上がりとなっている",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容：システムエンジニアリングサービス事業",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   },
+   {
+    "quote": "毎月1機能の追加が月額費用に含まれており、現場のニーズや変化に合わせてシステムを継続的に成長させることができます",
+    "url": "https://aiworkstyle.net/ainews/19951/",
+    "pass": 3
+   },
+   {
+    "quote": "LAFは、受託開発サービス「JustFit」として提供されます",
+    "url": "https://aiworkstyle.net/ainews/19951/",
+    "pass": 3
+   },
+   {
+    "quote": "初月の無料開発期間を経て、契約後に初期基盤構築費が発生し、その後は月額料金で毎月1機能の追加を含む運用・保守サービスが提供されます",
+    "url": "https://aiworkstyle.net/ainews/19951/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社LEGAREAは、AI駆動開発フレームワーク「LAF」の開発・提供、受託開発サービス「JustFit」、SaaS事業を展開しています",
+    "url": "https://aiworkstyle.net/ainews/19951/",
+    "pass": 3
+   },
+   {
+    "quote": "日立ヴァンタラは、AI統合プラットフォーム「Hitachi iQ Studio」の国内販売を開始しました",
+    "url": "https://aiworkstyle.net/ainews/19951/",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "LEGAREA は大手企業をはじめ、さまざまな業界の企業様の開発プロジェクトを支援してきました",
+    "url": "https://www.legarea.jp/business-ses",
+    "pass": 1
+   },
+   {
+    "quote": "イトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サー",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、大手企業に匹敵する品質を、従来よりも抑えたコストで提供することが可能です",
+    "url": "https://aiworkstyle.net/ainews/19951/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、IT投資の障壁が下がり、中小企業でもDX推進が加速するきっかけになるでしょう",
+    "url": "https://aiworkstyle.net/ainews/19951/",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "顧客に価値を提供し、単価を上げれば、それがそのまま評価と報酬になる",
+    "url": "https://tenshoku.mynavi.jp/company/403292/",
+    "pass": 3
+   },
+   {
+    "quote": "・ ITや介護医療、環境などの成長マーケットで事業展開している",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   },
+   {
+    "quote": "重度訪問介護 指定事業所1箇所",
+    "url": "https://tenra.jp/company/corp:6130001073142",
+    "pass": 3
+   },
+   {
+    "quote": "居宅介護 指定事業所1箇所",
+    "url": "https://tenra.jp/company/corp:6130001073142",
+    "pass": 3
+   },
+   {
+    "quote": "訪問介護 指定事業所3箇所",
+    "url": "https://tenra.jp/company/corp:6130001073142",
+    "pass": 3
+   },
+   {
+    "quote": "居宅介護支援 指定事業所2箇所",
+    "url": "https://tenra.jp/company/corp:6130001073142",
+    "pass": 3
+   }
+  ],
+  "選出の記録": [
+   {
+    "quote": "株式会社LEGAREA 三坂 健悟 | ベストベンチャー100",
+    "url": "https://best100.v-tsushin.jp/company/legarea/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社LEGAREA 2025年度『ベストベンチャー100』に選出 | 株式会社LEGAREAのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社LEGAREA 2025年度『ベストベンチャー100』に選出",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社LEGAREA(本社：千代田区、代表取締役：三坂健悟）は、イシン株式会社（本社：新宿区、代表取締役社長：片岡聡）が主催する2025年度『ベストベンチャー100』に選出されたことを発表致します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   },
+   {
+    "quote": "■『ベストベンチャー100』について",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサ",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   },
+   {
+    "quote": "な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されま",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベストベンチャー100について",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社LEGAREAが「ベストベンチャー100」に選出されましたこと、大変光栄に思います",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ベストベンチャー100」 当社掲載ページ：",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 ・アクセス｜株式会社 LEGAREA — 会社概要 ・アクセス｜株式会社 LEGAREA legarea.jp https://www.legarea.jp > profile",
+    "url": "https://www.legarea.jp/profile",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 LEGAREA の 会社概要 - マイナビ転職 — 株式会社 LEGAREA の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/403292/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社LEGAREA 三坂 健悟 - ベストベンチャー100 — 株式 会社LEGAREA 三坂 健悟 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > legarea",
+    "url": "https://best100.v-tsushin.jp/company/legarea/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社LEGAREA 2025年度『ベストベンチャー100』に選出 — 株式 会社LEGAREA 2025年度『ベストベンチャー100』に選出 PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社LEGAREA の転職・企業 概要 - doda — 株式 会社LEGAREA の転職・企業 概要 - doda doda https://doda.jp > View > Company > j_id__10203383370",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10203383370/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 LEGAREA の会社概要 - マイナビ転職 — 株式会社 LEGAREA の会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/403292/",
+    "pass": 3
+   },
+   {
+    "quote": "LEGAREA の企業情報 - バフェット・コード — LEGAREA の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company",
+    "url": "https://www.buffett-code.com/company/awpkur4bi2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 LEGAREA 2025年度『ベストベンチャー100』に選出 — 株式会社 LEGAREA 2025年度『ベストベンチャー100』に選出 PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 LEGAREA の求人情報／【開発エンジニア】AI駆動 ... — 株式会社 LEGAREA の求人情報／【開発エンジニア】AI駆動 ... マイナビ転職 https://tenshoku.mynavi.jp > ... > 株式会社LEGAREA",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-403292-1-7-1/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 LEGAREA の転職・企業概要 - doda — 株式会社 LEGAREA の転職・企業概要 - doda doda https://doda.jp > View > Company > j_id__10203383370",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10203383370/",
+    "pass": 3
+   },
+   {
+    "quote": "人とAIで、企業の変革に伴走する。｜株式会社LEGAREA — 株式会社LEGAREAは、AI駆動開発基盤「LAF」を活かした受託開発を主力とするIT企業です。 ご契約前の1ヶ月で無料プロトタイプを開発し、実物を見てからご判断いただけます。 自社プロダクト開発とSES事業も展開しています。",
+    "url": "https://www.legarea.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "開発実績｜株式会社LEGAREA — LEGAREAの開発実績です。 自社プロダクトのL-SHIFT・L-FORCE・CM SYSTEM・L-Worksに加え、AIロープレシステムや日程調整システムなど、受託開発で手がけたシステムをご紹介します。",
+    "url": "https://www.legarea.jp/works",
+    "pass": 3
+   },
+   {
+    "quote": "システム開発の未来を変える「LAF」：LEGAREAが提案するAIと人の協調... — LEGAREAが提供するAI駆動開発フレームワーク「LAF」は、システム開発のあり方を大きく変える可能性を秘めています。 特に、初期段階で実際に動くシステムを試せる「初月無料開発」は、発注側にとってリスクを大幅に低減する画期的なアプローチです。",
+    "url": "https://aiworkstyle.net/ainews/19951/",
+    "pass": 3
+   },
+   {
+    "quote": "AI駆動開発フレームワーク「LAF」提供開始 ― 株式会社LEGAREA、低コス... — Jul 17, 2026 · LEGAREAは、LAFを核とした開発支援の高度化を進めています。 第一弾として、要件定義を支援する「LAF Console（Requirement Agent）」を実装しました。",
+    "url": "https://prtimes.jp/main/html/rd/p/000000007.000155500.html",
+    "pass": 3
+   },
+   {
+    "quote": "「業務をシステムに合わせる時代は、終わった」──株式会社LEGAREA、開... — Jun 9, 2026 · 株式会社LEGAREA（本社：〒102-0083 東京都千代田区、代表取締役：三坂健悟）は、開発費0円・完全フルオーダーメイドで自社専用システムを構築 ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000155500.html",
+    "pass": 3
+   },
+   {
+    "quote": "Legarea株式会社の取引先チェック（行政処分・指名停止・インボイス｜... — 5 days ago · Legarea株式会社（京都府京都市中京区丸太町通新町西入大炊町185番2号、法人番号6130001073142）の会社情報。入札資格8件を収載。直近の記録は2026-10-01「障害児相談支援 指定事業所1箇所」。公的情報に基づき原典とあわせて整理しています。",
+    "url": "https://tenra.jp/company/corp:6130001073142",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要・アクセス｜株式会社LEGAREA — 株式会社LEGAREAの会社概要です。 2020年9月設立、代表取締役 三坂健悟、資本金800万円、従業員数113名。 事業内容は受託開発・自社開発・SES事業。 東京都千代田区麹町の本社とアクセスをご案内します。",
+    "url": "https://www.legarea.jp/profile",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社LEGAREA（東京都）の会社概要・役員 | Compalyze — 事業概要 株式会社LEGAREAは、システムエンジニアリングサービス事業を主軸に展開し、「エンジニア一人ひとりの可能性を最大限に引き出し、キャリアの力に変える」ことをミッションとする企業です。",
+    "url": "https://compalyze.co.jp/company/1011001135667",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社LEGAREA - IT業界の会社の企業情報 | Baseconnect — 上場種別 未上場 取引形態 BtoB 企業サイトURL https://www.legarea.jp/ （新しいタブで開きます） 代表電話番号 代表FAX番号 代表メールアドレス 採用担当メールアドレス お問い合わせページ 与信・コンプライアンス情報 Riskdogで企業信用情報を確認（新しいタブで ...",
+    "url": "https://baseconnect.in/companies/cef317c1-952f-4e17-b05a-212e97f0fc25",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "資本金：800万円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "What happens to companies after they cancel their SaaS? Jun 24, 2026 · 株式会社LEGAREAの公式noteです。 開発費0円で完全フルオーダメイドサービス「JustFit」を運営しています。 サービスの裏側や開発の想いを発信中。 公式サイト → https://just-fit.jp/",
+    "url": "https://note.com/agile_tern2555/n/n85924700cbc9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "System development is no longer in the era of 'one year and ... 株式会社LEGAREAの公式noteです。 開発費0円で完全フルオーダメイドサービス「JustFit」を運営しています。 サービスの裏側や開発の想いを発信中。 公式サイト → https://just-fit.jp/ トップ 科学・テクノロジー AI・機械学習",
+    "url": "https://note.com/agile_tern2555/n/nabd2e59df271?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To business owners who have felt the limits of no-code. How ... Jun 18, 2026 · Hello! I am Misaka, Representative of LEGAREA Inc. and head of the 'JustFit' business. We operate a new style of 'engineer advisory service' that provides system development that continues to adapt to a company's operations.",
+    "url": "https://note.com/agile_tern2555/n/n7332e7d426d3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is JustFit? — A New Choice for 'System Development That ... 株式会社LEGAREAの公式noteです。 開発費0円で完全フルオーダメイドサービス「JustFit」を運営しています。 サービスの裏側や開発の想いを発信中。 公式サイト → https://just-fit.jp/ トップ ビジネス ビジネス全般",
+    "url": "https://note.com/agile_tern2555/n/n85d37af60454?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "三坂健悟｜株式会社LEGAREA (@kdoae) / X ｜株式会社LEGAREA 株式会社LEGAREAは、AI駆動開発基盤「LAF」を活かした受託開発を主力とするIT企業です。 ご契約前の1ヶ月で無料プロトタイプを開発し、実物を見てからご判断いただけます。 自社プロダクト開発とSES事業も展開しています。",
+    "url": "https://x.com/kdoae",
+    "pass": 3
+   },
+   {
+    "quote": "\"#LEGAREA\" - Results on X | Live Posts & Updates Results for \"#LEGAREA\" on X (Twitter). Find the latest posts, discussions, and updates about #LEGAREA. 7 results found.",
+    "url": "https://x.com/hashtag/LEGAREA",
+    "pass": 3
+   },
+   {
+    "quote": "三坂健悟｜株式会社LEGAREA on X: \"AI駆動開発フレームワーク「LAF」提供開始 ― 株式会社LEGAREA、低コスト・高品質を ... 三坂健悟｜株式会社LEGAREA @kdoae AI駆動開発フレームワーク「LAF」提供開始 ― 株式会社LEGAREA、低コスト・高品質を両立する受託開発の新基盤を発表 AI駆動開発フレームワーク「LAF」提供開始 ― 株式会社LEGAREA、低コスト・高品質を両立する受託開発の新基盤を発表 From prtimes.jp 12:18 AM · Jul 17, 2026 ...",
+    "url": "https://x.com/kdoae/status/2077910873193300045",
+    "pass": 3
+   },
+   {
+    "quote": "水戸ホーリーホック応援アカウント (@legarea_kouhou) / Posts / X 3連休が終わってしまって中々気分が上がらない方が多いかもしれませんが、ぼちぼち頑張りましょう〜👦🏼🩵! みんな体調管理には気をつけようね! 💬0 🔄0 🤍8 📊317 📎 水戸ホーリーホック応援アカウントlegarea_kouhou Oct 3",
+    "url": "https://x.com/legarea_kouhou",
+    "pass": 3
+   },
+   {
+    "quote": "三坂健悟｜株式会社LEGAREA on X: \"コーポレートサイトリニューアルし... Oct 4, 2026 · コーポレートサイトリニューアルしました。 人とAIで、企業の変革に伴走する。 ｜株式会社LEGAREA From legarea.jp 11:29 PM · Oct 4, 2026 · 417 Views 2",
+    "url": "https://x.com/kdoae/status/2106889564862525789",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "株式会社LEGAREA | LinkedIn 株式会社LEGAREA | LinkedInのフォロワー数3人。 弊社はマーケティングのプロフェッショナルが戦略的なソリューションを提供し、お客様企業のブランド価値向上に貢献します。",
+    "url": "https://jp.linkedin.com/company/legarea",
+    "pass": 3
+   },
+   {
+    "quote": "Christine Légaré - HR Advisor at Public Service Commission ...三坂 健悟 - -- | LinkedInGhid complet: Calcul și legare condensator motor 220 și ...Judit Csenge Vizi - AI Enablement Coach | Change Management ... HR Advisor at Public Service Commission · Experience: Commission de la fonction publique du Canada | Public Service Commission of Canada · Education: Telfer School of Management at the Universit",
+    "url": "https://ca.linkedin.com/in/christine-légaré-69327589",
+    "pass": 3
+   },
+   {
+    "quote": "三坂 健悟 - -- | LinkedInGhid complet: Calcul și legare condensator motor 220 și ...Judit Csenge Vizi - AI Enablement Coach | Change Management ... -- · 地域活性化を支援するエンタープライズ｜ 高還元SES採用ページ (http://bit.ly/43nxcWd)｜SESエンジニアの働き方を再設計すべくこの業界に挑んでいます｜とってもカッコつける社長です · 職歴: 株式会社LEGAREA · 学歴: 神奈川大学 · 場所: 1000001。 Ghid complet: Calcul și legare condensator motor 220 și motoare monofazate și trifazate (220V/380V) Intr",
+    "url": "https://jp.linkedin.com/in/健悟-三坂-a0868323a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Adamary Legarea (@adamary.legarea) • Facebook, Connect with ... Adamary Legarea is on Facebook. Join Facebook to connect with Adamary Legarea and others you may know. Facebook gives people the power to share and makes...",
+    "url": "https://www.facebook.com/adamary.legarea/",
+    "pass": 3
+   },
+   {
+    "quote": "Legarea - Facebook Mar 20, 2023 · Legarea. 22 followers. 寄り添いを持っとうに💚【お客様からお客様へ繋がサロン】痩身エステ・小山市メンズ脱毛・小顔フェイシャル【プライベートサロン🏡】お子様脱毛・学生脱毛・学割 VIOワックス脱毛・ブラジリアンワックス",
+    "url": "https://www.facebook.com/p/Legarea-100071179509915/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.legarea.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.legarea.jp/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.legarea.jp/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.legarea.jp/works",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.legarea.jp/business-ses",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.legarea.jp/works/8",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://tenshoku.mynavi.jp/company/403292/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://best100.v-tsushin.jp/company/legarea/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/403292/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/awpkur4bi2/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://legalontech.jp/9581/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stblaw.com/ja/office/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-30803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aiworkstyle.net/ainews/19951/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenra.jp/company/corp:6130001073142",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/agile_tern2555/n/n85924700cbc9?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/agile_tern2555/n/nabd2e59df271?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/agile_tern2555/n/n7332e7d426d3?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/agile_tern2555/n/n85d37af60454?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/kdoae",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/LEGAREA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kdoae/status/2077910873193300045",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/legarea_kouhou",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/legarea",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/christine-légaré-69327589",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/健悟-三坂-a0868323a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/adamary.legarea/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Legarea-100071179509915/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kdoae",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kdoae/status/2106889564862525789",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "LEGAREA 会社概要 資本金 設立",
+   "results": [
+    "https://www.legarea.jp/profile",
+    "https://tenshoku.mynavi.jp/company/403292/",
+    "https://best100.v-tsushin.jp/company/legarea/",
+    "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "https://doda.jp/DodaFront/View/Company/j_id__10203383370/",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1011001135667",
+    "https://compalyze.co.jp/company/1011001135667",
+    "https://www.buffett-code.com/company/awpkur4bi2/",
+    "https://salesnow.jp/db/companies/jcbte7sp4j53bgc3",
+    "https://companydata.tsujigawa.com/company2/1011001135667/"
+   ]
+  },
+  {
+   "query": "LEGAREA 事業内容 売上",
+   "results": [
+    "https://tenshoku.mynavi.jp/company/403292/",
+    "https://www.buffett-code.com/company/awpkur4bi2/",
+    "https://prtimes.jp/main/html/rd/p/000000001.000155500.html",
+    "https://tenshoku.mynavi.jp/jobinfo-403292-1-7-1/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10203383370/",
+    "https://www.legarea.jp/news/7",
+    "https://jobtalk.jp/companies/10268373/answers/8325312",
+    "https://jp.linkedin.com/company/legarea",
+    "https://www.youtube.com/watch?v=eQUTNPPzjOc",
+    "https://www.legarea.jp/profile"
+   ]
+  },
+  {
+   "query": "LEGAREA 資金調達 株主",
+   "results": [
+    "https://legalontech.jp/9581/",
+    "https://www.stblaw.com/ja/office/news",
+    "https://initial.inc/companies/A-30803",
+    "https://prtimes.jp/main/html/rd/p/000000172.000025017.html",
+    "https://note.com/rich_quince7643/n/n5f3444d34b08",
+    "https://www.legarea.jp/profile",
+    "https://www.legarea.jp/",
+    "https://best100.v-tsushin.jp/company/legarea/",
+    "https://yamada-tools.jp/business/houjin/1011001135667",
+    "https://houjin.jp/c/1011001135667"
+   ]
+  },
+  {
+   "query": "LEGAREA 導入事例",
+   "results": [
+    "https://www.legarea.jp/",
+    "https://www.legarea.jp/works",
+    "https://aiworkstyle.net/ainews/19951/",
+    "https://prtimes.jp/main/html/rd/p/000000007.000155500.html",
+    "https://prtimes.jp/main/html/rd/p/000000004.000155500.html",
+    "https://sorein.tech/2026/07/22/2119/",
+    "https://hirogaru.jp/bizboost/article_view.php?id=4741"
+   ]
+  },
+  {
+   "query": "LEGAREA 主要取引先",
+   "results": [
+    "https://tenra.jp/company/corp:6130001073142",
+    "https://www.legarea.jp/profile",
+    "https://www.legarea.jp/",
+    "https://compalyze.co.jp/company/1011001135667",
+    "https://baseconnect.in/companies/cef317c1-952f-4e17-b05a-212e97f0fc25",
+    "https://baseconnect.in/companies/8e24b870-9322-4ba2-9877-7adbea19c31c",
+    "https://compalyze.co.jp/company/1030001161325"
+   ]
+  },
+  {
+   "query": "site:note.com LEGAREA",
+   "results": [
+    "https://note.com/agile_tern2555/n/n85924700cbc9?hl=en",
+    "https://note.com/agile_tern2555/n/nabd2e59df271?hl=en",
+    "https://note.com/agile_tern2555/n/n7332e7d426d3?hl=en",
+    "https://note.com/agile_tern2555/n/n85d37af60454?hl=en",
+    "https://note.com/agile_tern2555/n/nb5904af30404?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d"
+   ]
+  },
+  {
+   "query": "site:x.com LEGAREA",
+   "results": [
+    "https://x.com/kdoae",
+    "https://x.com/hashtag/LEGAREA",
+    "https://x.com/kdoae/status/2077910873193300045",
+    "https://x.com/legarea_kouhou",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/kdoae/status/2012416352255164878",
+    "https://help.x.com/en/using-x/create-x-account",
+    "https://x.com/adrnvic/status/2116339042962833541",
+    "https://x.com/abdulbasitaka/status/2115913589441843427",
+    "https://x.com/amanpour/status/2117239214685508088"
+   ]
+  },
+  {
+   "query": "site:linkedin.com LEGAREA",
+   "results": [
+    "https://jp.linkedin.com/company/legarea",
+    "https://www.linkedin.com/pub/dir/Jay/Légaré",
+    "https://ca.linkedin.com/in/christine-légaré-69327589",
+    "https://jp.linkedin.com/in/健悟-三坂-a0868323a",
+    "https://ro.linkedin.com/posts/dioda_ghid-complet-calcul-și-legare-condensator-activity-7426911226099662849-iglv",
+    "https://www.linkedin.com/company/legearaustralia",
+    "https://hu.linkedin.com/in/judit-csenge-vizi"
+   ]
+  },
+  {
+   "query": "site:facebook.com LEGAREA",
+   "results": [
+    "https://www.facebook.com/adamary.legarea/",
+    "https://www.facebook.com/p/Legarea-100071179509915/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/ImJayLegare/",
+    "https://www.facebook.com/legarea/",
+    "https://www.facebook.com/tomohito.matsuo/",
+    "https://www.facebook.com/js.legare/"
+   ]
+  },
+  {
+   "query": "LEGAREA note 社長",
+   "results": [
+    "https://www.legarea.jp/message",
+    "https://best100.v-tsushin.jp/company/legarea/",
+    "https://recruit.legarea.jp/news/株式会社legarea-社員総会2025｜仲間と描く未来ビジョン/",
+    "https://www.youtube.com/watch?v=DpSAFhLGWAA",
+    "https://x.com/kdoae",
+    "https://www.youtube.com/@michi_ceo",
+    "https://note.com/agile_tern2555/n/n7332e7d426d3"
+   ]
+  },
+  {
+   "query": "LEGAREA X 投稿",
+   "results": [
+    "https://x.com/kdoae",
+    "https://x.com/kdoae/status/2106889564862525789",
+    "https://www.instagram.com/legarea_official/",
+    "https://www.legarea.jp/",
+    "https://www.legarea.jp/news",
+    "https://www.xvideos.com/?k=投稿動画",
+    "https://fitly.pics/blog/x-twitter-post-tips"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部25頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部25頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部25頁・検索11回）"
+ }
+}

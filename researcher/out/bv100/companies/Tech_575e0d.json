@@ -1,0 +1,1303 @@
+{
+ "name": "Tech",
+ "aliases": [
+  "naturaltech"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T15:11:49.757573+00:00",
+ "official_url": "https://naturaltech.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：2018年9月5日",
+    "url": "https://naturaltech.jp/company/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金（資本準備金含む）",
+    "value": "5250万円",
+    "url": "https://naturaltech.jp/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "東京都千代田区神田神保町1-28-1 mirio神保町",
+    "url": "https://naturaltech.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "サービス",
+    "value": "Beauty & Wellness D2C",
+    "url": "https://naturaltech.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "売上No.1葉酸サプリに！",
+    "url": "https://naturaltech.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "」2024年12月～2025年5月のスギ薬局葉酸サプリカテゴリー売上シェア1位",
+    "url": "https://naturaltech.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介事業（厚生労働大臣許可番号：13－ユ－319647）",
+    "url": "https://gvatech.co.jp/aboutus/company",
+    "pass": 3
+   },
+   {
+    "quote": "労働者派遣事業許可（派13-302073）",
+    "url": "https://www.techfun.co.jp/aboutus/",
+    "pass": 3
+   },
+   {
+    "quote": "GMO TECHホールディングス（415A）の事業内容・業績｜平均年収703万円（サービス業で99位）・売上69億円（2025年12月期） | 図解経済",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "店の口コミサイトのエキテン byGMOを運営し、検索広告やSNS広告の運用も代行する",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期の区分別の売上",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期・セグメント別の売上",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期の売上高は69億円、営業利益は5億円、親会社株主に帰属する当期純利益は15億円",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員1人あたりの売上1,667万円は、上から127番目",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "売上の大きさは、144社の中で上から75番目",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたり売上",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期の売上高を100円とすると、費用に93円が出ていき、営業利益として7円が残る",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "売上を100円に揃えた内訳",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高を従業員数で割ると、1人あたり1,667万円になる",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員1人あたりの売上高（万円）",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントは事業別の売上高、2025年12月期の値",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "GMO TECHホールディングス 売上と財務、決算の業績推移をグラフで分析 | グラフで決算",
+    "url": "https://gurafu.net/jpn/gmo-tech",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット集客事業を展開する、GMO TECHホールディングス、2025年12月期までの通期本決算の、業績の推移や財務を紹介します",
+    "url": "https://gurafu.net/jpn/gmo-tech",
+    "pass": 3
+   },
+   {
+    "quote": "●損益計算書では、売上高・収益、営業利益、経常利益・税引前利益、純利益、営業利益率、粗利益率（売上総利益率）、売上原価率を表示",
+    "url": "https://gurafu.net/jpn/gmo-tech",
+    "pass": 3
+   },
+   {
+    "quote": "最後に、売上(収益)、利益、総資産、負債、純資産（資本）、保有する現金、有利子負債（借金）、内部留保を、同じ縮尺（スケール）で作成したグラフ（比例縮尺財務諸表）で、会社の決算と規模を、わかりやすく視覚的にご確認いただけます",
+    "url": "https://gurafu.net/jpn/gmo-tech",
+    "pass": 3
+   },
+   {
+    "quote": "売上（利益）と資産を同じ縮尺で比較したグラフ",
+    "url": "https://gurafu.net/jpn/gmo-tech",
+    "pass": 3
+   },
+   {
+    "quote": "●GMOインターネットグループの売上高と業績推移と決算（コチラをクリック）",
+    "url": "https://gurafu.net/jpn/gmo-tech",
+    "pass": 3
+   },
+   {
+    "quote": "●電通デジタルの売上高と業績推移と決算（コチラをクリック）",
+    "url": "https://gurafu.net/jpn/gmo-tech",
+    "pass": 3
+   },
+   {
+    "quote": "●セブテーニホールディングスの売上高と業績推移と決算（コチラをクリック）",
+    "url": "https://gurafu.net/jpn/gmo-tech",
+    "pass": 3
+   },
+   {
+    "quote": "●ネットマーケティングの売上高と業績推移と決算（コチラをクリック）",
+    "url": "https://gurafu.net/jpn/gmo-tech",
+    "pass": 3
+   },
+   {
+    "quote": "CBCラジオ 売上と財務、決算の業績推移をグラフで分析 2025",
+    "url": "https://gurafu.net/jpn/gmo-tech",
+    "pass": 3
+   },
+   {
+    "quote": "TOHOシネマズ 売上と財務、決算の業績推移をグラフで分析 2025",
+    "url": "https://gurafu.net/jpn/gmo-tech",
+    "pass": 3
+   },
+   {
+    "quote": "プリント基板製造における水・資源・エネルギーを大幅に削減する革新的な製造技術を開発するエレファンテック株式会社（代表取締役社長：清水信哉 本社：東京都中央区）は、2023年10月31日付にて、第三者割当増資を実施いたしました",
+    "url": "https://elephantech.com/news/press_release_20231101/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、本調達資金を活用して、低環境負荷のプリント基板P-Flex🄬 の量産拡大、国内外での販売体制の強化､金属インクジェット印刷技術の開発などに引き続き取り組んでまいります",
+    "url": "https://elephantech.com/news/press_release_20231101/",
+    "pass": 3
+   },
+   {
+    "quote": "排出を75%、水消費を95%削減できるインクジェット印刷による電子回路製造技術の実用化・普及に向け、2014年の創業以来開発に取り組んで参りました",
+    "url": "https://elephantech.com/news/press_release_20231101/",
+    "pass": 3
+   },
+   {
+    "quote": "プリンテッド・エレクトロニクス製造技術の開発、製造サービス提供",
+    "url": "https://elephantech.com/news/press_release_20231101/",
+    "pass": 3
+   },
+   {
+    "quote": "貿易書類の作成時間を大幅短縮し、好調な主力商品の輸出業務を円滑化",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入時のコスト、運用の人的リソースを押さえて戦略的な販売・会計システムを実現",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工業グループで空調用熱源機器･汎用（はんよう）ボイラの設計・開発、製造、販売そしてアフターサービス・メンテナンスまで一貫して担う川重冷熱工業（以下、川重冷熱）は、従来ブレードサーバー＋SANで運用していた業務システム系の仮想サーバー群",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来90年近く日本の塗料製造業をリードし続けている総合塗料メーカー",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "島村楽器、SAPの小売業向けクラウドERPを採用 - 販売・在庫・会計データを統合",
+    "url": "https://news.mynavi.jp/techplus/casestudy/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルサイネージは売上に貢献するのか? ソニーの法人向けブラビアを導入したマリオンクレープが売上+10%、客数+23%を実証",
+    "url": "https://news.mynavi.jp/techplus/casestudy/",
+    "pass": 3
+   },
+   {
+    "quote": "企業における、さまざまなシステムやサービスの導入事例を紹介します",
+    "url": "https://news.mynavi.jp/techplus/casestudy/",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "全国1,640店超のスギ薬局",
+    "url": "https://naturaltech.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "」2024年12月～2025年5月のスギ薬局葉酸サプリカテゴリー売上シェア1位",
+    "url": "https://naturaltech.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "今の時代の美容や健康はどんどん「ナチュラル」に回帰してきています",
+    "url": "https://naturaltech.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産テック事業では、GMO ReTechが賃貸のオーナーや入居者のアプリと、契約の電子化サービスのGMO賃貸DXを提供する",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "連結子会社GMO ReTech㈱が、賃貸オーナー・入居者向けのアプリケーションプラットフォームや、不動産賃貸手続きにおける契約の電子化サービス「GMO賃貸DX」を提供する",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "口コミサイトに情報を載せる地域の店、アプリを使う不動産の管理会社も客になる",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "アプリの課金の決まりがアプリ外課金の需要を、賃貸の管理の電子化が不動産テック事業の需要を左右する",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産テック：不動産の仕事をITで便利にするサービス",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：図解経済「GMO TECHホールディングス（415A）」https://zukaikeizai.com/kaisha/415A/（元データ：EDINET（金融庁））",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "<a href=\"https://zukaikeizai.com/kaisha/415A/\"><img src=\"https://zukaikeizai.com/cards/kaisha-415A.png\" alt=\"GMO TECHホールディングス（415A）の図解（図解経済）\" width=\"540\"></a><br>出典：<a href=\"https://zukaikeizai.com/kaisha/415A/\">図解経済</a>（元データ：EDINET（金融庁））",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "プリント基板製造における水・資源・エネルギーを大幅に削減する革新的な製造技術を開発するエレファンテック株式会社（代表取締役社長：清水信哉 本社：東京都中央区）は、2023年10月31日付にて、第三者割当増資を実施いたしました",
+    "url": "https://elephantech.com/news/press_release_20231101/",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、みずほ銀行および商工組合中央金庫を割当先として、負債性優先株式の発行を実施いたします",
+    "url": "https://legalontech.jp/9581/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社みずほ銀行 副頭取執行役員 石川 卓",
+    "url": "https://legalontech.jp/9581/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 | 双日テックイノベーション（STech I）",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "金融機関の厳しいセキュリティ要件を満たし、AIを活用した柔軟な電話環境を実現",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "「外食事業」「コントラクト事業」「ホテル事業」「食品事業」を柱に展開するロイヤルグループは、DX認定事業者としてグループ全体でDXを推進する一方、生成AI活用やデータドリブン経営をさらに浸透させるため、双日テックイノベーションのDX人材育成プログラム『DX University』による「経営層向けDXセミナー」を実施しました",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "総合商社の丸紅株式会社（以下、丸紅）は“SAPの2027年問題”に対処するため、単体（丸紅本体）の10営業本部と国内（丸紅グループ）の20事業会社を対象に、双日テックイノベーションが提案した純国産ERP「GRANDIT」を導入",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "美作市が実現したMistによる\"自ら運用できる\"自治体ネットワーク",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社山梨中央銀行 社会における存在意義を「山梨から豊かな未来をきりひらく」と掲げる株式会社山梨中央銀行（以下、山梨中央銀行）は、業務の質を高めるために専用生成AIの活用を促進しようと、双日テックイノベーションのDX University「業務の\"質\"の高め方研修～生成AIの活用～」を採用しました",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー商社が基幹システム更改に国産のGRANDITを採用 業務プロセスの一元化によりデータの信頼性向上を実現",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員のアクティビティを把握、分析することでリアルタイムの内部脅威対策を構築（Proofpoint ITM, DLP導入事例）",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業140年以上の歴史を持つ企業として、物流業界を中心に幅広い分野で事業を展開しています",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "総合商社丸紅がSAPパッケージ構成を一部見直し、商社業務に適合性の高いGRANDITを採用 アドオンを大幅に減少させ運用コストの削減を実現",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客対応窓口をクラウドPBX に刷新、 「Zoom Phone」で実現する高品質通話と運用効率化",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "県内唯一の地方銀行として地域密着と健全経営に徹する株式会社山梨中央銀行は、独自のDX推進人財育成制度を導入し、全役職員がDXを基礎的な素養として身につけて実践できるようにするため、DX人材育成プログラム「DX University」の「DX基礎eラーニング」を活用しました",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都の多摩地域を中心に魅力ある地域づくりを支援する多摩信用金庫様は、顧客接点のハイブリッド化を目指し、全職員のICTリテラシー向上とDX専門人財の育成に改めて注力",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "【導入事例】4か月のスピード導入｜導入/管理コスト削減と電話管理の属人化を脱却 ZoomのクラウドPBXソリューション：株式会社エヌ・シー・エヌ様",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "新しい技術に取り組むシステム開発で、業務オペレーションのペーパーレス化・生産性向上を実現（会計伝票承認システム、契約書管理システム導入事例）",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "「発想」で新たな価値を創造し、それをビジネスとして「実現」することを表現した企業メッセージ「Hassojitz」をコンセプトに、世界のさまざまな国と地域に向けて事業を幅広く展開している総合商社の双日は、業務オペレーションのペーパーレス化と生",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "【導入事例】コロナ禍以降のワークスタイルの変化にあわせた 最適な社内外コミュニケーションをZoomのソリューションが支える：ニッセイ情報テクノロジー株式会社様",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "「商社向けマスタ」によりノンカスタマイズで「GRANDIT」導入を実現",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "日商エレクトロニクス(現、双日テックイノベーション)の商社テンプレートを採用",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "リモートワーク環境における情報漏えいリスクの大幅な低減を実現（VMware Horizon Cloud Service on Microsoft Azure導入事例）",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "バリューコマースでは、リモートワーク環境での情報漏洩リスク解消に向けて、社内クライアントPCのVDI化のため「VMware Horizon Cloud Service on Microsoft Azure」を採用",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "道路舗装を中心に全国の社会インフラの工事・建設を担う世紀東急工業では、本社と遠隔地の支店との間で行われる会議にTV会議専用システムを利用してきましたが、より高品位のTV会議の実現を目指し「Zoom Rooms」を導入",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "データに基づく意思決定の活用基盤をAzure Databricksで構築（Microsoft Azure導入事例）",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "分散していた顧客情報を統合し、データに基づく意思決定の文化醸成を目指しています",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "保険契約審査事務の完全ペーパーレス化を実現（Natic BPM Suite導入事例）",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "野原グループはなぜIT部門から建設DXを始めたのか? 全社展開に向けた取り組み",
+    "url": "https://news.mynavi.jp/techplus/casestudy/",
+    "pass": 3
+   },
+   {
+    "quote": "企業と同等の環境で学ぶ価値とは? ワークステーション導入で実践教育を進化させた鹿児島情報高等学校",
+    "url": "https://news.mynavi.jp/techplus/casestudy/",
+    "pass": 3
+   },
+   {
+    "quote": "足利銀行、「ナレッジワークAI商談記録」を導入 - 面談内容をAIで文字起こし・要約",
+    "url": "https://news.mynavi.jp/techplus/casestudy/",
+    "pass": 3
+   },
+   {
+    "quote": "島村楽器、SAPの小売業向けクラウドERPを採用 - 販売・在庫・会計データを統合",
+    "url": "https://news.mynavi.jp/techplus/casestudy/",
+    "pass": 3
+   },
+   {
+    "quote": "コカ・コーラ ボトラーズジャパン、輸送距離を23%短縮 AI・データ活用で進める物流改革",
+    "url": "https://news.mynavi.jp/techplus/casestudy/",
+    "pass": 3
+   },
+   {
+    "quote": "企業における、さまざまなシステムやサービスの導入事例を紹介します",
+    "url": "https://news.mynavi.jp/techplus/casestudy/",
+    "pass": 3
+   }
+  ],
+  "選出の記録": [
+   {
+    "quote": "・ベストベンチャー100",
+    "url": "https://naturaltech.jp/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 – 株式会社Tech – テック – — 【所在地】〒533-0033 大阪府大阪市東淀川区東中島2丁目9番15号 資本金 9,500,000円 設立日 令和2年12月10日 事業内容 システム開発・ECサイト開発・WEB開発・複合機経費削減提案",
+    "url": "https://te-ch.co.jp/会社概要/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要・沿革 | GVA TECH株式会社 — Jan 4, 2017 · 東京都渋谷区恵比寿西一丁目において、GVA TECH株式会社を設立 大学卒業後、証券会社に10年勤務。 その後、ベンチャー企業のコーポレート部門の取締役として、オンラインサービス3社の東証グロース市場へのIPOと、東証プライム市場への市場変更1社を経験。",
+    "url": "https://gvatech.co.jp/aboutus/company",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | SI・データマネジメントを提供 | Tech Fun — Tech Fun株式会社の会社名、役員、資本金、所在地、設立年月日、売上、社員数、事業内容、取引先、組織図などの会社概要 ...",
+    "url": "https://www.techfun.co.jp/aboutus/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業情報 | 双日テックイノベーション（STech I） — 所在地 〒102-0084 東京都千代田区二番町3-5 麹町三葉ビル（受付6F） TEL:03-6272-5011（代表） FAX:03-3261-0734 大きな地図で見る 設立 1969年2月24日 資本金 50億円",
+    "url": "https://www.sojitz-ti.com/ja/company/gaiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | テクノプロ - TECHNOPRO — 会社概要 商号 株式会社テクノプロ （英文表記：TechnoPro, Inc.） 設立 1997年6月 本社 〒106-6135 東京都港区六本木6-10-1 六本木ヒルズ森タワー35階",
+    "url": "https://www.technopro.com/aboutus/company-profile/",
+    "pass": 3
+   },
+   {
+    "quote": "GMO TECHホールディングス（415A）の事業内容・業績｜平均年収703万円... — GMO TECHホールディングス（415A）はサービス業の会社。 主な事業は集客支援事業・不動産テック事業。 2025年12月期は売上69億円・営業利益5億円、平均年収703万円（サービス業482社の中で99位）。 事業内容と業績を有価証券報告書の数字で図解。",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "GMO TECHホールディングス 売上と財務、決算の業績推移をグラフで分析... — Oct 27, 2026 · 数字のみの財務諸表をグラフに変換。 売上、利益、総資産、保有する現金と有利子負債（借金）、内部留保を同じ縮尺で並べて、かんたんに決算を確認できます。 インターネット集客事業を展開する、GMO TECHホールディングス、業績の推移や財務を紹介。",
+    "url": "https://gurafu.net/jpn/gmo-tech",
+    "pass": 3
+   },
+   {
+    "quote": "【企業研究】GVA TECHの業績推移から中長期の経営戦略まで就活生向け... — May 15, 2026 · ホウ（フクロウ） 直近の売上高は 15億円 、当期純利益は -3億円。 前期比 +27.3% の増収です。 GVA TECH株式会社の2025年12月期の連結売上高は15億円、当期純利益は-3億円（出典: 金融庁EDINET 有価証券報告書）。",
+    "url": "https://kigyo-scope.jp/company/298A/",
+    "pass": 3
+   },
+   {
+    "quote": "GMO TECHホールディングス（415A）、地図対策・不動産DX SaaSが成長 A... — Aug 17, 2026 · AI SaaS事業において過去最高の売上高と営業利益を記録した四半期となりました。 地図対策および不動産DX SaaSのストック収益が順調に積み上がり、安定的な成長を実現しています。 その他の事業については、2026年4月を底に回復傾向にあります。",
+    "url": "https://finance.logmi.jp/articles/385540",
+    "pass": 3
+   },
+   {
+    "quote": "LegalOn Technologies、ゴールドマン・サックスをリード投資家として... — Jul 24, 2025 · 今回の資金調達ラウンドでは、リーガルAIの枠を超えた新分野への進出という挑戦的な構想をサポートすべく、メザニンファイナンスの一種である「負債性優先株式」による資金供給をスタートアップ企業向けとしては初めて実施いたしました。",
+    "url": "https://legalontech.jp/9581/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 | 双日テックイノベーション（STech I） — 双日テックイノベーションのITソリューション導入事例一覧。 丸紅様やSBSホールディングス様など、商社・金融・製造をはじめとした大手企業の成功事例を多数公開。 課題解決のプロセスや導入後の効果、ビジネス変革のリアルな現場をご確認ください。",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 | TECH+（テックプラス） — 企業における、さまざまなシステムやサービスの導入事例を紹介します。ビジネス課題をITで解決するヒントをお届けします。",
+    "url": "https://news.mynavi.jp/techplus/casestudy/",
+    "pass": 3
+   },
+   {
+    "quote": "テーマから探す | 導入事例 | TECH+（テックプラス） — 導入事例 - 在宅勤務 導入事例 - Kubernetes 導入事例 - ブロックチェーン 導入事例 - IoT 導入事例 - ハイブリッドクラウド 導入事例 - ワークフロー",
+    "url": "https://news.mynavi.jp/techplus/casestudy/theme/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "GMO TECHとGMOデザインワンを子会社に持つ持株会社で、事業は子会社が営む",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "GMOインターネットグループの連結子会社で、そのインターネット広告・メディア事業に属する",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "連結子会社GMO TECH㈱が、SEOコンサルティングをはじめとするWebマーケティングやアドテクノロジーを用いた総合的なインターネット集客支援サービスを展開する",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "連結子会社GMOデザインワン㈱は、店舗情報口コミサイト「エキテン byGMO」などのインターネットメディアサービスを提供する",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "連結子会社GMO ReTech㈱が、賃貸オーナー・入居者向けのアプリケーションプラットフォームや、不動産賃貸手続きにおける契約の電子化サービス「GMO賃貸DX」を提供する",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "出資はGMO TECHホールディングスが持つ議決権の割合",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期の売上高は69億円、営業利益は5億円、親会社株主に帰属する当期純利益は15億円",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "凡例の純利益は親会社株主に帰属する当期純利益",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "この期は本業の外の利益（出資先の利益や為替差益など）が加わり、税金を払った後の親会社株主に帰属する当期純利益は22円と、営業利益を上回った",
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "pass": 3
+   },
+   {
+    "quote": "東京証券取引所などの適時開示情報（上場企業など）、官報、WEBサイト上の電子公告などに（未上場企業など）、過去に公開された、財務諸表、計算書類、決算公告などの決算書の数値データを、5つのグラフと表に作成",
+    "url": "https://gurafu.net/jpn/gmo-tech",
+    "pass": 3
+   },
+   {
+    "quote": "関係会社（親会社 子会社など）・類似、競合会社など",
+    "url": "https://gurafu.net/jpn/gmo-tech",
+    "pass": 3
+   },
+   {
+    "quote": "エレファンテック、第三者割当増資で資金調達を実施 – エレファンテック – Elephantech",
+    "url": "https://elephantech.com/news/press_release_20231101/",
+    "pass": 3
+   },
+   {
+    "quote": "エレファンテック、第三者割当増資で資金調達を実施",
+    "url": "https://elephantech.com/news/press_release_20231101/",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズD資金調達にて合計39億円調達、 創業以来の累計調達金額は約100億円に",
+    "url": "https://elephantech.com/news/press_release_20231101/",
+    "pass": 3
+   },
+   {
+    "quote": "プリント基板製造における水・資源・エネルギーを大幅に削減する革新的な製造技術を開発するエレファンテック株式会社（代表取締役社長：清水信哉 本社：東京都中央区）は、2023年10月31日付にて、第三者割当増資を実施いたしました",
+    "url": "https://elephantech.com/news/press_release_20231101/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の資金調達では、当社株主である MEイノベーションファンド投資事業有限責任組合の他、新規に、味の素株式会社、未来創造キャピタル株式会社（みずほリース株式会社CVC）、他から出資を受けました",
+    "url": "https://elephantech.com/news/press_release_20231101/",
+    "pass": 3
+   },
+   {
+    "quote": "本資金調達は、22年9月から実行を続けていたシリーズDラウンドによるもので、今回の調達を経て合計39億円を調達いたしました",
+    "url": "https://elephantech.com/news/press_release_20231101/",
+    "pass": 3
+   },
+   {
+    "quote": "また、創業以来の累計資金調達額は約100億円（増資65億円、借入･補助金計34億円）となります",
+    "url": "https://elephantech.com/news/press_release_20231101/",
+    "pass": 3
+   },
+   {
+    "quote": "「LegalOn: World Leading Legal AI」を提供する株式会社LegalOn Technologies（本社：東京都渋谷区 代表取締役 執行役員・CEO：角田 望、以下LegalOn Technologies）は、第三者割当増資、既存株式による株式譲渡、負債性優先株式の発行からなる総額71.4億円のシリーズEラウンドを実施いたします",
+    "url": "https://legalontech.jp/9581/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、当社における創業以来の全資金調達ラウンドの総額は、約286億円となります",
+    "url": "https://legalontech.jp/9581/",
+    "pass": 3
+   },
+   {
+    "quote": "リーガルAIサービスのグローバルリーダーであるLegalOn Technologiesは、第三者割当増資および既存株主による株式譲渡を通じて、ゴールドマン・サックス、WiL、森・濱田松本法律事務所*が本ラウンドに参画いたします",
+    "url": "https://legalontech.jp/9581/",
+    "pass": 3
+   },
+   {
+    "quote": "当社が提供するリーガルAIサービスは、国内における上場企業の25％以上、Fortune500に掲載されている日本企業の87％にご利用いただいています",
+    "url": "https://legalontech.jp/9581/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の資金調達ラウンドでは、リーガルAIの枠を超えた新分野への進出という挑戦的な構想をサポートすべく、メザニンファイナンスの一種である「負債性優先株式」による資金供給をスタートアップ企業向けとしては初めて実施いたしました",
+    "url": "https://legalontech.jp/9581/",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "北陸三県の法人向けに情報通信システムのサービスを行うNTTビジネスソリューションズ 北陸支店",
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルサイネージは売上に貢献するのか? ソニーの法人向けブラビアを導入したマリオンクレープが売上+10%、客数+23%を実証",
+    "url": "https://news.mynavi.jp/techplus/casestudy/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Today's Featured Official Tech News Flash: October 27, 2026 ... Oct 27, 2026 · Here is your tech news for October 27, 2026. Today, many powerful official updates have been announced regarding the practical application of AI agents and cloud integration.",
+    "url": "https://note.com/rinrinlw/n/n26f3d151b881?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[October 15th Breaking News] Massive Japan-US Semiconductor ... Oct 17, 2026 · On October 15, 2026, the global business and technology markets were significantly shaken by waves of geopolitics and inflation concerns. From the agreement between Japan and the US to build a massive semiconductor supply chain, to China's proposed export controls on AI-related technologies, and the ...",
+    "url": "https://note.com/minato_20260000/n/nb1aca6e8ec44?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[10/03 AI Summary] Nvidia chip smuggling of $300M leads to ... Oct 3, 2026 · 🔥 1. Tech CEO arrested by US authorities for allegedly smuggling $300 million worth of Nvidia chips to China US authorities have arrested a tech company CEO on suspicion of illegally funneling approximately $300 million (about 45 billion yen) worth of high-performance Nvidia chips to China.",
+    "url": "https://note.com/local_ai/n/n054c06acb0ed?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Today's Featured Official Tech News Flash: October 27, 2026 Edition｜Rin",
+    "url": "https://note.com/rinrinlw/n/n26f3d151b881?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today's Featured Official Tech News Flash: October 27, 2026 Edition",
+    "url": "https://note.com/rinrinlw/n/n26f3d151b881?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Good morning! Here is your tech news for October 27, 2026. Today, many powerful official updates have been announced regarding the practical application of AI agents and cloud integration. Let's check out the latest information to give your daily development a powerful boost.",
+    "url": "https://note.com/rinrinlw/n/n26f3d151b881?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. GPT-6.1 Terra in GitHub Copilot (GitHub Changelog)",
+    "url": "https://note.com/rinrinlw/n/n26f3d151b881?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub has announced that OpenAI's latest model, \"GPT-6.1 Terra,\" is now generally available in GitHub Copilot. This model is designed for daily agentic coding and terminal tasks, and a major feature is that it can be used at a lower cost than GPT-6.1 Sol. This makes it possible to incorporate more advanced automation into your daily workflow while keeping AI utilization costs in development envir",
+    "url": "https://note.com/rinrinlw/n/n26f3d151b881?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
+    "url": "https://note.com/rinrinlw/n/n26f3d151b881?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Impact and Insights for Developers]",
+    "url": "https://note.com/rinrinlw/n/n26f3d151b881?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The introduction of a low-cost model for agents significantly lowers the barrier to entry for keeping coding assistants running constantly and automating terminal tasks. It enables a cost-effective development experience for daily routine code generation and refactoring.",
+    "url": "https://note.com/rinrinlw/n/n26f3d151b881?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[October 15th Breaking News] Massive Japan-US Semiconductor Investment and China's Export Controls｜きつね｜30秒でわかるビジネス解説秘書",
+    "url": "https://note.com/minato_20260000/n/nb1aca6e8ec44?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[October 15th Breaking News] Massive Japan-US Semiconductor Investment and China's Export Controls",
+    "url": "https://note.com/minato_20260000/n/nb1aca6e8ec44?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today's Business Highlights",
+    "url": "https://note.com/minato_20260000/n/nb1aca6e8ec44?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On October 15, 2026, the global business and technology markets were significantly shaken by waves of geopolitics and inflation concerns. From the agreement between Japan and the US to build a massive semiconductor supply chain, to China's proposed export controls on AI-related technologies, and the movements of tech stocks rocking the financial markets, a series of critical news items are set to ",
+    "url": "https://note.com/minato_20260000/n/nb1aca6e8ec44?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Japanese and US Governments Launch First Semiconductor Manufacturing Project under 'Strategic Investment Initiative'",
+    "url": "https://note.com/minato_20260000/n/nb1aca6e8ec44?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On October 15, the Japanese and US governments announced a project to build a semiconductor manufacturing plant in New York State as part of their investment in the US. The total project cost is approximately $10 billion, with plans to expand to about $21 billion in the future. Major US foundry GlobalFoundries will handle operations, and Japanese companies, including equipment and material manufac",
+    "url": "https://note.com/minato_20260000/n/nb1aca6e8ec44?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2. China Announces Draft Export Controls and Bans on 40 Technologies Including AI and Chips",
+    "url": "https://note.com/minato_20260000/n/nb1aca6e8ec44?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "By October 16, the Chinese Ministry of Commerce and other agencies published a draft revision to restrict or ban the export of 40 technologies, including AI, semiconductors, and solar power generation, citing national security reasons. Among these, 23 AI technologies, including large-scale generative AI models and cutting-edge AI agents, are included, further intensifying the high-tech hegemony st",
+    "url": "https://note.com/minato_20260000/n/nb1aca6e8ec44?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[10/03 AI Summary] Nvidia chip smuggling of $300M leads to CEO arrest—regulatory loopholes and price surges, Apple also moves to defend against AI agents｜local_ai",
+    "url": "https://note.com/local_ai/n/n054c06acb0ed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[10/03 AI Summary] Nvidia chip smuggling of $300M leads to CEO arrest—regulatory loopholes and price surges, Apple also moves to defend against AI agents",
+    "url": "https://note.com/local_ai/n/n054c06acb0ed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello. This is **local_ai**.",
+    "url": "https://note.com/local_ai/n/n054c06acb0ed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have summarized the AI-related news announced and reported today (October 03, 2026) in order of importance. I have also included commentary from the perspective of GPUs and infrastructure.",
+    "url": "https://note.com/local_ai/n/n054c06acb0ed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "🔥 1. Tech CEO arrested by US authorities for allegedly smuggling $300 million worth of Nvidia chips to China",
+    "url": "https://note.com/local_ai/n/n054c06acb0ed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "US authorities have arrested a tech company CEO on suspicion of illegally funneling approximately $300 million (about 45 billion yen) worth of high-performance Nvidia chips to China. This marks the first time a criminal case has concretely highlighted the specific routes through which high-performance GPUs are leaking under export controls. While modifying used servers and reselling via third coun",
+    "url": "https://note.com/local_ai/n/n054c06acb0ed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "**Why it matters**: While the effectiveness of export controls is being shaken, it is being confirmed that \"dark market redistribution\" is a factor in the global GPU shortage and price surges. Predicting GPU procurement costs is becoming even more difficult.",
+    "url": "https://note.com/local_ai/n/n054c06acb0ed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "★ 2. [Must Watch] Apple strengthens macOS \"Full Disk Access\" due to rising threat of AI agents",
+    "url": "https://note.com/local_ai/n/n054c06acb0ed?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Insider Tech (@TechInsider) / X What you want to know about tech. A section of @thisisinsider. Follow us on Facebook, Instagram, and YouTube. Visit our homepage for the day's top stories.",
+    "url": "https://x.com/TechInsider",
+    "pass": 3
+   },
+   {
+    "quote": "Bloomberg Technology (@technology) / X News on the global tech industry Watch Bloomberg Tech weekdays on Bloomberg TV at 11 am ET Podcast: https://t.co/8kX0blvfVk Newsletter: https://t.co/CRIkTrOEKi",
+    "url": "https://x.com/technology",
+    "pass": 3
+   },
+   {
+    "quote": "Engineering - blog.x.com Oct 27, 2021 · Information from Twitter's engineering team about our tools, technology and services.",
+    "url": "https://blog.x.com/engineering/en_us",
+    "pass": 3
+   },
+   {
+    "quote": "Xiaomi Tech on X: \"8 hours on the production line. Xiaomi’s ... 2 days ago · 8 hours on the production line. 🤖 Xiaomi’s full-size humanoid robot takes on an 8-hour task at the Center Console Side-Cover Sorting Workstation at Xiaomi Auto Factory. Beyond sustained operation, it can autonomously detect and correct anomalies while coordinating with the production line system…",
+    "url": "https://x.com/XiaomiTech_/status/2117542298238222588",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tech Jobs in United States (11,000+ Open Roles) | LinkedIn Today’s top 11,000+ Tech jobs in United States. Leverage your professional network, and get hired. New Tech jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/tech-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "LinkedIn Top Startups 2026: The 50 U.S. Companies on the Rise Oct 14, 2026 · Defense and space tech are attracting a new wave of startups and investment, with $16.5 billion invested in space tech startups in 2026 so far and companies like Icarus (#40) and Saronic...",
+    "url": "https://news.linkedin.com/2026/top-startups-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Tiffany Janzen - Founder, TiffinTech | Inside AI ... - LinkedInSaurabh Jha - SVP | Global P&L Leader | Business ...LinkedIn | LinkedInLinkedIn Possibilities in Tech Scholarship I interview leaders across the tech industry, including Jensen Huang, Satya Nadella and Mark Zuckerberg, as well as the engineers, researchers and teams working behind the scenes. Through... Apr 4, 2023 · Global P&L Executi",
+    "url": "https://ca.linkedin.com/in/tiffany-janzen",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・本文）": [
+   {
+    "quote": "LinkedIn Top Startups 2026: The 50 U.S. Companies on the Rise",
+    "url": "https://news.linkedin.com/2026/top-startups-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Top Startups list spotlights the companies on the rise, attracting talent and changing the way we work.",
+    "url": "https://news.linkedin.com/2026/top-startups-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Published on Oct 14, 2026",
+    "url": "https://news.linkedin.com/2026/top-startups-2026",
+    "pass": 3
+   },
+   {
+    "quote": "LinkedIn Corporate Communications",
+    "url": "https://news.linkedin.com/2026/top-startups-2026",
+    "pass": 3
+   },
+   {
+    "quote": "A new class of founders and business models is emerging, from younger entrepreneurs to creators building companies and communities.",
+    "url": "https://news.linkedin.com/2026/top-startups-2026",
+    "pass": 3
+   },
+   {
+    "quote": "AI is changing how companies are built and run, while helping startups reinvent industries from healthcare to logistics.",
+    "url": "https://news.linkedin.com/2026/top-startups-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Starting a company is becoming more accessible and more competitive. AI is giving founders new ways to build products, automate work and operate with leaner teams. In fact, four in 10 professionals globally say AI has made them more likely to start a business. But as more ideas become companies, breaking through is getting harder.",
+    "url": "https://news.linkedin.com/2026/top-startups-2026",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Tech Times - Facebook Tech Times. 86,040 followers · 51 talking about this. News about Silicon Valley Companies, Technology Innovations, and Other Cool Stuff. TechTimes.com",
+    "url": "https://www.facebook.com/TechTimesNews/",
+    "pass": 3
+   },
+   {
+    "quote": "Insider Tech - FacebookTech at MetaTech at Meta: AI, AR/VR, Connectivity, Innovation - Tech at MetaEngineering and Technology Group | FacebookIntentional Parenting in a World of Tech | FacebookTech Providers - Meta for Developers Oct 23, 2026 · Insider Tech. 14,457,427 followers · 11,751 talking about this. Tech Insider is brought to you by Business Insider, a global newsroom covering business,...",
+    "url": "https://www.facebook.com/techinsider/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech at Meta https://tech.facebook.com/reality-labs/2023/4/boz-to-the-future-episode-13-john-carmack/Tue, 04 Apr 2023 05:00:00In today’s episode, our host Andrew “Boz” Bosworth is joined by John Carmack, former Reality Labs Consulting CTO who is currently heading up AGI at Keen Technologies.",
+    "url": "https://tech.facebook.com/feed/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech at Meta: AI, AR/VR, Connectivity, Innovation - Tech at Meta Tech at Meta shares how Meta's innovative technology is connecting the world today and the steps we're taking now to help realize the full social potential of the metaverse in the future.",
+    "url": "https://tech.facebook.com/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・本文）": [
+   {
+    "quote": "https://tech.facebook.com/",
+    "url": "https://tech.facebook.com/feed/",
+    "pass": 3
+   },
+   {
+    "quote": "Stay up to date on the latest tech Meta is building and hear from top",
+    "url": "https://tech.facebook.com/feed/",
+    "pass": 3
+   },
+   {
+    "quote": "thought leaders across AI, AR/VR, engineering, connectivity and gaming.",
+    "url": "https://tech.facebook.com/feed/",
+    "pass": 3
+   },
+   {
+    "quote": "Wed, 07 Jun 2023 07:40:56 -0700",
+    "url": "https://tech.facebook.com/feed/",
+    "pass": 3
+   },
+   {
+    "quote": "Boz to the Future Episode 14: The Future According to Jason Rubin",
+    "url": "https://tech.facebook.com/feed/",
+    "pass": 3
+   },
+   {
+    "quote": "https://tech.facebook.com/reality-labs/2023/6/boz-to-the-future-episode-14-the-future-according-to-jason-rubin/",
+    "url": "https://tech.facebook.com/feed/",
+    "pass": 3
+   },
+   {
+    "quote": "Wed, 07 Jun 2023 02:40:56",
+    "url": "https://tech.facebook.com/feed/",
+    "pass": 3
+   },
+   {
+    "quote": "<![CDATA['dept/ar-vr']]>",
+    "url": "https://tech.facebook.com/feed/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech at Meta: AI, AR/VR, Connectivity, Innovation - Tech at Meta",
+    "url": "https://tech.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Bringing the future into focus",
+    "url": "https://tech.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Meta CTO & Head of Reality Labs Andrew Bosworth reflects on how far our industry has come — and on why things are about to accelerate once again.",
+    "url": "https://tech.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Boz to the Future Episode 14: The Future According to Jason Rubin",
+    "url": "https://tech.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The Making of Ray-Ban Stories",
+    "url": "https://tech.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ray-Ban Stories Adds New Features and Support for Meta Accounts",
+    "url": "https://tech.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "From servers to silicon, how Meta infrastructure VP Alexis Bjorlin is building the foundation for the company’s A.I.-driven future",
+    "url": "https://tech.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Meta x BMW Research Update: Taking AR/VR Experiences on the Road",
+    "url": "https://tech.facebook.com/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://naturaltech.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://naturaltech.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://naturaltech.jp/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://te-ch.co.jp/会社概要/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://gvatech.co.jp/aboutus/company",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.techfun.co.jp/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zukaikeizai.com/kaisha/415A/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gurafu.net/jpn/gmo-tech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zukaikeizai.com/kaisha/4055/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wheat-biz.com/fp/tech-startup-fundraising-finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elephantech.com/news/press_release_20231101/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://legalontech.jp/9581/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sojitz-ti.com/ja/casestudy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.mynavi.jp/techplus/casestudy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toshibatec.co.jp/casestudy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thing-tech.com/client/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techno-labo.co.jp/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ictlink.jp/%E4%B8%BB%E8%A6%81%E5%8F%96%E5%BC%95%E5%85%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rinrinlw/n/n26f3d151b881?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/minato_20260000/n/nb1aca6e8ec44?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/local_ai/n/n054c06acb0ed?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TechInsider",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/technology",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://blog.x.com/engineering/en_us",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/tech-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://news.linkedin.com/2026/top-startups-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/in/tiffany-janzen",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TechTimesNews/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/techinsider/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tech.facebook.com/feed/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tech.facebook.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/XiaomiTech_/status/2117542298238222588",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tech 会社概要 資本金 設立",
+   "results": [
+    "https://te-ch.co.jp/会社概要/",
+    "https://gvatech.co.jp/aboutus/company",
+    "https://www.techfun.co.jp/aboutus/",
+    "https://www.sojitz-ti.com/ja/company/gaiyo.html",
+    "https://www.technopro.com/aboutus/company-profile/",
+    "https://www.tech-zone.co.jp/profile.html",
+    "https://www.kk-tech.co.jp/history.html"
+   ]
+  },
+  {
+   "query": "Tech 事業内容 売上",
+   "results": [
+    "https://zukaikeizai.com/kaisha/415A/",
+    "https://gurafu.net/jpn/gmo-tech",
+    "https://zukaikeizai.com/kaisha/4055/",
+    "https://kigyo-scope.jp/company/298A/",
+    "https://finance.logmi.jp/articles/385540",
+    "https://kitaishihon.com/company/298A/business",
+    "https://codecraft1129.com/posts/it-company-power-ranking/",
+    "https://news.mynavi.jp/techplus/article/20261027-5199063/"
+   ]
+  },
+  {
+   "query": "Tech 資金調達 株主",
+   "results": [
+    "https://wheat-biz.com/fp/tech-startup-fundraising-finance/",
+    "https://elephantech.com/news/press_release_20231101/",
+    "https://legalontech.jp/9581/",
+    "https://techcreate.balubo.jp/topics/startup-funding",
+    "https://elephantech.com/news/press_release_20240329/",
+    "https://biz-journal.jp/company/post_396427.html",
+    "https://techmagic.co.jp/release_240327/",
+    "https://jp.smartround.com/public/articles/fundraising/fl1"
+   ]
+  },
+  {
+   "query": "Tech 導入事例",
+   "results": [
+    "https://www.sojitz-ti.com/ja/casestudy.html",
+    "https://news.mynavi.jp/techplus/casestudy/",
+    "https://www.toshibatec.co.jp/casestudy/",
+    "https://news.mynavi.jp/techplus/casestudy/theme/",
+    "https://jpn.nec.com/case/index.html",
+    "https://it-trend.jp/case",
+    "https://www.itmedia.co.jp/enterprise/subtop/casestudy/index.html"
+   ]
+  },
+  {
+   "query": "Tech 主要取引先",
+   "results": [
+    "https://thing-tech.com/client/",
+    "https://www.techno-labo.co.jp/partners/",
+    "https://ictlink.jp/主要取引先/",
+    "https://mitsuwa.co.jp/company/connection/",
+    "https://ritsuan.com/company/business/",
+    "https://www.ndc-net.co.jp/company/main_customer/",
+    "https://www.nttdata.com/global/ja/about-us/proc/partner/"
+   ]
+  },
+  {
+   "query": "site:note.com Tech",
+   "results": [
+    "https://note.com/rinrinlw/n/n26f3d151b881?hl=en",
+    "https://note.com/carbon4322/n/nccbeea9cce02?hl=en",
+    "https://note.com/minato_20260000/n/nb1aca6e8ec44?hl=en",
+    "https://note.com/local_ai/n/n054c06acb0ed?hl=en",
+    "https://note.com/yuuji_ai_news/n/n8ada39648bfe?hl=en",
+    "https://note.com/cherio2016/n/naf02ac349553?hl=en",
+    "https://note.com/tokyomakers/n/n2a3189f61f84?hl=en",
+    "https://note.com/rinrinlw/n/nc20af341b303?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com Tech",
+   "results": [
+    "https://x.com/TechInsider",
+    "https://x.com/technology",
+    "https://about.x.com/en",
+    "https://blog.x.com/engineering/en_us",
+    "https://blog.x.com/en/product/introducing-a-new-twitter-dot-com",
+    "https://help.x.com/en",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://blog.x.com/en/company/building-the-future-of-x"
+   ]
+  },
+  {
+   "query": "site:linkedin.com Tech",
+   "results": [
+    "https://www.linkedin.com/jobs/tech-jobs",
+    "https://news.linkedin.com/2026/top-startups-2026",
+    "https://www.linkedin.com/pulse/linkedin-top-startups-2025-50-us-companies-rise-linkedin-news-hox6f/",
+    "https://ca.linkedin.com/in/tiffany-janzen",
+    "https://in.linkedin.com/in/saurabhjha",
+    "https://in.linkedin.com/company/linkedin",
+    "https://careers.linkedin.com/pathways-programs/possibilities-scholarship"
+   ]
+  },
+  {
+   "query": "site:facebook.com Tech",
+   "results": [
+    "https://www.facebook.com/TechTimesNews/",
+    "https://www.facebook.com/techinsider/",
+    "https://tech.facebook.com/feed/",
+    "https://tech.facebook.com/",
+    "https://business.facebook.com/groups/engintech/",
+    "https://business.facebook.com/groups/268769745592829/",
+    "https://developers.facebook.com/docs/development/release/tech-providers/",
+    "https://www.facebook.com/TheTechInteractive/",
+    "https://business.facebook.com/groups/1214487132650319/",
+    "https://business.facebook.com/groups/collincountyttaa/"
+   ]
+  },
+  {
+   "query": "Tech note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/深津貴之_(デザイナー)",
+    "https://note.com/tech_boss",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ]
+  },
+  {
+   "query": "Tech X 投稿",
+   "results": [
+    "https://tech-x.jp/",
+    "https://techxmedia.com/en/",
+    "https://tech-x.global/",
+    "https://x.com/XiaomiTech_/status/2117542298238222588",
+    "https://photo-tools.tech/",
+    "https://x-sou.com/ja",
+    "https://techgym.jp/column/x-twitter/",
+    "https://zhuanlan.zhihu.com/p/660460090"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）",
+  "代表者": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）"
+ }
+}

@@ -1,0 +1,797 @@
+{
+ "name": "InsWill",
+ "aliases": [
+  "inswill"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T14:49:07.619158+00:00",
+ "official_url": "https://inswill.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "東京都港区芝大門1-3-5 芝大門スクエア2F 03-6823-7147",
+    "url": "https://inswill.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "東京都港区芝大門1丁目3-5 芝大門スクエア2階",
+    "url": "https://best100.v-tsushin.jp/company/inswill/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2022年 5月",
+    "url": "https://inswill.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "50名",
+    "url": "https://inswill.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "生命保険の募集に関する業務 損害保険代理業",
+    "url": "https://inswill.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "・生命保険、損害保険の総合保険代理店事業 ・ライフプランコンサルティング事業",
+    "url": "https://best100.v-tsushin.jp/company/inswill/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "坂本　達真",
+    "url": "https://inswill.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "この業界で、いかに保険を契約してもらうか？という小手先の販売術ばかりが先行した結果です",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは保険代理店として事業を展開していますが、単に保険商品を販売することだけが目的ではありません",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の保険外交員の売上上位10%にあたる「MDRT」会員に到達すれば、年収1,000万円も夢ではありませんが、その一方で借金だけが残り、生活すらままならない人は多くいます",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで当社では、マーケティング会社と連携し、Web上で集めた顧客を保険外交員に紹介しています",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "この「商談スクリプト」は、世界で上位0.01%の売上水準を満たした者しか得られない「TOT」の私と、同じく上位1%の「COT」である当社COOの武内で作成しています",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "弊社は、日本を代表する生命保険会社各社で経験を積んだ優秀ランナーが集い、「資産形成「生命保険」「医療保険」「損害保険」をご提案している総合保険代理店です",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は、日本を代表する生命保険会社各社で経験を積んだ優秀なプランナーが集い、「資産形成」「生命保険」「医療保険」「損害保険」をご提案している総合保険代理店です",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "大手保険会社からニッチな課題に強みを持つ中規模の保険会社まで、",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "数多くある生命保険会社の中から選りすぐりの商品を取り揃え、お客様に適切な商品を組み合わせてご提案しております",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "保険は買って終わりの商品ではなく、買ってからが始まりの商品です",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "保険ありきではない資産形成のご提案ができる",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は、日本を代表する生命保険会社各社で経験を積んだ優秀なプランナーが集い、「",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日々さまざまなお客様と相対する中で『内容がわからないけど保険に入っている』状態の方が非常に多いと感じております",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "社名の由来でもある【意志ある保険契約】を多くのお客様にお届けしたい",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「真っ当な保険募集人」を日本中に流通させるためにジョインしました",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本では93%の人が「自分が契約した保険内容や料金に納得していない」というデータがあります",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "この業界で、いかに保険を契約してもらうか？という小手先の販売術ばかりが先行した結果です",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「ウソのない真っ直ぐでbestな提案」を追求するInsWillの保険募集人をエンパワーメントすることで、納得感のある保険業界をつくりたい",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "保険で役立つのはもちろんのことワンストップサービスでその他でも役に立てることが所属している理由です",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "保険会社、種類が溢れかえっている今の時代に「意思」のある保険契約を",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、保険周りのご相談ごとを社内ワンストップで解消できる代理店は他にないと感じております",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生命保険は使い方次第で多様な役割を果たします",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "そんな生命保険の正しい入り方をお伝えさせて頂きます！",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のライフプランをよりベストにしていく為に、生命保険を通じて長期的に考えていただける環境",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生命保険はもちろんのこと、「佐用に聞いたらだいたいのことは解決できる」とお客様に頼っていただけるようなホールパーソンを目指していきます",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "昨今、生命保険の情報量は増え続け加入経路は多岐にわたります",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "数多く存在する保険の中から取捨選択し、納得の上で加入いただきたいと思っております",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "保険を通してお客様の人生にとって大切な選択をサポートできる環境がInsWill にあります",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "保険の相談だけでなく、人生の相談に寄り添えるプランナーを目指します",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生命保険業界は離職率が高く、それがお客様のご不安やご不利益につながることも少なくありません",
+    "url": "https://inswill.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プルデンシャル ジブラルタ ファイナンシャル生命保険株式会社",
+    "url": "https://inswill.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "厚生年金保険・健康保険適用事業所検索システム",
+    "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4011001147420",
+    "pass": 3
+   },
+   {
+    "quote": "“正直で売れない” 保険屋のためのV字回復プラットフォーム",
+    "url": "https://best100.v-tsushin.jp/company/inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "・生命保険、損害保険の総合保険代理店事業",
+    "url": "https://best100.v-tsushin.jp/company/inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "保険業界は、「押しが強いTHE営業マン」が結果を出すケースが100%と言っても過言ではありません",
+    "url": "https://best100.v-tsushin.jp/company/inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、私の場合性格上、時には保険に興味のないお客様に強気なクロージングをする、なかば押し売りのような営業はどうしても難しく、時代にも合っていないと感じていました",
+    "url": "https://best100.v-tsushin.jp/company/inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "マネージャー陣から「ぬるいわ」といった反対もありましたが、結果として30歳で個人保険のみでTOTの成果も得られました",
+    "url": "https://best100.v-tsushin.jp/company/inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "ニーズが高いお客様を集めて、罪悪感や押し売りなしに保険をお預かりできる育成プラットフォームを作った結果、これまで日の当たらなかった真面目な保険屋たちが、どんどん売れるようになったことが弊社の成長要因です",
+    "url": "https://best100.v-tsushin.jp/company/inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは “保険が売れていた時代の武勇伝” を教育として押し付けることはしません",
+    "url": "https://best100.v-tsushin.jp/company/inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "ネットを調べれば「保険不要論」が目に入る時代に、合理性をもって選ばれる営業スキルを学んでいただきます",
+    "url": "https://best100.v-tsushin.jp/company/inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "営業教育はCOT/TOT経験者のみが行います",
+    "url": "https://best100.v-tsushin.jp/company/inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "保険営業でトップを極めた気鋭の代表が上げる変革への狼煙",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "保険業界の「悪しき常識」を覆し、「幸福な営業モデル」を構築する",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "前職で、保険外交員全体の0.01%しか認められない「TOT(※)」の会員にまで登りつめた同氏は「社員が不幸を背負って営業する現状を打破する新たな営業モデルこそ、顧客に寄り添い、業界を変える近道」だと語る",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "※TOT : 世界中の生命保険・金融専門家組織「MDRT」における最上位の会員資格",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年、プルデンシャル生命保険株式会社に入社",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは保険代理店として事業を展開していますが、単に保険商品を販売することだけが目的ではありません",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちがめざすのは、顧客にとって「一生涯のベストパートナー」であり続けることです",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "じつは、顧客が保険外交員に求めるのは、商品の良し悪しよりも、アフターフォローや資産形成のアドバイスなどが多くを占めるということが、これまでの調査で明らかになっています",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "しかしその一方で、業界の現状は保険外交員の2年離職率が6～8割に達しており、顧客が困ったときに「担当者がもういない」という事態が頻発しています",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "保険外交員の離職を食い止めることが、顧客満足度を高める重要な要素となるはずですが、そのためには、業界の構造そのものを変革する必要があると考えています",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "現状では、保険外交員が「不幸」を背負うのが業界の「悪しき常識」だからです",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "保険外交員は、法的には個人事業主に分類され、歩合によって給与が変動するうえ、交通費などの実費はすべて自己負担です",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の保険外交員の売上上位10%にあたる「MDRT」会員に到達すれば、年収1,000万円も夢ではありませんが、その一方で借金だけが残り、生活すらままならない人は多くいます",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、私は保険外交員の「幸福」を出発点に考え、社員がお金に困らず、精神的に満たされ、この仕事に誇りを持って続けられる環境をつくるため、InsWillを立ち上げました",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "その結果として、顧客に最高品質のサービスを提供し続ける",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "保険外交員の大きな悩みは、顧客面談をどう取り付け、見込み客を獲得するかという点です",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで当社では、マーケティング会社と連携し、Web上で集めた顧客を保険外交員に紹介しています",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "実際、当社には数百万円の借金を抱えて入社し、夜はバーでアルバイトをしながら、ひたむきに保険営業に取り組んで、見事MDRTに到達したメンバーもいます",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "このメンタルがあるからこそ、顧客の悩みに対しても真摯になり、高品質なサービスを提供できる",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "―最後に、現状に悩みを抱く保険外交員にメッセージをお願いします",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "私は、保険外交員の「幸福」を起点に、顧客にも「幸福」を循環する仕組みで、「保険にかかわる全ての人を幸福にする」というビジョンを実現していきます",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、この業界を「まともな人材が育ち、顧客に感謝される業界」へと変えていく覚悟です",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "企業 概要 - 株式会社InsWill — 企業 概要 - 株式会社InsWill 株式会社InsWill https://inswill.jp > company",
+    "url": "https://inswill.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社InsWill | 4011001147420 - Gビズインフォ — 株式 会社InsWill | 4011001147420 - Gビズインフォ info.gbiz.go.jp https://info.gbiz.go.jp > hojin > ichiran",
+    "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4011001147420",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社InsWill ｜法人番号 4011001147420｜東京都 ... — 株式 会社InsWill ｜法人番号 4011001147420｜東京都 ... 法律人 LawPlayer https://lawplayer.com > 日本法令検索 > 法人情報",
+    "url": "https://lawplayer.com/jp/company/4011001147420",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 InsWill （東京都）の 会社概要 ・役員 — 株式会社 InsWill （東京都）の 会社概要 ・役員 Compalyze https://compalyze.co.jp > 企業検索 > 生命保険",
+    "url": "https://compalyze.co.jp/company/4011001147420",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社InsWill - 東京都・保険代理店業界の企業情報 — 株式 会社InsWill - 東京都・保険代理店業界の企業情報 Baseconnect https://baseconnect.in > companies",
+    "url": "https://baseconnect.in/companies/0d4e22a7-a1cb-4c5e-a5b4-2bd818abc652",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 InsWill 坂本 達真 - ベストベンチャー100 — 株式会社 InsWill 坂本 達真 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > inswill",
+    "url": "https://best100.v-tsushin.jp/company/inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要 - 株式会社InsWill — 企業概要 - 株式会社InsWill 株式会社InsWill https://inswill.jp > company",
+    "url": "https://inswill.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 InsWill （東京都）の会社概要・役員 — 株式会社 InsWill （東京都）の会社概要・役員 Compalyze https://compalyze.co.jp > 企業検索 > 生命保険",
+    "url": "https://compalyze.co.jp/company/4011001147420",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 InsWill 代表取締役 坂本 達真｜ベンチャー通信Online — 株式会社 InsWill 代表取締役 坂本 達真｜ベンチャー通信Online ベンチャー通信Online https://v-tsushin.jp > interview > vt94_inswill",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/2/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要 | 株式会社InsWill — 概要 会社名 株式会社InsWill 本社 東京都港区芝大門1-3-5 芝大門スクエア2F 03-6823-7147 設立 2022年 5月 従業員数 50名 事業内容 生命保険の募集に関する業務 損害保険代理業 引受保険 会社 【生命保険会社】 オリックス生命保険株式会社 第一フロンティア生命保険 ...",
+    "url": "https://inswill.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社InsWill — InsWillに所属する理由 信頼し続けられる担当者であることを使命に、お客様のライフプランを一緒に考え、一人一人に合ったベストなご提案をさせていただけること。 そして、お客様の為に学び続け、自分の成長の為に高められる環境。 生涯プランナー人生！",
+    "url": "https://inswill.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "InsWill の企業情報 | バフェット・コード — InsWillの基本情報 ... 社員数（月次） 従業員数 2… 24.11 25.1 25.3 25.5 25.7 25.9 25.11 26.1 26.3 26.5 26.7 26.9",
+    "url": "https://www.buffett-code.com/company/9jwzodeay9/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社InsWill 代表取締役 坂本 達真｜ベンチャー通信Online — InsWill代表の坂本氏だ。 前職で、保険外交員全体の0.01%しか認められない「TOT (※)」の会員にまで登りつめた同氏は「社員が不幸を背負って営業する現状を打破する新たな営業モデルこそ、顧客に寄り添い、業界を変える近道」だと語る。",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社InsWill (東京都港区)の企業情報|カイシャリサーチ — May 12, 2022 · 株式会社InsWillに関する所在地や法人番号に関する情報、業種や資本金などの会社概要、許可情報などの業界特有データ等の会社情報をまとめました。",
+    "url": "https://kaisharesearch.com/company/detail/4011001147420/",
+    "pass": 3
+   },
+   {
+    "quote": "お取り扱いサービス | 株式会社InsWill — InsWillでは、相続対策を目的とした資産評価額と課税額の試算から、公認会計士や税理士などとタイアップし、トータル的な対策に対して最適なご提案をさせて頂きます。 「生前贈与したい、家族が亡くなった」 「相続対策に関して気になること」",
+    "url": "https://inswill.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社InsWill 代表取締役 坂本 達真｜ベンチャー通信Online — そこで、私は保険外交員の「幸福」を出発点に考え、社員がお金に困らず、精神的に満たされ、この仕事に誇りを持って続けられる環境をつくるため、InsWillを立ち上げました。 その結果として、顧客に最高品質のサービスを提供し続ける。",
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社InsWill（インスウィル）の評判・口コミは？MDRT達成率や保険... — InsWillは特定の保険会社に属さない独立系の乗合代理店であり、生命保険14社、損害保険1社の商品を取り扱っています。 1社専属の代理店とは異なり、顧客のニーズに合わせて複数の選択肢から商品を組み合わせた提案を受けることが可能です。",
+    "url": "https://well-lab.jp/inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Inswillの評判や口コミは？会社の特徴や転職する人の傾向を解... — May 9, 2025 · そんな中、設立からわずか数年で急成長を遂げている株式会社Inswillという会社をご存知でしょうか？ 本コラムでは、FP業界特化型転職アドバイザーとして、Inswillの会社概要や強み、そして同社に転職する方の特徴や傾向を詳しく解説していきます。",
+    "url": "https://fp-wanted.com/column/657",
+    "pass": 3
+   }
+  ],
+  "選出の記録": [
+   {
+    "quote": "株式会社InsWill 坂本 達真 | ベストベンチャー100",
+    "url": "https://best100.v-tsushin.jp/company/inswill/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "InsWill｜note 南葛SCとのパートナー契約締結および更新のお知らせ InsWill 8か月前 8か月前",
+    "url": "https://note.com/inswill",
+    "pass": 3
+   },
+   {
+    "quote": "「札幌スペース」オープンのお知らせ｜InsWill Feb 26, 2026 · Google Maps Find local businesses, view maps and get driving directions i maps.app.goo.gl InsWill",
+    "url": "https://note.com/inswill/n/nefe95a289ee0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "南葛SCとのパートナー契約締結および更新のお知らせ",
+    "url": "https://note.com/inswill",
+    "pass": 3
+   },
+   {
+    "quote": "アンギーゼYouTubeチャンネルに代表・坂本達真が出演いたしました",
+    "url": "https://note.com/inswill",
+    "pass": 3
+   },
+   {
+    "quote": "「札幌スペース」オープンのお知らせ｜InsWill",
+    "url": "https://note.com/inswill/n/nefe95a289ee0",
+    "pass": 3
+   },
+   {
+    "quote": "このたび事業拡大および北海道エリアでのサービス向上を目的として、札幌市に新たに",
+    "url": "https://note.com/inswill/n/nefe95a289ee0",
+    "pass": 3
+   },
+   {
+    "quote": "札幌スペースでは、地域に根ざしたサポート体制を強化し、より迅速かつ丁寧な対応を実現してまいります。 今後とも変わらぬご支援を賜りますようお願い申し上げます🍀",
+    "url": "https://note.com/inswill/n/nefe95a289ee0",
+    "pass": 3
+   },
+   {
+    "quote": "〒060-0008 北海道札幌市中央区北八条西15丁目28-178",
+    "url": "https://note.com/inswill/n/nefe95a289ee0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "”inswill” Jobs in United States (11,000+ Open Roles) | LinkedIn Today’s top 11,000+ ”inswill” jobs in United States. Leverage your professional network, and get hired. New ”inswill” jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/　”inswill”-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Inswill What Company jobs in United States - LinkedIn Today's top Inswill What Company jobs in United States. Leverage your professional network, and get hired. New Inswill What Company jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/inswill-what-company-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Daiki Mori - 総合保険代理店 - InsWill 執行役員 | LinkedIn 人材派遣以外でも、業務委託や人材紹介等幅広いソリューション営業を行なっておりました。 部内MVP3度受賞。 その後プルデンシャル生命保険にて営業として生命保険営業に従事し、現在は総合保険代理店の株式会社InsWillに転籍。",
+    "url": "https://jp.linkedin.com/in/daiki-mori-728209163",
+    "pass": 3
+   },
+   {
+    "quote": "Aaron Malins - The Growth Company | LinkedIn山川 遼太 - 株式会社Inswill 株式会社Growith | LinkedInJames Dodkins - Carsino | LinkedInJudit Csenge Vizi - AI Enablement Coach | Change Management ... Experience: The Growth Company · Education: ACCA · Location: United Kingdom · 500+ connections on LinkedIn. View Aaron Malins’ profile on LinkedIn, a professional community of 1 billion members. 株式会社Inswill 株式会社Growi",
+    "url": "https://uk.linkedin.com/in/aaronmalins",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "John Inswill Profiles | Facebook View the profiles of people named John Inswill. Join Facebook to connect with John Inswill and others you may know. Facebook gives people the power to...",
+    "url": "https://www.facebook.com/public/John-Inswill/",
+    "pass": 3
+   },
+   {
+    "quote": "Soumu InsWill - Facebook Soumu InsWill is on Facebook. Join Facebook to connect with Soumu InsWill and others you may know. Facebook gives people the power to share and makes the...",
+    "url": "https://www.facebook.com/profile.php/?id=61570789646088",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://inswill.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inswill.jp/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4011001147420",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lawplayer.com/jp/company/4011001147420",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://best100.v-tsushin.jp/company/inswill/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/4011001147420",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/9jwzodeay9/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://v-tsushin.jp/interview/vt94_inswill/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/inswill",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/inswill/n/nefe95a289ee0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/　”inswill”-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/inswill-what-company-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/daiki-mori-728209163",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/aaronmalins",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/public/John-Inswill/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/profile.php/?id=61570789646088",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/inswill",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "InsWill 会社概要 資本金 設立",
+   "results": [
+    "https://inswill.jp/company/",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4011001147420",
+    "https://lawplayer.com/jp/company/4011001147420",
+    "https://compalyze.co.jp/company/4011001147420",
+    "https://baseconnect.in/companies/0d4e22a7-a1cb-4c5e-a5b4-2bd818abc652",
+    "https://houjin.jp/c/4011001147420",
+    "https://alarmbox.jp/companyinfo/entities/4011001147420",
+    "https://eigyo-go.com/company/2275358",
+    "https://inswill.jp/",
+    "https://kaisharesearch.com/company/detail/4011001147420/"
+   ]
+  },
+  {
+   "query": "InsWill 事業内容 売上",
+   "results": [
+    "https://best100.v-tsushin.jp/company/inswill/",
+    "https://inswill.jp/company/",
+    "https://compalyze.co.jp/company/4011001147420",
+    "https://v-tsushin.jp/interview/vt94_inswill/2/",
+    "https://note.com/jinsei_buchiage/n/n0c5a9268bf83",
+    "https://v-tsushin.jp/interview/vt94_inswill/",
+    "https://inswill.jp/recruit/",
+    "https://www.youtube.com/watch?v=8RW1eQAZ3Mw",
+    "https://alarmbox.jp/companyinfo/entities/4011001147420",
+    "https://inswill.jp/"
+   ]
+  },
+  {
+   "query": "InsWill 資金調達 株主",
+   "results": [
+    "https://inswill.jp/company/",
+    "https://inswill.jp/",
+    "https://www.buffett-code.com/company/9jwzodeay9/",
+    "https://v-tsushin.jp/interview/vt94_inswill/",
+    "https://kaisharesearch.com/company/detail/4011001147420/",
+    "https://compalyze.co.jp/company/4011001147420",
+    "https://best100.v-tsushin.jp/company/inswill/"
+   ]
+  },
+  {
+   "query": "InsWill 導入事例",
+   "results": [
+    "https://inswill.jp/",
+    "https://inswill.jp/service/",
+    "https://v-tsushin.jp/interview/vt94_inswill/",
+    "https://well-lab.jp/inswill/",
+    "https://fp-wanted.com/column/657",
+    "https://best100.v-tsushin.jp/company/inswill/",
+    "https://note.com/jinsei_buchiage/n/n0c5a9268bf83"
+   ]
+  },
+  {
+   "query": "InsWill 主要取引先",
+   "results": []
+  },
+  {
+   "query": "site:note.com InsWill",
+   "results": [
+    "https://note.com/inswill",
+    "https://note.com/inswill/n/nefe95a289ee0",
+    "https://note.com/insyokubouzu/n/ne50e09191813?hl=en",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/jinsei_buchiage/n/n0c5a9268bf83",
+    "https://note.com/naotakakusunoki/n/n24ae8b90b73f?hl=en",
+    "https://note.com/jinseirestart40/n/nb4a9762ee3e1?hl=en",
+    "https://note.com/ayumuttyo1201",
+    "https://note.com/ebiten_poikatsu/n/n1ca611d6186d?hl=en",
+    "https://note.com/goutbassmusic/n/ne4a653073fa5"
+   ]
+  },
+  {
+   "query": "site:x.com InsWill",
+   "results": [
+    "https://about.x.com/en",
+    "https://x.com/",
+    "https://help.x.com/en/search-results",
+    "https://x.com/lovergrl2002/status/2114215220327678069",
+    "https://x.com/inS_Nely/status/2115551822270402802",
+    "https://help.x.com/en/rules-and-policies/x-username-squatting",
+    "https://x.com/instagram"
+   ]
+  },
+  {
+   "query": "site:linkedin.com InsWill",
+   "results": [
+    "https://www.linkedin.com/jobs/　”inswill”-jobs",
+    "https://www.linkedin.com/jobs/inswill-what-company-jobs",
+    "https://jp.linkedin.com/in/daiki-mori-728209163",
+    "https://uk.linkedin.com/in/aaronmalins",
+    "https://jp.linkedin.com/in/遼太-山川-2421b7235",
+    "https://uk.linkedin.com/in/jamesdodkins",
+    "https://hu.linkedin.com/in/judit-csenge-vizi"
+   ]
+  },
+  {
+   "query": "site:facebook.com InsWill",
+   "results": [
+    "https://www.facebook.com/public/John-Inswill/",
+    "https://www.facebook.com/profile.php/?id=61570789646088",
+    "https://secure.facebook.com/login/",
+    "https://business.facebook.com/groups/guidancesetsoinsenergetiques/",
+    "https://www.facebook.com/LeinsPerfume/",
+    "https://www.facebook.com/augustinsergo/",
+    "https://www.facebook.com/InsWill.Inc/videos/ぜひ一緒に働きましょう/2111166383007243/"
+   ]
+  },
+  {
+   "query": "InsWill note 社長",
+   "results": [
+    "https://note.com/inswill",
+    "https://v-tsushin.jp/interview/vt94_inswill/",
+    "https://inswill.jp/",
+    "https://inswill.jp/company/",
+    "https://compalyze.co.jp/company/4011001147420",
+    "https://best100.v-tsushin.jp/company/inswill/",
+    "https://note.com/jinsei_buchiage/n/n0c5a9268bf83"
+   ]
+  },
+  {
+   "query": "InsWill X 投稿",
+   "results": [
+    "https://inswill.jp/",
+    "https://inswill.jp/company/",
+    "https://www.instagram.com/inswill/",
+    "https://review-dark.com/theme_detail?theme_id=4645398",
+    "https://instagram.pc-ultimate.com/インスタの投稿をx（旧twitter）に連携・同時シェアす/",
+    "https://x.com/instagram",
+    "https://help.x.com/ja/using-x/x-for-android"
+   ]
+  }
+ ],
+ "missing": {
+  "資本金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部15頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部15頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部15頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部15頁・検索11回）",
+  "客は誰か": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部15頁・検索11回）",
+  "資本金・株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部15頁・検索11回）"
+ }
+}

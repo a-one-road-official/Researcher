@@ -1,0 +1,720 @@
+{
+ "name": "STORiiY",
+ "aliases": [
+  "storiiy"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T14:54:49.983536+00:00",
+ "official_url": "https://storiiy.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社住所",
+    "value": "東京都渋谷区神南1-19-4 日本生命渋谷アネックス7F",
+    "url": "https://storiiy.com/about/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "東京都渋谷区神南1-19-4 日本生命渋谷アネックスビル7F",
+    "url": "https://best100.v-tsushin.jp/company/storiiy/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2019年11月",
+    "url": "https://storiiy.com/about/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "26名（2025年10月現在） インターン：6名",
+    "url": "https://storiiy.com/about/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "9,000,000円",
+    "url": "https://storiiy.com/about/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "900万円",
+    "url": "https://best100.v-tsushin.jp/company/storiiy/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・化粧品の製造、販売、輸出入 ・マーケティングコンサルティング",
+    "url": "https://storiiy.com/about/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "・ブランド･メーカー事業 ・韓国コスメブランド輸入事業 ・トレードマーケティング支援事業 ・ECモールコンサルティング事業",
+    "url": "https://best100.v-tsushin.jp/company/storiiy/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "化粧品を中心とした自社ブランドの商品企画･開発、ブランディング、デザイン、流通戦略、卸売までを全てインハウスで構築",
+    "url": "https://storiiy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "メーカー事業（ホールセール／D2C）",
+    "url": "https://storiiy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "D2Cメーカー、海外企業に向けた戦略的かつ確実に結果を出すオフラインマーケティング支援事業",
+    "url": "https://storiiy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "メーカー事業として化粧品を中心としたブランドの企画・開発・販売･ブランディング、デザイン、流通戦略、卸売までをインハウスで行っています",
+    "url": "https://best100.v-tsushin.jp/company/storiiy/",
+    "pass": 3
+   },
+   {
+    "quote": "20代で広告・販促代理店で7年営業を経験したのちフレグランス・化粧品メーカー兼商社で16年間、マーケティング・ブランド戦略を一貫して経験",
+    "url": "https://best100.v-tsushin.jp/company/storiiy/",
+    "pass": 3
+   },
+   {
+    "quote": "２社の広告・販促代理店での営業を得て、2004年からフレグランス・化粧品メーカー兼商社に入社しました",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "pass": 3
+   },
+   {
+    "quote": "ゼロから携わりたい」と思ったことがきっかけでメーカー兼商社に入社しました",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "pass": 3
+   },
+   {
+    "quote": "営業推進チーム発足し、マーケティング部と営業部の橋渡し的な存在として、また小売流通さんへも営業メンバーに同行して販促年間プランの提案をして年間取り組みに至ったケースも多くあります",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "pass": 3
+   },
+   {
+    "quote": "真っ暗なエントランスからは想像もつかない、エネルギーを放つ2人でした",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "pass": 3
+   },
+   {
+    "quote": "（例えば僕はメガネはずっとZoffで買い続けるし、ヘアワックスは20年くらい同じメーカー",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品メーカーでの8年間を経て、次に選んだのは商材力と事業の幅広さを兼ね備えたオーガニック",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   },
+   {
+    "quote": "専門学校でデザインを学び、新卒で広告制作に携わった後、父と編集プロダクションを立ち上げ約5年間運営",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   },
+   {
+    "quote": "その後、化粧品メーカーで約8年間勤務し、40歳を機に新たな挑戦を決意",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   },
+   {
+    "quote": "専門学校でデザインを学んだ後に、卒業後は広告の制作事務所に入社し、デザイナーとして働き始めました",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   },
+   {
+    "quote": "ただ父が高齢になったこともあり、その会社はいったん畳むことし、その後は中小規模の化粧品メーカーに転職し、約8年間勤務しました",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   },
+   {
+    "quote": "当時は特に業種を絞らず、飲食系や空間デザイン系などを幅広く受けていました",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   },
+   {
+    "quote": "事業の幅広さについては、化粧品だけでなく、医薬品や一次産業、不動産など幅広く事業を展開している点は、面白いと思いました",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   },
+   {
+    "quote": "――実際に働いてみて、他社の化粧品メーカーとの違いはどんな点にありますか？",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   },
+   {
+    "quote": "自社ブランドだけでなく、他社商品の卸支援を行っていることが大きな違いです",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   },
+   {
+    "quote": "デザインチームとしても、他社商品の販促物デザインやクライアントとの調整に携わることがあるのですが、化粧品に限らず、健康食品など自社では作らない商材に触れられるため、デザインの幅や制作フローも異なり、自分の市場価値や貢献範囲が大きく広がる実感があります",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   }
+  ],
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "・化粧品の製造、販売、輸出入",
+    "url": "https://storiiy.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "STORiiY 売上45億円",
+    "url": "https://best100.v-tsushin.jp/company/storiiy/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー事業として化粧品を中心としたブランドの企画・開発・販売･ブランディング、デザイン、流通戦略、卸売までをインハウスで行っています",
+    "url": "https://best100.v-tsushin.jp/company/storiiy/",
+    "pass": 3
+   },
+   {
+    "quote": "瞬間的な売上ではなく、ブランドを育てていきたい",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "pass": 3
+   },
+   {
+    "quote": "メンズ香水、ライトフレグランスでは、カテゴリー内における売上を日本一に押し上げました",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "pass": 3
+   },
+   {
+    "quote": "また、男性は「気に入ったものは長く愛用する」という特徴があり、一度気に入ってもらえれば、ビジネスとしても安定的な収益が見込めます",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "pass": 3
+   },
+   {
+    "quote": "専門学校でデザインを学び、新卒で広告制作に携わった後、父と編集プロダクションを立ち上げ約5年間運営",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   },
+   {
+    "quote": "父と一緒に小さな編集プロダクションを立ち上げ、5年ほど運営しました",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "STORiiY株式会社 — STORiiY株式会社では化粧品を中心とした自社ブランドの商品企画･開発、ブランディング、デザイン、流通戦略（オンライン・オフライン）卸売までを全てインハウスで完結。 売上と利益の最大化のためにマーケティング支援サービスも展開しております。",
+    "url": "https://storiiy.com/",
+    "pass": 3
+   },
+   {
+    "quote": "STORiiY株式会社（東京都）の会社概要・役員 | Compalyze — 〒150-0041 東京都渋谷区に本社を置くSTORiiY株式会社の企業情報。 STORiiY株式会社は、「オンオフ統合マーケティング」と「クロス戦略」を強みとし。 製造業 (日用品・化粧品)、2019年設立。 代表者 渡辺真大。 役員1名。",
+    "url": "https://compalyze.co.jp/company/2011001131079",
+    "pass": 3
+   },
+   {
+    "quote": "STORiiY株式会社の企業情報 - 転職はアンドプロ — STORiiY株式会社の企業情報をご紹介。 業界・職種ごとの専任コンサルタントがあなたに最適な選択肢を提案する転職・キャリア支援サービス「アンドプロ」。 キャリア相談から求人紹介、面接対策や応募書類作成をお手伝いします。",
+    "url": "https://and-pro.jp/company-info-46305/",
+    "pass": 3
+   },
+   {
+    "quote": "STORiiY株式会社 渡辺 真大 | ベストベンチャー100ABOUT COMPANY - pyt-official.comSTORiiY株式会社 (東京都渋谷区)の企業情報|カイシャリサーチ — STORiiYは今後、複数の事業・ブランドを内包するコングロマリット経営へと進化していきます。 各事業をカンパニー制で自立させ、意思決定のスピードと専門性を高めながら、グループ全体としてはマーケティング、流通、バックオフィスなどの基盤を共有。 ABOUT COMPANY - pyt-official.com ... ABOUT COMPANY 法人概要 STORiiY株式会社の本店所在地、業種、社員数、連絡先などに関する情報です。 登記上の本店住所 〒150-0041 東京都渋谷区神南1丁目19番4号 本店所在地の地図",
+    "url": "https://best100.v-tsushin.jp/company/storiiy/",
+    "pass": 3
+   },
+   {
+    "quote": "STORiiY株式会社 (東京都渋谷区)の企業情報|カイシャリサーチ — 法人概要 STORiiY株式会社の本店所在地、業種、社員数、連絡先などに関する情報です。 登記上の本店住所 〒150-0041 東京都渋谷区神南1丁目19番4号 本店所在地の地図",
+    "url": "https://kaisharesearch.com/company/detail/2011001131079/",
+    "pass": 3
+   },
+   {
+    "quote": "STORiiY株式会社 渡辺 真大 | ベストベンチャー100化粧品メーカー事業 - STORiiY Inc.STORIES合同会社【博報堂グループ】の2027年度会社概要 | マイナビ202...STORiiY株式会社の事業とカルチャー - WantedlySTORIES合同会社【博報堂DYグループ】の会社概要 | マイナビ2027STORIES の企業情報 | バフェット・コード — STORiiYは今後、複数の事業・ブランドを内包するコングロマリット経営へと進化していきます。 各事業をカンパニー制で自立させ、意思決定のスピードと専門性を高めながら、グループ全体としてはマーケティング、流通、バックオフィスなどの基盤を共有。 これはイケる。 やろう。 をやろう。 STORiiYは、自社ブランドの開発・ブランディングから商品企画、デザイン、販売戦略、PR･プロモーション戦略流通（オンライン",
+    "url": "https://best100.v-tsushin.jp/company/storiiy/",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品メーカー事業 - STORiiY Inc. — これはイケる。 やろう。 をやろう。 STORiiYは、自社ブランドの開発・ブランディングから商品企画、デザイン、販売戦略、PR･プロモーション戦略流通（オンライン・オフライン）まで一手に行いブランド・商品を提供する次世代メーカーです。",
+    "url": "https://storiiy.com/maker/",
+    "pass": 3
+   },
+   {
+    "quote": "STORIES合同会社【博報堂グループ】の2027年度会社概要 | マイナビ202...STORiiY株式会社の事業とカルチャー - WantedlySTORIES合同会社【博報堂DYグループ】の会社概要 | マイナビ2027STORIES の企業情報 | バフェット・コード — Oct 20, 2026 · STORIES合同会社【博報堂グループ】の前年度会社概要ページです。マイナビ2028は、インターンシップ＆キャリア、前年の採用データ、エントリー情報を公開しており、自己分析や企業研究、皆さんの就職活動をサポートします。 なぜやるのか STORiiYには各分野のプロフェッショナルが集まっているので、 毎日スゴイ企画やデザイン、アイデアが出てきて感動します。 だから明日も会社のみんなに会いたくなる。 これはイケる！ と思ったらすぐに行動に移してチャレンジし続ける。 STORIES合同会社",
+    "url": "https://job.mynavi.jp/28/pc/search/corp287135/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "STORiiY株式会社の事業とカルチャー - Wantedly — なぜやるのか STORiiYには各分野のプロフェッショナルが集まっているので、 毎日スゴイ企画やデザイン、アイデアが出てきて感動します。 だから明日も会社のみんなに会いたくなる。 これはイケる！ と思ったらすぐに行動に移してチャレンジし続ける。",
+    "url": "https://www.wantedly.com/companies/STORiiY/about",
+    "pass": 3
+   },
+   {
+    "quote": "STORiiY の企業情報 | バフェット・コード — Nov 28, 2019 · STORiiY株式会社は、メンズ化粧品ブランド「THE FUTURE」の製造、販売および輸出入を手がける企業です。洗顔ジェルや泡クレンジング、オールインワン化粧水、シートマスクなどのスキンケアから、肌色に合わせて変化するカラーチェンジBBクリームやファンデーション、コンシーラー ...",
+    "url": "https://www.buffett-code.com/company/f8uf3zvmz4/",
+    "pass": 3
+   },
+   {
+    "quote": "STORiiY株式会社 (東京都渋谷区)の企業詳細 - 全国法人リスト — Nov 3, 2023 · STORiiY株式会社 (東京都渋谷区)の企業詳細を公開中。 2019年に設立され、法人番号2011001131079のSTORiiY株式会社の住所/地図、業種、売上/利益/資本金、電話番号、サイト情報、求人を始め、全国法人リストでは全国500万件の様々な企業/法人の情報を掲載。",
+    "url": "https://houjin.jp/c/2011001131079",
+    "pass": 3
+   },
+   {
+    "quote": "STORiiY株式会社 渡辺 真大 | ベストベンチャー100 — STORiiYは今後、複数の事業・ブランドを内包するコングロマリット経営へと進化していきます。 各事業をカンパニー制で自立させ、意思決定のスピードと専門性を高めながら、グループ全体としてはマーケティング、流通、バックオフィスなどの基盤を共有。",
+    "url": "https://best100.v-tsushin.jp/company/storiiy/",
+    "pass": 3
+   },
+   {
+    "quote": "STORiiY株式会社の役員・従業員 - Wantedly — STORiiY株式会社で代表をしております渡辺です。 化粧品のD2Cブランド事業、韓国ブランド輸入事業、化粧品通販会社様のオフラインマーケティング支援事業などを... さらに表示",
+    "url": "https://www.wantedly.com/companies/STORiiY/members",
+    "pass": 3
+   },
+   {
+    "quote": "\"主要取引先\"是什么意思？ -关于日语（日文） | HiNativeSTORiiY株式会社の会社情報 - Wantedly化粧品メーカー事業 - STORiiY Inc.渡辺 真大 - -- | LinkedInSTORiiY株式会社 渡辺 真大 | ベストベンチャー100 — 主要取引先main client or main customer it could be a main supplier depending on the context.的定义主要取引先 (しゅよう とりひき さき) STORiiY株式会社で代表をしております渡辺です。 化粧品のD2Cブランド事業、韓国ブランド輸入事業、化粧品通販会社様のオフラインマーケティング支援事業などを... さらに表示 これはイケる。 やろう。 をやろう。 STORiiYは、自社ブランドの開発・ブランディングから商品企画、デザイン、販売",
+    "url": "https://zh.hinative.com/questions/1355912",
+    "pass": 3
+   },
+   {
+    "quote": "STORiiY株式会社の会社情報 - Wantedly — STORiiY株式会社で代表をしております渡辺です。 化粧品のD2Cブランド事業、韓国ブランド輸入事業、化粧品通販会社様のオフラインマーケティング支援事業などを... さらに表示",
+    "url": "https://www.wantedly.com/companies/STORiiY",
+    "pass": 3
+   }
+  ],
+  "選出の記録": [
+   {
+    "quote": "STORiiY株式会社 渡辺 真大 | ベストベンチャー100",
+    "url": "https://best100.v-tsushin.jp/company/storiiy/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Why Massan (45), Representative of STORiiY Inc., Joined the ... May 21, 2020 · I established \"STORiiY Inc.\" in November 2019, three months after joining the company. I decided to launch a men's brand, which was my area of expertise, create something I would want to keep using myself, and develop it both online and offline.",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "STORiiY株式会社 代表まっさん(45)が平均年齢29歳のORGANIC GROUPに入... May 21, 2020 · 今回は、ORGANIC GROUPの子会社の一つであるSTORiiY株式会社代表の渡辺（まっさん）のインタビューをお送りします。 社内ではあだ名で呼び合うことが多いのですが、全国の「渡辺」さんて結構、「なべさん」「なべちゃん」が多いイメージじゃないですか。",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "pass": 3
+   },
+   {
+    "quote": "“否定しない文化”がデザインとしての可能性を広げる。STORiiYで“デザ... Oct 5, 2025 · 40歳での転職。 梶原さんがオーガニックグループの子会社であるSTORiiYに飛び込んだ理由は、「今からでも挑戦できる環境で成長したい」という想いでした。 化粧品メーカーでの8年間を経て、次に選んだのは商材力と事業の幅広さを兼ね備えたオーガニック。",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Why Massan (45), Representative of STORiiY Inc., Joined the ORGANIC GROUP with an Average Age of 29｜ORGANIC GROUP",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why Massan (45), Representative of STORiiY Inc., Joined the ORGANIC GROUP with an Average Age of 29",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, we are bringing you an interview with Watanabe (Massan), the representative of STORiiY Inc., one of the subsidiaries of the ORGANIC GROUP. We often call each other by nicknames in the office, and you might have the impression that many people named \"Watanabe\" across the country are called \"Nabe-san\" or \"Nabe-chan.\" Massan was no exception, but he apparently thought, \"At the ORGANIC GROU",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The 20s and 30s who have made the real world their main battlefield",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "—Please tell us about Massan's career.",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "After working in sales at two advertising and sales promotion agencies, I joined a fragrance and cosmetics manufacturer and trading company in 2004. During my time at the agencies, I was practically a one-man shop. I was rarely in the office, going straight from home to clients and back. I planned proposals, closed deals, and executed them all by myself. My colleagues were all my rivals; that was ",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Then, at 27, I joined the manufacturer and trading company because I wanted to \"see what happens beyond what I propose. I don't want just momentary sales; I want to nurture brands. I want to be involved from scratch.\" When I joined, the company had fewer than 40 employees, and it was a company with a sense of speed, a venture spirit, and a challenging spirit where everyone played multiple roles.",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "During my 16 years at this company, I was allowed to experience various departments and roles.",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "STORiiY株式会社 代表まっさん(45)が平均年齢29歳のORGANIC GROUPに入社した訳｜ORGANIC GROUP",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "pass": 3
+   },
+   {
+    "quote": "STORiiY株式会社 代表まっさん(45)が平均年齢29歳のORGANIC GROUPに入社した訳",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、ORGANIC GROUPの子会社の一つであるSTORiiY株式会社代表の渡辺（まっさん）のインタビューをお送りします。社内ではあだ名で呼び合うことが多いのですが、全国の「渡辺」さんて結構、「なべさん」「なべちゃん」が多いイメージじゃないですか。例にもれず、まっさんもそうだったのですが、「ORGANIC GROUPでは、”なべさん”ではなく、新しいあだ名で呼んでもらって気分を変えよう！」と思ったらしく、自ら「あだ名はまっさんでお願いします」となり、が定着しました。（ちなみに入社1ヶ月後のできごと）",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "pass": 3
+   },
+   {
+    "quote": "２社の広告・販促代理店での営業を得て、2004年からフレグランス・化粧品メーカー兼商社に入社しました。代理店時代はほぼ個人商店。オフィスにはほとんどいなくて、取引先への直行直帰。自分1人で企画提案して、案件きめて実施して。同僚はみなライバル、そんな環境でした。",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "pass": 3
+   },
+   {
+    "quote": "そして27歳の時に、「自分が提案したその先までみたい。瞬間的な売上ではなく、ブランドを育てていきたい。ゼロから携わりたい」と思ったことがきっかけでメーカー兼商社に入社しました。入社当時、その会社は40名弱、スピード感・ベンチャー精神・チャレンジ精神のある会社でみんなが1人何役もこなしていましたね。",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "pass": 3
+   },
+   {
+    "quote": "僕はこの会社の16年間でいろんな部署・役割を経験させてもらいました。",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "pass": 3
+   },
+   {
+    "quote": "営業推進チーム発足し、マーケティング部と営業部の橋渡し的な存在として、また小売流通さんへも営業メンバーに同行して販促年間プランの提案をして年間取り組みに至ったケースも多くあります。流通はコンビニエンスストア、ドラッグストアからバラエティストア、百貨店までを経験しました。",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "pass": 3
+   },
+   {
+    "quote": "また、マーケティング事業統括、ブランドマネージャーとしてマーケティング戦略に幅広く携わってきました。メンズ香水、ライトフレグランスでは、カテゴリー内における売上を日本一に押し上げました。",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "pass": 3
+   },
+   {
+    "quote": "“否定しない文化”がデザインとしての可能性を広げる。STORiiYで“デザインの幅”と“キャリアの成長”を掴む｜ORGANIC GROUP",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   },
+   {
+    "quote": "“否定しない文化”がデザインとしての可能性を広げる。STORiiYで“デザインの幅”と“キャリアの成長”を掴む",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   },
+   {
+    "quote": "「やりたい」を形にできる環境で、自分の市場価値を拡張する。",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   },
+   {
+    "quote": "40歳での転職。梶原さんがオーガニックグループの子会社であるSTORiiYに飛び込んだ理由は、「今からでも挑戦できる環境で成長したい」という想いでした。化粧品メーカーでの8年間を経て、次に選んだのは商材力と事業の幅広さを兼ね備えたオーガニック。ここでは「やりたい」を否定せず、新しいチャレンジを受け止めてくれる文化があります。販促物やパッケージにとどまらず、他社商品の支援や新ブランド開発など、多彩な案件に触れながら、自分の可能性を広げ続けています。",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   },
+   {
+    "quote": "オーガニックグループ STORiiY株式会社",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   },
+   {
+    "quote": "専門学校でデザインを学び、新卒で広告制作に携わった後、父と編集プロダクションを立ち上げ約5年間運営。その後、化粧品メーカーで約8年間勤務し、40歳を機に新たな挑戦を決意。現在はオーガニックグループ／STORiiYのデザインマネージャーとして販促物・パッケージ制作を中心に幅広いデザイン業務を統括し、若手中心のチームを率いる。「やりたい」を否定しない文化の中で、自身の可能性を拡張しながら、立ち上げたメイクブランドの成長とチームの主体性を引き出すマネジメントに取り組んでいる。",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   },
+   {
+    "quote": "――新卒後に最初に入社された会社について教えてください。",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   },
+   {
+    "quote": "専門学校でデザインを学んだ後に、卒業後は広告の制作事務所に入社し、デザイナーとして働き始めました。",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "今回は、ORGANIC GROUPの子会社の一つであるSTORiiY株式会社代表の渡辺（まっさん）のインタビューをお送りします",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "pass": 3
+   },
+   {
+    "quote": "（UN5UNG BUTは100％グループ子会社です）",
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "pass": 3
+   },
+   {
+    "quote": "梶原さんがオーガニックグループの子会社であるSTORiiYに飛び込んだ理由は、「今からでも挑戦できる環境で成長したい」という想いでした",
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "X-Storiiy (@PeopleStoriie) / Posts / X \" Unveiling the lives of stars! 🎥 | Celebrities, actors, athletes – their stories, relationships, and riches all in one place. 🌟 #X -Storiiy\"",
+    "url": "https://x.com/PeopleStoriie",
+    "pass": 3
+   },
+   {
+    "quote": "Why Taylor Swift is called mother? #taylorswift # ... X-Storiiy (@PeopleStoriie). 11 views. Why Taylor Swift is called mother? #taylorswift #taylorswiftfanpage",
+    "url": "https://x.com/PeopleStoriie/status/1926694113564360951",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "STORiiY株式会社 - LinkedIn 3つの事業をメインに成長中。 Website https://storiiy.com/ External link for STORiiY株式会社 Industry Marketing Services Company size 11-50 employees Type Privately Held Founded ...",
+    "url": "https://www.linkedin.com/company/storiiy",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "X-Storiiy - Facebook Oct 23, 2026 · X-Storiiy. 7,093 followers · 1,150 talking about this. 👑 Royal Secrets • 🎬 Hollywood Gossip • 🔍 True Crime Stories the media can’t ignore 👀 📩 DM or Email...",
+    "url": "https://www.facebook.com/xstoriiy/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://storiiy.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://storiiy.com/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://compalyze.co.jp/company/2011001131079",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://and-pro.jp/company-info-46305/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://best100.v-tsushin.jp/company/storiiy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaisharesearch.com/company/detail/2011001131079/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/f8uf3zvmz4/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hitachi-systems.com/case/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/STORiiY/members",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zh.hinative.com/questions/1355912",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/organic_group/n/n506ead777604",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/PeopleStoriie",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PeopleStoriie/status/1926694113564360951",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/storiiy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/xstoriiy/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "STORiiY 会社概要 資本金 設立",
+   "results": [
+    "https://storiiy.com/",
+    "https://compalyze.co.jp/company/2011001131079",
+    "https://and-pro.jp/company-info-46305/",
+    "https://best100.v-tsushin.jp/company/storiiy/",
+    "https://kaisharesearch.com/company/detail/2011001131079/",
+    "https://storiiy.com/about/",
+    "https://pyt-official.com/about-company/"
+   ]
+  },
+  {
+   "query": "STORiiY 事業内容 売上",
+   "results": [
+    "https://storiiy.com/",
+    "https://best100.v-tsushin.jp/company/storiiy/",
+    "https://storiiy.com/maker/",
+    "https://job.mynavi.jp/28/pc/search/corp287135/outline.html",
+    "https://www.wantedly.com/companies/STORiiY/about",
+    "https://job.mynavi.jp/27/pc/search/corp287135/outline.html",
+    "https://www.buffett-code.com/company/3i2eoqq7eh/"
+   ]
+  },
+  {
+   "query": "STORiiY 資金調達 株主",
+   "results": [
+    "https://storiiy.com/",
+    "https://kaisharesearch.com/company/detail/2011001131079/",
+    "https://www.buffett-code.com/company/f8uf3zvmz4/",
+    "https://houjin.jp/c/2011001131079",
+    "https://best100.v-tsushin.jp/company/storiiy/",
+    "https://irbank.net/STORiiY株式会社",
+    "https://storiiy.com/about/"
+   ]
+  },
+  {
+   "query": "STORiiY 導入事例",
+   "results": [
+    "https://storiiy.com/",
+    "https://storiiy.com/maker/",
+    "https://www.hitachi-systems.com/case/index.html",
+    "https://www.youtube.com/playlist?list=PL8n9dP6beTMf6uTD3QfVvsM2-dbu5PtY2",
+    "https://www.cisco.com/c/ja_jp/about/case-studies-customer-success-stories.html",
+    "https://www.youtube.com/playlist?list=PL3Akw6vhG2ldFMoFvqd9oD4LIvP6VJ7Hh",
+    "https://openai.com/ja-JP/business/customer-stories/"
+   ]
+  },
+  {
+   "query": "STORiiY 主要取引先",
+   "results": [
+    "https://storiiy.com/",
+    "https://www.wantedly.com/companies/STORiiY/members",
+    "https://zh.hinative.com/questions/1355912",
+    "https://www.wantedly.com/companies/STORiiY",
+    "https://storiiy.com/maker/",
+    "https://best100.v-tsushin.jp/company/storiiy/",
+    "https://jp.linkedin.com/in/真大-渡辺-58175023b"
+   ]
+  },
+  {
+   "query": "site:note.com STORiiY",
+   "results": [
+    "https://note.com/organic_group/n/nd0e0e9bd724a?hl=en",
+    "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "https://biz.note.com/n/n726058efd717?hl=en",
+    "https://note.com/organic_group/n/n506ead777604",
+    "https://tales.note.com/mio_stories/w03cwr7om3zsc/episodes/ekqk4vm5fkx5b",
+    "https://tales.note.com/mio_stories/w03cwr7om3zsc/episodes/et2f1e2zmfhxe",
+    "https://note.com/winekabuki/n/n04413212ae94?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com STORiiY",
+   "results": [
+    "https://x.com/PeopleStoriie",
+    "https://about.x.com/",
+    "https://x.com/PeopleStoriie/status/1926694113564360951",
+    "https://help.x.com/en/using-x/instagram-stories-share",
+    "https://help.x.com/en",
+    "https://marketing.x.com/en/success-stories/gatorade-game6live-twitter",
+    "https://docs.x.com/success-stories"
+   ]
+  },
+  {
+   "query": "site:linkedin.com STORiiY",
+   "results": [
+    "https://www.linkedin.com/company/storify.com",
+    "https://www.linkedin.com/company/storiiy",
+    "https://pk.linkedin.com/company/storify-market",
+    "https://ca.linkedin.com/company/gostorify",
+    "https://sg.linkedin.com/company/storify-me",
+    "https://jp.linkedin.com/in/真大-渡辺-58175023b",
+    "https://sg.linkedin.com/in/storify"
+   ]
+  },
+  {
+   "query": "site:facebook.com STORiiY",
+   "results": [
+    "https://www.facebook.com/xstoriiy/",
+    "https://www.facebook.com/xstoriiy/videos/heather-boyd-star-of-tlcs-double-lives-of-suburban-wives-reveals-how-her-secret-/2095056704426719/",
+    "https://www.facebook.com/xstoriiy/videos/a-former-new-jersey-teacher-laura-caron-has-pleaded-guilty-in-a-shocking-case-in/1617007023439964/",
+    "https://www.facebook.com/xstoriiy/videos/dolly-parton-used-millions-from-whitney-houstons-i-will-always-love-you-royaltie/1053439004068154/",
+    "https://www.facebook.com/xstoriiy/videos/king-charles-iii-delivers-a-historic-speech-at-chogm-2026-in-antigua-calling-the/1751219949296930/",
+    "https://www.facebook.com/xstoriiy/videos/a-mississippi-mayor-sparked-controversy-after-questioning-whether-flags-should-b/1392061606362041/",
+    "https://www.facebook.com/xstoriiy/videos/donald-trumps-relentless-quest-for-the-nobel-peace-prize-ends-in-another-bitter-/29053037320995731/"
+   ]
+  },
+  {
+   "query": "STORiiY note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://best100.v-tsushin.jp/company/storiiy/",
+    "https://note.com/organic_group/n/nd0e0e9bd724a",
+    "https://finance.yahoo.co.jp/quote/5243.T/profile",
+    "https://storynote.jp/",
+    "https://storynote.jp/about/",
+    "https://machisaga.jp/storynote/"
+   ]
+  },
+  {
+   "query": "STORiiY X 投稿",
+   "results": [
+    "https://story-x.art/",
+    "https://x.com/tales_story_",
+    "https://x.com/story_web/status/2072077721903960286",
+    "https://help.x.com/ja/using-x/instagram-stories-share",
+    "https://storyweb.jp/",
+    "https://www.xvideos.com/?k=日本人ストーリー",
+    "https://jp.xhamster.com/categories/story"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部16頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部16頁・検索11回）",
+  "代表者": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部16頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部16頁・検索11回）",
+  "客は誰か": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部16頁・検索11回）"
+ }
+}

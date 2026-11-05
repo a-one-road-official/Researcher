@@ -1,0 +1,1835 @@
+{
+ "name": "BLAM",
+ "aliases": [
+  "blam"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T14:42:38.965079+00:00",
+ "official_url": "https://blam.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "杉生　遊",
+    "url": "https://initial.inc/companies/A-31533",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "杉生　遊",
+    "url": "https://en-ambi.com/agency/a-12110/",
+    "pass": 3
+   },
+   {
+    "label": "代表取締役",
+    "value": "杉生 遊",
+    "url": "https://www.bizreach.jp/companies/29453/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "杉生　遊",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 杉生 遊",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "東京都品川区西五反田7-7-7 SGスクエア 8F",
+    "url": "https://initial.inc/companies/A-31533",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都品川区西五反田7丁目7−7SGスクエア8F",
+    "url": "https://www.bizreach.jp/companies/29453/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都品川区西五反田八丁目9番5号FORECAST五反田WEST10階",
+    "url": "https://www.bizreach.jp/companies/29453/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都東京都品川区西五反田七丁目20番9号  KDX西五反田ビル7F",
+    "url": "https://www.bizreach.jp/companies/29453/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都東京都港区六本木7-15-9住友不動産六本木セントラルタワー 9F",
+    "url": "https://www.bizreach.jp/companies/29453/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "141-0031東京都品川区西五反田７－７－７",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒100-6640 東京都千代田区丸の内1-9-2 グラントウキョウサウスタワー",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都 品川区 西五反田7丁目7-7 SGスクエア8F",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒141-0031 東京都品川区 西五反田７－７－７ ＳＧスクエア８Ｆ",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2015/04",
+    "url": "https://initial.inc/companies/A-31533",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2015 年 4 月 2 日",
+    "url": "https://en-ambi.com/agency/a-12110/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2015年04月02日",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2015年04月",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主状況",
+    "value": "VC不明",
+    "url": "https://initial.inc/companies/A-31533",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "303万5000円",
+    "url": "https://en-ambi.com/agency/a-12110/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "4億3,200万円",
+    "url": "https://www.bizreach.jp/companies/29453/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "3億9,900万円",
+    "url": "https://www.bizreach.jp/companies/29453/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "株式会社BLAM（ブラム）は、国内最大級のマーケティング領域特化型複業マッチングサービス「KAIKOKU（カイコク）」の運営や、エース人材を招集した流動的なチーム組成を実現する「PjTOマーケティング」の独自手法により、企業のマーケティングDX支援を行う会社です。",
+    "url": "https://en-ambi.com/agency/a-12110/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "■複業マッチングサービス「カイコク」  \n■マーケティングDX事業（コンサルティング/広告/制作/プロジェクトチーム提供）\n■その他事業（研修・転職紹介）",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "職業紹介",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "■複業マッチングサービス「カイコク」",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "52人",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "クライアントの事業に踏み込む姿勢が、新たな収益の柱を生んだ",
+    "url": "https://blam.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ビズリーチ社が運営するYouTubeチャンネル「しごとリーチ！」に、弊社加藤のインタビュー動画が公開されました！",
+    "url": "https://blam.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの事業に踏み込む姿勢が、新たな収益の柱を生んだ",
+    "url": "https://blam.co.jp/cases",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの事業に踏み込む姿勢が、新たな収益の柱を生んだ",
+    "url": "https://blam.co.jp/business/kaikoku",
+    "pass": 1
+   },
+   {
+    "quote": "複業を通じてマーケターと向き合うカイコクだからこそ、転職市場では中々出会えない方々のご紹介が可能です",
+    "url": "https://blam.co.jp/business/kaikoku",
+    "pass": 1
+   },
+   {
+    "quote": "クライアント折衝のフロント業務を複業マーケターがフロントを担い、新たな収益の柱を開拓｜カイコク導入事例｜BLAM | 株式会社BLAM",
+    "url": "https://blam.co.jp/cases/graphtone-note",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの事業に踏み込む姿勢が、新たな収益の柱を生んだ",
+    "url": "https://blam.co.jp/cases/graphtone-note",
+    "pass": 1
+   },
+   {
+    "quote": "これは結構、江川さんの紹介の仕方が大きかったんじゃないかなと思っています",
+    "url": "https://blam.co.jp/cases/graphtone-note",
+    "pass": 1
+   },
+   {
+    "quote": "結局、合いそうな人を紹介してもらえているんですよね",
+    "url": "https://blam.co.jp/cases/graphtone-note",
+    "pass": 1
+   },
+   {
+    "quote": "業務委託というと、案件と何ができるかというスキルの掛け合わせで決まりがちですが、そこだけじゃなく「当社に合うか」まで見極めて紹介してもらえている感覚があります",
+    "url": "https://blam.co.jp/cases/graphtone-note",
+    "pass": 1
+   },
+   {
+    "quote": "逆に、今回お取り組みした複業マーケターの方を紹介した経緯や理由を教えてください",
+    "url": "https://blam.co.jp/cases/graphtone-note",
+    "pass": 1
+   },
+   {
+    "quote": "「私はグラフトンノート社の人間だと思っている」というくらいの当事者意識を持たれていたので、これは間違いないなと思ってご紹介しました",
+    "url": "https://blam.co.jp/cases/graphtone-note",
+    "pass": 1
+   },
+   {
+    "quote": "あと、印象的なのは「既存の取り扱いに加えて新しい収益の柱を一緒に開拓できたこと」です",
+    "url": "https://blam.co.jp/cases/graphtone-note",
+    "pass": 1
+   },
+   {
+    "quote": "派遣、アルバイト、契約社員といった入り口の違いはあっても、やっていく中で波長が合い、成果が出てくれば、立場は関係なくなっていく",
+    "url": "https://blam.co.jp/cases/graphtone-note",
+    "pass": 1
+   },
+   {
+    "quote": "カイコクさんは、そこを感じ取って紹介してくださっている印象がありますし、実際にチャットに入ってきてくださったりする距離の近さも、すごく特徴的だなと思っています",
+    "url": "https://blam.co.jp/cases/graphtone-note",
+    "pass": 1
+   },
+   {
+    "quote": "だからこそ、どれだけ「合う人」に出会える確率を上げられるかが重要で、そこは紹介してくださる側の目利き力にかかっている部分も大きい",
+    "url": "https://blam.co.jp/cases/graphtone-note",
+    "pass": 1
+   },
+   {
+    "quote": "製造や技術・IT業界向けの人材支援に加え、アジアと世界を繋ぐグローバル人材の送出・受入支援事業を展開し、2025年7月にホールディングス体制へ移行しました",
+    "url": "https://blam.co.jp/cases/brexa",
+    "pass": 1
+   },
+   {
+    "quote": "BREXA Holdingsさまの事業内容を教えてください",
+    "url": "https://blam.co.jp/cases/brexa",
+    "pass": 1
+   },
+   {
+    "quote": "また、取り組みを通じて採用マーケティングの解像度が高まったことで、以前から課題として挙がっていた人材紹介への依存度という課題の重要性を改めて認識しました",
+    "url": "https://blam.co.jp/cases/brexa",
+    "pass": 1
+   },
+   {
+    "quote": "このプロ人材をご紹介した意図を教えてください",
+    "url": "https://blam.co.jp/cases/brexa",
+    "pass": 1
+   },
+   {
+    "quote": "noteでの記事制作ができる方は多くいらっしゃいましたが、同業界でのご経験があるか、またnoteはあくまで手段の一つとして捉え、採用マーケティングの上流から一緒に考えて実行できる方かという点を重視してご紹介しました",
+    "url": "https://blam.co.jp/cases/brexa",
+    "pass": 1
+   },
+   {
+    "quote": "」の運営を主軸に、アフィリエイト広告やショート動画マーケティング、D2C事業など、インターネットマーケティング領域を多角的に手がける企業です",
+    "url": "https://blam.co.jp/cases/ceres",
+    "pass": 1
+   },
+   {
+    "quote": "そんな中で、サービスをご紹介いただいたのがきっかけです",
+    "url": "https://blam.co.jp/cases/ceres",
+    "pass": 1
+   },
+   {
+    "quote": "以前は「この媒体はできるけど、別の媒体は対応ができない」というケースもありましたが、カイコクでご紹介いただいた方々は、専門分野の知見が高く、柔軟に対応してくださっていると感じます",
+    "url": "https://blam.co.jp/cases/ceres",
+    "pass": 1
+   },
+   {
+    "quote": "ご紹介の際、どのような点を重視しているのですか？",
+    "url": "https://blam.co.jp/cases/ceres",
+    "pass": 1
+   },
+   {
+    "quote": "ご紹介前に私たちのほうで事前に面談やお電話でコミュニケーションを確認させていただいています",
+    "url": "https://blam.co.jp/cases/ceres",
+    "pass": 1
+   },
+   {
+    "quote": "質問への返信の速さや、やり取りの丁寧さなど、定性的な部分も見た上で「この方ならご活躍いただける」と判断した方だけをご紹介するようにしています",
+    "url": "https://blam.co.jp/cases/ceres",
+    "pass": 1
+   },
+   {
+    "quote": "弊社自体もマーケティング支援会社であり、私自身も広告運用実務の経験があるため、経歴書上の実績だけでなく「実際の運用力」を現場目線で見極めた上でご紹介しています",
+    "url": "https://blam.co.jp/cases/ceres",
+    "pass": 1
+   },
+   {
+    "quote": "印象的だったのが、1人目をご紹介いただいたときです",
+    "url": "https://blam.co.jp/cases/ceres",
+    "pass": 1
+   },
+   {
+    "quote": "ご提案いただく予定の方がいたのですが、内藤さんから「他の案件での対応に懸念があるので、別の方を改めてご紹介させてください」と連絡をいただいたことがありました",
+    "url": "https://blam.co.jp/cases/ceres",
+    "pass": 1
+   },
+   {
+    "quote": "マッチングすることがカイコクの立場だと合理的であるにも関わらず、「別の方を紹介させてください」と言ってくれた誠実さに、人としての信頼を感じました",
+    "url": "https://blam.co.jp/cases/ceres",
+    "pass": 1
+   },
+   {
+    "quote": "今、私たちのご紹介の仕方は大きく2つあります",
+    "url": "https://blam.co.jp/cases/ceres",
+    "pass": 1
+   },
+   {
+    "quote": "さらにもう一歩踏み込んで、「事業成長を見据え、どの領域を強化し、どのような組織体制を構築すべきか」までを共に描くこと、単なる人材紹介にとどまらず、「人軸でマーケティング課題を解決する」ことこそが私たちが提供したい本質的な価値です",
+    "url": "https://blam.co.jp/cases/ceres",
+    "pass": 1
+   },
+   {
+    "quote": "求人者から徴収する手数料については下記手数料表（消費税を除く）のとおりです",
+    "url": "https://blam.co.jp/employment-service-terms",
+    "pass": 1
+   },
+   {
+    "quote": "10,000円 手数料負担者は求人者とします",
+    "url": "https://blam.co.jp/employment-service-terms",
+    "pass": 1
+   },
+   {
+    "quote": "求人受理後、求人者に求職者を紹介するサービス【職業紹介サービス】",
+    "url": "https://blam.co.jp/employment-service-terms",
+    "pass": 1
+   },
+   {
+    "quote": "求人の充足に向けた求人者に対する専門的な相談・助言サービス【職業紹介の付加サービス】",
+    "url": "https://blam.co.jp/employment-service-terms",
+    "pass": 1
+   },
+   {
+    "quote": "苦情申出先：職業紹介責任者 浅川 達郎 連絡先 03-6452-6857",
+    "url": "https://blam.co.jp/employment-service-terms",
+    "pass": 1
+   },
+   {
+    "quote": "（１）求人者の情報及び求職者の個人情報の取扱責任者は職業紹介責任者の浅川 達郎です",
+    "url": "https://blam.co.jp/employment-service-terms",
+    "pass": 1
+   },
+   {
+    "quote": "第1条 個人情報を取り扱う事業所内の職員の範囲は株式会社BLAMの職業紹介事業に携わる者とする",
+    "url": "https://blam.co.jp/employment-service-terms",
+    "pass": 1
+   },
+   {
+    "quote": "個人情報取扱責任者は職業紹介責任者浅川 達郎とする",
+    "url": "https://blam.co.jp/employment-service-terms",
+    "pass": 1
+   },
+   {
+    "quote": "第2条 職業紹介責任者は、個人情報を取り扱う第１条に記載する事業所内の職員に対し、個人情報取扱いに関する教育・指導を年１回実施することとする",
+    "url": "https://blam.co.jp/employment-service-terms",
+    "pass": 1
+   },
+   {
+    "quote": "また、職業紹介責任者は、少なくとも５年に１回は職業紹介責任者講習会を受講するものとする",
+    "url": "https://blam.co.jp/employment-service-terms",
+    "pass": 1
+   },
+   {
+    "quote": "また、個人情報の開示又は訂正に係る取扱いについて、職業紹介責任者は求職者等への周知に努めることとする",
+    "url": "https://blam.co.jp/employment-service-terms",
+    "pass": 1
+   },
+   {
+    "quote": "なお、個人情報の取扱いに係る苦情処理の担当者は、職業紹介責任者浅川 達郎とする",
+    "url": "https://blam.co.jp/employment-service-terms",
+    "pass": 1
+   },
+   {
+    "quote": "紹介した人材が、自己の都合により、１か月未満で退職した場合は紹介手数料の80%相当額、３か月未満で退職した場合は50%相当額、６か月未満で退職した場合は10%相当額を返金",
+    "url": "https://blam.co.jp/employment-service-terms",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの事業に踏み込む姿勢が、新たな収益の柱を生んだ",
+    "url": "https://blam.co.jp/cases?service=kaikoku",
+    "pass": 1
+   },
+   {
+    "quote": "マーケティングにおける代表的な5つの課題とBLAMの解決アプローチをご紹介",
+    "url": "https://blam.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの事業に踏み込む姿勢が、新たな収益の柱を生んだ",
+    "url": "https://blam.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの事業に踏み込む姿勢が、新たな収益の柱を生んだ",
+    "url": "https://blam.co.jp/cases?category=strategy",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの事業に踏み込む姿勢が、新たな収益の柱を生んだ",
+    "url": "https://blam.co.jp/cases?category=acquisition",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの事業に踏み込む姿勢が、新たな収益の柱を生んだ",
+    "url": "https://blam.co.jp/cases?category=digital",
+    "pass": 1
+   },
+   {
+    "quote": "マーケター・デザイナー向けの副業・転職マッチングサービス「KAIKOKU（カイコク）」の運営",
+    "url": "https://initial.inc/companies/A-31533",
+    "pass": 3
+   },
+   {
+    "quote": "BLAM、名古屋テレビ放送と事業提携 CM効果分析やDX人材の紹介を通し東海地方でのマーケティングDX支援",
+    "url": "https://initial.inc/companies/A-31533",
+    "pass": 3
+   },
+   {
+    "quote": "BLAM、栃木サッカークラブと業務提携 マーケターを派遣しプロスポーツチームの集客支援を開始",
+    "url": "https://initial.inc/companies/A-31533",
+    "pass": 3
+   },
+   {
+    "quote": "【マーケティング人材12,000人が集う「カイコク」運営】株式会社BLAM、創業10周年を記念した特別コンテンツを公開",
+    "url": "https://initial.inc/companies/A-31533",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社BLAM（ブラム）は、国内最大級のマーケティング領域特化型複業マッチングサービス「KAIKOKU（カイコク）」の運営や、エース人材を招集した流動的なチーム組成を実現する「PjTOマーケティング」の独自手法により、企業のマーケティングDX支援を行う会社です",
+    "url": "https://en-ambi.com/agency/a-12110/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング、デジタルマーケティング、人材紹介・人材派遣",
+    "url": "https://www.bizreach.jp/companies/29453/",
+    "pass": 3
+   },
+   {
+    "quote": "3.研修・人材紹介事業",
+    "url": "https://www.bizreach.jp/companies/29453/",
+    "pass": 3
+   },
+   {
+    "quote": "インターネットサービス、人材紹介・人材派遣",
+    "url": "https://www.bizreach.jp/companies/29453/",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "大手企業から中小・スタートアップ企業まで、マーケティング業界で10年以上・累計3,400件以上の取引実績があります",
+    "url": "https://blam.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製造や技術・IT業界向けの人材支援に加え、アジアと世界を繋ぐグローバル人材の送出・受入支援事業を展開し、2025年7月にホールディングス体制へ移行しました",
+    "url": "https://blam.co.jp/cases/brexa",
+    "pass": 1
+   },
+   {
+    "quote": "【上場準備中のHR Tech企業】複数の中堅～大手企業を掛け持ちで担当するセールス/ミドル",
+    "url": "https://en-ambi.com/agency/a-12110/",
+    "pass": 3
+   },
+   {
+    "quote": "正解のある商売のような仕事であればそれは中小企業やSMB（スモールビジネス）が、正解のある重大な仕事は大企業が絶大な企業体力をもって実現すると思います",
+    "url": "https://recruit.blam.co.jp/members/interviews/interview20",
+    "pass": 3
+   },
+   {
+    "quote": "「ベストベンチャー100」は、イシン(株)が提供する法人向け有料会員制サービスです",
+    "url": "https://recruit.blam.co.jp/members/interviews/interview20",
+    "pass": 3
+   },
+   {
+    "quote": "である大手企業は、一見合理的で成功する確率の高い手法を採用し、競合もすぐにその手法をマネします",
+    "url": "https://note.com/tatsu_from_yama/n/n2d9014b7367b",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業の新規事業立ち上げでは、事業戦略を理解したマーケティング責任者と実行者を",
+    "url": "https://note.com/tatsu_from_yama/n/n93faf10c753e",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "大手企業から中小・スタートアップ企業まで、マーケティング業界で10年以上・累計3,400件以上の取引実績があります",
+    "url": "https://blam.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの事業に踏み込む姿勢が、新たな収益の柱を生んだ",
+    "url": "https://blam.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "大学2〜3年生向けマーケティング講座「マケ塾」第2期生の募集開始",
+    "url": "https://blam.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの事業に踏み込む姿勢が、新たな収益の柱を生んだ",
+    "url": "https://blam.co.jp/cases",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの事業に踏み込む姿勢が、新たな収益の柱を生んだ",
+    "url": "https://blam.co.jp/business/kaikoku",
+    "pass": 1
+   },
+   {
+    "quote": "クライアント折衝のフロント業務を複業マーケターがフロントを担い、新たな収益の柱を開拓｜カイコク導入事例｜BLAM | 株式会社BLAM",
+    "url": "https://blam.co.jp/cases/graphtone-note",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの事業に踏み込む姿勢が、新たな収益の柱を生んだ",
+    "url": "https://blam.co.jp/cases/graphtone-note",
+    "pass": 1
+   },
+   {
+    "quote": "マーケティングとテクノロジーを軸にクライアントのビジネスの成長を後押しする",
+    "url": "https://blam.co.jp/cases/graphtone-note",
+    "pass": 1
+   },
+   {
+    "quote": "は、案件数が拡大する中でも、クライアントへの提供価値の品質をさらに高めていきたいという思いから、クライアントとの折衝や施策の進行管理を担う「フロント業務」を担える人材の強化を検討し、「カイコク」を通じて、経験豊富な複業マーケターを迎え入れました",
+    "url": "https://blam.co.jp/cases/graphtone-note",
+    "pass": 1
+   },
+   {
+    "quote": "その結果、担当する案件で着実に成果を上げていただいているだけでなく、クライアントへの日々の向き合い方が社内にも良い刺激を与える存在となっています",
+    "url": "https://blam.co.jp/cases/graphtone-note",
+    "pass": 1
+   },
+   {
+    "quote": "店舗型のビジネスを展開されているクライアントさまに対して、エリアごとの進行管理と、Google・Meta・LINE・TikTokといった複数媒体にまたがる広告運用のディレクション、そしてクライアントさまとの折衝窓口を担っていただいています",
+    "url": "https://blam.co.jp/cases/graphtone-note",
+    "pass": 1
+   },
+   {
+    "quote": "IMC戦略立案やクリエイティブ戦略の策定、Google・Meta・LINE・TikTokなど主要プラットフォームでのメディアプランニング・アカウントマネジメントに従事し、新規開拓から既存クライアントの深耕まで幅広く経験",
+    "url": "https://blam.co.jp/cases/graphtone-note",
+    "pass": 1
+   },
+   {
+    "quote": "入った当初は「効果を改善します」というオーソドックスな提案から始まるものなんですが、段々とクライアントのビジネスそのものに着目するようになっていきました",
+    "url": "https://blam.co.jp/cases/graphtone-note",
+    "pass": 1
+   },
+   {
+    "quote": "フロントとしてクライアントに向き合う姿勢はもちろんなんですが、社内の人間に対しても、遠慮なく厳しいことを言ってくれるんですよ",
+    "url": "https://blam.co.jp/cases/graphtone-note",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル企業BREXAの採用成長を支えた、BLAMの伴走サポート｜カイコク導入事例｜BLAM | 株式会社BLAM",
+    "url": "https://blam.co.jp/cases/brexa",
+    "pass": 1
+   },
+   {
+    "quote": "その後、複数の企業・自治体・スタートアップにて採用マーケティングや情報発信支援に従事し、オウンドメディアの立ち上げから運用まで幅広く手がける",
+    "url": "https://blam.co.jp/cases/brexa",
+    "pass": 1
+   },
+   {
+    "quote": "セレス社がエース人材起用で事業成長を実現｜カイコク導入事例｜BLAM | 株式会社BLAM",
+    "url": "https://blam.co.jp/cases/ceres",
+    "pass": 1
+   },
+   {
+    "quote": "職種は全職種（港湾運送業務、建設業務を除く）",
+    "url": "https://blam.co.jp/employment-service-terms",
+    "pass": 1
+   },
+   {
+    "quote": "第2条 職業紹介責任者は、個人情報を取り扱う第１条に記載する事業所内の職員に対し、個人情報取扱いに関する教育・指導を年１回実施することとする",
+    "url": "https://blam.co.jp/employment-service-terms",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの事業に踏み込む姿勢が、新たな収益の柱を生んだ",
+    "url": "https://blam.co.jp/cases?service=kaikoku",
+    "pass": 1
+   },
+   {
+    "quote": "戦略立案、新規顧客獲得、デジタル運用、分析改善、コンテンツ制作など、お客様の課題に応じた最適なソリューションと実績をご覧いただけます",
+    "url": "https://blam.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの事業に踏み込む姿勢が、新たな収益の柱を生んだ",
+    "url": "https://blam.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの事業に踏み込む姿勢が、新たな収益の柱を生んだ",
+    "url": "https://blam.co.jp/cases?category=strategy",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの事業に踏み込む姿勢が、新たな収益の柱を生んだ",
+    "url": "https://blam.co.jp/cases?category=acquisition",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの事業に踏み込む姿勢が、新たな収益の柱を生んだ",
+    "url": "https://blam.co.jp/cases?category=digital",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルマーケティングの知識習得とスキル強化を支援する教育サービス「KAIKOKU TERAKOYA（カイコク テラコヤ）」を展開",
+    "url": "https://initial.inc/companies/A-31533",
+    "pass": 3
+   },
+   {
+    "quote": "BLAM、松竹と業務提携 大手IT企業マーケターがSNS認知獲得を支援、ウィズコロナ時代の新たなビジネス基盤構築",
+    "url": "https://initial.inc/companies/A-31533",
+    "pass": 3
+   },
+   {
+    "quote": "「複数クライアントを掛け持ちしながら、安定した成果とチームへの還元を両立するセールス」",
+    "url": "https://en-ambi.com/agency/a-12110/",
+    "pass": 3
+   },
+   {
+    "quote": "・新規・既存クライアントへの課題ヒアリング・提案（部…",
+    "url": "https://en-ambi.com/agency/a-12110/",
+    "pass": 3
+   },
+   {
+    "quote": "「大手クライアントの複業活用を推進し、チームの勝ちパターンを作るセールスリーダー」",
+    "url": "https://en-ambi.com/agency/a-12110/",
+    "pass": 3
+   },
+   {
+    "quote": "・広告戦略・運用プランニング（顧客課題ヒアリング～予…",
+    "url": "https://en-ambi.com/agency/a-12110/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都東京都港区六本木7-15-9住友不動産六本木セントラルタワー 9F",
+    "url": "https://www.bizreach.jp/companies/29453/",
+    "pass": 3
+   },
+   {
+    "quote": "現役マーケターが専属の講師となり、デジタルマーケティングの知識習得とスキル強化を支援する教育サービスです",
+    "url": "https://jo-katsu.com/campus/7811/",
+    "pass": 3
+   },
+   {
+    "quote": "少数精鋭でありながら、大手広告代理店や大手EC・大手メーカー・フリーランス出身をはじめとする多様なメンバーが在籍",
+    "url": "https://jo-katsu.com/campus/7811/",
+    "pass": 3
+   },
+   {
+    "quote": "親との飲食代が1人あたり5,000円、会社から支給される制度",
+    "url": "https://jo-katsu.com/campus/7811/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒で小学校教員となり、学級担任や学年主任などを務め、1000人以上の生徒の指導に携わる",
+    "url": "https://jo-katsu.com/campus/7811/",
+    "pass": 3
+   },
+   {
+    "quote": "その後、大手教育企業でのコンサルティング営業を経て、現在は株式会社ナイモノのキャリアアドバイザーとして250名以上の学生の就職支援に従事",
+    "url": "https://jo-katsu.com/campus/7811/",
+    "pass": 3
+   },
+   {
+    "quote": "自社プロダクトの開発からスタートし、クライアント向けの受託開発、ディレクター職を経て、現在はセールス業務を担当",
+    "url": "https://recruit.blam.co.jp/members/interviews/interview20",
+    "pass": 3
+   },
+   {
+    "quote": "新しいアイデアに触れるたび、「いつか自分たちも業界の常識を覆す存在になる」という熱い想いを忘れることなく、目の前のクライアントワークに誠実に取り組む",
+    "url": "https://note.com/tatsu_from_yama/n/n2d9014b7367b",
+    "pass": 3
+   },
+   {
+    "quote": "彼らはクライアントの課題を深く理解し、最適なチーム編成を行い、プロジェクト全体を成功に導く重要な役割を担います",
+    "url": "https://note.com/tatsu_from_yama/n/n2d9014b7367b",
+    "pass": 3
+   },
+   {
+    "quote": "累計3,000件以上の取引実績がありますが、その多くが展示会での接点を起点にしています",
+    "url": "https://www.macnica.co.jp/business/ai/case/149943/",
+    "pass": 3
+   },
+   {
+    "quote": "BLAM Signature Multix導入事例をご紹介 – TRUIM BLOG",
+    "url": "https://www.truim.jp/blog/?p=1434",
+    "pass": 3
+   },
+   {
+    "quote": "個別の施策提供ではなく、クライアント経営層と並走しながら「機能を構築する」ことがミッションです",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "■マーケティング成長戦略・顧客獲得戦略の設計、KPI・ロードマップ策定■必要機能・スキルの定義とカイコク人材を含めたチーム組成",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "■クライアント経営層（社長・CMO・CFO）との並走・折衝",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "学歴：大学院 大学 高専 短大 専修学校 高校",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "その他（夏期/年末年始/慶弔/産前産後/育児/介護）",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "社会保険：健康保険 厚生年金保険 雇用保険 労災保険",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "■親孝行制度（親との飲食代を1人あたり5,000円支給）",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "＜具体的には＞ ・総務/人事労務（給与・社保・勤怠管理など） ・採用・教育研修 ・福利厚生運用 など ※基本的には事務所勤務ですが、採用や教育等の業務内容により、関西圏以外への日帰り・宿泊を伴う国内出張もございます",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "【教育制度】ご入社後、育成担当とペアになりながらOJTにて業務を覚えていただくことが可能です",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 【必須】■協調性を持って業務推進出来る方 ■改善案を出しながら、主体的に業務を進めて行ける方 【過去のご入社事例】人材派遣業界や保育業界等、メーカー以外、営業事務未経験者の入社実績有 【当社の事務職について】単なる事務ではなく主体性を発揮したサポートにより、キーエンスの付加価値向上に貢献します",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.osakagas.co.jp/company/press/pr2024/1777576_56472.html ■エネルギーセキュリティの不安定化や気候変動による自然災害の甚大化など、これまで以上に社会課題解決の重要性が高まっています",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "将来は総務・採用・教育業務へ守備範囲を広げ、組織運営を支えるゼネラリストをめざせます",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "・初期業務：労働時間管理、給与計算、社会保険対応、福利厚生管理、安全衛生、健康経営推進等をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "・将来的な広がり：総務・採用・教育・税務対応・経営企画等",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 ★未経験歓迎！ ★人事・総務領域を横断的に経験し幅広いスキルを身につけたい方におすすめ！ ■労務管理(給与計算・社会保険手続き・勤怠管理など)に関心があり主体的に取り組める方 ※労務経験者は早期にご活躍いただけます",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "■チームで仕事を推進できる方■将来はマネジメント職として活躍したい 【尚可】■人事、労務、採用、教育業務のご経験 ■労務管理（給与計算・社会保険手続き・勤怠管理など）の経験 ■衛生管理者の資格をお持ちの方 学歴・資格 学歴：大学院 大学 高専 短大 専修学校 高校 語学力： 資格：",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "【キャリアパスについて】人事・総務業務（採用・教育を除く）を一手に担っている部署であるため、バックオフィス領域の業務経験を幅広く積むことができます",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "産業界や社会からの要請である物流・ロジスティクスの課題を解決する為の事業活動の企画・運営を行っている公益法人です",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "【第二新卒・第三新卒】デジマ✕課題解決！上場準備中◆ハイブリット/フレックス制｜年間休日126日以上",
+    "url": "https://en-ambi.com/agency/a-12110/",
+    "pass": 3
+   },
+   {
+    "quote": "【上場準備中のHR Tech企業】13,000名の複業プロ人材をスカウト・提案するセールス/ミドル",
+    "url": "https://en-ambi.com/agency/a-12110/",
+    "pass": 3
+   },
+   {
+    "quote": "【上場準備中のHR Tech企業】経営課題を構造化し複業×DXで提案するコンサルセールス/ジュニア",
+    "url": "https://en-ambi.com/agency/a-12110/",
+    "pass": 3
+   },
+   {
+    "quote": "【上場準備中のHR Tech企業】13,000名の複業プロ人材をスカウト・提案するセールス/シニア",
+    "url": "https://en-ambi.com/agency/a-12110/",
+    "pass": 3
+   },
+   {
+    "quote": "【上場準備中のHR Tech企業】役員クラスと折衝し、複数の大型PJを動かすディレクター/シニア",
+    "url": "https://en-ambi.com/agency/a-12110/",
+    "pass": 3
+   },
+   {
+    "quote": "【上場準備中のHR Tech企業】データ分析でマーケティング施策全体を動かすディレクター/ミドル",
+    "url": "https://en-ambi.com/agency/a-12110/",
+    "pass": 3
+   },
+   {
+    "quote": "【上場準備中のHR Tech企業】複数の中堅～大手企業を掛け持ちで担当するセールス/ミドル",
+    "url": "https://en-ambi.com/agency/a-12110/",
+    "pass": 3
+   },
+   {
+    "quote": "【上場準備中のHR Tech企業】13,000名のプロ人材と広告運用・改善を担うセールス/ジュニア",
+    "url": "https://en-ambi.com/agency/a-12110/",
+    "pass": 3
+   },
+   {
+    "quote": "「『できない』という選択肢はなかった」と創業時の覚悟を語る代表の杉生さんと、そのDNAを現場で体現する内藤さんに、一人ひとりが当事者意識を持つ「全員主役」の組織がいかにして作られたのか、そしてVCなどの外部株主を入れない経営で市場をリードし続ける強みと未来までを語っていただきました！",
+    "url": "https://recruit.blam.co.jp/members/interviews/interview20",
+    "pass": 3
+   },
+   {
+    "quote": "ベストベンチャーとして評価されている理由としては、やはり外部株主を入れずに、自分たちの力で経営している点が大きいと考えています",
+    "url": "https://recruit.blam.co.jp/members/interviews/interview20",
+    "pass": 3
+   },
+   {
+    "quote": "弊社はVC（ベンチャーキャピタル＝新興企業へ出資し、経営支援と回収を行うこと）からの出資を受けず、株式による資金調達を行わない経営を続けています",
+    "url": "https://recruit.blam.co.jp/members/interviews/interview20",
+    "pass": 3
+   },
+   {
+    "quote": "一般的な構造として、VCから資金調達を行う場合は、投資家の方々への期待に応えるべく、一定の期間内に高い成長と利益の還元を目指すという素晴らしい加速力が生まれます",
+    "url": "https://recruit.blam.co.jp/members/interviews/interview20",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、その期限があることで、時には「中長期的なビジョン」と「短期的な出口戦略（IPO＝新規上場や売却）」との間でバランスを求められる場面も出 てきます",
+    "url": "https://recruit.blam.co.jp/members/interviews/interview20",
+    "pass": 3
+   },
+   {
+    "quote": "その点、弊社には外部株主による制約がないため、自分たちが心から描きたい未来や、実現したいビジョンに対して100%フォーカスできる環境があります",
+    "url": "https://recruit.blam.co.jp/members/interviews/interview20",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん、外部からの資金調達に頼らない以上、自らの力で利益を生み出し続けなければ会社は存続も、更なる成長への投資もできません",
+    "url": "https://recruit.blam.co.jp/members/interviews/interview20",
+    "pass": 3
+   },
+   {
+    "quote": "創業間もない頃からのメンバーたちも、その後ジョインしてくれた今BLAMの根幹を担ってくれているようなメンバーたちの多くや、BLAMの完全子会社であったSenriの取締役も、状況を理解して給料を下げて入ってくれました",
+    "url": "https://recruit.blam.co.jp/members/interviews/interview20",
+    "pass": 3
+   },
+   {
+    "quote": "資金は自分が貯金ゼロだったので副代表に8万円借りて出資したり...、知識も人脈も乏しい中でのスタートでした",
+    "url": "https://note.com/tatsu_from_yama/n/n2d9014b7367b",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、現在もVC等からの資金調達は行わずに自己資本での成長を続けています",
+    "url": "https://note.com/tatsu_from_yama/n/n2d9014b7367b",
+    "pass": 3
+   },
+   {
+    "quote": "■大手・上場企業の経営層（社長・CMO・CFO）と対等に渡り合える",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "■人事総務:採用・人財育成・労務・総務 ■広報IR:株主や投資家対応・広報活動 ■財務経理:予算編成・管理・決算業務 ■経営企画:経営戦略や事業計画策定・推進・事業分析 ■法務コンプライアンス:契約審査・法務相談・コンプライアンス推進 【育成】基礎から着実に業務を修得し、将来は部門横断の課題解決や業務改善を主導する存在へ成長できます",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "1月入社【大学図書館利用支援業務(課長補佐)】立命館100%出資/年間休日134日 学校事務/大学事務/教務事務",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社クレオテック 求人名 1月入社【大学図書館利用支援業務（課長補佐）】立命館100%出資/年間休日134日 仕事の内容 立命館大学図書館の利用支援業務全般をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 1月入社【大学図書館利用支援業務（課長補佐）】立命館100%出資/年間休日134日",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "【仕事の魅力】学校法人立命館100%出資企業という安定した経営基盤のもと、年間休日134日や充実した福利厚生が整っています",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 【必須】Word・Excelの基本操作ができる方【尚可】管理業務主任者の有資格者 ■PCを使用したデータ入力や基本的な各種文書作成の実務経験 ■管理業務主任者資格をお持ちの方や不動産業界での就業経験 ■ここが魅力：東証スタンダード上場グループの安定した経営基盤のもと、年間休日125日＆土日祝休みと優れたワークライフバランスを実現しながら長期的にスキルアップが可能です",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "【大阪】営業事務 日立製作所100%出資/年休126日/安定基盤で長く働く 機械/電気/電子製品法人営業",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 関西日立株式会社 求人名 【大阪】営業事務◆日立製作所100％出資/年休126日/安定基盤で長く働く 仕事の内容 営業担当者のサポート業務を中心に、受発注管理や見積書作成などの事務業務をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "・見積書、提案資料の作成補助 ・受発注処理 ・売上、請求関連業務 ・納期確認、調整 ・営業担当者のスケジュール管理 ・顧客情報や案件情報の管理 ・社内関係部署との連携 募集職種 【大阪】営業事務◆日立製作所100％出資/年休126日/安定基盤で長く働く",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "経理(上場経理・業務改善)*フルリモート可* 財務会計",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "単体・連結決算、開示、税務等の上場企業経理全般をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 さくらインターネット株式会社 求人名 経理（上場経理・業務改善)＊フルリモート可＊ 仕事の内容 単体・連結決算、開示、税務等の上場企業経理全般をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "・月次・四半期・年次の単体決算および連結決算、各種法定開示資料の作成業務全般 ・新規サービスや事業スキーム等に関する複雑な会計論点整理および会計処理の検討 ・属人化している経理業務の徹底した棚卸しと可視化、業務フローやルールの再整備 ・経理業務におけるAI・自動化技術の活用検討、システムを用いた業務改善企画推進 ・事業部門からの専門的な会計相談対応、監査法人や顧問税理士等との高度な折衝業務 募集職種 経理（上場経理・業務改善)＊フルリモート可＊",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 【必須】以下の会計知識および実務経験をお持ちの方 ■上場企業、またはそれに準ずる企業における経理実務経験 ■単体決算を一通り自律して遂行できる知識・実務経験 ■会計基準・税法等に関する一定以上の知識 ■定型的な経理処理だけではなく、新たな取引・事象について会計論点を整理し、関係者と調整しながら対応した経験 ■業務上必要な情報を自ら収集し、周囲と連携しながら業務を推進した経験 【歓迎】■税務実務、監査法人や税理士との折衝、上場企業での連結決算や各種開示の実務経験 ■経理業務の標準化や抜本的な改善推進、AIや最新の会計システム等の導入や運用経験など 学歴・資格 学歴：大学院 大学 高専 短大 専修学校 高校 語学力： 資格：",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "●総務／株主総会、秘書業務、広報、サステナビリティ推進、リスク・コンプライアンスなど●経理／決算、会計・税務業務など",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "●総務／株主総会、秘書業務、広報、サステナビリティ推進、リスク・コンプライアンスなど●経理／決算、会計・税務業務など ●経営企画／経営企画関連業務、予算管理、所有物件の再開発業務など●人事／採用、労務、給与、人財育成など●営業／オフィス・倉庫の新規テナント誘致、契約更新、月極駐車場管理業務など●運営管理／所有物件のAM・PM業務など●イベント事業／展示場・貸し会議室の運営、時間貸し駐車場管理業務など●PM事業／他社物件のPM業務 募集職種 第2新卒歓迎【三菱地所Gr/総合職】転勤無/新卒大手入社者の次のキャリアに",
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業からスタートアップ、自治体、プロスポーツチーム様まで",
+    "url": "https://note.com/katsuonakajima/n/n9247934d5bc4",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式 会社BLAM - スピーダ スタートアップ情報リサーチ — 株式 会社BLAM - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-31533",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社BLAM の転職・求人 情報 - AMBI — 株式 会社BLAM の転職・求人 情報 - AMBI アンビ（AMBI） https://en-ambi.com > agency",
+    "url": "https://en-ambi.com/agency/a-12110/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社BLAM の求人・採用 情報 - ビズリーチ — 株式 会社BLAM の求人・採用 情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies",
+    "url": "https://www.bizreach.jp/companies/29453/",
+    "pass": 3
+   },
+   {
+    "quote": "創業10周年を記念した特別コンテンツを公開 | 株式 会社BLAM ... — 創業10周年を記念した特別コンテンツを公開 | 株式 会社BLAM ... PR TIMES https://prtimes.jp > キャンペーン",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000030645.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社BLAM - 日本の人事部 — 株式 会社BLAM - 日本の人事部 日本の人事部 https://jinjibu.jp > 提供企業一覧",
+    "url": "https://jinjibu.jp/corporate/yel/1598/",
+    "pass": 3
+   },
+   {
+    "quote": "【企業研究】株式会社 BLAM の社風・求める人物像・選考対策 ... — 【企業研究】株式会社 BLAM の社風・求める人物像・選考対策 ... jo-katsu.com https://jo-katsu.com > 就活ハンドブック > 企業分析",
+    "url": "https://jo-katsu.com/campus/7811/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 BLAM - スピーダ スタートアップ情報リサーチ — 株式会社 BLAM - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-31533",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 BLAM の企業情報 - バフェット・コード — 株式会社 BLAM の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company",
+    "url": "https://www.buffett-code.com/company/6056sk5mfc/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 BLAM 、2026年度「ベストベンチャー100」に選出 — 株式会社 BLAM 、2026年度「ベストベンチャー100」に選出 株式会社BLAM https://blam.co.jp > news",
+    "url": "https://blam.co.jp/news/4bx8yHYBj6Luxy0oRDZuOA",
+    "pass": 3
+   },
+   {
+    "quote": "【 BLAM 】10年連続増収を続けられた理由～広告代理店からの ... — 【 BLAM 】10年連続増収を続けられた理由～広告代理店からの ... note https://note.com > ビジネス > マーケティング",
+    "url": "https://note.com/tatsu_from_yama/n/n2d9014b7367b",
+    "pass": 3
+   },
+   {
+    "quote": "ベストベンチャー100選出の軌跡 - BLAM 採用サイト — ベストベンチャー100選出の軌跡 - BLAM 採用サイト 株式会社BLAM https://recruit.blam.co.jp > interviews > interview20",
+    "url": "https://recruit.blam.co.jp/members/interviews/interview20",
+    "pass": 3
+   },
+   {
+    "quote": "BLAM ｜STARTUP DB（スタートアップデータベース） — BLAM ｜STARTUP DB（スタートアップデータベース） STARTUP DB｜スタートアップデータベース https://startup-db.com > スタートアップ一覧",
+    "url": "https://startup-db.com/companies/rB5WJbnUPq0Jo97q",
+    "pass": 3
+   },
+   {
+    "quote": "実績・ 事例 - 株式会社BLAM — 実績・ 事例 - 株式会社BLAM 株式会社BLAM https://blam.co.jp > cases",
+    "url": "https://blam.co.jp/cases",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 BLAM 様：リードが熱いうちに動く。展示会当日から ... — 株式会社 BLAM 様：リードが熱いうちに動く。展示会当日から ... 株式会社マクニカ https://www.macnica.co.jp > ... > AI事業 > 導入事例",
+    "url": "https://www.macnica.co.jp/business/ai/case/149943/",
+    "pass": 3
+   },
+   {
+    "quote": "BLAM Signature Multix 導入事例 をご紹介 – TRUIM BLOG — BLAM Signature Multix 導入事例 をご紹介 – TRUIM BLOG TRUIM https://www.truim.jp > blog",
+    "url": "https://www.truim.jp/blog/?p=1434",
+    "pass": 3
+   },
+   {
+    "quote": "BLAM がプロ人材と多様なクリエイティブ制作を内製化 — BLAM がプロ人材と多様なクリエイティブ制作を内製化 株式会社BLAM https://blam.co.jp > cases",
+    "url": "https://blam.co.jp/cases/3TziYpxQCEgMiTLZTmU3jL",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社BLAM — 会社概要 - 株式会社BLAM 株式会社BLAM https://blam.co.jp > company",
+    "url": "https://blam.co.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 BLAM の役員・従業員 - Wantedly — 株式会社 BLAM の役員・従業員 - Wantedly Wantedly https://www.wantedly.com > Wantedly > 株式会社BLAM",
+    "url": "https://www.wantedly.com/companies/blam/members",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 BLAM 杉生 遊 - ベストベンチャー100 — 株式会社 BLAM 杉生 遊 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > blam",
+    "url": "https://best100.v-tsushin.jp/company/blam/",
+    "pass": 3
+   }
+  ],
+  "選出の記録": [
+   {
+    "quote": "ベストベンチャー100選出の軌跡｜BLAM | 株式会社BLAM 採用サイト",
+    "url": "https://recruit.blam.co.jp/members/interviews/interview20",
+    "pass": 3
+   },
+   {
+    "quote": "【ベストベンチャー100選出】「できない」を捨てた覚悟が原点",
+    "url": "https://recruit.blam.co.jp/members/interviews/interview20",
+    "pass": 3
+   },
+   {
+    "quote": "まずはベストベンチャー100への選出、おめでとうございます",
+    "url": "https://recruit.blam.co.jp/members/interviews/interview20",
+    "pass": 3
+   },
+   {
+    "quote": "以前の選出時と比べ、事業構想で進化した点はどこでしょうか？逆にぶらさずに貫いている点はありますか？",
+    "url": "https://recruit.blam.co.jp/members/interviews/interview20",
+    "pass": 3
+   },
+   {
+    "quote": "最初の選出は2020年頃、まだ『カイコク』をリリースして2年くらいのタイミングでした",
+    "url": "https://recruit.blam.co.jp/members/interviews/interview20",
+    "pass": 3
+   },
+   {
+    "quote": "「ベストベンチャー100」は、イシン(株)が提供する法人向け有料会員制サービスです",
+    "url": "https://recruit.blam.co.jp/members/interviews/interview20",
+    "pass": 3
+   },
+   {
+    "quote": "エントリーした企業の中から、厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます",
+    "url": "https://recruit.blam.co.jp/members/interviews/interview20",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "事業構造を変えた1年～ BLAM がAI時代に描く - note 事業構造を変えた1年～ BLAM がAI時代に描く - note note https://note.com > ビジネス > マーケティング",
+    "url": "https://note.com/tatsu_from_yama/n/n93faf10c753e",
+    "pass": 3
+   },
+   {
+    "quote": "BLAM が実現するマーケティングDXについて説明します - note BLAM が実現するマーケティングDXについて説明します - note note https://note.com > デザイン > デザイン全般",
+    "url": "https://note.com/katsuonakajima/n/n9247934d5bc4",
+    "pass": 3
+   },
+   {
+    "quote": "【 BLAM 】10年連続増収を続けられた理由～広告代理店からの ... 【 BLAM 】10年連続増収を続けられた理由～広告代理店からの ... note https://note.com > ビジネス > マーケティング",
+    "url": "https://note.com/tatsu_from_yama/n/n2d9014b7367b",
+    "pass": 3
+   },
+   {
+    "quote": "BLAM は良い会社だと思う。だからこそ本気で勝ちたいと思う。 BLAM は良い会社だと思う。だからこそ本気で勝ちたいと思う。 note https://note.com > キャリア > 特定層向けキャリア",
+    "url": "https://note.com/katsuonakajima/n/ndcdce11ec442",
+    "pass": 3
+   },
+   {
+    "quote": "ナカジマタカミツ｜株式会社 BLAM - note ナカジマタカミツ｜株式会社 BLAM - note note https://note.com > katsuonakajima",
+    "url": "https://note.com/katsuonakajima",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "事業構造を変えた1年～BLAMがAI時代に描く、マーケティング業界の未来｜浅川たつろ",
+    "url": "https://note.com/tatsu_from_yama/n/n93faf10c753e",
+    "pass": 3
+   },
+   {
+    "quote": "事業構造を変えた1年～BLAMがAI時代に描く、マーケティング業界の未来",
+    "url": "https://note.com/tatsu_from_yama/n/n93faf10c753e",
+    "pass": 3
+   },
+   {
+    "quote": "新年あけましておめでとうございます。株式会社BLAMの浅川です。",
+    "url": "https://note.com/tatsu_from_yama/n/n93faf10c753e",
+    "pass": 3
+   },
+   {
+    "quote": "2026年を迎えました。BLAMにとって、昨年2025年はまさに大きな転換の年でした。",
+    "url": "https://note.com/tatsu_from_yama/n/n93faf10c753e",
+    "pass": 3
+   },
+   {
+    "quote": "昨年の振り返りと、今後についてお話させてください。",
+    "url": "https://note.com/tatsu_from_yama/n/n93faf10c753e",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度、BLAMは10期連続の増収を達成しました。2025年度もカイコクの急成長とPjTOマーケティング領域の大型案件増加により、計画を上回る売上と利益を実現しています。",
+    "url": "https://note.com/tatsu_from_yama/n/n93faf10c753e",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、社内では数字以上に深刻な危機感がありました。成長率が鈍化しつつあったことに加え、何よりも「現場の疲弊」が限界に近づいていたのです。当時の成果は、個々人が本来のキャパシティを超えて無理をすることで何とか維持されている状態でした。この働き方を続けていては、メンバーの幸せも、事業の持続可能性も守ることはできない。そう痛感していました。",
+    "url": "https://note.com/tatsu_from_yama/n/n93faf10c753e",
+    "pass": 3
+   },
+   {
+    "quote": "これまでのBLAMは、スポット案件を多く抱えていました。スポット案件が全体の3割以上を占め、短期的な売上は立つものの、事業の安定性や成長の持続性には課題がありました。",
+    "url": "https://note.com/tatsu_from_yama/n/n93faf10c753e",
+    "pass": 3
+   },
+   {
+    "quote": "BLAMが実現するマーケティングDXについて説明します｜ナカジマタカミツ｜株式会社BLAM",
+    "url": "https://note.com/katsuonakajima/n/n9247934d5bc4",
+    "pass": 3
+   },
+   {
+    "quote": "BLAMが実現するマーケティングDXについて説明します",
+    "url": "https://note.com/katsuonakajima/n/n9247934d5bc4",
+    "pass": 3
+   },
+   {
+    "quote": "突然noteを書こうと思い立ち変な時間にPCを開いたのですが、最近良くお会いする方々から「BLAMの支援範囲って結局何なの？」「事業内容、独特じゃない？」「競合ってどこなの？」という質問をいただくことが多く、一度分かりやすく解説してみようと思いました。",
+    "url": "https://note.com/katsuonakajima/n/n9247934d5bc4",
+    "pass": 3
+   },
+   {
+    "quote": "また、BLAMの事業内容を見て、事業がきっかけで興味を持ちBLAMにジョインしてくれる仲間も見つけたいです。出来ることが広いからこそ、キャリアの観点でも正直とても刺激的だと思います。",
+    "url": "https://note.com/katsuonakajima/n/n9247934d5bc4",
+    "pass": 3
+   },
+   {
+    "quote": "事業の説明をする前に、先にBLAMの強みからお話ししようと思います。",
+    "url": "https://note.com/katsuonakajima/n/n9247934d5bc4",
+    "pass": 3
+   },
+   {
+    "quote": "プロ複業人材でのリソース・スキルの補完×自社でのマーケティングDX支援事業でのシナジーを国内で唯一実現できている会社である\"",
+    "url": "https://note.com/katsuonakajima/n/n9247934d5bc4",
+    "pass": 3
+   },
+   {
+    "quote": "・自社マーケティングDX支援事業とのシナジー",
+    "url": "https://note.com/katsuonakajima/n/n9247934d5bc4",
+    "pass": 3
+   },
+   {
+    "quote": "さて、ここからBLAMの各事業の説明をします。",
+    "url": "https://note.com/katsuonakajima/n/n9247934d5bc4",
+    "pass": 3
+   },
+   {
+    "quote": "【BLAM】10年連続増収を続けられた理由～広告代理店からの脱却～｜浅川たつろ",
+    "url": "https://note.com/tatsu_from_yama/n/n2d9014b7367b",
+    "pass": 3
+   },
+   {
+    "quote": "【BLAM】10年連続増収を続けられた理由～広告代理店からの脱却～",
+    "url": "https://note.com/tatsu_from_yama/n/n2d9014b7367b",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社BLAMは、おかげさまで2025年4月に創業10周年を迎えました。そして、設立以来",
+    "url": "https://note.com/tatsu_from_yama/n/n2d9014b7367b",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ、私たちはこの競争の激しい時代に、「普通の広告代理店」という枠を打ち破り、常識を覆すベンチャーとして10年間成長を続けられたのでしょうか？",
+    "url": "https://note.com/tatsu_from_yama/n/n2d9014b7367b",
+    "pass": 3
+   },
+   {
+    "quote": "今回は創業メンバーの一人として、BLAMの10年の道のりを振り返り、広告代理店からの大胆な脱却と果敢な挑戦の過程で得た経験、そして継続的な成長を支えた4つの秘訣について、少しお話しさせてください。私たちの歩みが、これから事業を成長させたいと考える方や、変化に挑戦する組織にとって、何かしらのヒントとなれば幸いです。",
+    "url": "https://note.com/tatsu_from_yama/n/n2d9014b7367b",
+    "pass": 3
+   },
+   {
+    "quote": "私たちの物語は、決して華々しいスタートではありませんでした。2015年4月、オプトの同期だった3人でBLAMを創業したのですが、最初は渋谷のBarの空きスペースを使った、全く別の事業「BlankMatching」という予約代行サービスを立ち上げました...。しかし、これはわずか1ヶ月であえなく頓挫...。自分たちの最大の強みであるデジタルマーケティングを活かそうと、広告代理業へと大きく舵を切りました。",
+    "url": "https://note.com/tatsu_from_yama/n/n2d9014b7367b",
+    "pass": 3
+   },
+   {
+    "quote": "創業当時は、本当に何もありませんでした。資金は自分が貯金ゼロだったので副代表に8万円借りて出資したり...、知識も人脈も乏しい中でのスタートでした。金額は顧みずすべての仕事を受けて、毎日必死に働きました。そんな中で、個人としては、キャンペーン開始前の極秘広告を配信してしまうという、会社倒産の危機に直面するような広告配信ミスも経験しました...。謝罪訪問の前日、代表と副代表と朝まで質問と回答を準備して、深夜に歩きながら暗記したこと、謝罪時に手が震えたこと、それでも彼らは一度も自分を責めなかったことは忘れられません。幸い、先方の部長の人格のおかげで許していただき、なんとか会社は潰れずに済みました。",
+    "url": "https://note.com/tatsu_from_yama/n/n2d9014b7367b",
+    "pass": 3
+   },
+   {
+    "quote": "広告代理業でキャッシュを作りながら、新しい事業への挑戦も続けました。ネイティブ広告のネットワークを作ろうとしたり、「TsutaL」というサービスを開発しようとしたり、テイクアウトサービスに参画したり...と、100以上のアイデアを出しては話し合ってボツに、いくつも試しましたが、いずれも撤退や離脱を繰り返しました...。限られた資金、知識、人脈の中で、まさに手探りの状態だったのです。",
+    "url": "https://note.com/tatsu_from_yama/n/n2d9014b7367b",
+    "pass": 3
+   },
+   {
+    "quote": "BLAMは良い会社だと思う。だからこそ本気で勝ちたいと思う。｜ナカジマタカミツ｜株式会社BLAM",
+    "url": "https://note.com/katsuonakajima/n/ndcdce11ec442",
+    "pass": 3
+   },
+   {
+    "quote": "BLAMは良い会社だと思う。だからこそ本気で勝ちたいと思う。",
+    "url": "https://note.com/katsuonakajima/n/ndcdce11ec442",
+    "pass": 3
+   },
+   {
+    "quote": "「ハタラクを叶える」をビジョンに掲げ企業のマーケティングDX支援を行う",
+    "url": "https://note.com/katsuonakajima/n/ndcdce11ec442",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社BLAMに入社して2年と少しが経過した。",
+    "url": "https://note.com/katsuonakajima/n/ndcdce11ec442",
+    "pass": 3
+   },
+   {
+    "quote": "振り返ると今までのキャリアの中で最も濃く、最も早く、最も変化した期間だったと思う。（たぶん来年も同じことを言っている気がする）",
+    "url": "https://note.com/katsuonakajima/n/ndcdce11ec442",
+    "pass": 3
+   },
+   {
+    "quote": "特に直近1年の出来事や経験は、振り返ると3年くらいに感じるほどだった。",
+    "url": "https://note.com/katsuonakajima/n/ndcdce11ec442",
+    "pass": 3
+   },
+   {
+    "quote": "ちなみに、以前書いた以下のnoteは入社半年というタイミングだったけれど、当時と今を比べてもやっぱり濃いよなぁと思う。",
+    "url": "https://note.com/katsuonakajima/n/ndcdce11ec442",
+    "pass": 3
+   },
+   {
+    "quote": "濃ゆい1年を過ごし、特にこの半年は自分のチーム・部署を任せて頂いた中で、3月の納会では半期の全社MVPをいただいた。",
+    "url": "https://note.com/katsuonakajima/n/ndcdce11ec442",
+    "pass": 3
+   },
+   {
+    "quote": "ナカジマタカミツ｜株式会社BLAM｜note",
+    "url": "https://note.com/katsuonakajima",
+    "pass": 3
+   },
+   {
+    "quote": "人を見る会社で、僕は変われた -BLAMでの4年間-",
+    "url": "https://note.com/katsuonakajima",
+    "pass": 3
+   },
+   {
+    "quote": "「35歳転職限界説」について、34歳を迎えたいま思うこと",
+    "url": "https://note.com/katsuonakajima",
+    "pass": 3
+   },
+   {
+    "quote": "BLAMが実現するマーケティングDXについて説明します",
+    "url": "https://note.com/katsuonakajima",
+    "pass": 3
+   },
+   {
+    "quote": "新卒1年目の時に知りたかった7つのこと。社会人11年目に振り返ってみた。",
+    "url": "https://note.com/katsuonakajima",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "cap on X: \"project blam development is finally back on track ... cap on X: \"project blam development is finally back on track ... X https://x.com > @GoSinister",
+    "url": "https://x.com/GoSinister/status/1522358098555375616",
+    "pass": 3
+   },
+   {
+    "quote": "Blam's (Yoru) on X: \"Nika performance #ONEPIECE1198\" / X Blam's (Yoru) on X: \"Nika performance #ONEPIECE1198\" / X X https://x.com > @BlamsYoru",
+    "url": "https://x.com/BlamsYoru/status/2118212346149577215/photo/2",
+    "pass": 3
+   },
+   {
+    "quote": "blam on X: \"blima\" / X blam on X: \"blima\" / X X https://x.com > @shablammie",
+    "url": "https://x.com/shablammie/status/2097539286073782755",
+    "pass": 3
+   },
+   {
+    "quote": "BLAM (@BLAM1895) / X BLAM (@BLAM1895) / X X https://x.com > BLAM1895",
+    "url": "https://x.com/BLAM1895",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "BLAM - LinkedIn BLAM - LinkedIn LinkedIn https://www.linkedin.com > blam",
+    "url": "https://www.linkedin.com/company/blam",
+    "pass": 3
+   },
+   {
+    "quote": "Blam Digital | Digital Marketing & AI Automation at Scale Blam Digital | Digital Marketing & AI Automation at Scale LinkedIn https://uk.linkedin.com > blam-digital",
+    "url": "https://uk.linkedin.com/company/blam-digital",
+    "pass": 3
+   },
+   {
+    "quote": "Blam Consulting Inc. - LinkedIn Blam Consulting Inc. - LinkedIn LinkedIn https://ca.linkedin.com > company",
+    "url": "https://ca.linkedin.com/company/blam-consulting-inc",
+    "pass": 3
+   },
+   {
+    "quote": "BLAM Charity ( Black Learning Achievement and Mental Health) BLAM Charity ( Black Learning Achievement and Mental Health) LinkedIn https://uk.linkedin.com > company",
+    "url": "https://uk.linkedin.com/company/blam-charity-black-learning-achievement-and-mental-health",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "BLAM (@blamaudio) - Facebook BLAM (@blamaudio) - Facebook Facebook https://www.facebook.com > ... > Brand > Electronics",
+    "url": "https://www.facebook.com/blamaudio/",
+    "pass": 3
+   },
+   {
+    "quote": "BLAM 812 Oval Subwoofer: Compact Bass for Under-Seat ... BLAM 812 Oval Subwoofer: Compact Bass for Under-Seat ... Facebook https://www.facebook.com > ... > CMA Networks > Videos",
+    "url": "https://www.facebook.com/thecmanetworks/videos/the-blam-812-redefines-whats-possible-in-compact-bass-performance-with-its-innov/2555669118213246/",
+    "pass": 3
+   },
+   {
+    "quote": "5 Reasons Enthusiasts Choose BLAM Speakers: French ... 5 Reasons Enthusiasts Choose BLAM Speakers: French ... Facebook https://www.facebook.com > ... > CMA Networks > Videos",
+    "url": "https://www.facebook.com/thecmanetworks/videos/blam-has-earned-a-worldwide-reputation-by-combining-french-craftsmanship-with-in/1013868281415769/",
+    "pass": 3
+   },
+   {
+    "quote": "Anyone here tried BLAM speakers especially multix or barrel ... Anyone here tried BLAM speakers especially multix or barrel ... Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/1545461535508890/posts/26658899247071772/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://blam.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blam.co.jp/cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blam.co.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blam.co.jp/business/kaikoku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blam.co.jp/cases/graphtone-note",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blam.co.jp/cases/brexa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blam.co.jp/cases/ceres",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blam.co.jp/employment-service-terms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blam.co.jp/cases?service=kaikoku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blam.co.jp/solution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blam.co.jp/services",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://blam.co.jp/cases?category=strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blam.co.jp/cases?category=acquisition",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blam.co.jp/cases?category=digital",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://blam.co.jp/_next/image?url=%2Fhome%2Fservice_intro_illustration.png&w=1500&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://initial.inc/companies/A-31533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en-ambi.com/agency/a-12110/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bizreach.jp/companies/29453/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jo-katsu.com/campus/7811/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-31533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/6056sk5mfc/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://initial.inc/companies/A-31533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.blam.co.jp/members/interviews/interview20",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsu_from_yama/n/n2d9014b7367b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/business/ai/case/149943/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truim.jp/blog/?p=1434",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/blam/members",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsu_from_yama/n/n93faf10c753e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/katsuonakajima/n/n9247934d5bc4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsu_from_yama/n/n2d9014b7367b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/katsuonakajima/n/ndcdce11ec442",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/GoSinister/status/1522358098555375616",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BlamsYoru/status/2118212346149577215/photo/2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shablammie/status/2097539286073782755",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/blam",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/blam-digital",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/blam-consulting-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/blam-charity-black-learning-achievement-and-mental-health",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/blamaudio/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thecmanetworks/videos/the-blam-812-redefines-whats-possible-in-compact-bass-performance-with-its-innov/2555669118213246/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thecmanetworks/videos/blam-has-earned-a-worldwide-reputation-by-combining-french-craftsmanship-with-in/1013868281415769/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1545461535508890/posts/26658899247071772/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tatsu_from_yama/n/n93faf10c753e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/katsuonakajima",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/BLAM1895",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "BLAM 会社概要 資本金 設立",
+   "results": [
+    "https://initial.inc/companies/A-31533",
+    "https://en-ambi.com/agency/a-12110/",
+    "https://www.bizreach.jp/companies/29453/",
+    "https://prtimes.jp/main/html/rd/p/000000091.000030645.html",
+    "https://jinjibu.jp/corporate/yel/1598/",
+    "https://www.green-japan.com/company/8774",
+    "https://www.buffett-code.com/company/6056sk5mfc/",
+    "https://jo-katsu.com/campus/7811/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000001GsGGE",
+    "https://blam.co.jp/company"
+   ]
+  },
+  {
+   "query": "BLAM 事業内容 売上",
+   "results": [
+    "https://jo-katsu.com/campus/7811/",
+    "https://initial.inc/companies/A-31533",
+    "https://www.buffett-code.com/company/6056sk5mfc/",
+    "https://blam.co.jp/news/4bx8yHYBj6Luxy0oRDZuOA",
+    "https://note.com/tatsu_from_yama/n/n2d9014b7367b",
+    "https://prtimes.com/finance/5011001104899/settlement",
+    "https://doda.jp/DodaFront/View/Company/j_id__10158778221/",
+    "https://adv.tokyo-np.co.jp/prtimes/article148649/",
+    "https://www.openwork.jp/a0C1000001GsGGE/pr/",
+    "https://catr.jp/companies/03806/154207/settlements/d80ff/472283"
+   ]
+  },
+  {
+   "query": "BLAM 資金調達 株主",
+   "results": [
+    "https://initial.inc/companies/A-31533",
+    "https://recruit.blam.co.jp/members/interviews/interview20",
+    "https://note.com/tatsu_from_yama/n/n2d9014b7367b",
+    "https://startup-db.com/companies/rB5WJbnUPq0Jo97q",
+    "https://corp.sales-marker.jp/post-5034/",
+    "https://initial.inc/companies/A-34499",
+    "https://www.starnewskorea.com/ja/star/2026/05/13/2026051313163384136",
+    "https://www.chosun.com/jp/economy-jp/2026/10/29/OO4HUF2CZFBITNZZURFUN4KLD4/",
+    "https://catr.jp/companies/03806/154207/settlements/33dd4/384067",
+    "https://assets.ctfassets.net/xl79o6sz54u0/1hIzGKqfYMKwetSKZkAT1L/f68478bc0e907cbe5c54f95aea5da1cd/_9_____BLAM____.pdf"
+   ]
+  },
+  {
+   "query": "BLAM 導入事例",
+   "results": [
+    "https://blam.co.jp/cases",
+    "https://www.macnica.co.jp/business/ai/case/149943/",
+    "https://www.truim.jp/blog/?p=1434",
+    "https://blam.co.jp/cases/3TziYpxQCEgMiTLZTmU3jL",
+    "https://bow-now.jp/media/cases/blam/",
+    "https://prtimes.jp/main/html/rd/p/000000059.000030645.html",
+    "https://www.youtube.com/watch?v=Ttas4ZbGKLY",
+    "https://note.com/tomitoms44/n/ncd32423d86bb",
+    "https://www.wantedly.com/companies/blam/about",
+    "https://blam.co.jp/"
+   ]
+  },
+  {
+   "query": "BLAM 主要取引先",
+   "results": [
+    "https://blam.co.jp/company",
+    "https://www.r-agent.com/viewjob/jkf56e6099b39a2e3a/",
+    "https://www.wantedly.com/companies/blam/members",
+    "https://initial.inc/companies/A-31533",
+    "https://best100.v-tsushin.jp/company/blam/",
+    "https://www.buffett-code.com/company/6056sk5mfc/",
+    "https://blam.co.jp/business",
+    "https://www.blamj.com/",
+    "https://www.wantedly.com/companies/blam/about"
+   ]
+  },
+  {
+   "query": "site:note.com BLAM",
+   "results": [
+    "https://note.com/tatsu_from_yama/n/n93faf10c753e",
+    "https://note.com/katsuonakajima/n/n9247934d5bc4",
+    "https://note.com/tatsu_from_yama/n/n2d9014b7367b",
+    "https://note.com/katsuonakajima/n/ndcdce11ec442",
+    "https://note.com/katsuonakajima",
+    "https://note.com/katsuonakajima/n/nc3797b69d30c",
+    "https://note.com/tatsu_from_yama/m/md05af9fde5d8",
+    "https://note.com/gaku_naito/n/n81729b4204db",
+    "https://note.com/blam_kaikoku/n/neca86a573b66",
+    "https://note.com/c_0412_h/n/ne47fc08b4458"
+   ]
+  },
+  {
+   "query": "site:x.com BLAM",
+   "results": [
+    "https://x.com/GoSinister/status/1522358098555375616",
+    "https://x.com/Mr_Rebs_/status/1986246080699273233",
+    "https://x.com/BlamsYoru/status/2118212346149577215/photo/2",
+    "https://x.com/shablammie/status/2097539286073782755",
+    "https://x.com/BlamsYoru/status/2117294516843811017/photo/1",
+    "https://x.com/BirthdayBoyBlam",
+    "https://x.com/BlamsYoru/status/2115743886320824444",
+    "https://x.com/BlamsYoru/status/2117632441657516443/photo/1",
+    "https://x.com/BlamsYoru/status/2104483469791285490",
+    "https://x.com/Polygon/status/1420824142249553924"
+   ]
+  },
+  {
+   "query": "site:linkedin.com BLAM",
+   "results": [
+    "https://www.linkedin.com/company/blam",
+    "https://uk.linkedin.com/company/blam-digital",
+    "https://ca.linkedin.com/company/blam-consulting-inc",
+    "https://uk.linkedin.com/company/blam-charity-black-learning-achievement-and-mental-health",
+    "https://www.linkedin.com/company/blam-ventures-llc",
+    "https://uk.linkedin.com/in/grantstain",
+    "https://www.linkedin.com/posts/blam-charity-black-learning-achievement-and-mental-health_blackhistory-blackbritishhistory-education-activity-7519431213376405504-FRdE",
+    "https://mw.linkedin.com/in/blam-hajap-454886290",
+    "https://www.linkedin.com/in/juliann-juras-appler-blam-0770341",
+    "https://au.linkedin.com/in/brad-curtis-7a8419211"
+   ]
+  },
+  {
+   "query": "site:facebook.com BLAM",
+   "results": [
+    "https://www.facebook.com/blamaudio/",
+    "https://www.facebook.com/thecmanetworks/videos/the-blam-812-redefines-whats-possible-in-compact-bass-performance-with-its-innov/2555669118213246/",
+    "https://www.facebook.com/thecmanetworks/videos/blam-has-earned-a-worldwide-reputation-by-combining-french-craftsmanship-with-in/1013868281415769/",
+    "https://www.facebook.com/groups/1545461535508890/posts/26658899247071772/",
+    "https://www.facebook.com/thecmanetworks/posts/the-blam-812-redefines-whats-possible-in-compact-bass-performance-with-its-innov/1761901568614990/",
+    "https://www.facebook.com/groups/caraudioamplified/posts/1508692084140224/",
+    "https://www.facebook.com/blamaudio/posts/the-mb2-a-and-mb2-c-full-range-midrange-drivers-share-the-same-50-mm-architectur/1559428906194491/",
+    "https://www.facebook.com/blamaudio/posts/discover-the-precision-of-high-end-sound-with-the-blam-audio-t20-mg-tweeter-desi/1520044756799573/",
+    "https://www.facebook.com/titanmotoring615/videos/the-signature-series-from-blamaudio-is-one-of-our-go-tos-for-high-end-audio-buil/1285675276377306/",
+    "https://www.facebook.com/groups/caraudioamplified/posts/1209804707362298/"
+   ]
+  },
+  {
+   "query": "BLAM note 社長",
+   "results": [
+    "https://note.com/tatsu_from_yama/n/n93faf10c753e",
+    "https://note.com/tatsu_from_yama/n/nfa02f05ce1bb",
+    "https://note.com/katsuonakajima",
+    "https://www.wantedly.com/companies/blam/post_articles/1072298",
+    "https://recruit.blam.co.jp/members/interviews/interview25",
+    "https://note.com/blam_no_kouhou/n/nbc805f2cb6b8",
+    "https://x.com/tatsu_blam",
+    "https://note.com/katsuonakajima/n/n8ebed53bab3a",
+    "https://onlystory.co.jp/stories/1241",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "BLAM X 投稿",
+   "results": [
+    "https://x.com/BLAM1895",
+    "https://blam.fanbox.cc/",
+    "https://digimaguild.blam.co.jp/articles/1418",
+    "https://www.pixiv.net/users/42936714",
+    "https://ww.twstalker.com/BLAM1895",
+    "https://x.com/Kaz_Blam",
+    "https://www.deviantart.com/katwasherexd/art/Blam-x-ciara-1022626206",
+    "https://e-hentai.org/tag/artist:blam",
+    "https://www.pixiv.net/users/42936714/illustrations",
+    "https://x.com/blam"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部31頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部31頁・検索11回）"
+ }
+}

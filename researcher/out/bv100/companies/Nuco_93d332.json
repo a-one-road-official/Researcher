@@ -1,0 +1,692 @@
+{
+ "name": "Nuco",
+ "aliases": [
+  "nuco"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T14:50:46.200974+00:00",
+ "official_url": "https://nuco.co.jp",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "データ利活用に関してトータルでクライアント様をサポート可能です",
+    "url": "https://nuco.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "様々なクライアント向けに大規模データ処理基板を構築したノウハウを惜しみなくお客様に提供いたします",
+    "url": "https://nuco.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントのデータ利活用内製化をサポートします",
+    "url": "https://nuco.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "データ分析組織設計、データ活用のための人材育成プランの立案から、プランの進捗管理、定期的にメンターとしてアドバイスしながらクライアントが自立したAI組織を構築に全力でコミットします",
+    "url": "https://nuco.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "機械学習の概論から導入事例、AIの理論までお客様のニーズに合わせて弊社側で社内向けのセミナーを開催させていただきます",
+    "url": "https://nuco.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントである大手不動産会社の営業担当者が、提案先への訪問前に行う情報整理および資料作成業務において、工数削減と品質向上を実現するために生成AIを導入",
+    "url": "https://nuco.co.jp/works/article/foxw8dDq",
+    "pass": 1
+   },
+   {
+    "quote": "AIロジックの実装には主にDifyを利用し、顧客要望のクイックな検証と本開発における導入を行った",
+    "url": "https://nuco.co.jp/works/article/foxw8dDq",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントにおいて、企画担当者は新規製品の企画書作成を作成するに当たって、下調べやユーザーアンケートの分析、製品アイディアの捻出、そしてそれらをまとめるスライド資料の作成に多大な労力と時間を要していたため、自動化、省力化を行うことが喫緊の課題であった",
+    "url": "https://nuco.co.jp/works/article/rP4dCwZa",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントが保有するニュースメディアにおいて、世間で話題になっているキーワードのランキングを掲載していたが、そのキーワードの選出、およびメディアへの入稿についてはすべて手動で行っていた",
+    "url": "https://nuco.co.jp/works/article/008PUSOw",
+    "pass": 1
+   },
+   {
+    "quote": "Nucoは、AI・機械学習を活用したシステム開発、Web・スマホアプリ開発、データ分析などの技術力で、幅広い業界の企業様をサポートするIT企業です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "仲間やクライアントと深く関わりながら、信頼される存在へと成長できる環境です!",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社はAI・機械学習を利用したシステム開発、Webアプリ・スマホアプリ開発、データ分析などのスキルで企業様のサポートを行っているIT企業です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "幅広い業界のモバイルアプリやWebサービス開発を手掛けており、案件は1 - 2次受けのためクライアントとの距離が近いのも特徴です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "企画から実装まで一貫してクライアントを支援します",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "エンタメ、アパレル、物流、金融業界など、",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントと直接やり取りしながら、",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務効率化や顧客対応の自動化を音声AIで実現",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "様々なクライアント向けに大規模データ処理基盤を構築してきたノウハウを、",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントが抱える課題を整理・構造化し、データ活用の方向性を明確にします",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "慶應義塾大学、上智大学、多摩美術大学、筑波大学、東京大学、東京科学大学、奈良先端科学技術大学院大学、日本大学、弘前大学、電気通信大学、京都情報大学院大学",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "愛知淑徳大学、青山学院大学、跡見学園女子大学、岩手大学、愛媛大学、大阪大学、学習院大学、関西大学、関西学院大学、京都先端科学大学、近畿大学、慶應義塾大学、神戸大学、國學院大學、国際基督教大学、国士舘大学、埼玉大学、相模女子大学、滋賀大学、静岡大学、芝浦工業大学、湘南工科大学、専修大学、高千穂大学、拓殖大学、千葉大学、中央大学、中京大学、筑波大学、電気通信大学、東京大学、東京学芸大学、東京都立大学、東京農工大学、東京薬科大学、東京理科大学、東北大学、東北福祉大学、東洋大学、日本大学、広島大学、福井大学、法政大学、放送大学、武蔵野大学、明治大学、明治学院大学、立教大学、龍谷大学、早稲田大学、神奈川工科大学",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "Nucoは、AI・機械学習を活用したシステム開発、Web・スマホアプリ開発、データ分析などの技術力で、幅広い業界の企業様をサポートするIT企業です",
+    "url": "https://job.mynavi.jp/28/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "仲間やクライアントと深く関わりながら、信頼される存在へと成長できる環境です!",
+    "url": "https://job.mynavi.jp/28/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "企画から実装まで一貫してクライアントを支援します",
+    "url": "https://job.mynavi.jp/28/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "エンタメ、アパレル、物流、金融業界など、",
+    "url": "https://job.mynavi.jp/28/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントと直接やり取りしながら、",
+    "url": "https://job.mynavi.jp/28/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務効率化や顧客対応の自動化を音声AIで実現",
+    "url": "https://job.mynavi.jp/28/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "様々なクライアント向けに大規模データ処理基盤を構築してきたノウハウを、",
+    "url": "https://job.mynavi.jp/28/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントが抱える課題を整理・構造化し、データ活用の方向性を明確にします",
+    "url": "https://job.mynavi.jp/28/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "慶應義塾大学、上智大学、多摩美術大学、筑波大学、東京大学、東京科学大学、奈良先端科学技術大学院大学、日本大学、弘前大学、電気通信大学、京都情報大学院大学",
+    "url": "https://job.mynavi.jp/28/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "愛知淑徳大学、青山学院大学、跡見学園女子大学、岩手大学、愛媛大学、大阪大学、学習院大学、関西大学、関西学院大学、京都先端科学大学、近畿大学、慶應義塾大学、神戸大学、國學院大學、国際基督教大学、国士舘大学、埼玉大学、相模女子大学、滋賀大学、静岡大学、芝浦工業大学、湘南工科大学、専修大学、高千穂大学、拓殖大学、千葉大学、中央大学、中京大学、筑波大学、電気通信大学、東京大学、東京学芸大学、東京都立大学、東京農工大学、東京薬科大学、東京理科大学、東北大学、東北福祉大学、東洋大学、日本大学、広島大学、福井大学、法政大学、放送大学、武蔵野大学、明治大学、明治学院大学、立教大学、龍谷大学、早稲田大学、神奈川工科大学",
+    "url": "https://job.mynavi.jp/28/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "最終的には、幅広いスキルと顧客とコミュニケーションを取れるプロフェッショナルなエンジニアとして活躍できる環境です",
+    "url": "https://paiza.jp/recruiters/6012",
+    "pass": 3
+   },
+   {
+    "quote": "案件は1〜2次受けなので、顧客との距離が近いです",
+    "url": "https://paiza.jp/recruiters/6012",
+    "pass": 3
+   }
+  ],
+  "選出の記録": [
+   {
+    "quote": "クライアントが保有するニュースメディアにおいて、世間で話題になっているキーワードのランキングを掲載していたが、そのキーワードの選出、およびメディアへの入稿についてはすべて手動で行っていた",
+    "url": "https://nuco.co.jp/works/article/008PUSOw",
+    "pass": 1
+   },
+   {
+    "quote": "キーワードの選出や入稿にかかる手順を自動化したいという課題があった",
+    "url": "https://nuco.co.jp/works/article/008PUSOw",
+    "pass": 1
+   },
+   {
+    "quote": "【2024年度ベストベンチャー100に選出されました！】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "イシン株式会社にエントリーした企業の中から、同社による厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "イシン株式会社にエントリーした企業の中から、同社による厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、受託開発が中心のため客先常駐はなく、",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "3年連続売上高前年比が130％以上と急成長中",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、受託開発が中心のため客先常駐はなく、",
+    "url": "https://job.mynavi.jp/28/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・AI開発者向けトレーニング：機械学習初心者エンジニア向けトレーニングの企画・運営",
+    "url": "https://paiza.jp/recruiters/6012",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "各種システムやアプリ開発プロジェクトを中心に、幅広い業界向けのモバイルアプリやWebアプリ、Webサービス開発案件まで豊富",
+    "url": "https://paiza.jp/recruiters/6012",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "資本金額が30万円から5千万円に増資となりました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金額が30万円から5千万円に増資となりました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp270552/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Outline - 株式会社Nuco — Outline - 株式会社Nuco 株式会社Nuco https://nuco.co.jp > outline",
+    "url": "https://nuco.co.jp/outline",
+    "pass": 3
+   },
+   {
+    "quote": "(株) Nuco の新卒採用・ 会社概要 | マイナビ2027 — (株) Nuco の新卒採用・ 会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp270552 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株) Nuco の2027年度 会社概要 | マイナビ2028 — (株) Nuco の2027年度 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp270552 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社Nuco の転職・企業 概要 - doda — 株式 会社Nuco の転職・企業 概要 - doda doda https://doda.jp > View > Company > j_id__10182095397",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10182095397/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社Nuco の求人・中途採用 - Type — 株式 会社Nuco の求人・中途採用 - Type type転職サイト https://type.jp > 掲載企業一覧",
+    "url": "https://type.jp/job-company/48907/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) Nuco の新卒採用・会社概要 | マイナビ2027 — (株) Nuco の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp270552 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株) Nuco の2027年度会社概要 | マイナビ2028 — (株) Nuco の2027年度会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp270552 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp270552/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Nuco の企業情報・エンジニア採用情報 - paiza — 株式会社 Nuco の企業情報・エンジニア採用情報 - paiza paiza https://paiza.jp > 企業検索",
+    "url": "https://paiza.jp/recruiters/6012",
+    "pass": 3
+   },
+   {
+    "quote": "Nuco の新卒採用・就職・会社概要とクチコミ - ワンキャリア — Nuco の新卒採用・就職・会社概要とクチコミ - ワンキャリア ワンキャリア https://www.onecareer.jp > companies",
+    "url": "https://www.onecareer.jp/companies/95418",
+    "pass": 3
+   },
+   {
+    "quote": "結局、 Nuco ではどんな力がつくの？ | 株式会社 Nuco - Wantedly — 結局、 Nuco ではどんな力がつくの？ | 株式会社 Nuco - Wantedly Wantedly https://www.wantedly.com > 株式会社Nuco > ストーリー",
+    "url": "https://www.wantedly.com/companies/company_8285417/post_articles/919070",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Nuco — 株式会社NucoはDeep Learningを用いたシステム開発を得意とする企業です。AI, 人工知能を組み込んだシステムの開発は弊社におまかせください。",
+    "url": "https://nuco.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Nuco の企業情報 | バフェット・コード — 株式会社Nucoの財務情報はバフェット・コードでCHECK!!",
+    "url": "https://www.buffett-code.com/company/7m8b1zvmz4/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)Nucoの新卒採用・会社概要 | マイナビ2027 — 「Nucoってどんな会社？ 」 「どんなことに挑戦できるの？ 」 そんな疑問に直接お答えする、オンライン説明会を日々開催しています！ まずはお気軽に、説明会ページからご希望の日程をご予約ください。 こんな方にオススメです ・文理不問！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Nuco Logistics Inc. (@NucoLogistics) / X Established in 2008, NUCO Logistics is FMC-OTI licensed NVOCC & Forwarder in the US. Let us know how we can support the growth of your business.",
+    "url": "https://x.com/nucologistics",
+    "pass": 3
+   },
+   {
+    "quote": "nuco.cloud on X: \"Witness https://t.co/NM0u9pZUkC SKYNET, the ... Witness nuco.cloud SKYNET, the world's first decentralized mesh hyperscaler 🙌🏼 What you can see in the image below is a representation of our soon-to-be-launched product nuco.cloud SKYNET.",
+    "url": "https://x.com/nucocloud/status/1742902923388981560",
+    "pass": 3
+   },
+   {
+    "quote": "NUCO Inc. (@NUCOinc) / Posts / X NUCO Inc. (@NUCOinc) - Posts - NUCO Inc. has grown to be a global manufacturing leader of sealants, foams, firestops, and adhesives... | X (formerly Twitter)",
+    "url": "https://x.com/nucoinc",
+    "pass": 3
+   },
+   {
+    "quote": "BlackMarket@nuco on X: \"10代20代の若いバンドさんやお客様とライブ... Sep 9, 2026 · BlackMarket@nuco @nuconuco6 Sep 9 多分今年1番いいねをもらった投稿がコレっていうのが自分という人間をよく表しているそんな気がする😊 660 翔丸 @FDCLumt7zWcw5QU",
+    "url": "https://x.com/nuconuco6/status/2097200392954335259",
+    "pass": 3
+   },
+   {
+    "quote": "BlackMarket@nuco on X: \"来年は渋谷の8割が着ているであろう我々の物... Oct 28, 2026 · 来年は渋谷の8割が着ているであろう我々の物販ですがメルカリで10万円の転売も予想されますので是非物販でお買い求め下さい。 (投稿には多分に妄想が含まれる可能性があります)",
+    "url": "https://x.com/nuconuco6/status/2115377889755664619",
+    "pass": 3
+   },
+   {
+    "quote": "BlackMarket@nuco on X: \"ライブはそれまでの練習どうこうより当日バ... ライブはそれまでの練習どうこうより当日バチっと良いウンコ出たかどうかの方が余程本番に影響出ると思うんだよな 05 Nov 2026 01:43:28",
+    "url": "https://x.com/nuconuco6/status/2118157216213844194",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "NuCo - LinkedIn We’re building NuCo to make that understanding effortless, actionable, and deeply personalised.",
+    "url": "https://www.linkedin.com/company/nuco-health",
+    "pass": 3
+   },
+   {
+    "quote": "NuCO2 - LinkedIn NuCO2 | 6,304 followers on LinkedIn. Beverage Carbonation Made Easy | NuCO2 is the only national provider of ISBT Certified beverage grade carbon dioxide and draught beer-grade nitrogen gas ...",
+    "url": "https://www.linkedin.com/company/nuco2",
+    "pass": 3
+   },
+   {
+    "quote": "NUCO Inc. - LinkedIn Established in 1988, NUCO Inc. has grown to be a global manufacturing leader of sealants, foams, firestops, and adhesives. We pride ourselves as an innovative manufacturer of superior quality...",
+    "url": "https://ca.linkedin.com/company/nuco-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Nuco International Ltd - LinkedIn Nuco International Ltd | 1,171 followers on LinkedIn. Nuco International (Nuco) specialise in the sourcing, purchasing and supply chain management of a range of stationery products for the...",
+    "url": "https://uk.linkedin.com/company/nuco-international-limited",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Nuco Auctioneers | Centurion - FacebookNUCO - Coconuts For Life - FacebookNuCO2 | Stuart FL - FacebookNuco - FacebookNUCO LTD - Mechanical and Engineering - Facebooknuco - Facebook𝗥𝗘𝗚𝗜𝗦𝗧𝗘𝗥 𝗡𝗢𝗪 𝗧𝗢 𝗕𝗜𝗗 & 𝗪𝗜𝗡! Lots Closing: Wed 2... Oct 23, 2026 · Nuco Auctioneers, Centurion. 128,598 followers · 2,592 talking about this · 265 were here. We specialize in the auctioning of commercial vehicles,... Spoon",
+    "url": "https://www.facebook.com/nucoauctioneer/",
+    "pass": 3
+   },
+   {
+    "quote": "NUCO - Coconuts For Life - FacebookNuCO2 | Stuart FL - FacebookNuco - FacebookNUCO LTD - Mechanical and Engineering - Facebooknuco - Facebook𝗥𝗘𝗚𝗜𝗦𝗧𝗘𝗥 𝗡𝗢𝗪 𝗧𝗢 𝗕𝗜𝗗 & 𝗪𝗜𝗡! Lots Closing: Wed 2... Spoon it into a NUCO Coconut Wrap, fold, and eat. NUCO wraps are low carb, keto friendly, and made with simple, all-natural ingredients. Save this for the next time you need dinner in minutes, and send it to t",
+    "url": "https://www.facebook.com/cocobynuco/",
+    "pass": 3
+   },
+   {
+    "quote": "NuCO2 | Stuart FL - FacebookNuco - FacebookNUCO LTD - Mechanical and Engineering - Facebooknuco - Facebook𝗥𝗘𝗚𝗜𝗦𝗧𝗘𝗥 𝗡𝗢𝗪 𝗧𝗢 𝗕𝗜𝗗 & 𝗪𝗜𝗡! Lots Closing: Wed 2... NuCO2, Stuart. 1,421 followers · 15 talking about this. NuCO2 is a Leading Beverage Gas Service Provider to the Hospitality Industry 6 days ago · Aca estamos locos Nuco x Carlos Blanco [Video Oficial] Venimos a luchar a este mundo NO SE RINDAN ",
+    "url": "https://www.facebook.com/nuco2llc/",
+    "pass": 3
+   },
+   {
+    "quote": "Nuco - Facebook 6 days ago · Aca estamos locos Nuco x Carlos Blanco [Video Oficial] Venimos a luchar a este mundo NO SE RINDAN !! 🫡 Aca estamos locos - Nuco x Carlos Blanco #Yadisponible Como en los tiempos de antes #muypronto 🔥🔥🎶",
+    "url": "https://www.facebook.com/Nuco666/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://nuco.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nuco.co.jp/about",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nuco.co.jp/service",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nuco.co.jp/works",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nuco.co.jp/works/article/foxw8dDq",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nuco.co.jp/works/article/rP4dCwZa",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nuco.co.jp/works/article/008PUSOw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nuco.co.jp/works/article/gxlRj2GJ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nuco.co.jp/works/article/fvtrz9l1",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp270552/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp270552/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://paiza.jp/recruiters/6012",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://paiza.jp/recruiters/6012",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-33530",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/nucologistics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nucocloud/status/1742902923388981560",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nucoinc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/nuco-health",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/nuco2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/nuco-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/nuco-international-limited",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nucoauctioneer/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cocobynuco/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nuco2llc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Nuco666/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nuconuco6/status/2097200392954335259",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nuconuco6/status/2115377889755664619",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nuconuco6/status/2118157216213844194",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Nuco 会社概要 資本金 設立",
+   "results": [
+    "https://nuco.co.jp/outline",
+    "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "https://job.mynavi.jp/28/pc/search/corp270552/outline.html",
+    "https://doda.jp/DodaFront/View/Company/j_id__10182095397/",
+    "https://type.jp/job-company/48907/",
+    "https://www.openwork.jp/a0C2x00000akrW3/compa/a0910000000Fqwk/",
+    "https://paiza.jp/recruiters/6012",
+    "https://compalyze.co.jp/company/2011001116897",
+    "https://tenshoku.mynavi.jp/company/382930/",
+    "https://nuco.co.jp/"
+   ]
+  },
+  {
+   "query": "Nuco 事業内容 売上",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "https://job.mynavi.jp/28/pc/search/corp270552/outline.html",
+    "https://paiza.jp/recruiters/6012",
+    "https://www.onecareer.jp/companies/95418",
+    "https://www.wantedly.com/companies/company_8285417/post_articles/919070",
+    "https://best100.v-tsushin.jp/company/nuco/",
+    "https://alarmbox.jp/companyinfo/entities/2011001116897",
+    "https://tenshoku.mynavi.jp/jobinfo-450757-1-4-1/",
+    "https://doda.jp/DodaFront/View/EndJobDetail/j_id__3013310942/",
+    "https://nuco.co.jp/outline"
+   ]
+  },
+  {
+   "query": "Nuco 資金調達 株主",
+   "results": [
+    "https://paiza.jp/recruiters/6012",
+    "https://initial.inc/companies/A-33530",
+    "https://nuco.co.jp/",
+    "https://www.buffett-code.com/company/7m8b1zvmz4/",
+    "https://job.mynavi.jp/27/pc/search/corp270552/outline.html",
+    "https://job.mynavi.jp/28/pc/search/corp270552/outline.html",
+    "https://nuco.co.jp/about",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2011001116897",
+    "https://best100.v-tsushin.jp/company/nuco/"
+   ]
+  },
+  {
+   "query": "Nuco 導入事例",
+   "results": []
+  },
+  {
+   "query": "Nuco 主要取引先",
+   "results": []
+  },
+  {
+   "query": "site:note.com Nuco",
+   "results": []
+  },
+  {
+   "query": "site:x.com Nuco",
+   "results": [
+    "https://x.com/nucologistics",
+    "https://x.com:2096/nucocloud",
+    "https://x.com/nucocloud/status/1742902923388981560",
+    "https://x.com/nucoinc",
+    "https://x.com/tiuqueee/status/2116920758077431833",
+    "https://x.com/nucomori/status/2117263908390236632",
+    "https://x.com/nuconuco6/status/2118315830878535844"
+   ]
+  },
+  {
+   "query": "site:linkedin.com Nuco",
+   "results": [
+    "https://www.linkedin.com/company/nuco-health",
+    "https://www.linkedin.com/company/nuco2",
+    "https://ca.linkedin.com/company/nuco-inc",
+    "https://uk.linkedin.com/company/nuco-international-limited",
+    "https://uk.linkedin.com/in/keith-matthews-5a11375b",
+    "https://za.linkedin.com/company/nuco-auctioneers",
+    "https://ca.linkedin.com/in/rhonda-uretsky-4b275235"
+   ]
+  },
+  {
+   "query": "site:facebook.com Nuco",
+   "results": [
+    "https://www.facebook.com/nucoauctioneer/",
+    "https://www.facebook.com/cocobynuco/",
+    "https://www.facebook.com/nuco2llc/",
+    "https://www.facebook.com/Nuco666/",
+    "https://www.facebook.com/p/NUCO-LTD-Mechanical-and-Engineering-100063463692635/",
+    "https://www.facebook.com/nucoclothing/",
+    "https://www.facebook.com/nucoauctioneer/videos/register-now_nuco-auctioneersmp4/1728723868174597/"
+   ]
+  },
+  {
+   "query": "Nuco note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://v-tsushin.jp/interview/vt89_nuco/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://best100.v-tsushin.jp/company/nuco/"
+   ]
+  },
+  {
+   "query": "Nuco X 投稿",
+   "results": [
+    "https://x.com/nuconuco6/status/2097200392954335259",
+    "https://x.com/nuconuco6/status/2115377889755664619",
+    "https://x.com/nuconuco6/status/2118157216213844194",
+    "https://x.com/m_nuco/status/2077770255016100316",
+    "https://x.com/umeoka_nuco2025/status/2116845690588713404",
+    "https://x.com/nuco_20001111/status/2113537007851053564",
+    "https://x.com/nico_usersevent"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部21頁・検索11回）",
+  "資本金": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部21頁・検索11回）",
+  "創業年度": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部21頁・検索11回）",
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部21頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部21頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部21頁・検索11回）",
+  "所在地": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部21頁・検索11回）",
+  "代表者": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部21頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部21頁・検索11回）"
+ }
+}

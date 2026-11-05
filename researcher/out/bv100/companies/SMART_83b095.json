@@ -1,0 +1,1372 @@
+{
+ "name": "SMART",
+ "aliases": [
+  "sma-gol"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T14:51:05.307213+00:00",
+ "official_url": "https://sma-gol.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "東京都渋谷区渋谷2-11-5 クロスオフィス渋谷メディオ8F",
+    "url": "https://sma-gol.com/company/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2020年9月14日",
+    "url": "https://sma-gol.com/company/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "5,900万円",
+    "url": "https://sma-gol.com/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "運営会社 | ゴルフ練習場・レッスン・インドアゴルフ SMART GOLF",
+    "url": "https://sma-gol.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "主にフランチャイズ事業運営・店舗管理運営業務に従事",
+    "url": "https://sma-gol.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "大学卒業後、ミズノ株式会社にて野球事業におけるマーケティング・アライアンス開拓、および製造・物流・建設業向けの法人営業に従事",
+    "url": "https://sma-gol.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、アクセンチュア株式会社にて製造小売・エネルギー業界のSCM改革・戦略人事・AI構築のプロジェクトに従事",
+    "url": "https://sma-gol.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "【メディア掲載】SMART GOLFが「ゴルミーチョ」にて紹介されました",
+    "url": "https://sma-gol.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Will Smart（175A）の事業内容・業績｜平均年収742万円（情報・通信業で132位）・売上8億円（2025年12月期） | 図解経済",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトは顧客の求めに応じて作る受託と、あらかじめ機能ごとにまとめたパッケージの両方がある",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "売上は開発の時だけでなく、その後の保守とパッケージの利用料からも入る",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の販売や予約のシステムを自社の機器からクラウドへ移すクラウド化支援",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "画面の導入を支えるパッケージは、全国に販売の網を持つパートナーと組んで広げている",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期の売上高は8億円、営業利益は−3億円、当期純利益は−4億円",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年12月期から2025年12月期までの5期で、売上高は27%減った",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高に対する営業利益の割合は、2025年12月期が-37.5%、2024年12月期が-40%",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "売上の伸び−27%は、上から296番目",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員1人あたりの売上1,600万円は、上から250番目",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "売上の大きさは、351社の中で上から340番目",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "利益率は、各社が開示している利益（営業利益・経常利益・税引前利益など）を売上で割って計算している",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたり売上",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期は費用が売上高を上回り、営業利益がマイナスだった",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "売上を100円に揃えた内訳",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高を従業員数で割ると、1人あたり1,600万円になる",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員1人あたりの売上高（万円）",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "受託の案件の数が、その期の開発の売上を作る",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "納めた後の保守とパッケージの利用料は続けて入るため、導入が増えるほど積み上がる",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHR事業戦略発表会2026：2030年売上1,000億円目標に向けた事業進捗とAIプロダクトの実績｜Real SmartHR リアスマ",
+    "url": "https://real.smarthr.co.jp/articles/voices_0022",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHR事業戦略発表会2026：2030年売上1,000億円目標に向けた事業進捗とAIプロダクトの実績",
+    "url": "https://real.smarthr.co.jp/articles/voices_0022",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHRは、2026年7月に事業戦略発表会を開催し、2030年の売上1,000億円目標に対する現在の事業進捗や今後のプロダクト戦略について発表しました",
+    "url": "https://real.smarthr.co.jp/articles/voices_0022",
+    "pass": 3
+   },
+   {
+    "quote": "あわせて、2030年までに1,000億円の売上を作るというマイルストーンを発表しています",
+    "url": "https://real.smarthr.co.jp/articles/voices_0022",
+    "pass": 3
+   },
+   {
+    "quote": "そして、増加および進化したこれらのプロダクトが生み出した売上が、最新のARR（年間経常収益）の数値に表れています",
+    "url": "https://real.smarthr.co.jp/articles/voices_0022",
+    "pass": 3
+   },
+   {
+    "quote": "ARRとは、SaaSのサブスクリプションによる年間経常売上のことです",
+    "url": "https://real.smarthr.co.jp/articles/voices_0022",
+    "pass": 3
+   },
+   {
+    "quote": "このグラフは、M&Aやグループ会社の売上、およびSaaS以外の収益を含まない数値です",
+    "url": "https://real.smarthr.co.jp/articles/voices_0022",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHRの純粋なサブスクリプションのみでの売上300億円という実績は、国内の業務システム市場においても大規模な数値です",
+    "url": "https://real.smarthr.co.jp/articles/voices_0022",
+    "pass": 3
+   },
+   {
+    "quote": "そのいくつかの実践例として、今後提供を予定しているプロダクトをご紹介します",
+    "url": "https://real.smarthr.co.jp/articles/voices_0022",
+    "pass": 3
+   },
+   {
+    "quote": "テクマトリックス、ソフトウェア開発における意志決定を支援するダッシュボードツール「Quomiru v2」を販売",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2123332.html",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHRのピュアなサブスクの売上だけで300億円を突破できたのは、国内の業務システム市場を見ても、かなりの規模になってきている数値だ",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2123332.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社が人事労務分野の基幹システムとして進化を遂げてきたことを証明する売上になっていると思っている」とアピールした",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2123332.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社は昨年、クラウド人事労務ソフトウェアのSmartHRを、人的資本経営をデータに基づいて推進するための『人的資本経営プラットフォーム』となることを目指し、2030年の売上を1000億円とする目標を掲げていた",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2123332.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを実現するためにプロダクトの増強を図った結果、「給与計算と従業員ポータル領域の2つが好調で、売上に貢献した」と芹澤CEOは説明した",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2123332.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、目標とする2030年の売上1000億円の内訳としては、既存事業で820億円、M＆Aや協業で180億円を見込む",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2123332.html",
+    "pass": 3
+   },
+   {
+    "quote": "SaaSとSaaS以外という分類では、SaaSで860億円規模、SaaS以外で140億円規模の売上を目指していく",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2123332.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年に目指す事業ポートフォリオと売上高",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2123332.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式報酬のポテンシャルを引き出すメディア「Stock Journal」を運営している",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "3年で3倍強になっている売上の成長スピード",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "株式売買の仲介には、本来は第一種金融商品取引業者のような資格が必要ですが、当然我々はそのような資格を有していません",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "どこまで関与すべきか、すべきでないかを、仲介に該当しない範囲で、リーガルにチェックしてもらいながら進める必要がありました",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "：さて、森さんがもう2度とアナログでセカンダリー取引に対応しなくていいよう、Nstockで準備を進めている「セカンダリー事業」について、少し紹介させてください",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "この事業は、取引をたくさん発生させて収益を上げることよりも、発行体であるスタートアップの経営課題を解決することを優先しています",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "：自分たちが日頃からIRの一貫でコミュニケーションをとっている投資家に加えて、Nstock側からもセカンダリーにも柔軟な投資家を紹介してもらえるとうれしいですね",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "「3. 顧客基盤」が完全に一致していて、実際にSmartHRのセールス&マーケ経由での売上が一定割合を占めています",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "：共通の知人や、VCさん経由などで紹介を依頼していただいても大丈夫ですし、",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "しかし米国市場でのユーザー獲得は想定より時間がかかり、主力市場は依然日本でした",
+    "url": "https://note.com/maru56/n/n846394ddaef4",
+    "pass": 3
+   },
+   {
+    "quote": "製造管理基盤の構築で医療機器業界の早期スマート工場化を促進",
+    "url": "https://smartcraft.jp/case/",
+    "pass": 3
+   },
+   {
+    "quote": "「さわやか」が実現した、店舗運営・接客に集中できる環境づくり",
+    "url": "https://smarthr.jp/case/",
+    "pass": 3
+   },
+   {
+    "quote": "信頼と共創を大切に、持続可能なエネルギーの未来をともにつくるパートナー企業をご紹介します",
+    "url": "https://www.japan-smart-energy.co.jp/company/partners",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "顧客、従業員、会社",
+    "url": "https://sma-gol.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "市場環境、顧客ニーズの",
+    "url": "https://sma-gol.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年～2017年 野村證券(株)にて個人・法人投資家向けに金融商品の営業、ライフプランのコンサル業務に従事",
+    "url": "https://sma-gol.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年～2021年 M＆Aキャピタルパートナーズ(株)にて、M＆Aに関するコンサル・案件推進を実行する投資銀行業務に従事",
+    "url": "https://sma-gol.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年～2022年 塩野義製薬(株)にて医薬品情報担当者(MR)として、医療用医薬品の営業業務に従事",
+    "url": "https://sma-gol.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年～2022年 大学卒業後、塩野義製薬（株）にて医薬品情報担当者（MR）として、医療用医薬品の営業業務に従事",
+    "url": "https://sma-gol.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年～2021年 株式会社西日本シティ銀行にて法人営業・融資業務に従事",
+    "url": "https://sma-gol.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2021～2024年 株式会社日本政策金融公庫にて、企業の資金調達支援や財務基盤強化に向けた審査・支援業務を担い、多様な業種における財務分析のノウハウを培う",
+    "url": "https://sma-gol.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "大学卒業後、ミズノ株式会社にて野球事業におけるマーケティング・アライアンス開拓、および製造・物流・建設業向けの法人営業に従事",
+    "url": "https://sma-gol.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、アクセンチュア株式会社にて製造小売・エネルギー業界のSCM改革・戦略人事・AI構築のプロジェクトに従事",
+    "url": "https://sma-gol.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "交通や物流などの移動に関わる業界と、国や自治体に向けて、困りごとの洗い出しから、ソフトの開発、機器の提供、納めた後の支えまでを引き受ける会社だ",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトは顧客の求めに応じて作る受託と、あらかじめ機能ごとにまとめたパッケージの両方がある",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の販売や予約のシステムを自社の機器からクラウドへ移すクラウド化支援",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "客は交通や物流の事業者と、地方自治体や公共の施設だ",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "客に自治体や公共の施設が多いので、公共の予算が案件の出方を左右する",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：図解経済「Will Smart（175A）」https://zukaikeizai.com/kaisha/175A/（元データ：EDINET（金融庁））",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "<a href=\"https://zukaikeizai.com/kaisha/175A/\"><img src=\"https://zukaikeizai.com/cards/kaisha-175A.png\" alt=\"Will Smart（175A）の図解（図解経済）\" width=\"540\"></a><br>出典：<a href=\"https://zukaikeizai.com/kaisha/175A/\">図解経済</a>（元データ：EDINET（金融庁））",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "この300億円を構成する顧客層は、引き続き多様な状態を維持しています",
+    "url": "https://real.smarthr.co.jp/articles/voices_0022",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHRの登録社数は8万社を超えており、この膨大な顧客基盤があるからこそ、精度の高いベンチマークデータの作成が実現できると考えています",
+    "url": "https://real.smarthr.co.jp/articles/voices_0022",
+    "pass": 3
+   },
+   {
+    "quote": "他社比較ができることで、働き方や組織を変えていく決意をする企業が増えるのではないか」と、他社比較ができるデータを提供することにより、顧客獲得を進めていく考えを示した",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2123332.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIアシスタントを含む従業員ポータルは、1年で導入企業数が900社を超えた",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2123332.html",
+    "pass": 3
+   },
+   {
+    "quote": "8万社の顧客を持っているからこそ実現できるデータ戦略だ」と芹澤CEOは説明した",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2123332.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、労務でたまった「1. 従業員データ」「2. 全社員のタッチポイント」「3. 顧客基盤」という3つのアセットを活用しながら成長していることで、今後も拡がるマルチプロダクト化の再現性が高いと判断されました",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "流入経路ごとに、見込み顧客の商談化率と、それぞれの受注率がどんな状況になっているのか？",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "既存顧客へクロスセルする場合は、誰がニーズを把握して、それをどのように社内のセールスにトスアップして、どのようにそのセールスが既存顧客と商談を進めていくのか？",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "株式売買の仲介には、本来は第一種金融商品取引業者のような資格が必要ですが、当然我々はそのような資格を有していません",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "Nstockでは、「非上場スタートアップ株式の売買ができるプラットフォーム」の開発を進めており、金融商品取引業者としての登録なども並行して進めています",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "ですので、その解決策の1つとして、社内取引所を活用できたらうれしいですし、意味のある株数を購入しようとすると、自己資金だけでは到底賄えないので、金融機関からの借り入れは必須になると思います",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "：タレントマネジメントが伸びているという話で触れた、3つのアセット「1. 従業員データ」「2. 全社員のタッチポイント」「3. 顧客基盤」のうち、3つともフルに活かせる場合は近すぎるかもしれないですね",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "「3. 顧客基盤」が完全に一致していて、実際にSmartHRのセールス&マーケ経由での売上が一定割合を占めています",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "2016年7月には日本政策投資銀行（DBJ）主導で約38億円（3800万ドル）のシリーズDラウンドを実施し、累計調達額は約90億円に達します",
+    "url": "https://note.com/maru56/n/n846394ddaef4",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例｜ICT施工・建設DXの活用事例 | Smart Construction®",
+    "url": "https://jp.smartconstruction.com/cases-folder/about-cases",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ「遠隔施工」を始めたのか？ 遠隔施工が切り拓く、建設業の働き方改革",
+    "url": "https://jp.smartconstruction.com/cases-folder/about-cases",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 - 工程管理「Smart Craft」",
+    "url": "https://smartcraft.jp/case/",
+    "pass": 3
+   },
+   {
+    "quote": "製造管理基盤の構築で医療機器業界の早期スマート工場化を促進",
+    "url": "https://smartcraft.jp/case/",
+    "pass": 3
+   },
+   {
+    "quote": "主要取引先 | Japan Smart Energy 合同会社",
+    "url": "https://www.japan-smart-energy.co.jp/company/partners",
+    "pass": 3
+   },
+   {
+    "quote": "信頼と共創を大切に、持続可能なエネルギーの未来をともにつくるパートナー企業をご紹介します",
+    "url": "https://www.japan-smart-energy.co.jp/company/partners",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "2021～2024年 株式会社日本政策金融公庫にて、企業の資金調達支援や財務基盤強化に向けた審査・支援業務を担い、多様な業種における財務分析のノウハウを培う",
+    "url": "https://sma-gol.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "【解説】投資家はSmartHRの「何」に214億円も投じたのか？資金調達とセカンダリー取引の裏側を新CFO森さんに聞いてみた | ジャーナル - Nstock株式報酬",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "【解説】投資家はSmartHRの「何」に214億円も投じたのか？資金調達とセカンダリー取引の裏側を新CFO森さんに聞いてみた",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "3年前の2021年6月、時価総額1,700億円でシリーズDの資金調達を実施し、ユニコーン企業となったSmartHR",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "今回のシリーズEでは、新株発行による資金調達（以下、プライマリー）に加えて、既存株主による株式売却（以下、セカンダリー）も併せて実施",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "さて、国内の未上場スタートアップでは前例がない規模のプライマリーとセカンダリーを、SmartHRはどのように実現したのでしょうか？SmartHRの新CFO 森 雄志さんに、同社の創業者でもあるNstock宮田昇始がインタビューを実施しました",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "IR部に所属し、国内外の投資家面談や決算関連業務、株主総会対応、M&A、資金調達など、IRを中心に幅広いコーポレートアクション業務に携わる",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "海外投資家対応をはじめ、資金調達や資本政策などの財務戦略の策定を担当している",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "2022年1月にNstock株式会社（SmartHR 100%子会社）を設立",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "：SmartHR “さん” が資金調達をしたと聞いてやって来ました",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "：まずは、シリーズEの資金調達の概要を教えてください",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "：はい、SmartHRとしては約3年ぶりの資金調達で、投資家から合計214億円の資金が投じられました",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "過去の資金調達と大きく違うのは、大型のプライマリーとセカンダリーを同時に実施したことです",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "OTPPによる日本国内未上場スタートアップへの投資はおそらく初だと思います",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "彼らのように教職員の年金を管理・運用する団体は、通常、VCや機関投資家に対してLP出資をすることが主流です",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "両社ともグローバルでの投資実績を有しており、彼らの知見やリソースを最大限活用することが、SmartHRが最速で成長していくことの近道になると考え、2社に株主として参画いただくことになりました",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "そもそも、SmartHRには十分な現預金があり、運転資金のために今回の資金調達を迫られていたわけではありませんでした",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "100億円を超える規模での未上場スタートアップのセカンダリーは、あまり前例がないことだと思います",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "一方、SmartHRは2015〜2016年にかけて「シード」「プレシリーズA」「シリーズA」と、複数回の資金調達を実施しており、これら初期の投資から8〜9年が経過しています",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "今回はほぼ全ての株主に声掛けをしましたが、「積極的に売り出してほしい」というコミュニケーションではなく、「各ファンドの事情にあわせて是々非々で判断してもらって大丈夫です」というニュートラルなコミュニケーションでした",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "売主×買主分だけ契約書が発生することに加え、日本語×英語で2種類の契約書が必要なこともあり、合計100通くらいの契約書を作ることになりましたが、これをプライマリーの資金調達と並行して進める必要があったので本当に大変でしたね……！",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "プライマリーの資金調達だけと比較して、3〜4倍の作業量がありました",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "Nstockでは、「非上場スタートアップ株式の売買ができるプラットフォーム」の開発を進めており、金融商品取引業者としての登録なども並行して進めています",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "一例としてSmartHRの話を出しましたが、急成長しているスタートアップは未上場の期間が長くなっていますし、今後もっと長くなっていくと思います",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "未上場時点で株式によるオーナーシップの移管ができるかどうかは、SmartHRに限らず国内スタートアップ業界において重要なテーマになっていきそうです",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、未上場のスタートアップだとどういう投資家に参加してもらうかは大事なので、買主が誰になるかという部分のコントロールを発行体ができたほうがいいのは確かですね",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "7月30日(火) セカンダリーとあわせて214億円!?SmartHRの資金調達の裏側を聞いてみた | Nstock",
+    "url": "https://nstock.co.jp/news/event_0730",
+    "pass": 3
+   },
+   {
+    "quote": "7月30日(火) セカンダリーとあわせて214億円!?SmartHRの資金調達の裏側を聞いてみた",
+    "url": "https://nstock.co.jp/news/event_0730",
+    "pass": 3
+   },
+   {
+    "quote": "セカンダリーとあわせて214億円!?SmartHRの資金調達の裏側を聞いてみた",
+    "url": "https://nstock.co.jp/news/event_0730",
+    "pass": 3
+   },
+   {
+    "quote": "2024年7月1日、SmartHR社が約3年ぶりとなるシリーズEの資金調達を発表しました",
+    "url": "https://nstock.co.jp/news/event_0730",
+    "pass": 3
+   },
+   {
+    "quote": "今回のシリーズEでは、新株発行による資金調達（プライマリー）に加えて、既存株主による株式売却（セカンダリー）も併せて実施",
+    "url": "https://nstock.co.jp/news/event_0730",
+    "pass": 3
+   },
+   {
+    "quote": "国内の未上場スタートアップではなかなか前例がない規模の資金調達をどのように実現したのか？SmartHR CFO 森 雄志さん、Nstock 代表 宮田 昇始がオフレコトークを交えながらお話します",
+    "url": "https://nstock.co.jp/news/event_0730",
+    "pass": 3
+   },
+   {
+    "quote": "スマートニュース――資金調達の栄光と業績の陰り、IPOに向けた現実的評価｜テック系ベンチャーキャピタリスト",
+    "url": "https://note.com/maru56/n/n846394ddaef4",
+    "pass": 3
+   },
+   {
+    "quote": "スマートニュース――資金調達の栄光と業績の陰り、IPOに向けた現実的評価",
+    "url": "https://note.com/maru56/n/n846394ddaef4",
+    "pass": 3
+   },
+   {
+    "quote": "1. 資金調達と成長ストーリーの変遷",
+    "url": "https://note.com/maru56/n/n846394ddaef4",
+    "pass": 3
+   },
+   {
+    "quote": "スマートニュース（SmartNews, Inc.）は2012年創業のニュースアプリ企業であり、その資金調達の歴史は日本発スタートアップのサクセスストーリーとして大きな注目を集めてきました",
+    "url": "https://note.com/maru56/n/n846394ddaef4",
+    "pass": 3
+   },
+   {
+    "quote": "創業翌年の2013年8月、グロービス・キャピタル・パートナーズから約4億円（約420万ドル）のシリーズA出資を受け、国内でのサービス強化に乗り出しました",
+    "url": "https://note.com/maru56/n/n846394ddaef4",
+    "pass": 3
+   },
+   {
+    "quote": "2014年8月にはシリーズBラウンドで約36億円（3600万ドル）の大型資金調達に成功しました",
+    "url": "https://note.com/maru56/n/n846394ddaef4",
+    "pass": 3
+   },
+   {
+    "quote": "出資リードはSkype創業者のニコラス・センストローム氏率いるAtomicoと、日本のモバイル大手GREEです",
+    "url": "https://note.com/maru56/n/n846394ddaef4",
+    "pass": 3
+   },
+   {
+    "quote": "国内官民ファンドの出資により「国策級スタートアップ」として位置づけられ、世界進出を目指す日本発ニュースプラットフォームへの社会的期待も一層高まりました",
+    "url": "https://note.com/maru56/n/n846394ddaef4",
+    "pass": 3
+   },
+   {
+    "quote": "これはベンチャー企業としては異例であり、当時の時価総額で新規株式発行すると前回ラウンドからのダウンラウンド（評価減）が避けられないため、負債での資金調達に頼ったものと見られます",
+    "url": "https://note.com/maru56/n/n846394ddaef4",
+    "pass": 3
+   },
+   {
+    "quote": "事実、2019年当時に**「このままIPOも可能だったが、さらなる高評価を求め追加資金調達を選んだ」**と報じられたスマートニュースでしたが、その判断は結果的に機会損失になった可能性があります",
+    "url": "https://note.com/maru56/n/n846394ddaef4",
+    "pass": 3
+   }
+  ],
+  "選出の記録": [
+   {
+    "quote": "（2025年・2026年 連続選出）",
+    "url": "https://sma-gol.com/company/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Will Smart（175A）の事業内容・業績｜平均年収742万円・売上8億円（2... — Will Smart（175A）は情報・通信業の会社。 2025年12月期は売上8億円・営業利益−3億円、平均年収742万円。 事業内容と業績を有価証券報告書の数字で図解。",
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHR事業戦略発表会2026：2030年売上1,000億円目標に向けた事業進... — SmartHRは、2026年7月に事業戦略発表会を開催し、2030年の売上1,000億円目標に対する現在の事業進捗や今後のプロダクト戦略について発表しました。この記事では、会見で芹澤が発表した内容を一部抜粋・編集してレポートします。",
+    "url": "https://real.smarthr.co.jp/articles/voices_0022",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHRがARR300億円に到達、2026年度は2種類のAIエージェントと人事... — Jul 8, 2026 · 株式会社SmartHRは7日、2025年度の実績と2026年度の事業戦略を発表した。",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2123332.html",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHRが「人的資本経営プラットフォーム」へ進化。2030年売上1000億... — Jun 3, 2025 · 株式会社SmartHRは、6月3日に開催した事業戦略発表会にて2030年の売上目標として1000億円を掲げました。クラウド人事労務ソフト「SmartHR」は、企業の人的資本経営をデータに基づいて推進するための「人的資本経営プラットフォーム」となることを目指します。",
+    "url": "https://smarthr.co.jp/news/press/20250603_jigyousenryaku/",
+    "pass": 3
+   },
+   {
+    "quote": "第6期 決算公告 – 株式会社SMART — Jun 30, 2025 · SMARTについて 経営理念 事業内容 会社概要 支店情報 株主情報 工事実績 お知らせ 採用情報 COPYRIGHT © 2022 SMART ALL RIGHTS RESERVED.",
+    "url": "https://smart.jpn.com/archives/268",
+    "pass": 3
+   },
+   {
+    "quote": "【解説】投資家はSmartHRの「何」に214億円も投じたのか？資金調達と... — Jul 2, 2024 · 2024年7月1日、SmartHRが約3年ぶりとなるシリーズEの資金調達を発表しました。 今回は新株発行による資金調達に加えて、既存株主による株式売却も併せて実施。 合計で214億円もの金額が投資家から投じられました。",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   },
+   {
+    "quote": "7月30日 (火) セカンダリーとあわせて214億円!?SmartHRの資金調達の裏... — Jul 1, 2024 · 2024年7月1日、SmartHR社が約3年ぶりとなるシリーズEの資金調達を発表しました。 今回のシリーズEでは、新株発行による資金調達（プライマリー）に加えて、既存株主による株式売却（セカンダリー）も併せて実施。",
+    "url": "https://nstock.co.jp/news/event_0730",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド人事労務ソフトを提供するSmartHR、約156億円のシリーズD資金... — Jun 8, 2021 · 株式会社SmartHR（本社：東京都港区、代表取締役：宮田 昇始、以下「当社」）は、Light Street Capitalをリード投資家とし、既存株主・新規投資家を引受先とした第三者割当増資・新株予約権付社債により合計約156億円の資金調達を実施しました。",
+    "url": "https://smarthr.jp/release/25704/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド人事労務ソフトを提供するSmartHR、約214億円のシリーズEラウ... — Jul 1, 2024 · 当社は本ラウンドの調達により、HR領域における新たなプロダクト開発を推進し、マルチプロダクト展開を見据えS&M組織を積極的に拡大していく予定です。 また、機能拡充・人材獲得を目的としたM&AやAI等の新技術への投資にも取り組んでまいります。",
+    "url": "https://smarthr.co.jp/news/press/27110/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例｜ICT施工・建設DXの活用事例 | Smart Construction® — Smart Construction®の導入事例一覧。 道路工事や河川工事、小規模土工など、ICT施工・建設DXで生産性向上や働き方改革を実現したお客様の事例をご紹介します。",
+    "url": "https://jp.smartconstruction.com/cases-folder/about-cases",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 - 工程管理「Smart Craft」 — Feb 27, 2024 · Smart Craft（スマートクラフト）は、製造現場の見える化やデータ活用を通じてDXを支援するクラウド（SaaS）型の製造現場DXプラットフォームです。",
+    "url": "https://smartcraft.jp/case/",
+    "pass": 3
+   },
+   {
+    "quote": "事例｜SmartHR（スマートHR）｜労務管理クラウド7年連続シェアNo.1 — 労務・勤怠・給与を\"まるごとSmartHR\"へ。 「当たり前」だった非効率が変わった現場 きくぞのケアパーク株式会社 詳しく見る 導入事例 動画 卸売・小売 101〜500名 鳥取県",
+    "url": "https://smarthr.jp/case/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例・活用事例（ワークフロー・Webデータベース） | SmartDB®【... — 「SmartDB（スマートデービー）」は、大企業市場シェアNo.1 (※)の業務デジタル化クラウドです。 ワークフローとWebデータベースを中心にした多彩な機能で、現場個別の業務から全社横断業務までノーコード・ローコードで開発可能です。",
+    "url": "https://hibiki.dreamarts.co.jp/smartdb/case/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例｜SmartNews Ads — 導入事例 ホーム 導入事例 業界 すべて EC ヘルスアンドビューティー IT・ソフトウェア エンタメ オンラインサービス 美容 飲食店 飲料・食品 教育 不動産 代理店 流通・小売 目的",
+    "url": "https://ads.smartnews.com/home/case/",
+    "pass": 3
+   },
+   {
+    "quote": "主要取引先 | Japan Smart Energy 合同会社 — Copyright© Japan Smart Energy 合同会社 All Rights Reserved. 《Web Design:Template-Party》",
+    "url": "https://www.japan-smart-energy.co.jp/company/partners",
+    "pass": 3
+   },
+   {
+    "quote": "主要取引先一覧｜アイムアンドカンパニー株式会社株式会社テクノスマートの主要販売先 | EDINET DBSMART - 与信管理業務をワンストップでサポート | 三井物産クレジット...主要取引先 - 株式会社日本データコントロールM&A全案件一覧 | ストライクのM&Aプラットフォーム「SMART」 — See full list on aem.co.jp See full list on aem.co.jp See full list on aem.co.jp See full list on aem.co.jp See full list on aem.co.jp See full list on aem.co.jp See full list on aem.co.jp See full list on aem.co.jp See full list on aem.co.jp See",
+    "url": "https://www.aem.co.jp/company/client/",
+    "pass": 3
+   },
+   {
+    "quote": "SMART - 与信管理業務をワンストップでサポート | 三井物産クレジット... — 国内・海外企業の与信管理を行うための サービスです。 効率的で効果的な与信管理を実現するには、取引先の情報収集から与信判断、そして定期見直しまでを明確な基準で円滑に運用し、絶え間ないPDCAサイクルを確立することが肝要です。",
+    "url": "https://www.mitsui-credit.com/service/smart",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "法人向けカウンセラーサービス「Smart相談室」",
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "How to Install SmartTube on Fire TV (March 2026 Latest ... Mar 22, 2026 · How to Install SmartTube on Fire TV (March 2026 Latest Version)",
+    "url": "https://note.com/creepy_fish/n/n3d86afa58264?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Perhaps those who want to appear smart are the ones who ... *A loose translation of a portion of Chapter 13 of the Enchiridion Reading these words reminded me of a certain saying. \"Smart people are not afraid of looking foolish, while those who are less intelligent try the hardest to look smart.\" It is a slightly extreme expression, but it is a thought-provoking one.",
+    "url": "https://note.com/lmgf_1016/n/n15454df7fa64?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Note operation that also led to applications via AI search ... ・Recording 10,000 PVs through republication to news media: By republishing to Smart News, we increased PVs to a maximum of about 10,000 for a single article. ・Growing into a note read by many people: We have secured business negotiations with companies that learned about us via AI or SEO and deepened their understanding of the company ",
+    "url": "https://biz.note.com/n/n726058efd717?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Who is a smart person? — The limits of measuring intelligence ... 4. Aren't truly smart people able to make difficult things simple? Thinking this far, my own image of a \"smart person\" has come into view. It is a person who can see through the essence of things and provide a solution that is as simple as possible and understandable to anyone. It is not just about having knowledge.",
+    "url": "https://note.com/aiarchitect_r/n/nf2d758c3645f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "How to Install SmartTube on Fire TV (March 2026 Latest Version)｜ハマチ",
+    "url": "https://note.com/creepy_fish/n/n3d86afa58264?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Install SmartTube on Fire TV (March 2026 Latest Version)",
+    "url": "https://note.com/creepy_fish/n/n3d86afa58264?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We use a FireStick TV in our home and have installed SmartTube as an alternative to the YouTube app. I am leaving this note as a reminder of the installation method.",
+    "url": "https://note.com/creepy_fish/n/n3d86afa58264?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1.1 Enable Developer Options",
+    "url": "https://note.com/creepy_fish/n/n3d86afa58264?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Open Fire TV \"Settings\"",
+    "url": "https://note.com/creepy_fish/n/n3d86afa58264?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Go to \"My Fire TV\" -> \"About\"",
+    "url": "https://note.com/creepy_fish/n/n3d86afa58264?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Click \"Fire TV Stick\" 7 times in a row",
+    "url": "https://note.com/creepy_fish/n/n3d86afa58264?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Display \"Developer Options\"",
+    "url": "https://note.com/creepy_fish/n/n3d86afa58264?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Perhaps those who want to appear smart are the ones who cannot become smart｜ジャッキー ｜【 偉人からの手紙 】",
+    "url": "https://note.com/lmgf_1016/n/n15454df7fa64?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Perhaps those who want to appear smart are the ones who cannot become smart",
+    "url": "https://note.com/lmgf_1016/n/n15454df7fa64?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello, this is Jackie!",
+    "url": "https://note.com/lmgf_1016/n/n15454df7fa64?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, I'd like to talk about how \"the desire to appear smart can actually hinder your own growth.\"",
+    "url": "https://note.com/lmgf_1016/n/n15454df7fa64?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I believe that what truly hinders growth is not a lack of knowledge, but the inability to admit that you lack knowledge.",
+    "url": "https://note.com/lmgf_1016/n/n15454df7fa64?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The ancient Roman philosopher Epictetus left behind these words:",
+    "url": "https://note.com/lmgf_1016/n/n15454df7fa64?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"If you want to improve, be content to be thought foolish and stupid with regard to external things.\"",
+    "url": "https://note.com/lmgf_1016/n/n15454df7fa64?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "*A loose translation of a portion of Chapter 13 of the Enchiridion",
+    "url": "https://note.com/lmgf_1016/n/n15454df7fa64?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Note operation that also led to applications via AI search. Intimate Merger continues to sow seeds to make 'data' feel familiar｜note pro公式 | 法人オウンドメディアをかんたん、すぐに立ち上げ",
+    "url": "https://biz.note.com/n/n726058efd717?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Note operation that also led to applications via AI search. Intimate Merger continues to sow seeds to make 'data' feel familiar",
+    "url": "https://biz.note.com/n/n726058efd717?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "note pro公式 | 法人オウンドメディアをかんたん、すぐに立ち上げ",
+    "url": "https://biz.note.com/n/n726058efd717?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Intimate Merger, Inc. provides one of Japan's largest data platforms, 'IM-DMP,' and supports the data utilization of client companies. To help people feel the value of data in an easy-to-understand and familiar way, the company began operating an owned media platform using note in 2020.",
+    "url": "https://biz.note.com/n/n726058efd717?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Although they used note when they first started, they introduced the high-functionality corporate plan 'note pro' after a one-year verification period. As a result of their efforts—sometimes publishing articles at a pace of two per day—they have achieved results such as creating opportunities for companies to learn about them via AI search and attracting job seekers. What kind of process did they ",
+    "url": "https://biz.note.com/n/n726058efd717?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, we spoke with Minami Kishida, Leader of the Public Relations Group in the Corporate Communication Office.",
+    "url": "https://biz.note.com/n/n726058efd717?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Wanting to convey the appeal of 'data,' which is an intangible product:",
+    "url": "https://biz.note.com/n/n726058efd717?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We felt there was no place to casually share information about the 'data' we handle in-house.",
+    "url": "https://biz.note.com/n/n726058efd717?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Who is a smart person? — The limits of measuring intelligence with a single yardstick｜AIアーキテクトR",
+    "url": "https://note.com/aiarchitect_r/n/nf2d758c3645f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Who is a smart person? — The limits of measuring intelligence with a single yardstick",
+    "url": "https://note.com/aiarchitect_r/n/nf2d758c3645f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "(This article is being written while slightly tipsy, with the help of AI)",
+    "url": "https://note.com/aiarchitect_r/n/nf2d758c3645f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. What does it mean to be \"smart\"?",
+    "url": "https://note.com/aiarchitect_r/n/nf2d758c3645f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"That person is smart.\"",
+    "url": "https://note.com/aiarchitect_r/n/nf2d758c3645f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We use this phrase in our daily lives.",
+    "url": "https://note.com/aiarchitect_r/n/nf2d758c3645f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, when I think about it again, I find it to be an ambiguous term.",
+    "url": "https://note.com/aiarchitect_r/n/nf2d758c3645f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Is it someone with a wealth of knowledge? Someone who is fast at calculations? Or perhaps someone who can easily solve difficult problems?",
+    "url": "https://note.com/aiarchitect_r/n/nf2d758c3645f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "smart (@smart_worldwide) / X @smart_worldwide Rumors starting to come out that the #1 can be ordered on Sept-01? Any info on pricing/homologation beforehand? Will their be online ordering? Or just dealership?",
+    "url": "https://x.com/smart_worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "SMART (@LiveSmart) / X Experience the new iPhone 18 Pro and iPhone 18 Pro Max on Smart Postpaid! Enjoy exclusive freebies, flexible payment plans, and the best device pricing tailored for you.",
+    "url": "https://x.com/livesmart",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Newsroom (@SmartNewsroom) / X Smart and Amihan Global Strategies Inc. launch AI.Smart powered by Avtica, a full AI workspace available to every @LiveSmart and @tntph subscriber. With credit packs starting at ₱49, subscribers get the right model for each task from a single platform.",
+    "url": "https://x.com/SmartNewsroom",
+    "pass": 3
+   },
+   {
+    "quote": "smart on X: \"色々なことを気にして発信してくださっている皆様にとて... May 26, 2026 · ⚠️お願い⚠️ 「smart」をご愛読いただきありがとうございます。 誌面の複製（コピー）、転載は法律で禁止されています。 複製物をSNSにアップする、SNS上で複製を促す行為はご遠慮いただけますと幸いです。 ご理解・ご協力よろしくお願いいたします。",
+    "url": "https://x.com/smart_twjp/status/2059454851244027994",
+    "pass": 3
+   },
+   {
+    "quote": "X-Smart /複数のアカウントを1元管理 (@X_Smart_jp) on X Sep 14, 2026 · リモート操作機能を実装します！ ！ スマートフォンなどからアカウントチェック・サーチバンチェック・ポスト一括投稿・ポスト一括操作・PC画面確認（スクショ撮影）が可能です！",
+    "url": "https://x.com/X_Smart_jp/status/2099229185583780042",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Smart Communications, Inc. | LinkedIn Smart Communications Inc. is a wholly-owned wireless communications and digital services subsidiary of PLDT, Inc., the Philippines’ largest and only integrated telecommunications company.",
+    "url": "https://ph.linkedin.com/company/smart-communications-inc./",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Communications, Inc.: Jobs | LinkedIn Smart serves approximately 96% of the country’s cities and municipalities with its combined 2G, 3G, 4G LTE, and 5G network*, providing mobile communications services, high-speed internet ...",
+    "url": "https://www.linkedin.com/company/smart-communications-inc./jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Communications, Inc.: Culture | LinkedIn Discover Smart Communications, Inc. Own Your Career Growth We are a skills-first company! We take a holistic approach to development, empowering you to upskill at every stage.",
+    "url": "https://www.linkedin.com/company/smart-communications-inc./life",
+    "pass": 3
+   },
+   {
+    "quote": "SMART Technologies - LinkedIn We support classrooms and business teams with intuitive tools that make communication easier, engagement stronger, and outcomes better. With more than 35 years of innovation, SMART continues to...",
+    "url": "https://ca.linkedin.com/company/smart-technologies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "smart - FacebookSmart Communications, Inc. - FacebookSmart - The best version of you is just waiting to get ...Smart Newsroom - FacebookSupermercados S-Mart - Facebooksmartmovesus | Detroit MI - FacebookSMART Technologies - Facebook Oct 27, 2026 · Fancy an escape to the mountains while bringing your own gear with you? ⛰️ With our popular trailer hitch and our smart Roof Rack there is enough space ",
+    "url": "https://www.facebook.com/smart/",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Communications, Inc. - FacebookSmart - The best version of you is just waiting to get ...Smart Newsroom - FacebookSupermercados S-Mart - Facebooksmartmovesus | Detroit MI - FacebookSMART Technologies - Facebook 1 day ago · Your Halloween treats just got SMARTER! 🎃💚 Enjoy spook-tacular discounts on Smart Prepaid Digital eSIM, FAM SIM, and Smart 5G Max Home WiFi, PLUS FREE extra data with BIG ",
+    "url": "https://www.facebook.com/SmartCommunications/",
+    "pass": 3
+   },
+   {
+    "quote": "Smart - The best version of you is just waiting to get ... 14 hours ago · The best version of you is just waiting to get powered up!朗 Power them up with Smart’s Power All 109! Get UNLI TikTok or Facebook, 5GB app bundle of...",
+    "url": "https://www.facebook.com/SmartCommunications/photos/the-best-version-of-you-is-just-waiting-to-get-powered-uppower-them-up-with-smar/1584492470385530/",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Newsroom - FacebookSupermercados S-Mart - Facebooksmartmovesus | Detroit MI - FacebookSMART Technologies - Facebook The portable digital classroom includes a teacher's laptop, ten tablets, Smart Bro LTE Pocket WiFi with load allocation, a comprehensive teacher’s guide, and a collection of digital learning resources. 22 hours ago · Supermercados S-Mart. 1,043,925 followers · 65,309 talking ab",
+    "url": "https://www.facebook.com/smartnewsroom/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sma-gol.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sma-gol.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sma-gol.com/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://zukaikeizai.com/kaisha/175A/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://real.smarthr.co.jp/articles/voices_0022",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2123332.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nstock.com/journal/smarthr_fund_raise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nstock.co.jp/news/event_0730",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/maru56/n/n846394ddaef4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.smartconstruction.com/cases-folder/about-cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smartcraft.jp/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smarthr.jp/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-smart-energy.co.jp/company/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fujismart.com/company/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aem.co.jp/company/client/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/creepy_fish/n/n3d86afa58264?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lmgf_1016/n/n15454df7fa64?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.note.com/n/n726058efd717?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aiarchitect_r/n/nf2d758c3645f?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/smart_worldwide",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/livesmart",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SmartNewsroom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ph.linkedin.com/company/smart-communications-inc./",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/smart-communications-inc./jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/smart-communications-inc./life",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/smart-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/smart/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SmartCommunications/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SmartCommunications/photos/the-best-version-of-you-is-just-waiting-to-get-powered-uppower-them-up-with-smar/1584492470385530/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/smartnewsroom/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/smart_twjp/status/2059454851244027994",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/X_Smart_jp/status/2099229185583780042",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "SMART 会社概要 資本金 設立",
+   "results": []
+  },
+  {
+   "query": "SMART 事業内容 売上",
+   "results": [
+    "https://zukaikeizai.com/kaisha/175A/",
+    "https://real.smarthr.co.jp/articles/voices_0022",
+    "https://cloud.watch.impress.co.jp/docs/news/2123332.html",
+    "https://smarthr.co.jp/news/press/20250603_jigyousenryaku/",
+    "https://smart.jpn.com/archives/268",
+    "https://jobcatalog.yahoo.co.jp/company/2000312903/information/",
+    "https://willsmart.co.jp/"
+   ]
+  },
+  {
+   "query": "SMART 資金調達 株主",
+   "results": [
+    "https://nstock.com/journal/smarthr_fund_raise",
+    "https://nstock.co.jp/news/event_0730",
+    "https://note.com/maru56/n/n846394ddaef4",
+    "https://smarthr.jp/release/25704/",
+    "https://smarthr.co.jp/news/press/27110/",
+    "https://diamond.jp/articles/-/334733",
+    "https://prtimes.jp/main/html/rd/p/000000435.000007945.html",
+    "https://compalyze.co.jp/journal/smarthr-fy2025-jumpback",
+    "https://nstock.com/journal/smarthr_secondary",
+    "https://note.com/_funeo/n/n65932ad89764"
+   ]
+  },
+  {
+   "query": "SMART 導入事例",
+   "results": [
+    "https://jp.smartconstruction.com/cases-folder/about-cases",
+    "https://smartcraft.jp/case/",
+    "https://smarthr.jp/case/",
+    "https://hibiki.dreamarts.co.jp/smartdb/case/",
+    "https://ads.smartnews.com/home/case/",
+    "https://smart-sou.co.jp/case",
+    "https://jp.smartconstruction.com/"
+   ]
+  },
+  {
+   "query": "SMART 主要取引先",
+   "results": [
+    "https://www.japan-smart-energy.co.jp/company/partners",
+    "https://fujismart.com/company/partners",
+    "https://www.aem.co.jp/company/client/",
+    "https://www.mitsui-credit.com/service/smart",
+    "https://www.ndc-net.co.jp/company/main_customer/",
+    "https://www.strike.co.jp/smart/search/",
+    "https://edinetdb.jp/company/E01628/main-customers"
+   ]
+  },
+  {
+   "query": "site:note.com SMART",
+   "results": [
+    "https://note.com/creepy_fish/n/n3d86afa58264?hl=en",
+    "https://note.com/lmgf_1016/n/n15454df7fa64?hl=en",
+    "https://biz.note.com/n/n726058efd717?hl=en",
+    "https://note.com/aiarchitect_r/n/nf2d758c3645f?hl=en",
+    "https://note.com/pc_article/n/n8bb5828467d7?hl=en",
+    "https://note.com/smart_text_lab/n/ne0db6deacfd0?hl=en",
+    "https://note.com/maru_smart/n/n3f88f23580c9?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com SMART",
+   "results": [
+    "https://x.com/smart_worldwide",
+    "https://x.com/livesmart",
+    "https://help.x.com/en/using-x/x-supported-browsers",
+    "https://x.com/SmartNewsroom",
+    "https://x.com/smartcares",
+    "https://x.com/slavesmart",
+    "https://blog.x.com/en/engineering/sharing-learnings-about-our-image-cropping-algorithm"
+   ]
+  },
+  {
+   "query": "site:linkedin.com SMART",
+   "results": [
+    "https://ph.linkedin.com/company/smart-communications-inc./",
+    "https://www.linkedin.com/company/smart-communications-inc./jobs",
+    "https://www.linkedin.com/company/smart-communications-inc./life",
+    "https://ca.linkedin.com/company/smart-technologies",
+    "https://in.linkedin.com/company/smart-interviews",
+    "https://br.linkedin.com/jobs/view/senior-digital-account-manager-at-smart-age-solutions-4485607592",
+    "https://in.linkedin.com/jobs/view/senior-aws-cloud-engineer-remote-full-time-as314-at-smart-working-4480622105"
+   ]
+  },
+  {
+   "query": "site:facebook.com SMART",
+   "results": [
+    "https://www.facebook.com/smart/",
+    "https://www.facebook.com/SmartCommunications/",
+    "https://www.facebook.com/SmartCommunications/photos/the-best-version-of-you-is-just-waiting-to-get-powered-uppower-them-up-with-smar/1584492470385530/",
+    "https://www.facebook.com/smartnewsroom/",
+    "https://www.facebook.com/supermercadossmart/",
+    "https://www.facebook.com/smartmovesus/",
+    "https://www.facebook.com/SMARTTechnologies/"
+   ]
+  },
+  {
+   "query": "SMART note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://smartnote-ai.com/company",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://smarthr.co.jp/company/management/",
+    "https://smartnote.jp/company/",
+    "https://smartnote.jp/",
+    "https://about.smartnews.com/ja/about/leadership.html",
+    "https://overframe.net/companies/smartnote-jp"
+   ]
+  },
+  {
+   "query": "SMART X 投稿",
+   "results": [
+    "https://x.com/smart_twjp/status/2059454851244027994",
+    "https://x.com/X_Smart_jp/status/2099229185583780042",
+    "https://smartwith.jp/archives/2517",
+    "https://www.witha.jp/sns・マーケティング/x-posting-guide-beginners/",
+    "https://addness.co.jp/media/x-publishing-post/",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://www.ownly.jp/sslab/x-scheduled-post-procedure"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）",
+  "代表者": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）"
+ }
+}
