@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・56品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・59品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1281,7 +1281,7 @@
   - 「９ 調査結果の」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ また、工業統計調査においては、市区町村別結果等の詳細集計や個人経営事業所」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ これに基づき、乙調査の位置づけについて検討を行った結果、①甲調査という産業」（https://www.soumu.go.jp/main_content/000744047.pdf）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
 
 ## エキスパートや調査会社のリサーチャーが書いた調べ方のブログ（professional researcher blog research techniques）
 - 文脈：凄腕・実務
@@ -1367,6 +1367,7 @@
   - 「お題目としての調査目的では調査結果（結論）を書くことはできませんし、力技で調査結果だけを盛り上げても調査の実施価値は浸透しません」（https://note.com/diisuket/n/nd52911277358）
 - 検索結果の抜粋：
   - 「The 15 Best Academic Blogs for 2025 | Ex OrdoThe Researcher's Source Blog | For Researchers | Springer NatureBlog — Sage Research Methods CommunityResearcher.Life: Blog Category | Researcher.LifeResearch Techniques – Types, Examples and Selection Guide — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the University of」（https://www.exordo.com/blog/the-best-academic-blogs）
+  - 「The 15 Best Academic Blogs for 2025 | Ex OrdoResearch tips: Blog Category | Researcher.LifeThe Researcher's Source Blog | For Researchers | Springer Nature21 Best Academic Blogs Every Researcher Must Follow10 Best Academic Blogs Every Researcher Must Subscribe to in 2023Blog — Sage Research Methods Community — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog o」（https://www.exordo.com/blog/the-best-academic-blogs）
 
 ## 検索演算子で一次情報・原典に寄せる方法（filetype・site・除外語）（search operators primary sources filetype site research）
 - 文脈：探し方
@@ -2982,11 +2983,11 @@
 
 ## 統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり）（statistical time series break linking retropolation official statistics）
 - 文脈：突き合わせ・失敗
-- 手順・やり方：記載なし（読んだ28頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
-- 実例：記載なし（読んだ28頁・検索12回）
+- 手順・やり方：記載なし（読んだ25頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 実例：記載なし（読んだ25頁・検索12回）
 
 ## 現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手（channel checks methodology expert interviews structured questionnaire bias）
 - 文脈：探し先・書き手
@@ -3384,6 +3385,10 @@
   - 「例えば、「調査中のAPTは中国のグループだ」という仮説を立てた場合、その仮説を裏付ける情報ばかりを重視し、反証となりうる情報を無意識的に無視してしまったりするのがこの例」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
 - 検索結果の抜粋：
   - 「競合する仮説の分析｜幻想の近現代 - note（ノート） — 「競合する仮説の分析」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたと ...」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学 — Jun 2, 2025 · 「合理的に判断したつもりが、なぜこんな結果に？ 」──そんな経験はありませんか？ 本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します。」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「競合する仮説の分析｜幻想の近現代 — May 8, 2021 · 現実的なスケールでのACHはアナリストを混乱・困惑させる。 ゲルダ―はACHに代わって 仮説マッピング を提案しました。 以上が情報分析の一つの方法である競合する仮説の分析ACHです。 最後まで目を通していただきありがとうございました。」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「Analysis of Competing Hypotheses (ACH) — by Luiz H. S. Brandão — Jun 17, 2026 · The hypothesis with the least disconfirming evidence — not the most supporting evidence — is the most robust assessment. ACH is the operational discipline that transforms OSINT from information aggregation into intelligence production.」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses）
+  - 「Mastering the Analysis of Competing Hypotheses (ACH): A ... — Jun 20, 2025 · In an age of information overload, uncertainty, and complex decision-making, clear analytical thinking is more crucial than ever. The Analysis of Competing Hypotheses (ACH) is a structured method designed to cut through ambiguity and support objective, evidence-based conclusions.」（https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/）
 
 ## 調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字）（how journalists read company accounts notes related party going concern）
 - 文脈：失敗・落とし穴
@@ -3498,11 +3503,11 @@
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
-- 手順・やり方：記載なし（読んだ28頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
-- 実例：記載なし（読んだ28頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）（main content extraction boilerplate removal related articles scraping）
 - 文脈：
@@ -3511,3 +3516,166 @@
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 - 実例：記載なし（読んだ30頁・検索12回）
+
+## 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）（journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS）
+- 文脈：
+- 手順・やり方：
+  - 「Conspiracy Beliefs and How to communicate uncertainty」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
+  - 「(articles and guides by First Draft, the Public Data Lab, the Digital Methods Initiative, and Open Intelligence Lab)」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
+  - 「The articles in this series present various examples of contemporary online misinformation. But it is each article’s accompanying “recipe” for digital investigation that makes this resource uniquely useful. Each method uses free software.」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
+  - 「This article by Poynter presents a list of pros and cons of using rating system when establishing the validity of a claim or fact. It also includes a link to a free self-directed course on how to improve your skills in fact-checking and accountability.」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
+  - 「Triage your fact-checking: a method (and board game)」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
+- 一次情報の探し方：
+  - 「website URL, upload a file or enter text directly. So far the tool can read PDF, Word, Excel, HTML and TXT files. The tool can also process images in multiple formats and extract information via Optical Character Recognition.」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
+- 実例：
+  - 「These briefings, by Full Facts researcher Dr Dora-Olivia Vicol, explore two topics relevant to any communicators – especially journalists. These concise briefings, which use case studies and introduce psychological concepts, conclude with several recommendations for fact-checkers and journalists.」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
+  - 「The articles in this series present various examples of contemporary online misinformation. But it is each article’s accompanying “recipe” for digital investigation that makes this resource uniquely useful. Each method uses free software.」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
+  - 「This article by Deepak Adhikari, editor of South Asia Check, explains the basics of fact-checking. It is part of The Kit, a collection of short guides by Exposing the Invisible. It includes definitions of terms, uses examples, and provides additional resources. Adhikari emphasises the importance of fact-checking stories which are in the public interest.」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+
+## IFCN・FIJ のファクトチェックの手順とレーティング基準の定義（10ステップ全文・判定区分・数字の主張の検証例）（IFCN fact-checking steps rating definitions numbers claims methodology）
+- 文脈：
+- 手順・やり方：
+  - 「をいい、過去に起こった出来事が典型例です」（https://fij.info/introduction/basic）
+  - 「「偉大さ」を客観的に測る指標はなく、人によって「偉大」と評価する基準は異なるので、このような言説は典型的な」（https://fij.info/introduction/basic）
+  - 「ほかにも、組織運営や方法論の透明性など、５つの原則が示されています」（https://fij.info/introduction/basic）
+  - 「（Standards and Transparency of Methodology）」（https://fij.info/introduction/basic）
+  - 「本ガイドラインは、より良質で信頼されるファクトチェックを普及するために、国際ファクトチェックネットワーク（International Fact-Checking Network、以下「ＩＦＣＮ」）の綱領の趣旨（①非党派性・公正性、②情報源の透明性、③財源と組織の透明性、④方法論の透明性、⑤訂正の公開性）を踏まえて、ファクトチェック記事の作成・発表に関する事項を定めるものとします」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
+  - 「How to check facts - House of Commons Library」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
+  - 「The process of fact-checking a statement involves working out whether pieces of information (or facts) in a statement are verifiable and then examining whether other sources confirm or contradict them. The following steps are sourced from several fact-checking organisations, including:」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
+  - 「The next step involves evaluating a claim and what parts of it are verifiable ‘facts’. Statistics, definitions, quotations and dates can often be verified, whereas conjecture and opinion cannot.」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
+  - 「How to spot spin and inappropriate of statistics」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
+  - 「Different sources with different but equally valid methods of measuring something come to opposite conclusions; for example, there are」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
+  - 「It focuses on the methodology of verifying individual reports and images, rather than entire narratives of conflicts or questions.」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
+  - 「Methods to assess text, video and image sources」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
+  - 「Journalists use a range of methods to assess the authenticity of reports in conflict. The information here is summarised from several sources:」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
+  - 「How to debunk misinformation coming out of war in Ukraine」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
+  - 「Ukraine and beyond: How to fact check misleading videos」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
+- 突き合わせ・推定：
+  - 「基本的なルール(2) 証拠に基づく検証」（https://fij.info/introduction/basic）
+  - 「公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営み」（https://fij.info/introduction/basic）
+  - 「世の中に影響を与える言説や情報のうち、真偽が定かでないものや正確さに疑いがあるもの、事実かどうか検証されていないものが、ファクトチェックの対象となります」（https://fij.info/introduction/basic）
+  - 「真偽が定かでないため、調査・検証した結果、正確、もしくはほぼ正確であることが確認された場合や、誤りとは言えないが重要な事実が欠落していて誤解を与える場合など、様々なケースを取り扱います」（https://fij.info/introduction/basic）
+  - 「ファクトチェックはあくまで「事実」かどうかを検証する営みですから、」（https://fij.info/introduction/basic）
+  - 「原則として「事実言明」に限って検証するというルール」（https://fij.info/introduction/basic）
+  - 「ファクトチェックは、原則として調査によって収集・入手できる証拠（公開情報や文書など物的、客観的証拠）に基づいて、現実的に検証可能な「事実言明」を取り上げることが一般的です」（https://fij.info/introduction/basic）
+  - 「第三者による再検証・再確認が困難な匿名情報源に基づく検証は、極めて例外的です」（https://fij.info/introduction/basic）
+  - 「原則として、公開の場で不特定多数に向けて発せられた公益にかかわる言説・情報で、社会的に影響が大きく、真偽検証する意義のあるものを選ぶことになるでしょう」（https://fij.info/introduction/basic）
+  - 「通常は、ファクトチェック記事の冒頭で検証対象の言説内容を明示します」（https://fij.info/introduction/basic）
+  - 「それを選択した理由や検証する意義について説明することもあります」（https://fij.info/introduction/basic）
+  - 「その言説・情報の真偽を検証するために必要な事実関係の調査・取材を行います」（https://fij.info/introduction/basic）
+  - 「ファクトチェックを行う人（＝ファクトチェッカー）は、予断を持たずに、公平に、事実かどうかの検証に徹することが求められます」（https://fij.info/introduction/basic）
+  - 「」とは、公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指すものとします」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
+  - 「」は、特定の主義主張や党派・集団等に対する擁護や批判を目的とせず、公正な基準と証拠に基づいて、事実に関する真実性・正確性の検証に徹するものとします」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
+- 一次情報の探し方：
+  - 「（2019年4月2日公開）を採用します」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
+  - 「＜2019/08/11＞Waseggにおけるファクトチェック・ガイドラインとして、FIJが策定したガイドラインを採用」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
+  - 「We provide links to primary sources for all factual assertions wherever possible and aim to provide at least two sources to verify the central claim of a check unless there is only one relevant source. We prefer to link to data tables, legal documents, or other primary sources rather than press releases or executive summaries of statistical releases.」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
+- 失敗・落とし穴：
+  - 「真偽が定かでないため、調査・検証した結果、正確、もしくはほぼ正確であることが確認された場合や、誤りとは言えないが重要な事実が欠落していて誤解を与える場合など、様々なケースを取り扱います」（https://fij.info/introduction/basic）
+  - 「この点について、国際ファクトチェックネットワーク（ＩＦＣＮ）が具体的な注意点をまとめた記事を発表していますので、ご一読をおすすめします（主に政治家の言説をファクトチェックすることを念頭に書かれていますが、ファクトチェック全般に共通した注意点も含まれています）」（https://fij.info/introduction/basic）
+  - 「ファクトチェック記事につける見出しは、対象言説の内容や検証の結論について誤解を与えないように注意して付けるものとします」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
+  - 「事実の誤りはなく、重要な要素が欠けていない」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
+  - 「一部は不正確だが、主要な部分・根幹に誤りはない」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
+  - 「誤りと証明できないが、証拠・根拠がないか非常に乏しい」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
+  - 「全て、もしくは根幹部分に事実の誤りがある」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
+  - 「全て、もしくは根幹部分に事実の誤りがあり、事実でないと知りながら伝えた疑いが濃厚である」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
+  - 「誤りの可能性が強くはないが、否定もできない」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
+  - 「何が事実で何がそうでないのか、情報の（不）正確性を可視化し、一般の人々に注意喚起をする機能がある」（https://www.nposfss.com/cat7/kikan45_p01.html）
+  - 「ガイドラインでは、「誤り」「不正確」「ミスリード」「根拠不明」といった用語と定義を定めたレーティング基準を作り、推奨している」（https://www.nposfss.com/cat7/kikan45_p01.html）
+- 実例：
+  - 「公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営み」（https://fij.info/introduction/basic）
+  - 「真偽が定かでないため、調査・検証した結果、正確、もしくはほぼ正確であることが確認された場合や、誤りとは言えないが重要な事実が欠落していて誤解を与える場合など、様々なケースを取り扱います」（https://fij.info/introduction/basic）
+  - 「そのようなケースでは、」（https://fij.info/introduction/basic）
+  - 「事実調査の結果を踏まえて、対象言説について「正確」か「不正確」か、「ミスリード」か、といった判定を行うことになります」（https://fij.info/introduction/basic）
+  - 「レーティングは、読者に対してわかりやすくファクトチェック結果を伝える意義があるものの、強い印象を与える要素ですので、判断基準を明確化しておく必要があります」（https://fij.info/introduction/basic）
+  - 「」とは、公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指すものとします」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
+  - 「４ 以上の定義に基づきファクトチェックの結果を発表したもので、次の３つの要素を含むものを「」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
+  - 「検証の結果、どのような事実を認定し、どのような結論に至ったのか、対象言説の真実性・正確性についていかなる評価・判定（レーティング）をしたのか、を明示するものとします」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
+  - 「Fact-checking is the process of verifying the accuracy of reporting or statements. It often involves tracing the origin of a statement back to its original source (for example, a piece of research) and considering its original context, or comparing reporting in one source with the reporting in another (for example, multiple witness accounts of the same event).」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
+  - 「For example, the UK’s largest independent fact-checking organisation」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
+  - 「Full Fact highlights that, in some cases,」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
+  - 「For example, if someone claimed an expert said a policy would damage the economy, a fact-checker could contact that expert and see if that is what they said.」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
+  - 「For example, if someone claims unemployment is high, a fact-checker could refer to a reputable source of labour market data, such as the Office for National Statistics. To check whether unemployment is “high”, the fact-checker might compare the unemployment rate to historical data or comparable data in other countries.」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
+  - 「It is difficult or impossible to collect data that could confirm or refute it; for example, data on the effect of a policy before it has come into force.」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
+  - 「It would be unethical to collect the data; for example, testing the efficacy of a life-saving drug by denying it to one group and seeing if they live as long as the group taking it.」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
+
+## 政府統計の「利用上の注意」で系列の切れ目・遡及集計・表の記号を読む実務（賃金構造・毎月勤労統計・工業統計）（Japanese government statistics notes on use series break retroactive revision symbols）
+- 文脈：
+- 手順・やり方：
+  - 「にはこの現況調査の当時の方法の説明があるが、その後もおなじ方法によっているかどうかは不明）」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「調査対象事業所の選定、調査項目、調査の実施、集計と推計の方法、標本誤差の推定と評価などの詳細な情報は、報告書、公式ウェブサイト、その他の資料から入手できる」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「前年との差分をとっていくと、調査･集計方法の変化が追跡できる」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「をのぞいては、調査方法等の変遷を追跡することができない」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「化した値、前年比、前年同月比などが、定型のフォーマット (」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「は、集計表を作成する前のミクロデータを独自集計する方法を複数用意している」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「〔2006年調査まではちがう方法で合計した値を使っており、「標本誤差率」と呼んでいた」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「抽出間隔をRとすると、この方法でリストをちょうど一周したところで抽出率が1/Rとなる」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「常用労働者29人以下の事業所は、まず地理的な地区を無作為に選定し、その地区を実際に訪問して「現況調査」をおこない、その地区内に存在する事業所をすべてリストアップしたうえでそのリストから対象事業所を抽出する2段階の抽出方法をとっている」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「全国調査では、これを平均賃金などの調査数値にかける比推定の方法により、母集団における平均賃金などを求めている」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「2018年から全国調査の集計方法が大きく変わり、東京都の一部の事業所で他の道府県と抽出率が違っていたことについて、それを考慮した「復元」がなされるようになったほか、規模区分の境界を超えて労働者数を増減させた事業所の推計母集団労働者数への反映のさせかたも変化した」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「東京都とそれ以外との抽出率のちがいが継続していた2019年5月分まで、この方法による再集計値が作成・公表されている」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「東京都とそれ以外との抽出率の差は2019年6月をもって解消したが、それまでの数値との継続に配慮して、2019年5月分までと同様の方法で集計した値を参考値として公表している（2021年3月分まで）」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「この1950年1月から、無作為に抽出した30人以上規模事業所を調査対象とし、推計母集団労働者数による比推定をおこなう集計方法を採用」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「の比推定をおこなうための補助情報をえる方法を整理し、毎月勤労統計調査からわかる労働者数変化に」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+- 突き合わせ・推定：
+  - 「この点で、事業所調査から推計される「労働者数」は、通常の意味での労働者の人数ではない」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「調査対象事業所の選定、調査項目、調査の実施、集計と推計の方法、標本誤差の推定と評価などの詳細な情報は、報告書、公式ウェブサイト、その他の資料から入手できる」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「等による母集団労働者数推計値の調整（ベンチマーク更新）によって集計用ウエイト（「推計比率」」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「集計区分ごとの推計値を合成していくことによって、産業や事業所規模をまとめた推計値を計算する」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「全国調査においては、各集計区分について調査数値（後述）を求めた上で、それに推計比率（後述）をかけて、母集団における値を集計区分ごとに推計している」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「〔全国調査の集計においては、集計区分内のすべての事業所の抽出率が同一であれば、推計比率（後述）による集計区分ごとの比推定でカバーできるとされていたため、復元をおこなっていなかった場合がある」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「各集計区分について計算された各種の数値（労働者数、賃金合計額、総労働時間数など）で、推計比率（後述）をかけていないものを「調査数値」という」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「全国調査に関して、ある集計区分にふくまれる事業所で働く常用労働者が母集団（＝日本全体）では何人いるかを推計した値を「推計母集団労働者数」という」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「これを求める作業を「母集団労働者数推計」といい、毎月実施する」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「前月の推計母集団労働者数に、当月の毎月勤労統計調査から推計される1か月分の労働者の変動、他のデータから得られる情報を加味して、当月の母集団の労働者数を推計する」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「各集計区分について、推計母集団労働者数を、労働者数合計の調査数値で割った値」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「全国調査では、これを平均賃金などの調査数値にかける比推定の方法により、母集団における平均賃金などを求めている」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「リンク・リラティブ方式によって毎月の推計を重ねていく推計母集団労働者数が実態からかけ離れていくのを防ぐため、」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「などの、全国の労働者数の全数調査データが入手できるタイミング（数年程度の周期）で推計母集団労働者数と全数調査データによる労働者数との乖離分を調整する」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「調査対象となったある月について、労働者や平均賃金、平均労働時間などを母集団について推計した値」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+- 一次情報の探し方：
+  - 「統計不正調査問題サブセクションを切り替えます」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「統計の目的に沿って、雇用・賃金の変動に関する多くの指数について、前年同月比、前月比、季節調整済み前月比が公表される」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「「毎月勤労統計調査」の名前は「年次勤労統計調査」と対になるものである」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「毎月調査のほうだけが1947年以降も継続し、今日の毎月勤労統計調査となっている」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「による事業所名簿を作成する（労働省『毎月勤労統計調査70年史』(1994)」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「第13条によれば、基幹統計の作成のために必要な事項について報告を求められた個人、法人、その他の団体は、これを拒んだり虚偽の報告をしてはならない」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「個人情報保護を理由とした報告拒否も認められていない（統計法第52条により、」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「毎月勤労統計調査は事業所を対象とする調査である」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「毎月勤労統計調査の場合、民営の事業所だけでなく、公営の事業所も、「公務」に分類されるもの（」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「毎月勤労統計調査は、雇用・賃金・労働時間等の水準を、全国についてまたは都道府県別に測定することを意図している」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「この方向で統計が利用されている例として、各種」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「毎月勤労統計調査は、」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「賃金動態統計の重要性が高まっているなか、これまでの歴史的な経過に沿って整備されてきた毎月勤労統計調査の体制ではそれにじゅうぶん対応できないことが危惧されている」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「毎月勤労統計調査の集計結果は学術研究や政策立案のために分析されるほか、」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「(OECD) に定期的に送付されており、労働統計・経済統計の」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+- 失敗・落とし穴：
+  - 「ただし、前年分の調査についての情報と最新の情報が混在している場合があるので、注意を要する」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「〔2017年12月以前は定義がちがうので注意」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「雇用統計課長の決裁を経た上でおこなわれた企画担当係長名による毎月勤労統計調査に係るシステム担当係長あて事務連絡「毎月勤労統計調査全国調査及び地方調査の第一種事業所に係る調査の抽出替えに関する指定事業所の決定及び指定予定事業所名簿作成について」（2003年5月22日付）の添付文書「毎月勤労統計調査全国調査及び地方調査の第一種事業所に係る調査の抽出替えに関する指定事業所の決定及び指定予定事業所名簿作成要領」は、「事業所規模500人以上の抽出単位においては、今回から全国調査でなく、東京都の一部の産業で抽出調査を行うため注意すること」としている」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「なお、対象事業所抽出作業にあたって都道府県に通知する事務取扱要領には、2011年までは、東京都の500人以上規模事業所は全数調査ではなく抽出調査にする旨の注意書きがあった」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「しかし2014年、2017年においては、この注意書きを削除している」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「2003年5月22日付の企画担当係長名での毎月勤労統計調査に係るシステム担当係長あて事務連絡「毎月勤労統計調査全国調査及び地方調査の第一種事業所に係る調査の抽出替えに関する指定事業所の決定及び指定予定事業所名簿作成について」に添付された「毎月勤労統計調査全国調査及び地方調査の第一種事業所に係る調査の抽出替えに関する指定事業所の決定及び指定予定事業所名簿作成要領」に「事業所規模500人以上の抽出単位においては、今回から全国調査でなく、東京都の一部の産業で抽出調査を行うため注意すること」との記載があった」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「ことがわかっているだけであるが、これはサンプリングをおこなう際の注意事項であり、集計システムの変更を指示するものではない」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「サンプリングを変更したために集計時に注意すべき事柄が生じるのは確かであるが、それは事業所数が減ること、標本誤差が増大すること、集計結果に段差が生じることなど多岐にわたるので、この文が「復元」工程を導入せよというメッセージだと解するのはむずかしい」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「ことによって2019年2月に作成されたものであることに注意」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「毎月勤労統計“速報”のクセに注意: 所定内給与は高い頻度で下方修正される傾向」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「政府基幹統計、４割の２２統計に間違い 抽出方法など」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+- 実例：
+  - 「調査結果データサブセクションを切り替えます」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「調査・集計に関する技術的資料や結果数値はウェブサイトや報告書に掲載される」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「全体についての点検の結果、6割強に不適切な部分が見つかったとされる」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「おおむね、ある月の状況についての調査を翌月におこない、その集計結果の速報を翌々月初旬に公表、確報をその月末までに公表するというスケジュール」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「毎月勤労統計調査の集計結果は学術研究や政策立案のために分析されるほか、」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「ほかが具体的に活用している事例としては、つぎのようなものがある：」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「地方調査については、各都道府県のウェブサイトにおいても結果が報告される」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「また、年間および年度についての結果もウェブサイトで公開される」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「特別調査の結果は、毎年1回発表される」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「2018年末から2019年頭にかけて発覚した東京都不正抽出問題に対応するため、その影響を受ける期間についてあらためて計算した結果が公表されている」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「従来の公表値では、東京都の、特に大規模の事業所の抽出率の違いが適切に反映されていなかったために誤った集計結果となっていた」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「2004年から2018年までの、再集計がおこなわれるまでに公表されていた集計結果と、それに接続させた推計母集団労働者数によって集計した2018年以降の値（2020年12月分まで）」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「毎月勤労統計調査の結果をほかの統計と組み合わせて算出した指標が公表されている」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「この時期の調査結果については、「東日本大震災に関連した特別集計」」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「このために過去の統計との比較に問題が生じることを考慮して、新たに「共通事業所」(前年にも調査対象であった事業所のみを抽出して、現在のウエイトに固定して集計した結果) の前年同月比の集計結果を作成・公表することとした」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）

@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・58品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・61品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3446,3 +3446,193 @@
 - 人手と仕事の差：
   - 「「9 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額」、「10 有形固定資産（土地を除く ）」、」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
   - 「「9 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額の合計金額」、」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+
+## 金型製造業の従業者数・事業所数を工業統計の細分類で取り直す（1991年11万8213人ピークの元へ戻る・万＋人の読み違いの確認・4-24・4-37）（die and mold manufacturing employees establishments census of manufactures 1991-2020）
+- 文脈：業種・規模別
+- 事業所数・社数：
+  - 「平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「1200 1．（２） ← 概要版1200 1．（２） ・「事業所数」を追加」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・「従業者規模区分」を10区分から６区分へ」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「２．（２） ・「事業所数」を追加」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・「従業者規模区分」を10区分から６区分へ変更」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「用地用水編1100 第１部 1． ・「事業所数」「事業所敷地面積」のみ表章」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「用地用水編2100 第２部 1． ・「事業所数」「淡水合計（工業用水道・上水道・井戸水・その他の淡水）」のみ表章」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「1120 １．（１） ② ← 産業編3110 ３． （１） ① ・「従業者規模区分」を表頭から表側へ」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「1220 １．（２） ② ← 産業編3220 ３．（２） ② ・「事業所数」を追加」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「用地用水編1300 第１部 ３． ・「事業所数」「事業所敷地面積」のみ表章」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「用地用水編2300 第２部 ３． ・「事業所数」「淡水合計（工業用水道・上水道・井戸水・その他の淡水）」のみ表章」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「1200 1．（２） → 概要版1200 1．（２） ・「事業所数」を追加」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「2200 ２．（２） → 産業別統計表2300 ２．（３） ・「事業所数」を追加」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+- 社員数・平均社員数：
+  - 「平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「6 従業者数」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+  - 「6 従業者数 （平成29年6月1日現在） （単位：人）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+  - 「【例】男：⑥７人 － ⑤２人 － ⑦１人 ＋ ⑧１人 ＝ ５人」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+  - 「女：⑥５人 － ⑤０人 － ⑦０人 ＋ ⑧１人 ＝ ６人」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+  - 「男女計： ５人 ＋ ６人 ＝ １１人」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+  - 「＜その 1＞「6 従業者数」の書き方が変わりました」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+  - 「1500 1．（５） ← 品目編1500 第１部 ５． ・集計対象を「従業者数10人以上の事業所」から「従業者数4人以上の事業所」に変更」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「1600 1．（６） ← 品目編1600 第１部 ６． ・集計対象を「従業者数10人以上の事業所」から「従業者数4人以上の事業所」に変更」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「産業編1210 1．（２） ① ・表中の「常用労働者」項目名を削除、 「従業者数合計」にかっこ書きで内訳を表記」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「1300 1．（３） ← 産業編1310 1．（３） ・表中の「常用労働者」項目名を削除、「従業者数合計」にかっこ書きで内訳を表記」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「2100 ２．（１） ← 概要版2100 ２．（１） ・「生産額（従業者30人以上）」追加」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「2200 ２．（２） ← 産業編2100 ２．（１） ・「常用労働者年間月平均数（従業者30人以上）」削除」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「但し、従業者30人以上の事業所に関する統計表の」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「ため、30人以上の３区分のみ表章」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+- 受注金額・加工賃収入：
+  - 「平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「「11 製造品在庫額、半製品、仕掛品の価額及び原材料、燃料の在庫額」、「12 製造品出荷額、在庫額等」、「13 12 のア、ウ、エの合計金額」」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+  - 「「10 製造品出荷額等」、「11 10 のア、イ、ウの合計金額」」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+  - 「300万円未満、300～1000万円を1000万円未満に集約」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「5千万円～1」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「億円を5千万円～3億円に変更」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「3～10億円、10～100億円、100億円以上を3億円以上に集約」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「2100 ２．（１） ← 概要版2100 ２．（１） ・「生産額（従業者30人以上）」追加」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・推計方法の変更 「４～９人の前年比」を使用する部分を「４～９人の1事業所当たり製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「2000 ２． ← 細分類別3000 ３． ・「生産額（従業者29人以下は出荷額）」、「有形固定資産投資総額（従業者30人以上）」を削除」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「3000 ３． ← 市区町村編2000 ２． ・「製造品出荷額等」のうち、「内その他収入額」削除」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・「生産額（従業者30人以上）」を追加」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・「生産額（従業者29人以下は出荷額）」、「有形固定資産投資総額（従業者30人以上）」を削除」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「日本の音楽産業の2024年の海外売上・海外収入を調査しました（速報版）」（https://www.meti.go.jp/）
+  - 「一般社団法人日本金型工業会（以下、日本金型工業会）が2026年9月17日に公表した資料では、国際特殊工具・機械加工協会（ISTMA）の統計に基づく35カ国の金型生産額の合計は13兆1,221億円でした」（https://forwit.jp/column/die-and-mold/）
+- 1人あたり・1社あたり金額：
+  - 「300万円未満、300～1000万円を1000万円未満に集約」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「5千万円～1」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「億円を5千万円～3億円に変更」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・推計方法の変更 「４～９人の前年比」を使用する部分を「４～９人の1事業所当たり製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「2026年1月期の連結売上高は2,183億2,900万円、営業利益は126億5,100万円で、モーターコア製品などを手がける電機部品事業が1,546億4,900万円、金型・工作機械事業が102億4,700万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「生産額(従業者30人以上） （百万円）」（https://www.e-stat.go.jp/stat-search/database?tstat=000001022686&layout=dataset&statdisp_id=0003144075）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?tstat=000001022686&layout=dataset&statdisp_id=0003144075）
+- 生産能力・設備：
+  - 「「9 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額」、「10 有形固定資産（土地を除く ）」、」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+  - 「2000 ２． ← 概要版3000 ３． ・「有形固定資産投資総額」を削除」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「1100 1．（１） ← 産業編1100 1．（１） ・「有形固定資産額（年初現在高・年末現在高）」を産業別統計表の1200表へ」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「2000 ２． ← 細分類別3000 ３． ・「生産額（従業者29人以下は出荷額）」、「有形固定資産投資総額（従業者30人以上）」を削除」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・「有形固定資産年末現在高（従業者30人以上）」削除」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「3000 ３．（１） → 概要版2000 ２． ・「有形固定資産投資総額」を削除」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「1100 1．（１） → 産業別統計表1100 1．（１） ・「有形固定資産額（年初現在高・年末現在高）」を産業別統計表の1200表へ」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・「生産額（従業者29人以下は出荷額）」、「有形固定資産投資総額（従業者30人以上）」を削除」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「日本政策金融公庫総合研究所のレポートでは、IoT関連の設備投資について金型製造業では7.2%がすでに実施、12.6%が予定ありと答え、製造業全体の4.5%と6.2%を上回っていました」（https://forwit.jp/column/die-and-mold/）
+- 10年推移：
+  - 「<2021年実績> 以降」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<2020年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<2019年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<2018年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「平成30(2018)年」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<平成29(2017)年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「平成29(2017)年」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<平成28(2016)年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「平成27(2015)年」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「最終更新日：2022.12.26」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「・有形固定資産の「除却額」を「除却・売却による減少額」に名称変更」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・有形固定資産の「建設仮勘定（年間増減）」を「建設仮勘定（減少額）」に表示変更」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「仮勘定（増加額）」、「除却・売却による減少額」、「減価償却額」の計算式用アルファベットを変更」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・有形固定資産の「除却額」を「除却・売却による減少額」に変更」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・有形固定資産の「建設仮勘定（年間増減）」を「建設仮勘定（減少額）」に変更」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+- 人手と仕事の差：
+  - 「「9 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額」、「10 有形固定資産（土地を除く ）」、」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+  - 「「9 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額の合計金額」、」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+  - 「納期と原価の見通しが狂う原因の多くは、この修正の回数が読み切れないところにあります」（https://forwit.jp/column/die-and-mold/）
+  - 「内製と外注の線引きも産業の形を決めています」（https://forwit.jp/column/die-and-mold/）
+  - 「日本｜精度と納期で勝ち、量と価格で押される」（https://forwit.jp/column/die-and-mold/）
+  - 「金型に使うガイドピンやパンチ、ブッシュといった部品を規格化し、寸法をミクロン単位で指定できるようにしたうえで短納期で届ける仕組みを築きました」（https://forwit.jp/column/die-and-mold/）
+  - 「量産が読める型は安い国へ、立ち上げが難しい型や短納期が求められる型は日本へ、という棲み分けが統計の上にも表れています」（https://forwit.jp/column/die-and-mold/）
+  - 「精度と納期、そして立ち上げの速さです」（https://forwit.jp/column/die-and-mold/）
+
+## 賃金構造基本統計調査 遡及集計（参考系列 平成18年〜令和元年）製造業 企業規模別 所定内給与額（給与の下限を同じ推計方法の系列で・4-17・4-37）（wage structure basic survey retroactive series manufacturing firm size scheduled earnings）
+- 文脈：給与・規模別
+- 社員数・平均社員数：
+  - 「産業計：企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx）
+  - 「C鉱業,採石業,砂利採取業：企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx）
+  - 「男女計：企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx）
+  - 「男女計：A1S11 個人教師、塾・予備校講師： 2019」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx）
+  - 「男女計：A1S11 個人教師、塾・予備校講師： 000001」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx）
+  - 「男女計：A1S11 個人教師、塾・予備校講師： 35」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx）
+  - 「男女計：A1S11 個人教師、塾・予備校講師：（遡及集計表） 283.1」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx）
+  - 「男女計：A1S11 個人教師、塾・予備校講師： 272.2」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx）
+  - 「男女計：A1S11 個人教師、塾・予備校講師： 363.3」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx）
+  - 「男女計：A1S11 個人教師、塾・予備校講師： 3183」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx）
+  - 「男女計：A1S11 個人教師、塾・予備校講師： 286」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx）
+  - 「男女計：A1S11 個人教師、塾・予備校講師： 264.6」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx）
+  - 「男女計：A1S11 個人教師、塾・予備校講師： 492.6」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx）
+  - 「男女計：A1S11 個人教師、塾・予備校講師： 723」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx）
+  - 「男女計：A1S11 個人教師、塾・予備校講師： 288.2」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx）
+- 10年推移：
+  - 「遡及集計表一覧（年次推移）第６表」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html）
+  - 「遡及集計一覧（年次推移）第６表（参考）」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html）
+  - 「遡及集計表一覧（年次推移）第１〜６表」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html）
+  - 「遡及集計表一覧（年次推移）第４〜５表」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html）
+  - 「（年次推移：平成27年〜令和元年）」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html）
+  - 「（年次推移：平成21年〜平成26年）」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html）
+  - 「（年次推移：平成18年〜平成20年）」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html）
+  - 「学 歴 計： 2019」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx）
+  - 「産業計：A1N11 ～１９歳： 2019」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx）
+  - 「産業計：A1N11 ２０～２４歳： 2019」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx）
+  - 「産業計：A1N11 ２５～２９歳： 2019」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx）
+  - 「産業計：A1N11 ３０～３４歳： 2019」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx）
+  - 「産業計：A1N11 ３５～３９歳： 2019」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx）
+  - 「産業計：A1N11 ４０～４４歳： 2019」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx）
+  - 「産業計：A1N11 ４５～４９歳： 2019」（https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx）
+- 事業所数・社数：記載なし（読んだ33頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ33頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ33頁・検索15回）
+- 生産能力・設備：記載なし（読んだ33頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ33頁・検索15回）
+
+## 受託加工の金額を実質にする物価（企業物価指数の金属製品・企業向けサービス価格指数・GDPデフレーター 年次・4-37 名目と実質）（Japan corporate goods price index metal products annual deflator real terms）
+- 文脈：物価・統計
+- 事業所数・社数：
+  - 「回答企業数は、2021年度」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+- 社員数・平均社員数：
+  - 「2-1 節で述べたとおり、わが国では人口減少・高齢化に伴う人手不足感や財の」（https://www.soumu.go.jp/main_content/001083704.pdf）
+- 受注金額・加工賃収入：
+  - 「3」へ引き上げ、国内向け出荷額が小さく、採用基準に満たない品目の統合・廃」（https://www.soumu.go.jp/main_content/001083704.pdf）
+  - 「出荷額に、経済産業省「生産動態統計調査」などの該当品目の 2025 年出荷額の」（https://www.soumu.go.jp/main_content/001083704.pdf）
+  - 「前年比を乗ずることで、2025 年の出荷額を延長推計します」（https://www.soumu.go.jp/main_content/001083704.pdf）
+  - 「年の出荷額の推計値から、2025 年の「貿易統計」の輸出額を控除することで国」（https://www.soumu.go.jp/main_content/001083704.pdf）
+- 1人あたり・1社あたり金額：
+  - 「（注）1. 一人当たりの支出額」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「（注）1. 時間当たり所定内給与＝一人当たり所定内給与÷一人当たり所定内労働時間」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+- 生産能力・設備：
+  - 「2026 年度は、関税率の上昇が輸出と設備投資」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「9 設備投資の堅調さの背景については、ＢＯＸ２を参照」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「設備投資は、 緩やかな増加傾向にある （図表17）」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「図表17：設備投資一致指標」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「図表18：設備投資先行指標」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「2. ＧＤＰ民間企業設備投資の2025年度は、2025/2Qの値」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「図表19：設備投資計画と実績」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+- 10年推移：
+  - 「2025 年 10 月」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「経済・物価情勢の展望（2025 年10 月）」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「⚫ 物価の先行きを展望すると、消費者物価（除く生鮮食品）の前年比は、米などの食料品価」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「間後半には「物価安定の目標」と概ね整合的な水準で推移すると考えられる」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「⚫ 前回の見通しと比べると、成長率、消費者物価（除く生鮮食品）の前年比ともに、概ね」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「こうしたもとで、設備投資は緩やかな増加傾向にある」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「一方、住宅投資は減少している」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「消費者物価（除く生鮮食品）の前年比をみると、賃金上昇の販売価格への転嫁」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「を受けて、企業収益も、高水準ながらも減少するとみられる」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「こうしたもと、名目賃金は、企業収益減少の影響を受けて伸び率を」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「幾分鈍化させつつも、最低賃金の引き上げもあって、増加を続ける可能性が高」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「るものの、雇用者所得の増加が続くもとで、 次第に緩やかな増加基調に復して」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「この間、政府によるエネルギー代の負担緩和策や 2025 年度」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「資は、当面、減少基調をたどったあと、その後の回復ペースも緩やかなものに」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「公共投資は横ばい圏内で推移し、政府消費は、医療・介」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+- 人手と仕事の差：
+  - 「その後は、成長率が高まるもとで人手不足」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「設備投資は、 緩和的な金融環境が下支え要因として作用するなか、 人手不足対」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「雇用・所得環境をみると、人手不足感が強まるもとで名目賃金は伸び率を」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「成長率が高まるもとで人手不足感が強まり、中長期的な予想物価上昇率が上昇」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「の経験や人手不足の強まり、 脱炭素化に向けた取り組みや労働市場改革の進展」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「の変化等に伴う人手不足感の強まりは、 デジタル化などによる省力化投資の動」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「が高まるもとで人手不足感が強まり、中長期的な予想物価上昇率が上昇してい」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「た受注残高を解消する動きや非製造業を中心とす」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「る人手不足対応の省力化投資に支えられて増加傾」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「が続くもとで、設備投資は、人手不足対応の省力」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「実質）をみると、建設資材高や人手不足を背景と」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「先行きの設備投資は、積み上がった受注残高解」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「的な人手不足に対応するための省力化・効率化投」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「正規雇用は、人手不足感の強い情報通信や医療・」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）
+  - 「不足感をみても、人手不足感の強い水準で横ばい」（https://www.boj.or.jp/mopo/outlook/gor2510b.pdf）

@@ -1,0 +1,987 @@
+{
+ "name": "賃金構造基本統計調査 遡及集計（参考系列 平成18年〜令和元年）製造業 企業規模別 所定内給与額（給与の下限を同じ推計方法の系列で・4-17・4-37）",
+ "en": "wage structure basic survey retroactive series manufacturing firm size scheduled earnings",
+ "aliases": [
+  "賃金構造基本統計調査 遡及集計 製造業 企業規模別 所定内給与額",
+  "賃金構造基本統計調査 参考系列 令和2年 推計方法 変更",
+  "賃金構造基本統計調査 製造業 10〜99人 所定内給与 推移"
+ ],
+ "context": "給与・規模別",
+ "kind": "market",
+ "researched_at": "2026-11-05T13:07:29.680183+00:00",
+ "evidence": {
+  "10年推移": [
+   {
+    "quote": "遡及集計表一覧（年次推移）第６表",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
+    "pass": 3
+   },
+   {
+    "quote": "遡及集計一覧（年次推移）第６表（参考）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
+    "pass": 3
+   },
+   {
+    "quote": "遡及集計表一覧（年次推移）第１〜６表",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
+    "pass": 3
+   },
+   {
+    "quote": "遡及集計表一覧（年次推移）第４〜５表",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
+    "pass": 3
+   },
+   {
+    "quote": "（年次推移：平成27年〜令和元年）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
+    "pass": 3
+   },
+   {
+    "quote": "（年次推移：平成21年〜平成26年）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
+    "pass": 3
+   },
+   {
+    "quote": "（年次推移：平成18年〜平成20年）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
+    "pass": 3
+   },
+   {
+    "quote": "学 歴 計： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "産業計：A1N11 ～１９歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "産業計：A1N11 ２０～２４歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "産業計：A1N11 ２５～２９歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "産業計：A1N11 ３０～３４歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "産業計：A1N11 ３５～３９歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "産業計：A1N11 ４０～４４歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "産業計：A1N11 ４５～４９歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "産業計：A1N11 ５０～５４歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "産業計：A1N11 ５５～５９歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "産業計：A1N11 ６０～６４歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "産業計：A1N11 ６５～６９歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "産業計：A1N11 ７０歳～： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "産業計：A1N11 中 学 卒： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "産業計：A1N11 高 校 卒： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "産業計：A1N11 高専・短大卒： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "産業計：A1N11 ２０～２４歳： 20216",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "産業計：A1N11 ６５～６９歳： 2022",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 自然科学系研究者： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 化学分析員： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 技術士： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 一級建築士： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 測量技術者： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 システム・エンジニア： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 システム・エンジニア： 12021",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 プログラマー： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 医師： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 歯科医師： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 獣医師： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 薬剤師： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 看護師： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 准看護師： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 看護補助者： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 診療放射線・診療ｴｯｸｽ線技師： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 診療放射線・診療ｴｯｸｽ線技師： 2017",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 臨床検査技師： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "学 歴 計： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-03.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "正社員・正職員：A1K11 ～１９歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-03.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "正社員・正職員：A1K11 ２０～２４歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-03.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "正社員・正職員：A1K11 ２５～２９歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-03.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "正社員・正職員：A1K11 ３０～３４歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-03.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "正社員・正職員：A1K11 ３５～３９歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-03.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "正社員・正職員：A1K11 ４０～４４歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-03.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "正社員・正職員：A1K11 ４５～４９歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-03.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "正社員・正職員：A1K11 ５０～５４歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-03.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "正社員・正職員：A1K11 ５５～５９歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-03.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "正社員・正職員：A1K11 ６０～６４歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-03.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "正社員・正職員：A1K11 ６５～６９歳： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-03.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "正社員・正職員：A1K11 ７０歳～： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-03.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "正社員・正職員：A1K11 中 学 卒： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-03.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "正社員・正職員：A1K11 ５５～５９歳： 2021",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-03.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "正社員・正職員：A1K11 高 校 卒： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-03.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "正社員・正職員：A1K11 ３０～３４歳： 20150",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-03.xlsx",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "産業計：企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "C鉱業,採石業,砂利採取業：企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 個人教師、塾・予備校講師： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 個人教師、塾・予備校講師： 000001",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 個人教師、塾・予備校講師： 35",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 個人教師、塾・予備校講師：（遡及集計表） 283.1",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 個人教師、塾・予備校講師： 272.2",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 個人教師、塾・予備校講師： 363.3",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 個人教師、塾・予備校講師： 3183",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 個人教師、塾・予備校講師： 286",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 個人教師、塾・予備校講師： 264.6",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 個人教師、塾・予備校講師： 492.6",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 個人教師、塾・予備校講師： 723",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 個人教師、塾・予備校講師： 288.2",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 個人教師、塾・予備校講師： 281.5",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 個人教師、塾・予備校講師： 405.3",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 個人教師、塾・予備校講師： 759",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：A1S11 個人教師、塾・予備校講師： 279.7",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "正社員・正職員：企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-03.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "短時間労働者：企業規模（10人以上） 1,000人以上 100～999人以上 10～99人 企業規模（10人以上） 1,000人以上 100～999人以上 10～99人 企業規模（10人以上） 1,000人以上 100～999人以上 10～99人 企業規模（10人以上） 1,000人以上 100～999人以上 10～99人 企業規模（10人以上） 1,000人以上 100～999人以上 10～99人",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-04.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模計：企業規模 企業規模計（10人以上） 企業規模計（10人以上） 企業規模計（10人以上） 企業規模計（10人以上） 企業規模計（10人以上）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-05.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模計：B1S19 個人教師、塾・予備校講師： 2019",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-05.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模計：B1S19 個人教師、塾・予備校講師： 000001",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-05.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模計：B1S19 個人教師、塾・予備校講師： 35",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-05.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模計：B1S19 個人教師、塾・予備校講師：（遡及集計表） 1804",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-05.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模計：B1S19 個人教師、塾・予備校講師： 5.3",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-05.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模計：B1S19 個人教師、塾・予備校講師： 14748",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-05.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模計：B1S19 個人教師、塾・予備校講師： 1933",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-05.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模計：B1S19 個人教師、塾・予備校講師： 6.4",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-05.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模計：B1S19 個人教師、塾・予備校講師： 7474",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-05.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模計：B1S19 個人教師、塾・予備校講師： 1672",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-05.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模計：B1S19 個人教師、塾・予備校講師： 4.1",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-05.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模計：B1S19 個人教師、塾・予備校講師： 7273",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-05.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模計：B1S19 個人教師、塾・予備校講師：（遡及集計表） 1581",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-05.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模計：B1S19 個人教師、塾・予備校講師： 3.4",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-05.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模計：B1S19 個人教師、塾・予備校講師： 14385",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-05.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模計：B1S19 個人教師、塾・予備校講師： 1610",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-05.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "（10人以上） 1,000人以上 100～999人 10～99人 企業規模計",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-06.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "（10人以上） 1,000人以上 100～999人 10～99人",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-06.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "（10人以上） 1,000人以上 100～999人 10～99人 企業規模計",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-06sanko.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "（10人以上） 1,000人以上 100～999人 10～99人",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-06sanko.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "産業計：企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01_2.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "C鉱業,採石業,砂利採取業：企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01_2.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人 企業規模（10人以上） 1,000人以上 100～999人 10～99人",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02_2.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：個人教師、塾・予備校講師：（遡及集計表） 285.7",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02_2.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：個人教師、塾・予備校講師： 272.3",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02_2.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：個人教師、塾・予備校講師： 500",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02_2.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：個人教師、塾・予備校講師： 3636",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02_2.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：個人教師、塾・予備校講師： 299.8",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02_2.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：個人教師、塾・予備校講師： 283.7",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02_2.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：個人教師、塾・予備校講師： 678.6",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02_2.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：個人教師、塾・予備校講師： 608",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02_2.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：個人教師、塾・予備校講師： 262.8",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02_2.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：個人教師、塾・予備校講師： 253.5",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02_2.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：個人教師、塾・予備校講師： 435.4",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02_2.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：個人教師、塾・予備校講師： 1051",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02_2.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：個人教師、塾・予備校講師： 293.6",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02_2.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：個人教師、塾・予備校講師： 278.8",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02_2.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "男女計：個人教師、塾・予備校講師： 479.5",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02_2.xlsx",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
+    "status": "ok",
+    "method": "http:seed"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01.xlsx",
+    "status": "ok",
+    "method": "table:seed-link"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02.xlsx",
+    "status": "ok",
+    "method": "table:seed-link"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-03.xlsx",
+    "status": "ok",
+    "method": "table:seed-link"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-04.xlsx",
+    "status": "ok",
+    "method": "table:seed-link"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-05.xlsx",
+    "status": "ok",
+    "method": "table:seed-link"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-06.xlsx",
+    "status": "ok",
+    "method": "table:seed-link"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-06sanko.xlsx",
+    "status": "ok",
+    "method": "table:seed-link"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-01_2.xlsx",
+    "status": "ok",
+    "method": "table:seed-link"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-02_2.xlsx",
+    "status": "ok",
+    "method": "table:seed-link"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-03_2.xlsx",
+    "status": "ok",
+    "method": "table:seed-link"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-04_2.xlsx",
+    "status": "ok",
+    "method": "table:seed-link"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/xls/sokyu-05_2.xlsx",
+    "status": "ok",
+    "method": "table:seed-link"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/chinginkouzou.html",
+    "status": "ok",
+    "method": "http:seed-link"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=7&toukei=00450091&tstat=000001011429&tclass1=000001155791&tclass2=000001156749&tclass3=000001156751&tclass4val=0&stat_infid=000032117100",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001032713.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://fpeo.co.jp/news/news-11146/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/training/meetings/anonymization/pdf/210921_ref3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jikosos.net/basic/basic5/chingin-census",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2013/04/pdf/014-017.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/chinginkouzou_b.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003425893",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550010&tstat=000001022686",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nber.org/system/files/chapters/c7852/c7852.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/nenkan/1431-19e.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/english/estatis/esaikin/2026/e202601.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2023/data/wp23e04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/publications/dp/25e090.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/WOE00",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "賃金構造基本統計調査 遡及集計（参考系列 平成18年〜令和元年）製造業 企業規模別 所定内給与額（給与の下限を同じ推計方法の系列で・4-17・4-37）",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=7&toukei=00450091&tstat=000001011429&tclass1=000001155791&tclass2=000001156749&tclass3=000001156751&tclass4val=0&stat_infid=000032117100",
+    "https://www.soumu.go.jp/main_content/001032713.pdf",
+    "https://fpeo.co.jp/news/news-11146/",
+    "https://www.stat.go.jp/training/meetings/anonymization/pdf/210921_ref3.pdf",
+    "https://www.jikosos.net/basic/basic5/chingin-census",
+    "https://www.youtube.com/watch?v=BaYKWopUxAY",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2013/04/pdf/014-017.pdf",
+    "https://www.mhlw.go.jp/toukei/list/chinginkouzou_b.html",
+    "https://www.mhlw.go.jp/toukei/list/chinginkouzou.html"
+   ]
+  },
+  {
+   "query": "賃金構造基本統計調査 遡及集計（参考系列 平成18年〜令和元年）製造業 企業規模別 所定内給与額（給与の下限を同じ推計方法の系列で・4-17・4-37） 推移",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=7&toukei=00450091&tstat=000001011429&tclass1=000001155791&tclass2=000001156749&tclass3=000001156751&tclass4val=0&stat_infid=000032117100",
+    "https://www.soumu.go.jp/main_content/001032713.pdf",
+    "https://fpeo.co.jp/news/news-11146/",
+    "https://www.stat.go.jp/training/meetings/anonymization/pdf/210921_ref3.pdf",
+    "https://www.jikosos.net/basic/basic5/chingin-census",
+    "https://www.youtube.com/watch?v=BaYKWopUxAY",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2013/04/pdf/014-017.pdf",
+    "https://www.mhlw.go.jp/toukei/list/chinginkouzou_b.html"
+   ]
+  },
+  {
+   "query": "賃金構造基本統計調査 遡及集計（参考系列 平成18年〜令和元年）製造業 企業規模別 所定内給与額（給与の下限を同じ推計方法の系列で・4-17・4-37） 統計 PDF",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=7&toukei=00450091&tstat=000001011429&tclass1=000001155791&tclass2=000001156749&tclass3=000001156751&tclass4val=0&stat_infid=000032117100",
+    "https://www.soumu.go.jp/main_content/001032713.pdf",
+    "https://fpeo.co.jp/news/news-11146/",
+    "https://www.stat.go.jp/training/meetings/anonymization/pdf/210921_ref3.pdf",
+    "https://www.jikosos.net/basic/basic5/chingin-census",
+    "https://www.youtube.com/watch?v=BaYKWopUxAY",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2013/04/pdf/014-017.pdf",
+    "https://www.mhlw.go.jp/toukei/list/chinginkouzou_b.html"
+   ]
+  },
+  {
+   "query": "賃金構造基本統計調査 遡及集計（参考系列 平成18年〜令和元年）製造業 企業規模別 所定内給与額（給与の下限を同じ推計方法の系列で・4-17・4-37） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=7&toukei=00450091&tstat=000001011429&tclass1=000001155791&tclass2=000001156749&tclass3=000001156751&tclass4val=0&stat_infid=000032117100",
+    "https://www.soumu.go.jp/main_content/001032713.pdf",
+    "https://fpeo.co.jp/news/news-11146/",
+    "https://www.stat.go.jp/training/meetings/anonymization/pdf/210921_ref3.pdf",
+    "https://www.jikosos.net/basic/basic5/chingin-census",
+    "https://www.youtube.com/watch?v=BaYKWopUxAY",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2013/04/pdf/014-017.pdf",
+    "https://www.mhlw.go.jp/toukei/list/chinginkouzou_b.html",
+    "https://ja.wikipedia.org/wiki/工業統計調査"
+   ]
+  },
+  {
+   "query": "賃金構造基本統計調査 遡及集計（参考系列 平成18年〜令和元年）製造業 企業規模別 所定内給与額（給与の下限を同じ推計方法の系列で・4-17・4-37） 従業者規模別",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=7&toukei=00450091&tstat=000001011429&tclass1=000001155791&tclass2=000001156749&tclass3=000001156751&tclass4val=0&stat_infid=000032117100",
+    "https://www.soumu.go.jp/main_content/001032713.pdf",
+    "https://fpeo.co.jp/news/news-11146/",
+    "https://www.stat.go.jp/training/meetings/anonymization/pdf/210921_ref3.pdf",
+    "https://www.jikosos.net/basic/basic5/chingin-census",
+    "https://www.youtube.com/watch?v=BaYKWopUxAY",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2013/04/pdf/014-017.pdf",
+    "https://www.mhlw.go.jp/toukei/list/chinginkouzou_b.html"
+   ]
+  },
+  {
+   "query": "賃金構造基本統計調査 遡及集計（参考系列 平成18年〜令和元年）製造業 企業規模別 所定内給与額（給与の下限を同じ推計方法の系列で・4-17・4-37） 1人当たり 万円",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=7&toukei=00450091&tstat=000001011429&tclass1=000001155791&tclass2=000001156749&tclass3=000001156751&tclass4val=0&stat_infid=000032117100",
+    "https://www.soumu.go.jp/main_content/001032713.pdf",
+    "https://fpeo.co.jp/news/news-11146/",
+    "https://www.stat.go.jp/training/meetings/anonymization/pdf/210921_ref3.pdf",
+    "https://www.jikosos.net/basic/basic5/chingin-census",
+    "https://www.youtube.com/watch?v=BaYKWopUxAY",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2013/04/pdf/014-017.pdf",
+    "https://www.mhlw.go.jp/toukei/list/chinginkouzou_b.html"
+   ]
+  },
+  {
+   "query": "賃金構造基本統計調査 遡及集計（参考系列 平成18年〜令和元年）製造業 企業規模別 所定内給与額（給与の下限を同じ推計方法の系列で・4-17・4-37） 2015 2025",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=7&toukei=00450091&tstat=000001011429&tclass1=000001155791&tclass2=000001156749&tclass3=000001156751&tclass4val=0&stat_infid=000032117100",
+    "https://www.soumu.go.jp/main_content/001032713.pdf",
+    "https://fpeo.co.jp/news/news-11146/",
+    "https://www.stat.go.jp/training/meetings/anonymization/pdf/210921_ref3.pdf",
+    "https://www.jikosos.net/basic/basic5/chingin-census",
+    "https://www.youtube.com/watch?v=BaYKWopUxAY",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2013/04/pdf/014-017.pdf",
+    "https://www.mhlw.go.jp/toukei/list/chinginkouzou_b.html"
+   ]
+  },
+  {
+   "query": "wage structure basic survey retroactive series manufacturing firm size scheduled earnings Japan statistics",
+   "results": [
+    "https://www.nber.org/system/files/chapters/c7852/c7852.pdf",
+    "https://www.stat.go.jp/english/data/nenkan/1431-19e.html",
+    "https://www.jil.go.jp/english/estatis/esaikin/2026/e202601.html",
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2023/data/wp23e04.pdf",
+    "https://www.rieti.go.jp/jp/publications/dp/25e090.pdf",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/WOE00",
+    "https://www.mhlw.go.jp/www2/info/toukei/english/b_explanation.htm",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "https://fred.stlouisfed.org/series/LCEAMN01JPM661S",
+    "https://www.e-stat.go.jp/en/statistics/00450091"
+   ]
+  },
+  {
+   "query": "site:note.com 賃金構造基本統計調査 遡及集計（参考系列 平成18年〜令和元年）製造業 企業規模別 所定内給与額（給与の下限を同じ推計方法の系列で・4-17・4-37）",
+   "results": [
+    "https://note.com/1998office_knet/n/nac34fc71f339",
+    "https://note.com/str_88087843/n/n0ec9f88c39d8",
+    "https://note.com/1998office_knet/n/n069d2a4c4990",
+    "https://note.com/gentle_otter9347/n/nf09e73a3ec5d",
+    "https://note.com/seikahaibun/n/n3ff57c479302",
+    "https://note.com/mayco/n/n334bafc137c2",
+    "https://note.com/seikahaibun/n/ne2e3c5cad959"
+   ]
+  },
+  {
+   "query": "site:x.com 賃金構造基本統計調査 遡及集計（参考系列 平成18年〜令和元年）製造業 企業規模別 所定内給与額（給与の下限を同じ推計方法の系列で・4-17・4-37）",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com 賃金構造基本統計調査 遡及集計（参考系列 平成18年〜令和元年）製造業 企業規模別 所定内給与額（給与の下限を同じ推計方法の系列で・4-17・4-37）",
+   "results": [
+    "https://in.linkedin.com/company/c2i-semiconductors",
+    "https://www.linkedin.com/businessmanager/login",
+    "https://jp.linkedin.com/posts/hidetoshitakano_タクシー運転手の給料が4割増の衝撃-厚労省の賃金構造基本統計調査見た2024-activity-7415591664171315200-qQ8G",
+    "https://www.linkedin.com/company/coorix",
+    "https://in.linkedin.com/company/straive_",
+    "https://uk.linkedin.com/in/hshoukry",
+    "https://au.linkedin.com/in/vsyrakis"
+   ]
+  },
+  {
+   "query": "site:facebook.com 賃金構造基本統計調査 遡及集計（参考系列 平成18年〜令和元年）製造業 企業規模別 所定内給与額（給与の下限を同じ推計方法の系列で・4-17・4-37）",
+   "results": []
+  },
+  {
+   "query": "賃金構造基本統計調査 遡及集計（参考系列 平成18年〜令和元年）製造業 企業規模別 所定内給与額（給与の下限を同じ推計方法の系列で・4-17・4-37） note 社長",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=7&toukei=00450091&tstat=000001011429&tclass1=000001155791&tclass2=000001156749&tclass3=000001156751&tclass4val=0&stat_infid=000032117100",
+    "https://www.soumu.go.jp/main_content/001032713.pdf",
+    "https://fpeo.co.jp/news/news-11146/",
+    "https://www.stat.go.jp/training/meetings/anonymization/pdf/210921_ref3.pdf",
+    "https://www.jikosos.net/basic/basic5/chingin-census",
+    "https://www.youtube.com/watch?v=BaYKWopUxAY",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2013/04/pdf/014-017.pdf",
+    "https://www.mhlw.go.jp/toukei/list/chinginkouzou_b.html"
+   ]
+  },
+  {
+   "query": "賃金構造基本統計調査 遡及集計（参考系列 平成18年〜令和元年）製造業 企業規模別 所定内給与額（給与の下限を同じ推計方法の系列で・4-17・4-37） X 投稿",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/sokyu.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=7&toukei=00450091&tstat=000001011429&tclass1=000001155791&tclass2=000001156749&tclass3=000001156751&tclass4val=0&stat_infid=000032117100",
+    "https://www.soumu.go.jp/main_content/001032713.pdf",
+    "https://fpeo.co.jp/news/news-11146/",
+    "https://www.stat.go.jp/training/meetings/anonymization/pdf/210921_ref3.pdf",
+    "https://www.jikosos.net/basic/basic5/chingin-census",
+    "https://www.youtube.com/watch?v=BaYKWopUxAY",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2013/04/pdf/014-017.pdf",
+    "https://www.mhlw.go.jp/toukei/list/chinginkouzou_b.html"
+   ]
+  },
+  {
+   "query": "wage structure basic survey retroactive series manufacturing firm size scheduled earnings site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/abhishekudanshiv",
+    "https://www.linkedin.com/in/bernielin",
+    "https://www.linkedin.com/pulse/2026-investment-perspectives-blackstoneinc-e2uqc",
+    "https://www.linkedin.com/in/jrepetti",
+    "https://www.linkedin.com/in/tylerkem",
+    "https://www.linkedin.com/in/stevenbellironwheel",
+    "https://www.linkedin.com/in/travis-moyer-b9465a1a",
+    "https://www.linkedin.com/posts/karan-shah-b5b318a3_tax-updates-compliance-activity-7472097538041565184-lita",
+    "https://www.linkedin.com/in/davidmosherprofile",
+    "https://au.linkedin.com/in/avilewis"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ33頁・検索15回）",
+  "受注金額・加工賃収入": "記載なし（読んだ33頁・検索15回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ33頁・検索15回）",
+  "生産能力・設備": "記載なし（読んだ33頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ33頁・検索15回）"
+ }
+}

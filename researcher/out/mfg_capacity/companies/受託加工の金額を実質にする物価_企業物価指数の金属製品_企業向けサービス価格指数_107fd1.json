@@ -1,0 +1,777 @@
+{
+ "name": "受託加工の金額を実質にする物価（企業物価指数の金属製品・企業向けサービス価格指数・GDPデフレーター 年次・4-37 名目と実質）",
+ "en": "Japan corporate goods price index metal products annual deflator real terms",
+ "aliases": [
+  "企業物価指数 金属製品 年平均 推移",
+  "国内企業物価指数 金属製品 2015年基準 年次",
+  "企業向けサービス価格指数 年次 推移 日本銀行"
+ ],
+ "context": "物価・統計",
+ "kind": "market",
+ "researched_at": "2026-11-05T13:07:47.758637+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "回答企業数は、2021年度",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "（注）1. 一人当たりの支出額",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1. 時間当たり所定内給与＝一人当たり所定内給与÷一人当たり所定内労働時間",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "2026 年度は、関税率の上昇が輸出と設備投資",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9 設備投資の堅調さの背景については、ＢＯＸ２を参照",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資は、 緩やかな増加傾向にある （図表17）",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表17：設備投資一致指標",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表18：設備投資先行指標",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2. ＧＤＰ民間企業設備投資の2025年度は、2025/2Qの値",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表19：設備投資計画と実績",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2025 年 10 月",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済・物価情勢の展望（2025 年10 月）",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 物価の先行きを展望すると、消費者物価（除く生鮮食品）の前年比は、米などの食料品価",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "間後半には「物価安定の目標」と概ね整合的な水準で推移すると考えられる",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 前回の見通しと比べると、成長率、消費者物価（除く生鮮食品）の前年比ともに、概ね",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたもとで、設備投資は緩やかな増加傾向にある",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、住宅投資は減少している",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "消費者物価（除く生鮮食品）の前年比をみると、賃金上昇の販売価格への転嫁",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を受けて、企業収益も、高水準ながらも減少するとみられる",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたもと、名目賃金は、企業収益減少の影響を受けて伸び率を",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "幾分鈍化させつつも、最低賃金の引き上げもあって、増加を続ける可能性が高",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "るものの、雇用者所得の増加が続くもとで、 次第に緩やかな増加基調に復して",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この間、政府によるエネルギー代の負担緩和策や 2025 年度",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資は、当面、減少基調をたどったあと、その後の回復ペースも緩やかなものに",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "公共投資は横ばい圏内で推移し、政府消費は、医療・介",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "護費の趨勢的な増加を反映し、緩やかに増加していくと想定している",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "輸出や生産は、 増加基調に復して",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業収益は内外需要の増加から改善していくとみられ、 設",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業物価指数・2025 年基準改定の基本方針",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本銀行では、現在、企業物価指数の基準改定（現行の2020 年基準指数から",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年基準指数への移行） に向けた作業を進めています",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本稿では、CGPI・2025 年基準改定の基本的な方針と、その背景にある考え方",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "原則として現行の 2020 年基準を踏襲します（図表 1）",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を 2020 年から 2025 年に変更しつつ、価格調査の継続性確保などの観点から品",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "目の改廃を行うほか、2025 年の取引額の推計値に基づくウエイトの更新を実施",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人工知能（AI）関連財の需要増加、農林水産物・食品の輸出拡大、環境や経済・",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社会の持続可能性 （サステナビリティ） に関連する財の需要増加、地政学リスク",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "となり得る企業・事業所数の減少が続いています",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "他方、調査先負担の増加を伴わない指数精",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "行の 2020 年基準中から導入する予定です",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以下では、今回の 2025 年基準改定について、経済・産業構造の変化への対応",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "減少・高齢化に伴う人手不足感や財の内需の頭打ち感があるもとで、労働生産性",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に関連する財の国内需要が大きく増加しています",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "にも高まっており、日系企業が強みをもつ AI 関連財の輸出増加を通じて、外需",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "けて、2025 年 5 月に改訂された 「農林水産物 ・ 食品の輸出拡大実行戦略」 では、",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "その後は、成長率が高まるもとで人手不足",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資は、 緩和的な金融環境が下支え要因として作用するなか、 人手不足対",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "雇用・所得環境をみると、人手不足感が強まるもとで名目賃金は伸び率を",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "成長率が高まるもとで人手不足感が強まり、中長期的な予想物価上昇率が上昇",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の経験や人手不足の強まり、 脱炭素化に向けた取り組みや労働市場改革の進展",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の変化等に伴う人手不足感の強まりは、 デジタル化などによる省力化投資の動",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が高まるもとで人手不足感が強まり、中長期的な予想物価上昇率が上昇してい",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "た受注残高を解消する動きや非製造業を中心とす",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る人手不足対応の省力化投資に支えられて増加傾",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が続くもとで、設備投資は、人手不足対応の省力",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "実質）をみると、建設資材高や人手不足を背景と",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "先行きの設備投資は、積み上がった受注残高解",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "的な人手不足に対応するための省力化・効率化投",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "正規雇用は、人手不足感の強い情報通信や医療・",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "不足感をみても、人手不足感の強い水準で横ばい",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "先行きの雇用動向を展望すると、人手不足感の",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "収益減少が、人手不足感の強さによって高まって",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受注残の消化が進むもとで、高めの水準を維持し",
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "減少・高齢化に伴う人手不足感や財の内需の頭打ち感があるもとで、労働生産性",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2-1 節で述べたとおり、わが国では人口減少・高齢化に伴う人手不足感や財の",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "2-1 節で述べたとおり、わが国では人口減少・高齢化に伴う人手不足感や財の",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "3」へ引き上げ、国内向け出荷額が小さく、採用基準に満たない品目の統合・廃",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出荷額に、経済産業省「生産動態統計調査」などの該当品目の 2025 年出荷額の",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前年比を乗ずることで、2025 年の出荷額を延長推計します",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年の出荷額の推計値から、2025 年の「貿易統計」の輸出額を控除することで国",
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.esri.cao.go.jp/jp/sna/data/reference1/h12/pdf/chap_7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/25/dl/25-1-1-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dlri.co.jp/report/ld/348053.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smbcnikko.co.jp/terms/eng/g/E0043.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dlri.co.jp/report/macro/265856.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sogotcha.com/real-gdp-and-price-index/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.kumagaku.ac.jp/teacher/~sasayama/macroecon/lecture05.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.monex.co.jp/ud/glossary/6695f24ab576228a2c00003c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/pi/cspi_release/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat-search.boj.or.jp/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ230817.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://release.nikkei.co.jp/attach_file/0508805_02.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.fcoop.or.jp/files/uploads/2026_11021106.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.boj.or.jp/research/research_data/reri/exreri.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hit-u.ac.jp/hq-mag/research_issues/608_20251002/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/yougo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/library/opac/Newly_arrived/hlist?tmtl=3&idx=13&ppg=50&rgtn=WZ2260053",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.bank-daiwa.co.jp/support/dir_column/economics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/nihon/20.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat-search.boj.or.jp/ssi/cgi-bin/famecgi2?cgi=$nme_a000&lstSelection=PR01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/sna/data/reference1/h23/pdf/chap_8_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/sna//data/reference1/h17/pdf/chap_7_2012.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp010501006000010689/1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2606.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ycharts.com/indicators/japan_domestic_corporate_goods_price_index_metal_products",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fred.stlouisfed.org/tags/series?t=japan%3Bmanufacturing%3Bprice+index",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://tradingeconomics.com/japan/producer-prices",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/cpi/158c.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2608.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "受託加工の金額を実質にする物価（企業物価指数の金属製品・企業向けサービス価格指数・GDPデフレーター 年次・4-37 名目と実質）",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h12/pdf/chap_7.pdf",
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/25/dl/25-1-1-1.pdf",
+    "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf",
+    "https://www.dlri.co.jp/report/ld/348053.html",
+    "https://www.smbcnikko.co.jp/terms/eng/g/E0043.html",
+    "https://www2.kumagaku.ac.jp/teacher/~sasayama/macroecon/lecture05.html",
+    "https://sogotcha.com/real-gdp-and-price-index/",
+    "https://media.monex.co.jp/ud/glossary/6695f24ab576228a2c00003c",
+    "https://www.boj.or.jp/statistics/pi/cspi_release/index.htm"
+   ]
+  },
+  {
+   "query": "受託加工の金額を実質にする物価（企業物価指数の金属製品・企業向けサービス価格指数・GDPデフレーター 年次・4-37 名目と実質） 推移",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h12/pdf/chap_7.pdf",
+    "https://www.dlri.co.jp/report/macro/265856.html",
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/25/dl/25-1-1-1.pdf",
+    "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf",
+    "https://www.smbcnikko.co.jp/terms/eng/g/E0043.html",
+    "https://sogotcha.com/real-gdp-and-price-index/",
+    "https://www2.kumagaku.ac.jp/teacher/~sasayama/macroecon/lecture05.html",
+    "https://media.monex.co.jp/ud/glossary/6695f24ab576228a2c00003c",
+    "https://www.boj.or.jp/statistics/pi/cspi_release/index.htm"
+   ]
+  },
+  {
+   "query": "受託加工の金額を実質にする物価（企業物価指数の金属製品・企業向けサービス価格指数・GDPデフレーター 年次・4-37 名目と実質） 統計 PDF",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cspi_release/index.htm",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h12/pdf/chap_7.pdf",
+    "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf",
+    "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ230817.pdf",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "https://release.nikkei.co.jp/attach_file/0508805_02.pdf",
+    "https://www.fcoop.or.jp/files/uploads/2026_11021106.pdf",
+    "https://www.boj.or.jp/research/research_data/reri/exreri.htm",
+    "https://www.esri.cao.go.jp/jp/sna//data/reference1/h17/pdf/chap_7_2012.pdf"
+   ]
+  },
+  {
+   "query": "受託加工の金額を実質にする物価（企業物価指数の金属製品・企業向けサービス価格指数・GDPデフレーター 年次・4-37 名目と実質） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h12/pdf/chap_7.pdf",
+    "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/25/dl/25-1-1-1.pdf",
+    "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf",
+    "https://www.dlri.co.jp/report/ld/348053.html",
+    "https://sogotcha.com/real-gdp-and-price-index/",
+    "https://www.hit-u.ac.jp/hq-mag/research_issues/608_20251002/",
+    "https://www.boj.or.jp/statistics/pi/cspi_release/index.htm",
+    "https://www.stat.go.jp/data/kkj/kekka/yougo.html"
+   ]
+  },
+  {
+   "query": "受託加工の金額を実質にする物価（企業物価指数の金属製品・企業向けサービス価格指数・GDPデフレーター 年次・4-37 名目と実質） 従業者規模別",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h12/pdf/chap_7.pdf",
+    "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/25/dl/25-1-1-1.pdf",
+    "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf",
+    "https://www.dlri.co.jp/report/ld/348053.html",
+    "https://www.smbcnikko.co.jp/terms/eng/g/E0043.html",
+    "https://www2.kumagaku.ac.jp/teacher/~sasayama/macroecon/lecture05.html",
+    "https://media.monex.co.jp/ud/glossary/6695f24ab576228a2c00003c",
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/"
+   ]
+  },
+  {
+   "query": "受託加工の金額を実質にする物価（企業物価指数の金属製品・企業向けサービス価格指数・GDPデフレーター 年次・4-37 名目と実質） 1人当たり 万円",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h12/pdf/chap_7.pdf",
+    "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "https://www.dlri.co.jp/report/ld/348053.html",
+    "https://www.smbcnikko.co.jp/terms/eng/g/E0043.html",
+    "https://www.boj.or.jp/statistics/pi/cspi_release/index.htm",
+    "https://www.stat.go.jp/library/opac/Newly_arrived/hlist?tmtl=3&idx=13&ppg=50&rgtn=WZ2260053",
+    "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ230817.pdf",
+    "https://www.bank-daiwa.co.jp/support/dir_column/economics/",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.stat.go.jp/data/nihon/20.html"
+   ]
+  },
+  {
+   "query": "受託加工の金額を実質にする物価（企業物価指数の金属製品・企業向けサービス価格指数・GDPデフレーター 年次・4-37 名目と実質） 2015 2025",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h12/pdf/chap_7.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/25/dl/25-1-1-1.pdf",
+    "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf",
+    "https://www.dlri.co.jp/report/ld/348053.html",
+    "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "https://www.smbcnikko.co.jp/terms/eng/g/E0043.html",
+    "https://www2.kumagaku.ac.jp/teacher/~sasayama/macroecon/lecture05.html",
+    "https://sogotcha.com/real-gdp-and-price-index/",
+    "https://www.boj.or.jp/statistics/pi/cspi_release/index.htm"
+   ]
+  },
+  {
+   "query": "Japan corporate goods price index metal products annual deflator real terms Japan statistics",
+   "results": [
+    "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2606.pdf",
+    "https://ycharts.com/indicators/japan_domestic_corporate_goods_price_index_metal_products",
+    "https://fred.stlouisfed.org/tags/series?t=japan%3Bmanufacturing%3Bprice+index",
+    "https://tradingeconomics.com/japan/producer-prices",
+    "https://www.stat.go.jp/english/data/cpi/158c.html",
+    "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2608.pdf",
+    "https://www.globalmacrodata.com/japan/deflator/",
+    "https://data.worldbank.org/indicator",
+    "https://en.wikipedia.org/wiki/Economy_of_Japan",
+    "https://www.boj.or.jp/en/statistics/pi/cgpi_release/index.htm"
+   ]
+  },
+  {
+   "query": "site:note.com 受託加工の金額を実質にする物価（企業物価指数の金属製品・企業向けサービス価格指数・GDPデフレーター 年次・4-37 名目と実質）",
+   "results": [
+    "https://note.com/pointlog/n/n1ab2823a3320",
+    "https://note.com/guilty_bc/n/n471f572792a2",
+    "https://note.com/andyfp_2025/n/n9da75cf6ead8",
+    "https://note.com/ogawa_tech/n/nf1b46e1253a6",
+    "https://note.com/clear_pipit6460/n/n6ac9b926a4ca",
+    "https://note.com/furu_fire/n/nfe72cf8a631f",
+    "https://note.com/sya_tousi7777/n/nd01ea2b4e949"
+   ]
+  },
+  {
+   "query": "site:x.com 受託加工の金額を実質にする物価（企業物価指数の金属製品・企業向けサービス価格指数・GDPデフレーター 年次・4-37 名目と実質）",
+   "results": [
+    "https://x.com/indbgraphreport/status/2042507414927544543",
+    "https://x.com/indbgraphreport/status/1998566012455989705",
+    "https://x.com/nli_research/status/2075502302480515473",
+    "https://x.com/OgawaSeisakusho/status/2099968188855529690",
+    "https://x.com/hashtag/企業物価指数",
+    "https://x.com/indbgraphreport/status/2067174140298277153",
+    "https://x.com/indbgraphreport/status/2055083789517500776"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 受託加工の金額を実質にする物価（企業物価指数の金属製品・企業向けサービス価格指数・GDPデフレーター 年次・4-37 名目と実質）",
+   "results": [
+    "https://www.linkedin.com/company/siemens",
+    "https://www.linkedin.com/pulse/ベトナムの輸出加工企業epeの概要-rba-businessasia-wellc/",
+    "https://jp.linkedin.com/posts/creationline-inc_3人でいいと言われたら500万の人と100万の人と50万の人になる可能性は十分-activity-7503616959524020224-jCY_",
+    "https://www.linkedin.com/posts/masayoshi-ogawa1980_平均給与の実質化基準年と物価指数-activity-7124145330954141696-bhJl",
+    "https://jp.linkedin.com/posts/yoshiki-kumazawa-91988713_実質金利とは物価上昇インフレを考慮した本当の金利です-基本的には-activity-7502516123188228096-_z82",
+    "https://jp.linkedin.com/posts/月刊プロパティマネジメント_pm会社の実態と事業動向-216社のアンケート分析抜粋版-2025年11月号-activity-7395035587700965376-TCkP",
+    "https://jp.linkedin.com/pulse/exponential-people-what-how-recognise-them-luz-rodrigo-martorell?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 受託加工の金額を実質にする物価（企業物価指数の金属製品・企業向けサービス価格指数・GDPデフレーター 年次・4-37 名目と実質）",
+   "results": [
+    "https://www.facebook.com/BankofJapan/",
+    "https://www.facebook.com/nliresearch/posts/企業物価指数-2026年1月金属価格の上振れリスクも国内企業物価-の前年比上昇率は鈍化へ2026年1月の国内企業物価は前年比2325年12月同24となり上昇率は/1409887384266001/",
+    "https://www.facebook.com/nliresearch/posts/企業物価指数-2025年4月-国内企業物価-は5ヵ月連続で前年比4台日本銀行が5月14日に発表した企業物価指数によると2025年4月の国内企業物価は前年比403/1192682042653204/",
+    "https://www.facebook.com/nliresearch/posts/企業物価指数-2024年9月輸入物価は下落したが国内企業物価-は前月から伸び拡大日本銀行が10月10日に発表した企業物価指数によると2024年9月の国内企業物価/1036631414924935/",
+    "https://www.facebook.com/nihon.horei/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1585815203548328/",
+    "https://www.facebook.com/koji.shimoda.927/photos/平均年収国税庁を物価cpiで実質化してみた2000年実質-約449万-2024年実質-約417万約7物価を引いた実質で見ると2000年からほぼ右肩下がりひどい現/4199680820291479/",
+    "https://www.facebook.com/office.oshima/posts/実質賃金4年連続マイナス-25年13減-物価高に追い付かず-厚生労働省が９日発表した２０２５年平均の毎月勤労統計調査速報従業員５人以上の事業所によると物価変動を/1323170836518257/"
+   ]
+  },
+  {
+   "query": "受託加工の金額を実質にする物価（企業物価指数の金属製品・企業向けサービス価格指数・GDPデフレーター 年次・4-37 名目と実質） note 社長",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h12/pdf/chap_7.pdf",
+    "https://www.boj.or.jp/about/education/oshiete/statistics/h14.htm",
+    "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf",
+    "https://www.boj.or.jp/research/research_data/reri/exreri.htm",
+    "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ230817.pdf",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://www.bank-daiwa.co.jp/support/dir_column/economics/",
+    "https://www.stat.go.jp/library/opac/Index_search/detail?ppg=30&tmtl=3&idx=243&jcode=000000013&vsw=1&rgtn=WZ2220927&vidx=1&hidx=0",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93303",
+    "https://www.boj.or.jp/statistics/pi/cspi_release/index.htm"
+   ]
+  },
+  {
+   "query": "受託加工の金額を実質にする物価（企業物価指数の金属製品・企業向けサービス価格指数・GDPデフレーター 年次・4-37 名目と実質） X 投稿",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h12/pdf/chap_7.pdf",
+    "https://www.boj.or.jp/statistics/pi/cspi_release/index.htm",
+    "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf",
+    "https://www.dlri.co.jp/report/ld/348053.html",
+    "https://www2.kumagaku.ac.jp/teacher/~sasayama/macroecon/lecture05.html",
+    "https://www.smbcnikko.co.jp/terms/eng/g/E0043.html",
+    "https://sogotcha.com/real-gdp-and-price-index/",
+    "https://www.jcer.or.jp/j-column/column-komine/20210921.html",
+    "https://www.boj.or.jp/mopo/outlook/gor2510b.pdf",
+    "https://www.esri.cao.go.jp/jp/sna//data/reference1/h17/pdf/chap_7_2012.pdf"
+   ]
+  },
+  {
+   "query": "Japan corporate goods price index metal products annual deflator real terms site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/harsh-shah2318",
+    "https://www.linkedin.com/pulse/china-shock-20-bigger-than-10-richard-baldwin-nlbje",
+    "https://in.linkedin.com/in/anuj-madaan-32735910",
+    "https://in.linkedin.com/in/kalyanaditya13",
+    "https://in.linkedin.com/in/rishi-raghuwanshi-32644b214",
+    "https://in.linkedin.com/in/aditya2704",
+    "https://in.linkedin.com/in/agarwal-anuj",
+    "https://www.linkedin.com/pulse/economics-performance-switzerland-india-policy-response-sahoo",
+    "https://au.linkedin.com/in/joel-dempster-517a0141",
+    "https://www.linkedin.com/in/joshuatanderson0"
+   ]
+  }
+ ],
+ "missing": {}
+}

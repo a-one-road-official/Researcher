@@ -1,0 +1,463 @@
+{
+ "name": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
+ "en": "journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS",
+ "aliases": [
+  "数字 ファクトチェック 手引き 統計 記者",
+  "Full Fact how to check statistics guide",
+  "statistics for journalists checklist denominators base effect"
+ ],
+ "context": "",
+ "kind": "market",
+ "researched_at": "2026-11-05T13:07:35.513856+00:00",
+ "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "website URL, upload a file or enter text directly. So far the tool can read PDF, Word, Excel, HTML and TXT files. The tool can also process images in multiple formats and extract information via Optical Character Recognition.",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Conspiracy Beliefs and How to communicate uncertainty",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(articles and guides by First Draft, the Public Data Lab, the Digital Methods Initiative, and Open Intelligence Lab)",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The articles in this series present various examples of contemporary online misinformation. But it is each article’s accompanying “recipe” for digital investigation that makes this resource uniquely useful. Each method uses free software.",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This article by Poynter presents a list of pros and cons of using rating system when establishing the validity of a claim or fact. It also includes a link to a free self-directed course on how to improve your skills in fact-checking and accountability.",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triage your fact-checking: a method (and board game)",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "These briefings, by Full Facts researcher Dr Dora-Olivia Vicol, explore two topics relevant to any communicators – especially journalists. These concise briefings, which use case studies and introduce psychological concepts, conclude with several recommendations for fact-checkers and journalists.",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The articles in this series present various examples of contemporary online misinformation. But it is each article’s accompanying “recipe” for digital investigation that makes this resource uniquely useful. Each method uses free software.",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This article by Deepak Adhikari, editor of South Asia Check, explains the basics of fact-checking. It is part of The Kit, a collection of short guides by Exposing the Invisible. It includes definitions of terms, uses examples, and provides additional resources. Adhikari emphasises the importance of fact-checking stories which are in the public interest.",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/artemis35/n/n034b05481578",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kinoppxxxx/n/n4ebd6ab2bdb9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mahaseg/n/n75990fd3b329",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tofu_engineer/n/n74b290c1030a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vivid_lupine4435/n/nea84418cf8c3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fancy_shrew2220/n/n2eb04bc4fcd5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.altmetric.com/details/doi/10.1113/JP290572",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.worldoftest.com/ja/print/pdf/node/6768",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsukuba.ac.jp/about/disclosure-statistics/",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://uketuke.eiken.or.jp/mis/M2A001",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.zentsuken.net/journal/file/144_5.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://lit.fpark.tmu.ac.jp/lit/contents/office2019/statistics/01/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zentsuken.net/journal/file/173_1.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://norudakeset-ishikawa.net/wp-content/uploads/8.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toukei-kentei.jp/preparation/books/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://researcherslinks.com/base/livestatistics.php?jid=20%E7%B5%85%E5%B8%91%EF%BD%A8%E3%82%86%E8%90%A9%EF%BE%8Feditorial-workflow&acid=1&aid=12675",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2303.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://shohyoubookreview.com/archives/16502",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://books.google.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://thetijproject.ca/guide/introduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://researchguides.journalism.cuny.edu/factchecking-verification/fact-check-your-work",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fullfact.org/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://libguides.calstatela.edu/c.php?g=1339340&p=9871561",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ksjhandbook.org/fact-checking-science-journalism-how-to-make-sure-your-stories-are-true/the-fact-checking-process/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） site:note.com",
+   "results": [
+    "https://note.com/artemis35/n/n034b05481578",
+    "https://note.com/kinoppxxxx/n/n4ebd6ab2bdb9",
+    "https://note.com/mahaseg/n/n75990fd3b329",
+    "https://note.com/tofu_engineer/n/n74b290c1030a",
+    "https://note.com/vivid_lupine4435/n/nea84418cf8c3",
+    "https://note.com/fancy_shrew2220/n/n2eb04bc4fcd5",
+    "https://note.com/biostat_lab/n/na4d52855b4ad",
+    "https://note.com/biostat_lab/n/nb227b738011f",
+    "https://note.com/biostat_lab/n/n3bb4956a098e",
+    "https://note.com/blue_destiny27/n/n9b8e00d06f2b"
+   ]
+  },
+  {
+   "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） note",
+   "results": [
+    "https://www.altmetric.com/details/doi/10.1113/JP290572",
+    "https://www.worldoftest.com/ja/print/pdf/node/6768",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.tsukuba.ac.jp/public/statistics/nenji14/pdf/258.pdf",
+    "https://uketuke.eiken.or.jp/mis/M2A001",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
+    "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
+    "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689"
+   ]
+  },
+  {
+   "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） やり方",
+   "results": [
+    "https://lit.fpark.tmu.ac.jp/lit/contents/office2019/statistics/01/index.html",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.tsukuba.ac.jp/public/statistics/nenji14/pdf/258.pdf",
+    "https://www.zentsuken.net/journal/file/173_1.html",
+    "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689",
+    "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
+    "https://norudakeset-ishikawa.net/wp-content/uploads/8.pdf",
+    "https://www.toukei-kentei.jp/preparation/books/",
+    "https://www.mizumot.com/method/mizumoto-takeuchi.pdf"
+   ]
+  },
+  {
+   "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） 事例",
+   "results": [
+    "https://researcherslinks.com/base/livestatistics.php?jid=20%E7%B5%85%E5%B8%91%EF%BD%A8%E3%82%86%E8%90%A9%EF%BE%8Feditorial-workflow&acid=1&aid=12675",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.tsukuba.ac.jp/public/statistics/nenji14/pdf/258.pdf",
+    "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
+    "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689",
+    "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2303.pdf",
+    "https://shohyoubookreview.com/archives/16502"
+   ]
+  },
+  {
+   "query": "journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS",
+   "results": [
+    "https://thetijproject.ca/guide/introduction/",
+    "https://researchguides.journalism.cuny.edu/factchecking-verification/fact-check-your-work",
+    "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "https://fullfact.org/about/",
+    "https://libguides.calstatela.edu/c.php?g=1339340&p=9871561",
+    "https://ksjhandbook.org/fact-checking-science-journalism-how-to-make-sure-your-stories-are-true/the-fact-checking-process/",
+    "https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "https://ksjfactcheck.org/fact-checking-101-module/when-and-how-to-fact-check/",
+    "https://journaliststoolbox.ai/writing-with-numbers/"
+   ]
+  },
+  {
+   "query": "site:note.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
+   "results": [
+    "https://note.com/juicy_flea4475/n/n2035a68af2b4",
+    "https://note.com/kinoppxxxx/n/n4ebd6ab2bdb9",
+    "https://note.com/kind_rail6975/n/n2233faa496ec",
+    "https://note.com/vivid_lupine4435/n/nea84418cf8c3",
+    "https://note.com/cat_eye/n/nd707824ea87f",
+    "https://note.com/aimediaoperator/n/n54ea9e09e10c",
+    "https://note.com/mahaseg/n/n75990fd3b329"
+   ]
+  },
+  {
+   "query": "site:x.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
+   "results": [
+    "https://x.com/st_data_science",
+    "https://x.com/biostat0718",
+    "https://x.com/zg1300z/status/2105924511195598926",
+    "https://x.com/randa_dev/status/2116434110675931368",
+    "https://x.com/kanautechjp/status/2113472984295862644",
+    "https://x.com/bg_takken/status/2100179516509638748",
+    "https://x.com/lawkus/status/2026830703527342124"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
+   "results": [
+    "https://jp.linkedin.com/pulse/how-fake-numbers-were-spotted-using-basic-statistical-jeric-lam?tl=ja",
+    "https://jp.linkedin.com/pulse/essential-statistics-concepts-every-data-professional-samuel-oyedele-c9sef?tl=ja",
+    "https://jp.linkedin.com/pulse/from-numbers-narratives-biostatisticians-guide-yogita-kolekar-thoke-bwiif?tl=ja",
+    "https://jp.linkedin.com/pulse/valuation-meets-statistics-secret-sauce-behind-numbers-sayantan-das-vru9f?tl=ja",
+    "https://jp.linkedin.com/posts/katsushi-tamagawa_国はなぜ数えるのか-戸籍度量衡統計で読む数字の出所-activity-7505103851054886912-NW7k",
+    "https://jp.linkedin.com/pulse/statistical-revolution-how-numbers-changed-everything-jeff-kortis-vn9he?tl=ja",
+    "https://jp.linkedin.com/pulse/cenote-32-making-numbers-count-how-avoid-boring-yoga-samsugiharja?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
+   "results": [
+    "https://www.facebook.com/hashtag/媒體識讀/",
+    "https://www.facebook.com/NumberWeb/posts/この時の読売新聞の記者は記事を書いてから俺の前から消えた顔を見たらぶん殴ってやろうかと今でも思っているがあれ以来一度も姿を現わさない/1502078081934405/",
+    "https://www.facebook.com/裏首相官邸-402169233201221/photos/1946323588785770/",
+    "https://www.facebook.com/personalbrains/photos/本日6月27日はメディアリテラシーの日ですtoppointではこれまでにニュースの数字をどう読むか-統計にだまされないための22章やナンバーセンス-ビッグデータ/756043043436748/",
+    "https://www.facebook.com/jointkaigo/posts/ケアプラン点検は本来教育であるべき指導という言葉の重圧ではなく質を高めるための助言提言へ全国標準を目指す新たな手引きがケアマネジャーの業務をどう変えるのか日本介/1371018954828406/",
+    "https://www.facebook.com/atsushi.takabe.3/videos/厚労省から最新の介護保険事務調査vol1545が発表されました現場の実務に関わる数字をぎゅっと整理しています自治体ごとのローカルルールの差や認定給付のリアル普段/2076592399636617/",
+    "https://www.facebook.com/kanumasamune/videos/一般的なコンサル会社に頼むと面談で崩れる理由どうも政宗ﾏｻﾑﾈですご視聴ありがとうございます前回事業計画書は数字で語るという話をしました4つ目のポイントは面談は/1053187134228419/"
+   ]
+  },
+  {
+   "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） note 社長",
+   "results": [
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.tsukuba.ac.jp/public/statistics/nenji14/pdf/258.pdf",
+    "https://uketuke.eiken.or.jp/mis/M2A001",
+    "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
+    "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689",
+    "https://www.toukei-kentei.jp/preparation/books/",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2303.pdf"
+   ]
+  },
+  {
+   "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） X 投稿",
+   "results": [
+    "https://researcherslinks.com/base/livestatistics.php?jid=20%E7%B5%85%E5%B8%91%EF%BD%A8%E3%82%86%E8%90%A9%EF%BE%8Feditorial-workflow&acid=1&aid=12675",
+    "https://www.worldoftest.com/ja/print/pdf/node/6768",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.tsukuba.ac.jp/public/statistics/nenji14/pdf/258.pdf",
+    "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689",
+    "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
+    "https://www.imperialpublications.com/image/catalog/testing.pdf"
+   ]
+  },
+  {
+   "query": "journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/sbailly2",
+    "https://in.linkedin.com/in/navya-asopa-ab44091b4",
+    "https://in.linkedin.com/in/nalin-mehta-06068424",
+    "https://uk.linkedin.com/in/peteraven",
+    "https://www.linkedin.com/in/andymedici",
+    "https://uk.linkedin.com/in/alan-smith-obe-37385935",
+    "https://www.linkedin.com/in/jeffrey-ptak-cfa-5977978",
+    "https://in.linkedin.com/in/makepeace-sitlhou",
+    "https://in.linkedin.com/in/shwkothari",
+    "https://www.linkedin.com/in/hilary-till"
+   ]
+  }
+ ],
+ "missing": {
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {
+  "一次情報の探し方": [
+   {
+    "quote": "website URL, upload a file or enter text directly. So far the tool can read PDF, Word, Excel, HTML and TXT files. The tool can also process images in multiple formats and extract information via Optical Character Recognition.",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Conspiracy Beliefs and How to communicate uncertainty",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(articles and guides by First Draft, the Public Data Lab, the Digital Methods Initiative, and Open Intelligence Lab)",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The articles in this series present various examples of contemporary online misinformation. But it is each article’s accompanying “recipe” for digital investigation that makes this resource uniquely useful. Each method uses free software.",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This article by Poynter presents a list of pros and cons of using rating system when establishing the validity of a claim or fact. It also includes a link to a free self-directed course on how to improve your skills in fact-checking and accountability.",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triage your fact-checking: a method (and board game)",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "These briefings, by Full Facts researcher Dr Dora-Olivia Vicol, explore two topics relevant to any communicators – especially journalists. These concise briefings, which use case studies and introduce psychological concepts, conclude with several recommendations for fact-checkers and journalists.",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The articles in this series present various examples of contemporary online misinformation. But it is each article’s accompanying “recipe” for digital investigation that makes this resource uniquely useful. Each method uses free software.",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This article by Deepak Adhikari, editor of South Asia Check, explains the basics of fact-checking. It is part of The Kit, a collection of short guides by Exposing the Invisible. It includes definitions of terms, uses examples, and provides additional resources. Adhikari emphasises the importance of fact-checking stories which are in the public interest.",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-05T13:07:35.513856+00:00"
+}

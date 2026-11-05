@@ -57,3 +57,6 @@ e-Stat の製造業 統計表ファイル（産業細分類×従業者規模・�
 e-Stat 工業統計調査の統計表ファイル（Excel・産業細分類×従業者規模・加工賃収入額・統計コードから直接・4-30・4-35）,e-Stat census of manufactures excel files by detailed industry and employee size,全体・規模別,32,33,28,28,4,31,0,37,人手と仕事の差,
 e-Stat 法人企業統計調査 製造業 資本金階級別 従業員数・売上高（Excel・統計コードから直接・規模別の2本目・4-31・4-35）,e-Stat financial statements statistics of corporations manufacturing by capital size excel,全体・規模別,0,3,2,2,1,36,0,29,事業所数・社数／人手と仕事の差,
 金型・めっきの1人あたり（同じ業種で業態をそろえる：受託の金型製造業・電気めっき業の加工賃収入額÷従業者数、工業統計の細分類・4-35）,die mold electroplating processing fee per employee census of manufactures detailed industry,業種・規模別,13,27,13,4,8,30,2,24,,
+金型製造業の従業者数・事業所数を工業統計の細分類で取り直す（1991年11万8213人ピークの元へ戻る・万＋人の読み違いの確認・4-24・4-37）,die and mold manufacturing employees establishments census of manufactures 1991-2020,業種・規模別,34,60,48,8,9,60,8,29,,
+賃金構造基本統計調査 遡及集計（参考系列 平成18年〜令和元年）製造業 企業規模別 所定内給与額（給与の下限を同じ推計方法の系列で・4-17・4-37）,wage structure basic survey retroactive series manufacturing firm size scheduled earnings,給与・規模別,0,60,0,0,0,60,0,33,事業所数・社数／受注金額・加工賃収入／1人あたり・1社あたり金額／生産能力・設備／人手と仕事の差,
+受託加工の金額を実質にする物価（企業物価指数の金属製品・企業向けサービス価格指数・GDPデフレーター 年次・4-37 名目と実質）,Japan corporate goods price index metal products annual deflator real terms,物価・統計,1,1,4,2,7,36,20,35,,
