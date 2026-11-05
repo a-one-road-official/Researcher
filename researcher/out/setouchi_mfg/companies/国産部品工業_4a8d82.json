@@ -1,0 +1,602 @@
+{
+ "name": "国産部品工業",
+ "aliases": [],
+ "context": "広島県広島市／出典:マイナビ／求人媒体:マイナビ転職／想定年収:330〜533万円／従業員:不明",
+ "researched_at": "2026-11-05T07:36:48.377917+00:00",
+ "official_url": "https://www.teral.net/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "広島県福山市御幸町森脇230番地 [MAP]",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：大正7年8月",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：昭和25年4月14日",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 菅田 博文",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "7,800万円",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ポンプ 送風機 給水装置 ろ過装置 生ゴミ処理システム 全熱交換器 防災機器 環境関連機器 その他関連機器の製造・販売 環境関連設備工事",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "992名 ／ グループ全体2,100名",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "422億円 (2025年度)",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "連結売上高",
+    "value": "595億円 (2025年度)",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/",
+    "pass": 1
+   },
+   {
+    "quote": "大規模商業施設、地下駐車場、地下鉄駅構内や工場の換気用の大型ファンから厨房用の小型ファン、また産業機器に組込むセットファンまで、さまざまなタイプを用意しています",
+    "url": "https://www.teral.net/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/product/",
+    "pass": 1
+   },
+   {
+    "quote": "大規模商業施設、地下駐車場、地下鉄駅構内や工場の換気用の大型ファンから厨房用の小型ファン、また産業機器に組込むセットファンまで、さまざまなタイプを用意しています",
+    "url": "https://www.teral.net/product/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点 ＆ 国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/products/search/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/product/maintenance_p1/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ventilation/",
+    "pass": 1
+   },
+   {
+    "quote": "化粧品原料製造工場の排水処理施設棟内の排ガス処理装置による臭気対策",
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ventilation/",
+    "pass": 1
+   },
+   {
+    "quote": "機械加工工場の全体換気による溶接ヒューム対策",
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ventilation/",
+    "pass": 1
+   },
+   {
+    "quote": "40℃以上の作業場の熱気を排出させながら、工場内に風の流れをつくり、体感温度を下げ涼感を得られた",
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ventilation/",
+    "pass": 1
+   },
+   {
+    "quote": "大型溶接工場の全体換気による溶接ヒューム対策",
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ventilation/",
+    "pass": 1
+   },
+   {
+    "quote": "大型溶接作業場で溶接ヒューム発生個所が広範囲の為、溶接ヒュームが工場内に広がってしまう問題を誘引ファンの気流を使った換気で解決した",
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ventilation/",
+    "pass": 1
+   },
+   {
+    "quote": "金属加工工場の暑熱対策として誘引ファンを設置",
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ventilation/",
+    "pass": 1
+   },
+   {
+    "quote": "多量の熱気や蒸気が発生し、熱が滞留するクリーニング工場",
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ventilation/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ac/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "422億円 (2025年度)",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "595億円 (2025年度)",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点 ＆ 国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "工場を福山市沖野上町（現光南町）に移転拡張",
+    "url": "https://www.teral.net/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中小企業庁より合理化モデル工場として指定を受ける",
+    "url": "https://www.teral.net/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "業界随一の規模と最新設備を誇る近代工場を完成",
+    "url": "https://www.teral.net/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "TERAL THAI CO,LTD、アユタヤ新工場完成",
+    "url": "https://www.teral.net/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "泰拉尓通用機械（上海）有限公司の新工場完成",
+    "url": "https://www.teral.net/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点 ＆ 国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/news_product/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/news_recruit/",
+    "pass": 1
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "7,800万円",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "国産部品工業の年収・給与 平均年収 - エン カイシャの評判",
+    "url": "https://en-hyouban.com/company/10009525349/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "国産部品工業株式会社の年収・給与の口コミページです",
+    "url": "https://en-hyouban.com/company/10009525349/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "国産部品工業株式会社で働く社員や元社員が投稿した、年収・給与に関する口コミを2件掲載中",
+    "url": "https://en-hyouban.com/company/10009525349/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "国産部品工業株式会社の年収・給与についての口コミ",
+    "url": "https://en-hyouban.com/company/10009525349/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？",
+    "url": "https://en-hyouban.com/company/10009525349/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与水準：若いうちは給与水準が低く、あ...",
+    "url": "https://en-hyouban.com/company/10009525349/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与水準：若いうちは給与水準が低く、あまり貰えないが、出世すれば会社規模にしてはそこそこ貰えると思う",
+    "url": "https://en-hyouban.com/company/10009525349/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "在席時は業績が悪かったため賞与は少なかった",
+    "url": "https://en-hyouban.com/company/10009525349/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "管理職になれなければ給料はあまり上がらないので、ほとんどの社員は給与水準は低いと思う",
+    "url": "https://en-hyouban.com/company/10009525349/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":給与変動の基準は、学歴でも、能力でも、実績でもない",
+    "url": "https://en-hyouban.com/company/10009525349/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":毎年４月には必ず昇給している",
+    "url": "https://en-hyouban.com/company/10009525349/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":昇給、賞与あり",
+    "url": "https://en-hyouban.com/company/10009525349/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":【基本給の金額と、全収入における割合】基本給は21万で、年収...",
+    "url": "https://en-hyouban.com/company/10009525349/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":昇給年1回（年齢によっては昇給無しかもしれない）賞与年2回（...",
+    "url": "https://en-hyouban.com/company/10009525349/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":昇給は年１回評価制度:評価制度はありません...",
+    "url": "https://en-hyouban.com/company/10009525349/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":危険な現場もありますので、給与は現場であればそれなりの手当て...",
+    "url": "https://en-hyouban.com/company/10009525349/salary/",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "採用情報 - 新着情報 - テラル株式会社",
+    "url": "https://www.teral.net/news_recruit/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "国産部品工業株式会社 の給与 | Indeed (インディード) — 国産部品工業株式会社の平均月給の範囲は約 20.2万円／月（金属加工）から約 29.5万円／月（機械オペレーター）です。 国産部品工業株式会社の平均年収は、約317万円 (広報) 〜454万円 (メーカー 営業) です。",
+    "url": "https://jp.indeed.com/cmp/国産部品工業株式会社/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "国産部品工業株式会社 の給与 | Indeed (インディード) — 日本での国産部品工業株式会社の平均給与 Indeed に掲載された求人と、この企業の従業員から寄せられた国産部品工業株式会社の給与情報を参照する。 給与情報は、Indeed にこれまでに掲載された4件の求人に基いた推定値です。",
+    "url": "https://jp.indeed.com/cmp/国産部品工業株式会社-5/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "国産部品工業の年収・給与 平均年収 - エン カイシャの評判国産部品工業株式会社の平均年収、年間給与所得情報 − 転職ならdoda（...採用情報｜国産部品工業｜シリンダーヘッドガスケット・ヒートインシ...国産部品工業株式会社の年収・給与・職種別平均年収 - KNOOCK キャリ...国産部品工業株式会社 製造｜製造（未経験可）【京都府綾部市】 中途... — 国産部品工業株式会社の年収・給与の口コミページです。 国産部品工業株式会社で働く社員や元社員が投稿した、年収・給与に関する口コミを2件掲載中。 国産部品工業株式会社の平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで472,153社の企業情報が無料で検索・閲覧できます。 国産部品工業の採用情報ページです。募集要項など掲載しています。CA",
+    "url": "https://en-hyouban.com/company/10009525349/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "国産部品工業株式会社の平均年収、年間給与所得情報 − 転職ならdoda（... — 国産部品工業株式会社の平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで472,153社の企業情報が無料で検索・閲覧できます。",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10009525349/",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報｜国産部品工業｜シリンダーヘッドガスケット・ヒートインシ... — 国産部品工業の採用情報ページです。募集要項など掲載しています。CADによる自動車部品の設計や金型のメンテナンスなどの職種に興味のある方はぜひご応募ください。",
+    "url": "https://www.kbk-k.co.jp/recruit/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "清水 保男 - 国産部品工業株式会社の従業員 | LinkedIn 国産部品工業株式会社の従業員 · 職歴: 国産部品工業株式会社 · 場所: 広域大阪エリア。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで清水 保男さんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/保男-清水-1b0563435",
+    "pass": 3
+   },
+   {
+    "quote": "7 国産部品工業（株） jobs - LinkedIn Today’s top 7 国産部品工業（株） jobs. Leverage your professional network, and get hired. New 国産部品工業（株） jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/国産部品工業（株）-jobs-worldwide?f_C=33346961",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "国産部品工業 - Facebook 国産部品工業",
+    "url": "https://www.facebook.com/国産部品工業-338018537059865/",
+    "pass": 3
+   },
+   {
+    "quote": "国産部品工業株式会社 - Facebook 国産部品工業株式会社",
+    "url": "https://www.facebook.com/国産部品工業株式会社-117983254976500/",
+    "pass": 3
+   },
+   {
+    "quote": "京都新聞社 - 京都府綾部市城山町の自動車部品メーカー「国産部品工業... Jul 25, 2025 · 京都府綾部市城山町の自動車部品メーカー「国産部品工業」と同市が、綾部市工業団地（桜が丘3丁目）の用地購入契約を結んだ。分譲契約は2006年…",
+    "url": "https://www.facebook.com/story.php/?story_fbid=1343992614395879&id=100063554590911",
+    "pass": 3
+   },
+   {
+    "quote": "北近畿経済新聞 - 生産能力3割アップへ 綾部の国産部品工業 増築や設... Oct 25, 2021 · 北近畿経済新聞 - 生産能力3割アップへ 綾部の国産部品工業 増築や設備導入を計画 自動車部品を製造する綾部市城山町の国産部品工業㈱（伊藤俊浩社長）は、主要取引先の増産に対応するため生産態勢を強化する。",
+    "url": "https://www.facebook.com/kitakinkikeizaishimbun/photos/生産能力3割アップへ綾部の国産部品工業-増築や設備導入を計画自動車部品を製造する綾部市城山町の国産部品工業伊藤俊浩社長は主要取引先の増産に対応するため生産態勢を/283344880465523/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.teral.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teral.net/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teral.net/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teral.net/products/search/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teral.net/product/maintenance_p1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ventilation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ac/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teral.net/corporate/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teral.net/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teral.net/news_product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teral.net/news_recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.teral.net/wp-content/themes/teral/img/common/gnavi05_04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.teral.net/wp-content/themes/teral/corporate/img/corporate_SP04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/cmp/%E5%9B%BD%E7%94%A3%E9%83%A8%E5%93%81%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E5%9B%BD%E7%94%A3%E9%83%A8%E5%93%81%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-5/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en-hyouban.com/company/10009525349/salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/保男-清水-1b0563435",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/国産部品工業（株）-jobs-worldwide?f_C=33346961",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/国産部品工業-338018537059865/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/国産部品工業株式会社-117983254976500/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/story.php/?story_fbid=1343992614395879&id=100063554590911",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kitakinkikeizaishimbun/photos/生産能力3割アップへ綾部の国産部品工業-増築や設備導入を計画自動車部品を製造する綾部市城山町の国産部品工業伊藤俊浩社長は主要取引先の増産に対応するため生産態勢を/283344880465523/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "国産部品工業 求人 年収",
+   "results": [
+    "https://jp.indeed.com/cmp/国産部品工業株式会社/salaries",
+    "https://jp.indeed.com/cmp/国産部品工業株式会社-5/salaries",
+    "https://en-hyouban.com/company/10009525349/salary/",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10009525349/",
+    "https://www.kbk-k.co.jp/recruit/",
+    "https://knoock.jp/seishain/company/18111/income",
+    "https://mynavi-agent.jp/jobsearch/10495566/"
+   ]
+  },
+  {
+   "query": "国産部品工業 採用 新卒 高卒",
+   "results": []
+  },
+  {
+   "query": "site:note.com 国産部品工業",
+   "results": [
+    "https://note.com/hiro124vrc/n/n092bef608350",
+    "https://note.com/entranceaccg/n/n94e32c663384",
+    "https://tales.note.com/nice_sorrel6709/w0brykuhfro2q",
+    "https://tales.note.com/beauty_skin/wfwras626fp48",
+    "https://note.com/vnhr/n/naa752b1ff48e",
+    "https://note.com/apt_panda4300/n/n1cb3e2cafdf6",
+    "https://note.com/hiro124vrc/n/na54c4fae8df1"
+   ]
+  },
+  {
+   "query": "site:x.com 国産部品工業",
+   "results": [
+    "https://x.com/gunkyo5",
+    "https://x.com/Tazfumi/status/2075518678725198203",
+    "https://x.com/igst_0601",
+    "https://x.com/sakino_haka/status/2106551273504100407",
+    "https://x.com/nakayama_1969",
+    "https://x.com/topiasaiyo",
+    "https://x.com/kunimori_1957"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 国産部品工業",
+   "results": [
+    "https://jp.linkedin.com/in/保男-清水-1b0563435",
+    "https://www.linkedin.com/jobs/国産部品工業（株）-jobs-worldwide?f_C=33346961",
+    "https://www.linkedin.com/in/ptorkan",
+    "https://uk.linkedin.com/in/clarabale",
+    "https://de.linkedin.com/in/nina-georgieva-nikolova-ll-m-freiburg-i-br-1625666b",
+    "https://jp.linkedin.com/pulse/アルミニウム合金シャーシ部品の国内調達先と供給企業-polyconic-insight-a7nfe",
+    "https://tw.linkedin.com/in/i-chin-chen-9617b0149"
+   ]
+  },
+  {
+   "query": "site:facebook.com 国産部品工業",
+   "results": [
+    "https://www.facebook.com/国産部品工業-338018537059865/",
+    "https://www.facebook.com/国産部品工業株式会社-117983254976500/",
+    "https://www.facebook.com/story.php/?story_fbid=1343992614395879&id=100063554590911",
+    "https://www.facebook.com/kitakinkikeizaishimbun/photos/生産能力3割アップへ綾部の国産部品工業-増築や設備導入を計画自動車部品を製造する綾部市城山町の国産部品工業伊藤俊浩社長は主要取引先の増産に対応するため生産態勢を/283344880465523/",
+    "https://www.facebook.com/kitakinkikeizaishimbun/posts/生産能力3割アップへ綾部の国産部品工業-増築や設備導入を計画自動車部品を製造する綾部市城山町の国産部品工業伊藤俊浩社長は主要取引先の増産に対応するため生産態勢を/283344900465521/",
+    "https://www.facebook.com/kiyohiko.umehara/",
+    "https://www.facebook.com/wakamon.link/posts/-たんたんで働く特集vol12-先輩から僕たちへそして後輩へつなぐ技術若者が働きやすい職場として国のユースエール認定を受けている国産部品工業さん生まれ育ったまち/1089673847899033/"
+   ]
+  },
+  {
+   "query": "国産部品工業 note 社長",
+   "results": [
+    "https://www.kbk-k.co.jp/company/",
+    "https://compalyze.co.jp/company/5120901023727",
+    "https://www.kbk-k.co.jp/company/profile.html",
+    "https://works.aqsh.co.jp/companies/5120901023727",
+    "https://job-ayabeshi.com/company_introduction/国産部品工業株式会社/",
+    "https://review-dark.com/theme_detail?theme_id=271200",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/00087-00.pdf"
+   ]
+  },
+  {
+   "query": "国産部品工業 X 投稿",
+   "results": [
+    "https://www.kbk-k.co.jp/",
+    "https://www.kbk-k.co.jp/news/",
+    "https://review-dark.com/theme_detail?theme_id=271200",
+    "https://en-hyouban.com/company/10009525349/",
+    "https://www.instagram.com/p/DNZ8_adTEAD/",
+    "https://x.com/i/trending/2075529696155165025",
+    "https://x.com/ameotoko0033_/status/2106561120723251376"
+   ]
+  }
+ ],
+ "missing": {
+  "主要取引先": "記載なし（3回確認済み：公式11頁／PDF・画像2件／外部9頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式11頁／PDF・画像2件／外部9頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式11頁／PDF・画像2件／外部9頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式11頁／PDF・画像2件／外部9頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式11頁／PDF・画像2件／外部9頁・検索8回）"
+ }
+}

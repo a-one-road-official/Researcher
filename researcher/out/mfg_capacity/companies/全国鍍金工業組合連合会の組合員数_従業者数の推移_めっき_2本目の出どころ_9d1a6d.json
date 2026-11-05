@@ -1,0 +1,448 @@
+{
+ "name": "全国鍍金工業組合連合会の組合員数・従業者数の推移（めっき・2本目の出どころ）",
+ "en": "Japan electroplating association member count employees trend",
+ "aliases": [
+  "全国鍍金工業組合連合会 組合員数 推移",
+  "全鍍連 事業所数 従業員数 統計",
+  "めっき業 事業所数 推移 経済センサス 2462"
+ ],
+ "context": "裏付け・めっき",
+ "kind": "market",
+ "researched_at": "2026-11-05T07:21:35.602934+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "年次 事業所数 従業員数 １人平均 1社あたり",
+    "url": "https://wakayamapp.jp/blog/category2/entry-736.html",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "法人専用 平日8:00～17:00",
+    "url": "https://wakayamapp.jp/blog/category2/entry-736.html",
+    "pass": 3
+   },
+   {
+    "quote": "年次 事業所数 従業員数 １人平均 1社あたり",
+    "url": "https://wakayamapp.jp/blog/category2/entry-736.html",
+    "pass": 3
+   },
+   {
+    "quote": "１人あたりの出荷額はデフレと言われているにも関わらず増えています",
+    "url": "https://wakayamapp.jp/blog/category2/entry-736.html",
+    "pass": 3
+   },
+   {
+    "quote": "１社当たりの社員数も増えています",
+    "url": "https://wakayamapp.jp/blog/category2/entry-736.html",
+    "pass": 3
+   },
+   {
+    "quote": "[法人専用ダイヤル]平日 8 : 00～17 : 00",
+    "url": "https://wakayamapp.jp/blog/category2/entry-736.html",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "１人あたりの出荷額はデフレと言われているにも関わらず増えています",
+    "url": "https://wakayamapp.jp/blog/category2/entry-736.html",
+    "pass": 3
+   },
+   {
+    "quote": "H20年の1590万円／年は 1か月なら 132万円／月 になります",
+    "url": "https://wakayamapp.jp/blog/category2/entry-736.html",
+    "pass": 3
+   },
+   {
+    "quote": "１日では６万円、１時間 ７５００円、 １分 １２５円、 １秒 ２円です",
+    "url": "https://wakayamapp.jp/blog/category2/entry-736.html",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "H20年の1590万円／年は 1か月なら 132万円／月 になります",
+    "url": "https://wakayamapp.jp/blog/category2/entry-736.html",
+    "pass": 3
+   },
+   {
+    "quote": "１日では６万円、１時間 ７５００円、 １分 １２５円、 １秒 ２円です",
+    "url": "https://wakayamapp.jp/blog/category2/entry-736.html",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "表は毎年のデーターが書いてありますが10年ごとに抜粋します",
+    "url": "https://wakayamapp.jp/blog/category2/entry-736.html",
+    "pass": 3
+   },
+   {
+    "quote": "(品質)ISO9001：2015認証取得",
+    "url": "https://wakayamapp.jp/blog/category2/entry-736.html",
+    "pass": 3
+   },
+   {
+    "quote": "(環境)ISO14001：2015認証取得",
+    "url": "https://wakayamapp.jp/blog/category2/entry-736.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://baseconnect.in/companies/2e93def0-a7dc-4808-82a5-517a265324e7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wakayamapp.jp/blog/category2/entry-763.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zentoren.or.jp/zentoren/kumiai-7kanagawa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/373235",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://zentoren.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.f-mekki.co.jp/media/OUTSIDE/a59",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tmk.or.jp:443//7_detabeshu/deta000.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://search.showakan.go.jp/search/book/detail.php?material_cord=000024550",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wakayamapp.jp/blog/category2/entry-736.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zentoren.or.jp/mekki/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neji-bane.jp/news/20201116_02_04",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/industries/2351303?page=6",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nihonmekki.co.jp/info03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/japan-display/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zentoren.or.jp/en/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon.com/en/articles/-/18399",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aots.jp/en/publications/hrm-ir/report118-121/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/government-of-japan/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jema-net.or.jp/English/stats/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "全国鍍金工業組合連合会の組合員数・従業者数の推移（めっき・2本目の出どころ）",
+   "results": [
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "https://baseconnect.in/companies/2e93def0-a7dc-4808-82a5-517a265324e7",
+    "https://wakayamapp.jp/blog/category2/entry-763.html",
+    "https://zentoren.or.jp/zentoren/kumiai-7kanagawa.html",
+    "https://www.nikkan.co.jp/articles/view/373235",
+    "https://search.showakan.go.jp/search/book/detail.php?material_cord=000024550",
+    "https://www.f-mekki.co.jp/media/OUTSIDE/a59",
+    "https://zentoren.or.jp/top/info/info20240130.html",
+    "https://www.wakayamapp.jp/blog/category2/entry-736.html"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会の組合員数・従業者数の推移（めっき・2本目の出どころ） 推移",
+   "results": [
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "https://zentoren.or.jp/",
+    "https://wakayamapp.jp/blog/category2/entry-763.html",
+    "https://www.f-mekki.co.jp/media/OUTSIDE/a59",
+    "https://baseconnect.in/companies/2e93def0-a7dc-4808-82a5-517a265324e7",
+    "http://www.tmk.or.jp/7_detabeshu/deta000.html",
+    "https://search.showakan.go.jp/search/book/detail.php?material_cord=000024550",
+    "https://www.wakayamapp.jp/blog/category2/entry-736.html",
+    "https://zentoren.or.jp/mekki/data.html"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会の組合員数・従業者数の推移（めっき・2本目の出どころ） 統計 PDF",
+   "results": [
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "http://www.tmk.or.jp/7_detabeshu/deta000.html",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.f-mekki.co.jp/media/OUTSIDE/a59",
+    "https://wakayamapp.jp/blog/category2/entry-763.html",
+    "https://search.showakan.go.jp/search/book/detail.php?material_cord=000024550",
+    "https://www.neji-bane.jp/news/20201116_02_04/"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会の組合員数・従業者数の推移（めっき・2本目の出どころ） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会の組合員数・従業者数の推移（めっき・2本目の出どころ） 従業者規模別",
+   "results": [
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://wakayamapp.jp/blog/category2/entry-763.html",
+    "http://www.tmk.or.jp/7_detabeshu/deta000.html",
+    "https://www.f-mekki.co.jp/media/OUTSIDE/a59",
+    "https://search.showakan.go.jp/search/book/detail.php?material_cord=000024550",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.buffett-code.com/industries/2351303?page=6"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会の組合員数・従業者数の推移（めっき・2本目の出どころ） 1人当たり 万円",
+   "results": [
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "https://www.f-mekki.co.jp/media/OUTSIDE/a59",
+    "https://wakayamapp.jp/blog/category2/entry-763.html",
+    "https://zentoren.or.jp/",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643",
+    "http://www.nihonmekki.co.jp/info03.html",
+    "https://www.neji-bane.jp/news/20201116_02_04/"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会の組合員数・従業者数の推移（めっき・2本目の出どころ） 2015 2025",
+   "results": [
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "https://wakayamapp.jp/blog/category2/entry-763.html",
+    "https://zentoren.or.jp/",
+    "https://www.f-mekki.co.jp/media/OUTSIDE/a59",
+    "https://baseconnect.in/companies/2e93def0-a7dc-4808-82a5-517a265324e7",
+    "http://www.tmk.or.jp/7_detabeshu/deta000.html",
+    "https://www.nikkan.co.jp/articles/view/373235",
+    "https://search.showakan.go.jp/search/book/detail.php?material_cord=000024550"
+   ]
+  },
+  {
+   "query": "Japan electroplating association member count employees trend Japan statistics",
+   "results": [
+    "https://www.reveliolabs.com/companies/japan-display/employees",
+    "https://zentoren.or.jp/en/index.html",
+    "https://www.nippon.com/en/articles/-/18399",
+    "https://www.aots.jp/en/publications/hrm-ir/report118-121/",
+    "https://www.reveliolabs.com/companies/government-of-japan/employees",
+    "https://www.jema-net.or.jp/English/stats/index.html",
+    "https://www.statista.com/statistics/761829/japan-worker-numbers-fishing-industry/?srsltid=AYCX9vJDzU_U2yhgx_Pqok3yNO9jygUDvgh7wVlLXxhoGUEg6huzBkuk",
+    "https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-japan_b825563e-en/full-report/ai-use-in-the-japanese-workplace_faf178d2.html",
+    "https://asiapacificcda.org/japan-information/",
+    "https://www.kenresearch.com/japan-electroplating-market"
+   ]
+  },
+  {
+   "query": "site:note.com 全国鍍金工業組合連合会の組合員数・従業者数の推移（めっき・2本目の出どころ）",
+   "results": [
+    "https://note.com/kens_reading1/n/n3a82d8634512",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/mbrmghm/n/n4dcb28e792ba",
+    "https://note.com/novel_wolf6399/n/n3351cc4bfcbb",
+    "https://note.com/ogawa_tech/n/nb0d05b22a981",
+    "https://note.com/asagaya106/n/n7857b8a4fdf1",
+    "https://note.com/sghr_tkn/n/n3fdd6b4b0a55"
+   ]
+  },
+  {
+   "query": "site:x.com 全国鍍金工業組合連合会の組合員数・従業者数の推移（めっき・2本目の出どころ）",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com 全国鍍金工業組合連合会の組合員数・従業者数の推移（めっき・2本目の出どころ）",
+   "results": [
+    "https://www.linkedin.com/in/asrikun",
+    "https://www.linkedin.com/company/network-international",
+    "https://jp.linkedin.com/in/正悟-入内島-0a85b81b1",
+    "https://jp.linkedin.com/pulse/速報2025年4-6月でlinkedinメンバー数が最も増えた国と日本の今後を考える-誠-石坂-xvrnc",
+    "https://jp.linkedin.com/in/宏行-福屋-a866b9116",
+    "https://jp.linkedin.com/company/全国農業協同組合連合会",
+    "https://jp.linkedin.com/in/mayuko-horiuchi-ba99661b0"
+   ]
+  },
+  {
+   "query": "site:facebook.com 全国鍍金工業組合連合会の組合員数・従業者数の推移（めっき・2本目の出どころ）",
+   "results": [
+    "https://www.facebook.com/p/京都府鍍金工業組合-100069197748207/",
+    "https://www.facebook.com/tmk.chuo/",
+    "https://www.facebook.com/photo/?fbid=1530832482385140",
+    "https://www.facebook.com/yahatamekki/photos/全国鍍金工業組合連合会-会長東京都鍍金工業組合-理事長-苅宿充久氏の自伝努力は実る実らせる見習いから現代の名工へを城東支部に８冊寄贈して頂きました日頃運営にご尽/1968501489992145/",
+    "https://www.facebook.com/yahatamekki/posts/全国鍍金工業組合連合会-令和5年度青年部交流会未来を担う若手の集い各都道府県のめっき工業組合青年部の活動報告会を行い他府県の青年部の活発な活動を知ることが出来ま/914862217315506/",
+    "https://www.facebook.com/yahatamekki/posts/全国鍍金工業組合連合会-会長東京都鍍金工業組合-理事長-苅宿充久氏の自伝努力は実る実らせる見習いから現代の名工へを城東支部に８冊寄贈して頂きました日頃運営にご尽/1968501523325475/",
+    "https://www.facebook.com/sensyo7/posts/3623503451042471/"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会の組合員数・従業者数の推移（めっき・2本目の出どころ） note 社長",
+   "results": [
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "https://wakayamapp.jp/blog/category2/entry-763.html",
+    "https://zentoren.or.jp/zentoren/kumiai-7kanagawa.html",
+    "https://www.nikkan.co.jp/articles/view/373235",
+    "https://search.showakan.go.jp/search/book/detail.php?material_cord=000024550",
+    "https://www.buffett-code.com/industries/2351303?page=6",
+    "https://www.f-mekki.co.jp/media/OUTSIDE/a59",
+    "https://www.engineer.or.jp/members/c_dpt/metal/topics/012/012067.html",
+    "https://zentoren.or.jp/top/info/info20240130.html",
+    "https://zentoren.or.jp/mekki/data.html"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会の組合員数・従業者数の推移（めっき・2本目の出どころ） X 投稿",
+   "results": [
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "https://sanyoumekki.co.jp/pages/39/detail=1/b_id=7/r_id=84/",
+    "https://www.u-mic.co.jp/2024/02/05/%E5%85%A8%E5%9B%BD%E9%8D%8D%E9%87%91%E5%B7%A5%E6%A5%AD%E7%B5%84%E5%90%88%E9%80%A3%E5%90%88%E4%BC%9A%E3%82%88%E3%82%8Ayoutube%E3%81%8C%E3%82%A2%E3%83%83%E3%83%97%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97/",
+    "https://wakayamapp.jp/blog/category2/entry-763.html",
+    "https://zentoren.or.jp/zentoren/kumiai-20osaka.html",
+    "https://www.youtube.com/@zentoren_official",
+    "https://lawplayer.com/jp/company/8010405001840",
+    "https://www.youtube.com/shorts/_GdU06RktRU",
+    "https://x.com/tokyomekki"
+   ]
+  },
+  {
+   "query": "Japan electroplating association member count employees trend site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/dalewatkinssheffieldplaters",
+    "https://www.linkedin.com/pulse/from-grid-die-whats-moving-across-membership-xi3dc",
+    "https://www.linkedin.com/in/patrick-hayden-310831b",
+    "https://www.linkedin.com/company/a-brite-company",
+    "https://www.linkedin.com/company/macdermid-alpha-electronics-solutions",
+    "https://www.linkedin.com/in/toddyounkin",
+    "https://www.linkedin.com/company/moses-lake-industries",
+    "https://www.linkedin.com/in/kunjtapiawala",
+    "https://in.linkedin.com/in/prabhanjan-kulkarni-phd-56748423",
+    "https://www.linkedin.com/in/matthew-diasio-phd-bb7b073a"
+   ]
+  }
+ ],
+ "missing": {
+  "生産能力・設備": "記載なし（読んだ29頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ29頁・検索15回）"
+ }
+}

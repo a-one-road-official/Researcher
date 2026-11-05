@@ -1,0 +1,390 @@
+{
+ "name": "e-Stat の製造業 統計表ファイル（産業細分類×従業者規模・加工賃収入額）",
+ "en": "e-Stat economic structure survey manufacturing establishments table by detailed industry and size xlsx",
+ "aliases": [
+  "site:e-stat.go.jp 経済構造実態調査 製造業事業所調査 産業別 従業者規模別 加工賃収入額",
+  "filetype:xlsx 経済構造実態調査 製造業事業所調査 産業細分類 従業者規模",
+  "filetype:xls 工業統計表 産業編 従業者規模別 加工賃収入額"
+ ],
+ "context": "一次・統計表",
+ "kind": "market",
+ "researched_at": "2026-11-05T07:21:30.803614+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145646&tclass2=000001145648&stat_infid=000032203475&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001069811&result_page=1&statdisp_id=0003389414",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=1&toukei=00200553&statdisp_id=0003395332",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/seizou-3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&kikan=00200&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10?search_method=keyword&search_word=&komokuSearchFlg_dummy=1&komokuSearchFlg=1&info1SearchFlg_dummy=1&info1SearchFlg=1&info2SearchFlg_dummy=1&info2SearchFlg=1&revision=04&search_kind=10&base_code=0&form_id=main_form&op=search&searchboxShow1=1&searchboxShow2=0&searchboxShow3=0&page=&srchcndId=",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=2&toukei=00200555&result_page=1&statdisp_id=0003433760",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&stat_infid=000031650616&layout=dataset&statdisp_id=0003403591",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004003987",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389393",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/koumoku/koumoku_teigi/C",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&tclass4val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/dbview?sid=0004014120",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-explorer.oecd.org/vis?tm=DF_SDBS_ISIC4&snb=1&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_SDBSBSC_ISIC4%40DF_SDBS_ISIC4&df[ag]=OECD.SDD.TPS&df[vs]=1.0&dq=A..ENTR%2BTUTT.C._T%2BS1T249%2BS_GE250.&pd=2018%2C&to[TIME_PERIOD]=false",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001095895&cycle=0&tclass1=000001106256&tclass2=000001107036&tclass3=000001114545&stat_infid=000031721990&tclass4val=0",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "e-Stat の製造業 統計表ファイル（産業細分類×従業者規模・加工賃収入額）",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145646&tclass2=000001145648&stat_infid=000032203475&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001069811&result_page=1&statdisp_id=0003389414",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=1&toukei=00200553&statdisp_id=0003395332",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.e-stat.go.jp/classifications/terms",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ]
+  },
+  {
+   "query": "e-Stat の製造業 統計表ファイル（産業細分類×従業者規模・加工賃収入額） 推移",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145646&tclass2=000001145648&stat_infid=000032203475&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=1&toukei=00200553&statdisp_id=0003395332",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/seizou-3.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&kikan=00200&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0"
+   ]
+  },
+  {
+   "query": "e-Stat の製造業 統計表ファイル（産業細分類×従業者規模・加工賃収入額） 統計 PDF",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145646&tclass2=000001145648&stat_infid=000032203475&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&kikan=00200&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0",
+    "https://www.e-stat.go.jp/classifications/terms/10?search_method=keyword&search_word=&komokuSearchFlg_dummy=1&komokuSearchFlg=1&info1SearchFlg_dummy=1&info1SearchFlg=1&info2SearchFlg_dummy=1&info2SearchFlg=1&revision=04&search_kind=10&base_code=0&form_id=main_form&op=search&searchboxShow1=1&searchboxShow2=0&searchboxShow3=0&page=&srchcndId=",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf"
+   ]
+  },
+  {
+   "query": "e-Stat の製造業 統計表ファイル（産業細分類×従業者規模・加工賃収入額） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=2&toukei=00200555&result_page=1&statdisp_id=0003433760",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "https://ja.wikipedia.org/wiki/工業統計調査"
+   ]
+  },
+  {
+   "query": "e-Stat の製造業 統計表ファイル（産業細分類×従業者規模・加工賃収入額） 従業者規模別",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&stat_infid=000031650616&layout=dataset&statdisp_id=0003403591",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&kikan=00200&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=1&toukei=00200553&statdisp_id=0003395332",
+    "https://www.pref.aichi.jp/soshiki/toukei/seizou-3.html"
+   ]
+  },
+  {
+   "query": "e-Stat の製造業 統計表ファイル（産業細分類×従業者規模・加工賃収入額） 1人当たり 万円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004003987",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389393",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.e-stat.go.jp/koumoku/koumoku_teigi/C",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/seizou-3.html"
+   ]
+  },
+  {
+   "query": "e-Stat の製造業 統計表ファイル（産業細分類×従業者規模・加工賃収入額） 2015 2025",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145646&tclass2=000001145648&stat_infid=000032203475&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&tclass4val=0",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html"
+   ]
+  },
+  {
+   "query": "e-Stat economic structure survey manufacturing establishments table by detailed industry and size xlsx Japan statistics",
+   "results": [
+    "https://www.stat.go.jp/english/data/e-census/",
+    "https://www.e-stat.go.jp/en/dbview?sid=0004014120",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.e-stat.go.jp/en/stat-search",
+    "https://data-explorer.oecd.org/s/1w0",
+    "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001095895&cycle=0&tclass1=000001106256&tclass2=000001107036&tclass3=000001114545&stat_infid=000031721990&tclass4val=0",
+    "https://www.youtube.com/watch?v=LOUdcHwoWP0",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "https://www.e-stat.go.jp/en/stat-search/database"
+   ]
+  },
+  {
+   "query": "site:note.com e-Stat の製造業 統計表ファイル（産業細分類×従業者規模・加工賃収入額）",
+   "results": [
+    "https://note.com/stats47/n/n5d86476e9c73",
+    "https://note.com/stats47/n/n2ced199ed715",
+    "https://note.com/kiyo_ai_note/n/n0a9ac673d208",
+    "https://note.com/bearcapital/n/n4f3d135558b3",
+    "https://note.com/saiyowebdirector/n/nadb9885251e3",
+    "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "https://note.com/jack4manastalk/n/ncabf83a88dd4",
+    "https://note.com/kind_crab7199/n/n256c85af03b9",
+    "https://note.com/stats47/n/n7e4572d23a1b",
+    "https://note.com/rosy_takin8598/n/na437d45168f2"
+   ]
+  },
+  {
+   "query": "site:x.com e-Stat の製造業 統計表ファイル（産業細分類×従業者規模・加工賃収入額）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2105224460022534557",
+    "https://x.com/estatapi",
+    "https://x.com/myuuuuun/status/1909999545330831681",
+    "https://x.com/boingojp/status/2108116218796282119",
+    "https://x.com/shinshu_makers/status/2104565566900248954",
+    "https://x.com/OgawaSeisakusho/status/2101838401943323059",
+    "https://x.com/OgawaSeisakusho"
+   ]
+  },
+  {
+   "query": "site:linkedin.com e-Stat の製造業 統計表ファイル（産業細分類×従業者規模・加工賃収入額）",
+   "results": [
+    "https://jp.linkedin.com/posts/典寿-有馬-b5b689352_japan-dashboard-e-stat日本の統計サービスはどう変-activity-7353940406360834049-JtKv",
+    "https://www.linkedin.com/company/abbvie",
+    "https://www.linkedin.com/jobs/jobs-in-united-states",
+    "https://za.linkedin.com/in/tumelo-nku-16734288",
+    "https://www.linkedin.com/pulse/statistical-procedures-medical-device-industry-wayne-taylor",
+    "https://jp.linkedin.com/pulse/understanding-international-standard-industrial-isic-mohammed-deeb?tl=ja",
+    "https://jp.linkedin.com/pulse/top-10-power-bi-dashboard-examples-manufacturing-industry-goyal-7rcrc?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com e-Stat の製造業 統計表ファイル（産業細分類×従業者規模・加工賃収入額）",
+   "results": []
+  },
+  {
+   "query": "e-Stat の製造業 統計表ファイル（産業細分類×従業者規模・加工賃収入額） note 社長",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004003987",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&kikan=00200&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106255&tclass3=000001106236&tclass4val=0",
+    "https://note.com/tenpura_3/n/n811badf13c30",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html"
+   ]
+  },
+  {
+   "query": "e-Stat の製造業 統計表ファイル（産業細分類×従業者規模・加工賃収入額） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001145590&cycle=0&tclass1=000001145646&tclass2=000001145648&stat_infid=000032203475&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t30000.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=1&toukei=00200553&statdisp_id=0003395332",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.e-stat.go.jp/classifications/terms",
+    "https://www.e-stat.go.jp/classifications/terms/10?search_method=keyword&search_word=&komokuSearchFlg_dummy=1&komokuSearchFlg=1&info1SearchFlg_dummy=1&info1SearchFlg=1&info2SearchFlg_dummy=1&info2SearchFlg=1&revision=04&search_kind=10&base_code=0&form_id=main_form&op=search&searchboxShow1=1&searchboxShow2=0&searchboxShow3=0&page=&srchcndId="
+   ]
+  },
+  {
+   "query": "e-Stat economic structure survey manufacturing establishments table by detailed industry and size xlsx site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/bad-data-big-decisions-how-integrity-breakdowns-lead-andre-bnv7e",
+    "https://www.linkedin.com/pulse/rethinking-import-substitution-industrialization-isi-africas-bonghan-lpczc",
+    "https://www.linkedin.com/in/cristiandelgobbo",
+    "https://ca.linkedin.com/in/brad-beecher-511a16273",
+    "https://www.linkedin.com/in/aaronamiller",
+    "https://ca.linkedin.com/in/lindasixuan",
+    "https://www.linkedin.com/in/damienbenveniste/fr",
+    "https://uk.linkedin.com/in/angelos-theodorakopoulos",
+    "https://cz.linkedin.com/in/alexshemetev",
+    "https://ua.linkedin.com/in/zhmykhov"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ32頁・検索15回）",
+  "社員数・平均社員数": "記載なし（読んだ32頁・検索15回）",
+  "受注金額・加工賃収入": "記載なし（読んだ32頁・検索15回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ32頁・検索15回）",
+  "生産能力・設備": "記載なし（読んだ32頁・検索15回）",
+  "10年推移": "記載なし（読んだ32頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ32頁・検索15回）"
+ }
+}

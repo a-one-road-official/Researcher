@@ -1,0 +1,249 @@
+{
+ "name": "106",
+ "aliases": [],
+ "context": "山口県周南市／出典:大学・高専の企業説明会／求人媒体:見当たらず／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T07:21:34.767517+00:00",
+ "official_url": "https://nekist.com/",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "取締役 山崎秀樹",
+    "url": "https://nekist.com/aboutus/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：平成7年12月19日",
+    "url": "https://nekist.com/aboutus/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "600万円",
+    "url": "https://nekist.com/aboutus/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "106名（関連会社含む）",
+    "url": "https://nekist.com/aboutus/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "自動車、自転車、車輌、船舶、産業機械、電機電子、住宅建材上記業界向け部品の切削、プレス加工、組立及び同製品の検査と輸出入",
+    "url": "https://nekist.com/aboutus/",
+    "pass": 1
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要取引先",
+    "value": "株式会社シマノ アルバック機工株式会社 株式会社テクノアソシエ 株式会社モルテン タキゲン製造株式会社 株式会社壬生電機製作所 KEI JAPAN株式会社 株式会社共立プラスチック 他",
+    "url": "https://nekist.com/aboutus/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {},
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://nekist.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nekist.com/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nekist.com/about-us%E3%83%BBhistory/?lang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nekist.com/about-us%E3%83%BBhistory/?lang=en",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.baitoru.com/cjlist652121/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/list/o11/min0250/pg106/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/keyword/%E5%A0%B1%E9%85%AC/106/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harikennabi.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kousotsusaiyo-bank.jp/column/rules-highschool-newgraduate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000007.000057333.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "106 求人 年収",
+   "results": [
+    "https://www.baitoru.com/cjlist652121/",
+    "https://tenshoku.mynavi.jp/list/o11/min0250/pg106/",
+    "https://doda.jp/keyword/%E5%A0%B1%E9%85%AC/106/",
+    "https://hata-labo-net.site/job-contents/snack-106/",
+    "https://snack-recruit.com/shop/?id=907",
+    "https://www.jmsc.co.jp/entry/salary_700/page_106/",
+    "https://snacknavi.com/rec/1035/11139/",
+    "https://lible-career.co.jp/column/part-kyujin-106man.html",
+    "https://www.e-aidem.com/contents/column/law_10/index.htm",
+    "https://taxlabor.com/nenshu-kabe-2025-2026-kanzen-guide/"
+   ]
+  },
+  {
+   "query": "106 採用 新卒 高卒",
+   "results": [
+    "https://www.harikennabi.jp/",
+    "https://kousotsusaiyo-bank.jp/column/rules-highschool-newgraduate",
+    "https://prtimes.jp/main/html/rd/p/000000007.000057333.html",
+    "https://www.ssen.co.jp/blog/38",
+    "https://jinjibu.jp/keyword/detl/1757/",
+    "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002267080.pdf",
+    "https://business.ntt-west.co.jp/bizclip/articles/bcl00016-022.html",
+    "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E5%8D%92-%E6%96%B0%E5%8D%92%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "https://mizusaki-inc.com/knowledge/article23",
+    "https://www.mhlw.go.jp/stf/houdou/press20240206_job_application_schedule_of_2025_highschool_graduates.html"
+   ]
+  },
+  {
+   "query": "site:note.com 106",
+   "results": [
+    "https://note.com/nrtm_a5529/n/n24fd3e3caf7c",
+    "https://note.com/bluestudio1998/n/n10592336c168",
+    "https://note.com/wolfsamurai/n/n43c5433cb86b?hl=en",
+    "https://note.com/tokyo_pt/n/n557cb222224c",
+    "https://note.com/bonjintk/n/n2299b318aed6",
+    "https://note.com/light_minnow225/n/n8fb582b55190",
+    "https://note.com/vast_zephyr7636/n/nf85d265ab967",
+    "https://note.com/dbp65/n/n824092bf6050?hl=en",
+    "https://note.com/brisk_lilac7879/n/n03832a7e820f?hl=en",
+    "https://note.com/fpsolutions/n/nae38016d54fa"
+   ]
+  },
+  {
+   "query": "site:x.com 106",
+   "results": [
+    "https://m.x.com/NASAAdmin/status/2102006082403013110?launch_app_store=true&ct=engagement_retweet",
+    "https://x.com/chicagobulls/status/550855281157341184",
+    "https://x.com/UK_MTO/status/2085034763048354122",
+    "https://x.com/Power106LA",
+    "https://transparency.x.com/en/reports/amars-in-the-eu",
+    "https://x.com/LMKLOOK/status/1791782956845109645",
+    "https://x.com/NYPD106Pct",
+    "https://x.com/UK_MTO/status/2111832406898692383",
+    "https://x.com/106miles",
+    "https://x.com/power1063"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 106",
+   "results": [
+    "https://www.linkedin.com/posts/elizabeth-blasius-324b9211_trumps-latest-plan-to-sell-your-history-activity-7485764581173362689-MhWR",
+    "https://www.linkedin.com/posts/wadewrightmitchell_proposed-changes-to-the-federal-section-106-activity-7490244310848913408-ALrR",
+    "https://www.linkedin.com/company/106-group",
+    "https://www.linkedin.com/pulse/3-work-trends-issue-106-world-economic-forum-wdpke",
+    "https://www.linkedin.com/pulse/3-climate-trends-issue-106-world-economic-forum-659le",
+    "https://www.linkedin.com/company/km-106-construction-inc",
+    "https://www.linkedin.com/posts/sarabronin_achp-announces-termination-of-section-106-activity-7508907714094231552-tuWB",
+    "https://www.linkedin.com/posts/marionfwerkheiser_lets-build-a-section-106-resource-bank-that-activity-7507059240084357120-y15B",
+    "https://pa.linkedin.com/posts/cnn_vogue-philippines-has-revealed-106-year-old-activity-7047590807029100544-6-p2",
+    "https://www.linkedin.com/in/david-ketz-6a589412"
+   ]
+  },
+  {
+   "query": "site:facebook.com 106",
+   "results": [
+    "https://www.facebook.com/ussSTOCKDALE/",
+    "https://www.facebook.com/wisconsin106/",
+    "https://www.facebook.com/SuffolkPD/videos/106-mphif-your-vehicle-doesnt-feel-like-its-going-that-fast-its-still-your-respo/1406155707677514/",
+    "https://www.facebook.com/district106/",
+    "https://www.facebook.com/kix106/",
+    "https://www.facebook.com/CarpentersLocal106/",
+    "https://www.facebook.com/BET/videos/106-park-celebrates-22-years/628009875389250/",
+    "https://www.facebook.com/GreatestHits106/",
+    "https://www.facebook.com/masoncosheriff/posts/landslide-on-state-route-106-at-mile-marker-3-all-lanes-blocked-please-use-alter/977971554365254/",
+    "https://www.facebook.com/CarsAndBids/posts/the-peugeot-106-s16-is-one-of-the-most-rewarding-hot-hatchbacks-that-came-out-of/1029347445869930/"
+   ]
+  },
+  {
+   "query": "106 note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/standage/n/n2fc61ef58196",
+    "https://note.com/holy_nerine2106",
+    "https://x.com/sadaaki",
+    "https://note.com/alert_stilt1656/n/n146c85b87897",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://diamond.jp/articles/-/388572",
+    "https://jp.linkedin.com/posts/panasonic_%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B9%E3%83%AD%E3%83%BC%E3%82%AC%E3%83%B3%E5%B9%B8%E3%81%9B%E3%81%AE%E3%83%81%E3%82%AB%E3%83%A9%E3%81%AB-%E6%A5%A0%E8%A6%8B-%E9%9B%84%E8%A6%8F%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-activity-6916700966276780032-t3IB",
+    "https://www.facebook.com/cartaholdings/posts/note%E8%A8%98%E4%BA%8B-carta-holdings%E7%A4%BE%E9%95%B7%E3%81%AE%E3%81%8A%E8%A9%B1%E3%82%92%E3%81%8A%E5%B1%8A%E3%81%91carta-holdings%E7%A4%BE%E9%95%B7-%E5%AE%87%E4%BD%90%E7%BE%8E-%E9%80%B2%E5%85%B8-%E3%81%8Cnote%E3%82%92%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F25%E5%B9%B4%E5%89%8D%E3%81%AB%E8%B5%B7%E6%A5%AD%E3%81%BE%E3%81%A7%E3%81%AE%E8%A9%B1%E3%82%92%E3%81%BE%E3%81%A8/951157320389044/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "106 X 投稿",
+   "results": [
+    "https://www.reddit.com/r/Trepang2/comments/1l1jjp6/raven_x_106_cause_its_pride_month_animation_meme/",
+    "https://publish.x.com/",
+    "https://www.youtube.com/watch?v=gvbCoPOjdwA",
+    "https://kuroco.app/ja/docs/tutorials/setting-up-twitter-integration/",
+    "https://hashout.jp/sns/6077/",
+    "https://dragons.jp/news/2026/campaign-dazn.php",
+    "https://koneta.nifty.com/koneta_detail/1141008024346_1.htm",
+    "https://ddyuzawa.com/2025/07/6492/",
+    "https://comucal.co.jp/2024/06/10/hashtags_x_post/",
+    "https://x.com/106nitm/status/2110393782365737233"
+   ]
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部6頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用ページ": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部6頁・検索8回）",
+  "想定年収・給与": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部6頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部6頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部6頁・検索8回）",
+  "取引先・規模": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部6頁・検索8回）"
+ }
+}

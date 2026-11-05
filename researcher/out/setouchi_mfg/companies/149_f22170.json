@@ -1,0 +1,200 @@
+{
+ "name": "149",
+ "aliases": [],
+ "context": "山口県下関市／出典:大学・高専の企業説明会／求人媒体:Indeed;doda;マイナビ転職／想定年収:500〜1000万円／従業員:不明",
+ "researched_at": "2026-11-05T07:21:33.225686+00:00",
+ "official_url": "https://data-link-plus.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {},
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://data-link-plus.com/jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-link-plus.com/jp/corporation/8100001040127",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-link-plus.com/jp/corporation/4360001007459",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://doda.jp/keyword/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB/149/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/kitakanto/list/f200/min0600/pg149/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%84/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=149+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harikennabi.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/hourei_seido_tetsuzuki/shokugyou_shoukai/_121483.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "149 求人 年収",
+   "results": [
+    "https://doda.jp/keyword/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB/149/",
+    "https://tenshoku.mynavi.jp/kitakanto/list/f200/min0600/pg149/",
+    "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%84/salaries",
+    "https://doda.jp/keyword/%E5%B9%B4%E5%8F%8E%EF%BC%94%EF%BC%90%EF%BC%90%E4%B8%87%E3%80%80%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%80%80%E5%9C%A8%E5%AE%85%E5%8B%A4%E5%8B%99/149/",
+    "https://www.careercross.com/job-search/specialty-46",
+    "https://tenshoku.mynavi.jp/list/o11/pa1_pa2/min0350/pg149/",
+    "https://kyujin.online/build/column/55/",
+    "https://gostudyin.com/japan/study-in-canada/study-guides/highest-paying-jobs-in-canada/",
+    "https://lreach.jp/media/article047",
+    "https://jp.indeed.com/q-149-求人.html"
+   ]
+  },
+  {
+   "query": "149 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=149+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.harikennabi.jp/",
+    "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/hourei_seido_tetsuzuki/shokugyou_shoukai/_121483.html",
+    "https://jinjib.co.jp/archives/21719",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250702/20250702506713.pdf",
+    "https://www.works-i.com/column/hataraku-ronten/detail042.html",
+    "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E5%8D%92-%E6%96%B0%E5%8D%92%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "https://mizusaki-inc.com/knowledge/article13",
+    "https://kousotsu-jobnavi.com/",
+    "https://job.rikunabi.com/selection/job_search/kw/%E9%AB%98%E5%8D%92/"
+   ]
+  },
+  {
+   "query": "site:note.com 149",
+   "results": [
+    "https://note.com/hideo_tkh/n/nf9342c85e0e0",
+    "https://note.com/hideo_tkh/n/nd9cbbd850e78",
+    "https://note.com/tohka/n/nba7188102fda",
+    "https://note.com/allnight_singa/n/n0f33ec9afb9d",
+    "https://note.com/tohka/n/n3e6aa99c5b45",
+    "https://note.com/sojiroumaru/n/n7785c6c61e9d",
+    "https://note.com/fine_moose758/n/n4f4cd823bb30",
+    "https://note.com/john_reiwa/n/nb1a5be6d4178",
+    "https://note.com/first_penlife/n/n62637276b7be",
+    "https://note.com/junsei_noter/n/nb51864e210b0?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com 149",
+   "results": [
+    "https://x.com/NationalDefence/status/2072755246242173163",
+    "https://x.com/UK_MTO/status/2106161186681004388",
+    "https://x.com/ThomasDrance/status/2110756424913756571",
+    "https://x.com/TTCnotices/status/2112728739540844912",
+    "https://x.com/edmontonpolice/status/1837800680070738383",
+    "https://x.com/TTCnotices/status/2112706301054640502",
+    "https://x.com/MBTA_CR/status/2113713285425983616",
+    "https://x.com/nbaschez/status/2117380867249287607",
+    "https://x.com/149Tech/status/1695695229423083764",
+    "https://x.com/TransBridgeBus/status/2117533326344962520"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 149",
+   "results": [
+    "https://www.linkedin.com/posts/be-unstoppable_149-is-a-lot-of-money-when-youre-not-entirely-activity-7521625739918647296-wUZ1",
+    "https://www.linkedin.com/pulse/weekly-update-149-michele-mattei-qjkse",
+    "https://ca.linkedin.com/jobs/trust-accountant-jobs",
+    "https://ca.linkedin.com/jobs/jazz-aviation-lp-jobs-halifax-ns",
+    "https://ca.linkedin.com/jobs/jobs-full-time-jobs-yellowknife-nt",
+    "https://ca.linkedin.com/jobs/restaurant-jobs-kingston-on",
+    "https://ky.linkedin.com/jobs/%E6%9F%A5%E5%85%A8%E5%9B%BD%E5%BC%80%E6%88%BF%E8%AE%B0%E5%BD%95%E3%80%96%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%ACchadang.top%E3%80%97.llk-jobs",
+    "https://ca.linkedin.com/jobs/view/req26-149-sr-coordinator%E2%80%94strategic-planning-and-business-optimization-at-glencore-4478493389",
+    "https://www.linkedin.com/pulse/risk-inreview-149-30-august-2026-anthony-hope-3aqvc",
+    "https://www.linkedin.com/company/149tech"
+   ]
+  },
+  {
+   "query": "site:facebook.com 149",
+   "results": [
+    "https://www.facebook.com/p/Shoes-at-149-100063976335570/",
+    "https://www.facebook.com/kolomerdokan/posts/-a-true-collectors-montblanc-the-golden-era-of-the-149-preorder-open-vintage-mon/1682971397166633/",
+    "https://www.facebook.com/torontomusicians/",
+    "https://www.facebook.com/NationalDefenceGC/posts/first-flight-unlocked-%EF%B8%8F-today-our-first-upgraded-ch-149-cormorant-helicopter-mod/1347797264191650/",
+    "https://www.facebook.com/groups/inkpen/posts/4505257922954004/",
+    "https://www.facebook.com/groups/inkpen/posts/3915355555277580/",
+    "https://www.facebook.com/groups/inkpen/posts/3668922509920887/",
+    "https://www.facebook.com/VNPenCollector/posts/montblanc-149-high-artistry-a-tribute-to-craftsmanship-limited-edition-1994/1520561546752548/",
+    "https://www.facebook.com/groups/inkpen/posts/4042097582603376/",
+    "https://www.facebook.com/149Technologies/"
+   ]
+  },
+  {
+   "query": "149 note 社長",
+   "results": [
+    "https://note.com/hideo_tkh/n/nd9cbbd850e78",
+    "https://note.com/sojiroumaru/n/n7785c6c61e9d",
+    "https://note.com/tohka/n/nba7188102fda",
+    "https://note.com/first_penlife/n/n62637276b7be",
+    "https://blog.kingdomnote.com/%E3%83%A2%E3%83%B3%E3%83%96%E3%83%A9%E3%83%B3%E3%80%8C149%E3%80%8D%E3%81%AE%E5%B9%B4%E4%BB%A3%E5%88%A5%E3%83%9A%E3%83%B3%E5%85%88/",
+    "https://note.com/hideo_tkh/n/nf9342c85e0e0",
+    "https://www.youtube.com/watch?v=aSh9mGt_3XM",
+    "https://note.com/allnight_singa/n/n0f33ec9afb9d",
+    "https://serai.jp/item/1053834"
+   ]
+  },
+  {
+   "query": "149 X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=gvbCoPOjdwA",
+    "https://embedsocial.jp/blog/twitter-x-copyright/",
+    "https://help.x.com/ja/resources/new-user-faq",
+    "https://www.koukoku.jp/service/suketto/marketer/sns/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91x%E6%97%A7twitter%E5%8B%95%E7%94%BB%E3%81%AE%E6%8A%95%E7%A8%BF%E6%96%B9%E6%B3%95%E3%83%BB%E4%BB%95%E6%A7%98%E3%83%BB%E6%B4%BB%E7%94%A8%E6%B3%95/",
+    "https://koneta.nifty.com/koneta_detail/1141008024346_1.htm",
+    "https://www.ichiyajo.jp/notes/2026-05-18-x-auto-post-guide-2026/",
+    "https://addness.co.jp/media/twitter-video-posting/",
+    "https://www.youtube.com/watch?v=4mYmH5IHzUs",
+    "https://note.com/_mamamaru/n/n51c8fae2d893",
+    "https://x.com/s149"
+   ]
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "資本金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用ページ": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "想定年収・給与": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "取引先・規模": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）"
+ }
+}

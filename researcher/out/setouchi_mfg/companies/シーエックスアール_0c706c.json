@@ -1,0 +1,1060 @@
+{
+ "name": "シーエックスアール",
+ "aliases": [],
+ "context": "広島県呉市／出典:県・市の企業ガイド／求人媒体:Indeed;マイナビ新卒／想定年収:400〜600万円／従業員:不明",
+ "researched_at": "2026-11-05T07:28:35.500981+00:00",
+ "official_url": "https://cxr.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1960年4月",
+    "url": "https://cxr.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1960年4月",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "label": "創業",
+    "value": "創業：1958年（昭和33年）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1960年（昭和35年）4月20日",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "5000万円",
+    "url": "https://cxr.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "5000万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "5,000万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　中川　政峰",
+    "url": "https://cxr.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　小早川 孝",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役　中川　政峰",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "技術系／292名　事務系／61名　（2026年4月1日現在）",
+    "url": "https://cxr.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "技術系：301名／事務系：50名（2025年4月1日現在）",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "label": "社員数",
+    "value": "343名（2025年4月1日現在）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "呉本社 〒737‐8516 広島県呉市三条二丁目4番10号 （TEL）0823 - 22 - 4100（FAX）0823 - 24 - 4467 東京支社 〒143‐0006 東京都大田区平和島六丁目1番1号 東京流通センター　センタービル9階",
+    "url": "https://cxr.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "呉本社",
+    "value": "〒737‐8516 広島県呉市三条二丁目4番10号 （TEL）0823 - 22 - 4100（FAX）0823 - 24 - 4467",
+    "url": "https://cxr.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "東京本社（現",
+    "value": "東京支社）を大田区に移転（新規事業室、京浜営業所を統合）",
+    "url": "https://cxr.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "呉本社",
+    "value": "737-8516 広島県呉市三条二丁目4-10 0823-22-4100 0823-24-4467",
+    "url": "https://cxr.co.jp/company/address/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "広島県呉市三条二丁目4番10号",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "label": "本社郵便番号",
+    "value": "737-8516",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "広島県呉市三条二丁目4-10",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社電話番号",
+    "value": "0823-22-4100",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "支社所在地",
+    "value": "東京都大田区平和島6-1-1　東京流通センター　センタービル9階",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "広島県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "愛知県、三重県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "熊本県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "富山県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "群馬県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "愛知県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "福井県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都、大阪府",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "岐阜県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "【検査種目別分類】 放射線透過試験（RT） 超音波探傷試験（UT） 厚み測定（UTT） 磁気探傷試験（MT） 浸透探傷試験（PT） 渦電流試験（ET） 赤外線サーモグラフィ試験（TT） 【目的別検査業務】 製品検査 保守検査 【検査関連の役務提供】 検査技術者の派遣（国内、海外） QA／QC業務（国内、海外） 上記に付随する製品受入検査、工程ドキュメント管理、等の業務 【開発業務】 自社研究開発及び海外技術導入 委託・共同研究・開発事業",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "◆非破壊検査 放射線透過・超音波探傷・磁粉探傷・浸透探傷・渦電流探傷など、多彩な検査メニューを用いて、発電所、ビル、石油化学プラント、造船所など“社会を動かす基盤”の安全を確認します。 壊すことができない重要設備に対して、「どこに・どの程度のきずがあるのか」を探り、設備の運転継続や補修計画の判断材料を提供します。 ◆コンサルティング・技術開発 非破壊検査の結果をもとに、設備の寿命予測やリスク評価、最適な検査計画の提案も行います。 また、自社開発機器や海外技術を活用し、「より壊さない」「より精度を高める」技術の導入・検証も進めています。 「人が立ち入るには危険な場所・届きにくい場所」をより安全・効率的に検査する技術開発にも取り組んでいます。安定したインフラ業界に身を置きながら、最前線の技術テーマにタッチできるのがCXRの特徴です。 2016年に開設した研修開発センターには非破壊検査に必要な各種資格の実務試験を訓練できる設備も完備。長期的な視点で人材を育てる上でも重要な役割を担っています。",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "45億577万円（2025年3月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主な取引先",
+    "value": "日立グループ、三井化学グループ、旭化成グループ、住友化学グループ 三井E&Sグループ、JFEスチールグループ、東芝グループ、三菱グループ",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "日本全国16拠点から社会インフラの安全を支えています",
+    "url": "https://cxr.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちCXRは、1958年の創業以来、電力・石油化学・造船・建設・鉄鋼など、幅広い産業分野で検査サービスを提供してきました",
+    "url": "https://cxr.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "全国16拠点、60年以上の実績",
+    "url": "https://cxr.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの検査技術については、電力、ガス、石油をはじめとするエネルギー業界や、石油化学、製鉄、製紙、造船、電気機器製造メーカー等、我が国の基幹産業部門において幅広く採用されています",
+    "url": "https://cxr.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電力、石油化学、造船、建設、鉄鋼",
+    "url": "https://cxr.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱UFJ銀行、広島銀行、呉信用金庫",
+    "url": "https://cxr.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "未経験から2年間で国家資格取得を目指せる体系的な教育ロードマップに加え、全国16拠点でのOJT、少人数チームによる安全第一の文化が、あなたを確かな“プロ”へと導きます",
+    "url": "https://cxr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "非破壊検査業界を支える主要企業の一角として、全国16拠点のネットワーク、充実した教育体制、そして安定した事業基盤を築いてきました",
+    "url": "https://cxr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "創業から60年超、全国16拠点、グループ6社――CXRの規模と安定性を支える数字をまとめました",
+    "url": "https://cxr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "神奈川県横浜市磯子区新杉田町12 JMU(株)磯子工場 技能訓練所内",
+    "url": "https://cxr.co.jp/company/address/",
+    "pass": 1
+   },
+   {
+    "quote": "非破壊検査業界を支える主要企業の一角として、全国16拠点のネットワーク、充実した教育体制、そして安定した事業基盤を築いてきました",
+    "url": "https://cxr.co.jp/recruit/about/",
+    "pass": 1
+   },
+   {
+    "quote": "創業から60年超、全国16拠点、グループ6社",
+    "url": "https://cxr.co.jp/recruit/about/",
+    "pass": 1
+   },
+   {
+    "quote": "広島本社を中心に、東京・千葉・岡山・山口・愛媛など全国に拠点を展開しています",
+    "url": "https://cxr.co.jp/recruit/about/",
+    "pass": 1
+   },
+   {
+    "quote": "拠点が多いことは、単に「勤務地が多い」だけではありません",
+    "url": "https://cxr.co.jp/recruit/about/",
+    "pass": 1
+   },
+   {
+    "quote": "先輩の前職は工場勤務、",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "また、いずれの拠点に配属の場合も転勤はないので、親しみある地域にいながら安定性高く腰を据えてキャリアを築けることも特徴です",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "★1年9か月の研修後、関東エリア配属確約！ 関東で働きたい方大歓迎！ 入社後、約2年間は育成プログラム期間として、広島・竹原にある研修開発センターを拠点に座学・実習・現場OJT（出張研修）を組み合わせたカリキュラムを受講していただきます",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "と、全国16拠点でのOJT、国家資格・JIS資格の取得支援を通じて、",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "- 全国16拠点を構え、希望に応じたU/Iターンや、都市部・地方での配属が可能",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業65年以上の歴史を持つ当社は、広島県呉市に本社を構えながらも全国16拠点を展開し、電力会社、化学メーカー・造船会社プラントなどの厚い信頼を得てきました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在は全国16拠点を展開し、電力会社・化学メーカー・造船会社など、日本を代表するインフラ企業の設備を継続的に任されています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "放射線透過・超音波探傷・磁粉探傷・浸透探傷・渦電流探傷など、多彩な検査メニューを用いて、発電所、ビル、石油化学プラント、造船所など“社会を動かす基盤”の安全を確認します",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "三井E&Sグループ、JFEスチールグループ、東芝グループ、三菱グループ",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "新規拠点、新規検査事業分野を開拓するために新規開拓室を",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "労働施策総合推進法に基づく中途採用比率の公表",
+    "url": "https://cxr.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "recruit-compliance@cxr.co.jp",
+    "url": "https://cxr.co.jp/about/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "CXRを知る | 株式会社シーエックスアール採用サイト",
+    "url": "https://cxr.co.jp/recruit/about/",
+    "pass": 1
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "(株)シーエックスアールの新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "皆さまのエントリーを心よりお待ちしております！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "5000万円",
+    "url": "https://cxr.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "（１） 派遣者賃金には賞与（派遣期間に応じた額） 、有給休暇取得時の賃金を含みます",
+    "url": "https://cxr.co.jp/wp-content/themes/cxr/assets/documents/company/haken-margin-honsha.pdf?ver=1784318130",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社シーエックスアールの求人情報／構造物の【非破壊検査】超安定業界！未経験でも年収400万～ (402236) | 転職・求人情報サイトのマイナビ転職【掲載終了】",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "構造物の【非破壊検査】超安定業界！未経験でも年収400万～の求人情報",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "構造物の【非破壊検査】超安定業界！未経験でも年収400万～",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "400万～600万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "社員を大切に利益は還元！賞与年6ヵ月分支給実績+年末年始は9連休ありでプライベートも充実◎",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "【賞与年6ヵ月分実績】扶養手当、住居手当などあり",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "月給23万200円～＋諸手当＋賞与年2回(年6ヵ月分支給実績)",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "想定年収400万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "初年度年収は、入社後向こう一年間に支給される予定の金額で、基本給に諸手当と前年度の標準的な査定ベースの賞与額を加えたものです",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "初年度年収は、入社される方のスキルや経験によって必ずしも一定ではありませんので、検索した年収額と実際に入社した際の金額は異なる場合があります",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "400万円～600万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "年収420万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "年収500万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給／年1回（5月）",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与／年2回（7月・12月）◎年6ヵ月分支給実績あり(業績による)",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "※入社初年度の賞与は年1回(12月)となります",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与5ヶ月以上",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "5000万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "◎入社1年目から年収400万円以上も可能！",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "◎賞与年6ヵ月分支給実績",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "年収1,000万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "月給22.5万円〜23.5万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "45億577万円（2025年3月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "8,433万円（2025年3月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2億5,412万円（2024年3月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "3億9,300万円（2022年3月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2億7,400万円（2021年3月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "3億8,800万円（2020年3月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "賞与・昇給などのタイミングや年数回の『目標管理面談』で『どのような将来像を描いているのか』『今後どのようなキャリアを築きたいのか』などを確認しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "株式会社シーエックスアールの求人情報／構造物の【非破壊検査】超安定業界！未経験でも年収400万～ (402236) | 転職・求人情報サイトのマイナビ転職【掲載終了】",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "◆◇マイナビ転職の「この求人に応募する」よりご応募ください◆◇",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "※オプトアウトをした場合、マイナビ転職の一部サービスを利用できない場合があります",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)シーエックスアールの新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "◆若手活躍中！将来に備えて手に職を！◆社寮あり◆年休120日",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "技術力の向上はもちろんのこと、人間力の育成にも力を入れ、「失敗事例を共有して次に活かす」「少人数チームで若手でもリーダーを経験」など、チャレンジしやすい風土が根づいているのも当社ならではです",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【笠岡市】非破壊検査技術者 - 株式会社 シーエックスアール — 【笠岡市】非破壊検査技術者 - 株式会社 シーエックスアール オカジョブ転職 https://okaten.okajob.com > kyujin",
+    "url": "https://okaten.okajob.com/kyujin/88568",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 シーエックスアール の 求人 情報 - マイナビ転職 — 株式会社 シーエックスアール の 求人 情報 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > jobinfo-402236-1-2-1",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "シーエックスアール の「 年収 ・給与制度」 OpenWork — シーエックスアール の「 年収 ・給与制度」 OpenWork OpenWork https://www.openwork.jp > ... > シーエックスアール",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000000f3dGY&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 シーエックスアール の 求人 ・中途採用情報 - doda — 株式会社 シーエックスアール の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10002716693",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10002716693/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 シーエックスアール の製造・開発 (電気・機械・金属 ... — 株式会社 シーエックスアール の製造・開発 (電気・機械・金属 ... Indeed https://jp.indeed.com > 株式会社シーエックスアール > 給与",
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB/salaries?job_category=engmech",
+    "pass": 3
+   },
+   {
+    "quote": "シーエックスアール 新卒 高卒 の求人情報をすべて見る （137件） — シーエックスアール 新卒 高卒 の求人情報をすべて見る （137件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "採用 情報 | 株式会社 シーエックスアール採用 サイト — 採用 情報 | 株式会社 シーエックスアール採用 サイト 株式会社シーエックスアール https://cxr.co.jp > recruit > information",
+    "url": "https://cxr.co.jp/recruit/information/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) シーエックスアール の 新卒採用 ・会社概要 | マイナビ2027 — (株) シーエックスアール の 新卒採用 ・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp85887 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 シーエックスアール - 千葉県 地域しごとNAVI — 株式会社 シーエックスアール - 千葉県 地域しごとNAVI 千葉県 地域しごとNAVI https://www.chiba-chiikishigoto.jp > corpinfo",
+    "url": "https://www.chiba-chiikishigoto.jp/corpinfo/70497/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 シーエックスアール の 新卒採用 情報 | オカジョブ2028 — 株式会社 シーエックスアール の 新卒採用 情報 | オカジョブ2028 オカジョブ https://okajob.com > company > detail",
+    "url": "https://okajob.com/2028/company/detail.html?cmp_id=9096",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "☆【秋採用実施中】会社説明会にぜひご参加ください☆",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "現場での実践では弊社営業所に出張し、そこで勤務されている先輩社員について業務経験を積んでいきます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Cくん 株式会社 シーエックスアール 【公式】 (@CXR_pr) / X Cくん 株式会社 シーエックスアール 【公式】 (@CXR_pr) / X X https://x.com > CXR_pr",
+    "url": "https://x.com/CXR_pr",
+    "pass": 3
+   },
+   {
+    "quote": "Cくん 株式会社 シーエックスアール 【公式】 - X Cくん 株式会社 シーエックスアール 【公式】 - X X https://x.com > @CXR_pr",
+    "url": "https://x.com/CXR_pr/status/1639121194309009408/photo/1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 シーエックスアール - Facebook 株式会社 シーエックスアール - Facebook Facebook https://www.facebook.com > 株式会社シーエックスアール...",
+    "url": "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB-100054374357071/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://cxr.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cxr.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cxr.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cxr.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cxr.co.jp/service/maintenance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cxr.co.jp/company/address/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cxr.co.jp/about/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cxr.co.jp/company/organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cxr.co.jp/company/affiliate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cxr.co.jp/wp-content/themes/cxr/assets/documents/company/hiroshimakigyokenko.jpg?ver=1777332164",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cxr.co.jp/company/paternity-leave/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cxr.co.jp/recruit/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cxr.co.jp/wp-content/themes/cxr/assets/documents/company/CXR__rev1.pdf?ver=1777332164",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cxr.co.jp/wp-content/themes/cxr/assets/documents/company/privacy.pdf?ver=1777332164",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cxr.co.jp/wp-content/themes/cxr/assets/documents/company/haken-margin-honsha.pdf?ver=1784318130",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://okaten.okajob.com/kyujin/88568",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000000f3dGY&q_no=2",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/CXR_pr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CXR_pr/status/1639121194309009408/photo/1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB-100054374357071/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CXR_pr",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "シーエックスアール 求人 年収",
+   "results": [
+    "https://okaten.okajob.com/kyujin/88568",
+    "https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C1000000f3dGY&q_no=2",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10002716693/",
+    "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB/salaries?job_category=engmech",
+    "https://en-hyouban.com/company/10002716693/salary/",
+    "https://cxr.co.jp/recruit/information/",
+    "https://www.kurashimanet.jp/job/detail/1633906",
+    "https://www.r-agent.com/viewjob/jkbc24202c2403afa9/",
+    "https://jp.indeed.com/q-株式会社シーエックスアール-求人.html?vjk=bf368a56c3ce2e58"
+   ]
+  },
+  {
+   "query": "シーエックスアール 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://cxr.co.jp/recruit/information/",
+    "https://job.mynavi.jp/27/pc/search/corp85887/outline.html",
+    "https://www.chiba-chiikishigoto.jp/corpinfo/70497/",
+    "https://okajob.com/2028/company/detail.html?cmp_id=9096",
+    "https://www.r-agent.com/company/84026/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000f3dGY",
+    "https://hiroten.hirojob.com/kyujin/88570",
+    "https://www.gogo-jobcafe-shimane.jp/job/detail?job_id=1971384",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10002716693/"
+   ]
+  },
+  {
+   "query": "site:note.com シーエックスアール",
+   "results": [
+    "https://note.com/agile_chimp9828/n/nac994a6f4043",
+    "https://note.com/saydo/n/nf3668fca701d",
+    "https://note.com/beyond_shape/n/n571dffed9c1d",
+    "https://note.com/province/n/n6e6672a2433e?hl=en",
+    "https://note.com/hotel_japan_log/n/n01286deda136",
+    "https://note.com/19810707/n/n4a9ca64f01f5",
+    "https://note.com/agile_chimp9828/n/n8f95e5f763ea",
+    "https://note.com/peyo2324/n/n8cc1b97bc6c3",
+    "https://note.com/kotauchisunsun/n/nc1dc3286798b",
+    "https://note.com/agile_chimp9828/n/n0fe08e225ec6"
+   ]
+  },
+  {
+   "query": "site:x.com シーエックスアール",
+   "results": [
+    "https://x.com/CXR_pr",
+    "https://x.com/crxssroadsmg",
+    "https://x.com/CXR_pr/status/1639121194309009408/photo/1",
+    "https://x.com/CXR_Record",
+    "https://x.com/Rheumat_Aravind/status/2017541871191650696",
+    "https://x.com/cliffreid/status/1252000200794595328",
+    "https://x.com/OnePagerICU/status/1666125991528505344",
+    "https://x.com/CSVisionPapers/status/2114750307196391787",
+    "https://x.com/TrackYourHeart/status/2077100262020546926",
+    "https://x.com/CXR_pr/status/2026473284674662892"
+   ]
+  },
+  {
+   "query": "site:linkedin.com シーエックスアール",
+   "results": [
+    "https://www.linkedin.com/company/cxr-foundation",
+    "https://www.linkedin.com/company/cxr-company-inc-",
+    "https://www.linkedin.com/in/chrishoyt",
+    "https://uk.linkedin.com/company/cxr-biosciences-ltd",
+    "https://jp.linkedin.com/in/%E7%9B%B4%E6%A8%B9-%E6%9D%BE%E6%9C%AC-351a5277",
+    "https://www.linkedin.com/in/jared-rule1",
+    "https://www.linkedin.com/products/lunit-insight-cxr/",
+    "https://www.linkedin.com/posts/nidhigoyalgoyal_giv-cxr-densely-grounded-visually-interpretable-activity-7441646694439624704-PIpu",
+    "https://www.linkedin.com/posts/saehoonkim_weve-shared-our-latest-reader-study-on-airead-cxr-activity-7401578248234856448-4ych",
+    "https://jp.linkedin.com/in/直樹-松本-351a5277"
+   ]
+  },
+  {
+   "query": "site:facebook.com シーエックスアール",
+   "results": [
+    "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB-100054374357071/",
+    "https://www.facebook.com/groups/385679492485163/posts/1749040452815720/",
+    "https://www.facebook.com/Seldengroup/videos/cxr-25-in-actionin-this-clip-we-see-the-perfect-storm-sailing-using-seld%C3%A9n-deck-/4213344272286800/",
+    "https://www.facebook.com/Boeing/videos/introducing-our-collaborative-transformational-rotorcraft-cxr/1312821546994027/",
+    "https://www.facebook.com/ctisus/videos/in-this-patient-with-mediastinal-widening-on-cxr-the-best-diagnosis-is/1505616584443111/",
+    "https://www.facebook.com/p/CXR-Concept-Trucks-Fan-Concept-Project-61590150430627/",
+    "https://www.facebook.com/thegentleroar/videos/corvette-cxr-vision-gt-americas-future-at-full-speed/4526966594116056/",
+    "https://www.facebook.com/planettrenzilore/",
+    "https://www.facebook.com/100054374357071/posts/%E7%A6%8F%E5%B1%B1%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%86%85%E6%A5%AD%E7%95%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB-cxr-cxr-%E5%91%89%E5%B8%82-%E9%9D%9E%E7%A0%B4%E5%A3%8A%E6%A4%9C%E6%9F%BB%E3%81%AE%E4%BC%9A%E7%A4%BE-%E6%A5%AD%E7%95%8C%E8%AA%AC%E6%98%8E%E4%BC%9A-%E6%A5%AD%E7%95%8C%E7%A0%94%E7%A9%B6-%E5%AD%A6%E5%86%85%E8%AA%AC%E6%98%8E%E4%BC%9A/2968131046806888/",
+    "https://www.facebook.com/p/株式会社シーエックスアール-100054374357071/"
+   ]
+  },
+  {
+   "query": "シーエックスアール note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://diamond.jp/articles/-/388572",
+    "https://x.com/sadaaki",
+    "https://cxr.co.jp/company/organization/",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "シーエックスアール X 投稿",
+   "results": [
+    "https://x.com/CXR_pr",
+    "https://cxr.co.jp/socialpolicy/",
+    "https://papers.miccai.org/miccai-2025/0856-Paper3344.html",
+    "https://intetour.jp/video/cxr-corp-1/",
+    "https://physionet.org/content/cxr-lt-iccv-workshop-cvamd/",
+    "https://www.mdpi.com/2078-2489/16/7/524",
+    "https://dl.acm.org/doi/abs/10.1007/978-3-032-04981-0_56",
+    "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB-100054374357071/",
+    "https://syukatsu-kaigi.jp/companies/18383/word_mouths",
+    "https://github.com/rajpurkarlab/CXR-RePaiR"
+   ]
+  }
+ ],
+ "missing": {}
+}

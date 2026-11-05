@@ -1,0 +1,780 @@
+{
+ "name": "ポリケミカル",
+ "aliases": [],
+ "context": "広島県／出典:県・市の企業ガイド／求人媒体:doda／想定年収:800〜800万円／従業員:不明",
+ "researched_at": "2026-11-05T07:30:15.433877+00:00",
+ "official_url": "https://www.mdp.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1960年12月14日",
+    "url": "https://www.mdp.jp/about_us/about_us.php",
+    "pass": 1
+   },
+   {
+    "label": "設立年",
+    "value": "設立年：1960年",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "〒104-0028 東京都中央区八重洲2-2-1 東京ミッドタウン八重洲 八重洲セントラルタワー19階 TEL.03-6880-7650 （代表）",
+    "url": "https://www.mdp.jp/about_us/about_us.php",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒104-0028 東京都中央区八重洲2-2-1 東京ミッドタウン八重洲  八重洲セントラルタワー19階",
+    "url": "https://www.mdp.jp/about_us/offices.php",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒739-0601　広島県大竹市東栄２丁目1番21号",
+    "url": "https://www.mdp.jp/about_us/offices.php",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒299-0108　千葉県市原市千種海岸6番地",
+    "url": "https://www.mdp.jp/about_us/offices.php",
+    "pass": 1
+   },
+   {
+    "label": "② 住所に手紙を送る",
+    "value": "〒104-0028 東京都中央区八重洲2-2-1 東京ミッドタウン八重洲 八重洲セントラルタワー19階",
+    "url": "https://www.mdp.jp/about_us/mdphotline.php",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "東京都港区東新橋1-5-2 汐留シティセンター",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "64億8千万円",
+    "url": "https://www.mdp.jp/about_us/about_us.php",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "6,480百万円",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "取適法における 従業員数",
+    "value": "常時使用する従業員数 254名（2026年11月1日現在） ※上記は、「製造委託等に係る中小受託事業者に対する代金の支払の遅延等の防止に関する法律（取適法）」における従業員基準の確認のために公表するものです。 ※取適法の適用の有無は、取引内容、資本金その他の要件を含め、個別の取引ごとに判断されます。",
+    "url": "https://www.mdp.jp/about_us/about_us.php",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "エチレン酢酸ビニルコポリマー、食品包装材やフィルム等に用途の広いアイオノマー樹脂等の製造販売",
+    "url": "https://www.mdp.jp/about_us/about_us.php",
+    "pass": 1
+   },
+   {
+    "label": "8.製品安全管理への取り組み",
+    "value": "（1）国内外の法規制や業界自主基準遵守に向けた取り組み （2）化学物質管理への取り組み",
+    "url": "https://www.mdp.jp/about_us/responsible.php",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 舘野均",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "当社を取り巻くステークホルダー ： お客様・取引先、株主・投資家、地域社会、産学界、政府・行政、従業員・労働市場、地球環境",
+    "url": "https://www.mdp.jp/about_us/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "2工場、1研究所",
+    "url": "https://www.mdp.jp/about_us/about_us.php",
+    "pass": 1
+   },
+   {
+    "quote": "大竹工場操業開始、ミラソン（低密度ポリエチレン）国産化",
+    "url": "https://www.mdp.jp/about_us/about_us.php",
+    "pass": 1
+   },
+   {
+    "quote": "千葉工場 高圧ガス優良製造所受賞（現：経済産業大臣賞）",
+    "url": "https://www.mdp.jp/about_us/about_us.php",
+    "pass": 1
+   },
+   {
+    "quote": "大竹工場 高圧ガス優良製造所受賞（現：経済産業大臣賞）",
+    "url": "https://www.mdp.jp/about_us/about_us.php",
+    "pass": 1
+   },
+   {
+    "quote": "大竹工場ISO9002 （品質保証に関する国際規格）認証取得",
+    "url": "https://www.mdp.jp/about_us/about_us.php",
+    "pass": 1
+   },
+   {
+    "quote": "千葉工場ISO9002 （品質保証に関する国際規格）認証取得",
+    "url": "https://www.mdp.jp/about_us/about_us.php",
+    "pass": 1
+   },
+   {
+    "quote": "大竹工場 安全優良賞受賞（現：厚生労働大臣賞）",
+    "url": "https://www.mdp.jp/about_us/about_us.php",
+    "pass": 1
+   },
+   {
+    "quote": "千葉工場ISO14001 （環境に関する国際規格）認証取得",
+    "url": "https://www.mdp.jp/about_us/about_us.php",
+    "pass": 1
+   },
+   {
+    "quote": "大竹工場ISO14001 （環境に関する国際規格）認証取得",
+    "url": "https://www.mdp.jp/about_us/about_us.php",
+    "pass": 1
+   },
+   {
+    "quote": "瀬戸内海に臨む広島県大竹市にある大竹工場は、三井化学を中心として、1958年に発足した我が国最初の石油化学コンビナートの一角をなしています",
+    "url": "https://www.mdp.jp/about_us/offices.php",
+    "pass": 1
+   },
+   {
+    "quote": "タクシーご乗車時「三井･ダウ ポリケミカルまで」もしくは「三井化学の大竹工場側まで」とお伝えください",
+    "url": "https://www.mdp.jp/about_us/offices.php",
+    "pass": 1
+   },
+   {
+    "quote": "（三井化学は小瀬川を境に岩国工場・大竹工場と分かれていますので、お気を付け下さい",
+    "url": "https://www.mdp.jp/about_us/offices.php",
+    "pass": 1
+   },
+   {
+    "quote": "千葉県市原市にある千葉工場は、東京湾沿岸に広がる京葉臨海工業地帯の三井化学コンビナートの一角に位置しています",
+    "url": "https://www.mdp.jp/about_us/offices.php",
+    "pass": 1
+   },
+   {
+    "quote": "TEL. 0436-62-3236（千葉工場代表）",
+    "url": "https://www.mdp.jp/about_us/offices.php",
+    "pass": 1
+   },
+   {
+    "quote": "千葉工場・テクニカルセンターのアクセス方法",
+    "url": "https://www.mdp.jp/about_us/offices.php",
+    "pass": 1
+   },
+   {
+    "quote": "（「1階：テクニカルセンター」・「2階：千葉工場」と表示有り）",
+    "url": "https://www.mdp.jp/about_us/offices.php",
+    "pass": 1
+   },
+   {
+    "quote": "これは、弊社社員のみならず、社員の家族、工場協力会社、原料・資機材供給元、弊社製品販売先、委託加工先の方々をはじめ、",
+    "url": "https://www.mdp.jp/about_us/mdphotline.php",
+    "pass": 1
+   },
+   {
+    "quote": "調達においては、グローバルな視点でサプライチェーン全体における環境・社会的責任を果たすために、お取引先様との強いパートナーシップ構築が重要であると考えております",
+    "url": "https://www.mdp.jp/about_us/sustainableprocurement.php",
+    "pass": 1
+   },
+   {
+    "quote": "また、これらの取り組みが、お取引先様と当社相互の持続可能な発展に寄与すると認識しています",
+    "url": "https://www.mdp.jp/about_us/sustainableprocurement.php",
+    "pass": 1
+   },
+   {
+    "quote": "このような観点で、お取引先様に当社と共に取り組んで頂きたいことを、「三井・ダウ ポリケミカル 持続可能な調達ガイドライン」として取りまとめました",
+    "url": "https://www.mdp.jp/about_us/sustainableprocurement.php",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先各社様には、本ガイドラインの趣旨をご理解、賛同いただき、下記の内容への取り組みをお願いします",
+    "url": "https://www.mdp.jp/about_us/sustainableprocurement.php",
+    "pass": 1
+   },
+   {
+    "quote": "2.顧客や取引先等との不適切な利益の授受の防止",
+    "url": "https://www.mdp.jp/about_us/sustainableprocurement.php",
+    "pass": 1
+   },
+   {
+    "quote": "営業または購買活動等において、顧客や取引先等との間で、過剰な贈答、接待、癒着を行わず、健全な関係を維持する",
+    "url": "https://www.mdp.jp/about_us/sustainableprocurement.php",
+    "pass": 1
+   },
+   {
+    "quote": "顧客や取引先、自社等の機密情報が漏洩することのないように適切に管理を行う",
+    "url": "https://www.mdp.jp/about_us/sustainableprocurement.php",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客、取引先、従業員等の個人情報を適切に管理・保護する",
+    "url": "https://www.mdp.jp/about_us/sustainableprocurement.php",
+    "pass": 1
+   },
+   {
+    "quote": "自社のみならず、サプライチェーン全体を通じて社会的責任を果たすため、取引先に対する持続可能な調達の意義及び当社人権方針の周知・浸透に努める",
+    "url": "https://www.mdp.jp/about_us/sustainableprocurement.php",
+    "pass": 1
+   },
+   {
+    "quote": "三井・ダウ ポリケミカルは、お取引先様とともに「持続可能な調達」を実現するため、本ガイドラインへの合意を取引における前提とさせて頂きます",
+    "url": "https://www.mdp.jp/about_us/sustainableprocurement.php",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様、再委託先様には、本ガイドラインが定める基準の遵守、及びそのための継続的な維持・改善が実現できるよう、管理体制や仕組みの整備と構築をお願いします",
+    "url": "https://www.mdp.jp/about_us/sustainableprocurement.php",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様におかれましては、再委託先様への浸透・普及にもご協力頂き、三井・ダウ ポリケミカルから要請があった際には、再委託先様の遵守状況をご提供頂ける体制の構築をお願いします",
+    "url": "https://www.mdp.jp/about_us/sustainableprocurement.php",
+    "pass": 1
+   },
+   {
+    "quote": "尚、ご回答・ご対応の結果、本ガイドラインの逸脱が疑われる場合においては、お取引先様、再委託先様に対し、当社または第三者による面談等による確認の受け入れを要請します",
+    "url": "https://www.mdp.jp/about_us/sustainableprocurement.php",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、弊社工場の労務費や副資材コストが継続的に増加しているほか、様々な経費についても継続的かつ大幅に上昇しております",
+    "url": "https://www.mdp.jp/news/2026/0414.php",
+    "pass": 1
+   },
+   {
+    "quote": "このような環境下、弊社では継続的なコスト削減に努めておりますが、製品の安定供給および工場の安全・安定操業を確保するためには、自助努力のみでこれらのコスト上昇分を吸収することが困難な状況となっております",
+    "url": "https://www.mdp.jp/news/2026/0414.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月25日納入分より",
+    "url": "https://www.mdp.jp/news/2026/0414.php",
+    "pass": 1
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "64億8千万円",
+    "url": "https://www.mdp.jp/about_us/about_us.php",
+    "pass": 1
+   },
+   {
+    "quote": "三井・ダウポリケミカルの「年収・給与制度」 OpenWork",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "三井・ダウポリケミカルの「年収・給与制度」 ＜社員のクチコミ情報＞",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "OpenWorkでは全体の平均年収だけではなく、職種別や年齢別の平均年収も掲載しています",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "また、基本給、残業代、賞与などの給与内訳や、給与制度、評価制度の詳細も掲載しています",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "三井・ダウポリケミカルの同業界の「年収・給与制度」",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 基本的には年功序列が色濃く反映される",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "「ENEOS Xplora」の年収・給与制度",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 待遇面全般の満足度は間違いなく国内企業最高峰",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 比較的高い給与体系のため、辞めづらい人間も多くいる印象 評価制度： ....",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 基本給に深夜勤などの手当が支給される制度でした",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "40万件以上の年収データを元に作成",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "6,480百万円",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "Q.この企業の参考となる年収事例を教えてください",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "また、給与制度（賞与・昇給・各種手当など）や評価制度には、どのような特徴がありますか？",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "三井・ダウ ポリケミカル 株式会社の平均 年収 、給与情報 - doda — 三井・ダウ ポリケミカル 株式会社の平均 年収 、給与情報 - doda doda https://doda.jp > CompanyIncome > j_id__00001212637",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__00001212637/",
+    "pass": 3
+   },
+   {
+    "quote": "三井・ダウ ポリケミカル の「 年収 ・給与制度」 OpenWork — 三井・ダウ ポリケミカル の「 年収 ・給与制度」 OpenWork OpenWork https://www.openwork.jp > ... > 三井・ダウポリケミカル",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "三井・ダウ ポリケミカル の評判・口コミ - エン カイシャの評判 — 三井・ダウ ポリケミカル の評判・口コミ - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > メーカー（化学）業界",
+    "url": "https://en-hyouban.com/company/10105560490/",
+    "pass": 3
+   },
+   {
+    "quote": "ポリケミカル 新卒 高卒 の求人情報をすべて見る （136件） — ポリケミカル 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "官報決算データベース on X: \"三井・ダウ ポリケミカル 株式 ... 官報決算データベース on X: \"三井・ダウ ポリケミカル 株式 ... X https://x.com > @kessan_db",
+    "url": "https://x.com/kessan_db/status/1869886409521410469",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "出羽 保之 - 三井・ダウ ポリケミカル - 工場長 | LinkedInDow-Mitsui Polychemicals starts marketing of biomass EVA and ...Dow-Mitsui Polychemicals Acquires ISCC PLUS Certification ...Kyosuke Abe - Mitsui Chemicals Asia Pacific (MCAP) | LinkedInJudit Csenge Vizi - AI Enablement Coach | Change Management ...Sophie Laursen - Data Entrepreneur & Fundraising Specialist ... 三井・ダウ ポリケミカル - 工場長 · 職歴: 三井・ダウ ポリケミカル · 場所: 市原。 10",
+    "url": "https://jp.linkedin.com/in/保之-出羽-26abb0253",
+    "pass": 3
+   },
+   {
+    "quote": "Dow-Mitsui Polychemicals starts marketing of biomass EVA and ... Read the full press release from our website at https://lnkd.in/eQME-MrS 三井・ダウ ポリケミカル株式会社は、2024 年9 月1日より、マスバランス方式による ...",
+    "url": "https://www.linkedin.com/posts/mitsui-chemicals-group_dow-mitsui-polychemicals-starts-marketing-activity-7236281772282433537-HY4S",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "東洋メタルポリケミカル株式会社 - Facebook東洋メタルポリケミカル株式会社 - TMKコーティング...Facebook - log in or sign upYumiko Kubo (@yumiko.kubo.969) • Facebook, Connect with friendsHideo Akimoto (@hideo.akimoto.7) • Facebook, Connect with friendsNitoya Haduki - Facebook防爆仕様のスマートグラスやiPad、電子黒板を採用。工場での「現場作... Oct 28, 2015 · ホームページのURLを変更しました。 新しいURLは http://toyometal-polychemical.jp です。 TOYOMETAL-POLYCHEMICAL.JP ポリイミド樹脂コーティング〜東洋メタルポリ",
+    "url": "https://www.facebook.com/toyometal.polychemical/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mdp.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdp.jp/about_us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdp.jp/about_us/message.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdp.jp/about_us/about_us.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdp.jp/about_us/offices.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdp.jp/about_us/responsible.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdp.jp/about_us/mdphotline.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdp.jp/about_us/humanrights.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdp.jp/about_us/sustainableprocurement.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdp.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdp.jp/news/2026/0414.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdp.jp/contact_us/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mdp.jp/asset/image/about_us/index/sec01_image02.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__00001212637/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/viewjob?jk=aa40b9a2ee31f05f",
+    "status": "http_401",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.mitsuichemicals.com/jp/career/newgraduates/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomo-chem.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kessan_db/status/1869886409521410469",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/保之-出羽-26abb0253",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/mitsui-chemicals-group_dow-mitsui-polychemicals-starts-marketing-activity-7236281772282433537-HY4S",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/toyometal.polychemical/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ポリケミカル 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__00001212637/",
+    "https://jp.indeed.com/viewjob?jk=aa40b9a2ee31f05f",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2",
+    "https://www.jac-recruitment.jp/search/NJB2353275/",
+    "https://en-hyouban.com/company/10105560490/",
+    "https://tenshoku.mynavi.jp/jobinfo-392862-5-5-1/",
+    "https://doda.jp/DodaFront/View/Company/j_id__00001212637/",
+    "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%88%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%AE%E5%B9%B4%E5%8F%8E",
+    "https://www.bizreach.jp/jobs/category/IC04/KW%E3%83%9D%E3%83%AA%E3%83%9E%E3%83%BC/",
+    "https://note.com/projinji3dann/n/nb5c65b0be64c"
+   ]
+  },
+  {
+   "query": "ポリケミカル 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://jp.mitsuichemicals.com/jp/career/newgraduates/index.htm",
+    "https://www.sumitomo-chem.co.jp/recruit/",
+    "https://www.crasus.co.jp/recruit/",
+    "https://www.m-chemical.co.jp/saiyo/top/",
+    "https://www.saiyo-sc.com/information/",
+    "https://mci-recruit.snar.jp/jobboard/detail.aspx?id=xWTLNxvy2__fduxCoT0-vw",
+    "https://www.nisshinbo-chem.co.jp/recruit/index.html",
+    "https://tenshoku.mynavi.jp/shutoken/list/o181/kw%E9%AB%98%E5%8D%92/",
+    "https://xn--pckua2a7gp15o89zb.com/%E5%8C%96%E5%AD%A6-%E9%AB%98%E5%8D%92%E3%81%AE%E4%BB%95%E4%BA%8B"
+   ]
+  },
+  {
+   "query": "site:note.com ポリケミカル",
+   "results": [
+    "https://note.com/toshihito_iwai/n/n7b5868219adc",
+    "https://note.com/1p_semicon/n/n5b4c4c67d38e",
+    "https://note.com/3233400r/n/n369abc689ac7",
+    "https://note.com/fbrc/n/ne9b139fc324d",
+    "https://note.com/bioworks/n/n3d61f740dc16",
+    "https://note.com/shiki_chem/n/nb4c445d147f1",
+    "https://note.com/gacchiri/n/n55272887ef08",
+    "https://note.com/bioworks/n/n7209571cdda5",
+    "https://note.com/yu_py/n/n86bc4579ae0b",
+    "https://note.com/better_equation/n/n8dfb0e7d7595"
+   ]
+  },
+  {
+   "query": "site:x.com ポリケミカル",
+   "results": [
+    "https://x.com/kessan_db/status/1869886409521410469",
+    "https://x.com/mcgc_jp/status/1967756141972296023",
+    "https://x.com/mcgc_jp/status/1917383403294617807",
+    "https://x.com/chemicaldailyad/status/2066656079866675391",
+    "https://x.com/DaigasLab/status/2055093467865600133",
+    "https://x.com/chemicaldailyad/status/2054322854758670460",
+    "https://x.com/nippon_steel_/status/1439793941000323076",
+    "https://x.com/chemicaldailyad/status/1958310510333734983",
+    "https://x.com/DaigasLab/status/2054351145611808791",
+    "https://x.com/polychem_HU_J"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ポリケミカル",
+   "results": [
+    "https://jp.linkedin.com/in/保之-出羽-26abb0253",
+    "https://sg.linkedin.com/in/kyosuke-abe-9a77a6201",
+    "https://jp.linkedin.com/in/敦司-前田-b49393236/en",
+    "https://www.linkedin.com/posts/mitsui-chemicals-group_dow-mitsui-polychemicals-starts-marketing-activity-7236281772282433537-HY4S",
+    "https://www.linkedin.com/posts/mitsui-chemicals-group_dow-mitsui-polychemicals-acquires-iscc-plus-activity-7209758670698463232-fjrH",
+    "https://hu.linkedin.com/in/judit-csenge-vizi",
+    "https://dk.linkedin.com/in/sophie-laursen-69b89025"
+   ]
+  },
+  {
+   "query": "site:facebook.com ポリケミカル",
+   "results": [
+    "https://www.facebook.com/toyometal.polychemical/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/yumiko.kubo.969/",
+    "https://www.facebook.com/hideo.akimoto.7/",
+    "https://www.facebook.com/toyometal.polychemical/posts/ｔｍｋコーティングｔｍｋコーティングは熱硬化性樹脂ポリイミド樹脂と四フッ化エチレン樹脂フッ素樹脂の特性を最大限利用した高性能固体潤滑材です無給油軸受の一番の問題/422249814555294/",
+    "https://www.facebook.com/haduki28th/",
+    "https://www.facebook.com/reel/334398881210247/"
+   ]
+  },
+  {
+   "query": "ポリケミカル note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.mdp.jp/about_us/message.php",
+    "https://note.com/sadaaki",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.j-polyethylene.com/cms/wp-content/uploads/2024/02/JPE役員人事20240226リリース.pdf",
+    "https://www.j-pochem.com/company/message/",
+    "https://www.j-pochem.com/news/501/"
+   ]
+  },
+  {
+   "query": "ポリケミカル X 投稿",
+   "results": [
+    "https://x.com/kemikemixxxx",
+    "https://x.com/kemikemixxxx/status/2103391174321127454",
+    "https://www.pixiv.net/tags/ケミカルX",
+    "https://kemikemixxxx.booth.pm/",
+    "https://www.pixiv.net/",
+    "https://ja.namu.wiki/w/케미컬X",
+    "https://www.pixiv.help/hc/ja/articles/8130639964057-マンガ-イラストをXにリプライツリー形式で投稿したい"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部10頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部10頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部10頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部10頁・検索8回）"
+ }
+}

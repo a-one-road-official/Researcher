@@ -1,0 +1,246 @@
+{
+ "name": "141",
+ "aliases": [],
+ "context": "山口県周南市／出典:大学・高専の企業説明会／求人媒体:Indeed;エン転職;タウンワーク／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T07:21:32.616937+00:00",
+ "official_url": "https://ladol.info/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "山口県周南市毛利町3−40 地図（googleマップ）",
+    "url": "https://ladol.info/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒745-0004 山口県周南市毛利町3丁目40番地 電話番号：0834-32-5853 FAX： 0834-32-5853 ご連絡頂ければ、面接日程などお話します。",
+    "url": "https://ladol.info/recruit-2204/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創立",
+    "value": "創立：平成2年10月",
+    "url": "https://ladol.info/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "充填業務・構内作業・入出荷業務・構内倉庫・製品保管業務・運転支援業務・産業廃棄物収集運搬",
+    "url": "https://ladol.info/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "水本直人",
+    "url": "https://ladol.info/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {},
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ladol.info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ladol.info/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ladol.info/recruit-2204/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ladol.info/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ladol.info/category/recruit/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.jac-recruitment.us/ja/jobs/over80000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE141-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/keyword/%E5%B9%B4%E5%8F%8E%EF%BC%94%EF%BC%90%EF%BC%90%E4%B8%87%E3%80%80%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%80%80%E5%9C%A8%E5%AE%85%E5%8B%A4%E5%8B%99/141/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=141+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=vaV1diwHBFw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.harikennabi.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "141 求人 年収",
+   "results": [
+    "https://www.jac-recruitment.us/ja/jobs/over80000",
+    "https://jp.indeed.com/q-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE141-%E6%B1%82%E4%BA%BA.html",
+    "https://doda.jp/keyword/%E5%B9%B4%E5%8F%8E%EF%BC%94%EF%BC%90%EF%BC%90%E4%B8%87%E3%80%80%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%80%80%E5%9C%A8%E5%AE%85%E5%8B%A4%E5%8B%99/141/",
+    "https://tenshoku.mynavi.jp/jobinfo-161900-1-907-1/",
+    "https://kango.benesse-careeros.co.jp/sal02/page141/",
+    "https://townwork.net/job_search/kw/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE141/",
+    "https://www.daijob.com/jobs/search_result?job_post_language=2&pg=0&ns=100000000&page=141&yc=4&xs=130000000",
+    "https://hr.aitworks.com/salary/80k-year/",
+    "https://jp.indeed.com/q-%E5%85%AC%E5%9C%92-141%E4%B8%87%E5%86%86-145%E4%B8%87%E5%86%86-%E6%B1%82%E4%BA%BA.html",
+    "https://jp.indeed.com/q-141-求人.html"
+   ]
+  },
+  {
+   "query": "141 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=141+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.youtube.com/watch?v=vaV1diwHBFw",
+    "https://www.harikennabi.jp/",
+    "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002267080.pdf",
+    "https://kousotsusaiyo-bank.jp/column/merit-highschool-newgraduate",
+    "https://mizusaki-inc.com/knowledge/article63",
+    "https://www.tdk.com/ja/careers/recruit/index.html",
+    "https://www.s1-shint.com/service1.html",
+    "https://www.notoinsatu.co.jp/note/kousotsu-saiyo/",
+    "https://jinjib.co.jp/business/rule"
+   ]
+  },
+  {
+   "query": "site:note.com 141",
+   "results": [
+    "https://note.com/108hassium/n/n3219d9668093",
+    "https://note.com/bespokepartner/n/naa7150d0b88c?sub_rt=share_pw",
+    "https://note.com/sololeve_gacha/n/n462e0a059027",
+    "https://note.com/shueishabunko/n/n20db905a6ff1",
+    "https://note.com/4270/n/n1b5d1f84797a?hl=en",
+    "https://note.com/ginger_tokyo/n/n3b25cfabac11?hl=en",
+    "https://note.com/kohji_yoshida/n/nbf5d65a71b5a?hl=en",
+    "https://note.com/amikajp/n/naedf56878bfb",
+    "https://note.com/noted_whale1048/n/n9f6c6b63e725",
+    "https://note.com/nanairo_tatting/n/n16245929e737?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com 141",
+   "results": [
+    "https://x.com/IAMDistrict141",
+    "https://x.com/MACSports/status/2116252044835393914",
+    "https://x.com/ASUWrestling/status/2116663732000670203",
+    "https://x.com/CowboyWrestling/status/2116967385349382156",
+    "https://x.com/HOBAFC/status/2116555666856804444",
+    "https://x.com/BigTenNetwork/status/2106489119274856877",
+    "https://x.com/theScore/status/2113489875572072548",
+    "https://x.com/CowboyWrestling/status/2115230248635645967",
+    "https://x.com/CowboyWrestling/status/2117009819626303695",
+    "https://x.com/MikeZaccardi/status/2113625284628926812"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 141",
+   "results": [
+    "https://www.linkedin.com/company/141-capital",
+    "https://www.linkedin.com/pulse/3-work-trends-issue-141-world-economic-forum-8zxnf",
+    "https://www.linkedin.com/pulse/coding-challenge-141-tail-john-crickett-n60de",
+    "https://www.linkedin.com/posts/eastdil-secured_eastdilsecuredsavills-thetrustedadvisor-activity-7519399495089180672-hDGA",
+    "https://is.linkedin.com/jobs/%E8%B0%B7%E6%AD%8C%E8%9C%98%E8%9B%9B%E6%B1%A0%E2%98%BEg%CD%87g%CD%87t%CD%87g%CD%87s%CD%87e%CD%87o%CD%87.%CD%87c%CD%87o%CD%87m%CD%87%E2%98%BDgoogle%E6%8E%A8%E5%B9%BF.dhv-jobs",
+    "https://www.linkedin.com/posts/rafael-oliveira-11809a1_rafaselfie-activity-7489993504769900544-rhPi",
+    "https://www.linkedin.com/posts/brettadcock_f03-can-now-climb-a-ladder-fully-autonomous-activity-7489341791448629250-HoUn",
+    "https://www.linkedin.com/posts/cynthiaoconnor1977_newbeginnings-leadership-humanresources-activity-7488932783982129152-ZoP9",
+    "https://ca.linkedin.com/jobs/workforce-manager-jobs-regina-sk",
+    "https://www.linkedin.com/pulse/pt-141-peptide-comprehensive-guide-men-emily-dai-4caqc"
+   ]
+  },
+  {
+   "query": "site:facebook.com 141",
+   "results": [
+    "https://www.facebook.com/IAMDistrict141/",
+    "https://www.facebook.com/Mesacountysheriffsoffice/posts/both-directions-of-highway-141-between-gateway-and-whitewater-remain-closed-this/1544359111066692/",
+    "https://www.facebook.com/141recordsofficial/",
+    "https://www.facebook.com/kcci8/posts/johnston-got-500000-in-federal-funding-for-a-highway-141-project-city-leaders-sa/1501553162012243/",
+    "https://www.facebook.com/groups/1479489678941072/posts/4601376513419024/",
+    "https://www.facebook.com/MoDOTStatewide/posts/the-ramp-from-sb-21-onto-route-141-is-now-getting-closed-the-remainder-of-route-/10154564253950857/",
+    "https://www.facebook.com/groups/698593531630485/posts/1713409490148879/",
+    "https://www.facebook.com/groups/2354748741306929/posts/6185686251546473/",
+    "https://www.facebook.com/LincolnElementarySchool141/",
+    "https://www.facebook.com/groups/greenknights141/"
+   ]
+  },
+  {
+   "query": "141 note 社長",
+   "results": [
+    "https://note.com/dj141/all",
+    "https://note.com/witem/n/nef730e88fc8f",
+    "https://note.com/dj141/n/nbe09b7bafbe8",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/dj141/n/nf40930370d91",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.facebook.com/cartaholdings/posts/note%E8%A8%98%E4%BA%8B-carta-holdings%E7%A4%BE%E9%95%B7%E3%81%AE%E3%81%8A%E8%A9%B1%E3%82%92%E3%81%8A%E5%B1%8A%E3%81%91carta-holdings%E7%A4%BE%E9%95%B7-%E5%AE%87%E4%BD%90%E7%BE%8E-%E9%80%B2%E5%85%B8-%E3%81%8Cnote%E3%82%92%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F25%E5%B9%B4%E5%89%8D%E3%81%AB%E8%B5%B7%E6%A5%AD%E3%81%BE%E3%81%A7%E3%81%AE%E8%A9%B1%E3%82%92%E3%81%BE%E3%81%A8/951157320389044/",
+    "https://x.com/sadaaki",
+    "https://www.fastgrow.jp/media_articles/5395",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "141 X 投稿",
+   "results": [
+    "https://x.com/141soldierr",
+    "https://www.reddit.com/r/SpyxFamily/comments/1x3ahhi/disc_spy_x_family_chapter_141/",
+    "https://linktr.ee/141soldier",
+    "https://note.com/sju/n/naae43687df10",
+    "https://developer.chrome.com/release-notes/141?hl=ja",
+    "https://shonenjumpplus.com/episode/9253191257227135660",
+    "https://www.youtube.com/watch?v=QrFswBvPKQw",
+    "https://www.sunday-webry.com/episode/2550912965320980730",
+    "https://koneta.nifty.com/koneta_detail/1141008024346_1.htm",
+    "https://www.businessinsider.jp/article/297498/"
+   ]
+  }
+ ],
+ "missing": {
+  "資本金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用ページ": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "想定年収・給与": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "取引先・規模": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）"
+ }
+}

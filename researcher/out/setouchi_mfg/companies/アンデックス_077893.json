@@ -1,0 +1,660 @@
+{
+ "name": "アンデックス",
+ "aliases": [],
+ "context": "広島県広島市／出典:県・市の企業ガイド／求人媒体:Indeed;doda;求人ボックス／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T07:27:32.186627+00:00",
+ "official_url": "https://www.andex.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設　立",
+    "value": "設　立：1971年9月",
+    "url": "https://www.andex.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設　立",
+    "value": "設　立：1971年9月",
+    "url": "https://www.andex.co.jp/recruit/about/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://www.andex.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://www.andex.co.jp/recruit/about/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "吉田 伸",
+    "url": "https://www.andex.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役社長",
+    "value": "吉田 伸",
+    "url": "https://www.andex.co.jp/recruit/about/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本　社",
+    "value": "〒722-0051　広島県尾道市東尾道15-29 TEL 0848-46-3711　FAX 0848-47-1211 〒722-0051　広島県尾道市東尾道15-29 TEL 0848-46-3711　FAX 0848-47-1211",
+    "url": "https://www.andex.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "本　社",
+    "value": "〒722-0051　広島県尾道市東尾道15-29 TEL 0848-46-3711　FAX 0848-47-1211",
+    "url": "https://www.andex.co.jp/recruit/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "製造部山波工場 7年目",
+    "url": "https://www.andex.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製造部本社工場 11年目",
+    "url": "https://www.andex.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製造部山波工場 5年目",
+    "url": "https://www.andex.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の主力製品「自動車用塗装設備」のシェアは国内トップクラスで、大手自動車メーカーなど、日本を代表する企業への納入実績も多数あります",
+    "url": "https://www.andex.co.jp/recruit/about/",
+    "pass": 1
+   },
+   {
+    "quote": "塗装ブースを中心とした当社の製品を製造する工場です",
+    "url": "https://www.andex.co.jp/recruit/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、お客様の工場のどこにブースやユニットを配置するか、無駄なく美しく納めることを大切にしています",
+    "url": "https://www.andex.co.jp/recruit/job/",
+    "pass": 1
+   },
+   {
+    "quote": "工場に行って観察することを大切にしています",
+    "url": "https://www.andex.co.jp/recruit/job/",
+    "pass": 1
+   },
+   {
+    "quote": "ご発注頂いた設備を、客先の工場で組立、設置します",
+    "url": "https://www.andex.co.jp/recruit/job/",
+    "pass": 1
+   },
+   {
+    "quote": "工場から出荷するまでの装置関係の組立と製品の検査を行います",
+    "url": "https://www.andex.co.jp/recruit/job/",
+    "pass": 1
+   },
+   {
+    "quote": "製造部山波工場 7年目",
+    "url": "https://www.andex.co.jp/recruit/job/",
+    "pass": 1
+   },
+   {
+    "quote": "製造部本社工場 11年目",
+    "url": "https://www.andex.co.jp/recruit/job/",
+    "pass": 1
+   },
+   {
+    "quote": "製造部山波工場 5年目",
+    "url": "https://www.andex.co.jp/recruit/job/",
+    "pass": 1
+   },
+   {
+    "quote": "製造部山波工場 7年目",
+    "url": "https://www.andex.co.jp/recruit/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "製造部本社工場 11年目",
+    "url": "https://www.andex.co.jp/recruit/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "製造部山波工場 5年目",
+    "url": "https://www.andex.co.jp/recruit/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "主に塗装設備全般における機械図面の作図、社内の工場指導",
+    "url": "https://www.andex.co.jp/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工業、SUBARU、三菱重工業、新明和工業、住友精密工業、神戸製鋼所、東芝、住友重機械建機クレーン",
+    "url": "https://www.andex.co.jp/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "住友建機、ジェイ・バス、トヨタ自動車、三菱電機、パナソニック、JR西日本、JR東日本、近畿車輌、日本サルベージ",
+    "url": "https://www.andex.co.jp/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "3分で分かるANDEX | ANDEX 採用サイト",
+    "url": "https://www.andex.co.jp/recruit/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "社員インタビュー | ANDEX 採用サイト",
+    "url": "https://www.andex.co.jp/recruit/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用エントリーフォーム | ANDEX 採用サイト",
+    "url": "https://www.andex.co.jp/recruit/entry/",
+    "pass": 1
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "先輩社員と同行しユーザーニーズ、設備全般の知識の習得、業界の理解",
+    "url": "https://www.andex.co.jp/recruit/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "社員インタビュー | ANDEX 採用サイト",
+    "url": "https://www.andex.co.jp/recruit/interview/",
+    "pass": 1
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "大学卒：月給23万円（基本給）＋諸手当",
+    "url": "https://www.andex.co.jp/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "短大、高専、専門学校卒：21万円（基本給）＋諸手当",
+    "url": "https://www.andex.co.jp/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "高校卒：18万円（基本給）＋諸手当",
+    "url": "https://www.andex.co.jp/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "昇給年1回、賞与年2回（+決算賞与あり）、交通費支給",
+    "url": "https://www.andex.co.jp/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "ゲストハウス所有、資格取得支援制度、定年再雇用制度、社員持株会、決算賞与",
+    "url": "https://www.andex.co.jp/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "アンデックス 株式会社 の 求人 ・中途採用情報 - doda — アンデックス 株式会社 の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10002868386",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10002868386/",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項 | ANDEX 採用サイト - アンデックス — 募集要項 | ANDEX 採用サイト - アンデックス アンデックス株式会社 https://www.andex.co.jp > recruit > requirements",
+    "url": "https://www.andex.co.jp/recruit/requirements/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アンデックス の給与 - Indeed (インディード) — 株式会社 アンデックス の給与 - Indeed (インディード) Indeed https://jp.indeed.com > 株式会社アンデックス > salaries",
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "アンデックス 株式会社の 求人 ・仕事・採用 - スタンバイ — アンデックス 株式会社の 求人 ・仕事・採用 - スタンバイ スタンバイ https://jp.stanby.com > ...",
+    "url": "https://jp.stanby.com/r_a5943d7f6abc1b11f8827baca3aa9a13",
+    "pass": 3
+   },
+   {
+    "quote": "アンデックス株式会社 の求人情報（10件） — アンデックス株式会社 の求人情報（10件） スタンバイ",
+    "url": "https://jp.stanby.com/search?cp_id=220671&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "アンデックス 新卒 高卒 の求人情報をすべて見る （136件） — アンデックス 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項 | ANDEX 採用 サイト - アンデックス — 募集要項 | ANDEX 採用 サイト - アンデックス アンデックス株式会社 https://www.andex.co.jp > recruit > requirements",
+    "url": "https://www.andex.co.jp/recruit/requirements/",
+    "pass": 3
+   },
+   {
+    "quote": "アンデックス 株式会社「機械設計職(自動車補修塗装設備や ... — アンデックス 株式会社「機械設計職(自動車補修塗装設備や ... 就活ならリクナビ https://job.rikunabi.com > selection > job_descriptions",
+    "url": "https://job.rikunabi.com/selection/job_descriptions/503291695d6b5856",
+    "pass": 3
+   },
+   {
+    "quote": "アンデックス 株式会社 - 尾道市ふる里就職促進協議会 — アンデックス 株式会社 - 尾道市ふる里就職促進協議会 尾道市ふる里就職促進協議会 https://onomichi-f.com > recruit",
+    "url": "https://onomichi-f.com/recruit/o0003/",
+    "pass": 3
+   },
+   {
+    "quote": "アンデックス の 新卒採用 ・就職・企業情報 - 就活会議 — アンデックス の 新卒採用 ・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > companies",
+    "url": "https://syukatsu-kaigi.jp/companies/9630",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "アンデックス 株式会社 | Onomichi-shi Hiroshima - Facebook アンデックス 株式会社 | Onomichi-shi Hiroshima - Facebook Facebook https://www.facebook.com > アンデックス株式会社-1000...",
+    "url": "https://www.facebook.com/p/%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100057636908880/",
+    "pass": 3
+   },
+   {
+    "quote": "アンデックス 株式会社 | Sendai Miyagi - Facebook アンデックス 株式会社 | Sendai Miyagi - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/ANDEX.sendai/",
+    "pass": 3
+   },
+   {
+    "quote": "アンデックス ソリューション株式会社 新卒採用 - Facebook アンデックス ソリューション株式会社 新卒採用 - Facebook Facebook https://www.facebook.com > andex",
+    "url": "https://www.facebook.com/andex.saiyo/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.andex.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.andex.co.jp/works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.andex.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.andex.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.andex.co.jp/recruit/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.andex.co.jp/recruit/introduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.andex.co.jp/recruit/introduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.andex.co.jp/recruit/job/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.andex.co.jp/recruit/job/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.andex.co.jp/recruit/interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.andex.co.jp/recruit/requirements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.andex.co.jp/recruit/entry/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.andex.co.jp/andexwind/wp-content/themes/andexwind/img/common/logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.andex.co.jp/recruit/wp-content/uploads/2024/10/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-949.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10002868386/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.rikunabi.com/selection/job_descriptions/503291695d6b5856",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/p/%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100057636908880/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ANDEX.sendai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/andex.saiyo/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アンデックス 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10002868386/",
+    "https://www.andex.co.jp/recruit/requirements/",
+    "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9/salaries",
+    "https://jp.stanby.com/r_a5943d7f6abc1b11f8827baca3aa9a13",
+    "https://jp.stanby.com/search?cp_id=220671&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st",
+    "https://en-hyouban.com/company/10200239241/salary/",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10104879869/",
+    "https://xn--pckua2a7gp15o89zb.com/%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "https://www.openwork.jp/company.php?m_id=a0910000000G0c8",
+    "https://jobtalk.jp/companies/11351/answers?question_codes=earns"
+   ]
+  },
+  {
+   "query": "アンデックス 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.andex.co.jp/recruit/requirements/",
+    "https://job.rikunabi.com/selection/job_descriptions/503291695d6b5856",
+    "https://onomichi-f.com/recruit/o0003/",
+    "https://syukatsu-kaigi.jp/companies/9630",
+    "https://www.andex.co.jp/recruit/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10002868386/",
+    "https://and-ex.co.jp/recruit/",
+    "https://www.openwork.jp/company.php?m_id=a0910000000G0c8",
+    "https://www.facebook.com/andex.saiyo/"
+   ]
+  },
+  {
+   "query": "site:note.com アンデックス",
+   "results": [
+    "https://note.com/fishermanjapan/n/nb27a48c5a7a3",
+    "https://note.com/ylescegt/n/ne86fcaf6b51d",
+    "https://note.com/fishermanjapan/n/n0349911ae489",
+    "https://note.com/dx_miyagi/n/n4e9c99ec40b1",
+    "https://note.com/dapper_squid9109/n/nad9c6749da9e",
+    "https://note.com/ikoriheeeee/n/n33ca09d8b6ee",
+    "https://note.com/dx_miyagi/n/n2a4b67c45cd4",
+    "https://note.com/dx_miyagi/n/n539171af4c3f",
+    "https://note.com/dx_miyagi/n/n05ce66d0dddc",
+    "https://note.com/homepage_matome/n/ncff28e4ef051"
+   ]
+  },
+  {
+   "query": "site:x.com アンデックス",
+   "results": [
+    "https://x.com/keizairipoto/status/1983005436237566013",
+    "https://x.com/FM_Onomichi/status/2046432261034348913",
+    "https://x.com/mohikanmeriri/status/2111570698330116102",
+    "https://x.com/Andex_lion",
+    "https://x.com/andex_tokyo",
+    "https://x.com/GoikenJcm",
+    "https://x.com/E_kigyo",
+    "https://x.com/PGmechanism",
+    "https://x.com/andex_shoes",
+    "https://x.com/ManekinekoParis/status/2110831829658054951"
+   ]
+  },
+  {
+   "query": "site:linkedin.com アンデックス",
+   "results": [
+    "https://www.linkedin.com/company/andex-industries",
+    "https://ca.linkedin.com/in/thelma-chaves-325235175",
+    "https://hk.linkedin.com/in/andex-fung-76a93887",
+    "https://www.linkedin.com/posts/andex-rent-bvba_automotive-andex-activity-7522953151558389761-IXFm",
+    "https://www.linkedin.com/in/john-t-anthony",
+    "https://www.linkedin.com/company/andex-corp",
+    "https://ca.linkedin.com/in/kristopherleach",
+    "https://www.linkedin.com/in/joseph-menard-7090a9186",
+    "https://www.linkedin.com/posts/andex-rent-bvba_andex-bmw-activity-7505638196236623873-3EiR",
+    "https://pg.linkedin.com/in/andex-keya-15664131b"
+   ]
+  },
+  {
+   "query": "site:facebook.com アンデックス",
+   "results": [
+    "https://www.facebook.com/p/%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100057636908880/",
+    "https://www.facebook.com/ANDEX.sendai/",
+    "https://www.facebook.com/andexshoesproduct/?locale=ja_JP",
+    "https://www.facebook.com/andex.saiyo/",
+    "https://www.facebook.com/COCASHOP.ANDEX/",
+    "https://www.facebook.com/p/ANDEX-Baseball-Club-100054319579036/",
+    "https://www.facebook.com/binrepo/posts/%E7%94%A3%E6%A5%AD%E7%94%A8%E7%92%B0%E5%A2%83%E8%A8%AD%E5%82%99%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC55%E5%91%A8%E5%B9%B4%E3%81%AE%E7%AF%80%E7%9B%AE%E3%81%AB%E6%96%B0%E7%A4%BE%E5%B1%8B%E8%A8%88%E7%94%BB%E5%90%89%E7%94%B0-%E4%BC%B8%E3%81%95%E3%82%93%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9-%E7%A4%BE%E9%95%B7%E7%94%A3%E6%A5%AD%E7%94%A8%E7%92%B0%E5%A2%83%E8%A8%AD%E5%82%99%E3%81%AE%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E5%90%89%E7%94%B0%E4%BC%B8%E7%A4%BE%E9%95%B7%E3%81%AF%E6%9C%AC%E7%A4%BE%E6%A9%9F%E8%83%BD%E3%81%AE%E5%88%B7%E6%96%B0%E3%81%A8%E5%83%8D%E3%81%8F%E7%92%B0%E5%A2%83%E3%81%AE%E5%90%91%E4%B8%8A%E3%82%92/1415432457090670/",
+    "https://www.facebook.com/61560934035759/posts/%E4%BB%8A%E9%80%B1%E3%81%AF%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%B5%8C%E5%96%B6%E4%BC%81%E7%94%BB%E5%AE%A4%E3%81%AE%E5%B9%B3%E5%B2%A1%E7%BE%8E%E7%A9%82%E5%AD%90%E3%81%95%E3%82%93%E3%81%AB%E3%81%8A%E8%B6%8A%E3%81%97%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%EF%B8%8F%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E6%96%B0%E5%95%86%E5%93%81%E3%81%AF%E3%81%A3%E3%81%95%E3%81%8F%E3%81%AE%E9%A6%99%E3%82%8A%E3%81%AE%E3%83%95%E3%83%AC%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B9%E9%9B%ABonomichi%E3%81%8C%E3%81%B2%E3%82%8D%E3%81%97%E3%81%BE%E3%82%B0%E3%83%83%E3%83%88%E3%83%87/122187079178364467/",
+    "https://www.facebook.com/TimeCapsuleInc/photos/%E5%AE%AE%E5%9F%8E%E7%9C%8C%E4%BB%99%E5%8F%B0%E5%B8%82%E3%81%AB%E6%9C%AC%E7%A4%BE%E3%82%92%E6%A7%8B%E3%81%88%E3%82%8B%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%B8%89%E5%B6%8B%E7%A4%BE%E9%95%B7%E3%81%AF%E5%B9%B3%E6%88%9026%E5%B9%B4%E3%82%88%E3%82%8A%E6%9D%BE%E5%B3%B6%E6%B9%BE%E8%BF%91%E6%B5%B7%E3%81%AB%E3%81%A6%E6%B0%B4%E7%94%A3%E6%A5%AD%E3%81%B8%E3%81%AEit%E5%88%A9%E6%B4%BB%E7%94%A8%E6%8E%A8%E9%80%B2%E3%81%AB%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E6%9D%BE%E5%B3%B6%E6%B9%BE%E5%91%A8%E8%BE%BA%E6%B5%B7%E5%9F%9F%E3%81%A7%E7%89%A1%E8%A0%A3%E9%A4%8A%E6%AE%96%E3%81%A8%E6%B5%B7%E8%8B%94/1800756889997944/"
+   ]
+  },
+  {
+   "query": "アンデックス note 社長",
+   "results": [
+    "https://www.andex.co.jp/company/",
+    "https://www.nikkan.co.jp/articles/view/645595",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/sadaaki",
+    "https://and-ex.co.jp/company-3/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9",
+    "https://gakurepo.com/2017/07/andex/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://ja.wikipedia.org/wiki/吉田伸_(実業家)"
+   ]
+  },
+  {
+   "query": "アンデックス X 投稿",
+   "results": [
+    "https://x.com/andex_vuhieu",
+    "https://and-ex.co.jp/news/",
+    "https://www.andex.co.jp/",
+    "https://syukatsu-kaigi.jp/companies/9630",
+    "https://www.andex-shoes-product.jp/c/outlet/mens",
+    "https://www.instagram.com/andex_cab/",
+    "https://www.material-expo.jp/tokyo/en-gb/search/2026mwt0930/directory/details.org-0a1fca0a-46b3-4803-9b02-fd8d48fd5b84.html",
+    "https://www.sbic-wj.co.jp/outline/sort/22782/",
+    "https://www.pref.hiroshima.lg.jp/site/onlyonenoonezigyou/1172024867673.html",
+    "https://x.com/hfjdoshf/reposts"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像2件／外部7頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像2件／外部7頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式12頁／PDF・画像2件／外部7頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像2件／外部7頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式12頁／PDF・画像2件／外部7頁・検索8回）"
+ }
+}

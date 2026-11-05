@@ -1,0 +1,275 @@
+{
+ "name": "146",
+ "aliases": [],
+ "context": "山口県周南市／出典:大学・高専の企業説明会／求人媒体:Indeed;doda／想定年収:500〜1000万円／従業員:4",
+ "researched_at": "2026-11-05T07:21:53.206255+00:00",
+ "official_url": "https://kaiyo-div.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒742-1102　山口県熊毛郡平生町大字平生村１４６番地",
+    "url": "https://kaiyo-div.jp/aboutus",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：昭和５５年１月",
+    "url": "https://kaiyo-div.jp/aboutus",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "10,000,000円",
+    "url": "https://kaiyo-div.jp/aboutus",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　稲垣和典",
+    "url": "https://kaiyo-div.jp/aboutus",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "４名　(協力工１６名)",
+    "url": "https://kaiyo-div.jp/aboutus",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "(１)港湾、海洋土木工事及び陸上土木工事全般 (２)船渠、船体防水工事、防食工事 (３)水中構造物の切断、溶接、組立及び解体工事 (４)水中写真撮影、水中ビデオ撮影及び編集 (５)磁気探査（水中）及び漁礁調査 (６)管工事の調査、施工 (７)海難及び捜索 (８)海底ケーブルの撤去・敷設工事 (９)無人航空機による空撮、測量支援業務 (10)無人潜水機による水中撮影、監察業務 上記工事の請負、施行、管理",
+    "url": "https://kaiyo-div.jp/aboutus",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {},
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://kaiyo-div.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaiyo-div.jp/aboutus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaiyo-div.jp/aboutus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaiyo-div.jp/recruit",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kaiyo-div.jp/inquiry?cf_field_1=https%3A%2F%2Fkaiyo-div.jp%2Faboutus&cf_field_2=%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaiyo-div.jp/inquiry?cf_field_1=https%3A%2F%2Fkaiyo-div.jp%2Frecruit&cf_field_2=%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://kaiyo-div.jp/wp-content/uploads/sites/26/headermenu1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://kaiyo-div.jp/wp-content/uploads/sites/26/sidebnr_aboutus.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://kaiyo-div.jp/wp-content/uploads/sites/26/1columnbnr_about.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://doda.jp/keyword/%E5%B9%B4%E5%8F%8E%EF%BC%94%EF%BC%90%EF%BC%90%E4%B8%87%E3%80%80%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%80%80%E5%9C%A8%E5%AE%85%E5%8B%A4%E5%8B%99/146/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/shutoken/list/min1500/pg146/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/S.h.n%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=146+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harikennabi.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kousotsusaiyo-bank.jp/column/rules-highschool-newgraduate",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "146 求人 年収",
+   "results": [
+    "https://doda.jp/keyword/%E5%B9%B4%E5%8F%8E%EF%BC%94%EF%BC%90%EF%BC%90%E4%B8%87%E3%80%80%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%80%80%E5%9C%A8%E5%AE%85%E5%8B%A4%E5%8B%99/146/",
+    "https://tenshoku.mynavi.jp/shutoken/list/min1500/pg146/",
+    "https://jp.indeed.com/cmp/S.h.n%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "https://nipponshigoto.com/full-time/02/",
+    "https://www.daijob.com/jobs/search_result?yc=1&li=1&job_post_language=2&ns=11000000&page=146&pg=0",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C1000000jcKSQ&q_no=2",
+    "https://www.roberthalf.com/jp/ja/insights/career-development/income-8-mllion-yen-jobs",
+    "https://en-gage.net/user/search/desc/13530591/",
+    "https://jp.indeed.com/q-146-l-神奈川県-求人.html",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_k__/年収+家+目安/-page__146/"
+   ]
+  },
+  {
+   "query": "146 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=146+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.harikennabi.jp/",
+    "https://kousotsusaiyo-bank.jp/column/rules-highschool-newgraduate",
+    "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "https://www.s1-shint.com/service1.html",
+    "https://www.works-i.com/column/works04/detail002.html",
+    "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E5%8D%92-%E6%96%B0%E5%8D%92%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "https://jinjib.co.jp/business/market",
+    "https://www.sanyonews.jp/article/1865142",
+    "https://job-draft.com/howtos/50"
+   ]
+  },
+  {
+   "query": "site:note.com 146",
+   "results": [
+    "https://note.com/cc_jcda_study/n/nc5fd7e6c749e?hl=en",
+    "https://note.com/kozo_s/n/nf6061be120be",
+    "https://note.com/cut_away_collar/n/ne2a37a675fc6",
+    "https://note.com/daisuke_mori/n/n2cfb0733d289",
+    "https://note.com/everywhere30/n/n0a66d86a4fe2",
+    "https://note.com/vast_zephyr7636/n/neaeb47e425d0",
+    "https://note.com/terrace_ifa/n/n0cd694e4ad79?hl=en",
+    "https://note.com/witty_minnow741/n/n7fe85ac35129",
+    "https://note.com/yasuhiro_ts/n/ne9711ae6e194?hl=en",
+    "https://note.com/good_otter1307/n/nf440d5319ce4?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com 146",
+   "results": [
+    "https://m.x.com/GlennMicallef/status/2031425028139401554?launch_app_store=true&ct=engagement_retweet",
+    "https://x.com/BorderBus/status/2117192829130928468",
+    "https://x.com/RMTAOnline/status/2113283757083939082",
+    "https://x.com/i/trending/2080675448082858113",
+    "https://x.com/tigers/status/2097689724458619054",
+    "https://x.com/CCSD146Tweets/status/2115911637920108673",
+    "https://x.com/MDSHA/status/2116719960860876848",
+    "https://x.com/GovKathyHochul/status/2036888450096386244",
+    "https://x.com/BorderBus/status/2117170254996721712",
+    "https://x.com/love146"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 146",
+   "results": [
+    "https://www.linkedin.com/company/school-district-146",
+    "https://www.linkedin.com/pulse/explainer-use-section-146-commercial-property-46ene",
+    "https://www.linkedin.com/posts/jiaxuaerospace_faas-bvlos-nprm-a-certifiable-pathway-to-activity-7377088294251081729-rRuK",
+    "https://www.linkedin.com/pulse/european-club-football-has-grown-146-15-years-elite-gqloe",
+    "https://www.linkedin.com/products/charteredtech-multiple-15ca-15cb-generation-tool-online-software-for-bulk-15ca-15cb-for-dividend-paying-company/",
+    "https://je.linkedin.com/jobs/cp-slots-distribution-high-concurrency-api%F0%9F%92%AFtao82.com-jobs",
+    "https://www.linkedin.com/pulse/foreign-remittance-enters-new-era-form-145-146-explained-sumit-singh-gyqbc",
+    "https://www.linkedin.com/pulse/weekly-update-146-michele-mattei-jerie",
+    "https://www.linkedin.com/pulse/issues-edges-potential-problems-section-146-notice-lxy5e",
+    "https://www.linkedin.com/company/love146"
+   ]
+  },
+  {
+   "query": "site:facebook.com 146",
+   "results": [
+    "https://www.facebook.com/p/146-Provisions-61565703496675/",
+    "https://www.facebook.com/p/The-146-61563508104169/",
+    "https://www.facebook.com/Uxbridgepolice/posts/road-open-%EF%B8%8F-crash-146-south-%EF%B8%8Frt-146-southbound-will-be-shut-down-at-exit-1-for-a/1511043487722819/",
+    "https://www.facebook.com/District146/",
+    "https://www.facebook.com/p/IBEW-146-100092226904850/",
+    "https://www.facebook.com/txdothouston/posts/txdot-announces-the-closure-of-sh-146-westbound-connector-ramp-to-ih-45-southbou/1055566450358836/",
+    "https://www.facebook.com/146travelcenter/",
+    "https://www.facebook.com/groups/illinoistrafficupdates/posts/1712963212886407/",
+    "https://www.facebook.com/146travelcenter/about/",
+    "https://www.facebook.com/WorldSnookerTour/videos/when-neil-robertson-made-two-146-breaks-in-just-three-frames-/4582970858591571/"
+   ]
+  },
+  {
+   "query": "146 note 社長",
+   "results": [
+    "https://note.com/tsuchidagyousei/n/n5979e1c83b34",
+    "https://www.reddit.com/r/notebooks/comments/jbrwhn/montblanc_146_notebook_review/?tl=ja",
+    "https://note.com/caree_log/n/n521e36ec01af",
+    "https://blog.kingdomnote.com/%E3%81%BE%E3%81%A0%E3%81%BE%E3%81%A0%E3%81%82%E3%82%8B-%E3%83%A2%E3%83%B3%E3%83%96%E3%83%A9%E3%83%B3%E3%80%8C146%E3%80%8D%E3%81%AE%E3%83%9A%E3%83%B3%E5%85%88/",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/soramichicoltd/m/m58bf1b7d4aae",
+    "https://note.com/tag/23-23-146",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.com/satoshiani/n/n6d100f5a2d52",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "146 X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=gvbCoPOjdwA",
+    "https://help.x.com/ja/resources/new-user-faq",
+    "https://filmarks.zendesk.com/hc/ja/articles/59246950677017--%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-X-%E6%97%A7Twitter-%E3%81%B8%E3%81%AE%E8%87%AA%E5%8B%95%E6%8A%95%E7%A8%BF%E6%A9%9F%E8%83%BD%E3%81%AE%E5%81%9C%E6%AD%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "https://kuroco.app/ja/docs/tutorials/setting-up-twitter-integration/",
+    "https://koneta.nifty.com/koneta_detail/1141008024346_1.htm",
+    "https://www.ichiyajo.jp/notes/2026-05-18-x-auto-post-guide-2026/",
+    "https://www.youtube.com/watch?v=4mYmH5IHzUs",
+    "https://www.instagram.com/p/DcfZr-MEj22/",
+    "https://www.pc-webzine.com/article/1888",
+    "https://x.com/aisu146"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部6頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部6頁・検索8回）",
+  "採用ページ": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部6頁・検索8回）",
+  "想定年収・給与": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部6頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部6頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部6頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部6頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部6頁・検索8回）",
+  "取引先・規模": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部6頁・検索8回）"
+ }
+}

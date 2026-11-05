@@ -1,4 +1,4 @@
-# 瀬戸内の製造業中小企業 — 採用の出し方（採用ページ・求人媒体・想定年収・採用人数）（事実のみ・468社）
+# 瀬戸内の製造業中小企業 — 採用の出し方（採用ページ・求人媒体・想定年収・採用人数）（事実のみ・519社）
 
 ## 03-5693-2775
 - 公式URL：https://www.kyousin-seikou.com/（given）
@@ -250,21 +250,21 @@
 
 ## 149
 - 公式URL：https://data-link-plus.com/（given）
-- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 採用ページ：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 想定年収・給与：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 採用人数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 求人媒体：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 採用の発信：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 人手不足の発言：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 取引先・規模：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
+- 所在地：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）
+- 創業年度：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）
+- 採用ページ：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）
+- 想定年収・給与：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）
+- 採用人数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）
+- 採用の発信：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）
+- 取引先・規模：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）
 
 ## 152
 - 公式URL：https://data-link-plus.com/（given）
@@ -283,6 +283,38 @@
 - 採用の発信：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）
 - 人手不足の発言：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）
 - 取引先・規模：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）
+
+## 1943年
+- 公式URL：https://metoree.com/（given）
+- 想定年収・給与：
+  - 「陸軍、海軍の階級別 月収・年収一覧表（1943年） - Transnational History」（https://dj19.hatenadiary.org/entry/20120315/p1・3回目）
+  - 「陸軍、海軍の階級別 月収・年収一覧表（1943年）」（https://dj19.hatenadiary.org/entry/20120315/p1・3回目）
+  - 「巡査初任給 45円」（https://dj19.hatenadiary.org/entry/20120315/p1・3回目）
+- 採用の発信：
+  - 「この広告は、90日以上更新していないブログに表示しています」（https://dj19.hatenadiary.org/entry/20120315/p1・3回目）
+  - 「dj19さんは、はてなブログを使っています」（https://dj19.hatenadiary.org/entry/20120315/p1・3回目）
+  - 「あなたもはてなブログをはじめてみませんか？」（https://dj19.hatenadiary.org/entry/20120315/p1・3回目）
+  - 「https://instagram.com/dmm3093」（https://note.com/akira513002/n/n892770da2d9f・3回目）
+- 取引先・規模：
+  - 「· 学徒動員の徹底: 学徒勤労令が全面施行され、中学生以上の学生はほぼ全年間、軍需工場などで労働に従事することになり、教育は完全に停止しました」（https://note.com/akira513002/n/n892770da2d9f・3回目）
+  - 「社会 学徒勤労動員の徹底 通年 学生が全年間工場で労働」（https://note.com/akira513002/n/n892770da2d9f・3回目）
+  - 「（前略）戦爆連合の大編隊をもつて勇躍〇〇基地を飛び出し遠く四川省に進攻、敵都重慶に突入、市内西部に密集せる軍需工場地帯に正確無比の巨弾を雨と浴びせ、わが進攻に狼狽してこれを迎撃せんとした重慶空軍戦闘機と熾烈なる空中戦闘を演じその八機（うち不確実三）を撃墜し、久し振りに四川の空に凱歌を奏して帰還した、この戦闘でわが方未帰還一を出した」（https://note.com/lilaclavender/n/n07acc8e908e4・3回目）
+  - 「思ふに英国が東亜侵略の拠点を印度に据ゑたのは今から三百四十余年前東印度会社を設立した時でその当時欧州には東亜に対し誇り得る文化的の何物をももつてゐなかった、すなはち彼らは東亜人の考案した羅針盤により海を渡り、東亜人の発明した宗教、紙、印刷術をもつて思想的に、また鉄砲、火薬をもつて武力的に東亜侵略を開始した」（https://note.com/lilaclavender/n/nd7224b503ec8・3回目）
+- 検索結果の抜粋：
+  - 「陸軍、海軍の階級別 月収・年収一覧表（1943年） - Transnational His... — Mar 15, 2012 · 出典：大浜徹也、小沢郁郎 編『帝国陸海軍事典』 同成社 、 1984 年 （Amazon リンク： 帝国陸海軍事典） 付記すると、 秦郁彦 によれば、兵士が戦地に出征した場合は戦地手当が付くので、収入は上記金額の約倍額程になるとのこと。」（https://dj19.hatenadiary.org/entry/20120315/p1・3回目）
+  - 「陸軍、海軍の階級別 月収・年収一覧表（1943年） – IEJS — Nov 3, 2025 · 下士官および水兵の階級章. 自衛隊の年収は階級や学歴によって異なります。 2024年1月時点で公表されている情報を基に、自衛隊へ入隊したい人には知っておきたい年収を階級、学歴、年齢などから調査し、詳 自衛隊（自衛官）の「給料」について解説し ...」（https://princesscyd.com/陸軍海軍の階級別-月収・年収一覧表1943年/・3回目）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索8回）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索8回）
+- 採用ページ：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索8回）
+- 採用人数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索8回）
 
 ## 361
 - 公式URL：https://novafoam.jp/（given）
@@ -1720,6 +1752,56 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 代表者：記載なし（3回確認済み：公式11頁／PDF・画像3件／外部22頁・検索9回）
 - 主要取引先：記載なし（3回確認済み：公式11頁／PDF・画像3件／外部22頁・検索9回）
 
+## いけうち呉工場
+- 公式URL：https://www.dry-fog.com/（given）
+- 採用ページ：
+  - 「{"blogs":[{"sid":"vonRygDX6Rd","categories":"企業情報,霧のニュース","tags":"＃新卒採用,＃キャリア採用","order":"newer","name":"採用ブログ","pathToFolder":"./news/","topfile":"top.html","rss":"0"}],"articleType":"1","limit_article_num":"5","article_disp_offset":"0","article_disp_offset_num":"","article_new_offset":"0","article_new_offset_num":""}」（https://www.dry-fog.com/jp-lp/recruit/・1回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E3%81%84%E3%81%91%E3%81%86%E3%81%A1%E5%91%89%E5%B7%A5%E5%A0%B4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E3%81%84%E3%81%91%E3%81%86%E3%81%A1%E5%91%89%E5%B7%A5%E5%A0%B4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E3%81%84%E3%81%91%E3%81%86%E3%81%A1%E5%91%89%E5%B7%A5%E5%A0%B4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E3%81%84%E3%81%91%E3%81%86%E3%81%A1%E5%91%89%E5%B7%A5%E5%A0%B4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 想定年収・給与：
+  - 「年収251.2万円〜」（https://jp.stanby.com/search?q=%E3%81%84%E3%81%91%E3%81%86%E3%81%A1%E5%91%89%E5%B7%A5%E5%A0%B4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収316万円」（https://jp.stanby.com/search?q=%E3%81%84%E3%81%91%E3%81%86%E3%81%A1%E5%91%89%E5%B7%A5%E5%A0%B4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収300万円〜600万円」（https://jp.stanby.com/search?q=%E3%81%84%E3%81%91%E3%81%86%E3%81%A1%E5%91%89%E5%B7%A5%E5%A0%B4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給19.2万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E3%81%84%E3%81%91%E3%81%86%E3%81%A1%E5%91%89%E5%B7%A5%E5%A0%B4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収240万円〜840万円」（https://jp.stanby.com/search?q=%E3%81%84%E3%81%91%E3%81%86%E3%81%A1%E5%91%89%E5%B7%A5%E5%A0%B4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給19万円〜20.9万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E3%81%84%E3%81%91%E3%81%86%E3%81%A1%E5%91%89%E5%B7%A5%E5%A0%B4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収303.6万円〜600万円」（https://jp.stanby.com/search?q=%E3%81%84%E3%81%91%E3%81%86%E3%81%A1%E5%91%89%E5%B7%A5%E5%A0%B4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収350万円」（https://jp.stanby.com/search?q=%E3%81%84%E3%81%91%E3%81%86%E3%81%A1%E5%91%89%E5%B7%A5%E5%A0%B4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収295万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E3%81%84%E3%81%91%E3%81%86%E3%81%A1%E5%91%89%E5%B7%A5%E5%A0%B4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給20万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E3%81%84%E3%81%91%E3%81%86%E3%81%A1%E5%91%89%E5%B7%A5%E5%A0%B4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上」（https://jp.stanby.com/search?q=%E3%81%84%E3%81%91%E3%81%86%E3%81%A1%E5%91%89%E5%B7%A5%E5%A0%B4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収325万円〜600万円」（https://jp.stanby.com/search?q=%E3%81%84%E3%81%91%E3%81%86%E3%81%A1%E5%91%89%E5%B7%A5%E5%A0%B4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E3%81%84%E3%81%91%E3%81%86%E3%81%A1%E5%91%89%E5%B7%A5%E5%A0%B4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用の発信：
+  - 「{"blogs":[{"sid":"vonRygDX6Rd","categories":"採用イベント","tags":"","order":"newer","name":"採用ブログ","pathToFolder":"./news/","topfile":"top.html","rss":"0"}],"articleType":"1","limit_article_num":"3","article_disp_offset":"0","article_disp_offset_num":"","article_new_offset":"0","article_new_offset_num":""}」（https://www.dry-fog.com/jp-lp/recruit/・1回目）
+  - 「{"blogs":[{"sid":"vonRygDX6Rd","categories":"採用イベント","tags":"","order":"newer","name":"採用ブログ","pathToFolder":"./news/","topfile":"top.html","rss":"0"}],"articleType":"1","limit_article_num":"1","article_disp_offset":"0","article_disp_offset_num":"","article_new_offset":"0","article_new_offset_num":""}」（https://www.dry-fog.com/jp-lp/recruit/・1回目）
+  - 「{"blogs":[{"sid":"vonRygDX6Rd","categories":"企業情報,霧のニュース","tags":"＃新卒採用,＃キャリア採用","order":"newer","name":"採用ブログ","pathToFolder":"./news/","topfile":"top.html","rss":"0"}],"articleType":"1","limit_article_num":"5","article_disp_offset":"0","article_disp_offset_num":"","article_new_offset":"0","article_new_offset_num":""}」（https://www.dry-fog.com/jp-lp/recruit/・1回目）
+  - 「入社後は先輩社員と一緒に現場に入り、工具の名前や使い方、作業の進め方から一つずつ覚えていきます」（https://jp.stanby.com/search?q=%E3%81%84%E3%81%91%E3%81%86%E3%81%A1%E5%91%89%E5%B7%A5%E5%A0%B4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 取引先・規模：
+  - 「［事例］砂型鋳造工場｜2流体ノズルで噴霧不良を抑制、離型剤塗布を安定化しメンテ負荷も低減」（https://www.dry-fog.com/jp/・1回目）
+  - 「※ノズルの掃除の仕方といった簡単なことから、工場全体の環境改善など大きなことまで、なんでもご相談ください」（https://www.dry-fog.com/jp/contact/demo/・1回目）
+  - 「TSMC／Intel／Samsung／SK Hynix／SEMES／鴻海精密工業／東京エレクトロン株式会社／株式会社SCREEN／LG Electronics／LG Display／AU Optronics／Innolux／BOE／BOSCH／Rolls-Royce／DENSO／MICHELIN／日本製鉄株式会社／JFEスチール株式会社／株式会社荏原製作所／株式会社クボタ／三菱重工業株式会社／大日本印刷株式会社／凸版印刷株式会社／トヨタ自動車株式会社／TOTO株式会社／ホクト株式会社／東京電力株式会社／Anheuser-Busch／JAXA／その他」（https://www.dry-fog.com/jp-lp/recruit/・1回目）
+  - 「しかし、この磁製口金の素晴らしい技術を消滅させたくない池内は、苦心惨憺の末、セラミックスプレーノズルの生産に世界で初めて成功し、1961年彼の出身地である広島県呉市に小さな工場を開設しました」（https://www.dry-fog.com/jp/corporate/history/・1回目）
+  - 「ベトナム／ハノイ市に工場IKEUCHI VIETNAM CO., LTD.を設立」（https://www.dry-fog.com/jp/corporate/history/・1回目）
+  - 「・工場全体を加湿する1流体加湿システム」（https://www.dry-fog.com/jp/products-list/・1回目）
+  - 「いけうち呉工場 高卒 新卒 新卒の求人・仕事・採用｜スタンバイでお仕事探し」（https://jp.stanby.com/search?q=%E3%81%84%E3%81%91%E3%81%86%E3%81%A1%E5%91%89%E5%B7%A5%E5%A0%B4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「専務の中島は、三菱UFJ銀行で約10」（https://jp.stanby.com/search?q=%E3%81%84%E3%81%91%E3%81%86%E3%81%A1%E5%91%89%E5%B7%A5%E5%A0%B4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 検索結果の抜粋：
+  - 「いけうち呉工場 新卒 高卒 の求人情報をすべて見る （136件） — いけうち呉工場 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E3%81%84%E3%81%91%E3%81%86%E3%81%A1%E5%91%89%E5%B7%A5%E5%A0%B4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 所在地：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部7頁・検索8回）
+- 創業年度：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部7頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部7頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部7頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部7頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部7頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部7頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部7頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部7頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部7頁・検索8回）
+
 ## こっこー様
 - 公式URL：https://www.benda.co.jp/（given）
 - 創業年度：設立：1964年（昭和39年）（https://www.benda.co.jp/company/overview/・1回目）
@@ -1878,6 +1960,70 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 売上高：記載なし（3回確認済み：公式11頁／PDF・画像3件／外部12頁・検索8回）
 - 事業内容：記載なし（3回確認済み：公式11頁／PDF・画像3件／外部12頁・検索8回）
 - 主要取引先：記載なし（3回確認済み：公式11頁／PDF・画像3件／外部12頁・検索8回）
+
+## じもナビ
+- 公式URL：https://jimo-navi.com/（given）
+- 所在地：〒980-0821 宮城県仙台市青葉区春日町6-15（https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%BB%E3%83%94%E3%83%BC/・1回目）
+- 所在地：〒988-0325 宮城県気仙沼市本吉町蔵内83-1（https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF%E3%83%87%E3%83%8B%E3%83%A0/・1回目）
+- 所在地：〒992-0044 山形県米沢市春日1丁目7-77（https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A0%E3%83%A9/・1回目）
+- 創業年度：設立：1981年7月（https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%BB%E3%83%94%E3%83%BC/・1回目）
+- 創業年度：設立：1981年4月（https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF%E3%83%87%E3%83%8B%E3%83%A0/・1回目）
+- 創業年度：設立：1997年3月（https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A0%E3%83%A9/・1回目）
+- 資本金：1,000万円（https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%BB%E3%83%94%E3%83%BC/・1回目）
+- 資本金：500万円（https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF%E3%83%87%E3%83%8B%E3%83%A0/・1回目）
+- 資本金：3,285万円（https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A0%E3%83%A9/・1回目）
+- 従業員数：46名（平均年齢31歳）（https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%BB%E3%83%94%E3%83%BC/・1回目）
+- 従業員数：20名（https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF%E3%83%87%E3%83%8B%E3%83%A0/・1回目）
+- 従業員数：285名（https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A0%E3%83%A9/・1回目）
+- 売上高：300,000万円（https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%BB%E3%83%94%E3%83%BC/・1回目）
+- 売上高：13,500万円（https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF%E3%83%87%E3%83%8B%E3%83%A0/・1回目）
+- 売上高：385,000万円（https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A0%E3%83%A9/・1回目）
+- 事業内容：コンサート制作、アーティスト等のプロモーション／広告代理業務／イベント企画制作ほか（https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%BB%E3%83%94%E3%83%BC/・1回目）
+- 事業内容：デニム衣類　企画・製造・卸し（https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF%E3%83%87%E3%83%8B%E3%83%A0/・1回目）
+- 事業内容：食料品スーパーマーケット（https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A0%E3%83%A9/・1回目）
+- 採用ページ：
+  - 「本サイトでは、全国のＵターン･Ｉターン就職に関するイベント・フェア・セミナーや就職情報を集約し、またインターンシップ・自己分析・業界企業職種研究・エントリーシートについてなどの就活ノウハウを提供することで、優秀な人材を確保したい地域の中小企業と、就職を希望する大学生等のマッチングを実現するきっかけをつくることを目指しています」（https://jimo-navi.com/・1回目）
+  - 「ネットワークソリューション、セキュリティソリューション、コンタクトサービス、コンピュータ保守サービス、インターネット関連サービス、データエントリーサービス、コンピュータ機器・用品販売」（https://jimo-navi.com/company/page/2/・1回目）
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 想定年収・給与：
+  - 「1,000万円」（https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%BB%E3%83%94%E3%83%BC/・1回目）
+  - 「300,000万円」（https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%BB%E3%83%94%E3%83%BC/・1回目）
+  - 「［大学卒］年俸224万円 諸手当：交通費実費」（https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%BB%E3%83%94%E3%83%BC/・1回目）
+  - 「13,500万円」（https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF%E3%83%87%E3%83%8B%E3%83%A0/・1回目）
+  - 「[大卒]基本給(月給)6000(円)×日数 [大卒]諸手当(月給)通勤手当 月5000円まで [短大卒]基本給(月給)6000(円)×日数 [短大卒]諸手当(月給)通勤手当 月5000円まで [専門学校卒]基本給(月給)6000(円)×日数 [専門学校卒]諸手当(月給)通勤手当 月5000円まで [高等専修学校卒]基本給(月給)6000(円)×日数 [高等専修学校卒]諸手当(月給)通勤手当 月5000円まで [高卒]基本給(月給)6000(円)×日数 [高卒]諸手当(月給)通勤手当 月5000円まで」（https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF%E3%83%87%E3%83%8B%E3%83%A0/・1回目）
+  - 「3,285万円」（https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A0%E3%83%A9/・1回目）
+  - 「385,000万円」（https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A0%E3%83%A9/・1回目）
+  - 「[大卒]基本給(月給)170,000円 [短大卒]基本給(月給)150,000円 [高等専修学校卒]基本給(月給)150,000円 [高卒]基本給(月給)145,000円」（https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A0%E3%83%A9/・1回目）
+  - 「1,000万円(2014年7月現在)」（https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%B9/・1回目）
+  - 「[大卒]基本給(月給)190,000円 [大卒]諸手当(月給)就業規則による [短大卒]基本給(月給)175,000円 [短大卒]諸手当(月給)就業規則による [専門学校卒]基本給(月給)175,000円 [専門学校卒]諸手当(月給)就業規則による [高卒]基本給(月給)160,000円 [高卒]諸手当(月給)就業規則による」（https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%B9/・1回目）
+  - 「自動組み立てラインでつくられる3万円台までの普及モデルは、主に中近東や中国に輸出されています」（https://jimo-navi.com/company/%E4%BA%8C%E6%88%B8%E6%99%82%E8%A8%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/・1回目）
+  - 「熟練の技術者が手作業で組み立てる10〜30万円の中級モデルも、国内外で高いニーズがあります」（https://jimo-navi.com/company/%E4%BA%8C%E6%88%B8%E6%99%82%E8%A8%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/・1回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用の発信：
+  - 「本サイトでは、全国のＵターン･Ｉターン就職に関するイベント・フェア・セミナーや就職情報を集約し、またインターンシップ・自己分析・業界企業職種研究・エントリーシートについてなどの就活ノウハウを提供することで、優秀な人材を確保したい地域の中小企業と、就職を希望する大学生等のマッチングを実現するきっかけをつくることを目指しています」（https://jimo-navi.com/・1回目）
+  - 「社長からのメッセージや先輩社員からのひとことなどのメッセージや、働きがい・職場の雰囲気などの内容で構成されています」（https://jimo-navi.com/・1回目）
+- 取引先・規模：
+  - 「沖縄県うるま市字川崎４６８番地 いちゅい具志川じんぶん館１F」（https://jimo-navi.com/company/・1回目）
+  - 「今、国内の大手メーカーは工賃の安い海外に工場を建てるケースが増えていますが、そのデメリットとして、日本が世界に誇る高い技術が海外に流失し、日本のモノづくりが競争力を失うという課題を抱えています」（https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF%E3%83%87%E3%83%8B%E3%83%A0/・1回目）
+  - 「10億円(2013年8月末実績)」（https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%B9/・1回目）
+  - 「1974年に盛岡セイコー工業株式会社の専属部品工場として誕生した二戸時計工業株式会社」（https://jimo-navi.com/company/%E4%BA%8C%E6%88%B8%E6%99%82%E8%A8%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/・1回目）
+  - 「自動化と手組みの両方に対応したケーシングに加え、ムーブメントの組み立て・部品加工も行い、セイコーグループの国内中核工場を目指します」（https://jimo-navi.com/company/%E4%BA%8C%E6%88%B8%E6%99%82%E8%A8%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/・1回目）
+  - 「機械製造にとどまらず、海外工場や国内の中小の製造メーカーと連携することによって、お客様の多様なニーズに対応できるネットワーク作りにも着手していきます」（https://jimo-navi.com/company/%E6%9F%8F%E6%9C%A8%E9%89%84%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/・1回目）
+  - 「④関東並びに近県への出店を行い、売上規模10億円を目指す」（https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%BA/・1回目）
+  - 「”私達の価値観を理解してくれる人々を幸福にする会社”をスローガンに、地域、お客様、取引先、従業員が幸福になれる会社を目指します」（https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%BA/・1回目）
+  - 「拠点の数、営業人員、設計人員の充実、箱物造りに関してのノウハウ」（https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%BA/・1回目）
+  - 「専務の中島は、三菱UFJ銀行で約10」（https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 検索結果の抜粋：
+  - 「じもナビ - UIターンに特化した就職情報サイト — じもナビ - UIターンに特化した就職情報サイト じもナビ https://jimo-navi.com」（https://jimo-navi.com/・3回目）
+  - 「じもナビ 新卒 高卒 の求人情報をすべて見る （136件） — じもナビ 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 代表者：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部4頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部4頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部4頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部4頁・検索8回）
 
 ## すえ木工
 - 公式URL：https://www.suemokko.co.jp/（given）
@@ -2101,6 +2247,60 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
   - 「3 件の ちぐさ技研工業 の求人 | Indeed (インディード) — 3 件の ちぐさ技研工業 の求人 | Indeed (インディード) Indeed https://jp.indeed.com > q-ちぐさ技研工業-求人」（https://jp.indeed.com/q-%E3%81%A1%E3%81%90%E3%81%95%E6%8A%80%E7%A0%94%E5%B7%A5%E6%A5%AD-%E6%B1%82%E4%BA%BA.html・3回目）
 - 売上高：記載なし（3回確認済み：公式2頁／PDF・画像2件／外部6頁・検索8回）
 - 主要取引先：記載なし（3回確認済み：公式2頁／PDF・画像2件／外部6頁・検索8回）
+
+## ぬまくま夢工房
+- 公式URL：https://numakuma-yume.com/（given）
+- 所在地：広島県福山市御船町1-13-5（https://numakuma-yume.com/・1回目）
+- 所在地：広島県福山市沼隈町大字常石1805（https://numakuma-yume.com/・1回目）
+- 所在地：広島県福山市木之庄町3丁目3-5（https://numakuma-yume.com/・1回目）
+- 資本金：500万円 設立 平成21年7月（https://numakuma-yume.com/?mode=f1・1回目）
+- 事業内容：酒類、清涼飲料、果汁および嗜好飲料の製造、加工および販売 / 農畜産物、水産物およびその加工品の製造、加工および販売 / 食料品、食品添加物および調味料の販売 / 衣料品、民芸品、工芸品および日用品雑貨の販売 / 飲食店の経営 / 経営コンサルティング業 / Webページの制作 / 前各号に附帯関連する一切の事業（https://numakuma-yume.com/?mode=f1・1回目）
+- 想定年収・給与：
+  - 「【クール冷蔵】ローズマインド2025 赤ワイン 500ml / 福山市産バラ酵母で醸したワイン / バラ香の成分UPでフローラル感ある味わいに / 2025年収穫ぶどう使用」（https://numakuma-yume.com/・1回目）
+  - 「月給: 176,812円〜184,500円」（https://www.job-net.jp/jobs/24685991・3回目）
+  - 「月給: 172,385円〜184,500円」（https://www.job-net.jp/jobs/24685991・3回目）
+  - 「月給: 205,000円〜230,000円」（https://www.job-net.jp/jobs/24685991・3回目）
+  - 「月給: 350,000円〜450,000円」（https://www.job-net.jp/jobs/24685991・3回目）
+  - 「月給: 233,000円〜290,000円」（https://www.job-net.jp/jobs/24685991・3回目）
+  - 「給与、手当について」（https://www.hellowork.careers/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%81%AC%E3%81%BE%E3%81%8F%E3%81%BE%E5%A4%A2%E5%B7%A5%E6%88%BF%E3%81%A7%E3%81%AE%E5%96%B6%E6%A5%AD%E4%BA%8B%E5%8B%99%E8%81%B7%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%EF%BC%88%E5%BA%83%E5%B3%B6%E7%9C%8C%E7%A6%8F%E5%B1%B1%E5%B8%82%EF%BC%89-%2034050-21669861/・3回目）
+  - 「月給23万円～」（https://www.hellowork.careers/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%81%AC%E3%81%BE%E3%81%8F%E3%81%BE%E5%A4%A2%E5%B7%A5%E6%88%BF%E3%81%A7%E3%81%AE%E5%96%B6%E6%A5%AD%E4%BA%8B%E5%8B%99%E8%81%B7%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%EF%BC%88%E5%BA%83%E5%B3%B6%E7%9C%8C%E7%A6%8F%E5%B1%B1%E5%B8%82%EF%BC%89-%2034050-21669861/・3回目）
+  - 「[正]月給23万円～」（https://www.hellowork.careers/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%81%AC%E3%81%BE%E3%81%8F%E3%81%BE%E5%A4%A2%E5%B7%A5%E6%88%BF%E3%81%A7%E3%81%AE%E5%96%B6%E6%A5%AD%E4%BA%8B%E5%8B%99%E8%81%B7%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%EF%BC%88%E5%BA%83%E5%B3%B6%E7%9C%8C%E7%A6%8F%E5%B1%B1%E5%B8%82%EF%BC%89-%2034050-21669861/・3回目）
+  - 「月給20万円～27万円」（https://www.hellowork.careers/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%81%AC%E3%81%BE%E3%81%8F%E3%81%BE%E5%A4%A2%E5%B7%A5%E6%88%BF%E3%81%A7%E3%81%AE%E5%96%B6%E6%A5%AD%E4%BA%8B%E5%8B%99%E8%81%B7%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%EF%BC%88%E5%BA%83%E5%B3%B6%E7%9C%8C%E7%A6%8F%E5%B1%B1%E5%B8%82%EF%BC%89-%2034050-21669861/・3回目）
+  - 「一般事務/管理部門・年収400万～・事務長候補 医院運営・マネジメントを担う管理職募集中」（https://www.hellowork.careers/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%81%AC%E3%81%BE%E3%81%8F%E3%81%BE%E5%A4%A2%E5%B7%A5%E6%88%BF%E3%81%A7%E3%81%AE%E5%96%B6%E6%A5%AD%E4%BA%8B%E5%8B%99%E8%81%B7%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%EF%BC%88%E5%BA%83%E5%B3%B6%E7%9C%8C%E7%A6%8F%E5%B1%B1%E5%B8%82%EF%BC%89-%2034050-21669861/・3回目）
+  - 「月給30万円～」（https://www.hellowork.careers/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%81%AC%E3%81%BE%E3%81%8F%E3%81%BE%E5%A4%A2%E5%B7%A5%E6%88%BF%E3%81%A7%E3%81%AE%E5%96%B6%E6%A5%AD%E4%BA%8B%E5%8B%99%E8%81%B7%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%EF%BC%88%E5%BA%83%E5%B3%B6%E7%9C%8C%E7%A6%8F%E5%B1%B1%E5%B8%82%EF%BC%89-%2034050-21669861/・3回目）
+- 求人媒体：
+  - 「営業事務職｜有限会社ぬまくま夢工房のハローワーク求人｜広島県福山市」（https://www.job-net.jp/jobs/24685991・3回目）
+  - 「最新の情報は最寄りのハローワークにご確認ください」（https://www.job-net.jp/jobs/24685991・3回目）
+  - 「ハローワークインターネットサービスに掲載された有限会社ぬまくま夢工房の求人情報です」（https://www.job-net.jp/jobs/24685991・3回目）
+  - 「＊ハローワークの窓口でご相談のうえ、必ず、ハローワークの」（https://www.job-net.jp/jobs/24685991・3回目）
+  - 「ハローワーク紹介状，履歴書（写真貼付）」（https://www.job-net.jp/jobs/24685991・3回目）
+  - 「電話応対、データ入力、接客、営業サポート全般＊変更範囲：変更なし＊ハローワークの窓口でご相談のうえ、必ず、ハローワークの 紹介状の交付を受けていただくようお願いします」（https://www.job-net.jp/jobs/24685991・3回目）
+  - 「変更範囲：変更なし＊ハローワークの窓口でご相談のうえ、必ず、ハローワークの 紹介状の交付を受けていただくようお願いします」（https://www.job-net.jp/jobs/24685991・3回目）
+  - 「高圧ガスの輸送及び作業※配送範囲：中四国全域《業務の変更範囲：変更なし》（お願い）ハローワークの紹介状を添えて応募してください」（https://www.job-net.jp/jobs/24685991・3回目）
+  - 「自社工場から市内の各現場へ、ミキサー車による生コンクリートの運搬を行っていただきます女性従事者の実績もあります＊変更範囲：変更なし＊ハローワークの窓口でご相談のうえ、必ず、ハローワークの 紹介状の交付...」（https://www.job-net.jp/jobs/24685991・3回目）
+  - 「営業事務職 - 有限会社 ぬまくま夢工房（ID：34050-21669861）のハローワーク求人- 広島県福山市御船町１丁目１３－５ | ハローワークの求人を検索」（https://www.hellowork.careers/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%81%AC%E3%81%BE%E3%81%8F%E3%81%BE%E5%A4%A2%E5%B7%A5%E6%88%BF%E3%81%A7%E3%81%AE%E5%96%B6%E6%A5%AD%E4%BA%8B%E5%8B%99%E8%81%B7%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%EF%BC%88%E5%BA%83%E5%B3%B6%E7%9C%8C%E7%A6%8F%E5%B1%B1%E5%B8%82%EF%BC%89-%2034050-21669861/・3回目）
+  - 「「ハローワーク求人情報」では、求職者の方々に、どこでも、簡単に、よりスピーディに、お探しの求人情報を提供することができるように、「」（https://www.hellowork.careers/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%81%AC%E3%81%BE%E3%81%8F%E3%81%BE%E5%A4%A2%E5%B7%A5%E6%88%BF%E3%81%A7%E3%81%AE%E5%96%B6%E6%A5%AD%E4%BA%8B%E5%8B%99%E8%81%B7%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%EF%BC%88%E5%BA%83%E5%B3%B6%E7%9C%8C%E7%A6%8F%E5%B1%B1%E5%B8%82%EF%BC%89-%2034050-21669861/・3回目）
+  - 「また、この求人に応募される場合は、最寄のハローワークに行き、紹介状をもらっておくことが大切です」（https://www.hellowork.careers/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%81%AC%E3%81%BE%E3%81%8F%E3%81%BE%E5%A4%A2%E5%B7%A5%E6%88%BF%E3%81%A7%E3%81%AE%E5%96%B6%E6%A5%AD%E4%BA%8B%E5%8B%99%E8%81%B7%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%EF%BC%88%E5%BA%83%E5%B3%B6%E7%9C%8C%E7%A6%8F%E5%B1%B1%E5%B8%82%EF%BC%89-%2034050-21669861/・3回目）
+- 取引先・規模：
+  - 「自社工場から市内の各現場へ、ミキサー車による生コンクリートの運搬を行っていただきます女性従事者の実績もあります＊変更範囲：変更なし＊ハローワークの窓口でご相談のうえ、必ず、ハローワークの 紹介状の交付...」（https://www.job-net.jp/jobs/24685991・3回目）
+- 検索結果の抜粋：
+  - 「営業事務職｜有限会社ぬまくま夢工房のハローワーク求人｜広島県福山... — Jul 8, 2026 · 求人に関する特記事項 ... 求人・事業所PR情報 ... 有限会社ぬまくま夢工房のハローワーク求人 営業事務職 有限会社 ぬまくま夢工房 正社員学歴不問時間外労働なし週休二日制（土日休）転勤なしマイカー通勤可 仕事内容」（https://www.job-net.jp/jobs/24685991・3回目）
+  - 「営業事務職 - 有限会社 ぬまくま夢工房（ID：34050-21669861）のハロ... — 2026-10-31 12:41:25 - 営業事務職 - ハローワーク 求人番号 34050-21669861 求人情報の種類 正社員 事業所名 有限会社 ぬまくま夢工房 広島県福山市御船町1丁目13－5」（https://www.hellowork.careers/有限会社　ぬまくま夢工房での営業事務職のハローワーク求人情報（広島県福山市）-+34050-21669861/・3回目）
+  - 「有限会社 ぬまくま夢工房のハローワーク求人情報一覧｜しごと情報ネッ... — 有限会社 ぬまくま夢工房のハローワーク求人情報一覧 営業事務職 有限会社 ぬまくま夢工房 正社員 学歴不問 時間外労働なし 週休二日制（土日休） 転勤なし マイカー通勤可 ... 掲載日 2025年11月7日 詳細を見る」（https://www.job-net.jp/employers/4240002045759・3回目）
+  - 「ぬまくま夢工房の求人・採用・転職情報｜Yahoo!しごとカタログ — 注意事項 過去に待つだけ新着求人に登録いただいた方が再度登録いただく場合、待つだけ新着求人の配信設定だけがONになります。 希望条件は、Yahoo!しごとカタログのマイページ内「希望条件の一覧」からいつでも追加や編集が可能です。 登録する 希望条件 有限会社ぬまくま夢工房 条件の変更」（https://jobcatalog.yahoo.co.jp/company/2001655914/jobs/・3回目）
+  - 「有限会社ぬまくま夢工房のハローワーク求人｜広島県福山市｜営業事務... — Jul 8, 2026 · ハローワークインターネットサービスに掲載された有限会社ぬまくま夢工房の求人情報です。雇用形態は正社員で、勤務地は広島県福山市です。この求人情報は福山公共職業安定所で受理されました。下記の情報は求人掲載時点での情報です。この求人が気になる方は、最寄りのハローワークの ...」（https://hellowork-plus.com/job-31552159/・3回目）
+  - 「会社概要 | ぬまくま夢工房 — 有限会社ぬまくま夢工房は、2008年/平成20年に広島県福山市・沼隈内海商工会が事業実施者として行った地域資源全国展開プロジェクト「沼隈町産ぶどうを使った高級ぶどうジュース（のちの沼隈ぶどうジュース）」の企画開発・製造事業をきっかけにして ...」（https://numakuma-yume.com/?mode=f1・3回目）
+  - 「ぬまくま夢工房 | 瀬戸内びんごの特産品を活用したものづくり — ぬまくま夢工房公式Webサイト。瀬戸内びんご地域の特産品を活用したものづくりと通信販売。広島県福山市。」（https://numakuma-yume.com/・3回目）
+  - 「ぬまくま夢工房の求人・採用・転職情報｜Yahoo!しごとカタログ — 就職・転職に役立つ有限会社ぬまくま夢工房の社員や元従業員による年収・給与、有休消化率などの評判・クチコミや企業ランキング、Q&A、求人情報をリサーチでき、企業分析や採用の調査としてご活用いただけます。」（https://jobcatalog.yahoo.co.jp/company/2001655914/jobs/・3回目）
+- 創業年度：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部14頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部14頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部14頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部14頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部14頁・検索8回）
+- 採用ページ：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部14頁・検索8回）
+- 採用人数：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部14頁・検索8回）
+- 採用の発信：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部14頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部14頁・検索8回）
 
 ## のための
 - 公式URL：https://ladol.info/（given）
@@ -3926,6 +4126,74 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 売上高：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部24頁・検索8回）
 - 事業内容：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部24頁・検索8回）
 - 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部24頁・検索8回）
+
+## アンデックス
+- 公式URL：https://www.andex.co.jp/（given）
+- 所在地：〒722-0051　広島県尾道市東尾道15-29 TEL 0848-46-3711　FAX 0848-47-1211 〒722-0051　広島県尾道市東尾道15-29 TEL 0848-46-3711　FAX 0848-47-1211（https://www.andex.co.jp/company/・1回目）
+- 所在地：〒722-0051　広島県尾道市東尾道15-29 TEL 0848-46-3711　FAX 0848-47-1211（https://www.andex.co.jp/recruit/about/・1回目）
+- 創業年度：設　立：1971年9月（https://www.andex.co.jp/company/・1回目）
+- 創業年度：設　立：1971年9月（https://www.andex.co.jp/recruit/about/・1回目）
+- 資本金：1億円（https://www.andex.co.jp/company/・1回目）
+- 資本金：1億円（https://www.andex.co.jp/recruit/about/・1回目）
+- 代表者：吉田 伸（https://www.andex.co.jp/company/・1回目）
+- 代表者：吉田 伸（https://www.andex.co.jp/recruit/about/・1回目）
+- 採用ページ：
+  - 「3分で分かるANDEX | ANDEX 採用サイト」（https://www.andex.co.jp/recruit/introduction/・1回目）
+  - 「社員インタビュー | ANDEX 採用サイト」（https://www.andex.co.jp/recruit/interview/・1回目）
+  - 「新卒採用エントリーフォーム | ANDEX 採用サイト」（https://www.andex.co.jp/recruit/entry/・1回目）
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 想定年収・給与：
+  - 「大学卒：月給23万円（基本給）＋諸手当」（https://www.andex.co.jp/recruit/requirements/・1回目）
+  - 「短大、高専、専門学校卒：21万円（基本給）＋諸手当」（https://www.andex.co.jp/recruit/requirements/・1回目）
+  - 「高校卒：18万円（基本給）＋諸手当」（https://www.andex.co.jp/recruit/requirements/・1回目）
+  - 「昇給年1回、賞与年2回（+決算賞与あり）、交通費支給」（https://www.andex.co.jp/recruit/requirements/・1回目）
+  - 「ゲストハウス所有、資格取得支援制度、定年再雇用制度、社員持株会、決算賞与」（https://www.andex.co.jp/recruit/requirements/・1回目）
+  - 「年収251.2万円〜」（https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収316万円」（https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収300万円〜600万円」（https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収350万円」（https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給19万円〜20.9万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収303.6万円〜600万円」（https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給19.2万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用の発信：
+  - 「先輩社員と同行しユーザーニーズ、設備全般の知識の習得、業界の理解」（https://www.andex.co.jp/recruit/introduction/・1回目）
+  - 「社員インタビュー | ANDEX 採用サイト」（https://www.andex.co.jp/recruit/interview/・1回目）
+- 人手不足の発言：
+  - 「建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます」（https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 取引先・規模：
+  - 「製造部山波工場 7年目」（https://www.andex.co.jp/recruit/・1回目）
+  - 「製造部本社工場 11年目」（https://www.andex.co.jp/recruit/・1回目）
+  - 「製造部山波工場 5年目」（https://www.andex.co.jp/recruit/・1回目）
+  - 「当社の主力製品「自動車用塗装設備」のシェアは国内トップクラスで、大手自動車メーカーなど、日本を代表する企業への納入実績も多数あります」（https://www.andex.co.jp/recruit/about/・1回目）
+  - 「塗装ブースを中心とした当社の製品を製造する工場です」（https://www.andex.co.jp/recruit/introduction/・1回目）
+  - 「そして、お客様の工場のどこにブースやユニットを配置するか、無駄なく美しく納めることを大切にしています」（https://www.andex.co.jp/recruit/job/・1回目）
+  - 「工場に行って観察することを大切にしています」（https://www.andex.co.jp/recruit/job/・1回目）
+  - 「ご発注頂いた設備を、客先の工場で組立、設置します」（https://www.andex.co.jp/recruit/job/・1回目）
+  - 「工場から出荷するまでの装置関係の組立と製品の検査を行います」（https://www.andex.co.jp/recruit/job/・1回目）
+  - 「製造部山波工場 7年目」（https://www.andex.co.jp/recruit/job/・1回目）
+  - 「製造部本社工場 11年目」（https://www.andex.co.jp/recruit/job/・1回目）
+  - 「製造部山波工場 5年目」（https://www.andex.co.jp/recruit/job/・1回目）
+- 検索結果の抜粋：
+  - 「アンデックス 株式会社 の 求人 ・中途採用情報 - doda — アンデックス 株式会社 の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10002868386」（https://doda.jp/DodaFront/View/CompanyJobs/j_id__10002868386/・3回目）
+  - 「募集要項 | ANDEX 採用サイト - アンデックス — 募集要項 | ANDEX 採用サイト - アンデックス アンデックス株式会社 https://www.andex.co.jp > recruit > requirements」（https://www.andex.co.jp/recruit/requirements/・3回目）
+  - 「株式会社 アンデックス の給与 - Indeed (インディード) — 株式会社 アンデックス の給与 - Indeed (インディード) Indeed https://jp.indeed.com > 株式会社アンデックス > salaries」（https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9/salaries・3回目）
+  - 「アンデックス 株式会社の 求人 ・仕事・採用 - スタンバイ — アンデックス 株式会社の 求人 ・仕事・採用 - スタンバイ スタンバイ https://jp.stanby.com > ...」（https://jp.stanby.com/r_a5943d7f6abc1b11f8827baca3aa9a13・3回目）
+  - 「アンデックス株式会社 の求人情報（10件） — アンデックス株式会社 の求人情報（10件） スタンバイ」（https://jp.stanby.com/search?cp_id=220671&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st・3回目）
+  - 「アンデックス 新卒 高卒 の求人情報をすべて見る （136件） — アンデックス 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「募集要項 | ANDEX 採用 サイト - アンデックス — 募集要項 | ANDEX 採用 サイト - アンデックス アンデックス株式会社 https://www.andex.co.jp > recruit > requirements」（https://www.andex.co.jp/recruit/requirements/・3回目）
+  - 「アンデックス 株式会社「機械設計職(自動車補修塗装設備や ... — アンデックス 株式会社「機械設計職(自動車補修塗装設備や ... 就活ならリクナビ https://job.rikunabi.com > selection > job_descriptions」（https://job.rikunabi.com/selection/job_descriptions/503291695d6b5856・3回目）
+  - 「アンデックス 株式会社 - 尾道市ふる里就職促進協議会 — アンデックス 株式会社 - 尾道市ふる里就職促進協議会 尾道市ふる里就職促進協議会 https://onomichi-f.com > recruit」（https://onomichi-f.com/recruit/o0003/・3回目）
+  - 「アンデックス の 新卒採用 ・就職・企業情報 - 就活会議 — アンデックス の 新卒採用 ・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > companies」（https://syukatsu-kaigi.jp/companies/9630・3回目）
+- 従業員数：記載なし（3回確認済み：公式12頁／PDF・画像2件／外部7頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式12頁／PDF・画像2件／外部7頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式12頁／PDF・画像2件／外部7頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像2件／外部7頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式12頁／PDF・画像2件／外部7頁・検索8回）
 
 ## アール工業
 - 公式URL：https://pitact.com/（given）
@@ -5817,6 +6085,70 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 採用の発信：記載なし（3回確認済み：公式12頁／PDF・画像2件／外部15頁・検索8回）
 - 人手不足の発言：記載なし（3回確認済み：公式12頁／PDF・画像2件／外部15頁・検索8回）
 
+## カイハラ
+- 公式URL：https://www.kaihara-denim.com/（given）
+- 所在地：広島県福山市新市町大字常1450番地（https://en-hyouban.com/company/00009262302/salary/・3回目）
+- 所在地：広島県福山市新市町常1450（https://www.openwork.jp/a0C1000000vOgE4/job/・3回目）
+- 創業年度：設立年：1893年（https://en-hyouban.com/company/00009262302/salary/・3回目）
+- 創業年度：設立年：1951年（https://www.openwork.jp/a0C1000000vOgE4/job/・3回目）
+- 資本金：50百万円（https://en-hyouban.com/company/00009262302/salary/・3回目）
+- 従業員数：45名（https://en-hyouban.com/company/00009262302/salary/・3回目）
+- 従業員数：500〜999人（https://www.openwork.jp/a0C1000000vOgE4/job/・3回目）
+- 代表者：貝原護（https://en-hyouban.com/company/00009262302/salary/・3回目）
+- 代表者：代表取締役社長 貝原　護（https://www.openwork.jp/a0C1000000vOgE4/job/・3回目）
+- 採用ページ：
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E3%82%AB%E3%82%A4%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E3%82%AB%E3%82%A4%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E3%82%AB%E3%82%A4%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E3%82%AB%E3%82%A4%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「トップページ - カイハラ株式会社 | カイハラ産業株式会社 新卒採用サイト」（https://kaihara-recruit.com/・3回目）
+  - 「カイハラの新卒向け採用サイトにお越しくださり、」（https://kaihara-recruit.com/・3回目）
+  - 「カイハラの新卒向け採用サイトにお越しくださり、ありがとうございます」（https://kaihara-recruit.com/・3回目）
+  - 「カイハラ株式会社 | カイハラ産業株式会社 新卒採用サイト」（https://kaihara-recruit.com/・3回目）
+- 想定年収・給与：
+  - 「8,100万円（グループ合算）」（https://www.kaihara-denim.com/company/・1回目）
+  - 「資本金180万円、織機34台、従業員83名をもって貝原織布株式会社を設立」（https://www.kaihara-denim.com/company/history/・1回目）
+  - 「大日本紡績（株）の資本参加により資本金2,000万円に増資」（https://www.kaihara-denim.com/company/history/・1回目）
+  - 「貝原産業株式会社設立（資本金100万円）」（https://www.kaihara-denim.com/company/history/・1回目）
+  - 「広巾絣織協同組合設立（資本金100万円）」（https://www.kaihara-denim.com/company/history/・1回目）
+  - 「（株）デニー設立（資本金5,000万円）（ユニチカ（株）、貝原織布（株）折半出資）」（https://www.kaihara-denim.com/company/history/・1回目）
+  - 「マルス興株式会社設立（資本金5,000万円）」（https://www.kaihara-denim.com/company/history/・1回目）
+  - 「カイハラブルーホールディングス（株）設立（資本金100万円）」（https://www.kaihara-denim.com/company/history/・1回目）
+  - 「カイハラの年収・給与 平均年収 - エン カイシャの評判」（https://en-hyouban.com/company/00009262302/salary/・3回目）
+  - 「カイハラ株式会社の年収・給与の口コミページです」（https://en-hyouban.com/company/00009262302/salary/・3回目）
+  - 「カイハラ株式会社で働く社員や元社員が投稿した、年収・給与に関する口コミを14件掲載中」（https://en-hyouban.com/company/00009262302/salary/・3回目）
+  - 「カイハラ株式会社の年収・給与についての口コミ」（https://en-hyouban.com/company/00009262302/salary/・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E3%82%AB%E3%82%A4%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用の発信：
+  - 「Youtubeチャンネル「プロセスX」動画公開のお知らせ」（https://www.kaihara-denim.com/・1回目）
+- 人手不足の発言：
+  - 「建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます」（https://jp.stanby.com/search?q=%E3%82%AB%E3%82%A4%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 取引先・規模：
+  - 「広島銀行、商工中金、三菱UFJ銀行、両備信用組合、中国銀行、みずほ銀行、日本政策金融公庫」（https://www.kaihara-denim.com/company/・1回目）
+  - 「〈販売拠点〉 東京オフィス ( TOKYO OFFICE )」（https://www.kaihara-denim.com/company/・1回目）
+  - 「〈生産拠点〉 本社工場( MAIN MILL )」（https://www.kaihara-denim.com/company/・1回目）
+  - 「吉舎工場開設、スルザー織機120台による織布工場竣工」（https://www.kaihara-denim.com/company/history/・1回目）
+  - 「上下新織布工場完成、スルザー織機を増設し120台体制（グループ全体で336台体制）」（https://www.kaihara-denim.com/company/history/・1回目）
+  - 「吉舎紡績工場竣工（オープンエンド糸紡績ライン操業開始）」（https://www.kaihara-denim.com/company/history/・1回目）
+  - 「本社工場排水処理設備更新、重油ボイラー施設撤去」（https://www.kaihara-denim.com/company/history/・1回目）
+  - 「専務の中島は、三菱UFJ銀行で約10」（https://jp.stanby.com/search?q=%E3%82%AB%E3%82%A4%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「他工場・他部署のAさんとは、年下だと思い込んで接していました」（https://kaihara-recruit.com/・3回目）
+- 検索結果の抜粋：
+  - 「カイハラ 株式会社の 年収 ・給与 - エン カイシャの評判 — カイハラ 株式会社の 年収 ・給与 - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company > salary」（https://en-hyouban.com/company/00009262302/salary/・3回目）
+  - 「カイハラ 産業株式会社の転職・企業概要 - doda — カイハラ 産業株式会社の転職・企業概要 - doda doda https://doda.jp > View > Company > j_id__10003057452」（https://doda.jp/DodaFront/View/Company/j_id__10003057452/・3回目）
+  - 「カイハラ の「採用情報」 OpenWork — カイハラ の「採用情報」 OpenWork OpenWork https://www.openwork.jp > ... > カイハラ」（https://www.openwork.jp/a0C1000000vOgE4/job/・3回目）
+  - 「カイハラ 株式会社の 求人 ・転職情報／ヘルプデスク — カイハラ 株式会社の 求人 ・転職情報／ヘルプデスク リクナビNEXT https://next.rikunabi.com > 広島県 > 福山市」（https://next.rikunabi.com/viewjob/jk91d7763dbf2d51fd/・3回目）
+  - 「カイハラ株式会社 の求人情報（1件） — カイハラ株式会社 の求人情報（1件） スタンバイ」（https://jp.stanby.com/search?cp_id=10557&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st・3回目）
+  - 「カイハラ 新卒 高卒 の求人情報をすべて見る （136件） — カイハラ 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E3%82%AB%E3%82%A4%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「カイハラ 株式会社 | カイハラ 産業株式会社 新卒採用 サイト — カイハラ 株式会社 | カイハラ 産業株式会社 新卒採用 サイト kaihara-recruit.com https://kaihara-recruit.com」（https://kaihara-recruit.com/・3回目）
+  - 「採用 情報 | カイハラ 株式会社 — 採用 情報 | カイハラ 株式会社 カイハラ株式会社 https://www.kaihara-denim.com > recruit」（https://www.kaihara-denim.com/recruit/・3回目）
+  - 「カイハラ 産業の 新卒採用 ・就職・企業情報 - 就活会議 — カイハラ 産業の 新卒採用 ・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > ... > 繊維業界の企業一覧」（https://syukatsu-kaigi.jp/companies/164298・3回目）
+- 売上高：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部11頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部11頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部11頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部11頁・検索8回）
+
 ## カコウバ
 - 公式URL：https://xtox.co.jp/（given）
 - 所在地：・大阪本社 〒541-0047 大阪市中央区淡路町4丁目7-5 本町ハイエストビル4F ・東京支社 〒150-0012 東京都渋谷区広尾1丁目1-5 ・滋賀支社 〒526-0058 滋賀県長浜市南呉服町5-311 ポレスター長浜駅前2F（https://xtox.co.jp/company/・1回目）
@@ -6764,6 +7096,86 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 求人媒体：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索8回）
 - 採用の発信：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索8回）
 
+## クレセント
+- 公式URL：https://tobishima-lemon.jp/（given）
+- 所在地：〒737-2607 広島県呉市川尻町東3-8-35（https://tobishima-lemon.jp/company/・1回目）
+- 採用ページ：
+  - 「ARABIAN NIGHT Recruit」（https://tobishima-lemon.jp/recruit/recruit02/・1回目）
+  - 「マイナビ転職の『応募フォーム』よりエントリーしてください」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「総務事務／「2027年新卒採用」総務事務／一般事務／バックオフィス／土日祝休み」（https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%82%BB%E3%83%B3%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%82%BB%E3%83%B3%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%82%BB%E3%83%B3%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%82%BB%E3%83%B3%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%82%BB%E3%83%B3%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「CSSクレセント(株)の新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp74866/outline.html・3回目）
+  - 「過去3年間の新卒採用者数（男女別）」（https://job.mynavi.jp/27/pc/search/corp74866/outline.html・3回目）
+  - 「過去3年間の新卒採用者数・」（https://job.mynavi.jp/27/pc/search/corp74866/outline.html・3回目）
+- 想定年収・給与：
+  - 「CSSクレセント株式会社の求人情報／エンジニアと企業を結ぶ【人材コーディネーター】月給28万円以上 (125165)／東京都 | 転職・求人情報サイトのマイナビ転職【掲載終了】」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「エンジニアと企業を結ぶ【人材コーディネーター】月給28万円以上の求人情報」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「エンジニアと企業を結ぶ【人材コーディネーター】月給28万円以上」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「賞与実績5ヶ月分／年間休日124日／土日祝休み／残業月約20時間」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「400万～700万円」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「＼IT業界未経験OK！／月給28万円以上スタート＆入社2年目で賞与年109万実績⇒年収UPも目指せます◎」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「【収入UP】年収600万円超も可！賞与年109万円の実績有」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「＼2年目で賞与109万円の実績あり／」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「個人目標に対する年2回の評価の結果が昇給・賞与に反映されます」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「実際に、入社2年目で賞与109万円の社員も！」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「評価が昇進・給与に結びつくので安定したキャリア形成が可能です」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「⇒経験やスキルによっては、マネージャー候補として給与面を優遇します！」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%82%BB%E3%83%B3%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 求人媒体：
+  - 「CSSクレセント株式会社の求人情報／エンジニアと企業を結ぶ【人材コーディネーター】月給28万円以上 (125165)／東京都 | 転職・求人情報サイトのマイナビ転職【掲載終了】」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「マイナビ転職の『応募フォーム』よりエントリーしてください」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「※オプトアウトをした場合、マイナビ転職の一部サービスを利用できない場合があります」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「CSSクレセント(株)の新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp74866/outline.html・3回目）
+  - 「外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！」（https://job.mynavi.jp/27/pc/search/corp74866/outline.html・3回目）
+  - 「マイナビ２０２８ または ワンキャリアで、予約受付中です」（https://www.css-crescent.co.jp/recruit/new-graduates/・3回目）
+  - 「マイナビ２０２８またはワンキャリアからご予約を受け付けています」（https://www.css-crescent.co.jp/recruit/new-graduates/・3回目）
+- 採用の発信：
+  - 「ぜひ会社説明会で直接社員とお話ししてみてください！」（https://job.mynavi.jp/27/pc/search/corp74866/outline.html・3回目）
+  - 「当社には、経験豊富な先輩社員が多数在籍しており、ITエンジニアとして成長するための手厚いサポートが受けられます」（https://job.mynavi.jp/27/pc/search/corp74866/outline.html・3回目）
+  - 「元気いっぱいの若手社員に先輩社員も刺激を受けています」（https://job.mynavi.jp/27/pc/search/corp74866/outline.html・3回目）
+  - 「さらに、7月からは「OJT」として、新入社員を先輩社員がサポート」（https://job.mynavi.jp/27/pc/search/corp74866/outline.html・3回目）
+  - 「各プロジェクトに参画し、先輩社員のそばで業務や職場環境に慣れるための期間です」（https://job.mynavi.jp/27/pc/search/corp74866/outline.html・3回目）
+  - 「先輩社員が行っている仕事のお手伝いを中心に、さまざまな業務を覚えていきます」（https://job.mynavi.jp/27/pc/search/corp74866/outline.html・3回目）
+  - 「同じプロジェクトの先輩社員が、」（https://job.mynavi.jp/27/pc/search/corp74866/outline.html・3回目）
+  - 「良くも悪くも手取り足取り先輩社員から業務について教わります」（https://job.mynavi.jp/27/pc/search/corp74866/outline.html・3回目）
+  - 「１）会社説明会に参加」（https://www.css-crescent.co.jp/recruit/new-graduates/・3回目）
+  - 「当社のインターンシップを通じて、少しでも」（https://www.css-crescent.co.jp/recruit/new-graduates/・3回目）
+- 人手不足の発言：
+  - 「しかし、その「黄金の島」も生産者の高齢化や後継者不足など問題で、」（https://tobishima-lemon.jp/・1回目）
+  - 「【若手活躍中】風通し◎20代～30代が中心に活躍中」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます」（https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%82%BB%E3%83%B3%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「元気いっぱいの若手社員に先輩社員も刺激を受けています」（https://job.mynavi.jp/27/pc/search/corp74866/outline.html・3回目）
+  - 「「社員の中で積極的に『こんなことがやりたい』という人材がいれば、どんどん任せていきたい」と若手に大きな期待を寄せています」（https://job.mynavi.jp/27/pc/search/corp74866/outline.html・3回目）
+- 取引先・規模：
+  - 「株式会社フレスタホールディングス様、三菱…」（https://tobishima-lemon.jp/・1回目）
+  - 「県内の洋菓子工場の立ち上げや商品開発に携わる」（https://tobishima-lemon.jp/company/・1回目）
+  - 「10:00 取引先A社オンライン打合せ」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「14:00 取引先B社訪問」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「16:00 取引先C社訪問」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「9:00 取引先D社訪問」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「11:00 取引先E社オンライン定例会議」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「専務の中島は、三菱UFJ銀行で約10」（https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%82%BB%E3%83%B3%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「また、お取引先の業界は、幅広く多岐に渡ります」（https://job.mynavi.jp/27/pc/search/corp74866/outline.html・3回目）
+  - 「弊社の社員やお取引先様といった関係者の皆様からのご紹介以外の方からの」（https://www.css-crescent.co.jp/recruit/new-graduates/・3回目）
+- 検索結果の抜粋：
+  - 「CSS クレセント 株式会社の 求人 情報 - マイナビ転職 — CSS クレセント 株式会社の 求人 情報 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > ... > CSSクレセント株式会社」（https://tenshoku.mynavi.jp/jobinfo-125165-1-1-1/・3回目）
+  - 「クレセント 新卒 高卒 の求人情報をすべて見る （137件） — クレセント 新卒 高卒 の求人情報をすべて見る （137件） スタンバイ」（https://jp.stanby.com/search?q=%E3%82%AF%E3%83%AC%E3%82%BB%E3%83%B3%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「CSS クレセント (株)の 新卒採用 ・会社概要 | マイナビ2027 — CSS クレセント (株)の 新卒採用 ・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp74866 > outline」（https://job.mynavi.jp/27/pc/search/corp74866/outline.html・3回目）
+  - 「新卒採用 - CSSクレセント — 新卒採用 - CSSクレセント CSSクレセント https://www.css-crescent.co.jp > 採用情報」（https://www.css-crescent.co.jp/recruit/new-graduates/・3回目）
+  - 「CSS クレセント 株式会社「システムエンジニア」 新卒採用 情報 ... — CSS クレセント 株式会社「システムエンジニア」 新卒採用 情報 ... 就活ならリクナビ https://job.rikunabi.com > selection > job_descriptions」（https://job.rikunabi.com/selection/job_descriptions/25be22ee419ff0e4・3回目）
+  - 「CSS クレセント の 新卒採用 ・就職・企業情報 - 就活会議 — CSS クレセント の 新卒採用 ・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > ... > ソフトウェア業界の企業一覧」（https://syukatsu-kaigi.jp/companies/102091・3回目）
+- 創業年度：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部19頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部19頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部19頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部19頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部19頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部19頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部19頁・検索8回）
+
 ## クレファクト
 - 公式URL：https://www.crefact.co.jp/（given）
 - 所在地：本社 〒719-1154 岡山県総社市井尻野105 TEL：0866(93)1131（代） FAX：0866(93)1431 第二工場 〒719-1154 岡山県総社市井尻野字石堤439-4 東海工場 〒441-8074 愛知県豊橋市明海町2-16 TEL：0532(26)2772 滋賀工場 〒520-1823 滋賀県高島市マキノ町中庄464番地（https://www.crefact.co.jp/company・1回目）
@@ -7055,6 +7467,89 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 代表者：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部15頁・検索8回）
 - 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部15頁・検索8回）
 
+## ケンユー
+- 公式URL：https://www.kenyuu.co.jp/（given）
+- 所在地：〒721-0952　広島県福山市曙町4丁目7番30号（https://www.kenyuu.co.jp/company/・1回目）
+- 所在地：〒721-0952　広島県福山市曙町4丁目7番30号（https://www.kenyuu.co.jp/recruitment/・1回目）
+- 所在地：郵便番号 〒 - 住所が自動入力されます 都道府県 北海道 青森県 岩手県 宮城県 秋田県 山形県 福島県 茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県 新潟県 富山県 石川県 福井県 山梨県 長野県 岐阜県 静岡県 愛知県 三重県 滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県 鳥取県 島根県 岡山県 広島県 山口県 徳島県 香川県 愛媛県 高知県 福岡県 佐賀県 長崎県 大分県 宮崎県 熊本県 鹿児島県 沖縄県 市区町村 番地等 建物名（https://www.kenyuu.co.jp/recruitment/entry/・1回目）
+- 創業年度：創業：昭和51年6月10日（https://www.kenyuu.co.jp/company/・1回目）
+- 創業年度：創業：昭和51年6月10日（https://www.kenyuu.co.jp/recruitment/・1回目）
+- 創業年度：設立年：1976年（https://en-hyouban.com/company/10003068632/salary/・3回目）
+- 資本金：15,000,000円（https://www.kenyuu.co.jp/company/・1回目）
+- 資本金：15,000,000円（https://www.kenyuu.co.jp/recruitment/・1回目）
+- 資本金：15百万円（https://en-hyouban.com/company/10003068632/salary/・3回目）
+- 従業員数：43名（https://www.kenyuu.co.jp/company/・1回目）
+- 従業員数：40名（https://www.kenyuu.co.jp/recruitment/・1回目）
+- 従業員数：26 人（https://www.kenyuu.co.jp/recruitment/division/・1回目）
+- 売上高：13億1,317万円（2025年3月決算）（https://job.mynavi.jp/27/pc/search/corp259980/outline.html・3回目）
+- 事業内容：・携帯トイレ、災害備蓄トイレ、保冷商品、温感商品など日用小物用品の企画・開発・製造・販売（https://tenshoku.mynavi.jp/jobinfo-295211-3-6-1/・3回目）
+- 事業内容：【生活雑貨・災害対策用品の製造販売】 … ●生活雑貨…冷感・温感商品 冷凍庫で冷やしたジェル袋で体の各部位を冷やしたり、電子レンジで温めたジェル袋で温めたりする商品。 ●災害対策用品…携帯・簡易トイレ 渋滞、レジャーなどに便利な携帯型のトイレや 断水、災害時に水洗トイレが流せない時にトイレが使用出来る非常時トイレ、簡単に組立てが出来る簡易トイレ、目隠し用のテントなど 自社で開発した商品を自社で生産。全国の店舗や商社で販売中。 その他、防災備蓄品として中央省庁、官公庁、全国の自治体、民間企業などへの納品実績も多数あります。（https://job.mynavi.jp/27/pc/search/corp259980/outline.html・3回目）
+- 代表者：占部 克明（https://www.kenyuu.co.jp/company/・1回目）
+- 代表者：占部 克明（https://www.kenyuu.co.jp/recruitment/・1回目）
+- 代表者：占部克明（https://en-hyouban.com/company/10003068632/salary/・3回目）
+- 採用ページ：
+  - 「募集要項・応募フォーム | 株式会社ケンユー」（https://www.kenyuu.co.jp/recruitment/requirements/・1回目）
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E3%82%B1%E3%83%B3%E3%83%A6%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E3%82%B1%E3%83%B3%E3%83%A6%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E3%82%B1%E3%83%B3%E3%83%A6%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E3%82%B1%E3%83%B3%E3%83%A6%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「(株)ケンユーの新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp259980/outline.html・3回目）
+  - 「興味のある方は、エントリーをお願いします！」（https://job.mynavi.jp/27/pc/search/corp259980/outline.html・3回目）
+  - 「会社説明会も開催中ですので、こちらにもエントリーお願いします！」（https://job.mynavi.jp/27/pc/search/corp259980/outline.html・3回目）
+  - 「過去3年間の新卒採用者数（男女別）」（https://job.mynavi.jp/27/pc/search/corp259980/outline.html・3回目）
+  - 「過去3年間の新卒採用者数・」（https://job.mynavi.jp/27/pc/search/corp259980/outline.html・3回目）
+- 想定年収・給与：
+  - 「前社長 占部明雄が株式会社建友を広島県福山市手城町にて資本金１０００万円で創業設立」（https://www.kenyuu.co.jp/company/・1回目）
+  - 「株式会社パールポルテ資本金６００万円で創業設立」（https://www.kenyuu.co.jp/company/・1回目）
+  - 「資本金を５００万円増資し１５００万円に」（https://www.kenyuu.co.jp/company/・1回目）
+  - 「昇給年1回／賞与年2回（業績により年3回）」（https://www.kenyuu.co.jp/recruitment/requirements/・1回目）
+  - 「ケンユーの年収・給与 平均年収 - エン カイシャの評判」（https://en-hyouban.com/company/10003068632/salary/・3回目）
+  - 「株式会社ケンユーの年収・給与の口コミページです」（https://en-hyouban.com/company/10003068632/salary/・3回目）
+  - 「株式会社ケンユーで働く社員や元社員が投稿した、年収・給与に関する口コミを8件掲載中」（https://en-hyouban.com/company/10003068632/salary/・3回目）
+  - 「株式会社ケンユーの年収・給与についての口コミ」（https://en-hyouban.com/company/10003068632/salary/・3回目）
+  - 「この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？」（https://en-hyouban.com/company/10003068632/salary/・3回目）
+  - 「以前の成長期ならどんどん昇級、賞与があったものの、賞与月や昇給月直前に売り上げ云々言い出すことが毎度の事で経営陣が前社長から息子に交代したとたん会社事態は忙しいのに更に賞与、昇給が少なくなると言う意味不明な状況」（https://en-hyouban.com/company/10003068632/salary/・3回目）
+  - 「給与水準：給料は昔は儲かれば昇給月に上...」（https://en-hyouban.com/company/10003068632/salary/・3回目）
+  - 「給与水準：給料は昔は儲かれば昇給月に上げてくれていたが、何故かこの数年4月の昇給月が突然半年後の9月になった」（https://en-hyouban.com/company/10003068632/salary/・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E3%82%B1%E3%83%B3%E3%83%A6%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 求人媒体：
+  - 「マイナビ2027」（https://www.kenyuu.co.jp/recruitment/requirements/・1回目）
+  - 「株式会社ケンユーの求人情報／ニーズ高まる災害対策用品などの【企画・開発】★賞与実績4カ月 (295211)／広島県 | 転職・求人情報サイトのマイナビ転職【掲載終了】」（https://tenshoku.mynavi.jp/jobinfo-295211-3-6-1/・3回目）
+  - 「「マイナビ転職」応募フォームよりご応募ください」（https://tenshoku.mynavi.jp/jobinfo-295211-3-6-1/・3回目）
+  - 「お送りいただいたマイナビ転職の応募データをもとに書類選考いたします」（https://tenshoku.mynavi.jp/jobinfo-295211-3-6-1/・3回目）
+  - 「※オプトアウトをした場合、マイナビ転職の一部サービスを利用できない場合があります」（https://tenshoku.mynavi.jp/jobinfo-295211-3-6-1/・3回目）
+  - 「(株)ケンユーの新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp259980/outline.html・3回目）
+  - 「外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！」（https://job.mynavi.jp/27/pc/search/corp259980/outline.html・3回目）
+- 採用の発信：
+  - 「内部研修後、先輩社員と一緒に実際に営業に出ます」（https://www.kenyuu.co.jp/recruitment/division/・1回目）
+  - 「株式会社ケンユー 会社説明会【ケンユー本社で開催】」（https://job.mynavi.jp/27/pc/search/corp259980/outline.html・3回目）
+  - 「株式会社ケンユー 会社説明会【Webで開催】」（https://job.mynavi.jp/27/pc/search/corp259980/outline.html・3回目）
+  - 「～あなたのアイディアを形に～（株）ケンユー会社説明会募集中！ 夏採用実施中」（https://job.mynavi.jp/27/pc/search/corp259980/outline.html・3回目）
+  - 「会社説明会も開催中ですので、こちらにもエントリーお願いします！」（https://job.mynavi.jp/27/pc/search/corp259980/outline.html・3回目）
+- 人手不足の発言：
+  - 「建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます」（https://jp.stanby.com/search?q=%E3%82%B1%E3%83%B3%E3%83%A6%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 取引先・規模：
+  - 「広島県福山市曙町４丁目７番２１号に本社社屋、工場倉庫を新築移転」（https://www.kenyuu.co.jp/company/・1回目）
+  - 「工場、倉庫増設、保冷袋、携帯トイレ製造ライン新設」（https://www.kenyuu.co.jp/company/・1回目）
+  - 「現第二工場新設、自動包装機導入」（https://www.kenyuu.co.jp/company/・1回目）
+  - 「携帯トイレ用自動製袋機増設、萬年健美の開発、山野工場建設」（https://www.kenyuu.co.jp/company/・1回目）
+  - 「個人での役割はあるものの生産完了に向けて工場内全員のチームワークが重要でして、やり終えた達成感は大きく一体感を感じる事ができることです」（https://www.kenyuu.co.jp/recruitment/division/・1回目）
+  - 「専務の中島は、三菱UFJ銀行で約10」（https://jp.stanby.com/search?q=%E3%82%B1%E3%83%B3%E3%83%A6%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「特に、30年以上前に当社が開発した携帯用トイレは、災害時の備えとして全国の自治体や官公庁に納入しており、看板商品ともいえる存在です」（https://job.mynavi.jp/27/pc/search/corp259980/outline.html・3回目）
+  - 「福山市曙町（現第3工場）に本社、工場、倉庫移転」（https://job.mynavi.jp/27/pc/search/corp259980/outline.html・3回目）
+  - 「第2工場新設」（https://job.mynavi.jp/27/pc/search/corp259980/outline.html・3回目）
+- 検索結果の抜粋：
+  - 「ケンユー の 年収 ・給与 平均 年収 - エン カイシャの評判 — ケンユー の 年収 ・給与 平均 年収 - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company > salary」（https://en-hyouban.com/company/10003068632/salary/・3回目）
+  - 「株式会社 ケンユー の 求人 情報／ニーズ高まる災害対策用品など ... — 株式会社 ケンユー の 求人 情報／ニーズ高まる災害対策用品など ... マイナビ転職 https://tenshoku.mynavi.jp > ... > 株式会社ケンユー」（https://tenshoku.mynavi.jp/jobinfo-295211-3-6-1/・3回目）
+  - 「有限会社 ケンユー 空調設備の平均 年収 、年間給与所得情報 - doda — 有限会社 ケンユー 空調設備の平均 年収 、年間給与所得情報 - doda doda https://doda.jp > CompanyIncome > j_id__10128522469」（https://doda.jp/DodaFront/View/CompanyIncome/j_id__10128522469/・3回目）
+  - 「株式会社 ケンユー の 求人 一覧 （1件 ・23.0〜36.0万 ） — 株式会社 ケンユー の 求人 一覧 （1件 ・23.0〜36.0万 ） ハローワーク+(プラス) https://helloworkplus.com > job」（https://helloworkplus.com/job/34050-11646561/・3回目）
+  - 「ケンユー 新卒 高卒 の求人情報をすべて見る （136件） — ケンユー 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E3%82%B1%E3%83%B3%E3%83%A6%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「募集要項・応募フォーム - 株式会社ケンユー — 募集要項・応募フォーム - 株式会社ケンユー 株式会社ケンユー https://www.kenyuu.co.jp > 採用情報」（https://www.kenyuu.co.jp/recruitment/requirements/・3回目）
+  - 「(株) ケンユー の 新卒採用 ・会社概要 | マイナビ2027 — (株) ケンユー の 新卒採用 ・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp259980 > outline」（https://job.mynavi.jp/27/pc/search/corp259980/outline.html・3回目）
+  - 「ケンユー の 新卒採用 ・就職・企業情報 - 就活会議 — ケンユー の 新卒採用 ・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > ... > 医療業界の企業一覧」（https://syukatsu-kaigi.jp/companies/150336・3回目）
+- 主要取引先：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部15頁・検索8回）
+
 ## コアテック
 - 公式URL：https://www.coretec.co.jp/（given）
 - 所在地：〒719-1121 岡山県総社市赤浜500番地（https://www.coretec.co.jp/info/・1回目）
@@ -7314,6 +7809,72 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 売上高：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部8頁・検索8回）
 - 主要取引先：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部8頁・検索8回）
 
+## コルベンシュミット
+- 公式URL：https://www.kolbenschmidt-pistons.co.jp/（given）
+- 所在地：広島県東広島市高屋町郷660-1（https://www.openwork.jp/company.php?m_id=a0C1000001GYkfS・3回目）
+- 創業年度：設立年：2000年（https://www.openwork.jp/company.php?m_id=a0C1000001GYkfS・3回目）
+- 資本金：460百万円（https://www.openwork.jp/company.php?m_id=a0C1000001GYkfS・3回目）
+- 従業員数：100〜499人（https://www.openwork.jp/company.php?m_id=a0C1000001GYkfS・3回目）
+- 代表者：代表取締役社長 成林 宣彦（https://www.openwork.jp/company.php?m_id=a0C1000001GYkfS・3回目）
+- 採用ページ：
+  - 「人・仕事を知る – コルベンシュミット採用サイト」（https://kolbenschmidt-pistons.co.jp/recruit/persons/・1回目）
+  - 「人材開発 – コルベンシュミット採用サイト」（https://kolbenschmidt-pistons.co.jp/recruit/education/・1回目）
+  - 「募集要項 – コルベンシュミット採用サイト」（https://kolbenschmidt-pistons.co.jp/recruit/recruit/・1回目）
+  - 「【キャリア採用】アプリケーションエンジニア」（https://kolbenschmidt-pistons.co.jp/recruit/recruit/・1回目）
+  - 「【キャリア採用】品質マネジメントシステム運営・管理・改善担当」（https://kolbenschmidt-pistons.co.jp/recruit/recruit/・1回目）
+  - 「社内制度・取り組み – コルベンシュミット採用サイト」（https://kolbenschmidt-pistons.co.jp/recruit/systemplan/・1回目）
+  - 「福利厚生 – コルベンシュミット採用サイト」（https://kolbenschmidt-pistons.co.jp/recruit/benefits/・1回目）
+  - 「数字で見るコルベンシュミット – コルベンシュミット採用サイト」（https://kolbenschmidt-pistons.co.jp/recruit/data/・1回目）
+  - 「OpenWorkでは、新卒採用と中途採用それぞれの求人掲載が可能です」（https://www.openwork.jp/company.php?m_id=a0C1000001GYkfS・3回目）
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E3%82%B3%E3%83%AB%E3%83%99%E3%83%B3%E3%82%B7%E3%83%A5%E3%83%9F%E3%83%83%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E3%82%B3%E3%83%AB%E3%83%99%E3%83%B3%E3%82%B7%E3%83%A5%E3%83%9F%E3%83%83%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E3%82%B3%E3%83%AB%E3%83%99%E3%83%B3%E3%82%B7%E3%83%A5%E3%83%9F%E3%83%83%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 想定年収・給与：
+  - 「給与面だけでなく、企業年金制度など、充実した福利厚生を受けられます」（https://www.kolbenschmidt-pistons.co.jp/・1回目）
+  - 「給与面だけでなく、企業年金制度など、充実した福利厚生を受けられます」（https://www.kolbenschmidt-pistons.co.jp/index.html・1回目）
+  - 「給与面だけでなく、企業年金制度など、充実した福利厚生を受けられます」（https://kolbenschmidt-pistons.co.jp/index.html・1回目）
+  - 「年2回（4月、10月）別途決算賞与あり」（https://kolbenschmidt-pistons.co.jp/recruit/recruit/・1回目）
+  - 「23万円以上 ※ご経験により決定します」（https://kolbenschmidt-pistons.co.jp/recruit/recruit/・1回目）
+  - 「450万円以上 ※2025年実績相当額の決算賞与を含む」（https://kolbenschmidt-pistons.co.jp/recruit/recruit/・1回目）
+  - 「20万円以上 ※ご経験により決定します」（https://kolbenschmidt-pistons.co.jp/recruit/recruit/・1回目）
+  - 「420万円以上 ※想定される月20時間相当の時間外手当、2025年実績相当額の決算賞与を含む」（https://kolbenschmidt-pistons.co.jp/recruit/recruit/・1回目）
+  - 「24万円以上 ※ご経験により決定します」（https://kolbenschmidt-pistons.co.jp/recruit/recruit/・1回目）
+  - 「478万円以上 ※想定される月5時間相当の時間外手当、2025年実績相当額の決算賞与を含む」（https://kolbenschmidt-pistons.co.jp/recruit/recruit/・1回目）
+  - 「年収 400万〜1500万円」（https://www.openwork.jp/company.php?m_id=a0C1000001GYkfS・3回目）
+  - 「年収 580万〜1100万円」（https://www.openwork.jp/company.php?m_id=a0C1000001GYkfS・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E3%82%B3%E3%83%AB%E3%83%99%E3%83%B3%E3%82%B7%E3%83%A5%E3%83%9F%E3%83%83%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 求人媒体：
+  - 「高校新卒求人については学校・ハローワークを通じてご応募ください」（https://kolbenschmidt-pistons.co.jp/recruit/recruit/・1回目）
+- 取引先・規模：
+  - 「その後1917年に、父であるクリスチャン・シュミットが、後にアウディに買収されるNSUという自動車ブランドを設立していたネッカーズルムに拠点を移し、地理的にも自動車産業に近づきました」（https://www.kolbenschmidt-pistons.co.jp/・1回目）
+  - 「グローバルな生産拠点と、成長市場での持続可能なパートナーシップを活かし、「DRIVING」（https://www.kolbenschmidt-pistons.co.jp/・1回目）
+  - 「その後1917年に、父であるクリスチャン・シュミットが、後にアウディに買収されるNSUという自動車ブランドを設立していたネッカーズルムに拠点を移し、地理的にも自動車産業に近づきました」（https://www.kolbenschmidt-pistons.co.jp/index.html・1回目）
+  - 「グローバルな生産拠点と、成長市場での持続可能なパートナーシップを活かし、「DRIVING」（https://www.kolbenschmidt-pistons.co.jp/index.html・1回目）
+  - 「その後1917年に、父であるクリスチャン・シュミットが、後にアウディに買収されるNSUという自動車ブランドを設立していたネッカーズルムに拠点を移し、地理的にも自動車産業に近づきました」（https://kolbenschmidt-pistons.co.jp/index.html・1回目）
+  - 「グローバルな生産拠点と、成長市場での持続可能なパートナーシップを活かし、「DRIVING」（https://kolbenschmidt-pistons.co.jp/index.html・1回目）
+  - 「ピストンの量産工場における製造に関する業務（仕事内容詳細は配属先の工程により異なります）」（https://kolbenschmidt-pistons.co.jp/recruit/recruit/・1回目）
+  - 「在宅勤務（基本フルリモート）、もしくは広島本社工場」（https://kolbenschmidt-pistons.co.jp/recruit/recruit/・1回目）
+  - 「製造工場での生産に関する業務経験（年数不問）」（https://kolbenschmidt-pistons.co.jp/recruit/recruit/・1回目）
+  - 「三菱重工環境・化学エンジニアリング株式会社」（https://www.openwork.jp/company.php?m_id=a0C1000001GYkfS・3回目）
+  - 「専務の中島は、三菱UFJ銀行で約10」（https://jp.stanby.com/search?q=%E3%82%B3%E3%83%AB%E3%83%99%E3%83%B3%E3%82%B7%E3%83%A5%E3%83%9F%E3%83%83%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「ワークポートは全国47都道府県に拠点展開している総合型転職エージェントです」（https://www.workport.co.jp/all/search/company-710796954/・3回目）
+- 検索結果の抜粋：
+  - 「コルベンシュミット 株式会社 の 求人 ・中途採用情報 - doda — コルベンシュミット 株式会社 の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10093977893」（https://doda.jp/DodaFront/View/CompanyJobs/j_id__10093977893/・3回目）
+  - 「募集要項 – コルベンシュミット 採用サイト — 募集要項 – コルベンシュミット 採用サイト コルベンシュミット https://kolbenschmidt-pistons.co.jp > recruit > recruit」（https://kolbenschmidt-pistons.co.jp/recruit/recruit/・3回目）
+  - 「コルベンシュミット 「社員クチコミ」 就職・転職の採用企業 ... — コルベンシュミット 「社員クチコミ」 就職・転職の採用企業 ... OpenWork https://www.openwork.jp > 機械関連」（https://www.openwork.jp/company.php?m_id=a0C1000001GYkfS・3回目）
+  - 「コルベンシュミット 株式会社の管理職 求人 (広島県東広島市) — コルベンシュミット 株式会社の管理職 求人 (広島県東広島市) グローカルミッションジョブズ https://glocalmissionjobs.jp > search > detail」（https://glocalmissionjobs.jp/search/detail/307・3回目）
+  - 「コルベンシュミット の 年収 ・給料・ボーナス・評価制度の口コミ — コルベンシュミット の 年収 ・給料・ボーナス・評価制度の口コミ 転職会議 https://jobtalk.jp > companies > answers」（https://jobtalk.jp/companies/167095/answers/3371289・3回目）
+  - 「コルベンシュミット 新卒 高卒 の求人情報をすべて見る （136件） — コルベンシュミット 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E3%82%B3%E3%83%AB%E3%83%99%E3%83%B3%E3%82%B7%E3%83%A5%E3%83%9F%E3%83%83%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「募集要項 – コルベンシュミット採用 サイト — 募集要項 – コルベンシュミット採用 サイト コルベンシュミット https://kolbenschmidt-pistons.co.jp > recruit > recruit」（https://kolbenschmidt-pistons.co.jp/recruit/recruit/・3回目）
+  - 「コルベンシュミット 株式会社の求人情報一覧 - ワークポート — コルベンシュミット 株式会社の求人情報一覧 - ワークポート workport.co.jp https://www.workport.co.jp > 求人検索」（https://www.workport.co.jp/all/search/company-710796954/・3回目）
+  - 「コルベンシュミット の「 採用 情報」 OpenWork — コルベンシュミット の「 採用 情報」 OpenWork OpenWork https://www.openwork.jp > 機械関連 > コルベンシュミット」（https://www.openwork.jp/a0C1000001GYkfS/job/・3回目）
+- 売上高：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部11頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部11頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部11頁・検索8回）
+- 採用の発信：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部11頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部11頁・検索8回）
+
 ## サカエ理研工業
 - 公式URL：https://www.sakaeriken.co.jp/（given）
 - 所在地：愛知県清須市西枇杷島町宮前1の48（https://www.sakaeriken.co.jp/company/profile/・1回目）
@@ -7466,6 +8027,68 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部11頁・検索8回）
 - 代表者：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部11頁・検索8回）
 - 主要取引先：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部11頁・検索8回）
+
+## サクラオブルワリーアンドディスティラ
+- 公式URL：https://bottle-ai.com/（given）
+- 採用ページ：
+  - 「株式会社サクラオブルワリーアンドディスティラリーの転職・求人・中途採用情報|マイナビ転職」（https://tenshoku.mynavi.jp/company/224481/joblist/・3回目）
+  - 「株式会社サクラオブルワリーアンドディスティラリーの転職・求人・中途採用情報」（https://tenshoku.mynavi.jp/company/224481/joblist/・3回目）
+  - 「「株式会社サクラオブルワリーアンドディスティラリー」の転職・求人・中途採用情報を掲載しています」（https://tenshoku.mynavi.jp/company/224481/joblist/・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AA%E3%83%96%E3%83%AB%E3%83%AF%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AA%E3%83%96%E3%83%AB%E3%83%AF%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AA%E3%83%96%E3%83%AB%E3%83%AF%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AA%E3%83%96%E3%83%AB%E3%83%AF%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「株式会社サクラオブルワリーアンドディスティラリーの企業情報 | インターンシップ・新卒採用情報からES・面接対策まで掲載！キャリタス就活」（https://job.career-tasu.jp/corp/00000827/・3回目）
+  - 「新卒学生のためのインターンシップ・採用情報サイト」（https://job.career-tasu.jp/corp/00000827/・3回目）
+  - 「【27卒】エントリー受付中！たくさんのご応募お待ちしております！」（https://job.career-tasu.jp/corp/00000827/・3回目）
+  - 「新卒採用者数と離職者数（過去3年間）」（https://job.career-tasu.jp/corp/00000827/・3回目）
+  - 「新卒採用者数の男女別人数（過去3年間）」（https://job.career-tasu.jp/corp/00000827/・3回目）
+- 想定年収・給与：
+  - 「自社製品の味を守る【 品質管理 】賞与6ヶ月分(昨年)／年休123日」（https://tenshoku.mynavi.jp/company/224481/joblist/・3回目）
+  - 「月給25万円〜 + 諸手当」（https://tenshoku.mynavi.jp/company/224481/joblist/・3回目）
+  - 「◆賞与年2回（昨年度実績：6ヶ月分）」（https://tenshoku.mynavi.jp/company/224481/joblist/・3回目）
+  - 「自社製品を手がける【 製造 】*賞与6ヶ月分(昨年) *年休123日」（https://tenshoku.mynavi.jp/company/224481/joblist/・3回目）
+  - 「月給23万円〜 + 諸手当」（https://tenshoku.mynavi.jp/company/224481/joblist/・3回目）
+  - 「月給26.5万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AA%E3%83%96%E3%83%AB%E3%83%AF%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「【公式】＼新卒求人／！年休120日以上×キャリア支援が充実日の出医療福祉グループ 年間休日120日以上！車通勤・バイク通勤可能♪賞与・昇給あり★キャリアップ可能！ゼロから介護職デビュー◎ ■介護福祉施設にて、以下のようなお仕事をお願いします」（https://jp.stanby.com/search?q=%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AA%E3%83%96%E3%83%AB%E3%83%AF%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収316万円」（https://jp.stanby.com/search?q=%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AA%E3%83%96%E3%83%AB%E3%83%AF%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収251.2万円〜」（https://jp.stanby.com/search?q=%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AA%E3%83%96%E3%83%AB%E3%83%AF%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給19.2万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AA%E3%83%96%E3%83%AB%E3%83%AF%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収300万円〜600万円」（https://jp.stanby.com/search?q=%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AA%E3%83%96%E3%83%AB%E3%83%AF%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収350万円」（https://jp.stanby.com/search?q=%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AA%E3%83%96%E3%83%AB%E3%83%AF%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AA%E3%83%96%E3%83%AB%E3%83%AF%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 求人媒体：
+  - 「株式会社サクラオブルワリーアンドディスティラリーの転職・求人・中途採用情報|マイナビ転職」（https://tenshoku.mynavi.jp/company/224481/joblist/・3回目）
+  - 「※オプトアウトをした場合、マイナビ転職の一部サービスを利用できない場合があります」（https://tenshoku.mynavi.jp/company/224481/joblist/・3回目）
+- 採用の発信：
+  - 「株式会社サクラオブルワリーアンドディスティラリーの企業情報 | インターンシップ・新卒採用情報からES・面接対策まで掲載！キャリタス就活」（https://job.career-tasu.jp/corp/00000827/・3回目）
+  - 「新卒学生のためのインターンシップ・採用情報サイト」（https://job.career-tasu.jp/corp/00000827/・3回目）
+  - 「インターンシップ・キャリアに参加して、仕事のリアルを体験＆業界研究を進めよう！」（https://job.career-tasu.jp/corp/00000827/・3回目）
+  - 「業種やクチコミ、日程や報酬の有無などあなたに合ったインターンシップ・キャリアを検索できます」（https://job.career-tasu.jp/corp/00000827/・3回目）
+- 人手不足の発言：
+  - 「建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます」（https://jp.stanby.com/search?q=%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AA%E3%83%96%E3%83%AB%E3%83%AF%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 取引先・規模：
+  - 「専務の中島は、三菱UFJ銀行で約10」（https://jp.stanby.com/search?q=%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AA%E3%83%96%E3%83%AB%E3%83%AF%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「・エリア長以上になると、管轄エリア店舗の運営管理のほか、取引先との商談、バイヤー業務等にも携わっていただきます」（https://jp.stanby.com/search?q=%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AA%E3%83%96%E3%83%AB%E3%83%AF%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「37億円（2024年9月期）」（https://job.career-tasu.jp/corp/00000827/・3回目）
+- 検索結果の抜粋：
+  - 「サクラオブルワリーアンド ディスティラリーの「 年収 ・給与 ... — サクラオブルワリーアンド ディスティラリーの「 年収 ・給与 ... OpenWork https://www.openwork.jp > company_answer」（https://www.openwork.jp/company_answer.php?m_id=a0C10000013Fc34&q_no=2・3回目）
+  - 「株式会社 サクラオブルワリーアンド ディスティラリー — 株式会社 サクラオブルワリーアンド ディスティラリー マイナビ転職 https://tenshoku.mynavi.jp > company > joblist」（https://tenshoku.mynavi.jp/company/224481/joblist/・3回目）
+  - 「サクラオブルワリーアンド ディスティラリーの 年収 ・給料 ... — サクラオブルワリーアンド ディスティラリーの 年収 ・給料 ... 転職会議 https://jobtalk.jp > companies > answers」（https://jobtalk.jp/companies/116748/answers?question_codes=earns・3回目）
+  - 「サクラオブルワリーアンド ディスティラリーの「採用情報 ... — サクラオブルワリーアンド ディスティラリーの「採用情報 ... OpenWork https://www.openwork.jp > job」（https://www.openwork.jp/a0C10000013Fc34/job/・3回目）
+  - 「株式会社 サクラオブルワリーアンド ディスティラリーの企業情報 — 株式会社 サクラオブルワリーアンド ディスティラリーの企業情報 キャリタス就活 https://job.career-tasu.jp > corp」（https://job.career-tasu.jp/corp/00000827/・3回目）
+  - 「サクラオブルワリーアンドディスティラ 新卒 高卒 の求人情報をすべて見る （136件） — サクラオブルワリーアンドディスティラ 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AA%E3%83%96%E3%83%AB%E3%83%AF%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「サクラオブルワリーアンド ディスティラリー（旧：中国醸造） — サクラオブルワリーアンド ディスティラリー（旧：中国醸造） ワンキャリア https://www.onecareer.jp > companies」（https://www.onecareer.jp/companies/50943・3回目）
+  - 「サクラオブルワリーアンド ディスティラリー 「社員クチコミ ... — サクラオブルワリーアンド ディスティラリー 「社員クチコミ ... OpenWork https://www.openwork.jp > 食品、飲料」（https://www.openwork.jp/company.php?m_id=a0C10000013Fc34・3回目）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
 
 ## サタケ豊栄
 - 公式URL：https://satake-toyosaka.co.jp/（given）
@@ -7664,6 +8287,46 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
   - 「サムソン の 新卒採用 ・就職・企業情報 - 就活会議 — サムソン の 新卒採用 ・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > companies」（https://syukatsu-kaigi.jp/companies/18228・3回目）
   - 「(株) サムソン の 採用 データ | マイナビ2027 — (株) サムソン の 採用 データ | マイナビ2027 マイナビ https://job.mynavi.jp > corpinfo > displayEmployment」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=80226&recruitingCourseId=27002492・3回目）
 - 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部8頁・検索8回）
+
+## サワテクノ
+- 公式URL：https://www.kensetumap.com/（given）
+- 採用ページ：
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%AF%E3%83%86%E3%82%AF%E3%83%8E+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%AF%E3%83%86%E3%82%AF%E3%83%8E+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%AF%E3%83%86%E3%82%AF%E3%83%8E+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%AF%E3%83%86%E3%82%AF%E3%83%8E+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 想定年収・給与：
+  - 「年収251.2万円〜」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%AF%E3%83%86%E3%82%AF%E3%83%8E+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収316万円」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%AF%E3%83%86%E3%82%AF%E3%83%8E+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収300万円〜600万円」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%AF%E3%83%86%E3%82%AF%E3%83%8E+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収350万円」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%AF%E3%83%86%E3%82%AF%E3%83%8E+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給19万円〜20.9万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%AF%E3%83%86%E3%82%AF%E3%83%8E+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収303.6万円〜600万円」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%AF%E3%83%86%E3%82%AF%E3%83%8E+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給19.2万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%AF%E3%83%86%E3%82%AF%E3%83%8E+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収258万円」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%AF%E3%83%86%E3%82%AF%E3%83%8E+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収240万円〜840万円」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%AF%E3%83%86%E3%82%AF%E3%83%8E+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収295万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%AF%E3%83%86%E3%82%AF%E3%83%8E+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給20万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%AF%E3%83%86%E3%82%AF%E3%83%8E+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%AF%E3%83%86%E3%82%AF%E3%83%8E+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%AF%E3%83%86%E3%82%AF%E3%83%8E+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 人手不足の発言：
+  - 「建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%AF%E3%83%86%E3%82%AF%E3%83%8E+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 取引先・規模：
+  - 「専務の中島は、三菱UFJ銀行で約10」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%AF%E3%83%86%E3%82%AF%E3%83%8E+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 検索結果の抜粋：
+  - 「サワテクノ 新卒 高卒 の求人情報をすべて見る （136件） — サワテクノ 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%AF%E3%83%86%E3%82%AF%E3%83%8E+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「有限会社 サワテクノ - 広島県 — 有限会社 サワテクノ - 広島県 広島県公式ホームページ https://www.pref.hiroshima.lg.jp > onlyonenoonezigyou」（https://www.pref.hiroshima.lg.jp/site/onlyonenoonezigyou/1265766087790.html・3回目）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
+- 採用の発信：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
 
 ## サンエス
 - 公式URL：https://www.sun-s.jp/（given）
@@ -8003,6 +8666,96 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 事業内容：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部5頁・検索8回）
 - 代表者：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部5頁・検索8回）
 - 主要取引先：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部5頁・検索8回）
+
+## サンポール
+- 公式URL：https://www.sunpole.co.jp/（given）
+- 所在地：〒730-8667 広島市中区南吉島2丁目4-5 Tel: 082-244-4655 （代表）Fax:082-243-5914（https://www.sunpole.co.jp/・1回目）
+- 所在地：〒730-8667 広島市中区南吉島2丁目4-5 Tel: 082-244-4655 （代表）Fax:082-243-5914（https://www.sunpole.co.jp/product-new/・1回目）
+- 所在地：〒730-8667 広島市中区南吉島2丁目4-5 Tel: 082-244-4655 （代表）Fax:082-243-5914（https://www.sunpole.co.jp/product-all/・1回目）
+- 創業年度：設立：1970年9月24日（登記日9月25日）（https://www.sunpole.co.jp/company/・1回目）
+- 創業年度：設立年：1970年（https://en-hyouban.com/company/00005926270/salary/・3回目）
+- 創業年度：設立：1970年9月24日（https://job.mynavi.jp/27/pc/search/corp51582/outline.html・3回目）
+- 資本金：1億円（https://www.sunpole.co.jp/company/・1回目）
+- 資本金：100百万円（https://en-hyouban.com/company/00005926270/salary/・3回目）
+- 資本金：1億円（https://job.mynavi.jp/27/pc/search/corp51582/outline.html・3回目）
+- 従業員数：183名(2026年9月30日現在)（https://www.sunpole.co.jp/company/・1回目）
+- 従業員数：180名（https://en-hyouban.com/company/00005926270/salary/・3回目）
+- 従業員数：176名（2025年9月末現在）（https://job.mynavi.jp/27/pc/search/corp51582/outline.html・3回目）
+- 売上高：56億0326万円（2025年9月） 54億1176万円（2024年9月） 54億0307万円（2023年9月）（https://job.mynavi.jp/27/pc/search/corp51582/outline.html・3回目）
+- 売上高：56億0326万円（2025年9月）
+54億1176万円（2024年9月）
+54億0307万円（2023年9月）（https://job.mynavi.jp/27/pc/search/corp51582/outline.html・3回目）
+- 事業内容：新製品・ピックアップ製品 全製品一覧 車止め・景観製品 耐衝撃性車止め インパクトシリーズ リフター上下式 ピラー アーチ ボラード ユニバーサルデザインゲート ガードコーン 擬石 横断防止柵 手すり(サンリード) サポーター・ベンチ 照明内蔵シリーズ 手動ゲート 電動チェーンゲート オリジナル その他 部品 旗ポール ロープ型 ハンドル型 ハンドル型テーパーポール ロープ型高層用・特別仕様 ロープ型高層用避雷針兼用 ハンドル型テーパーポール特別仕様 のぼりポール バナーポールBPNタイプ バナーポールBPBタイプ 水平型 水平型アウトリガー式 水平型直角アウトリガー式 柱取付水平型ポール ミニフラッガー コミュニティポール 交換用部品（https://www.sunpole.co.jp/・1回目）
+- 事業内容：耐衝撃性車止め インパクトシリーズ リフター上下式 ピラー アーチ ボラード ユニバーサルデザインゲート ガードコーン 擬石 横断防止柵 手すり(サンリード) サポーター・ベンチ 照明内蔵シリーズ 手動ゲート 電動チェーンゲート オリジナル その他 部品（https://www.sunpole.co.jp/・1回目）
+- 事業内容：新製品・ピックアップ製品 車止め・景観製品 旗ポール 全製品一覧（https://www.sunpole.co.jp/・1回目）
+- 代表者：代表取締役社長　山根　令（https://www.sunpole.co.jp/company/・1回目）
+- 代表者：山根　令（https://www.sunpole.co.jp/company/・1回目）
+- 代表者：山根令（https://en-hyouban.com/company/00005926270/salary/・3回目）
+- 採用ページ：
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「(株)サンポールの新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp51582/outline.html・3回目）
+  - 「東京開発職のエントリーをお待ちしております！」（https://job.mynavi.jp/27/pc/search/corp51582/outline.html・3回目）
+  - 「https://www.sunpole.co.jp/recruit-interview-list/」（https://job.mynavi.jp/27/pc/search/corp51582/outline.html・3回目）
+  - 「過去3年間の新卒採用者数（男女別）」（https://job.mynavi.jp/27/pc/search/corp51582/outline.html・3回目）
+  - 「過去3年間の新卒採用者数・」（https://job.mynavi.jp/27/pc/search/corp51582/outline.html・3回目）
+- 想定年収・給与：
+  - 「サンポールの年収・給与 平均年収 - エン カイシャの評判」（https://en-hyouban.com/company/00005926270/salary/・3回目）
+  - 「株式会社サンポールの年収・給与の口コミページです」（https://en-hyouban.com/company/00005926270/salary/・3回目）
+  - 「株式会社サンポールで働く社員や元社員が投稿した、年収・給与に関する口コミを8件掲載中」（https://en-hyouban.com/company/00005926270/salary/・3回目）
+  - 「株式会社サンポールの年収・給与についての口コミ」（https://en-hyouban.com/company/00005926270/salary/・3回目）
+  - 「この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？」（https://en-hyouban.com/company/00005926270/salary/・3回目）
+  - 「給与制度:業績は安定しており、売り上げ...」（https://en-hyouban.com/company/00005926270/salary/・3回目）
+  - 「賞与は、夏、秋、冬で支給される」（https://en-hyouban.com/company/00005926270/salary/・3回目）
+  - 「毎月の給与は、他の製造業と比較して、日勤なので夜勤手当がないのと残業自体が少ないので満足する程は得られない」（https://en-hyouban.com/company/00005926270/salary/・3回目）
+  - 「給与の構成は本人給＋職能給＋住宅補助手当などの各種手当で構成されている」（https://en-hyouban.com/company/00005926270/salary/・3回目）
+  - 「給与制度：会社自体が安定した業績をあげ...」（https://en-hyouban.com/company/00005926270/salary/・3回目）
+  - 「会社自体が安定した業績をあげていることもあり、急激な増減はなく昇給も緩やかな上昇カーブ」（https://en-hyouban.com/company/00005926270/salary/・3回目）
+  - 「賞与に関しても長年規定通り以上の金額が支給されており、中小の規模の会社で安定を求めて長く腰を据えて働くなら良いかと思う」（https://en-hyouban.com/company/00005926270/salary/・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 求人媒体：
+  - 「株式会社サンポール（121418）の転職・求人情報一覧｜エン転職」（https://employment.en-japan.com/comp-121418/list/・3回目）
+  - 「エン転職では、様々な条件から転職・求人情報をさがすことができます」（https://employment.en-japan.com/comp-121418/list/・3回目）
+  - 「【株式会社サンポールの転職・求人情報一覧】 - 日本最大級の転職サイト、エンのエン転職」（https://employment.en-japan.com/comp-121418/list/・3回目）
+  - 「日本最大級の求人情報数を誇るエンの転職サイト、エン転職」（https://employment.en-japan.com/comp-121418/list/・3回目）
+  - 「また、掲載している転職情報は、エン転職の担当者が独自に各企業取材を行った情報に加え、社員、元社員からのクチコミ情報など様々な情報を掲載し、多角的に情報提供を行っています」（https://employment.en-japan.com/comp-121418/list/・3回目）
+  - 「(株)サンポールの新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp51582/outline.html・3回目）
+  - 「外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！」（https://job.mynavi.jp/27/pc/search/corp51582/outline.html・3回目）
+- 採用の発信：
+  - 「観光地や店舗にフォトスポットを作りたい！InstagramやTwitterに写真を投稿してもらい知名度UPや集客を図りたい！そんな施設管理者の皆さまにおススメの製品です」（https://www.sunpole.co.jp/product-new/・1回目）
+  - 「自分の働いている職場や仕事について、先輩社員にいろいろ聞いてみました」（https://www.sunpole.co.jp/recruit/・1回目）
+- 人手不足の発言：
+  - 「とくに20代～30代の若手の働きに注目してくれるので、自分が思う以上に評価してもらえる」（https://en-hyouban.com/company/00005926270/salary/・3回目）
+  - 「建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「現場を長く経験していたため、若手社員とは年齢だけではなく距離感も近い存在です」（https://job.mynavi.jp/27/pc/search/corp51582/outline.html・3回目）
+- 取引先・規模：
+  - 「広島市中区光南3-7-27に本社・工場を集約」（https://www.sunpole.co.jp/outline/・1回目）
+  - 「自動倉庫（1200パレット収納）と直結したＣ工場完成」（https://www.sunpole.co.jp/outline/・1回目）
+  - 「KONAN 2014工場完成(広島市中区光南6-3-19)」（https://www.sunpole.co.jp/outline/・1回目）
+  - 「タイのグループ会社European Flagpole Co., Ltd. 工場建て替え」（https://www.sunpole.co.jp/outline/・1回目）
+  - 「売上高50億円を超える」（https://www.sunpole.co.jp/outline/・1回目）
+  - 「納入現場紹介(7)」（https://www.sunpole.co.jp/product-story/・1回目）
+  - 「【新着情報】納入実績：千葉県 イオンモール成田 (採用製品：スマホスタンド CMS-200M 特注仕様)」（https://www.sunpole.co.jp/product-story/・1回目）
+  - 「社員1人ひとりが目標を掲げ、smileの輪をお取引先様、そして社会全体へと広げていくことを目指しています」（https://www.sunpole.co.jp/recruit/・1回目）
+  - 「専務の中島は、三菱UFJ銀行で約10」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「4期連続過去最高売上更新中、グループ会社追加、新工場建設計画中」（https://job.mynavi.jp/27/pc/search/corp51582/outline.html・3回目）
+  - 「東京駅や京都国立博物館・広島の平和記念公園・マツダスタジアムなど、みなさんの身の周りの様々な場面に当社製品が採用されています」（https://job.mynavi.jp/27/pc/search/corp51582/outline.html・3回目）
+  - 「新工場建設計画中など、創業50年を超えてなお成長中です」（https://job.mynavi.jp/27/pc/search/corp51582/outline.html・3回目）
+- 検索結果の抜粋：
+  - 「サンポール の 年収 ・給与 平均 年収 - エン カイシャの評判 — サンポール の 年収 ・給与 平均 年収 - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company > salary」（https://en-hyouban.com/company/00005926270/salary/・3回目）
+  - 「株式会社 サンポール （121418）の転職・ 求人 情報一覧 — 株式会社 サンポール （121418）の転職・ 求人 情報一覧 エン転職 https://employment.en-japan.com > 会社名一覧」（https://employment.en-japan.com/comp-121418/list/・3回目）
+  - 「株式会社 サンポール の平均 年収 、年間給与所得情報 - doda — 株式会社 サンポール の平均 年収 、年間給与所得情報 - doda doda https://doda.jp > CompanyIncome > j_id__00005926270」（https://doda.jp/DodaFront/View/CompanyIncome/j_id__00005926270/・3回目）
+  - 「サンポール の 年収 ・ボーナス・給与・初任給に関する評判 ... — サンポール の 年収 ・ボーナス・給与・初任給に関する評判 ... 就活会議 https://syukatsu-kaigi.jp > post_items > word_mouths」（https://syukatsu-kaigi.jp/companies/18373/post_items/2/word_mouths・3回目）
+  - 「採用ページトップ | 車止めや旗 ポール 等の製造販売なら株式 ... — 採用ページトップ | 車止めや旗 ポール 等の製造販売なら株式 ... 株式会社サンポール https://www.sunpole.co.jp > recruit」（https://www.sunpole.co.jp/recruit/・3回目）
+  - 「サンポール 新卒 高卒 の求人情報をすべて見る （136件） — サンポール 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E3%82%B5%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「採用 ページトップ | 車止めや旗 ポール 等の製造販売なら株式 ... — 採用 ページトップ | 車止めや旗 ポール 等の製造販売なら株式 ... 株式会社サンポール https://www.sunpole.co.jp > recruit」（https://www.sunpole.co.jp/recruit/・3回目）
+  - 「(株) サンポール の 新卒採用 ・会社概要 | マイナビ2027 — (株) サンポール の 新卒採用 ・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp51582 > outline」（https://job.mynavi.jp/27/pc/search/corp51582/outline.html・3回目）
+  - 「サンポール の 新卒採用 ・就職・企業情報 - 就活会議 — サンポール の 新卒採用 ・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > companies」（https://syukatsu-kaigi.jp/companies/18373・3回目）
+  - 「採用 情報｜車止めや旗 ポール 等の製造販売なら株式会社 サン ... — 採用 情報｜車止めや旗 ポール 等の製造販売なら株式会社 サン ... 株式会社サンポール https://www.sunpole.co.jp > recruit-list」（https://www.sunpole.co.jp/recruit-list/・3回目）
+- 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部15頁・検索8回）
 
 ## サンライト工業
 - 公式URL：https://www.ne.jp/（given）
@@ -8554,6 +9307,91 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
   - 「シンコー (株)の 新卒採用 ・会社概要 | マイナビ2027 — シンコー (株)の 新卒採用 ・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp72781 > outline」（https://job.mynavi.jp/27/pc/search/corp72781/outline.html・3回目）
 - 所在地：記載なし（3回確認済み：公式12頁／PDF・画像5件／外部22頁・検索8回）
 - 事業内容：記載なし（3回確認済み：公式12頁／PDF・画像5件／外部22頁・検索8回）
+
+## シーエックスアール
+- 公式URL：https://cxr.co.jp/（given）
+- 所在地：呉本社 〒737‐8516 広島県呉市三条二丁目4番10号 （TEL）0823 - 22 - 4100（FAX）0823 - 24 - 4467 東京支社 〒143‐0006 東京都大田区平和島六丁目1番1号 東京流通センター　センタービル9階（https://cxr.co.jp/company/・1回目）
+- 所在地：〒737‐8516 広島県呉市三条二丁目4番10号 （TEL）0823 - 22 - 4100（FAX）0823 - 24 - 4467（https://cxr.co.jp/company/・1回目）
+- 所在地：東京支社）を大田区に移転（新規事業室、京浜営業所を統合）（https://cxr.co.jp/company/・1回目）
+- 創業年度：設立：1960年4月（https://cxr.co.jp/company/・1回目）
+- 創業年度：設立：1960年4月（https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/・3回目）
+- 創業年度：創業：1958年（昭和33年）（https://job.mynavi.jp/27/pc/search/corp85887/outline.html・3回目）
+- 資本金：5000万円（https://cxr.co.jp/company/・1回目）
+- 資本金：5000万円（https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/・3回目）
+- 資本金：5,000万円（https://job.mynavi.jp/27/pc/search/corp85887/outline.html・3回目）
+- 従業員数：技術系／292名　事務系／61名　（2026年4月1日現在）（https://cxr.co.jp/company/・1回目）
+- 従業員数：技術系：301名／事務系：50名（2025年4月1日現在）（https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/・3回目）
+- 従業員数：343名（2025年4月1日現在）（https://job.mynavi.jp/27/pc/search/corp85887/outline.html・3回目）
+- 売上高：45億577万円（2025年3月期）（https://job.mynavi.jp/27/pc/search/corp85887/outline.html・3回目）
+- 事業内容：【検査種目別分類】 放射線透過試験（RT） 超音波探傷試験（UT） 厚み測定（UTT） 磁気探傷試験（MT） 浸透探傷試験（PT） 渦電流試験（ET） 赤外線サーモグラフィ試験（TT） 【目的別検査業務】 製品検査 保守検査 【検査関連の役務提供】 検査技術者の派遣（国内、海外） QA／QC業務（国内、海外） 上記に付随する製品受入検査、工程ドキュメント管理、等の業務 【開発業務】 自社研究開発及び海外技術導入 委託・共同研究・開発事業（https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/・3回目）
+- 事業内容：◆非破壊検査 放射線透過・超音波探傷・磁粉探傷・浸透探傷・渦電流探傷など、多彩な検査メニューを用いて、発電所、ビル、石油化学プラント、造船所など“社会を動かす基盤”の安全を確認します。 壊すことができない重要設備に対して、「どこに・どの程度のきずがあるのか」を探り、設備の運転継続や補修計画の判断材料を提供します。 ◆コンサルティング・技術開発 非破壊検査の結果をもとに、設備の寿命予測やリスク評価、最適な検査計画の提案も行います。 また、自社開発機器や海外技術を活用し、「より壊さない」「より精度を高める」技術の導入・検証も進めています。 「人が立ち入るには危険な場所・届きにくい場所」をより安全・効率的に検査する技術開発にも取り組んでいます。安定したインフラ業界に身を置きながら、最前線の技術テーマにタッチできるのがCXRの特徴です。 2016年に開設した研修開発センターには非破壊検査に必要な各種資格の実務試験を訓練できる設備も完備。長期的な視点で人材を育てる上でも重要な役割を担っています。（https://job.mynavi.jp/27/pc/search/corp85887/outline.html・3回目）
+- 代表者：代表取締役社長　中川　政峰（https://cxr.co.jp/company/・1回目）
+- 代表者：代表取締役社長　小早川 孝（https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/・3回目）
+- 代表者：代表取締役　中川　政峰（https://job.mynavi.jp/27/pc/search/corp85887/outline.html・3回目）
+- 主要取引先：日立グループ、三井化学グループ、旭化成グループ、住友化学グループ 三井E&Sグループ、JFEスチールグループ、東芝グループ、三菱グループ（https://job.mynavi.jp/27/pc/search/corp85887/outline.html・3回目）
+- 採用ページ：
+  - 「労働施策総合推進法に基づく中途採用比率の公表」（https://cxr.co.jp/company/・1回目）
+  - 「recruit-compliance@cxr.co.jp」（https://cxr.co.jp/about/policy/・1回目）
+  - 「CXRを知る | 株式会社シーエックスアール採用サイト」（https://cxr.co.jp/recruit/about/・1回目）
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「(株)シーエックスアールの新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp85887/outline.html・3回目）
+  - 「皆さまのエントリーを心よりお待ちしております！」（https://job.mynavi.jp/27/pc/search/corp85887/outline.html・3回目）
+  - 「過去3年間の新卒採用者数（男女別）」（https://job.mynavi.jp/27/pc/search/corp85887/outline.html・3回目）
+  - 「過去3年間の新卒採用者数・」（https://job.mynavi.jp/27/pc/search/corp85887/outline.html・3回目）
+- 想定年収・給与：
+  - 「5000万円」（https://cxr.co.jp/company/・1回目）
+  - 「（１） 派遣者賃金には賞与（派遣期間に応じた額） 、有給休暇取得時の賃金を含みます」（https://cxr.co.jp/wp-content/themes/cxr/assets/documents/company/haken-margin-honsha.pdf?ver=1784318130・2回目）
+  - 「株式会社シーエックスアールの求人情報／構造物の【非破壊検査】超安定業界！未経験でも年収400万～ (402236) | 転職・求人情報サイトのマイナビ転職【掲載終了】」（https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/・3回目）
+  - 「構造物の【非破壊検査】超安定業界！未経験でも年収400万～の求人情報」（https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/・3回目）
+  - 「構造物の【非破壊検査】超安定業界！未経験でも年収400万～」（https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/・3回目）
+  - 「400万～600万円」（https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/・3回目）
+  - 「社員を大切に利益は還元！賞与年6ヵ月分支給実績+年末年始は9連休ありでプライベートも充実◎」（https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/・3回目）
+  - 「【賞与年6ヵ月分実績】扶養手当、住居手当などあり」（https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/・3回目）
+  - 「月給23万200円～＋諸手当＋賞与年2回(年6ヵ月分支給実績)」（https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/・3回目）
+  - 「想定年収400万円」（https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/・3回目）
+  - 「初年度年収は、入社後向こう一年間に支給される予定の金額で、基本給に諸手当と前年度の標準的な査定ベースの賞与額を加えたものです」（https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/・3回目）
+  - 「初年度年収は、入社される方のスキルや経験によって必ずしも一定ではありませんので、検索した年収額と実際に入社した際の金額は異なる場合があります」（https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 求人媒体：
+  - 「株式会社シーエックスアールの求人情報／構造物の【非破壊検査】超安定業界！未経験でも年収400万～ (402236) | 転職・求人情報サイトのマイナビ転職【掲載終了】」（https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/・3回目）
+  - 「◆◇マイナビ転職の「この求人に応募する」よりご応募ください◆◇」（https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/・3回目）
+  - 「※オプトアウトをした場合、マイナビ転職の一部サービスを利用できない場合があります」（https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/・3回目）
+  - 「(株)シーエックスアールの新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp85887/outline.html・3回目）
+  - 「外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！」（https://job.mynavi.jp/27/pc/search/corp85887/outline.html・3回目）
+- 採用の発信：
+  - 「☆【秋採用実施中】会社説明会にぜひご参加ください☆」（https://job.mynavi.jp/27/pc/search/corp85887/outline.html・3回目）
+  - 「現場での実践では弊社営業所に出張し、そこで勤務されている先輩社員について業務経験を積んでいきます」（https://job.mynavi.jp/27/pc/search/corp85887/outline.html・3回目）
+- 人手不足の発言：
+  - 「◆若手活躍中！将来に備えて手に職を！◆社寮あり◆年休120日」（https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/・3回目）
+  - 「技術力の向上はもちろんのこと、人間力の育成にも力を入れ、「失敗事例を共有して次に活かす」「少人数チームで若手でもリーダーを経験」など、チャレンジしやすい風土が根づいているのも当社ならではです」（https://job.mynavi.jp/27/pc/search/corp85887/outline.html・3回目）
+- 取引先・規模：
+  - 「日本全国16拠点から社会インフラの安全を支えています」（https://cxr.co.jp/・1回目）
+  - 「私たちCXRは、1958年の創業以来、電力・石油化学・造船・建設・鉄鋼など、幅広い産業分野で検査サービスを提供してきました」（https://cxr.co.jp/・1回目）
+  - 「全国16拠点、60年以上の実績」（https://cxr.co.jp/・1回目）
+  - 「これらの検査技術については、電力、ガス、石油をはじめとするエネルギー業界や、石油化学、製鉄、製紙、造船、電気機器製造メーカー等、我が国の基幹産業部門において幅広く採用されています」（https://cxr.co.jp/・1回目）
+  - 「電力、石油化学、造船、建設、鉄鋼」（https://cxr.co.jp/about/・1回目）
+  - 「三菱UFJ銀行、広島銀行、呉信用金庫」（https://cxr.co.jp/company/・1回目）
+  - 「未経験から2年間で国家資格取得を目指せる体系的な教育ロードマップに加え、全国16拠点でのOJT、少人数チームによる安全第一の文化が、あなたを確かな“プロ”へと導きます」（https://cxr.co.jp/recruit/・1回目）
+  - 「非破壊検査業界を支える主要企業の一角として、全国16拠点のネットワーク、充実した教育体制、そして安定した事業基盤を築いてきました」（https://cxr.co.jp/recruit/・1回目）
+  - 「創業から60年超、全国16拠点、グループ6社――CXRの規模と安定性を支える数字をまとめました」（https://cxr.co.jp/recruit/・1回目）
+  - 「神奈川県横浜市磯子区新杉田町12 JMU(株)磯子工場 技能訓練所内」（https://cxr.co.jp/company/address/・1回目）
+  - 「非破壊検査業界を支える主要企業の一角として、全国16拠点のネットワーク、充実した教育体制、そして安定した事業基盤を築いてきました」（https://cxr.co.jp/recruit/about/・1回目）
+  - 「創業から60年超、全国16拠点、グループ6社」（https://cxr.co.jp/recruit/about/・1回目）
+- 検索結果の抜粋：
+  - 「【笠岡市】非破壊検査技術者 - 株式会社 シーエックスアール — 【笠岡市】非破壊検査技術者 - 株式会社 シーエックスアール オカジョブ転職 https://okaten.okajob.com > kyujin」（https://okaten.okajob.com/kyujin/88568・3回目）
+  - 「株式会社 シーエックスアール の 求人 情報 - マイナビ転職 — 株式会社 シーエックスアール の 求人 情報 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > jobinfo-402236-1-2-1」（https://tenshoku.mynavi.jp/jobinfo-402236-1-2-1/・3回目）
+  - 「シーエックスアール の「 年収 ・給与制度」 OpenWork — シーエックスアール の「 年収 ・給与制度」 OpenWork OpenWork https://www.openwork.jp > ... > シーエックスアール」（https://www.openwork.jp/company_answer.php?m_id=a0C1000000f3dGY&q_no=2・3回目）
+  - 「株式会社 シーエックスアール の 求人 ・中途採用情報 - doda — 株式会社 シーエックスアール の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10002716693」（https://doda.jp/DodaFront/View/CompanyJobs/j_id__10002716693/・3回目）
+  - 「株式会社 シーエックスアール の製造・開発 (電気・機械・金属 ... — 株式会社 シーエックスアール の製造・開発 (電気・機械・金属 ... Indeed https://jp.indeed.com > 株式会社シーエックスアール > 給与」（https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB/salaries?job_category=engmech・3回目）
+  - 「シーエックスアール 新卒 高卒 の求人情報をすべて見る （137件） — シーエックスアール 新卒 高卒 の求人情報をすべて見る （137件） スタンバイ」（https://jp.stanby.com/search?q=%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「採用 情報 | 株式会社 シーエックスアール採用 サイト — 採用 情報 | 株式会社 シーエックスアール採用 サイト 株式会社シーエックスアール https://cxr.co.jp > recruit > information」（https://cxr.co.jp/recruit/information/・3回目）
+  - 「(株) シーエックスアール の 新卒採用 ・会社概要 | マイナビ2027 — (株) シーエックスアール の 新卒採用 ・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp85887 > outline」（https://job.mynavi.jp/27/pc/search/corp85887/outline.html・3回目）
+  - 「株式会社 シーエックスアール - 千葉県 地域しごとNAVI — 株式会社 シーエックスアール - 千葉県 地域しごとNAVI 千葉県 地域しごとNAVI https://www.chiba-chiikishigoto.jp > corpinfo」（https://www.chiba-chiikishigoto.jp/corpinfo/70497/・3回目）
+  - 「株式会社 シーエックスアール の 新卒採用 情報 | オカジョブ2028 — 株式会社 シーエックスアール の 新卒採用 情報 | オカジョブ2028 オカジョブ https://okajob.com > company > detail」（https://okajob.com/2028/company/detail.html?cmp_id=9096・3回目）
 
 ## シーオーツープラス
 - 公式URL：https://www.co2plus.co.jp/（given）
@@ -9174,6 +10012,75 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
   - 「スミメックエンジニアリング の 新卒採用 ・就職・会社概要と ... — スミメックエンジニアリング の 新卒採用 ・就職・会社概要と ... ワンキャリア https://www.onecareer.jp > companies」（https://www.onecareer.jp/companies/52756・3回目）
 - 売上高：記載なし（3回確認済み：公式12頁／PDF・画像2件／外部9頁・検索8回）
 
+## セイワ技研
+- 公式URL：https://seiwag.jp/（given）
+- 所在地：［本社・工場］ 〒731-5151　広島県広島市佐伯区五日市町上河内141-2 電話：082-927-1221（代表） ／ FAX：082-927-1222 [湯来工場（テストルーム）] 〒738-0512　広島市佐伯区湯来町大字白砂字川角掛3552-1 [廿日市工場] 〒738-0203 広島県廿日市市友田451 電話：0829-40-0125 ［東京営業所］※新住所 〒102-0074　東京都千代田区九段南2丁目5-1 Tobunsha BLDG. 1階 電話：03-6908-1553 ／ FAX：03-6908-1554（https://seiwag.jp/office/・1回目）
+- 所在地：広島県広島市佐伯区五日市町上河内141-2（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+- 創業年度：設立：1972年1月10日（https://seiwag.jp/office/・1回目）
+- 創業年度：設立：1972年1月10日（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+- 資本金：1300万円（https://seiwag.jp/office/・1回目）
+- 資本金：1,300万円（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+- 従業員数：38名（正社員・パート社員）（https://seiwag.jp/office/・1回目）
+- 従業員数：34名（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+- 事業内容：・粉体機器（供給機，計量機，混合機，粉砕機）の設計製作･販売 ・研究用機器、設備の設計製作･販売 ・液体機器（計量充填，攪拌混合）、関連設備の設計製作・販売 ・一般機械･装置のオーダー設計製作･販売 ・ＯＥＭ提携による一般機械の開発･設計･製作（https://seiwag.jp/office/・1回目）
+- 事業内容：■粉体機器（供給機・計量機・混合機・粉砕機）の設計製作・販売 ■研究用機器・設備の設計製作・販売 ■液体機器（計量充填・攪拌混合）・関連設備の設計製作・販売 ■一般機械・装置のオーダー設計製作・販売 ■OEM提携による一般機械の開発・設計・製作（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+- 代表者：代表取締役　大江丈容（https://seiwag.jp/office/・1回目）
+- 代表者：代表取締役　大江 丈容（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+- 採用ページ：
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E3%82%BB%E3%82%A4%E3%83%AF%E6%8A%80%E7%A0%94+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E3%82%BB%E3%82%A4%E3%83%AF%E6%8A%80%E7%A0%94+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E3%82%BB%E3%82%A4%E3%83%AF%E6%8A%80%E7%A0%94+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E3%82%BB%E3%82%A4%E3%83%AF%E6%8A%80%E7%A0%94+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 想定年収・給与：
+  - 「1300万円」（https://seiwag.jp/office/・1回目）
+  - 「資本金を1300万円に増資，本社・工場を移転」（https://seiwag.jp/office/・1回目）
+  - 「月給235,000円～（一律支給の固定手当を含む）」（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+  - 「昇給：年1回」（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+  - 「賞与：年2回」（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+  - 「通勤手当（上限5万円/月）」（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+  - 「1,300万円」（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+  - 「年収1,000万円」（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+  - 「年収251.2万円〜」（https://jp.stanby.com/search?q=%E3%82%BB%E3%82%A4%E3%83%AF%E6%8A%80%E7%A0%94+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収316万円」（https://jp.stanby.com/search?q=%E3%82%BB%E3%82%A4%E3%83%AF%E6%8A%80%E7%A0%94+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収300万円〜600万円」（https://jp.stanby.com/search?q=%E3%82%BB%E3%82%A4%E3%83%AF%E6%8A%80%E7%A0%94+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給19万円〜20.9万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E3%82%BB%E3%82%A4%E3%83%AF%E6%8A%80%E7%A0%94+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E3%82%BB%E3%82%A4%E3%83%AF%E6%8A%80%E7%A0%94+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 求人媒体：
+  - 「株式会社セイワ技研の求人情報／粉体・液体装置などの【法人営業】未経験歓迎★インセンティブ有 (377229)／東京都 | 転職・求人情報サイトのマイナビ転職【掲載終了】」（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+  - 「本求人はマイナビ転職の応募フォームでのみ受け付けます」（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+  - 「本求人は、株式会社マイナビが運営する」（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+  - 「「マイナビ転職キャリアパートナー」による人材紹介案件です」（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+  - 「※個人情報について「マイナビ転職キャリアパートナー個人情報の取り扱いについて」に同意いただき、」（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+  - 「マイナビ転職キャリアパートナー内 株式会社セイワ技研採用事務局」（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+  - 「上記は、株式会社マイナビ（マイナビ転職キャリアパートナー）内／株式会社セイワ技研採用事務局の所在地です」（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+  - 「※オプトアウトをした場合、マイナビ転職の一部サービスを利用できない場合があります」（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+- 採用の発信：
+  - 「入社後は先輩社員と一緒に現場に入り、工具の名前や使い方、作業の進め方から一つずつ覚えていきます」（https://jp.stanby.com/search?q=%E3%82%BB%E3%82%A4%E3%83%AF%E6%8A%80%E7%A0%94+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 人手不足の発言：
+  - 「建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます」（https://jp.stanby.com/search?q=%E3%82%BB%E3%82%A4%E3%83%AF%E6%8A%80%E7%A0%94+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 取引先・規模：
+  - 「粉体装置（供給・搬送・計量・混合・充填）や液体装置（分散・計量・充填）を中心にすべて自社工場にて設計製作しています」（https://seiwag.jp/・1回目）
+  - 「商品設計から製作まですべて国内の自社工場で対応」（https://seiwag.jp/・1回目）
+  - 「設計から製作まですべて自社工場内で対応する一貫したサービス体制をとっています」（https://seiwag.jp/・1回目）
+  - 「営業-設計-加工-組立の距離が近く連携が取れているため、素早い短納期対応が可能、また工場レイアウトに合わせた各種カスタマイズにも柔軟に対応します」（https://seiwag.jp/・1回目）
+  - 「外注に頼らずすべて自社工場内で完結を徹底しているからこそ得られる「お客様からの信頼」を大切にしています」（https://seiwag.jp/・1回目）
+  - 「資本金を1300万円に増資，本社・工場を移転」（https://seiwag.jp/office/・1回目）
+  - 「10月 廿日市工場を新設」（https://seiwag.jp/office/・1回目）
+  - 「自社工場での一貫生産体制を強みとし、最新の技術と職人技術を融合させた高品質な製品を提供しています」（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+  - 「専務の中島は、三菱UFJ銀行で約10」（https://jp.stanby.com/search?q=%E3%82%BB%E3%82%A4%E3%83%AF%E6%8A%80%E7%A0%94+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 検索結果の抜粋：
+  - 「株式会社 セイワ技研 の 求人 ・中途採用情報 - doda — 株式会社 セイワ技研 の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10002676905」（https://doda.jp/DodaFront/View/CompanyJobs/j_id__10002676905/・3回目）
+  - 「株式会社 セイワ技研 の 求人 情報 - マイナビ転職 — 株式会社 セイワ技研 の 求人 情報 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > ... > 株式会社セイワ技研」（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+  - 「株式会社 セイワ技研 の給与 - Indeed (インディード) — 株式会社 セイワ技研 の給与 - Indeed (インディード) Indeed https://jp.indeed.com > 株式会社セイワ技研 > salaries」（https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BB%E3%82%A4%E3%83%AF%E6%8A%80%E7%A0%94/salaries・3回目）
+  - 「株式会社 セイワ技研 の 求人 ・仕事・採用 - スタンバイ — 株式会社 セイワ技研 の 求人 ・仕事・採用 - スタンバイ スタンバイ https://jp.stanby.com > ...」（https://jp.stanby.com/r_b572ee94fe657576c5024b69bdd53397・3回目）
+  - 「セイワ技研 新卒 高卒 の求人情報をすべて見る （136件） — セイワ技研 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E3%82%BB%E3%82%A4%E3%83%AF%E6%8A%80%E7%A0%94+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「recruit 採用 情報 - 株式会社セイワ技研 — recruit 採用 情報 - 株式会社セイワ技研 seiwa-giken.co.jp https://seiwa-giken.co.jp > recruit」（https://seiwa-giken.co.jp/recruit/index.html・3回目）
+  - 「株式会社 セイワ技研 の求人情報 - マイナビ転職 — 株式会社 セイワ技研 の求人情報 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > ... > 株式会社セイワ技研」（https://tenshoku.mynavi.jp/jobinfo-377229-5-1-1/・3回目）
+  - 「株式会社 セイワ技研 の求人・中途 採用 情報 - doda — 株式会社 セイワ技研 の求人・中途 採用 情報 - doda doda https://doda.jp > CompanyJobs > j_id__10002676905」（https://doda.jp/DodaFront/View/CompanyJobs/j_id__10002676905/・3回目）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部16頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部16頁・検索8回）
+
 ## センナリ
 - 公式URL：https://hiroshima-kigyo-zukan.vercel.app/（given）
 - 所在地：〒732-0046 広島県広島市東区尾長東1丁目9番4号（https://hiroshima-kigyo-zukan.vercel.app/company/2240001042222・1回目）
@@ -9776,6 +10683,44 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
   - 「タグチ工業 (株)の 新卒採用 ・会社概要 | マイナビ2027 — タグチ工業 (株)の 新卒採用 ・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp225737 > outline」（https://job.mynavi.jp/27/pc/search/corp225737/outline.html・3回目）
   - 「タグチ工業 ㍿の 採用 担当(@taguchi_kogyo_fukuoka) - Instagram — タグチ工業 ㍿の 採用 担当(@taguchi_kogyo_fukuoka) - Instagram Instagram https://www.instagram.com > taguchi_kogyo_fukuoka」（https://www.instagram.com/taguchi_kogyo_fukuoka/・3回目）
 - 売上高：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部15頁・検索8回）
+
+## タダノインフラエンジニアリング
+- 公式URL：https://catr.jp/（given）
+- 所在地：東京都新宿区愛住町22番地 同じ住所の会社を検索（https://catr.jp/companies/c091e/47735・1回目）
+- 所在地：東京都 新宿区 愛住町 22 第3山田ビル トウキヨウト シンジユクク アイズミチヨウ 22 ダイ3ヤマダビル（https://catr.jp/companies/c091e/47735・1回目）
+- 所在地：北海道岩内郡共和町梨野舞納2番地の119（https://catr.jp/company-split/11637・1回目）
+- 売上高：5億8500万円（https://catr.jp/companies/c091e/47735・1回目）
+- 売上高：19億2400万円（https://catr.jp/companies/c091e/47735・1回目）
+- 売上高：1億600万円（https://catr.jp/companies/c091e/47735・1回目）
+- 想定年収・給与：
+  - 「13億8500万円」（https://catr.jp/・1回目）
+  - 「79億6600万円」（https://catr.jp/・1回目）
+  - 「180億6800万円」（https://catr.jp/・1回目）
+  - 「8億8400万円」（https://catr.jp/・1回目）
+  - 「20億1500万円」（https://catr.jp/・1回目）
+  - 「80億8400万円」（https://catr.jp/・1回目）
+  - 「8億2800万円」（https://catr.jp/・1回目）
+  - 「25億8100万円」（https://catr.jp/・1回目）
+  - 「321億6400万円」（https://catr.jp/・1回目）
+  - 「4億5300万円」（https://catr.jp/・1回目）
+  - 「91億7900万円」（https://catr.jp/・1回目）
+  - 「177億8900万円」（https://catr.jp/・1回目）
+- 取引先・規模：
+  - 「三菱ケミカルグループ株式会社(81)」（https://catr.jp/・1回目）
+  - 「三菱商事株式会社(281)」（https://catr.jp/・1回目）
+  - 「1390億円」（https://catr.jp/・1回目）
+  - 「4280億円」（https://catr.jp/・1回目）
+- 創業年度：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）
+- 採用ページ：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）
+- 採用人数：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）
+- 採用の発信：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）
 
 ## タテイシ広美社
 - 公式URL：https://t-kobisha.co.jp/（given）
@@ -13091,6 +14036,59 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 採用人数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索8回）
 - 求人媒体：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索8回）
 
+## フェニックス工業
+- 公式URL：https://www.phoenix-co.net/（given）
+- 所在地：事務所棟 309m² ／ 鉄骨平屋建工場,倉庫 1,216m² ／ 塗装工場 153m²（https://www.phoenix-co.net/company/・1回目）
+- 所在地：〒731-3169 広島県広島市安佐南区伴西1-4-5（https://tenshoku-ex.jp/job_41070616・3回目）
+- 所在地：広島県広島市安佐南区伴西1-4-5（https://tenshoku-ex.jp/job_41070616・3回目）
+- 創業年度：設立：年1986年4月（https://tenshoku-ex.jp/job_41070616・3回目）
+- 資本金：18百万円（https://tenshoku-ex.jp/job_41070616・3回目）
+- 従業員数：87名（https://tenshoku-ex.jp/job_41070616・3回目）
+- 事業内容：■事業内容： （1）ボデー製造事業部 トラック・バスの車体架装、修理/板金塗装、自動車分解整備事業 （2）車輌機器事業部 自動車整備機器／部品の販売、取付、修理 （3）クリーン事業部 路線バス車内清掃受託 （4）不動産事業部 宅地建物取引業 ■代表挨拶： 当社は、1986年（昭和61年）に車体架装メーカーとして誕生しました。以来、常にお客さまのご要望にお応えした車体づくり専念してまいりました。 その後、バス用ワンマン機器の取扱いや、バス車内外の清掃業務を開始いたしました。 2008年（平成20年）には、バス専用工場を新設するなど、トラック・バスに関連する業務を中心に新たな展開を図っております。 経済の先行きが不透明な中、大型商用車を取巻く環境は依然として、厳しい状況が続くと予想されますが、社員全員が「心」を一つにし、確かな「技術力」と「創意工夫」により、明るい未来へ向かって前進いたします。 これからも、お客さまに満足していただける製品づくりとサービスの提供に努め、社会に信頼される企業であり続けたいと考えております。 ■特徴： フェニックス工業株式会社は広島日野自動車グループなので、景気（https://tenshoku-ex.jp/job_41070616・3回目）
+- 代表者：-（https://tenshoku-ex.jp/job_41070616・3回目）
+- 主要取引先：-（https://tenshoku-ex.jp/job_41070616・3回目）
+- 採用ページ：
+  - 「ほとんどの方が中途採用・異業種からの転職です◎飲食店や、レンタルビデオ店出身の方など様々なバックグラウンドをお持ちの方が活躍しています◎」（https://tenshoku-ex.jp/job_41070616・3回目）
+- 想定年収・給与：
+  - 「1,800万円」（https://www.phoenix-co.net/company/・1回目）
+  - 「【フェニックス工業株式会社】【広島/安佐南】未経験大歓迎！年収340万円～◆トラックの修繕・カスタマイズ◆溶接・組立等◆転勤無◆【転職支援サービス求人】（正社員）/広島県の《求人募集41070616》-転職EX」（https://tenshoku-ex.jp/job_41070616・3回目）
+  - 「> 【広島/安佐南】未経験大歓迎！年収340万円～◆トラックの修繕・カスタマイズ◆溶接・組立等◆転勤無◆【転職支援サービス求人】」（https://tenshoku-ex.jp/job_41070616・3回目）
+  - 「【フェニックス工業株式会社】【広島/安佐南】未経験大歓迎！年収340万円～◆トラックの修繕・カスタマイズ◆溶接・組立等◆転勤無◆【転職支援サービス求人】（正社員）」（https://tenshoku-ex.jp/job_41070616・3回目）
+  - 「【広島/安佐南】未経験大歓迎！年収340万円～◆トラックの修繕・カスタマイズ◆溶接・組立等◆転勤無◆」（https://tenshoku-ex.jp/job_41070616・3回目）
+  - 「◎充実の福利厚生で子育てしやすいと社員評価♪~入学祝い最大20万円・リフレッシュ休暇手当5万円・生産手当３万円~」（https://tenshoku-ex.jp/job_41070616・3回目）
+  - 「30代・7年勤務：450万円／40代・15年勤務：550万円」（https://tenshoku-ex.jp/job_41070616・3回目）
+  - 「340万円～400万円」（https://tenshoku-ex.jp/job_41070616・3回目）
+  - 「＜年収340万円の内訳＞」（https://tenshoku-ex.jp/job_41070616・3回目）
+  - 「月給190,000円＋賞与160,000円×5ヵ月＋想定残業代（月20h分）30,000円×12ヵ月」（https://tenshoku-ex.jp/job_41070616・3回目）
+  - 「＜年収400万円の内訳＞」（https://tenshoku-ex.jp/job_41070616・3回目）
+  - 「月給230,000円＋賞与180,000円×5ヵ月＋想定残業代（月20h分）35,000円×12ヵ月」（https://tenshoku-ex.jp/job_41070616・3回目）
+- 取引先・規模：
+  - 「2008年（平成20年）には、バス専用工場を新設するなど、トラック・バスに関連する業務を中心に新たな展開を図っております」（https://www.phoenix-co.net/company/・1回目）
+  - 「本社事務所・工場敷地 6,514m²」（https://www.phoenix-co.net/company/・1回目）
+  - 「第二工場管理棟・工場敷地 8,771m²」（https://www.phoenix-co.net/company/・1回目）
+  - 「本社、本社工場 ： 事務所棟 309m² ／ 鉄骨平屋建工場,倉庫 1,216m² ／ 塗装工場 153m²」（https://www.phoenix-co.net/company/・1回目）
+  - 「第二工場：管理棟 235m² ／ 鉄骨平屋建工場 1,867m² ／ 塗装工場 292m²」（https://www.phoenix-co.net/company/・1回目）
+  - 「広島市安佐南区西風新都地区に自社新工場を完成・移転」（https://www.phoenix-co.net/company/・1回目）
+  - 「第二工場敷地内に新塗装工場、及びトラックスケールを建設・完成」（https://www.phoenix-co.net/company/・1回目）
+  - 「2008年（平成20年）には、バス専用工場を新設するなど、トラック・バスに関連する業務を中心に新たな展開を図っております」（https://tenshoku-ex.jp/job_41070616・3回目）
+  - 「生産技術エンジニア#再エネ問題解決に向けたプロジェクト#年収1000万円可#新工場建...」（https://tenshoku-ex.jp/job_41070616・3回目）
+- 検索結果の抜粋：
+  - 「フェニックス工業株式会社／【広島/安佐南】未経験大歓迎！年収340万... — Sep 14, 2026 · 転職・求人doda（デューダ）トップ メーカー（機械・電気）業界 電子部品メーカー フェニックス工業株式会社の求人・中途採用情報 【広島/安佐南】未経験大歓迎！年収340万円～ トラックの修繕・カスタマイズ 溶接・組立等 転勤無 の求人・中途採用情報」（https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3015943237/・3回目）
+  - 「【フェニックス工業株式会社】【広島/安佐南】未経験大歓迎！年収340... — フェニックス工業株式会社の【広島/安佐南】未経験大歓迎！ 年収340万円～ トラックの修繕・カスタマイズ 溶接・組立等 転勤無 【転職支援サービス求人】の正社員求人はこちら。」（https://tenshoku-ex.jp/job_41070616・3回目）
+  - 「昭和フェニックス工業株式会社 の給与 | Indeed (インディード) — 昭和フェニックス工業株式会社の平均月給の範囲は約 19.0万円／月（生産ライン）から約 27.6万円／月（機械設計）です。 給与情報は、Indeed にこれまでに掲載された215件の求人に基いた推定値です。」（https://jp.indeed.com/cmp/昭和フェニックス工業株式会社/salaries・3回目）
+  - 「株式会社フェニックス工業の求人・仕事・採用｜スタンバイでお仕事探... — 仕事内容フェニックス工業株式会社 【広島/安佐南】未経験大歓迎！年収340万円～ トラックの修繕・カスタマイズ 溶接・組立等 転勤無 【仕事内容】 【広島/安佐南】未経験大歓迎！年収340万円～ トラックの修繕・カスタマイズ 溶接・組立等 転勤無 【具体的な仕事内容】 広島日野自動車G企業 ...」（https://jp.stanby.com/r_27d855870708874165e6230a198aa04f・3回目）
+  - 「フェニックス工業株式会社の平均年収、年間給与所得情報 － 転職ならd... — フェニックス工業株式会社の平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで約37万社の企業情報が無料で検索・閲覧できます。」（https://doda.jp/DodaFront/View/CompanyIncome/j_id__10002689376/・3回目）
+  - 「(株)フェニックスの新卒採用・会社概要 | マイナビ2027フェニックス工業株式会社(株)フェニックスの採用データ | マイナビ2027新卒採用/応募フォーム-株式会社フェニックスエンジニアリングフェニックス工業株式会社の求人 | Indeed (インディード)株式会社フェニックス ｜ 採用情報 - PHOENIX Incフェニックス工業株式会社の求人情報／未経験歓迎！バス・トラックの... — 1 day ago · (株)フェニックスの会社概要ページです。マイナビ2027は、採用情報や企業情報で、就職活動をサポートします。 車輌機器事業部 クリーン事業部 不動産事業部 実績紹介 ボデー製造事業部 車輌機器事業部 働く環境 制度について 数字でみる フェニックス工業 インタビュー 採用情報 グループ会社 アクセス よくあるご質問 お知らせ 〒731-3169 広島県広島市安佐南区伴西1 」（https://job.mynavi.jp/27/pc/search/corp202414/outline.html・3回目）
+  - 「フェニックス工業株式会社 — 車輌機器事業部 クリーン事業部 不動産事業部 実績紹介 ボデー製造事業部 車輌機器事業部 働く環境 制度について 数字でみる フェニックス工業 インタビュー 採用情報 グループ会社 アクセス よくあるご質問 お知らせ 〒731-3169 広島県広島市安佐南区伴西1 ...」（https://www.phoenix-co.net/・3回目）
+  - 「(株)フェニックスの採用データ | マイナビ2027新卒採用/応募フォーム-株式会社フェニックスエンジニアリングフェニックス工業株式会社の求人 | Indeed (インディード)株式会社フェニックス ｜ 採用情報 - PHOENIX Incフェニックス工業株式会社の求人情報／未経験歓迎！バス・トラックの... — (株)フェニックスの採用データページです。マイナビ2027は、 (株)フェニックスの採用情報や企業情報で、就職活動を ... 採用リンク 採用SNS フェニックスの取り組み 新卒・第二新卒者採用 募集要項 ... 新卒・第二新卒者採用 応募フォーム ... エントリー/お問合せ マイナビ2027・マイナビ2028以外の方 フェニックス工業株式会社の求人は45件あります。設備メンテナンス, 設計・開発, サービスエンジニアなどの仕事・転職・アルバイト情報もまとめて検索。 1人ひとり」（https://job.mynavi.jp/27/pc/search/corp202414/recruiting_course27021664/recruiting_course.html・3回目）
+  - 「新卒採用/応募フォーム-株式会社フェニックスエンジニアリングフェニックス工業株式会社の求人 | Indeed (インディード)株式会社フェニックス ｜ 採用情報 - PHOENIX Incフェニックス工業株式会社の求人情報／未経験歓迎！バス・トラックの... — 採用リンク 採用SNS フェニックスの取り組み 新卒・第二新卒者採用 募集要項 ... 新卒・第二新卒者採用 応募フォーム ... エントリー/お問合せ マイナビ2027・マイナビ2028以外の方 フェニックス工業株式会社の求人は45件あります。設備メンテナンス, 設計・開発, サービスエンジニアなどの仕事・転職・アルバイト情報もまとめて検索。 1人ひとりが自立して自由人精神をもって、生き生きと仕事をし、自分を見つめ、絶え間なく努力することを惜しまず、目標・自信を持ち続けることができる社員を求めています。 Oct 16, 2026」（https://www.phoenixeng.co.jp/new-grad/・3回目）
+  - 「フェニックス工業株式会社の求人 | Indeed (インディード) — フェニックス工業株式会社の求人は45件あります。設備メンテナンス, 設計・開発, サービスエンジニアなどの仕事・転職・アルバイト情報もまとめて検索。」（https://jp.indeed.com/q-フェニックス工業株式会社-求人.html・3回目）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部10頁・検索8回）
+- 採用人数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部10頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部10頁・検索8回）
+- 採用の発信：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部10頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部10頁・検索8回）
+
 ## フジタ自動車工業
 - 公式URL：https://www.wskagawa.jp/（given）
 - 所在地：〒760-0019 香川県高松市サンポート2-1 マリタイムプラザ高松2階（https://www.wskagawa.jp/index.php?prog=pub_disp&exec=about・1回目）
@@ -13760,6 +14758,82 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 求人媒体：記載なし（3回確認済み：公式8頁／PDF・画像2件／外部10頁・検索8回）
 - 採用の発信：記載なし（3回確認済み：公式8頁／PDF・画像2件／外部10頁・検索8回）
 
+## ベンダ工業
+- 公式URL：https://www.benda.co.jp/（given）
+- 所在地：広島県呉市苗代町10098番地3（https://en-hyouban.com/company/10105755510/salary/・3回目）
+- 創業年度：設立：1964年（昭和39年）（https://www.benda.co.jp/company/overview/・1回目）
+- 創業年度：設立：1996年 資本金：1,000万円（https://www.benda.co.jp/company/world/・1回目）
+- 創業年度：設立：2020年 資本金：1,000万円（https://www.benda.co.jp/company/world/・1回目）
+- 資本金：5,850万円（https://www.benda.co.jp/company/overview/・1回目）
+- 資本金：59百万円（https://en-hyouban.com/company/10105755510/salary/・3回目）
+- 従業員数：143名（https://en-hyouban.com/company/10105755510/salary/・3回目）
+- 代表者：八代 一成（https://www.benda.co.jp/company/・1回目）
+- 代表者：八代 一成（https://www.benda.co.jp/company/overview/・1回目）
+- 代表者：八代恭宏／工場長：八代行雄（https://www.benda.co.jp/company/overview/・1回目）
+- 採用ページ：
+  - 「私自身、中途採用ではありますが、給料、賞与の手取りをみて将来を考えた際に、ここの会社を持続して行くことは無理だと思っているので、入社を考えている方は、しっかり悩んで、尚、この手取りでも大丈夫という方は入社して働くといいかなと思います」（https://en-hyouban.com/company/10105755510/salary/・3回目）
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E3%83%99%E3%83%B3%E3%83%80%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E3%83%99%E3%83%B3%E3%83%80%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E3%83%99%E3%83%B3%E3%83%80%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E3%83%99%E3%83%B3%E3%83%80%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 想定年収・給与：
+  - 「5,850万円」（https://www.benda.co.jp/company/overview/・1回目）
+  - 「資本金を5,850万円に増資」（https://www.benda.co.jp/company/overview/・1回目）
+  - 「設立：1996年 資本金：1,000万円」（https://www.benda.co.jp/company/world/・1回目）
+  - 「設立：2020年 資本金：1,000万円」（https://www.benda.co.jp/company/world/・1回目）
+  - 「設立：1972年 資本金：1,200万円」（https://www.benda.co.jp/company/world/・1回目）
+  - 「新卒中途の採用業務・教育訓練関連業務、労務管理・給与計算など人事業務全般と総務業務」（https://www.benda.co.jp/recruit/work/・1回目）
+  - 「新卒中途の採用業務・教育訓練関連業務、労務管理・給与計算など人事業務全般と総務業務を担当しています」（https://www.benda.co.jp/recruit/work/・1回目）
+  - 「就職先を選ぶ上では給与や待遇面だけで飛びつかず、自身の生活リズム・能力・今後のライフプランなどさまざまな角度から精査し選定することで、就職後のミスマッチが少なくなると思います」（https://www.benda.co.jp/recruit/work/・1回目）
+  - 「ベンダ工業の年収・給与 平均年収 - エン カイシャの評判」（https://en-hyouban.com/company/10105755510/salary/・3回目）
+  - 「ベンダ工業株式会社の年収・給与の口コミページです」（https://en-hyouban.com/company/10105755510/salary/・3回目）
+  - 「ベンダ工業株式会社で働く社員や元社員が投稿した、年収・給与に関する口コミを7件掲載中」（https://en-hyouban.com/company/10105755510/salary/・3回目）
+  - 「ベンダ工業株式会社の年収・給与についての口コミ」（https://en-hyouban.com/company/10105755510/salary/・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E3%83%99%E3%83%B3%E3%83%80%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用の発信：
+  - 「インターンシップや会社見学などは実際に自分が働く姿を想像しやすいのでおすすめです！」（https://www.benda.co.jp/recruit/work/・1回目）
+  - 「入社してから一定期間、先輩社員（メンター）が後輩社員をサポートします」（https://www.benda.co.jp/recruit/training/・1回目）
+  - 「このたび、ベンダ工業株式会社の工場見学にお邪魔させていただきました！」（https://note.com/td_group_pr/n/n836090265f61・3回目）
+  - 「工場見学の中で特に印象的だったのは、ベンダ工業様が独自に確立した「ベンダ工法」です」（https://note.com/td_group_pr/n/n836090265f61・3回目）
+  - 「当グループでも、DXの取り組みを体験し身近に感じていただくための実証の場として、工場見学を受け付けております」（https://note.com/td_group_pr/n/n836090265f61・3回目）
+  - 「そんな企業様は、ぜひ一度工場見学にいらしてください！」（https://note.com/td_group_pr/n/n836090265f61・3回目）
+  - 「DX工場見学のご案内 | 35.6%の無駄を削減した東洋電装のDX工場」（https://note.com/td_group_pr/n/n836090265f61・3回目）
+  - 「【広報1年目！】ベンダ工業さまの工場見学に行ってきました｜TDグループ｜TD Holdings・東洋電装・TD衛星通信システム・ZIPCARE・バロ電機工業」（https://note.com/td_group_pr/n/ne9344ad8531b・3回目）
+  - 「【広報1年目！】ベンダ工業さまの工場見学に行ってきました」（https://note.com/td_group_pr/n/ne9344ad8531b・3回目）
+  - 「今回の工場見学を通じて、工場内の自動化やDX、GXなど、弊社でも取り組んでいる内容があり、親近感を覚えました」（https://note.com/td_group_pr/n/ne9344ad8531b・3回目）
+  - 「弊社でも、DXの取組みを体験し身近に感じていただくための実証の場として、工場見学を受け付けております」（https://note.com/td_group_pr/n/ne9344ad8531b・3回目）
+  - 「そんな企業様は、ぜひ一度工場見学にいらしてください！」（https://note.com/td_group_pr/n/ne9344ad8531b・3回目）
+- 取引先・規模：
+  - 「2007年に設立した東広島工場では、建設機械や船舶向けリングの製造にも事業を拡げています」（https://www.benda.co.jp/company/・1回目）
+  - 「メイドインジャパンの品質を維持しながら、韓国、中国、タイといったアジアの生産拠点で効率的な生産ができるよう一元管理を徹底」（https://www.benda.co.jp/company/・1回目）
+  - 「ベンダ工法を確立した当初は、国内の自動車メーカー1社だったお取引先も、現在では世界の自動車メーカーを中心に、トラック、建機、農機など、100社相当に拡大」（https://www.benda.co.jp/company/・1回目）
+  - 「ベンダ工業の東広島工場には「品質は命なり」と書かれた大きな石碑がありますが、石碑は、この言葉がどのように培われてきたかの理解を深め、受け継がれていくことを見守っています」（https://www.benda.co.jp/company/philosophy/・1回目）
+  - 「2024年3月期 70.1億円（単体）、176.4億円（連結）」（https://www.benda.co.jp/company/overview/・1回目）
+  - 「ベンダ工業徳山工場を開設（下松市大字末武字下和田）」（https://www.benda.co.jp/company/overview/・1回目）
+  - 「ベンダ工業川尻第2工場（現・独身寮）を竣工」（https://www.benda.co.jp/company/overview/・1回目）
+  - 「ベンダ工業徳山工場を徳山機械株式会社（現・株式会社徳機製作所）に売却」（https://www.benda.co.jp/company/overview/・1回目）
+  - 「ベンダ工業仁方工場を開設（広島県呉市仁方桟敷通）」（https://www.benda.co.jp/company/overview/・1回目）
+  - 「代表取締役社長：八代恭宏／工場長：八代行雄」（https://www.benda.co.jp/company/overview/・1回目）
+  - 「ベンダ工業川尻第3工場を竣工」（https://www.benda.co.jp/company/overview/・1回目）
+  - 「ベンダ工業第4工場を竣工（現・アジア貿易株式会社）」（https://www.benda.co.jp/company/overview/・1回目）
+- 検索結果の抜粋：
+  - 「ベンダ工業 株式会社の平均 年収 、年間給与所得情報 - doda — ベンダ工業 株式会社の平均 年収 、年間給与所得情報 - doda doda https://doda.jp > CompanyIncome > j_id__10003311855」（https://doda.jp/DodaFront/View/CompanyIncome/j_id__10003311855/・3回目）
+  - 「ベンダ工業 の 年収 ・給与 平均 年収 - エン カイシャの評判 — ベンダ工業 の 年収 ・給与 平均 年収 - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company > salary」（https://en-hyouban.com/company/10105755510/salary/・3回目）
+  - 「ベンダ工業 の 求人 - 広島県 呉市 | Indeed (インディード) — ベンダ工業 の 求人 - 広島県 呉市 | Indeed (インディード) Indeed https://jp.indeed.com > q-ベンダ工業-l-広島県-呉市-求人」（https://jp.indeed.com/q-%E3%83%99%E3%83%B3%E3%83%80%E5%B7%A5%E6%A5%AD-l-%E5%BA%83%E5%B3%B6%E7%9C%8C-%E5%91%89%E5%B8%82-%E6%B1%82%E4%BA%BA.html・3回目）
+  - 「ベンダ工業 株式会社の 求人 ・仕事・採用 - スタンバイ — ベンダ工業 株式会社の 求人 ・仕事・採用 - スタンバイ スタンバイ https://jp.stanby.com > ...」（https://jp.stanby.com/r_c539ce8da7df5bcbbfbcaee235204358・3回目）
+  - 「ベンダ工業 の「 年収 ・給与制度」 OpenWork — ベンダ工業 の「 年収 ・給与制度」 OpenWork OpenWork https://www.openwork.jp > 鉄鋼、非鉄金属 > ベンダ工業」（https://www.openwork.jp/company_answer.php?m_id=a0C1000000pn29U&q_no=2・3回目）
+  - 「ベンダ工業 新卒 高卒 の求人情報をすべて見る （136件） — ベンダ工業 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E3%83%99%E3%83%B3%E3%83%80%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「採用 情報 - ベンダ工業株式会社 — 採用 情報 - ベンダ工業株式会社 ベンダ工業株式会社 https://www.benda.co.jp > recruit」（https://www.benda.co.jp/recruit/・3回目）
+  - 「ベンダ工業 の求人 - 広島県 呉市 | Indeed (インディード) — ベンダ工業 の求人 - 広島県 呉市 | Indeed (インディード) Indeed https://jp.indeed.com > q-ベンダ工業-l-広島県-呉市-求人」（https://jp.indeed.com/q-%E3%83%99%E3%83%B3%E3%83%80%E5%B7%A5%E6%A5%AD-l-%E5%BA%83%E5%B3%B6%E7%9C%8C-%E5%91%89%E5%B8%82-%E6%B1%82%E4%BA%BA.html・3回目）
+  - 「兵庫 ベンダ工業 の 新卒採用 ・就職・企業情報 - 就活会議 — 兵庫 ベンダ工業 の 新卒採用 ・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > companies」（https://syukatsu-kaigi.jp/companies/4057・3回目）
+  - 「ベンダ工業 「社員クチコミ」 就職・転職の 採用 企業リサーチ ... — ベンダ工業 「社員クチコミ」 就職・転職の 採用 企業リサーチ ... OpenWork https://www.openwork.jp > 鉄鋼、非鉄金属」（https://www.openwork.jp/company.php?m_id=a0C1000000pn29U・3回目）
+- 売上高：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部9頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部9頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部9頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部9頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部9頁・検索8回）
+
 ## ホシザキ中国
 - 公式URL：https://www.hoshizaki-chugoku.co.jp/（given）
 - 所在地：広島市中区土橋町1-13（https://www.hoshizaki-chugoku.co.jp/company/・1回目）
@@ -14020,6 +15094,64 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
   - 「ホーコス 株式会社 採用 サイト — ホーコス 株式会社 採用 サイト ホーコス https://www.horkos.co.jp > recruit」（https://www.horkos.co.jp/recruit/・3回目）
 - 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像4件／外部18頁・検索8回）
 
+## ポリケミカル
+- 公式URL：https://www.mdp.jp/（given）
+- 所在地：〒104-0028 東京都中央区八重洲2-2-1 東京ミッドタウン八重洲 八重洲セントラルタワー19階 TEL.03-6880-7650 （代表）（https://www.mdp.jp/about_us/about_us.php・1回目）
+- 所在地：〒104-0028 東京都中央区八重洲2-2-1 東京ミッドタウン八重洲  八重洲セントラルタワー19階（https://www.mdp.jp/about_us/offices.php・1回目）
+- 所在地：〒739-0601　広島県大竹市東栄２丁目1番21号（https://www.mdp.jp/about_us/offices.php・1回目）
+- 創業年度：設立：1960年12月14日（https://www.mdp.jp/about_us/about_us.php・1回目）
+- 創業年度：設立年：1960年（https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2・3回目）
+- 資本金：64億8千万円（https://www.mdp.jp/about_us/about_us.php・1回目）
+- 資本金：6,480百万円（https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2・3回目）
+- 従業員数：常時使用する従業員数 254名（2026年11月1日現在） ※上記は、「製造委託等に係る中小受託事業者に対する代金の支払の遅延等の防止に関する法律（取適法）」における従業員基準の確認のために公表するものです。 ※取適法の適用の有無は、取引内容、資本金その他の要件を含め、個別の取引ごとに判断されます。（https://www.mdp.jp/about_us/about_us.php・1回目）
+- 事業内容：エチレン酢酸ビニルコポリマー、食品包装材やフィルム等に用途の広いアイオノマー樹脂等の製造販売（https://www.mdp.jp/about_us/about_us.php・1回目）
+- 事業内容：（1）国内外の法規制や業界自主基準遵守に向けた取り組み （2）化学物質管理への取り組み（https://www.mdp.jp/about_us/responsible.php・1回目）
+- 代表者：代表取締役社長 舘野均（https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2・3回目）
+- 採用ページ：
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 想定年収・給与：
+  - 「64億8千万円」（https://www.mdp.jp/about_us/about_us.php・1回目）
+  - 「三井・ダウポリケミカルの「年収・給与制度」 OpenWork」（https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2・3回目）
+  - 「三井・ダウポリケミカルの「年収・給与制度」 ＜社員のクチコミ情報＞」（https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2・3回目）
+  - 「OpenWorkでは全体の平均年収だけではなく、職種別や年齢別の平均年収も掲載しています」（https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2・3回目）
+  - 「また、基本給、残業代、賞与などの給与内訳や、給与制度、評価制度の詳細も掲載しています」（https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2・3回目）
+  - 「三井・ダウポリケミカルの同業界の「年収・給与制度」」（https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2・3回目）
+  - 「給与制度： 基本的には年功序列が色濃く反映される」（https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2・3回目）
+  - 「「ENEOS Xplora」の年収・給与制度」（https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2・3回目）
+  - 「給与制度： 待遇面全般の満足度は間違いなく国内企業最高峰」（https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2・3回目）
+  - 「給与制度： 比較的高い給与体系のため、辞めづらい人間も多くいる印象 評価制度： ....」（https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2・3回目）
+  - 「給与制度： 基本給に深夜勤などの手当が支給される制度でした」（https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2・3回目）
+  - 「40万件以上の年収データを元に作成」（https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 人手不足の発言：
+  - 「建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます」（https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 取引先・規模：
+  - 「当社を取り巻くステークホルダー ： お客様・取引先、株主・投資家、地域社会、産学界、政府・行政、従業員・労働市場、地球環境」（https://www.mdp.jp/about_us/message.php・1回目）
+  - 「2工場、1研究所」（https://www.mdp.jp/about_us/about_us.php・1回目）
+  - 「大竹工場操業開始、ミラソン（低密度ポリエチレン）国産化」（https://www.mdp.jp/about_us/about_us.php・1回目）
+  - 「千葉工場 高圧ガス優良製造所受賞（現：経済産業大臣賞）」（https://www.mdp.jp/about_us/about_us.php・1回目）
+  - 「大竹工場 高圧ガス優良製造所受賞（現：経済産業大臣賞）」（https://www.mdp.jp/about_us/about_us.php・1回目）
+  - 「大竹工場ISO9002 （品質保証に関する国際規格）認証取得」（https://www.mdp.jp/about_us/about_us.php・1回目）
+  - 「千葉工場ISO9002 （品質保証に関する国際規格）認証取得」（https://www.mdp.jp/about_us/about_us.php・1回目）
+  - 「大竹工場 安全優良賞受賞（現：厚生労働大臣賞）」（https://www.mdp.jp/about_us/about_us.php・1回目）
+  - 「千葉工場ISO14001 （環境に関する国際規格）認証取得」（https://www.mdp.jp/about_us/about_us.php・1回目）
+  - 「大竹工場ISO14001 （環境に関する国際規格）認証取得」（https://www.mdp.jp/about_us/about_us.php・1回目）
+  - 「瀬戸内海に臨む広島県大竹市にある大竹工場は、三井化学を中心として、1958年に発足した我が国最初の石油化学コンビナートの一角をなしています」（https://www.mdp.jp/about_us/offices.php・1回目）
+  - 「タクシーご乗車時「三井･ダウ ポリケミカルまで」もしくは「三井化学の大竹工場側まで」とお伝えください」（https://www.mdp.jp/about_us/offices.php・1回目）
+- 検索結果の抜粋：
+  - 「三井・ダウ ポリケミカル 株式会社の平均 年収 、給与情報 - doda — 三井・ダウ ポリケミカル 株式会社の平均 年収 、給与情報 - doda doda https://doda.jp > CompanyIncome > j_id__00001212637」（https://doda.jp/DodaFront/View/CompanyIncome/j_id__00001212637/・3回目）
+  - 「三井・ダウ ポリケミカル の「 年収 ・給与制度」 OpenWork — 三井・ダウ ポリケミカル の「 年収 ・給与制度」 OpenWork OpenWork https://www.openwork.jp > ... > 三井・ダウポリケミカル」（https://www.openwork.jp/company_answer.php?m_id=a0C2x000008zOGl&q_no=2・3回目）
+  - 「三井・ダウ ポリケミカル の評判・口コミ - エン カイシャの評判 — 三井・ダウ ポリケミカル の評判・口コミ - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > メーカー（化学）業界」（https://en-hyouban.com/company/10105560490/・3回目）
+  - 「ポリケミカル 新卒 高卒 の求人情報をすべて見る （136件） — ポリケミカル 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E3%83%9D%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 売上高：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部10頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部10頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部10頁・検索8回）
+- 採用の発信：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部10頁・検索8回）
+
 ## マイクロテクノ
 - 公式URL：https://www.mitec.co.jp/（given）
 - 所在地：本社 〒739-2124 広島県東広島市高屋町郷676番地 TEL 082-434-1155 FAX 082-434-1164 高屋台工場 〒739-2117 広島県東広島市高屋台2丁目2番4号 田万里工場 〒725-0001 広島県竹原市田万里町1957-1（https://www.mitec.co.jp/company/・1回目）
@@ -14110,6 +15242,71 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 売上高：記載なし（3回確認済み：公式8頁／PDF・画像1件／外部9頁・検索8回）
 - 主要取引先：記載なし（3回確認済み：公式8頁／PDF・画像1件／外部9頁・検索8回）
 
+## マイクロンメモリジャパン
+- 公式URL：https://jp.micron.com/（given）
+- 所在地：広島県（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=206079&recruitingCourseId=27064919・3回目）
+- 所在地：東京都（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=206079&recruitingCourseId=27064919・3回目）
+- 所在地：兵庫県（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=206079&recruitingCourseId=27064919・3回目）
+- 事業内容：最先端メモリ製品の開発、設計および生産（https://jp.micron.com/about/company・1回目）
+- 事業内容：最先端メモリ製品の販売およびマーケティング（https://jp.micron.com/about/company・1回目）
+- 事業内容：ファシリティ管理（https://jp.micron.com/about/company・1回目）
+- 代表者：代表取締役 野坂耕太、代表取締役 西出悠造（https://jp.micron.com/about/company・1回目）
+- 代表者：代表取締役社長 高橋康、代表取締役 西出悠造​（https://jp.micron.com/about/company・1回目）
+- 代表者：代表取締役 大津 雅人（https://jp.micron.com/about/company・1回目）
+- 採用ページ：
+  - 「マイクロンメモリジャパン(株)の新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp206079/outline.html・3回目）
+  - 「今後のご案内につきましてはエントリー後にお送りさせていただきます」（https://job.mynavi.jp/27/pc/search/corp206079/outline.html・3回目）
+  - 「エントリー後、マイページをお送りします」（https://job.mynavi.jp/27/pc/search/corp206079/outline.html・3回目）
+  - 「過去3年間の新卒採用者数（男女別）」（https://job.mynavi.jp/27/pc/search/corp206079/outline.html・3回目）
+  - 「過去3年間の新卒採用者数・」（https://job.mynavi.jp/27/pc/search/corp206079/outline.html・3回目）
+  - 「マイナビよりエントリー後、ご登録のメールアドレスにマイページを案内いたします」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=206079&recruitingCourseId=27064919・3回目）
+  - 「エントリーシート提出時に、ご希望の職種・勤務地を選択いただきます」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=206079&recruitingCourseId=27064919・3回目）
+  - 「NCG_RECRUIT_JP@micron.com」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=206079&recruitingCourseId=27064919・3回目）
+  - 「エントリー者には専用のWebコンテンツを提供」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=206079&recruitingCourseId=27064919・3回目）
+- 想定年収・給与：
+  - 「本ポリシーは、募集、採用、昇格、昇進、異動、降格、一時解雇、更迭、解雇、給与またはその他の報酬の金額、および見習いを含む研修の選考など、雇用に関するあらゆる内容に適用されるものとしますが、これらに限定されるものではありません」（https://jp.micron.com/about/careers・1回目）
+  - 「30歳平均年収が600万円以上」（https://job.mynavi.jp/27/pc/search/corp206079/outline.html・3回目）
+  - 「30歳平均年収が600万円以上」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=206079&recruitingCourseId=27064919・3回目）
+- 求人媒体：
+  - 「マイクロンメモリジャパン(株)の新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp206079/outline.html・3回目）
+  - 「外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！」（https://job.mynavi.jp/27/pc/search/corp206079/outline.html・3回目）
+  - 「を志望している他のマイナビ会員は、このような企業も志望しています」（https://job.mynavi.jp/27/pc/search/corp206079/outline.html・3回目）
+  - 「マイクロンメモリジャパン(株)の採用データ | マイナビ2027」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=206079&recruitingCourseId=27064919・3回目）
+  - 「マイナビよりエントリー後、ご登録のメールアドレスにマイページを案内いたします」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=206079&recruitingCourseId=27064919・3回目）
+  - 「を志望している他のマイナビ会員は、このような企業も志望しています」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=206079&recruitingCourseId=27064919・3回目）
+- 採用の発信：
+  - 「ブログ | Micron Technology Inc.」（https://jp.micron.com/about/blog・1回目）
+  - 「インターンシップは、仕事体験のみならず、ビジネスの視点を養い、考え方や人とのつながりを広げる貴重な機会です」（https://jp.micron.com/about/careers・1回目）
+  - 「マイクロンのインターンシッププログラムでは、成長や挑戦につながるさまざまな機会を提供しています」（https://jp.micron.com/about/careers・1回目）
+  - 「インターンシッププログラムや新卒向けの採用イベント、キャンパスイベントなどを通じて、キャリアの第一歩を踏み出してみませんか」（https://jp.micron.com/about/careers・1回目）
+  - 「マイクロンメモリ ジャパン 採用・インターンシップ担当」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=206079&recruitingCourseId=27064919・3回目）
+- 取引先・規模：
+  - 「製品の改ざんや不正アクセスを防止するため、製造拠点および最終製品倉庫において製品タイプごとに物理的セキュリティ対策やプログラムを組み合わせ、認定物流業者と共に実施しています」（https://jp.micron.com/about/company/customer-trust-center・1回目）
+  - 「QMSフレームワークにおいてリスクベースアプローチの採用を推進することにより、あらゆる組織階層（特定の拠点から全社に至るまで）におけるリスクをグローバルレベルで把握することが可能になります」（https://jp.micron.com/about/company/customer-trust-center・1回目）
+  - 「1980年までに最初の製造工場の建設に着手し、それからわずか数年後に世界最小の256K DRAMを発表」（https://jp.micron.com/about・1回目）
+  - 「製造拠点の数：15」（https://jp.micron.com/about/company・1回目）
+  - 「1980年までに、最初の製造工場を開拓し、わずか数年後に世界最小の256K DRAMを発売しました」（https://jp.micron.com/about/company・1回目）
+  - 「日本では技術拠点を広島と神奈川におき、DRAMの開発・生産拠点として、世界中に最先端メモリを提供しています」（https://job.mynavi.jp/27/pc/search/corp206079/outline.html・3回目）
+  - 「日本の広島拠点は、世界最大級、最先端の技術を有する拠点であり、設計・評価・解析、R&D（開発）、量産立上等に携わります」（https://job.mynavi.jp/27/pc/search/corp206079/outline.html・3回目）
+  - 「年商1,000億円以上もしくは、学生に認知度の高い製品あり」（https://job.mynavi.jp/27/pc/search/corp206079/outline.html・3回目）
+  - 「入社後、社内公募制度を利用して、別職種や他拠点へ異動するチャンスがあります」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=206079&recruitingCourseId=27064919・3回目）
+  - 「神奈川拠点：屋内原則禁煙（屋内喫煙室あり）」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=206079&recruitingCourseId=27064919・3回目）
+  - 「東京拠点：屋内原則禁煙（ビル内に喫煙場所あり）」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=206079&recruitingCourseId=27064919・3回目）
+  - 「全拠点フレックス制度あり（コアタイム10:30 - 15:00）」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=206079&recruitingCourseId=27064919・3回目）
+- 検索結果の抜粋：
+  - 「マイクロンメモリジャパン (株)の新卒採用・会社概要 | マイナビ2027【マイクロンメモリジャパン株式会社】27卒新卒採用｜半導体生産技術...【マイクロンメモリジャパン株式会社】の採用サイトキャリア | Micron Technology Inc.マイクロンメモリジャパン(株)の採用データ | マイナビ2027マイクロンメモリジャパン 新卒採用の求人情報｜Indeed（インディード... — Aug 31, 2026 · メモリは、スマホ、パソコン、家電、AI、5G、自動運転など私たちの暮らしを豊かにする最先端技術の実現に欠かせないテクノロジーであり、テクノロジーの力で、日本から世界の社会と暮らしへ貢献します。 Mar 25, 2026 · マイクロンメモリジャパン株式会社の採用サイトです。 【正社員】27卒新卒採用｜半導体生産技術（化学・応用化学コース）／AI社会の未来を支えるメモリ」（https://job.mynavi.jp/27/pc/search/corp206079/outline.html・3回目）
+  - 「【マイクロンメモリジャパン株式会社】27卒新卒採用｜半導体生産技術... — Mar 25, 2026 · マイクロンメモリジャパン株式会社の採用サイトです。 【正社員】27卒新卒採用｜半導体生産技術（化学・応用化学コース）／AI社会の未来を支えるメモリ技術/月給32万以上/土日祝休みの求人情報を掲載しています。」（https://arwrk.net/recruit/f20cjnj4s0u89u9/10468355/・3回目）
+  - 「マイクロンメモリジャパン(株)の採用データ | マイナビ2027 — Aug 31, 2026 · マイクロンメモリジャパン (株)の採用データページです。マイナビ2027は、マイクロンメモリジャパン (株)の採用情報や企業情報で、就職活動をサポートします。」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=206079&recruitingCourseId=27064919・3回目）
+  - 「マイクロンメモリジャパン 新卒採用の求人情報｜Indeed（インディード... — マイクロンメモリジャパン 新卒採用の採用・就職情報を57件掲載中。 さまざまな業種や規模の企業が積極採用中。 Indeed なら希望の年収や働き方などあなたの条件に合う仕事が見つかります」（https://jp.indeed.com/q-マイクロンメモリジャパン-新卒採用-求人.html・3回目）
+  - 「【マイクロンメモリジャパン株式会社】の採用サイト — 【正社員】27卒新卒採用｜半導体生産技術（生物・農学コース）／AI社会の未来を支えるメモリ技術/月給32万以上/土日祝休み 月給 32万1360円 〜 39万7400円 「東広島駅」より車で14分 詳細をみる」（https://arwrk.net/recruit/f20cjnj4s0u89u9/・3回目）
+- 創業年度：記載なし（3回確認済み：公式11頁／PDF・画像2件／外部8頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式11頁／PDF・画像2件／外部8頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式11頁／PDF・画像2件／外部8頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式11頁／PDF・画像2件／外部8頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式11頁／PDF・画像2件／外部8頁・検索8回）
+- 採用人数：記載なし（3回確認済み：公式11頁／PDF・画像2件／外部8頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式11頁／PDF・画像2件／外部8頁・検索8回）
+
 ## マイコー
 - 公式URL：https://m-i-k-0230.com/（given）
 - 想定年収・給与：
@@ -14156,6 +15353,94 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 採用人数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索8回）
 - 採用の発信：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索8回）
 - 人手不足の発言：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索8回）
+
+## マイナス600ミリボルト
+- 公式URL：https://m600mv.co.jp/（given）
+- 所在地：広島県福山市松浜町2丁目4番1号 　084-975-3823　(代表)（https://m600mv.co.jp/subpage1.html・1回目）
+- 創業年度：設立年月：2006年12月（https://m600mv.co.jp/subpage1.html・1回目）
+- 資本金：10,000,000円（https://m600mv.co.jp/subpage1.html・1回目）
+- 事業内容：清涼飲料水および化粧品の販売（https://m600mv.co.jp/subpage1.html・1回目）
+- 代表者：松岡 大悟（https://m600mv.co.jp/subpage1.html・1回目）
+- 採用ページ：
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「販売スタッフ／着物の販売スタッフ「新卒採用」未経験OK／残業ほぼなし／若手活躍中／産地研修あり／キャリアアップ可」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 想定年収・給与：
+  - 「月給26.5万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「【公式】＼新卒求人／！年休120日以上×キャリア支援が充実日の出医療福祉グループ 年間休日120日以上！車通勤・バイク通勤可能♪賞与・昇給あり★キャリアップ可能！ゼロから介護職デビュー◎ ■介護福祉施設にて、以下のようなお仕事をお願いします」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収316万円」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収251.2万円〜」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収300万円〜600万円」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収240万円〜840万円」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給19万円〜20.9万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給19.2万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収303.6万円〜600万円」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収300万円〜330万円」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収350万円」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収295万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用の発信：
+  - 「入社後は先輩社員と一緒に現場に入り、工具の名前や使い方、作業の進め方から一つずつ覚えていきます」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 人手不足の発言：
+  - 「販売スタッフ／着物の販売スタッフ「新卒採用」未経験OK／残業ほぼなし／若手活躍中／産地研修あり／キャリアアップ可」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 取引先・規模：
+  - 「専務の中島は、三菱UFJ銀行で約10」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 検索結果の抜粋：
+  - 「マイナス600ミリボルト 新卒 高卒 の求人情報をすべて見る （136件） — マイナス600ミリボルト 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9600%E3%83%9F%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%88+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）
+
+## マスヤ工業
+- 公式URL：http://msy.co.jp/（search:ddgs:google:マスヤ工業）
+- 採用ページ：
+  - 「株式会社マスヤ工業の転職、求人、採用情報」（https://jobcatalog.yahoo.co.jp/company/1500304199/jobs/・3回目）
+- 想定年収・給与：
+  - 「月給: 182,280円〜240,000円」（https://hellowork-plus.com/company/2240001026596/・3回目）
+  - 「月給: 180,400円〜240,000円」（https://hellowork-plus.com/company/2240001026596/・3回目）
+  - 「月給: 179,760円〜240,000円」（https://hellowork-plus.com/company/2240001026596/・3回目）
+  - 「月給: 171,500円〜240,000円」（https://hellowork-plus.com/company/2240001026596/・3回目）
+  - 「月給: 165,500円〜240,000円」（https://hellowork-plus.com/company/2240001026596/・3回目）
+  - 「足利市／経理部門の業務改善・フロー標準化担当年休127日・年収440万～／国内トップ級の安定企業」（https://jobcatalog.yahoo.co.jp/company/1500304199/jobs/・3回目）
+  - 「三和シヤッター工業株式会社 【足利市】経理部門の業務改善・フロー標準化担当◆年休127日・年収440万～／国内トップ級の安定企業 【仕事内容】 【足利市】経理部門の業務改善・フロー標準化担当◆年休127日・年収440万～／国内トップ級の安定企業 【具体的な仕事内容】 【5,000名規模の全社経理基盤を支える経理・業務改善担当】 経理部門にて、経理実務と業務改善の両方を担当するポジションです」（https://jobcatalog.yahoo.co.jp/company/1500304199/jobs/・3回目）
+  - 「就職・転職に役立つ株式会社マスヤ工業の社員や元従業員による年収・給与、有休消化率などの評判・クチコミや企業ランキング、Q&A、求人情報をリサーチでき、企業分析や採用の調査としてご活用いただけます」（https://jobcatalog.yahoo.co.jp/company/1500304199/jobs/・3回目）
+  - 「1,500万円」（https://jobcatalog.yahoo.co.jp/company/1500304199/jobs/・3回目）
+- 求人媒体：
+  - 「株式会社マスヤ工業のハローワーク求人情報一覧｜ハローワークプラス」（https://hellowork-plus.com/company/2240001026596/・3回目）
+  - 「株式会社マスヤ工業のハローワーク求人情報一覧」（https://hellowork-plus.com/company/2240001026596/・3回目）
+  - 「＊応募を希望される場合は、ハローワークの窓口にて、 紹介状の交...」（https://hellowork-plus.com/company/2240001026596/・3回目）
+  - 「＊応募を希望される場合は、ハローワークの窓口にて、 紹介状の交付を受...」（https://hellowork-plus.com/company/2240001026596/・3回目）
+  - 「＊応募を希望される場合は、ハローワークの窓口に...」（https://hellowork-plus.com/company/2240001026596/・3回目）
+  - 「＊応募を希望される場合は、ハローワークの窓口にて...」（https://hellowork-plus.com/company/2240001026596/・3回目）
+  - 「＊応募を希望される場合は、ハローワークの窓口にて、 紹介状の交付を受けてください」（https://hellowork-plus.com/company/2240001026596/・3回目）
+- 取引先・規模：
+  - 「工場内で船舶用ポンプの組立作業に従事していただきます」（https://hellowork-plus.com/company/2240001026596/・3回目）
+  - 「工場内で大型マシニングセンター等を用いて、船舶用ポンプ部品の段取り、加工作業に従事していただきます」（https://hellowork-plus.com/company/2240001026596/・3回目）
+  - 「工場内で汎用旋盤を用いて、船舶用ポンプ部品の加工作業に従事していただきます」（https://hellowork-plus.com/company/2240001026596/・3回目）
+  - 「・汎用旋盤工 工場内で汎用旋盤を用いて、船舶用ポンプ部品の 加工作業に従事していただきます」（https://hellowork-plus.com/company/2240001026596/・3回目）
+  - 「工場、店舗、住宅と幅広い建材を手掛け、ステンレス・環境建材も扱う総合建材メーカー」（https://jobcatalog.yahoo.co.jp/company/1500304199/jobs/・3回目）
+  - 「（1日の平均対応件数：1〜5件程） ＜製品例＞ ガレージ・店舗等の ・シャッタードア(鋼製建具) ・自動ドアトイレブース、パーティーション ・フェンス等のエクステリア など ＜作業場所例＞ ・戸建住宅、店舗、工場、倉庫 ・集合住宅、商業施設 ・オフィス・医療施設・学校など ＜1日の流れ＞ 基本就業時間 08：30～17：15 ※休憩1時間 ※現場によって早出・残業等の場合有り」（https://jobcatalog.yahoo.co.jp/company/1500304199/jobs/・3回目）
+  - 「トクセン工業株式会社 【兵庫】生産設備の自動化開発・設計/電気制御（PLC・サーボ）◆寮・社宅あり◆残業月20h程度 【仕事内容】 【兵庫】生産設備の自動化開発・設計/電気制御（PLC・サーボ）◆寮・社宅あり◆残業月20h程度 【具体的な仕事内容】 ～創業50年連続黒字経営/残業月20h程度/グループ合計7社・売上約500億円・従業員数1,600名を誇る 金井ホールディングスの中核企業/年間休日120日～ ■業務内容 創業50年超・世界シェアトップクラスの同社製品「ピストンリング」や、国内第1位のシェアを持つ「ビードワイヤ」を製造する当社にて、生産設備の自動化開発・設計業務を担当いただきます」（https://jobcatalog.yahoo.co.jp/company/1500304199/jobs/・3回目）
+- 検索結果の抜粋：
+  - 「マスヤ 「社員クチコミ」 就職・転職の採用企業リサーチ OpenWork株式会社マスヤ工業のハローワーク求人情報一覧マスヤ工業の求人・採用・転職情報｜Yahoo!しごとカタログ — 株式会社マスヤの「社員・元社員のクチコミ情報」。 就職・転職前に採用企業「マスヤ」の評判、働く環境、年収・給与制度、入社後ギャップなどをリサーチ。 就職・転職のための「マスヤ」の社員クチコミ情報、企業分析チャート、求人情報を掲載。 May 7, 2026 · 株式会社マスヤ工業のハローワーク求人情報一覧です。 ハローワークプラスはハローワークの求人を検索できるサイトです。 職業安定所（職安）が提供しているハローワークインターネットサービスの求人情報を掲載しています。 就職・転職に役立つ株式会社マスヤ工業の社員や元従業員による年収・給与、有休消化率などの評判・クチコミや企業ランキング、Q&A、求人情報をリサーチで」（https://www.openwork.jp/company.php?m_id=a0C1000000raxyP・3回目）
+  - 「株式会社マスヤ工業のハローワーク求人情報一覧 — May 7, 2026 · 株式会社マスヤ工業のハローワーク求人情報一覧です。 ハローワークプラスはハローワークの求人を検索できるサイトです。 職業安定所（職安）が提供しているハローワークインターネットサービスの求人情報を掲載しています。」（https://hellowork-plus.com/company/2240001026596/・3回目）
+  - 「マスヤ工業の求人・採用・転職情報｜Yahoo!しごとカタログ — 就職・転職に役立つ株式会社マスヤ工業の社員や元従業員による年収・給与、有休消化率などの評判・クチコミや企業ランキング、Q&A、求人情報をリサーチでき、企業分析や採用の調査としてご活用いただけます。」（https://jobcatalog.yahoo.co.jp/company/1500304199/jobs/・3回目）
+  - 「求人情報 - 株式会社マスヤ工業 — 正社員：広島県呉市阿賀南7丁目20－6 での勤務月給：182,280円〜257,000円 年間休日 113日仕事内容：ポンプ試運転作業：試運転、据え付け、水抜き、出荷検査＊未経験の方でも歓迎いたします...」（http://www.shinkohir.co.jp/masuya/kyujin/・3回目）
+- 所在地：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索9回）
+- 創業年度：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索9回）
+- 資本金：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索9回）
+- 事業内容：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索9回）
+- 主要取引先：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索9回）
+- 採用人数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索9回）
+- 採用の発信：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索9回）
+- 人手不足の発言：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索9回）
 
 ## マックエンジニアリング
 - 公式URL：https://www.makeng.co.jp/（given）
@@ -15037,6 +16322,93 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 求人媒体：記載なし（3回確認済み：公式12頁／PDF・画像4件／外部13頁・検索8回）
 - 採用の発信：記載なし（3回確認済み：公式12頁／PDF・画像4件／外部13頁・検索8回）
 
+## ミドリ安全
+- 公式URL：https://www.midori-anzen.co.jp/（given）
+- 所在地：東京都渋谷区広尾5丁目4番3号 03-3442-8281（代表）（https://www.midori-anzen.co.jp/corporate/company-data/・1回目）
+- 所在地：東京都渋谷区広尾５丁目４番３号（https://jobcatalog.yahoo.co.jp/company/1600000331/salaries/・3回目）
+- 所在地：150-8455（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+- 創業年度：設立：1952年（昭和27年）6月（https://www.midori-anzen.co.jp/corporate/company-data/・1回目）
+- 創業年度：設立：1952年6月（https://jobcatalog.yahoo.co.jp/company/1600000331/salaries/・3回目）
+- 創業年度：設立：1952年6月（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+- 資本金：14億5,432万円（https://www.midori-anzen.co.jp/corporate/company-data/・1回目）
+- 資本金：14億5,400万円（https://jobcatalog.yahoo.co.jp/company/1600000331/salaries/・3回目）
+- 資本金：14億5,432万円（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+- 従業員数：1,725名（販売会社を含む正社員）（https://www.midori-anzen.co.jp/corporate/company-data/・1回目）
+- 従業員数：1,725人（https://jobcatalog.yahoo.co.jp/company/1600000331/salaries/・3回目）
+- 従業員数：1,017名（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+- 売上高：1052.55億円（https://jobcatalog.yahoo.co.jp/company/1600000331/salaries/・3回目）
+- 売上高：1,217億円（2025年5月期）（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+- 売上高：1052億5500万円（https://syukatsu-kaigi.jp/companies/72155・3回目）
+- 事業内容：安全靴・作業靴、ヘルメット等安全衛生保護具、オフィス・ワーキングユニフォーム・産業用防護服、空気清浄機・喫煙所システム・エアフィルタ等の環境改善機器、医療機器・救急用品、絶縁監視システム等の電気計測・設備機器の製造・販売（https://www.midori-anzen.co.jp/corporate/company-data/・1回目）
+- 事業内容：日本中の"働く現場・人々"を支える仕事です。 自動車工場、食品工場、物流センター、建設現場など、私たちの身の回りには多くの「働く現場」があります。 ミドリ安全は、そこで働く人々の安全・健康・快適な職場環境を支えるため、安全靴やヘルメットなどの安全衛生保護具をはじめ、ユニフォーム、空気清浄機などの環境改善機器、健康医療機器や電気計測器などの商品を企画・開発・製造・販売しています。 働く人の安全と健康を守りながら、より良い職場づくりに貢献していく。"当たり前の日常を守る"ことが我々の仕事です。 選考時に配布している、パンフレット表紙（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+- 代表者：代表取締役会長　松村不二夫 代表取締役社長　松村乾作（https://www.midori-anzen.co.jp/corporate/company-data/・1回目）
+- 代表者：松村 乾作（https://jobcatalog.yahoo.co.jp/company/1600000331/salaries/・3回目）
+- 代表者：代表取締役社長　松村　乾作（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+- 採用ページ：
+  - 「中途採用・カムバック採用（アルムナイ採用）について」（https://www.midori-anzen.co.jp/recruit/・1回目）
+  - 「「あなたがいたから、守れた命がある（リクルート）」篇 60秒」（https://www.midori-anzen.co.jp/recruit/・1回目）
+  - 「ミドリ安全(株)の新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+  - 「◆エントリー・説明会予約受付中◆ （ユニークなCMも放映中！）」（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+  - 「https://www.midori-anzen.co.jp/recruit/interview.html」（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+  - 「【エントリーから説明会・選考会までの流れ】」（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+  - 「マイナビからエントリー＆説明会予約【説明会予約、随時受付中】」（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+  - 「（エントリーシート提出が選考会参加への条件となります」（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+  - 「https://www.midori-anzen.co.jp/recruit/faq.html」（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+  - 「過去3年間の新卒採用者数（男女別）」（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+  - 「過去3年間の新卒採用者数・」（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+  - 「エントリーシート作成時の項目欄に記入ください」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=89796&recruitingCourseId=27045428・3回目）
+- 想定年収・給与：
+  - 「14億5,432万円」（https://www.midori-anzen.co.jp/corporate/company-data/・1回目）
+  - 「不動産業、保養所及び研修所等、施設の運営管理、損害保険代理店業、帳票印刷・事務用品及び事務用機器の販売並びに購入の斡旋、労働者派遣事業、給与計算処理の代行業務」（https://www.midori-anzen.co.jp/corporate/company-data/・1回目）
+  - 「ミドリ安全の年収・給与・昇給・ボーナス（17件）｜Yahoo!しごとカタログ」（https://jobcatalog.yahoo.co.jp/company/1600000331/salaries/・3回目）
+  - 「全82件の年収・給与情報を集計した結果、」（https://jobcatalog.yahoo.co.jp/company/1600000331/salaries/・3回目）
+  - 「ミドリ安全の平均年収は740万円でした」（https://jobcatalog.yahoo.co.jp/company/1600000331/salaries/・3回目）
+  - 「これは商社「繊維・アパレル」業界の平均472万円を268万円上回る水準で、業界内でも非常に高い年収水準にあります」（https://jobcatalog.yahoo.co.jp/company/1600000331/salaries/・3回目）
+  - 「30代で400万円を超え、40代で800万円、50代で900万円を超えている」（https://jobcatalog.yahoo.co.jp/company/1600000331/salaries/・3回目）
+  - 「30代から40代にかけての伸びが最も大きく、406万円増加しています」（https://jobcatalog.yahoo.co.jp/company/1600000331/salaries/・3回目）
+  - 「290〜490万円」（https://jobcatalog.yahoo.co.jp/company/1600000331/salaries/・3回目）
+  - 「400〜660万円」（https://jobcatalog.yahoo.co.jp/company/1600000331/salaries/・3回目）
+  - 「760〜1,270万円」（https://jobcatalog.yahoo.co.jp/company/1600000331/salaries/・3回目）
+  - 「1,000万円」（https://jobcatalog.yahoo.co.jp/company/1600000331/salaries/・3回目）
+- 求人媒体：
+  - 「マイナビ2028、オープンカンパニー予約受付スタート！」（https://www.midori-anzen.co.jp/recruit/・1回目）
+  - 「ミドリ安全(株)の新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+  - 「マイナビからエントリー＆説明会予約【説明会予約、随時受付中】」（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+  - 「外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！」（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+  - 「ミドリ安全(株)の採用データ | マイナビ2027」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=89796&recruitingCourseId=27045428・3回目）
+- 採用の発信：
+  - 「当社のホームページには先輩社員のインタビューを掲載しております」（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+  - 「仕事でブログでスマホや家電のレビュー記事を書いています」（https://note.com/androidgeek/n/nfacb2453908d・3回目）
+  - 「仕事でブログでスマホや家電のレビュー記事を書いています」（https://note.com/androidgeek/n/ne654462745b1・3回目）
+- 人手不足の発言：
+  - 「営業、研究、メディカル、管理部門で活躍する若手社員」（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+- 取引先・規模：
+  - 「全国から最寄りの支店・営業所を探せる、ミドリ安全の営業拠点の一覧です」（https://www.midori-anzen.co.jp/corporate/・1回目）
+  - 「全国の支店・営業拠点をエリアやキーワードから検索いただけます」（https://www.midori-anzen.co.jp/corporate/company-data/・1回目）
+  - 「フットウエア(安全靴)の製造／JIS表示許可工場／ISO9001:2015認証取得」（https://www.midori-anzen.co.jp/corporate/company-data/・1回目）
+  - 「／ISO14001認証取得（横浜・草加洗浄工場）」（https://www.midori-anzen.co.jp/corporate/company-data/・1回目）
+  - 「ミドリ安全グループ製品（安全靴、安全衛生用保護具、ユニフォーム等）の入出荷及び在庫管理、国内各拠点への輸配送」（https://www.midori-anzen.co.jp/corporate/company-data/・1回目）
+  - 「ミドリグループ製品（産業用安全衛生保護具、環境改善機器、電気計測器、健康医療機器、産業用特殊服、原皮、皮革、皮革製品、皮革用溶剤、工場設備機器等）の調達代行輸出入」（https://www.midori-anzen.co.jp/corporate/company-data/・1回目）
+  - 「全国から最寄りの支店・営業所を探せる、ミドリ安全の営業拠点の一覧です」（https://www.midori-anzen.co.jp/corporate/company-data/・1回目）
+  - 「福島県浅川町に衣料工場が完成、操業開始」（https://www.midori-anzen.co.jp/corporate/company-history/・1回目）
+  - 「埼玉県草加市に東京工場完成、操業開始」（https://www.midori-anzen.co.jp/corporate/company-history/・1回目）
+  - 「環境機器事業部を設置し、高熱職場用冷風機、高熱職場個人用冷房服、工場用電気集塵機、業務用空気清浄機など環境改善機器・装置の製造販売を開始」（https://www.midori-anzen.co.jp/corporate/company-history/・1回目）
+  - 「中国広東省広州市に第一号のユニフォーム工場として、日中合弁の「広東東方友誼服飾有限公司」を設立」（https://www.midori-anzen.co.jp/corporate/company-history/・1回目）
+  - 「ベトナムにユニフォームの第2工場を設立」（https://www.midori-anzen.co.jp/corporate/company-history/・1回目）
+- 検索結果の抜粋：
+  - 「ミドリ安全株式会社 の給与 | Indeed (インディード) — ミドリ安全株式会社の平均年収は、約447万円 (提案営業) 〜714万円 (管理職・マネージャー) です。 ミドリ安全株式会社の平均月給の範囲は約 20.8万円／月（法人営業）から約 33.5万円／月（管理職・マネージャー）です。」（https://jp.indeed.com/cmp/ミドリ安全株式会社/salaries・3回目）
+  - 「ミドリ安全の年収・給与・昇給・ボーナス（17件）｜Yahoo!しごとカタ...ミドリ安全株式会社 の給与 | Indeed (インディード)ミドリ安全株式会社の求人・採用情報｜求人ボックスミドリ安全の年収・給与 平均年収 - エン カイシャの評判ミドリ安全株式会社の平均年収、年間給与所得情報 − 転職ならdoda（デ...ミドリ安全株式会社 採用情報サイト - MIDORI ANZEN — ミドリ安全株式会社の社員・元従業員による平均年収は、回答者は740万円。 年収・給与・ボーナスなどの待遇に関する評判・クチコミを掲載（17件）。 職種、雇用形態別、年代別などの平均年収も掲載。 日本でのミドリ安全株式会社の平均給与 Indeed に掲載された求人と、この企業の従業員から寄せられたミドリ安全株式会社の給与情報を参照する。 給与情報は、Indeed にこれまでに掲載された7件の求人に基いた推」（https://jobcatalog.yahoo.co.jp/company/1600000331/salaries/・3回目）
+  - 「ミドリ安全株式会社 の給与 | Indeed (インディード) — 日本でのミドリ安全株式会社の平均給与 Indeed に掲載された求人と、この企業の従業員から寄せられたミドリ安全株式会社の給与情報を参照する。 給与情報は、Indeed にこれまでに掲載された7件の求人に基いた推定値です。」（https://jp.indeed.com/cmp/ミドリ安全株式会社-5/salaries・3回目）
+  - 「ミドリ安全株式会社の求人・採用情報｜求人ボックス — ミドリ安全株式会社の求人・採用情報を79件掲載中！希望する職種や年収・月給、勤務地、こだわり条件から、あなたに ...」（https://xn--pckua2a7gp15o89zb.com/ミドリ安全株式会社の仕事・3回目）
+  - 「ミドリ安全の年収・給与 平均年収 - エン カイシャの評判 — ミドリ安全株式会社の正社員42人の回答によると平均年収は528万円、年収範囲は280～1050万円です。また、集計期間は2015年～2026年で回答者の平均年齢は37.2歳です。 メーカー（アパレル・服飾・雑貨・皮革製品）業界の平均年収は395万円で業界内の年収ランキングでは16位です。」（https://en-hyouban.com/company/00001211373/salary/?job_type=20・3回目）
+  - 「ミドリ安全 (株)の新卒採用・会社概要 | マイナビ2027ミドリ安全(株)の採用データ - マイナビ2027ミドリ安全の新卒採用・就職・企業情報【就活会議】ミドリ安全株式会社の求人・採用情報｜求人ボックスミドリ安全の新卒採用・就職・会社概要とクチコミ — 70年を超える歴史の中で安全のフィールドを次々に広げ、今や安全靴以外にもヘルメットやユニフォーム、空気清浄機、電気計測器等、実に多彩な製品で働く人達へ安全と安心を送り届けています。 仕事紹介記事 若い世代の社員も数多く活躍している。 相談しやすい環境なので、安心してスキルアップに励むことができる。 （新入社員集合写真） 実際にミドリ安全の商品が使われている現場のお客様の声が聞ける環境で、やりがいを感じることもできる。 ミドリ安全の新卒採用・就職・企業情報 ミドリ安全株式会社の社員・元社員による総合評価は4.0点です（口コミ回答数268件」（https://job.mynavi.jp/27/pc/search/corp89796/outline.html・3回目）
+  - 「ミドリ安全(株)の採用データ - マイナビ2027ミドリ安全の新卒採用・就職・企業情報【就活会議】ミドリ安全株式会社の求人・採用情報｜求人ボックスミドリ安全の新卒採用・就職・会社概要とクチコミ — 仕事紹介記事 若い世代の社員も数多く活躍している。 相談しやすい環境なので、安心してスキルアップに励むことができる。 （新入社員集合写真） 実際にミドリ安全の商品が使われている現場のお客様の声が聞ける環境で、やりがいを感じることもできる。 ミドリ安全の新卒採用・就職・企業情報 ミドリ安全株式会社の社員・元社員による総合評価は4.0点です（口コミ回答数268件）。ESや本選考体験記は8件あります。基本情報のほか、ミドリ安全株式会社の社員・元社員による会社の評価、過去のインターン選考の内容、内定した学生の志望動機 ... 安全衛生保護具メーカーの「提案営業」／安定基盤で定着率抜群 ミドリ安全株式会社」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=89796&recruitingCourseId=27045428・3回目）
+  - 「ミドリ安全の新卒採用・就職・企業情報【就活会議】ミドリ安全株式会社の求人・採用情報｜求人ボックスミドリ安全の新卒採用・就職・会社概要とクチコミ — ミドリ安全の新卒採用・就職・企業情報 ミドリ安全株式会社の社員・元社員による総合評価は4.0点です（口コミ回答数268件）。ESや本選考体験記は8件あります。基本情報のほか、ミドリ安全株式会社の社員・元社員による会社の評価、過去のインターン選考の内容、内定した学生の志望動機 ... 安全衛生保護具メーカーの「提案営業」／安定基盤で定着率抜群 ミドリ安全株式会社 東京都 月給24万4,100円～ / 賞与あり・昇給あり 正社員 「 ミドリ安全 」の知名度&信頼は、圧倒的です! 業界トップクラス&知名度抜群!安全靴・作業服 ... ミドリ安全の概要、企業研究、就活対策情報です。 最新のインターンシップ ・説明会情報の他、ES・GD・面接・インターン」（https://syukatsu-kaigi.jp/companies/72155・3回目）
+  - 「ミドリ安全株式会社の求人・採用情報｜求人ボックス — 安全衛生保護具メーカーの「提案営業」／安定基盤で定着率抜群 ミドリ安全株式会社 東京都 月給24万4,100円～ / 賞与あり・昇給あり 正社員 「 ミドリ安全 」の知名度&信頼は、圧倒的です! 業界トップクラス&知名度抜群!安全靴・作業服 ...」（https://xn--pckua2a7gp15o89zb.com/ミドリ安全株式会社の仕事・3回目）
+  - 「ミドリ安全の新卒採用・就職・会社概要とクチコミ — ミドリ安全の概要、企業研究、就活対策情報です。 最新のインターンシップ ・説明会情報の他、ES・GD・面接・インターン・OB訪問・リクルーターの選考内容と先輩内定者の回答例を掲載しています。 はじめてのキャリアを選ぶ、就活サイト【ワンキャリア】」（https://www.onecareer.jp/companies/83308・3回目）
+- 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部18頁・検索8回）
+- 採用人数：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部18頁・検索8回）
+
 ## ミヨシ電子
 - 公式URL：https://www.miyoshi.elec.co.jp/（given）
 - 所在地：〒666-0024 兵庫県川西市久代３丁目13番21号　ミヨシ電子ビル（https://www.miyoshi.elec.co.jp/company/・1回目）
@@ -15247,6 +16619,50 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 売上高：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部18頁・検索8回）
 - 代表者：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部18頁・検索8回）
 - 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部18頁・検索8回）
+
+## モノトーン
+- 公式URL：https://monotone.co.jp/（given）
+- 所在地：本社 〒734-0015 広島市南区宇品御幸2丁目16番10号 札幌営業所 〒002-0853 札幌市北区屯田3条2丁目2番40号（https://monotone.co.jp/company/・1回目）
+- 創業年度：設立日：1996年4月（平成8年4月）（https://monotone.co.jp/company/・1回目）
+- 資本金：10,000,000円（https://monotone.co.jp/company/・1回目）
+- 事業内容：接地工事用部材製造販売及び接地工事全般（https://monotone.co.jp/company/・1回目）
+- 採用ページ：
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 想定年収・給与：
+  - 「年収251.2万円〜」（https://jp.stanby.com/search?q=%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収316万円」（https://jp.stanby.com/search?q=%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収300万円〜600万円」（https://jp.stanby.com/search?q=%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給19万円〜20.9万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給19.2万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収303.6万円〜600万円」（https://jp.stanby.com/search?q=%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上」（https://jp.stanby.com/search?q=%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収325万円〜600万円」（https://jp.stanby.com/search?q=%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です」（https://jp.stanby.com/search?q=%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収350万円」（https://jp.stanby.com/search?q=%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収240万円〜840万円」（https://jp.stanby.com/search?q=%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給206万円」（https://jp.stanby.com/search?q=%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用の発信：
+  - 「【2026最新版】ハイブランド値上げ・価格・小物情報まとめブログ」（https://note.com/tag/%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%87・3回目）
+- 人手不足の発言：
+  - 「建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます」（https://jp.stanby.com/search?q=%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 取引先・規模：
+  - 「専務の中島は、三菱UFJ銀行で約10」（https://jp.stanby.com/search?q=%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「代官山・米子を拠点にしたインテリア会社「greeniche」のアカウントです」（https://note.com/greeniche/n/nde1085eb0178・3回目）
+- 検索結果の抜粋：
+  - 「株式会社 モノトーン の平均 年収 、年間給与所得情報 - doda — 株式会社 モノトーン の平均 年収 、年間給与所得情報 - doda doda https://doda.jp > CompanyIncome > j_id__10131536067」（https://doda.jp/DodaFront/View/CompanyIncome/j_id__10131536067/・3回目）
+  - 「モノトーン カフェのアルバイト・バイト 求人 情報 - タウンワーク — モノトーン カフェのアルバイト・バイト 求人 情報 - タウンワーク タウンワーク https://townwork.net > job_search > モノトーンカフェ」（https://townwork.net/job_search/kw/%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3%E3%82%AB%E3%83%95%E3%82%A7/・3回目）
+  - 「カラオケ モノトーン 宝塚店のアルバイト・バイト情報 — カラオケ モノトーン 宝塚店のアルバイト・バイト情報 フロムエーナビ https://www.froma.com > ... > 兵庫県南/東部 > 宝塚市」（https://www.froma.com/viewjob/83ff52b16140e755/・3回目）
+  - 「モノトーン 新卒 高卒 の求人情報をすべて見る （136件） — モノトーン 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部16頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部16頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部16頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部16頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部16頁・検索8回）
 
 ## モリマシナリー
 - 公式URL：https://tenshoku-ex.jp/（given）
@@ -17074,6 +18490,69 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 主要取引先：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部18頁・検索8回）
 - 採用人数：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部18頁・検索8回）
 
+## 三こう技研
+- 公式URL：https://works.aqsh.co.jp/（given）
+- 所在地：〒028-7111 岩手県八幡平市大更第25地割113番地 起業家支援センター2F（https://works.aqsh.co.jp/about・1回目）
+- 事業内容：Web制作、LP制作、採用サイト制作、採用DX支援、Webアプリ開発、 業務システム開発、AI活用支援、人材紹介事業（https://works.aqsh.co.jp/about・1回目）
+- 代表者：代表取締役　塚田 崇博（https://works.aqsh.co.jp/about・1回目）
+- 採用ページ：
+  - 「Web制作、LP制作、採用サイト制作、採用DX支援、Webアプリ開発、」（https://works.aqsh.co.jp/about・1回目）
+  - 「三こう技研株式会社の転職・求人・中途採用情報|マイナビ転職」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+  - 「三こう技研株式会社の転職・求人・中途採用情報」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+  - 「「三こう技研株式会社」の転職・求人・中途採用情報を掲載しています」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+  - 「三こう技研株式会社の会社概要|転職・求人・中途採用情報サイトのマイナビ転職」（https://tenshoku.mynavi.jp/company/475769/・3回目）
+- 想定年収・給与：
+  - 「イメージや広告に惑わされない、給与や休日数などの「真の働きやすさ」をスコアで可視化」（https://works.aqsh.co.jp/・1回目）
+  - 「ブックマークした複数の企業を一覧表示し、給与や勤続年数などの指標を横並びでスムーズに比較分析できます」（https://works.aqsh.co.jp/・1回目）
+  - 「平均年収、残業時間、女性管理職割合などのリアルな数値を分析」（https://works.aqsh.co.jp/about・1回目）
+  - 「立ち上げメンバーで自由度高く働けます ★前職給与考慮」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+  - 「月給40万円〜50万円 ・賃金は前職経験等を考慮し決定 ※試用期間3ヶ月（時給1,200円〜1,3…」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+  - 「500万円～600万円」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+  - 「＊土日休み＊【CAD・CAMオペレーター】賞与年2回／月給26万円～」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+  - 「月給26万円〜35万円 ※賃金は前職経験等を考慮し決定 ※試用期間3ヶ月（時給1,200円〜1,3…」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+  - 「360万円～490万円」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+  - 「月給18.4万〜35万円 ・賃金は前職経験等を考慮し決定 ・試用期間3カ月（時給1,150円〜1,…」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+  - 「290万円～510万円」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+  - 「月給25万円〜30万円」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+- 求人媒体：
+  - 「ハローワークの膨大な求人情報とgBizINFOの法人データを統合解析」（https://works.aqsh.co.jp/・1回目）
+  - 「データ出典（ハローワーク、gBizINFO）」（https://works.aqsh.co.jp/・1回目）
+  - 「ハローワーク、gBizINFO、国税庁法人番号公表サイトなどから収集した全国の企業データを集約」（https://works.aqsh.co.jp/about・1回目）
+  - 「データ出典（ハローワーク、gBizINFO）」（https://works.aqsh.co.jp/about・1回目）
+  - 「三こう技研株式会社の転職・求人・中途採用情報|マイナビ転職」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+  - 「※オプトアウトをした場合、マイナビ転職の一部サービスを利用できない場合があります」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+  - 「（ハローワーク求人データ 561,313件より算出、最新集計）」（https://helloworkplus.com/company/3405-302649-9/・3回目）
+  - 「ハローワークで公開されたこの法人の求人情報を helloworkplus が集計したものです」（https://helloworkplus.com/company/3405-302649-9/・3回目）
+  - 「出典: ハローワークで公開された求人情報をもとに helloworkplus が集計」（https://helloworkplus.com/company/3405-302649-9/・3回目）
+  - 「受発注業務 電話対応 伝票処理 変更範囲:変更なし *ハローワークの窓口でご相談のうえ,必ず,ハローワークの 紹介状の交付を受け…」（https://helloworkplus.com/company/3405-302649-9/・3回目）
+  - 「三こう技研株式会社の会社概要|転職・求人・中途採用情報サイトのマイナビ転職」（https://tenshoku.mynavi.jp/company/475769/・3回目）
+  - 「あなたの転職を支援する転職サイト「マイナビ転職」豊富な求人情報と転職情報・転職支援サービスで転職をサポート」（https://tenshoku.mynavi.jp/company/475769/・3回目）
+- 取引先・規模：
+  - 「ものづくり企業で活躍【事務スタッフ】今年8月新工場OPEN！」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+  - 「【2026年8月新工場OPEN】広島県福山市東村町967番 ※マイカー通勤可 無料駐車場あり ※転…」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+  - 「ものづくり現場で活躍【軽作業(表面仕上) 】今年8月新工場OPEN！」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+  - 「【2026年8月新工場OPEN】 広島県福山市東村町967番 ※マイカー通勤可 無料駐車場あり ※…」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+  - 「ものづくり現場で活躍できる【機械加工】2026年8月新工場OPEN！」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+  - 「【最新設備と広々空間の新工場】機械操作や、手作業で金属を加工します」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+  - 「【2026年8月新工場OPEN】広島県福山市東村町967番」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+- 検索結果の抜粋：
+  - 「三こう技研株式会社の転職・求人・中途採用情報|マイナビ転職 — 「三こう技研株式会社」の転職・求人・中途採用情報ページです。三こう技研株式会社で募集中の求人情報（6件)を掲載しています。マイナビ転職の企業別求人情報一覧ページでは、関連する業種・職種の企業の求人情報なども探せます。」（https://tenshoku.mynavi.jp/company/475769/joblist/・3回目）
+  - 「三こう技研株式会社のバイト・パート・正社員求人情報 | Indeed (イン... — 三こう技研株式会社の最新の求人は5件です。三こう技研株式会社の求人情報、採用動向、社員クチコミ、給与などの企業 ...」（https://jp.indeed.com/cmp/三こう技研株式会社/jobs・3回目）
+  - 「三こう技研 株式会社の求人一覧 （4件 ・19.5〜35.0万 — 三こう技研 株式会社の求人一覧。掲載求人数は4件。月給・時給の相場は19.5〜35.0万です。広島県福山市東村町967。給与偏差値・年齢別年収データ付きでハローワーク求人を分析。ハローワーク+で。」（https://helloworkplus.com/company/3405-302649-9/・3回目）
+  - 「三こう技研 株式会社のハローワーク求人情報一覧｜しごと情報ネット — Aug 17, 2026 · 三こう技研 株式会社のハローワーク求人情報一覧 土木技術者 三こう技研 株式会社 正社員 経験不問 学歴不問 転勤なし 書類選考なし 通勤手当あり マイカー通勤可 ... 掲載日 2026年8月17日 詳細を見る」（https://www.job-net.jp/employers/1240001033833・3回目）
+  - 「三こう技研株式会社のハローワーク求人｜広島県福山市｜土木技術者 — Aug 17, 2026 · ハローワークインターネットサービスに掲載された三こう技研株式会社の求人情報です。雇用形態は正社員で、勤務地は広島県福山市です。この求人情報は福山公共職業安定所で受理されました。下記の情報は求人掲載時点での情報です。この求人が気になる方は、最寄りのハローワークの窓口 ...」（https://hellowork-plus.com/job-32003105/・3回目）
+  - 「三こう技研株式会社の会社概要|転職・求人・中途採用情報サイトのマイ... — 「三こう技研株式会社」の企業情報ページです。三こう技研株式会社で募集中の求人（3件）や会社概要などの企業情報を掲載しています。マイナビ転職の企業情報ページでは、さまざまな業種・職種で求人を募集している企業の情報を探せます。」（https://tenshoku.mynavi.jp/company/475769/・3回目）
+  - 「三こう技研 株式会社の求人一覧 （4件 ・19.5〜35.0万 ） |ハローワー... — 三こう技研 株式会社の求人一覧。掲載求人数は4件。月給・時給の相場は19.5〜35.0万です。広島県福山市東村町967。給与偏差値・年齢別年収データ付きでハローワーク求人を分析。ハローワーク+で。」（https://helloworkplus.com/company/3405-302649-9/・3回目）
+  - 「三こう技研株式会社 の求人 — 三こう技研株式会社の求人は64件あります。機械製造, 軽作業スタッフ, 施工管理などの仕事・転職・アルバイト情報も ...」（https://jp.indeed.com/q-三こう技研株式会社-求人.html・3回目）
+- 創業年度：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）
+- 採用人数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）
+- 採用の発信：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）
+
 ## 三乗工業
 - 公式URL：https://www.job-net.jp/（given）
 - 所在地：〒761-8031 香川県高松市郷東町７９６－８５（https://www.job-net.jp/jobs/26116340・1回目）
@@ -17876,6 +19355,58 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 事業内容：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索8回）
 - 採用人数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索8回）
 - 求人媒体：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索8回）
+
+## 三菱重工コンプレッサ
+- 公式URL：https://www.mhi.com/（given）
+- 採用ページ：
+  - 「RECRUITMENT INFORMATION」（https://www.mhi.com/recruit/pdf/fy2026_whoweare_eng.pdf・2回目）
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 想定年収・給与：
+  - 「年収251.2万円〜」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収316万円」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給19万円〜20.9万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収300万円〜600万円」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収303.6万円〜600万円」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収350万円」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収240万円〜840万円」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収325万円〜600万円」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給206万円」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 求人媒体：
+  - 「In the nuclear energy segment, we are engaged in the design,」（https://www.mhi.com/recruit/pdf/fy2026_whoweare_eng.pdf・2回目）
+- 採用の発信：
+  - 「入社後は先輩社員と一緒に現場に入り、工具の名前や使い方、作業の進め方から一つずつ覚えていきます」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 人手不足の発言：
+  - 「建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 取引先・規模：
+  - 「三菱重工コンプレッサ 高卒 新卒 新卒の求人・仕事・採用｜スタンバイでお仕事探し」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「専務の中島は、三菱UFJ銀行で約10」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「三菱重工コンプレッサ、スイスの回転機器メンテ会社AST Turbo AGを買収、海外フィールドサービスを強化｜kikai-news.net 産機通信」（https://note.com/sankituushin/n/n6c0a579eda56・3回目）
+  - 「三菱重工コンプレッサ、スイスの回転機器メンテ会社AST Turbo AGを買収、海外フィールドサービスを強化」（https://note.com/sankituushin/n/n6c0a579eda56・3回目）
+  - 「MCOおよび三菱重工グループが持つ設計・製造・保全の技術力や知見と融合させることで、サービスレベルの一段の高度化と事業拡大を図る」（https://note.com/sankituushin/n/n6c0a579eda56・3回目）
+  - 「三菱重工グループは近年、製品販売後のサービス事業を成長分野と位置付け、グローバルでのパートナリングを積極化している」（https://note.com/sankituushin/n/n6c0a579eda56・3回目）
+- 検索結果の抜粋：
+  - 「三菱重工コンプレッサ の「 年収 ・給与制度」 OpenWork — 三菱重工コンプレッサ の「 年収 ・給与制度」 OpenWork OpenWork https://www.openwork.jp > ... > 三菱重工コンプレッサ」（https://www.openwork.jp/company_answer.php?m_id=a0C10000011FJhi&q_no=2・3回目）
+  - 「採用情報 | 三菱重工コンプレッサ 株式会社 — 採用情報 | 三菱重工コンプレッサ 株式会社 Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > group > mco > recruit」（https://www.mhi.com/jp/group/mco/recruit・3回目）
+  - 「三菱重工コンプレッサ 株式会社の平均 年収 、給与情報 - doda — 三菱重工コンプレッサ 株式会社の平均 年収 、給与情報 - doda doda https://doda.jp > CompanyIncome > j_id__10007610765」（https://doda.jp/DodaFront/View/CompanyIncome/j_id__10007610765/・3回目）
+  - 「三菱重工コンプレッサ 株式会社 の給与 - Indeed (インディード) — 三菱重工コンプレッサ 株式会社 の給与 - Indeed (インディード) Indeed https://jp.indeed.com > cmp > salaries」（https://jp.indeed.com/cmp/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries・3回目）
+  - 「三菱重工コンプレッサ 新卒 高卒 の求人情報をすべて見る （136件） — 三菱重工コンプレッサ 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「採用 情報 | 三菱重工コンプレッサ 株式会社 — 採用 情報 | 三菱重工コンプレッサ 株式会社 Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > group > mco > recruit」（https://www.mhi.com/jp/group/mco/recruit・3回目）
+- 所在地：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部7頁・検索8回）
+- 創業年度：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部7頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部7頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部7頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部7頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部7頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部7頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部7頁・検索8回）
 
 ## 三蓉エンジニアリング
 - 公式URL：https://biomass-hasaiki.jp/（given）
@@ -18901,6 +20432,55 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 採用ページ：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部4頁・検索8回）
 - 採用人数：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部4頁・検索8回）
 - 人手不足の発言：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部4頁・検索8回）
+
+## 今岡製菓
+- 公式URL：https://hijapan-expo.com/（given）
+- 採用ページ：
+  - 「今岡製菓の新卒採用・就職・企業情報【就活会議】」（https://syukatsu-kaigi.jp/companies/11832・3回目）
+  - 「今岡製菓株式会社の新卒採用・就職・企業情報」（https://syukatsu-kaigi.jp/companies/11832・3回目）
+  - 「ぜひ、選考体験記の詳細ページにて最新情報やエントリーシート・体験記全文を確認し、選考対策に役立ててください」（https://syukatsu-kaigi.jp/companies/11832・3回目）
+  - 「就活会議では、今岡製菓株式会社の評判や口コミ、選考を突破した先輩のエントリーシート、実際の選考内容を確認できる体験記、選考状況をリアルタイムで把握できる就活速報を掲載しています」（https://syukatsu-kaigi.jp/companies/11832・3回目）
+- 想定年収・給与：
+  - 「4000万円」（https://helloworkplus.com/company/3404-000008-9/・3回目）
+  - 「今岡製菓の年収・給与・昇給・ボーナス（2件）｜Yahoo!しごとカタログ」（https://jobcatalog.yahoo.co.jp/company/1100013255/salaries/・3回目）
+  - 「派遣社員として勤めていたのですが、昇給がなく、派遣会社によって時給が違ったり、交通費が出たり出なかったりと差がありました」（https://jobcatalog.yahoo.co.jp/company/1100013255/salaries/・3回目）
+  - 「周りの同級生達に比べれば、各種手当てや待遇も良く、賞与、昇給制度も、非常に良く、満足がいくも」（https://jobcatalog.yahoo.co.jp/company/1100013255/salaries/・3回目）
+  - 「4,000万円」（https://jobcatalog.yahoo.co.jp/company/1100013255/salaries/・3回目）
+  - 「今岡製菓株式会社の年収・給与・昇給・ボーナス」（https://jobcatalog.yahoo.co.jp/company/1100013255/salaries/・3回目）
+  - 「月給：200,000円（一律手当含む）」（http://www.imaokaseika.co.jp/recruit/requirement/・3回目）
+  - 「年収、評価制度」（https://syukatsu-kaigi.jp/companies/11832・3回目）
+  - 「昇給は年1回あるが上がらなかった年もあった」（https://syukatsu-kaigi.jp/companies/11832・3回目）
+  - 「賞与は年2回支給され...」（https://syukatsu-kaigi.jp/companies/11832・3回目）
+  - 「4000万円」（https://syukatsu-kaigi.jp/companies/11832・3回目）
+  - 「就活会議に掲載している口コミ及び口コミに紐づく属性情報（性別、雇用時の年齢・年代、職種、年収、役職、雇用形態など）は、」（https://syukatsu-kaigi.jp/companies/11832・3回目）
+- 求人媒体：
+  - 「（ハローワーク求人データ 308,758件より算出、最新集計）」（https://helloworkplus.com/company/3404-000008-9/・3回目）
+- 採用の発信：
+  - 「ベテランの先輩社員が積極的に有給休暇を取得しているので、若手社員も取りやすい環境です」（https://www.imaokaseika.co.jp/recruit/・3回目）
+- 人手不足の発言：
+  - 「ベテランの先輩社員が積極的に有給休暇を取得しているので、若手社員も取りやすい環境です」（https://www.imaokaseika.co.jp/recruit/・3回目）
+  - 「月に一度、営業部と開発部の若手社員による商品開発会議を実施しています」（https://www.imaokaseika.co.jp/recruit/・3回目）
+- 検索結果の抜粋：
+  - 「今岡製菓 株式会社の求人 |ハローワーク+ — 今岡製菓 株式会社の求人情報一覧。給与偏差値・年齢別年収データ付きでハローワーク求人を分析。ハローワーク+ (プラス ...」（https://helloworkplus.com/company/3404-000008-9/・3回目）
+  - 「今岡製菓株式会社 の 日本 での給与 | Indeed (インディード) — Indeed に掲載された求人と、この企業の従業員から寄せられた今岡製菓株式会社の給与情報を参照する。」（https://jp.indeed.com/cmp/今岡製菓株式会社-4/salaries・3回目）
+  - 「今岡製菓の年収・給与・昇給・ボーナス（2件）｜Yahoo!しごとカタログ — 今岡製菓株式会社の年収・給与・ボーナスなどの待遇に関する評判・クチコミを掲載（2件）。職種、雇用形態別、年代別 ...」（https://jobcatalog.yahoo.co.jp/company/1100013255/salaries/・3回目）
+  - 「今岡製菓の年収/給料/ボーナス/評価制度(全2件)「【気になること・改... — Jun 9, 2026 · 今岡製菓の 評判・社風・社員 の口コミ（10件） 年収・評価2件 やりがい1件 スキルアップ1件 福利厚生・制度-- 件 成長・将来性1件 社員・管理職1件 ワークライフ1件 女性の働きやすさ1件 入社後のギャップ-- 件 退職理由1件 社長と経営方針1件 面接・選考-- 件」（https://jobtalk.jp/companies/243986/answers/8863314・3回目）
+  - 「今岡製菓の年収・ボーナス・給与・初任給に関する評判・口コミ一覧（... — 今岡製菓株式会社の正社員・契約社員・派遣社員の平均年収は???万円、年収範囲は300〜300万円です。 社員・元社員とインターンや選考に参加した学生による、今岡製菓株式会社の年収、評価制度に関する口コミを公開しています。」（https://syukatsu-kaigi.jp/companies/11832/post_items/2/word_mouths・3回目）
+  - 「新卒採用情報 | 今岡製菓 — 老舗食品メーカー 今岡製菓は明治11年に尾道市の長江で創業しました。 地元では長い歴史を持つ会社で、現在の社長は5代目になります。 粉末清涼飲料を主力事業に行っており、商品の一部は同じ尾道市にある瀬戸田町産のブランドレモンを使用しています。」（https://www.imaokaseika.co.jp/recruit/・3回目）
+  - 「募集要項 | 今岡製菓今岡製菓株式会社のインターン・新卒採用・会社概要丨就活ならリクナ...今岡製菓の新卒採用・就職・企業情報【就活会議】今岡製菓株式会社の新卒採用・会社概要丨就活ならリクナビ（尾道市）老舗食品メーカーでの生産・包装スタッフの求人募集要項 (0...（尾道市）老舗食品メーカーでの生産・包装スタッフの求人募集要項 (0... — 募集要項 総合職（営業部、管理部、生産部、開発部） ※まずは営業部または生産部への配属予定です 雇用形態 正社員 募集人数 1〜5名 応募資格 大学 卒業見込みの方 試用期間 仕事内容 【営業部】 全国のスーパーなどに商品を卸す食品・薬品商社向けの営業を行います。既存顧客へのフォロー ... 食品メーカーの仕事がわかる!明治創業の老舗で学ぶ「食と健康」 対面開催3時間｜文理不問！「おいしい」を創るチームの力 説明会・イベント 仕事体験 今岡製菓の新卒」（http://www.imaokaseika.co.jp/recruit/requirement/・3回目）
+  - 「今岡製菓の新卒採用・就職・企業情報【就活会議】今岡製菓株式会社の新卒採用・会社概要丨就活ならリクナビ（尾道市）老舗食品メーカーでの生産・包装スタッフの求人募集要項 (0...（尾道市）老舗食品メーカーでの生産・包装スタッフの求人募集要項 (0... — 今岡製菓の新卒採用・就職・企業情報 今岡製菓株式会社の社員・元社員による総合評価は2.7点です（口コミ回答数9件）。ESや本選考体験記は0件あります。基本情報のほか、今岡製菓株式会社の社員・元社員による会社の評価、過去のインターン選考の内容、内定した学生の志望動機など、一部 ... 今岡製菓株式会社の新卒採用情報、企業研究、選考対策を掲載 尾道市にある明治11年創業 有名老舗メーカー☆ 自社ブランド“瀬戸田レモン”で おなじみの「今岡製菓」 粉末清涼飲料などを製造する会社です！ 月給19万円～ 8:00～17:00（休憩70分） 昇給・賞与」（https://syukatsu-kaigi.jp/companies/11832・3回目）
+  - 「今岡製菓株式会社の新卒採用・会社概要丨就活ならリクナビ — 今岡製菓株式会社の新卒採用情報、企業研究、選考対策を掲載」（https://job.rikunabi.com/selection/company_jobs/210096880/・3回目）
+  - 「今岡製菓株式会社のインターン・新卒採用・会社概要丨就活ならリクナ... — 食品メーカーの仕事がわかる!明治創業の老舗で学ぶ「食と健康」 対面開催3時間｜文理不問！「おいしい」を創るチームの力 説明会・イベント 仕事体験」（https://job.rikunabi.com/company_jobs/210096880/・3回目）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索8回）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索8回）
+- 採用人数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索8回）
+- 取引先・規模：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索8回）
 
 ## 今治造船
 - 公式URL：https://www.imazo.co.jp/（given）
@@ -20208,6 +21788,68 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 売上高：記載なし（3回確認済み：公式12頁／PDF・画像2件／外部10頁・検索8回）
 - 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像2件／外部10頁・検索8回）
 
+## 創業50周年を機に
+- 公式URL：https://www.shinkohir.co.jp/（given）
+- 創業年度：創業：1938年（昭和13年）12月19日（https://www.shinkohir.co.jp/corporate/・1回目）
+- 創業年度：創　業：1938年（昭和13年）12月19日（https://www.shinkohir.co.jp/saiyou/company.html・1回目）
+- 資本金：1億円（https://www.shinkohir.co.jp/corporate/・1回目）
+- 資本金：1億円（https://www.shinkohir.co.jp/saiyou/company.html・1回目）
+- 従業員数：494名（2025年10月現在）（https://www.shinkohir.co.jp/corporate/・1回目）
+- 従業員数：合計 499名　男性：443名（平均年齢41歳）/ 女性：56名（平均年齢41歳）（https://www.shinkohir.co.jp/saiyou/company.html・1回目）
+- 売上高：2021年10月期　290億円 2022年10月期　313億円 2023年10月期　346億円 2024年10月期　508億円 2025年10月期　676億円（https://www.shinkohir.co.jp/saiyou/company.html・1回目）
+- 代表者：代表取締役社長　筒井幹治（https://www.shinkohir.co.jp/corporate/・1回目）
+- 代表者：代表取締役社長　筒井幹治（https://www.shinkohir.co.jp/saiyou/company.html・1回目）
+- 主要取引先：◆造船関係 [日本] 三菱重工業(株)、川崎重工業(株)、(株)三井E＆S、ジャパンマリンユナイテッド(株)、住友重機械マリンエンジニアリング(株)、今治造船(株)、尾道造船(株)、常石造船(株)、(株)新来島どっく、(株)名村造船所、(株)神田造船所、南日本造船(株) [中国] 上海外高橋造船、滬東中華造船(集団)、江蘇新時代造船、大連船舶重工集団、広州広船国際、南通中遠川崎船舶工程、中遠船務工程、揚子江船業集団、揚州太平造船、渤海船舶重工、中海工業(江蘇)、江南造船(集団) [韓国] HD現代重工業、現代三湖重工業、Hanhwa Ocean Co., Ltd.、三星重工業、大韓造船、STX造船、成東造船海洋、SPP造船、現代尾浦造船 [その他] CSBC(台湾)、Brodosplit(クロアチア)、Avondale(アメリカ)、Atlantico Sul(ブラジル)、Namdlie(ベトナム) ◆海運関係 [日本] 日本郵船(株)、(株)商船三井、川崎汽船(株)、出光タンカー(株)、飯野海運(株)、共栄タンカー(株)、JXオーシャン(株)、NSユナイテッド海運(株)、日鮮海運(株)（https://www.shinkohir.co.jp/saiyou/company.html・1回目）
+- 採用ページ：
+  - 「採用サイト｜広島のポンプ、タービンの専門メーカー「世界のシンコー」」（https://www.shinkohir.co.jp/saiyou/・1回目）
+  - 「採用情報更新及び会社説明会のお知らせ | 世界のシンコー」（https://www.shinkohir.co.jp/news/2026/03/post-273/・1回目）
+  - 「2027年卒の採用情報を更新致しました」（https://www.shinkohir.co.jp/news/2026/03/post-273/・1回目）
+  - 「採用情報更新及び会社説明会のお知らせ | 世界のシンコー」（https://www.shinkohir.co.jp/news/2025/02/post-1/・1回目）
+  - 「2026年卒の採用情報を更新致しました」（https://www.shinkohir.co.jp/news/2025/02/post-1/・1回目）
+  - 「採用情報更新及び会社説明会のお知らせ | 世界のシンコー」（https://www.shinkohir.co.jp/news/2024/03/post-39/・1回目）
+  - 「2025年卒の採用情報を更新致しました」（https://www.shinkohir.co.jp/news/2024/03/post-39/・1回目）
+  - 「会社概要｜シンコーについて｜採用サイト｜世界のシンコー」（https://www.shinkohir.co.jp/saiyou/company.html・1回目）
+  - 「書類選考（履歴書、成績証明書、エントリーシート（当社指定様式））」（https://www.shinkohir.co.jp/info/recruit/・1回目）
+  - 「（履歴書、成績証明書、エントリーシート（当社指定様式））」（https://www.shinkohir.co.jp/info/recruit/・1回目）
+  - 「© SHINKOIND.LTD. Recruiting site」（https://www.shinkohir.co.jp/saiyou/assets/img/title.png・2回目）
+- 求人媒体：
+  - 「マイナビ2027からご予約をお願い致します」（https://www.shinkohir.co.jp/news/2026/03/post-273/・1回目）
+  - 「マイナビ2026からご予約をお願い致します」（https://www.shinkohir.co.jp/news/2025/02/post-1/・1回目）
+  - 「マイナビ2025からご予約をお願い致します」（https://www.shinkohir.co.jp/news/2024/03/post-39/・1回目）
+  - 「マイナビに登録していない場合は、」（https://www.shinkohir.co.jp/info/recruit/・1回目）
+- 採用の発信：
+  - 「採用情報更新及び会社説明会のお知らせ | 世界のシンコー」（https://www.shinkohir.co.jp/news/2026/03/post-273/・1回目）
+  - 「また、会社説明会を下記日程で実施致します」（https://www.shinkohir.co.jp/news/2026/03/post-273/・1回目）
+  - 「3.先輩社員との座談会」（https://www.shinkohir.co.jp/news/2026/03/post-273/・1回目）
+  - 「※会社説明会では、筆記テスト等の試験は行いません」（https://www.shinkohir.co.jp/news/2026/03/post-273/・1回目）
+  - 「採用情報更新及び会社説明会のお知らせ | 世界のシンコー」（https://www.shinkohir.co.jp/news/2025/02/post-1/・1回目）
+  - 「また、会社説明会を下記日程で実施致します」（https://www.shinkohir.co.jp/news/2025/02/post-1/・1回目）
+  - 「3.先輩社員との座談会」（https://www.shinkohir.co.jp/news/2025/02/post-1/・1回目）
+  - 「※会社説明会では、筆記テスト等の試験は行いません」（https://www.shinkohir.co.jp/news/2025/02/post-1/・1回目）
+  - 「採用情報更新及び会社説明会のお知らせ | 世界のシンコー」（https://www.shinkohir.co.jp/news/2024/03/post-39/・1回目）
+  - 「また、会社説明会を下記日程で実施致します」（https://www.shinkohir.co.jp/news/2024/03/post-39/・1回目）
+  - 「3.先輩社員との座談会」（https://www.shinkohir.co.jp/news/2024/03/post-39/・1回目）
+  - 「※会社説明会では、筆記テスト等の試験は行いません」（https://www.shinkohir.co.jp/news/2024/03/post-39/・1回目）
+- 人手不足の発言：
+  - 「若手社員たちが集結し、チームで開発に挑みました！」（https://www.shinkohir.co.jp/saiyou/・1回目）
+- 取引先・規模：
+  - 「国内外拠点、関連会社」（https://www.shinkohir.co.jp/・1回目）
+  - 「国内外拠点、関連会社」（https://www.shinkohir.co.jp/products/・1回目）
+  - 「日中戦争が開戦し、「銃後ニ在リテ奉公ノ誠ヲ尽ス、、」との思いから、筒井留三が わずか7名の従業員で合金鋳造工場を操業する」（https://www.shinkohir.co.jp/history/・1回目）
+  - 「創業当時44坪の鋳造工場」（https://www.shinkohir.co.jp/history/・1回目）
+  - 「呉海軍鎮守府管下の各作業庁の統制工業利用工場に指定され、経営も本格的に軌道に乗っていく」（https://www.shinkohir.co.jp/history/・1回目）
+  - 「原子爆弾が広島に投下され、爆風により鋳造工場は完全に倒壊、機械工場でも壁が剥がれ落ち、従業員の多くが少なからぬ被害をうけた」（https://www.shinkohir.co.jp/history/・1回目）
+  - 「戦後、生き残りをかけて、鋸屑ストーブや食品加工機械を生産し、次に訪れる造船業の生産再開に着々と備える」（https://www.shinkohir.co.jp/history/・1回目）
+  - 「鋳造工場を移設し、5台の天井走行クレーンをととのえ、溶解設備も新設する」（https://www.shinkohir.co.jp/history/・1回目）
+  - 「また、天然鋳物砂から合成砂に全面転換し、砂処理から造形までを一貫化するなど、当時としては画期的に合理化された鋳造工場となる」（https://www.shinkohir.co.jp/history/・1回目）
+  - 「残された建屋は機械工場として転用され、機械組立部門の拡充に活用される」（https://www.shinkohir.co.jp/history/・1回目）
+  - 「タービンの自社開発を決意し、重油焚きの高圧ボイラーと、タービンの工場内性能試験装置を新設する」（https://www.shinkohir.co.jp/history/・1回目）
+  - 「機械組立工場を全面的に改築し、ボール盤や中ぐり盤、旋盤など、多くの大型輸入機械の導入が積極的にすすめられる」（https://www.shinkohir.co.jp/history/・1回目）
+- 所在地：記載なし（3回確認済み：公式12頁／PDF・画像5件／外部8頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式12頁／PDF・画像5件／外部8頁・検索8回）
+- 想定年収・給与：記載なし（3回確認済み：公式12頁／PDF・画像5件／外部8頁・検索8回）
+- 採用人数：記載なし（3回確認済み：公式12頁／PDF・画像5件／外部8頁・検索8回）
+
 ## 化繊ノズル製作所
 - 公式URL：https://www.kasen.co.jp/（given）
 - 所在地：大阪府大阪市北区西天満６丁目３番１７号（https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/・3回目）
@@ -20630,6 +22272,76 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 採用の発信：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）
 - 人手不足の発言：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）
 
+## 友鉄工業
+- 公式URL：https://www.cybo.com/（given）
+- 採用ページ：
+  - 「募集要項 - 採用情報 - 友鉄工業株式会社」（https://tomotetu.co.jp/r_rec.html・3回目）
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E5%8F%8B%E9%89%84%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E5%8F%8B%E9%89%84%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E5%8F%8B%E9%89%84%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E5%8F%8B%E9%89%84%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「募集要項 - 友鉄工業株式会社 採用サイト」（https://tomotetsu-recruit.com/recruit/information/・3回目）
+  - 「エントリーシート・成績証明書・卒業（見込み）証明書」（https://tomotetsu-recruit.com/recruit/information/・3回目）
+  - 「採用フローは、エントリーシートの提出、面接、内定という流れです」（https://tomotetsu-recruit.com/recruit/information/・3回目）
+  - 「誠に恐縮ではございますが、すべてのエントリーに個別のご返信をお約束するものではございません」（https://tomotetsu-recruit.com/recruit/information/・3回目）
+  - 「友鉄工業株式会社の新卒採用情報 | ヒロジョブ2028」（https://hirojob.com/2028/company/detail.html?cmp_id=9089・3回目）
+- 想定年収・給与：
+  - 「友鉄工業株式会社で働く社員や元社員が投稿した、給与・年収、勤務時間、休日・休暇、面接などの評判・口コミを19件掲載中」（https://en-hyouban.com/company/10002570009/・3回目）
+  - 「この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？」（https://en-hyouban.com/company/10002570009/・3回目）
+  - 「給与制度:昇給、賞与、各種手当もきちん...」（https://en-hyouban.com/company/10002570009/・3回目）
+  - 「:昇給は年一回、賞与は年二回通常若手のうちは年々上がっていくが...」（https://en-hyouban.com/company/10002570009/・3回目）
+  - 「:毎年昇給月額低め年収は賞与と残業代次第残業がない部署だと給料...」（https://en-hyouban.com/company/10002570009/・3回目）
+  - 「年収251.2万円〜」（https://jp.stanby.com/search?q=%E5%8F%8B%E9%89%84%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収316万円」（https://jp.stanby.com/search?q=%E5%8F%8B%E9%89%84%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収300万円〜600万円」（https://jp.stanby.com/search?q=%E5%8F%8B%E9%89%84%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給19万円〜20.9万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E5%8F%8B%E9%89%84%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収350万円」（https://jp.stanby.com/search?q=%E5%8F%8B%E9%89%84%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収240万円〜840万円」（https://jp.stanby.com/search?q=%E5%8F%8B%E9%89%84%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給19.2万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E5%8F%8B%E9%89%84%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E5%8F%8B%E9%89%84%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用の発信：
+  - 「職場見学やインターンシップの機会はありますか？」（https://tomotetsu-recruit.com/recruit/information/・3回目）
+  - 「事前予約により、職場見学やインターンシップを受け付けています」（https://tomotetsu-recruit.com/recruit/information/・3回目）
+  - 「【DX工場見学】友鉄工業株式会社様にお越しいただきました！｜TDグループ｜TD Holdings・東洋電装・TD衛星通信システム・ZIPCARE・バロ電機工業」（https://note.com/td_group_pr/n/n7a04a8947c1c・3回目）
+  - 「【DX工場見学】友鉄工業株式会社様にお越しいただきました！」（https://note.com/td_group_pr/n/n7a04a8947c1c・3回目）
+  - 「この度のDX工場見学では、友鉄工業株式会社様にお越しいただきました」（https://note.com/td_group_pr/n/n7a04a8947c1c・3回目）
+  - 「DX工場見学では、生産現場の自動化や社内でDX化を浸透させるための意識改革などについて意見交換を行うことができました」（https://note.com/td_group_pr/n/n7a04a8947c1c・3回目）
+  - 「DX工場見学のご案内 | 35.6%の無駄を削減した東洋電装のDX工場」（https://note.com/td_group_pr/n/n7a04a8947c1c・3回目）
+- 人手不足の発言：
+  - 「:昇給は年一回、賞与は年二回通常若手のうちは年々上がっていくが...」（https://en-hyouban.com/company/10002570009/・3回目）
+- 取引先・規模：
+  - 「専務の中島は、三菱UFJ銀行で約10」（https://jp.stanby.com/search?q=%E5%8F%8B%E9%89%84%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「安心安全なものづくりを目指して、鋳造技術向上や設備改善、生産管理等を通じて、工場での製造管理を担う仕事です」（https://tomotetsu-recruit.com/recruit/information/・3回目）
+  - 「マツダ、スズキ、BMW、ホンダ、ダイハツ、リョービ、ヒロテック、キーレックスなど」（https://hirojob.com/2028/company/detail.html?cmp_id=9089・3回目）
+  - 「【DX工場見学】友鉄工業株式会社様にお越しいただきました！｜TDグループ｜TD Holdings・東洋電装・TD衛星通信システム・ZIPCARE・バロ電機工業」（https://note.com/td_group_pr/n/n7a04a8947c1c・3回目）
+  - 「【DX工場見学】友鉄工業株式会社様にお越しいただきました！」（https://note.com/td_group_pr/n/n7a04a8947c1c・3回目）
+  - 「この度のDX工場見学では、友鉄工業株式会社様にお越しいただきました」（https://note.com/td_group_pr/n/n7a04a8947c1c・3回目）
+  - 「DX工場見学では、生産現場の自動化や社内でDX化を浸透させるための意識改革などについて意見交換を行うことができました」（https://note.com/td_group_pr/n/n7a04a8947c1c・3回目）
+  - 「DX工場見学のご案内 | 35.6%の無駄を削減した東洋電装のDX工場」（https://note.com/td_group_pr/n/n7a04a8947c1c・3回目）
+  - 「東洋電装株式会社は2022年2月に可部事業所（DX工場）をオープンし、製造プロセスのDX推進を進めています」（https://note.com/td_group_pr/n/n7a04a8947c1c・3回目）
+  - 「DX工場をオープンして2年経ちましたが、現在330社を超える企業様へ」（https://note.com/td_group_pr/n/n7a04a8947c1c・3回目）
+- 検索結果の抜粋：
+  - 「友鉄工業 「給与制度やキャリア開発について」管理の社員 ... — 友鉄工業 「給与制度やキャリア開発について」管理の社員 ... OpenWork https://www.openwork.jp > 鉄鋼、非鉄金属 > 友鉄工業」（https://www.openwork.jp/user_answer.php?vid=a0ARC00000NBBir・3回目）
+  - 「友鉄工業 株式会社の評判・口コミ - エン カイシャの評判 — 友鉄工業 株式会社の評判・口コミ - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > メーカー（機械）業界」（https://en-hyouban.com/company/10002570009/・3回目）
+  - 「募集要項 - 採用情報 - 友鉄工業 株式会社 — 募集要項 - 採用情報 - 友鉄工業 株式会社 友鉄工業株式会社 https://tomotetu.co.jp > r_rec」（https://tomotetu.co.jp/r_rec.html・3回目）
+  - 「友鉄工業 株式会社の転職・企業概要 - doda — 友鉄工業 株式会社の転職・企業概要 - doda doda https://doda.jp > View > Company > j_id__10002570009」（https://doda.jp/DodaFront/View/Company/j_id__10002570009/・3回目）
+  - 「友鉄工業 の転職・採用情報｜社員口コミでわかる【転職会議】 — 友鉄工業 の転職・採用情報｜社員口コミでわかる【転職会議】 転職会議 https://jobtalk.jp > 総合電機業界ランキング」（https://jobtalk.jp/companies/11822・3回目）
+  - 「友鉄工業 新卒 高卒 の求人情報をすべて見る （136件） — 友鉄工業 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E5%8F%8B%E9%89%84%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「募集要項 - 友鉄工業 株式会社 採用 サイト — 募集要項 - 友鉄工業 株式会社 採用 サイト tomotetsu-recruit.com https://tomotetsu-recruit.com > RECRUIT」（https://tomotetsu-recruit.com/recruit/information/・3回目）
+  - 「友鉄工業 株式会社の 新卒採用 情報 | ヒロジョブ2028 — 友鉄工業 株式会社の 新卒採用 情報 | ヒロジョブ2028 ヒロジョブ https://hirojob.com > company > detail」（https://hirojob.com/2028/company/detail.html?cmp_id=9089・3回目）
+  - 「募集要項 - 採用 情報 - 友鉄工業 株式会社 — 募集要項 - 採用 情報 - 友鉄工業 株式会社 友鉄工業株式会社 https://tomotetu.co.jp > r_rec」（https://tomotetu.co.jp/r_rec.html・3回目）
+  - 「トップページ - 友鉄工業 株式会社 採用 サイト — トップページ - 友鉄工業 株式会社 採用 サイト tomotetsu-recruit.com https://tomotetsu-recruit.com」（https://tomotetsu-recruit.com/・3回目）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索8回）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索8回）
+
 ## 古川製作所
 - 公式URL：http://www.furukawa-ss.co.jp/（given）
 - 所在地：本社・東京第1工場 〒120-0006　東京都足立区谷中2-9-15 TEL 03-3605-2810 FAX 03-3628-3359（http://www.furukawa-ss.co.jp/profile/・1回目）
@@ -20755,6 +22467,34 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 主要取引先：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部3頁・検索8回）
 - 求人媒体：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部3頁・検索8回）
 - 採用の発信：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部3頁・検索8回）
+
+## 呉鉄工所
+- 公式URL：https://website.informer.com/（given）
+- 検索結果の抜粋：
+  - 「株式会社呉鉄工所｜採用情報株式会社呉鉄工所の平均年収、年間給与所得情報 − 転職ならdoda（デュ...株式会社呉鉄工所の求人 - 広島県 呉市株式会社呉鉄工所の転職・企業概要 − 転職ならdoda（デューダ）呉鉄工所の転職・採用情報｜社員口コミでわかる【転職会議】呉鉄工所 の求人 - Indeed (インディード)有限会社有田鉄工所のハローワーク求人｜広島県呉市｜金物製造等作業... — 呉鉄工所ではジョブローテーションによって色々な職種を経験できるので、常に前向きな気持ちで仕事に取り組むことが出来ます。 また、ロボットオペレーター教育や各種取得のための研修など、自己啓発の推進にも積極的に取り組んでいます。 あなたのこれまでの経験と技術力を生かし ... 株式会社呉鉄工所の平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを掲載。 dodaの企業情報ページでは上」（http://kuretetsu.co.jp/recruit/recruitment.html・3回目）
+  - 「株式会社呉鉄工所の平均年収、年間給与所得情報 − 転職ならdoda（デュ... — 株式会社呉鉄工所の平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで413,115社の企業情報が無料で検索・閲覧できます。」（https://doda.jp/DodaFront/View/CompanyIncome/j_id__10002708128/・3回目）
+  - 「株式会社呉鉄工所の求人 - 広島県 呉市 — 広島県 呉市の株式会社呉鉄工所の求人は18件あります。自動車部品製造, 製造, 法人営業などの仕事・転職・アルバイト情報 ...」（https://jp.indeed.com/q-株式会社呉鉄工所-広島県呉市-求人.html・3回目）
+  - 「株式会社呉鉄工所の転職・企業概要 − 転職ならdoda（デューダ）呉鉄工所の転職・採用情報｜社員口コミでわかる【転職会議】呉鉄工所 の求人 - Indeed (インディード)有限会社有田鉄工所のハローワーク求人｜広島県呉市｜金物製造等作業... — 株式会社呉鉄工所の求人や従業員・年収・事業内容・業績・業種・所在地の情報などを掲載。dodaの企業情報ページでは上場企業や、大手から中小企業まで473,576社の企業情報が無料で検索・閲覧できます。ぜひ志望動機や面接対策の研究にお役立てください。 呉鉄工所への転職を検討するなら【転職会議】。社員・元社員の口コミ(全1件)から、呉鉄工所の年収・給与制度や社風、面接事例などをリサーチできます。募集中の求人情報の他、業界ランキング・評点チャートも充実！ 呉鉄工所の求人は26件あります。自動車部品製造, 工作機械オペレーター, 製造などの仕事・転職・ア」（https://doda.jp/DodaFront/View/Company/j_id__10002708128/・3回目）
+  - 「呉鉄工所の転職・採用情報｜社員口コミでわかる【転職会議】呉鉄工所 の求人 - Indeed (インディード)有限会社有田鉄工所のハローワーク求人｜広島県呉市｜金物製造等作業... — 呉鉄工所への転職を検討するなら【転職会議】。社員・元社員の口コミ(全1件)から、呉鉄工所の年収・給与制度や社風、面接事例などをリサーチできます。募集中の求人情報の他、業界ランキング・評点チャートも充実！ 呉鉄工所の求人は26件あります。自動車部品製造, 工作機械オペレーター, 製造などの仕事・転職・アルバイト情報もまとめ ... May 14, 2026 · ハローワークインターネットサービスに掲載された有限会社有田鉄工所の求人情報です。雇用形態は正社員で、勤務地は広島県呉市です。この求人情報は呉公共職業安定所で受理されました。下記の情報は求人掲載時点での情報です。この求人が気になる方は、最寄りのハローワーク」（https://jobtalk.jp/companies/7106791・3回目）
+  - 「株式会社呉鉄工所｜採用情報呉の鉄工所と言えば 株式会社呉鉄工所｜TOP新卒採用募集要項 | 採用情報 | 呉工業株式会社株式会社呉鉄工所の求人 - 広島県 呉市 | Indeed (インディード)広島県 呉市の高卒 新卒採用・求人情報｜Indeed（インディード）株式会社呉鉄工所の転職・企業概要 − 転職ならdoda（デューダ）採用情報 - 呉工業株式会社 — 呉鉄工所ではジョブローテーションによって色々な職種を経験できるので、常に前向きな気持ちで仕事に取り組むことが出来ます。 また、ロボットオペレーター教育や各種取得のための研修など、自己啓発の推進にも積極的に取り組んでいます。 あなたのこれまでの経験と技術力を生かし ... 広島県呉市の呉鉄工所です。プレスや溶接の事なら、呉鉄工所にお任せください！全国対応、ご提案から開発まで行ってい ... KUREの新卒採用の募集要項をご紹介します。」（http://kuretetsu.co.jp/recruit/recruitment.html・3回目）
+  - 「呉の鉄工所と言えば 株式会社呉鉄工所｜TOP — 広島県呉市の呉鉄工所です。プレスや溶接の事なら、呉鉄工所にお任せください！全国対応、ご提案から開発まで行ってい ...」（http://kuretetsu.co.jp/・3回目）
+  - 「株式会社呉鉄工所の転職・企業概要 − 転職ならdoda（デューダ） — 株式会社呉鉄工所の求人や従業員・年収・事業内容・業績・業種・所在地の情報などを掲載。dodaの企業情報ページでは上場企業や、大手から中小企業まで473,576社の企業情報が無料で検索・閲覧できます。ぜひ志望動機や面接対策の研究にお役立てください。」（https://doda.jp/DodaFront/View/Company/j_id__10002708128/・3回目）
+  - 「株式会社呉鉄工所の求人 - 広島県 呉市 | Indeed (インディード) — 新着 中国酸素株式会社 広島県 呉市 学歴不問 残業なし 長期休暇あり 第二新卒歓迎 経験者歓迎 U・Iターン歓迎 急募 未経験者歓迎 年収 310万円 以上 正社員 この採用企業の、同種の別の求人を見る」（https://jp.indeed.com/q-株式会社呉鉄工所-広島県呉市-求人.html・3回目）
+- 所在地：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索8回）
+- 創業年度：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索8回）
+- 採用ページ：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索8回）
+- 想定年収・給与：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索8回）
+- 採用人数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索8回）
+- 採用の発信：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索8回）
+- 取引先・規模：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索8回）
 
 ## 品川リフラクトリーズ
 - 公式URL：https://www.kensetumap.com/（given）
@@ -21135,6 +22875,57 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 主要取引先：記載なし（3回確認済み：公式4頁／PDF・画像2件／外部6頁・検索8回）
 - 採用の発信：記載なし（3回確認済み：公式4頁／PDF・画像2件／外部6頁・検索8回）
 
+## 国産部品工業
+- 公式URL：https://www.teral.net/（given）
+- 所在地：広島県福山市御幸町森脇230番地 [MAP]（https://www.teral.net/corporate/outline/・1回目）
+- 創業年度：創業：大正7年8月（https://www.teral.net/corporate/outline/・1回目）
+- 創業年度：設立：昭和25年4月14日（https://www.teral.net/corporate/outline/・1回目）
+- 資本金：7,800万円（https://www.teral.net/corporate/outline/・1回目）
+- 従業員数：992名 ／ グループ全体2,100名（https://www.teral.net/corporate/outline/・1回目）
+- 売上高：422億円 (2025年度)（https://www.teral.net/corporate/outline/・1回目）
+- 売上高：595億円 (2025年度)（https://www.teral.net/corporate/outline/・1回目）
+- 事業内容：ポンプ 送風機 給水装置 ろ過装置 生ゴミ処理システム 全熱交換器 防災機器 環境関連機器 その他関連機器の製造・販売 環境関連設備工事（https://www.teral.net/corporate/outline/・1回目）
+- 代表者：代表取締役社長 菅田 博文（https://www.teral.net/corporate/outline/・1回目）
+- 採用ページ：
+  - 「採用情報 - 新着情報 - テラル株式会社」（https://www.teral.net/news_recruit/・1回目）
+- 想定年収・給与：
+  - 「7,800万円」（https://www.teral.net/corporate/outline/・1回目）
+  - 「国産部品工業の年収・給与 平均年収 - エン カイシャの評判」（https://en-hyouban.com/company/10009525349/salary/・3回目）
+  - 「国産部品工業株式会社の年収・給与の口コミページです」（https://en-hyouban.com/company/10009525349/salary/・3回目）
+  - 「国産部品工業株式会社で働く社員や元社員が投稿した、年収・給与に関する口コミを2件掲載中」（https://en-hyouban.com/company/10009525349/salary/・3回目）
+  - 「国産部品工業株式会社の年収・給与についての口コミ」（https://en-hyouban.com/company/10009525349/salary/・3回目）
+  - 「この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？」（https://en-hyouban.com/company/10009525349/salary/・3回目）
+  - 「給与水準：若いうちは給与水準が低く、あ...」（https://en-hyouban.com/company/10009525349/salary/・3回目）
+  - 「給与水準：若いうちは給与水準が低く、あまり貰えないが、出世すれば会社規模にしてはそこそこ貰えると思う」（https://en-hyouban.com/company/10009525349/salary/・3回目）
+  - 「在席時は業績が悪かったため賞与は少なかった」（https://en-hyouban.com/company/10009525349/salary/・3回目）
+  - 「管理職になれなければ給料はあまり上がらないので、ほとんどの社員は給与水準は低いと思う」（https://en-hyouban.com/company/10009525349/salary/・3回目）
+  - 「:給与変動の基準は、学歴でも、能力でも、実績でもない」（https://en-hyouban.com/company/10009525349/salary/・3回目）
+  - 「:毎年４月には必ず昇給している」（https://en-hyouban.com/company/10009525349/salary/・3回目）
+- 取引先・規模：
+  - 「国内拠点・国内グループ会社・海外グループ会社」（https://www.teral.net/・1回目）
+  - 「大規模商業施設、地下駐車場、地下鉄駅構内や工場の換気用の大型ファンから厨房用の小型ファン、また産業機器に組込むセットファンまで、さまざまなタイプを用意しています」（https://www.teral.net/・1回目）
+  - 「国内拠点・国内グループ会社・海外グループ会社」（https://www.teral.net/product/・1回目）
+  - 「大規模商業施設、地下駐車場、地下鉄駅構内や工場の換気用の大型ファンから厨房用の小型ファン、また産業機器に組込むセットファンまで、さまざまなタイプを用意しています」（https://www.teral.net/product/・1回目）
+  - 「国内拠点・国内グループ会社・海外グループ会社」（https://www.teral.net/corporate/・1回目）
+  - 「国内拠点 ＆ 国内グループ会社・海外グループ会社」（https://www.teral.net/corporate/・1回目）
+  - 「国内拠点・国内グループ会社・海外グループ会社」（https://www.teral.net/products/search/・1回目）
+  - 「国内拠点・国内グループ会社・海外グループ会社」（https://www.teral.net/product/maintenance_p1/・1回目）
+  - 「国内拠点・国内グループ会社・海外グループ会社」（https://www.teral.net/solution/exhaust/case/case-system-ventilation/・1回目）
+  - 「化粧品原料製造工場の排水処理施設棟内の排ガス処理装置による臭気対策」（https://www.teral.net/solution/exhaust/case/case-system-ventilation/・1回目）
+  - 「機械加工工場の全体換気による溶接ヒューム対策」（https://www.teral.net/solution/exhaust/case/case-system-ventilation/・1回目）
+  - 「40℃以上の作業場の熱気を排出させながら、工場内に風の流れをつくり、体感温度を下げ涼感を得られた」（https://www.teral.net/solution/exhaust/case/case-system-ventilation/・1回目）
+- 検索結果の抜粋：
+  - 「国産部品工業株式会社 の給与 | Indeed (インディード) — 国産部品工業株式会社の平均月給の範囲は約 20.2万円／月（金属加工）から約 29.5万円／月（機械オペレーター）です。 国産部品工業株式会社の平均年収は、約317万円 (広報) 〜454万円 (メーカー 営業) です。」（https://jp.indeed.com/cmp/国産部品工業株式会社/salaries・3回目）
+  - 「国産部品工業株式会社 の給与 | Indeed (インディード) — 日本での国産部品工業株式会社の平均給与 Indeed に掲載された求人と、この企業の従業員から寄せられた国産部品工業株式会社の給与情報を参照する。 給与情報は、Indeed にこれまでに掲載された4件の求人に基いた推定値です。」（https://jp.indeed.com/cmp/国産部品工業株式会社-5/salaries・3回目）
+  - 「国産部品工業の年収・給与 平均年収 - エン カイシャの評判国産部品工業株式会社の平均年収、年間給与所得情報 − 転職ならdoda（...採用情報｜国産部品工業｜シリンダーヘッドガスケット・ヒートインシ...国産部品工業株式会社の年収・給与・職種別平均年収 - KNOOCK キャリ...国産部品工業株式会社 製造｜製造（未経験可）【京都府綾部市】 中途... — 国産部品工業株式会社の年収・給与の口コミページです。 国産部品工業株式会社で働く社員や元社員が投稿した、年収・給与に関する口コミを2件掲載中。 国産部品工業株式会社の平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで472,153社の企業情報が無料で検索・閲覧できます。 国産部品工業の採用情報ページです。募集要項など掲載しています。CA」（https://en-hyouban.com/company/10009525349/salary/・3回目）
+  - 「国産部品工業株式会社の平均年収、年間給与所得情報 − 転職ならdoda（... — 国産部品工業株式会社の平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで472,153社の企業情報が無料で検索・閲覧できます。」（https://doda.jp/DodaFront/View/CompanyIncome/j_id__10009525349/・3回目）
+  - 「採用情報｜国産部品工業｜シリンダーヘッドガスケット・ヒートインシ... — 国産部品工業の採用情報ページです。募集要項など掲載しています。CADによる自動車部品の設計や金型のメンテナンスなどの職種に興味のある方はぜひご応募ください。」（https://www.kbk-k.co.jp/recruit/・3回目）
+- 主要取引先：記載なし（3回確認済み：公式11頁／PDF・画像2件／外部9頁・検索8回）
+- 採用人数：記載なし（3回確認済み：公式11頁／PDF・画像2件／外部9頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式11頁／PDF・画像2件／外部9頁・検索8回）
+- 採用の発信：記載なし（3回確認済み：公式11頁／PDF・画像2件／外部9頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式11頁／PDF・画像2件／外部9頁・検索8回）
+
 ## 坂出無線
 - 公式URL：http://sakaidemusen.jp/（given）
 - 所在地：〒762-0043　香川県坂出市寿町2丁目5番16号（http://sakaidemusen.jp/publics/index/5/・1回目）
@@ -21266,6 +23057,176 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 人手不足の発言：記載なし（3回確認済み：公式12頁／PDF・画像5件／外部14頁・検索8回）
 - 取引先・規模：記載なし（3回確認済み：公式12頁／PDF・画像5件／外部14頁・検索8回）
 
+## 大和重工
+- 公式URL：https://www.daiwajuko.co.jp/（given）
+- 所在地：〒731-0221　広島市安佐北区可部一丁目21番23号（https://www.daiwajuko.co.jp/company/info/・1回目）
+- 所在地：広島県（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=53593&recruitingCourseId=27054657・3回目）
+- 所在地：新潟県（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=53593&recruitingCourseId=27054657・3回目）
+- 創業年度：創業：1831（天保2）年（https://www.daiwajuko.co.jp/company/info/・1回目）
+- 創業年度：会社創立：1920（大正9）年3月7日（https://www.daiwajuko.co.jp/company/info/・1回目）
+- 創業年度：設立年月日：1920年（https://www.careermine.jp/companies/daiwa-heavy-industry/new-graduates-556・3回目）
+- 資本金：5,000万円（https://www.daiwajuko.co.jp/company/info/・1回目）
+- 資本金：6.5億円（https://www.careermine.jp/companies/daiwa-heavy-industry/new-graduates-556・3回目）
+- 従業員数：189名（2026年6月時点）（https://www.daiwajuko.co.jp/company/info/・1回目）
+- 事業内容：産業機械関連 工作機械周辺機器および機械鋳物部品、ディーゼルエンジン鋳物部品、機械加工、定盤、その他、産業機械関連機器の製造・販売（https://www.daiwajuko.co.jp/company/info/・1回目）
+- 事業内容：舶用エンジン、工作機械用の銑鉄鋳物製造 鋳物ホーロー浴槽製造（https://www.careermine.jp/companies/daiwa-heavy-industry/new-graduates-556・3回目）
+- 代表者：代表取締役社長　　田中　宏典（https://www.careermine.jp/companies/daiwa-heavy-industry/new-graduates-556・3回目）
+- 採用ページ：
+  - 「内資系の高額案件はもちろん、JACリクルートメントはイギリスやシンガポールでも展開しており、そのつながりを活かした外資系案件も多数あります」（https://nenshu-master.com/companies/daiwa-heavy-industry/・3回目）
+  - 「他の転職サイトでは一気に大量の案件を提示されることがありどれを選べばわからないということが起こりますが、JACリクルートメントではそのようなことはありません」（https://nenshu-master.com/companies/daiwa-heavy-industry/・3回目）
+  - 「ハイクラス案件をメインで扱うJACリクルートメントのみでしか得られない案件情報も多数あります」（https://nenshu-master.com/companies/daiwa-heavy-industry/・3回目）
+  - 「そのため案件の質も高く、JACリクルートメントと同様に高年収案件に強い印象です」（https://nenshu-master.com/companies/daiwa-heavy-industry/・3回目）
+  - 「大和重工(株)の新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp53593/outline.html・3回目）
+  - 「会社説明会等のご案内は、エントリーしていただいた方のマイページ「お返事箱」へ」（https://job.mynavi.jp/27/pc/search/corp53593/outline.html・3回目）
+  - 「興味のある方はまずはエントリーをお願いします！」（https://job.mynavi.jp/27/pc/search/corp53593/outline.html・3回目）
+  - 「過去3年間の新卒採用者数（男女別）」（https://job.mynavi.jp/27/pc/search/corp53593/outline.html・3回目）
+  - 「過去3年間の新卒採用者数・」（https://job.mynavi.jp/27/pc/search/corp53593/outline.html・3回目）
+  - 「エントリーまたは説明会予約をすると詳細を確認できます」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=53593&recruitingCourseId=27054657・3回目）
+  - 「この記事では新卒採用を目指している就活生に向けて、大和重工の選考を進める際に参考となる」（https://www.careermine.jp/companies/daiwa-heavy-industry/new-graduates-556・3回目）
+  - 「大和重工はどのような新卒採用選考を行っているのでしょうか」（https://www.careermine.jp/companies/daiwa-heavy-industry/new-graduates-556・3回目）
+- 想定年収・給与：
+  - 「5,000万円」（https://www.daiwajuko.co.jp/company/info/・1回目）
+  - 「嘉一はさらに事業拡大を図るため、これまでの瀬良商店を株式組織に改め、資本金50万円で瀬良商工株式会社を設立、本社は広島市広瀬町においた」（https://www.daiwajuko.co.jp/company/history/・1回目）
+  - 「瀬良商工も経営困難に陥り、資本金を25万円に減資」（https://www.daiwajuko.co.jp/company/history/・1回目）
+  - 「資本金6万円に減資し、嘉一退任、田中保社長就任」（https://www.daiwajuko.co.jp/company/history/・1回目）
+  - 「資本金51万円に増資、機械工場を増設」（https://www.daiwajuko.co.jp/company/history/・1回目）
+  - 「資本金150万円に増資、工作機械の設備拡充」（https://www.daiwajuko.co.jp/company/history/・1回目）
+  - 「資本金165万円に増資し、大和（ヤマト）重工業株式会社に改称」（https://www.daiwajuko.co.jp/company/history/・1回目）
+  - 「大和（ダイワ）商事株式会社を吸収、資本金550万円に増資」（https://www.daiwajuko.co.jp/company/history/・1回目）
+  - 「資本金6億5100万円に増資」（https://www.daiwajuko.co.jp/company/history/・1回目）
+  - 「【2024最新版】大和重工の平均年収は464万円! | 年収マスター - 転職に役立つ年収データの分析サイト」（https://nenshu-master.com/companies/daiwa-heavy-industry/・3回目）
+  - 「大和重工の平均年収は464万円」（https://nenshu-master.com/companies/daiwa-heavy-industry/・3回目）
+  - 「平均年収は464万円」（https://nenshu-master.com/companies/daiwa-heavy-industry/・3回目）
+- 求人媒体：
+  - 「大和重工(株)の新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp53593/outline.html・3回目）
+  - 「外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！」（https://job.mynavi.jp/27/pc/search/corp53593/outline.html・3回目）
+  - 「大和重工(株)の採用データ | マイナビ2027」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=53593&recruitingCourseId=27054657・3回目）
+  - 「マイナビ2024」（https://www.careermine.jp/companies/daiwa-heavy-industry/new-graduates-556・3回目）
+- 採用の発信：
+  - 「DaiwaPaper（広報紙）／CraftsmanShow（YouTube）｜大和重工株式会社」（https://www.daiwajuko.co.jp/company/dp-cs/・1回目）
+  - 「DaiwaPaper（広報紙）／CraftsmanShow（YouTube）」（https://www.daiwajuko.co.jp/company/dp-cs/・1回目）
+  - 「普段はなかなか見ることのできない製造過程のワンシーンをYouTubeで随時公開」（https://www.daiwajuko.co.jp/company/dp-cs/・1回目）
+  - 「【10月】もWEB会社説明会 開催中です！」（https://job.mynavi.jp/27/pc/search/corp53593/outline.html・3回目）
+  - 「会社説明会等のご案内は、エントリーしていただいた方のマイページ「お返事箱」へ」（https://job.mynavi.jp/27/pc/search/corp53593/outline.html・3回目）
+  - 「入社後は先輩社員と一緒にお客様と対話をしながら、既存商品のマーケットや消費者ニーズを調査し、改良案を立案していただきます」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=53593&recruitingCourseId=27054657・3回目）
+  - 「会社説明会対面／WEBにて実施 → エントリーシート提出※随時 → 適性検査 → 面接（個別）※2回実施予定」（https://www.careermine.jp/companies/daiwa-heavy-industry/new-graduates-556・3回目）
+- 取引先・規模：
+  - 「㈱ジャパンエンジンコーポレーション様より表彰を拝受しました このたび、弊社の製品供給ならびに品質管理への取り組みに対し、 取引先企業である 株式会社ジャパンエンジンコーポ...」（https://www.daiwajuko.co.jp/・1回目）
+  - 「2026年10月23日（金）・24日（土）の2日間、株式会社山西様主催の住宅総合展「プロウッドスタイルフェアー2026秋」（会場：山西プレカット工場／愛...」（https://www.daiwajuko.co.jp/housing/・1回目）
+  - 「お取引先様より表彰いただきました｜大和重工株式会社」（https://www.daiwajuko.co.jp/news-1163/・1回目）
+  - 「このたび、弊社の製品供給ならびに品質管理への取り組みに対し、 取引先企業である」（https://www.daiwajuko.co.jp/news-1163/・1回目）
+  - 「今回の受賞を機に、より一層の品質向上とサービスの充実を図り、お取引先様のご期待にお応えできるよう努めてまいります」（https://www.daiwajuko.co.jp/news-1163/・1回目）
+  - 「資本金51万円に増資、機械工場を増設」（https://www.daiwajuko.co.jp/company/history/・1回目）
+  - 「株式会社観音鋳造所を吸収合併し、観音工場と呼称」（https://www.daiwajuko.co.jp/company/history/・1回目）
+  - 「このころから船舶用の舷窓及びスチームラジエーターなど生産、各造船所に納入した」（https://www.daiwajuko.co.jp/company/history/・1回目）
+  - 「観音工場を閉鎖し、本社工場に吸収」（https://www.daiwajuko.co.jp/company/history/・1回目）
+  - 「鍋・釜・風呂釜など伝統的な製品の生産拠点となる」（https://www.daiwajuko.co.jp/company/history/・1回目）
+  - 「熊本工場を閉鎖し、本社工場に吸収」（https://www.daiwajuko.co.jp/company/history/・1回目）
+  - 「本社ホーロー加工設備を吉田工場に移設し、」（https://www.daiwajuko.co.jp/company/history/・1回目）
+- 検索結果の抜粋：
+  - 「大和重工株式会社 の給与 - Indeed (インディード) — 日本での大和重工株式会社の平均給与 大和重工株式会社の平均月給の範囲は約 27.4万円／月（装置営業）から約 29.7万円／月（その他消費財営業（国内））です。 大和重工株式会社の平均年収は、約421万円 (鋳造) 〜439万円 (住宅アドバイザー (住宅営業)) です。」（https://jp.indeed.com/cmp/大和重工株式会社/salaries・3回目）
+  - 「大和重工株式会社の年収・給与 | らくらく求人検索【2024最新版】大和重工の平均年収は464万円! | 年収マスター - 転職...大和重工の年収・給与・働き方｜平均年収493万円・勤続21.1年 | 企業...大和重工株式会社の平均年収は493万円！｜求人ボックス 給料ナビ大和重工の採用情報・求人・初任給 | 企業分析.jp大和重工の年収・給与・昇給・ボーナス（2件）｜Yahoo!しごとカタログ — 大和重工株式会社の平均年収は493万円です。年代別・役職別の詳細な年収情報と業界比較を掲載。転職・就職活動の企業 ... Feb 22, 2024 · 大和重工の平均年収を年収マスターでチェック！平均年収や給与、初任給・ボーナスに関する全データに加え、年齢別給与も完全公開！さらに従業員数(162人)、売上高(38.7億円)、利益額、関連企業など多数のデータを徹底比較！ 大和重工（5610）」（https://hw-jobs.careermine.jp/salary/daiwa-heavy-industry・3回目）
+  - 「【2024最新版】大和重工の平均年収は464万円! | 年収マスター - 転職...大和重工の年収・給与・働き方｜平均年収493万円・勤続21.1年 | 企業...大和重工株式会社の平均年収は493万円！｜求人ボックス 給料ナビ大和重工の採用情報・求人・初任給 | 企業分析.jp大和重工の年収・給与・昇給・ボーナス（2件）｜Yahoo!しごとカタログ — Feb 22, 2024 · 大和重工の平均年収を年収マスターでチェック！平均年収や給与、初任給・ボーナスに関する全データに加え、年齢別給与も完全公開！さらに従業員数(162人)、売上高(38.7億円)、利益額、関連企業など多数のデータを徹底比較！ 大和重工（5610）の平均年収493万円、平均勤続21.1年。年代別年収・残業・有休・業界平均との比較を有価証券報告書データで確認できます。 Dec 24, 2024 · 掲載求人の平均年収お」（https://nenshu-master.com/companies/daiwa-heavy-industry/・3回目）
+  - 「大和重工の年収・給与・働き方｜平均年収493万円・勤続21.1年 | 企業... — 大和重工（5610）の平均年収493万円、平均勤続21.1年。年代別年収・残業・有休・業界平均との比較を有価証券報告書データで確認できます。」（https://kigyobunseki.jp/companies/j1qc1m/salary/・3回目）
+  - 「大和重工株式会社の平均年収は493万円！｜求人ボックス 給料ナビ大和重工の採用情報・求人・初任給 | 企業分析.jp大和重工の年収・給与・昇給・ボーナス（2件）｜Yahoo!しごとカタログ — Dec 24, 2024 · 掲載求人の平均年収および付随する給料情報は2024年12月に求人ボックス上で掲載されていた求人情報から算出した給料情報です。 ※掲載求人の平均年収：集計対象求人における給与水準の中央値を示しています。 大和重工の採用情報。中途求人11件・新卒6名、年収レンジ・初任給・福利厚生・採用実績校まで網羅。 大和重工株式会社の社員・元従業員による平均年収は、回答者は481万円、公式情報は493万円。年収・給与・ボーナスなどの待遇に関する評判・クチコミを掲載（2件）。職種、雇用形態別、年代別などの平均年収も掲載。」（https://xn--pckua2a7gp15o89zb.com/大和重工株式会社の年収・3回目）
+  - 「大和重工 (株)の新卒採用・会社概要 | マイナビ2027大和重工(株)の採用データ - マイナビ2027【大和重工】新卒で就職するためには？採用フローや選考対策を徹底解...大和重工の採用情報・求人・初任給 | 企業分析.jp募集要項 | 採用情報 | 新卒採用 | 大和工業グループ 採用サイト — Oct 16, 2026 · 大和重工 (株)の会社概要ページです。マイナビ2027は、採用情報や企業情報で、就職活動をサポートします。 Oct 16, 2026 · 大和重工 (株)の採用データページです。マイナビ2027は、大和重工 (株)の採用情報や企業情報で、就職活動をサポートします。 Sep 3, 2022 · ※ 参考：マイナビ2024 大和重工の初任給を見ていきます。 大和重工の初任給は、生産技師、営業・企画、技術開発、システム（大卒）で14.8万円です。 厚生労働省によると、」（https://job.mynavi.jp/27/pc/search/corp53593/outline.html・3回目）
+  - 「大和重工(株)の採用データ - マイナビ2027【大和重工】新卒で就職するためには？採用フローや選考対策を徹底解...大和重工の採用情報・求人・初任給 | 企業分析.jp募集要項 | 採用情報 | 新卒採用 | 大和工業グループ 採用サイト — Oct 16, 2026 · 大和重工 (株)の採用データページです。マイナビ2027は、大和重工 (株)の採用情報や企業情報で、就職活動をサポートします。 Sep 3, 2022 · ※ 参考：マイナビ2024 大和重工の初任給を見ていきます。 大和重工の初任給は、生産技師、営業・企画、技術開発、システム（大卒）で14.8万円です。 厚生労働省によると、大卒初任給の平均は20.1万円のため、大和重工の初任給は比較的低いといえる ... 大和重工の採用情報。中途求人11件・新卒6名、年収レンジ・初任給・福利厚生・採用実績校まで網羅。 採用活動方針 」（https://job.mynavi.jp/27/pc/search/corp53593/employment.html・3回目）
+  - 「【大和重工】新卒で就職するためには？採用フローや選考対策を徹底解...大和重工の採用情報・求人・初任給 | 企業分析.jp募集要項 | 採用情報 | 新卒採用 | 大和工業グループ 採用サイト — Sep 3, 2022 · ※ 参考：マイナビ2024 大和重工の初任給を見ていきます。 大和重工の初任給は、生産技師、営業・企画、技術開発、システム（大卒）で14.8万円です。 厚生労働省によると、大卒初任給の平均は20.1万円のため、大和重工の初任給は比較的低いといえる ... 大和重工の採用情報。中途求人11件・新卒6名、年収レンジ・初任給・福利厚生・採用実績校まで網羅。 採用活動方針 大和工業グループでは、「フェア」の精神を価値観・行動指針である「Yamato SPIRIT」の1つに位置づけるとともに、人権の尊重を「大和工業グループ社員行動基準」にも掲げ、すべての役員、従業員が守るべき規」（https://www.careermine.jp/companies/daiwa-heavy-industry/new-graduates-556・3回目）
+  - 「大和重工の採用情報・求人・初任給 | 企業分析.jp — 大和重工の採用情報。中途求人11件・新卒6名、年収レンジ・初任給・福利厚生・採用実績校まで網羅。」（https://kigyobunseki.jp/companies/j1qc1m/recruit/・3回目）
+  - 「募集要項｜大和重工株式会社 — 募集要項 皆さまにお会いできること、 共に働ける日を楽しみにしています。 ご応募お待ちしています。 PDF 新 卒 採 用 [高卒] PDF 新 卒 採 用 [大卒/院卒] PDF キャリア 採 用 採用に関する お問い合わせはこちら 本社・工場 〒731-0221 広島県広島市安佐北区可部1丁目21-23 TEL082-814-2101 FAX082-814-2109」（https://www.daiwajuko.co.jp/recruit/job-description/・3回目）
+- 売上高：記載なし（3回確認済み：公式12頁／PDF・画像4件／外部24頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像4件／外部24頁・検索8回）
+- 採用人数：記載なし（3回確認済み：公式12頁／PDF・画像4件／外部24頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式12頁／PDF・画像4件／外部24頁・検索8回）
+
+## 大島造船所
+- 公式URL：https://jp.osy.co.jp/（given）
+- 所在地：長崎県西海市大島町1605-1)（https://jp.osy.co.jp/recruiting/opportunities-for-new-graduates/・1回目）
+- 所在地：長崎県西海市大島町1605-1)、東京または大阪への転勤の可能性あり（https://jp.osy.co.jp/recruiting/opportunities-for-new-graduates/・1回目）
+- 所在地：長崎県西海市大島町１６０５番地の１（https://jobcatalog.yahoo.co.jp/company/1110002566/salaries/・3回目）
+- 創業年度：設立：1973年2月（https://jobcatalog.yahoo.co.jp/company/1110002566/salaries/・3回目）
+- 創業年度：設立年：1973年（https://en-hyouban.com/company/10002496006/salary/・3回目）
+- 創業年度：設立：1973年2月7日（https://job.mynavi.jp/27/pc/search/corp80996/outline.html・3回目）
+- 資本金：56億円（https://jobcatalog.yahoo.co.jp/company/1110002566/salaries/・3回目）
+- 資本金：5600百万円（https://en-hyouban.com/company/10002496006/salary/・3回目）
+- 資本金：56億円（https://job.mynavi.jp/27/pc/search/corp80996/outline.html・3回目）
+- 従業員数：1,680人（https://jobcatalog.yahoo.co.jp/company/1110002566/salaries/・3回目）
+- 従業員数：1443名（https://en-hyouban.com/company/10002496006/salary/・3回目）
+- 従業員数：1,773名（2026年4月1日現在）（https://job.mynavi.jp/27/pc/search/corp80996/outline.html・3回目）
+- 売上高：2037.33億円（https://jobcatalog.yahoo.co.jp/company/1110002566/salaries/・3回目）
+- 売上高：2,037億円（2025年3月期実績）（https://job.mynavi.jp/27/pc/search/corp80996/outline.html・3回目）
+- 事業内容：大島造船所は、 造船事業、鉄構事業、農産事業 の3事業が経営の柱となっています。 ■船舶の建造（ばら積み貨物船の建造） 小型～中型のバルクキャリア建造に 特化した造船を行っている当社ですが、 発注のほとんどがセミオーダーの船。 同じ船を建造することはほとんどなく、 お客様のご要望に応じて都度最適な 船の設計を1からご提案し、建造から お渡しまでの全てを手掛けています。 ■橋梁、鋼構造物の製造・据付 大島大橋、女神大橋などの橋梁の 新設工事はもちろん、既存の橋の 補修・補強工事などの需要にも応えています。 橋梁の他にも、水門や防波堤など、 大きな鋼構造物も多数手がけています。 ■農産事業（主に大島トマト等の栽培と販売） 大島内の雇用創出の一環として開始した農産事業。 大島トマトの栽培開始から30年の現在は、 長崎県を代表する特産品となり、 栽培期間中には県内外から沢山のお客様が農園を訪れます。 ▲建造ドック内1つのドックで4隻の貨物船を建造。写真では分かりにくいですが、実物を見たら言葉が出ないほどの大きさです。（https://job.mynavi.jp/27/pc/search/corp80996/outline.html・3回目）
+- 代表者：山口 眞（https://jobcatalog.yahoo.co.jp/company/1110002566/salaries/・3回目）
+- 代表者：平賀英一（https://en-hyouban.com/company/10002496006/salary/・3回目）
+- 主要取引先：海外の船会社（全体の7～8割）および国内の船会社 （日本郵船(株)、(株)商船三井、川崎汽船(株)等）、住友商事(株)（https://job.mynavi.jp/27/pc/search/corp80996/outline.html・3回目）
+- 採用ページ：
+  - 「2027年卒 新卒採用受付中！」（https://jp.osy.co.jp/recruiting/・1回目）
+  - 「新卒採用に関する募集要項およびエントリー方法のご案内」（https://jp.osy.co.jp/recruiting/・1回目）
+  - 「キャリア・カムバック採用に関する募集要項およびエントリー方法のご案内」（https://jp.osy.co.jp/recruiting/・1回目）
+  - 「新卒採用およびキャリア採用求人へのエントリーは、エントリーフォームより承っております」（https://jp.osy.co.jp/recruiting/・1回目）
+  - 「エントリーシート、または履歴書」（https://jp.osy.co.jp/recruiting/opportunities-for-new-graduates/・1回目）
+  - 「本HPのエントリーフォーム、マイナビサイトからエントリーください」（https://jp.osy.co.jp/recruiting/opportunities-for-new-graduates/・1回目）
+  - 「1. エントリー」（https://jp.osy.co.jp/recruiting/opportunities-for-new-graduates/・1回目）
+  - 「公式HPのエントリーフォームほか、マイナビより随時受け付けています」（https://jp.osy.co.jp/recruiting/opportunities-for-new-graduates/・1回目）
+  - 「新卒採用のエントリーは、当社ホームページにあるエントリーフォーム他、マイナビより随時受け付けております」（https://jp.osy.co.jp/recruiting/opportunities-for-new-graduates/・1回目）
+  - 「必要事項をご記入の上、エントリーください」（https://jp.osy.co.jp/recruiting/opportunities-for-new-graduates/・1回目）
+  - 「エントリー内容をご確認後、採用担当者から折り返しご連絡差し上げます」（https://jp.osy.co.jp/recruiting/opportunities-for-new-graduates/・1回目）
+  - 「:新卒採用時点では同業他社とほぼ同じ水準ですが、20年ほど経つ...」（https://en-hyouban.com/company/10002496006/salary/・3回目）
+- 想定年収・給与：
+  - 「大島造船所の年収・給与・昇給・ボーナス（18件）｜Yahoo!しごとカタログ」（https://jobcatalog.yahoo.co.jp/company/1110002566/salaries/・3回目）
+  - 「全156件の年収・給与情報を集計した結果、」（https://jobcatalog.yahoo.co.jp/company/1110002566/salaries/・3回目）
+  - 「大島造船所の平均年収は466万円でした」（https://jobcatalog.yahoo.co.jp/company/1110002566/salaries/・3回目）
+  - 「これはメーカー「自動車・輸送機器関連」業界の平均（496万円）より30万円下回っています」（https://jobcatalog.yahoo.co.jp/company/1110002566/salaries/・3回目）
+  - 「30代で400万円を超え、40代で500万円、50代で600万円を超えている」（https://jobcatalog.yahoo.co.jp/company/1110002566/salaries/・3回目）
+  - 「40代から50代にかけての伸びが最も大きく、131万円増加しています」（https://jobcatalog.yahoo.co.jp/company/1110002566/salaries/・3回目）
+  - 「310〜460万円」（https://jobcatalog.yahoo.co.jp/company/1110002566/salaries/・3回目）
+  - 「410〜590万円」（https://jobcatalog.yahoo.co.jp/company/1110002566/salaries/・3回目）
+  - 「500〜720万円」（https://jobcatalog.yahoo.co.jp/company/1110002566/salaries/・3回目）
+  - 「620〜890万円」（https://jobcatalog.yahoo.co.jp/company/1110002566/salaries/・3回目）
+  - 「※平均年収を基に、一般的な振れ幅（業界別係数）を考慮して算出した理論値です」（https://jobcatalog.yahoo.co.jp/company/1110002566/salaries/・3回目）
+  - 「400万円以上」（https://jobcatalog.yahoo.co.jp/company/1110002566/salaries/・3回目）
+- 求人媒体：
+  - 「本HPのエントリーフォーム、マイナビサイトからエントリーください」（https://jp.osy.co.jp/recruiting/opportunities-for-new-graduates/・1回目）
+  - 「公式HPのエントリーフォームほか、マイナビより随時受け付けています」（https://jp.osy.co.jp/recruiting/opportunities-for-new-graduates/・1回目）
+  - 「新卒採用のエントリーは、当社ホームページにあるエントリーフォーム他、マイナビより随時受け付けております」（https://jp.osy.co.jp/recruiting/opportunities-for-new-graduates/・1回目）
+  - 「(株)大島造船所の新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp80996/outline.html・3回目）
+  - 「外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！」（https://job.mynavi.jp/27/pc/search/corp80996/outline.html・3回目）
+  - 「(株)大島造船所の採用データ | マイナビ2027」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=80996&recruitingCourseId=27053451・3回目）
+- 採用の発信：
+  - 「寄附講座の開設や共同研究の実施、インターンシップや工場見学を受け入れることにより学生の皆さんの造船への興味と理解を深めています」（https://jp.osy.co.jp/recruiting/strength/・1回目）
+  - 「また、大学/高専だけにとどまらず、長崎県下の工業高校(長崎工業・佐世保工業・大村工業・島原工業・鹿町工業)との関わりも深く、出前授業、インターンシップ、工場見学を実施することにより、地域産業・社会の発展に寄与しています」（https://jp.osy.co.jp/recruiting/strength/・1回目）
+  - 「工場見学がまだの方には工場見学も実施します」（https://jp.osy.co.jp/recruiting/opportunities-for-new-graduates/・1回目）
+  - 「造船業界のダイナミックなものづくりを知る会社説明会（WEB開催）」（https://job.mynavi.jp/27/pc/search/corp80996/outline.html・3回目）
+  - 「造船業界のダイナミックなものづくりを知る会社説明会（WEB開催）」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=80996&recruitingCourseId=27053451・3回目）
+- 人手不足の発言：
+  - 「でも年功序列がベースなので、若手でどれだけ良い成果を出しても頭打ちになります」（https://en-hyouban.com/company/10002496006/salary/・3回目）
+  - 「特に優秀でやる気のある若手はある程度のスキルとキャリアを身に付けた後は自身の長期的なキャリアパスを見据えて辞めていくイメージ」（https://en-hyouban.com/company/10002496006/salary/・3回目）
+- 取引先・規模：
+  - 「株式会社 大島造船所 - 長崎県西海市大島町」（https://jp.osy.co.jp/・1回目）
+  - 「規模は小さくても、高い技術水準を持ち、中小型ばら積み貨物船に関して抜群の建造能力を誇る造船所、全ての事に果敢に挑戦し、過去に例のない新しい観点を見つけ出し、実践する造船所、そして明るく、強く、面白い造船所を目指しています」（https://jp.osy.co.jp/・1回目）
+  - 「大島造船所の3つの数字」（https://jp.osy.co.jp/・1回目）
+  - 「日本のばら積み貨物船（バルクキャリア）市場における当社建造船のマーケットシェアは約24%です」（https://jp.osy.co.jp/・1回目）
+  - 「長崎県出身者を中心に、多くの方が大島造船所を支えてくれています」（https://jp.osy.co.jp/・1回目）
+  - 「大島造船所は健全な事業活動を通じて、」（https://jp.osy.co.jp/・1回目）
+  - 「大島造船所は、自由な雰囲気の中で面白い発想に」（https://jp.osy.co.jp/・1回目）
+  - 「株式会社 大島造船所 - 長崎県西海市大島町」（https://jp.osy.co.jp/company-information/business-location/・1回目）
+  - 「株式会社 大島造船所 - 長崎県西海市大島町」（https://jp.osy.co.jp/company-information/・1回目）
+  - 「大島造船所に関する会社情報および役員一覧のご案内」（https://jp.osy.co.jp/company-information/・1回目）
+  - 「株式会社 大島造船所 - 長崎県西海市大島町」（https://jp.osy.co.jp/company-information/our-philosophy/・1回目）
+  - 「2. 特色ある世界一造船所」（https://jp.osy.co.jp/company-information/our-philosophy/・1回目）
+- 検索結果の抜粋：
+  - 「大島造船所の年収・給与・昇給・ボーナス（18件）｜Yahoo!しごとカタ...大島造船所の年収・給与 平均年収も - エン カイシャの評判株式会社大島造船所 の給与 | Indeed (インディード)大島造船所の年収・給与10件｜平均・中央値・ボーナス・職種・役職・...株式会社大島造船所の求人・採用情報｜求人ボックス採用情報 - 大島造船所「年収：550万円 年収内訳（基本給：288万円、残業代：84万円、賞与：... — 株式会社大島造船所の社員・元従業員による平均年収は、回答者は466万円。 年収・給与・ボーナスなどの待遇に関する評判・クチコミを掲載（18件）。 職種、雇用形態別、年代別などの平均年収も掲載。 株式会社大島造船所の正社員46人の回答によると平均年収は440万円、年収範囲は240～550万円です。 また、集計期間は2015年～2026年で回答者の平均年齢は32.0歳です」（https://jobcatalog.yahoo.co.jp/company/1110002566/salaries/・3回目）
+  - 「大島造船所の年収・給与 平均年収も - エン カイシャの評判株式会社大島造船所 の給与 | Indeed (インディード)大島造船所の年収・給与10件｜平均・中央値・ボーナス・職種・役職・...株式会社大島造船所の求人・採用情報｜求人ボックス採用情報 - 大島造船所「年収：550万円 年収内訳（基本給：288万円、残業代：84万円、賞与：... — 株式会社大島造船所の正社員46人の回答によると平均年収は440万円、年収範囲は240～550万円です。 また、集計期間は2015年～2026年で回答者の平均年齢は32.0歳です。 株式会社大島造船所の平均年収は、約368万円 (経理・財務) 〜511万円 (営業) です。 給与情報は、Indeed にこれまでに掲載された105件の求人に基いた推定値です。 給与額はすべて、第三者から Indeed に寄せられた情報に基づく概算であることをご了承く」（https://en-hyouban.com/company/10002496006/salary/・3回目）
+  - 「株式会社大島造船所 の給与 | Indeed (インディード) — 株式会社大島造船所の平均年収は、約368万円 (経理・財務) 〜511万円 (営業) です。 給与情報は、Indeed にこれまでに掲載された105件の求人に基いた推定値です。 給与額はすべて、第三者から Indeed に寄せられた情報に基づく概算であることをご了承ください。」（https://jp.indeed.com/cmp/株式会社大島造船所/salaries・3回目）
+  - 「大島造船所の年収・給与10件｜平均・中央値・ボーナス・職種・役職・... — 大島造船所の社員・元社員8人の年収・給与データを掲載中。平均年収は426万円、中央値は403万円、年収範囲は360万〜540万円、平均年齢は28.5歳です。技術職430万円といった職種別の平均年収に加え、100万円ごとの年収の分布では400万円台が4人（50.0%）で最も多くなっています。ボーナス（賞与 ...」（https://openmoney.jp/corporations/2141/salaries・3回目）
+  - 「株式会社大島造船所の求人・採用情報｜求人ボックス — 長崎「人事」／賞与6ヶ月 株式会社大島造船所 長崎県 西海市 月給27万円～30万円 / 賞与あり・昇給あり 正社員 【仕事内容】 大島 工場にて、勤怠データのとりまとめやExcel加工...様々な角度から強い 大島 を目指して、取り組みを進めています。」（https://xn--pckua2a7gp15o89zb.com/株式会社大島造船所の仕事・3回目）
+  - 「採用情報 - 大島造船所 — 大島造船所の採用情報。新卒採用、キャリア採用、生活環境・福利厚生など。」（https://jp.osy.co.jp/recruiting/・3回目）
+  - 「(株)大島造船所の新卒採用・会社概要 | マイナビ2027株式会社 大島造船所の新卒採用求人一覧丨就活ならリクナビ(株)大島造船所の採用データ | マイナビ2027株式会社 大島造船所の新卒採用・会社概要丨就活ならリクナビ株式会社大島造船所の企業情報 | インターンシップ・新卒採用情報から... — こんにちは！ 大島造船所の採用担当です。 当社の主力事業である造船業は、世界の物流を支えており、 今後も需要の増加が予想されています。 また、当社では大島大橋や女神大橋などに代表される長大橋から、 組織を担う事務系総合職 (船舶営業・購買・経理・人事総務など) 世界から認められる長崎の造船メーカーで事業・組織運営を支える 新卒求人 27年卒 東京都、大阪府、長崎県 バックオフィス・事務・受付、営業、人事、総務 基本情報 本社 長崎県 ... 説明会の予約可 エントリー 検討リスト登録 会社概要」（https://job.mynavi.jp/27/pc/search/corp80996/outline.html・3回目）
+  - 「(株)大島造船所の採用データ | マイナビ2027株式会社 大島造船所の新卒採用・会社概要丨就活ならリクナビ株式会社大島造船所の企業情報 | インターンシップ・新卒採用情報から... — 基本情報 本社 長崎県 ... 説明会の予約可 エントリー 検討リスト登録 会社概要 採用データ 説明会・セミナー この企業の募集コース一覧へ戻る 募集コース 募集対象 採用フロー 採用後の待遇 株式会社 大島造船所の新卒採用情報、企業研究、選考対策を掲載 実績は、地元のシンボルである「大島大橋」から、九州各地の浮桟橋や水門まで多岐にわたります。 離島に暮らす人々の生活を守り、社会を支える鋼構造物のエキスパートとして、私たちはこれからも独自の技術で貢献を続けます。」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=80996&recruitingCourseId=27053451・3回目）
+  - 「株式会社 大島造船所の新卒採用・会社概要丨就活ならリクナビ — 株式会社 大島造船所の新卒採用情報、企業研究、選考対策を掲載」（https://job.rikunabi.com/selection/company_jobs/41121639/・3回目）
+  - 「新卒採用 - 大島造船所 — エントリー方法 新卒採用のエントリーは、当社ホームページにあるエントリーフォーム他、マイナビより随時受け付けております。 必要事項をご記入の上、エントリーください。 エントリー内容をご確認後、採用担当者から折り返しご連絡差し上げます。」（https://jp.osy.co.jp/recruiting/opportunities-for-new-graduates/・3回目）
+- 採用人数：記載なし（3回確認済み：公式11頁／PDF・画像3件／外部23頁・検索8回）
+
 ## 大晃ホールディングス
 - 公式URL：https://taiko-hd.com/（given）
 - 所在地：山口県熊毛郡田布施町大字下田布施209-1 TEL. 0820-52-3111（代表）（https://taiko-hd.com/jp/group/・1回目）
@@ -21371,6 +23332,37 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 求人媒体：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索8回）
 - 採用の発信：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索8回）
 - 人手不足の発言：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索8回）
+
+## 大田鋳造所
+- 公式URL：https://jp.kompass.com/（given）
+- 人手不足の発言：
+  - 「タイ人の彼らの技能実習の期間は3年、特定技能の資格があるとさらに長く日本にいることができるそうです」（https://note.com/yawatakogen/n/nb1c180f9a591・3回目）
+- 取引先・規模：
+  - 「北広島町八幡に芸北 高原の自然館を拠点として、自然観察会や保全事業、地域づくり支援事業に取り組んでいます」（https://note.com/yawatakogen/n/nb1c180f9a591・3回目）
+- 検索結果の抜粋：
+  - 「株式会社大田鋳造所の平均年収、年間給与所得情報 − 転職ならdoda（デ... — 株式会社大田鋳造所の平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで413,308社の企業情報が無料で検索・閲覧できます。」（https://doda.jp/DodaFront/View/CompanyIncome/j_id__10002364396/・3回目）
+  - 「株式会社大田鋳造所の転職・中途採用情報 − 転職ならdoda（デューダ）大田鋳造所の「年収・給与制度」 OpenWork株式会社 大田鋳造所のバイト・パート・正社員求人情報 | Indeed (イ...大田鋳造所の評判・口コミ - エン カイシャの評判株式会社大田鋳造所のハローワーク求人｜広島県北広島町｜営業／山県...株式会社大田鋳造所のハローワーク求人｜広島県北広島町｜技能職（は... — 株式会社大田鋳造所の求人や従業員・年収・事業内容・業績・業種・所在地の情報などを掲載。dodaの企業情報ページでは上場企業や、大手から中小企業まで約37万社の企業情報が無料で検索・閲覧できます。ぜひ志望動機や面接対策の研究にお役立てください。 年収・給与制度 株式会社大田鋳造所 組織体制・企業文化 入社理由と入社後ギャップ 働きがい・成長 女性の働きやすさ ワーク・ライフ・バランス 退職検討理由 企」（https://doda.jp/DodaFront/View/Company/j_id__10002364396/・3回目）
+  - 「大田鋳造所の「年収・給与制度」 OpenWork — 年収・給与制度 株式会社大田鋳造所 組織体制・企業文化 入社理由と入社後ギャップ 働きがい・成長 女性の働きやすさ ワーク・ライフ・バランス 退職検討理由 企業分析[強み・弱み・展望] 経営者への提言 年収・給与 表示順 標準 回答日 総合評価 該当 ...」（https://www.openwork.jp/company_answer.php?m_id=a0C1000000ppXk0&q_no=2・3回目）
+  - 「株式会社 大田鋳造所のバイト・パート・正社員求人情報 | Indeed (イ... — 株式会社 大田鋳造所の最新の求人は4件です。株式会社 大田鋳造所の求人情報、採用動向、社員クチコミ、給与などの企業 ...」（https://jp.indeed.com/cmp/株式会社-大田鋳造所-1/jobs・3回目）
+  - 「大田鋳造所の評判・口コミ - エン カイシャの評判株式会社大田鋳造所のハローワーク求人｜広島県北広島町｜営業／山県...株式会社大田鋳造所のハローワーク求人｜広島県北広島町｜技能職（は... — 株式会社大田鋳造所の総合評価は3.4点です（2人の正社員の回答）。株式会社大田鋳造所で働く社員や元社員が投稿した、給与・年収、勤務時間、休日・休暇、面接などの評判・口コミを5件掲載中。スコアの算出方法については こちら をご確認ください。 Sep 1, 2026 · ハローワークインターネットサービスに掲載された株式会社大田鋳造所の求人情報です。雇用形態は正社員で、勤務地は広島県北広島町です。この求人情報は広島公共職業安定所で受理されました。下記の情報は求人掲載時点での情報です。この求人が気になる方は、最寄りのハローワークの ... Sep 4, 2026 · ハローワークインターネットサービスに」（https://en-hyouban.com/company/10105606072/・3回目）
+  - 「株式会社大田鋳造所 | 採用情報 — 大田鋳造所の心臓部である鋳造部を担う「鋳造技能工」、鋳造品をお客さまが求める寸法に加工することが主な業務の「工作機械技能工」、鋳造品を加工するうえで不可欠な製図業務を担う「製図工（CAD／CAM）など、共に世界を支える人材を募集しています。」（https://www.ohtachuzousyo.co.jp/recruit/・3回目）
+  - 「募集要項 | 株式会社大田鋳造所 — Mar 3, 2023 · 大田鋳造所を知る 代表メッセージ 大田鋳造所の強み 沿革 事業案内 物流を支える 印刷業を支える 暮らしを支える 製造業を支える 鉄鋼業・製紙業を支える 自動車業を支える 会社情報 会社概要 グループ会社 採用情報 活躍する3つの職業 社員インタビュー ...」（https://www.ohtachuzousyo.co.jp/recruitment/recruitment-40/・3回目）
+  - 「株式会社大田鋳造所のキャリア・企業情報 | Indeed (インディード) — 新卒採用 銑鉄鋳物製造及び機械加工、鋳造/山県郡北広島町 北広島町 舞綱 月給 207,360円 5日前 求人を見る 株式会社大田鋳造所の求人が1件あります すべての勤務地を見る」（https://jp.indeed.com/cmp/株式会社大田鋳造所・3回目）
+  - 「4 件の 大田鋳造所 の求人 | Indeed (インディード) — 大田鋳造所の求人は4件あります。技術者, 製造技能職, 営業などの仕事・転職・アルバイト情報もまとめて検索。」（https://jp.indeed.com/q-大田鋳造所-求人.html?vjk=1098fce92ea3b391・3回目）
+  - 「株式会社 大田鋳造所 求人一覧【くらしまねっと仕事検索】しまね移住... — くらしまねっとTOP くらしまねっと仕事検索 株式会社 大田鋳造所 企業情報 求人情報 一覧 イベント 情報 インターンシップ ...」（https://www.kurashimanet.jp/job/company/list?company_id=1026423・3回目）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 採用ページ：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 想定年収・給与：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 採用人数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 採用の発信：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
 
 ## 太陽サカコー
 - 公式URL：https://www.taiyo-sakako.co.jp/（given）
@@ -22160,6 +24152,110 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
   - 「採用 情報RECRUIT - 富士産業株式会社 — 採用 情報RECRUIT - 富士産業株式会社 fuji-sangyo.co.jp https://www.fuji-sangyo.co.jp > recruit」（https://www.fuji-sangyo.co.jp/recruit/・3回目）
 - 採用人数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索8回）
 
+## 寺田鉄工所
+- 公式URL：https://job.career-tasu.jp/（given）
+- 所在地：北海道・東北すべて 北海道 青森県 岩手県 宮城県 秋田県 山形県 福島県 関東すべて 茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県 甲信越北陸すべて 新潟県 富山県 石川県 福井県 山梨県 長野県 東海・中部すべて 岐阜県 静岡県 愛知県 三重県 近畿すべて 滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県 中国すべて 鳥取県 島根県 岡山県 広島県 山口県 四国すべて 徳島県 香川県 愛媛県 高知県 九州・沖縄すべて 福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県 沖縄県 海外（https://job.career-tasu.jp/employment-search/・1回目）
+- 所在地：北海道・東北すべて 北海道 青森県 岩手県 宮城県 秋田県 山形県 福島県 関東すべて 茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県 甲信越北陸すべて 新潟県 富山県 石川県 福井県 山梨県 長野県 東海・中部すべて 岐阜県 静岡県 愛知県 三重県 近畿すべて 滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県 中国すべて 鳥取県 島根県 岡山県 広島県 山口県 四国すべて 徳島県 香川県 愛媛県 高知県 九州・沖縄すべて 福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県 沖縄県 海外（https://job.career-tasu.jp/condition-search/・1回目）
+- 所在地：北海道・東北すべて 北海道 青森県 岩手県 宮城県 秋田県 山形県 福島県 関東すべて 茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県 甲信越北陸すべて 新潟県 富山県 石川県 福井県 山梨県 長野県 東海・中部すべて 岐阜県 静岡県 愛知県 三重県 近畿すべて 滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県 中国すべて 鳥取県 島根県 岡山県 広島県 山口県 四国すべて 徳島県 香川県 愛媛県 高知県 九州・沖縄すべて 福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県 沖縄県 海外（https://job.career-tasu.jp/employment-search/result/・1回目）
+- 創業年度：創業/設立：1947年10月　設立（https://job.career-tasu.jp/corp/00080817/default/?tcd=ekt_00080817・1回目）
+- 創業年度：創業：1896年4月（明治29年）設立：1950年4月（昭和25年）（https://job.career-tasu.jp/corp/00005499/default/?tcd=kkt_00005499・1回目）
+- 創業年度：創業 1889年（明治22年）設立 2003年（平成15年）（https://job.career-tasu.jp/corp/00005537/default/?tcd=kkt_00005537・1回目）
+- 資本金：３，０００万円（https://job.career-tasu.jp/corp/00123734/default/?tcd=ekt_00123734・1回目）
+- 資本金：30，449百万円（https://job.career-tasu.jp/corp/00005499/default/?tcd=kkt_00005499・1回目）
+- 資本金：170億612万3，275円（2025年3月末日現在）（https://job.career-tasu.jp/corp/00005537/default/?tcd=kkt_00005537・1回目）
+- 従業員数：100人未満 100～300人未満 300～500人未満 500～1000人未満 1000～2000人未満 2000～5000人未満 5000人以上（https://job.career-tasu.jp/employment-search/・1回目）
+- 従業員数：100人未満 100～300人未満 300～500人未満 500～1000人未満 1000～2000人未満 2000～5000人未満 5000人以上（https://job.career-tasu.jp/condition-search/・1回目）
+- 従業員数：100人未満 100～300人未満 300～500人未満 500～1000人未満 1000～2000人未満 2000～5000人未満 5000人以上（https://job.career-tasu.jp/employment-search/result/・1回目）
+- 売上高：指定しない 10億円未満 10～100億円未満 100～300億円未満 300～500億円未満 500～1000億円未満 1000億円以上（https://job.career-tasu.jp/employment-search/・1回目）
+- 売上高：指定しない 10億円未満 10～100億円未満 100～300億円未満 300～500億円未満 500～1000億円未満 1000億円以上（https://job.career-tasu.jp/condition-search/・1回目）
+- 売上高：指定しない 10億円未満 10～100億円未満 100～300億円未満 300～500億円未満 500～1000億円未満 1000億円以上（https://job.career-tasu.jp/employment-search/result/・1回目）
+- 代表者：代表取締役社長　石川俊光（https://job.career-tasu.jp/corp/00123734/default/?tcd=ekt_00123734・1回目）
+- 代表者：茅ヶ崎市長　佐藤　光（https://job.career-tasu.jp/corp/00080817/default/?tcd=ekt_00080817・1回目）
+- 代表者：代表取締役社長　清水 琢三（https://job.career-tasu.jp/corp/00005499/default/?tcd=kkt_00005499・1回目）
+- 採用ページ：
+  - 「キャリタス就活 | 新卒学生のためのインターンシップ・採用情報サイト」（https://job.career-tasu.jp/・1回目）
+  - 「新卒学生のためのインターンシップ・採用情報サイト」（https://job.career-tasu.jp/・1回目）
+  - 「自分らしい働き方で、理想のキャリアを実現できる企業の採用情報が検索できます」（https://job.career-tasu.jp/・1回目）
+  - 「ES（エントリーシート）、テスト、グループディスカッション、OBOG訪問、面接、内定までの一連の流れに沿った詳細なクチコミ情報を見ることができます」（https://job.career-tasu.jp/・1回目）
+  - 「内定者の実際のES（エントリーシート）など、具体的に役立つ情報が得られます」（https://job.career-tasu.jp/・1回目）
+  - 「採用情報を探す | インターンシップ・新卒採用情報サイト キャリタス就活」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「新卒学生のためのインターンシップ・採用情報サイト」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「過去3年間の新卒採用者数の離職率 5％以下」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「過去3年間の新卒採用者数の男女比」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「多様性をチカラに変える【エントリー受付中！】」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「過去3年間の新卒採用者数の男女別人数」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「企業を探す | インターンシップ・新卒採用情報サイト キャリタス就活」（https://job.career-tasu.jp/condition-search/・1回目）
+- 想定年収・給与：
+  - 「職種や給与から企業データや選考の特徴まで様々な情報を掲載！」（https://job.career-tasu.jp/・1回目）
+  - 「18～20万円」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「20～22万円」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「22～25万円」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「25～30万円」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「30万円以上」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「30歳社員平均年収700万円以上」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「年間賞与6カ月以上支給（前期）」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「18～20万円」（https://job.career-tasu.jp/condition-search/・1回目）
+  - 「20～22万円」（https://job.career-tasu.jp/condition-search/・1回目）
+  - 「22～25万円」（https://job.career-tasu.jp/condition-search/・1回目）
+  - 「25～30万円」（https://job.career-tasu.jp/condition-search/・1回目）
+- 採用人数：
+  - 「採用実績、キャリタス限定情報など」（https://job.career-tasu.jp/condition-search/・1回目）
+  - 「残り採用予定1人」（https://job.career-tasu.jp/employment-search/result/・1回目）
+  - 「残り採用予定15人」（https://job.career-tasu.jp/employment-search/result/・1回目）
+  - 「残り採用予定10人」（https://job.career-tasu.jp/employment-search/result/・1回目）
+  - 「残り採用予定2人」（https://job.career-tasu.jp/employment-search/result/・1回目）
+  - 「残り採用予定48人」（https://job.career-tasu.jp/employment-search/result/・1回目）
+  - 「残り採用予定9人」（https://job.career-tasu.jp/employment-search/result/・1回目）
+  - 「残り採用予定6人」（https://job.career-tasu.jp/employment-search/result/・1回目）
+  - 「残り採用予定3人」（https://job.career-tasu.jp/employment-search/result/・1回目）
+  - 「残り採用予定4人」（https://job.career-tasu.jp/employment-search/result/・1回目）
+  - 「残り採用予定25人」（https://job.career-tasu.jp/employment-search/result/・1回目）
+  - 「残り採用予定5人」（https://job.career-tasu.jp/employment-search/result/・1回目）
+- 採用の発信：
+  - 「キャリタス就活 | 新卒学生のためのインターンシップ・採用情報サイト」（https://job.career-tasu.jp/・1回目）
+  - 「新卒学生のためのインターンシップ・採用情報サイト」（https://job.career-tasu.jp/・1回目）
+  - 「キャリタス就活におけるインターンシップ等の区分はこちら」（https://job.career-tasu.jp/・1回目）
+  - 「三省合意のインターンシップ等の区分はこちら」（https://job.career-tasu.jp/・1回目）
+  - 「インターンシップ・キャリアに参加して、仕事のリアルを体験＆業界研究を進めよう！」（https://job.career-tasu.jp/・1回目）
+  - 「業種やクチコミ、日程や報酬の有無などあなたに合ったインターンシップ・キャリアを検索できます」（https://job.career-tasu.jp/・1回目）
+  - 「採用情報を探す | インターンシップ・新卒採用情報サイト キャリタス就活」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「新卒学生のためのインターンシップ・採用情報サイト」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「企業を探す | インターンシップ・新卒採用情報サイト キャリタス就活」（https://job.career-tasu.jp/condition-search/・1回目）
+  - 「新卒学生のためのインターンシップ・採用情報サイト」（https://job.career-tasu.jp/condition-search/・1回目）
+  - 「インターンシップ・キャリアに参加して、仕事のリアルを体験＆業界研究を進めよう！」（https://job.career-tasu.jp/condition-search/・1回目）
+  - 「業種やクチコミ、日程や報酬の有無などあなたに合ったインターンシップ・キャリアを検索できます」（https://job.career-tasu.jp/condition-search/・1回目）
+- 人手不足の発言：
+  - 「また、若手からベテランまで活躍しており、アットホームな雰囲気の職場です」（https://job.career-tasu.jp/corp/00123734/default/?tcd=ekt_00123734・1回目）
+  - 「若手社員にも挑戦する機会があり、「もっと良くしたい」というアイデアを積極的に発信できる環境です」（https://job.career-tasu.jp/corp/00123734/default/?tcd=ekt_00123734・1回目）
+  - 「この「技術力」「現場力」を醸成する「困難であればあるほど果敢に挑む風土」と「若手の挑戦と失敗を許容する風土」は、皆さんの能力を最大限引き出せることができる環境といえるでしょう」（https://job.career-tasu.jp/corp/00005537/default/?tcd=kkt_00005537・1回目）
+  - 「プラント・産業機械の部門は、ベテラン（50代）から若手（20代）までバランスよく配属」（https://terada-tekkousho.net/recruit・3回目）
+- 取引先・規模：
+  - 「10億円未満」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「10～100億円未満」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「100～300億円未満」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「300～500億円未満」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「500～1000億円未満」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「1000億円以上」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「新工場立ち上げに伴うサプリメント製造スタッフの募集」（https://job.career-tasu.jp/employment-search/・1回目）
+  - 「10億円未満」（https://job.career-tasu.jp/condition-search/・1回目）
+  - 「10～100億円未満」（https://job.career-tasu.jp/condition-search/・1回目）
+  - 「100～300億円未満」（https://job.career-tasu.jp/condition-search/・1回目）
+  - 「300～500億円未満」（https://job.career-tasu.jp/condition-search/・1回目）
+  - 「500～1000億円未満」（https://job.career-tasu.jp/condition-search/・1回目）
+- 検索結果の抜粋：
+  - 「株式会社 寺田鉄工所 の 求人 情報/プラント機器・大型産業機械 ... — 株式会社 寺田鉄工所 の 求人 情報/プラント機器・大型産業機械 ... ヒロジョブ転職 https://hiroten.hirojob.com > ... > 株式会社寺田鉄工所」（https://hiroten.hirojob.com/kyujin/87105・3回目）
+  - 「株式会社 寺田鉄工所 の 求人 情報/鉄鋼製品の製造スタッフ（NC ... — 株式会社 寺田鉄工所 の 求人 情報/鉄鋼製品の製造スタッフ（NC ... オカジョブ転職 https://okaten.okajob.com > kyujin」（https://okaten.okajob.com/kyujin/89175・3回目）
+  - 「11 件の 寺田鉄工所 の 求人 - Indeed (インディード) — 11 件の 寺田鉄工所 の 求人 - Indeed (インディード) Indeed https://jp.indeed.com > q-寺田鉄工所-求人」（https://jp.indeed.com/q-%E5%AF%BA%E7%94%B0%E9%89%84%E5%B7%A5%E6%89%80-%E6%B1%82%E4%BA%BA.html・3回目）
+  - 「寺田鉄工所 の「採用情報」 OpenWork — 寺田鉄工所 の「採用情報」 OpenWork OpenWork https://www.openwork.jp > 鉄鋼、非鉄金属 > 寺田鉄工所」（https://www.openwork.jp/a0C10000013Fb2c/job/・3回目）
+  - 「株式会社 寺田鉄工所 の転職・企業概要 - doda — 株式会社 寺田鉄工所 の転職・企業概要 - doda doda https://doda.jp > View > Company > j_id__10022298988」（https://doda.jp/DodaFront/View/Company/j_id__10022298988/・3回目）
+  - 「寺田鉄工所 新卒 高卒 の求人情報をすべて見る （136件） — 寺田鉄工所 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E5%AF%BA%E7%94%B0%E9%89%84%E5%B7%A5%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「寺田鉄工所採用 情報 — 寺田鉄工所採用 情報 terada-tekkousho.net https://terada-tekkousho.net > recruit」（https://terada-tekkousho.net/recruit・3回目）
+  - 「株式会社 寺田鉄工所 の求人情報/プラント機器・大型産業機械 ... — 株式会社 寺田鉄工所 の求人情報/プラント機器・大型産業機械 ... ヒロジョブ転職 https://hiroten.hirojob.com > ... > 株式会社寺田鉄工所」（https://hiroten.hirojob.com/kyujin/87105・3回目）
+  - 「11 件の 寺田鉄工所 の求人 - Indeed (インディード) — 11 件の 寺田鉄工所 の求人 - Indeed (インディード) Indeed https://jp.indeed.com > q-寺田鉄工所-求人」（https://jp.indeed.com/q-%E5%AF%BA%E7%94%B0%E9%89%84%E5%B7%A5%E6%89%80-%E6%B1%82%E4%BA%BA.html・3回目）
+- 事業内容：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部18頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部18頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部18頁・検索8回）
+
 ## 小川製作所
 - 公式URL：https://www.ogawa-ss.co.jp/（given）
 - 所在地：本社・工場 〒270-1407 千葉県白井市名内330番地 白井第二工業団地内 TEL（代表） 047-497-0765 FAX（営業部・設計部） 047-497-1039 FAX（製造部） 047-497-0241 FAX（総務部） 047-497-0802（https://www.ogawa-ss.co.jp/company/・1回目）
@@ -22650,6 +24746,94 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 採用の発信：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索8回）
 - 人手不足の発言：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索8回）
 
+## 山川造船鉄工
+- 公式URL：https://w.atwiki.jp/（given）
+- 採用ページ：
+  - 「山川造船鉄工株式会社の会社概要|転職・求人・中途採用情報サイトのマイナビ転職」（https://tenshoku.mynavi.jp/company/477655/・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E5%B1%B1%E5%B7%9D%E9%80%A0%E8%88%B9%E9%89%84%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E5%B1%B1%E5%B7%9D%E9%80%A0%E8%88%B9%E9%89%84%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E5%B1%B1%E5%B7%9D%E9%80%A0%E8%88%B9%E9%89%84%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E5%B1%B1%E5%B7%9D%E9%80%A0%E8%88%B9%E9%89%84%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「山川造船鉄工(株)の新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp290128/outline.html・3回目）
+  - 「2022年10月～2023年9月／中途採用割合：66.7%」（https://job.mynavi.jp/27/pc/search/corp290128/outline.html・3回目）
+  - 「2023年10月～2024年9月／中途採用割合：50.0%」（https://job.mynavi.jp/27/pc/search/corp290128/outline.html・3回目）
+  - 「2024年10月～2025年9月／中途採用割合：40.0%」（https://job.mynavi.jp/27/pc/search/corp290128/outline.html・3回目）
+  - 「過去3年間の新卒採用者数（男女別）」（https://job.mynavi.jp/27/pc/search/corp290128/outline.html・3回目）
+  - 「過去3年間の新卒採用者数・」（https://job.mynavi.jp/27/pc/search/corp290128/outline.html・3回目）
+  - 「採用情報 | 山川造船鉄工株式会社 鹿児島の造船所」（https://yamakawasb.co.jp/recruit/・3回目）
+- 想定年収・給与：
+  - 「月給21万6,000円～25万円」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「●想定年収 3,300,000円～4,500,000円」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「※年収（時間外・賞与等含む）は目安金額です」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「年収580万円／30代／入社10年目」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「年収465万円／20代／入社5年目」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「年収400万円／20代／入社3年目」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「●試用期間は3ヶ月 月給216,00円～」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「∟月2万円／光熱費・駐車場込、家具家電・Wi-Fi付」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「年収300万円～350万円」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「日給1万円～」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「月給19万2,000円～ / 賞与あり」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「月給37万円～ / 賞与あり」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+- 採用人数：
+  - 「臨床工学技士／常勤／病院／複数名募集／寮・社宅あり」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E5%B1%B1%E5%B7%9D%E9%80%A0%E8%88%B9%E9%89%84%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 求人媒体：
+  - 「山川造船鉄工株式会社 船舶の溶接工／業界未経験歓迎／寮完備／経験に応じて優遇可／「船の総合病院」大型船を扱う迫力ある現場／県内トップクラスの船...の求人詳細情報 - 鹿児島県 指宿市 山川駅 徒歩20分｜求人ボックス」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「1. 求人ボックスから応募もしくは電話でご連絡ください」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「「求人ボックスを見た」とご連絡頂くとスムーズです」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「上記に表示されている求人情報は「求人ボックス採用ボード」により投稿された情報を表示しております」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「一部、上部サマリーの情報は、求人ボックスに投稿された求人情報を独自に解析し、まとめた情報です」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「求人ボックスでは、求人の要約部分などにAI技術を利用しております」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「登録ボタンを押すことにより、求人ボックスの」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「※規約同意後は、求人ボックスから新着求人やおすすめの求人などの求人情報をご連絡することがあります」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「メール受信設定は、求人ボックスからのメールに記載されている配信停止のリンク、またはマイページからいつでも停止できます」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「山川造船鉄工株式会社の会社概要|転職・求人・中途採用情報サイトのマイナビ転職」（https://tenshoku.mynavi.jp/company/477655/・3回目）
+  - 「あなたの転職を支援する転職サイト「マイナビ転職」豊富な求人情報と転職情報・転職支援サービスで転職をサポート」（https://tenshoku.mynavi.jp/company/477655/・3回目）
+  - 「※オプトアウトをした場合、マイナビ転職の一部サービスを利用できない場合があります」（https://tenshoku.mynavi.jp/company/477655/・3回目）
+- 採用の発信：
+  - 「常に先輩社員に同行している為、とても難しい作業をこなす先輩社員が輝いて見えます」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「入社後、先輩社員に指導を受けながら、旋盤を取り扱っており新しい部品を日々作ってます」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「職場の雰囲気は、全体的に若い職場で話しやすい人が多く、経験豊富な上司や先輩社員の皆さんに分からないことがあれば、気軽に相談できる〝コミュニケーションがとりやすい〟会社だと思います」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「経験豊富な先輩社員が丁寧に指導し、資格取得も会社がサポートします」（https://tenshoku.mynavi.jp/company/477655/・3回目）
+  - 「積極的受付中★【会社説明会・選考会を同日開催ＯＫ】説明会/セミナーから予約可能！～内々定まで2週間～」（https://job.mynavi.jp/27/pc/search/corp290128/outline.html・3回目）
+  - 「ぜひ一度会社説明会を兼ねて船舶修理業を知ってみませんか？」（https://job.mynavi.jp/27/pc/search/corp290128/outline.html・3回目）
+  - 「時には厳しい指導を受けることもありますが、分からないことがあれば、詳しく丁寧に教えてくださるので、話しやすい先輩社員の皆さんばかりです」（https://job.mynavi.jp/27/pc/search/corp290128/outline.html・3回目）
+  - 「当社で働く先輩社員のインタビューを紹介します」（https://yamakawasb.co.jp/recruit/・3回目）
+- 人手不足の発言：
+  - 「平均年齢39歳と若手社員が活躍しており、30～40代がリーダーとなり社員の育成に取り組んでおります」（https://job.mynavi.jp/27/pc/search/corp290128/outline.html・3回目）
+- 取引先・規模：
+  - 「山川造船鉄工株式会社 船舶の溶接工／業界未経験歓迎／寮完備／経験に応じて優遇可／「船の総合病院」大型船を扱う迫力ある現場／県内トップクラスの船...の求人詳細情報 - 鹿児島県 指宿市 山川駅 徒歩20分｜求人ボックス」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「弊社は、創業95年以上の伝統と技術力を持ち、充実した設備のもとで検査および修繕を行い、顧客を満足させる造船業に努めています」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「と報告を受け、まずは職場見学に行こうと決意し山川造船鉄工に向かいました」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「造船には専門用語や必要な知識が多いので、覚えるのには苦労しました」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「山川造船鉄工株式会社は、1930年（昭和5年）に創業し、創業以来、内航船やフェリー貨客船等の建造に貢献してまいりました」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「現在は、船舶の検査および修繕・改造を主とし、造船修理業をおこなっております」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「今治造船グループの「船員／航海士・機関士／」／電話応募OK」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「ボッシュ認定店の自動車整備士／無資格から働きながら国家資格を取得OK／BOSCH認定工場」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「山川造船鉄工株式会社の会社概要|転職・求人・中途採用情報サイトのマイナビ転職」（https://tenshoku.mynavi.jp/company/477655/・3回目）
+  - 「「山川造船鉄工株式会社」の企業情報ページです」（https://tenshoku.mynavi.jp/company/477655/・3回目）
+  - 「「山川造船鉄工株式会社」の本社所在地・従業員数・企業ホームページなどの情報を掲載しています」（https://tenshoku.mynavi.jp/company/477655/・3回目）
+  - 「山川造船鉄工株式会社は、船舶の検査・修繕・改造を手掛ける「船の総合病院」です」（https://tenshoku.mynavi.jp/company/477655/・3回目）
+- 検索結果の抜粋：
+  - 「山川造船鉄工 株式会社 の 求人 ・中途採用情報 - doda — 山川造船鉄工 株式会社 の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10008939523」（https://doda.jp/DodaFront/View/CompanyJobs/j_id__10008939523/・3回目）
+  - 「山川造船鉄工 株式会社 船舶の溶接工／業界未経験歓迎／寮完備 — 山川造船鉄工 株式会社 船舶の溶接工／業界未経験歓迎／寮完備 求人ボックス https://求人ボックス.com > jbi」（https://xn--pckua2a7gp15o89zb.com/jbi/f9745ddb25b6bf855e2316e3a537e8ad・3回目）
+  - 「山川造船鉄工 株式会社の会社概要 - マイナビ転職 — 山川造船鉄工 株式会社の会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company」（https://tenshoku.mynavi.jp/company/477655/・3回目）
+  - 「山川造船鉄工 株式会社の 求人 ・仕事・採用 - スタンバイ — 山川造船鉄工 株式会社の 求人 ・仕事・採用 - スタンバイ スタンバイ https://jp.stanby.com > ...」（https://jp.stanby.com/r_0ce04ab02e5076269d0ccf8c42bff6df・3回目）
+  - 「山川造船鉄工 「社員クチコミ」 就職・転職の採用 ... - OpenWork — 山川造船鉄工 「社員クチコミ」 就職・転職の採用 ... - OpenWork OpenWork https://www.openwork.jp > company」（https://www.openwork.jp/company.php?m_id=a0C10000018e96J・3回目）
+  - 「山川造船鉄工 新卒 高卒 の求人情報をすべて見る （140件） — 山川造船鉄工 新卒 高卒 の求人情報をすべて見る （140件） スタンバイ」（https://jp.stanby.com/search?q=%E5%B1%B1%E5%B7%9D%E9%80%A0%E8%88%B9%E9%89%84%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「山川造船鉄工 (株)の 新卒採用 ・会社概要 | マイナビ2027 — 山川造船鉄工 (株)の 新卒採用 ・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp290128 > outline」（https://job.mynavi.jp/27/pc/search/corp290128/outline.html・3回目）
+  - 「採用 情報 | 山川造船鉄工 株式会社 鹿児島の造船所 — 採用 情報 | 山川造船鉄工 株式会社 鹿児島の造船所 山川造船鉄工株式会社 https://yamakawasb.co.jp > recruit」（https://yamakawasb.co.jp/recruit/・3回目）
+  - 「山川造船鉄工 株式会社の 採用 ・求人情報-engage - エンゲージ — 山川造船鉄工 株式会社の 採用 ・求人情報-engage - エンゲージ エンゲージ https://en-gage.net > yamakawasb_saiyo」（https://en-gage.net/yamakawasb_saiyo/・3回目）
+  - 「山川造船鉄工 株式会社 - YouTube — 山川造船鉄工 株式会社 - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=wS92V1eL8NY・3回目）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索8回）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索8回）
+
 ## 山本製作所
 - 公式URL：http://www.fb-yamamoto.co.jp/（search:ddgs:google:株式会社山本製作所）
 - 所在地：〒355-0071　埼玉県東松山市新郷88番地26（http://www.fb-yamamoto.co.jp/company・1回目）
@@ -23005,6 +25189,62 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 採用ページ：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）
 - 採用人数：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）
 - 人手不足の発言：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）
+
+## 山陽染工
+- 公式URL：https://a-leads.co/（given）
+- 採用ページ：
+  - 「山陽染工の転職・採用情報｜社員口コミでわかる【転職会議】」（https://jobtalk.jp/companies/101358・3回目）
+  - 「募集要項等の公表情報によると、賞与は年2回支給されており、直近の実績としては計0.8〜1か月分となっています」（https://jobtalk.jp/companies/101358・3回目）
+  - 「まずは採用サイトまたは応募フォームからエントリー」（https://www.sanyo-senko.co.jp/recruit/・3回目）
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E5%B1%B1%E9%99%BD%E6%9F%93%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E5%B1%B1%E9%99%BD%E6%9F%93%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E5%B1%B1%E9%99%BD%E6%9F%93%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E5%B1%B1%E9%99%BD%E6%9F%93%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「山陽染工の新卒採用・就職・企業情報【就活会議】」（https://syukatsu-kaigi.jp/companies/131296・3回目）
+  - 「山陽染工株式会社の新卒採用・就職・企業情報」（https://syukatsu-kaigi.jp/companies/131296・3回目）
+  - 「ぜひ、選考体験記の詳細ページにて最新情報やエントリーシート・体験記全文を確認し、選考対策に役立ててください」（https://syukatsu-kaigi.jp/companies/131296・3回目）
+  - 「就活会議では、山陽染工株式会社の評判や口コミ、選考を突破した先輩のエントリーシート、実際の選考内容を確認できる体験記、選考状況をリアルタイムで把握できる就活速報を掲載しています」（https://syukatsu-kaigi.jp/companies/131296・3回目）
+- 想定年収・給与：
+  - 「昇給および年2回の賞与支給制度が導入されています」（https://jobtalk.jp/companies/101358・3回目）
+  - 「募集要項等の公表情報によると、賞与は年2回支給されており、直近の実績としては計0.8〜1か月分となっています」（https://jobtalk.jp/companies/101358・3回目）
+  - 「また昇給制度が設けられており、前年度実績では1か月あたり0円〜5,000円の昇給幅が確認されています」（https://jobtalk.jp/companies/101358・3回目）
+  - 「・昇給：年1回支給」（https://jobtalk.jp/companies/101358・3回目）
+  - 「・賞与：年2回支給」（https://jobtalk.jp/companies/101358・3回目）
+  - 「年収、評価制度」（https://jobtalk.jp/companies/101358・3回目）
+  - 「現社員や元社員から投稿された企業の評判・面接・年収などの口コミ情報を、」（https://jobtalk.jp/companies/101358・3回目）
+  - 「山陽染工の年収・給与 平均年収 - エン カイシャの評判」（https://en-hyouban.com/company/10105839616/salary/・3回目）
+  - 「山陽染工株式会社の年収・給与の口コミページです」（https://en-hyouban.com/company/10105839616/salary/・3回目）
+  - 「山陽染工株式会社で働く社員や元社員が投稿した、年収・給与に関する口コミを4件掲載中」（https://en-hyouban.com/company/10105839616/salary/・3回目）
+  - 「山陽染工株式会社の年収・給与についての口コミ」（https://en-hyouban.com/company/10105839616/salary/・3回目）
+  - 「この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？」（https://en-hyouban.com/company/10105839616/salary/・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E5%B1%B1%E9%99%BD%E6%9F%93%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 求人媒体：
+  - 「A-Leads data is way better than apollo to say the least. First campaign, absolutely great engagement. Highly recommend」（https://a-leads.co/・1回目）
+- 取引先・規模：
+  - 「自社工場で精錬・漂白から染色、プリント、仕上げまでを一貫して手がける受託加工サービスです」（https://jobtalk.jp/companies/101358・3回目）
+  - 「専務の中島は、三菱UFJ銀行で約10」（https://jp.stanby.com/search?q=%E5%B1%B1%E9%99%BD%E6%9F%93%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 検索結果の抜粋：
+  - 「山陽染工 の転職・採用情報｜社員口コミでわかる【転職会議】 — 山陽染工 の転職・採用情報｜社員口コミでわかる【転職会議】 転職会議 https://jobtalk.jp > 化学・素材業界ランキング」（https://jobtalk.jp/companies/101358・3回目）
+  - 「山陽染工 株式会社の 年収 ・給与 - エン カイシャの評判 — 山陽染工 株式会社の 年収 ・給与 - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company > salary」（https://en-hyouban.com/company/10105839616/salary/・3回目）
+  - 「採用情報 - 山陽染工 — 採用情報 - 山陽染工 山陽染工 https://www.sanyo-senko.co.jp > recruit」（https://www.sanyo-senko.co.jp/recruit/・3回目）
+  - 「山陽染工 「社員クチコミ」 就職・転職の採用企業 ... - OpenWork — 山陽染工 「社員クチコミ」 就職・転職の採用企業 ... - OpenWork OpenWork https://www.openwork.jp > company」（https://www.openwork.jp/company.php?m_id=a0C1000000tfMMy・3回目）
+  - 「山陽染工 株式会社／大阪市【法人営業】年休112日/転勤なし ... — 山陽染工 株式会社／大阪市【法人営業】年休112日/転勤なし ... リクルートエージェント https://www.r-agent.com > 大阪府 > 大阪市 > 中央区」（https://www.r-agent.com/viewjob/jk1f0cb4112f69b3af/・3回目）
+  - 「山陽染工 新卒 高卒 の求人情報をすべて見る （136件） — 山陽染工 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E5%B1%B1%E9%99%BD%E6%9F%93%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「採用 情報 - 山陽染工 — 採用 情報 - 山陽染工 山陽染工 https://www.sanyo-senko.co.jp > recruit」（https://www.sanyo-senko.co.jp/recruit/・3回目）
+  - 「山陽染工 の 新卒採用 ・就職・企業情報 - 就活会議 — 山陽染工 の 新卒採用 ・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > ... > 繊維業界の企業一覧」（https://syukatsu-kaigi.jp/companies/131296・3回目）
+  - 「山陽染工 株式会社の中途 採用 ・転職・求人情報 — 山陽染工 株式会社の中途 採用 ・転職・求人情報 リクルートエージェント https://www.r-agent.com > company」（https://www.r-agent.com/company/j5619/・3回目）
+  - 「山陽染工 「社員クチコミ」 就職・転職の 採用 企業 ... - OpenWork — 山陽染工 「社員クチコミ」 就職・転職の 採用 企業 ... - OpenWork OpenWork https://www.openwork.jp > company」（https://www.openwork.jp/company.php?m_id=a0C1000000tfMMy・3回目）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部11頁・検索8回）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部11頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部11頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部11頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部11頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部11頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部11頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部11頁・検索8回）
+- 採用の発信：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部11頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部11頁・検索8回）
 
 ## 山陽設計工業
 - 公式URL：https://website.informer.com/（given）
@@ -23488,6 +25728,63 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 採用の発信：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部4頁・検索8回）
 - 人手不足の発言：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部4頁・検索8回）
 
+## 常石グループ
+- 公式URL：https://www.tsuneishi-g.jp/（given）
+- 所在地：広島県福山市沼隈町常石1083番地（https://www.openwork.jp/company_answer.php?m_id=a0C1000000vvGqV&q_no=2・3回目）
+- 創業年度：設立年：1942年（https://www.openwork.jp/company_answer.php?m_id=a0C1000000vvGqV&q_no=2・3回目）
+- 従業員数：100〜499人（https://www.openwork.jp/company_answer.php?m_id=a0C1000000vvGqV&q_no=2・3回目）
+- 代表者：神原 勝成（https://www.tsuneishi-g.jp/company/management/・1回目）
+- 代表者：代表取締役社長　神原 勝成（https://www.openwork.jp/company_answer.php?m_id=a0C1000000vvGqV&q_no=2・3回目）
+- 採用ページ：
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E5%B8%B8%E7%9F%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E5%B8%B8%E7%9F%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E5%B8%B8%E7%9F%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E5%B8%B8%E7%9F%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 想定年収・給与：
+  - 「常石グループ株式会社の年収・給料｜公開資料と求人の比較 | キャリビー」（https://career-be.jp/companies/c-2700aafcca6c699c/salary・3回目）
+  - 「常石グループ株式会社の掲載求人の想定年収は中央値で約624万円（全国平均460万円）」（https://career-be.jp/companies/c-2700aafcca6c699c/salary・3回目）
+  - 「公開資料の給与実績と、求人の想定年収は集計対象が異なります」（https://career-be.jp/companies/c-2700aafcca6c699c/salary・3回目）
+  - 「年収を比較する際は、額面の金額だけでなく、福利厚生（住宅手当・退職金・確定拠出年金）、賞与の支給実績（何ヶ月分か）、残業代の支給方法（みなし残業 vs 全額支給）も含めた「総報酬」で判断することが重要です」（https://career-be.jp/companies/c-2700aafcca6c699c/salary・3回目）
+  - 「常石グループ株式会社の確定的な平均年収は蓄積中ですが、掲載求人の想定年収（中央値）は約624万円です」（https://career-be.jp/companies/c-2700aafcca6c699c/salary・3回目）
+  - 「年収は額面だけでなく、賞与の支給実績・福利厚生・残業代の支給方法まで含めた「総報酬」で比較するのが重要です」（https://career-be.jp/companies/c-2700aafcca6c699c/salary・3回目）
+  - 「強み・適職から、年収相場までわかる」（https://career-be.jp/companies/c-2700aafcca6c699c/salary・3回目）
+  - 「年収と一緒に、仕事との相性も」（https://career-be.jp/companies/c-2700aafcca6c699c/salary・3回目）
+  - 「常石グループ株式会社の掲載求人の想定年収（中央値）から算出した目安です」（https://career-be.jp/companies/c-2700aafcca6c699c/salary・3回目）
+  - 「投稿された年収データが集まると、より精度の高い平均年収を表示します」（https://career-be.jp/companies/c-2700aafcca6c699c/salary・3回目）
+  - 「国税庁「民間給与実態統計調査」（令和5年分）」（https://career-be.jp/companies/c-2700aafcca6c699c/salary・3回目）
+  - 「常石グループ株式会社の年収目安（約624万円）は全国平均460万円を約164万円上回ります」（https://career-be.jp/companies/c-2700aafcca6c699c/salary・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E5%B8%B8%E7%9F%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 取引先・規模：
+  - 「・海運、造船の既存事業分野以外のM&Aを加速させる」（https://www.tsuneishi-g.jp/company/michishirube2035/・1回目）
+  - 「3,460億円」（https://www.tsuneishi-g.jp/company/michishirube2035/・1回目）
+  - 「5,000億円」（https://www.tsuneishi-g.jp/company/michishirube2035/・1回目）
+  - 「8,000億円」（https://www.tsuneishi-g.jp/company/michishirube2035/・1回目）
+  - 「これもひとえに、事業を通じて出会ったお客さま、取引先さま、パートナー企業さま、地域の皆さまのご支援のおかげです」（https://www.tsuneishi-g.jp/company/message/・1回目）
+  - 「120年の歴史のなかで常石グループは、海運、造船、商社・エネルギー、環境、ライフ&リゾートという5つの事業セグメントに活動領域を広げ、国内外のさまざまな地域の皆さまと絆を結び、ともに歩み続けてまいりました」（https://www.tsuneishi-g.jp/company/message/・1回目）
+  - 「神原汽船と常石造船はともに、創成期の大切な船」（https://www.tsuneishi-g.jp/company/logo/・1回目）
+  - 「パプアニューギニアのラバウルに造船所を開設（〜1969）」（https://www.tsuneishi-g.jp/company/history/・1回目）
+  - 「神原ウルグアイ造船所を設立（〜2002）」（https://www.tsuneishi-g.jp/company/history/・1回目）
+  - 「フィリピンに新造船工場のTSUNEISHI HEAVY INDUSTRIES（CEBU）を設立」（https://www.tsuneishi-g.jp/company/history/・1回目）
+  - 「波止浜造船を合併し、多度津工場を発足」（https://www.tsuneishi-g.jp/company/history/・1回目）
+  - 「中国に新造船工場の常石集団（舟山）造船が発足」（https://www.tsuneishi-g.jp/company/history/・1回目）
+- 検索結果の抜粋：
+  - 「常石グループ 株式会社の平均 年収 、年間給与所得情報 - doda — 常石グループ 株式会社の平均 年収 、年間給与所得情報 - doda doda https://doda.jp > CompanyIncome > j_id__00009390765」（https://doda.jp/DodaFront/View/CompanyIncome/j_id__00009390765/・3回目）
+  - 「常石グループ 株式会社の 年収 ・給料｜公開資料と 求人 の比較 — 常石グループ 株式会社の 年収 ・給料｜公開資料と 求人 の比較 キャリビー https://career-be.jp > ... > 常石グループ株式会社の求人」（https://career-be.jp/companies/c-2700aafcca6c699c/salary・3回目）
+  - 「常石グループ の 求人 - Indeed (インディード) — 常石グループ の 求人 - Indeed (インディード) Indeed https://jp.indeed.com > q-常石グループ-求人」（https://jp.indeed.com/q-%E5%B8%B8%E7%9F%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-%E6%B1%82%E4%BA%BA.html・3回目）
+  - 「常石グループ 株式会社の 求人 情報/ホールディングスの法務 ... — 常石グループ 株式会社の 求人 情報/ホールディングスの法務 ... ヒロジョブ転職 https://hiroten.hirojob.com > ... > 常石グループ株式会社」（https://hiroten.hirojob.com/kyujin/88473・3回目）
+  - 「常石グループ 新卒 高卒 の求人情報をすべて見る （136件） — 常石グループ 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E5%B8%B8%E7%9F%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「常石グループ 株式会社 採用 — 常石グループ 株式会社 採用 常石グループ https://www.tsuneishi-g.jp > recruit」（https://www.tsuneishi-g.jp/recruit/・3回目）
+  - 「常石グループ (株)【旧社名：ツネイシホールディングス(株)】 — 常石グループ (株)【旧社名：ツネイシホールディングス(株)】 マイナビ https://job.mynavi.jp > search > corp88438 > outline」（https://job.mynavi.jp/27/pc/search/corp88438/outline.html・3回目）
+  - 「常石グループ の 新卒採用 ・就職・企業情報 - 就活会議 — 常石グループ の 新卒採用 ・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > ... > その他業界の企業一覧」（https://syukatsu-kaigi.jp/companies/5878・3回目）
+- 資本金：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部17頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部17頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部17頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部17頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部17頁・検索8回）
+- 採用の発信：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部17頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部17頁・検索8回）
+
 ## 常石造船
 - 公式URL：https://www.tsuneishi.co.jp/（search:yahoo_jp:常石造船）
 - 所在地：広島県福山市、代表取締役社長執行役員：奥村幸生、以下「常石造船」）と常石鉄工株式会社（本社：広島県福山市、代表取締役社長：下村直哉、以下「常石鉄工」）は、常石造船の海外拠点であ…（https://www.tsuneishi.co.jp/・1回目）
@@ -23621,6 +25918,113 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 売上高：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部7頁・検索8回）
 - 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部7頁・検索8回）
 - 採用人数：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部7頁・検索8回）
+
+## 年休120日
+- 公式URL：https://www.r-agent.com/（given）
+- 所在地：104-8011東京都中央区築地５－３－２（https://www.r-agent.com/viewjob/jkc30edd67f47e3b94/・1回目）
+- 所在地：大阪店：〒530-8211 　　　　大阪市北区中之島2－3ー18　朝日新聞大阪本社内（https://www.r-agent.com/viewjob/jkc30edd67f47e3b94/・1回目）
+- 所在地：〒100-6640 東京都千代田区丸の内1-9-2 グラントウキョウサウスタワー（https://www.r-agent.com/viewjob/jkc30edd67f47e3b94/・1回目）
+- 創業年度：設立：1922年07月（https://www.r-agent.com/viewjob/jkc30edd67f47e3b94/・1回目）
+- 創業年度：設立：1988年04月01日（https://www.r-agent.com/viewjob/jk1bdf42f15e1224e7/・1回目）
+- 創業年度：設立：1988年04月（https://www.r-agent.com/viewjob/jk1bdf42f15e1224e7/・1回目）
+- 資本金：250百万円（https://www.r-agent.com/viewjob/jk1bdf42f15e1224e7/・1回目）
+- 資本金：3百万円（https://www.r-agent.com/viewjob/jkf221005e32bddd22/・1回目）
+- 資本金：10百万円（https://www.r-agent.com/viewjob/jk6da3cc98e2953c98/・1回目）
+- 従業員数：23人（https://www.r-agent.com/viewjob/jkc30edd67f47e3b94/・1回目）
+- 従業員数：538人（https://www.r-agent.com/viewjob/jk1bdf42f15e1224e7/・1回目）
+- 従業員数：1人（https://www.r-agent.com/viewjob/jkf221005e32bddd22/・1回目）
+- 事業内容：相互扶助の理念に基づき、設立された朝日新聞グループの金融機関（https://www.r-agent.com/viewjob/jkc30edd67f47e3b94/・1回目）
+- 事業内容：職業紹介（https://www.r-agent.com/viewjob/jkc30edd67f47e3b94/・1回目）
+- 事業内容：■ビジネスソリューションサービス、ITコンサルティング＆サービス（ERPソリューショ
+　ン、システム基盤の設計/構築、アプリケーションシステムの設計/開発）、
+　パッケージソフトウエア等の開発/販売、コンピュータ及び関連機器の販売。（https://www.r-agent.com/viewjob/jk1bdf42f15e1224e7/・1回目）
+- 代表者：西川　格（https://www.r-agent.com/viewjob/jkc30edd67f47e3b94/・1回目）
+- 代表者：理事長 西川 格（https://www.r-agent.com/viewjob/jkc30edd67f47e3b94/・1回目）
+- 代表者：篠原　洋介（https://www.r-agent.com/viewjob/jk1bdf42f15e1224e7/・1回目）
+- 採用ページ：
+  - 「転職エージェント｜転職ならリクルートエージェント」（https://www.r-agent.com/・1回目）
+  - 「下記サービスの共通リクルートIDで簡単登録」（https://www.r-agent.com/・1回目）
+  - 「リクルートエージェントには、一般の求人サイトには掲載していない」（https://www.r-agent.com/・1回目）
+  - 「また、入社された方が半年以内に退職された場合は、リクルートエージェント側から企業に返金するルールを設けています」（https://www.r-agent.com/・1回目）
+  - 「リクルートエージェントは求人を募集する企業様から頂く、紹介手数料により事業が成り立っています」（https://www.r-agent.com/・1回目）
+  - 「リクルートエージェントが転職サイトやホームページなど、インターネット上に掲載していない、非公開の求人のことを指します」（https://www.r-agent.com/・1回目）
+  - 「リクルートエージェントは、専任アドバイザーが非公開求人の紹介から書類添削・面接対策・年収交渉までをサポートする転職支援サービスであるのに対し、転職サイトは自分で求人を検索・応募し、スピーディかつ自由に活動できるサービスです」（https://www.r-agent.com/・1回目）
+  - 「サポートを重視するならリクルートエージェント、自分のペースで動きたいなら転職サイトが適しています」（https://www.r-agent.com/・1回目）
+  - 「募集のタイミングが明確でないのが中途採用の特徴のひとつ」（https://www.r-agent.com/・1回目）
+  - 「転職エージェントである「リクルートエージェント」と転職サイトの「リクナビNEXT」」（https://www.r-agent.com/・1回目）
+  - 「ハイクラス転職ならリクルートダイレクトスカウト」（https://www.r-agent.com/・1回目）
+  - 「朝日新聞信用組合／業界未経験者歓迎 【事務職】年間休日120日以上/実働7H/残業20h以下 一般事務の中途採用・転職・求人情報｜求人・転職エージェントならリクルートエージェント」（https://www.r-agent.com/viewjob/jkc30edd67f47e3b94/・1回目）
+- 想定年収・給与：
+  - 「26万円～40万円」（https://www.r-agent.com/・1回目）
+  - 「■口座開設に関する各種手続き■申込商品の入力業務（定期預金、住宅ローン等の専用端末への登録）■インターネットバンキングに関する手続き業務■為替事務■朝日新聞グループ企業等の給与振込、経費振込に関する事務処理■DM発送業務■電話による問い合わせ対応 募集職種 ★業界未経験者歓迎★【事務職】年間休日120日以上/実働7H/残業20ｈ以下」（https://www.r-agent.com/・1回目）
+  - 「【人事総務】社員思いの社風/安定性高く、低い離職率/福利厚生充実 福利厚生/労務/給与管理人事」（https://www.r-agent.com/・1回目）
+  - 「35万円～45万円」（https://www.r-agent.com/・1回目）
+  - 「550万円～1000万円」（https://www.r-agent.com/・1回目）
+  - 「400万円～800万円」（https://www.r-agent.com/・1回目）
+  - 「企業名 株式会社日立医薬情報ソリューションズ 求人名 【総務・人事】未経験歓迎/日立グループ/組織運営を支えるゼネラリストをめざす 仕事の内容 入社直後は労務（労務管理・給与計算・安全衛生・福利厚生等）からお任せいたします」（https://www.r-agent.com/・1回目）
+  - 「・初期業務：労働時間管理、給与計算、社会保険対応、福利厚生管理、安全衛生、健康経営推進等をお任せします」（https://www.r-agent.com/・1回目）
+  - 「25万円～31万円」（https://www.r-agent.com/・1回目）
+  - 「25万円～37万5000円」（https://www.r-agent.com/・1回目）
+  - 「35万円～41万6700円」（https://www.r-agent.com/・1回目）
+  - 「30万円～38万5600円」（https://www.r-agent.com/・1回目）
+- 採用人数：
+  - 「2026年3月31日時点 ※求人数＝採用予定人数」（https://www.r-agent.com/・1回目）
+  - 「【採用背景】業務拡大のため、販売管理部の物流事務担当者を1名募集いたします」（https://www.r-agent.com/viewjob/jkc30edd67f47e3b94/・1回目）
+  - 「【採用背景】業務拡大のため、販売管理部の物流事務担当者を1名募集いたします」（https://www.r-agent.com/viewjob/jkf221005e32bddd22/・1回目）
+  - 「【採用背景】業務拡大のため、販売管理部の物流事務担当者を1名募集いたします」（https://www.r-agent.com/viewjob/jk6da3cc98e2953c98/・1回目）
+  - 「【採用背景】業務拡大のため、販売管理部の物流事務担当者を1名募集いたします」（https://www.r-agent.com/viewjob/jk1ba7de7d66e457eb/・1回目）
+  - 「【採用背景】業務拡大のため、販売管理部の物流事務担当者を1名募集いたします」（https://www.r-agent.com/viewjob/jk8da241964b80b950/・1回目）
+  - 「【採用背景】業務拡大のため、販売管理部の物流事務担当者を1名募集いたします」（https://www.r-agent.com/viewjob/jk5c85d151170e7a22/・1回目）
+  - 「【採用背景】業務拡大のため、販売管理部の物流事務担当者を1名募集いたします」（https://www.r-agent.com/viewjob/jk460911fdf75bc2bc/・1回目）
+  - 「【採用背景】業務拡大のため、販売管理部の物流事務担当者を1名募集いたします」（https://www.r-agent.com/viewjob/jk2be76e8f06abf8f7/・1回目）
+  - 「【採用背景】業務拡大のため、販売管理部の物流事務担当者を1名募集いたします」（https://www.r-agent.com/viewjob/jk1dd60eec9ff0aa60/・1回目）
+- 求人媒体：
+  - 「転職エージェントである「リクルートエージェント」と転職サイトの「リクナビNEXT」」（https://www.r-agent.com/・1回目）
+  - 「年間休日120日以上の転職・求人情報｜求人ボックス」（https://xn--pckua2a7gp15o89zb.com/%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5120%E6%97%A5%E4%BB%A5%E4%B8%8A%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「求人ボックスは、検索結果に掲載する求人を通して対価を得ることがあります」（https://xn--pckua2a7gp15o89zb.com/%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5120%E6%97%A5%E4%BB%A5%E4%B8%8A%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「求人ボックスでは、類似する求人が複数ヒットした際に求人を探しやすくなるよう自動で非表示にしています」（https://xn--pckua2a7gp15o89zb.com/%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5120%E6%97%A5%E4%BB%A5%E4%B8%8A%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「求人ボックスでは、求人の要約部分などにAI技術を利用しております」（https://xn--pckua2a7gp15o89zb.com/%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5120%E6%97%A5%E4%BB%A5%E4%B8%8A%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「求人ボックスは、食べログ・価格.com・キナリノなどを運営する株式会社カカクコムが運営しています」（https://xn--pckua2a7gp15o89zb.com/%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5120%E6%97%A5%E4%BB%A5%E4%B8%8A%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「登録ボタンを押すことにより、求人ボックスの」（https://xn--pckua2a7gp15o89zb.com/%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5120%E6%97%A5%E4%BB%A5%E4%B8%8A%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「※規約同意後は、求人ボックスから新着求人やおすすめの求人などの求人情報をご連絡することがあります」（https://xn--pckua2a7gp15o89zb.com/%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5120%E6%97%A5%E4%BB%A5%E4%B8%8A%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「メール受信設定は、求人ボックスからのメールに記載されている配信停止のリンク、またはマイページからいつでも停止できます」（https://xn--pckua2a7gp15o89zb.com/%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5120%E6%97%A5%E4%BB%A5%E4%B8%8A%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「・求人ボックス会員サービスでは、プロフィール情報を保存して効率的に求人に応募ができます」（https://xn--pckua2a7gp15o89zb.com/%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5120%E6%97%A5%E4%BB%A5%E4%B8%8A%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「年間休日120日以上 正社員の転職・求人情報｜求人ボックス」（https://xn--pckua2a7gp15o89zb.com/%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5120%E6%97%A5%E4%BB%A5%E4%B8%8A-%E6%AD%A3%E7%A4%BE%E5%93%A1%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「求人ボックスは、検索結果に掲載する求人を通して対価を得ることがあります」（https://xn--pckua2a7gp15o89zb.com/%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5120%E6%97%A5%E4%BB%A5%E4%B8%8A-%E6%AD%A3%E7%A4%BE%E5%93%A1%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+- 採用の発信：
+  - 「・問題解決能力(ご要望・お悩みにお答えし、様々な状況に適応できる能力が身に付きます◎) ・企画力(自身のアイデアが形になり、お客様サービスにつながることも◎) 【社員インタビュー】https://www.hvf.jp/recruit/staff/ 学歴・資格 学歴：大学院 大学 高専 短大 専修学校 高校 語学力： 資格：」（https://www.r-agent.com/viewjob/jkc30edd67f47e3b94/・1回目）
+  - 「入社後は先輩社員が丁寧に指導し、少しずつ業務を覚えていく教育体制が整っています」（https://www.r-agent.com/viewjob/jkf221005e32bddd22/・1回目）
+  - 「・問題解決能力(ご要望・お悩みにお答えし、様々な状況に適応できる能力が身に付きます◎) ・企画力(自身のアイデアが形になり、お客様サービスにつながることも◎) 【社員インタビュー】https://www.hvf.jp/recruit/staff/ 学歴・資格 学歴：大学院 大学 高専 短大 専修学校 高校 語学力： 資格：」（https://www.r-agent.com/viewjob/jk6da3cc98e2953c98/・1回目）
+  - 「入社後は先輩社員が丁寧に指導し、少しずつ業務を覚えていく教育体制が整っています」（https://www.r-agent.com/viewjob/jk1ba7de7d66e457eb/・1回目）
+  - 「入社後は先輩社員が丁寧に指導し、少しずつ業務を覚えていく教育体制が整っています」（https://www.r-agent.com/viewjob/jk8da241964b80b950/・1回目）
+  - 「・問題解決能力(ご要望・お悩みにお答えし、様々な状況に適応できる能力が身に付きます◎) ・企画力(自身のアイデアが形になり、お客様サービスにつながることも◎) 【社員インタビュー】https://www.hvf.jp/recruit/staff/ 学歴・資格 学歴：大学院 大学 高専 短大 専修学校 高校 語学力： 資格：」（https://www.r-agent.com/viewjob/jk460911fdf75bc2bc/・1回目）
+  - 「入社後は先輩社員が丁寧に指導し、少しずつ業務を覚えていく教育体制が整っています」（https://www.r-agent.com/viewjob/jk2be76e8f06abf8f7/・1回目）
+  - 「入社後は先輩社員が丁寧に指導し、少しずつ業務を覚えていく教育体制が整っています」（https://www.r-agent.com/viewjob/jk1dd60eec9ff0aa60/・1回目）
+  - 「先輩社員のレクチャー体制あり／化粧品工場の倉庫作業・配送スタッフ／実働8時間・年間休日120日以上」（https://xn--pckua2a7gp15o89zb.com/%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5120%E6%97%A5%E4%BB%A5%E4%B8%8A%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「先輩社員のレクチャー体制あり／化粧品工場の倉庫作業・配送スタッフ／実働8時間・年間休日120日以上」（https://xn--pckua2a7gp15o89zb.com/%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5120%E6%97%A5%E4%BB%A5%E4%B8%8A-%E6%AD%A3%E7%A4%BE%E5%93%A1%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+- 人手不足の発言：
+  - 「当社が提供している「タイミー」は、人手不足の解消や職場環境の改善など、企業が抱える「人」に関する経営課題を解決することができます」（https://www.r-agent.com/viewjob/jk8da241964b80b950/・1回目）
+  - 「【仕事内容】残業ほぼなし|17時or18時退勤 20代の若手から30代40代も活躍中! 完全週休2日制で私生活と無理なく両立...」（https://xn--pckua2a7gp15o89zb.com/%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5120%E6%97%A5%E4%BB%A5%E4%B8%8A%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「【仕事内容】残業ほぼなし|17時or18時退勤 20代の若手から30代40代も活躍中! 完全週休2日制で私生活と無理なく両立...」（https://xn--pckua2a7gp15o89zb.com/%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5120%E6%97%A5%E4%BB%A5%E4%B8%8A-%E6%AD%A3%E7%A4%BE%E5%93%A1%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+- 取引先・規模：
+  - 「■オフィスファシリティ管理、レイアウト変更の企画・調整・進行 ■什器・備品の選定、購入、管理 ■ビル管理会社、内装業者、各種取引先との調整 ■社内各部門、グループ会社との各種調整 ■オフィス賃料やファシリティ関連費用のグループ会社間の按分 ■ファシリティ関連費用の請求処理、請求書発行 ■各種稟議書、決定機関への上程資料の作成 ■総務関連の業務フローや運用の改善 ■その他、総務業務全般 募集職種 渋谷【総務担当】GMOグループの働く環境を支える/無料ランチなど福利厚生◎」（https://www.r-agent.com/・1回目）
+  - 「【大阪】総務人事<未経験歓迎> 三菱電機G・社会インフラを支える/年休127日 採用人事」（https://www.r-agent.com/・1回目）
+  - 「企業名 三菱電機プラントエンジニアリング株式会社 求人名 【大阪】総務人事＜未経験歓迎＞◇三菱電機G・社会インフラを支える/年休127日 仕事の内容 総務・人事領域を中心に、これまでのご経験に応じて幅広くお任せします」（https://www.r-agent.com/・1回目）
+  - 「募集職種 【大阪】総務人事＜未経験歓迎＞◇三菱電機G・社会インフラを支える/年休127日」（https://www.r-agent.com/・1回目）
+  - 「必要な経験・能力等 【必須】・図書館業務全般の基礎知識 ・利用支援業務の実務経験 ・リーダー経験 【歓迎】・大学委託業務統括経験 ・大学事務業務で学生や教員と直接接する業務の経験 ★大学の知の拠点を支える重要なポジションです」（https://www.r-agent.com/viewjob/jkc30edd67f47e3b94/・1回目）
+  - 「必要な経験・能力等 【必須】■toB向けのビジネスコミュニケーション経験■プロジェクトやキャンペーンなど施策や制作物に関する進行管理業務経験■Googleスライド、パワーポイントにおける一般的なプレゼンテーションの作成スキル 【歓迎】■ブランド戦略策定、ブランドコミュニケーション設計（toB/toC不問）のご経験■社内上層部へのプレゼンテーション経験 ※現在は事業全体で年間50億円水準の利益貢献を見込んでおりますが、事業輪郭のさらなる拡大を目指し、スポーツに加え音楽等を含むライブエンターテインメント領域全体、およびその周辺バリューチェーンへの事業展開を戦略に掲げ、非連続な成長に向けた取組みを強化しています」（https://www.r-agent.com/viewjob/jkc30edd67f47e3b94/・1回目）
+  - 「■オフィスファシリティ管理、レイアウト変更の企画・調整・進行 ■什器・備品の選定、購入、管理 ■ビル管理会社、内装業者、各種取引先との調整 ■社内各部門、グループ会社との各種調整 ■オフィス賃料やファシリティ関連費用のグループ会社間の按分 ■ファシリティ関連費用の請求処理、請求書発行 ■各種稟議書、決定機関への上程資料の作成 ■総務関連の業務フローや運用の改善 ■その他、総務業務全般 募集職種 渋谷【総務担当】GMOグループの働く環境を支える/無料ランチなど福利厚生◎」（https://www.r-agent.com/viewjob/jkc30edd67f47e3b94/・1回目）
+  - 「【大阪】総務人事<未経験歓迎> 三菱電機G・社会インフラを支える/年休127日 採用人事」（https://www.r-agent.com/viewjob/jkc30edd67f47e3b94/・1回目）
+  - 「企業名 三菱電機プラントエンジニアリング株式会社 求人名 【大阪】総務人事＜未経験歓迎＞◇三菱電機G・社会インフラを支える/年休127日 仕事の内容 総務・人事領域を中心に、これまでのご経験に応じて幅広くお任せします」（https://www.r-agent.com/viewjob/jkc30edd67f47e3b94/・1回目）
+  - 「募集職種 【大阪】総務人事＜未経験歓迎＞◇三菱電機G・社会インフラを支える/年休127日」（https://www.r-agent.com/viewjob/jkc30edd67f47e3b94/・1回目）
+  - 「主な取引先は 国土交通省/中央官庁/地方公共団体/独立行政法人/建設会社等となります」（https://www.r-agent.com/viewjob/jkc30edd67f47e3b94/・1回目）
+  - 「第2新卒歓迎【三菱地所Gr/総合職】転勤無/新卒大手入社者の次のキャリアに 総務事務」（https://www.r-agent.com/viewjob/jkc30edd67f47e3b94/・1回目）
+- 検索結果の抜粋：
+  - 「年休120日以上の求人特集｜デキルコ — FEATURE 年休120日以上の 求人特集 年間休日120日以上の公開求人をまとめています。休日日数だけでなく、土日祝休みか、繁忙期の働き方、残業時間、リモート可否も合わせて見ると、入社後の働き方をイメージしやすくなります。」（https://dekiruko.jp/feature-holiday-120.php・3回目）
+  - 「日華化学株式会社／【福井本社／未経験から人事へ！】新卒採用（高卒... — 日華化学株式会社／【福井本社／未経験から人事へ！】新卒採用（高卒・大卒採用）／年休120日・土日祝／スタンダード上場の求人・求人情報ならdoda（デューダ）。仕事内容など詳しい採用情報や職場の雰囲気が伝わる情報が満載。」（https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3016245537/・3回目）
+  - 「年間休日120日以上の【高卒、新卒】を含む求人・転職情報｜【リクナビ... — 年休120日以上／土日祝休 施設技術者（電気・通信・機械） 西日本高速道路エンジニアリング九州株式会社 NEXCO西日本グループ 年間休日120日以上 安定企業で経験・資格を活かしてキャリアアップ！ 九州外への転勤なし！ 企業ページ」（https://next.rikunabi.com/lst_prf12/kw�����A�V��/・3回目）
+- 売上高：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部16頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部16頁・検索8回）
 
 ## 広島アルミニウム工業
 - 公式URL：https://www.hai.co.jp/（given）
@@ -24409,6 +26813,33 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
   - 「採用 情報｜ 新保電機工業 株式会社 — 採用 情報｜ 新保電機工業 株式会社 新保電機工業 https://shinbo-denki-kogyo.co.jp > recruit > about」（https://shinbo-denki-kogyo.co.jp/recruit/about/・3回目）
   - 「【 新保電機工業 株式会社】の 採用 サイト — 【 新保電機工業 株式会社】の 採用 サイト arwrk.net https://arwrk.net > recruit」（https://arwrk.net/recruit/z0v3vp0yt4aldsd/・3回目）
 
+## 新光プレス紙工業
+- 公式URL：特定できず（not_found）
+- 採用ページ：
+  - 「新光プレス紙工業株式会社の求人・採用情報を掲載」（https://jobcatalog.yahoo.co.jp/company/2000789429/jobs/・3回目）
+  - 「新光プレス紙工業株式会社の転職、求人、採用情報」（https://jobcatalog.yahoo.co.jp/company/2000789429/jobs/・3回目）
+- 想定年収・給与：
+  - 「就職・転職に役立つ新光プレス紙工業株式会社の社員や元従業員による年収・給与、有休消化率などの評判・クチコミや企業ランキング、Q&A、求人情報をリサーチでき、企業分析や採用の調査としてご活用いただけます」（https://jobcatalog.yahoo.co.jp/company/2000789429/jobs/・3回目）
+  - 「大企業だけあって給与や福利厚生は平均以上ではある」（https://jobcatalog.yahoo.co.jp/company/2000789429/jobs/・3回目）
+- 求人媒体：
+  - 「株式会社テクニカルライト 安定性◎公共工事に関する書類の電子化【サポート事務】未経験OK ※応募に当たっては、マイナビ転職の会員登録が必須となっております」（https://jobcatalog.yahoo.co.jp/company/2000789429/jobs/・3回目）
+- 検索結果の抜粋：
+  - 「新光の新卒採用・就職・企業情報 - 就活会議新光プレス紙工業株式会社の転職・企業概要 − 転職ならdoda（デューダ...PRESS KOGYO 採用サイト新光プレス紙工業の求人・採用・転職情報｜Yahoo!しごとカタログ高校生採用サイト | 新光電気工業株式会社採用を知る | PRESS KOGYO 採用サイトプレス工業 (株)【東証プライム市場上場】の新卒採用・会社概要 | マ... — 新光 (メーカー・製造業, 素材（紙・パルプ）／東京都)の新卒採用の企業研究、就活・選考対策情報です。 会社概要から、企業の評判、先輩のESの実例、面接で聞かれた質問まで、本選考・インターンシップの対策情報を掲載しています。 新光プレス紙工業株式会社の求人や従業員・年収・事業内容・業績・業種・所在地の情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで422,745社の企業情」（https://syukatsu-kaigi.jp/companies/80846・3回目）
+  - 「新光プレス紙工業株式会社の転職・企業概要 − 転職ならdoda（デューダ...PRESS KOGYO 採用サイト新光プレス紙工業の求人・採用・転職情報｜Yahoo!しごとカタログ高校生採用サイト | 新光電気工業株式会社採用を知る | PRESS KOGYO 採用サイトプレス工業 (株)【東証プライム市場上場】の新卒採用・会社概要 | マ... — 新光プレス紙工業株式会社の求人や従業員・年収・事業内容・業績・業種・所在地の情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで422,745社の企業情報が無料で検索・閲覧できます。 Feb 29, 2020 · インターンシップ情報を随時更新していきます！ 2025年卒向けの採用選考も、引き続き行っております。 2020年2月29日採用ページをリニューアルしました。 2020年2月29日 総合職の新卒採用を開始してお」（https://doda.jp/DodaFront/View/Company/j_id__10141700864/・3回目）
+  - 「新光プレス紙工業の求人・採用・転職情報｜Yahoo!しごとカタログ — 就職・転職に役立つ新光プレス紙工業株式会社の社員や元従業員による年収・給与、有休消化率などの評判・クチコミや企業ランキング、Q&A、求人情報をリサーチでき、企業分析や採用の調査としてご活用いただけます。」（https://jobcatalog.yahoo.co.jp/company/2000789429/jobs/・3回目）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部11頁・検索11回）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部11頁・検索11回）
+- 資本金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部11頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部11頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部11頁・検索11回）
+- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部11頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部11頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部11頁・検索11回）
+- 採用人数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部11頁・検索11回）
+- 採用の発信：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部11頁・検索11回）
+- 人手不足の発言：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部11頁・検索11回）
+- 取引先・規模：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部11頁・検索11回）
+
 ## 新光産業
 - 公式URL：https://www.ube-shinko.co.jp/（search:ddgs:bing:新光産業）
 - 所在地：山口県（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=222380&recruitingCourseId=27015716・3回目）
@@ -24717,6 +27148,84 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 主要取引先：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部18頁・検索8回）
 - 採用人数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部18頁・検索8回）
 - 人手不足の発言：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部18頁・検索8回）
+
+## 新来島どっく
+- 公式URL：https://www.skdy.co.jp/（given）
+- 所在地：愛媛県今治市大西町新町甲９４５番地（https://jobcatalog.yahoo.co.jp/company/1100001616/salaries/・3回目）
+- 所在地：愛媛県今治市大西町新町甲945番地（https://en-hyouban.com/company/10005043439/salary/・3回目）
+- 所在地：799-2293（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+- 創業年度：設立年：1902年（https://en-hyouban.com/company/10005043439/salary/・3回目）
+- 創業年度：創業：1902年（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+- 創業年度：設立：1987年5月28日（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+- 資本金：17億3,700万円（https://jobcatalog.yahoo.co.jp/company/1100001616/salaries/・3回目）
+- 資本金：1738百万円（https://en-hyouban.com/company/10005043439/salary/・3回目）
+- 資本金：17億3750万円（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+- 従業員数：750人（https://jobcatalog.yahoo.co.jp/company/1100001616/salaries/・3回目）
+- 従業員数：802名（https://en-hyouban.com/company/10005043439/salary/・3回目）
+- 従業員数：850名（2025年3月）（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+- 売上高：1565.75億円（https://jobcatalog.yahoo.co.jp/company/1100001616/salaries/・3回目）
+- 売上高：1491億円（2025年3月期）（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+- 事業内容：【各種船舶の建造、修理及び解体、船舶用機器ならびにその他諸機械の製造及び修理】 ■新造船事業 自動車運搬船・ケミカルタンカー・プロダクトタンカー・バルクキャリア・RORO船・セメント運搬船・レール運搬船　等「専用船」や「特殊船」に強みを持つ当社。 自動車運搬船・ケミカルタンカーの建造実績は世界でもトップクラス！ 特許及び実用新案の出願数も440件と、業界でも屈指の数字。 ■修繕船事業 グループで５拠点９ドックと瀬戸内を中心とした国内最大級の拠点数を活かし、小型船から大型船まであらゆるニーズに応えることができます。 年間350隻を超える修繕隻数があり、経験に基づく確かな技術で船の修理を行っています。（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+- 代表者：森 克司（https://jobcatalog.yahoo.co.jp/company/1100001616/salaries/・3回目）
+- 代表者：森克司（https://en-hyouban.com/company/10005043439/salary/・3回目）
+- 採用ページ：
+  - 「(株)新来島どっくの新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+  - 「https://www.skdy.co.jp/recruit/」（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+  - 「過去3年間の新卒採用者数（男女別）」（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+  - 「過去3年間の新卒採用者数・」（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+  - 「エントリーシート提出の際に、募集コースを選択いただきます」（https://job.mynavi.jp/27/pc/search/corp98792/recruiting_course27063833/recruiting_course.html・3回目）
+  - 「エントリーシート、卒業（見込）証明書、成績証明書、推薦状（任意）」（https://job.mynavi.jp/27/pc/search/corp98792/recruiting_course27063833/recruiting_course.html・3回目）
+- 想定年収・給与：
+  - 「新来島どっくの年収・給与・昇給・ボーナス（16件）｜Yahoo!しごとカタログ」（https://jobcatalog.yahoo.co.jp/company/1100001616/salaries/・3回目）
+  - 「全105件の年収・給与情報を集計した結果、」（https://jobcatalog.yahoo.co.jp/company/1100001616/salaries/・3回目）
+  - 「新来島どっくの平均年収は444万円でした」（https://jobcatalog.yahoo.co.jp/company/1100001616/salaries/・3回目）
+  - 「これはメーカー「自動車・輸送機器関連」業界の平均（496万円）より52万円下回っています」（https://jobcatalog.yahoo.co.jp/company/1100001616/salaries/・3回目）
+  - 「30代で400万円を超え、その後40代で500万円を超えている」（https://jobcatalog.yahoo.co.jp/company/1100001616/salaries/・3回目）
+  - 「30代から40代にかけての伸びが最も大きく、127万円増加しています」（https://jobcatalog.yahoo.co.jp/company/1100001616/salaries/・3回目）
+  - 「300〜430万円」（https://jobcatalog.yahoo.co.jp/company/1100001616/salaries/・3回目）
+  - 「410〜590万円」（https://jobcatalog.yahoo.co.jp/company/1100001616/salaries/・3回目）
+  - 「520〜760万円」（https://jobcatalog.yahoo.co.jp/company/1100001616/salaries/・3回目）
+  - 「※平均年収を基に、一般的な振れ幅（業界別係数）を考慮して算出した理論値です」（https://jobcatalog.yahoo.co.jp/company/1100001616/salaries/・3回目）
+  - 「400万円以上」（https://jobcatalog.yahoo.co.jp/company/1100001616/salaries/・3回目）
+  - 「※Yahoo!しごとカタログが取得している年収データを元に順位を算出しています」（https://jobcatalog.yahoo.co.jp/company/1100001616/salaries/・3回目）
+- 採用人数：
+  - 「※上記の他の大学・短期大学・専門学校からの採用実績もございます」（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+  - 「設計部門（文理不問）（※残り採用予定人数10名）」（https://job.mynavi.jp/27/pc/search/corp98792/recruiting_course27063833/recruiting_course.html・3回目）
+  - 「造修部門 （※残り採用予定人数5名）」（https://job.mynavi.jp/27/pc/search/corp98792/recruiting_course27063833/recruiting_course.html・3回目）
+- 求人媒体：
+  - 「(株)新来島どっくの新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+  - 「外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！」（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+  - 「(株)新来島どっくの採用データ | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp98792/recruiting_course27063833/recruiting_course.html・3回目）
+- 採用の発信：
+  - 「【オンライン説明会】新来島どっくオンライン会社説明会！」（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+  - 「新入社員に教育担当として先輩社員が必ず1名つき、業務内容や必要な知識を引き継ぐ体制を取っております」（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+  - 「【オンライン説明会】新来島どっくオンライン会社説明会！」（https://job.mynavi.jp/27/pc/search/corp98792/recruiting_course27063833/recruiting_course.html・3回目）
+- 人手不足の発言：
+  - 「【地方の逆襲、AIで世界へ】 人材不足を強みに変えるGemini活用術」（https://note.com/yo4shi80/n/n9dbe0f7e37e9・3回目）
+- 取引先・規模：
+  - 「愛媛造船サービスで働いている方いらっしゃいますか？？ ボーナス三回出るようですが１回あたりいくら貰えるのか、退職金は30年ほど働いてい...」（https://jobcatalog.yahoo.co.jp/company/1100001616/salaries/・3回目）
+  - 「1565.75億円」（https://jobcatalog.yahoo.co.jp/company/1100001616/salaries/・3回目）
+  - 「72.15億円」（https://jobcatalog.yahoo.co.jp/company/1100001616/salaries/・3回目）
+  - 「1491億円（2025年3月期）」（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+  - 「新来島どっくは120年以上の歴史を持つ造船専業メーカーです」（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+  - 「グループで５拠点９ドックと瀬戸内を中心とした国内最大級の拠点数を活かし、小型船から大型船まであらゆるニーズに応えることができます」（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+  - 「本社・大西工場／東京事務所・阪神事務所・九州事務所」（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+  - 「西武造船株式会社（現(株)新来島宇品どっく）がグループ入り」（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+  - 「サノヤス造船株式会社（現(株)新来島サノヤス造船）がグループ入り」（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+  - 「年商1,000億円以上もしくは、学生に認知度の高い製品あり」（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+  - 「工場で実際に大きな船舶を建造する際の生産管理や検査対応が主な業務となります」（https://job.mynavi.jp/27/pc/search/corp98792/recruiting_course27063833/recruiting_course.html・3回目）
+  - 「造船業の話を見ていると、「グループで再編」「6社で一体運営」「DXとAIで効率化」といった言葉が並びます」（https://note.com/yo4shi80/n/n9dbe0f7e37e9・3回目）
+- 検索結果の抜粋：
+  - 「新来島どっくの年収・給与・昇給・ボーナス（16件）｜Yahoo!しごとカ...新来島どっくの年収・給与 平均年収も - エン カイシャの評判株式会社新来島どっく の給与 | Indeed (インディード)新来島どっくの年収・給与5件｜平均・中央値・ボーナス・職種・役職・...18 件の 新来島どっく の求人 | Indeed (インディード)株式会社新来島どっくの求人・採用情報｜求人ボックス「年収：440万円 年収内訳（基本給：264万円、残業代：72万円、賞与：... — 株式会社新来島どっくの社員・元従業員による平均年収は、回答者は444万円。 年収・給与・ボーナスなどの待遇に関する評判・クチコミを掲載（16件）。 職種、雇用形態別、年代別などの平均年収も掲載。 株式会社新来島どっくの正社員34人の回答によると平均年収は424万円、年収範囲は250～750万円です。 また、集計期間は2」（https://jobcatalog.yahoo.co.jp/company/1100001616/salaries/・3回目）
+  - 「新来島どっくの年収・給与 平均年収も - エン カイシャの評判株式会社新来島どっく の給与 | Indeed (インディード)新来島どっくの年収・給与5件｜平均・中央値・ボーナス・職種・役職・...18 件の 新来島どっく の求人 | Indeed (インディード)株式会社新来島どっくの求人・採用情報｜求人ボックス「年収：440万円 年収内訳（基本給：264万円、残業代：72万円、賞与：... — 株式会社新来島どっくの正社員34人の回答によると平均年収は424万円、年収範囲は250～750万円です。 また、集計期間は2018年～2026年で回答者の平均年齢は31.1歳です。 株式会社新来島どっくの平均月給の範囲は約 22.0万円／月（製造技術者）から約 31.3万円／月（工程管理）です。 株式会社新来島どっくの平均年収は、約541万円 (船舶設計) 〜648万円 (税務会計スタッフ) で」（https://en-hyouban.com/company/10005043439/salary/・3回目）
+  - 「株式会社新来島どっく の給与 | Indeed (インディード) — 株式会社新来島どっくの平均月給の範囲は約 22.0万円／月（製造技術者）から約 31.3万円／月（工程管理）です。 株式会社新来島どっくの平均年収は、約541万円 (船舶設計) 〜648万円 (税務会計スタッフ) です。」（https://jp.indeed.com/cmp/株式会社新来島どっく/salaries・3回目）
+  - 「新来島どっくの年収・給与5件｜平均・中央値・ボーナス・職種・役職・... — 新来島どっくの社員・元社員5人の年収・給与データを掲載中。平均年収は492万円、中央値は500万円、年収範囲は400万〜644万円、平均年齢は30.2歳です。100万円ごとの年収の分布では400万円台が2人（40.0%）で最も多くなっています。ボーナス（賞与）を受け取っている人の割合と年間平均、年齢別 ...」（https://openmoney.jp/corporations/9931/salaries・3回目）
+  - 「株式会社新来島どっくの求人・採用情報｜求人ボックス — 月給27万円～38万円 / 賞与あり・昇給あり 正社員 【仕事内容】< 新来島どっく グループ全体のDX推進を牽引するシステム開発をお任せします!...【最寄り駅】 新来島どっく グループの安定基盤でDXを推進する企業 学歴不問 急募 IoT 家族手当 UIターン 交通費 ...」（https://xn--pckua2a7gp15o89zb.com/株式会社新来島どっくの仕事・3回目）
+  - 「リクルート 株式会社 新来島どっく採用サイト — 仕事に本気で向き合った証です。 新来島どっくには、 そんな顔で働く人たちがいます。 自分の手でつくった船を見上げ、 誇らしさと少しの切なさを胸に、 「さあ、次の仕事だ」と また現場へ向かう。 ここで、あなたも 胸を張れる仕事をしてみませんか。」（https://www.skdy.co.jp/recruit/・3回目）
+  - 「(株)新来島どっくの新卒採用・会社概要 | マイナビ2027(株)新来島どっくの採用データ | マイナビ2027株式会社 新来島どっく｜造船の未来を拓く採用情報 | 株式会社新来島広島どっく募集一覧│株式会社新来島広島どっく採用サイト株式会社新来島どっくの求人・採用情報｜求人ボックス — Aug 28, 2026 · 会社紹介記事 新来島どっくでは、自動車運搬船やケミカルタンカーを始め、お客様のご要望に沿った船を一隻一隻建造しています。 日本初の大型LNG燃料自動車運搬船。 環境に対応した船づくりも積極的に行っています。 Aug 28, 2026 · 仕事紹介記事 新来島どっくでは、仕事の中で幅広い種類の船に出会います。 社内では営業から設計・建造に至るまで、多様な特性を持った社員が活躍しています。 コツコツ派のあなたも、ワイワイ働きたいあなたも、それぞれ活躍の場が必ずあります。 株式会社」（https://job.mynavi.jp/27/pc/search/corp98792/outline.html・3回目）
+  - 「(株)新来島どっくの採用データ | マイナビ2027株式会社 新来島どっく｜造船の未来を拓く採用情報 | 株式会社新来島広島どっく募集一覧│株式会社新来島広島どっく採用サイト株式会社新来島どっくの求人・採用情報｜求人ボックス — Aug 28, 2026 · 仕事紹介記事 新来島どっくでは、仕事の中で幅広い種類の船に出会います。 社内では営業から設計・建造に至るまで、多様な特性を持った社員が活躍しています。 コツコツ派のあなたも、ワイワイ働きたいあなたも、それぞれ活躍の場が必ずあります。 株式会社新来島どっく×マイナビ転職 2023年12月16日（土）四国UIJターン就職交流会（大阪）参加のお知らせ キャリア採用の募集開始 2024年高校卒業予定者 採用情報 夏期インターンシップ募集のお知らせ 2024卒採用選考のお知らせ 事業内容・会社情報・社員紹介・採用・リクルートなどの情報を掲載して」（https://job.mynavi.jp/27/pc/search/corp98792/recruiting_course27063833/recruiting_course.html・3回目）
+  - 「株式会社 新来島どっく｜造船の未来を拓く — 株式会社新来島どっく×マイナビ転職 2023年12月16日（土）四国UIJターン就職交流会（大阪）参加のお知らせ キャリア採用の募集開始 2024年高校卒業予定者 採用情報 夏期インターンシップ募集のお知らせ 2024卒採用選考のお知らせ」（https://www.skdy.co.jp/category/recruit/・3回目）
+- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索8回）
 
 ## 新来島サノヤス造船
 - 公式URL：https://www.sanoyas.skdy.co.jp/（given）
@@ -25167,6 +27676,90 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 求人媒体：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索8回）
 - 採用の発信：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索8回）
 
+## 日本クライメイトシステムズ
+- 公式URL：https://www.jcsaircon.co.jp/（given）
+- 所在地：本社 〒739-0153 広島県東広島市吉川工業団地3番11号（https://www.jcsaircon.co.jp/company/・1回目）
+- 所在地：広島県東広島市吉川工業団地3番11号（https://en-hyouban.com/company/10003167015/salary/・3回目）
+- 所在地：739-0153（https://job.mynavi.jp/27/pc/search/corp39324/outline.html・3回目）
+- 創業年度：設立：1987年6月9日（https://www.jcsaircon.co.jp/company/・1回目）
+- 創業年度：設立年：1987年（https://en-hyouban.com/company/10003167015/salary/・3回目）
+- 創業年度：設立：1987年6月9日（https://job.mynavi.jp/27/pc/search/corp39324/outline.html・3回目）
+- 資本金：30億円（https://www.jcsaircon.co.jp/company/・1回目）
+- 資本金：3000百万円（https://en-hyouban.com/company/10003167015/salary/・3回目）
+- 資本金：30億円（https://job.mynavi.jp/27/pc/search/corp39324/outline.html・3回目）
+- 従業員数：977名（2026年4月現在）※海外グループ会社含む（https://www.jcsaircon.co.jp/company/・1回目）
+- 従業員数：451名（https://en-hyouban.com/company/10003167015/salary/・3回目）
+- 従業員数：1.008名(海外グループ含む）（https://job.mynavi.jp/27/pc/search/corp39324/outline.html・3回目）
+- 売上高：国内拠点：430億円 ※2026年3月期 海外拠点：85億円 ※2025年12月期（https://www.jcsaircon.co.jp/company/・1回目）
+- 売上高：562億円（2025年3月実績）（https://job.mynavi.jp/27/pc/search/corp39324/outline.html・3回目）
+- 事業内容：自動車用及び産業機器用の空調、温調及び冷却機器に関する、 開発･製造及び販売（https://www.jcsaircon.co.jp/company/・1回目）
+- 事業内容：・カーエアコンシステム ・ヒーターコア、エバポレータ、コンデンサ ・パワートレインクーリング（PTC） ・バッテリークーラー ・産業機器用熱交換器（https://www.jcsaircon.co.jp/company/・1回目）
+- 事業内容：自動車用及び産業機器用の空調・温調および冷却機器に関する開発・製造・販売 【主要製品】 ・カーエアコンシステム ・コンデンサー ・エバポレーター ・ヒーターコア ・産業機器用熱交換器 ・パワートレインクーリング（PTC） ・バッテリークーラー（https://job.mynavi.jp/27/pc/search/corp39324/outline.html・3回目）
+- 代表者：沼 聖司（https://www.jcsaircon.co.jp/company/・1回目）
+- 代表者：中三川 勉（https://www.jcsaircon.co.jp/company/・1回目）
+- 代表者：佐伯 克則（https://www.jcsaircon.co.jp/company/・1回目）
+- 主要取引先：・マツダ株式会社様 ・Hanon Systemsグループ（日本、欧州、中国、ASEAN 他）様 ・サンデン株式会社様（https://www.jcsaircon.co.jp/company/・1回目）
+- 主要取引先：【順不同】 ・マツダ(株) ・Hanon Systemsグループ ・サンデン(株)（https://job.mynavi.jp/27/pc/search/corp39324/outline.html・3回目）
+- 採用ページ：
+  - 「RECRUITING INFORMATION」（https://www.jcsaircon.co.jp/recruit/・1回目）
+  - 「RECRUITING INFORMATION」（https://www.jcsaircon.co.jp/recruit/person/・1回目）
+  - 「RECRUITING INFORMATION」（https://www.jcsaircon.co.jp/recruit/workplace/・1回目）
+  - 「RECRUITING INFORMATION」（https://www.jcsaircon.co.jp/recruit/diversity/・1回目）
+  - 「RECRUITING INFORMATION」（https://www.jcsaircon.co.jp/recruit/benefits/・1回目）
+  - 「株式会社日本クライメイトシステムズの求人・採用情報【2件】｜求人の平均年収475万円・評判」（https://jobree.co.jp/companies/405f4e34-58d4-4362-9705-8882549f5697・3回目）
+  - 「(株)日本クライメイトシステムズの新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp39324/outline.html・3回目）
+  - 「過去3年間の新卒採用者数（男女別）」（https://job.mynavi.jp/27/pc/search/corp39324/outline.html・3回目）
+  - 「過去3年間の新卒採用者数・」（https://job.mynavi.jp/27/pc/search/corp39324/outline.html・3回目）
+  - 「recruit@jcsaircon.co.jp」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=39324&recruitingCourseId=27064575・3回目）
+- 想定年収・給与：
+  - 「日本クライメイトシステムズの年収・給与 平均年収 - エン カイシャの評判」（https://en-hyouban.com/company/10003167015/salary/・3回目）
+  - 「株式会社日本クライメイトシステムズの年収・給与」（https://en-hyouban.com/company/10003167015/salary/・3回目）
+  - 「株式会社日本クライメイトシステムズの年収データ」（https://en-hyouban.com/company/10003167015/salary/・3回目）
+  - 「株式会社日本クライメイトシステムズの正社員12人の回答によると平均年収は546万円、年収範囲は300～1050万円です」（https://en-hyouban.com/company/10003167015/salary/・3回目）
+  - 「カイシャの評判に掲載されている年収情報は、当該企業で就業経験のある方を対象としたアンケートを基に、有効な回答かつ、雇用形態が正社員の回答から算出しております」（https://en-hyouban.com/company/10003167015/salary/・3回目）
+  - 「当サイトの年収情報は、ユーザーの皆様に投稿いただいた時点の回答に基づいているため、実際の年収とは異なる可能性があります」（https://en-hyouban.com/company/10003167015/salary/・3回目）
+  - 「株式会社日本クライメイトシステムズの年収・給与についての口コミ」（https://en-hyouban.com/company/10003167015/salary/・3回目）
+  - 「この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？」（https://en-hyouban.com/company/10003167015/salary/・3回目）
+  - 「TOEICの点数がないと昇給できない…と言いつつ例外昇進があつたりし、筋が通っていない」（https://en-hyouban.com/company/10003167015/salary/・3回目）
+  - 「給与水準：給与・ボーナスはかなり高いレ...」（https://en-hyouban.com/company/10003167015/salary/・3回目）
+  - 「給与水準：給与・ボーナスはかなり高いレベルにあると思います」（https://en-hyouban.com/company/10003167015/salary/・3回目）
+  - 「給与水準：年齢とともに着実に給与もあが...」（https://en-hyouban.com/company/10003167015/salary/・3回目）
+- 求人媒体：
+  - 「(株)日本クライメイトシステムズの新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp39324/outline.html・3回目）
+  - 「外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！」（https://job.mynavi.jp/27/pc/search/corp39324/outline.html・3回目）
+  - 「(株)日本クライメイトシステムズの採用データ | マイナビ2027」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=39324&recruitingCourseId=27064575・3回目）
+- 採用の発信：
+  - 「2028年新卒理系学生向け 夏インターンシップ開催」（https://www.jcsaircon.co.jp/recruit/・1回目）
+  - 「2027年卒向け 会社説明会開催日程のお知らせ」（https://www.jcsaircon.co.jp/recruit/・1回目）
+  - 「オンラインでも、会社説明会参加可！」（https://job.mynavi.jp/27/pc/search/corp39324/outline.html・3回目）
+  - 「対面とオンラインで、会社説明会を実施中です」（https://job.mynavi.jp/27/pc/search/corp39324/outline.html・3回目）
+- 取引先・規模：
+  - 「【東広島マツダ会】 2026酒まつりへの広告協賛」（https://www.jcsaircon.co.jp/・1回目）
+  - 「この事業計画を確実に遂行することで2030年代に売上高1000億円を超える企業へとステップアップします」（https://www.jcsaircon.co.jp/company/・1回目）
+  - 「国内拠点：430億円」（https://www.jcsaircon.co.jp/company/・1回目）
+  - 「海外拠点：85億円」（https://www.jcsaircon.co.jp/company/・1回目）
+  - 「マツダ、松下電器産業、フォードの」（https://www.jcsaircon.co.jp/company/・1回目）
+  - 「資本金30億円」（https://www.jcsaircon.co.jp/company/・1回目）
+  - 「マツダ 10億円」（https://www.jcsaircon.co.jp/company/・1回目）
+  - 「松下電器産業 10億円」（https://www.jcsaircon.co.jp/company/・1回目）
+  - 「フォード 10億円」（https://www.jcsaircon.co.jp/company/・1回目）
+  - 「「空調」という人間が感じる快適性の原点に係わる開発領域で、異業種異国籍の名だたる会社（マツダ、松下電器産業、フォード）の英知を結集し、高品質の先端技術を織込んだ「自動車用エアコンシステム」の開発・製造・販売を行い、競争力のある事業に発展させることを目的とし、1987年6月9日に設立される」（https://www.jcsaircon.co.jp/company/・1回目）
+  - 「※1987年5月30日、米国ロサンゼルスにて当時のマツダ、松下電器産業、フォードの社長が集結し、合弁会社設立の調印式が行われた」（https://www.jcsaircon.co.jp/company/・1回目）
+  - 「本社社屋、工場、実験棟が完成」（https://www.jcsaircon.co.jp/company/・1回目）
+- 検索結果の抜粋：
+  - 「株式会社日本クライメイトシステムズ の給与 | Indeed (インディード) — 株式会社日本クライメイトシステムズの平均年収は、約380万円 (設備スタッフ) 〜748万円 (工場長) です。 株式会社日本クライメイトシステムズの平均月給の範囲は約 19.0万円／月（技術者）から約 47.4万円／月（工場長）です。」（https://jp.indeed.com/cmp/株式会社日本クライメイトシステムズ/salaries・3回目）
+  - 「日本クライメイトシステムズの年収・給与 平均年収も - エン カイシャ...株式会社日本クライメイトシステムズの求人・中途採用情報【2件】｜評...株式会社日本クライメイトシステムズ の 広島県 東広島市 での給与 | ...株式会社日本クライメイトシステムズの求人・仕事・採用｜スタンバイ...日本クライメイトシステムズの年収・給与・昇給・ボーナス｜Yahoo!し...採用案内 | 株式会社日本クライメイトシステムズ — 株式会社日本クライメイトシステムズの平均年収は546万円、年収範囲は300～1050万円です（12人の正社員の回答）。年収・給与に関する口コミを7件掲載中。「エン カイシャの評判（旧ライトハウス）」。 株式会社日本クライメイトシステムズの求人・中途採用情報を2件掲載。職種・勤務地・給与を一覧で確認できます。評判・口コミは3件掲載。平均年収は475万円。平均月収は39万円。」（https://en-hyouban.com/company/10003167015/salary/・3回目）
+  - 「株式会社日本クライメイトシステムズの求人・中途採用情報【2件】｜評...株式会社日本クライメイトシステムズ の 広島県 東広島市 での給与 | ...株式会社日本クライメイトシステムズの求人・仕事・採用｜スタンバイ...日本クライメイトシステムズの年収・給与・昇給・ボーナス｜Yahoo!し...採用案内 | 株式会社日本クライメイトシステムズ — 株式会社日本クライメイトシステムズの求人・中途採用情報を2件掲載。職種・勤務地・給与を一覧で確認できます。評判・口コミは3件掲載。平均年収は475万円。平均月収は39万円。 株式会社日本クライメイトシステムズの平均年収は、約380万円 (設備スタッフ) 〜753万円 (製造技術) です。 株式会社日本クライメイトシステムズの平均月給の範囲は約 19.0万円／月（技術者）から約 47.4万円／月（工場長）です。 株式会社日本クライメイトシステムズ 」（https://jobree.co.jp/companies/405f4e34-58d4-4362-9705-8882549f5697・3回目）
+  - 「株式会社日本クライメイトシステムズ の 広島県 東広島市 での給与 | ... — 株式会社日本クライメイトシステムズの平均年収は、約380万円 (設備スタッフ) 〜753万円 (製造技術) です。 株式会社日本クライメイトシステムズの平均月給の範囲は約 19.0万円／月（技術者）から約 47.4万円／月（工場長）です。」（https://jp.indeed.com/cmp/株式会社日本クライメイトシステムズ/salaries?location=JP/J34/J4342122・3回目）
+  - 「株式会社日本クライメイトシステムズの求人・仕事・採用｜スタンバイ... — 株式会社日本クライメイトシステムズ 広島県 東広島市 年収430万円〜600万円 / 賞与・昇給あり 土日休み / 週休2日制 交通費支給 長期休暇あり 年間休日120日以上 フレックスタイム制 時短勤務あり 転勤なし 大手企業 退職金制度あり 残業手当あり 職場内禁煙 ...」（https://jp.stanby.com/r_f6768dc5c799f4a48109eaea0799d4eb・3回目）
+  - 「(株)日本クライメイトシステムズの新卒採用・会社概要 | マイナビ2027募集要項 | 株式会社日本クライメイトシステムズ(株)日本クライメイトシステムズの採用データ | マイナビ2027日本クライメイトシステムズの新卒採用・就職・会社概要とクチコミ株式会社 日本クライメイトシステムズ本社 の新卒採用・企業情報｜理...株式会社日本クライメイトシステムズ の求人 — Sep 22, 2026 · (株)日本クライメイトシステムズの会社概要ページです。マイナビ2027は、(株)日本クライメイトシステムズの採用情報や企業情報で、就職活動をサポートします。 新卒採用 自動車業界は100年に一度の大変革期。当社は車のサーマルマネジメントでオンリーワン企業を目指しています。もっと前に、もっと早く歩みを進めていきたい…当社では好奇心、探求心に満ち溢れた若手人材を求めています。Let's work to」（https://job.mynavi.jp/27/pc/search/corp39324/outline.html・3回目）
+  - 「募集要項 | 株式会社日本クライメイトシステムズ(株)日本クライメイトシステムズの採用データ | マイナビ2027日本クライメイトシステムズの新卒採用・就職・会社概要とクチコミ株式会社 日本クライメイトシステムズ本社 の新卒採用・企業情報｜理...株式会社日本クライメイトシステムズ の求人 — 新卒採用 自動車業界は100年に一度の大変革期。当社は車のサーマルマネジメントでオンリーワン企業を目指しています。もっと前に、もっと早く歩みを進めていきたい…当社では好奇心、探求心に満ち溢れた若手人材を求めています。Let's work together！ (株)日本クライメイトシステムズの採用データページです。マイナビ2027は、 (株)日本クライメイトシステムズの採用情報や企業情報で、就職活動をサポートします。 日本クライメイトシステムズの概要、企業研究、就活対策情報です。 最新のインターンシッ」（https://www.jcsaircon.co.jp/recruit/requirements/・3回目）
+  - 「(株)日本クライメイトシステムズの採用データ | マイナビ2027日本クライメイトシステムズの新卒採用・就職・会社概要とクチコミ株式会社 日本クライメイトシステムズ本社 の新卒採用・企業情報｜理...株式会社日本クライメイトシステムズ の求人 — (株)日本クライメイトシステムズの採用データページです。マイナビ2027は、 (株)日本クライメイトシステムズの採用情報や企業情報で、就職活動をサポートします。 日本クライメイトシステムズの概要、企業研究、就活対策情報です。 最新のインターンシップ ・説明会情報の他、ES・GD・面接・インターン・OB訪問・リクルーターの選考内容と先輩内定者の回答例を掲載しています。 株式会社 日本クライメイトシステムズ 本社のお仕事情報ならコグナビ。フォーラムエンジニアリングが運営する、機械・電気・電子系エンジニア専門の転職サイト。最先端AIによるマッチングで、」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=39324&recruitingCourseId=27064575・3回目）
+  - 「日本クライメイトシステムズの新卒採用・就職・会社概要とクチコミ — 日本クライメイトシステムズの概要、企業研究、就活対策情報です。 最新のインターンシップ ・説明会情報の他、ES・GD・面接・インターン・OB訪問・リクルーターの選考内容と先輩内定者の回答例を掲載しています。」（https://www.onecareer.jp/companies/52064・3回目）
+  - 「株式会社 日本クライメイトシステムズ本社 の新卒採用・企業情報｜理... — 株式会社 日本クライメイトシステムズ 本社のお仕事情報ならコグナビ。フォーラムエンジニアリングが運営する、機械・電気・電子系エンジニア専門の転職サイト。最先端AIによるマッチングで、あなたとお仕事の相性が分かります。」（https://www.cognavi.jp/catalog/002759/000001/?new_grad=1&kyujinId=15404・3回目）
+- 採用人数：記載なし（3回確認済み：公式11頁／PDF・画像4件／外部13頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式11頁／PDF・画像4件／外部13頁・検索8回）
+
 ## 日本ケッチェン
 - 公式URL：https://www.nippon-ketjen.co.jp/（given）
 - 採用ページ：
@@ -25417,6 +28010,89 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
   - 「新卒 新卒 正社員 日本テクノロジーソリューション株式会社 の求人 — 新卒 新卒 正社員 日本テクノロジーソリューション株式会社の採用・就職情報を890件掲載中。さまざまな業種や規模の企業が積極採用中。Indeed なら希望の年収や働き方などあなたの条件に合う仕事が見つかります」（https://jp.indeed.com/q-新卒-新卒-正社員-日本テクノロジーソリューション株式会社-求人.html・3回目）
 - 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部24頁・検索8回）
 - 採用人数：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部24頁・検索8回）
+
+## 日本デリバリーサービス
+- 公式URL：https://www.jdscorp.co.jp/（given）
+- 所在地：広島県福山市御幸町上岩成614-1（https://tenshoku.mynavi.jp/jobinfo-247869-3-7-1/・3回目）
+- 所在地：720-0001（https://job.mynavi.jp/27/pc/search/corp247671/outline.html・3回目）
+- 所在地：広島県福山市御幸町上岩成614-1（https://job.mynavi.jp/27/pc/search/corp247671/outline.html・3回目）
+- 創業年度：設立：1987年7月（https://tenshoku.mynavi.jp/jobinfo-247869-3-7-1/・3回目）
+- 創業年度：設立：1987年7月（昭和62年7月）（https://job.mynavi.jp/27/pc/search/corp247671/outline.html・3回目）
+- 資本金：3,000万円（https://tenshoku.mynavi.jp/jobinfo-247869-3-7-1/・3回目）
+- 資本金：3,000万円（https://job.mynavi.jp/27/pc/search/corp247671/outline.html・3回目）
+- 従業員数：57名（https://tenshoku.mynavi.jp/jobinfo-247869-3-7-1/・3回目）
+- 従業員数：61名（2025年10月現在）（https://job.mynavi.jp/27/pc/search/corp247671/outline.html・3回目）
+- 売上高：16億円（2025年6月期）（https://job.mynavi.jp/27/pc/search/corp247671/outline.html・3回目）
+- 売上高：16億円（2025年6月）（https://job.mynavi.jp/27/pc/search/corp247671/outline.html・3回目）
+- 事業内容：カジュアルウェアの企画・提案・製造・検査・出荷（https://tenshoku.mynavi.jp/jobinfo-247869-3-7-1/・3回目）
+- 事業内容：〇カジュアルウェアの企画・提案・製造・検査・出荷 国内外のアパレルブランドを受け持ち、製品のサンプル作成から納品までの客先打ち合わせ、工場選定、生産管理などの一連の流れをお任せ！ 1987年に設立した当社、「日本デリバリーサービス」。繊維の街、デニムの産地である備後エリアに本社を構え、お客様への素材提案・型紙作成から、縫製、加工、検品まで一貫生産を行い、地域トップクラスの技術を有するカジュアルウェアOEMメーカーです。 #日本デリバリーサービスを表すキーワード 広島県　福山市　備後　アパレル　ファッション　カジュアルウェア　デニム　OME　生産管理　パターンナー　アパレル工場　製造業　モノづくり　ものづくり　服　洋服つくり　ブランド　メイドインジャパン　海外　国内外　英語　有名ブランド生産　働きやすい環境　お菓子補助　成長　研修充実 福山に本社を構え創業から30年以上に渡って培ってきた経験と知識に加え、最先端の技術や設備も積極的に取り入れています。（https://job.mynavi.jp/27/pc/search/corp247671/outline.html・3回目）
+- 代表者：代表取締役社長　二畠 大（https://tenshoku.mynavi.jp/jobinfo-247869-3-7-1/・3回目）
+- 採用ページ：
+  - 「（採用情報）8月の会社説明会について」（https://www.jdscorp.co.jp/・1回目）
+  - 「採用情報 | 日本デリバリーサービス 読み込まれました」（https://www.jdscorp.co.jp/career・1回目）
+  - 「（採用情報）8月の会社説明会について」（https://www.jdscorp.co.jp/career・1回目）
+  - 「（採用情報）8月の会社説明会について | お知らせ | 日本デリバリーサービス」（https://www.jdscorp.co.jp/news/aMO2CZIx・1回目）
+  - 「（採用情報）8月の会社説明会について | お知らせ | 日本デリバリーサービス 読み込まれました」（https://www.jdscorp.co.jp/news/aMO2CZIx・1回目）
+  - 「（採用情報）8月の会社説明会について」（https://www.jdscorp.co.jp/news/aMO2CZIx・1回目）
+  - 「・（新卒採用）2027年3月卒業予定の大学生・専門学校生・高校生」（https://www.jdscorp.co.jp/news/aMO2CZIx・1回目）
+  - 「（採用情報）8月の会...」（https://www.jdscorp.co.jp/news/aMO2CZIx・1回目）
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E3%83%87%E3%83%AA%E3%83%90%E3%83%AA%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E3%83%87%E3%83%AA%E3%83%90%E3%83%AA%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E3%83%87%E3%83%AA%E3%83%90%E3%83%AA%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E3%83%87%E3%83%AA%E3%83%90%E3%83%AA%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 想定年収・給与：
+  - 「3,000万円」（https://www.jdscorp.co.jp/company・1回目）
+  - 「月給（基本給）：19万円 ～ 25万円 ＋ 諸手当」（https://tenshoku.mynavi.jp/jobinfo-247869-3-7-1/・3回目）
+  - 「昇給／年1回」（https://tenshoku.mynavi.jp/jobinfo-247869-3-7-1/・3回目）
+  - 「賞与／年2回（6月・12月）」（https://tenshoku.mynavi.jp/jobinfo-247869-3-7-1/・3回目）
+  - 「3,000万円」（https://tenshoku.mynavi.jp/jobinfo-247869-3-7-1/・3回目）
+  - 「年収1,000万円」（https://tenshoku.mynavi.jp/jobinfo-247869-3-7-1/・3回目）
+  - 「年収251.2万円〜」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E3%83%87%E3%83%AA%E3%83%90%E3%83%AA%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収316万円」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E3%83%87%E3%83%AA%E3%83%90%E3%83%AA%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収350万円」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E3%83%87%E3%83%AA%E3%83%90%E3%83%AA%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収240万円〜840万円」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E3%83%87%E3%83%AA%E3%83%90%E3%83%AA%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給19万円〜20.9万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E3%83%87%E3%83%AA%E3%83%90%E3%83%AA%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収300万円〜600万円」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E3%83%87%E3%83%AA%E3%83%90%E3%83%AA%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E3%83%87%E3%83%AA%E3%83%90%E3%83%AA%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 求人媒体：
+  - 「日本デリバリーサービス株式会社の求人情報／カジュアルウェア生産を支える【生産管理スタッフ】★年休110日 (247869)／広島県 | 転職・求人情報サイトのマイナビ転職【掲載終了】」（https://tenshoku.mynavi.jp/jobinfo-247869-3-7-1/・3回目）
+  - 「▼マイナビ転職の「この求人に応募する」よりご応募ください」（https://tenshoku.mynavi.jp/jobinfo-247869-3-7-1/・3回目）
+  - 「※オプトアウトをした場合、マイナビ転職の一部サービスを利用できない場合があります」（https://tenshoku.mynavi.jp/jobinfo-247869-3-7-1/・3回目）
+  - 「日本デリバリーサービス(株)の新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp247671/outline.html・3回目）
+  - 「外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！」（https://job.mynavi.jp/27/pc/search/corp247671/outline.html・3回目）
+- 採用の発信：
+  - 「（採用情報）8月の会社説明会について」（https://www.jdscorp.co.jp/・1回目）
+  - 「（採用情報）8月の会社説明会について」（https://www.jdscorp.co.jp/career・1回目）
+  - 「（採用情報）8月の会社説明会について | お知らせ | 日本デリバリーサービス」（https://www.jdscorp.co.jp/news/aMO2CZIx・1回目）
+  - 「（採用情報）8月の会社説明会について | お知らせ | 日本デリバリーサービス 読み込まれました」（https://www.jdscorp.co.jp/news/aMO2CZIx・1回目）
+  - 「（採用情報）8月の会社説明会について」（https://www.jdscorp.co.jp/news/aMO2CZIx・1回目）
+  - 「工場見学、他部署の仕事体験など、手厚い教育体制あり！洋服の専門知識は入社後にしっかりお教えします♪」（https://tenshoku.mynavi.jp/jobinfo-247869-3-7-1/・3回目）
+- 人手不足の発言：
+  - 「建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E3%83%87%E3%83%AA%E3%83%90%E3%83%AA%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 取引先・規模：
+  - 「JDSは、デニム産業が集積する三備地域・広島県福山市を拠点に、デザイナーズブランドや大手セレクトショップ、百貨店向けカジュアルウエアの委託製造を手掛けています」（https://www.jdscorp.co.jp/・1回目）
+  - 「産地に根差した幅広い工場ネットワークを活かし、素材探しから納品まで一貫対応」（https://www.jdscorp.co.jp/・1回目）
+  - 「自社工場に巻縫いミシン・環縫いミシン・ピンポイントミシン・すくいループミシンなど100台以上のミシンを取り揃え、さまざまなアイテムの生産ができます」（https://www.jdscorp.co.jp/・1回目）
+  - 「16億円 ※2025年度」（https://www.jdscorp.co.jp/company・1回目）
+  - 「大企業と中小企業などが取引先と対等な立場で共存共栄を目指す「パートナーシップ構築宣言」を公表し、適正取引の推進とサプライチェーン全体の付加価値向上に取り組んでいます」（https://www.jdscorp.co.jp/company・1回目）
+  - 「サンプルから量産まで品質・納期・コストに対応し、資材選定や工場調整を担い、モノづくり全体を管理する中心的な役割です」（https://www.jdscorp.co.jp/career・1回目）
+  - 「実際の工場をご案内しながら、仕事内容や職場の雰囲気を知っていただけるプログラムです」（https://www.jdscorp.co.jp/news/aMO2CZIx・1回目）
+  - 「サンプル作りから量産出荷までのお客様と工場の窓口業務を担当します」（https://www.jdscorp.co.jp/career/jobtype・1回目）
+  - 「お客様の品質・コスト・納期などの要望に応じて、資材・生産工場の選定・交渉、スケジュール組みをはじめ、モノづくりの中心として生産管理を担ってもらいます」（https://www.jdscorp.co.jp/career/jobtype・1回目）
+  - 「営業からお客さんからの発注の連絡を受けて、それを工場へスムースに伝える仕事です」（https://www.jdscorp.co.jp/career/voice/8-8xzOGV・1回目）
+  - 「そして、縫製・加工の工場に依頼をして試作品は完成し、それを自ら関西空港まで運転してぎりぎり間に合いました」（https://www.jdscorp.co.jp/career/voice/XGOi_I7n・1回目）
+  - 「工場見学、他部署の仕事体験など、手厚い教育体制あり！洋服の専門知識は入社後にしっかりお教えします♪」（https://tenshoku.mynavi.jp/jobinfo-247869-3-7-1/・3回目）
+- 検索結果の抜粋：
+  - 「日本デリバリーサービス 株式会社の 求人 情報 - マイナビ転職 — 日本デリバリーサービス 株式会社の 求人 情報 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > jobinfo-247869-3-7-1」（https://tenshoku.mynavi.jp/jobinfo-247869-3-7-1/・3回目）
+  - 「日本デリバリーサービス 「社員クチコミ」 就職・転職の採用 ... — 日本デリバリーサービス 「社員クチコミ」 就職・転職の採用 ... OpenWork https://www.openwork.jp > company」（https://www.openwork.jp/company.php?m_id=a0C2x000000Hyki・3回目）
+  - 「採用情報 - 日本デリバリーサービス — 採用情報 - 日本デリバリーサービス 日本デリバリーサービス https://www.jdscorp.co.jp > career」（https://www.jdscorp.co.jp/career・3回目）
+  - 「日本デリバリーサービス 株式会社の 求人 ・仕事・採用 — 日本デリバリーサービス 株式会社の 求人 ・仕事・採用 スタンバイ https://jp.stanby.com > ...」（https://jp.stanby.com/r_05a1aa045c9d21d1566048359a336e44・3回目）
+  - 「日本デリバリーサービス 新卒 高卒 の求人情報をすべて見る （136件） — 日本デリバリーサービス 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E3%83%87%E3%83%AA%E3%83%90%E3%83%AA%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「採用 情報 - 日本デリバリーサービス — 採用 情報 - 日本デリバリーサービス 日本デリバリーサービス https://www.jdscorp.co.jp > career」（https://www.jdscorp.co.jp/career・3回目）
+  - 「日本デリバリーサービス (株)の 新卒採用 ・会社概要 - マイナビ — 日本デリバリーサービス (株)の 新卒採用 ・会社概要 - マイナビ マイナビ https://job.mynavi.jp > search > corp247671 > outline」（https://job.mynavi.jp/27/pc/search/corp247671/outline.html・3回目）
+  - 「日本デリバリーサービス 「社員クチコミ」 就職・転職の 採用 ... — 日本デリバリーサービス 「社員クチコミ」 就職・転職の 採用 ... OpenWork https://www.openwork.jp > company」（https://www.openwork.jp/company.php?m_id=a0C2x000000Hyki・3回目）
+- 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部9頁・検索8回）
 
 ## 日本通運
 - 公式URL：https://trust-jobs.com/（given）
@@ -26310,6 +28986,53 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 採用人数：記載なし（3回確認済み：公式11頁／PDF・画像0件／外部14頁・検索8回）
 - 採用の発信：記載なし（3回確認済み：公式11頁／PDF・画像0件／外部14頁・検索8回）
 
+## 東原
+- 公式URL：https://www.kensetumap.com/（given）
+- 想定年収・給与：
+  - 「《丸紅等大手と取引》★通勤手当一律3万円★賞与MAX100万円実績」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+  - 「300万～400万円」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+  - 「【好待遇◎】賞与年2回(50～100万円の支給実績あり)」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+  - 「◎賞与年2回（MAX100万円の支給実績あり）」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+  - 「※通勤手当を一律3万円支給！」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+  - 「月給21万7,000円～ ＋通勤手当(一律3万円) ＋ 賞与年2回（昨年度実績50～100万円）」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+  - 「■月収27万円（25歳／1年目／基本給+通勤手当+皆勤手当など）」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+  - 「■月収35万円（33歳／10年目／基本給+通勤手当+皆勤手当など）」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+  - 「初年度年収は、入社後向こう一年間に支給される予定の金額で、基本給に諸手当と前年度の標準的な査定ベースの賞与額を加えたものです」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+  - 「初年度年収は、入社される方のスキルや経験によって必ずしも一定ではありませんので、検索した年収額と実際に入社した際の金額は異なる場合があります」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+  - 「300万円～400万円」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+  - 「■昇給：あり（前年度実績:5,000円～8,000円／月）」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+- 求人媒体：
+  - 「東原株式会社の求人情報／未経験歓迎！【 金属加工スタッフ 】★16時半には退社★面接1回 (434871)／広島県 | 転職・求人情報サイトのマイナビ転職【掲載終了】」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+  - 「◆◇マイナビ転職の「応募フォーム」よりご応募ください◇◆」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+  - 「※オプトアウトをした場合、マイナビ転職の一部サービスを利用できない場合があります」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+- 採用の発信：
+  - 「最初は慣れなくても先輩社員がイチからサポートするのでご安心ください！」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+  - 「今回は、日立製作所の東原敏昭さんが、自社の変革と未来について熱く語ったPIVOTのYouTube動画の内容を、僕なりの視点と感想を交えながらご紹介したいと思います」（https://note.com/jasami/n/n6530abc35e64・3回目）
+  - 「それでは、また次のブログでお会いしましょう！」（https://note.com/jasami/n/n6530abc35e64・3回目）
+- 取引先・規模：
+  - 「工場生産・製造（輸送用機器・家電・電子機器系）」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+  - 「工場や建物の解体時に発生する金属スクラップを回収・加工し、メーカーへ原材料として供給している当社」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+  - 「ドライバー、工場のライン作業など、」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+  - 「慣れてきたら、工場の解体現場から」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+- 検索結果の抜粋：
+  - 「東原 産業株式会社 の 求人 ・中途採用情報 - doda — 東原 産業株式会社 の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10096873080」（https://doda.jp/DodaFront/View/CompanyJobs/j_id__10096873080/・3回目）
+  - 「東原 株式会社の 求人 情報／未経験歓迎！【 金属 ... - マイナビ転職 — 東原 株式会社の 求人 情報／未経験歓迎！【 金属 ... - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > ... > 東原株式会社」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+  - 「東原 産業株式会社のバイト・パート・正社員 求人 情報 — 東原 産業株式会社のバイト・パート・正社員 求人 情報 Indeed https://jp.indeed.com > 企業検索 > 東原産業株式会社」（https://jp.indeed.com/cmp/%E6%9D%B1%E5%8E%9F%E7%94%A3%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/jobs・3回目）
+  - 「東原 産業の 年収 /給料/ボーナス/評価制度(全1件)【転職会議】 — 東原 産業の 年収 /給料/ボーナス/評価制度(全1件)【転職会議】 転職会議 https://jobtalk.jp > ... > 東原産業株式会社」（https://jobtalk.jp/companies/97707/answers?question_codes=earns・3回目）
+  - 「東原 株式会社の求人情報／未経験歓迎！【 金属 ... - マイナビ転職 — 東原 株式会社の求人情報／未経験歓迎！【 金属 ... - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > ... > 東原株式会社」（https://tenshoku.mynavi.jp/jobinfo-434871-3-5-1/・3回目）
+  - 「広島県広島市安佐南区 東原 周辺の求人・仕事・ 採用 - スタンバイ — 広島県広島市安佐南区 東原 周辺の求人・仕事・ 採用 - スタンバイ スタンバイ https://jp.stanby.com > 広島県 > 広島市 > 安佐南区」（https://jp.stanby.com/r_509214d5393dc2e1dc4ab89d80975962・3回目）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索8回）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索8回）
+- 採用ページ：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索8回）
+- 採用人数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索8回）
+
 ## 東和
 - 公式URL：https://www.to-wasan.co.jp/（given）
 - 所在地：本　社 〒746-0043 山口県周南市 新田2丁目3番17号 TEL 0834-63-2870 FAX 0834-63-2582 福岡営業所 〒812-0022 福岡県博多区 神屋町3番18号1 TEL 092-282-0046 FAX 092-282-0047（https://www.to-wasan.co.jp/about/・1回目）
@@ -26571,6 +29294,87 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
   - 「東洋鋼鈑 (株)【東洋製罐グループ】の会社概要 | マイナビ2027 — 東洋鋼鈑 (株)【東洋製罐グループ】の会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp57778 > outline」（https://job.mynavi.jp/27/pc/search/corp57778/outline.html・3回目）
   - 「東洋鋼鈑 の 新卒採用 ・就職・企業情報 - 就活会議 — 東洋鋼鈑 の 新卒採用 ・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > companies」（https://syukatsu-kaigi.jp/companies/122393・3回目）
 - 主要取引先：記載なし（3回確認済み：公式11頁／PDF・画像2件／外部17頁・検索8回）
+
+## 東洋高圧
+- 公式URL：https://www.job-net.jp/（given）
+- 所在地：〒761-8031 香川県高松市郷東町７９６－８５（https://www.job-net.jp/jobs/26116340・1回目）
+- 所在地：〒190-1221 東京都西多摩郡瑞穂町箱根ケ崎１５９０－１（https://www.job-net.jp/jobs/26116339・1回目）
+- 所在地：〒670-0925 兵庫県姫路市亀井町１０８（https://www.job-net.jp/jobs/26116328・1回目）
+- 創業年度：設立年：昭和52年（https://www.job-net.jp/jobs/26116340・1回目）
+- 創業年度：設立年：平成21年（https://www.job-net.jp/jobs/26116339・1回目）
+- 創業年度：設立年：昭和27年（https://www.job-net.jp/jobs/26116328・1回目）
+- 資本金：2,000万円（https://www.job-net.jp/jobs/26116340・1回目）
+- 資本金：500万円（https://www.job-net.jp/jobs/26116339・1回目）
+- 資本金：1,000万円（https://www.job-net.jp/jobs/26116328・1回目）
+- 従業員数：企業全体 50人 就業場所 12人 うち女性 2人 うちパート 1人（https://www.job-net.jp/jobs/26116340・1回目）
+- 従業員数：企業全体 28人 就業場所 21人 うち女性 7人 うちパート 1人（https://www.job-net.jp/jobs/26116339・1回目）
+- 従業員数：企業全体 17人 就業場所 17人 うち女性 9人 うちパート 1人（https://www.job-net.jp/jobs/26116328・1回目）
+- 事業内容：飲料・食品の自動販売機を中心にサービスを展開しています。 四国４県に５拠点を構えて、地域に根ざし、創業４９年の信頼を大 切に、事業を進めています。（https://www.job-net.jp/jobs/26116340・1回目）
+- 事業内容：半導体装置部品・医療、計測器部品・車両関連部品等の板金加工及 び機械加工業務。（https://www.job-net.jp/jobs/26116339・1回目）
+- 事業内容：ビニール加工品やプラスチック加工品の製造・販売を軸に、包装資 材や物流機器、防災・防犯用品などを幅広く手掛けています。（https://www.job-net.jp/jobs/26116328・1回目）
+- 主要取引先：主要取引先1 株式会社東京精密 主要取引先2 日本光電株式会社 主要取引先3 ケル株式会社（https://www.job-net.jp/jobs/26116339・1回目）
+- 採用ページ：
+  - 「新卒採用 技術（設計・電気） 製造（組立・機械加工）」（https://jp.stanby.com/search?q=%E6%9D%B1%E6%B4%8B%E9%AB%98%E5%9C%A7+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E6%9D%B1%E6%B4%8B%E9%AB%98%E5%9C%A7+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E6%9D%B1%E6%B4%8B%E9%AB%98%E5%9C%A7+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E6%9D%B1%E6%B4%8B%E9%AB%98%E5%9C%A7+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E6%9D%B1%E6%B4%8B%E9%AB%98%E5%9C%A7+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 想定年収・給与：
+  - 「月給: 218,800円〜368,800円」（https://www.job-net.jp/・1回目）
+  - 「月給: 223,000円〜250,000円」（https://www.job-net.jp/・1回目）
+  - 「月給: 246,000円〜295,000円」（https://www.job-net.jp/・1回目）
+  - 「月給: 222,000円〜364,000円」（https://www.job-net.jp/・1回目）
+  - 「月給: 249,900円〜249,900円」（https://www.job-net.jp/・1回目）
+  - 「月給: 218,800円〜368,800円」（https://www.job-net.jp/jobs・1回目）
+  - 「月給: 223,000円〜250,000円」（https://www.job-net.jp/jobs・1回目）
+  - 「月給: 246,000円〜295,000円」（https://www.job-net.jp/jobs・1回目）
+  - 「月給: 222,000円〜364,000円」（https://www.job-net.jp/jobs・1回目）
+  - 「月給: 249,900円〜249,900円」（https://www.job-net.jp/jobs・1回目）
+  - 「2,000万円」（https://www.job-net.jp/jobs/26116340・1回目）
+  - 「月給: 222,000円〜364,000円」（https://www.job-net.jp/jobs/26116340・1回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E6%9D%B1%E6%B4%8B%E9%AB%98%E5%9C%A7+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 求人媒体：
+  - 「しごと情報ネット - ハローワークインターネットサービスの求人検索」（https://www.job-net.jp/・1回目）
+  - 「しごと情報ネットはハローワークの求人を検索できるサイトです」（https://www.job-net.jp/・1回目）
+  - 「厚生労働省が提供しているハローワークインターネットサービスに掲載されている求人からピックアップして掲載しています」（https://www.job-net.jp/・1回目）
+  - 「また、ハローワークインターネットサービスでは掲載終了となってしまった過去の求人も検索できます」（https://www.job-net.jp/・1回目）
+  - 「ハローワーク求人情報一覧｜しごと情報ネット」（https://www.job-net.jp/jobs・1回目）
+  - 「自動販売機の商品補充スタッフ（香川営業所）◆土日休み｜株式会社ウエストアライアンスのハローワーク求人｜香川県高松市」（https://www.job-net.jp/jobs/26116340・1回目）
+  - 「ハローワークインターネットサービスに掲載された株式会社ウエストアライアンスの求人情報です」（https://www.job-net.jp/jobs/26116340・1回目）
+  - 「最新の情報は最寄りのハローワークにご確認ください」（https://www.job-net.jp/jobs/26116340・1回目）
+  - 「ハローワーク紹介状，履歴書（写真貼付）」（https://www.job-net.jp/jobs/26116340・1回目）
+  - 「株式会社ウエストアライアンスのハローワーク求人」（https://www.job-net.jp/jobs/26116340・1回目）
+  - 「ルート運送業務・梱包業務｜株式会社シンセイアドバンスのハローワーク求人｜東京都瑞穂町」（https://www.job-net.jp/jobs/26116339・1回目）
+  - 「ハローワークインターネットサービスに掲載された株式会社シンセイアドバンスの求人情報です」（https://www.job-net.jp/jobs/26116339・1回目）
+- 採用の発信：
+  - 「慣れるまでは先輩社員と同行して配送し、商品や業務内容を覚えていただきますので未経験の方でも安心してご応募ください」（https://www.job-net.jp/jobs/26116340・1回目）
+  - 「＊入社後は先輩社員と同行し、配送ルートやお客様のお顔、商品知」（https://www.job-net.jp/jobs/26116328・1回目）
+  - 「＊入社後は先輩社員と同行し、配送ルートやお客様のお顔、商品知」（https://www.job-net.jp/jobs/26116327・1回目）
+- 取引先・規模：
+  - 「四国４県に５拠点を構えて、地域に根ざし、創業４９年の信頼を大」（https://www.job-net.jp/jobs/26116340・1回目）
+  - 「香川県を拠点とし養殖業者に水産用医薬品、配合飼料、餌料のルート営業・香川地区を中心に決まった得意先へのワクチン、飼料等の販売 及び飼料・混合飼料の提案・鯛、カンパチなど生簀から取り出しサイズ、グラムを...」（https://www.job-net.jp/jobs/26116340・1回目）
+  - 「代表的な支店・営業所・工場等1」（https://www.job-net.jp/jobs/26116339・1回目）
+  - 「代表的な支店・営業所・工場等2」（https://www.job-net.jp/jobs/26116339・1回目）
+  - 「主要取引先1」（https://www.job-net.jp/jobs/26116339・1回目）
+  - 「主要取引先2」（https://www.job-net.jp/jobs/26116339・1回目）
+  - 「主要取引先3」（https://www.job-net.jp/jobs/26116339・1回目）
+  - 「・完成した商品の近隣のお取引先への配送業務」（https://www.job-net.jp/jobs/26116339・1回目）
+  - 「自動車整備士（瑞穂整備工場 トラック・バス整備センター）」（https://www.job-net.jp/jobs/26116339・1回目）
+  - 「◎自動車整備工場にて車輌の検査・準備・点検 バスやトラック等の大型車をはじめクレーン車や高所作業車等の 業務用車輌の整備＊当社ホームページおよび事業所情報をご覧下さい」（https://www.job-net.jp/jobs/26116339・1回目）
+  - 「工場内の機械に係わる修理・保全 溶接等スキルも習得できます」（https://www.job-net.jp/jobs/26116339・1回目）
+  - 「＊食品工場の機械メンテナンスの経験がなくても、一から懇切丁寧 に指導いたしますので、どなた...」（https://www.job-net.jp/jobs/26116339・1回目）
+- 検索結果の抜粋：
+  - 「株式会社 東洋高圧 の 求人 ・中途採用情報 - doda — 株式会社 東洋高圧 の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10002417828」（https://doda.jp/DodaFront/View/CompanyJobs/j_id__10002417828/・3回目）
+  - 「東洋高圧 の 年収 /給料/ボーナス/評価制度(全3件)【転職会議】 — 東洋高圧 の 年収 /給料/ボーナス/評価制度(全3件)【転職会議】 転職会議 https://jobtalk.jp > ... > 株式会社東洋高圧」（https://jobtalk.jp/companies/122690/answers?question_codes=earns・3回目）
+  - 「東洋高圧 の 求人 - Indeed (インディード) — 東洋高圧 の 求人 - Indeed (インディード) Indeed https://jp.indeed.com > q-東洋高圧-求人」（https://jp.indeed.com/q-%E6%9D%B1%E6%B4%8B%E9%AB%98%E5%9C%A7-%E6%B1%82%E4%BA%BA.html・3回目）
+  - 「東洋高圧 新卒 高卒 の求人情報をすべて見る （137件） — 東洋高圧 新卒 高卒 の求人情報をすべて見る （137件） スタンバイ」（https://jp.stanby.com/search?q=%E6%9D%B1%E6%B4%8B%E9%AB%98%E5%9C%A7+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「採用 情報 – 株式会社 東洋高圧 — 採用 情報 – 株式会社 東洋高圧 株式会社 東洋高圧 https://toyokoatsu.co.jp > recruit」（https://toyokoatsu.co.jp/recruit/・3回目）
+  - 「株式会社 東洋高圧 の求人・転職情報 - はたらいく — 株式会社 東洋高圧 の求人・転職情報 - はたらいく はたらいく https://www.hatalike.jp > ... > 広島 > 広島市 > 広島市西区」（https://www.hatalike.jp/viewjob/3e8871a61a55077f/・3回目）
+  - 「株式会社 東洋高圧 の求人・仕事・ 採用 - スタンバイ — 株式会社 東洋高圧 の求人・仕事・ 採用 - スタンバイ スタンバイ https://jp.stanby.com > ...」（https://jp.stanby.com/r_3a2e44c4c3be8b110fdb8f50a42177b6・3回目）
+- 売上高：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部8頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部8頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部8頁・検索8回）
 
 ## 松正工機
 - 公式URL：https://matsusho-inc.jp/（given）
@@ -26845,21 +29649,52 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 
 ## 柿原工業
 - 公式URL：https://www.cybo.com/（given）
-- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 採用ページ：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 想定年収・給与：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 採用人数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 求人媒体：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 採用の発信：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 人手不足の発言：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
-- 取引先・規模：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索8回）
+- 採用ページ：
+  - 「OpenWorkでは、新卒採用と中途採用それぞれの求人掲載が可能です」（https://www.openwork.jp/company.php?m_id=a0C1000000pmbAv・3回目）
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E6%9F%BF%E5%8E%9F%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E6%9F%BF%E5%8E%9F%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E6%9F%BF%E5%8E%9F%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E6%9F%BF%E5%8E%9F%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 想定年収・給与：
+  - 「年収 330万〜510万円」（https://www.openwork.jp/company.php?m_id=a0C1000000pmbAv・3回目）
+  - 「年収 400万〜1000万円」（https://www.openwork.jp/company.php?m_id=a0C1000000pmbAv・3回目）
+  - 「年収 500万〜650万円」（https://www.openwork.jp/company.php?m_id=a0C1000000pmbAv・3回目）
+  - 「年収251.2万円〜」（https://jp.stanby.com/search?q=%E6%9F%BF%E5%8E%9F%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収316万円」（https://jp.stanby.com/search?q=%E6%9F%BF%E5%8E%9F%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収300万円〜600万円」（https://jp.stanby.com/search?q=%E6%9F%BF%E5%8E%9F%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収350万円」（https://jp.stanby.com/search?q=%E6%9F%BF%E5%8E%9F%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給19万円〜20.9万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E6%9F%BF%E5%8E%9F%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収303.6万円〜600万円」（https://jp.stanby.com/search?q=%E6%9F%BF%E5%8E%9F%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給19.2万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E6%9F%BF%E5%8E%9F%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収258万円」（https://jp.stanby.com/search?q=%E6%9F%BF%E5%8E%9F%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収295万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E6%9F%BF%E5%8E%9F%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E6%9F%BF%E5%8E%9F%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 人手不足の発言：
+  - 「建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます」（https://jp.stanby.com/search?q=%E6%9F%BF%E5%8E%9F%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 取引先・規模：
+  - 「専務の中島は、三菱UFJ銀行で約10」（https://jp.stanby.com/search?q=%E6%9F%BF%E5%8E%9F%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 検索結果の抜粋：
+  - 「柿原工業 株式会社 の 求人 ・中途採用情報 - doda — 柿原工業 株式会社 の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10003022471」（https://doda.jp/DodaFront/View/CompanyJobs/j_id__10003022471/・3回目）
+  - 「柿原工業 「社員クチコミ」 就職・転職の採用企業 ... - OpenWork — 柿原工業 「社員クチコミ」 就職・転職の採用企業 ... - OpenWork OpenWork https://www.openwork.jp > 機械関連」（https://www.openwork.jp/company.php?m_id=a0C1000000pmbAv・3回目）
+  - 「柿原工業 株式会社のキャリア・企業情報 | Indeed (インディード) — 柿原工業 株式会社のキャリア・企業情報 | Indeed (インディード) Indeed https://jp.indeed.com > cmp > 柿原工業株式会社」（https://jp.indeed.com/cmp/%E6%9F%BF%E5%8E%9F%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE・3回目）
+  - 「柿原工業 株式会社の評判・口コミ - エン カイシャの評判 — 柿原工業 株式会社の評判・口コミ - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company」（https://en-hyouban.com/company/10003022471/・3回目）
+  - 「柿原工業 の 年収 /給料/ボーナス/評価制度(全6件)【転職会議】 — 柿原工業 の 年収 /給料/ボーナス/評価制度(全6件)【転職会議】 転職会議 https://jobtalk.jp > ... > 柿原工業株式会社」（https://jobtalk.jp/companies/69483/answers?question_codes=earns・3回目）
+  - 「柿原工業 新卒 高卒 の求人情報をすべて見る （136件） — 柿原工業 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E6%9F%BF%E5%8E%9F%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「【 柿原工業 株式会社】の 採用 サイト — 【 柿原工業 株式会社】の 採用 サイト arwrk.net https://arwrk.net > recruit」（https://arwrk.net/recruit/dzlplgif6n4bl2n/・3回目）
+  - 「採用 情報一覧 - 柿原工業株式会社 — 採用 情報一覧 - 柿原工業株式会社 柿原工業株式会社 https://www.kakihara.co.jp > recruit > recruit」（https://www.kakihara.co.jp/recruit/recruit.html・3回目）
+  - 「柿原工業 株式会社 採用 サイト｜ 新卒採用 ・インターンシップ ... — 柿原工業 株式会社 採用 サイト｜ 新卒採用 ・インターンシップ ... kakihara-recruit.com https://kakihara-recruit.com」（https://kakihara-recruit.com/・3回目）
+  - 「柿原工業 (株)の会社概要 | マイナビ2028 — 柿原工業 (株)の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp54122 > outline」（https://job.mynavi.jp/28/pc/search/corp54122/outline.html・3回目）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索8回）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索8回）
+- 採用の発信：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索8回）
 
 ## 栄工社
 - 公式URL：https://www.eikosha.co.jp/（given）
@@ -27483,6 +30318,65 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 求人媒体：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部19頁・検索8回）
 - 人手不足の発言：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部19頁・検索8回）
 
+## 深江特殊鋼
+- 公式URL：https://expo.semi.org/（given）
+- 採用ページ：
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E6%B7%B1%E6%B1%9F%E7%89%B9%E6%AE%8A%E9%8B%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E6%B7%B1%E6%B1%9F%E7%89%B9%E6%AE%8A%E9%8B%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E6%B7%B1%E6%B1%9F%E7%89%B9%E6%AE%8A%E9%8B%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E6%B7%B1%E6%B1%9F%E7%89%B9%E6%AE%8A%E9%8B%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「OpenWorkでは、新卒採用と中途採用それぞれの求人掲載が可能です」（https://www.openwork.jp/company.php?m_id=a0C1000000pn29X・3回目）
+- 想定年収・給与：
+  - 「深江特殊鋼の年収/給料/ボーナス/評価制度(全1件)【転職会議】」（https://jobtalk.jp/companies/246033/answers?question_codes=earns・3回目）
+  - 「年収・給料・ボーナス・評価制度の口コミ（1件）」（https://jobtalk.jp/companies/246033/answers?question_codes=earns・3回目）
+  - 「年収、評価制度」（https://jobtalk.jp/companies/246033/answers?question_codes=earns・3回目）
+  - 「深江特殊鋼(専門商社/広島県)の「年収・評価」に関する口コミを1件掲載しています」（https://jobtalk.jp/companies/246033/answers?question_codes=earns・3回目）
+  - 「年収・給料・ボーナス・評価制度について、現社員・元社員による実体験にもとづく、「年収・評価」に関する口コミを確認できます」（https://jobtalk.jp/companies/246033/answers?question_codes=earns・3回目）
+  - 「現社員や元社員から投稿された企業の評判・面接・年収などの口コミ情報を、」（https://jobtalk.jp/companies/246033/answers?question_codes=earns・3回目）
+  - 「年収360万円〜600万円」（https://jp.stanby.com/r_4154f060ed1e04aca893c51e280518a9・3回目）
+  - 「年収198万円〜」（https://jp.stanby.com/r_4154f060ed1e04aca893c51e280518a9・3回目）
+  - 「年収240万円〜480万円」（https://jp.stanby.com/r_4154f060ed1e04aca893c51e280518a9・3回目）
+  - 「年収210万円〜」（https://jp.stanby.com/r_4154f060ed1e04aca893c51e280518a9・3回目）
+  - 「年収300万円〜550万円」（https://jp.stanby.com/r_4154f060ed1e04aca893c51e280518a9・3回目）
+  - 「2,000万円」（https://jp.stanby.com/r_4154f060ed1e04aca893c51e280518a9・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E6%B7%B1%E6%B1%9F%E7%89%B9%E6%AE%8A%E9%8B%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 求人媒体：
+  - 「深江特殊鋼株式会社の採用・求人情報-engage」（https://en-gage.net/fukae_saiyo/・3回目）
+  - 「© engage Inc.｜株式会社エンゲージ」（https://en-gage.net/fukae_saiyo/・3回目）
+- 採用の発信：
+  - 「◎SNS（Twitter、Facebook、Instagram）の公式アカウントを開設、フォロワー数1,000人以上」（https://note.com/x_face/n/nbb4231c236d4・3回目）
+  - 「４．SNS（Twitter、Facebook、Instagram）の利用」（https://note.com/x_face/n/nbb4231c236d4・3回目）
+  - 「2020年5月頃から会社公式でSNS（Twitter、Facebook、Instagram）を始めました」（https://note.com/x_face/n/nbb4231c236d4・3回目）
+  - 「Welcome back to Instagram. Sign in to check out what your fri」（https://note.com/x_face/n/nbb4231c236d4・3回目）
+- 人手不足の発言：
+  - 「建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます」（https://jp.stanby.com/search?q=%E6%B7%B1%E6%B1%9F%E7%89%B9%E6%AE%8A%E9%8B%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 取引先・規模：
+  - 「■業務内容 特殊鋼の金属加工 ■提案先・取引先について（取引先の業態、担当企業数など） 自動車/産業機械/造船業界 ■詳細募集業務 ・マシニング機械をはじめとする 工作機械のオペレーター(CNC/NC/汎用) ・CAD/CAMオペレーター ・検査/梱包 ■入社後の受け入れ体制について（教育体制や独り立ちまでの期間、など） OJTでの教育体制で業務フォローをしております」（https://jp.stanby.com/r_4154f060ed1e04aca893c51e280518a9・3回目）
+  - 「■取り扱う商材（商品名、価格帯、商品の特徴など） 特殊鋼の販売・流通 ■提案先・取引先について（取引先の業態、担当企業数など） 自動車/産業機械/造船業界向けの法人営業 ■営業スタイルについて（新規なのかルートなのか、顧客開拓方法、提案～受注の期間、営業上何がポイントか、など） ルート営業の傍ら、新規営業を実施」（https://jp.stanby.com/r_4154f060ed1e04aca893c51e280518a9・3回目）
+  - 「■新規営業と既存営業の割合 50%:50% ■営業ノルマの有無 無 ■具体的な仕事の流れ お客様の調達に関するお困り事のヒアリング ⇒課題解決、調達代行依頼の確認 ⇒協力企業ネットワークから最適な提案をアレンジ ⇒受注後、製造/納入までの一連の流れを」（https://jp.stanby.com/r_4154f060ed1e04aca893c51e280518a9・3回目）
+  - 「専務の中島は、三菱UFJ銀行で約10」（https://jp.stanby.com/search?q=%E6%B7%B1%E6%B1%9F%E7%89%B9%E6%AE%8A%E9%8B%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「今回は、広島県福山市に本社拠点を持つ「」（https://note.com/x_face/n/nbb4231c236d4・3回目）
+  - 「そこで、コロナ禍においてどうやって取引先へアプローチすればよいか、どうやって見込み顧客を獲得すればよいか、ということを考え始めたことが本取り組みのきっかけでした」（https://note.com/x_face/n/nbb4231c236d4・3回目）
+  - 「見積りプロセスにおける煩わしさを解消し、まず発注者が希望する納期・価格を提示し、その条件に合った企業・工場を調達先として見つける」（https://note.com/x_face/n/nbb4231c236d4・3回目）
+- 検索結果の抜粋：
+  - 「深江特殊鋼 の 年収 /給料/ボーナス/評価制度(全1件)【転職会議】 — 深江特殊鋼 の 年収 /給料/ボーナス/評価制度(全1件)【転職会議】 転職会議 https://jobtalk.jp > ... > 深江特殊鋼株式会社」（https://jobtalk.jp/companies/246033/answers?question_codes=earns・3回目）
+  - 「深江特殊鋼 株式会社の平均 年収 、年間給与所得情報 - doda — 深江特殊鋼 株式会社の平均 年収 、年間給与所得情報 - doda doda https://doda.jp > CompanyIncome > j_id__10003045720」（https://doda.jp/DodaFront/View/CompanyIncome/j_id__10003045720/・3回目）
+  - 「深江特殊鋼 株式会社の 求人 ・仕事・採用 - スタンバイ — 深江特殊鋼 株式会社の 求人 ・仕事・採用 - スタンバイ スタンバイ https://jp.stanby.com > ...」（https://jp.stanby.com/r_4154f060ed1e04aca893c51e280518a9・3回目）
+  - 「深江特殊鋼株式会社 の求人情報（13件） — 深江特殊鋼株式会社 の求人情報（13件） スタンバイ」（https://jp.stanby.com/search?cp_id=220540&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st・3回目）
+  - 「深江特殊鋼 「社員クチコミ」 就職・転職の採用企業リサーチ ... — 深江特殊鋼 「社員クチコミ」 就職・転職の採用企業リサーチ ... OpenWork https://www.openwork.jp > 鉄鋼、非鉄金属」（https://www.openwork.jp/company.php?m_id=a0C1000000pn29X・3回目）
+  - 「深江特殊鋼 新卒 高卒 の求人情報をすべて見る （136件） — 深江特殊鋼 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E6%B7%B1%E6%B1%9F%E7%89%B9%E6%AE%8A%E9%8B%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「深江特殊鋼 株式会社の 採用 ・求人情報-engage - エンゲージ — 深江特殊鋼 株式会社の 採用 ・求人情報-engage - エンゲージ エンゲージ https://en-gage.net > fukae_saiyo」（https://en-gage.net/fukae_saiyo/・3回目）
+  - 「深江特殊鋼 「社員クチコミ」 就職・転職の 採用 企業リサーチ ... — 深江特殊鋼 「社員クチコミ」 就職・転職の 採用 企業リサーチ ... OpenWork https://www.openwork.jp > 鉄鋼、非鉄金属」（https://www.openwork.jp/company.php?m_id=a0C1000000pn29X・3回目）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索8回）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索8回）
+
 ## 渡辺ビニール化学工業所
 - 公式URL：https://w-vinyl.co.jp/（given）
 - 所在地：【本社】 岡山県岡山市北区新屋敷町２丁目４番３号 【和気工場】 岡山県和気郡和気町大中山２６７（https://w-vinyl.co.jp/company/・1回目）
@@ -27919,6 +30813,65 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 代表者：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）
 - 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）
 
+## 白鳳堂
+- 公式URL：https://catr.jp/（given）
+- 所在地：東京都新宿区愛住町22番地 同じ住所の会社を検索（https://catr.jp/companies/c091e/47735・1回目）
+- 所在地：東京都 新宿区 愛住町 22 第3山田ビル トウキヨウト シンジユクク アイズミチヨウ 22 ダイ3ヤマダビル（https://catr.jp/companies/c091e/47735・1回目）
+- 所在地：北海道岩内郡共和町梨野舞納2番地の119（https://catr.jp/company-split/11637・1回目）
+- 売上高：5億8500万円（https://catr.jp/companies/c091e/47735・1回目）
+- 売上高：19億2400万円（https://catr.jp/companies/c091e/47735・1回目）
+- 売上高：1億600万円（https://catr.jp/companies/c091e/47735・1回目）
+- 採用ページ：
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E7%99%BD%E9%B3%B3%E5%A0%82+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E7%99%BD%E9%B3%B3%E5%A0%82+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E7%99%BD%E9%B3%B3%E5%A0%82+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E7%99%BD%E9%B3%B3%E5%A0%82+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「8/10(水)はエントリーでポイント6倍♪」（https://note.com/elegant2026/n/nd61f94b7d7f6・3回目）
+- 想定年収・給与：
+  - 「13億8500万円」（https://catr.jp/・1回目）
+  - 「79億6600万円」（https://catr.jp/・1回目）
+  - 「180億6800万円」（https://catr.jp/・1回目）
+  - 「8億8400万円」（https://catr.jp/・1回目）
+  - 「20億1500万円」（https://catr.jp/・1回目）
+  - 「80億8400万円」（https://catr.jp/・1回目）
+  - 「8億2800万円」（https://catr.jp/・1回目）
+  - 「25億8100万円」（https://catr.jp/・1回目）
+  - 「321億6400万円」（https://catr.jp/・1回目）
+  - 「4億5300万円」（https://catr.jp/・1回目）
+  - 「91億7900万円」（https://catr.jp/・1回目）
+  - 「177億8900万円」（https://catr.jp/・1回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E7%99%BD%E9%B3%B3%E5%A0%82+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用の発信：
+  - 「工場見学、名入れ、ワークショップなど」（https://note.com/just_ixora8135/n/nd0d63f78c5a4・3回目）
+  - 「経営リーダーシップ・DX・学び成長ブログ｜銀虎コンサルティング」（https://note.com/just_ixora8135/n/nd0d63f78c5a4・3回目）
+  - 「現場経営者に役立つ診断事例、企業で働くビジネスマンとしての葛藤や気づき、成果につなげるデータ活用の考え方をブログで分かりやすく紹介しています」（https://note.com/just_ixora8135/n/nd0d63f78c5a4・3回目）
+- 人手不足の発言：
+  - 「若手の２０代の内は中々給料が上がらないが、毎年昇給...」（https://en-hyouban.com/company/10003235082/salary/・3回目）
+  - 「建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます」（https://jp.stanby.com/search?q=%E7%99%BD%E9%B3%B3%E5%A0%82+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 取引先・規模：
+  - 「三菱ケミカルグループ株式会社(81)」（https://catr.jp/・1回目）
+  - 「三菱商事株式会社(281)」（https://catr.jp/・1回目）
+  - 「月産約50万本にのぼる筆をすべて、広島県内自社工場にて生産しています」（https://www.pasonacareer.jp/job/81190955/・3回目）
+  - 「日本全国47都道府県に拠点がございますので、各地方の求人をご紹介することが可能です」（https://www.pasonacareer.jp/job/81190955/・3回目）
+  - 「専務の中島は、三菱UFJ銀行で約10」（https://jp.stanby.com/search?q=%E7%99%BD%E9%B3%B3%E5%A0%82+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「工場見学、名入れ、ワークショップなど」（https://note.com/just_ixora8135/n/nd0d63f78c5a4・3回目）
+- 検索結果の抜粋：
+  - 「株式会社 白鳳堂 の給与 - Indeed (インディード) — 株式会社 白鳳堂 の給与 - Indeed (インディード) Indeed https://jp.indeed.com > cmp > 株式会社白鳳堂 > salaries」（https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%99%BD%E9%B3%B3%E5%A0%82/salaries・3回目）
+  - 「白鳳堂 の 年収 ・給与 平均 年収 - エン カイシャの評判 — 白鳳堂 の 年収 ・給与 平均 年収 - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company > salary」（https://en-hyouban.com/company/10003235082/salary/・3回目）
+  - 「株式会社 白鳳堂 の化粧筆の販売職【関西】  メイク好きの方 ... — 株式会社 白鳳堂 の化粧筆の販売職【関西】  メイク好きの方 ... パソナキャリア https://www.pasonacareer.jp > ... > 接客・販売員」（https://www.pasonacareer.jp/job/81190955/・3回目）
+  - 「株式会社 白鳳堂 の平均 年収 、年間給与所得情報 - doda — 株式会社 白鳳堂 の平均 年収 、年間給与所得情報 - doda doda https://doda.jp > CompanyIncome > j_id__10003235082」（https://doda.jp/DodaFront/View/CompanyIncome/j_id__10003235082/・3回目）
+  - 「白鳳堂 新卒 高卒 の求人情報をすべて見る （136件） — 白鳳堂 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E7%99%BD%E9%B3%B3%E5%A0%82+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「採用 情報 – 白鳳堂 - 公式オンラインショップ — 採用 情報 – 白鳳堂 - 公式オンラインショップ 白鳳堂 https://hakuho-do.co.jp > pages > aboutus_emplovment」（https://hakuho-do.co.jp/pages/aboutus_emplovment・3回目）
+  - 「株式会社 白鳳堂 社員クチコミ（35件） - OpenWork — 株式会社 白鳳堂 社員クチコミ（35件） - OpenWork OpenWork https://www.openwork.jp > ... > 白鳳堂」（https://www.openwork.jp/company_answer.php?m_id=a0C10000018TMT1・3回目）
+- 創業年度：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部19頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部19頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部19頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部19頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部19頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部19頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部19頁・検索8回）
+
 ## 石丸製麺
 - 公式URL：https://vsign.jp/（given）
 - 採用ページ：
@@ -28096,6 +31049,48 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 所在地：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部15頁・検索8回）
 - 採用人数：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部15頁・検索8回）
 - 求人媒体：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部15頁・検索8回）
+
+## 竹田ブラシ製作所
+- 公式URL：https://hiroshimagooddesign.jp/（given）
+- 採用ページ：
+  - 「［27新卒］土日休み＆残業少なめ◎ 安定企業で"手に職"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ "安定企業で、ゼロから技術を身につける"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です」（https://jp.stanby.com/search?q=%E7%AB%B9%E7%94%B0%E3%83%96%E3%83%A9%E3%82%B7%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します」（https://jp.stanby.com/search?q=%E7%AB%B9%E7%94%B0%E3%83%96%E3%83%A9%E3%82%B7%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター」（https://jp.stanby.com/search?q=%E7%AB%B9%E7%94%B0%E3%83%96%E3%83%A9%E3%82%B7%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です」（https://jp.stanby.com/search?q=%E7%AB%B9%E7%94%B0%E3%83%96%E3%83%A9%E3%82%B7%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 想定年収・給与：
+  - 「年収251.2万円〜」（https://jp.stanby.com/search?q=%E7%AB%B9%E7%94%B0%E3%83%96%E3%83%A9%E3%82%B7%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収316万円」（https://jp.stanby.com/search?q=%E7%AB%B9%E7%94%B0%E3%83%96%E3%83%A9%E3%82%B7%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給19万円〜20.9万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E7%AB%B9%E7%94%B0%E3%83%96%E3%83%A9%E3%82%B7%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収240万円〜840万円」（https://jp.stanby.com/search?q=%E7%AB%B9%E7%94%B0%E3%83%96%E3%83%A9%E3%82%B7%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収300万円〜600万円」（https://jp.stanby.com/search?q=%E7%AB%B9%E7%94%B0%E3%83%96%E3%83%A9%E3%82%B7%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給19.2万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E7%AB%B9%E7%94%B0%E3%83%96%E3%83%A9%E3%82%B7%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収350万円」（https://jp.stanby.com/search?q=%E7%AB%B9%E7%94%B0%E3%83%96%E3%83%A9%E3%82%B7%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収303.6万円〜600万円」（https://jp.stanby.com/search?q=%E7%AB%B9%E7%94%B0%E3%83%96%E3%83%A9%E3%82%B7%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給20万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E7%AB%B9%E7%94%B0%E3%83%96%E3%83%A9%E3%82%B7%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収295万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E7%AB%B9%E7%94%B0%E3%83%96%E3%83%A9%E3%82%B7%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上」（https://jp.stanby.com/search?q=%E7%AB%B9%E7%94%B0%E3%83%96%E3%83%A9%E3%82%B7%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収325万円〜600万円」（https://jp.stanby.com/search?q=%E7%AB%B9%E7%94%B0%E3%83%96%E3%83%A9%E3%82%B7%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用人数：
+  - 「【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般」（https://jp.stanby.com/search?q=%E7%AB%B9%E7%94%B0%E3%83%96%E3%83%A9%E3%82%B7%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 採用の発信：
+  - 「入社後は先輩社員と一緒に現場に入り、工具の名前や使い方、作業の進め方から一つずつ覚えていきます」（https://jp.stanby.com/search?q=%E7%AB%B9%E7%94%B0%E3%83%96%E3%83%A9%E3%82%B7%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 取引先・規模：
+  - 「専務の中島は、三菱UFJ銀行で約10」（https://jp.stanby.com/search?q=%E7%AB%B9%E7%94%B0%E3%83%96%E3%83%A9%E3%82%B7%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 検索結果の抜粋：
+  - 「有限会社 竹田ブラシ製作所 の転職・企業概要 - doda — 有限会社 竹田ブラシ製作所 の転職・企業概要 - doda doda https://doda.jp > View > Company > j_id__10055880161」（https://doda.jp/DodaFront/View/Company/j_id__10055880161/・3回目）
+  - 「竹田ブラシ製作所 新卒 高卒 の求人情報をすべて見る （136件） — 竹田ブラシ製作所 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ」（https://jp.stanby.com/search?q=%E7%AB%B9%E7%94%B0%E3%83%96%E3%83%A9%E3%82%B7%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「【公式】 竹田ブラシ製作所 オンラインショップ／熊野化粧 ... — 【公式】 竹田ブラシ製作所 オンラインショップ／熊野化粧 ... 竹田ブラシ製作所 https://takeda-brush-shop.com」（https://takeda-brush-shop.com/・3回目）
+  - 「【募集】 竹田ブラシ製作所 ｜美容好きが“ほんとうに輝ける”仕事 — 【募集】 竹田ブラシ製作所 ｜美容好きが“ほんとうに輝ける”仕事 cosme-beauty.net https://cosme-beauty.net > takedaburash_information」（https://cosme-beauty.net/takedaburash_information/・3回目）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索8回）
 
 ## 竹田鉄工所
 - 公式URL：https://okaten.okajob.com/（given）
@@ -28276,6 +31271,33 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 採用人数：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）
 - 採用の発信：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）
 - 人手不足の発言：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）
+
+## 舶用E&S
+- 公式URL：http://www.yuatsu.co.jp/（given）
+- 採用の発信：
+  - 「（下部をクリックするとYoutubeに移動します）」（https://note.com/hakuyoue_s/n/nb2d99ca16d80・3回目）
+- 取引先・規模：
+  - 「広島県福山市を拠点に、瀬戸内エリアをはじめ全国の港・造船所へ駆けつけます」（http://www.yuatsu.co.jp/・1回目）
+  - 「現在、同社製品をご使用中の船主様・造船所様の中には、」（https://note.com/hakuyoue_s/n/nb2d99ca16d80・3回目）
+  - 「瀬戸内海を中心に、船舶・造船関連の修理やメンテナンスに対応しております」（https://note.com/hakuyoue_s/n/nb2d99ca16d80・3回目）
+  - 「納入実績も多数あり、長期稼働する信頼性の高い機器をご提供しております」（https://note.com/hakuyoue_s/n/nb14a5c0cf4a0・3回目）
+  - 「これからのnoteでの発信を通じて、船舶・造船・機械保全に関わる皆様のヒントになるような情報を共有できれば幸いです」（https://note.com/hakuyoue_s/n/nb14a5c0cf4a0・3回目）
+- 検索結果の抜粋：
+  - 「三井E&Sの年収・報酬レポート【年収802万／役員報酬5500万】 | TX会社...三井E&Sの年収・初任給・強み・志望動機｜企業研究 | 就活図鑑舶用e&s株式会社 の求人 - Indeed (インディード)【勝ち組？】三井E&Sの就職偏差値･難易度と平均年収の企業研究【激務...株式会社三井E&Sはやばい？評判・年収・転職難易度を解説【平均年収802万円】三井E&S 転職ガイド：知っておきたい給与と業績（... — Jun 25, 2026 · 三井E&Sの平均年収は802万であり高い水準です。業種別としては、プラント建設の分野 (平均878万)で一般的な水準、造船の分野 (平均897万)でやや低めな水準に位置します。平均勤続年数は16.3年で長めです。三井E&Sは「事業の種類が多い」などの特徴があります。東京都の上場企業 (平均733万)では ... Jul 24, 2026 · 」（https://tx-town.jp/corp/zo6KJywvZE2・3回目）
+  - 「舶用e&s株式会社 の求人 - Indeed (インディード) — 舶用e&S株式会社の求人を多数掲載！エンジン設計, 非電気制御設計, サービスエンジニアなど人気の仕事・転職・アルバイト情報もまとめて検索。」（https://jp.indeed.com/q-舶用e&s株式会社-求人.html?vjk=ad9c64e983b4eed6・3回目）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索8回）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索8回）
+- 採用ページ：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索8回）
+- 想定年収・給与：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索8回）
+- 採用人数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索8回）
+- 求人媒体：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索8回）
 
 ## 芳上鉄工所
 - 公式URL：https://tenra.jp/（given）
@@ -28671,6 +31693,56 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 代表者：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部23頁・検索8回）
 - 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部23頁・検索8回）
 
+## 西川ビッグオーシャン
+- 公式URL：https://www.nishikawa-bigocean.co.jp/（search:ddgs:google:西川ビッグオーシャン）
+- 所在地：本社・安佐事業所 〒731-3362 広島県広島市安佐北区安佐町大字久地3723-1 TEL 082-810-3555 FAX 082-837-0911 Google Map 井原事業所 〒739-1301 広島県広島市安佐北区白木町大字井原809-1 TEL 082-828-7855 FAX 082-828-0788 Google Map 三原事業所 〒729-0473 広島県三原市沼田西町小原10200-39 TEL 0848-85-0811 FAX 0848-86-0899 Google Map（https://www.nishikawa-bigocean.co.jp/company・1回目）
+- 創業年度：設立：1970年6月2日（https://www.nishikawa-bigocean.co.jp/company・1回目）
+- 資本金：2,748万円（https://www.nishikawa-bigocean.co.jp/company・1回目）
+- 従業員数：296名（2026年10月1現在）（https://www.nishikawa-bigocean.co.jp/company・1回目）
+- 事業内容：自動車用ゴム製品の製造（https://www.nishikawa-bigocean.co.jp/company・1回目）
+- 採用ページ：
+  - 「採用情報 | 株式会社西川ビッグオーシャン」（https://www.nishikawa-bigocean.co.jp/recruit・1回目）
+  - 「株式会社西川ビッグオーシャン - 募集要項(採用データ)：中国新聞 就活応援キャンペーン2027」（https://shinsotu.chugoku-np.co.jp/special.php?p=2&id=183&y=27・3回目）
+  - 「・受付は電話またはHPよりエントリーしてください」（https://shinsotu.chugoku-np.co.jp/special.php?p=2&id=183&y=27・3回目）
+- 想定年収・給与：
+  - 「2,748万円」（https://www.nishikawa-bigocean.co.jp/company・1回目）
+  - 「西川ビッグオーシャンの年収・給与・昇給・ボーナス｜Yahoo!しごとカタログ」（https://jobcatalog.yahoo.co.jp/company/2000001372/salaries/・3回目）
+  - 「全33件の年収・給与情報を集計した結果、」（https://jobcatalog.yahoo.co.jp/company/2000001372/salaries/・3回目）
+  - 「西川ビッグオーシャンの平均年収は393万円でした」（https://jobcatalog.yahoo.co.jp/company/2000001372/salaries/・3回目）
+  - 「これはメーカー「ゴム製品」業界の平均（477万円）より84万円下回っています」（https://jobcatalog.yahoo.co.jp/company/2000001372/salaries/・3回目）
+  - 「西川ビッグオーシャンの年収を年代別に見ると」（https://jobcatalog.yahoo.co.jp/company/2000001372/salaries/・3回目）
+  - 「30代で300万円を超え、その後40代で400万円を超えている」（https://jobcatalog.yahoo.co.jp/company/2000001372/salaries/・3回目）
+  - 「30代から40代にかけての伸びが最も大きく、65万円増加しています」（https://jobcatalog.yahoo.co.jp/company/2000001372/salaries/・3回目）
+  - 「340〜490万円」（https://jobcatalog.yahoo.co.jp/company/2000001372/salaries/・3回目）
+  - 「400〜570万円」（https://jobcatalog.yahoo.co.jp/company/2000001372/salaries/・3回目）
+  - 「※平均年収を基に、一般的な振れ幅（業界別係数）を考慮して算出した理論値です」（https://jobcatalog.yahoo.co.jp/company/2000001372/salaries/・3回目）
+  - 「周りの同級生達に比べれば、各種手当てや待遇も良く、賞与、昇給制度も、非常に良く、満足がいくも」（https://jobcatalog.yahoo.co.jp/company/2000001372/salaries/・3回目）
+- 求人媒体：
+  - 「詳細はハローワーク高卒就職情報WEBサービスよりご確認ください」（https://www.nishikawa-bigocean.co.jp/recruit・1回目）
+- 採用の発信：
+  - 「西川ビッグオーシャンで働く先輩社員に仕事への想いや」（https://www.nishikawa-bigocean.co.jp/recruit・1回目）
+- 人手不足の発言：
+  - 「知識と若手の柔軟で新たな着眼点を持った発想力を融合し、」（https://www.nishikawa-bigocean.co.jp/・1回目）
+  - 「様々な関係会社の自動車部門が集結したことで、当社では旧社名時代から働かれてこられたスペシャリスト、そして新しい角度から物事を捉えられる若手従業員が日々働いています」（https://www.nishikawa-bigocean.co.jp/company・1回目）
+- 取引先・規模：
+  - 「大朝事業所を可部事業所へ移転（現：西川物産株式会社 可部工場内）」（https://www.nishikawa-bigocean.co.jp/company・1回目）
+  - 「それまで専門的な知識がなかったためゼロからのスタートでしたが、西川ゴム内の敷地に勤務しているからこそ各工場の技術職の方や社外の業者の方に質問をして知識を習得しました」（https://www.nishikawa-bigocean.co.jp/crosstalk・1回目）
+  - 「70.00億円」（https://jobcatalog.yahoo.co.jp/company/2000001372/salaries/・3回目）
+- 検索結果の抜粋：
+  - 「西川ビッグオーシャンの年収・給与・昇給・ボーナス｜Yahoo!しごとカ... — 株式会社西川ビッグオーシャンの社員・元従業員による平均年収は、回答者は393万円。 年収・給与・ボーナスなどの待遇に関する評判・クチコミを掲載。 職種、雇用形態別、年代別などの平均年収も掲載。」（https://jobcatalog.yahoo.co.jp/company/2000001372/salaries/・3回目）
+  - 「14 件の 株式会社 西川ビッグオーシャン の求人 | Indeed (インディー... — 株式会社 西川ビッグオーシャンの求人は14件あります。IR, 技術者, 営業 総合職などの仕事・転職・アルバイト情報もまとめ ...」（https://jp.indeed.com/q-株式会社-西川ビッグオーシャン-求人.html?vjk=c8b9b3fc2dcca097・3回目）
+  - 「株式会社西川ビッグオーシャンの転職・企業概要 − 転職ならdoda（デュ... — 株式会社西川ビッグオーシャンの求人や従業員・年収・事業内容・業績・業種・所在地の情報などを掲載。dodaの企業情報ページでは上場企業や、大手から中小企業まで476,790社の企業情報が無料で検索・閲覧できます。ぜひ志望動機や面接対策の研究にお役立てください。」（https://doda.jp/DodaFront/View/Company/j_id__10002584500/・3回目）
+  - 「西川ビッグオーシャンの年収・給与 平均年収 - エン カイシャの評判採用情報 | 株式会社西川ビッグオーシャン株式会社西川ビッグオーシャンの平均年収、年間給与所得情報 − 転職な...西川ビッグオーシャンの求人・採用・転職情報｜Yahoo!しごとカタログ — 働き方（勤務時間・休日休暇・制度）(2件) 女性の働きやすさ(1件) 入社前とのギャップ(1件) 退職理由・退職検討理由(0件) 年収・給与(2件) キーワードで探す 従業員一人ひとりがかけがえのない存在だからこそ、西川ビッグオーシャンでは仕事のスキルアップに活かせる資格取得支援はもちろん、それぞれの生活が少しでも豊かになる環境や制度を整えています。 株式会社西川ビッグオーシャンの平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで432,7」（https://en-hyouban.com/company/10200033339/salary/・3回目）
+  - 「採用情報 | 株式会社西川ビッグオーシャン — 従業員一人ひとりがかけがえのない存在だからこそ、西川ビッグオーシャンでは仕事のスキルアップに活かせる資格取得支援はもちろん、それぞれの生活が少しでも豊かになる環境や制度を整えています。」（https://www.nishikawa-bigocean.co.jp/recruit・3回目）
+  - 「株式会社西川ビッグオーシャン - 募集要項 (採用データ)：中国新聞 就...採用情報 | nishikawa（西川）公式サイト募集要項/選考フロー | 採用サイト | nishikawa（西川）株式会社西川ビッグオーシャン - 募集要項 (企業データ)：中国新聞 就...新卒採用 – 株式会社西川ビッグオーシャン株式会社 西川ビッグオーシャン の求人 — 株式会社西川ビッグオーシャン 採用データ ... 連絡先 ・受付は電話またはHPよりエントリーしてください 管理部総務課 082-810-3555 nbo@nishikawa-bigocean.co.jp nishikawa採用ホームページにアクセスして いただきありがとうございます。 当社では様々な人間が様々なフィールドで 活躍しています。 あなたの活躍したいフィールドも発見して いただけるかもしれません。 明るく積極的な方のご応募を」（https://shinsotu.chugoku-np.co.jp/special.php?p=2&id=183&y=27・3回目）
+  - 「新卒採用 – 株式会社西川ビッグオーシャン — 西川ビッグオーシャンは、大海原を完璧な チームワークでしなやかにたくましく 泳ぐイルカのようにワンチームで挑戦し続けながら、 自動車用ウェザーストリップの製品づくりを通して 人々のより良い車社会をサポートします。」（https://www.nishikawa-bigocean.co.jp/news/construction/newgrads/feed・3回目）
+  - 「株式会社 西川ビッグオーシャン の求人 — 株式会社 西川ビッグオーシャン の求人 、 安佐町大字久地での求人 、 事務 の求人 - 広島市 安佐町大字久地 をすべて表示する 給与検索: 事務職の給与 - 広島市 安佐町大字久地」（https://jp.indeed.com/q-株式会社-西川ビッグオーシャン-求人.html?vjk=c8b9b3fc2dcca097・3回目）
+  - 「株式会社西川ビッグオーシャン - 募集要項 (企業データ)：中国新聞 就... — チカラ、ひとつに。 当社は2000年代に西川ゴムグループの関係会社の合併や吸収を行い、拡大成長してきました。 様々な関係会社の自動車部門が集結したことで、当社では旧社名時代から働かれてこられたスペシャリスト、そして新しい角度から物事を捉えられる若手従業員が日々働いています ...」（https://shinsotu.chugoku-np.co.jp/special.php?p=1&id=183・3回目）
+- 売上高：記載なし（3回確認済み：公式7頁／PDF・画像2件／外部5頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式7頁／PDF・画像2件／外部5頁・検索9回）
+- 主要取引先：記載なし（3回確認済み：公式7頁／PDF・画像2件／外部5頁・検索9回）
+- 採用人数：記載なし（3回確認済み：公式7頁／PDF・画像2件／外部5頁・検索9回）
+
 ## 西川物産
 - 公式URL：https://www.nishikawa-bussan.jp/（given）
 - 所在地：〒731-0138 広島県広島市安佐南区祇園3丁目37番16号（https://www.nishikawa-bussan.jp/about/company/・1回目）
@@ -28991,6 +32063,81 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 採用人数：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部15頁・検索8回）
 - 求人媒体：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部15頁・検索8回）
 - 採用の発信：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部15頁・検索8回）
+
+## 近江鍛工
+- 公式URL：https://works.aqsh.co.jp/（given）
+- 所在地：〒028-7111 岩手県八幡平市大更第25地割113番地 起業家支援センター2F（https://works.aqsh.co.jp/about・1回目）
+- 事業内容：Web制作、LP制作、採用サイト制作、採用DX支援、Webアプリ開発、 業務システム開発、AI活用支援、人材紹介事業（https://works.aqsh.co.jp/about・1回目）
+- 代表者：代表取締役　塚田 崇博（https://works.aqsh.co.jp/about・1回目）
+- 採用ページ：
+  - 「Web制作、LP制作、採用サイト制作、採用DX支援、Webアプリ開発、」（https://works.aqsh.co.jp/about・1回目）
+  - 「近江鍛工(株)の新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp233589/outline.html・3回目）
+  - 「＊会社ホームページ（採用情報）に先輩社員（技術・営業）の紹介記事あり」（https://job.mynavi.jp/27/pc/search/corp233589/outline.html・3回目）
+  - 「過去3年間の新卒採用者数（男女別）」（https://job.mynavi.jp/27/pc/search/corp233589/outline.html・3回目）
+  - 「過去3年間の新卒採用者数・」（https://job.mynavi.jp/27/pc/search/corp233589/outline.html・3回目）
+  - 「2027新卒採用コース（技術職、営業職）」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=233589&recruitingCourseId=27000494・3回目）
+  - 「エントリーまたは説明会予約をすると詳細を確認できます」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=233589&recruitingCourseId=27000494・3回目）
+- 想定年収・給与：
+  - 「イメージや広告に惑わされない、給与や休日数などの「真の働きやすさ」をスコアで可視化」（https://works.aqsh.co.jp/・1回目）
+  - 「ブックマークした複数の企業を一覧表示し、給与や勤続年数などの指標を横並びでスムーズに比較分析できます」（https://works.aqsh.co.jp/・1回目）
+  - 「平均年収、残業時間、女性管理職割合などのリアルな数値を分析」（https://works.aqsh.co.jp/about・1回目）
+  - 「近江鍛工の年収・給与・昇給・ボーナス｜Yahoo!しごとカタログ」（https://jobcatalog.yahoo.co.jp/company/1100001206/salaries/・3回目）
+  - 「全15件の年収・給与情報を集計した結果、」（https://jobcatalog.yahoo.co.jp/company/1100001206/salaries/・3回目）
+  - 「近江鍛工の平均年収は532万円でした」（https://jobcatalog.yahoo.co.jp/company/1100001206/salaries/・3回目）
+  - 「これはメーカー「鉄鋼」業界の平均525万円とほぼ同水準です」（https://jobcatalog.yahoo.co.jp/company/1100001206/salaries/・3回目）
+  - 「周りの同級生達に比べれば、各種手当てや待遇も良く、賞与、昇給制度も、非常に良く、満足がいくも」（https://jobcatalog.yahoo.co.jp/company/1100001206/salaries/・3回目）
+  - 「9,900万円」（https://jobcatalog.yahoo.co.jp/company/1100001206/salaries/・3回目）
+  - 「近江鍛工株式会社の年収・給与・昇給・ボーナス」（https://jobcatalog.yahoo.co.jp/company/1100001206/salaries/・3回目）
+  - 「月給: 200,000円〜250,000円」（https://www.job-net.jp/employers/3160001000419・3回目）
+  - 「月給: 200,000円〜230,000円」（https://www.job-net.jp/employers/3160001000419・3回目）
+- 求人媒体：
+  - 「ハローワークの膨大な求人情報とgBizINFOの法人データを統合解析」（https://works.aqsh.co.jp/・1回目）
+  - 「データ出典（ハローワーク、gBizINFO）」（https://works.aqsh.co.jp/・1回目）
+  - 「ハローワーク、gBizINFO、国税庁法人番号公表サイトなどから収集した全国の企業データを集約」（https://works.aqsh.co.jp/about・1回目）
+  - 「データ出典（ハローワーク、gBizINFO）」（https://works.aqsh.co.jp/about・1回目）
+  - 「近江鍛工株式会社のハローワーク求人情報一覧｜しごと情報ネット」（https://www.job-net.jp/employers/3160001000419・3回目）
+  - 「近江鍛工株式会社のハローワーク求人情報一覧」（https://www.job-net.jp/employers/3160001000419・3回目）
+  - 「ハローワークで公開されたこの法人の求人情報を helloworkplus が集計したものです」（https://helloworkplus.com/company/2501-006001-5/・3回目）
+  - 「出典: ハローワークで公開された求人情報をもとに helloworkplus が集計」（https://helloworkplus.com/company/2501-006001-5/・3回目）
+  - 「近江鍛工(株)の新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp233589/outline.html・3回目）
+  - 「外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！」（https://job.mynavi.jp/27/pc/search/corp233589/outline.html・3回目）
+  - 「近江鍛工(株)の採用データ | マイナビ2027」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=233589&recruitingCourseId=27000494・3回目）
+- 採用の発信：
+  - 「＜文理共通＞会社説明会および工場見学会受付中！」（https://job.mynavi.jp/27/pc/search/corp233589/outline.html・3回目）
+  - 「＜文理共通＞会社説明会及び工場見学受付中！」（https://job.mynavi.jp/27/pc/search/corp233589/outline.html・3回目）
+  - 「＊会社ホームページ（採用情報）に先輩社員（技術・営業）の紹介記事あり」（https://job.mynavi.jp/27/pc/search/corp233589/outline.html・3回目）
+  - 「＜文理共通＞会社説明会および工場見学会受付中！」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=233589&recruitingCourseId=27000494・3回目）
+- 取引先・規模：
+  - 「155.87億円」（https://jobcatalog.yahoo.co.jp/company/1100001206/salaries/・3回目）
+  - 「自社便トラックの運転手・当社本社工場（大津市瀬田）と信楽工場及び近距離の取引先との 運行（１４ｔ車）・各工場及び取引先での荷揃え・積込・積降し等のリフト作業有り （バラ積みも有り）＊作業内容については...」（https://www.job-net.jp/employers/3160001000419・3回目）
+  - 「滋賀県甲賀市信楽町黄瀬138番地 信楽工場、滋賀県大津市月輪」（https://helloworkplus.com/company/2501-006001-5/・3回目）
+  - 「154億円（2025年11月）」（https://job.mynavi.jp/27/pc/search/corp233589/outline.html・3回目）
+  - 「＜文理共通＞会社説明会および工場見学会受付中！」（https://job.mynavi.jp/27/pc/search/corp233589/outline.html・3回目）
+  - 「＜文理共通＞会社説明会及び工場見学受付中！」（https://job.mynavi.jp/27/pc/search/corp233589/outline.html・3回目）
+  - 「また現在は女性社員の採用に力を入れていることから、今のうちから女性目線の意見を提案することで誰もが働きやすい工場にしていければと思っています」（https://job.mynavi.jp/27/pc/search/corp233589/outline.html・3回目）
+  - 「1950年代半ばよりローリング鍛造に取り組みはじめた近江鍛工は60年を超える経験と知識の積み重ねで造船、建機、軸受けや航空宇宙産業そして海洋開発分野で強みを発揮しています」（https://job.mynavi.jp/27/pc/search/corp233589/outline.html・3回目）
+  - 「信楽工場で稼働している5,000ミリリングローリングミルは、当社が誇る世界最大級の大型鍛造設備で、最大外径5,000ミリ、高さ1,500ミリ、重量20トンのリング鍛造が可能です」（https://job.mynavi.jp/27/pc/search/corp233589/outline.html・3回目）
+  - 「そのほか多岐にわたる製品の製造は各工場に導入されている最新鋭設備によって行われています」（https://job.mynavi.jp/27/pc/search/corp233589/outline.html・3回目）
+  - 「これらの工程は、すべて同一工場内で処理できるため、輸送費の削減につながります」（https://job.mynavi.jp/27/pc/search/corp233589/outline.html・3回目）
+  - 「信楽工場：滋賀県甲賀市信楽町黄瀬138」（https://job.mynavi.jp/27/pc/search/corp233589/outline.html・3回目）
+- 検索結果の抜粋：
+  - 「近江鍛工の年収・給与・昇給・ボーナス｜Yahoo!しごとカタログ — 近江鍛工株式会社の社員・元従業員による平均年収は、回答者は532万円。年収・給与・ボーナスなどの待遇に関する評判・クチコミを掲載。職種、雇用形態別、年代別などの平均年収も掲載。」（https://jobcatalog.yahoo.co.jp/company/1100001206/salaries/・3回目）
+  - 「近江鍛工株式会社のハローワーク求人情報一覧｜しごと情報ネット — Oct 2, 2026 · 機械工 近江鍛工株式会社 正社員 経験不問 資格不問 週休二日制（土日休） 書類選考なし 通勤手当あり 駅近（徒歩10分以内） マイカー通勤可 ... 掲載日 2026年9月4日 詳細を見る」（https://www.job-net.jp/employers/3160001000419・3回目）
+  - 「近江鍛工株式会社の求人一覧 （4件 ・20.0〜25.0万 ） — 近江鍛工株式会社の求人一覧。掲載求人数は4件。月給・時給の相場は20.0〜25.0万です。滋賀県大津市月輪一丁目4-6。給与偏差値・年齢別年収データ付きでハローワーク求人を分析。ハローワーク+で。」（https://helloworkplus.com/company/2501-006001-5/・3回目）
+  - 「近江鍛工株式会社 の 日本 での給与 | Indeed (インディード) — 日本での近江鍛工株式会社の平均給与 Indeed に掲載された求人と、この企業の従業員から寄せられた近江鍛工株式会社の給与情報を参照する。 給与情報は、Indeed にこれまでに掲載された8件の求人に基いた推定値です。 給与額はすべて、第三者から Indeed に寄せられた情報に基づく概算である ...」（https://jp.indeed.com/cmp/近江鍛工株式会社/salaries・3回目）
+  - 「近江鍛工株式会社のハローワーク求人｜滋賀県大津市｜鍛造工 — Mar 10, 2026 · ハローワークインターネットサービスに掲載された近江鍛工株式会社の求人情報です。雇用形態は正社員で、勤務地は滋賀県大津市です。この求人情報は大津公共職業安定所で受理されました。下記の情報は求人掲載時点での情報です。この求人が気になる方は、最寄りのハローワークの窓口で ...」（https://hellowork-plus.com/job-30025774/・3回目）
+  - 「近江鍛工 (株)の新卒採用・会社概要 | マイナビ2027近江鍛工株式会社 採用情報 - omitanko.co.jp近江鍛工(株)の採用データ - マイナビ2027募集要項 ｜ 近江鍛工株式会社 採用情報近江鍛工の新卒採用・就活情報 ｜ みん就-就活情報サイト近江鍛工の新卒採用・就職・企業情報【就活会議】近江鍛工株式会社のハローワーク求人情報一覧 — 近江鍛工(株)の会社概要ページです。マイナビ2027は、近江鍛工(株)の採用情報や企業情報で、就職活動をサポートします。 MOVE FORWARD TOGETHER. 私たち近江鍛工は、鉄鋼を扱う技術の先駆者として、さらには非鉄金属加工の技も向上させ 国内外で常に産業の先頭を走り続けていました。 その分野は、自動車、鉄道車両、船舶、航空宇宙、海洋掘削、風力発電など多岐にわたっています。 これは、近江鍛工の特徴であり ... 近江鍛工 (株)」（https://job.mynavi.jp/27/pc/search/corp233589/outline.html・3回目）
+  - 「近江鍛工株式会社 採用情報 - omitanko.co.jp — MOVE FORWARD TOGETHER. 私たち近江鍛工は、鉄鋼を扱う技術の先駆者として、さらには非鉄金属加工の技も向上させ 国内外で常に産業の先頭を走り続けていました。 その分野は、自動車、鉄道車両、船舶、航空宇宙、海洋掘削、風力発電など多岐にわたっています。 これは、近江鍛工の特徴であり ...」（https://www.omitanko.co.jp/recruit/・3回目）
+  - 「近江鍛工(株)の採用データ - マイナビ2027 — 近江鍛工 (株)の採用データページです。マイナビ2027は、近江鍛工 (株)の採用情報や企業情報で、就職活動をサポートします。」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=233589&recruitingCourseId=27000494・3回目）
+  - 「募集要項 ｜ 近江鍛工株式会社 採用情報近江鍛工の新卒採用・就活情報 ｜ みん就-就活情報サイト近江鍛工の新卒採用・就職・企業情報【就活会議】近江鍛工株式会社のハローワーク求人情報一覧 — 近江鍛工はやる気あふれる社員の仕事環境を快適にしサポートするため、常に努力をしています。鍛造の可能性を拓き、社会に貢献する。私たちと共に、この壮大なミッションに挑みませんか。 近江鍛工の新卒採用・就活情報ページです。新卒採用やインターンについての情報や、近江鍛工に内定した先輩による口コミ、企業研究やESなどの就職活動に役立つ情報満載。メンバー登録で選考状況の管理や、有名企業内定者の志望動機や体験談も閲覧できる！ 近江鍛工 (メーカー・製造業, 素材（鉄鋼・金属・鉱業）／滋賀県)の新卒採用の企業研究、就活・選考対策情報です。会社概要から、企業の評判、先輩のESの実例、面接で聞かれた質問まで、本選考・インタ」（https://www.omitanko.co.jp/recruit/overview・3回目）
+  - 「近江鍛工の新卒採用・就活情報 ｜ みん就-就活情報サイト — 近江鍛工の新卒採用・就活情報ページです。新卒採用やインターンについての情報や、近江鍛工に内定した先輩による口コミ、企業研究やESなどの就職活動に役立つ情報満載。メンバー登録で選考状況の管理や、有名企業内定者の志望動機や体験談も閲覧できる！」（https://www.nikki.ne.jp/company/22016/・3回目）
+- 創業年度：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部11頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部11頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部11頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部11頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部11頁・検索8回）
+- 採用人数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部11頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部11頁・検索8回）
 
 ## 追加コンテンツ
 - 公式URL：https://www.funlead.co.jp/（given）
@@ -29691,6 +32838,69 @@ TPR株式会社の市販補修部品の販売を目的として設立（https://
 - 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索8回）
 - 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索8回）
 - 求人媒体：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索8回）
+
+## 高橋工業
+- 公式URL：https://tkhs-kg.com/（given）
+- 所在地：北海道別海町（https://tkhs-kg.com/works/・1回目）
+- 所在地：北海道中標津町（https://tkhs-kg.com/works/・1回目）
+- 採用ページ：
+  - 「2026年には過去最多の202人がエントリー」（https://tkhs-kg.com/・1回目）
+  - 「採用情報｜道東の仕事・先輩社員の声｜タカハシグループ」（https://tkhs-kg.com/recruit/・1回目）
+- 想定年収・給与：
+  - 「月給20万〜35万円（経験・資格を考慮して決定）」（https://tkhs-kg.com/recruit/・1回目）
+  - 「賞与は年2回、決算手当あり」（https://tkhs-kg.com/recruit/・1回目）
+  - 「月給20万〜35万円」（https://tkhs-kg.com/recruit/・1回目）
+  - 「賞与は年2回」（https://tkhs-kg.com/recruit/・1回目）
+  - 「3000万円」（https://helloworkplus.com/company/1301-103494-5/・3回目）
+  - 「「年収」の求人には、月給表記の求人も含みます」（https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「1000万円」（https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「月給22万5,000円～26万7,000円 / 賞与あり」（https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「年収400万円～500万円 / 賞与あり・昇給あり」（https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「月給24万円～32万円 / 昇給あり」（https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「「栃木・上三川町／転勤無」技能工築炉・補修 将来のリーダー候補／賞与5ヶ月分／事業承継を見据えた増員」（https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「年収400万円～600万円 / 賞与あり・昇給あり」（https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+- 求人媒体：
+  - 「ハローワークで公開されたこの法人の求人情報を helloworkplus が集計したものです」（https://helloworkplus.com/company/1301-103494-5/・3回目）
+  - 「出典: ハローワークで公開された求人情報をもとに helloworkplus が集計」（https://helloworkplus.com/company/1301-103494-5/・3回目）
+  - 「高橋工業株式会社の転職・求人情報｜求人ボックス」（https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「求人ボックスは、検索結果に掲載する求人を通して対価を得ることがあります」（https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「求人ボックスでは、類似する求人が複数ヒットした際に求人を探しやすくなるよう自動で非表示にしています」（https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「求人ボックスでは、求人の要約部分などにAI技術を利用しております」（https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「求人ボックスは、食べログ・価格.com・キナリノなどを運営する株式会社カカクコムが運営しています」（https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「登録ボタンを押すことにより、求人ボックスの」（https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「※規約同意後は、求人ボックスから新着求人やおすすめの求人などの求人情報をご連絡することがあります」（https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「メール受信設定は、求人ボックスからのメールに記載されている配信停止のリンク、またはマイページからいつでも停止できます」（https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「・求人ボックス会員サービスでは、プロフィール情報を保存して効率的に求人に応募ができます」（https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+- 採用の発信：
+  - 「採用情報｜道東の仕事・先輩社員の声｜タカハシグループ」（https://tkhs-kg.com/recruit/・1回目）
+  - 「株式会社高橋工業さん(@takahashibousui) • Instagram写真と動画」（https://note.com/takahashibousui/n/n95a1f4970c4c・3回目）
+- 取引先・規模：
+  - 「薬品、食品添加物...<取引先>既存顧客中心とし、企業の研究機関や工場(製薬/化学/半導体/食品/バイオ等)、公立・民間の研究所、大学等<商材>試薬・」（https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「別海町を拠点に、空調設備工事...」（https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「工場・製造系／仕分け・シール貼り／検品 工業用スプレーの仕分け作業·土日祝休み／車通勤OK」（https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B・3回目）
+  - 「①建築板金、現場・工場での作業」（https://hi-bridge.jp/recruit・3回目）
+  - 「取引先は大手メーカーや安定したプラント関連企業」（https://takahashi-indus.com/recruit/・3回目）
+  - 「工場やプラント施設にて、設備の新設・改修・補修工事を行います」（https://takahashi-indus.com/recruit/・3回目）
+- 検索結果の抜粋：
+  - 「高橋工業株式会社 の給与 - Indeed (インディード) — 高橋工業株式会社の平均時給は、約1,100円 (一般事務) 〜約2,000円 (葬儀・セレモニースタッフ) です。 給与情報は、Indeed にこれまでに掲載された1,809件の求人に基いた推定値です。」（https://jp.indeed.com/cmp/高橋工業株式会社/salaries・3回目）
+  - 「高橋工業株式会社の求人一覧 （17件 ・23.0〜35.0万 ） — 高橋工業株式会社の求人一覧。 掲載求人数は17件。 月給・時給の相場は23.0〜35.0万です。 東京都文京区湯島3-26-5 TKKビル。 給与偏差値・年齢別年収データ付きでハローワーク求人を分析。 ハローワーク+で。」（https://helloworkplus.com/company/1301-103494-5/・3回目）
+  - 「高橋工業株式会社の転職・求人情報｜求人ボックス — 高橋工業株式会社 東京都 港区 品川駅 月給24万円～30万円 / 賞与あり・昇給あり 正社員 オフィスビルでの日中勤務です。 8時から18時までトータルビルメンテナンスを行う『 高橋工業 』。 【会社名】 高橋工業株式会社 【事業内容】創業 昭和26年5月... 未経験OK」（https://xn--pckua2a7gp15o89zb.com/高橋工業株式会社の仕事・3回目）
+  - 「高橋工業（湯島）のビルメン評判・年収は？現役ビルメンが独立系企業...高橋工業の年収・給与 平均年収も - エン カイシャの評判 (6179)採用情報｜高橋工業株式会社（公式ホームページ） — Oct 9, 2026 · 文京区湯島の独立系ビルメン会社・高橋工業株式会社を、現役ビルメン・転職7社経験のヘタ・レイが調査。 年収・ワークライフバランス・福利厚生の口コミから、2023年のホールディングス化や2026年最新求人まで解説します。 高橋工業株式会社のカテゴリ別口コミ （48件） 福利厚生・オフィス環境(8件) 企業カルチャー・組織体制(6件) 成長・働きがい(4件) 事業展望・強み・弱み(6件) Jan 27, 2023 · 高橋工業株式会社の採用情報です」（https://hetarei.xyz/takahasikougyou/・3回目）
+  - 「高橋工業の年収・給与 平均年収も - エン カイシャの評判 (6179) — 高橋工業株式会社のカテゴリ別口コミ （48件） 福利厚生・オフィス環境(8件) 企業カルチャー・組織体制(6件) 成長・働きがい(4件) 事業展望・強み・弱み(6件)」（https://en-hyouban.com/company/10007726179/salary/・3回目）
+  - 「新卒・未経験採用 - 高橋工業 — 新卒での就職や、未経験からの転職を考えている方も高橋工業がしっかりサポートします。 資格は就業時間内で勉強や取得ができますから、やったことがない方でも経験を積んで手に職をつけて楽しんで働いてくれています。」（https://hi-bridge.jp/recruit/newgraduate・3回目）
+  - 「採用情報 - 高橋工業 — 年齢に合わせた活躍の場を用意し、全員が長く勤められる会社を目指しています。 高橋工業では、｢年を重ねても仕事が出来る環境を整える｣ことを意識しています。 職人の中でも、特に建築板金は高所作業が多く、安全な作業がほとんどありません。」（https://hi-bridge.jp/recruit・3回目）
+  - 「採用情報 – 高橋工業 — モノづくりの最前線で、確かな技術を未来へ。 未経験から手に職をつけるなら、高橋工業。 当社では、未経験からスタートした社員が多数活躍しています。 最初は工具の名前も分からなかった…そんな方も今では立派な職人に。」（https://takahashi-indus.com/recruit/・3回目）
+  - 「高橋工業株式会社公式 正社員求人サイト | 採用情報採用情報｜高橋工業株式会社高橋工業の新卒採用・就職・企業情報【就活会議】高橋工業の新卒採用・就職・企業情報【就活会議】 — 高橋工業株式会社の求人サイト。 様々な職種・勤務地から自分にあったお仕事をさがすことができます♪経験者の応募も、未経験者の応募も大歓迎！ キニナル事があればお気軽にお問い合わせください。 高橋工業株式会社の採用情報。 電力地中線土木工事・一般土木工事スタッフを募集中。 日給16,000円〜、賞与年2回・決算賞与。 各種保険・単身用住宅ありで長く働けます。 高橋工業 (サービス, その他／東京都)の新卒採用の企業研究、就活・選考対策情報です。 会社概要から、企業の評判、先輩のESの実例、面接で聞かれた質問まで、本選考・インターンシップの対策情報を掲載しています。 高橋工業 (メーカー・製造業, 建設・設備／三重県)の新」（https://saiyo.page/240169・3回目）
+  - 「採用情報｜高橋工業株式会社 — 高橋工業株式会社の採用情報。 電力地中線土木工事・一般土木工事スタッフを募集中。 日給16,000円〜、賞与年2回・決算賞与。 各種保険・単身用住宅ありで長く働けます。」（https://takahashikougyou-corp.com/recruit.html・3回目）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索8回）
+- 資本金：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索8回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索8回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索8回）
+- 事業内容：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索8回）
+- 代表者：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索8回）
+- 主要取引先：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索8回）
+- 採用人数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索8回）
+- 人手不足の発言：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索8回）
 
 ## 高陽電機
 - 公式URL：https://freehire.me/（given）

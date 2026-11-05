@@ -1,0 +1,783 @@
+{
+ "name": "高橋工業",
+ "aliases": [],
+ "context": "広島県府中市／出典:マイナビ／求人媒体:見当たらず／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T07:40:01.004527+00:00",
+ "official_url": "https://tkhs-kg.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "北海道別海町",
+    "url": "https://tkhs-kg.com/works/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "北海道中標津町",
+    "url": "https://tkhs-kg.com/works/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用ページ": [
+   {
+    "quote": "2026年には過去最多の202人がエントリー",
+    "url": "https://tkhs-kg.com/",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報｜道東の仕事・先輩社員の声｜タカハシグループ",
+    "url": "https://tkhs-kg.com/recruit/",
+    "pass": 1
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "月給20万〜35万円（経験・資格を考慮して決定）",
+    "url": "https://tkhs-kg.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "賞与は年2回、決算手当あり",
+    "url": "https://tkhs-kg.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "月給20万〜35万円",
+    "url": "https://tkhs-kg.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "賞与は年2回",
+    "url": "https://tkhs-kg.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "3000万円",
+    "url": "https://helloworkplus.com/company/1301-103494-5/",
+    "pass": 3
+   },
+   {
+    "quote": "「年収」の求人には、月給表記の求人も含みます",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "1000万円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "月給22万5,000円～26万7,000円 / 賞与あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円～500万円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "月給24万円～32万円 / 昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "「栃木・上三川町／転勤無」技能工築炉・補修 将来のリーダー候補／賞与5ヶ月分／事業承継を見据えた増員",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円～600万円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円～700万円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収500万円～700万円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円～600万円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円～500万円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収500万円～700万円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円～500万円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収800万円～1,000万円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "月給22万1,740円～24万6,670円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "構内作業／玉掛け／搬入・荷揚げ 月給40万円以上 転勤なし 日勤のみ 玉掛け作業",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "月給40万円～ / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "日給1万円～1万7,000円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円～500万円 / 昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "月給35万円～60万円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "東京都文京区湯島 3-26-5 TKKビル 【待遇・福利厚生】交通費規定内支給(月15000万円迄) 残業なし",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "月給28万3,000円～30万7,000円 / 昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "駅 【雇用形態】正社員 【給与】[正]月給28.3万円～30.7万円 【勤務時間】[正]08:00～17:00 休憩時間 60分 残業時間(月間平均) 10時間 【休日・休暇など】日曜日、土曜日、祝日、完全週休2日 【事業内容】有料職業紹介事業 【会社名】",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "月給25万円～45万円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "採用情報｜道東の仕事・先輩社員の声｜タカハシグループ",
+    "url": "https://tkhs-kg.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社高橋工業さん(@takahashibousui) • Instagram写真と動画",
+    "url": "https://note.com/takahashibousui/n/n95a1f4970c4c",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "ハローワークで公開されたこの法人の求人情報を helloworkplus が集計したものです",
+    "url": "https://helloworkplus.com/company/1301-103494-5/",
+    "pass": 3
+   },
+   {
+    "quote": "出典: ハローワークで公開された求人情報をもとに helloworkplus が集計",
+    "url": "https://helloworkplus.com/company/1301-103494-5/",
+    "pass": 3
+   },
+   {
+    "quote": "高橋工業株式会社の転職・求人情報｜求人ボックス",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックスは、検索結果に掲載する求人を通して対価を得ることがあります",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックスでは、類似する求人が複数ヒットした際に求人を探しやすくなるよう自動で非表示にしています",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックスでは、求人の要約部分などにAI技術を利用しております",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックスは、食べログ・価格.com・キナリノなどを運営する株式会社カカクコムが運営しています",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "登録ボタンを押すことにより、求人ボックスの",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "※規約同意後は、求人ボックスから新着求人やおすすめの求人などの求人情報をご連絡することがあります",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "メール受信設定は、求人ボックスからのメールに記載されている配信停止のリンク、またはマイページからいつでも停止できます",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "・求人ボックス会員サービスでは、プロフィール情報を保存して効率的に求人に応募ができます",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "薬品、食品添加物...<取引先>既存顧客中心とし、企業の研究機関や工場(製薬/化学/半導体/食品/バイオ等)、公立・民間の研究所、大学等<商材>試薬・",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "別海町を拠点に、空調設備工事...",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "工場・製造系／仕分け・シール貼り／検品 工業用スプレーの仕分け作業·土日祝休み／車通勤OK",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "①建築板金、現場・工場での作業",
+    "url": "https://hi-bridge.jp/recruit",
+    "pass": 3
+   },
+   {
+    "quote": "取引先は大手メーカーや安定したプラント関連企業",
+    "url": "https://takahashi-indus.com/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "工場やプラント施設にて、設備の新設・改修・補修工事を行います",
+    "url": "https://takahashi-indus.com/recruit/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "高橋工業株式会社 の給与 - Indeed (インディード) — 高橋工業株式会社の平均時給は、約1,100円 (一般事務) 〜約2,000円 (葬儀・セレモニースタッフ) です。 給与情報は、Indeed にこれまでに掲載された1,809件の求人に基いた推定値です。",
+    "url": "https://jp.indeed.com/cmp/高橋工業株式会社/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "高橋工業株式会社の求人一覧 （17件 ・23.0〜35.0万 ） — 高橋工業株式会社の求人一覧。 掲載求人数は17件。 月給・時給の相場は23.0〜35.0万です。 東京都文京区湯島3-26-5 TKKビル。 給与偏差値・年齢別年収データ付きでハローワーク求人を分析。 ハローワーク+で。",
+    "url": "https://helloworkplus.com/company/1301-103494-5/",
+    "pass": 3
+   },
+   {
+    "quote": "高橋工業株式会社の転職・求人情報｜求人ボックス — 高橋工業株式会社 東京都 港区 品川駅 月給24万円～30万円 / 賞与あり・昇給あり 正社員 オフィスビルでの日中勤務です。 8時から18時までトータルビルメンテナンスを行う『 高橋工業 』。 【会社名】 高橋工業株式会社 【事業内容】創業 昭和26年5月... 未経験OK",
+    "url": "https://xn--pckua2a7gp15o89zb.com/高橋工業株式会社の仕事",
+    "pass": 3
+   },
+   {
+    "quote": "高橋工業（湯島）のビルメン評判・年収は？現役ビルメンが独立系企業...高橋工業の年収・給与 平均年収も - エン カイシャの評判 (6179)採用情報｜高橋工業株式会社（公式ホームページ） — Oct 9, 2026 · 文京区湯島の独立系ビルメン会社・高橋工業株式会社を、現役ビルメン・転職7社経験のヘタ・レイが調査。 年収・ワークライフバランス・福利厚生の口コミから、2023年のホールディングス化や2026年最新求人まで解説します。 高橋工業株式会社のカテゴリ別口コミ （48件） 福利厚生・オフィス環境(8件) 企業カルチャー・組織体制(6件) 成長・働きがい(4件) 事業展望・強み・弱み(6件) Jan 27, 2023 · 高橋工業株式会社の採用情報です",
+    "url": "https://hetarei.xyz/takahasikougyou/",
+    "pass": 3
+   },
+   {
+    "quote": "高橋工業の年収・給与 平均年収も - エン カイシャの評判 (6179) — 高橋工業株式会社のカテゴリ別口コミ （48件） 福利厚生・オフィス環境(8件) 企業カルチャー・組織体制(6件) 成長・働きがい(4件) 事業展望・強み・弱み(6件)",
+    "url": "https://en-hyouban.com/company/10007726179/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒・未経験採用 - 高橋工業 — 新卒での就職や、未経験からの転職を考えている方も高橋工業がしっかりサポートします。 資格は就業時間内で勉強や取得ができますから、やったことがない方でも経験を積んで手に職をつけて楽しんで働いてくれています。",
+    "url": "https://hi-bridge.jp/recruit/newgraduate",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報 - 高橋工業 — 年齢に合わせた活躍の場を用意し、全員が長く勤められる会社を目指しています。 高橋工業では、｢年を重ねても仕事が出来る環境を整える｣ことを意識しています。 職人の中でも、特に建築板金は高所作業が多く、安全な作業がほとんどありません。",
+    "url": "https://hi-bridge.jp/recruit",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報 – 高橋工業 — モノづくりの最前線で、確かな技術を未来へ。 未経験から手に職をつけるなら、高橋工業。 当社では、未経験からスタートした社員が多数活躍しています。 最初は工具の名前も分からなかった…そんな方も今では立派な職人に。",
+    "url": "https://takahashi-indus.com/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "高橋工業株式会社公式 正社員求人サイト | 採用情報採用情報｜高橋工業株式会社高橋工業の新卒採用・就職・企業情報【就活会議】高橋工業の新卒採用・就職・企業情報【就活会議】 — 高橋工業株式会社の求人サイト。 様々な職種・勤務地から自分にあったお仕事をさがすことができます♪経験者の応募も、未経験者の応募も大歓迎！ キニナル事があればお気軽にお問い合わせください。 高橋工業株式会社の採用情報。 電力地中線土木工事・一般土木工事スタッフを募集中。 日給16,000円〜、賞与年2回・決算賞与。 各種保険・単身用住宅ありで長く働けます。 高橋工業 (サービス, その他／東京都)の新卒採用の企業研究、就活・選考対策情報です。 会社概要から、企業の評判、先輩のESの実例、面接で聞かれた質問まで、本選考・インターンシップの対策情報を掲載しています。 高橋工業 (メーカー・製造業, 建設・設備／三重県)の新",
+    "url": "https://saiyo.page/240169",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報｜高橋工業株式会社 — 高橋工業株式会社の採用情報。 電力地中線土木工事・一般土木工事スタッフを募集中。 日給16,000円〜、賞与年2回・決算賞与。 各種保険・単身用住宅ありで長く働けます。",
+    "url": "https://takahashikougyou-corp.com/recruit.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "どんな会社？｜株式会社髙橋工業 Aug 27, 2019 · 株式会社高橋工業さん (@takahashibousui) • Instagram写真と動画 フォロワー64人、フォロー中68人、投稿24件 — 株式会社高橋工業さん (@takahashibousui)のInstag www.instagram.com",
+    "url": "https://note.com/takahashibousui/n/n95a1f4970c4c",
+    "pass": 3
+   },
+   {
+    "quote": "【845球目】45期上半期｜井上社長｜三陽工業株式会社 Aug 30, 2024 · それまでのプロパー社員を役員に登用するという新たな形で新・高橋工業がスタートしています。 その後三陽工業の生産推進グループから数名が高橋工業の現場へ派遣され現在も順調に生産活動を行っています。",
+    "url": "https://note.com/sanyo_industry/n/n6209835e7bdb",
+    "pass": 3
+   },
+   {
+    "quote": "【JCLOを知る】設立10年、新たな舞台はアジア｜代表理事 髙橋 潤｜ジ... Aug 1, 2025 · Writer：久保田幹也、Photo：野崎 秀幸 【運営団体】 一般社団法人ジャパンサーキットレディース推進機構 ジャパンサーキット・レディース – 高橋工業ファシリティーズ株式会社はオフィシャルパートナーです。 jpc-lady.org",
+    "url": "https://note.com/jpc_ladies_golf/n/n76b26c98af9f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "東京都墨田区で雨漏り工事を主体に分譲マンションや戸建てなど様々な建物の改修工事を行っております。",
+    "url": "https://note.com/takahashibousui/n/n95a1f4970c4c",
+    "pass": 3
+   },
+   {
+    "quote": "最近では内装工事も月間7件ほど対応しております。",
+    "url": "https://note.com/takahashibousui/n/n95a1f4970c4c",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社髙橋工業 (@bousuitakahashi) | Twitter",
+    "url": "https://note.com/takahashibousui/n/n95a1f4970c4c",
+    "pass": 3
+   },
+   {
+    "quote": "The latest Tweets from 株式会社髙橋工業 (@bousuitakahashi). 【公式】東京都墨田",
+    "url": "https://note.com/takahashibousui/n/n95a1f4970c4c",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社高橋工業 - 「いいね！」46件 · 12人が話題にしています - 雨漏り・防水工事、外壁塗装、リフォームなら東京",
+    "url": "https://note.com/takahashibousui/n/n95a1f4970c4c",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社高橋工業さん(@takahashibousui) • Instagram写真と動画",
+    "url": "https://note.com/takahashibousui/n/n95a1f4970c4c",
+    "pass": 3
+   },
+   {
+    "quote": "フォロワー64人、フォロー中68人、投稿24件 — 株式会社高橋工業さん(@takahashibousui)のInstag",
+    "url": "https://note.com/takahashibousui/n/n95a1f4970c4c",
+    "pass": 3
+   },
+   {
+    "quote": "色々なＳＮＳも更新してますのでよかったら見てください。",
+    "url": "https://note.com/takahashibousui/n/n95a1f4970c4c",
+    "pass": 3
+   },
+   {
+    "quote": "【845球目】45期上半期｜井上社長｜三陽工業株式会社",
+    "url": "https://note.com/sanyo_industry/n/n6209835e7bdb",
+    "pass": 3
+   },
+   {
+    "quote": "がスタートします。今日はこの上半期の振り返りを行っていきます。",
+    "url": "https://note.com/sanyo_industry/n/n6209835e7bdb",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月1日には京都・滋賀に構内請負職場を抱える",
+    "url": "https://note.com/sanyo_industry/n/n6209835e7bdb",
+    "pass": 3
+   },
+   {
+    "quote": "からスタートしました。三陽工業の製造担当役員が",
+    "url": "https://note.com/sanyo_industry/n/n6209835e7bdb",
+    "pass": 3
+   },
+   {
+    "quote": "となり、同時に三陽工業の姫路営業所から主任が赴任。それまでのプロパー社員を役員に登用するという新たな形で新・高橋工業がスタートしています。",
+    "url": "https://note.com/sanyo_industry/n/n6209835e7bdb",
+    "pass": 3
+   },
+   {
+    "quote": "その後三陽工業の生産推進グループから数名が高橋工業の現場へ派遣され現在も順調に生産活動を行っています。若干名、派遣契約にて就業している人がいましたが、既に三陽工業への転籍が完了しており、現在は三陽工業の",
+    "url": "https://note.com/sanyo_industry/n/n6209835e7bdb",
+    "pass": 3
+   },
+   {
+    "quote": "として活躍してくれています。そのうち1名とは先日の",
+    "url": "https://note.com/sanyo_industry/n/n6209835e7bdb",
+    "pass": 3
+   },
+   {
+    "quote": "これからの高橋工業は、現在の製造現場の最適化を進めていくことはもちろん、三陽工業の強みを少しずつ生かしていきながら、人的投資を進めて新たな仕事の開拓も視野にいれています。",
+    "url": "https://note.com/sanyo_industry/n/n6209835e7bdb",
+    "pass": 3
+   },
+   {
+    "quote": "【JCLOを知る】設立10年、新たな舞台はアジア｜代表理事 髙橋 潤｜ジャパンサーキットレディース広報",
+    "url": "https://note.com/jpc_ladies_golf/n/n76b26c98af9f",
+    "pass": 3
+   },
+   {
+    "quote": "【JCLOを知る】設立10年、新たな舞台はアジア｜代表理事 髙橋 潤",
+    "url": "https://note.com/jpc_ladies_golf/n/n76b26c98af9f",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人ジャパンサーキット・レディース推進機構（JCLO）代表理事。髙橋工業株式会社会長。元プロゴルファーとして活動後、女子ゴルフ界の発展のため、JCLOの立ち上げに参画。",
+    "url": "https://note.com/jpc_ladies_golf/n/n76b26c98af9f",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人ジャパンサーキット・レディース推進機構（JCLO）が設立されて今年で10年。女子ゴルフ界の下部組織として多くの選手を輩出してきた同団体は、今新たな挑戦としてアジア進出を本格化させている。",
+    "url": "https://note.com/jpc_ladies_golf/n/n76b26c98af9f",
+    "pass": 3
+   },
+   {
+    "quote": "代表理事を務める髙橋 潤氏に、これまでの10年間を振り返りながら、今後の展望について語ってもらった。",
+    "url": "https://note.com/jpc_ladies_golf/n/n76b26c98af9f",
+    "pass": 3
+   },
+   {
+    "quote": "Q.代表理事になられた経緯について教えてください",
+    "url": "https://note.com/jpc_ladies_golf/n/n76b26c98af9f",
+    "pass": 3
+   },
+   {
+    "quote": "JCLOを設立した当初は女子ゴルフの人気がなかった時代でした。宮里 藍選手などが出てきて少しずつ人気が出てきましたが、やはり男子の方が人気があって、賞金額も男子と女子では半額くらい違ったんです。「そんな状況を何とかしたい」という思いがありました。",
+    "url": "https://note.com/jpc_ladies_golf/n/n76b26c98af9f",
+    "pass": 3
+   },
+   {
+    "quote": "最初にサーキットをやっていた広瀬さんというプロの方が病気になられて、野崎さん（事務局長）が「これをなくしてしまうのはもったいない！」と私のところに持ってきてくれたんです。",
+    "url": "https://note.com/jpc_ladies_golf/n/n76b26c98af9f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#高橋工業\" - Results on X | Live Posts & Updates Results for \"#高橋工業\" on X (Twitter). Find the latest posts, discussions, and updates about #高橋工業. 19 results found.",
+    "url": "https://x.com/hashtag/高橋工業",
+    "pass": 3
+   },
+   {
+    "quote": "昭和35年 (1960) 高橋工業株式会社 帰って来たら きっと喜んで頂ける... 昭和35年 (1960) 高橋工業株式会社 帰って来たら きっと喜んで頂ける・・・ さくら石油コンロ 昭和の食卓の風景を使用した広告ですが、道民としては「んっ！ 」となる説明不要の味わい深い1枚ですね。",
+    "url": "https://x.com/_masaji_/status/2042165635786940505",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社高橋工業＠茨城県日立市 (@tkchitachi) / X 茨城県日立市より発信！ ニッポンのものづくり！！！！ ※無言フォローさせていただいております(;^ω^) 茨城県日立市金沢町3-12-4 ...",
+    "url": "https://x.com/tkchitachi",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社髙橋工業【分譲マンションの大規模修繕工事に特化した修繕】 ... 分譲マンションの大規模修繕工事を高橋工業では15・20年の耐用年数の工事を提案しております。 長期修繕計画を見直しを検討している方は是非弊社へお問い合わせください。 takahashi-bousui.com/daikibo/ 💬 0 🔄 0 🤍 5",
+    "url": "https://x.com/bousuitakahashi",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社髙橋工業【分譲マンションの大規模修繕工事に特化した修繕】 ... Dec 18, 2018 · 外壁塗装の写真を追加したのでご自由にお使いください。 https:// genbacafe.tokyo/gallery/painti ng/… #高橋工業 1 株式会社髙橋工業【分譲マンションの大規模修繕工事に特化した修繕】 @bousuitakahashi · Nov 29, 2022",
+    "url": "https://twitter.com/bousuitakahashi",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "高橋工業（株） | LinkedIn 高橋工業（株） 機械製造業 大阪市西淀川区、大阪府 4人のフォロワー",
+    "url": "https://jp.linkedin.com/company/高橋工業（株）",
+    "pass": 3
+   },
+   {
+    "quote": "高橋 陽太 - 高橋工業 - 建設業者 | LinkedIn 高橋工業 - 建設業者 · 職歴: 高橋工業 · 場所: 埼玉県。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで高橋 陽太さんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/陽太-高橋-37888a191",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社高橋工業 | Hitachi-shi Ibaraki - Facebook株式会社高橋工業 - Facebook株式会社高橋工業 | Notsuke-gun Hokkaido - Facebook高橋自動車工業 | Utsunomiya-shi Tochigi - Facebook株式会社高橋工業 - 昨年末からキックメーターの販売が始まり、カタロ...株式会社高橋工業 - 休憩中に、高橋工業の職人さんがネームピンを作成...株式会社高橋工業 - 2/12 (予定)から墨田区押上1-45-1に弊社の店舗一... Aug 16, 2017 · 高橋工業のブースに足を運んで頂き有り難うございま した。 来月2月2日に水戸で行われる『茨城ものづくり企業交 流会2017』に高橋工業が展示をすることになりました ！ ！ 会場には設計担当者が参加しているので、製品の詳し い説明・質問も対応致し",
+    "url": "https://www.facebook.com/takahashikogyo/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社高橋工業 - Facebook株式会社高橋工業 | Notsuke-gun Hokkaido - Facebook高橋自動車工業 | Utsunomiya-shi Tochigi - Facebook株式会社高橋工業 - 昨年末からキックメーターの販売が始まり、カタロ...株式会社高橋工業 - 休憩中に、高橋工業の職人さんがネームピンを作成...株式会社高橋工業 - 2/12 (予定)から墨田区押上1-45-1に弊社の店舗一... Aug 3, 2026 · はじめまして。 墨田区押上で、分譲マンションの大規模修繕工事を中心 に、外壁・屋上の防水工事や塗装工事を手がけておりま す、株式会社高橋工業です。 また、会社に隣接するかたちで「現場喫茶」というカフ ェも運営しております。 Aug 31, 2023 · 株式会社高橋工業 is in Kushiro, Hokkaido, Jap",
+    "url": "https://www.facebook.com/tel.0367965445/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社高橋工業 | Notsuke-gun Hokkaido - Facebook Aug 31, 2023 · 株式会社高橋工業 is in Kushiro, Hokkaido, Japan. 今日は、久しぶりの『スムノア』についての投稿 3ヶ月程前に、moji-moji betsukaiにご来店されたお客様が、弊社のスムノアに 興味があったらしく、お話をさせて頂き見積りをさせ て頂きました。",
+    "url": "https://www.facebook.com/p/株式会社高橋工業-100054433513133/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社高橋工業 - 昨年末からキックメーターの販売が始まり、カタロ... Jan 22, 2017 · Recent posts 株式会社高橋工業 9y · Public 休憩中に、高橋工業の職人さんがネームピンを作成し てくれました😆 完成度の高さに感動 株式会社高橋工業 and 2 others 3 1 株式会社高橋工業 9y · Public 梱包用にプチプチを裁断していたら、ハートを発見！",
+    "url": "https://www.facebook.com/takahashikogyo/posts/昨年末からキックメーターの販売が始まりカタログが出来上がりました発電所変電所の配電盤や保守点検時に使用する試験装置になっています高橋工業の自信作なので興味のある/1416861228346441/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tkhs-kg.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tkhs-kg.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tkhs-kg.com/works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tkhs-kg.com/contact/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/cmp/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://helloworkplus.com/company/1301-103494-5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E6%A9%8B%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-bridge.jp/recruit/newgraduate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-bridge.jp/recruit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takahashi-indus.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/takahashibousui/n/n95a1f4970c4c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sanyo_industry/n/n6209835e7bdb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jpc_ladies_golf/n/n76b26c98af9f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/高橋工業",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/_masaji_/status/2042165635786940505",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tkchitachi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/bousuitakahashi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/高橋工業（株）",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/陽太-高橋-37888a191",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/takahashikogyo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tel.0367965445/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/株式会社高橋工業-100054433513133/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/takahashikogyo/posts/昨年末からキックメーターの販売が始まりカタログが出来上がりました発電所変電所の配電盤や保守点検時に使用する試験装置になっています高橋工業の自信作なので興味のある/1416861228346441/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/高橋工業",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://twitter.com/bousuitakahashi",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "高橋工業 求人 年収",
+   "results": [
+    "https://jp.indeed.com/cmp/高橋工業株式会社/salaries",
+    "https://helloworkplus.com/company/1301-103494-5/",
+    "https://xn--pckua2a7gp15o89zb.com/高橋工業株式会社の仕事",
+    "https://hetarei.xyz/takahasikougyou/",
+    "https://en-hyouban.com/company/10007726179/salary/",
+    "https://takahashi-kk1963.jp/pages/6/",
+    "https://jp.indeed.com/cmp/高橋工業株式会社-ffc31ccd/salaries",
+    "https://www.bing.com/aclick?ld=e82QosCijtNu-MaTqWsvTGYzVUCUyWZlFm1ZSU5CQ--ge4aF52P2WofhrZOwjto1Yy0lIrc9v_3ztrCxw8pLLOuEf0TYgPQZ-bhr2FDibHPoKOg2fQIDS-j5ZGgNSbGeDGOy45RXEQ6X5fKSRxhC_BQoqAMz2x8cesenzSZlR8xkvRPvBJLRqSe651vqgWtGe4WHzUXA&u=aHR0cHMlM2ElMmYlMmZocm1vcy5jbyUyZmxhbmRpbmclMmZhdHMlMmYwN19iaXouaHRtbCUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnRyY2QlM2Q3TUFCUjAwMDAwMDdfUENfJTI2bXNjbGtpZCUzZGVkN2ZjMDc2YTcyODFmNTk2ZDFkYWE5YTk1ZjcyZjNi&rlid=ed7fc076a7281f596d1daa9a95f72f3b",
+    "https://www.bing.com/aclick?ld=e810b0lx3ajzUU7IC27739uTVUCUyc21W42hYMqr9SMkjlS4QTWzbL6idYJR8fpzO93XwPSWquZT9UDFUg8yC0q1fpr04k_DE_WlLyl5xA9L-_s56R1XS7Vl2jY7JJbkxGt_2pOQypYF6euyFu9Kh-agqr8Rct8LpHXV3DkVlpCvOnIqP2NM_dfd3qcJQ-70vtq5bsiw&u=aHR0cHMlM2ElMmYlMmZkaXJlY3RzY291dC5yZWNydWl0LmNvLmpwJTJmYWQlMmYwMzElMmYlM2Z2b3MlM2RyZHNjc2xpczAxbXNmdF9hY19GMTIwUlU5Rl9jbV80ODIwNzUzNzBfZ3BfMTIyNzA1NTI4NjE3Njg5OF9jcl83NjY5MTE1NjE4OTY4Nl9rd19rd2QtNzY2OTExODk1MzA4NjNfZHZfY19zbF8lMjZtc2Nsa2lkJTNkZGY1NjBjNDFmY2YzMWRiZTQ2YjE2NmFkY2UyYzIyY2M&rlid=df560c41fcf31dbe46b166adce2c22cc",
+    "https://www.bing.com/aclick?ld=e8Dpn03ydt26t7CD0V3aMpADVUCUxLi0YhjYWu92deingpgHzIy_-H5EHKnLd8c5nI1UG8LI9qf9OuH0hIOd5ptkVu-EgzKPN4K89-_4m1WnEVlfTvKiSGTdKhwcNabzZH_tkSuxVX1VvDQzmEpQfgtIaeinkDS0KC8trpNVsjGoscKofMFsUnDEEk4dkDD9BWwCoinQ&u=aHR0cHMlM2ElMmYlMmZocm1vcy5jbyUyZmxhbmRpbmclMmZhdHMlMmYwN19iaXouaHRtbCUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnRyY2QlM2Q3TUFCUjAwMDAwMDdfUENfJTI2bXNjbGtpZCUzZDIyM2ZlZTczY2U3NDFlNzNhZDczODQ5ZmZjOTE5YzJj&rlid=223fee73ce741e73ad73849ffc919c2c"
+   ]
+  },
+  {
+   "query": "高橋工業 採用 新卒 高卒",
+   "results": [
+    "https://hi-bridge.jp/recruit/newgraduate",
+    "https://hi-bridge.jp/recruit",
+    "https://takahashi-indus.com/recruit/",
+    "https://saiyo.page/240169",
+    "https://takahashikougyou-corp.com/recruit.html",
+    "https://syukatsu-kaigi.jp/companies/164413",
+    "https://syukatsu-kaigi.jp/companies/134374/",
+    "https://www.bing.com/aclick?ld=e8_TNXr0q-BoFvyVajcwxvKzVUCUxUucwH5cHPoa5mLhD4eOZ8lbBzgE8HVGRnzwdBuqDnszhvqefOpxB0h4J5HNoadClliJvh8QJdvjZ15OxS4fPYoaUFFTjs_VpGSM4r4GuNzf3ubYR2FQEhEfvUoP8wJe1KPkAvWzZi9aRzS6ugC0A9ZJWtP_fc-Qy0SYIqofzKSw&u=aHR0cHMlM2ElMmYlMmZkaXJlY3RzY291dC5yZWNydWl0LmNvLmpwJTJmYWQlMmYwMzElMmYlM2Z2b3MlM2RyZHNjc2xpczAxbXNmdF9hY19GMTIwUlU5Rl9jbV80ODIwNzUzNzBfZ3BfMTIyNzA1NTI4NjE3Njg5OF9jcl83NjY5MTE1NjE4OTY4Nl9rd19rd2QtNzY2OTExODk1MjE2NjhfZHZfY19zbF8lMjZtc2Nsa2lkJTNkY2EwODY5MThjM2Y5MTkxNDZlNDMwM2Y0ZjBmNjFiZDE&rlid=ca086918c3f919146e4303f4f0f61bd1"
+   ]
+  },
+  {
+   "query": "site:note.com 高橋工業",
+   "results": [
+    "https://note.com/takakura_kohgyo/n/nf05d7ab751f2",
+    "https://note.com/takahashibousui/n/n95a1f4970c4c",
+    "https://note.com/sanyo_industry/n/n6209835e7bdb",
+    "https://note.com/jpc_ladies_golf/n/n76b26c98af9f",
+    "https://note.com/sanyo_industry/n/n8574e1909ca3",
+    "https://note.com/takakura_kohgyo/n/nceb8833efa15",
+    "https://note.com/takakura_kohgyo/n/n25d008c60362"
+   ]
+  },
+  {
+   "query": "site:x.com 高橋工業",
+   "results": [
+    "https://x.com/hashtag/高橋工業",
+    "https://x.com/_masaji_/status/2042165635786940505",
+    "https://x.com/tkchitachi",
+    "https://x.com/bousuitakahashi",
+    "https://x.com/asazaiijima/status/1954823089583186281",
+    "https://x.com/takahashidenka",
+    "https://x.com/vibeistani/status/2116644824703279122"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 高橋工業",
+   "results": [
+    "https://jp.linkedin.com/company/高橋工業（株）",
+    "https://jp.linkedin.com/in/陽太-高橋-37888a191",
+    "https://www.linkedin.com/in/مهدی-فیلم-سکسی-وسوپرکس-کون-کردن-49b038186",
+    "https://www.linkedin.com/pub/dir/秀和/高橋",
+    "https://ca.linkedin.com/in/celia-groisman-9a7509321",
+    "https://dk.linkedin.com/in/wolfgangchristensen",
+    "https://hu.linkedin.com/in/judit-csenge-vizi"
+   ]
+  },
+  {
+   "query": "site:facebook.com 高橋工業",
+   "results": [
+    "https://www.facebook.com/takahashikogyo/",
+    "https://www.facebook.com/tel.0367965445/",
+    "https://www.facebook.com/p/株式会社高橋工業-100054433513133/",
+    "https://www.facebook.com/takahashikogyo/posts/昨年末からキックメーターの販売が始まりカタログが出来上がりました発電所変電所の配電盤や保守点検時に使用する試験装置になっています高橋工業の自信作なので興味のある/1416861228346441/",
+    "https://www.facebook.com/takahashikogyo/photos/1644723138893581/",
+    "https://www.facebook.com/tel.0367965445/posts/212予定から墨田区押上1-45-1に弊社の店舗一号店となるカフェがオープンしますその名も現場喫茶です建築現場をモチーフにし店内には足場や実際の塗料をしたディス/2657428331151625/",
+    "https://www.facebook.com/p/高橋自動車工業-100063547331614/"
+   ]
+  },
+  {
+   "query": "高橋工業 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://shachomeikan.jp/industry_article/3906",
+    "https://shachomeikan.jp/corporations/24116",
+    "https://compalyze.co.jp/company/4010001004672",
+    "https://note.com/tag/高橋社長",
+    "https://tkk-bm.co.jp/company/message/",
+    "https://tkk-bm.co.jp/company/position/"
+   ]
+  },
+  {
+   "query": "高橋工業 X 投稿",
+   "results": [
+    "https://x.com/hashtag/高橋工業",
+    "https://www.instagram.com/takahashibousui/",
+    "https://twitter.com/bousuitakahashi",
+    "https://x.com/bousuitakahashi",
+    "https://search.yahoo.co.jp/realtime/search/高橋藍/",
+    "https://research.thinkmove.jp/",
+    "https://note.com/mgane/n/n1c0d7384c8a0"
+   ]
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索8回）",
+  "資本金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索8回）"
+ }
+}

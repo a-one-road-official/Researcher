@@ -8,7 +8,7 @@
  ],
  "context": "定義の点検",
  "kind": "market",
- "researched_at": "2026-11-05T05:36:39.709245+00:00",
+ "researched_at": "2026-11-05T07:23:47.587458+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -190,8 +190,8 @@
     "https://note.com/nanto_econ",
     "https://www.soumu.go.jp/main_content/000666068.pdf",
     "https://note.com/ei_tsukamoto/n/n7d1818959b6a",
-    "https://note.jp/n/n0c08f6e33ab8",
     "https://japanproductmanagement.com/media/public-resources",
+    "https://note.jp/n/n0c08f6e33ab8",
     "https://www.shl.co.jp/column/perspective/statistical-significance/",
     "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html"
    ]
@@ -246,36 +246,28 @@
    "results": [
     "https://note.com/bearcapital/n/n4f3d135558b3",
     "https://note.com/uedamath/n/nae5cd24433ea",
-    "https://note.com/masumasu_note/n/neef8d2501da3",
     "https://note.com/kenko2024/n/na7db5c406f98",
-    "https://note.com/statistics_ai/n/n205349f6d99d",
     "https://note.com/makememo/n/n7ae565d6e7f0",
     "https://note.com/paguinu/n/n175e4c9bea71",
-    "https://note.com/roselite/n/nda0bcd852d3e"
+    "https://note.com/statistics_ai/n/n205349f6d99d",
+    "https://note.com/paguinu/n/n161fb26a6126",
+    "https://note.com/hiroshi_gomi/n/n2b41fe7fa1d3"
    ]
   },
   {
    "query": "site:x.com 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）",
-   "results": [
-    "https://x.com/Sakura_Med_DSci/status/2117084361283760618",
-    "https://x.com/tokuyobi/status/2060647415372259783",
-    "https://x.com/Gustav_Mononobe/status/2112725020472680713",
-    "https://x.com/bot_kanazawa/status/2102382783327072664",
-    "https://x.com/tru_isct/status/2083915567153770905",
-    "https://x.com/BOT_SWkokushi/status/1586953495592464385",
-    "https://x.com/grok/status/2109126514205765955"
-   ]
+   "results": []
   },
   {
    "query": "site:linkedin.com 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）",
    "results": [
     "https://jp.linkedin.com/learning/cert-prep-corporate-activities-for-it-passport-31669299/8729025",
-    "https://jp.linkedin.com/pulse/statistical-sampling-market-research-what-its-types-?tl=ja",
     "https://www.linkedin.com/posts/hiroyukimonma_工場での抜き取り検査と検査判定基準-イラスト図解-日本のものづくり品質管理-activity-7269624851126988800-WZ_c",
-    "https://www.linkedin.com/posts/shokamura_近況報告-english-follows-japanese-実務教育研究所-activity-7357251360871903232-BIC0",
     "https://jp.linkedin.com/learning/statistics-foundations-3-using-data-sets-19861761/3369083",
+    "https://www.linkedin.com/posts/shokamura_近況報告-english-follows-japanese-実務教育研究所-activity-7357251360871903232-BIC0",
+    "https://jp.linkedin.com/pulse/statistical-sampling-market-research-what-its-types-?tl=ja",
     "https://jp.linkedin.com/pulse/wat-statistics-why-important-digital-elearning?tl=ja",
-    "https://jp.linkedin.com/pulse/why-statistics-terminology-especially-confusing-karen-grace-martin-3dfrc?tl=ja"
+    "https://jp.linkedin.com/learning/statistics-foundations-3-using-data-sets-19861761/3371063"
    ]
   },
   {
@@ -294,14 +286,15 @@
    "query": "統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か） note 社長",
    "results": [
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://note.com/paguinu/n/n5e638afbfc77",
-    "https://note.com/tnishimaki/n/ndbaaed8d02be",
+    "https://note.com/bunsekiya_tech/n/n905bc3d35a79",
     "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
+    "https://note.com/tnishimaki/n/ndbaaed8d02be",
     "https://www.soumu.go.jp/main_content/000666068.pdf",
-    "https://note.com/haruharuy/n/nc51e3bccf8f9",
-    "https://www.insource-da.co.jp/dxpedia/2412_01.html",
+    "https://note.com/nanto_econ",
     "https://note.jp/n/n0c08f6e33ab8",
-    "https://www.meti.go.jp/statistics/tyo/syoudou/pdf/survey_report_r03.pdf"
+    "https://www.meti.go.jp/statistics/tyo/syoudou/pdf/survey_report_r03.pdf",
+    "https://www.insource-da.co.jp/dxpedia/2412_01.html",
+    "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html"
    ]
   },
   {
@@ -315,8 +308,7 @@
     "https://www.soumu.go.jp/main_content/000666068.pdf",
     "https://researto.com/column/statistical-significance-p-value-marketing/",
     "https://www.e-stat.go.jp/surveyplan-ir-guide",
-    "https://engineering-technology.brexa.com/blog/technavi/monozukuri-statistics-3-significance-test/",
-    "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html"
+    "https://engineering-technology.brexa.com/blog/technavi/monozukuri-statistics-3-significance-test/"
    ]
   },
   {
@@ -328,10 +320,10 @@
     "https://www.linkedin.com/in/yue-shentu-97136818",
     "https://www.linkedin.com/top-content/ecommerce/handling-ecommerce-logistics/carrier-selection-criteria/",
     "https://www.linkedin.com/posts/irinajordan_one-of-the-hardest-parts-of-leading-marketing-activity-7520567798578769920-nDm_",
-    "https://www.linkedin.com/in/parinayrikhy77",
     "https://www.linkedin.com/posts/moshiur-insurance_employeebenefits-grouphealthinsurance-activity-7511767892615536640-tJsM",
+    "https://www.linkedin.com/in/parinayrikhy77",
     "https://www.linkedin.com/in/brittanyennix",
-    "https://www.linkedin.com/in/charlie-o-connor-7a6953106"
+    "https://www.linkedin.com/pulse/marine-insurance-four-layers-protect-ship-shipfinex-v4noc"
    ]
   }
  ],
@@ -343,6 +335,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-05T05:36:39.709245+00:00"
 }

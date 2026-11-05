@@ -1,0 +1,246 @@
+{
+ "name": "114",
+ "aliases": [],
+ "context": "山口県周南市／出典:大学・高専の企業説明会／求人媒体:Indeed／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T07:23:47.766620+00:00",
+ "official_url": "https://ladol.info/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "山口県周南市毛利町3−40 地図（googleマップ）",
+    "url": "https://ladol.info/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒745-0004 山口県周南市毛利町3丁目40番地 電話番号：0834-32-5853 FAX： 0834-32-5853 ご連絡頂ければ、面接日程などお話します。",
+    "url": "https://ladol.info/recruit-2204/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創立",
+    "value": "創立：平成2年10月",
+    "url": "https://ladol.info/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "充填業務・構内作業・入出荷業務・構内倉庫・製品保管業務・運転支援業務・産業廃棄物収集運搬",
+    "url": "https://ladol.info/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "水本直人",
+    "url": "https://ladol.info/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {},
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ladol.info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ladol.info/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ladol.info/recruit-2204/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ladol.info/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ladol.info/category/recruit/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10007370007/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.114sys.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.114bank.co.jp/tensyoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.114bank.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp58195/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.114sys.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "114 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10007370007/",
+    "https://www.114sys.co.jp/recruit/",
+    "https://www.114bank.co.jp/tensyoku/",
+    "https://www.openwork.jp/one_answer.php?vid=a0A1000001L1Uey&qco=2",
+    "https://jp.stanby.com/search?cp_id=2920&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st",
+    "https://tenshoku.mynavi.jp/jobinfo-361872-5-29-1/",
+    "https://en-hyouban.com/company/10007370007/salary/",
+    "https://www.jmsc.co.jp/entry/salary_700/page_114/",
+    "https://highest-recruit.com/recruit/recruit26709_2026_11/",
+    "https://www.nikkei.com/nkd/company/salary/?scode=8386"
+   ]
+  },
+  {
+   "query": "114 採用 新卒 高卒",
+   "results": [
+    "https://www.114bank.co.jp/recruit/",
+    "https://job.mynavi.jp/27/pc/search/corp58195/outline.html",
+    "https://www.114sys.co.jp/recruit/",
+    "https://www.114bank.co.jp/recruit/graduates/information/",
+    "https://www.wskagawa.jp/index.php?prog=pub_kyujin&exec=detail&kyujin_key=10-0013-a013",
+    "https://job.career-tasu.jp/corp/00000091/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10007370007/",
+    "https://syukatsu-kaigi.jp/companies/18345",
+    "https://www.instagram.com/p/DZE3Zo9jEMX/",
+    "https://job.rikunabi.com/selection/job_search/kw/114/"
+   ]
+  },
+  {
+   "query": "site:note.com 114",
+   "results": [
+    "https://note.com/kisoku_yakkan/n/n980c615633aa",
+    "https://note.com/obanaika/n/nbb6259782101",
+    "https://note.com/vast_zephyr7636/n/ne456b99e0227",
+    "https://note.com/lively_fairy450/n/n960f6e6b2f75",
+    "https://note.com/fair_lilac138/n/nfcbcea63557f",
+    "https://note.com/itjlaw/n/n54eafa8a231f",
+    "https://note.com/kobira_official/n/ncfaeec1fd171",
+    "https://note.com/laboroai/n/n50f3d0156da5",
+    "https://note.com/gentle_yarrow801/n/ne0966b863818?hl=en",
+    "https://note.com/kuroniki/n/nf22f57f5511b"
+   ]
+  },
+  {
+   "query": "site:x.com 114",
+   "results": [
+    "https://x.com/114",
+    "https://x.com/TodayFM/status/2104959074001465674",
+    "https://x.com/TTCnotices/status/2117718558029328551",
+    "https://x.com/GGCanada/status/1332281766388830209",
+    "https://x.com/thomasmaheronf1/status/2113753905863471430",
+    "https://x.com/433/status/2103483579493699750",
+    "https://x.com/FRIEREN_PR/status/1898660031329083871",
+    "https://x.com/TTCnotices/status/2116362618453545026",
+    "https://x.com/ByVarunShankar/status/2113848085940158810",
+    "https://x.com/114OnSolana/article/2102140383614717987"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 114",
+   "results": [
+    "https://www.linkedin.com/pulse/what-section-114-local-government-finance-act-1988-does-nathan-holden",
+    "https://www.linkedin.com/company/114-ai-inc",
+    "https://www.linkedin.com/pulse/kicking-can-down-road-section-114-notices-marcus-richards-gqyye",
+    "https://www.linkedin.com/posts/dlbhattmd_cardiology-activity-7453197878790885376-BU8u",
+    "https://www.linkedin.com/news/story/famed-english-soccer-team-guilty-of-114-premier-league-charges-8684905/",
+    "https://www.linkedin.com/posts/orion-s.p.a._a-giant-in-the-making-orions-114-inch-activity-7347514942142439424-qK6N",
+    "https://ca.linkedin.com/jobs/print-manager-jobs-greater-calgary-metropolitan-area",
+    "https://ee.linkedin.com/company/crm114gaming",
+    "https://ie.linkedin.com/jobs/view/trdml2023086-114-grade-v-%E2%80%93-dublin-south-central-dublin-south-west-kildare-west-wicklow-at-health-service-executive-3614579840",
+    "https://www.linkedin.com/pulse/fbar-form-8938-what-us-taxpayers-foreign-assets-need-know-mahajan-awwoc"
+   ]
+  },
+  {
+   "query": "site:facebook.com 114",
+   "results": [
+    "https://www.facebook.com/114brigade/",
+    "https://www.facebook.com/groups/236016023255456/",
+    "https://www.facebook.com/LVLegion114/",
+    "https://www.facebook.com/govph/posts/%F0%9D%90%8C%F0%9D%90%84%F0%9D%90%8C%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%83%F0%9D%90%94%F0%9D%90%8C-%F0%9D%90%82%F0%9D%90%88%F0%9D%90%91%F0%9D%90%82%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%91-%F0%9D%90%8D%F0%9D%90%8E-%F0%9D%9F%8F%F0%9D%9F%8F%F0%9D%9F%92-%F0%9D%90%AC-%F0%9D%9F%90%F0%9D%9F%8E%F0%9D%9F%90%F0%9D%9F%94directing-all-government-agencies-and-instrumen/1217421177217524/",
+    "https://www.facebook.com/p/114-Reserve-100090770723428/",
+    "https://www.facebook.com/RALPHJOHNSONDDG114/",
+    "https://www.facebook.com/groups/pokemontcgkorea/posts/1384836239229562/",
+    "https://www.facebook.com/talkSPORT/posts/-breaking-news-manchester-city-are-found-guilty-of-114-charges/1579288804239001/",
+    "https://www.facebook.com/americanairshowreview/posts/i-know-its-not-a-usa-based-demo-team-but-they-do-travel-down-here-for-our-enjoym/895520530219612/",
+    "https://www.facebook.com/RCAF.ARC/videos/this-friday-join-us-in-saying-farewell-to-the-ct-114-tutorswatch-the-last-airsho/1786567359338058/"
+   ]
+  },
+  {
+   "query": "114 note 社長",
+   "results": [
+    "https://note.com/jankenpon_gcp/n/nbdb138dc0c45",
+    "https://note.com/tmadenokoji/n/n0e9e21056e0e",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/kobira_official/n/ncfaeec1fd171",
+    "https://www.114bank.co.jp/company/message/",
+    "https://www.jtbcorp.jp/jp/jtbeing/2026/06/interview-next-president-next-chairman.html",
+    "https://www.selva-i.co.jp/article/archives/3224",
+    "https://note.com/_satotoshio_/n/n28b773cd6da5",
+    "https://diamond.jp/articles/-/388572",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "114 X 投稿",
+   "results": [
+    "https://www.pc-webzine.com/article/1849",
+    "https://help.x.com/ja/using-x/articles",
+    "https://www.koukoku.jp/service/suketto/marketer/sns/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91x%EF%BC%88%E6%97%A7twitter%EF%BC%89%E3%81%AE%E8%A8%98%E4%BA%8B%E6%A9%9F%E8%83%BD%E3%81%A8%E3%81%AF%EF%BC%9F%E7%89%B9%E5%BE%B4%E3%83%BB%E4%BD%BF/",
+    "https://koneta.nifty.com/koneta_detail/1141008024346_1.htm",
+    "https://www.ichiyajo.jp/notes/2026-05-18-x-auto-post-guide-2026/",
+    "https://www.xserver.ne.jp/blog/twitter-beginner/",
+    "https://note.com/socialselling/n/n80449faef8e2",
+    "https://istep.click/news_blog/5561",
+    "https://www.sharecoto.co.jp/twitterlab/function/article_feature/",
+    "https://x.com/mr_114"
+   ]
+  }
+ ],
+ "missing": {
+  "資本金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用ページ": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "想定年収・給与": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "取引先・規模": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）"
+ }
+}

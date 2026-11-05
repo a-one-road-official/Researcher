@@ -1,0 +1,832 @@
+{
+ "name": "じもナビ",
+ "aliases": [],
+ "context": "広島県広島市／出典:地元の採用情報／求人媒体:自社採用ページ／想定年収:未取得／従業員:603",
+ "researched_at": "2026-11-05T07:30:19.407320+00:00",
+ "official_url": "https://jimo-navi.com/",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "コンサート制作、アーティスト等のプロモーション／広告代理業務／イベント企画制作ほか",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%BB%E3%83%94%E3%83%BC/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "デニム衣類　企画・製造・卸し",
+    "url": "https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF%E3%83%87%E3%83%8B%E3%83%A0/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "食料品スーパーマーケット",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A0%E3%83%A9/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "各種ウェア及び、各種用品のマーキング加工",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "腕時計組み立てと腕時計用ムーブメント組み立て及び部品加工",
+    "url": "https://jimo-navi.com/company/%E4%BA%8C%E6%88%B8%E6%99%82%E8%A8%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "■Webサイト制作、■業務システム開発、■セキュリティ対策支援、■クラウドサービス事業、■保育者向けIT専門紙発行",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%95%E3%83%88/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "連続鋳造設備の補修、整備、産業機械用部品製作、難削材加工、機械設備設計",
+    "url": "https://jimo-navi.com/company/%E6%9F%8F%E6%9C%A8%E9%89%84%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "ナチュラルフードレストラン　バターフィールドの経営",
+    "url": "https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%BA/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒980-0821 宮城県仙台市青葉区春日町6-15",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%BB%E3%83%94%E3%83%BC/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒988-0325 宮城県気仙沼市本吉町蔵内83-1",
+    "url": "https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF%E3%83%87%E3%83%8B%E3%83%A0/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒992-0044 山形県米沢市春日1丁目7-77",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A0%E3%83%A9/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒861-5535 熊本県熊本市北区貢町780-12",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒028-6102 岩手県二戸市下斗米字上野平67-12",
+    "url": "https://jimo-navi.com/company/%E4%BA%8C%E6%88%B8%E6%99%82%E8%A8%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒425-0074 静岡県焼津市柳新屋436-1（2018年2月5日より）",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%95%E3%83%88/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒640-8401 和歌山県和歌山市福島89番地",
+    "url": "https://jimo-navi.com/company/%E6%9F%8F%E6%9C%A8%E9%89%84%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒950-0933 新潟県新潟市中央区 清五郎123",
+    "url": "https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%BA/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1,000万円",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%BB%E3%83%94%E3%83%BC/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "500万円",
+    "url": "https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF%E3%83%87%E3%83%8B%E3%83%A0/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "3,285万円",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A0%E3%83%A9/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1,000万円(2014年7月現在)",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "2,000万円",
+    "url": "https://jimo-navi.com/company/%E4%BA%8C%E6%88%B8%E6%99%82%E8%A8%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "8,000万円",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%95%E3%83%88/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "4,000万円",
+    "url": "https://jimo-navi.com/company/%E6%9F%8F%E6%9C%A8%E9%89%84%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "300万円",
+    "url": "https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%BA/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "46名（平均年齢31歳）",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%BB%E3%83%94%E3%83%BC/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "20名",
+    "url": "https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF%E3%83%87%E3%83%8B%E3%83%A0/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "285名",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A0%E3%83%A9/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "180名(正社員69名、パート111名)",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "99名",
+    "url": "https://jimo-navi.com/company/%E4%BA%8C%E6%88%B8%E6%99%82%E8%A8%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "54名（平均年齢35.8歳）（2017年10月現在）",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%95%E3%83%88/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "30名（平均年齢39歳）",
+    "url": "https://jimo-navi.com/company/%E6%9F%8F%E6%9C%A8%E9%89%84%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "73名（平均年齢29歳）",
+    "url": "https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%BA/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1981年7月",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%BB%E3%83%94%E3%83%BC/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1981年4月",
+    "url": "https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF%E3%83%87%E3%83%8B%E3%83%A0/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1997年3月",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A0%E3%83%A9/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1963年3月",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1974年2月",
+    "url": "https://jimo-navi.com/company/%E4%BA%8C%E6%88%B8%E6%99%82%E8%A8%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1992年4月",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%95%E3%83%88/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1955年1月",
+    "url": "https://jimo-navi.com/company/%E6%9F%8F%E6%9C%A8%E9%89%84%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2000年4月",
+    "url": "https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%BA/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "300,000万円",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%BB%E3%83%94%E3%83%BC/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "13,500万円",
+    "url": "https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF%E3%83%87%E3%83%8B%E3%83%A0/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "385,000万円",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A0%E3%83%A9/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "10億円(2013年8月末実績)",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "50,000万円",
+    "url": "https://jimo-navi.com/company/%E4%BA%8C%E6%88%B8%E6%99%82%E8%A8%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "5億5,000万円（2016年度末）",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%95%E3%83%88/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "63,526万円",
+    "url": "https://jimo-navi.com/company/%E6%9F%8F%E6%9C%A8%E9%89%84%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "29,000万円",
+    "url": "https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%BA/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用ページ": [
+   {
+    "quote": "本サイトでは、全国のＵターン･Ｉターン就職に関するイベント・フェア・セミナーや就職情報を集約し、またインターンシップ・自己分析・業界企業職種研究・エントリーシートについてなどの就活ノウハウを提供することで、優秀な人材を確保したい地域の中小企業と、就職を希望する大学生等のマッチングを実現するきっかけをつくることを目指しています",
+    "url": "https://jimo-navi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ネットワークソリューション、セキュリティソリューション、コンタクトサービス、コンピュータ保守サービス、インターネット関連サービス、データエントリーサービス、コンピュータ機器・用品販売",
+    "url": "https://jimo-navi.com/company/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "本サイトでは、全国のＵターン･Ｉターン就職に関するイベント・フェア・セミナーや就職情報を集約し、またインターンシップ・自己分析・業界企業職種研究・エントリーシートについてなどの就活ノウハウを提供することで、優秀な人材を確保したい地域の中小企業と、就職を希望する大学生等のマッチングを実現するきっかけをつくることを目指しています",
+    "url": "https://jimo-navi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "社長からのメッセージや先輩社員からのひとことなどのメッセージや、働きがい・職場の雰囲気などの内容で構成されています",
+    "url": "https://jimo-navi.com/",
+    "pass": 1
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "沖縄県うるま市字川崎４６８番地 いちゅい具志川じんぶん館１F",
+    "url": "https://jimo-navi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "今、国内の大手メーカーは工賃の安い海外に工場を建てるケースが増えていますが、そのデメリットとして、日本が世界に誇る高い技術が海外に流失し、日本のモノづくりが競争力を失うという課題を抱えています",
+    "url": "https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF%E3%83%87%E3%83%8B%E3%83%A0/",
+    "pass": 1
+   },
+   {
+    "quote": "10億円(2013年8月末実績)",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "quote": "1974年に盛岡セイコー工業株式会社の専属部品工場として誕生した二戸時計工業株式会社",
+    "url": "https://jimo-navi.com/company/%E4%BA%8C%E6%88%B8%E6%99%82%E8%A8%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "quote": "自動化と手組みの両方に対応したケーシングに加え、ムーブメントの組み立て・部品加工も行い、セイコーグループの国内中核工場を目指します",
+    "url": "https://jimo-navi.com/company/%E4%BA%8C%E6%88%B8%E6%99%82%E8%A8%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "quote": "機械製造にとどまらず、海外工場や国内の中小の製造メーカーと連携することによって、お客様の多様なニーズに対応できるネットワーク作りにも着手していきます",
+    "url": "https://jimo-navi.com/company/%E6%9F%8F%E6%9C%A8%E9%89%84%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "quote": "④関東並びに近県への出店を行い、売上規模10億円を目指す",
+    "url": "https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%BA/",
+    "pass": 1
+   },
+   {
+    "quote": "”私達の価値観を理解してくれる人々を幸福にする会社”をスローガンに、地域、お客様、取引先、従業員が幸福になれる会社を目指します",
+    "url": "https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%BA/",
+    "pass": 1
+   },
+   {
+    "quote": "拠点の数、営業人員、設計人員の充実、箱物造りに関してのノウハウ",
+    "url": "https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%BA/",
+    "pass": 1
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "1,000万円",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%BB%E3%83%94%E3%83%BC/",
+    "pass": 1
+   },
+   {
+    "quote": "300,000万円",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%BB%E3%83%94%E3%83%BC/",
+    "pass": 1
+   },
+   {
+    "quote": "［大学卒］年俸224万円 諸手当：交通費実費",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%BB%E3%83%94%E3%83%BC/",
+    "pass": 1
+   },
+   {
+    "quote": "13,500万円",
+    "url": "https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF%E3%83%87%E3%83%8B%E3%83%A0/",
+    "pass": 1
+   },
+   {
+    "quote": "[大卒]基本給(月給)6000(円)×日数 [大卒]諸手当(月給)通勤手当 月5000円まで [短大卒]基本給(月給)6000(円)×日数 [短大卒]諸手当(月給)通勤手当 月5000円まで [専門学校卒]基本給(月給)6000(円)×日数 [専門学校卒]諸手当(月給)通勤手当 月5000円まで [高等専修学校卒]基本給(月給)6000(円)×日数 [高等専修学校卒]諸手当(月給)通勤手当 月5000円まで [高卒]基本給(月給)6000(円)×日数 [高卒]諸手当(月給)通勤手当 月5000円まで",
+    "url": "https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF%E3%83%87%E3%83%8B%E3%83%A0/",
+    "pass": 1
+   },
+   {
+    "quote": "3,285万円",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A0%E3%83%A9/",
+    "pass": 1
+   },
+   {
+    "quote": "385,000万円",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A0%E3%83%A9/",
+    "pass": 1
+   },
+   {
+    "quote": "[大卒]基本給(月給)170,000円 [短大卒]基本給(月給)150,000円 [高等専修学校卒]基本給(月給)150,000円 [高卒]基本給(月給)145,000円",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A0%E3%83%A9/",
+    "pass": 1
+   },
+   {
+    "quote": "1,000万円(2014年7月現在)",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "quote": "[大卒]基本給(月給)190,000円 [大卒]諸手当(月給)就業規則による [短大卒]基本給(月給)175,000円 [短大卒]諸手当(月給)就業規則による [専門学校卒]基本給(月給)175,000円 [専門学校卒]諸手当(月給)就業規則による [高卒]基本給(月給)160,000円 [高卒]諸手当(月給)就業規則による",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "quote": "自動組み立てラインでつくられる3万円台までの普及モデルは、主に中近東や中国に輸出されています",
+    "url": "https://jimo-navi.com/company/%E4%BA%8C%E6%88%B8%E6%99%82%E8%A8%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "quote": "熟練の技術者が手作業で組み立てる10〜30万円の中級モデルも、国内外で高いニーズがあります",
+    "url": "https://jimo-navi.com/company/%E4%BA%8C%E6%88%B8%E6%99%82%E8%A8%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "quote": "2,000万円",
+    "url": "https://jimo-navi.com/company/%E4%BA%8C%E6%88%B8%E6%99%82%E8%A8%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "quote": "50,000万円",
+    "url": "https://jimo-navi.com/company/%E4%BA%8C%E6%88%B8%E6%99%82%E8%A8%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "quote": "[大卒]基本給(月給)174,000円 [短大卒]基本給(月給)169,000円 [専門学校卒]基本給(月給)164,000円 [高等専修学校卒]基本給(月給)159,000円 [高卒]基本給(月給)145,000円",
+    "url": "https://jimo-navi.com/company/%E4%BA%8C%E6%88%B8%E6%99%82%E8%A8%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "quote": "8,000万円",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%95%E3%83%88/",
+    "pass": 1
+   },
+   {
+    "quote": "5億5,000万円（2016年度末）",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%95%E3%83%88/",
+    "pass": 1
+   },
+   {
+    "quote": "21日勤務残業20時間程度の月収目安（日給月給制）",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%95%E3%83%88/",
+    "pass": 1
+   },
+   {
+    "quote": "4,000万円",
+    "url": "https://jimo-navi.com/company/%E6%9F%8F%E6%9C%A8%E9%89%84%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "quote": "63,526万円",
+    "url": "https://jimo-navi.com/company/%E6%9F%8F%E6%9C%A8%E9%89%84%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "pass": 1
+   },
+   {
+    "quote": "29,000万円",
+    "url": "https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%BA/",
+    "pass": 1
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給21.4万円〜22.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "じもナビ - UIターンに特化した就職情報サイト — じもナビ - UIターンに特化した就職情報サイト じもナビ https://jimo-navi.com",
+    "url": "https://jimo-navi.com/",
+    "pass": 3
+   },
+   {
+    "quote": "じもナビ 新卒 高卒 の求人情報をすべて見る （136件） — じもナビ 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://jimo-navi.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jimo-navi.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jimo-navi.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%BB%E3%83%94%E3%83%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF%E3%83%87%E3%83%8B%E3%83%A0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A0%E3%83%A9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jimo-navi.com/company/%E4%BA%8C%E6%88%B8%E6%99%82%E8%A8%88%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%95%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jimo-navi.com/company/%E6%9F%8F%E6%9C%A8%E9%89%84%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jimo-navi.com/company/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%BA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jimo-navi.com/company/page/2/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000XzHdN",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10125491027/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harikennabi.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "じもナビ 求人 年収",
+   "results": [
+    "https://jimo-navi.com/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000XzHdN",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10125491027/",
+    "https://www.nikkei.com/nkd/company/salary/?scode=7161",
+    "https://www.youtube.com/watch?v=O9Yt9q0Uybs",
+    "https://nipponshigoto.com/",
+    "https://type.jp/job-5/1354256_detail/",
+    "https://recruit.group.gmo/710program/",
+    "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEJ%E2%88%92MAX%E3%81%AE%E5%B9%B4%E5%8F%8E",
+    "https://jimo-navi.com/job/"
+   ]
+  },
+  {
+   "query": "じもナビ 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%81%98%E3%82%82%E3%83%8A%E3%83%93+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://jimo-navi.com/",
+    "https://www.harikennabi.jp/",
+    "https://kousotsu-jobnavi.com/",
+    "https://job.rikunabi.com/",
+    "https://navi.handy.school/",
+    "https://www.neo-career.co.jp/humanresource/job-draftnavi/",
+    "https://www.smfg.co.jp/dx_link/article/0229.html",
+    "https://shushoku.meidaisha.co.jp/",
+    "https://www.jimoto-hd.co.jp/recruit/"
+   ]
+  },
+  {
+   "query": "site:note.com じもナビ",
+   "results": [
+    "https://note.com/summit_dekiken",
+    "https://note.com/summit_dekiken/m/m0a449eb59e97/hashtag/%E5%B0%B1%E8%81%B7%E6%B4%BB%E5%8B%95",
+    "https://note.com/yutaro_ishii/n/n3db707d36922",
+    "https://note.com/shukatsu_money/n/n14c2a100910a",
+    "https://note.com/and_shin/n/n905ded770981",
+    "https://note.com/tomoyafujii_l100/n/nbe8dc6d113e8",
+    "https://note.com/jrkyushu_tetsudo/n/n7461374b7e60",
+    "https://note.com/muraken_career/n/ncdf87ce427ef",
+    "https://note.com/navitime_tech/n/n750fb029a35b",
+    "https://note.com/navitime_recruit/n/nb3670177fbf9"
+   ]
+  },
+  {
+   "query": "site:x.com じもナビ",
+   "results": [
+    "https://x.com/recruit21",
+    "https://x.com/clovernavi/all",
+    "https://x.com/g_turn_gunma",
+    "https://x.com/navi___diamond",
+    "https://x.com/timesnavi1",
+    "https://x.com/miyanichi_navi",
+    "https://x.com/m_shigotonavi",
+    "https://x.com/UC_Navi",
+    "https://x.com/mie_snavi",
+    "https://x.com/switch_navi"
+   ]
+  },
+  {
+   "query": "site:linkedin.com じもナビ",
+   "results": [
+    "https://www.linkedin.com/posts/yoav-alon_it-turns-out-your-daybreak-blue-research-share-7522186039806042112-YTu_/?highlightedUpdateUrn=urn:li:activity:7522190868309618688&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE",
+    "https://jp.linkedin.com/in/遥介-内藤-a25b0091",
+    "https://www.linkedin.com/",
+    "https://jp.linkedin.com/in/凌-野崎-576a89390",
+    "https://uk.linkedin.com/in/yashkhandvilkar",
+    "https://br.linkedin.com/in/juliana-saraiva-leao-smarketti",
+    "https://de.linkedin.com/in/elena-h-1b05323"
+   ]
+  },
+  {
+   "query": "site:facebook.com じもナビ",
+   "results": [
+    "https://www.facebook.com/jimonavi/",
+    "https://www.facebook.com/jimonavi/photos/2259163657523969/",
+    "https://www.facebook.com/jimonavi/posts/千島ガーデンモールの喫煙所/587484736713439/",
+    "https://www.facebook.com/jimonavi/posts/毎月第4日曜日は区役所で大正区歴史を語る会に参加-大正区-歴史を語る会/706125028182742/",
+    "https://www.facebook.com/jimonavi/posts/大正区西区港区大阪西部エリアへ健康と笑顔を届けられるようにlifesというフリーペーパーをご存知でしょうか表紙にはdeeptown-magazine-とあります/2243122012461467/",
+    "https://www.facebook.com/monodukuri/posts/講座報告-927日実施みなさんこんにちは927日に親子でプログラミングをしてドローンを飛ばそうを開催しました講師はnpo法人ひとまちスタジオ代表の平岡顕治さんで/1557749946152880/",
+    "https://www.facebook.com/monodukuri/posts/親子で3dプリンター講座-講座報告-104日実施みなさんこんにちは親子で3dプリンター講座を開催しました講師はnpo法人ビジネスサポートbingoの宇田先生です/1563634998897708/"
+   ]
+  },
+  {
+   "query": "じもナビ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://www.ch-files.net/note/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/jimotocompany"
+   ]
+  },
+  {
+   "query": "じもナビ X 投稿",
+   "results": [
+    "https://www.jimoto-navi.com/cgi-bin/postmail/index.html",
+    "https://www.syakouba.com/album/?c=all",
+    "https://x.com/jimonavinakano",
+    "https://x.com/i/trending/2117949518826320111",
+    "https://jmty.jp/",
+    "https://xvideo-jp.com/actresslist_sub1",
+    "https://njavtv.com/ja/genres"
+   ]
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部4頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部4頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部4頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部4頁・検索8回）"
+ }
+}

@@ -1,0 +1,444 @@
+{
+ "name": "電気めっき業の事業所数を工業統計で取り直す（元へ戻る・4-24）",
+ "en": "electroplating establishments Japan census of manufactures 2004 2014 2019",
+ "aliases": [
+  "工業統計 産業細分類 電気めっき業 事業所数 従業者数 2019",
+  "工業統計表 産業別統計表 2462 電気めっき業",
+  "site:meti.go.jp 工業統計 電気めっき業 加工賃収入額"
+ ],
+ "context": "元へ戻る・めっき",
+ "kind": "market",
+ "researched_at": "2026-11-05T07:21:37.999484+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://zentoren.or.jp/mekki/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neji-bane.jp/news/20201116_02_04",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/30624/mekki.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/wagakuni/2011/pdf/2_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/toukei/kougyou/R2iko_ota_kogyo.files/17_ota_kogyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.wis-jma.go.jp/sataid/ec/I220261013.Z2020",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.komae.tokyo.jp/index.cfm/46,86445,c,html/86445/1kougyou1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/chosakai-backnumber.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001022686",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2024/pdf/otsu_kekka.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-1.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/kakuho/sangyo/sanH11k4.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/shihyou_kekka_m_index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/library/opac/Newly_arrived/hlist?tmtl=3&idx=13&ppg=50&rgtn=WZ2260053",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reikouen.or.jp/pages/278/p7975=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_04a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.neji-bane.jp/news/20180108_09_01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fm-007.com/case/plating/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nlftp.mlit.go.jp/ksj/gmlold/datalist/gmlold_KsjTmplt-S03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/handbook/pdf/2019all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/en/stat-search/files?page=1&layout=datalist&iroha=16&cycle=0&toukei=00200551&tstat=000000290001&tclass1=000000290002&tclass2=000000290003&tclass3=000001009119&tclass4val=0&stat_infid=000000290188",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macrotrends.net/global-metrics/countries/jpn/japan/manufacturing-output",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vI-DKqGzW8FtfZdM-CISezBMDF3-FmVBhPqg4CJcBJTVq1_ZJrd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "電気めっき業の事業所数を工業統計で取り直す（元へ戻る・4-24）",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "https://www.pref.osaka.lg.jp/documents/30624/mekki.pdf",
+    "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/toukei/kougyou/R2iko_ota_kogyo.files/17_ota_kogyo.pdf",
+    "https://www.wis-jma.go.jp/sataid/ec/I420261013.Z0010",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html"
+   ]
+  },
+  {
+   "query": "電気めっき業の事業所数を工業統計で取り直す（元へ戻る・4-24） 推移",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/wagakuni/2011/pdf/2_1.pdf",
+    "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/toukei/kougyou/R2iko_ota_kogyo.files/17_ota_kogyo.pdf",
+    "https://www.wis-jma.go.jp/sataid/ec/I220261013.Z2020",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html"
+   ]
+  },
+  {
+   "query": "電気めっき業の事業所数を工業統計で取り直す（元へ戻る・4-24） 統計 PDF",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,86445,c,html/86445/1kougyou1.pdf",
+    "http://www.etisa.or.jp/chosakai-backnumber.pdf",
+    "https://www.pref.osaka.lg.jp/documents/30624/mekki.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html"
+   ]
+  },
+  {
+   "query": "電気めっき業の事業所数を工業統計で取り直す（元へ戻る・4-24） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき業の事業所数を工業統計で取り直す（元へ戻る・4-24） 従業者規模別",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/kakuho/sangyo/sanH11k4.html",
+    "https://www.jfc.go.jp/n/findings/shihyou_kekka_m_index.html",
+    "https://www.wis-jma.go.jp/sataid/ec/I220261013.Z2020"
+   ]
+  },
+  {
+   "query": "電気めっき業の事業所数を工業統計で取り直す（元へ戻る・4-24） 1人当たり 万円",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "https://www.stat.go.jp/library/opac/Newly_arrived/hlist?tmtl=3&idx=13&ppg=50&rgtn=WZ2260053",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.wis-jma.go.jp/sataid/ec/I220261013.Z2020",
+    "https://www.reikouen.or.jp/pages/278/p7975=2",
+    "https://www.jfc.go.jp/n/findings/pdf/sme_findings2_04a.pdf",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき業の事業所数を工業統計で取り直す（元へ戻る・4-24） 2015 2025",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "http://www.etisa.or.jp/chosakai-backnumber.pdf",
+    "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "https://www.wis-jma.go.jp/sataid/ec/I220261013.Z2020",
+    "https://www.neji-bane.jp/news/20180108_09_01/"
+   ]
+  },
+  {
+   "query": "electroplating establishments Japan census of manufactures 2004 2014 2019 Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2019all.pdf",
+    "https://www.e-stat.go.jp/index.php/en/stat-search/files?page=1&layout=datalist&iroha=16&cycle=0&toukei=00200551&tstat=000000290001&tclass1=000000290002&tclass2=000000290003&tclass3=000001009119&tclass4val=0&stat_infid=000000290188",
+    "https://www.macrotrends.net/global-metrics/countries/jpn/japan/manufacturing-output",
+    "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vI-DKqGzW8FtfZdM-CISezBMDF3-FmVBhPqg4CJcBJTVq1_ZJrd",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-japan.pdf",
+    "https://www.kenresearch.com/japan-electroplating-market",
+    "https://en.wikipedia.org/wiki/Manufacturing_in_Japan",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00"
+   ]
+  },
+  {
+   "query": "site:note.com 電気めっき業の事業所数を工業統計で取り直す（元へ戻る・4-24）",
+   "results": [
+    "https://note.com/rignate/n/nb7765045946b",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/yuiseita/n/n54b8f0dd127c",
+    "https://note.com/_shiripa/n/n1da51c986f33",
+    "https://note.com/heisei_pipekun/n/n60f407212e7e",
+    "https://note.com/news_knowledge/n/n5a47e9660751",
+    "https://note.com/tommy_tomo/n/n536e3d2d10c3",
+    "https://note.com/fair_beetle358/n/n16a183073f45"
+   ]
+  },
+  {
+   "query": "site:x.com 電気めっき業の事業所数を工業統計で取り直す（元へ戻る・4-24）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2108913687310577744",
+    "https://jf.x.com/images/media-preview/2100285956305670337",
+    "https://x.com/semicon_eng1/status/2078320811988115780",
+    "https://x.com/tokei_ibaraki/status/2038550140701851845",
+    "https://x.com/ChemStat66667/status/2081211338974761364",
+    "https://x.com/OgawaSeisakusho",
+    "https://x.com/ChemStat66667/status/2078263478536569072"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 電気めっき業の事業所数を工業統計で取り直す（元へ戻る・4-24）",
+   "results": [
+    "https://jp.linkedin.com/in/泰雄-二宮-0342631b0",
+    "https://jp.linkedin.com/in/雪治-秋山-306536331",
+    "https://jp.linkedin.com/posts/悠暉-大島-a0a302a0_山形市めっき老舗のスズキハイテック売上高100億円へ3本の矢-日本経済新聞-activity-7373997027627765760-4vPr",
+    "https://www.linkedin.com/posts/research-nester-japan_プラスチックへのめっき市場調査仕上げタイプ別銅ニッケルクロムプラスチック-activity-7180421955131486208-C6y1",
+    "https://jp.linkedin.com/posts/y-ishii_リクルートワークス研究所-2027卒大卒求人倍率調査-27卒求人倍率は162-activity-7453702561473224704-As1Z",
+    "https://jp.linkedin.com/posts/satoshi-miyamoto-宮本智史-0a11b022_人材紹介2023年度の有料民間職業紹介事業所数は30113件前年度から-activity-7257277845725421571-Ajho",
+    "https://jp.linkedin.com/posts/hirotakashoneshibata_2025年9月16日厚労省が令和6年2024人口動態統計確定数を公開-activity-7377628947456589824-t-3P"
+   ]
+  },
+  {
+   "query": "site:facebook.com 電気めっき業の事業所数を工業統計で取り直す（元へ戻る・4-24）",
+   "results": [
+    "https://www.facebook.com/denkimekki/",
+    "https://www.facebook.com/stat.japan/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1384167243755964/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査集計結果-茨城県概要2024年６月１日現在で実施した2024年経済構造実態調査製造業事業所調査集計結果の概要を９月２日/1209595741213116/",
+    "https://www.facebook.com/story.php/?story_fbid=720004953160255&id=100054522697629",
+    "https://www.facebook.com/denkimekki/posts/2024年度総会ならびに講演会のご案内加飾めっき技術と新たなめっき技術-下記のとおり2024年度総会講演会を講演会を開催いたしますので万障繰り合わせ上ご参加くだ/922117589615656/",
+    "https://www.facebook.com/denkimekki/posts/5009032599152964/"
+   ]
+  },
+  {
+   "query": "電気めっき業の事業所数を工業統計で取り直す（元へ戻る・4-24） note 社長",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.neji-bane.jp/news/20180108_09_01/",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "https://www.jfca-net.or.jp/data_files/view/4609",
+    "https://kageki.hankyu.co.jp/revue/2014/chaptertwo/poster.html",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://warp.da.ndl.go.jp/collections/instance/info:ndljp/pid/286586/www.mizuho-ri.co.jp/research/economics/report/",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93299/revisions/93322"
+   ]
+  },
+  {
+   "query": "電気めっき業の事業所数を工業統計で取り直す（元へ戻る・4-24） X 投稿",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.wis-jma.go.jp/sataid/ec/I220261013.Z2020",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "https://baike.baidu.com/ja/item/%E4%B8%80%E5%AE%9A%E8%A6%8F%E6%A8%A1%E4%BB%A5%E4%B8%8A%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD%E4%BC%81%E6%A5%AD/6089652",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf"
+   ]
+  },
+  {
+   "query": "electroplating establishments Japan census of manufactures 2004 2014 2019 site:linkedin.com",
+   "results": [
+    "https://pk.linkedin.com/in/adnanriazpk"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ43頁・検索15回）",
+  "社員数・平均社員数": "記載なし（読んだ43頁・検索15回）",
+  "受注金額・加工賃収入": "記載なし（読んだ43頁・検索15回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ43頁・検索15回）",
+  "生産能力・設備": "記載なし（読んだ43頁・検索15回）",
+  "10年推移": "記載なし（読んだ43頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ43頁・検索15回）"
+ }
+}

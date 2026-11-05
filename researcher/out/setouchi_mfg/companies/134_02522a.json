@@ -1,0 +1,195 @@
+{
+ "name": "134",
+ "aliases": [],
+ "context": "山口県山口市／出典:大学・高専の企業説明会／求人媒体:Indeed;doda;タウンワーク;マイナビ転職／想定年収:500〜550万円／従業員:不明",
+ "researched_at": "2026-11-05T07:21:38.263114+00:00",
+ "official_url": "https://data-link-plus.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {},
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://data-link-plus.com/jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-link-plus.com/jp/corporation/4360001007459",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10196062886/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5-134-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://next.rikunabi.com/session/destroy/?type=webSso",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=134+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career.itochu.co.jp/student/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harikennabi.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "134 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10196062886/",
+    "https://jp.indeed.com/q-%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5-134-%E6%B1%82%E4%BA%BA.html",
+    "https://next.rikunabi.com/job_search/kw/%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5134%E6%97%A5/",
+    "https://tenshoku.mynavi.jp/jobinfo-314928-1-76-1/",
+    "https://hupro-job.com/jobs/37746",
+    "https://job.tabelog.com/restaurants?id=12045151",
+    "https://hr.aitworks.com/salary/80k-year/",
+    "https://www.hatalike.jp/viewjob/4633da2b1a1ae46d/",
+    "https://www.bizreach.jp/jobs/5195314/",
+    "https://jp.indeed.com/q-年間休日-134-求人.html?vjk=ae1a37da8f1c07d0"
+   ]
+  },
+  {
+   "query": "134 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=134+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://career.itochu.co.jp/student/information/",
+    "https://www.harikennabi.jp/",
+    "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250702/20250702506713.pdf",
+    "https://jinjib.co.jp/business/market",
+    "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E5%8D%92-%E6%96%B0%E5%8D%92%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "https://handy.school/richtext/rule",
+    "https://www.irisohyama.co.jp/kyujin1/high-graduates/",
+    "https://job-draft.com/howtos/50"
+   ]
+  },
+  {
+   "query": "site:note.com 134",
+   "results": [
+    "https://note.com/vast_zephyr7636/n/ndecefd9e80cb",
+    "https://note.com/santasan_no_note/n/n0dca12c2c89d",
+    "https://note.com/carolanacademy/n/n05d2ff234d59?hl=en",
+    "https://note.com/tnaft/n/ncc984e3dc5d6",
+    "https://note.com/appyhappystep/n/n92b3b182a96e",
+    "https://note.com/imknto/n/nc9a29d671e15",
+    "https://note.com/oh_no/n/n92f8b0176fbe",
+    "https://note.com/vast_zephyr7636/n/n187a119fe4b1",
+    "https://note.com/modern_sloth9520/n/n0f48b7f8a4e5?hl=en",
+    "https://note.com/sawaguchi_ai/n/n5b5b1ef2e10f?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com 134",
+   "results": [
+    "https://x.com/UK_MTO/status/2098939578979672545",
+    "https://x.com/AZCardinals/status/2086615273449332877",
+    "https://x.com/metrolaalerts/status/2104590097735655568",
+    "https://x.com/Pirates/status/2092390138991018150",
+    "https://x.com/AJEnglish/status/2098097923032834441",
+    "https://x.com/UK_MTO/status/2099040453081403537",
+    "https://x.com/mu_um16/status/1998679016547500101",
+    "https://x.com/SharpFootball/status/2038397019060908469",
+    "https://x.com/NHLPR/status/2111689886616965149",
+    "https://x.com/NBA_Scorigami_/status/2117461796420252110"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 134",
+   "results": [
+    "https://www.linkedin.com/posts/scott-boden-ab537121_academicmedicine-leadership-indianauniversity-activity-7500870175827578880-SIl2",
+    "https://www.linkedin.com/in/bob-hattier-a878041b",
+    "https://www.linkedin.com/pulse/3-work-trends-issue-134-world-economic-forum-qj1qe",
+    "https://je.linkedin.com/jobs/view/test-developer-134-at-pinpoint-middleware-test-company-4481318220",
+    "https://www.linkedin.com/pulse/theweekincareers-episode-134-chris-webb-urmde",
+    "https://www.linkedin.com/company/middleton-school-district-134",
+    "https://sc.linkedin.com/jobs/%E8%B0%B7%E6%AD%8C%E7%95%99%E7%97%95%E6%8E%92%E5%90%8D%E4%BB%A3%E5%8F%91%E3%80%98%E2%8A%9B%E9%A3%9E%E6%9C%BA%EF%BC%9A%F0%9D%99%A8%F0%9D%99%9A%F0%9D%99%A4%F0%9D%99%AB%F0%9D%99%9E%F0%9D%99%A5%F0%9D%9F%B4%F0%9D%9F%B4%E2%8A%9B%E3%80%99%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2%E7%95%99%E7%97%95%E4%BB%A3%E5%8F%91.rpf-jobs",
+    "https://www.linkedin.com/news/story/gender-equality-134-years-away-wef-6056036/",
+    "https://rs.linkedin.com/company/134-agency",
+    "https://www.linkedin.com/company/134-consulting"
+   ]
+  },
+  {
+   "query": "site:facebook.com 134",
+   "results": [
+    "https://www.facebook.com/134Main/",
+    "https://www.facebook.com/p/134-Grille-100086796081375/",
+    "https://www.facebook.com/MichaelDoughertyCO/posts/proposition-134-and-135-attack-our-core-colorado-values-of-freedom-and-privacy-c/1546344417318254/",
+    "https://www.facebook.com/134Garudas/",
+    "https://www.facebook.com/p/North-134-Trading-Company-61579070433871/",
+    "https://www.facebook.com/TownofDennis/posts/route-134-east-west-dennis-road-construction-detourthe-town-of-dennis-would-like/1322945519867307/",
+    "https://www.facebook.com/groups/590344434643735/posts/2805343676477122/",
+    "https://www.facebook.com/groups/1201711196514486/",
+    "https://www.facebook.com/groups/MustangMachEOwners/posts/1253310925365769/",
+    "https://www.facebook.com/pub134omaha/"
+   ]
+  },
+  {
+   "query": "134 note 社長",
+   "results": [
+    "https://note.com/clever_plover369/n/ncfea7ecd7622",
+    "https://note.com/standage/n/n2fc61ef58196",
+    "https://note.com/soramichicoltd/m/m58bf1b7d4aae",
+    "https://note.com/kazuyuki_tachi/n/n2915e4f702c6",
+    "https://www.nikkei.com/article/DGXMZO42570850W9A310C1000000/",
+    "https://note.com/leal_hornet9173/n/n9773f3afe719",
+    "https://newspicks.com/news/8082791/body/",
+    "https://www.openupitengineer.co.jp/casestudy/10232",
+    "https://note.com/kabuberry_/n/n9fc8e0ee9b23",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "134 X 投稿",
+   "results": [
+    "https://www.reddit.com/r/StrangerThings/comments/7fnmhl/ill_take_your_xmen_134_original_comic_cover_by/?tl=ja",
+    "https://www.youtube.com/watch?v=gvbCoPOjdwA",
+    "https://publish.x.com/",
+    "https://insights.spovisor.com/x-articles-long-form-guide/",
+    "https://www.ichiyajo.jp/notes/2026-05-18-x-auto-post-guide-2026/",
+    "https://koneta.nifty.com/koneta_detail/1141008024346_1.htm",
+    "https://www.youtube.com/watch?v=4mYmH5IHzUs",
+    "https://www.koukoku.jp/service/suketto/marketer/sns/x%E6%97%A7twitter%E3%82%B9%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%83%84%E3%83%AA%E3%83%BC%E3%81%A8%E3%81%AF%EF%BC%9F%E6%8A%95%E7%A8%BF%E6%96%B9%E6%B3%95%E3%83%BB%E6%9B%B8%E3%81%8D%E6%96%B9%E3%81%AE/",
+    "https://comucal.co.jp/2024/06/10/hashtags_x_post/"
+   ]
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "資本金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用ページ": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "想定年収・給与": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "取引先・規模": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）"
+ }
+}

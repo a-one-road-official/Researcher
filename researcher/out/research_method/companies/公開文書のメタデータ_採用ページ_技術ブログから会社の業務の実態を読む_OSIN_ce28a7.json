@@ -8,134 +8,84 @@
  ],
  "context": "企業",
  "kind": "market",
- "researched_at": "2026-11-05T05:45:26.745190+00:00",
+ "researched_at": "2026-11-05T07:27:00.632607+00:00",
  "evidence": {
-  "SNS・note（note・本文）": [
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
    {
-    "quote": "情報収集手法(INT)の融合案まとめレポート｜ittakou",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "quote": "ハッカーが OSINT を悪用して脆弱性を見つける方法 - LinkedIn ハッカーが OSINT を悪用して脆弱性を見つける方法 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > how-hackers-exploit-osin...",
+    "url": "https://jp.linkedin.com/pulse/how-hackers-exploit-osint-find-vulnerabilities-sonny-sehgal-tu4te?tl=ja",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "情報収集手法(INT)の融合案まとめレポート",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "quote": "OSINT の始め方 - LinkedIn OSINT の始め方 - LinkedIn LinkedIn https://jp.linkedin.com > getting-started-osint-simon-howard",
+    "url": "https://jp.linkedin.com/pulse/getting-started-osint-simon-howard?tl=ja",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "OSINT(Open Source Intelligence / 公開情報収集)",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "quote": "OSINT - 製品、 技術 、運用 業務 において - LinkedIn OSINT - 製品、 技術 、運用 業務 において - LinkedIn LinkedIn https://jp.linkedin.com > pulse > osint-our-product-tech-o...",
+    "url": "https://jp.linkedin.com/pulse/osint-our-product-tech-operational-duties-amit-sharma-pu0ff?tl=ja",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "新聞、テレビ、インターネット、SNS、学術論文、公的統計、衛星画像など、誰でもアクセス可能な公開情報から情報を収集・分析する手法。",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "quote": "詳細な個人情報検索のための OSINT の使い方 - LinkedIn 詳細な個人情報検索のための OSINT の使い方 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > how-use-osint-detailed-p...",
+    "url": "https://jp.linkedin.com/pulse/how-use-osint-detailed-personal-information-searches-vijay-gupta--vo5dc?tl=ja",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "SNSやジオロケーション解析の発達により重要性が急上昇",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "quote": "OSINT on Reddit: Reconstructing Public-Source Intelligence ... OSINT on Reddit: Reconstructing Public-Source Intelligence ... LinkedIn https://www.linkedin.com > posts > n...",
+    "url": "https://www.linkedin.com/posts/neerav-patel_osint-cybersecurity-threatintelligence-activity-7497028878654148610-eN-n",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "用途例:企業リスク分析、調査報道、サイバーセキュリティ偵察、軍事動向分析",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "quote": "OSINT for Executives: How Hackers Use Your Digital Footprint ... OSINT for Executives: How Hackers Use Your Digital Footprint ... LinkedIn https://www.linkedin.com > pulse > o...",
+    "url": "https://www.linkedin.com/pulse/osint-executives-how-hackers-use-your-digital-footprint-against-sw9of",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "HUMINT(Human Intelligence / 人的情報収集)",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "quote": "The Challenges in OSINT Analysis Concerning Digital Evidence The Challenges in OSINT Analysis Concerning Digital Evidence LinkedIn https://www.linkedin.com > pulse > c...",
+    "url": "https://www.linkedin.com/pulse/challenges-osint-analysis-concerning-digital-evidence-paul-wright-yutrc",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "スパイ、協力者、亡命者、外交官などの「人」を通じて得る情報収集手法。",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "ゼロ から はじめる OSINT Open Source Intelligence — ゼロ から はじめる OSINT Open Source Intelligence Contentstack PDF https://assets.contentstack.io > assets > SANS_20230...",
-    "url": "https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltbe45ede7e0e1f6ba/63e5348101ddee6a0d86d72f/SANS_20230119_OSINT_Ja.pdf",
+    "quote": "5 Free OSINT Certifications for Cybersecurity Professionals 5 Free OSINT Certifications for Cybersecurity Professionals LinkedIn https://www.linkedin.com > posts > sh...",
+    "url": "https://www.linkedin.com/posts/shivam-rawat-8b7066267_osint-cybersecurity-intelligence-activity-7440219250599821312-4lp1",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "情報収集手法 (INT)の融合案まとめレポート｜ittakou — Aug 2, 2026 · 1.基本概念 OSINT(Open Source Intelligence / 公開情報収集) 新聞、テレビ、インターネット、SNS、学術論文、公的統計、衛星画像など、誰でもアクセス可能な公開情報から情報を収集・分析する手法。 合法的でコストが低い SNSやジオロケーション解析の発達により重要性が急上昇 用途例:企業リスク分析 ...",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "quote": "OSINTを用いたセキュリティ曝露分析:公開情報だけで十分な場合 Jan 16, 2026 · 評価は実施されました OSINTのみを使用しています (オープンソースインテリジェンス) 方法論、悪用の試み、認証情報の使用、ターゲットシステムとの不正なやり取りなしに。目的は「限界をテストすること」ではなく、インターネット上の誰にでも既に見える情報やサービスを理解すること ...",
+    "url": "https://jp.linkedin.com/pulse/security-exposure-analysis-using-osint-when-public-enough-tamaral-xc6pe?tl=ja",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "オープン・ソース・インテリジェンス - Wikipedia — OSINT （オシント）と略す。 アメリカ合衆国の 国家情報長官室 （英語版） （ODNI）は、2024年の戦略で、OSINTを「特定の情報上の優先事項、要求または空白に対応する、公開または商業的に利用可能な情報だけから導かれたインテリジェンス」と定義した [1]。",
-    "url": "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス",
+    "quote": "Open Source Intelligence Osint Jobs in United States (8,000 ... Today’s top 8,000+ Open Source Intelligence Osint jobs in United States. Leverage your professional network, and get hired. New Open Source Intelligence Osint jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/open-source-intelligence-osint-jobs",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "OSINTとは？公開情報から不正アクセスや情報漏洩の兆候を探る調査手法... — Aug 6, 2025 · OSINT（オープンソースインテリジェンス）は、公開情報をもとに不正アクセスや情報漏洩の兆候を調査する技術です。 本記事では、OSINTの基本から実際の活用方法、注意点までを専門的にわかりやすく解説します。",
-    "url": "https://cybersecurity-info.com/column/40141/",
+    "quote": "Osint Jobs in United States (7,000+ Open Roles) | LinkedIn Today’s top 7,000+ Osint jobs in United States. Leverage your professional network, and get hired. New Osint jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/osint-jobs",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "【社長のためのインテリジェンス特別講義】元FBI捜査官に学ぶ、OSINT... — 著者のバゼル氏は、元FBIサイバー犯罪タスクフォースの捜査官として20年以上にわたりサイバー犯罪捜査に従事し、大ヒット海外ドラマ『Mr. Robot』の技術アドバイザーも務めた、サイバー・インテリジェンスの実戦的プロフェッショナルです。",
-    "url": "https://note.com/terueda/n/n5707498651c3",
+    "quote": "OSINT Jobs - LinkedIn OSINT Jobs connects open source intelligence professionals with the roles, resources, and standards that advance the field. We serve the community across three areas.",
+    "url": "https://www.linkedin.com/company/osint-jobs",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "あなたの会社は大丈夫？ ～メタデータの落とし穴～ - NFLabs. エンジ... — Dec 17, 2021 · セキュリティ研修でOSINT（Open Source Intelligence : 公開されている情報ソースから入手可能なデータを収集・分析する技術）を教えることが多いのですが、今日はOSINTのテクニックの一つであるメタデータの収集について書いていきたいと思います。",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第32回：メタデータから情報を読み解く - Shikata Ga Nai — Jun 25, 2025 · 写真、文書、PDF、動画などのファイルには、作成者・日時・場所・機器情報などのメタデータが自動的に記録されています。 これらは通常、ファイルを開いても目には見えませんが、OSINT調査では重要な手がかりになります。",
-    "url": "https://cysec148.hatenablog.com/entry/2025/06/25/062841",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT #5: Metadata Analysis: Uncovering the Hidden Data Layer ... — Mar 5, 2025 · Uncover hidden intelligence in digital files: Master metadata analysis for OSINT investigations. Tools, case studies, and ethical practices every cyber pro needs.",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT Handbook 2026 | The OSINT Vault — Oct 13, 2026 · The goal is to standardize how you think, search, pivot, and document across cases without sacrificing accuracy. In practice, that means controlling the process even when the data is chaotic.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Complete Guide to Assessing Your Company OSINT Footprint — Jul 5, 2026 · Learn to assess, reduce, and monitor your organization's OSINT footprint. Protect against cyberattacks by understanding your digital exposure today!",
-    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What Is OSINT? Open Source Intelligence for Security ... — Mar 24, 2026 · OSINT is intelligence gathered from public sources - DNS, social media, Shodan, job postings. Here's what it is, how it fits into security research, and the...",
-    "url": "https://infishark.com/blogs/learn/what-is-osint-open-source-intelligence-for-security-researchers",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT Tools And Techniques | OSINT Technical Sources - Neotas — 1 day ago · Open Source Intelligence (OSINT) refers to the systematic process of collecting, analyzing, and transforming publicly available information into actionable intelligence.",
-    "url": "https://www.neotas.com/osint-tools-and-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT collection techniques using legitimate tools — Aug 6, 2026 · In practice, OSINT collection is a workflow, not just a set of tools. You start with a question, gather public data from a defined set of sources, validate what you find, and then decide whether the result changes your risk picture.",
-    "url": "https://securityboulevard.com/2026/08/osint-collection-techniques-using-legitimate-tools/",
+    "quote": "Osint Analyst Jobs in United States (6,000+ Open Roles ... Today’s top 6,000+ Osint Analyst jobs in United States. Leverage your professional network, and get hired. New Osint Analyst jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/osint-analyst-jobs",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -574,1542 +524,82 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "SNS・note（note・検索結果の抜粋）": [
+  "検索結果の抜粋": [
    {
-    "quote": "情報収集手法 (INT)の融合案まとめレポート｜ittakou Aug 2, 2026 · 1.基本概念 OSINT(Open Source Intelligence / 公開情報収集) 新聞、テレビ、インターネット、SNS、学術論文、公的統計、衛星画像など、誰でもアクセス可能な公開情報から情報を収集・分析する手法。 合法的でコストが低い SNSやジオロケーション解析の発達により重要性が急上昇 用途例:企業リスク分析 ...",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "If You're In the UK or EU, Here's How to Object to Meta's AI Training",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "quote": "ゼロ から はじめる OSINT Open Source Intelligence — ゼロ から はじめる OSINT Open Source Intelligence Contentstack PDF https://assets.contentstack.io > assets > SANS_20230...",
+    "url": "https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltbe45ede7e0e1f6ba/63e5348101ddee6a0d86d72f/SANS_20230119_OSINT_Ja.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Claudeのコメント: 分散型を掲げる基盤でも運営元によるリンク遮断が主要な拡散経路を左右する一方、第三者アプリや競合のAIが迂回路となっており、プラットフォームによる情報流通の制御は層ごとに効果が分断されることを示している",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "書簡は、Ray-Ban型グラスでマッサージ店の従業員を撮影した動画がInstagramで数百万回再生されていたとする404 Mediaの2025年10月の調査を引用した",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 外部委託のラベリング工程が機微な映像の流出経路になる構造は、恐喝や標的型の嫌がらせの素材を第三者に供給しうる点で、個人のプライバシーにとどまらない情報安全保障上の弱点でもある",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メールは2020年11月、側近からウィリアム・スティゴールを経てACPEDs事務局長ミシェル・クレテラに渡り、「HOW TO DEFUND TRANS PEDIATRICS」の名で保存された",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Documents Reveal ‘How to Defund Trans Pediatrics’ in Texas",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Group behind mystery transgender mailers one step closer to being revealed after judge allows case to proceed／Texas judge orders depositions as TENT seeks to identify who's behind controversial transgender mailers",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 検証と削除を同一視させて「検閲」と呼ぶ手口は、対抗する主体の正統性を先に崩す認知戦の典型であり、資金と制度の独立性が防御の前提になることを示している",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: DDoS攻撃（大量アクセスでサイトを停止させる攻撃）を主とする集団が国内の抗議運動の動員に関わる構図は、サイバーと街頭を連動させるハイブリッド脅威の典型だが、記事が示す根拠はSNS上の支持表明と治安当局の説明にとどまり、ロシア国家の指示や資金の有無は検証を待つ段階である",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 記者はAIに娘の長所を尋ねた逸話を、メディア訓練に基づく注目獲得の手法と見ており、刺激的な逸話が拡散して本題の構造的な議論が埋もれる構図は、情報環境で論点が移される典型を示している",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "シチズンラボは10月15日の報告書で、Discover-Techを通じた広告によって、アルジャジーラの少なくとも45台の端末が傭兵型スパイウェアの標的になったとし、同社とVolasimの複数の関係を指摘した",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "米大使がカナダの政治家を監視中で、干渉に対応しうると警告した点は、交渉の膠着打開のためのエスカレーションの典型的な行動だとした",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 在外公館前での威嚇は越境弾圧（国外の反体制派や少数派への国家による威圧）の典型例であり、政府が国家との関係の有無を公表しないままでは、加害の抑止も被害者側の安心も得られず、ディアスポラ社会への萎縮効果が残る",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ProtonMailなどプライバシー重視の製品を手がけるProtonは、2026年10月26日、業務でのAIの使い方について社員を「再面接」すると通知した",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 敗れた現職が選挙結果を外国の支援による「革命」と位置づける語りは、抗議運動をカラー革命とみなすロシア側の定型の物語と重なり、新政権の正統性を否定する言説として親ロ層の間で流通しうる",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 公の推薦を避けて少人数の会合で支持を伝え、それが匿名の情報源経由で報じられる経路は、発信者が責任を負わずに党派を越えた支持の印象を有権者に届ける手法として、影響工作の分析でも注目される型である",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 「簡素化」や「お役所仕事の削減」という肯定的な枠付け（フレーミング）が、既存の権利保障まで規制コストとして一括りにする言説の典型であり、用語の定義をめぐる争いそのものが政策論争の主戦場になっている点に注目したい",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "米政府説明責任局（GAO、議会の会計検査機関）は2026年10月14日、移民・関税執行局（ICE）と税関・国境警備局（CBP）の装着型カメラ運用に関する報告書を公表した",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "前線の将校によれば、ロシアの補給路を狙う大型爆撃ドローンや固定翼ドローンの任務が妨げられた",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "大統領顧問のベスクレストノフ氏は、ジェット推進型シャヘド（ロシアが用いる攻撃ドローン）を撃墜する迎撃ドローンにも影響すると述べた",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ガーディアンによれば、ゼレンスキー大統領の軍事技術顧問ベスクレストノフ氏は、制限がジェット推進型シャヘド（ロシアが多用する攻撃ドローン）の迎撃に影響すると述べた",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 共通会社形態が規制の緩い国を選んで設立する抜け穴になり得るという論点は、域外の主体が登録地を選んで実質支配を隠すペーパーカンパニー型の影響工作の手口とも重なり、設立地の選択を許す制度設計では実質的支配者の透明性を同時に担保できるかが情報安全保障上も問われる",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同氏は、Starlinkがシャヘド型ドローンに対する「最も効果的な解決策」である迎撃ドローンの運用に使われているとした",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "中心は米墨国境に関係する中国系資金洗浄の取引で、中古車を使う貿易型資金洗浄の兆候がある6億ドル超の取引も見つかった",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 偽記事の閲覧を大きく伸ばしたのは移民問題で発言する国内の実在人物の共有であり、なりすまし型の工作への対処は、偽サイトの帰属の公表だけでなく、国内の言説に取り込まれた後の拡散経路を見る必要がある",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 記者が見通すように中堅事業者が淘汰され利用者が大手のフロンティアモデルへ集約されれば、対話型AIを通じた情報接触の経路が少数企業に集中し、各社の運用方針や安全対策の変更が世論形成に及ぼす影響は一段と大きくなる",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "小型AIモデルの家庭用機器への自己複製は「数か月先」とするAnthropicの警告",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Anthropicは2026年10月12日のブログ投稿で、小型AIモデルが家庭内のインターネット接続機器に自己複製する能力の獲得まで「数か月」だと述べた",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "試験では、Googleの小型モデルGemma4-26B-A4Bを廉価な無名ブランドのAndroid TVボックス15台のネットワークで動かした",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 停止点を持たない分散型の自己複製は、ホスティング事業者やプラットフォームへの削除要請で影響工作の基盤を断つという従来の対処を前提から崩しうるため、FIMI対策でもテイクダウン（基盤の停止措置）に依存しない検知と抑止の設計が課題になる",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "現在はアリアン6が就役し、公的補助を受ける独仏西の新興4社が小型再使用ロケットを開発中だが、軌道投入を実証したのはイザール・エアロスペースのみ",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "著者らは、AIが分極化を促すか緩和するかは技術の本質ではなく、使い方と文化的文脈の問題だとする",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 外国からの情報操作の効果評価は分極化指標に依存しがちだが、米国型の二極尺度や、ドイツ語を有害と判定しやすいとされたPerspectiveのような言語依存の検出ツールをそのまま使えば、多党制の国や英語以外の言語圏で干渉の影響を見誤る恐れがあり、FIMI評価でも各国の政治構造と言語に即した指標設計が前提になる",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "専門家探しでは、Substackの検索結果と各筆者の推薦リストをたどり、フォロワーが少なくても特化度の高い書き手を追う方法を示した",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "文書探しでは、対象国のドメインを特定し、ファイル形式と検索語を絞り込んだうえで、キーワードを相手国の言語に翻訳して検索し、相手国政府のドメインで同じ手順を逆方向にも試す方法を紹介した",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to find experts and hidden documents on any topic",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "TypeSafe AIの「Jev」は、文章生成を伴わない判定(ツール選択や緊急度判断など)に特化した「System One Model」と呼ぶ仕組みで、選択肢やスコア、はい/いいえの型付きの答えを返す",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "DataCampの記事によると、Jevは並列判定の手法や学習方法の一部を公開した一方、モデルの重みや学習データ、学習手順の全体は非公開で、検証や再現が難しいという",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "判定専用の小型双方向エンコーダを使う系統、Qwenを判定用に改造する系統、既存の生成モデルからロジット(各選択肢の確率の元になる値)を直接読む系統の3系統があり、いずれも手元で動かせる",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: ハッカー集団による内部文書流出は真正性の確認前に事実として拡散しやすく、ハック・アンド・リーク型の情報操作の可能性も含め出所の検証と事実関係を切り分けて扱う必要がある",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データワンは州の判断に異議を唱えつつ許可を申請するとし、低排出型の燃料電池へ移行中と説明した",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "小型画面と5G通信を備え、スマートフォンなしでMuseと対話でき、12月までに発売する",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "類似の記事: ベルビル銃撃事件容疑者、軍在籍中に新型コロナ陰謀論を唱えワクチン拒否で除隊と関係者証言",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ベルビル銃撃事件容疑者、軍在籍中に新型コロナ陰謀論を唱えワクチン拒否で除隊と関係者証言",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "陸軍在籍中にコロナ陰謀論を唱え、ワクチン拒否で除隊されたといい、関係者の一人は陰謀論の一部がユダヤ人に新型コロナの責任を負わせる反ユダヤ主義的だったと述べた",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 【本誌概要】 まったく新しいグラフィックソフトウェアとして注目を集める「Affinity」シリーズ3種 写真レタッチソフトウェア「Affinity Photo」 グラフィックデザインソフトウェア「Affinity Designer」 パブリッシングソフトウェア「Affinity Publisher」について ソフトの概要から基本操作方法、機能を使った制作方法までを徹底網羅した Affinity初心者〜中級者、これからデザインに興味を持ち始めた方向けの Affinityシリーズ教則本です",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 【本誌概要】 まったく新しいグラフィックソフトウェアとして注目を集める「Affinity」シリーズの ソフトの概要から基本操作方法、機能を使った制作方法までを徹底網羅した Affinity初心者〜中級者、これからデザインに興味を持ち始めた方向けの Affinityシリーズ教則本第二弾",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【内容紹介】 「Affinity Basics」 Affinity iPadシリーズに関わる基本的な使用方法…",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 【本誌概要】 まったく新しいグラフィックソフトウェアとして注目を集める「Affinity」シリーズの ソフトの概要から基本操作方法、機能を使った制作方法までを徹底網羅した Affinity初心者〜中級者、これからデザインに興味を持ち始めた方向けの Affinityシリーズ教則本第三弾！ 本誌はメジャーアップデートされたAffinity v2について 「Affinity v2で何が変わった？」 「Affinity v2で追加された30の新機能」 「Affinity v2を利用した10のチュートリアル」の3項目に分け Affinity v2を世界最速で徹底解…",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 【本誌概要】 まったく新しいグラフィックソフトウェアとして注目を集める「Affinity」シリーズの ソフトの概要から基本操作方法、機能を使った制作方法までを徹底網羅した Affinity初心者〜中級者、これからデザインに興味を持ち始めた方向けの Affinityシリーズ教則本第四弾！ メジャーアップデートされた「Affinity v3」を「完全攻略」 大きく刷新された42+αの全機能+変更点を徹底解説！ また先日アップデートされたv3.1の機能も世界最速紹介！！ 【内容紹介】 「Affinity Basics」 Affinity v3全体に関するアップ…",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ｽﾀｯｸﾁｬﾝの製作方法、AIエージェントと組み合わせて家電を操作できるようになるまでに必要だった技術をまとめたものです",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そして実際に社内や社外の方から評価を勝ち取る方法を紹介します",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 本書は、エンジニアではない方が1人でSaaSを開発して販売・サポートまで行う方法を模索する本です",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本書では、まずSaaSのアイディアを見つけてそのアイディアのニーズがあるかを探る方法を解説します",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": AIと一緒に実用書を書く方法を、企画から製本まで一気通貫で解説",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "・表紙制作への心理的抵抗をなくすこと ・デザイン学習ことはじめ ・100%再現可能な手順で作る表紙制作サンプル の３つで構成いたしました",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": ・3DCAD(Fusion360)とレーザー加工機＆MDF板を使って機械や装置を作る方法を解説します",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ISO/IEC17025マネジメントシステムの構築と申請方法",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "目次 1.Pythonの.pycファイル入門 2.スマホで部屋をスキャンして、webで見てみよう! 3.キャラモデリングのバリエーション宗派 4.Rustの一点特化型手続きマクロ 5.Linuxディストリビューションの味わい方 KCSは慶應義塾大学で唯一のコンピュータサークルです",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "目次 1. 歌が下手だから俺が合成音声になる 2. UnityでWindowを動かす方法 3. OpenSearch でKNN 検索を試してみよう！ 4. VoiceVox を使ったローカル環境音声対話AI KCSの歴史は長く、コンピュータが広まる前である1959年から「電子計算機研究会」と して活動を開始しています",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "案1:OSINT先行・HUMINT絞り込み型(段階的漏斗モデル)",
+    "quote": "情報収集手法 (INT)の融合案まとめレポート｜ittakou — Aug 2, 2026 · 1.基本概念 OSINT(Open Source Intelligence / 公開情報収集) 新聞、テレビ、インターネット、SNS、学術論文、公的統計、衛星画像など、誰でもアクセス可能な公開情報から情報を収集・分析する手法。 合法的でコストが低い SNSやジオロケーション解析の発達により重要性が急上昇 用途例:企業リスク分析 ...",
     "url": "https://note.com/itta_usa/n/nd300923856e1",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "案2:HUMINT検証・OSINT裏付け型(クロスバリデーションモデル)",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "quote": "オープン・ソース・インテリジェンス - Wikipedia — OSINT （オシント）と略す。 アメリカ合衆国の 国家情報長官室 （英語版） （ODNI）は、2024年の戦略で、OSINTを「特定の情報上の優先事項、要求または空白に対応する、公開または商業的に利用可能な情報だけから導かれたインテリジェンス」と定義した [1]。",
+    "url": "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "などと、主に情報源と収集方法によって区別される",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "商業データベースは、公開ウェブより広い範囲や詳細な項目を提供することがあるが、収集方法や母集団が不透明な場合もある",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開情報であっても、収集方法と規模が新たな危害や法的問題を生むことがある",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Berkeley Protocolは、可能な範囲でURL、取得日時、ページ全体、ソースコード、埋め込み媒体とメタデータ、収集者と収集方法を記録し、原本相当の保存物と作業用コピーを分けることを示している",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Berkeley Protocolは、内部作業ならスクリーンショットやPDF化で足りる場合もある一方、証拠価値を持ち得る資料には、より確実な取得方法を用い、可能な限り元の形式、URL、ソースコード、埋め込み媒体・メタデータ、取得情報とハッシュを保存するよう区別している",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "報告では、主要な結論を先に示し、調査目的、方法、用いた資料、検証手順、限界、未解決点を読者が追える形にする",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "再現可能性と安全が衝突する場合には、非公開の監査記録を保持しつつ、公表物では必要な部分を秘匿する方法がある",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "のような調査集団は、公開された画像・動画の検証方法を記事とともに提示してきた",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "は、Tim Tomesが開発したモジュール型の公開情報収集フレームワークで、",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同団体の2015年報告は、自らと他の調査者による公開情報調査を要約したものであり、その主張と方法を検討するための当事者資料である",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開情報調査部門は、SNSから得た46点の写真・動画と、非公開で提供された99点の写真・動画を検証したと方法節に記載している",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査者自身にも、標的型攻撃、なりすまし、法的威嚇、嫌がらせ、暴力映像への反復曝露などの危険がある",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Intelligence Community Policy Framework for Commercially Available Information",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、OSINTの基本から実際の活用方法、注意点までを専門的にわかりやすく解説します",
+    "quote": "OSINTとは？公開情報から不正アクセスや情報漏洩の兆候を探る調査手法... — Aug 6, 2025 · OSINT（オープンソースインテリジェンス）は、公開情報をもとに不正アクセスや情報漏洩の兆候を調査する技術です。 本記事では、OSINTの基本から実際の活用方法、注意点までを専門的にわかりやすく解説します。",
     "url": "https://cybersecurity-info.com/column/40141/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "まず着手すべきは、Twitter（現X）や5ちゃんねるなどのSNS・掲示板で自社名・関係者名・ドメインなどが言及されていないか確認する方法です",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一般には見られないダークウェブ上に、顧客データやログイン情報が掲載されていないか調査する方法です",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ShodanやtheHarvesterなどのツールを活用し、サーバの公開情報や外部に漏れている技術的データ（メタデータ、開放ポート等）を収集・分析する方法です",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情報漏洩や不正アクセスの可能性が高い、あるいは調査範囲が広すぎて自社で対応できない場合は、デジタルフォレンジック専門の調査会社に依頼することが最も確実な方法です",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "警察や裁判が絡むインシデントでは、正しい手順でデータを保全しなければ、後の法的手続きを有利に進めることが困難になります",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えばスポット調査では、調査範囲や期間、報告形式などを明確にし、緊急時の対応方法も定義しておくべきです",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一方、モニタリングサービスでは、定期的な報告頻度や検知された際のアラート方法、リスク評価の基準などを確認しておくとよいでしょう",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "機密保持契約や、調査終了後のデータ処理方法や、調査結果の二次利用に関する規定も明確にしておくべきです",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Medusaランサムウェアとは？急増するRaaS型攻撃の実態",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINTとは公開情報からインテリジェンスを得る方法 | アイトクコンサルティング",
-    "url": "https://aitokuconsult.com/security/20250114osint/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINTとは公開情報からインテリジェンスを得る方法",
-    "url": "https://aitokuconsult.com/security/20250114osint/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT-Framework — 公開ソースから情報を収集するための無料OSINTツールとリソースのキュレーションフレームワーク",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "lockfale/osint-framework",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開ソースから情報を収集するための無料OSINTツールとリソースのキュレーションフレームワーク",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "http://osintframework.com",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINTフレームワークは、無料のツールやリソースから情報を収集することに焦点を当てています",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このフレームワークはもともと情報セキュリティの観点から作成しました",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "以下のリンクからフレームワークを参照し、良いハンティングを！",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://osintframework.com",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://github.com/lockfale/osint-framework",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT Framework ウェブサイト",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "得られた情報が本物かどうかを検証し、組織として活用できる客観的な報告書へとまとめる「再現可能なワークフロー（Methodology & Workflow）」にあります",
+    "quote": "【社長のためのインテリジェンス特別講義】元FBI捜査官に学ぶ、OSINT... — 著者のバゼル氏は、元FBIサイバー犯罪タスクフォースの捜査官として20年以上にわたりサイバー犯罪捜査に従事し、大ヒット海外ドラマ『Mr. Robot』の技術アドバイザーも務めた、サイバー・インテリジェンスの実戦的プロフェッショナルです。",
     "url": "https://note.com/terueda/n/n5707498651c3",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "今回は自分の会社からそういった情報が漏れていないかを確認する方法や、それを防止する方法について紹介します",
+    "quote": "あなたの会社は大丈夫？ ～メタデータの落とし穴～ - NFLabs. エンジ... — Dec 17, 2021 · セキュリティ研修でOSINT（Open Source Intelligence : 公開されている情報ソースから入手可能なデータを収集・分析する技術）を教えることが多いのですが、今日はOSINTのテクニックの一つであるメタデータの収集について書いていきたいと思います。",
     "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "そしてこのように得られた情報から社員情報が漏洩したり、更に社員のメールアドレス宛に取引先を装って、攻撃者が標的型メールを送って来る事があるかもしれません",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "を悪用する標的型メールを使った攻撃が行われ、更なる情報漏洩が引き起こされるといった事態に発展するかもしれません",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Microsoft Intune Remote Helpの管理セッション利用後、終了方法で何が変わる？通信断も試してみた",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "撮影機器、解像度、フレームレート、録画日、GPS（スマホ動画）",
+    "quote": "第32回：メタデータから情報を読み解く - Shikata Ga Nai — Jun 25, 2025 · 写真、文書、PDF、動画などのファイルには、作成者・日時・場所・機器情報などのメタデータが自動的に記録されています。 これらは通常、ファイルを開いても目には見えませんが、OSINT調査では重要な手がかりになります。",
     "url": "https://cysec148.hatenablog.com/entry/2025/06/25/062841",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Advanced Metadata Analysis Methods",
+    "quote": "OSINT #5: Metadata Analysis: Uncovering the Hidden Data Layer ... — Mar 5, 2025 · Uncover hidden intelligence in digital files: Master metadata analysis for OSINT investigations. Tools, case studies, and ethical practices every cyber pro needs.",
     "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Top Tools & Frameworks",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Whether you’re tracing a phishing campaign’s origins or verifying a leaked document’s authenticity, metadata analysis turns invisible data into actionable intelligence. Let’s explore how to weaponize this hidden layer.",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "*In cybersecurity, a \"kill chain\" refers to the structured sequence of steps required to achieve an investigative objective – from data collection to analysis to reporting. For metadata analysis, we adapt this concept to create a toolchain that methodically converts raw data into actionable intelligence.",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "– GPS coordinates linking to private residences, document authorship exposing whistleblowers, or browsing histories revealing medical research. Under GDPR, CCPA, and other frameworks,",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": Document your methodology to avoid \"black box\" accusations.",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Metadata is the silent betrayer. A single unscrubbed PDF can reveal internal server names, while a \"sanitized\" image might still leak the exact time your CISO reviewed an incident report. Here’s how to lock it down:",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Foundational methodology, investigative pivots, and operational security for digital investigations. This is how investigators structure their work to produce defensible findings · not a list of tools, but a framework for thinking about and executing OSINT systematically.",
+    "quote": "OSINT Handbook 2026 | The OSINT Vault — Oct 13, 2026 · The goal is to standardize how you think, search, pivot, and document across cases without sacrificing accuracy. In practice, that means controlling the process even when the data is chaotic.",
     "url": "https://theosintvault.io/osint-handbook",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "The OSINT Vault emphasizes a workflow-first approach. Tools are not the work; they support it. Every investigation begins with a defined question, a set of hypotheses, and a plan for validating or disproving those hypotheses. The steps in this handbook align with the workflow tooling on the platform, including the",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Throughout this handbook, \"identifier\" refers to any handle, email, phone number, domain, or image that can be used as a pivot. \"Pivot\" refers to any new lead derived from that identifier. \"Validation\" means cross-referencing multiple independent sources to confirm a relationship. These terms are not optional; they define how to avoid false attribution.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Precision search is the next step. Instead of ad-hoc queries, analysts create repeatable search strings that can be run later for verification. The",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Search logs should be stored in the case file. If a result is challenged, the investigator can reproduce the search and show that the evidence was accessible. This is a critical credibility step, especially when findings are used in legal or corporate environments.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". Normalization reduces duplicates, identifies conflicting statements, and converts scattered notes into structured categories. This step is critical for preventing false convergence, where two unrelated data points are accidentally merged.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT work must remain passive. Avoid logging into platforms, triggering account recovery flows, or engaging with the subject. Use read-only sources, cached pages, and controlled browsing profiles. Document all steps to maintain chain-of-custody integrity.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", which provides a more granular step-by-step process.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". Understanding what cyberattackers can see is the first step toward ensuring that information cannot be used against the organization.",
+    "quote": "Complete Guide to Assessing Your Company OSINT Footprint — Jul 5, 2026 · Learn to assess, reduce, and monitor your organization's OSINT footprint. Protect against cyberattacks by understanding your digital exposure today!",
     "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": ". They start with data that the organization has already exposed on the public internet. The fundamental distinction between technical OSINT and personal OSINT is that infrastructure data reveals where and how to launch a cyberattack, while personnel and executive data reveal precisely who to target and what will make that person comply.",
-    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "EU官僚機構の元トップ、キャサリン・デイは2026年10月26日公表の報告書で、EU文書への公的アクセスを認める2001年の法律を「進化」させ、情報へのアクセス法に置き換えるよう提言した",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "トランスペアレンシー・インターナショナルEUのニコラス・アイオッサ代表は、委員長がファイザーCEOとのメッセージの開示を拒み、ニューヨーク・タイムズが欧州委員会を提訴した不祥事と結びつけ、「メッセージ問題を受けて採用した疑わしい内部規則を法典化したいのだ」と批判した",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同社の広報担当副社長アンディ・ストーン氏は2026年10月28日夜のソーシャルメディア投稿で、業界団体との協議が11月20日を越える可能性があり、その場合は更新した規約の適用を遅らせると述べた",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公的世論調査機関CISによれば、18〜24歳ではPSOEが19%、Voxが15.6%、PPが11.9%で、未定や棄権予定も多い",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: なりすまし団体の郵便物とマスク氏を結ぶ材料は、現時点では弁護人の共通という周辺情報にとどまり、国内の資金力ある主体による工作の帰属が、訴訟のような公的記録の積み重ねに頼らざるをえない構図を示している",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "欧州のデジタル広告業界団体IAB Europeが、広告事業者Volasimを承認済み事業者リスト（GVL、同意管理の業界標準枠組みTCFに登録した事業者の一覧）に載せ続けていると、Rapporteurが報じた",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 業界団体の承認リストが事業者の正当性の目印として働く以上、問題の事業者を外しても関連先が同日に登録される審査の隙は、スパイウェアに限らず影響工作が広告配信基盤を通じて標的に届く経路を残す",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Social Media LabはBlueskyの8件の連続投稿で、トランプ政権が正当な政治的批判、経済的対抗措置、公的な主張活動を「選挙干渉」と再定義し、カナダへの将来の報復の口実を整えているようだとした",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 出国禁止命令を受けた敗北候補への査証発給は、ブラジル司法を「政治的迫害」とみなす物語に外国政府の公的な裏づけを与える形となり、選挙後の国内対立を国外から増幅しうる",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのうえで4期目の課題として、ボルソナロ氏の自由党が下院513議席中121議席、上院81議席中28議席を持つ議会で与党が多数を持たないこと、GDP比80%を超える公的債務、犯罪組織や民兵組織への治安対策を挙げた",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一方、同社は2026年10月、エネルギー総局長が基調講演したブリュッセルの業界団体Energy Storage Europeの年次会議で、会員でないまま「ゴールド」協賛社となった",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ベルリンの20を超える業界団体が同社の参加を容認し、シンクタンクのBruegelは年5万ユーロ（約850万円）の会費を今も受け取る",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 面会禁止という人を対象とする規制は、協賛金や会費を通じて業界団体やシンクタンクの場に入り込む経路を塞げず、影響力の行使を制度面から抑えるには資金の流れまで透明化の対象に含める必要がある",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 脅威主体の名指しが外交関係に左右される以上、公的なFIMI報告書の帰属件数は干渉の実際の分布ではなく、政府が公表できる範囲を映すものとして読む必要がある",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ICE側と移民裁判官は本人の主張をそのまま採用し、4月にジャマイカへの送還を命じた",
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 保守系SNSで7年前に広まった未確定の疑惑が、選挙直前の捜索と大統領の投稿によって公的捜査の外形を得たことは、捜査の存在そのものが疑惑の裏付けとして流通する国内の情報操作の構図を示している",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "経済協力開発機構（OECD）の統計では、フランスは2018〜2022年に孤独の増加が最も急だった国の一つである",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2026年の財政赤字は対GDP比5.4%の見込みで、公的債務は3.5兆ユーロ（約600兆円）を超えた",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "争点は、従業員に経営への発言権を与える共同決定制度（一部の加盟国が採用）の扱いである",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 公式統計と専門家推計の数倍の開きは、ワクチン懐疑の言説が「数字は誇張」とも「当局は隠している」とも語れる余地を生み、公衆衛生の情報空間が影響工作に狙われやすい条件となる",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://chinatechnosphere.substack.com/p/the-state-of-pla-quantum-security",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 一帯一路沿線国の政府が中国企業の量子安全通信を採用すれば、暗号機器と鍵管理を中国側に依存する構図が生まれ、通信基盤のサプライチェーン（調達から運用までの供給網）が情報安全保障上の弱点となりうる",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 情報操作への対策は外国からの干渉に偏りがちだが、本件は自国政府が公的資金と広報機構を選挙前に用いる行為について、「公共広告」と「政治宣伝」の境界を司法が判断する事例となる",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 物理的な基盤への攻撃でボット網の稼働が止まれば、どの言説が自動化された発信に支えられていたかを外から確かめる機会になるが、マルクスの投稿は時期の一致を指摘する段階にとどまり、ヤンデックス網のトラフィック減と特定政党をめぐる活動減を結ぶ検証可能なデータを示していないため、帰属の根拠には使えず、公開されたトラフィック統計とSNSの投稿量を同じ時間軸で突き合わせる独立の検証が必要である",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仏国内やEU域内での新薬の開発、生産に価格上の優遇を与える代わりに、特許切れの古い医薬品の値下げを業界に求める内容だ",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界団体Leemのジュリエット・モワセ氏は、国際情勢を薬価政策の変数とすべきだと最初に提起したのはCEPSの委員長だと述べ、方針は交渉前に首相府が示していたという",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 証拠が無い段階で「ハッキングされたと思う」という題の投稿が広がる構図は、原因が確定する前の空白を憶測が埋める典型であり、重要インフラの障害では公的機関による早期の事実説明が情報空間の防御にもなる",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 作戦構想の公表自体を抑止の発信と位置づけつつ、ハイブリッド攻撃への公的帰属を「証拠と法的要件」に条件づけた点は、帰属表明の遅れを突く認知戦側の時間的優位をどう縮めるかという課題を残している",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "YouTube日本「ニュース＆政治」週間ランキングの統計分析（2026/10/05-10/11）｜一田和樹のメモ帳",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 目的地の虚偽申告と洋上積み替えは公的な港湾記録そのものを欺く手法であり、ウクライナ支援を掲げる韓国が対露圧力の「弱い環」と見られる構図は、西側の結束の綻びを強調するロシア側の宣伝材料にもなりうる",
-    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "現在はアリアン6が就役し、公的補助を受ける独仏西の新興4社が小型再使用ロケットを開発中だが、軌道投入を実証したのはイザール・エアロスペースのみ",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "UFCW 3000（食料品店労働者の労組）が支持した一方、業界団体は個人向け割引の適用除外を求めた",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "YouTube日本「ニュース＆政治」週間ランキングの統計分析（2026/09/14-09/20）｜一田和樹のメモ帳",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "発表から1週間でVercelやCloudflareなどが採用し、9月20日の一般開放後は登録が殺到して受け付けを一時停止した",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ベルギーのジャン=リュック・クルック気候相兼モビリティ相は、「5度目の化石燃料危機」だとして電化転換を最優先とすべきだと述べ、低所得世帯向けのソーシャルリース（公的支援つき電気自動車リース）の早期実現を訴えた",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "類似の記事: 対イラン戦争による米中東基地の損害、ABC独自写真と監察官報告が示す実態",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "対イラン戦争による米中東基地の損害、ABC独自写真と監察官報告が示す実態",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "9月14日発表の国防総省監察官報告は「数百棟の建物、構造物」が損傷したと指摘し、戦費を330億ドル（約5兆1千億円）と推計した",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 匿名の軍人証言と監察官報告という異なる帰属の情報源が「損害の過小評価」という同じ論点で符合しており、国防総省の情報統制それ自体が認知戦上の争点として報じられている点が注目される",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "投票機廃止を掲げる一方、公的記録のブロックチェーン化を提唱し、EagleAI開発陣によるELLYツールを根拠に「登録有権者の最大25パーセントに問題がある」と主張している",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: オリジナルコンテンツの供給網が崩れて権威ある一次情報源が細れば、生成AIに汚染された情報環境への依存が強まり、外国からの情報操作や影響工作(FIMI)がつけ込む土壌が広がる",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "狙いは「公的な恥辱を生み、移民法執行活動を抑止する」ことだとした",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Claudeのコメント: 署名前の合意文書が公開されないまま、トランプ氏の「恒久的な管理権」とデンマーク、グリーンランド側の「主権と自決権の承認」という相反する説明が同時に国際報道の一次情報として流通する状況は、実体の確認より先に各当事者が自国の受け手向けの物語を確定させる局面であり、後から合意内容が明らかになっても先行した認識は容易に修正されない",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "携帯電話消去容疑の活動家、ジョージア州立大学が採用内定取り消し",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "学科長が採用方針の説明を大学に求めたところ、そもそも方針は存在せず、採用は個別に危険度評価を行うものだと伝えられた",
-    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なぜ儲からないのか？ 製薬会社を襲う「特許の崖（パテント・クリフ）」とは？ その理由をわかりやすく解説！ （オンライン販売は技術書典のルール上、500円未満には設定できないため割高になっております",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 「磯野ー！ 小説同人誌作ろうぜー！」のALBA LUNAより、「小説同人誌の作り方」シリーズ第１弾登場！ 「【1】スマホもOK！ 本文原稿制作」は、小説同人誌で最も重要な「本文原稿の作り方」を、小説PDFメーカー・TATEditor・Wordの３種での作り方と一緒にご紹介",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 🐝 『ハニカム学校のハチたち ― コンピュータの中の小さな教室 ―』 上製本（ハードカバー製本）を採用した本格的な絵本 対象年齢：3歳から（読み聞かせ） / 6歳から（ひとり読み） # こんな方におすすめ - コンピュータやプログラミングに興味をもってほしいお子さまへ - 学びを「物語」からはじめたい親子に - ITエンジニアの方が、お子さんや学生に世界を伝えるときの入門書として - 絵本を通して“しくみを感じる”体験をしたい大人の方にも # あらすじ むかしむかし、 小さなハチたちが通う「ハニカム学校」がありました",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情報幾何のとらえどころ ～数理統計学と微分幾何の融合 Part 2～",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 本書は「情報幾何のとらえどころ ～数理統計学と微分幾何の融合 Part 1～」の続編です",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情報幾何のとらえどころ ～数理統計学と微分幾何の融合 Part 3～",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 本書は「情報幾何のとらえどころ ～数理統計学と微分幾何の融合 Part 2～」の続編です",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情報幾何を完全に理解するために、双対接続、ダイバージェンス、統計モデルの幾何、そして応用例に至るまで網羅したボリューミーな内容となっております",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統計モデル内の双対平坦な構造によって、拡張ピタゴラスの定理やKLダイバージェンスなどが自然に導かれる様をお楽しみください",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1. 実践 ファイル拡張子 「Word ファイルの拡張⼦を .pdf に変えると PDF になる」は、本当に間違いなのか",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "拡張⼦を変えると PDF に変化する魔法の Word ファイルの作り⽅をご紹…",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "電子書籍(pdf)をBoothで取り扱っています",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ナイチンゲールは統計学者として、またデータビジュアライゼーションでも有名でありますが、その彼女がどのような実務経験を積んでいたのかを現代的観点で構造化し、詳細に解説します",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また統計局や道徳の教科書にも載る「クリミア戦争で死亡率を劇的に改善した」という統計学者としても知られる功績は、実際はナイチンゲール自身が「衛生委員会の功績」として自身の仕事だとしていません",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": オープンソースのOpenFOAMを使って流体解析シミュレーション（ＣＦＤ）を簡単に始めたい人のための電子本(PDF)です",
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新聞、テレビ、インターネット、SNS、学術論文、公的統計、衛星画像など、誰でもアクセス可能な公開情報から情報を収集・分析する手法",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Berkeley Protocolは、内部作業ならスクリーンショットやPDF化で足りる場合もある一方、証拠価値を持ち得る資料には、より確実な取得方法を用い、可能な限り元の形式、URL、ソースコード、埋め込み媒体・メタデータ、取得情報とハッシュを保存するよう区別している",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "政策調査では、公的機関や国際機関が公表する規制案、会議資料、意見募集や決定を時系列で追うことがある",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "』では、会社・不動産の登記、新聞・雑誌記事などの公開資料を多数の取材者が整理し、人物、企業、土地取引の関係を追った",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "大宅壮一文庫は、約20人のチームが雑誌記事を調べた後に取材へ進んだと説明し、取材日誌の紹介も登記・会社資料の確認と対人取材の双方を記録している",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "は政府統計、",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "で有価証券報告書、臨時報告書、訂正報告書などを検索でき、APIから書類一覧と開示書類を取得できる",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "単独では平凡な公開情報も、位置履歴、購買、勤務、家族、SNS、登記等を結合すると、個人の生活や機微な属性を推定できる",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情報源の評判だけで個別の主張を採用せず、可能な限り初出と原ファイルへ遡り、矛盾する資料と説明可能な代替仮説を残す必要がある",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開情報で説得的な説明を作れても、刑事・国際裁判でそのまま証拠として採用されるとは限らない",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "世界の一次情報を、自分の目で｜RuleWatcher",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "PDFを更新しないとどうなるのか？「バージョンが古い」と出たときの原因と安全な対処法",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "政府機関のウェブサイト、議会記録、特許情報など",
-    "url": "https://aitokuconsult.com/security/20250114osint/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "RESASやe-Statをじっくり学びたい人向け動画",
-    "url": "https://aitokuconsult.com/security/20250114osint/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "： 競合他社が使用しているサーバーインフラ、保有ドメインの履歴、SNS上の発信パターン、求人情報や社員の投稿から覗く組織構造など、公開情報をつなぎ合わせることで、相手の戦略や弱点が浮き彫りになります",
-    "url": "https://note.com/terueda/n/n5707498651c3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "むしろ企業や官公庁の公式サイトにアップロードされるPDFファイル等は、あまり",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "PDFの文書のプロパティに、個人情報を乗せたまま文書を",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "pdfの他にもdocxやxlsxファイルも集めています",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これで自社のサイトに公開しているpdf,docx,xlsxファイルがダウンロードできます",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "metagoofil -d example.com -t pdf,docx,xlsx -l 50 -n 25",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ".pdf」というファイルが得られたとします",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ".pdf」の中身はこのように大したことの無い内容になっています",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一見何も無いファイルに見えますが、このPDFには意図的に様々な",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Word 2010が使用されており、そこからPDFに変換されて作られた、ということを示しています",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Word等のOfficeからPDFに変換すると、そのソフトやバージョン情報がPDFに含まれることがあり、そのバージョンを攻撃者に知られると、もしかしたらまだセキュリティアップデートがされずに、",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "exiftool -pdf-update:all= [ファイル名]",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "であればqpdfを使って線形化（Web最適化）すれば大丈夫ですが、デフォルトではインストールされていないので下記コマンドでインストールします",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "sudo apt-get install qpdf",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "qpdfでpdfを線形化するコマンドは以下の通りです",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "qpdf --linearize [inputファイル名] [outputファイル名]",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "写真、文書、PDF、動画などのファイルには、",
-    "url": "https://cysec148.hatenablog.com/entry/2025/06/25/062841",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "✔ PDFの履歴から企業内部の編集状況が露出",
-    "url": "https://cysec148.hatenablog.com/entry/2025/06/25/062841",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "役所の発表資料PDFに、社内レビュー者の名前や修正履歴が残っていた",
-    "url": "https://cysec148.hatenablog.com/entry/2025/06/25/062841",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Adobe AcrobatでPDFをクリーニング",
-    "url": "https://cysec148.hatenablog.com/entry/2025/06/25/062841",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に画像・文書・PDFは、",
-    "url": "https://cysec148.hatenablog.com/entry/2025/06/25/062841",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第36回：PDFや画像に隠された情報を発見する",
-    "url": "https://cysec148.hatenablog.com/entry/2025/06/25/062841",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "警察庁の統計から、中小企業が、まず見直すところ",
-    "url": "https://cysec148.hatenablog.com/entry/2025/06/25/062841",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Document Properties in PDFs/Office Files",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": Tracked changes in Word docs, PDF creation software.",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Attribution & Author Profiling",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": A threat actor’s PDFs created with “Adobe Acrobat 11.0” may indicate outdated (and vulnerable) systems.",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": Scrape target domains for docs (PDF/DOCX) and auto-extract metadata.",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": Parse PDF creation dates even in corrupted files.",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Metadata is the silent betrayer. A single unscrubbed PDF can reveal internal server names, while a \"sanitized\" image might still leak the exact time your CISO reviewed an incident report. Here’s how to lock it down:",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2. Confirm no internal codenames in PDF properties",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": A healthcare vendor accidentally exposed patient ZIP codes via PDF metadata, resulting in a $1.2M HIPAA fine. Their fix? Automated metadata scrubbing in SharePoint workflows.",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "+ Metadata: A LinkedIn profile’s resume PDF leaks the author’s real name, cross-referenced with breached credentials.",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "is the total collection of publicly accessible open-source intelligence (OSINT) about an organization. Employee LinkedIn profiles, leaked credentials, forgotten subdomains, and regulatory filings all feed into it. Cyberattackers systematically mine every data point to build hyper-targeted cyberattacks.",
-    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "SEC filings, nonprofit Form 990s, and FEC databases all contain searchable personal information linked to leadership names. Property records and vehicle registrations, accessible through county clerk databases, provide physical location precision.",
-    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The same data brokers that sell executive profiles operate continuously, adding new records with every mortgage filing, LLC registration, and utility connection. Shutting down this exposure pipeline is the difference between being a hard target and an open book.",
-    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "They map organizational charts from LinkedIn to identify who in finance has wire authority, track executive travel patterns from social media posts to time cyberattacks when the actual CFO is unreachable on a plane, and pull vendor payment schedules, contract renewal dates, and public filing details to craft requests that match real business rhythms.",
-    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Surface web sources, including corporate websites, job postings, press releases, and SEC filings;",
-    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A self-directed assessment using the tools described above typically requires 20 to 40 hours to thoroughly evaluate a mid-sized organization, covering domain enumeration, executive profiling, credential exposure checks, infrastructure scanning, and document metadata analysis.",
-    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Major corporate events temporarily inflate the OSINT footprint in ways a single audit cannot track. M&A activity generates new executive profiles, press coverage, and regulatory filings. IPO preparations surface financial disclosures and leadership biographies, while funding announcements produce media coverage that enriches the publicly available data adversaries use for reconnaissance.",
-    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". Many elements of organizational digital exposure are mandatory: SEC filings, business registrations, patent databases, and court records remain permanently public.",
-    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(SEC filings,",
+    "quote": "What Is OSINT? Open Source Intelligence for Security ... — Mar 24, 2026 · OSINT is intelligence gathered from public sources - DNS, social media, Shodan, job postings. Here's what it is, how it fits into security research, and the...",
     "url": "https://infishark.com/blogs/learn/what-is-osint-open-source-intelligence-for-security-researchers",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Documents published on company websites often contain metadata - PDF author fields, Office file paths revealing internal naming conventions, EXIF data in images containing GPS coordinates. Tools like FOCA automate metadata extraction.",
-    "url": "https://infishark.com/blogs/learn/what-is-osint-open-source-intelligence-for-security-researchers",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "refers to the systematic process of collecting, analysing, and transforming publicly available information into actionable intelligence. Unlike covert or classified data gathering, OSINT sources are legal and accessible-ranging from websites, social platforms, media archives, forums, company filings, domain registries, and even deep and dark web content.",
+    "quote": "OSINT Tools And Techniques | OSINT Technical Sources - Neotas — 1 day ago · Open Source Intelligence (OSINT) refers to the systematic process of collecting, analyzing, and transforming publicly available information into actionable intelligence.",
     "url": "https://www.neotas.com/osint-tools-and-techniques/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Prepare evidence-grade outputs-PDF reports, visual maps, audit logs.",
-    "url": "https://www.neotas.com/osint-tools-and-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "filetype:pdf AML policy",
-    "url": "https://www.neotas.com/osint-tools-and-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
-   {
-    "quote": "ハッカーが OSINT を悪用して脆弱性を見つける方法 - LinkedIn ハッカーが OSINT を悪用して脆弱性を見つける方法 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > how-hackers-exploit-osin...",
-    "url": "https://jp.linkedin.com/pulse/how-hackers-exploit-osint-find-vulnerabilities-sonny-sehgal-tu4te?tl=ja",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT の始め方 - LinkedIn OSINT の始め方 - LinkedIn LinkedIn https://jp.linkedin.com > getting-started-osint-simon-howard",
-    "url": "https://jp.linkedin.com/pulse/getting-started-osint-simon-howard?tl=ja",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT - 製品、 技術 、運用 業務 において - LinkedIn OSINT - 製品、 技術 、運用 業務 において - LinkedIn LinkedIn https://jp.linkedin.com > pulse > osint-our-product-tech-o...",
-    "url": "https://jp.linkedin.com/pulse/osint-our-product-tech-operational-duties-amit-sharma-pu0ff?tl=ja",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "詳細な個人情報検索のための OSINT の使い方 - LinkedIn 詳細な個人情報検索のための OSINT の使い方 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > how-use-osint-detailed-p...",
-    "url": "https://jp.linkedin.com/pulse/how-use-osint-detailed-personal-information-searches-vijay-gupta--vo5dc?tl=ja",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT on Reddit: Reconstructing Public-Source Intelligence ... OSINT on Reddit: Reconstructing Public-Source Intelligence ... LinkedIn https://www.linkedin.com > posts > n...",
-    "url": "https://www.linkedin.com/posts/neerav-patel_osint-cybersecurity-threatintelligence-activity-7497028878654148610-eN-n",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT for Executives: How Hackers Use Your Digital Footprint ... OSINT for Executives: How Hackers Use Your Digital Footprint ... LinkedIn https://www.linkedin.com > pulse > o...",
-    "url": "https://www.linkedin.com/pulse/osint-executives-how-hackers-use-your-digital-footprint-against-sw9of",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The Challenges in OSINT Analysis Concerning Digital Evidence The Challenges in OSINT Analysis Concerning Digital Evidence LinkedIn https://www.linkedin.com > pulse > c...",
-    "url": "https://www.linkedin.com/pulse/challenges-osint-analysis-concerning-digital-evidence-paul-wright-yutrc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "5 Free OSINT Certifications for Cybersecurity Professionals 5 Free OSINT Certifications for Cybersecurity Professionals LinkedIn https://www.linkedin.com > posts > sh...",
-    "url": "https://www.linkedin.com/posts/shivam-rawat-8b7066267_osint-cybersecurity-intelligence-activity-7440219250599821312-4lp1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINTを用いたセキュリティ曝露分析:公開情報だけで十分な場合 Jan 16, 2026 · 評価は実施されました OSINTのみを使用しています (オープンソースインテリジェンス) 方法論、悪用の試み、認証情報の使用、ターゲットシステムとの不正なやり取りなしに。目的は「限界をテストすること」ではなく、インターネット上の誰にでも既に見える情報やサービスを理解すること ...",
-    "url": "https://jp.linkedin.com/pulse/security-exposure-analysis-using-osint-when-public-enough-tamaral-xc6pe?tl=ja",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Open Source Intelligence Osint Jobs in United States (8,000 ... Today’s top 8,000+ Open Source Intelligence Osint jobs in United States. Leverage your professional network, and get hired. New Open Source Intelligence Osint jobs added daily.",
-    "url": "https://www.linkedin.com/jobs/open-source-intelligence-osint-jobs",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Osint Jobs in United States (7,000+ Open Roles) | LinkedIn Today’s top 7,000+ Osint jobs in United States. Leverage your professional network, and get hired. New Osint jobs added daily.",
-    "url": "https://www.linkedin.com/jobs/osint-jobs",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT Jobs - LinkedIn OSINT Jobs connects open source intelligence professionals with the roles, resources, and standards that advance the field. We serve the community across three areas.",
-    "url": "https://www.linkedin.com/company/osint-jobs",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Osint Analyst Jobs in United States (6,000+ Open Roles ... Today’s top 6,000+ Osint Analyst jobs in United States. Leverage your professional network, and get hired. New Osint Analyst jobs added daily.",
-    "url": "https://www.linkedin.com/jobs/osint-analyst-jobs",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "SNS・note（X・検索結果の抜粋）": [
-   {
-    "quote": "Grok on X: \"公開データ検証の限界は衛星画像の解像度・メタデータ公... 公開データ検証の限界は衛星画像の解像度・メタデータ公開範囲・現地アクセス制限にあり、インフラはMaxarなど米関連企業が独占し政治的文脈で流通する。 情報空間は西側公式・OSINTとロシア公式・代替源に分断され、相互に相手を選択的引用する。",
-    "url": "https://x.com/grok/status/2108624366896316918",
+    "quote": "OSINT collection techniques using legitimate tools — Aug 6, 2026 · In practice, OSINT collection is a workflow, not just a set of tools. You start with a question, gather public data from a defined set of sources, validate what you find, and then decide whether the result changes your risk picture.",
+    "url": "https://securityboulevard.com/2026/08/osint-collection-techniques-using-legitimate-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -3245,875 +1735,368 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ]
- },
- "figures": {},
- "checked": {
-  "pass3": [
-   {
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/pttrner_tech/n/ne09440a51ea7",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/pttrner_tech/n/nde6ac8c6ac51",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/pttrner_tech/n/n70c275e3c9f1",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/pttrner_tech/n/n65a522f1d34f",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/48ta_h/n/n2a147fcff830",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://aitokuconsult.com/security/20250114osint/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/terueda/n/n5707498651c3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://cysec148.hatenablog.com/entry/2025/06/25/062841",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://mundobytes.com/ja/%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%A1%E3%82%BF%E3%83%87%E3%83%BC%E3%82%BF%E3%83%84%E3%83%BC%E3%83%AB/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://glorious-future.co.jp/article/metadata-design-rag/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ai-watch.jp/latest/63043/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://theosintvault.io/osint-handbook",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://infishark.com/blogs/learn/what-is-osint-open-source-intelligence-for-security-researchers",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.neotas.com/osint-tools-and-techniques/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://securityboulevard.com/2026/08/osint-collection-techniques-using-legitimate-tools/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://x.com/grok/status/2108624366896316918",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://jp.linkedin.com/pulse/security-exposure-analysis-using-osint-when-public-enough-tamaral-xc6pe?tl=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.linkedin.com/jobs/open-source-intelligence-osint-jobs",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.linkedin.com/jobs/osint-jobs",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.linkedin.com/company/osint-jobs",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.linkedin.com/jobs/osint-analyst-jobs",
-    "status": "robots_disallowed",
-    "method": ""
-   }
-  ]
- },
- "search_log": [
-  {
-   "query": "公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT） site:note.com",
-   "results": [
-    "https://note.com/itta_usa/n/nd300923856e1",
-    "https://note.com/pttrner_tech/n/ne09440a51ea7",
-    "https://note.com/pttrner_tech/n/nde6ac8c6ac51",
-    "https://note.com/pttrner_tech/n/n70c275e3c9f1",
-    "https://note.com/pttrner_tech/n/n65a522f1d34f",
-    "https://note.com/48ta_h/n/n2a147fcff830",
-    "https://note.com/miku_shiba/n/n735bdd69b45e"
-   ]
-  },
-  {
-   "query": "公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT） note",
-   "results": [
-    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス",
-    "https://cybersecurity-info.com/column/40141/",
-    "https://aitokuconsult.com/security/20250114osint/",
-    "https://kitploit.com/ja/tools/github/lockfale/osint-framework/",
-    "https://note.com/terueda/n/n5707498651c3",
-    "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "https://cysec148.hatenablog.com/entry/2025/06/25/062841"
-   ]
-  },
-  {
-   "query": "公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT） やり方",
-   "results": [
-    "https://cybersecurity-info.com/column/40141/",
-    "https://aitokuconsult.com/security/20250114osint/",
-    "https://note.com/terueda/n/n5707498651c3",
-    "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "https://cysec148.hatenablog.com/entry/2025/06/25/062841",
-    "https://mundobytes.com/ja/シールメタデータツール/",
-    "https://glorious-future.co.jp/article/metadata-design-rag/"
-   ]
-  },
-  {
-   "query": "公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT） 事例",
-   "results": [
-    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス",
-    "https://cybersecurity-info.com/column/40141/",
-    "https://aitokuconsult.com/security/20250114osint/",
-    "https://kitploit.com/ja/tools/github/lockfale/osint-framework/",
-    "https://note.com/terueda/n/n5707498651c3",
-    "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "https://ai-watch.jp/latest/63043/"
-   ]
-  },
-  {
-   "query": "OSINT document metadata job postings tech blog business process",
-   "results": [
-    "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "https://theosintvault.io/osint-handbook",
-    "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
-    "https://infishark.com/blogs/learn/what-is-osint-open-source-intelligence-for-security-researchers",
-    "https://www.neotas.com/osint-tools-and-techniques/",
-    "https://securityboulevard.com/2026/08/osint-collection-techniques-using-legitimate-tools/",
-    "https://spyboy.blog/2026/03/13/how-to-make-a-metadata-extractor-tool-for-osint-digital-forensics/"
-   ]
-  },
-  {
-   "query": "site:note.com 公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT）",
-   "results": [
-    "https://biz.note.com/n/n03d8c32f04b0",
-    "https://biz.note.com/n/nc0aa8e77b7e1",
-    "https://note.com/itta_usa/n/nd300923856e1",
-    "https://note.com/pttrner_tech/n/ne09440a51ea7",
-    "https://note.com/pttrner_tech/n/n70c275e3c9f1",
-    "https://note.com/pttrner_tech/n/nde6ac8c6ac51",
-    "https://note.com/48ta_h/n/n2a147fcff830"
-   ]
-  },
-  {
-   "query": "site:x.com 公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT）",
-   "results": [
-    "https://x.com/grok/status/2108624366896316918",
-    "https://x.com/FFRI_Research/status/2077216908701819119",
-    "https://blog.x.com/ja",
-    "https://x.com/future_techblog",
-    "https://x.com/yfuruse/status/2110168326639104062",
-    "https://x.com/MacopeninSUTABA/status/2032955805755113600",
-    "https://x.com/metadata_inc"
-   ]
-  },
-  {
-   "query": "site:linkedin.com 公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT）",
-   "results": [
-    "https://jp.linkedin.com/pulse/security-exposure-analysis-using-osint-when-public-enough-tamaral-xc6pe?tl=ja",
-    "https://jp.linkedin.com/pulse/データカタログメタデータでガバナンス強化ai自動化とハイブリッド連携の最前線-hide-fukano-jbm6c",
-    "https://www.linkedin.com/pulse/data-governance-utilization-saison-technology-emypc",
-    "https://jp.linkedin.com/pulse/失敗しないデータカタログとメタデータ管理定義種類リネージから導入ロードマップまでわかりやすく解説-hide-fukano-9d9hc",
-    "https://jp.linkedin.com/pulse/future-document-control-ai-automation-smart-metadata-marissa-venter-lfkof?tl=ja",
-    "https://jp.linkedin.com/posts/koichi-inami-a7387442_業務分析とメタデータ発掘のための実践的データモデリング入門講座-astahを使って-activity-7459139589237051393-qI0F",
-    "https://jp.linkedin.com/pulse/from-data-decisions-cognitive-continuum-intelligent-idp-dawalbhakta-8wwff?tl=ja"
-   ]
-  },
-  {
-   "query": "site:facebook.com 公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT）",
-   "results": [
-    "https://www.facebook.com/MetaJapan/",
-    "https://www.facebook.com/NTTDATAJapan/posts/お知らせ-ntt-data公式技術ブログnttdata-techがオープンしました技術ブログを通じntt-dataのエンジニアたちが日々の業務や学びを通じて得た/1016335803969750/",
-    "https://www.facebook.com/NTTDATAJapan/photos/お知らせ-ntt-data公式技術ブログnttdata-techがオープンしました技術ブログを通じntt-dataのエンジニアたちが日々の業務や学びを通じて得た/1016333403969990/",
-    "https://developers.facebook.com/",
-    "https://www.facebook.com/METATEAMRecruit/",
-    "https://www.facebook.com/BungakuReport/posts/デジタルアーカイブメタデータ勉強会-5-のアーカイブ動画を公開しました-これからの学術情報システム構築検討委員会-ｍｃ-福島幸宏慶應義塾大学-江上敏哲人間文化研/1212971014169045/",
-    "https://www.facebook.com/ToyokeizaiOnline/posts/メタプラットフォームズが進めるaiシフトの裏で従業員のプライバシー監視や大規模なリストラが波紋を呼んでいます業務データの収集が進む職場で社員たちは不安や怒りを募/999835085925751/"
-   ]
-  },
-  {
-   "query": "公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT） note 社長",
-   "results": [
-    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス",
-    "https://cybersecurity-info.com/column/40141/",
-    "https://aitokuconsult.com/security/20250114osint/",
-    "https://kitploit.com/ja/tools/github/lockfale/osint-framework/",
-    "https://note.com/terueda/n/n5707498651c3",
-    "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "https://cysec148.hatenablog.com/entry/2025/06/25/062841"
-   ]
-  },
-  {
-   "query": "公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT） X 投稿",
-   "results": [
-    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス",
-    "https://cybersecurity-info.com/column/40141/",
-    "https://aitokuconsult.com/security/20250114osint/",
-    "https://kitploit.com/ja/tools/github/lockfale/osint-framework/",
-    "https://note.com/terueda/n/n5707498651c3",
-    "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "https://cysec148.hatenablog.com/entry/2025/06/25/062841"
-   ]
-  },
-  {
-   "query": "OSINT document metadata job postings tech blog business process site:linkedin.com",
-   "results": [
-    "https://www.linkedin.com/jobs/open-source-intelligence-osint-jobs",
-    "https://www.linkedin.com/jobs/osint-jobs",
-    "https://www.linkedin.com/company/osint-jobs",
-    "https://www.linkedin.com/jobs/osint-analyst-jobs",
-    "https://www.linkedin.com/posts/cidint_cybersecurity-osint-corporateosint-activity-7517235907956154369-IyJj",
-    "https://www.linkedin.com/top-content/science/research-methods/osint-methods-for-corporate-research/",
-    "https://www.linkedin.com/pulse/osint-blueprint-what-wwi-tactics-teach-us-metadata-modern-sandy-dunn-cthlc"
-   ]
-  }
- ],
- "missing": {},
- "new_this_run": {
-  "SNS・note（note・本文）": [
-   {
-    "quote": "情報収集手法(INT)の融合案まとめレポート｜ittakou",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情報収集手法(INT)の融合案まとめレポート",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT(Open Source Intelligence / 公開情報収集)",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新聞、テレビ、インターネット、SNS、学術論文、公的統計、衛星画像など、誰でもアクセス可能な公開情報から情報を収集・分析する手法。",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "SNSやジオロケーション解析の発達により重要性が急上昇",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "用途例:企業リスク分析、調査報道、サイバーセキュリティ偵察、軍事動向分析",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "HUMINT(Human Intelligence / 人的情報収集)",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "スパイ、協力者、亡命者、外交官などの「人」を通じて得る情報収集手法。",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "情報収集手法 (INT)の融合案まとめレポート｜ittakou — Aug 2, 2026 · 1.基本概念 OSINT(Open Source Intelligence / 公開情報収集) 新聞、テレビ、インターネット、SNS、学術論文、公的統計、衛星画像など、誰でもアクセス可能な公開情報から情報を収集・分析する手法。 合法的でコストが低い SNSやジオロケーション解析の発達により重要性が急上昇 用途例:企業リスク分析 ...",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "オープン・ソース・インテリジェンス - Wikipedia — OSINT （オシント）と略す。 アメリカ合衆国の 国家情報長官室 （英語版） （ODNI）は、2024年の戦略で、OSINTを「特定の情報上の優先事項、要求または空白に対応する、公開または商業的に利用可能な情報だけから導かれたインテリジェンス」と定義した [1]。",
-    "url": "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINTとは？公開情報から不正アクセスや情報漏洩の兆候を探る調査手法... — Aug 6, 2025 · OSINT（オープンソースインテリジェンス）は、公開情報をもとに不正アクセスや情報漏洩の兆候を調査する技術です。 本記事では、OSINTの基本から実際の活用方法、注意点までを専門的にわかりやすく解説します。",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【社長のためのインテリジェンス特別講義】元FBI捜査官に学ぶ、OSINT... — 著者のバゼル氏は、元FBIサイバー犯罪タスクフォースの捜査官として20年以上にわたりサイバー犯罪捜査に従事し、大ヒット海外ドラマ『Mr. Robot』の技術アドバイザーも務めた、サイバー・インテリジェンスの実戦的プロフェッショナルです。",
-    "url": "https://note.com/terueda/n/n5707498651c3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "あなたの会社は大丈夫？ ～メタデータの落とし穴～ - NFLabs. エンジ... — Dec 17, 2021 · セキュリティ研修でOSINT（Open Source Intelligence : 公開されている情報ソースから入手可能なデータを収集・分析する技術）を教えることが多いのですが、今日はOSINTのテクニックの一つであるメタデータの収集について書いていきたいと思います。",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第32回：メタデータから情報を読み解く - Shikata Ga Nai — Jun 25, 2025 · 写真、文書、PDF、動画などのファイルには、作成者・日時・場所・機器情報などのメタデータが自動的に記録されています。 これらは通常、ファイルを開いても目には見えませんが、OSINT調査では重要な手がかりになります。",
-    "url": "https://cysec148.hatenablog.com/entry/2025/06/25/062841",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT #5: Metadata Analysis: Uncovering the Hidden Data Layer ... — Mar 5, 2025 · Uncover hidden intelligence in digital files: Master metadata analysis for OSINT investigations. Tools, case studies, and ethical practices every cyber pro needs.",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT Handbook 2026 | The OSINT Vault — Oct 13, 2026 · The goal is to standardize how you think, search, pivot, and document across cases without sacrificing accuracy. In practice, that means controlling the process even when the data is chaotic.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Complete Guide to Assessing Your Company OSINT Footprint — Jul 5, 2026 · Learn to assess, reduce, and monitor your organization's OSINT footprint. Protect against cyberattacks by understanding your digital exposure today!",
-    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What Is OSINT? Open Source Intelligence for Security ... — Mar 24, 2026 · OSINT is intelligence gathered from public sources - DNS, social media, Shodan, job postings. Here's what it is, how it fits into security research, and the...",
-    "url": "https://infishark.com/blogs/learn/what-is-osint-open-source-intelligence-for-security-researchers",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT Tools And Techniques | OSINT Technical Sources - Neotas — 1 day ago · Open Source Intelligence (OSINT) refers to the systematic process of collecting, analyzing, and transforming publicly available information into actionable intelligence.",
-    "url": "https://www.neotas.com/osint-tools-and-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT collection techniques using legitimate tools — Aug 6, 2026 · In practice, OSINT collection is a workflow, not just a set of tools. You start with a question, gather public data from a defined set of sources, validate what you find, and then decide whether the result changes your risk picture.",
-    "url": "https://securityboulevard.com/2026/08/osint-collection-techniques-using-legitimate-tools/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "NISTの報告によれば、合成画像検出器の精度は、評価データの圧縮や破損、画像の様式や被写体、学習に用いた生成器によって変わり、未知の生成器や圧縮・縮小後の画像では誤りが増える",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、OSINTの基本から実際の活用方法、注意点までを専門的にわかりやすく解説します",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT調査を調査会社に依頼する際の注意点は以下の点に注意しましょう",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "適切に活用することで、様々な分野で有益な情報を得ることができますが、情報の信憑性やプライバシーへの配慮など、注意すべき点も存在します",
-    "url": "https://aitokuconsult.com/security/20250114osint/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【Excelで生産性UP（１）】セル入力時に注意メッセージを表示して誤入力を防止",
-    "url": "https://aitokuconsult.com/security/20250114osint/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「ネット検索なんて誰でもみんなやっている」と思われた社長、それは大きな間違いです",
-    "url": "https://note.com/terueda/n/n5707498651c3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これにより、「自社が相手に関心を持っている」「特定の件を調べている」という事実が相手に露呈し、調査が失敗に終わります",
-    "url": "https://note.com/terueda/n/n5707498651c3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "： 「ググってみました」レベルの不確実な報告を鵜呑みにしてはいけません",
-    "url": "https://note.com/terueda/n/n5707498651c3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "あなたの会社は大丈夫？ ～メタデータの落とし穴～ - NFLabs. エンジニアブログ",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "あなたの会社は大丈夫？ ～メタデータの落とし穴～",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT investigations are difficult because public data is fragmented, inconsistent, and often outdated. Investigators must reconcile multiple sources without contaminating the case. A single weak assumption can bias the entire workflow, leading to false positives or missed signals.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Avoid cultural bias-what’s normal in one market may be a red flag in another",
-    "url": "https://www.neotas.com/osint-tools-and-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "SNS・note（note・検索結果の抜粋）": [
-   {
-    "quote": "情報収集手法 (INT)の融合案まとめレポート｜ittakou Aug 2, 2026 · 1.基本概念 OSINT(Open Source Intelligence / 公開情報収集) 新聞、テレビ、インターネット、SNS、学術論文、公的統計、衛星画像など、誰でもアクセス可能な公開情報から情報を収集・分析する手法。 合法的でコストが低い SNSやジオロケーション解析の発達により重要性が急上昇 用途例:企業リスク分析 ...",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "案1:OSINT先行・HUMINT絞り込み型(段階的漏斗モデル)",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "案2:HUMINT検証・OSINT裏付け型(クロスバリデーションモデル)",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "などと、主に情報源と収集方法によって区別される",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "商業データベースは、公開ウェブより広い範囲や詳細な項目を提供することがあるが、収集方法や母集団が不透明な場合もある",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開情報であっても、収集方法と規模が新たな危害や法的問題を生むことがある",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Berkeley Protocolは、可能な範囲でURL、取得日時、ページ全体、ソースコード、埋め込み媒体とメタデータ、収集者と収集方法を記録し、原本相当の保存物と作業用コピーを分けることを示している",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Berkeley Protocolは、内部作業ならスクリーンショットやPDF化で足りる場合もある一方、証拠価値を持ち得る資料には、より確実な取得方法を用い、可能な限り元の形式、URL、ソースコード、埋め込み媒体・メタデータ、取得情報とハッシュを保存するよう区別している",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "報告では、主要な結論を先に示し、調査目的、方法、用いた資料、検証手順、限界、未解決点を読者が追える形にする",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "再現可能性と安全が衝突する場合には、非公開の監査記録を保持しつつ、公表物では必要な部分を秘匿する方法がある",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "のような調査集団は、公開された画像・動画の検証方法を記事とともに提示してきた",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "は、Tim Tomesが開発したモジュール型の公開情報収集フレームワークで、",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同団体の2015年報告は、自らと他の調査者による公開情報調査を要約したものであり、その主張と方法を検討するための当事者資料である",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開情報調査部門は、SNSから得た46点の写真・動画と、非公開で提供された99点の写真・動画を検証したと方法節に記載している",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査者自身にも、標的型攻撃、なりすまし、法的威嚇、嫌がらせ、暴力映像への反復曝露などの危険がある",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Intelligence Community Policy Framework for Commercially Available Information",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、OSINTの基本から実際の活用方法、注意点までを専門的にわかりやすく解説します",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まず着手すべきは、Twitter（現X）や5ちゃんねるなどのSNS・掲示板で自社名・関係者名・ドメインなどが言及されていないか確認する方法です",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一般には見られないダークウェブ上に、顧客データやログイン情報が掲載されていないか調査する方法です",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ShodanやtheHarvesterなどのツールを活用し、サーバの公開情報や外部に漏れている技術的データ（メタデータ、開放ポート等）を収集・分析する方法です",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情報漏洩や不正アクセスの可能性が高い、あるいは調査範囲が広すぎて自社で対応できない場合は、デジタルフォレンジック専門の調査会社に依頼することが最も確実な方法です",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "警察や裁判が絡むインシデントでは、正しい手順でデータを保全しなければ、後の法的手続きを有利に進めることが困難になります",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えばスポット調査では、調査範囲や期間、報告形式などを明確にし、緊急時の対応方法も定義しておくべきです",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一方、モニタリングサービスでは、定期的な報告頻度や検知された際のアラート方法、リスク評価の基準などを確認しておくとよいでしょう",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "機密保持契約や、調査終了後のデータ処理方法や、調査結果の二次利用に関する規定も明確にしておくべきです",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Medusaランサムウェアとは？急増するRaaS型攻撃の実態",
-    "url": "https://cybersecurity-info.com/column/40141/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINTとは公開情報からインテリジェンスを得る方法 | アイトクコンサルティング",
-    "url": "https://aitokuconsult.com/security/20250114osint/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINTとは公開情報からインテリジェンスを得る方法",
-    "url": "https://aitokuconsult.com/security/20250114osint/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT-Framework — 公開ソースから情報を収集するための無料OSINTツールとリソースのキュレーションフレームワーク",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "lockfale/osint-framework",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開ソースから情報を収集するための無料OSINTツールとリソースのキュレーションフレームワーク",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "http://osintframework.com",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINTフレームワークは、無料のツールやリソースから情報を収集することに焦点を当てています",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このフレームワークはもともと情報セキュリティの観点から作成しました",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "以下のリンクからフレームワークを参照し、良いハンティングを！",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://osintframework.com",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://github.com/lockfale/osint-framework",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT Framework ウェブサイト",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "得られた情報が本物かどうかを検証し、組織として活用できる客観的な報告書へとまとめる「再現可能なワークフロー（Methodology & Workflow）」にあります",
-    "url": "https://note.com/terueda/n/n5707498651c3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回は自分の会社からそういった情報が漏れていないかを確認する方法や、それを防止する方法について紹介します",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そしてこのように得られた情報から社員情報が漏洩したり、更に社員のメールアドレス宛に取引先を装って、攻撃者が標的型メールを送って来る事があるかもしれません",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "を悪用する標的型メールを使った攻撃が行われ、更なる情報漏洩が引き起こされるといった事態に発展するかもしれません",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Microsoft Intune Remote Helpの管理セッション利用後、終了方法で何が変わる？通信断も試してみた",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "撮影機器、解像度、フレームレート、録画日、GPS（スマホ動画）",
-    "url": "https://cysec148.hatenablog.com/entry/2025/06/25/062841",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Advanced Metadata Analysis Methods",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Top Tools & Frameworks",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Whether you’re tracing a phishing campaign’s origins or verifying a leaked document’s authenticity, metadata analysis turns invisible data into actionable intelligence. Let’s explore how to weaponize this hidden layer.",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "*In cybersecurity, a \"kill chain\" refers to the structured sequence of steps required to achieve an investigative objective – from data collection to analysis to reporting. For metadata analysis, we adapt this concept to create a toolchain that methodically converts raw data into actionable intelligence.",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "– GPS coordinates linking to private residences, document authorship exposing whistleblowers, or browsing histories revealing medical research. Under GDPR, CCPA, and other frameworks,",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": Document your methodology to avoid \"black box\" accusations.",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Metadata is the silent betrayer. A single unscrubbed PDF can reveal internal server names, while a \"sanitized\" image might still leak the exact time your CISO reviewed an incident report. Here’s how to lock it down:",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Foundational methodology, investigative pivots, and operational security for digital investigations. This is how investigators structure their work to produce defensible findings · not a list of tools, but a framework for thinking about and executing OSINT systematically.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The OSINT Vault emphasizes a workflow-first approach. Tools are not the work; they support it. Every investigation begins with a defined question, a set of hypotheses, and a plan for validating or disproving those hypotheses. The steps in this handbook align with the workflow tooling on the platform, including the",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Throughout this handbook, \"identifier\" refers to any handle, email, phone number, domain, or image that can be used as a pivot. \"Pivot\" refers to any new lead derived from that identifier. \"Validation\" means cross-referencing multiple independent sources to confirm a relationship. These terms are not optional; they define how to avoid false attribution.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Precision search is the next step. Instead of ad-hoc queries, analysts create repeatable search strings that can be run later for verification. The",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Search logs should be stored in the case file. If a result is challenged, the investigator can reproduce the search and show that the evidence was accessible. This is a critical credibility step, especially when findings are used in legal or corporate environments.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". Normalization reduces duplicates, identifies conflicting statements, and converts scattered notes into structured categories. This step is critical for preventing false convergence, where two unrelated data points are accidentally merged.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT work must remain passive. Avoid logging into platforms, triggering account recovery flows, or engaging with the subject. Use read-only sources, cached pages, and controlled browsing profiles. Document all steps to maintain chain-of-custody integrity.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", which provides a more granular step-by-step process.",
-    "url": "https://theosintvault.io/osint-handbook",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". Understanding what cyberattackers can see is the first step toward ensuring that information cannot be used against the organization.",
-    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". They start with data that the organization has already exposed on the public internet. The fundamental distinction between technical OSINT and personal OSINT is that infrastructure data reveals where and how to launch a cyberattack, while personnel and executive data reveal precisely who to target and what will make that person comply.",
-    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ],
   "一次情報の探し方": [
+   {
+    "quote": "EU官僚機構の元トップ、キャサリン・デイは2026年10月26日公表の報告書で、EU文書への公的アクセスを認める2001年の法律を「進化」させ、情報へのアクセス法に置き換えるよう提言した",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "トランスペアレンシー・インターナショナルEUのニコラス・アイオッサ代表は、委員長がファイザーCEOとのメッセージの開示を拒み、ニューヨーク・タイムズが欧州委員会を提訴した不祥事と結びつけ、「メッセージ問題を受けて採用した疑わしい内部規則を法典化したいのだ」と批判した",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同社の広報担当副社長アンディ・ストーン氏は2026年10月28日夜のソーシャルメディア投稿で、業界団体との協議が11月20日を越える可能性があり、その場合は更新した規約の適用を遅らせると述べた",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的世論調査機関CISによれば、18〜24歳ではPSOEが19%、Voxが15.6%、PPが11.9%で、未定や棄権予定も多い",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: なりすまし団体の郵便物とマスク氏を結ぶ材料は、現時点では弁護人の共通という周辺情報にとどまり、国内の資金力ある主体による工作の帰属が、訴訟のような公的記録の積み重ねに頼らざるをえない構図を示している",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "欧州のデジタル広告業界団体IAB Europeが、広告事業者Volasimを承認済み事業者リスト（GVL、同意管理の業界標準枠組みTCFに登録した事業者の一覧）に載せ続けていると、Rapporteurが報じた",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 業界団体の承認リストが事業者の正当性の目印として働く以上、問題の事業者を外しても関連先が同日に登録される審査の隙は、スパイウェアに限らず影響工作が広告配信基盤を通じて標的に届く経路を残す",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Social Media LabはBlueskyの8件の連続投稿で、トランプ政権が正当な政治的批判、経済的対抗措置、公的な主張活動を「選挙干渉」と再定義し、カナダへの将来の報復の口実を整えているようだとした",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 出国禁止命令を受けた敗北候補への査証発給は、ブラジル司法を「政治的迫害」とみなす物語に外国政府の公的な裏づけを与える形となり、選挙後の国内対立を国外から増幅しうる",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのうえで4期目の課題として、ボルソナロ氏の自由党が下院513議席中121議席、上院81議席中28議席を持つ議会で与党が多数を持たないこと、GDP比80%を超える公的債務、犯罪組織や民兵組織への治安対策を挙げた",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一方、同社は2026年10月、エネルギー総局長が基調講演したブリュッセルの業界団体Energy Storage Europeの年次会議で、会員でないまま「ゴールド」協賛社となった",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ベルリンの20を超える業界団体が同社の参加を容認し、シンクタンクのBruegelは年5万ユーロ（約850万円）の会費を今も受け取る",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 面会禁止という人を対象とする規制は、協賛金や会費を通じて業界団体やシンクタンクの場に入り込む経路を塞げず、影響力の行使を制度面から抑えるには資金の流れまで透明化の対象に含める必要がある",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 脅威主体の名指しが外交関係に左右される以上、公的なFIMI報告書の帰属件数は干渉の実際の分布ではなく、政府が公表できる範囲を映すものとして読む必要がある",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ICE側と移民裁判官は本人の主張をそのまま採用し、4月にジャマイカへの送還を命じた",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 保守系SNSで7年前に広まった未確定の疑惑が、選挙直前の捜索と大統領の投稿によって公的捜査の外形を得たことは、捜査の存在そのものが疑惑の裏付けとして流通する国内の情報操作の構図を示している",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "経済協力開発機構（OECD）の統計では、フランスは2018〜2022年に孤独の増加が最も急だった国の一つである",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2026年の財政赤字は対GDP比5.4%の見込みで、公的債務は3.5兆ユーロ（約600兆円）を超えた",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "争点は、従業員に経営への発言権を与える共同決定制度（一部の加盟国が採用）の扱いである",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 公式統計と専門家推計の数倍の開きは、ワクチン懐疑の言説が「数字は誇張」とも「当局は隠している」とも語れる余地を生み、公衆衛生の情報空間が影響工作に狙われやすい条件となる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://chinatechnosphere.substack.com/p/the-state-of-pla-quantum-security",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 一帯一路沿線国の政府が中国企業の量子安全通信を採用すれば、暗号機器と鍵管理を中国側に依存する構図が生まれ、通信基盤のサプライチェーン（調達から運用までの供給網）が情報安全保障上の弱点となりうる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 情報操作への対策は外国からの干渉に偏りがちだが、本件は自国政府が公的資金と広報機構を選挙前に用いる行為について、「公共広告」と「政治宣伝」の境界を司法が判断する事例となる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 物理的な基盤への攻撃でボット網の稼働が止まれば、どの言説が自動化された発信に支えられていたかを外から確かめる機会になるが、マルクスの投稿は時期の一致を指摘する段階にとどまり、ヤンデックス網のトラフィック減と特定政党をめぐる活動減を結ぶ検証可能なデータを示していないため、帰属の根拠には使えず、公開されたトラフィック統計とSNSの投稿量を同じ時間軸で突き合わせる独立の検証が必要である",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仏国内やEU域内での新薬の開発、生産に価格上の優遇を与える代わりに、特許切れの古い医薬品の値下げを業界に求める内容だ",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界団体Leemのジュリエット・モワセ氏は、国際情勢を薬価政策の変数とすべきだと最初に提起したのはCEPSの委員長だと述べ、方針は交渉前に首相府が示していたという",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 証拠が無い段階で「ハッキングされたと思う」という題の投稿が広がる構図は、原因が確定する前の空白を憶測が埋める典型であり、重要インフラの障害では公的機関による早期の事実説明が情報空間の防御にもなる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 作戦構想の公表自体を抑止の発信と位置づけつつ、ハイブリッド攻撃への公的帰属を「証拠と法的要件」に条件づけた点は、帰属表明の遅れを突く認知戦側の時間的優位をどう縮めるかという課題を残している",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "YouTube日本「ニュース＆政治」週間ランキングの統計分析（2026/10/05-10/11）｜一田和樹のメモ帳",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 目的地の虚偽申告と洋上積み替えは公的な港湾記録そのものを欺く手法であり、ウクライナ支援を掲げる韓国が対露圧力の「弱い環」と見られる構図は、西側の結束の綻びを強調するロシア側の宣伝材料にもなりうる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "現在はアリアン6が就役し、公的補助を受ける独仏西の新興4社が小型再使用ロケットを開発中だが、軌道投入を実証したのはイザール・エアロスペースのみ",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "UFCW 3000（食料品店労働者の労組）が支持した一方、業界団体は個人向け割引の適用除外を求めた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "YouTube日本「ニュース＆政治」週間ランキングの統計分析（2026/09/14-09/20）｜一田和樹のメモ帳",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "発表から1週間でVercelやCloudflareなどが採用し、9月20日の一般開放後は登録が殺到して受け付けを一時停止した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ベルギーのジャン=リュック・クルック気候相兼モビリティ相は、「5度目の化石燃料危機」だとして電化転換を最優先とすべきだと述べ、低所得世帯向けのソーシャルリース（公的支援つき電気自動車リース）の早期実現を訴えた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "類似の記事: 対イラン戦争による米中東基地の損害、ABC独自写真と監察官報告が示す実態",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "対イラン戦争による米中東基地の損害、ABC独自写真と監察官報告が示す実態",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "9月14日発表の国防総省監察官報告は「数百棟の建物、構造物」が損傷したと指摘し、戦費を330億ドル（約5兆1千億円）と推計した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 匿名の軍人証言と監察官報告という異なる帰属の情報源が「損害の過小評価」という同じ論点で符合しており、国防総省の情報統制それ自体が認知戦上の争点として報じられている点が注目される",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "投票機廃止を掲げる一方、公的記録のブロックチェーン化を提唱し、EagleAI開発陣によるELLYツールを根拠に「登録有権者の最大25パーセントに問題がある」と主張している",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: オリジナルコンテンツの供給網が崩れて権威ある一次情報源が細れば、生成AIに汚染された情報環境への依存が強まり、外国からの情報操作や影響工作(FIMI)がつけ込む土壌が広がる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "狙いは「公的な恥辱を生み、移民法執行活動を抑止する」ことだとした",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 署名前の合意文書が公開されないまま、トランプ氏の「恒久的な管理権」とデンマーク、グリーンランド側の「主権と自決権の承認」という相反する説明が同時に国際報道の一次情報として流通する状況は、実体の確認より先に各当事者が自国の受け手向けの物語を確定させる局面であり、後から合意内容が明らかになっても先行した認識は容易に修正されない",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "携帯電話消去容疑の活動家、ジョージア州立大学が採用内定取り消し",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "学科長が採用方針の説明を大学に求めたところ、そもそも方針は存在せず、採用は個別に危険度評価を行うものだと伝えられた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なぜ儲からないのか？ 製薬会社を襲う「特許の崖（パテント・クリフ）」とは？ その理由をわかりやすく解説！ （オンライン販売は技術書典のルール上、500円未満には設定できないため割高になっております",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 「磯野ー！ 小説同人誌作ろうぜー！」のALBA LUNAより、「小説同人誌の作り方」シリーズ第１弾登場！ 「【1】スマホもOK！ 本文原稿制作」は、小説同人誌で最も重要な「本文原稿の作り方」を、小説PDFメーカー・TATEditor・Wordの３種での作り方と一緒にご紹介",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 🐝 『ハニカム学校のハチたち ― コンピュータの中の小さな教室 ―』 上製本（ハードカバー製本）を採用した本格的な絵本 対象年齢：3歳から（読み聞かせ） / 6歳から（ひとり読み） # こんな方におすすめ - コンピュータやプログラミングに興味をもってほしいお子さまへ - 学びを「物語」からはじめたい親子に - ITエンジニアの方が、お子さんや学生に世界を伝えるときの入門書として - 絵本を通して“しくみを感じる”体験をしたい大人の方にも # あらすじ むかしむかし、 小さなハチたちが通う「ハニカム学校」がありました",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報幾何のとらえどころ ～数理統計学と微分幾何の融合 Part 2～",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 本書は「情報幾何のとらえどころ ～数理統計学と微分幾何の融合 Part 1～」の続編です",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報幾何のとらえどころ ～数理統計学と微分幾何の融合 Part 3～",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 本書は「情報幾何のとらえどころ ～数理統計学と微分幾何の融合 Part 2～」の続編です",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報幾何を完全に理解するために、双対接続、ダイバージェンス、統計モデルの幾何、そして応用例に至るまで網羅したボリューミーな内容となっております",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統計モデル内の双対平坦な構造によって、拡張ピタゴラスの定理やKLダイバージェンスなどが自然に導かれる様をお楽しみください",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1. 実践 ファイル拡張子 「Word ファイルの拡張⼦を .pdf に変えると PDF になる」は、本当に間違いなのか",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "拡張⼦を変えると PDF に変化する魔法の Word ファイルの作り⽅をご紹…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "電子書籍(pdf)をBoothで取り扱っています",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ナイチンゲールは統計学者として、またデータビジュアライゼーションでも有名でありますが、その彼女がどのような実務経験を積んでいたのかを現代的観点で構造化し、詳細に解説します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また統計局や道徳の教科書にも載る「クリミア戦争で死亡率を劇的に改善した」という統計学者としても知られる功績は、実際はナイチンゲール自身が「衛生委員会の功績」として自身の仕事だとしていません",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": オープンソースのOpenFOAMを使って流体解析シミュレーション（ＣＦＤ）を簡単に始めたい人のための電子本(PDF)です",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
    {
     "quote": "新聞、テレビ、インターネット、SNS、学術論文、公的統計、衛星画像など、誰でもアクセス可能な公開情報から情報を収集・分析する手法",
     "url": "https://note.com/itta_usa/n/nd300923856e1",
@@ -4475,283 +2458,369 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
+  "手順・やり方": [
    {
-    "quote": "OSINTを用いたセキュリティ曝露分析:公開情報だけで十分な場合 Jan 16, 2026 · 評価は実施されました OSINTのみを使用しています (オープンソースインテリジェンス) 方法論、悪用の試み、認証情報の使用、ターゲットシステムとの不正なやり取りなしに。目的は「限界をテストすること」ではなく、インターネット上の誰にでも既に見える情報やサービスを理解すること ...",
-    "url": "https://jp.linkedin.com/pulse/security-exposure-analysis-using-osint-when-public-enough-tamaral-xc6pe?tl=ja",
+    "quote": "If You're In the UK or EU, Here's How to Object to Meta's AI Training",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Open Source Intelligence Osint Jobs in United States (8,000 ... Today’s top 8,000+ Open Source Intelligence Osint jobs in United States. Leverage your professional network, and get hired. New Open Source Intelligence Osint jobs added daily.",
-    "url": "https://www.linkedin.com/jobs/open-source-intelligence-osint-jobs",
+    "quote": "Claudeのコメント: 分散型を掲げる基盤でも運営元によるリンク遮断が主要な拡散経路を左右する一方、第三者アプリや競合のAIが迂回路となっており、プラットフォームによる情報流通の制御は層ごとに効果が分断されることを示している",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Osint Jobs in United States (7,000+ Open Roles) | LinkedIn Today’s top 7,000+ Osint jobs in United States. Leverage your professional network, and get hired. New Osint jobs added daily.",
-    "url": "https://www.linkedin.com/jobs/osint-jobs",
+    "quote": "書簡は、Ray-Ban型グラスでマッサージ店の従業員を撮影した動画がInstagramで数百万回再生されていたとする404 Mediaの2025年10月の調査を引用した",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "OSINT Jobs - LinkedIn OSINT Jobs connects open source intelligence professionals with the roles, resources, and standards that advance the field. We serve the community across three areas.",
-    "url": "https://www.linkedin.com/company/osint-jobs",
+    "quote": "Claudeのコメント: 外部委託のラベリング工程が機微な映像の流出経路になる構造は、恐喝や標的型の嫌がらせの素材を第三者に供給しうる点で、個人のプライバシーにとどまらない情報安全保障上の弱点でもある",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Osint Analyst Jobs in United States (6,000+ Open Roles ... Today’s top 6,000+ Osint Analyst jobs in United States. Leverage your professional network, and get hired. New Osint Analyst jobs added daily.",
-    "url": "https://www.linkedin.com/jobs/osint-analyst-jobs",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "案1・案2はいずれも「公開された結果」(OSINT)と「人が語る意図」(HUMINT)は捉えられるが、組織内部でリアルタイムに交わされる非公開の通信そのものは捉えられない",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "quote": "メールは2020年11月、側近からウィリアム・スティゴールを経てACPEDs事務局長ミシェル・クレテラに渡り、「HOW TO DEFUND TRANS PEDIATRICS」の名で保存された",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Berkeley Protocolは、検索式、日時、検索エンジン、結果と選別理由を記録し、情報環境に由来する偏りを評価するよう求めている",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
+    "quote": "Documents Reveal ‘How to Defund Trans Pediatrics’ in Texas",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "例えば日本の「RuleWatcher」は、こうした政策・規則形成情報を収集・分析する商用サービスとして提供され、京都大学の講座はエネルギー・環境分野における利用例を公開している",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
+    "quote": "Group behind mystery transgender mailers one step closer to being revealed after judge allows case to proceed／Texas judge orders depositions as TENT seeks to identify who's behind controversial transgender mailers",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "“Closing cases with open-source: Facilitating the use of user-generated open-source evidence in international criminal investigations through the creation of a standing investigative mechanism”",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
+    "quote": "Claudeのコメント: 検証と削除を同一視させて「検閲」と呼ぶ手口は、対抗する主体の正統性を先に崩す認知戦の典型であり、資金と制度の独立性が防御の前提になることを示している",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-open-source-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
+    "quote": "Claudeのコメント: DDoS攻撃（大量アクセスでサイトを停止させる攻撃）を主とする集団が国内の抗議運動の動員に関わる構図は、サイバーと街頭を連動させるハイブリッド脅威の典型だが、記事が示す根拠はSNS上の支持表明と治安当局の説明にとどまり、ロシア国家の指示や資金の有無は検証を待つ段階である",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "OSINT調査が必要となる主なケースを以下に解説します",
-    "url": "https://cybersecurity-info.com/column/40141/",
+    "quote": "Claudeのコメント: 記者はAIに娘の長所を尋ねた逸話を、メディア訓練に基づく注目獲得の手法と見ており、刺激的な逸話が拡散して本題の構造的な議論が埋もれる構図は、情報環境で論点が移される典型を示している",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "それぞれのケースが放置された場合、情報漏洩、信用失墜、訴訟リスクなど重大な結果を招く恐れがあります",
-    "url": "https://cybersecurity-info.com/column/40141/",
+    "quote": "シチズンラボは10月15日の報告書で、Discover-Techを通じた広告によって、アルジャジーラの少なくとも45台の端末が傭兵型スパイウェアの標的になったとし、同社とVolasimの複数の関係を指摘した",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "社員や退職者が業務情報を持ち出して外部に開示しているケースでは、SNS投稿、掲示板書き込み、GitHubの登録情報などから発覚することもあります",
-    "url": "https://cybersecurity-info.com/column/40141/",
+    "quote": "米大使がカナダの政治家を監視中で、干渉に対応しうると警告した点は、交渉の膠着打開のためのエスカレーションの典型的な行動だとした",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "そのため、上記で紹介したケースに該当する場合はまず、OSINT調査の専門会社へ相談することをおすすめします",
-    "url": "https://cybersecurity-info.com/column/40141/",
+    "quote": "Claudeのコメント: 在外公館前での威嚇は越境弾圧（国外の反体制派や少数派への国家による威圧）の典型例であり、政府が国家との関係の有無を公表しないままでは、加害の抑止も被害者側の安心も得られず、ディアスポラ社会への萎縮効果が残る",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "例えばスポット調査では、調査範囲や期間、報告形式などを明確にし、緊急時の対応方法も定義しておくべきです",
-    "url": "https://cybersecurity-info.com/column/40141/",
+    "quote": "ProtonMailなどプライバシー重視の製品を手がけるProtonは、2026年10月26日、業務でのAIの使い方について社員を「再面接」すると通知した",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "機密保持契約や、調査終了後のデータ処理方法や、調査結果の二次利用に関する規定も明確にしておくべきです",
-    "url": "https://cybersecurity-info.com/column/40141/",
+    "quote": "Claudeのコメント: 敗れた現職が選挙結果を外国の支援による「革命」と位置づける語りは、抗議運動をカラー革命とみなすロシア側の定型の物語と重なり、新政権の正統性を否定する言説として親ロ層の間で流通しうる",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "例えば、ランサムウェア感染などによる情報漏洩が発生した場合、個人情報保護法に基づく報告義務が法人に発生します",
-    "url": "https://cybersecurity-info.com/column/40141/",
+    "quote": "Claudeのコメント: 公の推薦を避けて少人数の会合で支持を伝え、それが匿名の情報源経由で報じられる経路は、発信者が責任を負わずに党派を越えた支持の印象を有権者に届ける手法として、影響工作の分析でも注目される型である",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Emotet感染、情報漏洩被害企業・事例一覧【2025年最新】",
-    "url": "https://cybersecurity-info.com/column/40141/",
+    "quote": "Claudeのコメント: 「簡素化」や「お役所仕事の削減」という肯定的な枠付け（フレーミング）が、既存の権利保障まで規制コストとして一括りにする言説の典型であり、用語の定義をめぐる争いそのものが政策論争の主戦場になっている点に注目したい",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "\"name\": \"Example Name (T)\",",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
+    "quote": "米政府説明責任局（GAO、議会の会計検査機関）は2026年10月14日、移民・関税執行局（ICE）と税関・国境警備局（CBP）の装着型カメラ運用に関する報告書を公表した",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "\"url\": \"https://example.com\",",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
+    "quote": "前線の将校によれば、ロシアの補給路を狙う大型爆撃ドローンや固定翼ドローンの任務が妨げられた",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "\"bestFor\": \"Primary use case in one sentence\",",
-    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
+    "quote": "大統領顧問のベスクレストノフ氏は、ジェット推進型シャヘド（ロシアが用いる攻撃ドローン）を撃墜する迎撃ドローンにも影響すると述べた",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "には様々な情報が含まれており、例えば会社の公式サイトに掲載しているファイルにも、",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
+    "quote": "ガーディアンによれば、ゼレンスキー大統領の軍事技術顧問ベスクレストノフ氏は、制限がジェット推進型シャヘド（ロシアが多用する攻撃ドローン）の迎撃に影響すると述べた",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "には例えば以下のような情報が含まれています",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
+    "quote": "Claudeのコメント: 共通会社形態が規制の緩い国を選んで設立する抜け穴になり得るという論点は、域外の主体が登録地を選んで実質支配を隠すペーパーカンパニー型の影響工作の手口とも重なり、設立地の選択を許す制度設計では実質的支配者の透明性を同時に担保できるかが情報安全保障上も問われる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "は便利ではあるものの、例えば",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
+    "quote": "同氏は、Starlinkがシャヘド型ドローンに対する「最も効果的な解決策」である迎撃ドローンの運用に使われているとした",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "関連の過去の事例を調べてみるとこのような事件がありました",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
+    "quote": "中心は米墨国境に関係する中国系資金洗浄の取引で、中古車を使う貿易型資金洗浄の兆候がある6億ドル超の取引も見つかった",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "metagoofil -d example.com -t pdf,docx,xlsx -l 50 -n 25",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
+    "quote": "Claudeのコメント: 偽記事の閲覧を大きく伸ばしたのは移民問題で発言する国内の実在人物の共有であり、なりすまし型の工作への対処は、偽サイトの帰属の公表だけでなく、国内の言説に取り込まれた後の拡散経路を見る必要がある",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "色々情報が出てきましたが、例えばこのような情報が取得・推察できます",
-    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
+    "quote": "Claudeのコメント: 記者が見通すように中堅事業者が淘汰され利用者が大手のフロンティアモデルへ集約されれば、対話型AIを通じた情報接触の経路が少数企業に集中し、各社の運用方針や安全対策の変更が世論形成に及ぼす影響は一段と大きくなる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "💡 例えばSNSに投稿された何気ない写真1枚から、「どこで」「いつ」「誰のスマホで」撮ったかが分かることも",
-    "url": "https://cysec148.hatenablog.com/entry/2025/06/25/062841",
+    "quote": "小型AIモデルの家庭用機器への自己複製は「数か月先」とするAnthropicの警告",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "In 89% of OSINT cases, image/document/email metadata provided critical attribution clues – compared to 34% for network-level data. Start where the breadcrumbs are richest.",
-    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
+    "quote": "Anthropicは2026年10月12日のブログ投稿で、小型AIモデルが家庭内のインターネット接続機器に自己複製する能力の獲得まで「数か月」だと述べた",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": ". For applied examples, review the investigative articles in the",
-    "url": "https://theosintvault.io/osint-handbook",
+    "quote": "試験では、Googleの小型モデルGemma4-26B-A4Bを廉価な無名ブランドのAndroid TVボックス15台のネットワークで動かした",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "username tracing case studies",
-    "url": "https://theosintvault.io/osint-handbook",
+    "quote": "Claudeのコメント: 停止点を持たない分散型の自己複製は、ホスティング事業者やプラットフォームへの削除要請で影響工作の基盤を断つという従来の対処を前提から崩しうるため、FIMI対策でもテイクダウン（基盤の停止措置）に依存しない検知と抑止の設計が課題になる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "OSINT investigations are difficult because public data is fragmented, inconsistent, and often outdated. Investigators must reconcile multiple sources without contaminating the case. A single weak assumption can bias the entire workflow, leading to false positives or missed signals.",
-    "url": "https://theosintvault.io/osint-handbook",
+    "quote": "現在はアリアン6が就役し、公的補助を受ける独仏西の新興4社が小型再使用ロケットを開発中だが、軌道投入を実証したのはイザール・エアロスペースのみ",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Each pivot should be logged, validated, and tied to source URLs with timestamps. This reduces the risk of contamination and helps keep the case defensible.",
-    "url": "https://theosintvault.io/osint-handbook",
+    "quote": "著者らは、AIが分極化を促すか緩和するかは技術の本質ではなく、使い方と文化的文脈の問題だとする",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Search logs should be stored in the case file. If a result is challenged, the investigator can reproduce the search and show that the evidence was accessible. This is a critical credibility step, especially when findings are used in legal or corporate environments.",
-    "url": "https://theosintvault.io/osint-handbook",
+    "quote": "Claudeのコメント: 外国からの情報操作の効果評価は分極化指標に依存しがちだが、米国型の二極尺度や、ドイツ語を有害と判定しやすいとされたPerspectiveのような言語依存の検出ツールをそのまま使えば、多党制の国や英語以外の言語圏で干渉の影響を見誤る恐れがあり、FIMI評価でも各国の政治構造と言語に即した指標設計が前提になる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Investigators should build a validation matrix: a table that lists each claim and the independent sources that support it. For example, a username match might be supported by a shared email address and a matching profile photo. A phone number match might be supported by a public listing and a domain registration. The matrix prevents over-claiming and highlights where evidence is thin.",
-    "url": "https://theosintvault.io/osint-handbook",
+    "quote": "専門家探しでは、Substackの検索結果と各筆者の推薦リストをたどり、フォロワーが少なくても特化度の高い書き手を追う方法を示した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "They require multiple independent signals and document conflicts in the case file before making any final determination.",
-    "url": "https://theosintvault.io/osint-handbook",
+    "quote": "文書探しでは、対象国のドメインを特定し、ファイル形式と検索語を絞り込んだうえで、キーワードを相手国の言語に翻訳して検索し、相手国政府のドメインで同じ手順を逆方向にも試す方法を紹介した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "The Business Case for Managing a Company OSINT Footprint",
-    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "quote": "How to find experts and hidden documents on any topic",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "The business case for managing a",
-    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "quote": "TypeSafe AIの「Jev」は、文章生成を伴わない判定(ツール選択や緊急度判断など)に特化した「System One Model」と呼ぶ仕組みで、選択肢やスコア、はい/いいえの型付きの答えを返す",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "For example, a finance manager's LinkedIn profile becomes far more dangerous when correlated with a credential breach that shows the same email-password combination and a GitHub commit that reveals internal project naming conventions.",
-    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "quote": "DataCampの記事によると、Jevは並列判定の手法や学習方法の一部を公開した一方、モデルの重みや学習データ、学習手順の全体は非公開で、検証や再現が難しいという",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": ", 99% of executives have personal information listed on more than 3 dozen data broker websites. This data typically includes home addresses, personal phone numbers, family members' names and ages, property records, political donations, and vehicle registrations; in 70% of cases, personal social media content and photographs are also exposed.",
-    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "quote": "判定専用の小型双方向エンコーダを使う系統、Qwenを判定用に改造する系統、既存の生成モデルからロジット(各選択肢の確率の元になる値)を直接読む系統の3系統があり、いずれも手元で動かせる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Common OSINT use cases:",
-    "url": "https://www.neotas.com/osint-tools-and-techniques/",
+    "quote": "Claudeのコメント: ハッカー集団による内部文書流出は真正性の確認前に事実として拡散しやすく、ハック・アンド・リーク型の情報操作の可能性も含め出所の検証と事実関係を切り分けて扱う必要がある",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Use Cases by Industry",
-    "url": "https://www.neotas.com/osint-tools-and-techniques/",
+    "quote": "データワンは州の判断に異議を唱えつつ許可を申請するとし、低排出型の燃料電池へ移行中と説明した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "From regulatory crackdowns in Southeast Asia to ESG protests in Latin America or financial fraud cases in Eastern Europe-critical red flags often first surface in",
-    "url": "https://www.neotas.com/osint-tools-and-techniques/",
+    "quote": "小型画面と5G通信を備え、スマートフォンなしでMuseと対話でき、12月までに発売する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Built for Regulated Use Cases",
-    "url": "https://www.neotas.com/osint-tools-and-techniques/",
+    "quote": "類似の記事: ベルビル銃撃事件容疑者、軍在籍中に新型コロナ陰謀論を唱えワクチン拒否で除隊と関係者証言",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": ": Onboard vendors or close cases in hours-not weeks",
-    "url": "https://www.neotas.com/osint-tools-and-techniques/",
+    "quote": "ベルビル銃撃事件容疑者、軍在籍中に新型コロナ陰謀論を唱えワクチン拒否で除隊と関係者証言",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
     "pass": 3,
     "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
+   },
    {
-    "quote": "OSINTで対象組織の人員構成、活動パターン、公開情報の矛盾点を洗い出す",
+    "quote": "陸軍在籍中にコロナ陰謀論を唱え、ワクチン拒否で除隊されたといい、関係者の一人は陰謀論の一部がユダヤ人に新型コロナの責任を負わせる反ユダヤ主義的だったと述べた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 【本誌概要】 まったく新しいグラフィックソフトウェアとして注目を集める「Affinity」シリーズ3種 写真レタッチソフトウェア「Affinity Photo」 グラフィックデザインソフトウェア「Affinity Designer」 パブリッシングソフトウェア「Affinity Publisher」について ソフトの概要から基本操作方法、機能を使った制作方法までを徹底網羅した Affinity初心者〜中級者、これからデザインに興味を持ち始めた方向けの Affinityシリーズ教則本です",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 【本誌概要】 まったく新しいグラフィックソフトウェアとして注目を集める「Affinity」シリーズの ソフトの概要から基本操作方法、機能を使った制作方法までを徹底網羅した Affinity初心者〜中級者、これからデザインに興味を持ち始めた方向けの Affinityシリーズ教則本第二弾",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【内容紹介】 「Affinity Basics」 Affinity iPadシリーズに関わる基本的な使用方法…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 【本誌概要】 まったく新しいグラフィックソフトウェアとして注目を集める「Affinity」シリーズの ソフトの概要から基本操作方法、機能を使った制作方法までを徹底網羅した Affinity初心者〜中級者、これからデザインに興味を持ち始めた方向けの Affinityシリーズ教則本第三弾！ 本誌はメジャーアップデートされたAffinity v2について 「Affinity v2で何が変わった？」 「Affinity v2で追加された30の新機能」 「Affinity v2を利用した10のチュートリアル」の3項目に分け Affinity v2を世界最速で徹底解…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 【本誌概要】 まったく新しいグラフィックソフトウェアとして注目を集める「Affinity」シリーズの ソフトの概要から基本操作方法、機能を使った制作方法までを徹底網羅した Affinity初心者〜中級者、これからデザインに興味を持ち始めた方向けの Affinityシリーズ教則本第四弾！ メジャーアップデートされた「Affinity v3」を「完全攻略」 大きく刷新された42+αの全機能+変更点を徹底解説！ また先日アップデートされたv3.1の機能も世界最速紹介！！ 【内容紹介】 「Affinity Basics」 Affinity v3全体に関するアップ…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ｽﾀｯｸﾁｬﾝの製作方法、AIエージェントと組み合わせて家電を操作できるようになるまでに必要だった技術をまとめたものです",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そして実際に社内や社外の方から評価を勝ち取る方法を紹介します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 本書は、エンジニアではない方が1人でSaaSを開発して販売・サポートまで行う方法を模索する本です",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本書では、まずSaaSのアイディアを見つけてそのアイディアのニーズがあるかを探る方法を解説します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": AIと一緒に実用書を書く方法を、企画から製本まで一気通貫で解説",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・表紙制作への心理的抵抗をなくすこと ・デザイン学習ことはじめ ・100%再現可能な手順で作る表紙制作サンプル の３つで構成いたしました",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": ・3DCAD(Fusion360)とレーザー加工機＆MDF板を使って機械や装置を作る方法を解説します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ISO/IEC17025マネジメントシステムの構築と申請方法",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "目次 1.Pythonの.pycファイル入門 2.スマホで部屋をスキャンして、webで見てみよう! 3.キャラモデリングのバリエーション宗派 4.Rustの一点特化型手続きマクロ 5.Linuxディストリビューションの味わい方 KCSは慶應義塾大学で唯一のコンピュータサークルです",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "目次 1. 歌が下手だから俺が合成音声になる 2. UnityでWindowを動かす方法 3. OpenSearch でKNN 検索を試してみよう！ 4. VoiceVox を使ったローカル環境音声対話AI KCSの歴史は長く、コンピュータが広まる前である1959年から「電子計算機研究会」と して活動を開始しています",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "案1:OSINT先行・HUMINT絞り込み型(段階的漏斗モデル)",
     "url": "https://note.com/itta_usa/n/nd300923856e1",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -4763,109 +2832,31 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "流れ:HUMINTで得た生情報 → OSINTで裏取り・信憑性評価 → 統合判断",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "具体的要素(日時、場所、人物名、発言内容)を公開情報と突き合わせて検証",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一致すれば信頼度を上げ、矛盾すれば再度HUMINT側に確認する feedback loop を構築",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "利点:HUMINTの弱点(単一情報源への依存、意図的欺瞞のリスク)をOSINTの検証力で補完",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "案2のクロスバリデーションにSIGINTを組み込むと、以下の三段階検証になる:",
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査などで用いられ、その有用性は情報量だけでなく、取得時の来歴、検証、分析過程と限界を追跡できるかにも左右される",
+    "quote": "などと、主に情報源と収集方法によって区別される",
     "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "実務では、公開映像に写った地形を衛星画像で照合したり、公開報道を証言や通信資料と組み合わせたりするため、規律の境界は入力の由来を示しても、分析成果が一種類の情報だけで作られるとは限らない",
+    "quote": "商業データベースは、公開ウェブより広い範囲や詳細な項目を提供することがあるが、収集方法や母集団が不透明な場合もある",
     "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ODNIの分析基準は、反対情報と代替仮説を検討し、情報の空白と不確実性を明示し、主要判断を論理と根拠で支えることを定めている",
+    "quote": "公開情報であっても、収集方法と規模が新たな危害や法的問題を生むことがある",
     "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "2010年代には、報道機関の外にいる調査者、研究者、人権団体と市民が、SNS上の画像・動画、公開地図、衛星画像を共同で検証する実践が目立つようになった",
+    "quote": "Berkeley Protocolは、可能な範囲でURL、取得日時、ページ全体、ソースコード、埋め込み媒体とメタデータ、収集者と収集方法を記録し、原本相当の保存物と作業用コピーを分けることを示している",
     "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "を扱った研究は、公開情報調査のネットワークが、職業ジャーナリストと市民調査者をつなぐ一方、匿名性、責任、検証規範をめぐる新しい課題も生んだと分析している",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "画像・動画を扱う調査では、建物、道路、地形、標識、影、天候、音、撮影機器などを、地図、衛星画像、過去の写真、気象記録等と照合する",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "は撮影地点、クロノロケーションは撮影時期を推定する作業であるが、一致する手掛かりの数だけでなく、それぞれが同じ情報源から派生していないか、反対の手掛かりがないかを検討する必要がある",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "大きな問いを検証可能な小さな問いへ分け、既知の事実、仮定、優先順位、除外範囲、必要な情報源、法的・倫理的制約と終了条件を記録する",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検証は、少なくとも出所、ファイル、内容の三層で行う",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "出所の検証では、アカウントや発行主体、初出、過去の活動を調べる",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ファイルの検証では、形式、メタデータ、編集・再圧縮の痕跡を確認する",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "内容の検証では、写っている場所、時刻、出来事、人物・物体と説明文が一致するかを、独立した資料で照合する",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析者は、根拠から直接分かることと推論を分け、代替仮説、反証、欠けている情報、確信度を明示する",
+    "quote": "Berkeley Protocolは、内部作業ならスクリーンショットやPDF化で足りる場合もある一方、証拠価値を持ち得る資料には、より確実な取得方法を用い、可能な限り元の形式、URL、ソースコード、埋め込み媒体・メタデータ、取得情報とハッシュを保存するよう区別している",
     "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -4877,20 +2868,176 @@
     "first_seen": "2026-11-05"
    },
    {
+    "quote": "再現可能性と安全が衝突する場合には、非公開の監査記録を保持しつつ、公表物では必要な部分を秘匿する方法がある",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
     "quote": "のような調査集団は、公開された画像・動画の検証方法を記事とともに提示してきた",
     "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "【第4講】 単なる「検索」で終わらせるな：組織的な検証とドキュメント化のワークフロー",
-    "url": "https://note.com/terueda/n/n5707498651c3",
+    "quote": "は、Tim Tomesが開発したモジュール型の公開情報収集フレームワークで、",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "： 一つのメールアドレスやユーザー名から、過去の漏洩データを突き合わせることで、匿名アカウントの所有者、使用している他のサービス、あるいは隠された連絡先を特定することができます",
-    "url": "https://note.com/terueda/n/n5707498651c3",
+    "quote": "同団体の2015年報告は、自らと他の調査者による公開情報調査を要約したものであり、その主張と方法を検討するための当事者資料である",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開情報調査部門は、SNSから得た46点の写真・動画と、非公開で提供された99点の写真・動画を検証したと方法節に記載している",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査者自身にも、標的型攻撃、なりすまし、法的威嚇、嫌がらせ、暴力映像への反復曝露などの危険がある",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Intelligence Community Policy Framework for Commercially Available Information",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、OSINTの基本から実際の活用方法、注意点までを専門的にわかりやすく解説します",
+    "url": "https://cybersecurity-info.com/column/40141/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まず着手すべきは、Twitter（現X）や5ちゃんねるなどのSNS・掲示板で自社名・関係者名・ドメインなどが言及されていないか確認する方法です",
+    "url": "https://cybersecurity-info.com/column/40141/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一般には見られないダークウェブ上に、顧客データやログイン情報が掲載されていないか調査する方法です",
+    "url": "https://cybersecurity-info.com/column/40141/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ShodanやtheHarvesterなどのツールを活用し、サーバの公開情報や外部に漏れている技術的データ（メタデータ、開放ポート等）を収集・分析する方法です",
+    "url": "https://cybersecurity-info.com/column/40141/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報漏洩や不正アクセスの可能性が高い、あるいは調査範囲が広すぎて自社で対応できない場合は、デジタルフォレンジック専門の調査会社に依頼することが最も確実な方法です",
+    "url": "https://cybersecurity-info.com/column/40141/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "警察や裁判が絡むインシデントでは、正しい手順でデータを保全しなければ、後の法的手続きを有利に進めることが困難になります",
+    "url": "https://cybersecurity-info.com/column/40141/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えばスポット調査では、調査範囲や期間、報告形式などを明確にし、緊急時の対応方法も定義しておくべきです",
+    "url": "https://cybersecurity-info.com/column/40141/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一方、モニタリングサービスでは、定期的な報告頻度や検知された際のアラート方法、リスク評価の基準などを確認しておくとよいでしょう",
+    "url": "https://cybersecurity-info.com/column/40141/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "機密保持契約や、調査終了後のデータ処理方法や、調査結果の二次利用に関する規定も明確にしておくべきです",
+    "url": "https://cybersecurity-info.com/column/40141/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Medusaランサムウェアとは？急増するRaaS型攻撃の実態",
+    "url": "https://cybersecurity-info.com/column/40141/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINTとは公開情報からインテリジェンスを得る方法 | アイトクコンサルティング",
+    "url": "https://aitokuconsult.com/security/20250114osint/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINTとは公開情報からインテリジェンスを得る方法",
+    "url": "https://aitokuconsult.com/security/20250114osint/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT-Framework — 公開ソースから情報を収集するための無料OSINTツールとリソースのキュレーションフレームワーク",
+    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "lockfale/osint-framework",
+    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開ソースから情報を収集するための無料OSINTツールとリソースのキュレーションフレームワーク",
+    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "http://osintframework.com",
+    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINTフレームワークは、無料のツールやリソースから情報を収集することに焦点を当てています",
+    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このフレームワークはもともと情報セキュリティの観点から作成しました",
+    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "以下のリンクからフレームワークを参照し、良いハンティングを！",
+    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://osintframework.com",
+    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://github.com/lockfale/osint-framework",
+    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT Framework ウェブサイト",
+    "url": "https://kitploit.com/ja/tools/github/lockfale/osint-framework",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
@@ -4901,25 +3048,688 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "どのような手段で収集され、どのように検証されたデータなのか（情報の確度）",
-    "url": "https://note.com/terueda/n/n5707498651c3",
+    "quote": "今回は自分の会社からそういった情報が漏れていないかを確認する方法や、それを防止する方法について紹介します",
+    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": ": GPS timestamps mean nothing without network logs. Author aliases lie without social media cross-checks.",
+    "quote": "そしてこのように得られた情報から社員情報が漏洩したり、更に社員のメールアドレス宛に取引先を装って、攻撃者が標的型メールを送って来る事があるかもしれません",
+    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を悪用する標的型メールを使った攻撃が行われ、更なる情報漏洩が引き起こされるといった事態に発展するかもしれません",
+    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Microsoft Intune Remote Helpの管理セッション利用後、終了方法で何が変わる？通信断も試してみた",
+    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "撮影機器、解像度、フレームレート、録画日、GPS（スマホ動画）",
+    "url": "https://cysec148.hatenablog.com/entry/2025/06/25/062841",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Advanced Metadata Analysis Methods",
     "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": ". Data broker sites aggregate and sell profiles that include current and former home addresses, family member names and relationships, personal phone numbers, and estimated net worth, all legally compiled from utility records, property transactions, and credit header data.",
+    "quote": "Top Tools & Frameworks",
+    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Whether you’re tracing a phishing campaign’s origins or verifying a leaked document’s authenticity, metadata analysis turns invisible data into actionable intelligence. Let’s explore how to weaponize this hidden layer.",
+    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "*In cybersecurity, a \"kill chain\" refers to the structured sequence of steps required to achieve an investigative objective – from data collection to analysis to reporting. For metadata analysis, we adapt this concept to create a toolchain that methodically converts raw data into actionable intelligence.",
+    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "– GPS coordinates linking to private residences, document authorship exposing whistleblowers, or browsing histories revealing medical research. Under GDPR, CCPA, and other frameworks,",
+    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": Document your methodology to avoid \"black box\" accusations.",
+    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Metadata is the silent betrayer. A single unscrubbed PDF can reveal internal server names, while a \"sanitized\" image might still leak the exact time your CISO reviewed an incident report. Here’s how to lock it down:",
+    "url": "https://www.cyberquizzer.com/blog/osint-metadata-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Foundational methodology, investigative pivots, and operational security for digital investigations. This is how investigators structure their work to produce defensible findings · not a list of tools, but a framework for thinking about and executing OSINT systematically.",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The OSINT Vault emphasizes a workflow-first approach. Tools are not the work; they support it. Every investigation begins with a defined question, a set of hypotheses, and a plan for validating or disproving those hypotheses. The steps in this handbook align with the workflow tooling on the platform, including the",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Throughout this handbook, \"identifier\" refers to any handle, email, phone number, domain, or image that can be used as a pivot. \"Pivot\" refers to any new lead derived from that identifier. \"Validation\" means cross-referencing multiple independent sources to confirm a relationship. These terms are not optional; they define how to avoid false attribution.",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Precision search is the next step. Instead of ad-hoc queries, analysts create repeatable search strings that can be run later for verification. The",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Search logs should be stored in the case file. If a result is challenged, the investigator can reproduce the search and show that the evidence was accessible. This is a critical credibility step, especially when findings are used in legal or corporate environments.",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". Normalization reduces duplicates, identifies conflicting statements, and converts scattered notes into structured categories. This step is critical for preventing false convergence, where two unrelated data points are accidentally merged.",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT work must remain passive. Avoid logging into platforms, triggering account recovery flows, or engaging with the subject. Use read-only sources, cached pages, and controlled browsing profiles. Document all steps to maintain chain-of-custody integrity.",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", which provides a more granular step-by-step process.",
+    "url": "https://theosintvault.io/osint-handbook",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". Understanding what cyberattackers can see is the first step toward ensuring that information cannot be used against the organization.",
     "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". They start with data that the organization has already exposed on the public internet. The fundamental distinction between technical OSINT and personal OSINT is that infrastructure data reveals where and how to launch a cyberattack, while personnel and executive data reveal precisely who to target and what will make that person comply.",
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "情報収集手法(INT)の融合案まとめレポート｜ittakou",
+    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報収集手法(INT)の融合案まとめレポート",
+    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT(Open Source Intelligence / 公開情報収集)",
+    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新聞、テレビ、インターネット、SNS、学術論文、公的統計、衛星画像など、誰でもアクセス可能な公開情報から情報を収集・分析する手法。",
+    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "SNSやジオロケーション解析の発達により重要性が急上昇",
+    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "用途例:企業リスク分析、調査報道、サイバーセキュリティ偵察、軍事動向分析",
+    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "HUMINT(Human Intelligence / 人的情報収集)",
+    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "スパイ、協力者、亡命者、外交官などの「人」を通じて得る情報収集手法。",
+    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開情報という武器――OSINT入門｜red_structure",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "// 人物情報（Person OSINT）",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "// 組織・企業情報（Organization OSINT）",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "// ドメイン・インフラ情報（Technical OSINT）",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "// SNS・デジタルフットプリント（Social OSINT）",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT（Open Source Intelligence）",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ。「オープンソース」という言葉は、ソフトウェアのオープンソースではなく",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "もともとは軍や諜報機関が使っていた概念で、CIAやNSAが作戦前に公開情報から敵の状況を分析する手法として発展した。現在はペネトレーションテストの偵察フェーズ・ジャーナリズム・犯罪捜査・企業の競合調査など幅広い領域で使われている。",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Grok on X: \"公開データ検証の限界は衛星画像の解像度・メタデータ公... 公開データ検証の限界は衛星画像の解像度・メタデータ公開範囲・現地アクセス制限にあり、インフラはMaxarなど米関連企業が独占し政治的文脈で流通する。 情報空間は西側公式・OSINTとロシア公式・代替源に分断され、相互に相手を選択的引用する。",
+    "url": "https://x.com/grok/status/2108624366896316918",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "情報収集手法 (INT)の融合案まとめレポート｜ittakou Aug 2, 2026 · 1.基本概念 OSINT(Open Source Intelligence / 公開情報収集) 新聞、テレビ、インターネット、SNS、学術論文、公的統計、衛星画像など、誰でもアクセス可能な公開情報から情報を収集・分析する手法。 合法的でコストが低い SNSやジオロケーション解析の発達により重要性が急上昇 用途例:企業リスク分析 ...",
+    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開 情報という武器―― OSINT 入門｜red_structure - note 公開 情報という武器―― OSINT 入門｜red_structure - note note https://note.com > ビジネス > 法務・コンプライアンス・知財",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ]
  },
- "runs": 2,
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybersecurity-jp.com/column/100388",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/terueda/n/n5707498651c3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proton.me/ja/business/blog/osint-business-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://cybersecurity-info.com/column/40141/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aitokuconsult.com/security/20250114osint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltbe45ede7e0e1f6ba/63e5348101ddee6a0d86d72f/SANS_20230119_OSINT_Ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://qiita.com/suzukengo/items/f052312e0c4ab5db9f6d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://security-academy.jp/blog/security/post-1389/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pangearesearch.substack.com/p/finding-your-way-into-osint-a-career",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://shadowdragon.io/resources/what-is-osint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.senthorus.ch/posts/osint_-when-open-information-becomes-strategic-intelligence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coresignal.com/blog/osint-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trmlabs.com/resources/glossary/open-source-intelligence-osint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/grok/status/2108624366896316918",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/how-hackers-exploit-osint-find-vulnerabilities-sonny-sehgal-tu4te?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/getting-started-osint-simon-howard?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/osint-our-product-tech-operational-duties-amit-sharma-pu0ff?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/how-use-osint-detailed-personal-information-searches-vijay-gupta--vo5dc?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/neerav-patel_osint-cybersecurity-threatintelligence-activity-7497028878654148610-eN-n",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/osint-executives-how-hackers-use-your-digital-footprint-against-sw9of",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/challenges-osint-analysis-concerning-digital-evidence-paul-wright-yutrc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/shivam-rawat-8b7066267_osint-cybersecurity-intelligence-activity-7440219250599821312-4lp1",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT） site:note.com",
+   "results": [
+    "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "https://note.com/jack4manastalk/n/ncabf83a88dd4",
+    "https://note.com/ichi_twnovel/n/n53b5aa039a0c",
+    "https://note.com/terueda/n/n5707498651c3",
+    "https://note.com/itta_usa/n/nd300923856e1"
+   ]
+  },
+  {
+   "query": "公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT） note",
+   "results": [
+    "https://cybersecurity-jp.com/column/100388",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://note.com/terueda/n/n5707498651c3",
+    "https://note.com/red_structure/n/na2c79b00d217",
+    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltbe45ede7e0e1f6ba/63e5348101ddee6a0d86d72f/SANS_20230119_OSINT_Ja.pdf",
+    "https://www.octoparse.jp/blog/what-is-osint",
+    "https://qiita.com/suzukengo/items/f052312e0c4ab5db9f6d",
+    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス"
+   ]
+  },
+  {
+   "query": "公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT） やり方",
+   "results": [
+    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "https://proton.me/ja/business/blog/osint-business-security",
+    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "https://cybersecurity-jp.com/column/100388",
+    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "https://www.youtube.com/watch?v=k-gICgZ_RgM",
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://cybersecurity-info.com/column/40141/"
+   ]
+  },
+  {
+   "query": "公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT） 事例",
+   "results": [
+    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://cybersecurity-jp.com/column/100388",
+    "https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltbe45ede7e0e1f6ba/63e5348101ddee6a0d86d72f/SANS_20230119_OSINT_Ja.pdf",
+    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "https://qiita.com/suzukengo/items/f052312e0c4ab5db9f6d",
+    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "https://security-academy.jp/blog/security/post-1389/"
+   ]
+  },
+  {
+   "query": "OSINT document metadata job postings tech blog business process",
+   "results": [
+    "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "https://pangearesearch.substack.com/p/finding-your-way-into-osint-a-career",
+    "https://shadowdragon.io/resources/what-is-osint/",
+    "https://blog.senthorus.ch/posts/osint_-when-open-information-becomes-strategic-intelligence/",
+    "https://coresignal.com/blog/osint-business/",
+    "https://www.trmlabs.com/glossary/open-source-intelligence-osint",
+    "https://www.paubox.com/blog/what-is-open-source-intelligence-osint-in-healthcare",
+    "https://ethosrisk.com/blog/osint-investigations-emerging-trends-and-modern-tools/",
+    "https://www.group-ib.com/resources/knowledge-hub/osint/",
+    "https://theosintvault.io/osint-handbook"
+   ]
+  },
+  {
+   "query": "site:note.com 公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT）",
+   "results": [
+    "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "https://note.com/jack4manastalk/n/ncabf83a88dd4",
+    "https://note.com/ichi_twnovel/n/n53b5aa039a0c",
+    "https://note.com/terueda/n/n5707498651c3",
+    "https://note.com/itta_usa/n/nd300923856e1"
+   ]
+  },
+  {
+   "query": "site:x.com 公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT）",
+   "results": [
+    "https://x.com/grok/status/2108624366896316918",
+    "https://x.com/FFRI_Research/status/2077216908701819119",
+    "https://blog.x.com/ja",
+    "https://x.com/future_techblog",
+    "https://x.com/yfuruse/status/2110168326639104062",
+    "https://x.com/MacopeninSUTABA/status/2032955805755113600",
+    "https://x.com/lopho_rina/status/2061076546593710535"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT）",
+   "results": [
+    "https://jp.linkedin.com/pulse/how-hackers-exploit-osint-find-vulnerabilities-sonny-sehgal-tu4te?tl=ja",
+    "https://jp.linkedin.com/pulse/getting-started-osint-simon-howard?tl=ja",
+    "https://jp.linkedin.com/pulse/osint-our-product-tech-operational-duties-amit-sharma-pu0ff?tl=ja",
+    "https://jp.linkedin.com/pulse/how-use-osint-detailed-personal-information-searches-vijay-gupta--vo5dc?tl=ja",
+    "https://jp.linkedin.com/pulse/future-bank-built-ai-osint-meshes-sahil-kataria-qxmzc?tl=ja",
+    "https://jp.linkedin.com/pulse/difference-between-socmint-osint-humint-where-intersect-dont-wvtec?tl=ja",
+    "https://jp.linkedin.com/pulse/osint-corporate-security-vijay-gupta--rg9cc?tl=ja",
+    "https://jp.linkedin.com/pulse/fake-ai-agents-next-generation-cyber-threats-every-business-r786c?tl=ja",
+    "https://jp.linkedin.com/pulse/leakix-deep-dive-open-source-intelligence-platform-ryan-williams-ptevc?tl=ja",
+    "https://jp.linkedin.com/pulse/hidden-dangers-deep-dive-advanced-threat-hunting-intelligence-w8kif?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT）",
+   "results": [
+    "https://www.facebook.com/groups/698593531630485/posts/1169310597892107/",
+    "https://www.facebook.com/fuyingtw?locale=ja_JP",
+    "https://www.facebook.com/yukusu42/posts/meta-ai-%E6%89%BF%E7%9F%A5%E3%81%97%E3%81%BE%E3%81%97%E3%81%9Fgrok%E5%BC%95%E7%94%A8%E6%8B%A1%E6%95%A3%E7%94%A8%E3%81%AE%E3%81%A7%E3%81%99%E3%81%93%E3%82%8C1%E3%81%A4%E3%81%A7%E5%85%A8%E3%81%A6%E4%BC%9D%E3%82%8F%E3%82%8B%E6%97%A5%E8%8B%B1%E4%BA%A4%E4%BA%92%E3%81%AE%E5%AE%8C%E6%88%90%E7%89%88%E3%81%A7%E3%81%99-justanswer-%E4%B8%8D%E6%98%8E%E8%AB%8B%E6%B1%82%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-meta%E9%81%8B%E5%96%B6%E3%81%B8-summa/3751050718380375/",
+    "https://www.facebook.com/yukusu42/posts/meta%E3%81%AB%E9%96%A2%E3%81%97%E3%81%A6%E7%AB%B9%E5%86%85%E6%98%9F%E8%8F%9C%E3%81%AE%E4%BA%8B%E5%8B%99%E6%89%80%E9%96%A2%E9%80%A3%E3%81%AE%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%A7%E3%82%B9%E3%83%91%E3%82%A4%E3%81%AB%E9%96%A2%E9%80%A3%E3%81%99%E3%82%8B%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99/3718248948327219/",
+    "https://www.facebook.com/kaoru.morishita.1291/",
+    "https://www.facebook.com/kusuyama1975/posts/chatgpt4o-openai-%E4%BB%A5%E4%B8%8B%E6%A5%A0%E5%B1%B1%E5%81%A5%E8%BC%94%E3%81%AE-ai-score-%E3%81%A8-%E5%8A%B4%E5%83%8D%E7%94%9F%E7%94%A3%E6%80%A7%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%AE%E6%9C%80%E7%B5%82%E3%81%BE%E3%81%A8%E3%82%81%E7%A2%BA%E5%AE%9A%E7%89%88%E5%9C%A7%E7%B8%AE%E3%81%A7%E3%81%99-%E6%A5%A0%E5%B1%B1%E5%81%A5%E8%BC%94-ai-scorelps-%E7%B7%8F%E6%8B%AC-ai/1728234022646104/",
+    "https://www.facebook.com/MetaJapan/",
+    "https://www.facebook.com/NTTDATAJapan/posts/お知らせ-ntt-data公式技術ブログnttdata-techがオープンしました技術ブログを通じntt-dataのエンジニアたちが日々の業務や学びを通じて得た/1016335803969750/",
+    "https://developers.facebook.com/",
+    "https://www.facebook.com/NTTDATAJapan/photos/お知らせ-ntt-data公式技術ブログnttdata-techがオープンしました技術ブログを通じntt-dataのエンジニアたちが日々の業務や学びを通じて得た/1016333403969990/"
+   ]
+  },
+  {
+   "query": "公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT） note 社長",
+   "results": [
+    "https://cybersecurity-jp.com/column/100388",
+    "https://note.com/red_structure/n/na2c79b00d217",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "https://www.octoparse.jp/blog/what-is-osint",
+    "https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltbe45ede7e0e1f6ba/63e5348101ddee6a0d86d72f/SANS_20230119_OSINT_Ja.pdf",
+    "https://note.com/solo_style/n/n985b3c636ab6",
+    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "https://qiita.com/suzukengo/items/f052312e0c4ab5db9f6d",
+    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス"
+   ]
+  },
+  {
+   "query": "公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT） X 投稿",
+   "results": [
+    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://qiita.com/suzukengo/items/f052312e0c4ab5db9f6d",
+    "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "https://cybersecurity-jp.com/column/100388",
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://www.nic.ad.jp/ja/materials/iw/2022/proceedings/c44/c44-ueda.pdf",
+    "https://www.secure-iv.co.jp/blog/20079",
+    "https://eset-info.canon-its.jp/malware_info/special/detail/210901.html",
+    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス"
+   ]
+  },
+  {
+   "query": "OSINT document metadata job postings tech blog business process site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/neerav-patel_osint-cybersecurity-threatintelligence-activity-7497028878654148610-eN-n",
+    "https://www.linkedin.com/pulse/osint-executives-how-hackers-use-your-digital-footprint-against-sw9of",
+    "https://www.linkedin.com/pulse/challenges-osint-analysis-concerning-digital-evidence-paul-wright-yutrc",
+    "https://www.linkedin.com/posts/shivam-rawat-8b7066267_osint-cybersecurity-intelligence-activity-7440219250599821312-4lp1",
+    "https://www.linkedin.com/posts/ayushmeshram22_cybersecurity-osint-threatintelligence-activity-7393891310157516800-U8wx",
+    "https://www.linkedin.com/pulse/building-your-osint-workstation-practical-guide-tommy-knowles-qgcze",
+    "https://www.linkedin.com/pulse/9-osint-tools-we-use-our-soc-fazla-rabbi-v7s2c",
+    "https://sg.linkedin.com/in/chaseyaocong",
+    "https://www.linkedin.com/top-content/technology/online-privacy-tools/osint-tools-for-digital-footprint-checks/",
+    "https://www.linkedin.com/posts/craigjsilverman_the-standard-opsec-advice-for-osint-often-activity-7517966231166156800-pgzk"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "SNS・note（note・本文）": [
+   {
+    "quote": "公開情報という武器――OSINT入門｜red_structure",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "// 人物情報（Person OSINT）",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "// 組織・企業情報（Organization OSINT）",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "// ドメイン・インフラ情報（Technical OSINT）",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "// SNS・デジタルフットプリント（Social OSINT）",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT（Open Source Intelligence）",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ。「オープンソース」という言葉は、ソフトウェアのオープンソースではなく",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "もともとは軍や諜報機関が使っていた概念で、CIAやNSAが作戦前に公開情報から敵の状況を分析する手法として発展した。現在はペネトレーションテストの偵察フェーズ・ジャーナリズム・犯罪捜査・企業の競合調査など幅広い領域で使われている。",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "公開 情報という武器―― OSINT 入門｜red_structure - note 公開 情報という武器―― OSINT 入門｜red_structure - note note https://note.com > ビジネス > 法務・コンプライアンス・知財",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ]
+ },
+ "runs": 3,
  "first_researched_at": "2026-11-05T02:54:48.387582+00:00"
 }

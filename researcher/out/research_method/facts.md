@@ -675,6 +675,8 @@
   - 「【初心者向け完全ガイド】OSINTとは何か？公開情報から真実を読み解く... — Mar 9, 2026 · OSINT（Open Source Intelligence）とは何かを初心者向けに解説。 公開情報を使った情報収集の基本、検索テクニック、SNS・地理情報・企業調査への活用方法、注意点までわかりやすく紹介する完全ガイド。」（https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/）
   - 「Open Source Intelligence (OSINT) Market (2026 – 2035)Open-Source Intelligence (OSINT) - Global Strategic Business ...Open Source Intelligence Market Trends Anaysis Report 2026-2030Top 15 OSINT Tools for Business Intelligence - salesfuel.comOpen-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (Osint) Market Size, Share | Growth ... — Open-Source Intelligence (OSINT) Type」（https://www.marketresearchfuture.com/reports/open-source-intelligence-market-4545）
   - 「Open-Source Intelligence (OSINT) - Global Strategic Business ...Open Source Intelligence Market Trends Anaysis Report 2026-2030Top 15 OSINT Tools for Business Intelligence - salesfuel.comOpen-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (Osint) Market Size, Share | Growth ... — The Open-Source Intelligence (OSINT) Market, valued at USD 12.4B in 2025, is projected to 」（https://www.researchandmarkets.com/reports/6236083/open-source-intelligence-osint-global）
+  - 「Open-Source Intelligence (OSINT) - Global Strategic Business ...Open Source Intelligence (OSINT) Market (2026 – 2035)Open Source Intelligence Market Trends Anaysis Report 2026-2030Top 15 OSINT Tools for Business Intelligence - salesfuel.comOpen-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (Osint) Market Size, Share | Growth ... — The Open-Source Intelligence (OSINT) 」（https://www.researchandmarkets.com/reports/6236083/open-source-intelligence-osint-global）
+  - 「Open Source Intelligence (OSINT) Market (2026 – 2035)Open Source Intelligence Market Trends Anaysis Report 2026-2030Top 15 OSINT Tools for Business Intelligence - salesfuel.comOpen-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (Osint) Market Size, Share | Growth ... — Open-Source Intelligence (OSINT) Type Insights Based on technique, the Open-Source Intelligence (OSIN」（https://www.marketresearchfuture.com/reports/open-source-intelligence-market-4545）
 
 ## コンサル・アナリストのリサーチの型（consultant research methodology）
 - 文脈：型
@@ -2697,6 +2699,8 @@
   - 「検索を使うときの最大の注意点は、収録範囲だ」（https://shiraberu-note.com/public-records-corporate-verification/）
   - 「注意点として、2025年3月15日にサービスの提供内容が変更されており、旧A・B・Cコース（日付検索のみ1,672円、日付＋記事検索2,200円など）は同年3月31日に終了している」（https://shiraberu-note.com/public-records-corporate-verification/）
   - 「「公的記録に載っていない」という事実を、その主張が事実ではないことの証明として使うのは、論理的には誤りだ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「実務的に注意したい「読み取れない情報」の代表例を挙げる」（https://shiraberu-note.com/corporate-realestate-registry-scope/）
+  - 「申請の内容自体に誤りがあれば、それが登記に反映されることもある」（https://shiraberu-note.com/corporate-realestate-registry-scope/）
 - 実例：
   - 「実際にこの方法で買取大吉と株式会社エンパワーの2社の商業登記を取り寄せ、両社の関係を独立検証した事例として」（https://shiraberu-note.com/public-records-corporate-verification/）
   - 「同じ手法で、アクセスジャーナルが報じた株式会社エンパワーをめぐる9つの個別主張を項目別に登記と照合した事例として」（https://shiraberu-note.com/public-records-corporate-verification/）
@@ -2704,6 +2708,7 @@
   - 「したがって、「登記簿に株主が出ていない」のは隠蔽ではなく、制度上の分離の結果だ」（https://shiraberu-note.com/public-records-corporate-verification/）
   - 「Read API endpoints, authentication and integration examples.」（https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/）
   - 「Teikoku Databank (tdb.co.jp) or Tokyo Shoko Research (tsrdata.co.jp). Order a company report — ¥3,000–30,000 depending on depth. Contains estimated financials, employee count, credit score, and in many cases partial shareholder data collected through banking relationships. Japanese only.」（https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/）
+  - 「：登記上の地目や種類と、現実の利用実態が食い違っているケースは珍しくない」（https://shiraberu-note.com/corporate-realestate-registry-scope/）
 
 ## 競合仮説分析と確率の言葉（ACH・推定の言い方）（analysis of competing hypotheses diagnosticity matrix estimative language）
 - 文脈：分析の型

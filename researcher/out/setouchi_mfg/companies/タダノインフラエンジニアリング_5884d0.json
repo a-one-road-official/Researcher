@@ -1,0 +1,585 @@
+{
+ "name": "タダノインフラエンジニアリング",
+ "aliases": [],
+ "context": "広島県呉市／出典:マイナビ／求人媒体:マイナビ新卒／想定年収:450〜900万円／従業員:不明",
+ "researched_at": "2026-11-05T07:32:28.061080+00:00",
+ "official_url": "https://catr.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "東京都新宿区愛住町22番地 同じ住所の会社を検索",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "東京都 新宿区 愛住町 22 第3山田ビル トウキヨウト シンジユクク アイズミチヨウ 22 ダイ3ヤマダビル",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "北海道岩内郡共和町梨野舞納2番地の119",
+    "url": "https://catr.jp/company-split/11637",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "北海道札幌市中央区南十一条西18丁目2番1号",
+    "url": "https://catr.jp/company-split/11637",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "千葉県市川市南行徳1丁目22番29号",
+    "url": "https://catr.jp/company-split/11642",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県さいたま市大宮区浅間町1丁目4番地2",
+    "url": "https://catr.jp/company-split/11642",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県さいたま市大宮区浅間町1丁目4番地2",
+    "url": "https://catr.jp/company-split/11643",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県さいたま市大宮区大門町1丁目45番地2",
+    "url": "https://catr.jp/company-split/11643",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県さいたま市大宮区大門町1丁目45番地2",
+    "url": "https://catr.jp/company-split/11644",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県さいたま市大宮区浅間町1丁目4番地2",
+    "url": "https://catr.jp/company-split/11644",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "大阪市天王寺区上本町6丁目5番13号",
+    "url": "https://catr.jp/company-split/11645",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "大阪市天王寺区上本町6丁目1番55号",
+    "url": "https://catr.jp/company-split/11645",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "5億8500万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "19億2400万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "1億600万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "13億8500万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "79億6600万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "180億6800万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "8億8400万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "20億1500万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "80億8400万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "8億2800万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "25億8100万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "321億6400万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "4億5300万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "91億7900万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "177億8900万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1億4400万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1億5300万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "48億1300万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1億3500万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "9億3200万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "566億3700万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1億200万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "21億2800万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "58億8300万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "▲2696万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2081万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "5億723万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "▲799万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "23億3200万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲5億200万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲8億9700万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲9億2900万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "15億8500万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "53億3100万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "17億5100万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲7200万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲7億8600万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲6900万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "15億7700万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "24億7300万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "7億4700万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲2億4700万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲2億9000万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲9億6100万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "7億7600万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "15億3400万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "9億4100万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲2億4300万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲2億9600万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲3億4700万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "8億1200万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "13億5300万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "9億1900万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲3億2941万円",
+    "url": "https://catr.jp/company-split/11645",
+    "pass": 1
+   },
+   {
+    "quote": "56億9300万円",
+    "url": "https://catr.jp/company-split/11645",
+    "pass": 1
+   },
+   {
+    "quote": "29億6000万円",
+    "url": "https://catr.jp/company-split/11645",
+    "pass": 1
+   },
+   {
+    "quote": "6196億3300万円",
+    "url": "https://catr.jp/company-split/11645",
+    "pass": 1
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "三菱ケミカルグループ株式会社(81)",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱商事株式会社(281)",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1390億円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "4280億円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://catr.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/date/808b5/2026-11-05/company-split",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/c091e/47735",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/company-split/11637",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/company-split/11642",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/company-split/11643",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/company-split/11644",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/company-split/11645",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BF%E3%83%80%E3%83%8E%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://job-q.me/articles/16059",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E3%82%BF%E3%83%80%E3%83%8E%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA-%E5%B9%B4%E5%8F%8E-%E6%B1%82%E4%BA%BA.html?vjk=d6b0ade6bc59d580",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tadano-infra.com/ja/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tadano.co.jp/ja/recruit/ng-recruitment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tadano.co.jp/ja/recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "タダノインフラエンジニアリング 求人 年収",
+   "results": [
+    "https://jp.indeed.com/cmp/株式会社タダノインフラソリューションズ/salaries",
+    "https://job-q.me/articles/16059",
+    "https://jp.indeed.com/q-タダノインフラソリューションズ-年収-求人.html?vjk=d6b0ade6bc59d580",
+    "https://tx-town.jp/corp/EkLOx1M9maT1",
+    "https://career.mirasus.jp/article/dainishinsotsu/tadano-salary/",
+    "https://jobcatalog.yahoo.co.jp/company/1000002000/salaries/",
+    "https://www.nikkei.com/nkd/company/salary/?scode=6395"
+   ]
+  },
+  {
+   "query": "タダノインフラエンジニアリング 採用 新卒 高卒",
+   "results": [
+    "https://www.tadano-infra.com/ja/recruit/",
+    "https://www.tadano.co.jp/ja/recruit/ng-recruitment/",
+    "https://www.tadano.co.jp/ja/recruit/",
+    "https://www.tadano-infra.com/ja/recruit/info/",
+    "https://job.mynavi.jp/27/pc/search/corp289970/outline.html",
+    "https://job.mynavi.jp/27/pc/search/corp289970/recruiting_course27029591/recruiting_course.html",
+    "https://www.cognavi.jp/catalog/121340/000001/"
+   ]
+  },
+  {
+   "query": "site:note.com タダノインフラエンジニアリング",
+   "results": [
+    "https://note.com/fisco_jp/n/naef3352e3c5c",
+    "https://note.com/sankituushin/n/neb910fa820a1",
+    "https://note.com/tatsuya_sabato/n/n63490a7895b9",
+    "https://note.com/hr793/n/n372f2312785b",
+    "https://note.com/good_abelia4787/n/n378c3df4f0c6",
+    "https://note.com/sankituushin/n/nd45c51af6fcd",
+    "https://note.com/sankituushin/n/n0f4a50fa3f4f"
+   ]
+  },
+  {
+   "query": "site:x.com タダノインフラエンジニアリング",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com タダノインフラエンジニアリング",
+   "results": [
+    "https://www.linkedin.com/company/tadano",
+    "https://jp.linkedin.com/company/tadano-ltd",
+    "https://it.linkedin.com/in/egidio-stasi-541411229",
+    "https://ca.linkedin.com/company/tadano",
+    "https://no.linkedin.com/in/jan-erik-klinkenberg-4708077a",
+    "https://www.linkedin.com/pulse/teen-nude-selfie-paul-litherland",
+    "https://jp.linkedin.com/in/貴也-松下-4a0661374"
+   ]
+  },
+  {
+   "query": "site:facebook.com タダノインフラエンジニアリング",
+   "results": [
+    "https://www.facebook.com/pages/株式会社タダノインフラソリューションズ/741874685665364/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/tadano.official/",
+    "https://www.facebook.com/タダノエンジニアリング-264805036909624/",
+    "https://www.facebook.com/株式会社タダノエンジニアリング-670574949628586/",
+    "https://www.facebook.com/pages/タダノ/196096913763773/",
+    "https://www.facebook.com/tadanoamerica/"
+   ]
+  },
+  {
+   "query": "タダノインフラエンジニアリング note 社長",
+   "results": [
+    "https://www.tadano.co.jp/wp-content/uploads/2025/09/250701_2.pdf",
+    "https://www.tadano-infra.com/en/company/executivelist.html",
+    "https://www.tadano.co.jp/ja/ir/message/",
+    "https://sys.tadano.co.jp/tadano-buturyuu/268/",
+    "https://fs2.magicalir.net/tdnet/2025/6395/20251219522723.pdf",
+    "https://www.tadano-infra.com/ja/company/outline.html",
+    "https://kitaishihon.com/company/6395/board-of-director"
+   ]
+  },
+  {
+   "query": "タダノインフラエンジニアリング X 投稿",
+   "results": [
+    "https://catr.jp/companies/62d0b/58633",
+    "https://www.tadano-infra.com/ja/index.html",
+    "https://www.tadano-infra.com/en/index.html",
+    "https://x.com/dcross_impress/status/2024227704778997936",
+    "https://x.com/tadanoksan/status/2117822412335222802",
+    "https://www.tadano.com/japan/",
+    "https://www.youtube.com/playlist?list=PLxFUdh5FBmY4uFJNr339Fwgn8pbg3zjIt"
+   ]
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）",
+  "資本金": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用ページ": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部6頁・検索8回）"
+ }
+}
