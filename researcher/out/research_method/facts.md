@@ -491,6 +491,7 @@
   - 「cross-checked through revenue trends, margin movements,」（https://finxl.in/blogs/how-to-analyze-an-annual-report.html）
   - 「provisioning estimates.」（https://finxl.in/blogs/how-to-analyze-an-annual-report.html）
   - 「where subjective estimates or high uncertainty materially」（https://finxl.in/blogs/how-to-analyze-an-annual-report.html）
+  - 「速報！！キオクシア（285A）決算後 検証編 19時までの情報」（https://note.com/tag/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99）
 - 一次情報の探し方：
   - 「初学者でも出来る『５つのSTEPで読み解く有価証券報告書』｜wkwk｜小さな事業のAI・経営実践」（https://note.com/yoh2619/n/nab63a136eecc）
   - 「初学者でも出来る『５つのSTEPで読み解く有価証券報告書』」（https://note.com/yoh2619/n/nab63a136eecc）
@@ -2543,11 +2544,11 @@
 
 ## 出どころを元までたどり、こだまを束ねる（source triangulation・検証の表）（source triangulation trace to origin echo verbatim numbers validation matrix）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ12頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
-- 実例：記載なし（読んだ12頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## コンサルの調べ方（目的・予想の仮説・公益社団法人の調査報告）（consulting desk research hypothesis expected answer association reports）
 - 文脈：分析の型
@@ -2633,8 +2634,8 @@
   - 「TAM, SAM, and SOM: Definitions, Formulas, and Examples」（https://bizminer.com/revenue-per-employee-benchmarks/）
 - 検索結果の抜粋：
   - 「Revenue Per Employee Benchmarks : 2026 Ranges by Industry — Revenue Per Employee Benchmarks : 2026 Ranges by Industry Bizminer https://bizminer.com > revenue-per-e...」（https://bizminer.com/revenue-per-employee-benchmarks/）
-- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）（OSINT evidence provenance origin vs collection method ICD 203 likelihood language）
 - 文脈：突き合わせ
@@ -2956,7 +2957,7 @@
   - 「Assign responsibilities for monitoring data freshness. For example, a multinational bank can appoint」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
   - 「Here are key strategies, each illustrated with real-world examples of company implementations:」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
   - 「Here are three strategies, supported by real-world examples:」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり）（statistical time series break linking retropolation official statistics）
 - 文脈：突き合わせ・失敗
