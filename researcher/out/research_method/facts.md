@@ -47,43 +47,43 @@
   - 「新しいサービス名には統計がなくても、そのサービスが置き換える業務には資料があるかもしれません」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
   - 「それでも広い統計しかない場合は、広い対象であることを明記して参考にとどめます」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
   - 「食品ロスの統計を、発注支援サービスの検討に使う整理例」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「① 公的機関」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「各国の統計局（例：ケニア国立統計局 KNBSなど）がWebサイトでデータを公開している場合があります」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「更新頻度はまちまちですが、人口センサスなどの一次情報はここで確認します」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「現地の統計局に比べて国際機関のデータの方がよく整備されておりアクセスも容易です」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「世界中の統計データを集約したプラットフォーム」（https://note.com/bon0404/n/n3912f28693b8）
+  - 「が仕事であり、そのような素養を持つ人材を採用したいと考えているからです」（https://unistyleinc.com/techniques/1459）
+  - 「フェルミ推定は問題解決能力を測るのには最適な試験であり、日々課題検証を行うコンサルティングファームにおいては、採用現場だけでなく、日々の業務においても論理的思考力などを測る基準の一つとして取り入れられています」（https://unistyleinc.com/techniques/1459）
+  - 「企業がインターンシップを開催する目的・メリット企業が行う採用活動は、それが直接的に利益を生む事業行為ではありません」（https://unistyleinc.com/techniques/1459）
+  - 「企業の採用サイト就活サイトに載らない限定インターンシップや、早期募集がひっそり始まっていることもあります」（https://unistyleinc.com/techniques/1459）
+  - 「SNS・イベント経由X（旧Twitter）やLinkedIn、合同説明会、逆求人イベントなどから、その場でインターンシップにつながるケースもあります」（https://unistyleinc.com/techniques/1459）
 - 失敗・落とし穴：
-  - 「注意ポイント：インフォーマルセクターを見落とさない」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「これらは非常に質が高い一方で、一部のサービスや詳細なレポートは「有料」となる点に注意が必要です」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「その中で多くのビジネスパーソンが、KPIや既存データといった「目に見える指標」に過度に依存する「可視化依存社会」の罠に嵌まっている」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「脳が「未知のもの」に対して拒絶反応を起こす際、特定の「心理的な罠」に嵌まっているからだ」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「罠-1：正解主義の呪縛」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「一つ目の罠は、日本の教育で植え付けられた「テストには必ず1つの絶対的な正解がある」という思い込みだ」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「罠-2：知識依存の罠」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「罠-3：計算衝動の罠」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「思考の停止を防ぐ「7つの認知バイアス」――論理の罠を回避せよ」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「以下の「心理の罠」に陥っていないか、常に客観的なメタ認知を働かせる必要がある」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「代表性バイアス」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「正常性バイアス」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「確証バイアス」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「KPIや数値データなどの「目に見える」情報に注意が奪われ「目に見えない」質的な側面や、背景にあるストーリーは軽視されていく」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「「一生もののスキルになるのは間違いない」」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「(実際の面接開始の５分前)」、人事の人に気遣う人もいると思いますが、それは罠だと思っていただいて結構です」（https://unistyleinc.com/techniques/1459）
+  - 「以下、フェルミ推定をする際の注意点をまとめておきます」（https://unistyleinc.com/techniques/1459）
+  - 「この記事でわかることインターンシップの全体像インターンシップとはインターンシップの準備▼目次クリックで展開本記事の構成インターンシップの全体像インターンシップとは企業がインターンシップを開催する目的・メリット就活生がインターンシップに参加する目的・メリットインターンシップの概要募集はいつから？季節ごとのインターンシップ開催時期インターンシップを探す前の準備インターンシップの探し方・選び方インターンシップのエントリー方法インターンシップの選考対策インターンシップ参加時の注意点インターンシップ参加後にやるべきことインターンシップのよくある質問まとめインターンシップの全体像インターンシップESの作り方・書き方インターンシップにおけるエントリーシート(ES)の作り方についてポイントを解説しています」（https://unistyleinc.com/techniques/1459）
+  - 「オンラインインターンシップの対策オンラインのインターンシップへの参加にあたっての対策や注意点を紹介しています」（https://unistyleinc.com/techniques/1459）
+  - 「会社自体の魅力を書きすぎてしまうと入れるべき項目が入らなくなってしまうので注意しましょう」（https://unistyleinc.com/techniques/1459）
+  - 「インターンシップ参加時の注意点主な注意点は以下です」（https://unistyleinc.com/techniques/1459）
+  - 「カンペを見ながら話している前提としてカンペを作ること、見ることがダメということはありません」（https://unistyleinc.com/techniques/1459）
+  - 「その結果、不確実な状況にも柔軟に対応でき、失敗を恐れずに挑戦することで変化をチャンスに変える力が養われます」（https://unistyleinc.com/techniques/1459）
+  - 「企業側の意図■課題や困難に対する乗り越え方を見たい社会人になると、失敗や挫折など乗り越えるべき壁が出てきます」（https://unistyleinc.com/techniques/1459）
+  - 「具体的な数字やエピソードがない具体的な数字やエピソードがなければ、あなたの成果を正しく伝えられない可能性が高いので注意しましょう」（https://unistyleinc.com/techniques/1459）
+  - 「​​また、よくある志望動機の作成パターンとして、(6)の同業比較から考え始めてしまうことが挙げられますが、狭い視点から1社1社考えることは難しく、また論理性に欠けるケースも多いため注意しましょう」（https://unistyleinc.com/techniques/1459）
+  - 「エントリーシート(ES)志望動機におけるフレームワーク-6つのステップで書き方を解説-ここからは、先ほど紹介した志望動機のフレームワークを基に、各ステップの詳細や注意点について解説します」（https://unistyleinc.com/techniques/1459）
+  - 「6つのステップ(1)成し遂げたいこと・目標(2)きっかけとなる経験(3)企業選びの軸(4)他に受けている業界および他の業界ではダメな理由(5)具体的に取り組みたい仕事(6)業界の中でもその会社の理由(1)成し遂げたいこと・目標志望動機を書く時はまずはあなたが「キャリアを通じて何を成し遂げたいのか」というモチベーションの根源を伝えるようにしましょう」（https://unistyleinc.com/techniques/1459）
+  - 「もちろん、成し遂げたいことがその業界で成し遂げたいこととして的外れな場合は評価されないので注意してください」（https://unistyleinc.com/techniques/1459）
+  - 「経験に根差していれば何でもいいわけではないので注意が必要です」（https://unistyleinc.com/techniques/1459）
 - 実例：
   - 「参入したい市場が決まっていると、成長予測や成功事例ばかりが目に入りがちです」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
   - 「調べる問いが定まらない、顧客への確かめ方に迷う、調査結果を企画に落とし込めない」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
   - 「業種別・企業事例（6）」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「例えば、富裕層や中間層の規模を把握したい場合、高級ショッピングモールの店舗数やiPhoneのシェア率、あるいはインターナショナルスクールの生徒数などが有効な指標となります」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「「外資系コンサルのケース面接（入社試験）のための特殊なクイズ」」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「例えば、日本全体の売上を考える際、いきなり細かい数字を追うのではない」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「C：Calibration（キャリブレーション）――結果の妥当性検証」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「：算出された結果が、自分が想定していた「桁の範囲」に収まっているかを確認する」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「：例えば、あるニッチな「高級文房具」の市場規模を「5兆円」と推定したとする」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「：その結果、「日本国民全員が、365日欠かさずその商品を1日5回買う」という結論になっていないか？ 「一店舗あたりの売上が、24時間不眠不休で客を詰め込んでも不可能な数字」になっていないか？」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「一つの問いに対して、複数の解法（モデル）を試み、その結果が近似するかを確認する」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「計算結果を常識という名の『物差し』で測り直し、論理の健全性を保証する防波堤である」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「：周辺アクセサリー市場（スマホケース等）、代替サービス（カーシェアリング等）」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「事実を整理するだけ、分析結果を説明するだけ、誰かの意見に同調するだけでは、プロフェッショナルとして十分とは言えない」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「短期的な結果を求めるあまり、問題の本質に向き合う時間を確保できず、解決策は表面的なものになる」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「【ケース面接完全攻略】解き方や評価基準、対策に役立つフレームワーク・例題・本を徹底解説」（https://unistyleinc.com/techniques/1459）
+  - 「ケース面接とは？フェルミ推定との違いや出題業界について解説」（https://unistyleinc.com/techniques/1459）
+  - 「ケース面接の評価基準と対策まとめ【現役コンサルタントが解説】」（https://unistyleinc.com/techniques/1459）
+  - 「ケース面接の解き方と対策方法を徹底解説【外コン過去問付き】」（https://unistyleinc.com/techniques/1459）
+  - 「ケース面接対策に役立つフレームワーク、おすすめ本、数値を徹底解説」（https://unistyleinc.com/techniques/1459）
+  - 「ケース面接対策に読むべき本6冊」（https://unistyleinc.com/techniques/1459）
+  - 「外コンの本選考で課されたケース面接過去問まとめ｜レポート付」（https://unistyleinc.com/techniques/1459）
+  - 「BCG(ボストン コンサルティング グループ)のケース面接過去問まとめ」（https://unistyleinc.com/techniques/1459）
+  - 「デロイト トーマツ コンサルティングのケース面接過去問まとめ」（https://unistyleinc.com/techniques/1459）
+  - 「フェルミ推定や、ケース面接がコンサルティング業界志望の学生に課される理由としては、クライアント企業に対して戦略案や、解決策を提案をする立場である以上、相手を納得させるためにどんな意見にも根拠が求められるからであると言えます」（https://unistyleinc.com/techniques/1459）
+  - 「そのため、コンサルティングファームは選考過程にフェルミ推定やケース面接を設けることによって学生の「」（https://unistyleinc.com/techniques/1459）
+  - 「もちろんプラスになることはあるが、一般的なことでも、何を考え、課題があった際にはどう向き合い、結果どうなったかということが大事です」（https://unistyleinc.com/techniques/1459）
 - 検索結果の抜粋：
   - 「What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsDesk Research: What It Is, Methods & When to Use It | PRSDesk Research: Step-by-Step Guide & Tips | UXAtlasScope and financial impact of unpublished data and unused ...Desk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 」（https://www.meltwater.com/en/blog/desk-research）
 
@@ -541,6 +541,8 @@
 - 検索結果の抜粋：
   - 「How to Effectively Read a Company’s Annual ReportMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Quickly & Effectively Read an Annual Report — Apr 19, 2024 · Learn how to read a company's annual report effectively. This guide covers key sections and insights to assess the business perf」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
   - 「Master the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Quickly & Effectively Read an Annual Report — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by looking at Item 1. This section helps you understand the company’s business model and the industry it o」（https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp）
+  - 「Master the Art of Reading Annual Reports - InvestopediaHow to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: A Beginner's GuideA Structured Approach to Annual Report AnalysisHow to Quickly & Effectively Read an Annual ReportHow to Read an Annual Report: Beginner Investor Guide — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by lookin」（https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp）
+  - 「How to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: A Beginner's GuideA Structured Approach to Annual Report AnalysisHow to Quickly & Effectively Read an Annual ReportHow to Read an Annual Report: Beginner Investor Guide — Apr 19, 2024 · Learn how to read a company's annual report effectively. This guide covers key sections and insights to assess the business performance」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
 
 ## 1人あたり売上・労働生産性で会社の能力を比べる方法（revenue per employee benchmark analysis）
 - 文脈：能力
@@ -560,13 +562,42 @@
   - 「Adjusts employee count to reflect full-time equivalents, giving part-time workers fractional weight. More precise for organizations with variable workforce composition, and often the better choice when benchmarking against peers who use the same method.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
   - 「Revenue figures may be finalized on a different cadence than headcount reporting. Document the sourcing method so period-over-period comparisons stay consistent.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
   - 「For private SaaS companies specifically, SaaS Capital's 2025 survey of more than 1,000 firms found a median of $129,724 per FTE, up from $125,000 in the prior year. This is one of the few sector figures with a disclosed methodology and sample size.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+- 突き合わせ・推定：
+  - 「経営効率を飛躍的に向上させる一人当たり売上高を向上させるには、ヒト×テクノロジー×経営戦略の掛け算の上に成り立つということになると思います」（https://d-pops-group.co.jp/column/revenue-per-employee/）
+  - 「その為に必要なものが、ヒト×テクノロジー×経営戦略の掛け算であると、ディ・ポップスグループは考えます」（https://d-pops-group.co.jp/column/revenue-per-employee/）
+  - 「1つ目は、「AIを使いこなす力」と「顧客を知る力」の掛け算で、FDEを育てること」（https://d-pops-group.co.jp/column/revenue-per-employee/）
 - 一次情報の探し方：
   - 「備忘録#011｜中小企業庁統計による経営指標」（https://note.com/yajirushi_works/n/nacbfd931b027）
   - 「企業の決算書に「付加価値」という項目はありません」（https://note.com/yajirushi_works/n/nacbfd931b027）
   - 「営業利益 ＋ 人件費 ＋ 賃借料 ＋ 租税公課 ＋ 減価償却費 ＋ 知財特許料」（https://note.com/yajirushi_works/n/nacbfd931b027）
   - 「〇政府統計からオープンデータまで活用した経営判断指標の可視化」（https://note.com/yajirushi_works/n/nacbfd931b027）
+  - 「上場企業の決算資料でみる一人当たりの売上・粗利の目安｜ストアレコード事務局」（https://note.com/bizgem_1220/n/n09441131d3fe）
+  - 「上場企業の決算資料でみる一人当たりの売上・粗利の目安」（https://note.com/bizgem_1220/n/n09441131d3fe）
+  - 「従業員数は有価証券報告書で報告されている従業員数を用いているため、パート・アルバイトを含まない数字となっています」（https://note.com/bizgem_1220/n/n09441131d3fe）
+  - 「特に採用の意思決定の際に一人当たり売上高を意識していると人員計画の意思決定がスムーズになるとともに、3か年などの中期の経営計画も立てやすくなります」（https://note.com/bizgem_1220/n/n09441131d3fe）
+  - 「どうしても労働生産性の指標がない中だと、目先の売上を無視してどんどん採用して固定費が重くなりがちだったり、逆に人員を増やさないと現場が疲弊してしまうのに、固定費が気になり採用ができないなど極端な選択になってしまいがちです」（https://note.com/bizgem_1220/n/n09441131d3fe）
+  - 「CTC金融事業グループが取り組む「事業部主導」採用～タレントアクイジション戦略と実践プロセス～」（https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/）
+  - 「「法定雇用率を満たすため」の採用に奔走する企業も少なくない中、特例子会社や現場の最前線で問われているのは、障がい者雇用を個別の施策として捉えるのではなく、多様な人材が […]」（https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/）
+  - 「採用・組織・労務・HR Techなど、人事担当者や経営者の皆さまの課題に寄り添った幅広いコンテンツを公開しています」（https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/）
+  - 「決算で初めて問題に気づくのではなく、毎月の数字の動きから兆しをつかめれば、」（https://www.mytaxpro.jp/tax-content/258）
+  - 「賃上げや採用強化を進める場合でも、数字でバランスを確認すれば、無理のない範囲での投資判断が可能になります」（https://www.mytaxpro.jp/tax-content/258）
+  - 「例えば、採用強化で人件費が増えた、残業が増えて労務費が膨らんでいる、間接部門が増えている、などの原因が考えられます」（https://www.mytaxpro.jp/tax-content/258）
 - 失敗・落とし穴：
   - 「Common Mistakes」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「間違いだらけのリスク対応やいつまでもなくならない悪徳企業に対する対策について一言申し上げたく思います」（https://note.com/high_city/n/n0bdd75891593）
+  - 「【オンデマンド配信】育成・コミュニケーションの 「意図せぬすれ違い」を生むバイアス ～企業事例をご紹介～」（https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/）
+  - 「【百名山から学ぶベンチャー経営論】第六部「失敗から学び、成長を続ける」」（https://d-pops-group.co.jp/column/revenue-per-employee/）
+  - 「本連載では、その挑戦の中で経験した成功や失敗、そこからの学びを、ベンチャー経営や組織運営になぞらえながら考察しています」（https://d-pops-group.co.jp/column/revenue-per-employee/）
+  - 「この一年間、毎回の登山を振り返り、失敗から学び、鍛錬を繰り返しながら、挑戦できる山のレベルを徐々に上げてきました」（https://d-pops-group.co.jp/column/revenue-per-employee/）
+  - 「第六部では、失敗を認識し、そこから学び、次の挑戦につなげていくことが成長の源になる、ということについて考えてみます」（https://d-pops-group.co.jp/column/revenue-per-employee/）
+  - 「16.一座登る度に振り返りを行う～失敗しないことよりも、失敗から学ぶことが重要～」（https://d-pops-group.co.jp/column/revenue-per-employee/）
+  - 「そして、同じことを繰り返さないためには、どこに注意すべきかを考える」（https://d-pops-group.co.jp/column/revenue-per-employee/）
+  - 「百名山への挑戦を始める前は山の素人だった私ですが、こうした振り返りによって数々の失敗を認識し、そこから多くのことを学んできました」（https://d-pops-group.co.jp/column/revenue-per-employee/）
+  - 「・岩場の下山では足首捻りを起こしやすいので、特に注意する・皮の剥がれた木の根は、濡れると滑りやすい・長距離歩行では、空腹を感じる前にこまめにカロリーを補給する・けいれん予防には水分と塩分のこまめな補給が有効だった・捻挫、膝痛、マメの予防のため、各箇所にテーピングを活用する・登山前日の睡眠の質は、疲労度合いに大きく影響する」（https://d-pops-group.co.jp/column/revenue-per-employee/）
+  - 「だからこそ、実際の失敗から学ぶ姿勢が、ベンチャー企業には欠かせません」（https://d-pops-group.co.jp/column/revenue-per-employee/）
+  - 「失敗しないように無難な道を選ぶのではなく、失敗を恐れず挑戦し、振り返りによって経験値を高めていく」（https://d-pops-group.co.jp/column/revenue-per-employee/）
+  - 「登山でもビジネスでも、重要なのは失敗しないことではなく、失敗から何を学び、それを次にどう活かすかです」（https://d-pops-group.co.jp/column/revenue-per-employee/）
+  - 「経験を振り返り、失敗の原因を言語化し、次の行動を変えて初めて、その経験は「学び」に変わるのです」（https://d-pops-group.co.jp/column/revenue-per-employee/）
 - 実例：
   - 「例えば、最新鋭設備の導入により省力化を図った場合、従業員数が減った分だけ労働生産性が上がります」（https://note.com/yajirushi_works/n/nacbfd931b027）
   - 「限界利益は、企業の内部分析でも使われ、例えば、部門毎や商品毎、地域毎など、それぞれに限界利益率を求めることで簡単に利益分析（収益性の明確化）をすることができ、改善すべき点を洗い出すのに便利です」（https://note.com/yajirushi_works/n/nacbfd931b027）
@@ -583,7 +614,6 @@
   - 「For example, a software company pulling in $1.76 million per employee and a hospital averaging $8,700 are both running normal operations for their industry. One runs on code and licensing. The other runs on a large network of staff and overnight shifts. We may be looking at the same metric, but each has a completely different story.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
   - 「Labor-intensive industries such as restaurants, general retail and hospitals cluster at the low end, with RPE figures below $35,000 in some cases, reflecting high headcount relative to revenue.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
   - 「For example, a software company and a hospital can both be healthy, well-run businesses and show wildly different RPE figures. The U.S. total market average sits at $111,000 per employee, but that number masks enormous variation by industry.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
 
 ## OSINT（公開情報調査）の手法（OSINT open source intelligence business research）
 - 文脈：探し方
@@ -2451,7 +2481,7 @@
   - 「For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「Entity Resolution Use Cases」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「A single accuracy percentage can be misleading because most possible record pairs are non-matches. Evaluation should therefore include false positives, false negatives, the percentage of cases requiring human review and the quality of complete entity clusters—not only individual record pairs.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-- 失敗・落とし穴：記載なし（読んだ31頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 非上場の売上を複数の信号で挟む（Inven・CUFinder）（private company revenue estimate multiple signals top-down bottom-up conservative）
 - 文脈：推定
@@ -2466,6 +2496,11 @@
   - 「How to Find the Revenue of a Company (One or a Whole List)」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
   - 「How to find a company's revenue: free filings for public companies, honest estimate methods for private ones, and a bulk workflow for whole lists.」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
   - 「最も手早いのは、CUFinderのような売上検索ツールを使う方法です」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「By implementing key steps and aligning operational forecasting with other key departments, such as accounting, companies can streamline their forecasting models and gain access to valuable business insights.」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
+  - 「A moving average model averages results over a fixed number of periods, allowing for steadier forecast trends that aren't heavily influenced by short-term fluctuations. This method is beneficial for companies that do not have strong seasonal patterns or those working with limited data.」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
+  - 「Time series modeling analyzes revenue data over a period of time to detect seasonal or cyclical trends. A benefit of this forecasting method is its ability to differentiate random, unexplained variations from true cyclical patterns. However, this model can miss new market dynamics since it is relying on historical data.」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
+  - 「The straight line method is a simple quantitative approach that assumes a company's financials will continue to grow or decline at the same rate of historic periods, regardless of market conditions or seasonal trends. This model is best suited to companies with predictable growth patterns, rather than those in rapidly evolving industries.」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
+  - 「This method aggregates revenue projections from various departments, such as sales, marketing and team leads, to create a company-wide forecast. While the bottom-up method can promote buy-in across the organization due to including a variety of team inputs, issues may arise if teams have inconsistent assumptions that skew the predictions.」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
 - 突き合わせ・推定：
   - 「CUFinderなら、あらゆる企業の推定年間売上レンジを、一括でもAPI経由でも取得できます」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
   - 「企業名、ドメイン、またはLinkedIn URLをアップロードすると、CUFinderが各企業の推定年間売上レンジを返します」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
@@ -2484,6 +2519,12 @@
   - 「非上場企業の売上高を推定するには、通常、従業員数、業界平均、資金調達履歴、公開情報などを調べる必要があります」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
 - 一次情報の探し方：
   - 「How to find a company's revenue: free filings for public companies, honest estimate methods for private ones, and a bulk workflow for whole lists.」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+- 失敗・落とし穴：
+  - 「Revenue Forecasting: Models, Benefits, Tips & Pitfalls to Avoid | Cherry Bekaert」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
+  - 「Understanding Revenue Forecasting: Models, Benefits and Pitfalls」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
+  - 「Revenue Projection Pitfalls To Avoid」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
+  - 「Without effective strategies in place, companies are more likely to make forecasting mistakes and calculate inaccurate projections. Newer companies may struggle due to the lack of historical data available. Companies can use competitor information and industry benchmarks to create predictions if there is not enough business-specific data to utilize for a forecast.」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
+  - 「Other mistakes businesses should work to avoid include:」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
 - 実例：
   - 「手軽な単発検索でも一括の売上エンリッチメントでも、すぐに結果が返ります」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
   - 「「Not Found」（該当なし）の結果には料金がかからないため、見つからなくてもコストは一切かかりません」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
@@ -2491,15 +2532,15 @@
   - 「What Is Firmographic Data? Definition, Examples, and Sources」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
   - 「Learn what firmographic data is, with clear examples, the core data points, how it differs from demographic and technographic data, and where to get it.」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
   - 「結果はExcelにエクスポートすることも、HubSpot、Salesforce、Zohoに直接送信して、すぐにリードスコアリングやセグメント化に活用することもできます」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+  - 「Accounting and operations teams must align for an accurate forecast. For example, companies using the accrual method with long order-to-cash timelines will not have a sales team’s forecast that aligns with the financials unless it takes into account things like contract terms, billing efficiency, etc.」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
 
 ## 出どころを元までたどり、こだまを束ねる（source triangulation・検証の表）（source triangulation trace to origin echo verbatim numbers validation matrix）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ12頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 実例：記載なし（読んだ12頁・検索12回）
 
 ## コンサルの調べ方（目的・予想の仮説・公益社団法人の調査報告）（consulting desk research hypothesis expected answer association reports）
 - 文脈：分析の型
@@ -2585,8 +2626,8 @@
   - 「TAM, SAM, and SOM: Definitions, Formulas, and Examples」（https://bizminer.com/revenue-per-employee-benchmarks/）
 - 検索結果の抜粋：
   - 「Revenue Per Employee Benchmarks : 2026 Ranges by Industry — Revenue Per Employee Benchmarks : 2026 Ranges by Industry Bizminer https://bizminer.com > revenue-per-e...」（https://bizminer.com/revenue-per-employee-benchmarks/）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
 
 ## 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）（OSINT evidence provenance origin vs collection method ICD 203 likelihood language）
 - 文脈：突き合わせ
@@ -2889,16 +2930,24 @@
   - 「A robust data governance framework ensures data accuracy and reliability through clear roles, policies, and accountability:」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
   - 「A well-structured governance framework minimizes stale data risks while ensuring confidence in organizational data.」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
   - 「: Provides a unified stream and batch processing framework to reduce latency and ensure seamless updates.」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
+  - 「Do not hide weak evidence behind a clean framework.」（https://core.yogoq.com/en-US/core/decision-log-refresh-plan）
+  - 「Decision Log Refresh Plan should be turned into an explicit decision sequence before it is used. Frame | Write the decision, owner, and time horizon | Prevents the framework from becoming a discussion label Compare | List options, constraints, evidence, and trade-offs | Makes the choice testable Commit | Record the selected path, review date, and reversal signal | Keeps execution accountable」（https://core.yogoq.com/en-US/core/decision-log-refresh-plan）
+  - 「Frame | Write the decision, owner, and time horizon | Prevents the framework from becoming a discussion label」（https://core.yogoq.com/en-US/core/decision-log-refresh-plan）
+  - 「Do not use Decision Log Refresh Plan when the decision context is too unstable or too shallow. No owner | The decision owner is unclear | The framework will not change execution No evidence | Inputs are guesses only | The output will look precise but remain fragile No choice | The team is not willing to change action | The framework becomes documentation theater」（https://core.yogoq.com/en-US/core/decision-log-refresh-plan）
+  - 「No owner | The decision owner is unclear | The framework will not change execution」（https://core.yogoq.com/en-US/core/decision-log-refresh-plan）
+  - 「No choice | The team is not willing to change action | The framework becomes documentation theater」（https://core.yogoq.com/en-US/core/decision-log-refresh-plan）
+  - 「Use Decision Log Refresh Plan as a decision aid, not as a substitute for judgment. Do not hide weak evidence behind a clean framework. Do not compare options with inconsistent assumptions. Do not keep using the framework after the market, customer, or operating constraint changes.」（https://core.yogoq.com/en-US/core/decision-log-refresh-plan）
 - 突き合わせ・推定：
   - 「Estimate value and cost savings from data observability.」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
+- 一次情報の探し方：
+  - 「This page is reference information for research and learning. For accounting, legal, finance, health, security, or other individual decisions, confirm against primary sources or qualified professionals.」（https://core.yogoq.com/en-US/core/decision-log-refresh-plan）
 - 実例：
   - 「Here’s how these risks manifest with real-world examples:」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
   - 「These examples highlight the critical importance of maintaining」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
   - 「Assign responsibilities for monitoring data freshness. For example, a multinational bank can appoint」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
   - 「Here are key strategies, each illustrated with real-world examples of company implementations:」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
   - 「Here are three strategies, supported by real-world examples:」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
 
 ## 統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり）（statistical time series break linking retropolation official statistics）
 - 文脈：突き合わせ・失敗

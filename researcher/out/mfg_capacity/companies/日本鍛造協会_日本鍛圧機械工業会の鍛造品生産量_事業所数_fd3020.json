@@ -1,0 +1,419 @@
+{
+ "name": "日本鍛造協会・日本鍛圧機械工業会の鍛造品生産量・事業所数",
+ "en": "Japan forging association production volume establishments",
+ "aliases": [
+  "日本鍛造協会 鍛造品 生産量 推移",
+  "型鍛造品 生産実績 統計 日本鍛造協会",
+  "鍛造 事業所数 従業者数 工業統計"
+ ],
+ "context": "一次・鍛造",
+ "kind": "market",
+ "researched_at": "2026-11-05T08:06:41.563531+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://j-fma.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/002_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.osaka-ue.ac.jp/file/general/15272",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfa-tanzo.jp/wp-content/uploads/2022/06/JFA78.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://monoto.co.jp/forgingmachine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoque.jp/st/tanatsu/819253/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kintan-jp.com/documents/youtobetsu-seisanryou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/2008910news-toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/30625/tanko-h13.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sokeizai.or.jp/pages/58/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfa-tanzo.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-fma.or.jp/orders-statistics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://test.j-fma.or.jp/orders-statistics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://test.j-fma.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/surveyitems/surveyforms/07802?sort_key=teigiItemId&sort_order=asc&form_build_id=form-DSW0ckbzhP5SLOk9OXLJPBPL2KdWfnLYtLxiR4s5iEA&form_id=resource_paper_form&source=paper&itemHideFlg=1&page=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-fma.or.jp/newsletter_information/link",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/8010405007986",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-forging-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfa-tanzo.jp/wp-content/uploads/2023/10/%E6%AD%A3%E4%BC%9A%E5%93%A1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://j-fma.or.jp/activities/mf-tokyo/2025-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-fma.or.jp/activities/mf-tokyo/2025-movie",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfa-tanzo.jp/en/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpma.gr.jp/en/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://jscfa.or.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vLMof3HrbC3E3g5rMqoWY1PjCf5IO6hbLviGD9TnVkttXxSC9Sh",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seaj.or.jp/english/statistics/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-japan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本鍛造協会・日本鍛圧機械工業会の鍛造品生産量・事業所数",
+   "results": [
+    "https://j-fma.or.jp/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/002_04_00.pdf",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.jfa-tanzo.jp/wp-content/uploads/2022/06/JFA78.pdf",
+    "https://monoto.co.jp/forgingmachine/",
+    "https://monoque.jp/st/tanatsu/819253/",
+    "https://mono.ipros.com/cg2/%E9%8D%9B%E9%80%A0%E3%83%97%E3%83%AC%E3%82%B9/",
+    "https://j-fma.or.jp/overview",
+    "https://www.jfa-tanzo.jp/"
+   ]
+  },
+  {
+   "query": "日本鍛造協会・日本鍛圧機械工業会の鍛造品生産量・事業所数 推移",
+   "results": [
+    "https://j-fma.or.jp/",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/002_04_00.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://monoque.jp/st/tanatsu/819253/",
+    "https://kintan-jp.com/documents/youtobetsu-seisanryou/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.pref.osaka.lg.jp/documents/30625/tanko-h13.pdf",
+    "https://www.e-stat.go.jp/surveyitems/surveyforms/07802?sort_key=teigiItemId&sort_order=asc&form_build_id=form-DSW0ckbzhP5SLOk9OXLJPBPL2KdWfnLYtLxiR4s5iEA&form_id=resource_paper_form&source=paper&itemHideFlg=1&page=2"
+   ]
+  },
+  {
+   "query": "日本鍛造協会・日本鍛圧機械工業会の鍛造品生産量・事業所数 統計 PDF",
+   "results": [
+    "https://j-fma.or.jp/",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/002_04_00.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.pref.osaka.lg.jp/documents/30625/tanko-h13.pdf",
+    "https://www.jfa-tanzo.jp/wp-content/uploads/2022/06/JFA78.pdf",
+    "https://kintan-jp.com/documents/youtobetsu-seisanryou/",
+    "https://monoque.jp/st/tanatsu/819253/",
+    "https://www.sokeizai.or.jp/pages/58/",
+    "https://www.jfa-tanzo.jp/"
+   ]
+  },
+  {
+   "query": "日本鍛造協会・日本鍛圧機械工業会の鍛造品生産量・事業所数 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://j-fma.or.jp/newsletter_information/link",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.sokeizai.or.jp/pages/58/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html"
+   ]
+  },
+  {
+   "query": "日本鍛造協会・日本鍛圧機械工業会の鍛造品生産量・事業所数 従業者規模別",
+   "results": [
+    "https://j-fma.or.jp/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.osaka.lg.jp/documents/30625/tanko-h13.pdf",
+    "https://compalyze.co.jp/company/8010405007986",
+    "https://www.imarcgroup.com/report/ja/japan-forging-market",
+    "https://www.jfa-tanzo.jp/wp-content/uploads/2023/10/%E6%AD%A3%E4%BC%9A%E5%93%A1.pdf",
+    "https://monoque.jp/st/tanatsu/819253/"
+   ]
+  },
+  {
+   "query": "日本鍛造協会・日本鍛圧機械工業会の鍛造品生産量・事業所数 1人当たり 万円",
+   "results": [
+    "https://j-fma.or.jp/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://monoque.jp/st/tanatsu/819253/",
+    "https://www.jfa-tanzo.jp/wp-content/uploads/2022/06/JFA78.pdf",
+    "https://www.pref.osaka.lg.jp/documents/30625/tanko-h13.pdf",
+    "https://compalyze.co.jp/company/8010405007986"
+   ]
+  },
+  {
+   "query": "日本鍛造協会・日本鍛圧機械工業会の鍛造品生産量・事業所数 2015 2025",
+   "results": [
+    "https://j-fma.or.jp/activities/mf-tokyo/2025-report",
+    "https://j-fma.or.jp/activities/mf-tokyo/2025-movie",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/002_04_00.pdf",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://monoque.jp/st/tanatsu/819253/",
+    "https://kintan-jp.com/documents/youtobetsu-seisanryou/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.jfa-tanzo.jp/"
+   ]
+  },
+  {
+   "query": "Japan forging association production volume establishments Japan statistics",
+   "results": [
+    "https://www.jfa-tanzo.jp/en/outline/",
+    "https://www.jpma.gr.jp/en/statistics/",
+    "http://jscfa.or.jp/en/",
+    "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vLMof3HrbC3E3g5rMqoWY1PjCf5IO6hbLviGD9TnVkttXxSC9Sh",
+    "https://www.seaj.or.jp/english/statistics/index.html",
+    "https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-japan.pdf",
+    "https://www.jmtba.or.jp/english/category/machine-tool-statistics/",
+    "https://www.jisf.or.jp/en/statistics/production/index.html",
+    "https://www.stat.go.jp/english/data/nenkan/74nenkan/1431-09.html",
+    "https://www.jfa-tanzo.jp/en/"
+   ]
+  },
+  {
+   "query": "site:note.com 日本鍛造協会・日本鍛圧機械工業会の鍛造品生産量・事業所数",
+   "results": [
+    "https://note.com/sankituushin/n/n75a66732b045",
+    "https://note.com/sankituushin/n/n2c7080b70c1a",
+    "https://note.com/sankituushin/n/nb1efac67b652",
+    "https://note.com/sankituushin/n/ne38256ed037f",
+    "https://note.com/sankituushin/n/n7695ae0994bc",
+    "https://note.com/sankituushin/n/n8c3ebb650c0b",
+    "https://note.com/sankituushin/n/ndac71a134e1c"
+   ]
+  },
+  {
+   "query": "site:x.com 日本鍛造協会・日本鍛圧機械工業会の鍛造品生産量・事業所数",
+   "results": [
+    "https://x.com/sangyo_web/status/1646257006972665856",
+    "https://x.com/nao_nass/status/2096793391002780049",
+    "https://x.com/pucchino_s/status/2112013759078453708",
+    "https://x.com/rearx01/status/2075970146301325808",
+    "https://x.com/i/status/2097448225028637126",
+    "https://x.com/jspmi_official/status/2059187888953471211",
+    "https://x.com/masashi_i/status/2022567406040944646"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 日本鍛造協会・日本鍛圧機械工業会の鍛造品生産量・事業所数",
+   "results": [
+    "https://jp.linkedin.com/in/futoshi-suzuki-ab87465a",
+    "https://jp.linkedin.com/",
+    "https://www.linkedin.com/posts/edgar-jackson-37b89b13_ピストン部品を大量生産するプロセス6000トンプレスでクランクシャフトを鍛造する-activity-7205893146117873665-u5XI",
+    "https://jp.linkedin.com/pulse/防衛および航空宇宙用鍛造品の日本メーカー一覧-compressor-core-rn5xe",
+    "https://www.linkedin.com/posts/edgar-jackson-37b89b13_船舶エンジン部品を大量生産するプロセス8トンハンマーで鍛造する日本の工場-activity-7204067454380101633-FcfG",
+    "https://uz.linkedin.com/jobs/view/【s302】生産技術（工程設計・設備導入-鍛造・熱処理）（鍛圧室-兵庫）-at-kobe-steel-ltd-4371393675",
+    "https://jp.linkedin.com/pulse/包括的な鋼鍛造市場規模レポート-2025年-2032年アプリケーションセグメント収益生産コストおよび地域別販売量-y9mdf"
+   ]
+  },
+  {
+   "query": "site:facebook.com 日本鍛造協会・日本鍛圧機械工業会の鍛造品生産量・事業所数",
+   "results": [
+    "https://www.facebook.com/p/一般社団法人日本鍛造協会-100071017188707/",
+    "https://www.facebook.com/100054350748271/posts/一般社団法人日本鍛造協会の下部組織であります全国鍛造倶楽部の会長職を東福鍛工が賜りました2年間という任期ではありますが会長として鍛造業界に貢献できるよう精進して/5043420522435619/",
+    "https://www.facebook.com/100054301295948/",
+    "https://www.facebook.com/newswitchpage/posts/日本鍛圧機械工業会日鍛工が８日発表した５月の鍛圧機械受注実績は前年同月比２３倍の２３０億８９００万円で５カ月連続の増加となりましたhttpsnewswitchj/4447880195235507/",
+    "https://www.facebook.com/nb.shinbun/posts/1月11日日本鍛圧機械工業会-の賀詞交換会が都内で行われました北野司会長は今年の受注について先行きは不透明としながらも昨年と同等程度の水準受注額3715億円とな/211249861403679/",
+    "https://www.facebook.com/reel/9202444369858882/",
+    "https://www.facebook.com/179839628735783/posts/日本鍛圧機械工業会-第６８回定時総会および懇親会開く有益な最新情報発信へhttpwwwnejinewscojpnewsfastenerarchiveeid666/1051914761528261/"
+   ]
+  },
+  {
+   "query": "日本鍛造協会・日本鍛圧機械工業会の鍛造品生産量・事業所数 note 社長",
+   "results": [
+    "https://j-fma.or.jp/",
+    "https://note.com/3n7no_tech_pr/n/n2074f6d66b14",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://compalyze.co.jp/company/8010405007986",
+    "https://www.jfa-tanzo.jp/news/mf-tokyo2025/",
+    "https://note.com/sankituushin/n/nec0cf594cbcb",
+    "https://www.pref.osaka.lg.jp/documents/30625/tanko-h13.pdf",
+    "https://monoque.jp/opinion/post-65/",
+    "https://www.nikkan.co.jp/brand/mf-tokyo/2017/guide/index.html",
+    "https://www.jfa-tanzo.jp/"
+   ]
+  },
+  {
+   "query": "日本鍛造協会・日本鍛圧機械工業会の鍛造品生産量・事業所数 X 投稿",
+   "results": [
+    "https://j-fma.or.jp/",
+    "https://j-fma.or.jp/activities/mf-tokyo/2025-movie",
+    "https://www.youtube.com/watch?v=lTJwli3o3e4",
+    "https://compalyze.co.jp/company/8010405007986",
+    "https://www.jfa-tanzo.jp/news/%E3%80%90%E5%87%BA%E5%B1%95%E5%8B%9F%E9%9B%86%E3%80%91mf-tokyo2027-%E9%8D%9B%E9%80%A0%E3%82%BE%E3%83%BC%E3%83%B3/",
+    "https://j-fma.or.jp/activities/mf-tokyo/2025-report",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/002_04_00.pdf",
+    "https://monoque.jp/st/tanatsu/819253/",
+    "https://www.youtube.com/watch?v=tTCOw-Dd2AY"
+   ]
+  },
+  {
+   "query": "Japan forging association production volume establishments site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/japan-automotive-forging-consumption-pc15e",
+    "https://www.linkedin.com/company/forging-industry-association",
+    "https://www.linkedin.com/pulse/hydraulic-radial-forging-machine-market-us-japan-efosf",
+    "https://www.linkedin.com/company/scot-forge",
+    "https://www.linkedin.com/pulse/united-states-forging-brass-market-segment-leaders-42evf",
+    "https://www.linkedin.com/company/iraeta-forgings/",
+    "https://www.linkedin.com/pulse/forging-brass-rods-market-global-outlook-us-japan-vuk6f",
+    "https://www.linkedin.com/company/ajaxcecoeriepress",
+    "https://in.linkedin.com/in/duhee-alloy-steel-processors-30a612255",
+    "https://www.linkedin.com/company/wyman-gordon"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ36頁・検索15回）",
+  "社員数・平均社員数": "記載なし（読んだ36頁・検索15回）",
+  "受注金額・加工賃収入": "記載なし（読んだ36頁・検索15回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ36頁・検索15回）",
+  "生産能力・設備": "記載なし（読んだ36頁・検索15回）",
+  "10年推移": "記載なし（読んだ36頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ36頁・検索15回）"
+ }
+}

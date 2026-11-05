@@ -1,0 +1,434 @@
+{
+ "name": "規模別の同じ表で1人あたり加工賃が規模の内側でも上がったか（生き残り・構成変化の確認・4-25）",
+ "en": "processing fee per employee within size class trend survivorship check Japan manufacturing",
+ "aliases": [
+  "工業統計 従業者規模別 加工賃収入額 従業者数 2010 2015 2019 産業中分類",
+  "経済構造実態調査 従業者規模別 加工賃収入額 2021 2022 2023",
+  "filetype:xlsx 工業統計 従業者規模別 産業中分類 加工賃収入額"
+ ],
+ "context": "生存の偏り・規模別",
+ "kind": "market",
+ "researched_at": "2026-11-05T08:06:19.975252+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ilink-corp.co.jp/3962.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whyme-coach.com/insights/value-added-productivity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.attax.co.jp/e-kaisha/kaikei/%E4%BA%BA%E6%9D%90%E3%81%AE%E7%94%9F%E7%94%A3%E6%80%A7%EF%BD%9E%EF%BC%91%E4%BA%BA%E5%BD%93%E3%82%8A%E4%BB%98%E5%8A%A0%E4%BE%A1%E5%80%A4%E3%83%BB%E5%8A%B4%E5%83%8D%E5%88%86%E9%85%8D%E7%8E%87/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quizlet.com/jp/782409798/gab-%E9%9D%9E%E8%A8%80%E8%AA%9E-b-flash-cards/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://so-labo.co.jp/hojyokin/meti/basic/1222/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fukakachi-lab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/uploaded/attachment/213362.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00550010&statdisp_id=0003432894",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.worldoftest.com/ja/print/pdf/node/5895",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://resas-portal.go.jp/medias/2CKeJYLks2IFfhePORUPqp/53b72350c681093190d11f5ac58a208e/manual_map_industory_01_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.zggrkz.com/zggrkzzzen/article/pdf/2019-7-612",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/entyoio/result/handbook/handbook2021ver6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arpable.com/arpable/labor-share-and-producibility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuhikaku.co.jp/static_files/22266_web2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://bokipedia.jp/download/204/4",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://fukakachi-lab.com/category/cost-management/1030",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaikei-soft.net/zenkei/pdf/zen1_ruidai_qes_b.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cpa-net.jp/wordpress/wp-content/uploads/2023/04/cd1314b33de05b13568b19cda3185743-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.karada-good.net/wp/wp-content/uploads/2016/05/recharts3.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pboki.com/2kogyo/sch/sch.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forval-shoukei.jp/shokuhin_lp/column/kakouhi-haifu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jama.org/2026-study-the-impact-of-japanese-brand-automakers-on-the-us-economy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/japan-hr-tech-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weforum.org/stories/education-and-skills/navigating-work-transformation-in-japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://orbray.com/magazine_en/archives/4956",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdnw8.eu-japan.eu/sites/default/files/2021-01-japanese-consumers-behavior_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bls.gov/fls/tables/fls-table-19.htm",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "規模別の同じ表で1人あたり加工賃が規模の内側でも上がったか（生き残り・構成変化の確認・4-25）",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://ilink-corp.co.jp/3962.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.whyme-coach.com/insights/value-added-productivity",
+    "https://www.attax.co.jp/e-kaisha/kaikei/%E4%BA%BA%E6%9D%90%E3%81%AE%E7%94%9F%E7%94%A3%E6%80%A7%EF%BD%9E%EF%BC%91%E4%BA%BA%E5%BD%93%E3%82%8A%E4%BB%98%E5%8A%A0%E4%BE%A1%E5%80%A4%E3%83%BB%E5%8A%B4%E5%83%8D%E5%88%86%E9%85%8D%E7%8E%87/",
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://takakuka.jp/column/organization/okok.html",
+    "https://www.youtube.com/watch?v=qzsE49n0hdo",
+    "https://www.yuhikaku.co.jp/static_files/22266_web2.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000040194039&layout=dataset&statdisp_id=0004028790"
+   ]
+  },
+  {
+   "query": "規模別の同じ表で1人あたり加工賃が規模の内側でも上がったか（生き残り・構成変化の確認・4-25） 推移",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://ilink-corp.co.jp/3962.html",
+    "https://quizlet.com/jp/782409798/gab-%E9%9D%9E%E8%A8%80%E8%AA%9E-b-flash-cards/",
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://so-labo.co.jp/hojyokin/meti/basic/1222/",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://fukakachi-lab.com/",
+    "https://www.pref.aichi.jp/uploaded/attachment/213362.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00550010&statdisp_id=0003432894"
+   ]
+  },
+  {
+   "query": "規模別の同じ表で1人あたり加工賃が規模の内側でも上がったか（生き残り・構成変化の確認・4-25） 統計 PDF",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.worldoftest.com/ja/print/pdf/node/5895",
+    "https://resas-portal.go.jp/medias/2CKeJYLks2IFfhePORUPqp/53b72350c681093190d11f5ac58a208e/manual_map_industory_01_02.pdf",
+    "https://www.zggrkz.com/zggrkzzzen/article/pdf/2019-7-612",
+    "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
+    "https://www.meti.go.jp/statistics/tyo/entyoio/result/handbook/handbook2021ver6.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.sugoroku.net/wp/wp-content/uploads/2026/01/correlation.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003448106"
+   ]
+  },
+  {
+   "query": "規模別の同じ表で1人あたり加工賃が規模の内側でも上がったか（生き残り・構成変化の確認・4-25） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2022_1.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "https://www.rieti.go.jp/jp/publications/pdp/05p001.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093"
+   ]
+  },
+  {
+   "query": "規模別の同じ表で1人あたり加工賃が規模の内側でも上がったか（生き残り・構成変化の確認・4-25） 従業者規模別",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://ilink-corp.co.jp/3962.html",
+    "https://arpable.com/arpable/labor-share-and-producibility/",
+    "https://www.stat.go.jp/data/e-census/topics/topi731.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.whyme-coach.com/insights/value-added-productivity",
+    "https://quizlet.com/jp/782409798/gab-%E9%9D%9E%E8%A8%80%E8%AA%9E-b-flash-cards/",
+    "https://www.attax.co.jp/e-kaisha/kaikei/%E4%BA%BA%E6%9D%90%E3%81%AE%E7%94%9F%E7%94%A3%E6%80%A7%EF%BD%9E%EF%BC%91%E4%BA%BA%E5%BD%93%E3%82%8A%E4%BB%98%E5%8A%A0%E4%BE%A1%E5%80%A4%E3%83%BB%E5%8A%B4%E5%83%8D%E5%88%86%E9%85%8D%E7%8E%87/",
+    "https://fukakachi-lab.com/"
+   ]
+  },
+  {
+   "query": "規模別の同じ表で1人あたり加工賃が規模の内側でも上がったか（生き残り・構成変化の確認・4-25） 1人当たり 万円",
+   "results": [
+    "https://ilink-corp.co.jp/3962.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.whyme-coach.com/insights/value-added-productivity",
+    "https://www.attax.co.jp/e-kaisha/kaikei/%E4%BA%BA%E6%9D%90%E3%81%AE%E7%94%9F%E7%94%A3%E6%80%A7%EF%BD%9E%EF%BC%91%E4%BA%BA%E5%BD%93%E3%82%8A%E4%BB%98%E5%8A%A0%E4%BE%A1%E5%80%A4%E3%83%BB%E5%8A%B4%E5%83%8D%E5%88%86%E9%85%8D%E7%8E%87/",
+    "https://www.youtube.com/watch?v=qzsE49n0hdo",
+    "https://www.yuhikaku.co.jp/static_files/22266_web2.pdf",
+    "https://so-labo.co.jp/hojyokin/meti/basic/1222/",
+    "https://bokipedia.jp/download/204/4"
+   ]
+  },
+  {
+   "query": "規模別の同じ表で1人あたり加工賃が規模の内側でも上がったか（生き残り・構成変化の確認・4-25） 2015 2025",
+   "results": [
+    "https://fukakachi-lab.com/category/cost-management/1030",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://ilink-corp.co.jp/3962.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.kaikei-soft.net/zenkei/pdf/zen1_ruidai_qes_b.pdf",
+    "https://cpa-net.jp/wordpress/wp-content/uploads/2023/04/cd1314b33de05b13568b19cda3185743-3.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.karada-good.net/wp/wp-content/uploads/2016/05/recharts3.html",
+    "https://pboki.com/2kogyo/sch/sch.html",
+    "https://so-labo.co.jp/hojyokin/meti/basic/1222/"
+   ]
+  },
+  {
+   "query": "processing fee per employee within size class trend survivorship check Japan manufacturing Japan statistics",
+   "results": [
+    "https://www.jama.org/2026-study-the-impact-of-japanese-brand-automakers-on-the-us-economy/",
+    "https://www.imarcgroup.com/japan-hr-tech-market",
+    "https://www.weforum.org/stories/education-and-skills/navigating-work-transformation-in-japan",
+    "https://orbray.com/magazine_en/archives/4956",
+    "https://cdnw8.eu-japan.eu/sites/default/files/2021-01-japanese-consumers-behavior_0.pdf",
+    "https://www.bls.gov/fls/tables/fls-table-19.htm",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9753261/",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/09/the-new-workplace-in-japan_67c6ec46/7c897f52-en.pdf",
+    "https://www.deel.com/blog/employer-costs-for-an-employee-in-japan/",
+    "https://www.usemultiplier.com/japan/cost-of-employment"
+   ]
+  },
+  {
+   "query": "site:note.com 規模別の同じ表で1人あたり加工賃が規模の内側でも上がったか（生き残り・構成変化の確認・4-25）",
+   "results": [
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/ogawa_tech/n/n50af1e1e8268",
+    "https://note.com/bold_hornet726/n/n843af36b5be1",
+    "https://note.com/kens_reading1/n/n472aa64b72bc",
+    "https://note.com/ogawa_tech/n/n2013377c1e66",
+    "https://note.com/ogawa_tech/n/ne3c6a9f9d3fc",
+    "https://note.com/ogawa_tech/n/nd2c92f12eb9d"
+   ]
+  },
+  {
+   "query": "site:x.com 規模別の同じ表で1人あたり加工賃が規模の内側でも上がったか（生き残り・構成変化の確認・4-25）",
+   "results": [
+    "https://x.com/Matsuno_Mold/status/2036199803416355118",
+    "https://x.com/m_takaharasan/status/2085259637650227437",
+    "https://x.com/OgawaSeisakusho/status/2114827307454238733",
+    "https://x.com/OgawaSeisakusho/status/2048565541305225459",
+    "https://x.com/OgawaSeisakusho/status/2091663392398622749",
+    "https://x.com/kanten_se/status/2068650144317522055",
+    "https://x.com/OgawaSeisakusho/status/2095258759459459223"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 規模別の同じ表で1人あたり加工賃が規模の内側でも上がったか（生き残り・構成変化の確認・4-25）",
+   "results": [
+    "https://jp.linkedin.com/posts/ampersand-tax_従業員1人当たりの稼ぎが急増したトップ50社-東洋経済オンライン-activity-7309025087322501121-xjlY",
+    "https://jp.linkedin.com/pulse/日本市場の未来縮小する国内市場で企業が生き残るための戦略とは-michio-okazaki-hlxoc",
+    "https://jp.linkedin.com/posts/deloitte_人口減少化下で成長するために必要なのは個の力だ-activity-7209748651760320514-jF7d",
+    "https://jp.linkedin.com/pulse/what-revenue-per-employee-how-can-i-use-grow-my-hancott-cgma-gysve?tl=ja",
+    "https://jp.linkedin.com/posts/丸山-敦生-maruyama-atsuo-36a607349_三菱商事の社員1人あたり研修費が企業平均の20倍と衝撃でもここで注目すべきは20-activity-7472063686480687104-w0xG",
+    "https://jp.linkedin.com/posts/庄太朗-岩﨑-390a6b163_ai活用が当たり前の企業文化へサーキュレーション全社員の約70が毎日aiを-activity-7391578434381996032-zFi8",
+    "https://jp.linkedin.com/posts/祐二-古澤-8787022a5_1人あたり売上高12億円-anthropicの売上と従業員数から計算してみた-activity-7435255695031218176-YrwR"
+   ]
+  },
+  {
+   "query": "site:facebook.com 規模別の同じ表で1人あたり加工賃が規模の内側でも上がったか（生き残り・構成変化の確認・4-25）",
+   "results": [
+    "https://www.facebook.com/jacksonandapril/",
+    "https://www.facebook.com/kosakaeiji/posts/我が国でも移民の属性ごとのコスト計算を行い可視化した上で正面からの議論を進めねば-本日の経済産業委員会での百田代表のこうしたコストに関する質問に対して政府から聞/35720375267561355/",
+    "https://www.facebook.com/kaori.arimoto.9/posts/移民のコスト拡散願います本日の経産委員会での-保守党-百田代表の質問で配布資料としたアムステルダム大学のborderless-welfare-stateボーダレ/26513648508322538/",
+    "https://www.facebook.com/yilin.yang.9/videos/会社の規模で一生のお金はここまで変わるでも人生は会社だけで決まらない/1375934954680800/",
+    "https://www.facebook.com/SENKEN.shimbun/posts/縫製業のリアル④加工賃③-値段もっと下がらないに終止符httpssenkencojppostssewing-251027/1412481227551325/",
+    "https://www.facebook.com/groups/1117274224969459/posts/27093195153617344/",
+    "https://www.facebook.com/OECD.JP/posts/oecd東京センターのウェブサイトには主要統計の一覧が日本語で掲載されています各指標のリンク先ではデータが一目でわかるようグラフになっていて日本語の定義もご覧い/6213059408766632/"
+   ]
+  },
+  {
+   "query": "規模別の同じ表で1人あたり加工賃が規模の内側でも上がったか（生き残り・構成変化の確認・4-25） note 社長",
+   "results": [
+    "https://note.com/starup_ogata/n/na4359b60286b",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://ilink-corp.co.jp/3962.html",
+    "https://note.com/kazuya_nagano/n/nef0770ff89a8",
+    "https://note.com/tonarino_cfo/n/n3de662dda8cb",
+    "https://fukakachi-lab.com/",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://note.com/starup_ogata/n/n24b642d73037",
+    "https://www.aoki-accounting.com/library/574be106cfd96fe306713e4b/61039685a6e8ba7f41cc173d.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144097"
+   ]
+  },
+  {
+   "query": "規模別の同じ表で1人あたり加工賃が規模の内側でも上がったか（生き残り・構成変化の確認・4-25） X 投稿",
+   "results": [
+    "https://fukakachi-lab.com/category/cost-management/1030",
+    "https://ilink-corp.co.jp/3962.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.youtube.com/watch?v=1FhNGNcb_rI",
+    "https://pboki.com/2kogyo/sch/sch.html",
+    "https://so-labo.co.jp/hojyokin/meti/basic/1222/",
+    "https://www.net-school.co.jp/support/docs/nis_2q/gak2q_ko_kako.pdf",
+    "https://note.com/jazzy_ixia272/n/n9f20969865f4",
+    "https://rmc-oden.com/blog/archives/194134",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00550010&statdisp_id=0003432894"
+   ]
+  },
+  {
+   "query": "processing fee per employee within size class trend survivorship check Japan manufacturing site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/neil-grubert_japan-has-limited-scope-to-respond-to-mfn-activity-7513300328117862400-OLzd",
+    "https://www.linkedin.com/pulse/turning-around-manufacturing-process-meeting-using-lean-vadali-sheff",
+    "https://www.linkedin.com/posts/jeffreyrwinter_success-stories-are-statistically-dishonest-activity-7414691024624730112-Y-zp",
+    "https://www.linkedin.com/in/jennifergaram",
+    "https://www.linkedin.com/in/lee-richardson-46180756",
+    "https://www.linkedin.com/in/helen-parsons-phd-mph-a349657",
+    "https://www.linkedin.com/in/ffeagans",
+    "https://www.linkedin.com/in/martinstumpe",
+    "https://www.linkedin.com/in/hilmoss",
+    "https://uk.linkedin.com/in/vernon-bainton-9071a817"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ39頁・検索15回）",
+  "社員数・平均社員数": "記載なし（読んだ39頁・検索15回）",
+  "受注金額・加工賃収入": "記載なし（読んだ39頁・検索15回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ39頁・検索15回）",
+  "生産能力・設備": "記載なし（読んだ39頁・検索15回）",
+  "10年推移": "記載なし（読んだ39頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ39頁・検索15回）"
+ }
+}
