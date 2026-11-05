@@ -149,6 +149,13 @@ def norm(v, u):
     return x, u
 
 OUTLIERS = {}
+# 2026-11-05 4-39：除外の点検（Kasica ら「Dirty Data in the Newsroom」CHI'23 の filter check：行を落としたら要約を取り直す。
+# 落とした件数を見ないと、見かけの完全さだけが上がる）。規則ごとに外した数字の件数を数えて scan_auto.md に出す
+DROPS = {}
+def drop(topic, why): DROPS.setdefault(topic, {}); DROPS[topic][why] = DROPS[topic].get(why, 0) + 1
+# 2026-11-05 4-39：値の長さの外れ（School of Data「Avoiding mistakes when cleaning your data」）。12字未満の引用は
+# メニュー・見出し・表の切れ端の疑い（brief の「BRAND VOICE・Paid Program」が事実に入った失敗と同じ型）
+SHORTQ = 12
 def rows_for(topic):
     for f in glob.glob(os.path.join(OUT, topic, "companies", "*.json")):
         try: d = json.load(open(f, encoding="utf-8"))
@@ -162,18 +169,20 @@ def rows_from_doc(topic, d):
             for it in items or []:
                 q, url = unicodedata.normalize("NFKC", it.get("quote", "") or ""), it.get("url", "")  # 全角数字・全角％を半角に（4-12）
                 q = join_okuman(q)
-                if is_job_search(url): continue  # 4-31 求人サイトの検索結果ページの数字は事実にしない
-                if HEADLINE.search(q) or "抜粋" in cat: continue  # 見出し・題名・検索結果の抜粋は数字にしない（METHOD.md 4-5）
+                if is_job_search(url): drop(topic, "求人サイトの検索結果ページ（4-31）"); continue  # 4-31 求人サイトの検索結果ページの数字は事実にしない
+                if HEADLINE.search(q) or "抜粋" in cat:
+                    if NUM.search(q): drop(topic, "見出し・題名・検索結果の抜粋（4-5）")
+                    continue  # 見出し・題名・検索結果の抜粋は数字にしない（METHOD.md 4-5）
                 ys = YEAR.findall(q)
                 ctx = context_of(q)
                 for m in NUM.finditer(q):
-                    if is_size_band(q, m): continue  # 規模区分の境目は数えない
+                    if is_size_band(q, m): drop(topic, "規模区分の境目（4-5）"); continue  # 規模区分の境目は数えない
                     # 2026-11-05：「1人あたり」「1事業所当たり」の1を人数・事業所数として拾い、幅が「1〜3,952事業所」になった失敗から。割り算の分母の1は数えない
-                    if PERDENOM.match(q, m.start()): continue
+                    if PERDENOM.match(q, m.start()): drop(topic, "1あたりの分母の1（4-5）"); continue
                     v, u = norm(*m.groups())
                     pre = q[max(0, m.start() - 2):m.start()]
                     neg = bool(NEGMARK.search(pre)) or (u == "万円" and pre.endswith("(") and q[m.end():m.end() + 1] == ")" and bool(FINTABLE.search(q)))  # 4-35：括弧は決算の表の文脈だけ
-                    if u == "万円" and v <= 0: continue
+                    if u == "万円" and v <= 0: drop(topic, "0以下の金額"); continue
                     if neg and u == "万円": v = -v  # 4-34 △・▲・括弧は負の値（損失・減少）
                     if u == "人" and v > MAXPERSON: OUTLIERS[topic] = OUTLIERS.get(topic, 0) + 1; continue  # 4-31 桁の感覚の上限
                     # 数字の近く（前40字）の年を優先
@@ -219,7 +228,7 @@ def gold_check():
         d = {"name": "__gold__", "evidence": {"テスト": [{"quote": q, "url": url}]}}
         got = sorted((round(r["値"], 4), r["単位"]) for r in rows_from_doc("__gold__", d))
         if got != sorted((round(v, 4), u) for v, u in want): bad.append(f"- ✗ {label}：「{q}」→ 期待 {want}／実際 {got}")
-    OUTLIERS.pop("__gold__", None)
+    OUTLIERS.pop("__gold__", None); DROPS.pop("__gold__", None)
     return bad
 
 # 2026-11-05 4-26：工業統計は2022年から経済構造実態調査（製造業事業所調査）に包まれ、対象が「従業者4人以上の全数」から
@@ -294,7 +303,20 @@ def echoes(g):
     return {v: len(h) for v, h in hv.items() if len(h) >= 2}
 
 # 2026-11-05 4-23：確度に見合った書き方（skillmd：裏付けあり→出典つきで言い切る／1か所→文中で出どころを名指し／食い違い→幅を両方の出典で／裏の取れないもの→使わない）
+# 2026-11-05 4-39：閉じた母集団か開いた母集団か（Kasica ら CHI'23）。一次（統計の全数）でない数え上げの社数・件数は
+# 漏れがありうるので「少なくとも」を付けて書く
+OPENCOUNT = ("社", "事業所", "件", "台")
 def phrasing(gr, g):
+    base = _phrasing(gr, g)
+    if g and g[0]["単位"] in OPENCOUNT and not any(r["一次"] == "一次" for r in g): base += "。数え上げは漏れがありうるので「少なくとも」を付ける"
+    return base
+
+# 2026-11-05 4-39：可能性の言葉を1つの組に固定する（ICD 203 の likelihood の表。言葉と確率の幅を対にし、組を混ぜない。
+# 確信の度合い（確度）と可能性の言葉を同じ文に並べない）。scan.md の結論の文はこの7語だけを使う
+LIKELIHOOD = [("ほぼありえない", "1〜5%"), ("かなり低い", "5〜20%"), ("低い", "20〜45%"), ("五分五分", "45〜55%"),
+              ("高い", "55〜80%"), ("かなり高い", "80〜95%"), ("ほぼ確実", "95〜99%")]
+
+def _phrasing(gr, g):
     hosts = sorted({r["出典"] for r in g if r["出典"]})
     if gr == "【裏付けあり】": return "出典を付けて言い切ってよい"
     if gr == "【食い違い】": return "幅で書き、両端の出典を並べる（どちらか1つを言い切らない）"
@@ -381,7 +403,8 @@ def scan(topic):
     if not rows: return 0
     with open(os.path.join(OUT, topic, "cross.csv"), "w", encoding="utf-8-sig", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=list(rows[0])); w.writeheader(); w.writerows(rows)
-    md = [f"# 走査（自動）— {topic}", "", "機械で出した突き合わせと【推定】。式と出典件数つき。最終の結論は scan.md。", ""]
+    md = [f"# 走査（自動）— {topic}", "", "機械で出した突き合わせと【推定】。式と出典件数つき。最終の結論は scan.md。",
+          "可能性の言葉（4-39・ICD 203。この7語だけを使い、確度の印と同じ文に並べない）：" + "／".join(f"{w}={p}" for w, p in LIKELIHOOD), ""]
     gb = gold_check()
     md += [f"- 判定の正解例の点検（4-38）：{len(GOLD) - len(gb)}／{len(GOLD)}件が期待どおり", *gb]
     picks = {}  # 4-38：前回からの変化を出すため、欄ごとの採る値を残す
@@ -391,7 +414,12 @@ def scan(topic):
     # 2026-11-05 4-21：機械で決めきれず人（Claude の走査）の確認が要る件数（Data Ladder：保留の件数を品質の指標にする）。文脈不明か年が無い数字
     nhold = sum(1 for r in rows if r["文脈"] == "不明" or not r["年"])
     md += [f"- 桁の感覚の外れで外した人数（1,000万人超・4-31）：{OUTLIERS.get(topic, 0)}件"]
-    md += [f"- 要確認（文脈不明か年が無い）：{nhold}件／{len(rows)}件。この数字は結論に使う前に引用の本文で確かめる", ""]
+    md += [f"- 要確認（文脈不明か年が無い）：{nhold}件／{len(rows)}件。この数字は結論に使う前に引用の本文で確かめる"]
+    # 4-39：除外の点検（どの規則で何件外したか）と、短すぎる引用（メニュー・切れ端の疑い）
+    dr = DROPS.get(topic, {})
+    md += ["- 除外の点検（規則ごとに外した数字の件数・4-39）：" + ("、".join(f"{k} {v}件" for k, v in sorted(dr.items(), key=lambda kv: -kv[1])) or "（なし）")]
+    nshort = sum(1 for r in rows if len(re.sub(r"\s", "", r["引用"])) < SHORTQ)
+    md += [f"- 短すぎる引用（{SHORTQ}字未満・メニューや表の切れ端の疑い・4-39）から取った数字：{nshort}件。結論に使う前に本文で確かめる", ""]
     by_item = {}
     for r in rows: by_item.setdefault(r["品目"], []).append(r)
     thin = []  # 4-23：主張×独立の出どころの表（theosintvault の validation matrix）で、出どころ1か所の欄を最後に並べる
@@ -603,6 +631,17 @@ def scan(topic):
         ch += [f"- 消えた：{k}" for k in sorted(set(prev) - set(picks))]
     md += ["## 前回からの変化（採る値・確度・年。4-38）", *(ch[:40] or (["（変化なし）"] if prev is not None else ["（初回。次の実行から比べる）"])), *([f"- ほか{len(ch) - 40}件"] if len(ch) > 40 else []), ""]
     json.dump(picks, open(pf, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
+    # 2026-11-05 4-39：同じ文の中の総額と人数（例「年間の中途採用費用総額は平均650.6万円、採用人数の平均は20.8人」）から
+    # 1人あたりを割り出す。同じ文・同じ出どころの2つの数字なので、別の出典をまたぐ割り算より桁違いが起きにくい（1章の割り出し）
+    sq = {}
+    for r in rows:
+        if r["予測"]: continue
+        sq.setdefault((r["品目"], r["URL"], r["引用"]), {}).setdefault(r["単位"], []).append(r["値"])
+    sl = []
+    for (it, url, q), byu in sq.items():
+        if len(byu.get("万円", [])) == 1 and len(byu.get("人", [])) == 1 and byu["人"][0] > 0 and "総額" in q:
+            sl.append(f"- 【推定】{it}｜{byu['万円'][0]:g}万円÷{byu['人'][0]:g}人＝{byu['万円'][0] / byu['人'][0]:,.1f}万円/人（同じ文の総額÷人数）｜{urlparse(url).netloc}：{q[:60]}")
+    md += ["## 同じ文の中の割り出し（総額÷人数・4-39）", *(sl[:30] or ["（なし）"]), ""]
     md += ["## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）", *(f"- {t}" for t in thin or ["（なし）"]), ""]
     md += ["## 数字が1つも取れなかった品目（範囲の明示）", *(f"- {n}" for n in empty or ["（なし）"]), ""]
     open(os.path.join(OUT, topic, "scan_auto.md"), "w", encoding="utf-8").write("\n".join(md))

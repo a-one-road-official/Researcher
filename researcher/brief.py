@@ -73,8 +73,19 @@ def load(topic: str) -> dict[str, dict]:
     return out
 
 
+# 2026-11-05 4-39：extract.py の除外（広告枠・メニュー）は新しく取った引用にしか効かず、前の回に入った
+# 「BRAND VOICE・Paid Program」やページ題名（「…｜Forbes JAPAN 公式サイト」）、著者名だけの行が brief に残った。
+# 書き出すたびに今の判定で外す（4-9 の「前の版で入ったものも読み込むたびに今の判定で外す」を brief にも当てる）
+from researcher.extract import _is_menu
+TITLE_RE = re.compile(r"(([｜|]|\s[-－–]\s)\s*[^｜|]{0,40}(公式サイト|公式|JAPAN|NEWS|ニュース)[^｜|]{0,20}$|^[^。、]{0,40}[-－]\s*[^。、]{0,20}\([A-Za-z]+\)$)")
+def junk(q: str) -> bool:
+    q = re.sub(r"\s+", " ", q or "").strip()
+    return _is_menu(q) or bool(TITLE_RE.search(q))
+
+
 def box_lines(rec: dict, cats: list[str], own_host: str = "") -> list[str]:
     ev, lines = rec.get("evidence", {}), []
+    ev = {k: [i for i in (v or []) if not junk(i.get("quote", ""))] for k, v in ev.items()}
     extra = [k for k in ev if k.startswith("SNS・note") or k == "検索結果の抜粋"]
     for c in cats + extra:
         items = ev.get(c, [])
@@ -118,7 +129,7 @@ def main() -> int:
             sec.append(f"- 取得：{r.get('researched_at', '')[:16]}・調査{r.get('runs', 1)}回目・読んだ頁{len(r.get('checked', {}).get('pass3', []))}")
             sec += box_lines(r, cats)
             for cat, items in (r.get("new_this_run") or {}).items():
-                for i in items[:3]:
+                for i in [i for i in items if not junk(i.get("quote", ""))][:3]:
                     if i.get("first_seen", "") >= since:
                         changes.append(f"- {f}｜{label}｜{c['name']}｜{cat}：「{re.sub(r'\s+', ' ', i['quote'])[:120]}」{i['url']}")
     for (f, short, label), sec in by_field.items():
@@ -145,7 +156,7 @@ def main() -> int:
                     lines.append(f"- {k}：" + (" ／ ".join(f"{i['value'][:120]}（{i['url']}）" for i in v[:2]) if v else "未完"))
                 lines += box_lines(r, cats, own)
                 for cat, items in (r.get("new_this_run") or {}).items():
-                    for i in items[:3]:
+                    for i in [i for i in items if not junk(i.get("quote", ""))][:3]:
                         if i.get("first_seen", "") >= since:
                             changes.append(f"- 顧客｜{c['name']}｜{cat}：「{re.sub(r'\s+', ' ', i['quote'])[:120]}」{i['url']}")
             (OUT / name).write_text("\n".join(lines) + "\n", encoding="utf-8")
