@@ -1690,6 +1690,8 @@
   - 「you can reliably collapse duplicates. No matter how rich your datasets or how cutting-edge your graph database, if you match “Acme Holdings LLC” (parent) to “Acme Corp Ltd” (subsidiary) by mistake, your risk scores, supply-chain exposure, and ESG metrics all fall like dominoes. Entity Resolution is the hinge on which the entire narrative, and any real-world compliance program, turns.」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
   - 「Many US states still hide officers, and only a slice of businesses carry LEIs. Bias can creep into machine-learning matches, and survivorship rules require human oversight. Finally, if your downstream teams ignore the golden source and keep editing records locally, duplicates will creep back. Entity resolution is a」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
   - 「compare librarian, database engineer, investigator, privacy owner and receiver. Each values a different balance between recall and mistaken identity.」（https://edukatesg.com/2026/09/05/how-entity-resolution-works/）
+  - 「機能に加えて、ファイルの欠損・重複、APIのタイムアウト、再取り込み、途中失敗からの再開も試します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「：良かった例だけでなく、失敗例や未判定例を示せる会社は、実運用の課題を説明しやすい傾向があります」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
 - 実例：
   - 「例えば、次のような顧客データが存在していたとします」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
   - 「例えば、次のようなケースを考えてみましょう」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
@@ -1775,6 +1777,8 @@
   - 「事業譲渡の登記は必要？不要なケースや例外、具体的な手続きの流れを解説」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「特に新規取引を行う際には、相手企業が実在する法人かどうかを確認するために、法人登記番号を照会するケースが少なくありません」（https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/）
   - 「なぜなら、似たような商号を持つ企業が存在するケースがあるためです」（https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/）
+- 検索結果の抜粋：
+  - 「OpenCorporates vs Companies House vs SEC EDGAR for Company ... — May 27, 2026 · OpenCorporates Role: Registry-derived company records across supported jurisdictions First-pass company verification, jurisdiction lookup, company-number checks, officer/director pivots, and public-register source discovery. Read this evidence lane against the comparison methodology and limits instead of treating any p」（https://osint4all.com/comparison/opencorporates-vs-companies-house-vs-sec-edgar-for-company-due-diligence/）
 
 ## バックキャスティングで調査を設計する（決める問いから逆算して調べる項目と確認の深さを決める）（backcasting research design hypothesis driven consulting）
 - 文脈：設計
@@ -2978,11 +2982,11 @@
 
 ## 統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり）（statistical time series break linking retropolation official statistics）
 - 文脈：突き合わせ・失敗
-- 手順・やり方：記載なし（読んだ29頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
-- 実例：記載なし（読んだ29頁・検索12回）
+- 手順・やり方：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 実例：記載なし（読んだ28頁・検索12回）
 
 ## 現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手（channel checks methodology expert interviews structured questionnaire bias）
 - 文脈：探し先・書き手

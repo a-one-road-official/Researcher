@@ -23,6 +23,8 @@
 - 株主構成：
   - 「プライム上場企業を始め4000社以上が導入する人事管理システム「カオナビ」を展開するグロース上場企業」（https://shachomeikan.jp/industry_article/2593・3回目）
   - 「全国に40拠点を展開するプライム上場企業」（https://shachomeikan.jp/industry_article/2593・3回目）
+  - 「【ダイハツグループ】ダイハツ工業100％出資の安定した基盤」（https://www.gakujo.ne.jp/campus/company/baseinfo/68585/・3回目）
+  - 「子会社の株式会社平山の改善事例を紹介します」（https://www.manufacturing-hr.com/feature/examples.html・3回目）
   - 「フジアルテスタッフサポートセンター株式会社(障がい者雇用特例子会社)」（https://fujiarte.co.jp/about/company-overview・1回目）
   - 「（障がい者雇用特例子会社）データ入力、スキャニングサービス事業」（https://fujiarte.co.jp/about/company-overview・1回目）
   - 「フジアルテスタッフサポートセンター株式会社（障がい者雇用特例子会社）設立」（https://fujiarte.co.jp/about/company-overview・1回目）
@@ -31,9 +33,8 @@
   - 「当社は、企業経営において、株主にとどまらず、従業員、取引先、顧客、債権者、地域社会をはじめとする多様なステークホルダーとの価値協創が重要となっていることを踏まえ、マルチステークホルダーとの適切な協働に取り組んでまいります」（https://fujiarte.co.jp/about/csr・1回目）
   - 「また、フジアルテグループ会社のフジアルテサポートセンターでは、障がい者特例子会社として、社会貢献に取り組んでおります」（https://fujiarte.co.jp/about/csr・1回目）
   - 「障害者特例子会社のフジアルテスタッフサポートセンター SSC」（https://fujiarte.co.jp/about/csr・1回目）
-  - 「堺市が呼び掛けているマスク等の医療物資の寄附募集の趣旨に賛同し、堺市に障がい者雇用の特例子会社を置く企業として、日頃の感謝を込めこのたびマスク、消毒液の医療物資を寄贈いたしました」（https://fujiarte.co.jp/about/csr・1回目）
-  - 「株式会社シンコムの子会社化」（https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86・3回目）
 - 創業年度：
+  - 「創業3年で国内シェアトップへ」（https://shachomeikan.jp/industry_article/2593・3回目）
   - 「創業60年の」（https://fujiarte.co.jp/・1回目）
   - 「創業100年に向け、製造業における人材ニーズにお応えするためにフジアルテは更に前に進みます」（https://fujiarte.co.jp/・1回目）
   - 「総合人材サービス業界のパイオニアとして創業以来培ってきた独自のノウハウから、厳選した事例や人材活用のポイントをご紹介します」（https://fujiarte.co.jp/・1回目）
@@ -45,7 +46,6 @@
   - 「フジアルテ株式会社設立」（https://fujiarte.co.jp/about/company-overview・1回目）
   - 「フジアルテ・ド・ブラジル（ブラジル現地法人）設立」（https://fujiarte.co.jp/about/company-overview・1回目）
   - 「フジアルテスタッフサポートセンター株式会社（障がい者雇用特例子会社）設立」（https://fujiarte.co.jp/about/company-overview・1回目）
-  - 「創業60周年」（https://fujiarte.co.jp/about/company-overview・1回目）
 - 売上・規模：
   - 「本方針は、当社内に掲示し、全従業員に周知させます」（https://fujiarte.co.jp/about/csr・1回目）
   - 「また、従業員各自の教育、啓発に努め個人情報保護意識の高揚を図ります」（https://fujiarte.co.jp/about/csr・1回目）
@@ -125,6 +125,7 @@
   - 「上場企業の「社長の右腕」となったビジネスパーソンから見る、キャリアアップのヒント」（https://shachomeikan.jp/industry_article/2593・3回目）
   - 「上場企業の「社長の右腕」として活躍されている3名のビジネスパーソン」（https://shachomeikan.jp/industry_article/2593・3回目）
 - 検索結果の抜粋：
+  - 「フジアルテ (株)【製造職コース】の採用データ | マイナビ2027 — フジアルテ (株)【製造職コース】の採用データ | マイナビ2027 マイナビ https://job.mynavi.jp > corp243657 > recruiting_course」（https://job.mynavi.jp/27/pc/search/corp243657/recruiting_course27055154/recruiting_course.html?site_preference=pc・3回目）
   - 「フジアルテ - Wikipedia — フジアルテ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > フジアルテ」（https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86・3回目）
   - 「会社概要 | 製造業の人材派遣会社なら フジアルテ — 会社概要 | 製造業の人材派遣会社なら フジアルテ フジアルテ https://fujiarte.co.jp > 会社情報」（https://fujiarte.co.jp/about/company-overview・3回目）
   - 「会社情報 - フジアルテスタッフサポートセンター株式会社 — 会社情報 - フジアルテスタッフサポートセンター株式会社 フジアルテスタッフサポートセンター株式会社 https://fujiarte-ssc.jp > information」（https://fujiarte-ssc.jp/information/・3回目）
@@ -136,9 +137,8 @@
   - 「フジアルテ 株式会社 | 専門学校の就活No.1サイト キャリアマップ — フジアルテ 株式会社 | 専門学校の就活No.1サイト キャリアマップ Careermap https://www.careermap.jp > corporations」（https://www.careermap.jp/corporations/21763・3回目）
   - 「フジアルテ (株)【総合職コース】の会社概要 | マイナビ2028 — フジアルテ (株)【総合職コース】の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp81695 > outline」（https://job.mynavi.jp/28/pc/search/corp81695/outline.html・3回目）
   - 「フジアルテ の業績・将来性・強み・弱み - エン カイシャの評判 — フジアルテ の業績・将来性・強み・弱み - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company」（https://en-hyouban.com/company/10096952335/23/・3回目）
-  - 「導入 実績 | 製造業 の人材派遣会社なら フジアルテ — 導入 実績 | 製造業 の人材派遣会社なら フジアルテ フジアルテ https://fujiarte.co.jp > results」（https://fujiarte.co.jp/results・3回目）
-- 株主：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部29頁・検索12回）
-- 許認可：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部29頁・検索12回）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部30頁・検索12回）
+- 許認可：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部30頁・検索12回）
 
 ## 日総工産株式会社
 - 公式URL：https://www.nisso.co.jp/（given）
@@ -298,10 +298,16 @@
 - 事業内容：物流・建設・製造などのエッセンシャルワーカー領域をはじめとしたHRテック事業 建設業におけるDX推進事業 M&A仲介事業（https://plex.co.jp/about/profile/・1回目）
 - 事業内容：物流・建設・製造領域におけるHRテック事業（厚生労働大臣許可番号：有料職業紹介事業 13ユ-309652）・建設業におけるDX推進事業・M&A仲介事業（https://plex.co.jp/news/ewri-report-5/・1回目）
 - 事業内容：物流・建設・製造領域におけるHRテック事業（厚生労働大臣許可番号：有料職業紹介事業13ユ-309652）・建設業におけるDX推進事業・M&A仲介事業（https://plex.co.jp/news/sakumiru-4000/・1回目）
+- 許認可：13-ユ-312160（https://remedy-tokyo.co.jp/media/3942/・3回目）
 - 代表者：黒﨑 俊（https://plex.co.jp/news/ewri-report-5/・1回目）
 - 代表者：黒﨑 俊（https://plex.co.jp/news/sakumiru-4000/・1回目）
 - 代表者：黒﨑 俊（https://plex.co.jp/news/newgraduate-recruitment-ad-2026/・1回目）
 - 株主構成：
+  - 「SMSは医療・介護・ヘルスケア領域でインフラ的なプラットフォームを構築している東証プライム上場企業です」（https://note.com/lithe_poppy8924/n/nffa61061a049・3回目）
+  - 「VCの出資を受けると、5〜7年でのEXIT(上場or売却)を求められます」（https://note.com/lithe_poppy8924/n/nffa61061a049・3回目）
+  - 「ブラウ・ファーマセウティカ、PLEX子会社への最大200万米ドルの投資を承認」（https://www.webull.co.jp/news-detail/15839011757057024・3回目）
+  - 「ブラウ・ファーマセウティカの取締役会は2026年10月28日に会合を開き、米国子会社への投資を満場一致で支持しました」（https://www.webull.co.jp/news-detail/15839011757057024・3回目）
+  - 「上場企業・PEファンドによる国内外のM&Aに従事」（https://remedy-tokyo.co.jp/media/3942/・3回目）
   - 「上智大学卒業後、2015年に株式会社エス・エム・エス（東証プライム上場）へ新卒入社」（https://plex.co.jp/about/message/・1回目）
   - 「上智大学卒業後、2015年に株式会社エス・エム・エス（東証プライム上場）へ新卒入社」（https://plex.co.jp/recruit/careeradvisor/・1回目）
   - 「M&A仲介事業立ち上げ2年目として、過去の上場記録を超える6.2億円の売上を突破」（https://plex.co.jp/recruit/biz-planning/・1回目）
@@ -309,9 +315,6 @@
   - 「上智大学卒業後、2015年に株式会社エス・エム・エス（東証プライム上場）へ新卒入社」（https://plex.co.jp/recruit/biz-planning/・1回目）
   - 「上智大学卒業後、2015年に株式会社エス・エム・エス（東証プライム上場）へ新卒入社」（https://plex.co.jp/recruit/message/・1回目）
   - 「の完全子会社で、」（https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9・3回目）
-  - 「（昭和60年）6月 - 親会社の」（https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9・3回目）
-  - 「私は、2015年に医療・介護領域の人材紹介を手がける株式会社エス・エム・エス（東証プライム上場）に新卒で入社し、2年目にウェブマーケティング、3年目に新規事業責任者を担当した後、18年に株式会社プレックスを創業し、ドライバーの人材紹介事業を始めました」（https://hrbc.porters.jp/magazine/special_detail/id=1412・3回目）
-  - 「上智大学卒業後、2015年に株式会社エス・エム・エス(東証プライム上場)へ入社」（https://hrbc.porters.jp/magazine/special_detail/id=1412・3回目）
 - 創業年度：
   - 「エッセンシャルワーカー採用研究所は、物流・建設・製造・介護など基幹産業の採用課題に向き合うために、株式会社プレックスが2026年7月に設立した専門機関です」（https://plex.co.jp/news/ewri-report-5/・1回目）
   - 「設立日 ：2018年4月9日」（https://plex.co.jp/news/ewri-report-5/・1回目）
@@ -339,6 +342,10 @@
   - 「【資金調達ゼロで売上90億超】建設現場のDXを推進する急成長ベンチャーの挑戦 | プレックスSaaS事業部 CTO 石見 優丞」（https://plex.co.jp/about/philosophy/・1回目）
   - 「【資金調達ゼロで売上90億超】建設現場のDXを推進する急成長ベンチャーの挑戦 | プレックスSaaS事業部 CTO 石見 優丞」（https://plex.co.jp/about/ways-we-work/・1回目）
 - 料金：
+  - 「・資本金:500万円(増資せずノンエクイティで成長)」（https://note.com/lithe_poppy8924/n/nffa61061a049・3回目）
+  - 「M&A仲介事業部では、1億円作るとおおよそ2,000万円〜2,500万円のレンジになります」（https://remedy-tokyo.co.jp/media/3942/・3回目）
+  - 「2億円ですと5,500万円〜6,500万円のレンジになっています」（https://remedy-tokyo.co.jp/media/3942/・3回目）
+  - 「3億円になると、9,000万円〜1.2億円ほどのレンジになるため、夢の1億円プレイヤーです」（https://remedy-tokyo.co.jp/media/3942/・3回目）
   - 「完全成功報酬型の」（https://plex.co.jp/・1回目）
   - 「最高年収は1,700万円」（https://plex.co.jp/recruit/careeradvisor/・1回目）
   - 「最高年収は1,700万円、上位10％の平均年収も876万円」（https://plex.co.jp/recruit/careeradvisor/・1回目）
@@ -347,23 +354,19 @@
   - 「役割を限定せず、集客・商品設計・価格戦略・オペレーション改善まで、事業のあらゆる変数を扱います」（https://plex.co.jp/recruit/biz-planning/・1回目）
   - 「歓迎会費用補助制度」（https://plex.co.jp/recruit/biz-planning/・1回目）
   - 「達成会費用補助制度」（https://plex.co.jp/recruit/biz-planning/・1回目）
-  - 「たとえば、入社1年で100万円以上昇給した例や、20代で年収1,000万円以上を実現しているメンバーもいます」（https://plex.co.jp/recruit/biz-planning/・1回目）
-  - 「使いやすいシンプルな操作性に加え、20名で使っても月額9,800円（税別）からという圧倒的なコストパフォーマンスで、建設業のDXを支援しています」（https://plex.co.jp/news/sakumiru-4000/・1回目）
-  - 「基本料金（9,800円～）の中でAI機能を十分にお使いいただけますので、下記よりお問い合わせ頂けると嬉しいです」（https://plex.co.jp/news/sakumiru-estimate-ai/・1回目）
-  - 「使いやすいシンプルな操作性に加え、20名で使っても月額9,800円（税別）からという圧倒的なコストパフォーマンスの良さで、建設業のDXを支援しています」（https://plex.co.jp/news/sakumiru-estimate-ai/・1回目）
 - 製造業の顧客：
   - 「多品種少量生産メーカー向けMES（製造実行システム）3選」（https://www.mes-magazine.com/mes-system/plex-mes.html・3回目）
   - 「制御システムも含め、工場全体を」（https://www.mes-magazine.com/mes-system/plex-mes.html・3回目）
   - 「従来の紙やExcelの運用から、デジタルへ移行するのを阻むさまざまな課題を解消するため、ITツールに不慣れでも使いやすい操作性を実現し、顧客の要望に応じて、スピーディーに機能のアップデートを繰り返してきたことが、サクミルが選ばれている理由の一つだと思います」（https://hrbc.porters.jp/magazine/special_detail/id=1412・3回目）
   - 「セールスやカスタマーサクセスのメンバーが、クライアント企業との中長期的な信頼関係を築き、顧客の要望を集め、それを適宜社内に共有して連携を図っているため、ニーズに合った迅速な機能開発が可能です」（https://hrbc.porters.jp/magazine/special_detail/id=1412・3回目）
+  - 「■ 傘下事業の連動 ── 同じ顧客に何度も売れる構造」（https://note.com/lithe_poppy8924/n/nffa61061a049・3回目）
+  - 「プレックスのビジネス構造の核心は、SMSと同じく「同じ顧客プールに、性質の違う複数のサービスを連続して売り続けられる」という設計にあります」（https://note.com/lithe_poppy8924/n/nffa61061a049・3回目）
+  - 「つまり、1社の顧客との関係が、人材紹介→SaaS→M&Aと連続的に複数の収益機会を生み続ける構造になっています」（https://note.com/lithe_poppy8924/n/nffa61061a049・3回目）
+  - 「既存の人材事業や物流業界、製造業、建設業でのご経験が活きている部分もあるのでしょうか？」（https://remedy-tokyo.co.jp/media/3942/・3回目）
+  - 「この段階で自己研鑽しながら顧客に価値を提供したいという方には、経験豊富な社員の話を聞く機会があります」（https://remedy-tokyo.co.jp/media/3942/・3回目）
   - 「製造業の人材紹介サービス」（https://plex.co.jp/・1回目）
   - 「顧客に向き合いながら、提供価値を広げ、いまも急成長を続けています」（https://plex.co.jp/about/・1回目）
   - 「製造業の人材紹介サービス」（https://plex.co.jp/about/・1回目）
-  - 「顧客が本当に必要としている価値を深く理解し、考え抜く」（https://plex.co.jp/about/philosophy/・1回目）
-  - 「顧客の成功を第一に考え、その価値が最大化されることで、」（https://plex.co.jp/about/philosophy/・1回目）
-  - 「製造業の人材紹介サービス」（https://plex.co.jp/about/philosophy/・1回目）
-  - 「顧客の課題は「自分の課題」です」（https://plex.co.jp/about/ways-we-work/・1回目）
-  - 「成果の源泉は、どれだけ本気で顧客の成功に向き合えるかにあります」（https://plex.co.jp/about/ways-we-work/・1回目）
 - 売り方：
   - 「実際に、新規事業のマネージャー、法人営業職、人事の採用担当などへとキャリアを広げ、今も第一線で活躍しているメンバーがいます」（https://plex.co.jp/recruit/careeradvisor/・1回目）
   - 「いまだ人材紹介が十分に浸透していない業界が多いからこそ、」（https://plex.co.jp/recruit/careeradvisor/・1回目）
@@ -408,17 +411,16 @@
   - 「プレックスは売上96.1億を達成しました！！8期連続での黒字 ... — プレックスは売上96.1億を達成しました！！8期連続での黒字 ... X https://x.com > @shunkurosaki」（https://x.com/shunkurosaki/status/2046757319107895330・3回目）
   - 「Plex MES | NSWのデジタルトランスフォーメーション DX ... — Plex MES | NSWのデジタルトランスフォーメーション DX ... NSW株式会社 https://dx.nsw.co.jp > solution > smart-factory > plex」（https://dx.nsw.co.jp/solution/smart-factory/plex/・3回目）
   - 「Plex とは何か、そしてストリーミングでどのように機能するか？ — Plex とは何か、そしてストリーミングでどのように機能するか？ Proton VPN https://protonvpn.com > blog > plex-streaming-app」（https://protonvpn.com/ja/blog/plex-streaming-app?srsltid=AYCX9vKL7DLwR88W2nvstPnXrYdpqrrRPxGgclqcMPsoVp6Jo7LdEpjz・3回目）
-  - 「プレックス - Wikipedia — プレックス - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > プレックス」（https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9・3回目）
-  - 「会社概要 - 株式会社プレックス — 会社概要 - 株式会社プレックス 株式会社プレックス https://plex.co.jp > 企業情報」（https://plex.co.jp/about/profile/・3回目）
-  - 「About - Plex — About - Plex Plex https://www.plex.tv > about」（https://www.plex.tv/about/・3回目）
-  - 「Streaming media company Plex raises $40M as it nears ... — Streaming media company Plex raises $40M as it nears ... TechCrunch https://techcrunch.com > 2024/01/29」（https://techcrunch.com/2024/01/29/streaming-media-company-plex-raises-new-funds-as-it-nears-profitability/・3回目）
-  - 「創業 8年で20事業、売上96億円まで成長したプレックス — 創業 8年で20事業、売上96億円まで成長したプレックス 株式会社プレックス https://plex.co.jp > ニュース」（https://plex.co.jp/news/internship/・3回目）
-  - 「ここにいれば、家にいるようなものです。 - Plex — ここにいれば、家にいるようなものです。 - Plex Plex https://www.plex.tv > about」（https://www.plex.tv/ja/about/・3回目）
-  - 「Plex - Wikipedia — Plex - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Plex」（https://en.wikipedia.org/wiki/Plex・3回目）
-  - 「plex って何？初心者にもわかるように説明してほしいです。 — plex って何？初心者にもわかるように説明してほしいです。 Reddit https://www.reddit.com > PleX > comments > what_is_ple...」（https://www.reddit.com/r/PleX/comments/x9saks/what_is_plex_please_explain_for_layman/?tl=ja・3回目）
-- 株主：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部34頁・検索12回）
-- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部34頁・検索12回）
-- 許認可：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部34頁・検索12回）
+  - 「PLEX 子会社への最大200万米ドルの投資を承認 - ウィブル証券 — PLEX 子会社への最大200万米ドルの投資を承認 - ウィブル証券 ウィブル証券 https://www.webull.co.jp > news-detail」（https://www.webull.co.jp/news-detail/15839011757057024・3回目）
+  - 「ファンプレックス、 親会社 グリーよりライセンス事業と ... — ファンプレックス、 親会社 グリーよりライセンス事業と ... gamebiz【ゲームビズ】 https://gamebiz.jp > news」（https://gamebiz.jp/news/296533・3回目）
+  - 「企業情報 | 株式会社プレックス — 企業情報 | 株式会社プレックス 株式会社プレックス https://plex.co.jp > about」（https://plex.co.jp/about/・3回目）
+  - 「プレックス - 百度百科 — プレックス - 百度百科 百度百科 https://baike.baidu.com > item > プレックス」（https://baike.baidu.com/ja/item/%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9/3665808・3回目）
+  - 「株式会社プレックスの事業とカルチャー - Wantedly — 株式会社プレックスの事業とカルチャー - Wantedly Wantedly https://www.wantedly.com > ... > 株式会社プレックス」（https://www.wantedly.com/companies/plex/about・3回目）
+  - 「創業8年で20事業、売上96億円まで成長したプレックス — 創業8年で20事業、売上96億円まで成長したプレックス PR TIMES https://prtimes.jp > その他」（https://prtimes.jp/main/html/rd/p/000000052.000048655.html・3回目）
+  - 「サイダーメーカが Plex で画期的な成果を達成 — サイダーメーカが Plex で画期的な成果を達成 Rockwell Automation https://www.rockwellautomation.com > ... > ケーススタディ」（https://www.rockwellautomation.com/ja-jp/company/news/case-studies/beverage-mes-traceability.html・3回目）
+  - 「Moldtech社は Plex Smart Manufacturing Platformで時間 ... — Moldtech社は Plex Smart Manufacturing Platformで時間 ... Rockwell Automation https://www.rockwellautomation.com > ... > ケーススタディ」（https://www.rockwellautomation.com/ja-jp/company/news/case-studies/moldtech-plex-efficiency.html・3回目）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部36頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部36頁・検索12回）
 
 ## 株式会社R4
 - 公式URL：https://www.r-4.co.jp/（given）
@@ -460,6 +462,7 @@
   - 「株式会社R4（アールフォー）という社名は、創業メンバーであるリクルート出身の4人が中心となって立ち上げたことに由来しています」（https://winc-career.jp/president-id0183/・3回目）
 - 売上・規模：
   - 「キーボードの製品名や競馬の予想、中学受験の偏差値など、幅広い分野の記事が集まっています」（https://note.com/tag/R4・3回目）
+  - 「RENTA 4 BANCO SA – BME:R4の売上高内訳 – TradingView」（https://jp.tradingview.com/symbols/BME-R4/financials-segments/・3回目）
   - 「数名から数十名の規模もあれば、」（https://www.r-4.co.jp/・1回目）
   - 「数百名や数千名規模になることもあります」（https://www.r-4.co.jp/・1回目）
   - 「愛知県名古屋市中区栄2-9-26 ポーラ名古屋ビル 3F」（https://www.r-4.co.jp/company/・1回目）
@@ -470,7 +473,6 @@
   - 「〒460-0008 愛知県名古屋市中区栄 2-9-26 ポーラ名古屋ビル3F」（https://www.r-4.co.jp/recruit/company/・1回目）
   - 「〒460-0008 愛知県名古屋市中区栄2-9-26 ポーラ名古屋ビル4F」（https://www.r-4.co.jp/recruit/company/・1回目）
   - 「愛知県名古屋市中区栄2-9-26 ポーラ名古屋ビル 3F」（https://www.r-4.co.jp/recruit/company/・1回目）
-  - 「【2024年度】 採用者数：0名」（https://www.r-4.co.jp/recruit/company/・1回目）
 - 料金：
   - 「1000万円」（https://www.r-4.co.jp/company/・1回目）
   - 「1000万円」（https://www.r-4.co.jp/recruit/company/・1回目）
@@ -549,7 +551,7 @@
   - 「(株) R4 の新卒採用・会社概要 | マイナビ2027 — (株) R4 の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp289840 > outline」（https://job.mynavi.jp/27/pc/search/corp289840/outline.html・3回目）
   - 「R4 株式会社｜人を増やさず収益を伸ばす、AI時代の事業運営 ... — R4 株式会社｜人を増やさず収益を伸ばす、AI時代の事業運営 ... r4-corp.com https://r4-corp.com」（https://r4-corp.com/・3回目）
   - 「財務応援 R4 Liteの よくあるご質問（FAQ）検索結果 - エプソン — 財務応援 R4 Liteの よくあるご質問（FAQ）検索結果 - エプソン エプソン ホームページ https://faq.r4support.epson.jp > 売上高が知りたい > page」（https://faq.r4support.epson.jp/app/answers/list/kw/%E5%A3%B2%E4%B8%8A%E9%AB%98%E3%81%8C%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84/p/23/page/1・3回目）
-- 株主：記載なし（3回確認済み：公式13頁／PDF・画像0件／外部32頁・検索12回）
+- 株主：記載なし（3回確認済み：公式13頁／PDF・画像0件／外部33頁・検索12回）
 
 ## 株式会社nCore
 - 公式URL：https://ncore.co.jp/（given）
@@ -929,6 +931,7 @@
   - 「経理代行・ アウトソーシング導入事例 厳選5社を紹介！課題 ... — 経理代行・ アウトソーシング導入事例 厳選5社を紹介！課題 ... タクシタ https://go.taxita.com > ... > 経理」（https://go.taxita.com/column/accounting021/・3回目）
   - 「給与計算の アウトソーシング （代行・外注）の内容と 料金 — 給与計算の アウトソーシング （代行・外注）の内容と 料金 なかの経営労務事務所 https://www.nkr-office.com > works3」（https://www.nkr-office.com/works3/・3回目）
   - 「人材派遣・ アウトソーシング のご成約 インタビュー 一覧 | M&A ... — 人材派遣・ アウトソーシング のご成約 インタビュー 一覧 | M&A ... 株式会社ストライク https://www.strike.co.jp > 人材派遣・アウトソーシング」（https://www.strike.co.jp/case/interviews/categories/%E4%BA%BA%E6%9D%90%E6%B4%BE%E9%81%A3%E3%83%BB%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0.html・3回目）
+  - 「日本エンジニアリング アウトソーシング 協会 - NEOA — 日本エンジニアリング アウトソーシング 協会 - NEOA 一般社団法人 NEOA https://www.neoa.or.jp > guide > purpose」（https://www.neoa.or.jp/guide/purpose.html・3回目）
   - 「アウトソーシング がMBO、米ベインキャピタルと 1株1755円で — アウトソーシング がMBO、米ベインキャピタルと 1株1755円で 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOUC07C3D0X01C23A2000000/・3回目）
   - 「アウトソーシング グループ、新ブランド「BREXA」として始動 — アウトソーシング グループ、新ブランド「BREXA」として始動 株式会社BREXA Holdings https://www.brexa.com > リリース」（https://www.brexa.com/news/1646/・3回目）
   - 「株主 変更のお知らせ | OTS 株式会社 アウトソーシング トータル ... — 株主 変更のお知らせ | OTS 株式会社 アウトソーシング トータル ... OTS 株式会社アウトソーシングトータルサポート https://www.ots.co.jp > news」（https://www.ots.co.jp/news/2025/1223.html・3回目）
@@ -936,7 +939,6 @@
   - 「沿革 | OTS 株式会社 アウトソーシング トータルサポート — 沿革 | OTS 株式会社 アウトソーシング トータルサポート OTS 株式会社アウトソーシングトータルサポート https://www.ots.co.jp > company > history」（https://www.ots.co.jp/company/history/・3回目）
   - 「沿革 - アウトソーシング — 沿革 - アウトソーシング outsourcing.co.jp https://www.outsourcing.co.jp > company > history」（https://www.outsourcing.co.jp/company/history・3回目）
   - 「アウトソーシング 会社起業について — アウトソーシング 会社起業について profile.dreamgate.gr.jp https://profile.dreamgate.gr.jp > QaItems > detail」（https://profile.dreamgate.gr.jp/QaItems/detail/1371・3回目）
-  - 「(株) アウトソーシング 【東証一部上場】の2027年度会社概要 — (株) アウトソーシング 【東証一部上場】の2027年度会社概要 マイナビ https://job.mynavi.jp > search > corp104249 > outline」（https://job.mynavi.jp/28/pc/search/corp104249/outline.html・3回目）
 - 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）
 - 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）
 - 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）
@@ -1006,8 +1008,8 @@
   - 「全国50以上ある拠点からエリア・業界・国籍を問わず豊富な人材を提案できる点が強みです」（https://strate.biz/talentdispatch/willof-work/・3回目）
   - 「派遣管理には給与計算や社会保険の手続き、従業員の入退社手続きなどさまざまな業務があります」（https://strate.biz/talentdispatch/willof-work/・3回目）
   - 「既に各部署全体で約40名の方が介護に従事しており大変助かっております」（https://lps.willof-work.co.jp/care_recruit/・3回目）
-  - 「約85万人登録者に加えて年間500名以上の正社員人材を採用し、全国50以上ある拠点で様々な事業を展開」（https://willof-work.co.jp/・1回目）
-  - 「売上高（億円）」（https://willof-work.co.jp/・1回目）
+  - 「RJソーシャルケア東京(株)／RJソーシャルケア名古屋(株)」（https://job.mynavi.jp/28/pc/search/corp220143/outline.html・3回目）
+  - 「製造業のための従業員エンゲージメント向上ガイド」（https://pr.mono.ipros.com/willof-work/product/detail/2001562027/・3回目）
 - 料金：
   - 「ウィルオブは求職者の方からは一切費用をいただいておりません」（https://willof.jp/・3回目）
   - 「ウィルオブ・ワークの料金･口コミ･評判について – ITツール･Webサービス比較サイト| STRATE[ストラテ]」（https://strate.biz/talentdispatch/willof-work/・3回目）
@@ -1473,49 +1475,53 @@
 
 ## 株式会社ネオキャリア
 - 公式URL：https://www.neo-career.co.jp/（given）
-- 創業年度：設立：2000年11月（https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2・3回目）
-- 創業年度：設立：2000年11月15日（https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2・3回目）
-- 創業年度：設立：2000年11月15日（https://job.mynavi.jp/27/pc/search/corp68756/outline.html・3回目）
-- 資本金：100百万円（https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2・3回目）
-- 資本金：1億円（https://job.mynavi.jp/27/pc/search/corp68756/outline.html・3回目）
+- 創業年度：設立：2000年11月（https://www.lmi.ne.jp/news/release/detail.php?id=722・3回目）
+- 創業年度：設立：2000年11月15日（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
+- 創業年度：設立：2000年 11月（https://www.jesra.or.jp/search/1339/・3回目）
+- 資本金：100,000,000円（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
+- 資本金：資本金：36,238万円（https://www.jesra.or.jp/search/1339/・3回目）
+- 資本金：36,238万円（https://www.jesra.or.jp/search/1339/・3回目）
 - 従業員数：100～299名（https://www.neo-career.co.jp/humanresource/・1回目）
 - 従業員数：3000名～（https://www.neo-career.co.jp/humanresource/・1回目）
 - 従業員数：100～299名（https://www.neo-career.co.jp/humanresource/middlecareer/directrecruiting/・1回目）
+- 売上高：508億円 （2024年2月度） [ 3 ]（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
+- 売上高：524億円（2025年2月期）（https://job.mynavi.jp/28/pc/search/corp68756/outline.html・3回目）
 - 売上高：524億円（2025年2月期）（https://job.mynavi.jp/27/pc/search/corp68756/outline.html・3回目）
 - 事業内容：採用支援、就労支援、業務支援（https://www.neo-career.co.jp/news/article_26481/・1回目）
 - 事業内容：採用支援、就労支援、業務支援（https://www.neo-career.co.jp/news/article_26468/・1回目）
-- 事業内容：新卒・（https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2・3回目）
-- 許認可：◆一般労働者派遣許可：許可番号 派13-070366 ・有効期間の終期：2029年1月31日 ◆待遇決定方式：労使協定方式 ・対象となる労働者の範囲：派遣スタッフ（有期・無期）、外勤正規従業員 ・有効期間の終期：2025年3月31日 ◆有料職業紹介事業許可：許可番号 13-ユ-070309 ・有効期間の終期：2029年1月31日 ◆プライバシーマーク認定：10860758(10)（https://job.mynavi.jp/27/pc/search/corp68756/outline.html・3回目）
-- 許認可：許可番号 派13-070366（https://job.mynavi.jp/27/pc/search/corp68756/outline.html・3回目）
-- 許認可：許可番号 13-ユ-070309（https://job.mynavi.jp/27/pc/search/corp68756/outline.html・3回目）
+- 事業内容：1. 求人広告代理業（https://www.lmi.ne.jp/news/release/detail.php?id=722・3回目）
+- 許認可：13-ユ-070309（https://www.jesra.or.jp/search/1339/・3回目）
+- 許認可：◆一般労働者派遣許可：許可番号 派13-070366 ・有効期間の終期：2029年1月31日 ◆待遇決定方式：労使協定方式 ・対象となる労働者の範囲：派遣スタッフ（有期・無期）、外勤正規従業員 ・有効期間の終期：2025年3月31日 ◆有料職業紹介事業許可：許可番号 13-ユ-070309 ・有効期間の終期：2029年1月31日 ◆プライバシーマーク認定：10860758(10)（https://job.mynavi.jp/28/pc/search/corp68756/outline.html・3回目）
+- 許認可：許可番号 派13-070366（https://job.mynavi.jp/28/pc/search/corp68756/outline.html・3回目）
 - 代表者：代表取締役CEO 西澤 亮一（https://www.neo-career.co.jp/news/article_26481/・1回目）
 - 代表者：代表取締役CEO 西澤 亮一（https://www.neo-career.co.jp/news/article_26468/・1回目）
+- 代表者：代表取締役 西澤亮一（https://www.lmi.ne.jp/news/release/detail.php?id=722・3回目）
 - 株主構成：
-  - 「障がいのある方も安心して働くことができ、キャリア形成ができる特例子会社として、様々なアウトソーシングサービスを手掛けています」（https://www.neo-career.co.jp/company/group/・1回目）
-  - 「子会社 株式会社アクサスコンサルティングジャパン（現：アクサス株式会社）を設立」（https://www.neo-career.co.jp/company/history/・1回目）
-  - 「子会社 株式会社就活カレッジ（現：新卒紹介事業「就職エージェントNeo」）を設立」（https://www.neo-career.co.jp/company/history/・1回目）
-  - 「子会社「株式会社就活カレッジ」を「株式会社ネオキャリア」に統合」（https://www.neo-career.co.jp/company/history/・1回目）
-  - 「子会社「株式会社アクサスコンサルティングジャパン」と「株式会社コスモ・サイエンティフィック・システム」が事業統合をし、「アクサス株式会社」に社名変更」（https://www.neo-career.co.jp/company/history/・1回目）
-  - 「子会社「株式会社ネオコンストラクション（施工管理職を中心とした技術者派遣）」を設立」（https://www.neo-career.co.jp/company/history/・1回目）
-  - 「子会社「株式会社OA総研（サービス付き高齢者向/け住宅及び訪問介護・看護事業所の運営）」を設立」（https://www.neo-career.co.jp/company/history/・1回目）
-  - 「子会社「株式会社digsy（障がい者雇用をすすめる特例子会社）」を設立」（https://www.neo-career.co.jp/company/history/・1回目）
-  - 「障がいのある方も安心して働くことができ、キャリア形成ができる特例子会社として、様々なアウトソーシングサービスを手掛けています」（https://www.neo-career.co.jp/recruit/newgrads/・1回目）
-  - 「未上場企業等に特化して気になる決算公告を収集し自分用に保管している倉庫」（https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2・3回目）
-  - 「売上高524億円という規模は、未上場の人材系企業としてはトップクラスです」（https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2・3回目）
-  - 「上場企業の有価証券報告書から人的資本開示・組織戦略を徹底分析」（https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2・3回目）
+  - 「【案件報告】「株式会社ネオキャリア」への出資のお知らせ ｜ ニュースリリース ｜ Link and Motivation Inc. 株式会社リンクアンドモチベーション」（https://www.lmi.ne.jp/news/release/detail.php?id=722・3回目）
+  - 「【案件報告】「株式会社ネオキャリア」への出資のお知らせ」（https://www.lmi.ne.jp/news/release/detail.php?id=722・3回目）
+  - 「経営コンサルティングの株式会社リンクアンドモチベーション（以下 LM）は、2014年11月13日に締結した出資に関する基本合意書に基づき、株式会社ネオキャリア（代表取締役 西澤亮一 本社：東京都新宿区）の第三者割当増資を引き受け、2014年12月12日付で同社に出資いたしました」（https://www.lmi.ne.jp/news/release/detail.php?id=722・3回目）
+  - 「2007年に東京証券取引所市場第二部に上場、2008年に市場第一部に指定換えを受け、現在は法人向けビジネス部門と、個人向けコンシューマー部門（PCスクール「AVIVA」、資格スクール「DAIEI」の運営等）の2つのセグメントで事業を推進しています」（https://www.lmi.ne.jp/news/release/detail.php?id=722・3回目）
+  - 「そのような背景からインキュベーション推進室を設置し、出資を通じて投資先企業の価値向上をはかるサービスを実施しております」（https://www.lmi.ne.jp/news/release/detail.php?id=722・3回目）
+  - 「今回の出資では、株式会社ネオキャリアの掲げる」（https://www.lmi.ne.jp/news/release/detail.php?id=722・3回目）
+  - 「7月 - 子会社 株式会社アクサスコンサルティングジャパン（現：アクサス株式会社）を設立」（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
+  - 「子会社 株式会社就活カレッジ（現：新卒紹介事業「就職エージェント」）設立」（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
+  - 「子会社 株式会社就活カレッジを株式会社ネオキャリアに統合」（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
+  - 「子会社 株式会社アクサスコンサルティングジャパンと株式会社コスモ・サイエンティフィック・システムが事業統合をし、アクサス株式会社に社名変更」（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
+  - 「子会社「株式会社ネオコンストラクション（施工管理職を中心とした技術者派遣）」を設立」（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
+  - 「子会社「株式会社OA総研（サービス付き高齢者向け住宅及び訪問介護・看護事業所の運営）」を設立」（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
 - 創業年度：
   - 「【1日密着】野村證券→アサイン創業5人目の採用責任者！新卒採用責任者のしごと／アサイン」（https://www.youtube.com/watch?v=A7H-IIGtreA・3回目）
-  - 「2000年の創業以来、一貫して人材ビジネスを中心に事業を拡大しています」（https://www.neo-career.co.jp/・1回目）
-  - 「2000年の創業当時、人材ビジネスの経験が全くなかった私たちは、「成長し続ける」という思想のもと、お客様の成長に繋がるサービスを提供し続けるにこだわり続け、」（https://www.neo-career.co.jp/about/ceo-message/・1回目）
-  - 「同年11月、株式会社ネオキャリアを共同設立し取締役に就任」（https://www.neo-career.co.jp/company/company-outline/・1回目）
-  - 「同年11月、株式会社ネオキャリアを共同設立し取締役に就任」（https://www.neo-career.co.jp/company/officers/・1回目）
-  - 「2000年11月15日 株式会社ネオキャリアを設立」（https://www.neo-career.co.jp/company/history/・1回目）
-  - 「子会社 株式会社アクサスコンサルティングジャパン（現：アクサス株式会社）を設立」（https://www.neo-career.co.jp/company/history/・1回目）
-  - 「子会社 株式会社就活カレッジ（現：新卒紹介事業「就職エージェントNeo」）を設立」（https://www.neo-career.co.jp/company/history/・1回目）
-  - 「初の海外法人「Reeracoen Singapore Pte.Ltd.（シンガポール現地法人）」を設立」（https://www.neo-career.co.jp/company/history/・1回目）
-  - 「海外法人「REERACOEN RECRUITMENT CO.,LTD.（タイ現地法人）」を設立」（https://www.neo-career.co.jp/company/history/・1回目）
-  - 「海外法人「PT.REERACOEN INDONESIA（インドネシア現地法人）」を設立」（https://www.neo-career.co.jp/company/history/・1回目）
-  - 「海外法人「REERACOEN BPO INC.（フィリピン現地法人）」を設立」（https://www.neo-career.co.jp/company/history/・1回目）
+  - 「株式会社ネオキャリアは、2000年設立の総合人材サービス会社です」（https://www.lmi.ne.jp/news/release/detail.php?id=722・3回目）
+  - 「当社は、2000年に創業以来、採用支援・人材育成・風土変革等、組織人事に関するワンストップコンサルティングをクライアントに提供することで成長してまいりました」（https://www.lmi.ne.jp/news/release/detail.php?id=722・3回目）
+  - 「設立：2000年11月」（https://www.lmi.ne.jp/news/release/detail.php?id=722・3回目）
+  - 「2000年11月15日 株式会社ネオキャリアを設立」（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
+  - 「7月 - 子会社 株式会社アクサスコンサルティングジャパン（現：アクサス株式会社）を設立」（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
+  - 「子会社 株式会社就活カレッジ（現：新卒紹介事業「就職エージェント」）設立」（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
+  - 「海外法人「REERACOEN SHANGHAI＜HRS＞（中国現地法人）」を設立」（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
+  - 「現地法人 現・Agensi Pekerjaan Reeracoen Malaysia Sdn. Bhd.）」を設立」（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
+  - 「海外法人「ABROADERS Co., Ltd.（タイ現地法人）」を設立」（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
+  - 「海外法人「REERACOEN (SHANGHAI) HUMAN RESOURCE SERVICE CO.,LTD.(中国現地法人）」を設立」（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
+  - 「子会社「株式会社ネオコンストラクション（施工管理職を中心とした技術者派遣）」を設立」（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
 - 売上・規模：
   - 「本資料は、2026年に3月に10名以上の施工管理職の採用をした採用担当者102名への調査結果をまとめ...」（https://www.neo-career.co.jp/humanresource/middlecareer/other/・1回目）
   - 「本資料は、2025年に10名以上の未経験エンジニアを採用した企業111社への調査結果をまとめています...」（https://www.neo-career.co.jp/humanresource/middlecareer/other/・1回目）
@@ -1543,6 +1549,8 @@
   - 「育休復職者のみならず、入社時・転居などで認可外保育所を利用する際に、認可保育所との保育料の差額を月額50,000円まで負担」（https://job.mynavi.jp/27/pc/search/corp68756/outline.html・3回目）
   - 「平均年収 +113万円」（https://note.com/jazzy_snipe8884/n/n46662ae9d5ae・3回目）
 - 製造業の顧客：
+  - 「その当時「目標を定めない方が良いのではないか」「顧客満足より社員第一にした方が良いのではないか」というような声が社内から聞こえ始め、私自身も経営に自信が持てず迷っていたのです」（https://sogyotecho.jp/neo-career-1/・3回目）
+  - 「erver：加入者認証や顧客管理業務に必要な重要なネットワーク装置）等、通信サービスを営むにあたって重要な機能はMNOからお借りしています」（https://note.com/jci_digital_note/n/n8c102f57eb67・3回目）
   - 「大手メーカーを中心に、機電系案件の派遣サービス」（https://www.neo-career.co.jp/services/services-business/・1回目）
   - 「新規営業や休眠顧客の追いかけなど、お客様の課題に合わせてご提案いたします」（https://www.neo-career.co.jp/services/services-facility/・1回目）
   - 「【導入事例6選】ワンキャリアの効果的な活用方法・料金・プラン選びを徹底解説」（https://www.neo-career.co.jp/humanresource/・1回目）
@@ -1553,8 +1561,6 @@
   - 「製造メーカー」（https://www.neo-career.co.jp/humanresource/middlecareer/・1回目）
   - 「製造メーカー」（https://www.neo-career.co.jp/humanresource/newgrad/・1回目）
   - 「製造メーカー」（https://www.neo-career.co.jp/humanresource/parttime/・1回目）
-  - 「8年連続顧客満足度No.1」（https://www.neo-career.co.jp/humanresource/service-list/・1回目）
-  - 「製造メーカー」（https://www.neo-career.co.jp/humanresource/service-list/・1回目）
 - 売り方：
   - 「MOCHICAをより多くのお客様に使っていただけるよう、フィールドセールスのマネージャーとしてマネジメントをしながら新規営業に携わっています」（https://www.neo-career.co.jp/recruit/newgrads/・1回目）
   - 「一例ですが、部署間でのミーティングを強化したり、オンラインセミナーの開催など新たな施策を開始するといった取り組みを行った結果、徐々に盛り返すことができました」（https://www.neo-career.co.jp/recruit/newgrads/・1回目）
@@ -1597,17 +1603,17 @@
 - 検索結果の抜粋：
   - 「株式会社 ネオキャリア - en-courage — 株式会社 ネオキャリア - en-courage en-courage https://app.en-courage.com > companies」（https://app.en-courage.com/companies/01GHZ0YSW7DFT62HAWYJA3VTMQ?locale=ja・3回目）
   - 「株式会社 ネオキャリア の評判・ 料金 ・特徴 — 株式会社 ネオキャリア の評判・ 料金 ・特徴 eigyoudaikou-insidesales.com https://www.eigyoudaikou-insidesales.com > neo-career」（https://www.eigyoudaikou-insidesales.com/neo-career・3回目）
-  - 「株式会社 ネオキャリア の企業情報 - バフェット・コード — 株式会社 ネオキャリア の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company」（https://www.buffett-code.com/company/f8gn3ypay9/・3回目）
-  - 「会社概要 - neo career - ネオキャリア — 会社概要 - neo career - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > 企業情報」（https://www.neo-career.co.jp/company/company-outline/・3回目）
-  - 「グループ会社 - neo career - ネオキャリア — グループ会社 - neo career - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > 企業情報」（https://www.neo-career.co.jp/company/group/・3回目）
-  - 「株式会社 ネオキャリア - スピーダ スタートアップ情報リサーチ — 株式会社 ネオキャリア - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-16070・3回目）
-  - 「【案件報告】「株式会社 ネオキャリア 」への 出資 のお知らせ — 【案件報告】「株式会社 ネオキャリア 」への 出資 のお知らせ リンクアンドモチベーション https://www.lmi.ne.jp > news > release > detail」（https://www.lmi.ne.jp/news/release/detail.php?id=722・3回目）
-  - 「沿革・受賞歴 - neo career - ネオキャリア — 沿革・受賞歴 - neo career - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > 企業情報」（https://www.neo-career.co.jp/company/history/・3回目）
-  - 「代表メッセージ - neo career - ネオキャリア — 代表メッセージ - neo career - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > NEO Career について」（https://www.neo-career.co.jp/about/ceo-message/・3回目）
-  - 「ネオキャリア 西澤 亮一 - 創業手帳 — ネオキャリア 西澤 亮一 - 創業手帳 創業手帳株式会社 https://sogyotecho.jp > 起業 > 起業家インタビュー」（https://sogyotecho.jp/neo-career-1/・3回目）
-  - 「数字で見る ネオキャリア — 数字で見る ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > recruit > company > data」（https://www.neo-career.co.jp/recruit/company/data/・3回目）
-  - 「#7900 決算分析 : 株式会社 ネオキャリア 第25期決算 当期純 ... — #7900 決算分析 : 株式会社 ネオキャリア 第25期決算 当期純 ... 決算公告データ倉庫 https://ryo-nakamura1.hatenablog.jp > entry > 2025/12/31」（https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2・3回目）
-- 株主：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部24頁・検索12回）
+  - 「【株式譲渡および事業譲渡に関するお知らせ】グループ子会社 ... — 【株式譲渡および事業譲渡に関するお知らせ】グループ子会社 ... 株式会社ネオキャリア https://www.neo-career.co.jp > ニュース > プレスリリース」（https://www.neo-career.co.jp/news/article_25311/・3回目）
+  - 「ネオキャリア - Wikipedia — ネオキャリア - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > ネオキャリア」（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
+  - 「株式会社 ネオキャリア - 一般社団法人 日本人材紹介事業協会 — 株式会社 ネオキャリア - 一般社団法人 日本人材紹介事業協会 一般社団法人 日本人材紹介事業協会 https://www.jesra.or.jp > 会員企業検索」（https://www.jesra.or.jp/search/1339/・3回目）
+  - 「ネオキャリア は2020年 20周年を迎えます！ - neo career — ネオキャリア は2020年 20周年を迎えます！ - neo career 株式会社ネオキャリア https://www.neo-career.co.jp > ニュース > プレスリリース」（https://www.neo-career.co.jp/news/article_13288/・3回目）
+  - 「(株) ネオキャリア の会社概要 | マイナビ2028 — (株) ネオキャリア の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp68756 > outline」（https://job.mynavi.jp/28/pc/search/corp68756/outline.html・3回目）
+  - 「株式会社 ネオキャリア 新卒採用サイト — 株式会社 ネオキャリア 新卒採用サイト 株式会社ネオキャリア https://www.neo-career.co.jp > recruit > newgrads」（https://www.neo-career.co.jp/recruit/newgrads/・3回目）
+  - 「事例 検索結果 - ネオキャリア — 事例 検索結果 - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > case_search_result」（https://www.neo-career.co.jp/humanresource/case_search_result?type=%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8&tag=%E4%B8%8A%E4%BD%8D%E6%A0%A1・3回目）
+  - 「事例 検索結果 - ネオキャリア — 事例 検索結果 - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > case_search_result」（https://www.neo-career.co.jp/humanresource/case_search_result?type=%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8&tag=%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%EF%BC%88RPO%EF%BC%89・3回目）
+  - 「急成長企業 ネオキャリア社長 に聞く 「会社の業績を伸ばす ... — 急成長企業 ネオキャリア社長 に聞く 「会社の業績を伸ばす ... 企業理念ラボ https://rinen-lab.encourage-inc.jp > times > interview」（https://rinen-lab.encourage-inc.jp/times/interview/664/・3回目）
+  - 「ネオキャリア 西澤 亮一｜4000万円の赤字 - 創業手帳 — ネオキャリア 西澤 亮一｜4000万円の赤字 - 創業手帳 創業手帳株式会社 https://sogyotecho.jp > 起業 > 起業家インタビュー」（https://sogyotecho.jp/neo-career-1/・3回目）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部23頁・検索12回）
 
 ## 株式会社ペイジェント広島
 - 公式URL：https://www.kk-synergy.co.jp/（search:yahoo_jp:株式会社広島 採用支援）
@@ -2017,6 +2023,9 @@
 - 代表者：木原　慎二（https://job.mynavi.jp/27/pc/search/corp229982/outline.html・3回目）
 - 株主構成：
   - 「エヌバイテクノロジーズ(株)【TOKYO PRO Market上場】【旧社名：中山不動産(株)】」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=83036&recruitingCourseId=27019828・3回目）
+  - 「④マツダとトヨタが折半出資のアラバマ工場、深まる協業」（https://www.chugoku-np.co.jp/・1回目）
+  - 「ＪＰＸ、新興企業に３億円出資」（https://www.chugoku-np.co.jp/category/news-kyodo・1回目）
+  - 「④マツダとトヨタが折半出資のアラバマ工場、深まる協業」（https://www.chugoku-np.co.jp/subcategory/%E4%B8%BB%E8%A6%81・1回目）
   - 「広島県と広島市が出資する広島高速道路公社（東区）が示した広島高速全体の新料金案に対して、反対する声が一部で出ている」（https://www.chugoku-np.co.jp/articles/-/913482・1回目）
   - 「広島県と広島市が出資する広島高速道路公社（東区）は31日、広島高速全体の料金見直しに向けた有識者の調査会を中区で開き、新料金の公社案を示した」（https://www.chugoku-np.co.jp/articles/-/887542・1回目）
   - 「上場企業内定が6倍に、周南公立大学の1期生 今春卒業へ【ニュース深掘り】」（https://www.chugoku-np.co.jp/search?fulltext=%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E6%B7%B1%E6%8E%98%E3%82%8A・1回目）
@@ -2025,9 +2034,9 @@
   - 「オリコミ広告とポスティング、WEB広告、保険などの営業を行う「中国新聞サービスセンター」は、中国新聞社と中国新聞販売所の出資により1962年に創業しました」（https://job.mynavi.jp/27/pc/search/corp229982/outline.html・3回目）
   - 「中四国最大の発行部数の中国新聞社と中国新聞販売所の出資により、1962年(昭和37年)に創業いたしました」（https://job.mynavi.jp/27/pc/search/corp229982/outline.html・3回目）
   - 「東亜道路工業(株)【東証プライム市場上場】」（https://job.mynavi.jp/27/pc/search/corp229982/outline.html・3回目）
-  - 「(株)毎日教育総合研究所【100％毎日新聞社出資会社】」（https://job.mynavi.jp/27/pc/search/corp83036/outline.html・3回目）
 - 創業年度：
   - 「1930年創業」（https://www.naito.jp/adsaku/flyer/chugoku-guide/・3回目）
+  - 「創業者遺族、２８億円の申告漏れ」（https://www.chugoku-np.co.jp/category/news-kyodo・1回目）
   - 「設立2年目を迎えた一般社団法人が10月から、市内3地区で新路線や既存路線の増便を3カ月間試行」（https://www.chugoku-np.co.jp/articles/-/909307・1回目）
   - 「創業／1892（明治25）年5月5日」（https://job.career-tasu.jp/corp/00051970/・3回目）
   - 「オリコミ広告とポスティング、WEB広告、保険などの営業を行う「中国新聞サービスセンター」は、中国新聞社と中国新聞販売所の出資により1962年に創業しました」（https://job.mynavi.jp/27/pc/search/corp229982/outline.html・3回目）
@@ -2053,15 +2062,18 @@
   - 「中国新聞 求人ガイド掲載料金・特徴・プラン | ADSAKU（アドサク）| 株式会社内藤一水社」（https://www.naito.jp/adsaku/flyer/chugoku-guide/・3回目）
   - 「初めて当社をご利用いただく場合、掲載費用は事前にお支払いをお願いしております」（https://www.naito.jp/adsaku/flyer/chugoku-guide/・3回目）
   - 「※最低掲載費用：3万円（税別）」（https://www.naito.jp/adsaku/flyer/chugoku-guide/・3回目）
-  - 「むさし「若鶏むすび」いくらまでなら買いますか? 物価高、企業を悩ます「納得価格」【広島経済データで先読み】」（https://www.chugoku-np.co.jp/・1回目）
-  - 「「異常な上がり方」広島高速の新料金案、地元住民に反対の声 公社が年内に出す結論は【ニュース深掘り】」（https://www.chugoku-np.co.jp/・1回目）
-  - 「むさし「若鶏むすび」いくらまでなら買いますか? 物価高、企業を悩ます「納得価格」【広島経済データで先読み】」（https://www.chugoku-np.co.jp/articles/-/917705・1回目）
-  - 「むさし「若鶏むすび」いくらまでなら買いますか? 物価高、企業を悩ます「納得価格」【広島経済データで先読み】」（https://www.chugoku-np.co.jp/subcategory/%E4%B8%BB%E8%A6%81・1回目）
-  - 「「異常な上がり方」広島高速の新料金案、地元住民に反対の声 公社が年内に出す結論は【ニュース深掘り】」（https://www.chugoku-np.co.jp/feature/special/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E6%B7%B1%E6%8E%98%E3%82%8A・1回目）
-  - 「「異常な上がり方」広島高速の新料金案、地元住民に反対の声 公社が年内に出す結論は【ニュース深掘り】 | 中国新聞デジタル」（https://www.chugoku-np.co.jp/articles/-/913482・1回目）
-  - 「「異常な上がり方」広島高速の新料金案、地元住民に反対の声 公社が年内に出す結論は【ニュース深掘り】」（https://www.chugoku-np.co.jp/articles/-/913482・1回目）
-  - 「新料金案の再検討を求める上村会長（右から４人目）たち」（https://www.chugoku-np.co.jp/articles/-/913482・1回目）
+  - 「【事件】広島市安佐南区の民家に侵入、23万円など盗んだ疑い 43歳の会社員逮捕」（https://www.chugoku-np.co.jp/・1回目）
+  - 「【事件】SNSで投資話、1249万円の特殊詐欺被害 安来の男性」（https://www.chugoku-np.co.jp/・1回目）
+  - 「【事件】広島市安佐南区の民家に侵入、23万円など盗んだ疑い 43歳の会社員逮捕」（https://www.chugoku-np.co.jp/list/audionews・1回目）
+  - 「【事件】SNSで投資話、1249万円の特殊詐欺被害 安来の男性」（https://www.chugoku-np.co.jp/list/audionews・1回目）
+  - 「【事件】広島市安佐南区の民家に侵入、23万円など盗んだ疑い 43歳の会社員逮捕」（https://www.chugoku-np.co.jp/feature/special/%E9%89%84%E9%81%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9・1回目）
+  - 「【事件】SNSで投資話、1249万円の特殊詐欺被害 安来の男性」（https://www.chugoku-np.co.jp/feature/special/%E9%89%84%E9%81%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9・1回目）
+  - 「【事件】広島市安佐南区の民家に侵入、23万円など盗んだ疑い 43歳の会社員逮捕」（https://www.chugoku-np.co.jp/category/news-kyodo・1回目）
+  - 「【事件】SNSで投資話、1249万円の特殊詐欺被害 安来の男性」（https://www.chugoku-np.co.jp/category/news-kyodo・1回目）
 - 製造業の顧客：
+  - 「④マツダとトヨタが折半出資のアラバマ工場、深まる協業」（https://www.chugoku-np.co.jp/・1回目）
+  - 「台湾パナ工場で２人死亡」（https://www.chugoku-np.co.jp/category/news-kyodo・1回目）
+  - 「④マツダとトヨタが折半出資のアラバマ工場、深まる協業」（https://www.chugoku-np.co.jp/subcategory/%E4%B8%BB%E8%A6%81・1回目）
   - 「Gグレードではメーカーオプションとして選択が可能だ」（https://www.chugoku-np.co.jp/stp/Ad/t-corolla_alphard_vellfire_202606/?utm_source=CND&utm_medium=display&utm_campaign=TPR・1回目）
   - 「DX専門のコンサルタントが個々の取引先の課題を整理した上で、生産性向上に向けた計画の策定や必要なツールの導入、運用までを支援しています」（https://www.chugoku-np.co.jp/stp/Ad/hirogin_layerx_202603/?utm_source=CND&utm_medium=display&utm_campaign=TPR・1回目）
   - 「顧客のＤＸを支援する上で重視しているのが、」（https://www.chugoku-np.co.jp/stp/Ad/hirogin_layerx_202603/?utm_source=CND&utm_medium=display&utm_campaign=TPR・1回目）
@@ -2071,8 +2083,6 @@
   - 「広島市郊外の疎開工場から本社屋に復帰し、印刷開始」（https://job.mynavi.jp/27/pc/search/corp83036/outline.html・3回目）
   - 「廿日市市に新印刷工場の広島制作センター（ちゅーピーパーク）がオープン」（https://job.mynavi.jp/27/pc/search/corp83036/outline.html・3回目）
   - 「株式会社中国新聞社 様｜導入事例｜【公式】(株)サテライトオフィス:ChatGPT(チャットGPT)/Google Workspace/Chromebook/Microsoft 365/LINE WORKS/Google Workspace for Educationの導入支援はお任せください！」（https://www.sateraito.jp/case_gw/17.html・3回目）
-  - 「導入事例 - 株式会社 中国新聞社｜資料ダウンロードフォーム｜Mapbox Japan」（https://www.mapbox.jp/download-form/showcase-chugoku-newspaper・3回目）
-  - 「導入事例 - 株式会社 中国新聞社」（https://www.mapbox.jp/download-form/showcase-chugoku-newspaper・3回目）
 - 売り方：
   - 「トヨタカローラ広島発！「ノア／ヴォクシー」改良モデルの魅力紹介」（https://www.chugoku-np.co.jp/articles/-/504462・1回目）
   - 「グループ各社が手掛ける企業、官公庁向けの広告商品、事業を網羅的に紹介」（https://www.chugoku-np.co.jp/articles/-/504462・1回目）
@@ -2083,9 +2093,9 @@
   - 「新聞記者の基本ですが、同時に営業にも、制作にも、お届けにも重なる大切なキーワードです」（https://job.mynavi.jp/27/pc/search/corp83036/outline.html・3回目）
   - 「営業本部の地域ビジネス局と販売局は、経営の柱です」（https://job.mynavi.jp/27/pc/search/corp83036/outline.html・3回目）
   - 「地域ビジネス局は、営業部員が紙面やデジタルに掲載する広告を獲得します」（https://job.mynavi.jp/27/pc/search/corp83036/outline.html・3回目）
-  - 「トヨタカローラ広島発！「ノア／ヴォクシー」改良モデルの魅力紹介」（https://www.chugoku-np.co.jp/・1回目）
-  - 「グループ各社が手掛ける企業、官公庁向けの広告商品、事業を網羅的に紹介」（https://www.chugoku-np.co.jp/・1回目）
-  - 「尚、このページで紹介するニュース・コラムはすべて、記事ページにも収められています」（https://www.chugoku-np.co.jp/list/audionews・1回目）
+  - 「【事故】広島商工会議所ビルから男性が転落、死亡 広島市中区」（https://www.chugoku-np.co.jp/・1回目）
+  - 「【事故】広島商工会議所ビルから男性が転落、死亡 広島市中区」（https://www.chugoku-np.co.jp/list/audionews・1回目）
+  - 「【事故】広島商工会議所ビルから男性が転落、死亡 広島市中区」（https://www.chugoku-np.co.jp/feature/special/%E9%89%84%E9%81%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9・1回目）
 - 採用・人数：
   - 「中国新聞販売所では、新聞配達スタッフを募集しています」（https://www.chugoku-np.co.jp/articles/-/479971・1回目）
   - 「新卒採用 | 中国新聞社コーポレートサイト」（https://chugoku-np.com/saiyou/newgraduate/・3回目）
@@ -2103,6 +2113,7 @@
   - 「隣県との広域連携強化を、人材育成必要性高まる 山陰インバウンド機構の野浪健代表理事【やまぐち観光新章へ】」（https://www.chugoku-np.co.jp/・1回目）
   - 「隣県との広域連携強化を、人材育成必要性高まる 山陰インバウンド機構の野浪健代表理事【やまぐち観光新章へ】」（https://www.chugoku-np.co.jp/articles/-/912354・1回目）
   - 「隣県との広域連携強化を、人材育成必要性高まる 山陰インバウンド機構の野浪健代表理事【やまぐち観光新章へ】」（https://www.chugoku-np.co.jp/articles/-/887542・1回目）
+  - 「セガサミーHDの里見社長、人材育成やスタートアップとの協業の意義語る TSUNAGU広島2026」（https://www.chugoku-np.co.jp/・1回目）
   - 「ヒロシマの記録 遺影は語る」（https://www.chugoku-np.co.jp/・1回目）
   - 「サンフレ中野就斗「生き残り競争が待っている」 日本代表再招集で覚悟」（https://www.chugoku-np.co.jp/・1回目）
   - 「ヒロシマの記録 遺影は語る」（https://www.chugoku-np.co.jp/list/audionews・1回目）
@@ -2111,7 +2122,6 @@
   - 「ヒロシマの記録 遺影は語る」（https://www.chugoku-np.co.jp/feature/visualnews・1回目）
   - 「ヒロシマの記録 遺影は語る」（https://www.chugoku-np.co.jp/list/mynews・1回目）
   - 「ヒロシマの記録 遺影は語る」（https://www.chugoku-np.co.jp/articles/-/917705・1回目）
-  - 「ヒロシマの記録 遺影は語る」（https://www.chugoku-np.co.jp/subcategory/%E4%B8%BB%E8%A6%81・1回目）
 - 検索結果の抜粋：
   - 「採用 情報 | 中国新聞社 コーポレートサイト — 採用 情報 | 中国新聞社 コーポレートサイト chugoku-np.com https://chugoku-np.com > saiyou」（https://chugoku-np.com/saiyou/・3回目）
   - 「(株) 中国新聞社 の 採用 データ | マイナビ2027 — (株) 中国新聞社 の 採用 データ | マイナビ2027 マイナビ https://job.mynavi.jp > corpinfo > displayEmployment」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=83036&recruitingCourseId=27019828・3回目）
@@ -2125,13 +2135,13 @@
   - 「中国新聞社 の 評判・口コミ一覧（全51件） - 就活会議 — 中国新聞社 の 評判・口コミ一覧（全51件） - 就活会議 就活会議 https://syukatsu-kaigi.jp > ... > 株式会社中国新聞社」（https://syukatsu-kaigi.jp/companies/18431/word_mouths・3回目）
   - 「採用 - 中国新聞アド — 採用 - 中国新聞アド 中国新聞アド https://chu-ad.com > recruit」（https://chu-ad.com/recruit/・3回目）
   - 「導入 企業：株式会社 中国新聞社 様 - サテライトオフィス — 導入 企業：株式会社 中国新聞社 様 - サテライトオフィス サテライトオフィス https://www.sateraito.jp > case_gw」（https://www.sateraito.jp/case_gw/17.html・3回目）
-- 株主：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部21頁・検索12回）
-- 資本金：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部21頁・検索12回）
-- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部21頁・検索12回）
-- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部21頁・検索12回）
-- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部21頁・検索12回）
-- 許認可：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部21頁・検索12回）
-- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部21頁・検索12回）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部22頁・検索12回）
+- 資本金：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部22頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部22頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部22頁・検索12回）
+- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部22頁・検索12回）
+- 許認可：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部22頁・検索12回）
+- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部22頁・検索12回）
 
 ## 株式会社山陽新聞社
 - 公式URL：https://www.sanyonews.jp/（given）
