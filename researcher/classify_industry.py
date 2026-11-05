@@ -106,7 +106,7 @@ FUNCTIONS = {
     "仲介・マッチング": ["マッチング", "プラットフォーム", "仲介"],
 }
 PREF_PAGES = r"事業|サービス|service|business|導入|事例|case|実績|works|取引先|お客様|client|customer|会社概要|company|about|採用|recruit|ソリューション|solution|対象"
-FIELDS = ["name", "years", "home_url", "site_label", "industry", "industry_name", "judge", "functions", "S1", "S2", "S3", "S4",
+FIELDS = ["name", "years", "first_listed", "home_url", "site_label", "industry", "industry_name", "judge", "functions", "S1", "S2", "S3", "S4",
           "pages_read", "quotes", "tries"]
 
 
@@ -245,7 +245,7 @@ def classify_all(rows: dict, out_csv, deadline: float) -> bool:
     finished = True
     try:
         for name, r in sorted(rows.items()):
-            if not (r.get("official_years") or int(r.get("mentions", "0")) >= 2):
+            if not r.get("official_years"):
                 continue
             if name in done and (done[name]["judge"] != "要読込" or int(done[name]["tries"] or 0) >= 2):
                 continue
@@ -257,7 +257,7 @@ def classify_all(rows: dict, out_csv, deadline: float) -> bool:
             code, j = judge(sc)
             fmt = lambda c: ";".join(f"{k}:{v}" for k, v in c.most_common())
             done[name] = {
-                "name": name, "years": r.get("official_years", ""), "home_url": r.get("home_url", ""), "site_label": r.get("site_label", ""),
+                "name": name, "years": r.get("official_years", ""), "first_listed": r.get("first_listed", ""), "home_url": r.get("home_url", ""), "site_label": r.get("site_label", ""),
                 "industry": code, "industry_name": JSIC.get(code, ""), "judge": j,
                 "functions": ";".join(f for f, v in sc["fn"].most_common() if v),
                 "S1": fmt(sc["S1"]), "S2": fmt(sc["S2"]), "S3": fmt(sc["S3"]), "S4": fmt(sc["S4"]),

@@ -58,7 +58,7 @@ PRE_RX = re.compile(rf"{CORP}\s?({NAME_CHARS}{{2,25}})")
 POST_RX = re.compile(rf"({NAME_CHARS}{{2,25}}){CORP}")
 YEAR_RX = re.compile(r"(20(?:1[6-9]|2[0-6]))\s*(?:年度?|年版)?")
 NOT_NAME = re.compile(r"イシン|ベンチャー通信|ベストベンチャー|選出|一覧|ランキング|受賞|お知らせ|プレスリリース|PR TIMES|ニュース")
-NAME_FIELDS = ["slug", "name", "years", "official_years", "sources", "urls", "mentions", "site_label", "home_url"]
+NAME_FIELDS = ["slug", "name", "first_listed", "years", "official_years", "sources", "urls", "mentions", "site_label", "home_url"]
 
 
 def urlparse(u):
@@ -98,6 +98,7 @@ def _load() -> dict:
         with open(NAMES, encoding="utf-8") as f:
             for r in csv.DictReader(f):
                 if r.get("slug"):
+                    r.setdefault("first_listed", "")
                     rows[r["slug"]] = r
     return rows
 
@@ -152,7 +153,7 @@ def _company_record(rows: dict, slug: str, p: dict, url: str) -> None:
 
 def _mark(rows: dict, slug: str, year: str, src: str, label: str = "") -> None:
     r = rows.setdefault(slug, {"name": "", "years": "", "official_years": "", "sources": "", "urls": "", "mentions": "0",
-                               "site_label": "", "home_url": ""})
+                               "site_label": "", "home_url": "", "first_listed": ""})
     r["official_years"] = ";".join(sorted(set(filter(None, r["official_years"].split(";"))) | {year}))
     r["years"] = r["official_years"]
     r["sources"] = ";".join(sorted(set(filter(None, r["sources"].split(";"))) | {src}))
@@ -172,43 +173,53 @@ def _list_pages(p: dict, base_host_filter) -> list[str]:
 
 
 def crawl_site(rows: dict, deadline: float) -> bool:
-    """今のサイト＝2026年の掲載。トップ・/company/・カテゴリ（ページ送り込み）のリンクから企業ページを集め、1社ずつ開く。"""
+    """今のサイト（2026年の掲載）。WordPress の公開API（/wp-json/wp/v2/company）で全企業ページを取る。
+    公開日（date）＝そのサイトに最初に載った日。カテゴリ（業界ラベル）は機能の軸として残すだけ。
+    2026-11-05 点検：サイトに残っているのは今の掲載98社だけ（2018〜2026年に公開された記事）。過去の掲載社は消えている。"""
+    import requests
     from researcher.fetch import fetch
 
-    queue, seen, members, log = [f"https://{SITE}/", f"https://{SITE}/company/"], set(), {}, []
-    while queue:
+    api = f"https://{SITE}/wp-json/wp/v2"
+    hdr = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/126.0 Safari/537.36"}
+    cats = {}
+    try:
+        for c in requests.get(f"{api}/company_category", params={"per_page": 100}, headers=hdr, timeout=60).json():
+            cats[c["id"]] = c["name"]
+    except Exception:
+        pass
+    posts, page = [], 1
+    while True:
+        r = requests.get(f"{api}/company", params={"per_page": 100, "page": page,
+                         "_fields": "id,date,slug,link,title,company_category"}, headers=hdr, timeout=60)
+        if r.status_code != 200:
+            break
+        posts += r.json()
+        if page >= int(r.headers.get("X-WP-TotalPages") or 1):
+            break
+        page += 1
+    log = [{"url": f"{api}/company", "status": f"{len(posts)}件", "title": "WordPress API", "names": len(posts)}]
+    for j in posts:
+        sl = j["slug"]
+        label = ";".join(cats.get(c, str(c)) for c in j.get("company_category") or [])
+        _mark(rows, sl, "2026", "公式サイト（今の掲載）", label)
+        r0 = rows[sl]
+        r0["first_listed"] = j["date"][:10]
+        title = re.sub(r"<[^>]+>", "", (j.get("title") or {}).get("rendered", ""))
+        if not r0["name"]:
+            t = names_in(title)
+            r0["name"] = t[0] if t else _norm(title)
+    for j in posts:
         if time.monotonic() > deadline:
             return False
-        u = queue.pop(0)
-        if u in seen or len(seen) > 300:
+        sl = j["slug"]
+        if rows[sl]["home_url"]:
             continue
-        seen.add(u)
-        p = fetch(u)
-        log.append({"url": u, "status": p["status"], "title": p.get("title", "")[:120], "names": 0})
-        if p["status"] != "ok":
-            continue
-        cat = CAT_RX.search(urlparse(u).path)
-        label = next((l for l in SITE_LABELS if l in p.get("title", "")), cat.group(1) if cat else "")
-        for sl in _members(p):
-            members.setdefault(sl, set())
-            if cat:
-                members[sl].add(label)
-        log[-1]["names"] = len(_members(p))
-        queue += [x for x in _list_pages(p, lambda h: SITE in h) if x not in seen]
-    for sl, labels in members.items():
-        _mark(rows, sl, "2026", "公式サイト（今の掲載）", ";".join(sorted(labels)))
-    for sl in members:
-        if time.monotonic() > deadline:
-            return False
-        if rows[sl]["name"]:
-            continue
-        u = f"https://{SITE}/company/{sl}/"
-        p = fetch(u)
+        p = fetch(j["link"])
         if p["status"] == "ok":
-            _company_record(rows, sl, p, u)
+            _company_record(rows, sl, p, j["link"])
     _write_pages(log)
     _save(rows)
-    return True
+    return bool(posts)
 
 
 def _write_pages(log: list) -> None:
@@ -249,7 +260,8 @@ def crawl_wayback(rows: dict, deadline: float) -> bool:
                         "filter": ["statuscode:200", "mimetype:text/html"], "collapse": "urlkey", "limit": "20000",
                         "fl": "timestamp,original"})
             if not cdx:
-                log.append({"url": f"cdx {y}", "status": "no_snapshot", "title": "", "names": 0})
+                # 2026-11-05 点検：GitHub Actions から web.archive.org は 403（締め出し）、CDX は空で返る。取れなかった年として記録だけ残す
+                log.append({"url": f"cdx {y}", "status": "no_snapshot_or_blocked", "title": "", "names": 0})
                 done.add(str(y))
                 continue
             lists = [(ts, o) for ts, o in cdx if re.search(r"/company/(?:category/[^/]+/)?(?:page/\d+/)?$|v-tsushin\.jp/?$", urlparse(o).path or "/")
@@ -309,6 +321,12 @@ def write_outputs(rows: dict, finished: bool) -> None:
     for y in YEARS:
         srcs = "／".join(f"{k} {v}" for k, v in src_year.get(str(y), {}).items())
         lines.append(f"| {y} | {by_year.get(str(y), 0)} | {srcs} |")
+    fy = defaultdict(int)
+    for r in rows.values():
+        if r.get("first_listed"):
+            fy[r["first_listed"][:4]] += 1
+    lines += ["", "## 今の掲載社が最初にサイトに載った年（公開日）", "", "| 年 | 社数 |", "|---|---|"]
+    lines += [f"| {y} | {n} |" for y, n in sorted(fy.items())]
     lines += ["", "2026年＝今のサイト。2016〜2025年＝Wayback Machine のその年の一覧・カテゴリページにリンクされた企業ページ。",
               "一覧が残っていない年は「企業ページの保存のみ」と出典を分けて数えている（掲載の確かさが一段低い）。"]
     (OUT / "stats.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
@@ -327,9 +345,9 @@ def main(deadline_s: float = 4 * 3600) -> int:
     deadline = time.monotonic() + deadline_s
     rows = _load()
     a = crawl_site(rows, deadline)
-    w = crawl_wayback(rows, deadline)
+    crawl_wayback(rows, deadline)  # 取れなくても止めない（取れた年だけ足す）
     write_outputs(rows, False)
-    if not (a and w):
+    if not a:
         return 0
     from researcher.classify_industry import classify_all
     c = classify_all({r["name"]: r for r in rows.values() if r["name"]}, CLASSIFIED, deadline)
