@@ -3101,6 +3101,16 @@
   - 「新興国等、産業構造の大きく異なる国や地域の比較を行う際には注意が必要で」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
   - 「2 Melitz and Polanec (2015) argue that BHC-FHK decomposition has a potential bias such that entry/」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf）
   - 「estimates, because it is shown that there is no bias in original LM estimates (except for the level of」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf）
+  - 「into these same four components introduce some biases in the measurement of the contributions of」（https://www.nber.org/system/files/working_papers/w18182/w18182.pdf）
+  - 「We find that, over a 5-year period, the measurement bias associated with entry and exit is substantial,」（https://www.nber.org/system/files/working_papers/w18182/w18182.pdf）
+  - 「introduce some biases in the measurement of the contributions of entry and exit.」（https://www.nber.org/system/files/working_papers/w18182/w18182.pdf）
+  - 「other decompositions. We ﬁnd that, over a 5-year period, the measurement bias associated with」（https://www.nber.org/system/files/working_papers/w18182/w18182.pdf）
+  - 「exit. We argue that this extension eliminates biases in the measurement of those entry/exit contri-」（https://www.nber.org/system/files/working_papers/w18182/w18182.pdf）
+  - 「time. Empirically, we show that these biases are substantial for the case of Slovenia’s transition」（https://www.nber.org/system/files/working_papers/w18182/w18182.pdf）
+  - 「ity growth is much more substantial, once the biases regarding entry and exit measurement are」（https://www.nber.org/system/files/working_papers/w18182/w18182.pdf）
+  - 「suﬀer from some biases that stem from their construction method. In general, the theoretical」（https://www.nber.org/system/files/working_papers/w18182/w18182.pdf）
+  - 「direction of those biases (as well as their magnitudes) is ambiguous. For the case of a fast growing」（https://www.nber.org/system/files/working_papers/w18182/w18182.pdf）
+  - 「economy (such as Slovenia from 1995 to 2000), we show theoretically that this bias involves an over-」（https://www.nber.org/system/files/working_papers/w18182/w18182.pdf）
 - 実例：
   - 「このノンテクニカルサマリーは、分析結果を踏まえつつ、政策的含意を中心に大胆に記述したもので、DP・PDPの一部分ではありません」（https://www.rieti.go.jp/jp/publications/nts/19e069.html）
   - 「これらの結果、特に配分効率性の効果は、従来よく用いられてきたFoster, Haltiwanger, and Krizan (2001)の手法による分解結果とは異なるものであり、本研究によって、資源配分の効率性や企業の参入を促すことの重要性を示す定量的なエビデンスが提供されたといえる」（https://www.rieti.go.jp/jp/publications/nts/19e069.html）
@@ -5325,11 +5335,11 @@
 
 ## 統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂）（revision bias significance test mean revision t-test methodological revisions）
 - 文脈：統計の版
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 実例：記載なし（読んだ28頁・検索12回）
 
 ## 名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方）（entity matching benchmark corner cases threshold gold standard）
 - 文脈：同一性

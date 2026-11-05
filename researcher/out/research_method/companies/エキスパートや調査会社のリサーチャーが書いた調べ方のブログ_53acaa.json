@@ -8,8 +8,1204 @@
  ],
  "context": "凄腕・実務",
  "kind": "market",
- "researched_at": "2026-11-05T21:10:19.054718+00:00",
+ "researched_at": "2026-11-05T23:38:03.121805+00:00",
  "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "1.目的設定のコツ",
+    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2.調べ方のコツ",
+    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3.資料作りのコツ",
+    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調べ方のコツは無限にあると思うので、特に僕が忘れがちだったり大事にしていたことを書きます",
+    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、この構成を作る時は共有の方法や相手を意識して",
+    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4.共有のコツ",
+    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただ、最適な手法は組織の状況や環境によって変わってくると変わってくると思いますし、僕のやり方も改善の余地はありまくりです",
+    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この状況は万能型の調査テーマで発生しやすく、NPS・満足度など総括スタイルのテーマのみを頼みにしていると、結論は",
+    "url": "https://note.com/diisuket/n/nd52911277358",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "マックに入って店内カウンター上部のメニューパネルに沿ってオーダーするステップに倣い、①メイン→②サイド→③デスクリサーチ（自分でウェブや文献を調べること）の順で決めていきます",
+    "url": "https://note.com/diisuket/n/nd52911277358",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アンケートは大まかに、調査会社に外注、DIYツールで内製、Googleフォームで内製などのやり方に分かれます",
+    "url": "https://note.com/diisuket/n/nd52911277358",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「健康増進プログラムの開発にあたり、フルーツ好きの人を対象に、購入理由・喫食体験を調査し、目玉となる品目及びその促進方法をまとめる」とあります",
+    "url": "https://note.com/diisuket/n/nd52911277358",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最近マーケターの間であらためて注目されている「ユーザー理解」の方法について、「質問の尋ね方」が重要と考えるリサーチャー・菅",
+    "url": "https://note.com/diisuket/n/nd52911277358",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新年のSchoo授業もエントリー受付中！こちらはリサーチャーの情報収集（デスクリサーチ）をテーマに、世の中のトレンドをキャッチアップしたり、消費者のインサイトを理解する方法をお伝えします",
+    "url": "https://note.com/diisuket/n/nd52911277358",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さらに、情報収集や仮説づくりを効率化する方法も紹介します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチの具体的な手順（6ステップ）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ1：調査目的・リサーチクエスチョンの設定",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ2：調査項目を具体化する",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まずはこの後の6ステップで調査の軸を整えたうえで、",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "以下の6ステップで進めます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ3：信頼できる情報ソースの選定",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索で情報ソースを探すときのキーワードの組み立て方や検索コマンドの使い方は、下記の記事を参照してみてください",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ4：情報の収集・整理",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ5：クロスチェック",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "対象者、サンプルサイズ、質問内容、分析方法を設計",
+    "url": "https://www.macromill.com/service/words/researcher/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新製品開発を成功に導く4つのステップ",
+    "url": "https://www.macromill.com/service/words/researcher/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Read the methods and results carefully. Try to find the duct tape. Consider the simplest extensions first and ask whether the paper’s method would suffice. Think about baseline methods not discussed and imagine where those might fall short.",
+    "url": "https://tomsilver.github.io/blog/2024/lessons/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Creative Quantitative Research Methods",
+    "url": "https://helenkara.com/blog/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How To Create An Inclusive Conference",
+    "url": "https://helenkara.com/blog/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "From the very start, our aim for the International Creative Research Methods Conference was to make it an inclusive conference. We have mostly managed that – and learned a load of lessons along the way. So I thought I would share some of those with you.",
+    "url": "https://helenkara.com/blog/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Finally, we need presenters who understand how to present inclusively – and this will be the topic of my next post.",
+    "url": "https://helenkara.com/blog/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "” immediately stood out to me as a thoughtful and practical guide that addresses one of the most important transitions in an academic journey: understanding how to begin, navigate, and confidently approach doctoral study.",
+    "url": "https://helenkara.com/blog/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "I talked to a colleague about this at the International Creative Research Methods Conference, and learned it was a recent and increasingly common scam. Then I got my second one, rather less fulsome but still flattering:",
+    "url": "https://helenkara.com/blog/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "* stood out to me for the way it brings creativity and innovation into data analysis while maintaining rigor, systematic practice, and research ethics. Its transferable case examples also make it especially relevant to readers interested in research methods, interdisciplinary work, and new approaches to making sense of data.",
+    "url": "https://helenkara.com/blog/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What is your main goal for *The Handbook of Creative Data Analysis* right now—reaching more researchers, increasing visibility, encouraging discussion around creative research methods, or something else?",
+    "url": "https://helenkara.com/blog/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "International Creative Research Methods Conference",
+    "url": "https://helenkara.com/blog/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Journal of Creative Research Methods",
+    "url": "https://helenkara.com/blog/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ".) I knew the creative research methods community needed a place to gather and exchange ideas, and I have been – and am – very glad to be able to help make that happen.",
+    "url": "https://helenkara.com/blog/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "conference last month. His talk was passionate, inclusive, and humorous, with no sign of the storm raging around him except that he asked for his keynote not to be recorded. Later, as I left the building, I saw him a few steps ahead of me and asked if I could walk with him to the tube. I told him about a journal article I had written with",
+    "url": "https://helenkara.com/blog/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "When I teach creative research methods or creative academic writing to doctoral students, they often ask me this question. The short answer is: your doctoral research can be as creative as you like. The longer answer adds: as long as the support you need is in place.",
+    "url": "https://helenkara.com/blog/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "creative research methods",
+    "url": "https://helenkara.com/blog/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "visual, narrative and creative research methods",
+    "url": "https://helenkara.com/blog/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Research Methods: The Ultimate Guide for Academic and Professional Success",
+    "url": "https://www.litmaps.com/articles/types-of-research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In today’s data-driven world, research is the backbone of innovation, decision-making, and problem-solving across industries. Whether you're a student writing a thesis, a business professional analyzing market trends, or a scientist conducting experiments, selecting the right research method is crucial for obtaining accurate and meaningful results.",
+    "url": "https://www.litmaps.com/articles/types-of-research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This comprehensive guide explores the different types of research methods, their applications, advantages, and limitations. By the end of this article, you'll have a clear understanding of how to choose and implement the best research methodology for your study.",
+    "url": "https://www.litmaps.com/articles/types-of-research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What are research methods?",
+    "url": "https://www.litmaps.com/articles/types-of-research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Research methods are systematic strategies used to collect, analyze, and interpret data to answer research questions or test hypotheses. They provide a structured approach to investigating phenomena, ensuring that findings are valid, reliable, and reproducible.",
+    "url": "https://www.litmaps.com/articles/types-of-research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Research methodologies can be broadly categorized into:",
+    "url": "https://www.litmaps.com/articles/types-of-research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3 main research methodes",
+    "url": "https://www.litmaps.com/articles/types-of-research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Mixed-Methods Research: Combines both qualitative and quantitative approaches.",
+    "url": "https://www.litmaps.com/articles/types-of-research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1. Qualitative research methods",
+    "url": "https://www.litmaps.com/articles/types-of-research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In-depth interviews are one-on-one conversations that use open-ended questions to explore participants’ thoughts, feelings, and experiences. They’re ideal for gaining detailed insights into personal motivations, perceptions, or decision-making processes. This method is commonly used in psychology, user research, and healthcare studies.",
+    "url": "https://www.litmaps.com/articles/types-of-research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Case study research is an in-depth analysis of a single entity, such as an individual, group, organization, or event. It provides a holistic view of a complex issue and is especially valuable for studying rare or unique cases. This method is frequently used in business, education, and social sciences.",
+    "url": "https://www.litmaps.com/articles/types-of-research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2. Quantitative research methods",
+    "url": "https://www.litmaps.com/articles/types-of-research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Testing learning methods in randomly assigned student groups.",
+    "url": "https://www.litmaps.com/articles/types-of-research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Surveys and questionnaires are structured tools used to collect data from a large sample of participants. They’re commonly used in market research, public opinion polling, education studies, and health surveys. This method is ideal for gathering data on behaviors, preferences, or attitudes at scale.",
+    "url": "https://www.litmaps.com/articles/types-of-research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さらに、情報収集や仮説づくりを効率化する方法も紹介します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチの具体的な手順（6ステップ）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ1：調査目的・リサーチクエスチョンの設定",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ2：調査項目を具体化する",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まずはこの後の6ステップで調査の軸を整えたうえで、",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "以下の6ステップで進めます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ3：信頼できる情報ソースの選定",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索で情報ソースを探すときのキーワードの組み立て方や検索コマンドの使い方は、下記の記事を参照してみてください",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ4：情報の収集・整理",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ5：クロスチェック",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を中心に、「誰もが・無料で・一人で（※）」成果を出せるリサーチ方法を、",
+    "url": "https://note.com/diisuket/n/n80b79847745f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここからはアウトドアのテーマを例にして、さらに具体的な使い方を見ていきましょう",
+    "url": "https://note.com/diisuket/n/n80b79847745f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチ的には、仮説探索型と仮説検証型の見方があります",
+    "url": "https://note.com/diisuket/n/n80b79847745f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ハッシュタグ検索で画像の一覧を見ると、ドーム型の施設、夕方～夜の撮影、周囲の冬景色などが目立ちます",
+    "url": "https://note.com/diisuket/n/n80b79847745f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "具体的には、「水なしヘアケア」「一体型インナー」「持ち出しポーチ」などで、",
+    "url": "https://note.com/diisuket/n/n80b79847745f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事では基本的にインタビューの手法を封印して乗り切る方法を書いていますが、日常会話の中で人から情報を得るくらいの方法は付け足してもいいでしょう",
+    "url": "https://note.com/diisuket/n/n80b79847745f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "のですが、この方法だと一生他社を追い越せません",
+    "url": "https://note.com/diisuket/n/n80b79847745f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "でも、物事の細かい違いや差を知ることはこの記事の方法で可能です",
+    "url": "https://note.com/diisuket/n/n80b79847745f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ情報をさらにアンケートやインタビューの中に活かしていく方法はこちらで解説していますので、よかったら併せてご覧ください",
+    "url": "https://note.com/diisuket/n/n80b79847745f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最近マーケターの間であらためて注目されている「ユーザー理解」の方法について、「質問の尋ね方」が重要と考えるリサーチャー・菅",
+    "url": "https://note.com/diisuket/n/n80b79847745f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しかし、アンケートフォームの適切な質問や選択肢を用意するやり方を教わる機会は少なく、テンプレートを使用しようとすると、用途によらず同じ質問が並んでしまうことがあると思います",
+    "url": "https://manamina.valuesccg.com/articles/1877",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回は、利用者の認知経路や利用理由を調べる「利用者アンケート」（BtoC編・BtoB編）、満足度や知人への推奨意向度を調べる「満足度アンケート」（BtoC編・BtoB編）、利用シーンや利用に際して重視していることを調べる「ユーザープロファイルアンケート」(基本項目編・発展項目編)の6つに分けて、それぞれの用途に合った質問と選択肢を用意することができるような「基本の型」となるフォーム作成方法を解説しました",
+    "url": "https://manamina.valuesccg.com/articles/1877",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アンケートフォームを作成したことはあるがその施策への活用方法がわからない方、用途に合わせたアンケートフォームの作成方法が知りたい方などはぜひ参考にしてみてください",
+    "url": "https://manamina.valuesccg.com/articles/1877",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "行動パターンを類型化することで、プロモーション効率をあげることに繋がります",
+    "url": "https://manamina.valuesccg.com/articles/1877",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そこで本企画では菅原さんに、ユーザー理解の考え方と方法をインタビューしました",
+    "url": "https://manamina.valuesccg.com/articles/1877",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最近マーケターの間であらためて注目されている「ユーザー理解」の方法について、「質問の尋ね方」が重要と考えるリサーチャー・菅原大介さんに取材します",
+    "url": "https://manamina.valuesccg.com/articles/1877",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "helps researchers master the art of writing creative non-fiction at a research level, providing guidance and resources for every step of the writing process.",
+    "url": "https://www.listening.com/blog/academic-blogs",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Types of Research Interviews (Focus Groups, Structured, etc.): Steps and Examples",
+    "url": "https://researcher.life/blog/category/research-tips/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Research interviews are among the most widely used data collection methods in academic and professional research. A researcher asks questions of one or more",
+    "url": "https://researcher.life/blog/category/research-tips/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Find Credible Open Access Journals: Author Checklist",
+    "url": "https://researcher.life/blog/category/research-tips/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Pilot Study in Research: Definition, Types, Steps & Examples",
+    "url": "https://researcher.life/blog/category/research-tips/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In the world of science and academia, researchers frequently rely on different kinds of tools and methods as they navigate their scholarly journeys. That is",
+    "url": "https://researcher.life/blog/category/research-tips/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What is Snowball Sampling? Methods and Examples",
+    "url": "https://researcher.life/blog/category/research-tips/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In the academic landscape, researchers, students, and educators are constantly engaging with research and assessment methods in the work they undertake. Conducting experiments, using different",
+    "url": "https://researcher.life/blog/category/research-tips/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Predictive validity is an essential concept in psychometrics and research methodology. It refers to the extent to which a test score or assessment can accurately",
+    "url": "https://researcher.life/blog/category/research-tips/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Key takeaways: Probability sampling is a method where every individual in a population has a known and non-zero chance of being selected, ensuring a representative",
+    "url": "https://researcher.life/blog/category/research-tips/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What Is Experimental Research Design? Definition, Types, Steps, and Examples",
+    "url": "https://researcher.life/blog/category/research-tips/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What is Analytical Research? Definition, Methods, Examples",
+    "url": "https://researcher.life/blog/category/research-tips/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What is Non-Probability Sampling? Methods, Types, and Examples",
+    "url": "https://researcher.life/blog/category/research-tips/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Find and Calculate the h-Index on Scopus?",
+    "url": "https://researcher.life/blog/category/research-tips/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to find the h-Index on Web of Science?",
+    "url": "https://researcher.life/blog/category/research-tips/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Calculate H-Index in Google Scholar?",
+    "url": "https://researcher.life/blog/category/research-tips/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さらに、情報収集や仮説づくりを効率化する方法も紹介します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチの具体的な手順（6ステップ）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ1：調査目的・リサーチクエスチョンの設定",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ2：調査項目を具体化する",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まずはこの後の6ステップで調査の軸を整えたうえで、",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "以下の6ステップで進めます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ3：信頼できる情報ソースの選定",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索で情報ソースを探すときのキーワードの組み立て方や検索コマンドの使い方は、下記の記事を参照してみてください",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ4：情報の収集・整理",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ5：クロスチェック",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さらに、情報収集や仮説づくりを効率化する方法も紹介します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチの具体的な手順（6ステップ）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ1：調査目的・リサーチクエスチョンの設定",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ2：調査項目を具体化する",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まずはこの後の6ステップで調査の軸を整えたうえで、",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "以下の6ステップで進めます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ3：信頼できる情報ソースの選定",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索で情報ソースを探すときのキーワードの組み立て方や検索コマンドの使い方は、下記の記事を参照してみてください",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ4：情報の収集・整理",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ5：クロスチェック",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さらに、情報収集や仮説づくりを効率化する方法も紹介します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチの具体的な手順（6ステップ）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ1：調査目的・リサーチクエスチョンの設定",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ2：調査項目を具体化する",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まずはこの後の6ステップで調査の軸を整えたうえで、",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "以下の6ステップで進めます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ3：信頼できる情報ソースの選定",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索で情報ソースを探すときのキーワードの組み立て方や検索コマンドの使い方は、下記の記事を参照してみてください",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ4：情報の収集・整理",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ5：クロスチェック",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The PhD Blog is suitable for anyone considering or already doing doctoral-level research. Robert MacIntosh, Honorary Professor at the University of St. Andrews and Head of the School of Management and Languages at Heriot-Watt University, manages it. The blog covers topics such as research methodology, epistemology and ontology, research questions, and finding gaps in the literature.",
+    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Writing for Research aims to help researchers master the art of writing creative non-fiction at a research level, providing guidance and resources for every step of the writing process.",
+    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Get a Life, PhD is packed with tips and practical step-by-step advice from Tanya Golash-Boza for various aspects of the writing and publishing process.",
+    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "GradHacker is an academic blog for graduates looking for “stories, tips, and challenges of others experiencing the same things.” Written by a community of bloggers, the topics range from software reviews to disabilities to how to communicate your research to a general audience.",
+    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to write a research blog sample?",
+    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Index vs Appendix: How to Reference in Appendix",
+    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "7 Steps in the Research Process",
+    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Basic Steps in the Research Process",
+    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Conceptual framework in research example",
+    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Conceptual Frameworks",
+    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Final Step in the Research Process",
+    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to choose the right PhD Topic",
+    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Do a Thematic Literature Review",
+    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Implement Grounded Theory in Your Research",
+    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to publish a research paper for students",
+    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さらに、情報収集や仮説づくりを効率化する方法も紹介します",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まずはこの後の6ステップで調査の軸を整えたうえで、",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチの具体的な手順（6ステップ）",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "以下の6ステップで進めます",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ1：調査目的・リサーチクエスチョンの設定",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ2：調査項目を具体化する",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ3：信頼できる情報ソースの選定",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索で情報ソースを探すときのキーワードの組み立て方や検索コマンドの使い方は、下記の記事を参照してみてください",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ4：情報の収集・整理",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ5：クロスチェック",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The Bloomsbury Handbook of Creative Research Methods",
+    "url": "https://helenkara.com/blog/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Creative Research Methods In Practice",
+    "url": "https://helenkara.com/blog/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Top Research Methods in 2026: Types, Examples | Appinio Blog",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Top Research Methods in 2026: Types, Examples",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Ever wondered how to transform your curiosity into a structured exploration of the world's unknowns? In this guide, we dive deep into the top research methods, uncovering the tools, techniques, and ethical considerations that form the bedrock of rigorous inquiry.",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "quantitative and qualitative methodologies",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What are Research Methods?",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Research methods can be broadly categorized into two main types:",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Quantitative Research Methods:",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "These methods involve the collection and analysis of numerical data to identify patterns, trends, and relationships. Quantitative research relies on structured data collection instruments such as surveys, experiments, and",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Qualitative Research Methods:",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Qualitative methods focus on exploring and understanding complex phenomena through in-depth examination of non-numerical data, such as interviews, observations, and textual analysis. Qualitative research emphasizes context, meaning, and interpretation.",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Researchers select the most appropriate research methods based on their research questions, objectives, and the nature of the study. The choice of method significantly impacts the depth and breadth of insights gained from the research process.",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Importance of Research Methods",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Research methods play a pivotal role in academia, business, science, and beyond. Their importance cannot be overstated, as they serve multiple critical functions in the research process:",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Research methods provide a structured framework for conducting inquiries. They help researchers define straightforward research questions, objectives, and hypotheses, ensuring the study stays focused and purposeful.",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Research methods promote rigor and reliability in research. They offer systematic procedures for data collection, reducing the likelihood of bias and errors. This, in turn, enhances the credibility and trustworthiness of research findings.",
+    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "note株式会社はシニアプロダクトデザイナーを採用しています",
@@ -1654,1202 +2850,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "手順・やり方": [
-   {
-    "quote": "1.目的設定のコツ",
-    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2.調べ方のコツ",
-    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3.資料作りのコツ",
-    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調べ方のコツは無限にあると思うので、特に僕が忘れがちだったり大事にしていたことを書きます",
-    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、この構成を作る時は共有の方法や相手を意識して",
-    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "4.共有のコツ",
-    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただ、最適な手法は組織の状況や環境によって変わってくると変わってくると思いますし、僕のやり方も改善の余地はありまくりです",
-    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この状況は万能型の調査テーマで発生しやすく、NPS・満足度など総括スタイルのテーマのみを頼みにしていると、結論は",
-    "url": "https://note.com/diisuket/n/nd52911277358",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "マックに入って店内カウンター上部のメニューパネルに沿ってオーダーするステップに倣い、①メイン→②サイド→③デスクリサーチ（自分でウェブや文献を調べること）の順で決めていきます",
-    "url": "https://note.com/diisuket/n/nd52911277358",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アンケートは大まかに、調査会社に外注、DIYツールで内製、Googleフォームで内製などのやり方に分かれます",
-    "url": "https://note.com/diisuket/n/nd52911277358",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「健康増進プログラムの開発にあたり、フルーツ好きの人を対象に、購入理由・喫食体験を調査し、目玉となる品目及びその促進方法をまとめる」とあります",
-    "url": "https://note.com/diisuket/n/nd52911277358",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最近マーケターの間であらためて注目されている「ユーザー理解」の方法について、「質問の尋ね方」が重要と考えるリサーチャー・菅",
-    "url": "https://note.com/diisuket/n/nd52911277358",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新年のSchoo授業もエントリー受付中！こちらはリサーチャーの情報収集（デスクリサーチ）をテーマに、世の中のトレンドをキャッチアップしたり、消費者のインサイトを理解する方法をお伝えします",
-    "url": "https://note.com/diisuket/n/nd52911277358",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さらに、情報収集や仮説づくりを効率化する方法も紹介します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチの具体的な手順（6ステップ）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ1：調査目的・リサーチクエスチョンの設定",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ2：調査項目を具体化する",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まずはこの後の6ステップで調査の軸を整えたうえで、",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "以下の6ステップで進めます",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ3：信頼できる情報ソースの選定",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索で情報ソースを探すときのキーワードの組み立て方や検索コマンドの使い方は、下記の記事を参照してみてください",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ4：情報の収集・整理",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ5：クロスチェック",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "対象者、サンプルサイズ、質問内容、分析方法を設計",
-    "url": "https://www.macromill.com/service/words/researcher/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新製品開発を成功に導く4つのステップ",
-    "url": "https://www.macromill.com/service/words/researcher/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Read the methods and results carefully. Try to find the duct tape. Consider the simplest extensions first and ask whether the paper’s method would suffice. Think about baseline methods not discussed and imagine where those might fall short.",
-    "url": "https://tomsilver.github.io/blog/2024/lessons/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Creative Quantitative Research Methods",
-    "url": "https://helenkara.com/blog/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How To Create An Inclusive Conference",
-    "url": "https://helenkara.com/blog/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "From the very start, our aim for the International Creative Research Methods Conference was to make it an inclusive conference. We have mostly managed that – and learned a load of lessons along the way. So I thought I would share some of those with you.",
-    "url": "https://helenkara.com/blog/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Finally, we need presenters who understand how to present inclusively – and this will be the topic of my next post.",
-    "url": "https://helenkara.com/blog/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "” immediately stood out to me as a thoughtful and practical guide that addresses one of the most important transitions in an academic journey: understanding how to begin, navigate, and confidently approach doctoral study.",
-    "url": "https://helenkara.com/blog/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "I talked to a colleague about this at the International Creative Research Methods Conference, and learned it was a recent and increasingly common scam. Then I got my second one, rather less fulsome but still flattering:",
-    "url": "https://helenkara.com/blog/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "* stood out to me for the way it brings creativity and innovation into data analysis while maintaining rigor, systematic practice, and research ethics. Its transferable case examples also make it especially relevant to readers interested in research methods, interdisciplinary work, and new approaches to making sense of data.",
-    "url": "https://helenkara.com/blog/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What is your main goal for *The Handbook of Creative Data Analysis* right now—reaching more researchers, increasing visibility, encouraging discussion around creative research methods, or something else?",
-    "url": "https://helenkara.com/blog/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "International Creative Research Methods Conference",
-    "url": "https://helenkara.com/blog/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Journal of Creative Research Methods",
-    "url": "https://helenkara.com/blog/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ".) I knew the creative research methods community needed a place to gather and exchange ideas, and I have been – and am – very glad to be able to help make that happen.",
-    "url": "https://helenkara.com/blog/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "conference last month. His talk was passionate, inclusive, and humorous, with no sign of the storm raging around him except that he asked for his keynote not to be recorded. Later, as I left the building, I saw him a few steps ahead of me and asked if I could walk with him to the tube. I told him about a journal article I had written with",
-    "url": "https://helenkara.com/blog/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "When I teach creative research methods or creative academic writing to doctoral students, they often ask me this question. The short answer is: your doctoral research can be as creative as you like. The longer answer adds: as long as the support you need is in place.",
-    "url": "https://helenkara.com/blog/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "creative research methods",
-    "url": "https://helenkara.com/blog/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "visual, narrative and creative research methods",
-    "url": "https://helenkara.com/blog/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Research Methods: The Ultimate Guide for Academic and Professional Success",
-    "url": "https://www.litmaps.com/articles/types-of-research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In today’s data-driven world, research is the backbone of innovation, decision-making, and problem-solving across industries. Whether you're a student writing a thesis, a business professional analyzing market trends, or a scientist conducting experiments, selecting the right research method is crucial for obtaining accurate and meaningful results.",
-    "url": "https://www.litmaps.com/articles/types-of-research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This comprehensive guide explores the different types of research methods, their applications, advantages, and limitations. By the end of this article, you'll have a clear understanding of how to choose and implement the best research methodology for your study.",
-    "url": "https://www.litmaps.com/articles/types-of-research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What are research methods?",
-    "url": "https://www.litmaps.com/articles/types-of-research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Research methods are systematic strategies used to collect, analyze, and interpret data to answer research questions or test hypotheses. They provide a structured approach to investigating phenomena, ensuring that findings are valid, reliable, and reproducible.",
-    "url": "https://www.litmaps.com/articles/types-of-research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Research methodologies can be broadly categorized into:",
-    "url": "https://www.litmaps.com/articles/types-of-research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3 main research methodes",
-    "url": "https://www.litmaps.com/articles/types-of-research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Mixed-Methods Research: Combines both qualitative and quantitative approaches.",
-    "url": "https://www.litmaps.com/articles/types-of-research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1. Qualitative research methods",
-    "url": "https://www.litmaps.com/articles/types-of-research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In-depth interviews are one-on-one conversations that use open-ended questions to explore participants’ thoughts, feelings, and experiences. They’re ideal for gaining detailed insights into personal motivations, perceptions, or decision-making processes. This method is commonly used in psychology, user research, and healthcare studies.",
-    "url": "https://www.litmaps.com/articles/types-of-research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Case study research is an in-depth analysis of a single entity, such as an individual, group, organization, or event. It provides a holistic view of a complex issue and is especially valuable for studying rare or unique cases. This method is frequently used in business, education, and social sciences.",
-    "url": "https://www.litmaps.com/articles/types-of-research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2. Quantitative research methods",
-    "url": "https://www.litmaps.com/articles/types-of-research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Testing learning methods in randomly assigned student groups.",
-    "url": "https://www.litmaps.com/articles/types-of-research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Surveys and questionnaires are structured tools used to collect data from a large sample of participants. They’re commonly used in market research, public opinion polling, education studies, and health surveys. This method is ideal for gathering data on behaviors, preferences, or attitudes at scale.",
-    "url": "https://www.litmaps.com/articles/types-of-research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さらに、情報収集や仮説づくりを効率化する方法も紹介します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチの具体的な手順（6ステップ）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ1：調査目的・リサーチクエスチョンの設定",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ2：調査項目を具体化する",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まずはこの後の6ステップで調査の軸を整えたうえで、",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "以下の6ステップで進めます",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ3：信頼できる情報ソースの選定",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索で情報ソースを探すときのキーワードの組み立て方や検索コマンドの使い方は、下記の記事を参照してみてください",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ4：情報の収集・整理",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ5：クロスチェック",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=c4ce0d9882537c0d4e3dae216c8b57d5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "を中心に、「誰もが・無料で・一人で（※）」成果を出せるリサーチ方法を、",
-    "url": "https://note.com/diisuket/n/n80b79847745f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここからはアウトドアのテーマを例にして、さらに具体的な使い方を見ていきましょう",
-    "url": "https://note.com/diisuket/n/n80b79847745f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチ的には、仮説探索型と仮説検証型の見方があります",
-    "url": "https://note.com/diisuket/n/n80b79847745f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ハッシュタグ検索で画像の一覧を見ると、ドーム型の施設、夕方～夜の撮影、周囲の冬景色などが目立ちます",
-    "url": "https://note.com/diisuket/n/n80b79847745f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "具体的には、「水なしヘアケア」「一体型インナー」「持ち出しポーチ」などで、",
-    "url": "https://note.com/diisuket/n/n80b79847745f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事では基本的にインタビューの手法を封印して乗り切る方法を書いていますが、日常会話の中で人から情報を得るくらいの方法は付け足してもいいでしょう",
-    "url": "https://note.com/diisuket/n/n80b79847745f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "のですが、この方法だと一生他社を追い越せません",
-    "url": "https://note.com/diisuket/n/n80b79847745f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "でも、物事の細かい違いや差を知ることはこの記事の方法で可能です",
-    "url": "https://note.com/diisuket/n/n80b79847745f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ情報をさらにアンケートやインタビューの中に活かしていく方法はこちらで解説していますので、よかったら併せてご覧ください",
-    "url": "https://note.com/diisuket/n/n80b79847745f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最近マーケターの間であらためて注目されている「ユーザー理解」の方法について、「質問の尋ね方」が重要と考えるリサーチャー・菅",
-    "url": "https://note.com/diisuket/n/n80b79847745f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "しかし、アンケートフォームの適切な質問や選択肢を用意するやり方を教わる機会は少なく、テンプレートを使用しようとすると、用途によらず同じ質問が並んでしまうことがあると思います",
-    "url": "https://manamina.valuesccg.com/articles/1877",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回は、利用者の認知経路や利用理由を調べる「利用者アンケート」（BtoC編・BtoB編）、満足度や知人への推奨意向度を調べる「満足度アンケート」（BtoC編・BtoB編）、利用シーンや利用に際して重視していることを調べる「ユーザープロファイルアンケート」(基本項目編・発展項目編)の6つに分けて、それぞれの用途に合った質問と選択肢を用意することができるような「基本の型」となるフォーム作成方法を解説しました",
-    "url": "https://manamina.valuesccg.com/articles/1877",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アンケートフォームを作成したことはあるがその施策への活用方法がわからない方、用途に合わせたアンケートフォームの作成方法が知りたい方などはぜひ参考にしてみてください",
-    "url": "https://manamina.valuesccg.com/articles/1877",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "行動パターンを類型化することで、プロモーション効率をあげることに繋がります",
-    "url": "https://manamina.valuesccg.com/articles/1877",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そこで本企画では菅原さんに、ユーザー理解の考え方と方法をインタビューしました",
-    "url": "https://manamina.valuesccg.com/articles/1877",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最近マーケターの間であらためて注目されている「ユーザー理解」の方法について、「質問の尋ね方」が重要と考えるリサーチャー・菅原大介さんに取材します",
-    "url": "https://manamina.valuesccg.com/articles/1877",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "helps researchers master the art of writing creative non-fiction at a research level, providing guidance and resources for every step of the writing process.",
-    "url": "https://www.listening.com/blog/academic-blogs",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Types of Research Interviews (Focus Groups, Structured, etc.): Steps and Examples",
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Research interviews are among the most widely used data collection methods in academic and professional research. A researcher asks questions of one or more",
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Find Credible Open Access Journals: Author Checklist",
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Pilot Study in Research: Definition, Types, Steps & Examples",
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In the world of science and academia, researchers frequently rely on different kinds of tools and methods as they navigate their scholarly journeys. That is",
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What is Snowball Sampling? Methods and Examples",
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In the academic landscape, researchers, students, and educators are constantly engaging with research and assessment methods in the work they undertake. Conducting experiments, using different",
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Predictive validity is an essential concept in psychometrics and research methodology. It refers to the extent to which a test score or assessment can accurately",
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Key takeaways: Probability sampling is a method where every individual in a population has a known and non-zero chance of being selected, ensuring a representative",
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What Is Experimental Research Design? Definition, Types, Steps, and Examples",
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What is Analytical Research? Definition, Methods, Examples",
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What is Non-Probability Sampling? Methods, Types, and Examples",
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Find and Calculate the h-Index on Scopus?",
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to find the h-Index on Web of Science?",
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Calculate H-Index in Google Scholar?",
-    "url": "https://researcher.life/blog/category/research-tips/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さらに、情報収集や仮説づくりを効率化する方法も紹介します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチの具体的な手順（6ステップ）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ1：調査目的・リサーチクエスチョンの設定",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ2：調査項目を具体化する",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まずはこの後の6ステップで調査の軸を整えたうえで、",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "以下の6ステップで進めます",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ3：信頼できる情報ソースの選定",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索で情報ソースを探すときのキーワードの組み立て方や検索コマンドの使い方は、下記の記事を参照してみてください",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ4：情報の収集・整理",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ5：クロスチェック",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=6f136b18238ff342efceb216a1e15a7d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さらに、情報収集や仮説づくりを効率化する方法も紹介します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチの具体的な手順（6ステップ）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ1：調査目的・リサーチクエスチョンの設定",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ2：調査項目を具体化する",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まずはこの後の6ステップで調査の軸を整えたうえで、",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "以下の6ステップで進めます",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ3：信頼できる情報ソースの選定",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索で情報ソースを探すときのキーワードの組み立て方や検索コマンドの使い方は、下記の記事を参照してみてください",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ4：情報の収集・整理",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ5：クロスチェック",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=b8b694ea15aca1fe59557048fc05742e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さらに、情報収集や仮説づくりを効率化する方法も紹介します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチの具体的な手順（6ステップ）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ1：調査目的・リサーチクエスチョンの設定",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ2：調査項目を具体化する",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まずはこの後の6ステップで調査の軸を整えたうえで、",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "以下の6ステップで進めます",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ3：信頼できる情報ソースの選定",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索で情報ソースを探すときのキーワードの組み立て方や検索コマンドの使い方は、下記の記事を参照してみてください",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ4：情報の収集・整理",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ5：クロスチェック",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=5a20ea3b8c626e6d88287ebe0a347fb5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The PhD Blog is suitable for anyone considering or already doing doctoral-level research. Robert MacIntosh, Honorary Professor at the University of St. Andrews and Head of the School of Management and Languages at Heriot-Watt University, manages it. The blog covers topics such as research methodology, epistemology and ontology, research questions, and finding gaps in the literature.",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Writing for Research aims to help researchers master the art of writing creative non-fiction at a research level, providing guidance and resources for every step of the writing process.",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Get a Life, PhD is packed with tips and practical step-by-step advice from Tanya Golash-Boza for various aspects of the writing and publishing process.",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "GradHacker is an academic blog for graduates looking for “stories, tips, and challenges of others experiencing the same things.” Written by a community of bloggers, the topics range from software reviews to disabilities to how to communicate your research to a general audience.",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to write a research blog sample?",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Index vs Appendix: How to Reference in Appendix",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "7 Steps in the Research Process",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Basic Steps in the Research Process",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Conceptual framework in research example",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Conceptual Frameworks",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Final Step in the Research Process",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to choose the right PhD Topic",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Do a Thematic Literature Review",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Implement Grounded Theory in Your Research",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to publish a research paper for students",
-    "url": "https://scholarsedge.blogspot.com/2024/09/21-best-academic-blogs-every-researcher.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さらに、情報収集や仮説づくりを効率化する方法も紹介します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まずはこの後の6ステップで調査の軸を整えたうえで、",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチの具体的な手順（6ステップ）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "以下の6ステップで進めます",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ1：調査目的・リサーチクエスチョンの設定",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ2：調査項目を具体化する",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ3：信頼できる情報ソースの選定",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索で情報ソースを探すときのキーワードの組み立て方や検索コマンドの使い方は、下記の記事を参照してみてください",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ4：情報の収集・整理",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ5：クロスチェック",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The Bloomsbury Handbook of Creative Research Methods",
-    "url": "https://helenkara.com/blog/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Creative Research Methods In Practice",
-    "url": "https://helenkara.com/blog/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Top Research Methods in 2026: Types, Examples | Appinio Blog",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Top Research Methods in 2026: Types, Examples",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Ever wondered how to transform your curiosity into a structured exploration of the world's unknowns? In this guide, we dive deep into the top research methods, uncovering the tools, techniques, and ethical considerations that form the bedrock of rigorous inquiry.",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "quantitative and qualitative methodologies",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What are Research Methods?",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Research methods can be broadly categorized into two main types:",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Quantitative Research Methods:",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "These methods involve the collection and analysis of numerical data to identify patterns, trends, and relationships. Quantitative research relies on structured data collection instruments such as surveys, experiments, and",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Qualitative Research Methods:",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Qualitative methods focus on exploring and understanding complex phenomena through in-depth examination of non-numerical data, such as interviews, observations, and textual analysis. Qualitative research emphasizes context, meaning, and interpretation.",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Researchers select the most appropriate research methods based on their research questions, objectives, and the nature of the study. The choice of method significantly impacts the depth and breadth of insights gained from the research process.",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Importance of Research Methods",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Research methods play a pivotal role in academia, business, science, and beyond. Their importance cannot be overstated, as they serve multiple critical functions in the research process:",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Research methods provide a structured framework for conducting inquiries. They help researchers define straightforward research questions, objectives, and hypotheses, ensuring the study stays focused and purposeful.",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Research methods promote rigor and reliability in research. They offer systematic procedures for data collection, reducing the likelihood of bias and errors. This, in turn, enhances the credibility and trustworthiness of research findings.",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "実例": [
    {
     "quote": "このリサーチ結果をみて誰の役に立って、どんなふうにpjtや事業が前に進むかを明確にする",
@@ -3849,72 +3849,57 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/sendamasato/n/n2aa275f51bad",
+    "url": "https://note.com/iid_research01/n/n3c59f93f08a5",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/haroppe/n/ne1e75ee865c4",
+    "url": "https://note.com/diisuket/n/n80b79847745f",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/mihozono/n/n73d01ee60af9",
+    "url": "https://note.com/shintaku0707/n/na55f7dab824d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/hiro_seki/n/n7f319a95916a",
+    "url": "https://note.com/ulcons/n/n4e5578444b56",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/masakyotwo/n/n237a39a1e195",
+    "url": "https://note.com/oshigoto_zukan/n/n12df83cf8aa8",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/shippio/n/nd891dae5eb08",
+    "url": "https://note.com/yoshi1456/n/ne0b285061612",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/diisuket/n/n3015401e4406",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/haroppe/n/ncdc72b456780",
+    "url": "https://manamina.valuesccg.com/articles/1877",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/k_yoshihara/n/n1d7945e8eea1",
+    "url": "https://scrapbox.io/DoubleLoop/%E5%B0%82%E9%96%80%E5%AE%B6%E5%80%8B%E4%BA%BA%EF%BC%8B%E4%BC%9A%E7%A4%BE%E7%B5%84%E7%B9%94%E4%BA%BA%E3%81%A8%E3%81%84%E3%81%86%E4%BA%8C%E5%88%80%E6%B5%81%E3%81%AE%E5%83%8D%E3%81%8D%E6%96%B9%EF%BD%9C%E8%8F%85%E5%8E%9F%E5%A4%A7%E4%BB%8B%EF%BD%9C%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%EF%BD%9Cnote",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/diisuket/n/nd52911277358",
+    "url": "https://www.kotora.jp/c/50381/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://chromewebstore.google.com/detail/note-research-tool/pialmmgjeifnkkijgkimiapdlacfjjnf",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.pascaljp.com/blog/?p=5269",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://doyamarke.surisuta.jp/notes/ai-research-method",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
+    "url": "https://gaishishukatsu.com/archives/36953",
     "status": "ok",
     "method": "http"
    },
@@ -3924,77 +3909,27 @@
     "method": "http"
    },
    {
-    "url": "https://www.sprocket.bz/blog/20221031-desk_research.html",
+    "url": "https://note.shiftinc.jp/n/nb8fc981e8b12?gs=be7c4fbbc51e3906f48b1b7962d1293a",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://satori.marketing/marketing-blog/marketing-research/",
+    "url": "https://crex-consulting.com/column/research/company-research-guide/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://aifantasy-lab.com/perplexity-blog-research-seo-2026/",
+    "url": "https://glohai.com/blog/7741",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://resory.jp/column/expert-interview-use-cases",
+    "url": "https://resory.jp/resory_cases",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://gomumari.com/knowledge/shijo-chosa-kaisha-hikaku/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.tsr-net.co.jp/service/detail/market-reserch-depth.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/examples_service/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://surveroid.jp/mr-journal/case/r6AOg",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.macromill.com/service/words/researcher/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://tomsilver.github.io/blog/2024/lessons/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://helenkara.com/blog/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.litmaps.com/articles/types-of-research-methods",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://authorservices.taylorandfrancis.com/blog/research-impact/5-must-have-skills-for-researchers-of-the-future/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://researcherblogs.ki.se/",
+    "url": "https://newspicks.expert/media/post/case4",
     "status": "ok",
     "method": "http"
    }
@@ -4004,704 +3939,146 @@
   {
    "query": "エキスパートや調査会社のリサーチャーが書いた調べ方のブログ site:note.com",
    "results": [
-    "https://note.com/sendamasato/n/n2aa275f51bad",
-    "https://note.com/haroppe/n/ne1e75ee865c4",
-    "https://note.com/mihozono/n/n73d01ee60af9",
-    "https://note.com/hiro_seki/n/n7f319a95916a",
-    "https://note.com/masakyotwo/n/n237a39a1e195",
-    "https://note.com/shippio/n/nd891dae5eb08",
-    "https://note.com/hacket/n/n0c5bdb8e6040",
-    "https://note.com/hiro_seki/n/n1fb4d489dd27",
-    "https://note.com/treasurefoot_ai/n/n1cbd8d8346f7",
-    "https://note.com/tech_nomad/n/nd81d68e940c0"
+    "https://note.com/iid_research01/n/n3c59f93f08a5",
+    "https://note.com/diisuket/n/n80b79847745f",
+    "https://note.com/shintaku0707/n/na55f7dab824d",
+    "https://note.com/ulcons/n/n4e5578444b56",
+    "https://note.com/oshigoto_zukan/n/n12df83cf8aa8",
+    "https://note.com/yoshi1456/n/ne0b285061612",
+    "https://note.com/cbp189/n/n6a551322e899"
    ]
   },
   {
    "query": "エキスパートや調査会社のリサーチャーが書いた調べ方のブログ note",
    "results": [
-    "https://note.com/diisuket/n/n3015401e4406",
-    "https://note.com/haroppe/n/ncdc72b456780",
-    "https://note.com/k_yoshihara/n/n1d7945e8eea1",
-    "https://note.com/diisuket/n/nd52911277358",
-    "https://chromewebstore.google.com/detail/note-research-tool/pialmmgjeifnkkijgkimiapdlacfjjnf",
-    "https://www.pascaljp.com/blog/?p=5269",
-    "https://note.com/shintaku0707/n/na55f7dab824d",
-    "https://resory.jp/column/expert-interview-use-cases/",
-    "https://note.com/k_yoshihara/n/n6c596e9f9a04",
-    "https://note.com/oshigoto_zukan/n/n12df83cf8aa8"
+    "https://note.com/oshigoto_zukan/n/n12df83cf8aa8",
+    "https://note.com/ulcons/n/n4e5578444b56",
+    "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "https://manamina.valuesccg.com/articles/1877",
+    "https://scrapbox.io/DoubleLoop/専門家個人＋会社組織人という二刀流の働き方｜菅原大介｜リサーチャー｜note",
+    "https://www.kotora.jp/c/50381/",
+    "https://gaishishukatsu.com/archives/36953"
    ]
   },
   {
    "query": "エキスパートや調査会社のリサーチャーが書いた調べ方のブログ やり方",
    "results": [
-    "https://www.pascaljp.com/blog/?p=5269",
-    "https://doyamarke.surisuta.jp/notes/ai-research-method",
-    "https://note.intimatemerger.com/n/n9012095e7eac",
     "https://wwstd.jp/media/webwriter-research/",
-    "https://www.sprocket.bz/blog/20221031-desk_research.html",
-    "https://satori.marketing/marketing-blog/marketing-research/",
-    "https://aifantasy-lab.com/perplexity-blog-research-seo-2026/",
-    "https://gmo-research.ai/research-column/desk-research",
-    "https://future-architect.github.io/articles/20220421a/",
-    "https://note.com/yoshi1456/n/ne0b285061612"
+    "https://note.com/yoshi1456/n/ne0b285061612",
+    "https://note.shiftinc.jp/n/nb8fc981e8b12",
+    "https://note.com/ulcons/n/n4e5578444b56",
+    "https://www.kotora.jp/c/50381/",
+    "https://crex-consulting.com/column/research/company-research-guide/",
+    "https://note.rallygrowth.co.jp/recommend/consultant-research/"
    ]
   },
   {
    "query": "エキスパートや調査会社のリサーチャーが書いた調べ方のブログ 事例",
    "results": [
-    "https://resory.jp/column/expert-interview-use-cases/",
-    "https://gomumari.com/knowledge/shijo-chosa-kaisha-hikaku/",
-    "https://www.pascaljp.com/blog/?p=5269",
-    "https://www.tsr-net.co.jp/service/detail/market-reserch-depth.html",
-    "https://www.asmarq.co.jp/column/column-cat/how_to/examples_service/",
-    "https://surveroid.jp/mr-journal/case/r6AOg",
-    "https://www.macromill.com/service/words/researcher/",
-    "https://satori.marketing/marketing-blog/marketing-research/",
-    "https://www.cross-m.co.jp/case_study",
-    "https://www.kotora.jp/c/50381/"
+    "https://www.kotora.jp/c/50381/",
+    "https://glohai.com/blog/7741",
+    "https://manamina.valuesccg.com/articles/1877",
+    "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "https://note.com/yoshi1456/n/ne0b285061612",
+    "https://resory.jp/resory_cases",
+    "https://newspicks.expert/media/post/case4"
    ]
   },
   {
    "query": "professional researcher blog research techniques",
-   "results": [
-    "https://tomsilver.github.io/blog/2024/lessons/",
-    "https://helenkara.com/blog/",
-    "https://www.litmaps.com/articles/types-of-research-methods",
-    "https://www.youtube.com/watch?v=wGWqBtDkOFs",
-    "http://www.appinio.com/en/blog/market-research/research-methods",
-    "https://authorservices.taylorandfrancis.com/blog/research-impact/5-must-have-skills-for-researchers-of-the-future/",
-    "https://researcherblogs.ki.se/",
-    "https://researchmethodscommunity.sagepub.com/",
-    "https://www.researchsolutions.com/blog",
-    "https://www.listening.com/blog/academic-blogs"
-   ]
+   "results": []
   },
   {
    "query": "site:note.com エキスパートや調査会社のリサーチャーが書いた調べ方のブログ",
    "results": [
-    "https://note.com/sendamasato/n/n2aa275f51bad",
-    "https://note.com/haroppe/n/ne1e75ee865c4",
-    "https://note.com/mihozono/n/n73d01ee60af9",
-    "https://note.com/hiro_seki/n/n7f319a95916a",
-    "https://note.com/masakyotwo/n/n237a39a1e195",
-    "https://note.com/shippio/n/nd891dae5eb08",
-    "https://note.com/hacket/n/n0c5bdb8e6040",
-    "https://note.com/philosophykit/n/n12ac0e10e1bc",
-    "https://note.com/hiro_seki/n/n1fb4d489dd27",
-    "https://note.com/tech_nomad/n/nd81d68e940c0"
+    "https://note.com/iid_research01/n/n3c59f93f08a5",
+    "https://note.com/diisuket/n/n80b79847745f",
+    "https://note.com/ulcons/n/n4e5578444b56",
+    "https://note.com/oshigoto_zukan/n/n12df83cf8aa8",
+    "https://note.com/shintaku0707/n/na55f7dab824d",
+    "https://note.com/cbp189/n/n6a551322e899",
+    "https://note.com/yoshi1456/n/ne0b285061612",
+    "https://note.com/diisuket/n/nd52911277358",
+    "https://note.com/mizuhiki_kaka/n/n25c97af4755e"
    ]
   },
   {
    "query": "site:x.com エキスパートや調査会社のリサーチャーが書いた調べ方のブログ",
    "results": [
     "https://x.com/diisuket",
-    "https://x.com/carrer0518happy",
-    "https://x.com/wataru_hirota",
-    "https://x.com/SakanaAILabs?lang=da",
-    "https://x.com/GovTechTokyo",
-    "https://x.com/vegemaki",
-    "https://x.com/hukugyootaku/status/2034836262776115494",
-    "https://x.com/controudit_ceo",
-    "https://x.com/strinsert1Na/with_replies",
-    "https://x.com/nokonoko_nknk"
+    "https://x.com/daifukujinji/status/2080035174147080520",
+    "https://x.com/carrer0518happy/status/2043996092883447988",
+    "https://x.com/careertasu/status/2118327517664973051",
+    "https://x.com/carrer0518happy/status/2102925972970557847",
+    "https://x.com/consul_ichinose/status/2076583071118475306",
+    "https://x.com/tamura__54/status/2096707768854216731",
+    "https://x.com/carrer0518happy/article/2042527679170384138",
+    "https://x.com/cross_marketing/status/2100509199524610340"
    ]
   },
   {
    "query": "site:linkedin.com エキスパートや調査会社のリサーチャーが書いた調べ方のブログ",
    "results": [
-    "https://jp.linkedin.com/jobs/view/ui-ux-g-ux%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%88%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%BC%E3%83%88%EF%BC%89-at-%E4%B8%80%E8%88%AC%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAgovtech%E6%9D%B1%E4%BA%AC-4484044020",
-    "https://jp.linkedin.com/jobs/view/%E7%B5%8C%E5%96%B6%E7%AE%A1%E7%90%86g-%E6%94%BF%E7%AD%96%E7%A0%94%E7%A9%B6%E3%83%BB%E8%AA%BF%E6%9F%BB%E6%8B%85%E5%BD%93%EF%BC%88ai%E3%83%BBax%E3%80%81%E8%A1%8C%E6%94%BFdx%EF%BC%89%EF%BC%88%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%BC%E3%83%88%EF%BC%89-at-%E4%B8%80%E8%88%AC%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAgovtech%E6%9D%B1%E4%BA%AC-4484352715",
-    "https://jp.linkedin.com/in/yifanwangjapan",
-    "https://jp.linkedin.com/pulse/can-you-trust-ai-errors-omissions-hallucinations-oh-my-jennifer-filla-npeke?tl=ja",
-    "https://jp.linkedin.com/jobs/view/%E5%85%88%E7%AB%AF%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC-strategic-it-modernization-sector%EF%BC%88solution-consultant%E8%81%B7%EF%BC%89%E2%89%AA%E5%A4%A7%E9%98%AA%E2%89%AB-at-abeam-consulting-4475763434",
-    "https://uk.linkedin.com/in/melissa-francis-94361423/ja",
-    "https://jp.linkedin.com/in/miho-ito-7b75881b6",
-    "https://jp.linkedin.com/in/ken-9-nakamura",
-    "https://jp.linkedin.com/in/%E5%BA%B7%E5%B9%B3-%E4%BD%90%E8%97%A4-376674188",
-    "https://jp.linkedin.com/pulse/317-%E5%8B%95%E3%81%8D%E5%87%BA%E3%81%97%E3%81%9F%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%82%B3%E3%83%9E%E3%83%BC%E3%82%B9-%E9%99%BD-%E4%BD%90%E8%97%A4-rqvyc"
+    "https://jp.linkedin.com/posts/ryoko-fujii-18085310_調査にかかる時間が12時間2時間に-調査はaiが最も得意な分野です-プロ-activity-7432190737997447170--h-Q",
+    "https://jp.linkedin.com/in/寛-山本-2179aa184",
+    "https://www.linkedin.com/posts/洋輔-村岡-442a92179_データ分析はギャップに注目せよマクロミルトップリサーチャーが語るデータ分析の-activity-7140963234777407489-OHxt",
+    "https://www.linkedin.com/pulse/調べてみよう書いてみよう-世の中への扉-昌幸-増田",
+    "https://jp.linkedin.com/in/yutaka-suzuki-7a5721345",
+    "https://jp.linkedin.com/posts/kent-ishizaki-394a50168_リサーチをして色々わかったけれど結局何をすべきか決まらないそんなご-activity-7120760289133793281-pHkL",
+    "https://jp.linkedin.com/pulse/how-navigate-career-ux-research-strategies-success-dabhade-she-her--divwf?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com エキスパートや調査会社のリサーチャーが書いた調べ方のブログ",
    "results": [
-    "https://secure.facebook.com/login/",
     "https://www.facebook.com/note.poc/posts/ビジネスリサーチャーが毎日やっている調べる習慣の身に付け方twitterinstagramyoutubetv雑誌でできるリサーチ方法をリサーチャーの菅原大介di/4665718136838340/",
     "https://www.facebook.com/mmdlabo/posts/本日mmdリサーチャーコラムインタビュー調査は時間がかかるはもう古いaiでスピードも質もあきらめないmmdlaboの挑戦をリリースいたしましたインタビュー調査っ/1265668631917484/",
-    "https://www.facebook.com/dentsuho/posts/リサーチを軸にした戦略立案やマーケティング支援を行うブランドリサーチャーとプランナーの二人がマーケティングの未来を紐解くキーワードやリサーチのコツを語り合いまし/5426924340739693/",
+    "https://www.facebook.com/RakutenInsight/photos/ナットクリサーチqa弊社顧問である三木康夫が皆様のマーケティングリサーチに関する質問にお答えするナットクリサーチqa頂戴しました中から今回はこちらの質問に回答い/2989835111099870/",
+    "https://www.facebook.com/dentsuho/posts/5033235390108592/",
     "https://www.facebook.com/mmdlabo/posts/本日弊社リサーチャーによるコラムアンケートデータの読み取り方をリリースいたしました消費者の動向を知るためにアンケート調査をしたもののアンケートデータをどう読み取/597294995421521/",
-    "https://www.facebook.com/100082493656223/posts/コラム-リサーチャーのつぶやき-第1回新入生アンケートで学生のインサイトを探ろう新年度を迎え大変お忙しい時期かと存じます弊社では調査担当者の皆さまのお役に立てる/114883897850961/",
-    "https://www.facebook.com/SansanJapan/posts/uxリサーチャーブログ-vol3-を公開しました昨年6月に発足したユーザー体験の調査に特化したsansanの社内組織-uxリサーチセンター今回はメンバーの青木が/4873049226143689/"
+    "https://www.facebook.com/SansanJapan/posts/uxリサーチャーブログ-vol3-を公開しました昨年6月に発足したユーザー体験の調査に特化したsansanの社内組織-uxリサーチセンター今回はメンバーの青木が/4873049226143689/",
+    "https://www.facebook.com/popinsight/posts/新着-ブログ未経験-からuxリサーチャーとして1年新人リサーチャーが失敗から得た学びをご紹介プロトタイプ-作成での認識齟齬社内体制の把握不足uxリサーチ-のコミ/577279817732892/"
    ]
   },
   {
    "query": "エキスパートや調査会社のリサーチャーが書いた調べ方のブログ note 社長",
    "results": [
-    "https://note.com/haroppe/n/ncdc72b456780",
-    "https://note.com/diisuket/n/n3015401e4406",
-    "https://note.com/diisuket/n/nd52911277358",
-    "https://note.com/shintaku0707/n/na55f7dab824d",
-    "https://www.pascaljp.com/blog/?p=5269",
-    "https://manamina.valuesccg.com/articles/4764",
-    "https://note.com/k_yoshihara/n/n1d7945e8eea1",
-    "https://www.youtube.com/watch?v=uCoXFC2SeWE",
-    "https://note.com/nahouemura/n/n3c5f6749592d",
-    "https://www.comnico.jp/we-love-social/note_matome"
+    "https://www.comnico.jp/we-love-social/note_matome",
+    "https://note.com/yoshi1456/n/ne0b285061612",
+    "https://note.com/yoshinkanri1124/n/n7d34426eb074",
+    "https://scrapbox.io/DoubleLoop/専門家個人＋会社組織人という二刀流の働き方｜菅原大介｜リサーチャー｜note",
+    "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "https://www.youtube.com/watch?v=515AyfWsCXI",
+    "https://blog.with2.net/ranking/1547"
    ]
   },
   {
    "query": "エキスパートや調査会社のリサーチャーが書いた調べ方のブログ X 投稿",
    "results": [
-    "https://www.gas-laboratory.com/courses/twitter-kw-posts-data",
-    "https://www.youtube.com/watch?v=y6uoeFbYmKs",
-    "https://www.pascaljp.com/blog/?p=5269",
-    "https://note.com/ogataka/n/n51f144be23b1",
-    "https://www.aspicjapan.org/asu/article/48686",
-    "https://taga-tame.com/blog/how-to-use-twitter-analytics-and-5-effective-analysis-methods/",
-    "https://programming-zero.net/twitter-kw-posts-data-manual/",
-    "https://www.nttcoms.com/service/research/",
-    "https://it-trend.jp/sns_management_tool/article/884-4999",
-    "https://x.com/diisuket"
+    "https://x.com/diisuket",
+    "https://x.com/yama_research",
+    "https://research.thinkmove.jp/",
+    "https://note.com/cbp189/n/n6a551322e899",
+    "https://tatap.jp/knowledge/x-search-commands/",
+    "https://www.kotora.jp/c/50381/",
+    "https://x.com/carrer0518happy/article/2042527679170384138"
    ]
   },
   {
    "query": "professional researcher blog research techniques site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/three-tips-researchers-using-social-media-crispin-coombs",
-    "https://www.linkedin.com/pulse/researchers-without-lab-coats-1-ready-career-research-surya-mukherjee",
-    "https://www.linkedin.com/posts/people-for-research_in-our-latest-guest-blog-rufai-a-user-researcher-activity-7480206492005126144-flH3",
-    "https://www.linkedin.com/posts/becky-carlyle-bb399118_this-was-a-tough-blog-post-to-write-but-activity-7427323851618922498-PB5v",
-    "https://www.linkedin.com/advice/1/how-do-you-become-content-researcher-skills-research-plp7c",
-    "https://www.linkedin.com/posts/philldawson_what-is-a-researcher-a-researcher-is-someone-activity-7475384807611535360-t-oz",
-    "https://www.linkedin.com/top-content/science/using-technology-in-scientific-research/best-practices-for-sharing-research-findings-online/",
-    "https://www.linkedin.com/posts/drtarynbell_fellowships-support-for-researchers-support-activity-7503802465881026560-ZQbe",
-    "https://www.linkedin.com/pulse/what-i-wish-knew-early-career-scientist-impact-nele-haelterman",
-    "https://uk.linkedin.com/in/helen-kara-469b742"
+    "https://www.linkedin.com/advice/1/how-can-you-master-advanced-research-techniques-skills-research",
+    "https://www.linkedin.com/advice/3/how-can-you-use-blogs-effectively-communicate-31hvc",
+    "https://in.linkedin.com/in/researcher-blogs-a1252b281",
+    "https://ca.linkedin.com/in/guanjie-li-5997b980",
+    "https://uk.linkedin.com/in/holly-prescott",
+    "https://br.linkedin.com/pulse/how-read-understand-scientific-research-papers-sakshi-theurkar-kivef?tl=pt",
+    "https://me.linkedin.com/in/ivan-drokin"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {
-  "一次情報の探し方": [
-   {
-    "quote": "：総務省統計局の人口統計、経済産業省の業種別統計など",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "収集した情報は一次情報・二次情報に分類する",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "デスクリサーチはただ単に資料を探すだけでなく、調査目的に合う情報源を選び、発行元や調査時期を確認し、複数の資料を照合する必要があります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "集めた情報を、意思決定に使える仮説やレポートにまとめることも重要です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さらに、情報収集や仮説づくりを効率化する方法も紹介します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのため、デスクリサーチは初期仮説づくりに使い、公開情報で不足する論点は一次調査へ渡します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実務では「まずデスクリサーチで市場全体の仮説を構築し、仮説を検証するためにフィールドリサーチを実施する」という順序が標準的です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチクエスチョンが決まったら、「どの情報があれば答えられるか」の調査項目を逆算して情報ソースを選定します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リサーチクエスチョンが固まったら、調査前に「おそらく〇〇ではないか」という仮説を1〜2つ立てておくことをお勧めします",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説があると情報収集の優先順位がつけやすくなり、「仮説を支持するデータ」「仮説に反するデータ」の両面を意識して集められるため、解釈の精度が上がります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説を検証するために、何を調べるかを具体的な調査項目へ分解します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ5：クロスチェック",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "市場規模を推定するときは、公的統計や調査会社のレポートと組み合わせて利用します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "重要な数値や主張は、異なる調査主体の情報と照合します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に注意が必要なのは、",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さらに、情報収集や仮説づくりを効率化する方法も紹介します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まずはこの後の6ステップで調査の軸を整えたうえで、",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチの具体的な手順（6ステップ）",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "以下の6ステップで進めます",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ1：調査目的・リサーチクエスチョンの設定",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ2：調査項目を具体化する",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ3：信頼できる情報ソースの選定",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索で情報ソースを探すときのキーワードの組み立て方や検索コマンドの使い方は、下記の記事を参照してみてください",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ4：情報の収集・整理",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ5：クロスチェック",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The Bloomsbury Handbook of Creative Research Methods",
-    "url": "https://helenkara.com/blog/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Creative Research Methods In Practice",
-    "url": "https://helenkara.com/blog/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Top Research Methods in 2026: Types, Examples | Appinio Blog",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Top Research Methods in 2026: Types, Examples",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Ever wondered how to transform your curiosity into a structured exploration of the world's unknowns? In this guide, we dive deep into the top research methods, uncovering the tools, techniques, and ethical considerations that form the bedrock of rigorous inquiry.",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "quantitative and qualitative methodologies",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What are Research Methods?",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Research methods can be broadly categorized into two main types:",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Quantitative Research Methods:",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "These methods involve the collection and analysis of numerical data to identify patterns, trends, and relationships. Quantitative research relies on structured data collection instruments such as surveys, experiments, and",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Qualitative Research Methods:",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Qualitative methods focus on exploring and understanding complex phenomena through in-depth examination of non-numerical data, such as interviews, observations, and textual analysis. Qualitative research emphasizes context, meaning, and interpretation.",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Researchers select the most appropriate research methods based on their research questions, objectives, and the nature of the study. The choice of method significantly impacts the depth and breadth of insights gained from the research process.",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Importance of Research Methods",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Research methods play a pivotal role in academia, business, science, and beyond. Their importance cannot be overstated, as they serve multiple critical functions in the research process:",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Research methods provide a structured framework for conducting inquiries. They help researchers define straightforward research questions, objectives, and hypotheses, ensuring the study stays focused and purposeful.",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Research methods promote rigor and reliability in research. They offer systematic procedures for data collection, reducing the likelihood of bias and errors. This, in turn, enhances the credibility and trustworthiness of research findings.",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "あるいは、検索結果を一つずつ確認しているうちに、情報収集だけで何日もかかってしまうことはありませんか",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まずは導入事例の資料ででデスクリサーチをどう効率化し、調査結果をどのように整理したか確認してみてください",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチ）行動の結果記録を扱うため、「なぜそうしたか」という潜在動機や本音の把握は困難です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチなしに一次調査を始めると、設問設計の前提が甘くなり、結果の解釈精度が下がります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：既存データは行動の結果記録であり、「なぜそうしたか」という潜在動機までは追えません",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、国内の〇〇市場への参入可能性を調べる場合は、次のように分解します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まず無料で公開されている概要や調査結果を確認し、詳細な市場区分や予測値が必要な場合に有料レポートを検討すると効率的です",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：事業内容、サービス、導入事例、プレスリリース、決算説明資料などを確認できます",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：企業が発表した新商品、業務提携、調査結果などのプレスリリースを検索できます",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同じテーマでも、質問文や調査対象者が異なると結果は変わります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査結果を引用するときは、数値だけでなく調査条件も確認しましょう",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "テキストと異なり、グラフは「図版」として著作物性が認められやすいため、スクリーンショットの貼り付けや図版の模写は、出典明示だけでは不十分なケースがあります",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、インティメート・マージャーが提供するサー",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "は、独自のIDソリューションによって国内人口の約90%のWeb閲覧行動を把握したデータをもとに、チャット形式でリサーチ結果を提供するサービスです",
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=dc824c50c8e650183957021acdb376b2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In this strategy, one method's findings are used to expand upon or validate the other method's results. For example, qualitative interviews may lead to the development of additional survey questions for quantitative research.",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Keep your audience engaged by incorporating storytelling techniques. Share anecdotes, real-world examples, or case studies that illustrate the relevance and impact of your research.",
-    "url": "https://www.appinio.com/en/blog/market-research/research-methods",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ]
- },
- "runs": 10,
+ "new_this_run": {},
+ "runs": 11,
  "first_researched_at": "2026-11-05T00:46:28.171761+00:00"
 }
