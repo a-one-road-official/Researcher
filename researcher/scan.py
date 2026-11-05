@@ -453,6 +453,30 @@ MERGER = re.compile(r"(合併|経営統合|事業譲渡|買収|M&A|子会社化|
 # 「推計母集団労働者数」は推計比率を作るための重みで、ふつうの意味の人数ではない）
 SAMPLEROT = re.compile(r"(抽出替え|標本の?入れ替え|サンプル替え|ベンチマーク(の)?更新|ギャップ修正|復元(倍率)?|再集計|遡及(改訂|集計))")
 POPWEIGHT = re.compile(r"(推計母集団労働者数|推計比率|母集団労働者数)")
+# 2026-11-06 4-44（Stray「The Curious Journalist's Guide to Data」CJR Tow Center：大きな数は推定で誤差の幅がある。誤差の幅より小さい変化は記事にしない。
+# NIRA「統計改革」報告：自己評価式の調査は偏りやすい・回収率の低さが偏りを生む・入札で委託先が変わると系列の継続性が落ちる。
+# delight-solutions「競合の売上の調べ方」：セグメント売上は外部顧客向けと内部（セグメント間）を分ける）。引用にこの語があれば品目ごとに印す
+SAMPLEERR = re.compile(r"(標準誤差|標本誤差|誤差率|信頼区間|margin of error|standard error)", re.I)
+LOWRESP = re.compile(r"(回収率|回答率)\s*(は|が|：|:)?\s*(約)?\s*(\d{1,2}(?:\.\d+)?)\s*[%％]")
+SELFREPORT = re.compile(r"(自己評価|自己申告|自己採点|自社調べ|自社調査)")
+CONTRACTOR = re.compile(r"(委託先(の|が)?(変更|変わ)|調査(の)?委託先|入札(により|で)[^。]{0,10}委託)")
+INTERSEG = re.compile(r"(セグメント間|内部売上|内部取引|社内売上|グループ内(の)?(売上|取引))")
+def chance_band(series):
+    # 4-44：件数（事業所・社・件）の最初と最後の年の差が、偶然のばらつき（ポアソンの目安：差が2×√(a+b) 以内）に収まるか。
+    # 小さい件数の増減（Stray の例：信号を付けた交差点の事故9件→少ない件数）は偶然でも起きる。収まれば向きを言い切らない
+    ys = sorted(series)
+    if len(ys) < 2: return None
+    a, b = series[ys[0]], series[ys[-1]]
+    if a < 0 or b < 0 or a + b == 0 or max(a, b) >= 1000: return None
+    lim = 2 * (a + b) ** 0.5
+    return (abs(b - a) <= lim, a, b, lim, ys[0], ys[-1])
+RATES = {}  # 4-44：比較の相手（差の差）。テーマの中の品目×欄ごとの年率（複利）を集める
+def cagr_of(series):
+    ys = sorted(series)
+    if len(ys) < 3: return None
+    a, b = series[ys[0]], series[ys[-1]]; span = ys[-1] - ys[0]
+    if span <= 0 or a <= 0 or b <= 0: return None
+    return (b / a) ** (1 / span) - 1
 
 def conservative(vals):
     vals = sorted(vals)
@@ -516,13 +540,25 @@ def scan(topic):
         nrot = sum(1 for r in rs if SAMPLEROT.search(r["引用"])); npw = sum(1 for r in rs if POPWEIGHT.search(r["引用"]))
         if nrot: md.append(f"- ⚠ 抽出替え・ベンチマーク更新・復元・再集計の語が{nrot}件：その月・年の前後で値に段差が出る。段差をまたいだ向きを使わず、遡及・再集計の系列どうしで比べる（4-43）")
         if npw: md.append(f"- ⚠ 推計母集団労働者数・推計比率の語が{npw}件：集計の重みで人数の事実ではない。社員数・従業者数の欄に入れない（4-43）")
+        # 2026-11-06 4-44：誤差の幅・回収率・自己評価・委託先の変更・内部売上の印
+        nse = sum(1 for r in rs if SAMPLEERR.search(r["引用"]))
+        if nse: md.append(f"- 標準誤差・標本誤差の語が{nse}件：変化がその誤差の幅より小さければ向きにしない（4-44）")
+        lowr = sorted({float(m.group(4)) for r in rs for m in LOWRESP.finditer(r["引用"]) if float(m.group(4)) < 50})
+        if lowr: md.append("- ⚠ 回収率・回答率が5割未満（" + "・".join(f"{v:g}%" for v in lowr[:5]) + "）：答えた先と答えない先が違えば偏る（無回答の偏り）。全体の値として言い切らない（4-44）")
+        nsr = sum(1 for r in rs if SELFREPORT.search(r["引用"]))
+        if nsr: md.append(f"- ⚠ 自己評価・自己申告・自社調べの語が{nsr}件：答える側が良く見せる向きに偏りやすい。記録（統計・開示）と並べる（4-44）")
+        nct = sum(1 for r in rs if CONTRACTOR.search(r["引用"]))
+        if nct: md.append(f"- ⚠ 調査の委託先の変更の語が{nct}件：集め方が変わり系列の継続性が落ちる。その年を切れ目として扱う（4-44）")
+        nis = sum(1 for r in rs if INTERSEG.search(r["引用"]))
+        if nis: md.append(f"- ⚠ セグメント間・内部売上の語が{nis}件：外部の客への売上と内部の売上を分け、合計に内部を足さない（4-44）")
         groups = {}
         for r in rs: groups.setdefault((r["区分"], r["文脈"], r["単位"]), []).append(r)
         for (cat, ctx, u), g in sorted(groups.items(), key=lambda kv: -len(kv[1])):
             if len(g) < 2 or u in ("件",): continue
             # 2026-11-05 走査の失敗から：「社員数・平均社員数」の欄に万円・%、「事業所数・社数」の欄に%が入り、【裏付けあり】と出た（mfg_capacity の中小企業実態基本調査・金型）。
             # 欄の型と単位が合わない数字は、その欄の事実にしない（4-8 の欄ごとの型の確認を走査にも当てる）。件数だけ出して確度は付けない
-            if (cat.startswith("社員数") and u not in ("人",)) or (cat.startswith("事業所数") and u not in ("事業所", "社")):
+            # 2026-11-06 4-44 走査の失敗から：金型の取り直しの品目で「受注金額・加工賃収入」の欄に（事業所）が入り、幅12815倍になった。金額・1あたりの欄も金額の単位だけにする
+            if (cat.startswith("社員数") and u not in ("人",)) or (cat.startswith("事業所数") and u not in ("事業所", "社")) or (cat.startswith(("受注金額", "1人あたり")) and u in ("人", "事業所", "社", "台", "名")):
                 md.append(f"- ⚠ 欄と単位が合わない：{cat}［{ctx}］に（{u}）が{len(g)}件。別の欄の混入なので確度を付けず、結論に使わない")
                 continue
             vals = [r["値"] for r in g]; prim = [r for r in g if r["一次"] == "一次"]
@@ -542,6 +578,12 @@ def scan(topic):
             pmid = statistics.median([v for v in vals if v > 0] or [0])
             md.append(f"- {gr} {cat}［{ctx}］（{u}）：{len(g)}件・一次{len(prim)}件・出典{len({src_key(r) for r in g})}か所（調査会社は1つに束ねる）・予測値{len(fut)}件、幅 {lo:g}〜{hi:g}（食い違い{spread}）")
             md.append(f"  - 書き方（4-23）：{phrasing(gr, g)}／格付け（4-28・出どころA〜F×情報1〜6）：{admiralty(g, gr)}")
+            # 2026-11-06 4-44 走査の失敗から：金型の従業者数で、金型工業会の「就労者12万人」（年なし・昔の値）と「約7万人」（年なし）と記事の2024年69,553人が
+            # 同じ欄で【裏付けあり】になった。時点の違う値の一致・年の無い値は、同じ対象の裏付けではない（4-1 の①時点の違い）
+            if gr == "【裏付けあり】":
+                yrs = sorted({int(r["年"]) for r in g if r["年"]}); noy = sum(1 for r in g if not r["年"])
+                if noy or (yrs and yrs[-1] - yrs[0] >= 3):
+                    md.append(f"  - ⚠ 時点が揃わない裏付け（4-44）：年の無い値{noy}件" + (f"・年の幅{yrs[0]}〜{yrs[-1]}年" if yrs else "") + "。同じ年どうしで一致を見るまで、出典を付けて言い切らない（「〇〇によると」で書く）")
             # 2026-11-05 4-25：証拠の量に引っ張られない（Heuer の競合仮説分析：大量の証拠に見えても出どころが偏れば強さではない）。
             # 4件以上の欄で1か所のホストが半分超を出していれば、件数でなく出どころの数で読むよう印す
             hc = {}
@@ -597,6 +639,11 @@ def scan(topic):
             cr = sum(1 for r in g if r["一次"] == "信用調査")
             if cr: md.append(f"  - 信用調査会社の数字{cr}件（推定値を含むので【推定】扱い・一次に数えない）")
             if med: md.append(f"  - 【推定】年ごとの中央値（{'一次のみ' if prim else '記事含む'}）：" + "、".join(f"{y}年 {v:g}" for y, v in sorted(med.items())) + f" → 向き：{trend(med)}")
+            if med and u in ("事業所", "社", "件", "台"):
+                cb = chance_band(med)
+                if cb and cb[0]: md.append(f"  - ⚠ 偶然の幅の中（4-44）：{cb[4]}年 {cb[1]:g}→{cb[5]}年 {cb[2]:g} の差は偶然のばらつきの目安（2×√合計＝{cb[3]:.1f}）以内。小さい件数の増減で向きを言い切らない")
+            cg = cagr_of(med) if med else None
+            if cg is not None and u in ("万円", "人", "事業所", "社"): RATES.setdefault(topic, []).append((f"{item}｜{cat}［{ctx}］（{u}）", u, cg))
             es = end_sensitivity(med) if med else None
             if es: md.append(f"  - ⚠ 端の1点に依存：{es}向きの語が変わる。端の年の値（速報・改訂前・1か所だけ）を本文で確かめるまで向きを言い切らない（4-40）")
             dm = dir_magnitude(g)
@@ -722,6 +769,17 @@ def scan(topic):
         except Exception: pass
     empty = sorted(n for n in names - set(by_item) if n)
     # 2026-11-05 4-24：記事・調査会社が一次を名指しして紹介している数字。元の統計・開示を取り直すまで「記者が書いたこと」として扱う
+    # 2026-11-06 4-44：比較の相手（Stray：増えた・減っただけでは原因も意味も言えない。比べる相手＝起きなかった世界の近似が要る）。
+    # 同じテーマ・同じ単位の欄の年率（複利）の中央値を「相手」にして、各欄の年率との差（差の差）を出す。単位が違う欄どうしは比べない
+    cmp_lines = []
+    byu_r = {}
+    for k, u0, cg in RATES.get(topic, []): byu_r.setdefault(u0, []).append((k, cg))
+    for u0, lst in sorted(byu_r.items()):
+        if len(lst) < 3: continue
+        base = statistics.median(c for _, c in lst)
+        for k, cg in sorted(lst, key=lambda t: -(t[1] - base))[:12]:
+            cmp_lines.append(f"- 【推定】{k}：年率{cg * 100:+.1f}%／同じ単位の{len(lst)}欄の中央値{base * 100:+.1f}%／差{(cg - base) * 100:+.1f}ポイント")
+    md += ["## 比較の相手（同じ単位の欄の年率の中央値との差・4-44）", *(cmp_lines or ["（3欄以上そろった単位なし）"]), ""]
     back = [r for r in rows if r.get("元へ戻る")]
     md += [f"## 元へ戻って取り直す数字（記事が一次を名指し・{len(back)}件・4-24）",
            *(f"- {r['品目']}｜{r['値']:g}{r['単位']}（{r['年'] or '年不明'}年）｜{r['出典']}：{r['引用'][:60]}" for r in back[:15]), *(["（なし）"] if not back else []), ""]
