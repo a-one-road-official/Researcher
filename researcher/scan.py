@@ -453,6 +453,9 @@ MERGER = re.compile(r"(合併|経営統合|事業譲渡|買収|M&A|子会社化|
 # 「推計母集団労働者数」は推計比率を作るための重みで、ふつうの意味の人数ではない）
 SAMPLEROT = re.compile(r"(抽出替え|標本の?入れ替え|サンプル替え|ベンチマーク(の)?更新|ギャップ修正|復元(倍率)?|再集計|遡及(改訂|集計))")
 POPWEIGHT = re.compile(r"(推計母集団労働者数|推計比率|母集団労働者数)")
+# 2026-11-06 4-46（Maastricht 大学の専門家インタビューの方法論：1人の証言の証拠の重みはほぼ0で、他の証言かデータと突き合わせて初めて効く。
+# 話し手の選び方・個人の偏り・社会的に望ましい答えへの偏りがある）。引用が「関係者・取材・インタビュー・〇〇氏によると」の型なら証言として印を付ける
+TESTIMONY = re.compile(r"(関係者(によると|の話)|業界関係者|取材(によると|に対し|で)|インタビュー|聞き取り|ヒアリング|氏(は|によると)[^。]{0,20}(話す|語る|述べ))")
 # 2026-11-06 4-44（Stray「The Curious Journalist's Guide to Data」CJR Tow Center：大きな数は推定で誤差の幅がある。誤差の幅より小さい変化は記事にしない。
 # NIRA「統計改革」報告：自己評価式の調査は偏りやすい・回収率の低さが偏りを生む・入札で委託先が変わると系列の継続性が落ちる。
 # delight-solutions「競合の売上の調べ方」：セグメント売上は外部顧客向けと内部（セグメント間）を分ける）。引用にこの語があれば品目ごとに印す
@@ -510,6 +513,7 @@ def scan(topic):
     md += ["- 鍵の欠け率（照合の前の棚卸し・4-42）：" + "、".join(f"{k} {sum(1 for r in rows if f(r))}/{len(rows)}件（{sum(1 for r in rows if f(r)) * 100 / len(rows):.0f}%）" for k, f in keys), ""]
     by_item = {}
     for r in rows: by_item.setdefault(r["品目"], []).append(r)
+    onlymix = []
     thin = []  # 4-23：主張×独立の出どころの表（theosintvault の validation matrix）で、出どころ1か所の欄を最後に並べる
     for item, rs in sorted(by_item.items()):
         md.append(f"## {item}")
@@ -540,6 +544,8 @@ def scan(topic):
         nrot = sum(1 for r in rs if SAMPLEROT.search(r["引用"])); npw = sum(1 for r in rs if POPWEIGHT.search(r["引用"]))
         if nrot: md.append(f"- ⚠ 抽出替え・ベンチマーク更新・復元・再集計の語が{nrot}件：その月・年の前後で値に段差が出る。段差をまたいだ向きを使わず、遡及・再集計の系列どうしで比べる（4-43）")
         if npw: md.append(f"- ⚠ 推計母集団労働者数・推計比率の語が{npw}件：集計の重みで人数の事実ではない。社員数・従業者数の欄に入れない（4-43）")
+        ntes = sum(1 for r in rs if TESTIMONY.search(r["引用"])); htes = {urlparse(r["URL"]).netloc for r in rs if TESTIMONY.search(r["引用"]) and r["URL"]}
+        if ntes: md.append(f"- ⚠ 証言（関係者・取材・インタビュー）からの数字が{ntes}件・{len(htes)}か所：1人の証言は1件の手がかりで裏付けにならない。別の証言かデータと突き合わせるまで【未確認】のまま読む（4-46）")
         # 2026-11-06 4-44：誤差の幅・回収率・自己評価・委託先の変更・内部売上の印
         nse = sum(1 for r in rs if SAMPLEERR.search(r["引用"]))
         if nse: md.append(f"- 標準誤差・標本誤差の語が{nse}件：変化がその誤差の幅より小さければ向きにしない（4-44）")
@@ -577,6 +583,10 @@ def scan(topic):
                 md.append(f"  - 【推定】同じ出典・同じ年で割った1事業所あたり（{h}・{y}年）：{q:.1f}人{odd}")
         groups = {}
         for r in rs: groups.setdefault((r["区分"], r["文脈"], r["単位"]), []).append(r)
+        # 2026-11-06 4-46 走査の失敗から：品目「標準誤差率と回収率」「毎月勤労統計 事業所規模別 現金給与総額」で取れたのは欄と単位の合わない混入だけだった。
+        # どの欄も単位が合わない品目は「数字が取れた」と読まず、数字が1つも取れなかった品目と同じに並べる
+        _mis = lambda cat, u: (cat.startswith("社員数") and u not in ("人",)) or (cat.startswith("事業所数") and u not in ("事業所", "社")) or (cat.startswith(("受注金額", "1人あたり")) and u in ("人", "事業所", "社", "台", "名"))
+        if groups and all(_mis(c, u) for (c, _x, u) in groups): onlymix.append(item)
         for (cat, ctx, u), g in sorted(groups.items(), key=lambda kv: -len(kv[1])):
             if len(g) < 2 or u in ("件",): continue
             # 2026-11-05 走査の失敗から：「社員数・平均社員数」の欄に万円・%、「事業所数・社数」の欄に%が入り、【裏付けあり】と出た（mfg_capacity の中小企業実態基本調査・金型）。
@@ -792,6 +802,7 @@ def scan(topic):
         try: names.add(json.load(open(f, encoding="utf-8")).get("name", ""))
         except Exception: pass
     empty = sorted(n for n in names - set(by_item) if n)
+    empty += [f"{n}（取れたのは欄と単位の合わない混入だけ・4-46）" for n in onlymix]
     # 2026-11-05 4-24：記事・調査会社が一次を名指しして紹介している数字。元の統計・開示を取り直すまで「記者が書いたこと」として扱う
     # 2026-11-06 4-44：比較の相手（Stray：増えた・減っただけでは原因も意味も言えない。比べる相手＝起きなかった世界の近似が要る）。
     # 同じテーマ・同じ単位の欄の年率（複利）の中央値を「相手」にして、各欄の年率との差（差の差）を出す。単位が違う欄どうしは比べない
@@ -859,12 +870,17 @@ def scan(topic):
     if rv:
         mr = statistics.mean(rv); mar = statistics.mean(abs(x) for x in rv)
         up = sum(1 for x in rv if x > 0); dn = sum(1 for x in rv if x < 0)
+        # 2026-11-06 4-46（アイルランド中銀の四半期国民経済計算の改訂の分析）：平均改訂が0でないことは、偶然の幅を超えるか
+        # （平均改訂÷標準誤差＝t が2以上）を見てから片寄りと呼ぶ。直しが一度でも起きた割合を「改訂の起きやすさ」の粗い目安として出す
+        tval = (mr / (statistics.stdev(rv) / len(rv) ** 0.5)) if len(rv) >= 2 and statistics.stdev(rv) > 0 else 0.0
+        sig = abs(tval) >= 2
         verdict = ("（5件未満：判定しない）" if len(rv) < 5 else
-                   "⚠ 上に直る側に片寄り：早い値は過小に出やすい。最初の値で向きを言い切らない" if mr > 0 and abs(mr) > 0.5 * mar else
-                   "⚠ 下に直る側に片寄り：早い値は過大に出やすい。最初の値で向きを言い切らない" if mr < 0 and abs(mr) > 0.5 * mar else
+                   "⚠ 上に直る側に片寄り（偶然の幅を超える）：早い値は過小に出やすい。最初の値で向きを言い切らない" if sig and mr > 0 and abs(mr) > 0.5 * mar else
+                   "⚠ 下に直る側に片寄り（偶然の幅を超える）：早い値は過大に出やすい。最初の値で向きを言い切らない" if sig and mr < 0 and abs(mr) > 0.5 * mar else
+                   "向きの片寄りに見えるが偶然の幅の中（|t|<2）：片寄りと書かない" if abs(mr) > 0.5 * mar else
                    "片寄りは目立たない（上下の直しが打ち消し合う）")
         md += ["## 改訂の分析（同じ欄・同じ年で値が直った分・4-43）",
-               f"- 件数 {len(rv)}／平均改訂（向き）{mr:+.1%}／平均絶対改訂（大きさ）{mar:.1%}／上方 {up / len(rv):.0%}・下方 {dn / len(rv):.0%}・ゼロ {1 - (up + dn) / len(rv):.0%}",
+               f"- 件数 {len(rv)}／平均改訂（向き）{mr:+.1%}／平均絶対改訂（大きさ）{mar:.1%}／上方 {up / len(rv):.0%}・下方 {dn / len(rv):.0%}・ゼロ {1 - (up + dn) / len(rv):.0%}／片寄りの t {tval:+.2f}（|t|≥2 で偶然の幅を超える・4-46）",
                f"- {verdict}", ""]
     md += ["## 前回からの変化（採る値・確度・年。4-38）", *(ch[:40] or (["（変化なし）"] if prev is not None else ["（初回。次の実行から比べる）"])), *([f"- ほか{len(ch) - 40}件"] if len(ch) > 40 else []), ""]
     json.dump(picks, open(pf, "w", encoding="utf-8"), ensure_ascii=False, indent=0)

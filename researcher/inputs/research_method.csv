@@ -80,3 +80,6 @@ IFCN・FIJ のファクトチェックの手順とレーティング基準の定
 ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）,web main text extraction boilerplate removal evaluation precision recall,本文抽出 定型文 除去 評価;trafilatura 本文抽出 精度;boilerplate removal benchmark news,取り方
 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）,official statistics revision analysis vintages real-time data revision triangle,統計 改訂 分析 速報 確報 差;revision triangle real-time database;mean absolute revision bias test,統計の版
 出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点）,source triangulation matrix independence scoring,三角測量 出典 表 独立性;triangulation matrix claims sources;source corroboration matrix intelligence,裏取り
+専門家・関係者インタビューの裏取り（1人の証言の重み・内と外の三角測量・中間層の当事者を選ぶ・社会的に望ましい答えの偏り）,expert interview triangulation evidence weight insiders social desirability bias,専門家インタビュー 三角測量 裏取り;エキスパートインタビュー バイアス 選び方;expert interview method triangulation bias,裏取り
+統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂）,revision bias significance test mean revision t-test methodological revisions,速報 確報 改訂 片寄り 検定;平均改訂 有意 t検定;revision bias test national accounts methodology change,統計の版
+名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方）,entity matching benchmark corner cases threshold gold standard,名寄せ 正解データ 評価 閾値;企業名 名寄せ 精度 評価 難しい例;entity matching corner cases gold standard,同一性

@@ -144,14 +144,37 @@ def table_text(data: bytes, low: str = "", ctype: str = "", max_rows: int = 3000
         rows = [[str(x).strip() for x in r] for r in df.values.tolist()[:max_rows]]
         # 見出しの行：数字でない文字が半分以上ある最初の行
         head = next((r for r in rows if sum(1 for x in r if x and not re.fullmatch(r"[\d,.\-△▲ ]+", x)) * 2 >= max(1, sum(1 for x in r if x))), [])
+        # 2026-11-06 走査の失敗から（mfg_capacity：工業統計表 2020-k3-data.xls を取得できたのに、数字が1件も品目に入らなかった）：
+        # 統計表の見出しは「表題→項目名（事業所数・従業者数・加工賃収入額）→単位（（人）（百万円））」の複数行で、セルの結合で左の列にだけ文字がある。
+        # 最初の1行（表題）だけを見出しにすると、数字の行に「事業所数」などの項目名も単位も付かず、品目の言葉で拾われない。
+        # 最初の数字の行より上の行（最大4行）を列ごとにつなぎ、結合セルは左から右へ埋めて、列の見出しにする
+        numre = re.compile(r"[\d,.△▲-]+")
+        first = next((i for i, r in enumerate(rows) if sum(1 for x in r if x and numre.fullmatch(x)) >= 2), None)
+        if first:
+            width = max(len(r) for r in rows[:first + 1])
+            stack = []
+            for r in rows[max(0, first - 4):first]:
+                if sum(1 for x in r if x) <= 1 and len(rows[0]) > 2:  # 表題だけの行は列の見出しにしない
+                    continue
+                filled, last = [], ""
+                for i in range(width):
+                    x = r[i] if i < len(r) else ""
+                    if x: last = x
+                    filled.append(x or (last if i > 0 and not numre.fullmatch(last or "0") else ""))
+                stack.append(filled)
+            if stack:
+                head = [" ".join(dict.fromkeys(h[i] for h in stack if h[i]))[:60] for i in range(width)]
         for r in rows:
             cells = [x for x in r if x]
             if not cells: continue
             if r is head or not any(re.fullmatch(r"[\d,.△▲-]+", x) for x in cells):
                 lines.append(f"{name}：" + " ".join(cells)); continue
             label = " ".join(x for x in r if x and not re.fullmatch(r"[\d,.△▲-]+", x))[:60]
+            # 2026-11-06：時系列表の左端の年（2019 など）は数字なので行の名前から落ちていた。左端が年なら「2019年」として行の名前に入れる
+            if r and re.fullmatch(r"(19|20)\d\d(\.0)?", r[0] or ""):
+                label = (r[0][:4] + "年 " + label).strip()
             for i, x in enumerate(r):
-                if x and re.fullmatch(r"[\d,.△▲-]+", x) and x != "-":
+                if x and re.fullmatch(r"[\d,.△▲-]+", x) and x != "-" and not (i == 0 and re.fullmatch(r"(19|20)\d\d(\.0)?", x)):
                     col = head[i] if i < len(head) else ""
                     lines.append(f"{name}：{label}：{col} {x}{_unit_of(col)}")
     return "\n".join(lines)[:400000]

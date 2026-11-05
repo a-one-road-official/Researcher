@@ -6,6 +6,9 @@ import glob, json, os, re, yaml
 ROOT = os.path.dirname(__file__)
 OUT = os.path.join(ROOT, "out")
 MAX_RETRY = 3
+# 2026-11-06 METHOD 4-46（電子決算公告ドットコム「非上場企業に決算公告は義務？」：官報を公告方法とする株式会社で実際に公告したのは約1.8%（東京商工リサーチ 2022年））。
+# 中小の決算公告は「無いのが普通」なので、3回空でも設定・コードの不具合（要修正）に数えず、別の行に「無いのが普通」として残す
+NORMAL_ABSENT = re.compile(r"(決算公告|官報)")
 
 def main():
     ctl = (yaml.safe_load(open(os.path.join(ROOT, "control.yaml"), encoding="utf-8")) or {}).get("topics") or {}
@@ -15,7 +18,7 @@ def main():
         js = glob.glob(os.path.join(d, "companies", "*.json"))
         rp = os.path.join(d, "retries.json")
         retries = json.load(open(rp)) if os.path.exists(rp) else {}
-        empty, gave_up, errs = [], [], {}
+        empty, gave_up, errs, normal_absent = [], [], {}, []
         for f in js:
             try:
                 x = json.load(open(f, encoding="utf-8"))
@@ -33,6 +36,8 @@ def main():
                 retries[name] = n + 1
                 os.remove(f)  # 次の実行でやり直す
                 empty.append(name)
+            elif NORMAL_ABSENT.search(name):
+                normal_absent.append(name)
             else:
                 gave_up.append(name)
         if retries:
@@ -46,6 +51,8 @@ def main():
             problems.append(f"空・エラーで自動やり直し {len(empty)}件")
         if gave_up:
             problems.append(f"3回やっても空 {len(gave_up)}件（要修正）：" + "、".join(gave_up[:5]))
+        if normal_absent:
+            problems.append(f"決算公告の品目で3回空 {len(normal_absent)}件（公告しない会社が大半なので要修正に数えない・4-46）")
         if js and (len(empty) + len(gave_up)) * 2 >= len(js):
             problems.append(f"テーマの半分以上が空（{len(empty)+len(gave_up)}/{len(js)}）— 設定かコードの不具合の疑い（要修正）")
         if fact_errs or errs:
@@ -54,6 +61,18 @@ def main():
         if problems:
             bad_total += 1
             lines.append(f"- **{t}**：" + "／".join(problems))
+    # 2026-11-06 走査の失敗から（mfg_capacity：品目名の「74,587人」「5,626〜31,487人」のカンマで CSV の列がずれ、品目名が途中で切れ、
+    # 英語名・別名・直接URLの列が別の文字になった）。inputs の行の列の数が見出しと違えば要修正として出す
+    import csv
+    for fp in sorted(glob.glob(os.path.join(ROOT, "inputs", "*.csv"))):
+        try:
+            rr = list(csv.reader(open(fp, encoding="utf-8-sig")))
+        except Exception:
+            continue
+        badr = [i + 1 for i, r in enumerate(rr[1:], 1) if r and rr and len(r) != len(rr[0])]
+        if badr:
+            bad_total += 1
+            lines.append(f"- **inputs/{os.path.basename(fp)}**：列の数が見出しと違う行 {len(badr)}件（要修正・品目名のカンマを疑う）：{badr[:5]}")
     if bad_total == 0:
         lines.append("問題なし")
     open(os.path.join(OUT, "HEALTH.md"), "w", encoding="utf-8").write("\n".join(lines) + "\n")
