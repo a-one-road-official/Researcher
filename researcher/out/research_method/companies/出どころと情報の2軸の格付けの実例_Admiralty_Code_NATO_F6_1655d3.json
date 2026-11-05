@@ -8,144 +8,8 @@
  ],
  "context": "突き合わせ・推定",
  "kind": "market",
- "researched_at": "2026-11-05T11:45:36.749887+00:00",
+ "researched_at": "2026-11-05T16:19:17.646312+00:00",
  "evidence": {
-  "実例": [
-   {
-    "quote": "no piece of information is normally of great value on its own. When first received it is like a sentence without its context. Signal intelligence for example, in its raw state is seldom intelligible on its own to anyone but the expert who extracts it or deciphers it… it cannot be read and understood, even when translated, in isolation",
-    "url": "https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "support-example.example.com",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "carrowmere.example.com",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Run the work inside a Case in Forensic Mode so the search history and bookmarks sit with the grades. A reviewer can then see which search produced which graded item.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "@example_handle_support",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "secure-pay.example.org",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "An AML analyst at a payments firm reviews an incoming transfer from a wallet the customer says belongs to their trading company, Example Trading Ltd. A crypto forum post from an unknown account claims the same wallet belongs to an unrelated group.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The customer's claim is upgraded to C1 (confirmed by the company's own long-standing publication and an independent attribution). The forum claim drops to F5. The analyst records both, with dates, and closes the review with a note in the Case. Our",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Information ages. A B1 record of a company's directors from 2023 is good history and possibly stale fact. Add a \"valid as of\" date to every graded item and re-check anything older than your case's decision window.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Collect only what the question needs, record the lawful basis for the research, and keep graded data no longer than the case requires. Respect platform terms when you gather material. Where an item grades low, say so plainly and do not let it drive a decision about an individual on its own. And treat every automated or AI-assisted grade as a suggestion that an analyst confirms and signs.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT investigation guides, case studies and tooling deep-dives from the UserSearch team.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Here are some examples of Admiralty Code ratings and subsequent actions to be taken:",
-    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, a rating of",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "IntelTechniques Workbook / Casefile",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Case Study: Misidentification in the Boston Marathon Bombing",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The 2013 Boston Marathon bombing provides a powerful example of how poor OSINT evaluation can lead to serious consequences. In the immediate aftermath of the attack, online communities – particularly Reddit – attempted to crowdsource intelligence to help identify the perpetrators.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This case shows that while open source intelligence can be powerful, it must be used responsibly. Without evaluation, it’s just noise – and in high-stakes situations, that noise can do real damage.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "Filing history and accounts consistent",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Register shows active status and recent filing",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How close was the source to the information it is reporting? Primary sources that have direct knowledge are generally more reliable than secondary sources that are passing along information.",
-    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "How the Admiralty (NATO) system grades source reliability A to F and information credibility 1 to 6, why most open-source items start at F6, how corroboration moves grades, and how to grade results from aggregated data sources.",
@@ -370,6 +234,32 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "一次情報の探し方": [
+   {
+    "quote": "Filing history and accounts consistent",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Register shows active status and recent filing",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How close was the source to the information it is reporting? Primary sources that have direct knowledge are generally more reliable than secondary sources that are passing along information.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "They mean \"no basis to judge yet\". E and 5 are the negative grades. Treating F6 as \"unreliable, false\" throws away leads; treating it as \"probably fine\" invites mistakes. It means: do the work.",
@@ -467,16 +357,121 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "実例": [
+   {
+    "quote": "no piece of information is normally of great value on its own. When first received it is like a sentence without its context. Signal intelligence for example, in its raw state is seldom intelligible on its own to anyone but the expert who extracts it or deciphers it… it cannot be read and understood, even when translated, in isolation",
+    "url": "https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "support-example.example.com",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "carrowmere.example.com",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Run the work inside a Case in Forensic Mode so the search history and bookmarks sit with the grades. A reviewer can then see which search produced which graded item.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "@example_handle_support",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "secure-pay.example.org",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "An AML analyst at a payments firm reviews an incoming transfer from a wallet the customer says belongs to their trading company, Example Trading Ltd. A crypto forum post from an unknown account claims the same wallet belongs to an unrelated group.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The customer's claim is upgraded to C1 (confirmed by the company's own long-standing publication and an independent attribution). The forum claim drops to F5. The analyst records both, with dates, and closes the review with a note in the Case. Our",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Information ages. A B1 record of a company's directors from 2023 is good history and possibly stale fact. Add a \"valid as of\" date to every graded item and re-check anything older than your case's decision window.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Collect only what the question needs, record the lawful basis for the research, and keep graded data no longer than the case requires. Respect platform terms when you gather material. Where an item grades low, say so plainly and do not let it drive a decision about an individual on its own. And treat every automated or AI-assisted grade as a suggestion that an analyst confirms and signs.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT investigation guides, case studies and tooling deep-dives from the UserSearch team.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Here are some examples of Admiralty Code ratings and subsequent actions to be taken:",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, a rating of",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IntelTechniques Workbook / Casefile",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Case Study: Misidentification in the Boston Marathon Bombing",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The 2013 Boston Marathon bombing provides a powerful example of how poor OSINT evaluation can lead to serious consequences. In the immediate aftermath of the attack, online communities – particularly Reddit – attempted to crowdsource intelligence to help identify the perpetrators.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This case shows that while open source intelligence can be powerful, it must be used responsibly. Without evaluation, it’s just noise – and in high-stakes situations, that noise can do real damage.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
-   {
-    "url": "https://note.com/poncorocoro/n/n444668066be4",
-    "status": "ok",
-    "method": "http"
-   },
    {
     "url": "https://note.com/jpnca/n/n5bed3a92cb08",
     "status": "ok",
@@ -498,6 +493,11 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/yama_note_365/n/n83fb14e8bce1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/poncorocoro/n/n40205124e2b9",
     "status": "ok",
     "method": "http"
@@ -509,7 +509,7 @@
    },
    {
     "url": "https://conservationcriminology.com/wp-content/uploads/2019/09/6x6-Admiralty-System.pdf",
-    "status": "ok",
+    "status": "network_error:ConnectTimeout",
     "method": "pdf"
    },
    {
@@ -518,14 +518,14 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.ignis.jp/node/427/revisions/21492/view/",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
     "url": "https://note.com/tag/NATO",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.ignis.jp/node/427/revisions/21492/view/",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
     "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary459.pdf",
@@ -536,11 +536,6 @@
     "url": "https://www.se.com/articles/ja/Knowledge/FA281446?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1",
     "status": "http_403",
     "method": "http"
-   },
-   {
-    "url": "https://www.neco.navy.mil/necoattach/N0010426QYAFY0001.pdf",
-    "status": "network_error:SSLError",
-    "method": "pdf"
    },
    {
     "url": "https://www.blueprism.com/japan/resources/white-papers/p2/?id=4824121",
@@ -560,6 +555,11 @@
    {
     "url": "https://www.worldoftest.com/ja/print/pdf/node/6768",
     "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nids.mod.go.jp/publication/commentary/commentary350.html",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -594,16 +594,16 @@
    },
    {
     "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
-    "status": "network_error:ReadTimeout",
+    "status": "ok",
     "method": "http"
    },
    {
     "url": "https://anticitizenone.medium.com/source-reliability-grading-and-analysis-483eeb57df1a",
-    "status": "http_403",
-    "method": "http"
+    "status": "ok",
+    "method": "browser"
    },
    {
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "url": "https://en.wikipedia.org/wiki/Admiralty_code",
     "status": "ok",
     "method": "http"
    },
@@ -618,16 +618,13 @@
   {
    "query": "出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件） site:note.com",
    "results": [
-    "https://note.com/poncorocoro/n/n444668066be4",
     "https://note.com/jpnca/n/n5bed3a92cb08",
     "https://note.com/poncorocoro/n/nd71662d63db8",
     "https://note.com/poncorocoro/n/n0c7829aee1af",
     "https://note.com/poncorocoro/n/n591851fd08c3",
-    "https://note.com/poncorocoro/n/n40205124e2b9",
     "https://note.com/yama_note_365/n/n83fb14e8bce1",
-    "https://note.com/brahman16/n/n1b65e78c3825",
-    "https://note.com/note_1092ken/n/ne3e797f9284b",
-    "https://note.com/yodatti/n/nfec584e2f35d"
+    "https://note.com/poncorocoro/n/n40205124e2b9",
+    "https://note.com/poncorocoro/n/n444668066be4"
    ]
   },
   {
@@ -636,8 +633,8 @@
     "https://pangearesearch.substack.com/p/the-admiralty-code-nato-6x6-system",
     "https://conservationcriminology.com/wp-content/uploads/2019/09/6x6-Admiralty-System.pdf",
     "https://www.neco.navy.mil/necoattach/N0010427QTA06.pdf",
-    "https://www.ignis.jp/node/427/revisions/21492/view/",
     "https://note.com/hashtag/NATO",
+    "https://www.ignis.jp/node/427/revisions/21492/view/",
     "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary459.pdf",
     "https://www.worldoftest.com/ja/print/pdf/node/6768",
     "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
@@ -649,13 +646,13 @@
    "results": [
     "https://pangearesearch.substack.com/p/the-admiralty-code-nato-6x6-system",
     "https://www.se.com/articles/ja/Knowledge/FA281446?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1",
-    "https://www.neco.navy.mil/necoattach/N0010426QYAFY0001.pdf",
+    "https://www.neco.navy.mil/necoattach/N0010427QTA06.pdf",
     "https://www.blueprism.com/japan/resources/white-papers/p2/?id=4824121",
     "https://www.ignis.jp/node/427/revisions/21492/view/",
     "https://trexlabel.com/ja/glossary/450/",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.worldoftest.com/ja/print/pdf/node/6768",
-    "https://w.atwiki.jp/hajimaruatrain/chmod/73.html"
+    "https://www.nids.mod.go.jp/publication/commentary/commentary350.html"
    ]
   },
   {
@@ -668,8 +665,7 @@
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.blueprism.com/japan/resources/white-papers/p2/?id=4824121",
     "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_18.pdf",
-    "https://www.ignis.jp/node/427/revisions/21492/view/",
-    "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary459.pdf"
+    "https://www.ignis.jp/node/427/revisions/21492/view/"
    ]
   },
   {
@@ -680,22 +676,22 @@
     "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
     "https://anticitizenone.medium.com/source-reliability-grading-and-analysis-483eeb57df1a",
     "https://pangearesearch.substack.com/p/the-admiralty-code-nato-6x6-system",
-    "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/",
     "https://en.wikipedia.org/wiki/Admiralty_code",
+    "https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/",
+    "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
     "https://kravensecurity.com/source-reliability-and-information-credibility/",
-    "https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework"
+    "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/"
    ]
   },
   {
    "query": "site:note.com 出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件）",
    "results": [
-    "https://note.com/poncorocoro/n/n444668066be4",
-    "https://note.com/jpnca/n/n5bed3a92cb08",
     "https://note.com/poncorocoro/n/n591851fd08c3",
+    "https://note.com/jpnca/n/n5bed3a92cb08",
     "https://note.com/poncorocoro/n/nd71662d63db8",
     "https://note.com/poncorocoro/n/n0c7829aee1af",
-    "https://note.com/yama_note_365/n/n83fb14e8bce1",
+    "https://note.com/poncorocoro/n/n40205124e2b9",
+    "https://note.com/poncorocoro/n/n444668066be4",
     "https://note.com/ibdginza/n/n3b7073d4cae7"
    ]
   },
@@ -703,28 +699,36 @@
    "query": "site:x.com 出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件）",
    "results": [
     "https://x.com/grok/status/2113953616864145785",
-    "https://x.com/admiralty_code_",
-    "https://x.com/deepone5950/status/1988706349769973775",
-    "https://x.com/grok/status/2098669509930267082",
-    "https://x.com/HarryFurumura/status/2099314785573908526",
+    "https://x.com/russianblue2009/status/2042204253587190082",
+    "https://x.com/Alzhacker/status/2116686002228236468",
     "https://x.com/JASDF_PAO/status/1158295719079366656",
+    "https://x.com/HarryFurumura/status/2099314785573908526",
+    "https://x.com/grok/status/2098669509930267082",
     "https://x.com/mutamana/status/2098031046625571167"
    ]
   },
   {
    "query": "site:linkedin.com 出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件）",
-   "results": []
+   "results": [
+    "https://www.linkedin.com/posts/jessicastutzman_osint-opensourceintelligence-intelligenceanalysis-activity-7432120971609714688-IopK",
+    "https://www.linkedin.com/posts/alwynswart-fulcrumanalytics_the-nato-admiralty-score-how-to-rate-your-activity-7421136893293068288-Q--Q",
+    "https://fr.linkedin.com/pulse/navigating-information-jungle-how-admiralty-code-can-your-jan-novák-qllrf?tl=fr",
+    "https://www.linkedin.com/pulse/assessing-source-credibility-osint-applying-admiralty-matthias-wilson-chqif",
+    "https://www.linkedin.com/posts/forensicosint_matthias-wilsonrecently-shared-a-practical-activity-7333477156246667266-FlIV",
+    "https://www.linkedin.com/posts/cosive_the-admiralty-system-nato-ajp-21-gives-activity-7307552088933183488-J1wr",
+    "https://jp.linkedin.com/pulse/navigating-information-jungle-how-admiralty-code-can-your-jan-novák-qllrf?tl=ja"
+   ]
   },
   {
    "query": "site:facebook.com 出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件）",
    "results": [
     "https://www.facebook.com/pressajp/posts/英スターマー首相わが国の情報機関および他のnato諸国の評価によれば早ければ2030年にもロシアがnatoを攻撃する可能性があるウクライナ戦争であれだけ損耗して/1545010880314794/",
-    "https://www.facebook.com/Rinya.Watanabe/posts/iphone-と-ipad-が機密-nato-情報の取り扱いに承認されましたドイツ政府による厳格なセキュリティテストと広範な評価を経てiphone-と-ipad/3833355320301447/",
-    "https://www.facebook.com/AVIO.KNOWLEDGE/posts/aviation-phonetics-when-every-letter-mattersin-aviation-communication-must-be-cl/1683364123830070/",
+    "https://www.facebook.com/groups/192124331119064/posts/2730014103996728/",
+    "https://www.facebook.com/nihonmatsu/photos/ご指摘ありがとうございます重要な論点だと思いますただこの点については国連憲章の解釈と実務運用に整理が必要ですまず国連憲章51条は加盟国に限定しない形で自衛権を規/25216311174644424/",
     "https://www.facebook.com/pressajp/posts/ウォールストリートジャーナルがアメリカの情報機関の分析としてロシアのプーチン大統領がnatoの結束を試すためことしの秋から3年後の2029年にかけて加盟国を攻撃/1597618698387345/",
-    "https://www.facebook.com/M.Fudano/photos/ウクライナ紛争の概略ゼレンスキー氏は空爆されてもなぜ強気なのか米国主導のnato東方拡大は軍事的にも制度的にも進められておりプーチン大統領がそれを政治的な動きと/1585737852805606/",
     "https://www.facebook.com/reel/2587588821653462/",
-    "https://www.facebook.com/nihonmatsu/photos/ご指摘ありがとうございます重要な論点だと思いますただこの点については国連憲章の解釈と実務運用に整理が必要ですまず国連憲章51条は加盟国に限定しない形で自衛権を規/25216311174644424/"
+    "https://www.facebook.com/M.Fudano/photos/ウクライナ紛争の概略ゼレンスキー氏は空爆されてもなぜ強気なのか米国主導のnato東方拡大は軍事的にも制度的にも進められておりプーチン大統領がそれを政治的な動きと/1585737852805606/",
+    "https://www.facebook.com/trans.nation.tours/posts/ブラーヌカントナックメドック格付け2級マルゴーマルゴー地区にありメドック格付け2級のシャトーブラーヌカントナックはボルドーで最も有名なワインの造り手一族であるリ/368430722609525/"
    ]
   },
   {
@@ -733,7 +737,7 @@
     "https://www.se.com/articles/ja/Knowledge/FA53475?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1",
     "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.neco.navy.mil/necoattach/N0010426QDB51.pdf",
+    "https://www.neco.navy.mil/necoattach/N0038326RMB04.pdf",
     "https://nhqc3s.hq.nato.int/apps/DCRA_Report/id-29d4122b072148f5aaf4882ecc5d963c/elements/id-af0a909f58aa45a09a8856d0bfe2384a.html",
     "https://sentry-magazine.com/ja/%E6%88%A6%E7%95%A5%E7%9A%84%E5%8D%94%E5%8A%9B%E9%96%A2%E4%BF%82-%E3%81%AE%E5%BC%B7%E5%8C%96/",
     "https://www.youtube.com/watch?v=wemj_F_EtXI",
@@ -774,152 +778,7 @@
  "missing": {
   "突き合わせ・推定": "記載なし（読んだ28頁・検索12回）"
  },
- "new_this_run": {
-  "実例": [
-   {
-    "quote": "For example, a rating of",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "IntelTechniques Workbook / Casefile",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Case Study: Misidentification in the Boston Marathon Bombing",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The 2013 Boston Marathon bombing provides a powerful example of how poor OSINT evaluation can lead to serious consequences. In the immediate aftermath of the attack, online communities – particularly Reddit – attempted to crowdsource intelligence to help identify the perpetrators.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This case shows that while open source intelligence can be powerful, it must be used responsibly. Without evaluation, it’s just noise – and in high-stakes situations, that noise can do real damage.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "Evaluating OSINT: Why It Matters and How to Do It Right - SOS Intelligence",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Evaluating OSINT: Why It Matters and How to Do It Right",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In short, evaluation is what separates noise from insight. It’s not just a good practice – it’s a critical step that determines the overall value and credibility of your intelligence output.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "One widely recognised method for evaluating sources and information is the Admiralty Code, also known as the NATO Source Reliability and Information Credibility grading system. It uses a two-part alphanumeric rating to assess:",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Once you’ve identified what you’re looking for and established your evaluation criteria, the next step is to put those principles into practice. Evaluating sources effectively requires both critical thinking and a methodical approach. Below are some techniques that can help analysts assess the credibility, authenticity, and relevance of open source material.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Even with a solid framework and a set of reliable techniques, OSINT evaluation often comes down to the fine details – the subtle clues, the consistency checks, and the instinct honed by experience. This section offers practical, hands-on advice to help you refine your evaluation skills and avoid common pitfalls.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Maintain a record of how you’ve assessed each source – including decisions around credibility, context, and any verification steps taken. This is especially important in collaborative environments or when intelligence may need to be defended later. Tools like analyst notebooks, spreadsheets, or structured databases can help you track this clearly.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Structured templates and tools from the OSINT community that support methodical evaluation and reporting.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Absence of a Structured Framework",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Whether you’re using the Admiralty Code, applying structured frameworks, or leveraging specialised tools, the goal remains the same: to produce intelligence that is accurate, reliable, and actionable. Evaluation isn’t a final step in the OSINT process – it’s woven throughout.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Evaluating OSINT effectively requires a structured approach. Rather than relying on gut instinct or assumptions, analysts should assess each piece of information against a set of established criteria. This ensures consistency, reduces bias, and increases the likelihood that your final intelligence product will be trusted and actionable.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Is the content neutral, or does it show bias? Be wary of emotionally charged language, persuasive tone, or content designed to provoke. Identifying whether the source has an agenda can help you judge how much weight to give the information.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "– how dependable the source is based on past performance, access to information, and known biases.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "5. Consider the Source’s Motivation and Bias",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "a source is publishing certain information can help contextualise its reliability. Is the content investigative, promotional, political, or satirical? Is it user-generated or professionally produced? Analysing tone, language, and publication history can reveal bias or intent that may affect credibility.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Even with a solid framework and a set of reliable techniques, OSINT evaluation often comes down to the fine details – the subtle clues, the consistency checks, and the instinct honed by experience. This section offers practical, hands-on advice to help you refine your evaluation skills and avoid common pitfalls.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Can I identify any potential bias?",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3. Beware of Confirmation Bias",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ]
- },
- "runs": 3,
+ "new_this_run": {},
+ "runs": 4,
  "first_researched_at": "2026-11-05T09:11:14.119716+00:00"
 }

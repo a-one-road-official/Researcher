@@ -8,7 +8,7 @@
  ],
  "context": "同一性",
  "kind": "market",
- "researched_at": "2026-11-05T11:52:41.852147+00:00",
+ "researched_at": "2026-11-05T16:21:50.450102+00:00",
  "evidence": {
   "SNS・note（LinkedIn・検索結果の抜粋）": [
    {
@@ -214,6 +214,38 @@
    {
     "quote": "Using an MDM solution like Profisee, integrate the source systems you identified in step 2 to match records and remove duplicates. Prioritize survivorship capabilities so you keep only the most accurate, up-to-date information about each entity, then standardize those records against your governance policies to produce trusted golden records.",
     "url": "https://profisee.com/solutions/initiatives/entity-resolution-software/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "techniques to compare attributes and estimate whether records belong to the same entity.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Assigns weights to agreements and disagreements across multiple attributes to estimate whether records refer to the same entity. It is useful when no single reliable identifier is available.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For records with incomplete or inconsistent data, use similarity scoring, fuzzy algorithms, or ML models to estimate match likelihood.",
+    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -568,38 +600,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "突き合わせ・推定": [
-   {
-    "quote": "techniques to compare attributes and estimate whether records belong to the same entity.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Assigns weights to agreements and disagreements across multiple attributes to estimate whether records refer to the same entity. It is useful when no single reliable identifier is available.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For records with incomplete or inconsistent data, use similarity scoring, fuzzy algorithms, or ML models to estimate match likelihood.",
-    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "2. Data Profiling and Standardization",
@@ -647,22 +647,22 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/hiro_forge_mfg/n/n0f83f69a7901",
+    "url": "https://note.com/hiroshi_gomi/n/n4445143e5cbc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cyber_forest/n/n3e94bbb490ec",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/itso_/n/n6115daec7620",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://note.com/daikidomon/n/n3a746d0a5c61",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kompas_note_2025/n/n5470c016c292",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kabumayuge/n/n73afe9d075b9",
     "status": "ok",
     "method": "http"
    },
@@ -697,7 +697,12 @@
     "method": "browser"
    },
    {
-    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vLRg07WCv0uf2BITzIz5wGU9TheSTo-VrM4W8SyuIvG-Pk5hX7R",
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vL9lv5CPbRggfkaGsViS7Nq027l-SE7GbZiunQSP-nmz06hgd8Q",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://otsumu.co.jp/knowledge/glossary/terms/precision-recall.html",
     "status": "ok",
     "method": "http"
    },
@@ -707,7 +712,7 @@
     "method": "http"
    },
    {
-    "url": "https://otsumu.co.jp/knowledge/glossary/terms/precision-recall.html",
+    "url": "https://note.com/kikaben/n/nc457443773b7",
     "status": "ok",
     "method": "http"
    },
@@ -722,12 +727,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/kikaben/n/nc457443773b7",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20220201-00010002-amweb-ind&lang=ja",
+    "url": "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20170821-00000113-impress-sci&lang=ja",
     "status": "robots_disallowed",
     "method": ""
    },
@@ -737,9 +737,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://zenn.dev/newvillage/articles/061c95599f2717",
-    "status": "ok",
-    "method": "http"
+    "url": "https://imis.igaku-shoin.co.jp/journal/contents/_internal/36746b62-ac7a-4dbd-921b-16ecb637ca7d/",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
     "url": "https://qiita.com/kenken38/items/25a78d5e0041ca2f1cd2",
@@ -780,11 +780,6 @@
     "url": "https://profisee.com/solutions/initiatives/entity-resolution-software/",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://www.linkedin.com/pulse/what-survivorship-rules-why-do-matter-real-world-guide-reltio-422bf",
-    "status": "robots_disallowed",
-    "method": ""
    }
   ]
  },
@@ -794,14 +789,11 @@
    "results": [
     "https://note.com/newvillage/n/n116ed3b4c104",
     "https://note.com/ishikawa_dx/n/n6f4b5ae59351",
-    "https://note.com/hiro_forge_mfg/n/n0f83f69a7901",
-    "https://note.com/daikidomon/n/n3a746d0a5c61",
-    "https://note.com/kompas_note_2025/n/n5470c016c292",
-    "https://note.com/kabumayuge/n/n73afe9d075b9",
     "https://note.com/hiroshi_gomi/n/n4445143e5cbc",
-    "https://note.com/tks849/n/nba829fbeee49",
-    "https://note.com/statistics_ai/n/n4467dbe61c30",
-    "https://note.com/cyber_forest/n/n3e94bbb490ec"
+    "https://note.com/cyber_forest/n/n3e94bbb490ec",
+    "https://note.com/itso_/n/n6115daec7620",
+    "https://note.com/daikidomon/n/n3a746d0a5c61",
+    "https://note.com/kompas_note_2025/n/n5470c016c292"
    ]
   },
   {
@@ -815,23 +807,22 @@
     "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
     "https://litlas.ai/ja/papers/PBJ35SST140V",
     "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191011-00000070-it_nlab-ent&lang=ja",
-    "https://zenn.dev/newvillage/articles/061c95599f2717",
-    "https://qiita.com/kenken38/items/25a78d5e0041ca2f1cd2"
+    "https://zenn.dev/newvillage/articles/061c95599f2717"
    ]
   },
   {
    "query": "代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率） やり方",
    "results": [
-    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vLRg07WCv0uf2BITzIz5wGU9TheSTo-VrM4W8SyuIvG-Pk5hX7R",
-    "https://since2020.jp/media/f1-precision-recall/",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vL9lv5CPbRggfkaGsViS7Nq027l-SE7GbZiunQSP-nmz06hgd8Q",
     "https://otsumu.co.jp/knowledge/glossary/terms/precision-recall.html",
+    "https://since2020.jp/media/f1-precision-recall/",
+    "https://note.com/kikaben/n/nc457443773b7",
     "https://www.nrm.jp/denshi/denshi015",
     "https://marketing-ai.biz/2026/05/30/ml-evaluation-methods/",
-    "https://note.com/kikaben/n/nc457443773b7",
-    "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
-    "https://siguniang.wordpress.com/2016/01/10/notes-on-information-retrieval-precision-recall-f1-score/",
     "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
-    "https://dev.classmethod.jp/articles/aws-entity-resolution-ml-base-matching/"
+    "https://siguniang.wordpress.com/2016/01/10/notes-on-information-retrieval-precision-recall-f1-score/",
+    "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
+    "https://aws.amazon.com/jp/blogs/news/measuring-the-accuracy-of-rule-or-ml-based-matching-in-aws-entity-resolution/"
    ]
   },
   {
@@ -843,10 +834,10 @@
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://app.testgorilla.com/preview/825639?language=ja-jp",
     "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20220201-00010002-amweb-ind&lang=ja",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20170821-00000113-impress-sci&lang=ja",
     "https://www.jiu.ac.jp/files/user/books/pdf/jbrv_no2.pdf",
-    "https://zenn.dev/newvillage/articles/061c95599f2717",
-    "https://aws.amazon.com/jp/blogs/news/aws-entity-resolution-for-health-data/"
+    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/36746b62-ac7a-4dbd-921b-16ecb637ca7d/",
+    "https://aws.amazon.com/jp/blogs/news/measuring-the-accuracy-of-rule-or-ml-based-matching-in-aws-entity-resolution/"
    ]
   },
   {
@@ -861,19 +852,19 @@
     "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900213/",
     "https://flur.ee/solutions/entity-resolution",
-    "https://eureka.patsnap.com/report-research-on-optimizing-entity-resolution-through-mapping-rule-precision-versus-recall-trade-offs"
+    "https://prolyz.com/blog/master-data-management-entity-resolution"
    ]
   },
   {
    "query": "site:note.com 代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率）",
    "results": [
     "https://note.com/newvillage/n/n116ed3b4c104",
-    "https://note.com/daikidomon/n/n3a746d0a5c61",
     "https://note.com/ishikawa_dx/n/n6f4b5ae59351",
     "https://note.com/hiroshi_gomi/n/n4445143e5cbc",
-    "https://note.com/hiro_forge_mfg/n/n0f83f69a7901",
     "https://note.com/kabumayuge/n/n73afe9d075b9",
-    "https://note.com/tks849/n/nba829fbeee49"
+    "https://note.com/statistics_ai/n/n4467dbe61c30",
+    "https://note.com/cyber_forest/n/n3e94bbb490ec",
+    "https://note.com/yujima_maki/n/n75951fa9dab5"
    ]
   },
   {
@@ -884,8 +875,8 @@
     "https://x.com/hiruandon_0/status/2104139240292667471",
     "https://x.com/maes_data/status/2081334657648562333",
     "https://x.com/chemi384/status/2102520816432726221",
-    "https://x.com/learning1029/status/2108857703754010836",
-    "https://x.com/chemi384/status/2109127096941555958"
+    "https://x.com/chemi384/status/2109127096941555958",
+    "https://x.com/learning1029/status/2108857703754010836"
    ]
   },
   {
@@ -893,22 +884,22 @@
    "results": [
     "https://www.linkedin.com/posts/elia-bloch_entity-resolution-gets-difficult-when-identifiers-activity-7508541017940209664-2xZW",
     "https://www.linkedin.com/pulse/unlocking-power-golden-records-comprehensive-note-data-nguyen",
-    "https://www.linkedin.com/pulse/what-survivorship-rules-why-do-matter-real-world-guide-reltio-422bf",
     "https://www.linkedin.com/pulse/harness-power-entity-resolution-qualytics-qualyticsinc-hwhfe",
     "https://www.linkedin.com/pulse/what-entity-resolution-how-works-why-matter-midhun-mathew-iuulc",
+    "https://www.linkedin.com/pulse/mpi-survivorship-rules-probabilistic-matching-strategies-enterprise-gwpqc",
     "https://jp.linkedin.com/pulse/what-entity-resolution-how-works-why-matter-midhun-mathew-iuulc?tl=ja",
-    "https://jp.linkedin.com/pulse/what-entity-resolution-why-its-foundational-dr-gurpinder-s-dhillon-mehfc?tl=ja"
+    "https://jp.linkedin.com/pulse/addressing-unified-namespace-entity-resolution-ensuring-kathpal-kqeac?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com 代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率）",
    "results": [
-    "https://www.facebook.com/groups/aiacademy.jp/posts/3863641957225309/",
     "https://www.facebook.com/mastercontroljapan/posts/無限の-データ-を照合し-品質傾向-分析-からより良い結果を得るためにはまず次の3つの重要な質問をすることが必要ですhttpswwwmastercontrolc/2731854490279634/",
     "https://www.facebook.com/nliresearch/posts/平均-と-代表値-の概念平均や代表値の概念がいくつかあることについてはこれまでも数多くの書籍等で紹介されてきたのでご存じの方も多いと思われるが今回改めてこの話題/4548797478555715/",
     "https://www.facebook.com/JMPjpn/videos/gauge-rr-による計量値の測定システム分析/363486928490163/",
-    "https://www.facebook.com/TSMGE/posts/理論與實務應用篇-量測儀器的精度與準度雖然不是新名詞但這個議題需要好好被說明跟釐清量測設備商會根據量測儀器的機型定位會提供客戶accuracy準確度這個數值做為/692427869574230/",
     "https://www.facebook.com/MitsubishiElectricFA.JP/posts/便利機能紹介gx-works3-照合機能シーケンサとパソコンにバックアップしている-gxworks3-のプロジェクトが不一致となって困ったことはありませんかその/595314109421130/",
+    "https://www.facebook.com/JMPjpn/videos/品質と工程/1886824991490340/",
+    "https://www.facebook.com/TSMGE/posts/理論與實務應用篇-量測儀器的精度與準度雖然不是新名詞但這個議題需要好好被說明跟釐清量測設備商會根據量測儀器的機型定位會提供客戶accuracy準確度這個數值做為/692427869574230/",
     "https://www.facebook.com/imakarasuugaku/videos/この動画では代表値①-平均と中央値統計学をやさしく解説の内容を-notebooklm-を使ってわかりやすくダイジェストでご紹介しますaiはたまに日本語を間違える/1391052656003206/"
    ]
   },
@@ -919,12 +910,12 @@
     "https://marketing-ai.biz/2026/05/30/ml-evaluation-methods/",
     "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
     "https://hybrid-analysis.com/sample/6b50431cfdc2d242c738277f8aa2a42d426974bba592eb0a988ab26370335294/5cca7b0e028838c27c35c03e",
+    "https://note.com/asahi_ictrad/n/n306b1aa244c0",
     "https://lab.ludashi.com/evaluation/article/59",
     "https://app.testgorilla.com/preview/825639?language=ja-jp",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://note.com/zono_data/n/n620b48d2b49f",
     "https://tech.dentsusoken.com/entry/databricks-entity-resolution-overview",
-    "https://www.tech-tldr.com/aws/analytics/entity-resolution/"
+    "https://note.com/newvillage/n/n116ed3b4c104"
    ]
   },
   {
@@ -939,7 +930,7 @@
     "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
     "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20220201-00010002-amweb-ind&lang=ja",
     "https://litlas.ai/ja/papers/PZ13TZBTAKPA",
-    "https://dev.classmethod.jp/articles/aws-entity-resolution-ml-base-matching/"
+    "https://aws.amazon.com/jp/blogs/news/measuring-the-accuracy-of-rule-or-ml-based-matching-in-aws-entity-resolution/"
    ]
   },
   {
@@ -959,18 +950,9 @@
   }
  ],
  "missing": {
-  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
+  "失敗・落とし穴": "記載なし（読んだ29頁・検索12回）"
  },
- "new_this_run": {
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
-   {
-    "quote": "What Are Survivorship Rules and Why Do They Matter? A Real ... Jul 16, 2026 · Survivorship Rules are business-defined policies that determine which attribute value becomes part of the Golden Record when multiple source systems provide different values.",
-    "url": "https://www.linkedin.com/pulse/what-survivorship-rules-why-do-matter-real-world-guide-reltio-422bf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ]
- },
- "runs": 6,
+ "new_this_run": {},
+ "runs": 7,
  "first_researched_at": "2026-11-05T04:44:48.784753+00:00"
 }
