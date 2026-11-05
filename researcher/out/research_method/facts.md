@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・21品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・31品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1504,3 +1504,548 @@
   - 「結果を左右する重要なパラメータを見極めること」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「※ 感度分析とは、前提条件や入力変数（パラメータ）を変化させた際に、それが最終的な出力結果（利益、解析の結論など）にどの程度の影響を与えるかを定量的に確認・評価する手法です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「複数社で同様の逆算を行い、結果が近いレンジに収束するかを確認する」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+
+## 同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ）（entity resolution company record matching rules）
+- 文脈：同一性
+- 手順・やり方：
+  - 「実務での使い方 — 3つのステップ」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「ステップ1: SFAのアカウントに法人番号フィールドを追加する」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「型: テキスト(13桁固定長)」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「ステップ2: 既存リストに法人番号を付与する」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「過去に蓄積されたリストへの法人番号付与は、以下の方法で行う:」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「ステップ3: 法人番号をキーに複数ソースを統合する」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「眠れるリードを商談化する「スクリーニング術」— 予測型ABMで見極める"今アプローチすべき企業"」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「6月24日(水)14:00〜、SalesRadarを使ったシグナル型スクリーニングを実演解説するウェビナーを開催する」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「もっとも単純な方法は、**完全一致（Exact Match）**です」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
+  - 「Deterministic Matchingは、事前に定義したルールに従って照合する方法です」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
+  - 「大規模な確率的Entity Resolutionでは、OSSを利用する方法もあります」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
+  - 「のような文字列をEmbeddingへ変換し、意味的な類似度から候補を検索する方法です」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
+  - 「How to Evaluate a CDP」（https://cdp.com/ja/glossary/identity-resolution/）
+  - 「一致の判定には2つの方法がある」（https://cdp.com/ja/glossary/identity-resolution/）
+  - 「名寄せの仕組み：5つのステップ」（https://cdp.com/ja/glossary/identity-resolution/）
+- 突き合わせ・推定：
+  - 「展示会リスト × SFA × 名刺データを突き合わせようとすると、「株式会社A商事」「A商事株式会社」「㈱A商事」が別エントリとして残り、どれが同一企業か判別できなくなる」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「法人番号をマスターキーにしておけば、複数の民間DBのデータを後から突き合わせることができる」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「法人番号をキーにして一発で同一法人を突き合わせられる」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「そこで利用されるのが、複数の情報を組み合わせた照合です」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
+  - 「Deterministic Matchingは、事前に定義したルールに従って照合する方法です」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
+  - 「名寄せ（アイデンティティ・レゾリューション）とは、複数の顧客識別子を照合し単一プロファイルへ統合するプロセス」（https://cdp.com/ja/glossary/identity-resolution/）
+  - 「名寄せ（アイデンティティ・レゾリューション）とは、メールアドレス、デバイスID、Cookieなど複数の接点に存在する顧客識別子を照合して統合し、単一の永続的なプロファイルへとまとめるデータ管理プロセスである」（https://cdp.com/ja/glossary/identity-resolution/）
+  - 「確率的マッチングは、IPアドレス、デバイスの種類、行動パターンといったシグナルを用いて、2件のレコードが同一顧客に属する可能性を推定する」（https://cdp.com/ja/glossary/identity-resolution/）
+  - 「レコードAがメールを介してレコードBと一致し、レコードBが電話番号を介してレコードCと一致する場合、推移的マッチングはAとCが共通のキーを持たないにもかかわらず、同一顧客に属すると推定する」（https://cdp.com/ja/glossary/identity-resolution/）
+  - 「シグナル（IP、デバイス、行動）からの統計的な推定」（https://cdp.com/ja/glossary/identity-resolution/）
+  - 「に準拠しているかを検証できず、データチームはプロファイルが誤って統合されたり分断されたまま残ったりした際に精度の問題を診断できなかった」（https://cdp.com/ja/glossary/identity-resolution/）
+  - 「：どの識別子がどの統合を引き起こしたか、いつ発生したか、確定的マッチングと確率的マッチングのどちらによるものか、あるいは推移的推定がどのようにそれらをつなげたのかを示す完全な監査ログ」（https://cdp.com/ja/glossary/identity-resolution/）
+  - 「検証の出発点は、正解のラベルを付けたサンプルだ」（https://cdp.com/ja/glossary/identity-resolution/）
+  - 「顧客の識別子を照合し、統合するプロセス」（https://cdp.com/ja/glossary/identity-resolution/）
+  - 「確率的な名寄せは、IPアドレス、デバイスの種類、行動パターンといったシグナルを用いて、2件のレコードが同一顧客に属する可能性を推定する」（https://cdp.com/ja/glossary/identity-resolution/）
+- 一次情報の探し方：
+  - 「: 設立登記法人(株式会社・合同会社・NPO等)、国・地方公共団体、一定の人格なき社団等」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「: 13桁(先頭1桁はチェックデジット + 商業登記番号ベースの12桁)」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「国が全法人に付与し、誰でも使えるようにしている、きわめて珍しい公的識別子だ」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「採用動向・プレスリリースから「今アプローチすべき理由」を見つけるシグナル検知」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「と、IPアドレス、デバイス、行動といったシグナルから統計的な確信度スコアを算出する」（https://cdp.com/ja/glossary/identity-resolution/）
+  - 「シグナル（IP、デバイス、行動）からの統計的な推定」（https://cdp.com/ja/glossary/identity-resolution/）
+  - 「名寄せにおける統計的なマッチングは、AIという呼び名よりも古い」（https://cdp.com/ja/glossary/identity-resolution/）
+  - 「生成AIに式や判定の条件を相談した場合も、その答えを個人のチャット履歴に置かず、採用した条件だけを台帳に書き写します」（https://www.sento.group/concepts/nayose）
+  - 「3. Linking and profiling」（https://www.rudderstack.com/blog/what-is-entity-resolution/）
+  - 「2. Data Profiling and Standardization」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「Matching records across heterogeneous datasets (e.g., SQL and NoSQL databases, spreadsheets, PDFs) can be exceptionally difficult due to different types of entities, encoding, formatting, languages, and schemas. Converting all this different type of data into a pre-defined schema through schema-matching and data exchange is a risky process and can result in the loss of valuable information.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「2. Scalable Data Profiling and Cleansing」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「pull filings from every jurisdiction (plus SEC, tax, and licensing data).」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
+  - 「, and every field links back to its official filing. That provenance isn’t a nice-to-have; auditors demand it, regulators expect it, and machine-learning teams need it for training sets.」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
+- 失敗・落とし穴：
+  - 「「半年ぶりに見たら移転していた」「社名変更に気づかなかった」という手動管理の罠から抜け出せる」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「唯一の注意点は、個人事業主と外資系の一部には付与されていないことだ」（https://note.com/sr_mako/n/n611995af6f74）
+  - 「匿名のトラフィック、表記の誤りを含むオフラインのレコード」（https://cdp.com/ja/glossary/identity-resolution/）
+  - 「確定的マッチングのルールを骨格とし、確率的マッチングは誤りを許容できる活用事例に限って使い、アイデンティティグラフには統合履歴を残す」（https://cdp.com/ja/glossary/identity-resolution/）
+  - 「実運用の多くのCDPは両方を併用しており、即時の認識のためのリアルタイムのイベント統合と、統合の誤りを修正し履歴を再計算するための定期的な完全整合処理を組み合わせている」（https://cdp.com/ja/glossary/identity-resolution/）
+  - 「統合の誤りはエラーとして表に出ないため、名寄せは無条件に信頼するのではなく、指標で監視する必要がある」（https://cdp.com/ja/glossary/identity-resolution/）
+  - 「データクレンジング：表記ゆれ、欠損、誤り、重複など、データの汚れを直す作業の全体」（https://www.sento.group/concepts/nayose）
+  - 「データクレンジングは、表記ゆれ、欠損、誤り、重複など、データの汚れを直す作業の全体です」（https://www.sento.group/concepts/nayose）
+  - 「you can reliably collapse duplicates. No matter how rich your datasets or how cutting-edge your graph database, if you match “Acme Holdings LLC” (parent) to “Acme Corp Ltd” (subsidiary) by mistake, your risk scores, supply-chain exposure, and ESG metrics all fall like dominoes. Entity Resolution is the hinge on which the entire narrative, and any real-world compliance program, turns.」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
+  - 「Many US states still hide officers, and only a slice of businesses carry LEIs. Bias can creep into machine-learning matches, and survivorship rules require human oversight. Finally, if your downstream teams ignore the golden source and keep editing records locally, duplicates will creep back. Entity resolution is a」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
+- 実例：
+  - 「例えば、次のような顧客データが存在していたとします」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
+  - 「例えば、次のようなケースを考えてみましょう」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
+  - 「例えば、一人の顧客であっても、」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
+  - 「しかし現実には、このような共通IDが存在しないケースが多くあります」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
+  - 「しかし、例えば100万件の顧客データがある場合、すべての組み合わせを比較すると膨大な計算量になります」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
+  - 「住所が同じでも別世帯というケースもあります」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
+  - 「例えばKYCや金融では、」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
+  - 「例えばAWS Entity Resolutionでは、2026年9月時点で、」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
+  - 「結果にはMatch IDが付与され、同じ実体として判定されたレコードをグループ化できます」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
+  - 「Databricksでも2026年7月にAI Search High QPSが一般提供され、ユースケースの一つとしてEntity Matchingが挙げられています」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
+  - 「例えばAI Agentが、」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
+  - 「結果として、」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
+  - 「Build a Business Case」（https://cdp.com/ja/glossary/identity-resolution/）
+  - 「すべてのソースと活用事例を1つの手法で賄えるわけではないからだ」（https://cdp.com/ja/glossary/identity-resolution/）
+  - 「確定的マッチングのルールを骨格とし、確率的マッチングは誤りを許容できる活用事例に限って使い、アイデンティティグラフには統合履歴を残す」（https://cdp.com/ja/glossary/identity-resolution/）
+
+## 登記簿・会社番号から会社を確かめる方法（法人番号・OpenCorporates・EDGAR）（company registry verification OpenCorporates EDGAR）
+- 文脈：探し方
+- 手順・やり方：
+  - 「方法 1:国税庁 法人番号公表サイトから調べる(おすすめ)」（https://www.ssl-store.jp/houjin-bangou/）
+  - 「最も簡単な方法は、国税庁が運営する法人番号公表サイトで法人番号(13 桁)を検索し、先頭 1 桁を除く方法です」（https://www.ssl-store.jp/houjin-bangou/）
+  - 「方法 2:登記簿謄本から確認」（https://www.ssl-store.jp/houjin-bangou/）
+  - 「会社の登記情報を検索する方法は、法務局の窓口へ行く以外に、オンラインでも行うことができます」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「取引先の信頼性を確かめたい時や、自社の証明書が急ぎで必要な場面など、実務で直面する「情報の正確性」への不安も、正しい検索手順を知ることでスムーズに解消できます」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「会社登記をオンラインで検索する方法として、無料の「国税庁法人番号公表サイト」と、有料ですが詳細な情報が得られる「登記情報提供サービス」があります」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「「使えたのに知らなかった！申請が漏れてた！」といったことを防ぐためにも、会社設立時の資金調達方法の一つとしてお役立てください」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「初めて法人成りを考える方に向けて、法人成りの手続きや全体の流れ、個人事業の整理方法など、必要な情報をわかりやすくご紹介したガイドです」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「法的な証明書（登記事項証明書）をオンラインで請求し、郵送や窓口で受け取る方法です」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「直接法務局（登記所）の窓口に行くという方法もあります」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「操作方法がわからない場合でも、職員に質問できるため、初めての方でも安心して利用できるでしょう」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「は、もうすでに無料ダウンロード済みでしょうか？会社設立による節税の仕組みや節税項目、マイクロ法人の設立方法などがまとまった、充実のガイドです」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「はじめてでも安心！簡単3ステップで会社設立」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「農業の法人化とは？個人農家との違いや年収の目安、法人設立の手順」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「産業医は法人化できる？産業医が法人設立するメリット・デメリットや手順を解説」（https://biz.moneyforward.com/establish/basic/88844/）
+- 突き合わせ・推定：
+  - 「このような場合でも、法人番号は原則として継続して使用されるため、過去情報と現在情報を照合する際には、法人番号を基準に確認するとスムーズです」（https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/）
+- 一次情報の探し方：
+  - 「は、日本の登記所が商業登記・法人登記の記録 1 件ごとに付与している、」（https://www.ssl-store.jp/houjin-bangou/）
+  - 「会社法人等番号は、日本の登記所が商業登記・法人登記の記録に対して 1 件ずつ付与している識別番号です」（https://www.ssl-store.jp/houjin-bangou/）
+  - 「の形式で表記され、登記所での手続きや、各種公的書類で使用されます」（https://www.ssl-store.jp/houjin-bangou/）
+  - 「方法 2:登記簿謄本から確認」（https://www.ssl-store.jp/houjin-bangou/）
+  - 「法人の登記簿謄本(履歴事項全部証明書)を法務局で取得すると、会社法人等番号が直接記載されています」（https://www.ssl-store.jp/houjin-bangou/）
+  - 「EV(Extended Validation)証明書は、企業の実在性を厳格に審査するため、会社法人等番号などの公的データベース上の情報が活用されます」（https://www.ssl-store.jp/houjin-bangou/）
+  - 「会社の登記情報を検索するには？オンラインや無料・有料の違いを解説 | マネーフォワード クラウド会社設立」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「会社の登記情報を検索するには？オンラインや無料・有料の違いを解説」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「会社の登記情報は、オンラインで誰でも検索・取得が可能です」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「登記情報の詳細なら有料の登記情報提供サービス」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「会社の登記情報を検索する方法は、法務局の窓口へ行く以外に、オンラインでも行うことができます」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「【有料】登記情報提供サービスで詳細情報を確認する」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「登記ねっと（登記・供託オンライン申請システム）を利用する」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「法人登記の検索が必要になる具体的なケースは？」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「登記に必要な書類は「マネーフォワード クラウド会社設立」で自動作成」（https://biz.moneyforward.com/establish/basic/88844/）
+- 失敗・落とし穴：
+  - 「法人成りとの違い、向いている事業者のチェックリスト、会社設立時の注意点を公認会計士が解説しています」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「著者・監修書に『一日も早く起業したい人が「やっておくべきこと・知っておくべきこと」』（明日香出版社）、『オールカラー 個人事業の始め方』『オールカラー 一番わかる会社設立と運営のしかた』（ともに西東社）、『相談件数No.1のプロが教える 失敗しない起業 55の法則』（日本能率協会マネジメントセンター）などがある」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「株式会社などの一般的な会社設立とは、社員の資格や手続きの順序が異なるため注意が…」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「創業融資に源泉徴収票は必要？個人・法人の必要書類と注意点まとめ」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「社会福祉法人とは？設立を検討すべきケースやメリット・注意点を解説」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「会社名のアイデアの出し方は？ネーミングに役立つフレームワークや事例、注意点を解説」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「合資会社とは？特徴・他の会社形態との違い・メリットと注意点を解説」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「納税証明書（その1）とは？その2との違い・取得方法・請求時の注意点を解説」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「いちご農家は儲かる？年収の実態や失敗しないための経営戦略を解説」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「EV充電スタンドは儲かる？仕組みや導入費用・失敗リスクを解説」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「山椒栽培は儲かる？農家の年収や副業での始め方・失敗例を解説」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「入札ビジネスは儲からない？失敗理由や個人でも利益を出すコツを解説」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「自動車整備士の独立で失敗する原因とは？開業準備と成功のコツを解説」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「Webマーケティング独立で失敗する原因と回避策とは？AI時代に選ばれるために」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「バーチャルオフィスで東京に法人登記するには？費用や注意点を解説」（https://biz.moneyforward.com/establish/basic/88844/）
+- 実例：
+  - 「検索結果に表示される 13 桁の番号が法人番号です」（https://www.ssl-store.jp/houjin-bangou/）
+  - 「法人登記の検索が必要になる具体的なケースは？」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「補助金の概要や各制度の内容に加え、会社設立直後の企業でも使いやすい補助金や実際の活用事例などについてまとめました」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「マネーフォワード クラウド会社設立の導入事例」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「事業承継におけるお家騒動とは？事例や回避する方法を解説」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「種類株式とは？事業承継に活用するメリット・方法や組み合わせ事例を解説」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「創業融資に担保は必要？日本政策金融公庫の制度や不要なケースを解説」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「社会福祉法人とは？設立を検討すべきケースやメリット・注意点を解説」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「会社名のアイデアの出し方は？ネーミングに役立つフレームワークや事例、注意点を解説」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「ビジネスモデルとは？作り方や構成要素、フレームワーク、面白い企業事例まで解説」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「水ビジネスは本当に儲かる？市場規模や将来性・企業事例を解説」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「事前確定届出給与の届出期限はいつまで？出し忘れや支給日のズレによる否認事例も解説」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「事業譲渡の登記は必要？不要なケースや例外、具体的な手続きの流れを解説」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「特に新規取引を行う際には、相手企業が実在する法人かどうかを確認するために、法人登記番号を照会するケースが少なくありません」（https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/）
+  - 「なぜなら、似たような商号を持つ企業が存在するケースがあるためです」（https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/）
+
+## バックキャスティングで調査を設計する（決める問いから逆算して調べる項目と確認の深さを決める）（backcasting research design hypothesis driven consulting）
+- 文脈：設計
+- 手順・やり方：
+  - 「バックキャストとは？未来像や目標に近づく5つの効果的な方法を徹底解説！ | シェルパ - 営業を元気にするメディア」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「バックキャストとは？未来像や目標に近づく5つの効果的な方法を徹底解説！」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「バックキャストを実現させる具体的な5つの方法」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「「ビジョン型の思考パターン」と言うこともでき、企業や事業の理想的な姿を思い描いた後に、それを具体的に実現する方法を探る形で戦略を立てていきます」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「課題克服の順番も同時に決めて、それぞれをステップ化して時間軸で整理すれば、明確な計画ができることになります」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「2030年に実現したい状態を定義したとりくみであるSDGsにはバックキャストの思考方法が活用されています」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「何事もゴールが見えていると、それに至るまでのステップを考えやすくなります」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「また、目標が先に設定されることで、明確なステップが見えてきます」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「そして、それぞれのステップでどんなアクションを取るべきかもすぐに設定できます」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「バックキャストは、ビジョン型の思考ともかなり似通ったところがあります」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「企業という組織の単位でも、バックキャスト型の戦略立案をすることは大事です」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「バックキャストは、成長誘導型の思考パターンでもあります」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「そもそも、この思考方法は今よりも高いレベル、成長した姿になることを目指して、現在そして途中のプロセスで何をすべきかを考える仕組みです」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「全てのステップやアクションは、成長を着実にしていくための道のりとなり、常に成長過程を踏んで行けるというわけです」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「広い視野で物事を見るようになりますし、事業の進め方も長期的な観点で判断できるようになります」（https://sherpaworks.jp/sherpa/backcast/）
+- 突き合わせ・推定：
+  - 「バックキャストとは、未来から逆算して目標や計画を立てる戦略的思考のことです」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「前述した通りバックキャストとは、未来から逆算して目標や計画を立てる戦略的思考のことを指します」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「そして、そこから逆算して10年後、5年後にはどの程度のレベルに達しているかを考え、今すべきことを見つけるという考え方です」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「SDGsは、未来から逆算するバックキャストの思考ですから、事業戦略の中にも未来を中心とした時間軸が取り入れられています」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「このように、バックキャストは将来から逆算して計画を立てるのに対して、フォーキャストは過去や現在の課題から将来へと向かって計画を立てていくという違いがあります」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「仮説検証の考え方や手順について！ポイント・注意点まで詳しく解説」（https://sherpaworks.jp/sherpa/backcast/）
+- 失敗・落とし穴：
+  - 「さらには、多少の失敗やミスがあったとしても、長期的に見れば取り返すことができるとか、逆にその失敗が将来の成長につながるという見方ができます」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「それぞれのステップの中で分析の予定を組んでおき、間違いなく定期的に振り返りができるようにしておきます」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「仮説検証の考え方や手順について！ポイント・注意点まで詳しく解説」（https://sherpaworks.jp/sherpa/backcast/）
+- 実例：
+  - 「結果として、社員の士気を向上させ、離職率を下げることにつながります」（https://sherpaworks.jp/sherpa/backcast/）
+- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
+
+## 有価証券報告書の設備の状況・セグメント情報・将来見通しの読み方（reading annual report capex plan segment forward-looking statement）
+- 文脈：企業
+- 手順・やり方：
+  - 「当社は第8期において東証グロース上場および公募増資・大型デット調達を実施し、自己資本比率78.6%という鉄壁の財務耐久力を確立しました」（https://note.com/good_dill292/n/n566358f01735）
+  - 「- 2018年4月：国立大学法人東京大学との間で小型SAR衛星開発に関する共同研究契約を締結」（https://note.com/good_dill292/n/n566358f01735）
+  - 「- 2020年12月：自社初となる小型SAR実証機「StriX-α」の打ち上げに成功」（https://note.com/good_dill292/n/n566358f01735）
+  - 「- 2022年3月：小型SAR実証機「StriX-β」の打ち上げに成功」（https://note.com/good_dill292/n/n566358f01735）
+  - 「当社グループは、自社開発の小型SAR（合成開口レーダ）衛星コンステレーションから取得される高精度画像データの販売、およびAI解析技術を活用した各種ソリューションの提供を行う「衛星データ事業」の単一セグメントを展開しています」（https://note.com/good_dill292/n/n566358f01735）
+  - 「- 全天候・昼夜観測性能：光学衛星と異なり、雲を透過し夜間でも地表を画像化できるX-band帯小型SARセンサーを搭載」（https://note.com/good_dill292/n/n566358f01735）
+  - 「- 超軽量・低コスト化：内閣府ImPACTプログラムの成果を応用し、従来型大型SAR衛星（重量1トン越、数百億円）に対し、重量約100〜200kg（1/10）、製造コスト約1/20を実現」（https://note.com/good_dill292/n/n566358f01735）
+  - 「- 展開型スロットアレーアンテナ：打ち上げ時はコンパクトに折りたたみ、宇宙空間で大面積アンテナを展開する独自構造」（https://note.com/good_dill292/n/n566358f01735）
+  - 「日本政府の「衛星コンステレーション整備・運営等事業」など官公庁・内閣府の大型予算を確実に受託しつつ、海外政府・民間市場へ波及させます」（https://note.com/good_dill292/n/n566358f01735）
+  - 「定期的な1on1、社内研修、CREDO賞制定等により、自律型学習組織の構築と離職防止に努めています」（https://note.com/good_dill292/n/n566358f01735）
+  - 「⑤ 競争状況について：国内外の大型競合や新興メガコンステレーション事業者との価格・性能競争リスク」（https://note.com/good_dill292/n/n566358f01735）
+  - 「⑧ 継続企業の前提に関する重要事象等について：営業赤字継続も手元現預金245億円および大型受注により継続企業の前提に重要な懸念はない旨の判断」（https://note.com/good_dill292/n/n566358f01735）
+  - 「売上成長に加え大型補助金が営業外収益に寄与」（https://note.com/good_dill292/n/n566358f01735）
+  - 「- 生産・受注・販売実績：受注高 25,730,000千円、受注残高 24,960,000千円（うち官公庁・トライサット等向け大型長期契約が大部分を占める）」（https://note.com/good_dill292/n/n566358f01735）
+  - 「- 東京大学：小型SAR衛星開発の共同研究契約（2018年4月〜2026年3月）」（https://note.com/good_dill292/n/n566358f01735）
+- 突き合わせ・推定：
+  - 「監査人は、当社グループが単一CGUとして集計する前提の合理性、将来事業計画に基づく割引キャッシュ・フロー見積もりの妥当性を検証し、現時点で減損損失の認識は不要であると判断・認定いたしました」（https://note.com/good_dill292/n/n566358f01735）
+  - 「専門用語「バーンレート」をわかりやすく平易に解説しつつ、資金ショートリスクの有無を検証します」（https://note.com/good_dill292/n/na85fb5504591）
+  - 「◆ 第3章：増資は悪か？（1株あたりの価値が高まる「良い増資」の数値検証）」（https://note.com/good_dill292/n/na85fb5504591）
+  - 「：継続的な営業損失およびマイナスの営業CFの計上を踏まえ、経営陣による資金繰り計画の合理性、みずほ銀行・三井住友銀行との借入契約・財務制限条項の維持可能性、および上場等による手元流動性確保を詳細に検証」（https://note.com/good_dill292/n/n41c622e52337）
+  - 「：AxelLiner事業等における進捗度（原価比例法）算定の基礎となる見積総原価について、部材調達単価・作業工数・仕様変更影響の妥当性を検証」（https://note.com/good_dill292/n/n41c622e52337）
+  - 「がもたらす将来キャッシュ・フローの爆発力を検証」（https://note.com/good_dill292/n/n41c622e52337）
+  - 「会社自身の説明を読み、自分なりの仮説を持つ」（https://note.com/olp2017/n/ne86a3fa45995）
+  - 「その仮説を、説明会や面接、社員の話で確かめる」（https://note.com/olp2017/n/ne86a3fa45995）
+- 一次情報の探し方：
+  - 「Synspective 第8期（2025年12月31日決算）有価証券報告書【完全要約全文】｜まさ」（https://note.com/good_dill292/n/n566358f01735）
+  - 「Synspective 第8期（2025年12月31日決算）有価証券報告書【完全要約全文】」（https://note.com/good_dill292/n/n566358f01735）
+  - 「有価証券報告書というのは文書量が膨大なため、全部読む方は少ないようです」（https://note.com/good_dill292/n/n566358f01735）
+  - 「氏は有価証券報告書を含め、あらゆる資料に目を通してから個別株式に投資しています」（https://note.com/good_dill292/n/n566358f01735）
+  - 「この価値観を皆様と共有したいと考え、有価証券報告書の要約・分析・解説の記事を書いています」（https://note.com/good_dill292/n/n566358f01735）
+  - 「では、有価証券報告書のイメージを掴んでいただきたいので、なるべく目次（章立て、タイトル）に忠実に要約しています」（https://note.com/good_dill292/n/n566358f01735）
+  - 「是非とも、個別株式に投資する前に、その企業の有価証券報告書を読む習慣を身につけてください」（https://note.com/good_dill292/n/n566358f01735）
+  - 「※ 有価証券報告書に特化したマガジンがあります」（https://note.com/good_dill292/n/n566358f01735）
+  - 「有価証券報告書の要約・分析・解説｜まさ｜note」（https://note.com/good_dill292/n/n566358f01735）
+  - 「有価証券報告書というのは文書量が膨大なため、なかなか全部読む方は少ないようです」（https://note.com/good_dill292/n/n566358f01735）
+  - 「有価証券報告書（有報）は、金融商品取引法第24条第1項に基づき上場企業が事業年度終了後3ヶ月以内に提出する最も信頼性の高い法定開示書類です」（https://note.com/good_dill292/n/n566358f01735）
+  - 「決算短信や決算説明資料とは異なり、監査法人（有限責任 あずさ監査法人）による厳格な会計監査・内部統制監査を経た公的な財務数値および非財務情報が記載されています」（https://note.com/good_dill292/n/n566358f01735）
+  - 「グローバルな競争力を維持するため、20か国以上からの優秀な専門人材を採用」（https://note.com/good_dill292/n/n566358f01735）
+  - 「⑩ 特定施設の利用に関するリスクについて：JAXA等公的試験施設の利用制限リスク」（https://note.com/good_dill292/n/n566358f01735）
+  - 「③ 知的財産権について：他社特許侵犯訴訟リスクおよびノウハウ流出リスク」（https://note.com/good_dill292/n/n566358f01735）
+- 失敗・落とし穴：
+  - 「徹底的に、投資してはダメな理由と投資すべき理由を探すために」（https://note.com/good_dill292/n/n566358f01735）
+  - 「⑥ 衛星打上の失敗のリスクについて：ロケット点火失敗・軌道投入不能（保険未カバーの事業機会損失）リスク」（https://note.com/good_dill292/n/n566358f01735）
+  - 「徹底的に、投資してはダメな理由と投資すべき理由を探すために」（https://note.com/good_dill292/n/na85fb5504591）
+  - 「【(2)① 衛星打上げ失敗リスクについて：ロケット打上げ失敗による衛星喪失リスク」（https://note.com/good_dill292/n/na85fb5504591）
+  - 「徹底的に、投資してはダメな理由と投資すべき理由を探すために」（https://note.com/good_dill292/n/n41c622e52337）
+  - 「▪ ロケット打上げ失敗による衛星の紛失、ロケット開発の遅延や打上げスケジュールの順延、打上げ事業者の事故や破綻等が生じた場合、事業計画の大幅な遅延と追加費用の発生を余儀なくされる可能性」（https://note.com/good_dill292/n/n41c622e52337）
+  - 「業界や会社の規模、年齢の構成が違う会社の平均年間給与を、単純に比べるのは注意が必要です」（https://note.com/olp2017/n/ne86a3fa45995）
+  - 「⚠️ 10章 読むときの注意点」（https://note.com/olp2017/n/ne86a3fa45995）
+  - 「⚠️ 連結と単体、平均値、時点、会計の基準という注意点」（https://note.com/olp2017/n/ne86a3fa45995）
+- 実例：
+  - 「」を2019年にイプシロンロケット4号機で打上げ（日本の政府系機関衛星開発をスタートアップが受託した初の事例）」（https://note.com/good_dill292/n/n41c622e52337）
+  - 「▪ 国の宇宙関連予算の削減、防衛・安全保障政策の変更、あるいは入札・採択結果の不調等が生じた場合、当社グループの受注および業績に重大な悪影響を及ぼす可能性」（https://note.com/good_dill292/n/n41c622e52337）
+  - 「」の打上げ中止を余儀なくされた事例のように、予期せぬ国際政治情勢の変化が打上げ計画や事業運用に重大な支障をきたすリスク」（https://note.com/good_dill292/n/n41c622e52337）
+  - 「」の事例のように、軌道上での衛星故障はデータ供給能力の低下や減損損失の計上、顧客信頼の失墜につながる可能性」（https://note.com/good_dill292/n/n41c622e52337）
+  - 「▪ 進捗度（原価比例法）に基づき売上高を計上した結果、売上高は」（https://note.com/good_dill292/n/n41c622e52337）
+  - 「：監査の結果について、監査人が意見を書いた報告書」（https://note.com/olp2017/n/ne86a3fa45995）
+  - 「前の年の決算短信に書かれていた予想と、実際の結果を比べてみると、会社の見通しの立て方が見えてきます」（https://note.com/olp2017/n/ne86a3fa45995）
+  - 「とっつきにくい内容ですが、実際の事例を見ながら読み方を理解してもらえれば幸いです」（https://cpa-apple.com/2593/）
+  - 「「設備の状況」は他の章に比べて、あっさりと書かれているケースが多いです」（https://cpa-apple.com/2593/）
+  - 「（従業員持株会等のように「1株単位で売買するようなケース」では単元未満株式が生じます）」（https://cpa-apple.com/2593/）
+  - 「配当金額は、過去の配当水準を維持するか、少しずつ増配するケースが一般的です」（https://cpa-apple.com/2593/）
+  - 「また、配当しすぎた結果、資金ショートするという事態は避けるため、手元の資金の状況もふまえて配当金額を決定します」（https://cpa-apple.com/2593/）
+  - 「（実践編）「キャッシュ・フロー計算書」の事例分析 ～15社分のCF計算書を比較してみた～」（https://cpa-apple.com/2593/）
+  - 「（実践）事例で理解する「財務諸表分析」～任天堂、ユニクロ、アサヒビール～【分析後編】」（https://cpa-apple.com/2593/）
+
+## 公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT）（OSINT document metadata job postings tech blog business process）
+- 文脈：企業
+- 手順・やり方：
+  - 「If You're In the UK or EU, Here's How to Object to Meta's AI Training」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 分散型を掲げる基盤でも運営元によるリンク遮断が主要な拡散経路を左右する一方、第三者アプリや競合のAIが迂回路となっており、プラットフォームによる情報流通の制御は層ごとに効果が分断されることを示している」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「書簡は、Ray-Ban型グラスでマッサージ店の従業員を撮影した動画がInstagramで数百万回再生されていたとする404 Mediaの2025年10月の調査を引用した」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 外部委託のラベリング工程が機微な映像の流出経路になる構造は、恐喝や標的型の嫌がらせの素材を第三者に供給しうる点で、個人のプライバシーにとどまらない情報安全保障上の弱点でもある」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「メールは2020年11月、側近からウィリアム・スティゴールを経てACPEDs事務局長ミシェル・クレテラに渡り、「HOW TO DEFUND TRANS PEDIATRICS」の名で保存された」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Documents Reveal ‘How to Defund Trans Pediatrics’ in Texas」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Group behind mystery transgender mailers one step closer to being revealed after judge allows case to proceed／Texas judge orders depositions as TENT seeks to identify who's behind controversial transgender mailers」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 検証と削除を同一視させて「検閲」と呼ぶ手口は、対抗する主体の正統性を先に崩す認知戦の典型であり、資金と制度の独立性が防御の前提になることを示している」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: DDoS攻撃（大量アクセスでサイトを停止させる攻撃）を主とする集団が国内の抗議運動の動員に関わる構図は、サイバーと街頭を連動させるハイブリッド脅威の典型だが、記事が示す根拠はSNS上の支持表明と治安当局の説明にとどまり、ロシア国家の指示や資金の有無は検証を待つ段階である」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 記者はAIに娘の長所を尋ねた逸話を、メディア訓練に基づく注目獲得の手法と見ており、刺激的な逸話が拡散して本題の構造的な議論が埋もれる構図は、情報環境で論点が移される典型を示している」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「シチズンラボは10月15日の報告書で、Discover-Techを通じた広告によって、アルジャジーラの少なくとも45台の端末が傭兵型スパイウェアの標的になったとし、同社とVolasimの複数の関係を指摘した」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「米大使がカナダの政治家を監視中で、干渉に対応しうると警告した点は、交渉の膠着打開のためのエスカレーションの典型的な行動だとした」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 在外公館前での威嚇は越境弾圧（国外の反体制派や少数派への国家による威圧）の典型例であり、政府が国家との関係の有無を公表しないままでは、加害の抑止も被害者側の安心も得られず、ディアスポラ社会への萎縮効果が残る」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「ProtonMailなどプライバシー重視の製品を手がけるProtonは、2026年10月26日、業務でのAIの使い方について社員を「再面接」すると通知した」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 敗れた現職が選挙結果を外国の支援による「革命」と位置づける語りは、抗議運動をカラー革命とみなすロシア側の定型の物語と重なり、新政権の正統性を否定する言説として親ロ層の間で流通しうる」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+- 突き合わせ・推定：
+  - 「イスラエル総選挙で両陣営とも過半数に届かず、出口調査と開票の食い違いと組閣交渉の長期化」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 国内の正当な批判を、根拠を示さずに外国由来のボットによる非真正な活動と呼ぶことは、影響工作への警戒を逆用して批判の正統性を奪う手法であり、「ボット」認定は検証可能な証拠と切り分けて扱う必要がある」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 軍事介入の成果を実物のタンカーと検証困難な数値で示す国内向けの演出であり、「51番目の州」発言は中露の国家メディアが米国の領土拡張主義の証拠として対外発信に転用しやすい素材にもなる（推測）」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 8月の異常を最初に報じたのが新しく作られたブログだった点は、制御系への小規模な妨害が社会不安と結びつく局面で、初報の出所を検証することが帰属判断の前提になることを示している」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「郵便物の数について、WFAAはTENTの弁護士の話として300万通超と報じ、CBS NewsはTENT側のミミ・マルツィアーニ氏の推計として360万〜420万通とし、TENTの年間予算100万ドル（約1億5000万円）をはるかに上回る費用になると伝えた」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「PolitiFact開始から20年、虚偽の変質と検証への攻撃を振り返るIFCNディレクターの論考」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「検証対象は政策の論点から、改変動画や陰謀論など現実とかけ離れた主張へ移り、検証は競合する現実の比較から現実そのものの確立に変わったとする」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「同氏は、検証が標的になったのは影響力があるためとし、攻撃は「偏向」「検閲者」「人民の敵」という共通の筋書きをたどったと指摘する」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「プラットフォーム資金の時代（おおむね2017〜2025年）にIFCNは約50から170団体に拡大したが、資金が消えて基盤の脆弱さが露呈し、検証とモデレーションの境界のあいまいさが反対派に利用されたと述べる」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 検証と削除を同一視させて「検閲」と呼ぶ手口は、対抗する主体の正統性を先に崩す認知戦の典型であり、資金と制度の独立性が防御の前提になることを示している」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: DDoS攻撃（大量アクセスでサイトを停止させる攻撃）を主とする集団が国内の抗議運動の動員に関わる構図は、サイバーと街頭を連動させるハイブリッド脅威の典型だが、記事が示す根拠はSNS上の支持表明と治安当局の説明にとどまり、ロシア国家の指示や資金の有無は検証を待つ段階である」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 実在の人物を「証言者」に仕立てる手口では、元投稿を削除しても複製が残るため、投票直前の時期には名前を使われた本人による迅速な否定と報道機関の検証が、打ち消しの主な手段になりやすい」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 国境機関によるSNS監視とコンテンツ対処の支援は、移民の道具化に伴う情報操作への備えとなり得る一方、監視対象と「リスク」の基準が示されておらず、FIMI対策の名目で国境管理機関の権限が言論空間へ広がる点は検証を要する」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「NewsGuardは11月3日の中間選挙の期日前投票でクック郡の投票機が共和党判事候補を避けるよう促したとの主張を検証した」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 投票期間中に政府自身が不正の疑いを公表する手法は、検証結果よりも「疑い」の流通そのものが選挙の正統性への信頼を損なう点で、外国の影響工作が狙う効果と重なり、国内発の情報操作として監視対象に含める必要がある」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+- 一次情報の探し方：
+  - 「EU官僚機構の元トップ、キャサリン・デイは2026年10月26日公表の報告書で、EU文書への公的アクセスを認める2001年の法律を「進化」させ、情報へのアクセス法に置き換えるよう提言した」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「トランスペアレンシー・インターナショナルEUのニコラス・アイオッサ代表は、委員長がファイザーCEOとのメッセージの開示を拒み、ニューヨーク・タイムズが欧州委員会を提訴した不祥事と結びつけ、「メッセージ問題を受けて採用した疑わしい内部規則を法典化したいのだ」と批判した」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「同社の広報担当副社長アンディ・ストーン氏は2026年10月28日夜のソーシャルメディア投稿で、業界団体との協議が11月20日を越える可能性があり、その場合は更新した規約の適用を遅らせると述べた」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「公的世論調査機関CISによれば、18〜24歳ではPSOEが19%、Voxが15.6%、PPが11.9%で、未定や棄権予定も多い」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: なりすまし団体の郵便物とマスク氏を結ぶ材料は、現時点では弁護人の共通という周辺情報にとどまり、国内の資金力ある主体による工作の帰属が、訴訟のような公的記録の積み重ねに頼らざるをえない構図を示している」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「欧州のデジタル広告業界団体IAB Europeが、広告事業者Volasimを承認済み事業者リスト（GVL、同意管理の業界標準枠組みTCFに登録した事業者の一覧）に載せ続けていると、Rapporteurが報じた」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 業界団体の承認リストが事業者の正当性の目印として働く以上、問題の事業者を外しても関連先が同日に登録される審査の隙は、スパイウェアに限らず影響工作が広告配信基盤を通じて標的に届く経路を残す」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Social Media LabはBlueskyの8件の連続投稿で、トランプ政権が正当な政治的批判、経済的対抗措置、公的な主張活動を「選挙干渉」と再定義し、カナダへの将来の報復の口実を整えているようだとした」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 出国禁止命令を受けた敗北候補への査証発給は、ブラジル司法を「政治的迫害」とみなす物語に外国政府の公的な裏づけを与える形となり、選挙後の国内対立を国外から増幅しうる」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「そのうえで4期目の課題として、ボルソナロ氏の自由党が下院513議席中121議席、上院81議席中28議席を持つ議会で与党が多数を持たないこと、GDP比80%を超える公的債務、犯罪組織や民兵組織への治安対策を挙げた」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「一方、同社は2026年10月、エネルギー総局長が基調講演したブリュッセルの業界団体Energy Storage Europeの年次会議で、会員でないまま「ゴールド」協賛社となった」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「ベルリンの20を超える業界団体が同社の参加を容認し、シンクタンクのBruegelは年5万ユーロ（約850万円）の会費を今も受け取る」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 面会禁止という人を対象とする規制は、協賛金や会費を通じて業界団体やシンクタンクの場に入り込む経路を塞げず、影響力の行使を制度面から抑えるには資金の流れまで透明化の対象に含める必要がある」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 脅威主体の名指しが外交関係に左右される以上、公的なFIMI報告書の帰属件数は干渉の実際の分布ではなく、政府が公表できる範囲を映すものとして読む必要がある」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「ICE側と移民裁判官は本人の主張をそのまま採用し、4月にジャマイカへの送還を命じた」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+- 失敗・落とし穴：
+  - 「豪州デジタル注意義務法案、子どもの依存を促すAIチャットボットの「感情的な親密さ」を禁止対象に追加」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「オーストラリアのデジタル注意義務（プラットフォームに利用者保護の包括的な責任を課す制度）法案が2026年10月28日、下院を通過した」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 目立つ都市部の摘発から日常の検問へ移ることで報道の注目は下がる一方、オクラホマ州の事例のように地域社会の萎縮効果は残り、可視性の低い強制力が世論形成と監視の両面で捉えにくくなる点に注意が要る」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「同ラボによれば、この非難は関税や経済的威圧へのカナダの抵抗を米国の民主主義への攻撃として描く下地となり、追加関税、制裁、外交圧力の正当化や、対立の発端である米国の通商政策から注意をそらすのにも使いうる」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 公式の戦略文書を宣伝として退けるか意図の表明として読むかは戦略ナラティブ分析の基本問題であり、Koh氏の指摘は欧州の脅威認識の遅れを突く一方、中国の言説を「先見」と評価する枠組み自体が中国側の望む受け止め方と重なる点にも注意が要る」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「トランプ政権との対立という対外の文脈が重なるため、国外からの増幅の入り口になりやすい点に注意が要る」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 当局が本人の妄想由来の自己申告を都合のよい証拠として採り、反証を「偽造」と断じる構図は、結論先行で証拠を選別する確証バイアスの制度化であり、国家による事実認定そのものへの信頼を損なう点で情報安全保障上も看過できない」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「最も衝撃的な記載には、外部のサイバーセキュリティ試験で設定の誤りから同社モデル4つが「gained unauthorized access to real third-party systems」とした件を挙げ、Broadcomとの約1250億ドル（約19兆円）の解約不能な賃貸契約も指摘した」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 支援金が腐敗した側近に流れたという疑義は、ロシア系の影響工作がウクライナ支援疲れを誘う際に繰り返し用いてきた主題であり、それが連立与党の副首相の口から選挙前に発せられたことで、外部の工作を介さずとも同じ物語が国内政治の正統な言説として流通する経路ができている点に注意が要る」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 未合意の角括弧の文言や大使会合での各国の反応が交渉途中で報じられており、流出した草案が加盟国間やトランプ政権との駆け引きの材料として使われうる点に注意が要る」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「https://www.rapporteur.com/news/serbias-student-victory-raises-hopes-for-european-future/」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「https://www.rapporteur.com/news/serbias-student-led-movement-wins-parliamentary-election/」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「州当局は「動物愛護団体の注意を引くおそれ」を理由に緊急事態を宣言しなかった」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「パベル氏は「裏切りと呼べるかはまだ分からないが、誤りだ」と述べ、取引はロシアに欧州とウクライナを無視して米国、場合によっては中国と取引できるという「新たな希望」を与えたとした」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 業界が経済安全保障を国家安全保障に含める論法で例外条項を引き出した点は、安全保障概念の拡張が規制や説明責任を迂回する言説上の手段となりうることを示しており、情報安全保障の分野でも同じ論法の流用に注意が要る」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+- 実例：
+  - 「Claudeのコメント: 出口調査と開票結果が逆転し、勝利宣言をめぐる報道も食い違うなかで、未開票の50万票と長期化しうる組閣交渉が続くため、結果の正統性や不正を主張する国内外の偽情報、影響工作が入り込む余地が長く残る局面である」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「また、大学のある都市が民主党の競争力の源泉だとし、今後の動きは中間選挙の結果次第だと述べた」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 州の広告や政治家のメディア発言といった公然の主張活動を「選挙干渉」と呼び替えることは、外国干渉の概念を政治的に流用し、選挙結果の責任を事前に外国へ転嫁する物語を用意する働きを持ちうる」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Group behind mystery transgender mailers one step closer to being revealed after judge allows case to proceed／Texas judge orders depositions as TENT seeks to identify who's behind controversial transgender mailers」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Wyoming LLC hires Paxton impeachment attorneys in case over ‘trans student guide’ mailers, texts」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「https://www.kxan.com/news/texas-politics/gop-donor-law-firm-represents-wyoming-llc-in-case-over-trans-student-guide-mailers-texts/」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「トランプ政権は、現職が僅差で敗れた場合に有権者の混乱を調べるまで結果の認証を延期するよう、アラスカ州を提訴している」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 同名候補による有権者の混乱という選挙戦術が、証拠を欠く「不正」の主張と連邦政府の提訴に結び付けられ、僅差の結果が出る前から認証の正統性を争う材料が用意されている点は、選挙の健全性をめぐる情報環境の弱点として注視に値する」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 実在団体を装う偽旗の郵送物はオンラインのペルソナ偽装と同じく帰属を難しくするが、LLC登録、バーコード、郵便許可という物理的な流通経路の痕跡が発注者に迫る手がかりになることを示す事例である」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「政府は同日、無所属のケイト・チェイニー議員の修正を受け入れ、「感情的な親密さを模倣し、人間関係の代わりに子どもの依存を促す」素材や行為を有害事例に加えた」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「アルバニージー首相は前夜の演説で、チャットボットを親友とみなす事例は議会への警鐘だと述べた」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 利用者との感情的な結び付きを設計目標とするチャットボットは、依存した相手の認識を継続的に方向づけられるため、子ども保護の規制が結果として影響工作の経路となりうるAIの対話設計を管理する先例となる可能性がある」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 目立つ都市部の摘発から日常の検問へ移ることで報道の注目は下がる一方、オクラホマ州の事例のように地域社会の萎縮効果は残り、可視性の低い強制力が世論形成と監視の両面で捉えにくくなる点に注意が要る」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 「選挙干渉」という対FIMIの概念が、相手国の正当な公共外交や経済的対抗措置を封じる圧力の言説として転用されうることを示す事例であり、干渉と正当な主張活動の境界を定義する作業が情報安全保障上の争点になっている」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 100万ドルの不正通報報奨金は、司法省の実際の制度と食い違っていても「選挙不正が広く存在する」という前提を有権者に浸透させる働きを持ち、選挙結果の正統性を揺さぶる国内外の情報操作の素地になりうる」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+- 検索結果の抜粋：
+  - 「ゼロ から はじめる OSINT Open Source Intelligence — ゼロ から はじめる OSINT Open Source Intelligence Contentstack PDF https://assets.contentstack.io > assets > SANS_20230...」（https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltbe45ede7e0e1f6ba/63e5348101ddee6a0d86d72f/SANS_20230119_OSINT_Ja.pdf）
+
+## デスクリサーチの自動化と引用の検証（DeskrexAI・Grata）（desk research automation citation verification private company revenue estimation）
+- 文脈：探し先
+- 手順・やり方：
+  - 「本記事では、AIへ任せる候補収集と構造化、人が残す原典確認と採否、工程ごとの成果物をつなぎ、再現可能なデスクリサーチへ変える方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「これにより、情報が陳腐化した時点で再び収集のステップから始まるサイクルが動き出し、常に最新の実務判断を下せる運用が定着します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「ひとつの実務課題において調査を自動化するには、担当者の裁量に頼るのではなく、AIに与える前提資料、実行させる作業、受け取るデータ、そして最終的に人間が行う確認手順を、一連の流れとして具体的に記録しておく必要があります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「出来上がるのは、社内の意思決定を支える判断台帳、事実の根拠をたどれる出典台帳、通常とは異なるケースをまとめた例外記録、そして情報が陳腐化した際に再び収集ステップを起動するための再調査条件です」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「この手順をあらかじめ定めておくことで、自動化されたプロセスが途切れることなく機能し続けます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「そのため、人が情報源となる一次資料にアクセスし、事実と合致しているかを見極めるステップを調査記録に組み込みます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「このように、前提となる情報の提示から、AIによる探索と集約、そして最終的な証拠・例外・権限のチェックに至るまでの実務の手順を一つのつながりとして残します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「まず、前回作成した比較表や自社の企画書を前提となる資料としてどのようにシステムへ提示したかという手順を記録します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「このように、前提条件の提示、AIによる処理の実行、生成されたデータ、そして人が介入した検証のステップをひとつの流れとして記録しておくことで、四半期ごとの見直しが容易になります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「まず、届けたい成果物と現在の作業手順を確認し、実際の仕事をAIで試します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「その結果をもとに、工程の統合や並列化、ツール連携、結果の検証と修正の手順を組み込みます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「実行回数や費用の上限、人の判断を待つ条件、途中の状態を保存して再開する方法も含めて設計し、実務で動作を確かめます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「新規事業テーマ探索の手順｜AIで回す3-6-12週間ロードマップ」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「新規事業テーマ探索の手順を、3週間マクロ発散→6週間フォーカス絞り込み→12週間ゴー/ノーゴー判断のロードマップで整理します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「AIヒアリングで集めた現場の回答を事業仮説の検証へつなぐ方法」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+- 突き合わせ・推定：
+  - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
+  - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
+  - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ | DeskrexAIリサーチ」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「前工程で固定した判断課題と完了条件を満たすには、実際の調査プロセスを「収集」「検証」「統合」「更新」という4つの工程に分割し、前の作業から得られた成果を次の判断材料として滞りなく渡していく必要があります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「ここでは人間が例外的な情報や出典の確からしさを承認し、検証済みの事実だけを次へ送ります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「前工程で得られたAIの出力結果は、そのまま自動で実務の意思決定へと渡すのではなく、必ず人が介入して検証する仕組みを経由させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「モデルを用いた検証でも、タスクによっては3.1〜19.1%のハルシネーション（事実に基づかない出力）が実測」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「前工程で人が検証と承認を終えた事実を、途切れることなく次の判断へ渡すためには、作業の段階に合わせて適切なツールと手法を選択し、つなぎ合わせる必要があります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「を用いて検証済みの事実だけを抽出したりと、目的に応じたガイドを選びます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「最後に、検証を通過した確かな事実だけを、」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「そのため、人が情報源の確からしさをたどり、例外的な条件を補足し、機密情報の取り扱いが適切であったかを検証したプロセスを、調査の完了条件として台帳に書き留めます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「このように、前提条件の提示、AIによる処理の実行、生成されたデータ、そして人が介入した検証のステップをひとつの流れとして記録しておくことで、四半期ごとの見直しが容易になります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「監査のタイミングでこの記録を振り返り、「AIの抽出精度にブレが生じていないか」「人が検証する負担が増加していないか」「新たな手法へ置き換えるべき工程はないか」を評価し、調査の設計図を最新の状態へ更新します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「前工程の成果と検証の記録を次の判断へ渡し続けることで、担当者の力量に依存しない、再現可能な自動化の仕組みが自社に根付きます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+- 一次情報の探し方：
+  - 「さらに、その情報を採用するかどうかの採否、利用における権限、次に見直すべき更新期限を判断します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「現場の状況や一次情報に基づく例外事象を人が補足し、調査結果へ反映させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「また、観点マトリクスを30秒・構造化レポートを10分で自動生成する機能があり、出典付きのレポートをMarkdown/PDF形式でエクスポートできます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「化学特許AIツール6選｜構造式・マーカッシュ対応の使い分け」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「化学のR&Dで使う特許AIツール6選を構造式画像認識・マーカッシュ検索・自然言語AI・FTOの4軸で比較」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「CAS SciFinder・Reaxys・Patsnap Eureka・Derwent・Patentfield AIR・IPRallyの使い分けと、三井化学1万件PDFエージェント事例、職種別早」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「It was 2022, my third year running outbound for a B2B team. I had 200 private companies to tier by size. No filings. No earnings call. Just names and websites. So I eyeballed one mid-market firm into the “small” bucket and pitched them our starter package.」（https://cufinder.io/blog/find-private-company-revenue/）
+  - 「You can’t pull the exact annual revenue of a private company from a filing, because private firms don’t file one. But you can estimate it well by combining headcount, funding, and industry benchmarks, then confirming against a data provider. The more signals agree, the tighter your number.」（https://cufinder.io/blog/find-private-company-revenue/）
+  - 「Yes, for many businesses. Public companies post exact revenue in their filings, and data providers carry estimated revenue for millions of private firms. A free lookup gets you a ballpark, while a paid enrichment tool gets you a researched figure across a whole list.」（https://cufinder.io/blog/find-private-company-revenue/）
+  - 「SEC EDGAR (sec.gov/edgar) for public company filings」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+- 失敗・落とし穴：
+  - 「社内資料を接続するときの注意点は何ですか？」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「重大な仕様変更や取得失敗があれば定期日を待たず見直します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+- 実例：
+  - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
+  - 「毎週、生成AIに関するビジネス活用の事例をお届けしています」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
+  - 「デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「このように、事前に判断課題と条件を固定することで、誰が依頼しても同じ品質の調査結果が得られる土台が完成します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「完成した調査結果を一度きりで終わらせるのではなく、台帳へ記録する際に次回の見直し期限や再調査の条件を合わせて定めます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「AIは与えられた文脈をもとにウェブ上の情報を探索し、候補の収集や分類、比較表の初稿作成、過去の調査結果との差分抽出といった作業を実行します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「出来上がるのは、社内の意思決定を支える判断台帳、事実の根拠をたどれる出典台帳、通常とは異なるケースをまとめた例外記録、そして情報が陳腐化した際に再び収集ステップを起動するための再調査条件です」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「前工程で得られたAIの出力結果は、そのまま自動で実務の意思決定へと渡すのではなく、必ず人が介入して検証する仕組みを経由させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「されており、引用元のURLが実在しない捏造であるケースも一定割合で発生します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「AIは収集可能なWeb上の情報を平準化してまとめますが、特定の顧客にのみ適用されている非公開の条件や、期間限定のキャンペーンといった通常とは異なるケースまでは完全に捉えきれません」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「現場の状況や一次情報に基づく例外事象を人が補足し、調査結果へ反映させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「このとき、単に複数のツールを場当たり的に使うのではなく、何を前提となるデータとして渡し、どのように処理を実行させ、どのような結果を受け取り、最終的に人間がどこを確かめるのかという一連の流れを記録しながら進行します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「問いが明確になったら、その結果を次の二次情報収集ツールへ引き継ぎます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「などへ検索の指示を渡し、ウェブ上の膨大なページから関連する情報を探し出させ、引用元のリンクが添えられた初期レポートの形で結果を引き出します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「その結果をもとに、工程の統合や並列化、ツール連携、結果の検証と修正の手順を組み込みます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+
+## 決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）（reading Japanese public financial notices small companies net assets net income）
+- 文脈：決算公告
+- 手順・やり方：
+  - 「官報の決算公告の見方を徹底解説｜貸借対照表要旨から財務状況を読み取る方法【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「官報の決算公告の見方を徹底解説｜貸借対照表要旨から財務状況を読み取る方法【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「本記事では、官報に掲載される決算公告の見方・読み方を項目ごとに丁寧に解説し、財務分析への実践的な活用方法まで詳しく説明します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「（1）決算公告を官報以外の方法（電子公告・日刊新聞）で実施している、（2）有価証券報告書提出会社のため免除されている、（3）決算公告を実施していない（法令違反の状態）、の3パターンです」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「コスト面を含めた各公告方法の違いについては」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「[官報の決算公告の探し方——無料で他社の公告を調べる方法](https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/)」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「官報・電子公告の費用比較と年間4,000円で始める最安の方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「日経新聞の決算公告を検索する方法｜縮刷版・日経テレコンの限界と代替手段」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「日経新聞に掲載された決算公告を検索する方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「日経テレコンでは法定公告の本文検索ができない実態、縮刷版の使い方、帝国データバンクなど確実な代替手段まで紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「対象会社・公告内容・期限・方法・罰則（976条）と2026年会社法改正の動向まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「一般社団法人に決算公告は必要？義務の根拠・方法・罰則を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「公告方法によって開示されている情報の範囲が大きく異なる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「さらに取引先調査や競合分析に活かすための実践的な手順もご紹介しますので、最後まで読めば「決算公告の見方」を自信を持って人に説明できるようになるはずです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「まず決算公告の基本的な構造を確認し、次に公告方法別の開示範囲の違いを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+- 突き合わせ・推定：
+  - 「前期と今期の純資産を比較することで、利益の増減を推定できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「ただし、前期と今期の純資産の差額から大まかな利益・損失の傾向を推定することは可能です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「前期比での純資産の変化から、損益の傾向を間接的に推定できる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+- 一次情報の探し方：
+  - 「官報の決算公告の見方を徹底解説｜貸借対照表要旨から財務状況を読み取る方法【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「官報の決算公告の見方を徹底解説｜貸借対照表要旨から財務状況を読み取る方法【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「官報に掲載された決算公告を実際に開いてみたものの、「どこを見ればよいのか」「数字が何を意味するのか」がわからず困った経験はないでしょうか」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「官報の決算公告は取引先の与信調査や競合分析に活用できる貴重な財務情報ですが、独特のフォーマットや省略表記に慣れていないと正しく読み取るのは難しい面があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「本記事では、官報に掲載される決算公告の見方・読み方を項目ごとに丁寧に解説し、財務分析への実践的な活用方法まで詳しく説明します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「官報を公告媒体に選択している会社は、国立印刷局が発行する官報に財務情報を掲載する形で、この義務を果たします」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「会社法第440条第2項は、官報または日刊新聞紙による公告の場合、「要旨」の掲載で足りると定めています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「会社法上の「大会社」（資本金5億円以上または負債総額200億円以上）と、それ以外の「非大会社」では、官報に掲載しなければならない内容が異なります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「日本の株式会社の99%以上は非大会社であるため、官報に掲載されている決算公告のほとんどは「貸借対照表の要旨のみ」という形式です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「売上高や営業利益などの損益情報は、非大会社の官報公告からは直接読み取れません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「官報に掲載される貸借対照表の要旨は、以下の3区分で構成されています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「土地・建物・機械設備などの有形固定資産、商標権・特許権などの無形固定資産、投資有価証券などの投資その他の資産が含まれます」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「官報に掲載される決算公告では、貸借対照表の数値を「百万円」または「千円」単位で省略して記載することが認められています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「官報のスペース制約上、詳細な数値はすべて記載されているわけではない点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「官報で公告できる情報量は会社の規模によって大きく異なります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+- 失敗・落とし穴：
+  - 「見落としがちなポイントですが、単位を確認せずに数字を読むと100倍・1,000倍の誤解につながるため注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「官報のスペース制約上、詳細な数値はすべて記載されているわけではない点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「中小企業の経営者や経理担当者が陥りやすい落とし穴が2つあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「20〜40%が一般的な目安（業種によって異なる）、10%未満は要注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「流動比率が100%を下回る場合、短期的な支払い義務が短期間に現金化できる資産を上回っていることを意味し、資金繰りの悪化サインとして注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「ただし、中小企業の決算公告はB/Sのみのため、売上成長率や利益率の比較はできない点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「株式会社の決算公告を調べる際と対象を混同しないようご注意ください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+- 実例：
+  - 「P/L全体は見えなくても、最終的な収益性の結果は確認できる仕組みになっています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「特に中小企業同士のビジネスでは、取引先が決算書を開示しないケースが多く、官報公告が唯一の財務情報源になることもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「そのため、官報掲載の会社であっても電子公告ページを持っているケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「経済産業省の商工業実態基本調査によると、製造業の中小企業では20%台が一つの基準となるケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「なお、電子公告を選択している中小企業の一部は、義務の範囲を超えて損益計算書も任意で掲載するケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+
+## 生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法）（structured analytic techniques ACH analysis of competing hypotheses generation verification separation）
+- 文脈：分析の型
+- 手順・やり方：記載なし（読んだ20頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
+- 実例：記載なし（読んだ20頁・検索12回）
+
+## 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）（checking statistical definitions coverage threshold member-only shipment vs sales）
+- 文脈：定義の点検
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ）（how to find private company revenue Japan consulting knowledge base）
+- 文脈：探し先
+- 手順・やり方：
+  - 「非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ｜ナレッジ｜イノベーション総合研究所」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「TeamPro Leaders｜判断の型・実践・1on1伴走で育てる」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「新規事業の進め方、事業テーマの探し方、企業の最新動向を紹介」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「アイデア創出から顧客検証・事業計画・事業化まで、進め方を学ぶ」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「新規事業の進め方や実践事例を、専門家・実務家から学ぶ」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「本記事では、無料で探す5ステップ、有料サービスの選び方、売上が不明なときの推定方法を解説します」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「イノベーション総研の888名調査と実務向けの記録例も使い、調べた数字を参入判断や次の顧客検証へつなげる方法まで整理します」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「市場・競合など6テーマのプロンプトと、AIの出力を事実・推論・仮定・未確認に分ける手順を収録」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「非上場企業の売上の調べ方は、無料の情報を探す5ステップから」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「非上場かどうかだけで、同じ開示方法になるとは限りません」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「03 実行体制：情報を集める担当と手順が曖昧」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「無料の5ステップを見る →」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「次は、計算方法を説明するための架空例です」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「従業員数に業界平均の1人あたり売上を掛ける方法もありますが、実際には、外注の多さ、卸売かサービス業か、兼業の有無で結果は大きく変わります」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+- 突き合わせ・推定：
+  - 「Plan｜会議の指摘を具体的な仕事に変え、AIとプロ人材で調査・検証へつなぐ」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「TeamPro Pilots｜新規事業の検証と実行を、経験者と進める」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「Plan｜AIとプロ人材で、調査・検証から次の判断まで支援する」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「アイデア創出から顧客検証・事業計画・事業化まで、進め方を学ぶ」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「本記事では、無料で探す5ステップ、有料サービスの選び方、売上が不明なときの推定方法を解説します」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「イノベーション総研の888名調査と実務向けの記録例も使い、調べた数字を参入判断や次の顧客検証へつなげる方法まで整理します」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「単体と連結、売上高と取扱高、実績と推定を混ぜない」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「非上場企業の売上が分からないときは、推定値と確認済みの数字を分ける」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「推定の幅が意思決定を変える場合だけ、追加調査する」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「調べた売上を、新規事業の参入判断と次の顧客検証につなげる」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「公告が見つかったら、対象会社と決算期を照合し、損益計算書に売上高の記載があるかを読みます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「対象企業が多い、事業別の売上まで整理したい、情報同士の矛盾を調べる必要がある場合は、調査会社への依頼も選択肢です」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「06 撤退の規律：調べ続けて検証へ進めない」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「競合調査の先にある、顧客検証を進める」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「イノベーション総研が、顧客仮説の整理から検証計画、事業立ち上げまで支援します」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+- 一次情報の探し方：
+  - 「非上場企業の売上は、公式サイトの会社概要・採用資料、親会社の開示資料、決算公告、企業資料などから調べられます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「ただし、決算公告があっても、売上高まで載っているとは限りません」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「決算公告・無料の企業概要・有料情報で分かる範囲を区別する」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「PDF・全16ページ＋Excel」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「2. 公式サイトの会社概要・採用情報・決算資料を読む」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「4. 決算公告は、損益計算書と売上高の有無を確かめる」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「決算情報があっても売上高が載っているとは限りません」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「公開されている書類と、その対象会社・決算期を確認します」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「貸借対照表は決算日時点の資産・負債・純資産を示す書類です」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「最初に押さえたいのは、決算情報があることと、売上高が載っていることは別だという点です」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「株式会社の決算公告は、原則として貸借対照表が対象となり、大会社では損益計算書も対象になります（」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「ただし、有価証券報告書の提出義務がある株式会社には同条4項の例外があります」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「また、非上場でも一定の条件で有価証券報告書を提出する企業があります」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「でも、非上場企業の確認先として有価証券報告書、決算公告、会社資料などが挙げられています」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「正式社名を特定し、公式資料、親会社・EDINET、決算公告、図書館資料の順に探し、数字と出所を一緒に残します」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+- 失敗・落とし穴：
+  - 「ただし、ページに更新日があっても、売上の対象年度が新しいとは限らない点に注意してください」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「失敗への懸念を伝え、軌道修正につながったと回答した材料」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「新規事業の失敗・撤退（4）」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「新規事業の失敗要因を6つの軸で診断」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「競合シェアの調べ方｜情報源・計算方法と比較の注意点」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+- 実例：
+  - 「新規事業の進め方や実践事例を、専門家・実務家から学ぶ」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「検索結果の短い説明文だけでは採用せず、元ページやPDFを開いて数字の前後を読みます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「例えば、単位が「百万円」の表にある「1,200」は、1,200万円ではなく12億円です」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「例えば、架空のA社グループが食品卸と発注支援ソフトを営んでいるとします」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「検索結果が3件あることを「3つの独立した情報で確認できた」とは扱いません」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「例えば月額3万円で、年間平均200契約、期末時点では300契約まで増えた架空のサービスを考えます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「従業員数に業界平均の1人あたり売上を掛ける方法もありますが、実際には、外注の多さ、卸売かサービス業か、兼業の有無で結果は大きく変わります」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「これは大企業の新規事業関与者が、直近の経験に最も近い選択肢を一つ選んだ結果で、非上場企業の売上の公開状況を調べたものではありません」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「例えば、競合の伸びが想定より小さければ、価格、対象顧客、販売方法のどれを追加確認するかまで記録します」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「例えば、発注支援ソフトの事業を検討しているなら、次のように整理できます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「調査結果はそろっているのに参入や検証の判断が進まない場合は、」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「調査結果を報告する際に迷いやすい、非公開情報・AIの利用・数字の不一致について答えます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「調査結果を、次の事業判断に使える形へ」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「業種別・企業事例（6）」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「例えば会社が買収の影響を説明しているなら、売上増加をそのまま既存事業の顧客獲得力と捉えないようにします」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）

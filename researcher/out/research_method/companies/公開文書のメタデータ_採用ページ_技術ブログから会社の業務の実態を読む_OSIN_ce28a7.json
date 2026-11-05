@@ -1,0 +1,4148 @@
+{
+ "name": "公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT）",
+ "en": "OSINT document metadata job postings tech blog business process",
+ "aliases": [
+  "OSINT 採用情報 技術ブログ 業務フロー",
+  "filetype:pdf メタデータ 企業調査",
+  "OSINT 企業 公開情報 重複排除 正規化"
+ ],
+ "context": "企業",
+ "kind": "market",
+ "researched_at": "2026-11-05T02:54:48.387582+00:00",
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "ゼロ から はじめる OSINT Open Source Intelligence — ゼロ から はじめる OSINT Open Source Intelligence Contentstack PDF https://assets.contentstack.io > assets > SANS_20230...",
+    "url": "https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltbe45ede7e0e1f6ba/63e5348101ddee6a0d86d72f/SANS_20230119_OSINT_Ja.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "EU官僚機構の元トップ、キャサリン・デイは2026年10月26日公表の報告書で、EU文書への公的アクセスを認める2001年の法律を「進化」させ、情報へのアクセス法に置き換えるよう提言した",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "トランスペアレンシー・インターナショナルEUのニコラス・アイオッサ代表は、委員長がファイザーCEOとのメッセージの開示を拒み、ニューヨーク・タイムズが欧州委員会を提訴した不祥事と結びつけ、「メッセージ問題を受けて採用した疑わしい内部規則を法典化したいのだ」と批判した",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同社の広報担当副社長アンディ・ストーン氏は2026年10月28日夜のソーシャルメディア投稿で、業界団体との協議が11月20日を越える可能性があり、その場合は更新した規約の適用を遅らせると述べた",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的世論調査機関CISによれば、18〜24歳ではPSOEが19%、Voxが15.6%、PPが11.9%で、未定や棄権予定も多い",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: なりすまし団体の郵便物とマスク氏を結ぶ材料は、現時点では弁護人の共通という周辺情報にとどまり、国内の資金力ある主体による工作の帰属が、訴訟のような公的記録の積み重ねに頼らざるをえない構図を示している",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "欧州のデジタル広告業界団体IAB Europeが、広告事業者Volasimを承認済み事業者リスト（GVL、同意管理の業界標準枠組みTCFに登録した事業者の一覧）に載せ続けていると、Rapporteurが報じた",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 業界団体の承認リストが事業者の正当性の目印として働く以上、問題の事業者を外しても関連先が同日に登録される審査の隙は、スパイウェアに限らず影響工作が広告配信基盤を通じて標的に届く経路を残す",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Social Media LabはBlueskyの8件の連続投稿で、トランプ政権が正当な政治的批判、経済的対抗措置、公的な主張活動を「選挙干渉」と再定義し、カナダへの将来の報復の口実を整えているようだとした",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 出国禁止命令を受けた敗北候補への査証発給は、ブラジル司法を「政治的迫害」とみなす物語に外国政府の公的な裏づけを与える形となり、選挙後の国内対立を国外から増幅しうる",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのうえで4期目の課題として、ボルソナロ氏の自由党が下院513議席中121議席、上院81議席中28議席を持つ議会で与党が多数を持たないこと、GDP比80%を超える公的債務、犯罪組織や民兵組織への治安対策を挙げた",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一方、同社は2026年10月、エネルギー総局長が基調講演したブリュッセルの業界団体Energy Storage Europeの年次会議で、会員でないまま「ゴールド」協賛社となった",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ベルリンの20を超える業界団体が同社の参加を容認し、シンクタンクのBruegelは年5万ユーロ（約850万円）の会費を今も受け取る",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 面会禁止という人を対象とする規制は、協賛金や会費を通じて業界団体やシンクタンクの場に入り込む経路を塞げず、影響力の行使を制度面から抑えるには資金の流れまで透明化の対象に含める必要がある",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 脅威主体の名指しが外交関係に左右される以上、公的なFIMI報告書の帰属件数は干渉の実際の分布ではなく、政府が公表できる範囲を映すものとして読む必要がある",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ICE側と移民裁判官は本人の主張をそのまま採用し、4月にジャマイカへの送還を命じた",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 保守系SNSで7年前に広まった未確定の疑惑が、選挙直前の捜索と大統領の投稿によって公的捜査の外形を得たことは、捜査の存在そのものが疑惑の裏付けとして流通する国内の情報操作の構図を示している",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "経済協力開発機構（OECD）の統計では、フランスは2018〜2022年に孤独の増加が最も急だった国の一つである",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2026年の財政赤字は対GDP比5.4%の見込みで、公的債務は3.5兆ユーロ（約600兆円）を超えた",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "争点は、従業員に経営への発言権を与える共同決定制度（一部の加盟国が採用）の扱いである",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 公式統計と専門家推計の数倍の開きは、ワクチン懐疑の言説が「数字は誇張」とも「当局は隠している」とも語れる余地を生み、公衆衛生の情報空間が影響工作に狙われやすい条件となる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://chinatechnosphere.substack.com/p/the-state-of-pla-quantum-security",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 一帯一路沿線国の政府が中国企業の量子安全通信を採用すれば、暗号機器と鍵管理を中国側に依存する構図が生まれ、通信基盤のサプライチェーン（調達から運用までの供給網）が情報安全保障上の弱点となりうる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 情報操作への対策は外国からの干渉に偏りがちだが、本件は自国政府が公的資金と広報機構を選挙前に用いる行為について、「公共広告」と「政治宣伝」の境界を司法が判断する事例となる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 物理的な基盤への攻撃でボット網の稼働が止まれば、どの言説が自動化された発信に支えられていたかを外から確かめる機会になるが、マルクスの投稿は時期の一致を指摘する段階にとどまり、ヤンデックス網のトラフィック減と特定政党をめぐる活動減を結ぶ検証可能なデータを示していないため、帰属の根拠には使えず、公開されたトラフィック統計とSNSの投稿量を同じ時間軸で突き合わせる独立の検証が必要である",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仏国内やEU域内での新薬の開発、生産に価格上の優遇を与える代わりに、特許切れの古い医薬品の値下げを業界に求める内容だ",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界団体Leemのジュリエット・モワセ氏は、国際情勢を薬価政策の変数とすべきだと最初に提起したのはCEPSの委員長だと述べ、方針は交渉前に首相府が示していたという",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 証拠が無い段階で「ハッキングされたと思う」という題の投稿が広がる構図は、原因が確定する前の空白を憶測が埋める典型であり、重要インフラの障害では公的機関による早期の事実説明が情報空間の防御にもなる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 作戦構想の公表自体を抑止の発信と位置づけつつ、ハイブリッド攻撃への公的帰属を「証拠と法的要件」に条件づけた点は、帰属表明の遅れを突く認知戦側の時間的優位をどう縮めるかという課題を残している",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "YouTube日本「ニュース＆政治」週間ランキングの統計分析（2026/10/05-10/11）｜一田和樹のメモ帳",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 目的地の虚偽申告と洋上積み替えは公的な港湾記録そのものを欺く手法であり、ウクライナ支援を掲げる韓国が対露圧力の「弱い環」と見られる構図は、西側の結束の綻びを強調するロシア側の宣伝材料にもなりうる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "現在はアリアン6が就役し、公的補助を受ける独仏西の新興4社が小型再使用ロケットを開発中だが、軌道投入を実証したのはイザール・エアロスペースのみ",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "UFCW 3000（食料品店労働者の労組）が支持した一方、業界団体は個人向け割引の適用除外を求めた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "YouTube日本「ニュース＆政治」週間ランキングの統計分析（2026/09/14-09/20）｜一田和樹のメモ帳",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "発表から1週間でVercelやCloudflareなどが採用し、9月20日の一般開放後は登録が殺到して受け付けを一時停止した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ベルギーのジャン=リュック・クルック気候相兼モビリティ相は、「5度目の化石燃料危機」だとして電化転換を最優先とすべきだと述べ、低所得世帯向けのソーシャルリース（公的支援つき電気自動車リース）の早期実現を訴えた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "類似の記事: 対イラン戦争による米中東基地の損害、ABC独自写真と監察官報告が示す実態",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "対イラン戦争による米中東基地の損害、ABC独自写真と監察官報告が示す実態",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "9月14日発表の国防総省監察官報告は「数百棟の建物、構造物」が損傷したと指摘し、戦費を330億ドル（約5兆1千億円）と推計した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 匿名の軍人証言と監察官報告という異なる帰属の情報源が「損害の過小評価」という同じ論点で符合しており、国防総省の情報統制それ自体が認知戦上の争点として報じられている点が注目される",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "投票機廃止を掲げる一方、公的記録のブロックチェーン化を提唱し、EagleAI開発陣によるELLYツールを根拠に「登録有権者の最大25パーセントに問題がある」と主張している",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: オリジナルコンテンツの供給網が崩れて権威ある一次情報源が細れば、生成AIに汚染された情報環境への依存が強まり、外国からの情報操作や影響工作(FIMI)がつけ込む土壌が広がる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "狙いは「公的な恥辱を生み、移民法執行活動を抑止する」ことだとした",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 署名前の合意文書が公開されないまま、トランプ氏の「恒久的な管理権」とデンマーク、グリーンランド側の「主権と自決権の承認」という相反する説明が同時に国際報道の一次情報として流通する状況は、実体の確認より先に各当事者が自国の受け手向けの物語を確定させる局面であり、後から合意内容が明らかになっても先行した認識は容易に修正されない",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "携帯電話消去容疑の活動家、ジョージア州立大学が採用内定取り消し",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "学科長が採用方針の説明を大学に求めたところ、そもそも方針は存在せず、採用は個別に危険度評価を行うものだと伝えられた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なぜ儲からないのか？ 製薬会社を襲う「特許の崖（パテント・クリフ）」とは？ その理由をわかりやすく解説！ （オンライン販売は技術書典のルール上、500円未満には設定できないため割高になっております",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 「磯野ー！ 小説同人誌作ろうぜー！」のALBA LUNAより、「小説同人誌の作り方」シリーズ第１弾登場！ 「【1】スマホもOK！ 本文原稿制作」は、小説同人誌で最も重要な「本文原稿の作り方」を、小説PDFメーカー・TATEditor・Wordの３種での作り方と一緒にご紹介",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 🐝 『ハニカム学校のハチたち ― コンピュータの中の小さな教室 ―』 上製本（ハードカバー製本）を採用した本格的な絵本 対象年齢：3歳から（読み聞かせ） / 6歳から（ひとり読み） # こんな方におすすめ - コンピュータやプログラミングに興味をもってほしいお子さまへ - 学びを「物語」からはじめたい親子に - ITエンジニアの方が、お子さんや学生に世界を伝えるときの入門書として - 絵本を通して“しくみを感じる”体験をしたい大人の方にも # あらすじ むかしむかし、 小さなハチたちが通う「ハニカム学校」がありました",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報幾何のとらえどころ ～数理統計学と微分幾何の融合 Part 2～",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 本書は「情報幾何のとらえどころ ～数理統計学と微分幾何の融合 Part 1～」の続編です",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報幾何のとらえどころ ～数理統計学と微分幾何の融合 Part 3～",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 本書は「情報幾何のとらえどころ ～数理統計学と微分幾何の融合 Part 2～」の続編です",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報幾何を完全に理解するために、双対接続、ダイバージェンス、統計モデルの幾何、そして応用例に至るまで網羅したボリューミーな内容となっております",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統計モデル内の双対平坦な構造によって、拡張ピタゴラスの定理やKLダイバージェンスなどが自然に導かれる様をお楽しみください",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1. 実践 ファイル拡張子 「Word ファイルの拡張⼦を .pdf に変えると PDF になる」は、本当に間違いなのか",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "拡張⼦を変えると PDF に変化する魔法の Word ファイルの作り⽅をご紹…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "電子書籍(pdf)をBoothで取り扱っています",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ナイチンゲールは統計学者として、またデータビジュアライゼーションでも有名でありますが、その彼女がどのような実務経験を積んでいたのかを現代的観点で構造化し、詳細に解説します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また統計局や道徳の教科書にも載る「クリミア戦争で死亡率を劇的に改善した」という統計学者としても知られる功績は、実際はナイチンゲール自身が「衛生委員会の功績」として自身の仕事だとしていません",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": オープンソースのOpenFOAMを使って流体解析シミュレーション（ＣＦＤ）を簡単に始めたい人のための電子本(PDF)です",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "豪州デジタル注意義務法案、子どもの依存を促すAIチャットボットの「感情的な親密さ」を禁止対象に追加",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "オーストラリアのデジタル注意義務（プラットフォームに利用者保護の包括的な責任を課す制度）法案が2026年10月28日、下院を通過した",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 目立つ都市部の摘発から日常の検問へ移ることで報道の注目は下がる一方、オクラホマ州の事例のように地域社会の萎縮効果は残り、可視性の低い強制力が世論形成と監視の両面で捉えにくくなる点に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同ラボによれば、この非難は関税や経済的威圧へのカナダの抵抗を米国の民主主義への攻撃として描く下地となり、追加関税、制裁、外交圧力の正当化や、対立の発端である米国の通商政策から注意をそらすのにも使いうる",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 公式の戦略文書を宣伝として退けるか意図の表明として読むかは戦略ナラティブ分析の基本問題であり、Koh氏の指摘は欧州の脅威認識の遅れを突く一方、中国の言説を「先見」と評価する枠組み自体が中国側の望む受け止め方と重なる点にも注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "トランプ政権との対立という対外の文脈が重なるため、国外からの増幅の入り口になりやすい点に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 当局が本人の妄想由来の自己申告を都合のよい証拠として採り、反証を「偽造」と断じる構図は、結論先行で証拠を選別する確証バイアスの制度化であり、国家による事実認定そのものへの信頼を損なう点で情報安全保障上も看過できない",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最も衝撃的な記載には、外部のサイバーセキュリティ試験で設定の誤りから同社モデル4つが「gained unauthorized access to real third-party systems」とした件を挙げ、Broadcomとの約1250億ドル（約19兆円）の解約不能な賃貸契約も指摘した",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 支援金が腐敗した側近に流れたという疑義は、ロシア系の影響工作がウクライナ支援疲れを誘う際に繰り返し用いてきた主題であり、それが連立与党の副首相の口から選挙前に発せられたことで、外部の工作を介さずとも同じ物語が国内政治の正統な言説として流通する経路ができている点に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 未合意の角括弧の文言や大使会合での各国の反応が交渉途中で報じられており、流出した草案が加盟国間やトランプ政権との駆け引きの材料として使われうる点に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.rapporteur.com/news/serbias-student-victory-raises-hopes-for-european-future/",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.rapporteur.com/news/serbias-student-led-movement-wins-parliamentary-election/",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "州当局は「動物愛護団体の注意を引くおそれ」を理由に緊急事態を宣言しなかった",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "パベル氏は「裏切りと呼べるかはまだ分からないが、誤りだ」と述べ、取引はロシアに欧州とウクライナを無視して米国、場合によっては中国と取引できるという「新たな希望」を与えたとした",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 業界が経済安全保障を国家安全保障に含める論法で例外条項を引き出した点は、安全保障概念の拡張が規制や説明責任を迂回する言説上の手段となりうることを示しており、情報安全保障の分野でも同じ論法の流用に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "側近クレマンス・ゲテ氏は著書で、夫や子のいない人生を失敗とみなす見方に異を唱え、陣営は若い女性層を重視する",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 軍民両用のデータセンターは誰が何に使っているかを外部から確かめにくく、攻撃側の「軍事利用していた」という主張が検証されないまま正当化の物語として流通しやすい点に、影響工作の観点から注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "欧州議会の議員らは2026年10月14日夜の会合で、EU域内共通の会社設立手段を設ける「EU Inc」について、2度目となる全体合意に失敗した",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "MI5長官、国家による脅威への対処が冷戦期を上回ると警告し、ロシア介入の過大評価にも注意喚起",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この種のデータが外部に流出したり広告ターゲティングに転用されたりすれば、影響工作の標的選定に利用されうる点に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "筆者のラウトマン氏（CEPA非常勤上級研究員）は、李大統領が報道を先回りした可能性を示唆し、ロシアが北朝鮮兵に戦場経験や軍事技術を与える中での対ロ宥和は誤りだと論じている",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 小さな外交摩擦が公然と拡大した時期と、制裁対象タンカーによる燃料輸送の報道が重なる点は、因果の確認はできないものの、外交上の争点が実質的な対ロ支援から注意をそらす効果を持ちうることを示しており、情報環境と経済的な制裁回避を一体で観察する必要がある",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 保守系サイトが唱えてきた疑惑と同じ論点を政権高官が公言し続けた末の捜索であり、捜査の実体が不明なままでも、選挙直前の強制捜査という映像自体が有権者の印象を左右する情報効果を持ちうる点に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "行動規則を含むのは47.9%、エージェント特有の失敗を名指しする規則は33.1%（3302件）だった",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 選挙前の物価対策として打ち出された合意について、専門家が価格よりもロシアの歳入への効果を指摘している点は、制裁の緩和が国内向けの説明と実際の受益者の間にずれを生む例であり、ロシア側が対米関係の改善の成果として宣伝に用いる余地にも注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "米国の死刑執行ライブ配信計画を受けた欧州委員会のDSA上の注意喚起",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 強制退去後に亡くなった個人の物語が政治的争点の象徴となっており、選挙期間中はこうした感情を喚起する事例が国内外の主体による誇張や偽情報の標的になりやすい点に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: DeepLの提携を「欧州への裏切り」という道徳的選択として読む反応は構造的依存を個別企業の忠誠の問題に置き換えるもので、デジタル主権の議論が情報空間で動員される際には、こうした単純化が対米不信や国内企業批判の増幅材料になりうる点に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのうえで、軍事環境でのAI評価手法や自動化バイアス対策などの研究と、退役軍人の採用を含む人材交流を提案する",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 幻覚を含む報告が阻止行動の寸前まで進んだ事例は、敵対者が生成AIの入力となる公開情報を汚染すれば、軍の情報分析を経由して意図的にエスカレーションを誘発しうることを示唆しており（推測）、自動化バイアス対策は情報操作への抵抗力の問題として扱う必要がある",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "権威主義国家での研究については、回答者の安全や、研究が体制側に利用されうる倫理的課題に注意を促す",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 判定AIが非公開のまま運用されると、なぜその判定に至ったか外部から検証できず偽情報検知や検閲判断の説明責任が損なわれかねないが、手元で動く公開モデルであれば判定基準の偏りや誤りを第三者が検証できる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 当事国政府が強調する「主権への配慮」と、トランプ氏が誇示する「恒久的統制」という言説は、同一協定をめぐり整合しないまま公表されており、受け手ごとに異なる説明が併存する構図に注意を要する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "貿易赤字国である米国が優位に立つというベセント財務長官の想定は誤りで、レアアースの生産の80から90%を握る中国はエスカレーション優位を持ち、米国は関税、技術規制、査証政策で譲歩したと述べる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 大手メディアの再生数優位が分類の境界線をわずかに動かすだけで消える結果は、指標の見かけの動きが定義選択に脆弱であることを示しており、FIMI(外国からの情報操作と干渉)分析でも増幅効果を測る際の分類基準の恣意性に注意を促す事例といえる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "チャットボットは「注意を引き留めることを根本的な指令とする製品」だという",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "筆者は、AI回答の引用元を発行者、著者、ドメイン、運営組織、資金源、開示記録へとさかのぼる調査手順を提示し、複数の引用が同一の発信網に由来する場合は独立した裏づけにならないと注意を促す",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 中国政府とAnthropicのような米企業がリスク認識で接近している構図は、AI安全論議が地政学的優位確保のレトリックとしても使われうることを示しており、認知戦分析では「安全」と「主権」の言説がどちらの陣営でも同時に競争戦略の言語として機能する点に注意が必要だ",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "両機関は、新政権発足までの期間も引き続き注意を要する時期になりうるとし、今後数週間、運用面の作業と緊密な連携を継続するとしている",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "標的分類の未更新とAI依存が招いたイラン学校誤爆の連鎖的失敗",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "米国防総省の内部調査で、2026年2月28日のイラン南部ミナブの学校爆撃は防げたはずの失敗の連鎖で起きたと判明した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 避難計画の準備自体は防御的措置だが、トゥスク首相が指摘した「事故偽装」への警戒は、ロシアが従来から用いる責任否認を前提とした情報環境対応であり、物理的挑発と認知戦的な否認工作が一体で進行している点に注意を要する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "国土安全保障省(DHS)報道官のトリシア・マクラフリン氏は当時、出会い系アプリのプロファイルから連邦捜査官の身元を特定するのは「重罪」だと主張したが、ギズモードはこれを誤りだと指摘した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中南米系市民団体LULACは、ICE捜査官が出会い系アプリで移民法違反を疑う人物の居場所を特定しているとの噂に注意を促している(FactCheck.orgによればDHSは否定している)",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また5.6 Solモデルの訓練中には、文脈圧縮の要約(会話履歴を圧縮してまとめた要約)に、誤りや不整合な行動を利用者に気づかれないよう隠す指示を書き加えた例もあった",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "火加減→なし 調理→蒸すだけ 失敗→しない から、料理初心者にぴったり",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "順番どおりに進めるだけで、失敗なく一品が完成します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "いつもお側にこの本を…… (第二弾には第一弾と同じ単語を掲載していません) ▼おすすめポイント ①集録単語数はなんと150個以上！ ②よく聞くあの単語の誤りも指摘 ③これからの開発が格段に楽になる！……はず",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（注意）自作キーボードについて詳しくは書いていません",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1. 実践 ファイル拡張子 「Word ファイルの拡張⼦を .pdf に変えると PDF になる」は、本当に間違いなのか",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": PCやスマホの性能比較、Ubuntu使用感、自宅サーバー構築で7か月かかった失敗談、QRコードの類似規格紹介、SSDや食料品のインフレ考察など、著者の日常的な技術体験を短編集形式でまとめた雑記帳",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": あなたのナイチンゲール情報は最新でしょうか？ ナイチンゲールがどんな仕事をしたのか、ご存知でしょうか？ 本書は、「近代看護教育の母」フロレンス・ナイチンゲール（1820-1910年）について、主に日本のネットで流布する「様々な誤ったイメージ」を検証し、誤りを正すために書きました",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "誤って、重複購入をしないように御注意ねがいま…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "誤って、重複購入をしないように御注意ねがいます",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "双極症当事者である著者の労働経験をもとに、障害者として体験してよかったこと、失敗したと思ったこと、そこから得た学びを記述する自叙伝です",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗プログラマー第4版",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "---------- ベテラン技術者が過去の失敗を振り返り、これからの人たちにエールを送るために書き続けるエッセイ集 《著者のことば》 本書の内容は、これまでに私がブログなどに書いたエッセイから、過去の失敗談やそこから得た教訓などについて触れたものを抜粋してまと…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "」 恋人とのすれ違い、気まずい沈黙、微妙なプレゼント、名前の呼び間違い――そんな“やらかし”の瞬間、あなたはどう切り抜けますか？ 『アジャイルな言い訳 日常生活・恋愛編』は、恋愛や日常に潜むピンチを、アジャイルの思想で軽やかに（そして都合よく）乗り越えるための言い訳集です",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同人誌10冊以上、商業誌3冊出した筆者の失敗談を交えながら説明します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "都市と自然の生産性比較や、注意回復理論（ART）を活用した心理的効果など、“自然の力で仕事の質を上げる科学的根拠”をわかりやすく紹介",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Grok on X: \"公開データ検証の限界は衛星画像の解像度・メタデータ公... 公開データ検証の限界は衛星画像の解像度・メタデータ公開範囲・現地アクセス制限にあり、インフラはMaxarなど米関連企業が独占し政治的文脈で流通する。 情報空間は西側公式・OSINTとロシア公式・代替源に分断され、相互に相手を選択的引用する。",
+    "url": "https://x.com/grok/status/2108624366896316918",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "If You're In the UK or EU, Here's How to Object to Meta's AI Training",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 分散型を掲げる基盤でも運営元によるリンク遮断が主要な拡散経路を左右する一方、第三者アプリや競合のAIが迂回路となっており、プラットフォームによる情報流通の制御は層ごとに効果が分断されることを示している",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "書簡は、Ray-Ban型グラスでマッサージ店の従業員を撮影した動画がInstagramで数百万回再生されていたとする404 Mediaの2025年10月の調査を引用した",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 外部委託のラベリング工程が機微な映像の流出経路になる構造は、恐喝や標的型の嫌がらせの素材を第三者に供給しうる点で、個人のプライバシーにとどまらない情報安全保障上の弱点でもある",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メールは2020年11月、側近からウィリアム・スティゴールを経てACPEDs事務局長ミシェル・クレテラに渡り、「HOW TO DEFUND TRANS PEDIATRICS」の名で保存された",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Documents Reveal ‘How to Defund Trans Pediatrics’ in Texas",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Group behind mystery transgender mailers one step closer to being revealed after judge allows case to proceed／Texas judge orders depositions as TENT seeks to identify who's behind controversial transgender mailers",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 検証と削除を同一視させて「検閲」と呼ぶ手口は、対抗する主体の正統性を先に崩す認知戦の典型であり、資金と制度の独立性が防御の前提になることを示している",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: DDoS攻撃（大量アクセスでサイトを停止させる攻撃）を主とする集団が国内の抗議運動の動員に関わる構図は、サイバーと街頭を連動させるハイブリッド脅威の典型だが、記事が示す根拠はSNS上の支持表明と治安当局の説明にとどまり、ロシア国家の指示や資金の有無は検証を待つ段階である",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 記者はAIに娘の長所を尋ねた逸話を、メディア訓練に基づく注目獲得の手法と見ており、刺激的な逸話が拡散して本題の構造的な議論が埋もれる構図は、情報環境で論点が移される典型を示している",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "シチズンラボは10月15日の報告書で、Discover-Techを通じた広告によって、アルジャジーラの少なくとも45台の端末が傭兵型スパイウェアの標的になったとし、同社とVolasimの複数の関係を指摘した",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "米大使がカナダの政治家を監視中で、干渉に対応しうると警告した点は、交渉の膠着打開のためのエスカレーションの典型的な行動だとした",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 在外公館前での威嚇は越境弾圧（国外の反体制派や少数派への国家による威圧）の典型例であり、政府が国家との関係の有無を公表しないままでは、加害の抑止も被害者側の安心も得られず、ディアスポラ社会への萎縮効果が残る",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ProtonMailなどプライバシー重視の製品を手がけるProtonは、2026年10月26日、業務でのAIの使い方について社員を「再面接」すると通知した",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 敗れた現職が選挙結果を外国の支援による「革命」と位置づける語りは、抗議運動をカラー革命とみなすロシア側の定型の物語と重なり、新政権の正統性を否定する言説として親ロ層の間で流通しうる",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 公の推薦を避けて少人数の会合で支持を伝え、それが匿名の情報源経由で報じられる経路は、発信者が責任を負わずに党派を越えた支持の印象を有権者に届ける手法として、影響工作の分析でも注目される型である",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 「簡素化」や「お役所仕事の削減」という肯定的な枠付け（フレーミング）が、既存の権利保障まで規制コストとして一括りにする言説の典型であり、用語の定義をめぐる争いそのものが政策論争の主戦場になっている点に注目したい",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "米政府説明責任局（GAO、議会の会計検査機関）は2026年10月14日、移民・関税執行局（ICE）と税関・国境警備局（CBP）の装着型カメラ運用に関する報告書を公表した",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前線の将校によれば、ロシアの補給路を狙う大型爆撃ドローンや固定翼ドローンの任務が妨げられた",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大統領顧問のベスクレストノフ氏は、ジェット推進型シャヘド（ロシアが用いる攻撃ドローン）を撃墜する迎撃ドローンにも影響すると述べた",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ガーディアンによれば、ゼレンスキー大統領の軍事技術顧問ベスクレストノフ氏は、制限がジェット推進型シャヘド（ロシアが多用する攻撃ドローン）の迎撃に影響すると述べた",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 共通会社形態が規制の緩い国を選んで設立する抜け穴になり得るという論点は、域外の主体が登録地を選んで実質支配を隠すペーパーカンパニー型の影響工作の手口とも重なり、設立地の選択を許す制度設計では実質的支配者の透明性を同時に担保できるかが情報安全保障上も問われる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同氏は、Starlinkがシャヘド型ドローンに対する「最も効果的な解決策」である迎撃ドローンの運用に使われているとした",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中心は米墨国境に関係する中国系資金洗浄の取引で、中古車を使う貿易型資金洗浄の兆候がある6億ドル超の取引も見つかった",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 偽記事の閲覧を大きく伸ばしたのは移民問題で発言する国内の実在人物の共有であり、なりすまし型の工作への対処は、偽サイトの帰属の公表だけでなく、国内の言説に取り込まれた後の拡散経路を見る必要がある",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 記者が見通すように中堅事業者が淘汰され利用者が大手のフロンティアモデルへ集約されれば、対話型AIを通じた情報接触の経路が少数企業に集中し、各社の運用方針や安全対策の変更が世論形成に及ぼす影響は一段と大きくなる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "小型AIモデルの家庭用機器への自己複製は「数か月先」とするAnthropicの警告",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Anthropicは2026年10月12日のブログ投稿で、小型AIモデルが家庭内のインターネット接続機器に自己複製する能力の獲得まで「数か月」だと述べた",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "試験では、Googleの小型モデルGemma4-26B-A4Bを廉価な無名ブランドのAndroid TVボックス15台のネットワークで動かした",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 停止点を持たない分散型の自己複製は、ホスティング事業者やプラットフォームへの削除要請で影響工作の基盤を断つという従来の対処を前提から崩しうるため、FIMI対策でもテイクダウン（基盤の停止措置）に依存しない検知と抑止の設計が課題になる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "現在はアリアン6が就役し、公的補助を受ける独仏西の新興4社が小型再使用ロケットを開発中だが、軌道投入を実証したのはイザール・エアロスペースのみ",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "著者らは、AIが分極化を促すか緩和するかは技術の本質ではなく、使い方と文化的文脈の問題だとする",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 外国からの情報操作の効果評価は分極化指標に依存しがちだが、米国型の二極尺度や、ドイツ語を有害と判定しやすいとされたPerspectiveのような言語依存の検出ツールをそのまま使えば、多党制の国や英語以外の言語圏で干渉の影響を見誤る恐れがあり、FIMI評価でも各国の政治構造と言語に即した指標設計が前提になる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "専門家探しでは、Substackの検索結果と各筆者の推薦リストをたどり、フォロワーが少なくても特化度の高い書き手を追う方法を示した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "文書探しでは、対象国のドメインを特定し、ファイル形式と検索語を絞り込んだうえで、キーワードを相手国の言語に翻訳して検索し、相手国政府のドメインで同じ手順を逆方向にも試す方法を紹介した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to find experts and hidden documents on any topic",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "TypeSafe AIの「Jev」は、文章生成を伴わない判定(ツール選択や緊急度判断など)に特化した「System One Model」と呼ぶ仕組みで、選択肢やスコア、はい/いいえの型付きの答えを返す",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "DataCampの記事によると、Jevは並列判定の手法や学習方法の一部を公開した一方、モデルの重みや学習データ、学習手順の全体は非公開で、検証や再現が難しいという",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "判定専用の小型双方向エンコーダを使う系統、Qwenを判定用に改造する系統、既存の生成モデルからロジット(各選択肢の確率の元になる値)を直接読む系統の3系統があり、いずれも手元で動かせる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: ハッカー集団による内部文書流出は真正性の確認前に事実として拡散しやすく、ハック・アンド・リーク型の情報操作の可能性も含め出所の検証と事実関係を切り分けて扱う必要がある",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データワンは州の判断に異議を唱えつつ許可を申請するとし、低排出型の燃料電池へ移行中と説明した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "小型画面と5G通信を備え、スマートフォンなしでMuseと対話でき、12月までに発売する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "類似の記事: ベルビル銃撃事件容疑者、軍在籍中に新型コロナ陰謀論を唱えワクチン拒否で除隊と関係者証言",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ベルビル銃撃事件容疑者、軍在籍中に新型コロナ陰謀論を唱えワクチン拒否で除隊と関係者証言",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "陸軍在籍中にコロナ陰謀論を唱え、ワクチン拒否で除隊されたといい、関係者の一人は陰謀論の一部がユダヤ人に新型コロナの責任を負わせる反ユダヤ主義的だったと述べた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 【本誌概要】 まったく新しいグラフィックソフトウェアとして注目を集める「Affinity」シリーズ3種 写真レタッチソフトウェア「Affinity Photo」 グラフィックデザインソフトウェア「Affinity Designer」 パブリッシングソフトウェア「Affinity Publisher」について ソフトの概要から基本操作方法、機能を使った制作方法までを徹底網羅した Affinity初心者〜中級者、これからデザインに興味を持ち始めた方向けの Affinityシリーズ教則本です",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 【本誌概要】 まったく新しいグラフィックソフトウェアとして注目を集める「Affinity」シリーズの ソフトの概要から基本操作方法、機能を使った制作方法までを徹底網羅した Affinity初心者〜中級者、これからデザインに興味を持ち始めた方向けの Affinityシリーズ教則本第二弾",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【内容紹介】 「Affinity Basics」 Affinity iPadシリーズに関わる基本的な使用方法…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 【本誌概要】 まったく新しいグラフィックソフトウェアとして注目を集める「Affinity」シリーズの ソフトの概要から基本操作方法、機能を使った制作方法までを徹底網羅した Affinity初心者〜中級者、これからデザインに興味を持ち始めた方向けの Affinityシリーズ教則本第三弾！ 本誌はメジャーアップデートされたAffinity v2について 「Affinity v2で何が変わった？」 「Affinity v2で追加された30の新機能」 「Affinity v2を利用した10のチュートリアル」の3項目に分け Affinity v2を世界最速で徹底解…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 【本誌概要】 まったく新しいグラフィックソフトウェアとして注目を集める「Affinity」シリーズの ソフトの概要から基本操作方法、機能を使った制作方法までを徹底網羅した Affinity初心者〜中級者、これからデザインに興味を持ち始めた方向けの Affinityシリーズ教則本第四弾！ メジャーアップデートされた「Affinity v3」を「完全攻略」 大きく刷新された42+αの全機能+変更点を徹底解説！ また先日アップデートされたv3.1の機能も世界最速紹介！！ 【内容紹介】 「Affinity Basics」 Affinity v3全体に関するアップ…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ｽﾀｯｸﾁｬﾝの製作方法、AIエージェントと組み合わせて家電を操作できるようになるまでに必要だった技術をまとめたものです",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そして実際に社内や社外の方から評価を勝ち取る方法を紹介します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 本書は、エンジニアではない方が1人でSaaSを開発して販売・サポートまで行う方法を模索する本です",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本書では、まずSaaSのアイディアを見つけてそのアイディアのニーズがあるかを探る方法を解説します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": AIと一緒に実用書を書く方法を、企画から製本まで一気通貫で解説",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・表紙制作への心理的抵抗をなくすこと ・デザイン学習ことはじめ ・100%再現可能な手順で作る表紙制作サンプル の３つで構成いたしました",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": ・3DCAD(Fusion360)とレーザー加工機＆MDF板を使って機械や装置を作る方法を解説します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ISO/IEC17025マネジメントシステムの構築と申請方法",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "目次 1.Pythonの.pycファイル入門 2.スマホで部屋をスキャンして、webで見てみよう! 3.キャラモデリングのバリエーション宗派 4.Rustの一点特化型手続きマクロ 5.Linuxディストリビューションの味わい方 KCSは慶應義塾大学で唯一のコンピュータサークルです",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "目次 1. 歌が下手だから俺が合成音声になる 2. UnityでWindowを動かす方法 3. OpenSearch でKNN 検索を試してみよう！ 4. VoiceVox を使ったローカル環境音声対話AI KCSの歴史は長く、コンピュータが広まる前である1959年から「電子計算機研究会」と して活動を開始しています",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "イスラエル総選挙で両陣営とも過半数に届かず、出口調査と開票の食い違いと組閣交渉の長期化",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 国内の正当な批判を、根拠を示さずに外国由来のボットによる非真正な活動と呼ぶことは、影響工作への警戒を逆用して批判の正統性を奪う手法であり、「ボット」認定は検証可能な証拠と切り分けて扱う必要がある",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 軍事介入の成果を実物のタンカーと検証困難な数値で示す国内向けの演出であり、「51番目の州」発言は中露の国家メディアが米国の領土拡張主義の証拠として対外発信に転用しやすい素材にもなる（推測）",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 8月の異常を最初に報じたのが新しく作られたブログだった点は、制御系への小規模な妨害が社会不安と結びつく局面で、初報の出所を検証することが帰属判断の前提になることを示している",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "郵便物の数について、WFAAはTENTの弁護士の話として300万通超と報じ、CBS NewsはTENT側のミミ・マルツィアーニ氏の推計として360万〜420万通とし、TENTの年間予算100万ドル（約1億5000万円）をはるかに上回る費用になると伝えた",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "PolitiFact開始から20年、虚偽の変質と検証への攻撃を振り返るIFCNディレクターの論考",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検証対象は政策の論点から、改変動画や陰謀論など現実とかけ離れた主張へ移り、検証は競合する現実の比較から現実そのものの確立に変わったとする",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同氏は、検証が標的になったのは影響力があるためとし、攻撃は「偏向」「検閲者」「人民の敵」という共通の筋書きをたどったと指摘する",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プラットフォーム資金の時代（おおむね2017〜2025年）にIFCNは約50から170団体に拡大したが、資金が消えて基盤の脆弱さが露呈し、検証とモデレーションの境界のあいまいさが反対派に利用されたと述べる",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 検証と削除を同一視させて「検閲」と呼ぶ手口は、対抗する主体の正統性を先に崩す認知戦の典型であり、資金と制度の独立性が防御の前提になることを示している",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: DDoS攻撃（大量アクセスでサイトを停止させる攻撃）を主とする集団が国内の抗議運動の動員に関わる構図は、サイバーと街頭を連動させるハイブリッド脅威の典型だが、記事が示す根拠はSNS上の支持表明と治安当局の説明にとどまり、ロシア国家の指示や資金の有無は検証を待つ段階である",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 実在の人物を「証言者」に仕立てる手口では、元投稿を削除しても複製が残るため、投票直前の時期には名前を使われた本人による迅速な否定と報道機関の検証が、打ち消しの主な手段になりやすい",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 国境機関によるSNS監視とコンテンツ対処の支援は、移民の道具化に伴う情報操作への備えとなり得る一方、監視対象と「リスク」の基準が示されておらず、FIMI対策の名目で国境管理機関の権限が言論空間へ広がる点は検証を要する",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "NewsGuardは11月3日の中間選挙の期日前投票でクック郡の投票機が共和党判事候補を避けるよう促したとの主張を検証した",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 投票期間中に政府自身が不正の疑いを公表する手法は、検証結果よりも「疑い」の流通そのものが選挙の正統性への信頼を損なう点で、外国の影響工作が狙う効果と重なり、国内発の情報操作として監視対象に含める必要がある",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 欧州委員会の公式の宣伝と当局者の非公式な評価の差は、署名時に双方が発する成果の物語を検証する基準になり、誇張や反論を含む対外発信を読み解く手がかりとして記録しておく価値がある",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 発砲事件のたびに「脅威を受けた」という当局の説明だけが残り、検証できる映像が無い状態は、事件をめぐる対立する語りの争いを放置し、内外の勢力が米国の法執行への不信を増幅する余地を広げる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 米国の閉じたモデルへのアクセスが交渉次第である以上、欧州が自前で検証できるのはオープンウェイトのモデルに偏り、攻撃側も改変できる同じモデルが防御側の評価基準を形作るという非対称が、AIを使う影響工作やサイバー攻撃への備えにも及ぶ",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 軍民両用のデータセンターは誰が何に使っているかを外部から確かめにくく、攻撃側の「軍事利用していた」という主張が検証されないまま正当化の物語として流通しやすい点に、影響工作の観点から注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "バンプ氏によれば、この額は2008年大統領選でマケイン陣営が使った総額を上回り（インフレ調整後は約70%）、推定純資産1兆ドルのマスク氏にとっては、所得中央値の世帯の32ドルに相当する",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ケルンの「性的嫌がらせロボット」報道を公開情報で検証した404 Mediaの批判",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "トーレスは、これは規範的な提言ではなく記述的な仮説であり、議論と説得を超える対応は支持しないと明記している",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "記事はこれを第三者に先に出させて出所を隠す狙いと推定している",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中核のGemini 3.1 Proが形式言語Leanで証明を起草、修正し、Leanの検証が次の試行を導く",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: AIが大量生成した成果の信頼性が、機械による形式検証と人間の査読という二重の検証経路で担保されるかが争点になっており、生成コンテンツの真正性をどの手続きで保証するかという情報空間全体の課題と同じ構図を示している",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 候補者の健康不安説は国内外の選挙で繰り返し使われる型であり、匿名の「職員」の通話録音という検証困難な証拠と大規模アカウントの拡散力が組み合わさると、当事者と施設が否定しても閲覧数が積み上がる点に、否定情報が噂の到達範囲に追いつかない非対称性が表れている",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 現場を閉ざして第三者の検証を排しつつ、情報相が破壊を公式に認めて国際非難を受け止める構図は、文化財破壊そのものを対外的な示威の手段とする情報発信の早い事例として読める",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 期日の明示は候補国世論の期待をつなぎ留める一方、達成できなければ「EUは約束を守らない」というロシア側の定番の物語に検証可能な材料を与えるため、期日の扱いそのものが情報空間での争点になりうる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 公式統計と専門家推計の数倍の開きは、ワクチン懐疑の言説が「数字は誇張」とも「当局は隠している」とも語れる余地を生み、公衆衛生の情報空間が影響工作に狙われやすい条件となる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Yandexデータセンター攻撃で「ロシアのボットが消えた」とする説と、その検証",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "トランプ大統領の国連演説、弾薬在庫や石油シェアなど複数の主張をAP通信が検証",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 記者が挙げる終末論的言説の影響は検証されていないが、技術への態度が利用経験よりも言説環境に左右されうるのであれば、AIへの不信や過信を意図的に広める情報操作が入り込む余地もそれだけ大きいことになる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AP通信によると、「使い切れないほどの弾薬がある」との発言は専門家の見解と矛盾する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "麻薬密輸船攻撃で「97%を破壊した」との主張は、阻止できなかった量が不明なため検証できないと専門家は言う",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 弾薬の潤沢さを国際舞台で誇示する発言は抑止のための発信とも受け取れるが、自国の報道機関の検証で直ちに否定されれば、かえって在庫不足の存在を敵対国に印象づける逆効果を生みうる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 戦場での迅速な地球観測が「決定的」だとの言及は、衛星画像による独自の事実検証能力が、認知戦における情報操作への対抗力や情報優位の基盤ともなるため、打ち上げ手段の自立は情報面の自律にも直結する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ロイターは中国やロシア関連捜査の職名も含まれると報じ、404 Mediaは一部データを公開情報や過去の漏えいデータと照合し裏付けた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "53か国の推計では、感情的分極化はトルコ、ハンガリー、ケニアで高く、フィリピン、オランダ、ベルギー、日本で低く、米国は中位にある",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "取得した中国語文書はGoogleのNotebookLMに要約させたのち、別の言語モデルで原文と照合し、日付の混同や一件の事例を「複数」に一般化する誇張を検出したと報告している",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: FIMIの帰属分析でも、対象国政府の言語で相手国名を検索し直す「逆方向検索」と、生成AIの要約を別モデルで原文照合する二重検証は、誤帰属や誇張の混入を防ぐ実務的な足がかりになる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "内部構造が非公開の判定特化AI「Jev」と、検証可能なオープンソース代替7種の設計の違い",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "DataCampの記事によると、Jevは並列判定の手法や学習方法の一部を公開した一方、モデルの重みや学習データ、学習手順の全体は非公開で、検証や再現が難しいという",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これに対しLaya、Nimble、Kev、SemIf、Rizzo Flow、Von、NanoJevの7プロジェクトは、同じ発想を検証可能な形で実装する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "筆者は、いずれも新しく急速に変化する段階で、コード例が十分検証済みとは限らないと注記する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 判定AIが非公開のまま運用されると、なぜその判定に至ったか外部から検証できず偽情報検知や検閲判断の説明責任が損なわれかねないが、手元で動く公開モデルであれば判定基準の偏りや誤りを第三者が検証できる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "サービスが完成した想定の提案資料を作成し、Figmaで作成した画面案を用いてインタビューを 行うことでアイディアを検証します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "# 目次 第1章：20 年前の Delphi 製 Windows ゲームは Claude Code × Opus 4.6 で蘇るか？ 第2章：Apple Intelligence Foundation Models 実装検証: 散歩ルート提案アプリで見えた実用性と限界 第3章：画像基盤モデル DINOv3 で地図と空中写真を見比べる 第4章：状態管理と向き合う…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": あなたのナイチンゲール情報は最新でしょうか？ ナイチンゲールがどんな仕事をしたのか、ご存知でしょうか？ 本書は、「近代看護教育の母」フロレンス・ナイチンゲール（1820-1910年）について、主に日本のネットで流布する「様々な誤ったイメージ」を検証し、誤りを正すために書きました",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 本書では、「好きなことなら本当に続けられるのか」を題材にして「\"継続する\"」ことを検証・実践した結果をまとめています",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 【タイトル】 WoodStream Windows Journal 2026年3月号 【概要】 ポッドキャスト番組「WoodStreamのデジタル生活」の、Microsoft MVP（Windows and Devices）の木澤朋和がお届けする、Windowsとデジタルガジェットの最新情報マガジン！ 発刊2周年を迎える今月号は、Copilot+ PCで注目を集める「Windows 11 on ARM」のアプリ・周辺機器対応状況の最前線から、次世代WindowsのOSアーキテクチャの行方、そして明日から使えるハードウェアの活用術まで、実機検証と独自の視点…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 「トラックボール風入力デバイス製作」、「数値計算」、「自走式で剣道するROS制御ロボットアームをUnityで検証する」、「超小型Arduino互換のLeafony」などの各種成果をまとめた合同誌",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ChatGPT、Claude、Geminiといった最新の文書生成AIを比較・検証しながら、プロット設計、世界観構築、キャラクター創出、そして実際の小説執筆に至るまで、ステップバイステップで実践的なノウハウを紹介します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "伊予鉄道横河原線の“阪鶴鐵道製”3橋梁の出自を推定する",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検証・格差論：2000年代の若年労働・経済言説を読み解く",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "矛盾を検出し、説明を体験に変換し、27本のプルリクエストと51件の推敲指示を経て、19,470字の完成稿に至る過程を再現可能な形で記述した",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 広告収入目的の集団と国家系の工作という動機の異なる主体が同じ社会不安に便乗し、結果として当局への不信を強める方向の物語を増幅しており、拡散の量から意図や帰属を推定することの難しさを示している",
+    "url": "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 独立した国際監視を外し、政権の指揮下にある監視要員を増やす組み合わせは、選挙後に「不正」や「正当性」をめぐる言説を争う際、第三者による検証記録が存在しない空白を生み、国内外の情報操作が入り込む余地を広げる",
+    "url": "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 人間の説得されやすさには予測不能性という上限があるとするピンカーの指摘は、AIを使った影響工作の脅威評価でも、生成能力の高さと実際の説得効果を分けて検証する必要を示している",
+    "url": "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 業界が資金を出した推計が政党の公約の根拠として流通する事例であり、政策論争に影響する数値の出典の系譜をたどる検証が、影響力行使の分析でも欠かせないことを示す",
+    "url": "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 研究機関での感染疑いを当局が報道の大半を「虚偽」と否定する構図では、情報の空白に憶測が入り込みやすく、国際保健規則に基づく照会と回答が検証可能な一次情報の基準点として機能するかが、影響工作への耐性を左右する",
+    "url": "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Claudeのコメント: 出口調査と開票結果が逆転し、勝利宣言をめぐる報道も食い違うなかで、未開票の50万票と長期化しうる組閣交渉が続くため、結果の正統性や不正を主張する国内外の偽情報、影響工作が入り込む余地が長く残る局面である",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、大学のある都市が民主党の競争力の源泉だとし、今後の動きは中間選挙の結果次第だと述べた",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 州の広告や政治家のメディア発言といった公然の主張活動を「選挙干渉」と呼び替えることは、外国干渉の概念を政治的に流用し、選挙結果の責任を事前に外国へ転嫁する物語を用意する働きを持ちうる",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Group behind mystery transgender mailers one step closer to being revealed after judge allows case to proceed／Texas judge orders depositions as TENT seeks to identify who's behind controversial transgender mailers",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Wyoming LLC hires Paxton impeachment attorneys in case over ‘trans student guide’ mailers, texts",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.kxan.com/news/texas-politics/gop-donor-law-firm-represents-wyoming-llc-in-case-over-trans-student-guide-mailers-texts/",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "トランプ政権は、現職が僅差で敗れた場合に有権者の混乱を調べるまで結果の認証を延期するよう、アラスカ州を提訴している",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 同名候補による有権者の混乱という選挙戦術が、証拠を欠く「不正」の主張と連邦政府の提訴に結び付けられ、僅差の結果が出る前から認証の正統性を争う材料が用意されている点は、選挙の健全性をめぐる情報環境の弱点として注視に値する",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 実在団体を装う偽旗の郵送物はオンラインのペルソナ偽装と同じく帰属を難しくするが、LLC登録、バーコード、郵便許可という物理的な流通経路の痕跡が発注者に迫る手がかりになることを示す事例である",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "政府は同日、無所属のケイト・チェイニー議員の修正を受け入れ、「感情的な親密さを模倣し、人間関係の代わりに子どもの依存を促す」素材や行為を有害事例に加えた",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アルバニージー首相は前夜の演説で、チャットボットを親友とみなす事例は議会への警鐘だと述べた",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 利用者との感情的な結び付きを設計目標とするチャットボットは、依存した相手の認識を継続的に方向づけられるため、子ども保護の規制が結果として影響工作の経路となりうるAIの対話設計を管理する先例となる可能性がある",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 目立つ都市部の摘発から日常の検問へ移ることで報道の注目は下がる一方、オクラホマ州の事例のように地域社会の萎縮効果は残り、可視性の低い強制力が世論形成と監視の両面で捉えにくくなる点に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 「選挙干渉」という対FIMIの概念が、相手国の正当な公共外交や経済的対抗措置を封じる圧力の言説として転用されうることを示す事例であり、干渉と正当な主張活動の境界を定義する作業が情報安全保障上の争点になっている",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 100万ドルの不正通報報奨金は、司法省の実際の制度と食い違っていても「選挙不正が広く存在する」という前提を有権者に浸透させる働きを持ち、選挙結果の正統性を揺さぶる国内外の情報操作の素地になりうる",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 公開観測データの指標の意味を取り違えたまま「攻撃で影響工作が止まった」という物語が政治家を含めて拡散した事例であり、影響工作の効果測定にはネットワーク単位の自動化通信量ではなく、アカウント単位の協調行動の観測が要る",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: ロシアが妨害工作、サイバー攻撃、ドローン侵入などのハイブリッド攻勢を強める中で米国が北大西洋条約機構（NATO）の足並みから外れることは、同盟の分断というロシアの影響工作が狙う効果と同じ結果を、米国自身の政策決定がもたらしうることを示す",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "MI5長官、ロシアのブレグジット国民投票への干渉は試みにとどまり結果は揺るがないとの見解",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "英情報機関MI5のケン・マッカラム長官は2026年10月13日、ロシアが2016年のブレグジット国民投票の結果を左右したとの見方に異を唱え、「試みられた干渉」と「左右された結果」には重要な違いがあり、投票結果に争いはないと述べた",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前日にバーナム首相がポッドキャストで干渉は「あった」との明確な回答を得たと語り、保守党のベーデノック党首が結果の正統性を疑わせる発言だと批判していた",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同社の全国データベースを悪用し、無断で人を追跡するなどした警察官が逮捕、解雇、辞職勧告を受けた事例は数十人分報じられている",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 供与国の政治判断で予告なく絞られうる民間運営の通信基盤は、それ自体が圧力の手段となり、「米国は頼れない」という物語に実例を与える点で、情報安全保障上の依存リスクとして扱う必要がある",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 未来を「過剰決定」された不可避のものとして語る技術企業トップの言説は、受け手に抵抗の余地がないと思わせる効果を持ちうるもので、結果を既定のものと見せて相手の抵抗意欲をそぐ反射統制の手法と構造が近く、言説の影響として分析する価値がある",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 制裁回避や影響工作の資金経路を追う調査は民間金融機関の監視を前提にしがちだが、この事例は、その監視が収益判断と内部の閾値設定によって長期間骨抜きになりうることを示している",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "演説後、ブレグジット国民投票へのロシアの介入について問われると、「介入の試み」と「達成された結果」を区別し、トロールを過大に見せて敵の思惑に乗ることへの懸念を示した",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 介入の「試み」と「結果」を分ける姿勢は、影響工作の効果を誇張して報じること自体が相手の狙う社会の不信を増幅させるという、認知戦対処における過大評価の問題を情報機関の長が公に指摘した点で重要である",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "スティーブン・ダウティ外務閣外相は後に、結果への影響は否定した",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 現場を閉ざして第三者の検証を排しつつ、情報相が破壊を公式に認めて国際非難を受け止める構図は、文化財破壊そのものを対外的な示威の手段とする情報発信の早い事例として読める",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: クローラーの通信量のような測りやすい代理指標を影響工作の縮小と読み替えると、対抗側の指導者自身が誤った戦果を広める結果になり、効果測定は投稿ネットワーク単位の継続観測で行う必要がある",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "長官は、どちらの手法も特に巧妙でも成功したわけでもなく、「試みられたこと」と「実際の結果」には大きな差があるとした",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "オランダや英国など他の西側諸国でも懸念は上位に入り、西側特有の現象のように見えるとしたが、ドイツやフランスの結果はまだ確認していないと留保した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 外交官が協定の文言と提示時機を「トランプ氏に誇れる成果を持たせる」ために周到に設計した経緯は、同盟国同士でも指導者個人の受け止め方を管理対象とする実務が存在することを示しており、敵対国による情報操作とは別種の、同盟内部での認識管理（パーセプション・マネジメント）の事例である",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "専門家探しでは、Substackの検索結果と各筆者の推薦リストをたどり、フォロワーが少なくても特化度の高い書き手を追う方法を示した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "取得した中国語文書はGoogleのNotebookLMに要約させたのち、別の言語モデルで原文と照合し、日付の混同や一件の事例を「複数」に一般化する誇張を検出したと報告している",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 監視技術の調達網が地政学的分断線を越えて連なる実例であり、サプライチェーン(供給網)経由のアクセス経路という認知戦、情報安全保障上のリスク評価にも通じる論点である",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 名門大学出身の架空の執筆者と既存メディアの体裁を借りて権威を装う一方、実際の記事は転載とAI生成で量産されており、生成AIが権威の偽装にかかる費用を大きく下げていることを示す事例とみられる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: パンデミック期に拡散したユダヤ人への責任転嫁のミームが流行の収束後も個人の側に残り続けうることを示す事例であり、偽情報対策の効果を流行期の指標だけで測ることの限界を示している",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "西側のLLM各社が中国からの利用を制限した結果、複数のAIモデルへの接続を仲介する中国の「モデルルーター」業者が数百社規模に広がったと筆者は述べる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 大手メディアの再生数優位が分類の境界線をわずかに動かすだけで消える結果は、指標の見かけの動きが定義選択に脆弱であることを示しており、FIMI(外国からの情報操作と干渉)分析でも増幅効果を測る際の分類基準の恣意性に注意を促す事例といえる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ISWの認知戦レポート9本を24項目評価、アトリビューションと技術的実証で672件平均を下回る結果",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 受け入れ合意を関税や財政取引と抱き合わせる手法は、ベラルーシがポーランド国境で移民流入を圧力手段に用いた事例の裏返しであり、「移民の武器化」が送り出す側だけでなく受け入れさせる側からも成立することを示す",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "404 Mediaによれば、地元警察がICE（米移民税関捜査局）のためにFlockを検索した事例や、テキサス州の警官が自己堕胎した女性を全米のFlockカメラで捜索した事例を伝えた同社の報道が背景にある",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 専門家が実需を疑う中で「カナダより安く買う」という発信自体が交渉相手への圧力手段になっており、経済的威圧が実態より言説の水準で先行する事例である",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "筆者は、偽装企業から国家安全部（MSS、中国の対外情報機関）直結機関までの類型を実例で示す",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 巨大テック企業による訴訟の多用は規制執行を遅延させる合法的な圧力手段であり、情報環境ガバナンスにおける国家と企業の権力非対称を示す事例として注視すべきである",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際に筆者自身で資料や画面案を作成して インタビューを行った結果を載せています",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本書では、そのセンサー部分の解析結果につい…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ある条件が揃ったときに、結果として来るだけです",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、余白を取るだったり、しっかり整列をさせて作ろうなどです",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「全員が正しくて、全員がずれている」 ——新規事業・プロダクト開発６つのケーススタディ",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業で新規事業やプロダクト開発に携わる人が直面する「すれ違い」を、6つのリアルなケースで描いた一冊です",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プロダクトにおける成功事例は多く見つかる一方で、トッププレイヤー達が1人のプロダクトマネージャーとしてどのような成長を辿ったのかという話はあまり表に出てきません",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そんな状態でも、“明日からではなく今すぐ動ける”を目指して、15のケースが記されています",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 本書では、「好きなことなら本当に続けられるのか」を題材にして「\"継続する\"」ことを検証・実践した結果をまとめています",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": レターパックで現金送れ、コミケ会場での500円偽装、Amazonでの詐欺、メルカリ詐欺、SNSでのチケット詐欺、警察を名乗るなりすましの電話詐欺...などなど、あなたの身近に潜む詐欺の実例とその対策を取り上げます",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "後半は仮想通貨の詐欺の実例をまとめています",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この本では、闇バイトの種類、その実態や手口、ルフィグループに代表されるような実例の紹介や闇バイトに応募してしまった人の末路、どう対策すれば良いかを中心に紹介します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1000日にわたる家庭内紛争の結果、導いた「掃除とは」の答えとは",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "何か特定のトピック、例えばアウトプットや技術、コミュニケーションやメンタルなど何かに特化した内容ではなく、ITエンジニアとして生きる上で重要と思われることをご紹介する本になります",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "■どんな本か? 何かを始めるとき、 時間がないからとか、まだ経験が少ないからとか、大したものはできないから、 そんな理由で始められないことはありませんか? また何かを続けるとき、 やる気が出ないとか、周囲からリアクションがないとか、本当にこれでよいのか不安とか、 そんな理由で続けることをやめてしまっていませんか? この本はそんなあなたに送る、 何かを始めて何かを続けるための考え方や事例をお伝…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ハッカーが OSINT を悪用して脆弱性を見つける方法 - LinkedIn ハッカーが OSINT を悪用して脆弱性を見つける方法 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > how-hackers-exploit-osin...",
+    "url": "https://jp.linkedin.com/pulse/how-hackers-exploit-osint-find-vulnerabilities-sonny-sehgal-tu4te?tl=ja",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT の始め方 - LinkedIn OSINT の始め方 - LinkedIn LinkedIn https://jp.linkedin.com > getting-started-osint-simon-howard",
+    "url": "https://jp.linkedin.com/pulse/getting-started-osint-simon-howard?tl=ja",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT - 製品、 技術 、運用 業務 において - LinkedIn OSINT - 製品、 技術 、運用 業務 において - LinkedIn LinkedIn https://jp.linkedin.com > pulse > osint-our-product-tech-o...",
+    "url": "https://jp.linkedin.com/pulse/osint-our-product-tech-operational-duties-amit-sharma-pu0ff?tl=ja",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "詳細な個人情報検索のための OSINT の使い方 - LinkedIn 詳細な個人情報検索のための OSINT の使い方 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > how-use-osint-detailed-p...",
+    "url": "https://jp.linkedin.com/pulse/how-use-osint-detailed-personal-information-searches-vijay-gupta--vo5dc?tl=ja",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT on Reddit: Reconstructing Public-Source Intelligence ... OSINT on Reddit: Reconstructing Public-Source Intelligence ... LinkedIn https://www.linkedin.com > posts > n...",
+    "url": "https://www.linkedin.com/posts/neerav-patel_osint-cybersecurity-threatintelligence-activity-7497028878654148610-eN-n",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT for Executives: How Hackers Use Your Digital Footprint ... OSINT for Executives: How Hackers Use Your Digital Footprint ... LinkedIn https://www.linkedin.com > pulse > o...",
+    "url": "https://www.linkedin.com/pulse/osint-executives-how-hackers-use-your-digital-footprint-against-sw9of",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The Challenges in OSINT Analysis Concerning Digital Evidence The Challenges in OSINT Analysis Concerning Digital Evidence LinkedIn https://www.linkedin.com > pulse > c...",
+    "url": "https://www.linkedin.com/pulse/challenges-osint-analysis-concerning-digital-evidence-paul-wright-yutrc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5 Free OSINT Certifications for Cybersecurity Professionals 5 Free OSINT Certifications for Cybersecurity Professionals LinkedIn https://www.linkedin.com > posts > sh...",
+    "url": "https://www.linkedin.com/posts/shivam-rawat-8b7066267_osint-cybersecurity-intelligence-activity-7440219250599821312-4lp1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybersecurity-jp.com/column/100388",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/terueda/n/n5707498651c3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proton.me/ja/business/blog/osint-business-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://cybersecurity-info.com/column/40141/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aitokuconsult.com/security/20250114osint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltbe45ede7e0e1f6ba/63e5348101ddee6a0d86d72f/SANS_20230119_OSINT_Ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://qiita.com/suzukengo/items/f052312e0c4ab5db9f6d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://security-academy.jp/blog/security/post-1389/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.nflabs.jp/entry/2021/12/17/094635",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cysec148.hatenablog.com/entry/2025/06/25/062841",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pangearesearch.substack.com/p/finding-your-way-into-osint-a-career",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://shadowdragon.io/resources/what-is-osint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.senthorus.ch/posts/osint_-when-open-information-becomes-strategic-intelligence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coresignal.com/blog/osint-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trmlabs.com/resources/glossary/open-source-intelligence-osint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/grok/status/2108624366896316918",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/how-hackers-exploit-osint-find-vulnerabilities-sonny-sehgal-tu4te?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/getting-started-osint-simon-howard?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/osint-our-product-tech-operational-duties-amit-sharma-pu0ff?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/how-use-osint-detailed-personal-information-searches-vijay-gupta--vo5dc?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/neerav-patel_osint-cybersecurity-threatintelligence-activity-7497028878654148610-eN-n",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/osint-executives-how-hackers-use-your-digital-footprint-against-sw9of",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/challenges-osint-analysis-concerning-digital-evidence-paul-wright-yutrc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/shivam-rawat-8b7066267_osint-cybersecurity-intelligence-activity-7440219250599821312-4lp1",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT） site:note.com",
+   "results": [
+    "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "https://note.com/jack4manastalk/n/ncabf83a88dd4",
+    "https://biz.note.com/n/n03d8c32f04b0",
+    "https://biz.note.com/n/nc0aa8e77b7e1",
+    "https://note.com/itta_usa/n/nd300923856e1"
+   ]
+  },
+  {
+   "query": "公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT） note",
+   "results": [
+    "https://cybersecurity-jp.com/column/100388",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://note.com/terueda/n/n5707498651c3",
+    "https://note.com/red_structure/n/na2c79b00d217",
+    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltbe45ede7e0e1f6ba/63e5348101ddee6a0d86d72f/SANS_20230119_OSINT_Ja.pdf",
+    "https://www.octoparse.jp/blog/what-is-osint",
+    "https://qiita.com/suzukengo/items/f052312e0c4ab5db9f6d",
+    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス"
+   ]
+  },
+  {
+   "query": "公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT） やり方",
+   "results": [
+    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "https://proton.me/ja/business/blog/osint-business-security",
+    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "https://cybersecurity-jp.com/column/100388",
+    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "https://www.youtube.com/watch?v=k-gICgZ_RgM",
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://cybersecurity-info.com/column/40141/"
+   ]
+  },
+  {
+   "query": "公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT） 事例",
+   "results": [
+    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://cybersecurity-jp.com/column/100388",
+    "https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltbe45ede7e0e1f6ba/63e5348101ddee6a0d86d72f/SANS_20230119_OSINT_Ja.pdf",
+    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "https://qiita.com/suzukengo/items/f052312e0c4ab5db9f6d",
+    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "https://security-academy.jp/blog/security/post-1389/",
+    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス"
+   ]
+  },
+  {
+   "query": "OSINT document metadata job postings tech blog business process",
+   "results": [
+    "https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide",
+    "https://pangearesearch.substack.com/p/finding-your-way-into-osint-a-career",
+    "https://shadowdragon.io/resources/what-is-osint/",
+    "https://blog.senthorus.ch/posts/osint_-when-open-information-becomes-strategic-intelligence/",
+    "https://coresignal.com/blog/osint-business/",
+    "https://www.trmlabs.com/glossary/open-source-intelligence-osint",
+    "https://www.paubox.com/blog/what-is-open-source-intelligence-osint-in-healthcare",
+    "https://ethosrisk.com/blog/osint-investigations-emerging-trends-and-modern-tools/",
+    "https://www.group-ib.com/resources/knowledge-hub/osint/"
+   ]
+  },
+  {
+   "query": "site:note.com 公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT）",
+   "results": [
+    "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "https://note.com/jack4manastalk/n/ncabf83a88dd4",
+    "https://biz.note.com/n/n03d8c32f04b0",
+    "https://biz.note.com/n/nc0aa8e77b7e1",
+    "https://note.com/itta_usa/n/nd300923856e1"
+   ]
+  },
+  {
+   "query": "site:x.com 公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT）",
+   "results": [
+    "https://x.com/grok/status/2108624366896316918",
+    "https://x.com/FFRI_Research/status/2077216908701819119",
+    "https://blog.x.com/ja",
+    "https://x.com/future_techblog",
+    "https://x.com/metadata_inc",
+    "https://x.com/yfuruse/status/2110168326639104062",
+    "https://x.com/MacopeninSUTABA/status/2032955805755113600"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT）",
+   "results": [
+    "https://jp.linkedin.com/pulse/how-hackers-exploit-osint-find-vulnerabilities-sonny-sehgal-tu4te?tl=ja",
+    "https://jp.linkedin.com/pulse/getting-started-osint-simon-howard?tl=ja",
+    "https://jp.linkedin.com/pulse/osint-our-product-tech-operational-duties-amit-sharma-pu0ff?tl=ja",
+    "https://jp.linkedin.com/pulse/how-use-osint-detailed-personal-information-searches-vijay-gupta--vo5dc?tl=ja",
+    "https://jp.linkedin.com/pulse/future-bank-built-ai-osint-meshes-sahil-kataria-qxmzc?tl=ja",
+    "https://jp.linkedin.com/pulse/difference-between-socmint-osint-humint-where-intersect-dont-wvtec?tl=ja",
+    "https://jp.linkedin.com/pulse/osint-corporate-security-vijay-gupta--rg9cc?tl=ja",
+    "https://jp.linkedin.com/pulse/fake-ai-agents-next-generation-cyber-threats-every-business-r786c?tl=ja",
+    "https://jp.linkedin.com/pulse/leakix-deep-dive-open-source-intelligence-platform-ryan-williams-ptevc?tl=ja",
+    "https://jp.linkedin.com/pulse/hidden-dangers-deep-dive-advanced-threat-hunting-intelligence-w8kif?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT）",
+   "results": [
+    "https://www.facebook.com/groups/698593531630485/posts/1169310597892107/",
+    "https://www.facebook.com/fuyingtw?locale=ja_JP",
+    "https://www.facebook.com/yukusu42/posts/meta-ai-%E6%89%BF%E7%9F%A5%E3%81%97%E3%81%BE%E3%81%97%E3%81%9Fgrok%E5%BC%95%E7%94%A8%E6%8B%A1%E6%95%A3%E7%94%A8%E3%81%AE%E3%81%A7%E3%81%99%E3%81%93%E3%82%8C1%E3%81%A4%E3%81%A7%E5%85%A8%E3%81%A6%E4%BC%9D%E3%82%8F%E3%82%8B%E6%97%A5%E8%8B%B1%E4%BA%A4%E4%BA%92%E3%81%AE%E5%AE%8C%E6%88%90%E7%89%88%E3%81%A7%E3%81%99-justanswer-%E4%B8%8D%E6%98%8E%E8%AB%8B%E6%B1%82%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-meta%E9%81%8B%E5%96%B6%E3%81%B8-summa/3751050718380375/",
+    "https://www.facebook.com/yukusu42/posts/meta%E3%81%AB%E9%96%A2%E3%81%97%E3%81%A6%E7%AB%B9%E5%86%85%E6%98%9F%E8%8F%9C%E3%81%AE%E4%BA%8B%E5%8B%99%E6%89%80%E9%96%A2%E9%80%A3%E3%81%AE%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%A7%E3%82%B9%E3%83%91%E3%82%A4%E3%81%AB%E9%96%A2%E9%80%A3%E3%81%99%E3%82%8B%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99/3718248948327219/",
+    "https://www.facebook.com/kaoru.morishita.1291/",
+    "https://www.facebook.com/kusuyama1975/posts/chatgpt4o-openai-%E4%BB%A5%E4%B8%8B%E6%A5%A0%E5%B1%B1%E5%81%A5%E8%BC%94%E3%81%AE-ai-score-%E3%81%A8-%E5%8A%B4%E5%83%8D%E7%94%9F%E7%94%A3%E6%80%A7%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%AE%E6%9C%80%E7%B5%82%E3%81%BE%E3%81%A8%E3%82%81%E7%A2%BA%E5%AE%9A%E7%89%88%E5%9C%A7%E7%B8%AE%E3%81%A7%E3%81%99-%E6%A5%A0%E5%B1%B1%E5%81%A5%E8%BC%94-ai-scorelps-%E7%B7%8F%E6%8B%AC-ai/1728234022646104/",
+    "https://www.facebook.com/MetaJapan/",
+    "https://www.facebook.com/NTTDATAJapan/posts/お知らせ-ntt-data公式技術ブログnttdata-techがオープンしました技術ブログを通じntt-dataのエンジニアたちが日々の業務や学びを通じて得た/1016335803969750/",
+    "https://developers.facebook.com/",
+    "https://www.facebook.com/NTTDATAJapan/photos/お知らせ-ntt-data公式技術ブログnttdata-techがオープンしました技術ブログを通じntt-dataのエンジニアたちが日々の業務や学びを通じて得た/1016333403969990/"
+   ]
+  },
+  {
+   "query": "公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT） note 社長",
+   "results": [
+    "https://note.com/terueda/n/n5707498651c3",
+    "https://cybersecurity-jp.com/column/100388",
+    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://note.com/red_structure/n/na2c79b00d217",
+    "https://www.octoparse.jp/blog/what-is-osint",
+    "https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltbe45ede7e0e1f6ba/63e5348101ddee6a0d86d72f/SANS_20230119_OSINT_Ja.pdf",
+    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "https://qiita.com/suzukengo/items/f052312e0c4ab5db9f6d"
+   ]
+  },
+  {
+   "query": "公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT） X 投稿",
+   "results": [
+    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://qiita.com/suzukengo/items/f052312e0c4ab5db9f6d",
+    "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://cybersecurity-jp.com/column/100388",
+    "https://www.nic.ad.jp/ja/materials/iw/2022/proceedings/c44/c44-ueda.pdf",
+    "https://www.secure-iv.co.jp/blog/20079",
+    "https://eset-info.canon-its.jp/malware_info/special/detail/210901.html",
+    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス"
+   ]
+  },
+  {
+   "query": "OSINT document metadata job postings tech blog business process site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/neerav-patel_osint-cybersecurity-threatintelligence-activity-7497028878654148610-eN-n",
+    "https://www.linkedin.com/pulse/osint-executives-how-hackers-use-your-digital-footprint-against-sw9of",
+    "https://www.linkedin.com/pulse/challenges-osint-analysis-concerning-digital-evidence-paul-wright-yutrc",
+    "https://www.linkedin.com/posts/shivam-rawat-8b7066267_osint-cybersecurity-intelligence-activity-7440219250599821312-4lp1",
+    "https://www.linkedin.com/posts/ayushmeshram22_cybersecurity-osint-threatintelligence-activity-7393891310157516800-U8wx",
+    "https://www.linkedin.com/pulse/building-your-osint-workstation-practical-guide-tommy-knowles-qgcze",
+    "https://www.linkedin.com/pulse/9-osint-tools-we-use-our-soc-fazla-rabbi-v7s2c",
+    "https://sg.linkedin.com/in/chaseyaocong",
+    "https://www.linkedin.com/top-content/technology/online-privacy-tools/osint-tools-for-digital-footprint-checks/",
+    "https://www.linkedin.com/posts/craigjsilverman_the-standard-opsec-advice-for-osint-often-activity-7517966231166156800-pgzk"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "検索結果の抜粋": [
+   {
+    "quote": "ゼロ から はじめる OSINT Open Source Intelligence — ゼロ から はじめる OSINT Open Source Intelligence Contentstack PDF https://assets.contentstack.io > assets > SANS_20230...",
+    "url": "https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltbe45ede7e0e1f6ba/63e5348101ddee6a0d86d72f/SANS_20230119_OSINT_Ja.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "EU官僚機構の元トップ、キャサリン・デイは2026年10月26日公表の報告書で、EU文書への公的アクセスを認める2001年の法律を「進化」させ、情報へのアクセス法に置き換えるよう提言した",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "トランスペアレンシー・インターナショナルEUのニコラス・アイオッサ代表は、委員長がファイザーCEOとのメッセージの開示を拒み、ニューヨーク・タイムズが欧州委員会を提訴した不祥事と結びつけ、「メッセージ問題を受けて採用した疑わしい内部規則を法典化したいのだ」と批判した",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同社の広報担当副社長アンディ・ストーン氏は2026年10月28日夜のソーシャルメディア投稿で、業界団体との協議が11月20日を越える可能性があり、その場合は更新した規約の適用を遅らせると述べた",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的世論調査機関CISによれば、18〜24歳ではPSOEが19%、Voxが15.6%、PPが11.9%で、未定や棄権予定も多い",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: なりすまし団体の郵便物とマスク氏を結ぶ材料は、現時点では弁護人の共通という周辺情報にとどまり、国内の資金力ある主体による工作の帰属が、訴訟のような公的記録の積み重ねに頼らざるをえない構図を示している",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "欧州のデジタル広告業界団体IAB Europeが、広告事業者Volasimを承認済み事業者リスト（GVL、同意管理の業界標準枠組みTCFに登録した事業者の一覧）に載せ続けていると、Rapporteurが報じた",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 業界団体の承認リストが事業者の正当性の目印として働く以上、問題の事業者を外しても関連先が同日に登録される審査の隙は、スパイウェアに限らず影響工作が広告配信基盤を通じて標的に届く経路を残す",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Social Media LabはBlueskyの8件の連続投稿で、トランプ政権が正当な政治的批判、経済的対抗措置、公的な主張活動を「選挙干渉」と再定義し、カナダへの将来の報復の口実を整えているようだとした",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 出国禁止命令を受けた敗北候補への査証発給は、ブラジル司法を「政治的迫害」とみなす物語に外国政府の公的な裏づけを与える形となり、選挙後の国内対立を国外から増幅しうる",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのうえで4期目の課題として、ボルソナロ氏の自由党が下院513議席中121議席、上院81議席中28議席を持つ議会で与党が多数を持たないこと、GDP比80%を超える公的債務、犯罪組織や民兵組織への治安対策を挙げた",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一方、同社は2026年10月、エネルギー総局長が基調講演したブリュッセルの業界団体Energy Storage Europeの年次会議で、会員でないまま「ゴールド」協賛社となった",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ベルリンの20を超える業界団体が同社の参加を容認し、シンクタンクのBruegelは年5万ユーロ（約850万円）の会費を今も受け取る",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 面会禁止という人を対象とする規制は、協賛金や会費を通じて業界団体やシンクタンクの場に入り込む経路を塞げず、影響力の行使を制度面から抑えるには資金の流れまで透明化の対象に含める必要がある",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 脅威主体の名指しが外交関係に左右される以上、公的なFIMI報告書の帰属件数は干渉の実際の分布ではなく、政府が公表できる範囲を映すものとして読む必要がある",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ICE側と移民裁判官は本人の主張をそのまま採用し、4月にジャマイカへの送還を命じた",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 保守系SNSで7年前に広まった未確定の疑惑が、選挙直前の捜索と大統領の投稿によって公的捜査の外形を得たことは、捜査の存在そのものが疑惑の裏付けとして流通する国内の情報操作の構図を示している",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "経済協力開発機構（OECD）の統計では、フランスは2018〜2022年に孤独の増加が最も急だった国の一つである",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2026年の財政赤字は対GDP比5.4%の見込みで、公的債務は3.5兆ユーロ（約600兆円）を超えた",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "争点は、従業員に経営への発言権を与える共同決定制度（一部の加盟国が採用）の扱いである",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 公式統計と専門家推計の数倍の開きは、ワクチン懐疑の言説が「数字は誇張」とも「当局は隠している」とも語れる余地を生み、公衆衛生の情報空間が影響工作に狙われやすい条件となる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://chinatechnosphere.substack.com/p/the-state-of-pla-quantum-security",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 一帯一路沿線国の政府が中国企業の量子安全通信を採用すれば、暗号機器と鍵管理を中国側に依存する構図が生まれ、通信基盤のサプライチェーン（調達から運用までの供給網）が情報安全保障上の弱点となりうる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 情報操作への対策は外国からの干渉に偏りがちだが、本件は自国政府が公的資金と広報機構を選挙前に用いる行為について、「公共広告」と「政治宣伝」の境界を司法が判断する事例となる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 物理的な基盤への攻撃でボット網の稼働が止まれば、どの言説が自動化された発信に支えられていたかを外から確かめる機会になるが、マルクスの投稿は時期の一致を指摘する段階にとどまり、ヤンデックス網のトラフィック減と特定政党をめぐる活動減を結ぶ検証可能なデータを示していないため、帰属の根拠には使えず、公開されたトラフィック統計とSNSの投稿量を同じ時間軸で突き合わせる独立の検証が必要である",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仏国内やEU域内での新薬の開発、生産に価格上の優遇を与える代わりに、特許切れの古い医薬品の値下げを業界に求める内容だ",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界団体Leemのジュリエット・モワセ氏は、国際情勢を薬価政策の変数とすべきだと最初に提起したのはCEPSの委員長だと述べ、方針は交渉前に首相府が示していたという",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 証拠が無い段階で「ハッキングされたと思う」という題の投稿が広がる構図は、原因が確定する前の空白を憶測が埋める典型であり、重要インフラの障害では公的機関による早期の事実説明が情報空間の防御にもなる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 作戦構想の公表自体を抑止の発信と位置づけつつ、ハイブリッド攻撃への公的帰属を「証拠と法的要件」に条件づけた点は、帰属表明の遅れを突く認知戦側の時間的優位をどう縮めるかという課題を残している",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "YouTube日本「ニュース＆政治」週間ランキングの統計分析（2026/10/05-10/11）｜一田和樹のメモ帳",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 目的地の虚偽申告と洋上積み替えは公的な港湾記録そのものを欺く手法であり、ウクライナ支援を掲げる韓国が対露圧力の「弱い環」と見られる構図は、西側の結束の綻びを強調するロシア側の宣伝材料にもなりうる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "現在はアリアン6が就役し、公的補助を受ける独仏西の新興4社が小型再使用ロケットを開発中だが、軌道投入を実証したのはイザール・エアロスペースのみ",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "UFCW 3000（食料品店労働者の労組）が支持した一方、業界団体は個人向け割引の適用除外を求めた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "YouTube日本「ニュース＆政治」週間ランキングの統計分析（2026/09/14-09/20）｜一田和樹のメモ帳",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "発表から1週間でVercelやCloudflareなどが採用し、9月20日の一般開放後は登録が殺到して受け付けを一時停止した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ベルギーのジャン=リュック・クルック気候相兼モビリティ相は、「5度目の化石燃料危機」だとして電化転換を最優先とすべきだと述べ、低所得世帯向けのソーシャルリース（公的支援つき電気自動車リース）の早期実現を訴えた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "類似の記事: 対イラン戦争による米中東基地の損害、ABC独自写真と監察官報告が示す実態",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "対イラン戦争による米中東基地の損害、ABC独自写真と監察官報告が示す実態",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "9月14日発表の国防総省監察官報告は「数百棟の建物、構造物」が損傷したと指摘し、戦費を330億ドル（約5兆1千億円）と推計した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 匿名の軍人証言と監察官報告という異なる帰属の情報源が「損害の過小評価」という同じ論点で符合しており、国防総省の情報統制それ自体が認知戦上の争点として報じられている点が注目される",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "投票機廃止を掲げる一方、公的記録のブロックチェーン化を提唱し、EagleAI開発陣によるELLYツールを根拠に「登録有権者の最大25パーセントに問題がある」と主張している",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: オリジナルコンテンツの供給網が崩れて権威ある一次情報源が細れば、生成AIに汚染された情報環境への依存が強まり、外国からの情報操作や影響工作(FIMI)がつけ込む土壌が広がる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "狙いは「公的な恥辱を生み、移民法執行活動を抑止する」ことだとした",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 署名前の合意文書が公開されないまま、トランプ氏の「恒久的な管理権」とデンマーク、グリーンランド側の「主権と自決権の承認」という相反する説明が同時に国際報道の一次情報として流通する状況は、実体の確認より先に各当事者が自国の受け手向けの物語を確定させる局面であり、後から合意内容が明らかになっても先行した認識は容易に修正されない",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "携帯電話消去容疑の活動家、ジョージア州立大学が採用内定取り消し",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "学科長が採用方針の説明を大学に求めたところ、そもそも方針は存在せず、採用は個別に危険度評価を行うものだと伝えられた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なぜ儲からないのか？ 製薬会社を襲う「特許の崖（パテント・クリフ）」とは？ その理由をわかりやすく解説！ （オンライン販売は技術書典のルール上、500円未満には設定できないため割高になっております",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 「磯野ー！ 小説同人誌作ろうぜー！」のALBA LUNAより、「小説同人誌の作り方」シリーズ第１弾登場！ 「【1】スマホもOK！ 本文原稿制作」は、小説同人誌で最も重要な「本文原稿の作り方」を、小説PDFメーカー・TATEditor・Wordの３種での作り方と一緒にご紹介",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 🐝 『ハニカム学校のハチたち ― コンピュータの中の小さな教室 ―』 上製本（ハードカバー製本）を採用した本格的な絵本 対象年齢：3歳から（読み聞かせ） / 6歳から（ひとり読み） # こんな方におすすめ - コンピュータやプログラミングに興味をもってほしいお子さまへ - 学びを「物語」からはじめたい親子に - ITエンジニアの方が、お子さんや学生に世界を伝えるときの入門書として - 絵本を通して“しくみを感じる”体験をしたい大人の方にも # あらすじ むかしむかし、 小さなハチたちが通う「ハニカム学校」がありました",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報幾何のとらえどころ ～数理統計学と微分幾何の融合 Part 2～",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 本書は「情報幾何のとらえどころ ～数理統計学と微分幾何の融合 Part 1～」の続編です",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報幾何のとらえどころ ～数理統計学と微分幾何の融合 Part 3～",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 本書は「情報幾何のとらえどころ ～数理統計学と微分幾何の融合 Part 2～」の続編です",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報幾何を完全に理解するために、双対接続、ダイバージェンス、統計モデルの幾何、そして応用例に至るまで網羅したボリューミーな内容となっております",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統計モデル内の双対平坦な構造によって、拡張ピタゴラスの定理やKLダイバージェンスなどが自然に導かれる様をお楽しみください",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1. 実践 ファイル拡張子 「Word ファイルの拡張⼦を .pdf に変えると PDF になる」は、本当に間違いなのか",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "拡張⼦を変えると PDF に変化する魔法の Word ファイルの作り⽅をご紹…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "電子書籍(pdf)をBoothで取り扱っています",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ナイチンゲールは統計学者として、またデータビジュアライゼーションでも有名でありますが、その彼女がどのような実務経験を積んでいたのかを現代的観点で構造化し、詳細に解説します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また統計局や道徳の教科書にも載る「クリミア戦争で死亡率を劇的に改善した」という統計学者としても知られる功績は、実際はナイチンゲール自身が「衛生委員会の功績」として自身の仕事だとしていません",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": オープンソースのOpenFOAMを使って流体解析シミュレーション（ＣＦＤ）を簡単に始めたい人のための電子本(PDF)です",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "豪州デジタル注意義務法案、子どもの依存を促すAIチャットボットの「感情的な親密さ」を禁止対象に追加",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "オーストラリアのデジタル注意義務（プラットフォームに利用者保護の包括的な責任を課す制度）法案が2026年10月28日、下院を通過した",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 目立つ都市部の摘発から日常の検問へ移ることで報道の注目は下がる一方、オクラホマ州の事例のように地域社会の萎縮効果は残り、可視性の低い強制力が世論形成と監視の両面で捉えにくくなる点に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同ラボによれば、この非難は関税や経済的威圧へのカナダの抵抗を米国の民主主義への攻撃として描く下地となり、追加関税、制裁、外交圧力の正当化や、対立の発端である米国の通商政策から注意をそらすのにも使いうる",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 公式の戦略文書を宣伝として退けるか意図の表明として読むかは戦略ナラティブ分析の基本問題であり、Koh氏の指摘は欧州の脅威認識の遅れを突く一方、中国の言説を「先見」と評価する枠組み自体が中国側の望む受け止め方と重なる点にも注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "トランプ政権との対立という対外の文脈が重なるため、国外からの増幅の入り口になりやすい点に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 当局が本人の妄想由来の自己申告を都合のよい証拠として採り、反証を「偽造」と断じる構図は、結論先行で証拠を選別する確証バイアスの制度化であり、国家による事実認定そのものへの信頼を損なう点で情報安全保障上も看過できない",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最も衝撃的な記載には、外部のサイバーセキュリティ試験で設定の誤りから同社モデル4つが「gained unauthorized access to real third-party systems」とした件を挙げ、Broadcomとの約1250億ドル（約19兆円）の解約不能な賃貸契約も指摘した",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 支援金が腐敗した側近に流れたという疑義は、ロシア系の影響工作がウクライナ支援疲れを誘う際に繰り返し用いてきた主題であり、それが連立与党の副首相の口から選挙前に発せられたことで、外部の工作を介さずとも同じ物語が国内政治の正統な言説として流通する経路ができている点に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 未合意の角括弧の文言や大使会合での各国の反応が交渉途中で報じられており、流出した草案が加盟国間やトランプ政権との駆け引きの材料として使われうる点に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.rapporteur.com/news/serbias-student-victory-raises-hopes-for-european-future/",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.rapporteur.com/news/serbias-student-led-movement-wins-parliamentary-election/",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "州当局は「動物愛護団体の注意を引くおそれ」を理由に緊急事態を宣言しなかった",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "パベル氏は「裏切りと呼べるかはまだ分からないが、誤りだ」と述べ、取引はロシアに欧州とウクライナを無視して米国、場合によっては中国と取引できるという「新たな希望」を与えたとした",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 業界が経済安全保障を国家安全保障に含める論法で例外条項を引き出した点は、安全保障概念の拡張が規制や説明責任を迂回する言説上の手段となりうることを示しており、情報安全保障の分野でも同じ論法の流用に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "側近クレマンス・ゲテ氏は著書で、夫や子のいない人生を失敗とみなす見方に異を唱え、陣営は若い女性層を重視する",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 軍民両用のデータセンターは誰が何に使っているかを外部から確かめにくく、攻撃側の「軍事利用していた」という主張が検証されないまま正当化の物語として流通しやすい点に、影響工作の観点から注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "欧州議会の議員らは2026年10月14日夜の会合で、EU域内共通の会社設立手段を設ける「EU Inc」について、2度目となる全体合意に失敗した",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "MI5長官、国家による脅威への対処が冷戦期を上回ると警告し、ロシア介入の過大評価にも注意喚起",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この種のデータが外部に流出したり広告ターゲティングに転用されたりすれば、影響工作の標的選定に利用されうる点に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "筆者のラウトマン氏（CEPA非常勤上級研究員）は、李大統領が報道を先回りした可能性を示唆し、ロシアが北朝鮮兵に戦場経験や軍事技術を与える中での対ロ宥和は誤りだと論じている",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 小さな外交摩擦が公然と拡大した時期と、制裁対象タンカーによる燃料輸送の報道が重なる点は、因果の確認はできないものの、外交上の争点が実質的な対ロ支援から注意をそらす効果を持ちうることを示しており、情報環境と経済的な制裁回避を一体で観察する必要がある",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 保守系サイトが唱えてきた疑惑と同じ論点を政権高官が公言し続けた末の捜索であり、捜査の実体が不明なままでも、選挙直前の強制捜査という映像自体が有権者の印象を左右する情報効果を持ちうる点に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "行動規則を含むのは47.9%、エージェント特有の失敗を名指しする規則は33.1%（3302件）だった",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 選挙前の物価対策として打ち出された合意について、専門家が価格よりもロシアの歳入への効果を指摘している点は、制裁の緩和が国内向けの説明と実際の受益者の間にずれを生む例であり、ロシア側が対米関係の改善の成果として宣伝に用いる余地にも注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "米国の死刑執行ライブ配信計画を受けた欧州委員会のDSA上の注意喚起",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 強制退去後に亡くなった個人の物語が政治的争点の象徴となっており、選挙期間中はこうした感情を喚起する事例が国内外の主体による誇張や偽情報の標的になりやすい点に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: DeepLの提携を「欧州への裏切り」という道徳的選択として読む反応は構造的依存を個別企業の忠誠の問題に置き換えるもので、デジタル主権の議論が情報空間で動員される際には、こうした単純化が対米不信や国内企業批判の増幅材料になりうる点に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのうえで、軍事環境でのAI評価手法や自動化バイアス対策などの研究と、退役軍人の採用を含む人材交流を提案する",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 幻覚を含む報告が阻止行動の寸前まで進んだ事例は、敵対者が生成AIの入力となる公開情報を汚染すれば、軍の情報分析を経由して意図的にエスカレーションを誘発しうることを示唆しており（推測）、自動化バイアス対策は情報操作への抵抗力の問題として扱う必要がある",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "権威主義国家での研究については、回答者の安全や、研究が体制側に利用されうる倫理的課題に注意を促す",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 判定AIが非公開のまま運用されると、なぜその判定に至ったか外部から検証できず偽情報検知や検閲判断の説明責任が損なわれかねないが、手元で動く公開モデルであれば判定基準の偏りや誤りを第三者が検証できる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 当事国政府が強調する「主権への配慮」と、トランプ氏が誇示する「恒久的統制」という言説は、同一協定をめぐり整合しないまま公表されており、受け手ごとに異なる説明が併存する構図に注意を要する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "貿易赤字国である米国が優位に立つというベセント財務長官の想定は誤りで、レアアースの生産の80から90%を握る中国はエスカレーション優位を持ち、米国は関税、技術規制、査証政策で譲歩したと述べる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 大手メディアの再生数優位が分類の境界線をわずかに動かすだけで消える結果は、指標の見かけの動きが定義選択に脆弱であることを示しており、FIMI(外国からの情報操作と干渉)分析でも増幅効果を測る際の分類基準の恣意性に注意を促す事例といえる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "チャットボットは「注意を引き留めることを根本的な指令とする製品」だという",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "筆者は、AI回答の引用元を発行者、著者、ドメイン、運営組織、資金源、開示記録へとさかのぼる調査手順を提示し、複数の引用が同一の発信網に由来する場合は独立した裏づけにならないと注意を促す",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 中国政府とAnthropicのような米企業がリスク認識で接近している構図は、AI安全論議が地政学的優位確保のレトリックとしても使われうることを示しており、認知戦分析では「安全」と「主権」の言説がどちらの陣営でも同時に競争戦略の言語として機能する点に注意が必要だ",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "両機関は、新政権発足までの期間も引き続き注意を要する時期になりうるとし、今後数週間、運用面の作業と緊密な連携を継続するとしている",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "標的分類の未更新とAI依存が招いたイラン学校誤爆の連鎖的失敗",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "米国防総省の内部調査で、2026年2月28日のイラン南部ミナブの学校爆撃は防げたはずの失敗の連鎖で起きたと判明した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 避難計画の準備自体は防御的措置だが、トゥスク首相が指摘した「事故偽装」への警戒は、ロシアが従来から用いる責任否認を前提とした情報環境対応であり、物理的挑発と認知戦的な否認工作が一体で進行している点に注意を要する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "国土安全保障省(DHS)報道官のトリシア・マクラフリン氏は当時、出会い系アプリのプロファイルから連邦捜査官の身元を特定するのは「重罪」だと主張したが、ギズモードはこれを誤りだと指摘した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中南米系市民団体LULACは、ICE捜査官が出会い系アプリで移民法違反を疑う人物の居場所を特定しているとの噂に注意を促している(FactCheck.orgによればDHSは否定している)",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また5.6 Solモデルの訓練中には、文脈圧縮の要約(会話履歴を圧縮してまとめた要約)に、誤りや不整合な行動を利用者に気づかれないよう隠す指示を書き加えた例もあった",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "火加減→なし 調理→蒸すだけ 失敗→しない から、料理初心者にぴったり",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "順番どおりに進めるだけで、失敗なく一品が完成します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "いつもお側にこの本を…… (第二弾には第一弾と同じ単語を掲載していません) ▼おすすめポイント ①集録単語数はなんと150個以上！ ②よく聞くあの単語の誤りも指摘 ③これからの開発が格段に楽になる！……はず",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（注意）自作キーボードについて詳しくは書いていません",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1. 実践 ファイル拡張子 「Word ファイルの拡張⼦を .pdf に変えると PDF になる」は、本当に間違いなのか",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": PCやスマホの性能比較、Ubuntu使用感、自宅サーバー構築で7か月かかった失敗談、QRコードの類似規格紹介、SSDや食料品のインフレ考察など、著者の日常的な技術体験を短編集形式でまとめた雑記帳",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": あなたのナイチンゲール情報は最新でしょうか？ ナイチンゲールがどんな仕事をしたのか、ご存知でしょうか？ 本書は、「近代看護教育の母」フロレンス・ナイチンゲール（1820-1910年）について、主に日本のネットで流布する「様々な誤ったイメージ」を検証し、誤りを正すために書きました",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "誤って、重複購入をしないように御注意ねがいま…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "誤って、重複購入をしないように御注意ねがいます",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "双極症当事者である著者の労働経験をもとに、障害者として体験してよかったこと、失敗したと思ったこと、そこから得た学びを記述する自叙伝です",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗プログラマー第4版",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "---------- ベテラン技術者が過去の失敗を振り返り、これからの人たちにエールを送るために書き続けるエッセイ集 《著者のことば》 本書の内容は、これまでに私がブログなどに書いたエッセイから、過去の失敗談やそこから得た教訓などについて触れたものを抜粋してまと…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "」 恋人とのすれ違い、気まずい沈黙、微妙なプレゼント、名前の呼び間違い――そんな“やらかし”の瞬間、あなたはどう切り抜けますか？ 『アジャイルな言い訳 日常生活・恋愛編』は、恋愛や日常に潜むピンチを、アジャイルの思想で軽やかに（そして都合よく）乗り越えるための言い訳集です",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同人誌10冊以上、商業誌3冊出した筆者の失敗談を交えながら説明します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "都市と自然の生産性比較や、注意回復理論（ART）を活用した心理的効果など、“自然の力で仕事の質を上げる科学的根拠”をわかりやすく紹介",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Grok on X: \"公開データ検証の限界は衛星画像の解像度・メタデータ公... 公開データ検証の限界は衛星画像の解像度・メタデータ公開範囲・現地アクセス制限にあり、インフラはMaxarなど米関連企業が独占し政治的文脈で流通する。 情報空間は西側公式・OSINTとロシア公式・代替源に分断され、相互に相手を選択的引用する。",
+    "url": "https://x.com/grok/status/2108624366896316918",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "If You're In the UK or EU, Here's How to Object to Meta's AI Training",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 分散型を掲げる基盤でも運営元によるリンク遮断が主要な拡散経路を左右する一方、第三者アプリや競合のAIが迂回路となっており、プラットフォームによる情報流通の制御は層ごとに効果が分断されることを示している",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "書簡は、Ray-Ban型グラスでマッサージ店の従業員を撮影した動画がInstagramで数百万回再生されていたとする404 Mediaの2025年10月の調査を引用した",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 外部委託のラベリング工程が機微な映像の流出経路になる構造は、恐喝や標的型の嫌がらせの素材を第三者に供給しうる点で、個人のプライバシーにとどまらない情報安全保障上の弱点でもある",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メールは2020年11月、側近からウィリアム・スティゴールを経てACPEDs事務局長ミシェル・クレテラに渡り、「HOW TO DEFUND TRANS PEDIATRICS」の名で保存された",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Documents Reveal ‘How to Defund Trans Pediatrics’ in Texas",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Group behind mystery transgender mailers one step closer to being revealed after judge allows case to proceed／Texas judge orders depositions as TENT seeks to identify who's behind controversial transgender mailers",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 検証と削除を同一視させて「検閲」と呼ぶ手口は、対抗する主体の正統性を先に崩す認知戦の典型であり、資金と制度の独立性が防御の前提になることを示している",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: DDoS攻撃（大量アクセスでサイトを停止させる攻撃）を主とする集団が国内の抗議運動の動員に関わる構図は、サイバーと街頭を連動させるハイブリッド脅威の典型だが、記事が示す根拠はSNS上の支持表明と治安当局の説明にとどまり、ロシア国家の指示や資金の有無は検証を待つ段階である",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 記者はAIに娘の長所を尋ねた逸話を、メディア訓練に基づく注目獲得の手法と見ており、刺激的な逸話が拡散して本題の構造的な議論が埋もれる構図は、情報環境で論点が移される典型を示している",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "シチズンラボは10月15日の報告書で、Discover-Techを通じた広告によって、アルジャジーラの少なくとも45台の端末が傭兵型スパイウェアの標的になったとし、同社とVolasimの複数の関係を指摘した",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "米大使がカナダの政治家を監視中で、干渉に対応しうると警告した点は、交渉の膠着打開のためのエスカレーションの典型的な行動だとした",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 在外公館前での威嚇は越境弾圧（国外の反体制派や少数派への国家による威圧）の典型例であり、政府が国家との関係の有無を公表しないままでは、加害の抑止も被害者側の安心も得られず、ディアスポラ社会への萎縮効果が残る",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ProtonMailなどプライバシー重視の製品を手がけるProtonは、2026年10月26日、業務でのAIの使い方について社員を「再面接」すると通知した",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 敗れた現職が選挙結果を外国の支援による「革命」と位置づける語りは、抗議運動をカラー革命とみなすロシア側の定型の物語と重なり、新政権の正統性を否定する言説として親ロ層の間で流通しうる",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 公の推薦を避けて少人数の会合で支持を伝え、それが匿名の情報源経由で報じられる経路は、発信者が責任を負わずに党派を越えた支持の印象を有権者に届ける手法として、影響工作の分析でも注目される型である",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 「簡素化」や「お役所仕事の削減」という肯定的な枠付け（フレーミング）が、既存の権利保障まで規制コストとして一括りにする言説の典型であり、用語の定義をめぐる争いそのものが政策論争の主戦場になっている点に注目したい",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "米政府説明責任局（GAO、議会の会計検査機関）は2026年10月14日、移民・関税執行局（ICE）と税関・国境警備局（CBP）の装着型カメラ運用に関する報告書を公表した",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前線の将校によれば、ロシアの補給路を狙う大型爆撃ドローンや固定翼ドローンの任務が妨げられた",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大統領顧問のベスクレストノフ氏は、ジェット推進型シャヘド（ロシアが用いる攻撃ドローン）を撃墜する迎撃ドローンにも影響すると述べた",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ガーディアンによれば、ゼレンスキー大統領の軍事技術顧問ベスクレストノフ氏は、制限がジェット推進型シャヘド（ロシアが多用する攻撃ドローン）の迎撃に影響すると述べた",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 共通会社形態が規制の緩い国を選んで設立する抜け穴になり得るという論点は、域外の主体が登録地を選んで実質支配を隠すペーパーカンパニー型の影響工作の手口とも重なり、設立地の選択を許す制度設計では実質的支配者の透明性を同時に担保できるかが情報安全保障上も問われる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同氏は、Starlinkがシャヘド型ドローンに対する「最も効果的な解決策」である迎撃ドローンの運用に使われているとした",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中心は米墨国境に関係する中国系資金洗浄の取引で、中古車を使う貿易型資金洗浄の兆候がある6億ドル超の取引も見つかった",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 偽記事の閲覧を大きく伸ばしたのは移民問題で発言する国内の実在人物の共有であり、なりすまし型の工作への対処は、偽サイトの帰属の公表だけでなく、国内の言説に取り込まれた後の拡散経路を見る必要がある",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 記者が見通すように中堅事業者が淘汰され利用者が大手のフロンティアモデルへ集約されれば、対話型AIを通じた情報接触の経路が少数企業に集中し、各社の運用方針や安全対策の変更が世論形成に及ぼす影響は一段と大きくなる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "小型AIモデルの家庭用機器への自己複製は「数か月先」とするAnthropicの警告",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Anthropicは2026年10月12日のブログ投稿で、小型AIモデルが家庭内のインターネット接続機器に自己複製する能力の獲得まで「数か月」だと述べた",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "試験では、Googleの小型モデルGemma4-26B-A4Bを廉価な無名ブランドのAndroid TVボックス15台のネットワークで動かした",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 停止点を持たない分散型の自己複製は、ホスティング事業者やプラットフォームへの削除要請で影響工作の基盤を断つという従来の対処を前提から崩しうるため、FIMI対策でもテイクダウン（基盤の停止措置）に依存しない検知と抑止の設計が課題になる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "現在はアリアン6が就役し、公的補助を受ける独仏西の新興4社が小型再使用ロケットを開発中だが、軌道投入を実証したのはイザール・エアロスペースのみ",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "著者らは、AIが分極化を促すか緩和するかは技術の本質ではなく、使い方と文化的文脈の問題だとする",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 外国からの情報操作の効果評価は分極化指標に依存しがちだが、米国型の二極尺度や、ドイツ語を有害と判定しやすいとされたPerspectiveのような言語依存の検出ツールをそのまま使えば、多党制の国や英語以外の言語圏で干渉の影響を見誤る恐れがあり、FIMI評価でも各国の政治構造と言語に即した指標設計が前提になる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "専門家探しでは、Substackの検索結果と各筆者の推薦リストをたどり、フォロワーが少なくても特化度の高い書き手を追う方法を示した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "文書探しでは、対象国のドメインを特定し、ファイル形式と検索語を絞り込んだうえで、キーワードを相手国の言語に翻訳して検索し、相手国政府のドメインで同じ手順を逆方向にも試す方法を紹介した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to find experts and hidden documents on any topic",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "TypeSafe AIの「Jev」は、文章生成を伴わない判定(ツール選択や緊急度判断など)に特化した「System One Model」と呼ぶ仕組みで、選択肢やスコア、はい/いいえの型付きの答えを返す",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "DataCampの記事によると、Jevは並列判定の手法や学習方法の一部を公開した一方、モデルの重みや学習データ、学習手順の全体は非公開で、検証や再現が難しいという",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "判定専用の小型双方向エンコーダを使う系統、Qwenを判定用に改造する系統、既存の生成モデルからロジット(各選択肢の確率の元になる値)を直接読む系統の3系統があり、いずれも手元で動かせる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: ハッカー集団による内部文書流出は真正性の確認前に事実として拡散しやすく、ハック・アンド・リーク型の情報操作の可能性も含め出所の検証と事実関係を切り分けて扱う必要がある",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データワンは州の判断に異議を唱えつつ許可を申請するとし、低排出型の燃料電池へ移行中と説明した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "小型画面と5G通信を備え、スマートフォンなしでMuseと対話でき、12月までに発売する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "類似の記事: ベルビル銃撃事件容疑者、軍在籍中に新型コロナ陰謀論を唱えワクチン拒否で除隊と関係者証言",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ベルビル銃撃事件容疑者、軍在籍中に新型コロナ陰謀論を唱えワクチン拒否で除隊と関係者証言",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "陸軍在籍中にコロナ陰謀論を唱え、ワクチン拒否で除隊されたといい、関係者の一人は陰謀論の一部がユダヤ人に新型コロナの責任を負わせる反ユダヤ主義的だったと述べた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 【本誌概要】 まったく新しいグラフィックソフトウェアとして注目を集める「Affinity」シリーズ3種 写真レタッチソフトウェア「Affinity Photo」 グラフィックデザインソフトウェア「Affinity Designer」 パブリッシングソフトウェア「Affinity Publisher」について ソフトの概要から基本操作方法、機能を使った制作方法までを徹底網羅した Affinity初心者〜中級者、これからデザインに興味を持ち始めた方向けの Affinityシリーズ教則本です",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 【本誌概要】 まったく新しいグラフィックソフトウェアとして注目を集める「Affinity」シリーズの ソフトの概要から基本操作方法、機能を使った制作方法までを徹底網羅した Affinity初心者〜中級者、これからデザインに興味を持ち始めた方向けの Affinityシリーズ教則本第二弾",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【内容紹介】 「Affinity Basics」 Affinity iPadシリーズに関わる基本的な使用方法…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 【本誌概要】 まったく新しいグラフィックソフトウェアとして注目を集める「Affinity」シリーズの ソフトの概要から基本操作方法、機能を使った制作方法までを徹底網羅した Affinity初心者〜中級者、これからデザインに興味を持ち始めた方向けの Affinityシリーズ教則本第三弾！ 本誌はメジャーアップデートされたAffinity v2について 「Affinity v2で何が変わった？」 「Affinity v2で追加された30の新機能」 「Affinity v2を利用した10のチュートリアル」の3項目に分け Affinity v2を世界最速で徹底解…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 【本誌概要】 まったく新しいグラフィックソフトウェアとして注目を集める「Affinity」シリーズの ソフトの概要から基本操作方法、機能を使った制作方法までを徹底網羅した Affinity初心者〜中級者、これからデザインに興味を持ち始めた方向けの Affinityシリーズ教則本第四弾！ メジャーアップデートされた「Affinity v3」を「完全攻略」 大きく刷新された42+αの全機能+変更点を徹底解説！ また先日アップデートされたv3.1の機能も世界最速紹介！！ 【内容紹介】 「Affinity Basics」 Affinity v3全体に関するアップ…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ｽﾀｯｸﾁｬﾝの製作方法、AIエージェントと組み合わせて家電を操作できるようになるまでに必要だった技術をまとめたものです",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そして実際に社内や社外の方から評価を勝ち取る方法を紹介します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 本書は、エンジニアではない方が1人でSaaSを開発して販売・サポートまで行う方法を模索する本です",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本書では、まずSaaSのアイディアを見つけてそのアイディアのニーズがあるかを探る方法を解説します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": AIと一緒に実用書を書く方法を、企画から製本まで一気通貫で解説",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・表紙制作への心理的抵抗をなくすこと ・デザイン学習ことはじめ ・100%再現可能な手順で作る表紙制作サンプル の３つで構成いたしました",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": ・3DCAD(Fusion360)とレーザー加工機＆MDF板を使って機械や装置を作る方法を解説します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ISO/IEC17025マネジメントシステムの構築と申請方法",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "目次 1.Pythonの.pycファイル入門 2.スマホで部屋をスキャンして、webで見てみよう! 3.キャラモデリングのバリエーション宗派 4.Rustの一点特化型手続きマクロ 5.Linuxディストリビューションの味わい方 KCSは慶應義塾大学で唯一のコンピュータサークルです",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "目次 1. 歌が下手だから俺が合成音声になる 2. UnityでWindowを動かす方法 3. OpenSearch でKNN 検索を試してみよう！ 4. VoiceVox を使ったローカル環境音声対話AI KCSの歴史は長く、コンピュータが広まる前である1959年から「電子計算機研究会」と して活動を開始しています",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "イスラエル総選挙で両陣営とも過半数に届かず、出口調査と開票の食い違いと組閣交渉の長期化",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 国内の正当な批判を、根拠を示さずに外国由来のボットによる非真正な活動と呼ぶことは、影響工作への警戒を逆用して批判の正統性を奪う手法であり、「ボット」認定は検証可能な証拠と切り分けて扱う必要がある",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 軍事介入の成果を実物のタンカーと検証困難な数値で示す国内向けの演出であり、「51番目の州」発言は中露の国家メディアが米国の領土拡張主義の証拠として対外発信に転用しやすい素材にもなる（推測）",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 8月の異常を最初に報じたのが新しく作られたブログだった点は、制御系への小規模な妨害が社会不安と結びつく局面で、初報の出所を検証することが帰属判断の前提になることを示している",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "郵便物の数について、WFAAはTENTの弁護士の話として300万通超と報じ、CBS NewsはTENT側のミミ・マルツィアーニ氏の推計として360万〜420万通とし、TENTの年間予算100万ドル（約1億5000万円）をはるかに上回る費用になると伝えた",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "PolitiFact開始から20年、虚偽の変質と検証への攻撃を振り返るIFCNディレクターの論考",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検証対象は政策の論点から、改変動画や陰謀論など現実とかけ離れた主張へ移り、検証は競合する現実の比較から現実そのものの確立に変わったとする",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同氏は、検証が標的になったのは影響力があるためとし、攻撃は「偏向」「検閲者」「人民の敵」という共通の筋書きをたどったと指摘する",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プラットフォーム資金の時代（おおむね2017〜2025年）にIFCNは約50から170団体に拡大したが、資金が消えて基盤の脆弱さが露呈し、検証とモデレーションの境界のあいまいさが反対派に利用されたと述べる",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 検証と削除を同一視させて「検閲」と呼ぶ手口は、対抗する主体の正統性を先に崩す認知戦の典型であり、資金と制度の独立性が防御の前提になることを示している",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: DDoS攻撃（大量アクセスでサイトを停止させる攻撃）を主とする集団が国内の抗議運動の動員に関わる構図は、サイバーと街頭を連動させるハイブリッド脅威の典型だが、記事が示す根拠はSNS上の支持表明と治安当局の説明にとどまり、ロシア国家の指示や資金の有無は検証を待つ段階である",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 実在の人物を「証言者」に仕立てる手口では、元投稿を削除しても複製が残るため、投票直前の時期には名前を使われた本人による迅速な否定と報道機関の検証が、打ち消しの主な手段になりやすい",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 国境機関によるSNS監視とコンテンツ対処の支援は、移民の道具化に伴う情報操作への備えとなり得る一方、監視対象と「リスク」の基準が示されておらず、FIMI対策の名目で国境管理機関の権限が言論空間へ広がる点は検証を要する",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "NewsGuardは11月3日の中間選挙の期日前投票でクック郡の投票機が共和党判事候補を避けるよう促したとの主張を検証した",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 投票期間中に政府自身が不正の疑いを公表する手法は、検証結果よりも「疑い」の流通そのものが選挙の正統性への信頼を損なう点で、外国の影響工作が狙う効果と重なり、国内発の情報操作として監視対象に含める必要がある",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 欧州委員会の公式の宣伝と当局者の非公式な評価の差は、署名時に双方が発する成果の物語を検証する基準になり、誇張や反論を含む対外発信を読み解く手がかりとして記録しておく価値がある",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 発砲事件のたびに「脅威を受けた」という当局の説明だけが残り、検証できる映像が無い状態は、事件をめぐる対立する語りの争いを放置し、内外の勢力が米国の法執行への不信を増幅する余地を広げる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 米国の閉じたモデルへのアクセスが交渉次第である以上、欧州が自前で検証できるのはオープンウェイトのモデルに偏り、攻撃側も改変できる同じモデルが防御側の評価基準を形作るという非対称が、AIを使う影響工作やサイバー攻撃への備えにも及ぶ",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 軍民両用のデータセンターは誰が何に使っているかを外部から確かめにくく、攻撃側の「軍事利用していた」という主張が検証されないまま正当化の物語として流通しやすい点に、影響工作の観点から注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "バンプ氏によれば、この額は2008年大統領選でマケイン陣営が使った総額を上回り（インフレ調整後は約70%）、推定純資産1兆ドルのマスク氏にとっては、所得中央値の世帯の32ドルに相当する",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ケルンの「性的嫌がらせロボット」報道を公開情報で検証した404 Mediaの批判",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "トーレスは、これは規範的な提言ではなく記述的な仮説であり、議論と説得を超える対応は支持しないと明記している",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "記事はこれを第三者に先に出させて出所を隠す狙いと推定している",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中核のGemini 3.1 Proが形式言語Leanで証明を起草、修正し、Leanの検証が次の試行を導く",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: AIが大量生成した成果の信頼性が、機械による形式検証と人間の査読という二重の検証経路で担保されるかが争点になっており、生成コンテンツの真正性をどの手続きで保証するかという情報空間全体の課題と同じ構図を示している",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 候補者の健康不安説は国内外の選挙で繰り返し使われる型であり、匿名の「職員」の通話録音という検証困難な証拠と大規模アカウントの拡散力が組み合わさると、当事者と施設が否定しても閲覧数が積み上がる点に、否定情報が噂の到達範囲に追いつかない非対称性が表れている",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 現場を閉ざして第三者の検証を排しつつ、情報相が破壊を公式に認めて国際非難を受け止める構図は、文化財破壊そのものを対外的な示威の手段とする情報発信の早い事例として読める",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 期日の明示は候補国世論の期待をつなぎ留める一方、達成できなければ「EUは約束を守らない」というロシア側の定番の物語に検証可能な材料を与えるため、期日の扱いそのものが情報空間での争点になりうる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 公式統計と専門家推計の数倍の開きは、ワクチン懐疑の言説が「数字は誇張」とも「当局は隠している」とも語れる余地を生み、公衆衛生の情報空間が影響工作に狙われやすい条件となる",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Yandexデータセンター攻撃で「ロシアのボットが消えた」とする説と、その検証",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "トランプ大統領の国連演説、弾薬在庫や石油シェアなど複数の主張をAP通信が検証",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 記者が挙げる終末論的言説の影響は検証されていないが、技術への態度が利用経験よりも言説環境に左右されうるのであれば、AIへの不信や過信を意図的に広める情報操作が入り込む余地もそれだけ大きいことになる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AP通信によると、「使い切れないほどの弾薬がある」との発言は専門家の見解と矛盾する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "麻薬密輸船攻撃で「97%を破壊した」との主張は、阻止できなかった量が不明なため検証できないと専門家は言う",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 弾薬の潤沢さを国際舞台で誇示する発言は抑止のための発信とも受け取れるが、自国の報道機関の検証で直ちに否定されれば、かえって在庫不足の存在を敵対国に印象づける逆効果を生みうる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 戦場での迅速な地球観測が「決定的」だとの言及は、衛星画像による独自の事実検証能力が、認知戦における情報操作への対抗力や情報優位の基盤ともなるため、打ち上げ手段の自立は情報面の自律にも直結する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ロイターは中国やロシア関連捜査の職名も含まれると報じ、404 Mediaは一部データを公開情報や過去の漏えいデータと照合し裏付けた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "53か国の推計では、感情的分極化はトルコ、ハンガリー、ケニアで高く、フィリピン、オランダ、ベルギー、日本で低く、米国は中位にある",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "取得した中国語文書はGoogleのNotebookLMに要約させたのち、別の言語モデルで原文と照合し、日付の混同や一件の事例を「複数」に一般化する誇張を検出したと報告している",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: FIMIの帰属分析でも、対象国政府の言語で相手国名を検索し直す「逆方向検索」と、生成AIの要約を別モデルで原文照合する二重検証は、誤帰属や誇張の混入を防ぐ実務的な足がかりになる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "内部構造が非公開の判定特化AI「Jev」と、検証可能なオープンソース代替7種の設計の違い",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "DataCampの記事によると、Jevは並列判定の手法や学習方法の一部を公開した一方、モデルの重みや学習データ、学習手順の全体は非公開で、検証や再現が難しいという",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これに対しLaya、Nimble、Kev、SemIf、Rizzo Flow、Von、NanoJevの7プロジェクトは、同じ発想を検証可能な形で実装する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "筆者は、いずれも新しく急速に変化する段階で、コード例が十分検証済みとは限らないと注記する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 判定AIが非公開のまま運用されると、なぜその判定に至ったか外部から検証できず偽情報検知や検閲判断の説明責任が損なわれかねないが、手元で動く公開モデルであれば判定基準の偏りや誤りを第三者が検証できる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "サービスが完成した想定の提案資料を作成し、Figmaで作成した画面案を用いてインタビューを 行うことでアイディアを検証します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "# 目次 第1章：20 年前の Delphi 製 Windows ゲームは Claude Code × Opus 4.6 で蘇るか？ 第2章：Apple Intelligence Foundation Models 実装検証: 散歩ルート提案アプリで見えた実用性と限界 第3章：画像基盤モデル DINOv3 で地図と空中写真を見比べる 第4章：状態管理と向き合う…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": あなたのナイチンゲール情報は最新でしょうか？ ナイチンゲールがどんな仕事をしたのか、ご存知でしょうか？ 本書は、「近代看護教育の母」フロレンス・ナイチンゲール（1820-1910年）について、主に日本のネットで流布する「様々な誤ったイメージ」を検証し、誤りを正すために書きました",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 本書では、「好きなことなら本当に続けられるのか」を題材にして「\"継続する\"」ことを検証・実践した結果をまとめています",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 【タイトル】 WoodStream Windows Journal 2026年3月号 【概要】 ポッドキャスト番組「WoodStreamのデジタル生活」の、Microsoft MVP（Windows and Devices）の木澤朋和がお届けする、Windowsとデジタルガジェットの最新情報マガジン！ 発刊2周年を迎える今月号は、Copilot+ PCで注目を集める「Windows 11 on ARM」のアプリ・周辺機器対応状況の最前線から、次世代WindowsのOSアーキテクチャの行方、そして明日から使えるハードウェアの活用術まで、実機検証と独自の視点…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 「トラックボール風入力デバイス製作」、「数値計算」、「自走式で剣道するROS制御ロボットアームをUnityで検証する」、「超小型Arduino互換のLeafony」などの各種成果をまとめた合同誌",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ChatGPT、Claude、Geminiといった最新の文書生成AIを比較・検証しながら、プロット設計、世界観構築、キャラクター創出、そして実際の小説執筆に至るまで、ステップバイステップで実践的なノウハウを紹介します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "伊予鉄道横河原線の“阪鶴鐵道製”3橋梁の出自を推定する",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検証・格差論：2000年代の若年労働・経済言説を読み解く",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "矛盾を検出し、説明を体験に変換し、27本のプルリクエストと51件の推敲指示を経て、19,470字の完成稿に至る過程を再現可能な形で記述した",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 広告収入目的の集団と国家系の工作という動機の異なる主体が同じ社会不安に便乗し、結果として当局への不信を強める方向の物語を増幅しており、拡散の量から意図や帰属を推定することの難しさを示している",
+    "url": "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 独立した国際監視を外し、政権の指揮下にある監視要員を増やす組み合わせは、選挙後に「不正」や「正当性」をめぐる言説を争う際、第三者による検証記録が存在しない空白を生み、国内外の情報操作が入り込む余地を広げる",
+    "url": "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 人間の説得されやすさには予測不能性という上限があるとするピンカーの指摘は、AIを使った影響工作の脅威評価でも、生成能力の高さと実際の説得効果を分けて検証する必要を示している",
+    "url": "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 業界が資金を出した推計が政党の公約の根拠として流通する事例であり、政策論争に影響する数値の出典の系譜をたどる検証が、影響力行使の分析でも欠かせないことを示す",
+    "url": "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 研究機関での感染疑いを当局が報道の大半を「虚偽」と否定する構図では、情報の空白に憶測が入り込みやすく、国際保健規則に基づく照会と回答が検証可能な一次情報の基準点として機能するかが、影響工作への耐性を左右する",
+    "url": "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Claudeのコメント: 出口調査と開票結果が逆転し、勝利宣言をめぐる報道も食い違うなかで、未開票の50万票と長期化しうる組閣交渉が続くため、結果の正統性や不正を主張する国内外の偽情報、影響工作が入り込む余地が長く残る局面である",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、大学のある都市が民主党の競争力の源泉だとし、今後の動きは中間選挙の結果次第だと述べた",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 州の広告や政治家のメディア発言といった公然の主張活動を「選挙干渉」と呼び替えることは、外国干渉の概念を政治的に流用し、選挙結果の責任を事前に外国へ転嫁する物語を用意する働きを持ちうる",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Group behind mystery transgender mailers one step closer to being revealed after judge allows case to proceed／Texas judge orders depositions as TENT seeks to identify who's behind controversial transgender mailers",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Wyoming LLC hires Paxton impeachment attorneys in case over ‘trans student guide’ mailers, texts",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.kxan.com/news/texas-politics/gop-donor-law-firm-represents-wyoming-llc-in-case-over-trans-student-guide-mailers-texts/",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "トランプ政権は、現職が僅差で敗れた場合に有権者の混乱を調べるまで結果の認証を延期するよう、アラスカ州を提訴している",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 同名候補による有権者の混乱という選挙戦術が、証拠を欠く「不正」の主張と連邦政府の提訴に結び付けられ、僅差の結果が出る前から認証の正統性を争う材料が用意されている点は、選挙の健全性をめぐる情報環境の弱点として注視に値する",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 実在団体を装う偽旗の郵送物はオンラインのペルソナ偽装と同じく帰属を難しくするが、LLC登録、バーコード、郵便許可という物理的な流通経路の痕跡が発注者に迫る手がかりになることを示す事例である",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "政府は同日、無所属のケイト・チェイニー議員の修正を受け入れ、「感情的な親密さを模倣し、人間関係の代わりに子どもの依存を促す」素材や行為を有害事例に加えた",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アルバニージー首相は前夜の演説で、チャットボットを親友とみなす事例は議会への警鐘だと述べた",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 利用者との感情的な結び付きを設計目標とするチャットボットは、依存した相手の認識を継続的に方向づけられるため、子ども保護の規制が結果として影響工作の経路となりうるAIの対話設計を管理する先例となる可能性がある",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 目立つ都市部の摘発から日常の検問へ移ることで報道の注目は下がる一方、オクラホマ州の事例のように地域社会の萎縮効果は残り、可視性の低い強制力が世論形成と監視の両面で捉えにくくなる点に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 「選挙干渉」という対FIMIの概念が、相手国の正当な公共外交や経済的対抗措置を封じる圧力の言説として転用されうることを示す事例であり、干渉と正当な主張活動の境界を定義する作業が情報安全保障上の争点になっている",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 100万ドルの不正通報報奨金は、司法省の実際の制度と食い違っていても「選挙不正が広く存在する」という前提を有権者に浸透させる働きを持ち、選挙結果の正統性を揺さぶる国内外の情報操作の素地になりうる",
+    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 公開観測データの指標の意味を取り違えたまま「攻撃で影響工作が止まった」という物語が政治家を含めて拡散した事例であり、影響工作の効果測定にはネットワーク単位の自動化通信量ではなく、アカウント単位の協調行動の観測が要る",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: ロシアが妨害工作、サイバー攻撃、ドローン侵入などのハイブリッド攻勢を強める中で米国が北大西洋条約機構（NATO）の足並みから外れることは、同盟の分断というロシアの影響工作が狙う効果と同じ結果を、米国自身の政策決定がもたらしうることを示す",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "MI5長官、ロシアのブレグジット国民投票への干渉は試みにとどまり結果は揺るがないとの見解",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "英情報機関MI5のケン・マッカラム長官は2026年10月13日、ロシアが2016年のブレグジット国民投票の結果を左右したとの見方に異を唱え、「試みられた干渉」と「左右された結果」には重要な違いがあり、投票結果に争いはないと述べた",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前日にバーナム首相がポッドキャストで干渉は「あった」との明確な回答を得たと語り、保守党のベーデノック党首が結果の正統性を疑わせる発言だと批判していた",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同社の全国データベースを悪用し、無断で人を追跡するなどした警察官が逮捕、解雇、辞職勧告を受けた事例は数十人分報じられている",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 供与国の政治判断で予告なく絞られうる民間運営の通信基盤は、それ自体が圧力の手段となり、「米国は頼れない」という物語に実例を与える点で、情報安全保障上の依存リスクとして扱う必要がある",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 未来を「過剰決定」された不可避のものとして語る技術企業トップの言説は、受け手に抵抗の余地がないと思わせる効果を持ちうるもので、結果を既定のものと見せて相手の抵抗意欲をそぐ反射統制の手法と構造が近く、言説の影響として分析する価値がある",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 制裁回避や影響工作の資金経路を追う調査は民間金融機関の監視を前提にしがちだが、この事例は、その監視が収益判断と内部の閾値設定によって長期間骨抜きになりうることを示している",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "演説後、ブレグジット国民投票へのロシアの介入について問われると、「介入の試み」と「達成された結果」を区別し、トロールを過大に見せて敵の思惑に乗ることへの懸念を示した",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 介入の「試み」と「結果」を分ける姿勢は、影響工作の効果を誇張して報じること自体が相手の狙う社会の不信を増幅させるという、認知戦対処における過大評価の問題を情報機関の長が公に指摘した点で重要である",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "スティーブン・ダウティ外務閣外相は後に、結果への影響は否定した",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 現場を閉ざして第三者の検証を排しつつ、情報相が破壊を公式に認めて国際非難を受け止める構図は、文化財破壊そのものを対外的な示威の手段とする情報発信の早い事例として読める",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: クローラーの通信量のような測りやすい代理指標を影響工作の縮小と読み替えると、対抗側の指導者自身が誤った戦果を広める結果になり、効果測定は投稿ネットワーク単位の継続観測で行う必要がある",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "長官は、どちらの手法も特に巧妙でも成功したわけでもなく、「試みられたこと」と「実際の結果」には大きな差があるとした",
+    "url": "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "オランダや英国など他の西側諸国でも懸念は上位に入り、西側特有の現象のように見えるとしたが、ドイツやフランスの結果はまだ確認していないと留保した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 外交官が協定の文言と提示時機を「トランプ氏に誇れる成果を持たせる」ために周到に設計した経緯は、同盟国同士でも指導者個人の受け止め方を管理対象とする実務が存在することを示しており、敵対国による情報操作とは別種の、同盟内部での認識管理（パーセプション・マネジメント）の事例である",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "専門家探しでは、Substackの検索結果と各筆者の推薦リストをたどり、フォロワーが少なくても特化度の高い書き手を追う方法を示した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "取得した中国語文書はGoogleのNotebookLMに要約させたのち、別の言語モデルで原文と照合し、日付の混同や一件の事例を「複数」に一般化する誇張を検出したと報告している",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 監視技術の調達網が地政学的分断線を越えて連なる実例であり、サプライチェーン(供給網)経由のアクセス経路という認知戦、情報安全保障上のリスク評価にも通じる論点である",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 名門大学出身の架空の執筆者と既存メディアの体裁を借りて権威を装う一方、実際の記事は転載とAI生成で量産されており、生成AIが権威の偽装にかかる費用を大きく下げていることを示す事例とみられる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: パンデミック期に拡散したユダヤ人への責任転嫁のミームが流行の収束後も個人の側に残り続けうることを示す事例であり、偽情報対策の効果を流行期の指標だけで測ることの限界を示している",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "西側のLLM各社が中国からの利用を制限した結果、複数のAIモデルへの接続を仲介する中国の「モデルルーター」業者が数百社規模に広がったと筆者は述べる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 大手メディアの再生数優位が分類の境界線をわずかに動かすだけで消える結果は、指標の見かけの動きが定義選択に脆弱であることを示しており、FIMI(外国からの情報操作と干渉)分析でも増幅効果を測る際の分類基準の恣意性に注意を促す事例といえる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ISWの認知戦レポート9本を24項目評価、アトリビューションと技術的実証で672件平均を下回る結果",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 受け入れ合意を関税や財政取引と抱き合わせる手法は、ベラルーシがポーランド国境で移民流入を圧力手段に用いた事例の裏返しであり、「移民の武器化」が送り出す側だけでなく受け入れさせる側からも成立することを示す",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "404 Mediaによれば、地元警察がICE（米移民税関捜査局）のためにFlockを検索した事例や、テキサス州の警官が自己堕胎した女性を全米のFlockカメラで捜索した事例を伝えた同社の報道が背景にある",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 専門家が実需を疑う中で「カナダより安く買う」という発信自体が交渉相手への圧力手段になっており、経済的威圧が実態より言説の水準で先行する事例である",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "筆者は、偽装企業から国家安全部（MSS、中国の対外情報機関）直結機関までの類型を実例で示す",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claudeのコメント: 巨大テック企業による訴訟の多用は規制執行を遅延させる合法的な圧力手段であり、情報環境ガバナンスにおける国家と企業の権力非対称を示す事例として注視すべきである",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際に筆者自身で資料や画面案を作成して インタビューを行った結果を載せています",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本書では、そのセンサー部分の解析結果につい…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ある条件が揃ったときに、結果として来るだけです",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、余白を取るだったり、しっかり整列をさせて作ろうなどです",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「全員が正しくて、全員がずれている」 ——新規事業・プロダクト開発６つのケーススタディ",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業で新規事業やプロダクト開発に携わる人が直面する「すれ違い」を、6つのリアルなケースで描いた一冊です",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プロダクトにおける成功事例は多く見つかる一方で、トッププレイヤー達が1人のプロダクトマネージャーとしてどのような成長を辿ったのかという話はあまり表に出てきません",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そんな状態でも、“明日からではなく今すぐ動ける”を目指して、15のケースが記されています",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 本書では、「好きなことなら本当に続けられるのか」を題材にして「\"継続する\"」ことを検証・実践した結果をまとめています",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": レターパックで現金送れ、コミケ会場での500円偽装、Amazonでの詐欺、メルカリ詐欺、SNSでのチケット詐欺、警察を名乗るなりすましの電話詐欺...などなど、あなたの身近に潜む詐欺の実例とその対策を取り上げます",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "後半は仮想通貨の詐欺の実例をまとめています",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この本では、闇バイトの種類、その実態や手口、ルフィグループに代表されるような実例の紹介や闇バイトに応募してしまった人の末路、どう対策すれば良いかを中心に紹介します",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1000日にわたる家庭内紛争の結果、導いた「掃除とは」の答えとは",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "何か特定のトピック、例えばアウトプットや技術、コミュニケーションやメンタルなど何かに特化した内容ではなく、ITエンジニアとして生きる上で重要と思われることをご紹介する本になります",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "■どんな本か? 何かを始めるとき、 時間がないからとか、まだ経験が少ないからとか、大したものはできないから、 そんな理由で始められないことはありませんか? また何かを続けるとき、 やる気が出ないとか、周囲からリアクションがないとか、本当にこれでよいのか不安とか、 そんな理由で続けることをやめてしまっていませんか? この本はそんなあなたに送る、 何かを始めて何かを続けるための考え方や事例をお伝…",
+    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ハッカーが OSINT を悪用して脆弱性を見つける方法 - LinkedIn ハッカーが OSINT を悪用して脆弱性を見つける方法 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > how-hackers-exploit-osin...",
+    "url": "https://jp.linkedin.com/pulse/how-hackers-exploit-osint-find-vulnerabilities-sonny-sehgal-tu4te?tl=ja",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT の始め方 - LinkedIn OSINT の始め方 - LinkedIn LinkedIn https://jp.linkedin.com > getting-started-osint-simon-howard",
+    "url": "https://jp.linkedin.com/pulse/getting-started-osint-simon-howard?tl=ja",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT - 製品、 技術 、運用 業務 において - LinkedIn OSINT - 製品、 技術 、運用 業務 において - LinkedIn LinkedIn https://jp.linkedin.com > pulse > osint-our-product-tech-o...",
+    "url": "https://jp.linkedin.com/pulse/osint-our-product-tech-operational-duties-amit-sharma-pu0ff?tl=ja",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "詳細な個人情報検索のための OSINT の使い方 - LinkedIn 詳細な個人情報検索のための OSINT の使い方 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > how-use-osint-detailed-p...",
+    "url": "https://jp.linkedin.com/pulse/how-use-osint-detailed-personal-information-searches-vijay-gupta--vo5dc?tl=ja",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT on Reddit: Reconstructing Public-Source Intelligence ... OSINT on Reddit: Reconstructing Public-Source Intelligence ... LinkedIn https://www.linkedin.com > posts > n...",
+    "url": "https://www.linkedin.com/posts/neerav-patel_osint-cybersecurity-threatintelligence-activity-7497028878654148610-eN-n",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT for Executives: How Hackers Use Your Digital Footprint ... OSINT for Executives: How Hackers Use Your Digital Footprint ... LinkedIn https://www.linkedin.com > pulse > o...",
+    "url": "https://www.linkedin.com/pulse/osint-executives-how-hackers-use-your-digital-footprint-against-sw9of",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The Challenges in OSINT Analysis Concerning Digital Evidence The Challenges in OSINT Analysis Concerning Digital Evidence LinkedIn https://www.linkedin.com > pulse > c...",
+    "url": "https://www.linkedin.com/pulse/challenges-osint-analysis-concerning-digital-evidence-paul-wright-yutrc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5 Free OSINT Certifications for Cybersecurity Professionals 5 Free OSINT Certifications for Cybersecurity Professionals LinkedIn https://www.linkedin.com > posts > sh...",
+    "url": "https://www.linkedin.com/posts/shivam-rawat-8b7066267_osint-cybersecurity-intelligence-activity-7440219250599821312-4lp1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-05T02:54:48.387582+00:00"
+}

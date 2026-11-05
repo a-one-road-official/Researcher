@@ -1,0 +1,658 @@
+{
+ "name": "四国メッキ",
+ "aliases": [],
+ "context": "愛媛県今治市／出典:タウンページ／求人媒体:Indeed;doda;自社採用ページ／想定年収:511〜511万円／従業員:不明",
+ "researched_at": "2026-11-05T03:00:28.303723+00:00",
+ "official_url": "https://shikokumekki.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "西坂 昭徳",
+    "url": "https://shikokumekki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "西坂昭徳",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1100012909/jobs/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：昭和44年2月18日",
+    "url": "https://shikokumekki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1969年2月",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1100012909/jobs/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "4,830万円",
+    "url": "https://shikokumekki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "4,800万円",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1100012909/jobs/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "男性　100名 女性　10名 （合計　110名）",
+    "url": "https://shikokumekki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "110人",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1100012909/jobs/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社及び工場",
+    "value": "〒799-2206 愛媛県今治市大西町脇甲882番地 TEL：0898-53-3300 FAX：0898-53-6021",
+    "url": "https://shikokumekki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "本店所在地",
+    "value": "愛媛県今治市大西町脇甲８８２番地",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1100012909/jobs/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "溶融亜鉛鍍金加工 造船用材・送電用支柱架線金具 鉄塔鋼材・アングル・グレーチング・ラス 建築用部材 橋梁部材・鋼管・組コイル・厨房 ボイラータンク 鉄骨、その他一般加工品",
+    "url": "https://shikokumekki.co.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要取引先",
+    "value": "ＮＥＸＣＯ西日本 ＪＲ四国 ＪＲ中国 三菱重工業(株)広島製作所 (株)ＩＨＩ ジャパンマリンユナイテッド(株) (株)ＪＭＵアムテック 住友重機械工業(株)愛媛製造所 住友重機械エンジニアリングサービス(株) 四国電力(株) 大王製紙(株) 丸住製紙(株) 今治造船(株) 岩城造船(株) しまなみ造船(株) (株)新笠戸ドック あいえす造船(株) 川田工業(株) 四電エンジニアリング(株) フジケンエンジニアリング(株) 檜垣造船(株) 山陽工業(株) (株)共立機械製作所 (株)中野製作所 瀬戸内通信鋼業(株) 三浦工業(株) 北村商事(株) 登尾鉄工(株) 富士鋼材(株) (株)栗ノ浦ドック 緑鋼材(株) 越智昇鉄工(株) BEMAC(株) 潮冷熱(株) (株)渡辺鉄工所 愛媛建設(株) (有)七祐建設 その他四国・中国地区造船所・鉄構工場",
+    "url": "https://shikokumekki.co.jp/company.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "第一工場は大型構造物に、第二工場は加工管等といった造船関係の製品に特化",
+    "url": "https://shikokumekki.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "四国メッキでは造船・海洋分野の製品も手がけており、『造船のまち・今治市』にあることから造船会社様とのお取引も多く、特に加工菅におけるめっき実績においては国内トップクラスとなっております",
+    "url": "https://shikokumekki.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "溶融亜鉛めっきをほどこす製品に密封した部分があると、閉じこめられた空気などの膨張のため、めっき作業者の生命や工場施設に重大な災害を引き起こすことがるため密封した部分があってはなりません",
+    "url": "https://shikokumekki.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "被覆溶接棒を使って溶接した場合の溶接スラグは、溶融亜鉛めっき工場に搬入する前に除去しておくことが必要です",
+    "url": "https://shikokumekki.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は発足以来、溶融亜鉛めっき工場として設立され、鉄塔、鋼管、鉄骨等あらゆる用途の鋼材を手がけ、それぞれに応じたメッキ技術の開発をしてきました",
+    "url": "https://shikokumekki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工業(株)広島造船所の専属めっき加工工場として指定を受ける",
+    "url": "https://shikokumekki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "中国・四国地区三菱関連造船所及び地元造船業界・ＪＲ(旧国鉄)関係及び電力関係より逐次受注を受ける",
+    "url": "https://shikokumekki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "船舶の大型化並びに各種鉄加工品の亜鉛めっき加工の増加需要に応えるべく、めっき部門の新鋭平釜増設、鉄工部門の管工場の整備拡充のため、昭和46年10月同時着工し工事完了",
+    "url": "https://shikokumekki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本工業規格JISH8641表示許可工場認定取得",
+    "url": "https://shikokumekki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "本社第1工場新築落成西日本最大級の大型めっき槽16.5m完成",
+    "url": "https://shikokumekki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "第1工場に新鋭の亜鉛めっき槽白煙集塵装置完成",
+    "url": "https://shikokumekki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種めっき加工品の増加需要に応えるべく第2工場新築、めっき槽11.0m完成",
+    "url": "https://shikokumekki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "JIS改正に伴う、新JISに対応する日本産業規格表示認証工場の認定を受ける(NO.TC0707006)",
+    "url": "https://shikokumekki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、建築、造船、家",
+    "url": "https://note.com/clipcorporation/n/n12f294acaafb",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "4,830万円",
+    "url": "https://shikokumekki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "月給: 189,800円〜205,000円",
+    "url": "https://hellowork-plus.com/company/7500001011674/",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 185,000円〜205,000円",
+    "url": "https://hellowork-plus.com/company/7500001011674/",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 270,000円〜300,000円",
+    "url": "https://hellowork-plus.com/company/7500001011674/",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 180,000円〜200,000円",
+    "url": "https://hellowork-plus.com/company/7500001011674/",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 179,200円〜233,100円",
+    "url": "https://hellowork-plus.com/company/7500001011674/",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 179,200円〜200,000円",
+    "url": "https://hellowork-plus.com/company/7500001011674/",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 170,400円〜200,000円",
+    "url": "https://hellowork-plus.com/company/7500001011674/",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 170,400円〜233,100円",
+    "url": "https://hellowork-plus.com/company/7500001011674/",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 169,600円〜200,000円",
+    "url": "https://hellowork-plus.com/company/7500001011674/",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 189,800円〜205,000円",
+    "url": "https://www.job-net.jp/employers/7500001011674",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 185,000円〜205,000円",
+    "url": "https://www.job-net.jp/employers/7500001011674",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 270,000円〜300,000円",
+    "url": "https://www.job-net.jp/employers/7500001011674",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 180,000円〜200,000円",
+    "url": "https://www.job-net.jp/employers/7500001011674",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 163,200円〜233,100円",
+    "url": "https://www.job-net.jp/employers/7500001011674",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 163,200円〜200,000円",
+    "url": "https://www.job-net.jp/employers/7500001011674",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 163,200円〜180,000円",
+    "url": "https://www.job-net.jp/employers/7500001011674",
+    "pass": 3
+   },
+   {
+    "quote": "就職・転職に役立つ株式会社四国メッキの社員や元従業員による年収・給与、有休消化率などの評判・クチコミや企業ランキング、Q&A、求人情報をリサーチでき、企業分析や採用の調査としてご活用いただけます",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1100012909/jobs/",
+    "pass": 3
+   },
+   {
+    "quote": "4,800万円",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1100012909/jobs/",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "採用情報 - 株式会社四国メッキ（愛媛県今治市）",
+    "url": "https://shikokumekki.co.jp/recruit-top.html",
+    "pass": 1
+   },
+   {
+    "quote": "随時お知らせにて採用情報を更新しております",
+    "url": "https://shikokumekki.co.jp/recruit-top.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社四国メッキの転職、求人、採用情報",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1100012909/jobs/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "採用情報 - 株式会社四国メッキ（愛媛県今治市） — 株式会社四国メッキは、「めっき」のプロとして、建築・道路・電力分野など、あらゆる産業で活躍する鉄を世に送り出しています。暮らしを守り、支える仕事に携わりませんか？",
+    "url": "https://shikokumekki.co.jp/recruit-top.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 四国メッキの求人一覧 （1件 ・18.5〜20.5万 ） — 株式会社 四国メッキの求人一覧。掲載求人数は1件。月給・時給の相場は18.5〜20.5万です。愛媛県今治市大西町脇甲882番地。給与偏差値・年齢別年収データ付きでハローワーク求人を分析。ハローワーク+で。",
+    "url": "https://helloworkplus.com/company/3802-001469-2/",
+    "pass": 3
+   },
+   {
+    "quote": "25 件の 四国メッキ の求人 | Indeed (インディード) — 四国メッキの求人は29件あります。機械整備, 品質管理, 加工などの仕事・転職・アルバイト情報もまとめて検索。",
+    "url": "https://jp.indeed.com/q-四国メッキ-求人.html",
+    "pass": 3
+   },
+   {
+    "quote": "四国メッキの求人・採用・転職情報｜Yahoo!しごとカタログ — 株式会社四国メッキの求人・採用情報を掲載。 就職・転職に役立つ株式会社四国メッキの社員や元従業員による年収・給与、有休消化率などの評判・クチコミや企業ランキング、Q&A、求人情報をリサーチでき、企業分析や採用の調査としてご活用いただけます。 ランキングをもっと見る ...",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1100012909/jobs/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 四国メッキのハローワーク求人情報一覧｜しごと情報ネット — 株式会社 四国メッキのハローワーク求人情報一覧です。しごと情報ネットはハローワークの求人を検索できるサイトです。職業安定所（職安）が提供しているハローワークインターネットサービスの求人情報を掲載しています。",
+    "url": "https://www.job-net.jp/employers/7500001011674",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社四国メッキのハローワーク求人情報一覧 — Jul 21, 2026 · 株式会社四国メッキのハローワーク求人情報一覧 メッキ準備工 ★急募★ 株式会社 四国メッキ 正社員 経験不問 資格不問 転勤なし 書類選考なし 通勤手当あり マイカー通勤可 ... 掲載日 2026年7月21日 詳細を見る",
+    "url": "https://hellowork-plus.com/company/7500001011674/",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報 - 株式会社四国メッキ（愛媛県今治市） — 船舶・海洋製品 品質と技術力 ENVIRONMENT 環境への取組 COMPANY 会社案内 経営理念 会社概要 組織図 沿革 OTHER 採用情報 お知らせ お問い合わせ 個人情報保護方針 〒799-2206 愛媛県今治市大西町脇甲882番地 [MAP] TEL : 0898-53-3300 / FAX : 0898-53-6021 CALENDAR 営業日のご案内 ...",
+    "url": "https://shikokumekki.co.jp/recruit-top.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報 - 株式会社四国メッキ（愛媛県今治市） — 投稿年を選ぶ 2026年 2025年 2024年 2023年",
+    "url": "https://shikokumekki.co.jp/news/recruit",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "株式会社四国メッキのハローワーク求人情報一覧｜ハローワークプラス",
+    "url": "https://hellowork-plus.com/company/7500001011674/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社四国メッキのハローワーク求人情報一覧",
+    "url": "https://hellowork-plus.com/company/7500001011674/",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © ハローワークプラス All Rights Reserved.",
+    "url": "https://hellowork-plus.com/company/7500001011674/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 四国メッキのハローワーク求人情報一覧｜しごと情報ネット",
+    "url": "https://www.job-net.jp/employers/7500001011674",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 四国メッキのハローワーク求人情報一覧",
+    "url": "https://www.job-net.jp/employers/7500001011674",
+    "pass": 3
+   },
+   {
+    "quote": "＊業務に必要な資格取得については支援します！ ☆事前の職場見学可です（ハローワーク窓口にお申し出ください） ※変更範囲：会社が定める業務範囲内での変更の可能性あり",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1100012909/jobs/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "四国地方の主要な鉄鋼業関連企業一覧｜企業クリップ Jul 25, 2025 · 四国丸一荷役株式会社 | 香川県三豊市詫間町詫間2112番地の48 株式会社ヤマイチ | 香川県さぬき市長尾東2011番地10 株式会社四国メッキ | 愛媛県今治市大西町脇甲882番地 有限会社松川工業 | 愛媛県新居浜市新須賀町3丁目1番49号 株式会社ナンカイ | 高知県南国市岡豊町中島363－1 株式会社大亀 ...",
+    "url": "https://note.com/clipcorporation/n/n12f294acaafb",
+    "pass": 3
+   },
+   {
+    "quote": "愛媛県の主要な金属製品製造業関連企業一覧｜企業クリップ Jul 28, 2025 · 株式会社四国メッキ ｜ 愛媛県今治市大西町脇甲882番地 有限会社宮本製作所 ｜ 愛媛県伊予郡松前町大字北川原1291番地1 株式会社ムラカミ ｜ 愛媛県越智郡上島町生名1504番地 株式会社合田鉄工所 ｜ 愛媛県新居浜市船木4433番地の2",
+    "url": "https://note.com/clipcorporation/n/nc279dcabad60",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "四国地方の主要な鉄鋼業関連企業一覧｜企業クリップ",
+    "url": "https://note.com/clipcorporation/n/n12f294acaafb",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼業の特色や世界的粗鋼生産企業｜鉄は国家なり鉄鋼業の特色や世界的粗鋼生産企業｜鉄は国家なり - 企業クリップ",
+    "url": "https://note.com/clipcorporation/n/n12f294acaafb",
+    "pass": 3
+   },
+   {
+    "quote": "かつて「産業の米」とも呼ばれた鉄鋼業は、鉄鉱石やスクラップを原材料として、鉄や鋼を生産する産業です。自動車、建築、造船、家",
+    "url": "https://note.com/clipcorporation/n/n12f294acaafb",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼業界の代表企業鉄鋼業界の代表企業 - 企業クリップ",
+    "url": "https://note.com/clipcorporation/n/n12f294acaafb",
+    "pass": 3
+   },
+   {
+    "quote": "日本製鉄株式会社日本製鉄株式会社は、国内最大手の鉄鋼メーカーであり、自動車、建設、インフラ、エネルギーなど幅広い分野に高品",
+    "url": "https://note.com/clipcorporation/n/n12f294acaafb",
+    "pass": 3
+   },
+   {
+    "quote": "四国丸一荷役株式会社 | 香川県三豊市詫間町詫間２１１２番地の４８",
+    "url": "https://note.com/clipcorporation/n/n12f294acaafb",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヤマイチ | 香川県さぬき市長尾東２０１１番地１０",
+    "url": "https://note.com/clipcorporation/n/n12f294acaafb",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社四国メッキ | 愛媛県今治市大西町脇甲８８２番地",
+    "url": "https://note.com/clipcorporation/n/n12f294acaafb",
+    "pass": 3
+   },
+   {
+    "quote": "愛媛県の主要な金属製品製造業関連企業一覧｜企業クリップ",
+    "url": "https://note.com/clipcorporation/n/nc279dcabad60",
+    "pass": 3
+   },
+   {
+    "quote": "金属製品製造業の特色や代表する企業金属製品製造業の特色や代表する企業 - 企業クリップ",
+    "url": "https://note.com/clipcorporation/n/nc279dcabad60",
+    "pass": 3
+   },
+   {
+    "quote": "金属製品製造業は、鉄、アルミ、銅などの金属材料を加工して製品を製造する分野として、日本標準産業分類では「中分類 24：金属",
+    "url": "https://note.com/clipcorporation/n/nc279dcabad60",
+    "pass": 3
+   },
+   {
+    "quote": "金属製品業界の代表企業金属製品業界の代表企業 - 企業クリップ",
+    "url": "https://note.com/clipcorporation/n/nc279dcabad60",
+    "pass": 3
+   },
+   {
+    "quote": "金属製品製造業の特徴や市場規模はこちらから中央ビルト工業株式会社中央ビルト工業株式会社は、仮設機材の製造・販売・レンタルを",
+    "url": "https://note.com/clipcorporation/n/nc279dcabad60",
+    "pass": 3
+   },
+   {
+    "quote": "愛石表面処理工業合同会社 ｜ 愛媛県松山市北吉田町７７番地",
+    "url": "https://note.com/clipcorporation/n/nc279dcabad60",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社友 ｜ 愛媛県西条市三芳２２０３番地９",
+    "url": "https://note.com/clipcorporation/n/nc279dcabad60",
+    "pass": 3
+   },
+   {
+    "quote": "サンセイプラントコーティング株式会社 ｜ 愛媛県松山市北吉田町１２８８番１",
+    "url": "https://note.com/clipcorporation/n/nc279dcabad60",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "四国メッキ - Facebook 四国メッキ - Facebook ... 四国メッキ",
+    "url": "https://www.facebook.com/四国メッキ-272130750361361/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社四国メッキ - Facebook 株式会社四国メッキ",
+    "url": "https://www.facebook.com/株式会社四国メッキ-109440645138212/",
+    "pass": 3
+   },
+   {
+    "quote": "四国メッキ 会社 - Facebook 四国メッキ 会社",
+    "url": "https://www.facebook.com/四国メッキ-会社-842428649476393/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://shikokumekki.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shikokumekki.co.jp/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shikokumekki.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shikokumekki.co.jp/recruit-top.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shikokumekki.co.jp/results",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shikokumekki.co.jp/contact.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://shikokumekki.co.jp/wordpress/images/recruit-top/harassment.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://helloworkplus.com/company/3802-001469-2/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E5%9B%9B%E5%9B%BD%E3%83%A1%E3%83%83%E3%82%AD-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://hellowork-plus.com/company/7500001011674/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.job-net.jp/employers/7500001011674",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jobcatalog.yahoo.co.jp/company/1100012909/jobs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clipcorporation/n/n12f294acaafb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clipcorporation/n/nc279dcabad60",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/四国メッキ-272130750361361/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/株式会社四国メッキ-109440645138212/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/四国メッキ-会社-842428649476393/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "四国メッキ 求人 年収",
+   "results": [
+    "https://shikokumekki.co.jp/recruit-top.html",
+    "https://helloworkplus.com/company/3802-001469-2/",
+    "https://jp.indeed.com/q-四国メッキ-求人.html",
+    "https://jobcatalog.yahoo.co.jp/company/1100012909/jobs/",
+    "https://www.job-net.jp/employers/7500001011674",
+    "https://hellowork-plus.com/company/7500001011674/",
+    "https://jp.indeed.com/q-メッキ-l-四国-求人.html"
+   ]
+  },
+  {
+   "query": "四国メッキ 採用 新卒 高卒",
+   "results": [
+    "https://hellowork-plus.com/company/7500001011674/",
+    "https://www.job-net.jp/employers/7500001011674",
+    "https://jobcatalog.yahoo.co.jp/company/1100012909/jobs/",
+    "https://shikokumekki.co.jp/recruit-top.html",
+    "https://shikokumekki.co.jp/news/recruit",
+    "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=38020-04860161&kJKbn=1",
+    "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3802002508161&kJKbn=1&jGSHNo=f5L8CnyhikgaROBsfvcqIA==&fullPart=1&tatZngy=1&shogaiKbn=0"
+   ]
+  },
+  {
+   "query": "site:note.com 四国メッキ",
+   "results": [
+    "https://note.com/photocatalyst25",
+    "https://note.com/clipcorporation/n/n12f294acaafb",
+    "https://note.com/clipcorporation/n/nc279dcabad60",
+    "https://note.com/clipcorporation/n/n624f04a6a8e1",
+    "https://note.com/3n7no_tech_pr/n/nff92d019d9ea",
+    "https://note.com/irppy3/n/n01483a0bad53",
+    "https://note.com/pe_metals_o/n/n90ffc61bffe6"
+   ]
+  },
+  {
+   "query": "site:x.com 四国メッキ",
+   "results": [
+    "https://about.x.com/en",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/sur_kobo/status/2038535432406016340",
+    "https://x.com/hyakueido/status/1398661624051879938",
+    "https://x.com/aXzFCwbOS7oDX2L",
+    "https://x.com/mekikisenrigan/status/2086581612226236720",
+    "https://x.com/marunakafish/status/2094014139136172048"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 四国メッキ",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com 四国メッキ",
+   "results": [
+    "https://www.facebook.com/四国メッキ-272130750361361/",
+    "https://www.facebook.com/株式会社四国メッキ-109440645138212/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/四国メッキ-会社-842428649476393/",
+    "https://www.facebook.com/groups/1127564390612780/",
+    "https://www.facebook.com/murata.kyoko.jp/posts/ご安全に愛媛今治四国メッキ労組へ鉄の錆や腐食を防食する溶融亜鉛めっきを行っています国内最大のめっき槽があり船の配管等大型製品のめっき加工が可能ですガソリン減税熱/1201407555358610/",
+    "https://www.facebook.com/reel/767839761674054/"
+   ]
+  },
+  {
+   "query": "四国メッキ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://compalyze.co.jp/company/7500001011674",
+    "https://works.aqsh.co.jp/companies/7500001011674",
+    "https://biz.3rd-in.co.jp/corporate/7500001011674",
+    "https://www.houjin.info/detail/7500001011674/",
+    "https://shikokumekki.co.jp/",
+    "https://shikokumekki.co.jp/company.html"
+   ]
+  },
+  {
+   "query": "四国メッキ X 投稿",
+   "results": [
+    "https://shikokumekki.co.jp/",
+    "https://bakusai.com/sch_all/acode=9/word=四国メッキ/",
+    "https://shikokumekki.co.jp/news.html",
+    "https://x.com/JNa7RGbBHj3774/status/2117178688131489919",
+    "https://x.com/mekky_",
+    "https://xkings.jp/",
+    "https://fishing.ne.jp/area/shikoku?fish=fish-mekki"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部10頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部10頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部10頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部10頁・検索8回）"
+ }
+}

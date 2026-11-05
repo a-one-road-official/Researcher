@@ -1,0 +1,380 @@
+{
+ "name": "日本鈑金工業連合会 板金 製缶 溶接 事業所数 従業者 加工賃 統計",
+ "en": "Japan sheet metal industry statistics employees processing fee",
+ "aliases": [
+  "板金業 事業所数 工業統計",
+  "製缶板金業 加工賃収入 従業者",
+  "溶接業 賃加工 統計 -求人"
+ ],
+ "context": "団体・板金",
+ "kind": "market",
+ "researched_at": "2026-11-05T02:38:18.062527+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "工業統計調査 産業編 2-01 【１．産業別統計表 (産業細分類別)】 (1)従業者４人以上の事業所に関する統計表 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】 (1)従業者４人以上の事業所に関する統計表",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額(従業者30人以上)［年初現在高］（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額(従業者30人以上)［年末現在高］（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "【1122】絹・人絹織物業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "【1142】絹・人絹織物機械染色業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "【1161】織物製成人男子・少年服製造業（不織布製及びレース製を含む）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "【1162】織物製成人女子・少女服製造業（不織布製及びレース製を含む）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "【2183】人工骨材製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "【3251】娯楽用具・がん具製造業（人形を除く）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "【3252】人形製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額(従業者30人以上)［年初現在高］（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額(従業者30人以上)［年末現在高］（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額(従業者30人以上)［年初現在高］（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額(従業者30人以上)［年末現在高］（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "有形固定資産額(従業者30人以上)［年初現在高］（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額(従業者30人以上)［年末現在高］（百万円）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2016-04-28 00:00",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "【2020】工業用革製品製造業（手袋を除く）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   },
+   {
+    "quote": "【2021】工業用革製品製造業（手袋を除く）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000491295.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://j-fma.or.jp/7joh/data/kaihou17_200601.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jftc.go.jp/houdou/panfu_files/shitauketextbook.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/download/shitauke_koushu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://k-duct.com/pdf/47.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&cycle=0&toukei=00200555&tstat=000001221300&toukei_kind=6&tclass1=000001221305&tclass2=000001221309&tclass3val=0&statdisp_id=0004027060",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001022686",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nlftp.mlit.go.jp/ksj/gmlold/datalist/gmlold_KsjTmplt-S03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jtuc-rengo.or.jp/activity/roudou/shuntou/2024/wage_analysis/wage_analysis_report.pdf?41",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2014/pdf/26bunruiall.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vI6ikcWdke-OsQ9QHEoZzjebzhdHo5chQNxE3I9Kkpj3dDgFTTq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bls.gov/fls/tables/fls-table-19.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://treeglobalpartners.com/en/articles/ssw-industrial-products-salary-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/latest-size-sheet-metal-fabrication-services-market-l7g1f",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/japan-steel-fabrication-market-48138",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/iron-steel-market/Japan",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本鈑金工業連合会 板金 製缶 溶接 事業所数 従業者 加工賃 統計",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.soumu.go.jp/main_content/000491295.pdf"
+   ]
+  },
+  {
+   "query": "日本鈑金工業連合会 板金 製缶 溶接 事業所数 従業者 加工賃 統計 推移",
+   "results": []
+  },
+  {
+   "query": "日本鈑金工業連合会 板金 製缶 溶接 事業所数 従業者 加工賃 統計 統計 PDF",
+   "results": [
+    "https://j-fma.or.jp/7joh/data/kaihou17_200601.pdf",
+    "https://www.soumu.go.jp/main_content/000491295.pdf",
+    "https://www.jftc.go.jp/houdou/panfu_files/shitauketextbook.pdf",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/download/shitauke_koushu.pdf",
+    "https://k-duct.com/pdf/47.pdf"
+   ]
+  },
+  {
+   "query": "日本鈑金工業連合会 板金 製缶 溶接 事業所数 従業者 加工賃 統計 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&cycle=0&toukei=00200555&tstat=000001221300&toukei_kind=6&tclass1=000001221305&tclass2=000001221309&tclass3val=0&statdisp_id=0004027060",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "https://www.e-stat.go.jp/stat-search/files?tstat=000001022686",
+    "https://nlftp.mlit.go.jp/ksj/gmlold/datalist/gmlold_KsjTmplt-S03.html",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.stat.go.jp/data/nihon/07.html",
+    "https://resas.go.jp/industry-all/"
+   ]
+  },
+  {
+   "query": "日本鈑金工業連合会 板金 製缶 溶接 事業所数 従業者 加工賃 統計 従業者規模別",
+   "results": [
+    "https://www.soumu.go.jp/main_content/000491295.pdf",
+    "https://www.jtuc-rengo.or.jp/activity/roudou/shuntou/2024/wage_analysis/wage_analysis_report.pdf?41",
+    "https://www.stat.go.jp/data/e-census/2014/pdf/26bunruiall.pdf"
+   ]
+  },
+  {
+   "query": "日本鈑金工業連合会 板金 製缶 溶接 事業所数 従業者 加工賃 統計 1人当たり 万円",
+   "results": []
+  },
+  {
+   "query": "日本鈑金工業連合会 板金 製缶 溶接 事業所数 従業者 加工賃 統計 2015 2025",
+   "results": []
+  },
+  {
+   "query": "Japan sheet metal industry statistics employees processing fee Japan statistics",
+   "results": [
+    "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vI6ikcWdke-OsQ9QHEoZzjebzhdHo5chQNxE3I9Kkpj3dDgFTTq",
+    "https://www.bls.gov/fls/tables/fls-table-19.htm",
+    "https://treeglobalpartners.com/en/articles/ssw-industrial-products-salary-japan/",
+    "https://www.linkedin.com/pulse/latest-size-sheet-metal-fabrication-services-market-l7g1f",
+    "https://www.marketresearchfuture.com/reports/japan-steel-fabrication-market-48138",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/iron-steel-market/Japan",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "https://www.nipponsteel.com/en/factbook/2022/11-02.html",
+    "https://www.thefabricator.com/thefabricator/article/shopmanagement/metal-fabrication-in-japan-technology-and-data-for-a-comfortable-day"
+   ]
+  },
+  {
+   "query": "site:note.com 日本鈑金工業連合会 板金 製缶 溶接 事業所数 従業者 加工賃 統計",
+   "results": [
+    "https://note.com/ezuremanagement/n/ned8d225ba00b",
+    "https://note.com/tag/板金・溶接",
+    "https://note.com/lucid_lotus6287/n/n681af4e567f5",
+    "https://note.com/aigx/n/n7487c9d8283c",
+    "https://note.com/id_yoshino/n/n6ab5fb3dc188",
+    "https://note.com/hiroworkdeskjp/n/n4acc69c1ef32",
+    "https://note.com/cool_lily2625/n/nb13c6ba72a20",
+    "https://note.com/sane_crow7565/n/n371d5b9d55e6"
+   ]
+  },
+  {
+   "query": "site:x.com 日本鈑金工業連合会 板金 製缶 溶接 事業所数 従業者 加工賃 統計",
+   "results": [
+    "https://x.com/machinist_pub",
+    "https://x.com/OgawaSeisakusho/status/2099701667549818926",
+    "https://x.com/OgawaSeisakusho/status/2105460436405534734",
+    "https://x.com/kuro_suzuki",
+    "https://x.com/o225zgc7iK9AZR5",
+    "https://x.com/NTHhPUdPm0KFoYv",
+    "https://x.com/tamaescence/status/2116905153932804375"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 日本鈑金工業連合会 板金 製缶 溶接 事業所数 従業者 加工賃 統計",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com 日本鈑金工業連合会 板金 製缶 溶接 事業所数 従業者 加工賃 統計",
+   "results": [
+    "https://www.facebook.com/miyoshiindustry/",
+    "https://www.facebook.com/PablosOldTown/",
+    "https://www.facebook.com/kishimoto.ironworks/",
+    "https://www.facebook.com/AnushkaSharmaOfficial/photos/",
+    "https://www.facebook.com/PKMNFanatics97/",
+    "https://www.facebook.com/DanKidd68/",
+    "https://www.facebook.com/ogawatech2015/"
+   ]
+  },
+  {
+   "query": "日本鈑金工業連合会 板金 製缶 溶接 事業所数 従業者 加工賃 統計 note 社長",
+   "results": []
+  },
+  {
+   "query": "日本鈑金工業連合会 板金 製缶 溶接 事業所数 従業者 加工賃 統計 X 投稿",
+   "results": []
+  },
+  {
+   "query": "Japan sheet metal industry statistics employees processing fee site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/sheet-metal-weldment-market-global-outlook-us-japan-zx16f",
+    "https://www.linkedin.com/pulse/sheet-metal-processing-equipment-market-size-segmentation-uuree",
+    "https://www.linkedin.com/pulse/trending-report-global-metal-fabrication-outsourcing-rcojf",
+    "https://www.linkedin.com/pulse/metal-sheet-pile-market-us-japan-korea-europe-analysis-flznf",
+    "https://www.linkedin.com/pulse/how-calculate-total-manufacturing-cost-sheet-metal-products-dallan",
+    "https://www.linkedin.com/pulse/sheet-metal-fabrication-vs-cnc-machining-cost-benefit-analysis-3v1uc",
+    "https://www.linkedin.com/pulse/magnetic-shielding-sheet-market-us-japan-korea-europe-yb3of",
+    "https://www.linkedin.com/pulse/aluminum-sheet-metal-market-demand-forecast-av8gf",
+    "https://www.linkedin.com/pulse/5-challenges-sheet-metal-fabricators-aerospace-industry-dzoge",
+    "https://www.linkedin.com/pulse/forecasting-growth-sheet-metal-equipment-market-2026-2033-oe1ke"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ20頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ20頁・検索15回）"
+ }
+}

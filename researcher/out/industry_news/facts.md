@@ -1786,22 +1786,30 @@
 ## 衛星データ（satellite data services）
 - 文脈：6 航空・宇宙 ⑤人工衛星・サービス
 - 顧客（金を払う側）：
-  - 「経営・資金調達」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「企業人インタビュー」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「Open Cosmosが3億ユーロを調達」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「衛星の量産能力を拡大し、他国に頼らない観測・通信サービスの展開を加速【宇宙ビジネスニュース】」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「2026年9月14日、欧州の衛星メーカーOpen Cosmosが、3億ユーロ（約533億円）を調達したと発表しました」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「今回の調達資金は衛星の量産能力の拡大と、ConnectedCosmos、OpenConstellation、DataCosmosの展開加速に充てられます」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「2025年にリリースされたNEC地球観測衛星画像解析サービスプラットフォーム「NEC Earth Observation Satellites’ image Analysis Services Platform（略称：NEOSAP）」について、その特徴、顧客との対話を重ねた開発の舞台裏、今後目指す姿を伺いました」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「JAXAや企業による緊急観測・被害推定・復旧支援【随時更新】」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「「令和8年熊本地震」を受け、JAXAや宇宙関連企業各社が、衛星による被災地域の緊急観測やデータの提供、復旧・復興を支えるサービスの無償提供などに取り組んでいます」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「宇宙技術が災害対応にどのように活かされているのか、各機関や企業の動きをまとめました」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「企業登録申請」（https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF）
-  - 「企業・事業主のお客様」（https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF）
-  - 「企業・事業主ユーザーとして登録すると、プレスリリースの配信・掲載をおこなうことができます」（https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF）
-  - 「企業・事業主ユーザーで」（https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF）
-  - 「企業様からのお問い合わせ」（https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF）
+  - 「NASA、アルテミスIIIのオリオン宇宙船にSpaceXのStarlinkレーザー通信技術を採用【宇宙ビジネスニュース】」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
+  - 「2026年7月16日、NASAはアルテミスIIIミッションのレーザー通信サービスの提供事業者にSpaceXを採用すると発表しました」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
+  - 「アストロスケール、欧州の宇宙システム企業OHBと宇宙安全保障における国際協力の強化に向けた覚書を締結」（https://spacemedia.jp/category/news）
+  - 「宇宙航空研究開発機構（JAXA）は、宇宙戦略基金に係る政府の基本方針・実施方針を踏まえ、民間企業・大学・国立研究開発法人等に対して、技術開発テーマの公募を実施しており、このたび、下記の技術開発テーマについて、審査会において、提案された各技術開発課題の審議を行い、実施機関を決定しました」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「顧客コンポーネントの商業化を牽引する革新的軌道上実証基盤の構築」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「本覚書は、両機関が研究開発、人材育成及び産業振興等の分野における協力を推進するとともに、民間企業や大学等を含む多様な関係者間の連携を促進し、日・サウジアラビア両国の宇宙分野における協力関係の一層の強化に寄与するものです」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「本覚書の締結により、両宇宙機関が民間企業や大学等を含む多様なプレーヤー間の研究開発や経済協力を推進するハブとしての役割を果たし、両国間の宇宙協力のさらなる強化に貢献できることとなります」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「JAXAは、本宣言の署名を契機として、同機関間の対話を一層深化させるとともに、日本企業を含む宇宙分野における対フィリピン協力のさらなる推進を図ってまいります」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「認定証授与式は、2026年4月16日（木）に大阪大学豊中キャンパスの大阪大学会館講堂にて開催され、宇宙航空研究開発機構（JAXA）ほか関連企業等に認定証が授与されました」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「"また、2007年、国内初となる民間企業による打上げ輸送サービス開始以降、全ての打上げが成功し、顧客志向のビジネスにも対応できる技術を有するロケットであることが立証された」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「H-IIA/H-IIBロケットの顧客は世界市場からの受注も含め合計で61に達し、宇宙開発利用における多岐にわたる分野の課題解決やサービスの提供に絶大な貢献をした」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「その優れたバージング方式は、スペースX社のドラゴン宇宙船やノースロップ・グラマン社のシグナス宇宙船にも採用され、国際的な標準方式となった」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「ジャパン・レジリエンス・アワード（強靱化大賞）は、次世代に向けたレジリエンス社会構築へ向けて強靱な国づくり、地域づくり、人づくり、産業づくりに質する活動、技術開発、製品開発等に取り組んでいる先進的な企業・団体を評価、表彰する制度です」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「AST SpaceMobileは基地局なしで普通のスマホが衛星に直接つながるD2D通信を狙う米企業」（https://xn--29sob207cg49a.com/satellite/）
+  - 「2027年度新卒採用 財団説明会・セミナー等の登録開始および採用情報の掲載について」（https://www.restec.or.jp/notice/notice_year_2026/index.html）
 - 顧客の顧客（発注元が求めること）：
+  - 「スカパーＪＳＡＴ、防衛省向け 地球観測衛星(光学)データ提供業務を約90億円で受注 ｜スカパーJSAT」（https://www.skyperfectjsat.space/jp/news/20251104_1）
+  - 「スカパーＪＳＡＴ、防衛省向け 地球観測衛星(光学)データ提供業務を約90億円で受注」（https://www.skyperfectjsat.space/jp/news/20251104_1）
+  - 「スカパーＪＳＡＴ株式会社（本社：東京都港区、代表取締役 執行役員社長：米倉 英一、以下「スカパーＪＳＡＴ」）は、防衛省向けの低軌道地球観測衛星（光学）データ提供に関わる2025年度分の業務（以下本業務）を新たに受注しました」（https://www.skyperfectjsat.space/jp/news/20251104_1）
+  - 「これにより、防衛省が必要とする観測画像データの確実な取得と活用を支援します」（https://www.skyperfectjsat.space/jp/news/20251104_1）
+  - 「今後も国内外のパートナーとの協力を深めながら、防衛省をはじめとする政府機関や民間企業へサービスを拡充し、宇宙事業のさらなる成長と発展に向けて挑戦を続けます」（https://www.skyperfectjsat.space/jp/news/20251104_1）
+  - 「令和9年度の宇宙関係概算要求から考える「国家インフラ」としての宇宙の使い方」（https://sorabatake.jp/utilizing-space/infrastructure/）
+  - 「従来の同規模の衛星と比べて短期間かつ低コストで供給できるとしているが、価格や納期は同社が掲げる目標であり、量産段階での実績はこれから積み上げることになる」（https://www.zaikei.co.jp/article/20260830/867896.html）
+  - 「高出力衛星を継続的に製造し、複数年にわたる顧客の納期やコスト目標を守れるかどうかが、68億ドルという企業評価を支える重要な条件になる」（https://www.zaikei.co.jp/article/20260830/867896.html）
   - 「信号認証サービス」（https://space-data-challenge.nedo.go.jp/infrastructure/）
   - 「この認証は、公共エリアにおける遠隔操作型モビリティソリューションの実装に向けた大きな一歩となります」（https://newscast.jp/news/9609529）
   - 「特に日本では、自然災害の多発、インフラ老朽化、脱炭素社会への移行など、地球観測データを必要とする社会課題が増加しており、市場拡大を後押ししています」（https://www.atpress.ne.jp/news/2577829）
@@ -1809,27 +1817,27 @@
   - 「公共案件への依存度が高い企業では、政策変更や調達方針の見直しによって収益予測が変動する可能性があります」（https://www.atpress.ne.jp/news/2577829）
   - 「令和9年度の宇宙関係概算要求から考える「国家インフラ」としての宇宙の使い方」（https://sorabatake.jp/utilizing-space/）
   - 「特に日本では、自然災害の多発、インフラ老朽化、脱炭素社会への移行など、地球観測データを必要とする社会課題が増加しており、市場拡大を後押ししています」（https://newscast.jp/smart/news/2577829）
-  - 「また、保険、建設、物流、エネルギーなどの民間分野でも、衛星情報を活用したリスク評価や事業継続計画（BCP）強化への関心が高まっています」（https://newscast.jp/smart/news/2577829）
-  - 「公共案件への依存度が高い企業では、政策変更や調達方針の見直しによって収益予測が変動する可能性があります」（https://newscast.jp/smart/news/2577829）
-  - 「世界的には、激甚化・頻発化する自然災害の被害をいかに抑制するか、脱炭素社会に向け、カーボンニュートラルをいかに実現するかなど、地球規模課題に対する産官学での取り組みが加速しています」（https://www.sd-services.co.jp/）
-  - 「デジタル実装によるコンサル能力の深化とAIなどの先端技術を融合させ、気候変動や脱炭素、災害対策、トレーサビリティなどの社会課題を解決し、安全・安心な社会基盤と希望ある未来の創造・実装に挑みます」（https://www.kkc.co.jp/news/release/2026/03/02_34463/）
 - 顧客の競合（奪いに来る側）：
-  - 「2026年9月14日、欧州の衛星メーカーOpen Cosmosが、3億ユーロ（約533億円）を調達したと発表しました」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「欧州が自ら管理できる衛星インテリジェンス基盤を共同構築へ」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「2026年6月18日、VantorとRheinmetallはドイツおよび欧州各国の軍隊向けに、主権型の空間インテリジェンス能力構築を目的とした基本合意書（MOU）の締結を発表しました」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「米国防情報局、宇宙安全保障の脅威を評価した報告書の2026年版を公表」（https://spacemedia.jp/category/news）
-  - 「米RedwireとブルガリアのEnduroSat、欧州の宇宙インフラ強化に向け覚書締結」（https://spacemedia.jp/category/news）
-  - 「独Reflex Aerospace、NVIDIAの出資計画を背景に欧州での衛星生産能力を拡大」（https://spacemedia.jp/category/news）
-  - 「米国航空宇宙局（NASA）の地球観測データのポータルサイト」（https://space-data-challenge.nedo.go.jp/infrastructure/）
-  - 「欧州宇宙機関（ESA）が管理する地球観測プログラム」（https://space-data-challenge.nedo.go.jp/infrastructure/）
-  - 「この市場のシェアは、防衛、災害管理、インフラ監視、環境評価における高解像度画像への需要の高まり、合成開口レーダー（SAR）技術の進歩、宇宙監視への政府投資、そして商用アプリケーションにおけるAI駆動型画像分析の採用増加により、大きく拡大しています」（https://newscast.jp/news/9609529）
-  - 「また、地域別では、関東地方、関西/近畿地方、中部地方、九州・沖縄地方、東北地方、中国地方、北海道地方、四国地方といった主要な全地域市場の包括的な分析も提供しています」（https://newscast.jp/news/9609529）
-  - 「第4章には日本の衛星画像サービス市場の概要、市場ダイナミクス、業界トレンド、競合インテリジェンスといった市場の紹介が記載されている」（https://newscast.jp/news/9609529）
-  - 「第8章には関東、関西/近畿、中部、九州・沖縄、東北、中国、北海道、四国といった地域ごとの市場内訳が記載されており、それぞれについて概要、2020年から2025年までの市場トレンド、アプリケーション別およびエンドユーザー別の市場内訳、主要プレイヤー、2026年から2034年までの市場予測が示されている」（https://newscast.jp/news/9609529）
-  - 「第9章には概要、市場構造、市場プレイヤーのポジショニング、トップの勝ち戦略、競合ダッシュボード、企業評価象限といった日本の衛星画像サービス市場の競争環境が記載されている」（https://newscast.jp/news/9609529）
-  - 「ニュースのシェア」（https://newscast.jp/news/9609529）
-  - 「Starlink 稼働1万1,078基（2026年8月末）/加入1,030万/164ヶ国、Amazon Leo 量産打上げ中、OneWeb 650基、中国千帆も急拡大」（https://xn--29sob207cg49a.com/satellite/）
+  - 「アストロスケール、欧州の宇宙システム企業OHBと宇宙安全保障における国際協力の強化に向けた覚書を締結」（https://spacemedia.jp/category/news）
+  - 「中国、宇宙空間のガバナンス強化に向けた立場を表明 国際協力や商業活動の規制など10項目を提示」（https://spacemedia.jp/category/news）
+  - 「2026年10月27日に本研究成果が米国の学会American Geophysical Unionが発行する学術雑誌「Space Weather」に掲載されました」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「署名をきっかけに、JAXAは欧州域内において宇宙セクターの成長著しい国の一つであるポーランドと将来的な協力の可能性を探求するための対話を深めていきます」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「日本の衛星データ利用システム等開発事業者のインド市場への参入/インド企業との連携支援」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「[打上げ予定日変更] 小型SAR衛星QPS-SAR19号機「ヤマツミ-Ⅱ」米国Rocket Lab社Electronロケットにて2026年11月14日以降に打上げ予定」（https://i-qps.net/）
+  - 「16件のプロジェクトはESA（欧州宇宙機関）の通信技術開発プログラム「ARTES」の一部として実施され、身近な用途から深宇宙通信までテーマが多岐にわたります」（https://sorabatake.jp/utilizing-space/infrastructure/）
+  - 「Redwire Corporationは、欧州宇宙機関（ESA）が進める量子鍵配送衛星プログラム「QKDSat」において、衛星の開発契約を獲得したと発表しました」（https://sorabatake.jp/utilizing-space/infrastructure/）
+  - 「一方で、スターリンクの衛星網は米国企業であるSpaceXが構築・運用しているため、J-LEOの採択対象として考えた場合、日本側がどこまで運用・管理に関与できるのかが重要な論点になる」（https://space-connect.jp/j-leo/）
+  - 「韓国宇宙航空庁、衛星画像6万7,000枚を無償公開｜韓国企業のAI開発を支援」（https://space-connect.jp/j-leo/）
+  - 「地域別では、米国企業の調達額が約127億ドル（約2兆320億円）と全体の6割強を占めた」（https://www.zaikei.co.jp/article/20260830/867896.html）
+  - 「中国企業は全体の2割強、欧州企業は約1割だった」（https://www.zaikei.co.jp/article/20260830/867896.html）
+  - 「中国では、千帆星座を運営する上海垣信衛星技術が8月、69億7600万元規模の増資を実施した」（https://www.zaikei.co.jp/article/20260830/867896.html）
+  - 「中国国内の政府系・国有系資本が関与する大型の衛星通信インフラ投資であり、一般的なベンチャー投資と単純に同列には扱えないものの、Crunchbaseの宇宙関連資金調達総額を構成する大型案件の一つである」（https://www.zaikei.co.jp/article/20260830/867896.html）
+  - 「このほか、Andurilと進める米国のミサイル防衛関連事業や、米宇宙軍のProtected Tactical Satcom-Globalプログラムにも衛星バスを供給する」（https://www.zaikei.co.jp/article/20260830/867896.html）
 - 自社の競合（商社・代理店・仲介）：
+  - 「Agentic AIによるInSAR変動マップの変動要因解釈基盤構築」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「Commissioned Research :」（https://www.atpress.ne.jp/news/4397350）
+  - 「https://www.reportocean.co.jp/commissioned-research-services」（https://www.atpress.ne.jp/news/4397350）
+  - 「「AI Highlight Agent」のベータ版を提供開始」（https://www.atpress.ne.jp/news/4397350）
   - 「衛星データを専門知識なしで扱えるJAXA Earth APIと、生成AI連携を実現するMCP・Agent Skillsの仕組み、対話だけで衛星データを解析できるチュートリアルを紹介します」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
   - 「Commissioned Research :」（https://www.atpress.ne.jp/news/2577829）
   - 「https://www.reportocean.co.jp/commissioned-research-services」（https://www.atpress.ne.jp/news/2577829）
@@ -1839,38 +1847,47 @@
   - 「Update #3 - Cessation of Suomi National Polar-orbiting Partnership (S-NPP) data to users on November 02, 2026 1540 UTC and Decommissioning - Issued October 30, 2026 1400 UTC」（https://www.nesdis.noaa.gov/news-events/search-news）
   - 「Update #2 - Cessation of Suomi National Polar-orbiting Partnership (S-NPP) data to users on November 02, 2026 1300 UTC and Decommissioning - Issued October 19, 2026 1400 UTC」（https://www.nesdis.noaa.gov/news-events/search-news）
 - 政治（法・予算・規制）：
-  - 「宇宙戦略基金」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「LiveEO、光学とSARの画像を一つのAIで扱う視覚基盤モデルの実現に向け、ドイツ政府から助成獲得【宇宙ビジネスニュース】」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「2026年8月4日、LiveEOはドイツ政府の宇宙開発プログラムから助成を受けたと発表しました」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「ひとつは日本の国家安全保障・経済安全保障市場に向けたハイパースペクトル衛星コンステレーションの構築です」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「他の受託事業・補助金等を受けているテーマで応募しても問題ないか」（https://space-data-challenge.nedo.go.jp/infrastructure/）
-  - 「国の補助金・受託事業と全く同一の内容での応募はＮＧとなります」（https://space-data-challenge.nedo.go.jp/infrastructure/）
-  - 「この市場のシェアは、防衛、災害管理、インフラ監視、環境評価における高解像度画像への需要の高まり、合成開口レーダー（SAR）技術の進歩、宇宙監視への政府投資、そして商用アプリケーションにおけるAI駆動型画像分析の採用増加により、大きく拡大しています」（https://newscast.jp/news/9609529）
-  - 「政府と民間部門は、土地利用の評価、建設計画の最適化、災害対策の強化のために、衛星ベースの監視システムに投資しています」（https://newscast.jp/news/9609529）
-  - 「日本政府は、国家安全保障、環境監視、精密農業の取り組みを強化するために、AI駆動型地理空間分析を奨励しています」（https://newscast.jp/news/9609529）
-  - 「エンドユーザー別では、政府、建設、輸送・ロジスティクス、軍事・防衛、林業・農業、その他が含まれます」（https://newscast.jp/news/9609529）
-  - 「第7章には政府、建設、運輸・ロジスティクス、軍事・防衛、林業・農業、その他のエンドユーザーごとの市場内訳が記載されており、それぞれについて概要、2020年から2025年までの市場トレンド、2026年から2034年までの市場予測が示されている」（https://newscast.jp/news/9609529）
-  - 「Planet・ICEYE・BlackSkyの2026年業績、宇宙戦略基金の地球観測テーマ、Tellusの新体制まで2026年9月時点で解説」（https://xn--29sob207cg49a.com/satellite/）
-  - 「TeraWaveはBlue Originが2026年1月に発表した企業・データセンター・政府向けの衛星通信網」（https://xn--29sob207cg49a.com/satellite/）
-  - 「2030年代に軌道上10万機時代を迎える前に知るべきVisorSat等の対策技術・ITU・国連の規制動向・持続可能な宇宙利用の課題を整理」（https://xn--29sob207cg49a.com/satellite/）
-  - 「米政府著作物の基本ルールと例外、images.nasa.gov・APOD・EPIC・Hubble/JWST画像のライセンス、ESA画像の利用条件とCC BY-SA、商用利用とクレジット表記の実務、Wikimedia Commonsの使い方まで網羅」（https://xn--29sob207cg49a.com/satellite/）
+  - 「中国、宇宙空間のガバナンス強化に向けた立場を表明 国際協力や商業活動の規制など10項目を提示」（https://spacemedia.jp/category/news）
+  - 「予算関連（予算推移、プロジェクト関連）」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「宇宙戦略基金事業 技術開発テーマ（衛星通信利活用を拡大するための汎用地上アンテナ及びユースケースの開発・実証、宇宙実証機会の拡大に資する衛星を活用した軌道上実証の低コスト・高頻度化技術の開発実証、民間ロケット打上げ実証加速化（STAND））の実施機関を決定」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「宇宙航空研究開発機構（JAXA）は、宇宙戦略基金に係る政府の基本方針・実施方針を踏まえ、民間企業・大学・国立研究開発法人等に対して、技術開発テーマの公募を実施しており、このたび、下記の技術開発テーマについて、審査会において、提案された各技術開発課題の審議を行い、実施機関を決定しました」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「●宇宙戦略基金（第3期）の採択結果」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「詳しくは、宇宙戦略基金Webサイトにて情報発信いたします」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「宇宙戦略基金事業 技術開発テーマ（LEO拠点リブースト技術）の実施機関を決定」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「2026年9月21日、キリバス共和国クリスマス島において、キリバス政府とJAXAの共催による「クリスマスダウンレンジ局開局50周年記念式典（50th Anniversary Ceremony of the JAXA Kiritimati Downrange Station）」を開催しました」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「式典には、キリバス共和国大統領Taneti Maamau氏、キリバス共和国情報・通信・運輸大臣Alexander Teabo氏、キリバス共和国ライン＆フェニックス諸島開発大臣Mikarite Temari氏をはじめ、同国政府関係者や長年にわたり局の維持・運営に携わってきた関係者が出席し、クリスマスダウンレンジ局の50年の歩みを振り返るとともに、JAXAとキリバス共和国との長年にわたる協力関係を確認しました」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「また、式典に先立つ9月18日には、キリバス共和国政府関係者を対象としたクリスマスダウンレンジ局のサイトツアーを実施し、局の役割や設備について紹介しました」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「今回の50周年という節目を機に、JAXAは、これまでクリスマスダウンレンジ局を支えてくださったキリバス共和国政府および現地の皆様、関係者の皆様に改めて感謝するとともに、長年にわたり培われてきたキリバス共和国との信頼と協力の関係を、今後も大切にしてまいります」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「宇宙戦略基金「衛星データ利用システム実装加速化事業」に採択 行政等の業務効率化を加速する高空間分解能地理空間基盤モデル開発」（https://www.restec.or.jp/notice/notice_year_2026/index.html）
+  - 「宇宙戦略基金「衛星データ利用システム実装加速化事業」の採択 国産小型衛星利用を加速する評価/校正/検証/補正手法の環境整備」（https://www.restec.or.jp/notice/notice_year_2026/index.html）
+  - 「今後も国内外のパートナーとの協力を深めながら、防衛省をはじめとする政府機関や民間企業へサービスを拡充し、宇宙事業のさらなる成長と発展に向けて挑戦を続けます」（https://www.skyperfectjsat.space/jp/news/20251104_1）
+  - 「第124回宇宙政策委員会の配布資料から、国家インフラとなる測位・通信・地球観測といった人工衛星の使い方、また今後の私たちの暮らしをより良くするための予算の具体例を紹介します」（https://sorabatake.jp/utilizing-space/infrastructure/）
 - 経済（規模・価格・為替）：
-  - 「2026年9月14日、欧州の衛星メーカーOpen Cosmosが、3億ユーロ（約533億円）を調達したと発表しました」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「宇宙電力インフラのZero Industries、約4.7億円を調達 前澤ファンドなど出資」（https://spacemedia.jp/category/news）
-  - 「優れた提案には、協賛企業により表彰および賞金（最大300万円）を授与します」（https://space-data-challenge.nedo.go.jp/infrastructure/）
-  - 「衛星画像サービスの日本市場（2026年～2034年）、市場規模（地理空間データの取得とマッピング、天然資源管理、監視とセキュリティ）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/news/9609529）
-  - 「衛星画像サービスの日本市場（2026年～2034年）、市場規模（地理空間データの取得とマッピング、天然資源管理、監視とセキュリティ）・分析レポートを発表」（https://newscast.jp/news/9609529）
-  - 「本調査会社は、2026年から2034年にかけて市場が年平均成長率（CAGR）10.80%で拡大し、2034年には11億4167万米ドルに達すると予測しています」（https://newscast.jp/news/9609529）
-  - 「SAR入門 — X/C/Lバンドの違い・主要衛星10機種比較・画像の価格帯と無料データソース」（https://xn--29sob207cg49a.com/satellite/）
-  - 「X/C/Lバンドの特性比較、ICEYE 60機超・ALOS-4・QPS研究所など主要10機種の一覧、InSARの地盤沈下検出原理、画像価格$1〜50/km²の相場、Sentinel-1無料データの入手方法まで解説」（https://xn--29sob207cg49a.com/satellite/）
-  - 「衛星データ市場規模と成長予測2026 — 地球観測からAI分析まで」（https://xn--29sob207cg49a.com/satellite/）
-  - 「衛星通信事業者の売上比較2026 — SES/Intelsat/Eutelsat/Viasatの業績分析」（https://xn--29sob207cg49a.com/satellite/）
-  - 「世界の主要衛星通信事業者の2025年度売上・営業利益・加入者数を徹底比較した分析記事」（https://xn--29sob207cg49a.com/satellite/）
-  - 「3,236基のLEOコンステレーション構成、2026年サービス開始計画、Starlinkとの技術・価格・カバレッジの徹底比較」（https://xn--29sob207cg49a.com/satellite/）
-  - 「衛星画像の価格は10分の1にできる？最低購入面積と5つの条件【2026】」（https://xn--29sob207cg49a.com/satellite/）
-  - 「衛星画像の価格を10分の1にする条件を、km²単価・最低購入面積・解析費に分けて試算」（https://xn--29sob207cg49a.com/satellite/）
-  - 「SkyWatchやPlanet、UP42の公開条件、無料のSentinel-2/Landsatとの違い、値下げで広がる市場と市場規模の読み方まで整理する」（https://xn--29sob207cg49a.com/satellite/）
+  - 「UP42 衛星データマーケットプレイス完全ガイド2026｜価格・対応センサー・APIで他社比較」（https://xn--29sob207cg49a.com/satellite/）
+  - 「スカパーＪＳＡＴ、防衛省向け 地球観測衛星(光学)データ提供業務を約90億円で受注 ｜スカパーJSAT」（https://www.skyperfectjsat.space/jp/news/20251104_1）
+  - 「スカパーＪＳＡＴ、防衛省向け 地球観測衛星(光学)データ提供業務を約90億円で受注」（https://www.skyperfectjsat.space/jp/news/20251104_1）
+  - 「88.53億円（税抜）」（https://www.skyperfectjsat.space/jp/news/20251104_1）
+  - 「総額は1,300万ポンド（約28億円）です」（https://sorabatake.jp/utilizing-space/infrastructure/）
+  - 「【1000兆円市場の不動産×宇宙利用で未開の価値を開拓する日】「宇宙×不動産SRCカンファレンス2025」が12月2日に開催！」（https://sorabatake.jp/utilizing-space/infrastructure/）
+  - 「令和7年度補正予算で1,500億円が計上された」（https://space-connect.jp/j-leo/）
+  - 「最大1,480億円限 補正予算（1,500億円）」（https://space-connect.jp/j-leo/）
+  - 「アストロスケール仏子会社、約23.6億円の契約獲得｜OneWeb衛星を軌道離脱へ」（https://space-connect.jp/j-leo/）
+  - 「2026年の宇宙・衛星関連スタートアップへの世界の民間投資額は、8月までに過去最高の203億ドル（約3兆2480億円、1ドル＝160円換算）に達した」（https://www.zaikei.co.jp/article/20260830/867896.html）
+  - 「地域別では、米国企業の調達額が約127億ドル（約2兆320億円）と全体の6割強を占めた」（https://www.zaikei.co.jp/article/20260830/867896.html）
+  - 「最大の調達案件は、防衛技術企業Anduril Industriesが2026年5月に実施した50億ドル（約8000億円）のシリーズHだった」（https://www.zaikei.co.jp/article/20260830/867896.html）
+  - 「米ドル換算では約10億ドル、日本円では約1600億円に相当する」（https://www.zaikei.co.jp/article/20260830/867896.html）
+  - 「Goldman Sachs Global Instituteは2026年8月に公表した報告書「The Second Space Age」で、世界の宇宙経済が2035年に1兆8000億ドル（約288兆円）へ拡大するとの見通しを示した」（https://www.zaikei.co.jp/article/20260830/867896.html）
+  - 「2026年の大型調達では、米K2 Spaceが7月に実施した5億ドル（約800億円）のシリーズDも目立つ」（https://www.zaikei.co.jp/article/20260830/867896.html）
 - 社会（人・担い手）：
+  - 「本覚書は、両機関が研究開発、人材育成及び産業振興等の分野における協力を推進するとともに、民間企業や大学等を含む多様な関係者間の連携を促進し、日・サウジアラビア両国の宇宙分野における協力関係の一層の強化に寄与するものです」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「JAXAの社会環境報告書では、宇宙・航空分野における研究開発の成果に加え、環境配慮の状況と実績、SDGsへの貢献、組織運営、人材育成、社会との連携など、JAXAの幅広い取り組みを紹介しています」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「宇宙業界では現在、様々な企業が人材を募集している」（https://space-connect.jp/j-leo/）
+  - 「業界特化型の人材マッチングサービス「スぺジョブ」」（https://space-connect.jp/j-leo/）
+  - 「スペジョブは、宇宙産業に本気で働きたい人を支援する人材マッチングプラットフォームです」（https://space-connect.jp/j-leo/）
+  - 「衛星データ取得や解析基盤への継続投資、専門人材確保、データ品質管理、顧客ごとの利用環境への適応などが事業運営上の課題となります」（https://www.atpress.ne.jp/news/4397350）
+  - 「日本患者移送機器市場、2035年に14億9320万米ドルへ拡大、CAGR 5.35％、高齢化の進展と医療施設における患者搬送需要の増加が市場成長を促進」（https://www.atpress.ne.jp/news/4397350）
+  - 「先端デジタル技術を実務に活かす建築人材を育成」（https://www.atpress.ne.jp/news/4397350）
+  - 「工学院大学「BIM×AI建築人材養成プログラム」受講申込開始」（https://www.atpress.ne.jp/news/4397350）
   - 「我が国ではインフラの維持管理の担い手不足やインフラの急速な老朽化、人口減少・人口偏在化などに加え、自然災害の激甚化・頻発化が進み、テクノロジー活用によるインフラ維持管理の効率化や、防災・災害対応の高度化が求められています」（https://space-data-challenge.nedo.go.jp/infrastructure/）
   - 「インフラ構造物の劣化等の点検やモニタリングの効率化・高度化・人手不足解消」（https://space-data-challenge.nedo.go.jp/infrastructure/）
   - 「人手不足解消」（https://japanstep.jp/learn/2026/04/1921/）
@@ -1878,22 +1895,25 @@
   - 「スペジョブは、宇宙産業に本気で働きたい人を支援する人材マッチングプラットフォームです」（https://space-connect.jp/）
   - 「また、衛星利用による宇宙ソリューションビジネスの海外展開強化や、衛星データの利用拡大、担い手の拡充等を図っていく」（https://fund.jaxa.jp/techlist/theme2_22-2/）
 - 技術（新しい技術・実証）：
-  - 「2025年にリリースされたNEC地球観測衛星画像解析サービスプラットフォーム「NEC Earth Observation Satellites’ image Analysis Services Platform（略称：NEOSAP）」について、その特徴、顧客との対話を重ねた開発の舞台裏、今後目指す姿を伺いました」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「LiveEO、光学とSARの画像を一つのAIで扱う視覚基盤モデルの実現に向け、ドイツ政府から助成獲得【宇宙ビジネスニュース】」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「2026年8月4日、LiveEOはドイツ政府の宇宙開発プログラムから助成を受けたと発表しました」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「この助成を活用し、光学衛星とSAR衛星という異なる衛星のデータを、一つのAIで扱う視覚基盤モデルが実現可能かどうかの調査に取り組みます」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「「誰もが衛星データ利用を手軽にできる時代に」JAXA Earth APIにおける生成AI連携の解説_PR」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「衛星データを専門知識なしで扱えるJAXA Earth APIと、生成AI連携を実現するMCP・Agent Skillsの仕組み、対話だけで衛星データを解析できるチュートリアルを紹介します」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「衛星データで「インフラ管理」「防災・災害対応」を革新する技術開発求む！ 「NEDO Challenge, Satellite Data-衛星データで革新する未来の都市インフラ-」の公募開始_PR」（https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/）
-  - 「スペースシフト、 農林水産省「農山漁村振興への貢献活動に係る取組証明書」を取得 ｜「AI×『農山漁村』インパクト創出ソリューション実装プログラム」に採択」（https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF）
-  - 「事業拡大を支えるプロダクト開発とセキュリティ強化に向けた体制づくりを推進」（https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF）
-  - 「AIエージェント」（https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF）
-  - 「アクセルスペース、次世代地球観測衛星「GRUS-3C」の検証画像を公開」（https://spacemedia.jp/category/news）
-  - 「千葉大関連スタートアップのHiSR、衛星など複数の観測データを統合するAI地震予測技術で特許出願」（https://spacemedia.jp/category/news）
-  - 「九工大らの研究グループ、AIによる人工衛星の表面帯電の自動検出手法を開発 世界初」（https://spacemedia.jp/category/news）
-  - 「NTT、地球低軌道での衛星通信の容量拡大に成功 JAXAとの共同実証」（https://spacemedia.jp/category/news）
-  - 「タイミーの亀田彗氏がWHEREの技術顧問に就任 開発体制やセキュリティ関連でアドバイス」（https://spacemedia.jp/category/news）
+  - 「JAXA発スタートアップ・WHERE、スペースシフトと連携し、衛星データ×AIで遊休農地などを新たな事業候補地として抽出」（https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF）
+  - 「スペースシフトとWHERE、「適地探索AI」を活用した連携を本格的に開始」（https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF）
+  - 「スペースシフト、「SateAIs 都」の新ソリューション「適地探索AI」をリリース」（https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF）
+  - 「【11/13（金）開催】衛星データやAIなど、防災テックの最前線を議論「防災テックスタートアップカンファレンス2026」【PR】」（https://spacemedia.jp/category/news）
+  - 「Space BD、Space QuartersとISS「きぼう」での宇宙用溶接技術の実証に向け契約」（https://spacemedia.jp/category/news）
+  - 「このたび、宇宙開発を支える自然災害監視の取り組みについて、施設部Webサイトに記事を掲載しました」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「一般財団法人日本航空協会より、新型宇宙ステーション補給機（HTV-X）プロジェクトチーム、気象影響防御技術（WEATHER-Eye）コンソーシアム、小型ソーラー電力セイル実証機IKAROSチームが表彰を受け、9月18日に表彰式が行われました」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「油井宇宙飛行士がISSのロボットアームで把持した後に撮影したHTV-X1号機 （JAXA/NASA）」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「滑走路雪氷検知や被雷危険性予測など、航空機を気象リスクから守る技術を世界に先駆けて開発・実用化し、運航の安全性と効率性の向上に多大な貢献をされました」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「トロフィーを手にした神田淳航空プログラムディレクタ（左）と、表彰状を手にした岩垂好直主任研究開発員（運航安全技術ユニット）」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「WEATHER-Eyeコンソーシアムは、こうした課題の解決に向け、航空機運航の安全性と効率性の向上を目的として、産学官が連携するオールジャパン体制の下で研究開発を推進するために設立されました」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「受賞を励みとして、今後も関係者との連携を一層強化し、航空運航のさらなる安全性・効率性向上に資する研究開発の推進に取り組んでまいります」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「気象影響防御技術（WEATHER-Eye）の研究開発（航空技術部門）」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「宇宙帆船であるソーラーセイルを世界で初めて実証し、日本独自の持続可能な外惑星探査という壮大な夢への道筋を示すことで広く社会に夢と希望を与えました」（https://www.jaxa.jp/topics/2026/index_j.html）
+  - 「"IKAROSは世界で初めて「ソーラーセイル」と「ソーラー電力セイル」の実証に成功しました」（https://www.jaxa.jp/topics/2026/index_j.html）
 - 検索結果の抜粋：
+  - 「防衛省向け 地球観測 衛星 (光学) データ 提供業務を約90億円で 受注 — 防衛省向け 地球観測 衛星 (光学) データ 提供業務を約90億円で 受注 スカパーJSAT https://www.skyperfectjsat.space > news」（https://www.skyperfectjsat.space/jp/news/20251104_1）
+  - 「衛星データ とは？種類6つと活用事例をやさしく解説【 2026年 ... — 衛星データ とは？種類6つと活用事例をやさしく解説【 2026年 ... 宇宙旅行.com https://宇宙旅行.com > 衛星データ」（https://xn--29sob207cg49a.com/guide/satellite-data-complete-guide-2026/）
+  - 「CAGR 11.52％で拡大する地球観測・リモートセンシング需要 — CAGR 11.52％で拡大する地球観測・リモートセンシング需要 アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/4397350）
   - 「JAXA地球観測 データ 利用30年を振り返る — JAXA地球観測 データ 利用30年を振り返る JAXA｜宇宙航空研究開発機構 https://www.satnavi.jaxa.jp > news > 2026/03/30」（https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html）
   - 「日本 衛星 地球観測市場、2035年6億6370万米ドルへ — 日本 衛星 地球観測市場、2035年6億6370万米ドルへ アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/2577829）
   - 「衛星 地球観測コンソーシアム | 2026年 のお知らせ — 衛星 地球観測コンソーシアム | 2026年 のお知らせ JAXA｜宇宙航空研究開発機構 https://earth.jaxa.jp > conseo > news > 2026」（https://earth.jaxa.jp/conseo/news/2026.html）
@@ -2288,54 +2308,61 @@
 ## LNG運搬船（LNG carrier）
 - 文脈：8 造船 ③LNG運搬船
 - 顧客（金を払う側）：
-  - 「3PL・物流企業」（https://www.lnews.jp/tag/lng）
-  - 「LNEWS／物流人材「次世代の採用フォーメーション」テーマに11月25日セミナー開催」（https://www.lnews.jp/tag/lng）
-  - 「三菱倉庫／斉藤社長が阪急阪神エクスプレス買収で会見、トータルロジスティクス企業へ」（https://www.lnews.jp/tag/lng）
-  - 「商船三井／カナダ・バンクーバー港での自動車船向けLNG調達年間契約締結」（https://www.lnews.jp/tag/lng）
-  - 「PSA/シスコ、デジタルレジリエンスで提携、トゥアスで新PF導入へ」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
-  - 「大島造船所、カスタモヌからバルカー2隻受注、42型と64型、2030年納期」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
-  - 「ハンファフィリー、米艦艇を初受注」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
-  - 「- 代替燃料船発注急増（LNG燃料船主導で8月は2024年10月以来の高水準）」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「- 8月の代替燃料船発注は52隻と2024年10月以来の最高水準を記録」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「【代替燃料船発注が8月に急増、LNG燃料船主導で2年ぶり高水準】」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「背景/経緯: DNVの最新調査によれば、2026年8月の代替燃料船発注は52隻に達し、2024年10月以来の最高水準を記録した」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「このうちLNG燃料船が46隻（約88%）を占め、コンテナ船と自動車運搬船が発注を牽引している」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「夏季にかけて発注が加速し、業界の脱炭素化投資姿勢が明確化している」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「- 8月単月で代替燃料船52隻発注、うちLNG燃料46隻（コンテナ船・自動車運搬船が中心）」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「- 2024年10月以来約2年ぶりの高水準、夏季3カ月で発注加速傾向」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
+  - 「TSラインズ、1.1万TEU型船2隻を外高橋造船に発注」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
+  - 「コンテナ船、3年連続で新造発注500万TEU超、中国造船所に集中」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
+  - 「サムデラ、YAMICなどに3000TEU型コンテナ船2隻発注」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
+  - 「大島造船所、ミノア・マリン向けカムサ追加受注、1隻成約」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
+  - 「住友重機械、1～9月海洋・鉄構の受注4割増、メガブロックなど大型案件成約」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
+  - 「中経企業年鑑 2026」（https://www.chukei-news.co.jp/news/2026/06/25/OK0002606250301_06/）
+  - 「TSラインズ、1.1万TEU型船2隻を外高橋造船に発注」（https://www.kaijipress.com/news/shipbuilding/2026/10/205109/）
+  - 「コンテナ船、3年連続で新造発注500万TEU超、中国造船所に集中」（https://www.kaijipress.com/news/shipbuilding/2026/10/205109/）
+  - 「サムデラ、YAMICなどに3000TEU型コンテナ船2隻発注」（https://www.kaijipress.com/news/shipbuilding/2026/10/205109/）
+  - 「大島造船所、ミノア・マリン向けカムサ追加受注、1隻成約」（https://www.kaijipress.com/news/shipbuilding/2026/10/205109/）
+  - 「住友重機械、1～9月海洋・鉄構の受注4割増、メガブロックなど大型案件成約」（https://www.kaijipress.com/news/shipbuilding/2026/10/205109/）
+  - 「企業・事業主ユーザーとして登録すると、プレスリリースの配信・掲載をおこなうことができます」（https://prtimes.jp/topics/keywords/LNG）
+  - 「最新のLNG運搬船では、安全性、積荷の完全性、および運航効率を向上させるため、デュアルフューエル推進システム、ボイルオフガス管理、高度な貯蔵システム、再液化システム、および船舶性能管理のためのデジタルツールがますます採用されています」（https://www.atpress.ne.jp/news/8465940）
+  - 「本調査手法では、市場規模の推計、市場シェアの順位付け、および将来の見通しに基づく収益予測を意図的に除外し、代わりに、検証済みの構造的要因、地域的な傾向、技術の導入状況、政策の動向、ならびにLNG海運、ターミナル、用船、エネルギー調達に関わる利害関係者への実務的な影響に焦点を当てています」（https://www.atpress.ne.jp/news/8465940）
+  - 「この分野は、エネルギー安全保障の優先事項、再ガス化および液化インフラの拡大、排出規制の厳格化、ならびにデジタルおよびAIを活用した運用ツールの導入によって、その様相を変化させつつあります」（https://www.atpress.ne.jp/news/8465940）
 - 顧客の顧客（発注元が求めること）：
+  - 「同プロジェクトは浮体式洋上風力発電のパイロット事業で、ABSが技術評価と認証支援を提供する」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
+  - 「- ABSが浮体構造・係留システム・電力ケーブルの技術評価・認証支援」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
+  - 「LNG運搬船の市場は、エネルギー安全保障、海運の脱炭素化、造船技術の革新、そして進化する世界のガスインフラが交差する位置にあります」（https://www.atpress.ne.jp/news/8465940）
+  - 「認証 (ISCC EU) スキームの認証を地域内で早期に取得した設備のひとつであるとして」（https://eneken.ieej.or.jp/data/13638.pdf）
+  - 「船舶 Macoma が SLNG 基地に到着し、ISCC EU 認証を受けたバイオ LNG カーゴをシ」（https://eneken.ieej.or.jp/data/13638.pdf）
+  - 「ISCC EU 認証の枠組は、EU の再生可能エネルギ」（https://eneken.ieej.or.jp/data/13638.pdf）
+  - 「米国は、 韓国のベンダーやサプライヤーが好条件で参画できるよう支援を行う」（https://eneken.ieej.or.jp/data/13638.pdf）
+  - 「油・ガス事業者が、 発生源レベルおよび設備レベルのメタン測定値を統合した認証済報」（https://eneken.ieej.or.jp/data/13638.pdf）
+  - 「27年度概算要求でも複数省庁がLNG船の国内供給に向けた施策を盛り込むなど、造船振興の枠を超えた国家のプロジェクトとして具体化してきた」（https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0）
+  - 「三菱重工業長崎造船所は事業再構築によって大型商船の新造から実質的に撤退し、現在は防衛艦艇や船舶修繕、脱炭素技術の研究・実証などに軸足を移している」（https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0）
+  - 「一方、脱炭素化に向けてアンモニア・LNG燃料タンクの生産能力増強なども進め、2030年までにゼロエミッション船の建造能力を2・5倍に引き上げる方針だ」（https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0）
+  - 「豊田通商、「再生材サプライヤー」へ進化 金属スクラップで世界トップへ」（https://business.nikkei.com/atcl/gen/19/00179/062900335/）
+  - 「豊田通商、「再生素材サプライヤー」へ／米中間選挙／ESGブランド調査（2026年11月5日版）」（https://business.nikkei.com/atcl/gen/19/00179/062900335/）
+  - 「ケイライン・ウインド・サービス株式会社がISO9001:2015認証を取得」（https://www.kline.co.jp/ja/news.html）
   - 「商船三井／LNG船隊拡大へ フィリピン海技訓練所が認証取得」（https://www.lnews.jp/tag/lng）
-  - 「商船三井／「World LNG Shipping Award」受賞、脱炭素化に貢献」（https://www.lnews.jp/tag/lng）
-  - 「商船三井／事業特化サイト刷新、省エネや脱炭素の取り組みアピール」（https://www.lnews.jp/tag/lng）
-  - 「大島造船所、カスタモヌからバルカー2隻受注、42型と64型、2030年納期」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
-  - 「- 排出削減検証システム（NORDEN・Microsoft、RSB Book & Claim初認証）」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「夏季にかけて発注が加速し、業界の脱炭素化投資姿勢が明確化している」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「ポイント【市場動向/脱炭素/技術】」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「ポイント【脱炭素/技術/規制/コンプライアンス】」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「- RSBは持続可能バイオマス認証で国際的に認知された第三者機関」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「実務への影響: 荷主企業からの排出削減要求に対し、検証可能な手段として活用可能」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「船舶管理会社は荷主との排出削減契約交渉時、RSB認証取得プロセスと追加コストを提示材料とすべき」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「ポイント【脱炭素/技術/市場動向】」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「- ハイブリッド駆動で燃料消費・排出削減、港湾脱炭素化推進」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「実務への影響: ハイブリッド荷役機械の導入は港湾の脱炭素化とコスト削減を両立する手段として普及拡大中」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「LNG運搬船の市場は、エネルギー安全保障、海運の脱炭素化、造船技術の革新、そして進化する世界のガスインフラが交差する位置にあります」（https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true）
 - 顧客の競合（奪いに来る側）：
-  - 「オプティマインド／物流ネットワーク見直しの実行ポイントを解説、11月5・6日無料セミナー」（https://www.lnews.jp/tag/lng）
-  - 「日本郵船／中国CNOOCグループ向け新造LNG船を「GREENERGY RIVER」と命名」（https://www.lnews.jp/tag/lng）
-  - 「商船三井／欧州で自動車船向けバイオLNG燃料の使用拡大へ、アクスポ社とターム契約」（https://www.lnews.jp/tag/lng）
-  - 「商船三井／米国初の洋上LNG液化設備プロジェクトへの出資参画を正式決定」（https://www.lnews.jp/tag/lng）
-  - 「川崎汽船／欧州近海事業向けにLNG燃料の自動車専用船4隻を建造契約」（https://www.lnews.jp/tag/lng）
-  - 「日本郵船／グループ初となるLNG運搬船の女性船長が誕生、台湾の船舶管理会社で」（https://www.lnews.jp/tag/lng）
-  - 「商船三井／インドの大手国営エネルギー会社2社と用船契約を締結」（https://www.lnews.jp/tag/lng）
-  - 「川崎汽船／インドの2社とLNG輸送船の共同保有について基本合意」（https://www.lnews.jp/tag/lng）
-  - 「商船三井／東京ガス向けLNG運搬船にウインドチャレンジャー搭載へ」（https://www.lnews.jp/tag/lng）
-  - 「川崎汽船／インド国営ガス会社と新造LNG船の定期傭船契約」（https://www.lnews.jp/tag/lng）
-  - 「コンテナ船短期運賃、欧州向けは上昇続く」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
-  - 「インド政府、コンテナ製造で1000億ルピー支援、生産能力10倍に」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
-  - 「OOCL、中国―インドネシア航路を開設」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
-  - 「MSC、欧州―豪州航路でスエズ回帰」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
-  - 「中国塗料、27年3月期の通期利益予想を上方修正」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
+  - 「コンテナ船、3年連続で新造発注500万TEU超、中国造船所に集中」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
+  - 「《連載》マーケットを読む！㉕＜自動車船＞、マリントレーダー 徳田斉周社長/長野伸彦取締役自動車船グループ部長/篠原祥自動車船グループ副部長、中国筋は来年の輸出も強気」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
+  - 「Energy との間で、 韓国へのLNG 長期供給に関する SPA (売買契約) を締結したことを」（https://eneken.ieej.or.jp/data/13561.pdf）
+  - 「コンテナ船、3年連続で新造発注500万TEU超、中国造船所に集中」（https://www.kaijipress.com/news/shipbuilding/2026/10/205109/）
+  - 「《連載》マーケットを読む！㉕＜自動車船＞、マリントレーダー 徳田斉周社長/長野伸彦取締役自動車船グループ部長/篠原祥自動車船グループ副部長、中国筋は来年の輸出も強気」（https://www.kaijipress.com/news/shipbuilding/2026/10/205109/）
+  - 「「米国シェール・オイル／ガスの逆襲」と題して、和光大学 経済経営学部 教授／石油技術協会 資源経済委員会 委員長 岩間 剛一氏によるセミナーを2026年11月26日(木)に開催!!」（https://prtimes.jp/topics/keywords/LNG）
+  - 「TBグローバルテクノロジーズ株式会社 中国大手造船会社Wison New Energiesと協業に関する覚書を締結」（https://prtimes.jp/topics/keywords/LNG）
+  - 「インドネシアにおけるLNGインフラ事業開発について ～小型LNG船による島嶼間輸送網を構築～」（https://prtimes.jp/topics/keywords/LNG）
+  - 「本調査手法では、市場規模の推計、市場シェアの順位付け、および将来の見通しに基づく収益予測を意図的に除外し、代わりに、検証済みの構造的要因、地域的な傾向、技術の導入状況、政策の動向、ならびにLNG海運、ターミナル、用船、エネルギー調達に関わる利害関係者への実務的な影響に焦点を当てています」（https://www.atpress.ne.jp/news/8465940）
+  - 「また、欧州では多様化のニーズを通じてLNGへの依存度が高まっており、新興地域では電力の安定供給と産業発展を支えるためにLNGが活用されています」（https://www.atpress.ne.jp/news/8465940）
+  - 「特に欧州ではパイプラインガスからの脱却が進み、アジア太平洋地域では長期的なLNG需要の基盤が維持されています」（https://www.atpress.ne.jp/news/8465940）
+  - 「中国は主要なLNG輸入国であり、米国は主要なLNG輸出拠点です」（https://www.atpress.ne.jp/news/8465940）
+  - 「日本と韓国は成熟したLNG輸入国であり、インドはガスインフラの拡大に取り組んでいます」（https://www.atpress.ne.jp/news/8465940）
+  - 「第15章 競合情勢」（https://www.atpress.ne.jp/news/8465940）
+  - 「026 年 10 月、米国とカナダの LNG プロジェクト開発者は、輸出設備増強に向けた」（https://eneken.ieej.or.jp/data/13638.pdf）
 - 自社の競合（商社・代理店・仲介）：
+  - 「グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です」（https://www.atpress.ne.jp/news/8465940）
+  - 「＜アジア最大の市場調査レポート販売代理店＞」（https://www.atpress.ne.jp/news/8465940）
+  - 「「AI Highlight Agent」のベータ版を提供開始」（https://www.atpress.ne.jp/news/8465940）
+  - 「85 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2077」（https://eneken.ieej.or.jp/data/13638.pdf）
+  - 「87 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2119」（https://eneken.ieej.or.jp/data/13638.pdf）
+  - 「https://www.bundesnetzagentur.de/DE/Allgemeines/DieBundesnetzagentur/Insight/Texte/Energiewende/LNGImp」（https://eneken.ieej.or.jp/data/13638.pdf）
+  - 「正規代理店 Turbine Heat and Power (THP) を通じて受注したこれらのシステムは、」（https://eneken.ieej.or.jp/data/13638.pdf）
   - 「ナイジェリア寄港時は港湾腐敗・遅延リスクを考慮し、代理店選定と事前許可取得プロセスの厳格化が推奨される」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
   - 「グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です」（https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true）
   - 「＜アジア最大の市場調査レポート販売代理店＞」（https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true）
@@ -2344,46 +2371,45 @@
   - 「「コンビニATM＆振込手数料」で選ぶ！」（https://diamond.jp/zai/articles/-/1009024）
   - 「大手不動産仲介は「囲い込み」が蔓延?!」（https://diamond.jp/zai/articles/-/1009024）
   - 「手数料、取引ツールetc.で総合比較！ おすすめネット証券はココだ！」（https://diamond.jp/zai/articles/-/1009024）
-  - 「株式売買手数料」（https://diamond.jp/zai/articles/-/1009024）
-  - 「国内株式の売買手数料が完全無料」（https://diamond.jp/zai/articles/-/1009024）
-  - 「取引報告書などを電子交付するだけで、現物取引、信用取引に加え、単元未満株の売買手数料まで0円になるので、売買コストに関しては圧倒的にお得な証券会社と言える」（https://diamond.jp/zai/articles/-/1009024）
-  - 「米国株の売買手数料が最低0米ドルから取引可能になのも魅力」（https://diamond.jp/zai/articles/-/1009024）
-  - 「◆【SBI証券の特徴とおすすめポイントを解説！】株式投資の売買手数料の安さは業界トップクラス！ IPOや米国株、夜間取引など、商品・サービスも充実」（https://diamond.jp/zai/articles/-/1009024）
-  - 「損保ジャパン、代理店評価で新制度 比較推奨に独自観点も」（https://www.nikkinonline.com/article/434256）
-  - 「商船三井（MOL）は6月4日、米国初となる浮体式液化天然ガス（LNG）生産設備（FLNG）事業（注1）について、設備開発会社デルフィン・ミッドストリーム（本社：テキサス州ヒューストン）、米独立系インフラ投資ファンドのグローバル・インフラストラクチャー・パートナーズ（同：ニューヨーク州ニューヨーク）、スイスのエネルギー商社のビトルとともに最終投資決定（FID）に至り、」（https://www.jetro.go.jp/biznews/2026/06/a2a6b54c646b2ed3.html）
 - 政治（法・予算・規制）：
-  - 「インド政府、コンテナ製造で1000億ルピー支援、生産能力10倍に」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
-  - 「イラン政府高官3名が「耐え難い圧力」と証言」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「- 2030年以降のFuelEU Maritime規制・CII規制強化を見据えた先行投資と推測」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「2030年以降の規制強化を見据え、メタノール・アンモニアへの将来改造可能性を設計段階で確保することが資産価値維持に重要」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「背景/経緯: 米国がイラン原油輸出阻止と制裁逃れ封じ込めを強化する中、イラン政府高官3名がロイター取材に対し「経済的圧力が耐え難い水準」と証言」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「- イラン政府高官3名が「経済的に耐え難い圧力」と証言、譲歩余地なし」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「ポイント【脱炭素/技術/規制/コンプライアンス】」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「- 初期建造時は従来燃料、将来の燃料価格・規制動向に応じて改造可能」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「ポイント【地政学/規制/コンプライアンス/安全/リスク】」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「背景/経緯: ノルウェー政府が風力推進システムと船舶システムの統合技術開発プロジェクトに6800万ノルウェークローネ（約680万米ドル）を投資すると発表」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「- ノルウェー政府、風力推進技術開発に6800万NOK（約680万米ドル）投資」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「政府、電力会社、および産業用購入者が、経済性、信頼性、そして低排出の移行燃料のバランスを図る中、LNG運搬船は、国境を越えたガスの多様化、ピーク時の電力供給の信頼性、産業用燃料の転換、および海上エネルギー物流を支える重要な資産であり続けています」（https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true）
-  - 「本エグゼクティブサマリーは、エネルギー機関、海事規制当局、港湾・ターミナル当局、船級協会のガイダンス、税関および貿易情報源、船舶技術文献、政府の政策文書、業界の技術基準など、公的に検証可能な情報に焦点を当てた、構造化された証拠に基づく調査手法を用いて作成されています」（https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true）
-  - 「本分析では、貿易フロー、インフラ開発、船舶技術、規制要件、地域のエネルギー安全保障上の優先事項、および運航リスク要因に関する定性的評価を通じて、LNG運搬船の動向を評価しています」（https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true）
-  - 「この分野は、エネルギー安全保障の優先事項、再ガス化および液化インフラの拡大、排出規制の厳格化、ならびにデジタルおよびAIを活用した運用ツールの導入によって、その様相を変化させつつあります」（https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true）
+  - 「政府が示した官民投資の工程表案で、２０１９年を最後に途絶えていた液化天然ガス（ＬＮＧ）運搬船の国内...」（https://www.chukei-news.co.jp/news/2026/06/25/OK0002606250301_06/）
+  - 「政府、電力会社、および産業用購入者が、経済性、信頼性、そして低排出の移行燃料のバランスを図る中、LNG運搬船は、国境を越えたガスの多様化、ピーク時の電力供給の信頼性、産業用燃料の転換、および海上エネルギー物流を支える重要な資産であり続けています」（https://www.atpress.ne.jp/news/8465940）
+  - 「本エグゼクティブサマリーは、エネルギー機関、海事規制当局、港湾・ターミナル当局、船級協会のガイダンス、税関および貿易情報源、船舶技術文献、政府の政策文書、業界の技術基準など、公的に検証可能な情報に焦点を当てた、構造化された証拠に基づく調査手法を用いて作成されています」（https://www.atpress.ne.jp/news/8465940）
+  - 「本分析では、貿易フロー、インフラ開発、船舶技術、規制要件、地域のエネルギー安全保障上の優先事項、および運航リスク要因に関する定性的評価を通じて、LNG運搬船の動向を評価しています」（https://www.atpress.ne.jp/news/8465940）
+  - 「この分野は、エネルギー安全保障の優先事項、再ガス化および液化インフラの拡大、排出規制の厳格化、ならびにデジタルおよびAIを活用した運用ツールの導入によって、その様相を変化させつつあります」（https://www.atpress.ne.jp/news/8465940）
+  - 「競争上の優位性は、安全性、効率性、排出性能、貨物の完全性、規制への対応力、そして地政学的・運営上の複雑さを乗り切る能力にますます依存するようになっています」（https://www.atpress.ne.jp/news/8465940）
+  - 「船隊の効率性、規制への備え、およびデジタルレジリエンスを優先すべきです」（https://www.atpress.ne.jp/news/8465940）
+  - 「米国では FERC（連邦エネルギー規制委員会）が提案した包括認可」（https://eneken.ieej.or.jp/data/13638.pdf）
+  - 「枠組と NEPA（国家環境政策法） 審査プロセスの見直しなど、 規制の合理化が進められ」（https://eneken.ieej.or.jp/data/13638.pdf）
+  - 「欧州では、 供給途絶回避の観点で、 メタン排出規制の適用期限を延長するかどうかに」（https://eneken.ieej.or.jp/data/13638.pdf）
+  - 「台湾の行政院は、2026 年 10 月 1 日、エネルギー関連の追加支援予算を承認した 15」（https://eneken.ieej.or.jp/data/13638.pdf）
+  - 「および LPG 供給事業者への補助金 1809.35 億台湾ドルが含まれる」（https://eneken.ieej.or.jp/data/13638.pdf）
+  - 「日、 政府調達に関する閣僚委員会が、 Petrobangla 傘下 RPGCL による 12 月分の LNG」（https://eneken.ieej.or.jp/data/13638.pdf）
+  - 「6 カーゴの調達を承認するよう政府に推奨したと報じた 40」（https://eneken.ieej.or.jp/data/13638.pdf）
+  - 「BBS は、10 月 28 日、政府調達に」（https://eneken.ieej.or.jp/data/13638.pdf）
 - 経済（規模・価格・為替）：
-  - 「船井総研／運送会社経営者向けセミナー「年商10億円の壁を突破する」11月19日、東京で開催」（https://www.lnews.jp/tag/lng）
-  - 「三菱倉庫／阪急阪神エクスプレスの全株式取得へ、取得額は約1213億円」（https://www.lnews.jp/tag/lng）
-  - 「商船三井、通期経常益2950億円に上方修正、期初予想から1500億円上振れ」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
-  - 「三菱倉庫、阪急阪神エクスプレス買収、買収額1213億円」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
-  - 「TSラインズ、1～9月売上高は17%増の11億ドル、輸送量は減少」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
-  - 「2030年以降の燃料価格変動リスクをヘッジする資産保全策として有効」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「- 中古船市場でスプラマックス相場は堅調、1450万ドルは市場価格並み」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「- 株価はNOK94.70、市場価格並みでの売却、ディスカウントなし」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「War Risk Claims Top $2 Billion as Shipping Attacks Spread Beyond Hormuz」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「Norway Launches NOK 68 Million Project to Accelerate Wind-Powered Shipping」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「LNG運搬船市場は、2032年までにCAGR7.71％で261億2,000万米ドル規模に拡大すると予測されています」（https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true）
-  - 「CAGR（%） 7.71%」（https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true）
-  - 「CAGRは7.71%です」（https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true）
-  - 「電池技術市場は2035年に2,560億8,000万米ドルへ拡大、次世代電池・エネルギー貯蔵技術の進化によりCAGR7.76％で成長」（https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true）
-  - 「低温水ガスシフト用触媒の世界市場（2026年～2032年）、市場規模（鉄系LTS触媒、銅系LTS触媒、クロム系LTS触媒、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/8465940?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true）
+  - 「川崎汽船の新中計、31年度自営事業純利益1200億円＋α、5年間で1兆2500億円投資」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
+  - 「川崎汽船・4～9月期、経常益ほぼ倍増の1183億円、ドライ・コンテナ好調」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
+  - 「玉井商船・4～9月期、経常益14倍の6億5900万円」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
+  - 「JMU、4～9月期経常益65%増の262億円、通期も増益見込む」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
+  - 「牢性を高めるため、2338.34 億台湾元の増資および 1014.31 億台湾元の価格差補填補助」（https://eneken.ieej.or.jp/data/13561.pdf）
+  - 「川崎汽船の新中計、31年度自営事業純利益1200億円＋α、5年間で1兆2500億円投資」（https://www.kaijipress.com/news/shipbuilding/2026/10/205109/）
+  - 「川崎汽船・4～9月期、経常益ほぼ倍増の1183億円、ドライ・コンテナ好調」（https://www.kaijipress.com/news/shipbuilding/2026/10/205109/）
+  - 「玉井商船・4～9月期、経常益14倍の6億5900万円」（https://www.kaijipress.com/news/shipbuilding/2026/10/205109/）
+  - 「JMU、4～9月期経常益65%増の262億円、通期も増益見込む」（https://www.kaijipress.com/news/shipbuilding/2026/10/205109/）
+  - 「LNG運搬船市場は、2032年までにCAGR7.71％で261億2,000万米ドル規模に拡大すると予測されています」（https://www.atpress.ne.jp/news/8465940）
+  - 「CAGR（%） 7.71%」（https://www.atpress.ne.jp/news/8465940）
+  - 「CAGRは7.71%です」（https://www.atpress.ne.jp/news/8465940）
+  - 「マルチコアCANバスケーブルの世界市場（2026年～2032年）、市場規模（直径：AWG 20/7、直径：AWG 22/7、直径：AWG 24/7、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/8465940）
+  - 「140DB HDR CMOSイメージセンサーの世界市場（2026年～2032年）、市場規模（画素サイズ：2.1 µm、画素サイズ：3 µm）・分析レポートを発表」（https://www.atpress.ne.jp/news/8465940）
+  - 「バナジウム酸ビスマスの世界市場（2026年～2032年）、市場規模（グリーンシェードイエロー、ミディアムシェードイエロー、レッドシェードイエロー）・分析レポートを発表」（https://www.atpress.ne.jp/news/8465940）
 - 社会（人・担い手）：
+  - 「Proud Partners/総和運輸、海コン陸送で特定技能人財活用」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
+  - 「Proud Partners/総和運輸、海コン陸送で特定技能人財活用」（https://www.kaijipress.com/news/shipbuilding/2026/10/205109/）
+  - 「を確保し、新規投資・雇用・経済成長を促進するとともに、将来にわたって自国のエネ」（https://eneken.ieej.or.jp/data/13638.pdf）
+  - 「この国策を長崎の新たな投資や雇用にどう結び付けるかが重要」と指摘する」（https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0）
+  - 「官民約3000億円の投資を設備増強だけに終わらせず、人材や関連産業を含む裾野の広い集積につなげられるか」（https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0）
+  - 「Building the Maritime Workforce」（https://www.marinelink.com/news/new-lng-carrier-tokyo-gas-named-442183）
   - 「LNEWS／物流人材「次世代の採用フォーメーション」テーマに11月25日セミナー開催」（https://www.lnews.jp/tag/lng）
   - 「カ・アフォーダビリティ・雇用法案を提出した59」（https://eneken.ieej.or.jp/data/13561.pdf）
   - 「私たちは常に、業界に関する専門知識、問題解決能力、意欲を兼ね備えた優秀な人材を募集しています」（https://www.mordorintelligence.com/ja/industry-reports/lng-carriers-market）
@@ -2393,29 +2419,28 @@
   - 「設計・建造の専門人材が1,000人規模で不足しており、タンクの溶接等のスキルの標準化やリ・スキリングを進めます」（https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html）
   - 「・設計・現場双方での人材の確保」（https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html）
   - 「・LNG運搬船の設計・建造に必要な人材の確保・育成に向けた教育研究体制等の整備」（https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html）
-  - 「長期の安定発注が見通せない、ノウハウ・設備がない、コストが高い、人材がいない」（https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html）
-  - 「原文の政策パッケージでは、「地域未来戦略と連携しながら、瀬戸内や九州を中心とした造船関連産業の集積地域」での建造能力の強靱化や、大規模な造船人材の確保・育成を検討するとしています」（https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html）
-  - 「専門人材（溶接・断熱加工など）の育成」（https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html）
-  - 「施策は、需要サイドと供給サイドの協働による供給体制の構築、同志国の建造ノウハウ等の戦略的な組み合わせ、人材の確保・育成に向けた教育研究体制等の整備です」（https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html）
-  - 「日本の船社・需要家のLNG船隊は2025年末時点で約200隻ありますが、主流のメンブレン型については設計・建造ノウハウも設備もなく、サプライチェーンの途絶による船価の高さや、1,000人規模の人材育成の必要性が課題です」（https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html）
-  - 「（３）設計・建造双方で、専門的な作業を必要とするため、そのための人材育成が1,000人規模で必要」（https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html）
 - 技術（新しい技術・実証）：
-  - 「LNEWS／物流人材「次世代の採用フォーメーション」テーマに11月25日セミナー開催」（https://www.lnews.jp/tag/lng）
-  - 「CBRE・APT／愛知「HUB YATOMI」で倉庫自動化および物流不動産マーケットセミナー＆内覧会を11月6日開催」（https://www.lnews.jp/tag/lng）
-  - 「商船三井／風力・LNGハイブリッド石炭輸送船「MAIZURU KAZENOMAI」が竣工」（https://www.lnews.jp/tag/lng）
-  - 「川崎汽船／英国子会社が液化CO2貯蔵・輸送プロジェクトを共同開発」（https://www.lnews.jp/tag/lng）
-  - 「日本郵船、川崎汽船など／カタール向け新造LNG船「AL ZUWAIR」が竣工」（https://www.lnews.jp/tag/lng）
-  - 「テレダイン、航海情報の活用、運用改革へ、次世代規格に対応」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
-  - 「アルファ・ラバル、シュライバー氏に聞く、従来製品と新技術、双方に投資」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
-  - 「ノアロジー、アヴィバと連携、AIで3D設計の確認業務を効率化」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
-  - 「Daily Cargo」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
-  - 「© Kaiji Press Co., Ltd. All rights reserved.」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
-  - 「- 風力推進技術開発（ノルウェー6800万クローネプロジェクト開始）」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「- 排出削減検証システム（NORDEN・Microsoft、RSB Book & Claim初認証）」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「- NORDENとMicrosoftが海運業界初の検証済み排出削減をRSB Book & Claimレジストリ経由で実現」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「出典: gCaptain / Ship & Bunker」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
-  - 「- メタノール・アンモニア等の次世代燃料船は全体の約12%に留まる」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
+  - 「《連載》深化する海技力の価値＜上＞、邦船の海技者、役割広がる、新技術・事業開発の基盤に」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
+  - 「川崎重工、大型液化水素ローディングアームの開発に着手、33年度上市へ」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
+  - 「記者座談会/造船この1カ月、造船投資、世界で本格化、日本は設備増強と連携、AIで建造力向上へ」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
+  - 「- 海運業界初のRSB Book & Claim経由検証済み排出削減達成」（https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5）
+  - 「Aichi Sky Expo（愛知県国際展示場）ホールC」（https://www.chukei-news.co.jp/news/2026/06/25/OK0002606250301_06/）
+  - 「次世代リーダーのための成功の循環モデル 実践講座」（https://www.chukei-news.co.jp/news/2026/06/25/OK0002606250301_06/）
+  - 「《連載》深化する海技力の価値＜上＞、邦船の海技者、役割広がる、新技術・事業開発の基盤に」（https://www.kaijipress.com/news/shipbuilding/2026/10/205109/）
+  - 「川崎重工、大型液化水素ローディングアームの開発に着手、33年度上市へ」（https://www.kaijipress.com/news/shipbuilding/2026/10/205109/）
+  - 「記者座談会/造船この1カ月、造船投資、世界で本格化、日本は設備増強と連携、AIで建造力向上へ」（https://www.kaijipress.com/news/shipbuilding/2026/10/205109/）
+  - 「TBグローバルテクノロジーズ株式会社「ADIPEC 2026」に出展 次世代エネルギーの海上荷役ソリューションを世界へ発信」（https://prtimes.jp/topics/keywords/LNG）
+  - 「TBグローバルテクノロジーズ株式会社「Hydrogen Technology World Expo 2026」に出展液化水素をはじめとする次世代エネルギーの海上荷役ソリューションを世界へ発信」（https://prtimes.jp/topics/keywords/LNG）
+  - 「世界初*¹、液化水素の船陸間荷役を支える商用仕様6インチローディングアーム川崎重工とTBGが共同開発を完了」（https://prtimes.jp/topics/keywords/LNG）
+  - 「インドネシアにおけるLNGインフラ事業開発について ～小型LNG船による島嶼間輸送網を構築～」（https://prtimes.jp/topics/keywords/LNG）
+  - 「LNG輸送への需要は、長距離貿易の流れ、再ガス化ターミナルの開発、浮体式貯蔵・再ガス化設備（FSRU）、そして地政学的混乱下における柔軟な供給ルートの必要性によって形作られています」（https://www.atpress.ne.jp/news/8465940）
+  - 「本分析では、貿易フロー、インフラ開発、船舶技術、規制要件、地域のエネルギー安全保障上の優先事項、および運航リスク要因に関する定性的評価を通じて、LNG運搬船の動向を評価しています」（https://www.atpress.ne.jp/news/8465940）
 - 検索結果の抜粋：
+  - 「LNG船 、建造再開へ 中韓勢と競争、課題山積み — LNG船 、建造再開へ 中韓勢と競争、課題山積み chukei-news.co.jp https://www.chukei-news.co.jp > news > 2026/06/25」（https://www.chukei-news.co.jp/news/2026/06/25/OK0002606250301_06/）
+  - 「三菱重工と川重、 LNG船 を2隻ずつ受注−燃費改善技術を駆使 — 三菱重工と川重、 LNG船 を2隻ずつ受注−燃費改善技術を駆使 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/357289）
+  - 「MISC Thailib lng carrier debuts at adipec 2026 - Facebook — MISC Thailib lng carrier debuts at adipec 2026 - Facebook Facebook https://www.facebook.com > adipecofficialpage > posts」（https://www.facebook.com/adipecofficialpage/posts/misc-has-named-thailib-the-first-of-three-174000-cubic-metre-lng-carriers-secure/1603311731838596/）
+  - 「Q1 LNG carrier orders surpass full-year 2025 levels — Q1 LNG carrier orders surpass full-year 2025 levels rivieramm.com https://www.rivieramm.com > q1-lng-...」（https://www.rivieramm.com/news-content-hub/news-content-hub/q1-lng-carrier-orders-surpass-full-year-2025-levels-on-strong-long-term-charter-demand-88546）
+  - 「Japan moves to resurrect LNG carrier construction - Splash247 — Japan moves to resurrect LNG carrier construction - Splash247 Splash247 https://splash247.com > japan-moves-...」（https://splash247.com/japan-moves-to-resurrect-lng-carrier-construction/）
   - 「LNG船 新造需要、35年までに550隻GTT予測、見通し上方修正 — LNG船 新造需要、35年までに550隻GTT予測、見通し上方修正 海事プレスONLINE https://www.kaijipress.com > 造船・舶用」（https://www.kaijipress.com/news/shipbuilding/2026/08/203588/）
   - 「カタールエナジー傘下 LNG船 がホルムズ海峡通過、約3週間 ... — カタールエナジー傘下 LNG船 がホルムズ海峡通過、約3週間 ... Reuters https://www.reuters.com > world > HC2K4DHLTFJ4TLH...」（https://www.reuters.com/jp/world/us/HC2K4DHLTFJ4TLHDRTPFVPNKGU-2026-07-30/）
   - 「LNG運搬船 市場― 2026年 ～2032年の世界市場予測 — LNG運搬船 市場― 2026年 ～2032年の世界市場予測 アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/8465940）
@@ -2426,31 +2451,31 @@
   - 「LNG運搬船 市場規模・シェア分析レポート2031年 — LNG運搬船 市場規模・シェア分析レポート2031年 Mordor Intelligence https://www.mordorintelligence.com > lng-carriers-market」（https://www.mordorintelligence.com/ja/industry-reports/lng-carriers-market）
   - 「国産 LNG船 建造へ 設備投資 、3200億円で修繕所も — 国産 LNG船 建造へ 設備投資 、3200億円で修繕所も ニッキンONLINE https://www.nikkinonline.com > 業界動向 > 造船・海運」（https://www.nikkinonline.com/article/434256）
   - 「LNG運搬船 とは｜2035年以降に年3-5隻を国内で建造する体制へ — LNG運搬船 とは｜2035年以降に年3-5隻を国内で建造する体制へ 日本DX地域創生応援団 https://digital-supporter.net > ... > (8) 造船」（https://digital-supporter.net/mirai-ai/17invest/lng-unpansen.html）
-  - 「【 LNG運搬船 造船基盤の維持を！ 】 2026年 3月6日 衆議院 ... — 【 LNG運搬船 造船基盤の維持を！ 】 2026年 3月6日 衆議院 ... YouTube https://www.youtube.com > shorts > gpBSi2_LVjc」（https://www.youtube.com/shorts/gpBSi2_LVjc）
-  - 「積載容量を15％増やした LNG運搬船 用モス型タンク開発 — 積載容量を15％増やした LNG運搬船 用モス型タンク開発 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/430858）
-  - 「World's Largest 271,000 cbm LNG Carrier enters construction ... — World's Largest 271,000 cbm LNG Carrier enters construction ... LinkedIn https://www.linkedin.com > pulse > w...」（https://www.linkedin.com/pulse/worlds-largest-271000-cbm-lng-carrier-enters-china-yang-chen-%E9%99%88%E6%B4%8B--dzmzf）
-  - 「Japan Resumes LNG Carrier Construction, With Break From ... — Japan Resumes LNG Carrier Construction, With Break From ... economy.ac https://economy.ac > 202603288700」（https://economy.ac/news/2026/03/202603288700）
-  - 「MISC orders small-scale LNG carrier for Japan trade — MISC orders small-scale LNG carrier for Japan trade Splash247 https://splash247.com > misc-orders-s...」（https://splash247.com/misc-orders-small-scale-lng-carrier-for-japan-trade/）
 
 ## 永久磁石（permanent magnet）
 - 文脈：9 マテリアル ①永久磁石
 - 顧客（金を払う側）：
-  - 「特に電気自動車（EV）の駆動モーター、産業用モーター、ポンプ、風力発電機、家電、電子機器、ロボット・アクチュエータなどでは、磁石の安定調達が製品のコストと供給安定性を左右します」（https://newscast.jp/smart/news/4424103）
-  - 「最大用途はEV駆動モーター、供給網の強靭化が採用を後押し」（https://newscast.jp/smart/news/4424103）
-  - 「自動車メーカーにとって、磁石材料の選択は単なる部品コストの問題ではなく、モーター効率、出力密度、熱特性、車両性能、さらには原材料の調達リスクに直結します」（https://newscast.jp/smart/news/4424103）
-  - 「こうした背景から、自動車メーカーやモーターサプライヤーは、希土類使用量を削減する技術だけでなく、希土類を完全に使用しないモーター構成や磁石材料の研究も進めています」（https://newscast.jp/smart/news/4424103）
-  - 「ただし、これらの材料には量産化、相安定性、保磁力、加工性などの技術的課題が残されています」（https://newscast.jp/smart/news/4424103）
-  - 「北米も有望市場として位置付けられており、重要鉱物・磁性材料の国内調達能力を高める動きが、新規材料や製造技術の商業化を後押しすると考えられます」（https://newscast.jp/smart/news/4424103）
-  - 「レアアースフリー永久磁石市場の主要企業」（https://newscast.jp/smart/news/4424103）
-  - 「• その他主要企業」（https://newscast.jp/smart/news/4424103）
-  - 「• 産業機器メーカー」（https://newscast.jp/smart/news/4424103）
-  - 「• ロボットメーカー」（https://newscast.jp/smart/news/4424103）
-  - 「企業登録申請」（https://prtimes.jp/topics/keywords/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3）
-  - 「企業・事業主のお客様」（https://prtimes.jp/topics/keywords/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3）
-  - 「企業・事業主ユーザーとして登録すると、プレスリリースの配信・掲載をおこなうことができます」（https://prtimes.jp/topics/keywords/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3）
-  - 「企業・事業主ユーザーで」（https://prtimes.jp/topics/keywords/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3）
-  - 「企業様からのお問い合わせ」（https://prtimes.jp/topics/keywords/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3）
+  - 「自動車メーカーはEVの航続距離や効率を維持しながら、原材料調達リスクを低減する必要があるため、希土類フリー磁石の性能評価とモーター設計の最適化を並行して進めています」（https://www.atpress.ne.jp/news/4424103）
+  - 「一方、産業機器メーカー、風力発電事業者、ロボットメーカーも重要な需要先となっています」（https://www.atpress.ne.jp/news/4424103）
+  - 「永久磁石は産業用サーボモーターやロボットアクチュエータなどにも使用されるため、製造業の自動化とロボット導入の拡大は、中長期的な需要創出要因となります」（https://www.atpress.ne.jp/news/4424103）
+  - 「今後は、磁気性能、製造コスト、耐熱性、量産性、原材料の安定調達、環境負荷を同時に満たせる材料が市場で優位性を獲得すると考えられます」（https://www.atpress.ne.jp/news/4424103）
+  - 「日本の大同電子が量産している等方性SmFeNボンド磁石は112 kJ/m³、およそ14 MGOeである」（https://note.com/all_zero/n/n639df77e8576）
+  - 「更に、中国国内で外国組織・個人に輸出する場合も規制（「みなし輸出」規制の導入）」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「採掘から分離・精製までを豪企業又は中国企業、電解精錬から磁石合金製造までを日本合金メーカー、磁石製造を日本磁」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「石メーカー、最終製品を部品・製品メーカーが行うSC」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「調達するためのネオジム磁石リサイクル設備投資と低コストリサイクル技術開発、併せて、レアアース(特に重希土類) フリー磁」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「（取組２）廃磁石からのレアアース原料リサイクル技術の開発・導入」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「量産を可能とする能力を国内確保した上、技術流出防止を的確に図りながら海外生産能力を増強する取組も対象）」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「• サマリウムコバルト磁石の製造設備投資は年100 トン以上の能力保持」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「• 重希土類フリー永久磁石の製造設備投資は年100 トン以上の能力保持」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「取組対象：既存のリサイクルプロセス設備増強は当該設備にて年500トン以上のネオジム磁石生産、新規リサイクル技術設備導入は当該設備にて年200トン以上」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「上、で電気自動車において採用され得るものを実現する」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
 - 顧客の顧客（発注元が求めること）：
+  - 「温度特性に優れているため温度安定性が要求される用途に適しています」（https://www.neomag.jp/）
+  - 「• 2027年: 市場参加者は、長期購入契約、磁石リサイクル、地域生産投資、代替サプライヤー認定を加速する可能性」（https://newscast.jp/news/6210303）
+  - 「電動化・脱炭素化政策は、製造業や自動車メーカーに高性能磁石の需要を喚起し、企業の設備投資や研究開発を促進します」（https://newscast.jp/news/6210303）
+  - 「For markets, the expected spring summit is not a ceremony. It is the last plausible window to shape commercial access before procurement teams must plan for a November cliff. And that’s an incredibly serious matter from a national security lens.」（https://rareearthexchanges.com/news/the-november-2026-usa-and-china-magnet-clock-is-ticking/）
+  - 「JL MAG has become one of the fastest-growing NdFeB producers, with reported capacity exceeding 25,000 tonnes annually and a customer base skewed heavily toward EV manufacturers including European OEMs. The company has invested in grain boundary diffusion (GBD) technology, which reduces」（https://rare-earth-mining.com/top-10-rare-earth-magnet-manufacturers/）
   - 「こうした背景から、自動車メーカーやモーターサプライヤーは、希土類使用量を削減する技術だけでなく、希土類を完全に使用しないモーター構成や磁石材料の研究も進めています」（https://newscast.jp/smart/news/4424103）
   - 「焼結技術は磁石の密度や磁気特性を確保しやすく、モーターなど性能要求の高い用途との親和性があります」（https://newscast.jp/smart/news/4424103）
   - 「• 自動車OEMおよびティア1サプライヤー」（https://newscast.jp/smart/news/4424103）
@@ -2461,69 +2486,70 @@
   - 「焼結技術は磁石の密度や磁気特性を確保しやすく、モーターなど性能要求の高い用途との親和性があります」（https://www.atpress.ne.jp/news/4424103）
   - 「• 自動車OEMおよびティア1サプライヤー」（https://www.atpress.ne.jp/news/4424103）
   - 「自動車OEM・Tier-1が市場形成の中心に」（https://www.atpress.ne.jp/news/4424103）
-  - 「エンドユーザー別では、**Automotive OEMs & Tier-1s（自動車OEM・Tier-1サプライヤー）**が2025年に最大の市場シェアを占めています」（https://www.atpress.ne.jp/news/4424103）
-  - 「私たちは、様々な業種にわたる非常に要求の厳しいクライアントのために、比類のない、詳細かつ驚くほど正確な見積りと予測を提供することに誇りを持っています」（https://www.atpress.ne.jp/news/4424103）
-  - 「スピーカーは動作温度が低く、減磁への要求が緩く、磁気回路がヨークで閉じているため自己減磁も小さい」（https://note.com/all_zero/n/n639df77e8576）
-  - 「高性能製品は、技術的障壁が高く認証サイクルが長いため、相対的に強い交渉力を持ち、上昇する原材料コストの一部を転嫁することが可能です」（https://www.atpress.ne.jp/news/8860744）
-  - 「具体的には、原材料とそのサプライヤーに関する情報、Nd-Fe-B磁石の製造コスト構造の内訳、製造プロセスの分析、およびNd-Fe-B磁石の産業チェーン構造が説明されています」（https://www.atpress.ne.jp/news/8860744）
 - 顧客の競合（奪いに来る側）：
-  - 「エンドユーザー別では、**Automotive OEMs & Tier-1s（自動車OEM・Tier-1サプライヤー）**が2025年に最大の市場シェアを占めています」（https://newscast.jp/smart/news/4424103）
-  - 「ニュースのシェア」（https://newscast.jp/smart/news/4424103）
-  - 「世界最強の永久磁石開発の功績により、日本人科学者が2024年度欧州発明家賞を受賞」（https://prtimes.jp/topics/keywords/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3）
-  - 「欧州特許庁（EPO）」（https://prtimes.jp/topics/keywords/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3）
-  - 「エンドユーザー別では、**Automotive OEMs & Tier-1s（自動車OEM・Tier-1サプライヤー）**が2025年に最大の市場シェアを占めています」（https://www.atpress.ne.jp/news/4424103）
-  - 「日本のスマートメーター市場規模2024年シェア、成長洞察、競争環境、収益、最新動向、SWOT分析、2032年までの予測」（https://www.atpress.ne.jp/news/4424103）
-  - 「GCC翻訳サービス市場分析 2024年 シェア、市場規模、成長洞察、上位国データ、主要企業、2032年までの機会および課題予測」（https://www.atpress.ne.jp/news/4424103）
-  - 「米国防総省が「レアアースを使わない磁石」に約240億円」（https://note.com/all_zero/n/n639df77e8576）
-  - 「2026年8月7日、米国防総省の戦略資本局が、ミネソタ州のスタートアップに最大1億5000万ドル（約240億円）を融資する方針を発表した」（https://note.com/all_zero/n/n639df77e8576）
-  - 「ネオジム磁石の用途別シェアでも自動車が最大である」（https://note.com/all_zero/n/n639df77e8576）
-  - 「IEAは、中国以外での磁石用レアアース需要が2035年までに5割増えるとし、その最大の押し上げ要因はEVの普及だとしている」（https://note.com/all_zero/n/n639df77e8576）
-  - 「米国のUSA Rare Earthは、データセンター冷却向けネオジム磁石の設計と試験でMoog社と覚書を結んでいる」（https://note.com/all_zero/n/n639df77e8576）
-  - 「中国の工業情報化省は、2026年の生産が10万台を超えうるとしている」（https://note.com/all_zero/n/n639df77e8576）
-  - 「中国のシェアは、磁石用レアアースの採掘で約6割、精製で9割超、そして永久磁石の生産ではほぼ95%に達する」（https://note.com/all_zero/n/n639df77e8576）
-  - 「2025年4月、中国はサマリウム、ガドリニウム、テルビウム、ジスプロシウム、ルテチウム、スカンジウム、イットリウムの7元素と、その金属・酸化物・合金・磁石材料を許可制の対象にした」（https://note.com/all_zero/n/n639df77e8576）
+  - 「採掘から分離・精製までを豪企業又は中国企業、電解精錬から磁石合金製造までを日本合金メーカー、磁石製造を日本磁」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「これにより、原料の安定調達だけでなく、価格競争力も向上する可能性」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「本分析では、市場規模、市場シェア、予測値は提示せず、技術導入の促進要因、規制動向、地域ごとの産業パターン、材料サプライチェーンの動向、およびアプリケーションレベルの使用事例を評価しています」（https://www.atpress.ne.jp/news/4026387）
+  - 「地域ごとの動向はさまざまで、アジア太平洋地域は製造と電動モビリティの規模拡大を牽引し、欧州は規制と循環型経済を重視し、北米は先進製造とサプライチェーンの安全性を強化し、新興地域はインフラ、産業、エネルギーアクセス向けに高効率モーターを導入しています」（https://www.atpress.ne.jp/news/4026387）
+  - 「第16章 競合情勢」（https://www.atpress.ne.jp/news/4026387）
+  - 「– 欧州で生まれ、アメリカの礎を築き、」（https://motorcars.jp/sankei-giken-develops-ferromagnetic-iron-nitride-based-magnets-and-next-generation-automotive-electric-motors-20251107）
+  - 「スズキ、インドでの認定中古車事業が25周年・累計販売650万台に」（https://motorcars.jp/sankei-giken-develops-ferromagnetic-iron-nitride-based-magnets-and-next-generation-automotive-electric-motors-20251107）
+  - 「鴻池運輸、インド北東部でトラックドライバーの育成・採用を開始」（https://motorcars.jp/sankei-giken-develops-ferromagnetic-iron-nitride-based-magnets-and-next-generation-automotive-electric-motors-20251107）
+  - 「中国以外での生産能力拡充計画は供給のレジリエンス向上に寄与し得るが、単に採掘能力を増やすだけでなく、技術的に信頼性の高い分離、合金化、磁石生産能力が必要となる」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
+  - 「?寧波雲生有限公司は1994年に設立され、中国浙江省寧波市に本拠を置く、世界有数の高機能製品メーカーである」（https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-china-2026/）
+  - 「. .寧波雲昇の製品は、主に新エネルギー自動車（NEV）のメインドライブモーター、風力発電機、産業用サーボモーター、ロボットモーター、ハイエンド家電などの分野で使用され、お客様のモーター効率の向上、コスト管理、サプライチェーンの安定に貢献しています」（https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-china-2026/）
+  - 「“「EVメインドライブモーターの納入において、寧波雲生ほど安定したサプライヤーを見つけるのは難しい」（https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-china-2026/）
+  - 「中国レアアース輸出規制における影響について」（https://www.neomag.jp/）
+  - 「米国の焼結レアアース永久磁石メーカーのノベオン(Noveon)マグネティクスは19日、大規模成長が見込める段階での資金調達、ラウンドCで2億1500万ドルの増資に成功した」（https://dempa-digital.com/article/705804）
+  - 「ノべオンは、中国が90%以上支配するレアアース磁石市場で、米国内唯一の本格稼働している焼結ネオジム（NdFeB）メーカーとして位置付けられている」（https://dempa-digital.com/article/705804）
 - 自社の競合（商社・代理店・仲介）：
+  - 「「AI Highlight Agent」のベータ版を提供開始」（https://www.atpress.ne.jp/news/4424103）
+  - 「グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です」（https://www.atpress.ne.jp/news/4026387）
+  - 「＜アジア最大の市場調査レポート販売代理店＞」（https://www.atpress.ne.jp/news/4026387）
+  - 「「AI Highlight Agent」のベータ版を提供開始」（https://www.atpress.ne.jp/news/4026387）
+  - 「グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です」（https://newscast.jp/smart/news/4254819）
+  - 「＜アジア最大の市場調査レポート販売代理店＞」（https://newscast.jp/smart/news/4254819）
+  - 「Commissioned Research :」（https://newscast.jp/news/6210303）
+  - 「https://www.reportocean.co.jp/commissioned-research-services」（https://newscast.jp/news/6210303）
+  - 「’ Northlake “10X” campus is targeting 2028 commissioning, not 2026, while」（https://rareearthexchanges.com/news/the-november-2026-usa-and-china-magnet-clock-is-ticking/）
   - 「また、これにより深刻なコストの不安定化も招かれており、原材料価格の変動が製造マージンや長期契約の採算性に悪影響を及ぼす事態も生じています」（https://newscast.jp/news/1930453）
   - 「その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
   - 「グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です」（https://www.atpress.ne.jp/news/4254819）
   - 「＜アジア最大の市場調査レポート販売代理店＞」（https://www.atpress.ne.jp/news/4254819）
   - 「Commissioned Research :」（https://www.atpress.ne.jp/news/9399503）
   - 「https://www.reportocean.co.jp/commissioned-research-services」（https://www.atpress.ne.jp/news/9399503）
-  - 「「AI Highlight Agent」のベータ版を提供開始」（https://www.atpress.ne.jp/news/9399503）
-  - 「U.S. International Trade Commission (USITC)」（https://www.duramag.com/techtalk/magnet-news/understanding-the-2026-section-301-tariffs-on-permanent-magnets-what-the-market-needs-to-know/）
-  - 「tariff exclusion schedules and implementing guidance published by the Office of the United States Trade Representative (USTR); Harmonized Tariff Schedule interpretations issued by the U.S. International Trade Commission (USITC), including」（https://www.duramag.com/techtalk/magnet-news/understanding-the-2026-section-301-tariffs-on-permanent-magnets-what-the-market-needs-to-know/）
 - 政治（法・予算・規制）：
-  - 「「経済安全保障重要技術育成プログラム」で重希土フリー磁石／レアアースフリー磁石開発と次世代磁石に適したモーターの設計開発に着手」（https://prtimes.jp/topics/keywords/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3）
-  - 「予算5万円で始めるフィジカルAI──ソフトウェアエンジニアのためのロボットアーム「SO-ARM101」入門」（https://fabscene.com/new/news/niron-magnetics-rare-earth-free-magnet-plant/）
-  - 「この規制は一度も止まっていない」（https://note.com/all_zero/n/n639df77e8576）
-  - 「CSISの調査によれば、規制前8か月に333トン超あった対米イットリウム輸出は、規制後8か月で17トンまで減った」（https://note.com/all_zero/n/n639df77e8576）
-  - 「そして規制が名指ししているのは、ネオジム磁石とサマリウムコバルト磁石である」（https://note.com/all_zero/n/n639df77e8576）
-  - 「工場の稼働は2027年、防衛システムへの搭載には数年の適格性認定がいる」（https://note.com/all_zero/n/n639df77e8576）
-  - 「2026年11月の期限にも、2027年1月の調達規制にも間に合わない」（https://note.com/all_zero/n/n639df77e8576）
-  - 「政府が買ったのは製品ではなく選択肢だ」（https://note.com/all_zero/n/n639df77e8576）
-  - 「規制の対象がネオジム磁石とサマリウムコバルト磁石である以上、窒化鉄はそもそも規制の外側に立てる」（https://note.com/all_zero/n/n639df77e8576）
-  - 「この規制は一度も停止されていない」（https://note.com/all_zero/n/n639df77e8576）
-  - 「Tech Times「Pentagon Bets $150M on Chemistry to Make China's Rare Earth Export Controls Irrelevant」」（https://note.com/all_zero/n/n639df77e8576）
-  - 「#経済安全保障」（https://note.com/all_zero/n/n639df77e8576）
-  - 「中国による希土類鉱業の総量規制および割当管理、ならびに2025年に実施される予定のジスプロシウムやテルビウムなどの中・重希土類の輸出規制により、原材料の供給は逼迫しており、コストを強力に下支えしている」（https://www.atpress.ne.jp/news/8860744）
-  - 「EV生産、洋上風力発電の調達、産業用モーターの規制は、それぞれ異なる購買サイクルを生み出すが、いずれも高保磁力磁石グレードへの需要と、より安定した材料供給体制の必要性を高めている」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
-  - 「EUの産業用モーター効率規制」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
+  - 「１．レアアース関連品目の「再輸出規制」（外国での輸出を規制）」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「国際的なエネルギー効率機関によると、世界の電力消費の相当部分を占めるモーター駆動システムにおいて、エネルギー効率規制、輸送・産業の電動化、工場自動化、およびライフサイクルにおけるエネルギー消費の削減ニーズが、需要を後押ししています」（https://www.atpress.ne.jp/news/4026387）
+  - 「本エグゼクティブサマリーは、政府のエネルギー効率化プログラム、国際エネルギー機関、標準化団体、通商政策文書、重要鉱物評価、自動車および産業の電動化に関する出版物、学術研究、ならびにモーター設計およびパワーエレクトロニクスに関する技術文献など、検証済みの公開情報および業界情報源を用いた体系的な2次調査手法を通じて作成されました」（https://www.atpress.ne.jp/news/4026387）
+  - 「本分析では、市場規模、市場シェア、予測値は提示せず、技術導入の促進要因、規制動向、地域ごとの産業パターン、材料サプライチェーンの動向、およびアプリケーションレベルの使用事例を評価しています」（https://www.atpress.ne.jp/news/4026387）
+  - 「この分野の方向性は、より厳格な効率規制、AIを活用したエンジニアリング、コネクテッドメンテナンスモデル、統合型モーター・ドライブシステム、および磁石供給のレジリエンスに対する関心の高まりによって形作られています」（https://www.atpress.ne.jp/news/4026387）
+  - 「地域ごとの動向はさまざまで、アジア太平洋地域は製造と電動モビリティの規模拡大を牽引し、欧州は規制と循環型経済を重視し、北米は先進製造とサプライチェーンの安全性を強化し、新興地域はインフラ、産業、エネルギーアクセス向けに高効率モーターを導入しています」（https://www.atpress.ne.jp/news/4026387）
+  - 「ネオジム磁石では保磁力と温度特性の向上のために、重希土類元素であるテルビウム(Tb)とジスプロシウム(Dy)の添加が必要だが、これらの重希土類元素はネオジム(Nd)と同様に特定の産出国への依存性が高く、産出国からの輸出規制対象物質になることが多いため、ネオジム磁石のコストと供給リスクをより一層高くしている」（https://motorcars.jp/sankei-giken-develops-ferromagnetic-iron-nitride-based-magnets-and-next-generation-automotive-electric-motors-20251107）
+  - 「リーンモビリティの小型EV、型式認定取得 CEV補助金20万円の対象に」（https://motorcars.jp/sankei-giken-develops-ferromagnetic-iron-nitride-based-magnets-and-next-generation-automotive-electric-motors-20251107）
+  - 「スズキ、インドでの認定中古車事業が25周年・累計販売650万台に」（https://motorcars.jp/sankei-giken-develops-ferromagnetic-iron-nitride-based-magnets-and-next-generation-automotive-electric-motors-20251107）
+  - 「一方、重要な最終用途における性能検証、製造規模、認定要件が、短期的な商業化への影響を制約している」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
+  - 「中国レアアース輸出規制における影響について」（https://www.neomag.jp/）
+  - 「政府、相次ぐサイバー攻撃に警戒感 来週にも緊急対策パッケージ取り...」（https://dempa-digital.com/article/705804）
+  - 「需要の動向は、エネルギー効率の高いモーターに関する規制、電気自動車の普及、電力網の近代化、工場の自動化、防衛近代化プログラムとますます密接に関連しています」（https://newscast.jp/smart/news/4254819）
+  - 「同時に、永久磁石のバリューチェーンは、希土類鉱山の集中化、精製能力、地政学的な貿易規制、環境許可、リサイクルの拡大性といった構造的な課題に直面しています」（https://newscast.jp/smart/news/4254819）
+  - 「本エグゼクティブサマリーは、公共施策文書、貿易・関税関連資料、技術基準、科学文献、規制関連刊行物、重要鉱物評価、エネルギー転換報告書、セクタ固有の技術情報源から得られた、検証済みかつデータに裏付けられた産業の証拠に焦点を当てた、体系的な二次調査アプローチを用いて作成されています」（https://newscast.jp/smart/news/4254819）
 - 経済（規模・価格・為替）：
-  - 「2026年から2035年までの予測期間における年平均成長率（CAGR）は28.7%に達する見込みです」（https://newscast.jp/smart/news/4424103）
-  - 「2025年の4億20万米ドルから2035年の49億8,960万米ドルへ、CAGR28.7%という高い成長が見込まれる中、EV、風力発電、産業オートメーション、ロボティクスなどの成長市場が、希土類に依存しない磁石技術の商業化を促進するとみられます」（https://newscast.jp/smart/news/4424103）
-  - 「2026年から2035年までの予測期間における年平均成長率（CAGR）は28.7%に達する見込みです」（https://www.atpress.ne.jp/news/4424103）
-  - 「2025年の4億20万米ドルから2035年の49億8,960万米ドルへ、CAGR28.7%という高い成長が見込まれる中、EV、風力発電、産業オートメーション、ロボティクスなどの成長市場が、希土類に依存しない磁石技術の商業化を促進するとみられます」（https://www.atpress.ne.jp/news/4424103）
-  - 「アジア太平洋地域の会議室ソリューション市場規模、新興技術、機会、2024年から2032年までの予測」（https://www.atpress.ne.jp/news/4424103）
-  - 「日本のスマートメーター市場規模2024年シェア、成長洞察、競争環境、収益、最新動向、SWOT分析、2032年までの予測」（https://www.atpress.ne.jp/news/4424103）
-  - 「GCC翻訳サービス市場分析 2024年 シェア、市場規模、成長洞察、上位国データ、主要企業、2032年までの機会および課題予測」（https://www.atpress.ne.jp/news/4424103）
-  - 「スマートメーター市場動向 2024年成長機会、CAGR状況、SWOT分析、今後の展開、産業収益、2032年までの予測による分析」（https://www.atpress.ne.jp/news/4424103）
-  - 「タラ肝油の世界市場（2026年～2032年）、市場規模（小児、成人）・分析レポートを発表」（https://www.atpress.ne.jp/news/4424103）
-  - 「ローリングシャッターCMOSイメージセンサーの世界市場（2026年～2032年）、市場規模（前面発光型、背面発光型）・分析レポートを発表」（https://www.atpress.ne.jp/news/4424103）
-  - 「超高純度ホウ素の世界市場（2026年～2032年）、市場規模（5N、6N）・分析レポートを発表」（https://www.atpress.ne.jp/news/4424103）
-  - 「米Niron Magneticsが2026年8月7日、レアアースを使わない永久磁石の量産工場をめぐり、米戦争省（Department of War）のOffice of Strategic Capital（OSC）から最大1億5000万ドル（約237億円）の融資を条件付きで受けると発表した」（https://fabscene.com/new/news/niron-magnetics-rare-earth-free-magnet-plant/）
-  - 「総工費は6億500万ドル（約955億円）で、最大175人の常勤雇用を見込む」（https://fabscene.com/new/news/niron-magnetics-rare-earth-free-magnet-plant/）
-  - 「同機関は2026会計年度に84億ドル（約1兆3000億円）を超える融資を決め、官民から178億ドル（約2兆8000億円）を超える資本を動かしたとしている」（https://fabscene.com/new/news/niron-magnetics-rare-earth-free-magnet-plant/）
-  - 「なぜ1万円台でロボットを配るのか？NVIDIAが2兆円で買ったハギングフェイスの歴史」（https://fabscene.com/new/news/niron-magnetics-rare-earth-free-magnet-plant/）
+  - 「マルチコアCANバスケーブルの世界市場（2026年～2032年）、市場規模（直径：AWG 20/7、直径：AWG 22/7、直径：AWG 24/7、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/4424103）
+  - 「140DB HDR CMOSイメージセンサーの世界市場（2026年～2032年）、市場規模（画素サイズ：2.1 µm、画素サイズ：3 µm）・分析レポートを発表」（https://www.atpress.ne.jp/news/4424103）
+  - 「バナジウム酸ビスマスの世界市場（2026年～2032年）、市場規模（グリーンシェードイエロー、ミディアムシェードイエロー、レッドシェードイエロー）・分析レポートを発表」（https://www.atpress.ne.jp/news/4424103）
+  - 「永久磁石モーター市場は、2032年までにCAGR7.25％で880億米ドル規模に拡大すると予測されています」（https://www.atpress.ne.jp/news/4026387）
+  - 「CAGR（%） 7.25%」（https://www.atpress.ne.jp/news/4026387）
+  - 「CAGRは7.25%です」（https://www.atpress.ne.jp/news/4026387）
+  - 「マルチコアCANバスケーブルの世界市場（2026年～2032年）、市場規模（直径：AWG 20/7、直径：AWG 22/7、直径：AWG 24/7、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/4026387）
+  - 「140DB HDR CMOSイメージセンサーの世界市場（2026年～2032年）、市場規模（画素サイズ：2.1 µm、画素サイズ：3 µm）・分析レポートを発表」（https://www.atpress.ne.jp/news/4026387）
+  - 「バナジウム酸ビスマスの世界市場（2026年～2032年）、市場規模（グリーンシェードイエロー、ミディアムシェードイエロー、レッドシェードイエロー）・分析レポートを発表」（https://www.atpress.ne.jp/news/4026387）
+  - 「成形・容量分割・試験装置・システムの世界市場（2026年～2032年）、市場規模（成形装置、容量分割装置、試験装置）・分析レポートを発表」（https://www.atpress.ne.jp/news/4026387）
+  - 「光学式シャフト測定機の世界市場（2026年～2032年）、市場規模（全自動、半自動）・分析レポートを発表」（https://www.atpress.ne.jp/news/4026387）
+  - 「26年度末までに5,000億円の削減目指す」（https://motorcars.jp/sankei-giken-develops-ferromagnetic-iron-nitride-based-magnets-and-next-generation-automotive-electric-motors-20251107）
+  - 「リーンモビリティの小型EV、型式認定取得 CEV補助金20万円の対象に」（https://motorcars.jp/sankei-giken-develops-ferromagnetic-iron-nitride-based-magnets-and-next-generation-automotive-electric-motors-20251107）
+  - 「各種レアアースの輸入価格推移(～2018/6)」（https://www.neomag.jp/）
+  - 「各種レアアースの輸入価格推移(2016/11～)」（https://www.neomag.jp/）
 - 社会（人・担い手）：
   - 「総工費は6億500万ドル（約955億円）で、最大175人の常勤雇用を見込む」（https://fabscene.com/new/news/niron-magnetics-rare-earth-free-magnet-plant/）
   - 「総工費6億500万ドル、延床約2万6700平方メートル、年産最大1500トン、稼働予定は2027年、雇用175人」（https://note.com/all_zero/n/n639df77e8576）
@@ -2537,22 +2563,25 @@
   - 「雇用・職場改善」（https://hojokin-agent.jp/subsidy/110853）
   - 「リスキリング・人材育成」（https://hojokin-agent.jp/subsidy/110853）
 - 技術（新しい技術・実証）：
-  - 「EV・産業機器・ロボットが押し上げる新たな磁石需要」（https://newscast.jp/smart/news/4424103）
-  - 「特に電気自動車（EV）の駆動モーター、産業用モーター、ポンプ、風力発電機、家電、電子機器、ロボット・アクチュエータなどでは、磁石の安定調達が製品のコストと供給安定性を左右します」（https://newscast.jp/smart/news/4424103）
-  - 「材料開発では高度フェライトと鉄窒化物が存在感を拡大」（https://newscast.jp/smart/news/4424103）
-  - 「次世代材料として注目されるのが**鉄窒化物（Fe16N2）**です」（https://newscast.jp/smart/news/4424103）
-  - 「鉄と窒素を基盤とする磁性材料として、高い磁化を実現する可能性が研究されており、EVや産業用モーターへの応用を見据えた開発が進んでいます」（https://newscast.jp/smart/news/4424103）
-  - 「ただし、これらの材料には量産化、相安定性、保磁力、加工性などの技術的課題が残されています」（https://newscast.jp/smart/news/4424103）
-  - 「一方、Bonded（ボンド）磁石やAdditively Manufactured（積層造形）磁石では、複雑形状への対応や設計自由度を生かした用途開拓が進む可能性があります」（https://newscast.jp/smart/news/4424103）
-  - 「特に積層造形は、磁石形状とモーター設計を一体化することで、従来製造では難しかった構造の実現につながる可能性があり、今後の研究開発テーマとして重要性が高まっています」（https://newscast.jp/smart/news/4424103）
-  - 「• 積層造形（3Dプリンティング）品」（https://newscast.jp/smart/news/4424103）
-  - 「• ロボットメーカー」（https://newscast.jp/smart/news/4424103）
-  - 「レアメタル代替技術 ～地政学リスク下における永久磁石・触媒分野の開発動向を事例で分析～」（https://prtimes.jp/topics/keywords/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3）
-  - 「「経済安全保障重要技術育成プログラム」で重希土フリー磁石／レアアースフリー磁石開発と次世代磁石に適したモーターの設計開発に着手」（https://prtimes.jp/topics/keywords/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3）
-  - 「世界最強の永久磁石開発の功績により、日本人科学者が2024年度欧州発明家賞を受賞」（https://prtimes.jp/topics/keywords/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3）
-  - 「欧州特許庁（EPO）」（https://prtimes.jp/topics/keywords/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3）
-  - 「AIエージェント」（https://prtimes.jp/topics/keywords/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3）
+  - 「一方、産業機器メーカー、風力発電事業者、ロボットメーカーも重要な需要先となっています」（https://www.atpress.ne.jp/news/4424103）
+  - 「同社は2026年1月にイタリアのFaitalPROと業務用スピーカーを発表し、6月にはウィーンのオーディオ展示会でYG AcousticsとScan-Speakの協力によるスピーカーを披露した」（https://note.com/all_zero/n/n639df77e8576）
+  - 「2024年9月、この三者は窒化鉄系のボンド磁石を開発し、それを載せた小型モータがネオジムボンド磁石搭載モータと同等の特性を持つことを示した」（https://note.com/all_zero/n/n639df77e8576）
+  - 「https://www.acquisition.gov/dfars/252.225-7052-restriction-acquisition-certain-magnets-tantalum-and-tungsten」（https://note.com/all_zero/n/n639df77e8576）
+  - 「調達するためのネオジム磁石リサイクル設備投資と低コストリサイクル技術開発、併せて、レアアース(特に重希土類) フリー磁」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「更に、重希土類フリー永久磁石を搭載した電動車駆動モーターの開発が重要である」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「（取組２）廃磁石からのレアアース原料リサイクル技術の開発・導入」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「（取組３）省レアアース磁石の開発等」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「• ネオジム磁石の生産能力増強は年500 トン以上、本事業開発成果を用いた生産能力増強は年100 トン以上(最先端技術を生み出す研究開発所や一定規模の」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「のネオジム磁石生産、リサイクル技術開発は開発対象プロセスにおけるコストを10％以上低減する取組」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「目標：電動車用駆動モーターに搭載可能な重希土類フリー永久磁石の開発とネオジム使用量を半減したネオジム磁石等の開発を5年程度の期限で行う」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「また、重希土類フリー永久磁石の開発とこれを搭載した電動車駆動モーターの開発を３年程度の期限で行い、回転数10,000rpm以上、かつトルク密度50Nm/L以」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「・ネオジム及びジスプロシウム、又はテルビウムの省資源化を目的とする技術開発 ・重希土類フリー永久磁石及びこれを搭載した電動車駆動モーターの開発」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「「磁石とEV駆動用モーターの一体開発」に対応するべく、特定国への依」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「捻った棒が一気に跳ね返る力で進むロボット、UCLAとミシガン大が開発」（https://fabscene.com/new/news/niron-magnetics-rare-earth-free-magnet-plant/）
 - 検索結果の抜粋：
+  - 「永久磁石 モーター市場― 2026年 ～2032年の世界市場予測 — 永久磁石 モーター市場― 2026年 ～2032年の世界市場予測 アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/4026387）
+  - 「中国の 永久磁石 メーカー上位5社 2026年 - TOPMAG — 中国の 永久磁石 メーカー上位5社 2026年 - TOPMAG topmag.in https://www.topmag.in > top-5-permanent-magnet-manuf...」（https://www.topmag.in/ja/top-5-permanent-magnet-manufacturers-china-2026/）
+  - 「米ネオジム 磁石 メーカー 国内で2億ドル超の調達に成功 — 米ネオジム 磁石 メーカー 国内で2億ドル超の調達に成功 電波新聞デジタル https://dempa-digital.com > article」（https://dempa-digital.com/article/705804）
   - 「レアアースフリー 永久磁石 市場は2035年に49億 ... - Newscast.jp — レアアースフリー 永久磁石 市場は2035年に49億 ... - Newscast.jp Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/4424103）
   - 「インド、年内に希土類 永久磁石 の生産目指す＝鉱山相 - Reuters — インド、年内に希土類 永久磁石 の生産目指す＝鉱山相 - Reuters Reuters https://www.reuters.com > markets > commodities > 4ZH...」（https://www.reuters.com/jp/markets/commodities/4ZHOS3WW55OAXBDP5XPBZMVTF4-2026-02-20/）
   - 「レアアースフリー 永久磁石 市場は2035年に49 ... - アットプレス — レアアースフリー 永久磁石 市場は2035年に49 ... - アットプレス アットプレス https://www.atpress.ne.jp > ... > Astute Analytica Co. Ltd.」（https://www.atpress.ne.jp/news/4424103）
@@ -2566,54 +2595,56 @@
 ## グリーンスチール（green steel）
 - 文脈：9 マテリアル ②グリーン鉄
 - 顧客（金を払う側）：
-  - 「2050年カーボンニュートラルの実現に向けて、CO2排出量が多い鉄鋼業界の脱炭素化が不可欠であり、各メーカーがグリーンスチールの提供を発表しています」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「分散型エネルギーシステム、高効率エネルギーシステムの開発、導入を推進」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「併せて生産工程から排出する廃棄物や、使用済み車両のリサイクルなど幅広い分野で廃棄物の排出削減、有効利用技術の開発導入を推進」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「グリーンスチールの供給を発表している日本の企業・鉄鋼メーカー」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「しかし、日本鉄鋼連盟によれば、従来の石炭を用いた製造方法から水素へ転換する場合の調達コストは約8円／Nm3の試算になっており※2、大きな乖離があります」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「近年では排出量削減の責任がサプライチェーン全体に拡大しており、鉄鋼業でも同様に、企業が直接排出するCO2だけでなく、サプライチェーン全体のCO2排出量の考慮が求められます」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「マスバランス方式を適用したグリーンスチールとは、鉄鋼製造企業が実際に排出削減のあるプロジェクトによって温室効果ガス、またはCO2削減量を財源に消滅証書を発行し、任意の製品に分配して証書と一緒に供給する方法です」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「プロジェクトの計画や費用の負担は鉄鋼製造企業が行います」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「マスバランス方式を適用したグリーンスチールによって、排出削減量を経済価値化できるため、鉄鋼製造企業の多くが取り入れはじめています」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「こうした背景のなか、日本の鉄鋼メーカーもグリーンスチールの提供を発表しています」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「本レポートの作成に当たり、内外の専門家、関係企業の皆様にご協力いただきました」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「2-3 欧州の企業・政策は 2030 年低炭素製鉄実現にむけて動き出している ..................... 16」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「第３の柱：国内最適地での国産水素を生かした水素直接還元製鉄の導入 ..................... 45」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「２） 民間企業からのアクション・イニシアティブ ..................................................... 52」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「３） 公共調達の推進 ............................................................................. 53」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
+  - 「DRI）輸入の活用、国内最適地での国産水素を生かした水素直接還元製鉄の導入という三つの柱で」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
+  - 「USスチールがモンバレー製鉄所における30億ドルの新熱延設備投資を決定」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「日本製鉄のGXスチール「NSCarbolex Neutral」が使用されたオフィス家具が東京都に初採用」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「日本製鉄が開発した耐水素脆化特性に優れた2.0GPa級アルミめっきホットスタンプ用鋼板が日産自動車の新型エルグランドに採用」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「「熊野筆」に日本製鉄の意匠性チタン「TranTixxii」が採用」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「劣後特約付ローンによる資金調達に関するお知らせ」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「日本製鉄のGXスチール「NSCarbolex Neutral」が北九州市発注の公共工事に採用」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「2026年度における教員の民間企業研修の実施について」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「日本製鉄のGXスチール「NSCarbolex Neutral」を使用したオフィス家具が岩手県釜石市に採用」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「日本製鉄のGXスチール「NSCarbolex Neutral」が国土交通省発注のグリーン鉄試行工事に採用」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「国指定名勝「観音院庭園」の景観保全に意匠性チタン「TranTixxii」が採用」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「日本の国際競争力を支える高級鋼電炉一貫製造・量産システムの実現(世界初)」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
+  - 「にする企業等に対して10年間、研究開発・実証から社会実装までを継続して」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
+  - 「大型電炉導入により大幅に需要が拡大するスクラップ・直接還元鉄等」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
+  - 「冷鉄源の調達・使用・在庫管理・物流を一貫マネジメントする」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
 - 顧客の顧客（発注元が求めること）：
-  - 「2050年カーボンニュートラルの実現に向けて、CO2排出量が多い鉄鋼業界の脱炭素化が不可欠であり、各メーカーがグリーンスチールの提供を発表しています」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「経済産業省総合資源エネルギー調査会 資源・燃料分科会 脱炭素燃料政策小委員会 委員他」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「グリーンスチールを含めた脱炭素化の情報を入手して環境経営を」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「ゼロエミッションスチール、ゼロカーボンスチール、脱炭素鉄鋼などとも呼ばれます」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「しかし、2050年カーボンニュートラルの実現に向けては、再生可能エネルギーへ転換するなどのエネルギー部門だけでなく、CO2の排出源となる産業の脱炭素化がとても重要です」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「そのため、2050年カーボンニュートラルを実現するためには鉄鋼業の脱炭素化が不可欠です」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「また、日本だけでなく、世界的にも脱炭素化の実現には鉄鋼業が鍵を握るという意識が高まっています」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「経済産業省 資源エネルギー庁「鉄鋼業の脱炭素化に向けた世界の取り組み（前編）～「グリーンスチール」とは何か？」」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「日本だけでなく、世界的にも鉄鋼業の脱炭素化は重要である意識が高まっています」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「日本製鉄株式会社「NSCarbolex® Neutralとは～ 脱炭素社会の実現に必要不可欠な鉄鋼製品 ～」」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「はじめに：日本のカーボンニュートラルの鍵を握る鉄鋼業の脱炭素化 ................................ . 6」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「第１章 日本の鉄鋼業の現状と脱炭素化の主要な技術 ................................ ............... 8」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「1-2 鉄鋼業の脱炭素化 主要な技術オプション .................................................... 10」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「第２章 日本の鉄鋼業が脱炭素化を急がなければいけない理由 ................................ ... 14」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「第３章 日本における製鉄脱炭素化に向けた課題 ................................ .................... 21」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
+  - 「日本製鉄グループの脱炭素技術を結集したカーボンニュートラル時代の新たな社宅が竣工」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「欧州の事業拠点U. S. Steel Košiceにおいて持続的成長と脱炭素を両立する9億ユーロの投資を決定」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「日本製鉄が熱押形鋼で環境ラベルプログラム「SuMPO EPD」認証を追加取得」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「～お客様へのソリューション提供を通じて脱炭素社会の実現に貢献～」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「等含む）を進め、購入電力脱炭素化含め、2050年に向けたCO2削減を推進」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
+  - 「GX転換投資を推進して製鉄プロセスの脱炭素化施策を進め、」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
+  - 「「国土交通省土木工事の脱炭素アクションプラン」改定」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
+  - 「・政府は日本のCO2排出量の約4割を占める建築物分野の脱炭素化を重視」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
+  - 「〇LCC評価の法定登録機関による第三者認証済みであることを表示できる標章制度」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
+  - 「出典：環境省 地球環境局 地球温暖化対策課 住宅･建築物脱炭素化事業推進室「令和8年度 建築物の脱炭素化に向けた関連補助事業の解説」より抜粋」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
+  - 「worldsteel Ver.1の国際標準化が、この認証獲得の地盤となる」（https://sasla.jp/knowledge/green-steel-japan.html）
+  - 「顧客企業がScope 3削減目標を達成するために、サプライヤー側（鉄鋼メーカー）からGXスチールを調達するという」（https://sasla.jp/knowledge/green-steel-japan.html）
+  - 「１．鉄鋼製造プロセスと脱炭素化」（https://ktq-gx.com/wp-content/uploads/2026/02/%E5%9F%BA%E8%AA%BF%E8%AC%9B%E6%BC%94%E2%91%A0_%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E6%8A%98%E6%A9%8B%E8%8B%B1%E6%B2%BB-%E6%B0%8F.pdf）
+  - 「⇒鉄鋼業、特に高炉メーカーの脱炭素化は極めて重要」（https://ktq-gx.com/wp-content/uploads/2026/02/%E5%9F%BA%E8%AA%BF%E8%AC%9B%E6%BC%94%E2%91%A0_%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E6%8A%98%E6%A9%8B%E8%8B%B1%E6%B2%BB-%E6%B0%8F.pdf）
+  - 「→脱炭素化社会の到来に向けて、世界に先駆け、日本の国際競争力を」（https://ktq-gx.com/wp-content/uploads/2026/02/%E5%9F%BA%E8%AA%BF%E8%AC%9B%E6%BC%94%E2%91%A0_%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E6%8A%98%E6%A9%8B%E8%8B%B1%E6%B2%BB-%E6%B0%8F.pdf）
 - 顧客の競合（奪いに来る側）：
-  - 「Korean (Naver)」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「2-3 欧州の企業・政策は 2030 年低炭素製鉄実現にむけて動き出している ..................... 16」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「[BOX 3] 米国連邦政府の Buy Clean イニシアティブ .......................................... 53」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「図 5 主要国の電炉シェア ................................................................................ 10」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「図 18 鉄鋼製品の要求性能と電炉のシェア ............................................................ 37」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「欧州自動車メーカーなどを中心に、「グリーン」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「● 欧州などで始動している低炭素製鉄プロジェクトの半数は水素直接還元法を採用している」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「し、この方法の前提となるのは、安価なグリーン水素を大量に利用できることである」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「自然エネルギー財団では、2021 年 12 月にインフォパック「鉄鋼業の脱炭素化に向けて：欧州の最」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「2022 年 2 月にロシアのウクライナ侵攻が開始されて以降、欧州ではロシアからの天然ガス供給が急」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「り、欧州委員会は REPowerEU 計画を発表した4」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「大量の安価な水素・脱炭素エネルギー」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
-  - 「⚫ 安価な電力価格の実現」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
-  - 「の整備、安価なコストの実現」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
-  - 「ベトナム台湾」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
+  - 「日本製鉄のデザイニングメタル「TranTixxii」に覆われた教会が韓国で竣工」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「欧州の事業拠点U. S. Steel Košiceにおいて持続的成長と脱炭素を両立する9億ユーロの投資を決定」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「AM/NS Indiaによるインド南部アンドラプラデシュ州における鉄源一貫製鉄所建設の起工式開催について」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「軽い海外鋼材との価格面での競合では現在以上に不利になりやすい」（https://www.marubeni.com/jp/research/report/data/20251121_kuwana.pdf）
+  - 「中東やインドなど、天然ガスが安価な地域では、すでに大規模に導入されています」（https://www.sylvera.com/ja/blog/green-steel）
+  - 「米国が突きつけたトランプ氏への痛烈な拒絶 エドワード・ルース」（https://www.nikkei.com/article/DGXZRSP687050_Y5A210C2000000/）
+  - 「台湾情勢の不確実性も高まる中で、この両国の動きが日本を取り巻…」（https://business.nikkei.com/atcl/gen/19/00839/020200004/）
+  - 「ピックルボールが商談の新定番 米国で飲食併設コート続々、プレーで人柄判定」（https://business.nikkei.com/atcl/gen/19/00839/020200004/）
+  - 「欧州連合（EU）が再生材利用を相次ぎ義務化し、中国や米国も重要資源の囲…」（https://business.nikkei.com/atcl/gen/19/00839/020200004/）
+  - 「性の在り方をオープンにできる場を探して、米国に渡った 齋藤ジン」（https://business.nikkei.com/atcl/gen/19/00839/020200004/）
+  - 「世界の競合他社は高品位鉄鉱石を用いた商用化で先行する一方、高品位鉄鉱石の不足はDRIの普及拡大における新たなボトルネックとなりつつあるため、同社の取り組みはこの課題に対処する独自の技術的アプローチとなる可能性がある」（https://transitionasia.org/%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84-%E5%B9%B4%E6%AC%A1%E6%A0%AA%E4%B8%BB%E7%B7%8F%E4%BC%9A%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%91%E3%83%83%E3%82%AF/?lang=ja）
+  - 「2026年5月、同社は欧州におけるハブを獲得するために中東欧最大の鉄鋼メーカーであるU.S. Steel Košice（USSK）を完全子会社化し、直接出資体制へと移行した」（https://transitionasia.org/%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84-%E5%B9%B4%E6%AC%A1%E6%A0%AA%E4%B8%BB%E7%B7%8F%E4%BC%9A%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%91%E3%83%83%E3%82%AF/?lang=ja）
+  - 「これは、欧州において域内企業の競争力を高める炭素国境調整措置（CBAM）や産業加速法（IAA）の「メイド・イン・ヨーロッパ」イニシアティブなど、欧州の政策による圧力を反映したものである」（https://transitionasia.org/%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84-%E5%B9%B4%E6%AC%A1%E6%A0%AA%E4%B8%BB%E7%B7%8F%E4%BC%9A%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%91%E3%83%83%E3%82%AF/?lang=ja）
+  - 「今後の見通しについて、日本製鉄のCEOは2025年7月、欧州の市場環境を注視しつつUSSKの年産能力を1,000万トン規模にまで拡大する可能性について検討すると述べた」（https://transitionasia.org/%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84-%E5%B9%B4%E6%AC%A1%E6%A0%AA%E4%B8%BB%E7%B7%8F%E4%BC%9A%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%91%E3%83%83%E3%82%AF/?lang=ja）
+  - 「ただし、AM/NS Indiaの熱延コイルと冷延コイルは、インド鉄鋼省のタクソノミーに基づく評価制度（最高5つ星）において、それぞれ4つ星と3つ星を獲得し、同国の一貫製鉄メーカーとして初のグリーンスチール認証を取得したことには注目すべきである」（https://transitionasia.org/%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84-%E5%B9%B4%E6%AC%A1%E6%A0%AA%E4%B8%BB%E7%B7%8F%E4%BC%9A%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%91%E3%83%83%E3%82%AF/?lang=ja）
 - 自社の競合（商社・代理店・仲介）：
+  - 「Steel Mills - Agents & Traders · DUBAI · United Arab Emirates」（https://mesteel.com/events/kallanish-green-steel-strategies-2026）
+  - 「Stockist - Distributor · KARACHI · Pakistan」（https://mesteel.com/events/kallanish-green-steel-strategies-2026）
   - 「ETC Energy Transitions Commission 1.5℃目標達成に向け、勧告等を行う、世」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
   - 「17 Energy Transitions Commission, “Keeping 1.5 ℃ Alive: Closing the Gap in the 2020s” （2021」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
   - 「注２ COMMUNICATION FROM THE COMMISSION ”Ecodesign for Sustainable Products and Energy Labelling Working Plan 2025-2030” 16 April 2025」（https://www.meti.go.jp/shingikai/mono_info_service/green_steel/follow_up/pdf/002_03_00.pdf）
@@ -2627,41 +2658,41 @@
   - 「既に業績寄与が出ているのか、今後の期待段階なのか：すでに直近の四半期決算において、マージンの改善と利益の大幅な押し上げという形で顕著な業績寄与が出始めています」（https://note.com/ready_fox3873/n/nd2206df7934f）
   - 「これにより、市況の価格下落局面でも同社製品への安定的な指名買いが続き、高いマージンが確保される経路をたどります」（https://note.com/ready_fox3873/n/nd2206df7934f）
   - 「注目テーマ関連領域：大手高炉・商社とのグリーン鉄アライアンス」（https://note.com/ready_fox3873/n/nd2206df7934f）
-  - 「This is an R&D project commissioned and subsidized by the New Energy and Industrial Technology Development Organization (NEDO), to support companies and other entities implementing projects that aim to achieve the ambitious 2030 targets (such as CO」（https://www.nipponsteel.com/en/carbon-neutral/zerocarbon.html）
-  - 「In the current BF–BOF process, coal (or coke) is utilized as a reducing agent and a heat source. At the same time, it remains in a solid form even at high temperatures in the BF, maintaining ventilation while supporting raw materials. Despite these advantages, this process inevitably generates CO」（https://www.nipponsteel.com/en/carbon-neutral/zerocarbon.html）
 - 政治（法・予算・規制）：
-  - 「[BOX 3] 米国連邦政府の Buy Clean イニシアティブ .......................................... 53」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「世界経済フォーラムと米政府が共同で設立」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「政府の 2050 年シナリオに基づ」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「一方、政府の」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「政府含めて、製品や建物のデザイン・設計から中間処理、回収までを考えた、総合的な対策が必要で」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「持を考慮し、政府や自治体のリードのもとに地域のステイクホルダーと対話し戦略化していく必要がある」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「リーン水素と同様に扱う政府の政策のままでは、直接還元製鉄を行ったとしてもグリーンスチールとは見な」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「（出典）環境省・経済産業省「地球温暖化対策の推進に関する法律に基づく温室効果ガス排出量算定・報告・公表制度による平」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「今後の粗鋼生産量の見通しとしては、政府は、第 6 次エネルギー基本計画で 2030 年の粗鋼生産」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「例えば、日鉄総研におけるシナリオ研究では、中位シナリオ（2030 年の政府想」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「① 政府支援(CAPEX,OPEX)」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
-  - 「① 政府による支援(GI基金)」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
-  - 「日本政府の2030年削減目標」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
-  - 「2025.5.30、GX推進法に基づく政府支援事業に採択」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
-  - 「補助金ロジックは広畑1･2号と」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
+  - 「欧州の各国政府・州は 2030 年前に脱炭素化への道筋をつ」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
+  - 「コシツェ製鉄所に電気炉・酸素プラントを投資 スロバキア政府と3.5億ユーロの補助金契約を締結」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「◆ スクラップを経済安全保障上の「重要物資」として位置づけ」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
+  - 「政府・自治体、水素供給関係企業と連携して取り組み中」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
+  - 「グリーン購入法の枠組み、公共調達におけるGXスチールの仕様化、補助金制度等が組み合わされる」（https://sasla.jp/knowledge/green-steel-japan.html）
+  - 「は、EUと日本政府間の制度相互認証の交渉ポイント」（https://sasla.jp/knowledge/green-steel-japan.html）
+  - 「グリーンイノベーション基金の最大手活用企業でもある」（https://sasla.jp/knowledge/green-steel-japan.html）
+  - 「同社は2025年6月、ドイツのBremen・Eisenhüttenstadt両拠点で計画していた水素直接還元＋電炉への転換を断念してドイツ政府に通知し、約13億ユーロの公的支援を受け取らない判断をした」（https://sasla.jp/knowledge/green-steel-japan.html）
+  - 「GI（グリーンイノベーション）基金： 2050年カーボンニュートラルの実現」（https://ktq-gx.com/wp-content/uploads/2026/02/%E5%9F%BA%E8%AA%BF%E8%AC%9B%E6%BC%94%E2%91%A0_%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E6%8A%98%E6%A9%8B%E8%8B%B1%E6%B2%BB-%E6%B0%8F.pdf）
+  - 「証から社会実装までを継続して支援する政府基金」（https://ktq-gx.com/wp-content/uploads/2026/02/%E5%9F%BA%E8%AA%BF%E8%AC%9B%E6%BC%94%E2%91%A0_%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E6%8A%98%E6%A9%8B%E8%8B%B1%E6%B2%BB-%E6%B0%8F.pdf）
+  - 「政府による購入支援（補助金支給の要件に含める）」（https://ktq-gx.com/wp-content/uploads/2026/02/%E5%9F%BA%E8%AA%BF%E8%AC%9B%E6%BC%94%E2%91%A0_%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E6%8A%98%E6%A9%8B%E8%8B%B1%E6%B2%BB-%E6%B0%8F.pdf）
+  - 「（2025.1.28閣議決定） （2025.1.27経産省公表）」（https://ktq-gx.com/wp-content/uploads/2026/02/%E5%9F%BA%E8%AA%BF%E8%AC%9B%E6%BC%94%E2%91%A0_%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E6%8A%98%E6%A9%8B%E8%8B%B1%E6%B2%BB-%E6%B0%8F.pdf）
+  - 「政府による「GXスチール」への優先調達や購入支援の具体化が進展」（https://ktq-gx.com/wp-content/uploads/2026/02/%E5%9F%BA%E8%AA%BF%E8%AC%9B%E6%BC%94%E2%91%A0_%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E6%8A%98%E6%A9%8B%E8%8B%B1%E6%B2%BB-%E6%B0%8F.pdf）
+  - 「＊CEV補助金：クリーンエネルギー自動車導入促進補助金」（https://ktq-gx.com/wp-content/uploads/2026/02/%E5%9F%BA%E8%AA%BF%E8%AC%9B%E6%BC%94%E2%91%A0_%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E6%8A%98%E6%A9%8B%E8%8B%B1%E6%B2%BB-%E6%B0%8F.pdf）
+  - 「充電・水素充てんインフラの整備等を支援する国の補助金」（https://ktq-gx.com/wp-content/uploads/2026/02/%E5%9F%BA%E8%AA%BF%E8%AC%9B%E6%BC%94%E2%91%A0_%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E6%8A%98%E6%A9%8B%E8%8B%B1%E6%B2%BB-%E6%B0%8F.pdf）
 - 経済（規模・価格・為替）：
-  - 「は、㎥当たりの改修額は 6.5 百万円なのに対し、2020 年代の改修は 10.2 百万円となっている25」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「トンとすると、上昇額は 3 万円程度、自動車価格の 1％程度であり、製品価格への転嫁が可能な水準と考えられる」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「「２兆円の基金を造成し、官民で野心的かつ具体的な目標を共有した上で、これに経営課題として取」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「2008 年から 2020 年までに 433 億円の政府支援のもとに進められてきた」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「イノベーション基金事業として、2030 年度までに 1,935 億円の助成が計画されている」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「⚫ (4)の水準を参照したGXスチールエキストラ価格の」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
-  - 「6,302億円 1,400億円」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
-  - 「上限2,514億円」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
-  - 「8,687億円」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
-  - 「（２万円/tの税額控除措置）」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
-  - 「投資額 八幡6,302億円 周南985億円」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai14/shiryo2.pdf）
-  - 「投資額 1,400億円 電炉生産能力 50万t/年」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai14/shiryo2.pdf）
-  - 「• 約3,294億円（うち、補助対象は約3,133億」（https://www.meti.go.jp/shingikai/mono_info_service/green_steel/follow_up/pdf/002_03_00.pdf）
-  - 「円）の投資に対し、約1,045億円を支援」（https://www.meti.go.jp/shingikai/mono_info_service/green_steel/follow_up/pdf/002_03_00.pdf）
-  - 「• 約8,687億円（うち、補助対象は約7,543億」（https://www.meti.go.jp/shingikai/mono_info_service/green_steel/follow_up/pdf/002_03_00.pdf）
+  - 「投資額 八幡6,302億円 周南985億円」（https://ktq-gx.com/wp-content/uploads/2026/02/%E5%9F%BA%E8%AA%BF%E8%AC%9B%E6%BC%94%E2%91%A0_%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E6%8A%98%E6%A9%8B%E8%8B%B1%E6%B2%BB-%E6%B0%8F.pdf）
+  - 「投資額 1,400億円 電炉生産能力 50万t/年」（https://ktq-gx.com/wp-content/uploads/2026/02/%E5%9F%BA%E8%AA%BF%E8%AC%9B%E6%BC%94%E2%91%A0_%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E6%8A%98%E6%A9%8B%E8%8B%B1%E6%B2%BB-%E6%B0%8F.pdf）
+  - 「補助額を最大5万円加算する措置を新設、2025年度より適用予定」（https://ktq-gx.com/wp-content/uploads/2026/02/%E5%9F%BA%E8%AA%BF%E8%AC%9B%E6%BC%94%E2%91%A0_%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E6%8A%98%E6%A9%8B%E8%8B%B1%E6%B2%BB-%E6%B0%8F.pdf）
+  - 「推定値にはばらつきがありますが、現在の水素価格では、水素DRI-EAF鋼のコストは20～40％高くなる可能性があります」（https://www.sylvera.com/ja/blog/green-steel）
+  - 「投資額は約1,400億円（8.8億米ドル）と見込まれている」（https://transitionasia.org/%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84-%E5%B9%B4%E6%AC%A1%E6%A0%AA%E4%B8%BB%E7%B7%8F%E4%BC%9A%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%91%E3%83%83%E3%82%AF/?lang=ja）
+  - 「投資額は985億円（6.2億米ドル）」（https://transitionasia.org/%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84-%E5%B9%B4%E6%AC%A1%E6%A0%AA%E4%B8%BB%E7%B7%8F%E4%BC%9A%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%91%E3%83%83%E3%82%AF/?lang=ja）
+  - 「日本政府は最大2,514億円を支援する予定で、加えて1トンあたり最大20,000円の税額控除という形で操業費（OPEX）支援も行う」（https://transitionasia.org/%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84-%E5%B9%B4%E6%AC%A1%E6%A0%AA%E4%B8%BB%E7%B7%8F%E4%BC%9A%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%91%E3%83%83%E3%82%AF/?lang=ja）
+  - 「特に断りのない限り、本レポートにおけるすべての通貨換算は、2026年5月29日時点の為替レート（1米ドル＝159円）に基づいている」（https://transitionasia.org/%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84-%E5%B9%B4%E6%AC%A1%E6%A0%AA%E4%B8%BB%E7%B7%8F%E4%BC%9A%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%91%E3%83%83%E3%82%AF/?lang=ja）
+  - 「日鉄8,687億円・JFE3,294億円——鉄鋼大手の1兆円超の電炉投資が動き出した」（https://ene-fro.com/article/ef503_a1/）
+  - 「EVやPHEV（プラグインハイブリッド車）などクリーンエネルギー自動車購入時の補助金（CEV補助金）に「グリーン鉄を採用した車種には最大5万円を上乗せ」する加算を設け」（https://ene-fro.com/article/ef503_a1/）
+  - 「鉄鋼大手はなぜ1兆円超の電炉投資に踏み切ったのか？」（https://ene-fro.com/article/ef503_a1/）
+  - 「日本製鉄は2025年5月、八幡・広畑・周南の3拠点で電炉導入に8,687億円（政府支援最大2,514億円）を投じると発表」（https://ene-fro.com/article/ef503_a1/）
+  - 「JFEスチールも倉敷地区に大型電炉を3,294億円で導入」（https://ene-fro.com/article/ef503_a1/）
+  - 「両社合わせて1兆円超の投資だ」（https://ene-fro.com/article/ef503_a1/）
+  - 「JFEスチールの北野社長（当時日本鉄鋼連盟会長）は、2023年11月に行われた第8回のGX実行会議において、日本鉄鋼業界のカーボンニュートラルに向けた取り組みを説明し、巨額な研究開発費用や膨大な設備投資費用に対して欧米中の支援に劣後しない長期的な政府の支援措置、革新プロセスへの転換や非化石原燃料、電力などのオペレーションコストの増加に対する長期的な政府の支援措置、環境価値の高いGXスチールの需要形成に向けた公共調達などの調達支援による需要喚起措置の必要性を強く訴えるとともに、産業用電力価格の国際競争力の確保、および新たなインフラとなる水素のサプライチェーン構築ならびにCCSスキーム構築への支援を訴えました」（https://www.jfe-holdings.co.jp/sustainability/environment/climate/steel_industry_efforts/）
 - 社会（人・担い手）：
+  - 「のシフトをシームレスに進めていくなど、地域の雇用と経済の維持を考慮した戦略が必要である」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
+  - 「深刻な人手不足に悩む警備業界にAIの“眼”を提供する！ アジラ、エヌビディア、日本HPが目指す次世代防犯システム」（https://business.nikkei.com/atcl/gen/19/00839/020200004/）
   - 「これまでの製鋼・製造過程で培われてきた日本の技術、また製鉄業を支えてきた地域の産業と雇用を、」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
   - 「地域の雇用と経済の維」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
   - 「人、電炉事業所で112.7 万人の従業員が雇用されている」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
@@ -2675,25 +2706,26 @@
   - 「人材マネジメント」（https://conshift.net/2026/08/18/post-262/）
   - 「リスク要因、競合、過度なテーマ株化の懸念：建設業界の人手不足に伴う着工遅延や、製鉄に大量の電力を消費するための電気代高騰がリスク要因です」（https://note.com/ready_fox3873/n/nd2206df7934f）
   - 「さらに、若手研究員の派遣を通じて、次世代の製鉄業を担う高度専門人材を育成します」（https://www.jfe-holdings.co.jp/sustainability/environment/climate/steel_industry_efforts/）
-  - 「鉄鋼業界の持続可能性、安全性、技術革新、人材育成を推進し、国際的な連携と情報提供を通じて業界全体の発展に貢献すること」（https://www.jfe-holdings.co.jp/sustainability/environment/climate/steel_industry_efforts/）
-  - 「Workforce Development」（https://rmi.org/resources/how-better-policy-can-support-japans-green-steel-opportunity/）
 - 技術（新しい技術・実証）：
-  - 「分散型エネルギーシステム、高効率エネルギーシステムの開発、導入を推進」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「併せて生産工程から排出する廃棄物や、使用済み車両のリサイクルなど幅広い分野で廃棄物の排出削減、有効利用技術の開発導入を推進」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「「リサイクル技術開発本多賞」「化学工学会技術賞」「市村地球環境産業賞」他資源循環、エネルギーシステムに関する表彰受賞」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「グリーンスチール化には、製鉄技術の開発、設備の転換、製造コスト、原料利用に伴うコストなど、莫大なコストが必要です」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「なお、日本では2009年以降、製鉄所から排出されるCO2の排出量・原単位の計算方法を開発し、製造プロセスに応じた国際規格が「ISO14404」シリーズとして発行されました」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「新たな製鉄プロセス技術の開発」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「日本では世界に先駆けて、2008年より水素を活用した製鉄プロセスに着目しており、技術開発プロジェクト「環境調和型プロセス技術の開発／水素還元等プロセス技術の開発（COURSE50プロジェクト）」を推進してきました」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「COURSE50より進んだ応用的な技術も開発中で、2050年までに高炉でのCO2排出量を50％まで削減できる仕組みの実装を目指しています」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「さらに、分離・貯留したCO2を利用するCCUSの技術開発も進んでいます」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「COURSE50などの新しい技術はまだ開発段階であり実用化・普及に至っていませんが、鉄鋼業界でもCO2排出量を削減する活動が求められており、排出量を低減させた製品のニーズが増えています」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
-  - 「戦略３：洋上風力開発と合わせた国内における水素直接還元製鉄の最適地の選択 ........... 49」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「図 10 研究開発・社会実装計画 ....................................................................... 22」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「DAC Direct air capture （CO2 の）大気からの直接回収」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「IDDRI Institute for Sustainable Development and」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
-  - 「持続可能な開発への移行を促進する仏のシ」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
+  - 「なお、株式会社神戸製鋼所が提供する「Kobenable Steel」は、2024年に国土交通省の新技術情報提供システム（NETIS）に登録され、業界ではじめてグリーンスチールのNETIS登録となっています」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
+  - 「現在、主として、ここに記した 3 つの製鉄手法の開発が進められている」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
+  - 「日本製鉄が開発した耐水素脆化特性に優れた2.0GPa級アルミめっきホットスタンプ用鋼板が日産自動車の新型エルグランドに採用」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「第74回電設工業展 JECA FAIR 2026に出展」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「名古屋製鉄所 次世代熱延ラインの熱間試運転開始について」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「風力発電用極厚140mm厚鋼板を開発」（https://www.nipponsteel.com/newsroom/news/2026/）
+  - 「「所内水素を活用した水素還元技術の開発」については、実証試験に向けた設備の設計・製作を計画通り推進」（https://www.meti.go.jp/shingikai/mono_info_service/green_steel/follow_up/pdf/002_03_00.pdf）
+  - 「高炉-転炉プロセス並の生産性・品質を有する電炉技術を開発」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
+  - 「→ その後、実装する大型電炉に新技術を」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
+  - 「波崎研究開発センターに設置した試験電炉を活用し、」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
+  - 「高効率脱リン・脱窒素技術の開発・確認を実施」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
+  - 「にする企業等に対して10年間、研究開発・実証から社会実装までを継続して」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
+  - 「（参考）カーボンニュートラル開発拠点「HydreamsⓇ」」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
+  - 「波崎研究開発センターの同建設エリアを「HydreamsⓇ」」（https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf）
+  - 「が水素直接還元の実証で先行し、thyssenkruppは直接還元プラントを建設中だが、水素の調達は各社とも後ろ倒しになっている（前掲§9）」（https://sasla.jp/knowledge/green-steel-japan.html）
 - 検索結果の抜粋：
+  - 「グリーンスチール 鉄鋼業での変革により気候変動対策を加速 — グリーンスチール 鉄鋼業での変革により気候変動対策を加速 エコネットワークス https://www.econetworks.jp > 2025/04 > green-steel」（https://www.econetworks.jp/translationtips/2025/04/green-steel/）
+  - 「Kallanish Green Steel Strategies 2026 — Brussels | MESteel — Kallanish Green Steel Strategies 2026 — Brussels | MESteel MESteel https://mesteel.com > Events」（https://mesteel.com/events/kallanish-green-steel-strategies-2026）
+  - 「Green Steel Strategies 2026 - Kallanish Commodities — Green Steel Strategies 2026 - Kallanish Commodities Kallanish Commodities https://www.kallanish.com > conference」（https://www.kallanish.com/en/events/conference/upcoming-courses-details/green-steel-strategies-2026/）
   - 「グリーンスチール とは？普及への課題や日本・世界の取り組み ... — グリーンスチール とは？普及への課題や日本・世界の取り組み ... スマートエネルギーWeek https://www.wsew.jp > hub > ja-jp > blog > article_102」（https://www.wsew.jp/hub/ja-jp/blog/article_102.html）
   - 「日本における グリーンスチール への道 - 自然エネルギー財団 — 日本における グリーンスチール への道 - 自然エネルギー財団 自然エネルギー財団 PDF https://www.renewable-ei.org > REI_greensteel2022」（https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf）
   - 「グリーン 鉄」供給能力6倍へ 大型電炉に3300億円 投資 — グリーン 鉄」供給能力6倍へ 大型電炉に3300億円 投資 日経ビジネス電子版 https://business.nikkei.com > atcl > gen」（https://business.nikkei.com/atcl/gen/19/00839/020200004/）
@@ -2705,98 +2737,111 @@
 ## 耐熱合金（superalloy）
 - 文脈：9 マテリアル ③革新的金属部素材
 - 顧客（金を払う側）：
-  - 「【レビュー】Bambu Lab A1 miniで量産は可能？ 後付け自動プレート交換機「PlateCycler C1M」を検証」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
-  - 「ラズパイもNVIDIAも採用、ライセンス料ゼロの命令セット「RISC-V」の歴史」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
-  - 「Makerから企業まで席巻する魔法の箱、「M5Stack」創業者Jimmy Laiの半生」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
-  - 「なぜ3Dプリンターは金型に勝てないのか──6500年変わらない量産の絶対王者」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
-  - 「ニッケル合金は航空宇宙、エネルギー、化学プラント、新エネルギー、自動車など幅広い産業で不可欠な基幹材料であり、近年はAIサーバー向け設備や水素関連インフラへの採用も進んでいる」（https://www.dreamnews.jp/press/0000355962）
-  - 「ニッケル合金市場の成長を支える最大の要因は、航空宇宙産業と新エネルギー分野の設備投資拡大である」（https://www.dreamnews.jp/press/0000355962）
-  - 「また、EVや蓄電システム、水素製造設備、原子力・ガスタービン設備などでも高耐食・高耐熱材料の採用が拡大している」（https://www.dreamnews.jp/press/0000355962）
-  - 「近年は各国でサプライチェーン再構築が進み、重要材料の現地調達やリサイクル技術への投資も活発化している」（https://www.dreamnews.jp/press/0000355962）
-  - 「環境規制の強化に対応した低炭素製造プロセスや、スクラップ再資源化による循環型生産体制の整備も企業競争力を左右する重要なテーマとなっている」（https://www.dreamnews.jp/press/0000355962）
-  - 「地域別市場と主要企業の動向」（https://www.dreamnews.jp/press/0000355962）
-  - 「主要メーカーにはVDM Metals、Special Metals Corporation、ArcelorMittal、Carpenter Technology、Aperam（Imphy Alloys）、ATI、Proterial Metals、Nippon Yakin、Sumitomo、Haynes Internationalなどが挙げられ、高性能耐熱合金や特殊用途材料の開発競争が続いている」（https://www.dreamnews.jp/press/0000355962）
-  - 「この企業のプレスリリースをもっと見る」（https://www.dreamnews.jp/press/0000355962）
-  - 「企業会員登録-プレスリリース配信をご希望の企業様はこちら」（https://www.dreamnews.jp/press/0000355962）
-  - 「耐熱合金 - メーカー・企業11社の業務用製品ランキング | イプロスものづくり」（https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/）
-  - 「耐熱合金のメーカーや取扱い企業、製品情報、参考価格、ランキングをまとめています」（https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/）
+  - 「本資料には、ニオブ C-103の世界市場規模、市場動向、セグメント別予測（Nb-10Hf-1Ti 合金、Nb-Hf-Ti 耐火合金、その他）、関連企業の情報などが盛り込まれています」（https://www.atpress.ne.jp/news/4875929）
+  - 「ビジネスチャンスは、ハイエンド産業向けの高純度製品の生産、コスト削減のための先進的な加工技術の開発、供給の安定化と受注確保のための協力関係の拡大、そして国内企業の強みを活かした世界市場の拡大と技術的独占の打破にある」（https://www.atpress.ne.jp/news/4875929）
+  - 「本インサイトレポートは、世界のニオブC-103市場の包括的な分析を提供し、製品セグメンテーション、企業動向、収益、市場シェア、最新の開発動向、M&A活動に関連する主要なトレンドを明らかにします」（https://www.atpress.ne.jp/news/4875929）
+  - 「また、本レポートでは、ニオブC-103のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、主要グローバル企業の戦略を分析し、加速する世界のニオブC-103市場における各企業の独自の立場をより深く理解できるようにしています」（https://www.atpress.ne.jp/news/4875929）
+  - 「本レポートでは、製品タイプ、用途、主要メーカー、主要地域および国別に、ニオブC-103市場の包括的な概要、市場シェア、成長機会を提示します」（https://www.atpress.ne.jp/news/4875929）
+  - 「以下に紹介する企業は、主要な専門家からの情報および各社の事業範囲、製品ポートフォリオ、市場浸透度を分析した上で選定されています」（https://www.atpress.ne.jp/news/4875929）
+  - 「第3章には、企業別のグローバル市場の詳細な分析が示されています」（https://www.atpress.ne.jp/news/4875929）
+  - 「これには、2021年から2026年までの企業別のニオブ C-103年間販売量と市場シェア、年間収益と市場シェア、および企業別の販売価格が含まれます」（https://www.atpress.ne.jp/news/4875929）
+  - 「さらに、主要メーカーのニオブ C-103製造地域分布、販売地域、製品タイプ、市場集中度分析（競争状況分析、CR3、CR5、CR10比率および2024年から2026年までの動向）、新製品と潜在的な新規参入企業に関する情報、および市場におけるM&A活動と戦略が記載されています」（https://www.atpress.ne.jp/news/4875929）
+  - 「第11章には、ニオブ C-103のマーケティング、流通業者、および顧客に関する情報が示されています」（https://www.atpress.ne.jp/news/4875929）
+  - 「3.2メーカー別収益（2019～2024年）」（https://www.dreamnews.jp/press/0000326042）
+  - 「：来場者数、出展社一覧、セミナー講演企業など」（https://www.wsew.jp/hub/ja-jp/about/zet.html）
+  - 「：業種、職種、役職、来場実績企業リストなど」（https://www.wsew.jp/hub/ja-jp/about/zet.html）
+  - 「石油会社、化学メーカー」（https://www.wsew.jp/hub/ja-jp/about/zet.html）
+  - 「電力・ガス会社、石油会社、発電事業者、重電メーカー、プラントエンジニアリング、保守・運営受託企業、ゼネコン・サブコン、国・地方自治体、新たに発電事業参入を検討している企業 …など」（https://www.wsew.jp/hub/ja-jp/about/zet.html）
 - 顧客の顧客（発注元が求めること）：
-  - 「■最短納期：3週間～」（https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/）
-  - 「同材料は今後も、熱機関や反応装置の効率向上はもとより、高温ガス炉による水素製造、ゼロエミッション火力発電や水素還元製鉄等の脱炭素化の鍵を握る技術において重要な役割を担います」（https://jimm.jp/event/online/ondemand/026.html）
-  - 「本講座では、耐熱材料を扱う初心者から経験者までの皆様方を対象に、「耐熱材料の高温変形・破壊挙動とその遷移」、「ガスタービン用Ni基耐熱合金の製造プロセスと高温強度」、「脱炭素化社会に資する耐熱材料の組織設計1 ―航空機用TiAl基合金―」、「脱炭素化社会に資する耐熱材料の組織設計2 ―発電用合金―」に関する解説を行います」（https://jimm.jp/event/online/ondemand/026.html）
-  - 「3 時限目 脱炭素化社会に資する耐熱材料の組織設計1 ―航空機用TiAl基合金―（講師：竹山 雅夫）」（https://jimm.jp/event/online/ondemand/026.html）
-  - 「4 時限目 脱炭素化社会に資する耐熱材料の組織設計2 ―発電用合金―（講師：竹山 雅夫）」（https://jimm.jp/event/online/ondemand/026.html）
-  - 「試作、難削材、複雑形状、短納期対応の切削加工メーカー」（https://www.imahashi-ss.jp/news/2019/03/14/%E8%A3%BD%E5%93%81%E4%BA%8B%E4%BE%8B%EF%BC%9A%E3%80%8Eni%E7%B3%BB%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E6%9D%90%E5%8A%A0%E5%B7%A5%E3%80%801000%E3%8E%9C%E4%BB%A5/）
-  - 「電子機器部品 A5052 小ロット 短納期」（https://www.imahashi-ss.jp/news/2019/03/14/%E8%A3%BD%E5%93%81%E4%BA%8B%E4%BE%8B%EF%BC%9A%E3%80%8Eni%E7%B3%BB%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E6%9D%90%E5%8A%A0%E5%B7%A5%E3%80%801000%E3%8E%9C%E4%BB%A5/）
-  - 「短納期 試作支援」（https://www.imahashi-ss.jp/news/2019/03/14/%E8%A3%BD%E5%93%81%E4%BA%8B%E4%BE%8B%EF%BC%9A%E3%80%8Eni%E7%B3%BB%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E6%9D%90%E5%8A%A0%E5%B7%A5%E3%80%801000%E3%8E%9C%E4%BB%A5/）
-  - 「CAGR. Based on Future Market Insights analysis, the market is set to add an incremental opportunity worth USD 12.86 billion over the forecast period. As per FMI, the procurement landscape for superalloys is being reshaped by evolving specification requirements, regional capacity investments, and shifting end-use demand patterns across established and emerging buyer segments.」（https://www.futuremarketinsights.com/reports/superalloys-market）
-  - 「41.3% share in 2026, reflecting established procurement specifications and supply chain infrastructure favoring this variant.」（https://www.futuremarketinsights.com/reports/superalloys-market）
-  - 「Power generation OEMs targeting Asia Pacific and Middle East markets should establish regional superalloy component finishing and heat treatment capabilities to reduce logistics lead times for turbine overhaul kits.」（https://www.futuremarketinsights.com/reports/superalloys-market）
-  - 「FMI analysts conducted interviews with procurement directors, engineering leads, and supply chain managers across key superalloys manufacturing and end-use organizations to map decision gates and sourcing specifications.」（https://www.futuremarketinsights.com/reports/superalloys-market）
-  - 「Projections are tested against publicly reported procurement volumes, trade flow statistics, and company financial disclosures on a quarterly refresh schedule.」（https://www.futuremarketinsights.com/reports/superalloys-market）
-  - 「Regulatory compliance assessment analyzing how evolving standards and certification mandates shape procurement specifications across target geographies.」（https://www.futuremarketinsights.com/reports/superalloys-market）
-  - 「Capital project strategic guidance defining the procurement parameters and supply chain configurations required for superalloys sourcing through the forecast period.」（https://www.futuremarketinsights.com/reports/superalloys-market）
+  - 「品質管理と認証は8～12％を占め、性能試験や業界認証が含まれる」（https://www.atpress.ne.jp/news/4875929）
+  - 「具体的には、原材料とそのサプライヤー、ニオブ C-103の製造コスト構造、製造プロセス、および産業チェーン構造に関する情報が含まれています」（https://www.atpress.ne.jp/news/4875929）
+  - 「2050年カーボンニュートラル実現に向け、火力発電の脱炭素化（＝ゼロエミッション火力）技術がカギを握ります」（https://www.wsew.jp/hub/ja-jp/about/zet.html）
+  - 「昨今の脱炭素化の潮流において、再生可能エネルギーの普及と並び火力発電の脱炭素化「ゼロエミッション火力発電」の実現が不可欠であると考えております」（https://www.wsew.jp/hub/ja-jp/about/zet.html）
+  - 「脱炭素化をはじめ、エネルギーを取巻く様々な課題を解決していくためには、火力発電についてもより一層の技術革新が求められます」（https://www.wsew.jp/hub/ja-jp/about/zet.html）
+  - 「水素はまだ発展途上の技術ですが、脱炭素の鍵となる存在です」（https://www.wsew.jp/hub/ja-jp/about/zet.html）
+  - 「脱炭素領域に「展示会」活用の面的マーケティングを」（https://www.wsew.jp/hub/ja-jp/about/zet.html）
+  - 「脱炭素燃料とは、燃料中に炭素を含まないまたは含んでいてもバイオマスのようにカーボンニュートラルとなり、CO2の排出を「ゼロ」に近付ける燃料のことです」（https://www.wsew.jp/hub/ja-jp/about/zet.html）
+  - 「ゼロエミッション火力発電とは？日本が取り組む脱炭素化への動向と課題を紹介」（https://www.wsew.jp/hub/ja-jp/about/zet.html）
+  - 「世界では、温暖化防止のため、共通目標として2050年までに脱炭素化を目指しています」（https://www.wsew.jp/hub/ja-jp/about/zet.html）
+  - 「脱炭素化に向けて注目されるゼロエミッション火力ですが、具体的に火力発電でどのように脱炭素化を目指すのか、実現可能なのか疑問に感じている方もいるのではないでしょうか」（https://www.wsew.jp/hub/ja-jp/about/zet.html）
+  - 「加えて、燃焼時にCO2を排出しないこともあり、脱炭素化のための燃料として期待が寄せられています」（https://www.wsew.jp/hub/ja-jp/about/zet.html）
+  - 「地政学的リスク、輸出政策、環境規制による生産制限は、調達コストや納期に影響を与えるため、調達先の分散とリサイクル原料の活用が重要です」（https://www.dreamnews.jp/press/0000367015）
+  - 「試作、切削加工、短納期対応の今橋製作所」（https://www.imahashi-ss.jp/）
+  - 「試作、難削材、複雑形状、短納期対応の切削加工メーカー」（https://www.imahashi-ss.jp/）
 - 顧客の競合（奪いに来る側）：
-  - 「QYResearch調査チームの最新レポート「ニッケル合金―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」によると、ニッケル合金の世界市場は、2025年に10660百万米ドルと推定され、2026年には11240百万米ドルに達すると予測されています」（https://www.dreamnews.jp/press/0000355962）
-  - 「ニッケル合金市場では、航空宇宙・エネルギー産業が集積する北米および欧州が高付加価値製品市場を牽引する一方、中国、日本、韓国を中心としたアジア地域では半導体、新エネルギー、自動車産業向け需要が急拡大している」（https://www.dreamnews.jp/press/0000355962）
-  - 「本記事は、QY Research発行のレポート「ニッケル合金―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します」（https://www.dreamnews.jp/press/0000355962）
-  - 「さらに、米国、韓国、ドイツ、スイス、ポルトガル、中国、インド、インドネシア、ベトナムをはじめとする世界10カ国に調査ネットワークを構築し、現地視点を活かしたグローバル市場調査レポートを展開しています」（https://www.dreamnews.jp/press/0000355962）
-  - 「特金グループは、徹底した品質管理のもと、欧州 RoHS指令に適合した製品を供給いたします」（https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/）
-  - 「■超硬刃具と比較し安価なセラミック刃具で低コスト加工を実現」（https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/）
-  - 「1986年 東京工業大学にて工学博士を取得；1986年～1989年 米国オークリッジ国立研究所；1989年～1993年 科学技術庁 金属材料技術研究所 研究員；1993年4月 東京工業大学 助教授に着任；2011年～ 同大学 教授；2023年3月 定年；同年4月～ 同大学（現 東京科学大学）および大阪大学 特任教授；専門：金属組織学、金属強度学」（https://jimm.jp/event/online/ondemand/026.html）
-  - 「QY Research株式会社は「二元 Ti-Al 合金―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」の調査レポートを発表しました」（https://newscast.jp/smart/news/2494475）
-  - 「本レポートでは、二元 Ti-Al 合金の世界市場における売上高、販売数量、価格動向、市場シェア、主要企業ランキングを包括的に整理しています」（https://newscast.jp/smart/news/2494475）
-  - 「各社の販売数量、売上高、市場シェアなどを整理し、業界動向を把握するための主要指標を提示しています」（https://newscast.jp/smart/news/2494475）
-  - 「◆ 地域別分析対象：北米、欧州、アジア太平洋、ラテンアメリカ、中東・アフリカ」（https://newscast.jp/smart/news/2494475）
-  - 「第2章：二元 Ti-Al 合金主要メーカーの競争状況および市場シェア分析（2021～2026）」（https://newscast.jp/smart/news/2494475）
-  - 「第3章：製品タイプ別二元 Ti-Al 合金市場規模・価格・シェア分析（2021～2032）」（https://newscast.jp/smart/news/2494475）
-  - 「第4章：用途別二元 Ti-Al 合金市場規模・価格・シェア分析（2021～2032）」（https://newscast.jp/smart/news/2494475）
-  - 「二元 Ti-Al 合金市場における主要メーカーの売上高、市場シェア、価格動向、競争ポジションを分析します」（https://newscast.jp/smart/news/2494475）
+  - 「ニオブC-103は、その優れた耐熱性能からエンジンノズルや燃焼室に広く使用されており、例えば米国では、SLM（選別積層造形）法で製造されたC-103合金製エンジンノズルの適用に成功しています」（https://www.atpress.ne.jp/news/4875929）
+  - 「本インサイトレポートは、世界のニオブC-103市場の包括的な分析を提供し、製品セグメンテーション、企業動向、収益、市場シェア、最新の開発動向、M&A活動に関連する主要なトレンドを明らかにします」（https://www.atpress.ne.jp/news/4875929）
+  - 「本レポートでは、製品タイプ、用途、主要メーカー、主要地域および国別に、ニオブC-103市場の包括的な概要、市場シェア、成長機会を提示します」（https://www.atpress.ne.jp/news/4875929）
+  - 「米国市場規模（2021-2026年）」（https://www.atpress.ne.jp/news/4875929）
+  - 「中国市場規模（2021-2026年）」（https://www.atpress.ne.jp/news/4875929）
+  - 「韓国市場規模（2021-2026年）」（https://www.atpress.ne.jp/news/4875929）
+  - 「インド市場規模（2021-2026年）」（https://www.atpress.ne.jp/news/4875929）
+  - 「また、化学組成（Nb-10Hf-1Ti合金、Nb-Hf-Ti耐熱合金、その他）、性能カテゴリ（高温耐性合金、高強度延性合金）、製造プロセス（真空アーク溶解（VAR）合金、積層造形（SLM）合金）、およびアプリケーション（航空宇宙・防衛、医療、半導体、エネルギー、その他）ごとのニオブ C-103の販売量、収益、市場シェア、販売価格（2021年から2026年まで）に関する詳細な分析が示されています」（https://www.atpress.ne.jp/news/4875929）
+  - 「これには、2021年から2026年までの企業別のニオブ C-103年間販売量と市場シェア、年間収益と市場シェア、および企業別の販売価格が含まれます」（https://www.atpress.ne.jp/news/4875929）
+  - 「米国、カナダ、メキシコ、ブラジルといった主要国の市場動向が個別に扱われています」（https://www.atpress.ne.jp/news/4875929）
+  - 「2026年9月、耐火物大手RHI Magnesitaは、インドと米国の鉄鋼需要が市場を支える一方、地域によって需要動向に差があるとの見方を示しました」（https://www.dreamnews.jp/press/0000367015）
+  - 「同年8月には、RHI MagnesitaとインドのKhemka Refractoriesが、使用済み耐火物の再資源化を目的とする合弁事業「MINPRO」を始動しました」（https://www.dreamnews.jp/press/0000367015）
+  - 「今後の耐火物市場では、市場規模や主要企業のシェアに加え、製品タイプ別、原材料別、用途別、地域別の需要構造を把握することが重要です」（https://www.dreamnews.jp/press/0000367015）
+  - 「本記事は、YHResearchが発行したレポート「グローバル耐火物のトップ会社の市場シェアおよびランキング 2026」を紹介しています」（https://www.dreamnews.jp/press/0000367015）
+  - 「, and Chinese producers compete in specific products. Engine makers also produce some materials and parts in-house.」（https://www.fairfieldmarketresearch.com/report/ni-based-superalloys-market）
 - 自社の競合（商社・代理店・仲介）：
+  - 「「AI Highlight Agent」のベータ版を提供開始」（https://www.atpress.ne.jp/news/4875929）
   - 「代理店プログラム」（https://www.dreamnews.jp/press/0000355962）
   - 「東京都/商社・卸売り」（https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/）
   - 「14.1.2販売代理店を通じた販売」（https://www.dreamnews.jp/press/0000326042）
   - 「14.2代表的な販売代理店」（https://www.dreamnews.jp/press/0000326042）
   - 「代理店プログラム」（https://www.dreamnews.jp/press/0000326042）
 - 政治（法・予算・規制）：
+  - 「DX認定を取得した宮崎AIギルウド、...」（https://www.dreamnews.jp/press/0000326042）
+  - 「地政学的リスク、輸出政策、環境規制による生産制限は、調達コストや納期に影響を与えるため、調達先の分散とリサイクル原料の活用が重要です」（https://www.dreamnews.jp/press/0000367015）
+  - 「DX認定を取得した宮崎AIギルウド、...」（https://www.dreamnews.jp/press/0000367015）
+  - 「弊社自らが経験することで得た”WEBの集客力向上”、”補助金申請支援”をはじめとしたノウハウを惜しまず展開しております」（https://www.imahashi-ss.jp/）
+  - 「『事業再構築補助金(通常枠)』の採択を受けました(経済産業省)」（https://www.imahashi-ss.jp/）
+  - 「Defense and space propulsion create a strategic revenue pool for Ni-based superalloy producers. Governments are increasing spending on military aircraft, missiles, drones, and space launch systems.」（https://www.fairfieldmarketresearch.com/report/ni-based-superalloys-market）
+  - 「use nickel superalloys in turbopumps and combustion chambers, often produced with additive manufacturing. Governments in the」（https://www.fairfieldmarketresearch.com/report/ni-based-superalloys-market）
+  - 「fund domestic capacity to reduce reliance on foreign suppliers. Defense ministries, prime contractors, and space companies are the main customers. Long-term government-backed contracts provide stable, high-margin revenue for qualified suppliers.」（https://www.fairfieldmarketresearch.com/report/ni-based-superalloys-market）
+  - 「政府機関による軍事費の増加、および材料科学に関する数多くの研究活動が、主に市場成長を牽引しています」（https://newscast.jp/news/7875080）
+  - 「機器の耐久性と安全性を確保するための政府規制も、高品質な超合金の採用を促進する上で役割を果たしており、これがもう一つの重要な成長促進要因となっています」（https://newscast.jp/news/7875080）
   - 「予算5万円で始めるフィジカルAI──ソフトウェアエンジニアのためのロボットアーム「SO-ARM101」入門」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
   - 「環境規制の強化に対応した低炭素製造プロセスや、スクラップ再資源化による循環型生産体制の整備も企業競争力を左右する重要なテーマとなっている」（https://www.dreamnews.jp/press/0000355962）
   - 「地域別の分析では、北米およびヨーロッパは、政府による技術革新の推進政策や環境・安全への意識向上を背景に、安定した市場拡大を見せています」（https://www.dreamnews.jp/press/0000326042）
   - 「政府の規制や支援政策、技術革新、消費者の嗜好、そしてサステナビリティ重視の流れが、業界全体の成長ドライバーとして機能しています」（https://www.dreamnews.jp/press/0000326042）
   - 「Government Statistics Portals and Public Data Releases」（https://www.futuremarketinsights.com/reports/superalloys-market）
 - 経済（規模・価格・為替）：
-  - 「なぜ1万円台でロボットを配るのか？NVIDIAが2兆円で買ったハギングフェイスの歴史」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
-  - 「予算5万円で始めるフィジカルAI──ソフトウェアエンジニアのためのロボットアーム「SO-ARM101」入門」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
-  - 「NVIDIAが2兆円で買収「ハギングフェイス」は、なぜロボットをばらまくのか」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
-  - 「大学生時代にカジノサークルで稼いだ1億円で起業、世界的ソフトウェアを生み出した男の話」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
-  - 「世界のニッケル合金市場動向、年平均成長率6.1%で拡大継続2026-2032 | QY Research株式会社のプレスリリース」（https://www.dreamnews.jp/press/0000355962）
-  - 「世界のニッケル合金市場動向、年平均成長率6.1%で拡大継続2026-2032」（https://www.dreamnews.jp/press/0000355962）
-  - 「QYResearch調査チームの最新レポート「ニッケル合金―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」によると、ニッケル合金の世界市場は、2025年に10660百万米ドルと推定され、2026年には11240百万米ドルに達すると予測されています」（https://www.dreamnews.jp/press/0000355962）
-  - 「その後、2026年から2032年にかけて年平均成長率（CAGR）6.1%で推移し、2032年には16040百万米ドルに拡大すると見込まれています」（https://www.dreamnews.jp/press/0000355962）
-  - 「本記事は、QY Research発行のレポート「ニッケル合金―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します」（https://www.dreamnews.jp/press/0000355962）
-  - 「プレスケールフィルム業界動向：2026年の市場規模は192百万米ドル見込み」（https://www.dreamnews.jp/press/0000355962）
-  - 「全自動ソフトパックティッシュ包装機の世界市場規模：2026年は391百万米ドルに達する見込み」（https://www.dreamnews.jp/press/0000355962）
-  - 「※本会の維持員社員が同一講座に 3 名以上でお申込みの場合、受講料が正員価格より 25% 割引となります（お申込み前にご相談下さい）」（https://jimm.jp/event/online/ondemand/026.html）
-  - 「二元 Ti-Al 合金市場規模推移：2026年4461百万米ドルから2032年8322百万米ドルへ拡大 | NEWSCAST」（https://newscast.jp/smart/news/2494475）
-  - 「二元 Ti-Al 合金市場規模推移：2026年4461百万米ドルから2032年8322百万米ドルへ拡大」（https://newscast.jp/smart/news/2494475）
-  - 「QY Research株式会社は「二元 Ti-Al 合金―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」の調査レポートを発表しました」（https://newscast.jp/smart/news/2494475）
+  - 「ニオブ C-103の世界市場（2026年～2032年）、市場規模（Nb-10Hf-1Ti 合金、Nb-Hf-Ti 耐火合金）・分析レポートを発表」（https://www.atpress.ne.jp/news/4875929）
+  - 「本資料には、ニオブ C-103の世界市場規模、市場動向、セグメント別予測（Nb-10Hf-1Ti 合金、Nb-Hf-Ti 耐火合金、その他）、関連企業の情報などが盛り込まれています」（https://www.atpress.ne.jp/news/4875929）
+  - 「世界のニオブC-103市場規模は、2025年の4,451万米ドルから2032年には8,517万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）9.6%で成長すると見込まれています」（https://www.atpress.ne.jp/news/4875929）
+  - 「2025年、世界のニオブC-103の生産量は約35トンに達し、世界平均市場価格は約1,300米ドル/kgでした」（https://www.atpress.ne.jp/news/4875929）
+  - 「原材料（高純度ニオブ、ハフニウム、チタン）は総コストの55～65％を占め、世界の鉱石価格や輸入コストに連動していますが、機械的な粉末混合により原材料コストを大幅に削減することが可能です」（https://www.atpress.ne.jp/news/4875929）
+  - 「本インサイトレポートは、ニオブC-103の世界的な見通しを形作る主要な市場動向、推進要因、および影響要因を評価し、化学組成、用途、地域、市場規模ごとに予測を細分化することで、新興のビジネスチャンスを浮き彫りにします」（https://www.atpress.ne.jp/news/4875929）
+  - 「米国市場規模（2021-2026年）」（https://www.atpress.ne.jp/news/4875929）
+  - 「カナダ市場規模（2021-2026年）」（https://www.atpress.ne.jp/news/4875929）
+  - 「メキシコ市場規模（2021-2026年）」（https://www.atpress.ne.jp/news/4875929）
+  - 「ブラジル市場規模（2021-2026年）」（https://www.atpress.ne.jp/news/4875929）
+  - 「3.3メーカー別平均価格（2019～2024年）」（https://www.dreamnews.jp/press/0000326042）
+  - 「YHResearchの調査によると、世界市場規模は2025年の375億5,000万米ドルから2032年には466億1,000万米ドルへ拡大し、2026～2032年のCAGRは3.2%と予測されています」（https://www.dreamnews.jp/press/0000367015）
+  - 「3. 世界市場規模と2026年の業界動向」（https://www.dreamnews.jp/press/0000367015）
+  - 「YHResearchの予測では、世界市場規模は2025年の375億5,000万米ドル、2026年の386億8,000万米ドルから、2032年には466億1,000万米ドルへ成長する見通しです」（https://www.dreamnews.jp/press/0000367015）
+  - 「水素製造市場規模は2030年までに2,387.9億ドルに達し、CAGR7.6%で成長」（https://www.dreamnews.jp/press/0000367015）
 - 技術（新しい技術・実証）：
-  - 「AIが数週間で3Dプリント向け耐熱合金を6種発見、1000℃の酸化を85％抑制 - FabScene（ファブシーン）」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
-  - 「AIが数週間で3Dプリント向け耐熱合金を6種発見、1000℃の酸化を85％抑制」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
-  - 「カナダのトロント大学の研究チームが、AIとロボットを組み合わせた実験装置を使い、金属3Dプリンターで造形できる耐熱合金を6種類見つけた」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
-  - 「レーザーで溶かして積む金属3Dプリンターに向く組成となると、さらに絞り込みが要る」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
-  - 「研究チームは、この探索をAIに任せた」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
-  - 「使ったのは能動学習と呼ぶ手法で、計算モデルと機械学習、ロボットによる製造・試験を組み合わせ、人の手をほとんど介さずに次に試す組成を決めていく」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
-  - 「U of T Engineering: Self-driving lab leverages AI to develop tough new 3D-printable metal alloys」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
-  - 「編み地そのものが3種のスイッチに、ハーバード大が歩数計と自転車で実証」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
-  - 「上海交通大学が1.7mmで全方向の力を測る光学式触覚センサーを開発」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
-  - 「表情豊かなロボットほどミスで信頼を失う、米ドレクセル大が脳とホルモンで確認」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
-  - 「近年はγ'析出強化技術や単結晶・一方向凝固技術、高純度溶解技術の進歩により、800℃を超える高温環境でも長期間使用できる製品開発が進み、積層造形（3Dプリンティング）との組み合わせによる高付加価値部材の実用化も加速している」（https://www.dreamnews.jp/press/0000355962）
-  - 「ニッケル合金は航空宇宙、エネルギー、化学プラント、新エネルギー、自動車など幅広い産業で不可欠な基幹材料であり、近年はAIサーバー向け設備や水素関連インフラへの採用も進んでいる」（https://www.dreamnews.jp/press/0000355962）
-  - 「航空機需要の回復に伴い、次世代エンジンや保守・交換部品向けの耐熱合金需要が増加している」（https://www.dreamnews.jp/press/0000355962）
-  - 「特に積層造形技術を活用した複雑形状部品の製造は、材料歩留まりの改善と製造期間短縮を実現する技術として注目されている」（https://www.dreamnews.jp/press/0000355962）
-  - 「主要メーカーにはVDM Metals、Special Metals Corporation、ArcelorMittal、Carpenter Technology、Aperam（Imphy Alloys）、ATI、Proterial Metals、Nippon Yakin、Sumitomo、Haynes Internationalなどが挙げられ、高性能耐熱合金や特殊用途材料の開発競争が続いている」（https://www.dreamnews.jp/press/0000355962）
+  - 「ラズパイ Zero 2 Wで音声AIアシスタントを製作、ボタンを押して話しかけるとOpenClaw経由で応答」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
+  - 「使用済み電池から純度80％で金属回収、SLACが複数AIに探索させる」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
+  - 「加工・精錬（真空アーク再溶解、積層造形）は20～25％を占め、高度な設備を必要とする」（https://www.atpress.ne.jp/news/4875929）
+  - 「残りの2～8％は間接費であり、高い技術的ハードルに起因する管理、物流、研究開発などが含まれる」（https://www.atpress.ne.jp/news/4875929）
+  - 「ビジネスチャンスは、ハイエンド産業向けの高純度製品の生産、コスト削減のための先進的な加工技術の開発、供給の安定化と受注確保のための協力関係の拡大、そして国内企業の強みを活かした世界市場の拡大と技術的独占の打破にある」（https://www.atpress.ne.jp/news/4875929）
+  - 「ニオブC-103は、その優れた耐熱性能からエンジンノズルや燃焼室に広く使用されており、例えば米国では、SLM（選別積層造形）法で製造されたC-103合金製エンジンノズルの適用に成功しています」（https://www.atpress.ne.jp/news/4875929）
+  - 「本インサイトレポートは、世界のニオブC-103市場の包括的な分析を提供し、製品セグメンテーション、企業動向、収益、市場シェア、最新の開発動向、M&A活動に関連する主要なトレンドを明らかにします」（https://www.atpress.ne.jp/news/4875929）
+  - 「Transform Material Technology」（https://www.atpress.ne.jp/news/4875929）
+  - 「Litai No-nferrous Metals」（https://www.atpress.ne.jp/news/4875929）
+  - 「また、化学組成（Nb-10Hf-1Ti合金、Nb-Hf-Ti耐熱合金、その他）、性能カテゴリ（高温耐性合金、高強度延性合金）、製造プロセス（真空アーク溶解（VAR）合金、積層造形（SLM）合金）、およびアプリケーション（航空宇宙・防衛、医療、半導体、エネルギー、その他）ごとのニオブ C-103の販売量、収益、市場シェア、販売価格（2021年から2026年まで）に関する詳細な分析が示されています」（https://www.atpress.ne.jp/news/4875929）
+  - 「Advanced Powders and Coatings (AP&C)、Materion、ADDMAN、Elmet Technologies、Elmet Additive、Admat、Western Alloys、Raytec Metal、Yunch Titanium、Transform Material Technology、Litai No-nferrous Metalsといった各企業について、会社情報、ニオブ C-103の製品ポートフォリオと仕様、2021年から2026年までの販売量、収益、価格、粗利益、主要事業概要、および最新の動向が個別に詳細に記述されています」（https://www.atpress.ne.jp/news/4875929）
+  - 「今後の研究開発では、ニオブC-103の特性をさらに向上させるための試みが続けられており、より高性能な超伝導体の開発が期待されています」（https://www.atpress.ne.jp/news/4875929）
+  - 「DX認定を取得した宮崎AIギルウド、...」（https://www.dreamnews.jp/press/0000326042）
+  - 「【公式】NEXT-GEN THERMAL POWER EXPO [TPEX] ～次世代 火力発電 EXPO～ - 展示会概要｜カンファレンス(セミナー・フォーラム)や特別企画(イベント)も多数開催」（https://www.wsew.jp/hub/ja-jp/about/zet.html）
+  - 「NEXT-GEN THERMAL POWER EXPO [TPEX] ～次世代 火力発電 EXPO～ - 展示会概要」（https://www.wsew.jp/hub/ja-jp/about/zet.html）
 - 検索結果の抜粋：
+  - 「The Superalloy Products Market Report ( 2026 to 2033 ... — The Superalloy Products Market Report ( 2026 to 2033 ... LinkedIn https://www.linkedin.com > pulse > s...」（https://www.linkedin.com/pulse/superalloy-products-market-report-2026-2033-highlights-bnyae）
+  - 「Superalloys Conferences 2026 /2027/2028 — Superalloys Conferences 2026 /2027/2028 Conference Index https://conferenceindex.org > superall...」（https://conferenceindex.org/conferences/superalloys）
   - 「AIが数週間で3Dプリント向け 耐熱合金 を6種発見 — AIが数週間で3Dプリント向け 耐熱合金 を6種発見 FabScene https://fabscene.com > 新着記事 > ニュース」（https://fabscene.com/new/news/ai-self-driving-lab-nicocr-alloys/）
   - 「耐熱合金 - メーカー・企業 11 社の業務用製品ランキング — 耐熱合金 - メーカー・企業 11 社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 耐熱合金」（https://mono.ipros.com/cg2/%E8%80%90%E7%86%B1%E5%90%88%E9%87%91/）
   - 「Ni系 耐熱合金 (タービン材)加工 1000㎜以上 - 今橋製作所株式会社 — Ni系 耐熱合金 (タービン材)加工 1000㎜以上 - 今橋製作所株式会社 株式会社今橋製作所 https://www.imahashi-ss.jp > news > 2019/03/14 > 製品事...」（https://www.imahashi-ss.jp/news/2019/03/14/%E8%A3%BD%E5%93%81%E4%BA%8B%E4%BE%8B%EF%BC%9A%E3%80%8Eni%E7%B3%BB%E8%80%90%E7%86%B1%E5%90%88%E9%87%91%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E6%9D%90%E5%8A%A0%E5%B7%A5%E3%80%801000%E3%8E%9C%E4%BB%A5/）
@@ -2811,128 +2856,140 @@
 ## 低炭素アルミ（low carbon aluminum）
 - 文脈：9 マテリアル ④低炭素金属部素材
 - 顧客（金を払う側）：
-  - 「循環型低炭素アルミ「PremiAL R100」が アシストの階段すべり止め製品と床見切り製品へ採用｜Newsroom｜LIXIL」（https://newsroom.lixil.com/ja/2026101301）
-  - 「循環型低炭素アルミ「PremiAL R100」が アシストの階段すべり止め製品と床見切り製品へ採用」（https://newsroom.lixil.com/ja/2026101301）
-  - 「企業ニュース」（https://newsroom.lixil.com/ja/2026101301）
-  - 「企業ニュースアーカイブ」（https://newsroom.lixil.com/ja/2026101301）
-  - 「PremiAL R100が採用される製品」（https://newsroom.lixil.com/ja/2026101301）
-  - 「リサイクルアルミ使用比率100％の「PremiAL R100」を形材として初納入」（https://newsroom.lixil.com/ja/2026101301）
-  - 「株式会社LIXIL（以下LIXIL）は、リサイクルアルミ使用比率100％のLIXIL循環型低炭素アルミ「PremiAL R100（プレミアル アール100）」を、株式会社アシスト（以下アシスト）が展開する階段すべり止め製品と床見切り製品に採用することを決定しました」（https://newsroom.lixil.com/ja/2026101301）
-  - 「なお、「PremiAL R100」を形材としてメーカーに納入するのは、今回が初の事例となります」（https://newsroom.lixil.com/ja/2026101301）
-  - 「「PremiAL R100」は、アシストが2026年11月から販売開始する階段すべり止め製品と床見切り製品のアルミ製品に採用されました」（https://newsroom.lixil.com/ja/2026101301）
-  - 「ことができ、採用された製品のライフサイクル全体のCO₂排出量削減に貢献します」（https://newsroom.lixil.com/ja/2026101301）
-  - 「会員企業一覧」（https://project.nikkeibp.co.jp/ESG/atcl/column/00005/100600536/）
-  - 「規制強化で需要拡大が見込まれるが、再生資源の確保と量産技術で先行できるか」（https://project.nikkeibp.co.jp/ESG/atcl/column/00005/100600536/）
-  - 「26年度中に全製品に導入し、27年度にシリーズ売り上げ4000億円を目指す」（https://project.nikkeibp.co.jp/ESG/atcl/column/00005/100600536/）
-  - 「23年に同100%の「R100」の受注生産を開始し、ビルなど非住宅分野を中心に供給してきた」（https://project.nikkeibp.co.jp/ESG/atcl/column/00005/100600536/）
-  - 「28年度をめどに、まず大規模建築物を対象としてLCA算定制度を導入し、順次対象範囲を拡大していく方針だ」（https://project.nikkeibp.co.jp/ESG/atcl/column/00005/100600536/）
+  - 「これまで「PremiAL R100」は、ビル向けのLIXIL製品でさまざまな物件に採用されてきましたが、今回初めてLIXILが形材としてメーカーに提供することとなりました」（https://newsroom.lixil.com/ja/2026101301）
+  - 「そうした中、アシストは世界的に深刻化する気候変動に対し、企業としての責任を果たすべくCO₂排出量の削減に向けた取り組みを強化しています」（https://newsroom.lixil.com/ja/2026101301）
+  - 「同社はロッテ狭山工場との循環共創や循環型事業モデル「CirculaC」を展開しており、2030年4月以降には原料水素の100％をプラスチック由来に切り替える計画を進めている」（https://japan.storm.mg/articles/1172126）
+  - 「本技術により、バージン溶剤比でカーボンフットプリント（CFP）を70％削減し、原材料調達に伴う地政学リスクの低減にも寄与する」（https://japan.storm.mg/articles/1172126）
+  - 「TSMCの2nm投資拡大で材料サプライチェーンに追い風 独占供給企業に注目」（https://japan.storm.mg/articles/1172126）
+  - 「台湾のバラクーダ500導入計画、米軍制式装備化で頓挫 中科院はアンセム製品で代替を模索」（https://japan.storm.mg/articles/1172126）
+  - 「国家中山科学研究院（中科院、台湾国防部傘下の兵器研究開発機関）は昨年開かれた防衛産業の国際展示会、台北国際航太暨国防工業展覧会（TADTE、国防展）で、同分野における米国のユニコーン企業、アンドゥリル・インダストリーズ（Anduril Industries）と共同で展示を行った際、低コストの空中発射型巡航ミサイル「バラクーダ500（Barracuda 500......」（https://japan.storm.mg/articles/1172126）
+  - 「日本最大規模の化学・プラント設備展「INCHEM TOKYO 2027」海外企業の出展募集を開始」（https://japan.storm.mg/articles/1172126）
+  - 「これに伴い、海外企業を含む出展企業の募集を正式に開始した」（https://japan.storm.mg/articles/1172126）
+  - 「【独占】日台共同製作ファンド「大日文創」、資金調達が目標の70％に 第1弾『桜花爛漫』は2028年撮影へ」（https://japan.storm.mg/articles/1172126）
+  - 「大日文創はその後、台湾のニュースメディア『風傳媒（ストームメディア）』の独占書面取材に応じ、第1号ファンドの資金調達状況や今後の投資戦略について明らかにした」（https://japan.storm.mg/articles/1172126）
+  - 「同ファンドは、1億台湾ドル（約5億円）の資金調達を......」（https://japan.storm.mg/articles/1172126）
+  - 「大手住宅建材メーカー、アルミ製品〝脱炭素〟へ=リサイクル材100%や水素燃料、実現にはコスト増などの課題も | 住宅産業新聞」（https://www.housenews.jp/equipment/23613）
+  - 「大手住宅建材メーカー、アルミ製品〝脱炭素〟へ=リサイクル材100%や水素燃料、実現にはコスト増などの課題も」（https://www.housenews.jp/equipment/23613）
+  - 「大手住宅建材メーカーがアルミ製品の脱炭素化へ向け動き出した」（https://www.housenews.jp/equipment/23613）
 - 顧客の顧客（発注元が求めること）：
+  - 「大手住宅建材メーカー、アルミ製品〝脱炭素〟へ=リサイクル材100%や水素燃料、実現にはコスト増などの課題も | 住宅産業新聞」（https://www.housenews.jp/equipment/23613）
+  - 「大手住宅建材メーカー、アルミ製品〝脱炭素〟へ=リサイクル材100%や水素燃料、実現にはコスト増などの課題も」（https://www.housenews.jp/equipment/23613）
+  - 「大手住宅建材メーカーがアルミ製品の脱炭素化へ向け動き出した」（https://www.housenews.jp/equipment/23613）
+  - 「国土交通省住宅局2027年度予算概算要求・税制改正要望、「みらいエコ住宅事業」今年度と同規模=GX債含め、新規事業の多くは既存対策」（https://www.housenews.jp/equipment/23613）
+  - 「・他方、欧州を中心に素材製造プロセスの脱炭素化を求める動きがあり、高機能性に加えて低炭素な部素材を求めるように需要家の嗜好が変化する動きが見られる」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+  - 「アルミは新地金の製造までの工程で排出量全体の90％を占め、レアメタルはリサイクルで採掘よりCO₂排出量を80％削減できるため、スクラップや再生材の活用が脱炭素のカギになるからです」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+  - 「・各国も脱炭素化に向けた技術開発や投資を進める中、日本でも低炭素金属部素材の供給体制を構築することは、金属事業者の競争力維持・強化のために必要不可欠な危機管理投資」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+  - 「が明記されていることは、自治体の調達方針も国の戦略の一部になることを意味します」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+  - 「生産基盤構築の初期投資負担が大きいこと、世界的にスクラップ・ブラックマスやグリーンな原材料への需要が高まる中で安定調達が必要なこと、安価・安定な脱炭素電力の確保が不透明なこと、高価格となる低炭素金属部素材への需要が創出されるか不透明でGX価値の見える化と国際標準への反映が道半ばであることの4点です」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+  - 「・インフラ：安価・安定な脱炭素電力の確保について不透明」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+  - 「安価・安定な脱炭素電力の確保、高価格となる低炭素金属部素材への需要、GX価値の見える化と国際標準への反映が課題とされています」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+  - 「：「国・地方公共団体による優先的調達・購入の推進・検討」とあるとおり、調達方針での扱いを検討する」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
   - 「数値の信頼性を高めるため、国際規格に準拠した第三者認証「SuMPO EPD」を取得した」（https://project.nikkeibp.co.jp/ESG/atcl/column/00005/100600536/）
   - 「基準・認証、ルール形成戦略」（https://www.jetro.go.jp/biznews/2023/02/51e654593caa7e00.html）
   - 「基準・認証、規制」（https://www.jetro.go.jp/biznews/2023/02/51e654593caa7e00.html）
-  - 「脱炭素社会の実現には、全世界のCO₂排出量の37%を占める建設部門での排出量削減が不可欠です」（https://newsroom.lixil.com/ja/2025091701）
-  - 「このソリューションを業界に先駆けて、ビル向け建材のみならず、住宅向け製品も含めて展開することで、建築業界の脱炭素化のさらなる発展に貢献してまいります」（https://newsroom.lixil.com/ja/2025091701）
-  - 「基準・認証、ルール形成戦略」（https://www.jetro.go.jp/biznews/2022/12/761d8e4afeb92bf2.html）
-  - 「基準・認証、規制」（https://www.jetro.go.jp/biznews/2022/12/761d8e4afeb92bf2.html）
-  - 「さらに、2026年以降の電力購入枠拡大にも合意しており、これにより操業効率化を推し進め、生産拡大と脱炭素化を両立させていく方針です」（https://www.marubeni.com/jp/news/2025/info/00033.html）
-  - 「カナダ・アロエッテアルミ製錬所におけるASI Chain of Custodyの認証取得について」（https://www.marubeni.com/jp/news/2025/info/00033.html）
-  - 「Sales / Marketing / Procurement Director」（https://www.ecv-events.com/EGAS2026?cci=150）
 - 顧客の競合（奪いに来る側）：
-  - 「LIXIL、インドに新たなサッシ工場を建設 ハウジング事業のグローバル展開を加速」（https://newsroom.lixil.com/ja/2026101301）
-  - 「欧州・CIS」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「インドネシア」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「米国では史上初の90セント／lbを記録」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「インドネシア増産の進捗が注目される」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「中国のアルミ生産はなお増加しているが、2017年に政府が設けた年間4,500万トンの上限に達しつつある」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「中国以外の生産は伸び悩んでいる」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「電解アルミニウム（一次アルミ）は生産コストの約4割を電力が占め、電力供給の安定性も必須だが、安価で安定したクリーン電力の確保は厳しさを増す一方だ」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「その一方で、2023年6月にボーキサイト輸出を禁止したインドネシアがアルミナ・アルミニウムの国産化を進めている」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「米国・欧州は、電力コストや環境制約などにより、一次アルミ生産が構造的に不足する純輸入地域となっている」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「トランプ関税や2026年本格施行予定のCBAM（欧州国境炭素調整）は、こうした供給構造を変えるより先に、既存の不足を価格面で顕在化させる形となった」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「米国関税措置への対応」（https://www.jetro.go.jp/biznews/2023/02/51e654593caa7e00.html）
-  - 「インドネシア」（https://www.jetro.go.jp/biznews/2023/02/51e654593caa7e00.html）
-  - 「BMWは2024年から低炭素アルミニウムを調達、米国サウスカロライナ州スパータンバーグ工場（2022年生産台数：41万6,301台）でボンネット製造などに使用する」（https://www.jetro.go.jp/biznews/2023/02/51e654593caa7e00.html）
-  - 「BMWは2022年11月、米国と中国で生産過程でのCO2排出量が少ない鉄鋼を調達すると発表したほか（」（https://www.jetro.go.jp/biznews/2023/02/51e654593caa7e00.html）
+  - 「世界を、台湾から読む⇒」（https://japan.storm.mg/articles/1172126）
+  - 「米国の台湾向け武器売却保留がはらむリスク、専門家が1996年海峡危機の再現に警鐘」（https://japan.storm.mg/articles/1172126）
+  - 「トランプ米大統領が約140億ドル規模の台湾向け武器売却案の承認を遅らせている上、同武器売却案を中国に対する「非常に良い交渉カード」だと公言している」（https://japan.storm.mg/articles/1172126）
+  - 「米シンクタンク、民主主義防衛財団（FDD）の中国問題担当シニアディレクター、クレイグ・シングルトン氏は、11月2日付ニューヨーク・タイムズへの寄稿でこれに警告を発しており、トランプ氏は単に貿易交渉の余地を残したい......」（https://japan.storm.mg/articles/1172126）
+  - 「1996年台湾海峡危機」（https://japan.storm.mg/articles/1172126）
+  - 「株式会社ADKホールディングスは13日、米国のマーケティング会社であるStagwell Inc.と、3年間にわたる戦略的業務提携に関する基本契約（Master Agreement）を締結したと発表した」（https://japan.storm.mg/articles/1172126）
+  - 「台湾のバラクーダ500導入計画、米軍制式装備化で頓挫 中科院はアンセム製品で代替を模索」（https://japan.storm.mg/articles/1172126）
+  - 「国家中山科学研究院（中科院、台湾国防部傘下の兵器研究開発機関）は昨年開かれた防衛産業の国際展示会、台北国際航太暨国防工業展覧会（TADTE、国防展）で、同分野における米国のユニコーン企業、アンドゥリル・インダストリーズ（Anduril Industries）と共同で展示を行った際、低コストの空中発射型巡航ミサイル「バラクーダ500（Barracuda 500......」（https://japan.storm.mg/articles/1172126）
+  - 「DSEI Japan 2027が幕張メッセで過去最大規模の開催へ テーマはインド太平洋の強靭性と即応態勢の強化、スタートアップゾーン新設も」（https://japan.storm.mg/articles/1172126）
+  - 「第4回を迎える今回の全体テーマは「インド太平洋における強靭性と即応態勢の強化 ～革新と産業連携の推進を通じて～」に設定され、航空、陸上、海上、宇宙、サイバー・......」（https://japan.storm.mg/articles/1172126）
+  - 「：米国のアルミ生産は2000年頃まで世界最大級だったが、現在稼働中の一次製錬所は4か所のみ（世界生産の1～2%程度）」（https://www.scgr.co.jp/report/survey/2025121978183/）
+  - 「：欧州もまた、一次アルミの純輸入地域」（https://www.scgr.co.jp/report/survey/2025121978183/）
+  - 「トランプ関税発動当初はカナダ産アルミが欧州に流入し、プレミアムが軟化する局面もあったが、米国の価格急騰でそのフローは減速した」（https://www.scgr.co.jp/report/survey/2025121978183/）
+  - 「欧州向け低炭素アルミの主な供給ソースであるモザンビークMozal製錬所は2026年3月閉鎖（予定）、2025年10月にアイスランドの製錬所で発生した生産障害は長期化し、供給量が減少」（https://www.scgr.co.jp/report/survey/2025121978183/）
+  - 「・他方、欧州を中心に素材製造プロセスの脱炭素化を求める動きがあり、高機能性に加えて低炭素な部素材を求めるように需要家の嗜好が変化する動きが見られる」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+- 自社の競合（商社・代理店・仲介）：
+  - 「輸入商社のフォーカルポイント株式会社は、シンガポールのGyges Labs（ジャイジス・ラボ）が開発した次世代ウェアラブルAIデバイス「Vocci（ヴォッチ）」の日本上陸に伴い、2026年9月30日午前11時よりクラウドファンディングサイト「GREEN FUNDING」にてプロジェクトを開始した」（https://japan.storm.mg/articles/1172126）
 - 政治（法・予算・規制）：
+  - 「その実践として、独自の社内認定制度「Resonac Pride 製品・サービス」を通じ、環境貢献の可視化と事業成長の両立を推進する方針を提示した」（https://japan.storm.mg/articles/1172126）
+  - 「公正取引委員会、M大規模修繕工事で独禁法違反認定=関係会社と受注・見…」（https://www.housenews.jp/equipment/23613）
+  - 「国土交通省住宅局2027年度予算概算要求・税制改正要望、「みらいエコ住宅事業」今年度と同規模=GX債含め、新規事業の多くは既存対策」（https://www.housenews.jp/equipment/23613）
+  - 「セキュリティの確保された政府・地方公共団体のAX/…」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+  - 「欧州の市場参入規制で需要家が低炭素な部素材を求め始め、欧州バッテリー規則では2031年から再生材の使用が義務付けられます」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+  - 「・欧州をはじめとし、製造時のCO₂排出量が多い製品の市場参入規制が導入される動きが見られる中で、需要サイドでも高機能性に加えて低炭素金属部素材を求めるように嗜好が変わる動きが見られる」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+  - 「その中で、欧州や中国等のアルミメーカーは、政府の支援も受けつつ、低炭素化に向けた技術開発・投資やスクラップの確保を推進している」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+  - 「・リチウムイオン蓄電池では、中国等によりリサイクル促進のための政府支援が積極的に行われており、また、欧州バッテリー規則では、2031年より再生材の使用が義務付けられる」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+  - 「Q. 低炭素金属部素材の補助金や公募はありますか？」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+  - 「ロードマップには、アルミスクラップ溶解設備等への技術開発・設備投資支援や、蓄電池リサイクルの技術開発・設備投資支援などの方向性が書かれていますが、具体的な補助事業・予算・公募の内容は記載されていません」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+  - 「施策の具体化・予算・公募の詳細は、内閣官房（日本成長戦略会議）や所管府省庁の最新の公表資料で確認してください」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+  - 「Panel Discussion: Aluminium Under Trade Barriers and EU Green Regulations」（https://www.ecv-events.com/EGAS2026?cci=150）
   - 「規制強化で需要拡大が見込まれるが、再生資源の確保と量産技術で先行できるか」（https://project.nikkeibp.co.jp/ESG/atcl/column/00005/100600536/）
   - 「建築物の排出規制に商機」（https://project.nikkeibp.co.jp/ESG/atcl/column/00005/100600536/）
   - 「北浜法律事務所・河浪潤パートナー 弁護士「多様な法務の専門家がチームで支援」」（https://project.nikkeibp.co.jp/ESG/atcl/column/00005/100600536/）
-  - 「中国のアルミ生産はなお増加しているが、2017年に政府が設けた年間4,500万トンの上限に達しつつある」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「トランプ関税や2026年本格施行予定のCBAM（欧州国境炭素調整）は、こうした供給構造を変えるより先に、既存の不足を価格面で顕在化させる形となった」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「しかし、輸入関税は2025年3月に一律25%、6月には50%に引き上げられ、輸入・在庫は急減」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「トランプ関税発動当初はカナダ産アルミが欧州に流入し、プレミアムが軟化する局面もあったが、米国の価格急騰でそのフローは減速した」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「また、米国がアルミスクラップを関税対象外としたため、スクラップの海外流出も問題となっている」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「米国では国内価格が極端な高騰をみせていることから、USMCA再交渉による関税引き下げ・輸入割当導入への期待が浮上しつつある」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「世界各国の関税率」（https://www.jetro.go.jp/biznews/2023/02/51e654593caa7e00.html）
-  - 「政府公共調達データベース」（https://www.jetro.go.jp/biznews/2023/02/51e654593caa7e00.html）
-  - 「米国関税措置への対応」（https://www.jetro.go.jp/biznews/2023/02/51e654593caa7e00.html）
-  - 「基準・認証、規制」（https://www.jetro.go.jp/biznews/2023/02/51e654593caa7e00.html）
-  - 「世界各国の関税率」（https://www.jetro.go.jp/biznews/2022/12/761d8e4afeb92bf2.html）
-  - 「政府公共調達データベース」（https://www.jetro.go.jp/biznews/2022/12/761d8e4afeb92bf2.html）
 - 経済（規模・価格・為替）：
-  - 「26年度中に全製品に導入し、27年度にシリーズ売り上げ4000億円を目指す」（https://project.nikkeibp.co.jp/ESG/atcl/column/00005/100600536/）
-  - 「国際アルミニウム価格は3年ぶり高値圏」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「【2025年】 LME価格：3年ぶり高値圏」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「指標価格（LME3か月物）は2024年半ばから続いた約2,300～2,700ドル／トンのレンジを脱し、第4四半期には3年ぶりに2,900ドル台に上昇した」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「トランプ関税や2026年本格施行予定のCBAM（欧州国境炭素調整）は、こうした供給構造を変えるより先に、既存の不足を価格面で顕在化させる形となった」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「LME価格＋プレミアムで5,000ドル／トン近い価格となる」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「株式会社LIXIL（証券コード: 5938）は、2026年3月期に1兆5,107億円の連結売上高を計上しています」（https://digitalpr.jp/r/145700）
-  - 「6,853,000 万円」（https://digitalpr.jp/r/145700）
-  - 「出前館、「超ゴイゴイヤスー後夜祭」を本日より開催！“ダイアン津田さんが総額1,000万円分のメシ奢りまスー!?”や限定セール・クーポンを配布」（https://digitalpr.jp/r/145700）
-  - 「CO₂排出量50％削減の循環型低炭素アルミ「PremiAL」をLIXIL製品のアルミに価格据え置きで標準展開｜Newsroom｜LIXIL」（https://newsroom.lixil.com/ja/2025091701）
-  - 「CO₂排出量50％削減の循環型低炭素アルミ「PremiAL」をLIXIL製品のアルミに価格据え置きで標準展開」（https://newsroom.lixil.com/ja/2025091701）
-  - 「for the production of impact-extruded cans. The new Ball aerosol can is 30% lighter than a standard aluminum can, while fully retaining its strength and structure. Since 2014, over 2.2 billion ReAl cans have been used across the world – that’s the equivalent of 66,000 tonnes of CO2e saved. Ball aims for」（https://www.ball.com/newswire/article/124144/ball-corporation-launches-new-low-carbon-footprint-aluminum-aerosol-can）
-  - 「Ball Corporation supplies innovative, sustainable aluminum packaging solutions for beverage, personal care and household products for customers, as well as aerospace and other technologies and services primarily for the U.S. government. Ball Corporation and its subsidiaries employ 24,300 people worldwide and reported 2021 net sales of $13.8 billion. For more information, visit」（https://www.ball.com/newswire/article/124144/ball-corporation-launches-new-low-carbon-footprint-aluminum-aerosol-can）
-  - 「ClearFlow Metalworks plans a $28 million aluminum billet casting facility in Kentucky, with initial annual casting capacity of 100,000 tons.」（https://www.aluminummarketupdate.crugroup.com/）
-  - 「Adjusted EBITDA is estimated to range from $1.03 billion to $1.06 billion.」（https://www.aluminummarketupdate.crugroup.com/）
+  - 「同ファンドは、1億台湾ドル（約5億円）の資金調達を......」（https://japan.storm.mg/articles/1172126）
+  - 「パナソニック、AI向け電子材料に920億円 中国・タイでMEGTRON増産、台湾も世界5拠点の一角」（https://japan.storm.mg/articles/1172126）
+  - 「パナソニックグループ傘下のパナソニック インダストリーは10月30日、AIサーバー向けの関連材料や電子部品の生産能力拡大に向け、約920億円を投じると発表した」（https://japan.storm.mg/articles/1172126）
+  - 「内訳は、高機能多層基板材料の増産に670億円、GPU電源用コンデンサに170億円、次世代半導体パッケージ材料の開発に80億円となっている」（https://japan.storm.mg/articles/1172126）
+  - 「ハルメク「パーソナライズおせち」を提案 個食志向捉え過去最高売上10億円、新商品「奏」や1人前「さくら」展開」（https://japan.storm.mg/articles/1172126）
+  - 「米CNNが全米自動車協会（AAA）のデータを集計したところ、全米のガソリン平均価格が1ガロン4ドル以上となった日は今年、10月13日時点で165日に達し、2000年の統計開始以来最多となった」（https://japan.storm.mg/articles/1172126）
+  - 「新設着工2026年8月分、「持ち家」前年比微増・1昨年比は約1割減…」（https://www.housenews.jp/equipment/23613）
+  - 「全建総連「第6回工務店アンケート調査」、価格転嫁は十分に進まず=「物…」（https://www.housenews.jp/equipment/23613）
+  - 「低炭素金属部素材とは｜官民投資ロードマップのアルミ・レアメタル目標・投資額0.7兆円をやさしく解説｜官民投資ロードマップをやさしく読む」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+  - 「2040年度までで0.7兆円」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+  - 「2040年度までで6.7兆円」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+  - 「官民投資額は2040年度までで0.7兆円、経済波及効果は2040年度までで6.7兆円と想定されています」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+  - 「官民投資の具体像 ― 低炭素金属部素材の投資額0.7兆円・経済波及効果6.7兆円」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+  - 「官民投資額は2040年度までで0.7兆円、投資による経済波及効果は2040年度までで6.7兆円と想定されています」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
+  - 「2040年度までで0.7兆円と想定」（https://digital-supporter.net/mirai-ai/17invest/teitanso-kinzoku.html）
 - 社会（人・担い手）：
+  - 「東南アジアはEVの「普及」から「生産」へ軸足を移す ～雇用創出・技術移転が進むかに注目～」（https://www.scgr.co.jp/report/survey/2025121978183/）
+  - 「【多世帯住宅2023】共働きの増加で親との同居に高い関心=少子高齢化での負担軽減も」（https://www.housenews.jp/equipment/23613）
   - 「高度外国人材活躍支援」（https://www.jetro.go.jp/biznews/2023/02/51e654593caa7e00.html）
   - 「高度外国人材活躍支援」（https://www.jetro.go.jp/biznews/2022/12/761d8e4afeb92bf2.html）
   - 「本合意により、環境負荷を抑えたアルミの長期的な安定供給に寄与するとともに、ケベック州の地域経済や安定雇用の創出にも引き続き貢献していきます」（https://www.marubeni.com/jp/news/2025/info/00033.html）
 - 技術（新しい技術・実証）：
-  - 「ベイン·アンド·カンパニー·ジャパン 奥野慎太郎アジア太平洋地域代表「AIの発展は日本のチャンス」」（https://project.nikkeibp.co.jp/ESG/atcl/column/00005/100600536/）
-  - 「Takaichi, Trump and Mazda」（https://project.nikkeibp.co.jp/ESG/atcl/column/00005/100600536/）
-  - 「TOPPAN Holdings Delivers Print-Technology Innovations for a Brighter Future in Food, Medicine」（https://project.nikkeibp.co.jp/ESG/atcl/column/00005/100600536/）
-  - 「また、インドネシアの増産計画（Adaro系KAI：第1期の50万トン／年が年内に試運転開始、将来的に150万トン」（https://www.scgr.co.jp/report/survey/2025121978183/）
-  - 「LIXILは、世界中の誰もが願う豊かで快適な住まいを実現するために、日々の暮らしの課題を解決する先進的なトイレ、お風呂、キッチンなどの水まわり製品と窓、ドア、インテリア、エクステリアなどの建材製品を開発、提供しています」（https://digitalpr.jp/r/145700）
-  - 「次世代デザインを探求するLIXIL公式Podcastの最新エピソードを公開」（https://digitalpr.jp/r/145700）
-  - 「株式会社LIXIL 執行役専務 LIXIL Housing Technology担当の吉田聡は次のようにコメントしています」（https://newsroom.lixil.com/ja/2025091701）
-  - 「LIXILは、現在、そして未来の環境や社会、人々の暮らしを見据えた私たちの取り組みが事業成長の持続性に繋がると信じ、急速に変化する世界において日々の暮らしと社会にインパクト（良い影響）を生み出す製品やサービスの開発に取り組んでいきます」（https://newsroom.lixil.com/ja/2025091701）
-  - 「LIXIL、「Reuters Global Sustainability Awards 2026」の「Circularity」部門において最優秀賞を受賞」（https://newsroom.lixil.com/ja/2025091701）
-  - 「カナダ・アロエッテアルミ製錬所におけるASI Chain of Custodyの認証取得について」（https://www.marubeni.com/jp/news/2025/info/00033.html）
-  - 「LIXIL Housing Technologyでは、グローバル展開を一元的に推進する新組織「LHT Global」を設置しました」（https://newsroom.lixil.com/ja/2026101401）
-  - 「次世代デザインを探求するLIXIL公式Podcastの最新エピソードを公開」（https://newsroom.lixil.com/ja/2026101401）
-  - 「LIXIL、「Reuters Global Sustainability Awards 2026」の「Circularity」部門において最優秀賞を受賞」（https://newsroom.lixil.com/ja/2026101401）
-  - 「Skip to main content」（https://www.ball.com/newswire/article/124144/ball-corporation-launches-new-low-carbon-footprint-aluminum-aerosol-can）
-  - 「Sustainability」（https://www.ball.com/newswire/article/124144/ball-corporation-launches-new-low-carbon-footprint-aluminum-aerosol-can）
+  - 「レゾナック、廃プラで「都市油田」開発」（https://project.nikkeibp.co.jp/ESG/atcl/column/00005/100600536/）
+  - 「自動車部品向けの同製品は、AIや計算科学を用いた合金設計技術により、スクラップ由来の不純物を制御しながら現行材と同等以上の強度を確保した」（https://japan.storm.mg/articles/1172126）
+  - 「旭化成など4社、食塩電解セル・電極の金属リサイクル実証を開始」（https://japan.storm.mg/articles/1172126）
+  - 「「台日AIテクノロジーフォーラム」が東京で開催 半導体供給網とスマート製造で連携深化へ」（https://japan.storm.mg/articles/1172126）
+  - 「国家中山科学研究院（中科院、台湾国防部傘下の兵器研究開発機関）は昨年開かれた防衛産業の国際展示会、台北国際航太暨国防工業展覧会（TADTE、国防展）で、同分野における米国のユニコーン企業、アンドゥリル・インダストリーズ（Anduril Industries）と共同で展示を行った際、低コストの空中発射型巡航ミサイル「バラクーダ500（Barracuda 500......」（https://japan.storm.mg/articles/1172126）
+  - 「楽天が11月14日に「Rakuten AI Technology Conference 2026」を開催 AIによる能力拡張と社会変革を探究」（https://japan.storm.mg/articles/1172126）
+  - 「楽天グループ株式会社は、テクノロジーイベント「Rakuten AI Technology Conference 2026」を2026年11月14日に東京都世田谷区の楽天クリムゾンハウスで開催する」（https://japan.storm.mg/articles/1172126）
+  - 「AI技術が社会にもたらす変革を踏まえ、18回目を迎える今年から名称を「Rakuten AI Te......」（https://japan.storm.mg/articles/1172126）
+  - 「Rakuten AI Technology Conference 2026」（https://japan.storm.mg/articles/1172126）
+  - 「日台共同製作に特化した映像ファンド「大日文創（DAILY CAPITAL）」が、東京で開催されたコンテンツマーケット「TIFFCOM」で設立を発表した」（https://japan.storm.mg/articles/1172126）
+  - 「パナソニック、AI向け電子材料に920億円 中国・タイでMEGTRON増産、台湾も世界5拠点の一角」（https://japan.storm.mg/articles/1172126）
+  - 「生産性向上へ全社員を「AIネイティブ」に=ミラタップ…」（https://www.housenews.jp/equipment/23613）
+  - 「AI活用でリフォーム需要を開拓、東京ショールームを刷新=LIXIL…」（https://www.housenews.jp/equipment/23613）
+  - 「パナソニックホームズ、福島県伊達市で街びらき=地元企業主体の開発・運…」（https://www.housenews.jp/equipment/23613）
+  - 「生産性向上へ全社員を「AIネイティブ」に=ミラタップ」（https://www.housenews.jp/equipment/23613）
 - 検索結果の抜粋：
+  - 「LIXIL循環型 低炭素アルミ 「PremiAL R100」がアシストの階段 ... — LIXIL循環型 低炭素アルミ 「PremiAL R100」がアシストの階段 ... 沖縄タイムス社 https://www.okinawatimes.co.jp > Digital PR Platform」（https://www.okinawatimes.co.jp/articles/-/1943500）
   - 「循環型 低炭素アルミ 「PremiAL R100」が アシストの階段 ... — 循環型 低炭素アルミ 「PremiAL R100」が アシストの階段 ... LIXIL Corporation https://newsroom.lixil.com > 2026101301」（https://newsroom.lixil.com/ja/2026101301）
   - 「LIXIL、COP31に 低炭素アルミ 出展 | 日刊工業新聞 電子版 — LIXIL、COP31に 低炭素アルミ 出展 | 日刊工業新聞 電子版 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/796207）
   - 「BMW、リオティントのカナダ工場から 低炭素アルミニウム 調達 — BMW、リオティントのカナダ工場から 低炭素アルミニウム 調達 ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2023/02」（https://www.jetro.go.jp/biznews/2023/02/51e654593caa7e00.html）
   - 「LIXIL循環型 低炭素アルミ 「PremiAL R100」が アシストの ... — LIXIL循環型 低炭素アルミ 「PremiAL R100」が アシストの ... Digital PR Platform https://digitalpr.jp > ...」（https://digitalpr.jp/r/145700）
   - 「CO₂排出量50％削減の循環型 低炭素アルミ 「PremiAL」を ... — CO₂排出量50％削減の循環型 低炭素アルミ 「PremiAL」を ... LIXIL Corporation https://newsroom.lixil.com > ...」（https://newsroom.lixil.com/ja/2025091701）
   - 「メルセデス、 低炭素アルミニウム をノルスク・ハイドロから調達 — メルセデス、 低炭素アルミニウム をノルスク・ハイドロから調達 ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2022/12」（https://www.jetro.go.jp/biznews/2022/12/761d8e4afeb92bf2.html）
-- 自社の競合（商社・代理店・仲介）：記載なし（読んだ37頁・検索12回）
 
 ## レアメタルリサイクル（e-waste precious metal recovery）
 - 文脈：9 マテリアル ⑤製錬・分離精製・リサイクル
 - 顧客（金を払う側）：
-  - 「リサイクル実施企業」（https://www.cjc.or.jp/raremetal/category/news/date/2026）
-  - 「重要鉱物の調達は、多くのメーカにとって最優先事項となっています」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「調達上の課題が依然として続く中、2026年に注目すべき重要な要因を整理します」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「こうした不確実性の高まりにより、企業には」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「多くの企業にとっての現実は、中国が製造投入材料に使用される鉱物の採掘・抽出を支配しているという点です」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「つまり、企業が鉱山や原ガリウムを確保できたとしても、サプライチェーンのどこかの段階で中国に依存しないためには、代替の加工施設を見つける必要があるのです」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「加えて、鉱物採掘・加工設備の導入には長いリードタイムが必要であり、新しい加工施設の立ち上げにも長期間を要します」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「以下では、重要鉱物やレアアースに依存する企業が2026年を通じて注視すべき4つの主要テーマを取り上げます」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「米国およびEUが中国以外の鉱物サプライチェーン構築に注力していることは明らかですが、新設される施設の能力だけでは、中国企業が現在占めている市場地位を置き換えるには不十分です」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「さらに米国政府は複数の採掘・加工企業に出資し、リチウム採掘プロジェクトの本格建設を確保するため、23億ドルという巨額の融資も提供しました」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「なかでもレアアースを巡る動向は、単なる資源調達の枠を超え、国家間の戦略的な駆け引きの象徴となっています」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「慮設計の導入促進」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
-  - 「レアアース等利用産業等設備導入事業」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
-  - 「廃超硬工具からのﾀﾝｸﾞｽﾃﾝﾘｻｲｸﾙ設備導入【鉱種：W】」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
-  - 「廃小型家電等からのﾀﾝﾀﾙﾘｻｲｸﾙ設備導入【鉱種：Ta】」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
+  - 「都市鉱山から希少金属を レアメタル“魔法の工場”は世界最先端【グッド！いちおし】」（https://news.tv-asahi.co.jp/news_society/articles/000497065.html）
+  - 「世界中から集められたスマートフォンなどの基板、いわゆる「都市鉱山」から金・銀・プラチナといった貴金属のほか、何種類ものレアメタルを取り出す世界最先端のリサイクル工場を調査しました！」（https://news.tv-asahi.co.jp/news_society/articles/000497065.html）
+  - 「（製品と一体となった排出の場合）ＰＣ ：３Ｒ法に基づくメーカー回収」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
+  - 「○各スキームにおける回収量：ＪＢＲＣ（１５１トン）、ＰＣメーカー（５３６トン）、ＭＲＮ（１９８トン）」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
+  - 「小売店、メーカー等」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
+  - 「ＪＢＲＣ、ＰＣメーカー、ＭＲＮ」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
+  - 「実証プラント（岡山県）での検証とともに、正極材メーカーへのサンプル供給を通じ性能評価を進めている」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「各社がレアメタルのリサイクルを強化しているのは、地政学リスクの高まりを背景に、調達先の多角化を急ぐ必要が出てきたためだ」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「政府は地政学リスクを最小化するため、使用済みLIBからのレアメタルのリサイクルが必要だとして、民間企業の技術開発を支援する」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「銅は、年初は8,800US$/t台で始まり、米国Trump政権による輸入関税導入の示唆や中国政府の歳出拡大などを受けて価格を押し上げ、3月には9,900US$/t台まで上昇した」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「6月は銅輸入関税導入への懸念とドル安で価格は上昇し10,000US$/tを越えたものの、7月には銅鉱石・地金が米追加関税対象外となったことを受けて下落」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「9月20日、DRコンゴ政府が輸出禁止解除と同時にコバルトの輸出割当制度の導入を発表したことに伴い、一段と価格が上昇し、年末には最高値52,915US＄/tで越年した」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「しかし、我が国のアンチモン関連企業は供給源の多角化を積極的に進めてきており、今回もベルギー、タイ、ミャンマー、韓国などの中国外に素材の供給源を拡大している」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「その影響で、自動車メーカーが永久磁石の調達に苦慮し、一部の工場停止が発生した」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「中国以外の企業は中国由来のレアアース素材を含む部品や中国技術で製造された製品を輸出する際に中国当局へ許可申請が必要となる規制のため、米国をはじめ世界中で大きな反響があった」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
 - 顧客の顧客（発注元が求めること）：
+  - 「防衛省チャーター舶「はくおうⅡ」が入浴や医療提供 断水や猛暑に苦しむ熊本の被災者支援」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「豊田通商、再生材サプライヤーへ進化 金属スクラップで世界トップへ」（https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/）
+  - 「脱炭素 (100)」（https://seminar.atengineer.com/chemical/stb261150/）
   - 「重要鉱物の不安定性は高度なSCRMを要求する」（https://note.com/kumu_works/n/nd9c4042d4da9）
   - 「１９年度 ２０年度 ２１年度 ２２年度 ２３年度 ２４年度（予算要求中）」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
   - 「要求に応じた高品質な素材を開発・供給することで、日本の製造業の競争力強化、社会課題解決に貢献」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf）
@@ -2945,26 +3002,24 @@
   - 「OEM Closed-Loop Agreements」（https://www.kenresearch.com/global-precious-metals-e-waste-recovery-market）
   - 「Among countries with e-waste policy, 67 jurisdictions (2023, global) incorporated extended producer responsibility provisions, expanding OEM take-back and compliant recycling demand.」（https://www.kenresearch.com/global-precious-metals-e-waste-recovery-market）
   - 「Closed-Loop Recovery for Electronics OEMs」（https://www.kenresearch.com/global-precious-metals-e-waste-recovery-market）
-  - 「refiners can earn treatment charges, assay services and metal-account settlements while returning recovered precious metals to electronics manufacturers through closed-loop procurement arrangements.」（https://www.kenresearch.com/global-precious-metals-e-waste-recovery-market）
-  - 「OEM programs require stronger chain-of-custody systems, standardized material classification and direct contracts linking take-back volumes with certified downstream refining.」（https://www.kenresearch.com/global-precious-metals-e-waste-recovery-market）
-  - 「OEM circularity managers interviewed」（https://www.kenresearch.com/global-precious-metals-e-waste-recovery-market）
 - 顧客の競合（奪いに来る側）：
-  - 「中国の1～9月輸出はワイヤー・粉末好調も製品10%減」（https://www.raremetalnews.co.jp/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8816%E6%97%A5%E5%8F%B7%E3%80%80%E6%8E%B2%E8%BC%89%E8%A8%98%E4%BA%8B/）
-  - 「中国の1～9月の鉱石輸入は10%増と拡大続く」（https://www.raremetalnews.co.jp/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8816%E6%97%A5%E5%8F%B7%E3%80%80%E6%8E%B2%E8%BC%89%E8%A8%98%E4%BA%8B/）
-  - 「中国の対米輸出は軍民両用ガリウム、ゲルマニウム、アンチモンの禁止を延期」（https://www.raremetalnews.co.jp/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8816%E6%97%A5%E5%8F%B7%E3%80%80%E6%8E%B2%E8%BC%89%E8%A8%98%E4%BA%8B/）
-  - 「中国政府が輸出規制を強化する6つの公告を1年延期」（https://www.raremetalnews.co.jp/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8816%E6%97%A5%E5%8F%B7%E3%80%80%E6%8E%B2%E8%BC%89%E8%A8%98%E4%BA%8B/）
-  - 「中国依存をどう減らす？2026年の重要鉱物サプライチェーン最前線｜株式会社KUMU Works」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「中国依存をどう減らす？2026年の重要鉱物サプライチェーン最前線」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「中国を含まない代替サプライチェーンの構築」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「精錬・加工工程で中国依存が極端に高い鉱物」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「米国における影響」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「米国はどれだけ迅速に重要鉱物の生産を拡大できるのか」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「米国エネルギー省（DOE）による重要鉱物関連の発表」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「中国による輸出管理の強化と製造業への波紋」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「これは、世界最大の重要鉱物・レアアース生産国である中国が輸出規制を急増させたことが主な要因です」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「これらの規制は主に米国および西側諸国を対象としており、世界のサプライチェーンは製品の原材料について代替供給源を確保するため、サプライチェーンの下位層まで詳細な分析を迫られています」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「○特にレアアースについては、中国が低コスト生産により、生産規模を拡大した結果、レアアース」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
+  - 「○さらに、本年５月、商務部及び中国税関が、レアアース鉄合金をレアアースの輸出管理対象にす」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
+  - 「レアメタルのリサイクルに非鉄各社が注力 「脱・中国」で供給網強靱化 | Japan Forward」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「レアメタルのリサイクルに非鉄各社が注力 「脱・中国」で供給網強靱化」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「日本の製造業に欠かせない素材だが、埋蔵や生産の多くが中国など特定の国に集中し、地政学リスクを抱える」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「レアメタルは電気自動車（EV）向けのリチウムイオン電池（LIB）などに使われる日本の製造業に欠かせない素材だが、埋蔵や生産の多くが中国など特定の国に集中し、地政学リスクを抱える」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「経済産業省によると、リチウムの製錬は約60％、コバルトは約70％、ニッケルは約50％と、多くのシェアを中国が握る」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「中国はやはり埋蔵や生産で圧倒的なシェアを持つレアアース（希土類）と同様に、レアメタルについても輸出に制限をかけることで日本などを威圧している」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「すでにタングステンやガリウムの供給は滞っているが、中国のさじ加減によっては、レアメタルの供給は今後さらに厳しくなる可能性がある」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「中国、9月の日本向けレアアース磁石輸出は171トンの低水準に 米国は前年比4割増」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「不正アクセス発信源は中国か…生成AIが「日本語の壁」突破 犯行組織細分化で追跡は困難」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「2025年は、特に、中国の輸出管理規制強化に伴う供給途絶やそれに伴う価格高騰を背景にした経済安全保障関連のトピックスが多くを占めていることがわかる」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「銅は、年初は8,800US$/t台で始まり、米国Trump政権による輸入関税導入の示唆や中国政府の歳出拡大などを受けて価格を押し上げ、3月には9,900US$/t台まで上昇した」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「4月2日、米国相互関税の発表と米中貿易の対立激化を受けて銅価格は急落し、一時8,500US$/t台まで戻した」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「米国市場のNew York COMEX銅相場では過去最大の下落幅を記録したとされる」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「8月以降は、チリEl Teniente鉱山の坑内崩落事故やインドネシアGrasberg鉱山での土砂流入事故などが続き、供給懸念から銅価上昇基調を示し、12月には12,500US$/tを越えて過去最高値を更新した」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
 - 自社の競合（商社・代理店・仲介）：
+  - 「Value-Added Resellers (VARs)」（https://www.sphericalinsights.com/reports/precious-metals-e-waste-recovery-market）
   - 「経済安保の「実行部隊」：高市政権の資源外交と商社の戦略的展開」（https://note.com/kumu_works/n/nd9c4042d4da9）
   - 「これまで特定の国に依存してきたサプライチェーンの脆弱性を克服するため、政府主導の「資源外交」と、その実働を担う「総合商社」の連携が加速しています」（https://note.com/kumu_works/n/nd9c4042d4da9）
   - 「日本が持つAIを活用した効率的な資源探査技術の供与と引き換えに、日本の商社が中央アジアに豊富に眠るレアメタルの共同開発権益を優先的に確保する枠組みが構築されました」（https://note.com/kumu_works/n/nd9c4042d4da9）
@@ -2979,78 +3034,79 @@
   - 「European Commission, Waste from Electrical and Electronic Equipment (WEEE). environment.ec.europa.eu」（https://www.gminsights.com/industry-analysis/precious-metals-e-waste-recovery-market）
   - 「Johnson Matthey remains a major platinum-group-metals refiner, with refinery commissioning activity scheduled by the end of FY2025/26. Its position rests on refining expertise and customer requirements for specification-grade materials.」（https://www.gminsights.com/industry-analysis/precious-metals-e-waste-recovery-market）
 - 政治（法・予算・規制）：
-  - 「米豪政府が双日・アルコアの新規開発プロに投資」（https://www.raremetalnews.co.jp/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8816%E6%97%A5%E5%8F%B7%E3%80%80%E6%8E%B2%E8%BC%89%E8%A8%98%E4%BA%8B/）
-  - 「豪州政府がアラフラの新規開発に＄1億を出資」（https://www.raremetalnews.co.jp/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8816%E6%97%A5%E5%8F%B7%E3%80%80%E6%8E%B2%E8%BC%89%E8%A8%98%E4%BA%8B/）
-  - 「中国政府が輸出規制を強化する6つの公告を1年延期」（https://www.raremetalnews.co.jp/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8816%E6%97%A5%E5%8F%B7%E3%80%80%E6%8E%B2%E8%BC%89%E8%A8%98%E4%BA%8B/）
-  - 「でも、経済安全保障の観点からレアアースを中心に供給不安への警戒が強まり、」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「中国による輸出管理の強化と製造業への波紋」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「これは、世界最大の重要鉱物・レアアース生産国である中国が輸出規制を急増させたことが主な要因です」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「これらの規制は主に米国および西側諸国を対象としており、世界のサプライチェーンは製品の原材料について代替供給源を確保するため、サプライチェーンの下位層まで詳細な分析を迫られています」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「中国が支配する大半の重要鉱物に対する輸出規制を1年間停止する協定を発表しました」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「この合意は、直前に発表された中国の輸出規制によって即時の影響を受けるはずだった多くの産業にとって、まさに命綱となりました」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「この協定は米中間のものでしたが、中国の輸出規制は全世界に適用されていたため、世界の製造業全体も恩恵を受けました」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「さらに中国は、輸出規制の対象鉱物を大幅に拡大し、」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「これらの鉱物を含む完成品や組立品にも規制を広げる予定でした」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「これらの規制は戦略的な交渉姿勢だと見る向きもありましたが、実際には現在も停止状態のまま法的には存続しており、2026年後半に協定が失効すれば再発動される可能性があります」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「○さらに、本年５月、商務部及び中国税関が、レアアース鉄合金をレアアースの輸出管理対象にす」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
-  - 「【商務部発表：レアアース鉄合金のレアアース輸出管理枠への追加】」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
+  - 「非資源国の日本にとって、資源循環は経済安全保障上の重要課題となる」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「非資源国の日本にとって、資源循環によるサプライチェーン（供給網）強靱化は、経済安全保障上の重要課題となる」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「政府は地政学リスクを最小化するため、使用済みLIBからのレアメタルのリサイクルが必要だとして、民間企業の技術開発を支援する」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「カナダ・アルバータ州の閉鎖後基金関連CCS関連法令」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「カナダ・アルバータ州の閉鎖後基金関連CCS関連法令」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「2025年は、特に、中国の輸出管理規制強化に伴う供給途絶やそれに伴う価格高騰を背景にした経済安全保障関連のトピックスが多くを占めていることがわかる」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「今後も経済安全保障のテーマはより頻繁に取り上げられることになると考えられることから、その経緯を整理する上での参考として活用いただければ幸いである」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「銅は、年初は8,800US$/t台で始まり、米国Trump政権による輸入関税導入の示唆や中国政府の歳出拡大などを受けて価格を押し上げ、3月には9,900US$/t台まで上昇した」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「4月2日、米国相互関税の発表と米中貿易の対立激化を受けて銅価格は急落し、一時8,500US$/t台まで戻した」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「6月は銅輸入関税導入への懸念とドル安で価格は上昇し10,000US$/tを越えたものの、7月には銅鉱石・地金が米追加関税対象外となったことを受けて下落」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「また、銅と同様、4月の米相互関税発表とそれによる米中貿易の対立激化を受けて更に下落し、2,500US$/t台まで下落した」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「他の金属と同様に米相互関税が発表された4月には1,900US$/tを切る時期もあった」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「その後、他の金属と同様、米国の相互関税が発表された4月に一旦は年内最低価格の13,810US$/tにまで急落したものの、関税措置の見直しを受けて15,500US$/tにまで回復し、その後は15,000US$/t前後を推移していた」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「さらに米国政府は複数の採掘・加工企業に出資し、リチウム採掘プロジェクトの本格建設を確保するため、23億ドルという巨額の融資も提供しました」（https://note.com/kumu_works/n/nd9c4042d4da9）
+  - 「２．レアアース代替供給プロジェクトに不可欠な設備・材料・技術への規制」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf）
 - 経済（規模・価格・為替）：
-  - 「2026年度予算案では、重要鉱物のリサイクル促進や再資源化の高度化に総額約379億円が計上されるなど、」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「アース輸出枠は前年比で約４０%減）」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
-  - 「※基準価格：2004年1月＝100 （ジスプロシウムについては2005年1月＝100）」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
-  - 「＜21年度補正、51.6億円の内数＞」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
-  - 「＜20年度補正、1.0億円＞」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
-  - 「＜ 1.2億円＞」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
-  - 「資源循環実証事業＜1.2億円＞」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
-  - 「希土類金属等回収技術研究開発事業＜20～24年度（予定）、6.9億円＞」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
-  - 「希尐金属等高効率回収システム開発＜19補正～22年度、9.8億円＞」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
-  - 「• 産業規模について、部素材は、事業所数（4万所）、従業者数（170万人）、出荷額（103兆円）、付加価値額」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf）
-  - 「（30兆円）が製造業全体の約２割を占め、自動車に次ぐ規模」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf）
-  - 「約373兆円」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf）
-  - 「約110兆円」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf）
-  - 「令和４年度第２次補正予算：JOGMEC出資金 1,100億円、安保助成金 1,058億円」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf）
-  - 「令和７年度補正予算 ：JOGMEC出資金及び国家備蓄の強化費用等 937億円」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf）
+  - 「＜22年度補正、420億円の内数＞」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
+  - 「中国、9月の日本向けレアアース磁石輸出は171トンの低水準に 米国は前年比4割増」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「2025年は、特に、中国の輸出管理規制強化に伴う供給途絶やそれに伴う価格高騰を背景にした経済安全保障関連のトピックスが多くを占めていることがわかる」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「銅は、年初は8,800US$/t台で始まり、米国Trump政権による輸入関税導入の示唆や中国政府の歳出拡大などを受けて価格を押し上げ、3月には9,900US$/t台まで上昇した」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「4月2日、米国相互関税の発表と米中貿易の対立激化を受けて銅価格は急落し、一時8,500US$/t台まで戻した」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「6月は銅輸入関税導入への懸念とドル安で価格は上昇し10,000US$/tを越えたものの、7月には銅鉱石・地金が米追加関税対象外となったことを受けて下落」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「亜鉛は、年初2,900US$/tで始まり、中国の建設業界や欧州の自動車業界の需要低迷が続き、価格が伸び悩んだ」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「図1．2025年ベースメタル価格の指標推移」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「ニッケルは、近年、供給過剰と価格安が関心事となっており、2025年も同様な状況」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
+  - 「三菱マテリアル、レアメタル再生拡大へ処理施設 200億円投資 - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/）
+  - 「三菱マテ、レアメタル再生拡大へ処理施設 200億円投資」（https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/）
+  - 「2030年度までに子会社の国内拠点に約200億円を投じて、処理施設を建てる」（https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/）
+  - 「Global Precious Metals E-Waste Recovery Market Size, Share, and COVID-19 Impact Analysis, By Metal (Gold, Silver, and Others), By Source (Household Appliances, IT & Telecommunication, Consumer Electronics, and Others), and By Region (North America, Europe, Asia-Pacific, Latin America, Middle East, and Africa), Analysis and Forecast 2023 - 2033.」（https://www.sphericalinsights.com/reports/precious-metals-e-waste-recovery-market）
+  - 「The Global Precious Metals E-Waste Recovery Market Size was Valued at USD 5.89 Billion in 2023」（https://www.sphericalinsights.com/reports/precious-metals-e-waste-recovery-market）
+  - 「The Market Size is Growing at a CAGR of 4.48% from 2023 to 2033」（https://www.sphericalinsights.com/reports/precious-metals-e-waste-recovery-market）
 - 社会（人・担い手）：
   - 「る資源国と人材育成、イン」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
   - 「金融機関に勤めながら副業として、FP(CFP・FP技能士1級）をしています」（https://note.com/tasty_godwit501/n/na76bda3fa27a）
 - 技術（新しい技術・実証）：
-  - 「鉱石相場は主産地の政情不安とAI向け需要好調で上昇基調続く」（https://www.raremetalnews.co.jp/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8816%E6%97%A5%E5%8F%B7%E3%80%80%E6%8E%B2%E8%BC%89%E8%A8%98%E4%BA%8B/）
-  - 「米豪政府が双日・アルコアの新規開発プロに投資」（https://www.raremetalnews.co.jp/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8816%E6%97%A5%E5%8F%B7%E3%80%80%E6%8E%B2%E8%BC%89%E8%A8%98%E4%BA%8B/）
-  - 「豪州政府がアラフラの新規開発に＄1億を出資」（https://www.raremetalnews.co.jp/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8816%E6%97%A5%E5%8F%B7%E3%80%80%E6%8E%B2%E8%BC%89%E8%A8%98%E4%BA%8B/）
-  - 「丸紅とJX金属が豪州RZリソースの新規開発に参加」（https://www.raremetalnews.co.jp/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8816%E6%97%A5%E5%8F%B7%E3%80%80%E6%8E%B2%E8%BC%89%E8%A8%98%E4%BA%8B/）
-  - 「by Vektor,Inc. technology.」（https://www.raremetalnews.co.jp/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B911%E6%9C%8816%E6%97%A5%E5%8F%B7%E3%80%80%E6%8E%B2%E8%BC%89%E8%A8%98%E4%BA%8B/）
-  - 「Copyright (C) 2026 JEMAI. All Rights Reserved.」（https://www.cjc.or.jp/raremetal/category/news/date/2026）
-  - 「では、重要鉱物の国内生産と同盟国での供給源開発が最優先事項となり、米豪枠組みでの拠出や中東・東南アジアとの連携、DOEによる採掘・加工・リサイクル関連の大型施策など、」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「2025年、トランプ政権は重要鉱物の国内および同盟国での供給源開発を最重要課題としました」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「次世代採掘手法開発のための8,000万ドル」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「中央アジアへの進出：AI技術供与と権益の等価交換」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「日本が持つAIを活用した効率的な資源探査技術の供与と引き換えに、日本の商社が中央アジアに豊富に眠るレアメタルの共同開発権益を優先的に確保する枠組みが構築されました」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「丸紅は2025年12月、オーストラリア・ニューサウスウェールズ州におけるレアメタル・レアアース原料の生産プロジェクトの開発調査への参画を決定しました」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「海外権益の確保と並行して、日本独自の資源開発も国策として進められています」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「海底6,000メートルからレアアース泥を回収するシステムを担う東洋エンジニアリングや、海洋資源調査の技術研究を主導する石油資源開発（JAPEX）などが、経済安保の鍵を握る企業として挙げられています」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「これらの企業や商社が持つ資源開発能力は、単なるビジネスの枠を超え、日本の「交渉力」を裏から支える国家的な資産と位置付けられています」（https://note.com/kumu_works/n/nd9c4042d4da9）
+  - 「希土類金属等回収技術研究開発事業＜20～24年度（予定）、6.9億円＞」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
+  - 「希尐金属等高効率回収システム開発＜19補正～22年度、9.8億円＞」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
+  - 「希尐金属（レアアース等）の代替・削減技術開発」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
+  - 「○次世代自動車や高機能家電等、レアメタル等を含む使用済製品の排出量が今後増加することを」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
+  - 「多くの鉱種は、経済的なリサイクル技術が開発途上」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
+  - 「タングステン 超硬工具 （約８９％） － 希尐金属等高効率回収システム開発（平成１９～２３年度）が終了し実用化を目指す（住友電工） 研究開発を進めつつ、リサイクルについても早急に検討」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf）
+  - 「This post is also available in:」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「DOWAホールディングスは6月末、粉砕した使用済みLIBから中間原料「ブラックマス」を取り出し、正極材の素材「ニッケル・コバルト硫酸塩」を回収する工程を開発した」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「実証プラント（岡山県）での検証とともに、正極材メーカーへのサンプル供給を通じ性能評価を進めている」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「また、JX金属はLIBからリチウムを90％以上回収できる新工程を開発した」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「このほか三菱マテリアルは今年6月、レアメタルを回収・精製する実証プラントを福島県内に完工した」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「政府は地政学リスクを最小化するため、使用済みLIBからのレアメタルのリサイクルが必要だとして、民間企業の技術開発を支援する」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「NTTドコモビジネス、三菱地所と千歳市に半導体開発拠点 通信技術で産業振興支援」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「不正アクセス発信源は中国か…生成AIが「日本語の壁」突破 犯行組織細分化で追跡は困難」（https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/）
+  - 「第一次Trump政権は、安全保障等の観点から国内の鉱物資源開発を強化してきたが、第二次政権になって、中国との貿易における緊張激化、各国との相互関税等を背景に鉱物資源が話題に上る機会が多くあった」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01146.html）
 - 検索結果の抜粋：
   - 「レアメタルリサイクル 市場規模は、 2026年 から2033年までの ... — レアメタルリサイクル 市場規模は、 2026年 から2033年までの ... LinkedIn https://jp.linkedin.com > pulse > レアメタルリサイクル市場...」（https://jp.linkedin.com/pulse/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E9%96%93%E3%81%ABcagr133%E3%81%A7%E5%AE%89%E5%AE%9A%E3%81%97%E3%81%9F%E6%88%90%E9%95%B7%E3%82%92%E9%81%82%E3%81%92%E3%81%A6%E3%81%8A%E3%82%8A%E5%B8%82%E5%A0%B4%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86-7493500947101380608-tk2xe）
 
 ## マテリアルズインフォマティクス（materials informatics）
 - 文脈：9 マテリアル ⑥AI活用材料
 - 顧客（金を払う側）：
-  - 「【2026年10月最新】マテリアルズインフォマティクス（MI）とは？導入背景と企業の取り組み事例を徹底解説」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「導入までの流れ」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「「マテリアルズインフォマティクス（MI）という言葉をニュースで見たけれど、自社に関係あるのか分からない」——化学・素材メーカー以外の方にとっては、そう感じるのが自然な専門用語だと思います」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「させる手法として、トヨタ自動車・旭化成・東レといった大手メーカーが相次いで導入を進めています」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「この記事では、MIの定義・導入メリット・国内外の動向・直面している課題から、実際に取り組みを公表している企業7社の事例までを整理したうえで、」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「専門の研究開発部門を持たない中小企業でも、MIの発想をAI活用にどう取り入れられるか」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「MIは「素材メーカーだけの特殊な話」と思われがちですが、本質は「経験と勘に頼っていた業務を、AIとデータに置き換えて高速化する」という発想です」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「MI導入による」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「企業7社の具体的な導入事例」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「専門部署がない中小企業が」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「企業登録申請」（https://prtimes.jp/topics/keywords/%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BA%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9）
-  - 「なぜ、研究開発のAI・MI導入は現場に定着しないのか？〜MI活用・データ基盤・外部プロによる組織変革～」（https://prtimes.jp/topics/keywords/%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BA%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9）
-  - 「レゾナック、ZenmuTechとの共創により秘密計算を活用したMI基盤を構築 ～機密データを開示せずに企業間での材料開発データ活用を可能に～」（https://prtimes.jp/topics/keywords/%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BA%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9）
-  - 「企業・事業主のお客様」（https://prtimes.jp/topics/keywords/%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BA%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9）
-  - 「企業・事業主ユーザーとして登録すると、プレスリリースの配信・掲載をおこなうことができます」（https://prtimes.jp/topics/keywords/%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BA%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9）
+  - 「マテリアルズインフォマティクス導入のメリット」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
+  - 「7-1. 素材メーカー横断の基盤：Materials Open Platform（MOP）」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
+  - 「【独自】専門部署がない中小企業がMIの発想を活かす方法」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
+  - 「本稿では「ITmedia Virtual EXPO 2023秋」で、積水化学工業 R&Dセンター 情報科学推進センター長で京都工芸繊維大学 特任教授の日下康成氏が「社会変化の中でのマテリアルズインフォマティクス（MI）の導入と活用」をテーマに行った講演の内容を紹介する」（https://monoist.itmedia.co.jp/mn/series/33423/）
+  - 「秘密計算技術で企業間のデータを安全に連携できる分析基盤を構築」（https://monoist.itmedia.co.jp/mn/series/33423/）
+  - 「『マテリアルズ・インフォマティクス』の2037年までの成長予測、有力企業、ビジネスモデル、先進技術など、包括的な市場分析を掲載した最新版の調査レポートをIDTechExがリリースしました」（https://www.dreamnews.jp/press/0000367181）
+  - 「本調査レポートでは、2037年までの成長予測、有力企業、ビジネスモデル、先進技術などについて包括的な市場分析を提供しています」（https://www.dreamnews.jp/press/0000367181）
+  - 「45社以上の企業概要から得られる洞察を基に業界動向、競争戦略、用途について検証しています」（https://www.dreamnews.jp/press/0000367181）
+  - 「• MI企業の包括的リスト、詳細、差別化要因」（https://www.dreamnews.jp/press/0000367181）
+  - 「• インタビューに基づく企業概要（45社以上）」（https://www.dreamnews.jp/press/0000367181）
+  - 「• パートナーシップ、資金調達、ビジネスモデルの評価」（https://www.dreamnews.jp/press/0000367181）
+  - 「• MI受託サービス企業の10年間市場予測」（https://www.dreamnews.jp/press/0000367181）
+  - 「鉱山ではディーゼル機械から脱却し、新しい電動機械の導入が始まっています」（https://www.dreamnews.jp/press/0000367181）
+  - 「企業会員登録-プレスリリース配信をご希望の企業様はこちら」（https://www.dreamnews.jp/press/0000367181）
+  - 「企業・事業主ユーザーとして登録すると、プレスリリースの配信・掲載をおこなうことができます」（https://prtimes.jp/topics/keywords/%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BA%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9）
 - 顧客の顧客（発注元が求めること）：
+  - 「脱炭素やカーボンニュートラルへの取り組みを反映した、“グリーンイノベーション”理念に基づき、ロボットやデジタル技術、AIを活用した自律型実験システム「Autonomous Lab」を開発します」（https://www.mi-seek.com/）
   - 「経済産業省総合資源エネルギー調査会 資源・燃料分科会 脱炭素燃料政策小委員会 委員他」（https://www.wsew.jp/hub/ja-jp/blog/article_35.html）
   - 「カーボンニュートラルとは、温室効果ガスの排出量から吸収・除去量を差し引き、実質的に排出をゼロにして、脱炭素社会を実現させる取り組みのことです」（https://www.wsew.jp/hub/ja-jp/blog/article_35.html）
   - 「【化学×AI】データケミカル、ISO27001およびISO27017認証を取得し、研究開発向けAIクラウドサービスのセキュリティ強化」（https://qiita.com/oki_kosuke/items/01591d3277b5500f0389）
@@ -3065,8 +3121,10 @@
   - 「AIで激化するサイバー攻撃、矛先は製造業へ 防御対象選定とBCPが急務」（https://xtech.nikkei.com/atcl/nxt/column/18/03088/102700026/）
   - 「国税庁のシステム「KSK2」で手続き遅延が1カ月継続、国税労組は解決を要求」（https://xtech.nikkei.com/atcl/nxt/column/18/03088/102700026/）
   - 「韓国で相次ぐ「499戸・999戸」マンション…1戸の差で認証義務の対象外に」（https://xtech.nikkei.com/atcl/nxt/column/18/03088/102700026/）
-  - 「防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円」（https://xtech.nikkei.com/atcl/nxt/column/18/03088/102700026/）
 - 顧客の競合（奪いに来る側）：
+  - 「その流れを受け、欧州やアジアでも類似のプロジェクトが次々に立ち上がり、日本においても2015年の「情報統合型物質・材料開発イニシアチブ（MI2I）」や、各種大学・研究機関による取り組みが本格化」（https://www.mi-seek.com/）
+  - 「MIの環境導入のコストは決して安価とは言えず、まだまだハードルの高いプラットフォームではありますが、」（https://www.mi-seek.com/）
+  - 「伊藤忠テクノソリューションズは、米国のQuesTek社との協業により、科学・工学分野の高度な解析を通じて、新材料の設計を包括的にサポート」（https://www.mi-seek.com/）
   - 「海外でも、米国が2011年に」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
   - 「中国や欧州各国でも同様に、材料分野のデータ基盤整備とAI活用が進められています」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
   - 「：米国政府が2011年に発表した、材料開発を加速するための国家プロジェクト」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
@@ -3079,31 +3137,33 @@
   - 「日立ハイテクらが台湾の研究機関とMIの協創をスタート、最適な分析環境を提供」（https://monoist.itmedia.co.jp/mn/series/33423/）
   - 「日立ハイテクと日立製作所は、台湾最大の産業技術研究開発機構である工業技術研究院（以下、ITRI）とともに、ITRIが運営するAI／機械学習プラットフォーム「MACSiMUM」と、日立グループのマテリアルズインフォマティクスソリューションを活用した協創を進めている」（https://monoist.itmedia.co.jp/mn/series/33423/）
   - 「量子化学シミュレーションでアンモニア合成の安価な触媒材料を発見」（https://monoist.itmedia.co.jp/mn/series/33423/）
-  - 「富士通とAtmoniaは、クリーンなアンモニア合成の触媒探索の共同研究において、Atmoniaの触媒に関する見識と、富士通の量子化学シミュレーションおよびAI技術を生かし、比較的安価な触媒材料候補を発見した」（https://monoist.itmedia.co.jp/mn/series/33423/）
-  - 「同大学大学院工学研究科助教を経て、米国カリフォルニア工科大学にて上級客員研究員および客員アソシエートとして研究に従事」（https://miconf.mi-6.co.jp/2026/）
-  - 「X（Twitter）でシェアする」（https://qiita.com/oki_kosuke/items/01591d3277b5500f0389）
 - 自社の競合（商社・代理店・仲介）：
+  - 「単にインフォマティクスのツールを売るだけでなく、段階的なMIの導入や、装置メーカーや商社機能としての強みを活かした課題解決ができることから、2017年から現在まで」（https://www.mi-seek.com/）
+  - 「長瀬産業とIBMが共同で開発したプラットフォーム「TABRASA」は、化学系専門商社ならではの知見に加え、MIの主流であるアナリティクスにコグニティブを搭載します」（https://www.mi-seek.com/）
   - 「また、マテリアルズ・インフォマティクスに関わるメーカーや商社の場合、当展示会へ出展者としてご参加いただくことも可能です」（https://www.wsew.jp/hub/ja-jp/blog/article_35.html）
   - 「長瀬産業株式会社はUncountable Inc.が開発・提供する、材料開発に特化したデータマネジメントプラットフォーム「Uncountable（アンカウンタブル）」の販売代理店契約を2022年5月に締結し、国内における販売活動を本格的に開始した」（https://qiita.com/oki_kosuke/items/01591d3277b5500f0389）
   - 「NAGASEグループは化学品関連の市況情報をグローバルに提供するICIS (International Commodity Intelligence Service) が2024年に発行した「Top 100 Chemical Distributors」にて、アジアパシフィック地域の第1位、グローバルで第4位にランキングされました」（https://www.nagase.com/jp/ja/discover/resources/materials-informatics）
   - 「商社機能、製造（メーカー）機能、研究開発機能を持つNAGASEグループならではの強みを活かし、フード、電気機器、半導体、モビリティ、化学工業、ライフサイエンスといったさまざまな市場のニーズに応じて、ものづくりの課題を素材（マテリアル）を通じて解決していきます」（https://www.nagase.com/jp/ja/discover/resources/materials-informatics）
 - 政治（法・予算・規制）：
+  - 「DX認定を取得した宮崎AIギルウド、...」（https://www.dreamnews.jp/press/0000367181）
+  - 「米中間選挙で民主圧勝、「青い波」がAIブームに冷や水か 規制強化の公算」（https://xtech.nikkei.com/atcl/nxt/column/18/03088/102700026/）
+  - 「PFAS規制の現状と研究動向について_top」（https://www.mi-seek.com/）
+  - 「特許読解、法規制物質チェックにも一貫して対応」（https://www.mi-seek.com/）
+  - 「これには、人材、予算、技術インフラなどが含まれます」（https://www.mi-seek.com/）
+  - 「予算面では、初期導入コストだけでなく、運用にかかる費用も考慮します」（https://www.mi-seek.com/）
+  - 「4. 化学業界固有の論点：CBRN規制で汎用LLMが答えないケースがある」（https://ai-revolution.co.jp/media/ai-in-chemical/）
+  - 「公的データ基盤・大学連携・補助金を組み合わせる」（https://ai-revolution.co.jp/media/ai-in-chemical/）
+  - 「運用を継続する人材・予算を確保できない企業」（https://ai-revolution.co.jp/media/ai-in-chemical/）
+  - 「用途探索AIを本格運用する前に、知財部門と発明者認定のルールを合意しておくべきだ」（https://ai-revolution.co.jp/media/ai-in-chemical/）
+  - 「扱うデータが実験値・物性値・プロセス条件であること、機密性が極端に高いこと、そしてAI規制（CBRN）の影響を直接受ける点が違う」（https://ai-revolution.co.jp/media/ai-in-chemical/）
   - 「：米国政府が2011年に発表した、材料開発を加速するための国家プロジェクト」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
   - 「日本のSIPも同様に、企業単独では難しいデータ連携を国の予算と枠組みで後押しする役割を担っています」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
   - 「各国の取り組み規模・予算・進捗状況は公表資料によって把握できる範囲が異なり、単純な比較は難しい点にご留意ください」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
   - 「【2026年11月最新】休職と休業の違い｜定義・法律の規定・期間・給与・社会保険料・手当を整理し、休業手続きの確認作業をAIに任せる社労士事務所の実務」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「補助金・助成金」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「その後、2016年から経済産業省の予算事業が始まっています」（https://www.wsew.jp/hub/ja-jp/blog/article_35.html）
-  - 「世界的なPFAS規制の厳格化、中韓勢の台頭、そして熟練技術者の減少――」（https://monoist.itmedia.co.jp/mn/series/33423/）
-  - 「材料分野のデータ駆動型研究、政府一体推進で産業競争力磨け」（https://qiita.com/oki_kosuke/items/01591d3277b5500f0389）
-  - 「内閣府と文部科学省、経済産業省は、政府一体でマテリアル分野のデータ駆動型研究を推進する体制を構築する」（https://qiita.com/oki_kosuke/items/01591d3277b5500f0389）
-  - 「文部科学省は研究のＤＸ推進予算として２０２２年度の概算要求に６２１億円を計上し、各分野の研究事業を、人工知能（ＡＩ）やデータ科学を駆使した「データ駆動型」に移行することを目指す」（https://qiita.com/oki_kosuke/items/01591d3277b5500f0389）
-  - 「NAGASEグループは、190年以上の歴史の中で築いたサプライヤー、メーカーとの強力なパートナーシップのもと、複雑な国際取引やサプライチェーンの構築、化学品法令・規制に対応します」（https://www.nagase.com/jp/ja/discover/resources/materials-informatics）
-  - 「医療機器・ヘルスケア業界参入で「後戻り」を防ぐ事業化・規制対応戦略《無料セミナー》」（https://engineer-education.com/seminar_tag/seminar_materials-informatics/）
-  - 「はじめての化学物質法規制・基礎講座（セミナー）」（https://engineer-education.com/seminar_tag/seminar_materials-informatics/）
-  - 「助成金・補助金の活用について」（https://engineer-education.com/seminar_tag/seminar_materials-informatics/）
-  - 「外国出願補助金ガイド」（https://www.evorix.jp/blog/materials-informatics-ai-patent-benrishi）
 - 経済（規模・価格・為替）：
+  - 「水素製造市場規模は2030年までに2,387.9億ドルに達し、CAGR7.6%で成長」（https://www.dreamnews.jp/press/0000367181）
+  - 「しかしながら、世界のマテリアルズ・インフォマティクスの市場規模は、2023年の1億2,900万米ドルから、2028年までに2億7,600万米ドルに成長すると予測されています（※1）」（https://www.mi-seek.com/）
+  - 「Cognition評価額480億ドルへ｜Devin開発元がシリーズEで20億ドル調達・4カ月で約2倍・年換算売上10億ドル突破とAIコーディング競争の行方【2026年11月最新】」（https://ai-revolution.co.jp/media/ai-in-chemical/）
   - 「AI社員AIKATA｜月30万円で、業務まかせ放題」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
   - 「月額数千円〜3万円程度のプラン契約」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
   - 「月3万円・即日から着手できる」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
@@ -3116,42 +3176,40 @@
   - 「累計14億円を調達」（https://qiita.com/oki_kosuke/items/01591d3277b5500f0389）
   - 「マテリアルズインフォマティクスの市場規模、2028年に2億7600万米ドル到達予測」（https://qiita.com/oki_kosuke/items/01591d3277b5500f0389）
   - 「マテリアルズインフォマティクスの市場規模は、2023年の1億2900万米ドルからCAGR16.3%で成長し、2028年には2億7600万米ドルに達すると予測（約300億円規模）」（https://qiita.com/oki_kosuke/items/01591d3277b5500f0389）
-  - 「製造業向け「インフォマティクス」スタートアップ、1.5億円調達」（https://qiita.com/oki_kosuke/items/01591d3277b5500f0389）
-  - 「製造業向け人工知能（ＡＩ）ソフトウエアを手がけるＳＵＰＷＡＴはベンチャーキャピタル（ＶＣ）などから約１．５億円の資金調達を実施した」（https://qiita.com/oki_kosuke/items/01591d3277b5500f0389）
-  - 「素材業界向け研究開発データ管理プラットフォームを開発するランデフトがインキュベイトファンドから約7000万円の資金調達を実施」（https://qiita.com/oki_kosuke/items/01591d3277b5500f0389）
 - 社会（人・担い手）：
-  - 「データ整備・人材不足」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「データの質と、材料科学×AI人材の不足」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「材料科学とAI・データ分析の両方に詳しい人材の不足」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「：専門分野を横断できる人材は希少で、採用・育成に時間がかかる」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「素材メーカー単独でAI・データ分析の専門人材を揃えるのではなく、」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「という発想は、専門人材を自社だけで抱えられない中小企業にも参考になる進め方です」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「材料科学×データ分析の専門人材・データ基盤」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「専門システム・人材採用を含め高額になりやすい」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「データの質・専門人材の不足が普及に向けた主な課題」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「A. 主な課題として、実験データ（特に失敗データ）の質と量の不足、材料科学とAI・データ分析の両方に精通した人材の不足、企業間でのデータ共有に対する抵抗感などが挙げられます」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「また、同社はMI人材の育成にも力を入れており、現在では多くの製品開発にマテリアルズ・インフォマティクスを取り入れていると明かしています」（https://www.wsew.jp/hub/ja-jp/blog/article_35.html）
-  - 「マテリアルズ・インフォマティクスに用いる情報技術は、あくまでも研究者をアシストするツールに過ぎないため、システムを有効に使いこなせる人材が欠かせません」（https://www.wsew.jp/hub/ja-jp/blog/article_35.html）
-  - 「しかし、現在は、材料に関する専門知識とデータサイエンスの両方に詳しい人材が不足している状況です」（https://www.wsew.jp/hub/ja-jp/blog/article_35.html）
-  - 「そのため、今後は教育機関のデータサイエンス分野の講義を充実させる、企業内でMI人材を育成するなどして、材料に関する専門知識を持つデータサイエンティストを増やす必要があります」（https://www.wsew.jp/hub/ja-jp/blog/article_35.html）
-  - 「材料開発分野で活躍できる優秀な人材を確保するためにも、まずは展示会に参加するなどして、マテリアルズ・インフォマティクスへの理解を深めることが大切です」（https://www.wsew.jp/hub/ja-jp/blog/article_35.html）
+  - 「【2026年11月最新】退職時の雇用保険手続き｜社労士事務所の期限・離職票・電子申請とAIによる下準備」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
+  - 「マテリアルズ・インフォマティクス（MI）を活かすには、材料科学とデータサイエンスの両方に精通した人材が不可欠です」（https://www.mi-seek.com/）
+  - 「しかし、日本ではまだこの「ハイブリッド人材」の数が限られており、企業内教育や大学との連携による人材育成が急務となっています」（https://www.mi-seek.com/）
+  - 「人材面での教育期間を考慮すると早期MI導入は必須」（https://www.mi-seek.com/）
+  - 「材料科学とデータサイエンスの両立を担う人材育成が進んでおらず、企業がMI導入に踏み切っても十分に運用できないケースがあります」（https://www.mi-seek.com/）
+  - 「例えば、材料科学とデータサイエンスの両方に精通した人材の確保では、自社にMIのプラットフォームを設置するのではなく、MIのベンダーに解析を依頼する方法や、データサイエンティストを育成するための教育プログラムによるサポート、質の高いデータを活用するためのデータベースの整備はもちろん、欠損データを補完するサービスなどがあり、MIを導入しやすい環境になっています」（https://www.mi-seek.com/）
+  - 「ポイントは、モデル構築だけでなく、人材育成・データ管理体制・ソリューション構築をセットで進め、探索や最適化を継続的に回せる状態を目指していること」（https://www.mi-seek.com/）
+  - 「巴川コーポレーションは、自社製品の開発スピードと人材育成に関する課題感を持っていました」（https://www.mi-seek.com/）
+  - 「している人材が多く、顧客のニーズや課題を的確に把握」（https://www.mi-seek.com/）
+  - 「これには、人材、予算、技術インフラなどが含まれます」（https://www.mi-seek.com/）
+  - 「特に重要なのは、データサイエンスや材料科学に精通した人材の確保です」（https://www.mi-seek.com/）
+  - 「運用を継続する人材・予算を確保できない企業」（https://ai-revolution.co.jp/media/ai-in-chemical/）
+  - 「事例⑤：旭化成「MI-Hub」——人材育成のための研修システム」（https://note.com/ideal_lemur777/n/ne425544e0f80）
+  - 「MI人材を600人以上育成する」（https://note.com/ideal_lemur777/n/ne425544e0f80）
+  - 「マテリアルズ・インフォマティクス（MI）－材料開発の未来を担う人材探索 | 特別会員開催イベント | LINK-J」（https://www.link-j.org/member_event/article-49468.html）
 - 技術（新しい技術・実証）：
-  - 「AI社員AIKATA」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「AI鬼管理とは」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「GENAI公式ブログ」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「AI社員AIKATA｜月30万円で、業務まかせ放題」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「AI用語解説」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「aikanri-admin」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「とは、AI・機械学習・データ科学の手法を使って、新しい材料（マテリアル）の開発を効率化する取り組みのことです」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「従来は研究者の経験と勘、膨大な試行錯誤に頼っていた材料開発を、」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「データとAIの力で大幅にスピードアップ」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「専門の研究開発部門を持たない中小企業でも、MIの発想をAI活用にどう取り入れられるか」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
-  - 「なぜ、研究開発のAI・MI導入は現場に定着しないのか？〜MI活用・データ基盤・外部プロによる組織変革～」（https://prtimes.jp/topics/keywords/%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BA%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9）
-  - 「QunaSysと日本ゼオン株式会社、数理モデルベース開発の社会実装に向け業務提携契約を締結」（https://prtimes.jp/topics/keywords/%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BA%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9）
-  - 「レゾナック、ZenmuTechとの共創により秘密計算を活用したMI基盤を構築 ～機密データを開示せずに企業間での材料開発データ活用を可能に～」（https://prtimes.jp/topics/keywords/%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BA%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9）
-  - 「【新刊案内】再生医療・次世代足場材料の技術・産業戦略レポート ～Control PointとControl Planeから読み解く産業再編と利益構造～ 発行：（株）シーエムシー・リサーチ」（https://prtimes.jp/topics/keywords/%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BA%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9）
-  - 「GPa級の高圧と通電焼結を「汎用の材料試験機」で両立する高圧焼結装置について特許を出願 ― 透明シリカガラスなど新素材の低温製造へ専用の超高圧プレスを使わず、既設の試験機に接続可能」（https://prtimes.jp/topics/keywords/%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BA%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9）
+  - 「を、弊社（株式会社GENAI）の実運用データを交えて解説します」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
+  - 「MIは「素材メーカーだけの特殊な話」と思われがちですが、本質は「経験と勘に頼っていた業務を、AIとデータに置き換えて高速化する」という発想です」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
+  - 「「AIがどうやって研究開発のスピードを上げているのか」という構造を理解していただければ、ご自身の業務に置き換えるヒントが見えてくるはずです」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
+  - 「、従来の材料開発との違い」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
+  - 「開発スピード向上・コスト削減・安全性評価の効率化」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
+  - 「1-1. 従来の材料開発とMIの違い」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
+  - 「堀場製作所、燃料電池触媒の実験を自動化するシステム開発を本格化」（https://monoist.itmedia.co.jp/mn/series/33423/）
+  - 「堀場製作所は、燃料電池用触媒材料の研究開発を効率化する「自動・自律実験システム」の開発を本格化する」（https://monoist.itmedia.co.jp/mn/series/33423/）
+  - 「複数の分析、計測装置とソフトウェアを統合し、触媒材料開発の実験を自動化する」（https://monoist.itmedia.co.jp/mn/series/33423/）
+  - 「材料開発を加速、実験化学者が計算科学を扱える新ツール」（https://monoist.itmedia.co.jp/mn/series/33423/）
+  - 「Matlantisは、レゾナックと共同開発した新機能「Matlantis Case Studio」を近日中に提供開始する」（https://monoist.itmedia.co.jp/mn/series/33423/）
+  - 「AIとの対話により、専門外の研究者でも簡単に計算の実行から要約までを一貫して行え、材料開発のスピードを加速できる」（https://monoist.itmedia.co.jp/mn/series/33423/）
+  - 「生成AIで新材料開発へ、三井化学がNVIDIAら参加の国際ネットワークに参画」（https://monoist.itmedia.co.jp/mn/series/33423/）
+  - 「マテリアルズ・インフォマティクスとは、AIやデータ駆動型のアプローチを活用して材料の探索・開発を加速させるものです」（https://www.dreamnews.jp/press/0000367181）
+  - 「マテリアルズ・インフォマティクスの受託サービスの市場機会は2037年までに6億500万ドル規模に達すると予測しており、AIを活用した材料イノベーションの動向把握に有益な情報源となっています」（https://www.dreamnews.jp/press/0000367181）
 - 検索結果の抜粋：
+  - 「2026 / 11 /18(水)開催ウェビナー   『品質工学と マテリアル ズ ... — 2026 / 11 /18(水)開催ウェビナー   『品質工学と マテリアル ズ ... Facebook https://www.facebook.com > MI620171117 > posts > 202...」（https://www.facebook.com/MI620171117/posts/20261118%E6%B0%B4%E9%96%8B%E5%82%AC%E3%82%A6%E3%82%A7%E3%83%93%E3%83%8A%E3%83%BC%E5%93%81%E8%B3%AA%E5%B7%A5%E5%AD%A6%E3%81%A8%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BA%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9-%E4%B8%A1%E6%8A%80%E8%A1%93%E3%81%AE%E6%A6%82%E8%A6%81%E3%81%A8%E9%80%A3%E6%90%BA%E4%BA%8B%E4%BE%8B%E8%AC%9B%E6%BC%94%E6%A6%82%E8%A6%81%E6%9D%90%E6%96%99%E9%96%8B%E7%99%BA%E3%82%84%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E7%8F%BE%E5%A0%B4%E3%81%A7%E3%81%AF%E6%8E%A2%E7%B4%A2%E3%81%99%E3%81%B9%E3%81%8D%E7%B5%84%E6%88%90%E3%82%84%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%9D%A1/1436058548701672/）
   - 「【 2026年 10月最新】 マテリアルズインフォマティクス （MI ... — 【 2026年 10月最新】 マテリアルズインフォマティクス （MI ... genai-ai.co.jp https://genai-ai.co.jp > ... > ブログ > AI用語解説」（https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/）
   - 「マテリアルズ ・ インフォマティクス （MI）とは？材料開発の ... — マテリアルズ ・ インフォマティクス （MI）とは？材料開発の ... スマートエネルギーWeek https://www.wsew.jp > hub > ja-jp > blog > article_35」（https://www.wsew.jp/hub/ja-jp/blog/article_35.html）
   - 「【MI-6】 国内最大級の マテリアルズ ・ インフォマティクス 特 ... — 【MI-6】 国内最大級の マテリアルズ ・ インフォマティクス 特 ... PR TIMES https://prtimes.jp > イベント」（https://prtimes.jp/main/html/rd/p/000000049.000034072.html）
@@ -3168,6 +3226,12 @@
 ## ペロブスカイト太陽電池（perovskite solar cell）
 - 文脈：12 GX ①ペロブスカイト
 - 顧客（金を払う側）：
+  - 「製品形態には「フィルム型・ガラス型・タンデム型」など、構造や用途の異なる技術が開発されており、実用化の段階は製品や企業によって異なる」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
+  - 「知っておきたい再エネ導入の選択肢！地中に眠る太陽の熱を利用する「地中熱」」（https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_02.html）
+  - 「AIが中学生の日記にコメント、ストレス分析も 韓国で進む導入」（https://www.asahi.com/articles/ASVB72S9DVB7UDCB019M.html）
+  - 「◼ ①2025年度より導入支援事業が開始し事業化フェーズに入ったこと、②2027年度には一定の供給量が確保される見込」（https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/010_02_00.pdf）
+  - 「みであること、③金属屋根を中心に施工方法の確立が進んでいることを踏まえ、2026年夏頃に政府部門の導入目標を」（https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/010_02_00.pdf）
+  - 「非FIT・オフサイトPPA向けの小型太陽光開発に195億円調達、クリーンエナジーコネクト」（https://sgforum.impress.co.jp/article/5893）
   - 「締切延長【補助金】環境省「ペロブスカイト太陽電池の社会実装モデルの創出に向けた導入支援事業（事前調査・導入計画策定事業）」（締切：26年11月20日）」（https://ctnews.jp/）
   - 「環境省の「ペロブスカイト太陽電池の社会実装モデルの創出に向けた導入支援事業（事前調査・導入計画策定事業）」は、ペロブスカイト太陽電池の導入に向けた事前調査...」（https://ctnews.jp/）
   - 「【補助金】環境省「ペロブスカイト太陽電池の社会実装モデルの創出に向けた導入支援事業（設備等導入）」最大10億円を補助（締切：26年11月20日）」（https://ctnews.jp/）
@@ -3177,45 +3241,42 @@
   - 「日本総合研究所は、自治体などの公的機関向けにペロブスカイト太陽電池の導入手順や実務上の注意点をまとめた実務ガイドを2026年10月7日に発表した」（https://ctnews.jp/）
   - 「自治体・公共施設様向け資料ダウンロード「公共施設への再エネ導入」」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
   - 「企業情報・採用に関するお問い合わせ」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「自治体・公共施設様向け資料「公共施設への再エネ導入」」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「法人様向け資料「自家消費型太陽光発電の導入」」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「「工場の屋根が古く、耐荷重の問題で太陽光パネルを断られてしまった」」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「「次世代の『ペロブスカイト太陽電池』が出るまで、導入は待つべきだろうか？」」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「「国の政策や企業の技術は日々アップデートされているが、何が最適なのか判断がつかない」」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「脱炭素経営（カーボンニュートラル）への対応が企業に求められる中、多くの経営者様や施設管理者様がこのようなジレンマを抱えています」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
 - 顧客の顧客（発注元が求めること）：
+  - 「経済産業省の「GXサプライチェーン構築支援事業」は1,134億円が要求」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
+  - 「「屋根強度」の問題で脱炭素を諦めていた企業・自治体の皆様」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
+  - 「施設台帳、構造図面の所在、実行計画、予算要求・入札工程、公表方針」（https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026）
+  - 「※制度と製品の情報は、各社・官公庁の公表資料と報道を2026年11月4日に確認したものです（設置費は10月30日）」（https://bright-co-ltd.com/solar-media/solar/perovskite-katei-itsu/）
+  - 「電子計測器業界の「ゲームチェンジャー」として、高性能/高信頼/低価格/短納期を武器に」（https://tm-co.co.jp/glossary/development-trends-in-perovskite-solar-cells-and-japan-s-inve/）
+  - 「注1：本スライドでの「公共系建築物」とは、学校・病院（公共系）、娯楽・商業施設（公共系）・官公庁施設を指す」（https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf）
+  - 「なお、価格以外の要素としては、脱炭素、安定供給、資源循環と」（https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf）
+  - 「脱炭素先行地域である福岡市は、み」（https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf）
+  - 「パターン 適合が必要な基準と要求される性能等」（https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf）
+  - 「にて措置、R7年度は777億円を概算要求中」（https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf）
+  - 「※予算による導入支援について2025年度から実施すべく事項要求中」（https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf）
+  - 「防衛省では、官民共同の社会実装に向けた実証等に参画することが検討されている」（https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf）
   - 「公共施設脱炭素化支援」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
   - 「脱炭素・コスト削減」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
   - 「脱炭素経営（カーボンニュートラル）への対応が企業に求められる中、多くの経営者様や施設管理者様がこのようなジレンマを抱えています」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「ペロブスカイト太陽電池の実用化を待つことで、電気代削減や脱炭素の機会を逃す可能性もある」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「2026年7月からは、海上自衛隊沖縄基地隊の陸屋根で、防衛省施設として初となる実証実験を開始」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「フィルム型ペロブスカイト太陽電池の防衛省施設での実証実験の開始」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「課題はありますが、ペロブスカイト太陽電池は脱炭素社会に向けた選択肢の一つとして期待されています」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「2027年度概算要求では、」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「環境省の「ペロブスカイト導入支援事業」として280億円が要求され、2026年度当初予算の70億円から4倍」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「となっています（2年間で総額510億円の国庫債務負担を伴う要求」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「カーボンニュートラル実現に向けて電源への新規投資を促す「長期脱炭素電源オークション」とは？」（https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_02.html）
-  - 「◼ 公共部門等の脱炭素化に関する関係府省庁連絡会議を活用し、政府部門における導入目標の設定を進める」（https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/010_02_00.pdf）
-  - 「◼ 目標値は、公共部門等の脱炭素化に関する関係府省庁連絡会議において決定する」（https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/010_02_00.pdf）
-  - 「2026.3.30公共部門等の脱炭素化に関する」（https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/010_02_00.pdf）
-  - 「※2 防衛省施設は、既存施設の更新に係る計画（マスタープラン）を作成しているところであり、上記ポテンシャルには含まれない」（https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/010_02_00.pdf）
 - 顧客の競合（奪いに来る側）：
-  - 「総合機械商社の第一実業は、ペロブスカイト太陽電池関連の製造装置・技術を、2026年10月13日から14日に米国・サンフランシスコで開催されるカンファレンス「PV CellTe...」（https://ctnews.jp/）
-  - 「製品化のカギとなる技術で海外勢を大きくリード」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「△ 海外勢でも技術開発が盛んに行われており、」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「シリコン系太陽電池は、原料や製造工程を含めたサプライチェーンの多くを海外、特に中国に依存しています」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「経済産業省の2024年11月の戦略資料では、世界シェアを約30％としています」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「農地の上に設置する営農型太陽光発電（ソーラーシェアリング）など、新たな用途への広がりが期待されています」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「一方、ペロブスカイトへの支援は、産業競争力の強化（主原料のヨウ素は日本が世界シェア約3割）と、導入初期のコスト低減を目的としたものです」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「軽くて柔軟性に優れ、設置場所の大幅な拡大が期待できるペロブスカイト太陽電池は、製造工程が少なく低コスト化が見込める、主要材料であるヨウ素は日本が世界シェア第2位を占めるなど、将来性が期待できる技術です」（https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_02.html）
-  - 「こうした研究開発の成果が実りつつある一方で、中国、英国、ポーランドなど海外でも開発が急速に進められており、量産化に向けた動きも見られるなど、競争が激化する状況にあります」（https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_02.html）
-  - 「メールでシェアする」（https://www.asahi.com/articles/ASVB72S9DVB7UDCB019M.html）
-  - 「Facebookでシェアする」（https://www.asahi.com/articles/ASVB72S9DVB7UDCB019M.html）
-  - 「Xでシェアする」（https://www.asahi.com/articles/ASVB72S9DVB7UDCB019M.html）
-  - 「はてなブックマークでシェアする」（https://www.asahi.com/articles/ASVB72S9DVB7UDCB019M.html）
-  - 「あり、主な原材料であるヨウ素は、我が国が世界シェアの約30%を占めるなど、再エネ導入拡大や強靱なエネ」（https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/010_02_00.pdf）
-  - 「早期に止めるべき典型例は、通常PVを安全かつ安価に設置できるのに比較していない、補助がなくなると継続意思がない、製品供給が2年工程に合わない、屋根更新が先なのに同時施工を検討していない、自家消費率の根拠が年合計だけ、計測・保守責任者がいない場合です」（https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026）
+  - 「「トランプ時代の終わり」への転換点 米国第一と過激化、識者の懸念」（https://www.asahi.com/articles/ASVB72S9DVB7UDCB019M.html）
+  - 「危機の中での選択を描く 韓国映画「1971、ハイジャック事件」」（https://www.asahi.com/articles/ASVB72S9DVB7UDCB019M.html）
+  - 「AIが中学生の日記にコメント、ストレス分析も 韓国で進む導入」（https://www.asahi.com/articles/ASVB72S9DVB7UDCB019M.html）
+  - 「日中対立の深層 高市首相の台湾有事発言から1年」（https://www.asahi.com/articles/ASVB72S9DVB7UDCB019M.html）
+  - 「：中国 GCL 系のガラス型を扱う代理店で、2026年10月に量産品の出荷開始を発表」（https://bright-co-ltd.com/solar-media/solar/perovskite-katei-itsu/）
+  - 「台湾のパナ工場で火災 2人不明」（https://news.livedoor.com/article/detail/31652023/）
+  - 「台湾の工場で火災 従業員2人不明」（https://news.livedoor.com/article/detail/31652023/）
+  - 「Perovskite/perovskite/silicon-based triple-junction solar cells are a promising low-cost route to surpass the Shockley–Queisser efficiency limit of single-junction photovoltaics, but their performance is constrained by non-radiative losses in...」（https://www.nature.com/subjects/photovoltaic-performance-of-perovskite-solar-cells）
+  - 「Hole transport layer-free perovskite solar cells (HTL-free PSCs) are promising candidates for low-cost and scalable photovoltaic technologies. Yet, their performance is still limited by insufficient light harvesting and imperfect contact energetics....」（https://www.nature.com/subjects/photovoltaic-performance-of-perovskite-solar-cells）
+  - 「Chinese Shoppers Slow Phone Upgrades as New Tech Fizzles, BI Finds」（https://www.briefs.co/news/panasonic-pulls-forward-mass-production-of-glass-embedded-pe/）
+  - 「かつて日本はシリコン系太陽電池の技術で世界をリードしながら、量産・低価格化のフェーズで中国勢に市場を奪われるという苦い経験をしています」（https://note.com/lucid_robin8737/n/nda06c0abf205）
+  - 「現在、従来型シリコン太陽電池の世界シェアの約8割は中国が占めており、エネルギー安全保障の観点からも深刻な問題です」（https://note.com/lucid_robin8737/n/nda06c0abf205）
+  - 「は、日本が世界シェアの約26〜30%を占めており、チリと並ぶ世界有数の産地です」（https://note.com/lucid_robin8737/n/nda06c0abf205）
+  - 「特許出願の世界動向を見ると、中国が政府の強力な後押しのもとで研究開発と特許出願を急加速させており、複数国にまたがる有効特許の累計数で日本を逆転したという報道もあります」（https://note.com/lucid_robin8737/n/nda06c0abf205）
+  - 「特にタンデム型に注力した中国勢の動きは著しく、すでに中国製のガラス型ペロブスカイト太陽電池が日本国内でも試験販売されている状況です」（https://note.com/lucid_robin8737/n/nda06c0abf205）
 - 自社の競合（商社・代理店・仲介）：
+  - 「：中国 GCL 系のガラス型を扱う代理店で、2026年10月に量産品の出荷開始を発表」（https://bright-co-ltd.com/solar-media/solar/perovskite-katei-itsu/）
+  - 「Montenegro On Track To Join EU In 2028, Commission Says」（https://www.briefs.co/news/panasonic-pulls-forward-mass-production-of-glass-embedded-pe/）
+  - 「Democrat Jon Rosenthal Wins Texas Railroad Commission Seat」（https://www.briefs.co/news/panasonic-pulls-forward-mass-production-of-glass-embedded-pe/）
   - 「総合機械商社の第一実業は、ペロブスカイト太陽電池関連の製造装置・技術を、2026年10月13日から14日に米国・サンフランシスコで開催されるカンファレンス「PV CellTe...」（https://ctnews.jp/）
   - 「エネがえるは、官公庁・自治体、大手メーカー、商社、電力・ガス会社、住宅メーカー、有力販売施工店など、全国700社以上に導入されています」（https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026）
   - 「電子計測・分析機器の専門商社」（https://tm-co.co.jp/glossary/development-trends-in-perovskite-solar-cells-and-japan-s-inve/）
@@ -3225,38 +3286,40 @@
   - 「This content was commissioned by Nikkei's Global Business Bureau.」（https://asia.nikkei.com/business/energy/japan-to-back-perovskite-solar-cell-mass-production-with-640m-in-subsidies）
   - 「sets ambitious targets for perovskite production and deployment. By 2030, METI envisions a domestic production capacity of over 1 gigawatt (GW) of perovskite solar cells. Japan does not currently mass-produce perovskite cells, but has plans to commission」（https://ieefa.org/resources/japan-needs-more-nuanced-perovskite-strategy）
 - 政治（法・予算・規制）：
+  - 「政府部門におけるペロブスカイト太陽電池の率先導入について」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
+  - 「・府省庁単位ではなく政府部門全体の目標とする」（https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/010_02_00.pdf）
+  - 「✓ GXサプライチェーン構築支援補助金も活」（https://www.env.go.jp/content/000389653.pdf）
+  - 「住宅・産業用太陽光、蓄電池、EV・V2H、PPA、電力料金・補助金の経済効果を扱い、SaaS・API・BPOによる比較提案・導入判断を支援しています」（https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026）
+  - 「ただし、予算額に達すれば期間中でも終了し得ます」（https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026）
+  - 「図面・製品供給時期・予算化・調達工程のいずれかが未確認で、2028年度までの実装見通しを説明できない施設」（https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026）
+  - 「ただし、ETAは予算額到達時に期間中でも終了する可能性を明記しています」（https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026）
+  - 「5. 政府施設約110MWの内訳：屋根だけでなく壁・窓をポートフォリオで見る」（https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026）
+  - 「10. 自治体施策は「補助金一覧」ではなく、需要形成の仕組みとして読む」（https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026）
   - 「補助金・支援」（https://ctnews.jp/）
   - 「締切延長【補助金】環境省「ペロブスカイト太陽電池の社会実装モデルの創出に向けた導入支援事業（事前調査・導入計画策定事業）」（締切：26年11月20日）」（https://ctnews.jp/）
   - 「【補助金】環境省「ペロブスカイト太陽電池の社会実装モデルの創出に向けた導入支援事業（設備等導入）」最大10億円を補助（締切：26年11月20日）」（https://ctnews.jp/）
   - 「2027年度に向けた国の政策・予算」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
   - 「経済産業省をはじめとする政府も、研究開発から量産化・社会実装までを後押ししています」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
   - 「規制改革実施計画」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「リコー、大和ハウス工業、NTTアノードエナジーのコンソーシアムによるペロブスカイト太陽電池の社会実装に向けた技術開発と実証事業がNEDOのグリーンイノベーション基金に採択」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「2026年8月6日、NEDOグリーンイノベーション基金の追加公募において、」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「グリーンイノベーション基金事業『次世代型太陽電池の開発／次世代型単接合太陽電池実証事業』で1件を新規採択しました」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「NEDOグリーンイノベーション基金事業「次世代型タンデム太陽電池量産技術実証事業」に採択」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「NEDO グリーンイノベーション基金事業「次世代型太陽電池の開発／次世代型タンデム太陽電池量産技術実証事業」の採択について」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「NEDO グリーンイノベーション基金事業「次世代型太陽電池の開発／次世代型タンデム太陽電池量産技術実証事業」手交式開催」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「太陽電池廃棄物の再資源化等の推進に 関する法律について」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「今回は、海外での開発状況や日本企業の取り組み、そしてそれを後押しする政府の支援策などについて見ていきましょう」（https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_02.html）
-  - 「産業化に向けた取り組みを政府も後押し」（https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_02.html）
 - 経済（規模・価格・為替）：
+  - 「ペロブスカイト太陽電池は家庭用でいつ買える？ソラフィルの価格・一般販売の有無【2026】 | 太陽光発電メディア「ECOLIFE」」（https://bright-co-ltd.com/solar-media/solar/perovskite-katei-itsu/）
+  - 「ペロブスカイト太陽電池は家庭用でいつ買える？ソラフィルの価格・一般販売・補助金と今の現実解【2026】」（https://bright-co-ltd.com/solar-media/solar/perovskite-katei-itsu/）
+  - 「公式の製品情報、10月の案内、10月30日の決算資料を見ましたが、販売価格の記載はありません」（https://bright-co-ltd.com/solar-media/solar/perovskite-katei-itsu/）
+  - 「2026年、ペロブスカイト太陽電池が量産化へ 積水化学900億円投資、国も1572億円補助 - ライブドアニュース」（https://news.livedoor.com/article/detail/31652023/）
+  - 「2026年、ペロブスカイト太陽電池が量産化へ 積水化学900億円投資、…」（https://news.livedoor.com/article/detail/31652023/）
+  - 「2026年、ペロブスカイト太陽電池が量産化へ 積水化学900億円投資、国も1572億円補助」（https://news.livedoor.com/article/detail/31652023/）
+  - 「政府は総事業費3145億円のうち最大1572億円の補助を積水化学に決定」（https://news.livedoor.com/article/detail/31652023/）
+  - 「100MW稼働に向けた投資額は約900億円になる」（https://news.livedoor.com/article/detail/31652023/）
+  - 「積水化学の量産事業に対しては、総事業費3145億円のうち最大1572.5億円(補助率50％)という巨額の補助が決定した」（https://news.livedoor.com/article/detail/31652023/）
   - 「【補助金】環境省「ペロブスカイト太陽電池の社会実装モデルの創出に向けた導入支援事業（設備等導入）」最大10億円を補助（締切：26年11月20日）」（https://ctnews.jp/）
   - 「事業期間は2026～2030年度の5年間で、事業規模は約156億円（うち支援規模約98億円）」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
   - 「助成率は10分の10（全額）、原則として1件あたり3億円、かつ発電出力当たり900万円／kWを上限と、環境省の補助率2/3〜3/4を上回る手厚さ」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
   - 「環境省の「ペロブスカイト導入支援事業」として280億円が要求され、2026年度当初予算の70億円から4倍」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
   - 「となっています（2年間で総額510億円の国庫債務負担を伴う要求」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
   - 「経済産業省の「GXサプライチェーン構築支援事業」は1,134億円が要求」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「GI基金による約250億円規模の支援」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「政府も活用に向けた取り組みを後押ししており、「グリーンイノベーション（GI）基金」（令和2年度第3次補正予算にて国立研究開発法人新エネルギー・産業技術総合開発機構［NEDO］に造成した2兆円の基金）において、「次世代型太陽電池の開発プロジェクト」（498億円）を立ち上げ、2030年の社会実装を目指しています」（https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_02.html）
-  - 「そこで、2023年8月には産業構造審議会 グリーンイノベーションプロジェクト部会グリーン電力の普及促進等分野ワーキンググループにて、早期社会実装に向けた追加的取り組みとして、開発事業の予算を150億円積み増し、648億円とすることなどを決定しました」（https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_02.html）
-  - 「また、令和６年度予算案には、水電解装置、浮体式洋上風力発電設備などと合わせて、ペロブスカイト太陽電池のサプライチェーン構築に向けて、令和６年度548億円、国庫債務負担行為を含め総額4,212億円の「ＧＸサプライチェーン構築支援事業」が計上されています」（https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_02.html）
-  - 「【今ならキャンペーン価格】有料記事が2カ月間 月額100円で読み放題！」（https://www.asahi.com/articles/ASVB72S9DVB7UDCB019M.html）
-  - 「小学校で給食費などの督促怠り5400万円不足 校長ら私費で補てん」（https://www.asahi.com/articles/ASVB72S9DVB7UDCB019M.html）
-  - 「【令和8年度予算額 7,000百万円（5,020百万円）】」（https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/010_02_00.pdf）
-  - 「上限額 ➢ 調査対象面積等により、最大で500万円」（https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/010_02_00.pdf）
-  - 「事業費 総事業費：3,990万円（うち補助対象経費（基準額）：3,934万円）」（https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/010_02_00.pdf）
 - 社会（人・担い手）：
+  - 「「サイバー救援隊」創設へ、官民の専門人材を必要性高い企業に派遣…サイバー攻撃「緊急対策」の概要案判明」（https://news.livedoor.com/article/detail/31652023/）
+  - 「製品安全・品質認証・国際標準化・サプライチェーン構築・リサイクル技術確立・人材育成・政策提言等を業界横断で進めることが目的です」（https://note.com/lucid_robin8737/n/nda06c0abf205）
   - 「NEDOは、ペロブスカイト太陽電池に関わる人材を育成するための特別講座の委託先を、有機系太陽電池技術研究組合（RATO）と東京大学に決定した」（https://ctnews.jp/）
   - 「セキュリティー人材 争奪戦に」（https://www.asahi.com/articles/ASVB72S9DVB7UDCB019M.html）
   - 「リコーウェイと人材マネジメント」（https://jp.ricoh.com/news/stories/articles/column-perovskite-solar-cell）
@@ -3270,25 +3333,27 @@
   - 「（参考）人材育成について」（https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/008_s01_00.pdf）
   - 「人材・人手不足・働き方」（https://j-net21.smrj.go.jp/news/uq501j000000ehx8.html）
   - 「Apprenticeships & Workforce Development」（https://www.energy.gov/cmei/systems/perovskite-solar-cells）
-  - 「今回の決定で、フィルム型・ガラス一体型・タンデム型という3つの方式すべてに、日本企業の量産の担い手がそろう形になりました」（https://note.com/hirokimiyano/n/n493e7d969f8d）
-  - 「担い手は積水化学工業グループの積水ソーラーフィルムと、今回選ばれるリコーです」（https://note.com/hirokimiyano/n/n493e7d969f8d）
 - 技術（新しい技術・実証）：
+  - 「水蒸気をほとんど通さない耐湿性能を実証したという」（https://ctnews.jp/）
+  - 「ペロブスカイト太陽電池は、シリコン系太陽電池に続く「次世代型太陽電池」の本命として、世界中で激しい開発競争が行われている技術です」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
+  - 「△ 海外勢でも技術開発が盛んに行われており、」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
+  - 「AIが中学生の日記にコメント、ストレス分析も 韓国で進む導入」（https://www.asahi.com/articles/ASVB72S9DVB7UDCB019M.html）
+  - 「への更なる再エネ導入及び技術開発・技術実装を呼び込む土壌形成を行う」（https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/010_02_00.pdf）
+  - 「向けた取組の一環として次世代型太陽電池の導入を推進」（https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/010_02_00.pdf）
+  - 「ガラス型ペロブスカイト太陽電池の量産技術開発とフィールド実証」（https://www.env.go.jp/content/000389653.pdf）
+  - 「政府は、ペロブスカイト太陽電池をはじめとする次世代型太陽電池の本格普及に向け、導入の壁となっている規制の見直しを進めている」（https://sgforum.impress.co.jp/article/5893）
+  - 「：建材一体型太陽電池（BIPV）：Building-Integrated Photovoltaics」（https://sgforum.impress.co.jp/article/5893）
+  - 「営業車両に次世代バイオ燃料を導入、JR九州が実証」（https://sgforum.impress.co.jp/article/5893）
   - 「宇宙航空研究開発機構（JAXA）は2026年9月11日、東京科学大学、エネコートテクノロジーズと共同で、宇宙空間でフィルム型ペロブスカイト太陽電池から人工衛星の基幹部...」（https://ctnews.jp/）
   - 「成層圏通信にペロブスカイト活用、ソフトバンクとJAXAが評価技術を開発へ」（https://ctnews.jp/）
   - 「ソフトバンクは、宇宙航空研究開発機構（JAXA）と共同で、成層圏を飛ぶ通信拠点「HAPS（High Altitude Platform Station、成層圏通信プラットフォーム）」向けに、ペ...」（https://ctnews.jp/）
   - 「日揮が三重県のホンダ工場でフィルム型太陽電池向け施工法の実証」（https://ctnews.jp/）
   - 「日揮は、三重県、本田技研工業と連携し、フィルム型太陽電池向けの独自施工法の実証を2026年10月8日にHonda鈴鹿製作所（三重県鈴鹿市）で開始した」（https://ctnews.jp/）
-  - 「東光電気工事がペロブスカイト太陽電池を本社で実証、施工・活用知見を獲得へ」（https://ctnews.jp/）
-  - 「東光電気工事は、ペロブスカイト太陽電池を本社（東京都千代田区）や保有する建物などに設置する実証実験を、2026年10月1日に開始した」（https://ctnews.jp/）
-  - 「次世代太陽電池の施工・活用に...」（https://ctnews.jp/）
-  - 「ペロブスカイトの弱点「水」克服へ、ソアーらが高耐湿のバリア膜を試作」（https://ctnews.jp/）
-  - 「ソアーは、OPERA Solutionsと共同で、ペロブスカイト太陽電池など向けのバリア膜を試作した」（https://ctnews.jp/）
-  - 「SUSTAINABILITY」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「「次世代の『ペロブスカイト太陽電池』が出るまで、導入は待つべきだろうか？」」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「ペロブスカイト太陽電池は日本発の次世代技術」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「製品形態には「フィルム型・ガラス型・タンデム型」など、構造や用途の異なる技術が開発されており、実用化の段階は製品や企業によって異なる」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
-  - 「導入費用の低下を背景に、環境省の支援は次世代型太陽電池へ重点化される」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
 - 検索結果の抜粋：
+  - 「ペロブスカイト太陽電池 の実用化はいつ？ 2026年 最新動向と ... — ペロブスカイト太陽電池 の実用化はいつ？ 2026年 最新動向と ... greenalliancejp.com https://greenalliancejp.com > LEARN > エネルギー」（https://greenalliancejp.com/learn/energy/perovskite-solar-cell/）
+  - 「ペロブスカイト太陽電池補助金2026 ｜9/10補助・設置判断 — ペロブスカイト太陽電池補助金2026 ｜9/10補助・設置判断 エネがえる https://www.enegaeru.com > 電気料金・FIT・補助金」（https://www.enegaeru.com/perovskite-bipv-lightweight-solar-subsidy-2026）
+  - 「2026年 ペロブスカイト太陽電池 の社会実装モデルの創出に ... — 2026年 ペロブスカイト太陽電池 の社会実装モデルの創出に ... ゼロエネルギー支援 https://zero-energy.jp > perovskite-solar」（https://zero-energy.jp/hojyokin-ichiran-2026/perovskite-solar/）
+  - 「創る力／ ペロブスカイト太陽電池 飛躍なるか「国策産業」（5 ... — 創る力／ ペロブスカイト太陽電池 飛躍なるか「国策産業」（5 ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/791226）
   - 「ペロブスカイト太陽電池 とは？実用化はいつ？仕組み・課題と — ペロブスカイト太陽電池 とは？実用化はいつ？仕組み・課題と ユニバーサルエコロジー株式会社 https://unieco.co.jp > perovskite-solar-cell-guide_251218」（https://unieco.co.jp/article/perovskite-solar-cell-guide_251218/）
   - 「日本の再エネ拡大の切り札、 ペロブスカイト太陽電池 とは ... — 日本の再エネ拡大の切り札、 ペロブスカイト太陽電池 とは ... 資源エネルギー庁 https://www.enecho.meti.go.jp > perovskite_solar_cell_02」（https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_02.html）
   - 「政府が ペロブスカイト 普及へ規制緩和、 2026 年度中に措置 — 政府が ペロブスカイト 普及へ規制緩和、 2026 年度中に措置 スマートグリッドフォーラム https://sgforum.impress.co.jp > article」（https://sgforum.impress.co.jp/article/5893）
@@ -3300,98 +3365,98 @@
   - 「① ペロブスカイト設備 導入事業 | 公募情報 — ① ペロブスカイト設備 導入事業 | 公募情報 一般社団法人 環境技術普及促進協会 https://www.eta.or.jp > offering > 2026 > psc」（https://www.eta.or.jp/offering/2026/psc/index.php）
   - 「フィルム型 ペロブスカイト太陽電池 の 事業進捗について — フィルム型 ペロブスカイト太陽電池 の 事業進捗について 内閣官房 PDF https://www.cas.go.jp > seisaku > dai14 > shiryo5」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai14/shiryo5.pdf）
   - 「令和7年：（曲がる太陽光 補助金 ） ペロブスカイト太陽電池 の ... — 令和7年：（曲がる太陽光 補助金 ） ペロブスカイト太陽電池 の ... info-meidens.com https://info-meidens.com > perovskite-solar-cells-subsidy」（https://info-meidens.com/senryaku/2025/02/25/perovskite-solar-cells-subsidy/）
-  - 「ペロブスカイト 導入に最大10億円 補助 、2次公募 インフラ向け ... — ペロブスカイト 導入に最大10億円 補助 、2次公募 インフラ向け ... 環境ビジネスオンライン https://www.kankyo-business.jp > news」（https://www.kankyo-business.jp/news/900137fa-2780-4e99-8abc-29ab5045b2ee）
-  - 「ペロブスカイト の実証を最大4000万円助成、東京都が新事業 — ペロブスカイト の実証を最大4000万円助成、東京都が新事業 スマートグリッドフォーラム https://sgforum.impress.co.jp > article」（https://sgforum.impress.co.jp/article/5837）
-  - 「創る力／ ペロブスカイト太陽電池 飛躍なるか「国策産業」（3 ... — 創る力／ ペロブスカイト太陽電池 飛躍なるか「国策産業」（3 ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/791005）
-  - 「創る力／ ペロブスカイト太陽電池 飛躍なるか「国策産業」（4 ... — 創る力／ ペロブスカイト太陽電池 飛躍なるか「国策産業」（4 ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/791105）
 
 ## 水電解装置（water electrolyzer）
 - 文脈：12 GX ②水素等
 - 顧客（金を払う側）：
-  - 「企業登録申請」（https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3）
-  - 「企業・事業主のお客様」（https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3）
-  - 「企業・事業主ユーザーとして登録すると、プレスリリースの配信・掲載をおこなうことができます」（https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3）
-  - 「企業・事業主ユーザーで」（https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3）
-  - 「企業様からのお問い合わせ」（https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3）
-  - 「【半導体】東京応化工業、韓国子会社の平澤工場竣工」（https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/）
-  - 「登録企業一覧」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「国内外メーカーの取り組みと技術開発状況」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「水電解の方式やメーカーの選定を検討されている方」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「・国内外メーカーの取り組み状況」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「これらのポイントについて、ＦＨ２Ｒをはじめ大規模水電解プロジェクトや国内外メーカーとの技術開発を長年リードしてきた講師により、技術開発の現場で得られた知見を交え、実務に役立つ視点で水電解技術と市場の全体像を分かりやすく解説します」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「水電解技術の基礎から世界の最新動向、主要メーカーの開発状況、技術課題、市場の将来展望までを体系的に学べる実践的なセミナーで、実務に直結する知識をご提供します」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「・水素・エネルギー関連事業の新規事業、技術開発、設備導入を担当する経営者・技術者・ビジネスパーソン」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「・水電解の方式やメーカーの選定を検討されている方」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「・主要メーカーの取組みや市場動向、技術開発の現状が把握でき、業界全体のトレンドを理解できる」（https://seminar.atengineer.com/chemical/zkad2611m2/）
+  - 「両社は、現在進めているAEM水電解システム技術の共同開発を基盤に、製造・量産化や商業化に向けた協業の可能性を検討します」（https://www.asahi-kasei.com/jp/news/2026/ze261104）
+  - 「今回のMOUでは、共同開発を基盤として、P2H2のAEM水電解技術の知見と、旭化成が既存事業を通じて培ってきた、素材、製造、エンジニアリング、品質保証、サプライチェーン、顧客支援、事業開発ノウハウなどの多様な無形資産を組み合わせ、共同開発の成果を将来の製造・商業化につなげるための協業可能性を検討します」（https://www.asahi-kasei.com/jp/news/2026/ze261104）
+  - 「Power to Hydrogen（P2H2）は、再生可能エネルギー由来の電力を用いてグリーン水素を製造する産業向け水電解システムの開発企業です」（https://www.asahi-kasei.com/jp/news/2026/ze261104）
+  - 「P2H2は、商業プロジェクトへの導入を通じて、グリーン水素の普及拡大に取り組んでいます」（https://www.asahi-kasei.com/jp/news/2026/ze261104）
+  - 「高効率・高品質・コンパクト＆高メンテナンス性を実現する技術に加え、エンジニアリング会社として培った知見を活かし、システムの導入から運用までを支える保守サービスについてもご覧いただけます」（https://www.chiyodacorp.com/jp/media/2026/post_20241053.html）
+  - 「４．国内外の導入状況」（https://seminar.atengineer.com/chemical/zkad2611m2/）
+  - 「５．装置メーカーの開発状況」（https://seminar.atengineer.com/chemical/zkad2611m2/）
+  - 「１）水電解装置メーカーの概観（実績と計画、製造能力など）」（https://seminar.atengineer.com/chemical/zkad2611m2/）
+  - 「前述したとおり、欧州では大手6社が結束し、迫りくる中国企業への対策を早く打つよう政府に促しており、このままだと競争に負けるかもしれないという焦りが見て取れるが、後述の中国は欧州市場に乗り込む自信を感じる」（https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/）
+  - 「文章で垣間見える欧州側企業の焦りと中国側の自信の対比が興味深い」（https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/）
+  - 「グリーン水素製造用電解装置市場における主要企業には、Nel ASA、ITM Power、Siemens Energy、Plug Power、McPhy Energyなどが挙げられます」（https://newscast.jp/news/6864047）
+  - 「これらの企業は、市場でのプレゼンスを強化するため、戦略的提携、技術ライセンス供与、生産能力の拡大に注力しています」（https://newscast.jp/news/6864047）
+  - 「Astute Analyticaは 、クライアントに提供してきた具体的な成果により、短期間で確固たる評判を築いてきたグローバルな分析・アドバイザリー企業です」（https://newscast.jp/news/6864047）
+  - 「“IMOが今週ロンドンで世界的な炭素税の導入を採決しようと」（https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf）
+  - 「➢ 第２回入札では、新たに水電解槽の総容量に対して中国からの調達を制限する要件を追加」（https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf）
 - 顧客の顧客（発注元が求めること）：
-  - 「脱炭素時代の水素製造を基礎から学ぶオンライン技術セミナーを開催」（https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3）
-  - 「・脱炭素に向けた国内外の水素の取り組み概要」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「２）水電解装置に要求される課題と対応」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「ISO9001：2026/ISO14001：2026内部監査員育成講座～改正後の要求事項を盛り込んだ、最…」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「顧客要求・法規制への対応フロー (1)」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「脱炭素 (99)」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「ハラール認証取得支援サービス」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
-  - 「官公庁受託実績」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
-  - 「水素需要は従来、石油精製や化学分野に依存してきたが、脱炭素化の進展により鉄鋼、モビリティ、発電分野などへの拡張が期待されている」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
-  - 「・脱炭素化を目的にグリーン水素の利活用を検討している事業者、自治体関係者」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
-  - 「水電解技術は脱炭素化を目指した野心的なシナリオから」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
-  - 「システム導入～運用を支えるワンストップソリューションのサプライヤーとして」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
-  - 「福島県田村市のグリーン水素プロジェクトで半導体産業の脱炭素化に貢献」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
-  - 「排熱のあるプラントとSOECを組み合わせた大規模脱炭素化実証をスタートさせる」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
-  - 「2026年版 カーボンニュートラル燃料（脱炭素燃料）マーケット ～足元で拡大するモビリティ用途のバイオ燃料の現状と中長期展望～」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
+  - 「再生可能エネルギー由来の電力を用いて製造するクリーン水素は、脱炭素の実現に加え、エネルギー自給率の向上や化石燃料への依存低減を通じたエネルギー安全保障の強化の観点からも、産業、エネルギー貯蔵、モビリティなど幅広い用途での活用が期待されています」（https://www.asahi-kasei.com/jp/news/2026/ze261104）
+  - 「脱炭素 (100)」（https://seminar.atengineer.com/chemical/zkad2611m2/）
+  - 「核融合炉テクノロジー解説｜第3回：ダイバータ<br>ダイバータの役割と主要な国内サプライヤー」（https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/）
+  - 「⚫ このため、脱炭素電源への新規投資を促進するべく、脱炭素電源への新規投資を対象とした入札制度（「長期」（https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf）
+  - 「脱炭素電源オークション」）を、2023年度から開始」（https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf）
+  - 「これらの装置は、製造業、輸送、電力貯蔵、化学品製造など幅広い産業領域における脱炭素化を支援する装置として、今後の社会インフラに不可欠な技術基盤となることが見込まれている」（https://newscast.jp/smart/news/2710991）
+  - 「■政策支援と脱炭素化が牽引する水電解装置の成長展望」（https://newscast.jp/smart/news/2710991）
+  - 「さらに、鉄鋼・化学・海運といった脱炭素困難領域において水素利用が進展することで、水電解装置の産業横断的な需要拡大が見込まれる」（https://newscast.jp/smart/news/2710991）
+  - 「〔3〕熱需要や産業プロセス等の脱炭素化実証」（https://www.nedo.go.jp/koubo/SE3_100001_00119.html）
+  - 「再生可能エネルギー由来の電力を用いて製造するクリーン水素は、脱炭素の実現に加え、エネルギー自給率の向上や化石燃料への依存低減を通じたエネルギー安全保障の強化の観点からも、産業、エネルギー貯蔵、モビリティなど幅広い用途での活用が期待されています」（https://prtimes.jp/main/html/rd/p/000000265.000079452.html）
+  - 「水素需要は従来、石油精製や化学分野に依存してきたが、脱炭素化の進展により鉄鋼、モビリティ、発電分野などへの拡張が期待されている」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJdRHmHOzgFTogTLOnZnJhI9C82D9VHpdLoFBekN5H8vyzTjILk）
+  - 「・脱炭素化を目的にグリーン水素の利活用を検討している事業者、自治体関係者」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJdRHmHOzgFTogTLOnZnJhI9C82D9VHpdLoFBekN5H8vyzTjILk）
+  - 「水電解技術は脱炭素化を目指した野心的なシナリオから」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJdRHmHOzgFTogTLOnZnJhI9C82D9VHpdLoFBekN5H8vyzTjILk）
+  - 「システム導入～運用を支えるワンストップソリューションのサプライヤーとして」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJdRHmHOzgFTogTLOnZnJhI9C82D9VHpdLoFBekN5H8vyzTjILk）
+  - 「福島県田村市のグリーン水素プロジェクトで半導体産業の脱炭素化に貢献」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJdRHmHOzgFTogTLOnZnJhI9C82D9VHpdLoFBekN5H8vyzTjILk）
 - 顧客の競合（奪いに来る側）：
-  - 「「中国の水素・水電解・燃料電池産業の最新動向」」（https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/）
-  - 「【半導体】東京応化工業、韓国子会社の平澤工場竣工」（https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/）
-  - 「東京大学工学部卒、米国ＵＣＬＡ理工学大学院修士課程修了」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「一方、米国では地球温暖化対策に懐疑的な動きが顕著になり予算が削減される中、日本では2026年7月に策定された「日本成長戦略」で、戦略17分野の一つである「資源・エネルギー安全保障・ＧＸ」に水素等が位置づけられ、官民連携した大規模な成長投資が期待されています」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「２）代表的メーカーの製品例と取組状況（日本、欧州、北米、中国）」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「REACH規則（欧州）への対応ポイント (9)」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「中国・ASEANなどアジア諸国の化学品規制 (10)」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「米国TSCA・Proposition 65 の規制ポイント (4)」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「マーケットシェア事典オンライン」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
-  - 「水電解装置の方式別導入量推移、エリア別・用途別シェア」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
-  - 「また、エリア別と用途別では2025年実績、および2030年予測のシェア（容量ベース）を掲載しています」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
-  - 「Ａ：北米、欧州、中国、中東、インド、その他の区分で水電槽装置の導入量シェアを確認いただけます」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
-  - 「また、日本、EU、ドイツ、米国、中国、韓国の水素関連政策を整理しています」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
-  - 「Ｑ：競合メーカーの情報はどの程度詳しく掲載されていますか？」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
-  - 「Ａ：日本、米国、欧州を中心にとした主要メーカーの生産体制、製品ポートフォリオ、研究開発動向、採用プロジェクト等を掲載しています」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
+  - 「旭化成株式会社（本社：東京都千代田区、社長：工藤 幸四郎、以下「旭化成」）とPower to Hydrogen, Inc.（本社：米国オハイオ州コロンバス、CEO：Paul Matter、以下「P2H2」）は、クリーン水素」（https://www.asahi-kasei.com/jp/news/2026/ze261104）
+  - 「後述するが中国は昨年から欧州での展開を見越し、水素業界でグローバル取引への企業品格の形成とEUの炭素国境調整メカニズム（CBAM）への対応を推進している」（https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/）
+  - 「YHResearch調査チームの最新レポート「グローバル水電解装置のトップ会社の市場シェアおよびランキング 2026」によると、世界の水電解装置市場は2025年に2441百万米ドル規模に達すると予測され、2026年には3568百万米ドルに拡大する見込みです」（https://newscast.jp/smart/news/2710991）
+  - 「上記の図表／データは、YHResearchの最新レポート「グローバル水電解装置のトップ会社の市場シェアおよびランキング 2026」から引用されています」（https://newscast.jp/smart/news/2710991）
+  - 「直近6カ月の業界動向では、欧州および中東地域において数百MW級のグリーン水素プロジェクトが複数進行しており、PEM型水電解装置の採用比率が上昇している」（https://newscast.jp/smart/news/2710991）
+  - 「またアジア市場でも中国・日本・韓国を中心に水素産業政策が強化され、産業用途（製鉄・アンモニア・石油精製）向けの大規模導入が加速している」（https://newscast.jp/smart/news/2710991）
+  - 「水電解装置市場は、技術集約型かつ資本集約型産業であり、欧州・北米・中国の大手企業による寡占構造が形成されている」（https://newscast.jp/smart/news/2710991）
+  - 「欧州連合（EU）を中心にグリーン水素導入目標が設定され、補助金制度や炭素価格制度を通じて導入インセンティブが拡大している」（https://newscast.jp/smart/news/2710991）
+  - 「本記事は、YH Researchが発行したレポート「グローバル水電解装置のトップ会社の市場シェアおよびランキング 2026」 を紹介しています」（https://newscast.jp/smart/news/2710991）
+  - 「世界5カ国にオフィスを構え、100カ国以上の企業に正確で有益なデータを提供し、業界動向や競合分析、消費者行動分析などを通じて、企業が市場の変化に迅速に対応できるようサポートしています」（https://newscast.jp/smart/news/2710991）
+  - 「旭化成株式会社（本社：東京都千代田区、社長：工藤 幸四郎、以下「旭化成」）とPower to Hydrogen, Inc.（本社：米国オハイオ州コロンバス、CEO：Paul Matter、以下「P2H2」）は、クリーン水素※1製造に用いるアニオン交換膜※2（Anion Exchange Membrane、以下「AEM」）を用いた水電解システム（以下「AEM水電解システム」）の商業化に向けた協業に関する覚書（MOU）を、2026年10月に締結しましたので、お知らせします」（https://prtimes.jp/main/html/rd/p/000000265.000079452.html）
+  - 「水電解装置の方式別導入量推移、エリア別・用途別シェア」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJdRHmHOzgFTogTLOnZnJhI9C82D9VHpdLoFBekN5H8vyzTjILk）
+  - 「また、エリア別と用途別では2025年実績、および2030年予測のシェア（容量ベース）を掲載しています」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJdRHmHOzgFTogTLOnZnJhI9C82D9VHpdLoFBekN5H8vyzTjILk）
+  - 「Ａ：北米、欧州、中国、中東、インド、その他の区分で水電槽装置の導入量シェアを確認いただけます」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJdRHmHOzgFTogTLOnZnJhI9C82D9VHpdLoFBekN5H8vyzTjILk）
+  - 「また、日本、EU、ドイツ、米国、中国、韓国の水素関連政策を整理しています」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJdRHmHOzgFTogTLOnZnJhI9C82D9VHpdLoFBekN5H8vyzTjILk）
 - 自社の競合（商社・代理店・仲介）：
+  - 「「AI Highlight Agent」のベータ版を提供開始」（https://www.atpress.ne.jp/news/2710991）
   - 「当出版物によって、出版者はそれが明示されているか示唆されているかにかかわらず、有価証券あるいは商品取引の注文を発注、手配、助言、仲介、奨励する意図はない」（https://media.rakuten-sec.net/articles/-/51220）
   - 「半導体商社の日本株5選：事業構造に強み、今期増益予想」（https://media.rakuten-sec.net/articles/-/51220）
   - 「The electrolyzer commissioning was first suspended in the fourth quarter of 2024. Following a comprehensive review of the incremental investment and ongoing operating costs required to complete and operate the facility, management decided in December 2025 to permanently halt the project and redirect capital toward carbon capture and sequestration (CCS) technologies instead.」（https://decarbonfuse.com/posts/cf-industries-cancels-electrolyzer-project-pivots-to-carbon-capture-strategy）
 - 政治（法・予算・規制）：
-  - 「「水電解評価事業（GI基金）の成果及び常温水電解評価解析プラットフォームの取り組み」」（https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/）
-  - 「一方、米国では地球温暖化対策に懐疑的な動きが顕著になり予算が削減される中、日本では2026年7月に策定された「日本成長戦略」で、戦略17分野の一つである「資源・エネルギー安全保障・ＧＸ」に水素等が位置づけられ、官民連携した大規模な成長投資が期待されています」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「・環境政策やエネルギー政策に関わる政府・自治体関係者」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「国内外の化学物質規制・最新動向 (72)」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「PFAS規制動向と企業対応の実務 (10)」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「RoHS / ELV 等製品規制の動向 (11)」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「中国・ASEANなどアジア諸国の化学品規制 (10)」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「今後の規制動向予測と戦略的対応策 (2)」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「化学物質規制の基礎とリスク管理 (2)」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「各国規制の比較と遵守ポイント (3)」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「国内化学物質規制（化審法・有機則・特化則）概要とポイント (10)」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「（図）水素に係る国家戦略・方針・法律の策定状況」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
-  - 「（表）水素社会推進法の計画認定状況」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
-  - 「日本ではGI基金事業でPFASフリー電解質膜を用いた10MWモデルの開発を推進」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
-  - 「2026年2月にNEDOのGI基金事業に採択」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
+  - 「国内外の化学物質規制・最新動向 (74)」（https://seminar.atengineer.com/chemical/zkad2611m2/）
+  - 「国内化学物質規制（化審法・有機則・特化則）概要とポイント (11)」（https://seminar.atengineer.com/chemical/zkad2611m2/）
+  - 「⚫ 国際海運全体での排出規制の合意は遅延しているが、EU域内の制度は進捗」（https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf）
+  - 「水電解装置市場の成長を支える最大要因は、各国政府による水素戦略の強化である」（https://newscast.jp/smart/news/2710991）
+  - 「欧州連合（EU）を中心にグリーン水素導入目標が設定され、補助金制度や炭素価格制度を通じて導入インセンティブが拡大している」（https://newscast.jp/smart/news/2710991）
+  - 「「グリーンイノベーション基金事業／再エネ等由来の電力を活用した水電解による水素製造」プロジェクトの実施体制の決定について | 公募 | NEDO」（https://www.nedo.go.jp/koubo/SE3_100001_00119.html）
+  - 「「グリーンイノベーション基金事業／再エネ等由来の電力を活用した水電解による水素製造」プロジェクトの実施体制の決定について」（https://www.nedo.go.jp/koubo/SE3_100001_00119.html）
+  - 「）は、「グリーンイノベーション基金事業／再エネ等由来の電力を活用した水電解による水素製造」に係る公募を実施し、ご提案いただいた1件の提案について審査を行い、別紙1のとおり実施予定先を決定いたしました」（https://www.nedo.go.jp/koubo/SE3_100001_00119.html）
+  - 「グリーンイノベーション基金事業／再エネ等由来の電力を活用した水電解による水素製造」（https://www.nedo.go.jp/koubo/SE3_100001_00119.html）
+  - 「グリーンイノベーション基金事業【事業紹介】」（https://www.nedo.go.jp/koubo/SE3_100001_00119.html）
+  - 「医療機器・ヘルスケア業界参入で「後戻り」を防ぐ事業化・規制対応戦略《無料セミナー》」（https://engineer-education.com/seminar_tag/seminar_water-electrolysis/）
+  - 「はじめての化学物質法規制・基礎講座（セミナー）」（https://engineer-education.com/seminar_tag/seminar_water-electrolysis/）
+  - 「（図）水素に係る国家戦略・方針・法律の策定状況」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJdRHmHOzgFTogTLOnZnJhI9C82D9VHpdLoFBekN5H8vyzTjILk）
+  - 「日本ではGI基金事業でPFASフリー電解質膜を用いた10MWモデルの開発を推進」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJdRHmHOzgFTogTLOnZnJhI9C82D9VHpdLoFBekN5H8vyzTjILk）
+  - 「2026年2月にNEDOのGI基金事業に採択」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJdRHmHOzgFTogTLOnZnJhI9C82D9VHpdLoFBekN5H8vyzTjILk）
 - 経済（規模・価格・為替）：
+  - 「最大3.97億ユーロ(約730億円)の支援で2027年からの」（https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf）
+  - 「世界水電解装置市場レポート：企業調査、価格推移、販売動向の徹底分析2026 | NEWSCAST」（https://newscast.jp/smart/news/2710991）
+  - 「世界水電解装置市場レポート：企業調査、価格推移、販売動向の徹底分析2026」（https://newscast.jp/smart/news/2710991）
+  - 「2032年までに37730百万ドルに達すると予測されており、2026年から2032年までの期間における年平均成長率（CAGR）は48.2%と予想されています」（https://newscast.jp/smart/news/2710991）
+  - 「1033億8900万円」（https://prtimes.jp/main/html/rd/p/000000265.000079452.html）
+  - 「：本調査レポートでは、水電解技術・部材の開発トレンドや普及に向けた課題、参入企業の事業戦略を分析するとともに、2035 年までの世界市場規模を予測する」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJdRHmHOzgFTogTLOnZnJhI9C82D9VHpdLoFBekN5H8vyzTjILk）
+  - 「Ａ：2025年の実績、2026～2030年、2035年の市場規模（面積ベース、あるいは重量ベース）予測を掲載しています」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJdRHmHOzgFTogTLOnZnJhI9C82D9VHpdLoFBekN5H8vyzTjILk）
+  - 「マルチコアCANバスケーブルの世界市場（2026年～2032年）、市場規模（直径：AWG 20/7、直径：AWG 22/7、直径：AWG 24/7、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/2710991）
+  - 「140DB HDR CMOSイメージセンサーの世界市場（2026年～2032年）、市場規模（画素サイズ：2.1 µm、画素サイズ：3 µm）・分析レポートを発表」（https://www.atpress.ne.jp/news/2710991）
+  - 「バナジウム酸ビスマスの世界市場（2026年～2032年）、市場規模（グリーンシェードイエロー、ミディアムシェードイエロー、レッドシェードイエロー）・分析レポートを発表」（https://www.atpress.ne.jp/news/2710991）
+  - 「半導体ショックでマイナス約14万円の大打撃！まつのすけの「ポイント投資と投資信託だけで300万円」」（https://media.rakuten-sec.net/articles/-/51220）
   - 「：本調査レポートでは、水電解技術・部材の開発トレンドや普及に向けた課題、参入企業の事業戦略を分析するとともに、2035 年までの世界市場規模を予測する」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
   - 「Ａ：2025年の実績、2026～2030年、2035年の市場規模（面積ベース、あるいは重量ベース）予測を掲載しています」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
   - 「」と名付けられた業界協定を公表し、「原価割れの価格設定」と「虚偽の主張」を終わらせ、市場を安定させるための以下の10の基本的措置を講じることを約束した」（https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/）
   - 「4 原価割れの低価格競争を避ける」（https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/）
-  - 「市場規模は2025年の30億米ドルから2035年には301億米ドルへと拡大し、2026年から2035年の予測期間において25.9%という高い年平均成長率（CAGR）を記録すると見込まれています」（https://newscast.jp/news/6864047）
-  - 「専門家は、2035年までに市場規模が10倍に拡大するという予測を達成する上で、業界横断的な導入が重要な役割を果たすと予測しています」（https://newscast.jp/news/6864047）
-  - 「ALK電解水水素製造システムの世界市場（2026年～2032年）、市場規模（5～100 Nm³/h、101～500 Nm³/h、500 Nm³/h超）・分析レポートを発表 | 株式会社マーケットリサーチセンター」（https://www.atpress.ne.jp/news/2507988）
-  - 「ALK電解水水素製造システムの世界市場（2026年～2032年）、市場規模（5～100 Nm³/h、101～500 Nm³/h、500 Nm³/h超）・分析レポートを発表」（https://www.atpress.ne.jp/news/2507988）
-  - 「本資料には、ALK電解水水素製造システムの世界市場規模、市場動向、セグメント別予測（5～100 Nm³/h、101～500 Nm³/h、500 Nm³/h超）、関連企業の情報などが盛り込まれています」（https://www.atpress.ne.jp/news/2507988）
-  - 「世界のALK電解水水素製造システムの市場規模は、2025年の12億7,200万米ドルから2032年には26億6,500万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）11.2%で成長すると見込まれています」（https://www.atpress.ne.jp/news/2507988）
-  - 「2025年、世界のALK電解水水素製造システムの生産台数は約1,083台に達し、世界平均市場価格は1台あたり約1,200米ドルでした」（https://www.atpress.ne.jp/news/2507988）
-  - 「近年、業界は100メガワット規模のプロジェクトや、単価を1ワットあたり500元以下に引き下げることに注力してきましたが、現在では、容量拡大のみによるコスト削減の余地はほぼ尽きつつあることが広く認識されています」（https://www.atpress.ne.jp/news/2507988）
-  - 「本質的に、アルカリ電解分野における現在の競争は、もはや誰が最低価格を提供できるかという点ではなく、変動性によって定義される「ニューノーマル」の中で、より少ない貴金属、より薄い隔膜、そしてより堅牢なスタックを使用し、化学業界の顧客に10年間のオフテイク契約を締結させるのに十分な、トン当たりコストの低いグリーン水素を生産できるかという点に焦点が移っている」（https://www.atpress.ne.jp/news/2507988）
-  - 「➢ 水素と既存原燃料との価格差支援(CfD支援)のラウンド１を実施」（https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf）
-  - 「(約4,450億円)を見込む」（https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf）
 - 社会（人・担い手）：
+  - 「2026年版 人材ビジネス業界におけるAIの活用実態と今後の可能性」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJdRHmHOzgFTogTLOnZnJhI9C82D9VHpdLoFBekN5H8vyzTjILk）
+  - 「C68106700 2026年版 人材ビジネス業界におけるAIの活用実態と今後の可能性」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJdRHmHOzgFTogTLOnZnJhI9C82D9VHpdLoFBekN5H8vyzTjILk）
+  - 「Apprenticeships & Workforce Development」（https://www.energy.gov/cmei/fuels/technical-targets-proton-exchange-membrane-electrolysis）
   - 「2026年版 人材ビジネス業界におけるAIの活用実態と今後の可能性」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
   - 「C68106700 2026年版 人材ビジネス業界におけるAIの活用実態と今後の可能性」（https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD）
   - 「2040年までに電解装置の生産規模を拡大し、100万人の雇用を創出し、最大2,000億ユーロ（2,160億ドル）の輸出額を生み出すというビジョンを掲げる」（https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/）
@@ -3400,22 +3465,23 @@
   - 「万の新しい雇用を生み出し、健康コストを数十」（https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf）
   - 「給与激減も責任は同じ「再雇用」嫌がる人は多いが…60歳定年後「年収360万円で5年間働いた人」と「リタイアした人」に生じる衝撃の老後格差【シミュレーション】」（https://media.rakuten-sec.net/articles/-/51220）
 - 技術（新しい技術・実証）：
-  - 「JFEテクノリサーチ、グリーン水素製造技術開発を加速する水電解評価試験装置を販売開始」（https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3）
-  - 「AndTech新刊「環境配慮型材料Vol.15 ～環境イノベーション戦略と次世代エネルギー～」を刊行」（https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3）
-  - 「AIエージェント」（https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3）
-  - 「【水素・水電解・燃料電池】水素・燃料電池開発情報センター、2026年11月11日に第42回セミナー開催 - CTIWEB 株式会社加工技術研究会」（https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/）
-  - 「CONVERTING Technology Seminar」（https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/）
-  - 「【水素・水電解・燃料電池】水素・燃料電池開発情報センター、2026年11月11日に第42回セミナー開催」（https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/）
-  - 「水素・燃料電池開発情報センター」（https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/）
-  - 「（FCDIC、旧・燃料電池開発情報センター）は2026年11月11日午前10時～午後7時15分（午後5時15分～7時15分までは交流会）まで、」（https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/）
-  - 「「カーボンニュートラルに向けた東京ガスの取り組みとPEM形水電解CCMの開発状況」」（https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/）
-  - 「「カナデビアのPEM型水電解システムにおける大規模実証と今後の展望」」（https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/）
-  - 「「関西電力における水素事業の取り組みと技術開発」」（https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/）
-  - 「【フィルム型ペロブスカイト太陽電池】積水化学工業・積水ソーラーフィルム・鹿児島銀行・南国殖産、志布志市で台風や塩害などの耐候性実証実験開始」（https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/）
-  - 「国内外メーカーの取り組みと技術開発状況」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「水素・エネルギー関連事業の新規事業や技術開発を担当する方」（https://seminar.atengineer.com/chemical/zkad2611m2/）
-  - 「1982年に株式会社東芝に入社し、燃料電池、超電導、核融合、熱分解ガス化炉など新エネルギー関連の技術開発に従事」（https://seminar.atengineer.com/chemical/zkad2611m2/）
+  - 「次世代水電解技術の選択肢を広げ、水素関連事業を強化」（https://www.asahi-kasei.com/jp/news/2026/ze261104）
+  - 「両社は、現在進めているAEM水電解システム技術の共同開発を基盤に、製造・量産化や商業化に向けた協業の可能性を検討します」（https://www.asahi-kasei.com/jp/news/2026/ze261104）
+  - 「旭化成は、水素関連事業を将来の成長ドライバーの1つと位置づけており、長年にわたり培ってきた食塩電解分野の技術・事業基盤をベースに、アルカリ水電解水素製造技術の大型実証実績を蓄積しながら、信頼性の高い電解ソリューションの提供に取り組んできました」（https://www.asahi-kasei.com/jp/news/2026/ze261104）
+  - 「P2H2が開発するAEM水電解技術は、低コスト材料や重要鉱物に該当しない金属の活用と、再生可能エネルギーとの動的な連携の両立を目指しています」（https://www.asahi-kasei.com/jp/news/2026/ze261104）
+  - 「今回のMOUでは、共同開発を基盤として、P2H2のAEM水電解技術の知見と、旭化成が既存事業を通じて培ってきた、素材、製造、エンジニアリング、品質保証、サプライチェーン、顧客支援、事業開発ノウハウなどの多様な無形資産を組み合わせ、共同開発の成果を将来の製造・商業化につなげるための協業可能性を検討します」（https://www.asahi-kasei.com/jp/news/2026/ze261104）
+  - 「Power to Hydrogen（P2H2）は、再生可能エネルギー由来の電力を用いてグリーン水素を製造する産業向け水電解システムの開発企業です」（https://www.asahi-kasei.com/jp/news/2026/ze261104）
+  - 「当社は、トヨタ自動車株式会社との戦略的パートナーシップのもと、大規模水電解装置システムの開発を進めています」（https://www.chiyodacorp.com/jp/media/2026/post_20241053.html）
+  - 「本サイトでは、大規模水電解装置システムの特長や開発コンセプト、目指す将来像をご紹介しています」（https://www.chiyodacorp.com/jp/media/2026/post_20241053.html）
+  - 「・水素・エネルギー関連事業の新規事業、技術開発、設備導入を担当する経営者・技術者・ビジネスパーソン」（https://seminar.atengineer.com/chemical/zkad2611m2/）
+  - 「⚫ インフレによる開発費の増大や円安、化石燃料価格の低減によって、従来製品より」（https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf）
+  - 「⚫ 特に市場が黎明期の水素等の新技術は価格転嫁の壁が高く、また、規制等の」（https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf）
+  - 「• 米Air ProductsはACWA Powerとジョイントベン」（https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf）
+  - 「⚫ 目下、AIによる電力需要は業界の予測を大幅に上回るペースで増加しており、GAFAM」（https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf）
+  - 「グリーン水素燃料電池を用いた電力供給のパイロット実証」（https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf）
+  - 「Microsoft：データセンターへグリーン水素供給実証を実施 Meta:データセンター向け電源に水素混焼→将来専焼を採用」（https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf）
 - 検索結果の抜粋：
+  - 「水電解装置 システム特設サイト開設のお知らせ - 千代田化工建設 — 水電解装置 システム特設サイト開設のお知らせ - 千代田化工建設 千代田化工建設株式会社 https://www.chiyodacorp.com > ... > ニュース > 2026年」（https://www.chiyodacorp.com/jp/media/2026/post_20241053.html）
   - 「グリーン水素製造向け 水電解装置 の技術と市場の動向【 2026 】 — グリーン水素製造向け 水電解装置 の技術と市場の動向【 2026 】 セミナーゲート https://seminar.atengineer.com > Home > 脱炭素」（https://seminar.atengineer.com/chemical/zkad2611m2/）
   - 「欧州の 水電解装置 6社が新たな連合E4Eを組成。中国企業を ... — 欧州の 水電解装置 6社が新たな連合E4Eを組成。中国企業を ... BAUM Consult Japan - https://baumconsult.co.jp > 水素」（https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/）
   - 「グリーン水素用水 電解装置 市場、2035年までに30億ドルから ... — グリーン水素用水 電解装置 市場、2035年までに30億ドルから ... Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/6864047）
@@ -3424,54 +3490,56 @@
 ## グリーンアンモニア（green ammonia）
 - 文脈：12 GX ②水素等
 - 顧客（金を払う側）：
-  - 「赤峰工場はビューローベリタス社によるISO規格認証を取得しており、生産されるグリーンアンモニアはRFNBOおよびISCCの要件を満たしている」（https://greenproduction.co.jp/archives/40004）
-  - 「「アンモニア二元燃料エンジン『エバーレンス』を搭載したこの初のVLACへの導入は画期的な出来事であり、グリーンアンモニアが今日、実用的で拡張性のある船舶燃料であることを証明している」（https://greenproduction.co.jp/archives/40004）
-  - 「EPSやLOTTE Fine Chemical といった先見性のあるリーダー企業と提携してこれを実現できたことを大変誇りに思う」（https://greenproduction.co.jp/archives/40004）
-  - 「持続可能なバイオベース・ソリューションの市場導入加速へ（2026.10）」（https://greenproduction.co.jp/archives/40004）
-  - 「JERA､印･AM Green社とグリーンアンモニア売買の基本合意書締結｡船舶燃料向け長期調達へ（2026.10）」（https://greenproduction.co.jp/archives/40004）
-  - 「新卒採用サイト」（https://www.jgc.com/jp/news/2026/20260127_11.html）
-  - 「キャリア採用」（https://www.jgc.com/jp/news/2026/20260127_11.html）
-  - 「日揮グループの採用情報」（https://www.jgc.com/jp/news/2026/20260127_11.html）
-  - 「採用活動に関する個人情報保護方針」（https://www.jgc.com/jp/news/2026/20260127_11.html）
-  - 「ベトナム ハタファー固形製剤工場プロジェクト」（https://www.jgc.com/jp/news/2026/20260127_11.html）
-  - 「５．実施企業等の取組状況とNEDO委員会での意見」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「＜研究開発項目２＞アンモニアの発電利用における高混焼化・専焼化 （2050 年国内導入量 3000 万トン／年に必要な技術の確立）」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「（※）WG出席企業」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「事業規模等※太字：幹事企業」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「※太字：幹事企業」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
+  - 「中国能建によれば、すでに複数の海外企業と長期供給契約を締結しているという」（https://www.jetro.go.jp/biznews/2026/11/b0808e4dfae6b5e8.html）
+  - 「JERA､印･AM Green社とグリーンアンモニア売買の基本合意書締結｡船舶燃料向け長期調達へ（2026.10）」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「2026年10月14日、欧州・エストニアの電解槽技術企業であるStargate Hydrogenは、このたびのSTARDUSTは、独自のセラミック触媒であり、アルカリ電解槽スタックの出力効率を48 kWh/kgまで向上」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「2026年10月6日、ドイツの革新的な粘着テープと自己粘着製品ソリューションの国際メーカーであるtesaとグリーンエネルギー注力のEWEは、ハンブルクで年間500トンのグリーン水素の供給契約を締結したと発表した」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「印･Maruti Suzuki、ハリヤナ州マネサール工場に初のグリーン水素製造プラント稼働開始（2026.9）」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「2026年9月24日、スズキグループのMaruti Suzuki India Limited (Maruti Suzuki)は、マネサール工場に試験的に設置した300kWのグリーン水素（GH2）電解プラントの稼働を開始」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「P：三菱ガス化学、水島工場で製鉄所由来の副生ガスを原料にメタノールの製造を開始 ……………………….. 5」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
+  - 「P：JERA、印 AM Green Ammonia から船舶用燃料としてグリーンアンモニアを年 7 万トン調達 …………. 6」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
+  - 「P：豪 Sparc Hydrogen、太陽光直接水素製造で開発資金 130 万豪ドルを調達 …………………. 9」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
+  - 「P：スイス Burckhardt 傘下 SYCC、半導体向け高純度水素のダイヤフラム圧縮機を受注 …………………… 15」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
+  - 「P：オーストリア OMV、140MW 水素工場で PEM 形電解装置の据付けを開始 …………………………………. 16」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
+  - 「P：伊 ErreDue、宝飾品メーカー向け PEM 水電解装置 2 基を受注 ……………………………………. 23」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
+  - 「P：スペイン Técnicas Reunidas、エチオピアの肥料工場向け水素改質炉 2 基を受注 …………………………. 24」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
+  - 「A：欧州の水電解槽メーカー、受注低迷と中国勢との価格競争に直面 …………………………………….. 24」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
+  - 「ＪＥＲＡ、印社とグリーンアンモニアの長期調達合意 : 化学工業日報 電子版」（https://chemicaldaily.com/archives/872792）
 - 顧客の顧客（発注元が求めること）：
-  - 「赤峰工場はビューローベリタス社によるISO規格認証を取得しており、生産されるグリーンアンモニアはRFNBOおよびISCCの要件を満たしている」（https://greenproduction.co.jp/archives/40004）
-  - 「地球･人間環境ﾌｫｰﾗﾑ主催、「認証依存の落とし穴～カナダ・インドネシアの事例から考える、バイオマス認証制度の課題」2026.11.11オンライン開催」（https://greenproduction.co.jp/archives/40004）
-  - 「情報と知見を集約し気候変動対策の加速・早期の脱炭素化達成へ（2026.10）」（https://greenproduction.co.jp/archives/40004）
-  - 「佐賀市・さが藻類バイオマス協議会の取組～ISCC PLUS認証取得で、CCU加速～協議会会員の熊谷組、ミゾタの取組（2024.11.20）」（https://greenproduction.co.jp/archives/40004）
-  - 「脱炭素社会への移行を支えるCCS技術」（https://www.jgc.com/jp/news/2026/20260127_11.html）
-  - 「脱炭素化の技術オプションを残すという観点からも確実に推進して頂きたい」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「・日本政府は、価格差に着目した支援、長期脱炭素電源オークションなどの支援策を新たに展」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「長期脱炭素電源オークションにおいて、計８件のアンモニア発電事業が落札」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「（※1）第1回長期脱炭素電源オークションにて、2030年度のアンモニア20％転換への改修を落札」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「第3回脱炭素電源オークションでは、2032年度に20％転換から40％転換へ引き上げるための改修を落札」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「（※2）長期脱炭素電源オークション容量確保契約約款第11条第1項第6号の規定に該当し市場退出済」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「出典：環境審査顧問会全大会 資料２.長期脱炭素電源オークション（2025年10月6日）をもとにNEDOが作成」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「基準・認証、ルール形成戦略」（https://www.jetro.go.jp/biznews/2026/08/fa2746686512f09a.html）
-  - 「基準・認証、規制」（https://www.jetro.go.jp/biznews/2026/08/fa2746686512f09a.html）
-  - 「アンモニア合成プラントは世界大手メーカーへ発注済みで、プロジェクト・マネジメント・コンサルタント（PMC）は6カ月前から参画しており、電解装置サプライヤーの選定も完了した」（https://www.jetro.go.jp/biznews/2026/08/fa2746686512f09a.html）
+  - 「基準・認証、ルール形成戦略」（https://www.jetro.go.jp/biznews/2026/11/b0808e4dfae6b5e8.html）
+  - 「基準・認証、規制」（https://www.jetro.go.jp/biznews/2026/11/b0808e4dfae6b5e8.html）
+  - 「バイオナフサのハラル認証運用、廃食油の範疇がカギ」（https://chemicaldaily.com/archives/872792）
+  - 「アンモニアは燃焼しても二酸化炭素（CO₂）を排出しないことから、国際海運の脱炭素化に貢献する次世代燃料として期待されています」（https://www.nyk.com/news/2026/20260918_03.html）
+  - 「認証の更新周期3年、審査も厳格化」（https://sustainablejapan.jp/2026/02/05/jgc-green-ammonia/121314）
+  - 「ところが、脱炭素化の圧力はこうした化学肥料や火薬の原料としての硝酸の生産事業者にも押し寄せており、グリーンアンモニアに対する需要がこの数年急速に高まってきた」（https://xtech.nikkei.com/atcl/nxt/column/18/00001/08423/）
+  - 「肥料の脱炭素化はきっかけに過ぎず、生産したグリーンアンモニアを様々な用途に使おうとしている事業者も多い」（https://xtech.nikkei.com/atcl/nxt/column/18/00001/08423/）
+  - 「それは、「クリーンアンモニアは、燃料として使うのではなく、肥料の脱炭素化に使うべきだ」というメッセージ」（https://xtech.nikkei.com/atcl/nxt/column/18/00001/08423/）
+  - 「AIで激化するサイバー攻撃、矛先は製造業へ 防御対象選定とBCPが急務」（https://xtech.nikkei.com/atcl/nxt/column/18/00001/08423/）
+  - 「防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円」（https://xtech.nikkei.com/atcl/nxt/column/18/00001/08423/）
+  - 「タイトル： クリーン？それとも…？みんなで話そう！「アンモニア×脱炭素」 主催：&nbsp…」（https://greenammonia.org/）
+  - 「このプロジェクトは、クリーンエネルギーへの移行と産業の脱炭素化に向けた日本の道筋における重要な一歩です」（https://itbusinesstoday.com/ja/industrial-tech/science/japans-first-green-ammonia-plant-begins-operations-boosting-clean-energy-ambitions/）
+  - 「たとえば日本は、「エネルギー安全保障を強化し、さまざまな産業の脱炭素化を加速する」ために、水素やアンモニアの技術に積極的に投資しています」（https://itbusinesstoday.com/ja/industrial-tech/science/japans-first-green-ammonia-plant-begins-operations-boosting-clean-energy-ambitions/）
+  - 「日本初のグリーン・アンモニア・プラントの立ち上げは、水素をベースとしたエネルギー・システムへの移行と産業の脱炭素化という、世界中で進行中のトレンドを浮き彫りにするものです」（https://itbusinesstoday.com/ja/industrial-tech/science/japans-first-green-ammonia-plant-begins-operations-boosting-clean-energy-ambitions/）
+  - 「世界各国の政府と民間セクターは、脱炭素化と排出量削減のために、水素、アンモニア、合成燃料製造技術への投資を増やしています」（https://itbusinesstoday.com/ja/industrial-tech/science/japans-first-green-ammonia-plant-begins-operations-boosting-clean-energy-ambitions/）
 - 顧客の競合（奪いに来る側）：
-  - 「2026年11月3日、グリーンテクノロジーのグローバルリーダーである中国のEnvisionは、同社のグリーンアンモニアが 、世界初の二元燃料アンモニア推進システムを搭載した超大型アンモニア運搬船（VLAC）であるTerra Cloveの燃料供給に成功したと発表した」（https://greenproduction.co.jp/archives/40004）
-  - 「この船舶は先日、韓国で行われた命名式で命名され、シンガポールのEastern Pacific Shipping（EPS）が所有し、韓国のHD Hyundai Heavy Industries（HHI）が建造したものである」（https://greenproduction.co.jp/archives/40004）
-  - 「今回の燃料補給は、Envisionが2026年2月に赤峰から韓国の蔚山港にあるLOTTE Fine Chemicalに初めて商業用グリーンアンモニアを出荷したことに続くものである」（https://greenproduction.co.jp/archives/40004）
-  - 「地球･人間環境ﾌｫｰﾗﾑ主催、「認証依存の落とし穴～カナダ・インドネシアの事例から考える、バイオマス認証制度の課題」2026.11.11オンライン開催」（https://greenproduction.co.jp/archives/40004）
-  - 「欧州委員会、Bio-based Europe Allianceを発足」（https://greenproduction.co.jp/archives/40004）
-  - 「北米・欧州・アジア等の専門家ネットワーク形成（2026.10）」（https://greenproduction.co.jp/archives/40004）
-  - 「韓国政府、K-GX戦略を発表」（https://greenproduction.co.jp/archives/40004）
-  - 「欧州・CIS」（https://www.jgc.com/jp/news/2026/20260127_11.html）
-  - 「・中国と韓国では、加速していたアンモニア混焼に関する動きが鈍化傾向」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「中国 ・2022年2月、国営大手電力会社「国家能源集団」が石炭火力発電（40 MW）でアンモニア」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「韓国 ・2021年10月に発表した「2050カーボンニュートラルシナリオ」では、アンモニア発電は2027年ま」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「インド再エネ大手、超高純度グリーンアンモニア製造事業に着手(インド) | ビジネス短信 ―ジェトロの海外ニュース - ジェトロ」（https://www.jetro.go.jp/biznews/2026/08/fa2746686512f09a.html）
-  - 「米国関税措置への対応」（https://www.jetro.go.jp/biznews/2026/08/fa2746686512f09a.html）
-  - 「インドネシア」（https://www.jetro.go.jp/biznews/2026/08/fa2746686512f09a.html）
-  - 「インド再エネ大手、超高純度グリーンアンモニア製造事業に着手」（https://www.jetro.go.jp/biznews/2026/08/fa2746686512f09a.html）
+  - 「吉林省松原市でグリーン水素・アンモニア・メタノール一体化プロジェクト第2期が着工(中国) | ビジネス短信 ―ジェトロの海外ニュース - ジェトロ」（https://www.jetro.go.jp/biznews/2026/11/b0808e4dfae6b5e8.html）
+  - 「中国能源建設集団（以下、中国能建）は10月20日、吉林省松原市でグリーン水素・アンモニア・メタノール一体化プロジェクトである中能建松原水素産業園（産業団地）プロジェクト第2期に着工したと発表した」（https://www.jetro.go.jp/biznews/2026/11/b0808e4dfae6b5e8.html）
+  - 「中国能建によれば、すでに複数の海外企業と長期供給契約を締結しているという」（https://www.jetro.go.jp/biznews/2026/11/b0808e4dfae6b5e8.html）
+  - 「同プロジェクト第1期で生産されたグリーンアンモニアが、2026年10月に浙江省舟山市で船舶燃料として充填（じゅうてん）され、中国におけるグリーンアンモニアのサプライチェーン（生産・輸送・供給・利用）の実証事例となった」（https://www.jetro.go.jp/biznews/2026/11/b0808e4dfae6b5e8.html）
+  - 「2026年11月3日、グリーンテクノロジーのグローバルリーダーである中国のEnvisionは、同社のグリーンアンモニアが 、世界初の二元燃料アンモニア推進システムを搭載した超大型アンモニア運搬船（VLAC）であるTer」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「2026年10月30日、㈱商船三井は、ベルギーの海運グループCMB.TECH NV（CMB.TECH」）と共同で整備を進めている世界初のアンモニア燃料ケープサイズバルカー3隻の共同命名式を、10月29日に中国船舶集団の」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「2026年10月29日、 燃料電池プロジェクトの開発・製造会社であるフランスのHDF Energyは、米国の西テキサスで計画されている250MWの発電所プロジェクト「BaseBlue Power」の技術ライセンサーとし」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「2026年10月27日、㈱JERAは、インドのAM Green Ammonia (India) Private Limited（AM Green社）との間で、グリーンアンモニア売買に関する基本合意書（法的拘束力あり）を」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「2026年10月15日、10月13日、世界初の半潜水式風力発電水素製造プラットフォーム「申海氢能1」（Shenhai Hydrogen Energy No. 1）の進水式が、広東省江門市で開催されたと中国のCIMC R」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「2026年10月14日、欧州・エストニアの電解槽技術企業であるStargate Hydrogenは、このたびのSTARDUSTは、独自のセラミック触媒であり、アルカリ電解槽スタックの出力効率を48 kWh/kgまで向上」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「中･Dondel（東徳水素）、中国初のグリーン水素からSAFへの変換PJを新疆ウイグル自治区で着工」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「2026年9月21日、米国のInfiniumは、再生可能な天然ガス、バイオガス、フレアガス、その他の適格なメタン源を低炭素航空燃料に変換する、メタン由来の持続可能な航空燃料（SAF）プラットフォームであるmSAF製品を」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「中国中化G（Sinochem）のSWCHEM社が推進する世界最大規模グリーンメタノールPJから、最初の製品群が出荷（2026.9）」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「N：韓国・三陟市江原テクノパーク、液体水素の信頼性評価施設を建設、2027 年 1 月稼働へ ……………….. 8」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
+  - 「P：豪 Abergeldie、縦坑 1 本に水素最大 150 トンを貯蔵する技術で米国特許を取得…………….. 19」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
 - 自社の競合（商社・代理店・仲介）：
+  - 「P：独 Enapter、米 THS と AEM 水電解槽の販売代理店契約、技術提携を完成品販売に拡大 ……………….. 8」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
+  - 「一方、IHIや日揮、三菱商事、三井物産など日本のエネルギー系のメーカーや商社は数年前から（2）、つまりCO」（https://xtech.nikkei.com/atcl/nxt/column/18/00001/08423/）
   - 「第1フェーズでは、日本の半導体材料メーカーやガス会社・商社と戦略的投資家やオフテイクパートナーとして、第2・第3フェーズでは設備供給企業としての協業を期待している」（https://www.jetro.go.jp/biznews/2026/08/fa2746686512f09a.html）
   - 「代理店プログラム」（https://www.dreamnews.jp/press/0000361180）
   - 「グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です」（https://newscast.jp/news/1642130）
@@ -3485,41 +3553,40 @@
   - 「こうした総合商社のアンモニア・サプライチェーン構築の主な例を以下にいくつか示します」（https://chematels.com/article/cm7ebx0a9as3o0713d6lgaum5）
   - 「アンモニアの国内生産については衰退の一途といえますが、供給に向けた拠点づくりは商社を中心に進んでいます」（https://chematels.com/article/cm7ebx0a9as3o0713d6lgaum5）
   - 「図3：大手商社の主なアンモニア拠点整備計画」（https://chematels.com/article/cm7ebx0a9as3o0713d6lgaum5）
-  - 「代理店プログラム」（https://www.dreamnews.jp/press/0000355373）
-  - 「日本企業は「商社単独 offtake」型から「JBIC + JOGMEC + 商社 + 電力 + メーカー」の五者連合に切り替わる転換点」（https://globaldeal.io/finder/ja/articles/india-japan-green-hydrogen-sight-pli）
 - 政治（法・予算・規制）：
-  - 「韓国政府、K-GX戦略を発表」（https://greenproduction.co.jp/archives/40004）
-  - 「日揮HDは2021年8月に国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）グリーンイノベーション基金事業」（https://www.jgc.com/jp/news/2026/20260127_11.html）
-  - 「グリーンイノベーション基金の採択について（」（https://www.jgc.com/jp/news/2026/20260127_11.html）
-  - 「グリーンイノベーション基金事業／」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「年度末までの実機実証完了は困難（5年程度超過）のため、GI基金事業から自社での取り組」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「（令和6年度非化石エネルギー等導入促進対策費補助金活用）」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「しており、政府の新たな支援策が事業者を後押し、複数のアンモニア混焼事業が事業化に向けて推進」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「・日本政府は、価格差に着目した支援、長期脱炭素電源オークションなどの支援策を新たに展」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「価格差に着目した支援において、２件のアンモニア発電事業が認定」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「拠点整備支援において、２件のアンモニアサプライチェーン構築事業が認定」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「することにより、グリーンイノベーション基金事業の安全・品質向上に貢献」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「グリーンイノベーション基金事業の支援規模」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「取組（グリーンイノベーション基金事業による支援を含む）にかかる関連投資額」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「世界各国の関税率」（https://www.jetro.go.jp/biznews/2026/08/fa2746686512f09a.html）
-  - 「政府公共調達データベース」（https://www.jetro.go.jp/biznews/2026/08/fa2746686512f09a.html）
+  - 「基準・認証、規制」（https://www.jetro.go.jp/biznews/2026/11/b0808e4dfae6b5e8.html）
+  - 「2026年10月20日、川崎重工業㈱（川崎重工）は、東京にて開催された「日ルーマニア・イノベーションフォーラム」において、日本・ルーマニア両国の政府関係者立ち会いのもと、天然ガスパイプラインに関する豊富な経験と知見を有」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「P：独政府、水素市場拡大へ 10 項目の支援策を発表」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
+  - 「P：韓国 Mico Power、印 NGEL との SOEC 協力が政府承認、実証から商用化へ ……………………………… 19」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
+  - 「経産省、ＧＸ地域共創補助金１弾 日本触媒など採択」（https://chemicaldaily.com/archives/872792）
+  - 「インキ各社、欧州包装規制に商機 除去・脱墨などリサイクル性向上」（https://chemicaldaily.com/archives/872792）
+  - 「次世代冷媒、ＨＦＯ系にＰＦＡＳ規制影響か」（https://chemicaldaily.com/archives/872792）
+  - 「NEDO（国立研究開発法人新エネルギー・産業技術総合開発機構）のグリーンイノベーション基金（GI基金）（注４）事業の採択を受けて実施している研究開発の一環として建造中」（https://www.nyk.com/news/2026/20260918_03.html）
+  - 「（注４）GI基金」（https://www.nyk.com/news/2026/20260918_03.html）
+  - 「｢2050年カーボンニュートラル｣に向け、エネルギー・産業部門の構造転換や、大胆な投資によるイノベーションといった現行の取り組みを大幅に加速するため、NEDOに造成された2兆円規模の基金」（https://www.nyk.com/news/2026/20260918_03.html）
+  - 「官民で野心的かつ具体的な目標を共有した上で、これに経営課題として取り組む企業などに対して、最長10年間、研究開発・実証から社会実装までを継続して支援する基金制度」（https://www.nyk.com/news/2026/20260918_03.html）
+  - 「今回のプロジェクトは、2021年8月に国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）のグリーンイノベーション基金事業の一環として開始」（https://sustainablejapan.jp/2026/02/05/jgc-green-ammonia/121314）
+  - 「【イギリス】FCA、ESG評価機関規制の最終規則発表」（https://sustainablejapan.jp/2026/02/05/jgc-green-ammonia/121314）
+  - 「【日本・アメリカ】政府、日本の対米投資1.6兆円の第3弾発表」（https://sustainablejapan.jp/2026/02/05/jgc-green-ammonia/121314）
+  - 「【日本】政府、循環経済世論調査発表」（https://sustainablejapan.jp/2026/02/05/jgc-green-ammonia/121314）
 - 経済（規模・価格・為替）：
-  - 「 事業規模:約284億円」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「 支援規模*：約242億円（既支出額:約34.0億円）」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「 事業規模:約27億円」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「 支援規模*：約23億円（既支出額:約11.3億円）」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「 事業規模:約615億円」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「 支援規模*：約362億円」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「 事業規模 ：約75億円」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「 支援規模*：約75億円」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「価格差に着目した支援において、２件のアンモニア発電事業が認定」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf）
-  - 「（注1）2024年度売上高ベース」（https://www.jetro.go.jp/biznews/2026/08/fa2746686512f09a.html）
-  - 「初期段階の財政的インセンティブ：2029-30年度までに1,749億ルピー（約3,060億円、1ルピー＝1.75円）を支出予定」（https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html）
-  - 「もっとも、日本の3兆円規模とされる経済産業省の「」（https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html）
-  - 「世界のグリーンアンモニア市場動向、年平均成長率57.8%で拡大継続2026-2032 | QY Research株式会社のプレスリリース」（https://www.dreamnews.jp/press/0000361180）
-  - 「世界のグリーンアンモニア市場動向、年平均成長率57.8%で拡大継続2026-2032」（https://www.dreamnews.jp/press/0000361180）
-  - 「2025年の世界販売量は28.39万トン、メーカー売上高は2.36億米ドル、平均工場出荷価格は約831米ドル/トンであった」（https://www.dreamnews.jp/press/0000361180）
+  - 「投資額110億元（2026.9）」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「P：蘭 Greenpoint、水素価格を 3 拠点で税込 10.95 ユーロ/kg へ引き下げ…………………… 11」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
+  - 「A：欧州の水電解槽メーカー、受注低迷と中国勢との価格競争に直面 …………………………………….. 24」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
+  - 「｢2050年カーボンニュートラル｣に向け、エネルギー・産業部門の構造転換や、大胆な投資によるイノベーションといった現行の取り組みを大幅に加速するため、NEDOに造成された2兆円規模の基金」（https://www.nyk.com/news/2026/20260918_03.html）
+  - 「金融世界大手米シティグループは10月20日、米テキサス州でアプライド・カーボンが展開するバイオ炭事業を支援するため、総額7,200万米ドル（約110億円）の炭素除去連動ノート（債券）の組成を完了したと発表した」（https://sustainablejapan.jp/2026/02/05/jgc-green-ammonia/121314）
+  - 「【アメリカ】バンカメとユーラゼオ、ネイチャー投資ファンド組成で60億円出資」（https://sustainablejapan.jp/2026/02/05/jgc-green-ammonia/121314）
+  - 「【日本・アメリカ】政府、日本の対米投資1.6兆円の第3弾発表」（https://sustainablejapan.jp/2026/02/05/jgc-green-ammonia/121314）
+  - 「内容は、「グリーンアンモニアのコストは当初は高くても長期的、具体的には2030年代後半から2040年ごろには十分下がり、燃料として価格競争力を持つようになる」というもの」（https://xtech.nikkei.com/atcl/nxt/column/18/00001/08423/）
+  - 「しかも、この1年で水電解装置の価格などが劇的に下がり、グリーンアンモニアの生産コストも大きく下がっている」（https://xtech.nikkei.com/atcl/nxt/column/18/00001/08423/）
+  - 「防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円」（https://xtech.nikkei.com/atcl/nxt/column/18/00001/08423/）
+  - 「コグネックス、第3四半期に過去最高の売上高を計上、2026年通期見通しを引き上げ」（https://www.indexbox.io/ja/blog/dewa-international-and-shanghai-electric-sign-mou-to-explore-global-energy-and-water-investments/）
+  - 「ミラー・インダストリーズ2026年第3四半期売上高は18.8%増の2億1,220万ドル」（https://www.indexbox.io/ja/blog/dewa-international-and-shanghai-electric-sign-mou-to-explore-global-energy-and-water-investments/）
+  - 「Plug Power、Q2 2026決算で米国内水素事業の急拡大を報告、燃料電池展開数が前年比2倍以上」（https://troy-technical.jp/%E3%83%89%E3%82%A4%E3%83%84%E5%A4%A7%E6%89%8B%E5%8C%96%E5%AD%A6%E4%BC%81%E6%A5%AD%E3%80%81%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2%E7%94%9F%E7%94%A3%E6%96%BD/）
+  - 「Plug Power、Q1 2026に電解槽収益が前年比343%増を記録、大規模グリーン水素プロジェクトが商業化段階へ」（https://troy-technical.jp/%E3%83%89%E3%82%A4%E3%83%84%E5%A4%A7%E6%89%8B%E5%8C%96%E5%AD%A6%E4%BC%81%E6%A5%AD%E3%80%81%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2%E7%94%9F%E7%94%A3%E6%96%BD/）
+  - 「アンモニア生産、経産省が支援へ 日印4800億円投資 - 日本経済新聞」（https://www.nikkei.com/article/DGKKZO97270590Q6A630C2EP0000/）
 - 社会（人・担い手）：
+  - 「水素をより効率的に長距離輸送できるアンモニアの能力は、国際的なエネルギー輸送の担い手として、より魅力的になっています」（https://itbusinesstoday.com/ja/industrial-tech/science/japans-first-green-ammonia-plant-begins-operations-boosting-clean-energy-ambitions/）
   - 「高度外国人材活躍支援」（https://www.jetro.go.jp/biznews/2026/08/fa2746686512f09a.html）
   - 「高度外国人材活躍支援」（https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html）
   - 「高度外国人材を輩出する大学、その最前線に迫る」（https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html）
@@ -3534,24 +3601,29 @@
   - 「水素アンモニア案件で典型的な条件は「インド国内雇用維持（特に SC/ST 配分）」「Make in India 調達比率」「データ・知財のインド国内保持」「再エネ電源のインド国内調達」「BEE GH2 認証の継続維持」など」（https://globaldeal.io/finder/ja/articles/india-japan-green-hydrogen-sight-pli）
   - 「DPIIT 承認条件（雇用・調達・データガバナンス・再エネ調達）への遵守体制の社内整備」（https://globaldeal.io/finder/ja/articles/india-japan-green-hydrogen-sight-pli）
   - 「万の新しい雇用を生み出し、健康コストを数十」（https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf）
-  - 「世界トップクラスの人材」（https://www.edb.gov.sg/ja/newsroom/news-library/reception-and-utilization-green-ammonia-and-green-hydrogen.html）
 - 技術（新しい技術・実証）：
-  - 「この船舶は先日、韓国で行われた命名式で命名され、シンガポールのEastern Pacific Shipping（EPS）が所有し、韓国のHD Hyundai Heavy Industries（HHI）が建造したものである」（https://greenproduction.co.jp/archives/40004）
-  - 「食品開発展2026、2026.10.14～16、東京ビッグサイトで開催」（https://greenproduction.co.jp/archives/40004）
-  - 「アップサイクル素材開発PV、お茶原料PVが登場」（https://greenproduction.co.jp/archives/40004）
-  - 「Singapore Airlines、Aether Fuelsから次世代型SAF購入」（https://greenproduction.co.jp/archives/40004）
-  - 「J-POWER・アジャイルエナジーＸ／次世代エネルギー循環モデルプロジェクト、フィッシュパス／生物多様性評価システム エコプロ2025注目した展示から（2026.1.28）」（https://greenproduction.co.jp/archives/40004）
-  - 「日揮ホールディングス株式会社（代表取締役会長兼社長CEO：佐藤 雅之、以下：日揮HD）はこのたび、再生可能エネルギー由来のグリーンアンモニア製造技術の実証プラント（福島県浪江町）でのアンモニア製造を開始したことをお知らせします」（https://www.jgc.com/jp/news/2026/20260127_11.html）
-  - 「実証プラントの全景」（https://www.jgc.com/jp/news/2026/20260127_11.html）
-  - 「日揮HDは2021年8月に国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）グリーンイノベーション基金事業」（https://www.jgc.com/jp/news/2026/20260127_11.html）
-  - 「の一環として、旭化成株式会社と共同採択された「大規模アルカリ水電解水素製造システムの開発およびグリーンケミカルプラントの実証」プロジェクト」（https://www.jgc.com/jp/news/2026/20260127_11.html）
-  - 「（以下：本プロジェクト）において、再生可能エネルギー由来の水素を原料にグリーンアンモニアをはじめとしたグリーンケミカル製造のプラント運転を最適化する「統合制御システム」の開発、ならびに実証計画を進めてまいりました」（https://www.jgc.com/jp/news/2026/20260127_11.html）
-  - 「した実証プラント『浪江グリーンアンモニア統合制御実証フィールド（」（https://www.jgc.com/jp/news/2026/20260127_11.html）
-  - 「より供給される再生可能エネルギー由来の水素を原料にグリーンアンモニア製造技術を実証します」（https://www.jgc.com/jp/news/2026/20260127_11.html）
-  - 「さらに、旭化成株式会社が2027年度以降に計画する大規模グリーンケミカル実証プラントで本プラントの実証結果で得られた知見を活用する予定です」（https://www.jgc.com/jp/news/2026/20260127_11.html）
-  - 「大規模水素製造システムを活用したグリーンケミカル実証プロジェクトを開始」（https://www.jgc.com/jp/news/2026/20260127_11.html）
-  - 「福島県浪江町でグリーンアンモニア製造技術の 実証プラント起工式を実施」（https://www.jgc.com/jp/news/2026/20260127_11.html）
+  - 「同プロジェクト第1期で生産されたグリーンアンモニアが、2026年10月に浙江省舟山市で船舶燃料として充填（じゅうてん）され、中国におけるグリーンアンモニアのサプライチェーン（生産・輸送・供給・利用）の実証事例となった」（https://www.jetro.go.jp/biznews/2026/11/b0808e4dfae6b5e8.html）
+  - 「2026年10月29日、 燃料電池プロジェクトの開発・製造会社であるフランスのHDF Energyは、米国の西テキサスで計画されている250MWの発電所プロジェクト「BaseBlue Power」の技術ライセンサーとし」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「INPEX、ブルー水素・アンモニア製造・利用一貫実証試験「柏崎水素パーク」でのアンモニア製造及び三菱ガス化学へ供給開始（2026.10）」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「2026年10月23日、㈱INPEXは、新潟県柏崎市にて実施している「ブルー水素・アンモニア製造・利用一貫実証試験」においてアンモニアの製造を開始し、このたび、三菱ガス化学㈱への供給を開始したと発表した」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「2026年10月15日、10月13日、世界初の半潜水式風力発電水素製造プラットフォーム「申海氢能1」（Shenhai Hydrogen Energy No. 1）の進水式が、広東省江門市で開催されたと中国のCIMC R」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「独自のセラミックコーティングにより開発（202610）」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「ENEOS、豪州で水素キャリアの一種・メチルシクロヘキサン（MCH）製造大型実証プラントを開所」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「2026年10月6日、ENEOS㈱は、独自に開発した低コスト型有機ハイドライド電解合成法（Direct MCH)を活用して、水素キャリアの一種であるメチルシクロヘキサン（MCH）を製造する大型実証プラントを豪州クイーン」（https://greenproduction.co.jp/archives/category/topics/hydrogen-ammonia）
+  - 「N：内閣府、天然水素研究・実証プロジェクトで国内外に情報提供要請（RFI） …………………. 5」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
+  - 「N：山本電機、液体水素の残量を正確に測るセンサーの開発に着手 ………………………… 6」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
+  - 「P：豪 Sparc Hydrogen、太陽光直接水素製造で開発資金 130 万豪ドルを調達 …………………. 9」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
+  - 「N：ポルトガル「H2tALENT」プロジェクト、15MW 水素製造を含む水素バレーを実証 …………………….. 9」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
+  - 「P：米 Amogy、水素日量最大 1 トンのアンモニア分解装置をシンガポールで実証へ ………………………….. 17」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
+  - 「P：豪 Abergeldie、縦坑 1 本に水素最大 150 トンを貯蔵する技術で米国特許を取得…………….. 19」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
+  - 「P：韓国 Mico Power、印 NGEL との SOEC 協力が政府承認、実証から商用化へ ……………………………… 19」（https://digital-research.co.jp/published_posts/%E3%80%8Chydrogen-weekly%E3%80%8D%EF%BC%88no-291-2026-11-03%EF%BC%89/）
 - 検索結果の抜粋：
+  - 「グリーンアンモニア 市場の成長、予測 2026 に 2033 — グリーンアンモニア 市場の成長、予測 2026 に 2033 エキサイトブログ https://kimhelmer92.exblog.jp > ...」（https://kimhelmer92.exblog.jp/38859666/）
+  - 「JERA、印 グリーンアンモニア 調達 30年から年7万トン — JERA、印 グリーンアンモニア 調達 30年から年7万トン 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/795626）
+  - 「Envision green ammonia successfully fuels world's first VLAC — Envision green ammonia successfully fuels world's first VLAC H2 Tech https://h2-tech.com > News」（https://h2-tech.com/news/2026/11-26/envision-green-ammonia-successfully-fuels-world-s-first-vlac/）
+  - 「GSFC invites global partners for 500-ktpa green ammonia ... — GSFC invites global partners for 500-ktpa green ammonia ... Chemical Weekly https://www.chemicalweekly.com > g...」（https://www.chemicalweekly.com/latestnews/gsfc-invites-global-partners-500-ktpa-green-ammonia-project-sikka/2871）
+  - 「温室効果ガス90%以上削減、アンモニア燃料船が実運航へ — 温室効果ガス90%以上削減、アンモニア燃料船が実運航へ NEDO グリーンイノベーション基金 https://green-innovation.nedo.go.jp > article > ammonia-f...」（https://green-innovation.nedo.go.jp/article/ammonia-fueled-tugboat/）
+  - 「福島県浪江町でグリーンアンモニアの製造を開始 | 2026年 ... — 福島県浪江町でグリーンアンモニアの製造を開始 | 2026年 ... 日揮ホールディングス株式会社 https://www.jgc.com > ... > 2026年ニュースリリース」（https://www.jgc.com/jp/news/2026/20260127_11.html）
   - 「福島県浪江町で グリーンアンモニア の製造を開始 | 2026年 ... — 福島県浪江町で グリーンアンモニア の製造を開始 | 2026年 ... 日揮ホールディングス株式会社 https://www.jgc.com > ... > 2026年ニュースリリース」（https://www.jgc.com/jp/news/2026/20260127_11.html）
   - 「インド再エネ大手、超高純度 グリーンアンモニア 製造事業に着手 — インド再エネ大手、超高純度 グリーンアンモニア 製造事業に着手 ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2026/08」（https://www.jetro.go.jp/biznews/2026/08/fa2746686512f09a.html）
   - 「一般社団法人クリーン燃料 アンモニア 協会 – CO2フリー ... — 一般社団法人クリーン燃料 アンモニア 協会 – CO2フリー ... 一般社団法人クリーン燃料アンモニア協会 https://greenammonia.org」（https://greenammonia.org/）
@@ -3561,60 +3633,61 @@
   - 「グリーンアンモニア 市場― 2026年 ～2032年の世界市場予測 — グリーンアンモニア 市場― 2026年 ～2032年の世界市場予測 Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/1642130）
   - 「米KBR、アビナからメキシコ湾岸の グリーンアンモニア ... — 米KBR、アビナからメキシコ湾岸の グリーンアンモニア ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2023/04」（https://www.jetro.go.jp/biznews/2023/04/d273584737e74959.html）
   - 「グリーンアンモニア の世界市場、 2026年 ～2030年 - Newscast.jp — グリーンアンモニア の世界市場、 2026年 ～2030年 - Newscast.jp Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/6371333）
-  - 「グリーンアンモニア 、日印協力の「高コスト」を試算する — グリーンアンモニア 、日印協力の「高コスト」を試算する Global Energy Policy Research https://www.gepr.org > contents > 20260704-01」（https://www.gepr.org/contents/20260704-01/）
-  - 「2026年 に グリーンアンモニア とグリーン水素の受け入れ ... — 2026年 に グリーンアンモニア とグリーン水素の受け入れ ... Singapore Economic Development Board (EDB) https://www.edb.gov.sg > newsroom > news-library > rece...」（https://www.edb.gov.sg/ja/newsroom/news-library/reception-and-utilization-green-ammonia-and-green-hydrogen.html）
 
 ## 合成燃料（e-fuels）
 - 文脈：12 GX ②水素等
 - 顧客（金を払う側）：
-  - 「ガソリンへのバイオエタノール導入拡大について」（https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html）
-  - 「我が国では、ガソリンにおいては、2030年度までに、一部地域における直接混合も含めたバイオエタノールの導入拡大を通じて、最大濃度10％の低炭素ガソリンの供給開始を目指しています」（https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html）
-  - 「上記方針を踏まえ、2025年6月10日に、総合エネルギー調査会 資源・燃料分科会 脱炭素燃料政策小委員会において、ガソリンへのバイオエタノール導入拡大に向けたアクションプランを策定しました」（https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html）
-  - 「本アクションプランに基づいて、官民で導入拡大の取組を推進していくとともに、進捗に応じて随時見直しを行っていきます」（https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html）
-  - 「※2025年11月に2028年度を目途に沖縄県でE10を先行導入することを決定しました」（https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html）
-  - 「ガソリンへのバイオエタノール導入拡大に向けたアクションプラン（PDF形式）」（https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html）
-  - 「次世代燃料の導入促進に向けた官民協議会 （METI/経済産業省）」（https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html）
-  - 「バイオエタノールの導入拡大をめざして、課題解決のアクションプラン策定（2025年7月25日）」（https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html）
-  - 「CO2は発電所や工場から排出されたCO2、将来的には大気中から直接回収したCO2を利用、H2は再生可能エネルギー由来の電力による水の電気分解やバイオマスをガス化することなどで調達することを想定したカーボンニュートラル実現の切り札となる燃料です」（https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html）
-  - 「ENEOSとドイツのGerman eFuel One GmbH（以下、GEF1）は、合成燃料の日本導入支援及び低炭素燃料の国際的な合成燃料バリューチェーンの構築を目的とした戦略的協業を開始した」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX）
-  - 「同協業は、ENEOSにとって日本への合成燃料初輸入案件となり、日本市場における合成燃料の導入拡大に向けた一歩となる」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX）
-  - 「GEF1から合成燃料を輸入することによって、日本における合成燃料の導入、流通、利用に関する実践的な知見を早期に蓄積し、需要や規制が変化する中でも将来の供給拡大に向けた体制の整備を進める考えだ」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX）
-  - 「また、顧客に低炭素燃料の選択肢を提供することで、カーボンニュートラル社会の実現に向けた取り組みを強化する方針である」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX）
-  - 「欧州では、再生可能エネルギー指令（RED III）枠組みの導入により、先進バイオ燃料や非バイオ由来再生可能燃料（RFNBO）の重要性が増している」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX）
-  - 「【車業界版・今日は何の日】11月4日は「ユネスコ憲章記念日」！現場で使える顧客トークネタ」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX）
+  - 「「合成燃料」は、工場などで排出されるCO2と再生可能エネルギー由来の水素を合成してつくられる液体燃料です」（https://news.tv-asahi.co.jp/news_economy/articles/000374794.html）
+  - 「新たな燃料やエネルギーの導入には専用設備が必要となる場合があります」（https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/）
+  - 「そのため、タンクローリーやサービスステーション（ガソリンスタンド）などの既存の設備やインフラをそのまま活用でき、新たな設備投資を抑えられます」（https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/）
+  - 「こうした取り組みの一環として、国内での技術開発と並行し、海外から合成燃料を調達するための体制づくりも進めています」（https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/）
+  - 「合成燃料の最大の特徴は、再生可能エネルギー由来である水素と、工場や発電所などから回収した、あるいは大気中に存在する二酸化炭素が原料であり、クリーンな燃料であるという点です」（https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/）
+  - 「のこうした思いや次世代燃料の価値に共感してくださる企業さまとの取り組みを通じて、より中長期的には、街の中にあるサービスステーションでも一般のお客さまが利用できるような環境になっていくのが理想です」（https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/）
+  - 「（世論調査 タテ軸ヨコ軸）企業・団体献金、３０年前の積み残し」（https://www.asahi.com/articles/DA3S16120847.html）
+  - 「AIが中学生の日記にコメント、ストレス分析も 韓国で進む導入」（https://www.asahi.com/articles/DA3S16120847.html）
+  - 「そのため大規模導入には巨額の投資が必要になる」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
+  - 「つまり、バイオ燃料導入のインセンティブは、法律自体でなく、時の政権や政策に依存していたわけだ」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
+  - 「新法を公布、バイオ燃料導入加速に期待」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
+  - 「合成燃料の技術開発・実証は、欧米を中心に急速に拡大し、既に石油会社・自動車メーカー・ベンチャー企業などによるプロジェクトが数多く発足しているため、国内でも早急なキャッチアップが必要な状況にある」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「2022年9月に「合成燃料（e-fuel）の導入促進に向けた官民協議会」が設置され」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「図３ 「合成燃料（e-fuel）の導入促進に向けた官民協議会」の取り組み」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「合成燃料の供給を試みる国内事業者の設備投資・技術実証への支援」（https://www.decarbonation-tech.com/intro_5010/）
 - 顧客の顧客（発注元が求めること）：
-  - 「また、E20の認証制度にかかる議論を速やかに開始し、車両開発等のリードタイムを十分に確保した上で、2030年代のできるだけ早期に、乗用車の新車販売におけるE20対応車の比率を100%とすることを目指します」（https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html）
-  - 「上記方針を踏まえ、2025年6月10日に、総合エネルギー調査会 資源・燃料分科会 脱炭素燃料政策小委員会において、ガソリンへのバイオエタノール導入拡大に向けたアクションプランを策定しました」（https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html）
-  - 「総合エネルギー調査会 資源・燃料分科会 脱炭素燃料政策小委員会」（https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html）
-  - 「エンジン車でも脱炭素？グリーンな液体燃料「合成燃料」とは（2021年7月8日）」（https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html）
-  - 「同社グループのカーボンニュートラル基本計画において、合成燃料は重要な脱炭素施策の一つに位置付けられている」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX）
-  - 「輸送分野の脱炭素化が求められる中、合成燃料は電動化が難しい分野を中心に、ネットCO₂排出量の少ない実用的な解決策として注目を集めている」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX）
-  - 「同協業は、国境を越えたパートナーシップが新しい技術の普及を加速させ、既存の車両フリートおよびインフラの脱炭素化を支える具体的な実例となる」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX）
-  - 「基準・認証、ルール形成戦略」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「基準・認証、規制」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「循環経済、脱炭素化」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「こうした低炭素メタノールは一般に、大型船舶燃料を脱炭素化する上での活用期待が高い」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「この観点からは、国際海事機関（IMO／国連の専門機関）が進める海運分野の脱炭素化の枠組み「Net Zero Framework（NZF）」の採択に注目が集まっていた」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「単著『メキシコ経済の基礎知識』、共著『グローバルサプライチェーン再考: 経済安保、ビジネスと人権、脱炭素が迫る変革』、『NAFTAからUSMCAへ－USMCAガイドブック』など」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「次世代燃料導入の現状（1）運輸脱炭素化にバイオ燃料の選択肢」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「SAF導入へ、シンガポールの航空脱炭素化の取り組み」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
+  - 「CO2を削減できることから脱炭素化に貢献する次世代の燃料として開発が進められています」（https://news.tv-asahi.co.jp/news_economy/articles/000374794.html）
+  - 「の排出を抑えることで、脱炭素社会の実現に貢献するのがねらいだ」（https://www.asahi.com/articles/DA3S16120847.html）
+  - 「エンジン搭載車への脱炭素燃料（バイオ燃料、合成燃料）の供給が鍵」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「これまで主にEV開発とその販売に注力していたが、世界的に脱炭素化を進めるためにはEVだけでは不十分との見解を示した」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「国土交通省と日本船主協会は「2050年の国際海運カーボンニュートラル」を表明し、その実現に向け、外航船舶燃料について現在の重油から複数の脱炭素燃料への転換を計画している」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「SAF：Sustainable Aviation Fuel）の導入は、航空分野の脱炭素に必要不可欠」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「ガスの脱炭素化には、いくつかの選択肢がある」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「既存設備を使うことで、投資コストを抑えながら脱炭素化を推進できる」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「• 米国（水素ハブ）、英国（低炭素・CCUSクラスター）、欧州（水素バレー）など海外でも、拠点形成に着目した脱炭素化への」（https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf）
+  - 「アンモニア等脱炭素燃料政策小委員会 合同会議」（https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf）
+  - 「代替燃料は、ニッチな脱炭素化の手段から、輸送、電力、産業、および地方自治体のエネルギーシステムにおける戦略的柱へと移行しつつあります」（https://www.atpress.ne.jp/news/8486864）
+  - 「政策的な圧力、エネルギー安全保障への懸念、大気質規制、車両の脱炭素化義務、および循環型経済の目標により、道路輸送、航空、海運、鉄道、建設、農業、および産業活動全般において、その導入が加速しています」（https://www.atpress.ne.jp/news/8486864）
+  - 「代替燃料分野における経営陣の意思決定は、原料の入手可能性、ライフサイクルにおける温室効果ガスの排出実績、認証基準、インフラの整備状況、および総所有コストにますます依存するようになっています」（https://www.atpress.ne.jp/news/8486864）
+  - 「エンドユーザーが業務の継続性を損なうことなく確実な脱炭素化を求める中、代替燃料戦略は、電化、再生可能エネルギーの調達、廃棄物管理、デジタルエネルギー最適化と、ますます統合されつつあります」（https://www.atpress.ne.jp/news/8486864）
+  - 「本分析では、政府のエネルギー機関、国際機関、標準化団体、運輸当局、気候政策の枠組み、持続可能性認証システム、および査読付き技術文献から入手可能な公開情報を活用しています」（https://www.atpress.ne.jp/news/8486864）
 - 顧客の競合（奪いに来る側）：
-  - 「GEF1およびeFuel GmbHにとっても欧州域外への初の輸出案件であり、国際的な合成燃料バリューチェーンの構築に貢献するとともに、両国のエネルギー協力を強化するものとなる」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX）
-  - 「グリーン水素と回収されたCO₂を組み合わせることにより、同プロジェクトはモビリティ及び産業分野における化石燃料からの転換を後押しし、ドイツ、欧州諸国、日本の気候変動対策目標の達成に貢献するとともに、持続可能な燃料の生産・輸出拠点としてのドイツの競争力強化にも繋がるとしている」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX）
-  - 「欧州では、再生可能エネルギー指令（RED III）枠組みの導入により、先進バイオ燃料や非バイオ由来再生可能燃料（RFNBO）の重要性が増している」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX）
-  - 「両社の連携により欧州の生産能力を日本の需要と連動させ、グローバル合成燃料市場の発展に貢献することを目指している」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX）
-  - 「鳥善とスズキ、インドベジタリアンレトルトカレーに6種類目の新味「ココナッツ野菜」を追加発売」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX）
-  - 「米国関税措置への対応」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「インドネシア」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「産学連携で高度インド人材との接点創出を目指す東京理科大学」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「中国の両用品目輸出管理強化」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「しかし、a)インドから輸入した種子が適切に発芽しなかった、b)栽培のための十分な情報提供や教育・訓練がなかった、c)市場規模が小さく収益性が乏しかった、ことなどにより失敗に終わった」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「その結果として、石油精製品と競合するバイオ燃料の促進を大胆に進めることはなかった」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「2022年には、ボーイング（米国の航空機製造業者）と国際航空運送協会（IATA）のイニシアティブにも加わった〔その機を捉え、ロサンゼルス－メキシコ間で、ボーイング787ドリームライナー（中型機）に初めてSAF使用したフライトを実現している〕」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「2023年下半期以降は、米国ロサンゼルスとメキシコシティー、グアダラハラ、モンテレイをつなぐフライトにSAFを35％混入したジェット燃料を使用している」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「同社は2025年6月、エアバス（欧州の航空機製造業者）とともに、国際民間航空機関（ICAO）のボランタリー環境基金に拠出する意向表明書に署名した」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「このほか、米国からパイプラインを通じて、安価なシェールガスの供給を受けることができる」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
+  - 「「トランプ時代の終わり」への転換点 米国第一と過激化、識者の懸念」（https://www.asahi.com/articles/DA3S16120847.html）
+  - 「危機の中での選択を描く 韓国映画「1971、ハイジャック事件」」（https://www.asahi.com/articles/DA3S16120847.html）
+  - 「AIが中学生の日記にコメント、ストレス分析も 韓国で進む導入」（https://www.asahi.com/articles/DA3S16120847.html）
+  - 「米国はどこまで「青く」なるのか 中間選挙後を占う「赤い」州の異変 「左右」ではなく「上下」を対抗軸に」（https://www.asahi.com/articles/DA3S16120847.html）
+  - 「日中対立の深層 高市首相の台湾有事発言から1年」（https://www.asahi.com/articles/DA3S16120847.html）
+  - 「実際、スペイン、米国、フランス、デンマークなど、欧米企業によるクリーン水素プロジェクトが既にある」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
+  - 「三菱ガス化学は2025年11月6日、米国のトランジション・インダストリーズ（TI）と、メキシコ製の低炭素メタノールについて売買契約を締結したと発表した」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
+  - 「また、(2)は、米国の天然ガスを活用する予定だ（シナロア州には天然ガスパイプラインが通っているため、供給を受けることが可能）」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
+  - 「しかし、IMOの海洋環境保護委員会（MEPC）臨時会合（2025年10月に開催）で米国トランプ政権が反対、採択が1年延期になってしまった（」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
+  - 「商船三井、伊藤忠商事、米国HIF Globalの100％子会社HIF Asia Pacific、JFEスチール」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「既に、欧州で73件、南北アメリカで24件の製造プロジェクトが始動し、大半が新興企業であり、本格的な製品流通にはまだ時間を要すると報告した」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「3月末時点で稼働しているのは、欧州で5件」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「（チリのHIF Chile、米国のDimensional Energy、Infinium）としており、航空機や船舶向けの燃料製造計画が先行している」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「2023年11月、米国ボーイングとSAF供給を加速するため次世代技術の試験・分析での提携」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「米国は再生可能燃料基準やクリーン水素へのインセンティブに支えられ、カナダは水素戦略を推進しています」（https://www.atpress.ne.jp/news/8486864）
 - 自社の競合（商社・代理店・仲介）：
+  - 「グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です」（https://www.atpress.ne.jp/news/8486864）
+  - 「＜アジア最大の市場調査レポート販売代理店＞」（https://www.atpress.ne.jp/news/8486864）
+  - 「「AI Highlight Agent」のベータ版を提供開始」（https://www.atpress.ne.jp/news/8486864）
   - 「WECARSが自賠責保険の取り扱いを開始へ、保険代理店登録を完了」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX）
   - 「合成メタン導入に関する商社の動き」（https://www.decarbonation-tech.com/intro_5010/）
   - 「この①②③の観点から、大手商社が様々な活動を進めている」（https://www.decarbonation-tech.com/intro_5010/）
@@ -3627,41 +3700,41 @@
   - 「＜アジア最大の市場調査レポート販売代理店＞」（https://newscast.jp/smart/news/3178078）
   - 「り、欧 州 委 員 会 （European Commission） の 下 に 置 か れ 、 脱 炭 素 化 と 持 続 可 能 な 成 長 を 推 進 す る た め の」（https://www.pecj.or.jp/wp-content/uploads/2026/03/JPEC_report_No.260301.pdf）
   - 「European Commission Launches T-MED Investment Platform for Renewable Energy Technologies」（https://global-efuels.com/event/7th-european-e-fuels-conference/）
-  - 「Co. (JAPEX), commissioned to conduct a study on the implementation of an advanced CCS」（https://www.pecj.or.jp/wp-content/uploads/2026/05/JPECForum_2026_program_001.pdf）
-  - 「• Nuclear power : Replacement of reactors decided to be decommissioned with next generation innovative reactors.」（https://www.egeda.ewg.apec.org/egeda/meeting/21WSpresentations/S2-7.pdf）
 - 政治（法・予算・規制）：
-  - 「これらの燃料は、厳格な持続可能性基準及び規制要件に適合して製造された場合、既存のインフラ、エンジン、流通システムとの高い互換性を維持しながら、ライフサイクル全体にわたるCO₂排出量を大幅に削減できる可能性がある」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX）
-  - 「GEF1から合成燃料を輸入することによって、日本における合成燃料の導入、流通、利用に関する実践的な知見を早期に蓄積し、需要や規制が変化する中でも将来の供給拡大に向けた体制の整備を進める考えだ」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX）
-  - 「GEF1の製造コンセプトは、これらの持続可能性基準及び規制要件を満たすよう設計されている」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX）
-  - 「鈑金塗装工場は地域の「最後の砦」か？経済産業省が工場を「エッセンシャルサービス」に認定する意味」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX）
-  - 「世界各国の関税率」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「政府公共調達データベース」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「米国関税措置への対応」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「中国の両用品目輸出管理強化」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「基準・認証、規制」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「明確な国家戦略の不備や政府の石油公社への過度な保護があだになった結果だ」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「政府による支援や計画の欠如」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「政府が石油公社（PEMEX）を支援している」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「1について、メキシコにはエタノールやバイオディーゼルの混合を義務づける規制が連邦レベルでも州レベルでも存在しない」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「4に関連し、政府は2024年まで、バイオ燃料促進に向けた明確な政策や目標、計画を持たなかった」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「排出削減に向けた規制等を背景に、」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「それでも同法体系下では、直接的な経済インセンティブ（補助金、税額控除、免税措置）の規定がなかった」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
+  - 「つまり、バイオ燃料導入のインセンティブは、法律自体でなく、時の政権や政策に依存していたわけだ」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
+  - 「例えば国家植林委員会（CONAFOR）は2008年、チアパス州政府と連携してプロジェクト展開した」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
+  - 「具体的には、バイオディーゼル精製用のジャトロファ（ナンヨウアブラギリ）の植林に補助金を支給するという内容だった」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
+  - 「図2：政府が承認したバイオディーゼル生産計画」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
+  - 「⚫ 2022年、GI基金に採択」（https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf）
+  - 「政府：経済産業省、国土交通省、環境省」（https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf）
+  - 「政策的な圧力、エネルギー安全保障への懸念、大気質規制、車両の脱炭素化義務、および循環型経済の目標により、道路輸送、航空、海運、鉄道、建設、農業、および産業活動全般において、その導入が加速しています」（https://www.atpress.ne.jp/news/8486864）
+  - 「本エグゼクティブサマリーの調査手法は、検証済みの2次調査、政策レビュー、規制分析、技術評価、および代替燃料の用途に関するセクター横断的な評価に基づいています」（https://www.atpress.ne.jp/news/8486864）
+  - 「本分析では、政府のエネルギー機関、国際機関、標準化団体、運輸当局、気候政策の枠組み、持続可能性認証システム、および査読付き技術文献から入手可能な公開情報を活用しています」（https://www.atpress.ne.jp/news/8486864）
+  - 「検討された主なトピックには、バイオ燃料の義務化、低炭素燃料規制、水素戦略、持続可能な航空燃料政策、海運の脱炭素化規則、再生可能エネルギー指令、ライフサイクルアセスメント手法、燃料品質基準、および燃料インフラ要件が含まれます」（https://www.atpress.ne.jp/news/8486864）
+  - 「政府、産業界、および車両運営事業者が、より低炭素で、より安全かつ強靭なエネルギーシステムを追求する中、代替燃料の導入は決定的な段階に入っています」（https://www.atpress.ne.jp/news/8486864）
+  - 「規制、技術、インフラ開発の融合によって再構築されつつあり、道路輸送ではバッテリー式電気プラットフォームが主流となり、長距離輸送や大型車両では再生可能ディーゼルや水素燃料電池が重要な役割を果たしています」（https://www.atpress.ne.jp/news/8486864）
+  - 「検証済みの2次調査、政策レビュー、規制分析、技術評価に基づいています」（https://www.atpress.ne.jp/news/8486864）
+  - 「中国車がフラッグシップ戦略で欧州攻略、現地生産で関税回避へ」（https://xtech.nikkei.com/atcl/nxt/column/18/03725/082800003/?ST=singleview）
 - 経済（規模・価格・為替）：
-  - 「2024年5月には、米国やチリ、ウルグアイに工場建設を計画する米国HIFグローバル社に約180億円を出資すると表明」（https://www.decarbonation-tech.com/intro_5010/）
-  - 「まで水素価格が下がると、e-fuelのコストは約200円/Lとガソリン価格に近くなる」（https://www.decarbonation-tech.com/intro_5010/）
-  - 「（0℃、1気圧）と試算され、現在のLNG価格の5倍と高価で商用化には低コスト化が必須である」（https://www.decarbonation-tech.com/intro_5010/）
-  - 「で、ルイジアナ州のLNG基地周辺に2029年の操業をめざし数百億円を投じて東邦ガスの製造プラントを設置し、液化して愛知県に海上輸送する」（https://www.decarbonation-tech.com/intro_5010/）
-  - 「ｅ-メタンは価格がLNGの約5倍と割高なため、愛知県知多市の主力拠点でLNGが気化する際の膨張力で電気を生み出してグリーン水素を製造する実証実験を実施している」（https://www.decarbonation-tech.com/intro_5010/）
-  - 「現時点では水素の調達コストが課題で、メタンの価格は既存品と約10倍の差がある」（https://www.decarbonation-tech.com/intro_5010/）
-  - 「水素発電 ➢ 水素専焼火力の技術開発、水素インフラの整備が課題 水素価格約13円/Nm3」（https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf）
-  - 「*水素発電のパリティはLNG価格が10MMBtuの場合、水素還元製鉄は第11回CO2フリー水素WGの資料」（https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf）
-  - 「FCV 水素価格約90円/Nm3」（https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf）
-  - 「ガソリン価格が142.8円/Lの時を想定（詳細は第11回CO2フリー水素WGの資料を参照）」（https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf）
-  - 「水素価格に大きく依存するが、現時点の試算では約300円～700円／ℓと高額」（https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf）
-  - 「GI基金事業：CO2等を用いた燃料製造技術開発（予算額：上限1152.8億円）」（https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf）
-  - 「575.6億円」（https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf）
-  - 「299.5億円」（https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf）
-  - 「242.2億円」（https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf）
+  - 「【今ならキャンペーン価格】有料記事が2カ月間 月額100円で読み放題！」（https://www.asahi.com/articles/DA3S16120847.html）
+  - 「小学校で給食費などの督促怠り5400万円不足 校長ら私費で補てん」（https://www.asahi.com/articles/DA3S16120847.html）
+  - 「北九州市ひびきLNG基地に約10億円で新設し、2025年6月の稼働を予定する」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「代替燃料市場は、2032年までにCAGR11.49％で9,451億6,000万米ドル規模に拡大すると予測されています」（https://www.atpress.ne.jp/news/8486864）
+  - 「CAGR（%） 11.49%」（https://www.atpress.ne.jp/news/8486864）
+  - 「CAGRは11.49%です」（https://www.atpress.ne.jp/news/8486864）
+  - 「マルチコアCANバスケーブルの世界市場（2026年～2032年）、市場規模（直径：AWG 20/7、直径：AWG 22/7、直径：AWG 24/7、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/8486864）
+  - 「140DB HDR CMOSイメージセンサーの世界市場（2026年～2032年）、市場規模（画素サイズ：2.1 µm、画素サイズ：3 µm）・分析レポートを発表」（https://www.atpress.ne.jp/news/8486864）
+  - 「バナジウム酸ビスマスの世界市場（2026年～2032年）、市場規模（グリーンシェードイエロー、ミディアムシェードイエロー、レッドシェードイエロー）・分析レポートを発表」（https://www.atpress.ne.jp/news/8486864）
+  - 「成形・容量分割・試験装置・システムの世界市場（2026年～2032年）、市場規模（成形装置、容量分割装置、試験装置）・分析レポートを発表」（https://www.atpress.ne.jp/news/8486864）
+  - 「光学式シャフト測定機の世界市場（2026年～2032年）、市場規模（全自動、半自動）・分析レポートを発表」（https://www.atpress.ne.jp/news/8486864）
+  - 「日本も“産油国”になれる 京大名誉教授が開発の「人工石油」軽油価格は「1リットル14円」の激安価格」（https://jfs.or.jp/cs-shibu/synthetic-petroleum01/）
+  - 「FIT制度が導入された2012～2015年、バイオマス発電の発電電力量の年平均伸び率は4%程度で推移し、2016年以降は、年平均伸び率は14.8%と高い値を示している」（https://www.decarbonation-tech.com/intro_5108/）
+  - 「年平均伸び率14.8%で発電電力量が増加を続けた場合、2030年には1054億kWhに到達する」（https://www.decarbonation-tech.com/intro_5108/）
+  - 「150兆円超のGX投資の実現投資促進 投資促進」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/dai17/shiryo2.pdf）
 - 社会（人・担い手）：
+  - 「⚫ GX企業の人材確保に関する事例集(2025年3月) 、製造」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/dai17/shiryo2.pdf）
+  - 「安定供給の担い手としても、その重要性が高まっている」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/dai17/shiryo2.pdf）
   - 「高度外国人材活躍支援」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
   - 「高度外国人材を輩出する大学、その最前線に迫る」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
   - 「産学連携で高度インド人材との接点創出を目指す東京理科大学」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
@@ -3675,25 +3748,24 @@
   - 「・人材・投資を呼び込み、市場に製品・サービスを供給するためのバイオコミュニティ形成」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf）
   - 「受発注者のICT施工人材育成の推進、建設現場のデータの見える化による効率化の推進等」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf）
   - 「特に深刻なのが現場人材の不足です」（https://note.com/tomos_ai_lab/n/n9fe20f721002）
-  - 「産経新聞の報道（2026年2月）によれば、政府の試算で2040年に現場人材が260万人不足し、産業別では製造業で256万人、農林水産業で110万人が足りなくなるとされています」（https://note.com/tomos_ai_lab/n/n9fe20f721002）
-  - 「日本の自動車産業は完成車メーカーだけでなく部品・素材・加工を含めて約550万人の雇用を抱えており、この時間的余裕の中で緩やかに産業構造をシフトさせていける意味は非常に大きい」（https://note.com/tomos_ai_lab/n/n9fe20f721002）
 - 技術（新しい技術・実証）：
-  - 「次世代燃料（バイオ燃料、合成燃料）政策について｜資源エネルギー庁」（https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html）
-  - 「次世代燃料政策について」（https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html）
-  - 「次世代燃料（バイオ燃料、合成燃料）政策について」（https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html）
-  - 「本ページは、2050年カーボンニュートラルに向けて、期待が高まっている次世代燃料（バイオ燃料、合成燃料政策について掲載しています」（https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html）
-  - 「また、E20の認証制度にかかる議論を速やかに開始し、車両開発等のリードタイムを十分に確保した上で、2030年代のできるだけ早期に、乗用車の新車販売におけるE20対応車の比率を100%とすることを目指します」（https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html）
-  - 「次世代燃料の導入促進に向けた官民協議会 （METI/経済産業省）」（https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html）
-  - 「TRAINING PROGRAMS」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX）
-  - 「eFuel GmbHはGEF1の株主かつ戦略的パートナーであり、GEF1はドイツにおいて大規模なe-ガソリン生産設備の開発を進めている」（https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX）
-  - 「新法でバイオ燃料導入加速を、合成燃料にもポテンシャル（メキシコ） | 世界の次世代燃料の生産・消費動向を追う - 特集 - 地域・分析レポート - 海外ビジネス情報 - ジェトロ」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「世界の次世代燃料の生産・消費動向を追う」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「確かに2008年、バイオエネルギー促進開発法を施行してはいた」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「なお、バイオエネルギー促進開発法自体に意味がなかったわけではない」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「バイオエネルギー促進開発法（2008年）」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「エネルギー省（SENER）、環境天然資源省（SEMARNAT）、農業地方開発省（SADER）で役割分担（注）」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
-  - 「農村開発、食料安全保障」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
+  - 「日本初「合成燃料」製造実証プラント完成 ENEOS」（https://news.tv-asahi.co.jp/news_economy/articles/000374794.html）
+  - 「二酸化炭素＝CO2から作るクリーンなエネルギーとして注目されている「合成燃料」の日本初の実証プラントが完成しました」（https://news.tv-asahi.co.jp/news_economy/articles/000374794.html）
+  - 「CO2を削減できることから脱炭素化に貢献する次世代の燃料として開発が進められています」（https://news.tv-asahi.co.jp/news_economy/articles/000374794.html）
+  - 「合成燃料は、水素と二酸化炭素（CO₂）を原料として作られる液体燃料で、製造時や使用時のCO₂排出量を抑え、温室効果ガスの排出削減に貢献できる次世代燃料です」（https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/）
+  - 「本記事では、この合成燃料をはじめとするカーボンニュートラル燃料の中長期的な戦略や製造・供給体制の整備に携わる次世代燃料部の松野さんに、ENEOSと横浜市の関わりや今回の「横浜マラソン 2026」への合成燃料活用、そして社会への普及に向けた取り組み、ENEOSが描くカーボンニュートラル社会の実現について話を聞きました」（https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/）
+  - 「その電力供給を「次世代燃料」で支えることが、社会への普及に向けた有効な選択肢になると考えています」（https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/）
+  - 「（国立研究開発法人新エネルギー・産業技術総合開発機構）の「グリーンイノベーション基金事業」を活用した製造技術開発に加え、供給体制の構築や市場づくりにも取り組んでいます」（https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/）
+  - 「こうした取り組みの一環として、国内での技術開発と並行し、海外から合成燃料を調達するための体制づくりも進めています」（https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/）
+  - 「横浜マラソンという大会を実証の場として選んだ背景や、その意義について、次世代燃料部の松野さんに話を聞きました」（https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/）
+  - 「私たち次世代燃料部が課題として感じているのが、まだまだ認知度が高くないという点です」（https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/）
+  - 「一方で、先行して普及しつつあるバイオマス燃料と比較するとまだ生産コストが高く、生産できる量も少ないため、製造コストの低減や国内外と提携した生産体制の拡充や供給網の確立などに取り組むとともに、合成燃料の認知向上とその価値をアピールし、「環境負荷を軽減できる」、「既存の燃料供給インフラをそのまま活用できる」といったメリットのある次世代燃料を、「使いたい」と思ってもらえるような市場の地盤づくりが」（https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/）
+  - 「のこうした思いや次世代燃料の価値に共感してくださる企業さまとの取り組みを通じて、より中長期的には、街の中にあるサービスステーションでも一般のお客さまが利用できるような環境になっていくのが理想です」（https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/）
+  - 「既存の設備やインフラを活用できることも大きな特長で、世界各国で研究開発や実用化に向けた取り組みが進んでいます」（https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/）
+  - 「AIが中学生の日記にコメント、ストレス分析も 韓国で進む導入」（https://www.asahi.com/articles/DA3S16120847.html）
+  - 「その狙いは、当地でのSAF開発を支援することにある」（https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html）
 - 検索結果の抜粋：
+  - 「The European E - Fuels Conference 2026 | Net Zero Compare — The European E - Fuels Conference 2026 | Net Zero Compare Net Zero Compare https://netzerocompare.com > events」（https://netzerocompare.com/events/the-european-e-fuels-conference-2026）
   - 「期待の高まる 合成燃料 （e-fuel）の現状 | 脱炭素技術センター — 期待の高まる 合成燃料 （e-fuel）の現状 | 脱炭素技術センター 脱炭素技術センター https://www.decarbonation-tech.com > intro_5010」（https://www.decarbonation-tech.com/intro_5010/）
   - 「液体 合成燃料 一貫製造プロセスの製造効率改善への取組み — 液体 合成燃料 一貫製造プロセスの製造効率改善への取組み 一般財団法人 カーボンニュートラル燃料技術センター PDF https://www.pecj.or.jp > JPEC_Journal_260702」（https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf）
   - 「横浜マラソンを支える未来のエネルギー。 合成燃料 の社会実装 ... — 横浜マラソンを支える未来のエネルギー。 合成燃料 の社会実装 ... ENEOS株式会社 https://www.hd.eneos.co.jp > articles > 20261016_02_cc09」（https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/）
@@ -3708,54 +3780,56 @@
 ## 地熱発電（geothermal power）
 - 文脈：12 GX ④次世代型地熱
 - 顧客（金を払う側）：
-  - 「知っているようで知らない「蓄電池」——なぜ今、導入が広がっているの？ どんな役割があるの？」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
-  - 「2025年4月、行政と民間企業が地熱発電に関して協議する「次世代型地熱推進官民協議会」が立ち上げられました」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
-  - 「そこで、次世代型地熱の実証実験を国内で早期にスタートし、導入拡大を目指すための取り組みが進められています」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
-  - 「世界的な動向を見ても、IT企業やAI企業が「24時間365日天候に左右されない、クリーンな電源」として、地熱発電に注目しています」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
-  - 「さらに世界各国では、国が地熱発電を資金的に支援、企業やスタートアップが研究を進めるなど、実用化に向けた競争が起きています」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
-  - 「まずフェーズ1では、2030年までに「国内先行導入」として、「グリーンイノベーション基金」（」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
-  - 「企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
-  - 「地熱では30年度までの試験掘削や熱回収を想定し、26年6月にも対象企業の公募を始める」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
-  - 「ペロブスカイト太陽電池では、鉄道や道路など公共インフラへの導入実証に必要な設備費や人件費を最大3分の2まで補助する」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
-  - 「キャリア採用の応募を受け付けています」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
-  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
-  - 「日経の企業内研修」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
-  - 「本社採用案内」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
-  - 「その価値は、実証済みの高温資源が存在し、再生可能エネルギーの導入率が上昇しており、エネルギー安全保障上の懸念があり、かつ信頼性の高いベースロード電力への需要がある地域において、特に顕著です」（https://www.atpress.ne.jp/news/5976117）
-  - 「第19章 企業プロファイル」（https://www.atpress.ne.jp/news/5976117）
+  - 「知っておきたい再エネ導入の選択肢！地中に眠る太陽の熱を利用する「地中熱」」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
+  - 「米国議会が超党派の合意という異例の形で規制緩和を推し進めただけでなく、GoogleやMetaが巨額を投じて長期電力購入契約を争うように結び、さらにはウォール街で19億ドルもの資金を集めるスタートアップのユニコーン企業を誕生させた」（https://naipnews.naipo.com/ja/65783/）
+  - 「地熱が大手テクノロジー企業の調達の新たな寵児に」（https://naipnews.naipo.com/ja/65783/）
+  - 「本部を米国に置く企業クリーンエネルギーバイヤー協会（CEBA）のリッチ・パウエル（Rich Powell）CEOは、地熱のようにこれほど高度な超党派の合意を得られるエネルギー技術は極めて少ないと考えている」（https://naipnews.naipo.com/ja/65783/）
+  - 「彼はさらに、ますます多くの企業バイヤーが日常業務を維持するために地熱資源の調達を積極的に求めており、したがって政策推進を通じて、本来は特定地域に限定されていたこのエネルギーを国家レベルのエネルギー安全保障資産へと転換することは、米国の将来の経済的命脈にとって極めて重要であると指摘している」（https://naipnews.naipo.com/ja/65783/）
+  - 「高い設備投資と予測可能性の低さが、地熱プロジェクトのコストを高止まりさせ、風力や太陽光エネルギーとの競争を困難にし、政策立案者も地熱産業の発展に資源を集中させる動機を欠いていた」（https://naipnews.naipo.com/ja/65783/）
+  - 「地熱発電所は極めて高い設備利用率（キャパシティ・ファクター）を備えており、24時間体制で安定してベースロード電力を出力して大規模エネルギー顧客の巨大な需要を満たすことができるだけでなく、高度な給電指令（ディスパッチ）の柔軟性も備えている」（https://naipnews.naipo.com/ja/65783/）
+  - 「24時間体制のグリーン電力需要の高まりに伴い、企業バイヤーの地熱資源に対する重視の程度はかつてないレベルに達しており、多くのテクノロジー企業が多額の資本を地熱エネルギー開発プロジェクトに実質的に投入している」（https://naipnews.naipo.com/ja/65783/）
+  - 「契約に基づき、シェルは2026年からユタ州の地熱発電所から31メガワットの電力を安定的に調達し、これにより小売顧客の増大するクリーンエネルギーの需要を全面的に満たす」（https://naipnews.naipo.com/ja/65783/）
+  - 「これら大企業による実質的な投資行動は、米国の地熱産業の商業化と規模拡大に向けた最も強固な市場基盤を築いた」（https://naipnews.naipo.com/ja/65783/）
+  - 「最近株式公開を果たしたばかりのスタートアップ企業Fervo Energyは、石油・天然ガス産業の成熟した掘削技術を巧みに活用し、高温の高温岩体（乾熱岩）からクリーンな電力を安定して生産している」（https://naipnews.naipo.com/ja/65783/）
+  - 「勝てる起業家は？素直だけど執念深く型破り、バーティカルAI企業に勝機」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
+  - 「10月に実施した全国初の地熱発電限定の電力オークションで募集枠（6億ｋWh）を上回る応札（約8億ｋWh）があり、企業の需要が強いと判断」（https://www.decarbonation-tech.com/renewable_5000/）
+  - 「発電所や卸電力市場から電力調達して企業や家庭に供給する電力小売事業者が対象」（https://www.decarbonation-tech.com/renewable_5000/）
+  - 「現行のエネルギー基本計画は2030年度に150万kWの稼働を目標としているが、現状は60万kWほどの導入にとどまる」（https://www.decarbonation-tech.com/renewable_5000/）
 - 顧客の顧客（発注元が求めること）：
+  - 「脱炭素経営｢GX500｣､1位ソフトバンク2位豊通･コニカミノルタ 日経調査」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
+  - 「豊田通商、再生材サプライヤーへ進化 金属スクラップで世界トップへ」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
+  - 「１．国立研究開発法人・独立行政法人・財団法人・官公庁・特殊法人」（https://www2.gerd.co.jp/about/）
+  - 「官公庁・大学等の学識経験者を中心とした調査委員会による地熱関連技術の調査研究（フィージビリティ・スタディ）の実施」（https://www2.gerd.co.jp/about/）
+  - 「より高い温度への耐久性、水を長期に循環させる条件など、地熱側の要求に合わせる必要があります」（https://iri-group.jp/knowledge/theme/energy-food/next-generation-geothermal/）
+  - 「技術開発者や元請けと、作業の範囲と変更時の扱いを合わせます」（https://iri-group.jp/knowledge/theme/energy-food/next-generation-geothermal/）
+  - 「技術開発者や元請けと、作業の範囲、やり直しの条件、地質による変更の扱いを合わせる必要があります」（https://iri-group.jp/knowledge/theme/energy-food/next-generation-geothermal/）
+  - 「掘削や施工の経験がある企業は、作業と責任の境界を技術開発者や元請けと確認します」（https://iri-group.jp/knowledge/theme/energy-food/next-generation-geothermal/）
+  - 「これは脱炭素を背景に世界中で地熱開発が活発化する中、極めて競争力のあるポジションといえます」（https://note.com/tatsuya_sabato/n/nf236a46e2e8d）
   - 「カーボンニュートラル実現に向けて電源への新規投資を促す「長期脱炭素電源オークション」とは？」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
   - 「資金はともに脱炭素技術を補助する「グリーンイノベーション（GI）基金」から支出する」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
   - 「伸び悩む地熱発電の現状 | 脱炭素技術センター」（https://www.decarbonation-tech.com/renewable_5000/）
   - 「脱炭素技術センター」（https://www.decarbonation-tech.com/renewable_5000/）
   - 「ポスト脱炭素政策について」（https://www.decarbonation-tech.com/renewable_5000/）
   - 「進む船舶の脱炭素化」（https://www.decarbonation-tech.com/renewable_5000/）
-  - 「鉄道分野の脱炭素化」（https://www.decarbonation-tech.com/renewable_5000/）
-  - 「重機分野の脱炭素化」（https://www.decarbonation-tech.com/renewable_5000/）
-  - 「開発に向けた調査や試験掘削費用の2/3を国が、脱炭素技術を補助するGI基金から支出する」（https://www.decarbonation-tech.com/renewable_5000/）
-  - 「バイナリーサイクル専業のイスラエル系米国企業OEMAT（オーマット）のシェアが14％」（https://www.decarbonation-tech.com/renewable_5000/）
-  - 「© 2022-2026 脱炭素技術センター.」（https://www.decarbonation-tech.com/renewable_5000/）
-  - 「カーボンニュートラル／脱炭素」（https://sgforum.impress.co.jp/article/5402?page=2）
-  - 「センコーと積水ハウス、EVトラック充電にオーナー由来の再エネ電力を活用し物流脱炭素化へ！」（https://sgforum.impress.co.jp/article/5402?page=2）
-  - 「脱炭素要請を受ける中小企業、7割超が「自社単独で対応」の実態：日商・東商調査」（https://sgforum.impress.co.jp/article/5402?page=2）
-  - 「本書では、脱炭素化の加速とともにどのように電力・通信インフラ整備を進め、AI時代のデータセンターを実現するのか読み解いていきます」（https://sgforum.impress.co.jp/article/5402?page=2）
 - 顧客の競合（奪いに来る側）：
-  - 「「フラッキング（水圧破砕）」技術（米国で、シェールガスを採掘する際に使われた技術）を使って地下の岩盤を割り、人工的に水路を設置」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
-  - 「米国株ランキング」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
-  - 「次世代型地熱発電は、将来的には現在の在来型地熱発電のコスト（１キロワット当たり１３．８～３６．８円）よりも安価な同１２～１９円を目指す」（https://www.denkishimbun.com/sp/411452）
-  - 「米国は地熱発電の専門知識において世界をリードしており、カナダやメキシコもそれぞれの強みを活かして資源開発を強化しています」（https://www.atpress.ne.jp/news/5976117）
-  - 「第18章 競合情勢」（https://www.atpress.ne.jp/news/5976117）
-  - 「欧州の価格は運転開始年である」（https://www.meti.go.jp/shingikai/santeii/pdf/098_01_00.pdf）
-  - 「が安価となっており、設備利用率も高いことが低コストの要因であった」（https://www.meti.go.jp/shingikai/santeii/pdf/098_01_00.pdf）
-  - 「■2014年11月、別府温泉で大気放出されていた蒸気を利用し、コスモテックは米国ACCESS Energy製バイナリーサイクル式の」（https://www.decarbonation-tech.com/renewable_5000/）
-  - 「これに対して、米国は5.3～9.6円/kWh(フラッシュサイクル)、トルコが10.6～11.9円/kWh、イタリアが5.8～9.6円/kWh、ニュージーランドは3.1～5.6円/kWhと安価である」（https://www.decarbonation-tech.com/renewable_5000/）
-  - 「INPEXが既存の地熱発電所の拡張や新たな地質調査を検討するインドネシアやニュージーランドなどが候補で、国際協力を通じて技術やノウハウを蓄える」（https://www.decarbonation-tech.com/renewable_5000/）
-  - 「米国が地熱資源量3000万kWで第一位」（https://www.decarbonation-tech.com/renewable_5000/）
-  - 「インドネシアが2800万kWで第二位」（https://www.decarbonation-tech.com/renewable_5000/）
-  - 「米国の１/6、インドネシアの1/4、フィリピンの１/3で、明らかに地熱発電の開発では遅れをとっている」（https://www.decarbonation-tech.com/renewable_5000/）
-  - 「この傾向は国別でも明らかで、米国、イドネシア、トルコ、ケニアの地熱発電の設備容量の伸びが顕著であるが、ニュージーランド、イタリア、アイスランドなども堅調に伸びている」（https://www.decarbonation-tech.com/renewable_5000/）
-  - 「■一方、1979年の米国スリーマイル島原発事故、1986年のチェルノブイリ原発電事故により、世界的に原発建設の低迷期に入るが、」（https://www.decarbonation-tech.com/renewable_5000/）
+  - 「米国議会が超党派の合意という異例の形で規制緩和を推し進めただけでなく、GoogleやMetaが巨額を投じて長期電力購入契約を争うように結び、さらにはウォール街で19億ドルもの資金を集めるスタートアップのユニコーン企業を誕生させた」（https://naipnews.naipo.com/ja/65783/）
+  - 「地下の岩層から巻き起こったこのエネルギー革命は、世界のグリーン電力の勢力図を全面的に再定義しつつあり、同時に台湾のハードウェアサプライチェーンにも見逃せないアップグレードの契機をもたらしている」（https://naipnews.naipo.com/ja/65783/）
+  - 「米国が超党派で地熱発展を強力に支持、規制緩和でグリーンエネルギーの電力網接続を加速」（https://naipnews.naipo.com/ja/65783/）
+  - 「Zanskar：AIビッグデータを結びつけ「ブラインド地熱」を解き放つ初のスタートアップ」（https://naipnews.naipo.com/ja/65783/）
+  - 「台湾の真の強みは地熱ではなく、サプライチェーンである」（https://naipnews.naipo.com/ja/65783/）
+  - 「米国連邦下院は2026年6月2日、エネルギーと天然資源を網羅する一連の重大法案を正式に推進した」（https://naipnews.naipo.com/ja/65783/）
+  - 「新法は、内務省に対し、環境審査完了後60日以内にすべての地熱に関する認可を処理することを求め、米国土地管理局（BLM）の内部に専任の地熱オンブズマンおよび許可ワーキンググループを設立し、各部門の調整、許可進捗の監督、開発紛争の解決を担当させるとしている」（https://naipnews.naipo.com/ja/65783/）
+  - 「米下院天然資源委員会のブルース・ウェスターマン（Bruce Westerman）委員長は、地熱は「米国西部の増大する電力需要を満たす条件を備えた唯一の」エネルギー資源であると指摘している」（https://naipnews.naipo.com/ja/65783/）
+  - 「本部を米国に置く企業クリーンエネルギーバイヤー協会（CEBA）のリッチ・パウエル（Rich Powell）CEOは、地熱のようにこれほど高度な超党派の合意を得られるエネルギー技術は極めて少ないと考えている」（https://naipnews.naipo.com/ja/65783/）
+  - 「地熱は、極めて高い潜在力を持つ米国本土の信頼できるエネルギーとして、国家の将来の膨大な電力需要を支える能力を十分に備えている」（https://naipnews.naipo.com/ja/65783/）
+  - 「米国が突きつけたトランプ氏への痛烈な拒絶 エドワード・ルース」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
+  - 「独VW、中国向け開発技術を世界展開 合肥を研究・輸出拠点に」（https://dempa-digital.com/article/171819）
+  - 「EPRI（米国電力研究所）(アメリカ合衆国)」（https://www2.gerd.co.jp/about/）
+  - 「出典：米国エネルギー省、資源エネルギー庁、NEDOの公表資料を基にイノベーション総研作成」（https://iri-group.jp/knowledge/theme/energy-food/next-generation-geothermal/）
+  - 「Fervo Energyは、EGSを使った地熱開発を進める米国企業です」（https://iri-group.jp/knowledge/theme/energy-food/next-generation-geothermal/）
 - 自社の競合（商社・代理店・仲介）：
+  - 「「AI Highlight Agent」のベータ版を提供開始」（https://www.atpress.ne.jp/news/5976117）
+  - 「HOUSTON, TX (April 17, 2026) – Fervo Energy today announced it has publicly filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission (the “SEC”) relating ...」（https://fervoenergy.com/newsroom-2-2-2-2-2/）
   - 「商社・卸売り」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
   - 「グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です」（https://www.atpress.ne.jp/news/5976117）
   - 「＜アジア最大の市場調査レポート販売代理店＞」（https://www.atpress.ne.jp/news/5976117）
@@ -3766,70 +3840,73 @@
   - 「https://ec.europa.eu/commission/presscorner/api/files/document/print/de/ip_24_2424/IP_24_2424_DE.pdf」（https://note.com/hirokimiyano/n/n8ff46dc5bd5b）
   - 「・総合商社、石油・エネルギー開発、プラントエンジニアリング、重工・タービンメーカーの新規事業開発・R&D・戦略投資担当者」（https://note.com/saidatomoya/n/n6b7040ea3efb）
 - 政治（法・予算・規制）：
-  - 「なぜ今、次世代型地熱について協議する会議が始まったのでしょうか？その背景には、2025年2月に、「第7次エネルギー基本計画」が閣議決定されたことがあります」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
-  - 「次に、規制を回避できる可能性があることです」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
-  - 「従来型の地熱資源は、火山活動のある山間地域にかたよって存在し、国立・国定公園などと重なって「自然公園法」の規制対象エリアとなっていたり、温泉資源を保護する「温泉法」の規制対象エリアになっていたりすることが多くありました」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
-  - 「まずフェーズ1では、2030年までに「国内先行導入」として、「グリーンイノベーション基金」（」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
-  - 「家計の法律クリニック」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
-  - 「資金はともに脱炭素技術を補助する「グリーンイノベーション（GI）基金」から支出する」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
-  - 「よって、このような不確実性を低減するため、事業者による取り組みとともに、着実で継続的な政府の支援も必要である」（https://www.denkishimbun.com/sp/411452）
-  - 「政府、電力会社、産業用エネルギー利用者、送電網運営者が、変動の激しい風力や太陽光発電を補完できる、安定した低炭素電力を求める中、地熱発電は再び戦略的な重要性を高めています」（https://www.atpress.ne.jp/news/5976117）
-  - 「この調査手法では、権威あるエネルギー機関、地質調査機関、再生可能エネルギー団体、送電網および政策機関、学術出版物、技術会議の議事録、ならびに政府のエネルギー省庁による相互検証を重視しています」（https://www.atpress.ne.jp/news/5976117）
-  - 「政府、電力会社、産業用エネルギー利用者、送電網運営者が安定した低炭素電力を求める中、地熱発電は戦略的な重要性を高めています」（https://www.atpress.ne.jp/news/5976117）
-  - 「また、新規認定でFIP制度のみ認められる対象についても、昨年度の委員会で、」（https://www.meti.go.jp/shingikai/santeii/pdf/098_01_00.pdf）
-  - 「◼ このため、本日の委員会では、2027年度の取扱い（①調達価格・基準価格、②新規認定でFIP制度のみ認め」（https://www.meti.go.jp/shingikai/santeii/pdf/098_01_00.pdf）
-  - 「• 2024年3月末時点のFIP認定量は、新規認定・移行認定を合わせて、約1,761MW・1,199件」（https://www.meti.go.jp/shingikai/santeii/pdf/098_01_00.pdf）
-  - 「• 2023年10月時点の認定量（約986MW・275件）から、容量は1.8倍／件数は4.4倍となっている」（https://www.meti.go.jp/shingikai/santeii/pdf/098_01_00.pdf）
-  - 「• 新規認定・移行認定の件数については、太陽光発電が最も多いが、それに続いて新規認定では水力発電、」（https://www.meti.go.jp/shingikai/santeii/pdf/098_01_00.pdf）
+  - 「米国議会が超党派の合意という異例の形で規制緩和を推し進めただけでなく、GoogleやMetaが巨額を投じて長期電力購入契約を争うように結び、さらにはウォール街で19億ドルもの資金を集めるスタートアップのユニコーン企業を誕生させた」（https://naipnews.naipo.com/ja/65783/）
+  - 「米国が超党派で地熱発展を強力に支持、規制緩和でグリーンエネルギーの電力網接続を加速」（https://naipnews.naipo.com/ja/65783/）
+  - 「今回の立法の核心的なハイライトは、地熱エネルギーの商業開発を全面的に規制緩和し、支援することにある」（https://naipnews.naipo.com/ja/65783/）
+  - 「これは、地熱産業の規模拡大を阻む法規制の足かせを徹底的に取り除くことに等しい」（https://naipnews.naipo.com/ja/65783/）
+  - 「しかしながら、基礎技術が飛躍的に進歩しているにもかかわらず、米国連邦政府の行政の歩みは、許可証の発行、土地リース、および法的確実性に対する開発業者の高まる切実な需要を依然として全く満たせていない」（https://naipnews.naipo.com/ja/65783/）
+  - 「ZanskarのAI探査モデルは米国政府機関や公益事業から実質的な契約による支持を得ることに成功しており、米軍がアイダホ州の山岳空軍基地などで新たな地熱資源を探索するのを支援しているだけでなく」（https://naipnews.naipo.com/ja/65783/）
+  - 「視線を台湾に戻すと、経済部は近年地熱開発を継続的に推進しており、それを「安定供給」の優位性を持つ重要なエネルギー源と位置づけ、同時に掘削補助金、地熱データプラットフォーム、および規制簡素化措置を提供し、開発リスクの低減を期待している」（https://naipnews.naipo.com/ja/65783/）
+  - 「■2023年10月、政府は地熱発電の開発加速のため、」（https://www.decarbonation-tech.com/renewable_5000/）
+  - 「地元との協議も政府主導で行い、商用化の見通しが判断できれば事業者を公募する」（https://www.decarbonation-tech.com/renewable_5000/）
+  - 「開発に向けた調査や試験掘削費用の2/3を国が、脱炭素技術を補助するGI基金から支出する」（https://www.decarbonation-tech.com/renewable_5000/）
+  - 「政府からの開発支援が1997年で途切れた」（https://www.decarbonation-tech.com/renewable_5000/）
+  - 「＋FIT・FIP認定量は70万kW、導入量は65万kW」（https://www.meti.go.jp/shingikai/santeii/pdf/098_01_00.pdf）
+  - 「補助金の採択だけでは、民間顧客の購入を確かめられない」（https://iri-group.jp/knowledge/theme/energy-food/next-generation-geothermal/）
+  - 「NEDO（新エネルギー・産業技術総合開発機構）は、次世代型地熱の研究開発に予算上限1,102億円を設定しています」（https://iri-group.jp/knowledge/theme/energy-food/next-generation-geothermal/）
+  - 「政策・規制・市場変化（9）」（https://iri-group.jp/knowledge/theme/energy-food/next-generation-geothermal/）
 - 経済（規模・価格・為替）：
-  - 「次世代地熱発電に5年で1102億円 経産省、ペロブスカイト電池も増額 - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
-  - 「次世代地熱発電に5年で1102億円 経産省、ペロブスカイト電池も増額」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
-  - 「経済産業省は15日、温泉地以外でも発電できる次世代型地熱発電に対して、2026〜30年度に1102億円支援すると決めた」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
-  - 「ペロブスカイト太陽電池開発向けも、250億円増やして1051億円を補助する」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
-  - 「次世代地熱発電、経済効果は最大46兆円 経産省が実用化に向け試算」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
-  - 「この目標が達成されれば、７７０万キロワットの開発に必要投資額は約１３兆～２１兆円、１０年間の経済波及効果は生産誘発額ベースで約３０兆～４７兆円と試算されている」（https://www.denkishimbun.com/sp/411452）
-  - 「地熱発電市場は、2032年までにCAGR7.90％で151億2,000万米ドル規模に拡大すると予測されています」（https://www.atpress.ne.jp/news/5976117）
-  - 「CAGR（%） 7.90%」（https://www.atpress.ne.jp/news/5976117）
-  - 「CAGRは7.90%です」（https://www.atpress.ne.jp/news/5976117）
-  - 「タラ肝油の世界市場（2026年～2032年）、市場規模（小児、成人）・分析レポートを発表」（https://www.atpress.ne.jp/news/5976117）
-  - 「ローリングシャッターCMOSイメージセンサーの世界市場（2026年～2032年）、市場規模（前面発光型、背面発光型）・分析レポートを発表」（https://www.atpress.ne.jp/news/5976117）
-  - 「超高純度ホウ素の世界市場（2026年～2032年）、市場規模（5N、6N）・分析レポートを発表」（https://www.atpress.ne.jp/news/5976117）
-  - 「ポリフェニレンスルフィド複合樹脂の世界市場（2026年～2032年）、市場規模（構造改質PPS、ブレンド改質PPS）・分析レポートを発表」（https://www.atpress.ne.jp/news/5976117）
-  - 「リーマー コンビネーションリーマーの世界市場（2026年～2032年）、市場規模（高速度鋼（HSS）、超硬合金、コバルト合金）・分析レポートを発表」（https://www.atpress.ne.jp/news/5976117）
-  - 「◼ 地熱発電については、地元調整、関係法令の手続き等を勘案し、これまで向こう３年間の複数年度の調達価格・」（https://www.meti.go.jp/shingikai/santeii/pdf/098_01_00.pdf）
+  - 「Armed with $115 million, geothermal startup Zanskar gets ready to build」（https://naipnews.naipo.com/ja/65783/）
+  - 「マルチコアCANバスケーブルの世界市場（2026年～2032年）、市場規模（直径：AWG 20/7、直径：AWG 22/7、直径：AWG 24/7、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/5976117）
+  - 「140DB HDR CMOSイメージセンサーの世界市場（2026年～2032年）、市場規模（画素サイズ：2.1 µm、画素サイズ：3 µm）・分析レポートを発表」（https://www.atpress.ne.jp/news/5976117）
+  - 「バナジウム酸ビスマスの世界市場（2026年～2032年）、市場規模（グリーンシェードイエロー、ミディアムシェードイエロー、レッドシェードイエロー）・分析レポートを発表」（https://www.atpress.ne.jp/news/5976117）
+  - 「成形・容量分割・試験装置・システムの世界市場（2026年～2032年）、市場規模（成形装置、容量分割装置、試験装置）・分析レポートを発表」（https://www.atpress.ne.jp/news/5976117）
+  - 「光学式シャフト測定機の世界市場（2026年～2032年）、市場規模（全自動、半自動）・分析レポートを発表」（https://www.atpress.ne.jp/news/5976117）
+  - 「繊維リサイクル市場、2035年に165億8000万米ドル規模へ拡大予測、CAGR 6.6％、サステナブルファッションと循環型経済が牽引する市場成長の展望」（https://www.atpress.ne.jp/news/5976117）
+  - 「事業費は100億円にも上ると言われています」（https://pps-net.org/column/107702）
+  - 「2026年度以降のFIT動向を解析、事業用太陽光発電(地上設置)はFIT対象外、一部太陽光など前年比で異例の「単価上昇」電源も、再エネ賦課金は4.18円/kWhで前年比約5％増加」（https://pps-net.org/column/107702）
+  - 「2026年度FIT制度は物価高を反映し一部価格を引き上げる一方、地上設置型太陽光は27年度に支援を終了します」（https://pps-net.org/column/107702）
+  - 「円高・円安水準 50.98 円（円安傾向）」（https://pps-net.org/column/107702）
+  - 「１億１千４百万円（授権資本１億５千万円）」（https://www2.gerd.co.jp/about/）
+  - 「株主25社、資本金1億円」（https://www2.gerd.co.jp/about/）
+  - 「4．発電できても、売れる量や価格が計画と合わない」（https://iri-group.jp/knowledge/theme/energy-food/next-generation-geothermal/）
+  - 「NEDO（新エネルギー・産業技術総合開発機構）は、次世代型地熱の研究開発に予算上限1,102億円を設定しています」（https://iri-group.jp/knowledge/theme/energy-food/next-generation-geothermal/）
 - 社会（人・担い手）：
+  - 「事業化の判断、実行体制、技術の活用、人材育成」（https://iri-group.jp/knowledge/theme/energy-food/next-generation-geothermal/）
+  - 「Plan｜会議の指摘を具体的な仕事に変え、AIとプロ人材で調査・検証へつなぐ」（https://iri-group.jp/knowledge/theme/energy-food/next-generation-geothermal/）
+  - 「新規事業の診断から、AIエージェント、立ち上げ・事業化、技術活用、人材育成まで」（https://iri-group.jp/knowledge/theme/energy-food/next-generation-geothermal/）
+  - 「Plan｜AIとプロ人材で、調査・検証から次の判断まで支援する」（https://iri-group.jp/knowledge/theme/energy-food/next-generation-geothermal/）
+  - 「IEA（国際エネルギー機関）は、次世代地熱と石油・ガス産業の技術や技能に共通する部分が多いと整理しています」（https://iri-group.jp/knowledge/theme/energy-food/next-generation-geothermal/）
+  - 「必要な資産は、地下の現象を理解する人材と、現場のデータに触れられる関係です」（https://iri-group.jp/knowledge/theme/energy-food/next-generation-geothermal/）
+  - 「必要な資産は、地下の施工経験、人材、機器と、地熱の条件に適合させる能力です」（https://iri-group.jp/knowledge/theme/energy-food/next-generation-geothermal/）
+  - 「自社が負担する費用と、その期間を支える資金・人材を具体化します」（https://iri-group.jp/knowledge/theme/energy-food/next-generation-geothermal/）
+  - 「The new workforce development program focused on subsurface operations will provide hands-on and virtual instruction for up to 40 individuals through 2024」（https://fervoenergy.com/newsroom-2-2-2-2-2/）
   - 「後継者は幼いころから知るスキーヤー」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
   - 「日経のグローバル人材育成」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
   - 「【半導体人材の未来】〈53〉「ミスター半導体」が描いた門前町 岩手県立大から広がる産学官連携」（https://dempa-digital.com/article/171819）
   - 「【半導体人材の未来】〈52〉「人生ゲーム」の隣に企業ブース 半導体産業を知る仕掛け」（https://dempa-digital.com/article/171819）
   - 「三井物産の人材マネジメント」（https://www.mitsui.com/jp/ja/topics/2025/1252531_14877.html）
   - 「雇用・職場改善」（https://hojokin-agent.jp/subsidy/114608）
-  - 「リスキリング・人材育成」（https://hojokin-agent.jp/subsidy/114608）
-  - 「Workforce Success」（https://geothermal.org/events/2026-geothermal-solutions-summit）
-  - 「Apprenticeships & Workforce Development」（https://www.energy.gov/hgeo/geothermal/drill-down）
-  - 「Eight New Projects for Workforce Training」（https://www.energy.gov/hgeo/geothermal/drill-down）
-  - 「for the Partnerships for Academic-Industry Career Training Initiative. The opportunity will enhance the nation’s capacity for a highly skilled energy workforce. Two projects will focus on geothermal.」（https://www.energy.gov/hgeo/geothermal/drill-down）
-  - 「Juneau Geothermal Systems Spotlight New Alaska Workforce Training」（https://www.energy.gov/hgeo/geothermal/drill-down）
-  - 「Develop supportive infrastructure, including access to transmission in first-of-kind locations, robust supply chains, and workforce.」（https://www.catf.us/2026/11/deeper-international-partnership-must-help-unlock-geothermal-globally/）
-  - 「米国の掘削業界に蓄積された人材と機材を流用できるため、ここ数年で開発が急速に進みました」（https://note.com/hirokimiyano/n/n8ff46dc5bd5b）
-  - 「石油・ガス産業の技術と人材が流れ込む」（https://note.com/hirokimiyano/n/n8ff46dc5bd5b）
 - 技術（新しい技術・実証）：
-  - 「地熱発電も「次世代」へ！課題をクリアし日本の地熱を最大限に活用｜エネこれ｜資源エネルギー庁」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
-  - 「地熱発電も「次世代」へ！課題をクリアし日本の地熱を最大限に活用」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
-  - 「一方で、この“ポテンシャル”を活かすためには、これまでの地熱発電の課題をクリアできるような、さまざまな技術開発や制度づくりが必要となります」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
-  - 「そこで期待されているのが「次世代型」と呼ばれる地熱発電です」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
-  - 「地熱資源のポテンシャルを活かせる「次世代型地熱」に注目が」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
-  - 「2025年4月、行政と民間企業が地熱発電に関して協議する「次世代型地熱推進官民協議会」が立ち上げられました」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
-  - 「さらに10月には、日本で「次世代型地熱」を実用化していくための課題や方針をまとめた「中間取りまとめ」が公表されました」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
-  - 「次世代型地熱推進官民協議会」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
-  - 「次世代型地熱推進官民協議会「中間取りまとめ」（PDF形式）」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
-  - 「「次世代型地熱」とは、これまでの地熱発電とは異なる、新しい技術を使った地熱発電のことです」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
-  - 「次世代地熱発電に5年で1102億円 経産省、ペロブスカイト電池も増額 - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
-  - 「次世代地熱発電に5年で1102億円 経産省、ペロブスカイト電池も増額」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
-  - 「従来の地熱発電は適地が温泉地などに多く、開発に制約があった」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
-  - 「経済産業省は15日、温泉地以外でも発電できる次世代型地熱発電に対して、2026〜30年度に1102億円支援すると決めた」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
-  - 「開発に向けた調査や試験掘削費用の3分の2を国が出す」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
+  - 「なぜ今、次世代型地熱について協議する会議が始まったのでしょうか？その背景には、2025年2月に、「第7次エネルギー基本計画」が閣議決定されたことがあります」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
+  - 「AIのコンピューティングパワーが引き起こす電力不足の危機に直面し、風力や太陽光などの間欠性エネルギーが限界を見せる中、地熱はその不足分を補う完璧な解決策となった」（https://naipnews.naipo.com/ja/65783/）
+  - 「石油掘削技術の分野を超えた応用とAIビッグデータ探査の後押しにより、次世代技術は過去の地熱の地理的足かせを打ち破ることに成功した」（https://naipnews.naipo.com/ja/65783/）
+  - 「Zanskar：AIビッグデータを結びつけ「ブラインド地熱」を解き放つ初のスタートアップ」（https://naipnews.naipo.com/ja/65783/）
+  - 「今回の立法の核心的なハイライトは、地熱エネルギーの商業開発を全面的に規制緩和し、支援することにある」（https://naipnews.naipo.com/ja/65783/）
+  - 「今回可決された法案の中で、地熱エネルギーの開発は間違いなく産業界と資本市場が最も注目する焦点である」（https://naipnews.naipo.com/ja/65783/）
+  - 「新法は、内務省に対し、環境審査完了後60日以内にすべての地熱に関する認可を処理することを求め、米国土地管理局（BLM）の内部に専任の地熱オンブズマンおよび許可ワーキンググループを設立し、各部門の調整、許可進捗の監督、開発紛争の解決を担当させるとしている」（https://naipnews.naipo.com/ja/65783/）
+  - 「地熱産業の発展をさらに加速させるため、新法規は、本来は石油と天然ガスの探査にのみ適用されていた環境影響評価の免除権を、特定の地熱開発プロジェクトにまで拡大した」（https://naipnews.naipo.com/ja/65783/）
+  - 「この超党派の協力の背景にあるのは、AIのコンピューティングパワーが牽引する電力需要の爆発的な増加である」（https://naipnews.naipo.com/ja/65783/）
+  - 「しかしながら、基礎技術が飛躍的に進歩しているにもかかわらず、米国連邦政府の行政の歩みは、許可証の発行、土地リース、および法的確実性に対する開発業者の高まる切実な需要を依然として全く満たせていない」（https://naipnews.naipo.com/ja/65783/）
+  - 「過去20年間、地熱開発の進展が遅れていた主な原因は、市場需要の不足、掘削作業の予測の難しさ、および政策支援の欠如にある」（https://naipnews.naipo.com/ja/65783/）
+  - 「再生可能エネルギー熱の面的利用システム構築に向けた技術開発」（https://www.nedo.go.jp/koubo/2026_list_01_04.html）
+  - 「グリーンイノベーション基金事業／次世代型地熱技術の開発」（https://www.nedo.go.jp/koubo/2026_list_01_04.html）
+  - 「新エネルギー等のシーズ発掘・事業化に向けた技術研究開発事業」（https://www.nedo.go.jp/koubo/2026_list_01_04.html）
+  - 「地熱ポテンシャル高度利活用技術開発（次世代型地熱の適切な活用に係る調査・分析等）」（https://www.nedo.go.jp/koubo/2026_list_01_04.html）
 - 検索結果の抜粋：
+  - 「伸び悩む 地熱発電 の現状 - 脱炭素技術センター — 伸び悩む 地熱発電 の現状 - 脱炭素技術センター 脱炭素技術センター https://www.decarbonation-tech.com > renewable_5000」（https://www.decarbonation-tech.com/renewable_5000/）
+  - 「次世代 地熱発電 技術への取り組み - 国際環境経済研究所 — 次世代 地熱発電 技術への取り組み - 国際環境経済研究所 NPO法人 国際環境経済研究所 https://ieei.or.jp > 2026/01 > takeuchi_260115」（https://ieei.or.jp/2026/01/takeuchi_260115/）
+  - 「令和8年度第1回 地熱発電 理解促進事業費 補助金 の公募結果 ... — 令和8年度第1回 地熱発電 理解促進事業費 補助金 の公募結果 ... 九州経済産業局 https://www.kyushu.meti.go.jp > support2」（https://www.kyushu.meti.go.jp/support2/2605/260511_1.html）
   - 「地熱発電 も「次世代」へ！課題をクリアし日本の地熱を最大限 ... — 地熱発電 も「次世代」へ！課題をクリアし日本の地熱を最大限 ... 資源エネルギー庁 https://www.enecho.meti.go.jp > geothermal_power2026」（https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html）
   - 「次世代 地熱発電 に5年で1102億円 経産省、ペロブスカイト電池 ... — 次世代 地熱発電 に5年で1102億円 経産省、ペロブスカイト電池 ... 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOUA156IA0V10C26A4000000/）
   - 「地熱発電 市場― 2026年 ～2032年の世界市場予測 - アットプレス — 地熱発電 市場― 2026年 ～2032年の世界市場予測 - アットプレス アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/5976117）
@@ -3842,59 +3919,63 @@
   - 「令和8年度 地熱発電 の資源量調査事業費助成金交付 ... - JOGMEC — 令和8年度 地熱発電 の資源量調査事業費助成金交付 ... - JOGMEC jogmec.go.jp https://www.jogmec.go.jp > ... > 2026年度」（https://www.jogmec.go.jp/news/release/release_01326.html）
   - 「「令和8年度 地熱発電 理解促進事業費 補助金 」≪第1回 — 「令和8年度 地熱発電 理解促進事業費 補助金 」≪第1回 補助金ポータル https://hojyokin-portal.jp > subsidies」（https://hojyokin-portal.jp/subsidies/72282）
   - 「地熱発電 資源量調査助成金_第3回を徹底解説【 2026 年度】 — 地熱発電 資源量調査助成金_第3回を徹底解説【 2026 年度】 補助金エージェント https://hojokin-agent.jp > 補助金・給付金一覧」（https://hojokin-agent.jp/subsidy/114608）
-  - 「令和5年度 地熱発電 の資源量調査事業費助成金交付 ... - PR TIMES — 令和5年度 地熱発電 の資源量調査事業費助成金交付 ... - PR TIMES PR TIMES https://prtimes.jp > その他」（https://prtimes.jp/main/html/rd/p/000000763.000012624.html）
 
 ## 洋上風力（offshore wind）
 - 文脈：12 GX ⑤洋上風力
 - 顧客（金を払う側）：
-  - 「自然エネルギー導入状況」（https://www.renewable-ei.org/activities/reports/20260820.php）
-  - 「1-2 世界：年毎の新規導入設備容量（GWEC）」（https://www.renewable-ei.org/activities/reports/20260820.php）
-  - 「2-1 欧州：導入目標に関する政策比較」（https://www.renewable-ei.org/activities/reports/20260820.php）
-  - 「2-2 アジア地域：導入目標に関する政策比較」（https://www.renewable-ei.org/activities/reports/20260820.php）
-  - 「3. 洋上風力発電の新規導入量の見通し」（https://www.renewable-ei.org/activities/reports/20260820.php）
-  - 「3-1 地域別：これまでの年間導入量と見通し」（https://www.renewable-ei.org/activities/reports/20260820.php）
-  - 「3-2 欧州：これまでの年間導入量と見通し」（https://www.renewable-ei.org/activities/reports/20260820.php）
-  - 「3-5 アジア：中国におけるこれまでの年間導入量と見通し」（https://www.renewable-ei.org/activities/reports/20260820.php）
-  - 「3-6 アジア：台湾におけるこれまでの年間導入量と見通し」（https://www.renewable-ei.org/activities/reports/20260820.php）
-  - 「3-7 アジア：韓国におけるこれまでの年間導入量と見通し」（https://www.renewable-ei.org/activities/reports/20260820.php）
-  - 「ノルウェーのエネルギー企業Equinorは6月26日、日本の洋上風力発電事業から撤退し、2026年末までに東京事務所を閉鎖すると発表した」（https://enehub.jp/news/equinor%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E4%BA%8B%E6%A5%AD%E3%81%8B%E3%82%89%E6%92%A4%E9%80%80/）
-  - 「6月中旬には、CEOのAnders Opedal氏が「不確実性が高まる事業環境の中で、当社の戦略は、市場や顧客に信頼性の高いエネルギーを供給するとともに、石油・ガス事業と統合型電力事業の両ポートフォリオにおいて、環境変化に柔軟に対応しながら価値を創出していく」と説明していた」（https://enehub.jp/news/equinor%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E4%BA%8B%E6%A5%AD%E3%81%8B%E3%82%89%E6%92%A4%E9%80%80/）
-  - 「と共同で「秋田県能代市・三種町・男鹿市沖」と「秋田県由利本荘市沖」に入札したが、三菱商事を代表企業とするコンソーシアムには及ばなかった」（https://enehub.jp/news/equinor%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E4%BA%8B%E6%A5%AD%E3%81%8B%E3%82%89%E6%92%A4%E9%80%80/）
-  - 「を代表企業とするコンソーシアムの一員として、「山形県遊佐町沖」に応札した」（https://enehub.jp/news/equinor%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E4%BA%8B%E6%A5%AD%E3%81%8B%E3%82%89%E6%92%A4%E9%80%80/）
-  - 「また、2024年2月に撤退を表明したデンマークの再エネ開発企業Ørstedに続く、外資系大手企業の撤退となった」（https://enehub.jp/news/equinor%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E4%BA%8B%E6%A5%AD%E3%81%8B%E3%82%89%E6%92%A4%E9%80%80/）
+  - 「【第2回】10倍の導入目標に向け動き始めた洋上風力」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「複数の電力会社や企業が参画する本事業では、五島市福江島の沖合約7kmの海域に8基の風車を浮かべ、ここで発電された総出力16,800kWの電力が五島市内に供給されています」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「再エネ導入拡大における課題の克服-需給調整市場／デマンドレスポンス／ア...」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「今年設立30周年を迎える株式会社川崎フロンターレは、Jリーグ所属の同名サッカーチームを運営する企業」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「3-9 アジア：ベトナム・フィリピンにおけるこれまでの年間導入量と見通し」（https://www.renewable-ei.org/activities/reports/20260820.php）
+  - 「さらに近年は、巨大な国内市場を持つ中国が急速に導入量を伸ばしている点も特徴だ」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「大という観点から、①入札制度を継続するか、②入札ではなく政府が一律の調達価格/基準価格を設定する方法とするか、御議論」（https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf）
+  - 「模化や量産投資を行うことにより 、コスト低減が進展」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
+  - 「・エスビアウ港には約 200の企業が集積し 、洋上風」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
+  - 「＜世界の洋上風力市場（導入実績）【GW】＞」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
+  - 「◼ 2010年代は欧州市場（英国、ドイツ等）が先行するも、2022年に中国が累積導入量で欧州を超え最大市場」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
+  - 「＜世界の洋上風力市場（導入実績）【MW】＞」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
+  - 「3. 洋上風力開発の資金調達強化」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
+  - 「◼ 過去、陸上風車を製造する日本企業が存在し、ナセル、ブレードが国内で製造されており、発電機、増速機、ベアリング、鉄加工物、電力変」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
+  - 「◼ しかし、世界の洋上風力市場が急拡大した 2010年代後半に、需要創出や大型化競争で海外企業に後れを取ったことなどにより 、国内風」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
 - 顧客の顧客（発注元が求めること）：
-  - 「基準・認証、ルール形成戦略」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「基準・認証、規制」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「コネティカット 洋上風力エネルギーの調達に関する法律 (Act Concerning the Procurement of Energy Derived from Offshore Wind) 2030年までに 2GW 2019」（https://www.renewable-ei.org/pdfdownload/activities/202404_Offshorewindinfo.pdf）
-  - 「メイン 洋上風力資源からのエネルギー調達に関する法 (An Act Regarding the Procurement of Energy from Offshore WindResources) 2040年までに 3GW 2023」（https://www.renewable-ei.org/pdfdownload/activities/202404_Offshorewindinfo.pdf）
-  - 「コネティカット州：AN ACT CONCERNING THE PROCUREMENT OF ENERGY DERIVED FROM OFFSHORE WIND（2019年6月）」（https://www.renewable-ei.org/pdfdownload/activities/202404_Offshorewindinfo.pdf）
-  - 「メイン州：An Act Regarding the Procurement of Energy from Offshore Wind Resources（2023年7月）」（https://www.renewable-ei.org/pdfdownload/activities/202404_Offshorewindinfo.pdf）
-  - 「第13章には日本洋上風力エネルギー市場の業界分析が記載されており、推進要因、阻害要因、機会の概要、ポーターのファイブフォース分析（買い手の交渉力、サプライヤーの交渉力、競争の程度、新規参入の脅威、代替品の脅威）、およびバリューチェーン分析が含まれる」（https://newscast.jp/news/5516646）
-  - 「①長期脱炭素電源オークションへの参加」（https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf）
-  - 「⚫ GWO認証を受けた施設で 、基本安全訓練の」（https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf）
-  - 「⚫ GWO認証に基づく基礎安全訓練のほか 、上」（https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf）
-  - 「ムを提供し、GWO認証基準の要求事項品質」（https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf）
-  - 「サプライヤー」（https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf）
-  - 「グローバルサプライヤー」（https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf）
-  - 「＜研究機関／教育・研究機関／認証機関＞」（https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf）
-  - 「①長期脱炭素電源オークションへの参加」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
+  - 「【第20回】国際認証を先んじて取得 サステナブル...」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「【第13回】モビリティでの水素活用をてこに脱炭素...」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「震災の混乱時も「断るな、納期厳守」Scene 21」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「コネティカット 洋上風力エネルギーの調達に関する法律 (Act Concerning the Procurement of Energy Derived from Offshore Wind) 2030年までに 2GW 2019」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
+  - 「メイン 洋上風力資源からのエネルギー調達に関する法 (An Act Regarding the Procurement of Energy from Offshore WindResources) 2040年までに 3GW 2023」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
+  - 「コネティカット州：AN ACT CONCERNING THE PROCUREMENT OF ENERGY DERIVED FROM OFFSHORE WIND（2019年6月）」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
+  - 「メイン州：An Act Regarding the Procurement of Energy from Offshore Wind Resources（2023年7月）」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
+  - 「ゼロカーボンコンサル、GHG排出量見える化、コーボレートPPA、省エネソリューションなどあらゆる脱炭素ソリューションが出展」（https://www.wsew.jp/hub/ja-jp/about/fowind.html）
+  - 「概観、諸外国の洋上風力政策の概観、洋上風力産業のサプライチェーン構造、風車 OEM 工場」（https://www.gxa.go.jp/news/.assets/20260406b.pdf）
+  - 「 ブレード・ナセル等の重要モジュールはOEM直営工場で組立、サプライヤーはその部品・部材を供給する構造である」（https://www.gxa.go.jp/news/.assets/20260406b.pdf）
+  - 「 風車OEMのKBF（Key Buying Factor）は「信頼性」・「調達力」・「技術適合性」であり、国際標準と現地基準の」（https://www.gxa.go.jp/news/.assets/20260406b.pdf）
+  - 「 サプライヤーの参入にあたってはOEMが求める品質・認証要件への対応が必要となるが、日本固有の自然環境（耐」（https://www.gxa.go.jp/news/.assets/20260406b.pdf）
+  - 「 地域に産業誘致した場合の経済波及効果を、工場投資額・サプライヤー供給額・雇用者数・雇用者の日常消費効」（https://www.gxa.go.jp/news/.assets/20260406b.pdf）
+  - 「04 風車OEM工場を誘致した場合の裨益効果や経済波及効果 ………… P. 37」（https://www.gxa.go.jp/news/.assets/20260406b.pdf）
+  - 「洋上風力市場の概観 諸外国の洋上風力政策の概観 洋上風力産業のサプライチェーン構造 風車OEM工場を誘致した場合の裨益効果や経済波及効果 洋上風力推進に向けた地域の取組」（https://www.gxa.go.jp/news/.assets/20260406b.pdf）
 - 顧客の競合（奪いに来る側）：
-  - 「2-1 欧州：導入目標に関する政策比較」（https://www.renewable-ei.org/activities/reports/20260820.php）
-  - 「3-2 欧州：これまでの年間導入量と見通し」（https://www.renewable-ei.org/activities/reports/20260820.php）
-  - 「3-3 欧州：英国における近年の選定結果」（https://www.renewable-ei.org/activities/reports/20260820.php）
-  - 「3-4 欧州：デンマークにおける近年の公募結果とその後」（https://www.renewable-ei.org/activities/reports/20260820.php）
-  - 「3-5 アジア：中国におけるこれまでの年間導入量と見通し」（https://www.renewable-ei.org/activities/reports/20260820.php）
-  - 「3-6 アジア：台湾におけるこれまでの年間導入量と見通し」（https://www.renewable-ei.org/activities/reports/20260820.php）
-  - 「3-7 アジア：韓国におけるこれまでの年間導入量と見通し」（https://www.renewable-ei.org/activities/reports/20260820.php）
-  - 「3-8 アジア：台湾・韓国における選定結果」（https://www.renewable-ei.org/activities/reports/20260820.php）
-  - 「また、2026年5月には韓国の浮体式洋上風力発電計画の中止も発表している」（https://enehub.jp/news/equinor%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E4%BA%8B%E6%A5%AD%E3%81%8B%E3%82%89%E6%92%A4%E9%80%80/）
-  - 「米国関税措置への対応」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「インドネシア」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「地域別では、中国が48.4GW（52.3%）、欧州が38.8GW（41.9%）を占める結果となった（図1参照）」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「新規導入市場の中心は中国で、全体の7割を占め8年連続世界1位となり、英国・台湾・ドイツ・フランスを加えた上位5カ国・地域で全体の約99%を占めた （図2参照）」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「欧州では、デンマークやオランダを中心に1990年代から実証と商用化を進め、続いて英国やノルウェーも市場を拡大してきた歴史がある」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「欧州が洋上風力の先駆者となった背景としては、エネルギー安全保障への対応と温室効果ガス削減を同時に進めてきた歴史に加え、遠浅の海底や年間を通して強い風が吹く地理的条件がある」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「米国で4年ごとの大統領選の間に実施される中間選挙が今年11月3日に実施されます」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「JR西日本と中国電力、中国エリアで系統用蓄電所事業の共同検討に向け基本合意」（https://enehub.jp/news/equinor%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E4%BA%8B%E6%A5%AD%E3%81%8B%E3%82%89%E6%92%A4%E9%80%80/）
+  - 「こうした方針のもと、2024年3月に設立された浮体式洋上風力技術研究組合（FLOWRA）は欧州・米国をはじめとする海外諸機関との連携を重視し、浮体式の「低コスト化」や「量産化技術」の確立に取り組んでいる」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「後編では、ジェトロが2026年2月に開催した国内洋上風力産業の活性化に向けたセミナーを取り上げ、サプライチェーン収益化に向けた欧州の取り組みや、海外企業にとって魅力となった地域コンソーシアム事例を紹介する」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「○併せて、日本製鉄が欧州・アジア・日本市場向けのタワー用鋼材の供給」（https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf）
+  - 「※欧州10か国：アイスランド、アイルランド、イギリス、オランダ、デンマーク、ドイツ、ノルウェー、」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
+  - 「◼ 洋上風力市場が先行した欧州において風車サプライチェーン形成が進展」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
+  - 「中国メーカーも国内市場拡大に応じてシェアを拡大」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
+  - 「2-2. 導入政策目標（欧州・各国、米国）」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
+  - 「2-4. 累積導入見通し（欧州、米国、中国、台湾、韓国）」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
+  - 「・ これまでは欧州が牽引していたが、中国における導入量が増加し、累積導入量と年間導入量で欧州を上回っている」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
+  - 「・ 2023年の新規導入量は中国が6.3GWで全体の58％を占めた」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
+  - 「欧州では全体の35%となる3.8GWが導入され、オランダ1.9GW、」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
+  - 「また、台湾では0.7GWが導入された」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
+  - 「中国が37.8GWで全体の50%を占め、欧州が34.1GWで45％を占め」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
 - 自社の競合（商社・代理店・仲介）：
+  - 「「鉄の商社」が環境のためにできること ＃47/株式...」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「EU： EU Commission, “COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THECOMMITTEE OF THE」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
+  - 「カリフォルニア州 : California Energy Commission, “Offshore Wind Energy Strategic Plan” （2024年6月）」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
+  - 「今冬の燃料（LNG）の安定供給確保に向けて、電力・ガス事業者、資源開発事業者・商社との官民連絡会議（第5回作業部会）を開催しました」（https://www.enecho.meti.go.jp/notice/news_release/2026/）
+  - 「While the state used to use paper logbooks to track Dungeness crab vessels’ locations, in 2024, the Washington Fish and Wildlife Commission launched an electronic monitoring program | Photo courtesy of Max Lindenthaler/Shutterstock」（https://www.seafoodsource.com/news/us-senate-bill-would-incentivize-offshore-wind-development-despite-trump-buyouts）
   - 「EU： EU Commission, “COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THECOMMITTEE OF THE」（https://www.renewable-ei.org/pdfdownload/activities/202404_Offshorewindinfo.pdf）
   - 「カリフォルニア州 : California Energy Commission, “Offshore Wind Energy Development off the California Coast: Maximum Feasible Capacity and Megawatt Planning Goals for 2030 and 2045” （2022年8月）」（https://www.renewable-ei.org/pdfdownload/activities/202404_Offshorewindinfo.pdf）
   - 「その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます」（https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market）
@@ -3905,76 +3986,74 @@
   - 「Commissioned Research :」（https://www.atpress.ne.jp/news/8683106）
   - 「https://www.reportocean.co.jp/commissioned-research-services」（https://www.atpress.ne.jp/news/8683106）
   - 「リース会社を使う場合は、手数料や保険料はリース料から除外して計算する必要があります」（https://hojokin-agent.jp/subsidy/66651）
-  - 「安全マージンを削ってまでコストを下げることは現実的ではありません」（https://deepwind.jp/market-insights-ja/japan-offshore-wind-market-analysis-2025-ja/）
-  - 「メーカー・商社など」（https://www.wsew.jp/hub/ja-jp/exhibit/fowind.html）
-  - 「総合商社・代理店」（https://www.wsew.jp/hub/ja-jp/exhibit/fowind.html）
-  - 「風車メーカー（大型／小型）、風力発電事業者、輸送／据付／建設関連業者、メンテナンス業者、商社／販売代理店、自治体／法人ユーザー …など」（https://www.wsew.jp/hub/ja-jp/exhibit/fowind.html）
-  - 「・大手電力・ガス、総合商社、プラントエンジニアリング、重工・造船、鉄鋼・電線メーカーの新規事業開発・R&D・戦略投資担当者」（https://note.com/saidatomoya/n/n3b235c58066e）
 - 政治（法・予算・規制）：
-  - 「日本では、2026年4月に再エネ海域利用法の改正法が施行され、法律の名称も「海洋再生可能エネルギー発電設備の整備に関する法律（海洋再エネ整備法）」に改められました」（https://www.renewable-ei.org/activities/reports/20260820.php）
-  - 「事業計画認定IDデータベース」（https://enehub.jp/news/equinor%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E4%BA%8B%E6%A5%AD%E3%81%8B%E3%82%89%E6%92%A4%E9%80%80/）
-  - 「世界各国の関税率」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「政府公共調達データベース」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「米国関税措置への対応」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「基準・認証、規制」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「日本政府が掲げる「2050年カーボンニュートラル」の実現には、二酸化炭素（CO2）を排出しない再生可能エネルギー（再エネ）の導入拡大が不可欠だ」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「政府は「洋上風力産業ビジョン」にて、2030年までに洋上風力10GW、さらに2040年までに30〜45GWの導入を目標として設定している」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「日本政府はこうした状況を、むしろ技術・サプライチェーン面で海外に追いつく好機と捉え、浮体式に関する産業戦略の強化を進めている」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「日本政府も、グローバルの主要風車メーカーとの官民連携に前向きだ」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「政府は2040年までに15GW以上の浮体式洋上風力発電の案件を形成する目標を打ち出している」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「さらに政府の取り組みとして、GXサプライチェーン構築支援事業をはじめ、洋上風力に特化した補助金や基金も整備されてきた（表2参照）」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「政府・多数党間合意」（https://www.renewable-ei.org/pdfdownload/activities/202404_Offshorewindinfo.pdf）
-  - 「(政府・多数党間合意）」（https://www.renewable-ei.org/pdfdownload/activities/202404_Offshorewindinfo.pdf）
-  - 「ノルウェー 政府宣言 (2022年5月11日) 2040年までに 30GW 2022」（https://www.renewable-ei.org/pdfdownload/activities/202404_Offshorewindinfo.pdf）
+  - 「【概観・電気事業法】第6回／発電関連分野の規制」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「【概観・電気事業法】第5回／送配電事業の規制」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「【概観・電気事業法】第4回／小売電気事業の規制」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「現在、日本国内には再エネ海域利用法（正式名称：海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律）に基づいて、10ヵ所の海域が浮体式・着床式洋上風力発電の推進区域の指定を受け、政府の支援のもと開発が進められています」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「特集／「第7次エネルギー基本計画」閣議決定――概要とポイント」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「2050年カーボンニュートラルの実現に向け、政府が掲げる2040年の電源構成における再エネ比率目標は4～5割程度」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「表2：日本政府による主な洋上風力関連の補助金等」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「ペロブスカイト太陽電池向けの補助金と合わせた総額」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「注3：2025年度の予算総額は不明」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
+  - 「10（参考）陸上風力発電（新設）のFIT・FIP認定・導入状況（2025年3月末時点）」（https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf）
+  - 「ノルウェー 政府宣言 (2022年5月11日) 2040年までに 30GW 2022」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
+  - 「コネティカット 洋上風力エネルギーの調達に関する法律 (Act Concerning the Procurement of Energy Derived from Offshore Wind) 2030年までに 2GW 2019」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
+  - 「政府イニシアティブ (Initiatives on Floating Offshore Wind) 2035年までに 15GW（浮体式） 2022」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
+  - 「・ 中央政府による支援策終了の影響もあり、2021年の新規導入量（16.9GW）に比べると、 2023年（6.3GW）の新規導入量は」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
+  - 「その要因として、経験の蓄積と競争、風車の技術の進展、サプライチェーンの構築、政策・規制の」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
 - 経済（規模・価格・為替）：
-  - 「STT GDC、千葉県印西市の計70.8MWのDCキャンパス向けに930億円のグリーンローンを組成」（https://enehub.jp/news/equinor%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E4%BA%8B%E6%A5%AD%E3%81%8B%E3%82%89%E6%92%A4%E9%80%80/）
-  - 「10月24日～30日JEPXスポット価格、週間平均28.05円/kWhで過去52週の最高を2週連続更新」（https://enehub.jp/news/equinor%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E4%BA%8B%E6%A5%AD%E3%81%8B%E3%82%89%E6%92%A4%E9%80%80/）
-  - 「4,212億円」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「2,109億7,000万円（注1）」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「準備区域等に整理されていない区域： 定額（上限2,500万円）」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「準備区域：2分の1以内（上限1,000万円）」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「6億5,000万円」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「中部の主要外食チェーン11社の１月売上高 既存店10社が増収 年始の客入り好調」（https://www.chukei-news.co.jp/news/2026/03/05/OK0002603050101_01/）
-  - 「• 規模の大型化により、1機あたりの価格や建設費は増加するが、それ以上に風車の設備容量（MW）が増加し、発電量が増す」（https://www.renewable-ei.org/pdfdownload/activities/202404_Offshorewindinfo.pdf）
-  - 「出典）資源エネルギー庁 「国内外の再生可能エネルギーの現状と今年度の調達価格等算定委員会の論点案」（2023年10月）、右表につき資源エネルギー庁 「再生可能エネルギーに関する次世代技術について」 （2023年12月）ラウンド２公募結果を基に一部自然エネルギー財団加筆」（https://www.renewable-ei.org/pdfdownload/activities/202404_Offshorewindinfo.pdf）
-  - 「洋上風力発電の日本市場（2026年～2034年）、市場規模（固定基礎、浮動基礎）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/news/5516646）
-  - 「洋上風力発電の日本市場（2026年～2034年）、市場規模（固定基礎、浮動基礎）・分析レポートを発表」（https://newscast.jp/news/5516646）
-  - 「本調査会社は、この市場が2034年までに26億4522万米ドルに成長すると予測しており、2026年から2034年までの期間で年平均成長率（CAGR）11.85%を示すと見込んでいます」（https://newscast.jp/news/5516646）
-  - 「◼ 陸上風力発電については、2027年度の入札制の基本的な方向性（上限価格・入札対象）や2026年度にFIP制度のみ認め」（https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf）
-  - 「年度の基準価格、2027年度のFIP制度のみ認められる対象等に関して取りまとめたところ」（https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf）
+  - 「環境産業 市場136兆円、雇用296万人」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「環境省 2024年調査の推計結果公表 「環境産業の市場規模・雇用規模等に関する報告書」を毎年作成している環境省 […]」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「要素技術開発[上限約680億円]」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
+  - 「浮体式洋上風力実証[上限約1,420億円]」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
+  - 「・ 規模の大型化により、1機あたりの価格や建設費は増加するが、それ以上に発電量kWhあたりの発電コストが減少すると見込まれる」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
+  - 「出典）資源エネルギー庁 「国内外の再生可能エネルギーの現状と今年度の調達価格等算定委員会の論点案」（2023年10月）、右表につき資源エネルギー庁 「再生可能エネルギーに関する次世代技術について」 （2023年12月）ラウンド２公募結果を基に一部自然エネルギー財団加筆」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
+  - 「川崎汽船の新中計、31年度自営事業純利益1200億円＋α、5年間で1兆2500億円投資」（https://www.kaijipress.com/news/tramper/2026/08/203728/）
+  - 「川崎汽船・4～9月期、経常益ほぼ倍増の1183億円、ドライ・コンテナ好調」（https://www.kaijipress.com/news/tramper/2026/08/203728/）
+  - 「玉井商船・4～9月期、経常益14倍の6億5900万円」（https://www.kaijipress.com/news/tramper/2026/08/203728/）
+  - 「JMU、4～9月期経常益65%増の262億円、通期も増益見込む」（https://www.kaijipress.com/news/tramper/2026/08/203728/）
+  - 「CAGR（2026～2035年）」（https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market）
+  - 「JWPA資料では、足元の着床式洋上風力の発電コストを約22.4円/kWh、CAPEXを約90万円/kW、OPEXを約1.23万円/kW/年と整理している」（https://www.gridwatch.jp/policy/offshore-wind-industrial-base-cost-roadmap-january-2026）
+  - 「第3ラウンド公募の価格モデルより高い前提であり、案件完遂リスクを読む入口になる」（https://www.gridwatch.jp/policy/offshore-wind-industrial-base-cost-roadmap-january-2026）
+  - 「2040年に着床式30GWの案件形成、国内調達比率65%以上、人材4万人を目指し、2045年には発電コスト約13.4円/kWh、CAPEX約60万円/kW、OPEX約0.8万円/kW/年へ下げるロードマップが示された」（https://www.gridwatch.jp/policy/offshore-wind-industrial-base-cost-roadmap-january-2026）
+  - 「第111回 調達価格等算定委員会」（https://www.gridwatch.jp/policy/offshore-wind-industrial-base-cost-roadmap-january-2026）
 - 社会（人・担い手）：
-  - 「高度外国人材活躍支援」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「風車や基礎構造物などの製造、港湾整備や海洋施工、運転・保守といった幅広い産業が関与するため、多様な分野での雇用創出が期待される」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「技術発展・人材育成・投資促進の好循環を生み出す体制整備が求められるだろう」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「令和7年度「洋上風力発電人材育成事業費補助金」」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「洋上風力発電に関連する人材育成、洋上風力発電に必要な実験設備、風車設備の保守・訓練施設」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「高度外国人材を輩出する大学、その最前線に迫る」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「➢ 国内の洋上風力は未だ黎明期にあることから、今後、大規模化や案件形成、人材育成等を行うことによる産業基盤の構築を通じてコストダウンを」（https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf）
-  - 「⚫ 国内サプライチェーンの構築や人材育成等の産業基盤の確立はまだ緒についたばかり」（https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf）
-  - 「⚫ 2040年までに洋上風力関連人材」（https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf）
-  - 「洋上風力に関する人材育成支援事業」（https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf）
-  - 「⚫ 洋上風力の事業開発を担う人材 、エンジニア、専門作業員の育成に向け 、カリキュラム作成やトレーニング」（https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf）
-  - 「の雇用を創出」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
-  - 「⚫ 国内サプライチェーンの構築や人材育成等の産業基盤の確立はまだ緒についたばかり」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
-  - 「⚫ 人材育成支援」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
-  - 「⚫ 人材育成」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
+  - 「環境産業 市場136兆円、雇用296万人」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「環境省 2024年調査の推計結果公表 「環境産業の市場規模・雇用規模等に関する報告書」を毎年作成している環境省 […]」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「Proud Partners/総和運輸、海コン陸送で特定技能人財活用」（https://www.kaijipress.com/news/tramper/2026/08/203728/）
+  - 「るだけでなく、事業規模が大きく、産業の裾野も広いことから、建設や O&M を通じ雇用創出」（https://www.gxa.go.jp/news/.assets/20260406b.pdf）
+  - 「 地域に産業誘致した場合の経済波及効果を、工場投資額・サプライヤー供給額・雇用者数・雇用者の日常消費効」（https://www.gxa.go.jp/news/.assets/20260406b.pdf）
+  - 「系統接続や港湾などのボトルネック解消に向け、インフラへの公的投資と供給網・人材・環境面の支援策」（https://www.gxa.go.jp/news/.assets/20260406b.pdf）
+  - 「• 洋上風力で10万人の雇用計」（https://www.gxa.go.jp/news/.assets/20260406b.pdf）
+  - 「Skilled Worker Strategyに」（https://www.gxa.go.jp/news/.assets/20260406b.pdf）
+  - 「5.5万人の雇用創出を見据え」（https://www.gxa.go.jp/news/.assets/20260406b.pdf）
+  - 「9.4万人の雇用創出目標」（https://www.gxa.go.jp/news/.assets/20260406b.pdf）
+  - 「• 産業基盤脆弱であり、雇用創出が喫緊課題」（https://www.gxa.go.jp/news/.assets/20260406b.pdf）
+  - 「分野技能者）、電機系統の試」（https://www.gxa.go.jp/news/.assets/20260406b.pdf）
+  - 「• 間接雇用：鋼材、フランジ、」（https://www.gxa.go.jp/news/.assets/20260406b.pdf）
+  - 「人材育成を通じて原子力産業の基盤強化を目指す「日本原子力人財コンソーシアム」を設立します」（https://www.enecho.meti.go.jp/notice/news_release/2026/）
+  - 「The Shift to Automation: How Labor Shortages and Food Safety Standards Are Reshaping Seafood Processing」（https://www.seafoodsource.com/news/us-senate-bill-would-incentivize-offshore-wind-development-despite-trump-buyouts）
 - 技術（新しい技術・実証）：
-  - 「4-1 日本：案件形成と開発状況」（https://www.renewable-ei.org/activities/reports/20260820.php）
-  - 「5-4 日本：洋上風力発電の開発と漁業」（https://www.renewable-ei.org/activities/reports/20260820.php）
-  - 「Main Menu」（https://enehub.jp/news/equinor%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E4%BA%8B%E6%A5%AD%E3%81%8B%E3%82%89%E6%92%A4%E9%80%80/）
-  - 「また、2024年2月に撤退を表明したデンマークの再エネ開発企業Ørstedに続く、外資系大手企業の撤退となった」（https://enehub.jp/news/equinor%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E4%BA%8B%E6%A5%AD%E3%81%8B%E3%82%89%E6%92%A4%E9%80%80/）
-  - 「欧州では、デンマークやオランダを中心に1990年代から実証と商用化を進め、続いて英国やノルウェーも市場を拡大してきた歴史がある」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「浮体式は日本のように険しい海底地形を持つ国に適しており、実証が進めば将来的に国内への導入ポテンシャルは大きい」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「出所：国立研究開発法人産業技術総合研究所「産総研マガジン『洋上風力発電とは？―なぜ今注目されるのか―』」を基にジェトロ作成」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「日本風力開発協会によると、日本の本格洋上風力発電（陸上からの直接アクセスができず船を要するもの）の累積発電量は、2024年末で約253.4MWに達した」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「欧州ではこれまで、大型タービンの量産体制を確立したシーメンスガメサ（スペイン）やべスタス（デンマーク）が、早期から欧州各国に製造拠点を設置し、現地部品メーカーとの共同開発を進めることでサプライチェーンの強化に成功してきた実績がある」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「また、日本通運やDENZAIとも国内サプライチェーン強化を目的に協力覚書を締結するなど、日系企業との連携も進めている」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「こうした方針のもと、2024年3月に設立された浮体式洋上風力技術研究組合（FLOWRA）は欧州・米国をはじめとする海外諸機関との連携を重視し、浮体式の「低コスト化」や「量産化技術」の確立に取り組んでいる」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「浮体・ケーブルなどの要素技術開発や、EEZやアジア大洋州地域展開のための浮体式実証と、大水深における施工等の低コスト化」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「中部電力 国産洋上風力開発に参画 26年度上期、海域実証へ｜中部経済新聞 愛知・岐阜・三重・静岡の経済情報」（https://www.chukei-news.co.jp/news/2026/03/05/OK0002603050101_01/）
-  - 「中部電力 国産洋上風力開発に参画 26年度上期、海域実証へ」（https://www.chukei-news.co.jp/news/2026/03/05/OK0002603050101_01/）
-  - 「国産の浮体式洋上風力発電の開発を推進する（写真は中電の技術開発本部内）」（https://www.chukei-news.co.jp/news/2026/03/05/OK0002603050101_01/）
+  - 「変速振動なし、低騒音、低環境負荷──電動バス開発」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「浮体式ではさらに深い海域にも設置が可能なため、これまで設置が難しかった海域での開発が進んでいるのです」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「・開発、設置コストが高い」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「現在、日本国内には再エネ海域利用法（正式名称：海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律）に基づいて、10ヵ所の海域が浮体式・着床式洋上風力発電の推進区域の指定を受け、政府の支援のもと開発が進められています」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「https://econews.jp/knowledge/sustainable/13982/」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「東京ガスとエネグローバル、高圧太陽光35ヵ所・計25MWを共同開発、2027年4月から順次運開へ」（https://enehub.jp/news/equinor%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E4%BA%8B%E6%A5%AD%E3%81%8B%E3%82%89%E6%92%A4%E9%80%80/）
+  - 「カンエイとTERAS、2MW/4MWh蓄電所を共同開発、2027年4月運開予定」（https://enehub.jp/news/equinor%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E4%BA%8B%E6%A5%AD%E3%81%8B%E3%82%89%E6%92%A4%E9%80%80/）
+  - 「◼ 今後、海外展開に向けた更なる実証も進めていく」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
+  - 「要素技術開発[上限約680億円]」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
+  - 「浮体式洋上風力実証[上限約1,420億円]」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
+  - 「大水深(500m超級)実証」（https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf）
+  - 「**：2027年までに稼働済と開発中含む」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
+  - 「スペイン 洋上風力・海洋エネルギーロードマップ (Roadmap Offshore wind and Marine energy in Spain) 2030年までに 3GW（浮体式） 2021」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
+  - 「図4 欧州の洋上風力発電開発エリア（一部）」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
+  - 「図6 米国の洋上風力発電開発エリア（一部）」（https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf）
 - 検索結果の抜粋：
+  - 「洋上風力 発電市場規模：世界市場レポート 2026 ～2035年 — 洋上風力 発電市場規模：世界市場レポート 2026 ～2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > offshor...」（https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market）
+  - 「China's First Large-Scale 18-MW Offshore Wind Power Project ... — China's First Large-Scale 18-MW Offshore Wind Power Project ... Facebook https://www.facebook.com > ... > CCTV+ > Videos」（https://www.facebook.com/NewsContent.CCTVPLUS/videos/chinas-first-large-scale-18-mw-offshore-wind-power-project-starts-operationchina/1823455825348418/?locale=ja_JP）
+  - 「長崎で 日本 最大級の洋上風力イベント「Global Offshore Wind ... — 長崎で 日本 最大級の洋上風力イベント「Global Offshore Wind ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2026/11」（https://www.jetro.go.jp/biznews/2026/11/c9c75bde9c692a0e.html）
   - 「洋上風力 発電の動向 2026 ：世界と日本における現状 ... — 洋上風力 発電の動向 2026 ：世界と日本における現状 ... 自然エネルギー財団 https://www.renewable-ei.org > reports > 20260820」（https://www.renewable-ei.org/activities/reports/20260820.php）
   - 「Equinor、日本の 洋上風力 事業から撤退、東京事務所を 2026 ... — Equinor、日本の 洋上風力 事業から撤退、東京事務所を 2026 ... エネハブ https://enehub.jp > equinor日本の洋上風力事業から撤退」（https://enehub.jp/news/equinor%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E4%BA%8B%E6%A5%AD%E3%81%8B%E3%82%89%E6%92%A4%E9%80%80/）
   - 「日本の 洋上風力 産業（前編）国際連携で進める国内SC構築 — 日本の 洋上風力 産業（前編）国際連携で進める国内SC構築 ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biz > areareports > 2026」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
@@ -3987,140 +4066,137 @@
   - 「洋上風力 発電開発前支援 | NYSERDA — 洋上風力 発電開発前支援 | NYSERDA ja.nyserda.ny.gov https://ja.nyserda.ny.gov > 洋上風 > 2026年-開発準備段階」（https://ja.nyserda.ny.gov/%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%5D/%E6%B4%8B%E4%B8%8A%E9%A2%A8/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9%E3%82%A8%E3%83%AA%E3%82%A2/%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E7%99%BA%E9%9B%BB%E3%81%AE%E5%8B%A7%E8%AA%98/2026%E5%B9%B4-%E9%96%8B%E7%99%BA%E6%BA%96%E5%82%99%E6%AE%B5%E9%9A%8E）
   - 「3地域で 洋上風力 集積始動 地域未来戦略 政府、支援策具体化 — 3地域で 洋上風力 集積始動 地域未来戦略 政府、支援策具体化 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/788951）
   - 「China on April 7 put its deepest offshore wind farm into full ... — China on April 7 put its deepest offshore wind farm into full ... Facebook https://www.facebook.com > ... > CCTV+ > Videos」（https://www.facebook.com/NewsContent.CCTVPLUS/videos/china-on-april-7-put-its-deepest-offshore-wind-farm-into-full-capacity-operation/1833350104008508/）
-  - 「Offshore Wind North East Conference & Exhibition 2026 — Offshore Wind North East Conference & Exhibition 2026 Energy Global https://www.energyglobal.com > events」（https://www.energyglobal.com/events/offshore-wind-north-east-conference-exhibition-2026/）
-  - 「Global Offshore Wind Summit - Japan 2026 — Global Offshore Wind Summit - Japan 2026 Global Wind Energy Council (GWEC) https://www.gwec.net > events > gows-j」（https://www.gwec.net/events/gows-j）
-  - 「[Info Pack] Trends in Offshore Wind 2026 : Global ... — [Info Pack] Trends in Offshore Wind 2026 : Global ... 自然エネルギー財団 https://www.renewable-ei.org > reports」（https://www.renewable-ei.org/en/activities/reports/20260820.php）
 
 ## 小型モジュール炉（small modular reactor）
 - 文脈：12 GX ⑥次世代革新炉
 - 顧客（金を払う側）：
-  - 「政府公共調達データベース」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「）、両国の新規原子力発電所建設の迅速化、SMRの技術開発を行う米国のX-エナジー（X-Energy）やエネルギー大手セントリカ（Centrica）によるイングランド北東部ハートルプール市での先進モジュール炉（AMR）最大12基の建設計画を後押しするなど、米国企業による投資も進展している」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「本コースには企業向けの資金支援も用意されており、2026年度向けには企業から高い関心が寄せられている」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「24時間途切れないカーボンフリー電力を得るため、小型モジュール炉SMRの開発企業への出資や長期電力購入契約の締結が相次いでいます」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「米ニュースケール・パワーは米テネシー渓谷開発公社と最大6ギガワットの導入枠組みで合意しました」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「GE日立ニュークリア・エナジーもカナダで4基を受注しました」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「小型モジュール炉SMRは工場生産と現地組み立てを組み合わせることで工期を短縮し、出力を柔軟に調整できます」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「量産工場の資金不足と審査遅延という構造的摩擦」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「理論上の利点とは裏腹に、データセンター向け小型モジュール炉SMRの導入には高い障壁が存在します」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「小型モジュール炉SMRが経済性を発揮するための前提条件は、同一設計の炉を専用工場で連続生産することによる学習効果と規模の経済です」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「民間の原子力投資の大半は運転実績がある大型原子炉の延命や新設に配分されており、SMR専用工場の整備資金は不足しています」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「導入摩擦を緩和するため、データセンター事業者と開発企業が実務面で模索しているのが、閉鎖された石炭火力発電所の敷地やインフラを再利用する戦略です」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「データセンター事業者が小型モジュール炉SMRの調達を本格化させるか否かは、カナダ、米国、英国で進む初号機プロジェクトの完工精度にかかっています」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「自然エネルギー導入状況」（https://www.renewable-ei.org/activities/column/REupdate/20231120.php）
-  - 「小型モジュール炉（SMR）開発の世界的パイオニアであるニュースケール社は最近、最初に完成させるはずだったプロジェクトを、開発を継続するために必要な顧客を確保できないために中止すると発表した」（https://www.renewable-ei.org/activities/column/REupdate/20231120.php）
+  - 「50〜300 MWe級のSMRは、1,000〜1,600 MWeの従来型原子炉と同等の送電網拡張を直ちに必要とせず、地域の需要に合わせて段階的に導入できる」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「注文住宅メーカー28社比較」（https://diamond.jp/zai/articles/-/1051137）
+  - 「SMRは、主要部分をモジュール化して工場生産することで、」（https://diamond.jp/zai/articles/-/1051137）
+  - 「のドミンゲスCEO、次世代原子力発電所の開発を進める米国のベンチャー企業」（https://diamond.jp/zai/articles/-/1051137）
+  - 「は、米国のオープンAIの創業者アルトマンCEOが2025年の4月まで会長を務めていた企業で、小型モジュール炉（SMR：Small Modular Reactor）の開発を進めています」（https://diamond.jp/zai/articles/-/1051137）
+  - 「設計がモジュール化されているのが特徴で、工場で生産された原子炉の主要部分を建設現場で組み立てる工法を取ることで、」（https://diamond.jp/zai/articles/-/1051137）
+  - 「また、万が一、電源が遮断されてポンプなどが稼働しなくなっても、重力や自然対流で原子炉を安全に停止・冷却する「受動的安全システム」を採用しているため、」（https://diamond.jp/zai/articles/-/1051137）
+  - 「SMRの製造・開発支援を行っている企業を選定しました」（https://diamond.jp/zai/articles/-/1051137）
+  - 「なお、今回受注した初号機向けのほか、2〜4号機についても受注を目指すとしています」（https://diamond.jp/zai/articles/-/1051137）
+  - 「は、米国のSMR開発企業」（https://diamond.jp/zai/articles/-/1051137）
+  - 「格納容器には、従来の原子炉施設では使用実績の少ない高強度の特殊材料が採用されており、品質確保と施工性を両立した新しい溶接技術の研究を進めています」（https://diamond.jp/zai/articles/-/1051137）
+  - 「 大型発電所新設が困難な国や地域への導入」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
+  - 「2-4 導入検討国」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
+  - 「 世界でSMR導入に関心を示す国は、東欧を中心に多くある」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
+  - 「 斗山重工業は主要機器を供給し、関係企業とで1億ドル強を出資」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
 - 顧客の顧客（発注元が求めること）：
-  - 「基準・認証、ルール形成戦略」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「基準・認証、規制」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「現在、国内で初めて建設される原子炉設計に対して行う包括的設計認証審査（Generic Design Assessment、GDA）の、一般的な安全、保安、環境保護に関する事例を抽出して詳細に評価する段階（ステップ3）にある」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「脱炭素化に伴う石炭火力発電所の閉鎖と再生可能エネルギーの拡大により、送電網を支える基底電源が減少しています」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「脱炭素化に伴い石炭火力発電所の閉鎖が進む一方、天候依存の太陽光や風力発電が急増しています」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「気象に左右されない基底電源として、脱炭素と安定稼働を両立させる現実的な選択肢となっています」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「脱炭素を目指す手段として重要性高まる「小型モジュール炉（SMR）」が注目される背景と展望 | サイエンス リポート | TELESCOPE magazine | 東京エレクトロン」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「脱炭素を目指す手段として重要性高まる「小型モジュール炉（SMR）」が注目される背景と展望」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「しかし、脱炭素化とエネルギー安全保障は、いずれも直近で対処すべき課題であり、比較的即効性のある原子力活用の施策の導入を考える必要が出てきている」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「「脱炭素社会の実現」と「エネルギー安全保障」という2つの課題には、太陽光や風力など再生可能エネルギーの活用推進でも対処できそうなものだ」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「このため、ベースロード電源として利用可能で、かつ脱炭素電源である原子力の適用が急浮上してきた」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「再エネの適地が限られる日本において、省スペースで設置可能なSMRは現実的な「脱炭素の切り札」として位置付けられている」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「この点は、世界の脱炭素化やエネルギー安全保障を論じる上でも、重要な論点になりそうだ」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「経済産業省総合資源エネルギー調査会 資源・燃料分科会 脱炭素燃料政策小委員会 委員他」（https://www.wsew.jp/hub/ja-jp/blog/article_69.html）
-  - 「産業の脱炭素化要件」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「カナダでは、脱炭素の観点からも原子力発電が重要電源と位置付けられており、SMRの導入に向けた技術開発が積極的に行われています」（https://diamond.jp/zai/articles/-/1051137）
+  - 「「メタネーション」関連銘柄を紹介！ カーボンニュートラルなガス燃料「e-メタン」を製造し、都市ガスの脱炭素化を飛躍的に進める新ビジネスの成長に期待！」（https://diamond.jp/zai/articles/-/1051137）
+  - 「基準・認証、ルール形成戦略」（https://www.jetro.go.jp/biznews/2026/07/6aa54d781384bf8a.html）
+  - 「基準・認証、規制」（https://www.jetro.go.jp/biznews/2026/07/6aa54d781384bf8a.html）
+  - 「PEJは10月8日、WE社に対し、EJ1初号機について長納期品の調達開始を指示した」（https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375）
+  - 「原子力施設向け品質保証規格NQA-1への適合認証の取得や試作モジュールの製造などで、原子力安全関連の製造に必要な各社の能力が確認され次第、正式な発注に進む方針」（https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375）
+  - 「経済産業省は10月30日、脱炭素電源を活用した設備投資を支援する「GX地域共創補助金」の第1回公募について、11件の採択事業を発表した」（https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375）
+  - 「同補助金は、脱炭素電源を活用した新たな産業クラスターの創出を目指す「GX戦略地域制度」の一環」（https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375）
+  - 「脱炭素電源を100％活用し、電源立地地域に貢献する製造業やデータセンターの設備投資を支援する」（https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375）
+  - 「今回の補助金は、地域の認定とは別に、脱炭素電源を活用する事業者の設備投資を支援するもの」（https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375）
+  - 「そのうえで、従来のエネルギー供給に加え、脱炭素社会の構築や経済安全保障、国家安全保障といった新たな価値が求められていると指摘」（https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375）
+  - 「これらグローバルサウス諸国の多くは、エネルギー安全保障と脱炭素電源の確保を一体的に解決するため、原子力発電の利用を検討しており、特に、今後、世界的な導入の拡大が見込まれている小型モジュール炉に対して高い関心を寄せています」（https://www.enecho.meti.go.jp/appli/public_offer/2025/0204_01.html）
+  - 「GX2040ビジョン(令和7年2月閣議決定)では、「脱炭素電源としての原子力を活用していくため、原子力の安全性向上を目指し、新たな安全メカニズムを組み込んだ次世代革新炉の開発・設置に取り組む」とともに「次世代革新炉の研究開発等を進めるとともに、サプライチェーン・人材の維持・強化に取り組む」とされています」（https://www.teitanso.or.jp/nextnuc/）
+  - 「世界が脱炭素にかじを切る中で温暖化ガスを排出しない次世代の電源として期待される」（https://www.nikkei.com/topics/22A00698）
+  - 「豊田通商、再生材サプライヤーへ進化 金属スクラップで世界トップへ」（https://www.nikkei.com/topics/22A00698）
 - 顧客の競合（奪いに来る側）：
-  - 「英国政府、北ウェールズで英国初の小型モジュール炉建設へ(米国、英国) | ビジネス短信 ―ジェトロの海外ニュース - ジェトロ」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「米国関税措置への対応」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「インドネシア」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「（英国、米国）」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「民間投資に関しては、英国政府は米国と規制当局間で原子力協定を締結し（」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「）、両国の新規原子力発電所建設の迅速化、SMRの技術開発を行う米国のX-エナジー（X-Energy）やエネルギー大手セントリカ（Centrica）によるイングランド北東部ハートルプール市での先進モジュール炉（AMR）最大12基の建設計画を後押しするなど、米国企業による投資も進展している」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「ただし、商用運転の実績を持つ施設はロシアの浮動式炉や中国の高温ガス炉など一部に限られます」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「データセンター事業者が小型モジュール炉SMRの調達を本格化させるか否かは、カナダ、米国、英国で進む初号機プロジェクトの完工精度にかかっています」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「ニュースケール社の原子炉の初期バージョンは、米国当局から設計の承認を得ることができた」（https://www.renewable-ei.org/activities/column/REupdate/20231120.php）
-  - 「同社は、米国エネルギー省から14億ドル（約2000億円）の補助金を受け」（https://www.renewable-ei.org/activities/column/REupdate/20231120.php）
-  - 「安全で、安価で、短時間で建設できる小型のモジュール式原子炉というビジョンが、信用を取り戻すのは難しいだろう」（https://www.renewable-ei.org/activities/column/REupdate/20231120.php）
-  - 「小型で安全かつ安価な原子炉を信じることのリスクは、実際に原子炉が建設され、新設の自然エネルギーと競合してしまうことではない」（https://www.renewable-ei.org/activities/column/REupdate/20231120.php）
-  - 「すでに1970年に、原子力のパイオニアであるハイマン・リコバーが米国議会で証言し、「机上の原子炉（academic reactors）」は小型でシンプルで柔軟性があり建設が早く安価である、しかし決して建設されることはない、と断言した」（https://www.renewable-ei.org/activities/column/REupdate/20231120.php）
-  - 「米国原子力規制委員会（NRC）の」（https://www.renewable-ei.org/activities/column/REupdate/20231120.php）
-  - 「米国ではAmazonやGoogleが、SMR開発企業への投資や電力購入契約を相次いで発表している」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
+  - 「米国原子力規制委員会（U.S. NRC）の手続きには、建設許可と運転認可の審査が含まれる一方、情報不足によって各段階が長期化する可能性がある」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「PWR設計は2025年に31%のシェアを占め、年平均成長率（CAGR）16.3%で成長すると予測されます」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「成長する米国＆世界に投資する最強のFIRE計画」（https://diamond.jp/zai/articles/-/1051137）
+  - 「将来の電力需要の増加に備え、米国が原子力エネルギーでの優位性を取り戻すことを目指しています」（https://diamond.jp/zai/articles/-/1051137）
+  - 「ホワイトハウスで行われた署名には、バーガム内務長官とヘグセス国防長官、米国のエネルギー大手」（https://diamond.jp/zai/articles/-/1051137）
+  - 「のドミンゲスCEO、次世代原子力発電所の開発を進める米国のベンチャー企業」（https://diamond.jp/zai/articles/-/1051137）
+  - 「は、米国のオープンAIの創業者アルトマンCEOが2025年の4月まで会長を務めていた企業で、小型モジュール炉（SMR：Small Modular Reactor）の開発を進めています」（https://diamond.jp/zai/articles/-/1051137）
+  - 「SMRを推進しているのは米国だけではありません」（https://diamond.jp/zai/articles/-/1051137）
+  - 「米国のニュースケール・パワーが開発するSMRに技術開発で貢献」（https://diamond.jp/zai/articles/-/1051137）
+  - 「は、米国のSMR開発企業」（https://diamond.jp/zai/articles/-/1051137）
+  - 「は、米国の子会社NAC Internationalが原子力発電所の使用済燃料や放射性廃棄物の輸送・貯蔵用機器に関し、設計から輸送、管理業務まで総合的なサービスを提供しています」（https://diamond.jp/zai/articles/-/1051137）
+  - 「は2022年3月、米国の子会社である三菱電機パワー・プロダクツを通じ、米国の大手エネルギー技術会社ホルテック・インターナショナルと、開発中のSMR「SMR-160」向けの計装制御システムに関する設計契約を締結」（https://diamond.jp/zai/articles/-/1051137）
+  - 「米国の小型モジュール炉製造業界の動向と主な小型モジュール炉プレーヤーの概要｜Better Equation Research」（https://note.com/better_equation/n/nee581878d4c5）
+  - 「米国の小型モジュール炉製造業界の動向と主な小型モジュール炉プレーヤーの概要」（https://note.com/better_equation/n/nee581878d4c5）
+  - 「米国の小型モジュール炉（SMR）製造業界は、伝統的な原子力発電の建設産業モデルから、標準化された設計と工場生産を中核に据える製造業モデルへ移行しようとしている局面にあります」（https://note.com/better_equation/n/nee581878d4c5）
 - 自社の競合（商社・代理店・仲介）：
+  - 「手数料、取引ツールetc.で総合比較！ おすすめネット証券はココだ！」（https://diamond.jp/zai/articles/-/1051137）
+  - 「取引報告書などを電子交付するだけで、現物取引、信用取引に加え、単元未満株の売買手数料まで0円になるので、売買コストに関しては圧倒的にお得な証券会社と言える」（https://diamond.jp/zai/articles/-/1051137）
+  - 「米国株の売買手数料が最低0米ドルから取引可能になのも魅力」（https://diamond.jp/zai/articles/-/1051137）
+  - 「◆【SBI証券の特徴とおすすめポイントを解説！】株式投資の売買手数料の安さは業界トップクラス！ IPOや米国株、夜間取引など、商品・サービスも充実」（https://diamond.jp/zai/articles/-/1051137）
+  - 「国内株式の現物取引と信用取引の売買手数料が完全無料（0円）！」（https://diamond.jp/zai/articles/-/1051137）
+  - 「株の売買コストについては、同じく売買手数料無料を打ち出したSBI証券と並んで業界最安レベルとなった」（https://diamond.jp/zai/articles/-/1051137）
+  - 「◆【楽天証券の特徴とおすすめポイントを解説！】売買手数料が安く、初心者にもおすすめの証券会社！ 取引や投資信託の保有で「楽天ポイント」を貯めよう」（https://diamond.jp/zai/articles/-/1051137）
+  - 「◆クレカ積立の還元率が最大7％の｢三菱UFJ eスマート証券｣のおすすめポイントを解説！ 日本株の売買手数料が完全無料＋クレカ積立の還元率も業界トップクラス」（https://diamond.jp/zai/articles/-/1051137）
+  - 「従来から売買手数料の安さがウリだったが、2025年9月からネット取引の場合、」（https://diamond.jp/zai/articles/-/1051137）
+  - 「国内株式（現物・信用取引）と投資信託の売買手数料が完全無料に！」（https://diamond.jp/zai/articles/-/1051137）
+  - 「「AI Highlight Agent」のベータ版を提供開始」（https://www.atpress.ne.jp/news/9798881）
+  - 「・総合商社、プラントエンジニアリング、重工・タービンメーカー、電力・ガス会社の新規事業開発・R&D・戦略投資担当者」（https://note.com/saidatomoya/n/n05759510e4fb）
   - 「European Commission, “European SMR Strategy,” ec.europa.eu」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
   - 「Canadian Nuclear Safety Commission, “Darlington New Nuclear Project,” cnsc-ccsn.gc.ca」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
   - 「U.S. Nuclear Regulatory Commission, “Part 53 Regulatory Framework,” nrc.gov」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
-  - 「その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
-  - 「https://www.nrc.gov/reading-rm/doc-collections/commission/slides/2014/20141105/glaser-11-05-14.pdf」（https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%9E%8B%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E7%82%89）
-  - 「U.S. Nuclear Regulatory Commission」（https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%9E%8B%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E7%82%89）
-  - 「Commissioned Research :」（https://www.atpress.ne.jp/news/9798881）
-  - 「https://www.reportocean.co.jp/commissioned-research-services」（https://www.atpress.ne.jp/news/9798881）
-  - 「「現物株手数料」で選ぶ！」（https://diamond.jp/zai/articles/-/1068973）
-  - 「「株式売買手数料」で選ぶ！」（https://diamond.jp/zai/articles/-/1068973）
-  - 「「コンビニATM＆振込手数料」で選ぶ！」（https://diamond.jp/zai/articles/-/1068973）
-  - 「大手不動産仲介は「囲い込み」が蔓延?!」（https://diamond.jp/zai/articles/-/1068973）
-  - 「手数料、取引ツールetc.で総合比較！ おすすめネット証券はココだ！」（https://diamond.jp/zai/articles/-/1068973）
-  - 「株式売買手数料」（https://diamond.jp/zai/articles/-/1068973）
-  - 「国内株式の売買手数料が完全無料」（https://diamond.jp/zai/articles/-/1068973）
 - 政治（法・予算・規制）：
-  - 「英国政府、北ウェールズで英国初の小型モジュール炉建設へ(米国、英国) | ビジネス短信 ―ジェトロの海外ニュース - ジェトロ」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「世界各国の関税率」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「政府公共調達データベース」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「米国関税措置への対応」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「英国政府、北ウェールズで英国初の小型モジュール炉建設へ」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「基準・認証、規制」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「英国政府は11月13日、」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「政府機関のグレート・ブリティッシュ・エナジー・ニュークリア（GBE-N、注1）が2026年に建設を開始し、ロールスロイスの子会社ロールスロイスSMR（注2）が設計を担う」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「また、政府はGBE-Nに対し、イングランド南西部サマセット州のヒンクリーポイントCやイングランド東部サフォーク州のサイズウェルCに加え、さらなる大規模原子炉プロジェクトの選択肢を追求するため、候補地の特定を指示した」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「民間投資に関しては、英国政府は米国と規制当局間で原子力協定を締結し（」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「加えて、各国の規制当局による安全審査の長期化がコスト高を招いています」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「これらの実証案件が計画された予算と工程の枠内で運転開始まで到達できるかどうかが、後続投資を判断する基準となります」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「反対に、初号機の段階で工期の遅れや予算超過が発生すれば、民間資金の流入は停滞し、事業者は蓄電池や地熱など代替電源へのシフトを余儀なくされます」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「第二に、原子力規制委員会による審査体制の整備と、新規立地に対する地域合意の難しさです」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「技術的な仕様にとどまらず、立地国の規制環境や社会構造にいかに整合させられるかが、小型モジュール炉SMRの実装可能性を測る試金石となるでしょう」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
+  - 「（注1）2023年7月に設立した原子力産業を支援する政府機関」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
+  - 「NuScaleは規制上の節目を維持しているものの、2023年のプロジェクト中止を受けて国際的な事業展開に軸足を移した」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「2026年6月：米国原子力規制委員会（NRC）は、ワイオミング州ケメラーで建設されるNatriumについて、TerraPowerに商用SMRの建設許可を発給した」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「日本政府も「GX実現に向けた基本方針2024」などで、」（https://diamond.jp/zai/articles/-/1051137）
+  - 「カナダのオンタリオ州政府は5月8日、SMRの建設計画を承認したと発表」（https://diamond.jp/zai/articles/-/1051137）
+  - 「日本政府も2025年2月、「GX実現に向けた基本方針2024」と「第7次エネルギー基本計画」を閣議決定し、「新たな安全メカニズムを組み込んだ次世代革新炉の開発・建設に取り組む」という方針を明らかにしています（※「GX」とは「グリーントランスフォーメーション」の略で、化石燃料に頼らず、太陽光や水素など自然環境に負荷の少ないエネルギーの活用を進める活動のこと）」（https://diamond.jp/zai/articles/-/1051137）
+  - 「国際エネルギー機関（IEA）が2025年1月に発表した報告書「原子力エネルギーの新時代への道」は、今後、SMRが原子力エネルギーの新時代を実現するうえで重要な役割を果たすとしており、各国政府の支援強化があれば」（https://diamond.jp/zai/articles/-/1051137）
+  - 「｢データセンター向け蓄電池｣関連銘柄を紹介！ 消費電力の変動が激しいAIサーバーへの電力供給や非常用電源に必須な｢蓄電池｣は政府も注力する“国策テーマ”！（2026.10.30）」（https://diamond.jp/zai/articles/-/1051137）
+  - 「｢光電融合｣関連銘柄を解説！ 電気信号を光信号に置き換えることで、データセンターなどの消費電力を大幅削減できる｢光電融合｣は政府も注力する国策テーマ！（2026.10.09）」（https://diamond.jp/zai/articles/-/1051137）
+  - 「 開発段階において規制との意見交換ができ、事業の予見性が高まる」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
+  - 「 英国では政府のAMR開発資金の援助、カナダでは、カナダ原子力研究」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
+  - 「 政府、州、事業者が一体となり現在、積極的にSMR開発を進めている」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
+  - 「• 連邦制であり、かつ憲法上の規程により、エネルギーミックスは州政府の権限」（https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf）
+  - 「• 規範的（prescriptive）ではない、technology neutralな規制基準」（https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf）
+  - 「政策面では、ロシア産ウランの輸入制限が法律化され、米国内の燃料サプライチェーン再構築が加速しています」（https://note.com/better_equation/n/nee581878d4c5）
 - 経済（規模・価格・為替）：
-  - 「英国ではサイズウェルC原子力発電所の建設承認や、2025年度歳出見直し（Spending Review）で核融合への25億ポンド（5,100億円、1ポンド＝約204円）の投資が決定されるなど（」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「同リポートは、人工知能の急速な普及に伴うデータセンターの電力消費急増とエネルギー安全保障の強化を背景に、小型モジュール炉SMRへの累積投資額が2040年までに1,514億5,000万ドルに達し、同年に18.65ギガワットが稼働すると予測しています」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「さらに、2022年のロシアによるウクライナ侵攻以降、燃料価格の乱高下に直面した各国では、輸入に頼らない自国内の安定電源を再評価する機運が高まりました」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「量子コンピュータ市場規模が2027年に10億ドル超へ！金融主導の成長とスタートアップ淘汰の現実」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「同社は、米国エネルギー省から14億ドル（約2000億円）の補助金を受け」（https://www.renewable-ei.org/activities/column/REupdate/20231120.php）
-  - 「問題なのは、大型原子炉の建設には1基数千億円以上も必要で、太陽光発電や風力発電の何倍も高い電気を発電することになることだ」（https://www.renewable-ei.org/activities/column/REupdate/20231120.php）
-  - 「例えば、アメリカでは、SMRの技術開発支援として、NuScale社へ約1355億円の支援を行いました※」（https://www.wsew.jp/hub/ja-jp/blog/article_69.html）
-  - 「イギリスでは革新原子力ファンド内で、SMR開発に約322億円を充てており※、フランスや韓国など、その他の国々でも政府支援が実施されています」（https://www.wsew.jp/hub/ja-jp/blog/article_69.html）
-  - 「小型モジュール炉市場規模・成長レポート、2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
-  - 「世界の小型モジュール炉（SMR）市場は、2025年に36億米ドルと評価され、2026年から2035年にかけて年平均成長率（CAGR）12.7%で拡大し、2035年までに156億米ドルに達すると予測されている」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
-  - 「Global Market Insights Inc.が発表した最新レポートによると、市場規模は2026年に53億米ドルに達する」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
-  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
-  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
-  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
-  - 「年平均成長率（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「秘密鍵が盗まれていないのになぜ20分で1兆円が消えた？開発者PCが狙われた手口をSOC・エンジニア・CSIRT向けにAI OSINT解説」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
+  - 「NuScaleのCarbon Free Power Projectが中止された事例では、推定発電価格が58米ドル/MWhから89米ドル/MWhに上昇したことにより、モジュール型プロジェクトにおける電力引き取りの確実性不足が及ぼす影響が明らかになった」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「1億円を目指す「マネ活!」実践講座」（https://diamond.jp/zai/articles/-/1051137）
+  - 「【日本株】5期以上も連続増している｢高配当5万円株｣の2銘柄！ 配当利回り＝3.3％＋優待でお米がもらえる｢ソルクシーズ｣、利回り＝4.2％の｢鎌倉新書｣に注目！」（https://diamond.jp/zai/articles/-/1051137）
+  - 「【日本株】好業績な“国内で稼ぐ株”の2銘柄！ 営業利益が84％増益予想の｢ユナイテッド･スーパーマーケットHD｣、今期は“売上高1兆円”予想の｢スギHD｣に注目」（https://diamond.jp/zai/articles/-/1051137）
+  - 「1日の約定金額の合計が50万円以下であれば売買手数料が無料」（https://diamond.jp/zai/articles/-/1051137）
+  - 「◆【松井証券のおすすめポイントは？】1日50万円以下の株取引は手数料0円（無料）！ その他の無料サービスと個性派投資情報も紹介」（https://diamond.jp/zai/articles/-/1051137）
+  - 「1日定額プランなら1日100万円まで無料」（https://diamond.jp/zai/articles/-/1051137）
+  - 「1日50万円の取引まで「売買手数料無料」で」（https://diamond.jp/zai/articles/-/1051137）
+  - 「1日50万円までの取引」（https://diamond.jp/zai/articles/-/1051137）
+  - 「繊維リサイクル市場、2035年に165億8000万米ドル規模へ拡大予測、CAGR 6.6％、サステナブルファッションと循環型経済が牽引する市場成長の展望」（https://www.atpress.ne.jp/news/9798881）
+  - 「これにより、7月21日に福井県で可決された核燃料税の引き上げに関する条例が、11月10日から施行され、福井県の核燃料税は価格割((発電用原子炉に挿入された原子燃料に課す))、出力割((熱出力に課すが、廃止措置中の税率は２分の１))、搬出促進割((５年を超えて貯蔵されている使用済み燃料に課す))の3種全てで全国最高税率となる」（https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375）
+  - 「価格割は従来の原子燃料の価額の8.5%から9.0%に、出力割は1,000kWにつき年間204,800円から260,000円に、搬出促進割は重量1kgあたり1,500円から2,000円に変更となる」（https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375）
+  - 「2026年度当初予算に400億円を計上し、5年間で総額2,100億円の支援を行う」（https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375）
+  - 「原子力を活用する事業のうち「製造設備投資型」では、日本触媒が採択され、約28億円の補助金交付を申請している」（https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375）
 - 社会（人・担い手）：
-  - 「高度外国人材活躍支援」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「ウィルファが選ばれた背景には、1960年代から原子力発電の実績があり、高度な技能を有する地元人材が多いことや、地域コミュニティが建設に協力的であることが挙げられる」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「また、原子力発電所を支える人材開発も強化される」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「原子力関連の人材不足に対応するためで、2025年度募集コースはすでに定員に達している」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「火力発電所の閉鎖で税収や雇用が縮小する自治体にとっても、同じ敷地で小型モジュール炉SMRとデータセンターを受け入れることは地域経済の維持につながります」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「さらに、新技術ゆえの不確実性（設計、規制、人材、実績不足）が存在する」（https://www.tel.co.jp/museum/magazine/report/202601_02/）
-  - 「人材育成・確保」（https://www.jaif.or.jp/information/worldsmr20260520/）
-  - 「人材育成の促進」（https://www.jaif.or.jp/information/worldsmr20260520/）
-  - 「人材確保の支援」（https://www.jaif.or.jp/information/worldsmr20260520/）
-  - 「原子力人材育成ネットワーク」（https://www.jaif.or.jp/information/worldsmr20260520/）
-  - 「この既存基盤があるため、運転・保守人材、規制当局の知見、原子力品質の産業基盤が一定程度残っていることが、他国と比べた米国の相対優位になります」（https://note.com/better_equation/n/nee581878d4c5）
-  - 「また、プロジェクトに投資することで、英国内の雇用確保や原子力サプライチェーンの強化にも貢献します」（https://diamond.jp/zai/articles/-/1068973）
-  - 「来週（11/2〜11/6）の日経平均株価の予想レンジは6万1000～6万5000円！ 米・中間選挙や雇用統計、アップル決算、さらに金融政策や金利の動向に注目！」（https://diamond.jp/zai/articles/-/1068973）
-  - 「一般社団法人日本技術者連盟はプロフェッショナル人材の国際活動支援機関です」（http://www.jef-site.or.jp/）
-  - 「人材戦略の実態を調査します」（http://www.jef-site.or.jp/）
+  - 「来週（11/2〜11/6）の日経平均株価の予想レンジは6万1000～6万5000円！ 米・中間選挙や雇用統計、アップル決算、さらに金融政策や金利の動向に注目！」（https://diamond.jp/zai/articles/-/1051137）
+  - 「インド太平洋地域におけるSMRプロジェクトの開発支援や、原子力人材の育成を目的としたSMR地域トレーニングなどに活用される予定だ」（https://www.jetro.go.jp/biznews/2026/07/6aa54d781384bf8a.html）
+  - 「日本患者移送機器市場、2035年に14億9320万米ドルへ拡大、CAGR 5.35％、高齢化の進展と医療施設における患者搬送需要の増加が市場成長を促進」（https://www.atpress.ne.jp/news/9798881）
+  - 「東アジア原子力フォーラムが開催 運転期間延長と人材育成で議論」（https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375）
+  - 「SMRの導入には、知識の蓄積、専門人材の育成、組織能力の強化が不可欠であるとし、本ワークショップを通じて、国際的なベストプラクティスを学び、将来の意思決定に必要な能力向上が図られることに期待を示した」（https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375）
+  - 「M. ブラウン州知事は、CANDU炉の検討について、低廉な電力と高度技能の雇用創出を重視すると表明」（https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375）
+  - 「SMRや軍施設への導入計画についても、雇用を創出し、送電網や国家安全保障を強化する先進原子力技術で全米をリードし、先進原子力分野での州の地位向上につながると期待を寄せている」（https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375）
+  - 「今後、立地、資金調達、電力購入契約、人材育成、送電網への統合などを評価する」（https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375）
+  - 「同発電所は地域の送電網およびAmazonのデータセンターに電力を供給し、建設時に1,000人超、運転段階で100人超の雇用が見込まれている」（https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375）
+  - 「両社は既存発電所のインフラや地域人材を活用しながら、安定した低炭素電力の供給によるエネルギー安全保障の強化と地域経済の発展をめざしている」（https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375）
+  - 「2026年5月、リハチョフ総裁は、プラボウォ大統領と会談し、原子力の平和利用における協力の見通しについて、原子力発電プロジェクトの開発、人材育成、原子力技術の非エネルギー分野への応用などの観点から、幅広く協議した」（https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375）
+  - 「2021年12月末には、オルキルオトに建設中の同施設の操業許可を雇用経済省に申請していた」（https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375）
+  - 「IHIは原子力事業を成長分野と位置付けており、海外市場を視野に入れ、生産体制や人材の強化、次世代炉分野への投資を進める方針を示している」（https://www.jaif.or.jp/journal/news?doing_wp_cron=1793846968.5744740962982177734375）
+  - 「これらグローバルサウス諸国の多くは原子力発電未導入国であるため、核不拡散等に関する体制整備、原子力損害賠償制度等に関する法制度整備、原子力安全規制、原子力発電所の運転及び保守・管理に必要な人材育成等、原子力発電を導入するための基盤整備が不可欠です」（https://www.enecho.meti.go.jp/appli/public_offer/2025/0204_01.html）
+  - 「GX2040ビジョン(令和7年2月閣議決定)では、「脱炭素電源としての原子力を活用していくため、原子力の安全性向上を目指し、新たな安全メカニズムを組み込んだ次世代革新炉の開発・設置に取り組む」とともに「次世代革新炉の研究開発等を進めるとともに、サプライチェーン・人材の維持・強化に取り組む」とされています」（https://www.teitanso.or.jp/nextnuc/）
 - 技術（新しい技術・実証）：
-  - 「）、両国の新規原子力発電所建設の迅速化、SMRの技術開発を行う米国のX-エナジー（X-Energy）やエネルギー大手セントリカ（Centrica）によるイングランド北東部ハートルプール市での先進モジュール炉（AMR）最大12基の建設計画を後押しするなど、米国企業による投資も進展している」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「また、原子力発電所を支える人材開発も強化される」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「生成AIの普及に伴い、データセンターを運営する米ハイパースケーラー各社が原子力エネルギーの確保に動いています」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「24時間途切れないカーボンフリー電力を得るため、小型モジュール炉SMRの開発企業への出資や長期電力購入契約の締結が相次いでいます」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「開発陣営でも案件の具体化が進んでいます」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「米ニュースケール・パワーは米テネシー渓谷開発公社と最大6ギガワットの導入枠組みで合意しました」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「長期の運転実績が存在しない新技術に対し、民間銀行が低利の融資を提供することに慎重な姿勢を崩していない点も影響しています」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「導入摩擦を緩和するため、データセンター事業者と開発企業が実務面で模索しているのが、閉鎖された石炭火力発電所の敷地やインフラを再利用する戦略です」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「これらの実証案件が計画された予算と工程の枠内で運転開始まで到達できるかどうかが、後続投資を判断する基準となります」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「IOWN Global Forum「FUTURES」で合意されたモビリティAI連携とギガワット級計算基盤を支える光技術」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「ハーネスエンジニアリングとは何か 自律型AIの収益化と統制を両立する新基盤の全体像」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「1ラック1MW時代、AIデータセンターの設計思想はどう変わるか」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「小型モジュール炉（SMR）開発の世界的パイオニアであるニュースケール社は最近、最初に完成させるはずだったプロジェクトを、開発を継続するために必要な顧客を確保できないために中止すると発表した」（https://www.renewable-ei.org/activities/column/REupdate/20231120.php）
-  - 「ニュースケール社は、安全要件を満たし、リーズナブルなコストで電力を生産し、迅速に建設できる小型原子炉の設計開発に成功した企業の例として、しばしば脚光を浴びてきた」（https://www.renewable-ei.org/activities/column/REupdate/20231120.php）
-  - 「しかし、このバージョンの建設費はあまりに高くついたため、もう少し大きな原子炉の方が経済的に有利になると考え、より大きな原子炉の開発が進められてきた」（https://www.renewable-ei.org/activities/column/REupdate/20231120.php）
+  - 「例えば、日本原子力研究開発機構が開発を進めるナトリウム冷却高速炉では、事故時に制御棒が重力で落下し、自然に核反応が止まるシステムが想定されています※」（https://www.wsew.jp/hub/ja-jp/blog/article_69.html）
+  - 「Open Compute Projectの経済効果と課題、TCO削減とAI基盤構築の最新調査」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
+  - 「複数基展開を志向するプロジェクトと、後続発注が確約されていない単独の実証プロジェクトとの間には、格差が拡大すると予想されます」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「これは、ナトリウム冷却型および鉛冷却型の設計で、より長期の開発・認可サイクルが必要となるためです」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「Kairos PowerのKP-FHR、Terrestrial EnergyのIMSR、SeaborgのCMSRは、高温用途および沿岸用途に対応しています」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「「SMR(小型モジュール炉)」関連銘柄を紹介！ AIの発展に伴って電力需要が増加する中、工期短縮とコスト削減を実現する次世代の原発「SMR」関連株を解説｜「お宝銘柄」発掘術！｜ザイ・オンライン」（https://diamond.jp/zai/articles/-/1051137）
+  - 「＞ 「SMR(小型モジュール炉)」関連銘柄を紹介！ AIの発展に伴って電力需要が増加する中、工期短縮とコスト削減を実現する次世代の原発「SMR」関連株を解説」（https://diamond.jp/zai/articles/-/1051137）
+  - 「「SMR(小型モジュール炉)」関連銘柄を紹介！ AIの発展に伴って電力需要が増加する中、工期短縮とコスト削減を実現する次世代の原発「SMR」関連株を解説」（https://diamond.jp/zai/articles/-/1051137）
+  - 「AI技術の急速な発展に伴う電力需要の増加に対応するため、発電量の増大は急務となっています」（https://diamond.jp/zai/articles/-/1051137）
+  - 「のドミンゲスCEO、次世代原子力発電所の開発を進める米国のベンチャー企業」（https://diamond.jp/zai/articles/-/1051137）
+  - 「は、米国のオープンAIの創業者アルトマンCEOが2025年の4月まで会長を務めていた企業で、小型モジュール炉（SMR：Small Modular Reactor）の開発を進めています」（https://diamond.jp/zai/articles/-/1051137）
+  - 「次世代革新炉の開発・建設に取り組む方針を表明！」（https://diamond.jp/zai/articles/-/1051137）
+  - 「日本政府も2025年2月、「GX実現に向けた基本方針2024」と「第7次エネルギー基本計画」を閣議決定し、「新たな安全メカニズムを組み込んだ次世代革新炉の開発・建設に取り組む」という方針を明らかにしています（※「GX」とは「グリーントランスフォーメーション」の略で、化石燃料に頼らず、太陽光や水素など自然環境に負荷の少ないエネルギーの活用を進める活動のこと）」（https://diamond.jp/zai/articles/-/1051137）
+  - 「SMRの製造・開発支援を行っている企業を選定しました」（https://diamond.jp/zai/articles/-/1051137）
+  - 「米国のニュースケール・パワーが開発するSMRに技術開発で貢献」（https://diamond.jp/zai/articles/-/1051137）
 - 検索結果の抜粋：
   - 「英国政府、北ウェールズで英国初の 小型モジュール炉 建設へ — 英国政府、北ウェールズで英国初の 小型モジュール炉 建設へ ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2025/11」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
   - 「小型モジュール炉SMR はデータセンターの深刻な電力不足を ... — 小型モジュール炉SMR はデータセンターの深刻な電力不足を ... オルタナティブ・ブログ https://blogs.itmedia.co.jp > business20 > 2026/10 > smrai」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
@@ -4254,54 +4330,55 @@
 ## バーティカルAI（vertical AI）
 - 文脈：1 AI・半導体 ③バーティカルAI
 - 顧客（金を払う側）：
-  - 「中途社員（中途採用）」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「Cognizant、企業が最先端AIを実運用に移行する中、OpenAI導入支援に2万5,000人超の専門家を投入」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「求人8.9万件の「JobLinks」、企業は求人票づくりをAIで、求職者は応募から面談予約・書類作成 まで最短で 採用する側と探す側の両方の手間を減らす仕組みを公開」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「複数ツールに分散した採用業務を一つに」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「Zoth Consulting、応募から面接着座までを最速 化する採用AI「ゾスAI」を提供開始」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「AIエンジニアリング&セキュリティ企業「おもしろテクノロジー」がLIGHTzにグループイン」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「メーカー・卸売業向けAIエージェント（Intentia AI）を提供するIntentia、業務課題の無料相談とデータの簡易診断を開始」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「受発注や営業の「どこからAIを使えるか」を整理」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「ハイクラスの約8割が「AIスキルは市場価値に影響する」と回答、一方で企業が求めるレベルとのギャップが明らかに」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「プリペアード 評判が高いAI通話録音・自動要約サービス「RecACE plus」、カスハラ対 応にも活用できるモデルケース企業を群馬県で初募集」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「スマート工場」（https://innovatopia.jp/tag/vertical-ai/）
-  - 「老舗園芸企業ScottsMiracle-GroのAI変革——土と肥料がデータで進化、コスト削減1.5億ドル達成」（https://innovatopia.jp/tag/vertical-ai/）
-  - 「法律AI企業Luminance、4000万ドル調達で業界変革へ」（https://innovatopia.jp/tag/vertical-ai/）
-  - 「「神はミクロンに宿る」─宇宙開発を支える姫路の町工場、佐藤精機の技術力」（https://innovatopia.jp/tag/vertical-ai/）
-  - 「AIがある操作を実行できることと、その操作を企業として実行してよいことは同じではない」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「米企業、AI導入のリアル」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「生産性を高めた結果、現場が改善意欲を失った工場」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「一方で、「AIが企業業務を自律的に遂行できるようになった」と言い切れば、実態を過大評価する」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「米国Census Bureauの2026年調査では、2025年11月から2026年1月に何らかの業務機能でAIを利用していた企業は18％だった」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「しかもAI利用企業の57％は三つ以下の業務機能での利用にとどまり、66％はAIをタスクの代替ではなく補助だけに使っていた」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「EUでも2025年の企業AI利用率は19.95％で、大企業では55.03％まで上昇している一方、AI利用企業のうち物流用途で使っていた企業は6.08％だった」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「調査方法は異なるため単純比較はできないが、AIは企業活動へ着実に入りながらも、全面的な業務自律化にはまだ距離がある」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「AIがある行為を実行できることと、その行為を企業として実行してよいことは同じではない」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「採用条件、証拠、権限、実行時確認、責任記録」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「AIが発注APIを呼べることと、その数量・価格・取引先で発注してよいことは違う」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「配送ルートを生成できることと、その車両、荷量、受入能力、時間条件で正式な輸送計画として採用してよいことは違う」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「「企業がこの状況で正式に採用できる回答」は、」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「AIが中学生の日記にコメント、ストレス分析も 韓国で進む導入」（https://www.asahi.com/articles/ASV7B25L7V7BUQIP023M.html）
+  - 「「エッジAIを活用したAI社会の実現に向けた実証事業」（150.0億円）は、モバイル基地局を使った技術検証と導入モデル実証を行い、事業主体に地方公共団体が含まれます」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「エッジAIの技術検証と導入モデル実証 ― 地域の実情に特化したユースケースと期待される効果」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
 - 顧客の顧客（発注元が求めること）：
+  - 「バーティカルAI・AI評価基盤とは｜総務省重点施策2027の能動的評価基盤・AIドローン・エッジAI・要求額を解説｜総務省重点施策2027を読み解く」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「令和9年度 要求額」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「「情報通信領域におけるバーティカルAI構築事業」（令和9年度要求額10.0億円・新規）は、通信インフラの人手不足や現場データの散在などの課題をAIで解決します」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「最大の事業は、NICTが生成AIの信頼性を評価する「能動的評価基盤」の研究開発で、令和9年度要求額は459.8億円です」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「能動的評価基盤とは ― 信頼できるAIの開発・活用支援（要求額459.8億円）」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「ヤマトくんに質問すると、この内容をふまえて自治体の施策づくりや予算要求の検討を支援します」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「総務省は令和9年度に新規の「情報通信領域におけるバーティカルAI構築事業」（要求額10.0億円）で、通信ネットワークインフラの人手不足やノウハウ継承などの課題を解決するバーティカルAIの開発・実証を進めます」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「令和９年度要求額10.0億円（うち、「強く豊かな日本」投資枠10.0億円）（新規）」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「なお、このページの要求額はすべて8月末の」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「令和9年度要求額は10.0億円（新規・全額が「強く豊かな日本」投資枠）、計画年度は令和9年度〜令和11年度です」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「みを活用して、データの信頼性を高め、他国との関係でも相互認証されるよう検討を進める」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「AIで激化するサイバー攻撃、矛先は製造業へ 防御対象選定とBCPが急務」（https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600009/090900231/）
+  - 「防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円」（https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600009/090900231/）
+  - 「GenAI/SUM2026では、新規コンテンツとして官公庁・事業会社のキーパーソンが集う非公開ラウンドテーブル「GenAI/SUM Executive Round」を開催します」（https://www.xsum.jp/gai/）
   - 「AIマネジメントシステムの国際規格「ISO/IEC 42001」認証を取得」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「自治体における脱炭素化推進に向け、生成AIを活用した新たなコンサルティング手法（地 方公共団体実行計画区域施策編）を確立」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「国内インターネットインフラ事業者初「ムームードメイン byGMOペパボ」がAnthropic 社「Claude」の「認証済み」コネクタとして掲載」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「「閉域網×生成AI」の官公庁向け大型プロジェクトを正式受注 ～NHN テコラスとRagateが共同提 案から開発まで伴走～」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「歩くだけで0.03秒の出席確認！共創未来の「顔認証出席管理システム」がトライアルキャ ンペーン実施中！お問い合わせも増加中！」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「在庫・納期・売上を自然な言葉で検 索・集計」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「アスエネ、「ASUENE」「ASUENE SUPPLY CHAIN」のAIマネジメントシステムで国際規格「ISO/IEC 42001 」認証を取得」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「国税庁のシステム「KSK2」で手続き遅延が1カ月継続、国税労組は解決を要求」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
-  - 「AIで激化するサイバー攻撃、矛先は製造業へ 防御対象選定とBCPが急務」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
-  - 「韓国で相次ぐ「499戸・999戸」マンション…1戸の差で認証義務の対象外に」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
-  - 「防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
-  - 「令和9年度（2027年度）の概算要求では、AXを実現するためにバーティカルAIの導入と開発・利用を進める新しい事業に、内閣府が約1,009億円を求めた（※11）」（https://harch.jp/ai/glossary/vertical-ai）
-  - 「令和9年度AI関連予算要求について」（https://harch.jp/ai/glossary/vertical-ai）
-  - 「・エージェント型AIを含めた、政府によるバーティカルAIの率先導入、所要の制度改革や技術標準・認証の整備を一体的に推進」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・AIのリスクへの包括的対応（AISI※の機能強化、サイバー攻撃対応を含めたAI安全性・セキュリティや信頼性に係る評価手法・基盤の開発・提供、サイバー関連データの集約、セキュアなAI利用環境の検討・具体化、偽・誤情報対策、AIガバナンスや安全性認証制度の整備、意思決定に係るAIのルール形成）」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
 - 顧客の競合（奪いに来る側）：
-  - 「アドバンスト・メディア、コンタクトセンター向け「業務支援AI」市場で シェアNo.1（※1）を獲得」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「ヒューマネージが提供する業界シェアNo.1の採用管理システム『i-web』、次世代版対話型AI面接サービス『SHaiN』との連携を開始」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「Tin Men Capitalが主導し、ビジョンAIスタートアップのAilyticsがアジア太平洋、米国、湾岸地域への事業拡大を目指し、740万米ドルのシリーズA資金調達を実施」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「韓国発・海洋AIoTスタートアップ「ODN（オーデン）」が日本参入」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「NVIDIA と半導体業界のリーダー、AI デファインド ファブに向けてチップ設計と製造全体で AI の活用を推進」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「フィジカルAI監視装置の基本特許を日本・米国・中国で取得 自動運転車・警備ロボット ・ドローン・スマートシティ向けにライセンス提供を開始」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「ｕｇｏ、「AI×サービスロボット」領域の製造業(4分野)・点検保守用途市場で売上シェアNo.1 を獲得」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「VUSSENS、米ニュージャージー州に米国本社を設立 AIを活用したグローバル美容市場分析プラットフォームを正式ローンチ」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「普段使いのAIに話しかけるだけでテレビの“今”を即リサーチ！インフィニマインド、テレビ解析AI「TVPulse」のMCP連携を開始」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「韓国の金融AIスタートアップNeurofusion、CEATEC 2026に出展」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「Microsoft、Dragon Copilot拡張を一般提供｜米国の医師向けから」（https://innovatopia.jp/tag/vertical-ai/）
-  - 「X（Twitter）でシェアする」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
-  - 「Facebookでシェアする」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
-  - 「米国Census Bureauの2026年調査では、2025年11月から2026年1月に何らかの業務機能でAIを利用していた企業は18％でした」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
-  - 「Responsibility Layerは、これらの既存技術と競合するものではありません」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「「トランプ時代の終わり」への転換点 米国第一と過激化、識者の懸念」（https://www.asahi.com/articles/ASV7B25L7V7BUQIP023M.html）
+  - 「危機の中での選択を描く 韓国映画「1971、ハイジャック事件」」（https://www.asahi.com/articles/ASV7B25L7V7BUQIP023M.html）
+  - 「AIが中学生の日記にコメント、ストレス分析も 韓国で進む導入」（https://www.asahi.com/articles/ASV7B25L7V7BUQIP023M.html）
+  - 「日中対立の深層 高市首相の台湾有事発言から1年」（https://www.asahi.com/articles/ASV7B25L7V7BUQIP023M.html）
+  - 「・海外市場開拓支援（ASEANをはじめとするインド太平洋地域における我が国政策の普及展開と一体となっ」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・海外では自動運転関連の巨額投資が進み、米国Waymo社等、多数のプレイヤーがモジュール型」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「「トランプ時代の終わり」への転換点 米国第一と過激化、識者の懸念」（https://www.asahi.com/articles/DA3S16501232.html）
+  - 「危機の中での選択を描く 韓国映画「1971、ハイジャック事件」」（https://www.asahi.com/articles/DA3S16501232.html）
+  - 「AIが中学生の日記にコメント、ストレス分析も 韓国で進む導入」（https://www.asahi.com/articles/DA3S16501232.html）
+  - 「日中対立の深層 高市首相の台湾有事発言から1年」（https://www.asahi.com/articles/DA3S16501232.html）
+  - 「2030年までの短期的な選択肢としては、データセンターの敷地内に発電設備を置く「ビハインド・ザ・メーター（主に天然ガス）」が、開発スケジュールに合わせて大規模電力を追加できる数少ない手段となっています」（https://blogs.itmedia.co.jp/business20/2026/10/4ai.html）
+  - 「米国、韓国、アラブ首長国連邦（UAE）、サウジアラビア、欧州連合（EU）などでは、政府系ファンドや公的機関がAIインフラや半導体に直接投資を行っています」（https://blogs.itmedia.co.jp/business20/2026/10/4ai.html）
+  - 「特に中国政府は、AIデータセンター建設に2,950億ドル、資源豊富な西部からデータセンターへ再生可能エネルギーを送る送電網の改修に7,400億ドルを投じるなど、国家主導で計画を推進しています」（https://blogs.itmedia.co.jp/business20/2026/10/4ai.html）
+  - 「次の半導体大国、インド」（https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600009/090900231/）
+  - 「中国車がフラッグシップ戦略で欧州攻略、現地生産で関税回避へ」（https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600009/090900231/）
 - 自社の競合（商社・代理店・仲介）：
+  - 「Agentic AI Foundation（AAIF）」（https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600009/090900231/）
   - 「Lazuli、「PDP Chat Agent」のライブデモを交えた無料ウェビナーを11月12日（木）に開催」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
   - 「GoogleがGoogle Agent Skillsの品質ゲートを紹介、6つの自動ゲートで検証を実現」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
   - 「Stella AI for Biz、「Word Agent」「Excel Agent」を提供開始」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
@@ -4316,72 +4393,78 @@
   - 「Accelerating the Adoption of Software and Artificial Intelligence Agent Identity and Authorization」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
   - 「European Commission,」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
   - 「改めて注目される背景にあるのが「エージェント型AI（Agentic AI）」の進展だ」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
-  - 「米ビッグテックが集結する「Agentic AI Foundation」、ルールづくり推進」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
 - 政治（法・予算・規制）：
-  - 「補助金を使える「生成AI」研修」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「デジタル化・AI導入補助金2026の登録ITツール」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「ワークスアイディ、法人向け生成AIプラットフォーム「neoAI Chat/Work」を「デジタル化・AI導入支援事業費補助金」の対象ツールに新たに採択」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「生成AIが選ぶ「弁護士事務所」、1位はベリーベスト法律事務所（言及率44.4%）【2026年9月調査】」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「Global Government AI CITY Innovation Summitが成功裏に開催」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「生成AIで海外法規制対応を高度化！ISTソフトウェアが3社共同企画・開発した「事 業影響分析支援サービス」を提供開始 ～独自の分析プロセスは特許出願中～」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「相続のこと、生成AIにどこまで相談していい？弁護士が玉川徹さんと考える「生成AI時代の相続相談」｜Authense法律事務所」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「Innovature Technologies 株式会社、OpenAI Select Partnerに認定」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「Google WorkspaceでのGemini活用スキルを身につける Google Cloud 認定コースを提供開始」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「バーティカルAIとは何か｜「IT予算ではなく人件費」を狙う領域特化型AIの正体」（https://innovatopia.jp/tag/vertical-ai/）
-  - 「スタンフォード大発見：法律AIツール、誤情報「幻覚」のリスク高く」（https://innovatopia.jp/tag/vertical-ai/）
-  - 「法律AI企業Luminance、4000万ドル調達で業界変革へ」（https://innovatopia.jp/tag/vertical-ai/）
-  - 「日本政府の第Ⅱ期人工知能基本計画でも、AIが「業務を支援するツール」から「意思決定・実行を担う主体」へ進化していることを前提に、Vertical AIやPhysical AIを重点領域として位置づけています」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
-  - 「日本政府の第Ⅱ期人工知能基本計画は、バーティカルAIとフィジカルAIを日本の重点領域に位置づける一方、「信頼できるAI」を柱に据え、AIと協働する社会において」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
-  - 「もちろん、これらの政府・標準化機関が「Responsibility Layer」や「責任OS」という方式を提唱しているわけではありません」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「米中間選挙で民主圧勝、「青い波」がAIブームに冷や水か 規制強化の公算」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「日本政府も第Ⅱ期人工知能基本計画で、AIが「業務を支援するツール」から「意思決定・実行を担う主体」へ進化していると整理し、バーティカルAIとフィジカルAIを日本の重点領域に据えている」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「日本政府の第Ⅱ期人工知能基本計画は、バーティカルAIとフィジカルAIを日本の「勝ち筋」と位置づける一方、「信頼できるAI」を柱に据え、AIと協働する社会について」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「これらの政府・標準化機関が「Responsibility Layer」や「責任OS」という方式を提唱しているわけではない」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「例えば、物流における出荷・輸送計画の正式採用、ネットワークやIAMの重要設定変更、機微データの外部送信、決済や送金、設備操作、規制対象業務の正式な処置などである」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「そして何より、責任OSは法律上・経営上の責任をAIやソフトウェアへ移転する仕組みではない」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「：Responsibility Layerおよび責任OSは、上記の政府機関・標準化団体・研究機関が提唱または認定している名称ではない」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「）」の活用について、政府が領域別戦略の中間とりまとめを公表した」（https://www.asahi.com/articles/ASV7B25L7V7BUQIP023M.html）
+  - 「3. 国際競争力・経済安全保障」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「令和7年度補正予算額383.0億円（能動的評価基盤）」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「ヤマトくんに質問すると、この内容をふまえて自治体の施策づくりや予算要求の検討を支援します」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「の段階の数字で、年末の予算編成で変わることがあります」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「自治体はこう読む ― 施策・予算への活かし方」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「（令和７年度補正予算額地域社会DX先進的ソリューション実証事業115.4億円の内数）」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「令和7年度補正予算額「地域社会DX先進的ソリューション実証事業」115.4億円の」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
 - 経済（規模・価格・為替）：
-  - 「モニター価格 月5万円（税別）「社長のためのAI家庭教師」」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「AI関連事業へ約920億円を投資、成長を加速」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「ovice、人数無制限・チャージ式のAI機能「My AI」を公開 リリース記念でGPT-6.1 Solを1組織あたり1万円分（税抜）まで無料に」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「小売本部の売上分析に関わる社員の5割弱は、売上分析で生成AIを組織的に使って いない職場で働いている！」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「月額5万円の「AI代行堂」の本格提供を開始」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「IDOM、商談領域のAIエージェント開発基盤にAgentforceを全面採用「自動 追客AIエージェント」で年間60億円の売上創出を目指す」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「領域特化の「バーティカルAI」、官民で2040年度までに23兆円投資へ | 日経クロステック（xTECH）」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
-  - 「領域特化の「バーティカルAI」、官民で2040年度までに23兆円投資へ」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
-  - 「同月21日に政府の日本成長戦略本部が決定した官民投資ロードマップでは、2040年度までのバーティカルAIへの官民投資額を23.1兆円と想定し、経済波及効果は同年度までで222兆円を見込む」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
-  - 「S/4HANA切り替えで大混乱、TOYO TIREは42億円の減益要因 穴は「周辺連携」」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
-  - 「防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
-  - 「そして日本には、バーティカルAIを展開し、ARR100億円を公表した企業が2社あります」（https://innovatopia.jp/ai/ai-news/113176/）
-  - 「2024年に約1兆円」（https://innovatopia.jp/ai/ai-news/113176/）
-  - 「2030年には約3兆円超になる見通し」（https://innovatopia.jp/ai/ai-news/113176/）
-  - 「世界市場は2030年に33兆円と見積もり、そのうち」（https://innovatopia.jp/ai/ai-news/113176/）
+  - 「富士通、Uvanceの軸足を汎用型から業種特化AIへ 5年で売上2.4倍目指す」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「官民で23兆円の投資見込む」（https://www.asahi.com/articles/ASV7B25L7V7BUQIP023M.html）
+  - 「近く改定されるAI基本計画で「日本の勝ち筋」と位置づけられており、40年度までに官民で約23兆円の投資を見込んでいる」（https://www.asahi.com/articles/ASV7B25L7V7BUQIP023M.html）
+  - 「【今ならキャンペーン価格】有料記事が2カ月間 月額100円で読み放題！」（https://www.asahi.com/articles/ASV7B25L7V7BUQIP023M.html）
+  - 「小学校で給食費などの督促怠り5400万円不足 校長ら私費で補てん」（https://www.asahi.com/articles/ASV7B25L7V7BUQIP023M.html）
+  - 「能動的評価基盤 459.8億円ほか（6事業）」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「令和7年度補正予算額383.0億円（能動的評価基盤）」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「「情報通信領域におけるバーティカルAI構築事業」（令和9年度要求額10.0億円・新規）は、通信インフラの人手不足や現場データの散在などの課題をAIで解決します」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「「公共サービス向けを中心とするAIドローン基盤整備支援事業」（180.0億円・新規）は、災害時の初動対応を速めるAIドローンとデータ連携基盤の整備費の一部（補助率1/2）を支援します」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「「エッジAIを活用したAI社会の実現に向けた実証事業」（150.0億円）は、モバイル基地局を使った技術検証と導入モデル実証を行い、事業主体に地方公共団体が含まれます」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「「フォーラム国際標準獲得推進事業」（20.0億円・新規）と「脳情報データ収集基盤整備」（15.0億円・新規）も新たに始まります」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「最大の事業は、NICTが生成AIの信頼性を評価する「能動的評価基盤」の研究開発で、令和9年度要求額は459.8億円です」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「能動的評価基盤とは ― 信頼できるAIの開発・活用支援（要求額459.8億円）」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「総務省は令和9年度に新規の「情報通信領域におけるバーティカルAI構築事業」（要求額10.0億円）で、通信ネットワークインフラの人手不足やノウハウ継承などの課題を解決するバーティカルAIの開発・実証を進めます」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「令和９年度要求額10.0億円（うち、「強く豊かな日本」投資枠10.0億円）（新規）」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
 - 社会（人・担い手）：
-  - 「人材育成・研修・経営」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「法人研修・人材育成」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「エディフィストラーニングとDASA Japan、AI時代の変革人材を育成する「FDE人材育成研修」を提供開始」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「OBC、根拠に基づいた人材活用をサポートする“実践型”『奉行AIエージェント 人材活用クラウド』を発売」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「World Edu Bridge、外国人材向けAI日本語学習サービス「Tomodachi」を提供開始」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「【那覇商工会議所】人手不足を乗り越える！生成AIと多様な人材活用セミナーを12/17(初級編)・1/19(中級編)に開催」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「ポーターズ、人材紹介スタートアップの成長を支援」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「松尾研究所、障がい者雇用の現場にフィジカルAI活用へ エスプールと共同プロジェク トを開始」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「障がい者雇用の現場にフィジカルAI活用へ、エスプールと松尾研究所が共同プロジェク トを開始」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「スマートスケープ、生成AI人材育成に向けた225時間の実践型インターンシップを実施」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「現場とAIの技術の両方の知識を持つ人材が足りないことにも、中間とりまとめは触れている」（https://harch.jp/ai/glossary/vertical-ai）
-  - 「製造の領域の節でも、中間とりまとめは、現場の工程や品質の保証を理解したうえでAIで解く課題を決め、実装して運用まで受け持つ人材が足りないと指摘している（※2）」（https://harch.jp/ai/glossary/vertical-ai）
-  - 「AI実装人材」（https://harch.jp/ai/glossary/vertical-ai）
-  - 「AI Academy（アガルート） AI人材コース」（https://harch.jp/ai/glossary/vertical-ai）
-  - 「課題は、AI実装人材や中小企業への伴走支援の不足、現場固有データの活用不足、計算資源の不足、AXへの理解不足とAIリスクへの懸念です」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「支援対象は、既にAI活用が進んでいて国際競争力を強化する分野や、AIで人手不足の解消を狙う分野から選んだ」（https://www.asahi.com/articles/ASV7B25L7V7BUQIP023M.html）
+  - 「7. 地域の担い手・関係人口」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「「情報通信領域におけるバーティカルAI構築事業」（令和9年度要求額10.0億円・新規）は、通信インフラの人手不足や現場データの散在などの課題をAIで解決します」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「総務省は令和9年度に新規の「情報通信領域におけるバーティカルAI構築事業」（要求額10.0億円）で、通信ネットワークインフラの人手不足やノウハウ継承などの課題を解決するバーティカルAIの開発・実証を進めます」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「・通信ネットワークインフラについて、人手不足やノウハウの継承の難しさ、オペレーション業務の複雑化、現場データの散在等の課題解決のため、情報通信領域におけるバーティカルAI※１の開発・利活用の促進、情報通信産業のAX※２推進の観点から、AI学習に適したデータ整備、ユースケースの創出等を図る調査研究、開発実証等を実施」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「成果は技術仕様書・ユースケース集・AI人材育成強化策・リスク対応策としてまとめられ、国内・国外へ展開されます」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「情報通信領域におけるバーティカルAI構築事業は、通信ネットワークインフラの人手不足・ノウハウ継承・現場データの散在などの課題をAIで解決するための調査研究と開発実証を行います」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「成果は技術仕様書・ユースケース集・AI人材育成強化策・リスク対応策として国内・国外に展開されます」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「・AIを利用した新たなサービスやその担い手の創出・エッジAIの社会実装を加速」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「情報通信分野におけるフォーラム国際標準獲得推進事業は、フォーラム標準化団体等での戦略的な国際標準獲得を推進するため、標準化活動を支援するバーティカルAIの開発や、標準化人材を有効活用する環境整備等を行う新規事業です」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「・フォーラム標準化団体等における戦略的な国際標準獲得を推進するため、標準化活動を支援するバーティカルAIの開発や、我が国の標準化人材を有効活用する環境整備等を行い、オール光ネットワークや次世代ワイヤレス等の重要分野におけるグローバル市場の獲得と我が国企業の国際競争力強化を実現」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「・グローバルに活躍できる高度人材の育成の観点から、国内外企業や大学等との産学官連携の下、最先端環」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・産官学連携で創設した各地域のコンソーシアムを通じて、現場人材も含めた人材育成を強化するとともに」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「半導体分野におけるキャリアパスやロールモデルの提示により、女性も含めた半導体人材の活躍促進を図」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「これができると、AIに学ばせることができ、技能の継承にも役立ちます」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
 - 技術（新しい技術・実証）：
-  - 「AI・生成AIに関連するニュース一覧（2026年10月）」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「IT・DX・AI最新トレンドメディア」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「生成AI研修」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「AIエンジニア向け法人研修」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「法人向けAI開発研修」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「補助金を使える「生成AI」研修」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「法人向け自動化研修」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「AI・生成AI」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「開発ツール・OS・インフラ」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「生成AI時代の学びとキャリア」（https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10）
-  - 「バーティカルAI – innovaTopia」（https://innovatopia.jp/tag/vertical-ai/）
-  - 「AI（人工知能）」（https://innovatopia.jp/tag/vertical-ai/）
-  - 「生成AIガイド」（https://innovatopia.jp/tag/vertical-ai/）
-  - 「3Dプリンター」（https://innovatopia.jp/tag/vertical-ai/）
-  - 「ソブリンAI（AI主権）」（https://innovatopia.jp/tag/vertical-ai/）
+  - 「2026年7月の「第Ⅱ期人工知能基本計画」で、政府はバーティカルAIやフィジカルAIなどを「日本の勝ち筋」と位置付けた」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「同月の「バーティカルAI領域別戦略 中間とりまとめ」では、製造や金融、医療・介護・福祉、行政、防災、サイバーなど19領域を市場性、公共性、戦略性の観点から整理した」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「2026年、バーティカルAIの達成点・限界点・突破点」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「2026年、バーティカルAIはどこまで来たのか」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「「業界特化型のAIが普及した」とだけ捉えると、現在起きている変化を過小評価する」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「一方で、「AIが企業業務を自律的に遂行できるようになった」と言い切れば、実態を過大評価する」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「米国Census Bureauの2026年調査では、2025年11月から2026年1月に何らかの業務機能でAIを利用していた企業は18％だった」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「しかもAI利用企業の57％は三つ以下の業務機能での利用にとどまり、66％はAIをタスクの代替ではなく補助だけに使っていた」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「EUでも2025年の企業AI利用率は19.95％で、大企業では55.03％まで上昇している一方、AI利用企業のうち物流用途で使っていた企業は6.08％だった」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「調査方法は異なるため単純比較はできないが、AIは企業活動へ着実に入りながらも、全面的な業務自律化にはまだ距離がある」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「NISTは2026年、AIエージェントを「自律的な行為が可能な次世代AI」と位置づけ、その相互運用性とセキュリティのための標準化イニシアティブを開始した」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「日本政府も第Ⅱ期人工知能基本計画で、AIが「業務を支援するツール」から「意思決定・実行を担う主体」へ進化していると整理し、バーティカルAIとフィジカルAIを日本の重点領域に据えている」（https://zenn.dev/ghostdrift/articles/47218bcbc0749e）
+  - 「領域特化型AI戦略、19領域に重点 119番AI分析→対応提案 [AIの時代]：朝日新聞」（https://www.asahi.com/articles/ASV7B25L7V7BUQIP023M.html）
+  - 「領域特化型AI戦略、19領域に重点 119番AI分析→対応提案」（https://www.asahi.com/articles/ASV7B25L7V7BUQIP023M.html）
+  - 「製造や創薬、防衛など19領域に重点を置いて支援し、2030年に向けてそれぞれの領域での開発・実用化を進めていく」（https://www.asahi.com/articles/ASV7B25L7V7BUQIP023M.html）
 - 検索結果の抜粋：
+  - 「領域特化型 AI 戦略、19領域に重点 119番 AI 分析→対応提案 — 領域特化型 AI 戦略、19領域に重点 119番 AI 分析→対応提案 朝日新聞 https://www.asahi.com > articles」（https://www.asahi.com/articles/ASV7B25L7V7BUQIP023M.html）
+  - 「官民投資2.1兆円…「 バーティカルAI 」戦略策定、日本のAXが ... — 官民投資2.1兆円…「 バーティカルAI 」戦略策定、日本のAXが ... ｄメニューニュース https://topics.smt.docomo.ne.jp > ニュース > 経済」（https://topics.smt.docomo.ne.jp/article/newswitch/business/newswitch-49835）
+  - 「バーティカルAI 領域別戦略 中間とりまとめ — バーティカルAI 領域別戦略 中間とりまとめ 内閣府ホームページ PDF https://www8.cao.go.jp > ai > ai_hq > shiryo2_2」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
+  - 「バーティカルAI ・AI評価基盤とは｜総務省重点施策2027の能動 ... — バーティカルAI ・AI評価基盤とは｜総務省重点施策2027の能動 ... 日本DX地域創生応援団 https://digital-supporter.net > ... > 1. 情報通信インフラとAI」（https://digital-supporter.net/mirai-ai/soumu-ax/ai-kaihatsu.html）
+  - 「内閣府、戦略19分野で バーティカルAI の共通基盤構築 — 内閣府、戦略19分野で バーティカルAI の共通基盤構築 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/790640）
+  - 「ニュース拡大鏡／ バーティカルAI 推進 19領域で各省庁施策 — ニュース拡大鏡／ バーティカルAI 推進 19領域で各省庁施策 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/786908）
+  - 「領域特化の「バーティカル AI 」、官民で2040年度までに23兆 ... — 領域特化の「バーティカル AI 」、官民で2040年度までに23兆 ... 日経クロステック https://xtech.nikkei.com > 3分でわかる必修ワード IT」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
   - 「2026年 のVertical AI を3層で整理する - Qiita — 2026年 のVertical AI を3層で整理する - Qiita Qiita https://qiita.com > AIガバナンス」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
   - 「領域特化の「 バーティカルAI 」、官民で2040年度までに23兆 ... — 領域特化の「 バーティカルAI 」、官民で2040年度までに23兆 ... 日経クロステック https://xtech.nikkei.com > 3分でわかる必修ワード IT」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
   - 「高市政権が「 バーティカルAI 」推進、戦略19分野に官民集中投資 — 高市政権が「 バーティカルAI 」推進、戦略19分野に官民集中投資 ビジネス+IT https://www.sbbit.jp > IT戦略 > AI・生成AI」（https://www.sbbit.jp/article/cont1/186078）
@@ -4390,6 +4473,3 @@
   - 「社会実装から見る バーティカル AI の可能性 - 大和総研 — 社会実装から見る バーティカル AI の可能性 - 大和総研 大和総研 PDF https://www.dir.co.jp > japan > 20260930_026094」（https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf）
   - 「フィジカルAI ・ バーティカルAI とは（日本成長戦略 全文と解説） — フィジカルAI ・ バーティカルAI とは（日本成長戦略 全文と解説） 日本DX地域創生応援団 https://digital-supporter.net > seichou17 > ai-handoutai」（https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html）
   - 「Vertical AI in 2026 : What Makes a Defensible AI Company and ... — Vertical AI in 2026 : What Makes a Defensible AI Company and ... advisable.com https://www.advisable.com > insights」（https://www.advisable.com/insights/vertical-ai-2026-defensible-ai-company-investors-will-no-longer-fund）
-  - 「What to expect from Vertical AI in 2026 - Aforza — What to expect from Vertical AI in 2026 - Aforza Aforza https://aforza.com > what-to-expect-fr...」（https://aforza.com/what-to-expect-from-vertical-ai-in-2026/）
-  - 「2026年 の Vertical AI を3層で整理する - Qiita — 2026年 の Vertical AI を3層で整理する - Qiita Qiita https://qiita.com > AIガバナンス」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
-  - 「Why 2026 ends AI experimentation? Experts bet on vertical ... — Why 2026 ends AI experimentation? Experts bet on vertical ... Tech Funding News https://techfundingnews.com > why-2...」（https://techfundingnews.com/why-2026-ends-ai-experimentation-vertical-scale-human-hurdles/）

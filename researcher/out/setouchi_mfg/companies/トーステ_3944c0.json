@@ -1,0 +1,782 @@
+{
+ "name": "トーステ",
+ "aliases": [],
+ "context": "岡山県津山市／出典:マイナビ;県・市の企業ガイド／求人媒体:Indeed;doda;エン転職;マイナビ転職／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T03:00:56.980418+00:00",
+ "official_url": "https://www.tostesanitary.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "住所 *",
+    "value": "〒 都道府県 選択してください 北海道 青森県 岩手県 宮城県 秋田県 山形県 福島県 茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県 山梨県 静岡県 長野県 新潟県 富山県 石川県 福井県 岐阜県 愛知県 三重県 滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県 鳥取県 島根県 岡山県 広島県 山口県 徳島県 香川県 愛媛県 高知県 福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県 沖縄県 市区町村 番地 建物名",
+    "url": "https://www.tostesanitary.jp/contact/recruit/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "工場とエンジニアリングの両軸でお客様に寄り添える存在へ",
+    "url": "https://www.tostesanitary.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "(勤務地)：草加部工場、綾部工場（岡山県津山市内 ）",
+    "url": "https://www.tostesanitary.jp/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "(勤務地)：テクノセンター（岡山県津山市内、神奈川県川崎市内、群馬県高崎市内、岡山県岡山市内）",
+    "url": "https://www.tostesanitary.jp/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "(勤務地)： テクノセンター（岡山県津山市内、神奈川県川崎市内、岡山県岡山市内）",
+    "url": "https://www.tostesanitary.jp/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "(勤務地)： 開発試験センター（岡山県津山市内、神奈川県川崎市内、岡山県岡山市内）",
+    "url": "https://www.tostesanitary.jp/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "所属拠点によっては、地方手当有り",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱自動車エンジニアリング株式会社の年収・給与",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":年1昇給、賞与年2回(マツダに準ずる)カフェテリアプランとい...",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "・2025年3月：203億円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・2024年3月：201億円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・2023年3月：195億円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・2022年3月：172億円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・2021年3月：146億円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "取引企業拡大中、2024年度売上は203億円と右肩上がり",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "食品、化粧品、医薬品、化学プラント、建築、造船etc.",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "あらゆる製造現場で必要となるステンレス製の配管製品や資材の卸販売を始め、高い衛生管理が求められる製造ラインで必要不可欠なサニタリー製品の製造販売から工場設備の設計や保守メンテナンスまで一気通貫で担っています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・工場設備（石油・ガス・化学プラント、水処理工場）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・半導体、電子部品工場 ★需要拡大中！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度売上は203億円と右肩上がり",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "入社後2～3年間はビジネスマナー、業界や製品研修などをはじめ、より理解を深めてもらうために事務所以外に物流センターやお客様の工場、加工の現場で様々な業務を経験し段階を経て知識を習得していきます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "装置設計・開発、設備工事・試運転・アフターメンテナンスまで手掛け、新しい工場や生産ラインの立ち上げを丸ごと任されることも！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "取扱製品はビルや病院などの建築物、造船、石油・ガス・化学プラント工場で使用されるステンレス製配管資材や鋼材がメインです",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の要望に素早く応えるため、各営業拠点に在庫を確保しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "今治造船（株）、エア・ウォーター(株)、キッコーマン(株)、キリンビール（株）、KMバイオロジクス(株)、サッポロビール（株）、澁谷工業(株)、大成建設(株)、(株)ツムラ、ニチアス(株)、(株)日立プラントサービス、三浦工業(株)、（株）Mizkan、森永乳業(株) ほか(50音順)",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "津山工場を分離、東洋ステンレス工業株式会社として独立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "190億円(2025年4月実績)",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産工場とエンジニアリング機能を併せ持ち、サニタリー生産における総合技術を備えています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "プラントの基本設計から施工、メンテナンスまでトータルに関われるため、新しい工場や生産ラインの立ち上げを丸ごと任されることも",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■工場とエンジニアリングの両軸でお客様に寄り添える存在へ",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社のように生産工場とエンジニアリング機能を併せ持つ企業は世界的にも少なく、サニタリー生産における総合技術を備える企業として数多くのお客様から選ばれています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、中長期的に取引先とお付き合いを深めながらマーケティングを行うことで製品開発に生かすこともできています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "直近では、関東中心の商圏をさらに拡大したいと、北関東新工場の設立計画を進めているところです",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "若いエンジニアが会社に定着し、着実に成長し続ける背景には、生産工場とエンジニアリング機能を持つ当社だからこそ携われる仕事が多いからだといえます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "時には、新しいプラント施設を基本設計から任されるような数十億円にもなる大規模案件を手掛けるなど、仕事を通じて守備範囲も知識量も格段に増やせます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "工場とエンジニアリングが一体化する会社だけに、お客様からの信頼も厚く、お客様と一緒に新しいプラントを創造する面白みを実感できます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川県川崎市川崎区宮本町6-12",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルソフトウェア川崎ビル1F5F",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・津山工場を分離、東洋ステンレス工業(株)として独立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・本社草加部工場をバルブ事業部、綾部工場を継手事業部の拠点にする",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・肇慶東洋不銹鋼工程有限公司を設立、工場建設を開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・肇慶東洋不銹鋼工程有限公司の事務棟・工場棟を竣工",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・肇慶東洋新島不銹鋼工程有限公司の新工場を落成し移転",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "募集要項 | TOSTEトーステ株式会社｜サニタリー生産本部",
+    "url": "https://www.tostesanitary.jp/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "トーステ(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "はじめまして！トーステ（株）新卒採用担当です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "トーステ(株)【サニタリー生産本部】の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "少しでも興味のある方は、ぜひエントリーをお願いいたします！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用で求められるのは、一人ひとりの成長志向です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "トーステの新卒採用・就職・会社概要とクチコミ｜就活サイト【ワンキャリア】",
+    "url": "https://www.onecareer.jp/companies/57768",
+    "pass": 3
+   },
+   {
+    "quote": "トーステの新卒採用・就職・会社概要とクチコミ",
+    "url": "https://www.onecareer.jp/companies/57768",
+    "pass": 3
+   },
+   {
+    "quote": "【27卒】賞与7.9ヶ月・休日125日｜医療・介護現場のベストパートナーとは？ #自社製品保有 ※エントリー後に配信されるメールよりマイページにご登録ください",
+    "url": "https://www.onecareer.jp/companies/57768",
+    "pass": 3
+   },
+   {
+    "quote": "最新の情報は、各出典元、企業公式サイトおよび募集要項等をご確認ください",
+    "url": "https://www.onecareer.jp/companies/57768",
+    "pass": 3
+   },
+   {
+    "quote": "コンサル・シンクタンクのエントリーシート（ES）",
+    "url": "https://www.onecareer.jp/companies/57768",
+    "pass": 3
+   },
+   {
+    "quote": "ブライダル・美容・くらしのエントリーシート（ES）",
+    "url": "https://www.onecareer.jp/companies/57768",
+    "pass": 3
+   },
+   {
+    "quote": "公務員・団体職員のエントリーシート（ES）",
+    "url": "https://www.onecareer.jp/companies/57768",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "通勤交通費支給(10万円まで)",
+    "url": "https://www.tostesanitary.jp/recruit/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "トーステの年収・給与 平均年収 - エン カイシャの評判",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "トーステ株式会社の正社員13人の回答によると平均年収は444万円、年収範囲は250～900万円です",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "カイシャの評判に掲載されている年収情報は、当該企業で就業経験のある方を対象としたアンケートを基に、有効な回答かつ、雇用形態が正社員の回答から算出しております",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトの年収情報は、ユーザーの皆様に投稿いただいた時点の回答に基づいているため、実際の年収とは異なる可能性があります",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "トーステ株式会社の年収・給与についての口コミ",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:年収ベースで見ると、平均的な...",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年収ベースで見ると、平均的な額",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給などについては課、部署の成績に大きく左右される",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度：夏季、冬季、の他業績が良いと...",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "夏季、冬季、の他業績が良いと決算（3月）に賞与が出るので毎年度、決算賞与が貰えるよう日々の業務に取り組み、１つの目標としています",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "決算賞与は、その年の業績による",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度：給与の支給内訳は、資格給、地...",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与の支給内訳は、資格給、地域手当、時間外手当、通勤交通費があります",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度：定期賞与年2回に加え決算賞与...",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "定期賞与年2回に加え決算賞与が支給される制度があります！",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与や定期賞与に関しては個人的には平均的かと思いますが",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度：年に2回の定例賞与の他、業績...",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年に2回の定例賞与の他、業績が良ければ3回目の賞与として決算賞与が支給されます",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度：夏季賞与（７月）、冬季賞与（...",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "夏季賞与（７月）、冬季賞与（１２月）以外に決算賞与（３月）が毎年出ます",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:賞与で決算賞与がある部署の評...",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:月々の給与は平均より少ないが...",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "月々の給与は平均より少ないが決算賞与が非常に多い年がある",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年度末に決算賞与があり、年賞与三回となっており、他社にはない制度と気分が良くなっている人もいるが、賞与三回で年収は一般平均より低い、つまり月の手取りは…",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "9,000万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "離職率7.7%（営業本部）／平均年収567万円／年間休日127日",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "あなたの努力やチャレンジ意欲は、昇給や賞与でしっかり評価し、還元します",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "9,000万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "30歳平均年収が600万円以上",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【27卒】賞与7.9ヶ月・休日125日｜医療・介護現場のベストパートナーとは？ #自社製品保有 ※エントリー後に配信されるメールよりマイページにご登録ください",
+    "url": "https://www.onecareer.jp/companies/57768",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "若手が頑張りすぎても、直近での評価には大きな影響がないのが現実",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "＃文系 ＃理系 ＃若手 #体育会系 #女性営業活躍中",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■階層別研修（若手社員/中堅社員/管理職）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "トーステ株式会社 の給与 - Indeed (インディード) — トーステ株式会社の平均月給の範囲は約 18.7万円／月（ルート営業）から約 32.6万円／月（サービスエンジニア）です。 トーステ株式会社の平均年収は、約300万円 (法人営業) 〜300万円 (設備保全・保守) です。",
+    "url": "https://jp.indeed.com/cmp/トーステ株式会社/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "トーステの年収・給与 平均年収も - エン カイシャの評判12 件の トーステ の求人 | Indeed (インディード)トーステ株式会社の転職・求人・中途採用情報|マイナビ転職トーステ株式会社の求人・仕事・採用｜スタンバイでお仕事探しトーステの「年収・給与制度」 OpenWorkトーステの年収・給与・昇給・ボーナス（1件）｜Yahoo!しごとカタログ — トーステ株式会社の正社員13人の回答によると平均年収は444万円、年収範囲は250～900万円です。 また、集計期間は2015年～2026年で回答者の平均年齢は32.0歳です。 トーステの求人は Indeed.com に12件掲載されています。 「トーステ株式会社」の転職・求人・中途採用情報ページです。 トーステ株式会社で募集中の求人情報（4件)を掲載しています。 マイナビ転職の企業別求人情報一覧ページでは、関連する業種・職種の企業の求",
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "12 件の トーステ の求人 | Indeed (インディード) — トーステの求人は Indeed.com に12件掲載されています。",
+    "url": "https://jp.indeed.com/q-トーステ-求人.html?vjk=367a64f4b3b91dd4",
+    "pass": 3
+   },
+   {
+    "quote": "トーステ株式会社の転職・求人・中途採用情報|マイナビ転職 — 「トーステ株式会社」の転職・求人・中途採用情報ページです。 トーステ株式会社で募集中の求人情報（4件)を掲載しています。 マイナビ転職の企業別求人情報一覧ページでは、関連する業種・職種の企業の求人情報なども探せます。",
+    "url": "https://tenshoku.mynavi.jp/company/423834/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "トーステ株式会社の求人・仕事・採用｜スタンバイでお仕事探し — トーステ株式会社の求人が19件掲載。スタンバイでまとめて検索・比較。あなたにぴったりの仕事がきっと見つかります。",
+    "url": "https://jp.stanby.com/r_9bfef116ba71167d9108e7153be5fe57",
+    "pass": 3
+   },
+   {
+    "quote": "トーステ (株)の新卒採用・会社概要 | マイナビ2027トーステ (株)【サニタリー生産本部】の新卒採用・会社概要 | マイナ...社員の声 | 採用特設サイト求人案内 | TOSTEトーステ株式会社｜サニタリー生産本部募集要項 | TOSTEトーステ株式会社｜サニタリー生産本部トーステの新卒採用・就職・会社概要とクチコミ｜就活サイト【ワンキ... — Jun 23, 2026 · 採用担当者からの伝言板 （2026/06/22更新） はじめまして！ トーステ（株）新卒採用担当です。 多くの企業様の中から弊社のページをご覧頂きまして ありがとうございます！ 当社はステンレス製の配管資材を主に取り扱う会社です。 Oct 15, 2026 · トーステ (株) 採用担当の木原です。 数ある企業のなかから、当社に興味をもっていただきありがとうございます 2026年度は年間休日が128日となり仕",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "トーステ (株)【サニタリー生産本部】の新卒採用・会社概要 | マイナ...社員の声 | 採用特設サイト求人案内 | TOSTEトーステ株式会社｜サニタリー生産本部募集要項 | TOSTEトーステ株式会社｜サニタリー生産本部トーステの新卒採用・就職・会社概要とクチコミ｜就活サイト【ワンキ... — Oct 15, 2026 · トーステ (株) 採用担当の木原です。 数ある企業のなかから、当社に興味をもっていただきありがとうございます 2026年度は年間休日が128日となり仕事とプライベートの両立が可能な会社となっております！ 希望日に合わせて説明会を調整中です！ トーステ株式会社 （TOSTE Co.,ltd.） 〒550-0022 大阪市西区本田2丁目1番32号（本社） ／ TEL 06-6586-0700 ／ FAX 06-6586-0708 採用情報 募集要項はこちら 採用メッセー",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "トーステの新卒採用・就職・会社概要とクチコミ｜就活サイト【ワンキ... — トーステの概要、企業研究、就活対策情報です。 最新のインターンシップ ・説明会情報の他、ES・GD・面接・インターン・OB訪問・リクルーターの選考内容と先輩内定者の回答例を掲載しています。 はじめてのキャリアを選ぶ、就活サイト【ワンキャリア】",
+    "url": "https://www.onecareer.jp/companies/57768",
+    "pass": 3
+   },
+   {
+    "quote": "トーステ株式会社 − 採用特設サイト｜リクルート — 大阪ステンレス営業部 営業職 2019年入社／新卒 >>詳細へ>詳細へ>詳細へ<< 「営業本部」の採用情報へ",
+    "url": "https://www.toste.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "求人案内 | TOSTEトーステ株式会社｜サニタリー生産本部 — 採用情報 募集要項はこちら 採用メッセージ 工場とエンジニアリングの両軸でお客様に寄り添える存在へ。 私たちは、食品や飲料、医薬品等の生産設備に必要なステンレス材料 /機器を提供するとともに、プラント設備のエンジニアリングまで手掛けてい ...",
+    "url": "https://www.tostesanitary.jp/recruit/",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "トーステ(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "トーステ(株)【サニタリー生産本部】の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "Instagram：https://www.instagram.com/toste_saiyo/?igsh=c245Zzd6YWQyNHN6&utm_source=qr",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tostesanitary.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tostesanitary.jp/cont/product-info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tostesanitary.jp/product/search/?drawing_only=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tostesanitary.jp/product-var/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tostesanitary.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tostesanitary.jp/recruit/requirements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tostesanitary.jp/contact/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tostesanitary.jp/product/search/?document_type=variant&category=yousetsu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tostesanitary.jp/catalog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tostesanitary.jp/flyer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tostesanitary.jp/product/search/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tostesanitary.jp/contact/recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tostesanitary.jp/images/common/foot_bnr_recruit.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/cmp/%E3%83%88%E3%83%BC%E3%82%B9%E3%83%86%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en-hyouban.com/company/10006504796/salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E3%83%88%E3%83%BC%E3%82%B9%E3%83%86-%E6%B1%82%E4%BA%BA.html?vjk=367a64f4b3b91dd4",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onecareer.jp/companies/57768",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "トーステ 求人 年収",
+   "results": [
+    "https://jp.indeed.com/cmp/トーステ株式会社/salaries",
+    "https://en-hyouban.com/company/10006504796/salary/",
+    "https://jp.indeed.com/q-トーステ-求人.html?vjk=367a64f4b3b91dd4",
+    "https://tenshoku.mynavi.jp/company/423834/joblist/",
+    "https://jp.stanby.com/r_9bfef116ba71167d9108e7153be5fe57",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C1000000pn2J1&q_no=2",
+    "https://jobcatalog.yahoo.co.jp/company/1100008321/salaries/"
+   ]
+  },
+  {
+   "query": "トーステ 採用 新卒 高卒",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp109818/outline.html",
+    "https://job.mynavi.jp/27/pc/search/corp243115/outline.html",
+    "https://www.onecareer.jp/companies/57768",
+    "https://www.toste.co.jp/recruit/",
+    "https://www.tostesanitary.jp/recruit/",
+    "https://www.tostesanitary.jp/recruit/requirements/",
+    "https://www.toste.co.jp/recruit/voices"
+   ]
+  },
+  {
+   "query": "site:note.com トーステ",
+   "results": [
+    "https://note.com/tenpalife/n/nb9bf48ad2bdd",
+    "https://money.note.com/companies/4728",
+    "https://note.com/",
+    "https://note.com/login",
+    "https://note.com/daisuke_001/n/n8281a9ed730e",
+    "https://tales.note.com/",
+    "https://note.com/pon_nidaime/n/n47de35422be2"
+   ]
+  },
+  {
+   "query": "site:x.com トーステ",
+   "results": [
+    "https://x.com/2_x_n",
+    "https://x.com/dxu_korosute",
+    "https://x.com/taiyaki721/status/2116573409853514135",
+    "https://x.com/YogSothoYard_JP",
+    "https://x.com/i/user/2103529197167955968",
+    "https://x.com/TOTE_IlikeGAME/status/2099237751271174540",
+    "https://x.com/18k36"
+   ]
+  },
+  {
+   "query": "site:linkedin.com トーステ",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com トーステ",
+   "results": [
+    "https://www.facebook.com/tower.intoxicate/",
+    "https://www.facebook.com/100063696986593/videos/2178972246830886/",
+    "https://www.facebook.com/italiantrestelle/",
+    "https://www.facebook.com/SennichimaeBAB/",
+    "https://www.facebook.com/groups/402730762600370/posts/901259746080800/",
+    "https://www.facebook.com/groups/newbornbabymothercaretipsguides/posts/2394731677674614/",
+    "https://www.facebook.com/mishimatmc/"
+   ]
+  },
+  {
+   "query": "トーステ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/yoheionishi_ine",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://shachomeikan.jp/industry_article/5902"
+   ]
+  },
+  {
+   "query": "トーステ X 投稿",
+   "results": [
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://www.witha.jp/sns・マーケティング/x-posting-guide-beginners/",
+    "https://help.x.com/ja/using-x/posting-gifs-and-pictures",
+    "https://shuno26-blog.com/twtr-pstpcsp/",
+    "https://lifestyle.assist-all.co.jp/how-to-post-on-x-complete-guide-hashtag-and-troubleshooting/",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://japump.co.jp/twitter/how-to-tweet/"
+   ]
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部6頁・検索8回）",
+  "資本金": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部6頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部6頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部6頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部6頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部6頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部6頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部6頁・検索8回）"
+ }
+}

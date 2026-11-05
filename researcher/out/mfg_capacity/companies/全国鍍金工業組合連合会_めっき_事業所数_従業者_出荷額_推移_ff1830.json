@@ -1,0 +1,783 @@
+{
+ "name": "全国鍍金工業組合連合会 めっき 事業所数 従業者 出荷額 推移",
+ "en": "Japan electroplating industry association statistics",
+ "aliases": [
+  "全国鍍金工業組合連合会 統計",
+  "電気めっき業 事業所数 推移 工業統計",
+  "めっき業 1人当たり 加工賃"
+ ],
+ "context": "団体・めっき",
+ "kind": "market",
+ "researched_at": "2026-11-05T02:53:54.765877+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "従業者４人以上の事業所",
+    "url": "https://zentoren.or.jp/mekki/data.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の2025年経済構造実態調査によると、各業種の規模は次のとおりです（事業所数・従業者数は2025年6月1日時点、製造品出荷額等は2024年の実績",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "27,459人",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "31,487人",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "5,626人",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "22,229人",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "15,642人",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "電気めっき業の事業所数は、工業統計（従業者4人以上の事業所）で、2004年の1,489事業所から2014年に1,162事業所、2019年に1,070事業所へと減りました",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月時点の1,016事業所は全規模の事業所を対象とする値で、4人以上を対象とする過去の値と比べると、減少の幅は実際より小さく見えます",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "全国鍍金工業組合連合会（全鍍連）の組合員は、2005年4月時点で1,878社・従業員29,999人、2026年4月時点で22組合・1,107事業所・従業員24,675人です（2005年は社数、2026年は事業所数による値で、統計の事業所の数え方とも異なります）",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所の規模は小さく、2025年6月時点の電気めっき業1,016事業所のうち、従業者29人以下の事業所が779事業所（約77%）を占めます",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "100人以上の事業所は48事業所です",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年には、大型のめっき設備を持ちながら人員不足から稼働率が下がっていた三鷹金属工業のめっき事業を、セイワHD傘下の冨士鍍金工業所が譲り受け、製造能力を約35%増やす見込みを示しました（事例②）",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は取得の時点で、既存取引先以外の車載電装メーカー・自動車メーカーへの拡販、海外の自動車メーカーの新規開拓、金属加工と表面処理のパッケージでの提案、M&Aを含む生産拠点の拡充、自動化・省人化による生産性の向上の5点をシナジーとして想定していました",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの案件は、（i）事業承継型の持株会社が、株式の取得と事業の譲受を組み合わせて、愛知県・岐阜県を中心に、関東も含めてめっき・表面処理の会社と設備を積み上げている、（ii）買い手が取得の評価の目安（EV/EBITDA5倍以内）を開示している、（iii）売り手側の事情として、後継者不在だけでなく、人員不足と設備投資の余力の制約が公表されている、という点を示しています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "（１）電気めっき業における都道府県別製造品出荷額（平成22年度工業統計データより）",
+    "url": "https://zentoren.or.jp/mekki/data.html",
+    "pass": 3
+   },
+   {
+    "quote": "（２）電気めっき業における出荷額（平成22年度工業統計データより）",
+    "url": "https://zentoren.or.jp/mekki/data.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方で製造品出荷額等は、この20年、4,000億円台で推移しています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の2025年経済構造実態調査によると、各業種の規模は次のとおりです（事業所数・従業者数は2025年6月1日時点、製造品出荷額等は2024年の実績",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "4,933億円",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "7,148億円",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "1,288億円",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "3,043億円",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "3,164億円",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ各年の製造品出荷額等は、4,365億円、4,169億円、4,779億円です",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "JCUは、2026年3月期の国内の装飾向け薬品の売上がデザインの傾向の変化もあり横ばいと説明",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "JCUは、2026年3月期に台湾で半導体パッケージ基板向けのめっき薬品の売上が前年から大幅に増加したと説明",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "トーカロの半導体・FPD分野の売上高は248億円（2026年3月期、連結売上高の42.4%）",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体関連の需要 — トーカロは、中期経営計画「TOCALO2030」（2027年3月期〜2031年3月期）で、半導体・FPD分野の売上高を248億円（2026年3月期）から450億円に伸ばす目標を掲げています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "1,382億円（2026年3月期）",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "加工事業の売上高は486億円",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "585億円（2026年3月期）",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・FPD分野が売上高の42.4%",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "国内の電気めっき業の事業所数は、この20年で減少が続いています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の2025年経済構造実態調査によると、各業種の規模は次のとおりです（事業所数・従業者数は2025年6月1日時点、製造品出荷額等は2024年の実績",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "電気めっき業の事業所数は、工業統計（従業者4人以上の事業所）で、2004年の1,489事業所から2014年に1,162事業所、2019年に1,070事業所へと減りました",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "全国鍍金工業組合連合会（全鍍連）の組合員は、2005年4月時点で1,878社・従業員29,999人、2026年4月時点で22組合・1,107事業所・従業員24,675人です（2005年は社数、2026年は事業所数による値で、統計の事業所の数え方とも異なります）",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "電気めっき業の事業所数（2025年6月時点）は、東京都155、大阪府142、愛知県106、埼玉県88、神奈川県46の順で、製造品出荷額等（2024年実績）は、愛知県573億円、大阪府457億円、埼玉県406億円、東京都400億円、長野県361億円の順です（",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "単体の売上高は、有償支給取引を控除した付加価値額ベースで100億円超と開示されています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "対象事業の売上高は2億6,400万円（2026年6月期）、譲受価額は非公開です",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "エムエフケイは硬質アルマイト、精密洗浄、電解・化学研磨等を手がけ、2023年9月期の売上高は5億1,500万円です",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "キザイの2019年3月期の売上高は13億4,700万円、営業利益は1億1,700万円、純資産は18億4,200万円です",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年8月、残る株式を保有していたタイの上場会社Thai Stanley Electricから16.35%（170,040株）を2億9,000万バーツ（約10億2,300万円）で取得し、保有比率を83.65%から100%に引き上げました",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "2026年には、大型のめっき設備を持ちながら人員不足から稼働率が下がっていた三鷹金属工業のめっき事業を、セイワHD傘下の冨士鍍金工業所が譲り受け、製造能力を約35%増やす見込みを示しました（事例②）",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの案件は、（i）事業承継型の持株会社が、株式の取得と事業の譲受を組み合わせて、愛知県・岐阜県を中心に、関東も含めてめっき・表面処理の会社と設備を積み上げている、（ii）買い手が取得の評価の目安（EV/EBITDA5倍以内）を開示している、（iii）売り手側の事情として、後継者不在だけでなく、人員不足と設備投資の余力の制約が公表されている、という点を示しています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "トーカロは、中期経営計画「TOCALO2030」で、東南アジアではタイ、インドネシア、マレーシア、シンガポールを中心に事業を広げ、米国ではアリゾナ州に2025年9月に設立したTOCALO USA-Arizonaなどで生産能力を強化するとしています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "時期については、六価クロム化合物の暫定排水基準が施行日（2024年4月1日）から3年間、亜鉛の暫定排水基準が2029年12月10日までとされていることも、設備投資の計画と合わせて検討の材料になります",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "国内の電気めっき業の事業所数は、この20年で減少が続いています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で製造品出荷額等は、この20年、4,000億円台で推移しています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "めっき薬品の分野では、2025年に米国の化学メーカーが国内のめっき薬品メーカーを取得しています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "1. めっき・表面処理業界の市場構造 — 事業所の減少と再編の要因",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の2025年経済構造実態調査によると、各業種の規模は次のとおりです（事業所数・従業者数は2025年6月1日時点、製造品出荷額等は2024年の実績",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省 2025年経済構造実態調査 製造業事業所調査 産業別統計表",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "電気めっき業の事業所数は、工業統計（従業者4人以上の事業所）で、2004年の1,489事業所から2014年に1,162事業所、2019年に1,070事業所へと減りました",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月時点の1,016事業所は全規模の事業所を対象とする値で、4人以上を対象とする過去の値と比べると、減少の幅は実際より小さく見えます",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所の規模は小さく、2025年6月時点の電気めっき業1,016事業所のうち、従業者29人以下の事業所が779事業所（約77%）を占めます",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "JCUは、2026年3月期に台湾で半導体パッケージ基板向けのめっき薬品の売上が前年から大幅に増加したと説明",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数の減少と能力の集約 — 上記のとおり、電気めっき業の事業所数は減少が続く一方、出荷額等は維持されています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "暫定基準の対象は延長のたびに絞られ、2021年12月以降は電気めっき業だけが対象となり、値も4mg/Lに引き下げられています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月の改正で、電気めっき業の暫定基準4mg/Lは2029年12月10日まで延長されました",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "六価クロム化合物の排水基準も、2024年4月1日に0.5mg/Lから0.2mg/Lに強化され、電気めっき業には施行日から3年間、暫定基準0.5mg/Lが適用されています（",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "環境省 報道発表（2024年11月、亜鉛の暫定排水基準）",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "環境省 報道発表（2024年1月、六価クロム化合物の排水基準）",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "化学物質の規制では、PFOS（2010年）、PFOA（2021年）、PFHxS（2024年）が化学物質審査規制法の第一種特定化学物質に指定され、PFOSを含むめっき用の表面処理剤とその調製添加剤は輸入禁止製品とされています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "事業承継 — 中小企業庁の資料によると、経営者が70歳以上の中小企業は98.6万者で、中小企業実態基本調査に基づく全体（302.2万者）の32.6%を占めます（2023年6月時点",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © 2023 SHOWAKAN",
+    "url": "https://search.showakan.go.jp/search/book/detail.php?material_cord=000024550",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "人員の確保と設備投資の余力 — 三鷹金属工業のめっき事業の譲渡では、人員不足と追加投資の余力の制約により設備の稼働率が下がっていたことが、背景として公表されています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "人員と投資の余力を持つ買い手のもとで設備を稼働させることが、この取引の目的の一つでした",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "三鷹金属工業は大型のめっき設備と多数の生産ラインを持つ一方、人員不足と追加投資の余力の制約から稼働率が下がっていました",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの案件は、（i）事業承継型の持株会社が、株式の取得と事業の譲受を組み合わせて、愛知県・岐阜県を中心に、関東も含めてめっき・表面処理の会社と設備を積み上げている、（ii）買い手が取得の評価の目安（EV/EBITDA5倍以内）を開示している、（iii）売り手側の事情として、後継者不在だけでなく、人員不足と設備投資の余力の制約が公表されている、という点を示しています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "業績への影響については、売上高は変わらない一方、売上原価のうち外注加工費が減り、固定費が増える見込みとしています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "外注加工費が減るという説明からは、マルマエがこの事業に表面処理を委託していたことが読み取れます",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "目的は、精密部品事業における品質・コスト・納期の向上とサプライチェーンの強化です",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "事例④の買い手は一貫生産の強化を、事例⑤の買い手は品質・コスト・納期の向上とサプライチェーンの強化を目的としています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "取得の目的として、一貫生産の強化、品質・コスト・納期の向上、サプライチェーンの強化が挙げられています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "三鷹金属工業では、人員不足と追加投資の余力の制約から、めっき設備の稼働率が下がっていました（事例②）",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの公表からは、事例の売り手が、価格に加えて、譲渡後に設備を稼働させる人員と投資の余力、技術と雇用の承継、事業の継続を買い手に求めていたことがうかがえます",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://zentoren.or.jp/mekki/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.neji-bane.jp/news/20201116_02_04",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.f-mekki.co.jp/media/OUTSIDE/a59",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://search.showakan.go.jp/search/book/detail.php?material_cord=000024550",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wakayamapp.jp/blog/category2/entry-763.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plating.or.jp/pdf/90magazine.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tmk.or.jp:443//7_detabeshu/datapdf.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035176",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fm-007.com/case/plating/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizhint.jp/report/292267",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.miki.lg.jp/uploaded/attachment/5942.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/28census/documents/h28chosakekka_gaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.usugidenkai.co.jp/blog20260601/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://zentoren.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tmk.or.jp:443//7_detabeshu/deta000.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmtba.or.jp/english/category/machine-tool-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seaj.or.jp/english/statistics/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jema-net.or.jp/English/stats/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zentoren.or.jp/en/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeita.or.jp/english/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "全国鍍金工業組合連合会 めっき 事業所数 従業者 出荷額 推移",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "https://www.f-mekki.co.jp/media/OUTSIDE/a59",
+    "https://wakayamapp.jp/blog/category2/entry-763.html",
+    "https://search.showakan.go.jp/search/book/detail.php?material_cord=000024550",
+    "https://zentoren.or.jp/",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010405001840"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会 めっき 事業所数 従業者 出荷額 推移 推移",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "https://www.f-mekki.co.jp/media/OUTSIDE/a59",
+    "https://search.showakan.go.jp/search/book/detail.php?material_cord=000024550",
+    "https://wakayamapp.jp/blog/category2/entry-763.html",
+    "https://www.jdmia.or.jp/toukei/"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会 めっき 事業所数 従業者 出荷額 推移 統計 PDF",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "https://www.plating.or.jp/pdf/90magazine.pdf",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "https://www.f-mekki.co.jp/media/OUTSIDE/a59",
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.tmk.or.jp/7_detabeshu/datapdf.html"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会 めっき 事業所数 従業者 出荷額 推移 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035176",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2025gaiyo1.pdf",
+    "https://zentoren.or.jp/zentoren/gaiyou.html"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会 めっき 事業所数 従業者 出荷額 推移 従業者規模別",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.fm-007.com/case/plating/",
+    "https://bizhint.jp/report/292267",
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "https://www.f-mekki.co.jp/media/OUTSIDE/a59",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会 めっき 事業所数 従業者 出荷額 推移 1人当たり 万円",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "https://www.fm-007.com/case/plating/",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.city.miki.lg.jp/uploaded/attachment/5942.pdf",
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "https://www.f-mekki.co.jp/media/OUTSIDE/a59",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/28census/documents/h28chosakekka_gaiyo.pdf",
+    "https://wakayamapp.jp/blog/category2/entry-763.html"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会 めっき 事業所数 従業者 出荷額 推移 2015 2025",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.fm-007.com/case/plating/",
+    "https://www.usugidenkai.co.jp/blog20260601/",
+    "https://zentoren.or.jp/",
+    "http://www.tmk.or.jp/7_detabeshu/deta000.html"
+   ]
+  },
+  {
+   "query": "Japan electroplating industry association statistics Japan statistics",
+   "results": [
+    "https://www.jmtba.or.jp/english/category/machine-tool-statistics/",
+    "https://www.seaj.or.jp/english/statistics/index.html",
+    "https://www.jema-net.or.jp/English/stats/index.html",
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://zentoren.or.jp/en/index.html",
+    "https://www.jeita.or.jp/english/",
+    "https://www.stat.go.jp/english/",
+    "https://www.kenresearch.com/japan-metal-finishing-chemicals-market",
+    "https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-japan.pdf",
+    "https://www.kenresearch.com/japan-electroplating-market"
+   ]
+  },
+  {
+   "query": "site:note.com 全国鍍金工業組合連合会 めっき 事業所数 従業者 出荷額 推移",
+   "results": [
+    "https://note.com/apako_news/n/n66d49e138ce9",
+    "https://note.com/platypus2000jp/n/n4d2adfe23136",
+    "https://note.com/ezuremanagement/n/ned8d225ba00b",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/kens_reading1/n/n764c552aeeb9",
+    "https://note.com/kitakinkikeizai/n/n6d42cfca5ffb",
+    "https://note.com/kens_reading1/n/n3a82d8634512",
+    "https://note.com/marketindustry/n/n7a3d51601698",
+    "https://note.com/so_nandachem/n/n62f05eb7915c",
+    "https://note.com/yuiseita/n/n54b8f0dd127c"
+   ]
+  },
+  {
+   "query": "site:x.com 全国鍍金工業組合連合会 めっき 事業所数 従業者 出荷額 推移",
+   "results": [
+    "https://x.com/zentoren/status/2060242993370824959",
+    "https://x.com/zentoren/status/2041336846165409955",
+    "https://x.com/ChemStat66667/status/2078712688348123198",
+    "https://x.com/tokei_ibaraki/status/2038550140701851845",
+    "https://x.com/tokei_ibaraki/status/1620330455823441921",
+    "https://x.com/zentoren/status/2067420867924226324",
+    "https://x.com/HK48077554/status/2062070229388468261"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 全国鍍金工業組合連合会 めっき 事業所数 従業者 出荷額 推移",
+   "results": [
+    "https://jp.linkedin.com/in/秀和-中島-414b31256",
+    "https://www.linkedin.com/jobs/溶融めっきメーカー数　推移-jobs",
+    "https://www.linkedin.com/company/ikoc",
+    "https://jp.linkedin.com/in/mayuko-horiuchi-ba99661b0",
+    "https://www.linkedin.com/pulse/溶融亜鉛メッキ鋼-市場の最新動向市場規模成長率将来予測-strategyhive-technologies-3mpoe/",
+    "https://jp.linkedin.com/pulse/caustic-soda-price-trends-market-insights-demand-analysis-sharma-ejfvc",
+    "https://jp.linkedin.com/pulse/hydrochloric-acid-price-trends-global-market-analysis-naman-sharma-5olcc"
+   ]
+  },
+  {
+   "query": "site:facebook.com 全国鍍金工業組合連合会 めっき 事業所数 従業者 出荷額 推移",
+   "results": [
+    "https://www.facebook.com/yahatamekki/photos/全国鍍金工業組合連合会-会長東京都鍍金工業組合-理事長-苅宿充久氏の自伝努力は実る実らせる見習いから現代の名工へを城東支部に８冊寄贈して頂きました日頃運営にご尽/1968501489992145/",
+    "https://www.facebook.com/yahatamekki/posts/全国鍍金工業組合連合会-会長東京都鍍金工業組合-理事長-苅宿充久氏の自伝努力は実る実らせる見習いから現代の名工へを城東支部に８冊寄贈して頂きました日頃運営にご尽/1968501523325475/",
+    "https://www.facebook.com/story.php/?story_fbid=720004953160255&id=100054522697629",
+    "https://www.facebook.com/yahatamekki/posts/全国鍍金工業組合連合会-令和5年度青年部交流会未来を担う若手の集い各都道府県のめっき工業組合青年部の活動報告会を行い他府県の青年部の活発な活動を知ることが出来ま/914862217315506/",
+    "https://www.facebook.com/sensyo7/posts/3623503451042471/",
+    "https://www.facebook.com/yahatamekki/posts/東京都鍍金工業組合-城東支部令和７年度第86回通常総会議案第１号議案-令和７年度事業報告承認に関する件第２号議案-令和７年度会計報告承認に関する件第３号議案-令/1567856458682742/",
+    "https://www.facebook.com/yahatamekki/photos/東京都鍍金工業組合-城東支部令和７年度第86回通常総会議案第１号議案-令和７年度事業報告承認に関する件第２号議案-令和７年度会計報告承認に関する件第３号議案-令/1567856418682746/"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会 めっき 事業所数 従業者 出荷額 推移 note 社長",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "https://www.usugidenkai.co.jp/blog20260601/",
+    "https://bizhint.jp/report/292267",
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "https://wakayamapp.jp/blog/category2/entry-763.html",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.f-mekki.co.jp/media/OUTSIDE/a59",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/02079-00.pdf"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会 めっき 事業所数 従業者 出荷額 推移 X 投稿",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://sanyoumekki.co.jp/pages/39/detail=1/b_id=7/r_id=84/",
+    "https://www.usugidenkai.co.jp/blog20260601/",
+    "https://www.env.go.jp/chemi/prtr/archive/kondankai/4/1-3.pdf",
+    "https://zentoren.or.jp/zentoren/kumiai-7kanagawa.html",
+    "https://wakayamapp.jp/blog/category2/entry-763.html",
+    "https://www.f-mekki.co.jp/media/OUTSIDE/a59",
+    "https://lawplayer.com/jp/company/8010405001840",
+    "https://search.showakan.go.jp/search/book/detail.php?material_cord=000024550"
+   ]
+  },
+  {
+   "query": "Japan electroplating industry association statistics site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/jbashore/",
+    "https://www.linkedin.com/pulse/japan-commercial-door-hardware-market-report-company-profiles-4im4e",
+    "https://www.linkedin.com/in/gary-schnayderman-9a784b13",
+    "https://in.linkedin.com/in/metal-finishers-association-of-india-8b7401190",
+    "https://www.linkedin.com/pulse/analyzing-impact-regulatory-changes-nickel-acetate-d4oxc/",
+    "https://www.linkedin.com/company/a-brite-company",
+    "https://www.linkedin.com/in/stephen-sharretts-198a8618",
+    "https://www.linkedin.com/pulse/ten-key-companies-shaping-electroplating-apparatus-market-ww4ze",
+    "https://www.linkedin.com/company/fastener-show-china",
+    "https://www.linkedin.com/in/sachinparadkar"
+   ]
+  }
+ ],
+ "missing": {}
+}

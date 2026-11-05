@@ -1,0 +1,735 @@
+{
+ "name": "TAKISAWA",
+ "aliases": [],
+ "context": "岡山県岡山市／出典:県・市の企業ガイド／求人媒体:Indeed;doda／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T03:03:10.445294+00:00",
+ "official_url": "https://www.takisawa.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役社長執行役員",
+    "value": "松田　哲",
+    "url": "https://www.takisawa.co.jp/company/index.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社・工場",
+    "value": "岡山市北区撫川983(〒701-0164) TEL. 086-293-6111 FAX. 086-293-5571",
+    "url": "https://www.takisawa.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "label": "本社事業内容",
+    "value": "金属工作機械の製造販売 (CNC旋盤・普通旋盤・マシニングセンタ・ＦＡセル・システム他)",
+    "url": "https://www.takisawa.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒701-0164　岡山市北区撫川983",
+    "url": "https://okayama.job-start.jp/company/7884/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "23億1,902万円",
+    "url": "https://www.takisawa.co.jp/company/info.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "単体363名 2026年4月1日現在",
+    "url": "https://www.takisawa.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "383名（単体）",
+    "url": "https://okayama.job-start.jp/company/7884/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設　立",
+    "value": "設　立：1922年8月",
+    "url": "https://okayama.job-start.jp/company/7884/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "金属工作機械（CNC旋盤・普通旋盤・マシニングセンタ・FAセルなど）の製造販売",
+    "url": "https://okayama.job-start.jp/company/7884/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用の発信": [
+   {
+    "quote": "社会勉強のための小学生からお年寄りまでの工場見学、大学、高専、工業高校へ、ＦＡ技術教育用工作機械、システムの提供や各種団体による工場研修などを受け入れ、技術教育講師の派遣、技術セミナーの開催など、今後も地域の皆様とのコミュニケーションを大切にしたいと思っています",
+    "url": "https://www.takisawa.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "メンター制度(入社後3年間は先輩社員若しくは、人事担当が年3回以上定期面談)",
+    "url": "https://www.takisawa.co.jp/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "入社後、3年間は先輩社員若しくは人事担当者が年間3回定期面談を実施",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58183/outline.html",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "社会勉強のための小学生からお年寄りまでの工場見学、大学、高専、工業高校へ、ＦＡ技術教育用工作機械、システムの提供や各種団体による工場研修などを受け入れ、技術教育講師の派遣、技術セミナーの開催など、今後も地域の皆様とのコミュニケーションを大切にしたいと思っています",
+    "url": "https://www.takisawa.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お急ぎの場合は、お近くの拠点へお問い合わせください",
+    "url": "https://www.takisawa.co.jp/product/contact.html",
+    "pass": 1
+   },
+   {
+    "quote": "創業者兄弟の郷里、岡山県玉島町(現倉敷市玉島)に玉島工場を新設",
+    "url": "https://www.takisawa.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "大阪府布施市(現東大阪市)に布施工場を新設し、本社を移転すると同時に合名会社に改組",
+    "url": "https://www.takisawa.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "大阪府若江村(現東大阪市)に若江工場を新設",
+    "url": "https://www.takisawa.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "玉島工場に設備集中、本社を移転し、株式会社に改組",
+    "url": "https://www.takisawa.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "平和産業転換工場として、各種食品機器、産業機器等の製造販売及び工作機械の修理加工を開始",
+    "url": "https://www.takisawa.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "岡山県吉備町(現岡山市北区撫川)に岡山工場を新設",
+    "url": "https://www.takisawa.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "本社工場敷地内に本社社屋及びFMS工場を新設",
+    "url": "https://www.takisawa.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "玉島工場を本社工場へ集約後、閉鎖し売却",
+    "url": "https://www.takisawa.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "滝沢鉄工テクノサービス株式会社へ第三工場及び附属建物を譲渡し、生産の一部を移管",
+    "url": "https://www.takisawa.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "本社工場敷地内に研究開発棟(Ｒ＆Ｄセンター)を新設",
+    "url": "https://www.takisawa.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "台灣瀧澤科技股份有限公司台湾桃園縣楊梅市（現桃園市楊梅区）に第2工場を新設",
+    "url": "https://www.takisawa.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "本社工場敷地内に第4工場を新設",
+    "url": "https://www.takisawa.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "本社工場敷地内に第5工場を新設",
+    "url": "https://www.takisawa.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロボットなどを使い工場での作業を自動化すること、またそのシステム",
+    "url": "https://www.takisawa.co.jp/company/words.html",
+    "pass": 1
+   },
+   {
+    "quote": "海外各地に拠点を構えるグローバルな企業です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58183/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客さまの要望に応える工作機械を製作し、海外にも多数納入",
+    "url": "https://okayama.job-start.jp/company/7884/",
+    "pass": 3
+   },
+   {
+    "quote": "お客さま独自の要望を形にするカスタマイズ力を強みとし、世界各国に製品を納入",
+    "url": "https://okayama.job-start.jp/company/7884/",
+    "pass": 3
+   },
+   {
+    "quote": "本社・工場、国内営業所（北関東・関東・西関東・浜松・名古屋・大阪・岡山・福岡）",
+    "url": "https://okayama.job-start.jp/company/7884/",
+    "pass": 3
+   },
+   {
+    "quote": "生産工場の保全マンでしたが技術者としてのキャリア追求のために転職しました！",
+    "url": "https://note.com/hozenfighter",
+    "pass": 3
+   },
+   {
+    "quote": "現在は自動車部品の量産切削工場で設備保全をしています",
+    "url": "https://note.com/hozenfighter/n/nf97f6689e55e",
+    "pass": 3
+   },
+   {
+    "quote": "生産工場の保全マンでしたが技術者としてのキャリア追求のために転職しました！",
+    "url": "https://note.com/hozenfighter/n/nf97f6689e55e",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "株式会社ＴＡＫＩＳＡＷＡの採用情報はマイナビにて掲載中です！",
+    "url": "https://www.takisawa.co.jp/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)TAKISAWA【ニデックグループ】の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58183/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58183/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58183/outline.html",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "大学院卒： 月給270,000円",
+    "url": "https://www.takisawa.co.jp/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "大学卒： 月給240,000円",
+    "url": "https://www.takisawa.co.jp/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "高専卒： 月給220,000円",
+    "url": "https://www.takisawa.co.jp/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "高校卒： 月給200,000円",
+    "url": "https://www.takisawa.co.jp/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "通勤手当、住宅手当(上限4万円)、時間外手当",
+    "url": "https://www.takisawa.co.jp/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "23億1,902万円",
+    "url": "https://www.takisawa.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "23億1,900万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58183/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期 279億9,400万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58183/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期 264億9,600万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58183/outline.html",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "株式会社ＴＡＫＩＳＡＷＡの採用情報はマイナビにて掲載中です！",
+    "url": "https://www.takisawa.co.jp/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)TAKISAWA【ニデックグループ】の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58183/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58183/outline.html",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "階層別研修(新入社員、若手社員、次世代リーダー、新任管理職、管理職)",
+    "url": "https://www.takisawa.co.jp/recruit/index.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "採用情報｜株式会社TAKISAWA — 株式会社TAKISAWAの採用情報はマイナビにて掲載中です！ 皆様からのご応募、お待ちしております。",
+    "url": "https://www.takisawa.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)TAKISAWA【ニデックグループ】の新卒採用・会社概要 | マイナビ20...株式会社TAKISAWA | 高校生のための就職サポートサイト「Start!Web」...【二次募集受付中】東証プライム上場グループのTAKISAWA（旧 滝澤鉄工...(株)TAKISAWA【ニデックグループ】の募集コース一覧 | マイナビ2027株式会社TAKISAWA株式会社TAKISAWAの求人・仕事・採用｜スタンバイでお仕事探し — Apr 22, 2026 · 創業者の出身地岡山に本拠地を移し、工作機械づくりを行っております。 海外各地に拠点を構えるグローバルな企業です。 【TAKISAWAブランドの礎を築いた段車式旋盤】当社は100年以上にわたって工作機械をつくり続けています。 【高校生のための就職サポートサイトStart!Web岡山】 株式会社TAKISAWAで実際に働く先輩社員を紹介。 ",
+    "url": "https://job.mynavi.jp/27/pc/search/corp58183/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社TAKISAWA | 高校生のための就職サポートサイト「Start!Web」... — 【高校生のための就職サポートサイトStart!Web岡山】 株式会社TAKISAWAで実際に働く先輩社員を紹介。 あなたの高校を卒業した先輩も登場するかも？ みつけよう！ ミライの自分。 踏み出そう！ ミライの自分。",
+    "url": "https://okayama.job-start.jp/company/7884/",
+    "pass": 3
+   },
+   {
+    "quote": "【二次募集受付中】東証プライム上場グループのTAKISAWA（旧 滝澤鉄工... — Sep 18, 2026 · AIでスマートに働き、熟練工の技を受け継ぐ。 ものづくりの未来を、ここで始めよう！ TAKISAWAは、スマートフォンや自動車、航空機など、身近にあるさまざまな製品の部品を作るための「工作機械（マザーマシン）」を製造・販売しているメーカーです。",
+    "url": "https://navi.handy.school/job/01M2SFZME4PN1WH2BE66W7YC5G",
+    "pass": 3
+   },
+   {
+    "quote": "(株)TAKISAWA【ニデックグループ】の募集コース一覧 | マイナビ2027 — (株)TAKISAWA【ニデックグループ】の募集コース一覧ページです。マイナビ2027は、採用情報や企業情報で、就職活動を ...",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayRecruitingCourseList/index?corpId=58183",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "takisawa｜note noteプレミアム note pro ヘルプ プライバシー クリエイターへのお問い合わせ フィードバック ご利用規約 通常ポイント利用 ...",
+    "url": "https://note.com/takisawa_web",
+    "pass": 3
+   },
+   {
+    "quote": "バキバキの六角レンチ｜note 保全マン備忘録_工作機械修理記録_TAKISAWA製汎用旋盤主軸回転不良 保全マン備忘録_工作機械修理記録_オークマ製NC旋盤の衝突復旧 保全マン備忘録_工作機械修理記録_マシニングセンタ主軸振れ精度",
+    "url": "https://note.com/hozenfighter",
+    "pass": 3
+   },
+   {
+    "quote": "保全マン備忘録_工作機械修理記録_TAKISAWA製汎用旋盤主軸回転不良｜... Dec 8, 2025 · 今回は前職でのTAKISAWA製汎用旋盤の主軸回転不良理記録です。 【現象】 高速ギヤの最後2つの主軸回転が回転数表記と合わず遅い。 【調査】 LOWギヤは全て正常。 HIGHギヤの2/6（最高回転に近い方）があきらかに正規の回転数に達していない。",
+    "url": "https://note.com/hozenfighter/n/nf97f6689e55e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "現在、技術商社で工作機械のサービスエンジニアをやっています。",
+    "url": "https://note.com/hozenfighter",
+    "pass": 3
+   },
+   {
+    "quote": "技術や知識の教育概念がないサービスエンジニア業務を日々アウトプットして辞典にしていきたいと思ってます。",
+    "url": "https://note.com/hozenfighter",
+    "pass": 3
+   },
+   {
+    "quote": "生産工場の保全マンでしたが技術者としてのキャリア追求のために転職しました！",
+    "url": "https://note.com/hozenfighter",
+    "pass": 3
+   },
+   {
+    "quote": "保全マン備忘録_工作機械修理記録_TAKISAWA製汎用旋盤主軸異音",
+    "url": "https://note.com/hozenfighter",
+    "pass": 3
+   },
+   {
+    "quote": "保全マン備忘録_工作機械修理記録_岡本工作機械製NC平面研削盤のテーブル前後軸修理",
+    "url": "https://note.com/hozenfighter",
+    "pass": 3
+   },
+   {
+    "quote": "保全マン備忘録_工作機械修理記録_マザック製NC旋盤の精度不良修理",
+    "url": "https://note.com/hozenfighter",
+    "pass": 3
+   },
+   {
+    "quote": "保全マン備忘録_工作機械修理記録_TAKISAWA製汎用旋盤主軸回転不良",
+    "url": "https://note.com/hozenfighter",
+    "pass": 3
+   },
+   {
+    "quote": "保全マン備忘録_工作機械修理記録_TAKISAWA製汎用旋盤主軸回転不良｜バキバキの六角レンチ",
+    "url": "https://note.com/hozenfighter/n/nf97f6689e55e",
+    "pass": 3
+   },
+   {
+    "quote": "保全マン備忘録_工作機械修理記録_TAKISAWA製汎用旋盤主軸回転不良",
+    "url": "https://note.com/hozenfighter/n/nf97f6689e55e",
+    "pass": 3
+   },
+   {
+    "quote": "現在は自動車部品の量産切削工場で設備保全をしています。",
+    "url": "https://note.com/hozenfighter/n/nf97f6689e55e",
+    "pass": 3
+   },
+   {
+    "quote": "今回は前職でのTAKISAWA製汎用旋盤の主軸回転不良理記録です。",
+    "url": "https://note.com/hozenfighter/n/nf97f6689e55e",
+    "pass": 3
+   },
+   {
+    "quote": "高速ギヤの最後2つの主軸回転が回転数表記と合わず遅い。",
+    "url": "https://note.com/hozenfighter/n/nf97f6689e55e",
+    "pass": 3
+   },
+   {
+    "quote": "LOWギヤは全て正常。HIGHギヤの2/6（最高回転に近い方）があきらかに正規の回転数に達していない。ベルトの滑りを確認し正常。",
+    "url": "https://note.com/hozenfighter/n/nf97f6689e55e",
+    "pass": 3
+   },
+   {
+    "quote": "マグネットスイッチを確認するとHIGHギヤの時に2次側の電圧が低い。マグネットスイッチのカバー外して確認すると接点が溶損していました。",
+    "url": "https://note.com/hozenfighter/n/nf97f6689e55e",
+    "pass": 3
+   },
+   {
+    "quote": "高速回転時の負荷に対する電力の供給が接点の溶損により追い付かず電圧が低下して回転数が上がっていなかったよう。",
+    "url": "https://note.com/hozenfighter/n/nf97f6689e55e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Greg Koenig on X: \"Manual lathe final assembly at Takisawa in ... Manual lathe final assembly at Takisawa in Okayama. I’m very surprised by the number in production, but even today- there are still valid uses for manual lathes and Takisawa is the last real game in town.",
+    "url": "https://x.com/gak_pdx/status/2113161758223511777",
+    "pass": 3
+   },
+   {
+    "quote": "Yutaka Takisawa/AIでビジネスを加速 (@YutakaTakisawa) / Posts / X Yutaka Takisawa/AIでビジネスを加速 (@YutakaTakisawa) - Posts - AI自動化でビジネスの「時間」と「利益」を極大化するプロフェッショナル。 実務に即した自律型エージェント構築を得意とし、24時間眠らない収益システムを設計。",
+    "url": "https://x.com/YutakaTakisawa",
+    "pass": 3
+   },
+   {
+    "quote": "TAKISAWAが工具主軸型複合加工機、旋盤加工から歯車加工まで集約 TAKISAWAが工具主軸型複合加工機、旋盤加工から歯車加工まで集約 ニデックのグループ会社であるTAKISAWAは、工具主軸型複合加工機「TEX-2500S」の本格販売を開始した。 複合CNC旋盤からATC（自動工具交換装置）搭載型複合加工機へのスムーズな移行を実現する。",
+    "url": "https://x.com/industryJapan/status/2074380226432504241",
+    "pass": 3
+   },
+   {
+    "quote": "Late night with Brother engineers and leadership, morning ... Late night with Brother engineers and leadership, morning Shinkansen to Okyama, a little sushi and now walking into Takisawa to see how they build some of the world’s most accurate lathes: https://t.co/u3SaH2dY7a",
+    "url": "https://x.com/gak_pdx/status/2113135077169488012",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "TAKISAWA, INC. - LinkedIn TAKISAWA, INC. | 602 followers on LinkedIn. A Turn-Key Solutions Provider | In 1922, Takisawa started as a small manufacturer.",
+    "url": "https://www.linkedin.com/company/takisawausa",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi Takisawa - TAKISAWA, INC. / President | LinkedInFrancisco Álvarez Takisawa - N23 arquitectos | LinkedInSho Takisawa - WinTool Consultant in Japan, Managing Director ...Andrick Takisawa - LinkedInUchida San - Takisawa - DGM Sales | LinkedInLin Chen Yung - Taiwan Takisawa Technology Co Ltd Managing ... View Yoshi Takisawa’s profile on LinkedIn, a professional community of 1 billion members. Ex",
+    "url": "https://www.linkedin.com/in/yoshi-takisawa-a3548163",
+    "pass": 3
+   },
+   {
+    "quote": "Francisco Álvarez Takisawa - N23 arquitectos | LinkedInSho Takisawa - WinTool Consultant in Japan, Managing Director ...Andrick Takisawa - LinkedInUchida San - Takisawa - DGM Sales | LinkedInLin Chen Yung - Taiwan Takisawa Technology Co Ltd Managing ... Experiencia: N23 arquitectos · Educación: Universidad Nacional Autónoma de México · Ubicación: Ciudad de México · 1 contacto en LinkedIn. Ver el p",
+    "url": "https://mx.linkedin.com/in/franciscotakisawa",
+    "pass": 3
+   },
+   {
+    "quote": "Sho Takisawa - WinTool Consultant in Japan, Managing Director ...Andrick Takisawa - LinkedInUchida San - Takisawa - DGM Sales | LinkedInLin Chen Yung - Taiwan Takisawa Technology Co Ltd Managing ... Sho Takisawa WinTool Consultant in Japan, Managing Director at TK Holdings Inc. 日本 大阪府 42人のフォロワー 41人のつながり 共通のつながりを表示 Andrick Takisawa · I’m the Founder and CEO of Incote and ConectaMente, two projects ",
+    "url": "https://jp.linkedin.com/in/sho-takisawa-01830b169",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社TAKISAWA_Takisawa Machine Tool Co., Ltd - FacebookTakisawa - FacebookFacebook - log in or sign upTakisawa Machine SHOP - FacebookTakisawa Machine Shop - FacebookTaiwan Takisawa - Thailand - Facebook台灣瀧澤科技-Taiwan Takisawa | Taoyüan - Facebook Jun 8, 2023 · ／ 今回は、当社が近年開発やリニューアルに力を入れて いる複合加工機の選定ポイントを3つにまとめました 。 機種選定でお悩みの際はぜひご一読ください！ https://www.takisawa.co. jp/product_topics/2023/04/04/2497/ #TAK",
+    "url": "https://www.facebook.com/TAKISAWA.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Takisawa - FacebookFacebook - log in or sign upTakisawa Machine SHOP - FacebookTakisawa Machine Shop - FacebookTaiwan Takisawa - Thailand - Facebook台灣瀧澤科技-Taiwan Takisawa | Taoyüan - Facebook Apr 21, 2026 · Takisawa. 1,059 likes · 1 talking about this. Nidec Takisawa (Taiwan) - Leading manufacture of CNC Lathe machine Connect with friends and the world around you on Facebook. Takisawa Machine SHOP",
+    "url": "https://www.facebook.com/takisawacnclathe/",
+    "pass": 3
+   },
+   {
+    "quote": "Takisawa Machine SHOP - Facebook Takisawa Machine SHOP. 28 likes. Manufacturer of Industrial Rubber, General Machining Works, Engineering Plastic, PVC Curtain, Convey",
+    "url": "https://www.facebook.com/people/Takisawa-Machine-SHOP/100063780951569/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.takisawa.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takisawa.co.jp/company/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takisawa.co.jp/product/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takisawa.co.jp/recruit/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takisawa.co.jp/product/contact.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takisawa.co.jp/company/form.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takisawa.co.jp/company/info.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takisawa.co.jp/company/access.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takisawa.co.jp/company/sales.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takisawa.co.jp/company/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takisawa.co.jp/company/words.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takisawa.co.jp/company/movie.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.takisawa.co.jp/pdf/company_info_202606.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp58183/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://okayama.job-start.jp/company/7884/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/takisawa_web",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/hozenfighter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hozenfighter/n/nf97f6689e55e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/gak_pdx/status/2113161758223511777",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/YutakaTakisawa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/industryJapan/status/2074380226432504241",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/gak_pdx/status/2113135077169488012",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/takisawausa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/yoshi-takisawa-a3548163",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/in/franciscotakisawa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/sho-takisawa-01830b169",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TAKISAWA.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/takisawacnclathe/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/Takisawa-Machine-SHOP/100063780951569/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "TAKISAWA 求人 年収",
+   "results": []
+  },
+  {
+   "query": "TAKISAWA 採用 新卒 高卒",
+   "results": [
+    "https://www.takisawa.co.jp/recruit/",
+    "https://job.mynavi.jp/27/pc/search/corp58183/outline.html",
+    "https://okayama.job-start.jp/company/7884/",
+    "https://navi.handy.school/job/01M2SFZME4PN1WH2BE66W7YC5G",
+    "https://job.mynavi.jp/27/pc/corpinfo/displayRecruitingCourseList/index?corpId=58183",
+    "https://www.takisawa.co.jp/../../",
+    "https://jp.stanby.com/r_ca104a3dc8cc3c09f33b106a9f31486e"
+   ]
+  },
+  {
+   "query": "site:note.com TAKISAWA",
+   "results": [
+    "https://note.com/takisawa_web",
+    "https://note.com/hozenfighter",
+    "https://note.com/",
+    "https://note.com/hozenfighter/n/nf97f6689e55e",
+    "https://note.com/hozenfighter/n/n94504861645b",
+    "https://note.com/3n7no_tech_pr/n/n8664818b1cbe?hl=en",
+    "https://note.com/one4800/n/n37c783eb8b05"
+   ]
+  },
+  {
+   "query": "site:x.com TAKISAWA",
+   "results": [
+    "https://x.com/gak_pdx/status/2113161758223511777",
+    "https://x.com/YutakaTakisawa",
+    "https://x.com/industryJapan/status/2074380226432504241",
+    "https://x.com/gak_pdx/status/2113135077169488012",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/and_meelan/status/2113226248759783792",
+    "https://x.com/gak_pdx/status/2113253491007537159"
+   ]
+  },
+  {
+   "query": "site:linkedin.com TAKISAWA",
+   "results": [
+    "https://www.linkedin.com/company/takisawausa",
+    "https://www.linkedin.com/in/yoshi-takisawa-a3548163",
+    "https://mx.linkedin.com/in/franciscotakisawa",
+    "https://jp.linkedin.com/in/sho-takisawa-01830b169",
+    "https://mx.linkedin.com/in/andricktakisawa",
+    "https://in.linkedin.com/in/uchida-san-3989a011a",
+    "https://tw.linkedin.com/in/lin-chen-yung-343b5218b"
+   ]
+  },
+  {
+   "query": "site:facebook.com TAKISAWA",
+   "results": [
+    "https://www.facebook.com/TAKISAWA.jp/",
+    "https://www.facebook.com/takisawacnclathe/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/people/Takisawa-Machine-SHOP/100063780951569/",
+    "https://www.facebook.com/p/Takisawa-Machine-Shop-61555523877995/",
+    "https://www.facebook.com/p/Taiwan-Takisawa-Thailand-100064095011728/",
+    "https://www.facebook.com/TaiwanTakisawa/"
+   ]
+  },
+  {
+   "query": "TAKISAWA note 社長",
+   "results": [
+    "https://monoque.jp/columns/takisawa-1/",
+    "https://www.nikkei.com/article/DGXZQOUF021E30S6A200C2000000/",
+    "https://www.nikkan.co.jp/articles/view/772562",
+    "https://www.sanyonews.jp/article/1879432",
+    "https://www.nikkei.com/article/DGXZTSJF11001_Q6A130C2000000/",
+    "https://www.sanyonews.jp/article/1867182",
+    "https://www.nidec.com/files/user/www-nidec-com/corporate/news/2026/0130-01/260130-01.pdf"
+   ]
+  },
+  {
+   "query": "TAKISAWA X 投稿",
+   "results": [
+    "https://search.yahoo.co.jp/realtime/search/TAKISAWA/",
+    "https://x.com/h_Takizawa329",
+    "https://x.com/__Takizawa_",
+    "https://news.livedoor.com/article/detail/25140898/",
+    "https://www.instagram.com/h.takizawa_official/",
+    "https://www.asahi.com/articles/ASV763VZJV76ULFA01RM.html",
+    "https://xkings.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部16頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部16頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部16頁・検索8回）"
+ }
+}

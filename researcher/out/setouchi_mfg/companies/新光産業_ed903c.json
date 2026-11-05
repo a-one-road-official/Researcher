@@ -1,0 +1,764 @@
+{
+ "name": "新光産業",
+ "aliases": [],
+ "context": "山口県宇部市／出典:マイナビ／求人媒体:見当たらず／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T02:49:23.815200+00:00",
+ "official_url": "https://www.ube-shinko.co.jp/",
+ "identified_by": "search:ddgs:bing:新光産業",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：昭和10年10月8日",
+    "url": "https://www.ube-shinko.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：昭和39年2月1日",
+    "url": "https://www.ube-shinko.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：昭和42年2月13日",
+    "url": "https://www.ube-shinko.co.jp/corporate/affiliate_company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：昭和55年7月1日",
+    "url": "https://www.ube-shinko.co.jp/corporate/affiliate_company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：平成8年1月18日",
+    "url": "https://www.ube-shinko.co.jp/corporate/affiliate_company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：昭和34年4月2日",
+    "url": "https://www.ube-shinko.co.jp/corporate/affiliate_company/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://www.ube-shinko.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "2,000万円",
+    "url": "https://www.ube-shinko.co.jp/corporate/affiliate_company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1,000万円",
+    "url": "https://www.ube-shinko.co.jp/corporate/affiliate_company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "15,000千円",
+    "url": "https://www.ube-shinko.co.jp/corporate/affiliate_company/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年商",
+    "value": "100億円",
+    "url": "https://www.ube-shinko.co.jp/corporate/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "330名",
+    "url": "https://www.ube-shinko.co.jp/corporate/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "山口県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=222380&recruitingCourseId=27015716",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "長野県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=222380&recruitingCourseId=27015716",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "岡山県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=222380&recruitingCourseId=27015716",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "千葉県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=222380&recruitingCourseId=27015716",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "北海道",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=222380&recruitingCourseId=27015716",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "埼玉県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=222380&recruitingCourseId=27015716",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "広島県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=222380&recruitingCourseId=27015716",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "静岡県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=222380&recruitingCourseId=27015716",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都、大阪府",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=222380&recruitingCourseId=27015716",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "山梨県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=222380&recruitingCourseId=27015716",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用ページ": [
+   {
+    "quote": "新卒・中途の方へ向けた社員からのメッセージ、1日のスケジュール、インタビュー、募集要項や福利厚生についてご紹介しております",
+    "url": "https://www.ube-shinko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "スタッフメッセージ新卒採用｜新光産業株式会社",
+    "url": "https://www.ube-shinko.co.jp/recruit/freshers_interview/",
+    "pass": 1
+   },
+   {
+    "quote": "スタッフメッセージ中途採用｜新光産業株式会社",
+    "url": "https://www.ube-shinko.co.jp/recruit/career_interview/",
+    "pass": 1
+   },
+   {
+    "quote": "スタッフメッセージ2｜新卒採用｜新光産業株式会社",
+    "url": "https://www.ube-shinko.co.jp/recruit/freshers_interview/2/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用 入社11年目",
+    "url": "https://www.ube-shinko.co.jp/recruit/freshers_interview/2/",
+    "pass": 1
+   },
+   {
+    "quote": "スタッフメッセージ3｜新卒採用｜新光産業株式会社",
+    "url": "https://www.ube-shinko.co.jp/recruit/freshers_interview/3/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用 入社5年目",
+    "url": "https://www.ube-shinko.co.jp/recruit/freshers_interview/3/",
+    "pass": 1
+   },
+   {
+    "quote": "スタッフメッセージ4｜新卒採用｜新光産業株式会社",
+    "url": "https://www.ube-shinko.co.jp/recruit/freshers_interview/4/",
+    "pass": 1
+   },
+   {
+    "quote": "新光産業(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222380/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222380/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222380/outline.html",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "同系地下部門７組合と合体して古谷鉱業株式会社に改組、資本金２億４千万円",
+    "url": "https://www.ube-shinko.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "上記地上部門事業所を古谷鉱業株式会社から分離して新光産業株式会社設立、資本金１億２千万円",
+    "url": "https://www.ube-shinko.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金を2億4千万円に増資",
+    "url": "https://www.ube-shinko.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "2,000万円",
+    "url": "https://www.ube-shinko.co.jp/corporate/affiliate_company/",
+    "pass": 1
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://www.ube-shinko.co.jp/corporate/affiliate_company/",
+    "pass": 1
+   },
+   {
+    "quote": "※給与改定につき、2027年4月入社向けから適用のため、実績なし",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=222380&recruitingCourseId=27015716",
+    "pass": 3
+   },
+   {
+    "quote": "1年目 ：年収330～400万円",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=222380&recruitingCourseId=27015716",
+    "pass": 3
+   },
+   {
+    "quote": "5年目 ：年収400～500万円 20代主任",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=222380&recruitingCourseId=27015716",
+    "pass": 3
+   },
+   {
+    "quote": "10年目：年収500～600万円 30代係長",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=222380&recruitingCourseId=27015716",
+    "pass": 3
+   },
+   {
+    "quote": "15年目：年収600～700万円 40代課長",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=222380&recruitingCourseId=27015716",
+    "pass": 3
+   },
+   {
+    "quote": "20年目：年収700万円～ 50代部長",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=222380&recruitingCourseId=27015716",
+    "pass": 3
+   },
+   {
+    "quote": "期末賞与あり(3月)※会社業績による",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=222380&recruitingCourseId=27015716",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "お客様から営業へ営業から工場へ工場からお客様へ、また部下と上司の間など人と人との対話で企業は成り立っています",
+    "url": "https://www.ube-shinko.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金を3億円に増資",
+    "url": "https://www.ube-shinko.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄構工場を鉄構事業部として建設事業部から分離",
+    "url": "https://www.ube-shinko.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先は誰もが知る大手食品メーカーばかりです",
+    "url": "https://www.ube-shinko.co.jp/recruit/freshers_interview/4/",
+    "pass": 1
+   },
+   {
+    "quote": "作成した製作図の通りにできるか工場へ相談、さらに製作図を進める",
+    "url": "https://www.ube-shinko.co.jp/recruit/freshers_interview/4/",
+    "pass": 1
+   },
+   {
+    "quote": "100億円（2023年3月時点）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222380/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "山口県内売上高上位0.5％の位置する売上100億円企業です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222380/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "そういった環境の中で、これまでに工場や事務所など数多くの施設を担当してきました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222380/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様から営業へ営業から工場へ工場からお客様へ、また部下と上司の間など人と人との対話で企業は成り立っています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222380/outline.html",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "先輩社員一人ひとりの仕事、オフの過ごし方についてや、",
+    "url": "https://www.ube-shinko.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員一人ひとりの仕事、オフの過ごし方についてや、",
+    "url": "https://www.ube-shinko.co.jp/recruit/freshers_interview/",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員一人ひとりの仕事、オフの過ごし方についてや、",
+    "url": "https://www.ube-shinko.co.jp/recruit/career_interview/",
+    "pass": 1
+   },
+   {
+    "quote": "★WEB★ 新光産業の会社説明会予約はこちら！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222380/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "★WEB★ 新光産業の会社説明会予約はこちら！",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=222380&recruitingCourseId=27015716",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "部署内では若手の彼は仕事への取り組みがとても親切で丁寧だと評判です",
+    "url": "https://www.ube-shinko.co.jp/recruit/freshers_interview/2/",
+    "pass": 1
+   },
+   {
+    "quote": "若手が少ない業界なので、早く１人前になれるよう努力したいです",
+    "url": "https://www.ube-shinko.co.jp/recruit/freshers_interview/3/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "新光産業株式会社 の給与 - Indeed (インディード) — 新光産業株式会社の平均月給の範囲は約 20.0万円／月（清掃車ドライバー）から約 45.6万円／月（建築士）です。 新光産業株式会社の平均年収は、約392万円 (回路設計) 〜743万円 (土木施工管理技士) です。",
+    "url": "https://jp.indeed.com/cmp/新光産業株式会社/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "新光産業株式会社のバイト・パート・正社員求人情報 | Indeed (インデ... — 新光産業株式会社の最新の求人は32件です。新光産業株式会社の求人情報、採用動向、社員クチコミ、給与などの企業情報 ...",
+    "url": "https://jp.indeed.com/cmp/新光産業株式会社/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "新光産業株式会社の平均年収、年間給与所得情報 − 転職ならdoda（デュ... — 従業員数 331名 平均年齢 - 歳 概要 求人 年収 写真 新光産業株式会社の平均年収、給与情報 新光産業株式会社の 年収 職種別年収例 dodaの現在または過去の掲載求人による、社員の実際の年収例を職種別に掲載しています。 ※掲載している年収例はモデル ...",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10003529211/",
+    "pass": 3
+   },
+   {
+    "quote": "新光産業株式会社 の求人・中途採用情報 − 転職ならdoda（デューダ） — 新光産業株式会社の公開中の求人情報（15件）やこれまで募集していた求人情報も掲載。dodaの企業情報ページでは上場企業や、大手から中小企業まで476,701社の企業情報が無料で検索・閲覧できます。ぜひ志望動機や面接対策の研究にお役立てください。",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10003529211/",
+    "pass": 3
+   },
+   {
+    "quote": "新光産業の年収・給与・昇給・ボーナス（2件）｜Yahoo!しごとカタログ — 新光産業株式会社の社員・元従業員による平均年収は、回答者は436万円。年収・給与・ボーナスなどの待遇に関する評判・クチコミを掲載（2件）。職種、雇用形態別、年代別などの平均年収も掲載。",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2001657223/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "新光産業 (株)の新卒採用・会社概要 | マイナビ2027採用情報｜新光産業株式会社新光産業(株)の採用データ - マイナビ2027新光産業グループの正社員・アルバイト・パート求人情報働く環境｜新卒採用｜新光産業株式会社【新光産業グループ】新光産業株式会社 本部 総合職 新卒の正社員・ア... — Oct 26, 2026 · 新光産業 (株)の会社概要ページです。マイナビ2027は、採用情報や企業情報で、就職活動をサポートします。 先輩社員一人ひとりの仕事、オフの過ごし方についてや、 一日のスケジュール、上司からのコメントをご紹介します。 Oct 26, 2026 · 新光産業 (株)の採用データページです。マイナビ2027は、新光産業 (株)の採用情報や企業情報で、就職活動をサポートします。 【新光産業グループ】の正社員・アルバイト・パート情報ならこちら！勤務地、こだわり条件などから仕",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222380/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "新光産業(株)の採用データ - マイナビ2027新光産業グループの正社員・アルバイト・パート求人情報働く環境｜新卒採用｜新光産業株式会社【新光産業グループ】新光産業株式会社 本部 総合職 新卒の正社員・ア... — Oct 26, 2026 · 新光産業 (株)の採用データページです。マイナビ2027は、新光産業 (株)の採用情報や企業情報で、就職活動をサポートします。 【新光産業グループ】の正社員・アルバイト・パート情報ならこちら！勤務地、こだわり条件などから仕事を探そう！（2026年09月28日更新）|【新光産業グループ】の求人・仕事情報サイト 入社より6か月で10日付与されます。 慶弔休暇、社会奉仕休暇、裁判員休暇等 産前6週間、産後8週間休暇の取得ができます。 法令に基づいた育児休業制度を実施しています。時短勤務可能。 法令に基づいた介護休業制度を実施しています。 【新光産業グルー",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222380/employment.html",
+    "pass": 3
+   },
+   {
+    "quote": "新光産業グループの正社員・アルバイト・パート求人情報 — 【新光産業グループ】の正社員・アルバイト・パート情報ならこちら！勤務地、こだわり条件などから仕事を探そう！（2026年09月28日更新）|【新光産業グループ】の求人・仕事情報サイト",
+    "url": "https://ube-shinko-group-recruit.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【新光産業グループ】新光産業株式会社 本部 総合職 新卒の正社員・ア... — 【新光産業グループ】の正社員・アルバイト・パート情報ならこちら！新光産業株式会社 本部 総合職 新卒の仕事を探そう！（2026年07月09日更新）|【新光産業グループ】の求人・仕事情報サイト",
+    "url": "https://ube-shinko-group-recruit.jp/list/?jobTypeId=8005083102&brandId=800508301",
+    "pass": 3
+   },
+   {
+    "quote": "新光産業株式会社 採用サイト | 新光産業株式会社の採用サイトです。... — 私たちは、電気設備資材の卸売を通して、 沖縄の暮らしと仕事を支える商社です。 公共施設から住宅、商業施設まで、 人が過ごすすべての空間が私たちの仕事場。 目立たないけれど欠かせない “インフラの担い手”として、 創業から50年、地域に貢献してきました。 私たちの使命は、 ただ ...",
+    "url": "https://shinkousangyou.jp/recruit/sp/",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "新光産業(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222380/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222380/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "新光産業(株)の採用データ | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=222380&recruitingCourseId=27015716",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "宇部市 : 旧新光産業本社屋 (？) 近年まで｢中国水工｣という会社の社... nori7770 (腹よわボーイ). 100 likes 1 replies. 宇部市 : 旧新光産業本社屋 (？) 近年まで｢中国水工｣という会社の社屋だったらしく、その前は親会社 (？)の｢新光産業｣の本社屋であったようだ。｢新光産業｣の前身は｢古谷鉱業｣といい、宇部興産と同じく沖ノ山炭鉱に端を発する企業。 現在は解体 ...",
+    "url": "https://x.com/nori7770/status/2114327614693261468",
+    "pass": 3
+   },
+   {
+    "quote": "4月29日 (水・祝)に #新光産業きらら浜自然観察公園 で #春まつり を... 山口県 (@yamaguchikouhou). 21 likes. 4月29日 (水・祝)に #新光産業きらら浜自然観察公園 で #春まつり を開催 ️ 沖縄ぜんざい (#あまがし)を先着100杯限定で無料配布、#エイサー 演舞、沖縄のご飯の #キッチンカー など内容盛りだくさんのイベントです☺️ ぜひお越しください 詳しくは☟ https://t.co ...",
+    "url": "https://x.com/yamaguchikouhou/status/2046424181630542052",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "新光産業株式会社 | Naha-shi Okinawa - Facebook新光産業-（株） - Facebook新光産業株式会社 | Facebook新光産業株式会社 - 皆さんお待たせしました！ いや、お待たせ過ぎた...新光産業-（株） - こんにちは、新光産業です。 今回は、4月13日にBBQ...新光産業株式会社 - 4月29日日曜日に毎年恒例の新光産業のBBQがありま...新光産業-（株） - みなさんこんにちは 新光産業本社からお知らせです... May 27, 2022 · 新光産業株式会社, Naha-shi. 158 likes · 7 were here. 沖縄の電設資材販売会社「新光産業株式会社」のFacebookページです。 Oct 29, 2024 · 新光産業です 最近暑くて大変ですね💦熱中症には十分に気をつけて お過ごしください🥵 そして本日は、8月がスター",
+    "url": "https://www.facebook.com/shinkousangyou/",
+    "pass": 3
+   },
+   {
+    "quote": "新光産業-（株） - Facebook Oct 29, 2024 · 新光産業です 最近暑くて大変ですね💦熱中症には十分に気をつけて お過ごしください🥵 そして本日は、8月がスタートしていますが、先月7月 分の誕生日紹介になります🎂 7月生まれのみなさん、おめでとうございます🎵 ＃新光産業 こんにちは！",
+    "url": "https://www.facebook.com/p/新光産業-株-100064262614596/",
+    "pass": 3
+   },
+   {
+    "quote": "新光産業株式会社 | Facebook May 27, 2022 · 新光産業株式会社 Apr 20, 2022 皆さんお待たせしました！ いや、お待たせ過ぎたのかもしれません！ あの三年に一度の祭典がなんと！ なんと！ 5月27日 (金)、28日 (土) 二日間の展示販売会を行います 場所は宜野湾の沖縄コンベンションセンターにて",
+    "url": "https://www.facebook.com/shinkousangyou/posts/2976486402571979/",
+    "pass": 3
+   },
+   {
+    "quote": "新光産業-（株） - こんにちは、新光産業です。 今回は、4月13日にBBQ... May 2, 2024 · こんにちは、新光産業です。 今回は、4月13日にBBQを行いました。 新入社員も先輩社員に打ち解けて楽しんでいました。 明日からGWなので怪我なく楽しんでいきましょう！",
+    "url": "https://www.facebook.com/permalink.php/?story_fbid=833969378755142&id=100064262614596",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "本業の枠を超えて、なぜ教育に挑むのか？新光産業の経営陣が語る「シ... May 27, 2026 · ## 本業で得た利益を「人」と「地域」へ。新光産業が教育へ投資する理由 ーー なぜ、新光産業という一企業が、本業の枠を超えて子どもたちの教育プログラムを立ち上げたのでしょうか？ 新光産業の経営陣が真っ先に語ったのは、「本業で得た利益を、どう社会に還元するか」という企業とし ...",
+    "url": "https://note.com/frogs_academy/n/nbddf4cad2432",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "本業の枠を超えて、なぜ教育に挑むのか？新光産業の経営陣が語る「シンコウ ミライアカデミー」に込めた沖縄の未来への想い｜ミライアカデミー",
+    "url": "https://note.com/frogs_academy/n/nbddf4cad2432",
+    "pass": 3
+   },
+   {
+    "quote": "本業の枠を超えて、なぜ教育に挑むのか？新光産業の経営陣が語る「シンコウ ミライアカデミー」に込めた沖縄の未来への想い",
+    "url": "https://note.com/frogs_academy/n/nbddf4cad2432",
+    "pass": 3
+   },
+   {
+    "quote": "「地域の力で、子どもたちの未来をアップデートする。」",
+    "url": "https://note.com/frogs_academy/n/nbddf4cad2432",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ、一企業が本業の枠を超えて、子どもたちの教育支援に心血を注ぐのか。なぜ今、小中学生向けの探究型・非認知能力育成プログラム「シンコウ ミライアカデミー」に全力で取り組んでいるのか。",
+    "url": "https://note.com/frogs_academy/n/nbddf4cad2432",
+    "pass": 3
+   },
+   {
+    "quote": "新光産業株式会社の代表取締役 新里社長と常務取締役 池田さん",
+    "url": "https://note.com/frogs_academy/n/nbddf4cad2432",
+    "pass": 3
+   },
+   {
+    "quote": "企業が教育に関わる真の社会的意義、そしてこれからの沖縄を担う子どもたちへの熱い想いをじっくりと語ってもらいました。「これからの時代に必要な子育てのヒント」も隠されていますので、親御さんもぜひ最後までご覧ください！",
+    "url": "https://note.com/frogs_academy/n/nbddf4cad2432",
+    "pass": 3
+   },
+   {
+    "quote": "## 本業で得た利益を「人」と「地域」へ。新光産業が教育へ投資する理由",
+    "url": "https://note.com/frogs_academy/n/nbddf4cad2432",
+    "pass": 3
+   },
+   {
+    "quote": "ーー なぜ、新光産業という一企業が、本業の枠を超えて子どもたちの教育プログラムを立ち上げたのでしょうか？",
+    "url": "https://note.com/frogs_academy/n/nbddf4cad2432",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "新里 正志 - 新光産業株式会社の代表取締役社長 | LinkedIn【経営陣インタビュー】なぜ、一企業が「こどもの教育」を支援するの...社長と見る新光産業 | 新光産業株式会社 採用サイト新光産業株式会社沿革 – 新光産業株式会社 新光産業株式会社の代表取締役社長 · 職歴: 新光産業株式会社 · 場所: Oroku。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで新里 正志さんのプロフィールを閲覧しましょう。 May 12, 2026 · 本動画では、新光産業株式会社の代表取締役社長と常務取締役が、このプロジェクトを立ち上げた真の目的と、企業が教育に関わる社会的意義 ... S.M. 課長代理 M.I. E.K. Talk 01 若手社員と社長が語る 新光産業の魅力とは？ 定着率も高いから、最近平均年齢があがってきているんだけどね。 周りの人があまりや",
+    "url": "https://jp.linkedin.com/in/正志-新里-3a958a328",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ube-shinko.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ube-shinko.co.jp/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ube-shinko.co.jp/corporate/affiliate_company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ube-shinko.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ube-shinko.co.jp/recruit/system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ube-shinko.co.jp/recruit/freshers_interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ube-shinko.co.jp/recruit/career_interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ube-shinko.co.jp/corporate/corporate/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ube-shinko.co.jp/recruit/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ube-shinko.co.jp/recruit/freshers_interview/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ube-shinko.co.jp/recruit/freshers_interview/3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ube-shinko.co.jp/recruit/freshers_interview/4/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.ube-shinko.co.jp/images/recruit_interview/freshers_west_kv.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ube-shinko.co.jp/images/recruit_interview/freshers_west_photo_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ube-shinko.co.jp/images/recruit_interview/freshers_west_photo_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/cmp/%E6%96%B0%E5%85%89%E7%94%A3%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E6%96%B0%E5%85%89%E7%94%A3%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/jobs",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10003529211/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp222380/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=222380&recruitingCourseId=27015716",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ube-shinko-group-recruit.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/nori7770/status/2114327614693261468",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yamaguchikouhou/status/2046424181630542052",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/shinkousangyou/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/新光産業-株-100064262614596/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/shinkousangyou/posts/2976486402571979/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/permalink.php/?story_fbid=833969378755142&id=100064262614596",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/frogs_academy/n/nbddf4cad2432",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/正志-新里-3a958a328",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "新光産業",
+   "results": [
+    "https://ja.wikipedia.org/wiki/新北産業園区駅",
+    "https://www.ube-shinko.co.jp/",
+    "https://www.shinkosangyo-as.com/",
+    "https://www.shinkosangyo.co.jp/",
+    "https://www.shinkosangyo.co.jp/company/outline/",
+    "https://www.shinkosangyo-as.com/company/",
+    "https://www.ube-shinko.co.jp/corporate/",
+    "https://shinkousangyou.jp/"
+   ]
+  },
+  {
+   "query": "新光産業 求人 年収",
+   "results": [
+    "https://jp.indeed.com/cmp/新光産業株式会社/salaries",
+    "https://jp.indeed.com/cmp/新光産業株式会社/jobs",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10003529211/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10003529211/",
+    "https://jobcatalog.yahoo.co.jp/company/2001657223/salaries/",
+    "https://job.mynavi.jp/27/pc/search/corp222380/employment.html",
+    "https://en-hyouban.com/company/10105965136/salary/"
+   ]
+  },
+  {
+   "query": "新光産業 採用 新卒 高卒",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp222380/outline.html",
+    "https://job.mynavi.jp/27/pc/search/corp222380/employment.html",
+    "https://ube-shinko-group-recruit.jp/",
+    "https://ube-shinko-group-recruit.jp/list/?jobTypeId=8005083102&brandId=800508301",
+    "https://shinkousangyou.jp/recruit/sp/",
+    "https://www.ube-shinko.co.jp/recruit/",
+    "https://www.ube-shinko.co.jp/recruit/system/"
+   ]
+  },
+  {
+   "query": "site:note.com 新光産業",
+   "results": []
+  },
+  {
+   "query": "site:x.com 新光産業",
+   "results": [
+    "https://x.com/nori7770/status/2114327614693261468",
+    "https://x.com/",
+    "https://x.com/yamaguchikouhou/status/2046424181630542052",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/sangyo_web/status/2072862656512569780",
+    "https://business.x.com/en/advertising",
+    "https://x.com/p_no_suke/status/2105209577415627208"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 新光産業",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com 新光産業",
+   "results": [
+    "https://www.facebook.com/shinkousangyou/",
+    "https://www.facebook.com/p/新光産業-株-100064262614596/",
+    "https://www.facebook.com/shinkousangyou/posts/2976486402571979/",
+    "https://www.facebook.com/permalink.php/?story_fbid=833969378755142&id=100064262614596",
+    "https://www.facebook.com/shinkousangyou/posts/4月29日日曜日に毎年恒例の新光産業のbbqがありました今年は過去最高の参加人数となりましたお肉もお酒も頂き皆さんかなり楽しんでいました新入社員も多くの参加があ/1916056408614989/",
+    "https://www.facebook.com/111905756824465/posts/みなさんこんにちは新光産業本社からお知らせです新光フェアまであと14日となっております本社新入社員の3人組と営業2課山城が新光フェアをお知らせしてくれていますみ/718180766196958/",
+    "https://www.facebook.com/shinkousangyou/posts/2949916731895613/"
+   ]
+  },
+  {
+   "query": "新光産業 note 社長",
+   "results": [
+    "https://note.com/frogs_academy/n/nbddf4cad2432",
+    "https://jp.linkedin.com/in/正志-新里-3a958a328",
+    "https://www.youtube.com/watch?v=OFzPT9X5lOs",
+    "https://shinkousangyou.jp/recruit/talk/",
+    "http://www.ube-shinko.co.jp/",
+    "https://www.shinkosangyo.co.jp/company/history/",
+    "https://www.facebook.com/frogs.corp/photos/特別インタビュー公開本業の枠を超えてなぜ教育に挑むのかミライアカデミーのnoteを開設いたしました記念すべき第1弾として新光産業株式会社の代表取締役-新里社長そ/1625163199616955/"
+   ]
+  },
+  {
+   "query": "新光産業 X 投稿",
+   "results": []
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部14頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部14頁・検索9回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部14頁・検索9回）",
+  "採用人数": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部14頁・検索9回）"
+ }
+}

@@ -1,0 +1,516 @@
+{
+ "name": "鉱工業指数 稼働率指数・生産能力指数 業種別 10年推移",
+ "en": "METI indices of industrial production capacity utilization by industry",
+ "aliases": [
+  "鉱工業指数 稼働率指数 業種別 site:meti.go.jp",
+  "生産能力指数 金属製品工業 推移",
+  "稼働率指数 はん用・生産用機械 推移 filetype:xlsx"
+ ],
+ "context": "一次・指数",
+ "kind": "market",
+ "researched_at": "2026-11-05T02:54:11.011118+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "第３次産業総合 広義対個人サービス 広義対事業所サービス(2019-2020年平均=100)",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "生産能力 -0.6",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "稼働率 2.3",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "稼働率 生産能力(右軸)(2020=100)",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "例1．汎用・業務用機械工業の稼働率指数の推移",
+    "url": "https://jp.gdfreak.com/meta/jp/iip_ipcor.html",
+    "pass": 3
+   },
+   {
+    "quote": "例2．化学工業の生産能力指数の推移",
+    "url": "https://jp.gdfreak.com/meta/jp/iip_ipcor.html",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2025年5月21日",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1-3月期",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【鉱工業生産・出荷・在庫・在庫率指数の推移】",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2018 2019 2020 2021 2022 2023 2024 2025",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産 出荷 在庫 在庫率(2020=100)",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023 2024 2023 2024 2025",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(前年比寄与度／前期比寄与度、%p)",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1-3月期 上昇／低下に寄与した業種",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20222023 2023 2024",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "稼働率 生産能力(右軸)(2020=100)",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2020=100)",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【輸出／国内向け鉱工業出荷指数の推移】 【鉱工業出荷の変動要因分解】",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出荷 輸出 国内(2020=100)",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20232024 2023 2024 2025",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【鉱工業総供給指数の推移】 【鉱工業総供給の変動要因分解】",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総供給 輸入 国産(2020=100)",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【第３次産業活動指数の推移】",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３次産業総合 広義対個人サービス 広義対事業所サービス(2019-2020年平均=100)",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年2月 更新日: 2023年4月25日",
+    "url": "https://jp.gdfreak.com/meta/jp/iip_ipcor.html",
+    "pass": 3
+   },
+   {
+    "quote": "例1．汎用・業務用機械工業の稼働率指数の推移",
+    "url": "https://jp.gdfreak.com/meta/jp/iip_ipcor.html",
+    "pass": 3
+   },
+   {
+    "quote": "例2．化学工業の生産能力指数の推移",
+    "url": "https://jp.gdfreak.com/meta/jp/iip_ipcor.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/naruhodo/3_data/kikan/koukougyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?kikan=00550&toukei=00550300&page=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pps-net.org/iip",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fx.minkabu.jp/indicators/US-IP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=0&layout=dataset&statdisp_id=0003219262",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00550320&tstat=000001022885&page=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bizstats-dashboard.com/japan/iip/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002843174.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shozai/pdf/k19.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kanto.meti.go.jp/tokei/kokogyo/jikeiretsu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.okayama.jp/page/detail-13906.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hosei.ac.jp/toukei_data/shuppan/mokuji_sanshi73.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.murc.jp/library/economyresearch/periodicals/graph_month/watch_2412/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.gdfreak.com/meta/jp/iip_ipcor.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dashboard.e-stat.go.jp/graph?screenCode=00120",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/iip/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/iip/h2afdlde.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/iip/b2015_201910ke.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.federalreserve.gov/releases/g17/current/default.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/iip/b2020_result-2.html",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "鉱工業指数 稼働率指数・生産能力指数 業種別 10年推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "https://www.stat.go.jp/naruhodo/3_data/kikan/koukougyou.html",
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "http://www.etisa.or.jp/20250522seminar.pdf",
+    "https://www.e-stat.go.jp/stat-search?kikan=00550&toukei=00550300&page=1",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://pps-net.org/iip",
+    "https://fx.minkabu.jp/indicators/US-IP",
+    "https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html"
+   ]
+  },
+  {
+   "query": "鉱工業指数 稼働率指数・生産能力指数 業種別 10年推移 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "https://www.stat.go.jp/naruhodo/3_data/kikan/koukougyou.html",
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "http://www.etisa.or.jp/20250522seminar.pdf",
+    "https://www.e-stat.go.jp/stat-search?kikan=00550&toukei=00550300&page=1",
+    "https://pps-net.org/iip",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://fx.minkabu.jp/indicators/US-IP",
+    "https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html"
+   ]
+  },
+  {
+   "query": "鉱工業指数 稼働率指数・生産能力指数 業種別 10年推移 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "https://www.stat.go.jp/naruhodo/3_data/kikan/koukougyou.html",
+    "http://www.etisa.or.jp/20250522seminar.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.bizstats-dashboard.com/japan/iip/",
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002843174.pdf",
+    "https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html"
+   ]
+  },
+  {
+   "query": "鉱工業指数 稼働率指数・生産能力指数 業種別 10年推移 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "https://www.stat.go.jp/naruhodo/3_data/kikan/koukougyou.html",
+    "https://www.pref.okayama.jp/page/detail-13906.html",
+    "http://www.etisa.or.jp/20250522seminar.pdf",
+    "https://www.e-stat.go.jp/stat-search?kikan=00550&toukei=00550300&page=1",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://fx.minkabu.jp/indicators/US-IP",
+    "https://www.hosei.ac.jp/toukei_data/shuppan/mokuji_sanshi73.html"
+   ]
+  },
+  {
+   "query": "鉱工業指数 稼働率指数・生産能力指数 業種別 10年推移 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "https://www.stat.go.jp/naruhodo/3_data/kikan/koukougyou.html",
+    "http://www.etisa.or.jp/20250522seminar.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.bizstats-dashboard.com/japan/iip/",
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://www.murc.jp/library/economyresearch/periodicals/graph_month/watch_2412/",
+    "https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html"
+   ]
+  },
+  {
+   "query": "鉱工業指数 稼働率指数・生産能力指数 業種別 10年推移 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "https://www.youtube.com/watch?v=2o2TfBTVWxY",
+    "https://www.stat.go.jp/naruhodo/3_data/kikan/koukougyou.html",
+    "http://www.etisa.or.jp/20250522seminar.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://fx.minkabu.jp/indicators/US-IP",
+    "https://www.hosei.ac.jp/toukei_data/shuppan/mokuji_sanshi73.html",
+    "https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html"
+   ]
+  },
+  {
+   "query": "鉱工業指数 稼働率指数・生産能力指数 業種別 10年推移 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://www.youtube.com/watch?v=1zsdkReBDbI",
+    "http://www.etisa.or.jp/20250522seminar.pdf",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "https://www.stat.go.jp/naruhodo/3_data/kikan/koukougyou.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://pps-net.org/iip",
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=0&layout=dataset&statdisp_id=0003219262"
+   ]
+  },
+  {
+   "query": "METI indices of industrial production capacity utilization by industry Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/iip/index.html",
+    "https://www.meti.go.jp/english/statistics/tyo/iip/h2afdlde.html",
+    "https://www.meti.go.jp/english/statistics/tyo/iip/b2015_201910ke.html",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://www.federalreserve.gov/releases/g17/current/default.htm",
+    "https://www.meti.go.jp/english/statistics/tyo/iip/b2020_result-2.html",
+    "https://www.alphacast.io/sources/ministry-of-economy-trade-and-industry-of-japan-meti-587/pubs/indices-of-industrial-production-1787",
+    "https://tradingeconomics.com/japan/industrial-production",
+    "https://www.meti.go.jp/english/statistics/tyo/iip/b2015_202303ke.html",
+    "https://www.meti.go.jp/english/statistics/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 鉱工業指数 稼働率指数・生産能力指数 業種別 10年推移",
+   "results": [
+    "https://note.com/kiku_keizai/n/n1dd0155725e9",
+    "https://note.com/rei_blog/n/naad9c176e39c",
+    "https://note.com/tatsuya_sabato/n/n505816df3672",
+    "https://note.com/noted_ixora104/n/n064114b5c265",
+    "https://note.com/tatsuya_sabato/n/n20095b3f72bd",
+    "https://note.com/nihonkabu_/n/n65e804cc19cd",
+    "https://note.com/nihonkabu_/n/n370c2d2e0254",
+    "https://note.com/yajirushi_works/n/n93360ad7b5b2",
+    "https://note.com/y44901726/n/n6ebc7202ec2d",
+    "https://note.com/hirokimiyano/n/n38f6a82b9d5c"
+   ]
+  },
+  {
+   "query": "site:x.com 鉱工業指数 稼働率指数・生産能力指数 業種別 10年推移",
+   "results": [
+    "https://x.com/amc_corporation",
+    "https://x.com/kiki11392132/status/2110680114996654524",
+    "https://x.com/indbgraphreport/status/2049665300162035920",
+    "https://x.com/JEconomicRJP/status/2099483313929134505",
+    "https://x.com/amc_corporation/status/2116096801191420164",
+    "https://x.com/amc_corporation/status/2110623985188876469",
+    "https://x.com/meti_Kanto/status/2089895124943650997",
+    "https://x.com/meti_Kanto/status/2104405746100404370"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 鉱工業指数 稼働率指数・生産能力指数 業種別 10年推移",
+   "results": [
+    "https://economicgraph.linkedin.com/",
+    "https://www.linkedin.com/posts/史朗-斉藤-0461b71b6_派遣市場レポート2024年6月版-全国8エリア毎の稼働者動向職種業種職種別平均年齢-activity-7208642965727039488-0RnU",
+    "https://www.linkedin.com/jobs/interim-managing-director-jobs",
+    "https://jp.linkedin.com/pulse/tungsten-price-market-trends-regional-qydcc",
+    "https://jp.linkedin.com/learning/cert-prep-system-configuration-for-fundamental-information-technology-engineer-examination/4360724",
+    "https://jp.linkedin.com/posts/maruyama-atsuo_現代自動車のev工場に1400体のロボットが稼働している人間とロボットの比率は2-activity-7502487837020155904-oi-m",
+    "https://jp.linkedin.com/posts/（山﨑　治）-狂さん-24b12a216_トヨタ生産方式の著者-大野耐一氏が指摘する稼動率向上の罠とは-activity-7303900318080057344-0Spo"
+   ]
+  },
+  {
+   "query": "site:facebook.com 鉱工業指数 稼働率指数・生産能力指数 業種別 10年推移",
+   "results": []
+  },
+  {
+   "query": "鉱工業指数 稼働率指数・生産能力指数 業種別 10年推移 note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://www5.cao.go.jp/keizai3/getsurei/2020/01shihyou/shihyou1-7.pdf",
+    "https://www.i-ise.com/jp/information/ict/121203.html",
+    "https://www.youtube.com/watch?v=2o2TfBTVWxY",
+    "http://www.etisa.or.jp/20250522seminar.pdf",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "https://note.com/todobuono/n/nd4d618e047f2",
+    "https://note.com/akiyoshitakumori/n/n5057d4b8c25a",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html"
+   ]
+  },
+  {
+   "query": "鉱工業指数 稼働率指数・生産能力指数 業種別 10年推移 X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/result-1.html",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "https://www.youtube.com/watch?v=2o2TfBTVWxY",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00550300&kikan=00550&stat_infid=000040307488",
+    "https://www.bizstats-dashboard.com/japan/iip/",
+    "https://www.youtube.com/watch?v=1zsdkReBDbI",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://fx.minkabu.jp/indicators/US-IP",
+    "https://www.hosei.ac.jp/toukei_data/shuppan/mokuji_sanshi73.html",
+    "https://www.meti.go.jp/statistics/tyo/iip/b2020_result-2.html"
+   ]
+  },
+  {
+   "query": "METI indices of industrial production capacity utilization by industry site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/japan-35-dinitrosalicylic-acid-cas-609-99-4-market-m0w3f",
+    "https://in.linkedin.com/in/dr-swati-rana-9727b9219",
+    "https://www.linkedin.com/posts/norbertgehrke_financial-markets-and-deepseek-r1-kimi-activity-7518483818664615936-AkTo",
+    "https://in.linkedin.com/in/vikasyadav",
+    "https://www.linkedin.com/in/douglas-lippoldt-29945770",
+    "https://ca.linkedin.com/in/alessandrolijoi",
+    "https://www.linkedin.com/pulse/navigating-next-wave-advanced-lng-trading-hedging-dynamic-santos-n8nhf",
+    "https://www.linkedin.com/pulse/sector-transition-how-do-power-exchanges-absorb-challenges-system-njalf",
+    "https://cn.linkedin.com/in/bowengucu/en",
+    "https://au.linkedin.com/in/rowan-johns-58ab3585"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ28頁・検索15回）",
+  "受注金額・加工賃収入": "記載なし（読んだ28頁・検索15回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ28頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ28頁・検索15回）"
+ }
+}

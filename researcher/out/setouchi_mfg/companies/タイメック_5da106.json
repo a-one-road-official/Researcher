@@ -1,0 +1,765 @@
+{
+ "name": "タイメック",
+ "aliases": [],
+ "context": "岡山県総社市／出典:タウンページ;県・市の企業ガイド／求人媒体:Indeed／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T03:06:27.851785+00:00",
+ "official_url": "https://timec.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒719-1164  岡山県総社市西郡 197-1",
+    "url": "https://timec.co.jp/information/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒719-1164 岡山県総社市西郡 197-1 TEL：0866-93-1678（代表） FAX：0866-93-6993（総務） e-mail：somu@timec.co.jp 【本社営業】 TEL：0866-93-1269 FAX：0866-93-2540",
+    "url": "https://timec.co.jp/information/",
+    "pass": 1
+   },
+   {
+    "label": "本社（代表）TEL",
+    "value": "0866-93-1678 本社営業 TEL：0866-93-1269",
+    "url": "https://timec.co.jp/information/",
+    "pass": 1
+   },
+   {
+    "label": "本社（代表）FAX",
+    "value": "0866-93-6993 本社営業 FAX：0866-93-2540",
+    "url": "https://timec.co.jp/information/",
+    "pass": 1
+   },
+   {
+    "label": "本店所在地",
+    "value": "岡山県総社市西郡１９７番地１",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2002531334/salaries/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "133名（非正規社員含）",
+    "url": "https://timec.co.jp/information/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "133人",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2002531334/salaries/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "30,000,000円",
+    "url": "https://timec.co.jp/information/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "3,000万円",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2002531334/salaries/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "代表取締役社長  田中 健裕",
+    "url": "https://timec.co.jp/information/",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "田中健裕",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2002531334/salaries/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1975年6月",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2002531334/salaries/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "久留米ＦＣを梅満町1650-9へ移転、久留米工場に呼称変更",
+    "url": "https://timec.co.jp/information/",
+    "pass": 1
+   },
+   {
+    "quote": "久留米工場を梅満町1645-12へ移転",
+    "url": "https://timec.co.jp/information/",
+    "pass": 1
+   },
+   {
+    "quote": "事務所・全工場で冷暖房完備、有線放送の配信、照明のＬＥＤ化などもその一環です",
+    "url": "https://timec.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品についてのお問い合わせや、工場見学も受け付けております",
+    "url": "https://www.timec-g.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、金属加工や溶接のみならず、材料の仕入れから組立に至るまで、一貫して自社工場で対応できるモノづくりの会社です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222647/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1969年の創業当時は川崎重工のバス部品の下請けをしていましたが、その後は時代とともに事業を拡大",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222647/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、金属・加工・溶接・組立など特定の工程に特化した企業ではないですが、自社工場に様々な部門を抱えているため、一気通貫でスピーディーに製品を作り上げることが可能です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222647/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)タイメックに社名変更 及び 本社工場を岐阜県関市武芸川町に新設移転",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222647/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社川崎歯研 | 山口県周南市川崎３丁目１１番３２号",
+    "url": "https://note.com/clipcorporation/n/nf9dfe061fce0",
+    "pass": 3
+   },
+   {
+    "quote": "ムトー精工株式会社 | 岐阜県各務原市鵜沼川崎町１丁目６０番地の１",
+    "url": "https://note.com/clipcorporation/n/n3bcde08b5cb4",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社渡辺製作所 | 岐阜県各務原市鵜沼川崎町２丁目１４３番地",
+    "url": "https://note.com/clipcorporation/n/n3bcde08b5cb4",
+    "pass": 3
+   },
+   {
+    "quote": "三菱日立ホームエレベーター株式会社 | 岐阜県美濃市楓台３８番地",
+    "url": "https://note.com/clipcorporation/n/n3bcde08b5cb4",
+    "pass": 3
+   },
+   {
+    "quote": "川重岐阜エンジニアリング株式会社 | 岐阜県各務原市川崎町２番地",
+    "url": "https://note.com/clipcorporation/n/n3bcde08b5cb4",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "ベテランから若手へと伝承され、若い感性で常に進化していく、それがタイメックのハンドワークです",
+    "url": "https://timec.co.jp/utiliti/",
+    "pass": 1
+   },
+   {
+    "quote": "若手の声をエネルギーに変え、一緒に羽ばたこう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222647/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "若手社員がのびのびと活躍できる環境を整えているタイメック",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222647/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在当社では、若手社員の技術向上に力を入れており、研修の一環として県主催の「溶接競技大会」に参加",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222647/outline.html",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "採用情報に興味を持っていただき、ありがとうございます",
+    "url": "https://timec.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "(株)タイメックの新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222647/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222647/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222647/outline.html",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "先輩社員のほとんどが社内教育によって戦力化しています",
+    "url": "https://timec.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員によるマンツーマンの指導、製造の流れを知るため各工程での１カ月研修（配属部署による）、社内勉強会も充実しています",
+    "url": "https://timec.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品についてのお問い合わせや、工場見学も受け付けております",
+    "url": "https://www.timec-g.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "配属先の先輩社員との相性を「個性診断テスト」により調査します",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222647/outline.html",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "タイメックの年収・給与・昇給・ボーナス｜Yahoo!しごとカタログ",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2002531334/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "全13件の年収・給与情報を集計した結果、",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2002531334/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "タイメックの平均年収は380万円でした",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2002531334/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "これはメーカー「重電･産業用機械」業界の平均（517万円）より137万円下回っています",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2002531334/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "年収データや業界平均のデータ等はクチコミ及び、LINEヤフー株式会社の統計データから算出した結果であり、実際とは異なる可能性があります",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2002531334/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "300万円以上",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2002531334/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "※Yahoo!しごとカタログが取得している年収データを元に順位を算出しています",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2002531334/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "クボタで働く魅力のひとつは、年収水準が業界内でも安定して高めである点です",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2002531334/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "基本給に加え、賞与",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2002531334/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "周りの同級生達に比べれば、各種手当てや待遇も良く、賞与、昇給制度も、非常に良く、満足がいくも",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2002531334/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2002531334/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "タイメック株式会社の年収・給与・昇給・ボーナス",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2002531334/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "1000万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222647/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "タイメック株式会社 の給与 | Indeed (インディード) — タイメック株式会社の平均月給の範囲は約 17.3万円／月（ドライバー補助・助手）から約 33.0万円／月（メーカー 営業）です。 タイメック株式会社の平均年収は、約275万円 (企画営業) 〜346万円 (金型設計) です。",
+    "url": "https://jp.indeed.com/cmp/タイメック株式会社/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社タイメック の給与 | Indeed (インディード) — 日本での株式会社タイメックの平均給与 株式会社タイメックの平均月給の範囲は約 19.5万円／月（新卒採用）から約 35.6万円／月（電気電子機械技術者）です。 給与情報は、Indeed にこれまでに掲載された110件の求人に基いた推定値です。",
+    "url": "https://jp.indeed.com/cmp/株式会社タイメック/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "タイメックの年収・給与・昇給・ボーナス｜Yahoo!しごとカタログ — タイメック株式会社の社員・元従業員による平均年収は、回答者は380万円。 年収・給与・ボーナスなどの待遇に関する評判・クチコミを掲載。 職種、雇用形態別、年代別などの平均年収も掲載。",
+    "url": "https://jobcatalog.yahoo.co.jp/company/2002531334/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックス｜タイメック株式会社の求人・採用情報 — タイメック株式会社の求人・採用情報を9件掲載中！ 希望する職種や年収・月給、勤務地、こだわり条件から、あなたにぴったりの最新求人を検索！ 関連企業：大成建設株式会社",
+    "url": "https://xn--pckua2a7gp15o89zb.com/タイメック株式会社の仕事",
+    "pass": 3
+   },
+   {
+    "quote": "タイメックの年収・給与 平均年収も - エン カイシャの評判タイメック株式会社の転職・中途採用情報 − 転職ならdoda（デューダ）(株)タイメックの採用データ | マイナビ2027 — 年収・給与の満足点: 古い相対評価システムがあるが、あまり機能していない。 どちらかというと足の引っ張り合いになる感じ、 年収・給与の改善点: 基本給が低いので、もう少し高くできればいいと思う。 タイメック株式会社の公開中の求人（11件）や従業員・年収・事業内容・業績・業種・所在地の情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで約37万社の企業情報が無料で検索・閲覧できます。 Sep 23, 2026 · (株)タイメックの採用データページです。マイナビ2027は、 (株)タイメックの採用情報や企業情報で、就職活動をサポートし ...",
+    "url": "https://en-hyouban.com/company/10012608741/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報 - タイメック株式会社 — 採用情報に興味を持っていただき、ありがとうございます。 タイメックの経営の目的は、理念でも示しているよう、社員の幸福にあります。 ES（従業員満足）あってこそCS（顧客満足）が実現できると考えています。",
+    "url": "https://timec.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報 - 株式会社タイメック — 仕事も遊びも真剣に、しかもタイメック独自のことをしようとすると、当然、厳しい壁も乗り越えなければなりません。 しかし、その厳しさも楽しく、前向きに乗り越えられる人材なら、当社でも活躍できると思います。 募集要項 エントリ－",
+    "url": "https://www.timec-g.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)タイメックの新卒採用・会社概要 | マイナビ2027エントリー｜採用情報 | 株式会社タイメック新卒採用2025 選考エントリーはこちら！ - タイメック株式会社募集要項 | タイメック株式会社求人サイト新卒採用情報 | 株式会社TMEIC — Sep 23, 2026 · タイメックの第二の柱の建材事業部門を、一緒に盛り上げてほしい。 これから先の10年間で圧倒的な成長を成し遂げる。 会社の成長だけでなく、自分自身の成長も実感できるそんな会社です。 基本を覚えて、自由に羽ばたくことが会社の未来に繋がります。 一生『エンジニア』で働く！ その選択肢がタイメックにはあります。 「モノづくりは好きですか？ 」。 そんな問いに何のためらいもなく「はい！ 」と答えられる人は、ぜひうちに来てください。 Aug 5, 2024 · 新卒採用2025 選考エントリーはこちら！ 弊社の新卒採用にご興",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222647/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "エントリー｜採用情報 | 株式会社タイメック — 一生『エンジニア』で働く！ その選択肢がタイメックにはあります。 「モノづくりは好きですか？ 」。 そんな問いに何のためらいもなく「はい！ 」と答えられる人は、ぜひうちに来てください。",
+    "url": "https://timec-g.jp/recruit/entry/",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項 | タイメック株式会社求人サイト — タイメック株式会社専用求人情報サイト",
+    "url": "http://timec.info/recruitment/",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "(株)タイメックの新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222647/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222647/outline.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "上部消化管疾患治療薬｜出直し看護塾 Mar 5, 2025 · 上部消化管疾患治療薬 トップへ戻る マーロックス、アイスフラット、アシドレス液、タイメック液、ディクアノン液、マックメット、マルファ、マーレッジ、リタロクス 上部消化管疾患治療薬 トップへ戻る",
+    "url": "https://note.com/raptorproject/n/n72ad1cf91566",
+    "pass": 3
+   },
+   {
+    "quote": "中国地方の主要な業務用機械器具製造業関連企業一覧 Aug 2, 2025 · タイメック株式会社 | 岡山県総社市西郡197番地1 株式会社大熊 | 岡山県岡山市南区大福378番地1 株式会社ジツタ中国 | 広島県広島市中区富士見町16番2号 オリイ精機株式会社 | 鳥取県鳥取市若葉台南7丁目4番3号",
+    "url": "https://note.com/clipcorporation/n/nf9dfe061fce0",
+    "pass": 3
+   },
+   {
+    "quote": "岐阜県の主要な生産用機械器具製造業関連企業一覧 Jul 31, 2025 · 株式会社タイメック | 岐阜県関市武芸川町八幡7番地の1 株式会社愛岐製作所 | 岐阜県多治見市大畑町1丁目51番地 株式会社片山製作所 | 岐阜県可児市姫ケ丘1丁目30番地 株式会社丸富精工 | 岐阜県各務原市那加楠町130番地の30",
+    "url": "https://note.com/clipcorporation/n/n3bcde08b5cb4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "当情報はあくまでも看護師の備忘録としての使用を目的としています。実際の投与においては必ず添付文書をご確認ください。医薬品情報検索 https://www.pmda.go.jp/PmdaSearch/iyakuSearch/",
+    "url": "https://note.com/raptorproject/n/n72ad1cf91566",
+    "pass": 3
+   },
+   {
+    "quote": "オメプラール、オメプラゾン、オメプラゾール、オメプラゾールナトリウム水和物",
+    "url": "https://note.com/raptorproject/n/n72ad1cf91566",
+    "pass": 3
+   },
+   {
+    "quote": "パリエット、ラベプラゾールナトリウム、ラベプラゾールNa",
+    "url": "https://note.com/raptorproject/n/n72ad1cf91566",
+    "pass": 3
+   },
+   {
+    "quote": "ネキシウム、エソメプラゾールマグネシウム水和物",
+    "url": "https://note.com/raptorproject/n/n72ad1cf91566",
+    "pass": 3
+   },
+   {
+    "quote": "消化性潰瘍治療薬(ヒスタミン（H2）受容体拮抗薬）",
+    "url": "https://note.com/raptorproject/n/n72ad1cf91566",
+    "pass": 3
+   },
+   {
+    "quote": "中国地方の主要な業務用機械器具製造業関連企業一覧｜企業クリップ",
+    "url": "https://note.com/clipcorporation/n/nf9dfe061fce0",
+    "pass": 3
+   },
+   {
+    "quote": "中国地方の主要な業務用機械器具製造業関連企業一覧",
+    "url": "https://note.com/clipcorporation/n/nf9dfe061fce0",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社山陽メディック | 岡山県瀬戸内市邑久町向山７６番地",
+    "url": "https://note.com/clipcorporation/n/nf9dfe061fce0",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社藤岡エンジニアリング | 岡山県真庭市下市瀬１１００番地",
+    "url": "https://note.com/clipcorporation/n/nf9dfe061fce0",
+    "pass": 3
+   },
+   {
+    "quote": "テルモ山口株式会社 | 山口県山口市佐山字村山３番２２",
+    "url": "https://note.com/clipcorporation/n/nf9dfe061fce0",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社有田ラインズ | 鳥取県鳥取市用瀬町用瀬１７１番地",
+    "url": "https://note.com/clipcorporation/n/nf9dfe061fce0",
+    "pass": 3
+   },
+   {
+    "quote": "オージー技研株式会社 | 岡山県岡山市中区海吉１８３５番地７",
+    "url": "https://note.com/clipcorporation/n/nf9dfe061fce0",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マンテック | 岡山県真庭市中２０５番地",
+    "url": "https://note.com/clipcorporation/n/nf9dfe061fce0",
+    "pass": 3
+   },
+   {
+    "quote": "岐阜県の主要な生産用機械器具製造業関連企業一覧｜企業クリップ",
+    "url": "https://note.com/clipcorporation/n/n3bcde08b5cb4",
+    "pass": 3
+   },
+   {
+    "quote": "岐阜県の主要な生産用機械器具製造業関連企業一覧",
+    "url": "https://note.com/clipcorporation/n/n3bcde08b5cb4",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社プリテック | 岐阜県中津川市下野４２９番地の１",
+    "url": "https://note.com/clipcorporation/n/n3bcde08b5cb4",
+    "pass": 3
+   },
+   {
+    "quote": "島工業株式会社 | 岐阜県岐阜市黒野３６７番地６",
+    "url": "https://note.com/clipcorporation/n/n3bcde08b5cb4",
+    "pass": 3
+   },
+   {
+    "quote": "早川精機工業株式会社 | 岐阜県岐阜市六条大溝１丁目１３番１号",
+    "url": "https://note.com/clipcorporation/n/n3bcde08b5cb4",
+    "pass": 3
+   },
+   {
+    "quote": "三共精機株式会社 | 岐阜県羽島郡笠松町田代１１３１番地１",
+    "url": "https://note.com/clipcorporation/n/n3bcde08b5cb4",
+    "pass": 3
+   },
+   {
+    "quote": "エイケイクリエイト株式会社 | 岐阜県海津市海津町鹿野字中縄８７６番地１",
+    "url": "https://note.com/clipcorporation/n/n3bcde08b5cb4",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社荒川製材機製作所 | 岐阜県高山市下切町１３０番地",
+    "url": "https://note.com/clipcorporation/n/n3bcde08b5cb4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "タイメック株式会社 第31期決算公告 東京都新宿区 大成建設 (証券コー... 官報決算データベース (@kessan_db). 155 views. タイメック株式会社 第31期決算公告 東京都新宿区 大成建設 (証券コード: 1801) の関連会社 純利益：3億2700万円 (前期比 15.94%) 総資産：129億7300万円 (前期比 13.71%)",
+    "url": "https://x.com/kessan_db/status/2076632401837789558",
+    "pass": 3
+   },
+   {
+    "quote": "しっかしこうやって見るとタイメックブレーキ目立つな ねこ七助@ななりん🌟🌷🎋痛フェスNクラス (@neko_mashiro_). 6 likes 122 views. しっかしこうやって見るとタイメックブレーキ目立つな",
+    "url": "https://x.com/neko_mashiro_/status/2040579433715921088",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社タイメック様を訪問し、社員の皆さんとのラジオ体操、市政報... 株式会社タイメック様を訪問し、社員の皆さんとのラジオ体操、市政報告と意見交換、若手社員の採用チームによる工場見学と人材確保に関する意見交換の機会をいただきました。 新たな設備投資を進め、社員一丸となって企業の成長を目指しておられます。",
+    "url": "https://x.com/shibahashi_m/status/2054722720445899139",
+    "pass": 3
+   },
+   {
+    "quote": "@gatan0815 最近話題ですがタイメックさん勉強不足でした！ 良さそう... ミギライコネン (@gatimutianiki). 104 views. @gatan0815 最近話題ですがタイメックさん勉強不足でした！ 良さそうですが価格帯的に他のセミメタルパッド2セット買えちゃいそうで🥲",
+    "url": "https://x.com/gatimutianiki/status/1948339202766098565",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "田中 健裕 - タイメック（株） - 代表取締役社長 | LinkedIn2 \"田中健裕\" profiles | LinkedIn2件の「田中 健裕」のプロフィール | LinkedInJim Sause - Chief Operating Officer | LinkedInJudit Csenge Vizi - AI Enablement Coach | Change Management ...#liderazgo #colombia #economía #liderazgoestrategico # ...Rachel Lemarié - Assistante de direction (DG) aux Hôpitaux ... タイメック（株） - 代表取締役社長 · 職歴: タイメック（株） · 場所: 7038291 · LinkedInのつながり1人。 10億人のメンバーを",
+    "url": "https://jp.linkedin.com/in/健裕-田中-4005ab335",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "タイメック不動産 株式会社 | Soja-shi Okayama Jan 11, 2026 · タイメック不動産貸主管理アパートキッコウハイネス の現在の入居状況です！ ★B棟6畳の部屋の賃料を29,000円から28,000円に改定 しました★ 駐車場（月額2,000円）利用の場合でも月々の賃料総 額30,000円です！ ご紹介キャンペーンも引き続き行っております！",
+    "url": "https://www.facebook.com/p/タイメック不動産-株式会社-100054371717618/",
+    "pass": 3
+   },
+   {
+    "quote": "タイメック不動産 株式会社 | Soja-shi Okayama タイメック不動産 株式会社, Soja-shi. 104 likes · 2 talking about this. 不動産の売買・賃貸・管理およびリフォームその他土地・建物に関連する",
+    "url": "https://www.facebook.com/profile.php/?id=100054371717618",
+    "pass": 3
+   },
+   {
+    "quote": "タイメック株式会社 | Soja-shi Okayama - Facebook Feb 1, 2017 · タイメック株式会社, Soja-shi. 52 likes · 17 were here. Motor vehicle company",
+    "url": "https://www.facebook.com/people/タイメック株式会社/100042713359951/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://timec.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://timec.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://timec.co.jp/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://timec.co.jp/utiliti/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://timec.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://timec.co.jp/utiliti_list/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://timec.co.jp/wp-content/themes/timec/images/foot_recruit_off_pc.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://timec.co.jp/wp-content/themes/timec/images/h3_information.png?1793847994",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://timec.co.jp/wp-content/themes/timec/images/bt_requirements_off.png?1793847997",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/cmp/%E3%82%BF%E3%82%A4%E3%83%A1%E3%83%83%E3%82%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BF%E3%82%A4%E3%83%A1%E3%83%83%E3%82%AF/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jobcatalog.yahoo.co.jp/company/2002531334/salaries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.timec-g.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp222647/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/raptorproject/n/n72ad1cf91566",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clipcorporation/n/nf9dfe061fce0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clipcorporation/n/n3bcde08b5cb4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kessan_db/status/2076632401837789558",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/neko_mashiro_/status/2040579433715921088",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shibahashi_m/status/2054722720445899139",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/gatimutianiki/status/1948339202766098565",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/健裕-田中-4005ab335",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/タイメック不動産-株式会社-100054371717618/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/profile.php/?id=100054371717618",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/タイメック株式会社/100042713359951/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "タイメック 求人 年収",
+   "results": [
+    "https://jp.indeed.com/cmp/タイメック株式会社/salaries",
+    "https://jp.indeed.com/cmp/株式会社タイメック/salaries",
+    "https://jobcatalog.yahoo.co.jp/company/2002531334/salaries/",
+    "https://xn--pckua2a7gp15o89zb.com/タイメック株式会社の仕事",
+    "https://en-hyouban.com/company/10012608741/salary/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10012608741/",
+    "https://job.mynavi.jp/27/pc/search/corp222647/employment.html"
+   ]
+  },
+  {
+   "query": "タイメック 採用 新卒 高卒",
+   "results": [
+    "https://timec.co.jp/recruit/",
+    "https://www.timec-g.jp/recruit/",
+    "https://job.mynavi.jp/27/pc/search/corp222647/outline.html",
+    "https://timec-g.jp/recruit/entry/",
+    "http://timec.info/recruitment/",
+    "https://timec.co.jp/2024/08/05/新卒採用2025スタート！選考エントリーはこちら！/",
+    "https://www.tmeic.co.jp/saiyou/newgrads/"
+   ]
+  },
+  {
+   "query": "site:note.com タイメック",
+   "results": [
+    "https://note.com/aitta",
+    "https://note.com/raptorproject/n/n72ad1cf91566",
+    "https://note.com/clipcorporation/n/nf9dfe061fce0",
+    "https://note.com/clipcorporation/n/n3bcde08b5cb4",
+    "https://note.com/tomoko09_writer/n/n78c2d383b331",
+    "https://note.com/misa_matsuzawa/n/ncd9e605c9014",
+    "https://note.com/watarutida/n/nf3bf53aeee9f"
+   ]
+  },
+  {
+   "query": "site:x.com タイメック",
+   "results": [
+    "https://x.com/kessan_db/status/2076632401837789558",
+    "https://x.com/neko_mashiro_/status/2040579433715921088",
+    "https://x.com/shibahashi_m/status/2054722720445899139",
+    "https://x.com/gatimutianiki/status/1948339202766098565",
+    "https://x.com/poko8729/status/2058456328478347615",
+    "https://x.com/PRTIMES_BIZ/status/1871009589988352064",
+    "https://help.x.com/zh-cn/using-x"
+   ]
+  },
+  {
+   "query": "site:linkedin.com タイメック",
+   "results": [
+    "https://jp.linkedin.com/in/健裕-田中-4005ab335",
+    "https://www.linkedin.com/pub/dir/健裕/田中/jp-0-日本",
+    "https://jp.linkedin.com/pub/dir/健裕/田中/jp-0-日本",
+    "https://www.linkedin.com/in/jgs819",
+    "https://es.linkedin.com/posts/santiagoromeroherrera-comercial_liderazgo-colombia-economía-activity-7442977119669940225-ldw-",
+    "https://fr.linkedin.com/in/rachel-lemarie",
+    "https://hu.linkedin.com/in/judit-csenge-vizi"
+   ]
+  },
+  {
+   "query": "site:facebook.com タイメック",
+   "results": [
+    "https://www.facebook.com/p/タイメック不動産-株式会社-100054371717618/",
+    "https://www.facebook.com/profile.php/?id=100054371717618",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/people/タイメック株式会社/100042713359951/",
+    "https://www.facebook.com/タイメック株-243441162353260/",
+    "https://www.facebook.com/profile.php/?id=100064059581180",
+    "https://www.facebook.com/photo/?fbid=1123514969470883"
+   ]
+  },
+  {
+   "query": "タイメック note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://timec.co.jp/information/",
+    "https://jp.linkedin.com/in/健裕-田中-4005ab335",
+    "http://www.timec.info/interview01.html",
+    "https://froggy.smbcnikko.co.jp/66481"
+   ]
+  },
+  {
+   "query": "タイメック X 投稿",
+   "results": [
+    "https://x-sou.com/ja",
+    "https://nihon-navi.com/twitter-x-guide/",
+    "https://x.com/TYAM1996/status/2117605067390152861",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://xkings.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部16頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部16頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部16頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部16頁・検索8回）"
+ }
+}

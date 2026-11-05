@@ -1,0 +1,863 @@
+{
+ "name": "タイム",
+ "aliases": [],
+ "context": "広島県三原市／出典:マイナビ／求人媒体:Indeed;マイナビ転職／想定年収:511〜681万円／従業員:55",
+ "researched_at": "2026-11-05T02:57:40.353197+00:00",
+ "official_url": "https://www.timeinc.jp/",
+ "identified_by": "search:yahoo_jp:株式会社タイム",
+ "profile": {
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "〒150-0013 東京都渋谷区恵比寿4-22-10 ebisu422 7F 地図の表示はこちらから▶︎▶︎▶︎",
+    "url": "https://www.timeinc.jp/company/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "4,960万円",
+    "url": "https://www.timeinc.jp/company/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2005年2月8日",
+    "url": "https://www.timeinc.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "キャスティング事業 コンテンツプロデュース事業",
+    "url": "https://www.timeinc.jp/company/",
+    "pass": 1
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要取引先",
+    "value": "官公庁 地方自治体 一般事業法人 教育機関 各種団体 広告代理店各社　芸能プロダクション各社",
+    "url": "https://www.timeinc.jp/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "星野 益八郎",
+    "url": "https://www.timeinc.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "4,960万円",
+    "url": "https://www.timeinc.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "タイムの年収・給与 平均年収 - エン カイシャの評判 (1948)",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社タイムの正社員23人の回答によると平均年収は345万円、年収範囲は250～550万円です",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "カイシャの評判に掲載されている年収情報は、当該企業で就業経験のある方を対象としたアンケートを基に、有効な回答かつ、雇用形態が正社員の回答から算出しております",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトの年収情報は、ユーザーの皆様に投稿いただいた時点の回答に基づいているため、実際の年収とは異なる可能性があります",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社タイムの年収・給与についての口コミ",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:昇給については、年2回の人事...",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給については、年2回の人事考課を基に4月に反映される",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与については、各個人の予算達成率等の業績評価を加味し、年2回、7月と12月に支給される",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:年2回ボーナスがあります",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度：年齢給、職能給、資格給、役職...",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給に関しては、技能・資格を取得していく事で可能になります",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は、年2回夏期と冬期にあります",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度：賞与は年２回支給されます",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は年２回支給されます",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "そして昇給についてですが、毎年年齢給が加算され、給与が少しづつ増えていきます",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度：昇給は年に一度、年二回の人事...",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給は年に一度、年二回の人事評価に基づいて行われます",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "基本的には年齢給と併せて月収が数千円、年収ベースだと平均数万円はUPするのがここ数年の状況です",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は年二回、会社の業績×直近の数的な評価を元に支給されます",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給に関しては年齢給と職能別等級評価があります",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:小売業であるためあまり高くな...",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "小売業であるためあまり高くなく賞与も基本給1ヶ月を少し超える程度な事が多い",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与水準：30歳中途採用 現状",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "手取り15万円",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収174.4万円〜348.8万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給21.5万円〜22.8万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給23万円〜24万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "昇給:年1回(4月)",
+    "url": "https://time-recruit.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与:年2回(7月、12月)",
+    "url": "https://time-recruit.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "給与：180,410円",
+    "url": "https://time-recruit.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給：年1回（4月）",
+    "url": "https://time-recruit.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与：年2回（7月、12月）",
+    "url": "https://time-recruit.jp/recruit/",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "給与水準：30歳中途採用 現状",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "求める人物像・募集要項｜株式会社タイム 採用サイト",
+    "url": "https://time-recruit.jp/recruit/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "タイム 株式会社 の給与 - Indeed (インディード) — タイム 株式会社 の給与 - Indeed (インディード) Indeed https://jp.indeed.com > cmp > タイム株式会社 > salaries",
+    "url": "https://jp.indeed.com/cmp/%E3%82%BF%E3%82%A4%E3%83%A0%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "タイム の 年収 ・給与 平均 年収 - エン カイシャの評判 (1948) — タイム の 年収 ・給与 平均 年収 - エン カイシャの評判 (1948) エン カイシャの評判 https://en-hyouban.com > company > salary",
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 タイム の平均 年収 、年間給与所得情報 - doda — 株式会社 タイム の平均 年収 、年間給与所得情報 - doda doda https://doda.jp > CompanyIncome > j_id__10008114853",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10008114853/",
+    "pass": 3
+   },
+   {
+    "quote": "求める人物像・募集要項 - 株式会社タイム採用サイト — 求める人物像・募集要項 - 株式会社タイム採用サイト time-recruit.jp https://time-recruit.jp > recruit",
+    "url": "https://time-recruit.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "タイム 株式会社の技術者の給与 - Indeed (インディード) — タイム 株式会社の技術者の給与 - Indeed (インディード) Indeed https://jp.indeed.com > タイム株式会社 > 給与",
+    "url": "https://jp.indeed.com/cmp/%E3%82%BF%E3%82%A4%E3%83%A0%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries/%E6%8A%80%E8%A1%93%E8%80%85",
+    "pass": 3
+   },
+   {
+    "quote": "タイム 新卒 高卒 の求人情報をすべて見る （1,236件） — タイム 新卒 高卒 の求人情報をすべて見る （1,236件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "高校 新卒 | タイム 技研株式会社 リクルートサイト - タイム 技研 — 高校 新卒 | タイム 技研株式会社 リクルートサイト - タイム 技研 タイム技研株式会社 https://www.time-eng.co.jp > recruit > newgrad-hs",
+    "url": "https://www.time-eng.co.jp/recruit/newgrad-hs/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員 フレックス タイム 制 高卒 の求人 - Indeed (インディード) — 正社員 フレックス タイム 制 高卒 の求人 - Indeed (インディード) Indeed https://jp.indeed.com > q-正社員-フレックスタイム制-高卒...",
+    "url": "https://jp.indeed.com/q-%E6%AD%A3%E7%A4%BE%E5%93%A1-%E3%83%95%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%A0%E5%88%B6-%E9%AB%98%E5%8D%92-%E6%B1%82%E4%BA%BA.html",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "3Daysインターンシップ",
+    "url": "https://time-recruit.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "1Dayインターンシップ",
+    "url": "https://time-recruit.jp/recruit/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "映画『 TIME / タイム 』が面白い理由！｜名作解体新書 - note 映画『 TIME / タイム 』が面白い理由！｜名作解体新書 - note note https://note.com > 名作解体新書",
+    "url": "https://note.com/385n_story/n/n32d8b5cf6814",
+    "pass": 3
+   },
+   {
+    "quote": "映画 TIME タイム ネタバレ感想 金が尽きれば、命も尽きる - note 映画 TIME タイム ネタバレ感想 金が尽きれば、命も尽きる - note note https://note.com > 映画・ドラマ > 映画",
+    "url": "https://note.com/kuso/n/n9b54a5dab935",
+    "pass": 3
+   },
+   {
+    "quote": "タイム ——肉の保存、喉、古代からの衛生イメージ - note タイム ——肉の保存、喉、古代からの衛生イメージ - note note https://note.com > 健康・医療 > 食事・栄養",
+    "url": "https://note.com/eisei_no/n/n747188c6c1ce",
+    "pass": 3
+   },
+   {
+    "quote": "タイム ――小さな葉に刻まれた地中海の物語｜世界のハーブ図鑑 タイム ――小さな葉に刻まれた地中海の物語｜世界のハーブ図鑑 note https://note.com > 料理・グルメ > 食材",
+    "url": "https://note.com/ryu55green/n/nc8ec6f0146d8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "映画『TIME/タイム』が面白い理由！｜名作解体新書",
+    "url": "https://note.com/385n_story/n/n32d8b5cf6814",
+    "pass": 3
+   },
+   {
+    "quote": "このページを開いて下さり本当にありがとうございます！",
+    "url": "https://note.com/385n_story/n/n32d8b5cf6814",
+    "pass": 3
+   },
+   {
+    "quote": "演：ジャスティン・ティンバーレイク（当時：30歳）",
+    "url": "https://note.com/385n_story/n/n32d8b5cf6814",
+    "pass": 3
+   },
+   {
+    "quote": "演：アマンダ・サイフリッド（当時：26歳）",
+    "url": "https://note.com/385n_story/n/n32d8b5cf6814",
+    "pass": 3
+   },
+   {
+    "quote": "演：アレックス・ペティファー（当時：21歳）",
+    "url": "https://note.com/385n_story/n/n32d8b5cf6814",
+    "pass": 3
+   },
+   {
+    "quote": "演：ヴィンセント・カーシーザー（当時：32歳）",
+    "url": "https://note.com/385n_story/n/n32d8b5cf6814",
+    "pass": 3
+   },
+   {
+    "quote": "演：サーシャ・ピヴォヴァロヴァ（当時：26歳）",
+    "url": "https://note.com/385n_story/n/n32d8b5cf6814",
+    "pass": 3
+   },
+   {
+    "quote": "演：エマ・フィッツパトリック（当時：26歳）",
+    "url": "https://note.com/385n_story/n/n32d8b5cf6814",
+    "pass": 3
+   },
+   {
+    "quote": "映画TIME タイム ネタバレ感想 金が尽きれば、命も尽きる｜Mr.ひとりごと",
+    "url": "https://note.com/kuso/n/n9b54a5dab935",
+    "pass": 3
+   },
+   {
+    "quote": "映画TIME タイム ネタバレ感想 金が尽きれば、命も尽きる",
+    "url": "https://note.com/kuso/n/n9b54a5dab935",
+    "pass": 3
+   },
+   {
+    "quote": "派手なアクションがないので退屈に感じる人もいるかもしれないが、設定の面白さが秀逸なSFサスペンス。資本主義社会を風刺しているようにも見られるし、有限である時間と命の使い方について考えるにも示唆的な内容である。ネタバレあり。",
+    "url": "https://note.com/kuso/n/n9b54a5dab935",
+    "pass": 3
+   },
+   {
+    "quote": "解説:「ロード・オブ・ウォー」のアンドリュー・ニコル監督が贈るSFサスペンス。すべての人間の成長が25歳で停止して、余命が通貨として使われるようになった世界で、ひとりの青年がその世界のシステムの謎に挑む。出演は「ソーシャル・ネットワーク」のジャスティン・ティンバーレイク、「赤ずきん」のアマンダ・セイフライド。(KINENOTE)",
+    "url": "https://note.com/kuso/n/n9b54a5dab935",
+    "pass": 3
+   },
+   {
+    "quote": "あらすじ:現代にどこか似た近未来。科学技術の進化により老化は完全に無くなり、全ての人間の成長は25歳でストップする社会となった。この社会の大きな特徴は、唯一の通貨が“時間”であるということ。25歳になった瞬間から、左腕に埋め込まれたボディ・クロックが余命時間を刻み始める。限られた一部の“富裕ゾーン”の住人が永遠の命を享受する一方で、圧倒的多数の“スラムゾーン”の人々は余命23時間。生き続けるためには、日々の重労働によって時間を稼ぐか、他人からもらう、または奪うしかない。日々が熾烈なサバイバルだった。2つの世界には、“タイムゾーン”という境界線があり、互いの世界の行き来は禁じられていた。ある日、スラムゾーンに住む青年ウィル（ジャスティン・ティンバーレイク）は、富裕ゾーンからやって来た、人生に絶望した男ハミルトン（マット・ボマー）から116年という時間を譲り受ける。その直後、ウィルの目の前で、",
+    "url": "https://note.com/kuso/n/n9b54a5dab935",
+    "pass": 3
+   },
+   {
+    "quote": "出演:ジャスティン・ティンバーレイク/アマンダ・セイフライド/キリアン・マーフィ",
+    "url": "https://note.com/kuso/n/n9b54a5dab935",
+    "pass": 3
+   },
+   {
+    "quote": "ともかく設定がいい。派手さはなく淡々と物語が進むが、設定の面白さでいろいろと考えさせてくれる内容になっているので、たまに観たくなるのである。",
+    "url": "https://note.com/kuso/n/n9b54a5dab935",
+    "pass": 3
+   },
+   {
+    "quote": "で、どうして設定がいいのかというと、この作品では時間、というか寿命をお金で買えるのだ。なんでも遺伝子操作かなんかの技術によって、人間は25歳以上、歳をとらないのである。というか、歳はとるんだけども肉体が衰えない。だから、殺されたり自殺でもしないかぎり、肉体は若いままで生き続けられるのだ。",
+    "url": "https://note.com/kuso/n/n9b54a5dab935",
+    "pass": 3
+   },
+   {
+    "quote": "タイム——肉の保存、喉、古代からの衛生イメージ｜ぬぐい@衛生の話をしよう",
+    "url": "https://note.com/eisei_no/n/n747188c6c1ce",
+    "pass": 3
+   },
+   {
+    "quote": "タイム——肉の保存、喉、古代からの衛生イメージ",
+    "url": "https://note.com/eisei_no/n/n747188c6c1ce",
+    "pass": 3
+   },
+   {
+    "quote": "ほんのり土っぽく、少しスパイシーで、かすかに甘い。タイムの香りは地中海の乾いた岩場を連想させます。ハーブとして料理に使われることで知られるタイムですが、その歴史は食卓にとどまらず、古代の戦場・修道院の薬局棚・民間療法の喉薬・近代の抗菌研究に至るまで広がっています。本記事では、タイムという植物が持つ衛生とのかかわりを、文化史と科学の両面から見ていきます。",
+    "url": "https://note.com/eisei_no/n/n747188c6c1ce",
+    "pass": 3
+   },
+   {
+    "quote": "タイム（Thymus vulgaris、コモンタイム）はシソ科のタイム属に属する常緑小低木で、地中海沿岸を原産とします。草丈は15〜30センチと小型で、木質化した茎に小さな葉を密につけ、春に淡紫色の小花を咲かせます。世界中に350種以上のタイム属植物が存在しますが、料理・薬草として最も広く使われるのはコモンタイム（Thymus vulgaris）です。",
+    "url": "https://note.com/eisei_no/n/n747188c6c1ce",
+    "pass": 3
+   },
+   {
+    "quote": "タイムは地中海沿岸の石灰質・乾燥した土地に自生し、強い日光と排水のよい土壌を好みます。日本でも家庭でのポット栽培が可能なハーブです。",
+    "url": "https://note.com/eisei_no/n/n747188c6c1ce",
+    "pass": 3
+   },
+   {
+    "quote": "タイムの香りの主成分は「チモール（thymol）」という化合物で、タイムの名前から命名されたほど特徴的な成分です。チモールはフェノール系の化合物で強い殺菌力を持つことで知られ、19世紀後半から20世紀初頭にかけて医療用消毒剤・うがい薬・口腔ケア製品の成分として広く使われました。現在でも一部のうがい薬やマウスウォッシュの成分として使われています。",
+    "url": "https://note.com/eisei_no/n/n747188c6c1ce",
+    "pass": 3
+   },
+   {
+    "quote": "コモンタイム以外にも、レモンタイムやワイルドタイムなど香り成分の異なる品種があり、料理や用途によって使い分けがされます。",
+    "url": "https://note.com/eisei_no/n/n747188c6c1ce",
+    "pass": 3
+   },
+   {
+    "quote": "タイム（古代ギリシャ語ではthymon）は古代ギリシャで神殿の供物として焚かれ、燃やすことで神に香りを届けると信じられていました。「タイム（thyme）」という英語の語源はギリシャ語の「thyein（焚く・供える）」に由来するという説があります（語源については複数の見解があります）。",
+    "url": "https://note.com/eisei_no/n/n747188c6c1ce",
+    "pass": 3
+   },
+   {
+    "quote": "世界のハーブ No.05｜タイム――小さな葉に刻まれた地中海の物語｜世界のハーブ図鑑｜RYU55Green",
+    "url": "https://note.com/ryu55green/n/nc8ec6f0146d8",
+    "pass": 3
+   },
+   {
+    "quote": "世界のハーブ No.05｜タイム――小さな葉に刻まれた地中海の物語",
+    "url": "https://note.com/ryu55green/n/nc8ec6f0146d8",
+    "pass": 3
+   },
+   {
+    "quote": "小さな葉が、細い茎にびっしりと並ぶタイム。",
+    "url": "https://note.com/ryu55green/n/nc8ec6f0146d8",
+    "pass": 3
+   },
+   {
+    "quote": "料理では肉や魚、煮込み料理などに使われる香草として知られています。",
+    "url": "https://note.com/ryu55green/n/nc8ec6f0146d8",
+    "pass": 3
+   },
+   {
+    "quote": "けれど、鉢植えのタイムをじっくり眺めると、その印象は少し変わります。",
+    "url": "https://note.com/ryu55green/n/nc8ec6f0146d8",
+    "pass": 3
+   },
+   {
+    "quote": "地面近くから細かな枝を伸ばし、小さな葉を茂らせ、やがて淡いピンクや紫がかった小さな花を咲かせる。",
+    "url": "https://note.com/ryu55green/n/nc8ec6f0146d8",
+    "pass": 3
+   },
+   {
+    "quote": "それでもタイムは、地中海世界の人々の暮らしと長く関わってきました。",
+    "url": "https://note.com/ryu55green/n/nc8ec6f0146d8",
+    "pass": 3
+   },
+   {
+    "quote": "今日は、小さな葉の向こうにあるタイムの物語を訪ねます。",
+    "url": "https://note.com/ryu55green/n/nc8ec6f0146d8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "タイム ラインテイクオーバー - X Business タイム ラインテイクオーバー - X Business X Business https://business.x.com > takeover > timeline-takeover",
+    "url": "https://business.x.com/ja/advertising/takeover/timeline-takeover",
+    "pass": 3
+   },
+   {
+    "quote": "てんねん on X : \"動画をポストする際に タイム スタンプを設定 ... てんねん on X : \"動画をポストする際に タイム スタンプを設定 ... X https://x.com > @munou_ac",
+    "url": "https://x.com/munou_ac/status/1949341994087751851",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "映画「 TIME / タイム 」 (@timemoviejp) - Facebook 映画「 TIME / タイム 」 (@timemoviejp) - Facebook Facebook https://www.facebook.com > ... > テレビ・映画 > 映画",
+    "url": "https://www.facebook.com/timemoviejp/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "映画「 TIME / タイム 」 - Facebook 映画「 TIME / タイム 」 - Facebook Facebook https://www.facebook.com > timemoviejp > photos > time...",
+    "url": "https://www.facebook.com/timemoviejp/photos/time%E3%82%BF%E3%82%A4%E3%83%A0%E3%81%AE%E8%A8%80%E8%91%89%E5%83%95%E3%81%AF1%E6%97%A5%E4%BB%A5%E4%B8%8A%E3%81%AE%E6%99%82%E9%96%93%E3%82%92%E6%89%8B%E3%81%AB-%E7%9B%AE%E8%A6%9A%E3%82%81%E3%81%9F%E3%81%84by-%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%B5%E3%83%A9%E3%82%B9time%E3%82%BF%E3%82%A4%E3%83%A0%E5%A5%BD%E8%A9%95%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E7%99%BA%E5%A3%B2%E4%B8%ADhttpwwwfoxmoviesjptimeindex/436267999757066/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.timeinc.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.timeinc.jp/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/cmp/%E3%82%BF%E3%82%A4%E3%83%A0%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en-hyouban.com/company/10200661948/salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10008114853/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://time-recruit.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.time-eng.co.jp/recruit/newgrad-hs/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/385n_story/n/n32d8b5cf6814",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kuso/n/n9b54a5dab935",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/eisei_no/n/n747188c6c1ce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ryu55green/n/nc8ec6f0146d8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.x.com/ja/advertising/takeover/timeline-takeover",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/timemoviejp/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/timemoviejp/photos/time%E3%82%BF%E3%82%A4%E3%83%A0%E3%81%AE%E8%A8%80%E8%91%89%E5%83%95%E3%81%AF1%E6%97%A5%E4%BB%A5%E4%B8%8A%E3%81%AE%E6%99%82%E9%96%93%E3%82%92%E6%89%8B%E3%81%AB-%E7%9B%AE%E8%A6%9A%E3%82%81%E3%81%9F%E3%81%84by-%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%B5%E3%83%A9%E3%82%B9time%E3%82%BF%E3%82%A4%E3%83%A0%E5%A5%BD%E8%A9%95%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E7%99%BA%E5%A3%B2%E4%B8%ADhttpwwwfoxmoviesjptimeindex/436267999757066/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/munou_ac/status/1949341994087751851",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "タイム",
+   "results": [
+    "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%A0_(%E6%A4%8D%E7%89%A9)",
+    "https://www.sbfoods.co.jp/freshherb/list/thyme/",
+    "https://www.shuminoengei.jp/m-pc/a-page_p_detail/target_plant_code-566",
+    "https://www.kurashiru.com/articles/f11b6749-8db1-49d0-97a3-474b75bf54b8",
+    "https://time.com/",
+    "https://lovegreen.net/library/herb/p88958/",
+    "https://www.tbs.co.jp/thetime_tbs/",
+    "https://eiga.com/movie/57415/",
+    "https://grokipedia.com/page/time_hikaru_utada_song",
+    "https://ja.wikipedia.org/wiki/タイム"
+   ]
+  },
+  {
+   "query": "株式会社タイム",
+   "results": [
+    "https://www.time-all.co.jp/company/gaiyou.html",
+    "https://www.timeinc.jp/",
+    "http://www.time21.co.jp/",
+    "https://www.tim-e.co.jp/company.html",
+    "https://time-recruit.jp/",
+    "https://www.speakers.jp/company/",
+    "https://time-recruit.jp/about/message.html",
+    "https://time-team.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%A0_(%E5%B0%8F%E5%A3%B2%E6%A5%AD)",
+    "https://ja.wikipedia.org/wiki/株式会社マイカル"
+   ]
+  },
+  {
+   "query": "タイム 求人 年収",
+   "results": [
+    "https://jp.indeed.com/cmp/%E3%82%BF%E3%82%A4%E3%83%A0%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "https://en-hyouban.com/company/10200661948/salary/",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10008114853/",
+    "https://time-recruit.jp/recruit/",
+    "https://jp.indeed.com/cmp/%E3%82%BF%E3%82%A4%E3%83%A0%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries/%E6%8A%80%E8%A1%93%E8%80%85",
+    "https://jp.stanby.com/stats/feature/%E3%83%95%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0",
+    "https://www.nikkei.com/nkd/company/salary/?scode=2341",
+    "https://www.tempstaff.co.jp/jbch/keyword/%E3%83%95%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%91%E3%83%BC%E3%83%88%E3%80%80%E5%B9%B4%E5%8F%8E/",
+    "https://www.e-aidem.com/contents/pay-calc/index.htm",
+    "https://jp.indeed.com/cmp/タイム株式会社/salaries"
+   ]
+  },
+  {
+   "query": "タイム 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%82%BF%E3%82%A4%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://time-recruit.jp/recruit/",
+    "https://www.time-eng.co.jp/recruit/newgrad-hs/",
+    "https://kousotsusaiyo-bank.jp/column/schedule-hs-graduate",
+    "https://jp.indeed.com/q-%E6%AD%A3%E7%A4%BE%E5%93%A1-%E3%83%95%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%A0%E5%88%B6-%E9%AB%98%E5%8D%92-%E6%B1%82%E4%BA%BA.html",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/hourei_seido_tetsuzuki/shokugyou_shoukai/kousotu-saiyou.html",
+    "https://business.ntt-west.co.jp/bizclip/articles/bcl00016-022.html",
+    "https://lab.jinjib.co.jp/archives/3338/",
+    "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E5%8D%92-%E6%96%B0%E5%8D%92%E3%81%AE%E4%BB%95%E4%BA%8B-%E6%9D%B1%E4%BA%AC%E9%83%BD",
+    "https://www.harikennabi.jp/"
+   ]
+  },
+  {
+   "query": "site:note.com タイム",
+   "results": [
+    "https://note.com/385n_story/n/n32d8b5cf6814",
+    "https://note.com/kuso/n/n9b54a5dab935",
+    "https://note.com/eisei_no/n/n747188c6c1ce",
+    "https://note.com/ryu55green/n/nc8ec6f0146d8",
+    "https://note.com/smf_nc8/n/n4ca32370d1ba",
+    "https://note.com/kmc3488/n/n2614ab1037d1",
+    "https://note.com/super_daphne550/n/n6897bf3410a1",
+    "https://note.com/youko_with_herb/n/n73f118597168",
+    "https://note.com/bp_augurio/m/mad369b01a9ad"
+   ]
+  },
+  {
+   "query": "site:x.com タイム",
+   "results": [
+    "https://x.com/THETIME_TBS",
+    "https://x.com/TIME",
+    "https://x.com/THETIME_TBS/highlights",
+    "https://business.x.com/ja/advertising/takeover/timeline-takeover",
+    "https://x.com/thyme_singer",
+    "https://help.x.com/ja/using-x/x-timeline",
+    "https://x.com/timemachine3go",
+    "https://help.x.com/ja/using-x/embed-x-feed",
+    "https://x.com/time_ryosuke",
+    "https://publish.x.com/"
+   ]
+  },
+  {
+   "query": "site:linkedin.com タイム",
+   "results": [
+    "https://jp.linkedin.com/company/time?trk=ppro_cprof",
+    "https://www.linkedin.com/company/time",
+    "https://www.linkedin.com/company/time-inc-",
+    "https://www.linkedin.com/learning/topics/time-management",
+    "https://jp.linkedin.com/pulse/timeboxing-academic-writing-retreats-creating-focus-time-olivier--xlr6e?tl=ja",
+    "https://uk.linkedin.com/company/time-partners-ltd",
+    "https://www.linkedin.com/learning/time-management-tips",
+    "https://sc.linkedin.com/company/time-research",
+    "https://www.linkedin.com/help/lms/answer/a420851?lang=ja",
+    "https://jp.linkedin.com/company/time-intermedia-corp"
+   ]
+  },
+  {
+   "query": "site:facebook.com タイム",
+   "results": [
+    "https://www.facebook.com/timemoviejp/?locale=ja_JP",
+    "https://www.facebook.com/sbfoods.inc/videos/%E3%82%BF%E3%82%A4%E3%83%A0%E3%81%A3%E3%81%A6%E3%81%A9%E3%82%93%E3%81%AA%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%A0%E3%81%AF%E5%8D%97%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%81%8C%E5%8E%9F%E7%94%A3%E5%9C%B0%E3%81%AE%E3%82%B7%E3%82%BD%E7%A7%91%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%96%E3%81%A7%E3%81%99%E7%8B%AC%E7%89%B9%E3%81%AE%E6%B8%85%E3%80%85%E3%81%97%E3%81%84%E9%A6%99%E3%82%8A%E3%82%92%E3%82%82%E3%81%A4%E3%82%BF%E3%82%A4%E3%83%A0%E3%81%AF%E9%AD%9A%E4%BB%8B%E9%A1%9E%E3%81%A8%E3%81%AE%E7%9B%B8%E6%80%A7%E3%81%8C%E8%89%AF%E3%81%84%E3%81%9F%E3%82%81%E9%AD%9A%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%96%E3%81%A8%E3%82%82%E5%91%BC%E3%81%B0%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E9%AD%9A%E4%BB%8B/2580675408859903/",
+    "https://www.facebook.com/time/",
+    "https://www.facebook.com/timemoviejp/photos/time%E3%82%BF%E3%82%A4%E3%83%A0%E3%81%AE%E8%A8%80%E8%91%89%E5%83%95%E3%81%AF1%E6%97%A5%E4%BB%A5%E4%B8%8A%E3%81%AE%E6%99%82%E9%96%93%E3%82%92%E6%89%8B%E3%81%AB-%E7%9B%AE%E8%A6%9A%E3%82%81%E3%81%9F%E3%81%84by-%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%B5%E3%83%A9%E3%82%B9time%E3%82%BF%E3%82%A4%E3%83%A0%E5%A5%BD%E8%A9%95%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E7%99%BA%E5%A3%B2%E4%B8%ADhttpwwwfoxmoviesjptimeindex/436267999757066/",
+    "https://www.facebook.com/watch.bc.co.jp/",
+    "https://www.facebook.com/homecenter.time/",
+    "https://www.facebook.com/ads/ig_redirect/?d=Ad8Kh-A9OXOuWg69TZxQGVb6vPhu_gmfNwCyT8PZAP5spMFwcM6tElznmdAkt6QDat7RlniDDzm2d2YoBrm56JCh-DaR8vyAbvGQwcCvApy0SC4Lxa1c-yK0Gvx5v15S1W4S0ZbD4Gtk-JOk9hsTcA3iBEGZPgi9-dSnd6RO_f9-Uf7RYu8kTpZXO2jnD21Rvy4&a=1&hash=Ad9MGfUxP2-YQbXW",
+    "https://ja-jp.facebook.com/help/ipad-app/479261838773908",
+    "https://www.facebook.com/p/%E3%82%BF%E3%82%A4%E3%83%A0-100081286087180/",
+    "https://l.facebook.com/"
+   ]
+  },
+  {
+   "query": "タイム note 社長",
+   "results": [
+    "https://note.com/anatanokyoukasho/n/n7a080b0dd729",
+    "https://note.com/taimee",
+    "https://bunshun.jp/list/author/5f223a15776561773d000000",
+    "https://note.com/taimee/n/n7791057786ce",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://x.com/sadaaki",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU"
+   ]
+  },
+  {
+   "query": "タイム X 投稿",
+   "results": [
+    "https://x.com/munou_ac/status/1949341994087751851",
+    "https://www.kolr.ai/jp/info/x-time/",
+    "https://www.videor.co.jp/digestplus/article/76087.html",
+    "https://note.com/x_unyou/n/n52c70848bc4b",
+    "https://www.1st-net.jp/blog/twitter-toukou-zikan/",
+    "https://xboost.now/tools/x-timezone",
+    "https://influfect.com/notice/2592/",
+    "https://www.hanano-ya.jp/blog/sns/15688",
+    "https://www.tetsu7017.com/blog/x-optimum-posting-time/",
+    "https://tweetan.net/x-best-posting-times/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部14頁・検索10回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部14頁・検索10回）",
+  "求人媒体": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部14頁・検索10回）"
+ }
+}

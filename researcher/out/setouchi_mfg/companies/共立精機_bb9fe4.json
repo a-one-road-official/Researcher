@@ -1,0 +1,918 @@
+{
+ "name": "共立精機",
+ "aliases": [],
+ "context": "岡山県総社市／出典:県・市の企業ガイド／求人媒体:見当たらず／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T02:48:39.011988+00:00",
+ "official_url": "https://www.kyoritsu-seiki.com/",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "⽯黒 和之",
+    "url": "https://www.kyoritsu-seiki.com/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒719-1134　岡⼭県総社市真壁1515",
+    "url": "https://www.kyoritsu-seiki.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "岡山県 総社市真壁1515",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "岡山県総社市真壁1515",
+    "url": "https://job.rikunabi.com/selection/job_descriptions/ce477559ac419f71/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "7,000万円",
+    "url": "https://www.kyoritsu-seiki.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "70百万円",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "冷間鍛造による⾃動⾞部品（ボールジョイント‧スタビライザーリンク‧ロッキングベースなど）の開発‧製造",
+    "url": "https://www.kyoritsu-seiki.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "自動車用精密部品製造。　軽自動車から電気自動車までの足回り機能部品（ボールジョイト・スタビライザーリンク）、エアバック部品、シートベルト部品、エンジン・ミッション部品",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "159名（2025年4月1日現在）",
+    "url": "https://www.kyoritsu-seiki.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "単体：139人 連結：-",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要取引先（50音順）",
+    "value": "株式会社アイシン ジョイソン・セイフティ・システムズ・ジャパン合同会社 ステランティス 津田工業株式会社 日産自動車株式会社 三菱自動車工業株式会社 三菱電機株式会社 三菱ふそうトラック・バス株式会社　ほか",
+    "url": "https://www.kyoritsu-seiki.com/company/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1960年01月",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "7,000万円",
+    "url": "https://www.kyoritsu-seiki.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "【人事総務の具体的な業務】オフィス環境・社内情報システムの整備・維持、ファシリティに関する外部業者との交渉、採用、入退社・復職・求職手続き、社保・労保・福利に関する事務、労務管理、給与事務、社員の身上申請対応、電話対応、資料・データ作成等",
+    "url": "https://www.kyoritsu-seiki.com/recruit/new-graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "300万円〜447万円",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   },
+   {
+    "quote": "300万円〜390万円",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   },
+   {
+    "quote": "280万円〜400万円",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   },
+   {
+    "quote": "291万円〜363万円",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   },
+   {
+    "quote": "520万円〜710万円",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   },
+   {
+    "quote": "万円以上、年収アップ率",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   },
+   {
+    "quote": "500万円以上",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   },
+   {
+    "quote": "600万円以上",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   },
+   {
+    "quote": "700万円以上",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   },
+   {
+    "quote": "800万円以上",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   },
+   {
+    "quote": "900万円以上",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   },
+   {
+    "quote": "1000万円以上",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   },
+   {
+    "quote": "年収1200万円以上の転職特集",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   },
+   {
+    "quote": "年収、評価制度",
+    "url": "https://jobtalk.jp/companies/107965",
+    "pass": 3
+   },
+   {
+    "quote": "現社員や元社員から投稿された企業の評判・面接・年収などの口コミ情報を、",
+    "url": "https://jobtalk.jp/companies/107965",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給195,000円～205,000円",
+    "url": "https://job.rikunabi.com/selection/job_descriptions/ce477559ac419f71/",
+    "pass": 3
+   },
+   {
+    "quote": "基本給：月給 19万5000円 〜 20万5000円",
+    "url": "https://job.rikunabi.com/selection/job_descriptions/ce477559ac419f71/",
+    "pass": 3
+   },
+   {
+    "quote": "通勤手当規定支給（月最大5万円）",
+    "url": "https://job.rikunabi.com/selection/job_descriptions/ce477559ac419f71/",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "主要取引先（50音順）",
+    "url": "https://www.kyoritsu-seiki.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "東工場（本社・第１工場）",
+    "url": "https://www.kyoritsu-seiki.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "東工場（第２工場）",
+    "url": "https://www.kyoritsu-seiki.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "西工場（第３工場）",
+    "url": "https://www.kyoritsu-seiki.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "生産技術、工場監督、技術開発、国内・海外営業、購買調達、品質管理、総務経理で即戦力となってくれるスタッフや管理職候補を募集しています",
+    "url": "https://www.kyoritsu-seiki.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "学生時代に工場見学に訪れて、おもしろそうだと思ったのが入社のきっかけです",
+    "url": "https://www.kyoritsu-seiki.com/recruit/new-graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "第3工場で機械の調整",
+    "url": "https://www.kyoritsu-seiki.com/recruit/new-graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "工場内で製品の加工や組み立て作業をする「製造」や、完成品が基準通りに製造されているかチェックする「検査」の業務を行っていただきます",
+    "url": "https://www.kyoritsu-seiki.com/recruit/new-graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品の製造業のため、工場内は男性が多いイメージがあるかもしれませんが、検査業務では女性社員も多く働いています",
+    "url": "https://www.kyoritsu-seiki.com/recruit/new-graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "第3工場でのスタビライザーリンクの検査に従事した後、第2工場でのロッキングベースの検査にも1年ほど携わる",
+    "url": "https://www.kyoritsu-seiki.com/recruit/mid-career/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、再度第3工場でのスタビライザーリンクの検査に従事し、現在に至っている",
+    "url": "https://www.kyoritsu-seiki.com/recruit/mid-career/",
+    "pass": 1
+   },
+   {
+    "quote": "第1～第3まである各40～50名規模の工場の工場長候補として工場全体の管理業務をお任せいたします",
+    "url": "https://www.kyoritsu-seiki.com/recruit/mid-career/",
+    "pass": 1
+   },
+   {
+    "quote": "海外拠点のスタッフと米国英語でやり取りを行っていただきます",
+    "url": "https://www.kyoritsu-seiki.com/recruit/mid-career/",
+    "pass": 1
+   },
+   {
+    "quote": "【具体的な業務】複数の取引先での相見積取得による価格交渉、新規取引先の開拓および登録手続き、サプライチェーン管理業務等",
+    "url": "https://www.kyoritsu-seiki.com/recruit/mid-career/",
+    "pass": 1
+   },
+   {
+    "quote": "（1）生産技術、（2）工場監督、（3）技術開発、（4）国内・海外営業、（5）購買調達、（6）品質管理、（7）総務経理",
+    "url": "https://www.kyoritsu-seiki.com/recruit/mid-career/",
+    "pass": 1
+   },
+   {
+    "quote": "（1）生産技術、（2）工場監督、（3）技術開発、（6）品質管理",
+    "url": "https://www.kyoritsu-seiki.com/recruit/mid-career/",
+    "pass": 1
+   },
+   {
+    "quote": "Q.工場や製造の知識がないけど参加できますか？",
+    "url": "https://www.kyoritsu-seiki.com/recruit/internship/",
+    "pass": 1
+   },
+   {
+    "quote": "岡山県立北部高等技術専門校美作校、岡山県立南部高等技術専門校の先生2名がご来社下さり、工場見学を実施致しました",
+    "url": "https://www.kyoritsu-seiki.com/category/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1/",
+    "pass": 1
+   },
+   {
+    "quote": "まずは本社工場会議室で、会社概要の他に生産部で取り組んでいる安全活動や品質・環境に関する活動の他に、DX推進[...続きを読む]",
+    "url": "https://www.kyoritsu-seiki.com/category/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1/",
+    "pass": 1
+   },
+   {
+    "quote": "また、Tier1サプライヤーとして三菱自動車やクライスラー、日産など国内外の大手完成車メーカー様と直取引をしており、安定した顧客基盤を築いております",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   },
+   {
+    "quote": "工場設備の保全業務（未経験可）【総社市/転勤なし】",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   },
+   {
+    "quote": "工場内の生産設備・インフラの保守・点検を担当いただきます",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   },
+   {
+    "quote": "インフラ（工場内クレーン・電気設備等）の定期点検、点検記録の作成・管理",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   },
+   {
+    "quote": "冷間鍛造技術・精密切削技術を活かし、付加価値の高い製品造りをモットーに日本国内はもとより海外にも生産拠点を有し、",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "国内だけでなく海外にも拠点を持ち、",
+    "url": "https://job.rikunabi.com/selection/job_descriptions/ce477559ac419f71/",
+    "pass": 3
+   },
+   {
+    "quote": "第三工場：岡山県総社市久代1408-5",
+    "url": "https://job.rikunabi.com/selection/job_descriptions/ce477559ac419f71/",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "既にキャリアを積まれてきた方向けの採用情報のご案内です",
+    "url": "https://www.kyoritsu-seiki.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "ホームページまたは就活サイトなどからエントリーを行ってください",
+    "url": "https://www.kyoritsu-seiki.com/recruit/new-graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "お送りいただいたエントリーシートや履歴書を見ながら書類選考を行います",
+    "url": "https://www.kyoritsu-seiki.com/recruit/new-graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "現在中途採用募集を行っている職種は以下の通りです",
+    "url": "https://www.kyoritsu-seiki.com/category/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1/",
+    "pass": 1
+   },
+   {
+    "quote": "＜大学新卒採用について＞ 2025年卒採用活動は終了致しました",
+    "url": "https://www.kyoritsu-seiki.com/category/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社共立精機の中途採用・転職・求人情報｜【パソナキャリア】パソナの転職エージェント",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   },
+   {
+    "quote": "共立精機の転職・採用情報｜社員口コミでわかる【転職会議】",
+    "url": "https://jobtalk.jp/companies/107965",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社共立精機「技術職(開発職 ・ 生産技術職)」新卒採用情報丨就活ならリクナビ",
+    "url": "https://job.rikunabi.com/selection/job_descriptions/ce477559ac419f71/",
+    "pass": 3
+   },
+   {
+    "quote": "27年卒 新卒採用",
+    "url": "https://job.rikunabi.com/selection/job_descriptions/ce477559ac419f71/",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者の定着率",
+    "url": "https://job.rikunabi.com/selection/job_descriptions/ce477559ac419f71/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用者数：2名",
+    "url": "https://job.rikunabi.com/selection/job_descriptions/ce477559ac419f71/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用者数：0名",
+    "url": "https://job.rikunabi.com/selection/job_descriptions/ce477559ac419f71/",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の男女別新卒採用者数",
+    "url": "https://job.rikunabi.com/selection/job_descriptions/ce477559ac419f71/",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "会社に戻ってきたら、仕事の中で、先輩社員からしっかりと技術を伝えてもらえます",
+    "url": "https://www.kyoritsu-seiki.com/recruit/new-graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "学生時代に工場見学に訪れて、おもしろそうだと思ったのが入社のきっかけです",
+    "url": "https://www.kyoritsu-seiki.com/recruit/new-graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "入社当初は分からないことだらけなので、先輩社員からいろいろ教えてもらいながらの仕事でしたが、3年目くらいからは、どんどん仕事を任せてもらえるようになって、やりたい仕事ができています",
+    "url": "https://www.kyoritsu-seiki.com/recruit/new-graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "中途入社を目指す求職者向けの会社説明会で、現在配属されている部署の先輩社員から直接具体的な業務内容を聞けたことがきっかけでした",
+    "url": "https://www.kyoritsu-seiki.com/recruit/mid-career/",
+    "pass": 1
+   },
+   {
+    "quote": "インターンシップでは技術職・総合職それぞれの現場を直接見ていただき、それぞれの部門の役割を深く理解できる機会です",
+    "url": "https://www.kyoritsu-seiki.com/recruit/internship/",
+    "pass": 1
+   },
+   {
+    "quote": "共立精機のインターンシップでは、製造現場の体験や技術者との対話を通じて、「仕事としての工学的視点」「チームでの課題解決力」「製造業の仕組み」などを実感することができます",
+    "url": "https://www.kyoritsu-seiki.com/recruit/internship/",
+    "pass": 1
+   },
+   {
+    "quote": "また、総合職向けのインターンシップでは、総務・経理・品質管理・営業などの事務職種に触れられる体験プログラムも一部ご用意しています",
+    "url": "https://www.kyoritsu-seiki.com/recruit/internship/",
+    "pass": 1
+   },
+   {
+    "quote": "一方通行の説明ではなく、対話や体験を通じて「働くってどういうこと？」にしっかり向き合えるインターンシップとなっています",
+    "url": "https://www.kyoritsu-seiki.com/recruit/internship/",
+    "pass": 1
+   },
+   {
+    "quote": "座談会（質疑応答、先輩社員との座談会）",
+    "url": "https://www.kyoritsu-seiki.com/recruit/internship/",
+    "pass": 1
+   },
+   {
+    "quote": "座談会（フィードバック、質疑応答、先輩社員との座談会）",
+    "url": "https://www.kyoritsu-seiki.com/recruit/internship/",
+    "pass": 1
+   },
+   {
+    "quote": "インターンシップのご応募はこちらからお申し込みください",
+    "url": "https://www.kyoritsu-seiki.com/recruit/internship/",
+    "pass": 1
+   },
+   {
+    "quote": "また、インターンシップに関するお問い合わせやご相談がございましたら、",
+    "url": "https://www.kyoritsu-seiki.com/recruit/internship/",
+    "pass": 1
+   },
+   {
+    "quote": "岡山県立北部高等技術専門校美作校、岡山県立南部高等技術専門校の先生2名がご来社下さり、工場見学を実施致しました",
+    "url": "https://www.kyoritsu-seiki.com/category/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年卒に関しては随時説明会、インターンシップの受付を行っております",
+    "url": "https://www.kyoritsu-seiki.com/category/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1/",
+    "pass": 1
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "※日程詳細は、当社のマイナビ2028をご覧ください",
+    "url": "https://www.kyoritsu-seiki.com/recruit/internship/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社共立精機「技術職(開発職 ・ 生産技術職)」新卒採用情報丨就活ならリクナビ",
+    "url": "https://job.rikunabi.com/selection/job_descriptions/ce477559ac419f71/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 共立精機 の 求人 ・中途採用情報 - doda — 株式会社 共立精機 の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10001475210",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10001475210/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 共立精機 の中途採用・転職・ 求人 情報 - パソナキャリア — 株式会社 共立精機 の中途採用・転職・ 求人 情報 - パソナキャリア パソナキャリア https://www.pasonacareer.jp > ... > 自動車部品",
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "pass": 3
+   },
+   {
+    "quote": "共立精機 の転職・採用情報｜社員口コミでわかる【転職会議】 — 共立精機 の転職・採用情報｜社員口コミでわかる【転職会議】 転職会議 https://jobtalk.jp > 総合電機業界ランキング",
+    "url": "https://jobtalk.jp/companies/107965",
+    "pass": 3
+   },
+   {
+    "quote": "共立精機 株式会社 の 求人 ・中途採用情報 - doda — 共立精機 株式会社 の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10003766105",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10003766105/",
+    "pass": 3
+   },
+   {
+    "quote": "共立精機 新卒 高卒 の求人情報をすべて見る （136件） — 共立精機 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 | 株式会社 共立精機 — 新卒採用 | 株式会社 共立精機 株式会社共立精機 https://www.kyoritsu-seiki.com > 採用情報",
+    "url": "https://www.kyoritsu-seiki.com/recruit/new-graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 共立精機 「技術職(開発職 ・ 生産技術職)」 新卒採用 ... — 株式会社 共立精機 「技術職(開発職 ・ 生産技術職)」 新卒採用 ... 就活ならリクナビ https://job.rikunabi.com > selection > job_descriptions",
+    "url": "https://job.rikunabi.com/selection/job_descriptions/ce477559ac419f71",
+    "pass": 3
+   },
+   {
+    "quote": "三重県松阪市のダイカスト金型メーカー 共立精機 求人募集 ... — 三重県松阪市のダイカスト金型メーカー 共立精機 求人募集 ... kyoritsuseiki.co.jp https://kyoritsuseiki.co.jp > recruit > content",
+    "url": "https://kyoritsuseiki.co.jp/recruit/content.html",
+    "pass": 3
+   },
+   {
+    "quote": "共立精機 の 新卒採用 ・就職・企業情報 - 就活会議 — 共立精機 の 新卒採用 ・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > companies",
+    "url": "https://syukatsu-kaigi.jp/companies/65171",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "尾花 久男 - 共立精機 （株）の会長 | LinkedIn 尾花 久男 - 共立精機 （株）の会長 | LinkedIn LinkedIn https://jp.linkedin.com > 久男-尾花-8279b1445",
+    "url": "https://jp.linkedin.com/in/%E4%B9%85%E7%94%B7-%E5%B0%BE%E8%8A%B1-8279b1445",
+    "pass": 3
+   },
+   {
+    "quote": "Shouryou Kou - 共立精機 株式会社 - 会社員 | LinkedIn Shouryou Kou - 共立精機 株式会社 - 会社員 | LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/shouryou-kou-347a5198",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kyoritsu-seiki.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoritsu-seiki.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoritsu-seiki.com/works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoritsu-seiki.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoritsu-seiki.com/%E3%80%90%E5%B1%95%E7%A4%BA%E4%BC%9A%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%91otex2026%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoritsu-seiki.com/recruit/new-graduate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoritsu-seiki.com/recruit/mid-career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoritsu-seiki.com/recruit/internship/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoritsu-seiki.com/recruit/new-graduate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoritsu-seiki.com/recruit/mid-career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoritsu-seiki.com/category/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoritsu-seiki.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kyoritsu-seiki.com/wp-content/uploads/2026/10/29386442_m-300x200.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kyoritsu-seiki.com/wp-content/uploads/2023/11/26783102_m-300x200.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kyoritsu-seiki.com/wp-content/uploads/2023/11/26783102_m-300x200.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10001475210/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pasonacareer.jp/company/81002177/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jobtalk.jp/companies/107965",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.rikunabi.com/selection/job_descriptions/ce477559ac419f71/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E4%B9%85%E7%94%B7-%E5%B0%BE%E8%8A%B1-8279b1445",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/shouryou-kou-347a5198",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "共立精機 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10001475210/",
+    "https://www.pasonacareer.jp/company/81002177/",
+    "https://jobtalk.jp/companies/107965",
+    "https://www.r-agent.com/viewjob/jkec8015b113b81dc9/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10003766105/",
+    "https://www.hellowork.careers/%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "https://tenshoku.mynavi.jp/company/437700/",
+    "https://jp.indeed.com/q-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F-l-%E5%B2%A1%E5%B1%B1%E7%9C%8C-%E7%B7%8F%E7%A4%BE%E5%B8%82-%E6%B1%82%E4%BA%BA.html",
+    "https://en-hyouban.com/company/10200040193/",
+    "https://jp.indeed.com/cmp/株式会社共立精機/salaries"
+   ]
+  },
+  {
+   "query": "共立精機 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.kyoritsu-seiki.com/recruit/new-graduate/",
+    "https://job.rikunabi.com/selection/job_descriptions/ce477559ac419f71",
+    "https://kyoritsuseiki.co.jp/recruit/content.html",
+    "https://syukatsu-kaigi.jp/companies/65171",
+    "https://job.mynavi.jp/28/pc/search/corp241923/outline.html",
+    "https://jp.indeed.com/q-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%85%B1%E7%AB%8B%E7%B2%BE%E6%A9%9F-l-%E5%B2%A1%E5%B1%B1%E7%9C%8C-%E7%B7%8F%E7%A4%BE%E5%B8%82-%E6%B1%82%E4%BA%BA.html",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10001475210/",
+    "https://be-win.co.jp/okayama/job_articles/8620189",
+    "https://www.onecareer.jp/companies/49548"
+   ]
+  },
+  {
+   "query": "site:note.com 共立精機",
+   "results": [
+    "https://note.com/hiro124vrc/n/n12391746059d",
+    "https://note.com/hiro124vrc/n/n092bef608350",
+    "https://note.com/airking7_/n/nd43896da7e3b",
+    "https://note.com/nannan_soko/n/nf7a43cd9951a",
+    "https://note.com/chic_deer1160/n/n0ee43306e550",
+    "https://note.com/kyoto_wr/n/nbc9f32a1a281",
+    "https://note.com/inootanaka/n/nbd3193ec7cfe",
+    "https://note.com/holy_viper7334/n/n86efab446955",
+    "https://note.com/kyoto_wr/n/n79f3110b37c7",
+    "https://note.com/firm_mimosa9237/n/n7da93a44cf46"
+   ]
+  },
+  {
+   "query": "site:x.com 共立精機",
+   "results": [
+    "https://x.com/masaaki_taniai/status/1908512897283875175",
+    "https://x.com/endokikai/status/1773919378842828954",
+    "https://x.com/sojacci2014/status/1982946731521388819",
+    "https://x.com/kctnews/status/1983111504141627448",
+    "https://x.com/endokikai",
+    "https://x.com/kuwana_city/status/1923278933610451106",
+    "https://x.com/takayamarika_co",
+    "https://x.com/YamafujiSeminar",
+    "https://x.com/kabunushi_rider/status/2033146781073367471",
+    "https://x.com/kessan_db/status/2064947615100498267"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 共立精機",
+   "results": [
+    "https://jp.linkedin.com/in/%E4%B9%85%E7%94%B7-%E5%B0%BE%E8%8A%B1-8279b1445",
+    "https://jp.linkedin.com/in/shouryou-kou-347a5198",
+    "https://jp.linkedin.com/in/%E8%8B%B1%E7%94%B7-%E7%8C%AA%E9%87%8E-55930191",
+    "https://www.linkedin.com/pub/dir/%E8%8B%B1%E7%94%B7/+",
+    "https://www.linkedin.com/company/sion-system/",
+    "https://jp.linkedin.com/in/atsuko-watanabe-2366b1aa",
+    "https://jp.linkedin.com/in/hirokazu-suzuki-b7357052",
+    "https://jp.linkedin.com/in/endo-sho-558a1661",
+    "https://jp.linkedin.com/in/manabu-kuraya-70a01355"
+   ]
+  },
+  {
+   "query": "site:facebook.com 共立精機",
+   "results": [
+    "https://www.facebook.com/61567250676706/posts/%E5%B1%95%E7%A4%BA%E4%BC%9A%E6%83%85%E5%A0%B1%E6%9C%AC%E6%97%A5%E9%96%8B%E5%B9%95jimtof2026%E3%82%B9%E3%82%AE%E3%83%8E%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%96%E3%83%BC%E3%82%B9-e7088%E3%81%99%E3%81%94%E3%82%B9%E3%82%AE%E3%81%AE%E3%82%A2%E3%82%A4%E3%81%A1%E3%82%83%E3%82%93%E7%99%BB%E5%A0%B4%E3%82%B9%E3%82%AE%E3%83%8E%E3%83%9E%E3%82%B7%E3%83%B3-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B9%E3%82%AE%E3%83%8E%E3%83%9E%E3%82%B7%E3%83%B3%E3%81%8C%E5%87%BA%E5%B1%95%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E7%AC%AC33%E5%9B%9E%E6%97%A5%E6%9C%AC%E5%9B%BD%E9%9A%9B%E5%B7%A5%E4%BD%9C/122215113392575022/",
+    "https://www.facebook.com/61567250676706/posts/%E5%B1%95%E7%A4%BA%E4%BC%9A%E6%83%85%E5%A0%B1jimtof2026vr%E4%BD%93%E9%A8%93%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC%E3%82%92%E6%9C%AC%E5%B1%95%E7%A4%BA%E4%BC%9A%E3%81%A7%E5%88%9D%E9%96%8B%E8%A8%AD%E6%9D%B1%E4%BA%AC%E3%83%93%E3%83%83%E3%82%B0%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E9%96%8B%E5%82%AC%E4%B8%AD%E3%81%AE%E7%AC%AC33%E5%9B%9E%E6%97%A5%E6%9C%AC%E5%9B%BD%E9%9A%9B%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E8%A6%8B%E6%9C%AC%E5%B8%82-jimtof2026%E3%81%AF2%E6%97%A5%E7%9B%AE%E3%82%92%E8%BF%8E%E3%81%88%E5%88%9D%E6%97%A5/122215246196575022/",
+    "https://www.facebook.com/61567250676706/posts/%E5%B1%95%E7%A4%BA%E4%BC%9A%E6%83%85%E5%A0%B1jimtof20263%E6%97%A5%E7%9B%AE%E3%82%82%E3%81%94%E7%9B%9B%E6%B3%81%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E6%9D%B1%E4%BA%AC%E3%83%93%E3%83%83%E3%82%B0%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E9%96%8B%E5%82%AC%E4%B8%AD%E3%81%AE%E7%AC%AC33%E5%9B%9E%E6%97%A5%E6%9C%AC%E5%9B%BD%E9%9A%9B%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E8%A6%8B%E6%9C%AC%E5%B8%82-jimtof2026%E3%81%AF3%E6%97%A5%E7%9B%AE%E3%82%82%E7%9B%9B%E3%82%8A%E4%B8%8A%E3%81%8C%E3%81%A3%E3%81%A6/122215377728575022/",
+    "https://www.facebook.com/61567250676706/posts/%E5%B1%95%E7%A4%BA%E4%BC%9A%E6%83%85%E5%A0%B1-%E6%9C%AC%E6%97%A5%E6%9C%80%E7%B5%82%E6%97%A5-jimtof2026-%E6%9D%B1%E4%BA%AC%E3%83%93%E3%83%83%E3%82%B0%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E9%96%8B%E5%82%AC%E4%B8%AD%E3%81%AE%E7%AC%AC33%E5%9B%9E%E6%97%A5%E6%9C%AC%E5%9B%BD%E9%9A%9B%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E8%A6%8B%E6%9C%AC%E5%B8%82-jimtof2026%E3%81%AF%E6%9C%80%E7%B5%82%E6%97%A5%E3%81%AE%E6%9C%AC%E6%97%A5%E3%82%82%E5%A4%9A%E3%81%8F%E3%81%AE%E6%96%B9%E3%80%85%E3%81%AB%E8%B6%B3%E3%82%92%E9%81%8B%E3%82%93/122215711382575022/",
+    "https://www.facebook.com/OkayamawineFes/posts/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%8A%E3%81%8B%E3%82%84%E3%81%BE%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B1%95otex2026-%E7%B2%BE%E9%8B%AD%E4%BC%81%E6%A5%AD%E3%81%A8%E5%87%BA%E4%BC%9A%E3%81%86%E6%8A%80%E8%A1%93%E5%B1%95%E7%A4%BA%E5%95%86%E8%AB%87%E4%BC%9A%E6%97%A5%E6%99%822026%E5%B9%B411%E6%9C%8811%E6%97%A5%E6%B0%B412%E6%97%A5%E6%9C%A8-10%E6%99%8217%E6%99%82-%E6%9C%80%E7%B5%82%E6%97%A5%E3%81%AF-16%E6%99%8230%E5%88%86-/1940432317294631/",
+    "https://www.facebook.com/isozakitetsuji.jaw/posts/%E6%9C%AC%E6%97%A5%E3%81%AF%E7%B5%82%E6%97%A5%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%86%85%E3%81%A7%E5%90%84%E4%BC%81%E6%A5%AD%E5%8A%B4%E7%B5%84%E3%81%AB%E3%81%94%E6%8C%A8%E6%8B%B6%E5%9B%9E%E3%82%8A%E4%B8%89%E8%8F%B1%E8%87%AA%E5%B7%A5%E5%8A%B4%E7%B5%84%E6%B0%B4%E5%B3%B6%E6%94%AF%E9%83%A8%E6%B0%B4%E5%B3%B6%E6%A9%9F%E5%B7%A5%E5%8A%B4%E7%B5%84%E3%83%8B%E3%83%83%E3%83%91%E3%83%84%E6%B0%B4%E5%B3%B6%E5%8A%B4%E7%B5%84%E6%B0%B4%E5%B3%B6%E3%83%97%E3%83%AC%E3%82%B9%E5%B7%A5%E6%A5%AD%E5%8A%B4%E7%B5%84%E6%9B%99%E3%83%96%E3%83%AC%E3%83%BC%E3%82%AD%E5%B1%B1%E9%99%BD%E8%A3%BD%E9%80%A0%E5%8A%B4%E7%B5%84%E3%82%A2%E3%82%B9%E3%83%86%E3%82%A2%E3%83%A6%E3%83%8B%E3%82%AA%E3%83%B3%E8%8D%BB%E9%87%8E%E9%89%84%E5%B7%A5%E5%8A%B4%E7%B5%84%E5%85%B1/916892810478767/",
+    "https://www.facebook.com/100063575216680/posts/1993-mitsubishi-canter-3-ton-4d33-original-bodybuying-and-shipping-up-to-dar-cf-/1225308989598263/",
+    "https://www.facebook.com/dougukan.jp/posts/%E5%85%A8%E8%87%AA%E5%8B%95%E6%9C%A8%E5%B7%A5%E3%83%97%E3%83%AC%E3%82%B95m%E5%B9%85-12m%E5%A5%A5-%E7%9C%9F%E3%82%93%E4%B8%AD%E3%81%AE%E6%9F%B1%E3%81%AF%E9%80%80%E9%81%BF%E7%94%A8%E3%81%AE%E3%82%A2%E3%83%BC%E3%83%A0%E3%81%AB%E5%8F%8E%E7%B4%8D%E3%81%A7%E3%81%8D%E3%82%8B%E7%82%BA%E6%9C%80%E5%A4%A7%E5%B9%855m%E6%9D%90%E3%81%AE%E6%8A%95%E5%85%A5%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%A7%E3%81%99%E5%B7%A6%E5%81%B4%E4%B8%80%E6%9E%9A%E7%9B%A4%E2%91%A1%E2%91%A2%E2%91%A3%E2%91%A4%E3%81%AF4%E6%9E%9A%E7%9B%A4%E3%81%AE%E5%88%86%E5%89%B2%E5%BC%8F%E3%81%A7%E9%83%A8%E6%9D%90%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%95%E3%81%AB%E5%88%86%E3%81%91%E3%81%A6%E3%81%AE/1871306812893224/?locale=es_LA",
+    "https://www.facebook.com/okbkri/posts/kbc%E4%BC%9A%E5%93%A1%E7%84%A1%E6%96%99%E5%85%B1%E7%AB%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%96%E8%AC%9B%E6%BC%94%E4%BC%9A%E3%81%AE%E3%81%94%E6%A1%88%E5%86%858%E6%9C%8822%E6%97%A5%E6%9C%88%E3%81%AB%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E9%87%8E%E7%90%83%E7%A1%AC%E5%BC%8F%E9%87%8E%E7%90%83%E9%83%A8%E7%B7%8F%E7%9B%A3%E7%9D%A3%E3%81%AE%E9%9D%92%E6%9C%A8%E5%AD%9D%E5%AE%88%E6%B0%8F%E3%82%92%E8%AC%9B%E5%B8%AB%E3%81%AB%E3%81%8A%E6%8B%9B%E3%81%8D%E3%81%97%E5%85%B1%E7%AB%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%96%E8%AC%9B%E6%BC%94%E4%BC%9A%E5%BC%B1%E8%80%85%E3%81%8C%E8%B2%A0%E3%81%91%E3%82%8B%E3%82%8F%E3%81%91%E3%81%A7%E3%81%AF/494995365765678/",
+    "https://www.facebook.com/yamabiko.page/photos/%E5%85%A8%E3%81%A6%E3%81%AF%E3%83%81%E3%82%A7%E3%83%B3%E3%82%BD%E3%83%BC%E3%81%A8%E3%81%AE%E9%81%8B%E5%91%BD%E3%81%AE%E5%87%BA%E4%BC%9A%E3%81%84%E3%81%8B%E3%82%89%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F-%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E5%96%B6%E6%A5%AD%E9%83%A81%E5%8F%B7%E3%81%A7%E3%81%99-%E4%BB%8A%E6%97%A5%E3%81%AF%E6%96%B0%E3%83%80%E3%82%A4%E3%83%AF%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%81%AE%E9%9A%A0%E3%81%95%E3%82%8C%E3%81%9F%E7%94%9F%E3%81%84%E7%AB%8B%E3%81%A1%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%8A%E8%A9%B1%E3%81%97%E3%81%97%E3%81%BE%E3%81%99-%E5%89%B5%E6%A5%AD%E6%99%82%E3%81%AE%E3%81%82%E3%82%8B%E9%81%8B/1139296966127961/"
+   ]
+  },
+  {
+   "query": "共立精機 note 社長",
+   "results": [
+    "https://www.kyoritsu-seiki.com/company/",
+    "https://soja-no-mirai.jp/list/668.html",
+    "https://syukatsu-kaigi.jp/companies/65171/word_mouths/employee/sex/male",
+    "https://www.nikkan.co.jp/articles/view/719391",
+    "https://www.shimotsuke.co.jp/articles/-/1361250",
+    "https://www.47news.jp/14434071.html",
+    "https://www.youtube.com/watch?v=dtyO4YOz0ZE",
+    "https://job.mynavi.jp/28/pc/search/corp241923/outline.html",
+    "https://compalyze.co.jp/company/6060001001424",
+    "https://www.nikkan.co.jp/articles/view/00719391"
+   ]
+  },
+  {
+   "query": "共立精機 X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=kdl2QWOJ250",
+    "https://www.instagram.com/p/DLocrxiyj3V/",
+    "https://www.kyoritsu-seiki.co.jp/ja/info/release",
+    "https://pr.mono.ipros.com/kyoritsu-seiki/",
+    "https://syukatsu-kaigi.jp/companies/65171/word_mouths/employee/sex/male",
+    "https://www.kyoritsuseiki.co.jp/",
+    "https://www.youtube.com/channel/UC4TLQhL2LdoQHcImwIlnvmw",
+    "https://x.com/kyoritsu_foods",
+    "https://www.instagram.com/kyoritsuseiki/reels/",
+    "https://www.kyoritsu-seiki.co.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部7頁・検索8回）"
+ }
+}

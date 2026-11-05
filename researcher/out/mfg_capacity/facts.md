@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・17品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・27品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1391,3 +1391,660 @@
 - 事業所数・社数：記載なし（読んだ48頁・検索15回）
 - 1人あたり・1社あたり金額：記載なし（読んだ48頁・検索15回）
 - 生産能力・設備：記載なし（読んだ48頁・検索15回）
+
+## 受託加工の上場企業の有価証券報告書（設備の状況・従業員の状況・設備の新設計画）（contract manufacturer annual securities report capex plan employees EDINET）
+- 文脈：一次・開示
+- 事業所数・社数：
+  - 「(1）持分法適用の関連会社数 １社」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+- 社員数・平均社員数：
+  - 「３．従業員数は就業人員であり、臨時雇用者数（嘱託社員、人材会社からの派遣社員を含む」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「平成21年12月 韓国に現地法人YAC Korea Co.,Ltdを設立」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「平成22年５月 中国に現地法人瓦愛新（上海）国際貿易有限公司を設立」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「（注）１．従業員数は就業人員（当社グループからグループ外への出向者を除き、グループ外から当社グループへの出」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「２．全社（共通）として記載されている従業員数は、特定のセグメントに区分できない管理部門等に所属してい」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「３．従業員数が前連結会計年度末に比べ91名増加したのは、持分法適用関連会社であった株式会社デンコー（現」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「（注）１．従業員数は就業人員（当社から社外への出向者を除き社外から当社への出向者を含む」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「２．従業員数の（ ）は、臨時雇用者数を外書しております」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「（注）１．自己株式 株は「個人その他」に 単元及び「単元未満株式の状況」に 株含めて記載しておりま」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「従業員数 (名) 4,845 5,123 5,442 5,508 5,688［851] ［920] ［948] ［995] ［777]」（https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf）
+  - 「３ 「従業員数」の [外書] は、臨時従業員の年間平均雇用人員数であります」（https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf）
+  - 「従業員数 (名) 1,532 1,521 1,562 1,656 1,745[218] [237] [261] [267] [253]」（https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf）
+  - 「(注) １ 従業員数は、当社グループ（当社及び連結子会社）から当社グループ外への出向者を除いた就業人員」（https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf）
+  - 「２ 「従業員数」の［外書］は、臨時従業員の年間平均雇用人員数であります」（https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf）
+  - 「４ 全社（共通）として記載している従業員数は、特定のセグメントに区分できない管理部門に所属して」（https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf）
+- 受注金額・加工賃収入：
+  - 「（注）１．売上高には消費税等は含まれておりません」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「売上高 （千円） 21,197,838 12,628,648 9,144,855 11,498,640 12,378,330」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「売上高 （千円） 20,302,077 12,369,845 9,035,923 11,333,477 9,154,281」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「３．株式会社ワイエイシイデンコーについては、売上高（連結会社相互間の内部売上高を除く」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「主要な損益情報等 (1）売上高 千円」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「株式会社 新潟県妙高市 百万円 80 クリーニング関連その他事業 100 2 2 当社製品の製造、資金の貸付」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「株式会社ＮＤマテリアル 高知県高知市 百万円 50 産業用エレクトロニクス関連事業 40 2 1 当社製品の販売」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「この結果、当連結会計年度の業績は売上高123億78百万円（前連結会計年度比7.7％増）、営業利益１億81百万円」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「（同74.0％減）、経常利益１億50百万円（同79.3％減）、当期純利益３億43百万円（同13.4％減）となりました」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「これらの結果、産業用エレクトロニクス関連事業の売上高は111億71百万円（同9.4％増）、セグメント利益は５」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「億11百万円（同49.4％減）となりました」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「これらの結果、クリーニング関連その他事業の売上高は12億６百万円（同6.2％減）、セグメント利益は１億43」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「百万円（同6.0％減）となりました」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「）は、前連結会計年度に比べ21億17百万円」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「増加し、86億37百万円となりました」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+- 1人あたり・1社あたり金額：
+  - 「株式会社 新潟県妙高市 百万円 80 クリーニング関連その他事業 100 2 2 当社製品の製造、資金の貸付」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「株式会社ＮＤマテリアル 高知県高知市 百万円 50 産業用エレクトロニクス関連事業 40 2 1 当社製品の販売」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「この結果、当連結会計年度の業績は売上高123億78百万円（前連結会計年度比7.7％増）、営業利益１億81百万円」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「（同74.0％減）、経常利益１億50百万円（同79.3％減）、当期純利益３億43百万円（同13.4％減）となりました」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「これらの結果、産業用エレクトロニクス関連事業の売上高は111億71百万円（同9.4％増）、セグメント利益は５」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「億11百万円（同49.4％減）となりました」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「これらの結果、クリーニング関連その他事業の売上高は12億６百万円（同6.2％減）、セグメント利益は１億43」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「百万円（同6.0％減）となりました」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「）は、前連結会計年度に比べ21億17百万円」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「増加し、86億37百万円となりました」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「営業活動による資金は、17億60百万円の増加（前連結会計年度は18億54百万円の増加）となりました」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「要因は売上債権の減少24億27百万円、前受金の増加22億７百万円、仕入債務の増加12億20百万円、税金等調整前当」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「期純利益３億37百万円、減価償却費２億66百万円等であり、主な減少要因はたな卸資産の増加43億65百万円、負の」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「のれん発生益２億55百万円等であります」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「投資活動による資金は、２億45百万円の増加（前連結会計年度は２億22百万円の減少）となりました」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+- 生産能力・設備：
+  - 「１． 設備投資等の概要 …………………………………………………………………………………………… 17」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「１【設備投資等の概要】」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「有形固定資産合計 2,916,038 3,876,509」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「有形固定資産の取得による支出 △30,331 △46,048」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「有形固定資産の売却による収入 300 811」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「１ 【設備投資等の概要】………………………………………………………………………………………… 31」（https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf）
+  - 「１ 【設備投資等の概要】」（https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf）
+  - 「当社グループにおける当連結会計年度の設備投資の総額は9,686百万円（無形固定資産を含む」（https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf）
+  - 「円、1,139百万円及び518百万円の設備投資となりました」（https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf）
+- 10年推移：
+  - 「１． 主要な経営指標等の推移 …………………………………………………………………………………… 1」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「(５） 発行済株式総数、資本金等の推移 ……………………………………………………………………… 19」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「４． 株価の推移 …………………………………………………………………………………………………… 23」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「１【主要な経営指標等の推移】」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「平成10年７月 ＩＣテストハンドラー「ＴＨ－7000」開発に着手」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「３．従業員数が前連結会計年度末に比べ91名増加したのは、持分法適用関連会社であった株式会社デンコー（現」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「労働組合は結成されておりませんが、労使関係は円満に推移しております」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「による設備投資の遅延等がありましたが、ＵＶキュア機や搬送機の拡販により業績は堅調に推移しました」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「調に推移しましたが、秋口以降の業績は設備投資の充足感により後退しました」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「推移いたしましたが、一部大口の売上が来期へずれ込むこととなりました」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「加熱処理装置分野では、スマートフォン等の小型液晶パネル用装置の需要に支えられ、業績は堅調に推移しまし」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「太陽電池関連装置分野では、再生可能エネルギー需要の増加が予想されましたが、太陽光パネルの過剰在庫に起」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「因する設備投資の先送りやパネル価格の下落もあり、業績は低調に推移しました」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「クリーニング関連その他事業については、ライフスタイルの変化等に伴う国内クリーニング需要の減少と業界全」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「増加し、86億37百万円となりました」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+- 人手と仕事の差：
+  - 「受注高（千円） 前年同期比（％） 受注残高（千円） 前年同期比（％）」（https://www.yac.co.jp/ja/ir/library/securities/main/08/teaserItems1/0/linkList/0/link/40_4Qhokokusyo_H24.07.04.pdf）
+  - 「国内経済については、インフレの進行や人手不足などから一部では停滞感もある一方で、インバウンド需要の拡」（https://www.hanwa.co.jp/ms/data/pdf/ir/20250627_4946.pdf）
+
+## 受託加工の1人あたり生産額の代わりの切り口（中小企業実態基本調査の産業中分類×従業者規模の売上高÷従業者数）（SME basic survey sales per employee manufacturing subcategory size class）
+- 文脈：推定・別の切り口
+- 事業所数・社数：記載なし（読んだ20頁・検索15回）
+- 社員数・平均社員数：記載なし（読んだ20頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ20頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ20頁・検索15回）
+- 生産能力・設備：記載なし（読んだ20頁・検索15回）
+- 10年推移：記載なし（読んだ20頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ20頁・検索15回）
+
+## 人手不足で受注を断った割合 製造業 規模別 調査 一次（share of manufacturers declining orders due to labor shortage Japan survey）
+- 文脈：一次・人手と仕事
+- 社員数・平均社員数：
+  - 「2025年1月の調査では企業の半数以上が人手不足を感じており、人手不足倒産も過去最多を記録するなど、企業の存続そのものを脅かす構造的課題となっています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「「人手不足に対する企業の動向調査」（2025年4月」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「2024年の就業者数は6,781万人と過去最多を記録した一方で、企業の人手不足感は改善していません」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「によると、2024年の人手不足倒産は342件に達し、2年連続で過去最多を更新しました」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「「法人企業景気予測調査」（2025年1～3月期調査）」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「では、従業員数判断BSI（「不足気味」の企業割合－「過剰気味」の企業割合）において、大企業が28.3ポイントであるのに対し、中小企業は30.3ポイントと、依然として中小企業の方が深刻な人手不足に陥っていることが明確に示されています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「によると、中小企業の63.0%が「人手不足」と回答し、そのうち65.5%が事業運営に「深刻な影響」（「非常に深刻」または「深刻」）を受けている状況です」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「これらの業界では、依然として7割近い企業が人手不足に直面しています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「建設業では、2024年4月から施行された時間外労働の上限規制（2024年問題）により、従来の働き方が制限され、さらなる人手不足が加速しています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+- 受注金額・加工賃収入：
+  - 「大企業では初任給30万円時代と言われる中、賃上げ機運に追いつけない中小企業が増加しており、人材獲得においてますます不利な状況に置かれています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+- 1人あたり・1社あたり金額：
+  - 「大企業では初任給30万円時代と言われる中、賃上げ機運に追いつけない中小企業が増加しており、人材獲得においてますます不利な状況に置かれています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+- 10年推移：
+  - 「2025年1月の調査では企業の半数以上が人手不足を感じており、人手不足倒産も過去最多を記録するなど、企業の存続そのものを脅かす構造的課題となっています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「「人手不足に対する企業の動向調査」（2025年4月」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「2024年の最新データで見る深刻な労働者不足の実態」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「2024年の就業者数は6,781万人と過去最多を記録した一方で、企業の人手不足感は改善していません」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「総務省統計局の労働力調査によると、労働力人口は増加傾向にあるものの、企業が求める人材と求職者のスキルミスマッチが拡大しています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「によると、2024年の人手不足倒産は342件に達し、2年連続で過去最多を更新しました」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「「法人企業景気予測調査」（2025年1～3月期調査）」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「日本商工会議所の調査（2024年7月）」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「によると、2024年卒採用において採用計画の8割以上を達成した企業の割合は、大企業（従業員1,001名以上）が76%だったのに対し、中小企業（従業員300名以下）では47%にとどまりました」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「これにより既存従業員の疲弊が進み、離職が新たな人手不足を生むという悪循環に陥るケースが増加しています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「2025年4月時点の帝国データバンクの調査」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「建設業では、2024年4月から施行された時間外労働の上限規制（2024年問題）により、従来の働き方が制限され、さらなる人手不足が加速しています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「日本の労働者不足の最大の要因は、少子高齢化による生産年齢人口（15～64歳）の減少です」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「生産年齢人口（15～64歳）は1995年の8,717万人をピークに減少に転じています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「では、2070年には生産年齢人口が4,535万人まで減少すると予測されています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+- 人手と仕事の差：
+  - 「2025年1月の調査では企業の半数以上が人手不足を感じており、人手不足倒産も過去最多を記録するなど、企業の存続そのものを脅かす構造的課題となっています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「「人手不足に対する企業の動向調査」（2025年4月」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「2024年の就業者数は6,781万人と過去最多を記録した一方で、企業の人手不足感は改善していません」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「によると、2024年の人手不足倒産は342件に達し、2年連続で過去最多を更新しました」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「では、従業員数判断BSI（「不足気味」の企業割合－「過剰気味」の企業割合）において、大企業が28.3ポイントであるのに対し、中小企業は30.3ポイントと、依然として中小企業の方が深刻な人手不足に陥っていることが明確に示されています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「によると、中小企業の63.0%が「人手不足」と回答し、そのうち65.5%が事業運営に「深刻な影響」（「非常に深刻」または「深刻」）を受けている状況です」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「これにより既存従業員の疲弊が進み、離職が新たな人手不足を生むという悪循環に陥るケースが増加しています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「によると、正社員の人手不足が最も深刻な業界は以下の通りです」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「これらの業界では、依然として7割近い企業が人手不足に直面しています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「建設業では、2024年4月から施行された時間外労働の上限規制（2024年問題）により、従来の働き方が制限され、さらなる人手不足が加速しています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「これにより、従来の働き方では必要な労働時間を確保できなくなり、人手不足が一層深刻化しています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「人手不足により既存の業務を維持することが精一杯の状況では、新規受注を断らざるを得ない事態が頻発します」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「マンパワーグループの調査によると、人手不足企業の多くが「仕事の受注そのものを減らすか、断るしかない」状況に追い込まれています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「厚生労働省の調査では、人手不足が職場環境に与える影響として「残業時間の増加、休暇取得数の減少」が最多となっており、企業・労働者双方が最も深刻に感じている問題です」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「技術継承の重要性は理解されているものの、人手不足により教育・研修の時間が十分に取れないことが問題となっています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+- 事業所数・社数：記載なし（読んだ39頁・検索15回）
+- 生産能力・設備：記載なし（読んだ39頁・検索15回）
+
+## 全国鍍金工業組合連合会 めっき 事業所数 従業者 出荷額 推移（Japan electroplating industry association statistics）
+- 文脈：団体・めっき
+- 事業所数・社数：
+  - 「国内の電気めっき業の事業所数は、この20年で減少が続いています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「経済産業省の2025年経済構造実態調査によると、各業種の規模は次のとおりです（事業所数・従業者数は2025年6月1日時点、製造品出荷額等は2024年の実績」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「電気めっき業の事業所数は、工業統計（従業者4人以上の事業所）で、2004年の1,489事業所から2014年に1,162事業所、2019年に1,070事業所へと減りました」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「全国鍍金工業組合連合会（全鍍連）の組合員は、2005年4月時点で1,878社・従業員29,999人、2026年4月時点で22組合・1,107事業所・従業員24,675人です（2005年は社数、2026年は事業所数による値で、統計の事業所の数え方とも異なります）」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「電気めっき業の事業所数（2025年6月時点）は、東京都155、大阪府142、愛知県106、埼玉県88、神奈川県46の順で、製造品出荷額等（2024年実績）は、愛知県573億円、大阪府457億円、埼玉県406億円、東京都400億円、長野県361億円の順です（」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+- 社員数・平均社員数：
+  - 「従業者４人以上の事業所」（https://zentoren.or.jp/mekki/data.html）
+  - 「経済産業省の2025年経済構造実態調査によると、各業種の規模は次のとおりです（事業所数・従業者数は2025年6月1日時点、製造品出荷額等は2024年の実績」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「27,459人」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「31,487人」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「5,626人」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「22,229人」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「15,642人」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「電気めっき業の事業所数は、工業統計（従業者4人以上の事業所）で、2004年の1,489事業所から2014年に1,162事業所、2019年に1,070事業所へと減りました」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「2025年6月時点の1,016事業所は全規模の事業所を対象とする値で、4人以上を対象とする過去の値と比べると、減少の幅は実際より小さく見えます」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「全国鍍金工業組合連合会（全鍍連）の組合員は、2005年4月時点で1,878社・従業員29,999人、2026年4月時点で22組合・1,107事業所・従業員24,675人です（2005年は社数、2026年は事業所数による値で、統計の事業所の数え方とも異なります）」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「事業所の規模は小さく、2025年6月時点の電気めっき業1,016事業所のうち、従業者29人以下の事業所が779事業所（約77%）を占めます」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「100人以上の事業所は48事業所です」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「2026年には、大型のめっき設備を持ちながら人員不足から稼働率が下がっていた三鷹金属工業のめっき事業を、セイワHD傘下の冨士鍍金工業所が譲り受け、製造能力を約35%増やす見込みを示しました（事例②）」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「同社は取得の時点で、既存取引先以外の車載電装メーカー・自動車メーカーへの拡販、海外の自動車メーカーの新規開拓、金属加工と表面処理のパッケージでの提案、M&Aを含む生産拠点の拡充、自動化・省人化による生産性の向上の5点をシナジーとして想定していました」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「これらの案件は、（i）事業承継型の持株会社が、株式の取得と事業の譲受を組み合わせて、愛知県・岐阜県を中心に、関東も含めてめっき・表面処理の会社と設備を積み上げている、（ii）買い手が取得の評価の目安（EV/EBITDA5倍以内）を開示している、（iii）売り手側の事情として、後継者不在だけでなく、人員不足と設備投資の余力の制約が公表されている、という点を示しています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+- 受注金額・加工賃収入：
+  - 「（１）電気めっき業における都道府県別製造品出荷額（平成22年度工業統計データより）」（https://zentoren.or.jp/mekki/data.html）
+  - 「（２）電気めっき業における出荷額（平成22年度工業統計データより）」（https://zentoren.or.jp/mekki/data.html）
+  - 「一方で製造品出荷額等は、この20年、4,000億円台で推移しています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「経済産業省の2025年経済構造実態調査によると、各業種の規模は次のとおりです（事業所数・従業者数は2025年6月1日時点、製造品出荷額等は2024年の実績」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「4,933億円」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「7,148億円」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「1,288億円」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「3,043億円」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「3,164億円」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「同じ各年の製造品出荷額等は、4,365億円、4,169億円、4,779億円です」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「JCUは、2026年3月期の国内の装飾向け薬品の売上がデザインの傾向の変化もあり横ばいと説明」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「JCUは、2026年3月期に台湾で半導体パッケージ基板向けのめっき薬品の売上が前年から大幅に増加したと説明」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「トーカロの半導体・FPD分野の売上高は248億円（2026年3月期、連結売上高の42.4%）」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「半導体関連の需要 — トーカロは、中期経営計画「TOCALO2030」（2027年3月期〜2031年3月期）で、半導体・FPD分野の売上高を248億円（2026年3月期）から450億円に伸ばす目標を掲げています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「1,382億円（2026年3月期）」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+- 1人あたり・1社あたり金額：
+  - 「単体の売上高は、有償支給取引を控除した付加価値額ベースで100億円超と開示されています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「対象事業の売上高は2億6,400万円（2026年6月期）、譲受価額は非公開です」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「エムエフケイは硬質アルマイト、精密洗浄、電解・化学研磨等を手がけ、2023年9月期の売上高は5億1,500万円です」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「キザイの2019年3月期の売上高は13億4,700万円、営業利益は1億1,700万円、純資産は18億4,200万円です」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「2015年8月、残る株式を保有していたタイの上場会社Thai Stanley Electricから16.35%（170,040株）を2億9,000万バーツ（約10億2,300万円）で取得し、保有比率を83.65%から100%に引き上げました」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+- 生産能力・設備：
+  - 「2026年には、大型のめっき設備を持ちながら人員不足から稼働率が下がっていた三鷹金属工業のめっき事業を、セイワHD傘下の冨士鍍金工業所が譲り受け、製造能力を約35%増やす見込みを示しました（事例②）」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「これらの案件は、（i）事業承継型の持株会社が、株式の取得と事業の譲受を組み合わせて、愛知県・岐阜県を中心に、関東も含めてめっき・表面処理の会社と設備を積み上げている、（ii）買い手が取得の評価の目安（EV/EBITDA5倍以内）を開示している、（iii）売り手側の事情として、後継者不在だけでなく、人員不足と設備投資の余力の制約が公表されている、という点を示しています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「トーカロは、中期経営計画「TOCALO2030」で、東南アジアではタイ、インドネシア、マレーシア、シンガポールを中心に事業を広げ、米国ではアリゾナ州に2025年9月に設立したTOCALO USA-Arizonaなどで生産能力を強化するとしています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「時期については、六価クロム化合物の暫定排水基準が施行日（2024年4月1日）から3年間、亜鉛の暫定排水基準が2029年12月10日までとされていることも、設備投資の計画と合わせて検討の材料になります」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+- 10年推移：
+  - 「国内の電気めっき業の事業所数は、この20年で減少が続いています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「一方で製造品出荷額等は、この20年、4,000億円台で推移しています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「めっき薬品の分野では、2025年に米国の化学メーカーが国内のめっき薬品メーカーを取得しています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「1. めっき・表面処理業界の市場構造 — 事業所の減少と再編の要因」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「経済産業省の2025年経済構造実態調査によると、各業種の規模は次のとおりです（事業所数・従業者数は2025年6月1日時点、製造品出荷額等は2024年の実績」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「経済産業省 2025年経済構造実態調査 製造業事業所調査 産業別統計表」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「電気めっき業の事業所数は、工業統計（従業者4人以上の事業所）で、2004年の1,489事業所から2014年に1,162事業所、2019年に1,070事業所へと減りました」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「2025年6月時点の1,016事業所は全規模の事業所を対象とする値で、4人以上を対象とする過去の値と比べると、減少の幅は実際より小さく見えます」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「事業所の規模は小さく、2025年6月時点の電気めっき業1,016事業所のうち、従業者29人以下の事業所が779事業所（約77%）を占めます」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「JCUは、2026年3月期に台湾で半導体パッケージ基板向けのめっき薬品の売上が前年から大幅に増加したと説明」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「事業所数の減少と能力の集約 — 上記のとおり、電気めっき業の事業所数は減少が続く一方、出荷額等は維持されています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「暫定基準の対象は延長のたびに絞られ、2021年12月以降は電気めっき業だけが対象となり、値も4mg/Lに引き下げられています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「2024年12月の改正で、電気めっき業の暫定基準4mg/Lは2029年12月10日まで延長されました」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「六価クロム化合物の排水基準も、2024年4月1日に0.5mg/Lから0.2mg/Lに強化され、電気めっき業には施行日から3年間、暫定基準0.5mg/Lが適用されています（」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「環境省 報道発表（2024年11月、亜鉛の暫定排水基準）」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+- 人手と仕事の差：
+  - 「人員の確保と設備投資の余力 — 三鷹金属工業のめっき事業の譲渡では、人員不足と追加投資の余力の制約により設備の稼働率が下がっていたことが、背景として公表されています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「人員と投資の余力を持つ買い手のもとで設備を稼働させることが、この取引の目的の一つでした」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「三鷹金属工業は大型のめっき設備と多数の生産ラインを持つ一方、人員不足と追加投資の余力の制約から稼働率が下がっていました」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「これらの案件は、（i）事業承継型の持株会社が、株式の取得と事業の譲受を組み合わせて、愛知県・岐阜県を中心に、関東も含めてめっき・表面処理の会社と設備を積み上げている、（ii）買い手が取得の評価の目安（EV/EBITDA5倍以内）を開示している、（iii）売り手側の事情として、後継者不在だけでなく、人員不足と設備投資の余力の制約が公表されている、という点を示しています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「業績への影響については、売上高は変わらない一方、売上原価のうち外注加工費が減り、固定費が増える見込みとしています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「外注加工費が減るという説明からは、マルマエがこの事業に表面処理を委託していたことが読み取れます」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「目的は、精密部品事業における品質・コスト・納期の向上とサプライチェーンの強化です」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「事例④の買い手は一貫生産の強化を、事例⑤の買い手は品質・コスト・納期の向上とサプライチェーンの強化を目的としています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「取得の目的として、一貫生産の強化、品質・コスト・納期の向上、サプライチェーンの強化が挙げられています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「三鷹金属工業では、人員不足と追加投資の余力の制約から、めっき設備の稼働率が下がっていました（事例②）」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「これらの公表からは、事例の売り手が、価格に加えて、譲渡後に設備を稼働させる人員と投資の余力、技術と雇用の承継、事業の継続を買い手に求めていたことがうかがえます」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+
+## 工業統計表 産業別統計表 加工賃収入額 産業細分類 従業者規模別 時系列（Census of Manufacture Japan processing fee revenue by industry subdivision and size）
+- 文脈：一次・統計表
+- 事業所数・社数：
+  - 「法人・個人別、従業者規模別表（従業者４人以上の事業所）」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「従業者４人～29人の事業所の統計表（従業者規模別）」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「従業者30人以上の事業所の統計表（従業者規模別）」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「産業中分類別、従業者規模別表（従業者４人以上の事業所）」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「市町村別（広域市町村圏域別）従業者規模別事業所数（従業者４人以上の事業所）、生産額（従業者30人以上の事業所）」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「第３表 品目別、都道府県別の出荷及び産出事業所数（全事業 所） ················」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「第４表 品目別、従業者規模別の産出事業所数及 び出荷金額（全事業所） ··········」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「第５表 品目別出荷における産業細分類別の産出事業所数及び出荷金額（全事業所）」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「第６表 産業別出荷における品目別の産出事業所数及び出荷金額（全事業所） ······」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「第７表 品目別の在庫及び産出事業所数（従業 者 30 人以上の事業所） ·············」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「第９表 品目別の加工賃収入額及び産出 事業所数（全事業所） ···················」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「第１０表 その他収入の種類別の産業別産出事業所数及び収入額（産業中分類別、」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「第１１表 その他収入の種類別の都道府県別産出事業所数及び収入額（全事業所）」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「３．調査結果のうち、事業所数、産出事業所数、従業者数については、年月日現在」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「本書は、平成 26 年工業統計調査の結果について、神奈川県分を産業別、従業者規模別、市区町」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+- 社員数・平均社員数：
+  - 「産業小分類別表（従業者４人以上の事業所）」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「産業中分類別統計表（従業者４人以上・30人以上の事業所）」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「産業中分類別統計表（従業者４人以上の法人・個人事業所）」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「法人・個人別、従業者規模別表（従業者４人以上の事業所）」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「従業者４人～29人の事業所の統計表（従業者規模別）」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「従業者30人以上の事業所の統計表（従業者規模別）」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「産業中分類別表（従業者30人以上の事業所）」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「産業中分類別表（従業者４人～29人の事業所、従業者30人以上の事業所）」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「産業中分類別、従業者規模別表（従業者４人以上の事業所）」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「産業中分類別表（従業者４人以上の事業所）」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「１事業所当たり・従業者１人当たり統計表」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「産業細分類別統計表（従業者４人以上の事業所）」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「第７表 品目別の在庫及び産出事業所数（従業 者 30 人以上の事業所） ·············」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「３．調査結果のうち、事業所数、産出事業所数、従業者数については、年月日現在」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「一般社団法人 経済産業統計協会 TEL 03-3561-2974」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+- 受注金額・加工賃収入：
+  - 「製造品出荷額（従業者４人以上の事業所）、在庫額（従業者30人以上の事業所）」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「加工賃収入額（従業者４人以上の事業所）」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「市町村別（広域市町村圏域別）従業者規模別事業所数（従業者４人以上の事業所）、生産額（従業者30人以上の事業所）」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「２．賃加工品に関する統計表」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「第９表 品目別の加工賃収入額及び産出 事業所数（全事業所） ···················」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「高（製造品出荷額等） 総額の９割を達成する範囲に含まれる事業所を調査対象とし、 その」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「４． 製造品出荷額等の経理事項については、 原則消費税込みで把握しているが、 一部の消費」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「３ 製造品出荷額等 （ 従 業 者 4 人以上の事業所） …………………………… 11」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「(5) 製造品出荷額等」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「平成 26 年 1 年間における製造品出荷額、加工賃収入額、製造工程からでたくず及び廃物の出」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「イ 加工賃収入額は、平成 26 年中に他企業の所有に属する主要原材料によって製造し、ある」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「注：平成 19 年調査票改正により、製造品出荷額等に新規調査項目「その他収入額」が加わりま」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「したが、平成 18 年以前の製造品出荷額等には、｢その他収入額｣のうち「販売電力収入」、｢冷」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「(1) 生産額」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「注：平成 18 年以前の生産額の算式は製造品出荷額等を用いていましたが、平成 19 年調査から」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+- 1人あたり・1社あたり金額：
+  - 「(2) 粗付加価値額」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「(3) 付加価値額」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「ため、年次別推移表（256 ページ）を参照される場合及び各統計表記載の付加価値額を、過去公」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「(5) 単位当たりの従業者数、付加価値額及び現金給与総額の算式」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「イ 従業者１人当たりの付加価値額 ＝ 付加価値額 従業者数」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「イ 労働分配率 ＝ 現金給与総額 ×100 付加価値額」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「オ 付加価値率 ＝ 付加価値額 ×100 製造品出荷額等＋(製造品年末在庫額－製造品年初在庫額)＋」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「資本金 300万円未満 74 607 1 742 2 240 5 668 3 198 -」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「300万円以上 500万円未満 1 523 13 347 43 302 53 536 132 647 73 536 720」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「500万円以上 1千万円未満 665 6 727 22 742 33 699 75 274 38 765 198」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「1千万円以上 5千万円未満 4 205 90 884 355 188 924 735 1 701 102 707 139 20 4 84」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「5千万円以上 1億円未満 604 35 125 155 634 502 399 882 327 342 903 26 328」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「常用労働者 1 人当たりの現金給与総額をみると、情報機器（744 万円）、鉄鋼（620 万円）、」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「化学（602 万円）、はん用機器（599 万円）、輸送機（594 万円）などで高くなっています」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+- 生産能力・設備：
+  - 「８ 有形固定資産投資総額 （ 従業者30 人以上の事業所） …………………………… 26」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「Ｄ 設備投資統計表 （ 従 業 者 3 0 人 以 上 の事業所 ） ……………………… 186」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「(7) 有形固定資産の額」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「(4) 有形固定資産投資総額（従業者 30 人以上）」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「有形固定資産投資総額（従業者30人以上）」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「表25 産業中分類別有形固定資産投資総額」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「８ 有形固定資産投資総額（従業者 30 人以上の事業所）」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「図 7 主要業種の有形固定資産投資総額の推移（従業者 30 人以上の事業所）」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「表2 6 規模別有形固定資産投資総額」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「表27 市区町村別有形固定資産投資総額」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+- 10年推移：
+  - 「１．時系列表（平成14年～平成18年）」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「市町村別（広域市町村圏域別）の推移（従業者４人以上の事業所）」（https://pref.shimane-toukei.jp/index.php?view=13013）
+  - 「本書は、e-Stat 政府統計の総合窓口に掲載されている『2023年経済構造実態調査 製造業事」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「業所調査』の集計結果（ 「産業編」 「品目編」 「地域編」 ） （2024 年 7 月 26 日公表）とそれらの関」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「主要項目の年次別推移表（ 1965 年～） ……………………… 256」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「イ 建 設 仮 勘 定 の増加額は、この勘定の借方に加えられた額をいい、減少額は、この勘定から」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「ため、年次別推移表（256 ページ）を参照される場合及び各統計表記載の付加価値額を、過去公」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「(1) 統計表中の前年比、構成比等については、小数点以下第 2 位を四捨五入し、単位金額は表示」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「されましたが、工業統計調査との時系列比較を可能とするため、経済センサスの調査結果のう」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「～ ３年ぶりの増加 ～」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「～ ３年連続して減少 ～」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「～ ７年連続して減少 ～」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「～ ２年連続して減少 ～」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「図１ 年次別推移[平成22年＝100]」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「⇒⇒⇒８１４０事業所、前年比２９３事業所（３．５％）減、３年連続して減少 （表１参照）」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+- 人手と仕事の差：
+  - 「連する外注費及び転売した商品の仕入額の合計であり、消費税額を含みます」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「エ 製造等に関連する外注費は、生産設備の保守・点検・修理、機械・装置の操作、製品に組」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+  - 「み込まれるソフトウエアの開発など、事業所収入に直接関連する外注費用をいいます」（https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf）
+
+## 日本熱処理工業会 熱処理加工 受託 売上 従業者 統計（Japan heat treatment industry association statistics）
+- 文脈：団体・熱処理
+- 事業所数・社数：
+  - 「② 日本における企業数では全体の 99.7％を占めるにもかかわらず、付加価値額では」（https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf）
+- 社員数・平均社員数：
+  - 「これは、熱処理の研究・調査、人材育成、熱処理振興などを目的に1959年（昭和34年）に設立された団体です」（https://daiichis.work/word/n06/）
+  - 「2020年に一般社団法人として再発足しています」（https://daiichis.work/word/n06/）
+  - 「未経験歓迎「人材コーディネーター」年休130日・フルリモートOK」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「株式会社サイキ 未経験歓迎【人材コーディネーター】年休130日・フルリモートOK ※応募に当たっては、マイナビ転職の会員登録が必須となっております」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「★年休130日＆フルフレックス▼ニーズ調査：企業の求める人材要件をヒアリング★ ▼求職者面談：希望・価値観を徹底分析！キャリアプランも提案♪ ▼案件紹介：厳選した案件をご紹介＆面接同席フォロー◎ ▼アフターケア：就業後も定期連絡でしっかりサポート！ ※マーケティング部」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「福岡国際空港株式会社 福岡国際空港の総合職／未経験歓迎／年休121日／賞与年2回 【求人要約】 【スキルアップ◎】充実の教育体制で未経験でも安心！ 【安定◎】社員寮あり／賞与年2回／そのほか手当充実 【成長◎】国際線ターミナル拡張／就航便も増加中！ ★レア求人★「福岡の空を、世界へつなぐ」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年間2,850万人が行き交う国際空港として、 東アジアの玄関口へと進化を続けています」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【応募資格】 [必須] ■製薬メーカー又はCRO等での統計解析実務（臨床試験の試験デザイン立案～計画の策定経験） ■データ解析能力 ■試験結果に対する統計的解釈の提供経験 ■生物統計担当としての国内又は海外規制当局対応経験 ■ SASによるプログラミング技術 ■海外との英語での実務上のコミュニケーション経験 [歓迎] ▼ 臨床薬理試験解析の経験 ▼CDISC標準に関する知識 ▼ITシステムへの親和性 【フィットする人物像】 応募資格をご覧下さい 【職種名】 データサイエンス部 統計解析業務担当（年収700万円～1100万円） 【仕事内容】 【パソナキャリア経由での入社実績あり】■仕事の」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【郵便局で仕分け】 今だけ限定★りんご、お歳暮等のゆうパックの仕分け作業！ 弘前郵便局 ■ 給与 時給 1250 円 以上 ■ シフト 1日5時間以上 ■ アクセス 弘南鉄道大鰐線中央弘前駅 ■ 時間帯 朝、昼、夕方、夜 ■ 勤務地 弘前市 郵便局で期間限定のお仕事！ 複数の時間帯から希望の勤務時間を選択可！ 最大でも12月末までの短期のお仕事なので 「今だけ働きたい！」という方には最適！ ● お仕事情報 ■ 仕事内容 【カンタンな仕分け作業で、しっかり稼げる♪】 毎年人気の期間限定のお仕事です！ 主にリンゴやお歳暮などのゆうパックを仕分けするお仕事で」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【応募資格】 [必須] 【必須条件】 ・国内外資ブランド問わず時計宝飾販売経験もしくは外資ラグジュアリーファッションブランド販売経験 [歓迎] 【尚可条件】外商販売経験 【フィットする人物像】 ・起業家精神・キャッチアップの早さ・スピード感・チャレンジ精神 【弊社からの直近の採用実績】 ・ラグジュアリーファッション(アウトレットのみ)・20代男性 ・アフォータプルブランド・30代女性 ・国内ジュエリーブランド・30代女性 ・外資時計ブランド・30代男性 ・外資シューズブランド・40代女性 ・外資化粧品・40代女性 ・ラグジュアリーファッションブランド・30代男性 等、外資ジュエリーブラ」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「株式会社オリエンタルランド 【プライム市場】 東京ディズニーリゾート（R）の内外装デコレーション技術者 【求人要約】 【経験を活かす】世界に誇るテーマパークが活躍の舞台 【働きやすさ◎】転勤なし／車通勤OK／フレックス 年間休日123日（原則土日）／手当充実／残業少なめ 夢の時間を過ごしていただくためのお仕事 笑顔で会話を楽しむ姿を実現できる環境へ 1983年に東京ディズニーランド(R)、 2001年には東京ディズニーシー(R)を開園」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「り、製造業は資本金 3億円以下または従業員 300人以下、サービス業は資本金 5千万円以下または従業」（https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf）
+  - 「員 100人以下などだ」（https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf）
+  - 「小規模事業者は製造業の場合、従業員 20人以下の企業をさす」（https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf）
+  - 「社員数 42 名」（https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf）
+- 受注金額・加工賃収入：
+  - 「月給37万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収450万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給20万円〜25万円」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「全国に約５７０店舗のセルフランドリーを展開する ＷＡＳＨハウス株式会社（東証グロース市場上場）の本社で店舗の 売上管理業務（内勤事務職）を募集します」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給20万円〜25万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「データサイエンス部／統計解析業務担当／年収700万円／1100万円」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収700万円〜1,149万円」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【応募資格】 [必須] ■製薬メーカー又はCRO等での統計解析実務（臨床試験の試験デザイン立案～計画の策定経験） ■データ解析能力 ■試験結果に対する統計的解釈の提供経験 ■生物統計担当としての国内又は海外規制当局対応経験 ■ SASによるプログラミング技術 ■海外との英語での実務上のコミュニケーション経験 [歓迎] ▼ 臨床薬理試験解析の経験 ▼CDISC標準に関する知識 ▼ITシステムへの親和性 【フィットする人物像】 応募資格をご覧下さい 【職種名】 データサイエンス部 統計解析業務担当（年収700万円～1100万円） 【仕事内容】 【パソナキャリア経由での入社実績あり】■仕事の」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給24.1万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給40万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収410万円〜600万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収500万円〜649万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収580万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「り、製造業は資本金 3億円以下または従業員 300人以下、サービス業は資本金 5千万円以下または従業」（https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf）
+  - 「資本金 2,000 万円」（https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf）
+- 1人あたり・1社あたり金額：
+  - 「月給37万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収450万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給20万円〜25万円」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給20万円〜25万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「データサイエンス部／統計解析業務担当／年収700万円／1100万円」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収700万円〜1,149万円」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【応募資格】 [必須] ■製薬メーカー又はCRO等での統計解析実務（臨床試験の試験デザイン立案～計画の策定経験） ■データ解析能力 ■試験結果に対する統計的解釈の提供経験 ■生物統計担当としての国内又は海外規制当局対応経験 ■ SASによるプログラミング技術 ■海外との英語での実務上のコミュニケーション経験 [歓迎] ▼ 臨床薬理試験解析の経験 ▼CDISC標準に関する知識 ▼ITシステムへの親和性 【フィットする人物像】 応募資格をご覧下さい 【職種名】 データサイエンス部 統計解析業務担当（年収700万円～1100万円） 【仕事内容】 【パソナキャリア経由での入社実績あり】■仕事の」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給24.1万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給40万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収410万円〜600万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収500万円〜649万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収580万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収430万円〜870万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「② 日本における企業数では全体の 99.7％を占めるにもかかわらず、付加価値額では」（https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf）
+  - 「り、製造業は資本金 3億円以下または従業員 300人以下、サービス業は資本金 5千万円以下または従業」（https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf）
+- 生産能力・設備：
+  - 「（４）設備投資に対する方針」（https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf）
+- 10年推移：
+  - 「2025.12.24」（https://daiichis.work/word/n06/）
+  - 「2020年に一般社団法人として再発足しています」（https://daiichis.work/word/n06/）
+  - 「2025.11.17」（https://daiichis.work/word/n06/）
+  - 「2025.11.19」（https://daiichis.work/word/n06/）
+  - 「2025.11.25」（https://daiichis.work/word/n06/）
+  - 「2025.11.23」（https://daiichis.work/word/n06/）
+  - 「2025.11.26」（https://daiichis.work/word/n06/）
+  - 「© 2025 鉄鋼の熱処理と加工.」（https://daiichis.work/word/n06/）
+  - 「受託 売上 従業者 推移 日本熱処理工業会 熱処理加工 統計の求人・仕事・採用｜スタンバイでお仕事探し」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「日本熱処理工業会 熱処理加工 受託 売上 従業者 統計 推移」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「福岡国際空港株式会社 福岡国際空港の総合職／未経験歓迎／年休121日／賞与年2回 【求人要約】 【スキルアップ◎】充実の教育体制で未経験でも安心！ 【安定◎】社員寮あり／賞与年2回／そのほか手当充実 【成長◎】国際線ターミナル拡張／就航便も増加中！ ★レア求人★「福岡の空を、世界へつなぐ」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【東京】受託営業｜年休120日／年収600万超 ▼仕事内容 【仕事内容】 ◆さらなる管理物件数の増加を目指す リロパートナーズは、管理戸数118,468戸・管理戸数ランキング全国10位の安定成長企業です」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「2024年6月には東京ディズニーシーに新テーマポート「ファンタジースプリングス」が開業し、パークはゲストの笑顔であふれています」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「2024 年 1 月 31 日」（https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf）
+  - 「2024年 1 月 31 日」（https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf）
+- 人手と仕事の差：
+  - 「は、いかなる状況においても、当該情報のあらゆる使用から生じうる、機会損失、金銭的損失を含むあらゆる種類の、特別損害、間」（https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf）
+  - 「よる短納期の実現（Ｄｅｌｉｖeｒｙ）をあげており、製造業の持続的な成長のために欠くことのできない３要素」（https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf）
+  - 「のや複雑な工程が必要な熱処理は、将来的にも高い技術を持つ企業へ外注する可能性が高い」（https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf）
+  - 「な工程を適切な機械設備を使用して、求められる品質・価格・納期を実現できる確かな技術を持った社員を」（https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf）
+- 検索結果の抜粋：
+  - 「日本熱処理工業会 熱処理加工 受託 売上 従業者 統計 推移 の求人情報をすべて見る （1,578,500件） — 日本熱処理工業会 熱処理加工 受託 売上 従業者 統計 推移 の求人情報をすべて見る （1,578,500件） スタンバイ」（https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+
+## 日本金型工業会 金型生産額 事業所数 従業者数 推移（Japan Die and Mould Industry Association production statistics）
+- 文脈：団体・金型
+- 事業所数・社数：
+  - 「金型製造業の事業所数･従業員数推移（1986-2023）」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「金型製造業の事業所数 従業員規模（2023年）」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「金型製造業の事業所数 従業員規模 2023年・2021年・2019年・2002年比較」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「事業所数が約65%減少、従業員数が約30%減少」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「事業所数の減少が従業員数より大きい理由は、金型製造業は従業員数9名以下の企業が6割、19名以下の企業が8割を占めている」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「上記グラフは、金型製造業の事業所数 従業員規模（2023年）をまとめたものです」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「金型製造業の事業所数 従業員規模の変化（2023年・2021年・2019年・2002年）をまとめたものが下記です」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「金型製造業の事業所数合計について、2023年は2002年と比較して約62%減少」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「上記グラフは、金型製造業の事業所数 従業員規模の変化（2023年・2021年・2019年・2002年）をまとめたものです」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「金型製造業の事業所・従業員数の推移（1986年～2023年）について、事業所数と従業員数はともに減少」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「2023年は1986年と比較して、事業所数が約65%減少、従業員数が約30%減少」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「金型製造業の事業所数 従業員規模（2023年）について、9人以下の事業所が61%を占めている」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「金型製造業の事業所数 従業員規模の変化（2023年・2021年・2019年・2002年）について、事業所数合計について、2023年は2002年と比較して約62%減少」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+- 社員数・平均社員数：
+  - 「一般社団法人日本金型工業会では、以下の3つの公的統計調査を金型製造業関連の統計調査として、金型製造業向けとして編集して使用しています」（https://www.jdmia.or.jp/toukei/）
+  - 「日本は金型生産高が2023年と1991年比較で約27%減少し、金型製造業所の事業所が2023年と1986年比較で約65%減少、従業員数が約30%減少」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「金型製造業の事業所数･従業員数推移（1986-2023）」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「労働人口と金型製造業の従業員数推移（1986-2023）」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「上記グラフは、金型製造業の事業所・従業員数の推移（1986年～2023年）をまとめたものです」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「事業所数が約65%減少、従業員数が約30%減少」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「事業所数の減少が従業員数より大きい理由は、金型製造業は従業員数9名以下の企業が6割、19名以下の企業が8割を占めている」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「上記グラフは、労働人口と金型製造業の従業員数の推移（1986年～2023年）をまとめたものです」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「労働力人口とは、15歳以上人口のうち、就業者と完全失業者を合わせた人口のことです」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「労働人口について、2023年は1986年と比較して約15%増加」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「金型製造業の従業員数について、2023年は1986年と比較して約30%減少」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「9人以下の金型製造業の事業所が61%」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「10人～19人」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「20人～29人」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「一般社団法人日本金型工業会（以下、日本金型工業会）が2026年9月17日に公表した資料では、国際特殊工具・機械加工協会（ISTMA）の統計に基づく35カ国の金型生産額の合計は13兆1,221億円でした」（https://forwit.jp/column/die-and-mold/）
+- 受注金額・加工賃収入：
+  - 「一方、品目別は総ての調査対象事業所の製造品及び加工品を品目別に集計したものであり、主力が金型以外の製造品であっても金型の生産がおこなわれていれば金型の生産額は金型の1事業所の生産額として集計されます」（https://www.jdmia.or.jp/toukei/）
+  - 「金型生産額の推移（1982-2023）」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「金型生産額・数量・単価の変化（2007-2024)」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「型種別の金型生産額（2024年）」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「型種別の金型生産額 2024年・2022年・2020年・2007年比較」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「都道府県別の金型生産額（2023年）」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「上記グラフは、金型生産額の推移（1982年～2023年）をまとめたものです」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「1991年が金型生産額のピークで、その後二度の下降と上昇を繰り返し、リーマンショックで大ダメージ」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「2011年以降、ゆっくりと金型生産額が回復し、横ばい状態」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「金型の生産額がピークだった1991年（平成3年）は1兆9,575億円で、2023年は1兆4,332億円であるため、生産額が約27%減少」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「上記グラフは、金型生産額、数量、単価（金型生産額/数量）の変化（2007年～2024年）をまとめたものです」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「金型生産額は2022年以降は微減し、」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「上記グラフは、型種別の金型生産額（2024年）をまとめたものです」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「型種別の金型生産額の変化（2024年・2022年・2020年・2007年）をまとめたものが下記です」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「1,229億円」（https://takumi-senpai.com/blog/mold-industry-2026/）
+- 1人あたり・1社あたり金額：
+  - 「従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「2026年1月期の連結売上高は2,183億2,900万円、営業利益は126億5,100万円で、モーターコア製品などを手がける電機部品事業が1,546億4,900万円、金型・工作機械事業が102億4,700万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「前年同月比９．６％減の３００億６，８００万円 プレス型は２６・９％減、プラ型は６・３％増 日本金型工業会（会長牧野俊清氏）は、経済産業省機械統計（従業員２０人以上）による平成２６年１０月の金型生産実績をまとめた」（https://kanagata-shimbun.com/170602analysis-kanagata/）
+  - 「プレス用金型は24.5%増、プラ用金型は13.6%増 2026年2月の金型生産は、前年同月比12.8%増の278億7,338万円となった」（https://kanagata-shimbun.com/170602analysis-kanagata/）
+  - 「プレス用金型は2.3%増、プラ用金型は17.7%減 2025年2月の金型生産は、前年同月比6.7%減の247億378万円となった」（https://kanagata-shimbun.com/170602analysis-kanagata/）
+  - 「【金型生産実績】前年同月比 16.6%減の302億9,100万円」（https://kanagata-shimbun.com/170602analysis-kanagata/）
+  - 「プレス型は45.1%減、プラ型は5.5%減 2021年10月の金型生産は、前年同月比16.6%増の302億9,100万円となった」（https://kanagata-shimbun.com/170602analysis-kanagata/）
+  - 「従業者1人あたりに直すと、2024年の生産額は約2,092万円です（生産額と従業者数から算出）」（https://monoscope-media.com/die-press-machining-market/）
+  - 「前年同月比 4.7％減の295億1,100万円 ゴム型は27.5％増、プレス型は20.4％減 日本金型工業会（会長牧野俊清氏）は、経済産業省機械統計（従業員30人以上）による2017年4月の金型生産実績をまとめた」（https://kanagata-shimbun.com/2008910news-toukei/）
+  - 「プレス用金型は1.3％増、プラ用金型は16.6％増 2024年10月の金型生産は、前年同月比6.6％増の296億7,433万円となった」（https://kanagata-shimbun.com/2008910news-toukei/）
+  - 「【金型生産実績】2020年12月 19.7%減の305億800万円」（https://kanagata-shimbun.com/2008910news-toukei/）
+  - 「プレス型は25.1%減、プラ型は11.9%減 2020年12月の金型生産は、前年同月比19.7%減の305億800万円となった」（https://kanagata-shimbun.com/2008910news-toukei/）
+  - 「前年同月比９．６％減の３００億６，８００万円 プレス型は２６・９％減、プラ型は６・３％増 日本金型工業会（会長牧野俊清氏）は、経済産業省機械統計（従業員２０人以上）による平成２６年１０月の金型生産実績をまとめた」（https://kanagata-shimbun.com/2008910news-toukei/）
+  - 「2023年2月金型生産実績 前年同月比 1.5％減の262億1,800万円」（https://kanagata-shimbun.com/2008910news-toukei/）
+  - 「プレス用金型は18.2％減、プラ用金型は20.2％増 2023年2月の金型生産は、前年同月比1.5％減の262億1,800万円、前月比では8.6％の減少となった」（https://kanagata-shimbun.com/2008910news-toukei/）
+- 生産能力・設備：
+  - 「日本政策金融公庫総合研究所のレポートでは、IoT関連の設備投資について金型製造業では7.2%がすでに実施、12.6%が予定ありと答え、製造業全体の4.5%と6.2%を上回っていました」（https://forwit.jp/column/die-and-mold/）
+- 10年推移：
+  - 「※「工業統計調査」は2020年調査（2019年実績）で廃止」（https://www.jdmia.or.jp/toukei/）
+  - 「2022年の調査（2021年実績）からは「製造業事業所調査」として実施されている」（https://www.jdmia.or.jp/toukei/）
+  - 「（2011年、2015年、2020年は旧工業統計調査が実施されなかった為、経済センサスを使用」（https://www.jdmia.or.jp/toukei/）
+  - 「日本の金型生産額・数量・単価、需要業界別の金型生産金額構成、世界の金型生産高と輸出・輸入先、金型製造業の事業所・従業員数の推移をまとめ」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「この記事を書いた私は工具メーカーでの営業・マーケティングの経験を活かし、切削工具と切削加工業界に特化した専門サイト「タクミセンパイ」を2020年から運営しています」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「日本は金型生産高が2023年と1991年比較で約27%減少し、金型製造業所の事業所が2023年と1986年比較で約65%減少、従業員数が約30%減少」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「金型生産額の推移（1982-2023）」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「金型生産額・数量・単価の変化（2007-2024)」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「需要業界別の金型生産金額構成（2024年）」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「型種別の金型生産額（2024年）」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「型種別の金型生産額 2024年・2022年・2020年・2007年比較」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「都道府県別の金型生産額（2023年）」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「世界の金型生産高（2024年）」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「世界の金型生産高 2024年・2021年・2019年比較」（https://takumi-senpai.com/blog/mold-industry-2026/）
+  - 「金型の輸出金額（2025年）」（https://takumi-senpai.com/blog/mold-industry-2026/）
+- 人手と仕事の差：
+  - 「納期と原価の見通しが狂う原因の多くは、この修正の回数が読み切れないところにあります」（https://forwit.jp/column/die-and-mold/）
+  - 「内製と外注の線引きも産業の形を決めています」（https://forwit.jp/column/die-and-mold/）
+  - 「日本｜精度と納期で勝ち、量と価格で押される」（https://forwit.jp/column/die-and-mold/）
+  - 「金型に使うガイドピンやパンチ、ブッシュといった部品を規格化し、寸法をミクロン単位で指定できるようにしたうえで短納期で届ける仕組みを築きました」（https://forwit.jp/column/die-and-mold/）
+  - 「量産が読める型は安い国へ、立ち上げが難しい型や短納期が求められる型は日本へ、という棲み分けが統計の上にも表れています」（https://forwit.jp/column/die-and-mold/）
+  - 「精度と納期、そして立ち上げの速さです」（https://forwit.jp/column/die-and-mold/）
+  - 「国内の企業には、難易度の高い型や短納期への対応など、海外との違いを出せる仕事が求められています」（https://monoscope-media.com/die-press-machining-market/）
+  - 「同じ統計では、この期間の生産額のうち、自社で使うためにつくられた型（内製）の比率は25.9％で、発注元が型を内製するか外注するかの配分も、受注側の仕事量を左右する要素の一つです」（https://monoscope-media.com/die-press-machining-market/）
+
+## 日本鈑金工業連合会 板金 製缶 溶接 事業所数 従業者 加工賃 統計（Japan sheet metal industry statistics employees processing fee）
+- 文脈：団体・板金
+- 社員数・平均社員数：
+  - 「工業統計調査 産業編 2-01 【１．産業別統計表 (産業細分類別)】 (1)従業者４人以上の事業所に関する統計表 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【１．産業別統計表 (産業細分類別)】 (1)従業者４人以上の事業所に関する統計表」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年初現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年末現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【1122】絹・人絹織物業」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【1142】絹・人絹織物機械染色業」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【1161】織物製成人男子・少年服製造業（不織布製及びレース製を含む）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【1162】織物製成人女子・少女服製造業（不織布製及びレース製を含む）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【2183】人工骨材製造業」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【3251】娯楽用具・がん具製造業（人形を除く）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【3252】人形製造業」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+- 受注金額・加工賃収入：
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年初現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年末現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+- 1人あたり・1社あたり金額：
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年初現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年末現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+- 生産能力・設備：
+  - 「有形固定資産額(従業者30人以上)［年初現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年末現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+- 10年推移：
+  - 「2016-04-28 00:00」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【2020】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【2021】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+- 事業所数・社数：記載なし（読んだ20頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ20頁・検索15回）
+
+## 経済構造実態調査 製造業事業所調査 加工賃収入額 従業者規模別（Economic Structure Survey manufacturing establishments processing fee by size）
+- 文脈：一次・統計表
+- 事業所数・社数：
+  - 「経済構造実態調査 品目編 01009 品目別の加工賃収入額及び産出事業所数（全事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「品目別の在庫及び産出事業所数（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者１～２９人の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業中分類別事業所数、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業細分類別事業所数、事業所敷地面積及び１日当たり水源別用水量（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「経済構造実態調査_製造事業者調査_表10-09_品目別の加工賃収入額及び産出事業所数（全事業所）_年次 2021年 – 2024年 (列 – 複数値形式) - データ製作所」（https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/）
+  - 「経済構造実態調査_製造事業者調査_表10-09_品目別の加工賃収入額及び産出事業所数（全事業所）_年次 2021年 – 2024年 (列 – 複数値形式)」（https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/）
+  - 「＜ダウンロード＞ 経済構造実態調査_製造事業者調査_表10-09_品目別の加工賃収入額及び産出事業所数（全事業所）_年次 (列 – 複数値形式)」（https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/）
+  - 「経済構造実態調査_製造事業者調査_表10-10_その他収入の種類別の産業別産出事業所数及び収入額（産業中分類別、全事業所）_年次 2021年 – 2024年 (列 – 複数値形式)」（https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/）
+  - 「経済構造実態調査 品目編 01009 品目別の加工賃収入額及び産出事業所数（全事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000040194039&layout=dataset&statdisp_id=0004028790）
+  - 「経済構造実態調査 2023年経済構造実態調査（製造業事業所調査） 二次集計品目編 01009 品目別の加工賃収入額及び産出事業所数（全事業所） | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0004028790）
+  - 「品目別の在庫及び産出事業所数（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200555&tstat=000001219780&cycle=0&tclass1=000001219782&layout=datalist）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200555&tstat=000001219780&cycle=0&tclass1=000001219782&layout=datalist）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者１～２９人の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200555&tstat=000001219780&cycle=0&tclass1=000001219782&layout=datalist）
+- 社員数・平均社員数：
+  - 「2023000000_2023_112292_ビスコース人絹・キュプラ・アセテート長繊維織物（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_114291_絹・人絹織物機械染色（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_116191_織物製成人男子・少年服（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_116291_織物製成人女子・少女服（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_218391_人工骨材（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_325291_人形（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「（従業者4人以上の事業所）」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html）
+  - 「（従業者30人以上の事業所）」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html）
+  - 「（従業者4～29人の事業所）」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html）
+  - 「法人番号8000020280003」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html）
+  - 「品目別の在庫及び産出事業所数（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者１～２９人の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業中分類別事業所数、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業細分類別事業所数、事業所敷地面積及び１日当たり水源別用水量（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+- 受注金額・加工賃収入：
+  - 「経済構造実態調査 品目編 01009 品目別の加工賃収入額及び産出事業所数（全事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「時間軸_R7 製造品目（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_091191_部分肉・冷凍肉（ブロイラーを除く）（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_091291_肉加工品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_091391_処理牛乳・乳飲料（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_091491_乳製品（処理牛乳・乳飲料を除く）（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_091991_その他の畜産食料品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092191_水産缶詰・瓶詰（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092291_海藻加工（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092391_水産練製品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092491_塩干・塩蔵品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092591_冷凍水産物（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092691_冷凍水産食品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092991_その他の水産食料品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_093191_野菜缶詰・果実缶詰・農産保存食料品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+- 1人あたり・1社あたり金額：
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者１～２９人の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額及び付加価値額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者１～２９人の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200555&tstat=000001219780&cycle=0&tclass1=000001219782&layout=datalist）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者１～２９人の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200555&tstat=000001219780&cycle=0&tclass1=000001219782&layout=datalist）
+  - 「産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額及び付加価値額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200555&tstat=000001219780&cycle=0&tclass1=000001219782&layout=datalist）
+  - 「産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者１～２９人の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200555&tstat=000001219780&cycle=0&tclass1=000001219782&layout=datalist）
+  - 「第2表 産業分類中分類別・従業者規模別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、粗付加価値額（全事業所）（エクセル：101KB）」（https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2024.html）
+  - 「第3表 産業分類細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、粗付加価値額（全事業所）（エクセル：569KB）」（https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2024.html）
+  - 「第6表 産業分類中分類別・従業者規模別の製造品出荷額等、在庫額、生産額、付加価値額、粗付加価値額（従業者30人以上の事業所）（エクセル：107KB）」（https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2024.html）
+  - 「第8表 産業分類中分類別・従業者規模別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、粗付加価値額（従業者1～29人の事業所）（エクセル：79KB）」（https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2024.html）
+  - 「第12表 市区町別・産業分類中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、粗付加価値額（全事業所）（エクセル：437KB）」（https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2024.html）
+  - 「第15表 市区町別の製造品出荷額等、在庫額、生産額、付加価値額、粗付加価値額（従業者30人以上の事業所）（エクセル：54KB）」（https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2024.html）
+  - 「５ 付加価値額 ･･･････････････････････････････････････････ ････････････････ 13」（https://tokei.pref.nagano.lg.jp/statistics-info/statistics_download?pid=26043&type=pdf）
+- 生産能力・設備：
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業中分類別事業所数、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200555&tstat=000001219780&cycle=0&tclass1=000001219782&layout=datalist）
+  - 「産業中分類別事業所数、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200555&tstat=000001219780&cycle=0&tclass1=000001219782&layout=datalist）
+  - 「第7表 産業分類中分類別・従業者規模別の有形固定資産額、有形固定資産投資総額（従業者30人以上の事業所）（エクセル：88KB）」（https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2024.html）
+  - 「第16表 市区町別の有形固定資産額、有形固定資産投資総額（従業者30人以上の事業所）（エクセル：48KB）」（https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka_2024.html）
+  - 「第7表：産業中分類別有形固定資産額（従業者30人以上）」（https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/sangyo/20251117104610.html）
+  - 「第17表：市町村別有形固定資産額（従業者30人以上）」（https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/sangyo/20251117104610.html）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/index.php/stat-search/database?toukei=00200555&tstat=000001245387&cycle=0&tclass1=000001245394&layout=datalist&page=1&tclass2val=0）
+  - 「産業中分類別事業所数、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/index.php/stat-search/database?toukei=00200555&tstat=000001245387&cycle=0&tclass1=000001245394&layout=datalist&page=1&tclass2val=0）
+- 10年推移：
+  - 「経済構造実態調査 / 2024年経済構造実態調査（製造業事業所調査） / 二次集計」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「経済構造実態調査は、我が国の企業等の経済活動の状況を明らかにし、国民経済計算の精度向上等に資するとともに、企業等に関する施策の基礎資料を得ることを目的として、総務省・経済産業省の共管で令和元年（2019年）から実施しております」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2024年経済構造実態調査（製造業事業所調査）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2025-08-29 14:00」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_000000_合計」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_090000_食料品」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_091191_部分肉・冷凍肉（ブロイラーを除く）（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_091291_肉加工品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_091391_処理牛乳・乳飲料（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_091491_乳製品（処理牛乳・乳飲料を除く）（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_091991_その他の畜産食料品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092191_水産缶詰・瓶詰（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092291_海藻加工（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092391_水産練製品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092491_塩干・塩蔵品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+- 人手と仕事の差：
+  - 「する外注費及び転売した商品の仕入額の合計であり、消費税額を含んだ額です」（https://tokei.pref.nagano.lg.jp/statistics-info/statistics_download?pid=26043&type=pdf）
+  - 「るソフトウェアの開発など、事業所収入に直接関連する外注費用をいい、派遣、委託生産費」（https://tokei.pref.nagano.lg.jp/statistics-info/statistics_download?pid=26043&type=pdf）
+  - 「⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した」（https://www.stat.go.jp/data/kkj/kekka/pdf/2025gaiyo3.pdf）
+  - 「他）、⑥減価償却費、⑦外注費、⑧広告宣伝費、⑨保険料、⑩水道光熱費、⑪通信費、⑫荷造運搬費、⑬旅費・交通費、」（https://www.stat.go.jp/data/kkj/kekka/pdf/2025gaiyo3.pdf）
+  - 「①外注費（国内）、②外注費（国外）」（https://www.stat.go.jp/data/kkj/kekka/pdf/2025gaiyo3.pdf）
+  - 「不動産取引業 ①用地費、②外注工事費、③土地建物購入費」（https://www.stat.go.jp/data/kkj/kekka/pdf/2025gaiyo3.pdf）
+
+## 鉱工業指数 稼働率指数・生産能力指数 業種別 10年推移（METI indices of industrial production capacity utilization by industry）
+- 文脈：一次・指数
+- 社員数・平均社員数：
+  - 「第３次産業総合 広義対個人サービス 広義対事業所サービス(2019-2020年平均=100)」（http://www.etisa.or.jp/20250522seminar.pdf）
+- 生産能力・設備：
+  - 「生産能力 -0.6」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「稼働率 2.3」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「稼働率 生産能力(右軸)(2020=100)」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「例1．汎用・業務用機械工業の稼働率指数の推移」（https://jp.gdfreak.com/meta/jp/iip_ipcor.html）
+  - 「例2．化学工業の生産能力指数の推移」（https://jp.gdfreak.com/meta/jp/iip_ipcor.html）
+- 10年推移：
+  - 「2025年5月21日」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「2025年1-3月期」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「【鉱工業生産・出荷・在庫・在庫率指数の推移】」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「2018 2019 2020 2021 2022 2023 2024 2025」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「生産 出荷 在庫 在庫率(2020=100)」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「2023 2024 2023 2024 2025」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「(前年比寄与度／前期比寄与度、%p)」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「2025年1-3月期 上昇／低下に寄与した業種」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「20222023 2023 2024」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「稼働率 生産能力(右軸)(2020=100)」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「(2020=100)」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「【輸出／国内向け鉱工業出荷指数の推移】 【鉱工業出荷の変動要因分解】」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「出荷 輸出 国内(2020=100)」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「20232024 2023 2024 2025」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「【鉱工業総供給指数の推移】 【鉱工業総供給の変動要因分解】」（http://www.etisa.or.jp/20250522seminar.pdf）
+- 事業所数・社数：記載なし（読んだ28頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ28頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ28頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ28頁・検索15回）

@@ -1,0 +1,625 @@
+{
+ "name": "人手不足で受注を断った割合 製造業 規模別 調査 一次",
+ "en": "share of manufacturers declining orders due to labor shortage Japan survey",
+ "aliases": [
+  "人手不足 受注を断った 製造業 調査 site:go.jp",
+  "日本商工会議所 人手不足 受注 機会損失",
+  "中小企業白書 人手不足 受注 断念 割合 filetype:pdf"
+ ],
+ "context": "一次・人手と仕事",
+ "kind": "market",
+ "researched_at": "2026-11-05T02:50:46.529864+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "2025年1月の調査では企業の半数以上が人手不足を感じており、人手不足倒産も過去最多を記録するなど、企業の存続そのものを脅かす構造的課題となっています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足に対する企業の動向調査」（2025年4月",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の就業者数は6,781万人と過去最多を記録した一方で、企業の人手不足感は改善していません",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、2024年の人手不足倒産は342件に達し、2年連続で過去最多を更新しました",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "「法人企業景気予測調査」（2025年1～3月期調査）",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "では、従業員数判断BSI（「不足気味」の企業割合－「過剰気味」の企業割合）において、大企業が28.3ポイントであるのに対し、中小企業は30.3ポイントと、依然として中小企業の方が深刻な人手不足に陥っていることが明確に示されています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、中小企業の63.0%が「人手不足」と回答し、そのうち65.5%が事業運営に「深刻な影響」（「非常に深刻」または「深刻」）を受けている状況です",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの業界では、依然として7割近い企業が人手不足に直面しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業では、2024年4月から施行された時間外労働の上限規制（2024年問題）により、従来の働き方が制限され、さらなる人手不足が加速しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "大企業では初任給30万円時代と言われる中、賃上げ機運に追いつけない中小企業が増加しており、人材獲得においてますます不利な状況に置かれています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "大企業では初任給30万円時代と言われる中、賃上げ機運に追いつけない中小企業が増加しており、人材獲得においてますます不利な状況に置かれています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2025年1月の調査では企業の半数以上が人手不足を感じており、人手不足倒産も過去最多を記録するなど、企業の存続そのものを脅かす構造的課題となっています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足に対する企業の動向調査」（2025年4月",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の最新データで見る深刻な労働者不足の実態",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の就業者数は6,781万人と過去最多を記録した一方で、企業の人手不足感は改善していません",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "総務省統計局の労働力調査によると、労働力人口は増加傾向にあるものの、企業が求める人材と求職者のスキルミスマッチが拡大しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、2024年の人手不足倒産は342件に達し、2年連続で過去最多を更新しました",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "「法人企業景気予測調査」（2025年1～3月期調査）",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "日本商工会議所の調査（2024年7月）",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、2024年卒採用において採用計画の8割以上を達成した企業の割合は、大企業（従業員1,001名以上）が76%だったのに対し、中小企業（従業員300名以下）では47%にとどまりました",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより既存従業員の疲弊が進み、離職が新たな人手不足を生むという悪循環に陥るケースが増加しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月時点の帝国データバンクの調査",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業では、2024年4月から施行された時間外労働の上限規制（2024年問題）により、従来の働き方が制限され、さらなる人手不足が加速しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の労働者不足の最大の要因は、少子高齢化による生産年齢人口（15～64歳）の減少です",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "生産年齢人口（15～64歳）は1995年の8,717万人をピークに減少に転じています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "では、2070年には生産年齢人口が4,535万人まで減少すると予測されています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "この急激な人口減少は「人口オーナス期」と呼ばれ、経済成長の重荷となる状況です",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "高齢化も同時進行しており、2024年の高齢化率は29.3％に達しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "従来のように一つの会社で生涯働くという概念よりも、キャリアアップや自己実現のための転職を肯定的に捉える若者が増加しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "2025年1月の調査では企業の半数以上が人手不足を感じており、人手不足倒産も過去最多を記録するなど、企業の存続そのものを脅かす構造的課題となっています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足に対する企業の動向調査」（2025年4月",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の就業者数は6,781万人と過去最多を記録した一方で、企業の人手不足感は改善していません",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、2024年の人手不足倒産は342件に達し、2年連続で過去最多を更新しました",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "では、従業員数判断BSI（「不足気味」の企業割合－「過剰気味」の企業割合）において、大企業が28.3ポイントであるのに対し、中小企業は30.3ポイントと、依然として中小企業の方が深刻な人手不足に陥っていることが明確に示されています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、中小企業の63.0%が「人手不足」と回答し、そのうち65.5%が事業運営に「深刻な影響」（「非常に深刻」または「深刻」）を受けている状況です",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより既存従業員の疲弊が進み、離職が新たな人手不足を生むという悪循環に陥るケースが増加しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、正社員の人手不足が最も深刻な業界は以下の通りです",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの業界では、依然として7割近い企業が人手不足に直面しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業では、2024年4月から施行された時間外労働の上限規制（2024年問題）により、従来の働き方が制限され、さらなる人手不足が加速しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、従来の働き方では必要な労働時間を確保できなくなり、人手不足が一層深刻化しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足により既存の業務を維持することが精一杯の状況では、新規受注を断らざるを得ない事態が頻発します",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "マンパワーグループの調査によると、人手不足企業の多くが「仕事の受注そのものを減らすか、断るしかない」状況に追い込まれています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の調査では、人手不足が職場環境に与える影響として「残業時間の増加、休暇取得数の減少」が最多となっており、企業・労働者双方が最も深刻に感じている問題です",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "技術継承の重要性は理解されているものの、人手不足により教育・研修の時間が十分に取れないことが問題となっています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の調査では、人手不足による企業への影響として「能力開発機会の減少」が上位に挙げられており、人材育成機能の低下が懸念されています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "納期遅延、品質低下、サービス水準の悪化などが顕在化し、顧客満足度の低下を招きます",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足により業務効率が低下すると、同業他社との競争において不利な状況に陥ります",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1198512_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kizuna-group.jp/nestlab/industry-manufacturing.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://factoryjournal.jp/49001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mscompass.ms-ins.com/business-news/labor-shortage-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jftc.go.jp/dk/guideline/unyoukijun/romuhitenka.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/keisan_202502_kigyoudoukou.pdf/$File/keisan_202502_kigyoudoukou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tokubetu_231128.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://shokosoken.or.jp/paper/theme/2017/201702.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topics.smt.docomo.ne.jp/article/mycom/business/mycom_3236879",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000003020.000044800.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbbit.jp/article/st/171148",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/soukai/043/dl/s002.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.douyukai.or.jp/dor/2019/03/dor-10477.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/topics/13699/labor-shortage-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chosun.com/english/world-en/2026/02/24/PIXH4HBALNHD3ADSAWVO5LY6VM/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dir.co.jp/english/research/report/jsothers/20241118_024744.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.japantimes.co.jp/business/2024/05/06/economy/labor-crunch-continues-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/roudou/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "人手不足で受注を断った割合 製造業 規模別 調査 一次",
+   "results": [
+    "https://www.tsr-net.co.jp/data/detail/1198512_1527.html",
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://kizuna-group.jp/nestlab/industry-manufacturing.html",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "https://factoryjournal.jp/49001/",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った割合 製造業 規模別 調査 一次 推移",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://www.tsr-net.co.jp/data/detail/1198512_1527.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_1_1_0.html",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://kizuna-group.jp/nestlab/industry-manufacturing.html",
+    "https://factoryjournal.jp/49001/",
+    "https://mscompass.ms-ins.com/business-news/labor-shortage-2026/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った割合 製造業 規模別 調査 一次 統計 PDF",
+   "results": [
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.jftc.go.jp/dk/guideline/unyoukijun/romuhitenka.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/keisan_202502_kigyoudoukou.pdf/$File/keisan_202502_kigyoudoukou.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.pref.saitama.lg.jp/documents/119697/2912hear2.pdf",
+    "https://www.yokohama-cci.or.jp/wp-content/uploads/2024/02/report_Oct2019.pdf"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った割合 製造業 規模別 調査 一次 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r6keizaikouzou.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った割合 製造業 規模別 調査 一次 従業者規模別",
+   "results": [
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_231128.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.tsr-net.co.jp/data/detail/1198512_1527.html",
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://shokosoken.or.jp/paper/theme/2017/201702.html",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://kizuna-group.jp/nestlab/industry-manufacturing.html",
+    "https://ma-la.co.jp/m-and-a/worker-shortage/"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った割合 製造業 規模別 調査 一次 1人当たり 万円",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "https://topics.smt.docomo.ne.jp/article/mycom/business/mycom_3236879",
+    "https://prtimes.jp/main/html/rd/p/000003020.000044800.html",
+    "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "https://www.sbbit.jp/article/st/171148",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/soukai/043/dl/s002.pdf",
+    "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/keisan_202502_kigyoudoukou.pdf/$File/keisan_202502_kigyoudoukou.pdf",
+    "https://www.douyukai.or.jp/dor/2019/03/dor-10477.html"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った割合 製造業 規模別 調査 一次 2015 2025",
+   "results": []
+  },
+  {
+   "query": "share of manufacturers declining orders due to labor shortage Japan survey Japan statistics",
+   "results": [
+    "https://www.statista.com/topics/13699/labor-shortage-in-japan/",
+    "https://www.chosun.com/english/world-en/2026/02/24/PIXH4HBALNHD3ADSAWVO5LY6VM/",
+    "https://www.dir.co.jp/english/research/report/jsothers/20241118_024744.pdf",
+    "https://www.japantimes.co.jp/business/2024/05/06/economy/labor-crunch-continues-in-japan/",
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://www.stat.go.jp/english/data/roudou/index.html",
+    "https://www5.cao.go.jp/keizai3/getsurei-e/2024may.html"
+   ]
+  },
+  {
+   "query": "site:note.com 人手不足で受注を断った割合 製造業 規模別 調査 一次",
+   "results": [
+    "https://note.com/chic_deer1160/n/n0c61ffc97455",
+    "https://note.com/chic_deer1160/n/n90f503955cf1",
+    "https://note.com/seizou_chiba/n/nf253e076c58c",
+    "https://note.com/smartsuit/n/n16e498638ebb",
+    "https://note.com/gaikokujinzai/n/n8d097b24275f",
+    "https://note.com/clickloop_lab/n/nb9da43de7913",
+    "https://note.com/rich_quokka6298/n/n0ae840fa5c5c"
+   ]
+  },
+  {
+   "query": "site:x.com 人手不足で受注を断った割合 製造業 規模別 調査 一次",
+   "results": [
+    "https://x.com/SORAMON_INC/status/2104330239811756302",
+    "https://x.com/akionionio/status/2056263677725094240",
+    "https://x.com/Stoneman_ISHIO/status/2035853014142230604",
+    "https://x.com/i/trending/2036945766753948135",
+    "https://x.com/hatano_keiei/status/2063365524135031065",
+    "https://x.com/akionionio/status/2041834794028560503",
+    "https://x.com/grok/status/2043905419349823856"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 人手不足で受注を断った割合 製造業 規模別 調査 一次",
+   "results": [
+    "https://in.linkedin.com/company/cognizant",
+    "https://pc.linkedin.com/products/linkedin-learning-hub/",
+    "https://www.linkedin.com/news/story/人手不足中小企業の6割-4983345/",
+    "https://hk.linkedin.com/",
+    "https://jp.linkedin.com/posts/shuheikotobuki_大型工事26年度受注できず建設会社の7割成長投資阻む人手不足-日本経済新聞-activity-7418159617349799936-VN1y",
+    "https://jp.linkedin.com/posts/deloitte_デロイト-トーマツ調査国内で優先的に対処すべきリスク1位は3年連続で人材不足-activity-7310247185760043008-y6Pf",
+    "https://www.linkedin.com/posts/聰-宮越-092126147_建設業運送業の倒産危機人手不足が売上に直結する現実tdb最新データ-activity-7303193039806570497-SIrF"
+   ]
+  },
+  {
+   "query": "site:facebook.com 人手不足で受注を断った割合 製造業 規模別 調査 一次",
+   "results": [
+    "https://www.facebook.com/osakacci/posts/人手不足への対応が最大の課題調査結果３割強労務費上昇分を全く価格転嫁できず大阪商工会議所は2024年4月18日深刻化する人手不足への中堅中小小規模企業の対応や価/454746870453203/",
+    "https://www.facebook.com/tokyocci/posts/人手不足の状況および多様な人材の活躍等に関する調査を公表東商と日商が実施した人手不足の状況および多様な人材の活躍等に関する調査の結果を本日公表しました中小企業の/717109337122007/",
+    "https://www.facebook.com/ozakago/posts/2026年10月1日日銀短観9月調査が公表され相変わらず人手不足を訴える企業が多いことが確認された過剰と答えた企業の構成比から不足と回答した企業の構成比を差し引/28221329620882457/",
+    "https://www.facebook.com/mokutaikyo/posts/業界動向レポート建設業界の8割が人手不足により受注を断念httpsforbesjapancomarticlesdetail93940現在私たちの足元で起きている/1333662895528113/",
+    "https://www.facebook.com/mokutaikyo/photos/業界動向レポート建設業界の8割が人手不足により受注を断念httpsforbesjapancomarticlesdetail93940現在私たちの足元で起きている/1333662825528120/",
+    "https://www.facebook.com/SaseboCCI/posts/931054905731353/",
+    "https://www.facebook.com/murc.jp/posts/6177037902345497/"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った割合 製造業 規模別 調査 一次 note 社長",
+   "results": []
+  },
+  {
+   "query": "人手不足で受注を断った割合 製造業 規模別 調査 一次 X 投稿",
+   "results": []
+  },
+  {
+   "query": "share of manufacturers declining orders due to labor shortage Japan survey site:linkedin.com",
+   "results": []
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ39頁・検索15回）",
+  "生産能力・設備": "記載なし（読んだ39頁・検索15回）"
+ }
+}

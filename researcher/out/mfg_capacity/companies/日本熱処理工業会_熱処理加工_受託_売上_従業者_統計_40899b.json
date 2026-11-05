@@ -1,0 +1,923 @@
+{
+ "name": "日本熱処理工業会 熱処理加工 受託 売上 従業者 統計",
+ "en": "Japan heat treatment industry association statistics",
+ "aliases": [
+  "日本熱処理工業会 統計",
+  "金属熱処理業 事業所数 従業者 工業統計",
+  "熱処理 加工賃 1人当たり"
+ ],
+ "context": "団体・熱処理",
+ "kind": "market",
+ "researched_at": "2026-11-05T03:02:52.191545+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "これは、熱処理の研究・調査、人材育成、熱処理振興などを目的に1959年（昭和34年）に設立された団体です",
+    "url": "https://daiichis.work/word/n06/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年に一般社団法人として再発足しています",
+    "url": "https://daiichis.work/word/n06/",
+    "pass": 3
+   },
+   {
+    "quote": "未経験歓迎「人材コーディネーター」年休130日・フルリモートOK",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サイキ 未経験歓迎【人材コーディネーター】年休130日・フルリモートOK ※応募に当たっては、マイナビ転職の会員登録が必須となっております",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "★年休130日＆フルフレックス▼ニーズ調査：企業の求める人材要件をヒアリング★ ▼求職者面談：希望・価値観を徹底分析！キャリアプランも提案♪ ▼案件紹介：厳選した案件をご紹介＆面接同席フォロー◎ ▼アフターケア：就業後も定期連絡でしっかりサポート！ ※マーケティング部",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "福岡国際空港株式会社 福岡国際空港の総合職／未経験歓迎／年休121日／賞与年2回 【求人要約】 【スキルアップ◎】充実の教育体制で未経験でも安心！ 【安定◎】社員寮あり／賞与年2回／そのほか手当充実 【成長◎】国際線ターミナル拡張／就航便も増加中！ ★レア求人★「福岡の空を、世界へつなぐ",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年間2,850万人が行き交う国際空港として、 東アジアの玄関口へと進化を続けています",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【応募資格】 [必須] ■製薬メーカー又はCRO等での統計解析実務（臨床試験の試験デザイン立案～計画の策定経験） ■データ解析能力 ■試験結果に対する統計的解釈の提供経験 ■生物統計担当としての国内又は海外規制当局対応経験 ■ SASによるプログラミング技術 ■海外との英語での実務上のコミュニケーション経験 [歓迎] ▼ 臨床薬理試験解析の経験 ▼CDISC標準に関する知識 ▼ITシステムへの親和性 【フィットする人物像】 応募資格をご覧下さい 【職種名】 データサイエンス部 統計解析業務担当（年収700万円～1100万円） 【仕事内容】 【パソナキャリア経由での入社実績あり】■仕事の",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【郵便局で仕分け】 今だけ限定★りんご、お歳暮等のゆうパックの仕分け作業！ 弘前郵便局 ■ 給与 時給 1250 円 以上 ■ シフト 1日5時間以上 ■ アクセス 弘南鉄道大鰐線中央弘前駅 ■ 時間帯 朝、昼、夕方、夜 ■ 勤務地 弘前市 郵便局で期間限定のお仕事！ 複数の時間帯から希望の勤務時間を選択可！ 最大でも12月末までの短期のお仕事なので 「今だけ働きたい！」という方には最適！ ● お仕事情報 ■ 仕事内容 【カンタンな仕分け作業で、しっかり稼げる♪】 毎年人気の期間限定のお仕事です！ 主にリンゴやお歳暮などのゆうパックを仕分けするお仕事で",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【応募資格】 [必須] 【必須条件】 ・国内外資ブランド問わず時計宝飾販売経験もしくは外資ラグジュアリーファッションブランド販売経験 [歓迎] 【尚可条件】外商販売経験 【フィットする人物像】 ・起業家精神・キャッチアップの早さ・スピード感・チャレンジ精神 【弊社からの直近の採用実績】 ・ラグジュアリーファッション(アウトレットのみ)・20代男性 ・アフォータプルブランド・30代女性 ・国内ジュエリーブランド・30代女性 ・外資時計ブランド・30代男性 ・外資シューズブランド・40代女性 ・外資化粧品・40代女性 ・ラグジュアリーファッションブランド・30代男性 等、外資ジュエリーブラ",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社オリエンタルランド 【プライム市場】 東京ディズニーリゾート（R）の内外装デコレーション技術者 【求人要約】 【経験を活かす】世界に誇るテーマパークが活躍の舞台 【働きやすさ◎】転勤なし／車通勤OK／フレックス 年間休日123日（原則土日）／手当充実／残業少なめ 夢の時間を過ごしていただくためのお仕事 笑顔で会話を楽しむ姿を実現できる環境へ 1983年に東京ディズニーランド(R)、 2001年には東京ディズニーシー(R)を開園",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "り、製造業は資本金 3億円以下または従業員 300人以下、サービス業は資本金 5千万円以下または従業",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "員 100人以下などだ",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "小規模事業者は製造業の場合、従業員 20人以下の企業をさす",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社員数 42 名",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ熱処理 アルミ溶体化・人工時効硬化処理など 36％",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数 17 名",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1974 年 株式会社中遠熱処理技研 法人設立",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2025.12.24",
+    "url": "https://daiichis.work/word/n06/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年に一般社団法人として再発足しています",
+    "url": "https://daiichis.work/word/n06/",
+    "pass": 3
+   },
+   {
+    "quote": "2025.11.17",
+    "url": "https://daiichis.work/word/n06/",
+    "pass": 3
+   },
+   {
+    "quote": "2025.11.19",
+    "url": "https://daiichis.work/word/n06/",
+    "pass": 3
+   },
+   {
+    "quote": "2025.11.25",
+    "url": "https://daiichis.work/word/n06/",
+    "pass": 3
+   },
+   {
+    "quote": "2025.11.23",
+    "url": "https://daiichis.work/word/n06/",
+    "pass": 3
+   },
+   {
+    "quote": "2025.11.26",
+    "url": "https://daiichis.work/word/n06/",
+    "pass": 3
+   },
+   {
+    "quote": "© 2025 鉄鋼の熱処理と加工.",
+    "url": "https://daiichis.work/word/n06/",
+    "pass": 3
+   },
+   {
+    "quote": "受託 売上 従業者 推移 日本熱処理工業会 熱処理加工 統計の求人・仕事・採用｜スタンバイでお仕事探し",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "日本熱処理工業会 熱処理加工 受託 売上 従業者 統計 推移",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "福岡国際空港株式会社 福岡国際空港の総合職／未経験歓迎／年休121日／賞与年2回 【求人要約】 【スキルアップ◎】充実の教育体制で未経験でも安心！ 【安定◎】社員寮あり／賞与年2回／そのほか手当充実 【成長◎】国際線ターミナル拡張／就航便も増加中！ ★レア求人★「福岡の空を、世界へつなぐ",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【東京】受託営業｜年休120日／年収600万超 ▼仕事内容 【仕事内容】 ◆さらなる管理物件数の増加を目指す リロパートナーズは、管理戸数118,468戸・管理戸数ランキング全国10位の安定成長企業です",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月には東京ディズニーシーに新テーマポート「ファンタジースプリングス」が開業し、パークはゲストの笑顔であふれています",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年 1 月 31 日",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年 1 月 31 日",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 経済センサス活動調査（2016年）",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年１月 31 日",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＪＩＳ Ｑ 9100 航空宇宙・防衛産業に特化した品質マネジメントシステム ＪＡＢ 2015 年",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＩＳＯ45001 労働安全衛生マネジメントシステム ＵＫＡＳ 2019 年",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "力に関する一般要求事項 ＰＪＬＡ 2020 年",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015 年 ＪＩＳ Ｑ 9100 航空宇宙防衛 QMS 認証取得",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2018 年 国際戦略総合特区「アジア No.1 航空宇宙産業クラスター形成特区」に指",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019 年 ISO45001 労働安全衛生マネジメントシステム認証取得",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020 年 ISO/IEC 17025 試験所認定取得",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020 年 経済産業省より「地域未来牽引企業1」に選定",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021 年 全国社会保険労務士会連合会「職場環境改善宣言企業3」認証",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022 年 ムツミ熱処理ＩＳＯ14001 認証取得",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016 年度から表彰している",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "をＭ＆Ａによって子会社化したのは 2020 年であることから、中遠熱処理技研で実施されている事業活",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "動のうち、2020 年以前から実施されているものは中遠熱処理技研が単独で行ってきたもので、同年以",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これらの薄肉な軽量化部品が増加しているため、従来の焼入れ・焼戻しの工程では、変形や割れなどが生じ",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "月給37万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収450万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円〜25万円",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "全国に約５７０店舗のセルフランドリーを展開する ＷＡＳＨハウス株式会社（東証グロース市場上場）の本社で店舗の 売上管理業務（内勤事務職）を募集します",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円〜25万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "データサイエンス部／統計解析業務担当／年収700万円／1100万円",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収700万円〜1,149万円",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【応募資格】 [必須] ■製薬メーカー又はCRO等での統計解析実務（臨床試験の試験デザイン立案～計画の策定経験） ■データ解析能力 ■試験結果に対する統計的解釈の提供経験 ■生物統計担当としての国内又は海外規制当局対応経験 ■ SASによるプログラミング技術 ■海外との英語での実務上のコミュニケーション経験 [歓迎] ▼ 臨床薬理試験解析の経験 ▼CDISC標準に関する知識 ▼ITシステムへの親和性 【フィットする人物像】 応募資格をご覧下さい 【職種名】 データサイエンス部 統計解析業務担当（年収700万円～1100万円） 【仕事内容】 【パソナキャリア経由での入社実績あり】■仕事の",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給24.1万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給40万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収410万円〜600万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収500万円〜649万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収580万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "り、製造業は資本金 3億円以下または従業員 300人以下、サービス業は資本金 5千万円以下または従業",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 2,000 万円",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1985 年 資本金 2,000 万円に増資",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（株）中遠熱処理技研 507 百万円 93 百万円 42 名",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ムツミ熱処理（株） 208 百万円 20 百万円 17 名",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 社合計 715 百万円 113 百万円 59 名",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "燃焼炉売上高（単位：万円）」値を、２０２３年 10 月期の値から、毎",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "月給37万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収450万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円〜25万円",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円〜25万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "データサイエンス部／統計解析業務担当／年収700万円／1100万円",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収700万円〜1,149万円",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【応募資格】 [必須] ■製薬メーカー又はCRO等での統計解析実務（臨床試験の試験デザイン立案～計画の策定経験） ■データ解析能力 ■試験結果に対する統計的解釈の提供経験 ■生物統計担当としての国内又は海外規制当局対応経験 ■ SASによるプログラミング技術 ■海外との英語での実務上のコミュニケーション経験 [歓迎] ▼ 臨床薬理試験解析の経験 ▼CDISC標準に関する知識 ▼ITシステムへの親和性 【フィットする人物像】 応募資格をご覧下さい 【職種名】 データサイエンス部 統計解析業務担当（年収700万円～1100万円） 【仕事内容】 【パソナキャリア経由での入社実績あり】■仕事の",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給24.1万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給40万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収410万円〜600万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収500万円〜649万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収580万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収430万円〜870万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "② 日本における企業数では全体の 99.7％を占めるにもかかわらず、付加価値額では",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、製造業は資本金 3億円以下または従業員 300人以下、サービス業は資本金 5千万円以下または従業",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 2,000 万円",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1985 年 資本金 2,000 万円に増資",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（株）中遠熱処理技研 507 百万円 93 百万円 42 名",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ムツミ熱処理（株） 208 百万円 20 百万円 17 名",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 社合計 715 百万円 113 百万円 59 名",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これにより中遠熱処理技研の社員一人当たりの有給休暇取得日数を厚生労働省の『令和5 年就労条件",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "燃焼炉売上高（単位：万円）」値を、２０２３年 10 月期の値から、毎",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本熱処理工業会 熱処理加工 受託 売上 従業者 統計 推移 の求人情報をすべて見る （1,578,500件） — 日本熱処理工業会 熱処理加工 受託 売上 従業者 統計 推移 の求人情報をすべて見る （1,578,500件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "② 日本における企業数では全体の 99.7％を占めるにもかかわらず、付加価値額では",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "（４）設備投資に対する方針",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "は、いかなる状況においても、当該情報のあらゆる使用から生じうる、機会損失、金銭的損失を含むあらゆる種類の、特別損害、間",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "よる短納期の実現（Ｄｅｌｉｖeｒｙ）をあげており、製造業の持続的な成長のために欠くことのできない３要素",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "のや複雑な工程が必要な熱処理は、将来的にも高い技術を持つ企業へ外注する可能性が高い",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "な工程を適切な機械設備を使用して、求められる品質・価格・納期を実現できる確かな技術を持った社員を",
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.netsushori.jp/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&toukei=00550630&tstat=000001023741&tclass1=000001080196&stat_infid=000031373936",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/003_06_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://daiichis.work/word/n06/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/9010405018669",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netsushori.jp/analysis/index.php",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://nihon-netsushori.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/9165/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsht.smoosy.atlas.jp/ja/link",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netsushori.jp/research/index.php",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/03/2465",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou29_d/fil/fukuikennokougyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000300863.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www7.econ.hit-u.ac.jp/shokochukin/archives/2014/20140507.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E7%86%B1%E5%87%A6%E7%90%86/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005673",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.netsushori.jp/pdf/10/7/zenryokaitori.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.buffett-code.com/industries/2351404?page=3",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/654192.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004006343",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/sanko.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.sakai.lg.jp/shisei/tokei/tokeisho/jigyousyo/75391620240411115847101.files/8-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://heatpumpingtechnologies.org/content/uploads/sites/53/2020/10/hpt-an46-02-04-task-1-counry-report-japan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jema-net.or.jp/English/stats/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://link.springer.com/article/10.1007/s10163-025-02331-3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.grandviewresearch.com/horizon/outlook/water-and-wastewater-treatment-equipment-market/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seaj.or.jp/english/statistics/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本熱処理工業会 熱処理加工 受託 売上 従業者 統計",
+   "results": [
+    "https://www.netsushori.jp/",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&toukei=00550630&tstat=000001023741&tclass1=000001080196&stat_infid=000031373936",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/003_06_00.pdf",
+    "https://daiichis.work/word/n06/",
+    "https://mono.ipros.com/cg1/%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5/",
+    "https://compalyze.co.jp/company/9010405018669",
+    "https://www.netsushori.jp/analysis/index.php",
+    "https://clip-corporation.com/company-matching/company-details/?corporate_number=9010405018669",
+    "https://nihon-netsushori.co.jp/company/",
+    "https://www.netsushori.jp/info/index.php"
+   ]
+  },
+  {
+   "query": "日本熱処理工業会 熱処理加工 受託 売上 従業者 統計 推移",
+   "results": [
+    "https://jp.stanby.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%B1%E5%87%A6%E7%90%86%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5+%E5%8F%97%E8%A8%97+%E5%A3%B2%E4%B8%8A+%E5%BE%93%E6%A5%AD%E8%80%85+%E7%B5%B1%E8%A8%88+%E6%8E%A8%E7%A7%BB&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.netsushori.jp/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/003_06_00.pdf",
+    "https://mono.ipros.com/cg1/%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5/",
+    "https://www.netsushori.jp/analysis/index.php",
+    "https://nihon-netsushori.co.jp/company/",
+    "https://metoree.com/categories/9165/",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://jsht.smoosy.atlas.jp/ja/link",
+    "https://www.openwork.jp/a0C10000011FJoW/analysis/"
+   ]
+  },
+  {
+   "query": "日本熱処理工業会 熱処理加工 受託 売上 従業者 統計 統計 PDF",
+   "results": [
+    "https://www.netsushori.jp/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/003_06_00.pdf",
+    "https://www.netsushori.jp/research/index.php",
+    "https://nihon-netsushori.co.jp/company/",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2465",
+    "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou29_d/fil/fukuikennokougyou.pdf",
+    "https://www.soumu.go.jp/main_content/000300863.pdf",
+    "https://www7.econ.hit-u.ac.jp/shokochukin/archives/2014/20140507.pdf"
+   ]
+  },
+  {
+   "query": "日本熱処理工業会 熱処理加工 受託 売上 従業者 統計 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.netsushori.jp/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "https://jsht.smoosy.atlas.jp/ja/link",
+    "https://metoree.com/categories/9165/",
+    "https://mono.ipros.com/cg1/%E7%86%B1%E5%87%A6%E7%90%86/",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "https://ja.wikipedia.org/wiki/工業統計調査"
+   ]
+  },
+  {
+   "query": "日本熱処理工業会 熱処理加工 受託 売上 従業者 統計 従業者規模別",
+   "results": [
+    "https://www.netsushori.jp/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/003_06_00.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou29_d/fil/fukuikennokougyou.pdf",
+    "https://mono.ipros.com/cg1/%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5/",
+    "https://daiichis.work/word/n06/",
+    "https://www.netsushori.jp/research/index.php",
+    "https://www.e-stat.go.jp/dbview?sid=0004005673",
+    "https://nihon-netsushori.co.jp/company/"
+   ]
+  },
+  {
+   "query": "日本熱処理工業会 熱処理加工 受託 売上 従業者 統計 1人当たり 万円",
+   "results": [
+    "https://www.netsushori.jp/",
+    "http://www.netsushori.jp/pdf/10/7/zenryokaitori.pdf",
+    "https://www.buffett-code.com/industries/2351404?page=3",
+    "https://www.jcr.co.jp/download/b230ac78a17318c08580dc0330ae6da5bf8bc182bdb27b8c88/23d1464.pdf",
+    "https://www.pref.fukushima.lg.jp/uploaded/attachment/654192.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0004006343",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/sanko.pdf",
+    "https://www.city.sakai.lg.jp/shisei/tokei/tokeisho/jigyousyo/75391620240411115847101.files/8-3.pdf",
+    "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/157837.pdf"
+   ]
+  },
+  {
+   "query": "日本熱処理工業会 熱処理加工 受託 売上 従業者 統計 2015 2025",
+   "results": [
+    "https://www.netsushori.jp/",
+    "https://daiichis.work/word/n06/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/003_06_00.pdf",
+    "https://mono.ipros.com/cg1/%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5/",
+    "https://www.netsushori.jp/research/index.php",
+    "https://nihon-netsushori.co.jp/company/",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://jsht.smoosy.atlas.jp/ja/link",
+    "https://metoree.com/categories/9165/"
+   ]
+  },
+  {
+   "query": "Japan heat treatment industry association statistics Japan statistics",
+   "results": [
+    "https://heatpumpingtechnologies.org/annex46/wp-content/uploads/sites/53/2020/10/hpt-an46-02-04-task-1-counry-report-japan.pdf",
+    "https://www.jema-net.or.jp/English/stats/index.html",
+    "https://link.springer.com/article/10.1007/s10163-025-02331-3",
+    "https://www.grandviewresearch.com/horizon/outlook/water-and-wastewater-treatment-equipment-market/japan",
+    "https://www.stat.go.jp/english/",
+    "https://www.seaj.or.jp/english/statistics/index.html",
+    "https://www.linkedin.com/pulse/japan-heat-treatment-equipment-market-forecast-application-g9zzf",
+    "https://www.nature.com/articles/s41597-025-06294-w",
+    "https://www.jswa.jp/en/jswa-en/allabout.html",
+    "https://www.meti.go.jp/english/statistics/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 日本熱処理工業会 熱処理加工 受託 売上 従業者 統計",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "https://note.com/iceman_23/n/n536201254ff2",
+    "https://note.com/lucid_lotus6287/n/n6789c7f8eeb8",
+    "https://note.com/hirokimiyano/n/n74c2391a30dd",
+    "https://note.com/humble_crane7701/n/n6296d90131e6",
+    "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "https://note.com/saakuru_ir/n/n0863c0dba5ab",
+    "https://note.com/koborinokov/n/n779ea76d53bc",
+    "https://note.com/ocaml/n/n27b7431b0b5e",
+    "https://note.com/mobio_osaka/n/nef02e7d3ad90"
+   ]
+  },
+  {
+   "query": "site:x.com 日本熱処理工業会 熱処理加工 受託 売上 従業者 統計",
+   "results": [
+    "https://x.com/rates_daily_jp/status/2089416987416088928",
+    "https://x.com/kessan_db/status/2075354706868928909",
+    "https://x.com/OgawaSeisakusho/status/2110533866247336076",
+    "https://x.com/OgawaSeisakusho/status/2102560195989901604",
+    "https://x.com/kessan_db/status/2072294872581919188",
+    "https://x.com/nakanihonro",
+    "https://x.com/akameneko31/status/2081620847421485241"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 日本熱処理工業会 熱処理加工 受託 売上 従業者 統計",
+   "results": [
+    "https://jp.linkedin.com/in/達-福田-63792a81",
+    "https://jp.linkedin.com/in/toshitake-murata-944231110",
+    "https://jp.linkedin.com/in/孝司-鈴木（第一熱処理）-80494842",
+    "https://jp.linkedin.com/in/youichi-watanabe-b4b88942",
+    "https://jp.linkedin.com/in/陽一-渡邊-804394a8",
+    "https://jp.linkedin.com/in/史郎-古庄-76882987",
+    "https://jp.linkedin.com/pub/dir/達/福田"
+   ]
+  },
+  {
+   "query": "site:facebook.com 日本熱処理工業会 熱処理加工 受託 売上 従業者 統計",
+   "results": [
+    "https://www.facebook.com/OITtopics/posts/金属熱処理加工について特別講演会を実施しました-12月24日大宮キャンパスでナノ材料マイクロデバイス研究センター主催の特別講演会を実施しました当日は本学の物理学/1142234817904248/",
+    "https://www.facebook.com/people/株式会社メタルヒート金属熱処理/100057429280184/",
+    "https://www.facebook.com/nihon.horei/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1585815203548328/",
+    "https://www.facebook.com/horei.gis/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1653107256686060/",
+    "https://www.facebook.com/100057429280184/posts/-代表取締役原敏城藍綬褒章受章-公表2020年4月28日各メディア多数内容令和2年春の褒章藍綬褒章受章この度代表取締役の原敏城が元日本金属熱処理工業会会長として/100209228443327/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-8月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1427978675997618/",
+    "https://www.facebook.com/kagawa.sangi/posts/-サーモスタディ2018香川を開催します-一般社団法人-日本熱処理技術協会では機械工業の基礎技術として重要度の高い熱処理技術の向上に努めておりその活動の一環とし/1671089143018824/"
+   ]
+  },
+  {
+   "query": "日本熱処理工業会 熱処理加工 受託 売上 従業者 統計 note 社長",
+   "results": [
+    "https://www.netsushori.jp/",
+    "https://nihon-netsushori.co.jp/company/",
+    "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "https://www.netsushori.jp/analysis/index.php",
+    "https://www.buffett-code.com/industries/2351404?page=3",
+    "https://www.openwork.jp/a0C10000015IVIV/ranking/",
+    "https://www.soumu.go.jp/main_content/000777097.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/001_02_02.pdf",
+    "https://www.parker.co.jp/ja/_pdf/topics/CorporateReport2025.pdf"
+   ]
+  },
+  {
+   "query": "日本熱処理工業会 熱処理加工 受託 売上 従業者 統計 X 投稿",
+   "results": [
+    "https://www.netsushori.jp/",
+    "https://compalyze.co.jp/company/9010405018669",
+    "https://daiichis.work/word/n06/",
+    "https://www.netsushori.jp/analysis/index.php",
+    "https://metoree.com/categories/9165/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/003_06_00.pdf",
+    "https://clip-corporation.com/company-matching/company-details/?corporate_number=9010405018669",
+    "https://nihon-netsushori.co.jp/company/",
+    "https://mono.ipros.com/cg1/%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5/"
+   ]
+  },
+  {
+   "query": "Japan heat treatment industry association statistics site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/tommorrisontm",
+    "https://www.linkedin.com/pulse/according-global-japan-hvac-coating-market-trends-applications-7z7nf",
+    "https://www.linkedin.com/company/we-data-europe",
+    "https://www.linkedin.com/in/jbashore/",
+    "https://ca.linkedin.com/company/metex-heat-treating-ltd-",
+    "https://www.linkedin.com/company/japanese-ministry-of-the-environment",
+    "https://www.linkedin.com/pulse/how-japan-links-without-linkedin-richard-mort-wixde",
+    "https://pl.linkedin.com/showcase/metal-trade-fair/",
+    "https://ca.linkedin.com/in/lincoln-meinczinger-a85422339",
+    "https://www.linkedin.com/in/roywhardy"
+   ]
+  }
+ ],
+ "missing": {}
+}

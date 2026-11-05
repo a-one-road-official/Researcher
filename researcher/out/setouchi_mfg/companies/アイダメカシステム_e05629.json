@@ -1,0 +1,556 @@
+{
+ "name": "アイダメカシステム",
+ "aliases": [],
+ "context": "岡山県／出典:タウンページ;県・市の企業ガイド／求人媒体:Indeed;自社採用ページ／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T02:50:37.850512+00:00",
+ "official_url": "https://www.aida-mecsys.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒701-2615　岡山県美作市中川337番地",
+    "url": "https://www.aida-mecsys.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "省力機械、各種自動化製造装置（企画設計・製作・改造） 舶用エンジン部品製造、試作研究装置開発、治工具等の作成 機械装置に関する改造・メンテナンス・移設・撤去工事",
+    "url": "https://www.aida-mecsys.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1,000万円",
+    "url": "https://www.aida-mecsys.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1,000万円",
+    "url": "https://inaka-yell.jp/recruit/mimasaka/aidamecsys/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "13名",
+    "url": "https://www.aida-mecsys.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "13名",
+    "url": "https://inaka-yell.jp/recruit/mimasaka/aidamecsys/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "丸山隆行",
+    "url": "https://www.aida-mecsys.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役　丸山 隆行",
+    "url": "https://inaka-yell.jp/recruit/mimasaka/aidamecsys/",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要取引先",
+    "value": "元旦ビューティ工業㈱ ㈱ショウエイ ㈱トーカロイMTG 東和薬品㈱ 日植グリーンファクトリー㈱ フジコピアン㈱ 三菱電機システムサービス㈱ ㈱ビブン ※敬称略",
+    "url": "https://www.aida-mecsys.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1997年2月",
+    "url": "https://inaka-yell.jp/recruit/mimasaka/aidamecsys/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "正社員 基本給16.8万円～30万円",
+    "url": "https://www.aida-mecsys.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "正社員 基本給16.8万円～25万円",
+    "url": "https://www.aida-mecsys.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://www.aida-mecsys.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://inaka-yell.jp/recruit/mimasaka/aidamecsys/",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収214.8万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "・昇給：年1回（4月）",
+    "url": "https://inaka-yell.jp/details/aidamecsys2/",
+    "pass": 3
+   },
+   {
+    "quote": "・賞与：年2回(7月・12月）",
+    "url": "https://inaka-yell.jp/details/aidamecsys2/",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "リクルート情報（採用・求人）｜株式会社アイダメカシステム | 株式会社アイダメカシステム",
+    "url": "https://www.aida-mecsys.co.jp/recruit1/",
+    "pass": 1
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイダメカシステムの採用情報ページに移動します",
+    "url": "https://inaka-yell.jp/details/aidamecsys2/",
+    "pass": 3
+   },
+   {
+    "quote": "http://www.aida-mecsys.co.jp/recruit1/",
+    "url": "https://inaka-yell.jp/details/aidamecsys2/",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "少し前は、機械の調子の良し悪しを一目で見抜き、調整やメンテナンスまでできる熟練工の職人さんがどこの工場にもいたものです",
+    "url": "https://www.aida-mecsys.co.jp/maintenanse/",
+    "pass": 1
+   },
+   {
+    "quote": "元旦ビューティ工業㈱ ㈱ショウエイ ㈱トーカロイMTG 東和薬品㈱ 日植グリーンファクトリー㈱ フジコピアン㈱ 三菱電機システムサービス㈱ ㈱ビブン",
+    "url": "https://www.aida-mecsys.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫は、商品が「つくられてから、お客様のもとへ届くまで」をつなぐ大切な物流拠点です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 アイダメカシステム | 岡山県北の 求人 情報サイト — 株式会社 アイダメカシステム | 岡山県北の 求人 情報サイト いーなかえーる https://inaka-yell.jp > recruit > mimasaka > aidamecsys",
+    "url": "https://inaka-yell.jp/recruit/mimasaka/aidamecsys/",
+    "pass": 3
+   },
+   {
+    "quote": "リクルート情報（採用・ 求人 ） - 株式会社アイダメカシステム — リクルート情報（採用・ 求人 ） - 株式会社アイダメカシステム 株式会社アイダメカシステム https://www.aida-mecsys.co.jp > recruit1",
+    "url": "https://www.aida-mecsys.co.jp/recruit1/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アイダメカシステム の給与 | Indeed (インディード) — 株式会社 アイダメカシステム の給与 | Indeed (インディード) Indeed https://jp.indeed.com > cmp > salaries",
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アイダメカシステム | 津山高専技術交流プラザ — 株式会社 アイダメカシステム | 津山高専技術交流プラザ tsuyama-biz.jp https://tsuyama-biz.jp > ホーム > 採用情報",
+    "url": "https://tsuyama-biz.jp/kousenplaza/kigyou/1216/saiyo",
+    "pass": 3
+   },
+   {
+    "quote": "アイダメカシステム 新卒 高卒 の求人情報をすべて見る （136件） — アイダメカシステム 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アイダメカシステム のキャリア・企業情報 — 株式会社 アイダメカシステム のキャリア・企業情報 Indeed https://jp.indeed.com > cmp > 株式会社アイダメカシステム",
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "【主な仕事内容】 ・商品の入荷、検品 ・商品の仕分け、ピッキング ・商品の出荷準備 ・フォークリフトを使用した荷役作業 ・商品の在庫管理 ・倉庫内の商品整理、保管 ・入出庫に関するデータ入力、管理 ・トラックへの積み込み、荷下ろし ・その他、倉庫運営に関わる業務 入社後は、先輩社員と一緒に仕事をしながら、商品の扱い方や倉庫内のルールなどを一つひとつ覚えていきます",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "オーダーメイド省力機械装置メーカー 株式会社アイダメカシステム | M...オーダーメイド省力機械装置メーカー 株式会社アイダメカシステム - ...オーダーメイド省力機械装置メーカー 株式会社アイダメカシステム【2026年 夏季休業のお知らせ】... - オーダーメイド省力機械装置メー...オーダーメイド省力機械装置メーカー 株式会社アイダメカシステムホームページをリニューアルしました！... - オーダーメイド省力機械...紫陽花も鮮やかに #岡山県 #岡山県北... - オーダーメイド省力機械装... 5 days ago · オーダーメイド省力機械装置メーカー 株式会社アイダメカシステム, Mimasaka. 302 followers · 105 talking about this · 252 were here. 株式会社アイダメカシステムはフルオーダーメイドの自動化・省力化",
+    "url": "https://www.facebook.com/Aida.mecsys/",
+    "pass": 3
+   },
+   {
+    "quote": "オーダーメイド省力機械装置メーカー 株式会社アイダメカシステム - ... Dec 26, 2025 · 皆さま、2026年もよろしくお願いいたします！ #岡山県 #みまさか #美作市 #アイダメカシステム #ものづくり企業 #メカとヒトのアイダに #正月飾り #年末年始休業 #事故や怪我なく #安全第一 #製造業 #製造業をもっと盛り上げたい 青山理加 and 14 others 15",
+    "url": "https://www.facebook.com/Aida.mecsys/photos/今日は本年最後の営業日です多くの皆さまに支えられ事故や怪我もなく無事に1年を過ごす事ができましたステークホルダーの皆さまには多くのご協力をいただきまして本当にあ/1494887815977225/",
+    "pass": 3
+   },
+   {
+    "quote": "オーダーメイド省力機械装置メーカー 株式会社アイダメカシステム アイダメカは今年もOTEX（おかやまテクノロジー展）へ出展します！ 皆さまのお越しをアイダメカブースでお待ちしております #おかやまテクノロジー展 #OTEX #おかやまテクノロジー展2025 #展示会 #岡山県 #美作市 #ものづくり企業 #アイダメカシステム #メカとヒトのアイダに #精鋭企業と出会う ...",
+    "url": "https://www.facebook.com/Aida.mecsys/posts/アイダメカは今年もotexおかやまテクノロジー展へ出展します皆さまのお越しをアイダメカブースでお待ちしておりますおかやまテクノロジー展-otexおかやまテクノロ/1380334354099239/",
+    "pass": 3
+   },
+   {
+    "quote": "オーダーメイド省力機械装置メーカー 株式会社アイダメカシステム Nov 4, 2025 · 22 1 オーダーメイド省力機械装置メーカー 株式会社 アイダメカシステム radiko サイトはこちらから タイムフリーから検索ください https://radiko.jp/ radiko.jp radiko | インターネットでラジオが聴ける",
+    "url": "https://www.facebook.com/Aida.mecsys/posts/11月2日日に中四国ライブネットラジオで生放送してきました1112水13木にコンベックス岡山で開催されるおかやまテクノロジー展otex2025に出展する企業22/1449203113879029/",
+    "pass": 3
+   },
+   {
+    "quote": "オーダーメイド省力機械装置メーカー 株式会社アイダメカシステム | M...siyukatu on X: \"このシステム、XとDiscordへの自動投稿を備えてる\"「おかやま子育て応援宣言企業」岡山県知事賞贈呈式を開催 3月23日、...会社情報 | 株式会社アイダメカシステム 5 days ago · オーダーメイド省力機械装置メーカー 株式会社アイダメカシステム, Mimasaka. 302 followers · 105 talking about this · 252 were here. 株式会社アイダメカシステムはフルオーダーメイドの自動化・省力化装置の企画・設計・製造・組立・据付調整などを行っています。 主な事業内容としては、次のような ... Sep 16, 2026 · siyukatu @siyukat Show translation このシステム、XとDiscord",
+    "url": "https://www.facebook.com/Aida.mecsys/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.aida-mecsys.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aida-mecsys.co.jp/recruit1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aida-mecsys.co.jp/maintenanse/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aida-mecsys.co.jp/improve/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aida-mecsys.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aida-mecsys.co.jp/facilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aida-mecsys.co.jp/recruit2/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://inaka-yell.jp/recruit/mimasaka/aidamecsys/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inaka-yell.jp/details/aidamecsys2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aidagroup-recruit-career.net/aidasekkei2/AE0501941707/MDkyujin_d.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/Aida.mecsys/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Aida.mecsys/photos/今日は本年最後の営業日です多くの皆さまに支えられ事故や怪我もなく無事に1年を過ごす事ができましたステークホルダーの皆さまには多くのご協力をいただきまして本当にあ/1494887815977225/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Aida.mecsys/posts/アイダメカは今年もotexおかやまテクノロジー展へ出展します皆さまのお越しをアイダメカブースでお待ちしておりますおかやまテクノロジー展-otexおかやまテクノロ/1380334354099239/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Aida.mecsys/posts/11月2日日に中四国ライブネットラジオで生放送してきました1112水13木にコンベックス岡山で開催されるおかやまテクノロジー展otex2025に出展する企業22/1449203113879029/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Aida.mecsys/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アイダメカシステム 求人 年収",
+   "results": [
+    "https://inaka-yell.jp/recruit/mimasaka/aidamecsys/",
+    "https://www.aida-mecsys.co.jp/recruit1/",
+    "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/salaries",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__00002620275/",
+    "https://tsuyama-biz.jp/kousenplaza/kigyou/1216/saiyo",
+    "https://tenshoku.mynavi.jp/jobinfo-387662-1-7-1/",
+    "https://en-hyouban.com/company/00002620275/salary/",
+    "https://xn--pckua2a7gp15o89zb.com/%E3%82%A2%E3%82%A4%E3%83%80%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%B9%B4%E5%8F%8E",
+    "https://www.kirari-okayama.jp/joseikai/company/aida/",
+    "https://jp.indeed.com/cmp/株式会社アイダメカシステム/salaries"
+   ]
+  },
+  {
+   "query": "アイダメカシステム 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://inaka-yell.jp/details/aidamecsys2/",
+    "https://www.aidagroup-recruit-career.net/aidasekkei2/AE0501941707/MDkyujin_d.htm",
+    "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%A4%E3%83%80%E3%83%A1%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+    "https://www.aida-recruit.com/highschool/",
+    "https://www.aida-mecsys.co.jp/recruit1/",
+    "https://www.aida.co.jp/recruit/",
+    "https://tsuyama-biz.jp/kousenplaza/kigyou/1216/saiyo",
+    "https://www.instagram.com/aida_mecsys/",
+    "https://job.mynavi.jp/27/pc/search/corp3082/outline.html"
+   ]
+  },
+  {
+   "query": "site:note.com アイダメカシステム",
+   "results": [
+    "https://note.com/hubgry/n/n38841d3b60d0",
+    "https://note.com/hubgry/n/n17a1170ba3fb",
+    "https://note.com/aida9981/n/n44d7b82deea3",
+    "https://note.com/aida9981/n/ne4ea2cb86448",
+    "https://note.com/1910_00/n/n8862bcb4e4c4",
+    "https://note.com/b21079bancy/n/neb90288a72ae",
+    "https://note.com/techtravelerk/n/nfe343c0b467f",
+    "https://note.com/novereco/n/n8fb2bc714363",
+    "https://note.com/hiro_kaburisk/n/nf43c86b2c39f",
+    "https://note.com/tadaoharada/n/nd22e9ac5c8af"
+   ]
+  },
+  {
+   "query": "site:x.com アイダメカシステム",
+   "results": [
+    "https://x.com/mametter21",
+    "https://x.com/FREAK_KAWAZOE",
+    "https://x.com/ciniml",
+    "https://x.com/i/trending/2066165669381775628",
+    "https://x.com/kemusiro/with_replies",
+    "https://x.com/nao_nass",
+    "https://x.com/chidach/status/1933137296741781695",
+    "https://x.com/westmaison1/status/1644611066658451456",
+    "https://x.com/westmaison1/status/1643983666845212674",
+    "https://x.com/Ginrei_Ginrei"
+   ]
+  },
+  {
+   "query": "site:linkedin.com アイダメカシステム",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com アイダメカシステム",
+   "results": [
+    "https://www.facebook.com/Aida.mecsys/",
+    "https://www.facebook.com/Aida.mecsys/photos/今日は本年最後の営業日です多くの皆さまに支えられ事故や怪我もなく無事に1年を過ごす事ができましたステークホルダーの皆さまには多くのご協力をいただきまして本当にあ/1494887815977225/",
+    "https://www.facebook.com/Aida.mecsys/posts/アイダメカは今年もotexおかやまテクノロジー展へ出展します皆さまのお越しをアイダメカブースでお待ちしておりますおかやまテクノロジー展-otexおかやまテクノロ/1380334354099239/",
+    "https://www.facebook.com/Aida.mecsys/posts/11月2日日に中四国ライブネットラジオで生放送してきました1112水13木にコンベックス岡山で開催されるおかやまテクノロジー展otex2025に出展する企業22/1449203113879029/",
+    "https://www.facebook.com/Aida.mecsys/posts/2026年-夏季休業のお知らせ誠に勝手ながら2026年-8月8日土-8月16日日-を弊社夏季休業とさせていただきます期間中はご不便をおかけいたしますが何卒ご了承/1700218248777513/",
+    "https://www.facebook.com/Aida.mecsys/posts/ホームページをリニューアルしましたいつも弊社ホームページにアクセスいただき誠にありがとうございますこの度当社ホームページをリニューアルいたしました快適にホームペ/871611896265577/",
+    "https://www.facebook.com/Aida.mecsys/posts/紫陽花も鮮やかに岡山県-岡山県北-美作市アイダメカシステムメカとヒトのアイダに紫陽花-アジサイ-雨上がり-会社の敷地内-田舎暮らし自然の中で仕事-自然の中で暮ら/751844250281589/"
+   ]
+  },
+  {
+   "query": "アイダメカシステム note 社長",
+   "results": [
+    "https://www.aida-mecsys.co.jp/",
+    "https://zentena.app/company/4260001020711",
+    "https://www.aida-mecsys.co.jp/company/",
+    "https://compalyze.co.jp/company/4260001020711",
+    "https://houjin.jp/c/4260001020711",
+    "https://www.nihonsousei.jp/wp-content/uploads/2023/05/738aaee4b0243213f48b4266eb211a5c1.pdf",
+    "https://tsuyama-biz.jp/kousenplaza/kigyou/1216",
+    "https://inaka-yell.jp/details/aidamecsys2/"
+   ]
+  },
+  {
+   "query": "アイダメカシステム X 投稿",
+   "results": [
+    "https://www.instagram.com/aida_mecsys/",
+    "https://www.aida-mecsys.co.jp/",
+    "https://www.facebook.com/Aida.mecsys/",
+    "https://www.aida-mecsys.co.jp/company/",
+    "https://www.instagram.com/p/DPBgOP4kysM/",
+    "https://x.com/okayama_kocho/status/1506806311593574407",
+    "https://x.com/siyukat/status/2100194288445567019"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部10頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部10頁・検索8回）"
+ }
+}

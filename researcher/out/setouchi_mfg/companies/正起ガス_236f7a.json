@@ -1,0 +1,834 @@
+{
+ "name": "正起ガス",
+ "aliases": [],
+ "context": "愛媛県新居浜市／出典:地元の合同説明会;大学・高専の企業説明会／求人媒体:doda／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T02:36:31.248126+00:00",
+ "official_url": "https://ehime-shigotozukan.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立日",
+    "value": "設立日：昭和48年9月6日",
+    "url": "https://ehime-shigotozukan.com/about/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1993年",
+    "url": "https://ehime-shigotozukan.com/companies/myt/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1983年",
+    "url": "https://ehime-shigotozukan.com/companies/npsystem/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1935年",
+    "url": "https://ehime-shigotozukan.com/companies/sogabe/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1968年7月",
+    "url": "https://ehime-shigotozukan.com/interview/lady_young_employee6/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1000万円",
+    "url": "https://ehime-shigotozukan.com/about/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "愛媛県松山市千舟町4丁目5-4　松山千舟454ビル5F TEL：089-947-1411 FAX：089-947-1895",
+    "url": "https://ehime-shigotozukan.com/about/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "愛媛県松山市千舟町4-5-4松山千舟454ビル5F",
+    "url": "https://ehime-shigotozukan.com/about/privacy/",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "松山市大橋町97番地",
+    "url": "https://ehime-shigotozukan.com/companies/myt/",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "愛媛県松山市中央1-9-13",
+    "url": "https://ehime-shigotozukan.com/companies/npsystem/",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "新居浜市阿島1-4-25",
+    "url": "https://ehime-shigotozukan.com/companies/sogabe/",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "松山市南江戸4-3-37",
+    "url": "https://ehime-shigotozukan.com/interview/lady_young_employee6/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "週刊愛媛経済レポート、愛媛の会社年鑑、 えひめ業界地図等の発行",
+    "url": "https://ehime-shigotozukan.com/about/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "商業施設、医療・福祉施設、住宅の建築および設計",
+    "url": "https://ehime-shigotozukan.com/companies/myt/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "ハードウェア、ファームウェア、ソフトウェアの開発・販売",
+    "url": "https://ehime-shigotozukan.com/companies/npsystem/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "建機用歯車部品製造",
+    "url": "https://ehime-shigotozukan.com/companies/sogabe/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "調剤薬局、ドラッグストア、インターネット販売など",
+    "url": "https://ehime-shigotozukan.com/interview/lady_young_employee6/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "26人",
+    "url": "https://ehime-shigotozukan.com/companies/myt/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "112人",
+    "url": "https://ehime-shigotozukan.com/companies/npsystem/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "94人",
+    "url": "https://ehime-shigotozukan.com/companies/sogabe/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "4,008人",
+    "url": "https://ehime-shigotozukan.com/interview/lady_young_employee6/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　土井 剛",
+    "url": "https://ehime-shigotozukan.com/companies/myt/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 塩梅 敏",
+    "url": "https://ehime-shigotozukan.com/companies/npsystem/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　曽我部 優弘",
+    "url": "https://ehime-shigotozukan.com/companies/sogabe/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　藤田 和郎",
+    "url": "https://ehime-shigotozukan.com/interview/lady_young_employee6/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "人手不足の発言": [
+   {
+    "quote": "若手社員の先輩に入社のきっかけや会社の雰囲気、これまでの仕事内容から今後のビジョンまで聞いてみました",
+    "url": "https://ehime-shigotozukan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "若手育成に力を入れており、会社が費用を負担する資格取得支援や先輩社員の実技指導など、業務フォローを手厚くしている",
+    "url": "https://ehime-shigotozukan.com/companies/myt/",
+    "pass": 1
+   },
+   {
+    "quote": "若手社員にも活躍のチャンス 会社の成長と自分の成長を実感",
+    "url": "https://ehime-shigotozukan.com/companies/npsystem/",
+    "pass": 1
+   },
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "1000万円",
+    "url": "https://ehime-shigotozukan.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "※試用期間6ヶ月(給与等変更なし)",
+    "url": "https://seikigas-recruit.com/",
+    "pass": 3
+   },
+   {
+    "quote": "月給 210,000円～250,000円",
+    "url": "https://seikigas-recruit.com/",
+    "pass": 3
+   },
+   {
+    "quote": "各種社会保険完備、賞与年2回、昇給年1回",
+    "url": "https://seikigas-recruit.com/",
+    "pass": 3
+   },
+   {
+    "quote": "月給 220,000円～250,000円",
+    "url": "https://seikigas-recruit.com/",
+    "pass": 3
+   },
+   {
+    "quote": "※3ヶ月の試用期間終了後、昇給検討",
+    "url": "https://seikigas-recruit.com/",
+    "pass": 3
+   },
+   {
+    "quote": "雇用保険〈勤務時間による〉、昇給有、マイカー通勤可〈P無料〉",
+    "url": "https://seikigas-recruit.com/",
+    "pass": 3
+   },
+   {
+    "quote": "工場長 / 「工場製造スタッフ 広島工場勤務」「ベープ」でお馴染みの東証スタンダード上場・日用品メーカー／年間休日120日以上／賞与年2回／フマキラー株式会社",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "「年収800万円以上」「東京都「千代田区」」公共事業の変革をリードするDXコンサルタント「主任クラス」",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "年収830万円～1,080万円",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "モデル給与:830～1080万円",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理 / 「転勤なし／生産管理」賞与5.35ヶ月分＆過去最高売上！売り上げ100億円超！農業分野では唯一、経団連加盟の成長企業で”しっかり”稼ぎたい方募集！挑戦を歓迎！！成果をしっかりと評価 株式会社村上農園",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "/ 「製品パッケージ開発・設計 広島本社工場」ベープマット・蚊取り線香でお馴染みの老舗日用品メーカー／東証スタンダード市場上場／海外ネットワーク約70か国／フレックスタイム制あり／年間休日120日以上／賞与年2回／フマキラー株式会社",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "年収500万円～1,000万円",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "年俸700万円～1,500万円",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "年俸400万円～700万円",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "月給 184,717円",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収214.8万円",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "リンクされていることは、リンク先と当社が関係会社 、取引先などの関係を有していることを意味しません",
+    "url": "https://ehime-shigotozukan.com/about/terms/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先は大手建機メーカーが中心で、中国など積極的な海外展開も進めており、新たにインドネシアでも工場を建設予定である",
+    "url": "https://ehime-shigotozukan.com/companies/sogabe/",
+    "pass": 1
+   },
+   {
+    "quote": "(２)工場内ボンベ充填作業",
+    "url": "https://seikigas-recruit.com/",
+    "pass": 3
+   },
+   {
+    "quote": "工場長 / 「工場製造スタッフ 広島工場勤務」「ベープ」でお馴染みの東証スタンダード上場・日用品メーカー／年間休日120日以上／賞与年2回／フマキラー株式会社",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理 / 「転勤なし／生産管理」賞与5.35ヶ月分＆過去最高売上！売り上げ100億円超！農業分野では唯一、経団連加盟の成長企業で”しっかり”稼ぎたい方募集！挑戦を歓迎！！成果をしっかりと評価 株式会社村上農園",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "経理（財務会計） / 「経理（将来の内務責任者候補）｜福岡」売上2,460億円／創業100年企業の経営を牽引する／多様な事業の成長を支えキャリアを拓く／年間休日120日・平均残業8h・充実の福利厚生株式会社新出光",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "/ 「製品パッケージ開発・設計 広島本社工場」ベープマット・蚊取り線香でお馴染みの老舗日用品メーカー／東証スタンダード市場上場／海外ネットワーク約70か国／フレックスタイム制あり／年間休日120日以上／賞与年2回／フマキラー株式会社",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "生産技術・生産管理・製造技術 / 「設備保全 医薬品製造」輸液製品の国内シェア55％／最先端フルオートメーション工場での製造・保全オペレーション／くるみん認定・安定の大塚グループ発祥企業／株式会社大塚製薬工場",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫は、商品が「つくられてから、お客様のもとへ届くまで」をつなぐ大切な物流拠点です",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "若手育成に力を入れており、会社が費用を負担する資格取得支援や先輩社員の実技指導など、業務フォローを手厚くしている",
+    "url": "https://ehime-shigotozukan.com/companies/myt/",
+    "pass": 1
+   },
+   {
+    "quote": "レデイ薬局のほか地方銀行などいくつかの会社のインターンシップを受けました",
+    "url": "https://ehime-shigotozukan.com/interview/lady_young_employee6/",
+    "pass": 1
+   },
+   {
+    "quote": "何社かのインターンシップを受けた中で、当社が最も自分に合っていると感じたからです",
+    "url": "https://ehime-shigotozukan.com/interview/lady_young_employee6/",
+    "pass": 1
+   },
+   {
+    "quote": "また、インターンシップに参加した学生は早めに選考ステップを進められる特典があり、早期的に最終選考へ進むことができました",
+    "url": "https://ehime-shigotozukan.com/interview/lady_young_employee6/",
+    "pass": 1
+   },
+   {
+    "quote": "そのためにはインターンシップに参加することを強くおすすめします",
+    "url": "https://ehime-shigotozukan.com/interview/lady_young_employee6/",
+    "pass": 1
+   },
+   {
+    "quote": "配属先では先輩社員がマンツーマンで業務の教育を行います",
+    "url": "https://seikigas-recruit.com/",
+    "pass": 3
+   },
+   {
+    "quote": "未経験の方は、先輩社員が同行しながら丁寧にお教えします",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "【主な仕事内容】 ・商品の入荷、検品 ・商品の仕分け、ピッキング ・商品の出荷準備 ・フォークリフトを使用した荷役作業 ・商品の在庫管理 ・倉庫内の商品整理、保管 ・入出庫に関するデータ入力、管理 ・トラックへの積み込み、荷下ろし ・その他、倉庫運営に関わる業務 入社後は、先輩社員と一緒に仕事をしながら、商品の扱い方や倉庫内のルールなどを一つひとつ覚えていきます",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "エントリーシートを提出する段階では、ほぼレデイ薬局一本に絞っていました",
+    "url": "https://ehime-shigotozukan.com/interview/lady_young_employee6/",
+    "pass": 1
+   },
+   {
+    "quote": "正起ガス株式会社│正社員・パート募集 採用情報",
+    "url": "https://seikigas-recruit.com/",
+    "pass": 3
+   },
+   {
+    "quote": "正起ガス株式会社 正社員・パート募集 採用情報",
+    "url": "https://seikigas-recruit.com/",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "アピール:マイナビ転職AGENTおすすめの求人です",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "● 従事すべき業務... ハローワーク求人番号 38050-05132861",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "あかがねタクシー 株式会社のハローワーク求人",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "● 従事すべき業務... ハローワーク求人番号 38050-05133961",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "「正起ガス 株式会社」の新しいハローワーク求人情報が掲載され次第、メールにてお知らせいたします",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "正起ガス 株式会社  正社員・パート 募集 採用情報 — 正起ガス 株式会社  正社員・パート 募集 採用情報 seikigas-recruit.com https://seikigas-recruit.com",
+    "url": "https://seikigas-recruit.com/",
+    "pass": 3
+   },
+   {
+    "quote": "正起ガス 株式会社の 求人 - ハローワークの求人を検索 — 正起ガス 株式会社の 求人 - ハローワークの求人を検索 ハローワークの求人を検索 https://www.hellowork.careers > 正起ガス+株式会社関連...",
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "pass": 3
+   },
+   {
+    "quote": "正起ガス 株式会社の転職・企業概要 - doda — 正起ガス 株式会社の転職・企業概要 - doda doda https://doda.jp > View > Company > j_id__10007948010",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10007948010/",
+    "pass": 3
+   },
+   {
+    "quote": "正起ガス 株式会社 ルート営業スタッフ - あのこの愛媛 — 正起ガス 株式会社 ルート営業スタッフ - あのこの愛媛 あのこの愛媛 https://ano-kono.ehime.jp > 求人・移住情報一覧",
+    "url": "https://ano-kono.ehime.jp/job/ref/e61323468414c30f8e07662608417fc6",
+    "pass": 3
+   },
+   {
+    "quote": "愛媛県 新居浜市の正社員 正起ガス の 求人 — 愛媛県 新居浜市の正社員 正起ガス の 求人 Indeed https://jp.indeed.com > q-正社員-正起ガス-l-愛媛県-新居...",
+    "url": "https://jp.indeed.com/q-%E6%AD%A3%E7%A4%BE%E5%93%A1-%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9-l-%E6%84%9B%E5%AA%9B%E7%9C%8C-%E6%96%B0%E5%B1%85%E6%B5%9C%E5%B8%82-%E6%B1%82%E4%BA%BA.html",
+    "pass": 3
+   },
+   {
+    "quote": "正起ガス 新卒 高卒 の求人情報をすべて見る （136件） — 正起ガス 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "正起ガス 株式会社  正社員・パート募集 採用 情報 — 正起ガス 株式会社  正社員・パート募集 採用 情報 seikigas-recruit.com https://seikigas-recruit.com",
+    "url": "https://seikigas-recruit.com/",
+    "pass": 3
+   },
+   {
+    "quote": "正起ガス 総務部の社員の 休日の過ごし方をご紹介 ... - Instagram — 正起ガス 総務部の社員の 休日の過ごし方をご紹介 ... - Instagram Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/DWYW6UAEadq/?hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "採用 情報｜正起グループ - 正起ガス — 採用 情報｜正起グループ - 正起ガス seikigas.com https://www.seikigas.com > recruit",
+    "url": "https://www.seikigas.com/recruit/",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ehime-shigotozukan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ehime-shigotozukan.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ehime-shigotozukan.com/cat_interview/employee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ehime-shigotozukan.com/cat_interview/recruiter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ehime-shigotozukan.com/cat_interview/mid-employee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ehime-shigotozukan.com/cat_interview/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ehime-shigotozukan.com/about/privacy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ehime-shigotozukan.com/about/terms/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ehime-shigotozukan.com/companies/myt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ehime-shigotozukan.com/companies/npsystem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ehime-shigotozukan.com/companies/sogabe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ehime-shigotozukan.com/interview/lady_young_employee6/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://ehime-shigotozukan.com/wp/wp-content/uploads/2020/11/kinositasewing_hr1-330x220.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://ehime-shigotozukan.com/wp/wp-content/uploads/2019/02/arigatouservicehr1-330x220.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://ehime-shigotozukan.com/wp/wp-content/uploads/2019/01/ichimiyaunyuhr_1-330x220.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://seikigas-recruit.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10007948010/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seikigas-recruit.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/p/DWYW6UAEadq/?hl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "正起ガス 求人 年収",
+   "results": [
+    "https://seikigas-recruit.com/",
+    "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "https://doda.jp/DodaFront/View/Company/j_id__10007948010/",
+    "https://ano-kono.ehime.jp/job/ref/e61323468414c30f8e07662608417fc6",
+    "https://jp.indeed.com/q-%E6%AD%A3%E7%A4%BE%E5%93%A1-%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9-l-%E6%84%9B%E5%AA%9B%E7%9C%8C-%E6%96%B0%E5%B1%85%E6%B5%9C%E5%B8%82-%E6%B1%82%E4%BA%BA.html",
+    "https://townwork.net/viewjob/jobid_3f8976839fa58e5f/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C2x00000S2ja3&q_no=8",
+    "https://www.seikigas.com/recruit/",
+    "https://masakiya-recruit.jp/list/et_5/",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10007948010/"
+   ]
+  },
+  {
+   "query": "正起ガス 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://seikigas-recruit.com/",
+    "https://www.instagram.com/p/DWYW6UAEadq/?hl=ja",
+    "https://www.seikigas.com/recruit/",
+    "https://ano-kono.ehime.jp/job/ref/e61323468414c30f8e07662608417fc6",
+    "https://sousaku-chiku.wixsite.com/group-news/post/%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8%E5%90%91%E3%81%91%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9%E7%B4%B9%E4%BB%8B%E5%8B%95%E7%94%BB%E3%81%8C%E5%AE%8C%E6%88%90%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F",
+    "https://hatarakukatachi.com/2024high-school/ni-02.html",
+    "https://townwork.net/viewjob/jobid_3f8976839fa58e5f/",
+    "https://www.hellowork.careers/%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "https://www.tohogas.co.jp/corporate/recruit/highschool/"
+   ]
+  },
+  {
+   "query": "site:note.com 正起ガス",
+   "results": [
+    "https://note.com/nature_positive/n/n4902fc3b9d03",
+    "https://note.com/kek_jp/n/ncc3ae3c4c24b",
+    "https://note.com/bizgram/n/n5bde4d5402d1",
+    "https://note.com/mitsuwa_holdings/n/n322cd06f7d40",
+    "https://note.com/info/n/nf4cc2a1b057d",
+    "https://note.com/andloandeal/magazines",
+    "https://note.com/pequod_crews/n/n446c8a2eb08d",
+    "https://note.com/nature_positive/n/n519a02e00cd4",
+    "https://note.com/nonoonenono/n/n6307a242895d",
+    "https://note.com/ippoi/n/n26718f262711"
+   ]
+  },
+  {
+   "query": "site:x.com 正起ガス",
+   "results": [
+    "https://x.com/e_shigotozukan",
+    "https://x.com/ZNFIXGLq6760805",
+    "https://x.com/AESTHETICJP/reposts",
+    "https://x.com/jpnbtcnetwork",
+    "https://x.com/HiranumaShojiro",
+    "https://x.com/erec3ken",
+    "https://x.com/i/article/2110735402021920810",
+    "https://x.com/mtokeiji",
+    "https://x.com/The_RadioShow/with_replies",
+    "https://x.com/MLB_Connection/status/2116361201739559389"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 正起ガス",
+   "results": [
+    "https://www.linkedin.com/pub/dir/Masaki/Yamaguchi",
+    "https://cn.linkedin.com/in/jing-wang-06209b12",
+    "https://jp.linkedin.com/pub/dir/Masaki/Yamaguchi/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/in/yenlun-huang-121719119",
+    "https://jp.linkedin.com/in/toru-ichikawa-87807488",
+    "https://jp.linkedin.com/in/%E5%B4%87%E8%A3%95-%E9%87%8E%E6%9C%AC-42625417b",
+    "https://jp.linkedin.com/in/saya-shigaki-1bb9631a1",
+    "https://tw.linkedin.com/in/steven0128/zh-tw",
+    "https://www.linkedin.com/posts/nextgenbusinesscommunication_how-to-ask-your-question-again-to-get-the-activity-7520671511050092544-_FZK",
+    "https://tw.linkedin.com/company/wahlee-industrial-corp-"
+   ]
+  },
+  {
+   "query": "site:facebook.com 正起ガス",
+   "results": [
+    "https://www.facebook.com/61576347954103/posts/-%E9%98%B2%E7%81%BD%E8%A8%93%E7%B7%B4%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%85%88%E6%97%A5%E7%A4%BE%E5%86%85%E3%81%A7%E9%98%B2%E7%81%BD%E8%A8%93%E7%B7%B4%E3%82%92%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%84%E3%81%96%E3%81%A8%E3%81%84%E3%81%86%E3%81%A8%E3%81%8D%E3%81%AB%E8%90%BD%E3%81%A1%E7%9D%80%E3%81%84%E3%81%A6%E8%A1%8C%E5%8B%95%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E9%81%BF%E9%9B%A3%E3%81%AE%E6%B5%81%E3%82%8C%E3%82%84%E5%AE%89%E5%85%A8%E3%81%AA%E8%A1%8C%E5%8B%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A7%E7%A2%BA%E8%AA%8D%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E7%81%BD%E5%AE%B3%E3%81%AF%E3%81%84%E3%81%A4%E8%B5%B7%E3%81%93%E3%82%8B/122198552456878265/",
+    "https://www.facebook.com/61576882048493/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%83%97%E3%83%A9%E3%82%B9%E3%82%A8%E3%82%B9%E3%81%A7%E3%81%99%EF%B8%8F%E6%9C%AC%E6%97%A5%E3%81%AF%E9%9B%86%E5%90%88%E4%BD%8F%E5%AE%85%E3%81%AE%E9%80%9A%E8%B7%AF%E3%81%AE%E7%85%A7%E6%98%8E%E5%8F%96%E6%9B%BF%EF%B8%8F%E6%9C%AC%E6%97%A5%E4%B8%AD%E3%81%AB%E5%AE%8C%E4%BA%86%E3%81%95%E3%81%9B%E3%82%8B%E3%81%B9%E3%81%8F%E9%A0%91%E5%BC%B5%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E5%8D%88%E5%BE%8C%E3%82%82%E9%A0%91%E5%BC%B5%E3%82%8A%E3%81%BE%E3%81%99%EF%B8%8F%E7%85%A7%E6%98%8E%E5%8F%96%E6%9B%BF%E6%96%B0%E5%B1%85%E6%B5%9C%E3%83%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%83%97%E3%83%A9/122234995178896068/",
+    "https://www.facebook.com/sousakuchiku/posts/%E5%89%B5%E4%BD%9C%E3%83%9E%E3%83%AB%E3%82%B7%E3%82%A72025-%E9%96%8B%E5%82%AC%E8%A4%87%E5%90%88%E5%95%86%E6%A5%AD%E6%96%BD%E8%A8%AD%E5%89%B5%E4%BD%9C%E5%9C%B0%E5%8C%BA%E3%81%AF%E3%81%8A%E9%99%B0%E6%A7%98%E3%81%A75%E6%9C%88%E3%81%A710%E5%91%A8%E5%B9%B4%E3%82%92%E8%BF%8E%E3%81%88%E3%81%BE%E3%81%99%E6%AD%A3%E8%B5%B7%E3%82%AC%E3%82%B9%E6%A0%AA%E3%81%AE%E6%97%A7%E6%9C%AC%E7%A4%BE%E3%83%93%E3%83%AB%E3%81%AA%E3%81%A9%E3%81%AE%E5%BB%BA%E7%89%A9%E3%81%8C%E3%81%82%E3%81%A3%E3%81%9F%E6%95%B7%E5%9C%B0%E5%86%85%E3%82%92%E3%83%AA%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%97%E4%BA%BA%E3%81%A8%E3%82%82%E3%81%AE%E3%81%8C%E9%9B%86%E3%81%BE%E3%82%8B/1265551522240352/",
+    "https://www.facebook.com/gasuyanogohan/",
+    "https://www.facebook.com/61576882048493/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%83%97%E3%83%A9%E3%82%B9%E3%82%A8%E3%82%B9%E3%81%A7%E3%81%99%EF%B8%8F%E5%A5%91%E7%B4%84%E6%9B%B8%E7%AE%B1%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%83%97%E3%83%A9%E3%82%B9%E3%82%A8%E3%82%B9%E3%81%A7%E3%81%AF%E5%A5%91%E7%B4%84%E6%9B%B8%E3%82%92%E3%81%8A%E6%B8%A1%E3%81%97%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AB%E5%A5%91%E7%B4%84%E6%9B%B8%E7%AE%B1%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8A%E6%B8%A1%E3%81%97%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E3%83%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%AB%E4%BC%B4%E3%81%86%E6%96%B0%E3%81%97%E3%81%84%E8%A8%AD%E5%82%99%E3%81%AE%E5%8F%96%E6%89%B1%E8%AA%AC%E6%98%8E%E6%9B%B8%E3%81%AA%E3%81%A9%E3%82%92%E3%81%BE/122245613966896068/",
+    "https://www.facebook.com/100063584102510/posts/%E3%83%91%E3%83%A9%E3%82%89%E3%83%91%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%83%91%E3%83%A9%E3%83%A9%E9%80%B1%E6%9C%AB%E3%81%AF%E9%AB%AD%E3%83%80%E3%83%B3%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%83%BC%E3%81%99%E3%81%A3%E3%81%A6%E8%81%9E%E3%81%84%E3%81%9F%E3%81%A0%E3%81%91%E3%81%A7%E9%A0%AD%E3%81%AE%E4%B8%AD%E5%AE%BF%E5%91%BD%E9%B3%B4%E3%82%8A%E5%87%BA%E3%81%99%E5%A7%8B%E6%9C%ABw%E3%81%84%E3%81%84%E3%81%AA%E3%83%BC%E7%BE%A8%E3%81%BE%E3%81%97%E3%81%84%E3%81%AA%E3%83%BC%E3%81%A3%E3%81%A6%E6%80%9D%E3%81%A3%E3%81%A6%E3%82%8B%E3%81%86%E3%81%A1%E3%81%AB%E3%82%A8%E3%83%A0%E3%82%BA%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC%E8%B2%B7%E3%81%A3%E3%81%A1%E3%82%83%E3%81%84/418803853247145/",
+    "https://www.facebook.com/tatsumistaff/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%82%BF%E3%83%84%E3%83%9F%E8%A8%AA%E5%95%8F%E7%9C%8B%E8%AD%B7%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%85%AB%E7%8E%8B%E5%AD%90%E3%81%BF%E3%81%AA%E3%81%BF%E9%87%8E%E3%81%A7%E3%81%99%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E3%81%AE%E9%9D%A2%E7%A9%8D%E3%81%AF%E3%81%A8%E3%81%A6%E3%82%82%E5%BA%83%E3%81%8F%E5%85%AB%E7%8E%8B%E5%AD%90%E9%A7%85%E5%91%A8%E8%BE%BA%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E4%BA%BA%E3%81%AE%E5%BE%80%E6%9D%A5%E3%82%82%E5%A4%9A%E3%81%8F%E8%B3%91%E3%82%84%E3%81%8B%E3%81%AA%E5%A0%B4%E6%89%80%E3%82%82%E3%81%82%E3%82%8C%E3%81%B0%E9%AB%98%E5%B0%BE%E5%B1%B1%E3%82%84%E3%83%9B%E3%82%BF%E3%83%AB%E3%81%8C%E8%A6%8B%E3%82%89%E3%82%8C%E3%82%8B%E5%B7%9D/793828772730639/",
+    "https://www.facebook.com/groups/244130703498261/posts/1839157620662220/",
+    "https://www.facebook.com/mujakimaru/posts/%E5%9B%9B%E5%9B%BD%E6%9D%B1%E4%BA%88%E3%81%AE%E7%A7%8B%E7%A5%AD%E3%82%8A%E6%96%B0%E5%B1%85%E6%B5%9C%E5%A4%AA%E9%BC%93%E7%A5%AD%E3%82%8A%E3%81%AE%E9%87%8D%E3%81%953%EF%BD%94%E6%9C%89%E3%82%8B%E3%81%A8%E8%A8%80%E3%81%86%E7%B5%A2%E7%88%9B%E8%B1%AA%E8%8F%AF%E3%81%AA%E5%A4%AA%E9%BC%93%E5%8F%B020%E5%8F%B0%E3%81%AE%E4%B8%80%E6%96%89%E5%B7%AE%E3%81%97%E4%B8%8A%E3%81%92%E3%82%84%E6%8B%85%E3%81%8D%E6%AF%94%E3%81%B9%E3%81%AE%E5%B1%B1%E6%A0%B9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E7%B5%B1%E4%B8%80%E5%AF%84%E3%81%9B%E3%82%92%E8%A6%8B%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E6%9D%A5%E3%81%BE%E3%81%97%E3%81%9F/3267386826803555/",
+    "https://www.facebook.com/p/正起ガス株式会社-61576347954103/"
+   ]
+  },
+  {
+   "query": "正起ガス note 社長",
+   "results": [
+    "https://www.instagram.com/p/DWYW6UAEadq/?hl=ja",
+    "http://company-portal.city.niihama.ehime.jp/cn6/cn10/seikigasu.html",
+    "https://www.seikigas.com/tayori/",
+    "https://ehime-shigotozukan.com/companies/seikigasu-2/",
+    "https://note.com/ognwcel/n/n7dbb45f465a4",
+    "https://narrations.jp/blog/?p=315",
+    "https://www.instagram.com/p/CqC-BpbpeF4/",
+    "https://note.com/standage/n/n1ec9248b11b2",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "正起ガス X 投稿",
+   "results": [
+    "https://www.instagram.com/p/DdVn_vPxfWd/",
+    "https://x.com/fisco_jp/media",
+    "https://x.com/JGA_gas",
+    "https://www.instagram.com/p/DevV2odnStg/",
+    "https://www.tokyo-np.co.jp/article/484220",
+    "https://x.com/aKihiRo1610/status/2114690071463072248/video/1",
+    "http://twitter.com/gxgxg_",
+    "https://www.yomiuri.co.jp/national/20260808-GYT1T00411/",
+    "https://www.instagram.com/p/DeTla7JEdON/",
+    "https://x.com/hooja0897/status/1993847246438220229"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部6頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部6頁・検索8回）"
+ }
+}
