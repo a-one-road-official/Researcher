@@ -217,8 +217,12 @@ def grade(g):
     vals = sorted(r["値"] for r in g)
     med = statistics.median(vals)
     ec = echoes(g)
-    near = {indep_key(r, ec) for r in g if med and abs(r["値"] - med) <= 0.2 * abs(med)}
-    if len(near) >= 2: return "【裏付けあり】"
+    # 2026-11-05 走査の失敗から：横須賀市・会津若松市・大阪市・経産省（全国）の別々の対象の数字が、中央値の近さだけで【裏付けあり】になった
+    # （mfg_capacity の「製造業の受託加工全体」）。「地域が違う」の警告は出ていたが確度に効いていなかった。裏付けは同じ地域（全国は全国どうし）の中だけで数える
+    near = {}
+    for r in g:
+        if med and abs(r["値"] - med) <= 0.2 * abs(med): near.setdefault(region_of(r["URL"]) or "全国", set()).add(indep_key(r, ec))
+    if any(len(v) >= 2 for v in near.values()): return "【裏付けあり】"
     if vals and vals[0] > 0 and vals[-1] / vals[0] > 3 and len(doms) >= 2: return "【食い違い】"
     if any(r["一次"] == "一次" for r in g): return "【一次で確認】"
     return "【未確認】"
@@ -226,10 +230,38 @@ def grade(g):
 # 2026-11-05 4-21：代表値を採る規則（survivorship）を明示する（Data Ladder の entity resolution：元の記録は残し、代表値の選び方は別の段で規則にする）。
 # 順：予測・見通しを外す → 一次があれば一次だけ → 確報・改定があれば速報を外す → いちばん新しい年 → その年の中央値。
 # 食い違い・低確度のときは保守側（低い側＝第1四分位、4件未満は最小）も並べる（CUFinder：信号が合わなければ低い側に寄せ、低確度と印す）。
+# 2026-11-05 4-28：Admiralty（NATO）式の2軸の格付け（usersearch の Admiralty Code for OSINT）。出どころの信頼度 A〜F と情報の確からしさ 1〜6 を別に付け、
+# 集めた時点で機械が付ける（結論を作ったあとに付けると見方が格付けに染みる）。過去の実績を持たないので出どころは A を使わず、一次=B・報道=C・調査会社/信用調査=D・その他=F。
+# 情報：一次どうし2か所以上の一致=1、【裏付けあり】=2、【一次で確認】=3、【食い違い】=4、【未確認】=6。F6 は「判断材料がまだ無い」で誤りではない。捨てずに穴埋めの検索に回す
+def admiralty(g, gr):
+    kinds = {r["一次"] for r in g}
+    hosts = {r["出典"] for r in g}
+    src = "B" if "一次" in kinds else "C" if any(NEWSHOST.search(h or "") for h in hosts) else "D" if kinds & {"調査会社", "信用調査"} else "F"
+    vals = [r["値"] for r in g]; pmed = statistics.median(vals)
+    prim_ok = {r["出典"] for r in g if r["一次"] == "一次" and pmed and abs(r["値"] - pmed) <= 0.2 * abs(pmed)}
+    info = "1" if len(prim_ok) >= 2 and gr == "【裏付けあり】" else {"【裏付けあり】": "2", "【一次で確認】": "3", "【食い違い】": "4"}.get(gr, "6")
+    return src + info
+
+# 2026-11-05 4-29：単位の読み違いの指紋（電子決算公告ドットコム「官報の決算公告の見方」：公告は百万円か千円で省略して載り、単位を見ずに読むと100倍・1,000倍を誤る）。
+# 最大÷最小が10・100・1,000・10,000倍の±15%に入るときは、別物ではなく単位の読み違いを先に疑う
+def unit_slip(lo, hi):
+    if lo <= 0: return None
+    r = hi / lo
+    for k in (10, 100, 1000, 10000):
+        if abs(r / k - 1) <= 0.15: return k
+    return None
+
+# 2026-11-05 4-30：統計の注記に出る「○○年から計算方法を変更」「区分の変更」（stats47「e-Stat の7つのテクニック」：メタ情報の注記を見てから系列をつなぐ）。
+# 引用にこの型があれば、その年を品目の「定義の変わり目」として並べ、またいだ向きを使わない
+DEFCHANGE = re.compile(r"((19[89]\d|20[0-3]\d)\s*年度?\s*(から|より|以降)[^。]{0,20}?(計算方法|算出方法|定義|区分|集計方法|調査方法|対象範囲|分類|基準)[^。]{0,8}?(を|が)?\s*(変更|改定|見直|改訂|移行))")
+
 def pick(g):
     c = [r for r in g if not r.get("予測")] or []
     if not c: return None
     c = [r for r in c if r["一次"] == "一次"] or c
+    # 2026-11-05 4-30：市・県の統計と全国の統計が同じ欄にあるときは、全国（region が空）の一次だけで代表値を採る。地域が混ざった中央値は何の値でもない
+    nat = [r for r in c if r["一次"] == "一次" and not region_of(r["URL"])]
+    if nat and len(nat) < len(c) and any(region_of(r["URL"]) for r in c): c = nat
     fin = [r for r in c if r.get("版") in ("確報", "改定")]
     if fin: c = [r for r in c if r.get("版") != "速報"]
     yrs = [int(r["年"]) for r in c if r["年"]]
@@ -237,7 +269,7 @@ def pick(g):
         y = max(yrs); c = [r for r in c if r["年"] and int(r["年"]) == y]
     else: y = None
     vals = sorted(r["値"] for r in c)
-    return y, statistics.median(vals), len(c), {r["出典"] for r in c}
+    return y, statistics.median(vals), len(c), {r["出典"] for r in c}, {region_of(r["URL"]) or "全国" for r in c}
 
 def conservative(vals):
     vals = sorted(vals)
@@ -281,7 +313,7 @@ def scan(topic):
             fut = [r for r in g if r["予測"]]
             gr = grade(g)
             md.append(f"- {gr} {cat}［{ctx}］（{u}）：{len(g)}件・一次{len(prim)}件・出典{len({src_key(r) for r in g})}か所（調査会社は1つに束ねる）・予測値{len(fut)}件、幅 {lo:g}〜{hi:g}（食い違い{spread}）")
-            md.append(f"  - 書き方（4-23）：{phrasing(gr, g)}")
+            md.append(f"  - 書き方（4-23）：{phrasing(gr, g)}／格付け（4-28・出どころA〜F×情報1〜6）：{admiralty(g, gr)}")
             # 2026-11-05 4-25：証拠の量に引っ張られない（Heuer の競合仮説分析：大量の証拠に見えても出どころが偏れば強さではない）。
             # 4件以上の欄で1か所のホストが半分超を出していれば、件数でなく出どころの数で読むよう印す
             hc = {}
@@ -295,8 +327,9 @@ def scan(topic):
             if len({src_key(r) for r in g}) == 1: thin.append(f"{item}｜{cat}［{ctx}］")
             pk = pick(g)
             if pk:
-                py, pv, pn, pd = pk
-                md.append(f"  - 採る値（規則：予測除外→一次優先→確報優先→最新年→中央値）：{pv:g}{u}（{py or '年不明'}年・{pn}件・出典{len(pd)}か所）")
+                py, pv, pn, pd, preg = pk
+                md.append(f"  - 採る値（規則：予測除外→一次優先→全国優先→確報優先→最新年→中央値）：{pv:g}{u}（{py or '年不明'}年・{pn}件・出典{len(pd)}か所）")
+                if len(preg) >= 2: md.append(f"  - ⚠ 採る値に地域が混ざる（{'・'.join(sorted(preg)[:5])}）：この中央値は使わず、地域ごとに読む（4-30）")
                 # 4-21：最新の年が3年以上前なら古い（Inven：公表データは古いことがある）。今の判断に使う前に新しい版を探す
                 if py and NOW_YEAR - py >= 3: md.append(f"  - ⚠ 古い：採った値の最新の年が{py}年（{NOW_YEAR - py}年前）。新しい版・新しい年を探す")
             if gr in ("【食い違い】", "【未確認】") and len(vals) >= 2:
@@ -307,6 +340,8 @@ def scan(topic):
                 md.append(f"  - 【推定】中ほど半分の幅（第1〜第3四分位）：{qs[0]:g}〜{qs[2]:g}、中央値 {statistics.median(vals):g}")
             # 2026-11-05 4-13：100倍以上の開きは単位の読み違い（百万円の表の数字を万円と読む等）か別物の混入を先に疑う
             if lo > 0 and hi / lo >= 100: md.append("  - ⚠ 桁違いの疑い（100倍以上）：単位・対象（単体/連結、事業所/企業、装置/単価）の取り違えを先に確かめる")
+            us = unit_slip(lo, hi)
+            if us and len(g) >= 2: md.append(f"  - ⚠ 単位の読み違いの指紋：最大と最小がほぼ{us:,}倍（千円↔百万円＝1,000倍、百万円↔万円＝100倍）。表の単位の欄を本文で確かめる（4-29）")
             dc = {}
             for r in g:
                 for d0 in (r.get("定義") or "").split("・"):
@@ -327,6 +362,9 @@ def scan(topic):
                 st = split_trend(med)
                 if st: md.append(f"  - {st}")
                 if u in ("事業所", "社") and census_mix(med): md.append("  - ⚠ 全数年と裾切り年が混在（1981〜2019年は末尾0・3・5・8年だけ全数）：事業所数の増減は全数年どうしで比べる")
+        # 4-30：定義・計算方法の変わり目の注記
+        dch = sorted({m.group(2) for r in rs for m in DEFCHANGE.finditer(r["引用"])})
+        if dch: md.append("- ⚠ 定義・計算方法の変わり目の注記（" + "・".join(f"{y}年" for y in dch) + "）：この年をまたいだ向きは使わない。メタ情報・注記で中身を確かめる（4-30）")
         # 1人あたり：同じ年に万円と人がある場合
         money = {}; people = {}
         for r in rs:
