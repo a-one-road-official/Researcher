@@ -64,6 +64,10 @@ MEDIA = {
     "工場ワークス": "factory-works.jp", "工場求人ナビ": "job-con.jp",
 }
 PORTALS = set(MEDIA.values()) | {
+    "yelp.com", "yelp.co.jp", "compalyze.co.jp", "ipros.com", "tsujigawa.com", "yellowpages.net", "sanyonews.jp",
+    "chugoku-np.co.jp", "ehime-np.co.jp", "shikoku-np.co.jp", "lg.jp", "go.jp", "or.jp", "chuokai", "jobhakase.com", "bizmap.jp",
+    "jpnumber.com", "townpage", "biz-maps.com", "nikkan.co.jp", "zenkoku-houjin", "sokuho", "ekiten.jp", "goo.ne.jp", "jp.indeed.com",
+    "stanby.com", "kyujinbox.com", "en-japan.com", "rikunabi.com", "doda.jp", "mynavi.jp", "wantedly.com", "hellowork",
     "itp.ne.jp", "baseconnect.in", "houjin.info", "houjin-bangou.nta.go.jp", "en-hyouban.com", "openwork.jp",
     "wikipedia.org", "facebook.com", "instagram.com", "x.com", "twitter.com", "youtube.com", "linkedin.com",
     "mapion.co.jp", "navitime.co.jp", "google.com", "yahoo.co.jp", "kaisharesearch.com", "salesnow.jp",
@@ -72,7 +76,9 @@ PORTALS = set(MEDIA.values()) | {
 NOT_COMPANY = re.compile(r"マイナビ|リクルート|パーソル|インディード|Indeed|ウォンテッド|エン・ジャパン|ディップ|ハローワーク|"
                          r"大学|高専|学校|銀行|信用金庫|信金|証券|保険|新聞|放送|テレビ|商工会|会議所|協会|組合|財団|機構|"
                          r"市役所|県庁|NTT|タウンページ|ヤフー|グーグル|楽天|求人|人材|派遣|紹介|コンサル|不動産|ホテル|病院|"
-                         r"薬局|歯科|介護|保育|建設|工務店|住宅|塗装店|運輸|運送|物流|商事|商店|販売|ショップ")
+                         r"薬局|歯科|介護|保育|建設|工務店|住宅|塗装店|運輸|運送|物流|商事|商店|販売|ショップ|"
+                         r"不要|歓迎|募集|未経験|経験者|年収|月給|時給|日給|賞与|土日|週休|残業|応募|自己PR|志望動機|面接|勤務|正社員|"
+                         r"ソーシング|アウトソーシング|契約社員|アルバイト|パート|新着|会社情報|会社概要|採用情報|企業情報|特集|一覧|ランキング|おすすめ|まとめ|求人票|OK|ＯＫ")
 CORP = r"(?:株式会社|有限会社|合同会社|㈱|㈲|\(株\)|（株）|\(有\)|（有）)"
 NAME_CHARS = r"[一-龥ぁ-んァ-ヶーA-Za-zＡ-Ｚａ-ｚ0-9０-９・&＆\-]"
 NAME_RX = re.compile(rf"{CORP}\s?({NAME_CHARS}{{2,18}})|({NAME_CHARS}{{2,18}})\s?{CORP}")
@@ -94,7 +100,18 @@ def _host(url: str) -> str:
 
 def _is_portal(url: str) -> bool:
     h = _host(url)
+    if h in ("t.co", "bit.ly") or h.startswith(("pref.", "www.pref.", "city.", "www.city.", "town.", "www.town.")) or h.endswith((".ac.jp", ".ed.jp", ".lg.jp", ".go.jp")):
+        return True
     return any(p in h for p in PORTALS)
+
+
+def _listed() -> set:
+    """上場企業（out/ir1000/screen.csv の全上場一覧）。中小の一覧から外す。"""
+    f = ROOT / "out" / "ir1000" / "screen.csv"
+    if not f.exists():
+        return set()
+    with open(f, encoding="utf-8") as fh:
+        return {norm(r["name"]) for r in csv.DictReader(fh)}
 
 
 def norm(name: str) -> str:
@@ -108,6 +125,8 @@ def names_in(text: str) -> list[str]:
     out = []
     for m in NAME_RX.finditer(text or ""):
         core = norm(m.group(1) or m.group(2) or "")
+        if core in TRADES or core in MFG_WORDS or core.endswith(("業", "業界")) and len(core) <= 4:
+            continue
         if len(core) < 2 or NOT_COMPANY.search(core) or re.fullmatch(r"[0-9A-Za-z\-]+", core) and len(core) < 3:
             continue
         out.append(core)
@@ -300,23 +319,44 @@ def check_names(deadline: float) -> bool:
         with open(CHECKED, encoding="utf-8") as f:
             done = {(r["name"], r["pref"]): r for r in csv.DictReader(f)}
     finished = True
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+    todo = []
+    for r in names:
+        k = (r["name"], r["pref"])
+        prev = done.get(k)
+        if prev and (prev["status"] in ("ok", "not_mfg", "pref_mismatch", "not_company") or prev.get("tries") == "2"):
+            continue
+        todo.append(r)
+
+    def _one(r):
+        k = (r["name"], r["pref"])
+        prev = done.get(k)
+        try:
+            rec = check_one(*k)
+            for u in (r.get("source_urls") or "").split():
+                if not _is_portal(u) and _host(u):
+                    rec["official_url"] = f"{urlparse(u).scheme or 'https'}://{_host(u)}/"
+                    break
+        except Exception as e:  # 1社の失敗で全体を止めない
+            rec = {**{f: "" for f in CHECK_FIELDS}, "name": k[0], "pref": k[1], "status": f"error:{type(e).__name__}"}
+        rec["tries"] = str(int((prev or {}).get("tries") or 0) + 1)
+        return k, rec
+
     try:
-        for r in names:
-            k = (r["name"], r["pref"])
-            prev = done.get(k)
-            if prev and (prev["status"] in ("ok", "not_mfg", "pref_mismatch") or prev.get("tries") == "2"):
-                continue
-            if time.monotonic() > deadline:
-                finished = False
-                break
-            try:
-                rec = check_one(*k)
-            except Exception as e:  # 1社の失敗で全体を止めない
-                rec = {**{f: "" for f in CHECK_FIELDS}, "name": k[0], "pref": k[1], "status": f"error:{type(e).__name__}"}
-            rec["tries"] = str(int((prev or {}).get("tries") or 0) + 1)
-            done[k] = rec
-            if len(done) % 50 == 0:
-                print(f"checked {len(done)}", flush=True)
+        with ThreadPoolExecutor(max_workers=8) as ex:
+            futs = []
+            for r in todo:
+                if time.monotonic() > deadline:
+                    finished = False
+                    break
+                futs.append(ex.submit(_one, r))
+            for fu in as_completed(futs):
+                k, rec = fu.result()
+                done[k] = rec
+                if len(done) % 50 == 0:
+                    print(f"checked {len(done)}", flush=True)
+        if time.monotonic() > deadline:
+            finished = False
     finally:
         with open(CHECKED, "w", newline="", encoding="utf-8") as f:
             w = csv.DictWriter(f, fieldnames=CHECK_FIELDS)
@@ -326,14 +366,28 @@ def check_names(deadline: float) -> bool:
     return finished
 
 
-def write_outputs() -> None:
+def write_outputs(finished: bool = True) -> None:
     with open(CHECKED, encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
     src = {}
     with open(NAMES, encoding="utf-8") as f:
         for r in csv.DictReader(f):
             src[(r["name"], r["pref"])] = r
-    ok = [r for r in rows if r["status"] == "ok"]
+    for r in rows:
+        if r["status"] == "ok" and (not r.get("official_url") or _is_portal(r["official_url"])):
+            r["official_url"] = ""
+            for u in (src.get((r["name"], r["pref"]), {}).get("source_urls") or "").split():
+                if not _is_portal(u) and _host(u):
+                    r["official_url"] = f"{urlparse(u).scheme or 'https'}://{_host(u)}/"
+                    break
+        if r["status"] == "ok" and (r["name"] in TRADES or r["name"] in MFG_WORDS or NOT_COMPANY.search(r["name"])):
+            r["status"] = "not_company"
+    def _big(r):
+        e = int(r["employees"]) if (r.get("employees") or "").isdigit() else 0
+        c = int(r["capital_man"]) if (r.get("capital_man") or "").isdigit() else 0
+        return e > 300 and c > 30000 or e > 1000 or c > 100000
+    listed = _listed()
+    ok = [r for r in rows if r["status"] == "ok" and r.get("official_url") and not _is_portal(r["official_url"]) and not _big(r) and norm(r["name"]) not in listed]
     # 同じ会社が県違いで重複したら、出典の多い方を残す
     best: dict[str, dict] = {}
     for r in ok:
@@ -378,7 +432,8 @@ def write_outputs() -> None:
         bands = Counter("〜19" if e < 20 else "20〜99" if e < 100 else "100〜299" if e < 300 else "300〜" for e in emp)
         lines += ["", "## 従業員数（取れた会社だけ）", ""] + [f"- {k}名: {bands.get(k, 0)}社" for k in ["〜19", "20〜99", "100〜299", "300〜"]]
     (OUT / "stats.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
-    (OUT / "BUILD_DONE").write_text(f"{len(ok)}\n", encoding="utf-8")
+    if finished:
+        (OUT / "BUILD_DONE").write_text(f"{len(ok)}\n", encoding="utf-8")
     print(f"setouchi_mfg: {len(ok)} manufacturers written", flush=True)
 
 
@@ -387,8 +442,7 @@ def main(deadline_s: float = 4 * 3600) -> int:
     if not collect_names(deadline):
         print("names: time up, continue next run", flush=True)
         return 0
-    if check_names(deadline):
-        write_outputs()
+    write_outputs(check_names(deadline))
     return 0
 
 

@@ -26,8 +26,15 @@ def main() -> int:
             continue
         b = load_topic(name).get("build")
         if b and not (ROOT / "out" / name / "BUILD_DONE").exists():
-            total += 1  # list still being built: keep the loop alive, research nothing yet
-            continue
+            total += 1  # list still being built: keep the loop alive
+            # 一覧づくりが途中でも、照合済みの分があれば先に会社の調査を回す（全件待ちで止めない）
+            inp = ROOT / (load_topic(name).get("input") or "").replace("researcher/", "", 1)
+            try:
+                has_rows = inp.exists() and sum(1 for _ in open(inp, encoding="utf-8-sig")) > 1
+            except Exception:
+                has_rows = False
+            if not has_rows:
+                continue
         left = remaining(name)
         total += left
         if left == 0:

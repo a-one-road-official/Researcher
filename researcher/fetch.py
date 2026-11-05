@@ -10,7 +10,17 @@ import subprocess
 import tempfile
 import time
 import urllib.robotparser
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin
+from urllib.parse import urlparse as _safe_urlparse
+
+
+def urlparse(u):
+    """全角記号などで urlparse が落ちる URL（例：netloc に「＃」）を空として扱う。"""
+    try:
+        return _safe_urlparse(u)
+    except ValueError:
+        return _safe_urlparse("")
+
 
 import requests
 from bs4 import BeautifulSoup

@@ -21,7 +21,16 @@ import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse as _safe_urlparse
+
+
+def urlparse(u):
+    """全角記号などで urlparse が落ちる URL（例：netloc に「＃」）を空として扱う。"""
+    try:
+        return _safe_urlparse(u)
+    except ValueError:
+        return _safe_urlparse("")
+
 
 import yaml
 
