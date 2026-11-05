@@ -1275,7 +1275,7 @@
   - 「９ 調査結果の」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ また、工業統計調査においては、市区町村別結果等の詳細集計や個人経営事業所」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ これに基づき、乙調査の位置づけについて検討を行った結果、①甲調査という産業」（https://www.soumu.go.jp/main_content/000744047.pdf）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
 
 ## エキスパートや調査会社のリサーチャーが書いた調べ方のブログ（professional researcher blog research techniques）
 - 文脈：凄腕・実務
@@ -1536,6 +1536,8 @@
   - 「United Press International. (2001, September 7). P&G, Unilever settle corporate spying case. UPI Archives.」（https://note.com/everprogress/n/nde8351a93d60）
 - 検索結果の抜粋：
   - 「Analytic Standards - DNI .gov — Analytic Standards - DNI .gov DNI.gov PDF https://archive.dni.gov > documents > ICD > ICD-203」（https://archive.dni.gov/files/documents/ICD/ICD-203.pdf）
+  - 「5つの「Analytic Standards」｜データ分析とインテリジェンス — Jul 13, 2026 · 資料をあさっていたら、こんなものを見つけた。 米国のODNI（Office of the Director of National Intelligence、国家情報長官室）が出しているICD 203（Intelligence Community Directive 203）、副題は「Analytic Standards」、分析基準だ。」（https://note.com/shinu/n/n92a701e0f992）
+  - 「Alexandru Marcoci, Ans Vercammen and Mark Burgman] ODNI as an ... — Director of National Intelligence (ODNI) charged with ensuring that intelligence reports from across the IC comply with these standards. ICD203 (in its second, January 2, 2015 iteration) contains four analytic standards: objectivity, political independence, timeliness and good tradecraft. The last is broken down into nine analytic」（https://researchonline.lse.ac.uk/id/eprint/90562/1/Marcoci_ODNI+as+analytic+ombudsman_2018.pdf）
 
 ## 調査会社の市場規模推計の食い違いと見分け方（market research report estimates discrepancy how to evaluate）
 - 文脈：突き合わせ
@@ -1798,7 +1800,7 @@
   - 「仮説検証の考え方や手順について！ポイント・注意点まで詳しく解説」（https://sherpaworks.jp/sherpa/backcast/）
 - 実例：
   - 「結果として、社員の士気を向上させ、離職率を下げることにつながります」（https://sherpaworks.jp/sherpa/backcast/）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
 
 ## 有価証券報告書の設備の状況・セグメント情報・将来見通しの読み方（reading annual report capex plan segment forward-looking statement）
 - 文脈：企業
