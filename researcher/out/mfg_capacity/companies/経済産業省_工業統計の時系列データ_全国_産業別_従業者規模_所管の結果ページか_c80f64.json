@@ -1,0 +1,603 @@
+{
+ "name": "経済産業省 工業統計の時系列データ（全国・産業別×従業者規模・所管の結果ページから直接）",
+ "en": "METI census of manufactures time series by industry and size",
+ "aliases": [
+  "工業統計 時系列 産業別 従業者規模別",
+  "工業統計 長期時系列 加工賃収入額",
+  "工業統計アーカイブス 産業別統計表"
+ ],
+ "context": "全体・規模別",
+ "kind": "market",
+ "researched_at": "2026-11-05T10:44:50.190182+00:00",
+ "evidence": {
+  "10年推移": [
+   {
+    "quote": "長期時系列データ（主要統計表）（昭和55年以降）",
+    "url": "https://www.meti.go.jp/statistics/toppage/jikeiretsu/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日：2025年1月8日",
+    "url": "https://www.meti.go.jp/statistics/toppage/jikeiretsu/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは時系列データを中心として、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "時系列データ｜商業統計（METI/経済産業省）",
+    "url": "https://www.meti.go.jp/statistics/tyo/syougyo/result-2/jikei.html",
+    "pass": 3
+   },
+   {
+    "quote": "時系列データ｜商業動態統計（METI/経済産業省）",
+    "url": "https://www.meti.go.jp/statistics/tyo/syoudou/result-2/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "参考 長期時系列データ（主要統計表）（XLSX/KB）のダウンロードはこちら",
+    "url": "https://www.meti.go.jp/statistics/tyo/syoudou/result-2/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（注３）2023年4月分より、【家電大型専門店商品別販売額等及び前年（度、同期、同月）比】の商品分類表記は",
+    "url": "https://www.meti.go.jp/statistics/tyo/syoudou/result-2/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年（2024年度実績）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kikatu/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年（2023年度実績）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kikatu/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年（2022年度実績）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kikatu/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年（2021年度実績）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kikatu/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（2020年度実績）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kikatu/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年（2019年度実績）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kikatu/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年（平成30年度実績）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kikatu/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成11年（平成10年度実績）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kikatu/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成10年（平成 9年度実績）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kikatu/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成4、7～10年",
+    "url": "https://www.meti.go.jp/statistics/tyo/kikatu/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成10年調査（9年度実績）に飲食店を追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kikatu/result-2.html",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "【従業者4人以上の事業所の統計表】",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "【従業者10人以上の事業所の統計表】",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "【産業細分類別統計表 (従業者4、10、30人以上の事業所)】",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "◆【従業者4人以上の事業所の統計表】",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "◆【従業者30人以上の事業所の統計表】",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "◆【従業者4人以上の企業または事業所の統計表】",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2000.11.10 従業者10人以上の統計表（主要項目統計表、産業中分類・都道府県別統計表、産業細分類別統計表）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数、年間商品販売額、商品手持額、売場面積 (XLS/416KB)",
+    "url": "https://www.meti.go.jp/statistics/tyo/syougyo/result-2/jikei.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数、年間商品販売額、商品手持額、売場面積 (XLS/199KB)",
+    "url": "https://www.meti.go.jp/statistics/tyo/syougyo/result-2/jikei.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数、年間商品販売額、売場面積 (XLS/128KB)",
+    "url": "https://www.meti.go.jp/statistics/tyo/syougyo/result-2/jikei.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、就業者数、従業者数、年間商品販売額、売場面積 (XLS/248KB)",
+    "url": "https://www.meti.go.jp/statistics/tyo/syougyo/result-2/jikei.html",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "2007.01.19 企業統計編「シート（事）主要項目」の金額単位表記ミスの修正（万円→百万円）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2003.08.25 用地・用水編データ一部単位ミスの修正（I列197行目～204行目が億円→百万円に訂正）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2000.10.20 産業中分類別生産額データ、産業細分類（4桁）別統計表データの追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/index.html",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "2007.01.19 企業統計編「シート（事）主要項目」の金額単位表記ミスの修正（万円→百万円）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2003.08.25 用地・用水編データ一部単位ミスの修正（I列197行目～204行目が億円→百万円に訂正）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/index.html",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "事業所数、従業者数、年間商品販売額、商品手持額、売場面積 (XLS/416KB)",
+    "url": "https://www.meti.go.jp/statistics/tyo/syougyo/result-2/jikei.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数、年間商品販売額、商品手持額、売場面積 (XLS/199KB)",
+    "url": "https://www.meti.go.jp/statistics/tyo/syougyo/result-2/jikei.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数、年間商品販売額、売場面積 (XLS/128KB)",
+    "url": "https://www.meti.go.jp/statistics/tyo/syougyo/result-2/jikei.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、就業者数、従業者数、年間商品販売額、売場面積 (XLS/248KB)",
+    "url": "https://www.meti.go.jp/statistics/tyo/syougyo/result-2/jikei.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/toppage/jikeiretsu/index.html",
+    "status": "ok",
+    "method": "http:seed"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/index.html",
+    "status": "ok",
+    "method": "http:seed-link"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/syougyo/result-2/jikei.html",
+    "status": "ok",
+    "method": "http:seed-link"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/syoudou/result-2/index.html",
+    "status": "ok",
+    "method": "http:seed-link"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kikatu/result-2.html",
+    "status": "ok",
+    "method": "http:seed-link"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "browser:seed"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022692&tclass2=000001067928&result_page=1&tclass3val=0&statdisp_id=0003244963",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/chosakai-backnumber.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-2.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/36.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003448117",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/seidou/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/nenkan/1431-09e.htm",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済産業省 工業統計の時系列データ（全国・産業別×従業者規模・所管の結果ページから直接）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.meti.go.jp/statistics/toppage/jikeiretsu/index.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html"
+   ]
+  },
+  {
+   "query": "経済産業省 工業統計の時系列データ（全国・産業別×従業者規模・所管の結果ページから直接） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html"
+   ]
+  },
+  {
+   "query": "経済産業省 工業統計の時系列データ（全国・産業別×従業者規模・所管の結果ページから直接） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022692&tclass2=000001067928&result_page=1&tclass3val=0&statdisp_id=0003244963",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "http://www.etisa.or.jp/chosakai-backnumber.pdf"
+   ]
+  },
+  {
+   "query": "経済産業省 工業統計の時系列データ（全国・産業別×従業者規模・所管の結果ページから直接） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "https://www.jagat.or.jp/archives/99010"
+   ]
+  },
+  {
+   "query": "経済産業省 工業統計の時系列データ（全国・産業別×従業者規模・所管の結果ページから直接） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022692&tclass2=000001067928&result_page=1&tclass3val=0&statdisp_id=0003244963",
+    "https://www.meti.go.jp/statistics/",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/36.pdf"
+   ]
+  },
+  {
+   "query": "経済産業省 工業統計の時系列データ（全国・産業別×従業者規模・所管の結果ページから直接） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/dbview?sid=0003448117",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/statistics/toppage/jikeiretsu/index.html"
+   ]
+  },
+  {
+   "query": "経済産業省 工業統計の時系列データ（全国・産業別×従業者規模・所管の結果ページから直接） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022692&tclass2=000001067928&result_page=1&tclass3val=0&statdisp_id=0003244963",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.meti.go.jp/statistics/toppage/jikeiretsu/index.html"
+   ]
+  },
+  {
+   "query": "METI census of manufactures time series by industry and size Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.meti.go.jp/english/statistics/tyo/seidou/index.html",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://www.stat.go.jp/english/data/nenkan/1431-09e.htm",
+    "https://www.census.gov/econ_datasets/",
+    "https://d-infra.ier.hit-u.ac.jp/English/ltes/a000.html",
+    "https://www.meti.go.jp/english/statistics/tyo/census/index.html",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ]
+  },
+  {
+   "query": "site:note.com 経済産業省 工業統計の時系列データ（全国・産業別×従業者規模・所管の結果ページから直接）",
+   "results": [
+    "https://note.com/loyal_ivy9071/n/ned59bf0c9cbd",
+    "https://note.com/loyal_ivy9071/n/nf6656a048090",
+    "https://note.com/africanist/n/nd3a171aa8658",
+    "https://note.com/roumulabo/n/n72f5646f2ae9",
+    "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "https://note.com/platypus2000jp/n/n4fde6159b25f",
+    "https://note.com/loyal_ivy9071/n/n83a9601dab82",
+    "https://note.com/mmy282102/n/n56ea8c4b93b5",
+    "https://note.com/dakudhigura/n/ncad1549866ac",
+    "https://note.com/torosaku/n/na7c8cdab2ee9"
+   ]
+  },
+  {
+   "query": "site:x.com 経済産業省 工業統計の時系列データ（全国・産業別×従業者規模・所管の結果ページから直接）",
+   "results": [
+    "https://x.com/meti_NIPPON/status/2097645899564581300",
+    "https://x.com/meti_NIPPON",
+    "https://x.com/meti_NIPPON/status/1907032035689996327",
+    "https://x.com/OgawaSeisakusho/status/2101838401943323059",
+    "https://x.com/okayokay0214/status/2090236763600207922",
+    "https://x.com/OgawaSeisakusho/status/2100329360326811983",
+    "https://x.com/Yoshihiko_ICKW/status/2024167988946227460"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 経済産業省 工業統計の時系列データ（全国・産業別×従業者規模・所管の結果ページから直接）",
+   "results": [
+    "https://www.linkedin.com/company/経済産業省",
+    "https://jp.linkedin.com/in/tomoshige-nambu-96834933",
+    "https://www.linkedin.com/jobs/経済産業省-7月16日-イベント-jobs?f_AL=true",
+    "https://business.linkedin.com/hire/talent-insights",
+    "https://www.linkedin.com/posts/katsuaki-ishido-046b033b_経済産業省のwebサイトmeti経済産業省-activity-7109808006632022017-3qzW",
+    "https://jp.linkedin.com/in/hiroakimachii565",
+    "https://jp.linkedin.com/pulse/mastering-time-series-analysis-from-scratch-data-anello-marcucci-z8pbf?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 経済産業省 工業統計の時系列データ（全国・産業別×従業者規模・所管の結果ページから直接）",
+   "results": [
+    "https://www.facebook.com/joshrc2020/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-10月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計し/1485580476904104/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-4月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1651323080329842/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-6月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1374119468050206/",
+    "https://www.facebook.com/Japan.RIETI/posts/bblセミナー動画2025年版中小企業白書小規模企業白書についてスピーカー岡田-陽rietiコンサルティングフェロー-経済産業省中小企業庁事業環境部-調査室長コ/1089087416583834/",
+    "https://www.facebook.com/KankyoJpn.gov/posts/環境省は環境産業の市場規模雇用規模等の推計結果をまとめた環境産業の市場規模雇用規模等に関する報告書を毎年公表していますこの度令和７年度報告書2024年調査結果を/1348211457402361/",
+    "https://www.facebook.com/motokokuzei/posts/混乱しがちな従業者の数の判定法人住民税法人事業税の分割基準と法人住民税の均等割の計算で細かいところが変わりますこの点先日の月刊税務ｑａ２０２０年５月号にまとめら/2803356233125330/"
+   ]
+  },
+  {
+   "query": "経済産業省 工業統計の時系列データ（全国・産業別×従業者規模・所管の結果ページから直接） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.meti.go.jp/statistics/toppage/jikeiretsu/index.html"
+   ]
+  },
+  {
+   "query": "経済産業省 工業統計の時系列データ（全国・産業別×従業者規模・所管の結果ページから直接） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "https://www.meti.go.jp/statistics/toppage/jikeiretsu/index.html",
+    "https://x.com/meti_NIPPON",
+    "https://www.rieti.go.jp/jp/publications/nts/25j022.html"
+   ]
+  },
+  {
+   "query": "METI census of manufactures time series by industry and size site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/sachinshah04_draft-ot-security-guidelines-for-semiconductor-activity-7393131021661081600-O1Wh",
+    "https://www.linkedin.com/pulse/examining-japan-heavy-machinery-market-manufacturing-segments-er8we",
+    "https://www.linkedin.com/in/tejameti",
+    "https://www.linkedin.com/posts/gankimyong_marking-a-new-chapter-for-the-ministry-of-activity-7511257293100023808-sVoQ",
+    "https://in.linkedin.com/in/vinod-kumar-v-meti-512ab415",
+    "https://www.linkedin.com/posts/joakim-sorelius_ericsson-japan-innovation-activity-7511612805209468928-p6t3",
+    "https://www.linkedin.com/in/keisuke-tsujimoto-71896735",
+    "https://www.linkedin.com/in/satoshi-takagi-80947416",
+    "https://in.linkedin.com/company/mysore-embedded-technology-institute",
+    "https://www.linkedin.com/in/japanbusiness"
+   ]
+  }
+ ],
+ "missing": {
+  "生産能力・設備": "記載なし（読んだ34頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ34頁・検索15回）"
+ }
+}

@@ -1,0 +1,965 @@
+{
+ "name": "工業統計・経済センサスの比較の注意（調査年と実績年・裾切り・臨時雇用者の扱い）",
+ "en": "comparability notes census of manufactures economic census Japan",
+ "aliases": [
+  "工業統計 Q&A 実績年 調査年",
+  "工業統計 経済センサス 比較 注意 従業者4人以上",
+  "工業統計 経済構造実態調査 接続 時系列 注意"
+ ],
+ "context": "定義",
+ "kind": "market",
+ "researched_at": "2026-11-05T10:45:12.633383+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "なお、従業者３０人以上の事業所を対象としている甲調査票と従業者４～２９人以下の事業所を対象としている乙調査票の２種類によって調査を実施しております",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "準備調査は、すべての事業所に対して調査員が訪問する方法により、本調査の対象となる従業者４人以上の事業所を把握します",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "回答：調査の対象となる事業所は、統計法（平成19年法律第53号）第２条第９項に規定する統計基準である日本標準産業分類に掲げる大分類Ｅ－製業業に属する事業所のうち、従業者４人以上の事業所が対象となります",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、従業者３人以下の事業所についても、準備調査として、各都道府県知事が任命した調査員が事業所の名称、従業者数などを確認するため、事業所に訪問します",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "１．農業・林業に属する個人経営の事業所",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "２．漁業に属する個人経営の事業所",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "支社等を有する企業、単独事業所（純粋持株会社、不動産投資法人及び資本金1億円以上等）が対象です",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "単独事業所（純粋持株会社、不動産投資法人及び資本金1億円以上等を除く）及び新設の事業所が対象です",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅱ 調査結果の概要（従業者４人以上の事業所）",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅲ 統 計 表（従業者４人以上の事業所）",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（６）調査事項 名称及び電話番号、所在地、経営組織、従業者数、人件費及び",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・従業者４人以上の事業所であること",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年６月 1 日現在で、当該事業所で働いている人数",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、事業所数、従業者数については、令和３年経済",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２） 令和３年経済センサス‐活動調査においては、個人経営を含まない集計結果",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３） 従業者数、付加価値額の項目は、工業統計調査の集計における定義に合わせ",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（６） 調査対象事業所は、「国税庁法人番号公表サイト」情報から、過去の調査で",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅱ 調査結果の概要 （従業者４人以上の事業所）",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "09. ２０１９年中に評価替えを行い、有形固定資産の価額が減少した",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、資産価額を増加させるような修繕については、１０項の「有形固定資産」の価額の増加分を「取得額」に記入してください",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "２０１９年中に評価替えを行い、有形固定資産の価額が減少した",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "回答：「除却・売却による減少額」には記入せず、備考欄に「２０１９年中に有形固定資産の評価替えを行った",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "09. ２０１９年中に評価替えを行い、有形固定資産の価額が減少した",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "この場合、その減少分を「除却・売却による減少額」に記入すればいいですか？",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、資産価額を増加させるような修繕については、１０項の「有形固定資産」の価額の増加分を「取得額」に記入してください",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "２０１９年中に評価替えを行い、有形固定資産の価額が減少した",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "この場合、その減少分を「除却・売却による減少額」に記入すればいいのか？",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "回答：「除却・売却による減少額」には記入せず、備考欄に「２０１９年中に有形固定資産の評価替えを行った",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日：2021.03.01",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査の廃止のお知らせ（2022年4月1日）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "※2022年以降は",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 8月25日 「2020年確報 地域別統計表」の公表について",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 8月25日 「2020年確報 品目別統計表」の公表について",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 8月13日 「2020年確報 産業別統計表」の公表について",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 5月28日 「2020年産業別統計表（概要版）」の公表について",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 3月26日 「2020年速報」の公表について",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日：2023.05.12",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日：2022年9月30日",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2025.12.25）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2024.8.9）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2024.6.25）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2024.6.14）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2023.12.15）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2023.9.25）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2023.7.3）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2023.6.27）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2023.3.28）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2022.12.26）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2022.9.30）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2022.5.31）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "版）は、「工業統計調査」と時系列比較を行うために、令和３年",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "H27(2015)年 H28年経済センサス H28年6月1日現在 H27年1月〜12月",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "H28(2016)年 H29年工業統計 H29年6月1日現在 H28年1月〜12月",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "H29(2017)年 H30年工業統計 H30年6月1日現在 H29年1月〜12月",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "H30(2018)年 R元年工業統計 R元年6月1日現在 H30年1月〜12月",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "R元(2019)年 R２年工業統計 R２年6月1日現在 H31年1月〜R元年12月",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "R２(2020)年 R３年経済センサス R３年6月1日現在 R２年1月〜12月",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "集計結果の時系列比較を行う際は、十分に留意が必要である",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 事業所数は、3,234 事業所で、前年に比べ 2.8％(87 事業所)増加した",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 従業者数は、147,627 人で、前年に比べ 2.3％(3,429 人)減少した",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 付加価値額は、1 兆 7,688 億 8 百万円で、前年に比べ 2.0％（357 億 78 百万円）減少",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "岡山県における主要項目の推移（指数：平成２７年＝１００）",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●事業所数、従業者数、製造品出荷額等、付加価値額の推移",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：令和元年は2020年工業統計調査、令和2年は令和3年経済センサス-活動調査の数値である",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "実 数 実 数 前年比 実 数 実 数 前年比 実 数 実 数 前年比",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "なお、工業調査票乙に記入する場合は、９項の「原材料、燃料、電力の使用量、委託生産費、製造等に関連する外注費及び転売した商品の仕入れ額の合計金額（年間）」に記入してください",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ｅ工場から買い取った製品の価額は「転売した商品の仕入額」に記入してください（工業調査票乙に記入する場合は、９項の「原材料、燃料、電力の使用量、委託生産費、製造等に関連する外注費及び転売した商品の仕入れ額の合計金額（年間）」に記入してください）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "回答：外注により行った修繕の費用は、９項の「製造等に関連する外注費」に記入してください（工業調査票乙に記入する場合は、９項の「原材料、燃料、電力の使用量、委託生産費、製造等に関連する外注費及び転売した商品の仕入れ額の合計金額（年間）」に記入してください）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "費、製造等に関連する外注費及び転売した商品の仕入額の合計で、消費税額を",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "支社等を有する企業、単独事業所（純粋持株会社、不動産投資法人及び資本金1億円以上等）が対象です",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "単独事業所（純粋持株会社、不動産投資法人及び資本金1億円以上等を除く）及び新設の事業所が対象です",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "統計調査に従事する者には統計法により守秘義務が課せられており、違反した場合には罰則（２年以下の懲役又は100万円以下の罰金）が設けられています",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和２年１年間における製造品出荷額、加工賃収入額、製造工程から出たく",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１） 調査結果のうち、製造品出荷額等、付加価値額については、表示年次におけ",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（４） 製造品出荷額等の経理事項については、原則消費税込みで把握しているが、",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 製造品出荷額等は、7 兆 601 億 38 百万円で、前年に比べ 8.4％(6,439 億 98 百万円)",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 付加価値額は、1 兆 7,688 億 8 百万円で、前年に比べ 2.0％（357 億 78 百万円）減少",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２：令和 2 年の製造品出荷額等及び付加価値額は令和 2 年中の年間額、事業所数及び従業者数は令和 3 年 6 月 1 日現",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "統計調査に従事する者には統計法により守秘義務が課せられており、違反した場合には罰則（２年以下の懲役又は100万円以下の罰金）が設けられています",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "（１） 調査結果のうち、製造品出荷額等、付加価値額については、表示年次におけ",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３） 従業者数、付加価値額の項目は、工業統計調査の集計における定義に合わせ",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 製造品出荷額等は、7 兆 601 億 38 百万円で、前年に比べ 8.4％(6,439 億 98 百万円)",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 付加価値額は、1 兆 7,688 億 8 百万円で、前年に比べ 2.0％（357 億 78 百万円）減少",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２：令和 2 年の製造品出荷額等及び付加価値額は令和 2 年中の年間額、事業所数及び従業者数は令和 3 年 6 月 1 日現",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 付加価値額は、輸送用機械器具（構成比 14.6%）、化学工業(同 14.3%)、食料品（同",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２：「※」従業者４～２９人の事業所については、粗付加価値額である",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注３：平成27年の現金給与総額、製造品出荷額等、原材料使用額等及び付加価値額については、個人経営調査票",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注４：「※」従業者４～２９人の事業所については、粗付加価値額である",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "また、事業所数、従業者数については、令和３年経済",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、平成 28 年経済センサス‐活動調査においては、事業所数、従業",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 事業所数は、3,234 事業所で、前年に比べ 2.8％(87 事業所)増加した",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２：令和 2 年の製造品出荷額等及び付加価値額は令和 2 年中の年間額、事業所数及び従業者数は令和 3 年 6 月 1 日現",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注４：事業所数及び従業者数について、平成23年は平成24年2月1日現在、平成27年から令和2年はそれぞ れ翌年の",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 事業所数は、繊維工業(構成比 12.7%)、金属製品(同 10.9%)、生産用機械器具(同",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２：事業所数及び従業者数：平成23年は平成24年2月1日現在の数値、平成24年から平成26年までは各 該当年の",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１表 年次別 事業所数、従業者数、現金給与総額、",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２：事業所数及び従業者数は、翌年6月1日現在の数値、それ以外の項目は当年1年間の数値である",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模 令和２年 令和２年",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３表 従業者規模別 事業所数、従業者数、",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 産業中分類別 事業所数、従業者数、",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html",
+    "status": "ok",
+    "method": "http:seed"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http:seed-link"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/qa.html",
+    "status": "ok",
+    "method": "http:seed"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "status": "ok",
+    "method": "http:seed-link"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou29_d/fil/riyou_chui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep23/0information.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.okinawa.jp/toukeika/cm/23/k/info.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/keizai-census/h21-chuui.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.daisen.lg.jp/open-data/dataset/?tags=%E7%B5%8C%E6%B8%88%E3%82%BB%E3%83%B3%E3%82%B5%E3%82%B9&tags=%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88&license_id=cc-by&res_format=CSV&organization=sougou",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/33380",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/seizou-3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.okayama.jp/shisei/0000016514.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001022686",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-1.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.osaka.lg.jp/toshikeikaku/page/0000607232.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.okayama.jp/page/813189.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/sna/sna_9/siryou_3-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2024/kekka.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/guide/about/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unescap.org/sites/default/d8files/event-documents/CST2-INF14_ENG_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.census.gov/programs-surveys/asm.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://guides.library.georgetown.edu/c.php?g=75621&p=487531",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計・経済センサスの比較の注意（調査年と実績年・裾切り・臨時雇用者の扱い）",
+   "results": [
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou29_d/fil/riyou_chui.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep23/0information.htm",
+    "https://www.pref.okinawa.jp/toukeika/cm/23/k/info.pdf",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/keizai-census/h21-chuui.html",
+    "https://www.city.daisen.lg.jp/open-data/dataset/?tags=%E7%B5%8C%E6%B8%88%E3%82%BB%E3%83%B3%E3%82%B5%E3%82%B9&tags=%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88&license_id=cc-by&res_format=CSV&organization=sougou",
+    "https://www.jagat.or.jp/archives/33380",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html"
+   ]
+  },
+  {
+   "query": "工業統計・経済センサスの比較の注意（調査年と実績年・裾切り・臨時雇用者の扱い） 推移",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "https://www.city.naruto.lg.jp/docs/2026040100065/file_contents/33_34.pdf",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "https://www.jagat.or.jp/archives/33380",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html"
+   ]
+  },
+  {
+   "query": "工業統計・経済センサスの比較の注意（調査年と実績年・裾切り・臨時雇用者の扱い） 統計 PDF",
+   "results": [
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou29_d/fil/riyou_chui.pdf",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "https://www.pref.aichi.jp/soshiki/toukei/seizou-3.html",
+    "https://www.city.okayama.jp/shisei/0000016514.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html"
+   ]
+  },
+  {
+   "query": "工業統計・経済センサスの比較の注意（調査年と実績年・裾切り・臨時雇用者の扱い） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou29_d/fil/riyou_chui.pdf",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/2019kougyou-kakuhou.html",
+    "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "https://www.jagat.or.jp/archives/99010"
+   ]
+  },
+  {
+   "query": "工業統計・経済センサスの比較の注意（調査年と実績年・裾切り・臨時雇用者の扱い） 従業者規模別",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.city.osaka.lg.jp/toshikeikaku/page/0000607232.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.jagat.or.jp/archives/33380",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.meti.go.jp/statistics/",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html"
+   ]
+  },
+  {
+   "query": "工業統計・経済センサスの比較の注意（調査年と実績年・裾切り・臨時雇用者の扱い） 1人当たり 万円",
+   "results": [
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep23/0information.htm",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.stat.go.jp/data/e-census/2026/gaiyo.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.jagat.or.jp/archives/33380",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.pref.okayama.jp/page/813189.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html"
+   ]
+  },
+  {
+   "query": "工業統計・経済センサスの比較の注意（調査年と実績年・裾切り・臨時雇用者の扱い） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "https://www.jagat.or.jp/archives/33380",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.city.asahikawa.hokkaido.jp/700/701/705/p007234_d/fil/61-3keisen-seizougyo.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/qa.html"
+   ]
+  },
+  {
+   "query": "comparability notes census of manufactures economic census Japan Japan statistics",
+   "results": [
+    "https://www.stat.go.jp/english/data/e-census/",
+    "https://www.unescap.org/sites/default/d8files/event-documents/CST2-INF14_ENG_0.pdf",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.census.gov/programs-surveys/asm.html",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://guides.library.georgetown.edu/c.php?g=75621&p=487531",
+    "https://unstats.un.org/Unsd/economic_stat/Economic_Census/Korea/Japan-paper.pdf",
+    "https://www.ier.hit-u.ac.jp/Common/publication/DP/DPS-A757.pdf",
+    "https://researchmap.jp/yasukitsuchiya/published_papers/49559395/attachment_file.pdf",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ]
+  },
+  {
+   "query": "site:note.com 工業統計・経済センサスの比較の注意（調査年と実績年・裾切り・臨時雇用者の扱い）",
+   "results": []
+  },
+  {
+   "query": "site:x.com 工業統計・経済センサスの比較の注意（調査年と実績年・裾切り・臨時雇用者の扱い）",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com 工業統計・経済センサスの比較の注意（調査年と実績年・裾切り・臨時雇用者の扱い）",
+   "results": [
+    "https://jp.linkedin.com/pulse/statistical-significance-tests-way-compare-data-populations?tl=ja",
+    "https://jp.linkedin.com/learning/corporate-financial-statement-analysis-2/2874268",
+    "https://jp.linkedin.com/posts/leverages-us_米国雇用統計レポート2025年12月実績と今後の展望-米労働省bls-activity-7424542213151285248-NWJG",
+    "https://jp.linkedin.com/posts/pwc-japan-グループ_生成aiに関する実態調査-2025春-5カ国比較-進まない変革グローバル比較から-activity-7364129133154508800-DeUt",
+    "https://jp.linkedin.com/pulse/本田技術研究所と本田技研工業株式会社は違う-淳一-中西",
+    "https://jp.linkedin.com/learning/word-2021-essential-training-office-2021-ltsc-14887211/3085313",
+    "https://jp.linkedin.com/pulse/実績perと予想perを比較する-daiji-nara-lq4zc"
+   ]
+  },
+  {
+   "query": "site:facebook.com 工業統計・経済センサスの比較の注意（調査年と実績年・裾切り・臨時雇用者の扱い）",
+   "results": [
+    "https://www.facebook.com/ecensus2026/",
+    "https://www.facebook.com/stat.japan/",
+    "https://www.facebook.com/sakatacity/posts/国の統計調査経済センサスでわかること①事業所と従業者経済センサス-活動調査は総務省と経済産業省が実施する統計調査で令和8年5年ぶりの実施が決まっています全国すべ/1380103194145753/",
+    "https://www.facebook.com/sakatacity/posts/国の基幹統計-経済センサスでわかること②業種別売上経済センサス-活動調査は総務省と経済産業省が実施する統計調査で令和8年5年ぶりの実施が決まっています全国すべて/1381797270643012/",
+    "https://www.facebook.com/sakatacity/posts/国の基幹統計-経済センサスでわかること③山形県で一番従業者数の多い業種経済センサス-活動調査は総務省と経済産業省が実施する統計調査で令和8年5年ぶりの実施が決ま/1384152953740777/",
+    "https://www.facebook.com/tochokoho/posts/始まります令和8年経済センサス活動調査総務省と経済産業省は令和8年6月1日を期日として全国のすべての事業所及び企業を対象に令和8年経済センサス活動調査を実施しま/1281149700865058/",
+    "https://www.facebook.com/okayama.pref.kochokoho/posts/令和8年経済センサス-活動調査が始まります総務省と経済産業省都道府県市区町村は令和8年6月1日現在で令和8年経済センサス活動調査を実施します全国すべての事業所企/1332135848948173/"
+   ]
+  },
+  {
+   "query": "工業統計・経済センサスの比較の注意（調査年と実績年・裾切り・臨時雇用者の扱い） note 社長",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.jagat.or.jp/archives/33380",
+    "https://www.pref.okayama.jp/page/813189.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.city.osaka.lg.jp/toshikeikaku/page/0000607232.html",
+    "https://ja.wikipedia.org/wiki/工業統計調査"
+   ]
+  },
+  {
+   "query": "工業統計・経済センサスの比較の注意（調査年と実績年・裾切り・臨時雇用者の扱い） X 投稿",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "https://www.jagat.or.jp/archives/33380",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.city.kitakyushu.lg.jp/contents/01700059_00006.html",
+    "https://www.pref.okayama.jp/page/813189.html"
+   ]
+  },
+  {
+   "query": "comparability notes census of manufactures economic census Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/industry-classification-naics-codes-building-business-latoya-wzbpc",
+    "https://www.linkedin.com/posts/jason-miller-32110325_supplychain-shipsandshipping-manufacturing-activity-7424074151625297920-fEe-",
+    "https://www.linkedin.com/pulse/americas-manufacturing-power-map-top-10-states-what-varenas-mba-hjnjc",
+    "https://www.linkedin.com/pulse/what-happened-when-america-developed-over-capacity-richard-baldwin-o5r9e",
+    "https://www.linkedin.com/company/hibbs-institute-for-business-and-economic-research",
+    "https://www.linkedin.com/pulse/we-age-ready-united-states-has-hit-demographic-tipping-coughlin-2l9ne",
+    "https://www.linkedin.com/posts/santiagogarcesescobar_south-bend-housing-dashboard-activity-7519059546334605313-Hac2",
+    "https://www.linkedin.com/posts/bryan-eshelman-6960511_the-mighty-american-consumer-is-crashing-activity-7513652776321884160-alpk",
+    "https://www.linkedin.com/pulse/adapting-disruption-restructuring-hong-kongs-supply-dr--ag7fc",
+    "https://www.linkedin.com/in/fabi%C3%A1n-romero-ph-d-42662849"
+   ]
+  }
+ ],
+ "missing": {}
+}

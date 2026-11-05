@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・51品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・53品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -492,6 +492,7 @@
   - 「provisioning estimates.」（https://finxl.in/blogs/how-to-analyze-an-annual-report.html）
   - 「where subjective estimates or high uncertainty materially」（https://finxl.in/blogs/how-to-analyze-an-annual-report.html）
   - 「速報！！キオクシア（285A）決算後 検証編 19時までの情報」（https://note.com/tag/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99）
+  - 「売上債権や棚卸資産の増減、支払債務の変動など、運転資本の効率性も同時に検証できます」（https://note.com/re_birth_ai/n/n0806b0d9ebe0）
 - 一次情報の探し方：
   - 「初学者でも出来る『５つのSTEPで読み解く有価証券報告書』｜wkwk｜小さな事業のAI・経営実践」（https://note.com/yoh2619/n/nab63a136eecc）
   - 「初学者でも出来る『５つのSTEPで読み解く有価証券報告書』」（https://note.com/yoh2619/n/nab63a136eecc）
@@ -1145,6 +1146,8 @@
   - 「夢を語るだけでなく、最悪のケースを想定できているか」（https://note.com/nakanoam/n/nafb26eef1ed8）
 - 検索結果の抜粋：
   - 「5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノー... — 大手証券会社にてアナリストとして7年間勤務。主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。」（https://note.com/investers_notes/all）
+  - 「5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノー... — 大手証券会社にてアナリストとして7年間勤務。 主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。」（https://note.com/investers_notes/all）
+  - 「5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノート） — 大手証券会社にてアナリストとして7年間勤務。主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。」（https://note.com/investers_notes/all）
 
 ## 戦略コンサルのデスクリサーチと仮説検証の型（strategy consultant desk research hypothesis method）
 - 文脈：凄腕・型
@@ -2957,6 +2960,7 @@
   - 「Use Decision Log Refresh Plan as a decision aid, not as a substitute for judgment. Do not hide weak evidence behind a clean framework. Do not compare options with inconsistent assumptions. Do not keep using the framework after the market, customer, or operating constraint changes.」（https://core.yogoq.com/en-US/core/decision-log-refresh-plan）
 - 突き合わせ・推定：
   - 「Estimate value and cost savings from data observability.」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
+  - 「shows that organizations lose an estimated $13 million annually due to poor data quality, including stale data.」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
 - 一次情報の探し方：
   - 「This page is reference information for research and learning. For accounting, legal, finance, health, security, or other individual decisions, confirm against primary sources or qualified professionals.」（https://core.yogoq.com/en-US/core/decision-log-refresh-plan）
 - 実例：
@@ -2965,6 +2969,11 @@
   - 「Assign responsibilities for monitoring data freshness. For example, a multinational bank can appoint」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
   - 「Here are key strategies, each illustrated with real-world examples of company implementations:」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
   - 「Here are three strategies, supported by real-world examples:」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
+  - 「Stale data refers to information that is outdated or no longer relevant to an organization. The relevance of data depends on its use case—while some data remains useful for months or years, others, such as real-time analytics, can become stale in just minutes.」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
+  - 「Now, consider a more critical scenario. In a healthcare system, a doctor might prescribe the wrong medication based on outdated information if a patient's records are not updated in time. In such cases, stale data isn't just inconvenient—it can be life-threatening.」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
+  - 「: One of the main causes of stale data is delays in data collection, often due to outdated collection methods. In systems that require real-time updates, relying on manual processes like copy-and-paste or batch processing can result in stale data. For example, the case we discussed earlier of stale data in a ticketing platform was caused by delays in data collection.」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
+  - 「: When businesses rely on outdated data, they struggle to accurately understand customer needs and preferences, leading to a poor customer experience. For example, a recommendation platform using stale data may generate irrelevant suggestions, further reducing customer satisfaction.」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
+  - 「, Quadratic helps users to identify stale data right from their spreadsheet interface. Suppose you’re working with large amounts of data for analysis and you quickly want to identify some stale data that is no longer relevant, you can do so by passing a text prompt in the Quadratic spreadsheet chat. Here’s an example:」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり）（statistical time series break linking retropolation official statistics）
@@ -3362,3 +3371,38 @@
   - 「例えば、「調査中のAPTは中国のグループだ」という仮説を立てた場合、その仮説を裏付ける情報ばかりを重視し、反証となりうる情報を無意識的に無視してしまったりするのがこの例」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
 - 検索結果の抜粋：
   - 「競合する仮説の分析｜幻想の近現代 - note（ノート） — 「競合する仮説の分析」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたと ...」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+
+## 調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字）（how journalists read company accounts notes related party going concern）
+- 文脈：失敗・落とし穴
+- 手順・やり方：
+  - 「how to find stories in company accounts」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
+  - 「Empathy as an investigative tool: how to map systems to come up with story ideas」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
+  - 「Teaching journalists how to find stories in company accounts: the story treasure hunt」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
+  - 「Teaching journalists how to find stories in company accounts: the story treasure hunt | Online Journalism Blog」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
+  - 「Teaching journalists how to find stories in company accounts: the story treasure hunt – Totally news」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
+  - 「How to reduce the environmental impact of using AI」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
+  - 「"Journey prompts" and "destination prompts": how to avoid becoming deskilled when using AI」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
+  - 「How to: fix spreadsheet dates that are in both US and UK formats」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
+- 一次情報の探し方：
+  - 「Centrica accounts (PDF)」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
+- 実例：
+  - 「Here, for example, is the Chairman of a football club criticising “so called fans” [sic] — as well as the local newspaper」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
+  - 「Last year, for example, I noticed that a homelessness charity had taken out an £85,000 bond which was being used to finance the building of care homes by a company owned by one of the charity’s trustees. What’s more, the trustee was」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
+  - 「, for example, the care home operator Four Seasons」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
+  - 「it is sometimes an indication that they are busy trying to avoid admitting these concerns — for example securing an extension on loans or getting rid of loss-making parts of the company.」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
+  - 「, for example (the British arm of the US firm),」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
+  - 「, for example, comes in Note 4 of the」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
+  - 「And News Group’s payments to settle phone hacking cases also comes in Note 4 of」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
+  - 「‘, for example, or, in the wake of the collapse of Carillion」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
+  - 「, for example, highlight (in a」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
+  - 「, for example, includes a whole ‘」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+
+## 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説（survey year vs reference year statistics pitfalls Japan census）
+- 文脈：一次情報の探し方
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）

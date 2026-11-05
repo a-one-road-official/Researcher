@@ -9,13 +9,18 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-05T09:29:51.124118+00:00",
+ "researched_at": "2026-11-05T10:44:38.356756+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
    {
     "url": "https://note.com/_novita_/n/n6c6761f4478b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dedokoro_lab/n/n3fe55d85485a?hl=en",
     "status": "ok",
     "method": "http"
    },
@@ -36,11 +41,6 @@
    },
    {
     "url": "https://note.com/aoki_ai/n/n3c64fad53bac",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/matuno_w/n/n8f726df39686",
     "status": "ok",
     "method": "http"
    },
@@ -155,12 +155,12 @@
     "method": "http"
    },
    {
-    "url": "https://thegeneticgenealogist.com/2016/06/19/a-triangulation-intervention/",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "url": "https://thegeneticgenealogist.com/2016/06/19/a-triangulation-intervention/",
     "status": "ok",
     "method": "http"
    }
@@ -171,12 +171,15 @@
    "query": "出どころを元までたどり、こだまを束ねる（source triangulation・検証の表） site:note.com",
    "results": [
     "https://note.com/_novita_/n/n6c6761f4478b",
+    "https://note.com/dedokoro_lab/n/n3fe55d85485a?hl=en",
     "https://note.com/zen_ai_lab/n/n1514d7e7c104",
     "https://note.com/toaru_hakase/n/n6aed01d88f0c",
     "https://note.com/tsuzurika/n/n243e77314a07",
     "https://note.com/aoki_ai/n/n3c64fad53bac",
     "https://note.com/matuno_w/n/n8f726df39686",
-    "https://note.com/a_hosokawa/n/ne4d800cf95ba"
+    "https://note.com/a_hosokawa/n/ne4d800cf95ba",
+    "https://note.com/dopingconsomme/n/n0c8694894836",
+    "https://note.com/goldmist1959/n/nb892f5128ad2"
    ]
   },
   {
@@ -229,8 +232,8 @@
     "https://www.evalacademy.com/articles/part-1-what-is-data-triangulation-in-evaluation",
     "https://www.ncbi.nlm.nih.gov/books/NBK223163/",
     "https://www.docsie.io/blog/glossary/data-triangulation/",
-    "https://thegeneticgenealogist.com/2016/06/19/a-triangulation-intervention/",
     "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "https://thegeneticgenealogist.com/2016/06/19/a-triangulation-intervention/",
     "https://www.researchgate.net/profile/Helen-Noble-4/publication/333794057_Triangulation_in_research_with_examples/links/5dcf19fe4585156b351642e1/Triangulation-in-research-with-examples.pdf",
     "https://academy.evalcommunity.com/cross-transcript-analysis-evidence-verification/",
     "https://casrai.org/guides/triangulation-in-research"
@@ -241,23 +244,28 @@
    "results": [
     "https://note.com/_novita_/n/n6c6761f4478b",
     "https://note.com/zen_ai_lab/n/n1514d7e7c104",
-    "https://note.com/poka_nero/n/n85048bd7be59",
+    "https://note.com/toaru_hakase/n/n6aed01d88f0c",
     "https://note.com/tsuzurika/n/n243e77314a07",
-    "https://note.com/aoki_ai/n/n3c64fad53bac",
     "https://note.com/a_hosokawa/n/ne4d800cf95ba",
-    "https://note.com/matuno_w/n/n8f726df39686"
+    "https://note.com/nanasechannnn/n/nd17ab6a78522",
+    "https://note.com/poka_nero/n/n85048bd7be59",
+    "https://note.com/matuno_w/n/n8f726df39686",
+    "https://note.com/aoki_ai/n/n3c64fad53bac"
    ]
   },
   {
    "query": "site:x.com 出どころを元までたどり、こだまを束ねる（source triangulation・検証の表）",
    "results": [
-    "https://x.com/okame_icu/status/2108317764503138444",
     "https://x.com/onemuya2022/status/2115038864637383036",
-    "https://x.com/ono_cardiology/status/2033845853790556569",
-    "https://x.com/Kodama_JPN/status/2032456809404076122",
-    "https://x.com/kizunasan/status/2113064229439938811",
     "https://x.com/nikkei_kotoba/status/778218941919272960",
-    "https://x.com/boxheadroom/status/2113647038764298725"
+    "https://x.com/otemachiprep/status/2112165621483852027",
+    "https://x.com/tsuntsun2914/status/2065335458033516717",
+    "https://x.com/Kodama_JPN/status/2032456809404076122",
+    "https://x.com/mina_suki_yo/status/2068136901211722213",
+    "https://x.com/tokufxug/status/2114187365715685495",
+    "https://x.com/okame_icu/status/2108317764503138444",
+    "https://x.com/ono_cardiology/status/2033845853790556569",
+    "https://x.com/kizunasan/status/2113064229439938811"
    ]
   },
   {
@@ -265,9 +273,9 @@
    "results": [
     "https://www.linkedin.com/top-content/science/research-methods/triangulation-methods-in-research/",
     "https://www.linkedin.com/top-content/science/research-methods/triangulation-vs-single-source-research/",
-    "https://www.linkedin.com/pulse/mixed-method-research-example-data-triangulation-ariful-islam",
     "https://www.linkedin.com/pulse/triangulation-its-significance-research-enhancing-kousthupamany-folzc",
-    "https://www.linkedin.com/pulse/what-data-triangulation-anurodh-kumar",
+    "https://www.linkedin.com/pulse/mixed-method-research-example-data-triangulation-ariful-islam",
+    "https://www.linkedin.com/pulse/data-triangulation-arun-kumar-zzruc",
     "https://jp.linkedin.com/pulse/understanding-verification-validation-key-pillars-quality-ttcyc?tl=ja",
     "https://jp.linkedin.com/pulse/data-provenance-hidden-backbone-every-ai-supply-chain-navar-blair-dulee?tl=ja"
    ]
@@ -275,16 +283,13 @@
   {
    "query": "site:facebook.com 出どころを元までたどり、こだまを束ねる（source triangulation・検証の表）",
    "results": [
-    "https://www.facebook.com/groups/392475537604725/posts/1385309408321328/",
-    "https://www.facebook.com/fb-answers/what-does-it-mean-to-triangulate-data/",
-    "https://www.facebook.com/fb-answers/methodologic-and-data-analysis-triangulation-in-case-studies-a-scoping-review/",
     "https://developers.facebook.com/",
     "https://www.facebook.com/youhei.takahashi.54/posts/稲架はざ掛けするために稲を束ねる場所小田原市桑原-たんぼの恵を感じる会/28256729824026583/",
+    "https://www.facebook.com/kazenotopos/",
+    "https://www.facebook.com/bunkashiryoukankamebun/posts/保津川を下り角倉了以素庵の足跡をたどりました現在開催中の特別展関連事業として角倉了以素庵の足跡をたどるフィールドワークを10月10日土秋晴れのもと開催することが/1620633416527303/",
     "https://www.facebook.com/shigeru.tada.1/posts/元スレ-1-記憶たどり-20190201金-12402327-idkkdui0m9net-ハロウィーンパーティーに参加するために100円ショップで購入したタトゥ/2174333802633537/",
-    "https://www.facebook.com/kusanomidou/videos/httpskusanomidocomvisitedshiro135254渡来人の一族が支えた飛鳥の歴史を記事で読む海を渡り飛鳥を支えた-渡来人の一族東漢氏日本書/1557795419488146/",
-    "https://www.facebook.com/sinobu0428dx/videos/皆さんはこの事件をどう感じましたか5つの家族はなぜ一人の女に支配されたのか尼崎連続変死事件角田美代子が家族に入り込んだきっかけから事件の発覚裁判前に残された疑問/1571080568041047/",
     "https://www.facebook.com/kusanomidou/videos/httpskusanomidocomvisitedshiro133394家康が桶に隠れて命拾い-奈良に伝わる奇妙な話の真相真田の兵に追われた徳川家康が桶屋の桶に/1597718521539142/",
-    "https://www.facebook.com/bunkashiryoukankamebun/posts/保津川を下り角倉了以素庵の足跡をたどりました現在開催中の特別展関連事業として角倉了以素庵の足跡をたどるフィールドワークを10月10日土秋晴れのもと開催することが/1620633416527303/"
+    "https://www.facebook.com/sinobu0428dx/videos/皆さんはこの事件をどう感じましたか5つの家族はなぜ一人の女に支配されたのか尼崎連続変死事件角田美代子が家族に入り込んだきっかけから事件の発覚裁判前に残された疑問/1571080568041047/"
    ]
   },
   {
@@ -294,9 +299,9 @@
     "https://tsukuba.repo.nii.ac.jp/records/2020601",
     "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/49832",
     "https://higashiyamato.net/thinking/wp-content/uploads/sites/10/2019/05/af58dffc0fea45d06af0ac032bf29c5e.pdf",
     "https://joblit.jp/manuscript/13403",
+    "https://repository.dl.itc.u-tokyo.ac.jp/records/49832",
     "https://repository.ninjal.ac.jp/records/3510",
     "https://aist.repo.nii.ac.jp/records/2003489"
    ]
@@ -320,11 +325,14 @@
    "results": [
     "https://www.linkedin.com/posts/maxharitonoff_crsl-activity-7454916441922842624-wiL6",
     "https://www.linkedin.com/pulse/traceability-matrix-tm-audit-ready-gmp-compliant-framework-palav-ey2af",
-    "https://au.linkedin.com/company/originstrace",
-    "https://in.linkedin.com/company/source-trace-systems",
     "https://ng.linkedin.com/company/origintrace",
-    "https://ic.linkedin.com/products/acviss-origin-track-trace/",
-    "https://www.linkedin.com/pulse/design-inputs-outputs-trace-matrix-principles-lean-documents-ctjwe"
+    "https://tg.linkedin.com/products/acviss-origin-track-trace/",
+    "https://www.linkedin.com/top-content/engineering/engineering-standards-and-compliance/validation-and-verification-traceability-requirements/",
+    "https://www.linkedin.com/pulse/what-i-learned-building-trace-matrix-from-chaos-samd-startup-cahill-czztc",
+    "https://www.linkedin.com/pulse/from-trace-ids-matrix-what-does-change-actually-affect-spark-tsai-u1rzc",
+    "https://www.linkedin.com/advice/0/what-latest-trends-developments-origin-tracing-verification",
+    "https://www.linkedin.com/pulse/traceability-matrix-qa-tool-youre-probably-underusing-testcaselab-i897e/",
+    "https://www.linkedin.com/advice/1/what-best-practices-tracing-requirements-throughout-udnfe"
    ]
   }
  ],
@@ -336,6 +344,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-05T06:29:42.994050+00:00"
 }
