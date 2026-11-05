@@ -8,98 +8,38 @@
  ],
  "context": "定義の点検",
  "kind": "market",
- "researched_at": "2026-11-05T15:24:42.263461+00:00",
+ "researched_at": "2026-11-05T17:26:57.098203+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/keisemi/n/naf14ab3c9062",
+    "url": "https://note.com/limber_skink4659/n/n425d2746f4b6",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/well_living_ry/n/ncb3a0fe9188f",
+    "url": "https://note.com/uedamath/n/nae5cd24433ea",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kagawatomo/n/n3899e67fd088",
+    "url": "https://note.com/masumasu_note/n/neef8d2501da3",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/lucid_lotus6287/n/n88e12e31126d",
+    "url": "https://note.com/makememo/n/n7ae565d6e7f0",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kagawatomo/n/n49f13e2d83fe",
+    "url": "https://note.com/morinokabu/n/nad7868b17b3c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kagawatomo/n/nd3159032d31a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/tnishimaki/n/ndbaaed8d02be",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://note.com/nanto_econ",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.soumu.go.jp/main_content/000666068.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://note.com/ohnishi1000/n/n2261e5d7abed",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.jp/n/n0c08f6e33ab8?gs=e821cfe266a1edff362f376941261de1",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.stat.go.jp/data/kojinke/qa-2.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.meti.go.jp/statistics/tyo/syoudou/gaiyo.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.mof.go.jp/pri/reference/ssc/qa.htm",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.e-stat.go.jp/surveyplan/p00500248001/download/ir0001",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.pref.miyagi.jp/documents/27337/654753.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.cross-m.co.jp/column/marketing/util55",
+    "url": "https://note.com/roselite/n/nda0bcd852d3e",
     "status": "ok",
     "method": "http"
    },
@@ -109,57 +49,107 @@
     "method": "http"
    },
    {
-    "url": "https://corp.neo-m.jp/column/marketing-research_150_samplesurvey-merit",
+    "url": "https://note.com/kenko2024/n/na7db5c406f98",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://bellcurve.jp/statistics/course/10886.html",
+    "url": "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.issoh.co.jp/column/details/6472/",
-    "status": "http_403",
+    "url": "https://aso-verse.com/magazine/ai-data-analysis-ai0638",
+    "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.boj.or.jp/statistics/outline/notice_2021/not210222a.pdf",
+    "url": "https://www.stat.go.jp/naruhodo/12_ppdac/plan/plan1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onoff.ne.jp/blog/?p=14424",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tutorialspoint.com/jcl/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tutorialspoint.com/jcl/jcl_interview_questions.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.tutorialspoint.com/course/jcl_online_training/index.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.tutorialspoint.com/course/jcl-course-the-ultimate-guide-to-job-control-language-jcl/index.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tutorialspoint.com/jcl/jcl_mock_test.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tutorialspoint.com/jcl/pdf/jcl_questions_answers.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.asmarq.co.jp/column/column-cat/glossary/zensu-chousa/",
+    "url": "https://instant.engineer/entry/sampling-inspection",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.cpgdatainsights.com/measure-sales/shipments-vs-retailsales/",
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kandokoro/1-02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000596373.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sangyo-tech.jp/columns/what-is-full-inspection/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.census.gov/foreign-trade/reference/definitions/index.html",
+    "url": "https://personal.chase.com/personal/checking",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://branvas.com/blogs/news/free-shipping-threshold-by-category",
+    "url": "https://www.wellsfargo.com/checking/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.independentagent.com/vu_resource/3-sales-measurements-every-agent-must-understand/",
+    "url": "https://www.usbank.com/bank-accounts/checking-accounts.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.ftc.gov/business-guidance/resources/complying-telemarketing-sales-rule",
+    "url": "https://www.chase.com/personal/checking/total-checking",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "https://monday.com/blog/crm-and-sales/what-is-sales-pipeline-coverage/",
+    "url": "https://www.wellsfargo.com/mobile-online-banking/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.santanderbank.com/personal/checking",
     "status": "ok",
     "method": "http"
    }
@@ -169,180 +159,189 @@
   {
    "query": "統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か） site:note.com",
    "results": [
-    "https://note.com/keisemi/n/naf14ab3c9062",
-    "https://note.com/well_living_ry/n/ncb3a0fe9188f",
-    "https://note.com/kagawatomo/n/n3899e67fd088",
-    "https://note.com/lucid_lotus6287/n/n88e12e31126d",
-    "https://note.com/kagawatomo/n/n49f13e2d83fe",
-    "https://note.com/kagawatomo/n/nd3159032d31a",
-    "https://note.com/bizgram/n/n9a587c22ec50",
-    "https://note.com/oh_no/n/nf5edcdd115e4",
-    "https://note.com/globis_engineers/n/n0ed548d0bc9e",
-    "https://note.com/c4irj/n/na3d9304aba79"
+    "https://note.com/limber_skink4659/n/n425d2746f4b6",
+    "https://note.com/uedamath/n/nae5cd24433ea",
+    "https://note.com/masumasu_note/n/neef8d2501da3",
+    "https://note.com/makememo/n/n7ae565d6e7f0",
+    "https://note.com/morinokabu/n/nad7868b17b3c",
+    "https://note.com/roselite/n/nda0bcd852d3e",
+    "https://note.com/gadget_hack/n/nf2e41056ff6a",
+    "https://note.com/roselite/n/n05fc0cb001b7",
+    "https://note.com/domonjo01/n/nbb3af1911b98",
+    "https://note.com/qiqumo/n/n39d18b7c45a8"
    ]
   },
   {
    "query": "統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か） note",
    "results": [
-    "https://note.com/tnishimaki/n/ndbaaed8d02be",
-    "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
-    "https://note.com/nanto_econ",
-    "https://www.soumu.go.jp/main_content/000666068.pdf",
-    "https://note.com/ohnishi1000/n/n2261e5d7abed",
-    "https://note.jp/n/n0c08f6e33ab8",
-    "https://www.shl.co.jp/column/perspective/statistical-significance/",
-    "https://note.com/ei_tsukamoto/n/n7d1818959b6a",
-    "https://note.com/haruharuy/n/nc987ab63b6dc",
-    "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html"
+    "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html",
+    "https://note.com/kenko2024/n/na7db5c406f98",
+    "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
+    "https://aso-verse.com/magazine/ai-data-analysis-ai0638",
+    "https://www.stat.go.jp/naruhodo/12_ppdac/plan/plan1.html",
+    "https://www.onoff.ne.jp/blog/?p=14424",
+    "https://instant.engineer/entry/sampling-inspection",
+    "https://www.pref.toyama.jp/sections/1015/lib/kandokoro/1-02.pdf",
+    "https://takuminotie.com/blog/2021/04/19/post-19152/",
+    "https://www.icrr.u-tokyo.ac.jp/~ono/lectures/2023basic_stat/mat05.pdf"
    ]
   },
   {
    "query": "統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か） やり方",
    "results": [
-    "https://www.stat.go.jp/data/kojinke/qa-2.html",
-    "https://www.meti.go.jp/statistics/tyo/syoudou/gaiyo.html",
-    "https://www.mof.go.jp/pri/reference/ssc/qa.htm",
-    "https://www.e-stat.go.jp/surveyplan/p00500248001/download/ir0001",
-    "https://www.soumu.go.jp/main_content/000666068.pdf",
-    "https://www.pref.miyagi.jp/documents/27337/654753.pdf",
-    "https://www.cross-m.co.jp/column/marketing/util55",
-    "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
-    "https://www.t-denshi-k.co.jp/media/column/sampling-inspection",
-    "https://www.onoff.ne.jp/blog/?p=14424"
+    "https://www.tutorialspoint.com/jcl/index.htm",
+    "https://www.tutorialspoint.com/jcl/jcl_interview_questions.htm",
+    "https://market.tutorialspoint.com/course/jcl_online_training/index.asp",
+    "https://market.tutorialspoint.com/course/jcl-course-the-ultimate-guide-to-job-control-language-jcl/index.asp",
+    "https://www.tutorialspoint.com/jcl/jcl_mock_test.htm",
+    "https://www.tutorialspoint.com/jcl/pdf/jcl_questions_answers.pdf",
+    "https://www.tutorialspoint.com/jcl/jcl_job_statement.htm",
+    "https://www.tutorialspoint.com/jcl/jcl_utility_programs.htm",
+    "https://www.tutorialspoint.com/jcl/jcl_procedures.htm",
+    "https://www.tutorialspoint.com/cobol/cobol_environment_setup.htm"
    ]
   },
   {
    "query": "統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か） 事例",
    "results": [
+    "https://instant.engineer/entry/sampling-inspection",
     "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html",
-    "https://www.meti.go.jp/statistics/tyo/syoudou/gaiyo.html",
-    "https://corp.neo-m.jp/column/marketing-research_150_samplesurvey-merit",
-    "https://bellcurve.jp/statistics/course/10886.html",
-    "https://www.issoh.co.jp/column/details/6472/",
-    "https://www.soumu.go.jp/main_content/000666068.pdf",
-    "https://www.boj.or.jp/statistics/outline/notice_2021/not210222a.pdf",
-    "https://www.mof.go.jp/pri/reference/ssc/qa.htm",
-    "https://www.asmarq.co.jp/column/column-cat/glossary/zensu-chousa/",
-    "https://instant.engineer/entry/sampling-inspection"
+    "https://www.pref.toyama.jp/sections/1015/lib/kandokoro/1-02.pdf",
+    "https://www.onoff.ne.jp/blog/?p=14424",
+    "https://www.soumu.go.jp/main_content/000596373.pdf",
+    "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
+    "https://sangyo-tech.jp/columns/what-is-full-inspection/"
    ]
   },
   {
    "query": "checking statistical definitions coverage threshold member-only shipment vs sales",
    "results": [
-    "https://www.cpgdatainsights.com/measure-sales/shipments-vs-retailsales/",
-    "https://www.census.gov/foreign-trade/reference/definitions/",
-    "https://branvas.com/blogs/news/free-shipping-threshold-by-category",
-    "https://www.independentagent.com/vu_resource/3-sales-measurements-every-agent-must-understand/",
-    "https://www.ftc.gov/business-guidance/resources/complying-telemarketing-sales-rule",
-    "https://monday.com/blog/crm-and-sales/what-is-sales-pipeline-coverage/",
-    "https://revenue.iowa.gov/taxes/tax-guidance/sales-use-excise-tax/sales-use-tax-guide",
-    "https://www.linkedin.com/pulse/how-ensure-sales-methodology-coverage-across-your-customer-kunkle-eb0xe",
-    "https://www.finra.org/rules-guidance/rulebooks/finra-rules/4530",
-    "https://www.census.gov/foreign-trade/guide/sec2.html"
+    "https://personal.chase.com/personal/checking",
+    "https://www.wellsfargo.com/checking/",
+    "https://www.usbank.com/bank-accounts/checking-accounts.html",
+    "https://www.chase.com/personal/checking/total-checking",
+    "https://www.wellsfargo.com/mobile-online-banking/",
+    "https://www.santanderbank.com/personal/checking",
+    "https://dictionary.cambridge.org/dictionary/english/checking",
+    "https://www.bankrate.com/banking/checking/best-checking-accounts/",
+    "https://www.merriam-webster.com/dictionary/checking",
+    "https://www.moneycrashers.com/best-checking-accounts/"
    ]
   },
   {
    "query": "site:note.com 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）",
    "results": [
-    "https://note.com/bearcapital/n/n4f3d135558b3",
+    "https://note.com/limber_skink4659/n/n425d2746f4b6",
     "https://note.com/uedamath/n/nae5cd24433ea",
     "https://note.com/masumasu_note/n/neef8d2501da3",
-    "https://note.com/mg4bq/n/n57a179813c86",
-    "https://note.com/kenko2024/n/na7db5c406f98",
     "https://note.com/makememo/n/n7ae565d6e7f0",
-    "https://note.com/statistics_ai/n/n205349f6d99d",
-    "https://note.com/paguinu/n/n175e4c9bea71"
+    "https://note.com/morinokabu/n/nad7868b17b3c",
+    "https://note.com/roselite/n/nda0bcd852d3e",
+    "https://note.com/gadget_hack/n/nf2e41056ff6a",
+    "https://note.com/roselite/n/n05fc0cb001b7",
+    "https://note.com/domonjo01/n/nbb3af1911b98",
+    "https://note.com/qiqumo/n/n39d18b7c45a8"
    ]
   },
   {
    "query": "site:x.com 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）",
    "results": [
-    "https://x.com/tokuyobi/status/2060647415372259783",
-    "https://x.com/Sakura_Med_DSci/status/2117084361283760618",
-    "https://x.com/Gustav_Mononobe/status/2112725020472680713",
-    "https://x.com/bot_kanazawa/status/2102382783327072664",
-    "https://x.com/tru_isct/status/2083915567153770905",
-    "https://x.com/BOT_SWkokushi/status/1586953495592464385",
-    "https://x.com/grok/status/2109126514205765955"
+    "https://note.com/makememo/n/n7ae565d6e7f0",
+    "https://note.com/limber_skink4659/n/n425d2746f4b6",
+    "https://note.com/morinokabu/n/nad7868b17b3c",
+    "https://note.com/uedamath/n/nae5cd24433ea",
+    "https://note.com/roselite/n/nda0bcd852d3e",
+    "https://note.com/gadget_hack/n/nf2e41056ff6a",
+    "https://note.com/masumasu_note/n/neef8d2501da3",
+    "https://note.com/roselite/n/n05fc0cb001b7",
+    "https://note.com/domonjo01/n/nbb3af1911b98",
+    "https://note.com/qiqumo/n/n39d18b7c45a8"
    ]
   },
   {
    "query": "site:linkedin.com 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）",
    "results": [
-    "https://jp.linkedin.com/learning/cert-prep-corporate-activities-for-it-passport-31669299/8729025",
-    "https://jp.linkedin.com/pulse/statistical-sampling-market-research-what-its-types-?tl=ja",
-    "https://www.linkedin.com/posts/hiroyukimonma_工場での抜き取り検査と検査判定基準-イラスト図解-日本のものづくり品質管理-activity-7269624851126988800-WZ_c",
-    "https://www.linkedin.com/posts/shokamura_近況報告-english-follows-japanese-実務教育研究所-activity-7357251360871903232-BIC0",
-    "https://jp.linkedin.com/learning/statistics-foundations-3-using-data-sets-19861761/3371063",
-    "https://jp.linkedin.com/learning/statistics-foundations-3-using-data-sets-19861761/3369083",
-    "https://jp.linkedin.com/pulse/wat-statistics-why-important-digital-elearning?tl=ja"
+    "https://note.com/makememo/n/n7ae565d6e7f0",
+    "https://note.com/limber_skink4659/n/n425d2746f4b6",
+    "https://note.com/morinokabu/n/nad7868b17b3c",
+    "https://note.com/uedamath/n/nae5cd24433ea",
+    "https://note.com/roselite/n/nda0bcd852d3e",
+    "https://note.com/gadget_hack/n/nf2e41056ff6a",
+    "https://note.com/masumasu_note/n/neef8d2501da3",
+    "https://note.com/roselite/n/n05fc0cb001b7",
+    "https://note.com/domonjo01/n/nbb3af1911b98",
+    "https://note.com/qiqumo/n/n39d18b7c45a8"
    ]
   },
   {
    "query": "site:facebook.com 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）",
    "results": [
-    "https://www.facebook.com/PRI.MOF.Japan/posts/9月1日-法人企業統計調査-令和7年46月期令和6年度年次別調査の結果を公表いたしました下記リンクから調査の結果についてご確認いただけますのでどうぞご覧ください/1192735222894708/",
-    "https://www.facebook.com/jscs.jp/",
-    "https://www.facebook.com/koh.iwasaki/posts/世論調査は既に意味が無いと思う無論統計というものを多少齧ったものとしてごく少数のサンプルでも抽出法が適切なら全体を表現出来ることは知っているしかし現状全体を表現/26967837532869703/",
-    "https://www.facebook.com/reel/2149036295858466/",
-    "https://www.facebook.com/smb.ricoh.co.jp/photos/新しいコラムを公開しました大量のアンケート結果やsnsの投稿から有益な情報を抽出したいそんなお悩みを解決するのがテキストマイニング-ですテキストマイニングは膨大/1287124113449998/",
-    "https://www.facebook.com/chiikiokoshikyouryokutai/posts/農林水産省からのお知らせ農林水産統計調査-専門調査員を知っていますか農林水産省大臣官房統計部では実施する一部の統計調査において一般の方を専門調査員として任命雇用/1103569168476743/",
-    "https://www.facebook.com/uedareikoyonaoshi/videos/本日経済港湾委員会本日は来る事務事業質疑各局事業の総括点検に向けて当局から説明を聞き資料要求をしますことに産業労働局は都政屈指の事業数の多さを誇り千を超えます昨/1101317146159466/"
+    "https://note.com/makememo/n/n7ae565d6e7f0",
+    "https://note.com/limber_skink4659/n/n425d2746f4b6",
+    "https://note.com/morinokabu/n/nad7868b17b3c",
+    "https://note.com/uedamath/n/nae5cd24433ea",
+    "https://note.com/roselite/n/nda0bcd852d3e",
+    "https://note.com/gadget_hack/n/nf2e41056ff6a",
+    "https://note.com/masumasu_note/n/neef8d2501da3",
+    "https://note.com/roselite/n/n05fc0cb001b7",
+    "https://note.com/domonjo01/n/nbb3af1911b98",
+    "https://note.com/qiqumo/n/n39d18b7c45a8"
    ]
   },
   {
    "query": "統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か） note 社長",
    "results": [
-    "https://note.com/bunsekiya_tech/n/n905bc3d35a79",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
-    "https://note.com/tnishimaki/n/ndbaaed8d02be",
-    "https://www.soumu.go.jp/main_content/000666068.pdf",
-    "https://note.com/nanto_econ",
-    "https://note.jp/n/n0c08f6e33ab8",
-    "https://www.insource-da.co.jp/dxpedia/2412_01.html",
-    "https://www.meti.go.jp/statistics/tyo/syoudou/pdf/survey_report_r03.pdf",
-    "https://note.com/kenko2024/n/na7db5c406f98"
+    "https://mail.yahoo.com/;_ylt=A2RRFEAlvexqOyMBXvZXNyoA;_ylu=Y29sbwN1cy1lYXN0LTEEcG9zAzEEdnRpZAMEc2VjA3Ny",
+    "https://www.reddit.com/r/techsupport/comments/1d9cmta/how_to_stop_yahoo_login_from_redirecting_to_att/",
+    "https://www.reddit.com/r/yahoo/comments/15lto55/yahoo_locked_me_out_of_my_account_for_no_reason/",
+    "https://www.answers.com/computers/Where_is_the_address_list_in_Yahoo_Mail",
+    "https://www.answers.com/telecommunications/How_can_you_find_out_the_correct_URL_of_Yahoo_Mail",
+    "https://www.reddit.com/r/Thunderbird/comments/v4ydu0/10000_email_limit_via_imap_in_yahoo_email/",
+    "https://www.reddit.com/r/yahoo/comments/yla6bq/does_anyone_know_why_yahoo_mail_is_now_so_slow/",
+    "https://www.reddit.com/r/yahoo/comments/10stvrg/yahoo_email_app_password_sorry_this_feature_is/",
+    "https://www.reddit.com/r/neopets/comments/12um0wo/psa_yahoo_will_indeed_let_you_recreate_an_email/",
+    "https://www.reddit.com/r/yahoo/comments/wqu0ik/considering_leaving_yahoo_mail_forever/"
    ]
   },
   {
    "query": "統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か） X 投稿",
    "results": [
-    "https://www.stat.go.jp/data/kojinke/qa-2.html",
-    "https://www.meti.go.jp/statistics/tyo/syoudou/gaiyo.html",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.mof.go.jp/pri/reference/ssc/qa.htm",
-    "https://qiita.com/Mrs_P/items/6e7e34bec74c4f7bf0ee",
-    "https://www.soumu.go.jp/main_content/000666068.pdf",
-    "https://researto.com/column/statistical-significance-p-value-marketing/",
-    "https://www.e-stat.go.jp/surveyplan-ir-guide",
-    "https://engineering-technology.brexa.com/blog/technavi/monozukuri-statistics-3-significance-test/"
+    "https://www.pollsmax.com/senate/mississippi/",
+    "https://www.nytimes.com/interactive/polls/mississippi-us-senate-election-polls-2026.html",
+    "https://www.nbcnews.com/politics/2026-elections/mississippi-senate-results",
+    "https://www.270towin.com/polls/latest-2026-senate-election-polls/",
+    "https://www.270towin.com/2026-election-results-live/state/mississippi/",
+    "https://apnews.com/projects/elections-2026/united-states-results/mississippi-us-senate-results/",
+    "https://www.nbcnews.com/politics/2026-elections/mississippi-results",
+    "https://election.org/election/2026/us-senate/mississippi",
+    "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
+    "https://www.poliwave.com/us/ms/sen-fed"
    ]
   },
   {
    "query": "checking statistical definitions coverage threshold member-only shipment vs sales site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/ronnyk_abtesting-experimentation-statistics-activity-7517760192491507714-w1Cz",
-    "https://www.linkedin.com/top-content/sales/identifying-high-value-leads/defining-qualified-leads-for-sales-and-marketing/",
-    "https://www.linkedin.com/in/zeid-houssami",
-    "https://www.linkedin.com/top-content/ecommerce/handling-ecommerce-logistics/carrier-selection-criteria/",
-    "https://www.linkedin.com/in/yue-shentu-97136818",
-    "https://www.linkedin.com/posts/moshiur-insurance_employeebenefits-grouphealthinsurance-activity-7511767892615536640-tJsM",
-    "https://www.linkedin.com/in/cheryl-m-4308976",
-    "https://www.linkedin.com/in/parinayrikhy77",
-    "https://www.linkedin.com/in/brittanyennix",
-    "https://www.linkedin.com/in/charlie-o-connor-7a6953106"
+    "https://personal.chase.com/personal/checking",
+    "https://www.wellsfargo.com/checking/",
+    "https://www.usbank.com/bank-accounts/checking-accounts.html",
+    "https://www.chase.com/personal/checking/total-checking",
+    "https://www.wellsfargo.com/mobile-online-banking/",
+    "https://www.santanderbank.com/personal/checking",
+    "https://dictionary.cambridge.org/dictionary/english/checking",
+    "https://www.bankrate.com/banking/checking/best-checking-accounts/",
+    "https://www.merriam-webster.com/dictionary/checking",
+    "https://www.moneycrashers.com/best-checking-accounts/"
    ]
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
-  "実例": "記載なし（読んだ30頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ28頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ28頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ28頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ28頁・検索12回）",
+  "実例": "記載なし（読んだ28頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-05T05:36:39.709245+00:00"
 }

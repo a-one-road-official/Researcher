@@ -8,812 +8,8 @@
  ],
  "context": "企業",
  "kind": "market",
- "researched_at": "2026-11-05T14:47:32.070652+00:00",
+ "researched_at": "2026-11-05T17:15:24.627164+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "「なぜこの企業はこのような理念を掲げているのか」「この事業の強みはどこにあるのか」「3年後、5年後、この企業はどうなっているだろうか」といった問いを立て、自分なりの仮説や考えを構築していく知的作業",
-    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析を通じて、事業のビジネスモデルを深く理解し、社員の働き方やキャリアに関するリアルな情報を収集し、企業が発信する理念やビジョンが現場にまで浸透しているのかを多角的に検証する",
-    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これらの機会は、事前に集めた情報や分析を通じて生まれた仮説を検証する絶好の場です",
-    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この3C分析から、「自社の強みであるセンサー技術を活かし、競合が手薄なスマートホーム連携機能を強化した、高価格帯のデザイン家電を開発すれば、市場で独自のポジションを築けるのではないか」という仮説を立てることができます",
-    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業の弱みや外部の脅威を認識した上で、「自分の強みを活かせば、このように貢献できるのではないか」という仮説を述べられる",
-    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "→「成果主義で人の入れ替わりが激しい文化なのかもしれない」「若いうちにスキルを身につけて独立する人が多いのかもしれない」といった仮説（分析）を立てることができる",
-    "url": "https://crexgroup.com/ja/shukatsu/company-research/company-analysis-how-to-steps/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析は情報収集そのものが目的ではなく、志望動機という「アウトプット」から逆算して進めると効率的です",
-    "url": "https://sinmido-recruit.com/columns/%E4%BC%81%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E6%9C%89%E5%A0%B1%E3%83%BB%E5%9B%9B%E5%AD%A3%E5%A0%B1%E3%83%BBir%E8%B3%87%E6%96%99%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "estimates the illiquidity discount of 20-30%",
-    "url": "https://aventis-advisors.com/how-to-value-a-private-company/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": This approach uses data from transactions involving similar businesses within the same industry. By analyzing the multiples paid in these transactions, you can estimate the value of your company.",
-    "url": "https://aventis-advisors.com/how-to-value-a-private-company/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": This method estimates the value of a company’s assets if they were to be sold off in a liquidation scenario. This approach is often used when a company struggles financially or faces bankruptcy.",
-    "url": "https://aventis-advisors.com/how-to-value-a-private-company/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Selecting the appropriate valuation method depends on the nature of your business, the availability of data, and the purpose of the valuation. It is often helpful to use multiple methods to cross-check and validate your results.",
-    "url": "https://aventis-advisors.com/how-to-value-a-private-company/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "それぞれについて「なぜこの企業がそれを求めているのか」を1行で書く（仮説でよい）",
-    "url": "https://note.com/restart_notes25/n/nf64264f912f9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "自己分析で出てきた「自分が求めていること」と、Q4で調べた内容を照合する",
-    "url": "https://note.com/restart_notes25/n/nf64264f912f9",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "IT系職種21選｜「目指したい自分像」からの逆算が適職発見のカギ",
-    "url": "https://careerpark-agent.jp/column/67587",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上場類似企業の株価倍率（PER、PBR、EV/EBITDA）を用いて企業価値を推定します",
-    "url": "https://note.com/finanscope/n/n62d819db22c2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一方 M&A の買収側 では、類似会社比較法で市場水準を把握したうえで、DCF 法で投資採算性を検証するという順序が実践的です",
-    "url": "https://note.com/finanscope/n/n62d819db22c2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "算出された結果を検証し、前提条件を見直したうえで、最終的に評価結果を経営判断に活用します",
-    "url": "https://note.com/finanscope/n/n62d819db22c2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会計検査院による抽出調査および国税庁による再検証データは、現行の類似業種比準方式が内包する客観的な価格乖離を明らかにしました2",
-    "url": "https://note.com/_takumi_inoue_/n/nd615f1ed45df",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "国税庁の集計では、過去10年間に14件、推計約14億円に及ぶ税額減少事例が把握され、課税の公平性を著しく損ねている実態が是正の論拠として位置づけられました7",
-    "url": "https://note.com/_takumi_inoue_/n/nd615f1ed45df",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "ギリシャにおいて2002年に同族企業内の承継税率が20%から2%へと大幅に引き下げられた制度変更を差の差法（Difference-in-Differences）によって検証した結果、高率課税に直面した企業は承継の前後において設備投資（有形固定資産投資）が40%以上減少することが確認されました19",
-    "url": "https://note.com/_takumi_inoue_/n/nd615f1ed45df",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "このような行動様式は、政府が賃上げ促進税制や中小企業投資促進税制を通じて推進してきた設備投資の拡大や賃金引き上げという政策目標と根本的に矛盾し、中小企業セクター全体の生産性向上を抑制する要因となってきました8",
-    "url": "https://note.com/_takumi_inoue_/n/nd615f1ed45df",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "完璧な企業研究を目指すよりも、「自分が納得できる仮説を持っているか」を重視しましょう",
-    "url": "https://www.onecareer.jp/articles/3345",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "「仮説を立てて動く」",
-    "url": "https://www.onecareer.jp/articles/3345",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "売り手が「会社には7億円の価値がある」と考え、買い手が「株式は4億円」と考えている場合、両者は必ずしも矛盾したことを言っているわけではありません",
-    "url": "https://www.ma-cp.com/about-ma/unlisted-stock-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "この場合、それぞれの前提を検証しながら、おおむね3億8,000万円～4億4,000万円の範囲を交渉の目安とする、といった整理が考えられます",
-    "url": "https://www.ma-cp.com/about-ma/unlisted-stock-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "事業計画を作成し、実績との差異を検証する習慣をつけておく",
-    "url": "https://www.ma-cp.com/about-ma/unlisted-stock-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "(the factor multiplied by the company’s EBITDA) to estimate enterprise value.",
-    "url": "https://1719partners.com/small-business-private-equity-what-to-expect-and-how-to-choose-the-right-partner/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Option #2: Estimate the Company’s “Future Liquidation Value” and Use That for its Terminal Value",
-    "url": "https://mergersandinquisitions.com/private-company-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "and its Terminal Value, and then you discount both of them back to their Present Values and add them to estimate the company’s implied value.",
-    "url": "https://mergersandinquisitions.com/private-company-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "You could estimate Beta and Cost of Equity by using dividend growth or earnings volatility relative to a broad index instead.",
-    "url": "https://mergersandinquisitions.com/private-company-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Damodaran recommends using “Total Beta” to estimate Beta by linking it to the market correlation factor of the company and the “portfolio diversification factor.”",
-    "url": "https://mergersandinquisitions.com/private-company-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "cross-check it by calculating the implied multiple or long-term growth rate",
-    "url": "https://mergersandinquisitions.com/private-company-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "The disadvantage is that now you have to estimate how many years it will take for that goblin-filled truck to kill the owner.",
-    "url": "https://mergersandinquisitions.com/private-company-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "You calculate it in the standard way for Empire Businesses and Meth Businesses, but for Money Businesses you need to discount it heavily, skip it altogether, or make a more conservative estimate for it.",
-    "url": "https://mergersandinquisitions.com/private-company-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "この記事では企業研究の目的、おすすめの方法、注意点などをキャリアアドバイザーが解説します",
-    "url": "https://careerpark-agent.jp/column/67587",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "きれいにまとめようとするあまり、時間をかけすぎてしまうことにも注意しましょう",
-    "url": "https://careerpark-agent.jp/column/67587",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事では就職四季報の種類、メリット、注意点、見るべき情報などをキャリアアドバイザーが解説します",
-    "url": "https://careerpark-agent.jp/column/67587",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "WEB説明会はどこからでも気軽に参加することができる反面、注意点もあります",
-    "url": "https://careerpark-agent.jp/column/67587",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このような失敗をしないためにも、情報収集する目的を考えて、目的に合った情報から収集することを意識してくださいね",
-    "url": "https://careerpark-agent.jp/column/67587",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【完全ガイド】就活メールマナーで差をつける！基本から例文・注意点まで徹底解説",
-    "url": "https://shukatsu.scenario-p.co.jp/column/kigyoukennkyuu-yarikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【業界研究の罠】「とりあえずコンサル・IT」と言っている3年生が、秋に絶望する理由",
-    "url": "https://shukatsu.scenario-p.co.jp/column/kigyoukennkyuu-yarikata/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "※AIの特性上、間違いが含まれている場合があります",
-    "url": "https://www.theport.jp/portcareer/article/27262/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "39点以下は要注意！あなたの面接力を今のうちに診断しましょう",
-    "url": "https://www.theport.jp/portcareer/article/27262/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事では、企業理念の志望動機で差別化する方法や具体性を盛り込むコツ、避けるべき注意点を、キャリアコンサルタントと解説します",
-    "url": "https://www.theport.jp/portcareer/article/27262/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただ、転職サイトはマイナスな情報に偏りがちな点は注意が必要です",
-    "url": "https://www.theport.jp/portcareer/article/27262/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "しかし、社風を志望動機に用いるには注意が必要です",
-    "url": "https://www.theport.jp/portcareer/article/27262/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「社風の志望動機」は注意が必要！ 例文付きで受かるコツを伝授",
-    "url": "https://www.theport.jp/portcareer/article/27262/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "自分が本当に欲しい福利厚生があるかという点に注意しつつまとめましょう",
-    "url": "https://www.theport.jp/portcareer/article/27262/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "勤務地にこだわりがある人や、転勤に抵抗が強い人は注意して確認しましょう",
-    "url": "https://www.theport.jp/portcareer/article/27262/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "動画選考でライバルと差をつける工夫を伝授｜注意点や練習法も解説",
-    "url": "https://www.theport.jp/portcareer/article/27262/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "グループ面接で飛びぬける極意｜陥りがちな失敗を攻略しよう",
-    "url": "https://www.theport.jp/portcareer/article/27262/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "二次面接は深掘り質問に注意！ 回答例や失敗する学生の特徴を解説",
-    "url": "https://www.theport.jp/portcareer/article/27262/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析のやり方｜就活のプロが見るべきポイントや注意点を解説",
-    "url": "https://www.theport.jp/portcareer/article/27262/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "すべて鵜呑みにするのではなく、一歩引いた視点で自分の意見を持ちながら見ると良いでしょう",
-    "url": "https://www.theport.jp/portcareer/article/27262/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事ではOB・OG訪問でのマナーや注意点をキャリアコンサルタントが解説します",
-    "url": "https://www.theport.jp/portcareer/article/27262/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "見栄えにこだわって内容が疎かにならないように注意しましょう",
-    "url": "https://www.theport.jp/portcareer/article/27262/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析のやり方とは？効果的な項目や注意点を紹介 | あばば大学",
-    "url": "https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析のやり方とは？効果的な項目や注意点を紹介",
-    "url": "https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、企業分析を行う項目や、実施する際の注意点を解説します",
-    "url": "https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業研究のテンプレートとは？項目や注意点について紹介",
-    "url": "https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "中小企業選びに強いおすすめ就活サイト10選｜優良な企業の探し方や注意点も解説！",
-    "url": "https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析のやり方｜就活のプロが見るべきポイントや注意点を解説 | PORTキャリア",
-    "url": "https://www.theport.jp/portcareer/article/64126/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析のやり方｜就活のプロが見るべきポイントや注意点を解説",
-    "url": "https://www.theport.jp/portcareer/article/64126/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "※AIの特性上、間違いが含まれている場合があります",
-    "url": "https://www.theport.jp/portcareer/article/64126/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "39点以下は要注意！あなたの面接力を今のうちに診断しましょう",
-    "url": "https://www.theport.jp/portcareer/article/64126/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "正式名称を誤って覚えるなどの事態がないよう注意しましょう",
-    "url": "https://www.theport.jp/portcareer/article/64126/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用情報のなかで特に注意して確認しておくべき項目は、必要な資格やスキルなどの応募条件です",
-    "url": "https://www.theport.jp/portcareer/article/64126/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最後に企業分析をおこなうにあたってありがちな3つの注意点を紹介します",
-    "url": "https://www.theport.jp/portcareer/article/64126/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、注意点を押さえておくことで就活を効率的に進めることができます",
-    "url": "https://www.theport.jp/portcareer/article/64126/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "はじめからやり直すなどの手間を省くためにも注意点について事前に押さえておいてくださいね",
-    "url": "https://www.theport.jp/portcareer/article/64126/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "人間には「注目バイアス」というものがあり、脳は1つのことを見ようとすると、それ以外のものは見えなくなってしまう傾向があるのです",
-    "url": "https://www.theport.jp/portcareer/article/64126/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析の目的や重要性といった基本的な内容から、具体的な分析項目、役立つツール、便利なフレームワーク、そして陥りがちな失敗例まで、網羅的にご紹介します",
-    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "真の企業分析とは、集めた情報を鵜呑みにするのではなく、",
-    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析に真剣に取り組む就活生ほど、陥ってしまいがちな失敗があります",
-    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "時間と労力をかけた分析が無駄にならないよう、ここでは代表的な4つの失敗例とその対策について解説します",
-    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これらの注意点を意識することで、より効果的で意味のある企業分析を行いましょう",
-    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最も多く見られる失敗が、",
-    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、ネット上の情報は玉石混交なので、鵜呑みにせず、あくまで参考情報として捉えましょう",
-    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、就職活動における企業分析のやり方について、その目的や重要性から、具体的な7つのステップ、チェックすべき項目、役立つツール、そして陥りがちな失敗まで、網羅的に解説してきました",
-    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "しかし、企業のウェブサイトやパンフレットに書かれている「風通しの良い職場です」「若手が活躍できる環境です」といったキャッチコピーだけを鵜呑みにするのは危険です",
-    "url": "https://crexgroup.com/ja/shukatsu/company-research/company-analysis-how-to-steps/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析でいちばん多い失敗は、",
-    "url": "https://note.com/irshukatsu/n/n208897213bd4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "注意：利益の名前が3社で違う",
-    "url": "https://note.com/irshukatsu/n/n208897213bd4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、口コミは個人の感想も多いので、すべてを鵜呑みにするのではなく、参考情報として見ることが大切です",
-    "url": "https://note.com/gobrinsyukatsu/n/n4ba9c3240e78",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一方で、注意点もあります",
-    "url": "https://note.com/gobrinsyukatsu/n/n4ba9c3240e78",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "各項目ごとに具体的な調査方法や注意点を記載しますので、これを参考に企業分析を進めてみてください",
-    "url": "https://note.com/miyu6754/n/nf3b036381057",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "就職活動で失敗しない業界選び｜8業界の特徴や適性を完全網羅",
-    "url": "https://careerpark-agent.jp/column/67587",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "INFP（仲介者）におすすめの職業｜向かない環境や注意点も解説",
-    "url": "https://careerpark-agent.jp/column/67587",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ありがちな失敗例として、以下のような志望動機が挙げられます",
-    "url": "https://crexgroup.com/ja/shukatsu/company-research/company-analysis-how-to-steps/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "書かれている情報を鵜呑みにせず、「なぜこの企業はこのような強みをアピールしているのか」「この戦略にはどのようなリスクが潜んでいるのか」といった批判的な視点を持って読み解くことが重要です",
-    "url": "https://crexgroup.com/ja/shukatsu/company-research/company-analysis-how-to-steps/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "質問を事前に準備していくことはもちろん、社員の方々の表情や話し方、社員同士のやり取りなど、非言語的な情報にも注意を向けることで、その企業のリアルな雰囲気をより深く感じ取ることができます",
-    "url": "https://crexgroup.com/ja/shukatsu/company-research/company-analysis-how-to-steps/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一人のOB・OGの話だけを鵜呑みにするのではなく、できれば異なる部署や年代の複数の社員に話を聞くことで、より多角的で客観的な企業像を掴むことができます",
-    "url": "https://crexgroup.com/ja/shukatsu/company-research/company-analysis-how-to-steps/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "注意したいのは口コミの扱いで、退職者の主観が強く出やすいため、複数の情報を照らし合わせる姿勢が欠かせません",
-    "url": "https://sinmido-recruit.com/columns/%E4%BC%81%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E6%9C%89%E5%A0%B1%E3%83%BB%E5%9B%9B%E5%AD%A3%E5%A0%B1%E3%83%BBir%E8%B3%87%E6%96%99%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一つの情報源を鵜呑みにせず、公式の数字と現場の声を往復させることが、精度の高い企業分析につながります",
-    "url": "https://sinmido-recruit.com/columns/%E4%BC%81%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E6%9C%89%E5%A0%B1%E3%83%BB%E5%9B%9B%E5%AD%A3%E5%A0%B1%E3%83%BBir%E8%B3%87%E6%96%99%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析におけるよくある失敗と対処法も紹介するので、就活を成功させたい方はぜひ参考にしてください",
-    "url": "https://cheercareer.jp/ip_blogs/552",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "純資産の厚い建設会社ほど注意す,",
-    "url": "https://note.com/_takumi_inoue_/n/nd615f1ed45df",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "企業研究を行う際の6つの注意点",
-    "url": "https://www.onecareer.jp/articles/3345",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "両者を混同してしまうと、就活で必要な作業に抜け漏れや重複が生じる恐れがあるため、十分注意してください",
-    "url": "https://www.onecareer.jp/articles/3345",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "このとき、最初から企業研究先を絞りすぎると、視野が狭まり後悔するケースもあるので注意が必要です",
-    "url": "https://www.onecareer.jp/articles/3345",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "一人の意見を鵜呑みにしないこと",
-    "url": "https://www.onecareer.jp/articles/3345",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "記載金額は手取りではなく、税金や社会保険料を控除する前の総額であるため、注意してください",
-    "url": "https://www.onecareer.jp/articles/3345",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "選考の開始時期も企業によって異なるため、注意が必要です",
-    "url": "https://www.onecareer.jp/articles/3345",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "これらの注意点を意識すれば、企業理解を深めるだけでなく、選考対策でも力を発揮するでしょう",
-    "url": "https://www.onecareer.jp/articles/3345",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "企業研究の方法を列挙するとともに、各方法の注意点やポイントを解説します",
-    "url": "https://www.onecareer.jp/articles/3345",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "6つの注意点",
-    "url": "https://www.onecareer.jp/articles/3345",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "よくある失敗は、情報をまとめることに満足してしまい、「企業研究ノートを埋めること」が目的になってしまうことです",
-    "url": "https://www.onecareer.jp/articles/3345",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "インターネットで得た情報は不確かなものもあるため、注意しましょう",
-    "url": "https://www.onecareer.jp/articles/3345",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "企業分析のやり方や注意点について徹底的に解説",
-    "url": "https://campus.doda.jp/career/job/000292.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "例えば、銀行を志望する際、「お金の貸付」がメイン事業であることは間違いありませんが、これはどの銀行にも言えること",
-    "url": "https://campus.doda.jp/career/job/000292.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "企業分析でやりがちな失敗！3つの注意点とは？",
-    "url": "https://campus.doda.jp/career/job/000292.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "せっかく集めた情報を有効活用するために、以下のポイントに注意しましょう",
-    "url": "https://campus.doda.jp/career/job/000292.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "オーナーが退いた後も事業が回る体制になっているかどうかは、買い手が特に注意して見るポイントです",
-    "url": "https://www.ma-cp.com/about-ma/unlisted-stock-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "M&Aの注意点",
-    "url": "https://www.ma-cp.com/about-ma/unlisted-stock-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "M&Aにおける失敗",
-    "url": "https://www.ma-cp.com/about-ma/unlisted-stock-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "だけでは、なぜその企業でなくてはダメなのかが伝わりにくいでしょう",
-    "url": "https://corp.neo-m.jp/marketer-gate/career-column/company-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "There is so much misunderstanding about private companies that I’m torn about how to approach the subject, but let’s start at the beginning: the mistaken notion that",
-    "url": "https://mergersandinquisitions.com/private-company-valuation/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "企業分析のやり方・目的を徹底解説【分析テンプレート付き】 | 新卒の...【無料テンプレート付】就活の企業研究のやり方を解説｜企業研究ノー...作り方例4選｜企業研究ノートのまとめ方をイラスト付きで解説！ | POR...テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！ |...【企業分析シート付き】企業研究のやり方とポイントを徹底解説！ — 企業研究を行う目的は2つあります。 どんなに有名な企業でも、自分の経験や性格にマッチしない企業だと、活躍の幅も限られてしまいます。また、複数の企業から第一志望を絞り込むには「なぜ、その企業でなくてはならないのか？」など、選ぶ理由を明確にする必要があります。 企業研究で上記2つの要素を整理しておくと、ESの準備や面接対策もやりやすくなるでしょう。 See full list on campus.doda.jp 企業研究は、インターンシッ",
-    "url": "https://campus.doda.jp/career/job/000292.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！ |... — Aug 7, 2026 · 企業研究ノートは3ステップで作る！ 企業研究のやり方を押さえよう 企業研究ノートを作る前に押さえておくべき基礎知識 意味：企業情報を一覧化してまとめたノート 目的：企業選びや選考対策に役立てる メリット：企業を比較しやすくなる 3ステップで完成！ 企業研究ノートの作り方 ...",
-    "url": "https://careerpark-agent.jp/column/67587",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析のやり方とは？効果的な項目や注意点を紹介 | あばば大学 — Jul 27, 2026 · 企業分析のやり方が分からなくて困っている方も多いのではないでしょうか。本記事では、企業分析を行う項目や、実施する際の注意点を解説します。どのように進めればよいのか悩んでいる就活生の方は、ぜひ役立ててください。 企業分析を実施する目的とは？",
-    "url": "https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析のやり方・目的を徹底解説【分析テンプレート付き】 | 新卒の...企業分析のやり方｜就活のプロが見るべきポイントや注意点を解説 | PO...企業分析のやり方とは？就活で使える7つの基本ステップを解説企業分析のやり方7ステップ 就活で内定に繋がる方法を徹底解説 - 就活...企業分析のやり方完全ガイド｜項目・情報源・活かし方を採用のプロが... — 企業研究を行う目的は2つあります。 どんなに有名な企業でも、自分の経験や性格にマッチしない企業だと、活躍の幅も限られてしまいます。また、複数の企業から第一志望を絞り込むには「なぜ、その企業でなくてはならないのか？」など、選ぶ理由を明確にする必要があります。 企業研究で上記2つの要素を整理しておくと、ESの準備や面接対策もやりやすくなるでしょう。 See full list on campus.doda.jp 企業研究は、インターンシップ",
-    "url": "https://campus.doda.jp/career/job/000292.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析のやり方｜就活のプロが見るべきポイントや注意点を解説 | PO... — Aug 24, 2026 · 企業分析のやり方2ステップ ①企業の情報を集める ②企業ごとの特徴を比較・分析する 企業分析で見るべき10項目と調べ方 ①会社概要 ②事業内容 ③ビジネスモデル ④商品・サービス ⑤取引先やターゲット顧客 ⑥業績 ⑦採用情報 ⑧環境・制度 ⑨経営者の考え ⑩今後の事業方針 企業分析に ...",
-    "url": "https://www.theport.jp/portcareer/article/64126/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析のやり方とは？就活で使える7つの基本ステップを解説 — Sep 30, 2025 · 企業分析のやり方とは？ 就活で使える7つの基本ステップを解説 更新日： 2025年9月30日 掲載内容にはプロモーションを含み、提携企業・広告主などから成果報酬を受け取る場合があります",
-    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析のやり方7ステップ 就活で内定に繋がる方法を徹底解説 - 就活... — Nov 29, 2025 · この記事では、就職活動を成功に導くための企業分析について、その目的から具体的なやり方、役立つフレームワークまでを7つのステップで網羅的に解説します。 この記事を読めば、企業分析の本質を理解し、自信を持って選考に臨めるようになるでしょう。",
-    "url": "https://crexgroup.com/ja/shukatsu/company-research/company-analysis-how-to-steps/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析のやり方・目的を徹底解説【分析テンプレート付き】 | 新卒の...就活の企業分析のやり方｜見るべき項目やフレームワーク、選考への活...企業分析のやり方完全ガイド｜項目・情報源・活かし方を採用のプロが...企業分析のやり方｜就活のプロが見るべきポイントや注意点を解説 | PO...【28卒】企業分析のやり方とは？4ステップで就活生に向けて解説 - 選... — 企業研究を行う目的は2つあります。 どんなに有名な企業でも、自分の経験や性格にマッチしない企業だと、活躍の幅も限られてしまいます。また、複数の企業から第一志望を絞り込むには「なぜ、その企業でなくてはならないのか？」など、選ぶ理由を明確にする必要があります。 企業研究で上記2つの要素を整理しておくと、ESの準備や面接対策もやりやすくなるでしょう。 See full list on campus.doda.jp 企業研究は、イン",
-    "url": "https://campus.doda.jp/career/job/000292.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "就活の企業分析のやり方｜見るべき項目やフレームワーク、選考への活... — 就活の企業分析のやり方を徹底解説。企業分析を行う目的から、ミッション・IR・求人情報などの調べ方、企業・業界・競合・自分の4つの視点で整理するフレームワーク、志望動機や面接に活かすポイントまで紹介します。",
-    "url": "https://corp.neo-m.jp/marketer-gate/career-column/company-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析のやり方とは？効果的な項目や注意点を紹介 | あばば大学 — Jul 27, 2026 · 企業分析のフレームワーク 効率よく企業分析をするには、フレームワークの活用がおすすめです。考え方の枠組みとなるフレームワークを使って分析することで、より効率的に企業理解を深められます。以下では、企業分析におすすめのフレームワークを3つ紹介します。 3C分析 3C分析とは ...",
-    "url": "https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析のやり方完全ガイド｜項目・情報源・活かし方を採用のプロが... — Apr 16, 2026 · 企業分析ノートの作り方と競合比較 集めた情報は、頭の中に置いておくだけでは面接で引き出せません。 企業分析ノート として1社ごとに整理しておくことを強くおすすめします。ノートは前述の7項目（事業内容・ビジネスモデル・強み弱み・業績・将来性・社風・求める人物像）を見出しに ...",
-    "url": "https://sinmido-recruit.com/columns/企業分析のやり方｜有報・四季報・ir資料を使った/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【企業分析のやり方・コツ】業界・社会全体の動向まで調べる — Feb 16, 2024 · 今回は企業分析のやり方についてです。 面接官は 志望企業や業界、社会動向等に関する質問を多く繰り出してきます。 しっかり分析して備えておくと面接で話が盛り上がりやすくなります。 業界により、適切なやり方が若干異なるかもしれませんが、 私のやり方を参考にチューニングしてみ ...",
-    "url": "https://note.com/sunakeso/n/nadc16e37f21f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析のやり方【就活版】——投資家の5ステップを、同業3社で実際に... — Aug 11, 2026 · 投資家は違うやり方をする。 自分の金を投じる相手を、公開データから自力で評価する。 そして必ず 複数を並べる。 1社だけ見ても、その数字が高いのか低いのか判断できないからだ。 就活は自分の時間を投じる意思決定なので、同じやり方が使える。",
-    "url": "https://note.com/irshukatsu/n/n208897213bd4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ゴブリンが教える『企業分析のやり方』｜ゴブリン就活 — Apr 29, 2026 · はじめまして！ゴブリン就活です！ 就活でよく聞く「企業分析」。 でも、実際にやろうとすると、 「何を調べればいいの？」 「企業研究と何が違うの？」 「志望動機にどうつなげればいいの？」 と迷う人も多いと思います。 企業分析は、ただ会社の名前や事業内容を調べるだけではあり ...",
-    "url": "https://note.com/gobrinsyukatsu/n/n4ba9c3240e78",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析のやり方マニュアル｜はる｜簿記1級×企業分析の専門家 — Jan 9, 2024 · 企業分析の基本フレームワークには、以下の要素が含まれます。 1：財務諸表分析 財務諸表（損益計算書、貸借対照表、キャッシュフロー計算書）の読み解き方。 主要な財務指標（安全性、収益性、効率性など）の分析方法。 2：ビジネス分析",
-    "url": "https://note.com/haru2006ppe/n/n4e05d6e83690",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "就職活動に役立つ企業分析のやり方｜miyu_就活 — Feb 20, 2025 · 具体的に、10項目に沿ってどのように企業分析を進めるかをさらに詳細に説明します。各項目ごとに具体的な調査方法や注意点を記載しますので、これを参考に企業分析を進めてみてください。 1. 企業基本情報 調査内容: 企業名、設立年、所在地、事業内容、業界、売上高、従業員数を確認 ...",
-    "url": "https://note.com/miyu6754/n/nf3b036381057",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析のやり方・目的を徹底解説【分析テンプレート付き】 | 新卒の... — Jun 5, 2026 · 企業分析は、自分に合った企業に就職するために避けては通れない重要な活動です。この記事では、 企業分析のやり方や注意点について徹底的に解説 します。企業比較に使える 「企業分析ノート」や企業分析に特化した生成AIプロンプト もダウンロードできますので、これからの就活にぜひ ...",
-    "url": "https://campus.doda.jp/career/job/000292.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業分析のやり方・目的を徹底解説【分析テンプレート付き】 | 新卒の... — Jun 5, 2026 · 企業分析の情報取集方法3選【おすすめの企業分析を226社の企業に調査！ 】 企業分析で押さえるべき情報・チェック項目 企業分析でやりがちな失敗！ 3つの注意点とは？ 企業分析のやり方に関するよくある質問 企業分析を深めて志望動機を磨き上げよう！",
-    "url": "https://campus.doda.jp/career/job/000292.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！ | キャリアパーク就職エージェント",
@@ -1356,6 +552,84 @@
     "first_seen": "2026-11-05"
    },
    {
+    "quote": "企業研究のやり方完全マニュアル｜決算データから見抜く\"本当に良い会社\"の選び方",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、誰でも実践できる企業研究の具体的なやり方を、表の情報・裏の情報の両面から徹底解説します",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここまで紹介した方法は、上場企業であれば実践可能ですが、",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業研究の実践ステップ【6段階】",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これまでの内容を踏まえて、企業研究を実際に進める6つのステップを紹介します",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP 1",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP 2",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP 3",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP 4",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP 5",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP 6",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【転職者向け】兵庫県の\"隠れ優良企業\"とは？地元で本当に良い会社を見つけるコツ",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方とは？効果的な項目や注意点を紹介 | あばば大学",
+    "url": "https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
     "quote": "第四の項目である子会社および企業グループの評価方法について、現行制度では親会社が保有する子会社株式を純資産価額等により個別に算定して織り込んでいます",
     "url": "https://note.com/_takumi_inoue_/n/nd615f1ed45df",
     "pass": 3,
@@ -1716,6 +990,310 @@
     "first_seen": "2026-11-04"
    }
   ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【企業分析のやり方・コツ】業界・社会全体の動向まで調べる｜スナケソ",
+    "url": "https://note.com/sunakeso/n/nadc16e37f21f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【企業分析のやり方・コツ】業界・社会全体の動向まで調べる",
+    "url": "https://note.com/sunakeso/n/nadc16e37f21f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "こちらの記事が大変、好評をいただいてます！",
+    "url": "https://note.com/sunakeso/n/nadc16e37f21f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "志望企業や業界、社会動向等に関する質問を多く繰り出してきます",
+    "url": "https://note.com/sunakeso/n/nadc16e37f21f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しっかり分析して備えておくと面接で話が盛り上がりやすくなります。",
+    "url": "https://note.com/sunakeso/n/nadc16e37f21f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界により、適切なやり方が若干異なるかもしれませんが、",
+    "url": "https://note.com/sunakeso/n/nadc16e37f21f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "私のやり方を参考にチューニングしてみて頂ければと思います。",
+    "url": "https://note.com/sunakeso/n/nadc16e37f21f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "おすすめの方法は、志望企業だけでなく、業界全体、また、志望企業が協賛企業になっている協会についても調べてみること",
+    "url": "https://note.com/sunakeso/n/nadc16e37f21f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方【就活版】——投資家の5ステップを、同業3社で実際にやってみた｜やましゃん@IR就活",
+    "url": "https://note.com/irshukatsu/n/n208897213bd4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方【就活版】——投資家の5ステップを、同業3社で実際にやってみた",
+    "url": "https://note.com/irshukatsu/n/n208897213bd4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "※本記事で例示した数値は、各社が公表した有価証券報告書（日鉄ソリューションズ・TISは2026年3月期、ベイカレントは2026年2月期）の記載に基づきます（2026年8月執筆）。実際に確認する際は、必ず最新の開示資料でご確認ください。",
+    "url": "https://note.com/irshukatsu/n/n208897213bd4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "だ。数字は1社だけ見ても意味を持たない。この記事では、投資家の手順を就活に移した5ステップを説明したうえで、",
+    "url": "https://note.com/irshukatsu/n/n208897213bd4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IT・コンサル業界の3社を実際に並べて最後までやってみる。",
+    "url": "https://note.com/irshukatsu/n/n208897213bd4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "成長率で選ぶと1社に決まるのに、勤続年数を足した瞬間に順位が入れ替わる。全文無料。",
+    "url": "https://note.com/irshukatsu/n/n208897213bd4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「企業分析をしなさい」と言われて、採用サイトを読み込み、説明会に出て、口コミサイトを見る。",
+    "url": "https://note.com/irshukatsu/n/n208897213bd4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "であって分析ではない。会社が見せたい姿と、他人の主観を集めているだけだからだ。",
+    "url": "https://note.com/irshukatsu/n/n208897213bd4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ゴブリンが教える『企業分析のやり方』｜ゴブリン就活",
+    "url": "https://note.com/gobrinsyukatsu/n/n4ba9c3240e78",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析は、ただ会社の名前や事業内容を調べるだけではありません。",
+    "url": "https://note.com/gobrinsyukatsu/n/n4ba9c3240e78",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大事なのは、その企業が何で稼いでいて、どんな強みがあり、どんな人を求めていて、自分がそこで働く理由を説明できる状態にすることです。",
+    "url": "https://note.com/gobrinsyukatsu/n/n4ba9c3240e78",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここが浅いままだと、ESや面接で「なぜこの会社なのか」が弱くなってしまいます。",
+    "url": "https://note.com/gobrinsyukatsu/n/n4ba9c3240e78",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "逆に、企業分析ができていると、志望動機に説得力が出たり、面接で具体的に話せたり、逆質問の質も上がります。",
+    "url": "https://note.com/gobrinsyukatsu/n/n4ba9c3240e78",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回は、就活生が最低限押さえておきたい企業分析のやり方をわかりやすくまとめます。",
+    "url": "https://note.com/gobrinsyukatsu/n/n4ba9c3240e78",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析で見るべきポイントは、大きく6つあります。",
+    "url": "https://note.com/gobrinsyukatsu/n/n4ba9c3240e78",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その企業が何で稼いでいるのか、どんな商品やサービスを提供しているのかを確認しましょう。",
+    "url": "https://note.com/gobrinsyukatsu/n/n4ba9c3240e78",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方｜「会社について詳しくなること」が目的ではない｜アラサー人事の選考対策室",
+    "url": "https://note.com/restart_notes25/n/nf64264f912f9",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方｜「会社について詳しくなること」が目的ではない",
+    "url": "https://note.com/restart_notes25/n/nf64264f912f9",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方がわからない、何をどこまで調べれば足りるのかわからない。就活でも転職でも、こうした悩みはよく耳にします。",
+    "url": "https://note.com/restart_notes25/n/nf64264f912f9",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "よくある落とし穴は、情報収集そのものを目的にしてしまうことです。",
+    "url": "https://note.com/restart_notes25/n/nf64264f912f9",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調べることには時間をかけたのに、志望動機に使える情報がない。面接で深掘りされると言葉が出てこない。それは準備量の問題ではなく、分析の設計が間違っているサインです。",
+    "url": "https://note.com/restart_notes25/n/nf64264f912f9",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事では、企業分析で本当に答えるべき2つの問いを整理し、正しい分析の入り口をお伝えします。",
+    "url": "https://note.com/restart_notes25/n/nf64264f912f9",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "就活・転職において、企業分析のやり方として多くの人が最初にやることはこうです。",
+    "url": "https://note.com/restart_notes25/n/nf64264f912f9",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業の公式サイトを開いて、事業内容や会社概要を読む",
+    "url": "https://note.com/restart_notes25/n/nf64264f912f9",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "企業分析のやり方・目的を徹底解説【分析テンプレート付き】 | 新卒の...【無料テンプレート付】就活の企業研究のやり方を解説｜企業研究ノー...作り方例4選｜企業研究ノートのまとめ方をイラスト付きで解説！ | POR...テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！ |...【企業分析シート付き】企業研究のやり方とポイントを徹底解説！ — 企業研究を行う目的は2つあります。 どんなに有名な企業でも、自分の経験や性格にマッチしない企業だと、活躍の幅も限られてしまいます。また、複数の企業から第一志望を絞り込むには「なぜ、その企業でなくてはならないのか？」など、選ぶ理由を明確にする必要があります。 企業研究で上記2つの要素を整理しておくと、ESの準備や面接対策もやりやすくなるでしょう。 See full list on campus.doda.jp 企業研究は、インターンシッ",
+    "url": "https://campus.doda.jp/career/job/000292.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！ |... — Aug 7, 2026 · 企業研究ノートは3ステップで作る！ 企業研究のやり方を押さえよう 企業研究ノートを作る前に押さえておくべき基礎知識 意味：企業情報を一覧化してまとめたノート 目的：企業選びや選考対策に役立てる メリット：企業を比較しやすくなる 3ステップで完成！ 企業研究ノートの作り方 ...",
+    "url": "https://careerpark-agent.jp/column/67587",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方とは？効果的な項目や注意点を紹介 | あばば大学 — Jul 27, 2026 · 企業分析のやり方が分からなくて困っている方も多いのではないでしょうか。本記事では、企業分析を行う項目や、実施する際の注意点を解説します。どのように進めればよいのか悩んでいる就活生の方は、ぜひ役立ててください。 企業分析を実施する目的とは？",
+    "url": "https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方・目的を徹底解説【分析テンプレート付き】 | 新卒の...企業分析のやり方｜就活のプロが見るべきポイントや注意点を解説 | PO...企業分析のやり方とは？就活で使える7つの基本ステップを解説企業分析のやり方7ステップ 就活で内定に繋がる方法を徹底解説 - 就活...企業分析のやり方完全ガイド｜項目・情報源・活かし方を採用のプロが... — 企業研究を行う目的は2つあります。 どんなに有名な企業でも、自分の経験や性格にマッチしない企業だと、活躍の幅も限られてしまいます。また、複数の企業から第一志望を絞り込むには「なぜ、その企業でなくてはならないのか？」など、選ぶ理由を明確にする必要があります。 企業研究で上記2つの要素を整理しておくと、ESの準備や面接対策もやりやすくなるでしょう。 See full list on campus.doda.jp 企業研究は、インターンシップ",
+    "url": "https://campus.doda.jp/career/job/000292.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方｜就活のプロが見るべきポイントや注意点を解説 | PO... — Aug 24, 2026 · 企業分析のやり方2ステップ ①企業の情報を集める ②企業ごとの特徴を比較・分析する 企業分析で見るべき10項目と調べ方 ①会社概要 ②事業内容 ③ビジネスモデル ④商品・サービス ⑤取引先やターゲット顧客 ⑥業績 ⑦採用情報 ⑧環境・制度 ⑨経営者の考え ⑩今後の事業方針 企業分析に ...",
+    "url": "https://www.theport.jp/portcareer/article/64126/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方とは？就活で使える7つの基本ステップを解説 — Sep 30, 2025 · 企業分析のやり方とは？ 就活で使える7つの基本ステップを解説 更新日： 2025年9月30日 掲載内容にはプロモーションを含み、提携企業・広告主などから成果報酬を受け取る場合があります",
+    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方7ステップ 就活で内定に繋がる方法を徹底解説 - 就活... — Nov 29, 2025 · この記事では、就職活動を成功に導くための企業分析について、その目的から具体的なやり方、役立つフレームワークまでを7つのステップで網羅的に解説します。 この記事を読めば、企業分析の本質を理解し、自信を持って選考に臨めるようになるでしょう。",
+    "url": "https://crexgroup.com/ja/shukatsu/company-research/company-analysis-how-to-steps/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方・目的を徹底解説【分析テンプレート付き】 | 新卒の...就活の企業分析のやり方｜見るべき項目やフレームワーク、選考への活...企業分析のやり方完全ガイド｜項目・情報源・活かし方を採用のプロが...企業分析のやり方｜就活のプロが見るべきポイントや注意点を解説 | PO...【28卒】企業分析のやり方とは？4ステップで就活生に向けて解説 - 選... — 企業研究を行う目的は2つあります。 どんなに有名な企業でも、自分の経験や性格にマッチしない企業だと、活躍の幅も限られてしまいます。また、複数の企業から第一志望を絞り込むには「なぜ、その企業でなくてはならないのか？」など、選ぶ理由を明確にする必要があります。 企業研究で上記2つの要素を整理しておくと、ESの準備や面接対策もやりやすくなるでしょう。 See full list on campus.doda.jp 企業研究は、イン",
+    "url": "https://campus.doda.jp/career/job/000292.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "就活の企業分析のやり方｜見るべき項目やフレームワーク、選考への活... — 就活の企業分析のやり方を徹底解説。企業分析を行う目的から、ミッション・IR・求人情報などの調べ方、企業・業界・競合・自分の4つの視点で整理するフレームワーク、志望動機や面接に活かすポイントまで紹介します。",
+    "url": "https://corp.neo-m.jp/marketer-gate/career-column/company-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方とは？効果的な項目や注意点を紹介 | あばば大学 — Jul 27, 2026 · 企業分析のフレームワーク 効率よく企業分析をするには、フレームワークの活用がおすすめです。考え方の枠組みとなるフレームワークを使って分析することで、より効率的に企業理解を深められます。以下では、企業分析におすすめのフレームワークを3つ紹介します。 3C分析 3C分析とは ...",
+    "url": "https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方完全ガイド｜項目・情報源・活かし方を採用のプロが... — Apr 16, 2026 · 企業分析ノートの作り方と競合比較 集めた情報は、頭の中に置いておくだけでは面接で引き出せません。 企業分析ノート として1社ごとに整理しておくことを強くおすすめします。ノートは前述の7項目（事業内容・ビジネスモデル・強み弱み・業績・将来性・社風・求める人物像）を見出しに ...",
+    "url": "https://sinmido-recruit.com/columns/企業分析のやり方｜有報・四季報・ir資料を使った/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【企業分析のやり方・コツ】業界・社会全体の動向まで調べる — Feb 16, 2024 · 今回は企業分析のやり方についてです。 面接官は 志望企業や業界、社会動向等に関する質問を多く繰り出してきます。 しっかり分析して備えておくと面接で話が盛り上がりやすくなります。 業界により、適切なやり方が若干異なるかもしれませんが、 私のやり方を参考にチューニングしてみ ...",
+    "url": "https://note.com/sunakeso/n/nadc16e37f21f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方【就活版】——投資家の5ステップを、同業3社で実際に... — Aug 11, 2026 · 投資家は違うやり方をする。 自分の金を投じる相手を、公開データから自力で評価する。 そして必ず 複数を並べる。 1社だけ見ても、その数字が高いのか低いのか判断できないからだ。 就活は自分の時間を投じる意思決定なので、同じやり方が使える。",
+    "url": "https://note.com/irshukatsu/n/n208897213bd4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ゴブリンが教える『企業分析のやり方』｜ゴブリン就活 — Apr 29, 2026 · はじめまして！ゴブリン就活です！ 就活でよく聞く「企業分析」。 でも、実際にやろうとすると、 「何を調べればいいの？」 「企業研究と何が違うの？」 「志望動機にどうつなげればいいの？」 と迷う人も多いと思います。 企業分析は、ただ会社の名前や事業内容を調べるだけではあり ...",
+    "url": "https://note.com/gobrinsyukatsu/n/n4ba9c3240e78",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方マニュアル｜はる｜簿記1級×企業分析の専門家 — Jan 9, 2024 · 企業分析の基本フレームワークには、以下の要素が含まれます。 1：財務諸表分析 財務諸表（損益計算書、貸借対照表、キャッシュフロー計算書）の読み解き方。 主要な財務指標（安全性、収益性、効率性など）の分析方法。 2：ビジネス分析",
+    "url": "https://note.com/haru2006ppe/n/n4e05d6e83690",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "就職活動に役立つ企業分析のやり方｜miyu_就活 — Feb 20, 2025 · 具体的に、10項目に沿ってどのように企業分析を進めるかをさらに詳細に説明します。各項目ごとに具体的な調査方法や注意点を記載しますので、これを参考に企業分析を進めてみてください。 1. 企業基本情報 調査内容: 企業名、設立年、所在地、事業内容、業界、売上高、従業員数を確認 ...",
+    "url": "https://note.com/miyu6754/n/nf3b036381057",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方・目的を徹底解説【分析テンプレート付き】 | 新卒の... — Jun 5, 2026 · 企業分析は、自分に合った企業に就職するために避けては通れない重要な活動です。この記事では、 企業分析のやり方や注意点について徹底的に解説 します。企業比較に使える 「企業分析ノート」や企業分析に特化した生成AIプロンプト もダウンロードできますので、これからの就活にぜひ ...",
+    "url": "https://campus.doda.jp/career/job/000292.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方・目的を徹底解説【分析テンプレート付き】 | 新卒の... — Jun 5, 2026 · 企業分析の情報取集方法3選【おすすめの企業分析を226社の企業に調査！ 】 企業分析で押さえるべき情報・チェック項目 企業分析でやりがちな失敗！ 3つの注意点とは？ 企業分析のやり方に関するよくある質問 企業分析を深めて志望動機を磨き上げよう！",
+    "url": "https://campus.doda.jp/career/job/000292.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
    {
     "quote": "たしかに、IR情報は見たことがない学生も多いでしょうし、インターンは選考が設けられているケースも多くハードルが高いですよね",
@@ -2020,6 +1598,30 @@
    {
     "quote": "例えば、簿価純資産が2億円の会社で、土地に5,000万円の含み益がある一方、回収困難な売掛金と滞留在庫で2,000万円の含み損があるとします",
     "url": "https://www.ma-cp.com/about-ma/unlisted-stock-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The PE firm acquires 100% of the business. The former owner receives the agreed purchase price at closing, and promptly exits the company. In some cases, founders may stay on temporarily just to support the transition.",
+    "url": "https://1719partners.com/small-business-private-equity-what-to-expect-and-how-to-choose-the-right-partner/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". In such a case, rather than funding the entire purchase price with investor capital, the acquiring firm may use borrowed funds to complete the transaction. This model can improve investment returns, but at the same time, it also increases the need to maintain healthy cash flow to service debt.",
+    "url": "https://1719partners.com/small-business-private-equity-what-to-expect-and-how-to-choose-the-right-partner/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example Private Company Valuation – Excel",
+    "url": "https://mergersandinquisitions.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Note that the examples here come from an older version of our",
+    "url": "https://mergersandinquisitions.com/private-company-valuation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
@@ -2384,32 +1986,6 @@
     "first_seen": "2026-11-04"
    }
   ],
-  "SNS・note（Facebook・検索結果の抜粋）": [
-   {
-    "quote": "大塚商会の経営支援サービス - Facebook『会社が変わる！新経営分析のススメ --コロナ、AI時代の生き残り処方...東京瀧本ゼミ企業分析パート - Facebook池本克之（組織学習経営コンサルタント） | Shibuya-ku TokyoTomoto Kouji - Facebookバレる不正にビジネスセンスはない 年間1,000件の事業計画を見る中小...生成AI＆データ分析活用研究会 - Facebook Aug 21, 2026 · 大塚商会の経営支援サービス. 1,257 likes · 97 talking about this · 5 were here. 大塚商会の「経営支援サービス」は、経営分析のプロフェッショナルたちが、お客様の経営の現状整理と改善アドバイスを無料で提供するサービスです。 私は今まで4万社以上のデータを分析し数多くの経営コンサルティングを行ってき",
-    "url": "https://www.facebook.com/keieishienservice/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "東京瀧本ゼミ企業分析パート - Facebook池本克之（組織学習経営コンサルタント） | Shibuya-ku TokyoTomoto Kouji - Facebookバレる不正にビジネスセンスはない 年間1,000件の事業計画を見る中小...生成AI＆データ分析活用研究会 - Facebook Oct 8, 2018 · 東京瀧本ゼミ企業分析パート. 554 likes. 瀧本ゼミは、投資家視点の企業分析を通じて、あらゆる場所で通用する意思決定力を身に付けるゼミです。 Oct 11, 2026 · 1. 2社を上場させた池本が語る「時間管理術」 2. 売上に直結する、ビジネスに必須の「営業術」 3. Webセミナー『自由な時間を手に入れる秘密の方法』 経営者として重要な要素を揃えたので、 きっとあなたのビジネスに役立てるだろう。 Oct 16, 2026 · Tomoto Kouji.",
-    "url": "https://www.facebook.com/tsemi.business.analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "大塚商会の経営支援サービス - Facebook『会社が変わる！新経営分析のススメ --コロナ、AI時代の生き残り処方...東京瀧本ゼミ企業分析パート - Facebook池本克之（組織学習経営コンサルタント） | Shibuya-ku TokyoTomoto Kouji - Facebook生成AI＆データ分析活用研究会 - Facebook一般社団法人 東京中小企業家同友会 - 北支部総会『人＋言＋者＝マー... Aug 21, 2026 · 大塚商会の経営支援サービス. 1,257 likes · 97 talking about this · 5 were here. 大塚商会の「経営支援サービス」は、経営分析のプロフェッショナルたちが、お客様の経営の現状整理と改善アドバイスを無料で提供するサービスです。 私は今まで4万社以上のデータを分析し数多くの経営コンサルティングを行ってきま",
-    "url": "https://www.facebook.com/keieishienservice/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "東京瀧本ゼミ企業分析パート - Facebook池本克之（組織学習経営コンサルタント） | Shibuya-ku TokyoTomoto Kouji - Facebook生成AI＆データ分析活用研究会 - Facebook一般社団法人 東京中小企業家同友会 - 北支部総会『人＋言＋者＝マー... Oct 8, 2018 · 東京瀧本ゼミ企業分析パート. 554 likes. 瀧本ゼミは、投資家視点の企業分析を通じて、あらゆる場所で通用する意思決定力を身に付けるゼミです。 Oct 11, 2026 · 1. 2社を上場させた池本が語る「時間管理術」 2. 売上に直結する、ビジネスに必須の「営業術」 3. Webセミナー『自由な時間を手に入れる秘密の方法』 経営者として重要な要素を揃えたので、 きっとあなたのビジネスに役立てるだろう。 Oct 16, 2026 · Tomoto Kouji. ",
-    "url": "https://www.facebook.com/tsemi.business.analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "300社以上の採用支援をしてきた経験をもとに、各大学の就活講座の講師も務め、年間3,000人以上に講演",
@@ -2756,6 +2332,84 @@
    {
     "quote": "【新卒向け】逆求人サイトのおすすめ10選！選び方や利用手順も紹介",
     "url": "https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業研究のやり方完全マニュアル｜決算データから見抜く\"本当に良い会社\"の選び方",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本当に役立つ企業研究とは、求人票や企業の自己発信だけでなく、",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算データや財務指標から経営の実態を読み解くこと",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "HPは広報・採用、口コミは個人の感想、求人票は採用したい意欲の表明——いずれも企業の一面に過ぎません",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本当の企業研究は、これらに加えて「企業が自分から発信しない情報」、つまり決算データや財務指標から経営の実態を読み解くことが不可欠です",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書、決算短信、信用調査会社データ",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "就職四季報、有価証券報告書、口コミサイト",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界レポート、競合企業の決算情報",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上場企業であれば、有価証券報告書・決算短信・中長期経営計画などのIR情報が公開されています",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【裏の情報】決算データから本当の経営状態を見抜く",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "HPや口コミでは見えない「本当の経営状態」を、決算データから読み解いていきます",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上場企業であれば、EDINET（金融庁が運営する電子開示システム）から有価証券報告書を無料でダウンロードできます",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場の中小企業の場合、決算情報は原則非公開です",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
@@ -3140,196 +2794,728 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "SNS・note（note・本文）": [
+  "失敗・落とし穴": [
    {
-    "quote": "【企業分析のやり方・コツ】業界・社会全体の動向まで調べる｜スナケソ",
-    "url": "https://note.com/sunakeso/n/nadc16e37f21f",
+    "quote": "この記事では企業研究の目的、おすすめの方法、注意点などをキャリアアドバイザーが解説します",
+    "url": "https://careerpark-agent.jp/column/67587",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "【企業分析のやり方・コツ】業界・社会全体の動向まで調べる",
-    "url": "https://note.com/sunakeso/n/nadc16e37f21f",
+    "quote": "きれいにまとめようとするあまり、時間をかけすぎてしまうことにも注意しましょう",
+    "url": "https://careerpark-agent.jp/column/67587",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "こちらの記事が大変、好評をいただいてます！",
-    "url": "https://note.com/sunakeso/n/nadc16e37f21f",
+    "quote": "この記事では就職四季報の種類、メリット、注意点、見るべき情報などをキャリアアドバイザーが解説します",
+    "url": "https://careerpark-agent.jp/column/67587",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "志望企業や業界、社会動向等に関する質問を多く繰り出してきます",
-    "url": "https://note.com/sunakeso/n/nadc16e37f21f",
+    "quote": "WEB説明会はどこからでも気軽に参加することができる反面、注意点もあります",
+    "url": "https://careerpark-agent.jp/column/67587",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "しっかり分析して備えておくと面接で話が盛り上がりやすくなります。",
-    "url": "https://note.com/sunakeso/n/nadc16e37f21f",
+    "quote": "このような失敗をしないためにも、情報収集する目的を考えて、目的に合った情報から収集することを意識してくださいね",
+    "url": "https://careerpark-agent.jp/column/67587",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "業界により、適切なやり方が若干異なるかもしれませんが、",
-    "url": "https://note.com/sunakeso/n/nadc16e37f21f",
+    "quote": "【完全ガイド】就活メールマナーで差をつける！基本から例文・注意点まで徹底解説",
+    "url": "https://shukatsu.scenario-p.co.jp/column/kigyoukennkyuu-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "私のやり方を参考にチューニングしてみて頂ければと思います。",
-    "url": "https://note.com/sunakeso/n/nadc16e37f21f",
+    "quote": "【業界研究の罠】「とりあえずコンサル・IT」と言っている3年生が、秋に絶望する理由",
+    "url": "https://shukatsu.scenario-p.co.jp/column/kigyoukennkyuu-yarikata/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "おすすめの方法は、志望企業だけでなく、業界全体、また、志望企業が協賛企業になっている協会についても調べてみること",
-    "url": "https://note.com/sunakeso/n/nadc16e37f21f",
+    "quote": "※AIの特性上、間違いが含まれている場合があります",
+    "url": "https://www.theport.jp/portcareer/article/27262/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "企業分析のやり方【就活版】——投資家の5ステップを、同業3社で実際にやってみた｜やましゃん@IR就活",
+    "quote": "39点以下は要注意！あなたの面接力を今のうちに診断しましょう",
+    "url": "https://www.theport.jp/portcareer/article/27262/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事では、企業理念の志望動機で差別化する方法や具体性を盛り込むコツ、避けるべき注意点を、キャリアコンサルタントと解説します",
+    "url": "https://www.theport.jp/portcareer/article/27262/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただ、転職サイトはマイナスな情報に偏りがちな点は注意が必要です",
+    "url": "https://www.theport.jp/portcareer/article/27262/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しかし、社風を志望動機に用いるには注意が必要です",
+    "url": "https://www.theport.jp/portcareer/article/27262/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「社風の志望動機」は注意が必要！ 例文付きで受かるコツを伝授",
+    "url": "https://www.theport.jp/portcareer/article/27262/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自分が本当に欲しい福利厚生があるかという点に注意しつつまとめましょう",
+    "url": "https://www.theport.jp/portcareer/article/27262/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "勤務地にこだわりがある人や、転勤に抵抗が強い人は注意して確認しましょう",
+    "url": "https://www.theport.jp/portcareer/article/27262/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "動画選考でライバルと差をつける工夫を伝授｜注意点や練習法も解説",
+    "url": "https://www.theport.jp/portcareer/article/27262/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "グループ面接で飛びぬける極意｜陥りがちな失敗を攻略しよう",
+    "url": "https://www.theport.jp/portcareer/article/27262/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "二次面接は深掘り質問に注意！ 回答例や失敗する学生の特徴を解説",
+    "url": "https://www.theport.jp/portcareer/article/27262/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方｜就活のプロが見るべきポイントや注意点を解説",
+    "url": "https://www.theport.jp/portcareer/article/27262/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "すべて鵜呑みにするのではなく、一歩引いた視点で自分の意見を持ちながら見ると良いでしょう",
+    "url": "https://www.theport.jp/portcareer/article/27262/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事ではOB・OG訪問でのマナーや注意点をキャリアコンサルタントが解説します",
+    "url": "https://www.theport.jp/portcareer/article/27262/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "見栄えにこだわって内容が疎かにならないように注意しましょう",
+    "url": "https://www.theport.jp/portcareer/article/27262/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方とは？効果的な項目や注意点を紹介 | あばば大学",
+    "url": "https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方とは？効果的な項目や注意点を紹介",
+    "url": "https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、企業分析を行う項目や、実施する際の注意点を解説します",
+    "url": "https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業研究のテンプレートとは？項目や注意点について紹介",
+    "url": "https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中小企業選びに強いおすすめ就活サイト10選｜優良な企業の探し方や注意点も解説！",
+    "url": "https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方｜就活のプロが見るべきポイントや注意点を解説 | PORTキャリア",
+    "url": "https://www.theport.jp/portcareer/article/64126/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方｜就活のプロが見るべきポイントや注意点を解説",
+    "url": "https://www.theport.jp/portcareer/article/64126/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "※AIの特性上、間違いが含まれている場合があります",
+    "url": "https://www.theport.jp/portcareer/article/64126/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "39点以下は要注意！あなたの面接力を今のうちに診断しましょう",
+    "url": "https://www.theport.jp/portcareer/article/64126/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "正式名称を誤って覚えるなどの事態がないよう注意しましょう",
+    "url": "https://www.theport.jp/portcareer/article/64126/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用情報のなかで特に注意して確認しておくべき項目は、必要な資格やスキルなどの応募条件です",
+    "url": "https://www.theport.jp/portcareer/article/64126/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最後に企業分析をおこなうにあたってありがちな3つの注意点を紹介します",
+    "url": "https://www.theport.jp/portcareer/article/64126/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、注意点を押さえておくことで就活を効率的に進めることができます",
+    "url": "https://www.theport.jp/portcareer/article/64126/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "はじめからやり直すなどの手間を省くためにも注意点について事前に押さえておいてくださいね",
+    "url": "https://www.theport.jp/portcareer/article/64126/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人間には「注目バイアス」というものがあり、脳は1つのことを見ようとすると、それ以外のものは見えなくなってしまう傾向があるのです",
+    "url": "https://www.theport.jp/portcareer/article/64126/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析の目的や重要性といった基本的な内容から、具体的な分析項目、役立つツール、便利なフレームワーク、そして陥りがちな失敗例まで、網羅的にご紹介します",
+    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "真の企業分析とは、集めた情報を鵜呑みにするのではなく、",
+    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析に真剣に取り組む就活生ほど、陥ってしまいがちな失敗があります",
+    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "時間と労力をかけた分析が無駄にならないよう、ここでは代表的な4つの失敗例とその対策について解説します",
+    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これらの注意点を意識することで、より効果的で意味のある企業分析を行いましょう",
+    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最も多く見られる失敗が、",
+    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、ネット上の情報は玉石混交なので、鵜呑みにせず、あくまで参考情報として捉えましょう",
+    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、就職活動における企業分析のやり方について、その目的や重要性から、具体的な7つのステップ、チェックすべき項目、役立つツール、そして陥りがちな失敗まで、網羅的に解説してきました",
+    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しかし、企業のウェブサイトやパンフレットに書かれている「風通しの良い職場です」「若手が活躍できる環境です」といったキャッチコピーだけを鵜呑みにするのは危険です",
+    "url": "https://crexgroup.com/ja/shukatsu/company-research/company-analysis-how-to-steps/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析でいちばん多い失敗は、",
     "url": "https://note.com/irshukatsu/n/n208897213bd4",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "企業分析のやり方【就活版】——投資家の5ステップを、同業3社で実際にやってみた",
+    "quote": "注意：利益の名前が3社で違う",
     "url": "https://note.com/irshukatsu/n/n208897213bd4",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "※本記事で例示した数値は、各社が公表した有価証券報告書（日鉄ソリューションズ・TISは2026年3月期、ベイカレントは2026年2月期）の記載に基づきます（2026年8月執筆）。実際に確認する際は、必ず最新の開示資料でご確認ください。",
-    "url": "https://note.com/irshukatsu/n/n208897213bd4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "だ。数字は1社だけ見ても意味を持たない。この記事では、投資家の手順を就活に移した5ステップを説明したうえで、",
-    "url": "https://note.com/irshukatsu/n/n208897213bd4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "IT・コンサル業界の3社を実際に並べて最後までやってみる。",
-    "url": "https://note.com/irshukatsu/n/n208897213bd4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "成長率で選ぶと1社に決まるのに、勤続年数を足した瞬間に順位が入れ替わる。全文無料。",
-    "url": "https://note.com/irshukatsu/n/n208897213bd4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「企業分析をしなさい」と言われて、採用サイトを読み込み、説明会に出て、口コミサイトを見る。",
-    "url": "https://note.com/irshukatsu/n/n208897213bd4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "であって分析ではない。会社が見せたい姿と、他人の主観を集めているだけだからだ。",
-    "url": "https://note.com/irshukatsu/n/n208897213bd4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ゴブリンが教える『企業分析のやり方』｜ゴブリン就活",
+    "quote": "ただし、口コミは個人の感想も多いので、すべてを鵜呑みにするのではなく、参考情報として見ることが大切です",
     "url": "https://note.com/gobrinsyukatsu/n/n4ba9c3240e78",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "企業分析は、ただ会社の名前や事業内容を調べるだけではありません。",
+    "quote": "一方で、注意点もあります",
     "url": "https://note.com/gobrinsyukatsu/n/n4ba9c3240e78",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "大事なのは、その企業が何で稼いでいて、どんな強みがあり、どんな人を求めていて、自分がそこで働く理由を説明できる状態にすることです。",
-    "url": "https://note.com/gobrinsyukatsu/n/n4ba9c3240e78",
+    "quote": "各項目ごとに具体的な調査方法や注意点を記載しますので、これを参考に企業分析を進めてみてください",
+    "url": "https://note.com/miyu6754/n/nf3b036381057",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ここが浅いままだと、ESや面接で「なぜこの会社なのか」が弱くなってしまいます。",
-    "url": "https://note.com/gobrinsyukatsu/n/n4ba9c3240e78",
+    "quote": "就職活動で失敗しない業界選び｜8業界の特徴や適性を完全網羅",
+    "url": "https://careerpark-agent.jp/column/67587",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "逆に、企業分析ができていると、志望動機に説得力が出たり、面接で具体的に話せたり、逆質問の質も上がります。",
-    "url": "https://note.com/gobrinsyukatsu/n/n4ba9c3240e78",
+    "quote": "INFP（仲介者）におすすめの職業｜向かない環境や注意点も解説",
+    "url": "https://careerpark-agent.jp/column/67587",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "今回は、就活生が最低限押さえておきたい企業分析のやり方をわかりやすくまとめます。",
-    "url": "https://note.com/gobrinsyukatsu/n/n4ba9c3240e78",
+    "quote": "ありがちな失敗例として、以下のような志望動機が挙げられます",
+    "url": "https://crexgroup.com/ja/shukatsu/company-research/company-analysis-how-to-steps/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "企業分析で見るべきポイントは、大きく6つあります。",
-    "url": "https://note.com/gobrinsyukatsu/n/n4ba9c3240e78",
+    "quote": "書かれている情報を鵜呑みにせず、「なぜこの企業はこのような強みをアピールしているのか」「この戦略にはどのようなリスクが潜んでいるのか」といった批判的な視点を持って読み解くことが重要です",
+    "url": "https://crexgroup.com/ja/shukatsu/company-research/company-analysis-how-to-steps/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "その企業が何で稼いでいるのか、どんな商品やサービスを提供しているのかを確認しましょう。",
-    "url": "https://note.com/gobrinsyukatsu/n/n4ba9c3240e78",
+    "quote": "質問を事前に準備していくことはもちろん、社員の方々の表情や話し方、社員同士のやり取りなど、非言語的な情報にも注意を向けることで、その企業のリアルな雰囲気をより深く感じ取ることができます",
+    "url": "https://crexgroup.com/ja/shukatsu/company-research/company-analysis-how-to-steps/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "企業分析のやり方｜「会社について詳しくなること」が目的ではない｜アラサー人事の選考対策室",
+    "quote": "一人のOB・OGの話だけを鵜呑みにするのではなく、できれば異なる部署や年代の複数の社員に話を聞くことで、より多角的で客観的な企業像を掴むことができます",
+    "url": "https://crexgroup.com/ja/shukatsu/company-research/company-analysis-how-to-steps/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "注意したいのは口コミの扱いで、退職者の主観が強く出やすいため、複数の情報を照らし合わせる姿勢が欠かせません",
+    "url": "https://sinmido-recruit.com/columns/%E4%BC%81%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E6%9C%89%E5%A0%B1%E3%83%BB%E5%9B%9B%E5%AD%A3%E5%A0%B1%E3%83%BBir%E8%B3%87%E6%96%99%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一つの情報源を鵜呑みにせず、公式の数字と現場の声を往復させることが、精度の高い企業分析につながります",
+    "url": "https://sinmido-recruit.com/columns/%E4%BC%81%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E6%9C%89%E5%A0%B1%E3%83%BB%E5%9B%9B%E5%AD%A3%E5%A0%B1%E3%83%BBir%E8%B3%87%E6%96%99%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析におけるよくある失敗と対処法も紹介するので、就活を成功させたい方はぜひ参考にしてください",
+    "url": "https://cheercareer.jp/ip_blogs/552",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "転職で失敗する人の共通点5選｜兵庫県での転職を後悔しないために",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "純資産の厚い建設会社ほど注意す,",
+    "url": "https://note.com/_takumi_inoue_/n/nd615f1ed45df",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業研究を行う際の6つの注意点",
+    "url": "https://www.onecareer.jp/articles/3345",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "両者を混同してしまうと、就活で必要な作業に抜け漏れや重複が生じる恐れがあるため、十分注意してください",
+    "url": "https://www.onecareer.jp/articles/3345",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このとき、最初から企業研究先を絞りすぎると、視野が狭まり後悔するケースもあるので注意が必要です",
+    "url": "https://www.onecareer.jp/articles/3345",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一人の意見を鵜呑みにしないこと",
+    "url": "https://www.onecareer.jp/articles/3345",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "記載金額は手取りではなく、税金や社会保険料を控除する前の総額であるため、注意してください",
+    "url": "https://www.onecareer.jp/articles/3345",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "選考の開始時期も企業によって異なるため、注意が必要です",
+    "url": "https://www.onecareer.jp/articles/3345",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらの注意点を意識すれば、企業理解を深めるだけでなく、選考対策でも力を発揮するでしょう",
+    "url": "https://www.onecareer.jp/articles/3345",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業研究の方法を列挙するとともに、各方法の注意点やポイントを解説します",
+    "url": "https://www.onecareer.jp/articles/3345",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "6つの注意点",
+    "url": "https://www.onecareer.jp/articles/3345",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "よくある失敗は、情報をまとめることに満足してしまい、「企業研究ノートを埋めること」が目的になってしまうことです",
+    "url": "https://www.onecareer.jp/articles/3345",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インターネットで得た情報は不確かなものもあるため、注意しましょう",
+    "url": "https://www.onecareer.jp/articles/3345",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業分析のやり方や注意点について徹底的に解説",
+    "url": "https://campus.doda.jp/career/job/000292.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば、銀行を志望する際、「お金の貸付」がメイン事業であることは間違いありませんが、これはどの銀行にも言えること",
+    "url": "https://campus.doda.jp/career/job/000292.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業分析でやりがちな失敗！3つの注意点とは？",
+    "url": "https://campus.doda.jp/career/job/000292.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "せっかく集めた情報を有効活用するために、以下のポイントに注意しましょう",
+    "url": "https://campus.doda.jp/career/job/000292.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "オーナーが退いた後も事業が回る体制になっているかどうかは、買い手が特に注意して見るポイントです",
+    "url": "https://www.ma-cp.com/about-ma/unlisted-stock-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "M&Aの注意点",
+    "url": "https://www.ma-cp.com/about-ma/unlisted-stock-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "M&Aにおける失敗",
+    "url": "https://www.ma-cp.com/about-ma/unlisted-stock-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "だけでは、なぜその企業でなくてはダメなのかが伝わりにくいでしょう",
+    "url": "https://corp.neo-m.jp/marketer-gate/career-column/company-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "There is so much misunderstanding about private companies that I’m torn about how to approach the subject, but let’s start at the beginning: the mistaken notion that",
+    "url": "https://mergersandinquisitions.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "「なぜこの企業はこのような理念を掲げているのか」「この事業の強みはどこにあるのか」「3年後、5年後、この企業はどうなっているだろうか」といった問いを立て、自分なりの仮説や考えを構築していく知的作業",
+    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析を通じて、事業のビジネスモデルを深く理解し、社員の働き方やキャリアに関するリアルな情報を収集し、企業が発信する理念やビジョンが現場にまで浸透しているのかを多角的に検証する",
+    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これらの機会は、事前に集めた情報や分析を通じて生まれた仮説を検証する絶好の場です",
+    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この3C分析から、「自社の強みであるセンサー技術を活かし、競合が手薄なスマートホーム連携機能を強化した、高価格帯のデザイン家電を開発すれば、市場で独自のポジションを築けるのではないか」という仮説を立てることができます",
+    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業の弱みや外部の脅威を認識した上で、「自分の強みを活かせば、このように貢献できるのではないか」という仮説を述べられる",
+    "url": "https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "→「成果主義で人の入れ替わりが激しい文化なのかもしれない」「若いうちにスキルを身につけて独立する人が多いのかもしれない」といった仮説（分析）を立てることができる",
+    "url": "https://crexgroup.com/ja/shukatsu/company-research/company-analysis-how-to-steps/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析は情報収集そのものが目的ではなく、志望動機という「アウトプット」から逆算して進めると効率的です",
+    "url": "https://sinmido-recruit.com/columns/%E4%BC%81%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E6%9C%89%E5%A0%B1%E3%83%BB%E5%9B%9B%E5%AD%A3%E5%A0%B1%E3%83%BBir%E8%B3%87%E6%96%99%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimates the illiquidity discount of 20-30%",
+    "url": "https://aventis-advisors.com/how-to-value-a-private-company/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": This approach uses data from transactions involving similar businesses within the same industry. By analyzing the multiples paid in these transactions, you can estimate the value of your company.",
+    "url": "https://aventis-advisors.com/how-to-value-a-private-company/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": This method estimates the value of a company’s assets if they were to be sold off in a liquidation scenario. This approach is often used when a company struggles financially or faces bankruptcy.",
+    "url": "https://aventis-advisors.com/how-to-value-a-private-company/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Selecting the appropriate valuation method depends on the nature of your business, the availability of data, and the purpose of the valuation. It is often helpful to use multiple methods to cross-check and validate your results.",
+    "url": "https://aventis-advisors.com/how-to-value-a-private-company/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "それぞれについて「なぜこの企業がそれを求めているのか」を1行で書く（仮説でよい）",
     "url": "https://note.com/restart_notes25/n/nf64264f912f9",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "企業分析のやり方｜「会社について詳しくなること」が目的ではない",
+    "quote": "自己分析で出てきた「自分が求めていること」と、Q4で調べた内容を照合する",
     "url": "https://note.com/restart_notes25/n/nf64264f912f9",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "企業分析のやり方がわからない、何をどこまで調べれば足りるのかわからない。就活でも転職でも、こうした悩みはよく耳にします。",
-    "url": "https://note.com/restart_notes25/n/nf64264f912f9",
+    "quote": "IT系職種21選｜「目指したい自分像」からの逆算が適職発見のカギ",
+    "url": "https://careerpark-agent.jp/column/67587",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "よくある落とし穴は、情報収集そのものを目的にしてしまうことです。",
-    "url": "https://note.com/restart_notes25/n/nf64264f912f9",
+    "quote": "上場類似企業の株価倍率（PER、PBR、EV/EBITDA）を用いて企業価値を推定します",
+    "url": "https://note.com/finanscope/n/n62d819db22c2",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "調べることには時間をかけたのに、志望動機に使える情報がない。面接で深掘りされると言葉が出てこない。それは準備量の問題ではなく、分析の設計が間違っているサインです。",
-    "url": "https://note.com/restart_notes25/n/nf64264f912f9",
+    "quote": "一方 M&A の買収側 では、類似会社比較法で市場水準を把握したうえで、DCF 法で投資採算性を検証するという順序が実践的です",
+    "url": "https://note.com/finanscope/n/n62d819db22c2",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "この記事では、企業分析で本当に答えるべき2つの問いを整理し、正しい分析の入り口をお伝えします。",
-    "url": "https://note.com/restart_notes25/n/nf64264f912f9",
+    "quote": "算出された結果を検証し、前提条件を見直したうえで、最終的に評価結果を経営判断に活用します",
+    "url": "https://note.com/finanscope/n/n62d819db22c2",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "就活・転職において、企業分析のやり方として多くの人が最初にやることはこうです。",
-    "url": "https://note.com/restart_notes25/n/nf64264f912f9",
+    "quote": "会計検査院による抽出調査および国税庁による再検証データは、現行の類似業種比準方式が内包する客観的な価格乖離を明らかにしました2",
+    "url": "https://note.com/_takumi_inoue_/n/nd615f1ed45df",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国税庁の集計では、過去10年間に14件、推計約14億円に及ぶ税額減少事例が把握され、課税の公平性を著しく損ねている実態が是正の論拠として位置づけられました7",
+    "url": "https://note.com/_takumi_inoue_/n/nd615f1ed45df",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ギリシャにおいて2002年に同族企業内の承継税率が20%から2%へと大幅に引き下げられた制度変更を差の差法（Difference-in-Differences）によって検証した結果、高率課税に直面した企業は承継の前後において設備投資（有形固定資産投資）が40%以上減少することが確認されました19",
+    "url": "https://note.com/_takumi_inoue_/n/nd615f1ed45df",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このような行動様式は、政府が賃上げ促進税制や中小企業投資促進税制を通じて推進してきた設備投資の拡大や賃金引き上げという政策目標と根本的に矛盾し、中小企業セクター全体の生産性向上を抑制する要因となってきました8",
+    "url": "https://note.com/_takumi_inoue_/n/nd615f1ed45df",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "完璧な企業研究を目指すよりも、「自分が納得できる仮説を持っているか」を重視しましょう",
+    "url": "https://www.onecareer.jp/articles/3345",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「仮説を立てて動く」",
+    "url": "https://www.onecareer.jp/articles/3345",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "売り手が「会社には7億円の価値がある」と考え、買い手が「株式は4億円」と考えている場合、両者は必ずしも矛盾したことを言っているわけではありません",
+    "url": "https://www.ma-cp.com/about-ma/unlisted-stock-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この場合、それぞれの前提を検証しながら、おおむね3億8,000万円～4億4,000万円の範囲を交渉の目安とする、といった整理が考えられます",
+    "url": "https://www.ma-cp.com/about-ma/unlisted-stock-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "事業計画を作成し、実績との差異を検証する習慣をつけておく",
+    "url": "https://www.ma-cp.com/about-ma/unlisted-stock-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "(the factor multiplied by the company’s EBITDA) to estimate enterprise value.",
+    "url": "https://1719partners.com/small-business-private-equity-what-to-expect-and-how-to-choose-the-right-partner/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Option #2: Estimate the Company’s “Future Liquidation Value” and Use That for its Terminal Value",
+    "url": "https://mergersandinquisitions.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "and its Terminal Value, and then you discount both of them back to their Present Values and add them to estimate the company’s implied value.",
+    "url": "https://mergersandinquisitions.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "You could estimate Beta and Cost of Equity by using dividend growth or earnings volatility relative to a broad index instead.",
+    "url": "https://mergersandinquisitions.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Damodaran recommends using “Total Beta” to estimate Beta by linking it to the market correlation factor of the company and the “portfolio diversification factor.”",
+    "url": "https://mergersandinquisitions.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "cross-check it by calculating the implied multiple or long-term growth rate",
+    "url": "https://mergersandinquisitions.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The disadvantage is that now you have to estimate how many years it will take for that goblin-filled truck to kill the owner.",
+    "url": "https://mergersandinquisitions.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "You calculate it in the standard way for Empire Businesses and Meth Businesses, but for Money Businesses you need to discount it heavily, skip it altogether, or make a more conservative estimate for it.",
+    "url": "https://mergersandinquisitions.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "大塚商会の経営支援サービス - Facebook『会社が変わる！新経営分析のススメ --コロナ、AI時代の生き残り処方...東京瀧本ゼミ企業分析パート - Facebook池本克之（組織学習経営コンサルタント） | Shibuya-ku TokyoTomoto Kouji - Facebookバレる不正にビジネスセンスはない 年間1,000件の事業計画を見る中小...生成AI＆データ分析活用研究会 - Facebook Aug 21, 2026 · 大塚商会の経営支援サービス. 1,257 likes · 97 talking about this · 5 were here. 大塚商会の「経営支援サービス」は、経営分析のプロフェッショナルたちが、お客様の経営の現状整理と改善アドバイスを無料で提供するサービスです。 私は今まで4万社以上のデータを分析し数多くの経営コンサルティングを行ってき",
+    "url": "https://www.facebook.com/keieishienservice/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "企業の公式サイトを開いて、事業内容や会社概要を読む",
-    "url": "https://note.com/restart_notes25/n/nf64264f912f9",
+    "quote": "東京瀧本ゼミ企業分析パート - Facebook池本克之（組織学習経営コンサルタント） | Shibuya-ku TokyoTomoto Kouji - Facebookバレる不正にビジネスセンスはない 年間1,000件の事業計画を見る中小...生成AI＆データ分析活用研究会 - Facebook Oct 8, 2018 · 東京瀧本ゼミ企業分析パート. 554 likes. 瀧本ゼミは、投資家視点の企業分析を通じて、あらゆる場所で通用する意思決定力を身に付けるゼミです。 Oct 11, 2026 · 1. 2社を上場させた池本が語る「時間管理術」 2. 売上に直結する、ビジネスに必須の「営業術」 3. Webセミナー『自由な時間を手に入れる秘密の方法』 経営者として重要な要素を揃えたので、 きっとあなたのビジネスに役立てるだろう。 Oct 16, 2026 · Tomoto Kouji.",
+    "url": "https://www.facebook.com/tsemi.business.analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大塚商会の経営支援サービス - Facebook『会社が変わる！新経営分析のススメ --コロナ、AI時代の生き残り処方...東京瀧本ゼミ企業分析パート - Facebook池本克之（組織学習経営コンサルタント） | Shibuya-ku TokyoTomoto Kouji - Facebook生成AI＆データ分析活用研究会 - Facebook一般社団法人 東京中小企業家同友会 - 北支部総会『人＋言＋者＝マー... Aug 21, 2026 · 大塚商会の経営支援サービス. 1,257 likes · 97 talking about this · 5 were here. 大塚商会の「経営支援サービス」は、経営分析のプロフェッショナルたちが、お客様の経営の現状整理と改善アドバイスを無料で提供するサービスです。 私は今まで4万社以上のデータを分析し数多くの経営コンサルティングを行ってきま",
+    "url": "https://www.facebook.com/keieishienservice/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "東京瀧本ゼミ企業分析パート - Facebook池本克之（組織学習経営コンサルタント） | Shibuya-ku TokyoTomoto Kouji - Facebook生成AI＆データ分析活用研究会 - Facebook一般社団法人 東京中小企業家同友会 - 北支部総会『人＋言＋者＝マー... Oct 8, 2018 · 東京瀧本ゼミ企業分析パート. 554 likes. 瀧本ゼミは、投資家視点の企業分析を通じて、あらゆる場所で通用する意思決定力を身に付けるゼミです。 Oct 11, 2026 · 1. 2社を上場させた池本が語る「時間管理術」 2. 売上に直結する、ビジネスに必須の「営業術」 3. Webセミナー『自由な時間を手に入れる秘密の方法』 経営者として重要な要素を揃えたので、 きっとあなたのビジネスに役立てるだろう。 Oct 16, 2026 · Tomoto Kouji. ",
+    "url": "https://www.facebook.com/tsemi.business.analysis/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -3404,7 +3590,22 @@
     "method": "http"
    },
    {
+    "url": "https://masouken.com/%E9%9D%9E%E4%B8%8A%E5%A0%B4%E6%A0%AA%E5%BC%8F%E3%81%AE%E5%8F%96%E5%BE%97%E6%96%B9%E6%B3%95%E3%81%A8%E5%8F%96%E5%BE%97%E4%BE%A1%E9%A1%8D%E3%81%AE%E6%B1%BA%E3%82%81%E6%96%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.ma-cp.com/about-ma/unlisted-stock-valuation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinkeiei.jp/column/7599/",
     "status": "ok",
     "method": "http"
    },
@@ -3412,21 +3613,6 @@
     "url": "https://ma-la.co.jp/m-and-a/non-listed-company/",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://corp.neo-m.jp/marketer-gate/career-column/company-analysis",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.advi.co.jp/column/detail79/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.gsm.kyoto-u.ac.jp/wp-content/uploads/92d2eb6e4de53409fe89526f5b54f317.pdf",
-    "status": "ok",
-    "method": "pdf"
    },
    {
     "url": "https://www.shosukabu.com/column-list/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E9%9D%9E%E4%B8%8A%E5%A0%B4%E6%A0%AA%E4%BE%A1%E3%81%8C%E7%94%9F%E3%81%BF%E5%87%BA%E3%81%99%E5%88%A9%E7%9B%8A/",
@@ -3449,12 +3635,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.shinkeiei.jp/column/7599/",
+    "url": "https://www.advi.co.jp/column/detail98/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.advi.co.jp/column/detail98/",
+    "url": "https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/",
     "status": "ok",
     "method": "http"
    },
@@ -3479,14 +3665,14 @@
     "method": ""
    },
    {
-    "url": "https://mergersandinquisitions.com/private-company-valuation/",
+    "url": "https://guides.nyu.edu/finance/private-companies",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.startengine.com/insights/private-market-education/investing-in-private-companies/how-to-evaluate-private-company",
+    "url": "https://mergersandinquisitions.com/private-company-valuation/",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    }
   ]
  },
@@ -3526,13 +3712,13 @@
    "results": [
     "https://www.youtube.com/watch?v=Lkugw2q8Sew",
     "https://www.theport.jp/portcareer/article/132957/",
+    "https://masouken.com/%E9%9D%9E%E4%B8%8A%E5%A0%B4%E6%A0%AA%E5%BC%8F%E3%81%AE%E5%8F%96%E5%BE%97%E6%96%B9%E6%B3%95%E3%81%A8%E5%8F%96%E5%BE%97%E4%BE%A1%E9%A1%8D%E3%81%AE%E6%B1%BA%E3%82%81%E6%96%B9",
     "https://www.ma-cp.com/about-ma/unlisted-stock-valuation/",
+    "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "https://www.shinkeiei.jp/column/7599/",
     "https://ma-la.co.jp/m-and-a/non-listed-company/",
-    "https://corp.neo-m.jp/marketer-gate/career-column/company-analysis",
-    "https://journal.rikunabi.com/p/knowhow/56286.html",
-    "https://campus.doda.jp/career/job/000292.html",
-    "https://www.advi.co.jp/column/detail79/",
-    "https://www.gsm.kyoto-u.ac.jp/wp-content/uploads/92d2eb6e4de53409fe89526f5b54f317.pdf",
+    "https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/",
+    "https://www.tanabeconsulting.co.jp/finance/column/detail27.html",
     "https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/"
    ]
   },
@@ -3558,9 +3744,9 @@
     "https://www.investopedia.com/articles/fundamental-analysis/11/valuing-private-companies.asp",
     "https://1719partners.com/small-business-private-equity-what-to-expect-and-how-to-choose-the-right-partner/",
     "https://www.reddit.com/r/investing/comments/cal8pr/investing_in_a_small_business_what_information_do/",
+    "https://guides.nyu.edu/finance/private-companies",
     "https://mergersandinquisitions.com/private-company-valuation/",
     "https://www.startengine.com/insights/private-market-education/investing-in-private-companies/how-to-evaluate-private-company",
-    "https://guides.nyu.edu/finance/private-companies",
     "https://voyagerconsult.com/blogs/california-direct-sales-marketing-company-pressroom/what-is-business-analysis/",
     "https://eqvista.com/company-valuation/small-business-valuation/",
     "https://www.royaltyrange.com/news/analyzing-private-company-financials/"
@@ -3593,7 +3779,7 @@
     "https://x.com/buffett_code",
     "https://x.com/tosho_links",
     "https://x.com/shionoya_sirius",
-    "https://x.com/KagawaTomo/article/2062453515474325639"
+    "https://x.com/ohnocpatax/all"
    ]
   },
   {
@@ -3601,14 +3787,14 @@
    "results": [
     "https://jp.linkedin.com/pulse/before-smes-can-unlock-value-numbers-must-first-tell-credible-chang-kb6lc?tl=ja",
     "https://jp.linkedin.com/pulse/supply-chain-superintelligence-december-2025-prewave-09tff?tl=ja",
-    "https://jp.linkedin.com/pulse/%E9%9D%9E%E4%B8%8A%E5%A0%B4%E6%A0%AA%E5%BC%8F%E3%81%AE%E7%9B%B8%E7%B6%9A%E7%A8%8E%E8%A9%95%E4%BE%A1%E8%A6%8B%E7%9B%B4%E3%81%97%E3%82%92%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E9%96%A2%E4%BF%82%E8%80%85%E3%81%AF%E3%81%A9%E3%81%86%E8%AA%AD%E3%82%80%E3%81%B9%E3%81%8D%E3%81%8B-takuya-kano-4axcc",
-    "https://jp.linkedin.com/company/datazora",
-    "https://aq.linkedin.com/jobs/view/%E3%80%90%E6%9C%AD%E5%B9%8C%E3%80%91%E4%BC%9A%E8%A8%88%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%88%EF%BC%88%E6%9C%AA%E7%B5%8C%E9%A8%93%E5%8F%AF%EF%BC%89-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%EF%BD%81%EF%BD%87%EF%BD%93%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-4438898864",
     "https://jp.linkedin.com/pulse/gratas-guide-kickstarting-your-ma-career-grata-data-fk1oc?tl=ja",
+    "https://jp.linkedin.com/pulse/%E9%9D%9E%E4%B8%8A%E5%A0%B4%E6%A0%AA%E5%BC%8F%E3%81%AE%E7%9B%B8%E7%B6%9A%E7%A8%8E%E8%A9%95%E4%BE%A1%E8%A6%8B%E7%9B%B4%E3%81%97%E3%82%92%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E9%96%A2%E4%BF%82%E8%80%85%E3%81%AF%E3%81%A9%E3%81%86%E8%AA%AD%E3%82%80%E3%81%B9%E3%81%8D%E3%81%8B-takuya-kano-4axcc",
+    "https://aq.linkedin.com/jobs/view/%E3%80%90%E6%9C%AD%E5%B9%8C%E3%80%91%E4%BC%9A%E8%A8%88%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%88%EF%BC%88%E6%9C%AA%E7%B5%8C%E9%A8%93%E5%8F%AF%EF%BC%89-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%EF%BD%81%EF%BD%87%EF%BD%93%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-4438898864",
+    "https://jp.linkedin.com/company/datazora",
     "https://jp.linkedin.com/company/rimm-japan",
     "https://jp.linkedin.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEacn%E7%B5%8C%E5%96%B6%E7%A0%94%E7%A9%B6%E6%89%80",
-    "https://jp.linkedin.com/in/takafumi-murakami-byside",
-    "https://jp.linkedin.com/company/sustainablelabinc"
+    "https://jp.linkedin.com/company/sustainablelabinc",
+    "https://jp.linkedin.com/in/takafumi-murakami-byside"
    ]
   },
   {
@@ -3653,7 +3839,7 @@
     "https://brandhatch.co.jp/x-corporate-account-success-stories/",
     "https://www.tribalmedia.co.jp/note/marketing-1068/",
     "https://attlabo.com/blog/web/sns/how_to_use_x_2025may/",
-    "https://campus.doda.jp/career/job/000292.html"
+    "https://zh.wikipedia.org/zh-tw/企业"
    ]
   },
   {
@@ -3676,19 +3862,199 @@
  "new_this_run": {
   "手順・やり方": [
    {
-    "quote": "とは、会社が将来生み出す収益に着目して会社の価値を算定する方法をいいます",
-    "url": "https://www.ma-cp.com/about-ma/unlisted-stock-valuation/",
+    "quote": "企業研究のやり方完全マニュアル｜決算データから見抜く\"本当に良い会社\"の選び方",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Private Company Valuation Methodologies: They’re the Same, Silly",
+    "quote": "本記事では、誰でも実践できる企業研究の具体的なやり方を、表の情報・裏の情報の両面から徹底解説します",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここまで紹介した方法は、上場企業であれば実践可能ですが、",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業研究の実践ステップ【6段階】",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これまでの内容を踏まえて、企業研究を実際に進める6つのステップを紹介します",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP 1",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP 2",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP 3",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP 4",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP 5",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP 6",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【転職者向け】兵庫県の\"隠れ優良企業\"とは？地元で本当に良い会社を見つけるコツ",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業分析のやり方とは？効果的な項目や注意点を紹介 | あばば大学",
+    "url": "https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "The PE firm acquires 100% of the business. The former owner receives the agreed purchase price at closing, and promptly exits the company. In some cases, founders may stay on temporarily just to support the transition.",
+    "url": "https://1719partners.com/small-business-private-equity-what-to-expect-and-how-to-choose-the-right-partner/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". In such a case, rather than funding the entire purchase price with investor capital, the acquiring firm may use borrowed funds to complete the transaction. This model can improve investment returns, but at the same time, it also increases the need to maintain healthy cash flow to service debt.",
+    "url": "https://1719partners.com/small-business-private-equity-what-to-expect-and-how-to-choose-the-right-partner/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example Private Company Valuation – Excel",
     "url": "https://mergersandinquisitions.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Note that the examples here come from an older version of our",
+    "url": "https://mergersandinquisitions.com/private-company-valuation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "企業研究のやり方完全マニュアル｜決算データから見抜く\"本当に良い会社\"の選び方",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本当に役立つ企業研究とは、求人票や企業の自己発信だけでなく、",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算データや財務指標から経営の実態を読み解くこと",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "HPは広報・採用、口コミは個人の感想、求人票は採用したい意欲の表明——いずれも企業の一面に過ぎません",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本当の企業研究は、これらに加えて「企業が自分から発信しない情報」、つまり決算データや財務指標から経営の実態を読み解くことが不可欠です",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書、決算短信、信用調査会社データ",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "就職四季報、有価証券報告書、口コミサイト",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界レポート、競合企業の決算情報",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上場企業であれば、有価証券報告書・決算短信・中長期経営計画などのIR情報が公開されています",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【裏の情報】決算データから本当の経営状態を見抜く",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "HPや口コミでは見えない「本当の経営状態」を、決算データから読み解いていきます",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上場企業であれば、EDINET（金融庁が運営する電子開示システム）から有価証券報告書を無料でダウンロードできます",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場の中小企業の場合、決算情報は原則非公開です",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "転職で失敗する人の共通点5選｜兵庫県での転職を後悔しないために",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=322",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ]
  },
- "runs": 7,
+ "runs": 8,
  "first_researched_at": "2026-11-04T23:59:04.906066+00:00"
 }

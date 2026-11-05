@@ -8,7 +8,7 @@
  ],
  "context": "探し方",
  "kind": "market",
- "researched_at": "2026-11-05T14:50:51.375862+00:00",
+ "researched_at": "2026-11-05T17:18:53.848629+00:00",
  "evidence": {
   "一次情報の探し方": [
    {
@@ -378,6 +378,14 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "このような場合でも、法人番号は原則として継続して使用されるため、過去情報と現在情報を照合する際には、法人番号を基準に確認するとスムーズです",
+    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
    {
     "quote": "検索結果に表示される 13 桁の番号が法人番号です",
@@ -554,10 +562,18 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "突き合わせ・推定": [
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
    {
-    "quote": "このような場合でも、法人番号は原則として継続して使用されるため、過去情報と現在情報を照合する際には、法人番号を基準に確認するとスムーズです",
-    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "quote": "Luke Shepherd - RegTech, FinTech & AI Platforms | Entity ...OpenCorporates - LinkedInEdgar E-File Solutions Pvt. Ltd. | LinkedInLegal-entity data you can trust | OpenCorporates - LinkedIn IndiaEdgar Fuk Hung Lau - MBA, MEC, ACG, MCMI | LinkedIn RegTech, FinTech & AI Platforms | Entity Verification & Financial Crime Compliance | Legal Entity Data @ OpenCorporates · Connecting FinTech, RegTech, and ",
+    "url": "https://uk.linkedin.com/in/luke-shepherd-332a11173",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "OpenCorporates vs Companies House vs SEC EDGAR for Company ... — May 27, 2026 · OpenCorporates Role: Registry-derived company records across supported jurisdictions First-pass company verification, jurisdiction lookup, company-number checks, officer/director pivots, and public-register source discovery. Read this evidence lane against the comparison methodology and limits instead of treating any p",
+    "url": "https://osint4all.com/comparison/opencorporates-vs-companies-house-vs-sec-edgar-for-company-due-diligence/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -937,22 +953,6 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
-   {
-    "quote": "Luke Shepherd - RegTech, FinTech & AI Platforms | Entity ...OpenCorporates - LinkedInEdgar E-File Solutions Pvt. Ltd. | LinkedInLegal-entity data you can trust | OpenCorporates - LinkedIn IndiaEdgar Fuk Hung Lau - MBA, MEC, ACG, MCMI | LinkedIn RegTech, FinTech & AI Platforms | Entity Verification & Financial Crime Compliance | Legal Entity Data @ OpenCorporates · Connecting FinTech, RegTech, and ",
-    "url": "https://uk.linkedin.com/in/luke-shepherd-332a11173",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "OpenCorporates vs Companies House vs SEC EDGAR for Company ... — May 27, 2026 · OpenCorporates Role: Registry-derived company records across supported jurisdictions First-pass company verification, jurisdiction lookup, company-number checks, officer/director pivots, and public-register source discovery. Read this evidence lane against the comparison methodology and limits instead of treating any p",
-    "url": "https://osint4all.com/comparison/opencorporates-vs-companies-house-vs-sec-edgar-for-company-due-diligence/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
@@ -1044,12 +1044,12 @@
     "method": ""
    },
    {
-    "url": "https://toukishinsei.com/column/a-comprehensive-guide-to-searching-and-viewing-the-corporate-registry/",
+    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "url": "https://toukishinsei.com/column/a-comprehensive-guide-to-searching-and-viewing-the-corporate-registry/",
     "status": "ok",
     "method": "http"
    },
@@ -1118,8 +1118,8 @@
     "https://www.ssl-store.jp/houjin-bangou/",
     "https://www1.touki.or.jp/operate/registered-use/corporation/company-id/",
     "https://corporate.ai-con.lawyer/articles/copy-of-register/15",
+    "https://media.sherpaz.jp/corporate-number/",
     "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
-    "https://shiodome.co.jp/js/blog/8947",
     "https://b2bportal.jp/corporate-number"
    ]
   },
@@ -1145,8 +1145,8 @@
     "https://www.houjin-bangou.nta.go.jp/",
     "https://houmukyoku.moj.go.jp/toyama/page000017.PDF",
     "https://www.ssl-store.jp/houjin-bangou/",
-    "https://www.houjin-bangou.nta.go.jp/website/riyo-hoho/index.html",
     "https://corporate.ai-con.lawyer/articles/copy-of-register/15",
+    "https://www.houjin-bangou.nta.go.jp/website/riyo-hoho/index.html",
     "https://shiodome.co.jp/js/blog/8947",
     "https://biz.moneyforward.com/establish/basic/88844/",
     "https://media.sherpaz.jp/corporate-number/",
@@ -1165,37 +1165,36 @@
     "https://www.trustpilot.com/review/opencorporates.com",
     "https://x.com/opencorporates",
     "https://apify.com/martc03/business-entity-mcp",
-    "https://opencorporates.com/companies/search"
+    "https://www.sec.gov/edgar/browse/?CIK=l"
    ]
   },
   {
    "query": "site:note.com 登記簿・会社番号から会社を確かめる方法（法人番号・OpenCorporates・EDGAR）",
-   "results": []
+   "results": [
+    "https://note.com/houjinbase/n/neff812ed9dec",
+    "https://note.com/houjinbase/n/n3453fdaa031d",
+    "https://note.com/geeky_banker/n/n0e619bab49c5",
+    "https://note.com/splseo/n/n63d7fa262b5e",
+    "https://note.com/konosho/n/n4464324f7443",
+    "https://note.com/tantei_note/n/n533f95ab8e3b",
+    "https://note.com/sim_labo/n/n437b7714e770"
+   ]
   },
   {
    "query": "site:x.com 登記簿・会社番号から会社を確かめる方法（法人番号・OpenCorporates・EDGAR）",
    "results": [
+    "https://x.com/usonar_jp/status/1793501993354571973",
     "https://x.com/matsuimusashino/status/2071589769247850720",
     "https://x.com/fennelofox/status/2108151837157371992",
     "https://x.com/issei_vaigate/status/2114146010872058348",
-    "https://x.com/furinfusansei10/status/2029856020760252798",
-    "https://x.com/badtzryo1979/status/2101189546977235149",
     "https://x.com/bz_office/status/2114296271574077854",
+    "https://x.com/badtzryo1979/status/2101189546977235149",
     "https://help.x.com/ja/safety-and-security/email-and-phone-discoverability-settings"
    ]
   },
   {
    "query": "site:linkedin.com 登記簿・会社番号から会社を確かめる方法（法人番号・OpenCorporates・EDGAR）",
-   "results": [
-    "https://jp.linkedin.com/pulse/日本における企業コード-shinichiro-yamashita",
-    "https://jp.linkedin.com/company/houjin-bangou",
-    "https://www.linkedin.com/company/opencorporates",
-    "https://in.linkedin.com/posts/opencorporates_search-300-million-official-company-officer-activity-7009550960427474944-8m_y",
-    "https://uk.linkedin.com/in/henriettagriffiths",
-    "https://jp.linkedin.com/posts/聰典-高橋-8644547b_国税庁法人番号公表サイトで英語表記の登録をおススメします-国税庁法人番号サイト-activity-7084022030508969984-Z8Ec",
-    "https://www.linkedin.com/posts/利明-和泉-331756322_顧客が会社を選ぶとき情報の速さだけでなく分からないことを分からないと言える担当者-activity-7515242863526481920-C59r",
-    "https://jp.linkedin.com/posts/takahiko-nishida-35899838_取引先の一覧を2つのシステムで突き合わせる前に確かめる4点を公開する-claude-activity-7493199656081096705-zUpz"
-   ]
+   "results": []
   },
   {
    "query": "site:facebook.com 登記簿・会社番号から会社を確かめる方法（法人番号・OpenCorporates・EDGAR）",
@@ -1206,7 +1205,7 @@
     "https://www.facebook.com/p/司法書士あおば綜合事務所-100069706580173/",
     "https://www.facebook.com/yurioffice/posts/httpswwwshihou-syoshinetyuriblo202104post-2066html大阪の女性司法書士-悠里司法書士行政書士事務所ブログ/3862446153838312/",
     "https://www.facebook.com/yurioffice/posts/httpswwwshihou-syoshinetyuriblo201910post-1849html大阪の女性司法書士-悠里司法書士行政書士事務所ブログ/2453858794697062/",
-    "https://www.facebook.com/Watanabe.Hirosi.42/videos/社長なのに会社が売れない社長なのに会社が売れない-不動産ma会社ごと売るの前に株主名簿を見てください1991年平成3年3月までは株式会社をつくるのに発起人が7人/1431447305856242/"
+    "https://www.facebook.com/100057489668461/posts/備忘録ノートその3登記の現場改め消滅会社被合併会社の会社法人等番号についてa登記上の抵当権者a商号変更b合併1抵当権抹消の前提として合併による抵当権移転が必要2/1887009914769829/"
    ]
   },
   {
@@ -1217,11 +1216,11 @@
     "https://houmukyoku.moj.go.jp/toyama/page000017.PDF",
     "https://www.ssl-store.jp/houjin-bangou/",
     "https://www.houjin-bangou.nta.go.jp/website/riyo-hoho/index.html",
-    "https://corporate.ai-con.lawyer/articles/copy-of-register/15",
     "https://shiodome.co.jp/js/blog/8947",
+    "https://corporate.ai-con.lawyer/articles/copy-of-register/15",
     "https://media.sherpaz.jp/corporate-number/",
-    "https://help.gmo-aozora.com/faqs/6686541defe214ffd6342abc/",
-    "https://b2bportal.jp/corporate-number"
+    "https://converter.aijimy.com/get-company-number/",
+    "https://kigyo-research-compass.com/public-data-tool-comprehensive-guide/"
    ]
   },
   {
@@ -1235,27 +1234,28 @@
     "https://corporate.ai-con.lawyer/articles/copy-of-register/15",
     "https://shiodome.co.jp/js/blog/8947",
     "https://biz.moneyforward.com/establish/basic/88844/",
-    "https://media.sherpaz.jp/corporate-number/"
+    "https://media.sherpaz.jp/corporate-number/",
+    "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/"
    ]
   },
   {
    "query": "company registry verification OpenCorporates EDGAR site:linkedin.com",
    "results": [
     "https://www.linkedin.com/pulse/five-ways-find-ultimate-beneficial-ownership-christian-focacci",
-    "https://www.linkedin.com/posts/craigjsilverman_each-edition-of-our-free-weekly-indicator-activity-7412172439423471616-U0r0",
-    "https://www.linkedin.com/posts/virajacharya_max-lemmens-gtm-elevenlabs-on-how-he-explains-activity-7382721903762767872-HcUI",
     "https://uk.linkedin.com/in/aswathyreji",
+    "https://www.linkedin.com/posts/craigjsilverman_each-edition-of-our-free-weekly-indicator-activity-7412172439423471616-U0r0",
     "https://www.linkedin.com/posts/lauraviji_china-linked-targeting-what-should-activity-7511815374032683008-chjk",
+    "https://www.linkedin.com/posts/virajacharya_max-lemmens-gtm-elevenlabs-on-how-he-explains-activity-7382721903762767872-HcUI",
     "https://www.linkedin.com/pulse/osint-powerful-tool-aml-fraud-investigations-mikael-gustafsson-7mqbc",
-    "https://www.linkedin.com/posts/ivaylo-penev-18154295_elevenlabs-has-officially-arrived-in-brussels-activity-7511391428850266112-gSAo",
     "https://in.linkedin.com/in/nikita-upadhyay-a784151a8",
     "https://www.linkedin.com/pulse/researchsearch-any-information-online-2022-november-milo%C5%A1evi%C4%87",
+    "https://www.linkedin.com/posts/ivaylo-penev-18154295_elevenlabs-has-officially-arrived-in-brussels-activity-7511391428850266112-gSAo",
     "https://www.linkedin.com/in/vahid-sazegara"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 7,
+ "runs": 8,
  "first_researched_at": "2026-11-05T02:52:32.017389+00:00"
 }

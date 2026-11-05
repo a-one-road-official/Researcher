@@ -1327,7 +1327,7 @@
   - 「９ 調査結果の」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ また、工業統計調査においては、市区町村別結果等の詳細集計や個人経営事業所」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ これに基づき、乙調査の位置づけについて検討を行った結果、①甲調査という産業」（https://www.soumu.go.jp/main_content/000744047.pdf）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
 
 ## エキスパートや調査会社のリサーチャーが書いた調べ方のブログ（professional researcher blog research techniques）
 - 文脈：凄腕・実務
@@ -2089,11 +2089,11 @@
 
 ## 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）（checking statistical definitions coverage threshold member-only shipment vs sales）
 - 文脈：定義の点検
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 実例：記載なし（読んだ28頁・検索12回）
 
 ## 決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）（reading Japanese public financial notices small companies net assets net income）
 - 文脈：決算公告
@@ -3245,7 +3245,7 @@
 - 実例：
   - 「例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
   - 「(無料、データ加工実例)」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
-- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 官報・電子公告の決算公告で中小の財務を読む実務（探し方・単位・公告が無い理由）（reading Japanese public financial notices kanpo SME balance sheet units）
 - 文脈：一次情報の探し方
@@ -3618,11 +3618,37 @@
 
 ## Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）（main content extraction boilerplate removal related articles scraping）
 - 文脈：
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：
+  - 「What Is Boilerplate Removal? Methods and Evaluation」（https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal）
+  - 「No method is perfect across every page.」（https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal）
+  - 「Rule-Based and Semantic Methods」（https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal）
+  - 「Text-density methods divide a page into blocks or lines and score how much natural-language text appears relative to tags or markup. Long paragraphs with punctuation often score as content. Link density helps identify navigation and recommendation lists, where much of the text is inside anchors.」（https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal）
+  - 「Repetition is not proof of irrelevance. A product specification, safety warning, author biography, or legal condition may appear on many pages and still matter to the task. Cross-page methods should produce candidate boilerplate that is evaluated against the intended content schema, not an automatic deletion list.」（https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal）
+  - 「Machine-learning systems classify blocks using textual, structural, visual, and neighboring features. Sequence models can use the fact that content blocks tend to occur in runs, while graph methods can connect similar blocks or layout relationships. The」（https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal）
+  - 「Form Submission and Multi-Step Flows」（https://simpleprog.com/topics/web-scraping/article-text-extraction）
+  - 「. Unlike product scraping, one selector rarely does the job, because an article corpus spans many sites and templates. What follows covers the general-purpose tools, how their heuristics work, how to measure them, and when to write per-site rules instead.」（https://simpleprog.com/topics/web-scraping/article-text-extraction）
+  - 「tags at all. Good extractors combine signals and fall back to another method when the first yields too little.」（https://simpleprog.com/topics/web-scraping/article-text-extraction）
+  - 「text), and score every extractor against them. Token overlap is good enough to compare methods:」（https://simpleprog.com/topics/web-scraping/article-text-extraction）
+- 突き合わせ・推定：
+  - 「Estimate source acquisition, rendering, storage, labeling, evaluation, and downstream indexing together.」（https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal）
+- 一次情報の探し方：
+  - 「PDF and Document Extraction」（https://simpleprog.com/topics/web-scraping/article-text-extraction）
+- 実例：
+  - 「Label blocks and boundary cases, including repeated content that remains relevant.」（https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal）
+  - 「The examples run against a saved test page,」（https://simpleprog.com/topics/web-scraping/article-text-extraction）
+  - 「url="https://news.example.com/travel/night-trains",」（https://simpleprog.com/topics/web-scraping/article-text-extraction）
+  - 「drops known junk first, for example」（https://simpleprog.com/topics/web-scraping/article-text-extraction）
+  - 「"news.example.com": {"body": "main article", "drop": [".ad-slot", "aside.related", "p.byline"]},」（https://simpleprog.com/topics/web-scraping/article-text-extraction）
+  - 「https://example.com/article/123」（https://mydatascraper.com/services/website-content-scraping/）
+  - 「https://example.com/blog/best-headphones」（https://mydatascraper.com/services/website-content-scraping/）
+  - 「https://example.com/blog/best-wireless-headphones-2026」（https://mydatascraper.com/services/website-content-scraping/）
+  - 「https://cdn.example.com/img/wh-2026.jpg」（https://mydatascraper.com/services/website-content-scraping/）
+  - 「https://example.org/news/new-earbuds-launch」（https://mydatascraper.com/services/website-content-scraping/）
+  - 「https://cdn.example.org/img/eb-launch.jpg」（https://mydatascraper.com/services/website-content-scraping/）
+  - 「https://example.net/guides/headphone-buying-guide」（https://mydatascraper.com/services/website-content-scraping/）
+  - 「https://cdn.example.net/img/hp-guide.jpg」（https://mydatascraper.com/services/website-content-scraping/）
+  - 「Tell us what data you need, where it lives, and how you want it delivered. Our team will design the extraction workflow around your use case.」（https://mydatascraper.com/services/website-content-scraping/）
+- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
 
 ## 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）（journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS）
 - 文脈：
@@ -3883,6 +3909,8 @@
   - 「2’s review will develop recommendations on how to avoid potential pitfalls」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
   - 「46 See Artificial Intelligence Ethics Framework for the Intelligence Community v. 1.0 as of June 2020; AI_Ethics_」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
   - 「Framework_for_the_Intelligence_Community_10.pdf (dni.gov)」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+  - 「Every product has to describe the quality and credibility of its underlying sources, data, and methodologies, so a reader can tell whether a judgment rests on a single human source with a mixed track record or on several corroborating intercepts. A separate directive, ICD 206, governs the specific sourcing descriptors analysts use in disseminated products.」（https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/）
+  - 「The current edition of ICD 203 was issued on January 2, 2015, replacing the original 2007 directive. The 2015 revision expanded the tradecraft list from eight standards to nine by adding the requirement for accurate judgments and assessments, and formally established the ODNI Analytic Ombuds within the directive’s compliance framework.」（https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/）
 - 突き合わせ・推定：
   - 「In the wake of the faulty 2002 National Intelligence Estimate (NIE) on Iraq’s」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
 - 一次情報の探し方：
@@ -4082,99 +4110,6 @@
   - 「「その場の同期対話で検証可能な実務スキル・再現性・AIとの協働プロセス」**（ペア作業、AI利用前提のライブ課題、システムデザイン・ケース議論、リファレンスチェック）へと一段と鋭くシフトしている [SRC-056, SRC-058]」（https://note.com/jack4manastalk/n/n880406135053）
   - 「ご質問にある「本番面接以外に求職者のアクションが不要なケース」は」（https://note.com/jack4manastalk/n/n880406135053）
 
-## 1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号）（revenue per employee benchmark by company size median quartile）
-- 文脈：推定
-- 手順・やり方：
-  - 「SaaS CAC Ratio | How to Calculate and Why It Matters」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
-  - 「How to Calculate Your Renewal and Upsell Rate」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
-  - 「The Rule of 40 SaaS | How to Calculate and Why It Matters in 2025? (Updated)」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
-  - 「How to Calculate and Understand the SaaS Quick Ratio」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
-  - 「How to Correctly Calculate your SaaS Gross Profit Margin」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
-  - 「How to Calculate Customer Lifetime Value (CLTV)」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
-  - 「How to Create the Dreaded Excel Waterfall Chart」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
-  - 「How to Prepare for Preliminary SaaS Due Diligence」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
-  - 「How to Prepare for M&A Management Presentations」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
-  - 「How to Forecast Your Sales Team Headcount While Scaling Bookings」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
-  - 「Five Pillar SaaS Metrics Framework」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
-  - 「How to Move Your Number」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
-  - 「Want ARR per employee alongside the rest of the Efficiency pillar and the full Five Pillar Framework?」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
-  - 「How to Calculate the Burn Multiple」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
-  - 「recommends staying consistent within your comparison set rather than picking whichever method flatters the number.」（https://bizminer.com/revenue-per-employee-benchmarks/）
-- 突き合わせ・推定：
-  - 「The AI infrastructure companies sit above even that. Epoch AI estimates Anthropic at roughly」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
-- 実例：
-  - 「Reconciliation example」（https://bizminer.com/revenue-per-employee-benchmarks/）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-
-## 研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合）（data cleaning plan checklist consistency checks Crystal Lewis data management education research）
-- 文脈：清掃
-- 手順・やり方：
-  - 「さまざまな可視化の方法を試してみるとよいでしょう」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「データクリーニングをどこまで・どのように行うかは、分析の方針や分析方法、用いる分析ツールによっても異なるため、ここでは基本的な確認ポイントに絞って解説していきます」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「Excel等の表形式のデータの入力方法については、総務省が公開している「」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「統計表における機械判読可能なデータ作成に関する表記方法」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「カンマ（タブ）と改行という単純な方法でデータを表現しているため、テキストエディター等でも開くことができるなど、ソフトウェアの種別を問わず開くことができるメリットもあります」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「詳しい使い方などは、以下の資料をご覧ください」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「イリノイ大学が提供しているOpenRefineの使い方ガイドです」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「データをクリーンアップする方法トップ10」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「誤ってデータを消したりしてしまわないためにセルをロックする（＝編集できなくする）方法を紹介しています」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「データのフォーマット（形式）を統一したり、値を正規化したりするために、セルに入力規則を設定する方法を紹介しています」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「Excelを使用してデータを集計する方法を解説した動画です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「正規表現とは、「メタ文字」という特殊な文字を用いるなどの方法で、高度な文字列の検索や置換を行う仕組みのことです」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「のページにおいて、Googleドキュメントでの正規表現の使用方法や利用できるメタ文字などについて説明があります」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「正規表現の使い方などについては、以下の資料をご覧ください」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「書籍に沿って使い方を学ぶ場合に限り、無料版でも行えます」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-- 突き合わせ・推定：
-  - 「このような重複データを照合し、同一と判断して統合する処理が名寄せです」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「検索・照合の精度を上げるための“土台作り”となる処理です」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「氏名・住所・電話番号などを照合し、1つのデータに統合します」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「データ・クリーニングによって、組み合わせたデータをシステム間で一貫性を持って使用できるようになり、データ形式や規格の矛盾から生じる問題を防ぐことができます」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
-  - 「同じデータセット内で、データが異なる形式や構造で表現されていると矛盾が生じます」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
-  - 「これに対処するため、データ専門家は欠損値を推定データで置き換えたり、不完全な入力項目を削除したり、さらなる調査のために欠損値にフラグを立てたりする場合があります」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
-  - 「データの検証では、多くの場合、手動検査または自動データ・クリーニング・ツールを使用して、エラーや一貫性のないデータ、異常が残っていないかをチェックします」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
-- 一次情報の探し方：
-  - 「統計表における機械判読可能なデータ作成に関する表記方法」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「以下の画像は、同じテキストをPDF（画像左）とプレーンテキスト（画像右）で表示した例です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「たとえば、PDFファイルのテキストをそのままコピーしたり、画像ファイルにOCR（画像等に含まれる文字を認識する技術）をかけたりすると、予期しない改行やスペースが入ることがあります」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「PDFは人間にとっては問題なく読むことができるファイルですが、コンピュータによる処理には適さない（機械可読でない）ファイルとなっています」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「相談できる分野に統計・データ処理があるので、わからないことがあったら相談してみてください」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「異常値を含んだまま分析すると、平均値や統計結果が大きく歪んでしまう可能性があります」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「文字データを、AIや統計ソフトが扱える「数値」に変換します」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「機械学習や統計分析を行う際に必要となる処理です」（https://www.cm-net.co.jp/blog/data-cleansing/）
-- 失敗・落とし穴：
-  - 「分析をはじめる前に、いくつかデータをピックアップしてチェックしたり、データを可視化したりして間違いを見つけることで、こうした二度手間を避けることができます」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「ツール使用時にテキストデータがサーバに送信されるため、個人情報を含むテキストで使用する場合には注意が必要です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「なお、Excelでは1900年より前の日付を「文字列」として扱うため、注意が必要です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「ただし、日本語では適切に動作しないことがあったり、固有名詞などはチェックできなかったりするため、注意が必要です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「ただ、Excelでは操作を誤りやすいため、変更の必要がないセルをロックしたり、既定値のあるデータには「データの入力規則」を適用したりするとよいでしょう」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「そこで重要になるのが、データの誤りや重複、表記ゆれなどを修正し、信頼性の高い状態へと整える」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「９．データクレンジング実施時のポイント・注意点」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「データクレンジングとは、データベースに保存された情報の誤りや重複、表記ゆれ、欠損などの不備を修正し、データの正確性や一貫性を高める作業のことです」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「新しいシステムへデータを移行する際、既存データに誤りや不要な情報が含まれていると、その問題も新しい環境へと引き継がれてしまい、トラブルの原因となります」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「データに誤りや重複、表記ゆれがある状態では、必要な情報を探すのに時間がかかり、分析や業務のたびに修正作業が発生します」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「しかし、古い情報や不正確なデータをもとに判断すると、戦略の方向性を見誤り、長期的な競争力を損なうリスクがあります」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「ここでは、実施時に押さえておきたい重要なポイントと注意点を整理します」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「情シス代行とは？依頼できる業務内容・導入メリット・失敗しない選び方を徹底解説！」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「例えば、データ・クリーニングは、機械学習アルゴリズムのトレーニングの基となるデータセットを、正確で一貫性がありバイアスのない状態にするのに役立ちます」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
-  - 「このクリーンなデータの基盤がなければ、アルゴリズムは不正確で一貫性がなくバイアスのある予測を生成する可能性があり、意思決定の有効性と信頼性を低下させかねません」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
-- 実例：
-  - 「研究をする過程では、アンケート調査の回答、計測・観測結果など様々なデータを収集・生成することがあるかと思います」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「たとえば、アンケート調査を実施し、以下のような回答結果を分析する場合を考えてみましょう」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「ここでの事例はGoogleドキュメントに限らず、他のテキストエディタでもおおむね利用できる事例です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「そのほか、正規表現の実例については、インターネット上でさまざまな紹介がされているので、調べてみましょう」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「情シス支援サービス「ION」（イオン） 事例紹介」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「といった問題に直面するケースも少なくありません」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「こうした不正確で整理されていないデータは、分析結果の精度を低下させるだけでなく、業務効率の悪化や誤った意思決定の原因にもなります」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「今回は、データクレンジングの概要や目的、必要になるケース、具体的な手法や進め方について分かりやすく解説します」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「３．データクレンジングが必要になるケース」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「と呼ばれ、そのまま利用すると検索や集計が正しく行えなかったり、分析結果の精度にも影響が及び、誤った意思決定や業務効率の低下につながる可能性があります」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「上記のような処理を通じてデータの品質が向上し、データ分析やマーケティング、営業活動などにおいて、より信頼性の高い結果を得られるようになります」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「しかし実際には、誤入力や重複登録、表記ゆれ、情報の欠損などが含まれているケースも少なくありません」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「データ分析の結果は、元となるデータの品質に大きく左右されます」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「ダーティデータを含んだ状態のまま分析を行えば、得られる結果も不正確になり、誤った意思決定につながる可能性があります」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「ここでは、企業でよく見られる代表的なケースを紹介します」（https://www.cm-net.co.jp/blog/data-cleansing/）
-
 ## 議会図書館・統計機関のファクトチェックの手引き（要約でなく表を引く・比べる相手・確かめられない主張の扱い）（House of Commons Library how to check facts statistics primary source data tables）
 - 文脈：検証
 - 手順・やり方：
@@ -4257,3 +4192,96 @@
   - 「Claudeのコメント: 映像による本人確認が実時間の顔変換と物理的な小道具の併用で破られた事例であり、発覚が処理落ちという偶然に依存していた点は、なりすましの検知を人の目視や動作の自然さに頼る運用の限界を示す」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
   - 「Claudeのコメント: 反射統制の観点では、EUが強力な対抗手段を行使より温存に留めていること自体が、対称的な相互依存が抑止として機能する事例であり、認知戦で語られる非対称的な脆弱性の構図とは異なる」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
   - 「豪州の男性がAIエージェントにジム予約を依頼したところ、予約システムに侵入し他人の予約を取り消していた事例も紹介した」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+
+## 研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合）（data cleaning plan checklist consistency checks Crystal Lewis data management education research）
+- 文脈：清掃
+- 手順・やり方：
+  - 「さまざまな可視化の方法を試してみるとよいでしょう」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「データクリーニングをどこまで・どのように行うかは、分析の方針や分析方法、用いる分析ツールによっても異なるため、ここでは基本的な確認ポイントに絞って解説していきます」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「Excel等の表形式のデータの入力方法については、総務省が公開している「」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「統計表における機械判読可能なデータ作成に関する表記方法」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「カンマ（タブ）と改行という単純な方法でデータを表現しているため、テキストエディター等でも開くことができるなど、ソフトウェアの種別を問わず開くことができるメリットもあります」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「詳しい使い方などは、以下の資料をご覧ください」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「イリノイ大学が提供しているOpenRefineの使い方ガイドです」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「データをクリーンアップする方法トップ10」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「誤ってデータを消したりしてしまわないためにセルをロックする（＝編集できなくする）方法を紹介しています」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「データのフォーマット（形式）を統一したり、値を正規化したりするために、セルに入力規則を設定する方法を紹介しています」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「Excelを使用してデータを集計する方法を解説した動画です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「正規表現とは、「メタ文字」という特殊な文字を用いるなどの方法で、高度な文字列の検索や置換を行う仕組みのことです」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「のページにおいて、Googleドキュメントでの正規表現の使用方法や利用できるメタ文字などについて説明があります」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「正規表現の使い方などについては、以下の資料をご覧ください」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「書籍に沿って使い方を学ぶ場合に限り、無料版でも行えます」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+- 突き合わせ・推定：
+  - 「このような重複データを照合し、同一と判断して統合する処理が名寄せです」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「検索・照合の精度を上げるための“土台作り”となる処理です」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「氏名・住所・電話番号などを照合し、1つのデータに統合します」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「データ・クリーニングによって、組み合わせたデータをシステム間で一貫性を持って使用できるようになり、データ形式や規格の矛盾から生じる問題を防ぐことができます」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
+  - 「同じデータセット内で、データが異なる形式や構造で表現されていると矛盾が生じます」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
+  - 「これに対処するため、データ専門家は欠損値を推定データで置き換えたり、不完全な入力項目を削除したり、さらなる調査のために欠損値にフラグを立てたりする場合があります」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
+  - 「データの検証では、多くの場合、手動検査または自動データ・クリーニング・ツールを使用して、エラーや一貫性のないデータ、異常が残っていないかをチェックします」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
+- 一次情報の探し方：
+  - 「統計表における機械判読可能なデータ作成に関する表記方法」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「以下の画像は、同じテキストをPDF（画像左）とプレーンテキスト（画像右）で表示した例です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「たとえば、PDFファイルのテキストをそのままコピーしたり、画像ファイルにOCR（画像等に含まれる文字を認識する技術）をかけたりすると、予期しない改行やスペースが入ることがあります」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「PDFは人間にとっては問題なく読むことができるファイルですが、コンピュータによる処理には適さない（機械可読でない）ファイルとなっています」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「相談できる分野に統計・データ処理があるので、わからないことがあったら相談してみてください」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「異常値を含んだまま分析すると、平均値や統計結果が大きく歪んでしまう可能性があります」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「文字データを、AIや統計ソフトが扱える「数値」に変換します」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「機械学習や統計分析を行う際に必要となる処理です」（https://www.cm-net.co.jp/blog/data-cleansing/）
+- 失敗・落とし穴：
+  - 「分析をはじめる前に、いくつかデータをピックアップしてチェックしたり、データを可視化したりして間違いを見つけることで、こうした二度手間を避けることができます」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「ツール使用時にテキストデータがサーバに送信されるため、個人情報を含むテキストで使用する場合には注意が必要です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「なお、Excelでは1900年より前の日付を「文字列」として扱うため、注意が必要です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「ただし、日本語では適切に動作しないことがあったり、固有名詞などはチェックできなかったりするため、注意が必要です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「ただ、Excelでは操作を誤りやすいため、変更の必要がないセルをロックしたり、既定値のあるデータには「データの入力規則」を適用したりするとよいでしょう」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「そこで重要になるのが、データの誤りや重複、表記ゆれなどを修正し、信頼性の高い状態へと整える」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「９．データクレンジング実施時のポイント・注意点」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「データクレンジングとは、データベースに保存された情報の誤りや重複、表記ゆれ、欠損などの不備を修正し、データの正確性や一貫性を高める作業のことです」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「新しいシステムへデータを移行する際、既存データに誤りや不要な情報が含まれていると、その問題も新しい環境へと引き継がれてしまい、トラブルの原因となります」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「データに誤りや重複、表記ゆれがある状態では、必要な情報を探すのに時間がかかり、分析や業務のたびに修正作業が発生します」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「しかし、古い情報や不正確なデータをもとに判断すると、戦略の方向性を見誤り、長期的な競争力を損なうリスクがあります」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「ここでは、実施時に押さえておきたい重要なポイントと注意点を整理します」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「情シス代行とは？依頼できる業務内容・導入メリット・失敗しない選び方を徹底解説！」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「例えば、データ・クリーニングは、機械学習アルゴリズムのトレーニングの基となるデータセットを、正確で一貫性がありバイアスのない状態にするのに役立ちます」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
+  - 「このクリーンなデータの基盤がなければ、アルゴリズムは不正確で一貫性がなくバイアスのある予測を生成する可能性があり、意思決定の有効性と信頼性を低下させかねません」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
+- 実例：
+  - 「研究をする過程では、アンケート調査の回答、計測・観測結果など様々なデータを収集・生成することがあるかと思います」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「たとえば、アンケート調査を実施し、以下のような回答結果を分析する場合を考えてみましょう」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「ここでの事例はGoogleドキュメントに限らず、他のテキストエディタでもおおむね利用できる事例です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「そのほか、正規表現の実例については、インターネット上でさまざまな紹介がされているので、調べてみましょう」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「情シス支援サービス「ION」（イオン） 事例紹介」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「といった問題に直面するケースも少なくありません」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「こうした不正確で整理されていないデータは、分析結果の精度を低下させるだけでなく、業務効率の悪化や誤った意思決定の原因にもなります」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「今回は、データクレンジングの概要や目的、必要になるケース、具体的な手法や進め方について分かりやすく解説します」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「３．データクレンジングが必要になるケース」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「と呼ばれ、そのまま利用すると検索や集計が正しく行えなかったり、分析結果の精度にも影響が及び、誤った意思決定や業務効率の低下につながる可能性があります」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「上記のような処理を通じてデータの品質が向上し、データ分析やマーケティング、営業活動などにおいて、より信頼性の高い結果を得られるようになります」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「しかし実際には、誤入力や重複登録、表記ゆれ、情報の欠損などが含まれているケースも少なくありません」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「データ分析の結果は、元となるデータの品質に大きく左右されます」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「ダーティデータを含んだ状態のまま分析を行えば、得られる結果も不正確になり、誤った意思決定につながる可能性があります」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「ここでは、企業でよく見られる代表的なケースを紹介します」（https://www.cm-net.co.jp/blog/data-cleansing/）
+
+## 1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号）（revenue per employee benchmark by company size median quartile）
+- 文脈：推定
+- 手順・やり方：
+  - 「SaaS CAC Ratio | How to Calculate and Why It Matters」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「How to Calculate Your Renewal and Upsell Rate」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「The Rule of 40 SaaS | How to Calculate and Why It Matters in 2025? (Updated)」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「How to Calculate and Understand the SaaS Quick Ratio」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「How to Correctly Calculate your SaaS Gross Profit Margin」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「How to Calculate Customer Lifetime Value (CLTV)」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「How to Create the Dreaded Excel Waterfall Chart」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「How to Prepare for Preliminary SaaS Due Diligence」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「How to Prepare for M&A Management Presentations」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「How to Forecast Your Sales Team Headcount While Scaling Bookings」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「Five Pillar SaaS Metrics Framework」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「How to Move Your Number」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「Want ARR per employee alongside the rest of the Efficiency pillar and the full Five Pillar Framework?」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「How to Calculate the Burn Multiple」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「recommends staying consistent within your comparison set rather than picking whichever method flatters the number.」（https://bizminer.com/revenue-per-employee-benchmarks/）
+- 突き合わせ・推定：
+  - 「The AI infrastructure companies sit above even that. Epoch AI estimates Anthropic at roughly」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+- 実例：
+  - 「Reconciliation example」（https://bizminer.com/revenue-per-employee-benchmarks/）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
