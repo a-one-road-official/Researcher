@@ -5,53 +5,53 @@
 ## デスクリサーチで書かれていない数字を推定する方法（desk research estimating unpublished numbers）
 - 文脈：推定
 - 手順・やり方：
-  - 「市場規模算出の目的と、思考のフレームワークである「TAM / SAM / SOM」について解説」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「「3つの手順」と、数字の解像度を上げるための「泥臭いテクニック」」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「実践編：市場規模を算出する「3つのステップ」」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「Step 1: すでに存在するレポートから調べる」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「Step 2：算出ロジックを組み立てる（4つのアプローチ）」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「Step 3：データの精度を高めるテクニック」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「ではここから、私がいつも市場規模を算出するために行っていることをステップごとにご紹介します」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「ここで私が意識しているのは、1つの計算方法に頼らず、複数の手法で計算して妥当性を検証する」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「顧客1人、あるいは店舗1つあたりの経済活動を特定し、それを積み上げる方法」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「「リープフロッグ（技術的飛躍）」型のビジネスに最適」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「ここまで、技術的な手法やフレームワークについてお話ししてきましたが、改めて最後に強調したいのは」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「『日本とアフリカ諸国を繋ぎ、社会課題解決型ビジネスを共創することで、アフリカの持続的成長に貢献する』をビジョンに日本企業のアフリカへのビジネス進出や現地での事業開発をサポートする日系コンサルティング会社です」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル｜ k_bird｜Branding Strategist｜ASAKO」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「正しい手順とフレームワークさえ踏めば、誰にでも習得可能な「論理的思考の技術」であり、再現性のある「方法論」だ」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「都度計算するのではなく、要素分解がすべて完了してからまとめて数値を当てはめるのが効率的なやり方です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「ステップ4：妥当性の検証・結論の提示」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「前のステップでの推定値は約70万トンでしたが、実際の日本の年間コーヒー消費量（約43万トン）と比較すると、大きなズレがあることがわかります」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「そのような場面では、デザイン思考やSWOT分析など、別のフレームワークや思考法を取り入れることが必要です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「本記事でご紹介した4つのステップを参考に、ぜひ日々のマーケティング活動にフェルミ推定を取り入れてみてください」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「アイデア創出から顧客検証・事業計画・事業化まで、進め方を学ぶ」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「新規事業の進め方や実践事例を、専門家・実務家から学ぶ」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「デスクリサーチのやり方｜6ステップと新規事業に使える記入例」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「やり方は、目的を決める、問いを絞る、情報を探す、根拠を確かめる、整理する、次の行動を決める、の6ステップです」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「新規事業40フレームワーク実践集」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「デスクリサーチのやり方は6ステップ」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「調査で避けたい4つのミスと修正方法」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「以下では6つのステップを、飲食店向けの発注支援サービスを考える架空の例で説明します」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「全国の飲食チェーンと、特定地域の個人店では、公開情報の量も発注業務の進め方も異なります」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「また、資料名やURLを後から探し直すのではなく、情報を採用するときに一緒に保存するのがコツです」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
 - 突き合わせ・推定：
   - 「ただし、ここで得た声はあくまで仮説のヒントとして扱います」（https://consul-data-bank.com/insight/5868/）
   - 「海外リサーチの流れは「Statistaや国際機関で数字の候補を掴む → Crunchbaseで投資動向を見る → 専門メディアで定性情報を拾う → 原典で裏取り」が基本形です」（https://consul-data-bank.com/insight/5868/）
-  - 「ここで私が意識しているのは、1つの計算方法に頼らず、複数の手法で計算して妥当性を検証する」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「特に現場実装を前提とするアフリカビジネスでは、この推定が事業の成否を分けます」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「正確な数字がない場合は、論理的な推論（フェルミ推定）を用います」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「推定は数字の正確性よりも、「仮定が明示されており、議論・修正が可能である」という点」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「知りたい直接的なデータ（例：特定商品の正確な売上高など）が存在しない場合でも、それと強い相関関係にある別のデータ、すなわち「プロキシ」を探すことで実態を推計」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「デスクリサーチの仮説を、現地の「肌感覚」で修正します」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「デスクリサーチで立てた仮説は、必ず現地の「肌感覚」と照らし合わせて修正する必要」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「「公式市場の1.5倍〜2倍程度の実態があるのではないか？」といった仮説を持ち、現地パートナーの知見を借りて係数として組み込む視点を持つことが重要です」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「フェルミ推定」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル｜ k_bird｜Branding Strategist｜ASAKO」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「このページに辿り着いたあなたなら、今まさに「フェルミ推定をマスターして、思考の解像度を上げたい」、あるいは「コンサル流の地頭の良さを自分のスキルとして定着させたい」という強い向上心を持っていることだろう」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「「フェルミ推定」という言葉を聞いて、あなたはどのような印象を持つだろうか？」（https://note.com/missiondrivencom/n/n9201e39a1296）
+  - 「外部のリサーチ会社に依頼するような費用や時間をかけることなく、一定の根拠を持った推定ができる点が大きな強みです」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「正確な市場データが入手できない場面でも、フェルミ推定を活用することで大まかな市場規模を算出できます」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「データが十分に揃うのを待つのではなく、現時点の情報を最大限活用してスピーディーに動けることが、フェルミ推定の大きな利点です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「フェルミ推定を取り入れることで、テストマーケティングの結果をもとに早期に施策を調整することが可能になります」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「この時点では「小規模店では担当者の経験に依存しているのではないか」などの仮説を置いて構いません」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「ただし、仮説を事実のように書かないことが重要です」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「「既存の仕組みで十分ではないか」「食材ロスの主因は発注以外ではないか」と、仮説を否定する側の問いも用意します」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「たとえば、「ある業界で食品ロスが発生している」は資料で確認できても、「発注支援サービスが売れる」は、そこから考えた仮説です」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「社内の調査報告、検証記録、営業資料」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「site:maff.go.jp 外食 食品ロス 推計」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「事実と仮説を分けて読む練習として使ってください」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「2024年度の食品ロス量の推計」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「06 調査後の検証を進める体制がない」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
 - 一次情報の探し方：
   - 「"EV charging" market size filetype:pdf site:.org」（https://consul-data-bank.com/insight/5868/）
   - 「「-求人 -転職」のように除外語を足すと、目的と関係ないページが検索結果から消え、原典に近い資料が上位に残ります」（https://consul-data-bank.com/insight/5868/）
   - 「コマンドは一次情報を保証するものではありません」（https://consul-data-bank.com/insight/5868/）
   - 「同じ「情報ソース」でも、一次情報なのか、データを集約したものなのか、仮説のヒントなのかで扱いが変わります」（https://consul-data-bank.com/insight/5868/）
   - 「国内①：政府統計の総合窓口（e-Stat）｜総務省統計局」（https://consul-data-bank.com/insight/5868/）
+  - 「さらに、数字を探すなら「統計」「実態調査」、企業の発表を探すなら「決算説明資料」など、資料の種類を追加します」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「"発注" "飲食店" filetype:pdf」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「新しいサービス名には統計がなくても、そのサービスが置き換える業務には資料があるかもしれません」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「それでも広い統計しかない場合は、広い対象であることを明記して参考にとどめます」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「食品ロスの統計を、発注支援サービスの検討に使う整理例」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
   - 「① 公的機関」（https://note.com/bon0404/n/n3912f28693b8）
   - 「各国の統計局（例：ケニア国立統計局 KNBSなど）がWebサイトでデータを公開している場合があります」（https://note.com/bon0404/n/n3912f28693b8）
   - 「更新頻度はまちまちですが、人口センサスなどの一次情報はここで確認します」（https://note.com/bon0404/n/n3912f28693b8）
   - 「現地の統計局に比べて国際機関のデータの方がよく整備されておりアクセスも容易です」（https://note.com/bon0404/n/n3912f28693b8）
   - 「世界中の統計データを集約したプラットフォーム」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「統計データが不足しているアフリカ市場において」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「また、アフリカの多くの国では製造業が未発達で輸入に依存しているため、特定の消費財市場を知るには「HSコードに基づく輸入統計（UN Comtradeなど）」がそのまま市場規模に近い数値を示すことも少なくありません」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「統計情報が少ないアフリカにおいて、市場規模算出に「正解」はありません」（https://note.com/bon0404/n/n3912f28693b8）
-  - 「2つ目は「最新の統計数字を知らないから計算できない」と諦めてしまうことだ」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「しかし、一流のコンサルタントもすべての統計を暗記しているわけではない」（https://note.com/missiondrivencom/n/n9201e39a1296）
 - 失敗・落とし穴：
   - 「注意ポイント：インフォーマルセクターを見落とさない」（https://note.com/bon0404/n/n3912f28693b8）
   - 「これらは非常に質が高い一方で、一部のサービスや詳細なレポートは「有料」となる点に注意が必要です」（https://note.com/bon0404/n/n3912f28693b8）
@@ -69,6 +69,9 @@
   - 「KPIや数値データなどの「目に見える」情報に注意が奪われ「目に見えない」質的な側面や、背景にあるストーリーは軽視されていく」（https://note.com/missiondrivencom/n/n9201e39a1296）
   - 「「一生もののスキルになるのは間違いない」」（https://note.com/missiondrivencom/n/n9201e39a1296）
 - 実例：
+  - 「参入したい市場が決まっていると、成長予測や成功事例ばかりが目に入りがちです」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「調べる問いが定まらない、顧客への確かめ方に迷う、調査結果を企画に落とし込めない」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「業種別・企業事例（6）」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
   - 「例えば、富裕層や中間層の規模を把握したい場合、高級ショッピングモールの店舗数やiPhoneのシェア率、あるいはインターナショナルスクールの生徒数などが有効な指標となります」（https://note.com/bon0404/n/n3912f28693b8）
   - 「「外資系コンサルのケース面接（入社試験）のための特殊なクイズ」」（https://note.com/missiondrivencom/n/n9201e39a1296）
   - 「例えば、日本全体の売上を考える際、いきなり細かい数字を追うのではない」（https://note.com/missiondrivencom/n/n9201e39a1296）
@@ -81,9 +84,6 @@
   - 「：周辺アクセサリー市場（スマホケース等）、代替サービス（カーシェアリング等）」（https://note.com/missiondrivencom/n/n9201e39a1296）
   - 「事実を整理するだけ、分析結果を説明するだけ、誰かの意見に同調するだけでは、プロフェッショナルとして十分とは言えない」（https://note.com/missiondrivencom/n/n9201e39a1296）
   - 「短期的な結果を求めるあまり、問題の本質に向き合う時間を確保できず、解決策は表面的なものになる」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「しかし本書は「仮説思考に必要な頭の使い方の手順」を、豊富な事例とともに徹底解説している」（https://note.com/missiondrivencom/n/n9201e39a1296）
-  - 「調査結果の分析効率化ダッシュボード構築支援」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「調査結果は、ニーズ・アイディア検索や市場把握の資料としてご活用ください」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
 - 検索結果の抜粋：
   - 「What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsDesk Research: What It Is, Methods & When to Use It | PRSDesk Research: Step-by-Step Guide & Tips | UXAtlasScope and financial impact of unpublished data and unused ...Desk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 」（https://www.meltwater.com/en/blog/desk-research）
 
@@ -292,21 +292,21 @@
 ## 統計（e-Stat・工業統計・経済センサス）の読み方と時系列の作り方（how to use Japanese government statistics time series）
 - 文脈：統計
 - 手順・やり方：
+  - 「総務省統計局「社会人のためのデータサイエンス入門/公的データの使い方」のまとめと感想～e-Stat、なかなかやるなと思った話【Week4】｜水無瀬あずさ＠複業ライター」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
+  - 「総務省統計局「社会人のためのデータサイエンス入門/公的データの使い方」のまとめと感想～e-Stat、なかなかやるなと思った話【Week4】」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
+  - 「Week4「公的データの使い方」のまとめと感想」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
+  - 「それではWeek4「公的データの使い方」の講義を受けて、印象に残ったことや感想などをまとめてみたいと思います」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
+  - 「実はあまり使い方を知らなかったのですが、これからは使いこなしてデータ分析もできるライターを目指したいです」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
+  - 「え、統計に関する法律なんてあるの･･･誰得･･･？って思いませんか？私、「統計法」って勝手に「統計方法」のことと思っていたんですが、法律のことだったんですね」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
+  - 「適切かつ合理的な方法により、かつ、中立性及び信頼性が確保されるように作成されなければならない」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
+  - 「子ども数・総数に対する割合，性、子どもの体型、１年間に医療機関などで診察を受けた（受けている）病気やけが（複数回答）別」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
+  - 「講義では、e-Statのさまざまな機能の使い方についての説明がありました」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
+  - 「なお、関連として、新型コロナの影響を探るための「VーRESAS」という機能もあります」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
   - 「ローカルカタログを併用して 2 回目以降の検索を API なしで即答させる方法」（https://note.com/stats47/n/n7e4572d23a1b）
   - 「(約 2,000 のランキングを毎日自動更新) を個人で開発・運用しており、本記事の検索手順はその実運用で日々動いているものです」（https://note.com/stats47/n/n7e4572d23a1b）
   - 「同じテーマでも調査が複数あり、調査ごとに調査年・対象範囲・集計方法が違います」（https://note.com/stats47/n/n7e4572d23a1b）
   - 「企業型年金の運用実態について」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
   - 「環境保全型農業推進農家の経営分析調査」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「農業経営改善計画の営農類型別認定状況」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「家畜排せつ物管理方法等実態調査」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「ビッグデータを活用した商業動態統計調査（試験調査：家電大型専門店分野）」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「エコツーリズムガイド等の国内実態調査」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「学校等種類別収入内訳 幼保連携型認定こども園」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「」をご記憶でしょうか？ 厚生労働省が実施する「毎月勤労統計」が、定められた方法で調査が行われていなかったことが発端となって、国会でも激論となり、連日一般のニュースでも大きく取り上げられ、大問題となりました」（https://note.com/keisemi/n/naf14ab3c9062）
-  - 「e-Stat（政府統計の総合窓口）の使い方」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
-  - 「• 「分野」から統計を探す場合の方法ーまとめ」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
-  - 「方法などを知ることが可能です」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
-  - 「「分野」から統計を探す場合の方法ーまとめ」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
 - 突き合わせ・推定：
   - 「e-Stat には膨大な統計表が登録されており、同じ「人口」でも「国勢調査」「人口推計」「住民基本台帳人口移動報告」など複数の調査に分かれています」（https://note.com/stats47/n/n7e4572d23a1b）
   - 「: 国勢調査 / 人口推計 / 経済センサス / 学校基本調査 / 賃金構造基本統計調査 など」（https://note.com/stats47/n/n7e4572d23a1b）
@@ -477,6 +477,15 @@
   - 「正しい使い方は、AIの分析を「仮説」として持ち、商談の中で確認する」（https://note.com/f_bby__shota/n/nee46643ea909）
   - 「AIの分析を仮説として持ち、自分の言葉で顧客に確認する」（https://note.com/f_bby__shota/n/nee46643ea909）
   - 「数百ページの有報の中から必要な情報を正確に拾い上げ、「どこに書いてあったか」を提示しながら答えてくれるため、重要な判断の場面でも回答の信頼性を自分で検証できます」（https://inuiwan.com/archives/3282）
+  - 「稼ぎ方から逆算して、求められる人物像を想像します」（https://note.com/company_jobhunt/n/nfee32d55b15c）
+  - 「日本市場でマルチエージェント集約は機能するか【論文検証】」（https://edinetdb.jp/blog/how-to-read-yuho）
+  - 「例えば、売上は伸びているのに利益が減少している場合、コスト管理に課題があるのではないか、といった仮説を立てることができます」（https://crexgroup.com/ja/data/column/data-ops/financial-report-analysis-points/）
+  - 「MD&Aは、企業の戦略が単なるお題目でなく、実際のお金の流れとして実行されているかを検証する、決定的な証拠となるのです」（https://kaikeishien.com/yukashoken-hokokusho-yomikata/）
+  - 「Read each note against last year's: a new policy, a new estimate or a re-sorted line can change a trend without anything changing in the business.」（https://mrchartist.com/learn/start/how-to-read-an-annual-report）
+  - 「accountants’ judgment, particularly where estimates and」（https://finxl.in/blogs/how-to-analyze-an-annual-report.html）
+  - 「cross-checked through revenue trends, margin movements,」（https://finxl.in/blogs/how-to-analyze-an-annual-report.html）
+  - 「provisioning estimates.」（https://finxl.in/blogs/how-to-analyze-an-annual-report.html）
+  - 「where subjective estimates or high uncertainty materially」（https://finxl.in/blogs/how-to-analyze-an-annual-report.html）
 - 一次情報の探し方：
   - 「初学者でも出来る『５つのSTEPで読み解く有価証券報告書』｜wkwk｜小さな事業のAI・経営実践」（https://note.com/yoh2619/n/nab63a136eecc）
   - 「初学者でも出来る『５つのSTEPで読み解く有価証券報告書』」（https://note.com/yoh2619/n/nab63a136eecc）
@@ -525,6 +534,9 @@
   - 「例えば、下記の連結経営指標等の※１の箇所では、本業の営業CFがマイナスになっていないか、多額の投資を行っている場合にはどのような内容のものか、資金繰りに窮して資産を売却し、投資CFが大きくプラスとなっていないかなど、企業の資金繰りに関する情報を確認します」（https://journal.bizocean.jp/corp08/h03/2552/）
   - 「例えば、下記のような分析を行うことが考えられます」（https://journal.bizocean.jp/corp08/h03/2552/）
   - 「繰延税金資産を除くと純資産がほとんどなくなるようなケースでは、純資産が一時に大きく減少する恐れがあり、純資産自体も安定性に欠けている可能性があります」（https://journal.bizocean.jp/corp08/h03/2552/）
+- 検索結果の抜粋：
+  - 「How to Effectively Read a Company’s Annual ReportMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Quickly & Effectively Read an Annual Report — Apr 19, 2024 · Learn how to read a company's annual report effectively. This guide covers key sections and insights to assess the business perf」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
+  - 「Master the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Quickly & Effectively Read an Annual Report — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by looking at Item 1. This section helps you understand the company’s business model and the industry it o」（https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp）
 
 ## 1人あたり売上・労働生産性で会社の能力を比べる方法（revenue per employee benchmark analysis）
 - 文脈：能力
@@ -567,7 +579,7 @@
   - 「For example, a software company pulling in $1.76 million per employee and a hospital averaging $8,700 are both running normal operations for their industry. One runs on code and licensing. The other runs on a large network of staff and overnight shifts. We may be looking at the same metric, but each has a completely different story.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
   - 「Labor-intensive industries such as restaurants, general retail and hospitals cluster at the low end, with RPE figures below $35,000 in some cases, reflecting high headcount relative to revenue.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
   - 「For example, a software company and a hospital can both be healthy, well-run businesses and show wildly different RPE figures. The U.S. total market average sits at $111,000 per employee, but that number masks enormous variation by industry.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
-- 突き合わせ・推定：記載なし（読んだ9頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
 
 ## OSINT（公開情報調査）の手法（OSINT open source intelligence business research）
 - 文脈：探し方
@@ -1748,7 +1760,7 @@
   - 「仮説検証の考え方や手順について！ポイント・注意点まで詳しく解説」（https://sherpaworks.jp/sherpa/backcast/）
 - 実例：
   - 「結果として、社員の士気を向上させ、離職率を下げることにつながります」（https://sherpaworks.jp/sherpa/backcast/）
-- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 有価証券報告書の設備の状況・セグメント情報・将来見通しの読み方（reading annual report capex plan segment forward-looking statement）
 - 文脈：企業
@@ -2423,7 +2435,7 @@
   - 「For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「Entity Resolution Use Cases」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「A single accuracy percentage can be misleading because most possible record pairs are non-matches. Evaluation should therefore include false positives, false negatives, the percentage of cases requiring human review and the quality of complete entity clusters—not only individual record pairs.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ31頁・検索12回）
 
 ## 非上場の売上を複数の信号で挟む（Inven・CUFinder）（private company revenue estimate multiple signals top-down bottom-up conservative）
 - 文脈：推定
@@ -2544,6 +2556,8 @@
   - 「How to use these figures:」（https://www.hrbench.com/resource/learn/revenue-per-employee）
   - 「RPE calculated using month-end headcount differs from RPE using average headcount for the period. Neither is wrong, but switching between them creates false trends. Document which method applies every time the number is reported.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
   - 「recommends staying consistent within your comparison set rather than picking whichever method flatters the number.」（https://bizminer.com/revenue-per-employee-benchmarks/）
+- 突き合わせ・推定：
+  - 「peppereffect measurement, September 2026. Medians, not averages. Quartile spread on the full set: current visits per employee 38 at the 25th percentile, 135 median, 577 at the 75th. Our figures are estimated monthly organic visits, which is close to but not identical with a GA4 session count.」（https://peppereffect.com/blog/revenue-per-employee-benchmarks）
 - 実例：
   - 「Top Analyze Use Cases」（https://bizminer.com/analyze-with-custom-report/）
   - 「For example, a software company pulling in $1.76 million per employee and a hospital averaging $8,700 are both running normal operations for their industry. One runs on code and licensing. The other runs on a large network of staff and overnight shifts. We may be looking at the same metric, but each has a completely different story.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
@@ -2555,9 +2569,8 @@
   - 「TAM, SAM, and SOM: Definitions, Formulas, and Examples」（https://bizminer.com/revenue-per-employee-benchmarks/）
 - 検索結果の抜粋：
   - 「Revenue Per Employee Benchmarks : 2026 Ranges by Industry — Revenue Per Employee Benchmarks : 2026 Ranges by Industry Bizminer https://bizminer.com > revenue-per-e...」（https://bizminer.com/revenue-per-employee-benchmarks/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
 
 ## 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）（OSINT evidence provenance origin vs collection method ICD 203 likelihood language）
 - 文脈：突き合わせ

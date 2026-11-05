@@ -1,0 +1,672 @@
+{
+ "name": "ヒロテック",
+ "aliases": [],
+ "context": "山口県周南市／出典:大学・高専の企業説明会／求人媒体:Indeed;doda;マイナビ新卒／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T06:32:05.662219+00:00",
+ "official_url": "https://www.hirotec.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1958年11月17日（創立 1932年2月）",
+    "url": "https://www.hirotec.co.jp/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "鵜野　徳文",
+    "url": "https://www.hirotec.co.jp/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "広島市佐伯区石内南5丁目2番1号",
+    "url": "https://www.hirotec.co.jp/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://www.hirotec.co.jp/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1,875名（2025年3月現在）",
+    "url": "https://www.hirotec.co.jp/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "自動車部品（ドア、排気系部品）の設計・製作 金型、治具、組立ラインの設計・製作",
+    "url": "https://www.hirotec.co.jp/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "639億円（2024年） ※2021年度より有償支給取引を売上高と材料費で相殺し、純額で算出しております",
+    "url": "https://www.hirotec.co.jp/company/outline.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "金型生産と部品生産の工場を備え、世界が絶賛する金型自動交換装置、HQDCを開発しました",
+    "url": "https://www.hirotec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ヒロテックは設備・金型生産工場と部品生産工場の両方を備えた、日本でも数少ない工場です",
+    "url": "https://www.hirotec.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "1932年、広島の小さな製作所からスタートし、現在では国内外に数々の拠点を持つまでに成長しました",
+    "url": "https://www.hirotec.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "639億円（2024年）",
+    "url": "https://www.hirotec.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に製造メーカーとして環境に優しいものづくりに力を入れており、省エネルギー・人に優しい工場運営を目指しております",
+    "url": "https://www.hirotec.co.jp/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社の全社員及び取引先を含めて環境意識の向上を図ります",
+    "url": "https://www.hirotec.co.jp/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2006年、マツダ株式会社より、『品質保証認定制度』目標達成の認定証をいただきました",
+    "url": "https://www.hirotec.co.jp/company/awards.html",
+    "pass": 1
+   },
+   {
+    "quote": "またマツダ株式会社からは、このほかにも、品質・技術力・取引実績などにおいて優秀な成績を上げた会社に贈られる『取引成績優秀賞』でも表彰されています",
+    "url": "https://www.hirotec.co.jp/company/awards.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術力を生かし、ヒロテックでは24時間365日無人で動く工場（スマートファクトリー）を目指しています",
+    "url": "https://www.hirotec.co.jp/recruit/features/",
+    "pass": 1
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "自動車のドアや排気システム、そして工場の生産ラインや金型まで自分たちで設計〜製作まで手掛けています",
+    "url": "https://note.com/hiroshima_aiclub/n/n46c8824ca14d",
+    "pass": 3
+   },
+   {
+    "quote": "に拠点を持ち、AIやIoTなど新しい技術にも挑戦中です✊️",
+    "url": "https://note.com/hiroshima_aiclub/n/n46c8824ca14d",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "広島市外府中町に広島プレス工業株式会社設立（資本金500万円）",
+    "url": "https://www.hirotec.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "2026年 夏季インターンシップの予約受付中！",
+    "url": "https://www.hirotec.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "可能性を広げてきた、先輩社員",
+    "url": "https://www.hirotec.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、採用選考への応募者、会社説明会参加者、インターンシップ参加者その他の求職者等の皆さま",
+    "url": "https://www.hirotec.co.jp/recruit/obj/harassment202610.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 ヒロテック の 求人 ・中途採用情報 - doda — 株式会社 ヒロテック の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10093722875",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10093722875/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ヒロテック の給与 - Indeed (インディード) — 株式会社 ヒロテック の給与 - Indeed (インディード) Indeed https://jp.indeed.com > cmp > 株式会社ヒロテック > salaries",
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "ヒロテック （自動車部品）の「 年収 ・給与制度」 OpenWork — ヒロテック （自動車部品）の「 年収 ・給与制度」 OpenWork OpenWork https://www.openwork.jp > ... > ヒロテック（自動車部品）",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G2BM&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ヒロテック の会社概要 - マイナビ転職 — 株式会社 ヒロテック の会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/362418/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヒロテック の求人情報（54件） — 株式会社ヒロテック の求人情報（54件） スタンバイ",
+    "url": "https://jp.stanby.com/search?cp_id=20604&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "ヒロテック 新卒 高卒 の求人情報をすべて見る （136件） — ヒロテック 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 - 株式会社ヒロテック — 新卒採用 - 株式会社ヒロテック 株式会社ヒロテック https://www.hirotec.co.jp > recruit > new",
+    "url": "https://www.hirotec.co.jp/recruit/new.html",
+    "pass": 3
+   },
+   {
+    "quote": "高校生向け 採用 サイト - 株式会社ヒロテック — 高校生向け 採用 サイト - 株式会社ヒロテック 株式会社ヒロテック https://www.hirotec.co.jp > recruit > highschool",
+    "url": "https://www.hirotec.co.jp/recruit/highschool.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株) ヒロテック の 新卒採用 ・会社概要 | マイナビ2027 — (株) ヒロテック の 新卒採用 ・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp38345 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38345/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 (既卒歓迎) - 株式会社ヒロテック — 新卒採用 (既卒歓迎) - 株式会社ヒロテック 株式会社ヒロテック https://www.hirotec.co.jp > recruit > employment > new",
+    "url": "https://www.hirotec.co.jp/recruit/employment/new.html",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 ヒロテック のコーチングスタイル【ひろしまAI部参画 ... 株式会社 ヒロテック のコーチングスタイル【ひろしまAI部参画 ... note https://note.com > ... > クリエイターインタビュー",
+    "url": "https://note.com/hiroshima_aiclub/n/n46c8824ca14d",
+    "pass": 3
+   },
+   {
+    "quote": "ヒロテック - note ヒロテック - note note https://note.com > it_info_0930",
+    "url": "https://note.com/it_info_0930",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "考える力を育てる企業｜株式会社ヒロテックのコーチングスタイル【ひろしまAI部参画企業インタビュー】｜ひろしまAI部",
+    "url": "https://note.com/hiroshima_aiclub/n/n46c8824ca14d",
+    "pass": 3
+   },
+   {
+    "quote": "考える力を育てる企業｜株式会社ヒロテックのコーチングスタイル【ひろしまAI部参画企業インタビュー】",
+    "url": "https://note.com/hiroshima_aiclub/n/n46c8824ca14d",
+    "pass": 3
+   },
+   {
+    "quote": "広島で高校生のプロダクトづくりを支える会社、株式会社ヒロテック。",
+    "url": "https://note.com/hiroshima_aiclub/n/n46c8824ca14d",
+    "pass": 3
+   },
+   {
+    "quote": "答えを教えるのではなく、一緒に悩んで考える。",
+    "url": "https://note.com/hiroshima_aiclub/n/n46c8824ca14d",
+    "pass": 3
+   },
+   {
+    "quote": "そんなヒロテックの様子を、ちょっとのぞいてみませんか？",
+    "url": "https://note.com/hiroshima_aiclub/n/n46c8824ca14d",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、プロダクトづくりを支える株式会社ヒロテックの人材開発担当 中村さんと高原コーチに活動への思いや、AIを使ったものづくりのリアルを聞いてみました。",
+    "url": "https://note.com/hiroshima_aiclub/n/n46c8824ca14d",
+    "pass": 3
+   },
+   {
+    "quote": "会社紹介｜株式会社ヒロテックってどんな会社",
+    "url": "https://note.com/hiroshima_aiclub/n/n46c8824ca14d",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヒロテックは、広島県広島市佐伯区石内南に本社がある、自動車部品メーカー🚗",
+    "url": "https://note.com/hiroshima_aiclub/n/n46c8824ca14d",
+    "pass": 3
+   },
+   {
+    "quote": "未経験からエンジニアになった経験や、仕事で学んだことを発信。",
+    "url": "https://note.com/it_info_0930",
+    "pass": 3
+   },
+   {
+    "quote": "投資も勉強しながら、スキルと資産を少しずつ積み上げています📈",
+    "url": "https://note.com/it_info_0930",
+    "pass": 3
+   },
+   {
+    "quote": "プロ講師なしでWebアプリを作れるようになるまでにした10のこと",
+    "url": "https://note.com/it_info_0930",
+    "pass": 3
+   },
+   {
+    "quote": "「IT開発2年目で気づいたこと――未経験から乗り越えた成長記録」",
+    "url": "https://note.com/it_info_0930",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 ヒロテック (@hirotec7) - Facebook 株式会社 ヒロテック (@hirotec7) - Facebook Facebook https://www.facebook.com > hirotec7",
+    "url": "https://www.facebook.com/hirotec7/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hirotec.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirotec.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirotec.co.jp/product/tooling.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirotec.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirotec.co.jp/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirotec.co.jp/company/image.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirotec.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirotec.co.jp/company/greeting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirotec.co.jp/company/environment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirotec.co.jp/company/awards.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirotec.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirotec.co.jp/recruit/features/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.hirotec.co.jp/recruit/obj/pamphlet202606.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hirotec.co.jp/recruit/obj/pamphlet202310.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hirotec.co.jp/recruit/obj/harassment202610.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10093722875/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G2BM&q_no=2",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiroshima_aiclub/n/n46c8824ca14d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/it_info_0930",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/hirotec7/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/it_info_0930",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiroshima_aiclub/n/n46c8824ca14d",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ヒロテック 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10093722875/",
+    "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF/salaries",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000G2BM&q_no=2",
+    "https://tenshoku.mynavi.jp/company/362418/",
+    "https://jp.stanby.com/search?cp_id=20604&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10093722875/",
+    "https://xn--pckua2a7gp15o89zb.com/%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "https://www.hirotec.co.jp/recruit/highschool.html",
+    "https://www.hirotec.co.jp/recruit/obj/requirements2.pdf",
+    "https://jp.indeed.com/cmp/株式会社ヒロテック/salaries"
+   ]
+  },
+  {
+   "query": "ヒロテック 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.hirotec.co.jp/recruit/new.html",
+    "https://www.hirotec.co.jp/recruit/highschool.html",
+    "https://job.mynavi.jp/27/pc/search/corp38345/outline.html",
+    "https://www.hirotec.co.jp/recruit/employment/new.html",
+    "https://www.onecareer.jp/companies/48363",
+    "https://www.hirotec.co.jp/recruit/",
+    "https://job.career-tasu.jp/corp/00020417/",
+    "https://www.hirotec.co.jp/recruit/voice/voice20.html",
+    "https://hirotec-recruit.jp/"
+   ]
+  },
+  {
+   "query": "site:note.com ヒロテック",
+   "results": [
+    "https://note.com/hiroshima_aiclub/n/n46c8824ca14d",
+    "https://note.com/it_info_0930",
+    "https://note.com/ischool_jsic/n/n1ed4c242b096",
+    "https://note.com/joyous_snipe4659/n/n938ebe71c629",
+    "https://note.com/sw_f/n/nfd36519686fb",
+    "https://note.com/sw_f/n/n42804f014407",
+    "https://note.com/it_info_0930/n/n69129e78f7ab",
+    "https://note.com/local_newsletter/n/nfb71653aad3d",
+    "https://note.com/300sanasky9316/n/n904700a8f70b",
+    "https://note.com/ischool_jsic/n/n9f92cdd035c3"
+   ]
+  },
+  {
+   "query": "site:x.com ヒロテック",
+   "results": [
+    "https://x.com/HIROTEC_AMERICA",
+    "https://x.com/hirotecxmc307",
+    "https://x.com/HIROTEC_AMERICA/status/1276225075105185792",
+    "https://x.com/ange_violet_/status/1373061266961428483",
+    "https://x.com/sanfrecce_SFC/status/1176725819613310976",
+    "https://x.com/hirotecxmc307/status/2023744768719945806",
+    "https://x.com/sanfrecceREGINA/status/1949284368712953872",
+    "https://x.com/HirotecIndia",
+    "https://x.com/lencartney/status/2118119002975481907",
+    "https://x.com/hirotecxmc307/status/1755614179267080512?lang=bg"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ヒロテック",
+   "results": [
+    "https://jp.linkedin.com/company/hirotec-america-inc-/?trk=organization-update_share-update_actor-image",
+    "https://www.linkedin.com/company/hirotec-corporation",
+    "https://www.linkedin.com/company/hirotec-america-inc-",
+    "https://jp.linkedin.com/company/hirotec-corporation",
+    "https://www.linkedin.com/company/hirotec-manufacturing-america-llc",
+    "https://jp.linkedin.com/company/hirotec-america-inc-/?trk=organization-update_share-update_actor-text",
+    "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF",
+    "https://www.linkedin.com/pulse/hirotec-raja-mr-m2qnc",
+    "https://www.linkedin.com/in/katsu-uno-594ba62b",
+    "https://jp.linkedin.com/company/hirotec-india-private-limited"
+   ]
+  },
+  {
+   "query": "site:facebook.com ヒロテック",
+   "results": [
+    "https://www.facebook.com/HIROTECAMERICA/",
+    "https://www.facebook.com/hirotec7/?locale=ja_JP",
+    "https://www.facebook.com/HIROTECAMERICA/photos/",
+    "https://www.facebook.com/HIROTECAMERICA/videos/",
+    "https://www.facebook.com/hirotech.1993/",
+    "https://www.facebook.com/HirotecGroup/",
+    "https://www.facebook.com/pages/%E5%90%88%E5%90%8C%E4%BC%9A%E7%A4%BE%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF/111663400429230",
+    "https://www.facebook.com/circu.nic/posts/%E3%83%97%E3%83%AD%E3%82%B7%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF%E6%A7%98%E3%81%A7%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B7%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B%E8%A8%98%E4%BA%8B%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%90%8C%E7%A4%BE%E3%81%A7%E3%81%AF%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%82%82%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA%E3%81%AB%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%93%E3%81%A7%E3%81%8D%E3%81%9F%E6%AD%B4%E5%8F%B2%E3%81%AF%E3%81%82%E3%82%8B%E3%82%82%E3%81%AE%E3%81%AE%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD/1501424208651928/",
+    "https://www.facebook.com/JinushiKaoruBalletCompany/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF%E3%81%95%E3%82%93%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93cm%E6%92%AE%E5%BD%B1%E3%81%AB%E5%9C%B0%E4%B8%BB%E8%96%AB%E3%83%90%E3%83%AC%E3%82%A8%E5%9B%A3%E3%81%AE%E5%B2%A1%E7%94%B0%E7%99%BE%E5%8F%B6%E3%81%8C%E8%B5%B7%E7%94%A8%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%EF%B8%8F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%92%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF%E3%81%95%E3%82%93%E3%81%AF%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E4%BC%81%E6%A5%AD%E3%81%A8%E3%81%97%E3%81%A6%E5%9B%BD%E5%86%85%E5%A4%96%E3%81%AE%E8%87%AA%E5%8B%95%E8%BB%8A%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%92%E6%94%AF%E3%81%88/1557514396392926/",
+    "https://www.facebook.com/452871684583929"
+   ]
+  },
+  {
+   "query": "ヒロテック note 社長",
+   "results": [
+    "https://www.hirotec.co.jp/company/outline.html",
+    "https://note.com/it_info_0930",
+    "https://note.com/hiroshima_aiclub/n/n46c8824ca14d",
+    "https://www.hirotec.co.jp/company/",
+    "https://www.jounetsu-k.com/web.php?menu=archives&cmd=detail&id=348",
+    "https://www.youtube.com/watch?v=lvZ_8DuTrCo",
+    "https://www.hirotec.co.jp/history/",
+    "https://www.hirotec.co.jp/",
+    "https://www.hirotec.co.jp/company/greeting.html",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "ヒロテック X 投稿",
+   "results": [
+    "https://www.hirotec.co.jp/",
+    "https://x.com/HIROTEC_AMERICA",
+    "https://www.hirotec.co.jp/eng/",
+    "https://www.youtube.com/shorts/WFrH9hHF_Fc",
+    "https://www.hirotec.co.jp/eng/group/usa.html",
+    "https://www.youtube.com/@hiroteccorporation1013",
+    "https://www.hirotec.co.jp/en/company/office/company/?pageID=15",
+    "https://www.facebook.com/hirotec7/?locale=ja_JP",
+    "https://syukatsu-kaigi.jp/companies/131253/intern_experiences",
+    "https://x.com/Xhirotech"
+   ]
+  }
+ ],
+ "missing": {
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部9頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部9頁・検索8回）"
+ }
+}

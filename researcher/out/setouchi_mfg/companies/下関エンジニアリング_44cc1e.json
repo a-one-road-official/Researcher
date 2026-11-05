@@ -1,0 +1,726 @@
+{
+ "name": "下関エンジニアリング",
+ "aliases": [],
+ "context": "山口県下関市／出典:大学・高専の企業説明会／求人媒体:Indeed;doda;マイナビ新卒;自社採用ページ／想定年収:530〜530万円／従業員:不明",
+ "researched_at": "2026-11-05T06:32:16.659890+00:00",
+ "official_url": "https://www.mhi.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "山口県下関市彦島江の浦町6-16-1",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C2x00000akVEH",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立年",
+    "value": "設立年：2013年",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C2x00000akVEH",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "40百万円",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C2x00000akVEH",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "取締役社長 竹田 祐幸",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C2x00000akVEH",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用ページ": [
+   {
+    "quote": "RECRUITMENT INFORMATION",
+    "url": "https://www.mhi.com/recruit/pdf/fy2026_whoweare_eng.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "MHI下関エンジニアリング株式会社の転職・求人・中途採用情報|マイナビ転職",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "MHI下関エンジニアリング株式会社の転職・求人・中途採用情報",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "「MHI下関エンジニアリング株式会社」の転職・求人・中途採用情報を掲載しています",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "OpenWorkでは、新卒採用と中途採用それぞれの求人掲載が可能です",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C2x00000akVEH",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、中途採用の方から高校新卒の方まで、幅広く活躍している実績を重ねております！ ＊仕事を通して、事務スキルが身に付きます",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "In the nuclear energy segment, we are engaged in the design,",
+    "url": "https://www.mhi.com/recruit/pdf/fy2026_whoweare_eng.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "MHI下関エンジニアリング株式会社の転職・求人・中途採用情報|マイナビ転職",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "※オプトアウトをした場合、マイナビ転職の一部サービスを利用できない場合があります",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "【機械設計】完休2日制（土日祝）☆賞与実績見込み5.4ヶ月",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "■経験者 月給22.5万円〜33.2万円 ※経験・スキルを考慮し、優遇します ※試用期間6ヶ月（条…",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "430万円～670万円",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "【船舶設計】完休2日制（土日祝）☆賞与実績見込み5.4ヶ月",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "月給26万円〜34万円 ※経験・スキルを考慮し、優遇します ※試用期間6ヶ月（条件に変更ありません）",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "520万円～710万円",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "【営業職】第2新卒OK★年間休日127日/賞与実績見込み5.4ヶ月",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "月給24万7,000円〜27万2,400円 ※経験・スキルを考慮し、優遇します ※試用期間6ヶ月（…",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "480万円～540万円",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "【ドックマスター】★年間休日127日★賞与実績見込み5.4ヶ月",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "月給26万円〜40万円 ※経験・スキルを考慮し、優遇します ※試用期間6ヶ月（条件に変更ありません）",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "530万円～850万円",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "【設備管理】★年間休日127日/転勤なし★賞与実績見込み5.4ヶ月",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "月給21万6,000円〜27万1,700円 ※経験・スキルを考慮し、優遇します ※試用期間6ヶ月（…",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "420万円～540万円",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "月給34万円〜45万円 ※経験、能力等を考慮の上、当社規定により優遇します",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "【機械設計】完休2日制（土日祝）☆賞与5.2ヶ月",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "月給22.5万円〜33.2万円",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "【船舶設計】完休2日制（土日祝）☆賞与5.2ヶ月",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "月給25万円〜33万円",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "500万円～670万円",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "月給23万3,000円〜25万7,000円",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "455万円～509万円",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "【営業職】第2新卒OK★年間休日126日/賞与実績5.2ヶ月",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円〜25万7,000円",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "採用企業「MHI下関エンジニアリング」の評判、企業分析チャート、年収・給与制度、求人情報を掲載",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C2x00000akVEH",
+    "pass": 3
+   },
+   {
+    "quote": "年収 1000万～1400万円",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C2x00000akVEH",
+    "pass": 3
+   },
+   {
+    "quote": "年収 600万〜1200万円",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C2x00000akVEH",
+    "pass": 3
+   },
+   {
+    "quote": "年収 450万〜900万円",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C2x00000akVEH",
+    "pass": 3
+   },
+   {
+    "quote": "年収 450万〜800万円",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C2x00000akVEH",
+    "pass": 3
+   },
+   {
+    "quote": "【呉市】人事(採用ミッション) 年間休日125日 高年収",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C2x00000akVEH",
+    "pass": 3
+   },
+   {
+    "quote": "年収 600万〜800万円",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C2x00000akVEH",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "MHI下関エンジニアリング株式会社 | 【プライム上場の三菱重工業グループ】船舶エンジニアリング事業",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "＼船舶・機械のプロフェッショナルになる！／プライム上場の三菱重工業グループで新たな一歩を踏み出す！",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "【転勤なし】 ＜本社＞ 山口県下関市彦島江の浦町6丁目16番1号 三菱重工業株式会社 下関造船所…",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "造船所構内の機器設備・クレーン・工具などの点検・整備・修理、新造船・修繕船の動力架設作業やフェリー用人道橋・可動橋の点検・整備・修理を担当",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "ＭＨＩ下関エンジニアリング株式会社 | 【プライム上場の三菱重工業グループ】船舶エンジニアリング事業",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "■三菱重工業株式会社 下関造船所 江浦工場内 山口県下関市彦島江の浦町6丁目16番1号 ◎転勤なし…",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工業株式会社 下関造船所 江浦工場…",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "【土日祝休みの完全週休2日制♪】＜必須＞◆高卒以上 ◆普通自動車免許 ◆機械設計／電気設計／造船設計（電装）のいずれかの分野の経験・知見",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "■三菱重工業株式会社 下関造船所 江浦工場内",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工グループとして船舶や産業機械のエンジニアリングを行う企業",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C2x00000akVEH",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工株式会社のグループ企業として、親...",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C2x00000akVEH",
+    "pass": 3
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "MHI 下関エンジニアリング 株式会社の転職・ 求人 ・中途採用情報 — MHI 下関エンジニアリング 株式会社の転職・ 求人 ・中途採用情報 マイナビ転職 https://tenshoku.mynavi.jp > company > joblist",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "Mhi 下関エンジニアリング 株式会社の 求人 — Mhi 下関エンジニアリング 株式会社の 求人 Indeed https://jp.indeed.com > q-mhi下関エンジニアリング株式...",
+    "url": "https://jp.indeed.com/q-mhi%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%B1%82%E4%BA%BA.html",
+    "pass": 3
+   },
+   {
+    "quote": "MHI 下関エンジニアリング 「社員クチコミ」 就職 ... - OpenWork — MHI 下関エンジニアリング 「社員クチコミ」 就職 ... - OpenWork OpenWork https://www.openwork.jp > company",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C2x00000akVEH",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報[キャリア採用] | MHI 下関エンジニアリング 株式会社 — 採用情報[キャリア採用] | MHI 下関エンジニアリング 株式会社 Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > group > mhise > recruit > career",
+    "url": "https://www.mhi.com/jp/group/mhise/recruit/career.html",
+    "pass": 3
+   },
+   {
+    "quote": "MHI 下関エンジニアリング 株式会社の転職・企業概要 - doda — MHI 下関エンジニアリング 株式会社の転職・企業概要 - doda doda https://doda.jp > View > Company > j_id__10003467982",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10003467982/",
+    "pass": 3
+   },
+   {
+    "quote": "下関エンジニアリング 新卒 高卒 の求人情報をすべて見る （136件） — 下関エンジニアリング 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "MHI 下関エンジニアリング 株式会社の転職・求人・中途 採用 情報 — MHI 下関エンジニアリング 株式会社の転職・求人・中途 採用 情報 マイナビ転職 https://tenshoku.mynavi.jp > company > joblist",
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "採用 情報[キャリア 採用 ] | MHI 下関エンジニアリング 株式会社 — 採用 情報[キャリア 採用 ] | MHI 下関エンジニアリング 株式会社 Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > group > mhise > recruit > career",
+    "url": "https://www.mhi.com/jp/group/mhise/recruit/career.html",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "官報決算データベース on X: \"MHI 下関エンジニアリング 株式 ... 官報決算データベース on X: \"MHI 下関エンジニアリング 株式 ... X https://x.com > @kessan_db",
+    "url": "https://x.com/kessan_db/status/2080133772612362596",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mhi.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/company/overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/company/overview/vision",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/company/overview/policy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/company/overview/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/company/overview/officers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/company/overview/organization.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/company/overview/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/company/overview/museum",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mhi.com/recruit/pdf/fy2026_whoweare_eng.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhi.com/company/overview/outline/pdf/product_profile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhi.com/company/overview/outline/pdf/outline.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-mhi%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company.php?m_id=a0C2x00000akVEH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kessan_db/status/2080133772612362596",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "下関エンジニアリング 求人 年収",
+   "results": [
+    "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "https://jp.indeed.com/q-mhi%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%B1%82%E4%BA%BA.html",
+    "https://www.openwork.jp/company.php?m_id=a0C2x00000akVEH",
+    "https://www.mhi.com/jp/group/mhise/recruit/career.html",
+    "https://doda.jp/DodaFront/View/Company/j_id__10003467982/",
+    "https://jobtalk.jp/companies/139144",
+    "https://www.onecareer.jp/companies/98472/salary",
+    "https://xn--pckua2a7gp15o89zb.com/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E4%BB%95%E4%BA%8B-%E5%B1%B1%E5%8F%A3%E7%9C%8C%E4%B8%8B%E9%96%A2%E5%B8%82",
+    "https://tenshoku.mynavi.jp/company/402635/",
+    "https://jp.indeed.com/cmp/Mhi下関エンジニアリング株式会社/salaries"
+   ]
+  },
+  {
+   "query": "下関エンジニアリング 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.mhi.com/jp/group/mhise/recruit/shinsotsu1.html",
+    "https://tenshoku.mynavi.jp/company/402635/joblist/",
+    "https://www.openwork.jp/company.php?m_id=a0C2x00000akVEH",
+    "https://www.mhi.com/jp/group/mhise/recruit/career.html",
+    "https://syukatsu-kaigi.jp/companies/19072",
+    "https://jp.stanby.com/r_4e87e6218b6e23c18fd03e6ad1f0f5af",
+    "https://www.onecareer.jp/companies/98472",
+    "https://jp.indeed.com/q-mhi%E4%B8%8B%E9%96%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%B1%82%E4%BA%BA.html",
+    "https://tenshoku.mynavi.jp/jobinfo-402635-5-12-1/"
+   ]
+  },
+  {
+   "query": "site:note.com 下関エンジニアリング",
+   "results": [
+    "https://note.com/kotsu_gyakuretz/n/nf1328e99661d",
+    "https://note.com/safe_gibbon6757/n/n928cc2234956",
+    "https://note.com/libtec/n/n87f4c6824b18",
+    "https://note.com/sankituushin/n/nf4a8a522431d",
+    "https://note.com/slalom_build/n/na2996802c859",
+    "https://note.com/sb_intuitions/n/n32d8b72f0e6b",
+    "https://note.com/ready_gnu4128/n/neb6ebce7f33b?hl=en",
+    "https://note.com/nh20/n/n6b1854fe1500",
+    "https://note.com/uminohero/n/ncc548bf235b3?hl=en",
+    "https://note.com/mystar_group/n/naa668cff37de"
+   ]
+  },
+  {
+   "query": "site:x.com 下関エンジニアリング",
+   "results": [
+    "https://x.com/kessan_db/status/2080133772612362596",
+    "https://x.com/Kaiji_Press/status/2114846718168895765",
+    "https://x.com/CityShimonoseki/status/1274986390862786562?lang=ar",
+    "https://x.com/mhitc_2020/status/2117062174418014340",
+    "https://x.com/MHI_GroupJP",
+    "https://x.com/shimonosekinavi/status/2103419488276554232",
+    "https://x.com/kb1640/status/2026142482069942463",
+    "https://x.com/feed_fujita_eng/status/1919202102686937434",
+    "https://x.com/CityShimonoseki/status/2086649538169958435",
+    "https://x.com/EngiShouei?lang=bg"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 下関エンジニアリング",
+   "results": [
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5-%E4%B8%89%E8%8F%B1%E9%80%A0%E8%88%B9%EF%BC%88%E4%B8%8B%E9%96%A2%EF%BC%89%E3%80%91%E5%B7%A5%E5%A0%B4%E5%86%8D%E7%B7%A8%E3%83%BB%E8%A8%AD%E5%82%99%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E5%B7%A5%E4%BA%8B-%E6%8E%A8%E9%80%B2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2-at-mitsubishi-heavy-industries-4417737561",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5-%E4%B8%89%E8%8F%B1%E9%80%A0%E8%88%B9%EF%BC%88%E4%B8%8B%E9%96%A2%EF%BC%89%E3%80%91%E6%96%B0%E9%80%A0%E8%88%B9%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%88%B9%E4%BD%93%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E5%B7%A5%E4%BA%8B%E6%8B%85%E5%BD%93-%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86%E6%8A%80%E8%A1%93%E8%80%85-at-mitsubishi-heavy-industries-4416761498",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5-%E4%B8%89%E8%8F%B1%E9%80%A0%E8%88%B9%EF%BC%88%E4%B8%8B%E9%96%A2%EF%BC%89%E3%80%91%E8%88%B9%E3%81%A8%E3%81%84%E3%81%86%E3%80%8C%E5%8B%95%E3%81%8F%E8%A1%97%E3%80%8D%E3%81%AE%E7%A9%BA%E8%AA%BF%E3%83%BB%E9%80%9A%E9%A2%A8%E8%A8%AD%E8%A8%88%EF%BD%9C%E8%88%B9%E8%88%B6%E3%81%AE%E5%86%85%E8%89%A4%E8%A8%AD%E8%A8%88%EF%BD%9C%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%B1%85%E4%BD%8F%E5%8F%AF%E8%83%BD%E3%83%BBi-u%E3%82%BF%E3%83%BC%E3%83%B3%E6%AD%93%E8%BF%8E-at-mitsubishi-heavy-industries-4432504485",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E4%B8%89%E8%8F%B1%E9%80%A0%E8%88%B9%E3%80%91%E9%80%A0%E8%88%B9%E4%BA%8B%E6%A5%AD%E3%81%AE%E6%A7%8B%E9%80%A0%E8%A8%AD%E8%A8%88%E8%80%85-at-mitsubishi-heavy-industries-4297269681",
+    "https://jp.linkedin.com/jobs/view/civil-engineering-construction-site-management-permanent-employee-position-at-a-stable-company-with-100-years-of-history-%40-yamaguchi-at-rise-for-career-jobs-in-japan-for-foreign-engineers-4478284948",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E4%B8%89%E8%8F%B1%E9%80%A0%E8%88%B9%E3%80%91%E6%96%B0%E9%80%A0%E8%88%B9%E3%81%8A%E3%82%88%E3%81%B3%E4%BF%AE%E7%B9%95%E8%88%B9%E3%81%AE%E5%96%B6%E6%A5%AD%E8%81%B7-at-mitsubishi-heavy-industries-4297281664",
+    "https://jp.linkedin.com/jobs/view/software-engineer-at-jrcs-4373098589",
+    "https://www.linkedin.com/pub/%E5%8F%8B%E5%B8%8C-%E5%B0%8F%E6%9F%B3/a5/5b1/b90",
+    "https://jp.linkedin.com/jobs/%E5%B7%A5%E7%A8%8B%E5%B8%88-jobs",
+    "https://jp.linkedin.com/in/abdillahghani"
+   ]
+  },
+  {
+   "query": "site:facebook.com 下関エンジニアリング",
+   "results": [
+    "https://www.facebook.com/jhappy20161110/videos/%E5%88%B0%E7%9D%80%E5%89%8D%E3%81%AE%E6%93%8D%E4%BD%9C%E6%8C%87%E5%B0%8E%E3%83%84%E3%83%90%E3%83%AB%E3%81%AE%E9%9B%A2%E5%B3%B6%E3%82%92%E3%81%A4%E3%81%AA%E3%81%90%E5%A4%9A%E7%9B%AE%E7%9A%84%E8%88%B9%E5%89%8D%E5%9B%9E11%E6%9C%88%E3%81%AB%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%9F%E3%83%84%E3%83%90%E3%83%AB%E5%9B%BD%E9%9B%A2%E5%B3%B6%E9%96%8B%E7%99%BA%E7%94%A8%E5%A4%9A%E7%9B%AE%E7%9A%84%E8%88%B9%E5%BB%BA%E9%80%A0%E8%A8%88%E7%94%BB%E3%81%AE%E8%88%B9%E3%81%AE%E7%B6%9A%E5%A0%B1%E3%81%A7%E3%81%99%E4%B8%8B%E9%96%A2%E5%B8%82%E3%81%AE%E9%80%A0%E8%88%B9%E6%89%80%E3%81%A7%E5%BB%BA%E9%80%A0%E3%81%95%E3%82%8C%E3%81%9F%E3%83%9E%E3%83%8A%E3%82%A6%E3%82%A4%E2%85%A1%E5%8F%B7%E3%81%AF%E7%8F%BE%E5%9C%A8%E3%83%84/175825074452612/",
+    "https://www.facebook.com/jhappy20161110/posts/%E6%B5%B7%E3%81%AE%E6%97%A5%E5%BC%95%E3%81%8D%E6%B8%A1%E3%81%97%E3%82%BB%E3%83%AC%E3%83%A2%E3%83%8B%E3%83%BC%E3%83%84%E3%83%90%E3%83%AB%E3%81%AE%E9%9B%A2%E5%B3%B6%E3%82%92%E3%81%A4%E3%81%AA%E3%81%90%E5%A4%9A%E7%9B%AE%E7%9A%84%E8%88%B9the-project-for-the-construction-of-the-multi-purpose-/1823102654536561/",
+    "https://www.facebook.com/kizuki.kazu/posts/ic%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E3%82%88%E3%82%8A%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%E3%81%AE%E3%81%94%E6%B3%A8%E6%96%87%E3%82%92%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%AD%E3%82%B4%E3%82%92%E5%88%BA%E7%B9%8D%E3%81%95%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A7%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AA%E4%BB%95%E4%B8%8A%E3%81%8C%E3%82%8A%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E5%BC%8A%E7%A4%BE%E3%81%A7%E3%81%AF%E5%88%BA%E7%B9%8D%E3%81%AE%E3%81%94%E6%B3%A8%E6%96%87%E3%82%82%E6%89%BF%E3%81%A3/4028519194115640/",
+    "https://www.facebook.com/100034378741042/posts/%E4%B8%8B%E9%96%A2%E5%B8%82%E9%95%B7%E5%BA%9C%E7%AC%AC36%E5%9B%9E%E5%9F%8E%E4%B8%8B%E7%94%BA%E9%95%B7%E5%BA%9C%E3%83%9E%E3%83%A9%E3%82%BD%E3%83%B3%E5%A4%A7%E4%BC%9A%E3%82%B3%E3%83%AD%E3%83%8A%E7%A6%8D%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E3%81%A64%E5%B9%B4%E3%81%B6%E3%82%8A%E3%81%AB%E3%83%95%E3%83%AB%E3%82%B9%E3%83%9A%E3%83%83%E3%82%AF%E3%81%A7%E3%81%AE%E9%96%8B%E5%82%AC%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F36%E5%9B%9E%E7%9B%AE%E3%81%A8%E3%81%AA%E3%82%8B%E3%81%93%E3%81%AE%E3%83%9E%E3%83%A9%E3%82%BD%E3%83%B3%E5%A4%A7%E4%BC%9A%E3%81%AF%E5%9F%8E%E4%B8%8B%E7%94%BA%E9%95%B7%E5%BA%9C%E3%81%AE%E7%94%BA%E4%B8%A6%E3%81%BF%E3%82%92%E5%B7%A1%E3%82%8B%E3%82%B3/1111973543291927/",
+    "https://www.facebook.com/kaikyofanfare/videos/%EF%BC%98%E6%9C%88%EF%BC%91%E6%97%A5%E5%9C%9F2026%E6%B5%B7%E5%B3%A1%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC-%E4%BA%BA%E3%81%A8%E8%8A%B1%E7%81%AB%E3%81%A8%E9%9F%B3%E6%A5%BD%E3%81%A8-%E9%96%8B%E5%B9%95%E3%81%A7%E3%81%99%E5%87%BA%E6%BC%94%E8%80%85%E2%91%A0%E3%83%97%E3%83%81%E6%81%AD%E5%A4%AA%E9%83%8E%E3%83%90%E3%83%B3%E3%83%89-%E2%91%A1mako-channels-%E2%91%A2pilialoha-hula-stud/1680237429872303/",
+    "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%80%E3%82%A4%E3%82%A4%E3%83%81%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0-100063704133711/",
+    "https://www.facebook.com/kimuraasako/posts/%E3%81%84%E3%82%88%E3%81%84%E3%82%88%E4%BB%8A%E9%80%B1%E3%81%84%E3%82%88%E3%81%84%E3%82%88%E6%9D%A5%E9%80%B1%E6%9C%AB%E5%B1%B1%E5%8F%A3%E7%9C%8C%E4%B8%8B%E9%96%A2%E5%B8%82%E3%81%AB%E3%81%A6%E9%96%8B%E5%82%AC%E3%81%BE%E3%81%A0%E8%8B%A5%E5%B9%B2%E3%81%8A%E5%B8%AD%E3%81%AB%E4%BD%99%E8%A3%95%E3%81%8C%E3%81%82%E3%82%8B%E3%81%A8%E3%81%AE%E3%81%93%E3%81%A8%E3%81%A7%E3%81%99%E3%81%AE%E3%81%A7%E3%81%9C%E3%81%B2%E3%81%94%E5%8F%82%E5%8A%A0%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E7%9A%86%E6%A7%98%E3%81%AB%E3%81%8A%E4%BC%9A%E3%81%84%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%93%E3%81%A8%E3%82%92%E6%A5%BD%E3%81%97%E3%81%BF%E3%81%AB%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%EF%B8%8F-%E5%BD%93%E6%97%A5%E3%81%AF/28942493955390698/",
+    "https://www.facebook.com/kinkikaiji/posts/%E6%97%A5%E6%9C%AC%E6%B5%B7%E4%BA%8B%E6%96%B0%E8%81%9E-%E9%9B%BB%E5%AD%90%E7%89%88-2025%E5%B9%B410%E6%9C%8810%E6%97%A5-%E3%83%87%E3%82%A4%E3%83%AA%E3%83%BC%E7%89%882%E9%9D%A2-%E5%86%85%E8%88%AA%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC-%E3%82%88%E3%82%8A%E6%96%B0%E6%97%A5%E6%9C%AC%E6%B5%B7%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E6%96%B0%E9%80%A0%E8%88%B9%E3%81%AF%E3%81%BE%E3%81%AA%E3%81%99%E9%80%B2%E6%B0%B4%E4%B8%89%E8%8F%B1%E4%B8%8B%E9%96%A2%E3%81%A726%E5%B9%B46%E6%9C%88%E5%B0%B1%E8%88%AA%E3%81%B8-shk%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC/1231581272340427/",
+    "https://www.facebook.com/inoken1953/videos/%E6%96%B0%E3%81%97%E3%81%84%E4%BB%B2%E9%96%93%EF%B8%8F%E4%B8%8D%E6%95%B4%E5%9C%B0%E9%81%8B%E6%90%AC%E8%BB%8A%E3%81%8F%E3%82%93%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%84%E3%81%AE%E3%81%91%E3%82%93-%E3%81%84%E3%81%AE%E3%81%91%E3%82%93-%E5%B1%B1%E5%8F%A3%E7%9C%8C-%E4%B8%8B%E9%96%A2%E5%B8%82-%E8%B1%8A%E5%8C%97%E7%94%BA%E8%A7%92%E5%B3%B6-%E8%A7%92%E5%B3%B6%E5%A4%A7%E6%A9%8B-%E5%9C%9F%E6%9C%A8-%E5%9C%9F%E6%9C%A8%E5%B7%A5%E4%BA%8B-%E4%B8%8B%E9%96%A2%E5%9C%9F%E6%9C%A8-%E5%B7%A5%E4%BA%8B%E7%8F%BE%E5%A0%B4-%E5%9C%9F%E6%9C%A8%E5%A5%B3%E5%AD%90-ict-ict%E6%96%BD%E5%B7%A5-/476104764873466/",
+    "https://www.facebook.com/p/%E4%B8%8B%E9%96%A2%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%82%A2%E3%83%B3%E3%82%AB%E3%83%BC-61572144719665/"
+   ]
+  },
+  {
+   "query": "下関エンジニアリング note 社長",
+   "results": [
+    "https://www.mhi.com/jp/group/mhise/company",
+    "https://www.openwork.jp/company.php?m_id=a0C2x00000akVEH",
+    "https://tenshoku.mynavi.jp/company/402635/",
+    "https://www.onecareer.jp/companies/98472",
+    "https://syukatsu-kaigi.jp/companies/19072/word_mouths",
+    "https://note.com/mystar_group/all",
+    "https://www.kaijipress.com/news/shipbuilding/2026/10/205187/",
+    "https://mono.ipros.com/company/detail/2093714/",
+    "https://en-hyouban.com/company/10105574289/",
+    "https://www.mhi.com/jp/group/mhise/"
+   ]
+  },
+  {
+   "query": "下関エンジニアリング X 投稿",
+   "results": [
+    "https://www.mhi.com/jp/group/mhise/",
+    "https://www.openwork.jp/company.php?m_id=a0C2x00000akVEH",
+    "https://www.onecareer.jp/companies/98472",
+    "https://syukatsu-kaigi.jp/companies/19072/word_mouths",
+    "https://en-hyouban.com/company/10105574289/kuchikomi/",
+    "https://x.com/MHI_GroupJP",
+    "https://mono.ipros.com/company/detail/2093714/",
+    "https://job.mynavi.jp/27/pc/search/corp282196/outline.html",
+    "https://www.mhi.com/jp/recruit/group/plant-infra/mhise",
+    "https://x.com/hashtag/MHI下関エンジニアリング"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部6頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部6頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部6頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部6頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部6頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部6頁・検索8回）"
+ }
+}

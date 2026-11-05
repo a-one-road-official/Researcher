@@ -1,0 +1,684 @@
+{
+ "name": "イケダ",
+ "aliases": [],
+ "context": "広島県広島市／出典:地元の合同説明会／求人媒体:Indeed;doda;マイナビ転職／想定年収:350〜500万円／従業員:157",
+ "researched_at": "2026-11-05T06:40:27.039890+00:00",
+ "official_url": "https://eikeda.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社・工場 〒733-0833広島市西区商工センター7丁目5-42 TEL 082-277-2311 (代) 廿日市工場 〒738-0202広島県廿日市市峠245-23 TEL 0829-74-3777 (代) 東京営業所 〒162-0067東京都新宿区富久町1-5 KDA富久町ビル6F TEL 03-5361-8411 福岡営業所 〒811-1344福岡市南区三宅3丁目7-24 TEL 092-561-5087",
+    "url": "https://eikeda.jp/company/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：昭和12年4月",
+    "url": "https://eikeda.jp/company/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "3,500万円",
+    "url": "https://eikeda.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "令和8年5月現在／151名",
+    "url": "https://eikeda.jp/company/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "74億7,600万円（令和8年5月期）",
+    "url": "https://eikeda.jp/company/",
+    "pass": 1
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "取引先",
+    "value": "食品・医療・工業・雑貨メーカー",
+    "url": "https://eikeda.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "新しいお取引先をご検討の方も、",
+    "url": "https://eikeda.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "廿日市工場新設（自動ラック新設・ドライラミネーター1台導入）",
+    "url": "https://eikeda.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "廿日市工場増築・10色グラビア印刷機増設",
+    "url": "https://eikeda.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "新しいお取引先をご検討の方も、",
+    "url": "https://eikeda.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "本社工場・廿日市工場ともにISO9001認証を取得し、品質管理の推進と生産技術の改善に継続的に取り組んでいます",
+    "url": "https://eikeda.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また、軟包装衛生協議会の認定工場として、異物混入・衛生管理対策を徹底した衛生的な環境で安全な製品をご提供しています",
+    "url": "https://eikeda.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "平成7年に建設された、広島県の西、廿日市市にある廿日市工場は、特に食品包装への利用を考えたレベルの高い衛生管理体制を整えています",
+    "url": "https://eikeda.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "工場の出入り口には二重構造のドアを設けて、外部と工場内を遮断する対策がなされています",
+    "url": "https://eikeda.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "イケダではデザインから製版・製袋を本社工場で、印刷からスリットまでを廿日市工場で担っています",
+    "url": "https://eikeda.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の工場にて包装する自動包装に適しています",
+    "url": "https://eikeda.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "新しいお取引先をご検討の方も、",
+    "url": "https://eikeda.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、年に2回、取引先の皆様も交えてゴルフコンペを開催しています",
+    "url": "https://eikeda.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "新しいお取引先をご検討の方も、",
+    "url": "https://eikeda.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "新しいお取引先をご検討の方も、",
+    "url": "https://eikeda.jp/recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "生産設備や工場内機器の点検・整備・修理を行い、安定した稼働を支える仕事",
+    "url": "https://www.ikedaglass.co.jp/recruitment/requirements/newgraduate/",
+    "pass": 3
+   },
+   {
+    "quote": "134.6億円（2024年11月実績）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp212489/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・工場での設備保全職 （★電気・機械系を専攻してる方）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp212489/outline.html",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "3,500万円",
+    "url": "https://eikeda.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "74億7,600万円（令和8年5月期）",
+    "url": "https://eikeda.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社コンティエー／ [売上高] 4億9,800万円（令和8年5月期）",
+    "url": "https://eikeda.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "勤怠管理や給与計算の補助、社内資料の作成、社会保険の手続き、フィールドスタディで会社説明など幅広い業務を行っています",
+    "url": "https://eikeda.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "🎯2026年アイビスSDにて三連単46万円越え的中🎯",
+    "url": "https://note.com/family_line1/all",
+    "pass": 3
+   },
+   {
+    "quote": "【🎯３連単４６万円越え大的中🎯】アイビスSD回顧",
+    "url": "https://note.com/family_line1/all",
+    "pass": 3
+   },
+   {
+    "quote": "🎯2026年アイビスSDにて三連単46万円越え的中🎯",
+    "url": "https://note.com/family_line1",
+    "pass": 3
+   },
+   {
+    "quote": "【🎯３連単４６万円越え大的中🎯】アイビスSD回顧",
+    "url": "https://note.com/family_line1",
+    "pass": 3
+   },
+   {
+    "quote": "6万円の使い方——夫の趣味を「なぜ許せるんですか？」と聞かれて考えたこと",
+    "url": "https://note.com/tomomiikeda",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "イケダ株式会社 の給与 - Indeed (インディード) — イケダ株式会社の平均月給の範囲は約 17.9万円／月（製造）から約 30.4万円／月（ルート営業）です。 イケダ株式会社の平均年収は、約361万円 (営業) 〜612万円 (ルート営業) です。",
+    "url": "https://jp.indeed.com/cmp/イケダ株式会社/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "イケダ 株式会社の求人一覧 （3件 ・19.8〜27.2万 ） — イケダ 株式会社の求人一覧。 掲載求人数は3件。 月給・時給の相場は19.8〜27.2万です。 広島県広島市西区商工センター7丁目5-42。 給与偏差値・年齢別年収データ付きでハローワーク求人を分析。 ハローワーク+で。",
+    "url": "https://helloworkplus.com/company/3401-004781-5/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社イケダの平均年収、年間給与所得情報 − 転職ならdoda（デュー... — 株式会社イケダの平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで428,687社の企業情報が無料で検索・閲覧できます。",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__00003222346/",
+    "pass": 3
+   },
+   {
+    "quote": "イケダ 株式会社のハローワーク求人情報一覧｜しごと情報ネット — Oct 26, 2026 · イケダ 株式会社のハローワーク求人情報一覧です。 しごと情報ネットはハローワークの求人を検索できるサイトです。 職業安定所（職安）が提供しているハローワークインターネットサービスの求人情報を掲載しています。",
+    "url": "https://www.job-net.jp/employers/9240001000702",
+    "pass": 3
+   },
+   {
+    "quote": "イケダ株式会社の仕事・求人情報｜求人ボックス — イケダ株式会社の求人は64件あります。 【顧客満足度No.1】求人ボックスは毎日更新！ カワグチ・株式会社東海・株式会社ノーブルといった仕事・転職・採用情報もまとめて検索。 給与や勤務地、こだわりからあなたにぴったりの最新求人が見つかる！",
+    "url": "https://xn--pckua2a7gp15o89zb.com/イケダ株式会社の仕事",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報 | イケダ株式会社 — 合同就職面接会でイケダに出会い、見たことがあるパッケージに心が躍ったとともに、総務として支える先輩方に憧れを持ったことが入社のきっかけです。 現在は総務の仕事をしています。",
+    "url": "https://eikeda.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用｜募集要項｜イケダガラスグループ採用総合サイト — イケダガラスグループの大卒採用向け募集要項ページです。 職種ごとに募集要項を掲載しています。 イケダガラスグループの仕事内容や採用フロー、Q&Aはこちらからご確認いただけます。",
+    "url": "https://www.ikedaglass.co.jp/recruitment/requirements/newgraduate/",
+    "pass": 3
+   },
+   {
+    "quote": "イケダガラス (株)の新卒採用・会社概要 | マイナビ2027 — Sep 28, 2026 · イケダガラスはそんな“らしさ”の集まりでできた会社です。 私たちが加工するガラスは、製品の一部かもしれませんが、街や家、移動の瞬間など、あらゆる場所で皆さんの暮らしを静かに、力強く支えています。",
+    "url": "https://job.mynavi.jp/27/pc/search/corp212489/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項 | 株式会社イケダ採用サイト | 機械工具総合商社 — 募集要項 RECRUIT INFO 各募集要項から直接応募できます 募集要項を見る TOP 人を知る 仕事を知る 会社を知る フォトギャラリー 募集要項 株式会社イケダ コーポレイトサイト © 1999 IKEDA Inc.",
+    "url": "https://www.ikedaco.jp/recruit/info/",
+    "pass": 3
+   },
+   {
+    "quote": "採用応募フォーム | イケダ株式会社 — パッケージづくりが初めてでよく分からない方や 新しいお取引先をご検討の方も、 まずはお気軽にご相談ください。 営業へのお問い合わせ082-277-2311採用・人事についてのお問い合わせ082-278-9819 お問い合わせフォームへ トップページ 企業情報",
+    "url": "https://eikeda.jp/entry/",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "新卒採用｜募集要項｜イケダガラスグループ採用総合サイト",
+    "url": "https://www.ikedaglass.co.jp/recruitment/requirements/newgraduate/",
+    "pass": 3
+   },
+   {
+    "quote": "NEW GRADUATE RECRUITMENT",
+    "url": "https://www.ikedaglass.co.jp/recruitment/requirements/newgraduate/",
+    "pass": 3
+   },
+   {
+    "quote": "各種募集要項や福利厚生はこちらからご確認いただけます",
+    "url": "https://www.ikedaglass.co.jp/recruitment/requirements/newgraduate/",
+    "pass": 3
+   },
+   {
+    "quote": "イケダガラス(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp212489/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp212489/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp212489/outline.html",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "イケダガラス(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp212489/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp212489/outline.html",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "お気軽にWEB会社説明会へご参加ください！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp212489/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "以降は指導員を含め先輩社員が業務を指導し、習熟できるように支援します",
+    "url": "https://job.mynavi.jp/27/pc/search/corp212489/outline.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "イケダの記事一覧｜note（ノート） イケダ 「血統は言語だ！ 」と謎の主張をしている競馬ファン。 血統とジョッキーのタイプを予想に落とし込むスタイル。 🎯2026年アイビスSDにて三連単46万円越え的中🎯 血統講義、G1予想、今週の注目馬を公開していきます。 ※予想記事は全て無料。",
+    "url": "https://note.com/family_line1/all",
+    "pass": 3
+   },
+   {
+    "quote": "イケダ｜note イケダ 「血統は言語だ！ 」と謎の主張をしている競馬ファン。 血統とジョッキーのタイプを予想に落とし込むスタイル。 🎯2026年アイビスSDにて三連単46万円越え的中🎯 血統講義、G1予想、今週の注目馬を公開していきます。 ※予想記事は全て無料。",
+    "url": "https://note.com/family_line1",
+    "pass": 3
+   },
+   {
+    "quote": "イケダトモミ｜note イケダトモミ ライター、エディター、大学非常勤講師。 東京大学大学院博士課程修了。 博士（学術）。 イギリス留学時はオーケストラ部と熱気球部所属。 夫はクレイジーおもちゃオタクな小説家。",
+    "url": "https://note.com/tomomiikeda",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "「血統は言語だ！」と謎の主張をしている競馬ファン。血統とジョッキーのタイプを予想に落とし込むスタイル。",
+    "url": "https://note.com/family_line1/all",
+    "pass": 3
+   },
+   {
+    "quote": "🎯2026年アイビスSDにて三連単46万円越え的中🎯",
+    "url": "https://note.com/family_line1/all",
+    "pass": 3
+   },
+   {
+    "quote": "血統講義、G1予想、今週の注目馬を公開していきます。",
+    "url": "https://note.com/family_line1/all",
+    "pass": 3
+   },
+   {
+    "quote": "※予想記事は全て無料。印と買い目先出しをモットーにしています。",
+    "url": "https://note.com/family_line1/all",
+    "pass": 3
+   },
+   {
+    "quote": "「血統は言語だ！」と謎の主張をしている競馬ファン。血統とジョッキーのタイプを予想に落とし…",
+    "url": "https://note.com/family_line1/all",
+    "pass": 3
+   },
+   {
+    "quote": "【🎯３連単４６万円越え大的中🎯】アイビスSD回顧",
+    "url": "https://note.com/family_line1/all",
+    "pass": 3
+   },
+   {
+    "quote": "私が競馬を好きになった理由を考察してみる。",
+    "url": "https://note.com/family_line1/all",
+    "pass": 3
+   },
+   {
+    "quote": "【ロブチェンは三冠を取れる】菊花賞予想（先週10万越え的中🎯）",
+    "url": "https://note.com/family_line1/all",
+    "pass": 3
+   },
+   {
+    "quote": "「血統は言語だ！」と謎の主張をしている競馬ファン。血統とジョッキーのタイプを予想に落とし込むスタイル。",
+    "url": "https://note.com/family_line1",
+    "pass": 3
+   },
+   {
+    "quote": "🎯2026年アイビスSDにて三連単46万円越え的中🎯",
+    "url": "https://note.com/family_line1",
+    "pass": 3
+   },
+   {
+    "quote": "血統講義、G1予想、今週の注目馬を公開していきます。",
+    "url": "https://note.com/family_line1",
+    "pass": 3
+   },
+   {
+    "quote": "※予想記事は全て無料。印と買い目先出しをモットーにしています。",
+    "url": "https://note.com/family_line1",
+    "pass": 3
+   },
+   {
+    "quote": "「血統は言語だ！」と謎の主張をしている競馬ファン。血統とジョッキーのタイプを予想に落とし…",
+    "url": "https://note.com/family_line1",
+    "pass": 3
+   },
+   {
+    "quote": "【🎯３連単４６万円越え大的中🎯】アイビスSD回顧",
+    "url": "https://note.com/family_line1",
+    "pass": 3
+   },
+   {
+    "quote": "私が競馬を好きになった理由を考察してみる。",
+    "url": "https://note.com/family_line1",
+    "pass": 3
+   },
+   {
+    "quote": "【ロブチェンは三冠を取れる】菊花賞予想（先週10万越え的中🎯）",
+    "url": "https://note.com/family_line1",
+    "pass": 3
+   },
+   {
+    "quote": "ライター、エディター、大学非常勤講師。東京大学大学院博士課程修了。博士（学術）。イギリス留学時はオーケストラ部と熱気球部所属。夫はクレイジーおもちゃオタクな小説家。",
+    "url": "https://note.com/tomomiikeda",
+    "pass": 3
+   },
+   {
+    "quote": "ライター、エディター、大学非常勤講師。東京大学大学院博士課程修了。博士（学術）。イギリス…",
+    "url": "https://note.com/tomomiikeda",
+    "pass": 3
+   },
+   {
+    "quote": "6万円の使い方——夫の趣味を「なぜ許せるんですか？」と聞かれて考えたこと",
+    "url": "https://note.com/tomomiikeda",
+    "pass": 3
+   },
+   {
+    "quote": "ダイアクロン司令官・ケイカさんが語る、基地遊びとシルバニアファミリーの共通点（オタクの人に聞いてみよ！ 第2回）",
+    "url": "https://note.com/tomomiikeda",
+    "pass": 3
+   },
+   {
+    "quote": "嵐のコンサートの裏で、たった一人に会いに行く",
+    "url": "https://note.com/tomomiikeda",
+    "pass": 3
+   },
+   {
+    "quote": "水鉄砲BBQ主宰・FTSさんが語る、焚き火を極める楽しさと、肉をふるまう喜び（オタクの人に聞いてみよ！ 第1回）",
+    "url": "https://note.com/tomomiikeda",
+    "pass": 3
+   },
+   {
+    "quote": "やっぱり、寝かしつけはできるようにならなかった",
+    "url": "https://note.com/tomomiikeda",
+    "pass": 3
+   },
+   {
+    "quote": "拝啓 サンタクロース様——サンタ代行の秘密を娘に明かした日",
+    "url": "https://note.com/tomomiikeda",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "イケダ株式会社【公式】 (@ikeda_package) / X 広島のトータルパッケージサプライヤー、イケダ株式会社の公式アカウントです。 企画提案、 デザイン、製造、加工まで、御社の“売れる”商品パッケージを総合的にプロデュースします。 あなたが手に取ったそのお土産、イケダのパッケージかも？ ！",
+    "url": "https://x.com/ikeda_package",
+    "pass": 3
+   },
+   {
+    "quote": "タナからイケダ池田 (@tanaikeda) / X 本日のラジオトーク「タナからイケダの伝説中年」はラジオトークアプリメンテナンスの為できるかわかりません。 21:00にメンテナンス中だった場合休ませていただきます。 すいませんがよろしくお願いします。",
+    "url": "https://x.com/tanaikeda",
+    "pass": 3
+   },
+   {
+    "quote": "イケダ (@ikeda8969) / X 10/10は釧路に参ります。 当日は釧路各所でもイベントがあるそうで（ダビカフェ周年おめでとう！ ） はしごの選択肢としていかがでしょう？ 半年ぶりの釧路。 楽しみです。 ご予約の方はDMください！ #池田正樹 #藤田たかひろ #ガソリンアレイ",
+    "url": "https://x.com/ikeda8969",
+    "pass": 3
+   },
+   {
+    "quote": "𑁍そうちん！みてる？ ᐕ)ﾉ 𑁍 on X: \"あのイケダタクさん もそうちん... Aug 6, 2026 · あのイケダタクさん🕺もそうちんの貴重なお写真と共に、むちゃくちゃ沁みる投稿をしてくれてほんまにそうちんどこまで素敵なんよ〜〜 (꒦໊ྀʚ꒦໊ི )🫶🏽 #SOTA",
+    "url": "https://x.com/tomomutsumi/status/2085307730492072248",
+    "pass": 3
+   },
+   {
+    "quote": "イケダ on X: \"鼻歌:10分 撮影:1時間越え コスパ良いな！\" / X Sep 15, 2026 · 【投稿告知】 【激ムズ】うろ覚えの鼻歌でボカロ曲を当てるクイズ を投稿しました！ ！！！ 歌い手なら”うろ覚えの超適当な鼻歌”でも なんのボカロ曲か当てるはず‼‼‼ 今までの知識をここに集約させるぞ👓👃🎶 #せいだん",
+    "url": "https://x.com/TUKIAGE_/status/2099825141681381495",
+    "pass": 3
+   },
+   {
+    "quote": "イケダ (@TUKIAGE_) / X 【投稿告知】 【激ムズ】うろ覚えの鼻歌でボカロ曲を当てるクイズ を投稿しました！ ！！！ 歌い手なら”うろ覚えの超適当な鼻歌”でも なんのボカロ曲か当てるはず‼‼‼ 今までの知識をここに集約させるぞ👓👃🎶 #せいだん",
+    "url": "https://x.com/TUKIAGE_",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://eikeda.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eikeda.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eikeda.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eikeda.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eikeda.jp/recruitment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eikeda.jp/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/cmp/%E3%82%A4%E3%82%B1%E3%83%80%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://helloworkplus.com/company/3401-004781-5/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__00003222346/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ikedaglass.co.jp/recruitment/requirements/newgraduate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp212489/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/family_line1/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/family_line1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tomomiikeda",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ikeda_package",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tanaikeda",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ikeda8969",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tomomutsumi/status/2085307730492072248",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TUKIAGE_/status/2099825141681381495",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TUKIAGE_",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "イケダ 求人 年収",
+   "results": [
+    "https://jp.indeed.com/cmp/イケダ株式会社/salaries",
+    "https://helloworkplus.com/company/3401-004781-5/",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__00003222346/",
+    "https://www.job-net.jp/employers/9240001000702",
+    "https://xn--pckua2a7gp15o89zb.com/イケダ株式会社の仕事",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10144660612/",
+    "https://jp.indeed.com/cmp/株式会社イケダ/salaries"
+   ]
+  },
+  {
+   "query": "イケダ 採用 新卒 高卒",
+   "results": [
+    "https://eikeda.jp/recruit/",
+    "https://www.ikedaglass.co.jp/recruitment/requirements/newgraduate/",
+    "https://job.mynavi.jp/27/pc/search/corp212489/outline.html",
+    "https://www.ikedaco.jp/recruit/info/",
+    "https://eikeda.jp/entry/",
+    "https://www.ikedaglass.co.jp/recruitment/requirements/",
+    "https://www.ikedaco.jp/recruit/"
+   ]
+  },
+  {
+   "query": "site:note.com イケダ",
+   "results": [
+    "https://note.com/family_line1/all",
+    "https://note.com/family_line1",
+    "https://note.com/ihayato",
+    "https://note.com/tomomiikeda",
+    "https://note.com/s_ikeda",
+    "https://tales.note.com/rira_ikeda/w2kmafeyrsa4z/episodes/eminyq9gjyjse",
+    "https://note.com/ikeda_nantokanda/n/n218338c81b61"
+   ]
+  },
+  {
+   "query": "site:x.com イケダ",
+   "results": [
+    "https://x.com/ikeda_package",
+    "https://x.com/tanaikeda",
+    "https://x.com/ikeda8969",
+    "https://x.com/ikeda_daisuke",
+    "https://x.com/IHayato",
+    "https://x.com/iKeda_music_",
+    "https://x.com/mitsufumi"
+   ]
+  },
+  {
+   "query": "site:linkedin.com イケダ",
+   "results": [
+    "https://www.linkedin.com/company/ikedagroup",
+    "https://jp.linkedin.com/pub/dir/Ikeda/池田",
+    "https://jp.linkedin.com/in/hideakiikeda1980",
+    "https://sg.linkedin.com/company/ikedagroup",
+    "https://www.linkedin.com/company/ikeda-corp-of-america",
+    "https://de.linkedin.com/in/coachfaizaikeda/de",
+    "https://in.linkedin.com/in/manishgoyal21"
+   ]
+  },
+  {
+   "query": "site:facebook.com イケダ",
+   "results": [
+    "https://www.facebook.com/t.ikeda.toshie/",
+    "https://business.facebook.com/groups/370476088397470/",
+    "https://www.facebook.com/kae.ikeda.501/",
+    "https://www.facebook.com/ryojiikedaofficial/",
+    "https://www.facebook.com/daisakuikeda.official/",
+    "https://www.facebook.com/tacmolaikeda/",
+    "https://www.facebook.com/ryoji.ikeda/"
+   ]
+  },
+  {
+   "query": "イケダ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/s_ikeda",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://x.com/i/trending/2046863236369465539",
+    "https://x.com/sadaaki"
+   ]
+  },
+  {
+   "query": "イケダ X 投稿",
+   "results": [
+    "https://x.com/tomomutsumi/status/2085307730492072248",
+    "https://x.com/TUKIAGE_/status/2099825141681381495",
+    "https://x.com/TUKIAGE_",
+    "https://x.com/mitch_ikeda/status/2097211155785875628",
+    "https://x.com/IHayato",
+    "https://x.com/ikeda3da/status/2117815772278046947",
+    "https://search.yahoo.co.jp/realtime/search/＃池田信夫/"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部14頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部14頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部14頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部14頁・検索8回）"
+ }
+}

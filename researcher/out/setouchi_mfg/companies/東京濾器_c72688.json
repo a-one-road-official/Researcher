@@ -1,0 +1,1290 @@
+{
+ "name": "東京濾器",
+ "aliases": [],
+ "context": "広島県／出典:地元の合同説明会／求人媒体:Indeed;doda;スタンバイ;マイナビ新卒;マイナビ転職／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T06:38:54.463771+00:00",
+ "official_url": "https://www.roki.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1949年3月29日",
+    "url": "https://www.roki.co.jp/about_roki",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "20億円",
+    "url": "https://www.roki.co.jp/about_roki",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "748億円（2025年度）",
+    "url": "https://www.roki.co.jp/about_roki",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "950名",
+    "url": "https://www.roki.co.jp/about_roki",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "【本社】〒224-0041　神奈川県横浜市都筑区仲町台3-12-3 ＜車でのアクセス＞ 第三京浜、都筑IC出口、左折５分 ＜電車でのアクセス＞ 横浜市営地下鉄ブルーライン、仲町台駅より徒歩10分",
+    "url": "https://www.roki.co.jp/about_roki",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒224-0041　神奈川県横浜市都筑区仲町台3-12-3",
+    "url": "https://www.roki.co.jp/about_roki/network",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒224-0041　神奈川県横浜市都筑区仲町台3-12-3",
+    "url": "https://www.roki.co.jp/about_roki/network/head_office",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒252-0245　神奈川県相模原市中央区田名塩田1-9-1",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/sagami_1st",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒252-0244　神奈川県相模原市中央区田名9806-1",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/sagami_2st",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒252-0245　神奈川県相模原市中央区田名塩田1-3-5",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/sagami_3st",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒252-0245　 神奈川県相模原市中央区田名塩田1丁目10番3号",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/sagami_rd",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒525-0041　滋賀県草津市青地町30",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/kusatu",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒739-1201　広島県安芸高田市向原町坂360",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/hiroshima",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "神奈川県横浜市都筑区仲町台3丁目12番3号",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "相模第1工場",
+    "url": "https://www.roki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "相模第2工場",
+    "url": "https://www.roki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "相模第3工場",
+    "url": "https://www.roki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "国内および、海外の各工場の生産ラインでは、ロボットなどの最新技術を導入した",
+    "url": "https://www.roki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "広島工場の献血活動が厚生労働大臣感謝状を受贈しました",
+    "url": "https://www.roki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "湖南防火保安協会から草津工場が表彰されました",
+    "url": "https://www.roki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が三菱自動車工業様の品質優秀賞を受賞いたしました",
+    "url": "https://www.roki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "湖南防火保安協会 令和7年度 定例表彰式にて草津工場の社員が表彰されました（2025.5.30）",
+    "url": "https://www.roki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱自動車工業株式会社様の2024年取引先表彰式にて東京濾器が表彰されました（2025.5.27）",
+    "url": "https://www.roki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイハツ工業株式会社様の2024年取引先表彰式にて東京濾器が表彰されました（2025.5.20）",
+    "url": "https://www.roki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "相模第1工場",
+    "url": "https://www.roki.co.jp/about_roki",
+    "pass": 1
+   },
+   {
+    "quote": "相模第2工場",
+    "url": "https://www.roki.co.jp/about_roki",
+    "pass": 1
+   },
+   {
+    "quote": "相模第3工場",
+    "url": "https://www.roki.co.jp/about_roki",
+    "pass": 1
+   },
+   {
+    "quote": "748億円（2025年度）",
+    "url": "https://www.roki.co.jp/about_roki",
+    "pass": 1
+   },
+   {
+    "quote": "相模第1工場",
+    "url": "https://www.roki.co.jp/about_roki/network",
+    "pass": 1
+   },
+   {
+    "quote": "相模第2工場",
+    "url": "https://www.roki.co.jp/about_roki/network",
+    "pass": 1
+   },
+   {
+    "quote": "相模第3工場",
+    "url": "https://www.roki.co.jp/about_roki/network",
+    "pass": 1
+   },
+   {
+    "quote": "東京瀘器は国内に、神奈川県相模地区の3つの工場(相模第1、第2、第3)と、草津工場(滋賀県)、広島工場(広島県)、大月工場(山梨県)の6つの主力工場を持ちます",
+    "url": "https://www.roki.co.jp/about_roki/network",
+    "pass": 1
+   },
+   {
+    "quote": "海外ではタイ、メキシコの工場のほか、様々な国に販売・駐在員事務所を持ち、グローバル化に対応しています",
+    "url": "https://www.roki.co.jp/about_roki/network",
+    "pass": 1
+   },
+   {
+    "quote": "Tokyo Roki (Thailand) Co., Ltd. Amata工場",
+    "url": "https://www.roki.co.jp/about_roki/network",
+    "pass": 1
+   },
+   {
+    "quote": "Tokyo Roki (Thailand) Co., Ltd. Gateway工場",
+    "url": "https://www.roki.co.jp/about_roki/network",
+    "pass": 1
+   },
+   {
+    "quote": "相模第1工場",
+    "url": "https://www.roki.co.jp/about_roki/network/head_office",
+    "pass": 1
+   },
+   {
+    "quote": "相模第2工場",
+    "url": "https://www.roki.co.jp/about_roki/network/head_office",
+    "pass": 1
+   },
+   {
+    "quote": "相模第3工場",
+    "url": "https://www.roki.co.jp/about_roki/network/head_office",
+    "pass": 1
+   },
+   {
+    "quote": "横浜市都筑区にある東京濾器本社ビルには、営業、研究開発、工場管理、総務、経理など企業運営のための各セクションが集結し、あらゆる情報もここに送り込まれます",
+    "url": "https://www.roki.co.jp/about_roki/network/head_office",
+    "pass": 1
+   },
+   {
+    "quote": "相模第1工場",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office",
+    "pass": 1
+   },
+   {
+    "quote": "相模第2工場",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office",
+    "pass": 1
+   },
+   {
+    "quote": "相模第3工場",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office",
+    "pass": 1
+   },
+   {
+    "quote": "相模第1工場",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/sagami_1st",
+    "pass": 1
+   },
+   {
+    "quote": "相模第2工場",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/sagami_1st",
+    "pass": 1
+   },
+   {
+    "quote": "相模第3工場",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/sagami_1st",
+    "pass": 1
+   },
+   {
+    "quote": "相模第1工場",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/sagami_2st",
+    "pass": 1
+   },
+   {
+    "quote": "相模第2工場",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/sagami_2st",
+    "pass": 1
+   },
+   {
+    "quote": "相模第3工場",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/sagami_2st",
+    "pass": 1
+   },
+   {
+    "quote": "相模第1工場",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/sagami_3st",
+    "pass": 1
+   },
+   {
+    "quote": "相模第2工場",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/sagami_3st",
+    "pass": 1
+   },
+   {
+    "quote": "相模第3工場",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/sagami_3st",
+    "pass": 1
+   },
+   {
+    "quote": "相模第1工場",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/sagami_rd",
+    "pass": 1
+   },
+   {
+    "quote": "相模第2工場",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/sagami_rd",
+    "pass": 1
+   },
+   {
+    "quote": "相模第3工場",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/sagami_rd",
+    "pass": 1
+   },
+   {
+    "quote": "相模第1工場",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/kusatu",
+    "pass": 1
+   },
+   {
+    "quote": "相模第2工場",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/kusatu",
+    "pass": 1
+   },
+   {
+    "quote": "相模第3工場",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/kusatu",
+    "pass": 1
+   },
+   {
+    "quote": "相模第1工場",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/hiroshima",
+    "pass": 1
+   },
+   {
+    "quote": "相模第2工場",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/hiroshima",
+    "pass": 1
+   },
+   {
+    "quote": "相模第3工場",
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/hiroshima",
+    "pass": 1
+   },
+   {
+    "quote": "748億円(2026年3月決算)",
+    "url": "https://job.mynavi.jp/27/pc/search/corp79333/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京濾器は、「CLEAN ＆ SAVING（環境にやさしく、ムダをなくす）」という企業理念のもと、自動車の環境性能に大きく関わる部品の開発・製造・販売を一貫して行っている『Tier1サプライヤー（完成車メーカーに直接納入する部品メーカー）』です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp79333/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社の高い技術力は取引先企業に信頼されており、純正部品として採用されております",
+    "url": "https://job.mynavi.jp/27/pc/search/corp79333/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は国内6つ、海外に3つの製造工場を構えております",
+    "url": "https://job.mynavi.jp/27/pc/search/corp79333/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "品質・コスト・納期のバランスの良いモノづくりの体制を整えていることは、多くの取引先企業に高く評価・信頼をいただいております",
+    "url": "https://job.mynavi.jp/27/pc/search/corp79333/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "◆三菱自動車工（株） ◆ダイハツ工業（株）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp79333/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "◆マツダ（株） ◆スズキ（株） ◆（株）SUBARU",
+    "url": "https://job.mynavi.jp/27/pc/search/corp79333/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "また矢野経済研究所の調査では、国内民間企業のIT市場規模は2026年度に17兆3,900億円（前年度比3.9%増）まで拡大すると予測されており、業界全体としては当面成長が続くとの見方が一般的です",
+    "url": "https://note.com/bright_holly1635/n/ndab66e1bf8cf",
+    "pass": 3
+   },
+   {
+    "quote": "事業構成は、2025年12月期実績で情報処理・ソフトウェア開発事業が売上高の約89.8%を占める主力事業で、これに加えて自社保有のデータセンター（川崎市内、免震構造）を活用したクラウド・アウトソーシングサービス、そして機器販売・リース事業という構成です",
+    "url": "https://note.com/bright_holly1635/n/ndab66e1bf8cf",
+    "pass": 3
+   },
+   {
+    "quote": "取引先ごとに異なる伝票フォーマットを統一し、大量の伝票を自動照合する仕組みで、2024年には照合エンジン部分で特許も取得しています",
+    "url": "https://note.com/bright_holly1635/n/ndab66e1bf8cf",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川県川崎市中原区市ノ坪150番1号",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   },
+   {
+    "quote": "・アウトソーシング事業 ： 2拠点の自社データセンターを基盤とし、運用・セキュリティ・BPO業務を提供",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   },
+   {
+    "quote": "・国内2拠点の自社データセンターによる高いセキュリティと信頼性",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   },
+   {
+    "quote": "CFOに特化したハイクラス人材紹介事業を川崎で行っています",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "東京濾器の年収・給与 平均年収 - エン カイシャの評判",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "東京濾器株式会社の正社員43人の回答によると平均年収は432万円、年収範囲は250～680万円です",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "カイシャの評判に掲載されている年収情報は、当該企業で就業経験のある方を対象としたアンケートを基に、有効な回答かつ、雇用形態が正社員の回答から算出しております",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトの年収情報は、ユーザーの皆様に投稿いただいた時点の回答に基づいているため、実際の年収とは異なる可能性があります",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "東京濾器株式会社の年収・給与についての口コミ",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は創業記念の1ヵ月のみ",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度：昇給は毎年の評価により、一定...",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給は毎年の評価により、一定金額の昇給が見込めます",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与に関してはありませんが、毎年年度末にお祝い金ということでその年の業績を基に一部支給されます",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:給与は賞与が無い分、高めに設...",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与は賞与が無い分、高めに設定されている",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、間接部門と比べ、生産ライン勤務は昇給率が低い",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:習熟昇給は年1回あり、業務態...",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "習熟昇給は年1回あり、業務態度に問題がない場合は順当に昇給する",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "また、昇格昇給では1～2万程度と上がるため、中堅企業規模の年収は期待できる",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与については、毎年3月に1か月分支給される",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "また、家族支援に寄り添った福利厚生が複数あり、その中でも住宅購入補助として、上限200万円を返還義務なしで支給して貰えるもの存在",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:基本的にボーナスは支給されな...",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "基本的にボーナスは支給されないので、月給は高めに設定されている",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "最近は年度末の創業祝金で一カ月分の給与が支給されている",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:月々の給料は比較的高いが、上...",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "また、賞与額も少ないため年収がなかなか上がらない",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:賞与は無く基本給が高めに設定...",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は無く基本給が高めに設定されている為、年収ベースでは同水準の会社と同等か、やや低い程度思われる",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "「年収」の求人には、月給表記の求人も含みます",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "1000万円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "月給21万3,800円～ / 昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円～500万円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "【給与】400万円～500万円 【求人番号】10730306 【勤務地】広島県安芸高田市向原町坂360 【市区町村】安芸高田市 【都道府県】広島県 【雇用形態】正社員 【会社名】",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収420万円～520万円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "【給与】420万円～520万円 【求人番号】10730349 【勤務地】広島県安芸高田市向原町坂360 【市区町村】安芸高田市 【都道府県】広島県 【雇用形態】正社員 【会社名】",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収420万円～520万円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "【給与】420万円～520万円 【求人番号】10729785 【勤務地】滋賀県草津市青地町30 【市区町村】草津市 【都道府県】滋賀県 【雇用形態】正社員 【会社名】",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収360万円～500万円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "【給与】360万円～500万円 【求人番号】10730394 【勤務地】広島県安芸高田市向原町坂360 【市区町村】安芸高田市 【都道府県】広島県 【雇用形態】正社員 【会社名】",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円～540万円 / 昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収380万円～500万円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "【給与】380万円～500万円 【求人番号】10730000 【勤務地】神奈川県相模原市中央区田名塩田1-10-3 【市区町村】相模原市 【都道府県】神奈川県 【雇用形態】正社員 【会社名】",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円～600万円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "【給与】420万円～520万円 【求人番号】10729913 【勤務地】神奈川県相模原市中央区塩田1-9-1 【市区町村】相模原市 【都道府県】神奈川県 【雇用形態】正社員 【会社名】",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円～540万円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "【給与】400万円～540万円 【求人番号】10730220 【勤務地】神奈川県相模原市中央区塩田1-9-1 【市区町村】相模原市 【都道府県】神奈川県 【雇用形態】正社員 【会社名】",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "月給22万円～28万5,000円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円～500万円 / 昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "【給与】400万円～500万円 【求人番号】10729822 【勤務地】神奈川県横浜市都筑区仲町台3-12-3 【市区町村】横浜市 【都道府県】神奈川県 【雇用形態】正社員 【会社名】",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "【給与】400万円～500万円 【求人番号】10729851 【勤務地】神奈川県横浜市都筑区仲町台3-12-3 【市区町村】横浜市 【都道府県】神奈川県 【雇用形態】正社員 【会社名】",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "月給25万円～30万円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万1,000円～23万9,400円 / 昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "【給与】360万円～500万円 【求人番号】10729944 【勤務地】神奈川県横浜市都筑区仲町台3-12-3 【市区町村】横浜市 【都道府県】神奈川県 【雇用形態】正社員 【会社名】",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "【初任給300,800円】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp79333/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "発行済株式数18,700,000株、資本金1,370百万円",
+    "url": "https://note.com/kabutica/n/nf42eb4f6fdd2",
+    "pass": 3
+   },
+   {
+    "quote": "・売上高：98億53百万円（",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   },
+   {
+    "quote": "・営業利益：29億66百万円（",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   },
+   {
+    "quote": "・経常利益：34億66百万円（",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   },
+   {
+    "quote": "・親会社株主に帰属する中間純利益：24億96百万円（",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   },
+   {
+    "quote": "・売上高：90億55百万円（",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   },
+   {
+    "quote": "・セグメント利益：27億83百万円（",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   },
+   {
+    "quote": "・売上高：6億18百万円（",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   },
+   {
+    "quote": "・セグメント利益：1億48百万円（",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "若手からの強い声もあり、昇格要件が軽減されるなど社内体制も変わりつつある",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "新入社員研修、若手中堅研修、昇格前研修、監督職研修、他",
+    "url": "https://job.mynavi.jp/27/pc/search/corp79333/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・深刻なIT人材不足（2030年に最大79万人）が人件費の上昇と採用競争を引き起こす",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   },
+   {
+    "quote": "・人材不足により外部委託ニーズが高まり、アウトソーシング需要が増加",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   },
+   {
+    "quote": "・少子高齢化に伴う業務効率化・自動化ニーズの拡大",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   },
+   {
+    "quote": "・IT人材不足に伴うアウトソーシング依存の拡大",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "東京濾器株式会社の求人・採用情報｜求人ボックス",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "東京濾器(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp79333/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp79333/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp79333/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社自身も、エンドユーザーと直接取引する一次請けの立場であることや、自社パッケージ商品を自社内で開発している点を採用情報等で説明しています",
+    "url": "https://note.com/bright_holly1635/n/ndab66e1bf8cf",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "東京濾器株式会社の求人・採用情報｜求人ボックス",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックスは、検索結果に掲載する求人を通して対価を得ることがあります",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックスでは、類似する求人が複数ヒットした際に求人を探しやすくなるよう自動で非表示にしています",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックスでは、求人の要約部分などにAI技術を利用しております",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックスは、食べログ・価格.com・キナリノなどを運営する株式会社カカクコムが運営しています",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "登録ボタンを押すことにより、求人ボックスの",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "※規約同意後は、求人ボックスから新着求人やおすすめの求人などの求人情報をご連絡することがあります",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "メール受信設定は、求人ボックスからのメールに記載されている配信停止のリンク、またはマイページからいつでも停止できます",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "・求人ボックス会員サービスでは、プロフィール情報を保存して効率的に求人に応募ができます",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "東京濾器(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp79333/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp79333/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "を志望している他のマイナビ会員は、このような企業も志望しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp79333/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "東京濾器株式会社 の給与 | Indeed (インディード) — 日本での東京濾器株式会社の平均給与 東京濾器株式会社の平均月給の範囲は約 22.0万円／月（金属加工）から約 41.7万円／月（営業管理職・マネージャー）です。 東京濾器株式会社の平均年収は、約357万円 (組立) 〜524万円 (営業管理職・マネージャー) です。",
+    "url": "https://jp.indeed.com/cmp/東京濾器株式会社/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "東京濾器の年収・給与 平均年収 - エン カイシャの評判東京濾器株式会社の求人・採用情報｜求人ボックス東京濾器株式会社のバイト・パート・正社員求人情報 | Indeed (インデ...東京濾器の年収・給与6件｜平均・中央値・ボーナス・職種・役職・年代...東京濾器の年収・給与・昇給・ボーナス（11件）｜Yahoo!しごとカタロ...東京濾器株式会社 の求人・中途採用情報 − 転職ならdoda（デューダ） — 東京濾器株式会社の正社員43人の回答によると平均年収は432万円、年収範囲は250～680万円です。また、集計期間は2016年～2026年で回答者の平均年齢は34.3歳です。 東京濾器株式会社の求人・採用情報を66件掲載中！希望する職種や年収・月給、勤務地、こだわり条件から、あなたに ... 東京濾器株式会社の最新の求人は2件です。東京濾器株式会社の求人情報、採用動向、社員クチコミ、給",
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "東京濾器株式会社の求人・採用情報｜求人ボックス — 東京濾器株式会社の求人・採用情報を66件掲載中！希望する職種や年収・月給、勤務地、こだわり条件から、あなたに ...",
+    "url": "https://xn--pckua2a7gp15o89zb.com/東京濾器株式会社の仕事",
+    "pass": 3
+   },
+   {
+    "quote": "東京濾器株式会社のバイト・パート・正社員求人情報 | Indeed (インデ... — 東京濾器株式会社の最新の求人は2件です。東京濾器株式会社の求人情報、採用動向、社員クチコミ、給与などの企業情報を ...",
+    "url": "https://jp.indeed.com/cmp/東京濾器株式会社/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "東京濾器の年収・給与6件｜平均・中央値・ボーナス・職種・役職・年代... — 東京濾器の社員・元社員の年収・給与データを掲載中。昇給・賞与・評価の仕組みに関するクチコミも読めます。自動車・自動車部品・輸送機器業界で転職・就職を考えている方、東京濾器への転職・就職を考えている方、在籍中で自分の年収水準を確かめたい方に向けて、社員・元社員の回答 ...",
+    "url": "https://openmoney.jp/corporations/4578/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "東京濾器 (株)の新卒採用・会社概要 | マイナビ2027東京濾器株式会社 Clean & Savingエントリー | 東京濾器株式会社 Clean & Saving東京濾器の新卒採用・就職・企業情報【就活会議】東京濾器の新卒採用・就職・会社概要とクチコミ東京濾器(株)の採用データ - マイナビ2027【東京濾器株式会社】新卒採用パンフレット/Recruit pamphlet.pdf — 東京濾器 (株)の会社概要ページです。マイナビ2027は、採用情報や企業情報で、就職活動をサポートします。 自動車・二輪車・輸送機器の部品を中心とした各種製品の開発・製造を行なう東京濾器株式会社の採用情報サイトHOMEです。 オフィシャルWEBサイト 代表からのメッセージ エントリー 採用サイトHOME 東京濾器の仕事、社会との関わり 採用お問い合わせ 社員が語る等身大の東京濾器 東京濾器で”働く”という",
+    "url": "https://job.mynavi.jp/27/pc/search/corp79333/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京濾器株式会社 Clean & Saving — 自動車・二輪車・輸送機器の部品を中心とした各種製品の開発・製造を行なう東京濾器株式会社の採用情報サイトHOMEです。",
+    "url": "https://www.roki.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "エントリー | 東京濾器株式会社 Clean & Saving — オフィシャルWEBサイト 代表からのメッセージ エントリー 採用サイトHOME 東京濾器の仕事、社会との関わり 採用お問い合わせ 社員が語る等身大の東京濾器 東京濾器で”働く”ということ",
+    "url": "https://www.roki.co.jp/recruit/entry.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京濾器の新卒採用・就職・企業情報【就活会議】東京濾器の新卒採用・就職・会社概要とクチコミ東京濾器(株)の採用データ - マイナビ2027【東京濾器株式会社】新卒採用パンフレット/Recruit pamphlet.pdf — 東京濾器の新卒採用・就職・企業情報 東京濾器株式会社の社員・元社員による総合評価は3.0点です（口コミ回答数231件）。ESや本選考体験記は4件あります。基本情報のほか、東京濾器株式会社の社員・元社員による会社の評価、過去のインターン選考の内容、内定した学生の志望動機など ... 東京濾器の概要、企業研究、就活対策情報です。最新のインターンシップ ・説明会情報の他、ES・GD・面接・インターン・OB訪問・リクルーターの選考内容と先輩内定者の回答例を掲載しています。はじめてのキャリアを選ぶ、就活サイト【ワンキャリア】 Oct 16, 2026 · 東京濾器 (株)の採用",
+    "url": "https://syukatsu-kaigi.jp/companies/124315",
+    "pass": 3
+   },
+   {
+    "quote": "東京濾器の新卒採用・就職・会社概要とクチコミ東京濾器(株)の採用データ - マイナビ2027【東京濾器株式会社】新卒採用パンフレット/Recruit pamphlet.pdf — 東京濾器の概要、企業研究、就活対策情報です。最新のインターンシップ ・説明会情報の他、ES・GD・面接・インターン・OB訪問・リクルーターの選考内容と先輩内定者の回答例を掲載しています。はじめてのキャリアを選ぶ、就活サイト【ワンキャリア】 Oct 16, 2026 · 東京濾器 (株)の採用データページです。マイナビ2027は、東京濾器 (株)の採用情報や企業情報で、就職活動をサポートします。 【東京濾器株式会社】新卒採用パンフレット/Recruit pamphlet.pdf 1. CLEAN & SAVING Tokyo Roki’s approach to manufacturing is expressed",
+    "url": "https://www.onecareer.jp/companies/53523",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "12月23日（火）11:10 東計電算（試験運用中）｜kabutica Dec 22, 2025 · 流動性増で短期的ボラ高まる可能性。 主要株主の異動：東京濾器が主要株主でなくなる（新たな主要株主の報告なし）。 発行済株式数18,700,000株、資本金1,370百万円。 ポジティブ要因 流動株増で出来高が増えれば需給改善→取引活発化の期待。",
+    "url": "https://note.com/kabutica/n/nf42eb4f6fdd2",
+    "pass": 3
+   },
+   {
+    "quote": "【深掘り】東計電算（4746）は本当に「買い」なのか？SIer業界の将来... Aug 17, 2026 · 東計電算は1970年創業、自動車部品メーカー（東京濾器）の計算センターを起源とする独立系SIerです。 会社自身も、エンドユーザーと直接取引する一次請けの立場であることや、自社パッケージ商品を自社内で開発している点を採用情報等で説明しています。",
+    "url": "https://note.com/bright_holly1635/n/ndab66e1bf8cf",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川の会社を知る｜株式会社東計電算｜櫻井卓哉｜株式会社アトラク... Oct 21, 2025 · 1970年4月1日 📜 沿革 ・1970年 ： 東京濾器株式会社の機械計算課 を母体に創業 ・1977年〜1979年 ： オンラインサービス および コンピュータ販売 事業を開始 ・1980年〜1982年 ： ソフトウェア部門 設立、システムインテグレーターへ転換 ・1988年 ： 流通VAN 事業 ...",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "12月23日（火）11:10 東計電算（試験運用中）｜kabutica",
+    "url": "https://note.com/kabutica/n/nf42eb4f6fdd2",
+    "pass": 3
+   },
+   {
+    "quote": "12月23日（火）11:10 東計電算（試験運用中）",
+    "url": "https://note.com/kabutica/n/nf42eb4f6fdd2",
+    "pass": 3
+   },
+   {
+    "quote": "東計電算 東京濾器の保有比率が11.21%→7.86%に低下（20251223）。流動性増で短期的ボラ高まる可能性。",
+    "url": "https://note.com/kabutica/n/nf42eb4f6fdd2",
+    "pass": 3
+   },
+   {
+    "quote": "主要株主の異動：東京濾器が主要株主でなくなる（新たな主要株主の報告なし）。発行済株式数18,700,000株、資本金1,370百万円。",
+    "url": "https://note.com/kabutica/n/nf42eb4f6fdd2",
+    "pass": 3
+   },
+   {
+    "quote": "流動株増で出来高が増えれば需給改善→取引活発化の期待。",
+    "url": "https://note.com/kabutica/n/nf42eb4f6fdd2",
+    "pass": 3
+   },
+   {
+    "quote": "フリー・フロート拡大により機関投資家の採用可能性が高まる。",
+    "url": "https://note.com/kabutica/n/nf42eb4f6fdd2",
+    "pass": 3
+   },
+   {
+    "quote": "一時的な売りが落ち着けば買い戻しや短期的な反発機会。",
+    "url": "https://note.com/kabutica/n/nf42eb4f6fdd2",
+    "pass": 3
+   },
+   {
+    "quote": "主要株主の比率低下は安定株主の喪失を示し、下値圧力要因。",
+    "url": "https://note.com/kabutica/n/nf42eb4f6fdd2",
+    "pass": 3
+   },
+   {
+    "quote": "【深掘り】東計電算（4746）は本当に「買い」なのか？SIer業界の将来性・競合比較・ヒストリカルPERから考える｜yametaiman",
+    "url": "https://note.com/bright_holly1635/n/ndab66e1bf8cf",
+    "pass": 3
+   },
+   {
+    "quote": "【深掘り】東計電算（4746）は本当に「買い」なのか？SIer業界の将来性・競合比較・ヒストリカルPERから考える",
+    "url": "https://note.com/bright_holly1635/n/ndab66e1bf8cf",
+    "pass": 3
+   },
+   {
+    "quote": "前回の記事では、東計電算の直近決算と配当利回り7%超えという材料を紹介しました。今回はもう一歩踏み込んで、「そもそもSIer（システムインテグレーター）業界に将来性はあるのか」「東計電算は同業他社と比べてどんな立ち位置にいるのか」「過去のPERレンジから見て今の株価は割高か割安か」という3つの切り口から、投資判断の材料を整理していきます。",
+    "url": "https://note.com/bright_holly1635/n/ndab66e1bf8cf",
+    "pass": 3
+   },
+   {
+    "quote": "※本記事は情報提供を目的としたものであり、特定銘柄の売買を推奨するものではありません。投資判断はご自身の責任でお願いします。",
+    "url": "https://note.com/bright_holly1635/n/ndab66e1bf8cf",
+    "pass": 3
+   },
+   {
+    "quote": "IDCジャパンの調査によれば、2024年の国内ITサービス市場は前年比7.4%増と拡大しており、官公庁の大型システム刷新やDX投資の継続が背景にあります。また矢野経済研究所の調査では、国内民間企業のIT市場規模は2026年度に17兆3,900億円（前年度比3.9%増）まで拡大すると予測されており、業界全体としては当面成長が続くとの見方が一般的です。",
+    "url": "https://note.com/bright_holly1635/n/ndab66e1bf8cf",
+    "pass": 3
+   },
+   {
+    "quote": "DX（デジタルトランスフォーメーション）需要の継続",
+    "url": "https://note.com/bright_holly1635/n/ndab66e1bf8cf",
+    "pass": 3
+   },
+   {
+    "quote": "：クラウド移行やモバイル活用など、企業の情報システム刷新ニーズは根強く残っています",
+    "url": "https://note.com/bright_holly1635/n/ndab66e1bf8cf",
+    "pass": 3
+   },
+   {
+    "quote": "：IPAの調査ではDX人材が「やや不足」「大幅に不足」と回答した企業が合わせて8割超に達しており、一定の開発・運用体制を持つSIerへの需要は底堅いと考えられます",
+    "url": "https://note.com/bright_holly1635/n/ndab66e1bf8cf",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川の会社を知る｜株式会社東計電算｜櫻井卓哉｜(株)アトラクト代表｜CFOに特化した人材紹介事業",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   },
+   {
+    "quote": "櫻井卓哉｜(株)アトラクト代表｜CFOに特化した人材紹介事業",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   },
+   {
+    "quote": "・ソリューション事業 ： 製造業（特に自動車部品メーカー）、流通業、建設業、小売業向けの業種特化型システムの設計・開発・運用",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   },
+   {
+    "quote": "・代表的製品 ： 金型資産管理システム『Mold One』／販売管理システム『Billy Ver. 8』",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   },
+   {
+    "quote": "・アウトソーシング事業 ： 2拠点の自社データセンターを基盤とし、運用・セキュリティ・BPO業務を提供",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   },
+   {
+    "quote": "・コンサルティング事業 ： IT戦略立案、ネットワーク構築、システム導入支援などを展開",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   },
+   {
+    "quote": "・2000年 ： 第1データセンターを開設し",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   },
+   {
+    "quote": "に現地法人を設立／第2データセンター完成／",
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "[変更報告]＜4746＞株式会社東計電算 2026年5月18日 (月) 10:27に東京... 東京濾器株式会社が株式会社東計電算＜4746＞株式の変更報告書を提出（保有減少） 東証スタンダードの株式会社東計電算＜4746＞について、東京濾器株式会社が2026年5月18日付で財務局に変更報告書（5%ルール報告書）を提出した。",
+    "url": "https://x.com/stpedia/status/2056186026419462184",
+    "pass": 3
+   },
+   {
+    "quote": "で、気になって調べたら、フィルターのメーカーの違いだった。 自分で... で、気になって調べたら、フィルターのメーカーの違いだった。 自分で買ったやつ 「純正品番：16510-84M00（DENSO製）」 カップレンチ64mm使用（KTC：AVSA-064） 付いてたやつ 「純正品番：16510-84MA0（東京濾器製）」 カップレンチ66.5mm使用（KTC：AVSA-067）",
+    "url": "https://x.com/jimnyojisan/status/1094749951823831040",
+    "pass": 3
+   },
+   {
+    "quote": "オイルフィルターはWAFTEC (和興フィルタテクノロジー)の製品を愛用し... 五月女 蒼那💭🪼 (@a_saotome_2023). 21 views. オイルフィルターはWAFTEC(和興フィルタテクノロジー)の製品を愛用してきたけど今回はMICRO(日本マイクロフィルター工業)の製品を初めて選んでみました。 純正品を製造している東京濾器やWAFTECの製品を選ぶのが無難に感じてしまうけど。",
+    "url": "https://x.com/a_saotome_2023/status/2078054388313235829",
+    "pass": 3
+   },
+   {
+    "quote": "西原商船 ぜるびあ丸 on X: \"@rangeabc 落ち着いたのでさっきニュース... @rangeabc 落ち着いたのでさっきニュース見たらあの辺りですね 会社が田名塩田の東京濾器の近くです 事件が起きたのが一昨日といってましたが、一昨日の朝4時過ぎにあの近く通りましたがあんまり騒いでなかった気がしますが",
+    "url": "https://x.com/09912toshima/status/2091872660947075532",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "東京濾器 - Facebook 東京濾器 - Facebook ... 東京濾器",
+    "url": "https://www.facebook.com/東京濾器-155537064508231/",
+    "pass": 3
+   },
+   {
+    "quote": "東京濾器株式会社 - Facebook Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and post content.",
+    "url": "https://www.facebook.com/東京濾器株式会社-109183800736080/",
+    "pass": 3
+   },
+   {
+    "quote": "東京濾器株式会社 - Facebook 東京濾器株式会社",
+    "url": "https://www.facebook.com/東京濾器株式会社-124955188900033/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.roki.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roki.co.jp/about_roki",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roki.co.jp/about_roki/network",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roki.co.jp/about_roki/network/head_office",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/sagami_1st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/sagami_2st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/sagami_3st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/sagami_rd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/kusatu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roki.co.jp/about_roki/network/institute_office/hiroshima",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/cmp/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en-hyouban.com/company/10006656685/salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E6%BF%BE%E5%99%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp79333/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kabutica/n/nf42eb4f6fdd2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bright_holly1635/n/ndab66e1bf8cf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fond_ferret685/n/n2af128920b52",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/stpedia/status/2056186026419462184",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/jimnyojisan/status/1094749951823831040",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/a_saotome_2023/status/2078054388313235829",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/09912toshima/status/2091872660947075532",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/東京濾器-155537064508231/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/東京濾器株式会社-109183800736080/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/東京濾器株式会社-124955188900033/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東京濾器 求人 年収",
+   "results": [
+    "https://jp.indeed.com/cmp/東京濾器株式会社/salaries",
+    "https://en-hyouban.com/company/10006656685/salary/",
+    "https://xn--pckua2a7gp15o89zb.com/東京濾器株式会社の仕事",
+    "https://jp.indeed.com/cmp/東京濾器株式会社/jobs",
+    "https://openmoney.jp/corporations/4578/salaries",
+    "https://jobcatalog.yahoo.co.jp/company/1000005950/salaries/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10006656685/"
+   ]
+  },
+  {
+   "query": "東京濾器 採用 新卒 高卒",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp79333/outline.html",
+    "https://www.roki.co.jp/recruit/",
+    "https://www.roki.co.jp/recruit/entry.html",
+    "https://syukatsu-kaigi.jp/companies/124315",
+    "https://www.onecareer.jp/companies/53523",
+    "https://job.mynavi.jp/27/pc/search/corp79333/recruiting_course27024235/recruiting_course.html",
+    "https://www.slideshare.net/slideshow/recruit-pamphlet-pdf/284715731"
+   ]
+  },
+  {
+   "query": "site:note.com 東京濾器",
+   "results": [
+    "https://note.com/mitumelab/n/n5ab036d8ed3d",
+    "https://note.com/kabutica/n/nf42eb4f6fdd2",
+    "https://note.com/bright_holly1635/n/ndab66e1bf8cf",
+    "https://note.com/fond_ferret685/n/n2af128920b52",
+    "https://note.com/kakuka0904/n/n0c38be01bdc0",
+    "https://note.com/ryoji1988/n/n6052d2ae991e",
+    "https://note.com/sakurafina/n/n9ee6159a71d5"
+   ]
+  },
+  {
+   "query": "site:x.com 東京濾器",
+   "results": [
+    "https://x.com/stpedia/status/2056186026419462184",
+    "https://x.com/jimnyojisan/status/1094749951823831040",
+    "https://x.com/a_saotome_2023/status/2078054388313235829",
+    "https://x.com/09912toshima/status/2091872660947075532",
+    "https://x.com/akitakata_city/status/2075127821815742912",
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/vibeistani/status/2116644824703279122"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 東京濾器",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com 東京濾器",
+   "results": [
+    "https://www.facebook.com/東京濾器-155537064508231/",
+    "https://www.facebook.com/東京濾器株式会社-109183800736080/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/東京濾器株式会社-124955188900033/",
+    "https://www.facebook.com/東京濾器第3工場-509579655740253/",
+    "https://www.facebook.com/東京濾器山村製作所-104924511097130/",
+    "https://www.facebook.com/mitsumasa.ohno/"
+   ]
+  },
+  {
+   "query": "東京濾器 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/東京濾器",
+    "https://www.tr-nagura.jp/message_ceo",
+    "https://kagu.plus.co.jp/case-studies/103/",
+    "https://shachomeikan.jp/industry_article/2901",
+    "https://compalyze.co.jp/company/5020001009050",
+    "https://www.roki.co.jp/about_roki/message",
+    "https://www.roki.co.jp/about_roki/executive"
+   ]
+  },
+  {
+   "query": "東京濾器 X 投稿",
+   "results": [
+    "https://www.roki.co.jp/",
+    "https://jobcatalog.yahoo.co.jp/company/1000005950/user-list/",
+    "https://www.roki.co.jp/blog",
+    "https://www.tr-yamamura.jp/news/",
+    "https://www.roki-jp.com/",
+    "https://xkings.jp/",
+    "https://x.com/24chokemaru/status/2117336319018098764"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部14頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部14頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部14頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部14頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部14頁・検索8回）"
+ }
+}

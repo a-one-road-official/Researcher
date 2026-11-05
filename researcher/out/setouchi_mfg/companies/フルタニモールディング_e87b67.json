@@ -1,0 +1,511 @@
+{
+ "name": "フルタニモールディング",
+ "aliases": [],
+ "context": "広島県広島市／出典:地元の合同説明会／求人媒体:Indeed;doda;スタンバイ／想定年収:400〜550万円／従業員:34",
+ "researched_at": "2026-11-05T06:40:43.959608+00:00",
+ "official_url": "http://www.mold-furutani.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：大正12年3月",
+    "url": "http://www.mold-furutani.co.jp/?page_id=11",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "創業：2006年12月",
+    "url": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00960.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1,000万円",
+    "url": "http://www.mold-furutani.co.jp/?page_id=11",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "8,000万円",
+    "url": "https://jp.stanby.com/r_b2000dff2c5ad9ceb88cde208234e79d",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "８０００万円",
+    "url": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00960.html",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　古谷 友彬",
+    "url": "http://www.mold-furutani.co.jp/?page_id=11",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "古谷幸一",
+    "url": "https://jp.stanby.com/r_b2000dff2c5ad9ceb88cde208234e79d",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役　古谷　友彬",
+    "url": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00960.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "広島県廿日市市宮内工業団地1番8 マップ",
+    "url": "http://www.mold-furutani.co.jp/?page_id=11",
+    "pass": 1
+   },
+   {
+    "label": "本店所在地",
+    "value": "広島県広島市西区井口台４丁目６番３６号",
+    "url": "https://jp.stanby.com/r_b2000dff2c5ad9ceb88cde208234e79d",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒７３９－００３９ 広島県廿日市市宮内工業団地１番８",
+    "url": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00960.html",
+    "pass": 3
+   },
+   {
+    "label": "本社ウェブサイト",
+    "value": "http://www.mold-furutani.co.jp/",
+    "url": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00960.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ゴム金型 プラスチック金型 その他各種金型 プラスチック成形",
+    "url": "http://www.mold-furutani.co.jp/?page_id=11",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "金型製造とプラスチック成形品製造の二つが当社の基盤です。 共にメインは自動車業界への納品ですが、スポーツ用品や生活雑貨に係るモノづくりも行っています。 金型製造部門は創業当初から携わっており、まちがいなく当社の顔です。 主に射出成形に使われる金型の設計から製造を行います。 さまざまな工作機械を保有していますが当社の売りは設備が比較的新しいことと五軸加工機を四台保有していることです。 これは競争の中で、大きなメリットのひとつになります。 プラスチック成形品製造部門は２００８年にスタートしました。 まだまだ歴史は浅いですが当社の売上高の多くを占める、いわゆるエース部門です。 射出成形機を２０台、自動検査組立機は８台それぞれ保有しています。 自動車用部品だけでなく、国内外問わず地域環境整備に係るプラスチック成形品の製造も携わっています。 自身が携わったものが世界中のどこかでお役に立っていると感じる貴重な経験ができる職場です。",
+    "url": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00960.html",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主な取引先",
+    "value": "松栄ゴム工業株式会社 住友ゴム工業株式会社 タイガースポリマー株式会社 豊田合成株式会社 豊田合成日乃出株式会社 株式会社ニフコ 日本シーカ株式会社 早川ゴム株式会社 広島伊丹電機株式会社 広島化成株式会社 ピーアイエー株式会社 富士ゴム工業株式会社 フマキラー株式会社 丸五ゴム工業株式会社 株式会社モルテン （順不同）",
+    "url": "http://www.mold-furutani.co.jp/?page_id=11",
+    "pass": 1
+   },
+   {
+    "label": "主要取引先",
+    "value": "株式会社ニフコ、株式会社モルテン、豊田合成株式会社、フマキラー株式会社",
+    "url": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00960.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "71人",
+    "url": "https://jp.stanby.com/r_b2000dff2c5ad9ceb88cde208234e79d",
+    "pass": 3
+   },
+   {
+    "label": "従業員数（全体）",
+    "value": "７４名",
+    "url": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00960.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員数（うち正社員数）",
+    "value": "４３名",
+    "url": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00960.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年間売上額",
+    "value": "１０億円（２０２２年１１月期）",
+    "url": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00960.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "フルタニモールディング株式会社成形（岩国）工場立ち上げ15周年を迎えました",
+    "url": "http://www.mold-furutani.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "成形工場立ち上げ10周年を迎える",
+    "url": "http://www.mold-furutani.co.jp/?page_id=11",
+    "pass": 1
+   },
+   {
+    "quote": "成形工場立ち上げ15周年を迎える",
+    "url": "http://www.mold-furutani.co.jp/?page_id=11",
+    "pass": 1
+   },
+   {
+    "quote": "※新築工場内の温度管理された環境の下で、作業を行って頂きます",
+    "url": "https://jp.stanby.com/r_b2000dff2c5ad9ceb88cde208234e79d",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチック成型品の製造 ・第１工場にてプラスチック製品の材料準備、電動射出成形機を用いてプラス チック製品の製造業務（金型の取付、段取り、製造準備、成形機操作、製品 の運搬）他プラスチック製品の製造に係わる業務 ・第２工場にて組立グループでは補助工具を使用して必要な組立作業を行い 梱包、箱詰めなど出荷できるまでの作業",
+    "url": "https://jp.stanby.com/r_b2000dff2c5ad9ceb88cde208234e79d",
+    "pass": 3
+   },
+   {
+    "quote": "フルタニモールディング株式会社 【広島廿日市本社／未経験歓迎】金型設計◇自動車部品関連／空調完備／確かな技術力で未来へ 【仕事内容】 【広島廿日市本社／未経験歓迎】金型設計◇自動車部品関連／空調完備／確かな技術力で未来へ 【具体的な仕事内容】 世界的スポーツ大会で使用されるホイッスルの製造にも携わっています・・！／マツダ・トヨタ・ホンダ・三菱等の完成車メーカーと取引／4つの時代にわたる技術の蓄積 ■職務内容： 自動車部品用及び産業用のゴム、プラスチック生産における金型設計業務をご担当いただきます",
+    "url": "https://jp.stanby.com/r_b2000dff2c5ad9ceb88cde208234e79d",
+    "pass": 3
+   },
+   {
+    "quote": "フルタニモールディング 株式会社 廿日市工場",
+    "url": "https://jp.stanby.com/r_b2000dff2c5ad9ceb88cde208234e79d",
+    "pass": 3
+   },
+   {
+    "quote": "フルタニモールディング株式会社 【広島／廿日市本社】金型設計◇マイカー通勤可／自動車部品関連／確かな技術力で未来へ／空調完備 【仕事内容】 【広島／廿日市本社】金型設計◇マイカー通勤可／自動車部品関連／確かな技術力で未来へ／空調完備 【具体的な仕事内容】 マツダ・トヨタ・ホンダ・三菱・スバル・ニッサン等の完成車メーカー、モルテン、フマキラー等と取引/4つの時代にわたる技術の蓄積/日々、“挑戦” ■職務内容： 自動車部品用及び産業用のゴム、プラスチック生産における射出成形金型の設計業務をご担当いただきます",
+    "url": "https://jp.stanby.com/r_b2000dff2c5ad9ceb88cde208234e79d",
+    "pass": 3
+   },
+   {
+    "quote": "【仕事内容】【広島廿日市本社／未経験歓迎】金型設計◇自動車部品関連／空調完備／確かな技術力で未来へ◇◆世界的スポーツ大会で使用されるホイッスルの製造にも携わっています・・！／マツダ・トヨタ・ホンダ・三...",
+    "url": "https://jobtalk.jp/companies/7763910/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "【仕事内容】【広島／廿日市本社】金型設計◇マイカー通勤可／自動車部品関連／確かな技術力で未来へ／空調完備◇◆マツダ・トヨタ・ホンダ・三菱・スバル・ニッサン等の完成車メーカー、モルテン、フマキラー等と取...",
+    "url": "https://jobtalk.jp/companies/7763910/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "国内三拠点、計８０名の従業員は日々、『お客様へ品質・納期でご迷惑をかけない』という基本理念のもと、モノづくりに向き合っています",
+    "url": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00960.html",
+    "pass": 3
+   },
+   {
+    "quote": "フルタニモールディング株式会社 廿日市工場",
+    "url": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00960.html",
+    "pass": 3
+   },
+   {
+    "quote": "２００８年１２月 山口県岩国市に成形工場を立ち上げる",
+    "url": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00960.html",
+    "pass": 3
+   },
+   {
+    "quote": "１０億円（２０２２年１１月期）",
+    "url": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00960.html",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "1,000万円",
+    "url": "http://www.mold-furutani.co.jp/?page_id=11",
+    "pass": 1
+   },
+   {
+    "quote": "月給20万円〜22万円",
+    "url": "https://jp.stanby.com/r_b2000dff2c5ad9ceb88cde208234e79d",
+    "pass": 3
+   },
+   {
+    "quote": "年収322万円〜500万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/r_b2000dff2c5ad9ceb88cde208234e79d",
+    "pass": 3
+   },
+   {
+    "quote": "年収320万円〜450万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/r_b2000dff2c5ad9ceb88cde208234e79d",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円〜550万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/r_b2000dff2c5ad9ceb88cde208234e79d",
+    "pass": 3
+   },
+   {
+    "quote": "8,000万円",
+    "url": "https://jp.stanby.com/r_b2000dff2c5ad9ceb88cde208234e79d",
+    "pass": 3
+   },
+   {
+    "quote": "現社員や元社員から投稿された企業の評判・面接・年収などの口コミ情報を、",
+    "url": "https://jobtalk.jp/companies/7763910/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "８０００万円",
+    "url": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00960.html",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "新卒採用 プラスチック成形工／組立・検査業務",
+    "url": "https://jp.stanby.com/r_b2000dff2c5ad9ceb88cde208234e79d",
+    "pass": 3
+   },
+   {
+    "quote": "フルタニモールディングの採用情報・募集中の求人【転職会議】",
+    "url": "https://jobtalk.jp/companies/7763910/jobs",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "フルタニモールディング株式会社のキャリア・企業情報 | Indeed (イン... — 人気の高い職種の給与を比較したり、ワークライフバランスについてのクチコミを参考にしながら、採用企業フルタニモールディング株式会社があなたにぴったりの会社であるか事前にチェックしましょう。",
+    "url": "https://jp.indeed.com/cmp/フルタニモールディング株式会社",
+    "pass": 3
+   },
+   {
+    "quote": "フルタニモールディング株式会社 の 日本 での給与 | Indeed (インデ... — 日本でのフルタニモールディング株式会社の平均給与 Indeed に掲載された求人と、この企業の従業員から寄せられたフルタニモールディング株式会社の給与情報を参照する。 給与情報は、Indeed にこれまでに掲載された58件の求人に基いた推定値です。",
+    "url": "https://jp.indeed.com/cmp/フルタニモールディング株式会社/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "フルタニモールディング株式会社の求人・仕事・採用｜スタンバイでお... — フルタニモールディング株式会社 山口県 岩国市 年収320万円〜450万円 / 賞与・昇給あり 土日休み / 完全週休2日制 / 残業月20時間以内 資格取得支援制度 年間休日110日以上 長期 交替勤務制 転勤なし 退職金制度あり 残業手当あり 交通費支給 車通勤OK 雇用保険 ...",
+    "url": "https://jp.stanby.com/r_b2000dff2c5ad9ceb88cde208234e79d",
+    "pass": 3
+   },
+   {
+    "quote": "フルタニモールディング株式会社 の求人・中途採用情報 − 転職ならdod... — フルタニモールディング株式会社の公開中の求人情報（3件）やこれまで募集していた求人情報も掲載。dodaの企業情報ページでは上場企業や、大手から中小企業まで476,789社の企業情報が無料で検索・閲覧できます。ぜひ志望動機や面接対策の研究にお役立てください。",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10104449123/",
+    "pass": 3
+   },
+   {
+    "quote": "フルタニモールディングの採用情報・募集中の求人【転職会議】 — 【新着求人多数掲載！】フルタニモールディング株式会社の採用情報・求人一覧ページです。転職会議では、職種・年齢・性別等で絞り込める平均年収、面接の体験談、業界ランキングなど、社員・元社員の率直な口コミ情報を元に、フルタニモールディングへの転職をサポートします。",
+    "url": "https://jobtalk.jp/companies/7763910/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "フルタニモールディング株式会社の求人・仕事・採用｜スタンバイでお... — 新卒採用 工場内勤務：金型製造 フルタニモールディング 株式会社 廿日市工場 広島県 廿日市市 宮内工業団地 / 宮内串戸駅 車15分 月給20万円〜22万円 土日休み",
+    "url": "https://jp.stanby.com/r_b2000dff2c5ad9ceb88cde208234e79d",
+    "pass": 3
+   },
+   {
+    "quote": "フルタニモールディングの採用情報・募集中の求人【転職会議】 — 転職会議では、職種・年齢・性別等で絞り込める平均年収、面接の体験談、業界ランキングなど、社員・元社員の率直な口コミ情報を元に、フルタニモールディングへの転職をサポートします。",
+    "url": "https://jobtalk.jp/companies/7763910/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "フルタニモールディング株式会社 - Go!ひろしま | 広島県フルタニ産業 (株)の新卒採用・会社概要 | マイナビ2027フルタニモールディング株式会社のキャリア・企業情報 | Indeed (イン... — Jun 2, 2023 · フルタニモールディング株式会社は2022年に36歳の四代目社長に世代交代したばかりですが、創業100周年を迎えたフルタニ株式会社を親会社に持つ歴史の長い会社です。 Jul 14, 2026 · フルタニ産業は、そんな会社を目指しています！ ★大人の本気は楽しい！ ！ ワクワクして遊ぶような感覚で仕事も夢中に。 （2026/02/12更新） こんにちは。 採用担当の塩崎です。 フルタニ産業のページをご覧いただき、誠にありがとうございます。 人気の高い職種の給与を比較したり、ワークライフバランスについてのクチコミを参考にしながら、採用企業フルタニモールディン",
+    "url": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00960.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "0 フルタニモールディング（株） jobs in United States Today's top 0 フルタニモールディング（株） jobs in United States. Leverage your professional network, and get hired. New フルタニモールディング（株） jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/フルタニモールディング（株）-jobs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "フルタニモールディング株式会社 | Hatsukaichi-shi HiroshimaFacebook - log in or sign upフルタニモールディング 総務 - Facebookフルタニモールディング株式会社 - 平素より格別のご高配を賜り、厚く...フルタニモールディング株式会社 - 4/1 当社金型工場は、新卒社員一名...フルタニモールディング株式会社 - Facebookフルタニモールディング株式会社 - 8/8 Chào mừng bạn đến Nhật Bản |... Oct 9, 2023 · フルタニモールディング株式会社, Hatsukaichi-shi. 61 followers · 34 were here. 広島県の自動車をはじめとする各種分野の金型メーカーです。 2023年3月に創業100周年を迎えました。 Connect with friend",
+    "url": "https://www.facebook.com/mold.furutani/",
+    "pass": 3
+   },
+   {
+    "quote": "フルタニモールディング 総務 - Facebook フルタニモールディング 総務 is on Facebook. Join Facebook to connect with フルタニモールディング 総務 and others you may know. Facebook gives people the power to share and makes...",
+    "url": "https://www.facebook.com/furutani.mold/",
+    "pass": 3
+   },
+   {
+    "quote": "フルタニモールディング株式会社 - 4/1 当社金型工場は、新卒社員一名... Mar 31, 2022 · フルタニモールディング株式会社 is at フルタニモールディング株式会社. · March 31, 2022 · Hatsukaichi, Hiroshima, Japan · Shared with Public 4/1 当社金型工場は、新卒社員一名を新たに迎え入れました",
+    "url": "https://www.facebook.com/mold.furutani/posts/41当社金型工場は新卒社員一名を新たに迎え入れました始業前には恒例の入社式を執り行いました/455752963012472/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.mold-furutani.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.mold-furutani.co.jp/?page_id=11",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/cmp/%E3%83%95%E3%83%AB%E3%82%BF%E3%83%8B%E3%83%A2%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E3%83%95%E3%83%AB%E3%82%BF%E3%83%8B%E3%83%A2%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/r_b2000dff2c5ad9ceb88cde208234e79d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/r_b2000dff2c5ad9ceb88cde208234e79d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jobtalk.jp/companies/7763910/jobs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00960.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/フルタニモールディング（株）-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mold.furutani/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/furutani.mold/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mold.furutani/posts/41当社金型工場は新卒社員一名を新たに迎え入れました始業前には恒例の入社式を執り行いました/455752963012472/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "フルタニモールディング 求人 年収",
+   "results": [
+    "https://jp.indeed.com/cmp/フルタニモールディング株式会社",
+    "https://jp.indeed.com/cmp/フルタニモールディング株式会社/salaries",
+    "https://jp.stanby.com/r_b2000dff2c5ad9ceb88cde208234e79d",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10104449123/",
+    "https://jobtalk.jp/companies/7763910/jobs",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10104449123/",
+    "https://tenshoku-ex.jp/job_41367540"
+   ]
+  },
+  {
+   "query": "フルタニモールディング 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/r_b2000dff2c5ad9ceb88cde208234e79d",
+    "https://jobtalk.jp/companies/7763910/jobs",
+    "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00960.html",
+    "https://jp.indeed.com/cmp/フルタニモールディング株式会社",
+    "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3509003824561&kJKbn=1&jGSHNo=OugJ/lQWncknyWSs+c4IPw==&fullPart=1&newArrived=2&shogaiKbn=0",
+    "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3509006163261&kJKbn=1",
+    "https://job.mynavi.jp/27/pc/search/corp107512/outline.html"
+   ]
+  },
+  {
+   "query": "site:note.com フルタニモールディング",
+   "results": [
+    "https://note.com/fsk_corp/all",
+    "https://note.com/fsk_corp",
+    "https://note.com/kumj56/n/ndf6afad2da0c?hl=en",
+    "https://note.com/kumj56/n/n1f4f0dd49744",
+    "https://note.com/kumj56/n/n3326fb0e74c7",
+    "https://note.com/fsk_corp/n/n111e5b40dc63",
+    "https://note.com/kumj56/n/n0e7574a0c732"
+   ]
+  },
+  {
+   "query": "site:x.com フルタニモールディング",
+   "results": [
+    "https://x.com/furutanikingyo/status/2095978530605859100",
+    "https://x.com/furutanikingyo/status/2093804987700875437",
+    "https://x.com/yukisakishirazu",
+    "https://help.x.com/zh-tw/using-x",
+    "https://x.com/furutanikingyo",
+    "https://x.com/furutanikingyo/status/2072887414679560517",
+    "https://x.com/furutanikingyo/status/2070363006454923746"
+   ]
+  },
+  {
+   "query": "site:linkedin.com フルタニモールディング",
+   "results": [
+    "https://www.linkedin.com/jobs/フルタニモールディング（株）-jobs",
+    "https://www.linkedin.com/company/フルタニ産業（株）",
+    "https://jp.linkedin.com/in/ナナミ-フルタニ-400b17368",
+    "https://jp.linkedin.com/in/笛-姚-95658254",
+    "https://nl.linkedin.com/in/rima-husseini-8873a6364",
+    "https://lk.linkedin.com/in/d-chenuli-sanaya-jayawardana-6b2b1b379",
+    "https://de.linkedin.com/in/stephanie-peskov-47b06b211"
+   ]
+  },
+  {
+   "query": "site:facebook.com フルタニモールディング",
+   "results": [
+    "https://www.facebook.com/mold.furutani/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/furutani.mold/",
+    "https://www.facebook.com/mold.furutani/posts/41当社金型工場は新卒社員一名を新たに迎え入れました始業前には恒例の入社式を執り行いました/455752963012472/",
+    "https://www.facebook.com/フルタニモールディング株式会社-113728664890082/",
+    "https://www.facebook.com/mold.furutani/photos/平素より格別のご高配を賜り厚く御礼申し上げます-2023年3月フルタニ株式会社は創業100周年を迎えることができましたこれもひとえに先人たちと現従業員お取引先様/688898453031254/",
+    "https://www.facebook.com/mold.furutani/posts/88chào-mừng-bạn-đến-nhật-bản/777091190878646/"
+   ]
+  },
+  {
+   "query": "フルタニモールディング note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00960.html",
+    "https://compalyze.co.jp/company/7240001017979",
+    "http://www.mold-furutani.co.jp/?page_id=175",
+    "http://www.mold-furutani.co.jp/?p=166264"
+   ]
+  },
+  {
+   "query": "フルタニモールディング X 投稿",
+   "results": [
+    "http://www.mold-furutani.co.jp/",
+    "https://x.com/FRuya4",
+    "https://x.com/yukisakishirazu/status/2093522477930656157",
+    "https://x.com/furutanikingyo/status/2105953949434228973",
+    "https://x.com/i/status/2096551593034301822",
+    "http://www.mold-furutani.co.jp/?cat=2",
+    "https://x.com/furutanikingyo/status/2096551941304422718"
+   ]
+  }
+ ],
+ "missing": {
+  "採用人数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索8回）"
+ }
+}

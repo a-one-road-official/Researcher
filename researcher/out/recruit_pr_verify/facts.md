@@ -3098,9 +3098,99 @@
 - 営業と採用のどちらに困っているか：記載なし（読んだ24頁・検索13回）
 - 前例の会社（製造業特化）：記載なし（読んだ24頁・検索13回）
 
-## 就職みらい研究所 就職白書 採用単価（原典）
-- 文脈：
-- エラー：ValueError: netloc '関連記事：採用ピッチ資料とは？25社の成功事例と効果・メリットを徹底解説｜応募者の共感を生む採用戦略の新定番' contains invalid characters under NFKC normalization
+## 就職みらい研究所 就職白書 採用単価（原典）（Recruit Works Shushoku Hakusho recruitment cost per hire original）
+- 文脈：③単価
+- 採用難（公的統計）：
+  - 「地方企業の採用が難しい理由と採用方法【2026年10月更新】｜都道府県別の求人倍率・Uターン候補者への届き方・採用手法の比較」（https://www.hear.co.jp/recruit/recruit-cost）
+  - 「パーソルキャリア（doda）の「転職求人倍率レポート（2026年6月）」などのデータを見ても、IT・技術系の専門職は求人倍率が高止まりしており、こうした採用競合の多さが単価を押し上げる直接的な要因となっています」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「［5］転職求人倍率レポート（2026年6月）」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「リクルートワークス研究所の調査によると、2026年卒の大卒求人倍率は1.66倍と、前年よりわずかに低下したものの、依然として高水準を維持しています」（https://service.gakujo.ne.jp/jinji-library/saiyo/00169/）
+  - 「第42回 ワークス大卒求人倍率調査（2026年卒）」（https://service.gakujo.ne.jp/jinji-library/saiyo/00169/）
+- 採用にいくら払うか：
+  - 「採用単価の相場【2026年版】｜新卒・中途の平均、計算方法、コストを下げる5つの方法 ｜ 株式会社イノベル」（https://innovel.jp/cost-per-hire-2026/）
+  - 「採用単価の相場【2026年版】｜新卒・中途の平均、計算方法、コストを下げる5つの方法」（https://innovel.jp/cost-per-hire-2026/）
+  - 「採用単価（1人を採用するのにかかるコスト）の相場は、中途採用で約103万円、新卒採用で約94万円です」（https://innovel.jp/cost-per-hire-2026/）
+  - 「ただしこれは平均値で、人材紹介を使えば理論年収の30〜35%、つまり年収500万円の人材なら1人175万円が成功報酬としてかかります」（https://innovel.jp/cost-per-hire-2026/）
+  - 「逆に、求人検索エンジンやリファラルを中心にすれば数十万円で済むケースもあり、採用単価は「手法の選び方」で2〜3倍変わるのが実態です」（https://innovel.jp/cost-per-hire-2026/）
+  - 「本記事では、採用単価の定義と計算方法、新卒・中途・手法別の相場、中小企業が見落としがちな「内部コスト」、そして採用単価を下げる5つの方法を、最新データとともに解説します」（https://innovel.jp/cost-per-hire-2026/）
+  - 「新卒・中途・採用手法別の採用単価の相場【2026年版】」（https://innovel.jp/cost-per-hire-2026/）
+  - 「採用単価が高くなる3つの原因」（https://innovel.jp/cost-per-hire-2026/）
+  - 「採用単価を下げる5つの方法と、やってはいけない下げ方」（https://innovel.jp/cost-per-hire-2026/）
+  - 「「採用コスト」「1人あたり採用費」「Cost per Hire」とも呼ばれます」（https://innovel.jp/cost-per-hire-2026/）
+  - 「社長が面接に月20時間、現場責任者が応募対応に月10時間使っているなら、それだけで月に10万〜20万円相当の人件費が採用に投じられています」（https://innovel.jp/cost-per-hire-2026/）
+  - 「採用単価は「採用者1人につきかかった費用」を指し、「採用コストの総額÷採用した人数」で算出します」（https://directscout.recruit.co.jp/biz/guide/article/2660/）
+  - 「株式会社リクルートが運営する「就職みらい研究所」が発表した「就職白書2020」によると、2019年度の新卒採用1人当たりの平均採用コストは93万6000円でした」（https://directscout.recruit.co.jp/biz/guide/article/2660/）
+  - 「2018年度の新卒採用の平均コストは71万5000円であり、1年で31％増加したことになります」（https://directscout.recruit.co.jp/biz/guide/article/2660/）
+  - 「先述の「就職白書2020」では、中途採用コストも公表しています」（https://directscout.recruit.co.jp/biz/guide/article/2660/）
+- 採用広報・採用サイトの単価：
+  - 「採用単価の相場【2026年版】｜新卒・中途の平均、計算方法、コストを下げる5つの方法 ｜ 株式会社イノベル」（https://innovel.jp/cost-per-hire-2026/）
+  - 「採用単価の相場【2026年版】｜新卒・中途の平均、計算方法、コストを下げる5つの方法」（https://innovel.jp/cost-per-hire-2026/）
+  - 「採用単価（1人を採用するのにかかるコスト）の相場は、中途採用で約103万円、新卒採用で約94万円です」（https://innovel.jp/cost-per-hire-2026/）
+  - 「ただしこれは平均値で、人材紹介を使えば理論年収の30〜35%、つまり年収500万円の人材なら1人175万円が成功報酬としてかかります」（https://innovel.jp/cost-per-hire-2026/）
+  - 「逆に、求人検索エンジンやリファラルを中心にすれば数十万円で済むケースもあり、採用単価は「手法の選び方」で2〜3倍変わるのが実態です」（https://innovel.jp/cost-per-hire-2026/）
+  - 「本記事では、採用単価の定義と計算方法、新卒・中途・手法別の相場、中小企業が見落としがちな「内部コスト」、そして採用単価を下げる5つの方法を、最新データとともに解説します」（https://innovel.jp/cost-per-hire-2026/）
+  - 「新卒・中途・採用手法別の採用単価の相場【2026年版】」（https://innovel.jp/cost-per-hire-2026/）
+  - 「人材紹介会社への成功報酬（理論年収の30〜35%が相場）」（https://innovel.jp/cost-per-hire-2026/）
+  - 「社長が面接に月20時間、現場責任者が応募対応に月10時間使っているなら、それだけで月に10万〜20万円相当の人件費が採用に投じられています」（https://innovel.jp/cost-per-hire-2026/）
+  - 「採用単価の相場【2026年版】新卒・中途・手法別」（https://innovel.jp/cost-per-hire-2026/）
+  - 「リクルート就職みらい研究所「就職白書」の調査では、1人あたりの平均採用費は新卒採用で93.6万円、中途採用で103.3万円です」（https://innovel.jp/cost-per-hire-2026/）
+  - 「またマイナビ「中途採用状況調査2026年版（2025年実績）」によると、企業が中途採用に使った年間費用の平均は609.9万円（前年650.6万円）で、2021年から続いた増加がいったん落ち着いた形ですが、依然として高水準です」（https://innovel.jp/cost-per-hire-2026/）
+  - 「年収400万円で約140万円、500万円で約175万円」（https://innovel.jp/cost-per-hire-2026/）
+  - 「掲載課金（4週間で20万〜100万円程度）」（https://innovel.jp/cost-per-hire-2026/）
+  - 「先に挙げたとおり、新卒採用1人当たりの平均採用コストは93万6000円なので、それと比較して10万円ほど高い金額です」（https://directscout.recruit.co.jp/biz/guide/article/2660/）
+- 継続して払うか：
+  - 「求人検索エンジンの運用、スカウト、リファラル、自社採用サイトは、軌道に乗るほど1人あたりのコストが下がる手法です」（https://innovel.jp/cost-per-hire-2026/）
+  - 「成功報酬型の費用（人材紹介）を、月額固定型（採用代行）に置き換えると、採用人数が増えるほど1人あたりのコストは下がります」（https://innovel.jp/cost-per-hire-2026/）
+  - 「たとえば月額15万円のRPOを12ヶ月使って6名採用すれば、1人あたりの外部コストは30万円」（https://innovel.jp/cost-per-hire-2026/）
+  - 「は月額150,000円〜（税別）で面接以外の8業務を代行し、何名採用しても追加費用はかかりません」（https://innovel.jp/cost-per-hire-2026/）
+  - 「自社で母集団をつくる手法と月額型の採用代行を組み合わせることで差は縮められます」（https://innovel.jp/cost-per-hire-2026/）
+  - 「※文中の社名・所属等は、取材時または更新時のものです」（https://directscout.recruit.co.jp/biz/guide/article/2660/）
+  - 「採用KPIはどうやって立てる？適切な設定方法と運用のポイントを解説」（https://directscout.recruit.co.jp/biz/guide/article/2660/）
+  - 「🗓 最終更新：2026年7月9日」（https://manten-comic.com/recruitment-cost-per-hire-guide/）
+  - 「急ぎの欠員補充は成果課金や人材紹介、継続的な母集団づくりは広告、そして「応募するかどうか迷っている人を後押しする情報」は自社の発信が担う——このうちどれか一つに全予算を寄せている状態が、単価が高止まりする典型パターンです」（https://manten-comic.com/recruitment-cost-per-hire-guide/）
+  - 「継続採用する職種は、自社発信や広告との組み合わせで単価を平準化しましょう」（https://manten-comic.com/recruitment-cost-per-hire-guide/）
+  - 「（マン天運営会社）／最終更新日：2026年7月9日」（https://manten-comic.com/recruitment-cost-per-hire-guide/）
+  - 「さらに各チャネルの運用には、スカウトメッセージの作成や配信、候補者からの問い合わせ対応など、」（https://marugotoinc.jp/blog/saiyocost_expensive/）
+  - 「「以前から使っているから」という慣習で、効果が低い媒体やサービスを継続して利用している企業は少なくありません」（https://marugotoinc.jp/blog/saiyocost_expensive/）
+  - 「「まるごと人事」では、採用戦略の設計から母集団形成、候補者対応、選考プロセスの運用まで、採用業務を一貫して代行します」（https://marugotoinc.jp/blog/saiyocost_expensive/）
+  - 「月額制で柔軟に契約でき、最短5営業日で経験豊富な採用チームがアサインされるため、急な採用ニーズにも対応可能です」（https://marugotoinc.jp/blog/saiyocost_expensive/）
+- どう買われるか：
+  - 「ただしこれは平均値で、人材紹介を使えば理論年収の30〜35%、つまり年収500万円の人材なら1人175万円が成功報酬としてかかります」（https://innovel.jp/cost-per-hire-2026/）
+  - 「人材紹介会社への成功報酬（理論年収の30〜35%が相場）」（https://innovel.jp/cost-per-hire-2026/）
+  - 「社長が面接に月20時間、現場責任者が応募対応に月10時間使っているなら、それだけで月に10万〜20万円相当の人件費が採用に投じられています」（https://innovel.jp/cost-per-hire-2026/）
+  - 「1人を採用するのにかかるコストの目安（出典：就職白書、人材紹介は手数料35%で試算）」（https://innovel.jp/cost-per-hire-2026/）
+  - 「原因1：人材紹介に依存している」（https://innovel.jp/cost-per-hire-2026/）
+  - 「「求人を出しても応募が来ないから、紹介会社に頼む」という流れが固定化すると、採用1名ごとに年収の3分の1が出ていきます」（https://innovel.jp/cost-per-hire-2026/）
+  - 「マイナビの調査で人材紹介は「採用につながった手法」の2位（27.3%）と即効性は高いものの、これを主軸にし続けると採用単価は構造的に下がりません」（https://innovel.jp/cost-per-hire-2026/）
+  - 「人材紹介をゼロにする必要はありませんが、「緊急時の保険」に位置づけ直すことで総額は大きく変わります」（https://innovel.jp/cost-per-hire-2026/）
+  - 「成功報酬型の費用（人材紹介）を、月額固定型（採用代行）に置き換えると、採用人数が増えるほど1人あたりのコストは下がります」（https://innovel.jp/cost-per-hire-2026/）
+  - 「人材紹介で6名採れば1,000万円前後になる計算との差は歴然です」（https://innovel.jp/cost-per-hire-2026/）
+  - 「人材紹介を利用した場合は理論年収の30〜35%が成功報酬となるため、年収500万円の人材で約175万円になります」（https://innovel.jp/cost-per-hire-2026/）
+  - 「「外部コスト（広告費・紹介手数料・ツール費など）＋内部コスト（採用担当・面接官の人件費など）」を採用人数で割ります」（https://innovel.jp/cost-per-hire-2026/）
+  - 「採用人数が少ないため固定費（掲載料・ツール費）を分散できず、知名度が低いため応募率が下がり、人材紹介に頼る比率が上がるためです」（https://innovel.jp/cost-per-hire-2026/）
+  - 「まず自社の外部コストと内部コストを媒体別に洗い出し、人材紹介への依存度を下げ、求人票と選考スピードを改善する——この順番で取り組めば、採用の質を落とさずに単価を下げられます」（https://innovel.jp/cost-per-hire-2026/）
+  - 「それぞれに含まれる費用の一例をご紹介します」（https://directscout.recruit.co.jp/biz/guide/article/2660/）
+- 営業と採用のどちらに困っているか：
+  - 「マイナビの調査で人材紹介は「採用につながった手法」の2位（27.3%）と即効性は高いものの、これを主軸にし続けると採用単価は構造的に下がりません」（https://innovel.jp/cost-per-hire-2026/）
+  - 「特に2024年問題に直面した「運輸・物流」や、慢性的な人材不足が続く「IT・通信」などでは、企業が多くの予算を投じて中途採用を進めていることがわかります」（https://professional.mynavi.jp/magazine/magazine_402）
+- 前例の会社（製造業特化）：
+  - 「採用単価の相場【2026年版】｜新卒・中途の平均、計算方法、コストを下げる5つの方法 ｜ 株式会社イノベル」（https://innovel.jp/cost-per-hire-2026/）
+  - 「厚生労働省の調査では大卒の3年以内離職率は33.8%、従業員5〜29人の事業所では52.0%です」（https://innovel.jp/cost-per-hire-2026/）
+  - 「株式会社イノベルでは、現状の採用コストの棚卸しから媒体の組み替え、実務の代行までを伴走しています」（https://innovel.jp/cost-per-hire-2026/）
+  - 「リファラル採用（従業員が友人・知人を紹介）が成立した場合の従業員へのインセンティブ支給」（https://directscout.recruit.co.jp/biz/guide/article/2660/）
+  - 「株式会社リクルートが運営する「就職みらい研究所」が発表した「就職白書2020」によると、2019年度の新卒採用1人当たりの平均採用コストは93万6000円でした」（https://directscout.recruit.co.jp/biz/guide/article/2660/）
+  - 「株式会社リクルート「就職白書2020」P11 2020年 6月11日」（https://directscout.recruit.co.jp/biz/guide/article/2660/）
+  - 「株式会社リクルート「『就職白書2024』データ集」P141 2024年2月」（https://directscout.recruit.co.jp/biz/guide/article/2660/）
+  - 「「リファラル採用」は、自社の従業員が友人・知人を会社に紹介し、選考を経て採用する手法です」（https://directscout.recruit.co.jp/biz/guide/article/2660/）
+  - 「【2026年版】採用コストが高い5つの原因と削減策｜相場から見直しポイントまで | まるごと人事｜成長企業向けの採用代行｜マルゴト株式会社」（https://marugotoinc.jp/blog/saiyocost_expensive/）
+  - 「株式会社マイナビの調査によると、2023年度の中途採用における実績平均は、2022年度と比較して増加しました」（https://worksreview.worksjapan.co.jp/recruitment-activity/average_recruitmentcost）
+  - 「株式会社マイナビの「中途採用状況調査2025年版（2024年実績）」によると、2024年の中途採用費用（実績）は年間平均650.6万円でした」（https://worksreview.worksjapan.co.jp/recruitment-activity/average_recruitmentcost）
+  - 「出典：株式会社リソースクリエイションアンケート結果」（https://off-beat.co.jp/img/top/Recruitme_digest.pdf）
+  - 「出典：株式会社リソースクリエイションアンケート結果「コロナ禍におけるSNS就活についての実態調査」」（https://off-beat.co.jp/img/top/Recruitme_digest.pdf）
+  - 「スタンバイは「ビズリーチ」を運営するビジョナル株式会社と、ポータルサイト「Yahoo! JAPAN」を運営するZホールディングス株式会社の合弁会社「株式会社スタンバイ」が運営する求人サービス」（https://web.toroo.jp/column/14518）
+  - 「採用コストの平均は一人当たりいくら？新卒・中途の最新相場と算出方法・職種別の広告費・削減の手順【2026年9月更新】｜HeaR株式会社」（https://www.hear.co.jp/recruit/recruit-cost）
+- 社数（規模別）：記載なし（読んだ29頁・検索13回）
+- 作る側の原価：記載なし（読んだ29頁・検索13回）
 
 ## 経営上の問題点 製造業「求人難・人手不足」を挙げた割合（中小企業景況調査・年ごと）（share of SME manufacturers citing labor shortage as top issue Japan survey yearly）
 - 文脈：①営業と採用・一次（人材確保の側）

@@ -1,0 +1,931 @@
+{
+ "name": "センナリ",
+ "aliases": [],
+ "context": "広島県広島市／出典:県・市の企業ガイド／求人媒体:Indeed;doda／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T06:38:21.573423+00:00",
+ "official_url": "https://hiroshima-kigyo-zukan.vercel.app/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本店所在地",
+    "value": "〒732-0046 広島県広島市東区尾長東1丁目9番4号",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/2240001042222",
+    "pass": 1
+   },
+   {
+    "label": "本店所在地",
+    "value": "〒730-0051 広島県広島市中区大手町5丁目8番1号",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/8240001046341",
+    "pass": 1
+   },
+   {
+    "label": "本店所在地",
+    "value": "〒730-0825 広島県広島市中区光南4丁目4番27号",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/2240001017587",
+    "pass": 1
+   },
+   {
+    "label": "本店所在地",
+    "value": "〒726-0002 広島県府中市鵜飼町800番地132",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/7290001100953",
+    "pass": 1
+   },
+   {
+    "label": "本店所在地",
+    "value": "〒733-0832 広島県広島市西区草津港1丁目7番5号",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/5240001003287",
+    "pass": 1
+   },
+   {
+    "label": "本店所在地",
+    "value": "〒738-0023 広島県廿日市市下平良2丁目1番5号",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/6240001028069",
+    "pass": 1
+   },
+   {
+    "label": "本店所在地",
+    "value": "〒732-0048 広島県広島市東区山根町39番11号",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/2240001045456",
+    "pass": 1
+   },
+   {
+    "label": "本店所在地",
+    "value": "〒733-0032 広島県広島市西区東観音町21番10号",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/3240001021316",
+    "pass": 1
+   },
+   {
+    "label": "本店所在地",
+    "value": "〒731-0100 広島県広島市安佐南区祗園六丁目10番22号",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/4240002010820",
+    "pass": 1
+   },
+   {
+    "label": "本店所在地",
+    "value": "〒733-0812 広島県広島市西区己斐本町3丁目2番8号",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/5240005013506",
+    "pass": 1
+   },
+   {
+    "label": "本店所在地",
+    "value": "〒732-0048 広島県広島市東区山根町28番22号",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/6240001004788",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "23名（gBizINFO更新2022-04-22・人数対象年次と集計範囲は未確認）",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/2240001042222",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "10名（gBizINFO更新2023-02-22・人数対象年次と集計範囲は未確認）",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/8240001046341",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "12名（gBizINFO更新2019-11-29・人数対象年次と集計範囲は未確認）",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/2240001017587",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "16名（gBizINFO更新2018-08-02・人数対象年次と集計範囲は未確認）",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/5240001003287",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "11名（gBizINFO更新2020-02-20・人数対象年次と集計範囲は未確認）",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/6240001028069",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "14名（gBizINFO更新2024-02-02・人数対象年次と集計範囲は未確認）",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/2240001045456",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "15名（gBizINFO更新2015-11-20・人数対象年次と集計範囲は未確認）",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/3240001021316",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "15名（gBizINFO更新2022-06-08・人数対象年次と集計範囲は未確認）",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/4240002010820",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "14名（gBizINFO更新2018-11-28・人数対象年次と集計範囲は未確認）",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/5240005013506",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "26名（gBizINFO更新2020-04-13・人数対象年次と集計範囲は未確認）",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/6240001004788",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1980年3月28日",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/6240001028069",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "マツダ、セイコーとのコラボレーション第3弾「MAZDA クロノグラフウオッチ」を発売",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/",
+    "pass": 1
+   },
+   {
+    "quote": "大形工作機械や大型冷凍機、自動車の組立治具などの機械設計・製図をCADで手がけ、滋賀・神戸にも拠点を構えます",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/",
+    "pass": 1
+   },
+   {
+    "quote": "断熱材・空調資材・配管材料などを扱い、広島・松山・松江に拠点を置いています",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/2240001042222",
+    "pass": 1
+   },
+   {
+    "quote": "取引先は広島市信用組合、広島県信用組合、広島信用金庫、三井住友銀行、広島銀行です",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/8240001046341",
+    "pass": 1
+   },
+   {
+    "quote": "広島市中区と山口県周南市に拠点を置く法律事務所です",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/8240001046341",
+    "pass": 1
+   },
+   {
+    "quote": "道路・河川・防災・地盤・測量などの調査・測量・設計を手がけ、中国・四国地方に拠点を構えます",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/2240001017587",
+    "pass": 1
+   },
+   {
+    "quote": "広島市、福山市、岩国市などに拠点を置いています",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/2240001017587",
+    "pass": 1
+   },
+   {
+    "quote": "資本金は1億円です",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/7290001100953",
+    "pass": 1
+   },
+   {
+    "quote": "広島県府中市に本社と本社工場を置き、オフセット印刷機の製造・販売を手がけるリョービMHIグラフィックテクノロジー株式会社です",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/7290001100953",
+    "pass": 1
+   },
+   {
+    "quote": "ダイカスト製品、建築用品、印刷機器の製造・販売を手がけ、静岡工場ではギガキャストの試作に着手しています",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/7290001100953",
+    "pass": 1
+   },
+   {
+    "quote": "大形工作機械や大型冷凍機、自動車の組立治具などの機械設計・製図をCADで手がけ、滋賀・神戸にも拠点を構えます",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/7290001100953",
+    "pass": 1
+   },
+   {
+    "quote": "合成樹脂・合成ゴムのコンパウンド加工受託と、ポリエチレン添加剤マスターバッチの製造販売を行う工場です",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/7290001100953",
+    "pass": 1
+   },
+   {
+    "quote": "手縫い仕立てとお直し、ベトナム自社工場での縫製、和裁士の育成を手がけています",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/5240001003287",
+    "pass": 1
+   },
+   {
+    "quote": "大形工作機械や大型冷凍機、自動車の組立治具などの機械設計・製図をCADで手がけ、滋賀・神戸にも拠点を構えます",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/5240001003287",
+    "pass": 1
+   },
+   {
+    "quote": "合成樹脂・合成ゴムのコンパウンド加工受託と、ポリエチレン添加剤マスターバッチの製造販売を行う工場です",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/5240001003287",
+    "pass": 1
+   },
+   {
+    "quote": "企業向けにはオフィスや店舗のゴミ収集、商業施設のゴミ収集、工場や建設現場、病院などの産業廃棄物の回収を提供しています",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/6240001028069",
+    "pass": 1
+   },
+   {
+    "quote": "企業向けの柱は、オフィス・店舗のゴミ収集、商業施設などのゴミ収集、工場などの産業廃棄物の回収、資源リサイクル、ゴミ処理を最適化する廃棄物マネジメントです",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/6240001028069",
+    "pass": 1
+   },
+   {
+    "quote": "高断熱の木製玄関ドアや室内ドアを自社職人の手仕上げで製造し、本社工場と九州営業所、東京事務所を持つ",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/6240001028069",
+    "pass": 1
+   },
+   {
+    "quote": "広島本社のほか、滋賀県栗東市と兵庫県神戸市に拠点を構えています",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/4240002010820",
+    "pass": 1
+   },
+   {
+    "quote": "主要取引先はニデックマシンツール株式会社、三菱重工サーマルシステムズ株式会社、株式会社NTTデータMHIシステムズ、三菱重工マシナリーテクノロジー株式会社、三菱重工コンプレッサ株式会社、株式会社今西製作所です",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/4240002010820",
+    "pass": 1
+   },
+   {
+    "quote": "神戸分室は兵庫県神戸市兵庫区和田崎町1-1-1の三菱重工業株式会社神戸造船所内です",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/4240002010820",
+    "pass": 1
+   },
+   {
+    "quote": "ニデックマシンツール株式会社、三菱重工サーマルシステムズ株式会社、株式会社NTTデータMHIシステムズ、三菱重工マシナリーテクノロジー株式会社、三菱重工コンプレッサ株式会社、株式会社今西製作所です",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/4240002010820",
+    "pass": 1
+   },
+   {
+    "quote": "金型工場を保有し、食品容器や自動車部品、医療器具部品などを手がけています",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/4240002010820",
+    "pass": 1
+   },
+   {
+    "quote": "合成樹脂・合成ゴムのコンパウンド加工受託と、ポリエチレン添加剤マスターバッチの製造販売を行う工場です",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/4240002010820",
+    "pass": 1
+   },
+   {
+    "quote": "総合建設事業では、公・官庁事業、商業施設・商業ビル、大規模工場・倉庫、リノベーション、賃貸住宅、個人戸建住宅の依頼を承っています",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/6240001004788",
+    "pass": 1
+   },
+   {
+    "quote": "広島市、福山市、岩国市などに拠点を置いています",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/6240001004788",
+    "pass": 1
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "資本金は300万円です",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/2240001042222",
+    "pass": 1
+   },
+   {
+    "quote": "売上高はグループ連結で、2023年2月期が20,600万円、2024年2月期が27,400万円、2025年2月期が28,300万円、2026年2月期が29,900万円です",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/2240001042222",
+    "pass": 1
+   },
+   {
+    "quote": "資本金は1,000万円です",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/2240001017587",
+    "pass": 1
+   },
+   {
+    "quote": "資本金は300万円です",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/4240002010820",
+    "pass": 1
+   },
+   {
+    "quote": "5,000万円",
+    "url": "https://www.plex-job.com/company/06f6da06-c323-4bee-8279-c3cffc25bbde/",
+    "pass": 3
+   },
+   {
+    "quote": "月給￥144,000",
+    "url": "https://www.plex-job.com/company/06f6da06-c323-4bee-8279-c3cffc25bbde/",
+    "pass": 3
+   },
+   {
+    "quote": "牧場スタッフの年収はいくら？給料の目安や手取り、キャリアごとの年収まで解説",
+    "url": "https://www.plex-job.com/company/06f6da06-c323-4bee-8279-c3cffc25bbde/",
+    "pass": 3
+   },
+   {
+    "quote": "農業の平均年収はいくら？正社員の給料・手取りの内訳から稼ぐ仕組み解説",
+    "url": "https://www.plex-job.com/company/06f6da06-c323-4bee-8279-c3cffc25bbde/",
+    "pass": 3
+   },
+   {
+    "quote": "現社員や元社員から投稿された企業の評判・面接・年収などの口コミ情報を、",
+    "url": "https://jobtalk.jp/companies/168277",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "4000万円",
+    "url": "https://syukatsu-kaigi.jp/companies/16772",
+    "pass": 3
+   },
+   {
+    "quote": "就活会議に掲載している口コミ及び口コミに紐づく属性情報（性別、雇用時の年齢・年代、職種、年収、役職、雇用形態など）は、",
+    "url": "https://syukatsu-kaigi.jp/companies/16772",
+    "pass": 3
+   },
+   {
+    "quote": "センナリ株式会社の年収、社風、強みなど、実際にセンナリ株式会社で働いていた人の口コミをもとに企業理解を深められるだけでなく、先輩の体験記やESから選考の傾向をつかんで効率的に選考対策を進めることができます",
+    "url": "https://syukatsu-kaigi.jp/companies/16772",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "www.shimokishi.co.jp/recruit/message/",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/6240001004788",
+    "pass": 1
+   },
+   {
+    "quote": "www.shimokishi.co.jp/recruit/interview/",
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/6240001004788",
+    "pass": 1
+   },
+   {
+    "quote": "センナリの転職・採用情報｜社員口コミでわかる【転職会議】",
+    "url": "https://jobtalk.jp/companies/168277",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "センナリの新卒採用・就職・企業情報【就活会議】",
+    "url": "https://syukatsu-kaigi.jp/companies/16772",
+    "pass": 3
+   },
+   {
+    "quote": "センナリ株式会社の新卒採用・就職・企業情報",
+    "url": "https://syukatsu-kaigi.jp/companies/16772",
+    "pass": 3
+   },
+   {
+    "quote": "ぜひ、選考体験記の詳細ページにて最新情報やエントリーシート・体験記全文を確認し、選考対策に役立ててください",
+    "url": "https://syukatsu-kaigi.jp/companies/16772",
+    "pass": 3
+   },
+   {
+    "quote": "就活会議では、センナリ株式会社の評判や口コミ、選考を突破した先輩のエントリーシート、実際の選考内容を確認できる体験記、選考状況をリアルタイムで把握できる就活速報を掲載しています",
+    "url": "https://syukatsu-kaigi.jp/companies/16772",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "センナリ フーズ 株式会社の 求人 （全2件）・会社情報 — センナリ フーズ 株式会社の 求人 （全2件）・会社情報 プレックスジョブ https://www.plex-job.com > company",
+    "url": "https://www.plex-job.com/company/06f6da06-c323-4bee-8279-c3cffc25bbde/",
+    "pass": 3
+   },
+   {
+    "quote": "センナリ の転職・採用情報｜社員口コミでわかる【転職会議】 — センナリ の転職・採用情報｜社員口コミでわかる【転職会議】 転職会議 https://jobtalk.jp > 食品・化粧品業界ランキング",
+    "url": "https://jobtalk.jp/companies/168277",
+    "pass": 3
+   },
+   {
+    "quote": "新着情報 | センナリ フーズ株式会社 スタッフ採用【公式 ... — 新着情報 | センナリ フーズ株式会社 スタッフ採用【公式 ... job-gear.net https://job-gear.net > sennarifoods2 > whatsnew",
+    "url": "https://job-gear.net/sennarifoods2/whatsnew.htm?L=BMSList&BCD=VsT&NOI=30&SD=UD%2CID",
+    "pass": 3
+   },
+   {
+    "quote": "センナリ 新卒 高卒 の求人情報をすべて見る （136件） — センナリ 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "センナリ の 新卒採用 ・就職・企業情報 - 就活会議 — センナリ の 新卒採用 ・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > ... > 食品・飲料業界の企業一覧",
+    "url": "https://syukatsu-kaigi.jp/companies/16772",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "センナリ バナナ（京都府立植物園）：2025年12月1日（月） センナリ バナナ（京都府立植物園）：2025年12月1日（月） note https://note.com > 科学・テクノロジー > 植物",
+    "url": "https://note.com/fujii_hideaki/n/n0a48203ae611",
+    "pass": 3
+   },
+   {
+    "quote": "『 センナリ バナナ』 幾重にも重なり吊り下がるバナナの総 ... 『 センナリ バナナ』 幾重にも重なり吊り下がるバナナの総 ... note https://note.com > 科学・テクノロジー > 植物",
+    "url": "https://note.com/eggseed13/n/n7fc7b97c89ed",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "Economically, although not suitable for consumption, Sen-nari Banana has ornamental market value. Its striking appearance enhances visitor engagement at exhibitions and botanical events. It is also used as fodder in some contexts, contributing to agricultural resources (Reference 2). Moreover, its display supports horticultural education and the dissemination of regional plant culture.",
+    "url": "https://note.com/fujii_hideaki/n/n0a48203ae611",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "センナリバナナ（京都府立植物園）：2025年12月1日（月）｜藤井秀昭（『京都居候叢書』著者）",
+    "url": "https://note.com/fujii_hideaki/n/n0a48203ae611",
+    "pass": 3
+   },
+   {
+    "quote": "センナリバナナ（京都府立植物園）：2025年12月1日（月）",
+    "url": "https://note.com/fujii_hideaki/n/n0a48203ae611",
+    "pass": 3
+   },
+   {
+    "quote": "京都府立植物園の観覧温室に展示されるセンナリバナナ（Musa chiliocarpa）は，果実が多数垂れ下がる特異な形態を持つバショウ科の多年草である。花序構造や蜜の分泌は花粉媒介者との共進化を示し，光周期と植物ホルモンによる花成制御も重要な生理学的特徴である。温室では短日条件を再現し，安定した開花と果実形成を実現している。文化的には豊穣の象徴としての意味を持ち，経済的には観賞用植物としての市場価値が高く，環境資源としても炭素固定や湿度調整に寄与する。展示は教育的にも意義深い。",
+    "url": "https://note.com/fujii_hideaki/n/n0a48203ae611",
+    "pass": 3
+   },
+   {
+    "quote": "京都府立植物園の観覧温室において，熱帯有用作物室の入口手前に広がるジャングル室に，センナリバナナ（Musa chiliocarpa，バショウ科）の果実が2本，まるで万年筆のように垂れ下がっている。晩夏から続くその変化を観察しながら，筆者はこの植物の生態と展示の意味を『京都居候叢書』の理念に則って考察する。すなわち，植物を単なる展示物ではなく，空間に「居候」する知的存在として捉え，その文化的・経済的・環境的・生理学的文脈を読み解く試みである。",
+    "url": "https://note.com/fujii_hideaki/n/n0a48203ae611",
+    "pass": 3
+   },
+   {
+    "quote": "センナリバナナは，バショウ科バショウ属に属する多年草であり，学名はMusa chiliocarpa（別名：Musa × paradisiaca cv. Thousand Finger）である（文献1）。本種は東南アジア，特にジャワ島やマレー半島で栽培されており，1本の花序に数百から数千個もの小さな果実を密につけるという特異な形態を持つ。果実は長さ約4cmで，熟すと緑色から黄色に変化し，果肉は淡黄色で甘味があるが，食用には適さず，主に観賞用または飼料用として利用される（文献2）。",
+    "url": "https://note.com/fujii_hideaki/n/n0a48203ae611",
+    "pass": 3
+   },
+   {
+    "quote": "植物学的には，センナリバナナは偽茎の頂部から長い花序を垂下させ，その基部に雌花群，先端に雄花群を段状に配列する。雌花の開花後に雄花が咲くという順序性は，バショウ属に共通する特徴である（文献3）。また，花は大量の蜜を分泌し，自生地ではコウモリが主要な花粉媒介者とされる。花序の構造と開花順序，蜜の分泌量などは，花粉媒介者との共進化の証左といえる。",
+    "url": "https://note.com/fujii_hideaki/n/n0a48203ae611",
+    "pass": 3
+   },
+   {
+    "quote": "生理学的観点から見ると，バショウ科植物の花成は，光周期と植物ホルモンの複合的な制御によって調節される。バナナ属の多くは中性植物または短日植物に分類され，日長の変化に応じて花芽形成が誘導される。葉に存在する光受容体（フィトクロムやクリプトクロム）が日長を感知し，概日時計と連動してFLOWERING LOCUS T（FT）遺伝子の発現を調節する（文献5）。FTタンパク質はフロリゲンとして師部を通じて茎頂分裂組織に輸送され，花成を誘導する（文献6）。",
+    "url": "https://note.com/fujii_hideaki/n/n0a48203ae611",
+    "pass": 3
+   },
+   {
+    "quote": "さらに，ジベレリン（GA）やサイトカイニンなどの植物ホルモンも花成に関与しており，GAはFTの発現を補助的に促進することが知られている（文献7）。バナナ属では，栄養成長から生殖成長への転換において，ホルモンバランスの変化が重要な役割を果たす。京都府立植物園では，温室内の照明・遮光管理により短日条件を再現し，花成を誘導していると考えられる。とくに秋から冬にかけての自然短日条件を活用することで，温室内でも安定した花序形成と果実の発達が可能となっている。",
+    "url": "https://note.com/fujii_hideaki/n/n0a48203ae611",
+    "pass": 3
+   },
+   {
+    "quote": "『センナリバナナ』 幾重にも重なり吊り下がるバナナの総重量を、どの位か計算してみた｜EGGSEED",
+    "url": "https://note.com/eggseed13/n/n7fc7b97c89ed",
+    "pass": 3
+   },
+   {
+    "quote": "『センナリバナナ』 幾重にも重なり吊り下がるバナナの総重量を、どの位か計算してみた",
+    "url": "https://note.com/eggseed13/n/n7fc7b97c89ed",
+    "pass": 3
+   },
+   {
+    "quote": "ショウガ目、バショウ科、バナナ属の多年生植物",
+    "url": "https://note.com/eggseed13/n/n7fc7b97c89ed",
+    "pass": 3
+   },
+   {
+    "quote": "ジャワ島やマレー半島を原産とするバナナとなる。",
+    "url": "https://note.com/eggseed13/n/n7fc7b97c89ed",
+    "pass": 3
+   },
+   {
+    "quote": "千成バナナと名が付くが、これに付くバナナの実は",
+    "url": "https://note.com/eggseed13/n/n7fc7b97c89ed",
+    "pass": 3
+   },
+   {
+    "quote": "千本を超え、多いもので三千本も付くとされる。",
+    "url": "https://note.com/eggseed13/n/n7fc7b97c89ed",
+    "pass": 3
+   },
+   {
+    "quote": "ただしこのバナナは、洋名でフィンガーバナナと",
+    "url": "https://note.com/eggseed13/n/n7fc7b97c89ed",
+    "pass": 3
+   },
+   {
+    "quote": "呼ばれる通り小型な為、果肉が殆どないことから",
+    "url": "https://note.com/eggseed13/n/n7fc7b97c89ed",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ぱすた専門店せんなり（センナリ） (@TSennari) / X 4 ぱすた専門店せんなり（センナリ） @TSennari Mar 20, 2022 ぱすた専門店せんなりの「たらこといかのバター風味亅830円、麺にからみつく、たらこのソースに特徴があり、たらこといか、そしてのりの風味を味わってください☺️",
+    "url": "https://x.com/tsennari",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by ぱすた専門店せんなり（センナリ） (@TSennari) / X 海老カニ🦀合戦（トマト仕立て）1180円 渡りガニと海老たっぷり入り、海老とカニ（Wだし）更に魚介の味を濃縮したプラチナ級。が、渡ガニの1080円に百円プラスで食べれます☺️ 2 8 731 ぱすた専門店せんなり（センナリ） @TSennari Sep 7, 2023",
+    "url": "https://x.com/TSennari/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "センナリチケット (@sennarit) / X 1 センナリチケット @sennarit Feb 2, 2022 #movix京都 #映画券 ムービックスの映画鑑賞券 一般1900円ですが ⏩1250円の販売です🥤 只今の有効期限は3月末です🍿 #チケットショップ #格安",
+    "url": "https://x.com/sennarit",
+    "pass": 3
+   },
+   {
+    "quote": "\"#センナリヒョウタン\" - Results on X | Live Posts & Updates Results for \"#センナリヒョウタン\" on X (Twitter). Find the latest posts, discussions, and updates about #センナリヒョウタン. 16 results found.",
+    "url": "https://x.com/hashtag/センナリヒョウタン",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "センナリ おいしさ研究所 大地 | Hiroshima Hiroshimaセンナリ おいしさ研究所 大地 | Hiroshima HiroshimaFacebook - log in or sign upセンナリ おいしさ研究所 大地 - Facebookセンナリ おいしさ研究所 大地 - テレビ出演のお知らせ ... | Faceboo...センナリ おいしさ研究所 大地 - 新発売！ 激辛ぢゃけんお好みソース ...センナリ おいしさ研究所 大地 - \\ 季節限定商品のご案内 ／... | Fac... センナリ おいしさ研究所 大地, Hiroshima. 56 followers · 1 talking about this · 71 were here. 広島の源流の地下天然水と国産有機米をもとにして、自然にゆだねる静置 センナリ おいしさ研究所 大地, Hiroshima. 5",
+    "url": "https://www.facebook.com/sennarioochi/",
+    "pass": 3
+   },
+   {
+    "quote": "センナリ おいしさ研究所 大地 | Hiroshima Hiroshima センナリ おいしさ研究所 大地, Hiroshima. 56 followers · 11 talking about this · 71 were here. 広島の源流の地下天然水と国産有機米をもとにして、自然にゆだねる静置",
+    "url": "https://www.facebook.com/sennarioochi/reels/",
+    "pass": 3
+   },
+   {
+    "quote": "センナリ おいしさ研究所 大地 - テレビ出演のお知らせ ... | Faceboo... Aug 17, 2026 · シングです！ 無くなり次第終了なのでぜひお買い求めください🙏 #期間限定#旬#ドレッシング#センナリ#駅舎カフェromui 📍広島市安佐北区安佐町飯室2905 センナリ おいしさ研究所 大地 is atセンナリ おいしさ研究所 大地.",
+    "url": "https://www.facebook.com/sennarioochi/posts/テレビ出演のお知らせいつもセンナリをご愛顧いただきありがとうございますこの度センナリがテレビ朝日系列の人気番組林修の今知りたいでしょに出演します今回のテーマはみ/1378323507769745/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/2240001042222",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/8240001046341",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/2240001017587",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/7290001100953",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/5240001003287",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/6240001028069",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/2240001045456",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/3240001021316",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/4240002010820",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/5240005013506",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hiroshima-kigyo-zukan.vercel.app/company/6240001004788",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.plex-job.com/company/06f6da06-c323-4bee-8279-c3cffc25bbde/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10026917875/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jobtalk.jp/companies/168277",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://syukatsu-kaigi.jp/companies/16772",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitten.co.jp/recruit/newgraduate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fujii_hideaki/n/n0a48203ae611",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/eggseed13/n/n7fc7b97c89ed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tsennari",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TSennari/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sennarit",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/センナリヒョウタン",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sennarioochi/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sennarioochi/reels/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sennarioochi/posts/テレビ出演のお知らせいつもセンナリをご愛顧いただきありがとうございますこの度センナリがテレビ朝日系列の人気番組林修の今知りたいでしょに出演します今回のテーマはみ/1378323507769745/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "センナリ 求人 年収",
+   "results": [
+    "https://www.plex-job.com/company/06f6da06-c323-4bee-8279-c3cffc25bbde/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10026917875/",
+    "https://jobtalk.jp/companies/168277",
+    "https://job-gear.net/sennarifoods2/whatsnew.htm?L=BMSList&BCD=VsT&NOI=30&SD=UD%2CID",
+    "https://jp.stanby.com/r_5bf00bffa55f4012c7bc64ed08a4d3ae",
+    "https://tenshoku.mynavi.jp/company/476833/",
+    "https://en-hyouban.com/company/10105613214/kuchikomi/",
+    "https://doraever.jp/job-369176",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10002584653/",
+    "https://jp.indeed.com/q-センナリ株式会社-求人.html?vjk=f2d78a76476d2bbf"
+   ]
+  },
+  {
+   "query": "センナリ 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%82%BB%E3%83%B3%E3%83%8A%E3%83%AA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://syukatsu-kaigi.jp/companies/16772",
+    "https://www.nitten.co.jp/recruit/newgraduate/",
+    "https://recruit.san-ai-obbli.com/graduate/",
+    "https://sennari-group.co.jp/pages/74/",
+    "https://www.instagram.com/reel/CuWwLASpSZV/",
+    "https://www.nissin.com/jp/recruit/",
+    "https://www.nissha.com/recruit/index.html",
+    "https://www.sennaritei.jp/recruit/outline/",
+    "https://www.sc-m.jp/new/"
+   ]
+  },
+  {
+   "query": "site:note.com センナリ",
+   "results": [
+    "https://note.com/fujii_hideaki/n/n0a48203ae611",
+    "https://note.com/eggseed13/n/n7fc7b97c89ed",
+    "https://note.com/aohakutaki/n/nc6660cf056da",
+    "https://note.com/withleaf/n/n3d5319a64a58",
+    "https://note.com/shiraume_essay/n/n10c043bf5c51",
+    "https://note.com/pickles_othllc/n/nbca17cd20a6c",
+    "https://note.com/yappi96/n/n1a288dd63755",
+    "https://note.com/shiga_work/n/n4c9cd8e3351e",
+    "https://note.com/ribu5489/n/n159d50045bba",
+    "https://note.com/mipopo_golf/n/nb7904730d093"
+   ]
+  },
+  {
+   "query": "site:x.com センナリ",
+   "results": [
+    "https://x.com/tsennari",
+    "https://x.com/TSennari/with_replies",
+    "https://x.com/sennarit",
+    "https://x.com/hashtag/センナリヒョウタン",
+    "https://x.com/kei27822215/status/2099700049689424046",
+    "https://x.com/pippi_os/status/1081890311419252736",
+    "https://x.com/hashtag/センナリフーズ"
+   ]
+  },
+  {
+   "query": "site:linkedin.com センナリ",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com センナリ",
+   "results": [
+    "https://www.facebook.com/sennarioochi/",
+    "https://www.facebook.com/sennarioochi/reels/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/sennarioochi/posts/テレビ出演のお知らせいつもセンナリをご愛顧いただきありがとうございますこの度センナリがテレビ朝日系列の人気番組林修の今知りたいでしょに出演します今回のテーマはみ/1378323507769745/",
+    "https://www.facebook.com/sennarioochi/posts/季節限定商品のご案内年に１回の初夏だけのお楽しみ旬の味採れたてドレッシングのお知らせです暑い季節をちょっと楽しみにしてくれる広島県内で育てた爽やかなバジルとフレ/1034163502185749/",
+    "https://www.facebook.com/sennarioochi/shop/",
+    "https://www.facebook.com/sennarioochi/posts/新発売激辛ぢゃけんお好みソース今日から発送開始です広島県庄原でつくられたハバネロの7倍辛いといわれるキャロライナリーパーを使用キャロライナリーパーは2013年に/275417294639816/"
+   ]
+  },
+  {
+   "query": "センナリ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://yokotablog.com/sadaaki-kato-profile/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/hirosimabyc/n/nfd53ea0e63cd",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://x.com/sadaaki"
+   ]
+  },
+  {
+   "query": "センナリ X 投稿",
+   "results": [
+    "https://booth.pm/ja/items/5236548",
+    "https://www.twidouga.net/jp/ranking_t1.php",
+    "https://x.com/Senri_sen1",
+    "https://fantia.jp/fanclubs/39009/posts",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://x.com/sena_z1p/status/2116927970795516233",
+    "https://kemono.cr/fanbox/user/8397306"
+   ]
+  }
+ ],
+ "missing": {
+  "資本金": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部15頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部15頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部15頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部15頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部15頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部15頁・検索8回）"
+ }
+}

@@ -1,0 +1,319 @@
+{
+ "name": "東京エレクトン",
+ "aliases": [],
+ "context": "山口県／出典:大学・高専の企業説明会／求人媒体:Indeed／想定年収:1536〜1536万円／従業員:不明",
+ "researched_at": "2026-11-05T06:33:38.319739+00:00",
+ "official_url": "https://liberaware.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "【本社】 〒260-0013 千葉県千葉市中央区中央3-3-1 フジモト第⼀⽣命ビル6階 【東京オフィス】 〒108-0073\n東京都港区三田3-9-7 三田JEBL4階",
+    "url": "https://liberaware.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "155名 ※非常勤役員除く、臨時雇用者・派遣含む　※2026年7月31日現在",
+    "url": "https://liberaware.co.jp/company/profile/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "20億円（資本剰余金含む）",
+    "url": "https://liberaware.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "みずほ銀⾏ 三井住友銀行 三菱UFJ銀⾏ りそな銀行 京葉銀行 千葉銀⾏ 商工中金",
+    "url": "https://liberaware.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "自律ドローンによる地下トンネル内部点検実験実施（三菱地所）",
+    "url": "https://liberaware.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "みやこキャピタル、DRONE FUND 、NECキャピタルソリューションより、総額2.6億円を資金調達",
+    "url": "https://liberaware.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "Bonds Investment Group、みやこキャピタル、凸版印刷株式会社、オリックス株式会社、セントラル警備保障株式会社、DRONE FUNDより、総額4.2億円を資金調達",
+    "url": "https://liberaware.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "Bonds Investment Group、DRONE FUNDより、総額4億円を資金調達",
+    "url": "https://liberaware.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "第三者割当増資により合計11.5億円の資金調達を実施、累計調達額は25.1億円調達",
+    "url": "https://liberaware.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "ディープテックグランプリ2019三菱電気賞",
+    "url": "https://liberaware.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに急カーブ（R400）や傾斜35度の登坂もクリアできる走行性能を備え、入り組んだ工場設備でも安定した走行を実現します",
+    "url": "https://liberaware.co.jp/torinos/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、従来はおもに溶接部のみを写真で記録していましたが、IBIS2では連続した動画で全線を撮影するため、「溶接部だけでなく工場で塗装したその他の部分すべての損傷の有無の確認と記録ができたこともメリット」（井上氏）だったといいます",
+    "url": "https://liberaware.co.jp/case-study/%E6%9B%B4%E6%96%B0%E6%B0%B4%E9%81%93%E7%AE%A1%E3%81%AE%E5%87%BA%E6%9D%A5%E6%A0%84%E3%81%88%E7%A2%BA%E8%AA%8D%E3%81%A8%E5%A1%97%E8%A3%85%E5%93%81%E8%B3%AA%E3%81%AE%E7%B5%8C%E5%B9%B4%E6%AF%94%E8%BC%83/",
+    "pass": 1
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "労働人口の減少が加速する中、多くの業種において「人手不足への対応」は喫緊の経営課題となっています",
+    "url": "https://liberaware.co.jp/torinos/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://liberaware.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liberaware.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liberaware.co.jp/company/mission-vision-value/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liberaware.co.jp/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liberaware.co.jp/company/obsession/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liberaware.co.jp/company/sdgs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liberaware.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liberaware.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liberaware.co.jp/torinos/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liberaware.co.jp/case-study/%E6%9B%B4%E6%96%B0%E6%B0%B4%E9%81%93%E7%AE%A1%E3%81%AE%E5%87%BA%E6%9D%A5%E6%A0%84%E3%81%88%E7%A2%BA%E8%AA%8D%E3%81%A8%E5%A1%97%E8%A3%85%E5%93%81%E8%B3%AA%E3%81%AE%E7%B5%8C%E5%B9%B4%E6%AF%94%E8%BC%83/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liberaware.co.jp/case-study/%E6%B1%9A%E6%B3%A5%E3%81%8C%E6%BA%9C%E3%81%BE%E3%82%8A%E6%9C%89%E6%AF%92%E3%82%AC%E3%82%B9%E3%82%84%E9%85%B8%E6%AC%A0%E3%81%AE%E3%83%AA%E3%82%B9%E3%82%AF%E3%81%AE%E3%81%82%E3%82%8B%E6%B0%B4%E8%B7%AF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liberaware.co.jp/company-article-01/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00001125862/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Frh5&q_no=2",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://talentsquare.co.jp/career/tel-salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tel-special.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://careers-tel.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東京エレクトン 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00001125862/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Frh5&q_no=2",
+    "https://talentsquare.co.jp/career/tel-salary/",
+    "https://jp.stanby.com/search?cp_id=3179&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st",
+    "https://tel-special.com/recruit/",
+    "https://www.mersenne.co.jp/tel-nensyu",
+    "https://migi-nanameue.co.jp/column/tokyo-electron-salary-guide/",
+    "https://xn--pckua2a7gp15o89zb.com/%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "https://hw-jobs.careermine.jp/salary/tokyo-electron-device-limited",
+    "https://en.wikipedia.org/wiki/Eddie_Jemison"
+   ]
+  },
+  {
+   "query": "東京エレクトン 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://tel-special.com/recruit/",
+    "https://careers-tel.jp/",
+    "https://www.teldevice.co.jp/recruit/information/",
+    "https://tel-tml-recruiting-site.jp/",
+    "https://tel-special.com/",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_k__/%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3/",
+    "https://job.mynavi.jp/27/pc/search/corp51161/outline.html",
+    "https://talentsquare.co.jp/career/tel-university/",
+    "https://www.reddit.com/r/amazon/comments/38tttx/why_is_amazons_website_so_godawfully_slow/"
+   ]
+  },
+  {
+   "query": "site:note.com 東京エレクトン",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/n1619224a2e76",
+    "https://note.com/kigyo_bun1/n/nd656811ad91a",
+    "https://note.com/tag/%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3",
+    "https://note.com/irshukatsu/n/n30991e5bcd16",
+    "https://note.com/handoutainews/n/n69a5e6cfd491",
+    "https://note.com/better_equation/n/nd1a161a2109a",
+    "https://note.com/hr793/n/n0cb110b3358d",
+    "https://note.com/china_case/n/n0f1ac85cfa31",
+    "https://note.com/eight4413/n/n8d93d99c7129",
+    "https://note.com/ai_shukatsu28/n/nc0e523b9c329"
+   ]
+  },
+  {
+   "query": "site:x.com 東京エレクトン",
+   "results": [
+    "https://x.com/TokyoElectron_J",
+    "https://x.com/TokyoElectron_J/status/2115337777667510281",
+    "https://x.com/kessan_db/status/2116647331932352883",
+    "https://x.com/noatake1127/status/1914062736600047657",
+    "https://x.com/hashtag/%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3",
+    "https://x.com/masa_mynews/status/2076907314549035152",
+    "https://x.com/i/trending/2107251484253737103",
+    "https://x.com/kessan_db/status/2115622421999046663",
+    "https://www.porn.com/hentai",
+    "https://www.xvideos.com/tags/hentai"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 東京エレクトン",
+   "results": [
+    "https://jp.linkedin.com/company/tokyoelectron",
+    "https://learning.linkedin.com/ja-jp/tokyo-electron",
+    "https://jp.linkedin.com/company/tokyo-electron-device-ltd.",
+    "https://in.linkedin.com/company/tokyoelectron/life/ff6a55e4-633b-433e-8a69-12f0bbfa29d0",
+    "https://jp.linkedin.com/company/tokyoelectron/life",
+    "https://www.linkedin.com/company/%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3%E4%B9%9D%E5%B7%9E%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/in/takayoshi-narita-19546098",
+    "https://jp.linkedin.com/company/tokyo-electron/life",
+    "https://at.linkedin.com/company/%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3%E3%80%80%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://en.wikipedia.org/wiki/Citroën_C3_WRC"
+   ]
+  },
+  {
+   "query": "site:facebook.com 東京エレクトン",
+   "results": [
+    "https://www.facebook.com/TokyoElectron/",
+    "https://www.facebook.com/TokyoElectron/mentions/",
+    "https://www.facebook.com/ted.cn/",
+    "https://www.facebook.com/TokyoElectron/posts/%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3%E3%81%AF%E3%83%99%E3%83%B3%E3%82%AC%E3%83%AB%E3%83%BC%E3%83%AB%E3%81%AB%E6%96%B0%E3%81%9F%E3%81%AA%E9%96%8B%E7%99%BA%E6%8B%A0%E7%82%B9%E3%82%92%E8%A8%AD%E7%BD%AE%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E6%9C%AC%E6%8B%A0%E7%82%B9%E3%81%A7%E3%81%AF%E5%90%8C%E5%9B%BD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%8B%E6%A5%AD%E5%B1%95%E9%96%8B%E3%81%AE%E6%8E%A8%E9%80%B2%E3%81%AB%E5%8A%A0%E3%81%88%E8%A3%85%E7%BD%AE%E8%A8%AD%E8%A8%88%E3%81%8A%E3%82%88%E3%81%B3%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AA%E3%81%A9%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A8%E3%82%A2%E3%82%92%E4%B8%AD%E5%BF%83%E3%81%A8%E3%81%97/1379448860849021/",
+    "https://www.facebook.com/nikkei/posts/%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3%E6%9C%80%E9%AB%98%E7%9B%8A27%E5%B9%B43%E6%9C%88%E6%9C%9F%E6%9C%80%E7%B5%8251%E5%A2%97-3%E5%B9%B4%E9%80%A3%E7%B6%9A%E3%81%A7%E6%9C%80%E9%AB%98%E3%82%92%E6%9B%B4%E6%96%B0%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%81%AE%E5%B9%85%E5%BA%83%E3%81%84%E8%A3%BD%E9%80%A0%E5%B7%A5%E7%A8%8B%E3%82%92%E3%82%AB%E3%83%90%E3%83%BC%E3%81%99%E3%82%8B%E5%93%81%E3%81%9E%E3%82%8D%E3%81%88%E3%82%92%E5%BC%B7%E3%81%BF%E3%81%ABai%E6%8A%95%E8%B3%87%E3%82%92%E5%8F%96%E3%82%8A%E8%BE%BC%E3%81%BF%E3%81%BE%E3%81%99%E6%A0%AA%E4%B8%BB%E3%81%B8%E5%88%A9%E7%9B%8A%E9%82%84%E5%85%83%E3%82%82%E6%89%8B%E5%8E%9A%E3%81%8F/1660917448712984/",
+    "https://www.facebook.com/TokyoElectron/posts/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3%E4%B9%9D%E5%B7%9E-%E3%81%AF11%E6%9C%887%E6%97%A5%E5%9C%9F%E3%81%AB-thanks-day-2026-%E3%81%84%E3%81%BE%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%82%92%E3%81%A4%E3%81%9F%E3%81%88%E3%82%88%E3%81%86-%E3%82%92%E9%96%8B%E5%82%AC%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E4%BB%8A%E5%B9%B4%E3%82%82%E7%9A%86%E3%81%95%E3%81%BE%E3%81%B8%E3%81%AE%E6%97%A5%E3%81%94%E3%82%8D%E3%81%AE%E6%84%9F/1762089645918272/",
+    "https://www.facebook.com/IndiaInJapan/posts/%E6%B2%B3%E5%90%88%E5%88%A9%E6%A8%B9%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEceo%E3%81%AF%E3%82%A4%E3%83%B3%E3%83%89%E3%81%AE%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%82%A8%E3%82%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E6%88%90%E9%95%B7%E3%81%AB%E5%BC%B7%E3%81%84%E6%9C%9F%E5%BE%85%E3%82%92%E7%A4%BA%E3%81%99%E3%81%A8%E3%81%A8%E3%82%82%E3%81%AB%E6%94%BF%E5%BA%9C%E3%81%AB%E3%82%88%E3%82%8B%E6%94%BF%E7%AD%96%E6%94%AF%E6%8F%B4%E3%81%A8%E3%82%A4%E3%83%B3%E3%83%89%E3%81%AE%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%88%86%E9%87%8E%E3%81%AE%E7%99%BA%E5%B1%95%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%83%A2%E3%83%87%E3%82%A3%E9%A6%96%E7%9B%B8%E3%81%AE/1523289156509872/",
+    "https://www.facebook.com/TokyoElectron/photos/%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3tel%E3%81%AE%E8%A3%BD%E9%80%A0%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%A7%E3%81%82%E3%82%8B%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3%E5%AE%AE%E5%9F%8E%E3%81%AF%E6%9C%AC%E7%A4%BE%E5%B7%A5%E5%A0%B4%E6%95%B7%E5%9C%B0%E5%86%85%E3%81%AB%E6%96%B0%E3%81%9F%E3%81%AB%E5%AE%AE%E5%9F%8E%E6%8A%80%E8%A1%93%E9%9D%A9%E6%96%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E5%BB%BA%E8%A8%AD%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E6%B1%BA%E5%AE%9A%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3%E5%AE%AE%E5%9F%8E%E3%81%8C%E9%96%8B/908217176239611/",
+    "https://www.facebook.com/TokyoElectron/albums/527808299346419/",
+    "https://www.facebook.com/TokyoElectron/posts/%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3tel%E3%81%8C%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E5%8B%99%E3%82%81%E3%82%8B%E5%AD%A6%E7%94%9F%E3%81%AE%E7%A0%94%E7%A9%B6%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%81%AE%E7%A5%AD%E5%85%B8%E5%AD%A6%E7%94%9F%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC2025%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%8A%E3%82%88%E3%81%B3%E8%A1%A8%E5%BD%B0%E5%BC%8F%E3%81%8C10%E6%9C%88/1429998899127350/"
+   ]
+  },
+  {
+   "query": "東京エレクトン note 社長",
+   "results": [
+    "https://note.com/tag/%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3",
+    "https://note.com/brandedshorts/n/nae19efa15ae2",
+    "https://www.nikkei.com/article/DGXZQOCB084UO0Y6A600C2000000/",
+    "https://note.com/medicalconsult/n/n2a90b66fc054",
+    "https://www.tel.co.jp/about/message/",
+    "https://note.com/kigyo_bun1/n/nd656811ad91a",
+    "https://www.tel.co.jp/about/leader/index.html",
+    "https://note.com/hayamamasami/n/n6f877aa698fb",
+    "https://rikejocafe.jp/tel",
+    "https://www.yahoo.com/"
+   ]
+  },
+  {
+   "query": "東京エレクトン X 投稿",
+   "results": [
+    "https://x.com/TokyoElectron_J",
+    "https://www.tel.co.jp/sns/index.html",
+    "https://www.tel.co.jp/museum/magazine/articles/?tag=%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X",
+    "https://s.kabutan.jp/stocks/8035/news/",
+    "https://x.com/TokyoElectron_J/status/1791287550553845783",
+    "https://www.tel.co.jp/news/",
+    "https://www.tel.co.jp/",
+    "https://en.wikipedia.org/wiki/MS_NOW",
+    "https://www.ms.now/homepage",
+    "https://link.ms.now/"
+   ]
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）",
+  "資本金": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用ページ": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）",
+  "想定年収・給与": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部6頁・検索8回）"
+ }
+}

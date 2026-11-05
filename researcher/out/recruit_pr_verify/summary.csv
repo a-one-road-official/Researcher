@@ -30,6 +30,6 @@
 製造業に絞った規模別の経営上の問題点（中小企業景況調査）,SME business conditions survey manufacturing management problems by size Japan,①順位,,5000(1) / 26.9(1) / 20.9(1) / 14.1(1) / 7.5(1) / 7.1(1) / 5.3(1) / 382(1),16,11,27,17,27,0,35,29,60,33,作る側の原価,
 日銀短観 雇用人員判断DI 製造業 中小・中堅（値の時系列）,BOJ Tankan employment conditions DI manufacturing small medium enterprises time series,②採用難,,,5,13,28,17,9,0,4,28,18,26,作る側の原価,
 広島・岡山労働局 職業別有効求人倍率（生産工程・技術者）,Hiroshima Okayama labor bureau job openings ratio by occupation production,②採用難,1.36(1) / 1.30(1) / 1.13(1),,0,5,2,0,0,0,0,0,0,24,社数（規模別）／採用広報・採用サイトの単価／継続して払うか／作る側の原価／どう買われるか／営業と採用のどちらに困っているか／前例の会社（製造業特化）,
-就職みらい研究所 就職白書 採用単価（原典）,,,,,0,0,0,0,0,0,0,0,0,0,,ValueError: netloc '関連記事：採用ピッチ資料とは？25社の成功事例と効果・メリットを徹底解説｜応募者の共感を生む採用戦略の新定番' contains invalid characters under NFKC normalization
+就職みらい研究所 就職白書 採用単価（原典）,Recruit Works Shushoku Hakusho recruitment cost per hire original,③単価,,93.6(5) / 103.3(4) / 500(3) / 20(3) / 100(3) / 30(3) / 175(2) / 609.9(2),0,5,60,60,60,0,60,2,51,29,社数（規模別）／作る側の原価,
 経営上の問題点 製造業「求人難・人手不足」を挙げた割合（中小企業景況調査・年ごと）,share of SME manufacturers citing labor shortage as top issue Japan survey yearly,①営業と採用・一次（人材確保の側）,,"1,000(2) / 300(1) / 2,000(1) / 12(1) / 2(1)",6,19,28,11,15,0,27,23,41,30,作る側の原価,
 経営上の問題点 製造業「需要の停滞・受注不足・販路開拓」を挙げた割合（同じ調査・年ごと）,share of SME manufacturers citing weak demand as top issue Japan survey yearly,①営業と採用・一次（販路の側）,,"3,000(1) / 2,000(1) / 300(1) / 1,125(1) / 2,400(1)",2,1,11,5,15,0,15,2,15,31,作る側の原価,

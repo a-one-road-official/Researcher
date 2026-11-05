@@ -1,0 +1,749 @@
+{
+ "name": "ドルチェ",
+ "aliases": [],
+ "context": "広島県広島市／出典:県・市の企業ガイド／求人媒体:doda／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T06:47:02.740685+00:00",
+ "official_url": "https://www.setoda-dolce.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業・設立",
+    "value": "創業・設立：1998年12月",
+    "url": "https://www.setoda-dolce.com/about-us.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒722-2416 広島県尾道市瀬戸田町林20-8",
+    "url": "https://www.setoda-dolce.com/about-us.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "ドルチェ本店・工場オープン（ゆうステーション瀬戸田内）",
+    "url": "https://www.setoda-dolce.com/about-us.html",
+    "pass": 1
+   },
+   {
+    "quote": "第4章：炎上！中国ショー中止と500億円の危機",
+    "url": "https://note.com/fashion_mba/n/n11b3e9aae536",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "中途採用で入社する方が年収があげるれるが、どう考えても能力と年収が見合っていないスタッフが多すぎる",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "キャリア採用については、",
+    "url": "https://www.dolce-kk.co.jp/recruit/guideline/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員（新卒、既卒、キャリア採用）",
+    "url": "https://www.dolce.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "※キャリア採用は経験・能力を考慮して決定します",
+    "url": "https://www.dolce.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "【現在は既卒者および2027年卒業予定の方のエントリーを受け付けております",
+    "url": "https://www.dolce.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "応募書類（写真入りの履歴書と、職務経歴書か自己紹介書）をご用意のうえ、下記のエントリーフォーム（外部サイト）よりご応募ください",
+    "url": "https://www.dolce.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "また、応募書類もエントリーフォームからご提出いただきますので、下記ルールに沿ってファイルをご作成ください",
+    "url": "https://www.dolce.co.jp/recruit/",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "ドルチェ・アンド・ガッバーナ・ジャパンの年収・給与 平均年収 - エン カイシャの評判",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "ドルチェ・アンド・ガッバーナ・ジャパン株式会社の年収・給与",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "ドルチェ・アンド・ガッバーナ・ジャパン株式会社の年収データ",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "ドルチェ・アンド・ガッバーナ・ジャパン株式会社の正社員20人の回答によると平均年収は476万円、年収範囲は300～700万円です",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "カイシャの評判に掲載されている年収情報は、当該企業で就業経験のある方を対象としたアンケートを基に、有効な回答かつ、雇用形態が正社員の回答から算出しております",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトの年収情報は、ユーザーの皆様に投稿いただいた時点の回答に基づいているため、実際の年収とは異なる可能性があります",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "ドルチェ・アンド・ガッバーナ・ジャパン株式会社の年収・給与についての口コミ",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "(賞与年2回 2ヶ月含む)",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与:外資なので年俸を割られるだけです...",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "モデル年収:上が止めれば、長くやってい...",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:基本給＋販売手当＝月額給与支...",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "基本給＋販売手当＝月額給与支給となるが、販売手当に見込み残業も入っており、基本的に残業代無しというカラクリがらあり",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年間売り上げ6000万円を超えるとインセンティブがつく",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:入社のタイミングでの交渉次第...",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は年2回",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "マネジメントは四半期予算に対してのインセンティブ有り、個人売に対してはいくら売っても給与に反映されない",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与:年収から15分割の、基本給のみ支...",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年収から15分割の、基本給のみ支払われます",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "マネージャー手当などは含まれないため月給より安く感じる",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "評価・昇給制度:コロナの後はしょうきゅ...",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:はっきりした制度がなくて評価...",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "はっきりした制度がなくて評価の結果がよかったですが、昇給は一度もございませんでした",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "評価制度がありますが、どうやって昇給につなぐのが説明されてないです",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:年俸制月額(月給＋販売手当(...",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "・資本金：3千万円",
+    "url": "https://www.dolce.co.jp/recruit/",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "昇給はありますが、元の給与に対しての評価ごとの掛け率となる為、同じ評価でも入社時の給与によるところが大きく、若手で給与交渉もなく入社すると成果を出し評価がついても微々たる昇給となります",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "若手社員が中心となって取り組んで来た、",
+    "url": "https://www.dolce-kk.co.jp/recruit/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ドルチェ・アンド・ガッバーナ・ジャパン株式会社 の給与 | Indeed (... — ドルチェ・アンド・ガッバーナ・ジャパン株式会社の平均年収は、約346万円 (オフィスワーク) 〜600万円 (営業担当者) です。 給与情報は、Indeed にこれまでに掲載された95件の求人に基いた推定値です。",
+    "url": "https://jp.indeed.com/cmp/ドルチェ・アンド・ガッバーナ・ジャパン株式会社/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "ドルチェ アンド ガッバーナ ジャパン株式会社 の給与 | Indeed (イン... — 日本でのドルチェ アンド ガッバーナ ジャパン株式会社の平均給与 Indeed に掲載された求人と、この企業の従業員から寄せられたドルチェ アンド ガッバーナ ジャパン株式会社の給与情報を参照する。",
+    "url": "https://jp.indeed.com/cmp/ドルチェ-アンド-ガッバーナ-ジャパン株式会社/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "ドルチェ・アンド・ガッバーナ・ジャパンの年収・給与 平均年収も - ...ドルチェの「年収・給与制度」 OpenWorkドルチェ・アンド・ガッバーナ・ジャパンの年収/給料/ボーナス/評価制...ドルチェの年収/給料/ボーナス/評価制度(全4件)「【良い点】評価制度...ドルチェ・アンド・ガッバーナ・ジャパンの「年収・給与制度」 OpenWo... — ドルチェ・アンド・ガッバーナ・ジャパン株式会社の正社員20人の回答によると平均年収は476万円、年収範囲は300～700万円です。 また、集計期間は2020年～2026年で回答者の平均年齢は39.7歳です。 ドルチェへの就職・転職を検討されている方が、ドルチェの「年収・給与制度」を把握するための参考情報として、ドルチェの「社員・元社員」から「年収・給与制度」に関するクチコミを収集し掲載しています。 Jul 22, 2025 · ドルチェ・アン",
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "ドルチェの「年収・給与制度」 OpenWorkドルチェ・アンド・ガッバーナ・ジャパンの年収/給料/ボーナス/評価制...ドルチェの年収/給料/ボーナス/評価制度(全4件)「【良い点】評価制度...ドルチェ・アンド・ガッバーナ・ジャパンの「年収・給与制度」 OpenWo... — ドルチェへの就職・転職を検討されている方が、ドルチェの「年収・給与制度」を把握するための参考情報として、ドルチェの「社員・元社員」から「年収・給与制度」に関するクチコミを収集し掲載しています。 Jul 22, 2025 · ドルチェ・アンド・ガッバーナ・ジャパン株式会社 年収・給料・ボーナス・評価制度の口コミ 【良い点】インセンティブが取れれば反映されやすい【気になること・改善したほうがいい点】会社全体の売り上げが低くインセンティブが取りにくい。 May 17, 2026 · 株式会社ドルチェ 年収・給料・ボーナス",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C100000126308&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "ドルチェ・アンド・ガッバーナ・ジャパンの年収/給料/ボーナス/評価制... — Jul 22, 2025 · ドルチェ・アンド・ガッバーナ・ジャパン株式会社 年収・給料・ボーナス・評価制度の口コミ 【良い点】インセンティブが取れれば反映されやすい【気になること・改善したほうがいい点】会社全体の売り上げが低くインセンティブが取りにくい。",
+    "url": "https://jobtalk.jp/companies/163356/answers/7995185",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報｜株式会社ドルチェ — これまでの成長と仕事への想い、 やりがいや楽しさを聞く ドルチェのお仕事 お菓子があなたに届くまで イラストと物語でわかる！ 私たちドルチェの仕事 若手社員が中心となって取り組んで来た、 社内改革のためのプロジェクト活動の軌跡をご紹介。",
+    "url": "https://www.dolce-kk.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項｜株式会社ドルチェ — TOP ドルチェについて ドルチェについて・事業内容 企業理念・行動指針 会社概要 アクセス 採用情報 先輩社員の声 数字で見るドルチェ ドルチェのお仕事 社内制度 研修／福利厚生 採用Q&A 募集要項 お問い合わせ © DOLCE CO.,LTD. All Rights Reserved.",
+    "url": "https://www.dolce-kk.co.jp/recruit/guideline/",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報 | ドルチェ楽器ドルチェの新卒採用・就職・企業情報【就活会議】ドルチェの新卒採用・就活情報 - 楽天みん就ドルチェの新卒採用・就職・会社概要とクチコミ｜就活サイト【ワンキ...Dolce & Gabbana — See full list on dolce.co.jp See full list on dolce.co.jp See full list on dolce.co.jp See full list on dolce.co.jp ドルチェ (商社・卸, 専門商社（食料品）／東京都)の新卒採用の企業研究、就活・選考対策情報です。 会社概要から、企業の評判、先輩のESの実例、面接で聞かれた質問まで、本選考・インターンシップの対策情報を掲載しています。 ドルチェの新卒採用・就活情報ページです。 新卒採用についての企業情報や、ドルチェに内定した先輩による口コミなど、企業研究やE",
+    "url": "https://www.dolce.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "ドルチェの新卒採用・就職・企業情報【就活会議】ドルチェの新卒採用・就活情報 - 楽天みん就ドルチェの新卒採用・就職・会社概要とクチコミ｜就活サイト【ワンキ...Dolce & Gabbana — ドルチェ (商社・卸, 専門商社（食料品）／東京都)の新卒採用の企業研究、就活・選考対策情報です。 会社概要から、企業の評判、先輩のESの実例、面接で聞かれた質問まで、本選考・インターンシップの対策情報を掲載しています。 ドルチェの新卒採用・就活情報ページです。 新卒採用についての企業情報や、ドルチェに内定した先輩による口コミなど、企業研究やESなどの就職活動に役立つ情報満載。 メンバー登録で選考状況の管理や、有名企業内定者の志望動機や体験談も閲覧できる！ ドルチェの概要、企業研究、就活対策情報です。 最新のインターンシップ ・説明会情報の他、ES・GD・面接・インターン・OB訪問・リクルーターの",
+    "url": "https://syukatsu-kaigi.jp/companies/104483",
+    "pass": 3
+   },
+   {
+    "quote": "ドルチェの新卒採用・就活情報 - 楽天みん就 — ドルチェの新卒採用・就活情報ページです。 新卒採用についての企業情報や、ドルチェに内定した先輩による口コミなど、企業研究やESなどの就職活動に役立つ情報満載。 メンバー登録で選考状況の管理や、有名企業内定者の志望動機や体験談も閲覧できる！",
+    "url": "https://www.nikki.ne.jp/company/201007021743523142/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ドルチェの意味、知ってる？｜ファイナル甘いもん Jul 26, 2021 · 料理用語としての「ドルチェ」はデザートに近いイメージです。 実際に、イタリアンでは、 食後のデザートをドルチェと呼んでいます。 日本での代表的なドルチェは、パンナコッタやティラミス、 タルトなどが挙げられます。",
+    "url": "https://note.com/final_sweets/n/na96a609d76fd",
+    "pass": 3
+   },
+   {
+    "quote": "第227回 ドルチェ＆ガッバーナ シチリアの情熱とスキャンダルのファッ... Sep 16, 2025 · 今回は、ドルチェ＆ガッバーナ（Dolce & Gabbana）を取り上げます。 D&Gの歴史は、まるでイタリア映画のように、成功とスキャンダルが織りなすドラマチックな物語です。",
+    "url": "https://note.com/fashion_mba/n/n11b3e9aae536",
+    "pass": 3
+   },
+   {
+    "quote": "ゴルゴンゾーラ ドルチェとピッカンテ｜須之内律子 May 11, 2026 · ミルク本来の甘みや「ドルチェ（甘い）」と表現される 優しい味わいが際立つ。 ゴルゴンゾーラ・ピカンテ : 熟成期間 : 最低80日以上。 3ヶ月以上熟成されるのが一般的だ。 特徴 : 長い熟成により水分が抜け 組織は硬く、時にポロポロと崩れるような質感 ...",
+    "url": "https://note.com/medfoodculture/n/n5ecd67fbe44f",
+    "pass": 3
+   },
+   {
+    "quote": "季節を味わう‼️柿とマスカルポーネのドルチェ Nov 4, 2025 · 最速10分で完成。 簡単でおいしい、ワインのお供のドルチェ‼️ 🧂 材料（2人分） 柿（熟したもの） … 1個 マスカルポーネ … 80g ハチミツ … 小さじ2くらい レモン汁 … 少々 ブラックペッパー … 少々 クラッシュアーモンド … 少々 ミント（あれば） …",
+    "url": "https://note.com/jolly_falcon2233/n/n27002e8295f5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ドルチェの意味、知ってる？｜ファイナル甘いもん",
+    "url": "https://note.com/final_sweets/n/na96a609d76fd",
+    "pass": 3
+   },
+   {
+    "quote": "デザートやスイーツとは違う、「ドルチェ」の意味って知ってますか？",
+    "url": "https://note.com/final_sweets/n/na96a609d76fd",
+    "pass": 3
+   },
+   {
+    "quote": "日本で甘みのある果物やお菓子を甘味と呼ぶのと同様に、",
+    "url": "https://note.com/final_sweets/n/na96a609d76fd",
+    "pass": 3
+   },
+   {
+    "quote": "今では一般的な言葉となったデザートやスイーツ、ドルチェ。",
+    "url": "https://note.com/final_sweets/n/na96a609d76fd",
+    "pass": 3
+   },
+   {
+    "quote": "「デザート」「スイーツ」どちらも甘い食べ物を想像しますが、",
+    "url": "https://note.com/final_sweets/n/na96a609d76fd",
+    "pass": 3
+   },
+   {
+    "quote": "そもそもこの2つはどのようなちがいがあるのでしょうか。",
+    "url": "https://note.com/final_sweets/n/na96a609d76fd",
+    "pass": 3
+   },
+   {
+    "quote": "デザートとは「食事を片付ける」という意味を持つフランス語の「デセール」に由来したもの。",
+    "url": "https://note.com/final_sweets/n/na96a609d76fd",
+    "pass": 3
+   },
+   {
+    "quote": "また、コース料理の後に出されるお菓子や果物のことを言います。",
+    "url": "https://note.com/final_sweets/n/na96a609d76fd",
+    "pass": 3
+   },
+   {
+    "quote": "🍀第２２７回 ドルチェ＆ガッバーナ🌟シチリアの情熱とスキャンダルのファッションサーガ｜ファッションMBA",
+    "url": "https://note.com/fashion_mba/n/n11b3e9aae536",
+    "pass": 3
+   },
+   {
+    "quote": "🍀第２２７回 ドルチェ＆ガッバーナ🌟シチリアの情熱とスキャンダルのファッションサーガ",
+    "url": "https://note.com/fashion_mba/n/n11b3e9aae536",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、ドルチェ＆ガッバーナ（Dolce & Gabbana）を取り上げます。",
+    "url": "https://note.com/fashion_mba/n/n11b3e9aae536",
+    "pass": 3
+   },
+   {
+    "quote": "D&Gの歴史は、まるでイタリア映画のように、成功とスキャンダルが織りなすドラマチックな物語です。",
+    "url": "https://note.com/fashion_mba/n/n11b3e9aae536",
+    "pass": 3
+   },
+   {
+    "quote": "第1章：出会いと誕生、ベッドシーツから始まった夢",
+    "url": "https://note.com/fashion_mba/n/n11b3e9aae536",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：90年代、マドンナとマフィアで世界を席巻",
+    "url": "https://note.com/fashion_mba/n/n11b3e9aae536",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：フレグランスとアクセサリー、香りまでセクシー",
+    "url": "https://note.com/fashion_mba/n/n11b3e9aae536",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：炎上！中国ショー中止と500億円の危機",
+    "url": "https://note.com/fashion_mba/n/n11b3e9aae536",
+    "pass": 3
+   },
+   {
+    "quote": "ゴルゴンゾーラ ドルチェとピッカンテ｜須之内律子",
+    "url": "https://note.com/medfoodculture/n/n5ecd67fbe44f",
+    "pass": 3
+   },
+   {
+    "quote": "ゴルゴンゾーラ村のストラッキーノと呼ばれた",
+    "url": "https://note.com/medfoodculture/n/n5ecd67fbe44f",
+    "pass": 3
+   },
+   {
+    "quote": "「穿孔（せんこう）」という技術を開発した。",
+    "url": "https://note.com/medfoodculture/n/n5ecd67fbe44f",
+    "pass": 3
+   },
+   {
+    "quote": "単に熟成期間の長短で分けられるわけではない。",
+    "url": "https://note.com/medfoodculture/n/n5ecd67fbe44f",
+    "pass": 3
+   },
+   {
+    "quote": "乳に最初の命を吹き込む瞬間から始まっている。",
+    "url": "https://note.com/medfoodculture/n/n5ecd67fbe44f",
+    "pass": 3
+   },
+   {
+    "quote": "「魂」となる菌が違う スターターと青カビの種類",
+    "url": "https://note.com/medfoodculture/n/n5ecd67fbe44f",
+    "pass": 3
+   },
+   {
+    "quote": "フェルメンティ ラッティチ（Fermenti lattici : 乳酸菌）",
+    "url": "https://note.com/medfoodculture/n/n5ecd67fbe44f",
+    "pass": 3
+   },
+   {
+    "quote": "ドルチェとピカンテでは異なるものが使われる。",
+    "url": "https://note.com/medfoodculture/n/n5ecd67fbe44f",
+    "pass": 3
+   },
+   {
+    "quote": "🍊 季節を味わう‼️柿とマスカルポーネのドルチェ｜guuu",
+    "url": "https://note.com/jolly_falcon2233/n/n27002e8295f5",
+    "pass": 3
+   },
+   {
+    "quote": "🍊 季節を味わう‼️柿とマスカルポーネのドルチェ",
+    "url": "https://note.com/jolly_falcon2233/n/n27002e8295f5",
+    "pass": 3
+   },
+   {
+    "quote": "簡単でおいしい、ワインのお供のドルチェ‼️",
+    "url": "https://note.com/jolly_falcon2233/n/n27002e8295f5",
+    "pass": 3
+   },
+   {
+    "quote": "少量をみじん切りにしておくと、マスカルポーネとよくなじみます。",
+    "url": "https://note.com/jolly_falcon2233/n/n27002e8295f5",
+    "pass": 3
+   },
+   {
+    "quote": "柿を軽くラム酒でマリネすると、風味がぐっと豊かに。",
+    "url": "https://note.com/jolly_falcon2233/n/n27002e8295f5",
+    "pass": 3
+   },
+   {
+    "quote": "ボウルにマスカルポーネ、ハチミツ、レモン汁を入れ、軽く練ってなめらかに。",
+    "url": "https://note.com/jolly_falcon2233/n/n27002e8295f5",
+    "pass": 3
+   },
+   {
+    "quote": "器にマスカルポーネをのせ、その上に柿をたっぷり。",
+    "url": "https://note.com/jolly_falcon2233/n/n27002e8295f5",
+    "pass": 3
+   },
+   {
+    "quote": "ブラックペッパーを軽くふり、ミントとクラッシュアーモンドを散らせば完成。",
+    "url": "https://note.com/jolly_falcon2233/n/n27002e8295f5",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "新しいチャレンジとして、雑記ブログを書いています",
+    "url": "https://note.com/jolly_falcon2233/n/n27002e8295f5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ドルチェ (@loveGdolce) / X Follow PostsPosts RepliesReplies RepostsReposts MediaMedia Pinned ドルチェ @loveGdolce Jun 1, 2020",
+    "url": "https://x.com/loveGdolce",
+    "pass": 3
+   },
+   {
+    "quote": "ドルチェ【Dolce】 衣装デザインご依頼受付中 ️ (@dolsuke) / X ドルチェ【Dolce】🐰衣装デザインご依頼受付中 ️ @dolsuke Show translation 個性的な衣装が好きなイラストレーター・衣装デザイナー 衣装デザイン・イラストのご依頼 dolsuke911.r@gmail.com 創作バニーシリーズの商品化・コラボレーションも募集中🐰",
+    "url": "https://x.com/dolsuke",
+    "pass": 3
+   },
+   {
+    "quote": "ドルチェ【100万ドル・パンドラ公式】 (@dolce_necolia) / X 10月31日創業日、 たくさんのご来店、本当にありがとうございました🙌 52周年――そして53年目へ。 ……ということで、 ドルチェ、まだ休みません😼 11月も100万ドル！ ここからまた一緒に楽しんでいくにゃ💕 #100万ドル #パンドラ #53年目",
+    "url": "https://x.com/dolce_necolia",
+    "pass": 3
+   },
+   {
+    "quote": "ドルチェ＆ガッバーナ ジャパン (@dolcegabbanajp) / X ドルチェ＆ガッバーナは、優れたテーラリング技術に裏付けされたスタイルとオリジナリティにあふれるラグジュアリー ブランドです。 コレクションや最新情報をLINEでチェック、お友達登録はこちら https://t.co/S3GvylbkDf",
+    "url": "https://x.com/dolcegabbanajp",
+    "pass": 3
+   },
+   {
+    "quote": "南瓜ドルチェ on X: \"帰ったあとそのまま寝てしまったので、投稿が遅... 3 days ago · 南瓜ドルチェ on X: \"帰ったあとそのまま寝てしまったので、投稿が遅れましたが… うみたかマルシェ2日目、沢山の方が集会所ブースを見てくださり、いろんな魚たちをお迎えいただきました。 12月に参加するイベントにもぜひお越しください🐠新作などを連れて行きます\" 南瓜ドルチェ ...",
+    "url": "https://x.com/82dopi24eita1/status/2117391180808032478",
+    "pass": 3
+   },
+   {
+    "quote": "南瓜ドルチェ on X: \"すでに何日か先までは予約投稿してあります \" Aug 12, 2026 · 🪸明日は初となる紅海からの新作です🏺 1 553 南瓜ドルチェ @82dopi24eita1 すでに何日か先までは予約投稿してあります 🐠 5:35 AM · Aug 12, 2026 ·",
+    "url": "https://x.com/82dopi24eita1/status/2087518227094286426",
+    "pass": 3
+   },
+   {
+    "quote": "ドルチェ【Dolce】 衣装デザインご依頼受付中 ️ on X: \"ゼルダ姫の ン... Jun 12, 2023 · ドルチェ【Dolce】🐰衣装デザインご依頼受付中 ️ @dolsuke Show translation ゼルダ姫の ンスタ最新投稿写真 #ゼルダの伝説 10:22 AM · Jun 12, 2023 · 186.8K Views",
+    "url": "https://x.com/dolsuke/status/1668202031675510784",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "レストラン・ドルチェ - Facebookドルチェヴィータ | Sapporo-shi Hokkaido - Facebookti amo amore mio - Facebook北海道ドルチェ | Sapporo-shi Hokkaido - FacebookDolce & Gabbana - FacebookDolce／ドルチェ | Fuji-shi Shizuoka - FacebookDolce Zucchero “ドルチェ ズッケロ” イタリアン カフェ・バール Oct 18, 2026 · レストラン・ドルチェ. 578 followers · 82 talking about this. 茨城県利根町にオープンし37年目のレストラン。 町の洋食屋さん的な雰囲気でくつろげるお店です。 ドルチェヴィータ, Sapporo. 1,413 followers · 19 talking",
+    "url": "https://www.facebook.com/restaurant.dolce/",
+    "pass": 3
+   },
+   {
+    "quote": "ドルチェヴィータ | Sapporo-shi Hokkaido - Facebookti amo amore mio - Facebook北海道ドルチェ | Sapporo-shi Hokkaido - FacebookDolce & Gabbana - FacebookDolce／ドルチェ | Fuji-shi Shizuoka - FacebookDolce Zucchero “ドルチェ ズッケロ” イタリアン カフェ・バール ドルチェヴィータ, Sapporo. 1,413 followers · 19 talking about this · 479 were here. 札幌市清田区に本店を構える お菓子とパンのお店 ドルチェヴィータ 1 day ago · 3 comments Dolce poeta 15h · Public Dolce poeta 15h · Public ",
+    "url": "https://www.facebook.com/dolcevita1999/",
+    "pass": 3
+   },
+   {
+    "quote": "北海道ドルチェ | Sapporo-shi Hokkaido - FacebookDolce & Gabbana - FacebookDolce／ドルチェ | Fuji-shi Shizuoka - FacebookDolce Zucchero “ドルチェ ズッケロ” イタリアン カフェ・バール Apr 20, 2021 · 【バレンタインに健康スイーツ.☺】 ・ 懐かしい味わいで 食べ応えのあるバナナフレーバー🍌 ・ ・ グルテンフリー コメグラベイクは、 北海道産米粉100%仕上げ😊 ・ 送料無料 1350円⭐️ 2セット以上で使える350円引きクーポンも ございます🉐 例/2セット購入 通常価格2700円→ クーポン利用で 2,350円☺ ・ 詳しくは、 @hokkaido_dolce の URLよりチェック. ・ https://store.shopping.yahoo.co.jp",
+    "url": "https://www.facebook.com/hokkaidodolce/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.setoda-dolce.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setoda-dolce.com/about-us.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.setoda-dolce.com/parts/line-coupon.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/cmp/%E3%83%89%E3%83%AB%E3%83%81%E3%82%A7%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%82%AC%E3%83%83%E3%83%90%E3%83%BC%E3%83%8A%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E3%83%89%E3%83%AB%E3%83%81%E3%82%A7-%E3%82%A2%E3%83%B3%E3%83%89-%E3%82%AC%E3%83%83%E3%83%90%E3%83%BC%E3%83%8A-%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en-hyouban.com/company/10105933939/salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dolce-kk.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dolce-kk.co.jp/recruit/guideline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dolce.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/final_sweets/n/na96a609d76fd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fashion_mba/n/n11b3e9aae536",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/medfoodculture/n/n5ecd67fbe44f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jolly_falcon2233/n/n27002e8295f5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/loveGdolce",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dolsuke",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dolce_necolia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dolcegabbanajp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/restaurant.dolce/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/dolcevita1999/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hokkaidodolce/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/82dopi24eita1/status/2117391180808032478",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/82dopi24eita1/status/2087518227094286426",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dolsuke/status/1668202031675510784",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ドルチェ 求人 年収",
+   "results": [
+    "https://jp.indeed.com/cmp/ドルチェ・アンド・ガッバーナ・ジャパン株式会社/salaries",
+    "https://jp.indeed.com/cmp/ドルチェ-アンド-ガッバーナ-ジャパン株式会社/salaries",
+    "https://en-hyouban.com/company/10105933939/salary/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C100000126308&q_no=2",
+    "https://jobtalk.jp/companies/163356/answers/7995185",
+    "https://jobtalk.jp/companies/2857444/answers/8795160",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000007IlMm&q_no=2"
+   ]
+  },
+  {
+   "query": "ドルチェ 採用 新卒 高卒",
+   "results": [
+    "https://www.dolce-kk.co.jp/recruit/",
+    "https://www.dolce-kk.co.jp/recruit/guideline/",
+    "https://www.dolce.co.jp/recruit/",
+    "https://syukatsu-kaigi.jp/companies/104483",
+    "https://www.nikki.ne.jp/company/201007021743523142/",
+    "https://www.onecareer.jp/companies/85337",
+    "https://jobs.dolcegabbana.com/?locale=ja_JP"
+   ]
+  },
+  {
+   "query": "site:note.com ドルチェ",
+   "results": [
+    "https://note.com/final_sweets/n/na96a609d76fd",
+    "https://note.com/fashion_mba/n/n11b3e9aae536",
+    "https://note.com/medfoodculture/n/n5ecd67fbe44f",
+    "https://note.com/jolly_falcon2233/n/n27002e8295f5",
+    "https://note.com/pausepause/n/n3c5d45de07d2",
+    "https://note.com/recetta/n/n7bd9454752b8",
+    "https://tales.note.com/studio_yoizuki/wt7rvh50ytht7"
+   ]
+  },
+  {
+   "query": "site:x.com ドルチェ",
+   "results": [
+    "https://x.com/loveGdolce",
+    "https://x.com/dolsuke",
+    "https://x.com/dolce_necolia",
+    "https://x.com/dolcegabbanajp",
+    "https://x.com/Dolce_na_yu",
+    "https://x.com/dolce_e_viola",
+    "https://x.com/DOLCE_gravure/status/2117908146564039065"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ドルチェ",
+   "results": [
+    "https://www.linkedin.com/in/rodrigowpark",
+    "https://www.linkedin.com/in/amandahopeelias",
+    "https://it.linkedin.com/in/pieratoniolo",
+    "https://it.linkedin.com/in/francescomantella-dgevents/it",
+    "https://jp.linkedin.com/in/soichiro-fujiwara-8220a73b",
+    "https://ca.linkedin.com/in/seta-danielian-0829a213",
+    "https://ae.linkedin.com/in/dolce-lauren-lomboy-54b534314"
+   ]
+  },
+  {
+   "query": "site:facebook.com ドルチェ",
+   "results": [
+    "https://www.facebook.com/restaurant.dolce/",
+    "https://www.facebook.com/dolcevita1999/",
+    "https://business.facebook.com/groups/971395327065293/",
+    "https://www.facebook.com/hokkaidodolce/",
+    "https://www.facebook.com/DolceGabbana.Japan/",
+    "https://www.facebook.com/Dolce.fuji.2000/",
+    "https://www.facebook.com/dolce.zucchero.bar/"
+   ]
+  },
+  {
+   "query": "ドルチェ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.dolce-kk.co.jp/company/message/",
+    "https://note.jp/n/ncc37a1d4aa0b"
+   ]
+  },
+  {
+   "query": "ドルチェ X 投稿",
+   "results": [
+    "https://x.com/82dopi24eita1/status/2117391180808032478",
+    "https://x.com/82dopi24eita1/status/2087518227094286426",
+    "https://search.yahoo.co.jp/realtime/search/＃ドルチェ/",
+    "https://x.com/dolsuke/status/1668202031675510784",
+    "https://x.com/FlutePiccDolce/status/2053780990666137617",
+    "https://x.com/82dopi24eita1/status/2082751209035939858",
+    "https://x.com/dolce5_official"
+   ]
+  }
+ ],
+ "missing": {
+  "資本金": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部20頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部20頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部20頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部20頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部20頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部20頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部20頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部20頁・検索8回）"
+ }
+}

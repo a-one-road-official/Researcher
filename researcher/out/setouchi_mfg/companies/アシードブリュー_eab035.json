@@ -1,0 +1,960 @@
+{
+ "name": "アシードブリュー",
+ "aliases": [],
+ "context": "広島県広島市／出典:地元の合同説明会／求人媒体:Indeed;doda;マイナビ転職／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T06:38:27.611137+00:00",
+ "official_url": "http://www.aseedbrew.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1962年12月",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "河本 大輔",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "166名",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1000万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "■各種ソフトドリンク（清涼飲料水）・酒類（リキュール・スピリッツ）の企画開発・製造・販売",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "広島県東広島市志和町別府2061番地3",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "アシードブリューは、広島県東広島市と関東圏の大消費地に近い栃木県下野市に自社工場を構え、プライベートブランドからOEM、ODM商品の製造ノウハウを生かし、お客様の多様なニーズにお応えします",
+    "url": "https://www.aseedbrew.com/",
+    "pass": 1
+   },
+   {
+    "quote": "志和工場新ライン増設（250缶炭酸ライン）",
+    "url": "https://www.aseedbrew.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "志和工場ライン導入（350缶炭酸ライン）",
+    "url": "https://www.aseedbrew.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "志和工場新ライン増設（ペットボトルライン）",
+    "url": "https://www.aseedbrew.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "志和工場新ライン増設（小型ペットボトルライン）",
+    "url": "https://www.aseedbrew.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "志和工場新ライン増設（250缶炭酸ライン）",
+    "url": "https://www.aseedbrew.com/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "志和工場ライン導入（350缶炭酸ライン）",
+    "url": "https://www.aseedbrew.com/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "志和工場新ライン増設（ペットボトルライン）",
+    "url": "https://www.aseedbrew.com/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "志和工場新ライン増設（小型ペットボトルライン）",
+    "url": "https://www.aseedbrew.com/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "おいて、アシードブリュー株式会社東広島飲料工場（広島県東広島市志和町別府） における飲料製造工",
+    "url": "https://www.aseedbrew.com/news/20250319.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、当社の子会社であるアシードブリュー株式会社宇都宮飲料工場において 2018 年4 月より",
+    "url": "https://www.aseedbrew.com/news/20250319.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同社は顧客の需要に全社をあげて応える観点から、東広島飲料工場にお いて宇都宮飲料工場と同",
+    "url": "https://www.aseedbrew.com/news/20250319.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "東広島飲料工場の隣地を取得し、飲料製造工場 建屋を建設しソフトパウチ飲料の製造設備を新設す",
+    "url": "https://www.aseedbrew.com/news/20250319.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "飲料製造工場建物およびソフトパウチ製造ライン新設",
+    "url": "https://www.aseedbrew.com/news/20250319.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "建設予定地：アシードブリュー株式会社東広島飲料工場",
+    "url": "https://www.aseedbrew.com/news/20250319.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■スタンダード上場のアシードホールディングスのグループ会社 ■大手飲料メーカー製品のOEM・ODM製造に加え「ためして寒天」「あま酒」などのアシードブランド商品も製造 ■グループの売上高230億円超/従業員数約550名",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "宇都宮飲料工場 〒329-0512 栃木県下野市下石橋561",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "【大阪】総務人事<未経験歓迎> 三菱電機G・社会インフラを支える/年休127日 採用人事",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 三菱電機プラントエンジニアリング株式会社 求人名 【大阪】総務人事＜未経験歓迎＞◇三菱電機G・社会インフラを支える/年休127日 仕事の内容 総務・人事領域を中心に、これまでのご経験に応じて幅広くお任せします",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 【大阪】総務人事＜未経験歓迎＞◇三菱電機G・社会インフラを支える/年休127日",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 【必須】・図書館業務全般の基礎知識 ・利用支援業務の実務経験 ・リーダー経験 【歓迎】・大学委託業務統括経験 ・大学事務業務で学生や教員と直接接する業務の経験 ★大学の知の拠点を支える重要なポジションです",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "主な取引先は 国土交通省/中央官庁/地方公共団体/独立行政法人/建設会社等となります",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 【必須】■toB向けのビジネスコミュニケーション経験■プロジェクトやキャンペーンなど施策や制作物に関する進行管理業務経験■Googleスライド、パワーポイントにおける一般的なプレゼンテーションの作成スキル 【歓迎】■ブランド戦略策定、ブランドコミュニケーション設計（toB/toC不問）のご経験■社内上層部へのプレゼンテーション経験 ※現在は事業全体で年間50億円水準の利益貢献を見込んでおりますが、事業輪郭のさらなる拡大を目指し、スポーツに加え音楽等を含むライブエンターテインメント領域全体、およびその周辺バリューチェーンへの事業展開を戦略に掲げ、非連続な成長に向けた取組みを強化しています",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "・商品の入出荷管理（入荷や出荷に関する事務処理）・在庫管理（商品の在庫確認や管理）・専用システムへのデータ入力や処理・取引先や社内の関係部署との連絡、確認対応・帳票や報告書などの書類作成・その他庶務業務 営業活動ではなく、商品の円滑な入出荷を事務面から支える役割を担っていただきます",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "【応募〆11/24(火)12時_2027.4/1入社】食品事業本部/営業職※全国各拠点に配属 食品/飲料/香料法人営業",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 味の素株式会社 求人名 【応募〆11/24(火)12時_2027.4/1入社】食品事業本部/営業職※全国各拠点に配属 仕事の内容 ※勤務地は国内全域、各支社・支店・営業所配属の可能性がございます",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 【応募〆11/24(火)12時_2027.4/1入社】食品事業本部/営業職※全国各拠点に配属",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "●学校・企業のPC、AVシステム等の運用サポート ◎当社取引先の学校・企業等に常駐し、PC、AVシステム運用支援、 ICT支援を担当していただきます",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 東和オペレーションワークス株式会社 求人名 【PC・音響・映像システム/サポートスタッフ】残業ほぼ無/年休126日/長期就業 仕事の内容 ●学校・企業のPC、AVシステム等の運用サポート ◎当社取引先の学校・企業等に常駐し、PC、AVシステム運用支援、 ICT支援を担当していただきます",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "第2新卒歓迎【三菱地所Gr/総合職】転勤無/新卒大手入社者の次のキャリアに 総務事務",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社東京流通センター 求人名 第2新卒歓迎【三菱地所Gr/総合職】転勤無/新卒大手入社者の次のキャリアに 仕事の内容 総合職として、以下のような部署をジョブローテーションで経験していただきます",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "●総務／株主総会、秘書業務、広報、サステナビリティ推進、リスク・コンプライアンスなど●経理／決算、会計・税務業務など ●経営企画／経営企画関連業務、予算管理、所有物件の再開発業務など●人事／採用、労務、給与、人財育成など●営業／オフィス・倉庫の新規テナント誘致、契約更新、月極駐車場管理業務など●運営管理／所有物件のAM・PM業務など●イベント事業／展示場・貸し会議室の運営、時間貸し駐車場管理業務など●PM事業／他社物件のPM業務 募集職種 第2新卒歓迎【三菱地所Gr/総合職】転勤無/新卒大手入社者の次のキャリアに",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 【応募の対象】今回の転職が初めての転職のジュニアクラスの方 【仕事観】ジェネラリスト志向の方、チームプレイヤーの方 【志向性】今回の転職で主体的に働ける仕事をお探しの方 【歓迎】不動産業界での勤務経験（デベロッパー、AM、PMなど） 【求める人物像】 ・取引先との信頼関係構築力をお持ちの方 ・チームで物事に当たれる方（調和が図れる方） ・高い目標に対してチャレンジできる方 学歴・資格 学歴：大学院 大学 語学力： 資格：宅地建物取引士",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "■オフィスファシリティ管理、レイアウト変更の企画・調整・進行 ■什器・備品の選定、購入、管理 ■ビル管理会社、内装業者、各種取引先との調整 ■社内各部門、グループ会社との各種調整 ■オフィス賃料やファシリティ関連費用のグループ会社間の按分 ■ファシリティ関連費用の請求処理、請求書発行 ■各種稟議書、決定機関への上程資料の作成 ■総務関連の業務フローや運用の改善 ■その他、総務業務全般 募集職種 渋谷【総務担当】GMOグループの働く環境を支える/無料ランチなど福利厚生◎",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "教育投資約4億円（売上高比率2％）",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は東広島市の工場で、缶やペットボトル入り清涼飲料の製造に携わるスタッフを募集することとなりました",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "工場内での清涼飲料水の製造に関する業務全般をお願いします",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "広島県東広島市志和町別府2061番地3（東広島飲料工場）",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "資本金５００万円で法人設立 「宝積飲料株式会社」",
+    "url": "https://www.aseedbrew.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金1,000万円に増資",
+    "url": "https://www.aseedbrew.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金５００万円で法人設立 「宝積飲料株式会社」",
+    "url": "https://www.aseedbrew.com/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "資本金1,000万円に増資",
+    "url": "https://www.aseedbrew.com/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "（２）投資金額 3,000 百万円（予定）",
+    "url": "https://www.aseedbrew.com/news/20250319.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "月給：20万5000円～24万4000円",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "300万円～350万円",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "備考：月給￥205,000～￥244,000 基本給￥205,000～￥244,000を含む/月",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "■賞与実績:年２回",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "制度備考：【昇給】年1回（4月）",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "【賞与】年2回（7月、12月）",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "【給与補足】※年齢、経験、能力を考慮の上、優遇します",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金：10百万円",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "食品/香料/飼料専門職×200万円以上",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "食品/飲料/たばこ×200万円以上",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "製造オペレーター/ラインマネージャー（食品/飲料/たばこ）×200万円以上",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "広島県×200万円以上",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "東広島市×200万円以上",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "未経験者歓迎×200万円以上",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員×200万円以上",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "＜具体的には＞ ・総務/人事労務（給与・社保・勤怠管理など） ・採用・教育研修 ・福利厚生運用 など ※基本的には事務所勤務ですが、採用や教育等の業務内容により、関西圏以外への日帰り・宿泊を伴う国内出張もございます",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "【大阪・京都・滋賀】営業事務/事務未経験歓迎/年4回賞与/初年度年収630-700万 営業事務",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社キーエンス 求人名 【大阪・京都・滋賀】営業事務/事務未経験歓迎/年4回賞与/初年度年収630-700万 仕事の内容 【仕事内容】大阪営業所、京都営業所、滋賀営業所いずれかにて営業事務をお任せ",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 【大阪・京都・滋賀】営業事務/事務未経験歓迎/年4回賞与/初年度年収630-700万",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "30万円～38万5600円",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "入社直後は労務（労務管理・給与計算・安全衛生・福利厚生等）からお任せいたします",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社日立医薬情報ソリューションズ 求人名 【総務・人事】未経験歓迎/日立グループ/組織運営を支えるゼネラリストをめざす 仕事の内容 入社直後は労務（労務管理・給与計算・安全衛生・福利厚生等）からお任せいたします",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "・初期業務：労働時間管理、給与計算、社会保険対応、福利厚生管理、安全衛生、健康経営推進等をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 ★未経験歓迎！ ★人事・総務領域を横断的に経験し幅広いスキルを身につけたい方におすすめ！ ■労務管理(給与計算・社会保険手続き・勤怠管理など)に関心があり主体的に取り組める方 ※労務経験者は早期にご活躍いただけます",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "■チームで仕事を推進できる方■将来はマネジメント職として活躍したい 【尚可】■人事、労務、採用、教育業務のご経験 ■労務管理（給与計算・社会保険手続き・勤怠管理など）の経験 ■衛生管理者の資格をお持ちの方 学歴・資格 学歴：大学院 大学 高専 短大 専修学校 高校 語学力： 資格：",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "300万～350万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "月給205,000円～244,000円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "初年度年収は、入社後向こう一年間に支給される予定の金額で、基本給に諸手当と前年度の標準的な査定ベースの賞与額を加えたものです",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "初年度年収は、入社される方のスキルや経験によって必ずしも一定ではありませんので、検索した年収額と実際に入社した際の金額は異なる場合があります",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "300万円～350万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "・昇給年1回（4月）",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "・賞与年2回（7月、12月）",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "1000万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "年収1,000万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給21.4万円〜22.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "アシードブリュー株式会社／【東広島市】製造スタッフ/携わる製品が身近⇒自分が携わったというやりがい 製造オペレーター/ラインマネージャー(食品/飲料/たばこ)の中途採用・転職・求人情報｜求人・転職エージェントならリクルートエージェント",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "この求人はリクルートエージェント（株式会社インディードリクルートパートナーズ運営）が掲載する求人情報の一部のみの転載です",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "※本ページで応募ボタンをクリック後、リクルートエージェントに新規会員登録またはログインいただき、求人内容を確認後正式な応募手続きをお願いいたします",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "■給与計算、各種社会保険手続きの顧問社労士への依頼・チェック等の労務実務 ■新卒や中途採用活動の実務全般、社員研修の企画補助および運営サポート ■人事評価、労働関連法規に基づく社内制度の適切な運用と見直し ■衛生委員会の運営等安全衛生業務、グループ会社との連携 ■備品管理や各種発注対応等の総務関連業務全般 【業務内容の変更範囲】当社の指定する業務 募集職種 品川区【人事総務】在宅可・年休126日・完全週休2日制・上場グループ",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【採用背景】業務拡大のため、販売管理部の物流事務担当者を1名募集いたします",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "入社後は先輩社員が丁寧に指導し、少しずつ業務を覚えていく教育体制が整っています",
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "アシードブリュー株式会社の求人情報／【製造スタッフ】経験不問！未経験から長期キャリアを築ける (2857242)／広島県 | 転職・求人情報サイトのマイナビ転職",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "本求人はマイナビ転職の応募フォームでのみ受け付けます",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "本求人は、株式会社マイナビが運営する",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "「マイナビ転職AGENT キャリアパートナー」による人材紹介案件です",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "※個人情報について「個人情報の取り扱いについて（マイナビ転職AGENT）」に同意いただき、",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "上記は、株式会社マイナビ内／アシードブリュー株式会社採用事務局の所在地です",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "※オプトアウトをした場合、マイナビ転職の一部サービスを利用できない場合があります",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "5 件の アシードブリュー 株式会社 の 求人 | Indeed (インディード) — 5 件の アシードブリュー 株式会社 の 求人 | Indeed (インディード) Indeed https://jp.indeed.com > q-アシードブリュー株式会社-求人",
+    "url": "https://jp.indeed.com/q-%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%B1%82%E4%BA%BA.html",
+    "pass": 3
+   },
+   {
+    "quote": "アシードブリュー 株式会社の 求人 情報／【製造スタッフ】経験 ... — アシードブリュー 株式会社の 求人 情報／【製造スタッフ】経験 ... マイナビ転職 https://tenshoku.mynavi.jp > ... > アシードブリュー株式会社",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "アシードブリュー 株式会社 回答者プロフィール - OpenWork — アシードブリュー 株式会社 回答者プロフィール - OpenWork OpenWork https://www.openwork.jp > 食品、飲料 > アシードブリュー",
+    "url": "https://www.openwork.jp/user_answer.php?vid=a0ARC00000KssUX",
+    "pass": 3
+   },
+   {
+    "quote": "アシードブリュー の評判・社風・社員 の口コミ（20件） — アシードブリュー の評判・社風・社員 の口コミ（20件） 転職会議 https://jobtalk.jp > ... > アシードブリュー株式会社",
+    "url": "https://jobtalk.jp/companies/117457/answers",
+    "pass": 3
+   },
+   {
+    "quote": "アシードブリュー 新卒 高卒 の求人情報をすべて見る （136件） — アシードブリュー 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "5 件の アシードブリュー 株式会社 の求人 | Indeed (インディード) — 5 件の アシードブリュー 株式会社 の求人 | Indeed (インディード) Indeed https://jp.indeed.com > q-アシードブリュー株式会社-求人",
+    "url": "https://jp.indeed.com/q-%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%B1%82%E4%BA%BA.html",
+    "pass": 3
+   },
+   {
+    "quote": "アシードブリュー 株式会社の求人情報／【製造スタッフ】経験 ... — アシードブリュー 株式会社の求人情報／【製造スタッフ】経験 ... マイナビ転職 https://tenshoku.mynavi.jp > ... > アシードブリュー株式会社",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ASEEDBREW (@aseedbrew_com) / X アシードブリューの飲料工場は栃木県にあります。 工場より車で1時間半ほど北に向かうと世界遺産の日光東照宮がありその先に日本百名山の一つ、男体山があります。 少しではありますが既に山が紅葉していて… instagram.com/p/BZuXmH1D0Ps/",
+    "url": "https://x.com/aseedbrew_com",
+    "pass": 3
+   },
+   {
+    "quote": "#アシードブリュー株式会社 - Search / X See posts about #アシードブリュー株式会社 on X. See what people are saying and join the conversation.",
+    "url": "https://x.com/hashtag/アシードブリュー株式会社",
+    "pass": 3
+   },
+   {
+    "quote": "アシードブリューの大人のクラフト無糖サワー。存在は認識してたが、... アシードブリューの大人のクラフト無糖サワー。 存在は認識してたが、隣町のイオンで初めて発見。 まず河内晩柑を飲む！ うますぎワロタァ！ ほのかに甘い香りがしつつも、後味はスッキリガチ辛口切れ味。",
+    "url": "https://x.com/strong_ojisan/status/1854495864838095338",
+    "pass": 3
+   },
+   {
+    "quote": "アシードブリュー 家バル ソルティドッグ daiyusakudaiyusaku May 16 アシードブリュー 家バル ソルティドッグ daiyusakudaiyusaku May 16 ヱビスビールで一杯 💬0 🔄0 🤍1 📊103 📎 💬0 🔄0 🤍0 📊405 📎",
+    "url": "https://x.com/daiyusaku/status/2055593488033714562",
+    "pass": 3
+   },
+   {
+    "quote": "成敗繁盛 on X: \"アシードブリューが造ってるハイボール缶は不味い的... Oct 13, 2026 · アシードブリューが造ってるハイボール缶は不味い的なポスト見かけたけど、OEMなんだから受注元がどんな原料使うかで全然味が変わるのに一緒くたに否定する意味が分からん。 あんまりそういうの知らない人なのか",
+    "url": "https://x.com/gjww8m5Hmk/status/2109855051019878706",
+    "pass": 3
+   },
+   {
+    "quote": "tool the emote on X: \"本日は島唄ハイボール タンカンをいただきます... May 5, 2026 · 販売はまさひろ酒造株式会社、製造はアシードブリュー。 んー、タンカンの風味から、ふわっと泡盛が来るよな。 シークヮーサーに比べるとソフトな感じですが、タンカンも悪くない。 甘さ、酸味は控えめ、炭酸は普通。 度数は5%と低め。 #今日はこれ呑んだ",
+    "url": "https://x.com/tooltheemote/status/2051742766351425612",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "アシードブリュー宇都宮飲料工場 - Facebook アシードブリュー宇都宮飲料工場",
+    "url": "https://www.facebook.com/アシードブリュー宇都宮飲料工場-103424427818099/",
+    "pass": 3
+   },
+   {
+    "quote": "アシードブリュー株式会社宇都宮飲料工場 Posts about アシードブリュー株式会社宇都宮飲料工場 Joy Akihito is with Hidehiko Ogawa at アシードブリュー株式会社宇都宮飲料工場. October 4, 2020 · Shimotsuke, Tochigi, Japan · #ASEED",
+    "url": "https://www.facebook.com/pages/アシードブリュー株式会社宇都宮飲料工場/295849327517992/",
+    "pass": 3
+   },
+   {
+    "quote": "ふくさけプロジェクト - アシードブリュー 九州酒類工場 http://wp.me... Jan 24, 2015 · ふくさけプロジェクト Jan 24, 2015 アシードブリュー 九州酒類工場 http://wp.me/p5lYly- aW FUKUSAKE.COM アシードブリュー 九州酒類工場",
+    "url": "https://www.facebook.com/fukusakepr/posts/アシードブリュー-九州酒類工場-httpwpmep5lyly-aw/921510814549087/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.aseedbrew.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aseedbrew.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aseedbrew.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aseedbrew.com/en/company/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aseedbrew.com/company/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aseedbrew.com/en/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.aseedbrew.com/news/20250319.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/q-%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/aseedbrew_com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/アシードブリュー株式会社",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/strong_ojisan/status/1854495864838095338",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/daiyusaku/status/2055593488033714562",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/アシードブリュー宇都宮飲料工場-103424427818099/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/アシードブリュー株式会社宇都宮飲料工場/295849327517992/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fukusakepr/posts/アシードブリュー-九州酒類工場-httpwpmep5lyly-aw/921510814549087/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/アシードブリュー株式会社",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/gjww8m5Hmk/status/2109855051019878706",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tooltheemote/status/2051742766351425612",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アシードブリュー 求人 年収",
+   "results": [
+    "https://jp.indeed.com/q-%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%B1%82%E4%BA%BA.html",
+    "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "https://www.openwork.jp/user_answer.php?vid=a0ARC00000KssUX",
+    "https://jobtalk.jp/companies/117457/answers",
+    "https://syukatsu-kaigi.jp/companies/6879/post_items/2/word_mouths",
+    "https://doda.jp/DodaFront/View/Company/j_id__10003153745/",
+    "https://hw-jobs.careermine.jp/salary/aseed-holdings",
+    "https://jp.indeed.com/cmp/アシードブリュー株式会社/salaries",
+    "https://jobcatalog.yahoo.co.jp/company/2000010010/salaries/"
+   ]
+  },
+  {
+   "query": "アシードブリュー 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://jp.indeed.com/q-%E3%82%A2%E3%82%B7%E3%83%BC%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%B1%82%E4%BA%BA.html",
+    "https://tenshoku.mynavi.jp/jobinfo-470428-5-1-1/",
+    "https://www.aseed-hd.co.jp/recruit-fresh/",
+    "https://www.r-agent.com/viewjob/jk8bf5d7653532011d/",
+    "https://navi.handy.school/job/01M60SKJ5XRFDVARF04E00BQFD",
+    "https://syukatsu-kaigi.jp/companies/6879",
+    "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3402005932161&kJKbn=1&jGSHNo=xhj0FukI5RXQk9OuDaEFkg%3D%3D&fullPart=1&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=0",
+    "https://www.openwork.jp/a0CIh0000025fH7/job/",
+    "https://saiyo.page/229179"
+   ]
+  },
+  {
+   "query": "site:note.com アシードブリュー",
+   "results": [
+    "https://note.com/isakihatoretano/n/nd548827d39cd",
+    "https://note.com/lofty_magpie9169/n/nd07baaaeb183",
+    "https://note.com/sankituushin/n/nc4d3cf72b9b0?hl=en",
+    "https://note.com/text_sakura/n/nb30dee1df353",
+    "https://note.com/shiiramaki/n/n94ee4d44b9cb",
+    "https://note.com/hiro1945/n/n439e5eb68011",
+    "https://note.com/orenosake/n/n92b9c0885d46",
+    "https://note.com/saitokyuhei/n/nca8d96a3b5a1",
+    "https://note.com/motsupan/n/ndabbc4b748bb",
+    "https://note.com/yuichimoriya/n/n6ff268af9fee"
+   ]
+  },
+  {
+   "query": "site:x.com アシードブリュー",
+   "results": [
+    "https://x.com/aseedbrew_com",
+    "https://x.com/hashtag/アシードブリュー株式会社",
+    "https://x.com/strong_ojisan/status/1854495864838095338",
+    "https://x.com/daiyusaku/status/2055593488033714562",
+    "https://x.com/raspakchan/status/1867044319229792511",
+    "https://x.com/kerokerori33/status/2073035648978841931",
+    "https://x.com/hashtag/アシードビバレッジプラス"
+   ]
+  },
+  {
+   "query": "site:linkedin.com アシードブリュー",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com アシードブリュー",
+   "results": [
+    "https://www.facebook.com/アシードブリュー宇都宮飲料工場-103424427818099/",
+    "https://www.facebook.com/pages/アシードブリュー株式会社宇都宮飲料工場/295849327517992/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/fukusakepr/posts/アシードブリュー-九州酒類工場-httpwpmep5lyly-aw/921510814549087/",
+    "https://www.facebook.com/binrepo/posts/アシードブリューが缶チューハイの新商品発売チューハイなどの企画製造のアシードブリュー福山市箕島町５７２５１河本大輔社長は３月16日月缶チューハイアシードアスター/1460129690820939/",
+    "https://www.facebook.com/11ne11ne/videos/ママレポ本日のママレポート️もより市樟葉駅さん️アシードブリューさんのチューハイで新商品も出ていましたやっぱりこの時期はみかんチューハイが人気なんですねhttp/991768282792598/",
+    "https://www.facebook.com/hiroshimadragonflies/photos/パートナー決定のお知らせ-広島ドラゴンフライズのりそなグループ-bleague-2025-26シーズンのプラチナパートナーとしてアシードホールディングス株式会社/1283542936461879/"
+   ]
+  },
+  {
+   "query": "アシードブリュー note 社長",
+   "results": [
+    "http://www.aseedbrew.com/company/",
+    "https://www.aseedbrew.com/news/20241001-2.pdf",
+    "https://www.y-aoyama.jp/order/60leaders/20241030/",
+    "https://www.aseed-hd.co.jp/_news/2025/20250319-2.pdf",
+    "https://kigyo-scope.jp/company/9959/ceo/",
+    "https://www.aseed-hd.co.jp/_news/2024/20240322.pdf",
+    "https://kitaishihon.com/company/9959/board-of-director"
+   ]
+  },
+  {
+   "query": "アシードブリュー X 投稿",
+   "results": [
+    "https://x.com/hashtag/アシードブリュー株式会社",
+    "https://x.com/gjww8m5Hmk/status/2109855051019878706",
+    "http://www.aseedbrew.com/",
+    "https://x.com/tooltheemote/status/2051742766351425612",
+    "https://x.com/",
+    "https://x-sou.com/ja",
+    "https://x.com/ASEEDofficial"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部16頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部16頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部16頁・検索8回）"
+ }
+}
