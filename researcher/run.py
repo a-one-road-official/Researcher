@@ -130,6 +130,19 @@ def pick_links(page: dict, kws: list[str], domain: str, limit: int) -> tuple[lis
     return pages[:limit], files
 
 
+def same_entity(page: dict, rec: dict) -> bool:
+    text = (page.get("title", "") + " " + page.get("text", ""))
+    dom = urlparse(rec.get("official_url") or "").netloc.split(":")[0].removeprefix("www.")
+    if dom and dom in text:
+        return True
+    for field in ("代表者", "所在地", "本社", "住所"):
+        for it in (rec.get("profile", {}).get(field) or [])[:2]:
+            v = re.sub(r"(代表取締役|社長|会長|CEO|執行役員|[\s　:：])", "", it.get("value", ""))[:12]
+            if len(v) >= 3 and v in re.sub(r"[\s　]", "", text):
+                return True
+    return False
+
+
 def research(c: dict, topic: dict) -> dict:
     rec = {"name": c["name"], "aliases": c["aliases"], "context": c["context"],
            "researched_at": datetime.now(timezone.utc).isoformat(),
@@ -146,6 +159,11 @@ def research(c: dict, topic: dict) -> dict:
         if page["status"] != "ok" and not page.get("text"):
             return
         if need_name and not variants.name_hits(page.get("title", "") + page.get("text", ""), c["name"], c["aliases"]):
+            return
+        # 2026-11-05 METHOD.md 4-8：外部のページの会社概要は、同名の別会社の可能性がある。公式ドメインか、
+        # 公式で取れた代表者名・所在地のどれかが同じページにあるときだけ profile に入れる（名前の一致だけでは同一と認めない）
+        if pass_no == 3 and not same_entity(page, rec):
+            extract.merge_into(rec["evidence"], extract.evidence(page, cats, pass_no))
             return
         extract.merge_into(rec["profile"], extract.profile(page, keys, pass_no))
         extract.merge_into(rec["evidence"], extract.evidence(page, cats, pass_no))

@@ -28,6 +28,27 @@ def _lines(text: str) -> list[str]:
     return out
 
 
+# 2026-11-05 METHOD.md 4-8：欄ごとの値の型を確かめる（mfg_recruit_cos で株主欄に「10,018名」、従業員欄に「541,700 1.61」が入った失敗から）
+YEAR_IN = re.compile(r"(?:18|19|20)\d{2}|(?:明治|大正|昭和|平成|令和)\s*(?:元|\d{1,2})")
+COUNT_ONLY = re.compile(r"^[\s約]*[\d,，]+\s*(?:名|人|社)?\s*(?:[（(].*)?$")
+BAD_LABEL = re.compile(r"株主数|株主総会|株主優待|株主様|株主の皆様|株主還元|発行済|従業員の声|社員の声|売上ランキング")
+
+
+def valid_value(field: str, label: str, value: str) -> bool:
+    if BAD_LABEL.search(label):
+        return False
+    v = value.strip()
+    if "株主" in field or "出資" in field or "親会社" in field:
+        return not COUNT_ONLY.match(v) and not v.startswith(("http", "IR", "株主"))  # 人数・株数だけは株主構成ではない
+    if any(k in field for k in ("創業", "設立", "創立")):
+        return bool(YEAR_IN.search(v))
+    if any(k in field for k in ("従業員", "社員", "人数")):
+        return bool(re.search(r"\d[\d,]*\s*(?:名|人)", v))
+    if any(k in field for k in ("資本金", "売上", "年商")):
+        return bool(re.search(r"\d", v)) and bool(re.search(r"円|ドル|USD|\$|€|EUR", v))
+    return True
+
+
 def profile(page: dict, keys: dict[str, list[str]], pass_no: int) -> dict[str, list[dict]]:
     found: dict[str, list[dict]] = {}
     pairs = list(page.get("pairs") or [])
@@ -41,7 +62,13 @@ def profile(page: dict, keys: dict[str, list[str]], pass_no: int) -> dict[str, l
             continue
         for field, syns in keys.items():
             if any(s in label_n for s in syns):
-                found.setdefault(field, []).append({"label": label.strip(), "value": value.strip()[:500],
+                if not valid_value(field, label_n, value):
+                    break
+                val = value.strip()[:500]
+                # 創業と設立は別の年。どちらの言葉で書かれていたかを値に残す（取り違え防止）
+                if any(k in field for k in ("創業", "設立", "創立")) and not re.match(r"^(設立|創業|創立)", val):
+                    val = f"{label.strip()}：{val}"
+                found.setdefault(field, []).append({"label": label.strip(), "value": val,
                                                     "url": page["final_url"], "pass": pass_no})
                 break
     return found

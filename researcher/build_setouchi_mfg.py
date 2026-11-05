@@ -72,7 +72,22 @@ PORTALS = set(MEDIA.values()) | {
     "wikipedia.org", "facebook.com", "instagram.com", "x.com", "twitter.com", "youtube.com", "linkedin.com",
     "mapion.co.jp", "navitime.co.jp", "google.com", "yahoo.co.jp", "kaisharesearch.com", "salesnow.jp",
     "musubu.in", "ullet.com", "kabutan.jp", "minkabu.jp", "nikkei.com", "prtimes.jp", "jobtalk.jp", "careerconnection.jp",
+    # 2026-11-05 追加（METHOD.md 4-8）：企業DB・電話帳・地図・口コミ・ブログ・まとめは公式にしない
+    "catr.jp", "houjin.jp", "alarmbox.jp", "jpubb.com", "kigyou", "tdb.co.jp", "tsr-net.co.jp", "g-search", "imitsu.jp",
+    "mapfan.com", "tabelog.com", "hotpepper.jp", "job-medley.com", "hatarako.net", "kakaku.com", "bing.com", "duckduckgo.com",
+    "note.com", "ameblo.jp", "hatenablog", "fc2.com", "livedoor", "j-net21", "mirasapo", "smrj.go.jp", "jetro.go.jp",
+    "nta.go.jp", "e-stat", "monotaro.com", "aperza.jp", "metoree.com", "emidas", "ncnet", "nc-net.or.jp", "mono.ipros.com",
+    "buffett-code.com", "irbank.net", "kaisha-hyouban", "careerjet", "glassdoor", "jobcatalog", "arubaito-ex", "gakujo.ne.jp",
+    "career-tasu.jp", "offerbox.jp", "onecareer.jp", "unistyle.jp", "shukatsu", "rikeinavi", "kosen", "jobway", "hellowork.careers",
 }
+# 大手のグループ会社（社名に親の名前が入る）。中小の一覧に入れない
+BIG_GROUP = re.compile(r"^(マツダ|トヨタ|デンソー|三菱|日立|東芝|パナソニック|川崎重工|住友|三井|JFE|ＪＦＥ|日本製鉄|神戸製鋼|コベルコ|IHI|ＩＨＩ|"
+                       r"ダイハツ|スズキ|ホンダ|本田|日産|いすゞ|ヤンマー|クボタ|コマツ|小松|ダイキン|帝人|東レ|旭化成|三井化学|宇部興産|UBE|"
+                       r"トクヤマ|東ソー|クラレ|カネカ|今治造船|ジャパンマリンユナイテッド|常石|新来島|富士通|NEC|シャープ|京セラ|村田|オムロン|"
+                       r"キヤノン|リコー|ブリヂストン|横浜ゴム|ENEOS|出光|中国電力|四国電力|ＪＲ|JR|日本郵船|商船三井)")
+# 公式サイトの検索結果の題名に出る、ポータル・DB・求人の言葉
+PORTAL_TITLE = re.compile(r"求人|採用情報[ -－|｜]+.*(マイナビ|リクナビ|doda|Indeed)|口コミ|評判|ランキング|一覧|企業情報[ -－|｜]|会社情報[ -－|｜]|"
+                          r"の会社概要|決算|電話番号|地図|アクセス[ -－|｜]+.*(ナビ|マップ)|reviews|Yelp|法人番号|基本情報|企業データ|年収|就職")
 NOT_COMPANY = re.compile(r"マイナビ|リクルート|パーソル|インディード|Indeed|ウォンテッド|エン・ジャパン|ディップ|ハローワーク|"
                          r"大学|高専|学校|銀行|信用金庫|信金|証券|保険|新聞|放送|テレビ|商工会|会議所|協会|組合|財団|機構|"
                          r"市役所|県庁|NTT|タウンページ|ヤフー|グーグル|楽天|求人|人材|派遣|紹介|コンサル|不動産|ホテル|病院|"
@@ -105,6 +120,18 @@ def _is_portal(url: str) -> bool:
     return any(p in h for p in PORTALS)
 
 
+def _is_official_hit(h: dict, name: str) -> bool:
+    """公式サイトと認める検索結果：ポータルでない／題名に社名がある／題名がDB・求人・口コミの型でない。
+    ドメインや電話番号の一致は「関連の候補」にすぎず、それだけで公式と決めない（METHOD.md 4-8）。"""
+    if _is_portal(h["url"]):
+        return False
+    title = h.get("title", "")
+    if name not in title or PORTAL_TITLE.search(title):
+        return False
+    path = urlparse(h["url"]).path.lower()
+    return not re.search(r"/(company|corp|kigyo|kaisha|detail|shop|spot|biz)/\d", path)  # DBの個別ページの型
+
+
 def _listed() -> set:
     """上場企業（out/ir1000/screen.csv の全上場一覧）。中小の一覧から外す。"""
     f = ROOT / "out" / "ir1000" / "screen.csv"
@@ -121,15 +148,25 @@ def norm(name: str) -> str:
     return n.strip(" ・-")
 
 
+def valid_name(core: str) -> bool:
+    """社名として通すか。求人サイトの文言・見出し・業種名・大手のグループ会社は通さない（METHOD.md 2章・4-8）。"""
+    if core in TRADES or core in MFG_WORDS or core.endswith(("業", "業界")) and len(core) <= 4:
+        return False
+    if len(core) < 2 or NOT_COMPANY.search(core) or re.fullmatch(r"[0-9A-Za-z\-]+", core) and len(core) < 3:
+        return False
+    if re.search(r"[！!？?。、「」『』【】：:／/]", core) or re.search(r"(の|で|を|に|は|が|と)$", core):  # 文の切れ端
+        return False
+    if BIG_GROUP.match(core):
+        return False
+    return True
+
+
 def names_in(text: str) -> list[str]:
     out = []
     for m in NAME_RX.finditer(text or ""):
         core = norm(m.group(1) or m.group(2) or "")
-        if core in TRADES or core in MFG_WORDS or core.endswith(("業", "業界")) and len(core) <= 4:
-            continue
-        if len(core) < 2 or NOT_COMPANY.search(core) or re.fullmatch(r"[0-9A-Za-z\-]+", core) and len(core) < 3:
-            continue
-        out.append(core)
+        if valid_name(core):
+            out.append(core)
     return out
 
 
@@ -175,7 +212,8 @@ def collect_names(deadline: float) -> bool:
     if NAMES.exists():
         with open(NAMES, encoding="utf-8") as f:
             for r in csv.DictReader(f):
-                rows[(r["name"], r["pref"])] = r
+                if valid_name(r["name"]):  # 前の版の甘い判定で入った社名を、読み込むたびに外す
+                    rows[(r["name"], r["pref"])] = r
     plan = source_plan()
     fetched = set()
 
@@ -249,7 +287,9 @@ def check_one(name: str, pref: str) -> dict:
     else:
         rec["status"] = "ok"
     for h in blob_hits:
-        if not _is_portal(h["url"]) and not rec["official_url"]:
+        if rec["official_url"]:
+            break
+        if _is_official_hit(h, name):
             rec["official_url"] = f"{urlparse(h['url']).scheme}://{_host(h['url'])}/"
     m = EMP_RX.search(text)
     rec["employees"] = m.group(1).replace(",", "") if m else ""
@@ -324,7 +364,10 @@ def check_names(deadline: float) -> bool:
     for r in names:
         k = (r["name"], r["pref"])
         prev = done.get(k)
-        if prev and (prev["status"] in ("ok", "not_mfg", "pref_mismatch", "not_company") or prev.get("tries") == "2"):
+        stale = prev and prev["status"] == "ok" and (_is_portal(prev.get("official_url") or "") or not prev.get("official_url"))
+        if not valid_name(r["name"]):
+            continue
+        if prev and not stale and (prev["status"] in ("ok", "not_mfg", "pref_mismatch", "not_company") or prev.get("tries") == "2"):
             continue
         todo.append(r)
 
@@ -332,11 +375,7 @@ def check_names(deadline: float) -> bool:
         k = (r["name"], r["pref"])
         prev = done.get(k)
         try:
-            rec = check_one(*k)
-            for u in (r.get("source_urls") or "").split():
-                if not _is_portal(u) and _host(u):
-                    rec["official_url"] = f"{urlparse(u).scheme or 'https'}://{_host(u)}/"
-                    break
+            rec = check_one(*k)  # 社名を見つけたページ（source_urls）は「名前が出たページ」であって公式サイトではないので使わない
         except Exception as e:  # 1社の失敗で全体を止めない
             rec = {**{f: "" for f in CHECK_FIELDS}, "name": k[0], "pref": k[1], "status": f"error:{type(e).__name__}"}
         rec["tries"] = str(int((prev or {}).get("tries") or 0) + 1)
@@ -375,16 +414,16 @@ def write_outputs(finished: bool = True) -> None:
             src[(r["name"], r["pref"])] = r
     for r in rows:
         if r["status"] == "ok" and (not r.get("official_url") or _is_portal(r["official_url"])):
-            r["official_url"] = ""
-            for u in (src.get((r["name"], r["pref"]), {}).get("source_urls") or "").split():
-                if not _is_portal(u) and _host(u):
-                    r["official_url"] = f"{urlparse(u).scheme or 'https'}://{_host(u)}/"
-                    break
-        if r["status"] == "ok" and (r["name"] in TRADES or r["name"] in MFG_WORDS or NOT_COMPANY.search(r["name"])):
+            r["official_url"] = ""  # 公式が確かめられない会社は一覧に入れない（出典ページで埋めない）
+        if r["status"] == "ok" and not valid_name(r["name"]):
             r["status"] = "not_company"
+        if r["status"] == "ok" and _is_portal(r.get("official_url") or ""):
+            r["official_url"] = ""
     def _big(r):
         e = int(r["employees"]) if (r.get("employees") or "").isdigit() else 0
         c = int(r["capital_man"]) if (r.get("capital_man") or "").isdigit() else 0
+        if BIG_GROUP.match(r["name"]) or re.search(r"東証|上場|グループ連結|連結従業員", r.get("verify_quote") or ""):
+            return True
         return e > 300 and c > 30000 or e > 1000 or c > 100000
     listed = _listed()
     ok = [r for r in rows if r["status"] == "ok" and r.get("official_url") and not _is_portal(r["official_url"]) and not _big(r) and norm(r["name"]) not in listed]
