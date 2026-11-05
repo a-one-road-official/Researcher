@@ -8,534 +8,8 @@
  ],
  "context": "点検",
  "kind": "market",
- "researched_at": "2026-11-05T19:48:15.282069+00:00",
+ "researched_at": "2026-11-05T21:46:52.521361+00:00",
  "evidence": {
-  "失敗・落とし穴": [
-   {
-    "quote": "過去の採用バイアス（性別・学歴等）の再生産、同意なきデータ利用（2019年リクナビ問題）ハルシネーション、プロンプト依存による出力の画一化（「優等生的で個性がないES」）求職者AIと企業AIの「AI対AI」化、Web面接でのリアルタイムAIカンニング・ディープフェイクなりすまし、サイレント辞退",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 面接中にAIアシスタント（Claude Code / Copilot等）の使用を公式に許可し、「AIを使っていかに高度な設計を行い、AIの誤りをどう検証・修正できるか」という実務協働能力を直接評価する",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 自動雇用決定ツール（AEDT）に対する年1回の独立第三者バイアス監査・結果公表・10営業日前の事前通知を義務化（ただし2025年12月のNY州会計監査官報告で行政側の執行体制の不備も指摘され、実効性強化が議論されている）",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "<br>・代わりにAI面接・対人面接での**「なぜそう判断したか」「失敗時にどう動いたか」という多段階の深掘り質問と設問間の一貫性チェック**へ移行",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Metaが2025年10月から導入した「AI-enabled coding interview」のように、選考中にGPTやClaude等の利用を公式に認めたうえで、「AIに何を任せ、AIが出した誤りや浅い出力にどう気づいて修正し、最終品質を担保できるか」という",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "は例年約2万件のエントリーと職種別12コース化に伴う面接官バイアスを解消するため、一次面接をAI面接に完全移行（工数97%削減、選考対象者最大20%拡大） [SRC-076]",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "）で「失敗を恐れず挑戦（34.3%）」「丁寧な指導（50.1%）」が過去最高、「厳しい指導を求める（24.0%）」も3年連続上昇する一方、",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "自ら転職市場をくぐり抜け、他社比較の視点を持つ外部人材をマネジメント層に注入することで、生え抜き組織の認知バイアスを打破しようとしているのである",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「AIよりも精度が低くバイアスだらけの昭和・平成初期面接」と「早期離職（入社半年で転職意向6割）」**を再生産してしまう",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「AI書類の罠」の回避と構造化深掘り面接対策",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": AIで整えた職務経歴書・ESは面接官（およびAI面接官）から「なぜその行動をとったのか」「失敗したときどう修正したか」と徹底的に深掘りされるため、借り物の言葉を排し、自分の言葉と一次エピソードに落とし込む対話訓練",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "エージェントが長い手順を維持し、ツールを使い、誤りから復帰する改善は、採用業務の連結に技術的な背景を与える",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "改訂値の注意：13% → 16% → 19%を一本の連続系列にしない",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従って2025年の一時的な逆転を「転職の賃金メリットが永久に消滅した」と読むのは誤りである",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "当時のアルゴリズムが神経多様な候補者等に対するバイアスを持つことが批判された事例であり、欧州ではその後の規制設計（AI Act第5条の感情認識禁止）の教訓となった [src-008][src-009][src-010]",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Table 5 Median Unbiased versus Maximum Likelihood",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "estimates of gλ we obtained by applying the median unbiased estimation approach of",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "them with the median unbiased approach of Stock and Watson. With those coefficients",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Based on this comparison of MLE and medi an unbiased estimates of the variance",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "median unbiased variance estimator to obtain estimates of the variance of shocks to",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Watson median-unbiased estimat es. With larger point estimates obtained using",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "maximum likelihood than using median-unbiased estimation techniques, the downward-",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "bias motivation for using the latter techniques is questionable.",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Table 5: Median Unbiased versus Maximum Likelihood Estimates of ησ and rσ ,",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1. The results reported in the Median Unbiased columns are based on the model estimates reported in the paper",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the Stock-Watson median unbiased method and the remaining parameters by maximum likelihood.",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Stock, J. and M. Watson 1998. Median Unbiased Estimation Of Coefficient Variance In",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "June 2003 Bidder Behavior in Repo Auctions Tobias Linzert",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "バッチ処理・単一タスク判定（過去データの統計的パターン照合）人間主導（担当者が都度テキストを貼り付けて要約・文案生成を指示）",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業側は個別要約に試用各社固有の採用要件・行動特性と照合し構造化スコアリング",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 第1世代の機械学習と異なり、プロンプトおよびシステム設計段階で年齢・性別・出身地・顔写真等の属性情報をマスクし、職務要件（必須・歓迎スキル）の事実記述のみを抽出・照合する公正採用設計が標準化した [SRC-011]",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2024年後半〜2026年にかけ、音声認識・音声合成の低遅延化とLLMの動的質問生成能力が結合したことで、AI面接は「決められた質問を一方的に聞く録画ツール」から**「候補者の発話内容に応じてリアルタイムで深掘り質問（STARメソッドに基づく行動事実の検証）を行う自律対話エージェント」**へと進化した",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 面接中にAIアシスタント（Claude Code / Copilot等）の使用を公式に許可し、「AIを使っていかに高度な設計を行い、AIの誤りをどう検証・修正できるか」という実務協働能力を直接評価する",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "求職者のキャリア代理人AIエージェントと、企業側のATS・採用AIエージェントがMCP等の標準プロトコルを介して直接スキル・志向・労働条件を照合する世界が本格化する",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "曖昧な精神論で書かれた求人票はAIエージェントから推薦対象外とされ、検証可能な行動要件とリアルな組織実態を構造化して発信する企業（採用AIO先進企業）に優秀層が集まる",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さらに専門職・中途選考では「AIツール使用禁止の対面検証」と「AIツール使用前提の実務課題ワーク」を組み合わせ、候補者がAIをどう統御して価値を生むかを直接観察する選考が主流となる",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "しかし、「求職者自身が納得して意思決定するための『内省・選別プロセス』としての重要度はむしろ上昇」しており、企業側の評価軸は新卒では『原体験の深掘りとインターン等の一次接点での巻き込み』へ、転職では『検証可能な実務スキル（Skills-based hiring）と同期型の思考・AI協働プロセス』へと明確にシフトしている",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「その場の同期対話で検証可能な実務スキル・再現性・AIとの協働プロセス」**（ペア作業、AI利用前提のライブ課題、システムデザイン・ケース議論、リファレンスチェック）へと一段と鋭くシフトしている [SRC-056, SRC-058]",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "、**65%が「AI最適化されたレジュメでは真のスキル検証が難しくなった」**と回答しており、5人に1人が約2週間の採用遅延を報告している [SRC-056]",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2026年10月のResumlyによる主要9ツールの実機検証では、Workday、iCIMS、Taleoといった大企業向けATSの複雑な条件分岐フォームにおいて自動応募ボットの多くがエラー停止または誤入力を起こす（入力精度40〜50%へ低下）ことが確認されている [SRC-054]",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 2026年後半現在、リテラシーの高い求職者の間では「完全放置（Auto-apply）」は逆効果と認識され、**「リサーチ・求人照合・企業別レジュメ最適化ドラフト・フォーム下書きまでをAIエージェントに任せ、最後のポジショニング確認と送信クリックだけを人間が行う『Assisted-Apply（セミ自律型）』」**が最も合理的な標準ワークフローとなっている",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第1層（探索・照合・調整レイヤー）＝ 急速に「AI × AI」の自動処理へ移行済み",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "求人票の構造化生成、スカウト／求人レコメンド、企業別レジュメ最適化、初期要件スクリーニング、日程調整、さらには『TwinCafe』のような事前ファクトチェックは、人間同士の手作業から「企業AIエージェント × 求職者AIエージェント」の自動照合へと急速に置き換わっている",
-    "url": "https://note.com/jack4manastalk/n/n880406135053",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Which Output Gap Estimates Are Stable in Real Time and Why?",
-    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Output Gap Estimates Are Stable in Real Time and Why?,” Finance and Economics Dis-",
-    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Which Output Gap Estimates Are",
-    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Output gaps that are estimated in real time can differ substantially from those estimated after the",
-    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "fact. We aim to understand the real-time instability of output gap estimates by comparing a suite of",
-    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "is never observed and must be estimated. And in an inﬂuential paper, Orphanides and van Norden (2002)",
-    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "document that output gap estimates are unreliable in real time, throwing into question their adequacy for",
-    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "real-time output gap estimates. Garratt, Lee, Mise and Shields (2008) ameliorate the end-point problem by",
-    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "properties of output gap estimates. Fleischman and Roberts (2011) extract an output gap estimate from",
-    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "estimates. They show that, in contrast to model-based approaches, the Board staff produced stable output",
-    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "gap estimates in real time between the mid-1990s and the mid-2000s (when their sample ends).",
-    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In this paper, we aim to understand what contributes to the real-time stability of an output gap estimate.",
-    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "To do so, we produce output gap estimates from a suite of models, including the models considered in",
-    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "estimates from models that can be written as a linear Gaussian state-space system. The decomposition",
-    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "estimates the contribution of each observable series to the real-time instability of the output gap from three",
-    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CBO’s estimates or treated as unobserved variables. Our results reveal a high degree of",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "estimates of the equilibrium real rate will be difficult to us e reliably in practical policy",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "requires an estimate of the equilibrium real rate, or natural rate of interest. According to",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Prior studies have estimated the equilibrium real rate from models of the relationship",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "interest rates. These existing estimates of historical time series on the equilibrium real",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "substantially revised. For this and other reasons, estimates of the equilibrium real rate",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "made in real time could differ substantially from estimates obtained with subsequently",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "even more imprecision associated with havi ng to base real time estimates on only past,",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "estimates of the equilibrium real rate will be difficult to use reliably in practical",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Estimates of ησ and rσ , IS/CBO models",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Figure 1 Latest Vintage Estimates of the Equilibrium Real Rate 37",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Figure 2 ML Estimates of the Equilibrium Real Rate, IS/CBO",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Figure 3 Ranges of Estimates of the Equilibrium Real Rate,",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Figure 4 Ranges of Estimates of the Equilibrium Real Rate,",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Figure 5 Final vs. Real-Time Estimates of the Equilibrium Real",
-    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "過去の相場をAIで検証するとき、「今の経済データ」だけでは足りない｜decoy",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "過去の相場をAIで検証するとき、「今の経済データ」だけでは足りない",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検証の精度を上げたいなら、値そのものだけでなく、「その値がいつ公表され、後からどう改定されたか」も記録しておく必要があります",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統計は、発表時点で利用できる資料や回答をもとに推計されます",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "米国の雇用統計では、雇用者数の月次推計が最初の発表後に2回改定され、その後も年次のベンチマーク改定が行われます",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "米国のGDPも、速報値、改定値、確報に相当する複数の推計が順次公表されます",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "過去の発表日に売買するルールを検証するなら、その時点で利用できたのは初回値です",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "初回発表、2回目の推計、年次改定後など、どの版を使っているか",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "過去の売買検証に使う場合、当時まだ公表されていなかった情報が含まれる可能性も指摘してください",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "当時版のデータが取れない場合は、その期間を検証対象から外すか、現行データを用いた参考分析として区別します",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "市場ごとの反応は、別に検証する",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まずは「指標の初回値と改定値を分ける」「当時の市場予想を使う」「公表後の価格で検証する」というデータの土台を整えます",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一方、過去の発表を使った売買検証では、最新版が当時の情報だったとは限りません",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここを確かめることが、検証を現実に近づける第一歩です",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "生成AIの高度化・自律型AIエージェントの台頭に伴う採用選考の変容分析",
@@ -1026,6 +500,532 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "バッチ処理・単一タスク判定（過去データの統計的パターン照合）人間主導（担当者が都度テキストを貼り付けて要約・文案生成を指示）",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業側は個別要約に試用各社固有の採用要件・行動特性と照合し構造化スコアリング",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 第1世代の機械学習と異なり、プロンプトおよびシステム設計段階で年齢・性別・出身地・顔写真等の属性情報をマスクし、職務要件（必須・歓迎スキル）の事実記述のみを抽出・照合する公正採用設計が標準化した [SRC-011]",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2024年後半〜2026年にかけ、音声認識・音声合成の低遅延化とLLMの動的質問生成能力が結合したことで、AI面接は「決められた質問を一方的に聞く録画ツール」から**「候補者の発話内容に応じてリアルタイムで深掘り質問（STARメソッドに基づく行動事実の検証）を行う自律対話エージェント」**へと進化した",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 面接中にAIアシスタント（Claude Code / Copilot等）の使用を公式に許可し、「AIを使っていかに高度な設計を行い、AIの誤りをどう検証・修正できるか」という実務協働能力を直接評価する",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "求職者のキャリア代理人AIエージェントと、企業側のATS・採用AIエージェントがMCP等の標準プロトコルを介して直接スキル・志向・労働条件を照合する世界が本格化する",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "曖昧な精神論で書かれた求人票はAIエージェントから推薦対象外とされ、検証可能な行動要件とリアルな組織実態を構造化して発信する企業（採用AIO先進企業）に優秀層が集まる",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さらに専門職・中途選考では「AIツール使用禁止の対面検証」と「AIツール使用前提の実務課題ワーク」を組み合わせ、候補者がAIをどう統御して価値を生むかを直接観察する選考が主流となる",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しかし、「求職者自身が納得して意思決定するための『内省・選別プロセス』としての重要度はむしろ上昇」しており、企業側の評価軸は新卒では『原体験の深掘りとインターン等の一次接点での巻き込み』へ、転職では『検証可能な実務スキル（Skills-based hiring）と同期型の思考・AI協働プロセス』へと明確にシフトしている",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「その場の同期対話で検証可能な実務スキル・再現性・AIとの協働プロセス」**（ペア作業、AI利用前提のライブ課題、システムデザイン・ケース議論、リファレンスチェック）へと一段と鋭くシフトしている [SRC-056, SRC-058]",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "、**65%が「AI最適化されたレジュメでは真のスキル検証が難しくなった」**と回答しており、5人に1人が約2週間の採用遅延を報告している [SRC-056]",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2026年10月のResumlyによる主要9ツールの実機検証では、Workday、iCIMS、Taleoといった大企業向けATSの複雑な条件分岐フォームにおいて自動応募ボットの多くがエラー停止または誤入力を起こす（入力精度40〜50%へ低下）ことが確認されている [SRC-054]",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 2026年後半現在、リテラシーの高い求職者の間では「完全放置（Auto-apply）」は逆効果と認識され、**「リサーチ・求人照合・企業別レジュメ最適化ドラフト・フォーム下書きまでをAIエージェントに任せ、最後のポジショニング確認と送信クリックだけを人間が行う『Assisted-Apply（セミ自律型）』」**が最も合理的な標準ワークフローとなっている",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第1層（探索・照合・調整レイヤー）＝ 急速に「AI × AI」の自動処理へ移行済み",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "求人票の構造化生成、スカウト／求人レコメンド、企業別レジュメ最適化、初期要件スクリーニング、日程調整、さらには『TwinCafe』のような事前ファクトチェックは、人間同士の手作業から「企業AIエージェント × 求職者AIエージェント」の自動照合へと急速に置き換わっている",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Which Output Gap Estimates Are Stable in Real Time and Why?",
+    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Output Gap Estimates Are Stable in Real Time and Why?,” Finance and Economics Dis-",
+    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Which Output Gap Estimates Are",
+    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Output gaps that are estimated in real time can differ substantially from those estimated after the",
+    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "fact. We aim to understand the real-time instability of output gap estimates by comparing a suite of",
+    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "is never observed and must be estimated. And in an inﬂuential paper, Orphanides and van Norden (2002)",
+    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "document that output gap estimates are unreliable in real time, throwing into question their adequacy for",
+    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "real-time output gap estimates. Garratt, Lee, Mise and Shields (2008) ameliorate the end-point problem by",
+    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "properties of output gap estimates. Fleischman and Roberts (2011) extract an output gap estimate from",
+    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimates. They show that, in contrast to model-based approaches, the Board staff produced stable output",
+    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "gap estimates in real time between the mid-1990s and the mid-2000s (when their sample ends).",
+    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In this paper, we aim to understand what contributes to the real-time stability of an output gap estimate.",
+    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "To do so, we produce output gap estimates from a suite of models, including the models considered in",
+    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimates from models that can be written as a linear Gaussian state-space system. The decomposition",
+    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimates the contribution of each observable series to the real-time instability of the output gap from three",
+    "url": "https://www.federalreserve.gov/econres/feds/files/2020102pap.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CBO’s estimates or treated as unobserved variables. Our results reveal a high degree of",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimates of the equilibrium real rate will be difficult to us e reliably in practical policy",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "requires an estimate of the equilibrium real rate, or natural rate of interest. According to",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Prior studies have estimated the equilibrium real rate from models of the relationship",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "interest rates. These existing estimates of historical time series on the equilibrium real",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "substantially revised. For this and other reasons, estimates of the equilibrium real rate",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "made in real time could differ substantially from estimates obtained with subsequently",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "even more imprecision associated with havi ng to base real time estimates on only past,",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimates of the equilibrium real rate will be difficult to use reliably in practical",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Estimates of ησ and rσ , IS/CBO models",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Figure 1 Latest Vintage Estimates of the Equilibrium Real Rate 37",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Figure 2 ML Estimates of the Equilibrium Real Rate, IS/CBO",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Figure 3 Ranges of Estimates of the Equilibrium Real Rate,",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Figure 4 Ranges of Estimates of the Equilibrium Real Rate,",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Figure 5 Final vs. Real-Time Estimates of the Equilibrium Real",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "過去の相場をAIで検証するとき、「今の経済データ」だけでは足りない｜decoy",
+    "url": "https://note.com/todd547/n/nf06d432f2d9b",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "過去の相場をAIで検証するとき、「今の経済データ」だけでは足りない",
+    "url": "https://note.com/todd547/n/nf06d432f2d9b",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検証の精度を上げたいなら、値そのものだけでなく、「その値がいつ公表され、後からどう改定されたか」も記録しておく必要があります",
+    "url": "https://note.com/todd547/n/nf06d432f2d9b",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統計は、発表時点で利用できる資料や回答をもとに推計されます",
+    "url": "https://note.com/todd547/n/nf06d432f2d9b",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "米国の雇用統計では、雇用者数の月次推計が最初の発表後に2回改定され、その後も年次のベンチマーク改定が行われます",
+    "url": "https://note.com/todd547/n/nf06d432f2d9b",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "米国のGDPも、速報値、改定値、確報に相当する複数の推計が順次公表されます",
+    "url": "https://note.com/todd547/n/nf06d432f2d9b",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "過去の発表日に売買するルールを検証するなら、その時点で利用できたのは初回値です",
+    "url": "https://note.com/todd547/n/nf06d432f2d9b",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "初回発表、2回目の推計、年次改定後など、どの版を使っているか",
+    "url": "https://note.com/todd547/n/nf06d432f2d9b",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "過去の売買検証に使う場合、当時まだ公表されていなかった情報が含まれる可能性も指摘してください",
+    "url": "https://note.com/todd547/n/nf06d432f2d9b",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "当時版のデータが取れない場合は、その期間を検証対象から外すか、現行データを用いた参考分析として区別します",
+    "url": "https://note.com/todd547/n/nf06d432f2d9b",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場ごとの反応は、別に検証する",
+    "url": "https://note.com/todd547/n/nf06d432f2d9b",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まずは「指標の初回値と改定値を分ける」「当時の市場予想を使う」「公表後の価格で検証する」というデータの土台を整えます",
+    "url": "https://note.com/todd547/n/nf06d432f2d9b",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一方、過去の発表を使った売買検証では、最新版が当時の情報だったとは限りません",
+    "url": "https://note.com/todd547/n/nf06d432f2d9b",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここを確かめることが、検証を現実に近づける第一歩です",
+    "url": "https://note.com/todd547/n/nf06d432f2d9b",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "過去の採用バイアス（性別・学歴等）の再生産、同意なきデータ利用（2019年リクナビ問題）ハルシネーション、プロンプト依存による出力の画一化（「優等生的で個性がないES」）求職者AIと企業AIの「AI対AI」化、Web面接でのリアルタイムAIカンニング・ディープフェイクなりすまし、サイレント辞退",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 面接中にAIアシスタント（Claude Code / Copilot等）の使用を公式に許可し、「AIを使っていかに高度な設計を行い、AIの誤りをどう検証・修正できるか」という実務協働能力を直接評価する",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 自動雇用決定ツール（AEDT）に対する年1回の独立第三者バイアス監査・結果公表・10営業日前の事前通知を義務化（ただし2025年12月のNY州会計監査官報告で行政側の執行体制の不備も指摘され、実効性強化が議論されている）",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "<br>・代わりにAI面接・対人面接での**「なぜそう判断したか」「失敗時にどう動いたか」という多段階の深掘り質問と設問間の一貫性チェック**へ移行",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Metaが2025年10月から導入した「AI-enabled coding interview」のように、選考中にGPTやClaude等の利用を公式に認めたうえで、「AIに何を任せ、AIが出した誤りや浅い出力にどう気づいて修正し、最終品質を担保できるか」という",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "は例年約2万件のエントリーと職種別12コース化に伴う面接官バイアスを解消するため、一次面接をAI面接に完全移行（工数97%削減、選考対象者最大20%拡大） [SRC-076]",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "）で「失敗を恐れず挑戦（34.3%）」「丁寧な指導（50.1%）」が過去最高、「厳しい指導を求める（24.0%）」も3年連続上昇する一方、",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自ら転職市場をくぐり抜け、他社比較の視点を持つ外部人材をマネジメント層に注入することで、生え抜き組織の認知バイアスを打破しようとしているのである",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「AIよりも精度が低くバイアスだらけの昭和・平成初期面接」と「早期離職（入社半年で転職意向6割）」**を再生産してしまう",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「AI書類の罠」の回避と構造化深掘り面接対策",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": AIで整えた職務経歴書・ESは面接官（およびAI面接官）から「なぜその行動をとったのか」「失敗したときどう修正したか」と徹底的に深掘りされるため、借り物の言葉を排し、自分の言葉と一次エピソードに落とし込む対話訓練",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "エージェントが長い手順を維持し、ツールを使い、誤りから復帰する改善は、採用業務の連結に技術的な背景を与える",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "改訂値の注意：13% → 16% → 19%を一本の連続系列にしない",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従って2025年の一時的な逆転を「転職の賃金メリットが永久に消滅した」と読むのは誤りである",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "当時のアルゴリズムが神経多様な候補者等に対するバイアスを持つことが批判された事例であり、欧州ではその後の規制設計（AI Act第5条の感情認識禁止）の教訓となった [src-008][src-009][src-010]",
+    "url": "https://note.com/jack4manastalk/n/n880406135053",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Table 5 Median Unbiased versus Maximum Likelihood",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimates of gλ we obtained by applying the median unbiased estimation approach of",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "them with the median unbiased approach of Stock and Watson. With those coefficients",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Based on this comparison of MLE and medi an unbiased estimates of the variance",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "median unbiased variance estimator to obtain estimates of the variance of shocks to",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Watson median-unbiased estimat es. With larger point estimates obtained using",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "maximum likelihood than using median-unbiased estimation techniques, the downward-",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "bias motivation for using the latter techniques is questionable.",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Table 5: Median Unbiased versus Maximum Likelihood Estimates of ησ and rσ ,",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1. The results reported in the Median Unbiased columns are based on the model estimates reported in the paper",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the Stock-Watson median unbiased method and the remaining parameters by maximum likelihood.",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Stock, J. and M. Watson 1998. Median Unbiased Estimation Of Coefficient Variance In",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "June 2003 Bidder Behavior in Repo Auctions Tobias Linzert",
+    "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "（メモ）AI面接とAIエージェントの普及による、新卒採用・転職市場の変化（日・米・欧・中）｜jack4andMana'sTalk",
@@ -1179,7 +1179,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/scramblecity2020/n/n08c3b44e1065",
+    "url": "https://note.com/huge_kamaitachi/n/n84b6437c1552",
     "status": "ok",
     "method": "http"
    },
@@ -1194,12 +1194,17 @@
     "method": "pdf"
    },
    {
+    "url": "https://www.stat.go.jp/data/cti/pdf/kaitei_201812.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://note.com/good_poppy696/n/n5a548ce40e91",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.stat.go.jp/data/cti/pdf/kaitei_201812.pdf",
+    "url": "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -1209,12 +1214,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
+    "url": "https://otexts.com/fppjp/toolbox.html#sec-residuals",
     "status": "ok",
     "method": "http"
    },
@@ -1291,7 +1291,7 @@
    {
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5464762/",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://www.bundesbank.de/resource/blob/703212/d37c372354c6274a0d783e36dcec0dd7/mL/2004-11-03-dkp-32-data.pdf",
@@ -1318,9 +1318,9 @@
     "https://note.com/umaki11/n/n6a2ddf106cab",
     "https://note.com/bearcapital/n/n4f3d135558b3",
     "https://note.com/taotao_marudora/n/n2647aa6a0dc1",
-    "https://note.com/scramblecity2020/n/n08c3b44e1065",
-    "https://note.com/kabu_memo_1114/n/ne936fe5a7fd3",
     "https://note.com/huge_kamaitachi/n/n84b6437c1552",
+    "https://note.com/kabu_memo_1114/n/ne936fe5a7fd3",
+    "https://note.com/scramblecity2020/n/n08c3b44e1065",
     "https://note.com/suzacque/n/n24733c14397e",
     "https://note.com/konkon4192/n/nc04b0ed3a10f",
     "https://note.com/4444_happy/n/n80173ebed63a"
@@ -1330,15 +1330,15 @@
    "query": "統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方 note",
    "results": [
     "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
-    "https://note.com/good_poppy696/n/n5a548ce40e91",
     "https://www.stat.go.jp/data/cti/pdf/kaitei_201812.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/data/sna_ronbun/pdf/sna_ronbun017.pdf",
+    "https://note.com/good_poppy696/n/n5a548ce40e91",
     "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
-    "https://note.com/todd547/n/nf06d432f2d9b",
+    "https://www.esri.cao.go.jp/jp/sna/data/sna_ronbun/pdf/sna_ronbun017.pdf",
     "https://otexts.com/fppjp/residuals.html",
+    "https://note.com/todd547/n/nf06d432f2d9b",
     "https://bellcurve.jp/statistics/course/9704.html",
-    "https://lab.ludashi.com/evaluation/article/59",
-    "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/qa10.html"
+    "https://smart-worklab.com/record-revised-statistics-series-version/",
+    "https://www.microsoft.com/en-us/"
    ]
   },
   {
@@ -1352,8 +1352,7 @@
     "https://bellcurve.jp/statistics/course/12933.html",
     "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
     "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198106.htm",
-    "https://otexts.com/fppjp/residuals.html",
-    "https://jp-reports.com/ja/articles/01KYZ2CT4REVMYEAZV1ANJ3P88/"
+    "https://otexts.com/fppjp/residuals.html"
    ]
   },
   {
@@ -1368,7 +1367,7 @@
     "https://www.nikkei.com/article/DGKKZO06754130R00C16A9KE8000/",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://teikyo-tarc.jp/wp/wp-content/uploads/2023/12/TSPH23_%E5%8C%BB%E5%AD%A6%E7%B5%B1%E8%A8%88%E5%8B%89%E5%BC%B7%E4%BC%9A_%E7%AC%AC8%E5%9B%9E%E7%B6%99%E6%99%82%E7%9A%84%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%97%E6%B8%AC%E5%AE%9A%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E8%A7%A3%E6%9E%90_231220.pdf",
-    "https://jp-reports.com/ja/articles/01KYZ2CT4REVMYEAZV1ANJ3P88/"
+    "https://jobs.cdc.gov/"
    ]
   },
   {
@@ -1383,56 +1382,54 @@
     "https://variancejournal.org/article/25287-a-simple-method-for-modeling-changes-over-time",
     "https://en.wikipedia.org/wiki/Time_series",
     "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013709",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/"
+    "https://www.realtor.com/"
    ]
   },
   {
    "query": "site:note.com 統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方",
    "results": [
-    "https://note.com/ai_soubashi_gin/n/n097532021b7a",
-    "https://note.com/good_poppy696/n/n5a548ce40e91",
-    "https://note.com/data_pn/n/n3a33a9120a47",
-    "https://note.com/todobuono/n/n5a514ba6467a",
-    "https://note.com/paoyou/n/n2a61b08f351c",
-    "https://note.com/zz08/n/n572465a74dfa",
-    "https://note.com/good_poppy696/n/n51c7e41d15ce"
+    "https://forum.wordreference.com/threads/télécharger-sur-depuis-à-partir-de-ce-site.2025980/",
+    "https://forum.wordreference.com/threads/as-being-mostly-black-and-swarthy.3209713/",
+    "https://forum.wordreference.com/threads/passe-partout-marie-louise-cadre.2151102/",
+    "https://forum.wordreference.com/threads/social-klutz.3297969/",
+    "https://forum.wordreference.com/threads/swarthy.561515/?hl=es",
+    "https://forum.wordreference.com/threads/she-was-dark-and-her-skin-was-swarthy.2414879/",
+    "https://forum.wordreference.com/threads/morena-negra-swarthy-tanned-tan-black.2650116/",
+    "https://forum.wordreference.com/threads/كيف-kief-kiffen-Кайф.2765422/",
+    "https://forum.wordreference.com/threads/elle-devrait-être-participe-passé.204161/",
+    "https://forum.wordreference.com/threads/no-me-sale-de-los-huevos.2057176/"
    ]
   },
   {
    "query": "site:x.com 統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方",
    "results": [
-    "https://x.com/Bank_of_Japan_j/status/1938384382907339127",
-    "https://x.com/tsurezure_lab/status/2053956904372806106",
-    "https://x.com/Yoshihiko_ICKW/status/2024167988946227460",
-    "https://x.com/genkuroki/status/2100760257098309812",
-    "https://x.com/MOF_Japan/status/2054423460231913492",
-    "https://x.com/Twit1020taro/status/2053459645784818170",
-    "https://x.com/MOF_Japan/status/2046799023903027556"
+    "https://bryantbulldogs.com/news/2024/10/14/mens-basketball-basketball-single-game-tickets-on-sale.aspx",
+    "https://bryantbulldogs.com/sports/womens-basketball",
+    "https://bryantbulldogs.com/sports/womens-basketball/roster",
+    "https://bryantbulldogs.com/sports/womens-basketball/coaches",
+    "https://bryantbulldogs.com/sports/womens-basketball/schedule/2025-26",
+    "https://bryantbulldogs.com/staff-directory",
+    "https://bryantbulldogs.com/sports/2024/5/20/bryant-university-basketball-camps.aspx",
+    "https://bryantbulldogs.com/sports/womens-basketball/roster/mia-mancini/18536",
+    "https://bryantbulldogs.com/sports/womens-soccer/roster",
+    "https://bryantbulldogs.com/sports/womens-basketball/stats"
    ]
   },
   {
    "query": "site:linkedin.com 統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方",
    "results": [
-    "https://www.linkedin.com/company/tickbig",
-    "https://jp.linkedin.com/",
-    "https://jp.linkedin.com/pulse/concise-basic-stats-series-part-xi-introduction-time-fonseca-aefse?tl=ja",
-    "https://jp.linkedin.com/pulse/statistical-characteristics-time-series-comprehensive-fatma-al-ajmi-beigf?tl=ja",
-    "https://jp.linkedin.com/pulse/mastering-time-series-analysis-from-scratch-data-anello-marcucci-z8pbf?tl=ja",
-    "https://jp.linkedin.com/posts/健司-沢味-5b7111302_ssbj基準と改訂版esrsの同時対応を見据えたghg排出量の報告境界の設定-activity-7440345080655388672-WJVq",
-    "https://jp.linkedin.com/posts/紗織-山中-5b962136a_ssbj基準と改訂版esrsの同時対応を見据えたghg排出量の報告境界の設定-activity-7445024206548856832-Oxma"
+    "https://www.linkedin.com/in/ethan-ayersman-579b65264",
+    "https://www.facebook.com/whionews/posts/university-officials-said-a-22-year-old-man-has-been-arrested/1408340894811708/",
+    "https://ohio.arrests.org/Montgomery/2026/September/14/",
+    "https://recordsfinder.com/inmate-search/",
+    "https://www.facebook.com/montgomerycountyohmugshots/posts/wowname-ayersman-ethan-anselbooking-date-9142026charges-abdction-rpearrest-agenc/1080961264914659/",
+    "https://recentlybooked.com/oh/montgomery",
+    "https://www.instagram.com/ethanayersman46/"
    ]
   },
   {
    "query": "site:facebook.com 統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方",
-   "results": [
-    "https://www.facebook.com/naganokentokei/",
-    "https://www.facebook.com/jaia.official/posts/統計情報2025年度-輸入車新規登録台数速報当組合は本日2025年度の輸入車新規登録台数速報を発表致しました概況は以下の通りです外国メーカー車は前年度比34増の/1721801775832728/",
-    "https://www.facebook.com/office.oshima/posts/人口動態統計速報令和７年７月分-速報全体版を見たい場合は印刷用資料のpdfファイルをご覧ください-httpswwwmhlwgojptoukeisaikinhwj/1209752114526797/",
-    "https://www.facebook.com/kanagawa.tokei.ch/posts/令和７年度神奈川県学校基本統計速報の概要学校基本調査の結果速報-学校基本調査は学校数在学者数及び教員数等の学校に関する基本的な事項を明らかにするため毎年５月１日/1157864949709096/",
-    "https://www.facebook.com/superkyokai/posts/スーパーマーケット統計調査2025年4月実績速報を公表しました総売上高前年同月比は全店1051-既存店103726ヵ月連続プラス前月に続き米の高騰が牽引値ごろ感/1522695245620232/",
-    "https://www.facebook.com/nikkei/posts/大阪府人口30年ぶり880万人割れ-25年国勢調査速報値/1524769365661127/",
-    "https://www.facebook.com/mextjapan/posts/学習指導要領の改訂に向けた基本的な方向性学校では学習指導要領をもとに学習の目標や内容を定めており学習指導要領はおよそ10年に一度改訂されています令和6年12月の/1346812897481854/"
-   ]
+   "results": []
   },
   {
    "query": "統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方 note 社長",
@@ -1456,12 +1453,12 @@
     "https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/gaiyou/pdf/note_j.pdf",
     "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
     "https://www.stat.go.jp/data/cti/pdf/kaitei_201812.pdf",
+    "https://bellcurve.jp/statistics/course/18948.html",
     "https://smart-analytics.jp/learning/statistics-entry/statistics-entry-002/",
     "https://officekaisuiyoku.com/20220502-2/",
-    "https://bellcurve.jp/statistics/course/18948.html",
-    "https://www.emuyn.net/stats/lecture/asa_statement",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.soumu.go.jp/main_content/000808714.pdf"
+    "https://www.customs.go.jp/toukei/sankou/teisei/index.htm",
+    "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/qa10.html"
    ]
   },
   {
@@ -1475,146 +1472,13 @@
     "https://www.linkedin.com/in/max-kuhn-864a9110",
     "https://www.linkedin.com/posts/richard-hahn-a1096050_statistical-modeling-is-like-martial-arts-activity-7435069238358470656-XhdX",
     "https://uk.linkedin.com/in/diogo-ribeiro-9094604a",
-    "https://www.linkedin.com/pulse/what-traders-should-know-seasonal-adjustment-ralph-sueppel",
-    "https://in.linkedin.com/in/vibhutijenny"
+    "https://in.linkedin.com/in/vibhutijenny",
+    "https://pk.linkedin.com/in/junaidiqbalhashmi3453"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {
-  "突き合わせ・推定": [
-   {
-    "quote": "過去の相場をAIで検証するとき、「今の経済データ」だけでは足りない｜decoy",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "過去の相場をAIで検証するとき、「今の経済データ」だけでは足りない",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検証の精度を上げたいなら、値そのものだけでなく、「その値がいつ公表され、後からどう改定されたか」も記録しておく必要があります",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統計は、発表時点で利用できる資料や回答をもとに推計されます",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "米国の雇用統計では、雇用者数の月次推計が最初の発表後に2回改定され、その後も年次のベンチマーク改定が行われます",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "米国のGDPも、速報値、改定値、確報に相当する複数の推計が順次公表されます",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "過去の発表日に売買するルールを検証するなら、その時点で利用できたのは初回値です",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "初回発表、2回目の推計、年次改定後など、どの版を使っているか",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "過去の売買検証に使う場合、当時まだ公表されていなかった情報が含まれる可能性も指摘してください",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "当時版のデータが取れない場合は、その期間を検証対象から外すか、現行データを用いた参考分析として区別します",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "市場ごとの反応は、別に検証する",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まずは「指標の初回値と改定値を分ける」「当時の市場予想を使う」「公表後の価格で検証する」というデータの土台を整えます",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一方、過去の発表を使った売買検証では、最新版が当時の情報だったとは限りません",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここを確かめることが、検証を現実に近づける第一歩です",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "米国の統計なら、当時の公表値を記録したデータベースを使う方法もあります",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "統計は、発表時点で利用できる資料や回答をもとに推計されます",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "米国の雇用統計では、雇用者数の月次推計が最初の発表後に2回改定され、その後も年次のベンチマーク改定が行われます",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "たとえば、ある雇用統計の初回発表が市場予想を下回り、その後の改定で数値が上方修正されたとします",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "GDPや雇用統計を使うモデルだけの話でもありません",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AIが「不明」と返した項目を、別の統計表や最新版で埋めて済ませないことが重要です",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "米国の統計なら、当時の公表値を記録したデータベースを使う方法もあります",
-    "url": "https://note.com/todd547/n/nf06d432f2d9b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ]
- },
- "runs": 3,
+ "new_this_run": {},
+ "runs": 4,
  "first_researched_at": "2026-11-05T15:57:31.673303+00:00"
 }

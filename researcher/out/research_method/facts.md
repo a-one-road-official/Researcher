@@ -3664,11 +3664,11 @@
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
-- 手順・やり方：記載なし（読んだ12頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
-- 実例：記載なし（読んだ12頁・検索12回）
+- 手順・やり方：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
 
 ## Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）（main content extraction boilerplate removal related articles scraping）
 - 文脈：
@@ -4500,10 +4500,26 @@
   - 「ルールが増えるほど管理コストが上昇し、矛盾するルールが生まれるリスクも高まります」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
   - 「複合キーを使う場合はCONCATENATE関数（または&演算子）で複数項目を結合した照合キーを生成し、条件付き書式で重複箇所を色分けして可視化すると確認作業が効率化されます」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
   - 「一致ルールで照合するフィールドと一致条件（完全一致・部分一致など）を定義し、重複ルールでその結果に対してアラートを出すか自動ブロックするかを設定します」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「更新日時、入力経路、活動履歴を並べ、矛盾しない値は統合し、矛盾する値はデータオーナーの判断へ回すルールに分けます」（https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide）
+  - 「表示用の正式名称と、照合に使う正規化済みの値は分けて持つと運用しやすくなります」（https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide）
+  - 「重複の発生源がフォームなら入力項目を見直し、CSVインポートなら照合キーとマッピングを修正し、手動入力なら必須項目とヘルプテキストを調整します」（https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide）
+  - 「結果が変わらなければ、発生源の仮説を見直し、別の入力経路や更新処理を調べます」（https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide）
 - 一次情報の探し方：
   - 「法人番号は国税庁長官が法人等（設立登記法人・国の機関・地方公共団体など）に対して1つ指定する13桁の識別番号であり、企業名や所在地が変更されても番号自体は変わりません」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
   - 「最新日付優先は更新日時が新しいレコードの値を採用する方式で、最新情報を維持したい項目（電話番号・住所など）に適しています」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
   - 「需要予測モデルの種類と選び方｜統計・機械学習の使い分けを解説」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「判断基準を管理し、例外が出たときにどのルールを採用するかを決め、次回の監査へ反映する役割です」（https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide）
+  - 「Step 1: Profiling Join Keys Before You Merge」（https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas）
+  - 「the merge. A few minutes of profiling prevents hours of debugging.」（https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas）
+  - 「This is related to a broader practice of profiling datasets before you work with them, which is covered in depth in」（https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas）
+  - 「Validating and Profiling a New Dataset with pandas」（https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas）
+  - 「Sampling for key profiling:」（https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas）
+  - 「# For a 10M row DataFrame, sample 100K rows for key profiling」（https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas）
+  - 「Profiling Entity Matching Benchmark Tasks」（https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf）
+  - 「define a set of profiling dimensions which capture central aspects」（https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf）
+  - 「download. By profiling and complementing the benchmark tasks,」（https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf）
+  - 「entity matching; benchmarking; profiling; reproducibility; baseline」（https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf）
+  - 「Anna Primpeli and Christian Bizer. 2020. Profiling Entity Matching Bench-」（https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf）
 - 失敗・落とし穴：
   - 「本記事では、名寄せロジックの基本構造から、企業・個人・ECデータ別のキー設計、アルゴリズムの選び方、Excelや専用ツールを使った実装手順、そして運用でよく起きる失敗とその回避策まで、実務に直結する内容を順に整理しています」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
   - 「名寄せの実装経験がある担当者でも、同じ失敗パターンに繰り返し陥ることがあります」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
@@ -4514,6 +4530,10 @@
   - 「失敗4：一度きりの名寄せで終わり新規データの重複が再発する」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
   - 「この記事では、名寄せロジックを構成するキー・判定ルール・アルゴリズムの3要素から始まり、データ種別ごとのキー設計、アルゴリズムの選び方、4ステップの実装手順、そして運用でよく起きる失敗パターンまでを整理しました」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
   - 「需要予測AIとは？仕組み・導入メリット・失敗しない5ステップを解説」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「人の注意力ではなく、引き継げる仕組みで品質を保つことが重要です」（https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide）
+  - 「入力項目を必要な範囲に絞り、正規化、候補抽出、監査までを連携させると、担当者の注意力に依存しにくい運用になります」（https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide）
+  - 「Common Mistakes & Troubleshooting」（https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas）
+  - 「matching pairs within each block. To avoid selection bias, we add」（https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf）
 - 実例：
   - 「名寄せの必要性は感じていても、「どの項目をキーにすればいいのか」「判定ルールをどう設計するのか」という具体的な手順が見えず、作業が止まっているケースは少なくありません」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
   - 「判定ルールとは、キー同士の比較結果をどの条件で「同一」と見なすかを定義するものです」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
