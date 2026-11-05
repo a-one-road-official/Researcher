@@ -137,13 +137,34 @@ def src_key(r):
     """独立性の単位。調査会社レポートはまとめて1つの出どころとして数える。"""
     return "調査会社" if r["一次"] == "調査会社" else r["出典"]
 
+# 2026-11-05 4-23：こだまの判定（skillmd source-triangulation：独立は媒体の数でなく方法・データの違い。
+# 「独立」のはずの出どころが同じ数字を一字一句同じに持つのは、1つの元を写した指紋）。
+# 一次でない出どころどうしで値がぴったり同じなら、同じ元の写しとして1つに束ねる。一次は元そのものなのでホストで数える。
+def indep_key(r):
+    return src_key(r) if r["一次"] == "一次" else ("同じ値", r["値"])
+
+def echoes(g):
+    """一次でない2か所以上が同じ値を持つ値の一覧（値→ホスト数）。"""
+    hv = {}
+    for r in g:
+        if r["一次"] != "一次": hv.setdefault(r["値"], set()).add(src_key(r))
+    return {v: len(h) for v, h in hv.items() if len(h) >= 2}
+
+# 2026-11-05 4-23：確度に見合った書き方（skillmd：裏付けあり→出典つきで言い切る／1か所→文中で出どころを名指し／食い違い→幅を両方の出典で／裏の取れないもの→使わない）
+def phrasing(gr, g):
+    hosts = sorted({r["出典"] for r in g if r["出典"]})
+    if gr == "【裏付けあり】": return "出典を付けて言い切ってよい"
+    if gr == "【食い違い】": return "幅で書き、両端の出典を並べる（どちらか1つを言い切らない）"
+    if len(hosts) == 1: return f"「{hosts[0]}によると」と出どころを文中に名指しする（1か所だけ）"
+    return "出どころを名指しし【未確認】と書く。結論の根拠にしない"
+
 def grade(g):
-    """確度4段階。METHOD.md 4-1／4-5（調査会社は束ねて1件、予測値は事実の裏付けにしない）。"""
+    """確度4段階。METHOD.md 4-1／4-5（調査会社は束ねて1件、予測値は事実の裏付けにしない）／4-23（同じ値の写しは1件）。"""
     g = [r for r in g if not r.get("予測")] or g
     doms = {src_key(r) for r in g}
     vals = sorted(r["値"] for r in g)
     med = statistics.median(vals)
-    near = {src_key(r) for r in g if med and abs(r["値"] - med) <= 0.2 * abs(med)}
+    near = {indep_key(r) for r in g if med and abs(r["値"] - med) <= 0.2 * abs(med)}
     if len(near) >= 2: return "【裏付けあり】"
     if vals and vals[0] > 0 and vals[-1] / vals[0] > 3 and len(doms) >= 2: return "【食い違い】"
     if any(r["一次"] == "一次" for r in g): return "【一次で確認】"
@@ -183,6 +204,7 @@ def scan(topic):
     md += [f"- 要確認（文脈不明か年が無い）：{nhold}件／{len(rows)}件。この数字は結論に使う前に引用の本文で確かめる", ""]
     by_item = {}
     for r in rows: by_item.setdefault(r["品目"], []).append(r)
+    thin = []  # 4-23：主張×独立の出どころの表（theosintvault の validation matrix）で、出どころ1か所の欄を最後に並べる
     for item, rs in sorted(by_item.items()):
         md.append(f"## {item}")
         groups = {}
@@ -201,6 +223,10 @@ def scan(topic):
             fut = [r for r in g if r["予測"]]
             gr = grade(g)
             md.append(f"- {gr} {cat}［{ctx}］（{u}）：{len(g)}件・一次{len(prim)}件・出典{len({src_key(r) for r in g})}か所（調査会社は1つに束ねる）・予測値{len(fut)}件、幅 {lo:g}〜{hi:g}（食い違い{spread}）")
+            md.append(f"  - 書き方（4-23）：{phrasing(gr, g)}")
+            ec = echoes(g)
+            if ec: md.append("  - ⚠ 写しの疑い（一次でない別々の出どころが同じ値をぴったり持つ。1件に束ねて数えた）：" + "、".join(f"{v:g}{u}が{n}か所" for v, n in sorted(ec.items())[:5]) + "。元（統計・開示・調査）までたどる")
+            if len({src_key(r) for r in g}) == 1: thin.append(f"{item}｜{cat}［{ctx}］")
             pk = pick(g)
             if pk:
                 py, pv, pn, pd = pk
@@ -258,6 +284,7 @@ def scan(topic):
         try: names.add(json.load(open(f, encoding="utf-8")).get("name", ""))
         except Exception: pass
     empty = sorted(n for n in names - set(by_item) if n)
+    md += ["## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）", *(f"- {t}" for t in thin or ["（なし）"]), ""]
     md += ["## 数字が1つも取れなかった品目（範囲の明示）", *(f"- {n}" for n in empty or ["（なし）"]), ""]
     open(os.path.join(OUT, topic, "scan_auto.md"), "w", encoding="utf-8").write("\n".join(md))
     return len(rows)
