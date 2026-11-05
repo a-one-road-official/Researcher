@@ -8,65 +8,17 @@
  ],
  "context": "突き合わせ・推定",
  "kind": "market",
- "researched_at": "2026-11-05T20:10:29.335198+00:00",
+ "researched_at": "2026-11-05T22:42:15.382516+00:00",
  "evidence": {
-  "実例": [
+  "一次情報の探し方": [
    {
-    "quote": "no piece of information is normally of great value on its own. When first received it is like a sentence without its context. Signal intelligence for example, in its raw state is seldom intelligible on its own to anyone but the expert who extracts it or deciphers it… it cannot be read and understood, even when translated, in isolation",
-    "url": "https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "support-example.example.com",
+    "quote": "Filing history and accounts consistent",
     "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "carrowmere.example.com",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Run the work inside a Case in Forensic Mode so the search history and bookmarks sit with the grades. A reviewer can then see which search produced which graded item.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "@example_handle_support",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "secure-pay.example.org",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "An AML analyst at a payments firm reviews an incoming transfer from a wallet the customer says belongs to their trading company, Example Trading Ltd. A crypto forum post from an unknown account claims the same wallet belongs to an unrelated group.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The customer's claim is upgraded to C1 (confirmed by the company's own long-standing publication and an independent attribution). The forum claim drops to F5. The analyst records both, with dates, and closes the review with a note in the Case. Our",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Information ages. A B1 record of a company's directors from 2023 is good history and possibly stale fact. Add a \"valid as of\" date to every graded item and re-check anything older than your case's decision window.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Collect only what the question needs, record the lawful basis for the research, and keep graded data no longer than the case requires. Respect platform terms when you gather material. Where an item grades low, say so plainly and do not let it drive a decision about an individual on its own. And treat every automated or AI-assisted grade as a suggestion that an analyst confirms and signs.",
+    "quote": "Register shows active status and recent filing",
     "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -78,44 +30,8 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "OSINT investigation guides, case studies and tooling deep-dives from the UserSearch team.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Here are some examples of Admiralty Code ratings and subsequent actions to be taken:",
+    "quote": "How close was the source to the information it is reporting? Primary sources that have direct knowledge are generally more reliable than secondary sources that are passing along information.",
     "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, a rating of",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "IntelTechniques Workbook / Casefile",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Case Study: Misidentification in the Boston Marathon Bombing",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The 2013 Boston Marathon bombing provides a powerful example of how poor OSINT evaluation can lead to serious consequences. In the immediate aftermath of the attack, online communities – particularly Reddit – attempted to crowdsource intelligence to help identify the perpetrators.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This case shows that while open source intelligence can be powerful, it must be used responsibly. Without evaluation, it’s just noise – and in high-stakes situations, that noise can do real damage.",
-    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -344,15 +260,63 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "一次情報の探し方": [
+  "実例": [
    {
-    "quote": "Filing history and accounts consistent",
+    "quote": "no piece of information is normally of great value on its own. When first received it is like a sentence without its context. Signal intelligence for example, in its raw state is seldom intelligible on its own to anyone but the expert who extracts it or deciphers it… it cannot be read and understood, even when translated, in isolation",
+    "url": "https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "support-example.example.com",
     "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Register shows active status and recent filing",
+    "quote": "carrowmere.example.com",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Run the work inside a Case in Forensic Mode so the search history and bookmarks sit with the grades. A reviewer can then see which search produced which graded item.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "@example_handle_support",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "secure-pay.example.org",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "An AML analyst at a payments firm reviews an incoming transfer from a wallet the customer says belongs to their trading company, Example Trading Ltd. A crypto forum post from an unknown account claims the same wallet belongs to an unrelated group.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The customer's claim is upgraded to C1 (confirmed by the company's own long-standing publication and an independent attribution). The forum claim drops to F5. The analyst records both, with dates, and closes the review with a note in the Case. Our",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Information ages. A B1 record of a company's directors from 2023 is good history and possibly stale fact. Add a \"valid as of\" date to every graded item and re-check anything older than your case's decision window.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Collect only what the question needs, record the lawful basis for the research, and keep graded data no longer than the case requires. Respect platform terms when you gather material. Where an item grades low, say so plainly and do not let it drive a decision about an individual on its own. And treat every automated or AI-assisted grade as a suggestion that an analyst confirms and signs.",
     "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -364,8 +328,44 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "How close was the source to the information it is reporting? Primary sources that have direct knowledge are generally more reliable than secondary sources that are passing along information.",
+    "quote": "OSINT investigation guides, case studies and tooling deep-dives from the UserSearch team.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Here are some examples of Admiralty Code ratings and subsequent actions to be taken:",
     "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, a rating of",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IntelTechniques Workbook / Casefile",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Case Study: Misidentification in the Boston Marathon Bombing",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The 2013 Boston Marathon bombing provides a powerful example of how poor OSINT evaluation can lead to serious consequences. In the immediate aftermath of the attack, online communities – particularly Reddit – attempted to crowdsource intelligence to help identify the perpetrators.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This case shows that while open source intelligence can be powerful, it must be used responsibly. Without evaluation, it’s just noise – and in high-stakes situations, that noise can do real damage.",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -493,12 +493,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/yama_note_365/n/n83fb14e8bce1",
+    "url": "https://note.com/poncorocoro/n/n591851fd08c3",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/poncorocoro/n/n591851fd08c3",
+    "url": "https://note.com/yama_note_365/n/n83fb14e8bce1",
     "status": "ok",
     "method": "http"
    },
@@ -508,13 +508,13 @@
     "method": "http"
    },
    {
-    "url": "https://conservationcriminology.com/wp-content/uploads/2019/09/6x6-Admiralty-System.pdf",
-    "status": "network_error:ConnectTimeout",
+    "url": "https://www.neco.navy.mil/necoattach/N0010426QBZ63.pdf",
+    "status": "network_error:SSLError",
     "method": "pdf"
    },
    {
-    "url": "https://www.neco.navy.mil/necoattach/N0010427QTA06.pdf",
-    "status": "network_error:SSLError",
+    "url": "https://conservationcriminology.com/wp-content/uploads/2019/09/6x6-Admiralty-System.pdf",
+    "status": "network_error:ConnectTimeout",
     "method": "pdf"
    },
    {
@@ -538,12 +538,17 @@
     "method": "http"
    },
    {
+    "url": "https://www.neco.navy.mil/necoattach/N0010426QYAFY0001.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
     "url": "https://www.blueprism.com/japan/resources/white-papers/p2/?id=4824121",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.iadb.org/ja/viewer/EZSHARE-1297313478-23",
+    "url": "https://ezws.iadb.org/getdocument?docnum=EZSHARE-1297313478-23",
     "status": "ok",
     "method": "http"
    },
@@ -555,11 +560,6 @@
    {
     "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.worldoftest.com/ja/print/pdf/node/6768",
-    "status": "http_403",
     "method": "http"
    },
    {
@@ -603,12 +603,12 @@
     "method": "http"
    },
    {
-    "url": "https://en.wikipedia.org/wiki/Admiralty_code",
+    "url": "https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/",
+    "url": "https://en.wikipedia.org/wiki/Admiralty_code",
     "status": "ok",
     "method": "http"
    }
@@ -622,8 +622,8 @@
     "https://note.com/jpnca/n/n5bed3a92cb08",
     "https://note.com/poncorocoro/n/nd71662d63db8",
     "https://note.com/poncorocoro/n/n0c7829aee1af",
-    "https://note.com/yama_note_365/n/n83fb14e8bce1",
     "https://note.com/poncorocoro/n/n591851fd08c3",
+    "https://note.com/yama_note_365/n/n83fb14e8bce1",
     "https://note.com/poncorocoro/n/n40205124e2b9"
    ]
   },
@@ -631,8 +631,8 @@
    "query": "出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件） note",
    "results": [
     "https://pangearesearch.substack.com/p/the-admiralty-code-nato-6x6-system",
+    "https://www.neco.navy.mil/necoattach/N0010426QBZ63.pdf",
     "https://conservationcriminology.com/wp-content/uploads/2019/09/6x6-Admiralty-System.pdf",
-    "https://www.neco.navy.mil/necoattach/N0010427QTA06.pdf",
     "https://www.ignis.jp/node/427/revisions/21492/view/",
     "https://note.com/hashtag/NATO",
     "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary459.pdf",
@@ -646,7 +646,7 @@
    "results": [
     "https://pangearesearch.substack.com/p/the-admiralty-code-nato-6x6-system",
     "https://www.se.com/articles/ja/Knowledge/FA281446?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1",
-    "https://www.neco.navy.mil/necoattach/N0010427QTA06.pdf",
+    "https://www.neco.navy.mil/necoattach/N0010426QYAFY0001.pdf",
     "https://www.blueprism.com/japan/resources/white-papers/p2/?id=4824121",
     "https://www.iadb.org/ja/viewer/EZSHARE-1297313478-23",
     "https://www.ignis.jp/node/427/revisions/21492/view/",
@@ -665,7 +665,8 @@
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.blueprism.com/japan/resources/white-papers/p2/?id=4824121",
     "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_18.pdf",
-    "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary459.pdf"
+    "https://www.ignis.jp/node/427/revisions/21492/view/",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text"
    ]
   },
   {
@@ -676,8 +677,8 @@
     "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
     "https://anticitizenone.medium.com/source-reliability-grading-and-analysis-483eeb57df1a",
     "https://pangearesearch.substack.com/p/the-admiralty-code-nato-6x6-system",
-    "https://en.wikipedia.org/wiki/Admiralty_code",
     "https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/",
+    "https://en.wikipedia.org/wiki/Admiralty_code",
     "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
     "https://kravensecurity.com/source-reliability-and-information-credibility/",
     "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/"
@@ -687,34 +688,37 @@
    "query": "site:note.com 出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件）",
    "results": [
     "https://note.com/poncorocoro/n/n444668066be4",
-    "https://note.com/jpnca/n/n5bed3a92cb08",
-    "https://note.com/poncorocoro/n/nd71662d63db8",
     "https://note.com/poncorocoro/n/n591851fd08c3",
+    "https://note.com/jpnca/n/n5bed3a92cb08",
     "https://note.com/poncorocoro/n/n0c7829aee1af",
-    "https://note.com/yama_note_365/n/n83fb14e8bce1",
+    "https://note.com/poncorocoro/n/nd71662d63db8",
+    "https://note.com/poncorocoro/n/n40205124e2b9",
     "https://note.com/ibdginza/n/n3b7073d4cae7"
    ]
   },
   {
    "query": "site:x.com 出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件）",
    "results": [
+    "https://x.com/russianblue2009/status/2042204253587190082",
     "https://x.com/grok/status/2113953616864145785",
-    "https://x.com/admiralty_code_",
+    "https://x.com/saltydog16411/status/1765587341857767840",
     "https://x.com/K_Ichida/status/2109057387998978372",
-    "https://x.com/HarryFurumura/status/2099314785573908526",
-    "https://x.com/JASDF_PAO/status/1158295719079366656",
     "https://x.com/grok/status/2098669509930267082",
-    "https://x.com/mutamana/status/2098031046625571167"
+    "https://x.com/Gonzale93184107/status/2104782468645527714",
+    "https://x.com/JASDF_PAO/status/1158295719079366656",
+    "https://x.com/tatsuki_nowave/status/2063891049161122218",
+    "https://x.com/takoyakibouzu/status/2100735856760004861",
+    "https://help.x.com/ja/managing-your-account/two-factor-authentication"
    ]
   },
   {
    "query": "site:linkedin.com 出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件）",
    "results": [
     "https://www.linkedin.com/posts/jessicastutzman_osint-opensourceintelligence-intelligenceanalysis-activity-7432120971609714688-IopK",
-    "https://www.linkedin.com/pulse/assessing-source-credibility-osint-applying-admiralty-matthias-wilson-chqif",
     "https://www.linkedin.com/posts/alwynswart-fulcrumanalytics_the-nato-admiralty-score-how-to-rate-your-activity-7421136893293068288-Q--Q",
+    "https://www.linkedin.com/pulse/assessing-source-credibility-osint-applying-admiralty-matthias-wilson-chqif",
+    "https://www.linkedin.com/posts/forensicosint_matthias-wilsonrecently-shared-a-practical-activity-7333477156246667266-FlIV",
     "https://www.linkedin.com/pulse/navigating-information-jungle-how-admiralty-code-can-your-jan-novák-qllrf",
-    "https://www.linkedin.com/posts/cosive_the-admiralty-system-nato-ajp-21-gives-activity-7307552088933183488-J1wr",
     "https://fr.linkedin.com/pulse/navigating-information-jungle-how-admiralty-code-can-your-jan-novák-qllrf?tl=fr",
     "https://jp.linkedin.com/pulse/navigating-information-jungle-how-admiralty-code-can-your-jan-novák-qllrf?tl=ja"
    ]
@@ -722,27 +726,27 @@
   {
    "query": "site:facebook.com 出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件）",
    "results": [
-    "https://www.facebook.com/Rinya.Watanabe/posts/iphone-と-ipad-が機密-nato-情報の取り扱いに承認されましたドイツ政府による厳格なセキュリティテストと広範な評価を経てiphone-と-ipad/3833355320301447/",
     "https://www.facebook.com/pressajp/posts/英スターマー首相わが国の情報機関および他のnato諸国の評価によれば早ければ2030年にもロシアがnatoを攻撃する可能性があるウクライナ戦争であれだけ損耗して/1545010880314794/",
+    "https://www.facebook.com/chaen.masahiro/videos/やらないと損claudecodeの能力を一瞬で何倍にも底上げする方法5分でできるchatgptcodex連携方法を徹底解説ai同士でコードレビュー開発資料作成リ/1293383932692424/",
     "https://www.facebook.com/M.Fudano/photos/ウクライナ紛争の概略ゼレンスキー氏は空爆されてもなぜ強気なのか米国主導のnato東方拡大は軍事的にも制度的にも進められておりプーチン大統領がそれを政治的な動きと/1585737852805606/",
     "https://www.facebook.com/pressajp/posts/ウォールストリートジャーナルがアメリカの情報機関の分析としてロシアのプーチン大統領がnatoの結束を試すためことしの秋から3年後の2029年にかけて加盟国を攻撃/1597618698387345/",
     "https://www.facebook.com/reel/2587588821653462/",
     "https://www.facebook.com/nihonmatsu/photos/ご指摘ありがとうございます重要な論点だと思いますただこの点については国連憲章の解釈と実務運用に整理が必要ですまず国連憲章51条は加盟国に限定しない形で自衛権を規/25216311174644424/",
-    "https://www.facebook.com/kaorusaitovoice/videos/番外-エルナザックの音域をスペクトラムで見てみようソプラノの歌手にとってモーツァルトの魔笛はf6が必要なためになかなか歌うのは難しいとされています動画は音声デー/789540261227760/"
+    "https://www.facebook.com/trans.nation.tours/posts/ブラーヌカントナックメドック格付け2級マルゴーマルゴー地区にありメドック格付け2級のシャトーブラーヌカントナックはボルドーで最も有名なワインの造り手一族であるリ/368430722609525/"
    ]
   },
   {
    "query": "出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件） note 社長",
    "results": [
-    "https://www.se.com/articles/ja/Knowledge/FA53475?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1",
-    "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.neco.navy.mil/necoattach/N0010426QDB51.pdf",
-    "https://www.iadb.org/ja/viewer/EZSHARE-1297313478-23",
+    "https://www.neco.navy.mil/necoattach/N0038326RMB04.pdf",
     "https://sentry-magazine.com/ja/%E6%88%A6%E7%95%A5%E7%9A%84%E5%8D%94%E5%8A%9B%E9%96%A2%E4%BF%82-%E3%81%AE%E5%BC%B7%E5%8C%96/",
-    "https://nhqc3s.hq.nato.int/apps/DCRA_Report/id-29d4122b072148f5aaf4882ecc5d963c/elements/id-af0a909f58aa45a09a8856d0bfe2384a.html",
+    "https://note.com/hirokimiyano/n/n5e0a5e1356e7",
+    "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/13733661",
     "https://www.youtube.com/watch?v=wemj_F_EtXI",
-    "https://note.com/hirokimiyano/n/n5e0a5e1356e7"
+    "https://nhqc3s.hq.nato.int/apps/DCRA_Report/id-29d4122b072148f5aaf4882ecc5d963c/elements/id-af0a909f58aa45a09a8856d0bfe2384a.html",
+    "https://www.ignis.jp/node/427/revisions/21492/view/",
+    "https://baike.baidu.com/ja/item/NATO%20reporting%20name/1558418"
    ]
   },
   {
@@ -771,7 +775,7 @@
     "https://www.linkedin.com/pulse/i-built-ai-powered-threat-intelligence-analyst-heres-what-ryan-sketch-tbike",
     "https://www.linkedin.com/pulse/solving-business-puzzle-open-source-intelligence-osint-tamara-erlij-nyetf",
     "https://www.linkedin.com/posts/oleg-ruchayskiy-9443554_research-integrity-tools-are-born-to-die-activity-7427311269902217216-ELPs",
-    "https://www.linkedin.com/posts/matthewlonsdaleofficial_most-analysts-i-know-were-never-taught-how-activity-7516698043006701568-Br85"
+    "https://www.linkedin.com/in/gretakwagner"
    ]
   }
  ],
@@ -779,6 +783,6 @@
   "突き合わせ・推定": "記載なし（読んだ28頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-05T09:11:14.119716+00:00"
 }

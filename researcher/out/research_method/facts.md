@@ -328,8 +328,8 @@
   - 「Real‑World Example: Turning a Vague Posting into a Winning Application」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
   - 「Insert concrete examples—e.g., “Led a cross‑functional team of 5 to deliver project X two weeks ahead of schedule.”」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
   - 「Add at least one quantified soft‑skill example.」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
-- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 統計（e-Stat・工業統計・経済センサス）の読み方と時系列の作り方（how to use Japanese government statistics time series）
 - 文脈：統計
@@ -2677,11 +2677,11 @@
 
 ## 出どころを元までたどり、こだまを束ねる（source triangulation・検証の表）（source triangulation trace to origin echo verbatim numbers validation matrix）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ12頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
-- 実例：記載なし（読んだ12頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## コンサルの調べ方（目的・予想の仮説・公益社団法人の調査報告）（consulting desk research hypothesis expected answer association reports）
 - 文脈：分析の型
@@ -3613,6 +3613,11 @@
   - 「期の区切りは前後の期末からの推定で、欠落した期を詰めずに軸上に空きを残して描きます」（https://kaijiwire.jp/guide/kessan-kokoku）
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「10 ACCOUNTING POLICIES, ESTIMATES AND ERRORS」（https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2025/issued/html-ifrs-for-smes.html）
+  - 「Accounting Policies, Estimates and Errors」（https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2025/issued/html-ifrs-for-smes.html）
+  - 「Amendment to introduce the definition of ‘accounting estimate’ to help entities distinguish changes in accounting estimates from changes in accounting policies (see」（https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2025/issued/html-ifrs-for-smes.html）
+  - 「An entity measures an asset or liability in order to recognise it. In many cases, an entity estimates this measurement and it is therefore subject to measurement uncertainty. Using estimates is an essential part of preparing financial information and does not undermine the usefulness of the information if an entity clearly and accurately describes and explains the estimates.」（https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2025/issued/html-ifrs-for-smes.html）
 - 一次情報の探し方：
   - 「皆さんは非上場の会社の決算公告と聞いて何を思い浮かべますか？」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「には、非上場会社であっても決算を公告する義務が規定されているものの、多くの中小企業で決算公告がおこなわれてないのが実情のようです」（https://note.com/isa99999/n/n7aadf977f2e7）
