@@ -1,4 +1,4 @@
-# 業界ニュース（毎日）対象6分野33小区分（事実のみ・33品目）
+# 業界ニュース（毎日）対象6分野33小区分（事実のみ・34品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -4473,3 +4473,119 @@
   - 「社会実装から見る バーティカル AI の可能性 - 大和総研 — 社会実装から見る バーティカル AI の可能性 - 大和総研 大和総研 PDF https://www.dir.co.jp > japan > 20260930_026094」（https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf）
   - 「フィジカルAI ・ バーティカルAI とは（日本成長戦略 全文と解説） — フィジカルAI ・ バーティカルAI とは（日本成長戦略 全文と解説） 日本DX地域創生応援団 https://digital-supporter.net > seichou17 > ai-handoutai」（https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html）
   - 「Vertical AI in 2026 : What Makes a Defensible AI Company and ... — Vertical AI in 2026 : What Makes a Defensible AI Company and ... advisable.com https://www.advisable.com > insights」（https://www.advisable.com/insights/vertical-ai-2026-defensible-ai-company-investors-will-no-longer-fund）
+
+## 造船の受注残と人手不足（一次）（shipbuilding order backlog labor shortage Japan）
+- 文脈：8 造船 ④受注残と人手
+- 顧客（金を払う側）：
+  - 「造船・海運・重工業の平均年収ランキング2026年版｜最新有報で上場大手から非上場の造船企業まで16社を比較【前年比つき】」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「ふだん受注を争う造船所同士が設計・建造で連携します（日本郵船の発表、日本海事新聞10月28日付）」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「現状を数字で：受注3.5年分・主要各社が過去最高水準」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「2026年4月の新造船受注」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「📊 主要企業 2026年3月期 通期実績ハイライト」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「・LPG運搬船受注残10隻・1→5株式分割（4月）」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「・新造船受注残4,221億円」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「戦後初の本格艦艇輸出として長崎造船所で動き出し、2029年納入・1兆円規模の大型案件です」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「：川崎重工の受注残10隻と高水準」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「：海運市況・世界経済の波で受注は循環的に変動する」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「受注の先行指標になるのは「件数」より「職種構成」です｜yo4shi80」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「受注の先行指標になるのは「件数」より「職種構成」です」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「2026年8月12日時点の公開資料では、受注残は厚い一方で、引渡し時期は」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「どの職種が増えるかで、企業がどの局面を重く見ているかが変わります」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「重複求人、派遣求人、再掲、勤務地の分散、各社採用サイトとの差」（https://note.com/yo4shi80/n/nf9912a86ef51）
+- 顧客の顧客（発注元が求めること）：
+  - 「日本造船業に起きた静かな革命──1兆円投資・歴史的統合・脱炭素が描く2030年の航海図｜2025年度総括」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「造船業界の将来性は？｜手持ち工事量3.5年分・3強時代・防衛・自律運航・脱炭素で『再復活』フェーズの実像を一次情報で徹底解説」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「2026年5月時点の一次情報（各社決算短信・日本船舶輸出組合・日本船舶海洋工学会・官公庁公表資料）」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「将来性の根拠③：脱炭素・環境対応船の競争軸」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「「数年先まで仕事を確保した好況の中で、量から技術・単価・脱炭素・防衛へと競争軸を移している再復活フェーズ」」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「（2030年度納期がじわり拡大）」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「個別の小規模造船所では実現できなかった大型投資・海外展開・脱炭素設備」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「：受注残・脱炭素設備投資・防衛シフトの収益寄与を追う」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「：再編後の調達体制・脱炭素対応の仕様変更を継続フォロー」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「日本船舶輸出組合の発表で、手持ち工事量は約3.5年分（604隻・2,922万GT）、納期は2030年度まで入り始めています」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「ここを混ぜると、実際には元請の固定採用が増えていないのに、市場が強く見えてしまうことがあります」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「さらに4〜6月受注分の納期内訳は、」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「空きがあれば取りたかった案件を、納期、工程、人員の制約から見送っている側面が大きいのです」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「特に環境対応船や高機能船では、品質と納期を守るために、むしろ無理に受注を広げない判断も起きています」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「経産省が2027年度概算要求で掲げた4435億円規模の補助金は、スマートレジ導入、AI・省力化投資、事業承継を結ぶ政策です」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+- 顧客の競合（奪いに来る側）：
+  - 「「造船業界って今から関わって大丈夫？」「中国・韓国に負けたって聞いたけど、本当に将来性はあるの？」──」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「事務局は、2025年の中国の平均鋼材価格が日本の5割程度だったと報告しました（国土交通省の発表、日本海事新聞）」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「Q2. 中国・韓国に勝てないのでは？」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「：建造量シェアでは依然中国・韓国に大きく劣後」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「A. 建造「量」のシェアでは引き続き中韓が上位ですが、」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「造船・舶用に関わる人の必修ニュース 2026年10月第4週｜三菱造船が下関の建造能力倍増策・造船拡大の壁は「人材」と「需要」・受注残は中国64%──これだけ押さえれば情報通」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「三菱造船が下関の建造能力を2倍にする2段階の手順を説明、日米シンポで造船拡大の壁に「人材」「需要」、世界の受注残は中国64%・日本6%」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「ダイハツインフィニアース（6023）の株価・配当・今後｜上期は営業益66%増・受注残1,228億円、船の発電用エンジンで国内シェア5割近い舶用メーカーを決算資料で読む｜今週のピックアップ銘柄・2026年11月」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「深読み解説｜ステンレスの反ダンピング関税は何を変えるか──国内メーカーの営業利益は3年で6割減、中国・台湾材は減っても輸入は東南アジアへ」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「鉄鋼業界に関わる人の必修ニュース 2026年10月第5週｜ステンレス冷延のAD関税が本決定・日本製鉄が米で30億ドルの新熱延・JFEはインド合弁を950万トンへ──これだけ押さえれば情報通」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「ただし同じDNV資料は、LNG燃料船を中心に代替燃料対応船の発注シェアが総トン数ベースで38%を維持したとしています」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「UNCTADの『Review of Maritime Transport 2024』も、2023年時点で中国、韓国、日本の3カ国が世界の造船能力の約95%を占めたと整理しています」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「中国が世界供給の半分超を占めるなか、日本は量で押す競争から、高品質船や環境対応船で稼ぐ競争へ移っています」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「日本の造船業は韓国のように少数大手へ極端に集約されておらず、多様な中堅ヤードが支える構造です」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「OECDは日本の世界オーダーブックシェアが2024年に約11%まで低下したと指摘しています」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+- 政治（法・予算・規制）：
+  - 「日本の造船会社ランキング2026｜売上・年収・将来性を最新決算で比較【再生基金の認定一覧つき】」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「日本造船 大復活ロードマップ｜官民1兆円投資・再生基金3,500億円・今治×JMU連合・LNG船とアンモニア船で造船大国を取り戻す｜2026年9月最新版」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「日本造船 補助金マップ完全解説｜造船業再生基金3,500億円（8件認定）＋GX移行債＋GI基金の3層支援を一覧で｜2026年9月最新版」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「Q3. 環境規制で逆風では？」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「：政府WGで議論本格化（2026年3月〜）」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「に沿って、補助金・基金・WG議論が同時に動いています」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「📊 政府支援の3層構造」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「3,800億円基金」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「政府もGX移行債1,200億円超などで後押ししています」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「造船業再生基金（10年3,500億円）の認定8件・最大約3,110億円、GX移行債の補助事業（設備投資累計約2,050億円）、GI基金を一覧で解説」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「環境規制等が進む船舶の設計ニーズに対応する技術者」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「政府は2025年12月に「造船業再生ロードマップ」を公表し、現在約900万総トンの建造量を2035年に1800万総トンへ倍増させる目標を掲げました」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「OECDの2026年レビューでも、日本は依然として世界3位の造船国であり、規制適合性や品質、引き渡し信頼性が重視される分野では強みを維持していると評価されています」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「実際、海事産業強化法に基づく認定案件を見ると、課題はかなり具体的です」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「2026年3月認定の北日本造船は、メタノール・アンモニア燃料船の開発と並行して、ストックヤード拡張や協働ロボット導入による省人化を計画しています」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+- 経済（規模・価格・為替）：
+  - 「日本の造船会社ランキング2026｜売上・年収・将来性を最新決算で比較【再生基金の認定一覧つき】」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「日本造船 大復活ロードマップ｜官民1兆円投資・再生基金3,500億円・今治×JMU連合・LNG船とアンモニア船で造船大国を取り戻す｜2026年9月最新版」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「造船・海運・重工業の平均年収ランキング2026年版｜最新有報で上場大手から非上場の造船企業まで16社を比較【前年比つき】」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「日本造船業に起きた静かな革命──1兆円投資・歴史的統合・脱炭素が描く2030年の航海図｜2025年度総括」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「日本造船 補助金マップ完全解説｜造船業再生基金3,500億円（8件認定）＋GX移行債＋GI基金の3層支援を一覧で｜2026年9月最新版」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「事務局は、2025年の中国の平均鋼材価格が日本の5割程度だったと報告しました（国土交通省の発表、日本海事新聞）」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「純利益3,321億円（+35%）」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「事業利益1,451億円で」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「経常利益295億円で」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「スマートレジ補助4435億円が変える中小企業DXと承継支援策」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「経産省が2027年度概算要求で掲げた4435億円規模の補助金は、スマートレジ導入、AI・省力化投資、事業承継を結ぶ政策です」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「高収益の特殊タイヤ、AIによる耐久予測、250億円の設備更新を軸に、日本の製造業に残る競争力と資源価格・環境負荷という構造的リスクを読み解く」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「さらに2035年までに官民で1兆円規模の投資実現を目指す枠組みも示されています」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「建設業退職金共済の掛金は日額320円で、40年働いても給付は400万円台にとどまる」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「高収益の特殊タイヤ、AIによる耐久予測、250億円の設備更新を軸に、日本の製造業に残る競争力と資源価格・環境負荷という構造的リスクを読み解く」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+- 社会（人・担い手）：
+  - 「：溶接工・設計者など現場人材の確保が中長期の最大課題」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「物流2024年問題で人手不足が深刻ななかでの省人化・無人化技術として位置付けられており、SOY2025大賞の「げんぶ」もこの文脈です」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「──中韓の量の圧力・人手不足・脱炭素コスト・サイクル変動は織り込みが必要」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「造船・舶用に関わる人の必修ニュース 2026年10月第4週｜三菱造船が下関の建造能力倍増策・造船拡大の壁は「人材」と「需要」・受注残は中国64%──これだけ押さえれば情報通」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「三菱造船が下関の建造能力を2倍にする2段階の手順を説明、日米シンポで造船拡大の壁に「人材」「需要」、世界の受注残は中国64%・日本6%」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「は、同じ「人手不足」でも意味が違います」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「政策資料を読むと、人手不足は「単純増員」だけではない」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「事業所名漢字、法人番号、職種、仕事内容、雇用形態、正社員登用実績、就業場所、賃金、派遣・請負区分」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「の項目があるので、造船所の直接採用と、外部人材の流入を分けて読む余地があります」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「先に設計・生産計画側で動き、現場技能は着工や工程山積みに応じて後から厚くなる」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「外国人特定技能制度の造舶多能工化に対応した新試験開始」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「これは、業界の課題が単なる人手不足ではなく、」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「同じく国土交通省の「人材の確保・育成に向けた取組」でも、設計分野では」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「、技能分野では」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「「生産・設計の効率化は、人手不足に貢献する」——国土交通省「人材の確保・育成に向けた取組」」（https://note.com/yo4shi80/n/nf9912a86ef51）
+- 技術（新しい技術・実証）：
+  - 「経常利益+18.7%・次世代アンモニア燃料エンジン開発中」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「商船三井マリテックスが目指す次世代海事産業〜海事コンサルティングとカーボンニュートラルへの挑戦〜」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「造船・舶用に関わる人の必修ニュース 2026年6月第2週｜HD現代が原子力推進船AiP・商船三井×JAL「空飛ぶ船」・世界初アンモニア燃料外航船竣工・長崎県が造船支援1.6億円──これだけ押さえれば情報通」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「【地方の逆襲、AIで世界へ】 人材不足を強みに変えるGemini活用術」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「【地方の逆襲、AIで世界へ】」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「一人社長・スモールチームが「地方創生 × 生成AI × 新規事業開発」で世界を獲るための実践知を最前線からお届けします」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「https://lit.link/en/aidaruma」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「部材加工や設計支援は自動化できても、溶接、艤装、精度調整、工程間の突発対応などは熟練工への依存がなお大きいです」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「国土交通省の金子大臣会見は、2035年1800万総トン目標の課題として、省力化やロボット化への投資だけでなく、生産能力増強のための投資と人材確保が不可欠だと明言しました」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「2026年3月認定の北日本造船は、メタノール・アンモニア燃料船の開発と並行して、ストックヤード拡張や協働ロボット導入による省人化を計画しています」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「JMUは生産技術ページで、小組立ラインと大組立ラインにNC溶接ロボットを導入し、CADデータから自動生成した運転情報で効率的な自動溶接を行っていると説明しています」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「大組立ラインでは16台の多関節ロボットを使い、従来は人手に頼っていた複雑箇所の自動化範囲を広げているとしています」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「造船の自動化は、自動車工場のように一気に無人化できるものではなく、工程ごとに属人的な判断を標準化する地道な改善の積み重ねになります」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「常石造船が2025年2月に公表したレーザによる錆・塗膜除去の実証も同じ文脈です」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「同社は船舶修繕での環境負荷低減と労働環境改善に加え、将来的な省人化・自動化を目指すとしています」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+- 自社の競合（商社・代理店・仲介）：記載なし（読んだ36頁・検索12回）

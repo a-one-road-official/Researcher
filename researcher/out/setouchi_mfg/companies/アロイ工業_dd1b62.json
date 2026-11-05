@@ -1,0 +1,536 @@
+{
+ "name": "アロイ工業",
+ "aliases": [],
+ "context": "岡山県真庭市／出典:県・市の企業ガイド／求人媒体:Indeed;doda／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T05:18:50.092312+00:00",
+ "official_url": "https://alloy-kogyo.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所　在　地",
+    "value": "本社工場：〒719-3115 岡山県真庭市中187 TEL:0867-42-5221 FAX:0867-42-5223 E-mail:bit@alloy-kogyo.com 第２工場：〒719-3116 岡山県真庭市日名100-2",
+    "url": "https://alloy-kogyo.com/publics/index/2/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒719-3115 岡山県真庭市中187",
+    "url": "https://alloy-kogyo.com/publics/index/2/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1974年6月1日",
+    "url": "https://alloy-kogyo.com/publics/index/2/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代　表　者",
+    "value": "代表取締役社長　　下井谷　太郎",
+    "url": "https://alloy-kogyo.com/publics/index/2/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資　本　金",
+    "value": "1200万円",
+    "url": "https://alloy-kogyo.com/publics/index/2/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従 業 員 数",
+    "value": "47名",
+    "url": "https://alloy-kogyo.com/publics/index/2/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "1200万円",
+    "url": "https://alloy-kogyo.com/publics/index/2/",
+    "pass": 1
+   },
+   {
+    "quote": "月給 199,000",
+    "url": "https://alloy-kogyo.com/publics/index/27/",
+    "pass": 1
+   },
+   {
+    "quote": "賞与年3回 計3.5ヶ月分（前年度実績）",
+    "url": "https://alloy-kogyo.com/publics/index/27/",
+    "pass": 1
+   },
+   {
+    "quote": "月給: 199,040円〜234,080円",
+    "url": "https://hellowork-plus.com/company/9260001022760/",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 233,613円〜266,834円",
+    "url": "https://hellowork-plus.com/company/9260001022760/",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 190,132円〜223,834円",
+    "url": "https://hellowork-plus.com/company/9260001022760/",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 170,280円〜250,000円",
+    "url": "https://hellowork-plus.com/company/9260001022760/",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 175,440円〜230,000円",
+    "url": "https://hellowork-plus.com/company/9260001022760/",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "本社工場：〒719-3115 岡山県真庭市中187",
+    "url": "https://alloy-kogyo.com/publics/index/2/",
+    "pass": 1
+   },
+   {
+    "quote": "第２工場：〒719-3116 岡山県真庭市日名100-2",
+    "url": "https://alloy-kogyo.com/publics/index/2/",
+    "pass": 1
+   },
+   {
+    "quote": "1974年 現会長の下井谷良信が超硬合金製造専用工場として",
+    "url": "https://alloy-kogyo.com/publics/index/20/",
+    "pass": 1
+   },
+   {
+    "quote": "1984年 岡山県真庭郡落合町日名100-2に工場移転",
+    "url": "https://alloy-kogyo.com/publics/index/20/",
+    "pass": 1
+   },
+   {
+    "quote": "1994年 岡山県久米郡久米町に久米工場完成",
+    "url": "https://alloy-kogyo.com/publics/index/20/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年 鳥取県にリチウムイオン電池専用工場として鳥取工場開設",
+    "url": "https://alloy-kogyo.com/publics/index/20/",
+    "pass": 1
+   },
+   {
+    "quote": "7193116 岡山県真庭市日名100-2第二工場",
+    "url": "https://alloy-kogyo.com/publics/index/27/",
+    "pass": 1
+   },
+   {
+    "quote": "冨士ダイスが取引先向け文書でこの事実を明記しています",
+    "url": "https://note.com/tomos_ai_lab/n/nf7b429693e43",
+    "pass": 3
+   },
+   {
+    "quote": "は2026年3月18日付で取引先向け文書を公開し、「中国の輸出規制強化により、世界的にタングステンの供給不足感が強く、タングステン価格が最高値圏で推移しております」と述べています",
+    "url": "https://note.com/tomos_ai_lab/n/nf7b429693e43",
+    "pass": 3
+   },
+   {
+    "quote": "9. 冨士ダイス（2026年3月18日）——取引先向け公式文書PDF 「タングステンをはじめとする重要鉱物をめぐる動向の変化と弊社の対応について」",
+    "url": "https://note.com/tomos_ai_lab/n/nf7b429693e43",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "インターンシップ・会社見学等も随時受付しております",
+    "url": "https://alloy-kogyo.com/publics/index/27/",
+    "pass": 1
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "アロイ工業株式会社のハローワーク求人情報一覧｜ハローワークプラス",
+    "url": "https://hellowork-plus.com/company/9260001022760/",
+    "pass": 3
+   },
+   {
+    "quote": "アロイ工業株式会社のハローワーク求人情報一覧",
+    "url": "https://hellowork-plus.com/company/9260001022760/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "アロイ工業株式会社の転職・企業概要 − 転職ならdoda（デューダ）アロイ工業株式会社の平均年収、年間給与所得情報 − 転職ならdoda（デ...アロイ工業株式会社のハローワーク求人情報一覧株式会社アロイ の給与 - Indeed (インディード)アロイ工業の転職・採用情報｜社員口コミでわかる【転職会議】(株)アロイの新卒採用・会社概要 | マイナビ2027アロイ工業株式会社の求人情報 | ハローワーク求人検索のシゴトリサー... — アロイ工業株式会社の求人や従業員・年収・事業内容・業績・業種・所在地の情報などを掲載。dodaの企業情報ページでは上場企業や、大手から中小企業まで476,790社の企業情報が無料で検索・閲覧できます。ぜひ志望動機や面接対策の研究にお役立てください。 アロイ工業株式会社の平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを掲載。dod",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10001641849/",
+    "pass": 3
+   },
+   {
+    "quote": "アロイ工業株式会社の平均年収、年間給与所得情報 − 転職ならdoda（デ... — アロイ工業株式会社の平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを掲載。dodaの企業情報ページでは上場企業や、大手から中小企業まで408,911社の企業情報が無料で検索・閲覧できます。ぜひ志望動機や面接対策の研究にお役立てください。",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10001641849/",
+    "pass": 3
+   },
+   {
+    "quote": "アロイ工業株式会社のハローワーク求人情報一覧 — アロイ工業株式会社のハローワーク求人情報一覧 事務（正社員） アロイ工業 株式会社 正社員 経験不問 資格不問 時間外労働なし 転勤なし 通勤手当あり マイカー通勤可 トライアル雇用併用 オンライン自主応募可 ... 掲載日 2026年10月27日 詳細を見る",
+    "url": "https://hellowork-plus.com/company/9260001022760/",
+    "pass": 3
+   },
+   {
+    "quote": "アロイ工業の転職・採用情報｜社員口コミでわかる【転職会議】(株)アロイの新卒採用・会社概要 | マイナビ2027アロイ工業株式会社の求人情報 | ハローワーク求人検索のシゴトリサー... — アロイ工業への転職を検討するなら【転職会議】。社員・元社員の口コミ (全4件)から、アロイ工業の年収・給与制度や社風、面接事例などをリサーチできます。募集中の求人情報の他、業界ランキング・評点チャートも充実！ Apr 28, 2026 · (株)アロイの会社概要ページです。マイナビ2027は、採用情報や企業情報で、就職活動をサポートします。 アロイ工業株式会社の求人・採用情報は4件あります。板金工（見習い）未経験可、溶接工（溶接・G仕上げ等）、板金加工品の検査（ふじみ野市）などの仕事や転職に関するハローワーク求人を見る 【ハローワーク求人検索のシゴトリサーチ】会社の名前や給料・職種でハローワークの求人",
+    "url": "https://jobtalk.jp/companies/92396",
+    "pass": 3
+   },
+   {
+    "quote": "アロイ工業株式会社の求人情報 | ハローワーク求人検索のシゴトリサー... — アロイ工業株式会社の求人・採用情報は4件あります。板金工（見習い）未経験可、溶接工（溶接・G仕上げ等）、板金加工品の検査（ふじみ野市）などの仕事や転職に関するハローワーク求人を見る 【ハローワーク求人検索のシゴトリサーチ】会社の名前や給料・職種でハローワークの求人を検索",
+    "url": "https://hello-work.info/アロイ工業株式会社関連の求人/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)アロイの新卒採用・会社概要 | マイナビ2027砕石用工具｜超硬ならアロイ工業株式会社超硬・超硬ビット・超硬合金の事なら｜アロイ工業株式会社アロイ工業の新卒採用・就職・企業情報【就活会議】アロイ工業株式会社の採用・求人情報-engageサンアロイ工業株式会社のインターン・新卒採用・会社概要丨就活なら... — Apr 28, 2026 · (株)アロイの会社概要ページです。マイナビ2027は、採用情報や企業情報で、就職活動をサポートします。 砕石用工具の紹介ページです。 2027年卒予定の高校生を募集しています。 Oct 28, 2026 · アロイ工業の超硬合金は、タングステンとコバルト粉末を混合し、圧縮高温で燃焼する粉末冶金法で製造した焼結合金です。 その硬度はダイアモンドに次ぐ硬さを持ち、今から30年以上前に実用化に成功したのが私たちアロイ工業でした。 アロイ工業の新卒採用・就",
+    "url": "https://job.mynavi.jp/27/pc/search/corp283864/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "砕石用工具｜超硬ならアロイ工業株式会社超硬・超硬ビット・超硬合金の事なら｜アロイ工業株式会社アロイ工業の新卒採用・就職・企業情報【就活会議】アロイ工業株式会社の採用・求人情報-engageサンアロイ工業株式会社のインターン・新卒採用・会社概要丨就活なら... — 砕石用工具の紹介ページです。 2027年卒予定の高校生を募集しています。 Oct 28, 2026 · アロイ工業の超硬合金は、タングステンとコバルト粉末を混合し、圧縮高温で燃焼する粉末冶金法で製造した焼結合金です。 その硬度はダイアモンドに次ぐ硬さを持ち、今から30年以上前に実用化に成功したのが私たちアロイ工業でした。 アロイ工業の新卒採用・就職・企業情報 アロイ工業株式会社の社員・元社員による総合評価は2.5点です（口コミ回答数4件）。ESや本選考体験記は0件あります。基本情報のほか、アロイ工業株式会社の社員・元社員による会社",
+    "url": "https://alloy-kogyo.com/publics/index/27/",
+    "pass": 3
+   },
+   {
+    "quote": "超硬・超硬ビット・超硬合金の事なら｜アロイ工業株式会社アロイ工業の新卒採用・就職・企業情報【就活会議】アロイ工業株式会社の採用・求人情報-engageサンアロイ工業株式会社のインターン・新卒採用・会社概要丨就活なら... — Oct 28, 2026 · アロイ工業の超硬合金は、タングステンとコバルト粉末を混合し、圧縮高温で燃焼する粉末冶金法で製造した焼結合金です。 その硬度はダイアモンドに次ぐ硬さを持ち、今から30年以上前に実用化に成功したのが私たちアロイ工業でした。 アロイ工業の新卒採用・就職・企業情報 アロイ工業株式会社の社員・元社員による総合評価は2.5点です（口コミ回答数4件）。ESや本選考体験記は0件あります。基本情報のほか、アロイ工業株式会社の社員・元社員による会社の評価、過去のインターン選考の内容、内定した学生の志望動機など ... Oct 17, 2024 · アロイ工業",
+    "url": "https://alloy-kogyo.com/publics/index/1/",
+    "pass": 3
+   },
+   {
+    "quote": "アロイ工業の新卒採用・就職・企業情報【就活会議】アロイ工業株式会社の採用・求人情報-engageサンアロイ工業株式会社のインターン・新卒採用・会社概要丨就活なら... — アロイ工業の新卒採用・就職・企業情報 アロイ工業株式会社の社員・元社員による総合評価は2.5点です（口コミ回答数4件）。ESや本選考体験記は0件あります。基本情報のほか、アロイ工業株式会社の社員・元社員による会社の評価、過去のインターン選考の内容、内定した学生の志望動機など ... Oct 17, 2024 · アロイ工業株式会社の採用・求人情報ページです。アロイ工業株式会社 私たちと一緒に働きませんか？ 同じ業界の企業 サンアロイ工業株式会社 超硬合金に特化した国内メーカーです。 用途ごとの材種を細かく持ち、粉末の配合から焼結、検査までを社内でつないでいます。 住友電気工業 連結売上高は5.11兆円です。",
+    "url": "https://syukatsu-kaigi.jp/companies/17394",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "半導体の\"タングステン危機\"は本当か？——日韓の公開情報を突き合わせ... Apr 3, 2026 · 超硬合金メーカーの サンアロイ工業 は公式サイトで、タングステンに関する中国の輸出規制（2025年2月4日付公告10号）は解除されていないことを明確に告知しています。",
+    "url": "https://note.com/tomos_ai_lab/n/nf7b429693e43",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "半導体の\"タングステン危機\"は本当か？——日韓の公開情報を突き合わせて検証する｜こまさか とも",
+    "url": "https://note.com/tomos_ai_lab/n/nf7b429693e43",
+    "pass": 3
+   },
+   {
+    "quote": "半導体の\"タングステン危機\"は本当か？——日韓の公開情報を突き合わせて検証する",
+    "url": "https://note.com/tomos_ai_lab/n/nf7b429693e43",
+    "pass": 3
+   },
+   {
+    "quote": "中国の輸出規制、日本メーカーの原料逼迫、韓国業界筋の証言。",
+    "url": "https://note.com/tomos_ai_lab/n/nf7b429693e43",
+    "pass": 3
+   },
+   {
+    "quote": "3方向の情報を突き合わせて見えてくるもの。",
+    "url": "https://note.com/tomos_ai_lab/n/nf7b429693e43",
+    "pass": 3
+   },
+   {
+    "quote": "1. 何が報じられたのか——そしてなぜ深刻なのか",
+    "url": "https://note.com/tomos_ai_lab/n/nf7b429693e43",
+    "pass": 3
+   },
+   {
+    "quote": "2. 日本側で確認できること——タングステン原料の逼迫は「事実」である",
+    "url": "https://note.com/tomos_ai_lab/n/nf7b429693e43",
+    "pass": 3
+   },
+   {
+    "quote": "3. 韓国報道の系譜——今回の報道は「突然出てきた話」ではない",
+    "url": "https://note.com/tomos_ai_lab/n/nf7b429693e43",
+    "pass": 3
+   },
+   {
+    "quote": "4. 検証結果——何が「事実」で、何が「蓋然性の高い推論」か",
+    "url": "https://note.com/tomos_ai_lab/n/nf7b429693e43",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "遠藤 恵太 (@MatuiRena97) / X アロイ工業株式会社 明日は郡家球場かー 肩痛いなー でも西村先生に活躍しろ言われたし頑張ろ。",
+    "url": "https://x.com/matuirena97",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "サンアロイ工業（株） | LinkedIn 概要 ウェブサイト http://www.sanalloy.co.jp サンアロイ工業（株）の外部リンク 業種 機械製造業 会社規模 社員 51 - 200名 本社 ...",
+    "url": "https://jp.linkedin.com/company/サンアロイ工業（株）",
+    "pass": 3
+   },
+   {
+    "quote": "西岡 大介 - -- | LinkedIn -- · 職歴: サンアロイ工業（株） · 場所: 6700096。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで西岡 大介さんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/大介-西岡-b4406b34a",
+    "pass": 3
+   },
+   {
+    "quote": "10サンアロイ工業 Jobs in Zambia Today's top 10 サンアロイ工業 jobs in Zambia. Leverage your professional network, and get hired. New サンアロイ工業 jobs added daily.",
+    "url": "https://zm.linkedin.com/jobs/サンアロイ工業-jobs?countryRedirected=1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "アロイ工業 - Facebook アロイ工業 - Facebook ... アロイ工業",
+    "url": "https://www.facebook.com/pages/アロイ工業/271372462908929/",
+    "pass": 3
+   },
+   {
+    "quote": "アロイ工業鳥取工場 - Facebook アロイ工業鳥取工場",
+    "url": "https://www.facebook.com/アロイ工業鳥取工場-202819849883049/",
+    "pass": 3
+   },
+   {
+    "quote": "昭和アロイ工業株式会社 - Facebook 昭和アロイ工業株式会社",
+    "url": "https://www.facebook.com/昭和アロイ工業株式会社-303345226536505/",
+    "pass": 3
+   },
+   {
+    "quote": "サンアロイ工業 - Facebook サンアロイ工業",
+    "url": "https://www.facebook.com/サンアロイ工業-292152944260800/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://alloy-kogyo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alloy-kogyo.com/publics/index/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alloy-kogyo.com/publics/index/7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alloy-kogyo.com/publics/index/20/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alloy-kogyo.com/publics/index/9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alloy-kogyo.com/publics/index/21/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alloy-kogyo.com/publics/index/27/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alloy-kogyo.com/publics/index/27/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10001641849/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10001641849/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://hellowork-plus.com/company/9260001022760/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hellowork-plus.com/company/9260001022760/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp283864/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tomos_ai_lab/n/nf7b429693e43",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/matuirena97",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/サンアロイ工業（株）",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/大介-西岡-b4406b34a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://zm.linkedin.com/jobs/サンアロイ工業-jobs?countryRedirected=1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/アロイ工業/271372462908929/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/アロイ工業鳥取工場-202819849883049/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/昭和アロイ工業株式会社-303345226536505/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/サンアロイ工業-292152944260800/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アロイ工業 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/Company/j_id__10001641849/",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10001641849/",
+    "https://hellowork-plus.com/company/9260001022760/",
+    "https://jobtalk.jp/companies/92396",
+    "https://hello-work.info/アロイ工業株式会社関連の求人/",
+    "https://jp.indeed.com/cmp/株式会社アロイ/salaries",
+    "https://job.mynavi.jp/27/pc/search/corp283864/outline.html"
+   ]
+  },
+  {
+   "query": "アロイ工業 採用 新卒 高卒",
+   "results": [
+    "https://hellowork-plus.com/company/9260001022760/",
+    "https://job.mynavi.jp/27/pc/search/corp283864/outline.html",
+    "https://alloy-kogyo.com/publics/index/27/",
+    "https://alloy-kogyo.com/publics/index/1/",
+    "https://syukatsu-kaigi.jp/companies/17394",
+    "https://en-gage.net/alloykotaro2_jobs/",
+    "https://job.rikunabi.com/company_jobs/1606239914/"
+   ]
+  },
+  {
+   "query": "site:note.com アロイ工業",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tomos_ai_lab/n/nf7b429693e43",
+    "https://note.com/alloy_japan/n/nd42b83e2c7a5",
+    "https://note.com/kaigaitoushi/n/n0c1cdfc7262b",
+    "https://note.com/alloy_japan/n/n7e87eceeabae",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/alloy_japan/n/nb37c2cd46f0b"
+   ]
+  },
+  {
+   "query": "site:x.com アロイ工業",
+   "results": [
+    "https://x.com/matuirena97",
+    "https://x.com/maskk_mfg_ai/article/2094574898274607145",
+    "https://x.com/responsejp/status/2095304535619301882",
+    "https://x.com/tinalloystaff",
+    "https://x.com/tinalloystaff/status/2021765131282370879",
+    "https://x.com/kessan_db/status/2062018002414182840",
+    "https://x.com/takumisenpai_jp"
+   ]
+  },
+  {
+   "query": "site:linkedin.com アロイ工業",
+   "results": [
+    "https://jp.linkedin.com/company/サンアロイ工業（株）",
+    "https://www.linkedin.com/company/alorica",
+    "https://jp.linkedin.com/in/大介-西岡-b4406b34a",
+    "https://zm.linkedin.com/jobs/サンアロイ工業-jobs?countryRedirected=1",
+    "https://in.linkedin.com/in/prasadkhapre",
+    "https://vn.linkedin.com/in/toan-nguyen-quoc-5a32b0301",
+    "https://www.linkedin.com/posts/mitsui-chemicals-group_三井化学サンアロイ日本化学工業協会よりレスポンシブルケア優秀賞を初受賞-activity-7201386770809204736-vQ1Z"
+   ]
+  },
+  {
+   "query": "site:facebook.com アロイ工業",
+   "results": [
+    "https://www.facebook.com/pages/アロイ工業/271372462908929/",
+    "https://www.facebook.com/アロイ工業鳥取工場-202819849883049/",
+    "https://www.facebook.com/昭和アロイ工業株式会社-303345226536505/",
+    "https://www.facebook.com/サンアロイ工業-292152944260800/",
+    "https://www.facebook.com/okayama.keikakuhiroba/posts/アロイ工業鳥取市に電池工場進出-若桜町にも拠点計１３０人雇用計画-鳥取-毎日新聞httpmainichijpareatottorinews20121004ddl/430894683640232/",
+    "https://www.facebook.com/サンアロイ工業株式会社-150633564967249/",
+    "https://www.facebook.com/サンアロイ工業か-407729075924628/"
+   ]
+  },
+  {
+   "query": "アロイ工業 note 社長",
+   "results": [
+    "https://alloy-kogyo.com/publics/index/1/detail=1/b_id=4/r_id=71/",
+    "https://alloy-kogyo.com/publics/index/16/",
+    "https://compalyze.co.jp/company/9260001022760",
+    "https://www.alloy.co.jp/company/message.php",
+    "https://www.japanmetaldaily.com/articles/-/118271",
+    "https://www.alloy.co.jp/",
+    "https://note.com/alloy_japan/n/n7e87eceeabae"
+   ]
+  },
+  {
+   "query": "アロイ工業 X 投稿",
+   "results": [
+    "https://alloy-kogyo.com/publics/index/2/",
+    "https://alloy-kogyo.com/publics/index/1/",
+    "https://www.sanalloy.co.jp/products/cre/feed/",
+    "https://x.com/a_ro_i/status/2083950451670872274",
+    "https://x.com/AlloyKurogane/status/2117935854085980536",
+    "https://www.alloy.co.jp/",
+    "https://note.com/munou_ac/n/n3489f9572885"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部14頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部14頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部14頁・検索8回）",
+  "採用ページ": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部14頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部14頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部14頁・検索8回）"
+ }
+}

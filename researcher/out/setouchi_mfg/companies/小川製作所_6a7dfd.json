@@ -1,0 +1,757 @@
+{
+ "name": "小川製作所",
+ "aliases": [],
+ "context": "岡山県総社市／出典:県・市の企業ガイド／求人媒体:マイナビ新卒／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T05:18:09.859072+00:00",
+ "official_url": "https://www.ogawa-ss.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "菊地 秀治",
+    "url": "https://www.ogawa-ss.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社・工場 〒270-1407 千葉県白井市名内330番地 白井第二工業団地内 TEL（代表） 047-497-0765 FAX（営業部・設計部） 047-497-1039 FAX（製造部） 047-497-0241 FAX（総務部） 047-497-0802",
+    "url": "https://www.ogawa-ss.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "千葉県白井市名内３３０番地",
+    "url": "https://www.ogawa-ss.co.jp/recruit/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：1948年8月13日",
+    "url": "https://www.ogawa-ss.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "5,000万円",
+    "url": "https://www.ogawa-ss.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "34名",
+    "url": "https://www.ogawa-ss.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "5,000万円",
+    "url": "https://www.ogawa-ss.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "※年収・月給については経歴や経験・スキルに応じて増減します",
+    "url": "https://www.ogawa-ss.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "※年収・月給ついては経歴や経験・スキルに応じて増減します",
+    "url": "https://www.ogawa-ss.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "年収252万円〜369.6万円",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "5000万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "048 自動車産業の変化 - 国内事業の生産性と給与水準",
+    "url": "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "pass": 3
+   },
+   {
+    "quote": "039 日本経済の転換点はいつ？ - 人口・GDP・平均給与の長期推移",
+    "url": "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "白井工場購入（所有面積：5,507㎡）",
+    "url": "https://www.ogawa-ss.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "タワークレーンに興味を持って頂きましたら、ぜひ会社説明会＆工場見学会にお越しください",
+    "url": "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "●●現在、説明会日程・工場見学日程などは個別にご案内しています●●",
+    "url": "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "自動化設備の電気制御 - 有限会社 小川製作所 - オカジョブ転職 — 自動化設備の電気制御 - 有限会社 小川製作所 - オカジョブ転職 オカジョブ転職 https://okaten.okajob.com > ... > 有限会社小川製作所",
+    "url": "https://okaten.okajob.com/kyujin/88197",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 小川製作所 の 求人 ・中途採用情報 - doda — 有限会社 小川製作所 の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10001474400",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10001474400/",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報 - 小川製作所 — 採用情報 - 小川製作所 小川製作所 https://www.ogawa-ss.co.jp > recruit",
+    "url": "https://www.ogawa-ss.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 小川製作所 の 求人 情報／既存顧客対応・事務業務中心 ... — 株式会社 小川製作所 の 求人 情報／既存顧客対応・事務業務中心 ... マイナビ転職 https://tenshoku.mynavi.jp > ... > 株式会社小川製作所",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-438360-3-4-1/",
+    "pass": 3
+   },
+   {
+    "quote": "7 件の 有限会社 小川製作所 の 求人 - Indeed (インディード) — 7 件の 有限会社 小川製作所 の 求人 - Indeed (インディード) Indeed https://jp.indeed.com > q-有限会社小川製作所-求人",
+    "url": "https://jp.indeed.com/q-%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80-%E6%B1%82%E4%BA%BA.html",
+    "pass": 3
+   },
+   {
+    "quote": "小川製作所 新卒 高卒 の求人情報をすべて見る （138件） — 小川製作所 新卒 高卒 の求人情報をすべて見る （138件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 小川製作所 の 新卒採用 ・会社概要 | マイナビ2027 — (株) 小川製作所 の 新卒採用 ・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp293841 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用 情報 - 小川製作所 — 採用 情報 - 小川製作所 小川製作所 https://www.ogawa-ss.co.jp > recruit",
+    "url": "https://www.ogawa-ss.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "採用 情報｜株式会社 小川製作所 （公式ホームページ） — 採用 情報｜株式会社 小川製作所 （公式ホームページ） ogawa-seisakusho.jp https://www.ogawa-seisakusho.jp > pages",
+    "url": "https://www.ogawa-seisakusho.jp/pages/21/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 小川製作所 の求人・中途 採用 情報 - doda — 有限会社 小川製作所 の求人・中途 採用 情報 - doda doda https://doda.jp > CompanyJobs > j_id__10001474400",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10001474400/",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "(株)小川製作所の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "該当なし(しばらくの間、新卒採用をしていなかったため)",
+    "url": "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "しばらくの間、新卒採用をしていなかったため",
+    "url": "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "（業務の変更の範囲）会社の定める業務 ◆入社後の流れ 慣れるまでは先輩社員が同行し、マンツーマンでサポートします",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "タワークレーンに興味を持って頂きましたら、ぜひ会社説明会＆工場見学会にお越しください",
+    "url": "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "●●現在、説明会日程・工場見学日程などは個別にご案内しています●●",
+    "url": "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "同年代の若手も多いし、ベテランの先輩たちも親切です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "099 人口とGDP - 少子高齢化は日本だけではない？",
+    "url": "https://note.com/ogawa_tech/m/mc1932caede34",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "(株)小川製作所の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "小川製作所 | 製造業x経済統計 - note 小川製作所 | 製造業x経済統計 - note note https://note.com > ogawa_tech",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 小川製作所 - note 有限会社 小川製作所 - note note https://note.com > ogwss",
+    "url": "https://note.com/ogwss",
+    "pass": 3
+   },
+   {
+    "quote": "日本の経済統計と転換点 #001-050｜ 小川製作所 - note 日本の経済統計と転換点 #001-050｜ 小川製作所 - note note https://note.com > ogawa_tech",
+    "url": "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "pass": 3
+   },
+   {
+    "quote": "日本の経済統計と転換点 #051-100｜ 小川製作所 - note 日本の経済統計と転換点 #051-100｜ 小川製作所 - note note https://note.com > ogawa_tech",
+    "url": "https://note.com/ogawa_tech/m/mc1932caede34",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "小川製作所 | 製造業x経済統計｜note",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "日本の経済統計をグラフ化して共有しています。",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "ITmedia MONOist、News Picks Topicsでも連載掲載中です。",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "https://x.com/OgawaSeisakusho",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "449 財産所得の純受取が多い日本 総所得への寄与率 国際比較",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "448 正味の総所得が拡大する政府 一般政府の第1次所得バランス(純) 国際比較",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "447 実は多い日本企業の正味の所得 企業の第1次所得バランス(純) 国際比較",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "岡山県総社市の製造機械をオーダーメイドで構想・設計・製造するメーカーです。業種・規模・内容問わず、自動化の駆け込み寺として対応。『自動化に何ができるだろう』をテーマに、お客様の想いを形にするお手伝いをしています。",
+    "url": "https://note.com/ogwss",
+    "pass": 3
+   },
+   {
+    "quote": "岡山県総社市の製造機械をオーダーメイドで構想・設計・製造するメーカーです。業種・規模・内…",
+    "url": "https://note.com/ogwss",
+    "pass": 3
+   },
+   {
+    "quote": "任意のテキストを打ち込むと、それに合わせてGコードを動的に生成して、",
+    "url": "https://note.com/ogwss",
+    "pass": 3
+   },
+   {
+    "quote": "刻印やお絵描きが出来るような物にしています。",
+    "url": "https://note.com/ogwss",
+    "pass": 3
+   },
+   {
+    "quote": "３Dプリンタも活用し、出来る限り低コストで製作している製作過程をご紹介します。",
+    "url": "https://note.com/ogwss",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済の統計データをグラフ化し共有する連載です。",
+    "url": "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "pass": 3
+   },
+   {
+    "quote": "050 日本人は幸福か！？ - 幸福度と寛容さの国際比較",
+    "url": "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "pass": 3
+   },
+   {
+    "quote": "049 自動車産業の設備投資 - 資産・負債と純資産",
+    "url": "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "pass": 3
+   },
+   {
+    "quote": "048 自動車産業の変化 - 国内事業の生産性と給与水準",
+    "url": "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "pass": 3
+   },
+   {
+    "quote": "047 自動車生産のグローバル化 - 生産・販売・輸出の推移",
+    "url": "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "pass": 3
+   },
+   {
+    "quote": "日本の経済統計をグラフ化し共有する連載です。",
+    "url": "https://note.com/ogawa_tech/m/mc1932caede34",
+    "pass": 3
+   },
+   {
+    "quote": "100 性別による所得格差とは？ - 日本のジェンダーギャップ",
+    "url": "https://note.com/ogawa_tech/m/mc1932caede34",
+    "pass": 3
+   },
+   {
+    "quote": "099 人口とGDP - 少子高齢化は日本だけではない？",
+    "url": "https://note.com/ogawa_tech/m/mc1932caede34",
+    "pass": 3
+   },
+   {
+    "quote": "098 賃金と消費 - 実質での相関はあるか？",
+    "url": "https://note.com/ogawa_tech/m/mc1932caede34",
+    "pass": 3
+   },
+   {
+    "quote": "097 分配が増えない日本 - GDP分配面の1人あたり実質変化",
+    "url": "https://note.com/ogawa_tech/m/mc1932caede34",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "小川製作所 | 製造業x経済統計 (@OgawaSeisakusho) / X 小川製作所 | 製造業x経済統計 (@OgawaSeisakusho) / X X https://x.com > OgawaSeisakusho",
+    "url": "https://x.com/OgawaSeisakusho",
+    "pass": 3
+   },
+   {
+    "quote": "小川晃一郎 @ 小川製作所 (@ogawass) / X 小川晃一郎 @ 小川製作所 (@ogawass) / X X https://x.com > ogawass",
+    "url": "https://x.com/ogawass",
+    "pass": 3
+   },
+   {
+    "quote": "小川製作所 | 製造業x経済統計 (@OgawaSeisakusho) on X 小川製作所 | 製造業x経済統計 (@OgawaSeisakusho) on X X https://x.com > OgawaSeisakusho > highlights",
+    "url": "https://x.com/OgawaSeisakusho/highlights",
+    "pass": 3
+   },
+   {
+    "quote": "小川製作所 | 製造業x経済統計 (@OgawaSeisakusho) / X Follow PostsPosts RepliesReplies RepostsReposts MediaMedia Pinned 小川製作所 | 製造業x経済統計 @OgawaSeisakusho Oct 30",
+    "url": "https://x.com/OgawaSeisakusho",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "小川製作所 Oct 29, 2024 · 340 労働者って何？ - 就業者と有業者と従業者 | 小川製作所 研磨・溶接・製缶加工と医療機器製造 日本の労働者数の定義と統計データについて整理し... 「直接投資の効率とは？ 」 直接投資の効率は、残高に対する所得の比率として計 算する事ができます。",
+    "url": "https://www.facebook.com/ogawatech2015/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社小川製作所 株式会社小川製作所. ワイヤーカット放電加工専門の株式会社小川製作所です。",
+    "url": "https://www.facebook.com/people/株式会社小川製作所/100080476122050/",
+    "pass": 3
+   },
+   {
+    "quote": "(有)小川製作所 | Facebook Jul 22, 2011 · Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and post content.",
+    "url": "https://www.facebook.com/pages/有小川製作所/121936291231988/",
+    "pass": 3
+   },
+   {
+    "quote": "岡山の自動化SIer｜小川製作所 | Soja-shi Okayama Jul 23, 2025 · 岡山の自動化SIer｜小川製作所 is attending an event. 📢【展示会出展のお知らせ】📢 7月24日 (水)・25日 (木)に三光電業様にて開催される「 ロボット展」に出展いたします。 今回は、当社独自の供給ソリューション「ばらけピッ ク」を展示します。",
+    "url": "https://www.facebook.com/profile.php/?id=61565071298062",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ogawa-ss.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ogawa-ss.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ogawa-ss.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ogawa-ss.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAeAAAAFAAQMAAABeBj04AAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACpJREFUGBntwQENAAAAwiD7p34ON2AAAAAAAAAAAAAAAAAAAAAAAADAjQBMQAABoSPcKgAAAABJRU5ErkJggg==",
+    "status": "error",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://okaten.okajob.com/kyujin/88197",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10001474400/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogwss",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/m/mc1932caede34",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/OgawaSeisakusho",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ogawass",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OgawaSeisakusho/highlights",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ogawatech2015/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/株式会社小川製作所/100080476122050/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/有小川製作所/121936291231988/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/profile.php/?id=61565071298062",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OgawaSeisakusho",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "小川製作所 求人 年収",
+   "results": [
+    "https://okaten.okajob.com/kyujin/88197",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10001474400/",
+    "https://www.ogawa-ss.co.jp/recruit/",
+    "https://tenshoku.mynavi.jp/jobinfo-438360-3-4-1/",
+    "https://jp.indeed.com/q-%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80-%E6%B1%82%E4%BA%BA.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C1000000tfMDp&q_no=2",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__00007831736/",
+    "https://career-be.jp/companies/c-6a7dfd3efb93d9b1",
+    "https://okaten.okajob.com/kyujin/88199",
+    "https://jp.indeed.com/cmp/株式会社小川製作所/salaries"
+   ]
+  },
+  {
+   "query": "小川製作所 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "https://www.ogawa-ss.co.jp/recruit/",
+    "https://www.ogawa-seisakusho.jp/pages/21/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10001474400/",
+    "https://en-gage.net/ogawa-seisakusho_saiyo/",
+    "https://jp.indeed.com/q-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80-%E6%B1%82%E4%BA%BA.html",
+    "https://mynavi-agent.jp/corpdetail/32361/",
+    "https://www.ogawa-seisakusyo.co.jp/recruit.html",
+    "https://okaten.okajob.com/kyujin/88197"
+   ]
+  },
+  {
+   "query": "site:note.com 小川製作所",
+   "results": [
+    "https://note.com/ogawa_tech",
+    "https://note.com/ogwss",
+    "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "https://note.com/ogawa_tech/m/mc1932caede34",
+    "https://note.com/ogawa_tech/m/m3f6ab608ca2e/hashtag/%E3%82%A6%E3%82%A7%E3%83%AB%E3%83%93%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0",
+    "https://note.com/ogawa_tech/m/mc1932caede34/hashtag/%E9%87%91%E8%9E%8D%E8%B3%87%E7%94%A3",
+    "https://note.com/ogawa_tech/m/m295487617376",
+    "https://note.com/ogawa_tech/n/n82cd444bc92a",
+    "https://note.com/ogawa_tech/m/m11d5dae06db9/hashtag/%E4%BB%98%E5%8A%A0%E4%BE%A1%E5%80%A4",
+    "https://note.com/ogawa_tech/m/mbe7f5d17f322/hashtag/%E4%BB%98%E5%8A%A0%E4%BE%A1%E5%80%A4"
+   ]
+  },
+  {
+   "query": "site:x.com 小川製作所",
+   "results": [
+    "https://x.com/OgawaSeisakusho",
+    "https://x.com/ogawass",
+    "https://x.com/OgawaSeisakusho/status/2114116112833208578",
+    "https://x.com/OgawaSeisakusho/highlights",
+    "https://x.com/OgawaSeisakusho/status/2116274526992678983",
+    "https://x.com/OgawaSeisakusho/status/2116694460109299941",
+    "https://x.com/OgawaSeisakusho/status/2112123077597470798",
+    "https://x.com/OgawaSeisakusho/status/2111926591228108881",
+    "https://x.com/OgawaSeisakusho/status/2110533866247336076",
+    "https://x.com/OgawaSeisakusho/status/2075406754511511722"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 小川製作所",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com 小川製作所",
+   "results": [
+    "https://www.facebook.com/ogawatech2015/",
+    "https://www.facebook.com/people/株式会社小川製作所/100080476122050/",
+    "https://www.facebook.com/pages/有小川製作所/121936291231988/",
+    "https://www.facebook.com/profile.php/?id=61565071298062",
+    "https://www.facebook.com/株式会社小川製作所-101821541433079/",
+    "https://www.facebook.com/ogawatech2015/posts/株式会社小川製作所のホームページをリニューアルしましたこれからも皆様のお役に立てるよう努力してまいりますので今後とも何卒宜しくお願い申し上げますhttpsban/3712576285483853/",
+    "https://www.facebook.com/ogawatech2015/posts/平均給与の要因分解実質成長率の各国比較平均給与の実質成長率を要因分解してみると他の主要先進国と日本との違いが良くわかります日本では賃金総額が減り物価が下がる時期/829368482499209/"
+   ]
+  },
+  {
+   "query": "小川製作所 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://tokyo-fabhub.com/author/ogawa-technical-works/",
+    "http://www.w-ogawa.co.jp/index.html",
+    "https://www.instagram.com/reel/DeNf1RHyTfv/",
+    "https://note.com/ogawa_tech",
+    "https://x.com/OgawaSeisakusho",
+    "https://humanstory.jp/ogawa_masayoshi/"
+   ]
+  },
+  {
+   "query": "小川製作所 X 投稿",
+   "results": [
+    "https://x.com/OgawaSeisakusho",
+    "https://www.instagram.com/popular/小川製作所/",
+    "https://www.instagram.com/ogawaseisakusho/",
+    "https://agora-web.jp/archives/author/ogawamasayoshi",
+    "https://x.com/OgawaSeisakusho/status/2106661919398764724",
+    "https://www.threads.com/@ogawaseisakusho",
+    "https://note.com/ogawa_tech"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部16頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部16頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部16頁・検索8回）"
+ }
+}

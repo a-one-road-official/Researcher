@@ -1,4 +1,4 @@
-# 対象6分野の小区分 — 国内規模・参入企業数・需給の差・法律・国の予算（事実のみ・33品目）
+# 対象6分野の小区分 — 国内規模・参入企業数・需給の差・法律・国の予算（事実のみ・34品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -2708,3 +2708,65 @@
   - 「専門業務を支えるVertical AI（ バーティカルAI ）とは？汎用AI ... — 専門業務を支えるVertical AI（ バーティカルAI ）とは？汎用AI ... Members Co.,Ltd. https://www.members.co.jp > 20260326-vertical-ai」（https://www.members.co.jp/column/20260326-vertical-ai）
   - 「Vertical AI Market Size , Share, Trends | CAGR of 24.5% — Vertical AI Market Size , Share, Trends | CAGR of 24.5% Market.us https://market.us > vertical-ai-market」（https://market.us/report/vertical-ai-market/）
   - 「Vertical AI Market Surpasses $3.5B, Expands Beyond ... — Vertical AI Market Surpasses $3.5B, Expands Beyond ... LinkedIn https://www.linkedin.com > posts > m...」（https://www.linkedin.com/posts/menlo-ventures_vertical-ai-has-become-a-35b-category-in-activity-7404997854827556864-gVOJ）
+
+## 造船の受注残と人手不足（一次）（shipbuilding order backlog labor shortage Japan）
+- 文脈：8 造船 ④受注残と人手
+- 需給の差：
+  - 「とその後の新造船発注の低迷により、供給能力過剰の状態」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「る事業規模の拡大が有効と考えられるが、海外市場における競争力が不足」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「またソフトウェアを介したシステム化やデータ活用のノウハウ・技術者が不足し、個々の企業や業界内のみでの対応に限界」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「造船の人手不足を深読み｜受注3.6年分でも鋼材1割減、就労者は9年で1.4万人減 | ぞうせんブログ」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「深読み解説｜仕事は3.6年分あるのに、なぜ造船向けの鋼材は減るのか──就労者は9年で約1.4万人減、「人手不足」が建造量倍増の壁になる理由」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「9月も17隻の輸出船を受注し、納期は2030年度まで埋まり始めました」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「理由は、人手不足で船を造るペースが上がらないこと」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「注文はあるのに、造る人が足りない──」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「国が掲げる2035年の建造量倍増の前に立ちはだかる人手不足の壁を、国土交通省の統計と各社の動きから深読みします」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「（各年4月1日時点）を見ると、人手不足の実態がはっきりします」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「日本人の技能者・技術者の育成と並んで、」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「──大学・産業・地域の連携による高度人材の育成、雇用環境の改善、外国人技能者の受け入れなど」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「国交省は主な要因として、①中国・韓国に比べて事業所の規模が小さい、②鋼材・資材の高騰で船価が高く、厳しい競争の中で建造能力を縮小した、③設計や現場で人材不足が深刻化──の3つを挙げています」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「人手不足は、このうち」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「ここ数週間のニュースを並べると、造船・舶用各社の人手不足への対応は、大きく3つに分けられます」（https://zosenblog.com/zosen-hitode-fukayomi/）
+- 法律・制度：
+  - 「（2005年6月の為替レートを基準（100）としたときの為替水準）」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「（ 2005年6月の為替レートを基準（100）としたときの為替水準）」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「規格に対応できる基準、認証体制の整備等」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「高品質な船舶の供給体制を確立するための支援措置や制度の整備につい」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「④ 研究開発・イノベーション(RD&I)の基盤整備（制度・人材・施設等）」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「（船舶の燃費性能規制、」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「特定技能制度と育成就労制度による外国人材の受け入れ」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「育成就労制度は2027年4月に運用が始まる」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「建造量は暦年、就労者は各年4月1日時点で、集計の基準が異なるため目安の計算です」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「新本館の建設計画、奨学金の返還を支援する「人材定着支援制度」、地域の交流拠点づくり（日本海事新聞10月7日付）」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「育成就労制度（2027年4月開始予定）への移行」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「造船・舶用に関わる人の必修ニュース 2026年10月第5週｜7社がアンモニア燃料船を2030年に・海事局長がチャーター・イン制度化に意欲・恒力重工がメガコンテナ船52隻──これだけ押さえれば情報通」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「職種、賃金、免許・資格などの条件を指定して絞り込んで取得できない」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「外国人特定技能制度の造舶多能工化に対応した新試験開始」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「環境規制等が進む船舶の設計ニーズに対応する技術者」（https://note.com/yo4shi80/n/nf9912a86ef51）
+- 国の予算：
+  - 「資材費の増加などの影響で損益が悪化し、6社が赤字を計上」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「補助金による技術開発支援（2016～）補助金による技術開発支援（2016～）」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「日本造船 補助金マップ完全解説｜造船業再生基金3,500億円（8件認定）＋GX移行債＋GI基金の3層支援を一覧で｜2026年9月最新版」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「日本の造船会社ランキング2026｜売上・年収・将来性を最新決算で比較【再生基金の認定一覧つき】」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「日本造船 大復活ロードマップ｜官民1兆円投資・再生基金3,500億円・今治×JMU連合・LNG船とアンモニア船で造船大国を取り戻す｜2026年9月最新版」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「外国人材は2015年から計上」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「国が始めた「造船業再生基金」とは何か｜yo4shi80」（https://note.com/yo4shi80/n/n3346511da7a4）
+  - 「2026〜2028年の第1フェーズ向けに造成される新基金の初期規模」（https://note.com/yo4shi80/n/n3346511da7a4）
+  - 「一方、令和8年度海事局関係予算概要では、」（https://note.com/yo4shi80/n/n3346511da7a4）
+  - 「令和7年度補正で1,200億円の基金を創設し、2026〜2028年をフェーズ1とする」（https://note.com/yo4shi80/n/n3346511da7a4）
+  - 「1,200億円は「基金の初期規模」と読むのが正確」（https://note.com/yo4shi80/n/n3346511da7a4）
+  - 「令和8年度海事局関係予算概要では、海事産業群の競争力強化・生産性向上の文脈の中で、」（https://note.com/yo4shi80/n/n3346511da7a4）
+  - 「「船体」を特定重要物資に指定した上で、10年間の基金を創設する」（https://note.com/yo4shi80/n/n3346511da7a4）
+  - 「確定しているのは、まず第1フェーズの基金造成」（https://note.com/yo4shi80/n/n3346511da7a4）
+  - 「したがって、現時点で「3,500億円の大型基金がすでにフルで走っている」と書くのは正確ではありません」（https://note.com/yo4shi80/n/n3346511da7a4）
+- 国内の主要企業：
+  - 「日本企業に強みのある「サブシステム」をコアに、オープン・クローズ戦略を」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「深読み解説｜ステンレスの反ダンピング関税は何を変えるか──国内メーカーの営業利益は3年で6割減、中国・台湾材は減っても輸入は東南アジアへ」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「📊 主要企業 2026年3月期 通期実績ハイライト」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「：「3強時代」で各陣営の主要企業に注目」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「A. 「3強時代」の各陣営の主要企業（今治造船・JMU・常石造船・三井E&S・三菱重工・川崎重工・名村造船所など）が中核候補です」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「深読み解説｜ステンレスの反ダンピング関税は何を変えるか──国内メーカーの営業利益は3年で6割減、中国・台湾材は減っても輸入は東南アジアへ」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「業界全体の構造変化・主要企業の動き・2026年度以降の展望」（https://zosenblog.com/2025zousengyoukai/）
+  - 「深読み解説｜ステンレスの反ダンピング関税は何を変えるか──国内メーカーの営業利益は3年で6割減、中国・台湾材は減っても輸入は東南アジアへ」（https://zosenblog.com/2025zousengyoukai/）
+- 国内市場規模：記載なし（読んだ38頁・検索15回）
+- 国内参入企業数：記載なし（読んだ38頁・検索15回）

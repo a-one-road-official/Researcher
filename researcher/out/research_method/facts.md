@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・35品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・38品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -181,85 +181,97 @@
 ## 企業分析のやり方（非上場・中小企業）（how to analyze private small companies）
 - 文脈：企業
 - 手順・やり方：
-  - 「第四の項目である子会社および企業グループの評価方法について、現行制度では親会社が保有する子会社株式を純資産価額等により個別に算定して織り込んでいます」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「これは、地域経済の構造転換と企業の大型化を促す産業政策の方向性と正面から衝突します」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「ドイツの相続・贈与税法（ErbStG）は、中規模企業（Mittelstand）の事業継続と雇用を守るため、事業資産に対して85%免税の基本型または100%免税の選択型という極めて手厚い事業資産控除（Verschonungsabschlag）を設けていました32」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「第二に、事業承継税制の対象拡大とインセンティブ連動型への再設計です」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「【企業分析シート付き】企業研究のやり方とポイントを徹底解説！｜就活サイト【ワンキャリア】」（https://www.onecareer.jp/articles/3345）
-  - 「【企業分析シート付き】企業研究のやり方とポイントを徹底解説！」（https://www.onecareer.jp/articles/3345）
-  - 「企業研究のやり方」（https://www.onecareer.jp/articles/3345）
-  - 「「企業研究のやり方がわからない」「どんな情報を集めればいいの？」」（https://www.onecareer.jp/articles/3345）
-  - 「企業研究は、志望動機やES、面接対策のすべての土台となる重要なステップです」（https://www.onecareer.jp/articles/3345）
-  - 「就活初心者でも今日から実践できる企業研究のやり方」（https://www.onecareer.jp/articles/3345）
-  - 「また、企業研究ノートの作り方や調べるべき項目リスト、情報収集のコツまで徹底解説します」（https://www.onecareer.jp/articles/3345）
-  - 「企業研究のやり方｜全体像を5ステップで解説！」（https://www.onecareer.jp/articles/3345）
-  - 「ステップ1. 企業研究先を決める」（https://www.onecareer.jp/articles/3345）
-  - 「ステップ2. 企業研究ノートのテンプレートを用意する」（https://www.onecareer.jp/articles/3345）
-  - 「ステップ3. 企業の基本情報を調べ、企業研究ノートに書き込む」（https://www.onecareer.jp/articles/3345）
+  - 「テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！ | キャリアパーク就職エージェント」（https://careerpark-agent.jp/column/67587）
+  - 「テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！」（https://careerpark-agent.jp/column/67587）
+  - 「企業研究ノートは3ステップで作る！ 企業研究のやり方を押さえよう」（https://careerpark-agent.jp/column/67587）
+  - 「3ステップで完成！ 企業研究ノートの作り方」（https://careerpark-agent.jp/column/67587）
+  - 「ステップ①情報収集：企業の全体像を把握する」（https://careerpark-agent.jp/column/67587）
+  - 「ステップ③ノート作成：テンプレートに沿って項目を埋める」（https://careerpark-agent.jp/column/67587）
+  - 「事前に確認！ 企業研究ノートを作るときの4つのコツ」（https://careerpark-agent.jp/column/67587）
+  - 「作って終わりではない！ 企業研究ノートを活用する方法」（https://careerpark-agent.jp/column/67587）
+  - 「就活には必須！ 企業研究ノートはやり方を工夫して企業理解を深めよう」（https://careerpark-agent.jp/column/67587）
+  - 「また、ノート自体も3ステップで簡単に作成することができます」（https://careerpark-agent.jp/column/67587）
+  - 「この記事では、ノートを活用した企業研究の方法や、情報のまとめ方などを具体的に紹介するので、ぜひ参考にしてくださいね」（https://careerpark-agent.jp/column/67587）
+  - 「企業研究ノートの作成方法について解説する前に、まずは「そもそも企業研究ノートとはどのようなものか」を知り、イメージを膨らませておきましょう」（https://careerpark-agent.jp/column/67587）
+  - 「企業研究ノートを作る際のコツを理解できました！ さっそく作りたいのですがおすすめの方法ってありますか？」（https://careerpark-agent.jp/column/67587）
+  - 「もちろんあります！ 3つのステップで作る方法を紹介しますね」（https://careerpark-agent.jp/column/67587）
+  - 「ここからは3ステップで作る方法を紹介するので、企業研究ノートを作る際の参考にしてください」（https://careerpark-agent.jp/column/67587）
 - 突き合わせ・推定：
+  - 「「なぜこの企業はこのような理念を掲げているのか」「この事業の強みはどこにあるのか」「3年後、5年後、この企業はどうなっているだろうか」といった問いを立て、自分なりの仮説や考えを構築していく知的作業」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
+  - 「企業分析を通じて、事業のビジネスモデルを深く理解し、社員の働き方やキャリアに関するリアルな情報を収集し、企業が発信する理念やビジョンが現場にまで浸透しているのかを多角的に検証する」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
+  - 「これらの機会は、事前に集めた情報や分析を通じて生まれた仮説を検証する絶好の場です」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
+  - 「この3C分析から、「自社の強みであるセンサー技術を活かし、競合が手薄なスマートホーム連携機能を強化した、高価格帯のデザイン家電を開発すれば、市場で独自のポジションを築けるのではないか」という仮説を立てることができます」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
+  - 「企業の弱みや外部の脅威を認識した上で、「自分の強みを活かせば、このように貢献できるのではないか」という仮説を述べられる」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
+  - 「→「成果主義で人の入れ替わりが激しい文化なのかもしれない」「若いうちにスキルを身につけて独立する人が多いのかもしれない」といった仮説（分析）を立てることができる」（https://crexgroup.com/ja/shukatsu/company-research/company-analysis-how-to-steps/）
+  - 「分析は情報収集そのものが目的ではなく、志望動機という「アウトプット」から逆算して進めると効率的です」（https://sinmido-recruit.com/columns/%E4%BC%81%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E6%9C%89%E5%A0%B1%E3%83%BB%E5%9B%9B%E5%AD%A3%E5%A0%B1%E3%83%BBir%E8%B3%87%E6%96%99%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F/）
+  - 「estimates the illiquidity discount of 20-30%」（https://aventis-advisors.com/how-to-value-a-private-company/）
+  - 「: This approach uses data from transactions involving similar businesses within the same industry. By analyzing the multiples paid in these transactions, you can estimate the value of your company.」（https://aventis-advisors.com/how-to-value-a-private-company/）
+  - 「: This method estimates the value of a company’s assets if they were to be sold off in a liquidation scenario. This approach is often used when a company struggles financially or faces bankruptcy.」（https://aventis-advisors.com/how-to-value-a-private-company/）
+  - 「Selecting the appropriate valuation method depends on the nature of your business, the availability of data, and the purpose of the valuation. It is often helpful to use multiple methods to cross-check and validate your results.」（https://aventis-advisors.com/how-to-value-a-private-company/）
   - 「会計検査院による抽出調査および国税庁による再検証データは、現行の類似業種比準方式が内包する客観的な価格乖離を明らかにしました2」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
   - 「国税庁の集計では、過去10年間に14件、推計約14億円に及ぶ税額減少事例が把握され、課税の公平性を著しく損ねている実態が是正の論拠として位置づけられました7」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
   - 「ギリシャにおいて2002年に同族企業内の承継税率が20%から2%へと大幅に引き下げられた制度変更を差の差法（Difference-in-Differences）によって検証した結果、高率課税に直面した企業は承継の前後において設備投資（有形固定資産投資）が40%以上減少することが確認されました19」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
   - 「このような行動様式は、政府が賃上げ促進税制や中小企業投資促進税制を通じて推進してきた設備投資の拡大や賃金引き上げという政策目標と根本的に矛盾し、中小企業セクター全体の生産性向上を抑制する要因となってきました8」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「完璧な企業研究を目指すよりも、「自分が納得できる仮説を持っているか」を重視しましょう」（https://www.onecareer.jp/articles/3345）
-  - 「「仮説を立てて動く」」（https://www.onecareer.jp/articles/3345）
-  - 「売り手が「会社には7億円の価値がある」と考え、買い手が「株式は4億円」と考えている場合、両者は必ずしも矛盾したことを言っているわけではありません」（https://www.ma-cp.com/about-ma/unlisted-stock-valuation/）
-  - 「この場合、それぞれの前提を検証しながら、おおむね3億8,000万円～4億4,000万円の範囲を交渉の目安とする、といった整理が考えられます」（https://www.ma-cp.com/about-ma/unlisted-stock-valuation/）
-  - 「事業計画を作成し、実績との差異を検証する習慣をつけておく」（https://www.ma-cp.com/about-ma/unlisted-stock-valuation/）
-  - 「(the factor multiplied by the company’s EBITDA) to estimate enterprise value.」（https://1719partners.com/small-business-private-equity-what-to-expect-and-how-to-choose-the-right-partner/）
-  - 「Option #2: Estimate the Company’s “Future Liquidation Value” and Use That for its Terminal Value」（https://mergersandinquisitions.com/private-company-valuation/）
-  - 「and its Terminal Value, and then you discount both of them back to their Present Values and add them to estimate the company’s implied value.」（https://mergersandinquisitions.com/private-company-valuation/）
-  - 「You could estimate Beta and Cost of Equity by using dividend growth or earnings volatility relative to a broad index instead.」（https://mergersandinquisitions.com/private-company-valuation/）
-  - 「Damodaran recommends using “Total Beta” to estimate Beta by linking it to the market correlation factor of the company and the “portfolio diversification factor.”」（https://mergersandinquisitions.com/private-company-valuation/）
-  - 「cross-check it by calculating the implied multiple or long-term growth rate」（https://mergersandinquisitions.com/private-company-valuation/）
 - 一次情報の探し方：
-  - 「しかし、会計検査院が公表した令和5年度決算検査報告における構造的問題の指摘を直接の契機として、国税庁の取引相場のない株式の評価に関する有識者会議において評価通達の抜本的改定に向けた議論が急速に進展しました3」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「このモデルは、将来予測に伴う主観性を排除するために過去実績の平均値を採用し、継続企業の価値を簿価純資産と収益性の双方から直接算定する構造を目指しています7」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「国税庁が採用を目指す残余利益モデル（Residual Income Valuation: RIV）は、近代会計学および資本市場理論において理論的整合性が高く評価されている枠組みです15」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「類似業種比準方式は、配当金額、利益金額、簿価純資産価額の比準3要素を基礎として株価を算定する仕組みを採用してきました14」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「ドイツの制度は、簡便収益還元法または客観的時価を基礎とし、事業資産控除として85%免税または100%免税の選択制を採用しています32」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「https://www.nta.go.jp/about/council/nai-hyoka/20260820/pdf/05giji_kabukaigi.pdf」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「https://www.chusho.meti.go.jp/zaimu/zeisei/2026/260916.pdf」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「https://www.nta.go.jp/about/council/nai-hyoka/20260820/pdf/05kijoshiryo_kabukaigi.pdf」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「https://www.nta.go.jp/about/council/nai-hyoka/20260820/pdf/05shiryo_kabukaigi.pdf」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「https://www.nta.go.jp/about/council/nai-hyoka/20260604/pdf/03giji_kabukaigi.pdf」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「Ohlson's Clean Surplus Valuation Model | PDF | Book Value - Scribd,」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「https://www.fondazioneoiv.it/wp-content/uploads/2019/06/Residual-Income-Model.pdf」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「https://exinfm.com/pdffiles/ca.pdf」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「https://www.imes.boj.or.jp/research/papers/english/me34-1.pdf」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「https://edoc.ku.de/id/eprint/35276/1/ssrn-4800777.pdf」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
+  - 「300社以上の採用支援をしてきた経験をもとに、各大学の就活講座の講師も務め、年間3,000人以上に講演」（https://careerpark-agent.jp/column/67587）
+  - 「②ホームページや採用ページ：企業の詳しい情報がわかる」（https://careerpark-agent.jp/column/67587）
+  - 「ホームページや採用ページ：企業の詳しい情報がわかる」（https://careerpark-agent.jp/column/67587）
+  - 「ホームページや採用ぺージでも企業研究ノートに必要な項目を調べることができます」（https://careerpark-agent.jp/column/67587）
+  - 「また企業によっては、社員インタビューや社員に対するアンケートなどをホームページや採用ページで掲載しているところもあります」（https://careerpark-agent.jp/column/67587）
+  - 「採用ページには企業研究ノートで欠かすことができない採用情報も掲載されています」（https://careerpark-agent.jp/column/67587）
+  - 「就職四季報：企業ごとの基本情報、採用情報、もとめる人物像などの詳細な情報がまとまっている」（https://careerpark-agent.jp/column/67587）
+  - 「企業の採用担当者と会話ができる数少ない機会なので、事前に企業について調べておき、」（https://careerpark-agent.jp/column/67587）
+  - 「企業研究ノートには企業概要や事業内容、業績、採用情報など、幅広い情報をまとめるようにしましょう」（https://careerpark-agent.jp/column/67587）
+  - 「7年にわたって年間で企業300社の採用支援及び、学生2,000人の就活相談・対策をおこない、最適なマッチング機会の創出に取り組む」（https://careerpark-agent.jp/column/67587）
+  - 「現在はポートの採用部門責任者として、新卒・中途採用及びオンボーディング領域を統括」（https://careerpark-agent.jp/column/67587）
+  - 「事業・組織成長の両面から採用設計し、組織への定着や入社後の活躍を最大化する仕組みづくりを推進している」（https://careerpark-agent.jp/column/67587）
+  - 「加えて、採用ページにある社員紹介や座談会記事、YouTube動画などをチェックすると、実際の雰囲気や働く人の人柄も感じられるでしょう」（https://shukatsu.scenario-p.co.jp/column/kigyoukennkyuu-yarikata/）
+  - 「【選考情報】採用ページ・インターン情報・選考フロー」（https://shukatsu.scenario-p.co.jp/column/kigyoukennkyuu-yarikata/）
+  - 「採用ページ（求める人物像、選考情報）」（https://shukatsu.scenario-p.co.jp/column/kigyoukennkyuu-yarikata/）
 - 失敗・落とし穴：
-  - 「純資産の厚い建設会社ほど注意す,」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「企業研究を行う際の6つの注意点」（https://www.onecareer.jp/articles/3345）
-  - 「両者を混同してしまうと、就活で必要な作業に抜け漏れや重複が生じる恐れがあるため、十分注意してください」（https://www.onecareer.jp/articles/3345）
-  - 「このとき、最初から企業研究先を絞りすぎると、視野が狭まり後悔するケースもあるので注意が必要です」（https://www.onecareer.jp/articles/3345）
-  - 「一人の意見を鵜呑みにしないこと」（https://www.onecareer.jp/articles/3345）
-  - 「記載金額は手取りではなく、税金や社会保険料を控除する前の総額であるため、注意してください」（https://www.onecareer.jp/articles/3345）
-  - 「選考の開始時期も企業によって異なるため、注意が必要です」（https://www.onecareer.jp/articles/3345）
-  - 「これらの注意点を意識すれば、企業理解を深めるだけでなく、選考対策でも力を発揮するでしょう」（https://www.onecareer.jp/articles/3345）
-  - 「企業研究の方法を列挙するとともに、各方法の注意点やポイントを解説します」（https://www.onecareer.jp/articles/3345）
-  - 「6つの注意点」（https://www.onecareer.jp/articles/3345）
-  - 「よくある失敗は、情報をまとめることに満足してしまい、「企業研究ノートを埋めること」が目的になってしまうことです」（https://www.onecareer.jp/articles/3345）
-  - 「インターネットで得た情報は不確かなものもあるため、注意しましょう」（https://www.onecareer.jp/articles/3345）
-  - 「企業分析のやり方や注意点について徹底的に解説」（https://campus.doda.jp/career/job/000292.html）
-  - 「例えば、銀行を志望する際、「お金の貸付」がメイン事業であることは間違いありませんが、これはどの銀行にも言えること」（https://campus.doda.jp/career/job/000292.html）
-  - 「企業分析でやりがちな失敗！3つの注意点とは？」（https://campus.doda.jp/career/job/000292.html）
+  - 「この記事では企業研究の目的、おすすめの方法、注意点などをキャリアアドバイザーが解説します」（https://careerpark-agent.jp/column/67587）
+  - 「きれいにまとめようとするあまり、時間をかけすぎてしまうことにも注意しましょう」（https://careerpark-agent.jp/column/67587）
+  - 「この記事では就職四季報の種類、メリット、注意点、見るべき情報などをキャリアアドバイザーが解説します」（https://careerpark-agent.jp/column/67587）
+  - 「WEB説明会はどこからでも気軽に参加することができる反面、注意点もあります」（https://careerpark-agent.jp/column/67587）
+  - 「このような失敗をしないためにも、情報収集する目的を考えて、目的に合った情報から収集することを意識してくださいね」（https://careerpark-agent.jp/column/67587）
+  - 「【完全ガイド】就活メールマナーで差をつける！基本から例文・注意点まで徹底解説」（https://shukatsu.scenario-p.co.jp/column/kigyoukennkyuu-yarikata/）
+  - 「【業界研究の罠】「とりあえずコンサル・IT」と言っている3年生が、秋に絶望する理由」（https://shukatsu.scenario-p.co.jp/column/kigyoukennkyuu-yarikata/）
+  - 「※AIの特性上、間違いが含まれている場合があります」（https://www.theport.jp/portcareer/article/27262/）
+  - 「39点以下は要注意！あなたの面接力を今のうちに診断しましょう」（https://www.theport.jp/portcareer/article/27262/）
+  - 「この記事では、企業理念の志望動機で差別化する方法や具体性を盛り込むコツ、避けるべき注意点を、キャリアコンサルタントと解説します」（https://www.theport.jp/portcareer/article/27262/）
+  - 「ただ、転職サイトはマイナスな情報に偏りがちな点は注意が必要です」（https://www.theport.jp/portcareer/article/27262/）
+  - 「しかし、社風を志望動機に用いるには注意が必要です」（https://www.theport.jp/portcareer/article/27262/）
+  - 「「社風の志望動機」は注意が必要！ 例文付きで受かるコツを伝授」（https://www.theport.jp/portcareer/article/27262/）
+  - 「自分が本当に欲しい福利厚生があるかという点に注意しつつまとめましょう」（https://www.theport.jp/portcareer/article/27262/）
+  - 「勤務地にこだわりがある人や、転勤に抵抗が強い人は注意して確認しましょう」（https://www.theport.jp/portcareer/article/27262/）
 - 実例：
-  - 「この乖離を背景として、純資産価額に対する申告評価額の割合の中央値は大会社で0.32倍、中会社で0.50倍、小会社で0.61倍となり、企業規模が大きくなるほど類似業種比準方式の適用比率が高まる結果、評価額が純資産に対して相対的に著しく低く抑えられる逆転構造が形成されていました」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「国税庁の集計では、過去10年間に14件、推計約14億円に及ぶ税額減少事例が把握され、課税の公平性を著しく損ねている実態が是正の論拠として位置づけられました7」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「客観的時価の名の下に評価額を引き上げることは、後継者個人に対して多額の現金納税負担を一方的に課す結果となり、担税力の原則と乖離します」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「商工会議所等の試算によれば、一定の自己資本と利益を蓄積した中堅企業において、評価額が現行方式と比較して2倍から5倍に膨張するケースが報告されています7」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「対して中小企業庁は、過去10年で14件と把握された特定事例への対処であれば、現行通達の運用の厳格化によって個別に対処可能であると反論しています」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「理論的残余利益モデルは将来の業績予想および無限期間の残余利益の収束を仮定しますが、税務執行における大量画一的処理および争訟防止の要請から、国税庁案では将来予測を排除し、過去数期（概ね5年間）の実績純利益の平均値を基礎として、有限期間（例えば5年分）の超過収益を割り引かずに合算する簡便法が検討されています」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「税務通達において画一的な資本コスト率を設定した場合、リスクの高い業種や新興企業に対して過大評価を強いる結果となります」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「ギリシャにおいて2002年に同族企業内の承継税率が20%から2%へと大幅に引き下げられた制度変更を差の差法（Difference-in-Differences）によって検証した結果、高率課税に直面した企業は承継の前後において設備投資（有形固定資産投資）が40%以上減少することが確認されました19」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「この実証結果は、相続税の納税義務が後継者個人に帰属する場合であっても、後継者は納税資金を工面するために企業から配当金や役員報酬の形でキャッシュを引き出さざるを得ず、結果として企業の内部留保が流出して投資機会が奪われる流動性制約チャネルの存在を明確に示しています8」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「その結果、創業者一族の子供が経営を引き継ぐ同族承継は、外部の専門経営者を登用する非同族承継と比較して、承継後の総資産利益率（ROA）を平均して約4%ポイント悪化させることが実証されました27」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「金融市場に情報の非対称性や借入制約が存在する場合、外部の優秀な労働者出身者は買収資金を調達するために高い金利負担を課される一方、親の資産を無税で引き継ぐ能力の劣る同族後継者が市場に居座る結果となり、マクロ経済全体で経営資源のミスアロケーション（不適正配分）が固定化されます9」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「承継課税の経済的影響に関する代表的な先行研究および国際機関の分析結果は、本見直し議論に対してそれぞれ重要な示唆を与えています」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「この結果は、税制優遇によって同族承継を無条件に誘導することが経営能力のミスマッチを長期固定化させるリスクを浮き彫りにしています22」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「この結果、同族企業の経営者が承継時期を控えて意図的に設備投資を手控え、過大な役員報酬や退職金を計上して会計上の利益を消却し、配当を抑制するという非効率性のタックスシールドが常態化してきました7」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「例えば、金融業界やメーカー業界といった業界で絞るのもいいですし、コンサル職や営業職といった職種で絞るのもいいでしょう」（https://www.onecareer.jp/articles/3345）
+  - 「たしかに、IR情報は見たことがない学生も多いでしょうし、インターンは選考が設けられているケースも多くハードルが高いですよね」（https://careerpark-agent.jp/column/67587）
+  - 「複数の分野に事業を展開している場合があり、それが一般的に知られていないケースもあります」（https://www.theport.jp/portcareer/article/27262/）
+  - 「同業他社でも事業内容が微妙に異なるケースがあるので、ノートにまとめ、自分が携わる可能性のある仕事を把握しておきましょう」（https://www.theport.jp/portcareer/article/27262/）
+  - 「という結果が出ているので、これを目安にしてみると良いでしょう」（https://www.theport.jp/portcareer/article/27262/）
+  - 「また、休暇日数が多くとも有給取得率は低いというケースもあるので、」（https://www.theport.jp/portcareer/article/27262/）
+  - 「その結果に対して企業はどう説明しているのかよく確認しておきましょう」（https://www.theport.jp/portcareer/article/27262/）
+  - 「志望動機【例文17選】ES・履歴書での書き方と職種・業界別の実例」（https://www.onecareer.jp/articles/3345）
+  - 「大事なことは、調べたことと自己分析の結果をつなげることです」（https://www.onecareer.jp/articles/3345）
+  - 「企業によっては複数の事業を展開しているケースもあるため、抜け漏れのないリサーチが求められます」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
+  - 「ただし、口コミサイトは匿名で投稿できる特性ゆえに正確でない情報が含まれているケースもあります」（https://www.theport.jp/portcareer/article/64126/）
+  - 「特に、経営者の書いた書籍は、企業理念のもとになるエピソードや事業を立ち上げた背景が書かれているケースが多いので、企業理解を深めるのにぴったりです」（https://www.theport.jp/portcareer/article/64126/）
+  - 「多くの就活生がその重要性を認識している一方で、「具体的に何を、どこまでやればいいのか分からない」と悩んでいるケースも少なくありません」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
+  - 「例えば、「貴社の〇〇という事業の将来性に惹かれました」と述べるだけでなく、「業界全体が△△という課題を抱える中で、貴社は□□という独自の技術でその課題を解決しようとしており、その先進性に魅力を感じます」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
+  - 「その企業の事業展開や人材育成制度、キャリアパスの事例などを詳しく調べることで、「3年後にはこの部署でこんなスキルを身につけたい」「将来的には海外事業に挑戦したい」といった具体的な目標を描けます」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
+  - 「例えば、「人々の生活を豊かにする仕事がしたい」という軸があるなら、食品、住宅、IT、エンターテイメントなど、様々な業界が候補に挙がります」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
+- 検索結果の抜粋：
+  - 「企業分析のやり方・目的を徹底解説【分析テンプレート付き】 | 新卒の...【無料テンプレート付】就活の企業研究のやり方を解説｜企業研究ノー...作り方例4選｜企業研究ノートのまとめ方をイラスト付きで解説！ | POR...テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！ |...【企業分析シート付き】企業研究のやり方とポイントを徹底解説！ — 企業研究を行う目的は2つあります。 どんなに有名な企業でも、自分の経験や性格にマッチしない企業だと、活躍の幅も限られてしまいます。また、複数の企業から第一志望を絞り込むには「なぜ、その企業でなくてはならないのか？」など、選ぶ理由を明確にする必要があります。 企業研究で上記2つの要素を整理しておくと、ESの準備や面接対策もやりやすくなるでしょう。 See full list on campus.doda.jp 企業研究は、インターンシッ」（https://campus.doda.jp/career/job/000292.html）
+  - 「テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！ |... — Aug 7, 2026 · 企業研究ノートは3ステップで作る！ 企業研究のやり方を押さえよう 企業研究ノートを作る前に押さえておくべき基礎知識 意味：企業情報を一覧化してまとめたノート 目的：企業選びや選考対策に役立てる メリット：企業を比較しやすくなる 3ステップで完成！ 企業研究ノートの作り方 ...」（https://careerpark-agent.jp/column/67587）
+  - 「企業分析のやり方とは？効果的な項目や注意点を紹介 | あばば大学 — Jul 27, 2026 · 企業分析のやり方が分からなくて困っている方も多いのではないでしょうか。本記事では、企業分析を行う項目や、実施する際の注意点を解説します。どのように進めればよいのか悩んでいる就活生の方は、ぜひ役立ててください。 企業分析を実施する目的とは？」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
+  - 「企業分析のやり方・目的を徹底解説【分析テンプレート付き】 | 新卒の...企業分析のやり方｜就活のプロが見るべきポイントや注意点を解説 | PO...企業分析のやり方とは？就活で使える7つの基本ステップを解説企業分析のやり方7ステップ 就活で内定に繋がる方法を徹底解説 - 就活...企業分析のやり方完全ガイド｜項目・情報源・活かし方を採用のプロが... — 企業研究を行う目的は2つあります。 どんなに有名な企業でも、自分の経験や性格にマッチしない企業だと、活躍の幅も限られてしまいます。また、複数の企業から第一志望を絞り込むには「なぜ、その企業でなくてはならないのか？」など、選ぶ理由を明確にする必要があります。 企業研究で上記2つの要素を整理しておくと、ESの準備や面接対策もやりやすくなるでしょう。 See full list on campus.doda.jp 企業研究は、インターンシップ」（https://campus.doda.jp/career/job/000292.html）
+  - 「企業分析のやり方｜就活のプロが見るべきポイントや注意点を解説 | PO... — Aug 24, 2026 · 企業分析のやり方2ステップ ①企業の情報を集める ②企業ごとの特徴を比較・分析する 企業分析で見るべき10項目と調べ方 ①会社概要 ②事業内容 ③ビジネスモデル ④商品・サービス ⑤取引先やターゲット顧客 ⑥業績 ⑦採用情報 ⑧環境・制度 ⑨経営者の考え ⑩今後の事業方針 企業分析に ...」（https://www.theport.jp/portcareer/article/64126/）
+  - 「企業分析のやり方とは？就活で使える7つの基本ステップを解説 — Sep 30, 2025 · 企業分析のやり方とは？ 就活で使える7つの基本ステップを解説 更新日： 2025年9月30日 掲載内容にはプロモーションを含み、提携企業・広告主などから成果報酬を受け取る場合があります」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
+  - 「企業分析のやり方7ステップ 就活で内定に繋がる方法を徹底解説 - 就活... — Nov 29, 2025 · この記事では、就職活動を成功に導くための企業分析について、その目的から具体的なやり方、役立つフレームワークまでを7つのステップで網羅的に解説します。 この記事を読めば、企業分析の本質を理解し、自信を持って選考に臨めるようになるでしょう。」（https://crexgroup.com/ja/shukatsu/company-research/company-analysis-how-to-steps/）
+  - 「企業分析のやり方・目的を徹底解説【分析テンプレート付き】 | 新卒の...就活の企業分析のやり方｜見るべき項目やフレームワーク、選考への活...企業分析のやり方完全ガイド｜項目・情報源・活かし方を採用のプロが...企業分析のやり方｜就活のプロが見るべきポイントや注意点を解説 | PO...【28卒】企業分析のやり方とは？4ステップで就活生に向けて解説 - 選... — 企業研究を行う目的は2つあります。 どんなに有名な企業でも、自分の経験や性格にマッチしない企業だと、活躍の幅も限られてしまいます。また、複数の企業から第一志望を絞り込むには「なぜ、その企業でなくてはならないのか？」など、選ぶ理由を明確にする必要があります。 企業研究で上記2つの要素を整理しておくと、ESの準備や面接対策もやりやすくなるでしょう。 See full list on campus.doda.jp 企業研究は、イン」（https://campus.doda.jp/career/job/000292.html）
+  - 「就活の企業分析のやり方｜見るべき項目やフレームワーク、選考への活... — 就活の企業分析のやり方を徹底解説。企業分析を行う目的から、ミッション・IR・求人情報などの調べ方、企業・業界・競合・自分の4つの視点で整理するフレームワーク、志望動機や面接に活かすポイントまで紹介します。」（https://corp.neo-m.jp/marketer-gate/career-column/company-analysis）
+  - 「企業分析のやり方とは？効果的な項目や注意点を紹介 | あばば大学 — Jul 27, 2026 · 企業分析のフレームワーク 効率よく企業分析をするには、フレームワークの活用がおすすめです。考え方の枠組みとなるフレームワークを使って分析することで、より効率的に企業理解を深められます。以下では、企業分析におすすめのフレームワークを3つ紹介します。 3C分析 3C分析とは ...」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
+  - 「企業分析のやり方完全ガイド｜項目・情報源・活かし方を採用のプロが... — Apr 16, 2026 · 企業分析ノートの作り方と競合比較 集めた情報は、頭の中に置いておくだけでは面接で引き出せません。 企業分析ノート として1社ごとに整理しておくことを強くおすすめします。ノートは前述の7項目（事業内容・ビジネスモデル・強み弱み・業績・将来性・社風・求める人物像）を見出しに ...」（https://sinmido-recruit.com/columns/企業分析のやり方｜有報・四季報・ir資料を使った/）
 
 ## 求人情報・採用ページから会社の実態を読む方法（infer company from job postings）
 - 文脈：企業
@@ -954,6 +966,11 @@
   - 「新規事業の失敗要因を6つの軸で診断」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「売上高がわからないときにやりがちな失敗を先に知っておくと、余計な減点を防げます」（https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/）
   - 「opinion adds credibility during negotiations, legal proceedings, or tax-related matters where a defensible valuation is required. The main goal is to provide a fair, unbiased, and well-supported estimate that guides critical financial decisions with confidence.」（https://raincatcher.com/private-company-valuation/）
+  - 「「大会社」に該当するかどうかによって、公告すべき書類の範囲が変わる点にも注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
+  - 「電子公告の注意点として、官報や日刊新聞紙では貸借対照表の「要旨」で済むのに対し、電子公告では「全文」の掲載が必要です」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
+  - 「ただし、以下の点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
+  - 「ただし、これは株主総会の手続きに関する特則であり、決算公告の義務自体が免除されるわけではない点に注意してください」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
+  - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
 - 実例：
   - 「決算公告義務を怠った場合、法律上は「100万円以下の過料」と定められているものの、実際には適用されるケースが極めて稀だからです」（https://note.com/pythonddd/n/nd056ead22003）
   - 「つまりBtoC企業であれば「情報がない ≒ 大した規模ではない ≒ 赤字ギリギリ」という見立てで大体合っています（※ただしBtoBのニッチトップ企業や下請け企業は、優良でも意図的に情報を出さないケースがあるため注意が必要です）」（https://note.com/pythonddd/n/nd056ead22003）
@@ -970,6 +987,8 @@
   - 「例えば、架空のA社グループが食品卸と発注支援ソフトを営んでいるとします」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「検索結果が3件あることを「3つの独立した情報で確認できた」とは扱いません」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「例えば月額3万円で、年間平均200契約、期末時点では300契約まで増えた架空のサービスを考えます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+- 検索結果の抜粋：
+  - 「How to Find Company Revenue: 6 Methods (2026) — Key takeaways To find a company's revenue, first check whether it is public, registered where accounts are filed, or neither. Public companies report exact revenue in SEC filings and annual reports. Many private companies in France, the UK, and the EU file turnover in official registries. When no figure is filed, estimate it with the revenue-per-empl」（https://derrick-app.com/business-data/find-revenue）
 
 ## アナリスト・投資家のnoteにある企業分析の型（equity analyst company analysis process blog）
 - 文脈：凄腕・企業分析
@@ -1053,6 +1072,8 @@
   - 「このギャップを埋めるために、例えば〇〇分野へのM&Aや、海外進出といった非連続な手を打つお考えがあるのでしょうか？」「そもそも御社の現在のコスト構造のままでは、利益300億円は難しいように感じます」（https://note.com/nakanoam/n/nafb26eef1ed8）
   - 「例えば、かつては「コピー機というハードウェアを売る会社」だった企業が、今は「オフィスのITソリューションを提供するサービス企業」へと変貌しようとしているケースを考えてみましょう」（https://note.com/nakanoam/n/nafb26eef1ed8）
   - 「夢を語るだけでなく、最悪のケースを想定できているか」（https://note.com/nakanoam/n/nafb26eef1ed8）
+- 検索結果の抜粋：
+  - 「5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノー... — 大手証券会社にてアナリストとして7年間勤務。主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。」（https://note.com/investers_notes/all）
 
 ## 戦略コンサルのデスクリサーチと仮説検証の型（strategy consultant desk research hypothesis method）
 - 文脈：凄腕・型
@@ -2194,54 +2215,6 @@
   - 「などへ検索の指示を渡し、ウェブ上の膨大なページから関連する情報を探し出させ、引用元のリンクが添えられた初期レポートの形で結果を引き出します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「その結果をもとに、工程の統合や並列化、ツール連携、結果の検証と修正の手順を組み込みます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 
-## 代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率）（entity resolution survivorship rules precision recall human review）
-- 文脈：同一性
-- 手順・やり方：
-  - 「Entity Resolution for Enterprise Data: How It Works, Where It Fails, and How to Choose the Right Tool」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「Deduplication is often one step within entity resolution. Deduplication generally identifies duplicate records within a dataset, whereas entity resolution can connect related records across multiple sources and determine which records collectively represent the same real-world entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「What Is an Entity Resolution Framework?」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「An entity resolution framework is the end-to-end process used to identify which records refer to the same real-world entity. It defines how data is prepared, how potential matches are generated and evaluated, how related records are grouped, and how uncertain decisions are reviewed and monitored.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「A complete enterprise entity resolution framework generally includes the following stages:」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「Candidate records are compared across relevant attributes. Different fields may require different comparison methods.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「The right approach depends on the entity type, data quality, available identifiers, acceptable error rates, and the consequences of an incorrect decision. Exact or deterministic methods may be sufficient for clean data with dependable identifiers, while inconsistent and incomplete enterprise data generally requires a hybrid approach.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「No single customer identifier is shared across all three systems, and the organization name, address, and email address differ between the records. An entity resolution framework could process them as follows:」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「Entity resolution tools offer significant advantages over traditional manual or rule-based ER methods. These include:」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「How to Measure Entity Resolution Quality」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「How to Choose the Right Entity Resolution Software」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「No. Some implementations only identify and group records belonging to the same entity while preserving every source record. Creating a golden record is a separate canonicalization step that applies survivorship rules to select the preferred values for the resolved entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「What Are Entity Graphs and How to Build One You Can Trust」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「The precision/recall/F-score framework above is the stable, vendor-neutral way to score matching quality. What has sharpened since 2026 is how teams turn those scores into an operational」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
-  - 「how to evaluate entity resolution systems (Binette et al., 2024)」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
-- 突き合わせ・推定：
-  - 「techniques to compare attributes and estimate whether records belong to the same entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「Assigns weights to agreements and disagreements across multiple attributes to estimate whether records refer to the same entity. It is useful when no single reliable identifier is available.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
-  - 「Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
-  - 「For records with incomplete or inconsistent data, use similarity scoring, fuzzy algorithms, or ML models to estimate match likelihood.」（https://www.rudderstack.com/blog/what-is-entity-resolution/）
-- 一次情報の探し方：
-  - 「2. Data Profiling and Standardization」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「Matching records across heterogeneous datasets (e.g., SQL and NoSQL databases, spreadsheets, PDFs) can be exceptionally difficult due to different types of entities, encoding, formatting, languages, and schemas. Converting all this different type of data into a pre-defined schema through schema-matching and data exchange is a risky process and can result in the loss of valuable information.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「2. Scalable Data Profiling and Cleansing」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「3. Linking and profiling」（https://www.rudderstack.com/blog/what-is-entity-resolution/）
-- 実例：
-  - 「For example, a CRM may contain a customer named “Maria Hernandez,” while a billing system records the same person as “M. Hernández.” Their names are not identical, but similarities across their address, email, telephone number, and other attributes may provide enough evidence to link the records to the same customer.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「For example, one system may use “Customer Name,” another “Account Holder,” and a third separate the same information into first-name and last-name fields.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「The appropriate thresholds depend on the consequences of false positives and false negatives for the use case.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「Combines several techniques—for example, exact rules for reliable identifiers, fuzzy comparison for names, and probabilistic scoring across the complete record.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「Regardless of technique, match quality should be evaluated using representative labelled records. Teams should examine precision, recall, false positives, false negatives, and the number of uncertain cases requiring human review rather than relying on a single vendor-provided accuracy percentage.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「Worked Example: Resolving Customer Records Across Enterprise Systems」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「contact@alpinemedical.example」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「accounts@alpinemedical.example」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「support@alpinemedical.example」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「This example illustrates why entity resolution is broader than simply deleting duplicate rows. The process evaluates evidence across systems, groups related records, preserves source lineage, and creates a usable representation of the underlying entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「Adapt ER rules for different business use cases (e.g., customer data deduplication vs. fraud detection).」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「In most cases, time is critical for ER projects, especially in the case of」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「Entity Resolution Use Cases」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「A single accuracy percentage can be misleading because most possible record pairs are non-matches. Evaluation should therefore include false positives, false negatives, the percentage of cases requiring human review and the quality of complete entity clusters—not only individual record pairs.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-
 ## 情報機関の手法を企業調査に（代理観測・倫理の線・裁判記録）（everprogress note）（intelligence tradecraft applied to business research alternative data proxy observation ethics）
 - 文脈：分析の型
 - 手順・やり方：
@@ -2302,10 +2275,184 @@
   - 「第3章でも、実務で取り扱った企業案件の事例とあわせて詳しく解説している」（https://shiraberu-note.com/public-records-corporate-verification/）
   - 「したがって、「登記簿に株主が出ていない」のは隠蔽ではなく、制度上の分離の結果だ」（https://shiraberu-note.com/public-records-corporate-verification/）
 
+## 代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率）（entity resolution survivorship rules precision recall human review）
+- 文脈：同一性
+- 手順・やり方：
+  - 「Entity Resolution for Enterprise Data: How It Works, Where It Fails, and How to Choose the Right Tool」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「Deduplication is often one step within entity resolution. Deduplication generally identifies duplicate records within a dataset, whereas entity resolution can connect related records across multiple sources and determine which records collectively represent the same real-world entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「What Is an Entity Resolution Framework?」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「An entity resolution framework is the end-to-end process used to identify which records refer to the same real-world entity. It defines how data is prepared, how potential matches are generated and evaluated, how related records are grouped, and how uncertain decisions are reviewed and monitored.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「A complete enterprise entity resolution framework generally includes the following stages:」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「Candidate records are compared across relevant attributes. Different fields may require different comparison methods.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「The right approach depends on the entity type, data quality, available identifiers, acceptable error rates, and the consequences of an incorrect decision. Exact or deterministic methods may be sufficient for clean data with dependable identifiers, while inconsistent and incomplete enterprise data generally requires a hybrid approach.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「No single customer identifier is shared across all three systems, and the organization name, address, and email address differ between the records. An entity resolution framework could process them as follows:」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「Entity resolution tools offer significant advantages over traditional manual or rule-based ER methods. These include:」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「How to Measure Entity Resolution Quality」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「How to Choose the Right Entity Resolution Software」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「No. Some implementations only identify and group records belonging to the same entity while preserving every source record. Creating a golden record is a separate canonicalization step that applies survivorship rules to select the preferred values for the resolved entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「What Are Entity Graphs and How to Build One You Can Trust」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「The precision/recall/F-score framework above is the stable, vendor-neutral way to score matching quality. What has sharpened since 2026 is how teams turn those scores into an operational」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「how to evaluate entity resolution systems (Binette et al., 2024)」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+- 突き合わせ・推定：
+  - 「techniques to compare attributes and estimate whether records belong to the same entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「Assigns weights to agreements and disagreements across multiple attributes to estimate whether records refer to the same entity. It is useful when no single reliable identifier is available.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「For records with incomplete or inconsistent data, use similarity scoring, fuzzy algorithms, or ML models to estimate match likelihood.」（https://www.rudderstack.com/blog/what-is-entity-resolution/）
+- 一次情報の探し方：
+  - 「2. Data Profiling and Standardization」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「Matching records across heterogeneous datasets (e.g., SQL and NoSQL databases, spreadsheets, PDFs) can be exceptionally difficult due to different types of entities, encoding, formatting, languages, and schemas. Converting all this different type of data into a pre-defined schema through schema-matching and data exchange is a risky process and can result in the loss of valuable information.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「2. Scalable Data Profiling and Cleansing」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「3. Linking and profiling」（https://www.rudderstack.com/blog/what-is-entity-resolution/）
+- 実例：
+  - 「For example, a CRM may contain a customer named “Maria Hernandez,” while a billing system records the same person as “M. Hernández.” Their names are not identical, but similarities across their address, email, telephone number, and other attributes may provide enough evidence to link the records to the same customer.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「For example, one system may use “Customer Name,” another “Account Holder,” and a third separate the same information into first-name and last-name fields.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「The appropriate thresholds depend on the consequences of false positives and false negatives for the use case.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「Combines several techniques—for example, exact rules for reliable identifiers, fuzzy comparison for names, and probabilistic scoring across the complete record.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「Regardless of technique, match quality should be evaluated using representative labelled records. Teams should examine precision, recall, false positives, false negatives, and the number of uncertain cases requiring human review rather than relying on a single vendor-provided accuracy percentage.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「Worked Example: Resolving Customer Records Across Enterprise Systems」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「contact@alpinemedical.example」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「accounts@alpinemedical.example」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「support@alpinemedical.example」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「This example illustrates why entity resolution is broader than simply deleting duplicate rows. The process evaluates evidence across systems, groups related records, preserves source lineage, and creates a usable representation of the underlying entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「Adapt ER rules for different business use cases (e.g., customer data deduplication vs. fraud detection).」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「In most cases, time is critical for ER projects, especially in the case of」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「Entity Resolution Use Cases」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+  - 「A single accuracy percentage can be misleading because most possible record pairs are non-matches. Evaluation should therefore include false positives, false negatives, the percentage of cases requiring human review and the quality of complete entity clusters—not only individual record pairs.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+
 ## 非上場の売上を複数の信号で挟む（Inven・CUFinder）（private company revenue estimate multiple signals top-down bottom-up conservative）
 - 文脈：推定
+- 手順・やり方：
+  - 「企業の年間売上高調査の仕組み：かんたん3ステップ」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「企業の売上高を大規模に調べるのは3ステップ」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「How to Find a Company’s Annual Revenue (Public and Private)」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「Learn 6 proven methods to find company annual revenue data and size deals perfectly. Turn revenue intelligence into bigger proposals and higher win rates.」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「How to Find the Annual Revenue of a Private Company」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「How to estimate the annual revenue of a private company that never files public numbers, using signals, benchmarks and enrichment data.」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「Where to get reliable company revenue figures in 2026. The databases worth trusting and how to pull accurate numbers at scale.」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「How to Find the Revenue of a Company (One or a Whole List)」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「How to find a company's revenue: free filings for public companies, honest estimate methods for private ones, and a bulk workflow for whole lists.」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「最も手早いのは、CUFinderのような売上検索ツールを使う方法です」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+- 突き合わせ・推定：
+  - 「CUFinderなら、あらゆる企業の推定年間売上レンジを、一括でもAPI経由でも取得できます」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「企業名、ドメイン、またはLinkedIn URLをアップロードすると、CUFinderが各企業の推定年間売上レンジを返します」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「約1秒で、CUFinderが推定年間売上レンジを返します」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「CUFinderの企業売上ファインダーは、推定売上高を従業員数や業種とあわせて返すため、手作業のリサーチなしで規模別にアカウントを見極め、ティア分けできます」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「1B+件のプロフィールと照合」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「推測ではなく、検証済みの売上データ」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「CUFinderは、毎日更新されるデータベースと照合してすべての売上の数値を検証しており、全サービスで98%+の正確性を維持しています」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「CUFinderは10億件以上（1B+）のコンタクトプロファイルと8,500万件以上（85M+）の企業プロファイルを活用し、すべてを自動検証で毎日更新しています」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「How to estimate the annual revenue of a private company that never files public numbers, using signals, benchmarks and enrichment data.」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「How to find a company's revenue: free filings for public companies, honest estimate methods for private ones, and a bulk workflow for whole lists.」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「企業名、ドメイン、LinkedIn URLをアップロードするだけで、従業員規模、業界ベンチマーク、検証済みの情報源などのシグナルにもとづいて推定年間売上高が返されます」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「プレスリリース、LinkedInの従業員数、業界レポートから手作業で推定値をつなぎ合わせる必要はありません」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「非上場企業の売上データや推定値を調べるには？」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「数分で、非上場企業も含めたリスト内の各企業の売上推定値が得られます」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「非上場企業の売上高を推定するには、通常、従業員数、業界平均、資金調達履歴、公開情報などを調べる必要があります」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+- 一次情報の探し方：
+  - 「How to find a company's revenue: free filings for public companies, honest estimate methods for private ones, and a bulk workflow for whole lists.」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+- 実例：
+  - 「手軽な単発検索でも一括の売上エンリッチメントでも、すぐに結果が返ります」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「「Not Found」（該当なし）の結果には料金がかからないため、見つからなくてもコストは一切かかりません」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「この圧倒的なデータ量があるからこそ、大量処理でも結果が信頼され、G2では1,000件以上のレビューをもとにLeaderとTop Performerのバッジを獲得しています」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「What Is Firmographic Data? Definition, Examples, and Sources」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「Learn what firmographic data is, with clear examples, the core data points, how it differs from demographic and technographic data, and where to get it.」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「結果はExcelにエクスポートすることも、HubSpot、Salesforce、Zohoに直接送信して、すぐにリードスコアリングやセグメント化に活用することもできます」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+
+## 出どころを元までたどり、こだまを束ねる（source triangulation・検証の表）（source triangulation trace to origin echo verbatim numbers validation matrix）
+- 文脈：突き合わせ
 - 手順・やり方：記載なし（読んだ30頁・検索12回）
 - 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 - 実例：記載なし（読んだ30頁・検索12回）
+
+## コンサルの調べ方（目的・予想の仮説・公益社団法人の調査報告）（consulting desk research hypothesis expected answer association reports）
+- 文脈：分析の型
+- 手順・やり方：
+  - 「コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！ - Rally Note〜激しい環境変化を乗り越えるためのビジネスマガジン〜」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「「リサーチのレベルを高める良いやり方やコツはあるの？」」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「この記事を読めば、リサーチの種類や方法から具体的なリサーチの事例について理解が深まっていくはずです」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「3.リサーチの方法とポイント」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「3-2.リサーチの全体像・手順を設計する」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「4-2．リサーチの作業手順」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「では実際にどのような手順でリサーチを行っていけば良いのでしょうか」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「次章ではリサーチの方法とポイントについて解説していきます」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「それぞれリサーチを進めていく大枠の手順は同じです」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「入社後すぐにアナリストとして任されることが多い「デスクリサーチ」を例に方法と注意すべきポイントを解説」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「上記のように整理することで効率よく次のステップを進めることができます」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「リサーチの全体的な計画を立てることでデータの収集方法や情報源、調査にかかるスケジュールを明確にすることができます」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「その後の分析やアウトプット作成に繋げるために欠かせないステップです」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「上記のように背景、目的などを整理した後、リサーチの全体像・手順を設計したうえで、以下のステップ・参考情報をもとにリサーチを行いました」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+- 突き合わせ・推定：
+  - 「こともあり戦略や調査設計時の仮説構築のために使われることが多いです」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「どのような情報になるか事前に仮説をたてておくことも重要です」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「仮説に基づいて示唆出し、アウトプットの整理」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+- 一次情報の探し方：
+  - 「日本ロジスティクスシステム協会などの公益社団法人の調査報告・統計結果」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「現在のメンバーは6名ですが、事業拡大に伴い採用を強化しています」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「正直にお伝えすると、その背景には採用難易度の高さがあります」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「もし少しでもRally Growthに興味をお持ち頂けたら、以下のリンクよりRally Growthの採用サイトをご覧ください」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「以下のラインナップで採用に関する情報を、かなり詳しく掲載しています」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「以下よりRally Growthの採用や会社概要に関する資料もご請求いただけます」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「Rally Growthに関する情報を1ファイルのPDFでまとめて見ることができるため、まとまった資料をご希望の方は以下リンクよりご請求ください」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「＜Rally Growth 会社概要・採用情報資料 イメージ＞」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+- 失敗・落とし穴：
+  - 「入社後すぐにアナリストとして任されることが多い「デスクリサーチ」を例に方法と注意すべきポイントを解説」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「次世代のマテハン「物流ロボット」を解説！導入のメリットと注意点」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+- 実例：
+  - 「コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！ - Rally Note〜激しい環境変化を乗り越えるためのビジネスマガジン〜」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「リサーチは販売戦略やサービス開発戦略を検討する際に市場の声を集めたり、システム導入のベンダー選定時に各社の情報を収集する際など、多様なケースで欠かせないもの」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「この記事を読めば、リサーチの種類や方法から具体的なリサーチの事例について理解が深まっていくはずです」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「市場規模・動向や生活者のトレンドなど、既に存在する調査結果、文献などをインターネットを使って情報収集する調査」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「ベンダー情報や課題解決につながるサービスに関する情報を収集するケースなども、このデスクリサーチに該当します」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「例えば、「なぜ買いたいと思ったのか」「商品を使い続けている理由」など、数値化できない想いや価値観、行動背景がわかります」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「例えば、特定の質問に【はい】と答えた人は○％、【いいえ】と答えた人は▲％といった表し方でデータを確認します」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「データの集計がしやすい点や結果に対して共通認識を持ちやすく解釈がしやすいことも定量調査の特徴です」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「例えば、リサーチを行いながら以下の点について整理を行います」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「背景・目的を確認できていないと無数にある情報の中から手当たり次第に調べていくことになり、結果的に無駄な情報を収集することになります」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「例えば、新商品の市場導入を検討している場合を例に挙げると」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「リサーチ結果を明確な形で整理し、洞察に基づいた示唆をまとめることで、リサーチの成果を最大限に活用できます」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「リサーチ結果はただ情報を集めるだけでなく、組織内での意思決定や戦略策定に活かすために必要」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「という想定で、デスクトップリサーチを行った事例をご紹介します」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+- 検索結果の抜粋：
+  - 「コンサル のリサーチ実務どうやるの？4つのステップを実例 ... — コンサル のリサーチ実務どうやるの？4つのステップを実例 ... ラリーグロース株式会社 https://note.rallygrowth.co.jp > おすすめ」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+
+## 非上場の1人あたり売上の業種別ベンチマーク（BizMiner ほか）（revenue per employee benchmark by industry and size private companies）
+- 文脈：推定
+- 手順・やり方：
+  - 「Revenue per Employee by Industry: 2026 Benchmarks and How To Calculate Yours」（https://www.venasolutions.com/blog/average-revenue-per-employee）
+  - 「How To Calculate Revenue per Employee」（https://www.venasolutions.com/blog/average-revenue-per-employee）
+  - 「How To Measure Financial Efficiency: 10 Metrics To Track in 2026」（https://www.venasolutions.com/blog/average-revenue-per-employee）
+  - 「Find the true cost of your workforce beyond salary. Learn how to calculate total employee expenses, including hidden costs like benefits, taxes and overhead.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
+  - 「Learn the difference between revenue and profit, the various methods of calculating each, and which metric matters most based on your business.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
+  - 「Step 1: Pull your revenue figure.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「Step 2: Pull your employee count.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「Step 3: Define who counts.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「Step 4: Divide and interpret in context.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「Adjusts employee count to reflect full-time equivalents, giving part-time workers fractional weight. More precise for organizations with variable workforce composition, and often the better choice when benchmarking against peers who use the same method.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「Revenue figures may be finalized on a different cadence than headcount reporting. Document the sourcing method so period-over-period comparisons stay consistent.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「For private SaaS companies specifically, SaaS Capital's 2025 survey of more than 1,000 firms found a median of $129,724 per FTE, up from $125,000 in the prior year. This is one of the few sector figures with a disclosed methodology and sample size.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「How to use these figures:」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「RPE calculated using month-end headcount differs from RPE using average headcount for the period. Neither is wrong, but switching between them creates false trends. Document which method applies every time the number is reported.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「recommends staying consistent within your comparison set rather than picking whichever method flatters the number.」（https://bizminer.com/revenue-per-employee-benchmarks/）
+- 実例：
+  - 「Top Analyze Use Cases」（https://bizminer.com/analyze-with-custom-report/）
+  - 「For example, a software company pulling in $1.76 million per employee and a hospital averaging $8,700 are both running normal operations for their industry. One runs on code and licensing. The other runs on a large network of staff and overnight shifts. We may be looking at the same metric, but each has a completely different story.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
+  - 「Labor-intensive industries such as restaurants, general retail and hospitals cluster at the low end, with RPE figures below $35,000 in some cases, reflecting high headcount relative to revenue.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
+  - 「For example, a software company and a hospital can both be healthy, well-run businesses and show wildly different RPE figures. The U.S. total market average sits at $111,000 per employee, but that number masks enormous variation by industry.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
+  - 「Cross-industry comparisons also have limits. An industry’s structure shapes RPE as much as management quality does, which is why our previous example of comparing a hospital to a software company on this metric tells you very little of analytical value.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
+  - 「When RPE is falling, two root causes explain most cases. Headcount grew faster than revenue, meaning the organization hired ahead of actual demand. Or revenue declined while headcount held steady, meaning a retention or hiring freeze decision is already overdue. Each cause calls for a different response.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
+  - 「Reconciliation example」（https://bizminer.com/revenue-per-employee-benchmarks/）
+  - 「TAM, SAM, and SOM: Definitions, Formulas, and Examples」（https://bizminer.com/revenue-per-employee-benchmarks/）
+- 検索結果の抜粋：
+  - 「Revenue Per Employee Benchmarks : 2026 Ranges by Industry — Revenue Per Employee Benchmarks : 2026 Ranges by Industry Bizminer https://bizminer.com > revenue-per-e...」（https://bizminer.com/revenue-per-employee-benchmarks/）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）

@@ -1,0 +1,1361 @@
+{
+ "name": "職業別有効求人倍率（生産工程・機械技術者）の同じ年どうし",
+ "en": "job openings ratio by occupation production process mechanical engineer Japan",
+ "aliases": [
+  "一般職業紹介状況 職業別 有効求人倍率 生産工程",
+  "機械技術者 有効求人倍率 推移",
+  "site:mhlw.go.jp 職業別 求人倍率 製造"
+ ],
+ "context": "職種",
+ "kind": "market",
+ "researched_at": "2026-11-05T05:09:01.006679+00:00",
+ "evidence": {
+  "セグメント定義": [
+   {
+    "quote": "【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較｜転職ノウハウ・ニュース｜NEXT ENGINEER（ネクストエンジニア）",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、厚生労働省のデータをもとに、機械・電気系職種別の人手不足状況をランキング形式で整理します",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "あわせて、機械設計、電気・電子設計、品質保証・品質管理、CADオペレーターなどの職種別に、需要の背景や転職市場で評価されやすいスキルも解説します",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "【職種別】機械・電気系エンジニアの有効求人倍率・人手不足マップ",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別に評価されやすい経験は、以下のとおりです",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気系職種別スキルマトリクス｜5職種の必須スキル・強み・キャリアを一覧比較",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別の有効求人倍率──一般事務0.29倍、建設躯体工事7.94倍で約27倍の差 | Coachers Inc.",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別の有効求人倍率──一般事務0.29倍、建設躯体工事7.94倍で約27倍の差",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別の倍率の読み方と、倍率が高い職種・低い職種で募集の何を変えるかを、1枚のシートに落とすところまで書きます",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 職種別の有効求人倍率は、どれくらい開いているのか",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別の有効求人倍率は、どれくらい開いているのか",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 職種別の有効求人倍率はどこで見られますか?",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別・都道府県別有効求人倍率 第1部 雇用市場の概観",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別で最も有効求人倍率が高かったのは「東京都」",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・都道府県別有効求人倍率で最も高かったのは「東京都」で1.73倍、次いで福井県で1.69倍だった",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● 職業別 有効求人倍率 ● 都道府県別 有効求人倍率",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・業種別にみると、製造業の業況判断DIは、IT関連需要の増加や関税引き上げの影響緩和などを背景に、前回からプラス幅を拡大している",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● 日銀短観 業況判断D.I. 実績 業種別（「景気が良い」-「景気が悪い」）",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・業種別で見ると不足感が高かった業種は「建設業」だった",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・業種別にみると、「増えた計」の割合は「不動産・建設・設備・住宅関連」が45.4％、「IT・通信・インターネット」が44.0%と特に高かった",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員規模が大きい企業ほど、経験者採用を厳しくした傾向が見られた",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経験者採用においては従業員規模の大きい会社",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・業種別で見ると、「経験者採用に積極的計」は「医療・福祉・介護」が最も高く、「未経験者採用に積極的計」は「運輸・交通・物流・倉庫」が最も高かった",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは？意味・計算方法・職種別の最新データや推移を解説｜マイナビ転職",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは？意味・計算方法・職種別の最新データや推移を解説",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別（職業別）有効求人倍率（2025年5月）",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "上記は、2025年5月の職種別（職業別）有効求人倍率です",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月の職種別有効求人倍率から、労働市場のギャップが見て取れます",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（2025年5月）",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "全国・都道府県別の有効求人倍率を、2025年5月と、2024年の5月で比較しています",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県・地域別有効求人倍率（就業地別・季節調整値）",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "1万人以上の面接と人事に携わった経験から、執筆、講演活動にて就職・転職支援を行う",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は、職業別や都道府県別でも集計されており、職業やエリアによって倍率が異なります",
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員全体、職業別、都道府県別の有効求人倍率をご紹介します",
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "pass": 3
+   },
+   {
+    "quote": "キャリアプランとは？考え方のポイントと年代・職種別の例文、面接の答え方を解説",
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "pass": 3
+   },
+   {
+    "quote": "ると、非正規の職員・従業員比率は上昇傾向にあり（図表 11-1）、我が国労働市場におけ",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191220109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 11-1 非正規の職員・従業員比率 図表 11-2 就業形態別の総実労働時間 17",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191220109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "15 例えば、厚生労働省「毎月勤労統計」によれば、平成 30 年の月間総実労働時間（事業所規模５人以上、再",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191220109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "17 厚生労働省「毎月勤労統計」の労働時間指数（総実労働時間（事業規模５人以上））",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191220109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "非正規の職員・従業員（男女計、右軸）",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191220109.pdf",
+    "pass": 3
+   }
+  ],
+  "採用単価": [
+   {
+    "quote": "では、常時15,000件以上の求人情報を掲載し、リモートワークや最寄り駅から徒歩10分、月給30万円以上求人などのこだわり条件検索も可能なため、自分に合った求人を見つけやすいのが特徴です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "月給30万円以上の求人を見てみる",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "月給30万円以上",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "2005 2014（万円）",
+    "url": "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "pass": 3
+   },
+   {
+    "quote": "求職者1人あたりの求人数で、約27倍の開きがあります",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "転職前後の平均年収差は19.2万円",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・転職前後の年収はともに「300～349万円」が最も多かったが、転職後は300万円未満が減少し、700～849万円の回答数が増加している",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・単一回答をもとに平均年収を求めると、転職前は平均514.5万円、転職後は平均533.7万円となり、19.2万円の差となった",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークにおける有効求人数を有効求職者数で割って算出される指標で、求職者1人あたりにどれだけの求人があるか",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、1人あたり2件の求人があるということを指します",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "この場合、1人あたり1件にも満たない求人しかないため、仕事を探す人が多く、求人が少ない状況です",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "（1人あたり1.5件の求人がある状態）",
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は、求職者1人あたり何件の求人があるかを表した指標です",
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "pass": 3
+   }
+  ],
+  "充足・欠員": [
+   {
+    "quote": "【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較｜転職ノウハウ・ニュース｜NEXT ENGINEER（ネクストエンジニア）",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気系エンジニアは、全職業平均と比べて有効求人倍率が高い傾向にあります",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、設備保全エンジニアや組込みエンジニア、生産技術エンジニアは求人需要が高く、人手不足が目立つ職種です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、厚生労働省のデータをもとに、機械・電気系職種別の人手不足状況をランキング形式で整理します",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気系エンジニアの有効求人倍率は全職業平均を上回る職種が多い",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の職種ほど経験やスキルの市場価値を整理しやすい",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "【職種別】機械・電気系エンジニアの有効求人倍率・人手不足マップ",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気系職種の人手不足ランキングTOP8",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の機械・電気系職種が安定して働きやすい理由",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気系職種の有効求人倍率に関するよくある質問",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気系職種で特に人手不足の職種はどれですか？",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率が高い職種を選べば転職しやすいですか？",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは、仕事を探している人1人に対して、何件の求人があるかを示す数値です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省によると、令和6年度平均の有効求人倍率は全職業で1.25倍でした",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年2月の生産工程の有効求人倍率は1.94倍で、前月に比べて0.04ポイント増加",
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年2月の有効求人倍率は1.21倍で、前月に比べて0.01ポイント増加",
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業別有効求人倍率（常用除パート：2015年計）",
+    "url": "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "pass": 3
+   },
+   {
+    "quote": "職種別の有効求人倍率──一般事務0.29倍、建設躯体工事7.94倍で約27倍の差 | Coachers Inc.",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別の有効求人倍率──一般事務0.29倍、建設躯体工事7.94倍で約27倍の差",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月の有効求人倍率は、一般事務が",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 職種別の有効求人倍率は、どれくらい開いているのか",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別の有効求人倍率は、どれくらい開いているのか",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月の有効求人倍率は、職業計で1.05倍、一般事務が0.29倍、建設躯体工事が7.94倍でした",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "①職種〈 〉／②近い分類の有効求人倍率〈 倍〉／③いまの月あたり応募数〈 件〉／④主な打ち手〈集める・選ばれる・返す のどれか〉",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 職種別の有効求人倍率はどこで見られますか?",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員の有効求人倍率は1.00倍、でも充足率は8.2%──決まらない求人の直し方",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率 1.40 1.40 1.08 0.76 0.64 0.63 0.70 0.72 0.53 0.48 0.59 0.59 0.54 0.64 0.83 0.95 1.06 1.04 0.88 0.47 0.52 0.65 0.80 0.93 1.09 1.20 1.36 1.50 1.61 1.60 1.18 1.13 1.28 1.31 1.25 1.22 (%)",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人数、有効求職者数および有効求人倍率の推移 第1部 雇用市場の概観",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の有効求人倍率は1.22倍（前年比0.03ptマイナス）",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・有効求人倍率は、2023年から減少が続いている",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● 有効求人数、有効求職者数、有効求人倍率 推移",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職種別・都道府県別有効求人倍率 第1部 雇用市場の概観",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別で最も有効求人倍率が高かったのは「東京都」",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「建築・土木・測量技術者」は最も有効求人倍率が高く6.76倍、次いで「介護サービスの職業」が3.51倍となった",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・職業別有効求人倍率では「一般事務の職業」が1を割っており、求職者数が求人数を上回っていた",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・都道府県別有効求人倍率で最も高かったのは「東京都」で1.73倍、次いで福井県で1.69倍だった",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● 職業別 有効求人倍率 ● 都道府県別 有効求人倍率",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "過不足感 第1部 雇用市場の概観",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "正社員の不足感はコロナ前を上回る勢いが続いている",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年は不足感は変わらず高い様子が見られ、2025年の人材不足感は微減となった",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・業種別で見ると不足感が高かった業種は「建設業」だった",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは？意味・計算方法・職種別の最新データや推移を解説｜マイナビ転職",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは？意味・計算方法・職種別の最新データや推移を解説",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは、「仕事の数」を「仕事をしたい人の数」で割った数値のこと",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は、雇用動向を示す重要な指標であり、転職や就職活動を行う際に参考になります",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "最新の有効求人倍率を紹介すると共に、その計算方法や読み解き方について解説します",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは、",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率が「1」を超えている時は、求職者数を上回る求人数があることを意味し、売り手市場と言えます",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率が高いほど、求職者にとっては転職しやすい傾向となります",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、有効求人倍率が「1」を下回っている時は、求職者数よりも求人数が少ないことを意味し、買い手市場となります",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率 ＝ 有効求人数（件）÷ 有効求職者数（人）",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、有効求人数が200件、有効求職者数が100人の場合、有効求人倍率は「2.0倍」になります",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、有効求人数が80件、有効求職者数が100人の場合、有効求人倍率は「0.8倍」です",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、有効求人倍率の計算対象には、正規雇用だけでなく、バイト・派遣・契約社員などの非正規雇用も含まれています",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率に関連する用語の定義について、詳しくは次の章でお伝えします",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は、全国のハローワーク（※）の求人数と求職者数を基に、厚生労働省が算出しています",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "「有効求人倍率」とは？正社員の推移や注目の職種を紹介 ｜ リクルートエージェント %",
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "pass": 3
+   },
+   {
+    "quote": "「有効求人倍率」とは？正社員の推移や注目の職種を紹介",
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が定期的に発表する「有効求人倍率」",
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "ものづくり白書から見る機械・電気系人材が不足する理由",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省によると、令和6年度平均の有効求人倍率は全職業で1.25倍でした",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、job tagに掲載された令和6年度の全国値を見ると、機械設計技術者は3.21倍、生産・品質管理技術者は4.15倍、システムエンジニア（組込み、IoT）は4.77倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "一般職業紹介状況(令和7年3月分及び令和6年度分)について",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "job tagに掲載された令和6年度の全国有効求人倍率を見ると、職種によって0.79倍から6.00倍まで差があり、機械・電気系全体を1つの数値で捉えることはできません",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械設計エンジニアに近い「機械設計技術者」の有効求人倍率は、令和6年度の全国値で3.21倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "電気・電子設計エンジニアに近い「電子機器技術者」の有効求人倍率は、令和6年度の全国値で2.68倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "生産技術エンジニアに近い「生産・品質管理技術者」の有効求人倍率は、令和6年度の全国値で4.15倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "設備保全エンジニアの参考となる「物流設備管理・保全」の有効求人倍率は、令和6年度の全国値で6.00倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "品質保証・品質管理の参考となる「検査工（工業製品）」の有効求人倍率は、令和6年度の全国値で4.03倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "試験・評価エンジニアの参考となる「自動車技術者」の有効求人倍率は、令和6年度の全国値で2.75倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "組込みエンジニアに該当する「システムエンジニア（組込み、IoT）」の有効求人倍率は、令和6年度の全国値で4.77倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "CADオペレーターの有効求人倍率は、令和6年度の全国値で0.79倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・FPD製造技術者に近い「半導体技術者」の有効求人倍率は、令和6年度の全国値で1.09倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版ものづくり白書（ものづくり基盤技術振興基本法第8条に基づく年次報告）",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "平成27年賃金構造基本統計調査より作成",
+    "url": "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "pass": 3
+   },
+   {
+    "quote": "国勢調査抽出詳細集計（就業者の産業（小分類）・職業（小分類））平成12、17、22年より作成",
+    "url": "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "pass": 3
+   },
+   {
+    "quote": "（注）国勢調査では、「従業上の地」別の人数は集計されておらず、上図は、「正規」「派遣社員」「パート・アルバイト等」",
+    "url": "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "pass": 3
+   },
+   {
+    "quote": "（資料）厚生労働省『介護給付費実態調査 月報（2014年5月審査分）』より作成",
+    "url": "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用・転職総括レポート（2026年版）",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月短観の業況判断DI（全産業全規模）をみると、「良い」超幅は＋17 と９月調査（＋15）からプ",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：日本銀行「全国企業短期経済観測調査（短観）」",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● マイナビ転職 掲載求人数推移（2023年平均を100％とした） ● 前年と比較した中途採用数（単一回答）",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：マイナビ「中途採用状況調査2026年版（2025年実績）」",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・企業の中途採用活動実施理由（複数回答）で最も多く挙げられたのは「組織の強化・活性化のため」、次いで「年齢など人員構成の適正化」となった",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・単一回答で最も多く挙げられたのは「退職者の増加」、次いで「組織の強化・活性化のため」となった",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「退職者の増加」など、喫緊の課題解決を目的とした中途採用とともに、多くの企業で今後を見据えた上での採用活動が実施されていたようだ",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● 中途採用の印象（単一回答） ●厳しかった理由（複数回答）",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "n=1079",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● 前年と比較した選考基準（単一回答） ● 前年と比較した選考基準（単一回答）",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● 厳しくした選考基準の項目上位（複数回答）● 厳しくした選考基準の項目上位（複数回答）",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "n=523 n=435",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●「 転職サイト」を最も利用した理由（複数回答） ※最新版(26年3月)",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● 中途採用活動時に利用した手法（複数回答）※最新版(26年3月)",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が発表している正社員の有効求人倍率には、派遣労働者や契約社員を希望する求職者も含まれているため、厳密に言えば正社員のデータを示したものではない点にも注意が必要です",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "新規求人倍率は、有効求人倍率と併せて厚生労働省が毎月発表します",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "実際の調査値である「原数値」に対して、毎年、決まった時期に起こる変動を取り除いた値を「季節調整値」と言います",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "完全失業率は、完全失業者を労働力人口で割ることで算出され、総務省が「労働力調査」で毎月発表しています",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年は、東日本大震災の影響により、岩手、宮城および福島の各県において調査が一時困難となったことに伴い作成された「全国補完推計値」を使用",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用・転職 総括レポート2025年版（2024年実績）",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "」によると、「経験者採用に積極的」と回答した企業の割合が76.5%、「未経験者採用に積極的」とした企業は47.5%となっています",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月度 中途採用・転職活動の定点調査",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "主な著書「はじめての転職ガイド 必ず成功する転職」（マイナビ出版）、「転職者のための職務経歴書・履歴書・添え状の書き方」（マイナビ出版）、「転職者のための面接回答例」（マイナビ出版）、「転職者のための自己分析」（マイナビ出版） ほか多数",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が定期的に発表する「有効求人倍率」",
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "pass": 3
+   },
+   {
+    "quote": "「有効求人倍率」とは、ハローワークにおける求人数や求職者の就職状況を厚生労働省が集計し、「一般職業紹介状況」として毎月発表している指標を指します",
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で東京を除く関東は千葉、神奈川などが1倍を切っている年度もあり、全国平均と比べると低い水準となっています",
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "pass": 3
+   },
+   {
+    "quote": "職業別に有効求人倍率を見てみると、「専門的・技術的職業従事者」の「建築・土木・測量技術者」は2022年度6.53、2023年度6.61、2024年度6.71と高い水準で推移しています",
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、厚生労働省が発表している「令和６年賃金引上げ等の実態に関する調査の概況」の「第２表 賃金改定区分・企業規模・産業別１人平均賃金の改定額及び改定率」では、令和6年の１人平均賃金の改定額が、建設業は15,283円と全体で2番目に高い水準となっています",
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "pass": 3
+   },
+   {
+    "quote": "「令和６年賃金引上げ等の実態に関する調査の概況」（厚生労働省）",
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "pass": 3
+   },
+   {
+    "quote": "立法と調査 2019. 12 No. 419 参議院常任委員会調査室・特別調査室",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191220109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "立法と調査 2019. 12 No. 419",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191220109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）厚生労働省「一般職業紹介状況」、総務省「労働力調査」より作成",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191220109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "度年次経済財政報告」（経済財政白書）に示されている手法を基に算出した「ミスマッチ指",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191220109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、民間調査11によると、平成",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191220109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "30 年の人手不足による倒産件数は、 25 年の調査開始以来最多となり、 人手確保が困難で事",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191220109.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10 加藤秀忠「均衡失業率の高止まりと雇用ミスマッチの硬直化」（三井住友信託銀行「調査月報」2018 年５月",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191220109.pdf",
+    "pass": 3
+   }
+  ],
+  "採用経路": [
+   {
+    "quote": "2022年2月の全職業の求人広告の中で、生産工程が占める割合は8.4％であった",
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークで扱った求人・求職だけの数字で、民間の転職サービスは含みません",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "建設躯体工事の有効求人は19,298件、ハローワークでこの仕事を探している人は全国で2,432人",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "次いで「人材紹介会社」「ハローワーク」となった",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークにおける有効求人数を有効求職者数で割って算出される指標で、求職者1人あたりにどれだけの求人があるか",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "「有効求人数」は、ハローワークにおける求人数の合計で、「有効求職者数」は、ハローワークに登録して就職活動をしている人の合計です",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は、全国のハローワーク（※）の求人数と求職者数を基に、厚生労働省が算出しています",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークは、正式名称を「公共職業安定所」と言い、全国各地にあります",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人数とは、ハローワークにおいて、当月の新規求人数と前月から繰り越された求人数の合計です",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求職者数とは、ハローワークにおいて、当月の新規求職申込者数と、前月から繰り越された求職者数の合計です",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "「有効求人倍率」とは、ハローワークにおける求人数や求職者の就職状況を厚生労働省が集計し、「一般職業紹介状況」として毎月発表している指標を指します",
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、統計の対象はハローワークを通じた求人に限られているため、民間の転職サイトや転職支援サービスが扱っている求人は含まれていません",
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "pass": 3
+   },
+   {
+    "quote": "3 厚生労働省「一般職業紹介状況」では、公共職業安定所（ハローワーク）における求人・求職動向を捉える",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191220109.pdf",
+    "pass": 3
+   }
+  ],
+  "年間採用費": [
+   {
+    "quote": "日本政府も宇宙を重要な成長分野と位置づけ、「宇宙戦略基金」を通じて、民間企業の技術開発や事業化を総額1兆円規模で支援しています",
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "30",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "quote": "では、常時15,000件以上の求人情報を掲載し、リモートワークや最寄り駅から徒歩10分、月給30万円以上求人などのこだわり条件検索も可能なため、自分に合った求人を見つけやすいのが特徴です"
+   },
+   {
+    "value": "19.2",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "quote": "転職前後の平均年収差は19.2万円"
+   },
+   {
+    "value": "349",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "quote": "・転職前後の年収はともに「300～349万円」が最も多かったが、転職後は300万円未満が減少し、700～849万円の回答数が増加している"
+   },
+   {
+    "value": "300",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "quote": "・転職前後の年収はともに「300～349万円」が最も多かったが、転職後は300万円未満が減少し、700～849万円の回答数が増加している"
+   },
+   {
+    "value": "849",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "quote": "・転職前後の年収はともに「300～349万円」が最も多かったが、転職後は300万円未満が減少し、700～849万円の回答数が増加している"
+   },
+   {
+    "value": "514.5",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "quote": "・単一回答をもとに平均年収を求めると、転職前は平均514.5万円、転職後は平均533.7万円となり、19.2万円の差となった"
+   },
+   {
+    "value": "533.7",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "quote": "・単一回答をもとに平均年収を求めると、転職前は平均514.5万円、転職後は平均533.7万円となり、19.2万円の差となった"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001835705.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lassic.co.jp/media/person/engineer-job-market-data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001203893.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://and-pro.jp/content/article-u2b4c48fz1w/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je26/pdf/p020002.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://coachers.jp/blog/2026095421/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pasona.co.jp/clients/service/column/career/2025furikaeri_2026yosou/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dir.co.jp/report/research/economics/japan/20250709_025196.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/column/labor-market/detail016.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.transtructure.com/hr-data-analysys/labor/p17764/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191220109.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&query=%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/tokyo-hellowork/content/contents/002470629.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/114-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/25/backdata/01-02-06.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/tokyo-hellowork/content/contents/002086420.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "職業別有効求人倍率（生産工程・機械技術者）の同じ年どうし 採用単価 規模別",
+   "results": [
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001835705.pdf",
+    "https://lassic.co.jp/media/person/engineer-job-market-data/",
+    "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "https://nextengineer.com/blog/know-how001/",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://www.r-agent.com/guide/start/32493/",
+    "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "https://job.goo.to/occupations/ratio"
+   ]
+  },
+  {
+   "query": "職業別有効求人倍率（生産工程・機械技術者）の同じ年どうし 採用コスト 調査 万円",
+   "results": [
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://nextengineer.com/blog/know-how001/",
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001203893.pdf",
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://and-pro.jp/content/article-u2b4c48fz1w/",
+    "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "https://www5.cao.go.jp/j-j/wp/wp-je26/pdf/p020002.pdf",
+    "https://coachers.jp/blog/2026095421/",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html"
+   ]
+  },
+  {
+   "query": "職業別有効求人倍率（生産工程・機械技術者）の同じ年どうし 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://nextengineer.com/blog/know-how001/",
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001835705.pdf",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "https://and-pro.jp/content/article-u2b4c48fz1w/",
+    "https://www.pasona.co.jp/clients/service/column/career/2025furikaeri_2026yosou/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf"
+   ]
+  },
+  {
+   "query": "職業別有効求人倍率（生産工程・機械技術者）の同じ年どうし 採用経路 割合 調査",
+   "results": [
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001203893.pdf",
+    "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "https://www5.cao.go.jp/j-j/wp/wp-je26/pdf/p020002.pdf",
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "https://www.dir.co.jp/report/research/economics/japan/20250709_025196.pdf",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "https://www.works-i.com/column/labor-market/detail016.html",
+    "https://www.r-agent.com/guide/start/32493/",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html"
+   ]
+  },
+  {
+   "query": "職業別有効求人倍率（生産工程・機械技術者）の同じ年どうし 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www.transtructure.com/hr-data-analysys/labor/p17764/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191220109.pdf",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://www5.cao.go.jp/j-j/wp/wp-je26/pdf/p020002.pdf",
+    "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "https://www.kaiketsu-j.com/resource/20475/"
+   ]
+  },
+  {
+   "query": "職業別有効求人倍率（生産工程・機械技術者）の同じ年どうし 白書 採用",
+   "results": [
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001203893.pdf",
+    "https://lassic.co.jp/media/person/engineer-job-market-data/",
+    "https://nextengineer.com/blog/know-how001/",
+    "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191220109.pdf",
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html"
+   ]
+  },
+  {
+   "query": "site:note.com 職業別有効求人倍率（生産工程・機械技術者）の同じ年どうし",
+   "results": [
+    "https://note.com/jazzy_mole4471/n/n64cfb0ee529a",
+    "https://note.com/leadstar/n/n38081b041902",
+    "https://note.com/career_bible/n/n245b12fc203b",
+    "https://note.com/career_bible/n/n11de73d82e36",
+    "https://note.com/career_bible/n/nac150f4a2e7c",
+    "https://note.com/sota_career/n/nf35949eefa03",
+    "https://note.com/taituna/n/nb611f75a7b84",
+    "https://note.com/career_bible/n/n1bf5ab426fea",
+    "https://note.com/ncoo/n/nb1fe0baf9025",
+    "https://note.com/son_jon/n/nb1bf010a6a0e"
+   ]
+  },
+  {
+   "query": "site:x.com 職業別有効求人倍率（生産工程・機械技術者）の同じ年どうし",
+   "results": [
+    "https://x.com/KagawaTomo/status/2110692193677787567",
+    "https://x.com/NextEngineer_NE/status/2092773642883227985",
+    "https://x.com/takoidet/status/2077961314971025434",
+    "https://x.com/i/trending/2079500433479933988",
+    "https://x.com/amc_corporation/status/2106670329888399591",
+    "https://x.com/i/trending/2079145432018559004",
+    "https://x.com/suuji_annai/status/2107632267648721373",
+    "https://x.com/indbgraphreport/status/2038957947339100420"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 職業別有効求人倍率（生産工程・機械技術者）の同じ年どうし",
+   "results": [
+    "https://jp.linkedin.com/in/%E7%A0%94%E4%BA%8C-%E8%97%A4%E5%B2%A1-944924359",
+    "https://jp.linkedin.com/in/%E8%A3%95%E4%BB%8B-%E5%80%AD-489164271",
+    "https://jp.linkedin.com/in/mkamata",
+    "https://www.linkedin.com/pulse/%E8%A8%98%E4%BA%8B%E6%8A%9C%E7%B2%8B433-toru-hara-yc7oc",
+    "https://jp.linkedin.com/jobs/機械技術者-jobs",
+    "https://jp.linkedin.com/",
+    "https://www.linkedin.com/pulse/あらためて求人倍率について26卒-サトル-カナイワ-18yvc",
+    "https://jp.linkedin.com/posts/y-ishii_リクルートワークス研究所-2027卒大卒求人倍率調査-27卒求人倍率は162-activity-7453702561473224704-As1Z",
+    "https://jp.linkedin.com/posts/echoes-kodama_エンジニア採用年々厳しくなってます-と相談を受けました-厚労省のデータによると-activity-7453628945595404288-2GK5",
+    "https://jp.linkedin.com/posts/daichi-horikoshi-27b965314_it技術者の求人倍率はいま3倍以上だそうです-全職種平均192倍のおよそ-activity-7491303167121346562-cyR2"
+   ]
+  },
+  {
+   "query": "site:facebook.com 職業別有効求人倍率（生産工程・機械技術者）の同じ年どうし",
+   "results": [
+    "https://www.facebook.com/groups/aiacademy.jp/",
+    "https://www.facebook.com/aichi.roudoukyoku/photos/令和７年９月における雇用情勢をお伝えします-基調判断-雇用情勢は求人が求職を上回って推移しているものの物価上昇等が雇用に与える影響に注意する必要がある-有効求人/1273250158178053/",
+    "https://www.facebook.com/aichi.roudoukyoku/photos/令和７年６月における雇用情勢をお伝えします-基調判断-雇用情勢は持ち直しの動きが広がりつつあるが一部に改善の動きが弱まっており引き続き注意する必要がある-有効求/1207167358119667/",
+    "https://www.facebook.com/COCOCOLORKUMAMOTO/posts/熊本県2026年5月の求人倍率115倍先月と同じみなさんこんにちはココクマ編集部です熊本労働局が2026年6月30日に発表した2026年5月の有効求人倍率季節調/1538745204710934/",
+    "https://www.facebook.com/tashirointernational/posts/めちゃくちゃ久しぶりにみた岐阜県ハローワーク別有効求人倍率の推移岐阜県の名物は多治見のパートの求人倍率が異常に高いことでありこれは某v社という最強企業１社によっ/25707145555614592/",
+    "https://www.facebook.com/j.adcustom/posts/求人を出す前に有効求人倍率を把握します大阪労働局が発表している職種別求人倍率です一般事務が028に対して介護職は41その差は歴然です数字が低いほど採用難易度は低/4047986955322712/",
+    "https://www.facebook.com/katsushika.shigoto/posts/墨田葛飾エリアの職種別有効求人倍率情報ハローワーク墨田より職種別有効求人求職状況と求人賃金状況の7月分が公開されております墨田エリアの求人倍率は073倍令和4年/4985847114848907/",
+    "https://www.facebook.com/aichi.roudoukyoku/photos/若手労働基準監督官の１日-いろんなことをやってます採用3年目まだまだ若手で伸び盛りのある監督官のとある1日を紹介します決して同じことの繰り返しではない日々驚きと/193727608027604/"
+   ]
+  },
+  {
+   "query": "職業別有効求人倍率（生産工程・機械技術者）の同じ年どうし note 社長",
+   "results": [
+    "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "https://nextengineer.com/blog/know-how001/",
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001203893.pdf",
+    "https://lassic.co.jp/media/person/engineer-job-market-data/",
+    "https://note.com/iida_yasuyuki/n/n627a844b8f7c",
+    "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://note.com/machi_hito1507/n/n87f799be773c",
+    "https://job.goo.to/occupations/ratio"
+   ]
+  },
+  {
+   "query": "職業別有効求人倍率（生産工程・機械技術者）の同じ年どうし X 投稿",
+   "results": [
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001203893.pdf",
+    "https://lassic.co.jp/media/person/engineer-job-market-data/",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://www.wantedly.com/hiringeek/recruit/effective_job_openings_ratio/",
+    "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html"
+   ]
+  },
+  {
+   "query": "job openings ratio by occupation production process mechanical engineer Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/lam-research/jobs",
+    "https://www.linkedin.com/company/applied-materials/jobs",
+    "https://uk.linkedin.com/company/rolls-royce/jobs",
+    "https://www.linkedin.com/company/nvidia/jobs",
+    "https://www.linkedin.com/jobs/mechanical-engineer-jobs",
+    "https://www.linkedin.com/company/general-atomics/jobs",
+    "https://www.linkedin.com/company/vastspace/jobs",
+    "https://www.linkedin.com/company/waymo/jobs",
+    "https://www.linkedin.com/company/raytheon/jobs",
+    "https://www.linkedin.com/company/castelion/jobs"
+   ]
+  }
+ ],
+ "missing": {}
+}

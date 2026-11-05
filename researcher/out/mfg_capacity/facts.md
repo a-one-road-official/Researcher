@@ -2049,30 +2049,42 @@
 - 事業所数・社数：記載なし（読んだ39頁・検索15回）
 - 生産能力・設備：記載なし（読んだ39頁・検索15回）
 
-## 上場の受託加工会社 有価証券報告書 従業員の状況 売上高 1人当たり（listed Japanese contract manufacturers revenue per employee annual securities report）
-- 文脈：一次・上場
+## 経済構造実態調査 製造業事業所調査 産業細分類 加工賃収入額 従業者数 e-Stat 表（Economic Census for Business Activity manufacturing establishments processing fee by detailed industry e-Stat）
+- 文脈：一次・統計
+- 事業所数・社数：
+  - 「品目別の在庫及び産出事業所数（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者１～２９人の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業中分類別事業所数、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業細分類別事業所数、事業所敷地面積及び１日当たり水源別用水量（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+- 社員数・平均社員数：
+  - 「品目別の在庫及び産出事業所数（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者１～２９人の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業中分類別事業所数、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業細分類別事業所数、事業所敷地面積及び１日当たり水源別用水量（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額及び付加価値額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者１～２９人の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業中分類別事業所数、事業所敷地面積及び１日当たり水源別用水量（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+- 受注金額・加工賃収入：
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者１～２９人の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額及び付加価値額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者１～２９人の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+- 1人あたり・1社あたり金額：
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者１～２９人の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額及び付加価値額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業中分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び粗付加価値額（従業者１～２９人の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+- 生産能力・設備：
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「産業中分類別事業所数、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
 - 10年推移：
-  - 「(January 1, 2025 through December 31, 2025)」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
-  - 「Annual Securities Report for the 54th Fiscal Year Ended December 31, 2025」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
-  - 「Fiscal year The 54th fiscal year (January 1, 2025 through December 31, 2025)」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
-  - 「Year ended December 31, 2021 2022 2023 2024 2025」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
-  - 「2. The Company has applied the Accounting Standard for Revenue Recognition (ASBJ Statement No. 29, March 31, 2020)」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
-  - 「5 . The Company has applied the Accounting Standard for Revenue Recognition (ASBJ Statement No. 29, March 31, 2020)」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
-  - 「6. The highest and lowest share prices on and before April 3, 2022 are quoted prices on the First Section of the Tokyo Stock」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
-  - 「Exchange and prices on and after April 4, 2022 are quoted from the Prime Market of the Tokyo Stock Exchange.」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
-  - 「January 2015 The Company, as the surviving company, merged with Tokowaka Co., Ltd.」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
-  - 「April 2015 Roland RVS Holding Inc. (holding company of RVS) established」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
-  - 「May 2015 A company to develop and distribute music/media production software (RVS) established in the U.S.」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
-  - 「August 2015 Roland DG Corporation excluded from the scope of application of equity method due to sale of part of the」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
-  - 「March 2016 Roland VM Corporation (holding company of V-MODA) established」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
-  - 「May 2016 A headphone development and manufacturing company in the U.S. (V-MODA) converted into a subsidiary of」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
-  - 「April 2017 A global commercial distribution management company established in Malaysia」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
-- 事業所数・社数：記載なし（読んだ39頁・検索15回）
-- 社員数・平均社員数：記載なし（読んだ39頁・検索15回）
-- 受注金額・加工賃収入：記載なし（読んだ39頁・検索15回）
-- 1人あたり・1社あたり金額：記載なし（読んだ39頁・検索15回）
-- 生産能力・設備：記載なし（読んだ39頁・検索15回）
-- 人手と仕事の差：記載なし（読んだ39頁・検索15回）
+  - 「経済構造実態調査 2024年経済構造実態調査（製造業事業所調査） 二次集計 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「2024年経済構造実態調査（製造業事業所調査）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「2025-08-29」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+  - 「2025-12-25」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0）
+- 人手と仕事の差：記載なし（読んだ25頁・検索15回）
 
 ## 工業統計 産業細分類別 従業者規模別 加工賃収入額 時系列 2010〜2020 e-Stat（Census of Manufacture processing fee by industry and size time series e-Stat）
 - 文脈：一次・統計
@@ -2083,6 +2095,35 @@
 - 生産能力・設備：記載なし（読んだ27頁・検索15回）
 - 10年推移：記載なし（読んだ27頁・検索15回）
 - 人手と仕事の差：記載なし（読んだ27頁・検索15回）
+
+## 鉱工業指数 業種別 稼働率指数 生産能力指数 金属製品 はん用機械（METI indices of industrial production capacity utilization by industry）
+- 文脈：一次・指数
+- 社員数・平均社員数：
+  - 「第３次産業総合 広義対個人サービス 広義対事業所サービス(2019-2020年平均=100)」（http://www.etisa.or.jp/20250522seminar.pdf）
+- 生産能力・設備：
+  - 「生産能力 -0.6」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「稼働率 2.3」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「稼働率 生産能力(右軸)(2020=100)」（http://www.etisa.or.jp/20250522seminar.pdf）
+- 10年推移：
+  - 「2025年5月21日」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「2025年1-3月期」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「【鉱工業生産・出荷・在庫・在庫率指数の推移】」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「2018 2019 2020 2021 2022 2023 2024 2025」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「生産 出荷 在庫 在庫率(2020=100)」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「2023 2024 2023 2024 2025」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「(前年比寄与度／前期比寄与度、%p)」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「2025年1-3月期 上昇／低下に寄与した業種」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「20222023 2023 2024」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「稼働率 生産能力(右軸)(2020=100)」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「(2020=100)」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「【輸出／国内向け鉱工業出荷指数の推移】 【鉱工業出荷の変動要因分解】」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「出荷 輸出 国内(2020=100)」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「20232024 2023 2024 2025」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「【鉱工業総供給指数の推移】 【鉱工業総供給の変動要因分解】」（http://www.etisa.or.jp/20250522seminar.pdf）
+- 事業所数・社数：記載なし（読んだ24頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ24頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ24頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ24頁・検索15回）
 
 ## 日本商工会議所 人手不足 調査 受注機会の損失 業種別 規模別（JCCI labor shortage survey lost orders by industry size）
 - 文脈：一次・人手と仕事
@@ -2159,6 +2200,31 @@
   - 「中小企業の人手不足への対応は採用活動が中心」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
   - 「• 人手不足や人材育成に対する支援機関のノウハウは必ずしも十分ではなく、機関によってばらつきがある」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
   - 「• 人手不足解消に効果のある「省力化投資」を後押しする補助金」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+
+## 上場の受託加工会社 有価証券報告書 従業員の状況 売上高 1人当たり（listed Japanese contract manufacturers revenue per employee annual securities report）
+- 文脈：一次・上場
+- 10年推移：
+  - 「(January 1, 2025 through December 31, 2025)」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
+  - 「Annual Securities Report for the 54th Fiscal Year Ended December 31, 2025」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
+  - 「Fiscal year The 54th fiscal year (January 1, 2025 through December 31, 2025)」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
+  - 「Year ended December 31, 2021 2022 2023 2024 2025」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
+  - 「2. The Company has applied the Accounting Standard for Revenue Recognition (ASBJ Statement No. 29, March 31, 2020)」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
+  - 「5 . The Company has applied the Accounting Standard for Revenue Recognition (ASBJ Statement No. 29, March 31, 2020)」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
+  - 「6. The highest and lowest share prices on and before April 3, 2022 are quoted prices on the First Section of the Tokyo Stock」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
+  - 「Exchange and prices on and after April 4, 2022 are quoted from the Prime Market of the Tokyo Stock Exchange.」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
+  - 「January 2015 The Company, as the surviving company, merged with Tokowaka Co., Ltd.」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
+  - 「April 2015 Roland RVS Holding Inc. (holding company of RVS) established」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
+  - 「May 2015 A company to develop and distribute music/media production software (RVS) established in the U.S.」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
+  - 「August 2015 Roland DG Corporation excluded from the scope of application of equity method due to sale of part of the」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
+  - 「March 2016 Roland VM Corporation (holding company of V-MODA) established」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
+  - 「May 2016 A headphone development and manufacturing company in the U.S. (V-MODA) converted into a subsidiary of」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
+  - 「April 2017 A global commercial distribution management company established in Malaysia」（https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf）
+- 事業所数・社数：記載なし（読んだ39頁・検索15回）
+- 社員数・平均社員数：記載なし（読んだ39頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ39頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ39頁・検索15回）
+- 生産能力・設備：記載なし（読んだ39頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ39頁・検索15回）
 
 ## 日本金属プレス工業協会 プレス加工 事業所数 従業者 出荷額 統計（Japan Metal Stamping Association statistics establishments employees）
 - 文脈：団体・プレス
@@ -2252,42 +2318,3 @@
 - 受注金額・加工賃収入：記載なし（読んだ37頁・検索15回）
 - 1人あたり・1社あたり金額：記載なし（読んだ37頁・検索15回）
 - 生産能力・設備：記載なし（読んだ37頁・検索15回）
-
-## 経済構造実態調査 製造業事業所調査 産業細分類 加工賃収入額 従業者数 e-Stat 表（Economic Census for Business Activity manufacturing establishments processing fee by detailed industry e-Stat）
-- 文脈：一次・統計
-- 事業所数・社数：記載なし（読んだ25頁・検索15回）
-- 社員数・平均社員数：記載なし（読んだ25頁・検索15回）
-- 受注金額・加工賃収入：記載なし（読んだ25頁・検索15回）
-- 1人あたり・1社あたり金額：記載なし（読んだ25頁・検索15回）
-- 生産能力・設備：記載なし（読んだ25頁・検索15回）
-- 10年推移：記載なし（読んだ25頁・検索15回）
-- 人手と仕事の差：記載なし（読んだ25頁・検索15回）
-
-## 鉱工業指数 業種別 稼働率指数 生産能力指数 金属製品 はん用機械（METI indices of industrial production capacity utilization by industry）
-- 文脈：一次・指数
-- 社員数・平均社員数：
-  - 「第３次産業総合 広義対個人サービス 広義対事業所サービス(2019-2020年平均=100)」（http://www.etisa.or.jp/20250522seminar.pdf）
-- 生産能力・設備：
-  - 「生産能力 -0.6」（http://www.etisa.or.jp/20250522seminar.pdf）
-  - 「稼働率 2.3」（http://www.etisa.or.jp/20250522seminar.pdf）
-  - 「稼働率 生産能力(右軸)(2020=100)」（http://www.etisa.or.jp/20250522seminar.pdf）
-- 10年推移：
-  - 「2025年5月21日」（http://www.etisa.or.jp/20250522seminar.pdf）
-  - 「2025年1-3月期」（http://www.etisa.or.jp/20250522seminar.pdf）
-  - 「【鉱工業生産・出荷・在庫・在庫率指数の推移】」（http://www.etisa.or.jp/20250522seminar.pdf）
-  - 「2018 2019 2020 2021 2022 2023 2024 2025」（http://www.etisa.or.jp/20250522seminar.pdf）
-  - 「生産 出荷 在庫 在庫率(2020=100)」（http://www.etisa.or.jp/20250522seminar.pdf）
-  - 「2023 2024 2023 2024 2025」（http://www.etisa.or.jp/20250522seminar.pdf）
-  - 「(前年比寄与度／前期比寄与度、%p)」（http://www.etisa.or.jp/20250522seminar.pdf）
-  - 「2025年1-3月期 上昇／低下に寄与した業種」（http://www.etisa.or.jp/20250522seminar.pdf）
-  - 「20222023 2023 2024」（http://www.etisa.or.jp/20250522seminar.pdf）
-  - 「稼働率 生産能力(右軸)(2020=100)」（http://www.etisa.or.jp/20250522seminar.pdf）
-  - 「(2020=100)」（http://www.etisa.or.jp/20250522seminar.pdf）
-  - 「【輸出／国内向け鉱工業出荷指数の推移】 【鉱工業出荷の変動要因分解】」（http://www.etisa.or.jp/20250522seminar.pdf）
-  - 「出荷 輸出 国内(2020=100)」（http://www.etisa.or.jp/20250522seminar.pdf）
-  - 「20232024 2023 2024 2025」（http://www.etisa.or.jp/20250522seminar.pdf）
-  - 「【鉱工業総供給指数の推移】 【鉱工業総供給の変動要因分解】」（http://www.etisa.or.jp/20250522seminar.pdf）
-- 事業所数・社数：記載なし（読んだ24頁・検索15回）
-- 受注金額・加工賃収入：記載なし（読んだ24頁・検索15回）
-- 1人あたり・1社あたり金額：記載なし（読んだ24頁・検索15回）
-- 人手と仕事の差：記載なし（読んだ24頁・検索15回）

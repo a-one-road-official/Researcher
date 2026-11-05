@@ -1,4 +1,4 @@
-# 業界の3C＋PEST（日本→海外・輸出）対象6分野33小区分（事実のみ・33品目）
+# 業界の3C＋PEST（日本→海外・輸出）対象6分野33小区分（事実のみ・34品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -4744,3 +4744,119 @@
   - 「Vertical AI Market Analysis, Size , and Forecast 2025-2029 — Vertical AI Market Analysis, Size , and Forecast 2025-2029 Technavio https://www.technavio.com > report」（https://www.technavio.com/report/vertical-ai-market-industry-analysis）
   - 「Vertical AI Market Size , Share, Trends | CAGR of 24.5% — Vertical AI Market Size , Share, Trends | CAGR of 24.5% Market.us https://market.us > vertical-ai-market」（https://market.us/report/vertical-ai-market/）
   - 「Vertical AI Market Size , Growth Report, 2026-2033 — Vertical AI Market Size , Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report）
+
+## 造船の受注残と人手不足（一次）（shipbuilding order backlog labor shortage Japan）
+- 文脈：8 造船 ④受注残と人手
+- 顧客（金を払う側）：
+  - 「部品の国内調達率も高く、多数の中小事業者からなる周辺産業を有する裾野の広い産業」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「リーマンショック(2008年秋）後、世界の新造船受注量は激減し、建造（竣工）量はリーマンショック前の受注船が」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「2019年の世界の新造船受注量は、2018年と比べ減少（12％減）している」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「手持工事量（総トン）について、 受注量低迷から、日中韓ともに2019年から減少基調にある」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「造船企業別竣工量ランキング（2019年）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「2019年建造量において、日本造船企業は今治造船（世界4位）、ジャパン マリンユナイテッド（世界8位）など」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「国際マーケットにおける勢力図～造船企業グループ別竣工量ランキング（2019年）～」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「2019年建造量上位10グループのうち、日本造船企業グループは、今治造船（世界４位）、ジャパン マリンユナイ」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「・千葉工場における造船事業の終了を発表（R2.2）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「これまでは、海事クラスターの下、我が国海運から我が国造船への発注割合が総トン数ベースで96％を占めていたが、近年の海運」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「不況や中韓の公的支援を受けた造船所による安値受注等を背景に、当該割合は77％に減少」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「①船主の船舶調達先 ②造船所の顧客 ③造船所の舶用機器調達先 ④舶用機器メーカーの顧客」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「参考：各分野における国内顧客・調達率の推移 国内受発注率は20年前に比して低下傾向」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「かつて事業規模・技術力とも重工系大手企業が業界をリードしていたが、事業規模縮小に伴い、技術者数も減少」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「従業員数・工場面積：日本は、海事局調べ」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+- 顧客の顧客（発注元が求めること）：
+  - 「官公庁船建造企業の売上高に占める官公庁船事業比率の推移」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「我が国の官公庁船建造企業は、近年の商船事業の売上高の落ち込みを背景に、官公庁船事業への依存度が増しており、」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「官公庁船事業の売上高は、商船・官公庁船事業合計の約25%で推移」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「他方、官公庁船の整備予算や建造隻数が今後増加することは期待できない中、企業間の競争が一層激化しており、我が国」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「造船・舶用工業が官公庁船に関する安定的な仕事量を確保し、生産基盤を維持することが困難」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「生産基盤維持と拡大の観点から、海外の官公庁船市場への関心・期待は高いが、これまでにODA以外の受注実績はない」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「ODAによる官公庁船輸出（2013～2019）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「官公庁船分野の基盤強化に向けた海外展開の推進」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「規格に対応できる基準、認証体制の整備等」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「・宮本 一彦 一般財団法人 日本海事協会 官公庁船事業室長」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「官公庁船分野においては、国内市場の拡大は期待できず、今後の技術力・生産基盤維持に懸念」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「• 日本の造船・舶用工業には、近年及び将来の多様な海上防衛・海上保安ニーズに対応して、必要な性能を発揮し得る優れた官公庁」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「• 官公庁船の整備予算や建造隻数の増加は期待できない中、企業間の競争が一層激化しており、官公庁船の安定的な仕事量の確保が」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「また、品質や性能など設計開発の努力が必ずしも収益に繋がっておらず、我が国の安全保障を支える官公庁船」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「• 生産基盤維持と拡大の観点から海外の官公庁船市場への関心・期待は高いが、ＯＤＡ以外の受注実績はこれまで事実上ない」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+- 顧客の競合（奪いに来る側）：
+  - 「製造業の生産高に占める造船業・舶用工業のシェア」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「世界のマーケットで、韓国・中国と競争」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「韓国：24%」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「中国：40%」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「欧州： 4%」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「韓国：32%」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「中国：35%」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「船種別ではバルカーとコンテナ船のシェアが低下しており、タンカーのシェアが増加している」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「・川崎重工業は、中国の南通中遠川崎船舶工程（NACKS）、大連中遠川崎船舶工程（DACKS）を含む」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「現代重工業による大宇造船海洋の買収、中国国営の２大グループの統合が合意に至っている」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「・中国の造船会社と組んで中国合弁造船会社を設立し、事業活動を開始（R1.8）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「・中国合弁造船会社２社での液化ガス運搬船建造に向けて取り組むことを内容とした中期経営計画を発表（R1.10）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「近年、海運市況の低迷や船腹量過剰による建造需要低迷から、中国、韓国との競争が激化しており、日本造船」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「（新造船シェア日本第2位に）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「（新造船シェア日本第３位に）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+- 政治（法・予算・規制）：
+  - 「（技術開発補助金、先進船舶導入支援）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「補助金による技術開発支援（2016～）補助金による技術開発支援（2016～）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「他方、官公庁船の整備予算や建造隻数が今後増加することは期待できない中、企業間の競争が一層激化しており、我が国」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「• エコシップ代替補助金（新造船価の一部を補助）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「共同会社設立、企業買収、輸出促進等のため、政府系金融機関によ」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「我が国の経済安全保障を支える造船・舶用工業の事業基盤確保」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「ため、政府系金融機関による出融資の活」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「• 防衛装備の海外移転について、「国家安全保障戦略（平成25年閣議決定）」に基づき、新たな安全保障環境に適合する明確な原」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「則として「防衛装備移転三原則（平成26年閣議決定）」が定められた」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「• 更に「防衛計画の大綱（平成30年国家安全保障会議及び閣議決定）」及び「中期防衛力整備計画（平成30年閣議決定）」におい」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「防衛装備移転三原則の下、装備品の適切な海外移転を政府一体となって推進することとされている」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「• 官公庁船の整備予算や建造隻数の増加は期待できない中、企業間の競争が一層激化しており、官公庁船の安定的な仕事量の確保が」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「（船舶の燃費性能規制、」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「環境規制等が進む船舶の設計ニーズに対応する技術者」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「政府は2025年12月に「造船業再生ロードマップ」を公表し、現在約900万総トンの建造量を2035年に1800万総トンへ倍増させる目標を掲げました」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+- 経済（規模・価格・為替）：
+  - 「（2005年6月の為替レートを基準（100）としたときの為替水準）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「（ 2005年6月の為替レートを基準（100）としたときの為替水準）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「2013年以降、円安基調であったが、2018年末頃から円の独歩高となっており、現在の為替の状況は中韓と」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「（前年比15％増）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「日本の主要造船所（造船部門の損益を四半期ごとに発表している7社）の2019年度決算は、為替の円高、」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「産業規模2.2兆円」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「産業規模0.9兆円」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「産業規模5.5兆円」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「（6,094億円）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「（1,976億円）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「（533億円）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「（463億円）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「（7,970億円）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「（2,496億円）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「（5,006億円）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+- 社会（人・担い手）：
+  - 「我が国造船業は、多くが国内（特に地方圏）に生産拠点を維持し、地域の経済・雇用を支える」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「(29%)雇用※２」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「JIP案件の発掘、知財を含む権利の調整などを行うファシリテーターの人材育成」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「④ 研究開発・イノベーション(RD&I)の基盤整備（制度・人材・施設等）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「は、同じ「人手不足」でも意味が違います」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「政策資料を読むと、人手不足は「単純増員」だけではない」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「事業所名漢字、法人番号、職種、仕事内容、雇用形態、正社員登用実績、就業場所、賃金、派遣・請負区分」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「の項目があるので、造船所の直接採用と、外部人材の流入を分けて読む余地があります」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「先に設計・生産計画側で動き、現場技能は着工や工程山積みに応じて後から厚くなる」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「外国人特定技能制度の造舶多能工化に対応した新試験開始」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「これは、業界の課題が単なる人手不足ではなく、」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「同じく国土交通省の「人材の確保・育成に向けた取組」でも、設計分野では」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「、技能分野では」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「「生産・設計の効率化は、人手不足に貢献する」——国土交通省「人材の確保・育成に向けた取組」」（https://note.com/yo4shi80/n/nf9912a86ef51）
+  - 「: 直接雇用、派遣・請負、正社員登用の有無を分ける」（https://note.com/yo4shi80/n/nf9912a86ef51）
+- 技術（新しい技術・実証）：
+  - 「※船舶セグメント※船舶海洋セグメント※船舶、海洋開発セグメント」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「※２ Kongsberg Annual Report and Sustainability Report 2018等より」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「また、技術開発・」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「イノベーション（RD&I）は特に少なく、製品開発力や顧客対応力に課題」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「（技術開発補助金、先進船舶導入支援）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「自動運航船は、技術の開発・実用化等に伴って段階的に発展」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「補助金による技術開発支援（2016～）補助金による技術開発支援（2016～）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「安全要件策定のための実証事業（2018～）安全要件策定のための実証事業（2018～）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「船の開発と2028年頃の実船導入」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「行して研究開発、普及を図っていくことは極めて重要であるが、日本における技術者は各社に分散」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「研究開発、設計、営業、生産等」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「このため、我が国が強みを発揮する「日本版システムインテグレーターの実現」を技術開発を通じて促すとともに、環境整備と」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「あわせて、将来を見据えた「研究開発・RD&Iの基盤整備」に取り組むことで、我が国海事産業をデジタル化時代に対」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「④ 研究開発・イノベーション(RD&I)の基盤整備（制度・人材・施設等）」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+  - 「また、品質や性能など設計開発の努力が必ずしも収益に繋がっておらず、我が国の安全保障を支える官公庁船」（https://www.mlit.go.jp/policy/shingikai/content/001353158.pdf）
+- 自社の競合（商社・代理店・仲介）：記載なし（読んだ55頁・検索21回）

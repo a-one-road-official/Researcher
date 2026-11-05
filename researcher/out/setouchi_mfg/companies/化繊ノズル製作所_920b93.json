@@ -1,0 +1,786 @@
+{
+ "name": "化繊ノズル製作所",
+ "aliases": [],
+ "context": "岡山県井原市／出典:県・市の企業ガイド／求人媒体:Indeed;エン転職;マイナビ新卒;マイナビ転職;自社採用ページ／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T05:13:52.580022+00:00",
+ "official_url": "https://www.kasen.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　戸川和也",
+    "url": "https://www.kasen.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　戸川　和也",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "戸川和也",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：昭和23（1948）年10月2日",
+    "url": "https://www.kasen.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1948年10月2日",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/",
+    "pass": 3
+   },
+   {
+    "label": "設立年",
+    "value": "設立年：1948年",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "10,000,000円",
+    "url": "https://www.kasen.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1,000万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "10百万円",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "308人",
+    "url": "https://www.kasen.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "313名",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "合成繊維用ノズル 不織布製造用ノズル 押出成形金型 各種精密加工 半導体製造装置組立",
+    "url": "https://www.kasen.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "合成繊維用ノズル・不織布製造用ノズル 押出成形金型・各種精密加工",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "大阪府大阪市北区西天満６丁目３番１７号",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "大阪府大阪市北区西天満6丁目3番17号",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "会社の基本情報、創業から現在までの歩み、そして国内外の拠点を一覧で掲載しています",
+    "url": "https://www.kasen.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革・拠点一覧│株式会社化繊ノズル製作所",
+    "url": "https://www.kasen.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "機械工場を分離し、東江原工場建設",
+    "url": "https://www.kasen.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "本社、東江原工場",
+    "url": "https://www.kasen.co.jp/company/quality_enviroment/",
+    "pass": 1
+   },
+   {
+    "quote": "役員 社員 準社員・パート 派遣社員 退任者・退職者 業務委託先 取引先",
+    "url": "https://www.kasen.co.jp/assets/images/company/naibu-tsuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫は、商品が「つくられてから、お客様のもとへ届くまで」をつなぐ大切な物流拠点です",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "48億円（2025年3月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp73628/outline.html",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "部署や役職の垣根がないフラットな組織で、営業が持ち帰ったお客様の声がすぐに開発チームに共有され、若手技術者の斬新なアイデアとベテランの知見が融合し、新たなイノベーションを生み出します",
+    "url": "https://www.kasen.co.jp/company/glance/",
+    "pass": 1
+   },
+   {
+    "quote": "若手からベテランまで幅広い世代が在籍し、互いに学び合う文化があります",
+    "url": "https://www.kasen.co.jp/recruit/3minutes/",
+    "pass": 1
+   },
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "3分でわかる化繊ノズル製作所│株式会社化繊ノズル製作所 採用サイト",
+    "url": "https://www.kasen.co.jp/recruit/3minutes/",
+    "pass": 1
+   },
+   {
+    "quote": ":中途採用だったが年齢を加味して基本給を設定してもらえたように...",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "(株)化繊ノズル製作所の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp73628/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp73628/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp73628/outline.html",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "月給：185,900円～350,400円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給：あり（前年度実績：1月あたり1.20％）",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与：年2回（前年度実績：計2.05ヶ月分）",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "年収1,000万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "化繊ノズル製作所の年収・給与 平均年収 - エン カイシャの評判",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社化繊ノズル製作所の年収・給与の口コミページです",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社化繊ノズル製作所で働く社員や元社員が投稿した、年収・給与に関する口コミを4件掲載中",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社化繊ノズル製作所の年収・給与についての口コミ",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与については完全にその時の利益によるので0の場合もあれば150万と高い時もあるただ完全受注生産なため利益は安定していないので賞与はないものとして生活をすることをおすすめします",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:職種と経験に元図いて給与が設...",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒社員では月額25万円程度",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年1回の昇給があり、業績や評価に応じて支給",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:年収340万程度、月収は18...",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年収340万程度、月収は18万、残業MAX頑張れば手取り18万ほどになる",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "500000万円",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:事務員としては平均か少しいい...",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給は年齢級が上がって年に数千円ずつ増えていく程度です",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":昇給は基本的にあまり上がり幅がないので、期待しない方がいいと...",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":年功序列なので新卒で入社した方より中途で入社した方の方が給与...",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社デンソーエアシステムズの年収・給与",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収214.8万円",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp73628/outline.html",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "株式会社化繊ノズル製作所の求人情報／《岡山》社内SE◎年間休日125日◎月平均残業9時間※管理職候補者 (378973)／岡山県 | 転職・求人情報サイトのマイナビ転職【掲載終了】",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "本求人はマイナビ転職の応募フォームでのみ受け付けます",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "本求人は、株式会社マイナビが運営する",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "「マイナビ転職AGENT キャリアパートナー」による人材紹介案件です",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "※個人情報について「個人情報の取り扱いについて（マイナビ転職AGENT）」に同意いただき、",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "上記は、株式会社マイナビ内／株式会社化繊ノズル製作所採用事務局の所在地です",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "※オプトアウトをした場合、マイナビ転職の一部サービスを利用できない場合があります",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)化繊ノズル製作所の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp73628/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp73628/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 化繊ノズル製作所 の 求人 情報 - マイナビ転職 — 株式会社 化繊ノズル製作所 の 求人 情報 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > jobinfo-378973-5-2-1",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 化繊ノズル製作所 の 年収 ・給与 - エン カイシャの評判 — 株式会社 化繊ノズル製作所 の 年収 ・給与 - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company > salary",
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "募集 要項  株式会社 化繊ノズル製作所 採用サイト — 募集 要項  株式会社 化繊ノズル製作所 採用サイト 株式会社化繊ノズル製作所 https://www.kasen.co.jp > recruit > requirements",
+    "url": "https://www.kasen.co.jp/recruit/requirements/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 化繊ノズル製作所 の給与 | Indeed (インディード) — 株式会社 化繊ノズル製作所 の給与 | Indeed (インディード) Indeed https://jp.indeed.com > cmp > salaries",
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "化繊ノズル製作所 「社員クチコミ」 就職・転職の ... - OpenWork — 化繊ノズル製作所 「社員クチコミ」 就職・転職の ... - OpenWork OpenWork https://www.openwork.jp > 機械関連",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000pmbCg",
+    "pass": 3
+   },
+   {
+    "quote": "化繊ノズル製作所 新卒 高卒 の求人情報をすべて見る （136件） — 化繊ノズル製作所 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項  株式会社 化繊ノズル製作所 採用 サイト — 募集要項  株式会社 化繊ノズル製作所 採用 サイト 株式会社化繊ノズル製作所 https://www.kasen.co.jp > recruit > requirements",
+    "url": "https://www.kasen.co.jp/recruit/requirements/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 化繊ノズル製作所 の 新卒採用 ・会社概要 | マイナビ2027 — (株) 化繊ノズル製作所 の 新卒採用 ・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp73628 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp73628/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 化繊ノズル製作所 採用 サイト — 株式会社 化繊ノズル製作所 採用 サイト 株式会社化繊ノズル製作所 https://www.kasen.co.jp > recruit",
+    "url": "https://www.kasen.co.jp/recruit/",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "【主な仕事内容】 ・商品の入荷、検品 ・商品の仕分け、ピッキング ・商品の出荷準備 ・フォークリフトを使用した荷役作業 ・商品の在庫管理 ・倉庫内の商品整理、保管 ・入出庫に関するデータ入力、管理 ・トラックへの積み込み、荷下ろし ・その他、倉庫運営に関わる業務 入社後は、先輩社員と一緒に仕事をしながら、商品の扱い方や倉庫内のルールなどを一つひとつ覚えていきます",
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【年間休日120日以上！月の残業10時間以内！】糸を紡ぐ、紡ぐを創る、ノズルを紡ぐ ☆いつでも視聴可能な録画配信型会社説明会あり",
+    "url": "https://job.mynavi.jp/27/pc/search/corp73628/outline.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Kazuki Shidahara - 株式会社 化繊ノズル製作所 - 一般社員 Kazuki Shidahara - 株式会社 化繊ノズル製作所 - 一般社員 LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/kazuki-shidahara-0b336311b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 化繊ノズル製作所 - Home | Facebook 株式会社 化繊ノズル製作所 - Home | Facebook Facebook https://www.facebook.com > 株式会社化繊ノズル製作所",
+    "url": "https://www.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80/126510737447908",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kasen.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kasen.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kasen.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kasen.co.jp/company/glance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kasen.co.jp/company/top_message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kasen.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kasen.co.jp/company/quality_enviroment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kasen.co.jp/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kasen.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kasen.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kasen.co.jp/assets/images/company/form.xlsx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kasen.co.jp/recruit/3minutes/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kasen.co.jp/assets/images/company/naibu-tsuho.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en-hyouban.com/company/10008624012/salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp73628/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/kazuki-shidahara-0b336311b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80/126510737447908",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "化繊ノズル製作所 求人 年収",
+   "results": [
+    "https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/",
+    "https://en-hyouban.com/company/10008624012/salary/",
+    "https://www.kasen.co.jp/recruit/requirements/",
+    "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80/salaries",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000pmbCg",
+    "https://doda.jp/DodaFront/View/Company/j_id__10008624012/",
+    "https://employment.en-japan.com/comp-132627/",
+    "https://www.jac-recruitment.jp/search/NJB2355857/",
+    "https://jobtalk.jp/companies/35755/answers?question_codes=earns",
+    "https://jp.indeed.com/cmp/株式会社化繊ノズル製作所/salaries"
+   ]
+  },
+  {
+   "query": "化繊ノズル製作所 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.kasen.co.jp/recruit/requirements/",
+    "https://job.mynavi.jp/27/pc/search/corp73628/outline.html",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000pmbCg",
+    "https://www.kasen.co.jp/recruit/",
+    "https://en-hyouban.com/company/10008624012/",
+    "https://www.bingo-star.jp/kasen/",
+    "http://fukabori-takahashigawa.com/companies/kasen/",
+    "https://www.jac-recruitment.jp/search/NJB2355857/",
+    "https://tenshoku.mynavi.jp/jobinfo-378973-5-2-1/"
+   ]
+  },
+  {
+   "query": "site:note.com 化繊ノズル製作所",
+   "results": [
+    "https://note.com/paloaki/n/n390134b15b2b",
+    "https://note.com/muscle_outdoor/n/n106390ea0b19",
+    "https://note.com/nihon_new_nozzle/n/nd7e708c22865",
+    "https://note.com/nihon_new_nozzle",
+    "https://note.com/5_tm/n/nd4c6819c818d",
+    "https://note.com/meijiair/n/na8d4e3c9cc13",
+    "https://note.com/nihon_new_nozzle/n/n132d64ad304b",
+    "https://note.com/coto_game/n/n48d54aa6b592",
+    "https://note.com/nihon_new_nozzle/n/nad0bee9cd1e9"
+   ]
+  },
+  {
+   "query": "site:x.com 化繊ノズル製作所",
+   "results": [
+    "https://x.com/hattori_ao",
+    "https://x.com/EMIDASmag_WEB",
+    "https://x.com/okayamasyusyoku",
+    "https://x.com/MandAOnline_jp/status/2027119622844248101",
+    "https://x.com/gunkyo5/status/2117840527836192961",
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/gunkyo5",
+    "https://x.com/gunkyo5/status/2117774305002131744",
+    "https://x.com/gunkyo5/status/2117829122689032248",
+    "https://x.com/gunkyo5/status/2117106902622687441"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 化繊ノズル製作所",
+   "results": [
+    "https://jp.linkedin.com/in/kazuki-shidahara-0b336311b",
+    "https://www.linkedin.com/pub/dir/+/Shidahara",
+    "https://jp.linkedin.com/in/yoichi-sato-8bb011b0",
+    "https://jp.linkedin.com/in/yukio-mishiba-93bb15117",
+    "https://jp.linkedin.com/in/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E3%88%B1%E7%B7%8F%E5%8B%99%E9%83%A8-%E5%90%89%E7%94%B0%E4%B9%83%E7%BE%8E-a2a16688",
+    "https://jp.linkedin.com/in/弘樹-坪井-167a3427a",
+    "https://www.linkedin.com/pub/dir/Hiroki/Tsuboi",
+    "https://br.linkedin.com/in/vinícius-filgueira-2965031b7",
+    "https://www.linkedin.com/pub/dir/Hiroki/Tsuboi/jp-0-Japan",
+    "https://it.linkedin.com/in/camillo-ghelfi-5296ab15b"
+   ]
+  },
+  {
+   "query": "site:facebook.com 化繊ノズル製作所",
+   "results": [
+    "https://www.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80/126510737447908",
+    "https://www.facebook.com/japan.nonwovens.report/videos/%E5%90%8C%E5%B1%95%E7%A4%BA%E4%BC%9A%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E3%81%95%E3%82%93%E3%83%96%E3%83%BC%E3%82%B9%E3%81%AB%E7%AB%8B%E3%81%A1%E5%AF%84%E3%82%89%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E7%AA%81%E6%92%83%E5%87%BA%E5%B1%95pr%E3%82%92%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/265071448853299/?locale=ms_MY",
+    "https://www.facebook.com/tmsj1948/posts/11%E6%9C%8828%E6%97%A5%E6%B0%B4%E5%A4%A7%E9%98%AA%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E6%96%BC%E3%81%84%E3%81%A6%E3%83%8A%E3%83%8E%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E7%A0%94%E7%A9%B6%E4%BC%9A%E4%B8%8D%E7%B9%94%E5%B8%83%E7%A0%94%E7%A9%B6%E4%BC%9A%E5%85%B1%E5%82%AC%E8%A1%8C%E4%BA%8B%E3%81%8C%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%8A%E3%83%8E%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E7%A0%94%E7%A9%B6%E4%BC%9A%E7%AC%AC%EF%BC%92%EF%BC%98%E5%9B%9E%E7%A0%94%E7%A9%B6%E4%BE%8B%E4%BC%9A%E4%B8%8D%E7%B9%94%E5%B8%83%E7%A0%94%E7%A9%B6%E4%BC%9A%E7%AC%AC%EF%BC%97%EF%BC%92%E5%9B%9E%E7%A0%94%E7%A9%B6/296230980997933/",
+    "https://www.facebook.com/agatanushi/posts/-%E4%BB%8A%E5%B9%B4%E3%82%82%E7%A7%8B%E7%A5%AD%E3%82%8A%E3%81%AE%E5%AD%A3%E7%AF%80%E3%81%8C%E3%82%84%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F-%E5%9C%B0%E5%9F%9F%E3%81%AE%E4%BC%9D%E7%B5%B1%E3%82%92%E6%AC%A1%E3%81%AE%E4%B8%96%E4%BB%A3%E3%81%B810%E6%9C%8825%E6%97%A5%E6%97%A5%E5%B2%A1%E5%B1%B1%E7%9C%8C%E4%BA%95%E5%8E%9F%E5%B8%82%E3%81%AE%E8%B6%B3%E6%AC%A1%E5%B1%B1%E7%A5%9E%E7%A4%BE%E3%81%A7%E7%A7%8B%E7%A5%AD%E3%82%8A%E7%A5%9E%E6%A5%BD%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%EF%B8%8F%E8%BF%AB%E5%8A%9B%E6%BA%80%E7%82%B9%E3%81%AE%E5%82%99%E4%B8%AD%E7%A5%9E%E6%A5%BD%E3%81%AB15%E6%99%82%E9%A0%83%E3%81%AB%E3%81%AF%E9%AC%BC%E3%81%AE/28490315873956796/",
+    "https://www.facebook.com/sanyosyusyoku/?locale=ja_JP",
+    "https://www.facebook.com/IntelligentSurfacesInc/",
+    "https://www.facebook.com/ibarasen/posts/%E6%B2%BF%E7%B7%9A%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E6%83%85%E5%A0%B1%E7%AC%AC36%E5%9B%9E%E4%BA%95%E5%8E%9F%E5%B8%82%E5%8C%97%E6%9D%A1%E6%97%A9%E9%9B%B2%E3%81%BE%E3%81%A4%E3%82%8A%E4%BB%A4%E5%92%8C7%E5%B9%B44%E6%9C%8827%E6%97%A5%E6%97%A510001500%E9%AB%98%E8%B6%8A%E5%9F%8E%E5%9D%80%E9%A7%90%E8%BB%8A%E5%A0%B4%E5%8F%8A%E3%81%B3%E9%A0%82%E4%B8%8A%E5%BD%93%E6%97%A5%E3%81%AF%E6%97%A9%E9%9B%B2%E3%81%AE%E9%87%8C%E8%8D%8F%E5%8E%9F%E9%A7%85%E3%81%8B%E3%82%89%E4%BC%9A%E5%A0%B4%E3%81%BE%E3%81%A7%E7%84%A1%E6%96%99%E9%80%81%E8%BF%8E%E3%83%90%E3%82%B9%E3%82%92%E9%81%8B%E8%A1%8C%E3%81%97%E3%81%BE%E3%81%99%E8%A9%B3/1233624715430988/",
+    "https://www.facebook.com/kiritoshi/?locale=ja_JP",
+    "https://www.facebook.com/化繊ノズル製作所-114100215269764/",
+    "https://www.facebook.com/株式会社化繊ノズル製作所-138493266213499/"
+   ]
+  },
+  {
+   "query": "化繊ノズル製作所 note 社長",
+   "results": [
+    "https://www.kasen.co.jp/company/profile/",
+    "http://ikasa-koyou.jp/interview/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://www.pref.okayama.jp/site/micro/597597.html",
+    "https://www.youtube.com/watch?v=0ksJiNk0nd8",
+    "https://job.mynavi.jp/28/pc/search/corp73628/outline.html",
+    "http://fukabori-takahashigawa.com/companies/kasen/",
+    "https://rikeino-shigoto.jp/story/168",
+    "https://chugokukeiren.jp/info/2019/02/mfg/713/",
+    "https://emidas-magazine.nc-net.com/industry/11574/"
+   ]
+  },
+  {
+   "query": "化繊ノズル製作所 X 投稿",
+   "results": [
+    "https://www.kasen.co.jp/",
+    "https://www.youtube.com/watch?v=0ksJiNk0nd8",
+    "http://fukabori-takahashigawa.com/companies/kasen/",
+    "https://www.youtube.com/channel/UCDKpQtvLrbtL65o7Cg0aGIg",
+    "https://rikeino-shigoto.jp/story/168",
+    "https://en-hyouban.com/company/10008624012/",
+    "http://ikasa-koyou.jp/interview/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%8C%96%E7%B9%8A%E3%83%8E%E3%82%BA%E3%83%AB%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000pmbCg",
+    "https://www.pref.okayama.jp/site/micro/597597.html",
+    "https://www.sen-i-news.co.jp/seninews/view/?article=424149"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部6頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部6頁・検索8回）"
+ }
+}

@@ -1,0 +1,253 @@
+{
+ "name": "エイチ・エス・ピー",
+ "aliases": [],
+ "context": "岡山県岡山市／出典:県・市の企業ガイド／求人媒体:見当たらず／想定年収:350〜600万円／従業員:26",
+ "researched_at": "2026-11-05T05:09:01.495550+00:00",
+ "official_url": "https://metoree.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "株式会社エイチ・エス・ピーで働く社員や元社員が投稿した、給与・年収、勤務時間、休日・休暇、面接などの評判・口コミを1件掲載中",
+    "url": "https://en-hyouban.com/company/10105724976/",
+    "pass": 3
+   },
+   {
+    "quote": "1800万円",
+    "url": "https://www.pref.okayama.jp/site/micro/599994.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 エイチ ・ エス ・ ピー の転職・企業概要 - doda — 株式会社 エイチ ・ エス ・ ピー の転職・企業概要 - doda doda https://doda.jp > View > Company > j_id__10001210044",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10001210044/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エイチ ・ エス ・ ピー の評判・口コミ — 株式会社 エイチ ・ エス ・ ピー の評判・口コミ エン カイシャの評判 https://en-hyouban.com > company",
+    "url": "https://en-hyouban.com/company/10105724976/",
+    "pass": 3
+   },
+   {
+    "quote": "除菌・消臭のスーパー次亜水｜ エイチ ・ エス ・ ピー — 除菌・消臭のスーパー次亜水｜ エイチ ・ エス ・ ピー エイチ・エス・ピー https://www.hsp-net.co.jp",
+    "url": "https://www.hsp-net.co.jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エイチ ・ エス ・ ピー - おかやまものづくりネットワーク — 株式会社 エイチ ・ エス ・ ピー - おかやまものづくりネットワーク 岡山県ホームページ https://www.pref.okayama.jp > site > micro",
+    "url": "https://www.pref.okayama.jp/site/micro/599994.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エイチ ・ エス ・ ピー (略称:HSP)（岡山県） | じもナビ — 株式会社 エイチ ・ エス ・ ピー (略称:HSP)（岡山県） | じもナビ じもナビ https://jimo-navi.com > 地元企業情報 > 岡山県",
+    "url": "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BB%E3%82%A8%E3%82%B9%E3%83%BB%E3%83%94%E3%83%BC%E3%80%80%E7%95%A5%E7%A7%B0hsp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エイチ ・ エス ・ ピー の会社概要・製品情報 - Metoree — 株式会社 エイチ ・ エス ・ ピー の会社概要・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/10953/",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "福祉・医療施設、厨房・食品工場の衛生管理",
+    "url": "https://www.pref.okayama.jp/site/micro/599994.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 エイチ ・ エス ・ ピー | Okayama-shi ... - Facebook 株式会社 エイチ ・ エス ・ ピー | Okayama-shi ... - Facebook Facebook https://www.facebook.com > HSPsuperjiasui",
+    "url": "https://www.facebook.com/HSPsuperjiasui/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://metoree.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10001210044/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://en-hyouban.com/company/10105724976/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/jobinfo-450477-3-3-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=hsp+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hsp-net.co.jp/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.okayama.jp/site/micro/599994.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/HSPsuperjiasui/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エイチ・エス・ピー 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/Company/j_id__10001210044/",
+    "https://en-hyouban.com/company/10105724976/",
+    "https://tenshoku.mynavi.jp/jobinfo-450477-3-3-1/",
+    "https://www.openwork.jp/a0C1000000U3jDf/job/",
+    "https://www.hellowork.careers/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE+%E3%82%A8%E3%82%B9%E3%83%BB%E3%83%94%E3%83%BC%E3%83%BB%E3%83%A9%E3%83%9C%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "https://next.rikunabi.com/viewjob/jk26f5b61ac51de1ce/",
+    "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%A8%E3%82%B9%E3%83%94%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "https://townwork.net/job_search/kw/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE+%E3%82%A8%E3%82%B9+%E3%83%94%E3%83%BC+%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/",
+    "https://employment.en-japan.com/comp-2799/list/",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10001210044/"
+   ]
+  },
+  {
+   "query": "エイチ・エス・ピー 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=hsp+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.hsp-net.co.jp/index.html",
+    "https://www.pref.okayama.jp/site/micro/599994.html",
+    "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BB%E3%82%A8%E3%82%B9%E3%83%BB%E3%83%94%E3%83%BC%E3%80%80%E7%95%A5%E7%A7%B0hsp/",
+    "https://metoree.com/companies/10953/",
+    "https://recruit.his.co.jp/",
+    "https://recruit.asp-e.com/",
+    "https://www.neo-career.co.jp/careertrus/tenshoku_shigotosagashi_hsp",
+    "https://www.asahi-kasei-jobs.com/highschool/",
+    "https://tenshoku.mynavi.jp/shutoken/list/p13/o18/kw%E9%AB%98%E5%8D%92/"
+   ]
+  },
+  {
+   "query": "site:note.com エイチ・エス・ピー",
+   "results": [
+    "https://note.com/elamajp/n/n18ec5b8b3447",
+    "https://note.com/mrc_sapporo/n/n9cffe2234406",
+    "https://note.com/akariwriter3/n/nc584a8409f74",
+    "https://note.com/02yukie_08/n/nfcc8b84f07d8",
+    "https://note.com/channelsatoshi/n/nfe852e8e67a0",
+    "https://note.com/ipmiura/n/n03d8fa209610",
+    "https://note.com/a_chan/n/n1dc3c8bf0be7",
+    "https://note.com/decoboco_san/n/n22530c4299dd",
+    "https://note.com/my_cherry/n/n08c69180ad5c",
+    "https://note.com/hi_cocoa/n/na8ef007a41b3"
+   ]
+  },
+  {
+   "query": "site:x.com エイチ・エス・ピー",
+   "results": [
+    "https://x.com/syukkiri_hsp",
+    "https://x.com/Endo_xxx/status/2102249128231329844/photo/1",
+    "https://x.com/MedtecJapan",
+    "https://x.com/splab_inc",
+    "https://x.com/SP_Network_jp/status/2114532961672679631",
+    "https://x.com/rps_nagoya",
+    "https://x.com/Sidehiwinder/status/2113486590790254970",
+    "https://x.com/SP_Network_jp/status/2111992836069691893",
+    "https://x.com/SP_Network_jp/status/1906481566332727647",
+    "https://x.com/hscareJapan/status/1963920045224132614"
+   ]
+  },
+  {
+   "query": "site:linkedin.com エイチ・エス・ピー",
+   "results": [
+    "https://jp.linkedin.com/pulse/2026%E5%B9%B4%E6%B3%A8%E7%9B%AE%E3%82%A8%E3%82%A4%E3%83%81%E3%83%A6%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%A8%E3%83%BC%E3%82%A8%E3%82%B9%E3%83%94%E3%83%BC%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%A8%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%A8%E3%82%B9%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%80%E6%96%B0%E5%8B%95%E5%90%91%E4%B8%BB-7516381588935446528-znvcf",
+    "https://www.linkedin.com/pulse/2026%E5%B9%B4%E6%B3%A8%E7%9B%AE%E3%82%A8%E3%82%B9%E3%83%94%E3%83%BC%E3%82%A8%E3%83%BC%E3%83%93%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%B1%E3%83%BC%E3%82%A2%E3%82%A4%E3%82%A8%E3%83%8C%E3%82%B8%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%B7%E3%83%BC%E3%82%A8%E3%82%A4%E3%83%81%E3%82%A4%E3%83%BC-7516347538233401344-bkpjf/",
+    "https://www.linkedin.com/pulse/2026%E5%B9%B4%E6%B3%A8%E7%9B%AE%E3%83%87%E3%82%A3%E3%83%BC%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9%E3%83%94%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%A8%E3%82%B9%E3%82%A2%E3%82%A4%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%8C%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E3%81%AE-7516324959946813440-dtvcf/",
+    "https://www.linkedin.com/pulse/2026%E5%B9%B4%E6%B3%A8%E7%9B%AE%E3%82%B7%E3%83%BC%E3%82%AA%E3%83%BC%E3%83%80%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%B1%E3%83%BC%E3%82%A2%E3%82%A4%E3%82%A8%E3%83%8C%E3%82%B8%E3%83%BC%E3%82%A8%E3%82%B9%E3%83%94%E3%83%BC%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%80%E6%96%B0%E5%8B%95%E5%90%91%E4%B8%BB%E8%A6%81%E4%BC%81%E6%A5%AD-7516374906234818562-tpxqf/",
+    "https://jp.linkedin.com/in/%E6%99%BA%E8%A6%AA-%E4%B8%89%E4%B8%8A-5a226549",
+    "https://jp.linkedin.com/pulse/2026%E5%B9%B4%E6%B3%A8%E7%9B%AE%E3%83%87%E3%82%A3%E3%83%BC%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9%E3%83%94%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%8C%E3%82%A8%E3%82%B9%E3%82%A4%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%B7%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%8C%E3%82%A8%E3%82%B9%E3%83%A6%E3%83%BC%E3%82%A8%E3%83%A0%E3%83%94%E3%83%BC-7516431514264555520-klycf",
+    "https://www.linkedin.com/pulse/2026%E5%B9%B4%E6%B3%A8%E7%9B%AE%E3%83%87%E3%82%A3%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%AB%E3%83%AF%E3%82%A4%E3%83%94%E3%83%BC%E3%82%AA%E3%83%BC%E3%83%80%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%82%A8%E3%83%8C%E3%82%A8%E3%82%A4%E3%83%81%E3%82%A8%E3%83%BC%E3%82%A8%E3%83%AB%E3%82%A4%E3%83%BC%E3%82%A2-7516463947324198912-ssz6f/",
+    "https://www.linkedin.com/pulse/2026%E5%B9%B4%E6%B3%A8%E7%9B%AE%E3%82%A8%E3%83%A0%E3%82%A2%E3%82%A4%E3%82%A8%E3%83%AB%E3%82%A8%E3%82%B9%E3%83%94%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%B7%E3%83%BC%E5%8C%85%E8%A3%85%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%80%E6%96%B0%E5%8B%95%E5%90%91%E4%B8%BB%E8%A6%81%E4%BC%81%E6%A5%AD%E7%94%A8%E9%80%94%E5%88%A5%E5%88%86%E6%9E%90%E3%81%A8%E5%B0%86%E6%9D%A5%E5%B1%95%E6%9C%9B-7516427976427696128-tmphf/",
+    "https://jp.linkedin.com/pulse/2026%E5%B9%B4%E6%B3%A8%E7%9B%AE%E3%82%A8%E3%82%B9%E3%82%A8%E3%82%A4%E3%83%81%E3%82%A8%E3%83%BC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%A8%E3%83%BC%E3%82%A2%E3%82%A4%E3%82%A8%E3%83%AB%E3%82%A8%E3%82%B9%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%80%E6%96%B0%E5%8B%95%E5%90%91%E4%B8%BB%E8%A6%81-7516386522439430144-1b8lf",
+    "https://jp.linkedin.com/in/智親-三上-5a226549"
+   ]
+  },
+  {
+   "query": "site:facebook.com エイチ・エス・ピー",
+   "results": [
+    "https://www.facebook.com/HSPsuperjiasui/",
+    "https://www.facebook.com/p/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%A4%E3%83%81%E3%82%A8%E3%82%B9%E3%83%94%E3%83%BC-100090874171646/",
+    "https://www.facebook.com/HSPsuperjiasui/posts/%E6%9C%AC%E6%97%A5%E3%81%8B%E3%82%892%E6%97%A5%E9%96%93%E7%A6%8F%E5%B1%B1%E3%83%93%E3%83%83%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%BA%E3%81%AB%E3%81%A6%E3%81%97%E3%81%BE%E3%81%AA%E3%81%BF%E3%83%91%E3%83%83%E3%82%AF2026in%E7%A6%8F%E5%B1%B1%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E6%AC%A1%E4%BA%9C%E6%B0%B4%E7%94%9F%E6%88%90%E8%A3%85%E7%BD%AE%E5%B0%82%E7%94%A8%E5%99%B4%E9%9C%A7%E5%99%A8%E3%81%AA%E3%81%A9%E6%A7%98%E3%80%85%E5%8F%96%E3%82%8A%E6%8F%83%E3%81%88%E3%81%A6%E3%81%8A%E5%BE%85%E3%81%A1%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E4%BB%8A%E5%9B%9E%E3%81%AF%E4%B8%BB%E5%BC%B5%E5%BC%B7%E3%82%81/2070890620521603/",
+    "https://www.facebook.com/100063881730417/posts/%E3%81%8A%E5%AD%90%E3%81%95%E3%82%93%E3%81%8C%E5%98%94%E5%90%90%E3%81%9D%E3%81%AE%E5%87%A6%E7%90%86%E6%AD%A3%E3%81%97%E3%81%8F%E3%81%A7%E3%81%8D%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B%E5%AD%90%E3%81%A9%E3%82%82%E3%81%8C%E4%BD%93%E8%AA%BF%E3%82%92%E5%B4%A9%E3%81%97%E3%81%A6%E5%98%94%E5%90%90%E6%8E%83%E9%99%A4%E3%81%AF%E3%81%97%E3%81%9F%E3%81%91%E3%81%A9%E7%9B%AE%E3%81%AB%E8%A6%8B%E3%81%88%E3%81%AA%E3%81%84%E8%8F%8C%E3%81%8C%E6%AE%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%81%8B%E4%B8%8D%E5%AE%89%E3%81%A7%E3%81%97%E3%81%9F%E3%81%9D%E3%82%93%E3%81%AA%E7%B5%8C%E9%A8%93%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%E5%AE%9F%E3%81%AF%E5%90%90%E3%81%97%E3%82%83%E7%89%A9%E3%81%AF%E6%9C%80%E5%A4%A7/1054035706735811/",
+    "https://www.facebook.com/p/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%A4%E3%82%A8%E3%82%B9%E3%83%94%E3%83%BC%E8%A8%AD%E5%82%99-100077738221263/",
+    "https://www.facebook.com/kanichi.nakashima/",
+    "https://www.facebook.com/hps.co.jp/about/",
+    "https://www.facebook.com/shinichiro.tanikawa.1/",
+    "https://www.facebook.com/hps.co.jp/",
+    "https://www.facebook.com/OkayamawineFes/posts/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%E3%83%9A%E3%83%83%E3%83%88%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%9A%E3%83%83%E3%83%88%E3%81%A8%E6%A5%BD%E3%81%97%E3%81%8F%E9%81%8E%E3%81%94%E3%81%99%E6%97%A5%E6%99%822025%E5%B9%B43%E6%9C%8816%E6%97%A5%E6%97%A5-10%E6%99%8216%E6%99%82%E5%A0%B4%E6%89%80%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%E5%B2%A1%E5%B1%B1%E5%8C%97%E9%95%B7%E7%80%AC-%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%A8%E5%91%A8%E8%BE%BA%E3%82%A8%E3%83%AA%E3%82%A2-%E5%B2%A1%E5%B1%B1%E5%B8%82%E5%8C%97%E5%8C%BA%E5%8C%97%E9%95%B7%E7%80%AC%E8%A1%A8%E7%94%BA2%E4%B8%81/1446916873312847/"
+   ]
+  },
+  {
+   "query": "エイチ・エス・ピー note 社長",
+   "results": [
+    "https://www.pref.okayama.jp/site/micro/599994.html",
+    "https://mono.ipros.com/company/detail/2003746/",
+    "https://www.hsp-net.co.jp/profile.html",
+    "https://metoree.com/companies/10953/",
+    "https://superjia-sui.com/index.html",
+    "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BB%E3%82%A8%E3%82%B9%E3%83%BB%E3%83%94%E3%83%BC%E3%80%80%E7%95%A5%E7%A7%B0hsp/",
+    "https://note.com/a_chan/n/n1dc3c8bf0be7",
+    "https://note.com/akariwriter3/n/nc584a8409f74",
+    "https://ikikata-dappi.jp/5353",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "エイチ・エス・ピー X 投稿",
+   "results": [
+    "https://www.hsp-net.co.jp/index.html",
+    "https://www.pref.okayama.jp/site/micro/599994.html",
+    "https://mono.ipros.com/company/detail/2003746/",
+    "https://superjia-sui.com/index.html",
+    "https://x.com/",
+    "https://www.spacex.com/",
+    "https://jimo-navi.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BB%E3%82%A8%E3%82%B9%E3%83%BB%E3%83%94%E3%83%BC%E3%80%80%E7%95%A5%E7%A7%B0hsp/",
+    "https://www.nikkei.com/article/DGXZQOUA220HT0S6A820C2000000/",
+    "https://www.hsp-net.co.jp/academic.html",
+    "https://ja.wikipedia.org/wiki/森和俊"
+   ]
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索8回）",
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索8回）",
+  "資本金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索8回）",
+  "採用ページ": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索8回）"
+ }
+}

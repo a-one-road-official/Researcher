@@ -1,0 +1,979 @@
+{
+ "name": "JOHNAN",
+ "aliases": [],
+ "context": "岡山県／出典:県・市の企業ガイド／求人媒体:Indeed;doda;求人ボックス／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T05:12:40.698314+00:00",
+ "official_url": "https://www.johnan.com/",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "未来の製品",
+    "value": "1,000種類（個人向け7割／法人向け3割）",
+    "url": "https://www.johnan.com/company/mission/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "・スタートアップ新規事業支援 ・試作・商品化支援 ・マニュファクチャリング支援 （製造支援設備・自動化サービス、設備用部品加工、製造受託、製造人材支援） ・修理・メンテナンス支援 ・商品企画・販売 事業紹介はこちら 製品・サービスはこちら JOHNANソリューション",
+    "url": "https://www.johnan.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "■電子部品・機器、フィルム加工の開発・試作・製造 ■プリント基板修理サービス",
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "■スタートアップ新規事業支援 ■試作・商品化支援 ■マニュファクチャリング支援 (製造支援設備・自動化サービス、設備用部品加工、製造受託、製造人材支援） ■修理・メンテナンス支援 ■商品企画・販売支援",
+    "url": "https://en-gage.net/johnanrecruit/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "■精密機械・医療機器・基板実装・５軸金属加工事業 ■設計・開発・マニュファクチャリングサービス事業 ■X線ＣＴ検査装置の製造販売事業 ■環境商品（油吸収材・コンプレッサドレン処理装置）の販売事業 ■電子回路基板修理メンテナンス事業",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：1962年10月",
+    "url": "https://www.johnan.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1968年8月",
+    "url": "https://www.johnan.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2024年4月",
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1968年08月",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "9,500万円",
+    "url": "https://www.johnan.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "4,000万円",
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "95百万円",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長執行役員　山本　光世",
+    "url": "https://www.johnan.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "紅林 倫太郎",
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "山本　光世",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒611-0033　京都府宇治市大久保町成手1番地28 JOHNANグループの国内外拠点",
+    "url": "https://www.johnan.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "京都府宇治市大久保町成手1番地28",
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "京都府宇治市大久保町成手１－２８",
+    "url": "https://en-gage.net/johnanrecruit/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "611-0033京都府宇治市大久保町成手１－２８",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "label": "本社以外の事業所",
+    "value": "【国内事業部】東京/岡山/大阪/愛知 【海外事業部】中国/タイ",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "JOHNAN株式会社：270名 JOHNANグループ全体：737名 ※2026年5月末時点（パート・契約社員含む）",
+    "url": "https://www.johnan.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "320人",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "巨大な工場や規格化されたラインで量産される製品ではなく、一人ひとりの希望を汲み取った、オートクチュールなものづくり",
+    "url": "https://www.johnan.com/company/mission/",
+    "pass": 1
+   },
+   {
+    "quote": "JOHNANグループの企業情報｜ミッション・ビジョン、会社概要、国内外拠点等を紹介 | JOHNAN株式会社",
+    "url": "https://www.johnan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革｜事業内容、主要取引先、主要取引金融機関等、加盟団体、記念誌、適格請求書発行事業者等 | JOHNAN株式会社",
+    "url": "https://www.johnan.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "岡山工場を開設（旧名称：株式会社城南電器工業所 岡山工場）",
+    "url": "https://www.johnan.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "門真工場開設（旧名称：株式会社城南電器工業所 門真工場）",
+    "url": "https://www.johnan.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "山形工場開設（旧名称：株式会社城南電器工業所 山形工場）",
+    "url": "https://www.johnan.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "備前第二工場開設（旧名称：株式会社城南電器工業所 備前第二工場）が、松下電器産業株式会社テレビ事業部と取引開始",
+    "url": "https://www.johnan.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "宇治田原工場開設（旧名称：株式会社城南電器工業所 京都支社宇治田原工場）",
+    "url": "https://www.johnan.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "備前工場（旧名称：株式会社城南電器工業所 備前工場）ISO9002取得 （現在9001へ移行）",
+    "url": "https://www.johnan.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "以下の拠点にてISO14001取得",
+    "url": "https://www.johnan.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "・株式会社城南電器工業所 京都支社宇治田原工場（旧名称）",
+    "url": "https://www.johnan.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "岡山県早島町に工場を開設（旧名称：株式会社城南電器工業所 和気支社 早島工場）",
+    "url": "https://www.johnan.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "宇治田原工場を閉鎖（ラインは大久保町本社他へ移転）",
+    "url": "https://www.johnan.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ国内外拠点｜多様な製品・サービスと蓄積されたノウハウで、ものづくり現場の課題解決に貢献、ものづくりプラットフォーム企業JOHNAN | JOHNAN株式会社",
+    "url": "https://www.johnan.com/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "〒210-0005 神奈川県川崎市川崎区東田町8 パレール川崎レッド館3F-01",
+    "url": "https://www.johnan.com/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "JOHNAN株式会社 ものづくりプラットフォーム事業本部 津山工場（登録番号：33BZ200044）",
+    "url": "https://www.johnan.com/company/certifications/",
+    "pass": 1
+   },
+   {
+    "quote": "企業名 ＪＯＨＮＡＮ株式会社 求人名 【岡山】品質管理◆裁量抜群の課長候補ポジション/快適で清潔な環境〇 仕事の内容 ◆津山工場の品質管理責任者（課長候補）として、社内品質体制の構築やマネジメントを牽引いただきます",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "■社内品質管理体制の構築・維持・段階的改善 ■対顧客(半導体工場等)の品質窓口対応、監査対応、クレーム対応の統括 ■協力会社（外注先）の品質指導・監査計画の立案と実行 ■ISO9001等の規格運用管理および部内の人材育成・マネジメント 培ったマネジメントスキルを最大限に発揮できる裁量あふれる環境です",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "【大阪】SDGsに貢献!工場の設備を救うソリューション営業/WEB面可/未経験歓迎 機械/電気/電子製品法人営業",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 ＪＯＨＮＡＮ株式会社 求人名 【大阪】SDGsに貢献！工場の設備を救うソリューション営業/WEB面可/未経験歓迎 仕事の内容 ■工場の「機械が動かない」悩みを基板修理で解決に導く内勤ソリューション営業です",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "【詳細】工場の設備故障に対し、買い替えではなく「基板の修理」で低コストな復旧を支援するソリューション提案です",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 【大阪】SDGsに貢献！工場の設備を救うソリューション営業/WEB面可/未経験歓迎",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 ＪＯＨＮＡＮ株式会社 求人名 【岡山】品質管理◆次世代の体制を創るプレイングリーダー/快適で清潔な環境〇 仕事の内容 ◆津山工場の品質管理部門における係長候補として、社内品質体制の構築や実務を牽引いただきます",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "■社内品質管理体制の構築・維持・段階的改善 ■対顧客(半導体工場等)の品質窓口対応、監査対応、クレーム対応の統括 ■協力会社（外注先）の品質指導・監査計画の立案と実行 ■ISO9001等の規格運用管理および部内の人材育成・マネジメント 募集職種 【岡山】品質管理◆次世代の体制を創るプレイングリーダー/快適で清潔な環境〇",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "【名古屋/新工場】切削加工の見積・工程設計(フロントエンジニア)/年休121日 機械生産技術",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 ＪＯＨＮＡＮ株式会社 求人名 【名古屋/新工場】切削加工の見積・工程設計（フロントエンジニア）/年休121日 仕事の内容 ◆顧客の図面をもとに、製品の形状や精度から最適な加工工程の設計と見積価格の算出をお任せします",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 【名古屋/新工場】切削加工の見積・工程設計（フロントエンジニア）/年休121日",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "【大阪】産業機器の製造部長候補 拠点の約10名のリード+2拠点生産体制の牽引 機械/電気/電子製品法人営業",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 ＪＯＨＮＡＮ株式会社 求人名 【大阪】産業機器の製造部長候補◆拠点の約10名のリード＋2拠点生産体制の牽引 仕事の内容 ◆大阪旭工場にて、10～15名の製造チームのマネジメントをお任せします",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "受注管理・生産管理・納期対応など多岐にわたる業務を統括し、岡山県津山工場との2拠点生産体制の安定稼働を推進していただきます",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "将来的には岡山県津山工場との2拠点連携を強化し、工場全体の生産性向上も担っていただきます",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 【大阪】産業機器の製造部長候補◆拠点の約10名のリード＋2拠点生産体制の牽引",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "■ダイフク様、コベルコ科研様、神戸製鋼所様など大手企業様との取引多数です 【扱う商材】■半導体業界の製造ラインに関わる全ての装置 ■工場で使用される自動省力化装置 ※どちらの商材も需要拡大中であり引き合いが増加しております 【商材単価】100万円～1億円程度まで、幅広い商材をご担当頂きます 【営業手法】電話、メール、訪問がメインとなっており、既存：新規顧客の割合は9：1程度となっております",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "【名古屋】新工場での金属加工の職長 最新鋭マシニング導入済み/年休121日 機械生産技術",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 ＪＯＨＮＡＮ株式会社 求人名 【名古屋】新工場での金属加工の職長◆最新鋭マシニング導入済み/年休121日◎ 仕事の内容 ◆名古屋に新設される工場にて、金属切削加工の現場リーダーをお任せします",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "約20名の意欲溢れるベトナム人スタッフへの技術指導を行い、新工場の生産性を高める中心人物として活躍いただきます",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "【魅力】2026年夏完成予定の最新鋭の新工場での勤務です",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 【名古屋】新工場での金属加工の職長◆最新鋭マシニング導入済み/年休121日◎",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 ＪＯＨＮＡＮ株式会社 求人名 【大阪】SDGsに貢献するソリューション営業/土日祝休み/WEB面可/第二新卒歓迎 仕事の内容 ■工場の「機械が動かない」お悩みを、修理サービスで解決に導く内勤営業です",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "「町工場から組織的な会社へ」と大きく生まれ変わる変革期において、会社の利益の源泉をコントロールする司令塔です",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "9,500万円",
+    "url": "https://www.johnan.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社設立「株式会社城南電器工業所」として改組（資本金100万円）",
+    "url": "https://www.johnan.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "大阪中小企業投資育成株式会社の出資を受け、資本金9500万円に増資",
+    "url": "https://www.johnan.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "4,000万円",
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "pass": 3
+   },
+   {
+    "quote": "■賞与：年2回",
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "pass": 3
+   },
+   {
+    "quote": "■昇給：年1回",
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "pass": 3
+   },
+   {
+    "quote": "350万円～550万円",
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円 ／",
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "pass": 3
+   },
+   {
+    "quote": "年収440万円 ／",
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "pass": 3
+   },
+   {
+    "quote": "年収550万円 ／",
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "pass": 3
+   },
+   {
+    "quote": "350万円～450万円",
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "pass": 3
+   },
+   {
+    "quote": "年収380万円 ／",
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "pass": 3
+   },
+   {
+    "quote": "年収410万円 ／",
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "pass": 3
+   },
+   {
+    "quote": "年収450万円 ／",
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "pass": 3
+   },
+   {
+    "quote": "・第一子2万円",
+    "url": "https://en-gage.net/johnanrecruit/",
+    "pass": 3
+   },
+   {
+    "quote": "・第二子1万円",
+    "url": "https://en-gage.net/johnanrecruit/",
+    "pass": 3
+   },
+   {
+    "quote": "20万円～28万5340円",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "数千万円程度のダイナミックな価格交渉が主業務です",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "27万円～45万円",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "■ダイフク様、コベルコ科研様、神戸製鋼所様など大手企業様との取引多数です 【扱う商材】■半導体業界の製造ラインに関わる全ての装置 ■工場で使用される自動省力化装置 ※どちらの商材も需要拡大中であり引き合いが増加しております 【商材単価】100万円～1億円程度まで、幅広い商材をご担当頂きます 【営業手法】電話、メール、訪問がメインとなっており、既存：新規顧客の割合は9：1程度となっております",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "27万円～34万円",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "30万円以上",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "Editorial support Recruit Management Solutions Co., Ltd.",
+    "url": "https://www.johnan.com/assets/johnan/pdf/company/mission/picturebook_en.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Recruit Communications Co., Ltd.",
+    "url": "https://www.johnan.com/assets/johnan/pdf/company/mission/picturebook_en.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "编辑支持 Recruit Management Solutions Ltd.",
+    "url": "https://www.johnan.com/assets/johnan/pdf/company/mission/picturebook_cn.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Recruit Communication Ltd.",
+    "url": "https://www.johnan.com/assets/johnan/pdf/company/mission/picturebook_cn.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "JOHNAN DMS株式会社の会社概要|転職・求人・中途採用情報サイトのマイナビ転職",
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "pass": 3
+   },
+   {
+    "quote": "ＪＯＨＮＡＮ株式会社の中途採用・転職・求人情報｜転職エージェントならリクルートエージェント",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "ＪＯＨＮＡＮ株式会社の中途採用・転職・求人情報",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "inside or outside the company, could engage in heart-to-heart conversa -",
+    "url": "https://www.johnan.com/assets/johnan/pdf/company/mission/picturebook_en.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "JOHNAN DMS株式会社の会社概要|転職・求人・中途採用情報サイトのマイナビ転職",
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "pass": 3
+   },
+   {
+    "quote": "あなたの転職を支援する転職サイト「マイナビ転職」豊富な求人情報と転職情報・転職支援サービスで転職をサポート",
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "pass": 3
+   },
+   {
+    "quote": "※オプトアウトをした場合、マイナビ転職の一部サービスを利用できない場合があります",
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "pass": 3
+   },
+   {
+    "quote": "JOHNAN株式会社の採用・求人情報-engage",
+    "url": "https://en-gage.net/johnanrecruit/",
+    "pass": 3
+   },
+   {
+    "quote": "© engage Inc.｜株式会社エンゲージ",
+    "url": "https://en-gage.net/johnanrecruit/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "JOHNAN 株式会社 の 求人 ・中途採用情報 - doda — JOHNAN 株式会社 の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10007046677",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10007046677/",
+    "pass": 3
+   },
+   {
+    "quote": "JOHNAN DMS株式会社の会社概要 - マイナビ転職 — JOHNAN DMS株式会社の会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "pass": 3
+   },
+   {
+    "quote": "Johnan 株式会社の 求人 - Indeed (インディード) — Johnan 株式会社の 求人 - Indeed (インディード) Indeed https://jp.indeed.com > q-johnan株式会社-求人",
+    "url": "https://jp.indeed.com/q-johnan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%B1%82%E4%BA%BA.html",
+    "pass": 3
+   },
+   {
+    "quote": "JOHNAN 株式会社 の平均 年収 、年間給与所得情報 - doda — JOHNAN 株式会社 の平均 年収 、年間給与所得情報 - doda doda https://doda.jp > CompanyIncome > j_id__10007046677",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10007046677/",
+    "pass": 3
+   },
+   {
+    "quote": "JOHNAN 株式会社の転職・ 求人 情報 — JOHNAN 株式会社の転職・ 求人 情報 求人ボックス https://求人ボックス.com > JOHNAN株式会社の仕事",
+    "url": "https://xn--pckua2a7gp15o89zb.com/JOHNAN%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "JOHNAN 株式会社の 採用 ・求人情報-engage - エンゲージ — JOHNAN 株式会社の 採用 ・求人情報-engage - エンゲージ エンゲージ https://en-gage.net > johnanrecruit",
+    "url": "https://en-gage.net/johnanrecruit/",
+    "pass": 3
+   },
+   {
+    "quote": "採用 情報のお問い合わせ - JOHNAN株式会社 — 採用 情報のお問い合わせ - JOHNAN株式会社 JOHNAN株式会社 https://www.johnan.com > お問い合わせ",
+    "url": "https://www.johnan.com/contact/saiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "JOHNAN 株式会社の中途 採用 ・転職・求人情報 — JOHNAN 株式会社の中途 採用 ・転職・求人情報 リクルートエージェント https://www.r-agent.com > company",
+    "url": "https://www.r-agent.com/company/06715/",
+    "pass": 3
+   },
+   {
+    "quote": "JOHNAN DMS株式会社の求人情報／京都本社 - マイナビ転職 — JOHNAN DMS株式会社の求人情報／京都本社 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > ... > JOHNAN DMS株式会社",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-412384-3-4-1/",
+    "pass": 3
+   },
+   {
+    "quote": "JOHNAN の 新卒採用 ・就職・企業情報 - 就活会議 — JOHNAN の 新卒採用 ・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > companies",
+    "url": "https://syukatsu-kaigi.jp/companies/48986",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "今後、少子高齢化による労働力人口減少・作業負荷増大への対応や製品の生産性向上の必要性から、様々な業界分野の製造業、物流倉庫、その他施設等でIT・ロボットが活用され、ものづくりのあり方も大きく変革することが想定されます",
+    "url": "https://en-gage.net/johnanrecruit/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "public space｜ Johnan 城南 Rotten - note public space｜ Johnan 城南 Rotten - note note https://note.com > cyclepistols > hashtag > コペンハーゲン",
+    "url": "https://note.com/cyclepistols/m/m89aff3829c11/hashtag/%E3%82%B3%E3%83%9A%E3%83%B3%E3%83%8F%E3%83%BC%E3%82%B2%E3%83%B3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "公園を哲学しよう！コペンハーゲンの「Superkilen」に見る、公園の知られざるチカラ．地域の問題を解決し、場のポテンシャルを最大限に引き出す．",
+    "url": "https://note.com/cyclepistols/m/m89aff3829c11/hashtag/%E3%82%B3%E3%83%9A%E3%83%B3%E3%83%8F%E3%83%BC%E3%82%B2%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "public space｜Johnan 城南 Rotten｜note",
+    "url": "https://note.com/cyclepistols/m/m89aff3829c11/hashtag/%E3%82%B3%E3%83%9A%E3%83%B3%E3%83%8F%E3%83%BC%E3%82%B2%E3%83%B3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "JOHNAN 株式会社 (@johnancorp) / X JOHNAN 株式会社 (@johnancorp) / X X https://x.com > johnancorp",
+    "url": "https://x.com/johnancorp",
+    "pass": 3
+   },
+   {
+    "quote": "JOHNAN 株式会社 - X JOHNAN 株式会社 - X X https://x.com > @johnancorp",
+    "url": "https://x.com/johnancorp/status/1988025244947476751",
+    "pass": 3
+   },
+   {
+    "quote": "JOHNAN 株式会社 on X: \"代表の山本より季節のご挨拶をさせ ... JOHNAN 株式会社 on X: \"代表の山本より季節のご挨拶をさせ ... X https://x.com > @johnancorp",
+    "url": "https://x.com/johnancorp/status/2000398977158840798",
+    "pass": 3
+   },
+   {
+    "quote": "Johnan meets (@johnan_meets) / X Johnan meets (@johnan_meets) / X X https://x.com > johnan_meets",
+    "url": "https://x.com/johnan_meets",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Johnan America, Inc. - LinkedIn Johnan America, Inc. - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/johnan-america-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Johnan A. - Business Partner @ GS | People x AI | IHRP-CP Johnan A. - Business Partner @ GS | People x AI | IHRP-CP LinkedIn Singapore https://sg.linkedin.com > johnan-an-g...",
+    "url": "https://sg.linkedin.com/in/johnan-an-guohao",
+    "pass": 3
+   },
+   {
+    "quote": "JOHNAN Corporation - LinkedIn JOHNAN Corporation - LinkedIn LinkedIn https://www.linkedin.com > company > johnan-corporation",
+    "url": "https://www.linkedin.com/company/johnan-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "Johnan Ratliff - Division Manager at Kent Companies - LinkedIn Johnan Ratliff - Division Manager at Kent Companies - LinkedIn LinkedIn https://www.linkedin.com > johnan-ra...",
+    "url": "https://www.linkedin.com/in/johnan-ratliff",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "JOHNAN 株式会社 | Uji-shi Kyoto - Facebook JOHNAN 株式会社 | Uji-shi Kyoto - Facebook Facebook https://www.facebook.com > ... > Business service",
+    "url": "https://www.facebook.com/johnan.corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "Mamanzi Johnan - Facebook Mamanzi Johnan - Facebook Facebook https://www.facebook.com > ... > Digital creator",
+    "url": "https://www.facebook.com/mamanzi.johnan.71/",
+    "pass": 3
+   },
+   {
+    "quote": "Troy Johnan - Facebook Troy Johnan - Facebook Facebook https://www.facebook.com > troy.johnan",
+    "url": "https://www.facebook.com/troy.johnan/",
+    "pass": 3
+   },
+   {
+    "quote": "Mugume Johnan - Facebook Mugume Johnan - Facebook Facebook https://www.facebook.com > mugume.johnan",
+    "url": "https://www.facebook.com/mugume.johnan/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.johnan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.johnan.com/company/mission/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.johnan.com/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.johnan.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.johnan.com/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.johnan.com/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.johnan.com/company/organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.johnan.com/company/concept/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.johnan.com/company/group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.johnan.com/company/certifications/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.johnan.com/company/monozukuri-platform-company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.johnan.com/assets/johnan/pdf/company/mission/picture_book.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.johnan.com/assets/johnan/pdf/company/mission/picturebook_en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.johnan.com/assets/johnan/pdf/company/mission/picturebook_cn.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10007046677/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/412384/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-johnan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en-gage.net/johnanrecruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-agent.com/company/06715/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cyclepistols/m/m89aff3829c11/hashtag/%E3%82%B3%E3%83%9A%E3%83%B3%E3%83%8F%E3%83%BC%E3%82%B2%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/johnancorp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/johnancorp/status/1988025244947476751",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/johnancorp/status/2000398977158840798",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/johnan_meets",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/johnan-america-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/in/johnan-an-guohao",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/johnan-corporation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/johnan-ratliff",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/johnan.corporation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mamanzi.johnan.71/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/troy.johnan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mugume.johnan/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "JOHNAN 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10007046677/",
+    "https://tenshoku.mynavi.jp/company/412384/",
+    "https://jp.indeed.com/q-johnan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%B1%82%E4%BA%BA.html",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10007046677/",
+    "https://xn--pckua2a7gp15o89zb.com/JOHNAN%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "https://en-hyouban.com/company/10007046677/salary/",
+    "https://jp.stanby.com/r_b953d64f97430bc217a1a256a8ee3187",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C1000000pn2ay&q_no=2",
+    "https://next.rikunabi.com/viewjob/jk89245f5d57ec226b/",
+    "https://jp.indeed.com/cmp/Johnan株式会社/salaries"
+   ]
+  },
+  {
+   "query": "JOHNAN 採用 新卒 高卒",
+   "results": [
+    "https://en-gage.net/johnanrecruit/",
+    "https://www.johnan.com/contact/saiyo/",
+    "https://www.r-agent.com/company/06715/",
+    "https://tenshoku.mynavi.jp/jobinfo-412384-3-4-1/",
+    "https://syukatsu-kaigi.jp/companies/48986",
+    "https://jp.indeed.com/q-johnan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-l-%E4%BA%AC%E9%83%BD%E5%BA%9C-%E5%AE%87%E6%B2%BB%E5%B8%82-%E5%A4%A7%E4%B9%85%E4%BF%9D%E7%94%BA-%E6%B1%82%E4%BA%BA.html",
+    "https://jp.stanby.com/r_3664357bc86764b5d69650c9d3aa5543",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10007046677/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000pn2ay",
+    "https://www.openwork.jp/a0C1000000pn2ay/job/"
+   ]
+  },
+  {
+   "query": "site:note.com JOHNAN",
+   "results": [
+    "https://note.com/fisco_jp/n/n0277f97b96a0?hl=en",
+    "https://note.com/tokyu_s_reyes_fc/n/n89560f0f3853",
+    "https://note.com/cyclepistols/m/m89aff3829c11/hashtag/%E3%82%B3%E3%83%9A%E3%83%B3%E3%83%8F%E3%83%BC%E3%82%B2%E3%83%B3",
+    "https://note.com/nobu724/n/ncda80d802815",
+    "https://note.com/studyplus/n/n84de555f2e22",
+    "https://note.com/atotsugi_first/n/nbbfb84a12763",
+    "https://note.com/mimihara_art/n/na7d899384cee",
+    "https://note.com/kasie_ejcreation/n/nc23ba16c5036",
+    "https://note.com/kyousou_ns/n/n798834c4e438?hl=en",
+    "https://note.com/kasie_ejcreation/n/n7df37ff36cc7"
+   ]
+  },
+  {
+   "query": "site:x.com JOHNAN",
+   "results": [
+    "https://x.com/johnancorp",
+    "https://x.com/johnancorp/status/1988025244947476751",
+    "https://x.com/johnancorp/status/2000398977158840798",
+    "https://x.com/johnan_meets",
+    "https://x.com/johnancorp/status/1973568587408482658",
+    "https://x.com/cyclepistols/status/2048345665965805995",
+    "https://x.com/cyclepistols/status/2105246530454290633",
+    "https://x.com/kessan_db/status/1965680223481197005",
+    "https://x.com/cyclepistols/status/2111427754642272366",
+    "https://x.com/cyclepistols/status/2111615266606170210"
+   ]
+  },
+  {
+   "query": "site:linkedin.com JOHNAN",
+   "results": [
+    "https://www.linkedin.com/company/johnan-america-inc",
+    "https://sg.linkedin.com/in/johnan-an-guohao",
+    "https://www.linkedin.com/company/johnan-corporation",
+    "https://www.linkedin.com/in/johnan-ratliff",
+    "https://bo.linkedin.com/company/johnan-america-inc",
+    "https://www.linkedin.com/in/elyssia-johnan-msn-rn-28b108148",
+    "https://jp.linkedin.com/company/johnan-corporation",
+    "https://www.linkedin.com/in/jeffrey-bruns-304338393",
+    "https://www.linkedin.com/in/vickie-mann-8b27b43a",
+    "https://www.linkedin.com/in/jacob-staten-b823441bb"
+   ]
+  },
+  {
+   "query": "site:facebook.com JOHNAN",
+   "results": [
+    "https://www.facebook.com/johnan.corporation/",
+    "https://www.facebook.com/mamanzi.johnan.71/",
+    "https://www.facebook.com/troy.johnan/",
+    "https://www.facebook.com/mugume.johnan/",
+    "https://www.facebook.com/kamugisha.johnan.7/",
+    "https://www.facebook.com/murangira.johnan/",
+    "https://www.facebook.com/baguma.johnan/",
+    "https://www.facebook.com/p/John-Johnan-61595701001242/",
+    "https://www.facebook.com/lynnar.bascos/posts/2777496679310934/",
+    "https://www.facebook.com/profile.php/?id=169394436411070"
+   ]
+  },
+  {
+   "query": "JOHNAN note 社長",
+   "results": [
+    "https://www.johnan.com/company/organization/",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/sanyo_industry",
+    "https://www.projectdesign.jp/articles/4954d5fb-8c6f-499a-97af-b469d1e2cfa6",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://www.facebook.com/enfackigyotv/posts/%E6%B3%A8%E7%9B%AE%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E4%BC%81%E6%A5%AD%E4%BB%8A%E5%9B%9E%E3%81%AFjohnan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7%E5%85%BCceo%E3%81%AE%E5%B1%B1%E6%9C%AC-%E5%85%89%E4%B8%96%E6%B0%8F%E3%81%AB%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%81%AB%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%93%E3%81%A0%E8%83%8C%E6%99%AF%E3%82%84%E4%BA%8B%E6%A5%AD%E8%BB%A2%E6%8F%9B%E3%82%92%E8%80%83%E3%81%88%E3%81%9F%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%8A%E8%A9%B1%E3%82%92%E4%BC%BA%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F/3299469960080096/",
+    "https://diamond.jp/articles/-/388572",
+    "https://x.com/sadaaki",
+    "https://note.com/jtekt_kondou",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "JOHNAN X 投稿",
+   "results": [
+    "https://www.johnan.com/art/about_johnan/",
+    "https://syukatsu-kaigi.jp/companies/48986/post_items/6/word_mouths",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C1000000pn2ay",
+    "https://www.youtube.com/@johnanmedia",
+    "https://x.com/johnankun",
+    "https://www.instagram.com/johnan_meets/",
+    "https://kanagata-shimbun.com/202510-comscan/",
+    "https://www.johnan.com/en/mission/",
+    "https://x.com/cyclepistols/status/2098992078256816376",
+    "https://x.com/cyclepistols/status/2115200242329227449"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像3件／外部18頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式11頁／PDF・画像3件／外部18頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式11頁／PDF・画像3件／外部18頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式11頁／PDF・画像3件／外部18頁・検索8回）"
+ }
+}

@@ -1,0 +1,190 @@
+{
+ "name": "ティエステ",
+ "aliases": [],
+ "context": "岡山県岡山市／出典:県・市の企業ガイド／求人媒体:見当たらず／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T05:25:04.992450+00:00",
+ "official_url": "http://testhe.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": ". 10月限定 ♡𝑵𝑬𝑾♡ 〖 ハーブボールセラピー 〗 60分 ¥7.700 90分 ¥...Celestique Spa | Osaka Osaka - FacebookFacebook - log in or sign upCitta（チッタ） - 初めまして 齋藤麻美です。 4月1日からcittaに入社.... この夏限定 むくみ、疲れ吹っ飛ばしたい方 大人気のリンパマッサー...Citta（チッタ） - https://ameblo.jp/citta0620/entry-12640007962 ..... Red shot〰️レッドショット〰️ 限定150名様‼️ 通常価格¥16.800→¥10.... Sep 28, 2025 · . 10月限定🌟 🌟♡𝑵𝑬𝑾♡🌟 〖 ハーブボールセラピー 〗 60分 ¥7.700 90分 ¥9.900 温かいハーブボール🏐を押し当て 蒸気とハ",
+    "url": "https://www.facebook.com/salon.citta/videos/10月限定𝑵𝑬𝑾-ハーブボールセラピー-60分-770090分-9900温かいハーブボールを押し当て蒸気とハーブの香りで心身をほぐすセラピー植物の恵みで深いリラ/1086468790138266/",
+    "pass": 3
+   },
+   {
+    "quote": "Citta（チッタ） - 初めまして 齋藤麻美です。 4月1日からcittaに入社... Mar 31, 2025 · ティエステ#化粧品#ナイトパック#美容乳液 . citta original cosmetics 💓 🌿.∘HLAADA GrowWrap 🤍⋆GrowWrap ꔛ🤍 A blend of skin regenerating beauty ingredients 🐈 ⬛💙 Wrap effect keeps it moisturized for longer It will give you skin that is chewy, charming and lustrous Last of the cosmetics on hand ( • 手ᴗ ...",
+    "url": "https://www.facebook.com/salon.citta/photos/初めまして齋藤麻美です4月1日からcittaに入社させていただきました以前もエステティシャンの経験があり自分の経験を活かして新たにcittaでお仕事させていただ/1162231359246229/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://testhe.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://tx-town.jp/corp/rmiJQKRqKm1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nenshu-master.com/companies/ts-tech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E3%83%86%E3%82%A4%E3%83%BB%E3%82%A8%E3%82%B9%E3%80%80%E3%83%86%E3%83%83%E3%82%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tstech.co.jp/recruit/graduate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tstech.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp56893/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/salon.citta/videos/10月限定𝑵𝑬𝑾-ハーブボールセラピー-60分-770090分-9900温かいハーブボールを押し当て蒸気とハーブの香りで心身をほぐすセラピー植物の恵みで深いリラ/1086468790138266/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/salon.citta/photos/初めまして齋藤麻美です4月1日からcittaに入社させていただきました以前もエステティシャンの経験があり自分の経験を活かして新たにcittaでお仕事させていただ/1162231359246229/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ティエステ 求人 年収",
+   "results": [
+    "https://tx-town.jp/corp/rmiJQKRqKm1",
+    "https://nenshu-master.com/companies/ts-tech/",
+    "https://jp.indeed.com/cmp/テイ・エス　テック株式会社/salaries",
+    "https://migi-nanameue.co.jp/column/teih-estec-salary-2026-analysis/",
+    "https://hw-jobs.careermine.jp/salary/ts-tech",
+    "https://career.mirasus.jp/article/dainishinsotsu/tstech-salary/",
+    "https://xn--pckua2a7gp15o89zb.com/テイ・エス+テック株式会社の年収"
+   ]
+  },
+  {
+   "query": "ティエステ 採用 新卒 高卒",
+   "results": [
+    "https://www.tstech.co.jp/recruit/graduate/",
+    "https://www.tstech.co.jp/recruit/",
+    "https://job.mynavi.jp/27/pc/search/corp56893/outline.html",
+    "https://arwrk.net/recruit/ozluam3s36g1exn/",
+    "https://www.tachi-s.co.jp/recruit/recruitmentdetails/newgraduate.html",
+    "https://job.mynavi.jp/27/pc/search/corp56893/employment.html",
+    "https://xn--pckua2a7gp15o89zb.com/テイ・エス-テック株式会社の仕事"
+   ]
+  },
+  {
+   "query": "site:note.com ティエステ",
+   "results": [
+    "https://note.com/iroirokunn/n/n77a2a18328c6",
+    "https://note.com/idol_man_center/n/n9aa3d6d0c681",
+    "https://tales.note.com/",
+    "https://note.com/belle_cherika/n/nd882308b3205",
+    "https://note.com/bua_17/n/nd9d01ad135b2",
+    "https://note.com/idol_man_center/n/nb9364846c5f6",
+    "https://note.com/icetea_black/n/nd0d73979a90a"
+   ]
+  },
+  {
+   "query": "site:x.com ティエステ",
+   "results": [
+    "https://x.com/LeeQ_riristage/status/2083820252547190983",
+    "https://x.com/LeeQ_riristage",
+    "https://x.com/LeeQ_riristage/status/2099246356951126397",
+    "https://x.com/LeeQ_riristage/status/2117945604416688426",
+    "https://x.com/LeeQ_riristage/status/2117941136686034954",
+    "https://x.com/LeeQ_riristage/status/2090396540494045364",
+    "https://x.com/sasami601/status/2083828598793027901"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ティエステ",
+   "results": [
+    "https://jp.linkedin.com/in/masahiro-kaidoh-6469b2b1",
+    "https://jp.linkedin.com/in/詩乃-髙橋-8363a3273",
+    "https://in.linkedin.com/in/agarwalketan",
+    "https://www.linkedin.com/",
+    "https://www.linkedin.com/jobs/hunter-chitwood-from-c-and-c-equipment-cause-of-death-jobs",
+    "https://hu.linkedin.com/in/judit-csenge-vizi",
+    "https://uk.linkedin.com/in/katie-stephens-84b62913"
+   ]
+  },
+  {
+   "query": "site:facebook.com ティエステ",
+   "results": [
+    "https://www.facebook.com/salon.citta/videos/10月限定𝑵𝑬𝑾-ハーブボールセラピー-60分-770090分-9900温かいハーブボールを押し当て蒸気とハーブの香りで心身をほぐすセラピー植物の恵みで深いリラ/1086468790138266/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/p/Celestique-Spa-61573408857479/",
+    "https://www.facebook.com/salon.citta/photos/初めまして齋藤麻美です4月1日からcittaに入社させていただきました以前もエステティシャンの経験があり自分の経験を活かして新たにcittaでお仕事させていただ/1162231359246229/",
+    "https://www.facebook.com/salon.citta/videos/この夏限定むくみ疲れ吹っ飛ばしたい方大人気のリンパマッサージデトックスバージョン発汗オイル発汗シート使用でスッキリbodyへダイエットしてる方にもおすすめ️ci/759053863187819/",
+    "https://www.facebook.com/salon.citta/posts/1793362447496364/",
+    "https://www.facebook.com/salon.citta/videos/red-shot️レッドショット️限定150名様️通常価格1680010000脂肪溶解と肌再生を同時に行うことができる韓国発の新しい美容液っ-͟͟͞͞主な特徴脂/25091755980509538/"
+   ]
+  },
+  {
+   "query": "ティエステ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.tstech.co.jp/company/management/",
+    "https://japanir.jp/wp-content/uploads/2026/02/7313-20260227-01.pdf",
+    "https://finance.yahoo.co.jp/quote/7313.T/profile",
+    "https://www.tstech.co.jp/company/profile/"
+   ]
+  },
+  {
+   "query": "ティエステ X 投稿",
+   "results": [
+    "https://x.com/i/trending/2062451828152045994",
+    "https://search.yahoo.co.jp/realtime/search/＃ツイステ/",
+    "https://search.yahoo.co.jp/realtime/search/ツイステ/",
+    "https://x.com/LeeQ_riristage/status/2117941134047723999",
+    "https://nihon-navi.com/twitter-x-guide/",
+    "https://www.nicovideo.jp/watch/sm44319229",
+    "https://www.pixiv.net/artworks/151424244"
+   ]
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索8回）",
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索8回）",
+  "資本金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索8回）",
+  "採用ページ": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索8回）",
+  "想定年収・給与": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索8回）",
+  "取引先・規模": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索8回）"
+ }
+}

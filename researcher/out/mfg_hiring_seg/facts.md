@@ -1,4 +1,4 @@
-# 製造業の採用コストと採用状況 — 企業規模・職種・業種・地域のセグメント別（事実のみ・16品目）
+# 製造業の採用コストと採用状況 — 企業規模・職種・業種・地域のセグメント別（事実のみ・20品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1106,3 +1106,258 @@
   - 「「就職白書2020」」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
   - 「同調査では、中途採用の平均採用単価は」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
   - 「また、「就職白書2019」では、業種別の新卒採用単価が以下のように報告されています」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+
+## 製造業の企業規模別の採用費（雇用動向調査・就労条件総合調査）（hiring cost by firm size manufacturing Japan MHLW survey）
+- 文脈：規模
+- セグメント定義：
+  - 「次に、中小企業における産業別の従業員数における過不足状況（従業員数過不足 DI）を」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「一方、製造業の従業員数における過不足状況（従業員数過」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「備考： 従業員数過不足 DI は、 今期の従業員数が 「過剰」 と答えた企業の割合（％） から、 「不足」」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「図211-4 中小企業における産業別従業員数過不足DI（今期の水準）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「製造業における正規雇用及び非正規雇用の職員・従業員の割合は、いずれも 2013 年以降」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「ほぼ横ばいで推移しており、2023 年は正規雇用の職員・従業員が 69.3％、非正規雇用の職」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「員・従業員が 23.1％となっている」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「従業員の割合は、製造業の方が 15.7 ポイント高く、非正規雇用の職員・従業員の割合は、」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「比べて正規雇用の職員・従業員の割合が高くなっていることが分かる」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「また、製造業における新規学卒入職者の企業規模別の内訳をみると、前年の 2021 年と比較」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「299 人」と「1,000 人以上」の企業への入職者数が減少している」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「正規雇用の職員・従業員 非正規雇用の職員・従業員 その他」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「1,000 人以上 新規学卒者のうち製造業への入職割合」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「2． 外国人労働者数（製造業）と外国人労働者数（非製造業）は、1,000 人未満を四捨五」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「国内の製造業の労働時間の推移をみると、製造業の事業所規模 5 人以上の事業所における」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+- 採用単価：
+  - 「いては 1 万円を超えている」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+- 充足・欠員：
+  - 「有効求人倍率（季節調整値） は、 2010 年以降上昇し、 2018 年 9 月に 1.64 倍を記録したが、」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「的に続く人手不足の状況も背景に上昇傾向に転じていた」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「1.1 と不足感が弱まった」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「図211-2 有効求人倍率（季節調整値）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「 有効求人倍率（季節調整値）は、年以降上昇し、年 月に倍を記録したが、同」（https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf）
+  - 「が、年第四半期からマイナス幅が縮小し、年第四半期にはマイナスと不足感が」（https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf）
+  - 「図：有効求人倍率（季節調整値）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf）
+- 調査主体・時期：
+  - 「資料：総務省「労働力調査」 （2024 年 3 月）」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「資料：中小企業庁「中小企業景況調査」 （2024 年 3 月）」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「資料：厚生労働省「雇用動向調査」 （2023 年 8 月）」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「資料：総務省「労働力調査」 （2024 年 3 月）」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「の届出状況まとめ（各年10月末時点）及び総務省「労働力調査」 （各年10月）を基」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「調査産業計総実労働時間 製造業総実労働時間 調査産業計所定内労働時間 製造業所定内労働時間」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「資料：厚生労働省「毎月勤労統計調査」 （2024 年 2 月）」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「備考： 調査時点は毎年1月1日時点」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「なお、2014 年以前は、調査対象を「常用労働者が 30 人以上の会社」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「資料：厚生労働省「就労条件総合調査」 （2024 年 1 月）」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「備考： 調査時点は毎年 1 月 1 日時点」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「図中の年は、調査実施年であり、 「取得日数」の調査対象期」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「間は前年（又は前々年の会計年度） 1 年間である」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「2． 2018 年以前は、調査対象産業「宿泊業、飲食サービス業」のうち「バー、キャバレー、」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+  - 「資料：厚生労働省「賃金構造基本統計調査」 （2024 年 3 月）」（https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf）
+- 年間採用費：記載なし（読んだ34頁・検索13回）
+- 採用経路：記載なし（読んだ34頁・検索13回）
+
+## 中途採用実態調査の企業規模別・製造業（リクルートワークス研究所の原典）（Recruit Works Institute mid-career hiring survey by firm size manufacturing）
+- 文脈：規模
+- セグメント定義：
+  - 「 従業員規模別、業種別ともに全ての区分で2026年度の中途採用D.I.はプラスとなった」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「従業員規模別に見ると、5,000」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「人以上企業で11.6％ポイントと、2025年度の29.3％ポイントからの低下幅が大きい」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「業種別では、情報通信業、流通業、」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「 従業員規模別に見ると、5,000人以上企業では、「確保できた」（47.7％）が「確保できなかった」（46.5％）を上回ったが、」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「業種別に見ると、金融業では「確保できた」（52.9」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「従業員規模別・業種別 4」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「従業員規模別・業種別 7」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「調査対象：従業員規模5人以上の全国の民間企業 8,200社」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「注3：業種別の表において、大分類6区分以外にその他の区分があるため、大分類の合計社数は回答社数と一致しない」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「注4：従業員規模は有期雇用者を含む」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「本資料では、従業員規模について、300人未満企業を中小企業、300～999人企業」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「を中堅企業、1,000～4,999人企業および5,000人以上企業を大企業としている」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「全ての従業員規模・業種区分で中途採用D.I.はプラス」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「 従業員規模別に見ると、2026年度は全ての従業員規模区分で中途採用D.I.がプラスとなったが、いずれも2025年度に」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+- 採用単価：
+  - 「HR領域の社会的トピックに対する市場調査とデータ分析を実施するプロフェッショナルバンクのHR研究所は、30代前半の平均年収が近しい500万円前後の各業界（参照：厚生労働省 賃金構造基本統計調査）で働く30歳～34歳の正社…」（https://www.pro-bank.co.jp/saiyo-meister/personnel-story/situation/）
+  - 「希望者がキャリアコンサルタントに相談する費用や、専門スキルを身につけられる民間の口座費用を一部負担し、1人あたり平均24万円を助成」（https://forbesjapan.com/articles/detail/64394）
+  - 「人材獲得競争は激化し、新卒初任給が一部で30万円を超えるなど急上昇、年功型賃金が揺さぶられている」（https://www.nippon.com/ja/articles/-/705）
+  - 「初任給30万円時代：業界「横並び」が崩壊、人手不足で人材確保」（https://www.nippon.com/ja/articles/-/705）
+- 採用経路：
+  - 「ヘッドハンティングと人材紹介の違いについて知りたい」（https://www.pro-bank.co.jp/saiyo-meister/personnel-story/situation/）
+  - 「グーグルが全米の学校に発表、AI禁止ならGoogle検索も利用不可に」（https://forbesjapan.com/articles/detail/64394）
+- 充足・欠員：
+  - 「 人員を確保できず未充足であった企業への影響は、「事業に深刻な影響が出ている」が5.9%、「事業に影響は出」（https://www.scout-group.jp/corporate-recruiter/180202_midcareer.pdf）
+  - 「人員を確保できず未充足であった企業の取った対応は、「60歳以上の自社の社員の積極的な活用」（65.8％）が」（https://www.scout-group.jp/corporate-recruiter/180202_midcareer.pdf）
+  - 「2017年度上半期 中途採用未充足による影響・・・・・・・・・・・・・・・・・・8」（https://www.scout-group.jp/corporate-recruiter/180202_midcareer.pdf）
+  - 「2017年度上半期 中途採用未充足への対応・・・・・・・・・・・・・・・・・・・9」（https://www.scout-group.jp/corporate-recruiter/180202_midcareer.pdf）
+  - 「2017年度上半期 中途採用未充足への対応（業種別）・・・・・・・・・・・10」（https://www.scout-group.jp/corporate-recruiter/180202_midcareer.pdf）
+  - 「(+21.9%ポイント)、情報通信（+19.9%ポイント）などであり、人手不足が顕著な業種を中心に「増える」が「減る」を上回ってい」（https://www.scout-group.jp/corporate-recruiter/180202_midcareer.pdf）
+  - 「2017年度上半期 中途採用未充足による影響」（https://www.scout-group.jp/corporate-recruiter/180202_midcareer.pdf）
+  - 「2017年度上半期の正規社員に対する中途採用において、人員を確保できず未充足であった企業に対して、影響を調査し」（https://www.scout-group.jp/corporate-recruiter/180202_midcareer.pdf）
+  - 「2017年度上半期 中途採用未充足への対応」（https://www.scout-group.jp/corporate-recruiter/180202_midcareer.pdf）
+  - 「2017年度上半期の正規社員に対する中途採用において、人員を確保できず未充足であった企業に対して、対応を調査し」（https://www.scout-group.jp/corporate-recruiter/180202_midcareer.pdf）
+  - 「■2017年度上半期 中途採用未充足に対する対応」（https://www.scout-group.jp/corporate-recruiter/180202_midcareer.pdf）
+  - 「■従業員規模別 2017年度上半期 中途採用未充足に対する対応」（https://www.scout-group.jp/corporate-recruiter/180202_midcareer.pdf）
+  - 「2017年度上半期 中途採用未充足への対応（業種別）」（https://www.scout-group.jp/corporate-recruiter/180202_midcareer.pdf）
+  - 「2017年度上半期の正規社員に対する中途採用において、人員を確保できず未充足であった企業の対応について、業種」（https://www.scout-group.jp/corporate-recruiter/180202_midcareer.pdf）
+  - 「金融業は未充足の企業が少数に留まるが、対応としては「IT化や機械化による業務の効率化」が行われている」（https://www.scout-group.jp/corporate-recruiter/180202_midcareer.pdf）
+- 調査主体・時期：
+  - 「る研究機関・リクルートワークス研究所では 、民間企業における2026年度の中途採用の見通し 、2025年度上半期の中途」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「2026年度の中途採用D.I.は5年連続のプラス」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「 2026年度の中途採用数が前年より「増える」と回答した企業の割合は19.7％、「減る」と回答した企業の割合は5.9 ％と」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「 従業員規模別、業種別ともに全ての区分で2026年度の中途採用D.I.はプラスとなった」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「人以上企業で11.6％ポイントと、2025年度の29.3％ポイントからの低下幅が大きい」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「製造業などで、2025年度からの低下幅が相対的に大きい」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「【2026年度の中途採用見通し（正規社員）】」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「【2025年度上半期の中途採用実績（正規社員）】」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「 2025年度上半期で必要な人数を「確保できた」と回答した企業は41.5％、「確保できなかった」と回答した企業は56.6％」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「2024年度上半期と比べてマイナス」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「り、特に5～299人企業では約6割が「確保できなかった」と回答した」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「2026年度見通し、2025年度上半期実績」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「調査概要 2」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「2026年度 中途採用見通し 3～5」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+  - 「2025年度上半期 中途採用における必要な人数の確保状況 6～7」（https://www.works-i.com/surveys/item/260209_midcareer.pdf）
+- 年間採用費：記載なし（読んだ29頁・検索13回）
+
+## 職業別有効求人倍率（生産工程・機械技術者）の同じ年どうし（job openings ratio by occupation production process mechanical engineer Japan）
+- 文脈：職種
+- セグメント定義：
+  - 「【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較｜転職ノウハウ・ニュース｜NEXT ENGINEER（ネクストエンジニア）」（https://nextengineer.com/blog/know-how001/）
+  - 「【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較」（https://nextengineer.com/blog/know-how001/）
+  - 「本記事では、厚生労働省のデータをもとに、機械・電気系職種別の人手不足状況をランキング形式で整理します」（https://nextengineer.com/blog/know-how001/）
+  - 「あわせて、機械設計、電気・電子設計、品質保証・品質管理、CADオペレーターなどの職種別に、需要の背景や転職市場で評価されやすいスキルも解説します」（https://nextengineer.com/blog/know-how001/）
+  - 「【職種別】機械・電気系エンジニアの有効求人倍率・人手不足マップ」（https://nextengineer.com/blog/know-how001/）
+  - 「職種別に評価されやすい経験は、以下のとおりです」（https://nextengineer.com/blog/know-how001/）
+  - 「機械・電気系職種別スキルマトリクス｜5職種の必須スキル・強み・キャリアを一覧比較」（https://nextengineer.com/blog/know-how001/）
+  - 「職種別の有効求人倍率──一般事務0.29倍、建設躯体工事7.94倍で約27倍の差 | Coachers Inc.」（https://coachers.jp/blog/2026095421/）
+  - 「職種別の有効求人倍率──一般事務0.29倍、建設躯体工事7.94倍で約27倍の差」（https://coachers.jp/blog/2026095421/）
+  - 「職種別の倍率の読み方と、倍率が高い職種・低い職種で募集の何を変えるかを、1枚のシートに落とすところまで書きます」（https://coachers.jp/blog/2026095421/）
+  - 「1. 職種別の有効求人倍率は、どれくらい開いているのか」（https://coachers.jp/blog/2026095421/）
+  - 「職種別の有効求人倍率は、どれくらい開いているのか」（https://coachers.jp/blog/2026095421/）
+  - 「Q. 職種別の有効求人倍率はどこで見られますか?」（https://coachers.jp/blog/2026095421/）
+  - 「職種別・都道府県別有効求人倍率 第1部 雇用市場の概観」（https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf）
+  - 「都道府県別で最も有効求人倍率が高かったのは「東京都」」（https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf）
+- 採用単価：
+  - 「では、常時15,000件以上の求人情報を掲載し、リモートワークや最寄り駅から徒歩10分、月給30万円以上求人などのこだわり条件検索も可能なため、自分に合った求人を見つけやすいのが特徴です」（https://nextengineer.com/blog/know-how001/）
+  - 「月給30万円以上の求人を見てみる」（https://nextengineer.com/blog/know-how001/）
+  - 「月給30万円以上」（https://nextengineer.com/blog/know-how001/）
+  - 「2005 2014（万円）」（https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8）
+  - 「求職者1人あたりの求人数で、約27倍の開きがあります」（https://coachers.jp/blog/2026095421/）
+  - 「転職前後の平均年収差は19.2万円」（https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf）
+  - 「・転職前後の年収はともに「300～349万円」が最も多かったが、転職後は300万円未満が減少し、700～849万円の回答数が増加している」（https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf）
+  - 「・単一回答をもとに平均年収を求めると、転職前は平均514.5万円、転職後は平均533.7万円となり、19.2万円の差となった」（https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf）
+  - 「ハローワークにおける有効求人数を有効求職者数で割って算出される指標で、求職者1人あたりにどれだけの求人があるか」（https://tenshoku.mynavi.jp/knowhow/caripedia/77/）
+  - 「これは、1人あたり2件の求人があるということを指します」（https://tenshoku.mynavi.jp/knowhow/caripedia/77/）
+  - 「この場合、1人あたり1件にも満たない求人しかないため、仕事を探す人が多く、求人が少ない状況です」（https://tenshoku.mynavi.jp/knowhow/caripedia/77/）
+  - 「（1人あたり1.5件の求人がある状態）」（https://www.r-agent.com/guide/start/32493/）
+  - 「有効求人倍率は、求職者1人あたり何件の求人があるかを表した指標です」（https://www.r-agent.com/guide/start/32493/）
+- 年間採用費：
+  - 「日本政府も宇宙を重要な成長分野と位置づけ、「宇宙戦略基金」を通じて、民間企業の技術開発や事業化を総額1兆円規模で支援しています」（https://www.r-agent.com/guide/start/32493/）
+- 採用経路：
+  - 「2022年2月の全職業の求人広告の中で、生産工程が占める割合は8.4％であった」（https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf）
+  - 「ハローワークで扱った求人・求職だけの数字で、民間の転職サービスは含みません」（https://coachers.jp/blog/2026095421/）
+  - 「建設躯体工事の有効求人は19,298件、ハローワークでこの仕事を探している人は全国で2,432人」（https://coachers.jp/blog/2026095421/）
+  - 「次いで「人材紹介会社」「ハローワーク」となった」（https://career-research.mynavi.jp/wp-content/uploads/2026/06/2026career-report.pdf）
+  - 「ハローワークにおける有効求人数を有効求職者数で割って算出される指標で、求職者1人あたりにどれだけの求人があるか」（https://tenshoku.mynavi.jp/knowhow/caripedia/77/）
+  - 「「有効求人数」は、ハローワークにおける求人数の合計で、「有効求職者数」は、ハローワークに登録して就職活動をしている人の合計です」（https://tenshoku.mynavi.jp/knowhow/caripedia/77/）
+  - 「有効求人倍率は、全国のハローワーク（※）の求人数と求職者数を基に、厚生労働省が算出しています」（https://tenshoku.mynavi.jp/knowhow/caripedia/77/）
+  - 「ハローワークは、正式名称を「公共職業安定所」と言い、全国各地にあります」（https://tenshoku.mynavi.jp/knowhow/caripedia/77/）
+  - 「有効求人数とは、ハローワークにおいて、当月の新規求人数と前月から繰り越された求人数の合計です」（https://tenshoku.mynavi.jp/knowhow/caripedia/77/）
+  - 「有効求職者数とは、ハローワークにおいて、当月の新規求職申込者数と、前月から繰り越された求職者数の合計です」（https://tenshoku.mynavi.jp/knowhow/caripedia/77/）
+  - 「「有効求人倍率」とは、ハローワークにおける求人数や求職者の就職状況を厚生労働省が集計し、「一般職業紹介状況」として毎月発表している指標を指します」（https://www.r-agent.com/guide/start/32493/）
+  - 「ただし、統計の対象はハローワークを通じた求人に限られているため、民間の転職サイトや転職支援サービスが扱っている求人は含まれていません」（https://www.r-agent.com/guide/start/32493/）
+  - 「3 厚生労働省「一般職業紹介状況」では、公共職業安定所（ハローワーク）における求人・求職動向を捉える」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191220109.pdf）
+- 充足・欠員：
+  - 「【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較｜転職ノウハウ・ニュース｜NEXT ENGINEER（ネクストエンジニア）」（https://nextengineer.com/blog/know-how001/）
+  - 「【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較」（https://nextengineer.com/blog/know-how001/）
+  - 「機械・電気系エンジニアは、全職業平均と比べて有効求人倍率が高い傾向にあります」（https://nextengineer.com/blog/know-how001/）
+  - 「特に、設備保全エンジニアや組込みエンジニア、生産技術エンジニアは求人需要が高く、人手不足が目立つ職種です」（https://nextengineer.com/blog/know-how001/）
+  - 「本記事では、厚生労働省のデータをもとに、機械・電気系職種別の人手不足状況をランキング形式で整理します」（https://nextengineer.com/blog/know-how001/）
+  - 「機械・電気系エンジニアの有効求人倍率は全職業平均を上回る職種が多い」（https://nextengineer.com/blog/know-how001/）
+  - 「人手不足の職種ほど経験やスキルの市場価値を整理しやすい」（https://nextengineer.com/blog/know-how001/）
+  - 「【職種別】機械・電気系エンジニアの有効求人倍率・人手不足マップ」（https://nextengineer.com/blog/know-how001/）
+  - 「機械・電気系職種の人手不足ランキングTOP8」（https://nextengineer.com/blog/know-how001/）
+  - 「人手不足の機械・電気系職種が安定して働きやすい理由」（https://nextengineer.com/blog/know-how001/）
+  - 「機械・電気系職種の有効求人倍率に関するよくある質問」（https://nextengineer.com/blog/know-how001/）
+  - 「機械・電気系職種で特に人手不足の職種はどれですか？」（https://nextengineer.com/blog/know-how001/）
+  - 「有効求人倍率が高い職種を選べば転職しやすいですか？」（https://nextengineer.com/blog/know-how001/）
+  - 「有効求人倍率とは、仕事を探している人1人に対して、何件の求人があるかを示す数値です」（https://nextengineer.com/blog/know-how001/）
+  - 「厚生労働省によると、令和6年度平均の有効求人倍率は全職業で1.25倍でした」（https://nextengineer.com/blog/know-how001/）
+- 調査主体・時期：
+  - 「ものづくり白書から見る機械・電気系人材が不足する理由」（https://nextengineer.com/blog/know-how001/）
+  - 「厚生労働省によると、令和6年度平均の有効求人倍率は全職業で1.25倍でした」（https://nextengineer.com/blog/know-how001/）
+  - 「一方、job tagに掲載された令和6年度の全国値を見ると、機械設計技術者は3.21倍、生産・品質管理技術者は4.15倍、システムエンジニア（組込み、IoT）は4.77倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「一般職業紹介状況(令和7年3月分及び令和6年度分)について」（https://nextengineer.com/blog/know-how001/）
+  - 「job tagに掲載された令和6年度の全国有効求人倍率を見ると、職種によって0.79倍から6.00倍まで差があり、機械・電気系全体を1つの数値で捉えることはできません」（https://nextengineer.com/blog/know-how001/）
+  - 「機械設計エンジニアに近い「機械設計技術者」の有効求人倍率は、令和6年度の全国値で3.21倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「電気・電子設計エンジニアに近い「電子機器技術者」の有効求人倍率は、令和6年度の全国値で2.68倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「生産技術エンジニアに近い「生産・品質管理技術者」の有効求人倍率は、令和6年度の全国値で4.15倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「設備保全エンジニアの参考となる「物流設備管理・保全」の有効求人倍率は、令和6年度の全国値で6.00倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「品質保証・品質管理の参考となる「検査工（工業製品）」の有効求人倍率は、令和6年度の全国値で4.03倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「試験・評価エンジニアの参考となる「自動車技術者」の有効求人倍率は、令和6年度の全国値で2.75倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「組込みエンジニアに該当する「システムエンジニア（組込み、IoT）」の有効求人倍率は、令和6年度の全国値で4.77倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「CADオペレーターの有効求人倍率は、令和6年度の全国値で0.79倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「半導体・FPD製造技術者に近い「半導体技術者」の有効求人倍率は、令和6年度の全国値で1.09倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「2026年版ものづくり白書（ものづくり基盤技術振興基本法第8条に基づく年次報告）」（https://nextengineer.com/blog/know-how001/）
+
+## 造船・瀬戸内の製造業の採用単価と求人倍率（shipbuilding Setouchi hiring cost job openings ratio）
+- 文脈：地域
+- セグメント定義：
+  - 「従業員数・工場面積：日本は、海事局調べ」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+  - 「韓国・中国の造船所は日本と比べ、従業員数、敷地面積、生産量ともに１事業所の規模が大きい」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+  - 「出典：国立社会保障・人口問題研究所「日本の地域別将来推計人口（平成30（2018）年推計）」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+  - 「10万人以下に低下」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+  - 「地域別の建築・土木・測量技術者および建設・採掘の職業の倍率は、原則として原資料（各労働局・厚労省「職業安定業務統計」）でご確認ください」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「企業規模1,000人以上と10〜99人の差275.0万円は、約7割が月給から生まれています」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「建設業の年収データ分析｜職種別・年代別の実態と読み方」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「職種別・年代別データと中小企業の賃金設計のポイントを整理します」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+- 採用単価：
+  - 「〇 一時金については、総合重工４社の平均で年間 237 万円となっている」（https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf）
+  - 「ウォン（約52万円）以上の給料（週52時間」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+  - 「製造業はロボット化・自動化で1人あたり生産性を上げました」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「建設業の1人あたり生産性は横ばいで、人が減った分だけ生産能力が落ちています」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「建設業（全体平均）: 約460万円」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「製造業: 約430万円」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「全産業平均: 約490万円」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「情報通信業: 約580万円」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「情報通信業との差は120万円です」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「建設業の初任給（高卒）は厚労省「賃金構造基本統計調査」では概ね18〜19万円台の水準（年度・企業規模・地域で変動」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「「月30万円」と聞いて入職しても、雨が多い月は22万円」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「電気工事施工管理技士: 年収550-700万円」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「1級建築施工管理技士: 年収500-650万円」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「型枠工（熟練）: 日当3万円超（年収換算600万円以上）」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「普通作業員: 日当1万5,000-2万円（年収換算300-400万円）」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+- 年間採用費：
+  - 「※２ 令和４年度から令和８年度までの総額（国庫債務負担行為）」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+  - 「船舶産業と他産業の一人あたり年間給与総額（2015～2020年平均）」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+  - 「船舶製造・修理業及び舶用機関製造業における一人あたり年間給与総額の2015～2020年平均は、」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+- 採用経路：
+  - 「日本人の新卒採用コスト: 求人広告・研修含めて年間60〜100万円/人が目安」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「「人を探す」コスト（求人広告、採用活動、教育）と「人を減らす」コスト（ICT投資）を比較して、どちらが合理的かを数字で判断します」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+- 充足・欠員：
+  - 「〇 有効求人倍率は 2014 年以降、年平均で常に 1 倍を上回るものとなっており、引き続き売り手市場」（https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf）
+  - 「製造業においては、2026 年 5 月の有効求人倍率は 1.67 倍、2026 年春に卒業した高」（https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf）
+  - 「船舶産業が盛んな市区町村における有効求人倍率」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+  - 「造船が盛んな地域においては全国平均を超えて特に有効求人倍率が高まっており、佐賀県伊万里」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+  - 「市と長崎県西海市では有効求人倍率が過去最高値（1.97、1.81）を記録」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+  - 「人手不足の進行により何が起きるか？ ～韓国の現状～」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+  - 「人手不足による工期遅れや、雇用に必要な賃金の高騰が起きている」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+  - 「建設業の人手不足はなぜ深刻か｜55歳以上36.7%・29歳以下11.7%、求人倍率5.64倍 | 現場メディア」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「建設業の人手不足はなぜ深刻か｜55歳以上36.7%・29歳以下11.7%、求人倍率5.64倍」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「建設業の有効求人倍率は建築・土木・測量技術者で5.64倍（2025年平均）、年度次平均の就業者数はFY2024で473.75万人、FY2025で480.17万人（出典：総務省「労働力調査」、編集部集計）と1997年のピーク（685万人）から約27年で210万人規模が縮小したまま、足元は480万人前後で横ばい圏にあります」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「「人手不足」の正体は、長期で供給ストックが低位のまま、建設投資・求人逼迫が高水準で続いている構造ギャップです」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「有効求人倍率（2025年平均、厚労省「職業安定業務統計」職業別）: 建築・土木・測量技術者5.64倍、建設躯体工事7.92倍、土木の職業6.27倍、建設の職業4.46倍」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「建設業の有効求人倍率は5.64倍（2025年平均、建築・土木・測量技術者、出典：厚労省「職業安定業務統計」職業別有効求人倍率、パートタイムを除く常用ベース）」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「全職業の有効求人倍率1.22倍（2025年平均、出典：厚労省「一般職業紹介状況」）と比べて約4.6倍の開きがあります」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+  - 「求職者1人当たり有効求人は、土木・躯体など主要職種で約6〜8件という水準で、数字だけ見れば深刻な人手不足です」（https://www.genba-media.jp/articles/52zx1hfd3qp）
+- 調査主体・時期：
+  - 「「岡山県 船舶製造・修理業、舶用機関製造業 最低賃金」の改正決定にかかる調査審議において、以下」（https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf）
+  - 「16,000 円、1 社が 17,000 円の賃金改善を実施」（https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf）
+  - 「2026 年度春闘では人材確保・若年者の定着・他産業との人材獲得競争・急激な物価高による実質賃金の低下に関する改善策の観点より」（https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf）
+  - 「年間一時金においても業績連動の企業もあるが各社満額回答に近い交渉結果での回答となった」（https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf）
+  - 「近では（一社）日本中小型造船工業会の調査で国内会員造船所の手持ち工事量が約 4 年に迫る高水準であることが公表されている」（https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf）
+  - 「燃費実績に関する格付け制度（CII格付け）の調査結果 建造国別」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+  - 「売上高 2.3兆円（2020年度） Source：海事局調べ」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+  - 「製造業全体：経済産業省「2020年工業統計調査」」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+  - 「※２ 令和４年度から令和８年度までの総額（国庫債務負担行為）」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+  - 「 令和５年度税制改正により、経済安全保障を要件に、外航船舶の特別償却率を12％拡充 （海外オペ向けには」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+  - 「※上記はいずれも19年版以降に追加された直近の重要分野」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+  - 「中国は、造船業界への参入・拡大のための巨額な公的支援を実施」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+  - 「各造船所の主な建造実績 艦船建造実績のある造船所と建造隻数（H01～R03年度計画）」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+  - 「※平成元年度引渡～令和４年度補正予算建造のもの」（https://www.mlit.go.jp/maritime/content/001614700.pdf）
+  - 「（引渡前のものにあっては、令和5年度6月1日時点で進水済のものに限る」（https://www.mlit.go.jp/maritime/content/001614700.pdf）

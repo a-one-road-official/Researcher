@@ -1,0 +1,820 @@
+{
+ "name": "製造業の企業規模別の採用費（雇用動向調査・就労条件総合調査）",
+ "en": "hiring cost by firm size manufacturing Japan MHLW survey",
+ "aliases": [
+  "雇用動向調査 製造業 企業規模別 入職者",
+  "就労条件総合調査 募集費 企業規模",
+  "採用費 企業規模別 製造業 filetype:pdf",
+  "site:mhlw.go.jp 採用 費用 規模別"
+ ],
+ "context": "規模",
+ "kind": "market",
+ "researched_at": "2026-11-05T05:09:04.380067+00:00",
+ "evidence": {
+  "セグメント定義": [
+   {
+    "quote": "次に、中小企業における産業別の従業員数における過不足状況（従業員数過不足 DI）を",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、製造業の従業員数における過不足状況（従業員数過",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "備考：\u0007 従業員数過不足 DI は、 今期の従業員数が 「過剰」 と答えた企業の割合（％） から、 「不足」",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図211-4 中小企業における産業別従業員数過不足DI（今期の水準）の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における正規雇用及び非正規雇用の職員・従業員の割合は、いずれも 2013 年以降",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ほぼ横ばいで推移しており、2023 年は正規雇用の職員・従業員が 69.3％、非正規雇用の職",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "員・従業員が 23.1％となっている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の割合は、製造業の方が 15.7 ポイント高く、非正規雇用の職員・従業員の割合は、",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "比べて正規雇用の職員・従業員の割合が高くなっていることが分かる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、製造業における新規学卒入職者の企業規模別の内訳をみると、前年の 2021 年と比較",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "299 人」と「1,000 人以上」の企業への入職者数が減少している",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "正規雇用の職員・従業員 非正規雇用の職員・従業員 その他",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000 人以上 新規学卒者のうち製造業への入職割合",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2．\u0007 外国人労働者数（製造業）と外国人労働者数（非製造業）は、1,000 人未満を四捨五",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内の製造業の労働時間の推移をみると、製造業の事業所規模 5 人以上の事業所における",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次に、中小企業における産業別の従業員数における過不足状況（従業員数過不足',）をみ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、 製造業の従業員数における過不足状況 （従業員数過不足',） をみると、\u0015\u0013\u0014\u001a",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図\u0015\u0014\u0014\u0010\u0017：中小企業における産業別従業員数過不足',（今期の水準）の推移\u0003",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "備考：従業員数過不足',は、今期の従業員数が「過剰」と答えた企業の割合（％）から、「不足」と答えた企",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "卒入職者の従業員数に基づく企業規模別の内訳をみると、 前年の\u0015\u0013\u0015\u0015年と比較し、 「\u0018～\u0015 人 」、",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「\u0014\u0013\u0013～\u0015 人」及び「\u0014\u000f\u0013\u0013\u0013人以上」の企業への入職者数が増加し、 「\u0016\u0013～ 人」及び「\u0016\u0013\u0013～",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u0015．外国人労働者数（製造業）と外国人労働者数（非製造業）は、\u0014\u000f\u0013\u0013\u0013人未満を四捨五入しているため、",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内の製造業の労働時間の推移をみると、 製造業の事業所規模\u0018人以上の事業所における労",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "備考：事業所規模\u0018人以上の事業所における一般労働者の、月間実労働時間の年平均を表している",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "備考：\u0014．\u0014\u0013人以上の常用労働者を雇用する民営事業所における一般労働者の\u0019月の所定内給与額",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て，職種別（営業・スタッフ系とエンジニア系）に，",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「転籍者」とは貴社に異動した親会社等の従業員のうち，異動元との雇用関係が無くなった人のこ",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そのような新卒者の育成に関しては， 「従業員",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：1） 企業名の記号，L は大手企業（5000 人以上） ，M は準大手企業（500～5000 人） ，S は中小規模企業（500 人未満） ，そして F は外資系企業",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模は， 1000 人以上が 15.4％，",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300～999 人が 32.2％，150～299 人が 23.8％，150 人未満が",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "pass": 3
+   }
+  ],
+  "採用単価": [
+   {
+    "quote": "いては 1 万円を超えている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   }
+  ],
+  "充足・欠員": [
+   {
+    "quote": "有効求人倍率（季節調整値） は、 2010 年以降上昇し、 2018 年 9 月に 1.64 倍を記録したが、",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "的に続く人手不足の状況も背景に上昇傾向に転じていた",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1.1 と不足感が弱まった",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図211-2 有効求人倍率（季節調整値）の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u0003 有効求人倍率（季節調整値）は、\u0015\u0013\u0014\u0013年以降上昇し、\u0015\u0013\u0014\u001b年 月に\u0014\u0011\u0019\u0017倍を記録したが、同",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が、\u0015\u0013\u0015\u0013年第\u0014四半期からマイナス幅が縮小し、\u0015\u0013\u0015\u0013年第\u0015四半期にはマイナス\u0014\u0011\u0014と不足感が",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図\u0015\u0014\u0014\u0010\u0015：有効求人倍率（季節調整値）の推移\u0003",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "資料：総務省「労働力調査」 （2024 年 3 月）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：中小企業庁「中小企業景況調査」 （2024 年 3 月）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：厚生労働省「雇用動向調査」 （2023 年 8 月）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：総務省\u0007「労働力調査」 （2024 年 3 月）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の届出状況まとめ（各年10月末時点）及び総務省「労働力調査」 （各年10月）を基",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査産業計総実労働時間 製造業総実労働時間 調査産業計所定内労働時間 製造業所定内労働時間",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：厚生労働省「毎月勤労統計調査」 （2024 年 2 月）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "備考：\u0007 調査時点は毎年1月1日時点",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、2014 年以前は、調査対象を「常用労働者が 30 人以上の会社",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：厚生労働省「就労条件総合調査」 （2024 年 1 月）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "備考：\u0007 調査時点は毎年 1 月 1 日時点",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図中の年は、調査実施年であり、 「取得日数」の調査対象期",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "間は前年（又は前々年の会計年度） 1 年間である",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2．\u0007 2018 年以前は、調査対象産業「宿泊業、飲食サービス業」のうち「バー、キャバレー、",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：厚生労働省「賃金構造基本統計調査」 （2024 年 3 月）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：総務省「労働力調査」（\u0015\u0013\u0015\u0018年\u0017月）\u0003",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書29",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書30",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：中小企業庁「中小企業景況調査」（\u0015\u0013\u0015\u0017年\u0014\u0015月）\u0003",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：総務省「労働力調査」 （\u0015\u0013\u0015\u0018年\u0014月）\u0003",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書32",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：厚生労働省「雇用動向調査」（\u0015\u0013\u0015\u0017年\u001b月）\u0003",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書34",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "とめ （各年\u0014\u0013月末時点） 及び総務省 「労働力調査」 （各年\u0014\u0013月） を基に 「製造業の外国人労働者数」 を",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：厚生労働省 「外国人雇用状況」 の届出状況まとめ （各年\u0014\u0013月末時点） 、 総務省 「労働力調査」 （\u0015\u0013\u0015\u0018年\u0014月）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：厚生労働省「毎月勤労統計調査」（\u0015\u0013\u0015\u0018年\u0015月）\u0003",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書36",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u0015．\u0015\u0013\u0014\u001b年以前は、調査対象産業「宿泊業、飲食サービス業」 のうち 「バー、キャバレー、ナイトクラブ」",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：厚生労働省「賃金構造基本統計調査」 （\u0015\u0013\u0015\u0018年\u0016月）\u0003",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ンタビュー調査の結果をもとに論じた （永野",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この調査は，現時点では 2009 年の",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査結果までが利用可能であるので，1990 年か",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この調査の用語を用いると，大卒者について，",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "質問紙調査 （アンケート） を，2009 年 2 月～3 月",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 これまでの正社員採用の実施状況",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査時点における「最近 1 年間」の，正社員採",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用の実施状況を示したものが表 1 である",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この採用形態を 80％以上の企業が実施している",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そして，実施企業での平均採用人数も約 25 人と，",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に，キャリア採用の実施率も 75％と高く，実施",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「非正社員からの登用」は 42％の企業が実施して",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "卒採用のみ」 「いずれも実施してない」の 4 つに",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る程度必要なので，正社員数は新卒採用の実施に",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査では，新卒採用とキャリアそれぞれについ",
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "1",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "quote": "いては 1 万円を超えている"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/dl/gaikyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250325-employment2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003398539",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shozai/html/k34.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article139100/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nissay-biz-site.com/article/q7iso6pa8j",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260323-employment2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ri.kaonavi.jp/20260515/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?bunya_l=03&layout=dataset&toukei=00450073&stat_infid=000031852570",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mbp-japan.com/kanagawa/shonan-mssr/column/5238013/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/adoption/mid-career.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/11-23.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001014004",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20251128_105076/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/research/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/adoption/forecast.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/payroll/basic/116313/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/24-2/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00450099&tstat=000001014004&tclass1=000001224722",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shozai/pdf/k34.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/whitepaper/rm-341/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "製造業の企業規模別の採用費（雇用動向調査・就労条件総合調査） 採用単価 規模別",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/dl/gaikyou.pdf",
+    "https://www.tdb.co.jp/report/economic/20250325-employment2025/",
+    "https://edenred.jp/article/hr-recruiting/285/",
+    "https://www.e-stat.go.jp/dbview?sid=0003398539",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k34.html",
+    "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.nissay-biz-site.com/article/q7iso6pa8j",
+    "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "https://www.mhlw.go.jp/toukei/list/11-23.html"
+   ]
+  },
+  {
+   "query": "製造業の企業規模別の採用費（雇用動向調査・就労条件総合調査） 採用コスト 調査 万円",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/dl/gaikyou.pdf",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://www.tdb.co.jp/report/economic/20250325-employment2025/",
+    "https://edenred.jp/article/hr-recruiting/285/",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://adv.tokyo-np.co.jp/prtimes/article139100/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "https://www.nissay-biz-site.com/article/q7iso6pa8j",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/",
+    "https://www.mhlw.go.jp/toukei/list/11-23.html"
+   ]
+  },
+  {
+   "query": "製造業の企業規模別の採用費（雇用動向調査・就労条件総合調査） 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://www.tdb.co.jp/report/economic/20260323-employment2026/",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "https://edenred.jp/article/hr-recruiting/285/",
+    "https://www.e-stat.go.jp/dbview?sid=0003398539",
+    "https://ri.kaonavi.jp/20260515/"
+   ]
+  },
+  {
+   "query": "製造業の企業規模別の採用費（雇用動向調査・就労条件総合調査） 採用経路 割合 調査",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "https://edenred.jp/article/hr-recruiting/285/",
+    "https://www.e-stat.go.jp/stat-search/files?bunya_l=03&layout=dataset&toukei=00450073&stat_infid=000031852570",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k34.html",
+    "https://mbp-japan.com/kanagawa/shonan-mssr/column/5238013/",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "https://www.works-i.com/surveys/adoption/mid-career.html",
+    "https://www.mhlw.go.jp/toukei/list/11-23.html"
+   ]
+  },
+  {
+   "query": "製造業の企業規模別の採用費（雇用動向調査・就労条件総合調査） 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "https://www.tdb.co.jp/report/economic/20250325-employment2025/",
+    "https://edenred.jp/article/hr-recruiting/285/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "https://career-research.mynavi.jp/reserch/20251128_105076/",
+    "https://www.jil.go.jp/institute/research/index.html",
+    "https://www.works-i.com/surveys/adoption/forecast.html",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://biz.moneyforward.com/payroll/basic/116313/"
+   ]
+  },
+  {
+   "query": "製造業の企業規模別の採用費（雇用動向調査・就労条件総合調査） 白書 採用",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/dl/gaikyou.pdf",
+    "https://www.tdb.co.jp/report/economic/20250325-employment2025/",
+    "https://edenred.jp/article/hr-recruiting/285/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003398539",
+    "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2012/special/pdf/021-028.pdf",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/24-2/index.html",
+    "https://www.mhlw.go.jp/toukei/list/11-23.html"
+   ]
+  },
+  {
+   "query": "site:note.com 製造業の企業規模別の採用費（雇用動向調査・就労条件総合調査）",
+   "results": [
+    "https://note.com/machi_hito1507/n/n266337d049e8",
+    "https://note.com/yajirushi_works/n/n8a5d075da360",
+    "https://note.com/mc_motto/n/n13f89168ab01",
+    "https://note.com/hirokimiyano/n/na65dea9034c1",
+    "https://note.com/yajirushi_works/n/nfadc215c8c8c",
+    "https://note.com/joincareeroffice/n/n9b0424e4e16a",
+    "https://note.com/japancareer_co/n/n674223972b65",
+    "https://note.com/epolicy_actvst/n/na7dfe2798d32",
+    "https://note.com/hirokimiyano/n/n687dbc5ad6ad",
+    "https://note.com/shizuku_jobti/n/n9d5e4ff28948"
+   ]
+  },
+  {
+   "query": "site:x.com 製造業の企業規模別の採用費（雇用動向調査・就労条件総合調査）",
+   "results": [
+    "https://x.com/foresight_sha",
+    "https://x.com/job_mirai",
+    "https://x.com/naohat23",
+    "https://x.com/luigi_jpn/status/2068838341773332641",
+    "https://x.com/cdb_jp",
+    "https://x.com/koba_taku_sales",
+    "https://x.com/luigi_jpn/article/2063431130599313806",
+    "https://x.com/luigi_jpn/article/2058327743977369647",
+    "https://x.com/luigi_jpn/article/2072262000705720355",
+    "https://x.com/KagawaTomo/article/2080578592044724258"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 製造業の企業規模別の採用費（雇用動向調査・就労条件総合調査）",
+   "results": [
+    "https://th.linkedin.com/in/%E8%B2%B4%E5%A4%A7-%E9%A4%98%E7%94%B0-b12980b8",
+    "https://jp.linkedin.com/directory/articles",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%96%B0%E6%A8%AA%E6%B5%9C%EF%BC%8F%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E5%8F%AF%E3%80%91%E4%BA%BA%E4%BA%8B%E5%88%B6%E5%BA%A6%E4%BC%81%E7%94%BB%E6%8B%85%E5%BD%93%E2%97%87%E6%A5%AD%E7%A8%AE%E6%9C%AA%E7%B5%8C%E9%A8%93%E5%8F%AF%EF%BC%8F%E6%A5%AD%E7%95%8C%E3%83%88%E3%83%83%E3%83%97%E6%8A%80%E8%A1%93%E5%95%86%E7%A4%BE%EF%BC%8Fm122-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4486404888",
+    "https://jp.linkedin.com/pulse/%E5%82%BE%E6%96%9C%E3%83%AA%E3%83%95%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AE%E9%9D%A9%E6%96%B0%E3%81%A8%E5%8B%95%E5%90%91%E5%8C%85%E6%8B%AC%E7%9A%84%E8%AA%BF%E6%9F%BB2026-2033-kinetic-kilowatt-ntuie",
+    "https://id.linkedin.com/jobs/view/%E3%80%90g512%E3%80%91%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%EF%BC%88%E5%8D%8A%E5%B0%8E%E4%BD%93%E6%9D%90%E6%96%99%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%96%B0%E8%A6%8F%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E3%83%86%E3%83%BC%E3%83%9E%E5%89%B5%E5%87%BA%E3%83%BB%E6%8A%80%E8%A1%93%E6%8F%90%E6%A1%88%E3%83%BB%E6%96%B0%E8%A6%8F%E6%9D%90%E6%96%99%E9%96%8B%E7%99%BA%EF%BC%89%EF%BC%88%E7%89%A9%E6%80%A7%E5%88%B6%E5%BE%A1%E7%A0%94%E7%A9%B6%E5%AE%A4-%E5%85%B5%E5%BA%AB%EF%BC%89-at-kobe-steel-ltd-4440726879",
+    "https://jp.linkedin.com/pulse/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%BA%B6%E6%8E%A5%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E7%8E%87%E3%81%A8%E8%A6%8F%E6%A8%A1%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E9%A1%95%E8%91%97%E3%81%AA86%E3%81%AEcagr%E3%82%92%E8%A8%98%E9%8C%B2%E3%81%97%E3%81%BE%E3%81%99-7515046686340227072-8o2le",
+    "https://jp.linkedin.com/pulse/%E7%B5%84%E7%B9%94%E5%9F%B9%E9%A4%8A%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E7%94%A3%E6%A5%AD%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%882026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%BA%88%E6%B8%ACcagr-113%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E5%8F%8E%E7%9B%8A%E4%BA%88%E6%B8%AC%E3%81%A8%E5%B8%82%E5%A0%B4%E6%88%90%E9%95%B7-xylentrax-jbkse",
+    "https://www.linkedin.com/pulse/276-%E8%87%AA%E5%BE%8B%E3%81%99%E3%82%8B%E6%9C%AA%E6%9D%A5%E3%81%B8-%E9%99%BD-%E4%BD%90%E8%97%A4-fvgec",
+    "https://jp.linkedin.com/in/yusuke-nakamura-36303a272",
+    "https://tw.linkedin.com/in/daiki-matsubara-149852153"
+   ]
+  },
+  {
+   "query": "site:facebook.com 製造業の企業規模別の採用費（雇用動向調査・就労条件総合調査）",
+   "results": [
+    "https://www.facebook.com/camarajaponesapy/?locale=da_DK",
+    "https://www.facebook.com/zentekkin/?locale=et_EE",
+    "https://www.facebook.com/sekicci/?locale=ja_JP",
+    "https://www.facebook.com/kidera.yoshi/",
+    "https://www.facebook.com/kidera.yoshi/posts/%E4%B8%96%E7%95%8C%E3%81%AEai%E6%B4%BB%E7%94%A8%E7%B5%8C%E5%96%B6%E6%9C%80%E5%89%8D%E7%B7%9A2026%E5%B9%B410%E6%9C%8828%E6%97%A5%E7%89%88%E8%AA%BF%E6%9F%BB%E5%9F%BA%E6%BA%962026%E5%B9%B410%E6%9C%8828%E6%97%A5%E5%8D%88%E5%89%8D7%E6%99%8230%E5%88%86%E6%97%A5%E6%9C%AC%E6%99%82%E9%96%93%E4%B8%96%E7%95%8C%E3%81%AE%E4%BC%81%E6%A5%AD%E7%B5%8C%E5%96%B6ai%E6%8A%95%E8%B3%87%E7%B5%84%E7%B9%94%E6%94%B9%E9%9D%A9%E8%B2%A1%E5%8B%99%E6%88%A6%E7%95%A5maai%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E3%81%AB%E9%96%A2/10164625641174194/",
+    "https://www.facebook.com/sharouren/?locale=et_EE",
+    "https://www.facebook.com/zentekkin/photos/%E9%89%84%E7%AD%8B%E5%B7%A5%E4%BA%8B%E3%81%AB%E9%96%A2%E9%80%A3%E3%81%99%E3%82%8B%E6%96%B0%E3%81%9F%E3%81%AA%E6%8A%80%E8%A1%93%E9%96%8B%E7%99%BA%E3%81%8C%E9%80%B2%E3%82%80-%E5%BB%BA%E8%A8%AD%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E-%E6%9D%B1%E6%80%A5%E5%BB%BA%E8%A8%AD%E5%AE%89%E9%83%A8%E6%97%A5%E9%8B%BC%E5%B7%A5%E6%A5%AD%E9%89%84%E7%AD%8B%E7%B5%84%E3%81%BF%E7%AB%8B%E3%81%A6%E4%B8%8D%E8%A6%81%E3%81%A7%E5%BA%8A%E7%89%88%E6%9B%B4%E6%96%B0%E5%9E%8B%E6%9E%A0%E4%BD%9C%E6%A5%AD%E6%99%82%E9%96%93%EF%BC%93%E5%89%B2%E7%9F%AD%E7%B8%AE-%E6%9D%B1%E6%80%A5%E5%BB%BA%E8%A8%AD%E3%81%A8%E5%AE%89%E9%83%A8%E6%97%A5%E9%8B%BC%E5%B7%A5%E6%A5%AD%E5%B2%90%E9%98%9C%E5%B8%82%E4%BA%95%E6%89%8B%E5%8F%A3%E5%93%B2%E6%9C%97/1376928261201380/",
+    "https://www.facebook.com/groups/aiacademy.jp/",
+    "https://www.facebook.com/pages/It%E3%83%97%E3%83%AD%E3%83%9E%E3%83%83%E3%83%81%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/987854894580882/",
+    "https://www.facebook.com/groups/japanesefortokutei/posts/1734361274334258/"
+   ]
+  },
+  {
+   "query": "製造業の企業規模別の採用費（雇用動向調査・就労条件総合調査） note 社長",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/dl/gaikyou.pdf",
+    "https://note.com/machi_hito1507/n/n266337d049e8",
+    "https://www.geppo.jp/blog/new-graduate-turnover-rate",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/04Hakusyo_part2_chap3_web.pdf",
+    "https://www.sn-hoki.co.jp/articles/article402033/?srsltid=AYCX9vJ1fbV-MiAoBG4k9VRCJ-W3PUgr73SjDbvAw-V03uW9Pvl_6Fra",
+    "https://www.nippyo.co.jp/blogkeisemi/symposium_support/2019_06_07_support/",
+    "https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/const/content/001994097.pdf",
+    "https://ashiatohr.com/news/122_6jivz",
+    "https://www.mhlw.go.jp/toukei/list/11-23.html",
+    "https://www.e-stat.go.jp/stat-search/files?tstat=000001014004"
+   ]
+  },
+  {
+   "query": "製造業の企業規模別の採用費（雇用動向調査・就労条件総合調査） X 投稿",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/dl/gaikyou.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&kikan=00450&toukei=00450099&stat_infid=000040425824",
+    "https://fpeo.co.jp/news/news-8325/",
+    "https://rim-con.com/blog20260106/",
+    "https://note.com/1998office_knet/n/n54330431a8d0",
+    "https://www.forward.or.jp/news/mhlw-20260313/",
+    "https://www.mhlw.go.jp/toukei/list/11-23.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b1_1_7.html",
+    "https://www.e-stat.go.jp/dbview?sid=0003243522",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/24/index.html"
+   ]
+  },
+  {
+   "query": "hiring cost by firm size manufacturing Japan MHLW survey site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/scottscofield_japanrecruitment-japanbusiness-laborshortage-activity-7515735281900134400-z-tv",
+    "https://www.linkedin.com/posts/gloxus_japanjobs-foreigntalent-hiringinjapan-activity-7503248553264242689-Tyk2",
+    "https://www.linkedin.com/posts/edmund-ho-1277b2125_japan-jobless-rate-rises-to-25-in-august-activity-7512794093098385409-twAO",
+    "https://www.linkedin.com/pulse/workplace-stress-japan-data-design-action-gary-schrader-u41nc",
+    "https://www.linkedin.com/posts/themuchmuch_muchmuchspectrum-goodnews-positivenews-activity-7405856588227497984-Xq5Z",
+    "https://www.linkedin.com/posts/gloxus_foreigntalentjapan-hiringinjapan-%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD-activity-7520658740967276544-KNe_",
+    "https://www.linkedin.com/posts/neil-grubert_japan-has-limited-scope-to-respond-to-mfn-activity-7513300328117862400-OLzd",
+    "https://ug.linkedin.com/company/the-mlc-group",
+    "https://uk.linkedin.com/company/yakumed-limited",
+    "https://www.linkedin.com/pulse/im-foreigner-japan-heres-what-i-think-problem-james-riney-hbpre"
+   ]
+  }
+ ],
+ "missing": {
+  "年間採用費": "記載なし（読んだ34頁・検索13回）",
+  "採用経路": "記載なし（読んだ34頁・検索13回）"
+ }
+}

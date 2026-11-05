@@ -1,0 +1,919 @@
+{
+ "name": "造船・瀬戸内の製造業の採用単価と求人倍率",
+ "en": "shipbuilding Setouchi hiring cost job openings ratio",
+ "aliases": [
+  "造船 採用 人手不足 求人倍率 広島 愛媛 岡山",
+  "造船業 外国人材 採用 費用",
+  "今治 造船 採用難",
+  "site:mlit.go.jp 造船 人材確保"
+ ],
+ "context": "地域",
+ "kind": "market",
+ "researched_at": "2026-11-05T05:08:51.645993+00:00",
+ "evidence": {
+  "採用単価": [
+   {
+    "quote": "〇 一時金については、総合重工４社の平均で年間 237 万円となっている",
+    "url": "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウォン（約52万円）以上の給料（週52時間",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業はロボット化・自動化で1人あたり生産性を上げました",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の1人あたり生産性は横ばいで、人が減った分だけ生産能力が落ちています",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "建設業（全体平均）: 約460万円",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "製造業: 約430万円",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "全産業平均: 約490万円",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信業: 約580万円",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信業との差は120万円です",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の初任給（高卒）は厚労省「賃金構造基本統計調査」では概ね18〜19万円台の水準（年度・企業規模・地域で変動",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "「月30万円」と聞いて入職しても、雨が多い月は22万円",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "電気工事施工管理技士: 年収550-700万円",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "1級建築施工管理技士: 年収500-650万円",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "型枠工（熟練）: 日当3万円超（年収換算600万円以上）",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "普通作業員: 日当1万5,000-2万円（年収換算300-400万円）",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "資格を持つ施工管理技士と、無資格の作業員で年収に200万円以上の差があります",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能（海外からの新規受入）: 渡航費・日本語教育・住居・管理費等を含めて年間100万円台後半〜200万円/人の幅",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   }
+  ],
+  "充足・欠員": [
+   {
+    "quote": "〇 有効求人倍率は 2014 年以降、年平均で常に 1 倍を上回るものとなっており、引き続き売り手市場",
+    "url": "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業においては、2026 年 5 月の有効求人倍率は 1.67 倍、2026 年春に卒業した高",
+    "url": "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "船舶産業が盛んな市区町村における有効求人倍率",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造船が盛んな地域においては全国平均を超えて特に有効求人倍率が高まっており、佐賀県伊万里",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "市と長崎県西海市では有効求人倍率が過去最高値（1.97、1.81）を記録",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の進行により何が起きるか？ ～韓国の現状～",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足による工期遅れや、雇用に必要な賃金の高騰が起きている",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の人手不足はなぜ深刻か｜55歳以上36.7%・29歳以下11.7%、求人倍率5.64倍 | 現場メディア",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の人手不足はなぜ深刻か｜55歳以上36.7%・29歳以下11.7%、求人倍率5.64倍",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の有効求人倍率は建築・土木・測量技術者で5.64倍（2025年平均）、年度次平均の就業者数はFY2024で473.75万人、FY2025で480.17万人（出典：総務省「労働力調査」、編集部集計）と1997年のピーク（685万人）から約27年で210万人規模が縮小したまま、足元は480万人前後で横ばい圏にあります",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足」の正体は、長期で供給ストックが低位のまま、建設投資・求人逼迫が高水準で続いている構造ギャップです",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（2025年平均、厚労省「職業安定業務統計」職業別）: 建築・土木・測量技術者5.64倍、建設躯体工事7.92倍、土木の職業6.27倍、建設の職業4.46倍",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の有効求人倍率は5.64倍（2025年平均、建築・土木・測量技術者、出典：厚労省「職業安定業務統計」職業別有効求人倍率、パートタイムを除く常用ベース）",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "全職業の有効求人倍率1.22倍（2025年平均、出典：厚労省「一般職業紹介状況」）と比べて約4.6倍の開きがあります",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "求職者1人当たり有効求人は、土木・躯体など主要職種で約6〜8件という水準で、数字だけ見れば深刻な人手不足です",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "年度次平均の就業者数はFY2024で473.75万人まで低下しており、帝国データバンク「人手不足に対する企業の動向調査」（月次公表）でも、建設業の正社員人手不足感は全業種平均を大きく上回る水準で推移しています",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "ただし「人手不足」という言葉で思考を止めると、本質を見誤ります",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率5.64倍（2025年平均、建築・土木・測量技術者）は全国平均です",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "建築・土木・測量技術者の有効求人倍率5.64倍（土木の職業は6.27倍）は全国平均値であり、地域固有の事情によって体感は大きく異なります（出典：厚労省「職業安定業務統計」、各都道府県労働局公表値）",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足への対応：「増やす」から「減らす」へ",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の解消を「人を増やす」方向だけで考えるのは限界があります",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の人手不足を取り巻くデータを整理します",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "「岡山県 船舶製造・修理業、舶用機関製造業 最低賃金」の改正決定にかかる調査審議において、以下",
+    "url": "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "16,000 円、1 社が 17,000 円の賃金改善を実施",
+    "url": "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年度春闘では人材確保・若年者の定着・他産業との人材獲得競争・急激な物価高による実質賃金の低下に関する改善策の観点より",
+    "url": "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年間一時金においても業績連動の企業もあるが各社満額回答に近い交渉結果での回答となった",
+    "url": "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "近では（一社）日本中小型造船工業会の調査で国内会員造船所の手持ち工事量が約 4 年に迫る高水準であることが公表されている",
+    "url": "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "燃費実績に関する格付け制度（CII格付け）の調査結果 建造国別",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 2.3兆円（2020年度） Source：海事局調べ",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業全体：経済産業省「2020年工業統計調査」",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※２ 令和４年度から令和８年度までの総額（国庫債務負担行為）",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 令和５年度税制改正により、経済安全保障を要件に、外航船舶の特別償却率を12％拡充 （海外オペ向けには",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※上記はいずれも19年版以降に追加された直近の重要分野",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中国は、造船業界への参入・拡大のための巨額な公的支援を実施",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "各造船所の主な建造実績 艦船建造実績のある造船所と建造隻数（H01～R03年度計画）",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※平成元年度引渡～令和４年度補正予算建造のもの",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（引渡前のものにあっては、令和5年度6月1日時点で進水済のものに限る",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "30※日本造船工業会及び日本中小型造船工業会調査による、職員及び社内工の合計数（社外工は含まれない",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本造船工業会調査は4月1日時点、日本中小型造船工業会調査は6月1日時点",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、日本中小型造船工業会調査分は回答数に変動がある",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※日本造船工業会及び日本中小型造船工業会調査による、職員及び社内工の合計数（社外工は含まれない",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "34出典：（船舶産業を含む製造業）工業統計調査、（建設業）賃金構造基本統計調査",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の有効求人倍率は建築・土木・測量技術者で5.64倍（2025年平均）、年度次平均の就業者数はFY2024で473.75万人、FY2025で480.17万人（出典：総務省「労働力調査」、編集部集計）と1997年のピーク（685万人）から約27年で210万人規模が縮小したまま、足元は480万人前後で横ばい圏にあります",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "建設業就業者数（年度次平均）: FY2024=473.75万人、FY2025=480.17万人（12ヶ月確定値、出典：総務省「労働力調査」、編集部集計）",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "年度次平均の就業者数はFY2024で473.75万人まで低下しており、帝国データバンク「人手不足に対する企業の動向調査」（月次公表）でも、建設業の正社員人手不足感は全業種平均を大きく上回る水準で推移しています",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の就業者数は1997年の685万人をピークに、長期では大幅に縮小しました（FY2024年度次平均=473.75万人、FY2025年度次平均=480.17万人",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "出典：総務省「労働力調査」、編集部集計）",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "一方、建設投資額は2013年度比で大幅に増加しており、2024年度は約73兆円規模（出典：国交省「建設投資見通し」、名目額）に達しています",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "就業者数の推移：年度次平均473万人台の中身を分解する",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "【グラフ: 建設業就業者数の推移（1997-2025年度）】",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "全体の数字より、年齢構成の方が深刻です（出典：総務省「労働力調査」2024年）",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "ただし直近に絞ると建設業のほうが速く、2016年→2025年の年平均は建設業492万人→478万人（-2.9%）に対し、製造業は1,041万人→1,033万人（-0.8%）です（総務省「労働力調査」）",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の労働生産性は全産業平均より低い水準で長く横ばい傾向にあります（出典：国交省「国土交通白書」労働生産性に関する記述）",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "（出典：厚労省「賃金構造基本統計調査」2024年、企業規模計・男女計・一般労働者の値",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の初任給（高卒）は厚労省「賃金構造基本統計調査」では概ね18〜19万円台の水準（年度・企業規模・地域で変動",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "（出典：国交省「建設業の就労環境に関する調査」※調査名・年度・設問については国交省公表資料を直接ご確認ください）",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "国交省や日建連等が実施した複数の調査では、施行後の達成度合いに大きなばらつきがあると指摘されています（具体的な達成率は調査ごとの定義・対象・時点に依存するため、原資料をご確認ください）",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   }
+  ],
+  "セグメント定義": [
+   {
+    "quote": "従業員数・工場面積：日本は、海事局調べ",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "韓国・中国の造船所は日本と比べ、従業員数、敷地面積、生産量ともに１事業所の規模が大きい",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：国立社会保障・人口問題研究所「日本の地域別将来推計人口（平成30（2018）年推計）",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10万人以下に低下",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "地域別の建築・土木・測量技術者および建設・採掘の職業の倍率は、原則として原資料（各労働局・厚労省「職業安定業務統計」）でご確認ください",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模1,000人以上と10〜99人の差275.0万円は、約7割が月給から生まれています",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の年収データ分析｜職種別・年代別の実態と読み方",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "職種別・年代別データと中小企業の賃金設計のポイントを整理します",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   }
+  ],
+  "年間採用費": [
+   {
+    "quote": "※２ 令和４年度から令和８年度までの総額（国庫債務負担行為）",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "船舶産業と他産業の一人あたり年間給与総額（2015～2020年平均）",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "船舶製造・修理業及び舶用機関製造業における一人あたり年間給与総額の2015～2020年平均は、",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "pass": 3
+   }
+  ],
+  "採用経路": [
+   {
+    "quote": "日本人の新卒採用コスト: 求人広告・研修含めて年間60〜100万円/人が目安",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "「人を探す」コスト（求人広告、採用活動、教育）と「人を減らす」コスト（ICT投資）を比較して、どちらが合理的かを数字で判断します",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "237",
+    "url": "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf",
+    "quote": "〇 一時金については、総合重工４社の平均で年間 237 万円となっている"
+   },
+   {
+    "value": "52",
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "quote": "ウォン（約52万円）以上の給料（週52時間"
+   },
+   {
+    "value": "460",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "建設業（全体平均）: 約460万円"
+   },
+   {
+    "value": "430",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "製造業: 約430万円"
+   },
+   {
+    "value": "490",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "全産業平均: 約490万円"
+   },
+   {
+    "value": "580",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "情報通信業: 約580万円"
+   },
+   {
+    "value": "120",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "情報通信業との差は120万円です"
+   },
+   {
+    "value": "19",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "建設業の初任給（高卒）は厚労省「賃金構造基本統計調査」では概ね18〜19万円台の水準（年度・企業規模・地域で変動"
+   },
+   {
+    "value": "30",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "「月30万円」と聞いて入職しても、雨が多い月は22万円"
+   },
+   {
+    "value": "22",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "「月30万円」と聞いて入職しても、雨が多い月は22万円"
+   },
+   {
+    "value": "700",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "電気工事施工管理技士: 年収550-700万円"
+   },
+   {
+    "value": "650",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "1級建築施工管理技士: 年収500-650万円"
+   },
+   {
+    "value": "3",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "型枠工（熟練）: 日当3万円超（年収換算600万円以上）"
+   },
+   {
+    "value": "600",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "型枠工（熟練）: 日当3万円超（年収換算600万円以上）"
+   },
+   {
+    "value": "2",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "普通作業員: 日当1万5,000-2万円（年収換算300-400万円）"
+   },
+   {
+    "value": "400",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "普通作業員: 日当1万5,000-2万円（年収換算300-400万円）"
+   },
+   {
+    "value": "200",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "資格を持つ施工管理技士と、無資格の作業員で年収に200万円以上の差があります"
+   },
+   {
+    "value": "100",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "特定技能（海外からの新規受入）: 渡航費・日本語教育・住居・管理費等を含めて年間100万円台後半〜200万円/人の幅"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/JobSearchList/j_ind__0217S/-ar__7/-ha__70%2C0/-preBtn__2/-page__4/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wdb-k.co.jp/recruit/graduate/ideal/shikoku.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chisou.go.jp/tiiki/kokusentoc_wg/r8/pdf/260914_shiryou_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ikdinc.co.jp/news/Z9VLq2xw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3015843341/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tsuneishi.co.jp/recruit/graduate/interview/15/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOCC157VC0V10C26A9000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.careermine.jp/industries/shipbuilding/main-55",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2025/03/tyutosaiyouzyoukyou2025-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/item/220627_saiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/JobSearchList/j_ind__0217S/-preBtn__2/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imazo.co.jp/rec/career/know/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mynavi-agent.jp/corpdetail/20190/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20251128_105076/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsmea.or.jp/jp/news/news_20230620/20230620_SAJ-JSMEA_zousen_kongo_setsumeikai_shiryou.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://souken.suke-dachi.jp/blog/2024_mid_career_survey",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.transtructure.com/hr-data-analysys/labor/p7557/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/const/content/002026649.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/common/001050819.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://miyoshishipbuilding.co.jp/re/charm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asahi.gakujo.ne.jp/research/industry_topics/detail/id=4199",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/001705160.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/index_mono.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/001496473.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "造船・瀬戸内の製造業の採用単価と求人倍率 採用単価 規模別",
+   "results": [
+    "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_ind__0217S/-ar__7/-ha__70%2C0/-preBtn__2/-page__4/",
+    "https://www.wdb-k.co.jp/recruit/graduate/ideal/shikoku.html",
+    "https://www.chisou.go.jp/tiiki/kokusentoc_wg/r8/pdf/260914_shiryou_1.pdf",
+    "https://www.nikkei.com/article/DGKKZO20061060W7A810C1TJ2000/",
+    "https://www.jsmea.or.jp/jp/news/news_20230620/20230620_SAJ-JSMEA_zousen_kongo_setsumeikai_shiryou.pdf",
+    "https://geopinning.space/industry/japan-industrial-zones/setouchi/",
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/"
+   ]
+  },
+  {
+   "query": "造船・瀬戸内の製造業の採用単価と求人倍率 採用コスト 調査 万円",
+   "results": [
+    "https://ikdinc.co.jp/news/Z9VLq2xw",
+    "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3015843341/",
+    "https://www.mlit.go.jp/maritime/content/001614700.pdf",
+    "https://www.tsuneishi.co.jp/recruit/graduate/interview/15/",
+    "https://www.nikkei.com/article/DGXZQOCC157VC0V10C26A9000000/",
+    "https://www.careermine.jp/industries/shipbuilding/main-55",
+    "https://www.jac-recruitment.jp/search/NJB2363427/",
+    "https://next.rikunabi.com/viewjob/jka63ee858d2ee7aaf/"
+   ]
+  },
+  {
+   "query": "造船・瀬戸内の製造業の採用単価と求人倍率 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://career-research.mynavi.jp/wp-content/uploads/2025/03/tyutosaiyouzyoukyou2025-2.pdf",
+    "https://www.works-i.com/surveys/item/220627_saiyou.pdf",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_ind__0217S/-preBtn__2/",
+    "https://www.imazo.co.jp/rec/career/know/index.html",
+    "https://mynavi-agent.jp/corpdetail/20190/",
+    "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "https://www.wdb-k.co.jp/recruit/graduate/ideal/shikoku.html",
+    "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf",
+    "https://www.mlit.go.jp/maritime/content/001614700.pdf"
+   ]
+  },
+  {
+   "query": "造船・瀬戸内の製造業の採用単価と求人倍率 採用経路 割合 調査",
+   "results": [
+    "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "https://career-research.mynavi.jp/reserch/20251128_105076/",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.jsmea.or.jp/jp/news/news_20230620/20230620_SAJ-JSMEA_zousen_kongo_setsumeikai_shiryou.pdf",
+    "https://souken.suke-dachi.jp/blog/2024_mid_career_survey",
+    "https://www.wdb-k.co.jp/recruit/graduate/ideal/shikoku.html",
+    "https://www.transtructure.com/hr-data-analysys/labor/p7557/",
+    "https://www.e-stat.go.jp/stat-search/files?toukei=00600300"
+   ]
+  },
+  {
+   "query": "造船・瀬戸内の製造業の採用単価と求人倍率 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_3.html",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://career-research.mynavi.jp/reserch/20251128_105076/",
+    "https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/const/content/002026649.pdf",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://partners.en-japan.com/special/250219/",
+    "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf"
+   ]
+  },
+  {
+   "query": "造船・瀬戸内の製造業の採用単価と求人倍率 白書 採用",
+   "results": [
+    "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_3.html",
+    "https://www.wdb-k.co.jp/recruit/graduate/ideal/shikoku.html",
+    "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf",
+    "https://www.mlit.go.jp/common/001050819.pdf",
+    "https://www.chisou.go.jp/tiiki/kokusentoc_wg/r8/pdf/260914_shiryou_1.pdf",
+    "https://miyoshishipbuilding.co.jp/re/charm/",
+    "https://www.tsuneishi.co.jp/recruit/graduate/interview/15/",
+    "https://asahi.gakujo.ne.jp/research/industry_topics/detail/id=4199",
+    "https://www.mhlw.go.jp/content/001705160.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 造船・瀬戸内の製造業の採用単価と求人倍率",
+   "results": [
+    "https://note.com/loyal_ivy9071/n/n9f8ac4bd7d24",
+    "https://note.com/toyama_tetsuo/n/n6cfdb5b88938",
+    "https://note.com/yo4shi80/n/nf9912a86ef51",
+    "https://note.com/deltacf/n/na8708285e367",
+    "https://note.com/equity_neconeco/n/n008676f918e2",
+    "https://note.com/paoyou/n/n3d7a4caa8233",
+    "https://note.com/yo4shi80/n/n45a9d0e4c468",
+    "https://note.com/gate818/n/nc66076903dbb"
+   ]
+  },
+  {
+   "query": "site:x.com 造船・瀬戸内の製造業の採用単価と求人倍率",
+   "results": [
+    "https://x.com/Kaiji_Press/status/2100425555317576072",
+    "https://x.com/nikkei_shikoku/status/2100014842451304913",
+    "https://x.com/nikkeimatome/status/2114822100942999788",
+    "https://x.com/Tyyyaaabbb/status/2046063820163219642",
+    "https://x.com/rec_skh/status/2001973543643574356",
+    "https://x.com/monoscope_media/status/2105591050211352593",
+    "https://x.com/PressSec_JP/status/2095083878730158341"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 造船・瀬戸内の製造業の採用単価と求人倍率",
+   "results": [
+    "https://www.linkedin.com/pulse/求人倍率をもう少し細かくみる-サトル-カナイワ-y5ohc",
+    "https://jp.linkedin.com/posts/pasona-business_2026年4月最新版採用市場はどう動いた転職動向と求人倍率を業界職種別に解説-activity-7452555538288263168-9KXU",
+    "https://jp.linkedin.com/posts/達也-代慶-126586226_なぜ中小企業の賃上げ幅が向上瀬戸内海にある造船の下請け会社の社長は今年-activity-7448901902051737600-URsm",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7094623021490958337/",
+    "https://jp.linkedin.com/jobs/view/【三菱重工-三菱造船（下関）】-生産設計技術者-製造業の中核で、“作れる未来”を設計しませんか-at-mitsubishi-heavy-industries-4417734628",
+    "https://jp.linkedin.com/pulse/beyond-cost-per-hire-measuring-workforce-roi-uptime-shrinkage-duggal-q9odc?tl=ja",
+    "https://jp.linkedin.com/posts/y-ishii_リクルートワークス研究所-2027卒大卒求人倍率調査-27卒求人倍率は162-activity-7453702561473224704-As1Z"
+   ]
+  },
+  {
+   "query": "site:facebook.com 造船・瀬戸内の製造業の採用単価と求人倍率",
+   "results": [
+    "https://www.facebook.com/ebisukogyo/posts/瀬戸内海最大の造船所/2158368717801189/",
+    "https://www.facebook.com/onomichizosen/",
+    "https://www.facebook.com/yanozo/",
+    "https://www.facebook.com/Ryusyou.okinaka/videos/全国の造船所は２年先まで仕事がつまってるそうです私達の仕事歪み取り職人も職人がいないので私のような者でも話しがきます実際に70歳過ぎても引っ張りだこの仕事ですメ/829954789038251/",
+    "https://www.facebook.com/tamanocity/photos/広報たまの7月号完成特集ここで働くたまのの企業本市は造船業の企業城下町として発展し現在も造船関連企業をはじめ繊維産業など多くの分野の製造業が集まるものづくりのま/869593761864739/",
+    "https://www.facebook.com/setonaikaikisen/posts/瀬戸内シーライン船員募集のお知らせ平素は瀬戸内シーライン航路をご愛顧くださいまして誠にありがとうございますこの度瀬戸内シーラインにおきまして船員の募集を行ってお/897108265747953/",
+    "https://www.facebook.com/matsuo.akihito/posts/高卒が金の卵になる時代-求人倍率360倍初任給29万円の会社も今日9月17日の日経新聞の記事です2027年春に卒業する高校生の採用選考が16日に始まりました厚生/28474591775494319/"
+   ]
+  },
+  {
+   "query": "造船・瀬戸内の製造業の採用単価と求人倍率 note 社長",
+   "results": [
+    "https://note.com/jijian/n/nf0d9429b6061",
+    "https://note.com/yo4shi80/n/nf9912a86ef51",
+    "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "https://note.com/deltacf/n/na8708285e367",
+    "https://skillnote.jp/knowledge/seizogyonoaratanakoro-01/",
+    "https://note.com/equity_neconeco/n/n008676f918e2",
+    "https://diamond.jp/articles/-/387643",
+    "https://www.chisou.go.jp/tiiki/kokusentoc_wg/r8/pdf/260914_shiryou_1.pdf",
+    "https://www.youtube.com/watch?v=O4LfAU7JBsY",
+    "https://note.com/light_clover295/n/n1882325ab1e8"
+   ]
+  },
+  {
+   "query": "造船・瀬戸内の製造業の採用単価と求人倍率 X 投稿",
+   "results": [
+    "https://www.youtube.com/shorts/F3rXyNmHz9w",
+    "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "https://diamond.jp/articles/-/387648",
+    "https://x.com/rec_skh/status/1934925304503427351",
+    "https://www.instagram.com/reel/DKJrU5JSRYi/",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_ind__0217S/-preBtn__2/",
+    "https://www.imazo.co.jp/rec/student/requirements/index.html",
+    "https://and-pro.jp/job-info-438816/",
+    "https://www.openwork.jp/a0C1000000tfLiX/job/",
+    "https://x.com/nikkei_shikoku/status/2100014842451304913"
+   ]
+  },
+  {
+   "query": "shipbuilding Setouchi hiring cost job openings ratio site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/japanmaritimedaily_tradewindsevents-shippingnews-japaneseshipping-activity-7381501088392298496-JIuS",
+    "https://www.linkedin.com/posts/japanmaritimedaily_oshimashipbuilding-oshimaofthebulks-bulker-activity-7370629463438458880-33OP",
+    "https://www.linkedin.com/posts/japanmaritimedaily_newdayangshipbuilding-itochu-chartworld-activity-7378239607974510592-V_RN",
+    "https://www.linkedin.com/posts/japanmaritimedaily_shipping-maritime-shipbuilding-activity-7508329557285023744-IGj4",
+    "https://www.linkedin.com/posts/ramprasad-ravi-b901273_shipbuilding-activity-7414894969452257280-0vza",
+    "https://www.linkedin.com/posts/japanmaritimedaily_tsuneishigroup-tsuneishishipbuilding-kambarakisen-activity-7450354808504496128-4rqy",
+    "https://www.linkedin.com/posts/japanmaritimedaily_lngcarriers-shipbuilding-japan-activity-7477533917210714112-QHbP",
+    "https://www.linkedin.com/posts/japanmaritimedaily_kline-decarbonization-greenshipping-activity-7477171493571805184-tZ8x",
+    "https://www.linkedin.com/posts/japanmaritimedaily_imo-mepc-nzf-activity-7459414504972632064-caVI",
+    "https://www.linkedin.com/posts/japanmaritimedaily_maritime-jmd-activity-7464487913087676416-xRG_"
+   ]
+  }
+ ],
+ "missing": {}
+}
