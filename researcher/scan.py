@@ -8,6 +8,10 @@ from urllib.parse import urlparse
 
 OUT = os.path.join(os.path.dirname(__file__), "out")
 PRIMARY = re.compile(r"(\.go\.jp|xbrl|kanpo|houjin-bangou|\.lg\.jp|e-stat|edinet|jpx\.co\.jp|boj\.or\.jp|jil\.go|meti|mhlw|stat\.go|\.or\.jp|\.ac\.jp|ir\.|/ir/|disclosure)")
+# 2026-11-05：ニュースサイトの「/ir/」カテゴリ（news.sharelab.jp/3dp-news/ir/…）を一次と判定した失敗から。報道・ブログのホストは一次にしない
+NEWSHOST = re.compile(r"^(news\.|.*(note\.com|sharelab|nikkei|itmedia|monoist|prtimes|yahoo|newswitch|nikkan|livedoor|ameblo|hatena))", re.I)
+def is_primary(url):
+    return bool(PRIMARY.search(url)) and not NEWSHOST.search(urlparse(url).netloc)
 # 2026-11-05 4-14：信用調査会社の売上は取材に基づく推定値を含む。一次に数えず「信用調査」とする（電子決算公告ドットコムの解説）
 CREDIT = re.compile(r"(tdb\.co\.jp|tsr-net|tokyo-keizai|cosmonet|baseconnect|musubu|salesnow|\.dnb\.com|dun-bradstreet)")
 # 2026-11-05 4-13／4-15：同じ欄でも定義が違う数字（単体と連結、売上高と取扱高、出荷と販売、会員企業だけの集計、規模の裾切り）
@@ -27,7 +31,8 @@ REPORT = re.compile(r"(mordorintelligence|gminsights|sdki|marketsandmarkets|fort
 CONTEXT = [("市場規模", re.compile(r"(市場規模|市場は|市場が|market size|market (is|was|will)|CAGR|年平均成長率|億ドル|billion)", re.I)),
            # 2026-11-05 4-11：工場の新設・増産の計画は生産能力の信号で、装置1台の値段と混ぜない（crexgroup 有報の読み方）
            ("設備投資・増産計画", re.compile(r"(設備投資|新工場|増産|増設|生産能力|能力増強|capex|capacity expansion)", re.I)),
-           ("装置価格", re.compile(r"(装置|本体|プリンターは|機械の価格|導入費|machine price|printer costs?)", re.I)),
+           # 2026-11-05：am_ceiling の「受託1個単価」に家庭用3Dプリンターの値段（1万円〜100万円〜）が入った失敗から、購入・値段・機種のクラスも装置価格にする
+           ("装置価格", re.compile(r"(装置|本体|プリンターは|プリンターの(値段|価格)|プリンターを購入|購入|値段|業務用機|エントリークラス|ハイエンド|機械の価格|導入費|machine price|printer costs?)", re.I)),
            ("売上・決算", re.compile(r"(売上高|売上は|営業利益|経常利益|決算|revenue|sales of)", re.I)),
            ("統計の総額", re.compile(r"(出荷額|付加価値額|加工賃収入|総額|全国で|全体で|合計)")),
            # 2026-11-05：1人あたりの給与は生産能力（1人あたり加工賃）ではない（mfg_capacity で現金給与総額402万円が1人あたり金額に入った失敗から）
@@ -44,7 +49,13 @@ def context_of(q):
 
 # 2026-11-05：「1,512億9,435万円」を「9,435万円」と切って拾った失敗から。億と万が続く数字は1つの万円にまとめる
 OKUMAN = re.compile(r"(\d{1,3}(?:,\d{3})+|\d+)\s*億\s*(\d{1,3}(?:,\d{3})+|\d+)\s*万\s*円")
+# 2026-11-05：「6,771億63百万円」の「63百万円」だけが拾われた失敗から。億＋百万円も1つにまとめる
+OKUHYAKU = re.compile(r"(\d{1,3}(?:,\d{3})+|\d+)\s*億\s*(\d+)\s*百万\s*円")
+# 2026-11-05：「1ドル約149円」の為替の換算レートを149円として拾った失敗から。換算レートの数字は外す
+FXRATE = re.compile(r"1\s*(ドル|米ドル|ユーロ|元|USD|EUR)\s*(=|＝|約|あたり|当たり)?\s*約?\s*\d+(\.\d+)?\s*円")
 def join_okuman(q):
+    q = FXRATE.sub("", q)
+    q = OKUHYAKU.sub(lambda m: f"{int(m.group(1).replace(',', '')) * 10000 + int(m.group(2)) * 100}万円", q)
     return OKUMAN.sub(lambda m: f"{int(m.group(1).replace(',', '')) * 10000 + int(m.group(2).replace(',', ''))}万円", q)
 
 # 2026-11-05：「4〜9人」「30人以上」「100人未満」は規模の区分の境目で、人数の事実ではない（mfg_capacity で社員数4〜615人の幅になった失敗から）
@@ -52,6 +63,13 @@ def is_size_band(q, m):
     if m.group(2) not in ("人", "名", "万人", "千人"): return False
     after, before = q[m.end():m.end() + 3], q[max(0, m.start() - 2):m.start()]
     return bool(re.match(r"\s*(以上|未満|以下|超|〜|～|-|−|―|規模|の事業所|の企業)", after) or re.search(r"[〜～\-−―]\s*$", before))
+
+# 2026-11-05 4-20：同じ統計・同じ論文でも版で数字が違う（速報→確報→改定）。版を値に残し、確報・改定があれば速報を年の中央値から外す（Deskrex の版の照合）
+VERSION = [("改定", re.compile(r"(改定値|改訂値|遡及改定|訂正)")), ("確報", re.compile(r"(確報|確定値|確定)")), ("速報", re.compile(r"(速報|概数|暫定|preliminary|advance estimate)", re.I))]
+def version_of(q):
+    for n, rx in VERSION:
+        if rx.search(q): return n
+    return ""
 
 def defn_of(q):
     return "・".join(n for n, rx in DEFN if rx.search(q))
@@ -83,8 +101,10 @@ def rows_for(topic):
                     near = YEAR.findall(q[max(0, m.start() - 40):m.start() + 5])
                     y = (near or ys or [""])[-1]
                     yield {"品目": name, "区分": cat, "文脈": ctx, "年": y, "値": round(v, 4), "単位": u,
-                           "一次": "調査会社" if REPORT.search(url) else "信用調査" if CREDIT.search(url) else "一次" if PRIMARY.search(url) else "記事",
-                           "定義": defn_of(q),
+                           "一次": "調査会社" if REPORT.search(url) else "信用調査" if CREDIT.search(url) else "一次" if is_primary(url) else "記事",
+                           "定義": defn_of(q), "版": version_of(q),
+                           # 2026-11-05 4-19：出どころの記録（URL・取得日・取り方）。欠けた引用は後から確かめられない
+                           "取得日": it.get("first_seen", ""),
                            "予測": "予測" if y and int(y) > NOW_YEAR else "見通し" if OUTLOOK.search(q) else "",
                            "出典": urlparse(url).netloc, "URL": url, "引用": q[:160]}
 
@@ -134,6 +154,9 @@ def scan(topic):
     with open(os.path.join(OUT, topic, "cross.csv"), "w", encoding="utf-8-sig", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=list(rows[0])); w.writeheader(); w.writerows(rows)
     md = [f"# 走査（自動）— {topic}", "", "機械で出した突き合わせと【推定】。式と出典件数つき。最終の結論は scan.md。", ""]
+    # 2026-11-05 4-19：出どころの記録（URL・取得日）が欠けた数字を数える。0件でなければ HEALTH と同じく直す対象
+    nprov = sum(1 for r in rows if not r["URL"] or not r["取得日"])
+    md += [f"- 出どころの記録が欠けた数字：{nprov}件／{len(rows)}件（URLか取得日が無い）", ""]
     by_item = {}
     for r in rows: by_item.setdefault(r["品目"], []).append(r)
     for item, rs in sorted(by_item.items()):
@@ -146,8 +169,10 @@ def scan(topic):
             lo, hi = min(vals), max(vals)
             spread = f"{hi/lo:.1f}倍" if lo > 0 else "-"
             peryear = {}
+            # 4-20：同じ年に確報・改定があれば速報を外す
+            fin_years = {r["年"] for r in g if r.get("版") in ("確報", "改定")}
             for r in (prim or g):
-                if r["年"] and not r["予測"]: peryear.setdefault(int(r["年"]), []).append(r["値"])
+                if r["年"] and not r["予測"] and not (r.get("版") == "速報" and r["年"] in fin_years): peryear.setdefault(int(r["年"]), []).append(r["値"])
             med = {y: statistics.median(v) for y, v in peryear.items()}
             fut = [r for r in g if r["予測"]]
             md.append(f"- {grade(g)} {cat}［{ctx}］（{u}）：{len(g)}件・一次{len(prim)}件・出典{len({src_key(r) for r in g})}か所（調査会社は1つに束ねる）・予測値{len(fut)}件、幅 {lo:g}〜{hi:g}（食い違い{spread}）")
@@ -162,6 +187,14 @@ def scan(topic):
                 for d0 in (r.get("定義") or "").split("・"):
                     if d0: dc[d0] = dc.get(d0, 0) + 1
             if len(dc) >= 2: md.append("  - ⚠ 定義が混在：" + "、".join(f"{k}{v}件" for k, v in dc.items()) + "（同じ定義どうしで比べる）")
+            vc = {}
+            for r in g:
+                if r.get("版"): vc[r["版"]] = vc.get(r["版"], 0) + 1
+            if len(vc) >= 2: md.append("  - ⚠ 版が混在：" + "、".join(f"{k}{v}件" for k, v in vc.items()) + "（同じ年は確報・改定を採り、速報は年の中央値から外した）")
+            # 4-19：一次の出どころが2か所以上で中央値の±20%に収まれば、いちばん確度が高い（一次どうしの裏付け）
+            pmed = statistics.median(vals)
+            pdoms = {r["出典"] for r in prim if pmed and abs(r["値"] - pmed) <= 0.2 * abs(pmed)}
+            if len(pdoms) >= 2: md.append(f"  - 一次どうしの裏付け：一次{len(pdoms)}か所が中央値±20%で一致（確度がいちばん高い）")
             cr = sum(1 for r in g if r["一次"] == "信用調査")
             if cr: md.append(f"  - 信用調査会社の数字{cr}件（推定値を含むので【推定】扱い・一次に数えない）")
             if med: md.append(f"  - 【推定】年ごとの中央値（{'一次のみ' if prim else '記事含む'}）：" + "、".join(f"{y}年 {v:g}" for y, v in sorted(med.items())) + f" → 向き：{trend(med)}")
@@ -182,7 +215,17 @@ def scan(topic):
         ratio = {y: statistics.median(cap[y]) / statistics.median(pay[y]) for y in cap if y in pay and statistics.median(pay[y]) > 0}
         if ratio:
             md.append("  - 【推定】1人あたり金額÷1人あたり給与（同じ年の中央値どうし。給与の何倍を1人で稼いでいるか）：" + "、".join(f"{y}年 {v:.2f}倍" for y, v in sorted(ratio.items())) + f" → 向き：{trend(ratio)}")
+            # 2026-11-05 4-17：黒字の会社の1人あたり売上・加工賃は1人あたり給与を下回らない（給与が下限）。下回る年は別物の混入か定義違い
+            low = [y for y, v in ratio.items() if v < 1]
+            if low: md.append("  - ⚠ 給与の下限割れ：" + "、".join(f"{y}年" for y in sorted(low)) + "（1人あたり金額が給与より小さい。付加価値・利益など別の欄の混入か、事業所と企業の取り違えを疑う）")
         md.append("")
+    # 2026-11-05 4-19：何が見つからなかったかを書く（範囲の明示）。数字が1つも取れなかった品目を並べる
+    names = set()
+    for f in glob.glob(os.path.join(OUT, topic, "companies", "*.json")):
+        try: names.add(json.load(open(f, encoding="utf-8")).get("name", ""))
+        except Exception: pass
+    empty = sorted(n for n in names - set(by_item) if n)
+    md += ["## 数字が1つも取れなかった品目（範囲の明示）", *(f"- {n}" for n in empty or ["（なし）"]), ""]
     open(os.path.join(OUT, topic, "scan_auto.md"), "w", encoding="utf-8").write("\n".join(md))
     return len(rows)
 
