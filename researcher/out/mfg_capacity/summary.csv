@@ -62,3 +62,6 @@ e-Stat 法人企業統計調査 製造業 資本金階級別 従業員数・売�
 受託加工の金額を実質にする物価（企業物価指数の金属製品・企業向けサービス価格指数・GDPデフレーター 年次・4-37 名目と実質）,Japan corporate goods price index metal products annual deflator real terms,物価・統計,1,1,4,2,7,36,20,35,,
 工業統計 産業細分類別 従業者規模別 加工賃収入額 Excel（e-Stat の統計表ファイル・自動車工業会など別の団体を除く・4-38）,census of manufactures detailed industry employee size processing fee revenue excel e-Stat,全体・統計,31,45,25,21,10,45,1,35,,
 日本金型工業会 金型の事業所数・従業者数の年次（会員の統計か全体か・工業統計の金型製造業と並べる・4-15・4-38）,Japan Die and Mould Industry Association establishments employees annual statistics,金型・統計,27,49,45,2,1,54,6,20,,
+e-Stat 中小企業実態基本調査 データベースの表の値（sid=0003286822・産業中分類×従業者規模の売上高・従業者数・選択肢の階級でなく値の行・4-40）,SME basic survey e-Stat database manufacturing sales employees by industry and employee size values,全体・規模別,9,36,42,12,6,10,0,36,人手と仕事の差,
+工業統計 全国の産業別統計表（確報）従業者規模別 加工賃収入額・従業者数（県・市の概要PDFを除く・4-30・4-40）,census of manufactures national industry statistics by employee size processing fee revenue final report,全体・統計,60,60,60,60,20,60,2,36,,
+電気めっき業の事業所数・従業者数・加工賃収入額を工業統計の産業細分類で取り直す（syntaxpartners の写しでなく元へ・4-24）,electroplating industry establishments employees census of manufactures detailed industry Japan,めっき・統計,0,0,0,0,0,0,0,21,事業所数・社数／社員数・平均社員数／受注金額・加工賃収入／1人あたり・1社あたり金額／生産能力・設備／10年推移／人手と仕事の差,

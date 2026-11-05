@@ -1,0 +1,994 @@
+{
+ "name": "e-Stat 中小企業実態基本調査 データベースの表の値（sid=0003286822・産業中分類×従業者規模の売上高・従業者数・選択肢の階級でなく値の行・4-40）",
+ "en": "SME basic survey e-Stat database manufacturing sales employees by industry and employee size values",
+ "aliases": [
+  "site:e-stat.go.jp 中小企業実態基本調査 産業中分類別 従業者規模別 売上高 従業者数 1企業当たり",
+  "中小企業実態基本調査 確報 製造業 従業者規模別 1企業当たり売上高 表",
+  "e-Stat dbview 0003286822"
+ ],
+ "context": "全体・規模別",
+ "kind": "market",
+ "researched_at": "2026-11-05T16:08:53.467625+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "中小企業実態基本調査 確報統計表 １．会社全体の従業者数 産業別・売上高階級別表 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "pass": 3
+   },
+   {
+    "quote": "１．会社全体の従業者数 産業別・売上高階級別表",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査附帯調査 四半期別GDP速報（1次速報）のための一部項目早期調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?toukei=00553010",
+    "pass": 3
+   },
+   {
+    "quote": "資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "通信業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット附随サービス業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "新聞業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "出版業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "卸売業:資本金1億円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "小売業:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "駐車場業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "物品賃貸業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "旅行業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模 : 法人企業(常用雇用者数5人以下、6～20人、21～49人、50人以上の4区分)、個人企業",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.会社全体の従業者数 (3)産業別・資本金階級別表(法人企業)",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.海外展開の状況 (3)産業別・資本金階級別表(法人企業)",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(7)産業別・売上高階級別表(法人企業)",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)産業別・売上高階級別表 - 1)法人企業",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)産業別・売上高階級別表 - 2)個人企業",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5.設備投資 (3)産業別・資本金階級別表(法人企業)",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6.リースの利用 (3)産業別・資本金階級別表(法人企業)",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7.研究開発の状況 (3)産業別・資本金階級別表(法人企業)",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "8.売上高の内訳 (3)産業別・資本金階級別表(法人企業)",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3)産業別・資本金階級別表(法人企業)",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)産業別・売上高階級別表(法人企業)",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10.工事の受注(建設業) (3)資本金階級別表(法人企業)",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "12.委託の状況 (3)産業別・資本金階級別表(法人企業)",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2)売上高及び営業費用 - 1)法人企業",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3)資産及び負債・純資産(法人企業)",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3)売上高及び営業費用 - 1)産業中分類別表(法人企業)",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)資産及び負債・純資産(法人企業) - 1)産業中分類別表",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "中小企業実態基本調査 確報統計表 １．会社全体の従業者数 産業別・売上高階級別表 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "pass": 3
+   },
+   {
+    "quote": "１．会社全体の従業者数 産業別・売上高階級別表",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "pass": 3
+   },
+   {
+    "quote": "500万円以下",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "pass": 3
+   },
+   {
+    "quote": "500万円超～1千万円",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "pass": 3
+   },
+   {
+    "quote": "1千万円超～3千万円",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "pass": 3
+   },
+   {
+    "quote": "3千万円超～5千万円",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "pass": 3
+   },
+   {
+    "quote": "5千万円超～1億円",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "pass": 3
+   },
+   {
+    "quote": "1億円超～5億円",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "pass": 3
+   },
+   {
+    "quote": "5億円超～10億円",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "pass": 3
+   },
+   {
+    "quote": "4/6 売上高階級",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "pass": 3
+   },
+   {
+    "quote": "資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "通信業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット附随サービス業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "新聞業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "出版業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "卸売業:資本金1億円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "小売業:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "駐車場業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "物品賃貸業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "旅行業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査の「売上(収入)金額」を基に、売上高の総和の目標精度(標準誤差率)を業種分類(産業大分類)・従業者規模区分ごとに(3)に示すとおり目標精度を設定して標本サイズを算出した",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査の調査結果に基づき、基本となる層別に見て極めて大きな「売上高」を有する企業がある場合は、別途層を設け、全数を継続標本(抽出率=1)とした",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "・平成 26 年調査及び平成 27 年調査結果について、この特に売上高が大きい中小企業に過不",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・今般、8 月の訂正作業で新たに集計に追加した特に売上高が大きい中小企業（平成 26 年調",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(平成 26 年調査) 資産合計 訂正前 391 兆 6,812 億円、訂正後 391 兆 6,849 億円、訂正率+0.0009％",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(平成 27 年調査) 資産合計 訂正前 406 兆 9,919 億円、訂正後 407 兆 32 億円、 訂正率+0.0028％",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(7)産業別・売上高階級別表",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(7)産業別・売上高階級別表(法人企業)",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3.売上高及び営業費用 (1)産業別・従業者規模別表",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)産業別・売上高階級別表 - 1)法人企業",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)産業別・売上高階級別表 - 2)個人企業",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "8.売上高の内訳 (3)産業別・資本金階級別表(法人企業)",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)産業別・売上高階級別表(法人企業)",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)売上高階級別表",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)産業別・売上高階級別表",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2)売上高及び営業費用 - 1)法人企業",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3)売上高及び営業費用 - 1)産業中分類別表(法人企業)",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "500万円以下",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "pass": 3
+   },
+   {
+    "quote": "500万円超～1千万円",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "pass": 3
+   },
+   {
+    "quote": "1千万円超～3千万円",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "pass": 3
+   },
+   {
+    "quote": "3千万円超～5千万円",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "pass": 3
+   },
+   {
+    "quote": "5千万円超～1億円",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "小売業:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "駐車場業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "物品賃貸業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております",
+    "url": "https://www.e-stat.go.jp/stat-search/database?toukei=00553010",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております",
+    "url": "https://www.e-stat.go.jp/stat-search/database?toukei=00553010&tstat=000001019842",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております",
+    "url": "https://www.e-stat.go.jp/stat-search/database?toukei=00553010&tstat=000001019842&tclass1=000001124875",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業基本法の規定に基づいて、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するための新たな調査として、平成16年9月に初めて実施",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.設備投資 (3)産業別・資本金階級別表(法人企業)",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2019-03-25 14:00",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "pass": 3
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "pass": 3
+   },
+   {
+    "quote": "2015年度",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "pass": 3
+   },
+   {
+    "quote": "2019-03-25",
+    "url": "https://www.e-stat.go.jp/stat-search/database?toukei=00553010",
+    "pass": 3
+   },
+   {
+    "quote": "2019-03",
+    "url": "https://www.e-stat.go.jp/stat-search/database?toukei=00553010",
+    "pass": 3
+   },
+   {
+    "quote": "2019-03-25",
+    "url": "https://www.e-stat.go.jp/stat-search/database?toukei=00553010&tstat=000001019842",
+    "pass": 3
+   },
+   {
+    "quote": "2019-03",
+    "url": "https://www.e-stat.go.jp/stat-search/database?toukei=00553010&tstat=000001019842",
+    "pass": 3
+   },
+   {
+    "quote": "2019-03-25",
+    "url": "https://www.e-stat.go.jp/stat-search/database?toukei=00553010&tstat=000001019842&tclass1=000001124875",
+    "pass": 3
+   },
+   {
+    "quote": "2019-03",
+    "url": "https://www.e-stat.go.jp/stat-search/database?toukei=00553010&tstat=000001019842&tclass1=000001124875",
+    "pass": 3
+   },
+   {
+    "quote": "（2025年7月30日）",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "経済センサス‐活動調査の「売上(収入)金額」を基に、売上高の総和の目標精度(標準誤差率)を業種分類(産業大分類)・従業者規模区分ごとに(3)に示すとおり目標精度を設定して標本サイズを算出した",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模 : 法人企業(常用雇用者数5人以下、6～20人、21～49人、50人以上の4区分)、個人企業",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "目標精度は、公表する統計表の表章を考慮し、業種分類別・従業者規模区分別に概ね8%、産業中分類別に10％、産業中分類・従業者規模区分別に概ね15％と設定した",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、産業中分類・従業者規模区分の標本サイズが少なくとも30以上とした",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記「１．標本サイズ」の(2)により全体の標本サイズを算出し、次に調査票乙の目標精度を、業種分類別・従業者規模区分別に概ね10%、産業中分類別に15％、産業中分類・従業者規模区分別に概ね20％と設定し、標本サイズを算出した",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "3.売上高及び営業費用 (1)産業別・従業者規模別表",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)産業別・従業者規模別表",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5)産業別・従業者規模別表(大企業の子会社または関連会",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(6)産業別・従業者規模別表(大企業の子会社または関連会",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003286822",
+    "status": "ok",
+    "method": "http:seed"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?toukei=00553010",
+    "status": "ok",
+    "method": "http:seed-link"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?toukei=00553010&tstat=000001019842",
+    "status": "ok",
+    "method": "http:seed-link"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?toukei=00553010&tstat=000001019842&tclass1=000001124875",
+    "status": "ok",
+    "method": "http:seed-link"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "status": "ok",
+    "method": "http:seed"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/download/keiyaku_r4-r6.pdf",
+    "status": "ok",
+    "method": "pdf:seed-link"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/download/keiyaku_h31-r3.pdf",
+    "status": "ok",
+    "method": "pdf:seed-link"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/210305chousa_jishi.pdf",
+    "status": "ok",
+    "method": "pdf:seed-link"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf",
+    "status": "ok",
+    "method": "pdf:seed-link"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/h16_s_kou.pdf",
+    "status": "http_202",
+    "method": "pdf:seed-link"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/h16_s_otsu.pdf",
+    "status": "http_202",
+    "method": "pdf:seed-link"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/h16_hi_kou.pdf",
+    "status": "http_202",
+    "method": "pdf:seed-link"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/h16_hi_otsu.pdf",
+    "status": "http_202",
+    "method": "pdf:seed-link"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/2023/20231030.html",
+    "status": "ok",
+    "method": "browser:seed-link"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/2022/20220610.html",
+    "status": "ok",
+    "method": "browser:seed-link"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&stat_infid=000031451227&layout=dataset&statdisp_id=0003317799",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&data=1&metadata=1&toukei=00553010&tstat=000001019842&stat_infid=000040470293",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00553010&tstat=000001019842&statdisp_id=0003286800",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001132003&tclass2=000001132004&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/dbview?sid=0003286822",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?iroha=17&layout=dataset&toukei=00553010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001156334&tclass2=000001156335&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&tstat=000001019842&cycle=7&metadata=1&data=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search/files?query=%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88&layout=dataset",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search?layout=dataset&query=%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/ajtgjmdjp/estat-mcp/tree/main",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pypi.org/project/estat-mcp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/ajtgjmdjp/estat-mcp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/statistics/00550140",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/topics/13372/smes-in-japan/?srsltid=AYCX9vL3i8npoEcsUvCUurRc5gcpYmDlwy73fUpfv1xCKpcRMiGR-uwW",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Structural_business_statistics_overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/shugyou/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/en/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001221300&result_page=1&statdisp_id=0004054003",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data.worldbank.org/indicator/SL.IND.EMPL.ZS",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "e-Stat 中小企業実態基本調査 データベースの表の値（sid=0003286822・産業中分類×従業者規模の売上高・従業者数・選択肢の階級でなく値の行・4-40）",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&stat_infid=000031451227&layout=dataset&statdisp_id=0003317799",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&data=1&metadata=1&toukei=00553010&tstat=000001019842&stat_infid=000040470293",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00553010&tstat=000001019842&statdisp_id=0003286800",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001132003&tclass2=000001132004&tclass3val=0",
+    "https://www.e-stat.go.jp/index.php/dbview?sid=0003286822",
+    "https://www.e-stat.go.jp/stat-search/database?iroha=17&layout=dataset&toukei=00553010",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001156334&tclass2=000001156335&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&tstat=000001019842&cycle=7&metadata=1&data=1"
+   ]
+  },
+  {
+   "query": "e-Stat 中小企業実態基本調査 データベースの表の値（sid=0003286822・産業中分類×従業者規模の売上高・従業者数・選択肢の階級でなく値の行・4-40） 推移",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&stat_infid=000031451227&layout=dataset&statdisp_id=0003317799",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&data=1&metadata=1&toukei=00553010&tstat=000001019842&stat_infid=000040470293",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00553010&tstat=000001019842&statdisp_id=0003286800",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001132003&tclass2=000001132004&tclass3val=0",
+    "https://www.e-stat.go.jp/index.php/dbview?sid=0003286822",
+    "https://www.e-stat.go.jp/stat-search/database?iroha=17&layout=dataset&toukei=00553010",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001156334&tclass2=000001156335&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&tstat=000001019842&cycle=7&metadata=1&data=1"
+   ]
+  },
+  {
+   "query": "e-Stat 中小企業実態基本調査 データベースの表の値（sid=0003286822・産業中分類×従業者規模の売上高・従業者数・選択肢の階級でなく値の行・4-40） 統計 PDF",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&stat_infid=000031451227&layout=dataset&statdisp_id=0003317799",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&data=1&metadata=1&toukei=00553010&tstat=000001019842&stat_infid=000040470293",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00553010&tstat=000001019842&statdisp_id=0003286800",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001132003&tclass2=000001132004&tclass3val=0",
+    "https://www.e-stat.go.jp/index.php/dbview?sid=0003286822",
+    "https://www.e-stat.go.jp/stat-search/database?iroha=17&layout=dataset&toukei=00553010",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001156334&tclass2=000001156335&tclass3val=0"
+   ]
+  },
+  {
+   "query": "e-Stat 中小企業実態基本調査 データベースの表の値（sid=0003286822・産業中分類×従業者規模の売上高・従業者数・選択肢の階級でなく値の行・4-40） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&stat_infid=000031451227&layout=dataset&statdisp_id=0003317799",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&data=1&metadata=1&toukei=00553010&tstat=000001019842&stat_infid=000040470293",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00553010&tstat=000001019842&statdisp_id=0003286800",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001132003&tclass2=000001132004&tclass3val=0",
+    "https://www.e-stat.go.jp/index.php/dbview?sid=0003286822",
+    "https://www.e-stat.go.jp/stat-search/database?iroha=17&layout=dataset&toukei=00553010",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001156334&tclass2=000001156335&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&tstat=000001019842&cycle=7&metadata=1&data=1"
+   ]
+  },
+  {
+   "query": "e-Stat 中小企業実態基本調査 データベースの表の値（sid=0003286822・産業中分類×従業者規模の売上高・従業者数・選択肢の階級でなく値の行・4-40） 従業者規模別",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&stat_infid=000031451227&layout=dataset&statdisp_id=0003317799",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&data=1&metadata=1&toukei=00553010&tstat=000001019842&stat_infid=000040470293",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00553010&tstat=000001019842&statdisp_id=0003286800",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001132003&tclass2=000001132004&tclass3val=0",
+    "https://www.e-stat.go.jp/index.php/dbview?sid=0003286822",
+    "https://www.e-stat.go.jp/stat-search/database?iroha=17&layout=dataset&toukei=00553010",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001156334&tclass2=000001156335&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&tstat=000001019842&cycle=7&metadata=1&data=1"
+   ]
+  },
+  {
+   "query": "e-Stat 中小企業実態基本調査 データベースの表の値（sid=0003286822・産業中分類×従業者規模の売上高・従業者数・選択肢の階級でなく値の行・4-40） 1人当たり 万円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&stat_infid=000031451227&layout=dataset&statdisp_id=0003317799",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&data=1&metadata=1&toukei=00553010&tstat=000001019842&stat_infid=000040470293",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00553010&tstat=000001019842&statdisp_id=0003286800",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001132003&tclass2=000001132004&tclass3val=0",
+    "https://www.e-stat.go.jp/index.php/dbview?sid=0003286822",
+    "https://www.e-stat.go.jp/stat-search/database?iroha=17&layout=dataset&toukei=00553010",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001156334&tclass2=000001156335&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&tstat=000001019842&cycle=7&metadata=1&data=1"
+   ]
+  },
+  {
+   "query": "e-Stat 中小企業実態基本調査 データベースの表の値（sid=0003286822・産業中分類×従業者規模の売上高・従業者数・選択肢の階級でなく値の行・4-40） 2015 2025",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&stat_infid=000031451227&layout=dataset&statdisp_id=0003317799",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&data=1&metadata=1&toukei=00553010&tstat=000001019842&stat_infid=000040470293",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00553010&tstat=000001019842&statdisp_id=0003286800",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001132003&tclass2=000001132004&tclass3val=0",
+    "https://www.e-stat.go.jp/index.php/dbview?sid=0003286822",
+    "https://www.e-stat.go.jp/stat-search/database?iroha=17&layout=dataset&toukei=00553010",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001156334&tclass2=000001156335&tclass3val=0"
+   ]
+  },
+  {
+   "query": "SME basic survey e-Stat database manufacturing sales employees by industry and employee size values Japan statistics",
+   "results": [
+    "https://www.e-stat.go.jp/en/statistics/00550140",
+    "https://www.statista.com/topics/13372/smes-in-japan/?srsltid=AYCX9vL3i8npoEcsUvCUurRc5gcpYmDlwy73fUpfv1xCKpcRMiGR-uwW",
+    "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Structural_business_statistics_overview",
+    "https://www.stat.go.jp/english/data/shugyou/index.html",
+    "https://www.e-stat.go.jp/index.php/en/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001221300&result_page=1&statdisp_id=0004054003",
+    "https://data.worldbank.org/indicator/SL.IND.EMPL.ZS",
+    "https://data-explorer.oecd.org/",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.census.gov/programs-surveys/susb.html",
+    "https://www.e-stat.go.jp/en/stat-search/database?layout=dataset&statdisp_id=0003006031"
+   ]
+  },
+  {
+   "query": "site:note.com e-Stat 中小企業実態基本調査 データベースの表の値（sid=0003286822・産業中分類×従業者規模の売上高・従業者数・選択肢の階級でなく値の行・4-40）",
+   "results": []
+  },
+  {
+   "query": "site:x.com e-Stat 中小企業実態基本調査 データベースの表の値（sid=0003286822・産業中分類×従業者規模の売上高・従業者数・選択肢の階級でなく値の行・4-40）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2097931213658792099",
+    "https://jf.x.com/images/media-preview/2058876861942477192",
+    "https://x.com/teruoharuo/status/2117544862300127715",
+    "https://x.com/kotsudokan/status/2083191644028121446",
+    "https://x.com/LackPoint0/status/2113058532765618322",
+    "https://x.com/masaceoreal/status/2113055212923744729",
+    "https://x.com/officemikasa/status/2103452137456013755"
+   ]
+  },
+  {
+   "query": "site:linkedin.com e-Stat 中小企業実態基本調査 データベースの表の値（sid=0003286822・産業中分類×従業者規模の売上高・従業者数・選択肢の階級でなく値の行・4-40）",
+   "results": [
+    "https://linkedin.com/jobs/中小企業実態基本調査　一般管理費-jobs",
+    "https://jp.linkedin.com/company/statsports",
+    "https://www.linkedin.com/jobs/view/data-annotator-$70-hr-remote-at-crossing-hurdles-4410471574",
+    "https://jp.linkedin.com/pulse/japan-esports-market-size-share-industry-growth-insights-yoshio-kondo-s5fje",
+    "https://jp.linkedin.com/posts/tatsuo-koyama-4b401b63_被保険者数データベース-activity-7437385516641062933-wdsJ",
+    "https://jp.linkedin.com/pulse/choosing-database-small-scale-projects-md-arfatul-alam?tl=ja",
+    "https://jp.linkedin.com/pulse/benchmarking-time-series-databases-iot-scale-dolphindb-influxdb-gn6jc?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com e-Stat 中小企業実態基本調査 データベースの表の値（sid=0003286822・産業中分類×従業者規模の売上高・従業者数・選択肢の階級でなく値の行・4-40）",
+   "results": [
+    "https://www.facebook.com/stat.japan/",
+    "https://www.facebook.com/ecensus2026/photos/データで見るニッポンの産業図鑑日本の産業のすがたをデータでひもとくニッポンの産業図鑑を公開しました経済センサス活動調査のデータをもとに都道府県ごとの従業者数ラン/122133293493121431/",
+    "https://www.facebook.com/ecensus2026/photos/データで見るニッポンの産業図鑑日本の産業のすがたをデータでひもとくニッポンの産業図鑑本日は北海道東北エリアをご紹介しますあなたの住む都道府県の従業者数ランキング/122133559797121431/",
+    "https://www.facebook.com/stat.japan/photos/統計局からのお知らせ本日13時00分から統計ダッシュボードのアドレスurlが変わりました新httpsdashboarde-statgojp旧urlでアクセスいた/1505660842846741/",
+    "https://www.facebook.com/stat.japan/photos/総合報告書刊行について国民生活全般の実態を示す地域別の統計データを掲載した社会生活統計指標-ー都道府県の指標ー-2023と都道府県別の主な指標値に順位を付けた統/577370154427017/",
+    "https://www.facebook.com/stat.japan/posts/キッズすたっと探そう統計データに使い方動画を掲載小中学生向け統計データ検索サイトキッズすたっと探そう統計データに使い方を分かりやすく説明した動画を掲載しました是/2078323622247124/",
+    "https://www.facebook.com/stat.japan/photos/総合報告書刊行について都道府県別の主な指標値に順位を付けた統計でみる都道府県のすがた-2026を2月20日に刊行しました是非ご覧ください統計でみる都道府県のすが/1340887678075257/"
+   ]
+  },
+  {
+   "query": "e-Stat 中小企業実態基本調査 データベースの表の値（sid=0003286822・産業中分類×従業者規模の売上高・従業者数・選択肢の階級でなく値の行・4-40） note 社長",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&stat_infid=000031451227&layout=dataset&statdisp_id=0003317799",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&data=1&metadata=1&toukei=00553010&tstat=000001019842&stat_infid=000040470293",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00553010&tstat=000001019842&statdisp_id=0003286800",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001132003&tclass2=000001132004&tclass3val=0",
+    "https://www.e-stat.go.jp/index.php/dbview?sid=0003286822",
+    "https://www.e-stat.go.jp/stat-search/database?iroha=17&layout=dataset&toukei=00553010",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001156334&tclass2=000001156335&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&tstat=000001019842&cycle=7&metadata=1&data=1"
+   ]
+  },
+  {
+   "query": "e-Stat 中小企業実態基本調査 データベースの表の値（sid=0003286822・産業中分類×従業者規模の売上高・従業者数・選択肢の階級でなく値の行・4-40） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&stat_infid=000031451227&layout=dataset&statdisp_id=0003317799",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&data=1&metadata=1&toukei=00553010&tstat=000001019842&stat_infid=000040470293",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00553010&tstat=000001019842&statdisp_id=0003286800",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001132003&tclass2=000001132004&tclass3val=0",
+    "https://www.e-stat.go.jp/index.php/dbview?sid=0003286822",
+    "https://www.e-stat.go.jp/stat-search/database?iroha=17&layout=dataset&toukei=00553010",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001156334&tclass2=000001156335&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&tstat=000001019842&cycle=7&metadata=1&data=1"
+   ]
+  },
+  {
+   "query": "SME basic survey e-Stat database manufacturing sales employees by industry and employee size values site:linkedin.com",
+   "results": [
+    "https://business.linkedin.com/learn/resources/workplace-learning-report",
+    "https://www.linkedin.com/posts/saeed-talebi-52093216a_determining-the-ideal-number-of-staff-for-activity-7324042354468798464-C68_",
+    "https://www.linkedin.com/company/u-s-department-of-commerce",
+    "https://www.linkedin.com/posts/simongreenman_this-is-one-of-the-most-thought-provoking-activity-7472646237414985728-hY9k",
+    "https://www.linkedin.com/in/tech4construction",
+    "https://in.linkedin.com/company/onward-technologies",
+    "https://in.linkedin.com/company/ueducation",
+    "https://www.linkedin.com/in/emilioruocco",
+    "https://business.linkedin.com/",
+    "https://www.linkedin.com/in/andrewyng"
+   ]
+  }
+ ],
+ "missing": {
+  "人手と仕事の差": "記載なし（読んだ36頁・検索15回）"
+ }
+}

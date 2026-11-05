@@ -8,7 +8,7 @@
  ],
  "context": "一次情報の探し方",
  "kind": "market",
- "researched_at": "2026-11-05T11:30:04.763256+00:00",
+ "researched_at": "2026-11-05T16:00:38.666310+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -54,12 +54,7 @@
     "method": "http"
    },
    {
-    "url": "https://shikiho.toyokeizai.net/news/0/34650",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nikkei.com/article/DGXZQOUA014930R01C26A0000000/",
+    "url": "https://www.bbc.com/japanese/articles/c4gl2994d71o",
     "status": "ok",
     "method": "http"
    },
@@ -74,6 +69,11 @@
     "method": "http"
    },
    {
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote_81-90.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.stat.go.jp/data/roudou/pdf/hndbk.pdf",
     "status": "ok",
     "method": "pdf"
@@ -84,7 +84,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "url": "https://www.soumu.go.jp/main_content/000608024.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -119,17 +119,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_employment-situation_211213.html",
+    "url": "https://www.jil.go.jp/institute/research/2014/123.html",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000928642.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -161,7 +161,7 @@
    {
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10043154/",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    }
   ]
  },
@@ -188,41 +188,41 @@
     "https://note.com/good_poppy696/n/nab4cdc77186d",
     "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
     "https://note.com/tnishimaki/n/ndbaaed8d02be",
-    "https://shikiho.toyokeizai.net/news/0/34650",
-    "https://www.youtube.com/watch?v=AX7nENl0h7s",
-    "https://www.nikkei.com/article/DGXZQOUA014930R01C26A0000000/",
+    "https://www.bbc.com/japanese/articles/c4gl2994d71o",
     "https://note.com/jyaga0716/n/n0aa7362ae7b7",
     "https://www.m2j.co.jp/market/report/50763",
-    "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf"
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote_81-90.html",
+    "https://www.nttdata-strategy.com/knowledge/column/archives/yamamoto/column/column_171002.html",
+    "https://www.pref.oita.jp/uploaded/life/119744_141193_misc.pdf"
    ]
   },
   {
    "query": "統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説 やり方",
    "results": [
+    "https://www.youtube.com/watch?v=GEHY8yaF40c&vl=ja",
     "https://www.stat.go.jp/data/roudou/pdf/hndbk.pdf",
     "https://www.mhlw.go.jp/toukei/list/43-1d.html",
-    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.soumu.go.jp/main_content/000608024.pdf",
     "https://www.nstac.go.jp/create/practice/",
     "https://www5.cao.go.jp/j-j/wp/wp-je06/06-00301.html",
     "https://www.asmarq.co.jp/column/column-cat/how_to/number_misalignment/",
-    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
-    "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_employment-situation_211213.html",
-    "https://www.nikkei.com/article/DGXZQOUA014930R01C26A0000000/",
+    "https://www.dlri.co.jp/report/dlri/654419.html",
+    "https://www.bbc.com/japanese/articles/c4gl2994d71o",
     "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf"
    ]
   },
   {
    "query": "統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説 事例",
    "results": [
+    "https://www.youtube.com/watch?v=GEHY8yaF40c&vl=ja",
     "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
     "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf",
-    "https://www.jstat.or.jp/toukei_y24/editinal_note/",
     "https://www.mhlw.go.jp/toukei/list/43-1d.html",
     "https://www5.cao.go.jp/j-j/wp/wp-je06/06-00301.html",
+    "https://www.jstat.or.jp/toukei_y24/editinal_note/",
     "https://www.nttdata-strategy.com/knowledge/column/archives/yamamoto/column/column_171002.html",
-    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
-    "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_employment-situation_211213.html",
-    "https://www.nikkei.com/article/DGXZQOUA014930R01C26A0000000/",
+    "https://www.jil.go.jp/institute/research/2014/123.html",
+    "https://www.bbc.com/japanese/articles/c4gl2994d71o",
     "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf"
    ]
   },
@@ -257,12 +257,12 @@
    "query": "site:x.com 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説",
    "results": [
     "https://x.com/nineKan821/status/2091011604200759444",
-    "https://x.com/rkakui/status/2114876378038538487",
     "https://x.com/DAKURAblog/status/2029919305320780283",
+    "https://x.com/rkakui/status/2114876378038538487",
     "https://x.com/hujimari/status/2028425278494818581",
     "https://x.com/kyookine/status/2095837126394871999",
-    "https://x.com/CIPHER1978/status/2108487235666661736",
-    "https://x.com/tsukamoto_ishin/status/2041784934847934824"
+    "https://x.com/Ai_Usuki/status/2071387731339694306",
+    "https://x.com/CIPHER1978/status/2108487235666661736"
    ]
   },
   {
@@ -300,7 +300,7 @@
     "https://www.nikkei.com/article/DGXMZO40444030U9A120C1MM8000/",
     "https://www.jstat.or.jp/toukei_y24/editinal_note/",
     "https://www.pictet.co.jp/investment-information/market/today/20251007.html",
-    "https://note.com/kamokita/n/nbaaffd43b076",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
     "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf"
    ]
   },
@@ -308,13 +308,13 @@
    "query": "統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説 X 投稿",
    "results": [
     "https://www.youtube.com/watch?v=-OVFNjM-8AU",
+    "https://www.reuters.com/jp/markets/japan/WPO4FDFF2BI6HDEFHHP4BHTNEA-2026-08-28/",
     "https://www.youtube.com/watch?v=64x-ixkbKBU",
-    "https://www.reuters.com/jp/business/RLPRQNYSTFNZ3HPBBJT6B457WQ-2026-05-11/",
     "https://www.bbc.com/japanese/articles/c4gl2994d71o",
     "https://www.m2j.co.jp/market/report/90495",
-    "https://www.dlri.co.jp/report/macro/495194.html",
     "https://www.stat.go.jp/data/seigo/roudou/index.html",
     "https://www.youtube.com/watch?v=AX7nENl0h7s",
+    "https://online.nikkei-cnbc.co.jp/vod/61276",
     "https://www.nikkei.com/article/DGXZQOGN030100T00C26A2000000/",
     "https://www.soumu.go.jp/main_content/000623516.pdf"
    ]
@@ -343,6 +343,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-05T11:30:04.763256+00:00"
 }

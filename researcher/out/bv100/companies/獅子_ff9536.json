@@ -1,0 +1,1185 @@
+{
+ "name": "獅子",
+ "aliases": [
+  "shishi"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T15:58:19.374327+00:00",
+ "official_url": "https://shishi-w.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2021年（令和3年）9月1日",
+    "url": "https://shishi-w.com/company/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1,000,000円",
+    "url": "https://shishi-w.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "100万円",
+    "url": "https://best100.v-tsushin.jp/company/shishi/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "100万円",
+    "url": "https://www.nishinihon-venture.com/company/shishi-w/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "2025年（令和7年）29名",
+    "url": "https://shishi-w.com/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "店舗マーケティング事業・LP制作事業・広告運用代行事業・自社メディア運用事業・CRM事業",
+    "url": "https://shishi-w.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "・WEBマーケティング事業 ・プラットフォーム事業",
+    "url": "https://best100.v-tsushin.jp/company/shishi/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "・WEBマーケティング事業 ・イマーシブ事業 ・D2C事業",
+    "url": "https://www.nishinihon-venture.com/company/shishi-w/",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要取引先銀行",
+    "value": "西日本シティ銀行 大名支店 りそな銀行 福岡支店 筑邦銀行 博多支店 福岡ひびき信用金庫 博多支店",
+    "url": "https://shishi-w.com/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "森本 雅也",
+    "url": "https://shishi-w.com/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "【本社】福岡県福岡市博多区東比恵4丁目3番8号 ミプラ東比恵7階 【大宮営業所】埼玉県さいたま市大宮区桜木町四丁目313 アバニティ桜木201号室",
+    "url": "https://best100.v-tsushin.jp/company/shishi/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "【本社】 福岡県福岡市博多区東比恵4丁目3番8号 ミプラ東比恵７階 【大宮営業所】 埼玉県さいたま市大宮区桜木町四丁目313 アバニティ桜木201号室",
+    "url": "https://www.nishinihon-venture.com/company/shishi-w/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "売上に直結する戦略的ブランディングを提供します",
+    "url": "https://shishi-w.com/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでの運用・制作実績を、お客様のリアルな声とともにご紹介",
+    "url": "https://shishi-w.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介｜株式会社獅子｜福岡に拠点を置くマーケティングや制作業務を行う会社",
+    "url": "https://shishi-w.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容、目的、将来像などのヒアリングを通じて、お客様のビジョンと私たちの知見を織り交ぜながら、誰も気づいていない潜在的なニーズや可能性を引き出します",
+    "url": "https://shishi-w.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介｜マーケティング戦略｜株式会社獅子｜福岡に拠点を置くマーケティングや制作業務を行う会社",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "売上とブランド力、どちらも譲らないLP戦略を立てましょう",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "反応の先にある“次の一手”まで設計し、広告の持続力と収益性を最大化します",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では、集客改善・収益向上を目的としたWebマーケティング全般を支援しています",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介｜ブランド構築支援｜株式会社獅子｜福岡に拠点を置くマーケティングや制作業務を行う会社",
+    "url": "https://shishi-w.com/service/branding/",
+    "pass": 1
+   },
+   {
+    "quote": "バズることだけを目的とせず、売上に直結する映像制作を実現します",
+    "url": "https://shishi-w.com/service/branding/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介｜市場創出ラボ｜株式会社獅子｜福岡に拠点を置くマーケティングや制作業務を行う会社",
+    "url": "https://shishi-w.com/service/market/",
+    "pass": 1
+   },
+   {
+    "quote": "越境ECと体験型の販売設計を組み合わせ、地域の貴重な資源をグローバルブランドに育成します",
+    "url": "https://shishi-w.com/service/market/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客のニーズや市場のトレンドを的確に捉える企画力を武器に、OEM受託会社と連携し、ゼロから商品開発を行います",
+    "url": "https://shishi-w.com/service/market/",
+    "pass": 1
+   },
+   {
+    "quote": "小規模販売や広告テストを通じて“市場の声”を数値化",
+    "url": "https://shishi-w.com/service/market/",
+    "pass": 1
+   },
+   {
+    "quote": "OEMメーカーとの連携を含めた、企画・製造への万全の体制を構築",
+    "url": "https://shishi-w.com/service/market/",
+    "pass": 1
+   },
+   {
+    "quote": "売上100億円、メンバー100人以上でグロース上場",
+    "url": "https://best100.v-tsushin.jp/company/shishi/",
+    "pass": 3
+   },
+   {
+    "quote": "売上・利益はもちろん上げ続けていくのですが、そこに人の幸せがついてこないと、やっている意味がないと思っています",
+    "url": "https://best100.v-tsushin.jp/company/shishi/",
+    "pass": 3
+   },
+   {
+    "quote": "売上100億円、メンバー100人以上でグロース上場",
+    "url": "https://www.nishinihon-venture.com/company/shishi-w/",
+    "pass": 3
+   },
+   {
+    "quote": "家庭用ソーラーパネルと蓄電池の施工、販売",
+    "url": "https://kkshishimaru.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "札幌市内で直営店を運営、展開しています",
+    "url": "https://kinjishimeat.com/company/",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "広告費に対する成果（ROAS）の最大化を見据え、クリエイティブ改善や導線設計、顧客管理（CRM）の活用など、成果につながる提案を行います",
+    "url": "https://shishi-w.com/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、クライアントを深く理解することから始め、その本質から、まったく新しい需要を見出します",
+    "url": "https://shishi-w.com/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの夢を、次なるステージへと着実に前進させていきます",
+    "url": "https://shishi-w.com/",
+    "pass": 1
+   },
+   {
+    "quote": "マーケティングで培ったノウハウを武器に、クライアントの独自性、すなわち「企業価値」を高めることが獅子のブランディングです",
+    "url": "https://shishi-w.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、クライアントを深く理解することから始め、その本質から、まったく新しい需要を見出します",
+    "url": "https://shishi-w.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの夢を、次なるステージへと着実に前進させていきます",
+    "url": "https://shishi-w.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "市場の競争から一歩引いた視点で、クライアントごとに独自の戦略を設計します",
+    "url": "https://shishi-w.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "コンテンツの制作から運用、さらにはブランディングを通じて、新規顧客の拡大からリピーターの定着まで伴走",
+    "url": "https://shishi-w.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "成果にこだわり続け、クライアントのために全力で走り抜けること",
+    "url": "https://shishi-w.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "獅子は、クライアントの中に眠る魅力や差別化のポイントを丁寧に整理し、顧客の心に届く“言葉”へと磨き上げます",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "獅子の広告運用は、クライアントのROAS（広告費用対効果）の最大化とブランドの価値向上を実現します",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "スピードとクオリティを両立し、狙った市場でクライアントを“勝たせる”仕組みをつくります",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー心理を読み解き、適切なSNSプラットフォームを選択した上で、これまでに届いていない顧客層へもアプローチ",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "獅子のCRM（顧客管理）施策は、広告の反応からユーザーの理解を深め、より効果的で精度の高い広告を打つことができます",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "一度きりの反応で終わる広告ではなく、テストを重ねて見込み顧客を資産化",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "エステティックサロン「エステティックミス・パリ」や男性向けエステ「ダンディハウス」などを展開する美容・健康関連の大手企業",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "ご相談時の課題は、新規顧客の獲得における伸び悩み",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "新規顧客獲得数1100件/月以上",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "新たな顧客層の開拓と、質の高いユーザー獲得を実現しています",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "新規顧客獲得数が500件/月増加",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "新規顧客獲得の難しさ、来店率の低さに悩まれていたK社様",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "すると、新規の顧客層も獲得することができました",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "新規顧客獲得数が800件/月増加",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "新規の顧客獲得の伸び悩みが課題だったS社様",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "その施策が功を奏し、⻑期にわたって安定的な顧客獲得につなげることができました",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "CPA（顧客獲得単価）30%ダウン",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "マーケティングで培ったノウハウを武器に、クライアントの独自性、すなわち「企業価値」を高めることが、獅子のブランディングです",
+    "url": "https://shishi-w.com/service/branding/",
+    "pass": 1
+   },
+   {
+    "quote": "社内一貫体制で、クライアントのリソースを使わず、スピード感と品質を両立した動画制作を実現します",
+    "url": "https://shishi-w.com/service/branding/",
+    "pass": 1
+   },
+   {
+    "quote": "スペックだけでは伝え切れない価値を、クライアントごとの物語に仕立てて発信します",
+    "url": "https://shishi-w.com/service/branding/",
+    "pass": 1
+   },
+   {
+    "quote": "ショートドラマ単体での再生数獲得はもちろん、 SNS広告と連携することでCPA（顧客獲得単価）を下げ、CV（成果）数を増やす仕組みまでを設計",
+    "url": "https://shishi-w.com/service/branding/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの世界観にフィットする音を、確かな品質でお届けします",
+    "url": "https://shishi-w.com/service/branding/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客のニーズや市場のトレンドを的確に捉える企画力を武器に、OEM受託会社と連携し、ゼロから商品開発を行います",
+    "url": "https://shishi-w.com/service/market/",
+    "pass": 1
+   },
+   {
+    "quote": "OEMメーカーとの連携を含めた、企画・製造への万全の体制を構築",
+    "url": "https://shishi-w.com/service/market/",
+    "pass": 1
+   },
+   {
+    "quote": "競合と戦わずに、クライアントの新たな需要を創出することを得意としております",
+    "url": "https://best100.v-tsushin.jp/company/shishi/",
+    "pass": 3
+   },
+   {
+    "quote": "主に店舗・人材・不動産領域を中心に支援しております",
+    "url": "https://best100.v-tsushin.jp/company/shishi/",
+    "pass": 3
+   },
+   {
+    "quote": "今後も、競合と戦わず市場を創る“ブルーオーシャン戦略”で、クライアントの持続的な成長と利益最大化を実現しています",
+    "url": "https://best100.v-tsushin.jp/company/shishi/",
+    "pass": 3
+   },
+   {
+    "quote": "Webマーケティングを主軸に、自社商品を含めた事業の連続展開、そこで得たノウハウは隠すことなく、クライアントに移植して貢献していきます",
+    "url": "https://best100.v-tsushin.jp/company/shishi/",
+    "pass": 3
+   },
+   {
+    "quote": "競合と戦わずに、クライアントの新たな需要を創出することを得意としております",
+    "url": "https://www.nishinihon-venture.com/company/shishi-w/",
+    "pass": 3
+   },
+   {
+    "quote": "主に店舗・人材・不動産領域を中心に支援しております",
+    "url": "https://www.nishinihon-venture.com/company/shishi-w/",
+    "pass": 3
+   },
+   {
+    "quote": "今後も、競合と戦わず市場を創る“ブルーオーシャン戦略\"で、クライアントの持続的な成長と利益最大化を実現しています",
+    "url": "https://www.nishinihon-venture.com/company/shishi-w/",
+    "pass": 3
+   },
+   {
+    "quote": "Webマーケティングを主軸に、自社商品を含めた事業の連続展開、そこで得たノウハウは隠すことなく、クライアントに移植して貢献していきます",
+    "url": "https://www.nishinihon-venture.com/company/shishi-w/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例｜「サポート型」クラウド勤怠管理システム「勤労の獅子」",
+    "url": "https://kinrou44.jp/casestudy/",
+    "pass": 3
+   },
+   {
+    "quote": "勤労の獅子 導入事例の記事一覧 - BOXIL Magazine（ボクシル マガジン）",
+    "url": "https://boxil.jp/mag/tags/cases/services/2883/",
+    "pass": 3
+   },
+   {
+    "quote": "勤労の獅子導入事例：株式会社アントステラ様 勤怠修正や有休申請のミスによる再集計件数が3分の1に",
+    "url": "https://boxil.jp/mag/tags/cases/services/2883/",
+    "pass": 3
+   },
+   {
+    "quote": "勤労の獅子導入事例：株式会社ボックス・ワン様 「勤労の獅子」で叶える柔軟な勤怠管理",
+    "url": "https://boxil.jp/mag/tags/cases/services/2883/",
+    "pass": 3
+   },
+   {
+    "quote": "勤労の獅子導入事例：株式会社長沼様 労働時間の見える化によって勤怠への意識が向上",
+    "url": "https://boxil.jp/mag/tags/cases/services/2883/",
+    "pass": 3
+   },
+   {
+    "quote": "勤労の獅子 導入事例 締め作業が1週間から最短1日に、残業も月15時間削減",
+    "url": "https://boxil.jp/mag/tags/cases/services/2883/",
+    "pass": 3
+   },
+   {
+    "quote": "「勤労の獅子」導入事例掲載のお知らせ（株式会社オーラ 様） ｜エス・エー・エス株式会社",
+    "url": "https://sas-com.com/news/newsrelease/001394.html",
+    "pass": 3
+   },
+   {
+    "quote": "「勤労の獅子」導入事例掲載のお知らせ（株式会社オーラ 様）",
+    "url": "https://sas-com.com/news/newsrelease/001394.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社が提供している勤怠管理システム「勤労の獅子」のお客様導入事例に、新たに「株式会社オーラ 様」の導入事例を掲載いたしました",
+    "url": "https://sas-com.com/news/newsrelease/001394.html",
+    "pass": 3
+   },
+   {
+    "quote": "私たちフィーストは、外食・飲食店ビジネスを",
+    "url": "https://kinjishimeat.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "飲食店の経営、イベント・催事への出展 etc",
+    "url": "https://kinjishimeat.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "そのどちらをとっても、本来寺山戯曲が持っていた凶暴なエネルギーが無害化され、観客は劇場という安全地帯から「",
+    "url": "https://note.com/hal_sakurai/n/na4d1b4969958",
+    "pass": 3
+   }
+  ],
+  "選出の記録": [
+   {
+    "quote": "【2026年度】ベストベンチャーWEST100に選出✨",
+    "url": "https://shishi-w.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【2026年度】ベストベンチャー100に選出✨",
+    "url": "https://shishi-w.com/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社獅子 森本 雅也 | ベストベンチャー100",
+    "url": "https://best100.v-tsushin.jp/company/shishi/",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "エステティックサロン「エステティックミス・パリ」や男性向けエステ「ダンディハウス」などを展開する美容・健康関連の大手企業",
+    "url": "https://shishi-w.com/service/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトへの掲載は、法人向けに提供している有料会員サービスの1つです",
+    "url": "https://www.nishinihon-venture.com/company/shishi-w/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "売上100億円、メンバー100人以上でグロース上場",
+    "url": "https://best100.v-tsushin.jp/company/shishi/",
+    "pass": 3
+   },
+   {
+    "quote": "5年以内に上場予定",
+    "url": "https://best100.v-tsushin.jp/company/shishi/",
+    "pass": 3
+   },
+   {
+    "quote": "売上100億円、メンバー100人以上でグロース上場",
+    "url": "https://www.nishinihon-venture.com/company/shishi-w/",
+    "pass": 3
+   },
+   {
+    "quote": "5年以内に上場予定",
+    "url": "https://www.nishinihon-venture.com/company/shishi-w/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式 会社獅子 森本 雅也 - ベストベンチャー100 — 株式 会社獅子 森本 雅也 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > shishi",
+    "url": "https://best100.v-tsushin.jp/company/shishi/",
+    "pass": 3
+   },
+   {
+    "quote": "福岡に拠点を置くマーケティングや制作業務を行う 会社 — 福岡に拠点を置くマーケティングや制作業務を行う 会社 株式会社獅子 https://shishi-w.com > company",
+    "url": "https://shishi-w.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社獅子 - ベストベンチャーWEST100 — 株式 会社獅子 - ベストベンチャーWEST100 ベストベンチャーWEST100 https://www.nishinihon-venture.com > company > shishi-w",
+    "url": "https://www.nishinihon-venture.com/company/shishi-w/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社獅子 の転職・企業 概要 − 転職ならdoda（デューダ） — 株式 会社獅子 の転職・企業 概要 − 転職ならdoda（デューダ） doda https://doda.jp > View > Company > j_id__10214380598",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10214380598/",
+    "pass": 3
+   },
+   {
+    "quote": "獅子 「社員クチコミ」 就職・転職の採用企業 ... - OpenWork — 獅子 「社員クチコミ」 就職・転職の採用企業 ... - OpenWork OpenWork https://www.openwork.jp > インターネット",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C2x00000aJSQJ",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 獅子 森本 雅也 - ベストベンチャー100 — 株式会社 獅子 森本 雅也 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > shishi",
+    "url": "https://best100.v-tsushin.jp/company/shishi/",
+    "pass": 3
+   },
+   {
+    "quote": "データで見る 獅子 ｜株式会社 獅子 ｜福岡に拠点を置く ... — データで見る 獅子 ｜株式会社 獅子 ｜福岡に拠点を置く ... 株式会社獅子 https://shishi-w.com > data",
+    "url": "https://shishi-w.com/data/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 獅子 - ベストベンチャーWEST100 — 株式会社 獅子 - ベストベンチャーWEST100 ベストベンチャーWEST100 https://www.nishinihon-venture.com > company > shishi-w",
+    "url": "https://www.nishinihon-venture.com/company/shishi-w/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 獅子 - 販売促進コンサルティング業界の会社の企業情報 — 株式会社 獅子 - 販売促進コンサルティング業界の会社の企業情報 Baseconnect https://baseconnect.in > companies",
+    "url": "https://baseconnect.in/companies/f75c4a22-3e09-4041-a5aa-54928ba18e80",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 獅子 の会社概要・求人情報【2026年時点】 - SalesNow — 株式会社 獅子 の会社概要・求人情報【2026年時点】 - SalesNow SalesNow https://salesnow.jp > トップ > 都道府県 > 福岡県",
+    "url": "https://salesnow.jp/db/companies/jcb42ykp1y51v9gg",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社白 獅子 - スピーダ スタートアップ情報リサーチ — 株式会社白 獅子 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-36352",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 ｜「サポート型」クラウド勤怠管理 ... - 勤労の 獅子 — 導入事例 ｜「サポート型」クラウド勤怠管理 ... - 勤労の 獅子 kinrou44.jp https://kinrou44.jp > casestudy",
+    "url": "https://kinrou44.jp/casestudy/",
+    "pass": 3
+   },
+   {
+    "quote": "勤労の 獅子 導入事例 の記事一覧 - BOXIL Magazine — 勤労の 獅子 導入事例 の記事一覧 - BOXIL Magazine BOXIL（ボクシル） https://boxil.jp > ... > 勤怠管理システムの導入事例",
+    "url": "https://boxil.jp/mag/tags/cases/services/2883/",
+    "pass": 3
+   },
+   {
+    "quote": "「勤労の 獅子 」 導入事例 掲載のお知らせ（株式会社オーラ 様） — 「勤労の 獅子 」 導入事例 掲載のお知らせ（株式会社オーラ 様） エス・エー・エス株式会社 https://sas-com.com > news > newsrelease",
+    "url": "https://sas-com.com/news/newsrelease/001394.html",
+    "pass": 3
+   },
+   {
+    "quote": "経費の 獅子 の 導入事例 一覧 - デジタル化の窓口 — 経費の 獅子 の 導入事例 一覧 - デジタル化の窓口 デジタル化の窓口 https://digi-mado.jp > 経費精算システム > 経費の獅子",
+    "url": "https://digi-mado.jp/products/8680b7dc-d5a2-4d11-9c7e-e06c83beb80e/cases/",
+    "pass": 3
+   },
+   {
+    "quote": "「勤労の 獅子 」 導入事例 掲載のお知らせ - 株式会社 セルート — 「勤労の 獅子 」 導入事例 掲載のお知らせ - 株式会社 セルート 株式会社 セルート https://www.saroute.co.jp > inf_doc > inf40020",
+    "url": "https://www.saroute.co.jp/inf_doc/inf40020.html",
+    "pass": 3
+   },
+   {
+    "quote": "福岡に拠点を置くマーケティングや制作業務を行う会社 — 福岡に拠点を置くマーケティングや制作業務を行う会社 株式会社獅子 https://shishi-w.com > company",
+    "url": "https://shishi-w.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 - 株式会社獅子丸 — 会社案内 - 株式会社獅子丸 株式会社獅子丸 https://kkshishimaru.jp > company",
+    "url": "https://kkshishimaru.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "COMPANY - 金獅子精肉店 — COMPANY - 金獅子精肉店 金獅子精肉店 https://kinjishimeat.com > company",
+    "url": "https://kinjishimeat.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "中国躍進企業のビジネスモデル もはや「眠れる 獅子 」ではない — 中国躍進企業のビジネスモデル もはや「眠れる 獅子 」ではない DIAMOND ハーバード・ビジネス・レビュー https://dhbr.diamond.jp > HBRセレクション",
+    "url": "https://dhbr.diamond.jp/articles/-/12267",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "寺山修司・幻のミュージカル『 獅子 THE LION-BEAT』 - note 寺山修司・幻のミュージカル『 獅子 THE LION-BEAT』 - note note https://note.com > エンタメ > 演劇・舞台",
+    "url": "https://note.com/super_sunny98/n/nba30b4a00c55",
+    "pass": 3
+   },
+   {
+    "quote": "失われた「テラヤマの猥雑さ」—ミュージカル『 獅子 』観劇録 失われた「テラヤマの猥雑さ」—ミュージカル『 獅子 』観劇録 note https://note.com > エンタメ > 演劇・舞台",
+    "url": "https://note.com/hal_sakurai/n/na4d1b4969958",
+    "pass": 3
+   },
+   {
+    "quote": "ミュージカル 「 獅子 THE LION-BEAT」 観劇レビュー 2026 ... ミュージカル 「 獅子 THE LION-BEAT」 観劇レビュー 2026 ... note https://note.com > エンタメ > 演劇・舞台",
+    "url": "https://note.com/ys17134526/n/n8b432ad58c87",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "寺山修司・幻のミュージカル『獅子 THE LION-BEAT』|勝者は敗者を作り出す（10/11更新）｜新佐倉ひなた/体験型エッセイ(文フリ東京43【せ-59】11/8参加)",
+    "url": "https://note.com/super_sunny98/n/nba30b4a00c55",
+    "pass": 3
+   },
+   {
+    "quote": "寺山修司・幻のミュージカル『獅子 THE LION-BEAT』|勝者は敗者を作り出す（10/11更新）",
+    "url": "https://note.com/super_sunny98/n/nba30b4a00c55",
+    "pass": 3
+   },
+   {
+    "quote": "新佐倉ひなた/体験型エッセイ(文フリ東京43【せ-59】11/8参加)",
+    "url": "https://note.com/super_sunny98/n/nba30b4a00c55",
+    "pass": 3
+   },
+   {
+    "quote": "舞台好きとして、寺山修司作品を観てみたい！",
+    "url": "https://note.com/super_sunny98/n/nba30b4a00c55",
+    "pass": 3
+   },
+   {
+    "quote": "詩人、歌人、劇作家、映画監督、脚本家、小説家、エッセイストであり、なにより",
+    "url": "https://note.com/super_sunny98/n/nba30b4a00c55",
+    "pass": 3
+   },
+   {
+    "quote": "アングラ演劇と呼ばれた実験的な作品を次々と発表した彼が亡くなってから、早40年以上が過ぎましたが、彼の名声は令和になった現代でも衰えることを知りません。",
+    "url": "https://note.com/super_sunny98/n/nba30b4a00c55",
+    "pass": 3
+   },
+   {
+    "quote": "曲がりなりにも舞台やミュージカルが好きで、ちょっとした一家言も持ち合わせる私は、この偉大なる彼の作品をいつか見たいと思っていました。",
+    "url": "https://note.com/super_sunny98/n/nba30b4a00c55",
+    "pass": 3
+   },
+   {
+    "quote": "そんな中、友人が「寺山修司って興味ある？」と誘ってくれたのが、今回観に行った",
+    "url": "https://note.com/super_sunny98/n/nba30b4a00c55",
+    "pass": 3
+   },
+   {
+    "quote": "失われた「テラヤマの猥雑さ」—ミュージカル『獅子』観劇録｜櫻井春寿 Hal Sakurai",
+    "url": "https://note.com/hal_sakurai/n/na4d1b4969958",
+    "pass": 3
+   },
+   {
+    "quote": "失われた「テラヤマの猥雑さ」—ミュージカル『獅子』観劇録",
+    "url": "https://note.com/hal_sakurai/n/na4d1b4969958",
+    "pass": 3
+   },
+   {
+    "quote": "1965年に新宿コマ劇場で1回だけ上演されたという、寺山修司の初期のミュージカル『獅子』。言葉を失う代わりにボクシングの才能を手に入れた男の物語が、令和のいま蘇るということで、演出家の視点から率直な感想を書いてみます。",
+    "url": "https://note.com/hal_sakurai/n/na4d1b4969958",
+    "pass": 3
+   },
+   {
+    "quote": "（内容的に批判的だと捉えられるかもですが、めちゃくちゃ考えさせられたから書こうと思ったのです。そして何よりこの作品を作られたすべてのクリエイター本当に作ってくださってありがとうございますの気持ちは言わずもがなめちゃくちゃあります！！）",
+    "url": "https://note.com/hal_sakurai/n/na4d1b4969958",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.bunkamura.co.jp/cocoon/lineup/shishithelionbeat/",
+    "url": "https://note.com/hal_sakurai/n/na4d1b4969958",
+    "pass": 3
+   },
+   {
+    "quote": "本作は、ゲーテの『ファウスト』をモチーフに、言葉を売って栄光を掴む青年の葛藤と孤独を描いた作品です。寺山修司は、この古典的な悪魔との契約という構造を、1965年の昭和の日本社会、特に新宿という街の風俗に見事に換骨奪胎してミュージカルとして創り上げました。",
+    "url": "https://note.com/hal_sakurai/n/na4d1b4969958",
+    "pass": 3
+   },
+   {
+    "quote": "結局ミュージカルってなんで歌うん？ を改めて考えさせられた",
+    "url": "https://note.com/hal_sakurai/n/na4d1b4969958",
+    "pass": 3
+   },
+   {
+    "quote": "普段からミュージカルの演出を手掛ける身として、ミュージカルという表現が持つダイナミズムや虚構性を引き出す力について、ずっと思考を巡らせています。ミュージカルにおいては“当たり前”な歌うこと、踊ることは、ある身体を拡張させ、観客を現実から遠ざけ、非日常の世界へ連れて行くための強力な装置です。",
+    "url": "https://note.com/hal_sakurai/n/na4d1b4969958",
+    "pass": 3
+   },
+   {
+    "quote": "ミュージカル 「獅子 THE LION-BEAT」 観劇レビュー 2026/10/11｜Yu_Se",
+    "url": "https://note.com/ys17134526/n/n8b432ad58c87",
+    "pass": 3
+   },
+   {
+    "quote": "ミュージカル 「獅子 THE LION-BEAT」 観劇レビュー 2026/10/11",
+    "url": "https://note.com/ys17134526/n/n8b432ad58c87",
+    "pass": 3
+   },
+   {
+    "quote": "写真引用元：ミュージカル『獅子 THE LION-BEAT』公式X（旧Twitter）",
+    "url": "https://note.com/ys17134526/n/n8b432ad58c87",
+    "pass": 3
+   },
+   {
+    "quote": "公演タイトル：ミュージカル「獅子 THE LION-BEAT」",
+    "url": "https://note.com/ys17134526/n/n8b432ad58c87",
+    "pass": 3
+   },
+   {
+    "quote": "企画・制作：Bunkamura Production 2026",
+    "url": "https://note.com/ys17134526/n/n8b432ad58c87",
+    "pass": 3
+   },
+   {
+    "quote": "出演：新原泰佑、北香那、田中俊介、勝矢、さとうこうじ、岡田義徳、田口トモロヲ、橋本さとし、希良々うみ、加藤翔多郎、片桐美穂、大平祐輝、佐藤匠、朝丘小百合、矢崎諒、植村理乃、加瀬友音、桑原あみ、渡来美友、藤井颯、渡邊気、紙谷昇世",
+    "url": "https://note.com/ys17134526/n/n8b432ad58c87",
+    "pass": 3
+   },
+   {
+    "quote": "期間：10/4〜10/20（東京）、11/7〜11/8（大阪）",
+    "url": "https://note.com/ys17134526/n/n8b432ad58c87",
+    "pass": 3
+   },
+   {
+    "quote": "上演時間：約2時間30分（途中休憩20分を含む）",
+    "url": "https://note.com/ys17134526/n/n8b432ad58c87",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ミュージカル『 獅子 THE LION-BEAT』 (@musical_shishi) / X ミュージカル『 獅子 THE LION-BEAT』 (@musical_shishi) / X X https://x.com > musical_shishi",
+    "url": "https://x.com/musical_shishi",
+    "pass": 3
+   },
+   {
+    "quote": "獅子 11/18  白川さん9巻発売  単行本累計120万部突破御礼 - X 獅子 11/18  白川さん9巻発売  単行本累計120万部突破御礼 - X X https://x.com > ...",
+    "url": "https://x.com/sisi0ccc",
+    "pass": 3
+   },
+   {
+    "quote": "獅子 志司 (@shishi_shishi_4) / X 獅子 志司 (@shishi_shishi_4) / X X https://x.com > shishi_shishi_4",
+    "url": "https://x.com/shishi_shishi_4",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、猿を「 獅子 」と呼称することがある。 その意味が ... 日本では、猿を「 獅子 」と呼称することがある。 その意味が ... X https://x.com > syakurou_photo > status",
+    "url": "https://x.com/syakurou_photo/status/2075880023651909987",
+    "pass": 3
+   },
+   {
+    "quote": "Nonbiri SHiSHi のんびり 獅子 on X : \" 投稿 Nonbiri SHiSHi のんびり 獅子 on X : \" 投稿 X https://x.com > @shishitoro123",
+    "url": "https://x.com/shishitoro123/status/2114361752414818463",
+    "pass": 3
+   },
+   {
+    "quote": "獅子 乃 (@si_si_no) / X 獅子 乃 (@si_si_no) / X X https://x.com > si_si_no",
+    "url": "https://x.com/si_si_no",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "獅子 原 大介 - -- | LinkedIn 獅子 原 大介 - -- | LinkedIn LinkedIn https://jp.linkedin.com > 大介-獅子原-223595391",
+    "url": "https://jp.linkedin.com/in/%E5%A4%A7%E4%BB%8B-%E7%8D%85%E5%AD%90%E5%8E%9F-223595391",
+    "pass": 3
+   },
+   {
+    "quote": "東 健太郎 - 取締役で株式会社 獅子 | 経営戦略、リーダーシップ 東 健太郎 - 取締役で株式会社 獅子 | 経営戦略、リーダーシップ LinkedIn https://jp.linkedin.com > 健太郎-東-6b160b35b",
+    "url": "https://jp.linkedin.com/in/%E5%81%A5%E5%A4%AA%E9%83%8E-%E6%9D%B1-6b160b35b",
+    "pass": 3
+   },
+   {
+    "quote": "ライオンズクラブインターナショナル香港・マカオ303区が ... ライオンズクラブインターナショナル香港・マカオ303区が ... LinkedIn https://jp.linkedin.com > pulse > 新聞稿獅子會服務精神...",
+    "url": "https://jp.linkedin.com/pulse/%E6%96%B0%E8%81%9E%E7%A8%BF%E7%8D%85%E5%AD%90%E6%9C%83%E6%9C%8D%E5%8B%99%E7%B2%BE%E7%A5%9E%E6%95%B8%E4%BD%8D%E5%8C%96%E5%9C%8B%E9%9A%9B%E7%8D%85%E5%AD%90%E6%9C%83%E4%B8%AD%E5%9C%8B%E6%B8%AF%E6%BE%B3-303-%E5%8D%80%E6%94%9C%E6%89%8B%E9%A6%99%E6%B8%AF%E6%96%87%E5%8C%96%E7%A7%91%E6%8A%80%E5%88%9D%E5%89%B5%E8%B3%9E%E9%81%8A%E7%A7%91%E6%8A%80%E6%8E%A8%E5%87%BAlion70%E9%A0%85%E7%9B%AE%E7%82%BA-2026-8ibic?tl=ja",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "沖縄のシーサー \"Shisas (guardian lions)\" in Okinawa 獅子 像を ... 沖縄のシーサー \"Shisas (guardian lions)\" in Okinawa 獅子 像を ... Facebook https://www.facebook.com > MOFAOkinawa > posts > 沖...",
+    "url": "https://www.facebook.com/MOFAOkinawa/posts/%E6%B2%96%E7%B8%84%E3%81%AE%E3%82%B7%E3%83%BC%E3%82%B5%E3%83%BC-shisas-guardian-lions-in-okinawa-%E7%8D%85%E5%AD%90%E5%83%8F%E3%82%92%E9%AD%94%E3%82%88%E3%81%91%E3%81%A8%E3%81%97%E3%81%A6%E7%A5%80%E3%82%8B%E7%BF%92%E4%BF%97%E3%81%AF%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%88%E5%9C%B0%E6%96%B9%E3%81%A7%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%9D%E3%81%AE%E5%BE%8C%E3%82%B7%E3%83%AB%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E3%82%92%E7%B5%8C%E3%81%A6%E4%B8%AD/1030892642565466/",
+    "pass": 3
+   },
+   {
+    "quote": "沖縄のシーサー \"Shisas (guardian lions)\" in Okinawa 獅子 像を ... 沖縄のシーサー \"Shisas (guardian lions)\" in Okinawa 獅子 像を ... Facebook https://www.facebook.com > MOFAOkinawa > posts > 沖...",
+    "url": "https://www.facebook.com/MOFAOkinawa/posts/%E6%B2%96%E7%B8%84%E3%81%AE%E3%82%B7%E3%83%BC%E3%82%B5%E3%83%BC-shisas-guardian-lions-in-okinawa-%E7%8D%85%E5%AD%90%E5%83%8F%E3%82%92%E9%AD%94%E3%82%88%E3%81%91%E3%81%A8%E3%81%97%E3%81%A6%E7%A5%80%E3%82%8B%E7%BF%92%E4%BF%97%E3%81%AF%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%88%E5%9C%B0%E6%96%B9%E3%81%A7%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%9D%E3%81%AE%E5%BE%8C%E3%82%B7%E3%83%AB%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E3%82%92%E7%B5%8C%E3%81%A6%E4%B8%AD/1074343904887006/",
+    "pass": 3
+   },
+   {
+    "quote": "What is the difference between ライオン and 獅子 in Japanese? What is the difference between ライオン and 獅子 in Japanese? Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/568276501123484/posts/1285716229379504/",
+    "pass": 3
+   },
+   {
+    "quote": "【飛騨高山に受け継がれる例祭｜金蔵 獅子 】 この獅子舞 【飛騨高山に受け継がれる例祭｜金蔵 獅子 】 この獅子舞 Facebook https://www.facebook.com > takayamakankou > posts",
+    "url": "https://www.facebook.com/takayamakankou/posts/%E9%A3%9B%E9%A8%A8%E9%AB%98%E5%B1%B1%E3%81%AB%E5%8F%97%E3%81%91%E7%B6%99%E3%81%8C%E3%82%8C%E3%82%8B%E4%BE%8B%E7%A5%AD%E9%87%91%E8%94%B5%E7%8D%85%E5%AD%90%E3%81%93%E3%81%AE%E7%8D%85%E5%AD%90%E8%88%9E%E5%AE%9F%E3%81%AF%E7%8D%85%E5%AD%90%E9%80%80%E6%B2%BB%E3%81%AE%E7%89%A9%E8%AA%9E%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%82%92%E3%81%94%E5%AD%98%E3%81%98%E3%81%A7%E3%81%99%E3%81%8B%E9%A3%9B%E9%A8%A8%E3%81%8B%E3%82%89%E8%B6%8A%E4%B8%AD%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E5%90%84%E5%9C%B0%E3%81%AB%E4%BC%9D%E6%89%BF%E3%81%95%E3%82%8C%E4%BE%8B%E7%A5%AD%E3%81%A7%E5%A5%89%E7%B4%8D%E3%81%95%E3%82%8C%E3%82%8B%E9%83%B7%E5%9C%9F%E8%8A%B8%E8%83%BD%E9%87%91%E8%94%B5%E7%8D%85%E5%AD%90%E7%89%A9%E8%AA%9E/1574457628050264/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://shishi-w.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shishi-w.com/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shishi-w.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shishi-w.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shishi-w.com/service/marketing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shishi-w.com/service/branding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shishi-w.com/service/market/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://best100.v-tsushin.jp/company/shishi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nishinihon-venture.com/company/shishi-w/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://best100.v-tsushin.jp/company/shishi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nishinihon-venture.com/company/shishi-w/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokaitokyo.co.jp/kantan/term/detail_1239.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-36352",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nishimura.com/sites/default/files/images/newsletter_220902_ma.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kinrou44.jp/casestudy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/mag/tags/cases/services/2883/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sas-com.com/news/newsrelease/001394.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kkshishimaru.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kinjishimeat.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/super_sunny98/n/nba30b4a00c55",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hal_sakurai/n/na4d1b4969958",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ys17134526/n/n8b432ad58c87",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/musical_shishi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sisi0ccc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shishi_shishi_4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/syakurou_photo/status/2075880023651909987",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E5%A4%A7%E4%BB%8B-%E7%8D%85%E5%AD%90%E5%8E%9F-223595391",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E5%81%A5%E5%A4%AA%E9%83%8E-%E6%9D%B1-6b160b35b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E6%96%B0%E8%81%9E%E7%A8%BF%E7%8D%85%E5%AD%90%E6%9C%83%E6%9C%8D%E5%8B%99%E7%B2%BE%E7%A5%9E%E6%95%B8%E4%BD%8D%E5%8C%96%E5%9C%8B%E9%9A%9B%E7%8D%85%E5%AD%90%E6%9C%83%E4%B8%AD%E5%9C%8B%E6%B8%AF%E6%BE%B3-303-%E5%8D%80%E6%94%9C%E6%89%8B%E9%A6%99%E6%B8%AF%E6%96%87%E5%8C%96%E7%A7%91%E6%8A%80%E5%88%9D%E5%89%B5%E8%B3%9E%E9%81%8A%E7%A7%91%E6%8A%80%E6%8E%A8%E5%87%BAlion70%E9%A0%85%E7%9B%AE%E7%82%BA-2026-8ibic?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MOFAOkinawa/posts/%E6%B2%96%E7%B8%84%E3%81%AE%E3%82%B7%E3%83%BC%E3%82%B5%E3%83%BC-shisas-guardian-lions-in-okinawa-%E7%8D%85%E5%AD%90%E5%83%8F%E3%82%92%E9%AD%94%E3%82%88%E3%81%91%E3%81%A8%E3%81%97%E3%81%A6%E7%A5%80%E3%82%8B%E7%BF%92%E4%BF%97%E3%81%AF%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%88%E5%9C%B0%E6%96%B9%E3%81%A7%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%9D%E3%81%AE%E5%BE%8C%E3%82%B7%E3%83%AB%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E3%82%92%E7%B5%8C%E3%81%A6%E4%B8%AD/1030892642565466/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MOFAOkinawa/posts/%E6%B2%96%E7%B8%84%E3%81%AE%E3%82%B7%E3%83%BC%E3%82%B5%E3%83%BC-shisas-guardian-lions-in-okinawa-%E7%8D%85%E5%AD%90%E5%83%8F%E3%82%92%E9%AD%94%E3%82%88%E3%81%91%E3%81%A8%E3%81%97%E3%81%A6%E7%A5%80%E3%82%8B%E7%BF%92%E4%BF%97%E3%81%AF%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%88%E5%9C%B0%E6%96%B9%E3%81%A7%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%9D%E3%81%AE%E5%BE%8C%E3%82%B7%E3%83%AB%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E3%82%92%E7%B5%8C%E3%81%A6%E4%B8%AD/1074343904887006/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/568276501123484/posts/1285716229379504/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/takayamakankou/posts/%E9%A3%9B%E9%A8%A8%E9%AB%98%E5%B1%B1%E3%81%AB%E5%8F%97%E3%81%91%E7%B6%99%E3%81%8C%E3%82%8C%E3%82%8B%E4%BE%8B%E7%A5%AD%E9%87%91%E8%94%B5%E7%8D%85%E5%AD%90%E3%81%93%E3%81%AE%E7%8D%85%E5%AD%90%E8%88%9E%E5%AE%9F%E3%81%AF%E7%8D%85%E5%AD%90%E9%80%80%E6%B2%BB%E3%81%AE%E7%89%A9%E8%AA%9E%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%82%92%E3%81%94%E5%AD%98%E3%81%98%E3%81%A7%E3%81%99%E3%81%8B%E9%A3%9B%E9%A8%A8%E3%81%8B%E3%82%89%E8%B6%8A%E4%B8%AD%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E5%90%84%E5%9C%B0%E3%81%AB%E4%BC%9D%E6%89%BF%E3%81%95%E3%82%8C%E4%BE%8B%E7%A5%AD%E3%81%A7%E5%A5%89%E7%B4%8D%E3%81%95%E3%82%8C%E3%82%8B%E9%83%B7%E5%9C%9F%E8%8A%B8%E8%83%BD%E9%87%91%E8%94%B5%E7%8D%85%E5%AD%90%E7%89%A9%E8%AA%9E/1574457628050264/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shishitoro123/status/2114361752414818463",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/si_si_no",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "獅子 会社概要 資本金 設立",
+   "results": [
+    "https://best100.v-tsushin.jp/company/shishi/",
+    "https://shishi-w.com/company/",
+    "https://www.nishinihon-venture.com/company/shishi-w/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10214380598/",
+    "https://www.openwork.jp/company.php?m_id=a0C2x00000aJSQJ",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4290001094538",
+    "https://employment.en-japan.com/comp-118999/",
+    "https://www.openwork.jp/a0C1000000vBG8S/compa/a0C2x00000aJSQJ/",
+    "https://kkshishimaru.jp/company/",
+    "https://601.lion-heart.jp/company/"
+   ]
+  },
+  {
+   "query": "獅子 事業内容 売上",
+   "results": [
+    "https://best100.v-tsushin.jp/company/shishi/",
+    "https://shishi-w.com/data/",
+    "https://www.nishinihon-venture.com/company/shishi-w/",
+    "https://baseconnect.in/companies/f75c4a22-3e09-4041-a5aa-54928ba18e80",
+    "https://salesnow.jp/db/companies/jcb42ykp1y51v9gg",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3015898817/",
+    "https://en-gage.net/shishi-w_saiyo/",
+    "https://www.openwork.jp/a0C2x00000aJSQJ/compa/a0910000000Fr7M/",
+    "https://www.lion.co.jp/ja/ir/pdf/library/outline/t2026.pdf",
+    "https://jobhakase.com/archives/235000"
+   ]
+  },
+  {
+   "query": "獅子 資金調達 株主",
+   "results": [
+    "https://www.tokaitokyo.co.jp/kantan/term/detail_1239.html",
+    "https://initial.inc/companies/A-36352",
+    "https://www.nishimura.com/sites/default/files/images/newsletter_220902_ma.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000296.000027564.html",
+    "https://redcliff-inc.co.jp/pressrelease/series-b/",
+    "https://president.jp/articles/-/389?page=1",
+    "https://www.youtube.com/watch?v=kdpD3HPGBQI",
+    "https://prtimes.jp/main/html/rd/p/000000033.000165558.html",
+    "https://www.jpx.co.jp/markets/statistics-equities/misc/06.html",
+    "https://www.indb.co.jp/insight/finance_2608_thirdparty/"
+   ]
+  },
+  {
+   "query": "獅子 導入事例",
+   "results": [
+    "https://kinrou44.jp/casestudy/",
+    "https://boxil.jp/mag/tags/cases/services/2883/",
+    "https://sas-com.com/news/newsrelease/001394.html",
+    "https://digi-mado.jp/products/8680b7dc-d5a2-4d11-9c7e-e06c83beb80e/cases/",
+    "https://www.saroute.co.jp/inf_doc/inf40020.html",
+    "https://www.itreview.jp/products/kinronoshishi/profile",
+    "https://kinrou44.jp/casestudy/001161.html",
+    "https://boxil.jp/mag/a10906/",
+    "https://info.kinrou44.jp/dl_caseall_",
+    "https://digi-mado.jp/products/aa7e097a-3019-4f7d-916e-8b538129ed26/cases/872a23e5-11bb-4bbc-977b-b4d281083820/"
+   ]
+  },
+  {
+   "query": "獅子 主要取引先",
+   "results": [
+    "https://shishi-w.com/company/",
+    "https://kkshishimaru.jp/company/",
+    "https://kinjishimeat.com/company/",
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3",
+    "https://dhbr.diamond.jp/articles/-/12267",
+    "http://kinjishi-f.com/abouts",
+    "https://www.inoue-steel.co.jp/company.php",
+    "https://www.youtube.com/watch?v=R9kcymwm-ZU",
+    "https://n-cima.co.jp/company/customers",
+    "https://www.tose.co.jp/company/customer.html"
+   ]
+  },
+  {
+   "query": "site:note.com 獅子",
+   "results": [
+    "https://note.com/super_sunny98/n/nba30b4a00c55",
+    "https://note.com/hal_sakurai/n/na4d1b4969958",
+    "https://note.com/ys17134526/n/n8b432ad58c87",
+    "https://note.com/angelofmusic1997/n/nb9f3c5746660",
+    "https://note.com/freespace777/n/na416726de0d1",
+    "https://note.com/shishishino5",
+    "https://note.com/onoteru/n/n5576d84b37eb",
+    "https://note.com/norimizu/n/nafb3642c61d2",
+    "https://note.com/katana_case_shi/n/nef1c344dc542",
+    "https://note.com/azisai03/n/ndef9f344e2c0"
+   ]
+  },
+  {
+   "query": "site:x.com 獅子",
+   "results": [
+    "https://x.com/musical_shishi",
+    "https://x.com/sisi0ccc",
+    "https://x.com/shishi_shishi_4",
+    "https://x.com/syakurou_photo/status/2075880023651909987",
+    "https://x.com/musical_shishi/status/2117940822373212433",
+    "https://x.com/T__Niihara/status/2059840911983677498",
+    "https://x.com/musical_shishi/status/2059832150544003233",
+    "https://x.com/jibie98",
+    "https://x.com/musical_shishi/status/2101484832081813524/video/1",
+    "https://jf.x.com/images/media-preview/2114701839212191876"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 獅子",
+   "results": [
+    "https://jp.linkedin.com/posts/babakrezvani_x%E6%97%A7twitter%E3%81%8C%E3%82%A4%E3%83%A9%E3%83%B3%E3%81%AE%E5%9B%BD%E6%97%97%E7%B5%B5%E6%96%87%E5%AD%97%E3%82%92%E6%AD%B4%E5%8F%B2%E7%9A%84%E3%81%AA%E7%8D%85%E5%AD%90%E3%81%A8%E5%A4%AA%E9%99%BD%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%9C%E3%83%AB%E3%81%AB%E5%A4%89%E6%9B%B4-activity-7415574922074263552-mXwA",
+    "https://jp.linkedin.com/in/%E5%A4%A7%E4%BB%8B-%E7%8D%85%E5%AD%90%E5%8E%9F-223595391",
+    "https://jp.linkedin.com/in/%E5%81%A5%E5%A4%AA%E9%83%8E-%E6%9D%B1-6b160b35b",
+    "https://jp.linkedin.com/pulse/%E6%96%B0%E8%81%9E%E7%A8%BF%E7%8D%85%E5%AD%90%E6%9C%83%E6%9C%8D%E5%8B%99%E7%B2%BE%E7%A5%9E%E6%95%B8%E4%BD%8D%E5%8C%96%E5%9C%8B%E9%9A%9B%E7%8D%85%E5%AD%90%E6%9C%83%E4%B8%AD%E5%9C%8B%E6%B8%AF%E6%BE%B3-303-%E5%8D%80%E6%94%9C%E6%89%8B%E9%A6%99%E6%B8%AF%E6%96%87%E5%8C%96%E7%A7%91%E6%8A%80%E5%88%9D%E5%89%B5%E8%B3%9E%E9%81%8A%E7%A7%91%E6%8A%80%E6%8E%A8%E5%87%BAlion70%E9%A0%85%E7%9B%AE%E7%82%BA-2026-8ibic?tl=ja",
+    "https://www.linkedin.com/posts/baodao-talk-online-mandarin-learning_44-stone-lions-tongue-twister-challenge-activity-7305081175071498241-OpG-",
+    "https://www.linkedin.com/posts/publicis-groupe-japan_publicisgroupejapan-pgj-%E3%83%94%E3%83%A5%E3%83%96%E3%83%AA%E3%82%B7%E3%82%B9%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3-activity-7387423893617233921-vv17",
+    "https://jp.linkedin.com/in/%E7%99%BD%E7%8D%85%E5%AD%90%EF%BC%8F%E6%98%A5%E5%90%8D-%E7%BE%A9%E4%B9%8B-4a309550",
+    "https://hk.linkedin.com/in/wong-cheuk-yin-b2439b92",
+    "https://my.linkedin.com/in/reinashishikura",
+    "https://jp.linkedin.com/in/大介-獅子原-223595391"
+   ]
+  },
+  {
+   "query": "site:facebook.com 獅子",
+   "results": [
+    "https://www.facebook.com/MOFAOkinawa/posts/%E6%B2%96%E7%B8%84%E3%81%AE%E3%82%B7%E3%83%BC%E3%82%B5%E3%83%BC-shisas-guardian-lions-in-okinawa-%E7%8D%85%E5%AD%90%E5%83%8F%E3%82%92%E9%AD%94%E3%82%88%E3%81%91%E3%81%A8%E3%81%97%E3%81%A6%E7%A5%80%E3%82%8B%E7%BF%92%E4%BF%97%E3%81%AF%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%88%E5%9C%B0%E6%96%B9%E3%81%A7%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%9D%E3%81%AE%E5%BE%8C%E3%82%B7%E3%83%AB%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E3%82%92%E7%B5%8C%E3%81%A6%E4%B8%AD/1030892642565466/",
+    "https://www.facebook.com/MOFAOkinawa/posts/%E6%B2%96%E7%B8%84%E3%81%AE%E3%82%B7%E3%83%BC%E3%82%B5%E3%83%BC-shisas-guardian-lions-in-okinawa-%E7%8D%85%E5%AD%90%E5%83%8F%E3%82%92%E9%AD%94%E3%82%88%E3%81%91%E3%81%A8%E3%81%97%E3%81%A6%E7%A5%80%E3%82%8B%E7%BF%92%E4%BF%97%E3%81%AF%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%88%E5%9C%B0%E6%96%B9%E3%81%A7%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%9D%E3%81%AE%E5%BE%8C%E3%82%B7%E3%83%AB%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E3%82%92%E7%B5%8C%E3%81%A6%E4%B8%AD/1074343904887006/",
+    "https://www.facebook.com/groups/568276501123484/posts/1285716229379504/",
+    "https://www.facebook.com/takayamakankou/posts/%E9%A3%9B%E9%A8%A8%E9%AB%98%E5%B1%B1%E3%81%AB%E5%8F%97%E3%81%91%E7%B6%99%E3%81%8C%E3%82%8C%E3%82%8B%E4%BE%8B%E7%A5%AD%E9%87%91%E8%94%B5%E7%8D%85%E5%AD%90%E3%81%93%E3%81%AE%E7%8D%85%E5%AD%90%E8%88%9E%E5%AE%9F%E3%81%AF%E7%8D%85%E5%AD%90%E9%80%80%E6%B2%BB%E3%81%AE%E7%89%A9%E8%AA%9E%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%82%92%E3%81%94%E5%AD%98%E3%81%98%E3%81%A7%E3%81%99%E3%81%8B%E9%A3%9B%E9%A8%A8%E3%81%8B%E3%82%89%E8%B6%8A%E4%B8%AD%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E5%90%84%E5%9C%B0%E3%81%AB%E4%BC%9D%E6%89%BF%E3%81%95%E3%82%8C%E4%BE%8B%E7%A5%AD%E3%81%A7%E5%A5%89%E7%B4%8D%E3%81%95%E3%82%8C%E3%82%8B%E9%83%B7%E5%9C%9F%E8%8A%B8%E8%83%BD%E9%87%91%E8%94%B5%E7%8D%85%E5%AD%90%E7%89%A9%E8%AA%9E/1574457628050264/",
+    "https://www.facebook.com/city.ishigaki/posts/%E7%8D%85%E5%AD%90%E7%A5%80%E3%82%8A%E6%97%A7%E7%9B%86%E6%98%8E%E3%81%91%E3%81%AE%E4%BC%9D%E7%B5%B1%E8%A1%8C%E4%BA%8B%E7%8D%85%E5%AD%90%E7%A5%80%E3%82%8A%E3%81%8C%E5%AD%97%E7%99%BB%E9%87%8E%E5%9F%8E%E3%81%A7%E5%9F%B7%E3%82%8A%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E5%8B%87%E5%A3%AE%E3%81%AA%E7%8D%85%E5%AD%90%E8%88%9E%E3%81%8C%E5%A5%89%E7%B4%8D%E3%81%95%E3%82%8C%E9%82%AA%E6%B0%97%E3%82%92%E7%A5%93%E3%81%86%E3%81%A8%E3%81%A8%E3%82%82%E3%81%AB%E4%BD%8F%E6%B0%91%E3%81%AE%E7%84%A1%E7%97%85%E6%81%AF%E7%81%BD%E3%81%8C%E7%A5%88%E9%A1%98%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%81%BE%E3%81%9F%E7%8D%85%E5%AD%90%E3%81%AB%E9%A0%AD%E3%82%92%E5%99%9B%E3%82%93%E3%81%A7%E3%82%82%E3%82%89%E3%81%86%E3%81%93/1198195285674780/",
+    "https://www.facebook.com/nmmba.tw/posts/welcome-to-nmmba-english-class-%E7%9B%B8%E4%BF%A1%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%9F%A5%E9%81%93-%E7%8D%85%E5%AD%90-%E7%9A%84%E8%8B%B1%E6%96%87%E6%98%AFlion%E9%82%A3%E9%BA%BC%E6%B5%B7%E4%B8%AD%E7%9A%84%E7%8D%85%E5%AD%90%E7%8D%85%E5%AD%90%E9%AD%9A%E9%9B%A3%E4%B8%8D%E6%88%90%E6%98%AFlionfish%E5%97%8E%E6%B2%92%E9%8C%AF%E5%B0%B1%E6%98%AF%E9%80%99%E9%BA%BC%E7%B0%A1/882202860611244/",
+    "https://www.facebook.com/media/set/?vanity=akimasa.kawano&set=a.1446339688821760",
+    "https://www.facebook.com/lions6688/",
+    "https://www.facebook.com/LionsClubsStory/",
+    "https://secure.facebook.com/login/"
+   ]
+  },
+  {
+   "query": "獅子 note 社長",
+   "results": [
+    "https://note.com/shishi_maiko223/n/n6d25ffee2b04",
+    "https://note.com/sadaaki",
+    "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E8%B2%9E%E9%A1%95",
+    "https://x.com/sadaaki",
+    "https://note.com/shishishino5",
+    "https://note.com/true_key_cla/m/mb16cae811b0a/hashtag/note",
+    "https://note.com/insight_2007/n/n7dde158a1207",
+    "https://note.com/shift_tanges001",
+    "https://x.com/shishi_maiko223",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "獅子 X 投稿",
+   "results": [
+    "https://x.com/lions/photo",
+    "https://x.com/shishitoro123/status/2114361752414818463",
+    "https://www.pixiv.net/artworks/149182122",
+    "https://x.com/si_si_no",
+    "https://x.com/jibie98",
+    "https://souffle.life/column/hogaraka-sns-life/sns382-20260428/",
+    "https://x.com/suito0309/status/2103771560335269936",
+    "https://x.com/suito0309/status/2103426633491480930",
+    "https://x.com/antares_crane",
+    "https://x.com/mousouship/status/2113242718877225068"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部28頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部28頁・検索11回）"
+ }
+}

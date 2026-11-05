@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・63品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・66品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3811,3 +3811,201 @@
   - 「金型に使うガイドピンやパンチ、ブッシュといった部品を規格化し、寸法をミクロン単位で指定できるようにしたうえで短納期で届ける仕組みを築きました」（https://forwit.jp/column/die-and-mold/）
   - 「量産が読める型は安い国へ、立ち上げが難しい型や短納期が求められる型は日本へ、という棲み分けが統計の上にも表れています」（https://forwit.jp/column/die-and-mold/）
   - 「精度と納期、そして立ち上げの速さです」（https://forwit.jp/column/die-and-mold/）
+
+## e-Stat 中小企業実態基本調査 データベースの表の値（sid=0003286822・産業中分類×従業者規模の売上高・従業者数・選択肢の階級でなく値の行・4-40）（SME basic survey e-Stat database manufacturing sales employees by industry and employee size values）
+- 文脈：全体・規模別
+- 事業所数・社数：
+  - 「経済センサス‐活動調査の「売上(収入)金額」を基に、売上高の総和の目標精度(標準誤差率)を業種分類(産業大分類)・従業者規模区分ごとに(3)に示すとおり目標精度を設定して標本サイズを算出した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「従業者規模 : 法人企業(常用雇用者数5人以下、6～20人、21～49人、50人以上の4区分)、個人企業」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「目標精度は、公表する統計表の表章を考慮し、業種分類別・従業者規模区分別に概ね8%、産業中分類別に10％、産業中分類・従業者規模区分別に概ね15％と設定した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「なお、産業中分類・従業者規模区分の標本サイズが少なくとも30以上とした」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記「１．標本サイズ」の(2)により全体の標本サイズを算出し、次に調査票乙の目標精度を、業種分類別・従業者規模区分別に概ね10%、産業中分類別に15％、産業中分類・従業者規模区分別に概ね20％と設定し、標本サイズを算出した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「3.売上高及び営業費用 (1)産業別・従業者規模別表」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf）
+  - 「(1)産業別・従業者規模別表」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf）
+  - 「(5)産業別・従業者規模別表(大企業の子会社または関連会」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf）
+  - 「(6)産業別・従業者規模別表(大企業の子会社または関連会」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf）
+- 社員数・平均社員数：
+  - 「中小企業実態基本調査 確報統計表 １．会社全体の従業者数 産業別・売上高階級別表 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「１．会社全体の従業者数 産業別・売上高階級別表」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「法人企業統計調査附帯調査 四半期別GDP速報（1次速報）のための一部項目早期調査」（https://www.e-stat.go.jp/stat-search/database?toukei=00553010）
+  - 「資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「通信業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「インターネット附随サービス業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「新聞業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「出版業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「卸売業:資本金1億円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「小売業:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「駐車場業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「物品賃貸業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+- 受注金額・加工賃収入：
+  - 「中小企業実態基本調査 確報統計表 １．会社全体の従業者数 産業別・売上高階級別表 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「１．会社全体の従業者数 産業別・売上高階級別表」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「500万円以下」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「500万円超～1千万円」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「1千万円超～3千万円」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「3千万円超～5千万円」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「5千万円超～1億円」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「1億円超～5億円」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「5億円超～10億円」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「4/6 売上高階級」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「通信業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「インターネット附随サービス業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「新聞業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「出版業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+- 1人あたり・1社あたり金額：
+  - 「500万円以下」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「500万円超～1千万円」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「1千万円超～3千万円」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「3千万円超～5千万円」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「5千万円超～1億円」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「上記以外:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「小売業:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「駐車場業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「物品賃貸業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「宿泊業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+- 生産能力・設備：
+  - 「中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております」（https://www.e-stat.go.jp/stat-search/database?toukei=00553010）
+  - 「中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております」（https://www.e-stat.go.jp/stat-search/database?toukei=00553010&tstat=000001019842）
+  - 「中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております」（https://www.e-stat.go.jp/stat-search/database?toukei=00553010&tstat=000001019842&tclass1=000001124875）
+  - 「中小企業基本法の規定に基づいて、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するための新たな調査として、平成16年9月に初めて実施」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「5.設備投資 (3)産業別・資本金階級別表(法人企業)」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf）
+- 10年推移：
+  - 「2019-03-25 14:00」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「2016年度」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「2015年度」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「2019-03-25」（https://www.e-stat.go.jp/stat-search/database?toukei=00553010）
+  - 「2019-03」（https://www.e-stat.go.jp/stat-search/database?toukei=00553010）
+  - 「2019-03-25」（https://www.e-stat.go.jp/stat-search/database?toukei=00553010&tstat=000001019842）
+  - 「2019-03」（https://www.e-stat.go.jp/stat-search/database?toukei=00553010&tstat=000001019842）
+  - 「2019-03-25」（https://www.e-stat.go.jp/stat-search/database?toukei=00553010&tstat=000001019842&tclass1=000001124875）
+  - 「2019-03」（https://www.e-stat.go.jp/stat-search/database?toukei=00553010&tstat=000001019842&tclass1=000001124875）
+  - 「（2025年7月30日）」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+- 人手と仕事の差：記載なし（読んだ36頁・検索15回）
+
+## 工業統計 全国の産業別統計表（確報）従業者規模別 加工賃収入額・従業者数（県・市の概要PDFを除く・4-30・4-40）（census of manufactures national industry statistics by employee size processing fee revenue final report）
+- 文脈：全体・統計
+- 事業所数・社数：
+  - 「平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「1200 1．（２） ← 概要版1200 1．（２） ・「事業所数」を追加」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・「従業者規模区分」を10区分から６区分へ」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「２．（２） ・「事業所数」を追加」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・「従業者規模区分」を10区分から６区分へ変更」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「用地用水編1100 第１部 1． ・「事業所数」「事業所敷地面積」のみ表章」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「用地用水編2100 第２部 1． ・「事業所数」「淡水合計（工業用水道・上水道・井戸水・その他の淡水）」のみ表章」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「1120 １．（１） ② ← 産業編3110 ３． （１） ① ・「従業者規模区分」を表頭から表側へ」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「1220 １．（２） ② ← 産業編3220 ３．（２） ② ・「事業所数」を追加」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「用地用水編1300 第１部 ３． ・「事業所数」「事業所敷地面積」のみ表章」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「用地用水編2300 第２部 ３． ・「事業所数」「淡水合計（工業用水道・上水道・井戸水・その他の淡水）」のみ表章」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「1200 1．（２） → 概要版1200 1．（２） ・「事業所数」を追加」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「2200 ２．（２） → 産業別統計表2300 ２．（３） ・「事業所数」を追加」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「2．従業者規模別統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「事業所数、事業所敷地面積及び１日当たり水源別用水量」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+- 社員数・平均社員数：
+  - 「平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「6 従業者数」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+  - 「6 従業者数 （平成29年6月1日現在） （単位：人）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+  - 「【例】男：⑥７人 － ⑤２人 － ⑦１人 ＋ ⑧１人 ＝ ５人」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+  - 「女：⑥５人 － ⑤０人 － ⑦０人 ＋ ⑧１人 ＝ ６人」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+  - 「男女計： ５人 ＋ ６人 ＝ １１人」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+  - 「＜その 1＞「6 従業者数」の書き方が変わりました」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+  - 「1500 1．（５） ← 品目編1500 第１部 ５． ・集計対象を「従業者数10人以上の事業所」から「従業者数4人以上の事業所」に変更」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「1600 1．（６） ← 品目編1600 第１部 ６． ・集計対象を「従業者数10人以上の事業所」から「従業者数4人以上の事業所」に変更」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「産業編1210 1．（２） ① ・表中の「常用労働者」項目名を削除、 「従業者数合計」にかっこ書きで内訳を表記」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「1300 1．（３） ← 産業編1310 1．（３） ・表中の「常用労働者」項目名を削除、「従業者数合計」にかっこ書きで内訳を表記」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「2100 ２．（１） ← 概要版2100 ２．（１） ・「生産額（従業者30人以上）」追加」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「2200 ２．（２） ← 産業編2100 ２．（１） ・「常用労働者年間月平均数（従業者30人以上）」削除」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「但し、従業者30人以上の事業所に関する統計表の」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「ため、30人以上の３区分のみ表章」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+- 受注金額・加工賃収入：
+  - 「平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「「11 製造品在庫額、半製品、仕掛品の価額及び原材料、燃料の在庫額」、「12 製造品出荷額、在庫額等」、「13 12 のア、ウ、エの合計金額」」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+  - 「「10 製造品出荷額等」、「11 10 のア、イ、ウの合計金額」」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+  - 「300万円未満、300～1000万円を1000万円未満に集約」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「5千万円～1」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「億円を5千万円～3億円に変更」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「3～10億円、10～100億円、100億円以上を3億円以上に集約」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「2100 ２．（１） ← 概要版2100 ２．（１） ・「生産額（従業者30人以上）」追加」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・推計方法の変更 「４～９人の前年比」を使用する部分を「４～９人の1事業所当たり製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「2000 ２． ← 細分類別3000 ３． ・「生産額（従業者29人以下は出荷額）」、「有形固定資産投資総額（従業者30人以上）」を削除」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「3000 ３． ← 市区町村編2000 ２． ・「製造品出荷額等」のうち、「内その他収入額」削除」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・「生産額（従業者30人以上）」を追加」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・「生産額（従業者29人以下は出荷額）」、「有形固定資産投資総額（従業者30人以上）」を削除」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「（1）産業細分類別事業所数、従業者数、製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「（2）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+- 1人あたり・1社あたり金額：
+  - 「300万円未満、300～1000万円を1000万円未満に集約」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「5千万円～1」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「億円を5千万円～3億円に変更」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・推計方法の変更 「４～９人の前年比」を使用する部分を「４～９人の1事業所当たり製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「留意事項：○ 事業所数、従業者数については令和2(2020)年6月1日現在、現金給与総額、製造品出荷額等、付加価値額などの経理事項については平成31(2019)年1月～令和元(2019)年12月の実績により調査している」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：年次 （人） （百万円） （百万円） （百万円） （百万円）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「工業統計調査 確報 ２０２０年確報 産業編 2-04 【２．従業者規模別統計表】（１）従業者４人以上の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等） 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112）
+  - 「【２．従業者規模別統計表】（１）従業者４人以上の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額等）」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112）
+  - 「生産額(従業者30人以上） （百万円）」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112）
+  - 「１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1）
+  - 「１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 2 従業者規模別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1）
+  - 「１. 都道府県別、東京特別区・政令指定都市別統計表 （２）従業者３０人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、生産額及び付加価値額」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1）
+  - 「１. 都道府県別、東京特別区・政令指定都市別統計表 （３）従業者４～２９人の事業所に関する統計表（産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び粗付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1）
+- 生産能力・設備：
+  - 「「9 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額」、「10 有形固定資産（土地を除く ）」、」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+  - 「2000 ２． ← 概要版3000 ３． ・「有形固定資産投資総額」を削除」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「1100 1．（１） ← 産業編1100 1．（１） ・「有形固定資産額（年初現在高・年末現在高）」を産業別統計表の1200表へ」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「2000 ２． ← 細分類別3000 ３． ・「生産額（従業者29人以下は出荷額）」、「有形固定資産投資総額（従業者30人以上）」を削除」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・「有形固定資産年末現在高（従業者30人以上）」削除」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「3000 ３．（１） → 概要版2000 ２． ・「有形固定資産投資総額」を削除」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「1100 1．（１） → 産業別統計表1100 1．（１） ・「有形固定資産額（年初現在高・年末現在高）」を産業別統計表の1200表へ」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・「生産額（従業者29人以下は出荷額）」、「有形固定資産投資総額（従業者30人以上）」を削除」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「（産業中分類別の事業所数、在庫額、有形固定資産額） (3) Stati：２０２０年工業統計表 産業別統計表 2300」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「１. 都道府県別、東京特別区・政令指定都市別統計表 （２）従業者３０人以上の事業所に関する統計表 2 産業中分類別の事業所数、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1）
+  - 「【２．従業者規模別統計表】（３）従業者３０人以上の事業所に関する統計表（産業中分類別の事業所数、在庫額、有形固定資産額）」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1）
+  - 「１. 都道府県別、東京特別区・政令指定都市別統計表 （２）従業者３０人以上の事業所に関する統計表 2 産業中分類別の事業所数、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset）
+  - 「【２．従業者規模別統計表】（３）従業者３０人以上の事業所に関する統計表（産業中分類別の事業所数、在庫額、有形固定資産額）」（https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550010&layout=dataset）
+- 10年推移：
+  - 「<2021年実績> 以降」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<2020年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<2019年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<2018年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「平成30(2018)年」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<平成29(2017)年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「平成29(2017)年」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<平成28(2016)年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「平成27(2015)年」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「最終更新日：2022.12.26」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「・有形固定資産の「除却額」を「除却・売却による減少額」に名称変更」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・有形固定資産の「建設仮勘定（年間増減）」を「建設仮勘定（減少額）」に表示変更」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「仮勘定（増加額）」、「除却・売却による減少額」、「減価償却額」の計算式用アルファベットを変更」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・有形固定資産の「除却額」を「除却・売却による減少額」に変更」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+  - 「・有形固定資産の「建設仮勘定（年間増減）」を「建設仮勘定（減少額）」に変更」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf）
+- 人手と仕事の差：
+  - 「「9 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額」、「10 有形固定資産（土地を除く ）」、」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+  - 「「9 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額の合計金額」、」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf）
+- 検索結果の抜粋：
+  - 「工業統計 調査 確報 2020年 確報 産業 編 2-04 【2． 従業者 ... — 工業統計 調査 確報 2020年 確報 産業 編 2-04 【2． 従業者 ... 政府統計の総合窓口 https://www.e-stat.go.jp > index.php > stat-search > database」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112）
+  - 「2020年 確報 産業別統計表 ｜ 工業統計 調査 - 経済産業省 — 2020年 確報 産業別統計表 ｜ 工業統計 調査 - 経済産業省 経済産業省 https://www.meti.go.jp > tyo > result-2 > kakuho > sangyo」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html）
+  - 「平成29年 確報 産業別統計表 ｜ 工業統計 調査 - 経済産業省 — 平成29年 確報 産業別統計表 ｜ 工業統計 調査 - 経済産業省 経済産業省 https://www.meti.go.jp > tyo > result-2 > kakuho > sangyo」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/index.html）
+  - 「工業統計 調査 確報 2020年 確報 品目編 1-09 【2．賃 加工 ... — 工業統計 調査 確報 2020年 確報 品目編 1-09 【2．賃 加工 ... 政府統計の総合窓口 https://www.e-stat.go.jp > index.php > stat-search > database」（https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&page=1&statdisp_id=0003448106&tclass1=000001022790&tclass2=000001156946&tclass3val=0&toukei=00550010&toukei_kind=6&tstat=000001022686）
+  - 「工業統計 調査 確報 平成30年 確報 産業 編 2-01 【1． 産業別 ... — 工業統計 調査 確報 平成30年 確報 産業 編 2-01 【1． 産業別 ... 政府統計の総合窓口 https://www.e-stat.go.jp > stat-search > database」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「工業統計 調査 確報 2020年 確報 品目編 1 -09 【2．賃 加工 ... — 工業統計 調査 確報 2020年 確報 品目編 1 -09 【2．賃 加工 ... 政府統計の総合窓口 https://www.e-stat.go.jp > index.php > stat-search > database」（https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&page=1&statdisp_id=0003448106&tclass1=000001022790&tclass2=000001156946&tclass3val=0&toukei=00550010&toukei_kind=6&tstat=000001022686）
+  - 「工業統計 調査 確報 平成30年 確報 産業 編 2-01 【 1 ． 産業別 ... — 工業統計 調査 確報 平成30年 確報 産業 編 2-01 【 1 ． 産業別 ... 政府統計の総合窓口 https://www.e-stat.go.jp > stat-search > database > page=1」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「工業統計 調査 確報 平成29年 確報 産業 編 2-01 【1． 産業別 ... — 工業統計 調査 確報 平成29年 確報 産業 編 2-01 【1． 産業別 ... 政府統計の総合窓口 https://www.e-stat.go.jp > stat-search > database」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911）
+
+## 電気めっき業の事業所数・従業者数・加工賃収入額を工業統計の産業細分類で取り直す（syntaxpartners の写しでなく元へ・4-24）（electroplating industry establishments employees census of manufactures detailed industry Japan）
+- 文脈：めっき・統計
+- 事業所数・社数：記載なし（読んだ21頁・検索15回）
+- 社員数・平均社員数：記載なし（読んだ21頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ21頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ21頁・検索15回）
+- 生産能力・設備：記載なし（読んだ21頁・検索15回）
+- 10年推移：記載なし（読んだ21頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ21頁・検索15回）

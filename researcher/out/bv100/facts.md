@@ -1,4 +1,4 @@
-# ベストベンチャー100 選出企業（2016〜2026）— 事業内容・資本金・設立・株主（産業分類の材料）（事実のみ・127社）
+# ベストベンチャー100 選出企業（2016〜2026）— 事業内容・資本金・設立・株主（産業分類の材料）（事実のみ・129社）
 
 ## ALBONA
 - 公式URL：https://al-bo.io/（given）
@@ -7119,6 +7119,75 @@ REVZO虎ノ門4F Google Map（https://www.keywalker.co.jp/company/outline.html�
 - 主要取引先：記載なし（3回確認済み：公式7頁／PDF・画像1件／外部26頁・検索11回）
 - 資本金・株主：記載なし（3回確認済み：公式7頁／PDF・画像1件／外部26頁・検索11回）
 
+## 東晶貿易
+- 公式URL：https://www.tosho-trading.co.jp/contents/（given）
+- 事業内容：・"人々の心と生活を豊かにする"ことを目指す情報総合メディア 『 WeSmart 』 ・業界最大級の不動産一括査定メディア 『 不動産プラザ 』 ・300社超掲載の転職サイト・転職エージェント総合メディア 『 転職サイト比較Plus 』 ・長期インターン・有給インターンの求人サイト 『 ユアターン 』 ・「転職を学べる」情報メディア 『 転職スタディ 』 ・電気・ガス・ネットの引越し手続きサービス 『 くらしテク 』 ・通信制高校の一括資料請求サイト 『 ウェルカム通信制高校ナビ 』 ・資格や検定試験に関するポータルメディア 『 資格広場 』（https://best100.v-tsushin.jp/company/tosho-trading/・3回目）
+- 事業内容：インターネットメディア事業 Webマーケティング事業 広告代理事業 EC事業 ライフライン関連事業 スポーツ事業（https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%99%B6%E8%B2%BF%E6%98%93・3回目）
+- 資本金：20,000,000円（https://www.tosho-trading.co.jp/company・1回目）
+- 資本金：20百万円（https://www.openwork.jp/company.php?m_id=a0C1000000uA6qd・3回目）
+- 資本金：2,000万円（https://best100.v-tsushin.jp/company/tosho-trading/・3回目）
+- 創業年度：設立日：1995年12月12日（https://www.tosho-trading.co.jp/company・1回目）
+- 創業年度：設立年：1995年（https://www.openwork.jp/company.php?m_id=a0C1000000uA6qd・3回目）
+- 創業年度：設立年：1995年（https://en-hyouban.com/company/10105830867/23/・3回目）
+- 従業員数：130名（https://en-hyouban.com/company/10105830867/23/・3回目）
+- 所在地：・東京営業所 〒106-6238　東京都港区六本木3-2-1 住友不動産六本木グランドタワー8F/38F（総合受付：38F） --- ・本社 〒113-0034　東京都文京区湯島3-7-8 --- ・中国 天津開発部 / 天津河北区営業所 ・中国 大連沙河口営業所（https://www.tosho-trading.co.jp/company・1回目）
+- 所在地：東京都文京区湯島3-7-8（https://www.openwork.jp/company.php?m_id=a0C1000000uA6qd・3回目）
+- 所在地：〒106-6238 東京都港区六本木3-2-1 住友不動産六本木グランドタワー38F（https://best100.v-tsushin.jp/company/tosho-trading/・3回目）
+- 代表者：代表取締役　大泉 弘晶（https://www.openwork.jp/company.php?m_id=a0C1000000uA6qd・3回目）
+- 代表者：大泉弘晶（https://en-hyouban.com/company/10105830867/23/・3回目）
+- 代表者：代表取締役 緒方悟（https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%99%B6%E8%B2%BF%E6%98%93・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「We Smart（ウィースマート）は、東晶貿易株式会社【有料職業紹介（許可番号：」（https://www.tosho-trading.co.jp/contents/・1回目）
+  - 「収益に関しましてはサイトのコンテンツ向上に使用し、より正確な情報提供を行ってまいります」（https://www.tosho-trading.co.jp/contents/・1回目）
+  - 「中国メディア事業は、天津にあるオフィスを拠点にアジアでの集客から販売、物流までをワンストップでサポートします」（https://www.tosho-trading.co.jp/company・1回目）
+  - 「東晶貿易は、自社開発のインターネットメディアの企画・運営を通じて、多様性のある社会の実現を目指します」（https://www.tosho-trading.co.jp/service・1回目）
+  - 「最高のお仕事が見つかる！キャリアガイド派遣」（https://www.tosho-trading.co.jp/service・1回目）
+  - 「カスタマーサポート・コールセンター運営・管理」（https://www.openwork.jp/company.php?m_id=a0C1000000uA6qd・3回目）
+  - 「総合職で選べるキャリアは「マーケ」「セールス」「CS」「メディア運営」の4種類」（https://www.wantedly.com/companies/tosho-c3・3回目）
+  - 「インターネットユーザーとネットで商品やサービスを提供したい会社側を繋ぐメディア運営が当社の主な事業となります」（https://best100.v-tsushin.jp/company/tosho-trading/・3回目）
+  - 「具体的には、教育業界でトップシェアを誇るサイトを運営しております」（https://best100.v-tsushin.jp/company/tosho-trading/・3回目）
+  - 「他にも、医療・エンターテイメント・金融・生活に関わる多くのメディアを運営しております」（https://best100.v-tsushin.jp/company/tosho-trading/・3回目）
+  - 「販売・サービス系（ファッション、フード、小売他）」（https://en-hyouban.com/company/10105830867/23/・3回目）
+  - 「:【事業内容、強み、他社との違い】他社と比べ営業担当が、会議以...」（https://en-hyouban.com/company/10105830867/23/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「住友不動産六本木グランドタワー8F/38F（総合受付：38F）」（https://www.tosho-trading.co.jp/company・1回目）
+  - 「〒106-6238 東京都港区六本木3-2-1 住友不動産六本木グランドタワー38F」（https://www.tosho-trading.co.jp/company・1回目）
+  - 「中国メディア事業は、天津にあるオフィスを拠点にアジアでの集客から販売、物流までをワンストップでサポートします」（https://www.tosho-trading.co.jp/company・1回目）
+  - 「これであなたもツルスベ肌に！人気医療脱毛クリニック比較メディア」（https://www.tosho-trading.co.jp/service・1回目）
+  - 「あなたの髪の毛に合ったクリニックが見つかる、AGAクリニック比較メディア」（https://www.tosho-trading.co.jp/service・1回目）
+  - 「あなたにピッタリな学校が見つかる！ウェルカム通信制高校ナビ」（https://www.tosho-trading.co.jp/service・1回目）
+  - 「カスタマーリレーション（保険促進）【仙台／転勤無】」（https://www.openwork.jp/company.php?m_id=a0C1000000uA6qd・3回目）
+  - 「【大阪】クライアントセールス（ITソリューション）／408479574」（https://www.openwork.jp/company.php?m_id=a0C1000000uA6qd・3回目）
+  - 「慶應義塾大学卒業後、東晶貿易株式会社で代表取締役を務めています」（https://www.wantedly.com/companies/tosho-c3・3回目）
+  - 「住友不動産六本木グランドタワー38F」（https://www.wantedly.com/companies/tosho-c3・3回目）
+  - 「東京都港区六本木3-2-1 住友不動産六本木グランドタワー38F」（https://best100.v-tsushin.jp/company/tosho-trading/・3回目）
+  - 「具体的には、教育業界でトップシェアを誇るサイトを運営しております」（https://best100.v-tsushin.jp/company/tosho-trading/・3回目）
+- 資本金・株主：
+  - 「3年以内に上場予定」（https://best100.v-tsushin.jp/company/tosho-trading/・3回目）
+  - 「近い将来の上場を準備していると、社内イベントで何回か耳にしました」（https://en-hyouban.com/company/10105830867/23/・3回目）
+- 選出の記録：
+  - 「東晶貿易株式会社 緒方 悟 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/tosho-trading/・3回目）
+  - 「ベストベンチャー100」（https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%99%B6%E8%B2%BF%E6%98%93・3回目）
+  - 「2025年まで9年連続で選出された」（https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%99%B6%E8%B2%BF%E6%98%93・3回目）
+  - 「快挙！9年連続でベストベンチャー100に選出！」（https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%99%B6%E8%B2%BF%E6%98%93・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 - 東晶貿易 株式会社 — 会社概要 - 東晶貿易 株式会社 東晶貿易株式会社 https://www.tosho-trading.co.jp > company」（https://www.tosho-trading.co.jp/company・3回目）
+  - 「東晶貿易 「社員クチコミ」 就職・転職の採用企業 ... - OpenWork — 東晶貿易 「社員クチコミ」 就職・転職の採用企業 ... - OpenWork OpenWork https://www.openwork.jp > インターネット」（https://www.openwork.jp/company.php?m_id=a0C1000000uA6qd・3回目）
+  - 「東晶貿易 株式会社の 会社情報 - Wantedly — 東晶貿易 株式会社の 会社情報 - Wantedly Wantedly https://www.wantedly.com > companies > tosho-c3」（https://www.wantedly.com/companies/tosho-c3・3回目）
+  - 「東晶貿易 - Wikipedia — 東晶貿易 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 東晶貿易」（https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%99%B6%E8%B2%BF%E6%98%93・3回目）
+  - 「東晶貿易 株式 会社 緒方 悟 - ベストベンチャー100 — 東晶貿易 株式 会社 緒方 悟 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > tosho-trading」（https://best100.v-tsushin.jp/company/tosho-trading/・3回目）
+  - 「東晶貿易 株式会社 緒方 悟 - ベストベンチャー100 — 東晶貿易 株式会社 緒方 悟 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > tosho-trading」（https://best100.v-tsushin.jp/company/tosho-trading/・3回目）
+  - 「東晶貿易 株式会社 の企業情報 - バフェット・コード — 東晶貿易 株式会社 の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company」（https://www.buffett-code.com/company/80vr97g6eh/・3回目）
+  - 「東晶貿易 株式会社の業績・将来性・強み・弱み — 東晶貿易 株式会社の業績・将来性・強み・弱み エン カイシャの評判 https://en-hyouban.com > company」（https://en-hyouban.com/company/10105830867/23/・3回目）
+  - 「東晶貿易 株式会社の会社情報 - Wantedly — 東晶貿易 株式会社の会社情報 - Wantedly Wantedly https://www.wantedly.com > companies > tosho-c3」（https://www.wantedly.com/companies/tosho-c3・3回目）
+  - 「自動入札と​インテントマッチの​導入で、​コンバージョン ... — 自動入札と​インテントマッチの​導入で、​コンバージョン ... Google Business Profile https://business.google.com > success-stories > tosho-trading」（https://business.google.com/jp/resources/success-stories/tosho-trading/・3回目）
+  - 「東晶貿易 株式会社 代表取締役 大泉 弘晶さん — 東晶貿易 株式会社 代表取締役 大泉 弘晶さん 湯島本郷マーチング通信 https://www.yushima-hongo.net > persons」（https://www.yushima-hongo.net/persons/1968/・3回目）
+  - 「東晶貿易 ｜STARTUP DB（スタートアップデータベース） — 東晶貿易 ｜STARTUP DB（スタートアップデータベース） STARTUP DB｜スタートアップデータベース https://startup-db.com > スタートアップ一覧」（https://startup-db.com/companies/kjlVZLoU0yop9q3E・3回目）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部24頁・検索11回）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部24頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部24頁・検索11回）
+- 客は誰か：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部24頁・検索11回）
+
 ## 株式会社1990年
 - 公式URL：https://nendai-ryuukou.com/（search:yahoo_jp:1990年）
 - 売上の柱（何で稼ぐか）：
@@ -8870,3 +8939,71 @@ REVZO虎ノ門4F Google Map（https://www.keywalker.co.jp/company/outline.html�
 - 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）
 - 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）
 - 選出の記録：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）
+
+## 獅子
+- 公式URL：https://shishi-w.com/（given）
+- 事業内容：店舗マーケティング事業・LP制作事業・広告運用代行事業・自社メディア運用事業・CRM事業（https://shishi-w.com/company/・1回目）
+- 事業内容：・WEBマーケティング事業 ・プラットフォーム事業（https://best100.v-tsushin.jp/company/shishi/・3回目）
+- 事業内容：・WEBマーケティング事業 ・イマーシブ事業 ・D2C事業（https://www.nishinihon-venture.com/company/shishi-w/・3回目）
+- 資本金：1,000,000円（https://shishi-w.com/company/・1回目）
+- 資本金：100万円（https://best100.v-tsushin.jp/company/shishi/・3回目）
+- 資本金：100万円（https://www.nishinihon-venture.com/company/shishi-w/・3回目）
+- 創業年度：設立：2021年（令和3年）9月1日（https://shishi-w.com/company/・1回目）
+- 従業員数：2025年（令和7年）29名（https://shishi-w.com/company/・1回目）
+- 所在地：【本社】福岡県福岡市博多区東比恵4丁目3番8号 ミプラ東比恵7階 【大宮営業所】埼玉県さいたま市大宮区桜木町四丁目313 アバニティ桜木201号室（https://best100.v-tsushin.jp/company/shishi/・3回目）
+- 所在地：【本社】 福岡県福岡市博多区東比恵4丁目3番8号 ミプラ東比恵７階 【大宮営業所】 埼玉県さいたま市大宮区桜木町四丁目313 アバニティ桜木201号室（https://www.nishinihon-venture.com/company/shishi-w/・3回目）
+- 代表者：森本 雅也（https://shishi-w.com/company/・1回目）
+- 主要取引先：西日本シティ銀行 大名支店 りそな銀行 福岡支店 筑邦銀行 博多支店 福岡ひびき信用金庫 博多支店（https://shishi-w.com/company/・1回目）
+- 売上の柱（何で稼ぐか）：
+  - 「売上に直結する戦略的ブランディングを提供します」（https://shishi-w.com/・1回目）
+  - 「これまでの運用・制作実績を、お客様のリアルな声とともにご紹介」（https://shishi-w.com/・1回目）
+  - 「サービス紹介｜株式会社獅子｜福岡に拠点を置くマーケティングや制作業務を行う会社」（https://shishi-w.com/service/・1回目）
+  - 「事業内容、目的、将来像などのヒアリングを通じて、お客様のビジョンと私たちの知見を織り交ぜながら、誰も気づいていない潜在的なニーズや可能性を引き出します」（https://shishi-w.com/about/・1回目）
+  - 「サービス紹介｜マーケティング戦略｜株式会社獅子｜福岡に拠点を置くマーケティングや制作業務を行う会社」（https://shishi-w.com/service/marketing/・1回目）
+  - 「売上とブランド力、どちらも譲らないLP戦略を立てましょう」（https://shishi-w.com/service/marketing/・1回目）
+  - 「反応の先にある“次の一手”まで設計し、広告の持続力と収益性を最大化します」（https://shishi-w.com/service/marketing/・1回目）
+  - 「弊社では、集客改善・収益向上を目的としたWebマーケティング全般を支援しています」（https://shishi-w.com/service/marketing/・1回目）
+  - 「サービス紹介｜ブランド構築支援｜株式会社獅子｜福岡に拠点を置くマーケティングや制作業務を行う会社」（https://shishi-w.com/service/branding/・1回目）
+  - 「バズることだけを目的とせず、売上に直結する映像制作を実現します」（https://shishi-w.com/service/branding/・1回目）
+  - 「サービス紹介｜市場創出ラボ｜株式会社獅子｜福岡に拠点を置くマーケティングや制作業務を行う会社」（https://shishi-w.com/service/market/・1回目）
+  - 「越境ECと体験型の販売設計を組み合わせ、地域の貴重な資源をグローバルブランドに育成します」（https://shishi-w.com/service/market/・1回目）
+- 客は誰か：
+  - 「エステティックサロン「エステティックミス・パリ」や男性向けエステ「ダンディハウス」などを展開する美容・健康関連の大手企業」（https://shishi-w.com/service/marketing/・1回目）
+  - 「本サイトへの掲載は、法人向けに提供している有料会員サービスの1つです」（https://www.nishinihon-venture.com/company/shishi-w/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「広告費に対する成果（ROAS）の最大化を見据え、クリエイティブ改善や導線設計、顧客管理（CRM）の活用など、成果につながる提案を行います」（https://shishi-w.com/・1回目）
+  - 「私たちは、クライアントを深く理解することから始め、その本質から、まったく新しい需要を見出します」（https://shishi-w.com/・1回目）
+  - 「クライアントの夢を、次なるステージへと着実に前進させていきます」（https://shishi-w.com/・1回目）
+  - 「マーケティングで培ったノウハウを武器に、クライアントの独自性、すなわち「企業価値」を高めることが獅子のブランディングです」（https://shishi-w.com/service/・1回目）
+  - 「私たちは、クライアントを深く理解することから始め、その本質から、まったく新しい需要を見出します」（https://shishi-w.com/about/・1回目）
+  - 「クライアントの夢を、次なるステージへと着実に前進させていきます」（https://shishi-w.com/about/・1回目）
+  - 「市場の競争から一歩引いた視点で、クライアントごとに独自の戦略を設計します」（https://shishi-w.com/about/・1回目）
+  - 「コンテンツの制作から運用、さらにはブランディングを通じて、新規顧客の拡大からリピーターの定着まで伴走」（https://shishi-w.com/about/・1回目）
+  - 「成果にこだわり続け、クライアントのために全力で走り抜けること」（https://shishi-w.com/about/・1回目）
+  - 「獅子は、クライアントの中に眠る魅力や差別化のポイントを丁寧に整理し、顧客の心に届く“言葉”へと磨き上げます」（https://shishi-w.com/service/marketing/・1回目）
+  - 「獅子の広告運用は、クライアントのROAS（広告費用対効果）の最大化とブランドの価値向上を実現します」（https://shishi-w.com/service/marketing/・1回目）
+  - 「スピードとクオリティを両立し、狙った市場でクライアントを“勝たせる”仕組みをつくります」（https://shishi-w.com/service/marketing/・1回目）
+- 資本金・株主：
+  - 「売上100億円、メンバー100人以上でグロース上場」（https://best100.v-tsushin.jp/company/shishi/・3回目）
+  - 「5年以内に上場予定」（https://best100.v-tsushin.jp/company/shishi/・3回目）
+  - 「売上100億円、メンバー100人以上でグロース上場」（https://www.nishinihon-venture.com/company/shishi-w/・3回目）
+  - 「5年以内に上場予定」（https://www.nishinihon-venture.com/company/shishi-w/・3回目）
+- 選出の記録：
+  - 「【2026年度】ベストベンチャーWEST100に選出✨」（https://shishi-w.com/・1回目）
+  - 「【2026年度】ベストベンチャー100に選出✨」（https://shishi-w.com/・1回目）
+  - 「株式会社獅子 森本 雅也 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/shishi/・3回目）
+- 検索結果の抜粋：
+  - 「株式 会社獅子 森本 雅也 - ベストベンチャー100 — 株式 会社獅子 森本 雅也 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > shishi」（https://best100.v-tsushin.jp/company/shishi/・3回目）
+  - 「福岡に拠点を置くマーケティングや制作業務を行う 会社 — 福岡に拠点を置くマーケティングや制作業務を行う 会社 株式会社獅子 https://shishi-w.com > company」（https://shishi-w.com/company/・3回目）
+  - 「株式 会社獅子 - ベストベンチャーWEST100 — 株式 会社獅子 - ベストベンチャーWEST100 ベストベンチャーWEST100 https://www.nishinihon-venture.com > company > shishi-w」（https://www.nishinihon-venture.com/company/shishi-w/・3回目）
+  - 「株式 会社獅子 の転職・企業 概要 − 転職ならdoda（デューダ） — 株式 会社獅子 の転職・企業 概要 − 転職ならdoda（デューダ） doda https://doda.jp > View > Company > j_id__10214380598」（https://doda.jp/DodaFront/View/Company/j_id__10214380598/・3回目）
+  - 「獅子 「社員クチコミ」 就職・転職の採用企業 ... - OpenWork — 獅子 「社員クチコミ」 就職・転職の採用企業 ... - OpenWork OpenWork https://www.openwork.jp > インターネット」（https://www.openwork.jp/company.php?m_id=a0C2x00000aJSQJ・3回目）
+  - 「株式会社 獅子 森本 雅也 - ベストベンチャー100 — 株式会社 獅子 森本 雅也 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > shishi」（https://best100.v-tsushin.jp/company/shishi/・3回目）
+  - 「データで見る 獅子 ｜株式会社 獅子 ｜福岡に拠点を置く ... — データで見る 獅子 ｜株式会社 獅子 ｜福岡に拠点を置く ... 株式会社獅子 https://shishi-w.com > data」（https://shishi-w.com/data/・3回目）
+  - 「株式会社 獅子 - ベストベンチャーWEST100 — 株式会社 獅子 - ベストベンチャーWEST100 ベストベンチャーWEST100 https://www.nishinihon-venture.com > company > shishi-w」（https://www.nishinihon-venture.com/company/shishi-w/・3回目）
+  - 「株式会社 獅子 - 販売促進コンサルティング業界の会社の企業情報 — 株式会社 獅子 - 販売促進コンサルティング業界の会社の企業情報 Baseconnect https://baseconnect.in > companies」（https://baseconnect.in/companies/f75c4a22-3e09-4041-a5aa-54928ba18e80・3回目）
+  - 「株式会社 獅子 の会社概要・求人情報【2026年時点】 - SalesNow — 株式会社 獅子 の会社概要・求人情報【2026年時点】 - SalesNow SalesNow https://salesnow.jp > トップ > 都道府県 > 福岡県」（https://salesnow.jp/db/companies/jcb42ykp1y51v9gg・3回目）
+  - 「株式会社白 獅子 - スピーダ スタートアップ情報リサーチ — 株式会社白 獅子 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-36352・3回目）
+  - 「導入事例 ｜「サポート型」クラウド勤怠管理 ... - 勤労の 獅子 — 導入事例 ｜「サポート型」クラウド勤怠管理 ... - 勤労の 獅子 kinrou44.jp https://kinrou44.jp > casestudy」（https://kinrou44.jp/casestudy/・3回目）
+- 売上高：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部28頁・検索11回）
+- 株主：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部28頁・検索11回）
