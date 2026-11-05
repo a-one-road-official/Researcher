@@ -121,6 +121,17 @@ def version_of(q):
 def defn_of(q):
     return "・".join(n for n, rx in DEFN if rx.search(q))
 
+# 2026-11-05 4-34：経済センサス-活動調査は調査の年の前年の実績を聞く（経産省「経済産業統計まる分かり」Q8：平成24年の活動調査は平成23年1〜12月の実績）。
+# 調査の年を値の年にすると、工業統計の実績年と1年ずれて同じ年に2つの値が並ぶ。「実績」の語が近くに無いときだけ1年戻し、印を残す
+CENSUS_ACT = re.compile(r"経済センサス\s*[-‐ー－―]?\s*活動調査")
+CENSUS_YEARS = {"2012", "2016", "2021"}
+# 2026-11-05 4-34：レジスター統計の「試算値」・推計値は実測でない（総務省・経産省「経済構造統計の体系的整備について」2022-08-30）。見通しと同じく事実の向きに入れない
+TRIAL = re.compile(r"(試算値|試算|推計値|推計した|レジスター統計)")
+# 2026-11-05 4-34：決算の表は負の値を△・▲・括弧で書く（Bradshaw「company accounts」：括弧の数字は損失で、見落としやすい）。負の金額を捨てたり正にしたりしない
+NEGMARK = re.compile(r"[△▲]\s*$|[-−]\s*$")
+GOINGCONCERN = re.compile(r"(継続企業の前提|重要な不確実性|going concern|material uncertainty)", re.I)
+GC = {}
+
 PERDENOM = re.compile(r"1\s*(人|名|社|事業所|件|台|企業)\s*(あたり|当たり|当り|につき|平均)")
 
 def norm(v, u):
@@ -149,11 +160,18 @@ def rows_for(topic):
                     # 2026-11-05：「1人あたり」「1事業所当たり」の1を人数・事業所数として拾い、幅が「1〜3,952事業所」になった失敗から。割り算の分母の1は数えない
                     if PERDENOM.match(q, m.start()): continue
                     v, u = norm(*m.groups())
+                    pre = q[max(0, m.start() - 2):m.start()]
+                    neg = bool(NEGMARK.search(pre)) or (u == "万円" and pre.endswith("(") and q[m.end():m.end() + 1] == ")")
                     if u == "万円" and v <= 0: continue
+                    if neg and u == "万円": v = -v  # 4-34 △・▲・括弧は負の値（損失・減少）
                     if u == "人" and v > MAXPERSON: OUTLIERS[topic] = OUTLIERS.get(topic, 0) + 1; continue  # 4-31 桁の感覚の上限
                     # 数字の近く（前40字）の年を優先
                     near = YEAR.findall(q[max(0, m.start() - 40):m.start() + 5])
                     y = (near or ys or [""])[-1]
+                    yfix = ""
+                    if y in CENSUS_YEARS and CENSUS_ACT.search(q) and "実績" not in q[max(0, m.start() - 40):m.end() + 20]:
+                        y, yfix = str(int(y) - 1), "活動調査の調査年→実績年（-1年）"
+                    if GOINGCONCERN.search(q): GC.setdefault(topic, set()).add((name, url))
                     kind = "調査会社" if REPORT.search(url) else "信用調査" if CREDIT.search(url) else "一次" if is_primary(url) else "記事"
                     yield {"品目": name, "区分": cat, "文脈": ctx, "年": y, "値": round(v, 4), "単位": u,
                            "一次": kind, "立場": standing(url, kind),
@@ -162,7 +180,8 @@ def rows_for(topic):
                            # 2026-11-05 4-19：出どころの記録（URL・取得日・取り方）。欠けた引用は後から確かめられない
                            # 2026-11-05：mfg_capacity の引用は first_seen が無く「記録が欠けた数字 1488/1488」になった。ファイルの researched_at を取得日に使う
                            "取得日": it.get("first_seen", "") or (d.get("researched_at", "") or "")[:10],
-                           "予測": "予測" if y and int(y) > NOW_YEAR else "見通し" if OUTLOOK.search(q) else "",
+                           "予測": "予測" if y and int(y) > NOW_YEAR else "見通し" if OUTLOOK.search(q) else "試算" if TRIAL.search(q) else "",
+                           "年の補正": yfix, "符号": "負" if neg and u == "万円" else "",
                            "出典": urlparse(url).netloc, "URL": url, "引用": q[:160]}
 
 # 2026-11-05 4-26：工業統計は2022年から経済構造実態調査（製造業事業所調査）に包まれ、対象が「従業者4人以上の全数」から
@@ -460,6 +479,13 @@ def scan(topic):
             age = (today - datetime.date.fromisoformat(max(ds))).days
             if age > 7: stale.append(f"- {item}：最後の取得 {max(ds)}（{age}日前）")
     md += ["## 再調査の条件（取得から7日超・4-25）", *(stale or ["（なし）"]), ""]
+    # 2026-11-05 4-34：年の補正・負の値・継続企業の前提の注記を数える（見落とし防止）
+    nfix = sum(1 for r in rows if r.get("年の補正")); nneg = sum(1 for r in rows if r.get("符号"))
+    ntrial = sum(1 for r in rows if r.get("予測") == "試算")
+    md += ["## 年・符号・試算の点検（4-34）", f"- 経済センサス-活動調査の調査年を実績年に1年戻した数字：{nfix}件",
+           f"- △・▲・括弧の負の金額：{nneg}件（損失・減少。正の値と同じ欄で中央値を取るときは本文で確かめる）",
+           f"- 試算値・推計値として事実の向きから外した数字：{ntrial}件",
+           *(f"- ⚠ 継続企業の前提・重要な不確実性の注記：{n}（{u}）" for n, u in sorted(GC.get(topic, set()))[:10]), ""]
     md += ["## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）", *(f"- {t}" for t in thin or ["（なし）"]), ""]
     md += ["## 数字が1つも取れなかった品目（範囲の明示）", *(f"- {n}" for n in empty or ["（なし）"]), ""]
     open(os.path.join(OUT, topic, "scan_auto.md"), "w", encoding="utf-8").write("\n".join(md))

@@ -247,6 +247,35 @@ def research_market(c: dict, topic: dict) -> dict:
     lim = topic.get("limits", {})
     names = [c["name"]] + c["aliases"] + ([c["en"]] if c.get("en") else [])
     seen: set[str] = set()
+    # 2026-11-05 METHOD.md 4-34：統計の表は検索では出にくい（mfg_capacity の全国×規模別の品目が3回空、検索が自動車工業会など別の話を拾った）。
+    # inputs の「直接URL」列（topic の columns.url）に所管の結果ページを書いておけば、検索の前にそのページと、そこから同じドメインの
+    # PDF・表のページ（リンクの文字が品目の言葉・規模・時系列・産業別を含むもの）を読む。直接URLのページは品目名の一致を求めない（統計表に品目名は出ない）
+    seeds = [x for x in re.split(r"[;；|\s]+", c.get("url", "") or "") if x.startswith("http")]
+    kws = ["規模", "時系列", "産業別", "加工賃", "従業者", "概要", "確報", "xls", "csv"] + [w for a in c["aliases"] for w in a.split() if len(w) >= 2][:12]
+    queue = []
+    for su in seeds:
+        page = fetch.fetch(su)
+        rec["checked"]["pass3"].append({"url": page["final_url"], "status": page["status"], "method": page.get("method", "") + ":seed"})
+        seen.add(su)
+        queue.append(page)
+        dom = urlparse(page.get("final_url") or su).netloc.split(":")[0].removeprefix("www.")
+        try:
+            subs, files = pick_links(page, kws, dom, lim.get("seed_pages", 4))
+        except Exception:
+            subs, files = [], []
+        for u in (files[: lim.get("pdfs", 6)] + subs):
+            if u in seen:
+                continue
+            seen.add(u)
+            sp = fetch.fetch(u)
+            rec["checked"]["pass3"].append({"url": sp["final_url"], "status": sp["status"], "method": sp.get("method", "") + ":seed-link"})
+            queue.append(sp)
+    for page in queue:
+        if not page.get("text"):
+            continue
+        ev = extract.evidence(page, cats, 3, per_cat=lim.get("per_cat", 15))
+        ev = {k: [i for i in v if k not in numeric or NUM_RE.search(i["quote"])] for k, v in ev.items()}
+        extract.merge_into(rec["evidence"], {k: v for k, v in ev.items() if v})
     for tmpl in topic["external_queries"]:
         if "{en}" in tmpl and not c.get("en"):
             continue

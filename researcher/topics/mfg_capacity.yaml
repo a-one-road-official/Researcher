@@ -3,7 +3,7 @@
 kind: market
 title: 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移
 input: researcher/inputs/mfg_capacity.csv
-columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
+columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈, url: 直接URL}  # 直接URL：所管の結果ページ（run.py が検索の前に読む・4-34）
 
 evidence:
   事業所数・社数: [事業所数, 企業数, 社数, 会員数, 従業者規模, 4～9人, 10～19人, 20～29人, 30～99人, 100～299人, 300人以上]
