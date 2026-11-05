@@ -25,3 +25,7 @@ AIリサーチの出典・反証・不確実性の管理（重要主張からの
 バックキャスティングで調査を設計する（決める問いから逆算して調べる項目と確認の深さを決める）,backcasting research design hypothesis driven consulting,リサーチ 設計 仮説 バックキャスティング;仮説が外れた時 リサーチ 対応;調査 フェーズ 検証の深さ,設計
 有価証券報告書の設備の状況・セグメント情報・将来見通しの読み方,reading annual report capex plan segment forward-looking statement,有価証券報告書 設備の新設 計画 読み方;セグメント情報 構成比 分析;将来見通し 注意書き 有価証券報告書,企業
 公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT）,OSINT document metadata job postings tech blog business process,OSINT 採用情報 技術ブログ 業務フロー;filetype:pdf メタデータ 企業調査;OSINT 企業 公開情報 重複排除 正規化,企業
+統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）,checking statistical definitions coverage threshold member-only shipment vs sales,統計 裾切り 従業者4人以上 注意;業界団体 統計 会員企業 限界;市場規模 出荷ベース 販売ベース 違い site:asmarq.co.jp,定義の点検
+決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）,reading Japanese public financial notices small companies net assets net income,決算公告 売上高 載っていない 読み方;官報 決算公告 純資産 推移 与信;電子決算公告 中小企業 分析 site:denshi-kessan-koukoku.com,決算公告
+非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ）,how to find private company revenue Japan consulting knowledge base,非上場企業 売上 調べ方 site:iri-group.jp;非上場 売上 推定 単体 連結 取扱高;調査会社 ナレッジ 企業調査 手順,探し先
+生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法）,structured analytic techniques ACH analysis of competing hypotheses generation verification separation,競合仮説分析 ACH 実務;構造化分析技法 悪魔の代弁者 市場調査;everprogress note インテリジェンス 生成AI,分析の型
