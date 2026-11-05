@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・76品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・78品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3545,6 +3545,8 @@
   - 「競合する仮説の分析｜幻想の近現代 — May 8, 2021 · 現実的なスケールでのACHはアナリストを混乱・困惑させる。 ゲルダ―はACHに代わって 仮説マッピング を提案しました。 以上が情報分析の一つの方法である競合する仮説の分析ACHです。 最後まで目を通していただきありがとうございました。」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「Analysis of Competing Hypotheses (ACH) — by Luiz H. S. Brandão — Jun 17, 2026 · The hypothesis with the least disconfirming evidence — not the most supporting evidence — is the most robust assessment. ACH is the operational discipline that transforms OSINT from information aggregation into intelligence production.」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses）
   - 「Mastering the Analysis of Competing Hypotheses (ACH): A ... — Jun 20, 2025 · In an age of information overload, uncertainty, and complex decision-making, clear analytical thinking is more crucial than ever. The Analysis of Competing Hypotheses (ACH) is a structured method designed to cut through ambiguity and support objective, evidence-based conclusions.」（https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/）
+  - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学 — Jun 2, 2025 · 「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します。 アメリカの情報機関CIAで開発されたACH ...」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「競合する仮説の分析｜幻想の近現代 — May 8, 2021 · 「競合する仮説の分析」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたと ...」（https://note.com/ia_wake/n/ne7dcc8132cdf）
 
 ## 調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字）（how journalists read company accounts notes related party going concern）
 - 文脈：失敗・落とし穴
@@ -4124,11 +4126,11 @@
 
 ## 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）（private company revenue estimate payroll method revenue per employee range overlap）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ25頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 実例：記載なし（読んだ25頁・検索12回）
 
 ## 統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方（real-time data revision end-point problem trend estimate statistics）
 - 文脈：点検
@@ -4341,6 +4343,11 @@
   - 「機械学習や統計分析を行う際に必要となる処理です」（https://www.cm-net.co.jp/blog/data-cleansing/）
   - 「社名や住所の正確さが求められる場合は法人番号公表サイトなどで照合しますが、公表されているのは登記上の商号と本店の所在地までのため、支店の住所は取引先に確認します」（https://www.nomura-system.co.jp/contents/data-crensing/）
   - 「一方で、抽出された候補のうちどれを採用するかは、業務ルールに照らして担当者が確認する必要があります」（https://www.nomura-system.co.jp/contents/data-crensing/）
+  - 「とは、データの統計的な特徴・分布・欠損率・ユニーク値数などを自動的に算出し、品質上の課題を可視化するプロセスです」（https://data-viz-lab.com/data-cleansing-methods）
+  - 「データ探索・プロファイリング（Data Discovery & Profiling）」（https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/）
+  - 「データプロファイリングでは、専用のツールやスクリプトを用いて、データの基本的な統計量や構造、パターンを調査し、品質上の問題点を網羅的に洗い出します」（https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/）
+  - 「一部のデータをサンプリングして目視で確認したり、クレンジング前後のデータの統計量を比較したりすることも有効です」（https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/）
+  - 「欠損値が多いと、統計分析の結果が歪んだり、機械学習モデルが正しく学習できなかったりする原因となります」（https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/）
 - 失敗・落とし穴：
   - 「分析をはじめる前に、いくつかデータをピックアップしてチェックしたり、データを可視化したりして間違いを見つけることで、こうした二度手間を避けることができます」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
   - 「ツール使用時にテキストデータがサーバに送信されるため、個人情報を含むテキストで使用する場合には注意が必要です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
@@ -4927,3 +4934,94 @@
   - 「複数の異業種をかかえる事例が増える可能性がある」（https://nira.or.jp/paper/report0810.pdf）
   - 「社のアンケート結果に基づくロジット・モデル分析」内閣府経済社会総合研究所『経済分析』」（https://nira.or.jp/paper/report0810.pdf）
   - 「な経済変動、景気動向を把握するための統計指標」という観点から3段階評価した結果＊２」（https://nira.or.jp/paper/report0810.pdf）
+
+## 市場規模の資料が食い違うときの照合（商品の範囲・地域・売上か出荷額か・実績か予測か）（reconciling conflicting market size estimates scope geography revenue shipments forecast）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「むしろ、収穫前の栽培方法が、色、香り、うま味、渋味、価格を大きく左右する」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「一方、現在の量産型茶園では、黒い化学繊維の被覆資材を茶樹に直接かぶせる方法や、棚式の寒冷紗が広く使われる」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「高級品では一番茶や手摘み原料が重視されるが、業務用・加工用では乗用型摘採機も利用される」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「中国の量産型茶園では、平坦化された畝、機械摘採、集約的な労務配置によって、収穫量と作業効率を高めている」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「貴州省は、銅仁市江口県を中心に、輸出基準に対応した大型工場と原料基地を構築した」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「これは「宇治のコピー」というより、宇治のブランドモデルと、中国型の工業化・地方振興モデルを組み合わせた産業政策である」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「銅仁市の抹茶産業は、生産設備を増やすだけの段階から、標準、商品開発、販売拠点、体験型消費を一体化する段階へ進んでいる」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「しかし、その荒てん茶を最終的な抹茶粉へ精製する工程は、ごく少数の大型施設に集中している」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「銅仁市の公表資料によれば、市内にはすでに年間生産能力1万トン級の大型抹茶精製工場が稼働している」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「栽培方法の転換には、農家ごとの判断、設備投資、後継者、収益見通しが必要になる」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「中国の大型工場は超微粉砕設備を導入し、粒度管理を強化している」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「抹茶の原型である「末茶」を点てる作法が、ここから日本へ伝わったとされる」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「煎茶園からてん茶園への転換には、被覆設備、摘採方法、荒茶工場、栽培技術が必要であり、短期間では進まない」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「乗用型摘採機に対応した茶園の基盤整備と平坦化」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「しかし、産地を作り直す方法論は、すでに日本国内に存在している」（https://note.com/kagawatomo/n/ndf2b3052b863）
+- 突き合わせ・推定：
+  - 「本文では中国側の公開資料と照合し、数字の定義と対象範囲も検証します」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「以下、この数字が何を意味するのかを、日中双方の公開統計、産業計画、価格データと突き合わせながら読み解いていく」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「Grand View Researchは、広義の世界抹茶市場を2025年に約51億ドル、2026年に約55億ドル、2033年に約89億ドルと推計している」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「一方、抹茶茶葉、粉末、プレミックス、RTD飲料など、より狭い「Matcha Tea Market」の推計では、2025年は約9億6,580万ドルとなっている」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「茶道用、高級飲用、家庭用、カフェ、製菓、外食向けなどを含めると、日本国内の抹茶市場は概ね500億～600億円程度と推定される」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「したがって、あいやの取扱規模は年間2,000トン前後とみることができるが、これは参考推計であり、同社が完成抹茶粉を実際に2,400トン生産したと断定する数字ではない」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「つまり日本では、数量最大手でも2,000トン級と推定される」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「これに対して、今回訪問した工場が説明した2026年の5,000トンは、日本最大手の推定取扱量の約2倍以上に相当する」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「これは業界団体による発表ベースの数字であり、第三者が検証した統計ではない」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「抹茶粉や直接販売を中心とする中国市場について、2025年に約72億元とする推計がある」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「これらは中国政府による単一の確定統計ではなく、民間調査や業界資料に基づく推計である」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「この種の食い違いをどう読むかは、第10章でまとめて扱う」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「冒頭に示した工場側の説明を、ここで公開データと突き合わせる」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「食い違いは、三つの理由で説明できる」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「もっとも、これは公開資料と現地説明を突き合わせた解釈にすぎない」（https://note.com/kagawatomo/n/ndf2b3052b863）
+- 一次情報の探し方：
+  - 「※現地ヒアリングの数値は企業側の説明であり、公的な確定統計とは区別して記載しています」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「以下、この数字が何を意味するのかを、日中双方の公開統計、産業計画、価格データと突き合わせながら読み解いていく」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「日本では、完成品としての「抹茶粉」だけを切り出した公的生産統計は十分に整備されていない」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「農林水産省の作物統計によると、2024年産の主産県における荒茶生産量は6万6,900トンだった」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「日本の茶統計を引用する際は、主産県ベースか全国ベースか、荒茶かてん茶か、暦年か年産かを必ず確認しなければならない」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「これは茶作経営全体の統計であり、抹茶専業農家だけを示すものではないが、増産の基盤となる人材構造の厳しさを示している」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「日本国内の抹茶市場についても、統一された公的統計は存在しない」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「日本茶輸出促進協議会が財務省貿易統計を整理した2025年通年資料では、緑茶輸出額は約721億円となり、2024年の364億円からほぼ倍増した」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「なお、2025年値は貿易統計上の緑茶全体であり、厳密な抹茶だけの数字ではない」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「ただし、税関統計の「粉末状の緑茶」には、厳密なてん茶由来の抹茶だけでなく、粉末緑茶などが含まれる可能性がある」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「中国の抹茶市場も、統計の定義に大きなばらつきがある」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「ただし、この数字は中国茶葉流通協会の業界報告に基づくもので、各国の税関統計や日本の「てん茶」統計と同じ定義で集計された国際公的統計ではない」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「これは業界団体による発表ベースの数字であり、第三者が検証した統計ではない」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「ただし、中国の全国業界団体が公式に「輸出で日本を抜いた」と宣言した事実そのものが、産業の段階が変わったことを示している」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「これらは中国政府による単一の確定統計ではなく、民間調査や業界資料に基づく推計である」（https://note.com/kagawatomo/n/ndf2b3052b863）
+- 失敗・落とし穴：
+  - 「抹茶の市場規模を語る際には注意が必要である」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「ただし、この45％を日本のてん茶生産量へそのまま掛けることには注意が必要である」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「ここで注意したいのは、「貴州省の2,500トン」と「銅仁市の2,500トン」が同じ数字として流通していることである」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「これは統計の誤りではなく、貴州省の抹茶がほぼ銅仁市に集中しているためだと考えられる」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「もう一つ、比較の土台そのものに注意が要る」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「ただし、シェアが高ければ利益も必ず大きいとは限らず、数値の読み取りには注意が必要です」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「マーケットシェアとは何を示す指標なのかを整理したうえで、実務での算出方法、分析の手順、戦略へのつなげ方、見落としやすい注意点を順に確認していきましょう」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「数量の定義を変えたときは、過去のデータとの比較可能性にも注意します」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「よくある失敗と、分析の精度を保つための注意点」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「よくある失敗は、市場の定義を変えたのに、過去の数値とそのまま比較することです」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「代替性が強ければ、一方の価格変更によって顧客が他方へ移りやすくなるため、企業は競合価格やキャンペーンに注意を払う必要があります」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「もう一つの注意点は、売上や販売量の変化を、代替関係だけで説明してしまうことです」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「また、代替財の関係を固定的に扱うのも誤りです」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「ECだけでなく、専門性の高い情報発信やデジタルサービスに応用する考え方、成果を確かめる際の指標、陥りやすい失敗も含めて整理します」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「ロングテール現象を取り入れるメリットと注意点」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+- 実例：
+  - 「その結果、抹茶特有の鮮やかで深い緑色が生まれる」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「日本茶輸出促進協議会の月次報告には、価格改定と日本産原料の不足によって他国産へ切り替える動きが出ていること、圃場視察を口実に生葉生産者へ直接買い付けを模索する事例が続いていることが記されている」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「一方で、市場の範囲や集計方法を決めずに計算すると、同じ商品でも結果が大きく変わることがあります」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「最初から一つの説明に決めつけず、複数のデータを照らし合わせ、施策を実施した時期と結果がどう対応しているかを確認します」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「結果を解釈して、次の打ち手につなげる」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「小さな検証で反応を確認できる場合は、対象地域や顧客を限定して試し、結果に応じて施策を拡大する方法が考えられます」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「定期的に結果を確認し、前提や市場環境に変化があれば戦略を調整します」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「分析結果を営業、商品企画、経営などの関係部門で共有し、次の判断に使える形に整えましょう」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「分析結果をマーケティングと経営判断に活かす」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「小さな母数の結果を市場全体の傾向と誤解しないよう、対象人数や販売件数も併せて確認してください」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「定義をそろえて定期的に測り、結果に応じて判断を更新することが、マーケットシェアを実務に活かす基本です」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「たとえば、財Aの価格が上がり、その結果として財Bの購入が増えるなら、BはAの代替候補と考えられます」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「現実の商品では、味、品質、使いやすさなどの違いがあるため、完全代替に当たるケースは限られます」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「通勤時間を短くしたい、空き時間に資格の知識を身につけたいなど、利用場面と期待する結果を絞ると、現実に比較される選択肢を見つけやすくなります」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「理論上の分類と、個別の市場で確認された行動を混同しないことが、分析結果を実務に役立てるうえで欠かせません」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+
+## データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説（common data journalism mistakes averages totals denominators）
+- 文脈：失敗
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）

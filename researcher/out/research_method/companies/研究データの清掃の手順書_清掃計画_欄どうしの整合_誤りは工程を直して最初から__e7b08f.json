@@ -8,524 +8,8 @@
  ],
  "context": "清掃",
  "kind": "market",
- "researched_at": "2026-11-05T18:46:15.819556+00:00",
+ "researched_at": "2026-11-05T21:00:22.418299+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "このような重複データを照合し、同一と判断して統合する処理が名寄せです",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索・照合の精度を上げるための“土台作り”となる処理です",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "氏名・住所・電話番号などを照合し、1つのデータに統合します",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データ・クリーニングによって、組み合わせたデータをシステム間で一貫性を持って使用できるようになり、データ形式や規格の矛盾から生じる問題を防ぐことができます",
-    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同じデータセット内で、データが異なる形式や構造で表現されていると矛盾が生じます",
-    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これに対処するため、データ専門家は欠損値を推定データで置き換えたり、不完全な入力項目を削除したり、さらなる調査のために欠損値にフラグを立てたりする場合があります",
-    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データの検証では、多くの場合、手動検査または自動データ・クリーニング・ツールを使用して、エラーや一貫性のないデータ、異常が残っていないかをチェックします",
-    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step4｜変換を実行し元データと突き合わせて検証する",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "取引先マスタと品目マスタのどちらを先に着手するか、過去何年分を対象にするかといった判断は、用途から逆算して決めます",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実行後は、元データと突き合わせて検証します",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "社名や住所の正確さが求められる場合は法人番号公表サイトなどで照合しますが、公表されているのは登記上の商号と本店の所在地までのため、支店の住所は取引先に確認します",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "あいまい一致が使えるのは2つの表を突き合わせるマージ操作のテキスト列に限られ、どこまでを同じとみなすかのしきい値は人が判断する",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "画面をまたぐ定型的な転記や突き合わせの自動化",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "進め方は、利用目的の決定、現状の可視化、ルールの定義、実行と検証、再発を防ぐ運用への落とし込みという5つのステップです",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AIは表記ゆれの検出、重複候補の抽出、ほかの項目や公開情報から推測できる範囲での欠損値の候補提示に活用でき、RPAは画面をまたぐ転記や突き合わせといった定型作業に向いています",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "分析をはじめる前に、いくつかデータをピックアップしてチェックしたり、データを可視化したりして間違いを見つけることで、こうした二度手間を避けることができます",
-    "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ツール使用時にテキストデータがサーバに送信されるため、個人情報を含むテキストで使用する場合には注意が必要です",
-    "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なお、Excelでは1900年より前の日付を「文字列」として扱うため、注意が必要です",
-    "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、日本語では適切に動作しないことがあったり、固有名詞などはチェックできなかったりするため、注意が必要です",
-    "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただ、Excelでは操作を誤りやすいため、変更の必要がないセルをロックしたり、既定値のあるデータには「データの入力規則」を適用したりするとよいでしょう",
-    "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そこで重要になるのが、データの誤りや重複、表記ゆれなどを修正し、信頼性の高い状態へと整える",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "９．データクレンジング実施時のポイント・注意点",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データクレンジングとは、データベースに保存された情報の誤りや重複、表記ゆれ、欠損などの不備を修正し、データの正確性や一貫性を高める作業のことです",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新しいシステムへデータを移行する際、既存データに誤りや不要な情報が含まれていると、その問題も新しい環境へと引き継がれてしまい、トラブルの原因となります",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データに誤りや重複、表記ゆれがある状態では、必要な情報を探すのに時間がかかり、分析や業務のたびに修正作業が発生します",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "しかし、古い情報や不正確なデータをもとに判断すると、戦略の方向性を見誤り、長期的な競争力を損なうリスクがあります",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここでは、実施時に押さえておきたい重要なポイントと注意点を整理します",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情シス代行とは？依頼できる業務内容・導入メリット・失敗しない選び方を徹底解説！",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、データ・クリーニングは、機械学習アルゴリズムのトレーニングの基となるデータセットを、正確で一貫性がありバイアスのない状態にするのに役立ちます",
-    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このクリーンなデータの基盤がなければ、アルゴリズムは不正確で一貫性がなくバイアスのある予測を生成する可能性があり、意思決定の有効性と信頼性を低下させかねません",
-    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "それに比べて、重複データ、誤字脱字（タイプミス）、一貫性のないダーティ・データに基づくビジネス上の意思決定は、リソースの浪費、機会の逸失、戦略的な失敗につながる可能性があります",
-    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "like this. This not only increases efficiency but also reduces mistakes you might make when typing out variable names.",
-    "url": "https://cghlewis.com/blog/data_clean_02/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", this is when you will want to run through your final list of sanity checks to make sure no mistakes exist in the data before you export it.",
-    "url": "https://cghlewis.com/blog/data_clean_02/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "I want to emphasize the importance of using a join in your program of choice, as opposed to replacing names with IDs by hand entering identifiers. If at all possible, you want to completely avoid hand entry of study IDs because it is error-prone and can lead to many mistakes.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", before exporting data you will want to run through your final list of sanity checks, based on our data quality criteria, to make sure no mistakes are missed.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データクレンジングは、表記ゆれや重複、欠損、誤りといった汚れを洗い出し、データを業務や分析に使える状態に整える作業です",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "単位を取り違えた金額が1件混じるだけでも合計は大きくずれ、社名や住所の変更が未反映だと書類の誤送付や宛名の誤りにつながります",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし異常値は誤りとは限らず、実在の大口取引の場合もあるため、直す前に業務側へ確認します",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "どちらも、データに含まれる誤りや重複、表記ゆれを検出して修正し、使える状態に整える作業を指します",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "研究をする過程では、アンケート調査の回答、計測・観測結果など様々なデータを収集・生成することがあるかと思います",
-    "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "たとえば、アンケート調査を実施し、以下のような回答結果を分析する場合を考えてみましょう",
-    "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここでの事例はGoogleドキュメントに限らず、他のテキストエディタでもおおむね利用できる事例です",
-    "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのほか、正規表現の実例については、インターネット上でさまざまな紹介がされているので、調べてみましょう",
-    "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情シス支援サービス「ION」（イオン） 事例紹介",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "といった問題に直面するケースも少なくありません",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "こうした不正確で整理されていないデータは、分析結果の精度を低下させるだけでなく、業務効率の悪化や誤った意思決定の原因にもなります",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回は、データクレンジングの概要や目的、必要になるケース、具体的な手法や進め方について分かりやすく解説します",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "３．データクレンジングが必要になるケース",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "と呼ばれ、そのまま利用すると検索や集計が正しく行えなかったり、分析結果の精度にも影響が及び、誤った意思決定や業務効率の低下につながる可能性があります",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上記のような処理を通じてデータの品質が向上し、データ分析やマーケティング、営業活動などにおいて、より信頼性の高い結果を得られるようになります",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "しかし実際には、誤入力や重複登録、表記ゆれ、情報の欠損などが含まれているケースも少なくありません",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データ分析の結果は、元となるデータの品質に大きく左右されます",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ダーティデータを含んだ状態のまま分析を行えば、得られる結果も不正確になり、誤った意思決定につながる可能性があります",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここでは、企業でよく見られる代表的なケースを紹介します",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データ分析やAI活用においては、入力されるデータの品質に結果が大きく左右されます",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "不正確なデータを使用すると分析結果の精度が低下し、誤った意思決定につながる可能性があります",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データ分析の結果は、分析に使用するデータの品質に大きく左右されます",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "誤入力や欠損、重複データが含まれている状態では、分析結果に誤差が生じやすく、適切な戦略や施策を立てることが難しくなります",
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、データ・クリーニングは、機械学習アルゴリズムのトレーニングの基となるデータセットを、正確で一貫性がありバイアスのない状態にするのに役立ちます",
-    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、「MM-DD-YYYY」と「DD-MM-YYYY」などの日付形式の違いがよく見られます",
-    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、AIは、電話番号の列に市外局番が欠落している場合が多いことを特定して、標準化のためのルールを提案できます",
-    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、統合したレコードに最新のEメール・アドレスを保持するなど、コンテキストに基づいて特定のフィールドに優先順位を付けることができます",
-    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "IBMのTechsplainersでは、主要な概念から実際のユースケースまで、AIのデータの基本を解説しています",
-    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Another example is when you are removing duplicates. Be purposeful about how you remove those duplicates and order your data in a specific way before dropping cases. If someone at some point shuffles your raw data around and you re-run your syntax, you may end up dropping a different duplicate if you did not arrange your data first.",
-    "url": "https://cghlewis.com/blog/data_clean_02/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Very simple example of automating checks of your raw data",
-    "url": "https://cghlewis.com/blog/data_clean_02/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "run but it did not run as you expected it to. These are the scariest to me. If you don’t pay attention to these warnings, you may end up with unexpected results. See the example below where I never noticed that one value in my",
-    "url": "https://cghlewis.com/blog/data_clean_02/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example of a useful warning message",
-    "url": "https://cghlewis.com/blog/data_clean_02/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "). Once a wave of data has been collected and captured and the raw data has been stored, your data cleaning process should begin. In a best-case scenario, the data cleaning is wrapped up before your next wave of data collection. Cleaning data each wave, as opposed to waiting until the end of your project, has two large benefits.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, if a student is in 2nd grade, their teacher ID should be associated with a 2nd grade teacher. Or, a date of birth collected from a student survey should match date of birth collected from a school district.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Does the number of cases in your data match the number of tracked forms in your participant tracking database? Are there any duplicates? Is anyone missing?",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "If cases are marked as complete in your tracking database but their data is missing, investigate the error. Was a form incorrectly tracked in your tracking database? Was a form not entered during the data capture phase?",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Remove duplicate cases.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In the special case where you purposefully collect duplicate observations on a participant (i.e., for reliability purposes), you will only want to keep one row per participant in your final study dataset. Again, a decision rule will need to be added to documentation so duplicates are dealt with consistently (e.g., always keep the primary observer’s record).",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". In order to create a coded data file, we horizontally join our “raw data” file with our “roster file” using our unique identifiers (which in this case are",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Here you can think of examples such as the metadata collected by a survey platform (e.g., survey duration). These columns may be irrelevant to your study and cause clutter in your final dataset.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "As an example, it may be that you need to remove unexpected characters such as",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In the case of Figure",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This is not the time to construct analysis-specific variables. This is the time to create or calculate variables that should always be a part of the core study dataset. These variables should be chosen by your data management working group early on and added to your data dictionary. Examples of variables you might add:",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This can be especially helpful if you plan to export your variables with numeric values (1 | 0), rather than text values (“yes” | “no”). In this case, rather than having to flip back and forth between a file and a data dictionary to interpret codes, users can review information about the variables within the file itself.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Check again for missing cases/duplicate cases.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "in the appropriate places for future users (e.g., data dictionary, data cleaning plan, research protocol). Some examples of how you might deal with true errors include:",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "If there are true errors where the correct answer can be easily inferred (e.g., a 3-item rank order question is completed as 1, 2, 4), sometimes logical or deductive editing can be used in those cases and the value is replaced with the logical correction",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決めた内容は変換テーブルや辞書の形にして、誰が実行しても同じ結果になる状態にします",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1回で全件を変換せず、まず数百件で試して結果を確かめてから全件に広げると、戻す範囲を小さく抑えられます",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "判断の基準を文書に残し、誰が承認するかまで決めておくと、担当者が変わっても同じ結果を再現できます",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "さまざまな可視化の方法を試してみるとよいでしょう",
@@ -976,6 +460,288 @@
     "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
     "pass": 3,
     "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "汚れたデータのまま移行しない：基幹システム刷新で手戻りを防ぐ優先順位と手順｜ポップコーン☆パーティー",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "汚れたデータのまま移行しない：基幹システム刷新で手戻りを防ぐ優先順位と手順",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "原本を守るクレンジング5ステップ",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本稿では、移行対象の絞り込みから事前プロファイリング、クレンジング、整合性検証までを、そのまま使える手順で示す",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "手順1：移行対象を絞り、切替方式を決める",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "対象外のデータには、理由と移行後の参照先（旧環境での閲覧・保持方法）を明記する（",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "手順2：事前プロファイリングで汚れを数値にする",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "手順3：段階的にクレンジングする",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クレンジングは、次の5ステップで進める",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "手順4：移行後に整合性を検証する",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本稿の手順は、データ統合と相互運用性、データ品質、データストレージとオペレーションの領域にまたがる",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "個々の手順は単独でも使えるが、ばらばらの施策では次の刷新で同じ問題が再発する",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同じ意味を持つデータでも、入力方法が異なることがあります",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析方法が正しくても、元データに問題があれば結果も正しくならないため、重要な準備作業です",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析用なのか、新システムへの移行用なのか、AIの学習用なのかによって、必要な品質や修正方法が変わるためです",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "欠損値を0や平均値で補う方法もありますが、適切かどうかはデータの意味によって異なります",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングは、データ品質を改善・維持するための方法の一つです",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングの方法・手順を徹底解説｜失敗しない7ステップと実務のコツ - DATA VIZ LAB｜データビズラボ",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングの方法・手順を徹底解説｜失敗しない7ステップと実務のコツ",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を実施する前の準備、7ステップの具体手順、代表的な方法、よくある失敗パターン、成功させるためのポイントまでを、実務で活かせる観点で整理した内容です",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングの具体的な手順【7ステップ】",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ1:データの収集と現状把握",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ2:データプロファイリングによる品質課題の可視化",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ3:重複データの検出と統合(名寄せ)",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ4:表記ゆれ・揺らぎの統一(全角半角・カタカナひらがな等)",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ5:欠損値・異常値の補完または除外",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ6:フォーマット統一とデータ型の正規化",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ7:検証・テストと本番反映",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングの代表的な方法とアプローチ",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本章では、目的定義・対象データの棚卸し・クレンジングルールの策定・関係部門との合意形成という4つの準備ステップを通じて、プロジェクトを迷走させないための土台づくりのポイントを整理します",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "目的設定を含むデータ分析プロジェクト全体の進め方については、こちらの記事で詳しく解説しています",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "営業・マーケティング・経理・カスタマーサポートなど、データを生成し利用する部門を巻き込み、各部署の使い方や制約を聞き取った上でルールを練り上げていきます",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングの基本的な流れとは？具体的な5つの手順と方法",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、データドリブンな意思決定を実現するための第一歩として、データクレンジングの基本的な知識から、具体的な手順、実践的な方法、そして成功のポイントまでを網羅的に解説します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングの基本的な流れ【5つの手順】",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データプレパレーションの全体像は、一般的に以下のようなステップで構成されます",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでは、効果的かつ効率的にデータクレンジングを実施するための、基本的な5つの手順を詳しく解説します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングの最初のステップは、対象となるデータがどのような状態にあるのかを正確に把握することから始まります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "各カラムのデータ型（文字列、数値、日付など）が期待通りか",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このステップを丁寧に行うことで、後続のクレンジング計画を具体的かつ現実的なものにできます",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クレンジングルールとは、「どのような状態のデータを『汚れている』とみなし、それをどのように『綺麗』にするか」という基準と手順を定めたものです",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実行方法は、データの量や複雑さ、利用できるツールによって様々です",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "後述するTalendやAlteryxのようなデータクレンジング/ETLツールを利用する方法です",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "どの方法を選択するにせよ、実行時に重要な注意点が2つあります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データの形式や単位、表現方法を、あらかじめ定められた共通の基準に揃えること",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検証作業では、クレンジング後のデータに対して、再度ステップ①で行ったようなデータプロファイリングを実施します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでは、データクレンジングの現場で頻繁に遭遇する「データの汚れ」の種類と、それらに対処するための具体的な方法を、例を交えながら詳しく解説します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
    }
   ],
   "一次情報の探し方": [
@@ -1038,331 +804,81 @@
     "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
     "pass": 3,
     "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "とは、データの統計的な特徴・分布・欠損率・ユニーク値数などを自動的に算出し、品質上の課題を可視化するプロセスです",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データ探索・プロファイリング（Data Discovery & Profiling）",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データプロファイリングでは、専用のツールやスクリプトを用いて、データの基本的な統計量や構造、パターンを調査し、品質上の問題点を網羅的に洗い出します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一部のデータをサンプリングして目視で確認したり、クレンジング前後のデータの統計量を比較したりすることも有効です",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "欠損値が多いと、統計分析の結果が歪んだり、機械学習モデルが正しく学習できなかったりする原因となります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
    }
-  ]
- },
- "figures": {},
- "checked": {
-  "pass3": [
-   {
-    "url": "https://note.com/satoruhiguchi/n/nef38cf36c558",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/zenkok/n/n4f536e9d2da3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/satouken_note/n/nd42093decff9",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/engikoumu/n/n5031c49787f1",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/modern_flea8708/n/n4cb0a9cf14b7",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/zenkok/n/n10deb89e4e42",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/tableauprep_user/n/nb35e1f54bf07",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://jp.linkedin.com/pulse/common-data-cleaning-mistakes-how-avoid-them-quantum-analytics-ng-ik19f?tl=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.tableau.com/ja-jp/learn/articles/data-cleansing",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/deep_lynx4442/n/n43dd1175dcaf",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.l.u-tokyo.ac.jp/2015SSM-PJ/01_09.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://help.autodesk.com/view/MAYAUL/2019/CHS/?guid=GUID-EA3311B2-BC51-455C-A462-25809455D494",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://data-viz-lab.com/edc-data-cleaning",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://jp.mathworks.com/discovery/data-cleaning.html",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://csrda.iss.u-tokyo.ac.jp/infrastructure/depo/data-clean.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://promotion.jsol.co.jp/datamanagement/blog/data-cleansing.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://business.adobe.com/jp/blog/data-cleansing",
-    "status": "network_error:ReadTimeout",
-    "method": "http"
-   },
-   {
-    "url": "https://executive-marketing-japan.co.jp/summary-of-data-cleaning-usage-case-studies/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.persol-bd.co.jp/service/salesmarketing/s-smkt/column/data-infrastructure_07/index.html/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://cghlewis.com/talks/cos/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://cghlewis.com/blog/data_mgmt_resources/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://datamgmtinedresearch.com/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://cghlewis.github.io/ncme-data-cleaning-workshop/slides.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://cghlewis.com/blog/data_clean_02/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://datamgmtinedresearch.com/clean",
-    "status": "ok",
-    "method": "http"
-   }
-  ]
- },
- "search_log": [
-  {
-   "query": "研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合） site:note.com",
-   "results": [
-    "https://note.com/satoruhiguchi/n/nef38cf36c558",
-    "https://note.com/zenkok/n/n4f536e9d2da3",
-    "https://note.com/satouken_note/n/nd42093decff9",
-    "https://note.com/engikoumu/n/n5031c49787f1",
-    "https://note.com/modern_flea8708/n/n4cb0a9cf14b7",
-    "https://note.com/zenkok/n/n10deb89e4e42",
-    "https://note.com/zenkok/n/n5c18b94b5621",
-    "https://note.com/modern_flea8708/n/nfa3f4906fbe6",
-    "https://note.com/aiontechjp/n/n14508d47f3ae",
-    "https://note.com/platypus2000jp/n/ne3a95ffaa0a2"
-   ]
-  },
-  {
-   "query": "研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合） note",
-   "results": [
-    "https://note.com/tableauprep_user/n/nb35e1f54bf07",
-    "https://jp.linkedin.com/pulse/common-data-cleaning-mistakes-how-avoid-them-quantum-analytics-ng-ik19f?tl=ja",
-    "https://www.tableau.com/ja-jp/learn/articles/data-cleansing",
-    "https://note.com/deep_lynx4442/n/n43dd1175dcaf",
-    "https://www.l.u-tokyo.ac.jp/2015SSM-PJ/01_09.pdf",
-    "https://help.autodesk.com/view/MAYAUL/2019/CHS/?guid=GUID-EA3311B2-BC51-455C-A462-25809455D494",
-    "https://ja.exploratory.io/note/6412637879363595/5147932562192300/note_content/note.html",
-    "https://web-material3.yokogawa.com/GSML1-01E_002.pdf",
-    "https://www.youtube.com/watch?v=I-kfK6mqrg4",
-    "https://sites.google.com/tohoku.ac.jp/rec-portal/01/01-04"
-   ]
-  },
-  {
-   "query": "研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合） やり方",
-   "results": [
-    "https://data-viz-lab.com/edc-data-cleaning",
-    "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "https://www.tableau.com/ja-jp/learn/articles/data-cleansing",
-    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
-    "https://www.l.u-tokyo.ac.jp/2015SSM-PJ/01_09.pdf",
-    "https://www.cm-net.co.jp/blog/data-cleansing/",
-    "https://jp.mathworks.com/discovery/data-cleaning.html",
-    "https://www.nomura-system.co.jp/contents/data-crensing/",
-    "https://cacco.co.jp/datascience/media/data-analysis/6282/",
-    "https://sites.google.com/tohoku.ac.jp/rec-portal/01/01-04"
-   ]
-  },
-  {
-   "query": "研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合） 事例",
-   "results": [
-    "https://www.tableau.com/ja-jp/learn/articles/data-cleansing",
-    "https://www.youtube.com/watch?v=I-kfK6mqrg4",
-    "https://csrda.iss.u-tokyo.ac.jp/infrastructure/depo/data-clean.html",
-    "https://promotion.jsol.co.jp/datamanagement/blog/data-cleansing.html",
-    "https://business.adobe.com/jp/blog/data-cleansing",
-    "https://executive-marketing-japan.co.jp/summary-of-data-cleaning-usage-case-studies/",
-    "https://jp.mathworks.com/discovery/data-cleaning.html",
-    "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
-    "https://www.persol-bd.co.jp/service/salesmarketing/s-smkt/column/data-infrastructure_07/index.html/",
-    "https://sites.google.com/tohoku.ac.jp/rec-portal/01/01-04"
-   ]
-  },
-  {
-   "query": "data cleaning plan checklist consistency checks Crystal Lewis data management education research",
-   "results": [
-    "https://cghlewis.com/talks/cos/",
-    "https://cghlewis.com/blog/data_mgmt_resources/",
-    "https://datamgmtinedresearch.com/",
-    "https://cghlewis.github.io/ncme-data-cleaning-workshop/slides.html",
-    "https://cghlewis.com/blog/data_clean_02/",
-    "https://datamgmtinedresearch.com/clean",
-    "https://www.linkedin.com/posts/crystal-lewis-922b4193_data-cleaning-takes-up-a-large-amount-of-activity-7304887586559299586-ssht",
-    "https://cghlewis.com/blog/data_clean_01/",
-    "https://cghlewis.github.io/mpsi-data-training/training_4.html",
-    "https://cghlewis.github.io/mpsi-data-training/index.html"
-   ]
-  },
-  {
-   "query": "site:note.com 研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合）",
-   "results": [
-    "https://note.com/zenkok/n/n4f536e9d2da3",
-    "https://note.com/modern_flea8708/n/n4cb0a9cf14b7",
-    "https://note.com/akatsuka_loveu/n/n157598f4a384",
-    "https://note.com/skobayashi/n/n4030751cdb6d",
-    "https://note.com/tender_hawk4482/n/n66c34a6e9811",
-    "https://note.com/dapper_pony2721/n/n7b2e0d123f45",
-    "https://note.com/simum/n/n5a64f51426f1",
-    "https://note.com/hiro_forge_mfg/n/n79ccbcfdb315",
-    "https://note.com/youyou_pnd/n/n2e6cc4a7087a"
-   ]
-  },
-  {
-   "query": "site:x.com 研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合）",
-   "results": []
-  },
-  {
-   "query": "site:linkedin.com 研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合）",
-   "results": [
-    "https://jp.linkedin.com/pulse/omprehensive-guide-data-analysis-muhammad-mairaj?tl=ja",
-    "https://jp.linkedin.com/pulse/mastering-data-cleansing-best-practices-science-dibya-sampad-barik-crxlc?tl=ja",
-    "https://www.linkedin.com/posts/nikolaos-voulgaris-physicsworld_研究データエコシステムの好循環を支えるガイドラインと教材の一体的開発名古屋大学と-activity-7506344379272298496-enzW",
-    "https://jp.linkedin.com/pulse/ultimate-guide-spotting-data-errors-fixing-them-fast-cassamo-jwnpf?tl=ja",
-    "https://jp.linkedin.com/pulse/cleaning-messy-data-lei-business-listings-ednalyn-c-de-dios-msc-3jjrc?tl=ja",
-    "https://jp.linkedin.com/pulse/effective-database-management-tips-implement-proper-data-validation?tl=ja",
-    "https://jp.linkedin.com/pulse/preparing-data-ai-guide-engineers-fortegroup-k2ppf?tl=ja"
-   ]
-  },
-  {
-   "query": "site:facebook.com 研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合）",
-   "results": [
-    "https://www.facebook.com/NARO.go.jp/posts/標準作業手順書農研機構では開発した技術を活用いただくために農業に従事されている皆さま都道府県の普及担当者指導者や研究者の皆さま向けに総合的な技術解説書標準作業手/1304210490992962/",
-    "https://www.facebook.com/CleansysSL/",
-    "https://www.facebook.com/NARO.go.jp/posts/農研機構のおすすめsop標準作業手順書は技術をクリックすると関連するsopが表示されますまたキーワード検索はもちろん分野別や公開年別にも検索可能ですsopは利用/1307283040685707/",
-    "https://www.facebook.com/fseo201777/videos/知らないと損するhaccpの落とし穴落とし穴①記録が後回しに落とし穴②清掃がマニュアル化されていない落とし穴③計画の更新が止まっているhaccpは完璧な書類を作/973682972019929/",
-    "https://www.facebook.com/enbukikaku/posts/トイレ掃除の手順書トイレ掃除のレベル1の手順書を作成し直しましたここからスタートし少しずつ床拭きやタイルを水で流すなどの上級者コースに進んでいきたいと思います/1886881018116313/",
-    "https://www.facebook.com/metskenkyujo/posts/月刊國立公園の技術情報欄に弊社研究員が投稿國立公園誌は日本の国立公園と同じく80余年の歴史を持ち国内外の自然公園の最新ニュース調査研究や最新技術の情報各地の自然/756832746446445/",
-    "https://www.facebook.com/hirayamalab/posts/第40回全国都市清掃研究事例発表会宮崎市において地図を用いた大規模災害時の廃棄物処理広域連携に向けた机上演習手法の開発と題した研究発表がありました-松島夕佳子上/490869444650963/"
-   ]
-  },
-  {
-   "query": "研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合） note 社長",
-   "results": [
-    "https://data-viz-lab.com/edc-data-cleaning",
-    "https://liber-craft.co.jp/column/data-cleansing",
-    "https://note.com/deep_lynx4442/n/n43dd1175dcaf",
-    "https://jp.linkedin.com/pulse/common-data-cleaning-mistakes-how-avoid-them-quantum-analytics-ng-ik19f?tl=ja",
-    "https://note.com/akatsuka_loveu/n/n157598f4a384",
-    "https://www.l.u-tokyo.ac.jp/2015SSM-PJ/01_09.pdf",
-    "https://ja.exploratory.io/note/6412637879363595/5147932562192300/note_content/note.html",
-    "https://www.nomura-system.co.jp/contents/data-crensing/",
-    "https://geniee.co.jp/media/cdp/data-cleansing/",
-    "https://sites.google.com/tohoku.ac.jp/rec-portal/01/01-04"
-   ]
-  },
-  {
-   "query": "研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合） X 投稿",
-   "results": [
-    "https://data-viz-lab.com/how-to-data-cleaning",
-    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
-    "https://www.l.u-tokyo.ac.jp/2015SSM-PJ/01_09.pdf",
-    "https://www.nomura-system.co.jp/contents/data-crensing/",
-    "https://www.asteria.com/jp/warp/blog/165973.html",
-    "https://ja.exploratory.io/note/6412637879363595/5147932562192300/note_content/note.html",
-    "https://www.peaks-media.com/2417/",
-    "https://otsumu.co.jp/knowledge/glossary/terms/data-cleansing.html",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://sites.google.com/tohoku.ac.jp/rec-portal/01/01-04"
-   ]
-  },
-  {
-   "query": "data cleaning plan checklist consistency checks Crystal Lewis data management education research site:linkedin.com",
-   "results": [
-    "https://www.linkedin.com/in/crystal-lewis-166b12a",
-    "https://www.linkedin.com/in/shelley-stall",
-    "https://www.linkedin.com/in/sophia-deloach-mscr-8700b9185",
-    "https://www.linkedin.com/posts/srijitseal_for-the-past-several-weeks-i-have-transitioned-activity-7441079385434132480-f6h1",
-    "https://www.linkedin.com/top-content/employee-experience/employee-satisfaction-surveys/piloting-surveys-before-full-deployment/",
-    "https://www.linkedin.com/in/kevin-lange-3003657",
-    "https://www.linkedin.com/in/ronmozalewski",
-    "https://www.linkedin.com/in/meganmsilverman",
-    "https://www.linkedin.com/in/pawel-dlugosz-fraud-prevention",
-    "https://www.linkedin.com/in/arungaikwad-engineering-leader"
-   ]
-  }
- ],
- "missing": {},
- "new_this_run": {
+  ],
   "突き合わせ・推定": [
+   {
+    "quote": "このような重複データを照合し、同一と判断して統合する処理が名寄せです",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索・照合の精度を上げるための“土台作り”となる処理です",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "氏名・住所・電話番号などを照合し、1つのデータに統合します",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データ・クリーニングによって、組み合わせたデータをシステム間で一貫性を持って使用できるようになり、データ形式や規格の矛盾から生じる問題を防ぐことができます",
+    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同じデータセット内で、データが異なる形式や構造で表現されていると矛盾が生じます",
+    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これに対処するため、データ専門家は欠損値を推定データで置き換えたり、不完全な入力項目を削除したり、さらなる調査のために欠損値にフラグを立てたりする場合があります",
+    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データの検証では、多くの場合、手動検査または自動データ・クリーニング・ツールを使用して、エラーや一貫性のないデータ、異常が残っていないかをチェックします",
+    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
    {
     "quote": "Step4｜変換を実行し元データと突き合わせて検証する",
     "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
@@ -1410,9 +926,833 @@
     "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
     "pass": 3,
     "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本稿では、移行対象の絞り込みから事前プロファイリング、クレンジング、整合性検証までを、そのまま使える手順で示す",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "処理後は再集計して検証し、適用したルールと修正の背景を文書化する",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "手順4：移行後に整合性を検証する",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検証の判定基準は、事前に文書で決めておく",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "全体集計だけでなく、サンプルの目視照合や帳票の出力確認も併用する",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データ検証は、データが決められた条件を満たしているか確認することです",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "たとえば、「生年月日が日付形式になっているか」を確認するのが検証です",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ7:検証・テストと本番反映",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "スモールスタートで効果検証してから全社展開する",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クレンジング処理を書き終わったら、必ず結果を検証します",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検証が済んだら、バックアップを取った上で本番反映します",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "対策として、作業前の自動バックアップ・ステージング環境での事前検証・トランザクション管理の3点をルール化します",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本番環境への直接編集は原則禁止とし、必ず検証環境で同じ処理を流してから適用する運用が鉄則です",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自動化はあくまで仮説に基づく処理であり、常に例外が存在することを前提に設計すべきです",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "計画通りにデータの品質が向上したかどうかを検証し、その品質を維持するための仕組みを構築する",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検証作業では、クレンジング後のデータに対して、再度ステップ①で行ったようなデータプロファイリングを実施します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この検証プロセスで問題が見つかった場合は、クレンジング計画や実行プロセスに立ち返り、修正を行います",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この検証とモニタリングのサイクルを回すことで、データクレンジングは一過性のイベントではなく、継続的なデータ品質管理のプロセスとして組織に定着します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "正しい単語リスト（辞書）と照合し、辞書にない単語をエラーとして検出します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 異なるシステムやデータベース間で、データの定義や形式に矛盾がないこと",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データに不整合があると、多くの部署で「データを手作業で修正する」「複数の資料を突き合わせて正しい値を確認する」といった非効率な作業が発生します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ビジネス上の目的を起点に、達成すべき品質レベル（ゴール）を設定し、そこから逆算してクレンジングの範囲と深度を計画する",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": ①データ全体の把握（プロファイリング） → ②計画とルールの定義 → ③クレンジングの実行 → ④標準化・正規化 → ⑤結果の検証とモニタリング、という体系的なアプローチが重要",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "研究をする過程では、アンケート調査の回答、計測・観測結果など様々なデータを収集・生成することがあるかと思います",
+    "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "たとえば、アンケート調査を実施し、以下のような回答結果を分析する場合を考えてみましょう",
+    "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでの事例はGoogleドキュメントに限らず、他のテキストエディタでもおおむね利用できる事例です",
+    "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのほか、正規表現の実例については、インターネット上でさまざまな紹介がされているので、調べてみましょう",
+    "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情シス支援サービス「ION」（イオン） 事例紹介",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "といった問題に直面するケースも少なくありません",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "こうした不正確で整理されていないデータは、分析結果の精度を低下させるだけでなく、業務効率の悪化や誤った意思決定の原因にもなります",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回は、データクレンジングの概要や目的、必要になるケース、具体的な手法や進め方について分かりやすく解説します",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "３．データクレンジングが必要になるケース",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "と呼ばれ、そのまま利用すると検索や集計が正しく行えなかったり、分析結果の精度にも影響が及び、誤った意思決定や業務効率の低下につながる可能性があります",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上記のような処理を通じてデータの品質が向上し、データ分析やマーケティング、営業活動などにおいて、より信頼性の高い結果を得られるようになります",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しかし実際には、誤入力や重複登録、表記ゆれ、情報の欠損などが含まれているケースも少なくありません",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データ分析の結果は、元となるデータの品質に大きく左右されます",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ダーティデータを含んだ状態のまま分析を行えば、得られる結果も不正確になり、誤った意思決定につながる可能性があります",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでは、企業でよく見られる代表的なケースを紹介します",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データ分析やAI活用においては、入力されるデータの品質に結果が大きく左右されます",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "不正確なデータを使用すると分析結果の精度が低下し、誤った意思決定につながる可能性があります",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データ分析の結果は、分析に使用するデータの品質に大きく左右されます",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "誤入力や欠損、重複データが含まれている状態では、分析結果に誤差が生じやすく、適切な戦略や施策を立てることが難しくなります",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、データ・クリーニングは、機械学習アルゴリズムのトレーニングの基となるデータセットを、正確で一貫性がありバイアスのない状態にするのに役立ちます",
+    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、「MM-DD-YYYY」と「DD-MM-YYYY」などの日付形式の違いがよく見られます",
+    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、AIは、電話番号の列に市外局番が欠落している場合が多いことを特定して、標準化のためのルールを提案できます",
+    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、統合したレコードに最新のEメール・アドレスを保持するなど、コンテキストに基づいて特定のフィールドに優先順位を付けることができます",
+    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IBMのTechsplainersでは、主要な概念から実際のユースケースまで、AIのデータの基本を解説しています",
+    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Another example is when you are removing duplicates. Be purposeful about how you remove those duplicates and order your data in a specific way before dropping cases. If someone at some point shuffles your raw data around and you re-run your syntax, you may end up dropping a different duplicate if you did not arrange your data first.",
+    "url": "https://cghlewis.com/blog/data_clean_02/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Very simple example of automating checks of your raw data",
+    "url": "https://cghlewis.com/blog/data_clean_02/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "run but it did not run as you expected it to. These are the scariest to me. If you don’t pay attention to these warnings, you may end up with unexpected results. See the example below where I never noticed that one value in my",
+    "url": "https://cghlewis.com/blog/data_clean_02/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example of a useful warning message",
+    "url": "https://cghlewis.com/blog/data_clean_02/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "). Once a wave of data has been collected and captured and the raw data has been stored, your data cleaning process should begin. In a best-case scenario, the data cleaning is wrapped up before your next wave of data collection. Cleaning data each wave, as opposed to waiting until the end of your project, has two large benefits.",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, if a student is in 2nd grade, their teacher ID should be associated with a 2nd grade teacher. Or, a date of birth collected from a student survey should match date of birth collected from a school district.",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Does the number of cases in your data match the number of tracked forms in your participant tracking database? Are there any duplicates? Is anyone missing?",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "If cases are marked as complete in your tracking database but their data is missing, investigate the error. Was a form incorrectly tracked in your tracking database? Was a form not entered during the data capture phase?",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Remove duplicate cases.",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In the special case where you purposefully collect duplicate observations on a participant (i.e., for reliability purposes), you will only want to keep one row per participant in your final study dataset. Again, a decision rule will need to be added to documentation so duplicates are dealt with consistently (e.g., always keep the primary observer’s record).",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". In order to create a coded data file, we horizontally join our “raw data” file with our “roster file” using our unique identifiers (which in this case are",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Here you can think of examples such as the metadata collected by a survey platform (e.g., survey duration). These columns may be irrelevant to your study and cause clutter in your final dataset.",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "As an example, it may be that you need to remove unexpected characters such as",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In the case of Figure",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This is not the time to construct analysis-specific variables. This is the time to create or calculate variables that should always be a part of the core study dataset. These variables should be chosen by your data management working group early on and added to your data dictionary. Examples of variables you might add:",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This can be especially helpful if you plan to export your variables with numeric values (1 | 0), rather than text values (“yes” | “no”). In this case, rather than having to flip back and forth between a file and a data dictionary to interpret codes, users can review information about the variables within the file itself.",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Check again for missing cases/duplicate cases.",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "in the appropriate places for future users (e.g., data dictionary, data cleaning plan, research protocol). Some examples of how you might deal with true errors include:",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "If there are true errors where the correct answer can be easily inferred (e.g., a 3-item rank order question is completed as 1, 2, 4), sometimes logical or deductive editing can be used in those cases and the value is replaced with the logical correction",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決めた内容は変換テーブルや辞書の形にして、誰が実行しても同じ結果になる状態にします",
+    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1回で全件を変換せず、まず数百件で試して結果を確かめてから全件に広げると、戻す範囲を小さく抑えられます",
+    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "判断の基準を文書に残し、誰が承認するかまで決めておくと、担当者が変わっても同じ結果を再現できます",
+    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事例では、現行データの実態把握の不足が、データ移行の障害の一因になっている",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IPAの事例集には、その具体例がある",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "別の事例では、本番環境とテスト環境のデータベースのオプションやパラメータの差異を把握しないまま移行した",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その結果、切替時にシステムダウンやサービス停止が起きた（",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データ移行テストを終盤のユーザーテスト段階まで実施しなかった事例がある",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "基準値は案件ごとに決め、結果は早い段階で関係者に共有する",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "たとえば、同じ都道府県を「東京都」「東京」「TOKYO」のように異なる表記で登録していると、集計や検索で正しい結果を得られないことがあります",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析、システム移行、AI・機械学習などでは、処理するプログラムだけでなく、入力するデータの品質も結果を大きく左右します",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AIや機械学習では、学習に使用するデータの品質が結果へ大きく影響します",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "重複、誤り、極端な偏りなどを含んだデータをそのまま使用すると、期待した学習結果を得られない可能性があります",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析方法が正しくても、元データに問題があれば結果も正しくならないため、重要な準備作業です",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この段階で基準が曖昧だと、担当者によって修正結果が変わってしまいます",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析担当者がデータを確認した結果、「この項目は表記ゆれが多いので、先にクレンジングします」と判断することがあります",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果から、修正が必要な候補を特定します",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "担当者の感覚だけで修正すると、同じデータでも結果が変わる可能性があります",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "処理後に、想定どおりの結果になっているか確認します",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "何を正しいデータとするのかを決め、元データの状態を確認し、明確なルールに基づいて修正し、その結果まで確認する必要があります",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データを使う処理がどれほど優れていても、元になるデータの品質が悪ければ、正しい結果を得ることは難しくなります",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「空欄は欠損とみなすか、『該当なし』として扱うか」「姓と名の間のスペースは全角・半角のどちらに寄せるか」など、判断の分かれるケースをルールとして事前に言語化します",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "合意形成の場では、「この処理で業務にどんな影響が出るか」「例外ケースは現場で本当に必要か」を具体的に確認します",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プロファイリングの結果からは、郵便番号列に英字が混入している・日付列に1900年の外れ値がある・電話番号の桁数がばらついている、といった具体的な課題が見えてきます",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば「キヤノン」を「キャノン」に寄せてしまうと公式表記から外れるため、例外辞書を設けて守るべき表記を明示しておくことが大切です",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "異常値のようで実は重要なシグナルだった、というケースが現場では意外に多いためです",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日付が「2024/1/1」「2024-01-01」「令和6年1月1日」と混在していたり、金額列が文字列として格納されていたりするケースは多いものです",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クレンジング処理を書き終わったら、必ず結果を検証します",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "UPDATE文やCASE式、正規表現（REGEXP_REPLACE等）、ウィンドウ関数を使えば、重複検出や表記統一を一括で実行できます",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "複雑な条件分岐は一気に書かず、一時テーブルに中間結果を吐き出しながら段階的に進めるアプローチも有効です",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Embeddingによる類似度計算や、教師あり学習で作った分類モデルを名寄せ・カテゴリ正規化に用いる事例が増えています",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "対策は、着手前にユースケースを1〜2件に絞り、その用途で必要な品質基準だけをスコープに含めることです",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "結果として「ルール通りに処理したら現場が困った」という事態が発生し、データ部門と事業部門の信頼関係も損なわれます",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業務上重要なレコードまで失ってしまうケースがあります",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最初の成功事例は、全社展開の際の説得材料として大きな役割を果たしてくれます",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "モニタリング結果は、現場と共有してフィードバックループを回します",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しかし、収集されたデータがそのまま活用できるケースは稀です",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、顧客データベースに「東京都千代田区」と「東京都千代田区」、「Taro Yamada」と「山田 太郎」といった異なる表記が混在していると、正確な顧客数を把握したり、顧客を正しくセグメント分けしたりすることが困難になります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "誤ったデータや欠損値、異常値が含まれていると、分析結果にバイアスが生じ、市場のトレンドや顧客のインサイトを正しく捉えられなくなります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クレンジングによってデータのノイズを除去することで、分析結果の信頼性が格段に向上します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、請求先住所が間違っていれば、請求書の再発行や問い合わせ対応といった余計な手間がかかります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データ量が少ない場合や、複雑な判断が必要なケースでは、Excelやスプレッドシート上で直接データを修正することもあります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "機械学習などの分野でよく使われる手法で、各データ項目の尺度が大きく異なる場合に、それらを一定の範囲（例えば0から1、あるいは平均0・標準偏差1）に収まるように変換することです",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これにより、特定の項目だけが分析結果に大きな影響を与えるのを防ぎます",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データが標準化されていなければ、例えば「東京都」の顧客数を集計する際に、「東京都」や「東京」といった表記揺れをすべて拾い上げることができず、正確な数値を算出できません",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、メールアドレスの形式（",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、「法人格はすべて『株式会社』に統一し、社名の前後に付ける（前株/後株）」「英数字はすべて半角に統一する」といったルールです",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "欠損値が多いと、統計分析の結果が歪んだり、機械学習モデルが正しく学習できなかったりする原因となります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、年齢が120歳を超える場合は、すべて120歳として扱うなどです",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "低品質なデータ、すなわち「ゴミ（Garbage）」に基づいて下された意思決定は、同じく「ゴミ」のような結果しか生み出しません（Garbage In, Garbage Out）",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "結果として、キャンペーンの効果は最大化され、顧客エンゲージメントも向上します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
    }
   ],
   "失敗・落とし穴": [
+   {
+    "quote": "分析をはじめる前に、いくつかデータをピックアップしてチェックしたり、データを可視化したりして間違いを見つけることで、こうした二度手間を避けることができます",
+    "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ツール使用時にテキストデータがサーバに送信されるため、個人情報を含むテキストで使用する場合には注意が必要です",
+    "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、Excelでは1900年より前の日付を「文字列」として扱うため、注意が必要です",
+    "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、日本語では適切に動作しないことがあったり、固有名詞などはチェックできなかったりするため、注意が必要です",
+    "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただ、Excelでは操作を誤りやすいため、変更の必要がないセルをロックしたり、既定値のあるデータには「データの入力規則」を適用したりするとよいでしょう",
+    "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そこで重要になるのが、データの誤りや重複、表記ゆれなどを修正し、信頼性の高い状態へと整える",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "９．データクレンジング実施時のポイント・注意点",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングとは、データベースに保存された情報の誤りや重複、表記ゆれ、欠損などの不備を修正し、データの正確性や一貫性を高める作業のことです",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新しいシステムへデータを移行する際、既存データに誤りや不要な情報が含まれていると、その問題も新しい環境へと引き継がれてしまい、トラブルの原因となります",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データに誤りや重複、表記ゆれがある状態では、必要な情報を探すのに時間がかかり、分析や業務のたびに修正作業が発生します",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しかし、古い情報や不正確なデータをもとに判断すると、戦略の方向性を見誤り、長期的な競争力を損なうリスクがあります",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでは、実施時に押さえておきたい重要なポイントと注意点を整理します",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情シス代行とは？依頼できる業務内容・導入メリット・失敗しない選び方を徹底解説！",
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、データ・クリーニングは、機械学習アルゴリズムのトレーニングの基となるデータセットを、正確で一貫性がありバイアスのない状態にするのに役立ちます",
+    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このクリーンなデータの基盤がなければ、アルゴリズムは不正確で一貫性がなくバイアスのある予測を生成する可能性があり、意思決定の有効性と信頼性を低下させかねません",
+    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "それに比べて、重複データ、誤字脱字（タイプミス）、一貫性のないダーティ・データに基づくビジネス上の意思決定は、リソースの浪費、機会の逸失、戦略的な失敗につながる可能性があります",
+    "url": "https://www.ibm.com/jp-ja/think/topics/data-cleaning",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "like this. This not only increases efficiency but also reduces mistakes you might make when typing out variable names.",
+    "url": "https://cghlewis.com/blog/data_clean_02/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", this is when you will want to run through your final list of sanity checks to make sure no mistakes exist in the data before you export it.",
+    "url": "https://cghlewis.com/blog/data_clean_02/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "I want to emphasize the importance of using a join in your program of choice, as opposed to replacing names with IDs by hand entering identifiers. If at all possible, you want to completely avoid hand entry of study IDs because it is error-prone and can lead to many mistakes.",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", before exporting data you will want to run through your final list of sanity checks, based on our data quality criteria, to make sure no mistakes are missed.",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
    {
     "quote": "データクレンジングは、表記ゆれや重複、欠損、誤りといった汚れを洗い出し、データを業務や分析に使える状態に整える作業です",
     "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
@@ -1436,135 +1776,1426 @@
     "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
     "pass": 3,
     "first_seen": "2026-11-05"
-   }
-  ],
-  "実例": [
+   },
    {
-    "quote": "決めた内容は変換テーブルや辞書の形にして、誰が実行しても同じ結果になる状態にします",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "quote": "クレンジング中に置換ロジックの誤りが起き、データが不可逆的に消えて復元できなくなる例がある",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "1回で全件を変換せず、まず数百件で試して結果を確かめてから全件に広げると、戻す範囲を小さく抑えられます",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "quote": "【SE単語】データクレンジングとは？データの誤りやばらつきを整える作業をやさしく解説｜エンジニアの教科書@暁詞",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "判断の基準を文書に残し、誰が承認するかまで決めておくと、担当者が変わっても同じ結果を再現できます",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "quote": "【SE単語】データクレンジングとは？データの誤りやばらつきを整える作業をやさしく解説",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングとは、データに含まれる誤り、重複、表記のばらつき、欠損、不整合などを見つけ、利用しやすい状態へ整える作業です",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、大きな値や珍しい値が必ず誤りとは限らないため、機械的に削除せず確認が必要です",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "重複、誤り、極端な偏りなどを含んだデータをそのまま使用すると、期待した学習結果を得られない可能性があります",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングは、誤りやばらつきなどを整理し、データ品質を高めることが中心です",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "毎回同じ形式の誤りが発生するのであれば、登録画面や入力チェックに問題がある可能性があります",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングとは、データに含まれる誤り、重複、欠損、表記のばらつき、不整合などを確認し、利用目的に合った状態へ整える作業です",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングの方法・手順を徹底解説｜失敗しない7ステップと実務のコツ - DATA VIZ LAB｜データビズラボ",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングの方法・手順を徹底解説｜失敗しない7ステップと実務のコツ",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を実施する前の準備、7ステップの具体手順、代表的な方法、よくある失敗パターン、成功させるためのポイントまでを、実務で活かせる観点で整理した内容です",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングでよくある失敗パターンと対策",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗1:目的が曖昧なまま着手して工数だけが膨らむ",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗2:バックアップを取らずに元データを破壊してしまう",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗3:一度きりの作業で終わらせ品質が再び劣化する",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗4:現場の業務知識を反映せず実態と乖離したルールになる",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗5:過剰な自動化で重要なデータまで削除してしまう",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本章では、現場で目にすることの多い代表的な失敗パターンを5つ取り上げ、それぞれの対策を具体的にまとめます",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗を避けるだけでなく、プロジェクトを継続的な価値に変えるには、もう一歩踏み込んだ設計が必要です",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事で整理した準備・7ステップの手順・方法の使い分け・失敗パターン・成功のポイントをバランスよく設計することで、",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "多くの場合、データは不完全であったり、誤りを含んでいたり、形式がバラバラであったりと、いわば「汚れた」状態にあります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングを成功させるためのポイント・注意点",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "誤ったデータや欠損値、異常値が含まれていると、分析結果にバイアスが生じ、市場のトレンドや顧客のインサイトを正しく捉えられなくなります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "住所の誤りや重複した顧客情報が存在すると、DM（ダイレクトメール）が不達になったり、同じ顧客に複数のメールを送ってしまったりと、無駄なコストが発生し、顧客体験を損なう原因にもなります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": データの誤り、重複、欠損などを修正し、品質を高める",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "どの方法を選択するにせよ、実行時に重要な注意点が2つあります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "万が一、作業に誤りがあった場合に、いつでも元の状態に戻せるようにしておくことは、データ管理の鉄則です",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "安易な平均値補完はデータの分布を歪める可能性もあるため注意が必要です",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "安易な削除や補完は、データにバイアスをもたらす危険性があります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "入力ミス（例：年齢に「200」、金額の桁間違い）",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クレンジングされた正確なデータは、より確かな市場分析や事業計画の策定を支援し、経営判断の誤りを防ぎます",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前述の通り、重複や誤りのある顧客リストは、DMの不達や二重送付といった無駄な印刷費・郵送費・広告配信費を生み出します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": データの品質（正確性、完全性、一貫性など）を高めるために、データの誤りや重複、欠損などを特定し、修正・削除するプロセス",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kaomatsu_ds/n/nd41cf0435a6c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/youyou_pnd/n/n2e6cc4a7087a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiro_forge_mfg/n/n79ccbcfdb315",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/skobayashi/n/n4030751cdb6d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sites.google.com/tohoku.ac.jp/rec-portal/01/01-04",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinshu-u.ac.jp/hp/bumon/i-chikencenter/doctors/docs/sop_DM_shinshu_20221101.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://rdmkit.rcos.nii.ac.jp/data-life-cycle/planning",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.bur.aichi-pu.ac.jp/gakujyo/kenkyushien/ethics_review/procedure/item/tejyunsho.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mh.nagasaki-u.ac.jp/research/rinsho/shien_tejunsho.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kochi-u.ac.jp/kms/ct_clrsc/data/rinsyo/sop/kochi_dm_sop221104.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://asana.com/ja/resources/sop-template",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-sctr.org/tools/dmp.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ut-crescent.jp/cms/wp-content/uploads/2024/01/d1d5ea1032bb108cd2e50251fdc184e8.docx",
+    "status": "ok",
+    "method": "table"
+   },
+   {
+    "url": "https://datamgmtinedresearch.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://datamgmtinedresearch.com/clean",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cghlewis.github.io/mpsi-data-training/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cghlewis.com/blog/data_clean_02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cghlewis.com/blog/data_mgmt_resources/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://books.google.com/books/about/Data_Management_in_Large_Scale_Education.html?id=z54LEQAAQBAJ",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合） site:note.com",
+   "results": [
+    "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "https://note.com/kaomatsu_ds/n/nd41cf0435a6c",
+    "https://note.com/youyou_pnd/n/n2e6cc4a7087a",
+    "https://note.com/hiro_forge_mfg/n/n79ccbcfdb315",
+    "https://note.com/skobayashi/n/n4030751cdb6d",
+    "https://note.com/simum/n/n5a64f51426f1"
+   ]
+  },
+  {
+   "query": "研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合） note",
+   "results": [
+    "https://sites.google.com/tohoku.ac.jp/rec-portal/01/01-04",
+    "https://www.shinshu-u.ac.jp/hp/bumon/i-chikencenter/doctors/docs/sop_DM_shinshu_20221101.pdf",
+    "https://rdmkit.rcos.nii.ac.jp/data-life-cycle/planning",
+    "https://data-viz-lab.com/data-cleansing-methods",
+    "http://www.bur.aichi-pu.ac.jp/gakujyo/kenkyushien/ethics_review/procedure/item/tejyunsho.pdf",
+    "https://www.mh.nagasaki-u.ac.jp/research/rinsho/shien_tejunsho.html",
+    "https://www.kochi-u.ac.jp/kms/ct_clrsc/data/rinsyo/sop/kochi_dm_sop221104.pdf"
+   ]
+  },
+  {
+   "query": "研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合） やり方",
+   "results": [
+    "https://data-viz-lab.com/data-cleansing-methods",
+    "https://sites.google.com/tohoku.ac.jp/rec-portal/01/01-04",
+    "https://www.shinshu-u.ac.jp/hp/bumon/i-chikencenter/doctors/docs/sop_DM_shinshu_20221101.pdf",
+    "https://rdmkit.rcos.nii.ac.jp/data-life-cycle/planning",
+    "https://www.kochi-u.ac.jp/kms/ct_clrsc/data/rinsyo/sop/kochi_dm_sop221104.pdf",
+    "https://asana.com/ja/resources/sop-template",
+    "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/"
+   ]
+  },
+  {
+   "query": "研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合） 事例",
+   "results": [
+    "https://www.shinshu-u.ac.jp/hp/bumon/i-chikencenter/doctors/docs/sop_DM_shinshu_20221101.pdf",
+    "https://rdmkit.rcos.nii.ac.jp/data-life-cycle/planning",
+    "https://sites.google.com/tohoku.ac.jp/rec-portal/01/01-04",
+    "https://data-viz-lab.com/data-cleansing-methods",
+    "https://www.kochi-u.ac.jp/kms/ct_clrsc/data/rinsyo/sop/kochi_dm_sop221104.pdf",
+    "https://www.j-sctr.org/tools/dmp.html",
+    "https://www.ut-crescent.jp/cms/wp-content/uploads/2024/01/d1d5ea1032bb108cd2e50251fdc184e8.docx"
+   ]
+  },
+  {
+   "query": "data cleaning plan checklist consistency checks Crystal Lewis data management education research",
+   "results": [
+    "https://datamgmtinedresearch.com/",
+    "https://datamgmtinedresearch.com/clean",
+    "https://cghlewis.github.io/mpsi-data-training/index.html",
+    "https://cghlewis.com/blog/data_clean_02/",
+    "https://cghlewis.com/blog/data_mgmt_resources/",
+    "https://books.google.com/books/about/Data_Management_in_Large_Scale_Education.html?id=z54LEQAAQBAJ",
+    "https://www.routledge.com/Data-Management-in-Large-Scale-Education-Research/Lewis/p/book/9781032622798"
+   ]
+  },
+  {
+   "query": "site:note.com 研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合）",
+   "results": [
+    "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "https://note.com/skobayashi/n/n4030751cdb6d",
+    "https://note.com/dapper_pony2721/n/n7b2e0d123f45",
+    "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "https://note.com/simum/n/n5a64f51426f1",
+    "https://note.com/hiro_forge_mfg/n/n79ccbcfdb315",
+    "https://note.com/youyou_pnd/n/n2e6cc4a7087a"
+   ]
+  },
+  {
+   "query": "site:x.com 研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合）",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com 研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合）",
+   "results": [
+    "https://jp.linkedin.com/pulse/omprehensive-guide-data-analysis-muhammad-mairaj?tl=ja",
+    "https://jp.linkedin.com/pulse/mastering-data-cleansing-best-practices-science-dibya-sampad-barik-crxlc?tl=ja",
+    "https://www.linkedin.com/posts/nikolaos-voulgaris-physicsworld_研究データエコシステムの好循環を支えるガイドラインと教材の一体的開発名古屋大学と-activity-7506344379272298496-enzW",
+    "https://jp.linkedin.com/pulse/ultimate-guide-spotting-data-errors-fixing-them-fast-cassamo-jwnpf?tl=ja",
+    "https://jp.linkedin.com/pulse/cleaning-messy-data-lei-business-listings-ednalyn-c-de-dios-msc-3jjrc?tl=ja",
+    "https://jp.linkedin.com/pulse/preparing-data-ai-guide-engineers-fortegroup-k2ppf?tl=ja",
+    "https://jp.linkedin.com/pulse/effective-database-management-tips-implement-proper-data-validation?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合）",
+   "results": [
+    "https://www.facebook.com/NARO.go.jp/posts/標準作業手順書農研機構では開発した技術を活用いただくために農業に従事されている皆さま都道府県の普及担当者指導者や研究者の皆さま向けに総合的な技術解説書標準作業手/1304210490992962/",
+    "https://www.facebook.com/nttunion.datahq/videos/-豊洲地区-清掃活動-実施しましたデータグループは豊洲エリアでの-community-engagement地域とのつながり-を大切にしていますその一環として5月/1024103323252065/",
+    "https://www.facebook.com/NARO.go.jp/posts/農研機構のおすすめsop標準作業手順書は技術をクリックすると関連するsopが表示されますまたキーワード検索はもちろん分野別や公開年別にも検索可能ですsopは利用/1307283040685707/",
+    "https://www.facebook.com/fseo201777/videos/知らないと損するhaccpの落とし穴落とし穴①記録が後回しに落とし穴②清掃がマニュアル化されていない落とし穴③計画の更新が止まっているhaccpは完璧な書類を作/973682972019929/",
+    "https://www.facebook.com/enbukikaku/posts/トイレ掃除の手順書トイレ掃除のレベル1の手順書を作成し直しましたここからスタートし少しずつ床拭きやタイルを水で流すなどの上級者コースに進んでいきたいと思います/1886881018116313/",
+    "https://www.facebook.com/metskenkyujo/posts/月刊國立公園の技術情報欄に弊社研究員が投稿國立公園誌は日本の国立公園と同じく80余年の歴史を持ち国内外の自然公園の最新ニュース調査研究や最新技術の情報各地の自然/756832746446445/",
+    "https://www.facebook.com/dosoken/photos/技術支援技術支援って具体的にはどういうことという質問にお答えするための動画の紹介です3月末にものづくり分野食品加工分野の2本の動画を制作しましたのでぜひご覧下さ/1420525866542808/"
+   ]
+  },
+  {
+   "query": "研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合） note 社長",
+   "results": [
+    "https://sites.google.com/tohoku.ac.jp/rec-portal/01/01-04",
+    "https://www.shinshu-u.ac.jp/hp/bumon/i-chikencenter/doctors/docs/sop_DM_shinshu_20221101.pdf",
+    "https://rdmkit.rcos.nii.ac.jp/data-life-cycle/planning",
+    "https://www.mh.nagasaki-u.ac.jp/research/rinsho/shien_tejunsho.html",
+    "https://www.kochi-u.ac.jp/kms/ct_clrsc/data/rinsyo/sop/kochi_dm_sop221104.pdf",
+    "https://data-viz-lab.com/data-cleansing-methods",
+    "https://www.j-sctr.org/tools/dmp.html"
+   ]
+  },
+  {
+   "query": "研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合） X 投稿",
+   "results": [
+    "https://data-viz-lab.com/data-cleansing-methods",
+    "https://sites.google.com/tohoku.ac.jp/rec-portal/01/01-04",
+    "https://www.shinshu-u.ac.jp/hp/bumon/i-chikencenter/doctors/docs/sop_DM_shinshu_20221101.pdf",
+    "https://rdmkit.rcos.nii.ac.jp/data-life-cycle/planning",
+    "https://www.kochi-u.ac.jp/kms/ct_clrsc/data/rinsyo/sop/kochi_dm_sop221104.pdf",
+    "https://www.j-sctr.org/tools/dmp.html",
+    "https://www.mh.nagasaki-u.ac.jp/research/rinsho/shien_tejunsho.html"
+   ]
+  },
+  {
+   "query": "data cleaning plan checklist consistency checks Crystal Lewis data management education research site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/crystal-lewis-922b4193",
+    "https://www.linkedin.com/posts/crystal-lewis-922b4193_data-cleaning-for-data-sharing-crystal-activity-7032352671017697280-CBIo",
+    "https://www.linkedin.com/posts/crystal-lewis-922b4193_data-management-in-large-scale-education-activity-7269711885216706562-vsjw",
+    "https://www.linkedin.com/posts/crystal-lewis-922b4193_ive-had-many-conversations-with-data-scientists-activity-7393688937493532672-dgJD",
+    "https://www.linkedin.com/posts/crystal-lewis-922b4193_in-preparation-for-an-upcoming-workshop-activity-7179118319583522816-rS4_",
+    "https://www.linkedin.com/posts/crystal-lewis-922b4193_whenever-im-given-a-dataset-to-clean-the-activity-7262473183562223616-FriV",
+    "https://www.linkedin.com/pulse/data-cleaning-verification-checklist-michael-wilson-2ksbe"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
   "手順・やり方": [
    {
-    "quote": "データクレンジングとは？データの汚れの6種類と進め方5ステップを解説 - Digital Library",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "quote": "汚れたデータのまま移行しない：基幹システム刷新で手戻りを防ぐ優先順位と手順｜ポップコーン☆パーティー",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "本記事では、データの汚れ6種類の見分け方、進め方5ステップ、ツールと人の役割分担に加え、品質を保ち続けるための運用の決め方までを整理します",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "quote": "汚れたデータのまま移行しない：基幹システム刷新で手戻りを防ぐ優先順位と手順",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "データドリブンとは？実行する際の具体的なステップから必要なツールまで解説",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "quote": "原本を守るクレンジング5ステップ",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Step1｜データの利用目的と対象範囲を決める",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "quote": "本稿では、移行対象の絞り込みから事前プロファイリング、クレンジング、整合性検証までを、そのまま使える手順で示す",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Step2｜現状のデータ品質を可視化する",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "quote": "手順1：移行対象を絞り、切替方式を決める",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Step3｜クレンジングルールを定義する",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "quote": "対象外のデータには、理由と移行後の参照先（旧環境での閲覧・保持方法）を明記する（",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Step4｜変換を実行し元データと突き合わせて検証する",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "quote": "手順2：事前プロファイリングで汚れを数値にする",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Step5｜汚れを再発させない運用ルールに落とす",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "quote": "手順3：段階的にクレンジングする",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "5つのステップは、情報システム部門だけでは完結しません",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "quote": "クレンジングは、次の5ステップで進める",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "対象データを日々扱う業務部門の担当者を、Step1の目的決めとStep3のルール定義に加えます",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "quote": "手順4：移行後に整合性を検証する",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "5つのうち工数を見積もりにくいのもStep3で、業務上の判断と関係者の合意が必要になるためです",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "quote": "本稿の手順は、データ統合と相互運用性、データ品質、データストレージとオペレーションの領域にまたがる",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Step3で決めるのは、どの値を正とするかの基準です",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "quote": "個々の手順は単独でも使えるが、ばらばらの施策では次の刷新で同じ問題が再発する",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "変換の実行前に、バックアップの取得と元に戻す手順を確認します",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "quote": "同じ意味を持つデータでも、入力方法が異なることがあります",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "システム定着とは？導入後に現場で使われ続ける仕組みと進め方",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "quote": "分析方法が正しくても、元データに問題があれば結果も正しくならないため、重要な準備作業です",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "データクレンジングの方法とツールの使い分け",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "quote": "分析用なのか、新システムへの移行用なのか、AIの学習用なのかによって、必要な品質や修正方法が変わるためです",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "欠損値を0や平均値で補う方法もありますが、適切かどうかはデータの意味によって異なります",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングは、データ品質を改善・維持するための方法の一つです",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングの方法・手順を徹底解説｜失敗しない7ステップと実務のコツ - DATA VIZ LAB｜データビズラボ",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングの方法・手順を徹底解説｜失敗しない7ステップと実務のコツ",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を実施する前の準備、7ステップの具体手順、代表的な方法、よくある失敗パターン、成功させるためのポイントまでを、実務で活かせる観点で整理した内容です",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングの具体的な手順【7ステップ】",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ1:データの収集と現状把握",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ2:データプロファイリングによる品質課題の可視化",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ3:重複データの検出と統合(名寄せ)",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ4:表記ゆれ・揺らぎの統一(全角半角・カタカナひらがな等)",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ5:欠損値・異常値の補完または除外",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ6:フォーマット統一とデータ型の正規化",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ7:検証・テストと本番反映",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングの代表的な方法とアプローチ",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本章では、目的定義・対象データの棚卸し・クレンジングルールの策定・関係部門との合意形成という4つの準備ステップを通じて、プロジェクトを迷走させないための土台づくりのポイントを整理します",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "目的設定を含むデータ分析プロジェクト全体の進め方については、こちらの記事で詳しく解説しています",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "営業・マーケティング・経理・カスタマーサポートなど、データを生成し利用する部門を巻き込み、各部署の使い方や制約を聞き取った上でルールを練り上げていきます",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングの基本的な流れとは？具体的な5つの手順と方法",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、データドリブンな意思決定を実現するための第一歩として、データクレンジングの基本的な知識から、具体的な手順、実践的な方法、そして成功のポイントまでを網羅的に解説します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングの基本的な流れ【5つの手順】",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データプレパレーションの全体像は、一般的に以下のようなステップで構成されます",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでは、効果的かつ効率的にデータクレンジングを実施するための、基本的な5つの手順を詳しく解説します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングの最初のステップは、対象となるデータがどのような状態にあるのかを正確に把握することから始まります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "各カラムのデータ型（文字列、数値、日付など）が期待通りか",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このステップを丁寧に行うことで、後続のクレンジング計画を具体的かつ現実的なものにできます",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クレンジングルールとは、「どのような状態のデータを『汚れている』とみなし、それをどのように『綺麗』にするか」という基準と手順を定めたものです",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実行方法は、データの量や複雑さ、利用できるツールによって様々です",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "後述するTalendやAlteryxのようなデータクレンジング/ETLツールを利用する方法です",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "どの方法を選択するにせよ、実行時に重要な注意点が2つあります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データの形式や単位、表現方法を、あらかじめ定められた共通の基準に揃えること",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検証作業では、クレンジング後のデータに対して、再度ステップ①で行ったようなデータプロファイリングを実施します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでは、データクレンジングの現場で頻繁に遭遇する「データの汚れ」の種類と、それらに対処するための具体的な方法を、例を交えながら詳しく解説します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ],
   "一次情報の探し方": [
    {
-    "quote": "社名や住所の正確さが求められる場合は法人番号公表サイトなどで照合しますが、公表されているのは登記上の商号と本店の所在地までのため、支店の住所は取引先に確認します",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "quote": "とは、データの統計的な特徴・分布・欠損率・ユニーク値数などを自動的に算出し、品質上の課題を可視化するプロセスです",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "一方で、抽出された候補のうちどれを採用するかは、業務ルールに照らして担当者が確認する必要があります",
-    "url": "https://www.nomura-system.co.jp/contents/data-crensing/",
+    "quote": "データ探索・プロファイリング（Data Discovery & Profiling）",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データプロファイリングでは、専用のツールやスクリプトを用いて、データの基本的な統計量や構造、パターンを調査し、品質上の問題点を網羅的に洗い出します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一部のデータをサンプリングして目視で確認したり、クレンジング前後のデータの統計量を比較したりすることも有効です",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "欠損値が多いと、統計分析の結果が歪んだり、機械学習モデルが正しく学習できなかったりする原因となります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "本稿では、移行対象の絞り込みから事前プロファイリング、クレンジング、整合性検証までを、そのまま使える手順で示す",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "処理後は再集計して検証し、適用したルールと修正の背景を文書化する",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "手順4：移行後に整合性を検証する",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検証の判定基準は、事前に文書で決めておく",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "全体集計だけでなく、サンプルの目視照合や帳票の出力確認も併用する",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データ検証は、データが決められた条件を満たしているか確認することです",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "たとえば、「生年月日が日付形式になっているか」を確認するのが検証です",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ7:検証・テストと本番反映",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "スモールスタートで効果検証してから全社展開する",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クレンジング処理を書き終わったら、必ず結果を検証します",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検証が済んだら、バックアップを取った上で本番反映します",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "対策として、作業前の自動バックアップ・ステージング環境での事前検証・トランザクション管理の3点をルール化します",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本番環境への直接編集は原則禁止とし、必ず検証環境で同じ処理を流してから適用する運用が鉄則です",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自動化はあくまで仮説に基づく処理であり、常に例外が存在することを前提に設計すべきです",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "計画通りにデータの品質が向上したかどうかを検証し、その品質を維持するための仕組みを構築する",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検証作業では、クレンジング後のデータに対して、再度ステップ①で行ったようなデータプロファイリングを実施します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この検証プロセスで問題が見つかった場合は、クレンジング計画や実行プロセスに立ち返り、修正を行います",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この検証とモニタリングのサイクルを回すことで、データクレンジングは一過性のイベントではなく、継続的なデータ品質管理のプロセスとして組織に定着します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "正しい単語リスト（辞書）と照合し、辞書にない単語をエラーとして検出します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 異なるシステムやデータベース間で、データの定義や形式に矛盾がないこと",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データに不整合があると、多くの部署で「データを手作業で修正する」「複数の資料を突き合わせて正しい値を確認する」といった非効率な作業が発生します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ビジネス上の目的を起点に、達成すべき品質レベル（ゴール）を設定し、そこから逆算してクレンジングの範囲と深度を計画する",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": ①データ全体の把握（プロファイリング） → ②計画とルールの定義 → ③クレンジングの実行 → ④標準化・正規化 → ⑤結果の検証とモニタリング、という体系的なアプローチが重要",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "事例では、現行データの実態把握の不足が、データ移行の障害の一因になっている",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IPAの事例集には、その具体例がある",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "別の事例では、本番環境とテスト環境のデータベースのオプションやパラメータの差異を把握しないまま移行した",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その結果、切替時にシステムダウンやサービス停止が起きた（",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データ移行テストを終盤のユーザーテスト段階まで実施しなかった事例がある",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "基準値は案件ごとに決め、結果は早い段階で関係者に共有する",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "たとえば、同じ都道府県を「東京都」「東京」「TOKYO」のように異なる表記で登録していると、集計や検索で正しい結果を得られないことがあります",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析、システム移行、AI・機械学習などでは、処理するプログラムだけでなく、入力するデータの品質も結果を大きく左右します",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AIや機械学習では、学習に使用するデータの品質が結果へ大きく影響します",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "重複、誤り、極端な偏りなどを含んだデータをそのまま使用すると、期待した学習結果を得られない可能性があります",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析方法が正しくても、元データに問題があれば結果も正しくならないため、重要な準備作業です",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この段階で基準が曖昧だと、担当者によって修正結果が変わってしまいます",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析担当者がデータを確認した結果、「この項目は表記ゆれが多いので、先にクレンジングします」と判断することがあります",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果から、修正が必要な候補を特定します",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "担当者の感覚だけで修正すると、同じデータでも結果が変わる可能性があります",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "処理後に、想定どおりの結果になっているか確認します",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "何を正しいデータとするのかを決め、元データの状態を確認し、明確なルールに基づいて修正し、その結果まで確認する必要があります",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データを使う処理がどれほど優れていても、元になるデータの品質が悪ければ、正しい結果を得ることは難しくなります",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「空欄は欠損とみなすか、『該当なし』として扱うか」「姓と名の間のスペースは全角・半角のどちらに寄せるか」など、判断の分かれるケースをルールとして事前に言語化します",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "合意形成の場では、「この処理で業務にどんな影響が出るか」「例外ケースは現場で本当に必要か」を具体的に確認します",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プロファイリングの結果からは、郵便番号列に英字が混入している・日付列に1900年の外れ値がある・電話番号の桁数がばらついている、といった具体的な課題が見えてきます",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば「キヤノン」を「キャノン」に寄せてしまうと公式表記から外れるため、例外辞書を設けて守るべき表記を明示しておくことが大切です",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "異常値のようで実は重要なシグナルだった、というケースが現場では意外に多いためです",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日付が「2024/1/1」「2024-01-01」「令和6年1月1日」と混在していたり、金額列が文字列として格納されていたりするケースは多いものです",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クレンジング処理を書き終わったら、必ず結果を検証します",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "UPDATE文やCASE式、正規表現（REGEXP_REPLACE等）、ウィンドウ関数を使えば、重複検出や表記統一を一括で実行できます",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "複雑な条件分岐は一気に書かず、一時テーブルに中間結果を吐き出しながら段階的に進めるアプローチも有効です",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Embeddingによる類似度計算や、教師あり学習で作った分類モデルを名寄せ・カテゴリ正規化に用いる事例が増えています",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "対策は、着手前にユースケースを1〜2件に絞り、その用途で必要な品質基準だけをスコープに含めることです",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "結果として「ルール通りに処理したら現場が困った」という事態が発生し、データ部門と事業部門の信頼関係も損なわれます",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業務上重要なレコードまで失ってしまうケースがあります",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最初の成功事例は、全社展開の際の説得材料として大きな役割を果たしてくれます",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "モニタリング結果は、現場と共有してフィードバックループを回します",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しかし、収集されたデータがそのまま活用できるケースは稀です",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、顧客データベースに「東京都千代田区」と「東京都千代田区」、「Taro Yamada」と「山田 太郎」といった異なる表記が混在していると、正確な顧客数を把握したり、顧客を正しくセグメント分けしたりすることが困難になります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "誤ったデータや欠損値、異常値が含まれていると、分析結果にバイアスが生じ、市場のトレンドや顧客のインサイトを正しく捉えられなくなります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クレンジングによってデータのノイズを除去することで、分析結果の信頼性が格段に向上します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、請求先住所が間違っていれば、請求書の再発行や問い合わせ対応といった余計な手間がかかります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データ量が少ない場合や、複雑な判断が必要なケースでは、Excelやスプレッドシート上で直接データを修正することもあります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "機械学習などの分野でよく使われる手法で、各データ項目の尺度が大きく異なる場合に、それらを一定の範囲（例えば0から1、あるいは平均0・標準偏差1）に収まるように変換することです",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これにより、特定の項目だけが分析結果に大きな影響を与えるのを防ぎます",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データが標準化されていなければ、例えば「東京都」の顧客数を集計する際に、「東京都」や「東京」といった表記揺れをすべて拾い上げることができず、正確な数値を算出できません",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、メールアドレスの形式（",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、「法人格はすべて『株式会社』に統一し、社名の前後に付ける（前株/後株）」「英数字はすべて半角に統一する」といったルールです",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "欠損値が多いと、統計分析の結果が歪んだり、機械学習モデルが正しく学習できなかったりする原因となります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、年齢が120歳を超える場合は、すべて120歳として扱うなどです",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "低品質なデータ、すなわち「ゴミ（Garbage）」に基づいて下された意思決定は、同じく「ゴミ」のような結果しか生み出しません（Garbage In, Garbage Out）",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "結果として、キャンペーンの効果は最大化され、顧客エンゲージメントも向上します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "クレンジング中に置換ロジックの誤りが起き、データが不可逆的に消えて復元できなくなる例がある",
+    "url": "https://note.com/tender_hawk4482/n/n66c34a6e9811",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【SE単語】データクレンジングとは？データの誤りやばらつきを整える作業をやさしく解説｜エンジニアの教科書@暁詞",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【SE単語】データクレンジングとは？データの誤りやばらつきを整える作業をやさしく解説",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングとは、データに含まれる誤り、重複、表記のばらつき、欠損、不整合などを見つけ、利用しやすい状態へ整える作業です",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、大きな値や珍しい値が必ず誤りとは限らないため、機械的に削除せず確認が必要です",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "重複、誤り、極端な偏りなどを含んだデータをそのまま使用すると、期待した学習結果を得られない可能性があります",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングは、誤りやばらつきなどを整理し、データ品質を高めることが中心です",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "毎回同じ形式の誤りが発生するのであれば、登録画面や入力チェックに問題がある可能性があります",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングとは、データに含まれる誤り、重複、欠損、表記のばらつき、不整合などを確認し、利用目的に合った状態へ整える作業です",
+    "url": "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングの方法・手順を徹底解説｜失敗しない7ステップと実務のコツ - DATA VIZ LAB｜データビズラボ",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングの方法・手順を徹底解説｜失敗しない7ステップと実務のコツ",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を実施する前の準備、7ステップの具体手順、代表的な方法、よくある失敗パターン、成功させるためのポイントまでを、実務で活かせる観点で整理した内容です",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングでよくある失敗パターンと対策",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗1:目的が曖昧なまま着手して工数だけが膨らむ",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗2:バックアップを取らずに元データを破壊してしまう",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗3:一度きりの作業で終わらせ品質が再び劣化する",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗4:現場の業務知識を反映せず実態と乖離したルールになる",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗5:過剰な自動化で重要なデータまで削除してしまう",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本章では、現場で目にすることの多い代表的な失敗パターンを5つ取り上げ、それぞれの対策を具体的にまとめます",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗を避けるだけでなく、プロジェクトを継続的な価値に変えるには、もう一歩踏み込んだ設計が必要です",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事で整理した準備・7ステップの手順・方法の使い分け・失敗パターン・成功のポイントをバランスよく設計することで、",
+    "url": "https://data-viz-lab.com/data-cleansing-methods",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "多くの場合、データは不完全であったり、誤りを含んでいたり、形式がバラバラであったりと、いわば「汚れた」状態にあります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングを成功させるためのポイント・注意点",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "誤ったデータや欠損値、異常値が含まれていると、分析結果にバイアスが生じ、市場のトレンドや顧客のインサイトを正しく捉えられなくなります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "住所の誤りや重複した顧客情報が存在すると、DM（ダイレクトメール）が不達になったり、同じ顧客に複数のメールを送ってしまったりと、無駄なコストが発生し、顧客体験を損なう原因にもなります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": データの誤り、重複、欠損などを修正し、品質を高める",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "どの方法を選択するにせよ、実行時に重要な注意点が2つあります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "万が一、作業に誤りがあった場合に、いつでも元の状態に戻せるようにしておくことは、データ管理の鉄則です",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "安易な平均値補完はデータの分布を歪める可能性もあるため注意が必要です",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "安易な削除や補完は、データにバイアスをもたらす危険性があります",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "入力ミス（例：年齢に「200」、金額の桁間違い）",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クレンジングされた正確なデータは、より確かな市場分析や事業計画の策定を支援し、経営判断の誤りを防ぎます",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前述の通り、重複や誤りのある顧客リストは、DMの不達や二重送付といった無駄な印刷費・郵送費・広告配信費を生み出します",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": データの品質（正確性、完全性、一貫性など）を高めるために、データの誤りや重複、欠損などを特定し、修正・削除するプロセス",
+    "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ]
  },
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-05T16:55:18.166645+00:00"
 }
