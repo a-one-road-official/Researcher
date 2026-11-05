@@ -1797,6 +1797,8 @@
   - 「compare librarian, database engineer, investigator, privacy owner and receiver. Each values a different balance between recall and mistaken identity.」（https://edukatesg.com/2026/09/05/how-entity-resolution-works/）
   - 「機能に加えて、ファイルの欠損・重複、APIのタイムアウト、再取り込み、途中失敗からの再開も試します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
   - 「：良かった例だけでなく、失敗例や未判定例を示せる会社は、実運用の課題を説明しやすい傾向があります」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「データクレンジングは個々のレコードの誤りや表記ゆれを修正してデータ品質を高める前処理であり、名寄せは複数のレコードから同一人物・同一企業を特定して統合する作業です」（https://geniee.co.jp/media/cdp/datacleansing-datamatching/）
+  - 「データクレンジングとは、データベースや管理ファイルに含まれる誤り・欠損・表記ゆれ・重複を修正し、データ全体の品質を高める作業です」（https://geniee.co.jp/media/cdp/datacleansing-datamatching/）
 - 実例：
   - 「例えば、次のような顧客データが存在していたとします」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
   - 「例えば、次のようなケースを考えてみましょう」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
@@ -1971,6 +1973,12 @@
   - 「業界や会社の規模、年齢の構成が違う会社の平均年間給与を、単純に比べるのは注意が必要です」（https://note.com/olp2017/n/ne86a3fa45995）
   - 「⚠️ 10章 読むときの注意点」（https://note.com/olp2017/n/ne86a3fa45995）
   - 「⚠️ 連結と単体、平均値、時点、会計の基準という注意点」（https://note.com/olp2017/n/ne86a3fa45995）
+  - 「40%以上あれば優良、20%を下回ると少し注意が必要」（https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/）
+  - 「100%を下回っている状態は、短期的な資金繰りが厳しい可能性を示唆するため注意が必要です」（https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/）
+  - 「有価証券報告書は、企業分析における非常に強力なツールですが、その情報を活用する上では、いくつかの注意点を理解しておく必要があります」（https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/）
+  - 「実際に、多くの有価証券報告書には、以下のような趣旨の注意書き（ディスクレーマー）が記載されています」（https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/）
+  - 「ここに書かれている情報を鵜呑みにするのではなく、あくまで数ある判断材料の一つとして客観的に捉える姿勢が重要です」（https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/）
+  - 「これらの注意点を理解した上で向き合うことで、初めてその価値を最大限に引き出すことができるのです」（https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/）
 - 実例：
   - 「」を2019年にイプシロンロケット4号機で打上げ（日本の政府系機関衛星開発をスタートアップが受託した初の事例）」（https://note.com/good_dill292/n/n41c622e52337）
   - 「▪ 国の宇宙関連予算の削減、防衛・安全保障政策の変更、あるいは入札・採択結果の不調等が生じた場合、当社グループの受注および業績に重大な悪影響を及ぼす可能性」（https://note.com/good_dill292/n/n41c622e52337）
@@ -3610,11 +3618,11 @@
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
 
 ## Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）（main content extraction boilerplate removal related articles scraping）
 - 文脈：

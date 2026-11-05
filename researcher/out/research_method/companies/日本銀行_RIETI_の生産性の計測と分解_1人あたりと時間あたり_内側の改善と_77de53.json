@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ・推定",
  "kind": "market",
- "researched_at": "2026-11-05T15:29:18.970793+00:00",
+ "researched_at": "2026-11-05T17:36:00.460846+00:00",
  "evidence": {
   "実例": [
    {
@@ -439,6 +439,368 @@
    },
    {
     "quote": "このうち、②は R&D や無形資産投資の結果によってもたらされる需要創出型",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "景気変動という概念は、19世紀の工業化した経済で繰り返された恐慌の観察から生まれ、20世紀に統計による測定と政策の対象になり、現在は家計と企業の分布、金融、期待を含む動学として研究されている",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "教科書の一つの用語がこの三つの段階を経て現在の形になったことは、景気変動の理解に経済史、統計、政治、経済理論の複数の領域の知識が必要であることを示す",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "それより前の1862年にJuglarは、フランス、イギリス、アメリカの銀行の貸出と準備、物価などの統計を用いて、恐慌を繁栄、恐慌、清算が繰り返す過程の一局面として扱った[2]",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "恐慌の反復が同時代の複数の論者によって統計と理論の両面から扱われたことは、景気変動の概念が19世紀の工業化した経済の観察から生まれたことを示す",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "教科書の四局面の区分は、20世紀前半の米国で景気変動を統計的に測定する研究計画の中で定式化された",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Mitchellは1913年に景気循環に関する統計的な記述を体系化し[4]、その後1920年に設立された全米経済研究所（NBER）で、多数の経済系列の転換点を測定する研究を主導した",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "理論、法律、統計の制度が相次いで整えられたことは、景気変動が20世紀半ばに政策の対象として位置づけられたことを示す",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日本の景気基準日付は、景気動向指数の一致系列に属する個々の指標の転換点を統計的に定め、転換の方向の合意度から事後的に設定される",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "内閣府経済社会総合研究所は、CI一致指数の採用系列ごとにBry–Boschan法で山と谷を定め、谷から山までを上昇、山から谷までを下降として、上昇している系列の割合をヒストリカルDIとして算出する[17][18]",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同研究会は、新CIと新DIに基づく景気基準日付の判定方法を、早ければ次の景気の山を暫定設定する際に、従来の方法と大きな乖離がないことを確認したうえで採用するとした[19]",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用する系列の構成を変えたときの日付を別に試算して比較していることは、景気の山と谷が測定の手続きに依存して決まる量であることを示す",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "トレンドとして用いられる基準には、統計的トレンド、潜在産出、自然産出、効率的産出の少なくとも四種類があり、それぞれ異なる反実仮想に対応する",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統計的トレンドは平滑化や時系列モデルによって得られる趨勢であり、経済的な解釈を前提としない",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Hamiltonは、HPフィルターが元のデータ生成過程に根拠のない動学的関係を作り出すこと、標本の末端での推計値が標本の中央での推計値と大きく異なること、問題を統計的に定式化すると慣行の1600とはかけ離れた平滑化パラメータが選ばれることを指摘した[24]",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同じ原油価格の上昇は、家計の実質所得を減らして消費需要を減らし、企業の利益と担保価値を減らして借入制約を強め、先行きの悲観的な見通しを通じて投資と採用を減らす",
+    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "* 本稿の内容は、 東京大学金融教育研究センター・日本銀行調査統計局第9 回共催コンファレン",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "† 日本銀行調査統計局（tomoyuki.yagi@boj.or.jp）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "‡ 日本銀行調査統計局（kakuho.furukawa@boj.or.jp）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "§ 日本銀行調査統計局（jouchi.nakajima@boj.or.jp）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2 2005 年以降、東京大学金融教育研究センターと日本銀行調査統計局は、計 9 回にわたって共",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統計を用いて確認するべく、法人企業統計 （四半期別調査）で計算すると、2010",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、 法人企業統計ベースの労働生",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "法人企業統計における臨時従業員数は、 臨時従業員の総労働時間",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ェアや研究開発、労働者の持つ能力や技術等の人的資産、 特許や著作権などの知",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "は統計的に有意にプラスとなっており、無形資産投資は労働生産性の成長率を",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コノミー）を担う企業の産出量を既存統計（GDP 等）で捕捉できていない可能",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "性や、IT 関連の財やサービスの価格低下を既存統計で正確に計測できていない",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "すなわち、求職者側のスキルと求人側が求めるスキルが十分に符合し",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "と考えられるが、欧米では、 公的に人的資本の蓄積を促す制度が多く存在してお",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この間、感染症拡大防止に向けてデジタル技術の採用が拡がるなかで、 ソフト",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "整理し、統計データにもとづく事実確認を行う",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "† 日本銀行調査統計局（現・松本支店）＜E-mail: kouji.nakamura@boj.or.jp＞",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "‡ 日本銀行調査統計局＜E-mail: souhei.kaihatsu@boj.or.jp＞",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "§ 日本銀行調査統計局（現・企画局）＜E-mail: tomoyuki.yagi@boj.or.jp＞",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本稿では、労働生産性を巡る最近の議論を整理したうえで、統計データから",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "理指標として、しばしば用いられる特許申請件数の推移をみると、増加傾向が",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特許や商標権などの知的資産、労働者の技術・能力などの人的資産、企業文化",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "いて、各種の統計や実証分析結果を踏まえて検討する",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、こうした研究開発の成果ともいえる特許シェ",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ンドのもとで、新卒一括採用・終身雇用を前提とした企業内部での人材育成の",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "整理し、統計データにもとづく事実確認を行った",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "る考察」 、日本銀行調査統計局ワーキングペーパー・シリーズ、No. 03-11",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "図表 7 特許出願数（世界計）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（注）文部科学省によるパテントファミリーの集計値（複数国へ同一特許の出願がなされた場合、重複分は控除されて",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "INTAN-invest（企業部門）と SPINTAN（公的部門）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "† 日本銀行調査統計局（ichirou.fukunaga@boj.or.jp）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "‡ 日本銀行調査統計局（yoshihiko.hougen@boj.or.jp）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "§ 日本銀行調査統計局（現・金融研究所、youjirou.itou@boj.or.jp）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "** 日本銀行調査統計局（kenji.kanai@boj.or.jp）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "†† 日本銀行調査統計局（現・企画局、satoshi.tsuchida@boj.or.jp）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "研究が進められ、日本銀行調査統計局のスタッフも分析や議論を重ねてきた2",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IMF＞や OECD など）で広く採用されている",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日本銀行（調査統計局、以下同",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "計を用いずに、需給ギャップを推計することが可能となる（その後 GDP 統計が",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "6 日本銀行調査統計局による需給ギャップと潜在成長率の推計値は、 下記のウェブサイトで",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（図表 2）潜在成長率（日本銀行調査統計局による推計値）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（図表 3）需給ギャップ（日本銀行調査統計局による推計値）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プの推計方法として実務上確立されたものではあるが、GDP 統計のほか労働統",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "力調査、毎月勤労統計を用いて延長",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（SNA） の実質GDP の代わりに、法人企業統計を用いて実質付加価値を算出す",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -1258,368 +1620,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "一次情報の探し方": [
-   {
-    "quote": "景気変動という概念は、19世紀の工業化した経済で繰り返された恐慌の観察から生まれ、20世紀に統計による測定と政策の対象になり、現在は家計と企業の分布、金融、期待を含む動学として研究されている",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "教科書の一つの用語がこの三つの段階を経て現在の形になったことは、景気変動の理解に経済史、統計、政治、経済理論の複数の領域の知識が必要であることを示す",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "それより前の1862年にJuglarは、フランス、イギリス、アメリカの銀行の貸出と準備、物価などの統計を用いて、恐慌を繁栄、恐慌、清算が繰り返す過程の一局面として扱った[2]",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "恐慌の反復が同時代の複数の論者によって統計と理論の両面から扱われたことは、景気変動の概念が19世紀の工業化した経済の観察から生まれたことを示す",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "教科書の四局面の区分は、20世紀前半の米国で景気変動を統計的に測定する研究計画の中で定式化された",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Mitchellは1913年に景気循環に関する統計的な記述を体系化し[4]、その後1920年に設立された全米経済研究所（NBER）で、多数の経済系列の転換点を測定する研究を主導した",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "理論、法律、統計の制度が相次いで整えられたことは、景気変動が20世紀半ばに政策の対象として位置づけられたことを示す",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日本の景気基準日付は、景気動向指数の一致系列に属する個々の指標の転換点を統計的に定め、転換の方向の合意度から事後的に設定される",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "内閣府経済社会総合研究所は、CI一致指数の採用系列ごとにBry–Boschan法で山と谷を定め、谷から山までを上昇、山から谷までを下降として、上昇している系列の割合をヒストリカルDIとして算出する[17][18]",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同研究会は、新CIと新DIに基づく景気基準日付の判定方法を、早ければ次の景気の山を暫定設定する際に、従来の方法と大きな乖離がないことを確認したうえで採用するとした[19]",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用する系列の構成を変えたときの日付を別に試算して比較していることは、景気の山と谷が測定の手続きに依存して決まる量であることを示す",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "トレンドとして用いられる基準には、統計的トレンド、潜在産出、自然産出、効率的産出の少なくとも四種類があり、それぞれ異なる反実仮想に対応する",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統計的トレンドは平滑化や時系列モデルによって得られる趨勢であり、経済的な解釈を前提としない",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Hamiltonは、HPフィルターが元のデータ生成過程に根拠のない動学的関係を作り出すこと、標本の末端での推計値が標本の中央での推計値と大きく異なること、問題を統計的に定式化すると慣行の1600とはかけ離れた平滑化パラメータが選ばれることを指摘した[24]",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同じ原油価格の上昇は、家計の実質所得を減らして消費需要を減らし、企業の利益と担保価値を減らして借入制約を強め、先行きの悲観的な見通しを通じて投資と採用を減らす",
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "* 本稿の内容は、 東京大学金融教育研究センター・日本銀行調査統計局第9 回共催コンファレン",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "† 日本銀行調査統計局（tomoyuki.yagi@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "‡ 日本銀行調査統計局（kakuho.furukawa@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "§ 日本銀行調査統計局（jouchi.nakajima@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2 2005 年以降、東京大学金融教育研究センターと日本銀行調査統計局は、計 9 回にわたって共",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統計を用いて確認するべく、法人企業統計 （四半期別調査）で計算すると、2010",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なお、 法人企業統計ベースの労働生",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "法人企業統計における臨時従業員数は、 臨時従業員の総労働時間",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ェアや研究開発、労働者の持つ能力や技術等の人的資産、 特許や著作権などの知",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "は統計的に有意にプラスとなっており、無形資産投資は労働生産性の成長率を",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コノミー）を担う企業の産出量を既存統計（GDP 等）で捕捉できていない可能",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "性や、IT 関連の財やサービスの価格低下を既存統計で正確に計測できていない",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "すなわち、求職者側のスキルと求人側が求めるスキルが十分に符合し",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "と考えられるが、欧米では、 公的に人的資本の蓄積を促す制度が多く存在してお",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この間、感染症拡大防止に向けてデジタル技術の採用が拡がるなかで、 ソフト",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "整理し、統計データにもとづく事実確認を行う",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "† 日本銀行調査統計局（現・松本支店）＜E-mail: kouji.nakamura@boj.or.jp＞",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "‡ 日本銀行調査統計局＜E-mail: souhei.kaihatsu@boj.or.jp＞",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "§ 日本銀行調査統計局（現・企画局）＜E-mail: tomoyuki.yagi@boj.or.jp＞",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本稿では、労働生産性を巡る最近の議論を整理したうえで、統計データから",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "理指標として、しばしば用いられる特許申請件数の推移をみると、増加傾向が",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特許や商標権などの知的資産、労働者の技術・能力などの人的資産、企業文化",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "いて、各種の統計や実証分析結果を踏まえて検討する",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、こうした研究開発の成果ともいえる特許シェ",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ンドのもとで、新卒一括採用・終身雇用を前提とした企業内部での人材育成の",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "整理し、統計データにもとづく事実確認を行った",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "る考察」 、日本銀行調査統計局ワーキングペーパー・シリーズ、No. 03-11",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "図表 7 特許出願数（世界計）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（注）文部科学省によるパテントファミリーの集計値（複数国へ同一特許の出願がなされた場合、重複分は控除されて",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "INTAN-invest（企業部門）と SPINTAN（公的部門）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "† 日本銀行調査統計局（ichirou.fukunaga@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "‡ 日本銀行調査統計局（yoshihiko.hougen@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "§ 日本銀行調査統計局（現・金融研究所、youjirou.itou@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "** 日本銀行調査統計局（kenji.kanai@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "†† 日本銀行調査統計局（現・企画局、satoshi.tsuchida@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "研究が進められ、日本銀行調査統計局のスタッフも分析や議論を重ねてきた2",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "IMF＞や OECD など）で広く採用されている",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日本銀行（調査統計局、以下同",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "計を用いずに、需給ギャップを推計することが可能となる（その後 GDP 統計が",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "6 日本銀行調査統計局による需給ギャップと潜在成長率の推計値は、 下記のウェブサイトで",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（図表 2）潜在成長率（日本銀行調査統計局による推計値）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（図表 3）需給ギャップ（日本銀行調査統計局による推計値）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "プの推計方法として実務上確立されたものではあるが、GDP 統計のほか労働統",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "力調査、毎月勤労統計を用いて延長",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（SNA） の実質GDP の代わりに、法人企業統計を用いて実質付加価値を算出す",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "失敗・落とし穴": [
    {
     "quote": "ただし、残された誤りは筆者らに帰する",
@@ -1709,12 +1709,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/epolicy_actvst/n/nca89858e3caf",
+    "url": "https://note.com/jack4manastalk/n/nd223ad546301",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/bizgram/n/n9a587c22ec50",
+    "url": "https://note.com/epolicy_actvst/n/nca89858e3caf",
     "status": "ok",
     "method": "http"
    },
@@ -1724,17 +1724,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/to_the_future/n/n4b4ad20ccb66",
+    "url": "https://note.com/bizgram/n/n9a587c22ec50",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.rieti.go.jp/jp/publications/pdp/08p007.pdf",
+    "url": "https://www.rieti.go.jp/jp/publications/dp/07j048.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.rieti.go.jp/jp/publications/dp/07j048.pdf",
+    "url": "https://www.rieti.go.jp/jp/publications/pdp/08p007.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -1769,9 +1769,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.jeri.or.jp/survey/%E7%94%9F%E7%94%A3%E6%80%A7%E5%88%86%E6%9E%90%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%8F%BE%E4%BB%A3%E7%9A%84%E8%A6%96%E7%82%B9/",
+    "url": "https://www.sangiin.go.jp/japanese/annai/chousa/keizai_prism/backnumber/h31pdf/201918302.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf",
@@ -1846,28 +1846,28 @@
    "results": [
     "https://note.com/reading_monkey/n/n6ea2542812c6",
     "https://note.com/knowledge_weave/n/n9ba991a7e3f1",
+    "https://note.com/jack4manastalk/n/nd223ad546301",
     "https://note.com/epolicy_actvst/n/nca89858e3caf",
-    "https://note.com/bizgram/n/n9a587c22ec50",
     "https://note.com/kabu_times/n/ndea27cfd4f61",
-    "https://note.com/to_the_future/n/n4b4ad20ccb66",
+    "https://note.com/bizgram/n/n9a587c22ec50",
     "https://note.com/humble_crane7701/n/n917c11401561",
     "https://note.com/_takumi_inoue_/n/n4aa1cbbd8f13",
     "https://note.com/reading_monkey/n/ne934c5a78058",
-    "https://note.com/jack4manastalk/n/nd223ad546301"
+    "https://note.com/to_the_future/n/n4b4ad20ccb66"
    ]
   },
   {
    "query": "日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出） note",
    "results": [
-    "https://www.rieti.go.jp/jp/publications/pdp/08p007.pdf",
     "https://www.rieti.go.jp/jp/publications/dp/07j048.pdf",
+    "https://www.rieti.go.jp/jp/publications/pdp/08p007.pdf",
     "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "https://www.rieti.go.jp/jp/publications/dp/25j023.pdf",
     "https://www.rieti.go.jp/jp/publications/pdp/13p010.pdf",
     "https://www.mof.go.jp/pri/research/conference/fy2022/202212_1.pdf",
     "https://www.rieti.go.jp/jp/special/special_report/088.html",
-    "https://www.rieti.go.jp/jp/publications/nts/26e007.html",
-    "https://www.jeri.or.jp/survey/%E7%94%9F%E7%94%A3%E6%80%A7%E5%88%86%E6%9E%90%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%8F%BE%E4%BB%A3%E7%9A%84%E8%A6%96%E7%82%B9/"
+    "https://www.jeri.or.jp/survey/%E7%94%9F%E7%94%A3%E6%80%A7%E5%88%86%E6%9E%90%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%8F%BE%E4%BB%A3%E7%9A%84%E8%A6%96%E7%82%B9/",
+    "https://www.rieti.go.jp/jp/publications/nts/26e007.html"
    ]
   },
   {
@@ -1876,11 +1876,11 @@
     "https://www.rieti.go.jp/jp/publications/pdp/08p007.pdf",
     "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "https://www.rieti.go.jp/jp/database/d05_ans.html",
-    "https://www.rieti.go.jp/jp/publications/dp/07j048.pdf",
-    "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "https://www.rieti.go.jp/jp/publications/pdp/13p010.pdf",
     "https://www.rieti.go.jp/jp/publications/dp/25j023.pdf",
-    "https://www.jeri.or.jp/survey/%E7%94%9F%E7%94%A3%E6%80%A7%E5%88%86%E6%9E%90%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%8F%BE%E4%BB%A3%E7%9A%84%E8%A6%96%E7%82%B9/",
+    "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
+    "https://www.rieti.go.jp/jp/publications/dp/07j048.pdf",
+    "https://www.rieti.go.jp/jp/publications/pdp/13p010.pdf",
+    "https://www.sangiin.go.jp/japanese/annai/chousa/keizai_prism/backnumber/h31pdf/201918302.pdf",
     "https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf"
    ]
   },
@@ -1909,19 +1909,20 @@
     "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
     "https://kimjruhl.com/s/AHKR22Feb18.pdf",
     "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
-    "https://www.statalist.org/forums/forum/general-stata-discussion/general/1295698-building-up-a-variable-within-a-productivity-decomposition"
+    "https://www.statalist.org/forums/forum/general-stata-discussion/general/1295698-building-up-a-variable-within-a-productivity-decomposition",
+    "https://onlinelibrary.wiley.com/doi/10.1111/1756-2171.12088"
    ]
   },
   {
    "query": "site:note.com 日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出）",
    "results": [
-    "https://note.com/shidama522/n/n9df1efc5f2fa",
     "https://note.com/kens_reading1/n/n17626df2cb9d",
     "https://note.com/kens_reading1/n/n502ebeaf1635",
     "https://note.com/serene_chives592/n/n1d7d276f777e",
     "https://note.com/epolicy_actvst/n/n54e475d7b6c4",
     "https://note.com/ogawa_tech/n/nbd9d30687e33",
-    "https://note.com/ogawa_tech/n/nc498c9e5a332"
+    "https://note.com/shidama522/n/n9df1efc5f2fa",
+    "https://note.com/ogawa_tech/n/nac3afbb88c71"
    ]
   },
   {
@@ -1930,10 +1931,10 @@
     "https://x.com/yastodo",
     "https://x.com/naohat23",
     "https://x.com/nikkeicenter",
-    "https://x.com/dig_nkt_v2/all",
     "https://x.com/hurosinki",
     "https://x.com/kawaguchi_daiji",
     "https://x.com/ropcb08",
+    "https://x.com/dig_nkt_v2/all",
     "https://x.com/500drachmas",
     "https://x.com/dig_nkt_v2/status/2015428194242056511",
     "https://x.com/CRIEPI_Official/reposts"
@@ -1942,13 +1943,13 @@
   {
    "query": "site:linkedin.com 日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出）",
    "results": [
-    "https://jp.linkedin.com/company/日本銀行",
-    "https://www.linkedin.com/in/hiroki-inaba-82926333b",
+    "https://jp.linkedin.com/company/metirieti",
     "https://uk.linkedin.com/in/toshifumi-nakamura-1a90b940",
+    "https://www.linkedin.com/in/hiroki-inaba-82926333b",
+    "https://learning.linkedin.com/ja-jp/fujitsu",
     "https://jp.linkedin.com/pulse/guide-measuring-employee-productivity-how-measure-use-thoughtful-xvjjc?tl=ja",
-    "https://www.linkedin.com/posts/masayoshi-ogawa1980_oecd加盟国下位に入ってしまった日本付加価値の指標が示す日本経済の状況-activity-7056755041189171200-_u4k",
-    "https://pe.linkedin.com/posts/makoto-hattori_従業員1人あたりarr通称apearr-per-employee-ape-activity-7211192351493373953-zPSW",
-    "https://jp.linkedin.com/pulse/how-measure-employee-productivity-step-by-step-guide-leaders-brown-bvr8c?tl=ja"
+    "https://www.linkedin.com/posts/kuwa-yuji-687b2a50_世田谷区が生成aichatgptサービスを3ヶ月で内製開発73以上の職員が-activity-7173557844598747138-Jlsv",
+    "https://pe.linkedin.com/posts/makoto-hattori_従業員1人あたりarr通称apearr-per-employee-ape-activity-7211192351493373953-zPSW"
    ]
   },
   {
@@ -1957,10 +1958,10 @@
     "https://www.facebook.com/Japan.RIETI/posts/rieti公開bblウェビナー日本における生産性のダイナミズム企業規模資源再配分および企業の退出がもたらす影響スピーカー金-榮愨-専修大学経済学部-教授の開催案/1226862882806286/",
     "https://www.facebook.com/Japan.RIETI/",
     "https://www.facebook.com/Japan.RIETI/posts/rieti公開bblウェビナー経済成長戦略と生産性いくつかの論点スピーカー森川-正之rieti特別上席研究員特任-機械振興協会経済研究所長の開催案内を掲載いたし/1292071616285412/",
-    "https://www.facebook.com/Japan.RIETI/posts/ノンテクニカルサマリー-日本におけるイノベーションと雇用成長企業活動基本調査個票による分析金-榮愨-専修大学池内-健太-科学技術学術政策研究所権-赫旭-ファカル/934340506657808/",
-    "https://www.facebook.com/Japan.RIETI/posts/ノンテクニカルサマリー銀行データを用いた日本のギグ市場の分析フードデリバリーギグワークを中心として黒田-祥子ファカルティフェロー大西-宏一郎氏早稲田大学を掲載い/591121996380381/",
-    "https://www.facebook.com/Japan.RIETI/posts/ノンテクニカルサマリー日本企業のai導入と生産性スピルオーバー効果とイノベーション効果池内-健太-上席研究員政策エコノミスト乾-友彦ファカルティフェロー金-榮愨/691698266322753/",
-    "https://www.facebook.com/Japan.RIETI/posts/ノンテクニカルサマリーデジタルトランスフォーメーションが生産性と企業内の資源再配分に与える影響深尾-京司ファカルティフェロー乾-友彦ファカルティフェロー金-榮愨/663009125858334/"
+    "https://www.facebook.com/Japan.RIETI/posts/ノンテクニカルサマリーデジタルトランスフォーメーションが生産性と企業内の資源再配分に与える影響深尾-京司ファカルティフェロー乾-友彦ファカルティフェロー金-榮愨/663009125858334/",
+    "https://www.facebook.com/Japan.RIETI/posts/bblウェビナー動画労働生産性と実質賃金の長期停滞jipデータベース2021および事業所企業データによる分析スピーカー深尾-京司rietiファカルティフェロープ/4661834907241664/",
+    "https://www.facebook.com/Japan.RIETI/posts/308865527939364/",
+    "https://www.facebook.com/Japan.RIETI/posts/ノンテクニカルサマリー銀行データを用いた日本のギグ市場の分析フードデリバリーギグワークを中心として黒田-祥子ファカルティフェロー大西-宏一郎氏早稲田大学を掲載い/591121996380381/"
    ]
   },
   {
@@ -1971,9 +1972,9 @@
     "https://www.rieti.go.jp/jp/papers/contribution/fukao/05.html",
     "https://www.rieti.go.jp/jp/publications/nts/11j018.html",
     "https://www.rieti.go.jp/jp/about/Highlight_34/Highlight_34.pdf",
+    "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
     "https://researchmap.jp/read0087619/misc/39207287",
     "https://hit-u.repo.nii.ac.jp/record/2056369/files/DP20-010.pdf",
-    "https://www.boj.or.jp/research/wps_rev/wps_2009/wp09j11.htm",
     "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?"
    ]
   },
@@ -1994,401 +1995,18 @@
   {
    "query": "productivity decomposition within between entry exit Melitz Polanec Japan establishment data site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/unleashing-productivity-potential-understanding-factors-chadwick",
+    "https://si.linkedin.com/in/janez-polanec-01b25b16",
     "https://www.linkedin.com/pulse/japans-productivity-paradox-why-more-people-hasnt-meant-hoshino-tlxic",
-    "https://www.linkedin.com/pulse/oecd-statistics-news-stats-flash-july-2025-oecd-statistics-x6f7e",
-    "https://www.linkedin.com/pulse/japan-workforce-productivity-systems-oswxc/",
+    "https://www.linkedin.com/pulse/japans-productivity-paradox-why-long-hours-persist-what-mari-ono-mba-1wosc?tl=en",
     "https://www.linkedin.com/posts/centre-for-economic-policy-research_japan-growth-productivity-activity-7405290516449292288-ti1t",
     "https://www.linkedin.com/posts/stuartbasefsky_the-divergent-dynamics-of-labor-market-power-activity-7008496813355778048-_sy-",
-    "https://www.linkedin.com/posts/tommaso-bighelli-a33390196_excited-to-share-the-working-paper-i-am-working-activity-6793126436984127488-WmMG"
+    "https://www.linkedin.com/posts/tommaso-bighelli-a33390196_excited-to-share-the-working-paper-i-am-working-activity-6793126436984127488-WmMG",
+    "https://www.linkedin.com/pulse/conditional-environmental-gains-clean-technology-santosh-kumar-sahu-8fl4c"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {
-  "実例": [
-   {
-    "quote": "例えば、推計された潜在成長率と実際の経",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、2011 年",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これらの結果、潜在成長率の低下とともに実際の経済成長率がそれ以上",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "たる財政負担や債務返済負担 に備えて貯蓄を増やし支出を抑制した結果、需要が長期にわ",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(4)式の分解結果をみると（図表 12）、マクロの労働生産性の伸びのほとんど",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "産業区分によっても上記の分解結果は変わりうる）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "果の寄与も大きめに出ており、例えば非正規雇用の拡大により労働投入を相対",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業間の再配分効果をより詳細に分析する試みも進んでおり、 例えば、合併に伴",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "変化がマクロの労働生産性に与える影響を捉えており、 例えば、 生産性の水準が相対的に高",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "宮川 [2023]の分析結果では、シェア効果がプラス、共分散効果がマ",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、名目賃金の上昇が生産性の上昇を伴う場合、ULC が",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "間（推計結果の安定性を確保する観点から複数の回答を集約できるように設定） ごとに、 縦",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "的ガイドライン 「オスロ ・ マニュアル」 に準拠しており、結果は OECD に提供されている",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "各国比較は上記の日本の結果を含めた「OECD Business Innovation Indicators 」による",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このうち、②は R&D や無形資産投資の結果によってもたらされる需要創出型",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "上記のような潜在成長率の推計方法は、 日本の内閣府や海外の中央銀行 ・政府",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "推計の手順が他の多くの機関とは異なっている",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "力を表す需給ギャップをよりタイムリーに推計する手順を踏んでいる6",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "5 自然対数を用いない場合、(1)式は 𝑌𝑡 = 𝐴𝑡𝐿𝑡α𝐾𝑡1−α（コブ・ダグラス型生産関数）となる",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "となどにより上昇率の低下幅が過大推計されていた可能性が指摘され、計測方法を巡って",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "プの推計方法として実務上確立されたものではあるが、GDP 統計のほか労働統",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このため、川本ほか [2017]で議論されているように推計方法を不断に見直して",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これらの代替的アプローチによって推計した日本の潜在成長率 （推計方法の",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "生産要素間の代替可能性が低い（代替可能性がゼロのレオンチェフ型に近い）場合などに",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "化と企業間の資源再配分の停滞、 （Ｄ） 労働市場の硬直性 （日本型雇用慣行など） 、",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（注）1. 全産業の時間当たり実質賃金の計算方法・分解方法は以下のとおり （家計最終消費支出デフレ",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "物価にはプラス、後者はコストカット型で物価にはマイナスに影響すると解釈",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "は 2000 年代以降、 需要創出型のプロダクト・イノベーションの比率が低下 （コ",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ストカット型のプロセス・イノベーションの比率が上昇） を続けており、 他の先",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このうち、②は R&D や無形資産投資の結果によってもたらされる需要創出型",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "具体的には、(1)潜在成長率の推計にはアプローチの違いなど",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、 これらに推計誤",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（注）日本は、日本銀行スタッフによる推計値",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、推計された潜在成長率と実際の経",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "方向性を捉えることができるが、 潜在成長率の推計には アプローチの違いなど",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、 これらの動向を把握するうえでは推計誤差が",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "以下、 ２節では、 潜在成長率の推計と、 物価との関係への含意について論じる",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "２．潜在成長率の推計と含意",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本節では、まず、潜在成長率を推計する際に、日本銀行のほか国内外の政府・",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "明し、同アプローチによって推計された日本の潜在成長率の 推移を簡単に振り",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのうえで、潜在成長率と表裏一体で推計される需給ギャ",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "２－１．生産関数アプローチによる潜在成長率の推計",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "の変動を均した経済の平均的な供給力としての「潜在 GDP」を推計するアプロ",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "が、推計値は手法によってばらつきが大きい（杉岡・中野・山本 [2024]）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上記のような潜在成長率の推計方法は、 日本の内閣府や海外の中央銀行 ・政府",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "† 日本銀行調査統計局（ichirou.fukunaga@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "‡ 日本銀行調査統計局（yoshihiko.hougen@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "§ 日本銀行調査統計局（現・金融研究所、youjirou.itou@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "** 日本銀行調査統計局（kenji.kanai@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "†† 日本銀行調査統計局（現・企画局、satoshi.tsuchida@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "研究が進められ、日本銀行調査統計局のスタッフも分析や議論を重ねてきた2",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "IMF＞や OECD など）で広く採用されている",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日本銀行（調査統計局、以下同",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "計を用いずに、需給ギャップを推計することが可能となる（その後 GDP 統計が",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "6 日本銀行調査統計局による需給ギャップと潜在成長率の推計値は、 下記のウェブサイトで",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（図表 2）潜在成長率（日本銀行調査統計局による推計値）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（図表 3）需給ギャップ（日本銀行調査統計局による推計値）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "プの推計方法として実務上確立されたものではあるが、GDP 統計のほか労働統",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "力調査、毎月勤労統計を用いて延長",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（SNA） の実質GDP の代わりに、法人企業統計を用いて実質付加価値を算出す",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "ただし、 残された誤りは筆者らに帰する",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ョン比率を高めることにはつながらない点には注意が必要である",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ]
- },
- "runs": 3,
+ "new_this_run": {},
+ "runs": 4,
  "first_researched_at": "2026-11-05T09:58:13.383139+00:00"
 }

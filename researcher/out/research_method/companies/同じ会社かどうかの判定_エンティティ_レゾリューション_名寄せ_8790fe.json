@@ -8,8 +8,228 @@
  ],
  "context": "同一性",
  "kind": "market",
- "researched_at": "2026-11-05T14:50:43.110284+00:00",
+ "researched_at": "2026-11-05T17:35:16.338331+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": ": 設立登記法人(株式会社・合同会社・NPO等)、国・地方公共団体、一定の人格なき社団等",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 13桁(先頭1桁はチェックデジット + 商業登記番号ベースの12桁)",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "国が全法人に付与し、誰でも使えるようにしている、きわめて珍しい公的識別子だ",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用動向・プレスリリースから「今アプローチすべき理由」を見つけるシグナル検知",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "と、IPアドレス、デバイス、行動といったシグナルから統計的な確信度スコアを算出する",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "シグナル（IP、デバイス、行動）からの統計的な推定",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せにおける統計的なマッチングは、AIという呼び名よりも古い",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "生成AIに式や判定の条件を相談した場合も、その答えを個人のチャット履歴に置かず、採用した条件だけを台帳に書き写します",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3. Linking and profiling",
+    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2. Data Profiling and Standardization",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Matching records across heterogeneous datasets (e.g., SQL and NoSQL databases, spreadsheets, PDFs) can be exceptionally difficult due to different types of entities, encoding, formatting, languages, and schemas. Converting all this different type of data into a pre-defined schema through schema-matching and data exchange is a risky process and can result in the loss of valuable information.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2. Scalable Data Profiling and Cleansing",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "pull filings from every jurisdiction (plus SEC, tax, and licensing data).",
+    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", and every field links back to its official filing. That provenance isn’t a nice-to-have; auditors demand it, regulators expect it, and machine-learning teams need it for training sets.",
+    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：統合後に、どのレコードの値を採用するかの取り決め",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "代表レコードは、項目ごとに採用基準を決めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "需要予測モデルの種類と選び方｜統計・機械学習の使い分けを解説",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "「半年ぶりに見たら移転していた」「社名変更に気づかなかった」という手動管理の罠から抜け出せる",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "唯一の注意点は、個人事業主と外資系の一部には付与されていないことだ",
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "匿名のトラフィック、表記の誤りを含むオフラインのレコード",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "確定的マッチングのルールを骨格とし、確率的マッチングは誤りを許容できる活用事例に限って使い、アイデンティティグラフには統合履歴を残す",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実運用の多くのCDPは両方を併用しており、即時の認識のためのリアルタイムのイベント統合と、統合の誤りを修正し履歴を再計算するための定期的な完全整合処理を組み合わせている",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統合の誤りはエラーとして表に出ないため、名寄せは無条件に信頼するのではなく、指標で監視する必要がある",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジング：表記ゆれ、欠損、誤り、重複など、データの汚れを直す作業の全体",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングは、表記ゆれ、欠損、誤り、重複など、データの汚れを直す作業の全体です",
+    "url": "https://www.sento.group/concepts/nayose",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "you can reliably collapse duplicates. No matter how rich your datasets or how cutting-edge your graph database, if you match “Acme Holdings LLC” (parent) to “Acme Corp Ltd” (subsidiary) by mistake, your risk scores, supply-chain exposure, and ESG metrics all fall like dominoes. Entity Resolution is the hinge on which the entire narrative, and any real-world compliance program, turns.",
+    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Many US states still hide officers, and only a slice of businesses carry LEIs. Bias can creep into machine-learning matches, and survivorship rules require human oversight. Finally, if your downstream teams ignore the golden source and keep editing records locally, duplicates will creep back. Entity resolution is a",
+    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "compare librarian, database engineer, investigator, privacy owner and receiver. Each values a different balance between recall and mistaken identity.",
+    "url": "https://edukatesg.com/2026/09/05/how-entity-resolution-works/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "機能に加えて、ファイルの欠損・重複、APIのタイムアウト、再取り込み、途中失敗からの再開も試します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：良かった例だけでなく、失敗例や未判定例を示せる会社は、実運用の課題を説明しやすい傾向があります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングは個々のレコードの誤りや表記ゆれを修正してデータ品質を高める前処理であり、名寄せは複数のレコードから同一人物・同一企業を特定して統合する作業です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングとは、データベースや管理ファイルに含まれる誤り・欠損・表記ゆれ・重複を修正し、データ全体の品質を高める作業です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "値の内容は同じでも、フォーマットが異なると完全一致マッチングは失敗します",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "誤統合は顧客情報の混在という深刻な問題につながるため、特に注意が必要です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "需要予測AIとは？仕組み・導入メリット・失敗しない5ステップを解説",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
    {
     "quote": "例えば、次のような顧客データが存在していたとします",
@@ -538,6 +758,96 @@
     "url": "https://www.semantic-visions.com/insights/entity-resolution",
     "pass": 3,
     "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際の運用では、CDPの名寄せがアイデンティティグラフに書き込み、下流のツールはその結果である統合プロファイルを読む",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "番地の表記（「1丁目2番3号」と「1-2-3」の混在）は自動処理が難しいケースもあるため、目視確認が必要な件数を事前に把握しておくと工数の見積もりに役立ちます",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "システムごとに項目名が異なるケースは頻繁に起きます",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "マッチング結果は「確定統合」「要確認」「非該当」の3分類で管理すると、目視確認が必要な件数を絞り込めます",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ5：統合結果の検証と本番反映",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "マッチング結果をそのまま本番DBに反映するのではなく、必ずサンプルチェックを挟みます",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "誤統合：別人・別企業を同一と判定して統合してしまったケース",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統合漏れ：同一人物・同一企業を別エンティティと判定して統合しなかったケース",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同一人物が「山田太郎」「山田 太郎」（スペースあり）「ヤマダタロウ」と異なる形式で複数回登録するケースは珍しくありません",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「渡邊」が「渡辺」に変換されたり、会社名の一部が欠落したりするケースがあります",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "移行前の段階でクレンジングと名寄せを実施せずに単純結合すると、重複が倍増するケースもあります",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自社データだけでは判定が難しいケースでも、外部の法人データベースと突き合わせることで精度を高められます",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "追加ツールを導入しなくても、既存システムの機能で対応できるケースがあります",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業名・住所・電話番号など9種類の情報を組み合わせた名寄せエンジンにより、社名変更や吸収合併などの複雑なケースにも対応し、名刺経由で発生する重複データの管理に強みがあります",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "食品のAI需要予測で食品ロス削減と欠品防止を両立する方法｜導入事例と5つの実践ポイント",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
    }
   ],
   "突き合わせ・推定": [
@@ -814,6 +1124,42 @@
    {
     "quote": "Estimate the value Tamr can bring to your data with a quick calculation",
     "url": "https://www.tamr.com/entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "補完できるものは他システムのデータと突き合わせて補完します",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ5：統合結果の検証と本番反映",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "反映後は件数の変化（統合前後のレコード数の差）を確認し、想定範囲内かどうかを検証します",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "専用ツールの強みは、外部マスタデータとの照合による高精度なマッチングです",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自社データだけでは判定が難しいケースでも、外部の法人データベースと突き合わせることで精度を高められます",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1,250万拠点以上の法人データベース（LBC）との照合により、表記ゆれがあっても高精度な名寄せが可能です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -1342,188 +1688,94 @@
     "url": "https://www.semantic-visions.com/insights/entity-resolution",
     "pass": 3,
     "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
+   },
    {
-    "quote": ": 設立登記法人(株式会社・合同会社・NPO等)、国・地方公共団体、一定の人格なき社団等",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "quote": "データクレンジングと名寄せの違いとは？実施手順やツールの選び方を解説 - GENIEE's library",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": ": 13桁(先頭1桁はチェックデジット + 商業登記番号ベースの12桁)",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "quote": "データクレンジングと名寄せの違いとは？実施手順やツールの選び方を解説",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "国が全法人に付与し、誰でも使えるようにしている、きわめて珍しい公的識別子だ",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "quote": "名寄せが必要になる典型的な状況は、SFA・CRM・MA・名刺管理ツールを複数運用している企業で発生します",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "採用動向・プレスリリースから「今アプローチすべき理由」を見つけるシグナル検知",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "quote": "「株式会社」と「（株）」の表記統一にはSUBSTITUTE関数で一方に寄せる方法が一般的です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "と、IPアドレス、デバイス、行動といったシグナルから統計的な確信度スコアを算出する",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "quote": "表記ゆれの種類は多岐にわたるため、まず自社データに多い類型を洗い出してから処理ルールを決めると、作業が効率的に進みます",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "シグナル（IP、デバイス、行動）からの統計的な推定",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "quote": "住所の都道府県名を統一する場合は、LEFT関数やIF関数を組み合わせて先頭の文字列を判定する方法が一般的です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "名寄せにおける統計的なマッチングは、AIという呼び名よりも古い",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "quote": "データクレンジングから名寄せまでの実施手順",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "生成AIに式や判定の条件を相談した場合も、その答えを個人のチャット履歴に置かず、採用した条件だけを台帳に書き写します",
-    "url": "https://www.sento.group/concepts/nayose",
+    "quote": "全体の流れは5つのステップで構成されます",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "3. Linking and profiling",
-    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "quote": "各ステップで何を確認し、何を決定するかを把握しておくと、作業の抜け漏れを防ぎやすくなります",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "2. Data Profiling and Standardization",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "quote": "ステップ1：現状データの調査と対象範囲の確定",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Matching records across heterogeneous datasets (e.g., SQL and NoSQL databases, spreadsheets, PDFs) can be exceptionally difficult due to different types of entities, encoding, formatting, languages, and schemas. Converting all this different type of data into a pre-defined schema through schema-matching and data exchange is a risky process and can result in the loss of valuable information.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "quote": "対象範囲を広げすぎると工数が膨らむため、最初は「直近1年以内にアクティブな顧客」など絞り込んだ範囲で着手し、精度を確認してから全件に拡張する進め方が現実的です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "quote": "ステップ2：データ抽出と統合先フォーマットの設計",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "2. Scalable Data Profiling and Cleansing",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "quote": "ステップ3：データクレンジングの実施",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "pull filings from every jurisdiction (plus SEC, tax, and licensing data).",
-    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
+    "quote": "前章で説明した4種類のクレンジング処理（表記ゆれの統一・欠損値の補完・フォーマットの正規化・誤データの除去）をこのステップで実施します",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": ", and every field links back to its official filing. That provenance isn’t a nice-to-have; auditors demand it, regulators expect it, and machine-learning teams need it for training sets.",
-    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：統合後に、どのレコードの値を採用するかの取り決め",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "代表レコードは、項目ごとに採用基準を決めます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "「半年ぶりに見たら移転していた」「社名変更に気づかなかった」という手動管理の罠から抜け出せる",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "唯一の注意点は、個人事業主と外資系の一部には付与されていないことだ",
-    "url": "https://note.com/sr_mako/n/n611995af6f74",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "匿名のトラフィック、表記の誤りを含むオフラインのレコード",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "確定的マッチングのルールを骨格とし、確率的マッチングは誤りを許容できる活用事例に限って使い、アイデンティティグラフには統合履歴を残す",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実運用の多くのCDPは両方を併用しており、即時の認識のためのリアルタイムのイベント統合と、統合の誤りを修正し履歴を再計算するための定期的な完全整合処理を組み合わせている",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統合の誤りはエラーとして表に出ないため、名寄せは無条件に信頼するのではなく、指標で監視する必要がある",
-    "url": "https://cdp.com/ja/glossary/identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データクレンジング：表記ゆれ、欠損、誤り、重複など、データの汚れを直す作業の全体",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データクレンジングは、表記ゆれ、欠損、誤り、重複など、データの汚れを直す作業の全体です",
-    "url": "https://www.sento.group/concepts/nayose",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "you can reliably collapse duplicates. No matter how rich your datasets or how cutting-edge your graph database, if you match “Acme Holdings LLC” (parent) to “Acme Corp Ltd” (subsidiary) by mistake, your risk scores, supply-chain exposure, and ESG metrics all fall like dominoes. Entity Resolution is the hinge on which the entire narrative, and any real-world compliance program, turns.",
-    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Many US states still hide officers, and only a slice of businesses carry LEIs. Bias can creep into machine-learning matches, and survivorship rules require human oversight. Finally, if your downstream teams ignore the golden source and keep editing records locally, duplicates will creep back. Entity resolution is a",
-    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "compare librarian, database engineer, investigator, privacy owner and receiver. Each values a different balance between recall and mistaken identity.",
-    "url": "https://edukatesg.com/2026/09/05/how-entity-resolution-works/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "機能に加えて、ファイルの欠損・重複、APIのタイムアウト、再取り込み、途中失敗からの再開も試します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：良かった例だけでなく、失敗例や未判定例を示せる会社は、実運用の課題を説明しやすい傾向があります",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "quote": "また、クレンジング後の件数変化（除去によって何件減ったか）と欠損率の変化を確認することで、次のステップに進む前の品質チェックになります",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -1533,7 +1785,12 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/ai_scout_jp/n/na264a18ce645",
+    "url": "https://note.com/kagawatomo/n/n5425654d0f5d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dragon_0324/n/n9da7a3cb1ec5",
     "status": "ok",
     "method": "http"
    },
@@ -1548,37 +1805,12 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/ai_scout_jp/n/na264a18ce645",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/kanai_sho/n/nff1ff5d30eac",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/anomaly_inc/n/n6d00441f4ed8",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/rmondo/n/n2477484cf8ea",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://aipicks.jp/glossary/entity-resolution",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://cherub.jp/notes/entity-resolution/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
     "status": "ok",
     "method": "http"
    },
@@ -1588,12 +1820,52 @@
     "method": "http"
    },
    {
-    "url": "https://www.tech-tldr.com/aws/analytics/entity-resolution/",
+    "url": "https://aipicks.jp/glossary/entity-resolution",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.sento.group/concepts/nayose",
+    "url": "https://note.com/michibikugroup/n/n138dc00939ca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tech.dentsusoken.com/entry/databricks-entity-resolution-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techblog.ap-com.co.jp/entry/2025/06/27/154338",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://debono.co.jp/media/nayose-kokyaku-data-ai/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://cherub.jp/notes/entity-resolution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tech-tldr.com/aws/analytics/entity-resolution/",
     "status": "ok",
     "method": "http"
    },
@@ -1603,14 +1875,54 @@
     "method": "http"
    },
    {
-    "url": "https://br.linkedin.com/in/gabrielfernandesrocha",
+    "url": "https://www.quantexa.com/ja/platform/entity-resolution-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usonar.co.jp/blog/5890.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnel-ai.jp/media/crm-nayose/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sento.group/concepts/nayose",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precisely.com/solution/data-matching-and-entity-resolution-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdp.com/glossary/entity-resolution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/dataengineering/comments/1k8dmdp/have_you_ever_used_record_linkage_entity/",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://uk.linkedin.com/jobs/view/head-of-entity-data-at-intelix-ai-4482961270",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
@@ -1618,9 +1930,11 @@
   {
    "query": "同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ） site:note.com",
    "results": [
-    "https://note.com/ai_scout_jp/n/na264a18ce645",
+    "https://note.com/kagawatomo/n/n5425654d0f5d",
+    "https://note.com/dragon_0324/n/n9da7a3cb1ec5",
     "https://note.com/cute_peony965/n/n356d7d9ecfaa",
     "https://note.com/sr_mako/n/n611995af6f74",
+    "https://note.com/ai_scout_jp/n/na264a18ce645",
     "https://note.com/kanai_sho/n/nff1ff5d30eac",
     "https://note.com/anomaly_inc/n/n6d00441f4ed8",
     "https://note.com/rmondo/n/n2477484cf8ea",
@@ -1629,42 +1943,71 @@
   },
   {
    "query": "同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ） note",
-   "results": []
+   "results": [
+    "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
+    "https://aipicks.jp/glossary/entity-resolution",
+    "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
+    "https://note.com/michibikugroup/n/n138dc00939ca",
+    "https://tech.dentsusoken.com/entry/databricks-entity-resolution-overview",
+    "https://techblog.ap-com.co.jp/entry/2025/06/27/154338",
+    "https://techblog.asia-quest.jp/202512/amazon-entity-resolution-japanese-address-matching",
+    "https://cdp.com/ja/glossary/identity-resolution/",
+    "https://scholarcompass.net/articles/6154"
+   ]
   },
   {
    "query": "同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ） やり方",
    "results": [
     "https://aipicks.jp/glossary/entity-resolution",
-    "https://cherub.jp/notes/entity-resolution/",
-    "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "https://note.com/kanai_sho/n/nff1ff5d30eac",
-    "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
     "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
-    "https://www.tech-tldr.com/aws/analytics/entity-resolution/"
+    "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
+    "https://docs.aws.amazon.com/ja_jp/entityresolution/latest/userguide/what-is-service.html",
+    "https://cdp.com/ja/glossary/identity-resolution/",
+    "https://tech.dentsusoken.com/entry/databricks-entity-resolution-overview",
+    "https://techblog.ap-com.co.jp/entry/2025/06/27/154338",
+    "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "https://debono.co.jp/media/nayose-kokyaku-data-ai/",
+    "https://cherub.jp/notes/entity-resolution/"
    ]
   },
   {
    "query": "同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ） 事例",
    "results": [
-    "https://aipicks.jp/glossary/entity-resolution",
-    "https://cherub.jp/notes/entity-resolution/",
-    "https://www.sento.group/concepts/nayose",
-    "https://note.com/kanai_sho/n/nff1ff5d30eac",
-    "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
     "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
-    "https://qiita.com/kenken38/items/25a78d5e0041ca2f1cd2"
+    "https://aipicks.jp/glossary/entity-resolution",
+    "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
+    "https://cdp.com/ja/glossary/identity-resolution/",
+    "https://tech.dentsusoken.com/entry/databricks-entity-resolution-overview",
+    "https://www.quantexa.com/ja/platform/entity-resolution-software/",
+    "https://usonar.co.jp/blog/5890.html",
+    "https://techblog.ap-com.co.jp/entry/2025/06/27/154338",
+    "https://funnel-ai.jp/media/crm-nayose/",
+    "https://cherub.jp/notes/entity-resolution/"
    ]
   },
   {
    "query": "entity resolution company record matching rules",
-   "results": []
+   "results": [
+    "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "https://www.precisely.com/solution/data-matching-and-entity-resolution-solutions/",
+    "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "https://cdp.com/glossary/entity-resolution/",
+    "https://www.reddit.com/r/dataengineering/comments/1k8dmdp/have_you_ever_used_record_linkage_entity/",
+    "https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/",
+    "https://www.oxensoftwares.com/blog/entity-resolution-data-matching-business-systems/",
+    "https://neo4j.com/blog/graph-database/what-is-entity-resolution/",
+    "https://aws.amazon.com/entity-resolution/",
+    "https://docs.aws.amazon.com/entityresolution/latest/userguide/create-matching-workflow.html"
+   ]
   },
   {
    "query": "site:note.com 同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ）",
    "results": [
-    "https://note.com/ai_scout_jp/n/na264a18ce645",
+    "https://note.com/kagawatomo/n/n5425654d0f5d",
+    "https://note.com/dragon_0324/n/n9da7a3cb1ec5",
     "https://note.com/cute_peony965/n/n356d7d9ecfaa",
     "https://note.com/sr_mako/n/n611995af6f74",
+    "https://note.com/ai_scout_jp/n/na264a18ce645",
     "https://note.com/kanai_sho/n/nff1ff5d30eac",
     "https://note.com/anomaly_inc/n/n6d00441f4ed8",
     "https://note.com/rmondo/n/n2477484cf8ea",
@@ -1674,26 +2017,18 @@
   {
    "query": "site:x.com 同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ）",
    "results": [
-    "https://x.com/hhayashiss/status/2068967239894843745",
     "https://x.com/kigyoulist/status/2108920610042855467",
     "https://x.com/matsuura_AI_oji/status/2078055480996565233",
+    "https://x.com/hhayashiss/status/2068967239894843745",
     "https://x.com/kotoha_ai_auto/status/2087399771057361310",
     "https://x.com/gyomu_rakulab/status/2113103058246988066",
     "https://x.com/takanishi12/status/2087433963375923620",
-    "https://x.com/ai_x_ow_jp_01/status/2107039843444560161"
+    "https://x.com/yuhikimura_lab/status/2115765274838524249"
    ]
   },
   {
    "query": "site:linkedin.com 同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ）",
-   "results": [
-    "https://jp.linkedin.com/pulse/what-entity-resolution-how-works-why-matter-midhun-mathew-iuulc?tl=ja",
-    "https://www.linkedin.com/pulse/googleに本物と認識される方法エンティティという視点のseo-剛-柏崎-f5z0c",
-    "https://in.linkedin.com/in/umangakumawat",
-    "https://jp.linkedin.com/pulse/harness-power-entity-resolution-qualytics-qualyticsinc-hwhfe?tl=ja",
-    "https://jp.linkedin.com/posts/takahiko-nishida-35899838_取引先の一覧を2つのシステムで突き合わせる前に確かめる4点を公開する-claude-activity-7493199656081096705-zUpz",
-    "https://in.linkedin.com/in/nisa-sehr",
-    "https://jp.linkedin.com/pulse/solving-same-problem-probabilistic-entity-linking-theo-marinos-uouze?tl=ja"
-   ]
+   "results": []
   },
   {
    "query": "site:facebook.com 同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ）",
@@ -1702,43 +2037,320 @@
     "https://www.facebook.com/nikkeibusiness/posts/ある中小企業は調査会社の評点などで個別に与信限度額を設定していたが取引先を調査会社のdbと名寄せマッチングした際に旧dbで別会社として認識していた複数の会社が同/5104827656232141/",
     "https://www.facebook.com/100063523145751/photos/被支配会社大会社連合で会社を設立した場合申告の別表二に株主上位三位を記載し同族会社の判定をしますが被支配会社でない法人という欄があります同族会社の判定よりこの区/1160241347715277/",
     "https://www.facebook.com/japanex.jp/photos/同族会社の判定をどこよりもわかりやすく解説フローチャート式株主が個人で３人以下ならもう同族会社です️ほとんどの中小企業がstep1で判定が終わるのではないでしょ/1229142162334455/",
-    "https://www.facebook.com/office.sasidesign/videos/経営の次の一手がわかるカードゲーム/2241707230003627/",
+    "https://www.facebook.com/office.honda/photos/第十章-加盟店管理ー加盟店は顧客企業ではなくビジネスパートナーー割賦販売法の改正趣旨の一つが加盟店とクレジット会社の関係が加盟店発注者クレジット会社業者ではなく/1447377788664109/",
     "https://www.facebook.com/HTTAX/posts/新着税務トピックス株式保有特定会社の判定基準改正へhttpwwwht-taxorjptopics20130502/602795276399563/",
-    "https://www.facebook.com/office.honda/photos/第十章-加盟店管理ー加盟店は顧客企業ではなくビジネスパートナーー割賦販売法の改正趣旨の一つが加盟店とクレジット会社の関係が加盟店発注者クレジット会社業者ではなく/1447377788664109/"
+    "https://www.facebook.com/office.sasidesign/videos/経営の次の一手がわかるカードゲーム/2241707230003627/"
    ]
   },
   {
    "query": "同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ） note 社長",
-   "results": []
+   "results": [
+    "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
+    "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
+    "https://note.com/michibikugroup/n/n138dc00939ca",
+    "https://tech.dentsusoken.com/entry/databricks-entity-resolution-overview",
+    "https://techblog.ap-com.co.jp/entry/2025/06/27/154338",
+    "https://note.com/sai_note2222/n/n3455c961f865",
+    "https://aws.amazon.com/jp/blogs/news/resolve-imperfect-data-with-advanced-rule-based-fuzzy-matching-in-aws-entity-resolution/",
+    "https://jp.linkedin.com/pulse/what-entity-resolution-how-works-why-matter-midhun-mathew-iuulc?tl=ja",
+    "https://www.se.com/articles/ja/Knowledge/FA281446?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1"
+   ]
   },
   {
    "query": "同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ） X 投稿",
-   "results": []
+   "results": [
+    "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
+    "https://qiita.com/mellowlaunch/items/8822735de5082515a690",
+    "https://docs.aws.amazon.com/ja_jp/entityresolution/latest/userguide/what-is-service.html",
+    "https://tech.dentsusoken.com/entry/databricks-entity-resolution-overview",
+    "https://techblog.ap-com.co.jp/entry/2025/06/27/154338",
+    "https://github.com/DevRev-JP/tech-blog/blob/main/articles/kg-agent-ontology-design.md",
+    "https://www.quantexa.com/ja/platform/entity-resolution-software/",
+    "https://cdp.com/ja/glossary/identity-resolution/",
+    "https://www.sunnycloud.jp/column/20230728-01/"
+   ]
   },
   {
    "query": "entity resolution company record matching rules site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/entity-resolution-scale-probabilistic-matching-techniques-reddy-g934c",
+    "https://www.linkedin.com/pulse/entity-resolution-your-data-has-been-trying-tell-you-something-3nhme",
     "https://www.linkedin.com/pulse/what-entity-resolution-how-works-why-matter-midhun-mathew-iuulc",
-    "https://br.linkedin.com/in/gabrielfernandesrocha",
-    "https://uk.linkedin.com/jobs/view/head-of-entity-data-at-intelix-ai-4482961270",
-    "https://il.linkedin.com/in/elad-eran-45ab5583",
-    "https://in.linkedin.com/in/kapoorhitesh",
-    "https://in.linkedin.com/in/piu-maji3479"
+    "https://www.linkedin.com/posts/modern-data-101_%F0%9D%91%83%F0%9D%91%9C%F0%9D%91%9C%F0%9D%91%9F-%F0%9D%91%91%F0%9D%91%8E%F0%9D%91%A1%F0%9D%91%8E-%F0%9D%91%9E%F0%9D%91%A2%F0%9D%91%8E%F0%9D%91%99%F0%9D%91%96%F0%9D%91%A1%F0%9D%91%A6-%F0%9D%91%9A%F0%9D%91%8E%F0%9D%91%9B%F0%9D%91%96%F0%9D%91%93%F0%9D%91%92%F0%9D%91%A0%F0%9D%91%A1%F0%9D%91%A0-activity-7475836368569651200-0buj",
+    "https://www.linkedin.com/pulse/what-entity-resolution-why-its-foundational-dr-gurpinder-s-dhillon-mehfc",
+    "https://www.linkedin.com/company/winpure",
+    "https://www.linkedin.com/posts/connecteddataworld_creating-customer-360s-using-entity-resolution-activity-7519050032474574848-wvW5",
+    "https://www.linkedin.com/pulse/beyond-string-matching-datacaffes-semantic-ai-true-entity-qgbxc",
+    "https://www.linkedin.com/pulse/rise-semantic-entity-resolution-building-smarter-knowledge-1yxwc",
+    "https://www.linkedin.com/pulse/addressing-unified-namespace-entity-resolution-ensuring-kathpal-kqeac",
+    "https://www.linkedin.com/posts/shukla-abhinav0204_amazon-ml-challenge-26-activity-7510275987071430656-AfNK"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
+  "一次情報の探し方": [
    {
-    "quote": "Gabriel Fernandes Rocha - Identity Resolution | Entity ...Head of Entity Data at Intelix.AI — Greater London, England ...Elad Eran - Co-Founder & CPO at BonData | LinkedInPiu Maji - Barclays HackOHire’26 Finalist | 2nd Runner Up at ...Hitesh Kapoor - ML @ Google | LinkedIn Identity Resolution | Entity Resolution | Record Linkage | Data Matching | Probabilistic Matching | Data Integration | Dedupli",
-    "url": "https://br.linkedin.com/in/gabrielfernandesrocha",
+    "quote": "需要予測モデルの種類と選び方｜統計・機械学習の使い分けを解説",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "データクレンジングは個々のレコードの誤りや表記ゆれを修正してデータ品質を高める前処理であり、名寄せは複数のレコードから同一人物・同一企業を特定して統合する作業です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングとは、データベースや管理ファイルに含まれる誤り・欠損・表記ゆれ・重複を修正し、データ全体の品質を高める作業です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "値の内容は同じでも、フォーマットが異なると完全一致マッチングは失敗します",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "誤統合は顧客情報の混在という深刻な問題につながるため、特に注意が必要です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "需要予測AIとは？仕組み・導入メリット・失敗しない5ステップを解説",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "実際の運用では、CDPの名寄せがアイデンティティグラフに書き込み、下流のツールはその結果である統合プロファイルを読む",
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "番地の表記（「1丁目2番3号」と「1-2-3」の混在）は自動処理が難しいケースもあるため、目視確認が必要な件数を事前に把握しておくと工数の見積もりに役立ちます",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "システムごとに項目名が異なるケースは頻繁に起きます",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "マッチング結果は「確定統合」「要確認」「非該当」の3分類で管理すると、目視確認が必要な件数を絞り込めます",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ5：統合結果の検証と本番反映",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "マッチング結果をそのまま本番DBに反映するのではなく、必ずサンプルチェックを挟みます",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "誤統合：別人・別企業を同一と判定して統合してしまったケース",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統合漏れ：同一人物・同一企業を別エンティティと判定して統合しなかったケース",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同一人物が「山田太郎」「山田 太郎」（スペースあり）「ヤマダタロウ」と異なる形式で複数回登録するケースは珍しくありません",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「渡邊」が「渡辺」に変換されたり、会社名の一部が欠落したりするケースがあります",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "移行前の段階でクレンジングと名寄せを実施せずに単純結合すると、重複が倍増するケースもあります",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自社データだけでは判定が難しいケースでも、外部の法人データベースと突き合わせることで精度を高められます",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "追加ツールを導入しなくても、既存システムの機能で対応できるケースがあります",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業名・住所・電話番号など9種類の情報を組み合わせた名寄せエンジンにより、社名変更や吸収合併などの複雑なケースにも対応し、名刺経由で発生する重複データの管理に強みがあります",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "食品のAI需要予測で食品ロス削減と欠品防止を両立する方法｜導入事例と5つの実践ポイント",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "補完できるものは他システムのデータと突き合わせて補完します",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ5：統合結果の検証と本番反映",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "反映後は件数の変化（統合前後のレコード数の差）を確認し、想定範囲内かどうかを検証します",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "専用ツールの強みは、外部マスタデータとの照合による高精度なマッチングです",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自社データだけでは判定が難しいケースでも、外部の法人データベースと突き合わせることで精度を高められます",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1,250万拠点以上の法人データベース（LBC）との照合により、表記ゆれがあっても高精度な名寄せが可能です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "データクレンジングと名寄せの違いとは？実施手順やツールの選び方を解説 - GENIEE's library",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングと名寄せの違いとは？実施手順やツールの選び方を解説",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せが必要になる典型的な状況は、SFA・CRM・MA・名刺管理ツールを複数運用している企業で発生します",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「株式会社」と「（株）」の表記統一にはSUBSTITUTE関数で一方に寄せる方法が一般的です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "表記ゆれの種類は多岐にわたるため、まず自社データに多い類型を洗い出してから処理ルールを決めると、作業が効率的に進みます",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "住所の都道府県名を統一する場合は、LEFT関数やIF関数を組み合わせて先頭の文字列を判定する方法が一般的です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データクレンジングから名寄せまでの実施手順",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "全体の流れは5つのステップで構成されます",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "各ステップで何を確認し、何を決定するかを把握しておくと、作業の抜け漏れを防ぎやすくなります",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ1：現状データの調査と対象範囲の確定",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "対象範囲を広げすぎると工数が膨らむため、最初は「直近1年以内にアクティブな顧客」など絞り込んだ範囲で着手し、精度を確認してから全件に拡張する進め方が現実的です",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ2：データ抽出と統合先フォーマットの設計",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ3：データクレンジングの実施",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前章で説明した4種類のクレンジング処理（表記ゆれの統一・欠損値の補完・フォーマットの正規化・誤データの除去）をこのステップで実施します",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、クレンジング後の件数変化（除去によって何件減ったか）と欠損率の変化を確認することで、次のステップに進む前の品質チェックになります",
+    "url": "https://geniee.co.jp/media/cdp/datacleansing-datamatching/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ]
  },
- "runs": 7,
+ "runs": 8,
  "first_researched_at": "2026-11-05T03:02:26.379968+00:00"
 }
