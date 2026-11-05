@@ -115,6 +115,14 @@ def is_size_band(q, m):
     after, before = q[m.end():m.end() + 6], q[max(0, m.start() - 3):m.start()]
     return bool(re.match(r"\s*(以\s*上|未\s*満|以\s*下|超|〜|～|~|-|−|―|から\s*\d|規模|の事業所|の企業)", after) or re.search(r"[〜～~\-−―]\s*$|から\s*$", before))
 
+# 2026-11-06 4-40 走査の失敗から：e-Stat のデータベース表示（dbview）の選択肢「500万円超~1千万円」「1億円超~5億円」が、
+# 中小企業実態基本調査の品目の受注金額として13件数えられ、幅200倍の【食い違い】になった。金額の階級（売上高・資本金の区分）の境目は値にしない
+def is_money_band(q, m):
+    if not m.group(2).endswith("円"): return False
+    after, before = q[m.end():m.end() + 6], q[max(0, m.start() - 3):m.start()]
+    if re.match(r"\s*(以\s*上|未\s*満|以\s*下|超|〜|～|~|から\s*\d)", after) or re.search(r"[〜～~]\s*$|超\s*[〜～~]\s*$|から\s*$", before): return True
+    return bool(re.fullmatch(r"\s*[\d,.千百万億兆]+円(以下|未満|以上|超)?\s*([〜～~]\s*[\d,.千百万億兆]+円(以下|未満)?)?\s*", q))
+
 # 2026-11-05 4-20：同じ統計・同じ論文でも版で数字が違う（速報→確報→改定）。版を値に残し、確報・改定があれば速報を年の中央値から外す（Deskrex の版の照合）
 VERSION = [("改定", re.compile(r"(改定値|改訂値|遡及改定|訂正)")), ("確報", re.compile(r"(確報|確定値|確定)")), ("速報", re.compile(r"(速報|概数|暫定|preliminary|advance estimate)", re.I))]
 def version_of(q):
@@ -177,6 +185,9 @@ def rows_from_doc(topic, d):
                 ctx = context_of(q)
                 for m in NUM.finditer(q):
                     if is_size_band(q, m): drop(topic, "規模区分の境目（4-5）"); continue  # 規模区分の境目は数えない
+                    if is_money_band(q, m): drop(topic, "金額の階級の境目（4-40）"); continue
+                    # 2026-11-06 4-40 走査の失敗から：神奈川県の工業統計の結果表の目次「表 33 事業所数、…」の33が事業所数として数えられた。表・図の番号は値にしない
+                    if re.search(r"((?<!代)表|図|第)\s*$", q[max(0, m.start() - 3):m.start()]): drop(topic, "表・図の番号（4-40）"); continue
                     # 2026-11-05：「1人あたり」「1事業所当たり」の1を人数・事業所数として拾い、幅が「1〜3,952事業所」になった失敗から。割り算の分母の1は数えない
                     if PERDENOM.match(q, m.start()): drop(topic, "1あたりの分母の1（4-5）"); continue
                     v, u = norm(*m.groups())
@@ -221,6 +232,10 @@ GOLD = [
     ("ハイフンは負にしない（4-35）", "加工賃 -  300万円", "https://example.go.jp/a", [(300, "万円")]),
     ("求人検索ページの数字（4-31）", "年間2,850万人が行き交う国際空港", "https://jp.stanby.com/search?q=a", []),
     ("1,000万人超の人数（4-31）", "利用者は延べ3,000万人", "https://example.com/a", []),
+    ("金額の階級の境目（4-40）", "500万円超~1千万円", "https://www.e-stat.go.jp/dbview?sid=1", []),
+    ("金額の階級の境目・以下（4-40）", "500万円以下", "https://www.e-stat.go.jp/dbview?sid=1", []),
+    ("表の番号（4-40）", "表 33 事業所数、従業者数", "https://www.pref.kanagawa.jp/a", []),
+    ("階級でない金額は残す（4-40）", "売上高は5,000万円だった", "https://example.go.jp/a", [(5000, "万円")]),
 ]
 def gold_check():
     bad = []
@@ -254,6 +269,35 @@ def census_mix(years):
     old = [y for y in years if 1981 <= y <= 2019]
     full = {y for y in old if y % 10 in (0, 3, 5, 8)}
     return bool(full) and bool(set(old) - full)
+
+# 2026-11-06 4-40：端の1点に依存する向き（reading_monkey note「景気変動」：トレンドの推計は標本の末端で大きく動き、
+# その時点の推計と後の改訂後の推計の差は主に末端から生じる）。最初か最後の年を1つ外して向きの語が変われば、向きは端の1点に依存している
+def end_sensitivity(series):
+    ys = sorted(series)
+    if len(ys) < 4: return None
+    w = lambda t: t[:2]
+    base = w(trend(series))
+    alt = {"最初の年を外す": w(trend({y: series[y] for y in ys[1:]})), "最後の年を外す": w(trend({y: series[y] for y in ys[:-1]}))}
+    flip = [k for k, v in alt.items() if v != base]
+    return "・".join(f"{k}と{alt[k]}" for k in flip) if flip else None
+
+# 2026-11-06 4-40：向きと大きさを分けて突き合わせる（M&E Studio「Triangulation」：自己申告と行政記録が同じ向きで大きさが3分の1、
+# という食い違いは幅と理由を書く）。出どころごとに2年以上あれば最初→最後の変化率を出し、向きは一致・大きさが2倍超ずれるなら印す
+def dir_magnitude(g):
+    by = {}
+    for r in g:
+        if r["年"] and not r.get("予測") and r["値"] > 0: by.setdefault(src_key(r), {}).setdefault(int(r["年"]), []).append(r["値"])
+    ch = {}
+    for k, ser in by.items():
+        if len(ser) < 2: continue
+        ys = sorted(ser); a, b = statistics.median(ser[ys[0]]), statistics.median(ser[ys[-1]])
+        if a > 0: ch[k] = (b - a) / a
+    if len(ch) < 2: return None
+    signs = {(v > 0.05) - (v < -0.05) for v in ch.values()}
+    if len(signs) > 1: return "向きが出どころで割れる：" + "、".join(f"{k} {v*100:+.0f}%" for k, v in ch.items())
+    mags = sorted(abs(v) for v in ch.values())
+    if mags[0] > 0 and mags[-1] / mags[0] > 2: return "向きは一致・大きさが2倍超ずれる：" + "、".join(f"{k} {v*100:+.0f}%" for k, v in ch.items())
+    return None
 
 def trend(series):
     ys = sorted(series)
@@ -448,6 +492,7 @@ def scan(topic):
             med = {y: statistics.median(v) for y, v in peryear.items()}
             fut = [r for r in g if r["予測"]]
             gr = grade(g)
+            pmid = statistics.median([v for v in vals if v > 0] or [0])
             md.append(f"- {gr} {cat}［{ctx}］（{u}）：{len(g)}件・一次{len(prim)}件・出典{len({src_key(r) for r in g})}か所（調査会社は1つに束ねる）・予測値{len(fut)}件、幅 {lo:g}〜{hi:g}（食い違い{spread}）")
             md.append(f"  - 書き方（4-23）：{phrasing(gr, g)}／格付け（4-28・出どころA〜F×情報1〜6）：{admiralty(g, gr)}")
             # 2026-11-05 4-25：証拠の量に引っ張られない（Heuer の競合仮説分析：大量の証拠に見えても出どころが偏れば強さではない）。
@@ -499,6 +544,14 @@ def scan(topic):
             cr = sum(1 for r in g if r["一次"] == "信用調査")
             if cr: md.append(f"  - 信用調査会社の数字{cr}件（推定値を含むので【推定】扱い・一次に数えない）")
             if med: md.append(f"  - 【推定】年ごとの中央値（{'一次のみ' if prim else '記事含む'}）：" + "、".join(f"{y}年 {v:g}" for y, v in sorted(med.items())) + f" → 向き：{trend(med)}")
+            es = end_sensitivity(med) if med else None
+            if es: md.append(f"  - ⚠ 端の1点に依存：{es}向きの語が変わる。端の年の値（速報・改訂前・1か所だけ）を本文で確かめるまで向きを言い切らない（4-40）")
+            dm = dir_magnitude(g)
+            if dm: md.append(f"  - ⚠ {dm}。幅で書き、ずれの理由（定義・地域・取り方）を添える（4-40）")
+            # 2026-11-06 4-40：二つのしきい値（Joffe ら 2014 JAMIA の重複照合：上のしきい値より上は一致、下より下は不一致、間は人が確かめる）。
+            # 中央値±20%（一致）と3倍超（食い違い）の間にある値は、機械で一致とも食い違いとも決めず、件数を出して本文で確かめる
+            mid_n = sum(1 for v in vals if pmid and v > 0 and 1.2 < max(v / pmid, pmid / v) <= 3)
+            if mid_n: md.append(f"  - 中間帯（中央値の1.2〜3倍・機械で決めない）：{mid_n}件。本文で定義・年・地域を確かめる（4-40）")
             if med and any(STATSRC.search(r["引用"] + r["URL"]) for r in g):
                 st = split_trend(med)
                 if st: md.append(f"  - {st}")
