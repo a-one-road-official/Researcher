@@ -563,7 +563,18 @@ def scan(topic):
         est = [r["値"] for r in rs if r["区分"].startswith("事業所数") and r["単位"] in ("事業所", "社") and r["値"] > 0]
         if emp and est and statistics.median(est) >= 50 and statistics.median(emp) > statistics.median(est):
             md.append(f"- ⚠ 平均でなく総数の疑い：社員数の欄の中央値 {statistics.median(emp):g}人が、同じ品目の事業所数の中央値 {statistics.median(est):g}を超える。業界全体の人数として読み、1社あたりの平均にしない（4-45）")
-            md.append(f"  - 【推定】総数として読んだときの1事業所あたり＝社員数の中央値÷事業所数の中央値：{statistics.median(emp) / statistics.median(est):.1f}人（出典が別々なら桁の目安だけ）")
+            # 2026-11-06 走査の失敗から：別々の出典の中央値どうしを割り、「製造業の受託加工全体」で1事業所あたり8544.3人、EMS で2.5人と桁の外れた値が出た。
+            # 割り算は同じ出典（ホスト）・同じ年の組がある時だけ行い、無ければ割らない。結果が中小の受託の桁（1〜1,000人）を外れれば桁違いとして印す（4-4 の桁の感覚・4-41 の欄どうしの整合）
+            pe = {}
+            for r in rs:
+                if r["年"] and r["値"] > 0 and r["区分"].startswith("社員数") and r["単位"] == "人": pe.setdefault((r["出典"], str(r["年"])), {}).setdefault("e", []).append(r["値"])
+                if r["年"] and r["値"] > 0 and r["区分"].startswith("事業所数") and r["単位"] in ("事業所", "社"): pe.setdefault((r["出典"], str(r["年"])), {}).setdefault("s", []).append(r["値"])
+            pairs = sorted((k, statistics.median(v["e"]) / statistics.median(v["s"])) for k, v in pe.items() if v.get("e") and v.get("s"))
+            if not pairs:
+                md.append("  - 1事業所あたりは割らない：社員数と事業所数が同じ出典・同じ年で揃う組が0件。別々の出典の中央値どうしの割り算は桁が外れる（4-4・4-41）")
+            for (h, y), q in pairs[:6]:
+                odd = "・⚠ 桁違いの疑い（中小の受託の1〜1,000人を外れる）" if not (1 <= q <= 1000) else ""
+                md.append(f"  - 【推定】同じ出典・同じ年で割った1事業所あたり（{h}・{y}年）：{q:.1f}人{odd}")
         groups = {}
         for r in rs: groups.setdefault((r["区分"], r["文脈"], r["単位"]), []).append(r)
         for (cat, ctx, u), g in sorted(groups.items(), key=lambda kv: -len(kv[1])):

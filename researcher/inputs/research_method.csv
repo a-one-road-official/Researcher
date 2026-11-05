@@ -77,3 +77,6 @@ IFCN・FIJ のファクトチェックの手順とレーティング基準の定
 統計の利用者から見た政府統計の問題点（自己評価式・低回収率・委託先の変更による継続性・加工統計の再現性）を書いた報告書,official statistics user problems low response rate contractor change continuity reproducibility report,統計改革 報告書 NIRA 統計の問題点;政府統計 回収率 低下 バイアス 補正;統計調査 民間委託 継続性 品質 filetype:pdf,統計
 市場規模の資料が食い違うときの照合（商品の範囲・地域・売上か出荷額か・実績か予測か）,reconciling conflicting market size estimates scope geography revenue shipments forecast,市場規模 資料 食い違い 照合 方法;市場規模 出荷額 売上 違い 推計;market size estimates differ why reconcile,突き合わせ
 データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説,common data journalism mistakes averages totals denominators,データジャーナリズム よくある間違い 数字;平均と総数 取り違え 統計 記事;データ報道 検証 手順 note,失敗
+ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）,web main text extraction boilerplate removal evaluation precision recall,本文抽出 定型文 除去 評価;trafilatura 本文抽出 精度;boilerplate removal benchmark news,取り方
+公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）,official statistics revision analysis vintages real-time data revision triangle,統計 改訂 分析 速報 確報 差;revision triangle real-time database;mean absolute revision bias test,統計の版
+出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点）,source triangulation matrix independence scoring,三角測量 出典 表 独立性;triangulation matrix claims sources;source corroboration matrix intelligence,裏取り
