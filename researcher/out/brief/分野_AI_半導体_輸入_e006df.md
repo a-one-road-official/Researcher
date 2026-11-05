@@ -2,49 +2,49 @@
 
 ### 海外→日本（輸入）｜人型ロボット（humanoid robot）
 - 取得：2026-11-05T01:03・調査2回目・読んだ頁73
-- 顧客（金を払う側）（93件）：
+- 顧客（金を払う側）（76件）：
   - ［一次］2026-11-04「「対象機器・サービス」リストに掲載されている品目の多くは、中国やロシアの特定企業の通信機器やサービスとなっており、中国は今回の措置に対して、報復措置を講じると表明している（米通商専門誌「インサイドUSトレード」7月30日）」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
   - ［一次］2026-11-04「リスト掲載品目の中で、製造企業を特定せず製品カテゴリー自体を掲載し、特定製品に「条件付き承認」を与える形式となっているのは、今回の外国製高度ロボット機器およびインバーターのほか、消費者ルーター（」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
   - ［記事］2026-11-05「米調査会社IDCの推計によると、2025年における人型ロボットの世界出荷台数は1万8000台を超え、そのうち中国企業が市場シェアの95%を占めると予測されています」https://tokyonewsmedia.com/archives/26125
   - ［記事］2026-11-05「同省の報道官は、今回の米国の規制措置について「表向きは無差別を装っているが、実際には中国企業と製品に対する差別と抑圧だ」と厳しく非難し、措置の即時撤回を要求しています」https://tokyonewsmedia.com/archives/26125
-  - ［記事］2026-11-05「関東地方のマンション管理組合が発注する大規模修繕工事において談合を繰り返したとして、公正取引委員会は…」https://tokyonewsmedia.com/archives/26125
-- 顧客の顧客（発注元が求めること）（91件）：
-  - ［一次］2026-11-05「ーが求める要求仕様を満たし、なおかつ安全性の高いバッ」https://tcnc.jp/tech_journal/2026_humanoid_robot.pdf
-  - ［一次］2026-11-05「・データプラットフォーム：安全な認証基盤、データ連携により、より」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［記事］2026-11-05「日米関税交渉の85兆円対米投資、米国内での半導体工場建設案が新たに浮上」https://tokyonewsmedia.com/archives/26125
+- 顧客の顧客（発注元が求めること）（55件）：
   - ［一次］2026-11-05「 国・地方のAX/DX基盤（GSS、ネットワーク、クラウドやAIの基盤、データ連携基盤・認証基盤、外国人政策のDX基盤等）は行政運営や」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-05「＊1 一定のセキュリティ基準に適合するIoT製品を認証する制度」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-04「基準・認証、ルール形成戦略」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-- 顧客の競合（奪いに来る側）（89件）：
-  - ［一次］2026-11-04「（米国、中国）」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
+  - ［一次］2026-11-04「ただし、消費者が購入済みの機器の使用や、これまでにFCC認証を取得している既存モデルの輸入・販売・販売促進には適用されない」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
+  - ［一次］2026-11-04「ただし、ロボットについては戦争省（国防総省）が、インバーターについては国土安全保障省が、国家安全保障上のリスクがないとして「条件付き承認（Conditional Approval）」を付与した場合は、FCCの認証を受けられる（注）」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
+  - ［一次］2026-11-04「・AIロボットのOEMや重要コンポーネントの開発・製造機能」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+- 顧客の競合（奪いに来る側）（69件）：
   - ［一次］2026-11-04「米国連邦通信委員会（FCC）は7月28日、」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-  - ［一次］2026-11-04「今回の措置により、該当する機器の新規モデルの米国市場での流通が実質的に禁止されることになる」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
   - ［一次］2026-11-04「「対象機器・サービス」のリストは、「2019年安全で信頼できる通信ネットワーク法」に基づきFCCがまとめている、米国の国家安全保障、または米国民の安全・安心に容認できないリスクをもたらすと判断された通信機器およびサービスの一覧だ」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-  - ［一次］2026-11-04「同リストに掲載されている品目は、米国内での輸入・販売・販売促進のために必要なFCC認証の取得が禁止される」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-- 自社の競合（商社・代理店・仲介）（66件）：
+  - ［一次］2026-11-04「今回のリスト追加は、これらの機器が米国の経済安全保障や国家安全保障を損なうサプライチェーン上の脆弱（ぜいじゃく）性を生じさせ、米国の重要インフラにサイバーセキュリティーリスクをもたらす恐れがあるとの省庁横断組織の判断に基づく」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
+  - ［一次］2026-11-04「」によると、外国製の定義は米国連邦規則集〔48 CFR §25.101（a）〕における「米国内製最終製品（Domestic End Product）」に該当しない製品となる」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
+  - ［一次］2026-11-04「「対象機器・サービス」リストに掲載されている品目の多くは、中国やロシアの特定企業の通信機器やサービスとなっており、中国は今回の措置に対して、報復措置を講じると表明している（米通商専門誌「インサイドUSトレード」7月30日）」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
+- 自社の競合（商社・代理店・仲介）（55件）：
   - ［一次］2026-11-05「東京納品代行は、物流機器商社の山善、ロボット制御シ」https://tcnc.jp/tech_journal/2026_humanoid_robot.pdf
   - ［一次］2026-11-05「また、日本においても国内ＦＡロボット商社やＳ」https://tcnc.jp/tech_journal/2026_humanoid_robot.pdf
   - ［一次］2026-11-05「器商社もヒューマノイドロボットの取り扱いを活発化し」https://tcnc.jp/tech_journal/2026_humanoid_robot.pdf
   - ［一次］2026-11-04「各製品の価格は販売代理店・サイト（Delahenty Machinery,RS Marketplace,RobotLAB）や各種報道・レポート（日刊工業新聞、LIDAR MAGAZINE,K８NEWS）による公表情報から引用」https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics/pdf/20251008_2.pdf
-  - ［一次］2026-11-04「・近年、エージェント型AI(Agentic AI)の発展もあり、産業や行政でのAI利活用の」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-- 政治（法・予算・規制）（101件）：
-  - ［一次］2026-11-04「基準・認証、規制」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
+  - ［一次］2026-11-04「 エージェント型AI(Agentic AI)の社会実装やAIを軸とした経営改革（AX）の進展により、想定以上の付加価値の創出が期待されて」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+- 政治（法・予算・規制）（66件）：
   - ［一次］2026-11-04「今回のリスト追加は、これらの機器が米国の経済安全保障や国家安全保障を損なうサプライチェーン上の脆弱（ぜいじゃく）性を生じさせ、米国の重要インフラにサイバーセキュリティーリスクをもたらす恐れがあるとの省庁横断組織の判断に基づく」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
   - ［一次］2026-11-04「3. 足下の政府の取組」https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics/pdf/20251008_2.pdf
   - ［一次］2026-11-04「この導入促進要因としては、中国政府のロボット導入補助金、導入ロボットの普及拡大（新市場や新しい作業用途の拡大を含む）、一般的なハードウェアの学習曲線に伴」https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics/pdf/20251008_2.pdf
   - ［一次］2026-11-04「• 24年にAI規制法を施行」https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics/pdf/20251008_2.pdf
+  - ［一次］2026-11-04「し、予算規模は2021～2030年」https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics/pdf/20251008_2.pdf
 - 経済（規模・価格・為替）（107件）：
   - ［一次］2026-11-05「日本国内のヒューマノイドロボットの市場は、自動車製造工場を中心に 2028年に立ち上がり、市場規模は 20億円と」https://tcnc.jp/tech_journal/2026_humanoid_robot.pdf
   - ［一次］2026-11-05「年には 800億円の市場へ成長すると予測される」https://tcnc.jp/tech_journal/2026_humanoid_robot.pdf
   - ［一次］2026-11-05「manufacturing plants, with a projected market size of 2 billion yen. Subsequently, the range of industries」https://tcnc.jp/tech_journal/2026_humanoid_robot.pdf
   - ［一次］2026-11-05「80 billion yen by 2035.」https://tcnc.jp/tech_journal/2026_humanoid_robot.pdf
   - ［一次］2026-11-05「５. 産業用ヒューマノイドロボットの国内市場規模予測」https://tcnc.jp/tech_journal/2026_humanoid_robot.pdf
-- 社会（人・担い手）（83件）：
+- 社会（人・担い手）（50件）：
   - ［一次］2026-11-05「Amid advances in AI technology and a worsening labor shortage, development and demonstration efforts」https://tcnc.jp/tech_journal/2026_humanoid_robot.pdf
-  - ［一次］2026-11-05「設計開発支援を強化するとともに設計人材を育成」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-05「・人手不足に直面する我が国の供給力を維持し、力強い成長」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-05「ワーク、人材等への誘発効果、更にユーザー産業において、省人化のみならず、」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-05「ティカルAI導入、データや人材を含めたAI基盤投資」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-- 技術（新しい技術・実証）（94件）：
+  - ［一次］2026-11-05「通知では、（1）実地訓練スペースの構築、（2）イノベーション応用コンソーシアムの設立、（3）実用的な作業技能の開発、（4）実環境での応用検証と継続的な配備の強化、（5）重要分野の基盤整備の強化（標準化の推進、人材育成、金融支援などを含む）、（6）蓄積された知見の整理・普及といった6つの側面の具体的な取り組みが盛り込まれた」https://www.jetro.go.jp/biznews/2026/07/d17df8127c38f0b9.html
+  - ［一次］2026-11-04「（注１）各職種における2040年におけるARIについては、 RIETIディスカッションペーパー「AIおよびロボット技術の進展と日本の雇用・賃金」において示されている、厚生労働省のjob tag ベースの職業名を日本標準産業分類の職種名（大分類）に対応させ、」https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics/pdf/20251008_2.pdf
+  - ［一次］2026-11-04「（出所）RIETIディスカッションペーパー「AIおよびロボット技術の進展と日本の雇用・賃金」、厚生労働省「労働力調査」」https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics/pdf/20251008_2.pdf
+  - ［一次］2026-11-04「検証・試験設備を活用しながら、ロボットを導入してデータ収集、検証、標準化、人材育成を同時に進める社会実装のハブ」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+- 技術（新しい技術・実証）（80件）：
   - ［一次］2026-11-04「米連邦通信委、外国製ヒューマノイドロボットなどの新規流通を実質禁止」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
   - ［一次］2026-11-04「外国製のヒューマノイドや四足歩行ロボットなどの高度ロボット機器と、ネットワーク接続型パワーインバーターを追加したと発表」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
   - ［一次］2026-11-04「ただし、ロボットについては戦争省（国防総省）が、インバーターについては国土安全保障省が、国家安全保障上のリスクがないとして「条件付き承認（Conditional Approval）」を付与した場合は、FCCの認証を受けられる（注）」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
@@ -74,12 +74,12 @@
   - ［一次］2026-11-04「米連邦通信委、外国製ヒューマノイド ロボット などの新規流通 ... — 米連邦通信委、外国製ヒューマノイド ロボット などの新規流通 ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2026/08」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
   - ［一次］2026-11-04「ヒューマノイド ロボット — ヒューマノイド ロボット MITSUI & CO., LTD. PDF https://www.mitsui.com > afieldfile > 2025/02/07」https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2025/02/07/2501btf_tsuji_matsuura.pdf
   - ［一次］2026-11-04「動くヒューマノイド ロボット と人との距離を探る — 動くヒューマノイド ロボット と人との距離を探る 日本科学未来館 https://www.miraikan.jst.go.jp > events > 202608134687」https://www.miraikan.jst.go.jp/events/202608134687.html
-- SNS・note（note・本文）（66件）：
+- SNS・note（note・本文）（58件）：
   - ［SNS］2026-11-05「話題のヒューマノイドロボット紹介：欧米編、21選｜Yamariki-山本力弥(RobotMateHub)」https://note.com/yamarikiedge/n/nb88c6f434090
   - ［SNS］2026-11-05「話題のヒューマノイドロボット紹介：欧米編、21選」https://note.com/yamarikiedge/n/nb88c6f434090
   - ［SNS］2026-11-05「〜テスラからNeoまで、次世代“人型ロボット”総ざらい〜」https://note.com/yamarikiedge/n/nb88c6f434090
   - ［SNS］2026-11-05「人型ロボット（ヒューマノイド）が、いよいよ“動画で盛り上がるだけの存在”から」https://note.com/yamarikiedge/n/nb88c6f434090
-  - ［SNS］2026-11-05「この記事では、手元のデータベースからピックアップした」https://note.com/yamarikiedge/n/nb88c6f434090
+  - ［SNS］2026-11-05「をざっと紹介します。中国編は下記リンクより。」https://note.com/yamarikiedge/n/nb88c6f434090
 - SNS・note（Facebook・検索結果の抜粋）（8件）：
   - ［SNS］2026-11-05「【世界人型ロボット運動会 日本から唯一参戦「ひとみん」400mと1500m... Aug 27, 2026 · 大会、二日目の昨日は、 四百メートル走が行われました。 中には、常識を覆す走りを見せる ロボットも。 アメリカの調査会社によりますと、 今年、上半期で出荷された、人型ロボットの内、 九十七パーセントが、中国メーカー制だったと言い ます。」https://www.facebook.com/tvasahinews/videos/世界人型ロボット運動会-日本から唯一参戦ひとみん400mと1500mを完走-北京中国で5日間にわたって行われている人型ロボットの運動会で日本と中国の企業が世界最/1605544117889612/
   - ［SNS］2026-11-05「人型ロボット研究開発チーム - Facebook Feb 25, 2026 · 本時刻より自社HPを公開いたします。 0から自力で開発していますので、何か、不具合や改 善箇所があればご連絡いただけたら修繕にかかります 。 下記、URLよりHPを閲覧できます。 HR-RT.COM 人型ロボット研究開発チーム」https://www.facebook.com/profile.php/?id=61586129523341
@@ -88,49 +88,49 @@
   - ［SNS］2026-11-04「UBTECHが公開したフルサイズの新しい 人型ロボット 。日本円 ... UBTECHが公開したフルサイズの新しい 人型ロボット 。日本円 ... Facebook https://www.facebook.com > ... > Videos」https://www.facebook.com/BilingualNewsPodcast/videos/ubtech%E3%81%8C%E5%85%AC%E9%96%8B%E3%81%97%E3%81%9F%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%97%A5%E6%9C%AC%E5%86%86%E3%81%A72000%E4%B8%87%E5%86%86%E3%81%BB%E3%81%A9%E3%81%A7%E8%B2%A9%E5%A3%B2%E4%BA%88%E5%AE%9A%E5%84%AA%E9%9B%85%E3%81%AB%E3%83%AF%E3%83%AB%E3%83%84%E3%82%92%E3%81%99%E3%82%8B%E5%A5%B3%E6%80%A7%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%A9%E3%81%86%E6%80%9D%E3%81%86%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%81%AF2026%E5%B9%B4%E6%9C%80%E5%85%88%E7%AB%AF%E6%8A%80/1493981065376043/
 ### 海外→日本（輸入）｜エッジAIチップ（edge AI chip）
 - 取得：2026-11-05T00:53・調査2回目・読んだ頁63
-- 顧客（金を払う側）（105件）：
+- 顧客（金を払う側）（87件）：
   - ［記事］2026-11-05「2027年初頭のサンプル提供、2027年後半の量産開始を計画している」https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html
-  - ［記事］2026-11-05「既に川崎重工業の次世代AI対応航空宇宙／防衛製品など、RAIDENの採用を前提とした製品開発が始まっているという」https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html
   - ［記事］2026-11-05「RAIDENは、1個／2個／4個のコンピュートダイをパッケージ内に集積することでAI処理性能のスケーラビリティを実現するモジュール型チップレットアーキテクチャを採用している」https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html
-  - ［記事］2026-11-05「日本IBMが千歳事業所を開設、Rapidusなど半導体関連顧客を支援」https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html
-  - ［記事］2026-11-05「スタートアップと大企業の連携を阻む「ROIの壁」と「内製化のワナ」」https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html
-- 顧客の顧客（発注元が求めること）（47件）：
-  - ［一次］2026-11-04「基準・認証、ルール形成戦略」https://www.jetro.go.jp/biznews/2026/04/4786bb32e4abefff.html
-  - ［一次］2026-11-04「基準・認証、規制」https://www.jetro.go.jp/biznews/2026/04/4786bb32e4abefff.html
+  - ［記事］2026-11-05「本資料には、エッジAI推論チップの世界市場規模、市場動向、セグメント別予測（NPU中心のAIチップ、GPUベースのAIチップ、DSPベースのAIチップ、その他）、関連企業の情報などが盛り込まれています」https://newscast.jp/news/7287213
+  - ［記事］2026-11-05「中流には、ファブレスチップ設計者（例：AIアクセラレータスタートアップや大手半導体企業）、IPライセンサー（CPU/GPU/NPUコア）、および先進プロセスノードを用いてチップを製造する半導体ファウンドリが含まれ、その後にパッケージングとテストを担当するOSAT企業が位置します」https://newscast.jp/news/7287213
+  - ［記事］2026-11-05「OSAT企業は、電力や熱の制約を満たすために、異種統合やチプレット（chiplet）アプローチを採用することがよくあります」https://newscast.jp/news/7287213
+- 顧客の顧客（発注元が求めること）（31件）：
   - ［記事］2026-11-05「日本の自動車メーカーや半導体サプライヤーは、専用推論プロセッサーや車載コンピューティングプラットフォームを開発する企業にビジネス機会をもたらしています」https://japan.zdnet.com/release/31220113/
   - ［記事］2026-11-05「自動車電子機器サプライヤーは、運転支援、車室内インテリジェンス、センサー処理、車両自動化向けの専用AIプロセッサーを開発できます」https://japan.zdnet.com/release/31220113/
-  - ［記事］2026-11-05「このセグメントへの参入には、自動車向け認証、長期にわたる製品ライフサイクル、機能安全、熱的信頼性などの要件が重要です」https://japan.zdnet.com/release/31220113/
-- 顧客の競合（奪いに来る側）（86件）：
-  - ［一次］2026-11-04「EdgeCortix 社の技術は、米国国防イノベーションユニット（DIU）および米空軍とのプロジェクトにおいて、AI」https://www.hakuto.co.jp/news/260820.pdf
-  - ［一次］2026-11-04「日本を本社とし、米国およびインドにも拠点を展開しています」https://www.hakuto.co.jp/news/260820.pdf
+  - ［記事］2026-11-05「サプライヤーは、データやコンピューティングインフラに対する管理を強化する必要がある組織向けに、プライベートAI導入を支援しながら処理効率を高めることで差別化を図ることができます」https://japan.zdnet.com/release/31220113/
+  - ［記事］2026-11-05「日本の半導体開発に向けた取り組みは、チップ設計企業、ファウンドリー、装置メーカー、材料サプライヤー、システムインテグレーター間の協業機会を生み出しています」https://japan.zdnet.com/release/31220113/
+  - ［記事］2026-11-05「信頼性が高く、用途に最適化された推論プラットフォームを提供するサプライヤーは、日本で拡大するAI導入エコシステムから恩恵を受けるうえで、有利な立場に立つ可能性があります」https://japan.zdnet.com/release/31220113/
+- 顧客の競合（奪いに来る側）（69件）：
   - ［記事］2026-11-05「EdgeCortix、伯東および緑屋電気との戦略的パートナーシップにより、日本およびインド太平洋地域の主要市場でのエッジAI事業を拡大」https://www.edgecortix.com/ja/press-releases
   - ［記事］2026-11-05「EdgeCortix、米空軍との実証を通じてエッジAIプラットフォームの実運用準備性を実証 ― 米国国防イノベーションユニット（DIU）より「Success Memorandum（実証成功確認書）」を受領」https://www.edgecortix.com/ja/press-releases
-  - ［記事］2026-11-05「EdgeCortix、北米・欧州・MENA地域での戦略的パートナーシップを通じてグローバル展開を拡大」https://www.edgecortix.com/ja/press-releases
-- 自社の競合（商社・代理店・仲介）（21件）：
-  - ［一次］2026-11-04「伯東、EdgeCortix 株式会社と販売代理店契約を締結」https://www.hakuto.co.jp/news/260820.pdf
-  - ［一次］2026-11-04「「EdgeCortix 社」）と販売代理店契約を締結しました」https://www.hakuto.co.jp/news/260820.pdf
+  - ［記事］2026-11-05「EdgeCortix社、シリコンエンジニアリング担当副社長兼インド設計センター長にSudhakar Kaleを任命し、リーダーシップチームを拡大」https://www.edgecortix.com/ja/press-releases
+  - ［記事］2026-11-05「- 価格競争圧力： GPU、ASIC、統合型SoCとの競争は、プロセッサーの価格設定や利益率に影響を及ぼす可能性があります」https://japan.zdnet.com/release/31220113/
+  - ［記事］2026-11-05「米国、中国、欧州市場についても、2025年から2032年までの市場規模とCAGRが本レポートで推定されています」https://newscast.jp/smart/news/8082788
+- 自社の競合（商社・代理店・仲介）（10件）：
   - ［一次］2026-11-04「伯東は1953年の創業以来、最新の情報や最先端の技術をいち早くお客様へお届けする技術商社として、生産の効率化を図」https://www.hakuto.co.jp/news/260820.pdf
-  - ［一次］2026-11-04「また、エレクトロニクス×ケミカル領域、商社×メーカーのハイブリッド企業としてのシナジー」https://www.hakuto.co.jp/news/260820.pdf
-  - ［記事］2026-11-05「＜アジア最大の市場調査レポート販売代理店＞」https://japan.cnet.com/release/31069454/
-- 政治（法・予算・規制）（78件）：
+  - ［記事］2026-11-05「データセンターでなく末端の機器で動作する人工知能、エッジAI向け半導体を手がけるEdgeCortix（エッジコーティックス、川崎市中原区）が、エレクトロニクス商社の伯東、緑屋電気と新たな戦略的提携契約を結んだ」https://dempa-digital.com/article/723488
+  - ［記事］2026-11-05「This content was commissioned by Nikkei's Global Business Bureau.」https://asia.nikkei.com/business/tech/semiconductors/japan-s-edgecortix-looks-to-work-with-spacex-on-space-data-center-chips
+  - ［記事］2026-11-04「2)エヌビディアは、25%の手数料を含む一定の条件付きで、H200 AIチップを中国に販売することを米国から承認された」https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html
+  - ［記事］2026-11-04「ただし、部品が米国に到着し、再輸出前のセキュリティ検査を受ける際に25%の手数料が徴収される」https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html
+- 政治（法・予算・規制）（59件）：
   - ［一次］2026-11-05「事業期間：2016年度～2027年度、予算額：48億円（2024年度）」https://www.nedo.go.jp/activities/ZZJP_100123.html
-  - ［一次］2026-11-04「②サプライチェーンにおけるチョークポイントとして経済安全保障上重要な物資や技術であること」https://www.meti.go.jp/policy/mono_info_service/ai_semiconductor_frame/ai_semiconductor_frame.html
   - ［一次］2026-11-04「２．予算事業一覧」https://www.meti.go.jp/policy/mono_info_service/ai_semiconductor_frame/ai_semiconductor_frame.html
-  - ［一次］2026-11-04「ＡＩ・半導体産業基盤強化フレームを活用したこれまでの予算については、下記を御参照ください」https://www.meti.go.jp/policy/mono_info_service/ai_semiconductor_frame/ai_semiconductor_frame.html
   - ［一次］2026-11-04「令和8年度当初予算」https://www.meti.go.jp/policy/mono_info_service/ai_semiconductor_frame/ai_semiconductor_frame.html
+  - ［一次］2026-11-04「令和８年度当初予算（PR資料）」https://www.meti.go.jp/policy/mono_info_service/ai_semiconductor_frame/ai_semiconductor_frame.html
+  - ［一次］2026-11-04「令和7年度補正予算」https://www.meti.go.jp/policy/mono_info_service/ai_semiconductor_frame/ai_semiconductor_frame.html
 - 経済（規模・価格・為替）（82件）：
   - ［記事］2026-11-05「EdgeCortix、みずほ銀行との間で15億円の当座貸越枠を締結 ― 事業成長加速に向けた財務基盤を強化 ―」https://www.edgecortix.com/ja/press-releases
   - ［記事］2026-11-05「EdgeCortix、シリーズB資金調達の初回クローズを完了、総調達額は約150億円に到達」https://www.edgecortix.com/ja/press-releases
   - ［記事］2026-11-05「エッジ推論・学習向けの先進的省エネAIチップレット開発で、EdgeCortixがNEDOより新たに30億円のプロジェクトに採択」https://www.edgecortix.com/ja/press-releases
   - ［記事］2026-11-05「EdgeCortix、NEDOから40億円の補助金を受け、ポスト5G通信システム向けにエネルギー効率の高いAIチップレットを開発」https://www.edgecortix.com/ja/press-releases
   - ［記事］2026-11-05「エッジコーティックス、追加で約30億円を調達」https://www.edgecortix.com/ja/press-releases
-- 社会（人・担い手）（13件）：
-  - ［記事］2026-11-05「【独占】生成AI勃興でリストラ敢行 巨額調達ダイニーが人材削減に踏み切った理由」https://japan.cnet.com/release/31069454/
+- 社会（人・担い手）（10件）：
   - ［記事］2026-11-05「【半導体人材の未来】〈53〉「ミスター半導体」が描いた門前町 岩手県立大から広がる産学官連携」https://dempa-digital.com/article/723488
   - ［記事］2026-11-05「【半導体人材の未来】〈52〉「人生ゲーム」の隣に企業ブース 半導体産業を知る仕掛け」https://dempa-digital.com/article/723488
-  - ［記事］2026-11-04「習近平国家主席はこれに前向きな反応を示し、この政策は米国の雇用と製造業の活性化を目的としている」https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html
   - ［記事］2026-11-04「テック業界出身の幹部が規制緩和を後押しする一方、「MAGA（米国を再び偉大に）」と呼ばれるトランプ氏支持層は雇用への影響からAIに警戒感を示し、分裂を招きつつある」https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html
-- 技術（新しい技術・実証）（112件）：
+  - ［記事］2026-11-04「→サムスンは、テスラのAI5チップの複雑なファウンドリー問題の解決と歩留まりの安定化を目指し、ベテランエンジニアを雇用し、米国での生産体制を加速させている」https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html
+  - ［記事］2026-11-04「この取り組みは、AI需要の急増と地政学的圧力をターゲットとしているが、人材不足とTSMCのサプライチェーンにおける優位性という課題に直面している」https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html
+- 技術（新しい技術・実証）（102件）：
   - ［記事］2026-11-05「日本発スタートアップのエッジAIチップがNVIDIA超え、AI処理性能は3.36PFLOPS：人工知能ニュース - MONOist」https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html
   - ［記事］2026-11-05「3Dプリンタ」https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html
   - ［記事］2026-11-05「日本発スタートアップのエッジAIチップがNVIDIA超え、AI処理性能は3.36PFLOPS」https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html
@@ -154,49 +154,49 @@
   - ［SNS］2026-11-04「Akida™ Edge AI Box で、BrainChipのAKD1000 AI チップ を ... Akida™ Edge AI Box で、BrainChipのAKD1000 AI チップ を ... Facebook https://www.facebook.com > VVDNJapan > posts > akida-...」https://www.facebook.com/VVDNJapan/posts/akida-edge-ai-box-%E3%81%A7brainchip%E3%81%AEakd1000-ai%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%A7%E9%AB%98%E6%80%A7%E8%83%BD%E3%81%AA%E3%82%A8%E3%83%83%E3%82%B8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%92%E4%BD%93%E9%A8%93%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF/593091243245014/
 ### 海外→日本（輸入）｜生成AI半導体（AI accelerator chip）
 - 取得：2026-11-05T00:57・調査2回目・読んだ頁58
-- 顧客（金を払う側）（111件）：
+- 顧客（金を払う側）（68件）：
   - ［一次］2026-11-05「AIモデルの学習や推論に不可欠な画像処理装置（GPU）や、高速データ処理を可能にする高帯域幅メモリー（HBM）の需要が急増し、これらを供給する企業が世界の半導体市場を牽引している」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「GPUの設計を手掛ける米国エヌビディアの急成長に加え、GPU・HBMの製造を手掛ける企業による大規模投資が相次ぎ、「AI時代の主役はGPUとHBM」とも見て取れる」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「先端パッケージングにはさまざまな種類があるが、CoWoSはAI向け半導体で広く採用されている代表例といえる」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「現在、HBMの量産で十分な供給能力を有するのは、韓国のSKハイニックスおよびサムスン電子（以下、サムスン）、米国のマイクロン・テクノロジー（以下、マイクロン）の3社だ」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「このように、GPUは限られた企業しか設計・製造できないことから、その供給はTSMCを中心とする先端ロジック・パッケージング能力と、HBM大手3社の供給能力に大きく左右される」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
-- 顧客の顧客（発注元が求めること）（56件）：
-  - ［一次］2026-11-05「基準・認証、ルール形成戦略」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
-  - ［一次］2026-11-05「基準・認証、規制」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
+- 顧客の顧客（発注元が求めること）（27件）：
   - ［一次］2026-11-05「世界の脱炭素化動向（1）世界のEV市場に変容の兆し」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「世界の脱炭素化動向（2）中東情勢下で見直されるエネルギー供給源」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
-  - ［一次］2026-11-05「基準・認証、ルール形成戦略」https://www.jetro.go.jp/biz/areareports/special/2026/0801/adf38a7c21c7f8ea.html
-- 顧客の競合（奪いに来る側）（108件）：
+  - ［一次］2026-11-05「学習や大規模な推論処理の多くは引き続きデータセンターで実行される一方、エッジAIでは学習済みモデルを端末側で実行し、利用者の要求や周囲の状況に応じてリアルタイムに回答や判断を行う必要がある」https://www.jetro.go.jp/biz/areareports/special/2026/0801/adf38a7c21c7f8ea.html
+  - ［一次］2026-11-05「世界の脱炭素化動向（1）世界のEV市場に変容の兆し」https://www.jetro.go.jp/biz/areareports/special/2026/0801/adf38a7c21c7f8ea.html
+  - ［一次］2026-11-05「世界の脱炭素化動向（2）中東情勢下で見直されるエネルギー供給源」https://www.jetro.go.jp/biz/areareports/special/2026/0801/adf38a7c21c7f8ea.html
+- 顧客の競合（奪いに来る側）（85件）：
   - ［一次］2026-11-05「GPUの設計を手掛ける米国エヌビディアの急成長に加え、GPU・HBMの製造を手掛ける企業による大規模投資が相次ぎ、「AI時代の主役はGPUとHBM」とも見て取れる」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「国際データセンター機関（IDCA）によると、データセンター向けAIアクセラレーターの台数シェアは、エヌビディアが90％を占め、続く米AMD（6％）を大きく引き離している」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「現在、HBMの量産で十分な供給能力を有するのは、韓国のSKハイニックスおよびサムスン電子（以下、サムスン）、米国のマイクロン・テクノロジー（以下、マイクロン）の3社だ」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「2026年第1四半期の売上高シェアは、SKハイニックスが58％、サムスンとマイクロンがそれぞれ21％だった」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「TSMCは台湾を最先端のロジック量産およびパッケージング拠点として維持・拡大しつつ、米国アリゾナ州にもその機能を振り向けつつある」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
-- 自社の競合（商社・代理店・仲介）（43件）：
-  - ［一次］2026-11-05「「Agentic AI 」への対応が求められている」https://www.seaj.or.jp/file/july2026seajforecastforpress_j.pdf
-  - ［一次］2026-11-05「Agentic AI では、複数の処理やモデルを連携・統括しな」https://www.seaj.or.jp/file/july2026seajforecastforpress_j.pdf
-  - ［一次］2026-11-05「ロードや Agentic AI の長期記憶の用途で SSD の需要拡大も期待される」https://www.seaj.or.jp/file/july2026seajforecastforpress_j.pdf
-  - ［一次］2026-11-04「加えて、Agentic AIやグラフニューラルネットワークを最適に演算」https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf
-  - ［一次］2026-11-04「伯東、EdgeCortix 株式会社と販売代理店契約を締結」https://www.hakuto.co.jp/news/260820.pdf
-- 政治（法・予算・規制）（106件）：
-  - ［一次］2026-11-05「基準・認証、規制」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
-  - ［一次］2026-11-05「出所：韓国政府発表資料、マイクロンのプレス発表、ジェトロビジネス短信、各種報道からジェトロ作成」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
+- 自社の競合（商社・代理店・仲介）（25件）：
+  - ［一次］2026-11-04「伯東は1953年の創業以来、最新の情報や最先端の技術をいち早くお客様へお届けする技術商社として、生産の効率化を図」https://www.hakuto.co.jp/news/260820.pdf
+  - ［一次］2026-11-04「 エージェント型AI(Agentic AI)の社会実装やAIを軸とした経営改革（AX）の進展により、想定以上の付加価値の創出が期待されて」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［記事］2026-11-05「This is a paid press release. Contact the press release distributor directly with any inquiries.」https://finance.yahoo.com/technology/ai/articles/global-ai-accelerator-market-2026-162600718.html
+  - ［記事］2026-11-05「When you purchase through links on our site, we may earn an affiliate commission.」https://www.tomshardware.com/tech-industry/fujitsu-plans-dedicated-1-4nm-ai-chip-manufactured-entirely-in-japan-by-rapidus
+  - ［記事］2026-11-04「外資系IT企業でAIセラーへ！SaaS営業として市場価値アップ！アカウントエグゼクティブ（Agentforce）を募集中！」https://www.movin.co.jp/it/ai/semiconductor.html
+- 政治（法・予算・規制）（65件）：
   - ［一次］2026-11-05「中国のレアアース輸出管理（1）日本への磁石輸出に大きな影響」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「米国の鉄鋼・アルミ・銅の232条関税の制度変更と企業の実務対応」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
-  - ［一次］2026-11-05「基準・認証、規制」https://www.jetro.go.jp/biz/areareports/special/2026/0801/adf38a7c21c7f8ea.html
+  - ［一次］2026-11-05「中国のレアアース輸出管理（1）日本への磁石輸出に大きな影響」https://www.jetro.go.jp/biz/areareports/special/2026/0801/adf38a7c21c7f8ea.html
+  - ［一次］2026-11-05「米国の鉄鋼・アルミ・銅の232条関税の制度変更と企業の実務対応」https://www.jetro.go.jp/biz/areareports/special/2026/0801/adf38a7c21c7f8ea.html
+  - ［一次］2026-11-04「 これに対し、中国AI企業は即座にH200を発注したが、中国政府は、安全保障上の懸念、米国依存への」https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2026/03/24/2603_tsujiisobeli.pdf
 - 経済（規模・価格・為替）（105件）：
   - ［一次］2026-11-05「2026年第1四半期の売上高シェアは、SKハイニックスが58％、サムスンとマイクロンがそれぞれ21％だった」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「総投資額は800兆ウォン（5,000億ドル超）に達する見込み」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「2025～2027年の設備投資額について製品タイプ別に見ると、世界全体では77.8％がロジック半導体とメモリー向けとなる予測だ（図2参照）」https://www.jetro.go.jp/biz/areareports/special/2026/0801/adf38a7c21c7f8ea.html
   - ［一次］2026-11-05「図2：主要国・地域の2025～2027年の前工程設備投資額シェア（製品タイプ別）」https://www.jetro.go.jp/biz/areareports/special/2026/0801/adf38a7c21c7f8ea.html
   - ［一次］2026-11-05「計専門委員会による需要予測と SEAJ 理事・監事会社 20 社による市場規模動向調査結果を総合的」https://www.seaj.or.jp/file/july2026seajforecastforpress_j.pdf
-- 社会（人・担い手）（57件）：
+- 社会（人・担い手）（28件）：
   - ［一次］2026-11-05「韓国南西部に4つのメモリーファブ（サムスンが2つ、SKハイニックスが2つ）を建設し、協力企業や人材を含むエコシステムを形成する」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
-  - ［一次］2026-11-05「高度外国人材を輩出する大学、その最前線に迫る」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
-  - ［一次］2026-11-05「高度外国人材を輩出する大学、その最前線に迫る」https://www.jetro.go.jp/biz/areareports/special/2026/0801/adf38a7c21c7f8ea.html
-  - ［一次］2026-11-05「設計開発支援を強化するとともに設計人材を育成」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-05「・人手不足に直面する我が国の供給力を維持し、力強い成長」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-- 技術（新しい技術・実証）（112件）：
+  - ［一次］2026-11-04「・デジタルスキル標準の改訂、ＤＸ人材育成のためのプラットフォームの運営等（経：約８億円）」https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf
+  - ［一次］2026-11-04「ン（約7900億円）は人材育成、インフラ構築に充てられる」https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf
+  - ［一次］2026-11-04「となる環境を構築することで、世界から優秀な人材が集まるAIロボティクスのCenter of Excellenceやテストベットを創設」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［一次］2026-11-04「半導体分野におけるキャリアパスやロールモデルの提示により、女性も含めた半導体人材の活躍促進を図」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+- 技術（新しい技術・実証）（79件）：
   - ［一次］2026-11-05「AI時代の半導体産業（1）AI向け半導体の「主役」に迫る（世界） | 高リスクが常態化する時代に、踏みとどまる自由貿易体制 - 特集 - 地域・分析レポート - 海外ビジネス情報 - ジェトロ」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「AI時代の半導体産業（1）AI向け半導体の「主役」に迫る（世界）」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「AI時代の半導体産業（1）」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
@@ -212,54 +212,54 @@
   - ［SNS］2026-11-04「AI Accelerator Chip Market Outlook from 2026 to 2033 - LinkedIn — AI Accelerator Chip Market Outlook from 2026 to 2033 - LinkedIn LinkedIn https://www.linkedin.com > pulse > ai...」https://www.linkedin.com/pulse/ai-accelerator-chip-market-outlook-from-2026-2033-fznzf
 ### 海外→日本（輸入）｜バーティカルAI（vertical AI）
 - 取得：2026-11-05T04:49・調査2回目・読んだ頁75
-- 顧客（金を払う側）（60件）：
-  - ［一次］2026-11-05「・各産業ドメインにおけるAIロボット導入投資」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-05「・ハードとソフトの統合力に加えて、導入後の運用力が競争力を左」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+- 顧客（金を払う側）（30件）：
   - ［一次］2026-11-05「右するフィジカルAIは、工場等の現場データやノウハウ、高い品」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「①植物工場 ・・・p.279」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「（注１）官民投資額については、当該分野に見識のある学者、シンクタンク、企業関係者などにより構成される戦略17分野の各WGでの議論を踏まえ、「主要な製品・技」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-- 顧客の顧客（発注元が求めること）（66件）：
+  - ［一次］2026-11-04「品・技術等」毎に、研究開発、実証、本格商品化、量産化といった発展ステージが、今後どの程度の時間軸で上がっていくかのシナリオによって、その関与度合」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［一次］2026-11-04「産業）に波及する効果（一次波及効果）、（２）波及先の生産増が、家計所得・消費や企業投資を増加させることを通じ、更なる生産増に波及する効果（二次波」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+- 顧客の顧客（発注元が求めること）（27件）：
   - ［一次］2026-11-05「＊1 一定のセキュリティ基準に適合するIoT製品を認証する制度」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-05「＊1 一定のセキュリティ基準に適合するIoT製品を認証する制度」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf
-  - ［一次］2026-11-05「に、防衛調達など官公庁による調達や規制改革など新たな需要の創出や拡大策を取り入れてください」https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf
-  - ［一次］2026-11-05「✓ 官公庁の調達・規制改革による需要創造（国内）、国際標準化戦略・海外市場開拓（海外）など、国内外連動した戦略的な」https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf
   - ［一次］2026-11-05「• プライバシー、セーフティ、セキュリティの確保や、多用途ロボットと人との協働の観点から求められる技術要件等の基準整備と認証制度を検討」https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf
-- 顧客の競合（奪いに来る側）（63件）：
+  - ［一次］2026-11-04「 国・地方のAX/DX基盤（GSS、ネットワーク、クラウドやAIの基盤、データ連携基盤・認証基盤、外国人政策のDX基盤等）は行政運営や」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［一次］2026-11-04「 国・地方のAX/DX基盤（GSS、ネットワーク、クラウドやAIの基盤、データ連携基盤・認証基盤、外国人政策のDX基盤等）は行政運営や」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf
+- 顧客の競合（奪いに来る側）（42件）：
   - ［一次］2026-11-05「‐ 世界の自動車販売台数の約25％のシェア、」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-05「車両販売台数の約25％のシェアを獲得」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「並ぶ第三極として世界シェア3割超の獲得を通じて、2040年に」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「シェア約7割を有し、モーター、減速機等の主要コンポーネントでも高い競争力を持」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「一方、サービスロボット市場（約2.8兆円）での世界シェアは１割強にとどまる」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-- 自社の競合（商社・代理店・仲介）（69件）：
-  - ［一次］2026-11-04「・近年、エージェント型AI(Agentic AI)の発展もあり、産業や行政でのAI利活用の」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+- 自社の競合（商社・代理店・仲介）（45件）：
   - ［一次］2026-11-04「 エージェント型AI(Agentic AI)の社会実装やAIを軸とした経営改革（AX）の進展により、想定以上の付加価値の創出が期待されて」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-04「・近年、自律行動型AI(Agentic AI)の発展もあり、産業や行政でのAI利活用の機運」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf
   - ［一次］2026-11-04「 自律行動型AI(Agentic AI)の社会実装やＡＩを軸とした経営改革（AX)の進展により、想定以上の付加価値の創出が期待されている」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf
-  - ［一次］2026-11-04「加えて、Agentic AIやグラフニューラルネットワークを最適に演算可能なプロセッサの技術開発を実」https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0015/handeji15-4.pdf
-- 政治（法・予算・規制）（60件）：
-  - ［一次］2026-11-05「・戦略的重要性：製造業等の国内データホルダーにとって、産業競争力や経済安全保障に係」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-05「て、産業競争力や経済安全保障」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［記事］2026-11-05「従来から売買手数料の安さがウリだったが、2025年9月からネット取引の場合、」https://diamond.jp/zai/articles/-/1070254
+  - ［記事］2026-11-05「◆【GMOクリック証券の特徴とメリットを徹底解説！】日本株の売買手数料が無料のうえ、米国株から金まで世界中の商品を売買できるCFDや高機能アプリが魅力」https://diamond.jp/zai/articles/-/1070254
+  - ［記事］2026-11-05「◆GMOクリック証券が“業界最安値水準”の売買手数料を維持できる2つの理由とは？ 機能充実の新アプリのリリースで、スマホでもPCに負けない投資環境を実現！」https://diamond.jp/zai/articles/-/1070254
+- 政治（法・予算・規制）（31件）：
   - ［一次］2026-11-04「②セキュリティの確保された政府・地方公共団体のAX/DX基盤 ・・・p.24」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-04「その上で官民投資ロードマップ案を前提として、原則、政府担当部局が主要企業や団」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「当該官民投資額は、官民投資ロードマップ策定後も、１）予算編成の過程を通じて、新たな発想や視点に基づく真に効果」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［一次］2026-11-04「また、フィジカルAIのサプライチェーンを国内で確保することは経済安全保障上の」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［一次］2026-11-04「・エージェント型AIを含めた、政府によるバーティカルAIの率先導入、所要の制度改革」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［記事］2026-11-05「①国内投資支援としてAI基盤の整備・充実、重点領域の研究開発・実証、公的機関の保有情報の提供等による領域データの創出、②需要創出として中小企業も含めた導入支援と地域AXの推進、規制緩和や官需主導の初期需要創出、制度・規制の見直し、AISIの機能強化などAIリスクへの包括的対応、③立地競争力強化としてAI実装人材の育成と中小企業への伴走支援、研究開発人材の確保、責任あるアジャイルガバナンス、AIインフラの整備・強化、④国際連携として同志国」https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html
 - 経済（規模・価格・為替）（63件）：
   - ［一次］2026-11-04「（２）官民投資の具体像 ①投資内容、②投資額（注１）、③定量的インパクト：投資による経済波及効果（注２）」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「（注１）官民投資額については、当該分野に見識のある学者、シンクタンク、企業関係者などにより構成される戦略17分野の各WGでの議論を踏まえ、「主要な製品・技」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「当該官民投資額は、官民投資ロードマップ策定後も、１）予算編成の過程を通じて、新たな発想や視点に基づく真に効果」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「（注２）経済波及効果については、各「主要な製品・技術等」の官民投資額及び当該官民投資による生産増加額をインプットとして、産業連関分析を実施して算出」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「的には、産業連関表を用いて、（１）当該製品・技術等に係る最終需要額（投資額・生産額）の増加が、生産工程の川上産業（部品、部素材、原料といった関連」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-- 社会（人・担い手）（60件）：
-  - ［一次］2026-11-05「設計開発支援を強化するとともに設計人材を育成」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-05「・人手不足に直面する我が国の供給力を維持し、力強い成長」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-05「ワーク、人材等への誘発効果、更にユーザー産業において、省人化のみならず、」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+- 社会（人・担い手）（21件）：
   - ［一次］2026-11-05「ティカルAI導入、データや人材を含めたAI基盤投資」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［一次］2026-11-05「※先端人材、モデルやエージェント、オープンウェイトモデ」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-- 技術（新しい技術・実証）（60件）：
-  - ［一次］2026-11-05「・「AIロボティクス戦略」を踏まえ、特にAIロボットにおいては、」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［一次］2026-11-04「・戦略的重要性：フィジカルAI導入による省力化を通じ構造的人手不足の解決に貢献」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［一次］2026-11-04「となる環境を構築することで、世界から優秀な人材が集まるAIロボティクスのCenter of Excellenceやテストベットを創設」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［記事］2026-11-05「専門業務が多い、独自データがある、業務ルールが複雑、人手不足がある、汎用AIでは足りない——この5つに複数当てはまる企業ほど、バーティカルAIの効果が出やすくなります」https://www.waltsu.co.jp/magazine/ai/vertical-ai/
+  - ［記事］2026-11-05「専門業務が多い、独自データがある、業務ルールが複雑、人手不足がある、汎用AIでは精度が足りない——といった条件に複数当てはまる企業です」https://www.waltsu.co.jp/magazine/ai/vertical-ai/
+- 技術（新しい技術・実証）（48件）：
   - ［一次］2026-11-05「・ また、AIロボットに限らず、フィジカルAIは現実世界で作用す」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「①フィジカルAI（特にAIロボット） ・・・p.4」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「③バーティカルAI（領域特化型AI） ・・・p.14」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「③AI時代に対応した先進的サイバーセキュリティ製品・サービス ・・・p.29」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［一次］2026-11-04「①民間航空機（次期単通路機・次世代航空機） ・・・p.94」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
 - 検索結果の抜粋（11件）：
   - ［一次］2026-11-04「バーティカルAI 領域別戦略 中間とりまとめ — バーティカルAI 領域別戦略 中間とりまとめ 内閣府ホームページ PDF https://www8.cao.go.jp > ai > ai_hq > shiryo2_2」https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf
   - ［一次］2026-11-04「社会実装から見る バーティカル AI の可能性 - 大和総研 — 社会実装から見る バーティカル AI の可能性 - 大和総研 大和総研 PDF https://www.dir.co.jp > japan > 20260930_026094」https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf
@@ -288,9 +288,9 @@
   - ［SNS］2026-11-05「ザイ・オンライン on X: "｢#バーティカルAI｣関連銘柄を紹介！ ChatG... 「バーティカルAI」関連銘柄について、アナリストの村瀬智一さんが解説。 政府は「AI基本計画」において、「バーティカルAI」を中核に、AIで社会全体を駆動する「AX（AIトランスフォーメーション）」を強力に推進するとしています。」https://x.com/zaionline/status/2077963752826392911
   - ［SNS］2026-11-05「バーティカルAI領域別戦略 中間とりまとめ【詳細資料】 https://t.co/... ️7月10日【第5回人工知能戦略本部】を開催 AIの活用や「人工知能基本計画」の改定案、業界特化型AI「バーティカルAI」に関する戦略 主な決定事項と戦略のポイント ・バーティカルAIの重点支援 ・フィジカルAIと開発基盤 ・信頼性確保と法整備 💬 1 🔄 0 🤍 2」https://x.com/extreme877/status/2076305803213144171
   - ［SNS］2026-11-05「日経クロステック IT on X: "バーティカルAI（Vertical AI） https://... Sep 14, 2026 · Post 日経クロステック IT @nikkeibpITpro バーティカルAI（Vertical AI） バーティカルAI（Vertical AI） From xtech.nikkei.com 5:40 AM · Sep 14, 2026 2,766Views」https://x.com/nikkeibpITpro/status/2099478398892687518
-- SNS・note（note・本文）（24件）：
+- SNS・note（note・本文）（19件）：
   - ［SNS］2026-11-04「汎用AIだけじゃ足りない？国がバーティカルAIに動いた理由｜むぎ屋@生成AI×仕事」https://note.com/mugimugi92/n/n97bd457851d3
   - ［SNS］2026-11-04「汎用AIだけじゃ足りない？国がバーティカルAIに動いた理由」https://note.com/mugimugi92/n/n97bd457851d3
-  - ［SNS］2026-11-04「こんむぎわ〜♪むぎ屋に来てくれてありがとうございます(´∀｀)」https://note.com/mugimugi92/n/n97bd457851d3
   - ［SNS］2026-11-04「実は最近、ちょっとゾッとしたニュースを見つけたんです。。。」https://note.com/mugimugi92/n/n97bd457851d3
   - ［SNS］2026-11-04「「ChatGPTとかClaude、使いこなせてるから大丈夫！」って思ってた私なんですが、日経クロステックの記事を読んで「あれ、私、次のフェーズに乗り遅れてる...？」って焦りが出てきちゃいました。」https://note.com/mugimugi92/n/n97bd457851d3
+  - ［SNS］2026-11-04「その正体が「バーティカルAI（Vertical AI）」なんです。日本政府は、バーティカルAIについて2040年度までの官民投資額を23.1兆円と想定しており、その投資による経済波及効果を222兆円と試算しているそうで、桁がもう頭に入ってこないレベルなんです（笑）」https://note.com/mugimugi92/n/n97bd457851d3

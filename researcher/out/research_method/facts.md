@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・68品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・71品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -2669,11 +2669,11 @@
 
 ## 出どころを元までたどり、こだまを束ねる（source triangulation・検証の表）（source triangulation trace to origin echo verbatim numbers validation matrix）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ6頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ6頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ6頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ6頁・検索12回）
+- 実例：記載なし（読んだ6頁・検索12回）
 
 ## コンサルの調べ方（目的・予想の仮説・公益社団法人の調査報告）（consulting desk research hypothesis expected answer association reports）
 - 文脈：分析の型
@@ -4293,3 +4293,196 @@
   - 「Reconciliation example」（https://bizminer.com/revenue-per-employee-benchmarks/）
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+
+## 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）（statistical data revisions analysis real-time vintages revision size bias preliminary final）
+- 文脈：改訂
+- 手順・やり方：
+  - 「statistics on how to interpret the results of a revision analys es for economic variable s」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「this document for other sophisticated / specific user methods.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「aware of changes to compilation methods that may have occurred over time to the」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「3 The task-force has made recommendations on how to build a database of „real-time‟ data required for」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「the real-time dataset available to analyse. The reader is therefore referred to the guidelines on how to build」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「expect a non-zero mean revision, such as the impact of methodological or definitional changes which may」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「take place as new methods of calculating figures are」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「revision results from changes in the methodology used to compile」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「The first step in constructing a real-time database is deciding」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「is that revisions due to methodological changes are likely to」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+- 突き合わせ・推定：
+  - 「revision interval for say first published estimates of third quarter and fourth quarter data).」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Lt: later estimate for reference period t」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Pt: preliminary (earlier) estimate for reference period t」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「3.6 What is the average size of revision relative to the estimate itself?」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「3.7 Is the earlier published estimate a good or ‘efficient’ forecast of the later」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「interval (e.g. M3_P implies the revision between first published estimates (i.e. P) and」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「that on average earlier releases have been under -estimated (negative sign means over -」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「estimated). Revisions of opposite sign will have a tendency to cancel out, consequentially」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「exists in the earlier estimates. Four possible outcomes have been chosen to describe」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「variable that follows a normal distribution with variance estimate as above, the t -critic」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「estimate and the sign of earlier estimate are the same.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「acceleration / deceleration test. Tha t is, if the earlier estimate indicates that growth is」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「later estimate also signifies this.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「of the size of the earlier estimates. Aside from the above issue, it is useful as a measure」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+- 一次情報の探し方：
+  - 「http://www.oecd.org/dataoecd/44/36/40308976.pdf?contentId=40308977」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「http://www.oecd.org/dataoecd/20/26/34350524.pdf.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「2005, Paris http://www.oecd.org/dataoecd/55/17/35010765.pdf.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Paris. http://www.oecd.org/dataoecd/13/49/35440080.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「http://www.oecd.org/dataoecd/44/38/40309461.pdf?contentId=40309462」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「http://www.oecd.org/dataoecd/45/29/36561675.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「http://www.cirano.qc.ca/fin/Real-timeData/2007/McKenzie.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「http://www.oecd.org/dataoecd/47/15/40315408.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「ONS, UK. http://www.oecd.org/dataoecd/43/62/33779647.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+- 失敗・落とし穴：
+  - 「revisions are more in one direction than another, suggesting possible bias in the earlier」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「the average size of the revisions, but it cannot provide an indication of directional bias」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「be of limited use (also called “average bias”).」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「revision is statistically different from zero which may give an insight of whether a bias 7」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「considering whether there is bias in the revision process (i.e. there may be some degree of」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「statistically significant positive bias to revisions for GDP growth.」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「however, is whether this apparent bias is statistically significant」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+- 実例：
+  - 「example, a user may be interested in studying revision between first published data and」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「statistical agency publishing the data. For example, if reconciliation with annual data」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「3.5 In the case of growth rates, how often is the later published growth rate in the」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「data points of the time series. For example, 1994Q1 – 2007Q3 represents 55」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「% of positive revisions : it returns the number of cases revised upward as a proportion of」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「% of negative revisions: it returns the number of cases revised down ward as a proportion」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「% of zero revisions: it returns the number of cases with null revision as a proportion of」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「This is an extreme case of unreliability, although it may be that the change of a small」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「For example, the United States releases initial estimates of GDP」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「Following the example set by the Philadelphia Federal Reserve」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「be misleading in certain cases.」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「forecast differs from a standard forecast. In this case, the aim is」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+
+## 名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社）（entity matching key profiling missing rate composite key false merge）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「名寄せロジックとは？キー設計・アルゴリズムの種類・実装手順を解説 - GENIEE's library」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「名寄せロジックとは？キー設計・アルゴリズムの種類・実装手順を解説」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「名寄せの必要性は感じていても、「どの項目をキーにすればいいのか」「判定ルールをどう設計するのか」という具体的な手順が見えず、作業が止まっているケースは少なくありません」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「本記事では、名寄せロジックの基本構造から、企業・個人・ECデータ別のキー設計、アルゴリズムの選び方、Excelや専用ツールを使った実装手順、そして運用でよく起きる失敗とその回避策まで、実務に直結する内容を順に整理しています」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「条件を人手で定義するルールベース型、文字列の類似度をスコア化する類似度マッチング型、そして学習データからモデルを構築するAI・機械学習型です」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「マッチングキーの設計方法：何をキーにすれば同一判定できるか」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「ECサイト・商品データの場合：JANコード・型番・会員IDの活用」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「JANコードが存在しない場合は、型番や商品名＋メーカー名の複合キーで補完します」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「名寄せアルゴリズムの種類と選び方：ルールベース・類似度マッチング・AI型」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「ルールベース型は、「企業名が完全一致かつ電話番号の上7桁が一致する場合は同一とする」のように、判定条件を人手で明文化して実行する方式です」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「類似度マッチング型：スコアで同一性を判定する方式」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「類似度マッチング型は、文字列同士の「どれだけ似ているか」をスコアとして計算し、設定した閾値を超えた場合に同一と判定する方式です」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「ルールベース型では網羅しきれない表記ゆれに対応できるのが最大の利点です」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「代表的な計算手法として、レーベンシュタイン距離（一方の文字列をもう一方に変換するために必要な「挿入・削除・置換」の最小操作回数で類似度を表す手法）、Jaccard係数（2つの集合の和集合に占める共通要素（積集合）の割合）、N-gram（文字列をN文字の連続部分列として列挙し、その集合の一致度で類似度を計算する方法）などがあります」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「AI・機械学習型：学習データから判定モデルを構築する方式」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+- 突き合わせ・推定：
+  - 「「名寄せをする」という作業は一見シンプルに見えますが、実際には①何をキーにして照合するか、②どの条件で「同一」と見なすか、③その判定をどの計算方式で実行するか、という3つの設計が揃って初めて機能します」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「マッチングキーとは、異なるデータソース間で同一エンティティを特定するための照合項目です」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「一意キーが取得できている場合は、照合の精度が高く、設計もシンプルになります」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「どれだけ高度なアルゴリズムを使っても、照合の起点となるキーが適切でなければ、誤統合や未統合は避けられません」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「異なるシステム間で商品データを統合・横断分析する際に、JANコードが存在すれば照合の精度は大幅に高まります」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「ルールが増えるほど管理コストが上昇し、矛盾するルールが生まれるリスクも高まります」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「複合キーを使う場合はCONCATENATE関数（または&演算子）で複数項目を結合した照合キーを生成し、条件付き書式で重複箇所を色分けして可視化すると確認作業が効率化されます」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「一致ルールで照合するフィールドと一致条件（完全一致・部分一致など）を定義し、重複ルールでその結果に対してアラートを出すか自動ブロックするかを設定します」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+- 一次情報の探し方：
+  - 「法人番号は国税庁長官が法人等（設立登記法人・国の機関・地方公共団体など）に対して1つ指定する13桁の識別番号であり、企業名や所在地が変更されても番号自体は変わりません」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「最新日付優先は更新日時が新しいレコードの値を採用する方式で、最新情報を維持したい項目（電話番号・住所など）に適しています」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「需要予測モデルの種類と選び方｜統計・機械学習の使い分けを解説」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+- 失敗・落とし穴：
+  - 「本記事では、名寄せロジックの基本構造から、企業・個人・ECデータ別のキー設計、アルゴリズムの選び方、Excelや専用ツールを使った実装手順、そして運用でよく起きる失敗とその回避策まで、実務に直結する内容を順に整理しています」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「名寄せの実装経験がある担当者でも、同じ失敗パターンに繰り返し陥ることがあります」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「ここでは代表的な4つの失敗パターンを、発生原因・影響・回避策のセットで整理します」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「失敗1：クレンジング不足のままマッチングを実行し精度が出ない」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「失敗2：キー設定が甘く誤統合（false positive）が発生する」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「失敗3：個人情報の誤統合によるプライバシーリスク」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「失敗4：一度きりの名寄せで終わり新規データの重複が再発する」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「この記事では、名寄せロジックを構成するキー・判定ルール・アルゴリズムの3要素から始まり、データ種別ごとのキー設計、アルゴリズムの選び方、4ステップの実装手順、そして運用でよく起きる失敗パターンまでを整理しました」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「需要予測AIとは？仕組み・導入メリット・失敗しない5ステップを解説」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+- 実例：
+  - 「名寄せの必要性は感じていても、「どの項目をキーにすればいいのか」「判定ルールをどう設計するのか」という具体的な手順が見えず、作業が止まっているケースは少なくありません」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「判定ルールとは、キー同士の比較結果をどの条件で「同一」と見なすかを定義するものです」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「以下では、企業データ・個人データ・ECデータの3つのケース別に、推奨キーと複合キーの組み合わせ方を整理します」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「ただし、法人番号が登録されていない取引先や、古いデータには番号が存在しないケースもあります」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「担当者が異なるシステムや部門で同じ企業を別レコードとして登録してしまうケースは多く、法人番号による統合はその根本的な解決策になります」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「会員データの統合では、実店舗とECサイトで会員IDが別々に管理されているケースが多く見られます」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「棚卸しの結果として、「このシステムには法人番号が存在しないため複合キーを使う」「メールアドレスの欠損率が高いため電話番号を補助キーにする」といった判断が具体的にできるようになります」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「この段階を省略して実装に進むと、後工程で設計の見直しが必要になるケースが多いため、丁寧に進めることが重要です」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「一致ルールで照合するフィールドと一致条件（完全一致・部分一致など）を定義し、重複ルールでその結果に対してアラートを出すか自動ブロックするかを設定します」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「顧客データが複数のシステムに分散していて集約に手間がかかっているケースや、社内に分析専門家がおらずデータ活用の進め方に迷っているケースでは、導入支援チームによる要件定義と運用支援チームによる伴走サポートが整っている点も、選定時の判断材料になります」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「たとえば、同じビルに入居する別会社が「企業名の一部＋住所」の複合キーで同一と判定されたり、類似した名前の別人が氏名だけで統合されたりするケースが該当します」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「食品のAI需要予測で食品ロス削減と欠品防止を両立する方法｜導入事例と5つの実践ポイント」（https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/）
+  - 「Linking similar records always involves uncertainty. The real question is where errors are acceptable. Different use cases tolerate different risks, but many linkage implementations fail because this distinction is never made explicit.」（https://dataladder.com/record-linkage-techniques-for-incomplete-data/）
+  - 「it is often safer to preserve uncertainty and route ambiguous cases for review than to force a match that cannot be defended later.」（https://dataladder.com/record-linkage-techniques-for-incomplete-data/）
+  - 「Deterministic matching relies on predefined rules, such as exact matches on one or more fields. For example, ‘match records where email addresses are identical,’ or ‘where name and date of birth matches exactly.’ In practice, many deterministic implementations use hierarchical or rules-priority matching, where high-confidence rules are evaluated first before broader criteria are applied.」（https://dataladder.com/record-linkage-techniques-for-incomplete-data/）
+
+## 中央銀行・統計局のワーキングペーパーにある生産性の測り方の注意（非正規の広がり・合併の再配分・分母の選び方）（central bank working paper labor productivity measurement part-time mergers reallocation decomposition）
+- 文脈：推定
+- 手順・やり方：
+  - 「型コロナウイルス感染症拡大下における労働生産性の動向を 分析し、ウィズコ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「キーワード：生産性、無形資産、利用効率、再配分、 新型コロナウイルス感染症」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「新型コロナウイルス感染症の世界的な感染拡大を受けて、経済成長のさらなる」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「について、いくつかの方法で計測し、 事実確認を行う」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「年 10 月、 「谷」 が2020 年 5 月とされているが、 新型コロナウイルス感染症の拡大による影響が」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「次に、こうした感染症拡大前の議論を前提としたうえで、新型コロナウイルス」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「そして、 第4 節では、新型コロナウイルス感染症拡大下に」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「率を確認しても低成長が続いており、2012 年 10-12 月期から新型コロナウイル」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「の成長率は 1％台前半、2012 年 10-12 月期から新型コロナウイルス感染症拡大」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「生産要素として資本と労働を考慮したコブ・ダグラス型の生産関数を想定する」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「次に、企業間の資源再配分について、 Melitz and Polanec (2015) の方法」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「４．新型コロナウイルス感染症拡大下における経済成長・労働生産性」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「わが国の経済成長と労働生産性は、新型コロナウイルス感染症拡大下におい」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「力は、 飲食や宿泊といった対面型サービス業に集中する傾向を強めており、この」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「他方で、 上述の対面型サービス業の落ち」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+- 突き合わせ・推定：
+  - 「年の生産性低迷要因が、感染症拡大下でどのような動きとなっているか も検証」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「具体的には、 次式についてパネル推計を」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「推計にあたっては、 各国固有の要因をコントロールするために、 国別の固」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「推計期間は 1995～2017 年であ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「推計結果をみると、いずれの定式化においても、無形資産の弾性値の合計 （∑ 𝛼）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「また、 推計結果をみると、 わが国では国ダミーの推計値が大きめのマイナスと」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「本推計は、 無形」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「以上の推計結果や Brynjolfsson et al. (2017) の議論を踏まえると、グローバ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「技術進歩に関連しては、 計測上の問題により、見かけの生産性が過小推計にな」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「小西葉子 (2003)、 「生産関数の推定における人的資本の代理変数」 、 『経済科」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「表 1 推計結果：無形資産投資が労働生産性に与える影響」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「（注 2）TFPは、日本銀行スタッフによる推計値」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「（注 2）TFP（マクロベース）は、日本銀行スタッフによる推計値」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「（注 2）カーネル密度推定値」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「（注）折れ線は、カーネル密度推定値」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+- 一次情報の探し方：
+  - 「* 本稿の内容は、 東京大学金融教育研究センター・日本銀行調査統計局第9 回共催コンファレン」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「† 日本銀行調査統計局（tomoyuki.yagi@boj.or.jp）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「‡ 日本銀行調査統計局（kakuho.furukawa@boj.or.jp）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「§ 日本銀行調査統計局（jouchi.nakajima@boj.or.jp）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「2 2005 年以降、東京大学金融教育研究センターと日本銀行調査統計局は、計 9 回にわたって共」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「統計を用いて確認するべく、法人企業統計 （四半期別調査）で計算すると、2010」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「なお、 法人企業統計ベースの労働生」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「法人企業統計における臨時従業員数は、 臨時従業員の総労働時間」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「ェアや研究開発、労働者の持つ能力や技術等の人的資産、 特許や著作権などの知」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「は統計的に有意にプラスとなっており、無形資産投資は労働生産性の成長率を」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「コノミー）を担う企業の産出量を既存統計（GDP 等）で捕捉できていない可能」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「性や、IT 関連の財やサービスの価格低下を既存統計で正確に計測できていない」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「すなわち、求職者側のスキルと求人側が求めるスキルが十分に符合し」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「と考えられるが、欧米では、 公的に人的資本の蓄積を促す制度が多く存在してお」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「この間、感染症拡大防止に向けてデジタル技術の採用が拡がるなかで、 ソフト」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+- 失敗・落とし穴：
+  - 「ただし、残された誤りは筆者らに帰する」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「認識や起業能力に対する認識が低いほか、 失敗に対する恐れが高い （図 24）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「新興国等、産業構造の大きく異なる国や地域の比較を行う際には注意が必要で」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+- 実例：
+  - 「進んだ結果、過去に比べて高まっており、米国を上回る水準となっている（図 2）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「大きいため、2019 年 10-12 月期までのデータで計算した結果も参考として掲載している」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「「労働者数」 を用いるケース （労働者一人あたりの産出量） と、 労働者それぞれ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「マンアワー） 」を用いるケース（労働時間あたりの産出量）が存在する」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「3 長期停滞論に関する整理は、例えば、中野・加藤 (2017) を参照」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「みると年率換算で 1％台前半にとどまり、前述の国民経済計算を用いた結果と概」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「産とは、 その名のとおり、 物的な実態が存在しない資産であり、例えばソフトウ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「推計結果をみると、いずれの定式化においても、無形資産の弾性値の合計 （∑ 𝛼）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「また、 推計結果をみると、 わが国では国ダミーの推計値が大きめのマイナスと」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「11 例えば、Oh and Takahashi (2020) は、 無形資産の償却率として0.15 や 0.30 を用いている」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「以上の推計結果や Brynjolfsson et al. (2017) の議論を踏まえると、グローバ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「計算結果をみると、わが国の実質労働生産性の成長率は、多くの部分が内部効」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「分解結果について、まず、大企業を中心とした上」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「この点は、過去の先行研究（深尾 (2012) 等）の結果」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「は小さいとの結果が得られた15（図 17）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）

@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・70品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・72品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -4096,20 +4096,122 @@
 
 ## 電気めっき業（細分類2464）の加工賃収入額・従業者数 工業統計 確報 2014・2019・2020（国の表で・syntaxpartners の写しでなく・4-24・4-41）（electroplating JSIC 2464 processing fee revenue employees census of manufactures）
 - 文脈：めっき・統計
-- 事業所数・社数：記載なし（読んだ22頁・検索15回）
-- 社員数・平均社員数：記載なし（読んだ22頁・検索15回）
-- 受注金額・加工賃収入：記載なし（読んだ22頁・検索15回）
-- 1人あたり・1社あたり金額：記載なし（読んだ22頁・検索15回）
-- 生産能力・設備：記載なし（読んだ22頁・検索15回）
-- 10年推移：記載なし（読んだ22頁・検索15回）
-- 人手と仕事の差：記載なし（読んだ22頁・検索15回）
+- 事業所数・社数：
+  - 「工業統計調査 確報 平成29年確報 産業編 2-02 【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+- 社員数・平均社員数：
+  - 「工業統計調査 確報 平成29年確報 産業編 2-02 【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「従業者数合計（6－5－7＋8）［合計］（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「従業者数合計（6－5－7＋8）［男］（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「従業者数合計（6－5－7＋8）［女］（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「1 個人業主及び無給家族従業者［男］（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「1 個人業主及び無給家族従業者［女］（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「2 有給役員（無給役員を除く）［男］（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「2 有給役員（無給役員を除く）［女］（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「3 常用雇用者［正社員・正職員］【男】（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「3 常用雇用者［正社員・正職員］【女】（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「4 常用雇用者［パート・アルバイトなど］【男】（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「4 常用雇用者［パート・アルバイトなど］【女】（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「5 臨時雇用者［男］（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「5 臨時雇用者［女］（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+- 受注金額・加工賃収入：
+  - 「工業統計調査 確報 平成29年確報 産業編 2-02 【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+- 1人あたり・1社あたり金額：
+  - 「工業統計調査 確報 平成29年確報 産業編 2-02 【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+- 生産能力・設備：
+  - 「工業統計調査 確報 平成29年確報 産業編 2-02 【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+- 10年推移：
+  - 「2018-08-29 16:00」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「有形固定資産額［建設仮勘定］【増加額】（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「有形固定資産額［建設仮勘定］【減少額】（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「有形固定資産額［除却・売却による減少額］【土地】（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「有形固定資産額［除却・売却による減少額］【土地以外のもの】（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「【0000】製造業計(2015年)」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「【0000】製造業計(2016年)」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「【2020】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+  - 「【2021】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
+- 人手と仕事の差：
+  - 「原材料使用額等［製造等に関連する外注費］（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325912）
 
 ## 日本銀行 企業物価指数 金属製品 年平均 時系列（受託加工の金額を実質にする物価・4-37・名目と実質）（Bank of Japan corporate goods price index metal products annual average time series）
 - 文脈：物価・統計
-- 事業所数・社数：記載なし（読んだ25頁・検索15回）
-- 社員数・平均社員数：記載なし（読んだ25頁・検索15回）
-- 受注金額・加工賃収入：記載なし（読んだ25頁・検索15回）
-- 1人あたり・1社あたり金額：記載なし（読んだ25頁・検索15回）
-- 生産能力・設備：記載なし（読んだ25頁・検索15回）
-- 10年推移：記載なし（読んだ25頁・検索15回）
-- 人手と仕事の差：記載なし（読んだ25頁・検索15回）
+- 事業所数・社数：記載なし（読んだ24頁・検索15回）
+- 社員数・平均社員数：記載なし（読んだ24頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ24頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ24頁・検索15回）
+- 生産能力・設備：記載なし（読んだ24頁・検索15回）
+- 10年推移：記載なし（読んだ24頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ24頁・検索15回）
+
+## 中小企業実態基本調査 金属製品製造業 従業者規模別 売上高・従業者数を中小企業庁の確報の表で（henmi-adm.jp など士業ブログの写しでなく・4-24・4-42）（SME basic survey final report fabricated metal products by employee size table chusho meti）
+- 文脈：規模別・統計
+- 事業所数・社数：
+  - 「経済センサス‐活動調査の「売上(収入)金額」を基に、売上高の総和の目標精度(標準誤差率)を業種分類(産業大分類)・従業者規模区分ごとに(3)に示すとおり目標精度を設定して標本サイズを算出した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「従業者規模 : 法人企業(常用雇用者数5人以下、6～20人、21～49人、50人以上の4区分)、個人企業」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「目標精度は、公表する統計表の表章を考慮し、業種分類別・従業者規模区分別に概ね8%、産業中分類別に10％、産業中分類・従業者規模区分別に概ね15％と設定した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「なお、産業中分類・従業者規模区分の標本サイズが少なくとも30以上とした」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「上記「１．標本サイズ」の(2)により全体の標本サイズを算出し、次に調査票乙の目標精度を、業種分類別・従業者規模区分別に概ね10%、産業中分類別に15％、産業中分類・従業者規模区分別に概ね20％と設定し、標本サイズを算出した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「3.売上高及び営業費用 (1)産業別・従業者規模別表」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf）
+  - 「(1)産業別・従業者規模別表」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf）
+  - 「(5)産業別・従業者規模別表(大企業の子会社または関連会」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf）
+  - 「(6)産業別・従業者規模別表(大企業の子会社または関連会」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf）
+- 社員数・平均社員数：
+  - 「資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「通信業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「インターネット附随サービス業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「新聞業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「出版業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「上記以外:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「卸売業:資本金1億円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「小売業:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「駐車場業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「物品賃貸業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「上記以外:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「宿泊業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「上記以外:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「旅行業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+- 受注金額・加工賃収入：
+  - 「資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「通信業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「インターネット附随サービス業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「新聞業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「出版業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「上記以外:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「卸売業:資本金1億円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「小売業:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「駐車場業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「物品賃貸業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「上記以外:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「宿泊業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「上記以外:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「旅行業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+- 1人あたり・1社あたり金額：
+  - 「上記以外:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「小売業:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「駐車場業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「物品賃貸業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「宿泊業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「上記以外:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+- 生産能力・設備：
+  - 「中小企業基本法の規定に基づいて、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するための新たな調査として、平成16年9月に初めて実施」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「5.設備投資 (3)産業別・資本金階級別表(法人企業)」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/pdf/170124chousa_jishi.pdf）
+- 10年推移：
+  - 「（2025年7月30日）」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+- 人手と仕事の差：記載なし（読んだ23頁・検索15回）
+
+## 工業統計 従業者の内訳 常用労働者・臨時雇用者・パート 産業別×規模別（1人あたりの分母の雇用形態・4-31・4-42）（census of manufactures employees breakdown regular temporary part-time by size）
+- 文脈：全体・規模別
+- 事業所数・社数：記載なし（読んだ36頁・検索15回）
+- 社員数・平均社員数：記載なし（読んだ36頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ36頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ36頁・検索15回）
+- 生産能力・設備：記載なし（読んだ36頁・検索15回）
+- 10年推移：記載なし（読んだ36頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ36頁・検索15回）

@@ -8,52 +8,8 @@
  ],
  "context": "一次の探し方",
  "kind": "market",
- "researched_at": "2026-11-05T15:24:46.675601+00:00",
+ "researched_at": "2026-11-05T17:52:55.837030+00:00",
  "evidence": {
-  "実例": [
-   {
-    "quote": "実際にこの方法で買取大吉と株式会社エンパワーの2社の商業登記を取り寄せ、両社の関係を独立検証した事例として",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同じ手法で、アクセスジャーナルが報じた株式会社エンパワーをめぐる9つの個別主張を項目別に登記と照合した事例として",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第3章でも、実務で取り扱った企業案件の事例とあわせて詳しく解説している",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "したがって、「登記簿に株主が出ていない」のは隠蔽ではなく、制度上の分離の結果だ",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Read API endpoints, authentication and integration examples.",
-    "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Teikoku Databank (tdb.co.jp) or Tokyo Shoko Research (tsrdata.co.jp). Order a company report — ¥3,000–30,000 depending on depth. Contains estimated financials, employee count, credit score, and in many cases partial shareholder data collected through banking relationships. Japanese only.",
-    "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：登記上の地目や種類と、現実の利用実態が食い違っているケースは珍しくない",
-    "url": "https://shiraberu-note.com/corporate-realestate-registry-scope/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "公的記録で企業情報を確認する方法 — 商業登記・裁判記録・官報の読み方",
@@ -278,38 +234,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "失敗・落とし穴": [
-   {
-    "quote": "検索を使うときの最大の注意点は、収録範囲だ",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "注意点として、2025年3月15日にサービスの提供内容が変更されており、旧A・B・Cコース（日付検索のみ1,672円、日付＋記事検索2,200円など）は同年3月31日に終了している",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「公的記録に載っていない」という事実を、その主張が事実ではないことの証明として使うのは、論理的には誤りだ",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実務的に注意したい「読み取れない情報」の代表例を挙げる",
-    "url": "https://shiraberu-note.com/corporate-realestate-registry-scope/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "申請の内容自体に誤りがあれば、それが登記に反映されることもある",
-    "url": "https://shiraberu-note.com/corporate-realestate-registry-scope/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "公的記録で企業情報を確認する方法 — 商業登記・裁判記録・官報の読み方",
@@ -440,6 +364,82 @@
    {
     "quote": "Commits to strengthening beneficial ownership framework ahead of FATF fifth round evaluation. No firm timeline for public UBO register.",
     "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "実際にこの方法で買取大吉と株式会社エンパワーの2社の商業登記を取り寄せ、両社の関係を独立検証した事例として",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同じ手法で、アクセスジャーナルが報じた株式会社エンパワーをめぐる9つの個別主張を項目別に登記と照合した事例として",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第3章でも、実務で取り扱った企業案件の事例とあわせて詳しく解説している",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "したがって、「登記簿に株主が出ていない」のは隠蔽ではなく、制度上の分離の結果だ",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Read API endpoints, authentication and integration examples.",
+    "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Teikoku Databank (tdb.co.jp) or Tokyo Shoko Research (tsrdata.co.jp). Order a company report — ¥3,000–30,000 depending on depth. Contains estimated financials, employee count, credit score, and in many cases partial shareholder data collected through banking relationships. Japanese only.",
+    "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：登記上の地目や種類と、現実の利用実態が食い違っているケースは珍しくない",
+    "url": "https://shiraberu-note.com/corporate-realestate-registry-scope/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "検索を使うときの最大の注意点は、収録範囲だ",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "注意点として、2025年3月15日にサービスの提供内容が変更されており、旧A・B・Cコース（日付検索のみ1,672円、日付＋記事検索2,200円など）は同年3月31日に終了している",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「公的記録に載っていない」という事実を、その主張が事実ではないことの証明として使うのは、論理的には誤りだ",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実務的に注意したい「読み取れない情報」の代表例を挙げる",
+    "url": "https://shiraberu-note.com/corporate-realestate-registry-scope/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "申請の内容自体に誤りがあれば、それが登記に反映されることもある",
+    "url": "https://shiraberu-note.com/corporate-realestate-registry-scope/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -670,8 +670,8 @@
     "method": "http"
    },
    {
-    "url": "https://biz.moneyforward.com/establish/basic/84885/",
-    "status": "http_403",
+    "url": "https://www.foresight-law.gr.jp/column/qa/111101.html",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -680,8 +680,8 @@
     "method": "http"
    },
    {
-    "url": "https://www.moj.go.jp/MINJI/minji81.html",
-    "status": "ok",
+    "url": "https://biz.moneyforward.com/establish/basic/84885/",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -700,19 +700,19 @@
     "method": "http"
    },
    {
+    "url": "https://login.microsoftonline.com/b3865172-9887-4b3a-89ff-95a35b92f4c3/saml2?SAMLRequest=hVLLbtswEPwVgneJFmm9CMuBG6OogbQxIqWHXgqKXsYsKFIlqaT9%2Byp%2BFOklvZKzMzszu7r5NRj0DD5oZxucpQuMwEp30PapwY%2Fdx6TCN%2BtVEIOhI99M8Wgf4OcEIaJ50AZ%2B%2Fmnw5C13IujArRgg8Ch5u%2Fl8x2m64KN30UlnMNqEAD7OUrfOhmkA34J%2F1hIeH%2B4afIxxDJwQLfRhTLVIX0SAg0h%2FjGR%2BIDOL0gbIaQnySk7J%2Fr7tSNveY7SdV9JWxJONK5NxT9qmg5beBaeis0ZbSKUbSM%2BqIs9KmtRVVSbLnomkqpVK6lywvK%2BpWkpGTt4w2m0b%2FJ0yUYtCqTJTNFciV4pBoQSThSgprdQMC2GCnQ1R2NhguqBFkmXJIu%2BykudLzvKUFuwbRvtLGh%2B0Paf8XnT9GRT4p67bJ692Mfp6bWsG4Es3%2FKTu35byPrG4NoHX%2F8k9HHXfOwPxuCJvtf5exZeZfLfdO6Plb7Qxxr3cehARGhz9BJisL3P%2F3s%2F6Dw%3D%3D&RelayState=e1s1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "https://www.kuroda-law.gr.jp/column/tw-law/10216/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://login.microsoftonline.com/b3865172-9887-4b3a-89ff-95a35b92f4c3/saml2?SAMLRequest=hVLLbtswEPwVgneJEhlZEmE5cGIUNZCHESk55BJQEhWzoEiVSyXt35fxo0gvKcDTcmdmd2aXl79Gjd6kA2VNhdM4wUiazvbKvFb4sfkWFfhytQQxajrx9ez35kH%2BnCV4FIAG%2BPGnwrMz3ApQwI0YJXDf8Xp9e8NpnPDJWW87qzFaA0jng9S1NTCP0tXSvalOPj7cVHjv%2FQScECVUP8VKxO8CZC%2FiHxMJBRJYBqUlOQxBPsgp2d3XDanre4w2YSRlhD%2BscWbS9lWZeFSds2AHb41WRsadHUnLikWW5jQqiyKPLlomoqIchqjMBMvakg4XHSOH3TDabir8UuZp3w2iX7CkGFoRsHma9yVLc5YxxkRoA5jl1oAXxleYJnQRpWmUZE2acboIL6Z58YzR7uTGlTJHl7%2Byrj02Af%2FeNLvoY12Mns5phQZ8yoYf1N3nUL4mFuck8Oo%2FvsNeta3V0u%2BX5LPW36u4C%2BTbzc5q1f1Ga63t%2B7WTwssKezdLTFYn3L%2F3s%2FoD&RelayState=e1s1",
+    "url": "https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/AN00224504-20181228-0077.pdf?file_id=142748",
     "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.linkedin.com/in/katie-destefano",
-    "status": "robots_disallowed",
-    "method": ""
+    "method": "pdf"
    },
    {
     "url": "https://regbase.jp/en/japanese-company-registry",
@@ -730,7 +730,7 @@
     "method": ""
    },
    {
-    "url": "https://www.houjin-bangou.nta.go.jp/en/index.html",
+    "url": "https://www.japanpi.com/legal-investigations/obtain-public-records/company-real-estate-registry-records/",
     "status": "ok",
     "method": "http"
    },
@@ -740,9 +740,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.japanpi.com/legal-investigations/obtain-public-records/company-real-estate-registry-records/",
+    "url": "https://jp.usembassy.gov/visas/immigrant-visas/court-records/",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    }
   ]
  },
@@ -756,10 +756,10 @@
     "https://note.com/jack4manastalk/n/ncabf83a88dd4",
     "https://note.com/pr_fuku/n/ne4f7d734d857",
     "https://note.com/rosy_puma1215/n/n63c1e215dc99",
-    "https://note.com/pr_fuku/n/n5dc4bdd34f28",
     "https://note.com/dakudhigura/n/nc01aeb72a6ad",
+    "https://note.com/pr_fuku/n/n5dc4bdd34f28",
     "https://note.com/pr_fuku/n/nf0e56e559e2d",
-    "https://en.m.wikipedia.org/wiki/List_of_current_United_States_Representatives"
+    "https://note.com/pr_fuku/n/n803aebd42545"
    ]
   },
   {
@@ -774,7 +774,7 @@
     "https://note.com/shi_sunao/n/n8b691a95614c",
     "https://waseda-jp.libguides.com/47316958",
     "https://cent-legal.com/blog/colum_02/218/",
-    "https://www.paylocity.com/"
+    "https://shiraberu-note.com/public-records-corporate-verification/"
    ]
   },
   {
@@ -784,12 +784,12 @@
     "https://kanpo-ad.com/10/online-touki.html",
     "https://www.kanpo.go.jp/pdf/s_guide.pdf",
     "https://meiseihoumu.jp/inherit-navi/dictionary/%E5%AE%98%E5%A0%B1%E5%85%AC%E5%91%8A/",
-    "https://biz.moneyforward.com/establish/basic/84885/",
-    "https://corporate.ai-con.lawyer/articles/basic-knowledge/40",
-    "https://www.moj.go.jp/MINJI/minji81.html",
-    "https://corporate-a-lawoffice.com/sosoku-koukoku-houhou/",
     "https://www.foresight-law.gr.jp/column/qa/111101.html",
-    "https://en.wikipedia.org/wiki/YouTube"
+    "https://corporate.ai-con.lawyer/articles/basic-knowledge/40",
+    "https://biz.moneyforward.com/establish/basic/84885/",
+    "https://corporate-a-lawoffice.com/sosoku-koukoku-houhou/",
+    "https://www.moj.go.jp/MINJI/minji81.html",
+    "https://kigyo-research-compass.com/corporate-registry-reading-guide/"
    ]
   },
   {
@@ -802,9 +802,9 @@
     "https://note.com/itojukusyoshi/n/n2290d24d0baa",
     "https://www.npb.go.jp/product_service/books/kanpo_user/user001.html",
     "https://kgreen-law.com/kaiketu-jisseki/%E4%BA%8B%E4%BE%8B16%E8%A3%81%E5%88%A4%E3%81%A7%E9%81%95%E6%B3%95%E3%81%AA%E7%99%BB%E8%A8%98%E3%82%92%E6%98%AF%E6%AD%A3/",
-    "https://www.kuroda-law.gr.jp/column/tw-law/10216/",
     "https://waseda-jp.libguides.com/47316958",
-    "https://www.linkedin.com/in/katie-destefano"
+    "https://www.kuroda-law.gr.jp/column/tw-law/10216/",
+    "https://shiraberu-note.com/public-records-corporate-verification/"
    ]
   },
   {
@@ -813,13 +813,13 @@
     "https://regbase.jp/en/japanese-company-registry",
     "https://vlolawfirm.com/insights/japan-company-registry-extract",
     "https://www.facebook.com/fb-answers/japanese-corporate-registry-search/?locale=tl_PH",
-    "https://www.houjin-bangou.nta.go.jp/en/index.html",
-    "https://www.globaldatabase.com/japan-company-register-how-to-search-the-corporate-number-touki",
     "https://www.japanpi.com/legal-investigations/obtain-public-records/company-real-estate-registry-records/",
+    "https://www.globaldatabase.com/japan-company-register-how-to-search-the-corporate-number-touki",
+    "https://jp.usembassy.gov/visas/immigrant-visas/court-records/",
     "https://www.jpx.co.jp/english/listing/co-search/",
     "https://www.reddit.com/r/japan/comments/6zgzft/is_there_a_way_to_access_japanese_corporate/",
-    "https://www.city-yuwa.com/wp/wp-content/uploads/2023/08/Company-Records-and-Registers-Japan.pdf",
-    "https://en.wikipedia.org/wiki/Public"
+    "https://www.youtube.com/watch?v=uBW_KUvs4gk&vl=ja",
+    "https://www.houjin-bangou.nta.go.jp/en/index.html"
    ]
   },
   {
@@ -834,52 +834,36 @@
     "https://note.com/pr_fuku/n/nf0e56e559e2d",
     "https://note.com/dakudhigura/n/n55af22458dd3",
     "https://note.com/dakudhigura/n/n54b04dfbbe50",
-    "https://www.reddit.com/r/projectcar/comments/ysvu16/alternative_websites_to_prodemand_or_mitchell1/"
+    "https://note.com/jackfrost3/n/n9a3da2945e6f"
    ]
   },
   {
    "query": "site:x.com 公的記録で会社を裏取りする（商業登記・判決・官報）",
    "results": [
-    "https://en.wikipedia.org/wiki/Instagram",
-    "https://www.meta.com/instagram/",
-    "https://www.instagram.com/",
-    "https://www.instagram.com/?hl=en-gb",
-    "https://play.google.com/store/apps/details?id=com.instagram.android&hl=en-US",
-    "https://www.instagram.com/instagram/",
-    "https://www.instagram.com/p/signin/",
-    "https://help.instagram.com/",
-    "https://www.facebook.com/instagram/",
-    "https://play.google.com/store/apps/details?id=com.instagram.android&hl=en-GB"
+    "https://x.com/hiroyukihimeno/status/2093373761823338748",
+    "https://x.com/n_ochiishi/status/2075362305903329554",
+    "https://x.com/hiroaki_kosaki/status/1950311878250606870",
+    "https://x.com/grok/status/2030241414596956657",
+    "https://x.com/okaguchik/status/2043899228691542121",
+    "https://x.com/j__g0405/status/2062208255607341267",
+    "https://x.com/hojotomohisa4/status/2113239674491932773"
    ]
   },
   {
    "query": "site:linkedin.com 公的記録で会社を裏取りする（商業登記・判決・官報）",
-   "results": [
-    "https://www.reddit.com/r/UPS/comments/mw4xve/ups_website_no_longer_shows_tracking_history/",
-    "https://www.reddit.com/r/UPS/comments/a7iwbb/tracking_a_package_after_120_days/",
-    "https://www.reddit.com/r/UPS/comments/19ep5jt/are_the_estimated_times_ever_correct/",
-    "https://www.reddit.com/r/UPS/comments/kggddx/is_the_follow_my_delivery_feature_actually/",
-    "https://www.reddit.com/r/LifeProTips/comments/1r81rp/lpt_the_first_six_digits_of_a_ups_tracking_number/",
-    "https://www.reddit.com/r/UPS/comments/h094c8/stuck_on_label_created_since_may_29th/",
-    "https://www.reddit.com/r/UPS/comments/u21t58/sent_yesterday_from_ups_store_via_next_day_air/",
-    "https://www.reddit.com/r/amazonprime/comments/1bmmz3v/why_does_amazon_list_ups_tracking_number_which/",
-    "https://www.reddit.com/r/UPS/comments/k5x1re/no_tracking_detail_anymore/",
-    "https://www.reddit.com/r/UPS/comments/14mlvii/is_this_an_insider_scam/"
-   ]
+   "results": []
   },
   {
    "query": "site:facebook.com 公的記録で会社を裏取りする（商業登記・判決・官報）",
    "results": [
     "https://www.facebook.com/groups/325141627499796/",
-    "https://www.fool.com/investing/2026/09/17/heres-what-a-500-investment-in-spacex-stock-could/",
-    "https://finance.yahoo.com/markets/stocks/articles/prediction-spacex-stock-price-end-232702109.html?fr=sycsrp_catchall",
-    "https://www.spacex.com/investors",
-    "https://finance.yahoo.com/quote/SPCX/?fr=sycsrp_catchall",
-    "https://ir.spacex.com/stock-information/default.aspx",
-    "https://www.fool.com/investing/2026/07/20/spacex-stock-is-down-45-from-its-high-history-says/",
-    "https://www.marketbeat.com/stocks/NASDAQ/SPCX/",
-    "https://www.forbes.com/sites/petercohan/2026/10/07/wall-street-cant-agree-on-spacex---is-the-stock-a-bargain-or-a-bubble/",
-    "https://stockanalysis.com/stocks/spcx/"
+    "https://www.facebook.com/ShinnipponHoki/videos/ｑａ-商業登記と会社法司法書士が押さえておきたいポイント/601472871677918/",
+    "https://www.facebook.com/okaguchik/posts/記録外領域という新しい概念判決による登記をする場合はmintsの記録外領域に電子判決書その内容が実際の判決と同一である旨を証明しかつ電子署名が付されたものがアッ/26380706268247635/",
+    "https://www.facebook.com/tsrnet/photos/tsrデータインサイト官報で決算公告株式会社のわずか182022年官報決算公告調査-情報開示が求められる時代ですが株式会社で官報での公告を記載しながら実際に決算/952067602763343/",
+    "https://www.facebook.com/kozotakei/photos/官報ってそもそも何やねん会社いっぱいやってると官報を使わざるをえないケースもあるのね資本金の減資とか官報って何載せたの誰が見るのそしてこの東京官書普及株式会社っ/26420831087545161/",
+    "https://www.facebook.com/jibundetouki/photos/約10年かかった裁判が確定フィクションみたいな驚愕の現実-滋賀県大津京の大覚が南海グループの南海辰村建設に分譲マンション建築を依頼南海辰村建設が欠陥手抜き工事を/4113872405350216/",
+    "https://www.facebook.com/newspostseven.movie/videos/黒木麗香被告-再始動を前に実父が関連会社の代表にインフルエンサーの宮崎麗果こと黒木麗香被告父親である白眞勲氏が被告の関連会社の代表取締役に就任したことがわかりま/1620502369520599/",
+    "https://www.facebook.com/61594394041274/videos/1120640893880498/"
    ]
   },
   {
@@ -894,7 +878,7 @@
     "https://blog.ishimoto-legal.com/tips/online-official-gazette-for-registration/",
     "https://corporate.ai-con.lawyer/articles/basic-knowledge/40",
     "https://waseda-jp.libguides.com/47316958",
-    "https://www.marketwatch.com/"
+    "https://shiraberu-note.com/public-records-corporate-verification/"
    ]
   },
   {
@@ -909,7 +893,7 @@
     "http://o-shihousyoshi-osaka.com/blog/%E5%95%86%E6%A5%AD%E7%99%BB%E8%A8%98%E7%94%B3%E8%AB%8B%E3%81%A7%E3%81%AE%E5%AE%98%E5%A0%B1%E5%85%AC%E5%91%8A%E3%81%AE%E5%8E%9F%E6%9C%AC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
     "https://shiodome.co.jp/js/blog/507",
     "https://www.fukuoka-shihousyoshi.jp/column/9093",
-    "https://www.microsoft.com/en-us/"
+    "https://shiraberu-note.com/public-records-corporate-verification/"
    ]
   },
   {
@@ -922,12 +906,14 @@
     "https://in.linkedin.com/in/hemanthputtaiah",
     "https://ph.linkedin.com/in/masakimitsuhashi",
     "https://in.linkedin.com/in/ashok-khanduri",
-    "https://it.linkedin.com/in/giulia-tavella-054a59a0"
+    "https://it.linkedin.com/in/giulia-tavella-054a59a0",
+    "https://www.linkedin.com/company/registry-support-japan",
+    "https://www.linkedin.com/pulse/paper-trail-protects-you-japans-land-registry-explained-翔貴-江本-pmb5c"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-05T06:04:15.032851+00:00"
 }
