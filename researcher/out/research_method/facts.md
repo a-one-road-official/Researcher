@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・74品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・76品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -328,8 +328,8 @@
   - 「Real‑World Example: Turning a Vague Posting into a Winning Application」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
   - 「Insert concrete examples—e.g., “Led a cross‑functional team of 5 to deliver project X two weeks ahead of schedule.”」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
   - 「Add at least one quantified soft‑skill example.」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
 
 ## 統計（e-Stat・工業統計・経済センサス）の読み方と時系列の作り方（how to use Japanese government statistics time series）
 - 文脈：統計
@@ -1919,7 +1919,7 @@
   - 「仮説検証の考え方や手順について！ポイント・注意点まで詳しく解説」（https://sherpaworks.jp/sherpa/backcast/）
 - 実例：
   - 「結果として、社員の士気を向上させ、離職率を下げることにつながります」（https://sherpaworks.jp/sherpa/backcast/）
-- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
 
 ## 有価証券報告書の設備の状況・セグメント情報・将来見通しの読み方（reading annual report capex plan segment forward-looking statement）
 - 文脈：企業
@@ -3608,6 +3608,8 @@
   - 「この場合、印字された内訳（株主資本・負債の部の各科目など）から合計を算出し、資産合計との一致を検証できた行だけを表示しています」（https://kaijiwire.jp/guide/kessan-kokoku）
   - 「「検証中」は、その期の公告に当期純利益の印字はあるが、符号または単位の判読を検証中のため非掲載にしていることを示します」（https://kaijiwire.jp/guide/kessan-kokoku）
   - 「期の区切りは前後の期末からの推定で、欠落した期を詰めずに軸上に空きを残して描きます」（https://kaijiwire.jp/guide/kessan-kokoku）
+  - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
 - 一次情報の探し方：
   - 「皆さんは非上場の会社の決算公告と聞いて何を思い浮かべますか？」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「には、非上場会社であっても決算を公告する義務が規定されているものの、多くの中小企業で決算公告がおこなわれてないのが実情のようです」（https://note.com/isa99999/n/n7aadf977f2e7）
@@ -4789,3 +4791,139 @@
   - 「参照したい政府統計に対して、一連の処理をすべてPythonスクリプトとして作成して、1つのパイプラインジョブにまとめれば、あとはスケジューラ(Airflow)を使って実行タイミングや実行結果のモニタリングを適切に設定すれば、APIからDWHへとデータを連携するためのバッチ処理が完成します．」（https://qiita.com/faux/items/efc4c8981510b78dd560）
 - 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+
+## データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務（data journalism counterfactual comparison confounding chance small counts margin of error guide）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「This is a book about the principles behind data journalism. Not what visualization software to use and how to scrape a website, but the fundamental ideas that underlie the human use of data. This isn’t “how to use data” but “how data works.”」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「Sometimes this is not a simple thing to do. It seems clear enough how to quantify the number of cars sold or the amount of grain exported, where counting has the feel of something objective and definite. But journalists are interested in many other things where the proper relationship between the words, the numbers, and the world is much less clear.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「It’s not clear how census-takers were supposed to determine someone’s ancestry going back generations, or how they applied this rule in practice, or if they even read the instructions—meaning that we don’t know quite how to interpret the racial categories of the early twentieth-century census. If the collection method is obscure, so is the data.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「Anyone working with friction has to choose how to quantify it.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「Usually there is some end goal, some purpose to collecting data, and you can ask whether any particular quantification method serves that purpose. And you can ask about the end purpose, too, the frame of the entire thing. Different quantification methods serve different stories.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「My goal is to give you the higher-level logic of the whole process of statistical analysis. For any particular problem you will need specific technical tools, but those choices must be guided by a larger framework.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「The first step in data analysis is seeing the frame: the assumptions about how the data was collected and what it means.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「Second, correlation. The decrease could be related to the earlier closing time without being caused by it. Perhaps the police stepped up patrols to enforce the new law, and it’s this increased presence that is reducing crime, not the new closing time itself.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「There is a completely general method of accounting for chance which forms the basis of modern statistical reasoning.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「Instead I’m going to walk through a specific Bayesian method, a general way to answer multiple-choice questions when the answer is obscured by randomness. My purpose is to show the basic logic of the process, and to show that this logic is commonsensical and understandable. Don’t let statistics be mysterious to you!」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「your data. This comes out in the mathematical derivation of the method, which says we need to multiply our Bayes factor of 2.3 to 1 by the prior odds to get a final estimate.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「There is a lot more to say about this method of comparing the likelihood that different models generated your data. The method here only applies to multiple-choice questions, whereas real work often estimates a parameter: how」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「But the fundamental logic of comparing how often different possibilities would produce your observed data carries through to the most complex analyses. I hope this example gives the flavor of how a single unifying framework has been used to solve problems in medicine, cryptography, ballistics, insurance, and just about every other human activity.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「Bayesian statistics is something remarkable, and I find its wide success incredible, unlikely, and almost shockingly too good to be true. You can always start from the general framework and work your way toward the details of your problem. This road demands more of the student, but it is the antidote to staring at equations and wondering if they apply.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「Any claim of cause is implicitly a claim about data from a world we don’t ever get to see: a world where the cause never happened. it’s worth thinking about how to approximate this world through comparisons or modeling. Just looking for increases or decreases is not enough. As the Project Exile researchers put it:」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+- 突き合わせ・推定：
+  - 「You should be skeptical of any headline that says the number of jobs in the United States has changed by fewer than about 105,000 since last month. That’s because the monthly jobs growth estimate has a」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「It couldn’t have been long before someone thought of counting by letting each of the chosen stand for 10, but millennia passed before anyone was able to estimate the accuracy of this process.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「This formula makes it possible to tally the number of ways to get a sample with any particular number of unemployed people. Dividing the number of possible samples for each level of unemployment by the total of 2,118,760 possible samples gives the probability of seeing each possible unemployment estimate.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「Estimated Unemployment」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「. Because this interval covers a 40% range, and our best estimate is right in the middle, we say that the estimate has a margin of error of 20%. The」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「And that’s it. We’ve now calculated the margin of error on our unemployment estimate. There many different ways of phrasing our result, which all mean the same thing.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「This is how we know the error in our monthly unemployment estimates. The Current Population Survey samples 150,000 people out of 300,000,000. The Bureau of Labor statistics has run the math and worked out that it’ll get within 300,000 of the true unemployment rate 90 percent of the time, which corresponds to 0.2% difference in the national unemployment rate.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「Large counts are usually estimates, which differ from the true value by some amount.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「it’s very tempting to interpret something as meaningful when it could just as easily be a coincidence—especially if it makes a good story. But dumb luck is always in the running as an explanation for your data. To try to untangle chance from other factors, we can estimate the probability of sheer coincidence.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「But is it really “extremely improbable?” Nate Silver has estimated the odds:」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「your data. This comes out in the mathematical derivation of the method, which says we need to multiply our Bayes factor of 2.3 to 1 by the prior odds to get a final estimate.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「There is a lot more to say about this method of comparing the likelihood that different models generated your data. The method here only applies to multiple-choice questions, whereas real work often estimates a parameter: how」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「. Thus, dying in a terrorist attack can seem just as probable as being struck by lightning even though a conservative estimate puts lighting at least ten times more likely. Telling people the actual numbers does not change this perception, because their perception is not based on numbers!」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「Lifetime odds of being struck by lightning estimated at 1 in 12,000 by NOAA, based on 2004–2013 averages.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+- 一次情報の探し方：
+  - 「PDFs and printed copies of this report are available on the」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「Denise Schmandt-Besserat, “Tokens and Writing: The Cognitive Development,”SCRIPTA (2009): 145–154, https://sites.utexas.edu/dsb/files/2014/01/TokensWriting_the_Cognitive_Development.pdf.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「Brian Gratton and Myron P. Guttman, “Hispanics in the United States 1850–1990,” Historical Methods, 3 (2000), https://www.latinamericanstudies.org/immigration/Hispanics-US-1850-1990.pdf.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「“Sixteenth Decennial Census of the United States, Instructions to Enumerators,Population and Agriculture,” U.S. Census Bureau, 1940, https://www.census.gov/history/pdf/1940instructions.pdf.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「Steven Raphael and Jens Ludwig, Evaluating Gun Policy: Effects on Crime and Violence (Chicago: Brookings Institution Press, 2003), 251–277, https://home.uchicago.edu/ludwigj/papers/Exile_chapter_2003.pdf.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「Andrew Gelman, “Statistics for Cigarette Sellers,” Chance, 3 (2012), https://www.stat.columbia.edu/~gelman/research/published/ChanceEthics4.pdf.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「Bikaramjit Mann and Evan Wood, “Confounding in Observational Studies Explained,” The Open Epidemiology Journal (2012), https://benthamopen.com/contents/pdf/TOEPIJ/TOEPIJ-5-18.pdf.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+- 失敗・落とし穴：
+  - 「Consider unemployment again. A survey asks a few questions of many people, so that we can count how many people are unemployed. We can also find patterns of connection between employment status and location, education, age, and so on. To see these patterns truly, without bias, we must either count every single person or take a random sample. That is, a random sample is a」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「The crimes that get reported are always the most serious. Content analysis has shown that coverage is biased toward victims who are young, female, white, and famous, as well as crimes which are particularly gruesome or sexual. Yet these examples are the stuff from which our perceptions are formed. it’s enough to make a media researcher weep:」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「Not only is crime reporting biased in a statistical sense, but the psychological dominance of examples means that readers end up believing almost the opposite of the truth. This is a type of media bias that is seldom discussed or criticized.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「Not everyone is on Twitter, not everyone is Tweeting, and even fewer are speaking on the topic of your story. This data has a bias toward certain types of people, and you don’t really know which kind of people those are. There is surely useful information to be got from social media, but it is not the same kind of information you can get from a random sample.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「Ruth Hamill, Timothy DeCamp Wilson, and Richard E. Nisbett, “Insensitivity to Sample Bias: Generalizing From Atypical Cases,” Journal of Personality and Social Psychology, 4 (1980).」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+- 実例：
+  - 「This is pure cultural critique, and we could take it many different ways. We could read this sentence as a rant, a plea, an affirmation, a provocation, a list of examples, or any other type of expression. Maybe it’s art. But journalism is traditionally understood as “nonfiction,” so let’s take this at face value and ask whether it’s true.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「The range of values plus or minus the margin of error, in this case 20% to 60%, is called the 85-percent」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「It may well be that several explanations remain, in which case one tries test after test until one or other of them has a convincing amount of support.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「This doesn’t mean there’s a single right answer in every case. All data analysis is really data」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「= 0.4 × 0.4 = 0.16. The definition of probability divides out the total number of cases so that probabilities are always between 0 and 1, which lets us avoid the tedious bookkeeping of counting cases directly when all we want is the final proportion. Multiplication is how you work out the probability that event A」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「We can use the logic of counting cases to work out the probability of an unlikely event happening by chance. In the winter of 1976 the United States embarked on a nationwide flu vaccination program, responding to fears of an H1N1 virus epidemic (a.k.a. swine flu). Millions of people lined up across the country to get vaccinated. But some of them got sick after, or even died.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「A known genuine and two possibly forged signatures in the Howland will case. From Meier and Zabell, 1980.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「We’ll work through a small example that has the same shape as our assaults versus closing time policy question. Suppose there is a dangerous intersection in your city. Not long ago there were nine accidents in one year! But that was before the city installed a traffic light. Since the stoplight was installed there have been many fewer accidents.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「But the fundamental logic of comparing how often different possibilities would produce your observed data carries through to the most complex analyses. I hope this example gives the flavor of how a single unifying framework has been used to solve problems in medicine, cryptography, ballistics, insurance, and just about every other human activity.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「Cause cannot usually be read directly from the data, no matter how much we might wish this were the case. Consider this graph of mortality versus smoking rate across different occupations:」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「Here’s a more ambiguous case:」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「For example, X causes Y and Y causes X appear the same in the data. We have to use other information to figure out the correct causal structure.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「It could also be the case that some other factor Z causes both X and Y. For example, there could be something that causes a man to write about a woman’s appearance」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「of the variables you see as related. For example, overall economic growth could both reduce unemployment and increase investment. A rich country might both import a lot of chocolate—a luxury good—and fund advanced research. The reduction in crime rates after the bar’s closing time changed could be because the police began patrolling to enforce the earlier closing time.」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+  - 「for a variable. For example, you could investigate the relationship between smoking and cancer while controlling for the stress of different professions. This only works if your causal model is otherwise accurate. Again, it’s a way to ask about a counterfactual: What would be the relationship between employment and investment」（https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php）
+
+## 統計の利用者から見た政府統計の問題点（自己評価式・低回収率・委託先の変更による継続性・加工統計の再現性）を書いた報告書（official statistics user problems low response rate contractor change continuity reproducibility report）
+- 文脈：統計
+- 手順・やり方：
+  - 「その趣旨は、いわゆる分散型の統計機構の下で各省が独自に統計調」（https://nira.or.jp/paper/report0810.pdf）
+  - 「また、現行の統計行政は、よく知られているように分散型であり、各府省の統計部」（https://nira.or.jp/paper/report0810.pdf）
+  - 「また、各論の永濱利廣氏の論文にあるように、いわゆる分散型の統計行政で」（https://nira.or.jp/paper/report0810.pdf）
+  - 「つまり、日本では、中央レベルでは分散型の統計機構」（https://nira.or.jp/paper/report0810.pdf）
+  - 「集中型機構ともいえる＊2」（https://nira.or.jp/paper/report0810.pdf）
+  - 「一性を図るため、調査方法、分類基準、定義などについての調査を実施している」（https://nira.or.jp/paper/report0810.pdf）
+  - 「②加工統計の加工方法が公表されていること、③第三者が再現可能であること等が挙」（https://nira.or.jp/paper/report0810.pdf）
+  - 「がない、統計間で重複がみられるなど、分散型統計行政の弊害が大きくなっているた」（https://nira.or.jp/paper/report0810.pdf）
+  - 「JIPデータベースの作成方法は、深尾・宮川（2008）第 2章に詳しく書かれているので、」（https://nira.or.jp/paper/report0810.pdf）
+  - 「実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成」（https://nira.or.jp/paper/report0810.pdf）
+  - 「推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法」（https://nira.or.jp/paper/report0810.pdf）
+  - 「データベースは、共通の計測方法の下での国際比較が可能となっている」（https://nira.or.jp/paper/report0810.pdf）
+  - 「方法が考えられるが、大きく粗資本ストックと純資本ストックに分けることができる」（https://nira.or.jp/paper/report0810.pdf）
+  - 「しているが、各物価指数が共通の方法で計測されているわけではない」（https://nira.or.jp/paper/report0810.pdf）
+  - 「常に有機的な活用方法を想定して統計を整備しているかどうか、という点である」（https://nira.or.jp/paper/report0810.pdf）
+- 突き合わせ・推定：
+  - 「推計期間 1970、1973-2003年 1960-1995年」（https://nira.or.jp/paper/report0810.pdf）
+  - 「実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成」（https://nira.or.jp/paper/report0810.pdf）
+  - 「推計期間 1970-2002年 1960-1992年」（https://nira.or.jp/paper/report0810.pdf）
+  - 「推計データ 労働者数、労働時間、賃金 労働者数、労働時間、賃金」（https://nira.or.jp/paper/report0810.pdf）
+  - 「推計期間 1970-2002年 1955-92年」（https://nira.or.jp/paper/report0810.pdf）
+  - 「『昭和45年国富調査』より推計」（https://nira.or.jp/paper/report0810.pdf）
+  - 「推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法」（https://nira.or.jp/paper/report0810.pdf）
+  - 「在まで 2つのヴァージョンがあり、データベースの延長推計を行っている」（https://nira.or.jp/paper/report0810.pdf）
+  - 「情報サービス産業の動向や受注ソフトウエア投資の推計は、」（https://nira.or.jp/paper/report0810.pdf）
+  - 「（1） 2002年推計見直しから積み残された“宿題”」（https://nira.or.jp/paper/report0810.pdf）
+  - 「GDP速報は2002年 8月に推計方法の抜本的な見直しを行った」（https://nira.or.jp/paper/report0810.pdf）
+  - 「い間、需要側統計（代表例は家計調査、法人企業統計季報） を中心に推計されてきたGDP」（https://nira.or.jp/paper/report0810.pdf）
+  - 「ているため、推計方法の見直しは確報との整合性も高めると考えられた」（https://nira.or.jp/paper/report0810.pdf）
+  - 「現行推計では、供給」（https://nira.or.jp/paper/report0810.pdf）
+  - 「側推計を組み合わせたことで「1ヵ月＋2週間」で公表できるようになった」（https://nira.or.jp/paper/report0810.pdf）
+- 一次情報の探し方：
+  - 「戦後の統計体系の見直しに向けた作業が内閣府の統計委員会を中心に行われている」（https://nira.or.jp/paper/report0810.pdf）
+  - 「現在の統計体系は、戦後の混乱した日本経済を建て直し、国民生活の安定を確保する」（https://nira.or.jp/paper/report0810.pdf）
+  - 「こうした中で実施された 60年ぶりの今回の統計法の全面改訂は、 新たな時代にふさ」（https://nira.or.jp/paper/report0810.pdf）
+  - 「わしい統計の構築に向けた幕開けといえるものである」（https://nira.or.jp/paper/report0810.pdf）
+  - 「本年秋には、 「公的統計の整備」（https://nira.or.jp/paper/report0810.pdf）
+  - 「時代から取り残されつつある現在の統計体系を見直すには、多様なアクターが参加」（https://nira.or.jp/paper/report0810.pdf）
+  - 「われわれは、統計利用者の立場から、現在の統計の諸」（https://nira.or.jp/paper/report0810.pdf）
+  - 「問題、今後の課題について議論を重ね、今回、新たな時代にふさわしい統計改革につ」（https://nira.or.jp/paper/report0810.pdf）
+  - 「1. 統計の役割と最近の統計制度見直しの経緯」（https://nira.or.jp/paper/report0810.pdf）
+  - 「(1) 統計の目的」（https://nira.or.jp/paper/report0810.pdf）
+  - 「統計は現実に生じていることの実態を把握することが目的であるが、 その用途には、」（https://nira.or.jp/paper/report0810.pdf）
+  - 「(2) 統計制度見直しの経緯」（https://nira.or.jp/paper/report0810.pdf）
+  - 「今回の統計制度の見直しの議論は、当時、経済財政諮問会議民間議員であった吉川」（https://nira.or.jp/paper/report0810.pdf）
+  - 「洋氏（東京大学大学院経済学研究科教授）が、日本の抱える統計の問題を経済財政諮」（https://nira.or.jp/paper/report0810.pdf）
+  - 「は、行政改革の一つとして、農林水産統計に偏った要員配置等を含めて、既存の統計」（https://nira.or.jp/paper/report0810.pdf）
+- 失敗・落とし穴：
+  - 「価ではない自己評価形式となっており、評価にバイアスがかかりやすくなること、ま」（https://nira.or.jp/paper/report0810.pdf）
+  - 「で、時系列的に連続させるには注意が必要である」（https://nira.or.jp/paper/report0810.pdf）
+  - 「これら低回収率がもたらすバイアスならびにその補正については」（https://nira.or.jp/paper/report0810.pdf）
+  - 「correcting for unit nonresponse bias in surveys," Journal of Econometrics, vol. 136(1), pages」（https://nira.or.jp/paper/report0810.pdf）
+- 実例：
+  - 「や結果が異なることから、ともすれば論者が自分の主張にあう都合のよいデータを使」（https://nira.or.jp/paper/report0810.pdf）
+  - 「より投入された資源とその結果得られる政策の成果との因果関係について厳密に分析」（https://nira.or.jp/paper/report0810.pdf）
+  - 「我々が実施したアンケート調査結果でも、グローバル化の進展に伴い、」（https://nira.or.jp/paper/report0810.pdf）
+  - 「調査結果に影響を及ぼし、厳密にいうと前回の調査との比較は困難となっているはず」（https://nira.or.jp/paper/report0810.pdf）
+  - 「一次統計は、一般に、統計調査の結果から直接得られる統計で、調査の企」（https://nira.or.jp/paper/report0810.pdf）
+  - 「は、入札の結果委託先が変更されることによる統計の継続性、質の確保という観点か」（https://nira.or.jp/paper/report0810.pdf）
+  - 「＜参考＞ESPフォーキャスター＊3に対するアンケート調査結果（詳細は資料編を参照）」（https://nira.or.jp/paper/report0810.pdf）
+  - 「アンケートの結果から日本の統計の問題点が浮き彫りになった」（https://nira.or.jp/paper/report0810.pdf）
+  - 「図表 1 景気動向指標としての統計調査の評価結果」（https://nira.or.jp/paper/report0810.pdf）
+  - 「図表 2 構造把握指標としての統計調査の評価結果」（https://nira.or.jp/paper/report0810.pdf）
+  - 「例えば米国商務省の Bureau of Labor Statisticsでは、労働生」（https://nira.or.jp/paper/report0810.pdf）
+  - 「ただこうした研究でも、企業行動が市場構造に影響されるケース」（https://nira.or.jp/paper/report0810.pdf）
+  - 「複数の異業種をかかえる事例が増える可能性がある」（https://nira.or.jp/paper/report0810.pdf）
+  - 「社のアンケート結果に基づくロジット・モデル分析」内閣府経済社会総合研究所『経済分析』」（https://nira.or.jp/paper/report0810.pdf）
+  - 「な経済変動、景気動向を把握するための統計指標」という観点から3段階評価した結果＊２」（https://nira.or.jp/paper/report0810.pdf）

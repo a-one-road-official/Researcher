@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・74品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・76品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -4289,3 +4289,87 @@
   - 「時系列第2表 労働時間指数」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/25cr.html）
 - 生産能力・設備：記載なし（読んだ44頁・検索15回）
 - 人手と仕事の差：記載なし（読んだ44頁・検索15回）
+
+## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
+- 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024
+- 事業所数・社数：記載なし（読んだ19頁・検索15回）
+- 社員数・平均社員数：記載なし（読んだ19頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ19頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ19頁・検索15回）
+- 生産能力・設備：記載なし（読んだ19頁・検索15回）
+- 10年推移：記載なし（読んだ19頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ19頁・検索15回）
+
+## 経済構造実態調査・中小企業実態基本調査の標準誤差率と回収率（向きが誤差の幅を超えるか・無回答の偏り・4-44）（standard error rate response rate Japan economic structure survey SME basic survey）
+- 文脈：全体・統計
+- 事業所数・社数：
+  - 「経済センサス‐活動調査の「売上(収入)金額」を基に、売上高の総和の目標精度(標準誤差率)を業種分類(産業大分類)・従業者規模区分ごとに(3)に示すとおり目標精度を設定して標本サイズを算出した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「従業者規模 : 法人企業(常用雇用者数5人以下、6～20人、21～49人、50人以上の4区分)、個人企業」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「目標精度は、公表する統計表の表章を考慮し、業種分類別・従業者規模区分別に概ね8%、産業中分類別に10％、産業中分類・従業者規模区分別に概ね15％と設定した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「なお、産業中分類・従業者規模区分の標本サイズが少なくとも30以上とした」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記「１．標本サイズ」の(2)により全体の標本サイズを算出し、次に調査票乙の目標精度を、業種分類別・従業者規模区分別に概ね10%、産業中分類別に15％、産業中分類・従業者規模区分別に概ね20％と設定し、標本サイズを算出した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「(1)産業別・従業者規模別表 （２）産業中分類別表 （３）産業別・資本金階級別表（法人企」（https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001）
+  - 「基本となる層（産業中分類・従業者規模層） 15% 20%」（https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001）
+  - 「産業大分類・従業者規模層 8% 10%」（https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001）
+  - 「従業者規模別（5 区分別）」（https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001）
+  - 「Step5-1：産業大分類・従業者規模層」（https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001）
+  - 「Step5-2：産業大分類・従業者規模層ご」（https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001）
+  - 「（１）産業別・従業者規模別表 （２）産業中分類別表 （３）産業別・資本金階級別表（法人企」（https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest）
+  - 「なお、従業者規模50人以上の層の標本サイズについては、当該層を更に資本金規模別（3,000万円未」（https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest）
+  - 「満、3,000万円以上）に分割し、母集団の大きさ（外れ値企業数を除く）を基に按分する」（https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest）
+  - 「④ 母集団の大きさによる推定に際しては、従業者規模は法人企業４区分（従業者５人以下 、６～20人、」（https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest）
+- 社員数・平均社員数：
+  - 「資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「通信業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「インターネット附随サービス業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「新聞業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「出版業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「卸売業:資本金1億円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「小売業:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「駐車場業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「物品賃貸業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「宿泊業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「旅行業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+- 受注金額・加工賃収入：
+  - 「資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「通信業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「インターネット附随サービス業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「新聞業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「出版業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「卸売業:資本金1億円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「小売業:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「駐車場業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「物品賃貸業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「宿泊業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「旅行業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+- 1人あたり・1社あたり金額：
+  - 「上記以外:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「小売業:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「駐車場業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「物品賃貸業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「宿泊業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外 ：資本金5千万円以下又は従業者100人以下」（https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001）
+  - 「中分類56～61の小売業 ：資本金5千万円以下又は従業者50人以下」（https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001）
+  - 「小分類693駐車場業 ：資本金5千万円以下又は従業者100人以下」（https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001）
+  - 「中分類70物品賃貸業 ：資本金5千万円以下又は従業者100人以下」（https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001）
+  - 「学術研究，専門・技術サービス 資本金5千万円以下又は従業者100人以下」（https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001）
+  - 「中分類75宿泊業 ：資本金5千万円以下又は従業者100人以下」（https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001）
+  - 「上記以外 ：資本金5千万円以下又は従業者50人以下」（https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001）
+  - 「サービス業 資本金5千万円以下又は従業者100人以下」（https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001）
+- 生産能力・設備：
+  - 「中小企業基本法の規定に基づいて、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するための新たな調査として、平成16年9月に初めて実施」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「4 設備投資とリースの状況 ◎ ◎ ○ ○ ○」（https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001）
+  - 「４ 設備投資とリースの状況 ○ ○ ○ ○ ○」（https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest）
+- 10年推移：
+  - 「（2025年7月30日）」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+- 人手と仕事の差：記載なし（読んだ49頁・検索15回）

@@ -1,0 +1,1251 @@
+{
+ "name": "経済構造実態調査・中小企業実態基本調査の標準誤差率と回収率（向きが誤差の幅を超えるか・無回答の偏り・4-44）",
+ "en": "standard error rate response rate Japan economic structure survey SME basic survey",
+ "aliases": [
+  "中小企業実態基本調査 回収率 標準誤差率",
+  "経済構造実態調査 製造業事業所調査 回収率 推計方法",
+  "中小企業実態基本調査 利用上の注意 標本設計"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-05T20:05:06.935084+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "経済センサス‐活動調査の「売上(収入)金額」を基に、売上高の総和の目標精度(標準誤差率)を業種分類(産業大分類)・従業者規模区分ごとに(3)に示すとおり目標精度を設定して標本サイズを算出した",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模 : 法人企業(常用雇用者数5人以下、6～20人、21～49人、50人以上の4区分)、個人企業",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "目標精度は、公表する統計表の表章を考慮し、業種分類別・従業者規模区分別に概ね8%、産業中分類別に10％、産業中分類・従業者規模区分別に概ね15％と設定した",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、産業中分類・従業者規模区分の標本サイズが少なくとも30以上とした",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記「１．標本サイズ」の(2)により全体の標本サイズを算出し、次に調査票乙の目標精度を、業種分類別・従業者規模区分別に概ね10%、産業中分類別に15％、産業中分類・従業者規模区分別に概ね20％と設定し、標本サイズを算出した",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "(1)産業別・従業者規模別表 （２）産業中分類別表 （３）産業別・資本金階級別表（法人企",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "基本となる層（産業中分類・従業者規模層） 15% 20%",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類・従業者規模層 8% 10%",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別（5 区分別）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "Step5-1：産業大分類・従業者規模層",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "Step5-2：産業大分類・従業者規模層ご",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "（１）産業別・従業者規模別表 （２）産業中分類別表 （３）産業別・資本金階級別表（法人企",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "なお、従業者規模50人以上の層の標本サイズについては、当該層を更に資本金規模別（3,000万円未",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "満、3,000万円以上）に分割し、母集団の大きさ（外れ値企業数を除く）を基に按分する",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "④ 母集団の大きさによる推定に際しては、従業者規模は法人企業４区分（従業者５人以下 、６～20人、",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "通信業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット附随サービス業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "新聞業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "出版業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "卸売業:資本金1億円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "小売業:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "駐車場業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "物品賃貸業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "旅行業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模 : 法人企業(常用雇用者数5人以下、6～20人、21～49人、50人以上の4区分)、個人企業",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "建設業 資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "製造業 資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "中分類37通信業 ：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "中分類40インターネット附随サービス業：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "小分類413新聞業 ：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "小分類414出版業 ：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "運輸業，郵便業 資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "中分類50～55の卸売業 ：資本金1億円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "中分類56～61の小売業 ：資本金5千万円以下又は従業者50人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "小分類693駐車場業 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "中分類70物品賃貸業 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外 ：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "学術研究，専門・技術サービス 資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "中分類75宿泊業 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外 ：資本金5千万円以下又は従業者50人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "小分類791旅行業 ：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "（２）属性的範囲（□個人 □世帯 □事業所 ■企業・法人・団体 □地方公共団体 □その他）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "ビス業（他に分類されないもの）のうち、「表１ 調査の範囲」に掲げる業種及び規模に属する企業（個人",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "４ 報告を求める個人又は法人その他の団体",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "調査票甲（法人企業用）：約2.9万社（母集団の大きさ：約170万社）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "調査票甲（個人事業者用）：約2.2万社（母集団の大きさ：約140万社）",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "建設業 資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "製造業 資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "中分類37通信業 ：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "中分類40インターネット附随サービス業：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "小分類413新聞業 ：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "小分類414出版業 ：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "運輸業，郵便業 資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "中分類50～55の卸売業 ：資本金1億円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "中分類56～61の小売業 ：資本金5千万円以下又は従業者50人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "小分類693駐車場業 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "中分類70物品賃貸業 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外 ：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "通信業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット附随サービス業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "新聞業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "出版業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "卸売業:資本金1億円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "小売業:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "駐車場業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "物品賃貸業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "旅行業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査の「売上(収入)金額」を基に、売上高の総和の目標精度(標準誤差率)を業種分類(産業大分類)・従業者規模区分ごとに(3)に示すとおり目標精度を設定して標本サイズを算出した",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査の調査結果に基づき、基本となる層別に見て極めて大きな「売上高」を有する企業がある場合は、別途層を設け、全数を継続標本(抽出率=1)とした",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "建設業 資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "製造業 資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "中分類37通信業 ：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "中分類40インターネット附随サービス業：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "小分類413新聞業 ：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "小分類414出版業 ：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "運輸業，郵便業 資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "中分類50～55の卸売業 ：資本金1億円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "中分類56～61の小売業 ：資本金5千万円以下又は従業者50人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "小分類693駐車場業 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "中分類70物品賃貸業 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外 ：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "学術研究，専門・技術サービス 資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "中分類75宿泊業 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外 ：資本金5千万円以下又は従業者50人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "小分類791旅行業 ：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業 資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "建設業 資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "製造業 資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "中分類37通信業 ：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "中分類40インターネット附随サービス業：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "小分類413新聞業 ：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "小分類414出版業 ：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "運輸業，郵便業 資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "中分類50～55の卸売業 ：資本金1億円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "中分類56～61の小売業 ：資本金5千万円以下又は従業者50人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "小分類693駐車場業 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "中分類70物品賃貸業 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外 ：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "学術研究，専門・技術サービス 資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "中分類75宿泊業 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外 ：資本金5千万円以下又は従業者50人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "小分類791旅行業 ：資本金3億円以下又は従業者300人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業 資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "小売業:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "駐車場業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "物品賃貸業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "中分類56～61の小売業 ：資本金5千万円以下又は従業者50人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "小分類693駐車場業 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "中分類70物品賃貸業 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "学術研究，専門・技術サービス 資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "中分類75宿泊業 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外 ：資本金5千万円以下又は従業者50人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業 資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "中分類56～61の小売業 ：資本金5千万円以下又は従業者50人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "小分類693駐車場業 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "中分類70物品賃貸業 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "学術研究，専門・技術サービス 資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "中分類75宿泊業 ：資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外 ：資本金5千万円以下又は従業者50人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業 資本金5千万円以下又は従業者100人以下",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "なお、従業者規模50人以上の層の標本サイズについては、当該層を更に資本金規模別（3,000万円未",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "満、3,000万円以上）に分割し、母集団の大きさ（外れ値企業数を除く）を基に按分する",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   },
+   {
+    "quote": "円未満、3,000万円以上）に分割し、基本となる層（・中分類不詳層）・資本金規模別の母集団の大",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "中小企業基本法の規定に基づいて、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するための新たな調査として、平成16年9月に初めて実施",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "4 設備投資とリースの状況 ◎ ◎ ○ ○ ○",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "pass": 3
+   },
+   {
+    "quote": "４ 設備投資とリースの状況 ○ ○ ○ ○ ○",
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "（2025年7月30日）",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.htm",
+    "status": "http_403",
+    "method": "http:seed"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpo.go.jp/resources/statistics/mohou_higai/2018/document/index/0300.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kojinke/qa-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mri-ra.co.jp/recruit/projects/09.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hws-kyokai.or.jp/information/perspective.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei-r.co.jp/news/information/id9409",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://estat-visualizer.com/articles/economy-0003364983/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.speedtest.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-1.htm",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000875161.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jstat.or.jp/mwbhpwp/wp-content/uploads/2022_02_p003-004_0001.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://worker-training.com/back-office/somu/chushokigyo-jittaichousa/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://scratch.mit.edu/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://salesforce.stackexchange.com/questions/360543/reset-local-source-tracking-to-latest-source-tracking-in-scratch-org",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.sanjo.niigata.jp/soshiki/somubu/zaimuka/toukeikeiyaku/kakusyutoukeityousa_1/18376.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upstart.com/login",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upstart.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upstarthelp.upstart.com/security-account-access/sign-in-and-manage-your-loan-in-my-account",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upstart.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keiridriven.mjs.co.jp/180374/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oxleyheard.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oxleyheard.com/team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.legacy.com/funeral-homes/florida/fernandina-beach/oxley-heard-funeral-home/fh-10407",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.echovita.com/us/funeral-homes/fl/fernandina-beach/oxley-heard-funeral-directors-29830",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/MSN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.msn.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.microsoft.com/en-us/msn/welcome-to-the-msn-home-page",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/msn/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.msn.com/en-IN/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://explore.microsoft.com/en-us/msn?form=MT00RX&OCID=MT00RX&cs=2850852386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei-r.co.jp/news/information/20250409",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000343.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/?fr=sycsrp_catchall",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/recent-quotes/?fr=sycsrp_catchall",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.demographic-research.org/articles/volume/32/26",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/277563569_Do_low_survey_response_rates_bias_results_Evidence_from_Japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/statistics/tk/long_syu/tkyoko.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/01/oecd-economic-surveys-japan-2024_9289b572/41e807f9-en.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kikatu/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済構造実態調査・中小企業実態基本調査の標準誤差率と回収率（向きが誤差の幅を超えるか・無回答の偏り・4-44）",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "https://www.jpo.go.jp/resources/statistics/mohou_higai/2018/document/index/0300.pdf",
+    "https://www.stat.go.jp/data/kojinke/qa-2.html",
+    "https://www.mri-ra.co.jp/recruit/projects/09.html",
+    "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "https://www.soumu.go.jp/main_content/000514220.pdf",
+    "https://www.jil.go.jp/column/bn/column106.html",
+    "https://www.hws-kyokai.or.jp/information/perspective.html",
+    "https://www.stat.go.jp/data/kkj/index.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査・中小企業実態基本調査の標準誤差率と回収率（向きが誤差の幅を超えるか・無回答の偏り・4-44） 推移",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.mri-ra.co.jp/recruit/projects/09.html",
+    "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.hws-kyokai.or.jp/information/perspective.html",
+    "https://www.nikkei-r.co.jp/news/information/id9409",
+    "https://estat-visualizer.com/articles/economy-0003364983/",
+    "https://www.speedtest.net/"
+   ]
+  },
+  {
+   "query": "経済構造実態調査・中小企業実態基本調査の標準誤差率と回収率（向きが誤差の幅を超えるか・無回答の偏り・4-44） 統計 PDF",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "https://www.jagat.or.jp/archives/99010",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.soumu.go.jp/main_content/000875161.pdf",
+    "https://www.jstat.or.jp/mwbhpwp/wp-content/uploads/2022_02_p003-004_0001.pdf",
+    "https://worker-training.com/back-office/somu/chushokigyo-jittaichousa/",
+    "https://scratch.mit.edu/"
+   ]
+  },
+  {
+   "query": "経済構造実態調査・中小企業実態基本調査の標準誤差率と回収率（向きが誤差の幅を超えるか・無回答の偏り・4-44） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "https://www.stat.go.jp/data/kojinke/qa-2.html",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://www.mri-ra.co.jp/recruit/projects/09.html",
+    "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "https://www.nikkei-r.co.jp/news/information/id9409",
+    "https://www.city.sanjo.niigata.jp/soshiki/somubu/zaimuka/toukeikeiyaku/kakusyutoukeityousa_1/18376.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.upstart.com/login"
+   ]
+  },
+  {
+   "query": "経済構造実態調査・中小企業実態基本調査の標準誤差率と回収率（向きが誤差の幅を超えるか・無回答の偏り・4-44） 従業者規模別",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.mri-ra.co.jp/recruit/projects/09.html",
+    "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.city.sanjo.niigata.jp/soshiki/somubu/zaimuka/toukeikeiyaku/kakusyutoukeityousa_1/18376.html",
+    "https://keiridriven.mjs.co.jp/180374/",
+    "https://www.soumu.go.jp/main_content/000875161.pdf",
+    "https://www.oxleyheard.com/"
+   ]
+  },
+  {
+   "query": "経済構造実態調査・中小企業実態基本調査の標準誤差率と回収率（向きが誤差の幅を超えるか・無回答の偏り・4-44） 1人当たり 万円",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.mri-ra.co.jp/recruit/projects/09.html",
+    "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "https://www.hws-kyokai.or.jp/information/perspective.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.soumu.go.jp/main_content/000875161.pdf",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://en.wikipedia.org/wiki/MSN"
+   ]
+  },
+  {
+   "query": "経済構造実態調査・中小企業実態基本調査の標準誤差率と回収率（向きが誤差の幅を超えるか・無回答の偏り・4-44） 2015 2025",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "https://www.nikkei-r.co.jp/news/information/20250409",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.hws-kyokai.or.jp/information/perspective.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000343.html",
+    "http://www.etisa.or.jp/kkj-1.htm"
+   ]
+  },
+  {
+   "query": "standard error rate response rate Japan economic structure survey SME basic survey Japan statistics",
+   "results": [
+    "https://www.demographic-research.org/articles/volume/32/26",
+    "https://www.stat.go.jp/english/",
+    "https://www.researchgate.net/publication/277563569_Do_low_survey_response_rates_bias_results_Evidence_from_Japan",
+    "https://www.boj.or.jp/en/statistics/tk/long_syu/tkyoko.htm",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/01/oecd-economic-surveys-japan-2024_9289b572/41e807f9-en.pdf",
+    "https://www.meti.go.jp/english/statistics/tyo/kikatu/index.html",
+    "https://www.consensuseconomics.com/publications/asia-pacific-consensus-forecasts/japan-economic-forecasts/",
+    "https://www.crepe.e.u-tokyo.ac.jp/results/2022/CREPEDP115.pdf",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "https://login.standard.com/"
+   ]
+  },
+  {
+   "query": "site:note.com 経済構造実態調査・中小企業実態基本調査の標準誤差率と回収率（向きが誤差の幅を超えるか・無回答の偏り・4-44）",
+   "results": [
+    "https://note.com/huge_kamaitachi/n/n168b72ba6857",
+    "https://note.com/stocktrading0_ai/n/nf6760ae2f3f0",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result1.html",
+    "https://www.soumu.go.jp/main_content/000709360.pdf",
+    "https://www.soumu.go.jp/main_content/000744048.pdf",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html"
+   ]
+  },
+  {
+   "query": "site:x.com 経済構造実態調査・中小企業実態基本調査の標準誤差率と回収率（向きが誤差の幅を超えるか・無回答の偏り・4-44）",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result1.html",
+    "https://www.soumu.go.jp/main_content/000709360.pdf",
+    "https://www.soumu.go.jp/main_content/000744048.pdf",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/statistics/00553010",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/2026chousa_jishi.html"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 経済構造実態調査・中小企業実態基本調査の標準誤差率と回収率（向きが誤差の幅を超えるか・無回答の偏り・4-44）",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result1.html",
+    "https://www.soumu.go.jp/main_content/000709360.pdf",
+    "https://www.soumu.go.jp/main_content/000744048.pdf",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/statistics/00553010",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/2026chousa_jishi.html"
+   ]
+  },
+  {
+   "query": "site:facebook.com 経済構造実態調査・中小企業実態基本調査の標準誤差率と回収率（向きが誤差の幅を超えるか・無回答の偏り・4-44）",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result1.html",
+    "https://www.soumu.go.jp/main_content/000709360.pdf",
+    "https://www.soumu.go.jp/main_content/000744048.pdf",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/statistics/00553010",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/2026chousa_jishi.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査・中小企業実態基本調査の標準誤差率と回収率（向きが誤差の幅を超えるか・無回答の偏り・4-44） note 社長",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp001",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.mri-ra.co.jp/recruit/projects/09.html",
+    "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.jstat.or.jp/mwbhpwp/wp-content/uploads/2022_02_p003-004_0001.pdf",
+    "https://worker-training.com/back-office/somu/chushokigyo-jittaichousa/",
+    "https://www.meti.go.jp/meti_lib/report/2022FY/000414.pdf",
+    "https://en.wikipedia.org/wiki/List_of_African-American_inventors_and_scientists"
+   ]
+  },
+  {
+   "query": "経済構造実態調査・中小企業実態基本調査の標準誤差率と回収率（向きが誤差の幅を超えるか・無回答の偏り・4-44） X 投稿",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/surveyplan/p00553010001/download/sp003/latest",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.jpo.go.jp/resources/statistics/mohou_higai/2018/document/index/0300.pdf",
+    "https://www.mri-ra.co.jp/recruit/projects/09.html",
+    "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.hws-kyokai.or.jp/information/perspective.html",
+    "https://www.jil.go.jp/column/bn/column106.html",
+    "https://www.reddit.com/r/ucf/comments/wv4cch/issues_with_canvas/"
+   ]
+  },
+  {
+   "query": "standard error rate response rate Japan economic structure survey SME basic survey site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/sandip-sarker-98057a2b",
+    "https://uk.linkedin.com/in/phamhaivan",
+    "https://www.linkedin.com/pulse/self-executing-ai-trade-deals-future-global-commerce-andre-h6wie",
+    "https://www.linkedin.com/pulse/enterprise-ai-operating-system-building-sustainable-scale-nugraha-pgkbc",
+    "https://www.linkedin.com/in/onejeffbean",
+    "https://www.linkedin.com/in/annaschilling1",
+    "https://ca.linkedin.com/in/yukimatsushima",
+    "https://de.linkedin.com/in/elmar-mertens-488658112/de",
+    "https://www.linkedin.com/in/kimberly-tableman",
+    "https://www.linkedin.com/in/nick-hallmark"
+   ]
+  }
+ ],
+ "missing": {
+  "人手と仕事の差": "記載なし（読んだ49頁・検索15回）"
+ }
+}
