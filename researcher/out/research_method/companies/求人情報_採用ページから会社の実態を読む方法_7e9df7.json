@@ -8,7 +8,7 @@
  ],
  "context": "企業",
  "kind": "market",
- "researched_at": "2026-11-05T07:55:07.343184+00:00",
+ "researched_at": "2026-11-05T09:11:08.194100+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -54,22 +54,22 @@
     "method": "browser"
    },
    {
+    "url": "https://biz.note.com/n/ne042982856d1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://marugotoinc.jp/blog/note/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.jp/n/na66380adc503?gs=8d3c04274b24f525fcda25b7c679e2a2",
+    "url": "https://note.jp/n/na66380adc503?gs=48693508036b69b1af4012d29b4be55e",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://mizusaki-inc.com/knowledge/article93",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://biz.note.com/n/ne042982856d1",
     "status": "ok",
     "method": "http"
    },
@@ -144,14 +144,14 @@
     "method": "http"
    },
    {
-    "url": "https://www.reddit.com/r/technicalwriting/comments/16lzcpw/why_are_some_jobs_listed_on_a_jobs_board_but_not/",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
     "url": "https://www.ycombinator.com/companies/infer/jobs",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/technicalwriting/comments/16lzcpw/why_are_some_jobs_listed_on_a_jobs_board_but_not/",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
     "url": "https://apply.workable.com/infer/",
@@ -185,12 +185,12 @@
    "query": "求人情報・採用ページから会社の実態を読む方法 note",
    "results": [
     "https://note.com/sota_career/n/n93ea578f39e8",
-    "https://note.com/try_note_1026/n/n87f70ef36581",
     "https://www.help-note.com/hc/ja/articles/33937437714969-note%E3%81%AB%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%95%E3%81%9B%E3%82%8B-%E9%80%A3%E6%90%BA%E3%81%A7%E3%81%8D%E3%82%8B%E6%8E%A1%E7%94%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%B8%80%E8%A6%A7-ATS%E9%80%A3%E6%90%BA",
+    "https://biz.note.com/n/ne042982856d1",
     "https://marugotoinc.jp/blog/note/",
     "https://note.jp/n/na66380adc503",
     "https://mizusaki-inc.com/knowledge/article93",
-    "https://biz.note.com/n/ne042982856d1",
+    "https://note.com/try_note_1026/n/n87f70ef36581",
     "https://saiyo.migi-nanameue.co.jp/posts-1/note_recruit/",
     "https://www.careermart.co.jp/blog/14811",
     "https://jinzai-tenshokuroot.jp/column/362/"
@@ -231,12 +231,12 @@
    "results": [
     "https://www.infersol.com/career-at-infer-solutions/",
     "https://www.indeed.com/",
-    "https://www.reddit.com/r/technicalwriting/comments/16lzcpw/why_are_some_jobs_listed_on_a_jobs_board_but_not/",
     "https://www.ycombinator.com/companies/infer/jobs",
+    "https://www.reddit.com/r/technicalwriting/comments/16lzcpw/why_are_some_jobs_listed_on_a_jobs_board_but_not/",
     "https://apply.workable.com/infer/",
     "https://www.linkedin.com/company/infer-so",
     "https://theirstack.com/en/job-lookup",
-    "https://www.facebook.com/Indeed/videos/did-you-know-almost-35-million-employers-use-indeed-thats-a-lot-of-job-listings-/1006084177848676/",
+    "https://www.youtube.com/shorts/PzY0vtkQZ5Q",
     "https://builtin.com/",
     "https://vurzel.com/tools/jd-analyzer"
    ]
@@ -247,9 +247,9 @@
     "https://note.com/lucky_daphne262/n/n0aedd82619a8",
     "https://note.com/ready_prawn3804/n/n5ee232f6341e",
     "https://note.com/fond_phlox8789/n/nb7e02d008b33",
+    "https://note.com/try_note_1026/n/n87f70ef36581",
     "https://note.com/sota_career/n/n93ea578f39e8",
     "https://note.com/jinzaikakuho/n/n9d76f814cbbe",
-    "https://note.com/try_note_1026/n/n87f70ef36581",
     "https://note.com/35masataka/n/na7c4ce36e2b1",
     "https://note.com/try_note_1026/n/nb4a79ad783ba",
     "https://note.com/ehimesr/n/nd28143dbff2f",
@@ -264,8 +264,8 @@
     "https://x.com/nocompany_jp",
     "https://x.com/MOJ_IMMI",
     "https://x.com/CSA_recruit",
-    "https://x.com/morimoto_region",
     "https://x.com/ca_tec_des",
+    "https://x.com/morimoto_region",
     "https://x.com/OpenWork_JP",
     "https://x.com/dossun_jack",
     "https://x.com/luigi_jpn/status/2112692683017949491"
@@ -307,12 +307,12 @@
     "https://note.com/sota_career/n/n93ea578f39e8",
     "https://biz.note.com/n/n1169ea18b8be",
     "https://marugotoinc.jp/blog/note/",
-    "https://www.careermart.co.jp/blog/14811",
     "https://note.jp/n/na66380adc503",
-    "https://note.com/robinson_0822/n/n57139c8a158f",
+    "https://note.com/jinzaikakuho/n/n6ac7fa78137e",
+    "https://www.careermart.co.jp/blog/14811",
     "https://saiyo.migi-nanameue.co.jp/posts-1/note_recruit/",
-    "https://www.funnypro.net/officialblog/article/knowhow/867/",
     "https://www.help-note.com/hc/ja/articles/33937437714969-note%E3%81%AB%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%95%E3%81%9B%E3%82%8B-%E9%80%A3%E6%90%BA%E3%81%A7%E3%81%8D%E3%82%8B%E6%8E%A1%E7%94%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%B8%80%E8%A6%A7-ATS%E9%80%A3%E6%90%BA",
+    "https://note.com/try_note_1026/n/n87f70ef36581",
     "https://jinzai-tenshokuroot.jp/column/362/"
    ]
   },
@@ -355,6 +355,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-05T04:38:24.140781+00:00"
 }

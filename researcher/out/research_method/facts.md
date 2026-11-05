@@ -86,6 +86,7 @@
   - 「もちろんプラスになることはあるが、一般的なことでも、何を考え、課題があった際にはどう向き合い、結果どうなったかということが大事です」（https://unistyleinc.com/techniques/1459）
 - 検索結果の抜粋：
   - 「What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsDesk Research: What It Is, Methods & When to Use It | PRSDesk Research: Step-by-Step Guide & Tips | UXAtlasScope and financial impact of unpublished data and unused ...Desk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 」（https://www.meltwater.com/en/blog/desk-research）
+  - 「What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsScope and financial impact of unpublished data and unused ...Desk Research: Step-by-Step Guide & Tips | UXAtlasDesk Research: What It Is, Methods & When to Use It | PRSDesk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 」（https://www.meltwater.com/en/blog/desk-research）
 
 ## 複数の情報源を突き合わせる三角測量（トライアンギュレーション）（triangulation multiple sources research）
 - 文脈：突き合わせ
@@ -566,6 +567,7 @@
   - 「経営効率を飛躍的に向上させる一人当たり売上高を向上させるには、ヒト×テクノロジー×経営戦略の掛け算の上に成り立つということになると思います」（https://d-pops-group.co.jp/column/revenue-per-employee/）
   - 「その為に必要なものが、ヒト×テクノロジー×経営戦略の掛け算であると、ディ・ポップスグループは考えます」（https://d-pops-group.co.jp/column/revenue-per-employee/）
   - 「1つ目は、「AIを使いこなす力」と「顧客を知る力」の掛け算で、FDEを育てること」（https://d-pops-group.co.jp/column/revenue-per-employee/）
+  - 「M&Aや事業ポートフォリオ見直しの効果検証、業界内のベンチマーク、就職活動の企業研究まで幅広く活用されます」（https://kigyo-scope.jp/glossary/profit-per-employee/）
 - 一次情報の探し方：
   - 「備忘録#011｜中小企業庁統計による経営指標」（https://note.com/yajirushi_works/n/nacbfd931b027）
   - 「企業の決算書に「付加価値」という項目はありません」（https://note.com/yajirushi_works/n/nacbfd931b027）
@@ -2527,6 +2529,7 @@
   - 「Revenue Projection Pitfalls To Avoid」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
   - 「Without effective strategies in place, companies are more likely to make forecasting mistakes and calculate inaccurate projections. Newer companies may struggle due to the lack of historical data available. Companies can use competitor information and industry benchmarks to create predictions if there is not enough business-specific data to utilize for a forecast.」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
   - 「Other mistakes businesses should work to avoid include:」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
+  - 「Common Mistakes to Avoid」（https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/）
 - 実例：
   - 「手軽な単発検索でも一括の売上エンリッチメントでも、すぐに結果が返ります」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
   - 「「Not Found」（該当なし）の結果には料金がかからないため、見つからなくてもコストは一切かかりません」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
@@ -2535,6 +2538,8 @@
   - 「Learn what firmographic data is, with clear examples, the core data points, how it differs from demographic and technographic data, and where to get it.」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
   - 「結果はExcelにエクスポートすることも、HubSpot、Salesforce、Zohoに直接送信して、すぐにリードスコアリングやセグメント化に活用することもできます」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
   - 「Accounting and operations teams must align for an accurate forecast. For example, companies using the accrual method with long order-to-cash timelines will not have a sales team’s forecast that aligns with the financials unless it takes into account things like contract terms, billing efficiency, etc.」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
+  - 「Since private company data is inherently uncertain, presenting a range (for example, $8–10 million) is more honest and useful than a single false-precision figure.」（https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/）
+  - 「Practical Example: Putting It All Together」（https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/）
 
 ## 出どころを元までたどり、こだまを束ねる（source triangulation・検証の表）（source triangulation trace to origin echo verbatim numbers validation matrix）
 - 文脈：突き合わせ
@@ -2844,11 +2849,11 @@
 
 ## 統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果（statistical literacy bias types survivorship selection measurement correlation causation）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ26頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 実例：記載なし（読んだ26頁・検索12回）
 
 ## 生産性の分解（内部効果・構成効果・参入退出効果）（productivity decomposition within between entry exit effect）
 - 文脈：突き合わせ・推定
@@ -3027,11 +3032,12 @@
 
 ## 出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件）（Admiralty code source reliability information credibility grading OSINT practice examples）
 - 文脈：突き合わせ・推定
+- 実例：
+  - 「no piece of information is normally of great value on its own. When first received it is like a sentence without its context. Signal intelligence for example, in its raw state is seldom intelligible on its own to anyone but the expert who extracts it or deciphers it… it cannot be read and understood, even when translated, in isolation」（https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/）
 - 手順・やり方：記載なし（読んだ28頁・検索12回）
 - 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
 - 一次情報の探し方：記載なし（読んだ28頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
-- 実例：記載なし（読んだ28頁・検索12回）
 
 ## e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ）（e-Stat practical search techniques statistical code metadata notes）
 - 文脈：探し先・書き手

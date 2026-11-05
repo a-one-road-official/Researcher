@@ -8,7 +8,7 @@
  ],
  "context": "失敗・落とし穴",
  "kind": "market",
- "researched_at": "2026-11-05T08:06:31.787472+00:00",
+ "researched_at": "2026-11-05T09:17:31.767941+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -99,11 +99,6 @@
     "method": "http"
    },
    {
-    "url": "https://papalife-lab.com/%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F%E7%B5%B1%E8%A8%88%E5%AD%A6%E3%81%A7%E6%9C%80%E3%82%82%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E3%80%8C%E5%81%8F/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://growth-marketing.jp/knowledge/causation-correlation/",
     "status": "ok",
     "method": "http"
@@ -115,21 +110,6 @@
    },
    {
     "url": "https://cacco.co.jp/datascience/media/statistics/503/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://best-biostatistics.com/design/bias.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://med.zenhp.co.jp/baiasutoukeitoiokerukatayoritaisaku.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://i-datascience.com/2026/09/20/%E3%80%90%E5%8C%BB%E7%99%82%E7%B5%B1%E8%A8%88%E7%89%88%E3%80%91%E5%AE%9A%E9%87%8F%E7%9A%84%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9%E5%88%86%E6%9E%90%E3%81%A8%E9%99%B0%E6%80%A7%E5%AF%BE%E7%85%A7%EF%BC%9A/",
     "status": "ok",
     "method": "http"
    },
@@ -185,15 +165,14 @@
    "query": "統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果 note",
    "results": [
     "https://note.com/globis_engineers/n/n3f45bc222df8",
-    "https://note.com/reading_monkey/n/n2cfc3066ddd3",
     "https://note.com/transree/n/n7623fbd6f145",
+    "https://note.com/reading_monkey/n/n2cfc3066ddd3",
     "https://wakara.co.jp/mathlog/20260104",
     "https://www.nri.com/jp/knowledge/glossary/causal_inference.html",
-    "https://www.youtube.com/watch?v=LS_lyRqfc2A",
     "https://note.com/reading_monkey/n/naf5fcdef9d99",
+    "https://www.youtube.com/watch?v=LS_lyRqfc2A",
     "https://diamond.jp/articles/-/364379",
-    "https://note.com/lyco_pene/n/n0a98a30418bb",
-    "https://note.com/tasklab_biz/n/n2c27ce5d0f55"
+    "https://www.krsk-phs.com/entry/data_measurement"
    ]
   },
   {
@@ -207,8 +186,7 @@
     "https://note.com/globis_engineers/n/n3f45bc222df8",
     "https://www.statweb.jp/method",
     "https://www.jmp.com/ja/statistics-knowledge-portal/what-is-correlation/correlation-vs-causation",
-    "https://www.macromill.com/service/words/correlation-causation/",
-    "https://papalife-lab.com/バイアスとは何か？統計学で最も注意すべき「偏/"
+    "https://www.macromill.com/service/words/correlation-causation/"
    ]
   },
   {
@@ -222,8 +200,7 @@
     "https://www.macromill.com/service/words/correlation-causation/",
     "https://qiqumo.jp/contents/knowhow/3241",
     "https://diamond.jp/articles/-/364379",
-    "https://cacco.co.jp/datascience/media/statistics/503/",
-    "https://papalife-lab.com/バイアスとは何か？統計学で最も注意すべき「偏/"
+    "https://cacco.co.jp/datascience/media/statistics/503/"
    ]
   },
   {
@@ -237,8 +214,7 @@
     "https://www.youtube.com/watch?v=_tSQySJkhHg",
     "https://www.bellstatistics.com/glossary/selection-bias",
     "https://www.varsitytutors.com/practice/subjects/biostatistics/lessons/bias-and-confounding",
-    "https://thedecisionlab.com/biases/survivorship-bias",
-    "https://en.wikipedia.org/wiki/Survivorship_bias"
+    "https://thedecisionlab.com/biases/survivorship-bias"
    ]
   },
   {
@@ -259,14 +235,7 @@
   {
    "query": "site:x.com 統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果",
    "results": [
-    "https://x.com/searched_press/article/2063829819188752845?lang=ar",
-    "https://x.com/mMEDICI_Inc/article/2069392439442550937",
-    "https://x.com/tokei389950/status/2071881005292765253",
-    "https://x.com/chemi384/status/2090926921458614779",
-    "https://x.com/tokei389950/status/2073891045117665366",
-    "https://x.com/tokei389950/status/2083116848074092953",
-    "https://x.com/tokei389950/status/2098162362633404711",
-    "https://x.com/developer_quant/status/2065407779758825829"
+    "https://x.com/searched_press/article/2063829819188752845?lang=ar"
    ]
   },
   {
@@ -276,14 +245,7 @@
   {
    "query": "site:facebook.com 統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果",
    "results": [
-    "https://www.facebook.com/groups/aiacademy.jp/",
-    "https://www.facebook.com/JMPjpn/photos/-統計をゼロから学べる無料オンラインコース30hほどの動画で統計スキルアップ製造業以外の方にもオススメです-探索的データ解析の基本-品質手法-相関と回帰-実験計/1288283793307773/",
-    "https://www.facebook.com/watch/?v=1510148662838863",
-    "https://www.facebook.com/imakarasuugaku/videos/この動画ではデータの散らばりとは第3回-分布の形を読む統計学をやさしく解説の記事内容を-notebooklm-を使って分かりやすくダイジェストでご紹介します-a/1253590809970893/",
-    "https://www.facebook.com/imakarasuugaku/videos/本動画では和から株式会社が公開した記事データを見る統計グラフ第2回-相関を読む散布図を基にnotebooklmを使って要点をぐっと凝縮しました2つの変数の関係性/1933922237562484/",
-    "https://www.facebook.com/JMPjpn/photos/無料オンライン統計コース約30時間の動画で統計を学んでみませんか個人でチームで活用していただいています️-探索的データ解析の基本️-品質手法️-相関と回帰️-実/1203770398425780/",
-    "https://www.facebook.com/tms.japan/photos/sns拡散中のワクチン効果否定論文を解剖-相関と因果を混同か-専門家が指摘する統計解析の致命的欠陥-対象集団とサンプリングの偏りこの研究はオンライン自己登録によ/24598487779777763/",
-    "https://www.facebook.com/tms.japan/photos/sns拡散中のワクチン効果否定論文を解剖-相関と因果を混同か-専門家が指摘する統計解析の致命的欠陥-対象集団とサンプリングの偏りこの研究はオンライン自己登録によ/24421092940850582/"
+    "https://www.facebook.com/groups/aiacademy.jp/"
    ]
   },
   {
@@ -291,29 +253,27 @@
    "results": [
     "https://note.com/globis_engineers/n/n3f45bc222df8",
     "https://note.com/transree/n/n7623fbd6f145",
-    "https://note.com/reading_monkey/n/naf5fcdef9d99",
     "https://wakara.co.jp/mathlog/20260104",
-    "https://www.nri.com/jp/knowledge/glossary/causal_inference.html",
+    "https://note.com/reading_monkey/n/naf5fcdef9d99",
     "https://www.youtube.com/watch?v=LS_lyRqfc2A",
+    "https://www.nri.com/jp/knowledge/glossary/causal_inference.html",
     "https://www.krsk-phs.com/entry/structural_bias",
     "https://diamond.jp/articles/-/364379",
-    "https://note.com/takaos/n/na9757f5c1b2b",
-    "https://note.com/tasklab_biz/n/n2c27ce5d0f55"
+    "https://note.com/takaos/n/na9757f5c1b2b"
    ]
   },
   {
    "query": "統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果 X 投稿",
    "results": [
-    "https://www.youtube.com/watch?v=G8XVzaMKvgQ",
     "https://note.com/globis_engineers/n/n3f45bc222df8",
+    "https://www.youtube.com/watch?v=LS_lyRqfc2A",
     "https://hkashima.github.io/FSM2018_12.pdf",
     "https://cogpsy.educ.kyoto-u.ac.jp/personal/Kusumi/datasem11/tanaka.pdf",
     "https://www.digitalreactor.net/blog/causal-inference-basics/",
     "https://www.krsk-phs.com/entry/data_measurement",
+    "https://diamond.jp/articles/-/364379",
     "https://www.hungyichen.com/ja/insights/berksons-paradox",
-    "https://healthpolicyhealthecon.wordpress.com/2014/09/30/study-design-overview/",
-    "https://www.youtube.com/watch?v=FqMCUSy5KVw",
-    "https://best-biostatistics.com/design/bias.html"
+    "https://healthpolicyhealthecon.wordpress.com/2014/09/30/study-design-overview/"
    ]
   },
   {
@@ -333,13 +293,13 @@
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
-  "実例": "記載なし（読んだ30頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ26頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ26頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ26頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ26頁・検索12回）",
+  "実例": "記載なし（読んだ26頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-05T08:06:31.787472+00:00"
 }
