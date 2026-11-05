@@ -4218,13 +4218,19 @@
 
 ## 全国鍍金工業組合連合会の自身の公表（組合員数・従業者数・めっき加工の統計・団体でないサイトの写しを除く・4-43）（Japan electroplating industry federation own statistics members employees）
 - 文脈：団体・統計
-- 事業所数・社数：記載なし（読んだ42頁・検索15回）
-- 社員数・平均社員数：記載なし（読んだ42頁・検索15回）
-- 受注金額・加工賃収入：記載なし（読んだ42頁・検索15回）
-- 1人あたり・1社あたり金額：記載なし（読んだ42頁・検索15回）
-- 生産能力・設備：記載なし（読んだ42頁・検索15回）
-- 10年推移：記載なし（読んだ42頁・検索15回）
-- 人手と仕事の差：記載なし（読んだ42頁・検索15回）
+- 社員数・平均社員数：
+  - 「出席者数：２５名（本人出席１５名、委任状出席１０名：清水、伊藤豪、水野（善）、前川、水野（民）、伊藤（亮）、豊田、岩﨑、山田、坂口）」（https://www.plating.or.jp/memberonly/gizi/2502_2.html）
+  - 「(3)プラスチックめっきの申請について（特定技能外国人受け入れ）」（https://www.plating.or.jp/memberonly/gizi/2502_2.html）
+  - 「特定技能外国人制度について、電気めっき業（2464）は受け入れ業種に指定されているが、」（https://www.plating.or.jp/memberonly/gizi/2502_2.html）
+  - 「§４．公益社団法人愛知労働基準協会関係」（https://www.plating.or.jp/memberonly/gizi/2502_2.html）
+- 受注金額・加工賃収入：
+  - 「(2)所属組合員の生産額調査のお願いと速報について」（https://www.plating.or.jp/memberonly/gizi/2502_2.html）
+  - 「調査事項：令和７年１月の生産額の合計」（https://www.plating.or.jp/memberonly/gizi/2502_2.html）
+- 事業所数・社数：記載なし（読んだ23頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ23頁・検索15回）
+- 生産能力・設備：記載なし（読んだ23頁・検索15回）
+- 10年推移：記載なし（読んだ23頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ23頁・検索15回）
 
 ## 毎月勤労統計調査 製造業 事業所規模別 現金給与総額 年平均（共通事業所系列・再集計値・抽出替えの段差をまたがない・給与の下限・4-17・4-43）（Monthly Labour Survey manufacturing establishment size annual average cash earnings common establishments series）
 - 文脈：給与・統計

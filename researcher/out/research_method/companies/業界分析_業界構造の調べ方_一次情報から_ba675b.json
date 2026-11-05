@@ -8,8 +8,960 @@
  ],
  "context": "業界",
  "kind": "market",
- "researched_at": "2026-11-05T17:33:10.638526+00:00",
+ "researched_at": "2026-11-05T19:30:08.737678+00:00",
  "evidence": {
+  "実例": [
+   {
+    "quote": "この記事では、私が企業研究で試行錯誤した結果たどり着いた方法を共有します",
+    "url": "https://note.com/4kodai_student/n/n298d2518aad8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最初から業界全体を完璧に理解しようとするよりも、まずは気になる企業を1社ずつ調べていく方が、結果的に業界への理解も深まると思います",
+    "url": "https://note.com/4kodai_student/n/n298d2518aad8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "こうすると、どの企業を調べても同じ構成の調査結果が出てきます",
+    "url": "https://note.com/4kodai_student/n/n298d2518aad8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日経は毎年「主要商品・サービスの世界シェア調査」を実施しており、その結果が地図に反映されています",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ジョブ選考やケース面接が課される世界なので、早い段階で全体像を掴んでおく価値は大きいはずです",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ケース面接やフェルミ推定の対策本は別に必要ですが、その前提となる業界理解はこの1冊で足ります",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この本はその流れを、開発の実例に沿って追いかけます",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "単に事例を並べるのではなく、収益モデルの型として整理されているため、応用が効きます",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "取り上げられる企業は、既存の大企業から新しいスタートアップまで幅広く、社会性と経済合理性を両立させた事例が多く選ばれています",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "原価率、固定費、回転率、立地といった要素が、実例とともに感覚的に理解できます",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回は、28卒の企業研究を想定して、①ChatGPTの機能の使い分け、②Deep Researchの使い方、③企業研究で最初に渡すべき情報、④そのまま使えるプロンプト、⑤調査結果を志望動機につなげる方法までまとめます",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えばChatGPTに、「三菱商事について企業研究してください」とだけ入力したとします",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、「総合デベロッパーを比較するとき、どんな評価軸を見るべき？」のような問いなら、まず通常チャットで十分です",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、「三菱地所の最新中期経営計画は？」「28卒向けの採用情報は公開されている？」といった確認です",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、「三井不動産・三菱地所・東急不動産を、最新のIR、統合報告書、中期経営計画、採用情報から比較し、志望動機を言い分けられるレベルまで分析する」といった使い方です",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP8：調査結果を読んで、気になる部分を追加で深掘りする",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば計画を見て、「年収の比較は簡潔でいいので、事業戦略をもっと詳しく」「採用サイトだけでなく、人材戦略も見てほしい」「三井不動産と三菱地所の違いを最優先で調べてほしい」「若手社員が実際にどんな仕事をするかも追加してほしい」と修正できます",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、「三井不動産を調べて」ではなく、「28卒の本選考に向けて、三菱地所との差別化ができるレベルまで三井不動産を企業研究したい」と伝える",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、海外で働きたい、事業投資に興味がある、マーケティングをやりたい、若手から裁量を持ちたい、将来的に事業経営をしたい、専門性を作りたい、社会インフラに関わりたい、などです",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば五大商社を調べるなら各商社の公式サイトを優先する",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば三井不動産について何時間調べても、三菱地所を全く調べていなければ、「なぜ三井不動産なのか」は作りにくい",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、ビジネスモデル、事業ポートフォリオ、収益構造、強い事業、競争優位、今後の成長領域、投資方針、海外事業、若手の仕事内容、人材育成、配属、働き方、年収、キャリア、転職先、採用人物像などです",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最後に、「どんな結果が欲しいのか」を指定します",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、「企業概要」「事業ポートフォリオ」「財務」「採用情報」だけしか調べない計画になっていたら、「競合比較をもっと厚くしてください」「投資先や具体的プロジェクトも見てください」「人材戦略と採用サイトを照合してください」「若手社員の仕事内容を追加してください」と変更する",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、統合報告書、有価証券報告書、中期経営計画、決算説明資料、会社説明会資料などをアップロードします",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、ノートに書いた言葉は自分自身の思考の結果ですから、面接でも自然に話しやすくなります",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "たとえば、同じ業界でも顧客ターゲットや強みが全く異なるケースも多いため、企業ごとの「らしさ」を明確に言語化することが求められます",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "結果的に、「この会社じゃないとダメな理由」が言語化しやすくなるので、ESや面接対策にもつながります",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "たとえば、「企業名・魅力に感じたポイント・自分の価値観との共通点・将来やってみたいこと」のように整理すれば、見直しやすくなります",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "現在は「type就活」の事業統括として、「Google Cloud Next '24」への登壇や、Google公式ブログでのデータ活用事例への協力、日本最大級の人事プラットフォーム「HRプロ」等を通じた専門情報の提供など、活動は多岐にわたる",
+    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "締切のような重要な情報は自動で確定させず、内容を承認してから確定する設計なので、抽出結果を鵜呑みにせずに扱える",
+    "url": "https://www.shupass.jp/guides/gyokai-kenkyu-yarikata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "面接では特徴や扱うサービスの形態なども質問されるケースがあるため、しっかりと研究を行いましょう",
+    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、製造分野の団体は新技術の導入や国際貿易の影響、環境規制の更新情報などを提供することがあり、これらの情報は現状理解と将来の展望に不可欠です",
+    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特に「就活四季報」など、専門に扱う本には深い洞察や詳細な事例が掲載されています",
+    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、自動車メーカーを志望する場合、部品メーカー（上流）や自動車販売店（下流）についても調べることで、全体の構造が理解できます",
+    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "『 IT と人材を比較した結果、 IT を選んだ理由』",
+    "url": "https://sinmido-recruit.com/columns/%E6%A5%AD%E7%95%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E5%B0%B1%E6%B4%BB%E3%81%A7%E5%B7%AE%E3%81%8C%E3%81%A4%E3%81%8F%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%A8%E6%95%B4%E7%90%86/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "——自己分析の結果と業界研究の結果を",
+    "url": "https://sinmido-recruit.com/columns/%E6%A5%AD%E7%95%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E5%B0%B1%E6%B4%BB%E3%81%A7%E5%B7%AE%E3%81%8C%E3%81%A4%E3%81%8F%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%A8%E6%95%B4%E7%90%86/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "——『 ◯◯ 業界と △△ 業界を比較した結果、 ◯◯ 業界を選びました",
+    "url": "https://sinmido-recruit.com/columns/%E6%A5%AD%E7%95%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E5%B0%B1%E6%B4%BB%E3%81%A7%E5%B7%AE%E3%81%8C%E3%81%A4%E3%81%8F%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%A8%E6%95%B4%E7%90%86/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 『 IT と人材を比較した結果、より構造的な課題解決ができるコンサル業界を選びました",
+    "url": "https://sinmido-recruit.com/columns/%E6%A5%AD%E7%95%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E5%B0%B1%E6%B4%BB%E3%81%A7%E5%B7%AE%E3%81%8C%E3%81%A4%E3%81%8F%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%A8%E6%95%B4%E7%90%86/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、同じ小売でも、コンビニは出店競争と人手不足が利益を左右しやすく、ドラッグストアは医薬品・調剤の比重や地域戦略がカギになります",
+    "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "結果として、ESの志望動機や面接の深掘りにも耐えやすくなるのです",
+    "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、コンビニ業界を例にすると、”Customer”では「仕事帰りの即食ニーズ」「健康志向」「アプリでの購買行動」など顧客の変化を押さえます",
+    "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、Politicsなら法規制や補助金、Economyなら景気・物価・金利、Societyなら人口動態や価値観、TechnologyならAI・自動化・新素材などが論点になります",
+    "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、サブスク型サービスなら、代替品（無料アプリ等）が多いほどCが強まり、解約率や値下げ圧力の説明がしやすい、というようになります",
+    "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界分析を実際に進める際には、思いつきで検索するのではなく、まず統計や業界団体の資料、企業のIRなど信頼できるデータを集め、その分析結果を自身の就活戦略に落とし込んでいくことが重要です",
+    "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析結果を戦略に落とし込む",
+    "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、「市場が拡大している」「人手不足が深刻」といった事実を、そのまま並べるだけで十分です",
+    "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界分析の事例",
+    "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【自動車業界】の事例",
+    "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【IT業界】の事例",
+    "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大切なのは、集めたデータを更新しながら、分析結果を「どの企業で何に挑みたいか」まで落とし込むこと",
+    "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その結果をSWOTのOpportunity／Threatに落とし込み、企業のStrength／Weaknessと掛け合わせると、志望動機の根拠が作れます",
+    "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "結果として、志望先の絞り込みが速くなり、志望動機や逆質問も“調べた事実”を根拠に具体化できます",
+    "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Examples of Primary and Secondary Research in Marketing",
+    "url": "https://sawtoothsoftware.com/resources/blog/posts/primary-vs-secondary-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "is the process of gathering fresh data directly from its source. This approach offers real-time insights and specific information tailored to specific objectives set by stakeholders. Examples include",
+    "url": "https://sawtoothsoftware.com/resources/blog/posts/primary-vs-secondary-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In the realm of marketing, both primary and secondary research methods play critical roles in understanding market dynamics, consumer behavior, and competitive landscapes. By comparing examples across both methodologies, we can appreciate their unique contributions to strategic decision-making.",
+    "url": "https://sawtoothsoftware.com/resources/blog/posts/primary-vs-secondary-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 1: New Product Development",
+    "url": "https://sawtoothsoftware.com/resources/blog/posts/primary-vs-secondary-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 2: Brand Positioning",
+    "url": "https://sawtoothsoftware.com/resources/blog/posts/primary-vs-secondary-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 3: Market Expansion Strategy",
+    "url": "https://sawtoothsoftware.com/resources/blog/posts/primary-vs-secondary-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その結果、仕事への納得感や満足度が高まると感じています",
+    "url": "https://np-labo.com/archives/episode/202507kiji-02",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、一口に「IT業界」といっても、IT技術そのものを開発する企業もあれば、ITを使って課題解決をサポートするコンサルティング企業もあります",
+    "url": "https://np-labo.com/archives/episode/202507kiji-02",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、金融に興味があるのであれば、銀行や証券だけでなく、クレジットカード・信用販売や保険、暗号資産・ブロックチェーンなどの分野とも接点があることに気づくでしょう",
+    "url": "https://np-labo.com/archives/episode/202507kiji-02",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、食品業界と言っても、原材料を扱う会社と、流通・販売を担う会社では役割も仕事内容もまったく異なります",
+    "url": "https://np-labo.com/archives/episode/202507kiji-02",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、業界企業研究のやり方や『業界地図』、『就職四季報』、有価証券報告書の活用術、新聞の読み方などを紹介する内容です",
+    "url": "https://np-labo.com/archives/episode/202507kiji-02",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、製造業は「ものづくり」のイメージが強いかもしれませんが、今はサービス産業化したり、DXに携わったりと、付加価値を生み出す方向に進化しています",
+    "url": "https://np-labo.com/archives/episode/202507kiji-02",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば「自分の強みが生かせるか」「長く働けそうな環境か」「企業の姿勢や社会課題への向き合い方に共感できるか」などを軸に考えることで、納得のいく選択につながります",
+    "url": "https://np-labo.com/archives/episode/202507kiji-02",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "「高学歴じゃなくても、考え方とツールの使い方次第で戦える」をテーマに発信しています",
+    "url": "https://note.com/4kodai_student/n/n298d2518aad8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事では、私が企業研究で試行錯誤した結果たどり着いた方法を共有します",
+    "url": "https://note.com/4kodai_student/n/n298d2518aad8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AIを使って企業の情報を構造的に集め、複数の企業を比較できるようにするやり方です",
+    "url": "https://note.com/4kodai_student/n/n298d2518aad8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "私がやった企業研究の方法：AIで「調べるべきこと」を構造化した",
+    "url": "https://note.com/4kodai_student/n/n298d2518aad8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここからは、私が実際にやった企業研究の方法についてお話しします",
+    "url": "https://note.com/4kodai_student/n/n298d2518aad8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "就活での考え方とAIの使い方を書いてます",
+    "url": "https://note.com/4kodai_student/n/n298d2518aad8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界をまたいで「どう儲けているか」の型を学ぶ層です",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この章では、業界研究そのもののやり方から教えてくれる入門書を集めました",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2026年2月刊行のムックで、通常版から就活に必要な部分を抜き出し、業界研究のやり方の解説を足した構成になっています",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A4変型の大判で図版が大きく、電車の中で開くのは少し勇気が要りますが、机に広げて業界を比較する使い方には向いています",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "夏のインターン選考から本選考へ移る時期に、最新の情報を補充する目的で買い足す使い方もできます",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "使い方のコツは、通読しないことです",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ES提出直前や面接前日に該当ページだけ開き直す使い方が、いちばん費用対効果が高くなります",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "NA（回答拒否）表記の多さから企業の姿勢を読み取る、という使い方も定番です",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "読み方のコツは、NAの扱いにあります",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「データ集」ではなく「やり方の教科書」",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前半では、業界研究の進め方、企業の絞り込み方、四季報データの読み解き方が、ワークシート形式で解説されます",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "244ページ・見開き完結型なので、志望度の高い業態から拾い読みができます",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日本企業が内視鏡や画像診断で世界的なシェアを持つ一方、大型の治療機器では海外勢が優位という構図も明快です",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "小型衛星のコンステレーション、衛星データの農業・保険への応用、打ち上げコストの劇的な低下といったテーマが、事業としての採算性とともに語られます",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最後は、業界の枠を越えて「稼ぎ方の型」を学ぶ層です",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【28卒】ChatGPTで企業研究する方法｜Deep Researchの使い方からコピペ用プロンプトまで｜CAREER DECODE｜28卒就活・企業研究",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【28卒】ChatGPTで企業研究する方法｜Deep Researchの使い方からコピペ用プロンプトまで",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特に、一社を本格的に調べたり、同業他社まで横断して比較したりする場合は、通常のチャットだけでなく「Deep Research」を使うと企業研究のやり方が大きく変わります",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回は、28卒の企業研究を想定して、①ChatGPTの機能の使い分け、②Deep Researchの使い方、③企業研究で最初に渡すべき情報、④そのまま使えるプロンプト、⑤調査結果を志望動機につなげる方法までまとめます",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、「三井不動産・三菱地所・東急不動産を、最新のIR、統合報告書、中期経営計画、採用情報から比較し、志望動機を言い分けられるレベルまで分析する」といった使い方です",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP1：Deep Researchを選ぶ",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP2：何を知りたいかを伝える",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP3：比較企業・評価軸・自分のキャリア軸を伝える",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP4：企業公式サイトやIRなど、優先してほしい情報源を指定する",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP5：必要なら統合報告書や説明会資料をアップロードする",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP6：ChatGPTが作った調査計画を確認する",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP7：不足している論点があれば調査開始前に修正する",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP8：調査結果を読んで、気になる部分を追加で深掘りする",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP9：最後に自分の経験・価値観と接続する",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特に重要なのがSTEP6です",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【例付き】業界研究ノートのやり方｜就活に効くまとめ方とは？ | 就活マガジン",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【例付き】業界研究ノートのやり方｜就活に効くまとめ方とは？",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界研究ノートのやり方をゼロから丁寧に解説",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "作成の目的やメリット、具体的な書き方、活用のコツに加え、実際の記入例まで紹介",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界研究ノートのやり方を理解しよう！",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "③ 就活の進め方に不安を感じている人",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "就活で差がつく「業界研究ノート」のやり方を理解しよう！",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "考えを加えることが、業界選びの精度を高めるコツ",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自分なりの就活の軸を見つける方法を、以下の記事で確認してみてくださいね",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "就活の軸とは？見つけ方・差別化するコツと例文105選を紹介",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "就活の進め方に不安を感じている人",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "就活エージェントおすすめ比較｜総合型・特化型別に人気ランキングを徹底解説【2027卒対応】",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "就職四季報は就活に有益！使い方と得られる情報を詳しく解説",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでは、ノートを効果的に活用するための5つのステップを紹介します",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ①：業界全体の概要を調べる",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "すぐできる！業界研究のやり方・徹底解説｜就活＜28卒＞ | type就活",
+    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "すぐできる！業界研究のやり方・徹底解説｜就活＜28卒＞",
+    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界研究のやり方5ステップ｜いつから始めるべき？",
+    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "先輩の就活体験談（実際の業界研究方法も！）",
+    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事では、そんな就活のお悩みを解決すべく、業界研究のやり方を徹底的に解説しています！",
+    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "以下の5ステップに沿って進めれば、無駄なく最短ルートで業界の本質を掴むことができます",
+    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 1. 気になる業界を3つほど選ぶ",
+    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最初に視野を広げることが、隠れた優良業界に出会うコツです",
+    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 2. 業界の【ビジネスモデル】を解剖する",
+    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "単に事例を並べるのではなく、収益モデルの型として整理されているため、応用が効きます",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ⑤：ESや面接に活かせるようにまとめ直す",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、企業について分析する方法については、他にもいくつかポイントがあります",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "理解をさらに深めるために集めるべき情報や企業同士を比較する方法など、企業研究について具体的に解説しているので、ぜひこちらの記事も読んでみてくださいね",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業研究のやり方5ステップ｜情報収集から企業分析ノート作成まで今すぐ動ける手順",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 3. 業界内の立ち位置を把握する",
+    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 4. 主要企業ごとの特徴を比較する",
+    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 5. 業界の課題やトレンドを把握する",
+    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上記のうち、あなたに合った方法で情報収集をしていきましょう！",
+    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "興味のある業界が決まっており、深く情報を知りたい、という方は、この方法で情報収集をしていきましょう",
+    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際に行っていた業界研究だけでなく、就活開始時期や効果的な自己分析方法について、実体験をもとにまとめています",
+    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界研究のやり方｜業界の絞り方と企業研究との違い | 就活Pass",
+    "url": "https://www.shupass.jp/guides/gyokai-kenkyu-yarikata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界研究のやり方 — 業界の絞り方と、企業研究への進め方",
+    "url": "https://www.shupass.jp/guides/gyokai-kenkyu-yarikata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業研究との違いから、俯瞰・深掘りの手順、一次情報の使い方までを順に整理しました",
+    "url": "https://www.shupass.jp/guides/gyokai-kenkyu-yarikata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界研究の手順 — 俯瞰してから、一つに潜る",
+    "url": "https://www.shupass.jp/guides/gyokai-kenkyu-yarikata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "進め方に迷ったら、広い視点から狭い視点へ、次の4段階で降りていくと迷いにくい",
+    "url": "https://www.shupass.jp/guides/gyokai-kenkyu-yarikata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調べた業界・企業の情報を整理する方法はありますか？",
+    "url": "https://www.shupass.jp/guides/gyokai-kenkyu-yarikata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【就活前の大学生へ】業界研究のポイントと情報収集のコツ | UIわかやま就職ガイド",
+    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【就活前の大学生へ】業界研究のポイントと情報収集のコツ",
+    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界研究は就活において非常に重要なステップですが、やり方が分からず不安を感じる学生も多いはずです",
+    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、基本から具体的なポイント、効率的な情報収集のコツまで、就活を成功させるために必要な知識を詳しく解説します",
+    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界分析フレームワークを多角的視点で解剖！メリットと実施方法を紹介 | ビズリーチ・キャンパス | ビズリーチ・キャンパス",
+    "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界分析フレームワークを多角的視点で解剖！メリットと実施方法を紹介 | ビズリーチ・キャンパス",
+    "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そんなとき役に立つのが、業界分析フレームワークです",
+    "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場規模や成長性だけでなく、競争環境、参入障壁、顧客の変化、収益構造などを“同じ型”で整理できるため、情報の抜け漏れや思い込みを減らせます",
+    "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際の就職活動に役立てるには、視点や記述方法に注意する必要があるでしょう",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "何から始めてどう進めるか分からない人向けに、具体的なステップを紹介します",
+    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP1 どんな業界があるのかを把握する",
+    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP2 各業界の特徴を調べる",
+    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP3 自己分析を行う",
+    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP4 興味を持った業界の成長性や企業を調べる",
+    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "地方での就職を考えている学生は、こうした地域特化型の情報サイトも活用しましょう",
+    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "この2つの目的から逆算すると、調べるべき情報はある程度絞れます",
@@ -98,6 +1050,140 @@
    {
     "quote": "③自分の仮説が崩れていないか",
     "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "業界研究でよくある失敗と、その対策",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "❌ 失敗1：業界地図を1ページ目から読もうとする",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "❌ 失敗2：最新版でない本を使う",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "❌ 失敗3：業界研究を自己分析と切り離す",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "❌ 失敗4：本だけで完結させる",
+    "url": "https://note.com/tasuto11/n/n3d32991f6192",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【調査上の注意】",
+    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界研究ノート作成時の注意点",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "結果的に、「この会社じゃないとダメな理由」が言語化しやすくなるので、ESや面接対策にもつながります",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際の就職活動に役立てるには、視点や記述方法に注意する必要があるでしょう",
+    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「なぜ似たような別の業界ではダメなのか？」という面接官の鋭い質問に答えられる準備をします（例：銀行ではなく、なぜ信託銀行なのか？）",
+    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、情報の信頼性や正確性には注意が必要です",
+    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、個々の経験や主観に基づく情報もあるため、全てを鵜呑みにせず、自分なりに検証することが重要です",
+    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "年間20件以上の就活イベント運営や、東北大・京大などの現役インターン生との日常的な対話から、AIでは汲み取れない「今の学生が直面するリアルな葛藤や失敗談」を直接ヒアリング",
+    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "単なるノウハウ提供に留まらず、自身の失敗経験や現場での一次情報を交え 、最新の就活トレンドと検索意図の両面から、就活生が「納得感のある決断」を下せるために、就活生に「今、本当に必要な情報」を届けている",
+    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界研究は情報の集めやすさが落とし穴になる",
+    "url": "https://www.shupass.jp/guides/gyokai-kenkyu-yarikata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "締切のような重要な情報は自動で確定させず、内容を承認してから確定する設計なので、抽出結果を鵜呑みにせずに扱える",
+    "url": "https://www.shupass.jp/guides/gyokai-kenkyu-yarikata",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "注意点として、職種名は求人情報の掲載機関や企業ごとによって違いがあります",
+    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界分析における注意点",
+    "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界分析で起きやすいのが、「最初に抱いた印象に合う情報だけ集めてしまう」偏りです（いわゆる確証バイアス）",
+    "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【インターンの質問メール】正しい書き方と例文や注意点も公開",
+    "url": "https://br-campus.jp/articles/report/2408",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "biases",
+    "url": "https://sawtoothsoftware.com/resources/blog/posts/primary-vs-secondary-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "- Risk of biased data if not properly designed and executed",
+    "url": "https://sawtoothsoftware.com/resources/blog/posts/primary-vs-secondary-research",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -619,1056 +1705,6 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "「高学歴じゃなくても、考え方とツールの使い方次第で戦える」をテーマに発信しています",
-    "url": "https://note.com/4kodai_student/n/n298d2518aad8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事では、私が企業研究で試行錯誤した結果たどり着いた方法を共有します",
-    "url": "https://note.com/4kodai_student/n/n298d2518aad8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AIを使って企業の情報を構造的に集め、複数の企業を比較できるようにするやり方です",
-    "url": "https://note.com/4kodai_student/n/n298d2518aad8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "私がやった企業研究の方法：AIで「調べるべきこと」を構造化した",
-    "url": "https://note.com/4kodai_student/n/n298d2518aad8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここからは、私が実際にやった企業研究の方法についてお話しします",
-    "url": "https://note.com/4kodai_student/n/n298d2518aad8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "就活での考え方とAIの使い方を書いてます",
-    "url": "https://note.com/4kodai_student/n/n298d2518aad8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界をまたいで「どう儲けているか」の型を学ぶ層です",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この章では、業界研究そのもののやり方から教えてくれる入門書を集めました",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2026年2月刊行のムックで、通常版から就活に必要な部分を抜き出し、業界研究のやり方の解説を足した構成になっています",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A4変型の大判で図版が大きく、電車の中で開くのは少し勇気が要りますが、机に広げて業界を比較する使い方には向いています",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "夏のインターン選考から本選考へ移る時期に、最新の情報を補充する目的で買い足す使い方もできます",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "使い方のコツは、通読しないことです",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ES提出直前や面接前日に該当ページだけ開き直す使い方が、いちばん費用対効果が高くなります",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "NA（回答拒否）表記の多さから企業の姿勢を読み取る、という使い方も定番です",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "読み方のコツは、NAの扱いにあります",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「データ集」ではなく「やり方の教科書」",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "前半では、業界研究の進め方、企業の絞り込み方、四季報データの読み解き方が、ワークシート形式で解説されます",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "244ページ・見開き完結型なので、志望度の高い業態から拾い読みができます",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日本企業が内視鏡や画像診断で世界的なシェアを持つ一方、大型の治療機器では海外勢が優位という構図も明快です",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "小型衛星のコンステレーション、衛星データの農業・保険への応用、打ち上げコストの劇的な低下といったテーマが、事業としての採算性とともに語られます",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最後は、業界の枠を越えて「稼ぎ方の型」を学ぶ層です",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【28卒】ChatGPTで企業研究する方法｜Deep Researchの使い方からコピペ用プロンプトまで｜CAREER DECODE｜28卒就活・企業研究",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【28卒】ChatGPTで企業研究する方法｜Deep Researchの使い方からコピペ用プロンプトまで",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に、一社を本格的に調べたり、同業他社まで横断して比較したりする場合は、通常のチャットだけでなく「Deep Research」を使うと企業研究のやり方が大きく変わります",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回は、28卒の企業研究を想定して、①ChatGPTの機能の使い分け、②Deep Researchの使い方、③企業研究で最初に渡すべき情報、④そのまま使えるプロンプト、⑤調査結果を志望動機につなげる方法までまとめます",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、「三井不動産・三菱地所・東急不動産を、最新のIR、統合報告書、中期経営計画、採用情報から比較し、志望動機を言い分けられるレベルまで分析する」といった使い方です",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "STEP1：Deep Researchを選ぶ",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "STEP2：何を知りたいかを伝える",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "STEP3：比較企業・評価軸・自分のキャリア軸を伝える",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "STEP4：企業公式サイトやIRなど、優先してほしい情報源を指定する",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "STEP5：必要なら統合報告書や説明会資料をアップロードする",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "STEP6：ChatGPTが作った調査計画を確認する",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "STEP7：不足している論点があれば調査開始前に修正する",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "STEP8：調査結果を読んで、気になる部分を追加で深掘りする",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "STEP9：最後に自分の経験・価値観と接続する",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に重要なのがSTEP6です",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【例付き】業界研究ノートのやり方｜就活に効くまとめ方とは？ | 就活マガジン",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【例付き】業界研究ノートのやり方｜就活に効くまとめ方とは？",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界研究ノートのやり方をゼロから丁寧に解説",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "作成の目的やメリット、具体的な書き方、活用のコツに加え、実際の記入例まで紹介",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界研究ノートのやり方を理解しよう！",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "③ 就活の進め方に不安を感じている人",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "就活で差がつく「業界研究ノート」のやり方を理解しよう！",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "考えを加えることが、業界選びの精度を高めるコツ",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "自分なりの就活の軸を見つける方法を、以下の記事で確認してみてくださいね",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "就活の軸とは？見つけ方・差別化するコツと例文105選を紹介",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "就活の進め方に不安を感じている人",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "就活エージェントおすすめ比較｜総合型・特化型別に人気ランキングを徹底解説【2027卒対応】",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "就職四季報は就活に有益！使い方と得られる情報を詳しく解説",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここでは、ノートを効果的に活用するための5つのステップを紹介します",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ①：業界全体の概要を調べる",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "すぐできる！業界研究のやり方・徹底解説｜就活＜28卒＞ | type就活",
-    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "すぐできる！業界研究のやり方・徹底解説｜就活＜28卒＞",
-    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界研究のやり方5ステップ｜いつから始めるべき？",
-    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "先輩の就活体験談（実際の業界研究方法も！）",
-    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事では、そんな就活のお悩みを解決すべく、業界研究のやり方を徹底的に解説しています！",
-    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "以下の5ステップに沿って進めれば、無駄なく最短ルートで業界の本質を掴むことができます",
-    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 1. 気になる業界を3つほど選ぶ",
-    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最初に視野を広げることが、隠れた優良業界に出会うコツです",
-    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 2. 業界の【ビジネスモデル】を解剖する",
-    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "単に事例を並べるのではなく、収益モデルの型として整理されているため、応用が効きます",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ⑤：ESや面接に活かせるようにまとめ直す",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、企業について分析する方法については、他にもいくつかポイントがあります",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "理解をさらに深めるために集めるべき情報や企業同士を比較する方法など、企業研究について具体的に解説しているので、ぜひこちらの記事も読んでみてくださいね",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業研究のやり方5ステップ｜情報収集から企業分析ノート作成まで今すぐ動ける手順",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 3. 業界内の立ち位置を把握する",
-    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 4. 主要企業ごとの特徴を比較する",
-    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 5. 業界の課題やトレンドを把握する",
-    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上記のうち、あなたに合った方法で情報収集をしていきましょう！",
-    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "興味のある業界が決まっており、深く情報を知りたい、という方は、この方法で情報収集をしていきましょう",
-    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実際に行っていた業界研究だけでなく、就活開始時期や効果的な自己分析方法について、実体験をもとにまとめています",
-    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界研究のやり方｜業界の絞り方と企業研究との違い | 就活Pass",
-    "url": "https://www.shupass.jp/guides/gyokai-kenkyu-yarikata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界研究のやり方 — 業界の絞り方と、企業研究への進め方",
-    "url": "https://www.shupass.jp/guides/gyokai-kenkyu-yarikata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業研究との違いから、俯瞰・深掘りの手順、一次情報の使い方までを順に整理しました",
-    "url": "https://www.shupass.jp/guides/gyokai-kenkyu-yarikata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界研究の手順 — 俯瞰してから、一つに潜る",
-    "url": "https://www.shupass.jp/guides/gyokai-kenkyu-yarikata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "進め方に迷ったら、広い視点から狭い視点へ、次の4段階で降りていくと迷いにくい",
-    "url": "https://www.shupass.jp/guides/gyokai-kenkyu-yarikata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調べた業界・企業の情報を整理する方法はありますか？",
-    "url": "https://www.shupass.jp/guides/gyokai-kenkyu-yarikata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【就活前の大学生へ】業界研究のポイントと情報収集のコツ | UIわかやま就職ガイド",
-    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【就活前の大学生へ】業界研究のポイントと情報収集のコツ",
-    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界研究は就活において非常に重要なステップですが、やり方が分からず不安を感じる学生も多いはずです",
-    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、基本から具体的なポイント、効率的な情報収集のコツまで、就活を成功させるために必要な知識を詳しく解説します",
-    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界分析フレームワークを多角的視点で解剖！メリットと実施方法を紹介 | ビズリーチ・キャンパス | ビズリーチ・キャンパス",
-    "url": "https://br-campus.jp/articles/report/2408",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界分析フレームワークを多角的視点で解剖！メリットと実施方法を紹介 | ビズリーチ・キャンパス",
-    "url": "https://br-campus.jp/articles/report/2408",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そんなとき役に立つのが、業界分析フレームワークです",
-    "url": "https://br-campus.jp/articles/report/2408",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "市場規模や成長性だけでなく、競争環境、参入障壁、顧客の変化、収益構造などを“同じ型”で整理できるため、情報の抜け漏れや思い込みを減らせます",
-    "url": "https://br-campus.jp/articles/report/2408",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実際の就職活動に役立てるには、視点や記述方法に注意する必要があるでしょう",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "この記事では、私が企業研究で試行錯誤した結果たどり着いた方法を共有します",
-    "url": "https://note.com/4kodai_student/n/n298d2518aad8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最初から業界全体を完璧に理解しようとするよりも、まずは気になる企業を1社ずつ調べていく方が、結果的に業界への理解も深まると思います",
-    "url": "https://note.com/4kodai_student/n/n298d2518aad8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "こうすると、どの企業を調べても同じ構成の調査結果が出てきます",
-    "url": "https://note.com/4kodai_student/n/n298d2518aad8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日経は毎年「主要商品・サービスの世界シェア調査」を実施しており、その結果が地図に反映されています",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ジョブ選考やケース面接が課される世界なので、早い段階で全体像を掴んでおく価値は大きいはずです",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ケース面接やフェルミ推定の対策本は別に必要ですが、その前提となる業界理解はこの1冊で足ります",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この本はその流れを、開発の実例に沿って追いかけます",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "単に事例を並べるのではなく、収益モデルの型として整理されているため、応用が効きます",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "取り上げられる企業は、既存の大企業から新しいスタートアップまで幅広く、社会性と経済合理性を両立させた事例が多く選ばれています",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "原価率、固定費、回転率、立地といった要素が、実例とともに感覚的に理解できます",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回は、28卒の企業研究を想定して、①ChatGPTの機能の使い分け、②Deep Researchの使い方、③企業研究で最初に渡すべき情報、④そのまま使えるプロンプト、⑤調査結果を志望動機につなげる方法までまとめます",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えばChatGPTに、「三菱商事について企業研究してください」とだけ入力したとします",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、「総合デベロッパーを比較するとき、どんな評価軸を見るべき？」のような問いなら、まず通常チャットで十分です",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、「三菱地所の最新中期経営計画は？」「28卒向けの採用情報は公開されている？」といった確認です",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、「三井不動産・三菱地所・東急不動産を、最新のIR、統合報告書、中期経営計画、採用情報から比較し、志望動機を言い分けられるレベルまで分析する」といった使い方です",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "STEP8：調査結果を読んで、気になる部分を追加で深掘りする",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば計画を見て、「年収の比較は簡潔でいいので、事業戦略をもっと詳しく」「採用サイトだけでなく、人材戦略も見てほしい」「三井不動産と三菱地所の違いを最優先で調べてほしい」「若手社員が実際にどんな仕事をするかも追加してほしい」と修正できます",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、「三井不動産を調べて」ではなく、「28卒の本選考に向けて、三菱地所との差別化ができるレベルまで三井不動産を企業研究したい」と伝える",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、海外で働きたい、事業投資に興味がある、マーケティングをやりたい、若手から裁量を持ちたい、将来的に事業経営をしたい、専門性を作りたい、社会インフラに関わりたい、などです",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば五大商社を調べるなら各商社の公式サイトを優先する",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば三井不動産について何時間調べても、三菱地所を全く調べていなければ、「なぜ三井不動産なのか」は作りにくい",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、ビジネスモデル、事業ポートフォリオ、収益構造、強い事業、競争優位、今後の成長領域、投資方針、海外事業、若手の仕事内容、人材育成、配属、働き方、年収、キャリア、転職先、採用人物像などです",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最後に、「どんな結果が欲しいのか」を指定します",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、「企業概要」「事業ポートフォリオ」「財務」「採用情報」だけしか調べない計画になっていたら、「競合比較をもっと厚くしてください」「投資先や具体的プロジェクトも見てください」「人材戦略と採用サイトを照合してください」「若手社員の仕事内容を追加してください」と変更する",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、統合報告書、有価証券報告書、中期経営計画、決算説明資料、会社説明会資料などをアップロードします",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、ノートに書いた言葉は自分自身の思考の結果ですから、面接でも自然に話しやすくなります",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "たとえば、同じ業界でも顧客ターゲットや強みが全く異なるケースも多いため、企業ごとの「らしさ」を明確に言語化することが求められます",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "結果的に、「この会社じゃないとダメな理由」が言語化しやすくなるので、ESや面接対策にもつながります",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "たとえば、「企業名・魅力に感じたポイント・自分の価値観との共通点・将来やってみたいこと」のように整理すれば、見直しやすくなります",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "現在は「type就活」の事業統括として、「Google Cloud Next '24」への登壇や、Google公式ブログでのデータ活用事例への協力、日本最大級の人事プラットフォーム「HRプロ」等を通じた専門情報の提供など、活動は多岐にわたる",
-    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "締切のような重要な情報は自動で確定させず、内容を承認してから確定する設計なので、抽出結果を鵜呑みにせずに扱える",
-    "url": "https://www.shupass.jp/guides/gyokai-kenkyu-yarikata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "面接では特徴や扱うサービスの形態なども質問されるケースがあるため、しっかりと研究を行いましょう",
-    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、製造分野の団体は新技術の導入や国際貿易の影響、環境規制の更新情報などを提供することがあり、これらの情報は現状理解と将来の展望に不可欠です",
-    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に「就活四季報」など、専門に扱う本には深い洞察や詳細な事例が掲載されています",
-    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、自動車メーカーを志望する場合、部品メーカー（上流）や自動車販売店（下流）についても調べることで、全体の構造が理解できます",
-    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "『 IT と人材を比較した結果、 IT を選んだ理由』",
-    "url": "https://sinmido-recruit.com/columns/%E6%A5%AD%E7%95%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E5%B0%B1%E6%B4%BB%E3%81%A7%E5%B7%AE%E3%81%8C%E3%81%A4%E3%81%8F%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%A8%E6%95%B4%E7%90%86/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "——自己分析の結果と業界研究の結果を",
-    "url": "https://sinmido-recruit.com/columns/%E6%A5%AD%E7%95%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E5%B0%B1%E6%B4%BB%E3%81%A7%E5%B7%AE%E3%81%8C%E3%81%A4%E3%81%8F%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%A8%E6%95%B4%E7%90%86/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "——『 ◯◯ 業界と △△ 業界を比較した結果、 ◯◯ 業界を選びました",
-    "url": "https://sinmido-recruit.com/columns/%E6%A5%AD%E7%95%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E5%B0%B1%E6%B4%BB%E3%81%A7%E5%B7%AE%E3%81%8C%E3%81%A4%E3%81%8F%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%A8%E6%95%B4%E7%90%86/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 『 IT と人材を比較した結果、より構造的な課題解決ができるコンサル業界を選びました",
-    "url": "https://sinmido-recruit.com/columns/%E6%A5%AD%E7%95%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E5%B0%B1%E6%B4%BB%E3%81%A7%E5%B7%AE%E3%81%8C%E3%81%A4%E3%81%8F%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%A8%E6%95%B4%E7%90%86/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、同じ小売でも、コンビニは出店競争と人手不足が利益を左右しやすく、ドラッグストアは医薬品・調剤の比重や地域戦略がカギになります",
-    "url": "https://br-campus.jp/articles/report/2408",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "結果として、ESの志望動機や面接の深掘りにも耐えやすくなるのです",
-    "url": "https://br-campus.jp/articles/report/2408",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、コンビニ業界を例にすると、”Customer”では「仕事帰りの即食ニーズ」「健康志向」「アプリでの購買行動」など顧客の変化を押さえます",
-    "url": "https://br-campus.jp/articles/report/2408",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、Politicsなら法規制や補助金、Economyなら景気・物価・金利、Societyなら人口動態や価値観、TechnologyならAI・自動化・新素材などが論点になります",
-    "url": "https://br-campus.jp/articles/report/2408",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、サブスク型サービスなら、代替品（無料アプリ等）が多いほどCが強まり、解約率や値下げ圧力の説明がしやすい、というようになります",
-    "url": "https://br-campus.jp/articles/report/2408",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界分析を実際に進める際には、思いつきで検索するのではなく、まず統計や業界団体の資料、企業のIRなど信頼できるデータを集め、その分析結果を自身の就活戦略に落とし込んでいくことが重要です",
-    "url": "https://br-campus.jp/articles/report/2408",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析結果を戦略に落とし込む",
-    "url": "https://br-campus.jp/articles/report/2408",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、「市場が拡大している」「人手不足が深刻」といった事実を、そのまま並べるだけで十分です",
-    "url": "https://br-campus.jp/articles/report/2408",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界分析の事例",
-    "url": "https://br-campus.jp/articles/report/2408",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【自動車業界】の事例",
-    "url": "https://br-campus.jp/articles/report/2408",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【IT業界】の事例",
-    "url": "https://br-campus.jp/articles/report/2408",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "大切なのは、集めたデータを更新しながら、分析結果を「どの企業で何に挑みたいか」まで落とし込むこと",
-    "url": "https://br-campus.jp/articles/report/2408",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その結果をSWOTのOpportunity／Threatに落とし込み、企業のStrength／Weaknessと掛け合わせると、志望動機の根拠が作れます",
-    "url": "https://br-campus.jp/articles/report/2408",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "結果として、志望先の絞り込みが速くなり、志望動機や逆質問も“調べた事実”を根拠に具体化できます",
-    "url": "https://br-campus.jp/articles/report/2408",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Examples of Primary and Secondary Research in Marketing",
-    "url": "https://sawtoothsoftware.com/resources/blog/posts/primary-vs-secondary-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "is the process of gathering fresh data directly from its source. This approach offers real-time insights and specific information tailored to specific objectives set by stakeholders. Examples include",
-    "url": "https://sawtoothsoftware.com/resources/blog/posts/primary-vs-secondary-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In the realm of marketing, both primary and secondary research methods play critical roles in understanding market dynamics, consumer behavior, and competitive landscapes. By comparing examples across both methodologies, we can appreciate their unique contributions to strategic decision-making.",
-    "url": "https://sawtoothsoftware.com/resources/blog/posts/primary-vs-secondary-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example 1: New Product Development",
-    "url": "https://sawtoothsoftware.com/resources/blog/posts/primary-vs-secondary-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example 2: Brand Positioning",
-    "url": "https://sawtoothsoftware.com/resources/blog/posts/primary-vs-secondary-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example 3: Market Expansion Strategy",
-    "url": "https://sawtoothsoftware.com/resources/blog/posts/primary-vs-secondary-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その結果、仕事への納得感や満足度が高まると感じています",
-    "url": "https://np-labo.com/archives/episode/202507kiji-02",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、一口に「IT業界」といっても、IT技術そのものを開発する企業もあれば、ITを使って課題解決をサポートするコンサルティング企業もあります",
-    "url": "https://np-labo.com/archives/episode/202507kiji-02",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、金融に興味があるのであれば、銀行や証券だけでなく、クレジットカード・信用販売や保険、暗号資産・ブロックチェーンなどの分野とも接点があることに気づくでしょう",
-    "url": "https://np-labo.com/archives/episode/202507kiji-02",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、食品業界と言っても、原材料を扱う会社と、流通・販売を担う会社では役割も仕事内容もまったく異なります",
-    "url": "https://np-labo.com/archives/episode/202507kiji-02",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、業界企業研究のやり方や『業界地図』、『就職四季報』、有価証券報告書の活用術、新聞の読み方などを紹介する内容です",
-    "url": "https://np-labo.com/archives/episode/202507kiji-02",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、製造業は「ものづくり」のイメージが強いかもしれませんが、今はサービス産業化したり、DXに携わったりと、付加価値を生み出す方向に進化しています",
-    "url": "https://np-labo.com/archives/episode/202507kiji-02",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば「自分の強みが生かせるか」「長く働けそうな環境か」「企業の姿勢や社会課題への向き合い方に共感できるか」などを軸に考えることで、納得のいく選択につながります",
-    "url": "https://np-labo.com/archives/episode/202507kiji-02",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "業界研究でよくある失敗と、その対策",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "❌ 失敗1：業界地図を1ページ目から読もうとする",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "❌ 失敗2：最新版でない本を使う",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "❌ 失敗3：業界研究を自己分析と切り離す",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "❌ 失敗4：本だけで完結させる",
-    "url": "https://note.com/tasuto11/n/n3d32991f6192",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【調査上の注意】",
-    "url": "https://note.com/shukatsu_decode/n/ncf4c08c027df",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界研究ノート作成時の注意点",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "結果的に、「この会社じゃないとダメな理由」が言語化しやすくなるので、ESや面接対策にもつながります",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実際の就職活動に役立てるには、視点や記述方法に注意する必要があるでしょう",
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「なぜ似たような別の業界ではダメなのか？」という面接官の鋭い質問に答えられる準備をします（例：銀行ではなく、なぜ信託銀行なのか？）",
-    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、情報の信頼性や正確性には注意が必要です",
-    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、個々の経験や主観に基づく情報もあるため、全てを鵜呑みにせず、自分なりに検証することが重要です",
-    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "年間20件以上の就活イベント運営や、東北大・京大などの現役インターン生との日常的な対話から、AIでは汲み取れない「今の学生が直面するリアルな葛藤や失敗談」を直接ヒアリング",
-    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "単なるノウハウ提供に留まらず、自身の失敗経験や現場での一次情報を交え 、最新の就活トレンドと検索意図の両面から、就活生が「納得感のある決断」を下せるために、就活生に「今、本当に必要な情報」を届けている",
-    "url": "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界研究は情報の集めやすさが落とし穴になる",
-    "url": "https://www.shupass.jp/guides/gyokai-kenkyu-yarikata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "締切のような重要な情報は自動で確定させず、内容を承認してから確定する設計なので、抽出結果を鵜呑みにせずに扱える",
-    "url": "https://www.shupass.jp/guides/gyokai-kenkyu-yarikata",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "注意点として、職種名は求人情報の掲載機関や企業ごとによって違いがあります",
-    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界分析における注意点",
-    "url": "https://br-campus.jp/articles/report/2408",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界分析で起きやすいのが、「最初に抱いた印象に合う情報だけ集めてしまう」偏りです（いわゆる確証バイアス）",
-    "url": "https://br-campus.jp/articles/report/2408",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【インターンの質問メール】正しい書き方と例文や注意点も公開",
-    "url": "https://br-campus.jp/articles/report/2408",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "biases",
-    "url": "https://sawtoothsoftware.com/resources/blog/posts/primary-vs-secondary-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "- Risk of biased data if not properly designed and executed",
-    "url": "https://sawtoothsoftware.com/resources/blog/posts/primary-vs-secondary-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
@@ -1715,12 +1751,12 @@
     "method": "http"
    },
    {
-    "url": "https://job.mynavi.jp/start/special/column/howto_0304/index.html",
+    "url": "https://unistyleinc.com/techniques/1404",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://careerpark-agent.jp/column/22985",
+    "url": "https://job.mynavi.jp/start/special/column/howto_0304/index.html",
     "status": "ok",
     "method": "http"
    },
@@ -1730,7 +1766,7 @@
     "method": "http"
    },
    {
-    "url": "https://shukatsu-magazine.com/column/52152/?columnid=52152",
+    "url": "https://careerpark-agent.jp/column/22985",
     "status": "ok",
     "method": "http"
    },
@@ -1765,17 +1801,12 @@
     "method": "http"
    },
    {
-    "url": "https://nvs.nikkei.co.jp/research/20251014-column/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_analysis/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://shachou-know.com/column-34/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nvs.nikkei.co.jp/research/20251014-column/",
     "status": "ok",
     "method": "http"
    },
@@ -1790,7 +1821,12 @@
     "method": "http"
    },
    {
-    "url": "https://crex-consulting.com/column/research/industry-analysis-guide/",
+    "url": "https://crex-consulting.com/column/research/industry-analysis-frameworks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_analysis/",
     "status": "ok",
     "method": "http"
    },
@@ -1847,13 +1883,13 @@
    "results": [
     "https://note.com/motonoudai/n/n4b744c445788",
     "https://campus.doda.jp/career/company/000024.html",
+    "https://unistyleinc.com/techniques/1404",
     "https://note.com/4kodai_student/n/n298d2518aad8",
     "https://job.mynavi.jp/start/special/column/howto_0304/index.html",
-    "https://careerpark-agent.jp/column/22985",
     "https://www.onecareer.jp/articles/790",
+    "https://careerpark-agent.jp/column/22985",
+    "https://typeshukatsu.jp/s/article/step/research/57960/",
     "https://shukatsu-magazine.com/column/52152/?columnid=52152",
-    "https://note.com/noted_hyssop5858/n/n6dc3034e7fb5",
-    "https://www.s-agent.jp/column/55001",
     "https://note.com/tktr_rr/n/n3f389c555a34"
    ]
   },
@@ -1876,15 +1912,14 @@
    "query": "業界分析・業界構造の調べ方（一次情報から） 事例",
    "results": [
     "https://br-campus.jp/articles/report/2408",
-    "https://nvs.nikkei.co.jp/research/20251014-column/",
-    "https://www.asmarq.co.jp/column/column-cat/how_to/market_analysis/",
     "https://shachou-know.com/column-34/",
+    "https://nvs.nikkei.co.jp/research/20251014-column/",
     "https://typeshukatsu.jp/s/article/step/research/57960/",
     "https://ndlsearch.ndl.go.jp/rnavi/business/post_102076",
-    "https://tokyoshigoto-young.jp/column/6771",
     "https://www.wakayama-uiturn.jp/arekore/arekore014",
-    "https://www.onecareer.jp/articles/790",
-    "https://crex-consulting.com/column/research/industry-analysis-guide/"
+    "https://tokyoshigoto-young.jp/column/6771",
+    "https://crex-consulting.com/column/research/industry-analysis-frameworks/",
+    "https://www.asmarq.co.jp/column/column-cat/how_to/market_analysis/"
    ]
   },
   {
@@ -1898,23 +1933,23 @@
     "https://sawtoothsoftware.com/resources/blog/posts/primary-vs-secondary-research",
     "https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/",
     "https://guides.library.illinois.edu/globalbusinesshistory/primary-sources",
-    "https://www.marketresearchreports.com/blog/primary-vs-secondary-market-research?srsltid=AYCX9vLNdNnfCmFfxSurQPzS07QOyNCr2th1yTfTnWr2zWUrnUH0g_2M",
+    "https://www.marketresearchreports.com/blog/primary-vs-secondary-market-research?srsltid=AYCX9vKYqH2KqnTE0IpS_gJ9ZD6KwvtsmX8oxv5feJxo_R20k2YRGJjv",
     "https://vantainsights.com/insights/primary-vs-secondary-research"
    ]
   },
   {
    "query": "site:note.com 業界分析・業界構造の調べ方（一次情報から）",
    "results": [
-    "https://note.com/motonoudai/n/n4b744c445788",
     "https://note.com/4kodai_student/n/n298d2518aad8",
     "https://note.com/tasuto11/n/n3d32991f6192",
     "https://note.com/research_k/n/nfeb8000bc936",
     "https://note.com/caritera/n/n43e0bdb702d3",
-    "https://note.com/shukatsu_decode/n/ncf4c08c027df",
     "https://note.com/research_blog/n/n211dd16e6f9f",
+    "https://note.com/shukatsu_decode/n/ncf4c08c027df",
     "https://note.com/intimatemerger/n/n9012095e7eac",
-    "https://note.com/aruaruteitei/n/n5a56033bc157",
-    "https://note.com/tatsuya_sabato/n/na9bc92107c20"
+    "https://note.com/tatsuya_sabato/n/na9bc92107c20",
+    "https://note.com/akatsukikaname7/n/n07b57c8b129d",
+    "https://note.com/aruaruteitei/n/n5a56033bc157"
    ]
   },
   {
@@ -1942,9 +1977,9 @@
     "https://cm.linkedin.com/jobs/view/ballas%E3%81%A8%E3%81%A4%E3%81%AA%E3%81%8C%E3%82%8B-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEballas-4423563123",
     "https://jp.linkedin.com/company/guidepoint-japan",
     "https://ca.linkedin.com/jobs/view/product-led-bizdev-%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEballas-4457089801",
-    "https://jp.linkedin.com/pulse/linkedins-ai-search-impact-numbers-kaleigh-moore-mf0vc?tl=ja",
     "https://jp.linkedin.com/in/sugiharg",
-    "https://jp.linkedin.com/pulse/beyond-hype-engine-research-backed-analysis-20-essential-khera-itbac?tl=ja"
+    "https://jp.linkedin.com/pulse/beyond-hype-engine-research-backed-analysis-20-essential-khera-itbac?tl=ja",
+    "https://jp.linkedin.com/pulse/from-information-insight-why-secondary-research-drives-mohit-joshi-a4ryc?tl=ja"
    ]
   },
   {
@@ -1965,15 +2000,15 @@
   {
    "query": "業界分析・業界構造の調べ方（一次情報から） note 社長",
    "results": [
+    "https://note.com/noted_hyssop5858/n/n6dc3034e7fb5",
     "https://www.shupass.jp/guides/gyokai-kenkyu-yarikata",
-    "https://note.com/motonoudai/n/n4b744c445788",
     "https://campus.doda.jp/career/company/000024.html",
-    "https://typeshukatsu.jp/s/article/step/research/57960/",
-    "https://careerpark-agent.jp/column/22985",
-    "https://www.wakayama-uiturn.jp/arekore/arekore014",
-    "https://sinmido-recruit.com/columns/%E6%A5%AD%E7%95%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E5%B0%B1%E6%B4%BB%E3%81%A7%E5%B7%AE%E3%81%8C%E3%81%A4%E3%81%8F%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%A8%E6%95%B4%E7%90%86/",
+    "https://note.com/motonoudai/n/n4b744c445788",
     "https://job.mynavi.jp/start/special/column/howto_0304/index.html",
+    "https://www.wakayama-uiturn.jp/arekore/arekore014",
     "https://www.onecareer.jp/articles/790",
+    "https://typeshukatsu.jp/s/article/step/research/57960/",
+    "https://unistyleinc.com/techniques/746",
     "https://crex-consulting.com/column/research/industry-analysis-guide/"
    ]
   },
@@ -2004,12 +2039,51 @@
     "https://www.linkedin.com/posts/the-martec-group_actionable-research-for-uncertain-times-activity-7359225576932433920-Yr3X",
     "https://www.linkedin.com/posts/adam-matthew-digital-ltd_what-can-primary-sources-bring-to-business-activity-7516807816691740672-nNr9",
     "https://www.linkedin.com/pulse/arthur-marwicks-new-nature-history-primary-sources-historians-kalra-mhrqc",
-    "https://www.linkedin.com/pulse/market-research-methods-ultimate-guide-primary-secondary-jp96f"
+    "https://www.linkedin.com/advice/1/what-key-differences-similarities-between-market"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 8,
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "何から始めてどう進めるか分からない人向けに、具体的なステップを紹介します",
+    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP1 どんな業界があるのかを把握する",
+    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP2 各業界の特徴を調べる",
+    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP3 自己分析を行う",
+    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "STEP4 興味を持った業界の成長性や企業を調べる",
+    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "地方での就職を考えている学生は、こうした地域特化型の情報サイトも活用しましょう",
+    "url": "https://www.wakayama-uiturn.jp/arekore/arekore014",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ]
+ },
+ "runs": 9,
  "first_researched_at": "2026-11-05T00:01:43.287812+00:00"
 }

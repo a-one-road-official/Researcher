@@ -1,0 +1,350 @@
+{
+ "name": "全国鍍金工業組合連合会の自身の公表（組合員数・従業者数・めっき加工の統計・団体でないサイトの写しを除く・4-43）",
+ "en": "Japan electroplating industry federation own statistics members employees",
+ "aliases": [
+  "全国鍍金工業組合連合会 組合員数 推移 site:or.jp",
+  "全国鍍金工業組合連合会 統計 従業者 -syntaxpartners -wakayamapp",
+  "電気めっき業 実態調査 全鍍連"
+ ],
+ "context": "団体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-05T19:30:02.915923+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "出席者数：２５名（本人出席１５名、委任状出席１０名：清水、伊藤豪、水野（善）、前川、水野（民）、伊藤（亮）、豊田、岩﨑、山田、坂口）",
+    "url": "https://www.plating.or.jp/memberonly/gizi/2502_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "(3)プラスチックめっきの申請について（特定技能外国人受け入れ）",
+    "url": "https://www.plating.or.jp/memberonly/gizi/2502_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能外国人制度について、電気めっき業（2464）は受け入れ業種に指定されているが、",
+    "url": "https://www.plating.or.jp/memberonly/gizi/2502_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "§４．公益社団法人愛知労働基準協会関係",
+    "url": "https://www.plating.or.jp/memberonly/gizi/2502_2.html",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "(2)所属組合員の生産額調査のお願いと速報について",
+    "url": "https://www.plating.or.jp/memberonly/gizi/2502_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "調査事項：令和７年１月の生産額の合計",
+    "url": "https://www.plating.or.jp/memberonly/gizi/2502_2.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://zentoren.or.jp/mekki/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://zentoren.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plating.or.jp/memberonly/gizi/2309_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plating.or.jp/memberonly/gizi/2502_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010405001840",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2021FY/000140.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.waseda.jp/fpse/pse/assets/uploads/2021/01/a5deeae24f7468aeb2d589ccd5b0fe93.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://okimu.jp/sp/userfiles/files/page/museum/issue/kanpou/nenpo_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sefaradies.cl/portfolio/spacebound-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://susanetheridge.com/liberated/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://hammocksinternational.ca/s/?p=6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mansan.jp/biz/zentoren",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zentoren.or.jp/map/mekki-map.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zentoren.or.jp/jigyou/jigyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plating.or.jp/memberonly/gizi/2501_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tmk.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zentoren.or.jp/en/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.com/Ken-Research-v3771/Japan-Electroplating-Size-Share-Growth-44097954/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jisf.or.jp/en/activity/lca/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jcmetal.jp/e_HTML/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "全国鍍金工業組合連合会の自身の公表（組合員数・従業者数・めっき加工の統計・団体でないサイトの写しを除く・4-43）",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "http://zentoren.or.jp/",
+    "https://www.plating.or.jp/memberonly/gizi/2309_2.html",
+    "https://www.plating.or.jp/memberonly/gizi/2502_2.html",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010405001840",
+    "https://x.com/zentoren/status/2117850049938096168",
+    "https://zentoren.or.jp/map/mekki-map.html",
+    "https://zentoren.or.jp/jigyou/jigyou.html",
+    "https://www.plating.or.jp/memberonly/gizi/2501_2.html"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会の自身の公表（組合員数・従業者数・めっき加工の統計・団体でないサイトの写しを除く・4-43） 推移",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000140.pdf",
+    "https://www.waseda.jp/fpse/pse/assets/uploads/2021/01/a5deeae24f7468aeb2d589ccd5b0fe93.pdf",
+    "https://okimu.jp/sp/userfiles/files/page/museum/issue/kanpou/nenpo_06.pdf",
+    "https://www.sefaradies.cl/portfolio/spacebound-2/",
+    "http://susanetheridge.com/liberated/",
+    "http://hammocksinternational.ca/s/?p=6",
+    "http://zentoren.or.jp/",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010405001840"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会の自身の公表（組合員数・従業者数・めっき加工の統計・団体でないサイトの写しを除く・4-43） 統計 PDF",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000140.pdf",
+    "https://www.waseda.jp/fpse/pse/assets/uploads/2021/01/a5deeae24f7468aeb2d589ccd5b0fe93.pdf",
+    "http://zentoren.or.jp/",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010405001840",
+    "https://mansan.jp/biz/zentoren",
+    "https://zentoren.or.jp/map/mekki-map.html",
+    "https://zentoren.or.jp/jigyou/jigyou.html",
+    "https://www.plating.or.jp/memberonly/gizi/2309_2.html"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会の自身の公表（組合員数・従業者数・めっき加工の統計・団体でないサイトの写しを除く・4-43） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://zentoren.or.jp/zentoren/gaiyou.html"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会の自身の公表（組合員数・従業者数・めっき加工の統計・団体でないサイトの写しを除く・4-43） 従業者規模別",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://zentoren.or.jp/zentoren/gaiyou.html"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会の自身の公表（組合員数・従業者数・めっき加工の統計・団体でないサイトの写しを除く・4-43） 1人当たり 万円",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000140.pdf",
+    "https://www.sefaradies.cl/portfolio/spacebound-2/"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会の自身の公表（組合員数・従業者数・めっき加工の統計・団体でないサイトの写しを除く・4-43） 2015 2025",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "http://zentoren.or.jp/",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010405001840",
+    "https://mansan.jp/biz/zentoren",
+    "https://zentoren.or.jp/map/mekki-map.html",
+    "https://zentoren.or.jp/jigyou/jigyou.html"
+   ]
+  },
+  {
+   "query": "Japan electroplating industry federation own statistics members employees Japan statistics",
+   "results": [
+    "https://zentoren.or.jp/en/index.html",
+    "https://www.marketresearch.com/Ken-Research-v3771/Japan-Electroplating-Size-Share-Growth-44097954/",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "https://www.jisf.or.jp/en/activity/lca/data/",
+    "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "https://www.jcmetal.jp/e_HTML/",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2024all.pdf",
+    "https://www.jetro.go.jp/ext_images/en/reports/survey/pdf/2023/EN_Asia_and_Oceania_2023_r3.pdf",
+    "https://www.nipponsteel.com/en/ir/library/pdf/nsc_en_ir_2025_databook_print.pdf",
+    "https://www.pfonline.com/articles/japanese-automotive-supply-chain-reliance-on-plating-job-shops"
+   ]
+  },
+  {
+   "query": "site:note.com 全国鍍金工業組合連合会の自身の公表（組合員数・従業者数・めっき加工の統計・団体でないサイトの写しを除く・4-43）",
+   "results": [
+    "https://note.com/kens_reading1/n/n3a82d8634512",
+    "https://note.com/tukamoto_mekki/n/n89c7ed437a5d",
+    "https://note.com/asagaya106/n/n7857b8a4fdf1",
+    "https://note.com/ippoi/n/n4f0b735d1a47",
+    "https://note.com/iintyoooooo/n/nf593f4c3e4fc",
+    "https://note.com/crt03/n/nfd7668dbafa5",
+    "https://note.com/shigyo_ai_lab/n/n4e5e2d348626",
+    "https://note.com/nouka_ikusei/n/n507e1acdb7d3",
+    "https://note.com/kaminomirai/n/n2453e1b5c3fb",
+    "https://note.com/id_yoshino/n/nf593b8af621f"
+   ]
+  },
+  {
+   "query": "site:x.com 全国鍍金工業組合連合会の自身の公表（組合員数・従業者数・めっき加工の統計・団体でないサイトの写しを除く・4-43）",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com 全国鍍金工業組合連合会の自身の公表（組合員数・従業者数・めっき加工の統計・団体でないサイトの写しを除く・4-43）",
+   "results": [
+    "https://jp.linkedin.com/",
+    "https://ch.linkedin.com/in/alexander-pieper-4526a33b",
+    "https://www.about.linkedin.com/",
+    "https://www.linkedin.com/company/mapei_group",
+    "https://www.linkedin.com/company/ikoc",
+    "https://jp.linkedin.com/in/grace-aya-otani-93a19159",
+    "https://jp.linkedin.com/in/mayuko-horiuchi-ba99661b0"
+   ]
+  },
+  {
+   "query": "site:facebook.com 全国鍍金工業組合連合会の自身の公表（組合員数・従業者数・めっき加工の統計・団体でないサイトの写しを除く・4-43）",
+   "results": [
+    "https://www.facebook.com/p/京都府鍍金工業組合-100069197748207/",
+    "https://www.facebook.com/yahatamekki/photos/全国鍍金工業組合連合会-会長東京都鍍金工業組合-理事長-苅宿充久氏の自伝努力は実る実らせる見習いから現代の名工へを城東支部に８冊寄贈して頂きました日頃運営にご尽/1968501489992145/",
+    "https://www.facebook.com/yahatamekki/posts/全国鍍金工業組合連合会-令和5年度青年部交流会未来を担う若手の集い各都道府県のめっき工業組合青年部の活動報告会を行い他府県の青年部の活発な活動を知ることが出来ま/914862217315506/",
+    "https://www.facebook.com/yahatamekki/posts/全国鍍金工業組合連合会-会長東京都鍍金工業組合-理事長-苅宿充久氏の自伝努力は実る実らせる見習いから現代の名工へを城東支部に８冊寄贈して頂きました日頃運営にご尽/1968501523325475/",
+    "https://www.facebook.com/sensyo7/posts/3623503451042471/",
+    "https://www.facebook.com/surtechnagata/posts/153940400759704/",
+    "https://www.facebook.com/yahatamekki/photos/今日関東めっき健康保険組合の監事監査の際に先日東京組合の理事会で推薦して頂いた組合功労役員表彰を受け取りました来期以降は支部の統合に関しての調整が主な仕事となる/1111142274354165/"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会の自身の公表（組合員数・従業者数・めっき加工の統計・団体でないサイトの写しを除く・4-43） note 社長",
+   "results": [
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "https://zentoren.or.jp/mekki/data.html"
+   ]
+  },
+  {
+   "query": "全国鍍金工業組合連合会の自身の公表（組合員数・従業者数・めっき加工の統計・団体でないサイトの写しを除く・4-43） X 投稿",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://zentoren.or.jp/zentoren/gaiyou.html",
+    "https://zentoren.or.jp/top/info/info20251020.html",
+    "http://zentoren.or.jp/",
+    "https://mansan.jp/biz/zentoren",
+    "https://zentoren.or.jp/map/mekki-map.html",
+    "https://zentoren.or.jp/jigyou/jigyou.html",
+    "https://x.com/zentoren/status/2117850049938096168"
+   ]
+  },
+  {
+   "query": "Japan electroplating industry federation own statistics members employees site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/jbashore/",
+    "https://www.linkedin.com/in/nicolas-franchet-91881",
+    "https://www.linkedin.com/in/kevin-b-williams",
+    "https://jp.linkedin.com/in/jbashore/ja",
+    "https://www.linkedin.com/in/joe-richards-54842112",
+    "https://www.linkedin.com/in/marwaatwa",
+    "https://uk.linkedin.com/in/kevin-baker-fimf-29371343",
+    "https://www.linkedin.com/in/timpennington",
+    "https://in.linkedin.com/in/prabhanjan-kulkarni-phd-56748423",
+    "https://www.linkedin.com/pulse/from-grid-die-whats-moving-across-membership-xi3dc"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ23頁・検索15回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ23頁・検索15回）",
+  "生産能力・設備": "記載なし（読んだ23頁・検索15回）",
+  "10年推移": "記載なし（読んだ23頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ23頁・検索15回）"
+ }
+}
