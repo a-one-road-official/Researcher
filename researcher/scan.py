@@ -12,6 +12,22 @@ NUM = re.compile(r"(\d{1,3}(?:,\d{3})+|\d+(?:\.\d+)?)\s*(兆円|億円|百万円
 YEAR = re.compile(r"(20[0-3]\d|19[89]\d)\s*年")
 TO_MAN = {"兆円": 1e8, "億円": 1e4, "千万円": 1e3, "百万円": 100, "万円": 1, "千円": 0.1, "円": 1e-4}
 TO_PERSON = {"万人": 1e4, "千人": 1e3, "人": 1, "名": 1}
+NOW_YEAR = __import__("datetime").date.today().year
+# 2026-11-05 METHOD.md 4-5：数字にしてはいけない引用（見出し・記事題名・関連記事リンク・パンくず・検索結果の抜粋）
+HEADLINE = re.compile(r"(徹底解説|とは[？?]|まとめ|一覧|比較\d*選|\d+選|【20\d\d年[^】]*】|[｜|] ?[^｜|]{0,40}$| > | › |https?://|価格帯別|おすすめ|ランキング)")
+# 調査会社の市場レポート（互いに写し合うので、何社あっても独立の裏付けに数えない）METHOD.md 4-5
+REPORT = re.compile(r"(mordorintelligence|gminsights|sdki|marketsandmarkets|fortunebusinessinsights|grandviewresearch|precedenceresearch|globalinformation|gii\.co\.jp|researchandmarkets|imarcgroup|alliedmarketresearch|technavio|reportocean|marketresearchfuture|atpress|prtimes|dreamnews|kenresearch|expertmarketresearch|verifiedmarket)")
+# 数字の文脈。同じ区分でも「装置の価格」「市場規模」「1件の単価」を混ぜない（am_ceiling で装置価格と受託単価が混ざった失敗から）
+CONTEXT = [("市場規模", re.compile(r"(市場規模|市場は|市場が|market size|market (is|was|will)|CAGR|年平均成長率|億ドル|billion)", re.I)),
+           ("装置価格", re.compile(r"(装置|本体|プリンターは|機械の価格|導入費|設備投資|machine price|printer costs?)", re.I)),
+           ("売上・決算", re.compile(r"(売上高|売上は|営業利益|経常利益|決算|revenue|sales of)", re.I)),
+           ("統計の総額", re.compile(r"(出荷額|付加価値額|加工賃収入|総額|全国で|全体で|合計)")),
+           ("単価・料金", re.compile(r"(単価|1個|1件|1点|1人あたり|一人当たり|料金|費用|円〜|円から|月額|年額|per part|per hour)", re.I))]
+
+def context_of(q):
+    for name, rx in CONTEXT:
+        if rx.search(q): return name
+    return "不明"
 
 def norm(v, u):
     x = float(v.replace(",", ""))
@@ -28,15 +44,18 @@ def rows_for(topic):
         for cat, items in (d.get("evidence") or {}).items():
             for it in items or []:
                 q, url = it.get("quote", ""), it.get("url", "")
+                if HEADLINE.search(q) or "抜粋" in cat: continue  # 見出し・題名・検索結果の抜粋は数字にしない（METHOD.md 4-5）
                 ys = YEAR.findall(q)
+                ctx = context_of(q)
                 for m in NUM.finditer(q):
                     v, u = norm(*m.groups())
                     if u == "万円" and v <= 0: continue
                     # 数字の近く（前40字）の年を優先
                     near = YEAR.findall(q[max(0, m.start() - 40):m.start() + 5])
                     y = (near or ys or [""])[-1]
-                    yield {"品目": name, "区分": cat, "年": y, "値": round(v, 4), "単位": u,
-                           "一次": "一次" if PRIMARY.search(url) else "記事",
+                    yield {"品目": name, "区分": cat, "文脈": ctx, "年": y, "値": round(v, 4), "単位": u,
+                           "一次": "調査会社" if REPORT.search(url) else "一次" if PRIMARY.search(url) else "記事",
+                           "予測": "予測" if y and int(y) > NOW_YEAR else "",
                            "出典": urlparse(url).netloc, "URL": url, "引用": q[:160]}
 
 def trend(series):
@@ -57,19 +76,30 @@ def dedupe(rows):
         seen.add(k); out.append(r)
     return out
 
+def drop_boilerplate(rows):
+    """同じ出典ドメインの同じ引用が3品目以上に出たら、サイト共通のメニュー・広告とみなして捨てる。METHOD.md 4-5。"""
+    seen = {}
+    for r in rows: seen.setdefault((r["出典"], re.sub(r"\s", "", r["引用"])[:40]), set()).add(r["品目"])
+    return [r for r in rows if len(seen[(r["出典"], re.sub(r"\s", "", r["引用"])[:40])]) < 3]
+
+def src_key(r):
+    """独立性の単位。調査会社レポートはまとめて1つの出どころとして数える。"""
+    return "調査会社" if r["一次"] == "調査会社" else r["出典"]
+
 def grade(g):
-    """確度4段階。METHOD.md 4-1。"""
-    doms = {r["出典"] for r in g}
+    """確度4段階。METHOD.md 4-1／4-5（調査会社は束ねて1件、予測値は事実の裏付けにしない）。"""
+    g = [r for r in g if not r.get("予測")] or g
+    doms = {src_key(r) for r in g}
     vals = sorted(r["値"] for r in g)
     med = statistics.median(vals)
-    near = {r["出典"] for r in g if med and abs(r["値"] - med) <= 0.2 * abs(med)}
+    near = {src_key(r) for r in g if med and abs(r["値"] - med) <= 0.2 * abs(med)}
     if len(near) >= 2: return "【裏付けあり】"
     if vals and vals[0] > 0 and vals[-1] / vals[0] > 3 and len(doms) >= 2: return "【食い違い】"
     if any(r["一次"] == "一次" for r in g): return "【一次で確認】"
     return "【未確認】"
 
 def scan(topic):
-    rows = dedupe(list(rows_for(topic)))
+    rows = drop_boilerplate(dedupe(list(rows_for(topic))))
     if not rows: return 0
     with open(os.path.join(OUT, topic, "cross.csv"), "w", encoding="utf-8-sig", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=list(rows[0])); w.writeheader(); w.writerows(rows)
@@ -79,22 +109,23 @@ def scan(topic):
     for item, rs in sorted(by_item.items()):
         md.append(f"## {item}")
         groups = {}
-        for r in rs: groups.setdefault((r["区分"], r["単位"]), []).append(r)
-        for (cat, u), g in sorted(groups.items(), key=lambda kv: -len(kv[1])):
+        for r in rs: groups.setdefault((r["区分"], r["文脈"], r["単位"]), []).append(r)
+        for (cat, ctx, u), g in sorted(groups.items(), key=lambda kv: -len(kv[1])):
             if len(g) < 2 or u in ("件",): continue
             vals = [r["値"] for r in g]; prim = [r for r in g if r["一次"] == "一次"]
             lo, hi = min(vals), max(vals)
             spread = f"{hi/lo:.1f}倍" if lo > 0 else "-"
             peryear = {}
             for r in (prim or g):
-                if r["年"]: peryear.setdefault(int(r["年"]), []).append(r["値"])
+                if r["年"] and not r["予測"]: peryear.setdefault(int(r["年"]), []).append(r["値"])
             med = {y: statistics.median(v) for y, v in peryear.items()}
-            md.append(f"- {grade(g)} {cat}（{u}）：{len(g)}件・一次{len(prim)}件・出典{len({r['出典'] for r in g})}か所、幅 {lo:g}〜{hi:g}（食い違い{spread}）")
+            fut = [r for r in g if r["予測"]]
+            md.append(f"- {grade(g)} {cat}［{ctx}］（{u}）：{len(g)}件・一次{len(prim)}件・出典{len({src_key(r) for r in g})}か所（調査会社は1つに束ねる）・予測値{len(fut)}件、幅 {lo:g}〜{hi:g}（食い違い{spread}）")
             if med: md.append(f"  - 【推定】年ごとの中央値（{'一次のみ' if prim else '記事含む'}）：" + "、".join(f"{y}年 {v:g}" for y, v in sorted(med.items())) + f" → 向き：{trend(med)}")
         # 1人あたり：同じ年に万円と人がある場合
         money = {}; people = {}
         for r in rs:
-            if not r["年"]: continue
+            if not r["年"] or r["予測"]: continue
             if r["単位"] == "万円": money.setdefault(int(r["年"]), []).append(r["値"])
             if r["単位"] == "人": people.setdefault(int(r["年"]), []).append(r["値"])
         per = {y: statistics.median(money[y]) / statistics.median(people[y]) for y in money if y in people and statistics.median(people[y]) > 0}

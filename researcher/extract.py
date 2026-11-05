@@ -7,6 +7,15 @@ from __future__ import annotations
 
 import re
 
+# 2026-11-05 METHOD.md 4-5：メニュー・見出しの文字を事実にしない（JETRO の「米国関税措置への対応」「政府公共調達データベース」が
+# 人型ロボットの事実として brief に入った失敗から）。20字以下・数字なし・読点なしの行はサイトのメニューとみなす。
+MENU_RE = re.compile(r"^[^0-9０-９、，,。]{1,20}$")
+
+
+def _is_menu(ln: str) -> bool:
+    return bool(MENU_RE.match(ln))
+
+
 HISTORY_RE = re.compile(r"^(?:19|20)\d{2}\s*年|^(?:昭和|平成|令和)\s*(?:元|\d{1,2})\s*年")
 
 
@@ -44,6 +53,8 @@ def evidence(page: dict, cats: dict[str, list[str]], pass_no: int, per_cat: int 
     for cat, kws in cats.items():
         hits = []
         for ln in lines:
+            if cat != "沿革" and _is_menu(ln):
+                continue
             if cat == "沿革" and HISTORY_RE.search(ln):
                 hits.append(ln)
             elif any(str(k).lower() in ln.lower() for k in kws):
