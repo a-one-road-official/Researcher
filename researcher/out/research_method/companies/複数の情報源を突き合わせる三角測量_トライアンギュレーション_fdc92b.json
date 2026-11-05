@@ -8,11 +8,85 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-05T07:53:38.388298+00:00",
+ "researched_at": "2026-11-05T09:05:05.367715+00:00",
  "evidence": {
-  "手順・やり方": [
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ... Apr 3, 2023 · 本稿では、大規模言語モデル（Large Languagn Model, LLM）の急速かつ劇的な進歩を踏まえ、社会学の研究者であるノーマン・K・デンジンが1970年代に提唱した「トライアンギュレーション（三角測量）」という方法論の拡張を、デザインリサーチの多元化の一例と ...",
+    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デザインリサーチャーは死んだのか──生成AIをめぐる3年間の議論と、ト... Oct 22, 2026 · 私はワークショップの前年に「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギュレーション」という短いテキストを書き、社会学者のノーマン・K・デンジン（Norman K. Denzin）が提唱したトライアンギュレーション（三角測量）のうち ...",
+    "url": "https://note.com/kasano/n/n7b5909b6492c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "質的研究におけるトライアンギュレーションとは｜M. Kawabata, RN., P... Mar 7, 2025 · こんにちは！ 今回は、質的研究においてその質を上げるための方法としてトライアンギュレーションについて説明します。 難しそうだなと思うかもしれません。 でも、初心者の皆さんでも活用できる方法があるかもしれません。",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "質的研究におけるトライアンギュレーションとは｜M. Kawabata, RN., P... Mar 7, 2025 · こんにちは！今回は、質的研究においてその質を上げるための方法として トライアンギュレーション について説明します ...",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ...VP ARCHIVE SCIENCE | Measuring the Earth PHASE 01-06 ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...上谷 良吉 ～解析空中三角測量システムの開発と実用化～ 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査をおこなう研究者から度々批判が繰り",
+    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ... Jun 11, 2025 · 今日は、坪山先生（2021） 「3.トライアンギュレーション：徹底したバイアスの排除」についての整理です。 Eisenhardt メソッドの特徴に、 徹底したトライアンギュレーションによって研究の厳密性を確保しようとしている p.26 が挙げられます。",
+    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "質的研究における トライアンギュレーション とは - note 質的研究における トライアンギュレーション とは - note note https://note.com > 教育・学び > 教育・学び",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "質的研究においてなぜ三角測量（トライアンギュレーション）を用いるのか？",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "三角測量（トライアンギュレーション）は測量法にその名を由来しています",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その緊張感こそが三角測量において最も興味深い部分であり、ほぼすべてのガイドブックが省略している点です",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
    {
     "quote": "以下では、4つのタイプが実際にどのようなものであるか、三角測量によって得られるものと得られないもの、情報源が対立したときの対処法、そして過剰な主張をせずに方法論のセクションに記述する方法を解説します",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "<CTA title=\"データと主張の整合性を保つ\" description=\"Jenniは、すべての主張がデータに裏付けられているかどうか、下書き、引用、検証をサポートします\" buttonLabel=\"Jenniを無料で試す\" link=\"https://app.jenni.ai/register\" />",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "三角測量（トライアンギュレーション）とは？",
     "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -24,7 +98,25 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "いかなる単一の証拠収集方法にも特有の盲点があり、それらの盲点はランダムに発生するものではありません",
+    "quote": "デンジンによる4つの三角測量のタイプ",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データの三角測量 (Data triangulation)",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査者の三角測量 (Investigator triangulation)",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "理論の三角測量 (Theory triangulation)",
     "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -42,188 +134,266 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "三角測量は通常、妥当性を高めるためのもの（同じことを2つの方法で検証し、答えが一致すればより確信を持てる）として喧伝されます",
+    "quote": "環境の三角測量 (environmental triangulation)",
     "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "は、異なる方法が現象の異なる側面を明らかにするため、その目的は検証ではなく、より全体的な像を描くことにあるとします",
+    "quote": "もし2つ目の情報源も同じ盲点を共有しているなら、それは三角測量ではなく、単に音量を大きくしただけにすぎません\" />",
     "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "異なる方法は、",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "他の方法を使用することでは明らかにできない現象の側面を明らかにする",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "方法論のセクションでそう述べることは、あなたがその違いを理解していることを示します\" />",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そうではなく、それぞれの方法がどのような位置づけで観察していたのかを問いかけてください",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここでの異議は、検証としての三角測量が、複数の方法が収束する「単一の客観的現実」を前提としている点にあります",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1回はデータ収集方法において、もう1回は信頼性を高めるためのテクニックとしてです",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "優れた方法論の段落に含まれるべき内容：どのタイプを使用し、なぜそのタイプなのか、具体的に何を変化させたのか、分析のどの段階で情報源を比較したのか、意見が対立したときにどう対処したのか、そしてその結果として何を主張しているのか",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "<CTA title=\"擁護可能な方法論セクションを書く\" description=\"章を構成し、信頼する手法論者を引用し、すべての主張が設計に合致しているかを検証しましょう\" buttonLabel=\"Jenniを無料で試す\" link=\"https://app.jenni.ai/register\" />",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "複数の方法（手法）で同じ現象を調べる方法です",
+    "quote": "：結果が食い違ったときの矛盾こそ、理解を深める手がかりになります",
     "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "さらに、同じ方法の中で複数の手段を使う「方法内（within-method）」と、質的方法と量的方法など異なる方法を組み合わせる「方法間（between-method）」に分けられることもあります",
+    "quote": "複数のデータ・方法・研究者・理論を組み合わせて、同じ現象を多角的に検証し、結論の確からしさを高める方法",
     "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "①生成AIがデザインリサーチをどう変えているか、②研究に生成AIを組み込む方法と、それが生む新たな協働、③RtDのように、つくることを通じて知を生み出す営みがどう変わるか、④成果の著者性やエージェンシー、著作権、信頼をどう扱うか",
+    "quote": "」という短いテキストを書き、社会学者のノーマン・K・デンジン（Norman K. Denzin）が提唱したトライアンギュレーション（三角測量）のうち、「多様な調査者」にLLMを迎え入れ、ユーザーの視点に立った回答も期待できるのではないかと楽観的に考えていました",
     "url": "https://note.com/kasano/n/n7b5909b6492c",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "この二度のワークショップでの議論は、主催者たちの手で一本の論考にまとめられ、翌年の三回目の進め方にも引き継がれていきます",
+    "quote": "デンジンが「多様な調査者」を挙げたのは、立場〈ポジショナリティ〉の異なる研究者どうしで解釈を突き合わせ、一人の偏りを相対化するためでした",
     "url": "https://note.com/kasano/n/n7b5909b6492c",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Towards a Design (Research) Framework with Generative AI",
+    "quote": "AIを関係的な媒体と見る先の論考の提案と重ねるなら、調査者や道具がそれぞれどこに立ち、何を見落としうるのかを記録したうえで知を突き合わせることが求められています",
     "url": "https://note.com/kasano/n/n7b5909b6492c",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "質的研究やアンケート自由記述のコード化・カテゴリー化について、手順と考え方を体系的に解説",
-    "url": "https://code-category.tapeokoshi.net/triangulation/",
+    "quote": "こうして地点を明かしたまま異なる知を突き合わせる",
+    "url": "https://note.com/kasano/n/n7b5909b6492c",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "トライアンギュレーションとは、複数のデータ源、研究者、理論、方法を用いることで研究の信頼性を高める手法である",
-    "url": "https://code-category.tapeokoshi.net/triangulation/",
+    "quote": "参加者の席には人と素材を、調査者の席にはAIを含む道具と人を置き、それぞれの地点を記録しながら突き合わせる作法こそ、2023年の記事に足りなかったものかもしれません",
+    "url": "https://note.com/kasano/n/n7b5909b6492c",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "インタビューと観察を併用する（方法のトライアンギュレーション）、複数の研究者で同じデータを分析する（研究者のトライアンギュレーション）、患者と医療者の両方からデータを収集する（データ源のトライアンギュレーション）などがある",
-    "url": "https://code-category.tapeokoshi.net/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "必須ではないが、研究の信頼性を高める有効な方法である",
-    "url": "https://code-category.tapeokoshi.net/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "複数の方法、研究者、見解を組み合わせて用いることであり、それによって豊かで妥当な解釈を促進できる",
-    "url": "https://clitama.human-relation.net/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名前から想像できる通り、複数の方法を使って研究を行うことにより達成されるトライアンギュレーションである",
-    "url": "https://clitama.human-relation.net/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "どんな方法にも限界があり、妥当性が低い部分や歪みがある",
-    "url": "https://clitama.human-relation.net/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "単一の方法を用いると、結果は単にその方法によって生み出されたものでしかない危険がある",
-    "url": "https://clitama.human-relation.net/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "しかし複数の方法を適切に組み合わせれば、それぞれ異なる情報を収集でき、得られた結果が単なる方法の生成物という以上のものだと確信を得ることができる",
-    "url": "https://clitama.human-relation.net/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この方法トライアンギュレーションは、もっとも用いられることが多いようで、例えば、1つの質的研究において「参与観察」と「半構造化面接」を行う方法が該当する",
-    "url": "https://clitama.human-relation.net/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "を組み合わせる」にもまた方法トライアンギュレーションに該当するらしいのだが、だとすると",
-    "url": "https://clitama.human-relation.net/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "は方法トライアンギュレーションを達成してますね",
-    "url": "https://clitama.human-relation.net/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Rstudioのインストール方法〜Mac編〜",
-    "url": "https://clitama.human-relation.net/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【Mac編】統計解析ソフトrのダウンロード&インストール方法",
-    "url": "https://clitama.human-relation.net/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【心理系大学院受験生向け】心理英語⑮～性格類型・特性～",
-    "url": "https://clitama.human-relation.net/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "定量と定性、観察と自己申告、複数の研究者によるレビューなどが典型例です",
+    "quote": "矛盾は失敗ではなく、追加学習の入口になる",
     "url": "https://playbook.ankr.design/methods/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "三角測量は以下の3要素で構成されます：",
+    "url": "https://ayasecorporation.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "現在主流となっているのが、レーザーを用いた三角測量方式です",
+    "url": "https://ayasecorporation.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "三角測量は非常に優れた手法ですが、実際の現場では以下の課題が精度を大きく左右します",
+    "url": "https://ayasecorporation.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "三角測量の精度は、センサー性能以上に",
+    "url": "https://ayasecorporation.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "三角測量は非常に強力な測定技術ですが、その性能を最大化する鍵は「光源設計」にあります",
+    "url": "https://ayasecorporation.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "三角測量の精度改善、ビーム最適化、装置組込みなど用途に応じた最適提案が可能です",
+    "url": "https://ayasecorporation.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3D形状計測にはさまざまな方式がありますが、産業用途で広く使われている代表的な方法が 光切断法（レーザー三角測量） と 構造化光（Structured Light） です",
+    "url": "https://ayasecorporation.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "エビデンスの三角測量：観察研究における因果推論のためのトライアンギュレーション",
+    "url": "https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_article/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "研究における三角測量とは？信頼できる調査結果への道 - Mind the Graphブログ",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "研究における三角測量とは？信頼できる調査結果への道",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "研究における三角測量とは？調査の精度を最大限に高め、この方法の利点を明らかにしましょう",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "三角測量は、多様なデータ源、方法論、視点を融合させることで、研究者のバイアスを減らし、研究の深みを増し、最終的にはより信頼できる徹底的な結論に到達することを可能にする",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事の目的は、その概念を明確にし、指針となる原則、テクニック、目的を明らかにすることで、「研究における三角測量とは何か」という問いに答えることである",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "研究の三角測量とは、ある研究テーマや現象を複数の角度、データソース、手法から検証するプロセスである",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "三角測量の概念は測量に由来し、複数の基準点を用いて物体の正確な位置を特定するために用いられる",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これと同様に、研究における三角測量は、対象を様々な視点から検証することで、収束的かつ徹底的な理解を生み出すことを目的としている",
+    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「三角測量」になぞらえた言葉で、複数の地点から測ることで正確な位置を特定する、という発想から来ている",
+    "url": "https://code-category.tapeokoshi.net/triangulation-monju/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in Research: Definition, Types, Examples, and Steps",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What Is Triangulation in Research?",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Why Is Triangulation Used?",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The Four Main Types of Triangulation",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1. Data Triangulation",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Common forms of data triangulation",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Space or location triangulation",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What data triangulation does not guarantee",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2. Investigator Triangulation",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Investigator triangulation versus intercoder reliability",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3. Theory Triangulation",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "When theory triangulation is useful",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4. Methodological Triangulation",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Within-method triangulation",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Between-method triangulation",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in Research: Types & Examples - ResearchProspect",
+    "url": "https://www.researchprospect.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in Research: Types & Examples",
+    "url": "https://www.researchprospect.com/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
@@ -234,91 +404,49 @@
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "こんにちは！今回は、質的研究においてその質を上げるための方法として",
+    "quote": "地図でいう「三角測量」のイメージです",
+    "url": "https://note.com/muchihaji3131/n/nbd8d564b66f6",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定",
+    "url": "https://note.com/muchihaji3131/n/nbd8d564b66f6",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "の発想を借りて、事前に仮説を立てることにしました",
+    "url": "https://note.com/muchihaji3131/n/nbd8d564b66f6",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "業界の慣行から推測される原価構造、直近の設備投資の動向、競合製品との差分——これらを組み合わせて「おそらく先方が困っているのはこのあたりではないか」という仮説を3つほど作って商談に入りました",
+    "url": "https://note.com/muchihaji3131/n/nbd8d564b66f6",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そしてその仮説があったことで、商談の序盤から「課題を一緒に考える対話」が始まりました",
+    "url": "https://note.com/muchihaji3131/n/nbd8d564b66f6",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "\"triangulation\"",
     "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "でも、初心者の皆さんでも活用できる方法があるかもしれません",
+    "quote": "これを日本語に役すると、「三角測量」ということになります",
     "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "その方法の一つとして、",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "これは複数の観測地点から目標物への角度を測定し、その位置を特定する方法です",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "複数のデータソース、方法論、また理論を用いて研究対象を多角的に分析すること",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "これにより、単一の視点や方法だけを使った場合に生じる偏り（バイアス）を減らし、結果の妥当性と信頼性を高めます",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "これは、 異なる人・時間・場所から同じ現象に関するデータを収集し比較する方法です",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "ただ、この方法をとると妥当性・信頼性は高まりますが、対象者の人数が増えていきますので、初心者の皆さんや臨床の看護研究では、時間的制約が多いので、非現実的かもしれませんね",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "２番目は、調査をする人のトライアンギュレーションで、複数の研究者が独立して同じデータを分析し、解釈を比較検討する方法です",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "これは複数の理論的枠組みを用いて同じデータを分析・解釈する方法です",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "こうすると、家族支援の多面的な側面を理解し、より包括的な支援方法を導き出せそうですね",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "4. 方法論的トライアンギュレーション",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "最後は、方法論のトライアンギュレーションです",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "これは、複数のデータ収集方法を組み合わせて同じ現象を調査する方法です",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "すると、多様な方法で収集したデータを統合することができ、新人看護師の適応過程をより立体的に把握できます",
+    "quote": "この三角測量とは一体なんでしょうか？",
     "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
     "pass": 3,
     "first_seen": "2026-11-04"
@@ -330,55 +458,31 @@
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "混合研究手法（Mixed Methods Research）",
+    "quote": "を用いる「トライアンギュレーション（三角測量）」によって、デンジンは批判を乗り越えようとしたのです",
     "url": "https://note.com/kasano/n/n5300393c2f30",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "1960年代にデザインの方法論の研究から端を発する「デザインリサーチ」では、プロダクトやサービスなどあらゆる人工物を生成するための横断的な研究が進められてきました",
+    "quote": "Triangulation 2.0",
     "url": "https://note.com/kasano/n/n5300393c2f30",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "専門家だけでなく市民をリードユーザーとして迎え入れたり、デザイン主導型の場合もあれば、対話型のワークショップでアイデアを共に検討するなど、リフレクションを多用することも少なくありません",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "主たるデータ収集の方法はインタビューですが、その際も、複数の関係者にインタビューが行われます",
+    "quote": "トライアンギュレーション（triangulation）",
     "url": "https://note.com/saito_lab/n/n554cd436c4ae",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "定性研究にありがちな批判について、堅牢な分析アプローチにより潰しこむことができる（できた）からこそ、テンプレートして、多くの研究者に活用される方法論になった",
-    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "トライアンギュレーションとは？意味・4つの種類・研究での使い方をわかりやすく解説 | Scholar Compass",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "トライアンギュレーションとは？意味・4つの種類・研究での使い方をわかりやすく解説",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "研究では、一つのデータや一つの方法だけに頼ると、結論が偏ってしまうことがあります",
-    "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
     "quote": "そこで、複数のデータ・方法・研究者・理論を組み合わせて、同じ現象を多角的に検証する考え方が",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "もともとは測量の「三角測量」に由来する言葉で、質的研究の妥当性を高める工夫として広まりました",
     "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-04"
@@ -390,43 +494,37 @@
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "データ・研究者・理論・方法論の4種類",
+    "quote": "日本語では「三角測量」と訳されます",
     "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "トライアンギュレーションとは、一つの現象を研究する際に、複数のデータ・方法・研究者・理論といった異なる視点を組み合わせ、結論の妥当性・信頼性を高める方法です",
+    "quote": "読みは「トライアンギュレーション」（トリアンギュレーションとも表記）、英語は「triangulation」",
     "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "複数の観測点（データ・方法など）から同じ現象を捉えることで、より確からしい理解に近づく",
+    "quote": "名前の由来は測量の三角測量です",
     "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "質的研究の妥当性を高める方法",
+    "quote": "単一でも二元的でもなく、三次元以上の多角的な視点を想定することから「三角測量」と呼ばれます",
     "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "デンジン自身はトライアンギュレーションを「複数の観察者・方法・解釈の視点・経験的資料の水準や形式を用いて解釈を構築すること」と説明しています",
+    "quote": "2人以上の研究者が同じ研究に関わり、観察・分析を突き合わせる",
     "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "方法論トライアンギュレーション",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "面接と観察、質問紙と面接など、複数の方法で同じ現象を調べる",
+    "quote": "複数の理論・仮説の枠組みからデータを解釈する",
     "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-04"
@@ -444,43 +542,31 @@
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "一つのデータを、複数の理論的枠組みから解釈する方法です",
+    "quote": "：複数の視点の食い違いから、新たな問いや解釈が生まれることがある",
     "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "質的研究におけるトライアンギュレーションとは？4つの型と使い方 | Blog | Qualitati",
-    "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
+    "quote": "結果が食い違ったときに、その矛盾を手がかりに理解を深めることも、トライアンギュレーションの大切な役割とされます",
+    "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "質的研究におけるトライアンギュレーションとは？4つの型と使い方",
-    "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
+    "quote": "トライアンギュレーション・デザイン（Triangulation Design）が挙げられます（Creswell et al., 2007）",
+    "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "トライアンギュレーションの4つの型",
-    "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "古典的な4つの型（データ、方法、研究者、理論のトライアンギュレーション；Denzin, 1978）があり、その目的は唯一の真理を証明することではなく、より包括的で説得力のある説明を構築することにあります",
-    "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
+    "quote": "し、両者を突き合わせて研究課題の理解を深めるデザインです",
+    "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
     "quote": "二つの方法が食い違うとき、その矛盾自体がデータです",
-    "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "現象がより複雑であるか、文脈に依存していることを示しており、単一の方法では見えなかったものが浮かび上がります",
     "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "pass": 3,
     "first_seen": "2026-11-04"
@@ -492,55 +578,73 @@
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "古典的な型は4つあります",
+    "quote": "ただしAIは検証されるべき情報源の一つであり、真理の最終的な判定者ではありません",
     "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "方法のトライアンギュレーション",
+    "quote": "二人の分析者が同じ記録をコーディングし、突き合わせて調整する",
     "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "データ収集の方法",
+    "quote": "そして、自分の認識論が唯一の真理の存在を否定するなら、トライアンギュレーションがある単一の真理を「検証する」とは主張しないことです",
     "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "もう一つの型として、",
+    "quote": "AIは検証される情報源であり、トライアンギュレーションを終わらせる裁定者ではありません",
     "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "ほとんどのプロジェクトでは、元の4つの型で十分に検討できます",
+    "quote": "解釈主義の立場なら、研究をクリスタライゼーションや包括性として記述し、単一の真理を「検証する」ものとして記述しない",
     "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "どの型を使うべきか？",
+    "quote": "検証すべきものであり、最終的な裁定者として扱うべきではありません",
     "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "トライアンギュレーションは、その論証を構築する最も直接的な方法です",
+    "quote": "AIは視野を安価に広げますが、それは検証されるべき一つの視点として扱う場合に限られます",
     "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "誤った参加者に三つの方法を適用しても、誤った対象を三つの角度から見るだけです",
+    "quote": "検証を終わらせる権威としてではなく",
     "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Triangulation",
+    "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "社会科学におけるトライアンギュレーション（トリアンギュレーション、三角測量）とは、ノーマン・K・デンジンが1978年の著作のなかで提唱",
+    "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
     "quote": "したもので、方法論や検証方法を複数化（単一でも二元的でもない三次元以上のものを想定して「三角測量」と呼ぶ）することで、質的研究の妥当性を高める方",
+    "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "それは、１）データーそのもの多元化する三角測量、２）調",
     "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
     "pass": 3,
     "first_seen": "2026-11-04"
@@ -552,13 +656,25 @@
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "Using multiple observers, methods, interpretive points of view, and",
+    "quote": "Triangulation:",
     "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "perspectives in relation to the same set of objects. (4) Methodological",
+    "quote": "four basic types of triangulation. (1) Data triangulation has three",
+    "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "collectivity. (2) Investigator triangulation consists of using multiple",
+    "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "triangulation consists of using multiple rather than single",
     "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
     "pass": 3,
     "first_seen": "2026-11-04"
@@ -582,346 +698,64 @@
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "方法論的三角化には、同一方法内での三角化と方法間の三角化が含まれる（Denzin 1989:237）",
-    "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   }
-  ],
-  "SNS・note（note・本文）": [
-   {
-    "quote": "デザインリサーチャーは死んだのか──生成AIをめぐる3年間の議論と、トライアンギュレーションのその後｜Kakeru Asano",
-    "url": "https://note.com/kasano/n/n7b5909b6492c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デザインリサーチャーは死んだのか──生成AIをめぐる3年間の議論と、トライアンギュレーションのその後",
-    "url": "https://note.com/kasano/n/n7b5909b6492c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2024年7月、コペンハーゲンで開かれた国際会議DIS（Designing Interactive Systems）[*1]で、「デザインリサーチャーの死？（Death of the Design Researcher?）」と題したワークショップが開かれました[*2]。すでにOpenAIが2024年5月にChatGPTの新しいモデルGPT-4oを発表し、世の中にもその影響力が高まっていたタイミングです。生成AIが文章も画像もつくりだすなかで、質的調査やプロトタイピングなどを通じて、まだ見ぬ世界を描こうとするデザインリサーチャーという役割はこれからも必要なのかということが挑発的なタイトルをもって問われました。",
-    "url": "https://note.com/kasano/n/n7b5909b6492c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "）時代のデザインリサーチにおけるトライアンギュレーション",
-    "url": "https://note.com/kasano/n/n7b5909b6492c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "」という短いテキストを書き、社会学者のノーマン・K・デンジン（Norman K. Denzin）が提唱したトライアンギュレーション（三角測量）のうち、「多様な調査者」にLLMを迎え入れ、ユーザーの視点に立った回答も期待できるのではないかと楽観的に考えていました。このワークショップと主催者たちがその後に発表した論文などを手がかりに、当時の自分の提案を問い直してみたいと思います。",
-    "url": "https://note.com/kasano/n/n7b5909b6492c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "生成AI時代におけるデザインリサーチャーの役割を問い直すワークショップ",
-    "url": "https://note.com/kasano/n/n7b5909b6492c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このワークショップは、デザイン研究者のヴィレム・ファン・デル・マーデン（Willem van der Maden）らが、DISで三年続けて開いたものの二回目にあたります。2023年の一回目は、現場に芽生えた実践を棚卸しし、生成AIが果たす役割の見取り図を描こうとしました[*3]。",
-    "url": "https://note.com/kasano/n/n7b5909b6492c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2024年の二回目が、本稿のタイトルにも借りた「デザインリサーチャーの死？」です。会議全体のテーマ「なぜデザインか（Why Design?）」[*1]を受け、文芸批評家のロラン・バルト（Roland Barthes）が1967年に発表した「作者の死」を下敷きにしています。バルトが作品の意味を作者の意図から解き放ち、作者の権威を問い直したように、生成AIはデザインリサーチャーの権威と役割を問い直すのではないか、という見立てです。これまでデザインリサーチャーは、とくにリサーチ・スルー・デザイン（Research through Design、RtD）の立場では、プロトタイプや問いかけのための人工物を自らつくり、つくる過程での判断と振り返りを通じて知を生み出す者でした。ところが生成AIがスケッチや未来のシナリオ、試作の画面まで瞬時に出力するなら、その人工物は誰がつくったものであり、そこから得られ",
-    "url": "https://note.com/kasano/n/n7b5909b6492c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "質的研究におけるトライアンギュレーションとは｜M. Kawabata, RN., PhD.",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "質的研究におけるトライアンギュレーションとは",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "M. Kawabata, RN., PhD.",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "こんにちは！今回は、質的研究においてその質を上げるための方法として",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "難しそうだなと思うかもしれません。でも、初心者の皆さんでも活用できる方法があるかもしれません。",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "では、トライアンギュレーションについて、詳しくみてみましょう。",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "実験研究や統計学的処理をしたアンケート調査と比較し、質的研究は主として対象者の語りを分析しますので、結果に数値が使われません。",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "エビデンスとしてはやはり統計的に処理をした数値で表す方がどうしても客観性が高くみられるので、質的研究の結果は、量的研究を主とする研究者から、「エビデンスとして価値があるのか？」と懐疑的にみられやすいです。",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギュレーション｜Kakeru Asano",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギュレーション",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "本稿では、大規模言語モデル（Large Languagn Model, LLM）の急速かつ劇的な進歩を踏まえ、社会学の研究者であるノーマン・K・デンジンが1970年代に提唱した「トライアンギュレーション（三角測量）」という方法論の拡張を、デザインリサーチの多元化の一例として考察したいと思います。",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査をおこなう研究者から度々批判が繰り返されてきました。",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "①複数のデータ、②多様な調査者、③多様な分析手法、④多様な調査手法",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "を用いる「トライアンギュレーション（三角測量）」によって、デンジンは批判を乗り越えようとしたのです。",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "例えば、質的なインタビュー調査だけでなく、定量的なアンケート調査も行ない、その結果を比較することで、より正確な分析を目指します。また、トライアンギュレーションは、単一の研究者の偏りや主観性を排除するためにも有効であり、異なる研究者や研究グループが異なる手法で同じ問題に取り組むことで、より客観的な結果を得ることができるとされています。",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "【#287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ トライアンギュレーションの工夫と実践例～坪山（2021） 定性研究のテンプレート：Eisenhardtの複数事例研究｜齊藤光弘",
-    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "【#287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ トライアンギュレーションの工夫と実践例～坪山（2021） 定性研究のテンプレート：Eisenhardtの複数事例研究アプローチ からの学び vol.04",
-    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "坪山先生（2021） 「3.トライアンギュレーション：徹底したバイアスの排除」",
-    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "トライアンギュレーション（triangulation）",
-    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "さまざまなデータや研究手法を組み合わせ、研究対象を多面的に捉えること",
-    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "（1）インタビュー対象者の多様性 （人数・属性 等）",
-    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "といった取り組みから、厳密性の向上がなされているとのことでした（括弧の数字は、筆者 齊藤による割り振り）。",
-    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ... — Apr 3, 2023 · 本稿では、大規模言語モデル（Large Languagn Model, LLM）の急速かつ劇的な進歩を踏まえ、社会学の研究者であるノーマン・K・デンジンが1970年代に提唱した「トライアンギュレーション（三角測量）」という方法論の拡張を、デザインリサーチの多元化の一例と ...",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デザインリサーチャーは死んだのか──生成AIをめぐる3年間の議論と、ト... — Oct 22, 2026 · 私はワークショップの前年に「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギュレーション」という短いテキストを書き、社会学者のノーマン・K・デンジン（Norman K. Denzin）が提唱したトライアンギュレーション（三角測量）のうち ...",
-    "url": "https://note.com/kasano/n/n7b5909b6492c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "トライアンギュレーションとは？意味・4つの種類・研究での使い方をわ... — Sep 25, 2026 · デンジン自身はトライアンギュレーションを「複数の観察者・方法・解釈の視点・経験的資料の水準や形式を用いて解釈を構築すること」と説明しています。 トライアンギュレーションの4つの種類（デンジンの分類）",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "トライアンギュレーションとは｜質的研究 用語集 | コード化・カテゴ... — Jan 21, 2026 · トライアンギュレーションとは トライアンギュレーションとは、複数のデータ源、研究者、理論、方法を用いることで研究 ...",
-    "url": "https://code-category.tapeokoshi.net/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【わかりやすく】トライアンギュレーションとは？～具体例も交えて～ ... — Jan 14, 2024 · トライアンギュレーションとは まずは、定義を確認しておくと・・・ トライアンギュレーション（方法的複眼） とは基本 ...",
-    "url": "https://clitama.human-relation.net/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "トライアンギュレーション | Design Playbook — Mar 14, 2026 · トライアンギュレーションは、ひとつの調査結果を単独で信じるのではなく、異なる手法やデータ源、評価者の視点を組み合わせて解釈する考え方です。 定量と定性、観察と自己申告、複数の研究者によるレビューなどが典型例です。 主な種類 手法の三角 ...",
-    "url": "https://playbook.ankr.design/methods/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "質的研究においてなぜ三角測量（トライアンギュレーション）を用いる... — 以下では、4つのタイプが実際にどのようなものであるか、三角測量によって得られるものと得られないもの、情報源が対立したときの対処法、そして過剰な主張をせずに方法論のセクションに記述する方法を解説します。",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "トライアンギュレーション | Design Playbook — Mar 14, 2026 · トライアンギュレーション トライアンギュレーションは、複数の手法、データ、視点を組み合わせて、調査結果の確からしさや解釈の幅を高める考え方です。 更新日: 2026-03-14 概要",
-    "url": "https://playbook.ankr.design/methods/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Triangulation in Research: Definition, Types, Examples, and Steps — Nov 4, 2024 · Triangulation in research is the deliberate use of multiple data sources, methods, investigators, or theoretical perspectives to examine the same phenomenon. Researchers compare the resulting evidence to identify convergence, complementarity, and divergence. Done well, triangulation strengthens the credibility and de",
-    "url": "https://researchmethod.net/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Triangulation in Research: Types & Examples — Jun 17, 2026 · Triangulation in research is the practice of using multiple data sources, methods, investigators or theories to study a single phenomenon, so that the findings rest on more than one line of evidence.",
-    "url": "https://www.researchprospect.com/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Triangulation in Research: The 4 Types — CASRAI — Aug 23, 2026 · Triangulation in Research: Types, Purpose, and How to Apply It Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.",
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(PDF) The Role of Triangulation in Qualitative Research ... — Jul 5, 2024 · Abstract Triangulation is a methodological approach that involves using multiple methods or data sources to enhance the credibility and validity of research findings.",
-    "url": "https://www.researchgate.net/publication/382547374_The_Role_of_Triangulation_in_Qualitative_Research_Converging_Perspectives",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Triangulation in Research | Guide, Types, Examples - Scribbr — Jan 3, 2022 · Triangulation uses multiple data sources, methods, investigators or theories in research.",
-    "url": "https://www.scribbr.com/methodology/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(PDF) Triangulation in Research — Aug 31, 2021 · This research utilizes a mixed-method exploratory sequential research design employing the triangulation method to validate and confirm data using multiple sources to cross-check finding (Campbell ...",
-    "url": "https://www.researchgate.net/publication/354268603_Triangulation_in_Research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "質的研究におけるトライアンギュレーションとは｜M. Kawabata, RN., P... — Mar 7, 2025 · こんにちは！今回は、質的研究においてその質を上げるための方法として トライアンギュレーション について説明します ...",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ...VP ARCHIVE SCIENCE | Measuring the Earth PHASE 01-06 ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...上谷 良吉 ～解析空中三角測量システムの開発と実用化～ — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査をおこなう研究者から度々批判が",
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ... — Jun 11, 2025 · 今日は、坪山先生（2021） 「3.トライアンギュレーション：徹底したバイアスの排除」についての整理です。 Eisenhardt メソッドの特徴に、 徹底したトライアンギュレーションによって研究の厳密性を確保しようとしている p.26 が挙げられます。",
-    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "トライアンギュレーション とは？意味・4つの種類・研究での ... — トライアンギュレーション とは？意味・4つの種類・研究での ... scholarcompass.net https://scholarcompass.net > コラム",
-    "url": "https://scholarcompass.net/columns/184",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "質的研究における トライアンギュレーション とは？4つの型と ... — 質的研究における トライアンギュレーション とは？4つの型と ... Qualitati https://qualitati.com > blog > what-is-triangulation-qualitat...",
-    "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "トリアンギュレーション・ トライアンギュレーション — トリアンギュレーション・ トライアンギュレーション さくらインターネット https://navymule9.sakura.ne.jp > 16_triangulation_Social...",
-    "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "トライアンギュレーション （データの 三角測量 ） — トライアンギュレーション （データの 三角測量 ） はてなブログ https://oceanone.hatenablog.com > entry > 2020/02/19",
+    "quote": "トライアンギュレーション（データの三角測量） - Engineering Skills",
     "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
     "pass": 3,
     "first_seen": "2026-11-04"
-   }
-  ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
-   {
-    "quote": "Triangulation and Its Significance in Research: Enhancing ... Jul 17, 2025 · Abstract Triangulation is a vital methodological strategy employed to enhance the rigor, depth, and credibility of research findings. By integrating multiple methods, data sources, theoretical ...",
-    "url": "https://www.linkedin.com/pulse/triangulation-its-significance-research-enhancing-kousthupamany-folzc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
    },
    {
-    "quote": "Triangulation in educational research refers to the use of ... In educational research, triangulation can be executed in various ways: Data Triangulation:This involves using multiple data sources to study the same phenomenon. For example, a researcher might gather data through surveys, interviews, observations, and document analysis to gain a more comprehensive understanding of a particular educat",
-    "url": "https://pe.linkedin.com/posts/prof-susan-yego-802ba527_triangulation-in-educational-research-refers-activity-7133062884309278721-JV36",
+    "quote": "トライアンギュレーション（データの三角測量）",
+    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
     "pass": 3,
-    "first_seen": "2026-11-05"
+    "first_seen": "2026-11-04"
    },
    {
-    "quote": "Triangulation is the process of combining data from multiple ... Triangulation is the process of combining data from multiple sources or methods to enhance the credibility and reliability of qualitative research findings. Here are some steps to triangulate data in qualitative research: 🔴 Use multiple methods 🔴 Use multiple investigators 🔴 Use multiple theories 🔴 Use member checking 🔴 Use expert re",
-    "url": "https://nl.linkedin.com/posts/atlas-ti_atlasti-atlasticommunity-atlastiai-activity-7062078834677792768-rtTE",
+    "quote": "トライアンギュレーション(triangulation)",
+    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
     "pass": 3,
-    "first_seen": "2026-11-05"
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本語訳は、「三角測量」です",
+    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "測量方法を表す言葉ですが、データソースや検証方法を複数化（複眼化）し、研究の妥当性を高める方法として考案されました",
+    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "直ぐに結論を出したい誘惑に負けず、多角的な検証をしてみてください",
+    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "三角測量とは？（トライアンギュレーション / Triangulation：光切断法） | 装置品質を支える光学技術｜AYASE",
+    "url": "https://ayasecorporation.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "三角測量とは？（トライアンギュレーション / Triangulation：光切断法）",
+    "url": "https://ayasecorporation.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "三角測量とは？",
+    "url": "https://ayasecorporation.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "三角測量（Triangulation）とは、",
+    "url": "https://ayasecorporation.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
    }
   ],
   "実例": [
@@ -1150,6 +984,168 @@
    {
     "quote": "Contribution Analysis: Building a Credible Case Without a Control Group",
     "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "複数の視点から見ることで、結果の妥当性を高める",
+    "url": "https://code-category.tapeokoshi.net/triangulation-monju/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "結果として、真偽の精度が高まる",
+    "url": "https://code-category.tapeokoshi.net/triangulation-monju/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【心理学】事例研究とは？～簡単にメリット・デメリットまとめ～",
+    "url": "https://clitama.human-relation.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事例研究法についての定義、意義、問題点についてまとめました",
+    "url": "https://clitama.human-relation.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事例研究とは（定義）事例研究とは、１事例、または、少数事例について、各事例の個別性を尊重し、その個性を研究していく方法をいう",
+    "url": "https://clitama.human-relation.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in Research: Definition, Types, Examples, and Steps",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Worked Example of Triangulation",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "is associated particularly with Denzin’s classification of four forms: data, investigator, theory, and methodological triangulation (Denzin, 1978). It is widely used in qualitative research, mixed-methods studies, case studies, programme evaluation, education, healthcare, social",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "When methodologically different sources point towards a similar conclusion, confidence in the interpretation may increase. For example, falling attendance records, student interviews, and classroom observations may all indicate reduced engagement.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Using several investigators or theoretical perspectives can make hidden assumptions more visible. A second analyst may notice negative cases or alternative interpretations overlooked by the primary",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Data sources may also be less independent than they appear. For example, a manager’s report and an internal policy document may reproduce the same organizational narrative.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Negative or contradictory cases.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", constructs, themes, cases, groups, or time periods.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A qualitative case study might combine:",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Identify negative or deviant cases.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Negative-case analysis.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, an observed relationship may be examined through:",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Interviews, observation and documents in a case study",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Case-by-method tables.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Retrieve evidence by source or case.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in Research: Types & Examples - ResearchProspect",
+    "url": "https://www.researchprospect.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Published academic research papers examples",
+    "url": "https://www.researchprospect.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in Research: Types & Examples",
+    "url": "https://www.researchprospect.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Case Study Research: Methods",
+    "url": "https://www.researchprospect.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A worked example: integrating survey, interviews and documents",
+    "url": "https://www.researchprospect.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Use triangulation whenever a question is too complex, contested or context-dependent to trust to a single method, and especially when you want to strengthen the validity of quantitative work or the trustworthiness of qualitative work. It is a cornerstone of robust mixed-methods and case-study designs.",
+    "url": "https://www.researchprospect.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Denzin distinguished four kinds of triangulation. They are not mutually exclusive — a single ambitious study may use several at once — but it helps to keep them conceptually separate so you can describe precisely what you did and why. The table below summarises each type, what gets varied, and a quick example.",
+    "url": "https://www.researchprospect.com/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
@@ -1810,6 +1806,96 @@
     "first_seen": "2026-11-05"
    },
    {
+    "quote": "Sources may share biases",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation cannot eliminate all bias",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The advantages, limitations, common mistakes, and responsible use of digital tools.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation supports credibility and completeness; it does not guarantee truth or eliminate all bias.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Different study designs with different sources of bias.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Exposes individual interpretive bias",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In epidemiology and causal research, evidence triangulation can involve comparing findings from study designs with different and preferably unrelated sources of bias. The aim is not simply to repeat the same analysis, but to determine whether several imperfect approaches support a coherent causal explanation (Lawlor et al., 2016).",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In epidemiology, triangulation has been proposed as the integration of evidence from approaches whose important biases differ and are preferably unrelated (Lawlor et al., 2016).",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Agreement across designs can strengthen a causal argument when it is unlikely that the same bias produced all results. However, convergence alone still does not prove causation.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Retrospective additions may be vulnerable to confirmation bias unless clearly justified and reported.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "May reproduce biases in its training data or prompt.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How shared biases limit the conclusions.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Are shared biases considered?",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A causal question can be examined through approaches with different biases.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The additional source would merely duplicate the same bias.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
     "quote": "人間には「確証バイアス」があります",
     "url": "https://note.com/muchihaji3131/n/nbd8d564b66f6",
     "pass": 3,
@@ -1998,6 +2084,220 @@
    {
     "quote": "your results are concrete or enlist a partner to help check your biases.",
     "url": "https://dscout.com/people-nerds/triangulate-user-research",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Triangulation and Its Significance in Research: Enhancing ... Jul 17, 2025 · Abstract Triangulation is a vital methodological strategy employed to enhance the rigor, depth, and credibility of research findings. By integrating multiple methods, data sources, theoretical ...",
+    "url": "https://www.linkedin.com/pulse/triangulation-its-significance-research-enhancing-kousthupamany-folzc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in educational research refers to the use of ... In educational research, triangulation can be executed in various ways: Data Triangulation:This involves using multiple data sources to study the same phenomenon. For example, a researcher might gather data through surveys, interviews, observations, and document analysis to gain a more comprehensive understanding of a particular educat",
+    "url": "https://pe.linkedin.com/posts/prof-susan-yego-802ba527_triangulation-in-educational-research-refers-activity-7133062884309278721-JV36",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation is the process of combining data from multiple ... Triangulation is the process of combining data from multiple sources or methods to enhance the credibility and reliability of qualitative research findings. Here are some steps to triangulate data in qualitative research: 🔴 Use multiple methods 🔴 Use multiple investigators 🔴 Use multiple theories 🔴 Use member checking 🔴 Use expert re",
+    "url": "https://nl.linkedin.com/posts/atlas-ti_atlasti-atlasticommunity-atlastiai-activity-7062078834677792768-rtTE",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation is the process of combining data from multiple ... Triangulation is the process of combining data from multiple sources or methods to enhance the credibility and reliability of qualitative research findings.",
+    "url": "https://nl.linkedin.com/posts/atlas-ti_atlasti-atlasticommunity-atlastiai-activity-7062078834677792768-rtTE",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "デザインリサーチャーは死んだのか──生成AIをめぐる3年間の議論と、トライアンギュレーションのその後｜Kakeru Asano",
+    "url": "https://note.com/kasano/n/n7b5909b6492c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デザインリサーチャーは死んだのか──生成AIをめぐる3年間の議論と、トライアンギュレーションのその後",
+    "url": "https://note.com/kasano/n/n7b5909b6492c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2024年7月、コペンハーゲンで開かれた国際会議DIS（Designing Interactive Systems）[*1]で、「デザインリサーチャーの死？（Death of the Design Researcher?）」と題したワークショップが開かれました[*2]。すでにOpenAIが2024年5月にChatGPTの新しいモデルGPT-4oを発表し、世の中にもその影響力が高まっていたタイミングです。生成AIが文章も画像もつくりだすなかで、質的調査やプロトタイピングなどを通じて、まだ見ぬ世界を描こうとするデザインリサーチャーという役割はこれからも必要なのかということが挑発的なタイトルをもって問われました。",
+    "url": "https://note.com/kasano/n/n7b5909b6492c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "）時代のデザインリサーチにおけるトライアンギュレーション",
+    "url": "https://note.com/kasano/n/n7b5909b6492c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "」という短いテキストを書き、社会学者のノーマン・K・デンジン（Norman K. Denzin）が提唱したトライアンギュレーション（三角測量）のうち、「多様な調査者」にLLMを迎え入れ、ユーザーの視点に立った回答も期待できるのではないかと楽観的に考えていました。このワークショップと主催者たちがその後に発表した論文などを手がかりに、当時の自分の提案を問い直してみたいと思います。",
+    "url": "https://note.com/kasano/n/n7b5909b6492c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "生成AI時代におけるデザインリサーチャーの役割を問い直すワークショップ",
+    "url": "https://note.com/kasano/n/n7b5909b6492c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このワークショップは、デザイン研究者のヴィレム・ファン・デル・マーデン（Willem van der Maden）らが、DISで三年続けて開いたものの二回目にあたります。2023年の一回目は、現場に芽生えた実践を棚卸しし、生成AIが果たす役割の見取り図を描こうとしました[*3]。",
+    "url": "https://note.com/kasano/n/n7b5909b6492c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2024年の二回目が、本稿のタイトルにも借りた「デザインリサーチャーの死？」です。会議全体のテーマ「なぜデザインか（Why Design?）」[*1]を受け、文芸批評家のロラン・バルト（Roland Barthes）が1967年に発表した「作者の死」を下敷きにしています。バルトが作品の意味を作者の意図から解き放ち、作者の権威を問い直したように、生成AIはデザインリサーチャーの権威と役割を問い直すのではないか、という見立てです。これまでデザインリサーチャーは、とくにリサーチ・スルー・デザイン（Research through Design、RtD）の立場では、プロトタイプや問いかけのための人工物を自らつくり、つくる過程での判断と振り返りを通じて知を生み出す者でした。ところが生成AIがスケッチや未来のシナリオ、試作の画面まで瞬時に出力するなら、その人工物は誰がつくったものであり、そこから得られ",
+    "url": "https://note.com/kasano/n/n7b5909b6492c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "質的研究におけるトライアンギュレーションとは｜M. Kawabata, RN., PhD.",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "質的研究におけるトライアンギュレーションとは",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "M. Kawabata, RN., PhD.",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "こんにちは！今回は、質的研究においてその質を上げるための方法として",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "難しそうだなと思うかもしれません。でも、初心者の皆さんでも活用できる方法があるかもしれません。",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "では、トライアンギュレーションについて、詳しくみてみましょう。",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "実験研究や統計学的処理をしたアンケート調査と比較し、質的研究は主として対象者の語りを分析しますので、結果に数値が使われません。",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "エビデンスとしてはやはり統計的に処理をした数値で表す方がどうしても客観性が高くみられるので、質的研究の結果は、量的研究を主とする研究者から、「エビデンスとして価値があるのか？」と懐疑的にみられやすいです。",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギュレーション｜Kakeru Asano",
+    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギュレーション",
+    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本稿では、大規模言語モデル（Large Languagn Model, LLM）の急速かつ劇的な進歩を踏まえ、社会学の研究者であるノーマン・K・デンジンが1970年代に提唱した「トライアンギュレーション（三角測量）」という方法論の拡張を、デザインリサーチの多元化の一例として考察したいと思います。",
+    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。",
+    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査をおこなう研究者から度々批判が繰り返されてきました。",
+    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "①複数のデータ、②多様な調査者、③多様な分析手法、④多様な調査手法",
+    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "を用いる「トライアンギュレーション（三角測量）」によって、デンジンは批判を乗り越えようとしたのです。",
+    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば、質的なインタビュー調査だけでなく、定量的なアンケート調査も行ない、その結果を比較することで、より正確な分析を目指します。また、トライアンギュレーションは、単一の研究者の偏りや主観性を排除するためにも有効であり、異なる研究者や研究グループが異なる手法で同じ問題に取り組むことで、より客観的な結果を得ることができるとされています。",
+    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【#287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ トライアンギュレーションの工夫と実践例～坪山（2021） 定性研究のテンプレート：Eisenhardtの複数事例研究｜齊藤光弘",
+    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【#287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ トライアンギュレーションの工夫と実践例～坪山（2021） 定性研究のテンプレート：Eisenhardtの複数事例研究アプローチ からの学び vol.04",
+    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "坪山先生（2021） 「3.トライアンギュレーション：徹底したバイアスの排除」",
+    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "トライアンギュレーション（triangulation）",
+    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "さまざまなデータや研究手法を組み合わせ、研究対象を多面的に捉えること",
+    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（1）インタビュー対象者の多様性 （人数・属性 等）",
+    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "といった取り組みから、厳密性の向上がなされているとのことでした（括弧の数字は、筆者 齊藤による割り振り）。",
+    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
     "pass": 3,
     "first_seen": "2026-11-04"
    }
@@ -2226,39 +2526,9 @@
     "first_seen": "2026-11-04"
    }
   ],
-  "突き合わせ・推定": [
-   {
-    "quote": "質的研究においてなぜ三角測量（トライアンギュレーション）を用いるのか？",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "三角測量（トライアンギュレーション）は測量法にその名を由来しています",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その緊張感こそが三角測量において最も興味深い部分であり、ほぼすべてのガイドブックが省略している点です",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
+  "手順・やり方": [
    {
     "quote": "以下では、4つのタイプが実際にどのようなものであるか、三角測量によって得られるものと得られないもの、情報源が対立したときの対処法、そして過剰な主張をせずに方法論のセクションに記述する方法を解説します",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "<CTA title=\"データと主張の整合性を保つ\" description=\"Jenniは、すべての主張がデータに裏付けられているかどうか、下書き、引用、検証をサポートします\" buttonLabel=\"Jenniを無料で試す\" link=\"https://app.jenni.ai/register\" />",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "三角測量（トライアンギュレーション）とは？",
     "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -2270,25 +2540,7 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "デンジンによる4つの三角測量のタイプ",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データの三角測量 (Data triangulation)",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査者の三角測量 (Investigator triangulation)",
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "理論の三角測量 (Theory triangulation)",
+    "quote": "いかなる単一の証拠収集方法にも特有の盲点があり、それらの盲点はランダムに発生するものではありません",
     "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -2306,98 +2558,218 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "環境の三角測量 (environmental triangulation)",
+    "quote": "三角測量は通常、妥当性を高めるためのもの（同じことを2つの方法で検証し、答えが一致すればより確信を持てる）として喧伝されます",
     "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "もし2つ目の情報源も同じ盲点を共有しているなら、それは三角測量ではなく、単に音量を大きくしただけにすぎません\" />",
+    "quote": "は、異なる方法が現象の異なる側面を明らかにするため、その目的は検証ではなく、より全体的な像を描くことにあるとします",
     "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "：結果が食い違ったときの矛盾こそ、理解を深める手がかりになります",
+    "quote": "異なる方法は、",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "他の方法を使用することでは明らかにできない現象の側面を明らかにする",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "方法論のセクションでそう述べることは、あなたがその違いを理解していることを示します\" />",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そうではなく、それぞれの方法がどのような位置づけで観察していたのかを問いかけてください",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでの異議は、検証としての三角測量が、複数の方法が収束する「単一の客観的現実」を前提としている点にあります",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1回はデータ収集方法において、もう1回は信頼性を高めるためのテクニックとしてです",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "優れた方法論の段落に含まれるべき内容：どのタイプを使用し、なぜそのタイプなのか、具体的に何を変化させたのか、分析のどの段階で情報源を比較したのか、意見が対立したときにどう対処したのか、そしてその結果として何を主張しているのか",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "<CTA title=\"擁護可能な方法論セクションを書く\" description=\"章を構成し、信頼する手法論者を引用し、すべての主張が設計に合致しているかを検証しましょう\" buttonLabel=\"Jenniを無料で試す\" link=\"https://app.jenni.ai/register\" />",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "複数の方法（手法）で同じ現象を調べる方法です",
     "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "複数のデータ・方法・研究者・理論を組み合わせて、同じ現象を多角的に検証し、結論の確からしさを高める方法",
+    "quote": "さらに、同じ方法の中で複数の手段を使う「方法内（within-method）」と、質的方法と量的方法など異なる方法を組み合わせる「方法間（between-method）」に分けられることもあります",
     "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "」という短いテキストを書き、社会学者のノーマン・K・デンジン（Norman K. Denzin）が提唱したトライアンギュレーション（三角測量）のうち、「多様な調査者」にLLMを迎え入れ、ユーザーの視点に立った回答も期待できるのではないかと楽観的に考えていました",
+    "quote": "①生成AIがデザインリサーチをどう変えているか、②研究に生成AIを組み込む方法と、それが生む新たな協働、③RtDのように、つくることを通じて知を生み出す営みがどう変わるか、④成果の著者性やエージェンシー、著作権、信頼をどう扱うか",
     "url": "https://note.com/kasano/n/n7b5909b6492c",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "デンジンが「多様な調査者」を挙げたのは、立場〈ポジショナリティ〉の異なる研究者どうしで解釈を突き合わせ、一人の偏りを相対化するためでした",
+    "quote": "この二度のワークショップでの議論は、主催者たちの手で一本の論考にまとめられ、翌年の三回目の進め方にも引き継がれていきます",
     "url": "https://note.com/kasano/n/n7b5909b6492c",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "AIを関係的な媒体と見る先の論考の提案と重ねるなら、調査者や道具がそれぞれどこに立ち、何を見落としうるのかを記録したうえで知を突き合わせることが求められています",
+    "quote": "Towards a Design (Research) Framework with Generative AI",
     "url": "https://note.com/kasano/n/n7b5909b6492c",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "こうして地点を明かしたまま異なる知を突き合わせる",
-    "url": "https://note.com/kasano/n/n7b5909b6492c",
+    "quote": "質的研究やアンケート自由記述のコード化・カテゴリー化について、手順と考え方を体系的に解説",
+    "url": "https://code-category.tapeokoshi.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "参加者の席には人と素材を、調査者の席にはAIを含む道具と人を置き、それぞれの地点を記録しながら突き合わせる作法こそ、2023年の記事に足りなかったものかもしれません",
-    "url": "https://note.com/kasano/n/n7b5909b6492c",
+    "quote": "トライアンギュレーションとは、複数のデータ源、研究者、理論、方法を用いることで研究の信頼性を高める手法である",
+    "url": "https://code-category.tapeokoshi.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "矛盾は失敗ではなく、追加学習の入口になる",
+    "quote": "インタビューと観察を併用する（方法のトライアンギュレーション）、複数の研究者で同じデータを分析する（研究者のトライアンギュレーション）、患者と医療者の両方からデータを収集する（データ源のトライアンギュレーション）などがある",
+    "url": "https://code-category.tapeokoshi.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "必須ではないが、研究の信頼性を高める有効な方法である",
+    "url": "https://code-category.tapeokoshi.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "複数の方法、研究者、見解を組み合わせて用いることであり、それによって豊かで妥当な解釈を促進できる",
+    "url": "https://clitama.human-relation.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名前から想像できる通り、複数の方法を使って研究を行うことにより達成されるトライアンギュレーションである",
+    "url": "https://clitama.human-relation.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "どんな方法にも限界があり、妥当性が低い部分や歪みがある",
+    "url": "https://clitama.human-relation.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "単一の方法を用いると、結果は単にその方法によって生み出されたものでしかない危険がある",
+    "url": "https://clitama.human-relation.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しかし複数の方法を適切に組み合わせれば、それぞれ異なる情報を収集でき、得られた結果が単なる方法の生成物という以上のものだと確信を得ることができる",
+    "url": "https://clitama.human-relation.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この方法トライアンギュレーションは、もっとも用いられることが多いようで、例えば、1つの質的研究において「参与観察」と「半構造化面接」を行う方法が該当する",
+    "url": "https://clitama.human-relation.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を組み合わせる」にもまた方法トライアンギュレーションに該当するらしいのだが、だとすると",
+    "url": "https://clitama.human-relation.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "は方法トライアンギュレーションを達成してますね",
+    "url": "https://clitama.human-relation.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Rstudioのインストール方法〜Mac編〜",
+    "url": "https://clitama.human-relation.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【Mac編】統計解析ソフトrのダウンロード&インストール方法",
+    "url": "https://clitama.human-relation.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【心理系大学院受験生向け】心理英語⑮～性格類型・特性～",
+    "url": "https://clitama.human-relation.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "定量と定性、観察と自己申告、複数の研究者によるレビューなどが典型例です",
     "url": "https://playbook.ankr.design/methods/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "三角測量は以下の3要素で構成されます：",
-    "url": "https://ayasecorporation.com/triangulation/",
+    "quote": "質的研究やアンケート自由記述のコード化・カテゴリー化について、手順と考え方を体系的に解説",
+    "url": "https://code-category.tapeokoshi.net/triangulation-monju/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "現在主流となっているのが、レーザーを用いた三角測量方式です",
-    "url": "https://ayasecorporation.com/triangulation/",
+    "quote": "：複数の方法を併用する（例：インタビューと観察を組み合わせる）",
+    "url": "https://code-category.tapeokoshi.net/triangulation-monju/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "三角測量は非常に優れた手法ですが、実際の現場では以下の課題が精度を大きく左右します",
-    "url": "https://ayasecorporation.com/triangulation/",
+    "quote": "トライアンギュレーションは、これを「人」だけでなく「領域」や「方法」にも広げている",
+    "url": "https://code-category.tapeokoshi.net/triangulation-monju/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "三角測量の精度は、センサー性能以上に",
-    "url": "https://ayasecorporation.com/triangulation/",
+    "quote": "やり方を増やす → 方法のトライアンギュレーション",
+    "url": "https://code-category.tapeokoshi.net/triangulation-monju/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "三角測量は非常に強力な測定技術ですが、その性能を最大化する鍵は「光源設計」にあります",
-    "url": "https://ayasecorporation.com/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "三角測量の精度改善、ビーム最適化、装置組込みなど用途に応じた最適提案が可能です",
-    "url": "https://ayasecorporation.com/triangulation/",
+    "quote": "「三人寄れば文殊の知恵」の考え方を、人だけでなく、データ源・理論・方法にも広げたもの",
+    "url": "https://code-category.tapeokoshi.net/triangulation-monju/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
@@ -2408,109 +2780,97 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "エビデンスの三角測量：観察研究における因果推論のためのトライアンギュレーション",
-    "url": "https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_article/-char/ja",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "研究における三角測量とは？信頼できる調査結果への道 - Mind the Graphブログ",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "研究における三角測量とは？信頼できる調査結果への道",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "研究における三角測量とは？調査の精度を最大限に高め、この方法の利点を明らかにしましょう",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "三角測量は、多様なデータ源、方法論、視点を融合させることで、研究者のバイアスを減らし、研究の深みを増し、最終的にはより信頼できる徹底的な結論に到達することを可能にする",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事の目的は、その概念を明確にし、指針となる原則、テクニック、目的を明らかにすることで、「研究における三角測量とは何か」という問いに答えることである",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "研究の三角測量とは、ある研究テーマや現象を複数の角度、データソース、手法から検証するプロセスである",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "三角測量の概念は測量に由来し、複数の基準点を用いて物体の正確な位置を特定するために用いられる",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これと同様に、研究における三角測量は、対象を様々な視点から検証することで、収束的かつ徹底的な理解を生み出すことを目的としている",
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
     "quote": "単一の情報源に依存せず、複数の異なる手段から情報を集め、突き合わせることで真実に近づく方法です",
     "url": "https://note.com/muchihaji3131/n/nbd8d564b66f6",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "地図でいう「三角測量」のイメージです",
-    "url": "https://note.com/muchihaji3131/n/nbd8d564b66f6",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "フェルミ推定",
-    "url": "https://note.com/muchihaji3131/n/nbd8d564b66f6",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "の発想を借りて、事前に仮説を立てることにしました",
-    "url": "https://note.com/muchihaji3131/n/nbd8d564b66f6",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "業界の慣行から推測される原価構造、直近の設備投資の動向、競合製品との差分——これらを組み合わせて「おそらく先方が困っているのはこのあたりではないか」という仮説を3つほど作って商談に入りました",
-    "url": "https://note.com/muchihaji3131/n/nbd8d564b66f6",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "そしてその仮説があったことで、商談の序盤から「課題を一緒に考える対話」が始まりました",
-    "url": "https://note.com/muchihaji3131/n/nbd8d564b66f6",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "\"triangulation\"",
+    "quote": "こんにちは！今回は、質的研究においてその質を上げるための方法として",
     "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "これを日本語に役すると、「三角測量」ということになります",
+    "quote": "でも、初心者の皆さんでも活用できる方法があるかもしれません",
     "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "この三角測量とは一体なんでしょうか？",
+    "quote": "その方法の一つとして、",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これは複数の観測地点から目標物への角度を測定し、その位置を特定する方法です",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "複数のデータソース、方法論、また理論を用いて研究対象を多角的に分析すること",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これにより、単一の視点や方法だけを使った場合に生じる偏り（バイアス）を減らし、結果の妥当性と信頼性を高めます",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これは、 異なる人・時間・場所から同じ現象に関するデータを収集し比較する方法です",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ただ、この方法をとると妥当性・信頼性は高まりますが、対象者の人数が増えていきますので、初心者の皆さんや臨床の看護研究では、時間的制約が多いので、非現実的かもしれませんね",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "２番目は、調査をする人のトライアンギュレーションで、複数の研究者が独立して同じデータを分析し、解釈を比較検討する方法です",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これは複数の理論的枠組みを用いて同じデータを分析・解釈する方法です",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "こうすると、家族支援の多面的な側面を理解し、より包括的な支援方法を導き出せそうですね",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "4. 方法論的トライアンギュレーション",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "最後は、方法論のトライアンギュレーションです",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これは、複数のデータ収集方法を組み合わせて同じ現象を調査する方法です",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "すると、多様な方法で収集したデータを統合することができ、新人看護師の適応過程をより立体的に把握できます",
     "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
     "pass": 3,
     "first_seen": "2026-11-04"
@@ -2522,31 +2882,55 @@
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "を用いる「トライアンギュレーション（三角測量）」によって、デンジンは批判を乗り越えようとしたのです",
+    "quote": "混合研究手法（Mixed Methods Research）",
     "url": "https://note.com/kasano/n/n5300393c2f30",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "Triangulation 2.0",
+    "quote": "1960年代にデザインの方法論の研究から端を発する「デザインリサーチ」では、プロダクトやサービスなどあらゆる人工物を生成するための横断的な研究が進められてきました",
     "url": "https://note.com/kasano/n/n5300393c2f30",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "トライアンギュレーション（triangulation）",
+    "quote": "専門家だけでなく市民をリードユーザーとして迎え入れたり、デザイン主導型の場合もあれば、対話型のワークショップでアイデアを共に検討するなど、リフレクションを多用することも少なくありません",
+    "url": "https://note.com/kasano/n/n5300393c2f30",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "主たるデータ収集の方法はインタビューですが、その際も、複数の関係者にインタビューが行われます",
     "url": "https://note.com/saito_lab/n/n554cd436c4ae",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "そこで、複数のデータ・方法・研究者・理論を組み合わせて、同じ現象を多角的に検証する考え方が",
+    "quote": "定性研究にありがちな批判について、堅牢な分析アプローチにより潰しこむことができる（できた）からこそ、テンプレートして、多くの研究者に活用される方法論になった",
+    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "トライアンギュレーションとは？意味・4つの種類・研究での使い方をわかりやすく解説 | Scholar Compass",
     "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "もともとは測量の「三角測量」に由来する言葉で、質的研究の妥当性を高める工夫として広まりました",
+    "quote": "トライアンギュレーションとは？意味・4つの種類・研究での使い方をわかりやすく解説",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "研究では、一つのデータや一つの方法だけに頼ると、結論が偏ってしまうことがあります",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そこで、複数のデータ・方法・研究者・理論を組み合わせて、同じ現象を多角的に検証する考え方が",
     "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-04"
@@ -2558,37 +2942,43 @@
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "日本語では「三角測量」と訳されます",
+    "quote": "データ・研究者・理論・方法論の4種類",
     "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "読みは「トライアンギュレーション」（トリアンギュレーションとも表記）、英語は「triangulation」",
+    "quote": "トライアンギュレーションとは、一つの現象を研究する際に、複数のデータ・方法・研究者・理論といった異なる視点を組み合わせ、結論の妥当性・信頼性を高める方法です",
     "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "名前の由来は測量の三角測量です",
+    "quote": "複数の観測点（データ・方法など）から同じ現象を捉えることで、より確からしい理解に近づく",
     "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "単一でも二元的でもなく、三次元以上の多角的な視点を想定することから「三角測量」と呼ばれます",
+    "quote": "質的研究の妥当性を高める方法",
     "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "2人以上の研究者が同じ研究に関わり、観察・分析を突き合わせる",
+    "quote": "デンジン自身はトライアンギュレーションを「複数の観察者・方法・解釈の視点・経験的資料の水準や形式を用いて解釈を構築すること」と説明しています",
     "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "複数の理論・仮説の枠組みからデータを解釈する",
+    "quote": "方法論トライアンギュレーション",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "面接と観察、質問紙と面接など、複数の方法で同じ現象を調べる",
     "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-04"
@@ -2606,31 +2996,43 @@
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "：複数の視点の食い違いから、新たな問いや解釈が生まれることがある",
+    "quote": "一つのデータを、複数の理論的枠組みから解釈する方法です",
     "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "結果が食い違ったときに、その矛盾を手がかりに理解を深めることも、トライアンギュレーションの大切な役割とされます",
-    "url": "https://scholarcompass.net/columns/184",
+    "quote": "質的研究におけるトライアンギュレーションとは？4つの型と使い方 | Blog | Qualitati",
+    "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "トライアンギュレーション・デザイン（Triangulation Design）が挙げられます（Creswell et al., 2007）",
-    "url": "https://scholarcompass.net/columns/184",
+    "quote": "質的研究におけるトライアンギュレーションとは？4つの型と使い方",
+    "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "し、両者を突き合わせて研究課題の理解を深めるデザインです",
-    "url": "https://scholarcompass.net/columns/184",
+    "quote": "トライアンギュレーションの4つの型",
+    "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "古典的な4つの型（データ、方法、研究者、理論のトライアンギュレーション；Denzin, 1978）があり、その目的は唯一の真理を証明することではなく、より包括的で説得力のある説明を構築することにあります",
+    "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
     "quote": "二つの方法が食い違うとき、その矛盾自体がデータです",
+    "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "現象がより複雑であるか、文脈に依存していることを示しており、単一の方法では見えなかったものが浮かび上がります",
     "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "pass": 3,
     "first_seen": "2026-11-04"
@@ -2642,73 +3044,55 @@
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "ただしAIは検証されるべき情報源の一つであり、真理の最終的な判定者ではありません",
+    "quote": "古典的な型は4つあります",
     "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "二人の分析者が同じ記録をコーディングし、突き合わせて調整する",
+    "quote": "方法のトライアンギュレーション",
     "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "そして、自分の認識論が唯一の真理の存在を否定するなら、トライアンギュレーションがある単一の真理を「検証する」とは主張しないことです",
+    "quote": "データ収集の方法",
     "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "AIは検証される情報源であり、トライアンギュレーションを終わらせる裁定者ではありません",
+    "quote": "もう一つの型として、",
     "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "解釈主義の立場なら、研究をクリスタライゼーションや包括性として記述し、単一の真理を「検証する」ものとして記述しない",
+    "quote": "ほとんどのプロジェクトでは、元の4つの型で十分に検討できます",
     "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "検証すべきものであり、最終的な裁定者として扱うべきではありません",
+    "quote": "どの型を使うべきか？",
     "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "AIは視野を安価に広げますが、それは検証されるべき一つの視点として扱う場合に限られます",
+    "quote": "トライアンギュレーションは、その論証を構築する最も直接的な方法です",
     "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "検証を終わらせる権威としてではなく",
+    "quote": "誤った参加者に三つの方法を適用しても、誤った対象を三つの角度から見るだけです",
     "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Triangulation",
-    "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "社会科学におけるトライアンギュレーション（トリアンギュレーション、三角測量）とは、ノーマン・K・デンジンが1978年の著作のなかで提唱",
-    "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
     "quote": "したもので、方法論や検証方法を複数化（単一でも二元的でもない三次元以上のものを想定して「三角測量」と呼ぶ）することで、質的研究の妥当性を高める方",
-    "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "それは、１）データーそのもの多元化する三角測量、２）調",
     "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
     "pass": 3,
     "first_seen": "2026-11-04"
@@ -2720,25 +3104,13 @@
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "Triangulation:",
+    "quote": "Using multiple observers, methods, interpretive points of view, and",
     "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "four basic types of triangulation. (1) Data triangulation has three",
-    "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "collectivity. (2) Investigator triangulation consists of using multiple",
-    "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "triangulation consists of using multiple rather than single",
+    "quote": "perspectives in relation to the same set of objects. (4) Methodological",
     "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
     "pass": 3,
     "first_seen": "2026-11-04"
@@ -2762,100 +3134,190 @@
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "トライアンギュレーション（データの三角測量） - Engineering Skills",
-    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "トライアンギュレーション（データの三角測量）",
-    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "トライアンギュレーション(triangulation)",
-    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "日本語訳は、「三角測量」です",
-    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "測量方法を表す言葉ですが、データソースや検証方法を複数化（複眼化）し、研究の妥当性を高める方法として考案されました",
-    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "直ぐに結論を出したい誘惑に負けず、多角的な検証をしてみてください",
-    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "三角測量とは？（トライアンギュレーション / Triangulation：光切断法） | 装置品質を支える光学技術｜AYASE",
-    "url": "https://ayasecorporation.com/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "三角測量とは？（トライアンギュレーション / Triangulation：光切断法）",
-    "url": "https://ayasecorporation.com/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "三角測量とは？",
-    "url": "https://ayasecorporation.com/triangulation/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "三角測量（Triangulation）とは、",
-    "url": "https://ayasecorporation.com/triangulation/",
+    "quote": "方法論的三角化には、同一方法内での三角化と方法間の三角化が含まれる（Denzin 1989:237）",
+    "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
     "pass": 3,
     "first_seen": "2026-11-04"
    }
   ],
-  "SNS・note（note・検索結果の抜粋）": [
+  "検索結果の抜粋": [
    {
-    "quote": "大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ... Apr 3, 2023 · 本稿では、大規模言語モデル（Large Languagn Model, LLM）の急速かつ劇的な進歩を踏まえ、社会学の研究者であるノーマン・K・デンジンが1970年代に提唱した「トライアンギュレーション（三角測量）」という方法論の拡張を、デザインリサーチの多元化の一例と ...",
+    "quote": "大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ... — Apr 3, 2023 · 本稿では、大規模言語モデル（Large Languagn Model, LLM）の急速かつ劇的な進歩を踏まえ、社会学の研究者であるノーマン・K・デンジンが1970年代に提唱した「トライアンギュレーション（三角測量）」という方法論の拡張を、デザインリサーチの多元化の一例と ...",
     "url": "https://note.com/kasano/n/n5300393c2f30",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "デザインリサーチャーは死んだのか──生成AIをめぐる3年間の議論と、ト... Oct 22, 2026 · 私はワークショップの前年に「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギュレーション」という短いテキストを書き、社会学者のノーマン・K・デンジン（Norman K. Denzin）が提唱したトライアンギュレーション（三角測量）のうち ...",
+    "quote": "デザインリサーチャーは死んだのか──生成AIをめぐる3年間の議論と、ト... — Oct 22, 2026 · 私はワークショップの前年に「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギュレーション」という短いテキストを書き、社会学者のノーマン・K・デンジン（Norman K. Denzin）が提唱したトライアンギュレーション（三角測量）のうち ...",
     "url": "https://note.com/kasano/n/n7b5909b6492c",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "質的研究におけるトライアンギュレーションとは｜M. Kawabata, RN., P... Mar 7, 2025 · こんにちは！今回は、質的研究においてその質を上げるための方法として トライアンギュレーション について説明します ...",
+    "quote": "トライアンギュレーションとは？意味・4つの種類・研究での使い方をわ... — Sep 25, 2026 · デンジン自身はトライアンギュレーションを「複数の観察者・方法・解釈の視点・経験的資料の水準や形式を用いて解釈を構築すること」と説明しています。 トライアンギュレーションの4つの種類（デンジンの分類）",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "トライアンギュレーションとは｜質的研究 用語集 | コード化・カテゴ... — Jan 21, 2026 · トライアンギュレーションとは トライアンギュレーションとは、複数のデータ源、研究者、理論、方法を用いることで研究 ...",
+    "url": "https://code-category.tapeokoshi.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【わかりやすく】トライアンギュレーションとは？～具体例も交えて～ ... — Jan 14, 2024 · トライアンギュレーションとは まずは、定義を確認しておくと・・・ トライアンギュレーション（方法的複眼） とは基本 ...",
+    "url": "https://clitama.human-relation.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "トライアンギュレーション | Design Playbook — Mar 14, 2026 · トライアンギュレーションは、ひとつの調査結果を単独で信じるのではなく、異なる手法やデータ源、評価者の視点を組み合わせて解釈する考え方です。 定量と定性、観察と自己申告、複数の研究者によるレビューなどが典型例です。 主な種類 手法の三角 ...",
+    "url": "https://playbook.ankr.design/methods/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "質的研究においてなぜ三角測量（トライアンギュレーション）を用いる... — 以下では、4つのタイプが実際にどのようなものであるか、三角測量によって得られるものと得られないもの、情報源が対立したときの対処法、そして過剰な主張をせずに方法論のセクションに記述する方法を解説します。",
+    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "トライアンギュレーション | Design Playbook — Mar 14, 2026 · トライアンギュレーション トライアンギュレーションは、複数の手法、データ、視点を組み合わせて、調査結果の確からしさや解釈の幅を高める考え方です。 更新日: 2026-03-14 概要",
+    "url": "https://playbook.ankr.design/methods/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in Research: Definition, Types, Examples, and Steps — Nov 4, 2024 · Triangulation in research is the deliberate use of multiple data sources, methods, investigators, or theoretical perspectives to examine the same phenomenon. Researchers compare the resulting evidence to identify convergence, complementarity, and divergence. Done well, triangulation strengthens the credibility and de",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in Research: Types & Examples — Jun 17, 2026 · Triangulation in research is the practice of using multiple data sources, methods, investigators or theories to study a single phenomenon, so that the findings rest on more than one line of evidence.",
+    "url": "https://www.researchprospect.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in Research: The 4 Types — CASRAI — Aug 23, 2026 · Triangulation in Research: Types, Purpose, and How to Apply It Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(PDF) The Role of Triangulation in Qualitative Research ... — Jul 5, 2024 · Abstract Triangulation is a methodological approach that involves using multiple methods or data sources to enhance the credibility and validity of research findings.",
+    "url": "https://www.researchgate.net/publication/382547374_The_Role_of_Triangulation_in_Qualitative_Research_Converging_Perspectives",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in Research | Guide, Types, Examples - Scribbr — Jan 3, 2022 · Triangulation uses multiple data sources, methods, investigators or theories in research.",
+    "url": "https://www.scribbr.com/methodology/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(PDF) Triangulation in Research — Aug 31, 2021 · This research utilizes a mixed-method exploratory sequential research design employing the triangulation method to validate and confirm data using multiple sources to cross-check finding (Campbell ...",
+    "url": "https://www.researchgate.net/publication/354268603_Triangulation_in_Research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "トライアンギュレーションとは？意味・4つの種類・研究での使い方をわ... — Sep 25, 2026 · 研究では、一つのデータや一つの方法だけに頼ると、結論が偏ってしまうことがあります。 そこで、複数のデータ・方法・研究者・理論を組み合わせて、同じ現象を多角的に検証する考え方がトライアンギュレーションです。",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "質的研究におけるトライアンギュレーションとは｜M. Kawabata, RN., P... — Mar 7, 2025 · こんにちは！ 今回は、質的研究においてその質を上げるための方法としてトライアンギュレーションについて説明します。 難しそうだなと思うかもしれません。 でも、初心者の皆さんでも活用できる方法があるかもしれません。",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "トライアンギュレーションとは｜質的研究 用語集 | コード化・カテゴ... — Jan 21, 2026 · わかりやすく言えば トライアンギュレーションは、要は 「三人寄れば文殊の知恵」の研究版 だ。 一人の意見より二人、二人より三人。 Aの領域だけでなくB、Cの領域からの精査を含める。 複数の視点から見ることで、見落としを減らし、判断の精度を ...",
+    "url": "https://code-category.tapeokoshi.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "トライアンギュレーションとは「三人寄れば文殊の知恵」の研究版 | コ... — Feb 15, 2026 · まとめとして トライアンギュレーションは、難しい概念ではない。 「三人寄れば文殊の知恵」の考え方を、人だけでなく、データ源・理論・方法にも広げたもの。 複数の視点から見ることで、見落としを減らし、判断の精度を高める。",
+    "url": "https://code-category.tapeokoshi.net/triangulation-monju/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "トライアンギュレーションとは｜質的研究 用語集 | コード化・カテゴ... — Jan 21, 2026 · 具体例 インタビューと観察を併用する（方法のトライアンギュレーション）、複数の研究者で同じデータを分析する（研究者のトライアンギュレーション）、患者と医療者の両方からデータを収集する（データ源のトライアンギュレーション）などがある。",
+    "url": "https://code-category.tapeokoshi.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in Research: Definition, Types, Examples, and Steps — Nov 4, 2024 · Triangulation in research is the deliberate use of multiple data sources, methods, investigators, or theoretical perspectives to examine the same phenomenon. Researchers compare the resulting evidence to identify convergence, complementarity, and divergence.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in Research: The 4 Types — CASRAI — Aug 23, 2026 · Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation: Enhancing Research Validity Through ... — Dec 31, 2025 · Triangulation refers to the use of multiple methods or data sources in qualitative research to develop a comprehensive understanding of phenomena. Rather than relying on a single lens to interpret social reality, researchers deliberately look at the same question through different angles.",
+    "url": "https://sociology.institute/research-methodologies-methods/enhancing-research-validity-triangulation-methods/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in Research | Guide, Types, Examples - Scribbr — Jan 3, 2022 · In data triangulation, you use multiple data sources to answer your research question. You can vary your data collection across time, space, or different people.",
+    "url": "https://www.scribbr.com/methodology/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "質的研究におけるトライアンギュレーションとは｜M. Kawabata, RN., P... — Mar 7, 2025 · こんにちは！今回は、質的研究においてその質を上げるための方法として トライアンギュレーション について説明します ...",
     "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ...VP ARCHIVE SCIENCE | Measuring the Earth PHASE 01-06 ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...上谷 良吉 ～解析空中三角測量システムの開発と実用化～ 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査をおこなう研究者から度々批判が繰り",
+    "quote": "大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ...VP ARCHIVE SCIENCE | Measuring the Earth PHASE 01-06 ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...上谷 良吉 ～解析空中三角測量システムの開発と実用化～ — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査をおこなう研究者から度々批判が",
     "url": "https://note.com/kasano/n/n5300393c2f30",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ... Jun 11, 2025 · 今日は、坪山先生（2021） 「3.トライアンギュレーション：徹底したバイアスの排除」についての整理です。 Eisenhardt メソッドの特徴に、 徹底したトライアンギュレーションによって研究の厳密性を確保しようとしている p.26 が挙げられます。",
+    "quote": "287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ... — Jun 11, 2025 · 今日は、坪山先生（2021） 「3.トライアンギュレーション：徹底したバイアスの排除」についての整理です。 Eisenhardt メソッドの特徴に、 徹底したトライアンギュレーションによって研究の厳密性を確保しようとしている p.26 が挙げられます。",
     "url": "https://note.com/saito_lab/n/n554cd436c4ae",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "質的研究における トライアンギュレーション とは - note 質的研究における トライアンギュレーション とは - note note https://note.com > 教育・学び > 教育・学び",
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "quote": "トライアンギュレーション とは？意味・4つの種類・研究での ... — トライアンギュレーション とは？意味・4つの種類・研究での ... scholarcompass.net https://scholarcompass.net > コラム",
+    "url": "https://scholarcompass.net/columns/184",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "質的研究における トライアンギュレーション とは？4つの型と ... — 質的研究における トライアンギュレーション とは？4つの型と ... Qualitati https://qualitati.com > blog > what-is-triangulation-qualitat...",
+    "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "トリアンギュレーション・ トライアンギュレーション — トリアンギュレーション・ トライアンギュレーション さくらインターネット https://navymule9.sakura.ne.jp > 16_triangulation_Social...",
+    "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "トライアンギュレーション （データの 三角測量 ） — トライアンギュレーション （データの 三角測量 ） はてなブログ https://oceanone.hatenablog.com > entry > 2020/02/19",
+    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
     "pass": 3,
     "first_seen": "2026-11-04"
    }
@@ -2865,7 +3327,7 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/muchihaji3131/n/nbd8d564b66f6",
+    "url": "https://scholarcompass.net/columns/184",
     "status": "ok",
     "method": "http"
    },
@@ -2875,22 +3337,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
+    "url": "https://code-category.tapeokoshi.net/triangulation/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kasano/n/n7b5909b6492c",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
+    "url": "https://code-category.tapeokoshi.net/triangulation-monju/",
     "status": "ok",
     "method": "http"
    },
@@ -2900,42 +3352,7 @@
     "method": "http"
    },
    {
-    "url": "https://scholarcompass.net/columns/184",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://keywordkatakanagojiten2013.blogspot.com/2015/04/blog-post_55.html",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://code-category.tapeokoshi.net/triangulation/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.betterevaluation.org/methods-approaches/methods/triangulation",
+    "url": "https://ayasecorporation.com/triangulation/",
     "status": "ok",
     "method": "http"
    },
@@ -2945,42 +3362,32 @@
     "method": "http"
    },
    {
-    "url": "https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_article/-char/ja",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://clitama.human-relation.net/triangulation/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "url": "https://researchmethod.net/triangulation/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://jasr.or.jp/wp/asr/asrpdf/asr11/asr11_020.pdf",
-    "status": "network_error:ConnectTimeout",
-    "method": "pdf"
-   },
-   {
-    "url": "https://code-category.tapeokoshi.net/triangulation-monju/",
+    "url": "https://www.researchprospect.com/triangulation/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://ayasecorporation.com/triangulation/",
+    "url": "https://casrai.org/guides/triangulation-in-research",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://pubmed.ncbi.nlm.nih.gov/25158659/",
+    "url": "https://www.researchgate.net/publication/382547374_The_Role_of_Triangulation_in_Qualitative_Research_Converging_Perspectives",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://sociology.institute/research-methodologies-methods/enhancing-research-validity-triangulation-methods/",
     "status": "ok",
     "method": "browser"
    },
@@ -2990,487 +3397,610 @@
     "method": "http"
    },
    {
-    "url": "https://openpub.libraries.rutgers.edu/qualgo2/chapter/28/",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.nngroup.com/articles/triangulation-better-research-results-using-multiple-ux-methods/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://dscout.com/people-nerds/triangulate-user-research",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.linkedin.com/posts/fred-adick-409358bb_research-writing-students-activity-7393932681073487873-eIFt",
+    "url": "https://nl.linkedin.com/posts/atlas-ti_atlasti-atlasticommunity-atlastiai-activity-7062078834677792768-rtTE",
     "status": "robots_disallowed",
     "method": ""
-   },
-   {
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/saito_lab/n/n554cd436c4ae",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kasano/n/n5300393c2f30",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "status": "ok",
-    "method": "http"
    }
   ]
  },
  "search_log": [
   {
    "query": "複数の情報源を突き合わせる三角測量（トライアンギュレーション） site:note.com",
-   "results": [
-    "https://note.com/muchihaji3131/n/nbd8d564b66f6",
-    "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "https://note.com/saito_lab/n/n554cd436c4ae",
-    "https://note.com/kasano/n/n5300393c2f30",
-    "https://note.com/kasano/n/n7b5909b6492c",
-    "https://note.com/witty_mango107/n/na39978bdd66e",
-    "https://note.com/mindvoyproject/n/n6ebe1e0bbdc5",
-    "https://note.com/logic_magic/n/nf5651ba8baea"
-   ]
+   "results": []
   },
   {
    "query": "複数の情報源を突き合わせる三角測量（トライアンギュレーション） note",
    "results": [
-    "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "https://note.com/muchihaji3131/n/nbd8d564b66f6",
-    "https://note.com/kasano/n/n5300393c2f30",
-    "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
     "https://scholarcompass.net/columns/184",
-    "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
-    "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
-    "https://keywordkatakanagojiten2013.blogspot.com/2015/04/blog-post_55.html",
-    "https://code-category.tapeokoshi.net/triangulation/"
+    "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "https://code-category.tapeokoshi.net/triangulation/",
+    "https://code-category.tapeokoshi.net/triangulation-monju/",
+    "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "https://ayasecorporation.com/triangulation/",
+    "https://clitama.human-relation.net/triangulation/"
    ]
   },
   {
    "query": "複数の情報源を突き合わせる三角測量（トライアンギュレーション） やり方",
-   "results": [
-    "https://scholarcompass.net/columns/184",
-    "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
-    "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "https://code-category.tapeokoshi.net/triangulation/",
-    "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
-    "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "https://www.betterevaluation.org/methods-approaches/methods/triangulation",
-    "https://playbook.ankr.design/methods/triangulation/"
-   ]
+   "results": []
   },
   {
    "query": "複数の情報源を突き合わせる三角測量（トライアンギュレーション） 事例",
    "results": [
     "https://scholarcompass.net/columns/184",
     "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "https://code-category.tapeokoshi.net/triangulation/",
+    "https://playbook.ankr.design/methods/triangulation/",
     "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
-    "https://clitama.human-relation.net/triangulation/",
-    "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
-    "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
-    "https://jasr.or.jp/wp/asr/asrpdf/asr11/asr11_020.pdf",
-    "https://code-category.tapeokoshi.net/triangulation/"
+    "https://ayasecorporation.com/triangulation/",
+    "https://clitama.human-relation.net/triangulation/"
    ]
   },
   {
    "query": "triangulation multiple sources research",
    "results": [
-    "https://pubmed.ncbi.nlm.nih.gov/25158659/",
+    "https://researchmethod.net/triangulation/",
+    "https://www.researchprospect.com/triangulation/",
+    "https://casrai.org/guides/triangulation-in-research",
+    "https://www.researchgate.net/publication/382547374_The_Role_of_Triangulation_in_Qualitative_Research_Converging_Perspectives",
+    "https://sociology.institute/research-methodologies-methods/enhancing-research-validity-triangulation-methods/",
     "https://www.scribbr.com/methodology/triangulation/",
-    "https://openpub.libraries.rutgers.edu/qualgo2/chapter/28/",
-    "https://www.betterevaluation.org/methods-approaches/methods/triangulation",
-    "https://www.nngroup.com/articles/triangulation-better-research-results-using-multiple-ux-methods/",
-    "https://dscout.com/people-nerds/triangulate-user-research",
-    "https://www.linkedin.com/posts/fred-adick-409358bb_research-writing-students-activity-7393932681073487873-eIFt",
-    "https://www.quirkos.com/blog/post/triangulation-in-qualitative-research-analysis/",
-    "https://www.researchgate.net/profile/Helen-Noble-4/publication/333794057_Triangulation_in_research_with_examples/links/5dcf19fe4585156b351642e1/Triangulation-in-research-with-examples.pdf",
-    "https://researchmethod.net/triangulation/"
+    "https://www.researchgate.net/publication/354268603_Triangulation_in_Research"
    ]
   },
   {
    "query": "site:note.com 複数の情報源を突き合わせる三角測量（トライアンギュレーション）",
-   "results": [
-    "https://note.com/muchihaji3131/n/nbd8d564b66f6",
-    "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "https://note.com/saito_lab/n/n554cd436c4ae",
-    "https://note.com/kasano/n/n5300393c2f30",
-    "https://note.com/kasano/n/n7b5909b6492c",
-    "https://note.com/witty_mango107/n/na39978bdd66e",
-    "https://note.com/mindvoyproject/n/n6ebe1e0bbdc5",
-    "https://note.com/logic_magic/n/nf5651ba8baea"
-   ]
+   "results": []
   },
   {
    "query": "site:x.com 複数の情報源を突き合わせる三角測量（トライアンギュレーション）",
    "results": [
-    "https://x.com/tLtweBlNzQ4109/status/2111235225879707948",
+    "https://x.com/vtuberkaibou/status/2076115830656626924",
     "https://x.com/feel21sy/status/2108061353915412701",
+    "https://x.com/tLtweBlNzQ4109/status/2111235225879707948",
     "https://help.x.com/ja/resources/addressing-misleading-info",
     "https://x.com/triangulation60",
     "https://x.com/brains_rid/status/2030527850290528485",
-    "https://x.com/chemi384/status/2102520816432726221",
     "https://x.com/nmmqn/status/2103792224194719935"
    ]
   },
   {
    "query": "site:linkedin.com 複数の情報源を突き合わせる三角測量（トライアンギュレーション）",
    "results": [
-    "https://jp.linkedin.com/pulse/adding-multiple-sources-gustavo-villacrés-dcbec?tl=ja",
     "https://uk.linkedin.com/in/simon-galbraith-7847613",
+    "https://in.linkedin.com/company/straive_",
+    "https://jp.linkedin.com/pulse/adding-multiple-sources-gustavo-villacrés-dcbec?tl=ja",
     "https://jp.linkedin.com/pulse/data-triangulation-arun-kumar-zzruc?tl=ja",
-    "https://za.linkedin.com/in/elizabeth-moselakgomo-195171198",
-    "https://www.linkedin.com/pulse/triangulation-its-significance-research-enhancing-kousthupamany-folzc",
-    "https://www.linkedin.com/advice/3/what-most-effective-methods-triangulate-data-from-glmoc",
-    "https://jp.linkedin.com/pulse/trust-triangulation-cracking-code-llms-tim-andrews?tl=ja"
+    "https://www.linkedin.com/pulse/mixed-method-research-example-data-triangulation-ariful-islam",
+    "https://jp.linkedin.com/pulse/trust-triangulation-cracking-code-llms-tim-andrews?tl=ja",
+    "https://www.linkedin.com/pulse/triangulation-its-significance-research-enhancing-kousthupamany-folzc"
    ]
   },
   {
    "query": "site:facebook.com 複数の情報源を突き合わせる三角測量（トライアンギュレーション）",
    "results": [
     "https://www.facebook.com/ModoJapanGroup/photos/blogキットcdt-triangulation-for-modo-plug-inhttpsmodogroupjpblog20241205cdt-triangu/1093806412539759/",
+    "https://www.facebook.com/groups/406254390987840/",
     "https://www.facebook.com/photo.php/?fbid=25848379924774791",
     "https://www.facebook.com/yeah.chin.5/posts/skydio-x2-三角定位測量功能實作示範triangulation操作教學與救災應用本影片示範-skydio-x2-無人機三角定位測量triangulati/26768330036113104/",
     "https://www.facebook.com/chie.gotou.14/videos/-10秒でわかるドローン測量①ドローンで撮った写真が3dになる今回のテーマは-ドローン写真測量drone-photogrammetryドローンで撮影した複数の写/1987187051971450/",
-    "https://www.facebook.com/Toshibasemi.JP/posts/scroll-down-for-the-english-version学校で習いましたかシリーズ第12回です今回は三角測量です地図の作成において1980年代の衛/2032010400170831/",
     "https://www.facebook.com/chie.gotou.14/videos/-10秒でわかるドローン測量②なぜドローン測量では何枚も写真を撮るの実は写真の重なりに秘密がありますドローン写真測量では同じ場所を異なる位置から繰り返し撮影しま/1561820822300030/",
-    "https://www.facebook.com/Maptek/videos/learn-best-practices-for-creating-triangulations-in-vulcan-in-the-getting-starte/2394230340796538/"
+    "https://www.facebook.com/Toshibasemi.JP/posts/scroll-down-for-the-english-version学校で習いましたかシリーズ第12回です今回は三角測量です地図の作成において1980年代の衛/2032010400170831/"
    ]
   },
   {
    "query": "複数の情報源を突き合わせる三角測量（トライアンギュレーション） note 社長",
-   "results": [
-    "https://note.com/muchihaji3131/n/nbd8d564b66f6",
-    "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "https://note.com/kasano/n/n5300393c2f30",
-    "https://scholarcompass.net/columns/184",
-    "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
-    "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "https://keywordkatakanagojiten2013.blogspot.com/2015/04/blog-post_55.html",
-    "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html"
-   ]
+   "results": []
   },
   {
    "query": "複数の情報源を突き合わせる三角測量（トライアンギュレーション） X 投稿",
    "results": [
     "https://scholarcompass.net/columns/184",
-    "https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026",
-    "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
     "https://note.com/goldmist1959/n/nb892f5128ad2",
-    "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "https://clitama.human-relation.net/triangulation/",
-    "https://jlta2016.sakura.ne.jp/tutorial/Qualitative%20Methods/contents/page_032.html",
-    "https://keywordkatakanagojiten2013.blogspot.com/2015/04/blog-post_55.html",
-    "https://ameblo.jp/rs-algorithm-designer/entry-12683321903.html",
-    "https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_article/-char/ja"
+    "https://code-category.tapeokoshi.net/triangulation/",
+    "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
+    "https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_article/-char/ja",
+    "https://researchmap.jp/nyonemoto/misc/49626619",
+    "https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf"
    ]
   },
   {
    "query": "triangulation multiple sources research site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/prof-islam-elgammal-ab414943_triangulation-in-qualitative-research-activity-7323089916010094592-mH7c",
-    "https://www.linkedin.com/posts/fred-adick-409358bb_research-writing-students-activity-7393932681073487873-eIFt",
-    "https://www.linkedin.com/posts/peter-munene-9ab033b8_phd-thesis-thesiswriting-activity-7481213980716290048-xhDB",
-    "https://www.linkedin.com/pulse/research-designs-triangulation-meta-analysis-policy-prof-james-yy1je",
     "https://www.linkedin.com/pulse/triangulation-its-significance-research-enhancing-kousthupamany-folzc",
-    "https://www.linkedin.com/pulse/triangulation-dead-kien-nguyen-trung-phd-3exbc",
-    "https://www.linkedin.com/top-content/science/research-methods/triangulation-methods-in-research/",
-    "https://www.linkedin.com/posts/farah-arzu-wrfl-a7404a30b_importance-of-triangulation-in-research-triangulation-activity-7331561609498083328-lbCw",
-    "https://www.linkedin.com/posts/prof-islam-elgammal-ab414943_triangulation-in-research-the-concept-most-activity-7434519649121148928--gIb",
-    "https://www.linkedin.com/advice/3/what-most-effective-methods-triangulate-data-from-glmoc"
+    "https://www.linkedin.com/advice/3/what-most-effective-methods-triangulate-data-from-glmoc",
+    "https://pe.linkedin.com/posts/prof-susan-yego-802ba527_triangulation-in-educational-research-refers-activity-7133062884309278721-JV36",
+    "https://nl.linkedin.com/posts/atlas-ti_atlasti-atlasticommunity-atlastiai-activity-7062078834677792768-rtTE",
+    "https://pe.linkedin.com/posts/grad-coach-intl_one-data-source-is-good-three-is-better-activity-7290685289637810178-FFlk",
+    "https://ro.linkedin.com/pulse/how-analyze-qualitative-data-advanced-methods-2026-zk4re?tl=ro",
+    "https://nl.linkedin.com/posts/dscout_if-stakeholders-are-questioning-the-statistical-activity-7061744346416484352-Lgy9"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "質的研究におけるトライアンギュレーションとは｜M. Kawabata, RN., P... Mar 7, 2025 · こんにちは！ 今回は、質的研究においてその質を上げるための方法としてトライアンギュレーションについて説明します。 難しそうだなと思うかもしれません。 でも、初心者の皆さんでも活用できる方法があるかもしれません。",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "「三角測量」になぞらえた言葉で、複数の地点から測ることで正確な位置を特定する、という発想から来ている",
+    "url": "https://code-category.tapeokoshi.net/triangulation-monju/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in Research: Definition, Types, Examples, and Steps",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What Is Triangulation in Research?",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Why Is Triangulation Used?",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The Four Main Types of Triangulation",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1. Data Triangulation",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Common forms of data triangulation",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Space or location triangulation",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What data triangulation does not guarantee",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2. Investigator Triangulation",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Investigator triangulation versus intercoder reliability",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3. Theory Triangulation",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "When theory triangulation is useful",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4. Methodological Triangulation",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Within-method triangulation",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Between-method triangulation",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in Research: Types & Examples - ResearchProspect",
+    "url": "https://www.researchprospect.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in Research: Types & Examples",
+    "url": "https://www.researchprospect.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
    {
-    "quote": "Triangulation in M&E: 4 Types and Examples | M&E Studio",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "quote": "複数の視点から見ることで、結果の妥当性を高める",
+    "url": "https://code-category.tapeokoshi.net/triangulation-monju/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Triangulation in M&E: Four Types, Examples and What to Do When Sources Disagree",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "quote": "結果として、真偽の精度が高まる",
+    "url": "https://code-category.tapeokoshi.net/triangulation-monju/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Most methodologies describe what happens when sources agree and are silent on the case that actually requires judgment.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "quote": "【心理学】事例研究とは？～簡単にメリット・デメリットまとめ～",
+    "url": "https://clitama.human-relation.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "If the sources differ, give the range, the likely reason and what you checked. See the examples below.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "quote": "事例研究法についての定義、意義、問題点についてまとめました",
+    "url": "https://clitama.human-relation.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "A joint display lines up survey and interview findings by question, population and period. A fictional case shows how to read agreement, silence and conflict without forcing a single story.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "quote": "事例研究とは（定義）事例研究とは、１事例、または、少数事例について、各事例の個別性を尊重し、その個性を研究していく方法をいう",
+    "url": "https://clitama.human-relation.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Negative Case Analysis: Testing a Finding Against What Does Not Fit",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "quote": "Triangulation in Research: Definition, Types, Examples, and Steps",
+    "url": "https://researchmethod.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Negative case analysis searches for accounts that contradict an emerging explanation, then revises the explanation or limits its claim.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "quote": "Worked Example of Triangulation",
+    "url": "https://researchmethod.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Contribution Analysis: Building a Credible Case Without a Control Group",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "quote": "is associated particularly with Denzin’s classification of four forms: data, investigator, theory, and methodological triangulation (Denzin, 1978). It is widely used in qualitative research, mixed-methods studies, case studies, programme evaluation, education, healthcare, social",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "When methodologically different sources point towards a similar conclusion, confidence in the interpretation may increase. For example, falling attendance records, student interviews, and classroom observations may all indicate reduced engagement.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Using several investigators or theoretical perspectives can make hidden assumptions more visible. A second analyst may notice negative cases or alternative interpretations overlooked by the primary",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Data sources may also be less independent than they appear. For example, a manager’s report and an internal policy document may reproduce the same organizational narrative.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Negative or contradictory cases.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", constructs, themes, cases, groups, or time periods.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A qualitative case study might combine:",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Identify negative or deviant cases.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Negative-case analysis.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, an observed relationship may be examined through:",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Interviews, observation and documents in a case study",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Case-by-method tables.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Retrieve evidence by source or case.",
+    "url": "https://researchmethod.net/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in Research: Types & Examples - ResearchProspect",
+    "url": "https://www.researchprospect.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Published academic research papers examples",
+    "url": "https://www.researchprospect.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in Research: Types & Examples",
+    "url": "https://www.researchprospect.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Case Study Research: Methods",
+    "url": "https://www.researchprospect.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A worked example: integrating survey, interviews and documents",
+    "url": "https://www.researchprospect.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Use triangulation whenever a question is too complex, contested or context-dependent to trust to a single method, and especially when you want to strengthen the validity of quantitative work or the trustworthiness of qualitative work. It is a cornerstone of robust mixed-methods and case-study designs.",
+    "url": "https://www.researchprospect.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Denzin distinguished four kinds of triangulation. They are not mutually exclusive — a single ambitious study may use several at once — but it helps to keep them conceptually separate so you can describe precisely what you did and why. The table below summarises each type, what gets varied, and a quick example.",
+    "url": "https://www.researchprospect.com/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ],
   "失敗・落とし穴": [
    {
-    "quote": "Sources that share the same bias, such as two surveys of the same people",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "quote": "Sources may share biases",
+    "url": "https://researchmethod.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Decide before you collect what counts as agreement. Two of three sources? All three within a stated margin? Without this, the analyst decides after seeing the data, which is where bias re-enters.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "quote": "Triangulation cannot eliminate all bias",
+    "url": "https://researchmethod.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "The point is complementary bias. Pair breadth with depth, self-report with observation, recall with records.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "quote": "The advantages, limitations, common mistakes, and responsible use of digital tools.",
+    "url": "https://researchmethod.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Agreement across sources raises confidence; it does not establish causation. Three sources can share the same underlying bias.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "quote": "Triangulation supports credibility and completeness; it does not guarantee truth or eliminate all bias.",
+    "url": "https://researchmethod.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Remove a bias that all your sources share. Three sources that all rely on the same people's memory share the same recall error",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "quote": "Different study designs with different sources of bias.",
+    "url": "https://researchmethod.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "A savings group program showed strong income gains in participant recall data. Administrative records from partner financial institutions showed the same direction but a third of the magnitude. The evaluation reported the range and flagged recall bias explicitly, without asserting which source was correct solely because two sources disagreed.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "quote": "Exposes individual interpretive bias",
+    "url": "https://researchmethod.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "したがって、背景、条件、文脈の要因は、ニーズ（González, 2005）を生み出すだけでなく、もし教師や学校の文化が単に彼らの失敗に焦点を当て、ニーズを満たす方法に焦点を当てなければ、生徒を社会的および教育的な脆弱な状況に置く可能性があります",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "quote": "In epidemiology and causal research, evidence triangulation can involve comparing findings from study designs with different and preferably unrelated sources of bias. The aim is not simply to repeat the same analysis, but to determine whether several imperfect approaches support a coherent causal explanation (Lawlor et al., 2016).",
+    "url": "https://researchmethod.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "「教育的排除と学業不振は自然現象ではない」（Rodríguez, Álvarez y Moreno, 2009, p.176）ということを考慮すると、義務教育段階の中等教育における学生の失敗の背後には、初等教育で始まる多くの問題に満ちた学校の進路が隠されており、義務教育段階で学業への関心が徐々に失われていく形で現れることが、多くの研究で明らかにされています",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "quote": "In epidemiology, triangulation has been proposed as the integration of evidence from approaches whose important biases differ and are preferably unrelated (Lawlor et al., 2016).",
+    "url": "https://researchmethod.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "そして、これらの措置や提案は、一部の生徒にとってはエスクデロとマルティネス（2011）の言葉を借りれば「セカンドチャンス」と見なされるかもしれませんが、実際には、他の多くの生徒が失敗と基礎教育の放棄に追い込まれています",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "quote": "Agreement across designs can strengthen a causal argument when it is unlikely that the same bias produced all results. However, convergence alone still does not prove causation.",
+    "url": "https://researchmethod.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "反対に、つまり、教育と学習の組織化のあり方によって、特定の生徒に、繰り返される失敗、孤立、疎外、無価値感、あるいは排除の感情や状況を発達させることに貢献するすべては、学習に対する第一級の障壁と見なされるべきである（p.32）",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "quote": "Retrospective additions may be vulnerable to confirmation bias unless clearly justified and reported.",
+    "url": "https://researchmethod.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "行動に困難を抱え、すでに失敗の履歴（両段階で留年している）を抱えている生徒は、ほぼ必然的に、通常の教育以外の選択肢へと導かれます",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "quote": "May reproduce biases in its training data or prompt.",
+    "url": "https://researchmethod.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "すでに示されているように、一部の生徒にとっての義務教育は失敗しています（そして、ある程度の困難を抱える生徒にとって失敗するのであれば、それはすべての生徒にとっても失敗します）",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "quote": "How shared biases limit the conclusions.",
+    "url": "https://researchmethod.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "障壁の流れに沿って、生徒の失敗は個人的な要因（彼らがしないこと、彼らが知らないこと、彼らの行動など）で理解することはできないと考えています",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "quote": "Are shared biases considered?",
+    "url": "https://researchmethod.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "[…]の学校での失敗は、教育機関が地域社会から支援を見つけたり求めたりする上での困難さ、義務教育における学習内容の構成、個人の経験の無知と学校化された要求や力学においてそれらを考慮しないこと、家族と教育機関との距離、異文化や宗教的要素、機会均等と機会の決定における社会的背景、個人的な断絶と複雑なアイデンティティの構築、社会情勢における子供や若者の文化への距離、ジェンダーなどに関連して読むことができる（Hernández and Tort, 2009, p.6）",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "quote": "A causal question can be examined through approaches with different biases.",
+    "url": "https://researchmethod.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "これは、失敗が幼い頃から形成されており、「一時的な現象や最終的な結果」ではなく、メナら（2010、p.121）が言うように、「生徒の学校生活の全体またはかなりの部分に付き添うゆっくりとしたプロセス」である（p.121）ことを確認しています",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "要するに、特に義務教育段階で様々な生徒グループに影響を与える失敗は、複雑な問題である",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "学校での失敗との闘いのための政策：特別なプログラムか、システムと教育の根本的な変化か？Profesorado. Revista de Educación、特別号、「教育支援と強化のための公共政策」、174-193",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Escudero, J.M.; González, M.T. y Martínez, B. (2009). 学校での失敗は教育的排除として：理解、政策、実践",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Fernández Enguita, M., Mena Martínez, L. y Riviére Gómez, J. (2010). スペインにおける学校での失敗と中退",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "若者と知識の関係から学校での失敗に対する見方を変える",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "多様性への特別な注意プログラム：アンダルシア自治州の生徒に対する心理的、学術的認知、社会的影響",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一人で分析すれば、その人のバイアスが入る",
-    "url": "https://code-category.tapeokoshi.net/triangulation-monju/",
+    "quote": "The additional source would merely duplicate the same bias.",
+    "url": "https://researchmethod.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ],
-  "一次情報の探し方": [
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
    {
-    "quote": "この科目を担当していたのは、このプログラムの生徒の授業時間の大部分を、進路指導部の教員がカバーする必要があったため、学校側が採用した措置でした",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "quote": "Triangulation is the process of combining data from multiple ... Triangulation is the process of combining data from multiple sources or methods to enhance the credibility and reliability of qualitative research findings.",
+    "url": "https://nl.linkedin.com/posts/atlas-ti_atlasti-atlasticommunity-atlastiai-activity-7062078834677792768-rtTE",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "質的研究やアンケート自由記述のコード化・カテゴリー化について、手順と考え方を体系的に解説",
+    "url": "https://code-category.tapeokoshi.net/triangulation-monju/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "http://www. psicothema.com/pdf/3429.pdf",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "quote": "：複数の方法を併用する（例：インタビューと観察を組み合わせる）",
+    "url": "https://code-category.tapeokoshi.net/triangulation-monju/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "http://www.revistaeducacion.educacion.es/re356/re356_08.pdf",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "quote": "トライアンギュレーションは、これを「人」だけでなく「領域」や「方法」にも広げている",
+    "url": "https://code-category.tapeokoshi.net/triangulation-monju/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "http://journals.sagepub.com/doi/pdf/10.2304/eerj.2005.4.3.10.",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "quote": "やり方を増やす → 方法のトライアンギュレーション",
+    "url": "https://code-category.tapeokoshi.net/triangulation-monju/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "http://www.rinace.net/rlei/numeros/vol5-num2/art8.pdf",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "quote": "「三人寄れば文殊の知恵」の考え方を、人だけでなく、データ源・理論・方法にも広げたもの",
+    "url": "https://code-category.tapeokoshi.net/triangulation-monju/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "http://www.rinace.net/rlei/numeros/vol8-num2/art1.pdf",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "quote": "3D形状計測にはさまざまな方式がありますが、産業用途で広く使われている代表的な方法が 光切断法（レーザー三角測量） と 構造化光（Structured Light） です",
+    "url": "https://ayasecorporation.com/triangulation/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "トライアンギュレーションとは？意味・4つの種類・研究での使い方をわ... — Sep 25, 2026 · 研究では、一つのデータや一つの方法だけに頼ると、結論が偏ってしまうことがあります。 そこで、複数のデータ・方法・研究者・理論を組み合わせて、同じ現象を多角的に検証する考え方がトライアンギュレーションです。",
+    "url": "https://scholarcompass.net/columns/184",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "http://www.ugr.es/~recfpro/rev91ART4res.pdf",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "quote": "質的研究におけるトライアンギュレーションとは｜M. Kawabata, RN., P... — Mar 7, 2025 · こんにちは！ 今回は、質的研究においてその質を上げるための方法としてトライアンギュレーションについて説明します。 難しそうだなと思うかもしれません。 でも、初心者の皆さんでも活用できる方法があるかもしれません。",
+    "url": "https://note.com/goldmist1959/n/nb892f5128ad2",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "http://www.revistaeducacion.mec.es/re2010/re2010_05.pdf",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "quote": "トライアンギュレーションとは｜質的研究 用語集 | コード化・カテゴ... — Jan 21, 2026 · わかりやすく言えば トライアンギュレーションは、要は 「三人寄れば文殊の知恵」の研究版 だ。 一人の意見より二人、二人より三人。 Aの領域だけでなくB、Cの領域からの精査を含める。 複数の視点から見ることで、見落としを減らし、判断の精度を ...",
+    "url": "https://code-category.tapeokoshi.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "http://www.fapac.cat/sites/all/files/aula_1.pdf",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "quote": "トライアンギュレーションとは「三人寄れば文殊の知恵」の研究版 | コ... — Feb 15, 2026 · まとめとして トライアンギュレーションは、難しい概念ではない。 「三人寄れば文殊の知恵」の考え方を、人だけでなく、データ源・理論・方法にも広げたもの。 複数の視点から見ることで、見落としを減らし、判断の精度を高める。",
+    "url": "https://code-category.tapeokoshi.net/triangulation-monju/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "http://www.revistaeducacion.mec.es/re2010/re2010_02.pdf",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "quote": "トライアンギュレーションとは｜質的研究 用語集 | コード化・カテゴ... — Jan 21, 2026 · 具体例 インタビューと観察を併用する（方法のトライアンギュレーション）、複数の研究者で同じデータを分析する（研究者のトライアンギュレーション）、患者と医療者の両方からデータを収集する（データ源のトライアンギュレーション）などがある。",
+    "url": "https://code-category.tapeokoshi.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "http://www.ugr.es/~recfpro/rev133ART7.pdf",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "quote": "Triangulation in Research: Definition, Types, Examples, and Steps — Nov 4, 2024 · Triangulation in research is the deliberate use of multiple data sources, methods, investigators, or theoretical perspectives to examine the same phenomenon. Researchers compare the resulting evidence to identify convergence, complementarity, and divergence.",
+    "url": "https://researchmethod.net/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "統計目的のみに利用される保存または技術的なアクセス",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "quote": "Triangulation in Research: The 4 Types — CASRAI — Aug 23, 2026 · Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "匿名の統計目的のみに利用される技術的な保存またはアクセス",
-    "url": "https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/",
+    "quote": "Triangulation: Enhancing Research Validity Through ... — Dec 31, 2025 · Triangulation refers to the use of multiple methods or data sources in qualitative research to develop a comprehensive understanding of phenomena. Rather than relying on a single lens to interpret social reality, researchers deliberately look at the same question through different angles.",
+    "url": "https://sociology.institute/research-methodologies-methods/enhancing-research-validity-triangulation-methods/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in Research | Guide, Types, Examples - Scribbr — Jan 3, 2022 · In data triangulation, you use multiple data sources to answer your research question. You can vary your data collection across time, space, or different people.",
+    "url": "https://www.scribbr.com/methodology/triangulation/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ]
  },
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-04T23:54:33.386957+00:00"
 }

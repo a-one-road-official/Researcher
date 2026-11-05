@@ -8,16 +8,8 @@
  ],
  "context": "探し方",
  "kind": "market",
- "researched_at": "2026-11-05T07:28:58.080772+00:00",
+ "researched_at": "2026-11-05T09:02:58.740024+00:00",
  "evidence": {
-  "SNS・note（X・検索結果の抜粋）": [
-   {
-    "quote": "直近のテレビ報道番組での、OSINT（公開情報調査）の活用についてnote... 渡邉英徳 wtnv (@hwtnv). 直近のテレビ報道番組での、OSINT（公開情報調査）の活用についてnoteにまとめました。 衛星画像やMarineTrafficを活用して中東情勢をどのように分析したのか、要点と動画リンクを整理しています。",
-    "url": "https://x.com/hwtnv/status/2038409114947391887",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "ペネトレーションテストの標準的なフレームワークでは、最初のフェーズは必ず",
@@ -660,6 +652,188 @@
     "url": "https://www.marketresearchfuture.com/reports/open-source-intelligence-market-4545",
     "pass": 3,
     "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "SNSのプロフィール画像から素性を調べる方法",
+    "url": "https://note.com/tantei_note/n/n50655677d2da",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自分の情報が漏れていないかチェックする方法",
+    "url": "https://note.com/tantei_note/n/n50655677d2da",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "インフラ調査、人物特定、SNS分析、ダークウェブ情報収集まで、公開情報から高度なインテリジェンスを得る方法を具体例とツールとともに紹介します",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前回の記事「【初心者向け完全ガイド】OSINTとは何か？」では、公開情報収集の基本概念・主要ツール・基礎的な調査手順を解説しました",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "画像の地理的特定（Geolocation）実践手順",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "🗺️ EXIFにGPS情報がない場合でも場所を特定する手順",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "エラーページでフレームワーク・バージョン情報を表示しない",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OPSEC 5ステップモデル",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "公開情報という武器――OSINT入門｜red_structure",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "// 人物情報（Person OSINT）",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "// 組織・企業情報（Organization OSINT）",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "// ドメイン・インフラ情報（Technical OSINT）",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "// SNS・デジタルフットプリント（Social OSINT）",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT（Open Source Intelligence）",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ。「オープンソース」という言葉は、ソフトウェアのオープンソースではなく",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "もともとは軍や諜報機関が使っていた概念で、CIAやNSAが作戦前に公開情報から敵の状況を分析する手法として発展した。現在はペネトレーションテストの偵察フェーズ・ジャーナリズム・犯罪捜査・企業の競合調査など幅広い領域で使われている。",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "公開情報 という武器―― OSINT 入門｜red_structure - note 公開情報 という武器―― OSINT 入門｜red_structure - note note https://note.com > ビジネス > 法務・コンプライアンス・知財",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開情報という武器――OSINT入門｜red_structure Mar 18, 2026 · OSINTとは何か——諜報活動との違い OSINT（Open Source Intelligence）とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ。",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開情報という武器――OSINT入門｜red_structure Mar 18, 2026 · OSINTとは何か——諜報活動との違い OSINT（Open Source Intelligence）とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ。「オープンソース」という言葉は、ソフトウェアのオープンソースではなく「公開されている情報源」を意味する。 もともとは軍や ...",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "直近のテレビ報道番組での、OSINT（公開情報調査）の活用についてnote... 渡邉英徳 wtnv (@hwtnv). 直近のテレビ報道番組での、OSINT（公開情報調査）の活用についてnoteにまとめました。 衛星画像やMarineTrafficを活用して中東情勢をどのように分析したのか、要点と動画リンクを整理しています。",
+    "url": "https://x.com/hwtnv/status/2038409114947391887",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "公開情報という武器――OSINT入門｜red_structure — Mar 18, 2026 · OSINTとは何か——諜報活動との違い OSINT（Open Source Intelligence）とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ。",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT（公開情報調査）入門｜個人でも使える基本ツール5選 — Jul 28, 2026 · OSINT（Open Source Intelligence／公開情報調査）は、公開されている情報源を体系的に収集・分析し、判断材料として整理する手法の総称だ。 特別なツールを揃えないと使えないものではなく、公的データベースや報道アーカイブと...",
+    "url": "https://shiraberu-note.com/osint-basic-tools-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINTとは公開情報を利用して情報収集・分析を行う手法 — Jan 17, 2025 · OSINT（オープンソース・インテリジェンス）は、インターネット上の公開情報を利用して情報収集・分析を行う手法です。 サイバーセキュリティから企業調査まで幅広い分野で活用されています。",
+    "url": "https://cybersecurity-info.com/column/30403/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT（公開情報調査）入門｜個人でも使える基本ツール5選 — Jul 28, 2026 · 特別なツールを揃えないと使えないものではなく、公的データベースや報道アーカイブといった身近な公開情報を、検証の作法に沿って組み合わせる姿勢そのものがOSINTを構成する。",
+    "url": "https://shiraberu-note.com/osint-basic-tools-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【初心者向け完全ガイド】OSINTとは何か？公開情報から真実を読み解く... — Mar 9, 2026 · OSINT（Open Source Intelligence）とは何かを初心者向けに解説。 公開情報を使った情報収集の基本、検索テクニック、SNS・地理情報・企業調査への活用方法、注意点までわかりやすく紹介する完全ガイド。",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Open Source Intelligence (OSINT) Market (2026 – 2035)Open-Source Intelligence (OSINT) - Global Strategic Business ...Open Source Intelligence Market Trends Anaysis Report 2026-2030Top 15 OSINT Tools for Business Intelligence - salesfuel.comOpen-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (Osint) Market Size, Share | Growth ... — Open-Source Intelligence (OSINT) Type",
+    "url": "https://www.marketresearchfuture.com/reports/open-source-intelligence-market-4545",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Open-Source Intelligence (OSINT) - Global Strategic Business ...Open Source Intelligence Market Trends Anaysis Report 2026-2030Top 15 OSINT Tools for Business Intelligence - salesfuel.comOpen-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (Osint) Market Size, Share | Growth ... — The Open-Source Intelligence (OSINT) Market, valued at USD 12.4B in 2025, is projected to ",
+    "url": "https://www.researchandmarkets.com/reports/6236083/open-source-intelligence-osint-global",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Open-Source Intelligence (OSINT) - Global Strategic Business ...Open Source Intelligence (OSINT) Market (2026 – 2035)Open Source Intelligence Market Trends Anaysis Report 2026-2030Top 15 OSINT Tools for Business Intelligence - salesfuel.comOpen-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (Osint) Market Size, Share | Growth ... — The Open-Source Intelligence (OSINT) ",
+    "url": "https://www.researchandmarkets.com/reports/6236083/open-source-intelligence-osint-global",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Open Source Intelligence (OSINT) Market (2026 – 2035)Open Source Intelligence Market Trends Anaysis Report 2026-2030Top 15 OSINT Tools for Business Intelligence - salesfuel.comOpen-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (Osint) Market Size, Share | Growth ... — Open-Source Intelligence (OSINT) Type Insights Based on technique, the Open-Source Intelligence (OSIN",
+    "url": "https://www.marketresearchfuture.com/reports/open-source-intelligence-market-4545",
+    "pass": 3,
+    "first_seen": "2026-11-05"
    }
   ],
   "突き合わせ・推定": [
@@ -1202,54 +1376,28 @@
     "url": "https://www.thebusinessresearchcompany.com/report/open-source-intelligence-global-market-report",
     "pass": 3,
     "first_seen": "2026-11-05"
-   }
-  ],
-  "SNS・note（note・本文）": [
+   },
    {
-    "quote": "公開情報という武器――OSINT入門｜red_structure",
-    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "quote": "メールアドレスに関する公開情報の検索・検証に使えるOSINTツールをまとめています",
+    "url": "https://mikiya-webdesign.com/osint-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "// 人物情報（Person OSINT）",
-    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "quote": "偽情報対策やメディア検証に使えるツールをまとめています",
+    "url": "https://mikiya-webdesign.com/osint-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "// 組織・企業情報（Organization OSINT）",
-    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "quote": "AI関連の調査・検証に使えるツールをまとめています",
+    "url": "https://mikiya-webdesign.com/osint-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "// ドメイン・インフラ情報（Technical OSINT）",
-    "url": "https://note.com/red_structure/n/na2c79b00d217",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "// SNS・デジタルフットプリント（Social OSINT）",
-    "url": "https://note.com/red_structure/n/na2c79b00d217",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OSINT（Open Source Intelligence）",
-    "url": "https://note.com/red_structure/n/na2c79b00d217",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ。「オープンソース」という言葉は、ソフトウェアのオープンソースではなく",
-    "url": "https://note.com/red_structure/n/na2c79b00d217",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "もともとは軍や諜報機関が使っていた概念で、CIAやNSAが作戦前に公開情報から敵の状況を分析する手法として発展した。現在はペネトレーションテストの偵察フェーズ・ジャーナリズム・犯罪捜査・企業の競合調査など幅広い領域で使われている。",
-    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "quote": "Cross-checking the facts available for the public and running social media analysis will reveal inconsistencies that may indicate fraud, thus preventing damaging transactions and giving a chance to notify law enforcement agencies.",
+    "url": "https://coresignal.com/blog/osint-business/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -1786,6 +1934,54 @@
    {
     "quote": "画面の4つの場所、3分でできる最初の1回、実際に動かして確かめたレシピ7つ、自動判定のMagic、外部と通信する操作やURLに入力が残る点など、安全に使うための注意まで図解します",
     "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Publication does not eliminate bias or error",
+    "url": "https://aofirs.org/articles/osint-open-source-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Common OSINT Mistakes",
+    "url": "https://aofirs.org/articles/osint-open-source-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "One of the most common mistakes is starting an investigation without defining the question. This creates large amounts of irrelevant information and makes it difficult to determine when the research is complete.",
+    "url": "https://aofirs.org/articles/osint-open-source-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Another common mistake is treating search ranking as evidence of reliability. Search engines help researchers discover information, but ranking does not establish that a source is original or accurate.",
+    "url": "https://aofirs.org/articles/osint-open-source-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Researchers can also mistake repetition for corroboration. Several websites repeating the same claim may all originate from one unverified source.",
+    "url": "https://aofirs.org/articles/osint-open-source-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT can contain incomplete, outdated, duplicated, manipulated, biased, or decontextualized information. Search engines have coverage gaps, online content can disappear, identities can be difficult to verify, and AI can create false connections. Strong conclusions therefore require corroboration and transparent limitations.",
+    "url": "https://aofirs.org/articles/osint-open-source-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Potential for Confirmation Bias",
+    "url": "https://builtin.com/articles/open-source-intelligence-osint",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "It can be easy to fall into a “confirmation bias trap” while conducting OSINT investigations, according to Willis. Users may unintentionally favor information that agrees with their preexisting beliefs or agenda, and overlook or discount any contradictory evidence. In OSINT, where data is often vast and diverse,",
+    "url": "https://builtin.com/articles/open-source-intelligence-osint",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -2450,60 +2646,52 @@
     "url": "https://www.researchandmarkets.com/reports/6236083/open-source-intelligence-osint-global",
     "pass": 3,
     "first_seen": "2026-11-05"
-   }
-  ],
-  "検索結果の抜粋": [
+   },
    {
-    "quote": "公開情報という武器――OSINT入門｜red_structure — Mar 18, 2026 · OSINTとは何か——諜報活動との違い OSINT（Open Source Intelligence）とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ。",
-    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "quote": "公的登記情報 法人登記、不動産登記",
+    "url": "https://note.com/tantei_note/n/n50655677d2da",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "OSINT（公開情報調査）入門｜個人でも使える基本ツール5選 — Jul 28, 2026 · OSINT（Open Source Intelligence／公開情報調査）は、公開されている情報源を体系的に収集・分析し、判断材料として整理する手法の総称だ。 特別なツールを揃えないと使えないものではなく、公的データベースや報道アーカイブと...",
-    "url": "https://shiraberu-note.com/osint-basic-tools-guide/",
+    "quote": "filetype:xlsx OR filetype:pdf",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "OSINTとは公開情報を利用して情報収集・分析を行う手法 — Jan 17, 2025 · OSINT（オープンソース・インテリジェンス）は、インターネット上の公開情報を利用して情報収集・分析を行う手法です。 サイバーセキュリティから企業調査まで幅広い分野で活用されています。",
-    "url": "https://cybersecurity-info.com/column/30403/",
+    "quote": "企業サイトの過去の「採用ページ」から当時の組織構造・使用技術スタックを特定",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "OSINT（公開情報調査）入門｜個人でも使える基本ツール5選 — Jul 28, 2026 · 特別なツールを揃えないと使えないものではなく、公的データベースや報道アーカイブといった身近な公開情報を、検証の作法に沿って組み合わせる姿勢そのものがOSINTを構成する。",
-    "url": "https://shiraberu-note.com/osint-basic-tools-guide/",
+    "quote": "求人票は企業の「現状の技術課題」を直接反映しています",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "【初心者向け完全ガイド】OSINTとは何か？公開情報から真実を読み解く... — Mar 9, 2026 · OSINT（Open Source Intelligence）とは何かを初心者向けに解説。 公開情報を使った情報収集の基本、検索テクニック、SNS・地理情報・企業調査への活用方法、注意点までわかりやすく紹介する完全ガイド。",
-    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "quote": "「CloudTrail・GuardDutyの知識」→ AWSのセキュリティサービスを採用",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Open Source Intelligence (OSINT) Market (2026 – 2035)Open-Source Intelligence (OSINT) - Global Strategic Business ...Open Source Intelligence Market Trends Anaysis Report 2026-2030Top 15 OSINT Tools for Business Intelligence - salesfuel.comOpen-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (Osint) Market Size, Share | Growth ... — Open-Source Intelligence (OSINT) Type",
-    "url": "https://www.marketresearchfuture.com/reports/open-source-intelligence-market-4545",
+    "quote": "LinkedInで組織図を推測（ITチーム・セキュリティチームの規模）→ 採用情報から使用セキュリティ製品を特定 → Xで従業員の技術的発言を収集 → 技術ブログ・SlideShare・SpeakerDeckで発表資料を検索",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Open-Source Intelligence (OSINT) - Global Strategic Business ...Open Source Intelligence Market Trends Anaysis Report 2026-2030Top 15 OSINT Tools for Business Intelligence - salesfuel.comOpen-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (Osint) Market Size, Share | Growth ... — The Open-Source Intelligence (OSINT) Market, valued at USD 12.4B in 2025, is projected to ",
-    "url": "https://www.researchandmarkets.com/reports/6236083/open-source-intelligence-osint-global",
+    "quote": "「Opus級のAIがVRAM 12GBで動く」はどこまで本当？話題のStrata 0.2を一次情報で確かめた",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Open-Source Intelligence (OSINT) - Global Strategic Business ...Open Source Intelligence (OSINT) Market (2026 – 2035)Open Source Intelligence Market Trends Anaysis Report 2026-2030Top 15 OSINT Tools for Business Intelligence - salesfuel.comOpen-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (Osint) Market Size, Share | Growth ... — The Open-Source Intelligence (OSINT) ",
-    "url": "https://www.researchandmarkets.com/reports/6236083/open-source-intelligence-osint-global",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Open Source Intelligence (OSINT) Market (2026 – 2035)Open Source Intelligence Market Trends Anaysis Report 2026-2030Top 15 OSINT Tools for Business Intelligence - salesfuel.comOpen-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (Osint) Market Size, Share | Growth ... — Open-Source Intelligence (OSINT) Type Insights Based on technique, the Open-Source Intelligence (OSIN",
-    "url": "https://www.marketresearchfuture.com/reports/open-source-intelligence-market-4545",
+    "quote": "公的記録・公開記録の調査に使えるリソースをまとめています",
+    "url": "https://mikiya-webdesign.com/osint-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -2512,6 +2700,12 @@
    {
     "quote": "Neil Smith - Open Source Intelligence / i3 Consultant ...OSINT, OT & LinkedIn: how they build the plant before they ...Lana A. - Investigations & Corporate Intelligence | OSINT ...Ritchel M. - Senior Research Analyst at Altrata | OSINT ... In the last few years I started to specialise in using Open Source Intelligence to research the subjects of our investigations and then supplied this informatio",
     "url": "https://uk.linkedin.com/in/neilsmith3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Maxim Marshak - OSINT Engineer & Research Data Analyst ...Unveiling the Hidden: A Guide to Open Source Intelligence (OSINT)Ritchel M. - Senior Research Analyst at Altrata | OSINT ...OSINT Industries - LinkedIn I am a Research Data Analyst and OSINT Engineer with 20+ years of experience in software engineering, backend development, automation, databases, and data-intensive systems. Over the past se",
+    "url": "https://kz.linkedin.com/in/osintech",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -3122,18 +3316,100 @@
     "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
     "pass": 3,
     "first_seen": "2026-11-05"
-   }
-  ],
-  "SNS・note（note・検索結果の抜粋）": [
+   },
    {
-    "quote": "公開情報 という武器―― OSINT 入門｜red_structure - note 公開情報 という武器―― OSINT 入門｜red_structure - note note https://note.com > ビジネス > 法務・コンプライアンス・知財",
-    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "quote": "❌ 調査結果を使って嫌がらせをする → アウト",
+    "url": "https://note.com/tantei_note/n/n50655677d2da",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "公開情報という武器――OSINT入門｜red_structure Mar 18, 2026 · OSINTとは何か——諜報活動との違い OSINT（Open Source Intelligence）とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ。",
-    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "quote": "Caselaw Access Project",
+    "url": "https://mikiya-webdesign.com/osint-tools/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Google Scholar Case Law",
+    "url": "https://mikiya-webdesign.com/osint-tools/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Use cases by industry",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Most popular use cases",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Some such information is directly available online or as part of the media, for example, on TV or the radio. Other pieces of information are accessed either by request, like census data and other statistics kept by governments, or by subscribing to particular publications or newsletters.",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Ultimately, you don’t need any unique tools, for example, tools only used by specialists and corporate-level software to access this information.",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Business and financial use cases",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, with Coresignal's data that is collected from publicly available information, you can",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Threat intelligence platforms and other automatic security scanners that warn about potential security risks are commonly used examples of passive OSINT.",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, the active collection includes joining online and offline communities, attending particular events, and subscribing to publications.",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Sources of intelligence available or discoverable online include the following examples:",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, in order to find the data on the dark web, which is out of reach for the usual internet search tools, one has to use the Tor browser and its dark web search engines.",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Open sources of information are pretty much indispensable for comprehensive intelligence and deep understanding in such cases. For example, a thorough analysis of the market and local conditions, risk assessment, public sentiment, and business culture is necessary when a firm wishes to open a new location in a foreign market.",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Data Intelligence: Components, Benefits, and Use Cases",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Improving data intelligence can significantly enhance business analytics, AI-based tools, and a company’s financial standing. Explore the components, benefits, and use cases of data intelligence.",
+    "url": "https://coresignal.com/blog/osint-business/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -3143,12 +3419,32 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://shiraberu-note.com/osint-basic-tools-guide/",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "url": "https://note.com/nikkeimatomemo/n/ncd86c6ef3ffb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sk_kasou/n/nbde2a2effa4d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tantei_note/n/n50655677d2da",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/subland_/n/nd946aa4f734d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/itta_usa/n/nd300923856e1",
     "status": "ok",
     "method": "http"
    },
@@ -3158,7 +3454,22 @@
     "method": "http"
    },
    {
+    "url": "https://product.sct.co.jp/blog/security/what-is-osint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atsoho.com/blog/osint-how-to",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
     "url": "https://cybersecurity-info.com/column/40141/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shiraberu-note.com/osint-basic-tools-guide/",
     "status": "ok",
     "method": "http"
    },
@@ -3173,27 +3484,17 @@
     "method": "http"
    },
    {
-    "url": "https://atsoho.com/blog/osint-how-to",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://product.sct.co.jp/blog/security/what-is-osint",
+    "url": "https://cybersecurity-info.com/column/30403/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://osint.dev/osint",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.researchandmarkets.com/reports/6236083/open-source-intelligence-osint-global",
+    "url": "https://mikiya-webdesign.com/osint-tools/",
     "status": "ok",
     "method": "http"
    },
@@ -3203,9 +3504,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.thebusinessresearchcompany.com/report/open-source-intelligence-global-market-report",
-    "status": "ok",
-    "method": "http"
+    "url": "https://www.linkedin.com/pulse/using-osint-business-resilience-guide-open-source-your-sophia-klewer-ljuye",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
     "url": "https://salesfuel.com/open-source-intelligence-tools/",
@@ -3213,7 +3514,27 @@
     "method": "http"
    },
    {
-    "url": "https://link.springer.com/chapter/10.1007/978-3-032-02014-7_2",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aofirs.org/articles/osint-open-source-intelligence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://builtin.com/articles/open-source-intelligence-osint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hwtnv/status/2038409114947391887",
     "status": "robots_disallowed",
     "method": ""
    },
@@ -3223,12 +3544,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/red_structure/n/na2c79b00d217",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://uk.linkedin.com/in/neilsmith3",
+    "url": "https://kz.linkedin.com/in/osintech",
     "status": "robots_disallowed",
     "method": ""
    }
@@ -3237,46 +3553,54 @@
  "search_log": [
   {
    "query": "OSINT（公開情報調査）の手法 site:note.com",
-   "results": []
+   "results": [
+    "https://note.com/red_structure/n/na2c79b00d217",
+    "https://note.com/nikkeimatomemo/n/ncd86c6ef3ffb",
+    "https://note.com/sk_kasou/n/nbde2a2effa4d",
+    "https://note.com/tantei_note/n/n50655677d2da",
+    "https://note.com/subland_/n/nd946aa4f734d",
+    "https://note.com/itta_usa/n/nd300923856e1",
+    "https://note.com/bright_slug2632/n/n44571e8c8f5d"
+   ]
   },
   {
    "query": "OSINT（公開情報調査）の手法 note",
-   "results": [
-    "https://shiraberu-note.com/osint-basic-tools-guide/",
-    "https://note.com/red_structure/n/na2c79b00d217",
-    "https://www.octoparse.jp/blog/what-is-osint",
-    "https://cybersecurity-info.com/column/40141/",
-    "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
-    "https://ais.angleinc.jp/intelligence/osint-open-source-intelligence/",
-    "https://note.com/itta_usa/n/nd300923856e1"
-   ]
+   "results": []
   },
   {
    "query": "OSINT（公開情報調査）の手法 やり方",
    "results": [
     "https://www.octoparse.jp/blog/what-is-osint",
-    "https://atsoho.com/blog/osint-how-to",
-    "https://shiraberu-note.com/osint-basic-tools-guide/",
     "https://product.sct.co.jp/blog/security/what-is-osint",
-    "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "https://atsoho.com/blog/osint-how-to",
     "https://cybersecurity-info.com/column/40141/",
+    "https://shiraberu-note.com/osint-basic-tools-guide/",
+    "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
     "https://crexgroup.com/ja/security/solutions/osint-guide-tools/"
    ]
   },
   {
    "query": "OSINT（公開情報調査）の手法 事例",
-   "results": []
+   "results": [
+    "https://www.octoparse.jp/blog/what-is-osint",
+    "https://cybersecurity-info.com/column/40141/",
+    "https://ais.angleinc.jp/intelligence/osint-open-source-intelligence/",
+    "https://product.sct.co.jp/blog/security/what-is-osint",
+    "https://cybersecurity-info.com/column/30403/",
+    "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "https://mikiya-webdesign.com/osint-tools/"
+   ]
   },
   {
    "query": "OSINT open source intelligence business research",
    "results": [
-    "https://osint.dev/osint",
-    "https://www.researchandmarkets.com/reports/6236083/open-source-intelligence-osint-global",
     "https://www.marketresearchfuture.com/reports/open-source-intelligence-market-4545",
-    "https://www.thebusinessresearchcompany.com/report/open-source-intelligence-global-market-report",
+    "https://www.linkedin.com/pulse/using-osint-business-resilience-guide-open-source-your-sophia-klewer-ljuye",
     "https://salesfuel.com/open-source-intelligence-tools/",
-    "https://link.springer.com/chapter/10.1007/978-3-032-02014-7_2",
-    "https://www.businessresearchinsights.com/market-reports/open-source-intelligence-osint-market-123409"
+    "https://coresignal.com/blog/osint-business/",
+    "https://aofirs.org/articles/osint-open-source-intelligence",
+    "https://builtin.com/articles/open-source-intelligence-osint",
+    "https://zenitdata.com/blog/what-is-osint-open-source-intelligence-explained-for-business-and-b2b-teams/"
    ]
   },
   {
@@ -3285,15 +3609,23 @@
     "https://note.com/red_structure/n/na2c79b00d217",
     "https://note.com/nikkeimatomemo/n/ncd86c6ef3ffb",
     "https://note.com/sk_kasou/n/nbde2a2effa4d",
-    "https://note.com/4989er/n/n40c8fd7dc601",
-    "https://note.com/subland_/n/nd946aa4f734d",
+    "https://note.com/tantei_note/n/n50655677d2da",
+    "https://note.com/osintechofficial/n/n5a35c4aae9aa",
     "https://note.com/itta_usa/n/nd300923856e1",
     "https://note.com/bright_slug2632/n/n44571e8c8f5d"
    ]
   },
   {
    "query": "site:x.com OSINT（公開情報調査）の手法",
-   "results": []
+   "results": [
+    "https://x.com/note_osint",
+    "https://x.com/cysecu_Kaz/status/2086086444582576202",
+    "https://x.com/hwtnv/status/2038409114947391887",
+    "https://x.com/kitsecpro/status/2043704820947935422",
+    "https://x.com/connect24h/status/2069065298511352053",
+    "https://x.com/L_go_mrk/status/2039691569075523997",
+    "https://x.com/MalwareBibleJP/status/2075021875810607315"
+   ]
   },
   {
    "query": "site:linkedin.com OSINT（公開情報調査）の手法",
@@ -3301,23 +3633,15 @@
     "https://jp.linkedin.com/pulse/what-osint-investigation-why-does-matter-ethos-risk-services-h8bfe?tl=ja",
     "https://jp.linkedin.com/pulse/osint-investigations-essential-opsec-practices-tools-2025-b-satish-u0fqc?tl=ja",
     "https://at.linkedin.com/posts/nihonmatsu_ctivd-automated-osint自動化されたosint-オープンソース-activity-7065927076675006465-OeBm",
+    "https://de.linkedin.com/pulse/der-ultimative-guide-zu-osint-möglichkeiten-grenzen-und-nutzen-cbyqe",
+    "https://jp.linkedin.com/pulse/harnessing-osint-beginners-guide-open-source-preston-buchanan-qxbie?tl=ja",
     "https://jp.linkedin.com/pulse/case-studies-successful-osint-investigations-vijay-gupta--0b7cc?tl=ja",
-    "https://jp.linkedin.com/pulse/unlock-secrets-online-investigation-comprehensive-guide-eric-tausend-d7k5f?tl=ja",
-    "https://jp.linkedin.com/pulse/art-finding-what-others-miss-huzaima-rafiq-tkhsf?tl=ja",
-    "https://jp.linkedin.com/pulse/harnessing-osint-beginners-guide-open-source-preston-buchanan-qxbie?tl=ja"
+    "https://jp.linkedin.com/pulse/unlock-secrets-online-investigation-comprehensive-guide-eric-tausend-d7k5f?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com OSINT（公開情報調査）の手法",
-   "results": [
-    "https://www.facebook.com/OneBeInc/photos/新コラム現代社会で重要性がましているosintopen-source-intelligenceosintとはインターネットなどの公開情報を収集分析して有用な情報/1452940110171432/",
-    "https://www.facebook.com/AsahiGlobeMedia/posts/5389149384521655/",
-    "https://www.facebook.com/qiita/posts/200lgtm-osintによるセキュリティ情報調査方法まとめ/3075742712461547/",
-    "https://www.facebook.com/AsahiGlobeMedia/posts/インターネット上の公開情報を元に調査や分析をするosintオシントに取り組む人の素顔は実に様々だいったいどんな人たちなのか取材に応じてくれた男性はアメリカのニュ/754874736647389/",
-    "https://www.facebook.com/asgis/posts/訊息轉知新書出版訊息osint-是指公開來源情報open-source-intelligence是從公開的可取得的資訊來源中收集情報的方法-這些來源包括但不限於/1170026938266965/",
-    "https://www.facebook.com/watch/?v=1352001575871096",
-    "https://www.facebook.com/AsahiGlobeMedia/posts/4884882714948327/"
-   ]
+   "results": []
   },
   {
    "query": "OSINT（公開情報調査）の手法 note 社長",
@@ -3326,33 +3650,33 @@
     "https://note.com/red_structure/n/na2c79b00d217",
     "https://shiraberu-note.com/osint-basic-tools-guide/",
     "https://www.octoparse.jp/blog/what-is-osint",
-    "https://cybersecurity-info.com/column/40141/",
     "https://general-survey-concierge.com/investigation-skills/osint/osint調査を進める為の5つの手順/",
-    "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/"
+    "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "https://cybersecurity-info.com/column/40141/"
    ]
   },
   {
    "query": "OSINT（公開情報調査）の手法 X 投稿",
    "results": [
-    "https://www.octoparse.jp/blog/what-is-osint",
     "https://ais.angleinc.jp/intelligence/osint-open-source-intelligence/",
+    "https://www.octoparse.jp/blog/what-is-osint",
     "https://cyber-security-lens.com/learn/osint/04-social-media-osint/",
-    "https://cybersecurity-info.com/column/40141/",
     "https://general-survey-concierge.com/investigation-skills/osint/sns-osint-chosa-x-instagram-linkedin/",
-    "https://x.com/connect24h/status/2069065298511352053",
-    "https://x.com/K_Ichida/status/2118151309941473504"
+    "https://cybersecurity-info.com/column/40141/",
+    "https://product.sct.co.jp/blog/security/what-is-osint",
+    "https://x.com/connect24h/status/2069065298511352053"
    ]
   },
   {
    "query": "OSINT open source intelligence business research site:linkedin.com",
    "results": [
     "https://www.linkedin.com/pulse/using-osint-business-resilience-guide-open-source-your-sophia-klewer-ljuye",
-    "https://www.linkedin.com/pulse/osint-most-underrated-tool-business-intelligence-mikel-viteri-nnwve",
-    "https://pe.linkedin.com/pulse/unveiling-hidden-guide-open-source-intelligence-osint-sumit-shukla-ixunc",
-    "https://uk.linkedin.com/in/neilsmith3",
+    "https://www.linkedin.com/pulse/harnessing-osint-business-intelligence-staying-ahead-market-mckeown-wtwje",
     "https://br.linkedin.com/pulse/osint-ot-linkedin-how-build-plant-before-hack-most-mcdonald-bs-eset-yo7qc?tl=pt",
-    "https://rs.linkedin.com/in/lana-a-0b0a218b",
-    "https://zw.linkedin.com/in/ritchel-mufuka"
+    "https://kz.linkedin.com/in/osintech",
+    "https://pe.linkedin.com/pulse/unveiling-hidden-guide-open-source-intelligence-osint-sumit-shukla-ixunc",
+    "https://zw.linkedin.com/in/ritchel-mufuka",
+    "https://uk.linkedin.com/company/osint-industries"
    ]
   }
  ],
@@ -3360,113 +3684,295 @@
  "new_this_run": {
   "手順・やり方": [
    {
-    "quote": "どのような技術（CMS、Webフレームワーク、アクセス解析ツール、広告ネットワークなど）で構築されているのかを瞬時に特定",
-    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
+    "quote": "SNSのプロフィール画像から素性を調べる方法",
+    "url": "https://note.com/tantei_note/n/n50655677d2da",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "【2024年最新】パスワード管理方法の基本とおすすめツール20選",
-    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
+    "quote": "自分の情報が漏れていないかチェックする方法",
+    "url": "https://note.com/tantei_note/n/n50655677d2da",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": ". X (formerly Twitter) restructured its API pricing to charge up to USD 42,000 per month for enterprise-level access, pricing out smaller OSINT firms. These restrictions force vendors to invest in alternative collection methods such as browser-based scraping and synthetic profile management, increasing both technical complexity and legal exposure.",
-    "url": "https://www.marketresearchfuture.com/reports/open-source-intelligence-market-4545",
+    "quote": "インフラ調査、人物特定、SNS分析、ダークウェブ情報収集まで、公開情報から高度なインテリジェンスを得る方法を具体例とツールとともに紹介します",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Regulatory Standardization and Trust Frameworks (2030–2035)",
-    "url": "https://www.marketresearchfuture.com/reports/open-source-intelligence-market-4545",
+    "quote": "前回の記事「【初心者向け完全ガイド】OSINTとは何か？」では、公開情報収集の基本概念・主要ツール・基礎的な調査手順を解説しました",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "画像の地理的特定（Geolocation）実践手順",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "🗺️ EXIFにGPS情報がない場合でも場所を特定する手順",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "エラーページでフレームワーク・バージョン情報を表示しない",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OPSEC 5ステップモデル",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "公開情報という武器――OSINT入門｜red_structure Mar 18, 2026 · OSINTとは何か——諜報活動との違い OSINT（Open Source Intelligence）とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ。「オープンソース」という言葉は、ソフトウェアのオープンソースではなく「公開されている情報源」を意味する。 もともとは軍や ...",
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "メールアドレスに関する公開情報の検索・検証に使えるOSINTツールをまとめています",
+    "url": "https://mikiya-webdesign.com/osint-tools/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "偽情報対策やメディア検証に使えるツールをまとめています",
+    "url": "https://mikiya-webdesign.com/osint-tools/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AI関連の調査・検証に使えるツールをまとめています",
+    "url": "https://mikiya-webdesign.com/osint-tools/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Cross-checking the facts available for the public and running social media analysis will reveal inconsistencies that may indicate fraud, thus preventing damaging transactions and giving a chance to notify law enforcement agencies.",
+    "url": "https://coresignal.com/blog/osint-business/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ],
   "失敗・落とし穴": [
    {
-    "quote": "シグネチャルールの構造、content／pcre、IDSとIPSの違いと注意、ET Openルールの運用、Zeek・SIEM連携まで、防御者の視点でやさしく解説します",
-    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "quote": "Publication does not eliminate bias or error",
+    "url": "https://aofirs.org/articles/osint-open-source-intelligence",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ブラウザだけで使える無料ツールの使い方と、安全に使う5つの注意",
-    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "quote": "Common OSINT Mistakes",
+    "url": "https://aofirs.org/articles/osint-open-source-intelligence",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "画面の4つの場所、3分でできる最初の1回、実際に動かして確かめたレシピ7つ、自動判定のMagic、外部と通信する操作やURLに入力が残る点など、安全に使うための注意まで図解します",
-    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "quote": "One of the most common mistakes is starting an investigation without defining the question. This creates large amounts of irrelevant information and makes it difficult to determine when the research is complete.",
+    "url": "https://aofirs.org/articles/osint-open-source-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Another common mistake is treating search ranking as evidence of reliability. Search engines help researchers discover information, but ranking does not establish that a source is original or accurate.",
+    "url": "https://aofirs.org/articles/osint-open-source-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Researchers can also mistake repetition for corroboration. Several websites repeating the same claim may all originate from one unverified source.",
+    "url": "https://aofirs.org/articles/osint-open-source-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT can contain incomplete, outdated, duplicated, manipulated, biased, or decontextualized information. Search engines have coverage gaps, online content can disappear, identities can be difficult to verify, and AI can create false connections. Strong conclusions therefore require corroboration and transparent limitations.",
+    "url": "https://aofirs.org/articles/osint-open-source-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Potential for Confirmation Bias",
+    "url": "https://builtin.com/articles/open-source-intelligence-osint",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "It can be easy to fall into a “confirmation bias trap” while conducting OSINT investigations, according to Willis. Users may unintentionally favor information that agrees with their preexisting beliefs or agenda, and overlook or discount any contradictory evidence. In OSINT, where data is often vast and diverse,",
+    "url": "https://builtin.com/articles/open-source-intelligence-osint",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ],
   "一次情報の探し方": [
    {
-    "quote": "統計的な知識や、データを可視化するスキルも役立ちます",
-    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
+    "quote": "公的登記情報 法人登記、不動産登記",
+    "url": "https://note.com/tantei_note/n/n50655677d2da",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": ": 採用活動などにおいて、人種、信条、社会的身分といった、本人の適性・能力とは関係のない事項を調査し、それを選考基準に用いることは、就職差別に繋がり、職業安定法に抵触する恐れがあります",
-    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
+    "quote": "filetype:xlsx OR filetype:pdf",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "This product is a market research report. This is a single user license, allowing one user access to the product. The product is a PDF.",
-    "url": "https://www.researchandmarkets.com/reports/6236083/open-source-intelligence-osint-global",
+    "quote": "企業サイトの過去の「採用ページ」から当時の組織構造・使用技術スタックを特定",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "This product is a market research report. This is a 1-10 user license, allowing up to ten users have access to the product. The product is a PDF.",
-    "url": "https://www.researchandmarkets.com/reports/6236083/open-source-intelligence-osint-global",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "Open-Source Intelligence (OSINT) - Global Strategic Business ...Open Source Intelligence (OSINT) Market (2026 – 2035)Open Source Intelligence Market Trends Anaysis Report 2026-2030Top 15 OSINT Tools for Business Intelligence - salesfuel.comOpen-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (Osint) Market Size, Share | Growth ... — The Open-Source Intelligence (OSINT) ",
-    "url": "https://www.researchandmarkets.com/reports/6236083/open-source-intelligence-osint-global",
+    "quote": "求人票は企業の「現状の技術課題」を直接反映しています",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Open Source Intelligence (OSINT) Market (2026 – 2035)Open Source Intelligence Market Trends Anaysis Report 2026-2030Top 15 OSINT Tools for Business Intelligence - salesfuel.comOpen-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (Osint) Market Size, Share | Growth ... — Open-Source Intelligence (OSINT) Type Insights Based on technique, the Open-Source Intelligence (OSIN",
-    "url": "https://www.marketresearchfuture.com/reports/open-source-intelligence-market-4545",
+    "quote": "「CloudTrail・GuardDutyの知識」→ AWSのセキュリティサービスを採用",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "LinkedInで組織図を推測（ITチーム・セキュリティチームの規模）→ 採用情報から使用セキュリティ製品を特定 → Xで従業員の技術的発言を収集 → 技術ブログ・SlideShare・SpeakerDeckで発表資料を検索",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「Opus級のAIがVRAM 12GBで動く」はどこまで本当？話題のStrata 0.2を一次情報で確かめた",
+    "url": "https://yasashii-cybersecurity.com/osint-professional-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的記録・公開記録の調査に使えるリソースをまとめています",
+    "url": "https://mikiya-webdesign.com/osint-tools/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ],
   "SNS・note（LinkedIn・検索結果の抜粋）": [
    {
-    "quote": "Neil Smith - Open Source Intelligence / i3 Consultant ...OSINT, OT & LinkedIn: how they build the plant before they ...Lana A. - Investigations & Corporate Intelligence | OSINT ...Ritchel M. - Senior Research Analyst at Altrata | OSINT ... In the last few years I started to specialise in using Open Source Intelligence to research the subjects of our investigations and then supplied this informatio",
-    "url": "https://uk.linkedin.com/in/neilsmith3",
+    "quote": "Maxim Marshak - OSINT Engineer & Research Data Analyst ...Unveiling the Hidden: A Guide to Open Source Intelligence (OSINT)Ritchel M. - Senior Research Analyst at Altrata | OSINT ...OSINT Industries - LinkedIn I am a Research Data Analyst and OSINT Engineer with 20+ years of experience in software engineering, backend development, automation, databases, and data-intensive systems. Over the past se",
+    "url": "https://kz.linkedin.com/in/osintech",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ],
   "実例": [
    {
-    "quote": "本記事では、ITの知識がゼロでも理解できるよう、しくみから実際の操作手順・応用事例・そして「自分を守る対策」まで、一気通貫で解説します",
-    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "quote": "❌ 調査結果を使って嫌がらせをする → アウト",
+    "url": "https://note.com/tantei_note/n/n50655677d2da",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "AIに「悪意ある命令」を混ぜ込む「プロンプトインジェクション」とは何か？仕組み・実例・OWASP最新情報を初心者向けに徹底解説",
-    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "quote": "Caselaw Access Project",
+    "url": "https://mikiya-webdesign.com/osint-tools/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Google Scholar Case Law",
+    "url": "https://mikiya-webdesign.com/osint-tools/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Use cases by industry",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Most popular use cases",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Some such information is directly available online or as part of the media, for example, on TV or the radio. Other pieces of information are accessed either by request, like census data and other statistics kept by governments, or by subscribing to particular publications or newsletters.",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Ultimately, you don’t need any unique tools, for example, tools only used by specialists and corporate-level software to access this information.",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Business and financial use cases",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, with Coresignal's data that is collected from publicly available information, you can",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Threat intelligence platforms and other automatic security scanners that warn about potential security risks are commonly used examples of passive OSINT.",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, the active collection includes joining online and offline communities, attending particular events, and subscribing to publications.",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Sources of intelligence available or discoverable online include the following examples:",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, in order to find the data on the dark web, which is out of reach for the usual internet search tools, one has to use the Tor browser and its dark web search engines.",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Open sources of information are pretty much indispensable for comprehensive intelligence and deep understanding in such cases. For example, a thorough analysis of the market and local conditions, risk assessment, public sentiment, and business culture is necessary when a firm wishes to open a new location in a foreign market.",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Data Intelligence: Components, Benefits, and Use Cases",
+    "url": "https://coresignal.com/blog/osint-business/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Improving data intelligence can significantly enhance business analytics, AI-based tools, and a company’s financial standing. Explore the components, benefits, and use cases of data intelligence.",
+    "url": "https://coresignal.com/blog/osint-business/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ]
  },
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-05T00:03:56.432906+00:00"
 }
