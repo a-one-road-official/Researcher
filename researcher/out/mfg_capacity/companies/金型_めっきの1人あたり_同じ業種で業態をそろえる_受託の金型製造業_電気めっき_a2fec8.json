@@ -1,0 +1,817 @@
+{
+ "name": "金型・めっきの1人あたり（同じ業種で業態をそろえる：受託の金型製造業・電気めっき業の加工賃収入額÷従業者数、工業統計の細分類・4-35）",
+ "en": "die mold electroplating processing fee per employee census of manufactures detailed industry",
+ "aliases": [
+  "金型・同部分品・附属品製造業 従業者数 加工賃収入額 工業統計",
+  "電気めっき業 従業者数 加工賃収入額 工業統計 細分類",
+  "金型製造業 事業所数 従業者数 年次"
+ ],
+ "context": "業種・規模別",
+ "kind": "market",
+ "researched_at": "2026-11-05T12:07:08.198321+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "1200 1．（２） ← 概要版1200 1．（２） ・「事業所数」を追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「従業者規模区分」を10区分から６区分へ",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．（２） ・「事業所数」を追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「従業者規模区分」を10区分から６区分へ変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用地用水編1100 第１部 1． ・「事業所数」「事業所敷地面積」のみ表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用地用水編2100 第２部 1． ・「事業所数」「淡水合計（工業用水道・上水道・井戸水・その他の淡水）」のみ表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1120 １．（１） ② ← 産業編3110 ３． （１） ① ・「従業者規模区分」を表頭から表側へ",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1220 １．（２） ② ← 産業編3220 ３．（２） ② ・「事業所数」を追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用地用水編1300 第１部 ３． ・「事業所数」「事業所敷地面積」のみ表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用地用水編2300 第２部 ３． ・「事業所数」「淡水合計（工業用水道・上水道・井戸水・その他の淡水）」のみ表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1200 1．（２） → 概要版1200 1．（２） ・「事業所数」を追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2200 ２．（２） → 産業別統計表2300 ２．（３） ・「事業所数」を追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "6 従業者数",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 従業者数 （平成29年6月1日現在） （単位：人）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【例】男：⑥７人 － ⑤２人 － ⑦１人 ＋ ⑧１人 ＝ ５人",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "女：⑥５人 － ⑤０人 － ⑦０人 ＋ ⑧１人 ＝ ６人",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "男女計： ５人 ＋ ６人 ＝ １１人",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜その 1＞「6 従業者数」の書き方が変わりました",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1500 1．（５） ← 品目編1500 第１部 ５． ・集計対象を「従業者数10人以上の事業所」から「従業者数4人以上の事業所」に変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1600 1．（６） ← 品目編1600 第１部 ６． ・集計対象を「従業者数10人以上の事業所」から「従業者数4人以上の事業所」に変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業編1210 1．（２） ① ・表中の「常用労働者」項目名を削除、 「従業者数合計」にかっこ書きで内訳を表記",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1300 1．（３） ← 産業編1310 1．（３） ・表中の「常用労働者」項目名を削除、「従業者数合計」にかっこ書きで内訳を表記",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2100 ２．（１） ← 概要版2100 ２．（１） ・「生産額（従業者30人以上）」追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2200 ２．（２） ← 産業編2100 ２．（１） ・「常用労働者年間月平均数（従業者30人以上）」削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "但し、従業者30人以上の事業所に関する統計表の",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ため、30人以上の３区分のみ表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・推計方法の変更 「４～９人の前年比」を使用する部分を「４～９人の1事業所当たり製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2000 ２． ← 細分類別3000 ３． ・「生産額（従業者29人以下は出荷額）」、「有形固定資産投資総額（従業者30人以上）」を削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「有形固定資産年末現在高（従業者30人以上）」削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「生産額（従業者30人以上）」を追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1500 第１部 ５． → 品目別統計表1500 １．（５） ・集計対象を「従業者数10人以上の事業所」から「従業者数4人以上の事業所」 に変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1600 第１部 ６． → 品目別統計表1600 １．（６） ・集計対象を「従業者数10人以上の事業所」から「従業者数4人以上の事業所」 に変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1210 1．（２） ① → 産業別統計表1200 1．（２） ・表中の「常用労働者」項目名を削除、「従業者数合計」にかっこ書きで内訳を 表記",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1310 1．（３） → 産業別統計表1300 1．（３） ・表中の「常用労働者」項目名を削除、「従業者数合計」にかっこ書きで内訳を表記",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2100 ２．（１） → 産業別統計表2200 ２．（２） ・「常用労働者年間月平均数（従業者30人以上）」削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)従業者4人以上の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/gaiyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2)従業者30人以上の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/gaiyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者4人以上の事業所に関する統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/gaiyo/index.html",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "「11 製造品在庫額、半製品、仕掛品の価額及び原材料、燃料の在庫額」、「12 製造品出荷額、在庫額等」、「13 12 のア、ウ、エの合計金額」",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「10 製造品出荷額等」、「11 10 のア、イ、ウの合計金額」",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300万円未満、300～1000万円を1000万円未満に集約",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5千万円～1",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億円を5千万円～3億円に変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3～10億円、10～100億円、100億円以上を3億円以上に集約",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2100 ２．（１） ← 概要版2100 ２．（１） ・「生産額（従業者30人以上）」追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・推計方法の変更 「４～９人の前年比」を使用する部分を「４～９人の1事業所当たり製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2000 ２． ← 細分類別3000 ３． ・「生産額（従業者29人以下は出荷額）」、「有形固定資産投資総額（従業者30人以上）」を削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3000 ３． ← 市区町村編2000 ２． ・「製造品出荷額等」のうち、「内その他収入額」削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「生産額（従業者30人以上）」を追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「生産額（従業者29人以下は出荷額）」、「有形固定資産投資総額（従業者30人以上）」を削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "<2021年実績> 以降",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<2020年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<2019年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<2018年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成30(2018)年",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<平成29(2017)年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成29(2017)年",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "<平成28(2016)年実績>",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成27(2015)年",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日：2022.12.26",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "・有形固定資産の「除却額」を「除却・売却による減少額」に名称変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・有形固定資産の「建設仮勘定（年間増減）」を「建設仮勘定（減少額）」に表示変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "仮勘定（増加額）」、「除却・売却による減少額」、「減価償却額」の計算式用アルファベットを変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・有形固定資産の「除却額」を「除却・売却による減少額」に変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・有形固定資産の「建設仮勘定（年間増減）」を「建設仮勘定（減少額）」に変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "定（増加額）」「除却・売却による減少額」「減価償却額」の計算式用アルファベット変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・時系列（5年）追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3000 ３． ← 企業統計編2100 ２．（１） ・時系列（5年）追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・推計方法の変更 「４～９人の前年比」を使用する部分を「４～９人の1事業所当たり製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "定（増加額）」「除却額」「減価償却額」の計算式用アルファベット変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・製造業計に時系列（5年）を追加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査の廃止のお知らせ（2022年4月1日）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "※2022年以降は",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 8月25日 「2020年確報 地域別統計表」の公表について",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 8月25日 「2020年確報 品目別統計表」の公表について",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 8月13日 「2020年確報 産業別統計表」の公表について",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 5月28日 「2020年産業別統計表（概要版）」の公表について",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 3月26日 「2020年速報」の公表について",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日：2023.05.12",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日：2021.5.28",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/gaiyo/index.html",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "「9 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額」、「10 有形固定資産（土地を除く ）」、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2000 ２． ← 概要版3000 ３． ・「有形固定資産投資総額」を削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1100 1．（１） ← 産業編1100 1．（１） ・「有形固定資産額（年初現在高・年末現在高）」を産業別統計表の1200表へ",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2000 ２． ← 細分類別3000 ３． ・「生産額（従業者29人以下は出荷額）」、「有形固定資産投資総額（従業者30人以上）」を削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「有形固定資産年末現在高（従業者30人以上）」削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3000 ３．（１） → 概要版2000 ２． ・「有形固定資産投資総額」を削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1100 1．（１） → 産業別統計表1100 1．（１） ・「有形固定資産額（年初現在高・年末現在高）」を産業別統計表の1200表へ",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「生産額（従業者29人以下は出荷額）」、「有形固定資産投資総額（従業者30人以上）」を削除",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "「9 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額」、「10 有形固定資産（土地を除く ）」、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「9 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額の合計金額」、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "300万円未満、300～1000万円を1000万円未満に集約",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5千万円～1",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億円を5千万円～3億円に変更",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・推計方法の変更 「４～９人の前年比」を使用する部分を「４～９人の1事業所当たり製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http:seed"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/gaiyo/pdf/henkou_chousa.pdf",
+    "status": "ok",
+    "method": "pdf:seed-link"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/pdf/henkou_k_kekka.pdf",
+    "status": "ok",
+    "method": "pdf:seed-link"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http:seed-link"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/gaiyo/index.html",
+    "status": "ok",
+    "method": "http:seed-link"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "status": "ok",
+    "method": "browser:seed-link"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/chousa_houkoku/monodukurisangyo.files/20250417_honpen.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zentoren.or.jp/mekki/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nature.com/articles/s41598-024-64277-0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/census/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://worldmetrics.org/electroplating-industry-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nkbb.nikkei.co.jp/en/dataset/industrial-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoscope-media.com/en/japanese-mold-makers-machining-supply-chain/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金型・めっきの1人あたり（同じ業種で業態をそろえる：受託の金型製造業・電気めっき業の加工賃収入額÷従業者数、工業統計の細分類・4-35）",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/chousa_houkoku/monodukurisangyo.files/20250417_honpen.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://takumi-senpai.com/blog/mold-industry-2024/"
+   ]
+  },
+  {
+   "query": "金型・めっきの1人あたり（同じ業種で業態をそろえる：受託の金型製造業・電気めっき業の加工賃収入額÷従業者数、工業統計の細分類・4-35） 推移",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/chousa_houkoku/monodukurisangyo.files/20250417_honpen.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "https://takumi-senpai.com/blog/mold-industry-2024/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf"
+   ]
+  },
+  {
+   "query": "金型・めっきの1人あたり（同じ業種で業態をそろえる：受託の金型製造業・電気めっき業の加工賃収入額÷従業者数、工業統計の細分類・4-35） 統計 PDF",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/chousa_houkoku/monodukurisangyo.files/20250417_honpen.pdf"
+   ]
+  },
+  {
+   "query": "金型・めっきの1人あたり（同じ業種で業態をそろえる：受託の金型製造業・電気めっき業の加工賃収入額÷従業者数、工業統計の細分類・4-35） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/chousa_houkoku/monodukurisangyo.files/20250417_honpen.pdf"
+   ]
+  },
+  {
+   "query": "金型・めっきの1人あたり（同じ業種で業態をそろえる：受託の金型製造業・電気めっき業の加工賃収入額÷従業者数、工業統計の細分類・4-35） 従業者規模別",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/chousa_houkoku/monodukurisangyo.files/20250417_honpen.pdf"
+   ]
+  },
+  {
+   "query": "金型・めっきの1人あたり（同じ業種で業態をそろえる：受託の金型製造業・電気めっき業の加工賃収入額÷従業者数、工業統計の細分類・4-35） 1人当たり 万円",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/chousa_houkoku/monodukurisangyo.files/20250417_honpen.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "https://takumi-senpai.com/blog/mold-industry-2024/"
+   ]
+  },
+  {
+   "query": "金型・めっきの1人あたり（同じ業種で業態をそろえる：受託の金型製造業・電気めっき業の加工賃収入額÷従業者数、工業統計の細分類・4-35） 2015 2025",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/chousa_houkoku/monodukurisangyo.files/20250417_honpen.pdf"
+   ]
+  },
+  {
+   "query": "die mold electroplating processing fee per employee census of manufactures detailed industry Japan statistics",
+   "results": [
+    "https://www.nature.com/articles/s41598-024-64277-0",
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/english/statistics/tyo/census/index.html",
+    "https://worldmetrics.org/electroplating-industry-statistics/",
+    "https://nkbb.nikkei.co.jp/en/dataset/industrial-statistics/",
+    "https://monoscope-media.com/en/japanese-mold-makers-machining-supply-chain/",
+    "https://www.giiresearch.com/report/imarc1956231-japan-electroplating-market-size-share-trends.html",
+    "https://www.jil.go.jp/english/estatis/eshuyo/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 金型・めっきの1人あたり（同じ業種で業態をそろえる：受託の金型製造業・電気めっき業の加工賃収入額÷従業者数、工業統計の細分類・4-35）",
+   "results": [
+    "https://note.com/nakagawasann/n/n534f168f4335",
+    "https://note.com/nakagawasann/n/n70b8aa442c02",
+    "https://note.com/chic_deer1160/n/n0c61ffc97455",
+    "https://note.com/izuku_idea/n/nbcdcf11601ff",
+    "https://note.com/kessankokokku/n/n11ff4eb5b6f5",
+    "https://note.com/chic_deer1160/n/n90f503955cf1",
+    "https://note.com/decay/n/n569a5cc2cebc"
+   ]
+  },
+  {
+   "query": "site:x.com 金型・めっきの1人あたり（同じ業種で業態をそろえる：受託の金型製造業・電気めっき業の加工賃収入額÷従業者数、工業統計の細分類・4-35）",
+   "results": [
+    "https://x.com/i/trending/2102617203036106778",
+    "https://x.com/asahicom/status/2117013822678736971",
+    "https://x.com/asahicom/status/2117013823261720881",
+    "https://x.com/Asahi_Shakai/status/2117076108634108398",
+    "https://x.com/ikinokore_3k/status/2101873224330195142",
+    "https://x.com/ky1311825/status/2082442195840508321",
+    "https://x.com/asahicom/status/2117028922835529784"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金型・めっきの1人あたり（同じ業種で業態をそろえる：受託の金型製造業・電気めっき業の加工賃収入額÷従業者数、工業統計の細分類・4-35）",
+   "results": [
+    "https://jp.linkedin.com/",
+    "https://www.linkedin.com/help/linkedin/answer/a720019?lang=ja-JP",
+    "https://jp.linkedin.com/company/株式会社サンワ金型",
+    "https://jp.linkedin.com/company/shinkosya",
+    "https://jp.linkedin.com/company/takahataprecision",
+    "https://jp.linkedin.com/posts/factoridge_無料製造現場の改善ネタに使える資料をプレゼント-activity-6995966531801124864-I71G",
+    "https://jp.linkedin.com/posts/michihito-asano_見積の標準化と外部連携-見積1件あたりの所要時間を測定したことがあるでしょうか-activity-7505780165495476225-022B"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金型・めっきの1人あたり（同じ業種で業態をそろえる：受託の金型製造業・電気めっき業の加工賃収入額÷従業者数、工業統計の細分類・4-35）",
+   "results": [
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-1月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1571957758266375/",
+    "https://www.facebook.com/61557642395687/posts/金型メーカーって30名未満の方が多いのではないだろうか日本全体の金型生産高として考えることは出来ないってことです従業員30名未満の金型メーカーが含まれていないの/122167405148254746/",
+    "https://www.facebook.com/binrepo/posts/この人に聞く-ワールド工業-代表取締役社長-梅本-恭宏氏大型品対応や厚付けめっき耐久性に優れた筆めっきに強み-福山市にある１９９２年設立のワールド工業備後圏域や/1485536253413623/",
+    "https://www.facebook.com/SAYAMAmold/",
+    "https://www.facebook.com/ITmediaBusinessOnline/posts/日本のモノづくりを支える金型産業が苦境に立たされている19月に発生した金型メーカーの倒産は36件休廃業解散は90件となり計126件が市場から退出製造業の空洞化が/1226438436167116/",
+    "https://www.facebook.com/jpkanagata/posts/第2期生-金型マスター-ワークショップ昨日とは違うメンバーで同じテーマで行った技術の継承働き方改革など多岐にわたり意見交換が行われたアフターコロナ時には対面での/1593690677457451/",
+    "https://www.facebook.com/moritakeiei/posts/製造業意見交換会同じ製造業でありながら違う業態の会社どうしで意見交換会を行いました工場見学加工方法や技術の意見交換機械の話補助金の活用方法など今後につながるよう/542275466119310/",
+    "https://www.facebook.com/iomold/photos/射出成形プラスチック金型の総合技術事業です金型は生き物と同じだと思うんです-扱いがまた対応の仕方が悪いと一気に様相を変え全く異なった物になります-実際鋼の金型部/117919413226811/",
+    "https://www.facebook.com/hibiz.higashihiroshima/photos/ご相談者さまのご紹介ご相談者さま-新和金属株式会社-新谷さま業種製造業めっき加工ご相談内容事業全般販路拡大新和金属さまの事業では自動車や建築部品に防錆耐熱摩擦低/346425583527044/",
+    "https://www.facebook.com/sanwaplating/videos/材質によってめっきの工程が変わりますめっきはどんな材質でも同じ工程で処理するわけではありません鉄やアルミなど素材によって性質が異なるためそれぞれに適した前処理が/1113186517859322/"
+   ]
+  },
+  {
+   "query": "金型・めっきの1人あたり（同じ業種で業態をそろえる：受託の金型製造業・電気めっき業の加工賃収入額÷従業者数、工業統計の細分類・4-35） note 社長",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/chousa_houkoku/monodukurisangyo.files/20250417_honpen.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2024/"
+   ]
+  },
+  {
+   "query": "金型・めっきの1人あたり（同じ業種で業態をそろえる：受託の金型製造業・電気めっき業の加工賃収入額÷従業者数、工業統計の細分類・4-35） X 投稿",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/chousa_houkoku/monodukurisangyo.files/20250417_honpen.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2024/"
+   ]
+  },
+  {
+   "query": "die mold electroplating processing fee per employee census of manufactures detailed industry site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/injection-mold-cost-structure-xiu-zhong-1icuc/",
+    "https://www.linkedin.com/pulse/electroplating-manufacturing-plant-project-report-2024-malhotra-ik8ec",
+    "https://ca.linkedin.com/company/kuntz",
+    "https://ca.linkedin.com/company/die-mold-services",
+    "https://www.linkedin.com/pulse/understanding-mold-cost-estimation-methods-structure-strategy-dan-li-dx6vc",
+    "https://www.linkedin.com/pulse/high-injection-mold-processing-costs-strategies-help-you-huang-ting-erxxc",
+    "https://www.linkedin.com/pulse/transparency-injection-molding-why-your-mold-quote-steven-y9ypc"
+   ]
+  }
+ ],
+ "missing": {}
+}

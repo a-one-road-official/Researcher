@@ -1,0 +1,589 @@
+{
+ "name": "e-Stat 法人企業統計調査 製造業 資本金階級別 従業員数・売上高（Excel・統計コードから直接・規模別の2本目・4-31・4-35）",
+ "en": "e-Stat financial statements statistics of corporations manufacturing by capital size excel",
+ "aliases": [
+  "法人企業統計調査 年次別調査 製造業 資本金階級別 従業員数 売上高 Excel",
+  "法人企業統計 時系列 製造業 1人当たり"
+ ],
+ "context": "全体・規模別",
+ "kind": "market",
+ "researched_at": "2026-11-05T12:07:08.504160+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "本調査には、全ての営利法人等を調査対象としてその年度における確定決算の計数を調査する「年次別調査」と、資本金、出資金又は基金1,000万円以上の営利法人等を調査対象として四半期ごとに仮決算計数を調査する「四半期別調査」があります",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査附帯調査 四半期別GDP速報（1次速報）のための一部項目早期調査",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "本調査には、全ての営利法人等を調査対象としてその年度における確定決算の計数を調査する「年次別調査」と、資本金、出資金又は基金1,000万円以上の営利法人等を調査対象として四半期ごとに仮決算計数を調査する「四半期別調査」があります",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "本調査には、全ての営利法人等を調査対象としてその年度における確定決算の計数を調査する「年次別調査」と、資本金、出資金又は基金1,000万円以上の営利法人等を調査対象として四半期ごとに仮決算計数を調査する「四半期別調査」があります",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "本調査には、全ての営利法人等を調査対象としてその年度における確定決算の計数を調査する「年次別調査」と、資本金、出資金又は基金1,000万円以上の営利法人等を調査対象として四半期ごとに仮決算計数を調査する「四半期別調査」があります",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "本調査には、全ての営利法人等を調査対象としてその年度における確定決算の計数を調査する「年次別調査」と、資本金、出資金又は基金1,000万円以上の営利法人等を調査対象として四半期ごとに仮決算計数を調査する「四半期別調査」があります",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "本調査には、全ての営利法人等を調査対象としてその年度における確定決算の計数を調査する「年次別調査」と、資本金、出資金又は基金1,000万円以上の営利法人等を調査対象として四半期ごとに仮決算計数を調査する「四半期別調査」があります",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "第3次産業活動能力・稼働率指数",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "分離適格振替国債の分離状況並びに現在高推移",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "2018年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "2017年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "2015年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "2010年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "2025-12",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "2025-09",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "2025-06",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "2025-03",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "2024-12",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "pass": 3
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "pass": 3
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "pass": 3
+   },
+   {
+    "quote": "2018年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "pass": 3
+   },
+   {
+    "quote": "2017年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "pass": 3
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "pass": 3
+   },
+   {
+    "quote": "2015年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "pass": 3
+   },
+   {
+    "quote": "2010年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "pass": 3
+   },
+   {
+    "quote": "2025-12",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "pass": 3
+   },
+   {
+    "quote": "2025-09",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "pass": 3
+   },
+   {
+    "quote": "2025-06",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "pass": 3
+   },
+   {
+    "quote": "2025-03",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "pass": 3
+   },
+   {
+    "quote": "2024-12",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "pass": 3
+   },
+   {
+    "quote": "2024-09",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "status": "ok",
+    "method": "http:seed"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600&tstat=000001047744&page=1",
+    "status": "ok",
+    "method": "http:seed-link"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=2&toukei=00350600&tstat=000001047744&tclass1=000001047745&second2=1&tclass2val=0&year=20251&month=11010300&result_back=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001051373&tclass2=000001051374&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00350600&tstat=000001047744&cycle=8&tclass1=000001049372&tclass2val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001220040&tclass2=000001220041&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&iroha=30&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&year=20241&month=0&result_back=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?cycle=7&layout=dataset&month=0&page=1&tclass1=000001045045&tclass2=000001045046&toukei=00553010&tstat=000001019842&year=20100",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00350600&tstat=000001047744&cycle=2&tclass1=000001049372&statdisp_id=0003060192&second2=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=2&year=20251&month=11010300&toukei=00350600&tstat=000001047744&tclass1=000001047745&result_back=1&tclass2val=0&second2=1&stat_infid=000040461000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00350600&kikan=00350&result_page=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&tstat=000001019842&tclass1=000001163766",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&lid=000001057801&result_page=1&statdisp_id=0003433774",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?kikan=00350&toukei=00350600&page=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search?page=1&query=%E8%A3%BD%E9%80%A0%E6%A5%AD%E4%BA%8B%E6%A5%AD%E6%89%80%E8%AA%BF%E6%9F%BB%E3%80%80%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200555&layout=dataset",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?iroha=17&layout=dataset&toukei=00553010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&bunya_l=07&bunya_s=0701&toukei=00553010&result_page=1&tstat=000001019842&layout=dataset",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/statistics/00350600",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/reference/ssc/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search?page=1&query=gross+value+added&layout=dataset",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/nenkan/72nenkan/zenbun/en72/book/pageindices/index230.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/reference/ssc/r6e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.statista.com/statistics/875800/japan-corporate-ordinary-profit-all-industries/?srsltid=AYCX9vKZAOqsu9W15-BWi5DKhElipWAwY_-06md6jgt887vokOchypgV",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "e-Stat 法人企業統計調査 製造業 資本金階級別 従業員数・売上高（Excel・統計コードから直接・規模別の2本目・4-31・4-35）",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=2&toukei=00350600&tstat=000001047744&tclass1=000001047745&second2=1&tclass2val=0&year=20251&month=11010300&result_back=1",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001051373&tclass2=000001051374&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00350600&tstat=000001047744&cycle=8&tclass1=000001049372&tclass2val=0",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001220040&tclass2=000001220041&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search?kikan=00350&toukei=00350600&page=1",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=7&layout=dataset&month=0&page=1&tclass1=000001045045&tclass2=000001045046&toukei=00553010&tstat=000001019842&year=20100",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00350600&kikan=00350&result_page=1",
+    "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744"
+   ]
+  },
+  {
+   "query": "e-Stat 法人企業統計調査 製造業 資本金階級別 従業員数・売上高（Excel・統計コードから直接・規模別の2本目・4-31・4-35） 推移",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=2&toukei=00350600&tstat=000001047744&tclass1=000001047745&second2=1&tclass2val=0&year=20251&month=11010300&result_back=1",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&iroha=30&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&year=20241&month=0&result_back=1",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001051373&tclass2=000001051374&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001220040&tclass2=000001220041&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=7&layout=dataset&month=0&page=1&tclass1=000001045045&tclass2=000001045046&toukei=00553010&tstat=000001019842&year=20100",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00350600&tstat=000001047744&cycle=2&tclass1=000001049372&statdisp_id=0003060192&second2=1",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=2&year=20251&month=11010300&toukei=00350600&tstat=000001047744&tclass1=000001047745&result_back=1&tclass2val=0&second2=1&stat_infid=000040461000"
+   ]
+  },
+  {
+   "query": "e-Stat 法人企業統計調査 製造業 資本金階級別 従業員数・売上高（Excel・統計コードから直接・規模別の2本目・4-31・4-35） 統計 PDF",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001051373&tclass2=000001051374&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=2&toukei=00350600&tstat=000001047744&tclass1=000001047745&second2=1&tclass2val=0&year=20251&month=11010300&result_back=1",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&iroha=30&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&year=20241&month=0&result_back=1",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00350600&kikan=00350&result_page=1",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&tstat=000001019842&tclass1=000001163766",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=2&year=20251&month=11010300&toukei=00350600&tstat=000001047744&tclass1=000001047745&result_back=1&tclass2val=0&second2=1&stat_infid=000040461000",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=7&layout=dataset&month=0&page=1&tclass1=000001045045&tclass2=000001045046&toukei=00553010&tstat=000001019842&year=20100"
+   ]
+  },
+  {
+   "query": "e-Stat 法人企業統計調査 製造業 資本金階級別 従業員数・売上高（Excel・統計コードから直接・規模別の2本目・4-31・4-35） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001051373&tclass2=000001051374&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=2&toukei=00350600&tstat=000001047744&tclass1=000001047745&second2=1&tclass2val=0&year=20251&month=11010300&result_back=1",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00350600&tstat=000001047744&cycle=8&tclass1=000001049372&tclass2val=0",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001220040&tclass2=000001220041&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&lid=000001057801&result_page=1&statdisp_id=0003433774",
+    "https://www.e-stat.go.jp/stat-search?kikan=00350&toukei=00350600&page=1",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=7&layout=dataset&month=0&page=1&tclass1=000001045045&tclass2=000001045046&toukei=00553010&tstat=000001019842&year=20100",
+    "https://ja.wikipedia.org/wiki/工業統計調査"
+   ]
+  },
+  {
+   "query": "e-Stat 法人企業統計調査 製造業 資本金階級別 従業員数・売上高（Excel・統計コードから直接・規模別の2本目・4-31・4-35） 従業者規模別",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=2&toukei=00350600&tstat=000001047744&tclass1=000001047745&second2=1&tclass2val=0&year=20251&month=11010300&result_back=1",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001051373&tclass2=000001051374&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00350600&tstat=000001047744&cycle=8&tclass1=000001049372&tclass2val=0",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00350600&kikan=00350&result_page=1",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200555&layout=dataset",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=2&year=20251&month=11010300&toukei=00350600&tstat=000001047744&tclass1=000001047745&result_back=1&tclass2val=0&second2=1&stat_infid=000040461000",
+    "https://www.e-stat.go.jp/stat-search/database?iroha=17&layout=dataset&toukei=00553010"
+   ]
+  },
+  {
+   "query": "e-Stat 法人企業統計調査 製造業 資本金階級別 従業員数・売上高（Excel・統計コードから直接・規模別の2本目・4-31・4-35） 1人当たり 万円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=2&toukei=00350600&tstat=000001047744&tclass1=000001047745&second2=1&tclass2val=0&year=20251&month=11010300&result_back=1",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001051373&tclass2=000001051374&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00350600&tstat=000001047744&cycle=8&tclass1=000001049372&tclass2val=0",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00350600&kikan=00350&result_page=1",
+    "https://www.e-stat.go.jp/stat-search?kikan=00350&toukei=00350600&page=1",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001220040&tclass2=000001220041&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=7&layout=dataset&month=0&page=1&tclass1=000001045045&tclass2=000001045046&toukei=00553010&tstat=000001019842&year=20100"
+   ]
+  },
+  {
+   "query": "e-Stat 法人企業統計調査 製造業 資本金階級別 従業員数・売上高（Excel・統計コードから直接・規模別の2本目・4-31・4-35） 2015 2025",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=2&toukei=00350600&tstat=000001047744&tclass1=000001047745&second2=1&tclass2val=0&year=20251&month=11010300&result_back=1",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001051373&tclass2=000001051374&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00350600&tstat=000001047744&cycle=8&tclass1=000001049372&tclass2val=0",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=2&year=20251&month=11010300&toukei=00350600&tstat=000001047744&tclass1=000001047745&result_back=1&tclass2val=0&second2=1&stat_infid=000040461000",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001220040&tclass2=000001220041&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00350600&tstat=000001047744&cycle=2&tclass1=000001049372&statdisp_id=0003060192&second2=1",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00350600&kikan=00350&result_page=1",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&bunya_l=07&bunya_s=0701&toukei=00553010&result_page=1&tstat=000001019842&layout=dataset"
+   ]
+  },
+  {
+   "query": "e-Stat financial statements statistics of corporations manufacturing by capital size excel Japan statistics",
+   "results": [
+    "https://www.e-stat.go.jp/en/statistics/00350600",
+    "https://www.mof.go.jp/english/pri/reference/ssc/index.htm",
+    "https://www.e-stat.go.jp/en/stat-search?page=1&query=gross+value+added&layout=dataset",
+    "https://www.stat.go.jp/english/data/nenkan/72nenkan/zenbun/en72/book/pageindices/index230.html",
+    "https://www.mof.go.jp/english/pri/reference/ssc/r6e.pdf",
+    "https://www.statista.com/statistics/875800/japan-corporate-ordinary-profit-all-industries/?srsltid=AYCX9vKZAOqsu9W15-BWi5DKhElipWAwY_-06md6jgt887vokOchypgV",
+    "https://www.e-stat.go.jp/en/stat-search",
+    "https://www.e-stat.go.jp/en/dbview?sid=0004054009",
+    "https://www.ceicdata.com/en/japan/financial-statements-of-corporation-industry-all/industry-all-number-of-corporations"
+   ]
+  },
+  {
+   "query": "site:note.com e-Stat 法人企業統計調査 製造業 資本金階級別 従業員数・売上高（Excel・統計コードから直接・規模別の2本目・4-31・4-35）",
+   "results": []
+  },
+  {
+   "query": "site:x.com e-Stat 法人企業統計調査 製造業 資本金階級別 従業員数・売上高（Excel・統計コードから直接・規模別の2本目・4-31・4-35）",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com e-Stat 法人企業統計調査 製造業 資本金階級別 従業員数・売上高（Excel・統計コードから直接・規模別の2本目・4-31・4-35）",
+   "results": [
+    "https://www.linkedin.com/jobs/医療法人社団桜-事業内容-従業員数-年商-資本金-売上高-会社概要-jobs",
+    "https://www.linkedin.com/company/linkedin",
+    "https://ca.linkedin.com/in/e-stat-engineering-72824296",
+    "https://jp.linkedin.com/in/shigekobayashi/en",
+    "https://jp.linkedin.com/in/mathieu-deligne/en",
+    "https://tw.linkedin.com/company/鴻海精密工業股份有限公司",
+    "https://za.linkedin.com/in/tumelo-nku-16734288"
+   ]
+  },
+  {
+   "query": "site:facebook.com e-Stat 法人企業統計調査 製造業 資本金階級別 従業員数・売上高（Excel・統計コードから直接・規模別の2本目・4-31・4-35）",
+   "results": [
+    "https://www.facebook.com/stat.japan/",
+    "https://www.facebook.com/fujishi.s/photos/中小企業小規模事業者が経営支援施策を効果的に活用するため自社の経営環境を適切に分析することが重要になります中小企業庁-中小企業対策関連予算httpswwwchu/1048639157290243/",
+    "https://www.facebook.com/stat.japan/posts/キッズすたっと探そう統計データに使い方動画を掲載小中学生向け統計データ検索サイトキッズすたっと探そう統計データに使い方を分かりやすく説明した動画を掲載しました是/2078323622247124/",
+    "https://www.facebook.com/stat.japan/photos/総合報告書刊行について都道府県別の主な指標値に順位を付けた統計でみる都道府県のすがた-2025を2月21日に刊行しました是非ご覧ください統計でみる都道府県のすが/1048326140664747/",
+    "https://www.facebook.com/stat.japan/photos/総合報告書刊行について都道府県別の主な指標値に順位を付けた統計でみる都道府県のすがた-2026を2月20日に刊行しました是非ご覧ください統計でみる都道府県のすが/1340887678075257/",
+    "https://www.facebook.com/stat.japan/photos/総務省統計局からのお知らせ明日への統計2025を統計局ホームページに掲載しました統計調査の結果をグラフや図を用いてわかりやすく説明しています日本の社会経済の今の/1111615201002507/",
+    "https://www.facebook.com/stat.japan/posts/2月28日総務省統計局からお知らせします本日世界の統計2025を刊行しました世界の統計2025は世界各国の人口経済社会環境といった分野のデータを国際機関の統計資/1053764523454242/"
+   ]
+  },
+  {
+   "query": "e-Stat 法人企業統計調査 製造業 資本金階級別 従業員数・売上高（Excel・統計コードから直接・規模別の2本目・4-31・4-35） note 社長",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=2&toukei=00350600&tstat=000001047744&tclass1=000001047745&second2=1&tclass2val=0&year=20251&month=11010300&result_back=1",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001051373&tclass2=000001051374&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&iroha=30&cycle=8&toukei=00350600&tstat=000001047744&tclass1=000001049372&tclass2val=0&year=20241&month=0&result_back=1",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00350600&kikan=00350&result_page=1",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001220040&tclass2=000001220041&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=7&layout=dataset&month=0&page=1&tclass1=000001045045&tclass2=000001045046&toukei=00553010&tstat=000001019842&year=20100",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=2&year=20251&month=11010300&toukei=00350600&tstat=000001047744&tclass1=000001047745&result_back=1&tclass2val=0&second2=1&stat_infid=000040461000",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&bunya_l=07&bunya_s=0701&toukei=00553010&result_page=1&tstat=000001019842&layout=dataset"
+   ]
+  },
+  {
+   "query": "e-Stat 法人企業統計調査 製造業 資本金階級別 従業員数・売上高（Excel・統計コードから直接・規模別の2本目・4-31・4-35） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=2&toukei=00350600&tstat=000001047744&tclass1=000001047745&second2=1&tclass2val=0&year=20251&month=11010300&result_back=1",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001051373&tclass2=000001051374&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00350600&tstat=000001047744&cycle=8&tclass1=000001049372&tclass2val=0",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00350600&kikan=00350&result_page=1",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.e-stat.go.jp/stat-search/database?cycle=2&layout=datalist&page=1&second2=1&statdisp_id=0003061946&tclass1=000001049372&tstat=000001047744",
+    "https://www.e-stat.go.jp/stat-search?kikan=00350&toukei=00350600&page=1",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001220040&tclass2=000001220041&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=7&layout=dataset&month=0&page=1&tclass1=000001045045&tclass2=000001045046&toukei=00553010&tstat=000001019842&year=20100"
+   ]
+  },
+  {
+   "query": "e-Stat financial statements statistics of corporations manufacturing by capital size excel site:linkedin.com",
+   "results": [
+    "https://tz.linkedin.com/in/fortune-mosha-29234030a",
+    "https://www.linkedin.com/in/thomas-ng-408a6a146",
+    "https://www.linkedin.com/in/jose-ajero-8091a2207",
+    "https://fi.linkedin.com/in/naba-tareque",
+    "https://www.linkedin.com/in/siao-lu-257777108",
+    "https://www.linkedin.com/in/viraj-dhanusha",
+    "https://www.linkedin.com/in/dennis-craig-4534a9177",
+    "https://de.linkedin.com/in/irene-wanjiku-mwangi",
+    "https://www.linkedin.com/in/stevenblum58",
+    "https://cl.linkedin.com/in/garrett-fenchel"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ29頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ29頁・検索15回）"
+ }
+}

@@ -1,0 +1,1826 @@
+{
+ "name": "株式会社AI",
+ "aliases": [
+  "AI"
+ ],
+ "context": "ベストベンチャー100 選出年度 2023",
+ "researched_at": "2026-11-05T12:16:47.348277+00:00",
+ "official_url": "https://grokipedia.com/",
+ "identified_by": "search:ddgs:google:AI",
+ "profile": {},
+ "evidence": {
+  "客は誰か": [
+   {
+    "quote": "AIA株式会社は、代表の30年のインフラ設計の経験と最新AI技術で、中小企業のDX・AI導入を支援します",
+    "url": "https://aia.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "30年のインフラ経験と最新AI技術を融合し、中小企業のDX・AI導入を支援するテクノロジーカンパニー",
+    "url": "https://aia.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "大企業向けの過剰なソリューションではなく、中小企業の規模感・予算感に合った現実的なDX・AI導入を支援します",
+    "url": "https://aia.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業様薬局向けネイルチップサンプル作成",
+    "url": "https://aicoltd.net/archives/company/320",
+    "pass": 3
+   },
+   {
+    "quote": "スタートアップから大手企業まで、AI技術を活用した新たな事業を展開する企業が急増",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub Copilot 法人向け研修",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft 365 Copilot 法人向け研修",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "に関する調査では、大企業と中小企業の間にAI活用の二極化が見られ、この格差をどう埋めるかが今後の国内市場成長の鍵を握っています",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "大企業で普及、中小企業は導入初期",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、日本の大手企業4社がAIを業務に組み込み、定量的な成果を上げている事例を紹介します",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "・法人向けソフトウエアのナイス（NiCE、イスラエル）がカスタマーサポート新興の独コグニジー（Cognigy）を9億5500万ドルで買収した",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "・法人向けソフトウエアの豪アトラシアンがAIブラウザ「Arc」「Dia」を手掛ける米The Browser Companyを6億1000万ドルで買収した",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした活動は既存の法人向けソフトウエア企業がAIの導入を加速するため、買収を進めていることを示している",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "多くの企業は、まず業種を問わず効果が出やすい業務（バックオフィスや問い合わせ対応など）から着手し、少しずつ自社の業界特有の領域へ広げていきます",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "法人向けのクローズドな環境を使い、人による確認工程を残す",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "個人向けの無料ツールに機密情報を入力して情報漏洩につながる",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "金融・製造・ITなど業種を問わず、社内向けの生成AI環境を整え、全社員が日常業務で使える形にする事例が増えています",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業でもAI活用事例のような成果は出せますか？",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "意思決定が速く、対象業務を絞りやすい中小企業のほうが、むしろスモールスタートに向いています",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "EQUESでも製薬業界向けのAI品質保証支援を行っており、QAI Generatorなどのツールと組み合わせた導入支援が可能です",
+    "url": "https://eques.co.jp/column/ai-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入の成功事例18選｜中小企業・自治体の効果と費用【2026年10月】",
+    "url": "https://jinrai.co.jp/blog/2026/03/19/ai-dounyuu-jirei/",
+    "pass": 3
+   },
+   {
+    "quote": "「AI導入の事例を調べても、大手企業の話ばかりで自社に当てはめられない」「具体的にいくらかけて、どのくらいの効果が出たのか知りたい」——AI導入を検討する企業が事例を探すとき、最も求めているのは「自社で再現できるかどうか」の判断材料です",
+    "url": "https://jinrai.co.jp/blog/2026/03/19/ai-dounyuu-jirei/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業・自治体を中心とする6つの新しい事例",
+    "url": "https://jinrai.co.jp/blog/2026/03/19/ai-dounyuu-jirei/",
+    "pass": 3
+   },
+   {
+    "quote": "【全業種共通】事例⑪ 東京ガス：AI音声認識でコールセンターを支援",
+    "url": "https://jinrai.co.jp/blog/2026/03/19/ai-dounyuu-jirei/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年の新事例】中小企業・自治体の6事例",
+    "url": "https://jinrai.co.jp/blog/2026/03/19/ai-dounyuu-jirei/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 中小企業でもAI導入で成果を出せますか？",
+    "url": "https://jinrai.co.jp/blog/2026/03/19/ai-dounyuu-jirei/",
+    "pass": 3
+   },
+   {
+    "quote": "また、SaaS型ツール（ChatGPT Team等、月額約3,900円/人）であれば中小企業でもすぐに始められます",
+    "url": "https://jinrai.co.jp/blog/2026/03/19/ai-dounyuu-jirei/",
+    "pass": 3
+   },
+   {
+    "quote": "AI FIT — 中小企業のためのAI導入パートナー",
+    "url": "https://jinrai.co.jp/blog/2026/03/19/ai-dounyuu-jirei/",
+    "pass": 3
+   },
+   {
+    "quote": "法人向け高機能プランnote proは、記事制作を支援する機能「AI執筆サポート」に、炎上リスク・表記ルール・トーン＆マナーをチェックする機能「レビュープラス」を追加します",
+    "url": "https://biz.note.com/n/n07aac40f6ada",
+    "pass": 3
+   },
+   {
+    "quote": "法人向けプランがなく、学習利用を禁止できない点も企業利用では注意が必要です",
+    "url": "https://note.com/ai_do0419/n/n1de25266d309",
+    "pass": 3
+   }
+  ],
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "・アイディア雑貨の企画製造販売とそれに関する一切の事業",
+    "url": "https://aicoltd.net/archives/company/320",
+    "pass": 3
+   },
+   {
+    "quote": "・各種イベントやテーマパークの企画運営広報請負",
+    "url": "https://aicoltd.net/archives/company/320",
+    "pass": 3
+   },
+   {
+    "quote": "・アイディア商品の企画開発製造小売り、楽天やAmazonなどECショップ運営、WEBサイト作成などIT事業、専門WEBメディア運営、金属加工品類やネイルチップOEM請負、サブスク開発、ベビー用スキンケア事業など",
+    "url": "https://aicoltd.net/archives/company/320",
+    "pass": 3
+   },
+   {
+    "quote": "ＡＩデータセンターに係る設計、建設、運営及び監理",
+    "url": "https://ai-hd.net/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "ＡＩデータセンター向けのGPU、GPUサーバー、ラック等の機器の販売",
+    "url": "https://ai-hd.net/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "ＡＩクラウドサービスの企画、販売、運営",
+    "url": "https://ai-hd.net/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "ＡＩ及び量子等に係る（設備）投資案件及び出資案件の紹介及び仲介",
+    "url": "https://ai-hd.net/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "AI企業とは？事業内容やビジネスモデル、今後の展望について解説 | AIで、新しい働き方を、カタチにする",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "AI企業とは？事業内容やビジネスモデル、今後の展望について解説",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、AI技術を活用して製品やサービスを開発し、それを市場に提供することで競争力を強化し、収益を上げることを目指しています",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転車、医療診断、顧客サービス、ロボティクス、製造業",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "以下では、日本のAI企業の数、売上高、そして彼らが直面する挑戦と課題について詳しく見ていきます",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "AI技術の導入により、企業は効率化や生産性の向上を実現し、新たな収益源を開拓しています",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、小売業界ではAIを用いた顧客行動分析が行われ、顧客の好みに合わせた商品提供が可能となり、売上高の増加に寄与しています",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "また、製造業においても、AIを活用して生産プロセスの最適化を図り、生産効率を向上させる企業が増えています",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、売上高の向上が実現されています",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "AI企業は、さまざまなビジネスモデルを採用して収益を上げています",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプションモデルは、AI企業の一つの主要な収益源です",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "、企業は安定した収益を確保できます",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクトベースの収益は、AI企業が特定のプロジェクトやカスタマーソリューションの提供によって得る収益です",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、製造業における品質管理システムの開発や、金融分野でのリスク評価モデルの構築などが該当します",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクトベースの収益は、顧客の特定の要求に応えるためにAI企業が柔軟に対応できる",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "データ販売は、AI企業が収益を上げる主要な方法です",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "AI企業は、データの収集、整理、分析を行い、そのデータを他の企業や研究機関に販売します",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、気象データ、市場調査データ、消費者行動データなどがデータ販売の対象となります",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "データ販売により、AI企業は自社のデータ資産を活用し、追加の収益を得ることができます",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "AI企業はこれらのビジネスモデルを組み合わせて収益を最大化し、競争力を維持しています",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、日本のAI企業が米国の大手テクノロジー企業と提携し、AI製品を共同開発・販売することで、国際市場での存在感を高めることができます",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ヘルスケア、農業、製造業、金融など、多くの分野でAIの活用が増えています",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "国内市場の成長を支えている要因は、製造業におけるAI品質検査の普及、金融業界でのAI審査・不正検知の高度化、そして企業全体での",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "特にロボティクス・自動車・電子機器といった日本が強みを持つ製造領域では、AI活用が国際競争力の維持に直結するため、投資意欲が高い状態が続いています",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスの現場では、製造ラインの画像をAIに送信して不良品を即座に検知したり、会議の音声を自動で文字起こし・要約して議事録を生成したりする活用が広がっています",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "物流・製造・農業といった労働集約型の産業では、人手不足の深刻化とともにフィジカルAIへの投資が加速しています",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "金融業界が最も先行しており、製造業がそれに続く構図です",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "画像認識AIによる外観検査は人間の目視検査よりも高速かつ安定した品質判定が可能であり、半導体・自動車部品・食品加工など幅広い製造ラインで導入が進んでいます",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業・物流業は慢性的な人手不足に直面しており、AI活用は労働力の補完手段としても重要な位置づけにあります",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "小売業界では、AIを活用した需要予測とパーソナライズドマーケティングが収益改善に直結しています",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、日本の大手企業4社がAIを業務に組み込み、定量的な成果を上げている事例を紹介します",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "従来は担当者の経験と勘に頼っていた需要予測を、過去の販売データ・天候・イベント情報などの多変量データをAIに学習させることで高精度化しました",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアメーカーがAIをソフトウェアサービスとして事業化した例であり、製品販売からサービス収益への転換というビジネスモデル変革の側面も持っています",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "日本は独自のLLM開発よりも、既存モデルの活用と特定領域（製造・ロボティクス・素材）でのAI応用に強みを発揮する路線が現実的です",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "特に製造業のAI品質管理やロボット制御の分野では、日本企業が世界トップクラスの実績を持っており、この優位性をいかに維持・拡大できるかが国際競争力を左右します",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "この料金比較から分かるのは、個人利用であれば月額$20前後から始められる一方で、企業での本格導入には1人あたり月額$25〜$30のコストが発生するという点です",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "100人規模の組織では月額25〜30万円、年間300〜360万円程度の投資となります",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "AI活用のノウハウ集「AI総合研究所」サービスご紹介資料",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "「AI総合研究所 サービス紹介資料」は、AI導入のノウハウがないというお客様にも使いやすい最先端のAI導入ノウハウを知れる資料です",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "オープンAIは7月に年換算売上高が120億ドルに達したと明らかにしたが、報道によると25年の現金支出は約80億ドルと予測している",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "24年の売上高はゼロ（ただし29年には90億ドルの見通し）だったが企業価値の評価額は390億ドルで、従業員1人当たりの企業価値は1億430万ドルに上った",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "米ウィンドサーフ（Windsurf）買収に伴い年間経常収益（ARR）が1億5000万ドルを超え、企業価値を売上高で割った売上高マルチプルは最大約68倍に上る",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした企業価値は先見の明を示しているのか、それとも過大評価にすぎないのかは、各社が数年後に野心的な収益見通しを達成できるかどうかによって決まる",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIの企業導入事例、カスタマーサポートや営業・製造・物流での具体的な使い方、効果が出やすい領域、失敗事例から学ぶ導入のポイントまで、自社のAI導入のヒントが見つかります",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "「業種別」は、製造・物流・医療といった特定業界に固有のユースケースを指します",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "例：製造、物流、医療",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場では、画像認識による外観検査の自動化が代表例です",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "製造装置にセンサーを付けて稼働データを常時解析し、故障の予兆を事前に検知します",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "過去の販売実績に天候やイベントなどの外部要因を組み合わせ、必要なものを必要な分だけ揃える需要予測が広がっています",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "過去の販売データに天気・気温・近隣のイベントなどを組み合わせ、廃棄ロスの削減と売上機会の最大化を同時に狙うのが基本の形です",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "金融・製造・ITなど業種を問わず、社内向けの生成AI環境を整え、全社員が日常業務で使える形にする事例が増えています",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "今は初期費用を抑えた月額制のAIサービスが多く、専用システムを開発しなくても汎用ツールで十分な効果を得られます",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "AIで業務を効率化し、生産性を最大化する施策を紹介する実践型メディア",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "・アイディア商品の企画開発製造小売り、楽天やAmazonなどECショップ運営、WEBサイト作成などIT事業、専門WEBメディア運営、金属加工品類やネイルチップOEM請負、サブスク開発、ベビー用スキンケア事業など",
+    "url": "https://aicoltd.net/archives/company/320",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業様薬局向けネイルチップサンプル作成",
+    "url": "https://aicoltd.net/archives/company/320",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品メーカー様バラエティーショップ向けサンプル作成",
+    "url": "https://aicoltd.net/archives/company/320",
+    "pass": 3
+   },
+   {
+    "quote": "ＡＩデータセンターに係る設計、建設、運営及び監理",
+    "url": "https://ai-hd.net/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転車、医療診断、顧客サービス、ロボティクス、製造業",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のロボティクス企業では、自動車産業向けの自動運転技術の開発や、ヘルスケア分野でのAIを活用した医療診断システムの研究が行われています",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、小売業界ではAIを用いた顧客行動分析が行われ、顧客の好みに合わせた商品提供が可能となり、売上高の増加に寄与しています",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "また、製造業においても、AIを活用して生産プロセスの最適化を図り、生産効率を向上させる企業が増えています",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、金融機関はAIを使用してリスク評価モデルを構築し、貸し倒れリスクを最小限に抑えるためのデータ解析を行っています",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "また、小売業では、顧客の購買履歴を分析して商品の推奨や在庫管理を最適化するためにAIを活用しています",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、カスタマーサポートセンターでは、顧客からの問い合わせをNLPを用いて効率的に処理し、迅速な対応を実現しています",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "また、医療分野では、画像認識技術を用いてX線やMRIスキャンから病変を検出し、医師の診断をサポートするために活用されています",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客は定期的な支払いを行い、AIサービスやプラットフォームへのアクセスを維持します",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客はAIモデルの利用やアップデートにアクセスでき",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "企業は顧客のニーズに合わせてAIソリューションをカスタマイズし、プロジェクトごとに契約を結びます",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、製造業における品質管理システムの開発や、金融分野でのリスク評価モデルの構築などが該当します",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクトベースの収益は、顧客の特定の要求に応えるためにAI企業が柔軟に対応できる",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のニーズや市場の変化に応じて柔軟に対応し、AI技術を活用した革新的なビジネスモデルの構築が重要です",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、顧客の購買履歴データから傾向を分析し、製品のカスタマイズやマーケティング戦略の最適化に貢献します",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客やユーザーの個人データを収集、処理、保管する際には、そのデータのプライバシーとセキュリティを確保するために対策を講じる必要があります",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、顧客の個人情報を収集する際には、明示的な同意を得ることが求められます",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "また、AIの自動運転車や医療応用など、特定の分野においては専門的な法的規制が存在することもあります",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、自動車メーカーは自動運転技術の開発に取り組み、国際的な市場で競争力を発揮しています",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ヘルスケア、農業、製造業、金融など、多くの分野でAIの活用が増えています",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、AI企業が環境への影響を最小限に抑えるためのエネルギー効率の向上に貢献し、持続可能な未来に向けて積極的に行動します",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事は年間12億円、ダイキンは消費電力20%を削減",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "東京工業大学大学院にて自然言語処理・金融工学を研究",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "ダイキン — AI空調制御で消費電力20%削減",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "国内市場の成長を支えている要因は、製造業におけるAI品質検査の普及、金融業界でのAI審査・不正検知の高度化、そして企業全体での",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "企業の現場では、経費精算の自動処理、顧客問い合わせの一次対応、コードレビューの自動化といった業務が、AIエージェントによって人間の介入なしに完了するケースが増えています",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "この進化により、これまでテキストだけでは対応できなかった業務領域（現場の目視検査、医療画像の診断支援、動画コンテンツの自動編集など）にAIが進出し、ビジネスの適用範囲が飛躍的に広がっています",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAが推進するIsaacプラットフォームやGR00Tモデルにより、工場内の搬送ロボットや倉庫の自動ピッキングシステムが従来よりはるかに柔軟な動作を実現し始めています",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "物流・製造・農業といった労働集約型の産業では、人手不足の深刻化とともにフィジカルAIへの投資が加速しています",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "画像診断支援、創薬、個別化医療",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "在庫最適化、顧客体験の向上",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "金融業界が最も先行しており、製造業がそれに続く構図です",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "また、保険業界ではAIを活用した保険金請求の自動査定や、リスクに応じた動的な保険料設定が進んでおり、顧客体験の向上とコスト削減の両立が実現しつつあります",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "物流分野では、AIによる配送ルートの最適化や倉庫内の自動ピッキングにより、人件費の削減と配送効率の向上が同時に達成されています",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業・物流業は慢性的な人手不足に直面しており、AI活用は労働力の補完手段としても重要な位置づけにあります",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "日本では医療機器としての承認プロセスが整備されつつあり、実臨床での活用が加速する素地が整ってきました",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "小売業界では、AIを活用した需要予測とパーソナライズドマーケティングが収益改善に直結しています",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "ビルの消費電力を最大20%削減",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "タイのBMW施設でも16%の電力削減を達成しています",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアメーカーがAIをソフトウェアサービスとして事業化した例であり、製品販売からサービス収益への転換というビジネスモデル変革の側面も持っています",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "の体制構築は、リスク回避の手段であると同時に、取引先や顧客からの信頼を獲得するための差別化要因にもなります",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、営業職がAIによる顧客分析を活用してより精度の高い提案を行ったり、人事担当者がAIスクリーニングを活用して面接に集中できるようになったりと、AIは人間の業務を「補完」する形で定着しつつあります",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "特に製造業のAI品質管理やロボット制御の分野では、日本企業が世界トップクラスの実績を持っており、この優位性をいかに維持・拡大できるかが国際競争力を左右します",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "25年のAI半導体メーカーのエクイティ（株式）による調達件数と調達額も過去最高に達する見通しだ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "全国農業協同組合中央会・神農佳人会長（11月2日）",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "芋づる式に建設資格の不正取得発覚 技術者の要件満たさず営業停止",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "教育とデザインを考える㊦ 神山まるごと高専×ソニー",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "進学校・聖光学院で育んだ すぐ役に立たないことに取り組む力",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "AI活用事例まとめ｜業種・業務別の導入事例と成果【2026年最新版】 | aitip",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "AI活用事例まとめ｜業種・業務別の導入事例と成果【2026年最新版】",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "AI活用事例・AI導入事例を業種別・業務別に一覧で整理しました",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIの企業導入事例、カスタマーサポートや営業・製造・物流での具体的な使い方、効果が出やすい領域、失敗事例から学ぶ導入のポイントまで、自社のAI導入のヒントが見つかります",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事は、経営企画・DX推進担当者・現場マネージャー向けに、AI活用事例・AI導入事例を「業務別」「業種別」の一覧で整理したものです",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "「業種別」は、製造・物流・医療といった特定業界に固有のユースケースを指します",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "例：製造、物流、医療",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスでのAI導入事例も、根っこにある技術はこれらと共通",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "資本金３００万",
+    "url": "https://aicoltd.net/archives/company/320",
+    "pass": 3
+   },
+   {
+    "quote": "ＡＩ及び量子等に係る（設備）投資案件及び出資案件の紹介及び仲介",
+    "url": "https://ai-hd.net/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "AI企業の資金調達とIPOについて、下記の順に解説します",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "AI企業は、成長と拡大のために資金調達が欠かせません",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "その中でも、ベンチャーキャピタル（VC）からの資金調達は一般的な方法の一つです",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチャーキャピタルは、有望なAI企業に資金を提供し、成長を支援します",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、AIスタートアップが画像認識技術の開発に取り組む際、ベンチャーキャピタルからの資金調達を通じて、研究室の設備を整え、優秀なエンジニアを雇用し、市場に導入するためのステップを踏むことができます",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達のもう一つの方法として、クラウドファンディングがあります",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドファンディングは、一般の人々から小額の寄付や投資を募り、資金調達を行うプラットフォームを利用する方法です",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、企業は大規模な資金調達を行い、さらなる成長と展開を図ることができます",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "証券取引所への上場、財務報告の整備、規制当局との調整などが含まれます",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "AI企業は資金調達、IPO、国際競争力を戦略的に考え、持続的な成長を実現するために努力しています",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "国際的な環境で競争し、AI技術を活用して社会に貢献するために、資金調達と国際競争力の強化が不可欠です",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "AI企業は資金調達を通じて研究開発と成長を支え、IPOを通じて大規模な資本を調達する道を選ぶことがあります",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "AI企業は資金調達と国際競争力をバランスよく組み合わせ、持続可能な成長を実現するための戦略を練り続けています",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの企業はデータサイエンティスト、AIエンジニア、プロジェクトマネージャーなどの専門スキルを持つ人材を必要としており、資金調達や国際競争力の強化が不可欠です",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "AIスタートアップの資金調達高水準 7〜9月、エージェント関連のM&A活発 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7〜9月期の人工知能（AI）スタートアップによる資金調達額は高水準を維持した",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞社は、スタートアップ企業やそれに投資するベンチャーキャピタルなどの動向を調査・分析する",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "25年のAIスタートアップの資金調達額は、現在のペースが続けば過去最高だった前年の1080億ドルから倍増する見込みだ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "25年7〜9月期には資金調達件数は減少したものの、AIインフラ企業の10億ドル規模のラウンドにより調達額は引き続き大きく増えた",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチャーキャピタル（VC）と企業が特に注目している新たなチャンスはAIエージェントで、7〜9月期の資金調達とM&A（合併・買収）活動はエージェント市場が主導した",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "AI分野の資金調達件数は減ったが、大型ラウンドの下支えで調達額は増加",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "AI分野の資金調達件数は減ったが、大型ラウンドの下支えで調達額増加",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "25年7〜9月期の世界の未上場AI企業による資金調達件数は前四半期比22%減ったが、調達額は4四半期連続で450億ドルを上回った",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "これはAIスタートアップの資金調達がいかに上位企業に偏っているかを示している",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "GEO企業約20社を過去1年のモザイクスコア（未上場企業の健全性を測定し、成長性を予測するCBインサイツの独自スコア）の伸びに基づいてランク付けし、急成長している企業を割り出した",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "コーディングAI企業同士の争い 重複出資する投資家は板挟み",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "AIスタートアップの資金調達、4〜6月期は4割減 大型案件に集中",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1〜3月期のAIスタートアップの資金調達 25年通年上回る",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "フィンテックの1~3月期、資金調達は最低水準に 成長後期企業に集中",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ヨックモックグループの製造子会社YOKU MOKU CREAは、少数の熟練者に頼っていた約150品目・32ラインの生産計画を、ソルバー「Gurobi」で作った専用システムに移しました",
+    "url": "https://eques.co.jp/column/ai-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "BIKO：High Growth経営×M&A×AI×Passion / 元P上場企業CFO",
+    "url": "https://money.note.com/rankings/AI/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトバンク×SBテクノロジーのTOB｜下がった株価に44%、6か月平均には30%──2,700円から5回の提案と、2社のDCFで読む親子上場の解消",
+    "url": "https://money.note.com/rankings/AI/market_cap_desc",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | AIA株式会社 — AIA株式会社の会社概要ページ。代表者、設立、事業内容、経営理念などをご紹介します。",
+    "url": "https://aia.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社AI - aicoltd.net — 会社概要 会社屋号 株式会社AI （かぶしきがいしゃあい） 設立 2018年6月6日 代表取締役 大森淑美 事業内容 ・子ども女性シニア障がい者の自助・自立支援に関する一切の事業 ・アイディア雑貨の企画製造販売とそれに関する一切の事業 ・各種イベントやテーマパークの企画運営広報請負 具体的 ...",
+    "url": "https://aicoltd.net/archives/company/320",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | AI HOLDINGS — 会社名AI Holdings株式会社所在地東京都千代田区紀尾井町4番1号 ニューオータニガーデンタワー8階TEL03-6801-5666資本金3000万円設立令...",
+    "url": "https://ai-hd.net/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | つくるAI株式会社 — 会社名 つくるAI株式会社 代表者 代表取締役 新谷 健 事業内容 ソフトウェアの開発 不動産業・建設業者向けサービスの開発・販売・運営 本社所在地 東京都港区六本木1-6-1 泉ガーデンタワー 36階 資本金 500万円 設立 2024年 7月 グループ会社 トグルホールディングス株式会社 / つくる地所株式会社 ...",
+    "url": "https://tsukuru-ai.co.jp/corp/company",
+    "pass": 3
+   },
+   {
+    "quote": "Sakana AI株式会社（東京都）の会社概要・役員 | Compalyze — 事業概要 Sakana AI株式会社は、2023年に東京で設立されたAI研究開発企業です。 自然界から着想を得たユニークな生成AI技術を基盤とし、日本社会のニーズに応えるAIソリューションの開発とAIの民主化を目指しています。",
+    "url": "https://compalyze.co.jp/company/6010401175698",
+    "pass": 3
+   },
+   {
+    "quote": "AI企業とは？事業内容やビジネスモデル、今後の展望について解説 | AI... — Aug 31, 2023 · aiを活用する企業の概要から将来性までを包括的に解説。日本のai企業の現状、主要事業領域、ビジネスモデル、求められる人材とスキル、倫理と法規制の側面、資金調達やIPOのプロセス、国際競争力の分析、さらに今後の展望について詳しく紹介します。aiを核とする企業戦略の理解に役立つ ...",
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "AIビジネスの今後は？市場規模と活用事例から将来展望を徹底解説 | AI... — Mar 14, 2026 · AIビジネスのこれからについて、市場規模や産業別変化をはじめ、現在の課題から未来展望まで、包括的に解説した記事の ...",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   },
+   {
+    "quote": "AI業界の現状・動向・将来性｜市場規模や主要企業、生成AI・国産モデ... — Oct 27, 2026 · AI 業界の市場規模・主要企業・動向 日本のAI市場は2024年1.3兆円から2029年4.2兆円へ拡大し、生成AIが業界の主軸となる急成長フェーズです AI業界とは、機械学習・大規模言語モデル (LLM)・生成AI等の技術を、ソフトウェア・サービス開発と業界応用に展開する産業領域を指します。2024年の国内AI ...",
+    "url": "https://www.crex-data.com/industry/media-it/ai",
+    "pass": 3
+   },
+   {
+    "quote": "日本のAI企業ランキング2026年最新版｜売上・株価・投資・おすすめAI... — May 21, 2026 · 日本のAI企業ランキングを売上TOP10・株価上位・AI投資の観点から徹底比較。Appier Group、PKSHA Technology、キーエンスなど注目銘柄を網羅。AI株への投資方法やおすすめAIイラストメーカーも紹介。2026年最新情報をもとにAI業界の全体像をわかりやすく解説します。",
+    "url": "https://smallppt.com/ja/blog/basics/ai-company-ranking-japan-ja",
+    "pass": 3
+   },
+   {
+    "quote": "AI企業ランキング決定版！売上・時価総額・技術力で徹底比較 — Nov 17, 2025 · 本記事では、国内外のAI企業を売上高、時価総額、技術力の3つの軸で総合的に分析し、2025年に注目すべきAI企業ランキングを詳細に解説します。 読者の皆様には、AI企業選びの指標として、また投資や転職の参考として活用いただける情報をお届けいたし ...",
+    "url": "https://corp.omake.co.jp/ai企業ランキング決定版！売上・時価総額・技術力/",
+    "pass": 3
+   },
+   {
+    "quote": "オープンAI、評価額1.2兆ドルで資金調達検討 IPO前に＝FT — Sep 16, 2026 · 対話型人工知能（AI）「チャットGPT」を手が けるオープンAIは最近、新たな資金調達について大口投資家と協議しており、新規株式公開（IPO ...",
+    "url": "https://www.reuters.com/jp/economy/RGYJBVEBJFLSZBRBZ23FC5MNVY-2026-09-16/",
+    "pass": 3
+   },
+   {
+    "quote": "AI新興の資金調達高水準 7〜9月、エージェント関連のM&A活発 — Nov 17, 2025 · 2025年7〜9月期の人工知能（AI）スタートアップによる資金調達額は高水準を維持した。大型ラウンドが相次ぎ、巨額資金が基盤モデルやインフラ ...",
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAIが資金調達目標を100億ドル引き下げ、AI株安響く－FT紙 - Bloom... — 5 days ago · 生成AIのChatGPTを手がける米OpenAIは資金調達目標を100億ドル（約1兆5800億円）引き下げた。AI関連株の売りと、競合するアンソロピックの上場が迫る ...",
+    "url": "https://www.bloomberg.com/jp/news/articles/2026-10-31/TNRHNPKK3NY800",
+    "pass": 3
+   },
+   {
+    "quote": "AIブームを支える資金調達手法の持続性 — ただし、利点ばかりで(注2) AIモデル開発企業の収益性については、2026年7月7日付拙著「AIモデル開発企業の収益性の考察」参照。 このような資金調達手法は、1990~2000年代初頭のITバブルを支えたベンダーファイナンスに近い構造にある。",
+    "url": "https://www.marubeni.com/jp/research/report/data/20260722_sagawa_AI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "オープンAI、アンソロピックIPO控え資金調達を加速＝関係筋 — Oct 20, 2026 · 米人工知能（AI）開発企業オープンAIは、競合アンソロピックが11月中旬 に予定している上場に先立ち、投資家からのコミットメントを確保する ...",
+    "url": "https://www.reuters.com/jp/markets/japan/IVJLVLBGABPY7EUQAR3JOSYYX4-2026-10-20/",
+    "pass": 3
+   },
+   {
+    "quote": "AI活用事例まとめ｜業種・業務別の導入事例と成果【2026年最新版】 | ... — Mar 31, 2026 · AI活用事例・AI導入事例を業種別・業務別に一覧で整理しました。生成AIの企業導入事例、カスタマーサポートや営業・製造・物流での具体的な使い方、効果が出やすい領域、失敗事例から学ぶ導入のポイントまで、自社のAI導入のヒントが見つかります。",
+    "url": "https://aitip.jp/ai-business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新版】AI導入事例12選｜業界別の成功事例と失敗しないポイ... — AIの導入は業務効率化や人手不足解消など多くの課題解決に有効です。本記事では、銀行・医療・小売・農業など業界別に幅広く7つのAI活用事例を紹介し、具体的な成果や導入のポイントを解説します。導入のヒントに！",
+    "url": "https://eques.co.jp/column/ai-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入の成功事例18選｜中小企業・自治体の効果と費用【2026年10月】 — Mar 19, 2026 · 生成AIの導入事例18件を業種別に紹介。パナソニック コネクトの年78.8万時間削減から、石川県の精密加工会社が月400〜500時間を削減した例、IT担当者なしで40種類以上のツールを作った静岡の板金会社、奈良市の約1万7,200時間削減まで、効果と費用感を出典つきで整理します。",
+    "url": "https://jinrai.co.jp/blog/2026/03/19/ai-dounyuu-jirei/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】製造業でのAI活用事例20選！導入のメリット・注意点も解説 — Jan 26, 2026 · そんな中、注目を集めているのがAI技術で、いまや品質検査から生産計画、設備保全まで、製造業のあらゆる場面で活用され始めています。 本記事では、 製造業のAI導入事例を紹介しながら、製造業におけるAI活用のメリットや注意点を詳しく解説 します。",
+    "url": "https://ai-kenkyujo.com/artificial-intelligence/ai-seizougyou/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】業種別AI導入企業事例12選！効果的な活用パターンとお... — Apr 5, 2026 · このように、業界ごとに直面している構造的な制約（人手不足、規制対応、リアルタイム性など）に合わせてAIを適用することで、投資対効果（ROI）を早期に創出することが可能になっています。 【業種別】企業のAI導入・活用成功事例12選 実在する企業のAI導入プロジェクトでは、具体的に ...",
+    "url": "https://noimosai.com/ja/blog/【2026年最新】業種別ai導入事例まとめ｜企業の活用",
+    "pass": 3
+   },
+   {
+    "quote": "主要取引先・パートナー | Company | 株式会社モルフォ — 株式会社モルフォの主要取引先・パートナーページです。モルフォは、高度なデジタル画像処理技術と最先端の人工知能（AI）／ディープラーニングが融合した「イメージングAI」で、社会のさまざまな分野に貢献していきます。",
+    "url": "https://www.morphoinc.com/company/customer",
+    "pass": 3
+   },
+   {
+    "quote": "アイ・アイ・エム｜ユーザーリスト - IIM — ユーザーリスト User List 主要取引先リスト 2025 年4月1日現在 敬称略50音順 金融 銀行／証券／その他金融 AIGテクノロジーズ SMBCコンシューマーファイナンス 商工組合中央金庫 信連ビジネスセンター ちば興銀コンピュータソフト みずほ銀行 三井住友信託銀行 ...",
+    "url": "https://www.iim.co.jp/userlist",
+    "pass": 3
+   },
+   {
+    "quote": "AI企業とは｜日本と世界の主要企業一覧と産業レイヤーの整理 — Oct 15, 2026 · AI企業とは何かを、AI事業者ガイドラインの3つの立場と4つのレイヤーで整理。日本の大手・AI専業・スタートアップと世界の主要企業を公式情報で一覧にし、順位の見方や取引先を見極めるポイントも解説します。",
+    "url": "https://www.onamae.com/business/article/298814/",
+    "pass": 3
+   }
+  ],
+  "選出の記録": [
+   {
+    "quote": "具体的には、まず全社員向けにAIリテラシー研修（生成AIの基本操作、プロンプトの書き方、データの扱い方）を実施し、次に各部門から「AIチャンピオン」となるリーダーを選出してより実践的なトレーニングを行います",
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "AIの時価総額ランキング | noteマネー AIの時価総額ランキングを徹底紹介！最新の関連銘柄情報や値上がりの背景をわかりやすく解説。投資家が知りたいポイントをまとめたnote記事も豊富に掲載中。初心者から上級者まで、効率的に投資アイデアを見つけられる情報が満載です！",
+    "url": "https://money.note.com/rankings/AI/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "Note operation that also led to applications via AI search ... Articles for the middle layer include seminar reports, the latest information on data and AI that marketers, sales, and corporate planning want to know, and introductions to our own services.",
+    "url": "https://biz.note.com/n/n726058efd717?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "原稿の確認・修正の手間を削減！note pro「AI執筆サポート」に3つのレ... Jul 14, 2026 · AI執筆サポートに追加された3つの機能 企業の情報発信では、「炎上リスクの確認に時間がかかる」「担当者が代わると文体や表記ルールがバラバラになる」といった課題が多くあがっています。",
+    "url": "https://biz.note.com/n/n07aac40f6ada",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新版】今あるAIサービスをすべて一覧化！カテゴリ別使いど... May 2, 2026 · まとめ：AIは「使い分ける」時代へ 2026年現在のAIサービスを整理すると、「1つのサービスがすべてをカバーする」のではなく、「目的に応じた専門サービスを組み合わせる」という使い方が最も効果的です。",
+    "url": "https://note.com/ai_do0419/n/n1de25266d309",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "定年おじさんの債券投資（ソフトバンク第70回無担保社債）：4.75％の利回りは信用リスクに見合うのか",
+    "url": "https://money.note.com/rankings/AI/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "アーム決算、ソフトバンクGへの効き方を数字で",
+    "url": "https://money.note.com/rankings/AI/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "売上4兆円超・比率44％――日立のLumadaはなぜ伸びるのか？現場データ×AIの稼ぎ方を解説",
+    "url": "https://money.note.com/rankings/AI/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "【元CFOの深読み決算インサイト】日立(6501)2027年3月期上期｜受注残10.5兆円をROIC13.5％へつなげる条件",
+    "url": "https://money.note.com/rankings/AI/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "BIKO：High Growth経営×M&A×AI×Passion / 元P上場企業CFO",
+    "url": "https://money.note.com/rankings/AI/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトバンク×SBテクノロジーのTOB｜下がった株価に44%、6か月平均には30%──2,700円から5回の提案と、2社のDCFで読む親子上場の解消",
+    "url": "https://money.note.com/rankings/AI/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "黄金パターンに当てはまらない理由を深掘りしてみた｜学習記録 #04🍙🫜",
+    "url": "https://money.note.com/rankings/AI/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "【NEC（6701）2027年3月期 決算分析】",
+    "url": "https://money.note.com/rankings/AI/market_cap_desc",
+    "pass": 3
+   },
+   {
+    "quote": "Note operation that also led to applications via AI search. Intimate Merger continues to sow seeds to make 'data' feel familiar｜note pro公式 | 法人オウンドメディアをかんたん、すぐに立ち上げ",
+    "url": "https://biz.note.com/n/n726058efd717?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Note operation that also led to applications via AI search. Intimate Merger continues to sow seeds to make 'data' feel familiar",
+    "url": "https://biz.note.com/n/n726058efd717?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "note pro公式 | 法人オウンドメディアをかんたん、すぐに立ち上げ",
+    "url": "https://biz.note.com/n/n726058efd717?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Intimate Merger, Inc. provides one of Japan's largest data platforms, 'IM-DMP,' and supports the data utilization of client companies. To help people feel the value of data in an easy-to-understand and familiar way, the company began operating an owned media platform using note in 2020.",
+    "url": "https://biz.note.com/n/n726058efd717?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Although they used note when they first started, they introduced the high-functionality corporate plan 'note pro' after a one-year verification period. As a result of their efforts—sometimes publishing articles at a pace of two per day—they have achieved results such as creating opportunities for companies to learn about them via AI search and attracting job seekers. What kind of process did they ",
+    "url": "https://biz.note.com/n/n726058efd717?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, we spoke with Minami Kishida, Leader of the Public Relations Group in the Corporate Communication Office.",
+    "url": "https://biz.note.com/n/n726058efd717?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Wanting to convey the appeal of 'data,' which is an intangible product:",
+    "url": "https://biz.note.com/n/n726058efd717?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We felt there was no place to casually share information about the 'data' we handle in-house.",
+    "url": "https://biz.note.com/n/n726058efd717?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "原稿の確認・修正の手間を削減！note pro「AI執筆サポート」に3つのレビュー機能を追加 ｜note pro公式 | 法人オウンドメディアをかんたん、すぐに立ち上げ",
+    "url": "https://biz.note.com/n/n07aac40f6ada",
+    "pass": 3
+   },
+   {
+    "quote": "原稿の確認・修正の手間を削減！note pro「AI執筆サポート」に3つのレビュー機能を追加",
+    "url": "https://biz.note.com/n/n07aac40f6ada",
+    "pass": 3
+   },
+   {
+    "quote": "note pro公式 | 法人オウンドメディアをかんたん、すぐに立ち上げ",
+    "url": "https://biz.note.com/n/n07aac40f6ada",
+    "pass": 3
+   },
+   {
+    "quote": "法人向け高機能プランnote proは、記事制作を支援する機能「AI執筆サポート」に、炎上リスク・表記ルール・トーン＆マナーをチェックする機能「レビュープラス」を追加します。担当者の経験やスキル、社内のチェック体制にかかわらず、企業・ブランドらしさや品質を保った記事制作がよりしやすくなりました。",
+    "url": "https://biz.note.com/n/n07aac40f6ada",
+    "pass": 3
+   },
+   {
+    "quote": "note proを契約中の法人・自治体は、追加料金なしでこれら3つの機能をご利用いただけます。",
+    "url": "https://biz.note.com/n/n07aac40f6ada",
+    "pass": 3
+   },
+   {
+    "quote": "note proでは2025年2月、インタビュー動画や音声データから記事の原稿案を自動で生成する「AI執筆サポート」の提供を開始しました。文字起こしから構成案、原稿までを一気に生成し、記事制作にかかわる担当者の負担を大幅に削減することに成功。カルビー株式会社や京都市をはじめ、多くの法人・自治体にご利用いただいています。",
+    "url": "https://biz.note.com/n/n07aac40f6ada",
+    "pass": 3
+   },
+   {
+    "quote": "今回はAI執筆サポートをご利用の方々からいただいた声をもとに、新たな機能「レビュープラス」を追加し、原稿の品質をさらに高められるようにしました。",
+    "url": "https://biz.note.com/n/n07aac40f6ada",
+    "pass": 3
+   },
+   {
+    "quote": "AI執筆サポートは、インタビューの動画や音声、文字起こしデータを専用のフォームから送信するだけで、以下の4点をAIが自動生成し、テキストファイルにまとめて納品する機能です。",
+    "url": "https://biz.note.com/n/n07aac40f6ada",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新版】今あるAIサービスをすべて一覧化！カテゴリ別使いどころ完全ガイド｜もちまる@AI",
+    "url": "https://note.com/ai_do0419/n/n1de25266d309",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新版】今あるAIサービスをすべて一覧化！カテゴリ別使いどころ完全ガイド",
+    "url": "https://note.com/ai_do0419/n/n1de25266d309",
+    "pass": 3
+   },
+   {
+    "quote": "「AIサービスが多すぎて、どれを使えばいいかわからない」",
+    "url": "https://note.com/ai_do0419/n/n1de25266d309",
+    "pass": 3
+   },
+   {
+    "quote": "正直、そう感じている人は多いはずです。ChatGPT、Claude、Gemini、Midjourney、Runway、Suno、Cursor……2026年現在、AIサービスは文字通り「数え切れないほど」の種類が存在しています。",
+    "url": "https://note.com/ai_do0419/n/n1de25266d309",
+    "pass": 3
+   },
+   {
+    "quote": "でも実は、AIサービスは大きく10のカテゴリに分類できます。そしてカテゴリさえ把握できれば、「このシーンではどのAIを使えばいいか」が自然と見えてきます。",
+    "url": "https://note.com/ai_do0419/n/n1de25266d309",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、2026年現在使えるAIサービスをカテゴリ別に網羅的に整理し、「どんな人が」「どんな場面で」使うべきかをわかりやすく解説します。「AIを使いたいけど何から手をつければいいかわからない」という初心者から、「もっと使いこなしたい」というヘビーユーザーまで、全員に役立つ保存版ガイドです。",
+    "url": "https://note.com/ai_do0419/n/n1de25266d309",
+    "pass": 3
+   },
+   {
+    "quote": "2026年現在の主要AIサービス40以上をカテゴリ別に整理した完全一覧",
+    "url": "https://note.com/ai_do0419/n/n1de25266d309",
+    "pass": 3
+   },
+   {
+    "quote": "各サービスの「強み」と「最適な使用シーン」の具体的な解説",
+    "url": "https://note.com/ai_do0419/n/n1de25266d309",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ai.com (@aidotcom) / X ai.com is the world’s first easy-to-use and secure AI agent. No technical setup required. Your ai.com agent runs in a secure environment with segregated and encrypted data. Reserve your handle now at ai.com",
+    "url": "https://x.com/aidotcom",
+    "pass": 3
+   },
+   {
+    "quote": "About Grok | X Help Center About Grok Welcome to the world of Grok on >xxx<'s functions. Grok is here to help you with your tasks while keeping you entertained and engaged. In this article, we explain what Grok is, how it works, and where you ...",
+    "url": "https://help.x.com/en/using-x/about-grok",
+    "pass": 3
+   },
+   {
+    "quote": "Ai社長さん (@ai_ceo_note) / X Oct 6, 2026 · 記事もこの投稿もAIが書いています。人間は投稿操作と数字報告のみ。「AIが経営するnoteは本当に売れるのか」を数字つきで公開する実験アカウント。会社員向けのAI業務効率化ネタを毎日。",
+    "url": "https://x.com/ai_ceo_note",
+    "pass": 3
+   },
+   {
+    "quote": "【誰でもできる】完全オリジナルのX自動投稿の自動化 | いしだ＠AIチ... Jun 15, 2026 · 毎朝、自分が寝てる間にAIがX投稿3〜5本と画像を作る仕組みの全てを、本気で全部書く。 こんな感じで毎朝自動で届く 毎日自動で、しかも他の発信者と被らない発信をしたい方は記事をご確認ください。",
+    "url": "https://x.com/ishida_chatgpt/article/2066323646180954330",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・本文）": [
+   {
+    "quote": "About Grok | X Help Center",
+    "url": "https://help.x.com/en/using-x/about-grok",
+    "pass": 3
+   },
+   {
+    "quote": "What is Grok and how does it work?",
+    "url": "https://help.x.com/en/using-x/about-grok",
+    "pass": 3
+   },
+   {
+    "quote": "Grok is an AI assistant who helps complete tasks, like answering questions, solving problems, and brainstorming. Grok is available to",
+    "url": "https://help.x.com/en/using-x/about-grok",
+    "pass": 3
+   },
+   {
+    "quote": "users and is powered by xAI’s state-of-the-art large language model (LLM). Inspired by the Hitchhiker's Guide to the Galaxy and JARVIS from Iron Man, Grok is designed to answer almost any question with a touch of wit and humor, while also providing helpful and insightful responses. Grok has a rebellious streak and an outside perspective on humanity, making it a unique and entertaining companion. G",
+    "url": "https://help.x.com/en/using-x/about-grok",
+    "pass": 3
+   },
+   {
+    "quote": "How was Grok trained?",
+    "url": "https://help.x.com/en/using-x/about-grok",
+    "pass": 3
+   },
+   {
+    "quote": "Like most LLM's today, Grok was pre-trained by xAI on a variety of data from publicly available sources and data sets reviewed and curated by AI Tutors who are human reviewers. For further information, visit the",
+    "url": "https://help.x.com/en/using-x/about-grok",
+    "pass": 3
+   },
+   {
+    "quote": "How does Grok use data?",
+    "url": "https://help.x.com/en/using-x/about-grok",
+    "pass": 3
+   },
+   {
+    "quote": "In responding to user queries via text or voice input, Grok has a unique feature that allows it to decide whether or not to search",
+    "url": "https://help.x.com/en/using-x/about-grok",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "The Use of AI on LinkedIn: Current Features and Future Prospects Sep 4, 2024 · AI is playing an increasingly significant role on LinkedIn, enhancing the platform's capabilities and providing users with valuable tools for networking, job searching, and professional development.",
+    "url": "https://www.linkedin.com/pulse/use-ai-linkedin-current-features-future-prospects-tony-k-silver-wyl0f",
+    "pass": 3
+   },
+   {
+    "quote": "AI at Work - pulse.linkedin.com AI is shaping the world of work, creating a demand for new jobs and skills. Get the latest real-time trends we see in LinkedIn data around how professionals and companies are adapting to AI at work.",
+    "url": "https://pulse.linkedin.com/research-and-trends/publications/ai-skills-resources",
+    "pass": 3
+   },
+   {
+    "quote": "New LinkedIn Research Finds Women Account for Just 26% of AI ... Aug 18, 2026 · New LinkedIn research examines both the rapid rise of AI jobs and the barriers that prevent those opportunities from reaching everyone equally. The findings suggest that while AI is becoming an increasingly important source of career growth and economic opportunity, significant representation gaps remain across the AI ",
+    "url": "https://news.linkedin.com/2026/new-linkedin-research-finds-women-account-for-just-26-percent-of-ai-hires-as-ai-jobs-surge",
+    "pass": 3
+   },
+   {
+    "quote": "How LinkedIn is Continuing to Tackle AI Slop Sep 15, 2026 · Within the first two weeks of launching the \"Seems like AI slop\" feedback option, more than one million LinkedIn members have used it to help us improve content quality. Recent efforts have already helped reduce views of content classified as AI slop by 40%. These results reinforce our commitment to keeping LinkedIn a place for real peopl",
+    "url": "https://news.linkedin.com/2026/how-linkedin-is-tackling-ai-slop",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・本文）": [
+   {
+    "quote": "1.7% YoY | ▲ 0.5% MoM*",
+    "url": "https://pulse.linkedin.com/research-and-trends/publications/ai-skills-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Workforce reports & insights",
+    "url": "https://pulse.linkedin.com/research-and-trends/publications/ai-skills-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Our regular report on hiring and skills",
+    "url": "https://pulse.linkedin.com/research-and-trends/publications/ai-skills-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Research on AI, skills, economic opportunity and more",
+    "url": "https://pulse.linkedin.com/research-and-trends/publications/ai-skills-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Analysis and commentary from our economists",
+    "url": "https://pulse.linkedin.com/research-and-trends/publications/ai-skills-resources",
+    "pass": 3
+   },
+   {
+    "quote": "Prepare for the workplace of tomorrow, today.",
+    "url": "https://pulse.linkedin.com/research-and-trends/publications/ai-skills-resources",
+    "pass": 3
+   },
+   {
+    "quote": "See our latest report",
+    "url": "https://pulse.linkedin.com/research-and-trends/publications/ai-skills-resources",
+    "pass": 3
+   },
+   {
+    "quote": "AI is shaping the world of work, creating a demand for new jobs and skills.",
+    "url": "https://pulse.linkedin.com/research-and-trends/publications/ai-skills-resources",
+    "pass": 3
+   },
+   {
+    "quote": "New LinkedIn Research Finds Women Account for Just 26% of AI Hires as AI Jobs Surge",
+    "url": "https://news.linkedin.com/2026/new-linkedin-research-finds-women-account-for-just-26-percent-of-ai-hires-as-ai-jobs-surge",
+    "pass": 3
+   },
+   {
+    "quote": "Published on Aug 18, 2026",
+    "url": "https://news.linkedin.com/2026/new-linkedin-research-finds-women-account-for-just-26-percent-of-ai-hires-as-ai-jobs-surge",
+    "pass": 3
+   },
+   {
+    "quote": "LinkedIn Corporate Communications",
+    "url": "https://news.linkedin.com/2026/new-linkedin-research-finds-women-account-for-just-26-percent-of-ai-hires-as-ai-jobs-surge",
+    "pass": 3
+   },
+   {
+    "quote": "AI is creating some of the fastest-growing and highest-paying opportunities in today's labor market. In the U.S., AI job postings have roughly doubled since 2023, and the typical posting lists about $177,000 in compensation, compared with $80,000 for a non-AI role.",
+    "url": "https://news.linkedin.com/2026/new-linkedin-research-finds-women-account-for-just-26-percent-of-ai-hires-as-ai-jobs-surge",
+    "pass": 3
+   },
+   {
+    "quote": "But women are far less likely to be hired into these opportunities. They accounted for just 26% of U.S. AI hires in 2025, compared with 50% of hires into non-AI occupations. The gap grows at the top: across 27 countries, women hold only 13% of C-suite AI leadership roles at AI companies.",
+    "url": "https://news.linkedin.com/2026/new-linkedin-research-finds-women-account-for-just-26-percent-of-ai-hires-as-ai-jobs-surge",
+    "pass": 3
+   },
+   {
+    "quote": "New LinkedIn research examines both the rapid rise of AI jobs and the barriers that prevent those opportunities from reaching everyone equally. The findings suggest that while AI is becoming an increasingly important source of career growth and economic opportunity, women aren't being afforded these opportunities.",
+    "url": "https://news.linkedin.com/2026/new-linkedin-research-finds-women-account-for-just-26-percent-of-ai-hires-as-ai-jobs-surge",
+    "pass": 3
+   },
+   {
+    "quote": "Access to AI Opportunity is Uneven",
+    "url": "https://news.linkedin.com/2026/new-linkedin-research-finds-women-account-for-just-26-percent-of-ai-hires-as-ai-jobs-surge",
+    "pass": 3
+   },
+   {
+    "quote": "How LinkedIn is Continuing to Tackle AI Slop",
+    "url": "https://news.linkedin.com/2026/how-linkedin-is-tackling-ai-slop",
+    "pass": 3
+   },
+   {
+    "quote": "Published on Sep 15, 2026",
+    "url": "https://news.linkedin.com/2026/how-linkedin-is-tackling-ai-slop",
+    "pass": 3
+   },
+   {
+    "quote": "LinkedIn Corporate Communications",
+    "url": "https://news.linkedin.com/2026/how-linkedin-is-tackling-ai-slop",
+    "pass": 3
+   },
+   {
+    "quote": "Less Generic Content Seen on LinkedIn:",
+    "url": "https://news.linkedin.com/2026/how-linkedin-is-tackling-ai-slop",
+    "pass": 3
+   },
+   {
+    "quote": "Recent efforts have already helped reduce views of content classified as AI slop by 40%,",
+    "url": "https://news.linkedin.com/2026/how-linkedin-is-tackling-ai-slop",
+    "pass": 3
+   },
+   {
+    "quote": "People Are Using the “Seems Like AI Slop” Button:",
+    "url": "https://news.linkedin.com/2026/how-linkedin-is-tackling-ai-slop",
+    "pass": 3
+   },
+   {
+    "quote": "More than 1 million members have used the new “Seems Like AI Slop” button since we rolled it out in August.",
+    "url": "https://news.linkedin.com/2026/how-linkedin-is-tackling-ai-slop",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Meta AI - FacebookFacebookArtificial Intelligence | Tech at MetaTech at Meta: AI, AR/VR, Connectivity, Innovation - Tech at MetaAI StudioMeta ResearchMeta AI Tools for Businesses Marketing on Social Media 2 days ago · Meta AI meets @MetaVR Glasses 🤝 Use your voice alongside eyes and hand gestures to navigate, ask questions and keep moving through the experience. #MetaConnect The latest from Meta G",
+    "url": "https://www.facebook.com/metaai/",
+    "pass": 3
+   },
+   {
+    "quote": "Meta Research Meta AI We’re advancing the state-of-the-art in Generative AI, Computer Vision, NLP, Infrastructure and other areas of AI.",
+    "url": "https://research.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Meta AI Tools for Businesses Marketing on Social Media Get started using artificial intelligence solutions for businesses advertising and marketing on Facebook, Instagram, WhatsApp, Messenger and more.",
+    "url": "https://business.facebook.com/business/ai/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・本文）": [
+   {
+    "quote": "Giving people the power to build community through research and innovation",
+    "url": "https://research.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our diverse team of scientists and engineers are tackling the world's most complex technology challenges.",
+    "url": "https://research.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Featured Publications",
+    "url": "https://research.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "LLaMA: Open and Efficient Foundation Language Models",
+    "url": "https://research.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timothée Lacroix, Baptiste Rozière, Naman Goyal, Eric Hambro, Faisal Azhar, Aurelien Rodriguez, Armand Joulin, Guillaume Lample",
+    "url": "https://research.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Presto: SQL on Everything",
+    "url": "https://research.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Raghav Sethi, Martin Traverso, Dain Sundstrom, David Phillips, Wenlei Xie, Yutian James Sun, Nezih Yigitbasi, Haozhun Jin, Eric Hwang, Nileema Shingte, Christopher Berner",
+    "url": "https://research.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "BOTORCH: A Framework for Efficient Monte-Carlo Bayesian Optimization",
+    "url": "https://research.facebook.com/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://grokipedia.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grokipedia.com/page/Grokipedia",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://aia.co.jp/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aicoltd.net/archives/company/320",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-hd.net/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qed-inc.co.jp/ai/ai-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ai-souken.com/article/ai-business-future",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crex-data.com/industry/media-it/ai",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reuters.com/jp/economy/RGYJBVEBJFLSZBRBZ23FC5MNVY-2026-09-16/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bloomberg.com/jp/news/articles/2026-10-31/TNRHNPKK3NY800",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://aitip.jp/ai-business-cases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eques.co.jp/column/ai-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jinrai.co.jp/blog/2026/03/19/ai-dounyuu-jirei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morphoinc.com/company/customer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.al-j.co.jp/company/clients",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aem.co.jp/company/client/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://money.note.com/rankings/AI/market_cap_desc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://biz.note.com/n/n726058efd717?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.note.com/n/n07aac40f6ada",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_do0419/n/n1de25266d309",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/aidotcom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://help.x.com/en/using-x/about-grok",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/use-ai-linkedin-current-features-future-prospects-tony-k-silver-wyl0f",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pulse.linkedin.com/research-and-trends/publications/ai-skills-resources",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.linkedin.com/2026/new-linkedin-research-finds-women-account-for-just-26-percent-of-ai-hires-as-ai-jobs-surge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.linkedin.com/2026/how-linkedin-is-tackling-ai-slop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/metaai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://research.facebook.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://business.facebook.com/business/ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ai_ceo_note",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ishida_chatgpt/article/2066323646180954330",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "AI",
+   "results": [
+    "https://ja.wikipedia.org/wiki/AI",
+    "https://grokipedia.com/page/Artificial_intelligence"
+   ]
+  },
+  {
+   "query": "AI 会社概要 資本金 設立",
+   "results": [
+    "https://aia.co.jp/about",
+    "https://aicoltd.net/archives/company/320",
+    "https://ai-hd.net/company/outline/",
+    "https://tsukuru-ai.co.jp/corp/company",
+    "https://compalyze.co.jp/company/6010401175698",
+    "https://compalyze.co.jp/company/9010401182948",
+    "https://note.com/oi_office/n/n7f9f2f77293e"
+   ]
+  },
+  {
+   "query": "AI 事業内容 売上",
+   "results": [
+    "https://qed-inc.co.jp/ai/ai-companies/",
+    "https://www.ai-souken.com/article/ai-business-future",
+    "https://www.crex-data.com/industry/media-it/ai",
+    "https://smallppt.com/ja/blog/basics/ai-company-ranking-japan-ja",
+    "https://corp.omake.co.jp/ai企業ランキング決定版！売上・時価総額・技術力/",
+    "https://ai-career-japan.jp/posts/ai企業ランキング日本2026/",
+    "https://gbase.ai/blog/ai-company-ranking-japan-2026/"
+   ]
+  },
+  {
+   "query": "AI 資金調達 株主",
+   "results": [
+    "https://www.reuters.com/jp/economy/RGYJBVEBJFLSZBRBZ23FC5MNVY-2026-09-16/",
+    "https://www.nikkei.com/article/DGXZQOUC078C00X01C25A1000000/",
+    "https://www.bloomberg.com/jp/news/articles/2026-10-31/TNRHNPKK3NY800",
+    "https://www.marubeni.com/jp/research/report/data/20260722_sagawa_AI.pdf",
+    "https://www.reuters.com/jp/markets/japan/IVJLVLBGABPY7EUQAR3JOSYYX4-2026-10-20/",
+    "https://note.com/kankikou/n/n6cb1ac4e8bd6",
+    "https://prtimes.jp/main/html/rd/p/000000001.000180050.html"
+   ]
+  },
+  {
+   "query": "AI 導入事例",
+   "results": [
+    "https://aitip.jp/ai-business-cases/",
+    "https://eques.co.jp/column/ai-case-studies/",
+    "https://jinrai.co.jp/blog/2026/03/19/ai-dounyuu-jirei/",
+    "https://ai-kenkyujo.com/artificial-intelligence/ai-seizougyou/",
+    "https://noimosai.com/ja/blog/【2026年最新】業種別ai導入事例まとめ｜企業の活用",
+    "https://www.salesforce.com/jp/blog/jp-ai-casestudy/",
+    "https://craftai.jp/ai-use-cases/"
+   ]
+  },
+  {
+   "query": "AI 主要取引先",
+   "results": [
+    "https://www.morphoinc.com/company/customer",
+    "https://www.al-j.co.jp/company/clients",
+    "https://www.aem.co.jp/company/client/",
+    "https://www.iim.co.jp/userlist",
+    "https://www.onamae.com/business/article/298814/",
+    "https://labmemo.com/fintech-complete-guide-changes-ai-finance-2026/",
+    "https://ai-llm.jp/ai-seo/ai-market-future/ai-42-global-ai-company-list-2026/"
+   ]
+  },
+  {
+   "query": "site:note.com AI",
+   "results": [
+    "https://money.note.com/rankings/AI/market_cap_desc",
+    "https://biz.note.com/n/n726058efd717?hl=en",
+    "https://biz.note.com/n/n07aac40f6ada",
+    "https://note.com/ai_do0419/n/n1de25266d309",
+    "https://note.com/matcha_ai/n/nc3694dd65101?hl=en",
+    "https://tales.note.com/write_takumifuji/board/threads/t7wtmrfjmfufn",
+    "https://tales.note.com/ai_neko_namake/wy2a0licc43vw"
+   ]
+  },
+  {
+   "query": "site:x.com AI",
+   "results": [
+    "https://x.com/aidotcom",
+    "https://about.x.com/en",
+    "https://blog.x.com/",
+    "https://help.x.com/en/using-x/about-grok",
+    "https://x.com/i/trending/2117330689586839573",
+    "https://developer.x.com/exhibit/xagent",
+    "https://developer.x.com/exhibit/postpane"
+   ]
+  },
+  {
+   "query": "site:linkedin.com AI",
+   "results": [
+    "https://www.linkedin.com/pulse/use-ai-linkedin-current-features-future-prospects-tony-k-silver-wyl0f",
+    "https://pulse.linkedin.com/research-and-trends/publications/ai-skills-resources",
+    "https://news.linkedin.com/2026/new-linkedin-research-finds-women-account-for-just-26-percent-of-ai-hires-as-ai-jobs-surge",
+    "https://news.linkedin.com/2026/how-linkedin-is-tackling-ai-slop",
+    "https://in.linkedin.com/company/24-7-ai",
+    "https://business.linkedin.com/learn/resources/upskilling-and-reskilling/ai-skill-pathways",
+    "https://www.linkedin.com/pulse/turbulent-ai-era-here-choices-we-make-now-critical-bill-gates-kkmze",
+    "https://news.linkedin.com/2026/linkedin-data-shows-where-opportunity-is-emerging-as-work-changes"
+   ]
+  },
+  {
+   "query": "site:facebook.com AI",
+   "results": [
+    "https://www.facebook.com/metaai/",
+    "https://www.facebook.com/",
+    "https://research.facebook.com/",
+    "https://business.facebook.com/business/ai/",
+    "https://tech.facebook.com/ai/",
+    "https://tech.facebook.com/",
+    "https://aistudio.facebook.com/"
+   ]
+  },
+  {
+   "query": "AI note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://x.com/ai_ceo_note",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://note.com/claudeceo",
+    "https://note.com/ai_shachoshitsu/all",
+    "https://x.com/ai_ceo_note/status/2109252680086442127"
+   ]
+  },
+  {
+   "query": "AI X 投稿",
+   "results": [
+    "https://www.theaiventure.com/ai-tweet-generation-claude-guide/",
+    "https://digirise.ai/chaen-ai-lab/x/",
+    "https://x.com/ishida_chatgpt/article/2066323646180954330",
+    "https://contentai.jp/blog/x-twitter-growth-ai",
+    "https://xboost.now/notes/x-post-automation-tools-2026",
+    "https://ne2ss.org/ai-x-post-automation/",
+    "https://uravation.com/media/x-auto-post-ai-guide-2026/"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部30頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部30頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部30頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部30頁・検索12回）",
+  "代表者": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部30頁・検索12回）",
+  "主要取引先": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}
