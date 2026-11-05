@@ -46,7 +46,7 @@ def evidence(page: dict, cats: dict[str, list[str]], pass_no: int, per_cat: int 
         for ln in lines:
             if cat == "沿革" and HISTORY_RE.search(ln):
                 hits.append(ln)
-            elif any(k.lower() in ln.lower() for k in kws):
+            elif any(str(k).lower() in ln.lower() for k in kws):
                 hits.append(ln)
         seen = set()
         for h in hits:

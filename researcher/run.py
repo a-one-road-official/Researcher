@@ -113,7 +113,7 @@ def pick_links(page: dict, kws: list[str], domain: str, limit: int) -> tuple[lis
         if urlparse(url).netloc.split(":")[0].removeprefix("www.") != domain:
             continue
         hay = (text + " " + url).lower()
-        if any(k.lower() in hay for k in kws):
+        if any(str(k).lower() in hay for k in kws):
             if url.lower().split("?")[0].endswith(".pdf"):
                 files.append(url)
             elif url not in pages:
@@ -176,7 +176,7 @@ def research(c: dict, topic: dict) -> dict:
             if img_done >= lim.get("images", 12):
                 break
             hay = (alt + " " + src).lower()
-            if any(k.lower() in hay for k in img_kws):
+            if any(str(k).lower() in hay for k in img_kws):
                 take(fetch.fetch(src), 2); img_done += 1
     # pass 3: outside sources, for every field / category still empty (and always for statements)
     names = variants.search_variants(c["name"], c["aliases"], limit=3)
