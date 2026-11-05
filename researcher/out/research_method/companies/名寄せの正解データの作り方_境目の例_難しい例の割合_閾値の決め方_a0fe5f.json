@@ -1,0 +1,986 @@
+{
+ "name": "名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方）",
+ "en": "entity matching benchmark corner cases threshold gold standard",
+ "aliases": [
+  "名寄せ 正解データ 評価 閾値",
+  "企業名 名寄せ 精度 評価 難しい例",
+  "entity matching corner cases gold standard"
+ ],
+ "context": "同一性",
+ "kind": "market",
+ "researched_at": "2026-11-05T22:56:47.894576+00:00",
+ "evidence": {
+  "実例": [
+   {
+    "quote": "figure shows the ground truth matches that Examplerun-1 found",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "and Examplerun-2 did not find.",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "detect when a pair of records is a duplicate. An example rule in the",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "other hand, are trained by domain experts who label example pairs",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "To find the best matching solution for a specific use case and to help",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "having a high relevance for common use cases, such as fine-tuning",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "industry use cases with datasets lacking a ground truth.",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "algorithm specific to the use case can be applied [20, 31].",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "about matching solutions in Section 4. Finally, we showcase Snow-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "tuality, sparsity, development set size, and corner cases [49]. Such",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ration dashboard to analyze matching results, for example the influ-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "its use-cases are rather limited, as it also does not allow general",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "called corner cases [49] to push matching solutions to their limits",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "be compatible with the objectives of the evaluation. For example,",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the real-world scenario as defined by the use case (e.g., matching",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "so that they can estimate the performance of different matching",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the performance estimated in this way is only meaningful if both",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "dataset is unknown, these numbers have to be estimated. Heise",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "metrics and evaluation strategies that try to estimate matching",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Chaudhuri et al. [7] can estimate the quality of the whole match-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "viations from the majority votes can be used to estimate the",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the ability to aggregate metrics. For example, to estimate costs, the",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "formation on how to evaluate the performance. To answer the ques-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the closure of such a result set could easily be created, this step",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "consist of multiple steps [44]. Measuring the performance between",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "these steps, as supported by Frost, can provide useful insights for",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "typically consists of the following steps:",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "duplicates [9, 18]. Typically, this step produces a final similarity",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "heterogeneity of datasets are a crucial step towards finding repre-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "framework [13] and provides 46 datasets, 20 matching solutions",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Some data matching execution frameworks also work as (par-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "frameworks or do not use a framework at all. A newer approach to",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "et al. developed a method for this estimation [33].",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "provides a framework for aggregating soft KPIs and quality metrics",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "To achieve this, Snowman optimizes every step of the evaluation",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "and Snowman a significant step in the direction of a standardized",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ing Record Linkage Methods. Technical Report wp-grlc-2012-01. German Record",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "with traditional profiling metrics and three new metrics for mea-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "solely on profiling benchmark datasets and grouped 21 benchmarks",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "according to five profiling metrics, namely schema complexity, tex-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "profiling metrics allow for better comparability of quality metrics",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "sidered. Moreover, profiling metrics that measure the difficulty or",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Frost supports a wide range of profiling metrics for measuring",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "dataset’s difficulty together with additional profiling dimensions.",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "real-world matching task. A suitability score based on profiling",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "[49] Anna Primpeli and Christian Bizer. 2020. Profiling Entity Matching Benchmark",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "http://ceur-ws.org/Vol-1486/paper_43.pdf",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "partition. While this technique is unbiased, it may also only",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1. This technique has the advantage of unbiasedly representing",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "occurrences within an attribute do not bias the𝑛𝑢𝑙𝑙𝑅𝑎𝑡𝑖𝑜 . Calculat-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "[2] Tobias Bachteler and Jörg Reiher. 2012.TDGen: A Test Data Generator for Evaluat-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "[58] Tobias Vogel, Arvid Heise, Uwe Draisbach, Dustin Lange, and Felix Naumann.",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/atstream/n/na4971a88118f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/atstream/n/n4b6dd8a1e381",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/anomaly_inc/n/n6d00441f4ed8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/anomaly_inc/n/n15611efccadc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/atstream/n/n15ddcade7e85",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tt_biz/n/n2cc5e4bb5ec7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gati_suraimu/n/n1e02b198642e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/michibikugroup/n/n138dc00939ca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eatransform.net/nayose",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/hotate_2235/items/2cbdc79fc5f0cd53f87b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usonar.co.jp/blog/6065.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.bizboost.co.jp/what-is-data-management-for-btob-marketing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforce.com/jp/blog/jp-duplicate-data-integration/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ever-rise.co.jp/dx-blog/data-cleansing-name-identification/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.hubspot.jp/marketing/deduplication",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sales-marker.jp/report/entity-resolution-lead-data/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iridge.jp/blog/202507/39156/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usonar.co.jp/blog/5890.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saaske.com/blog/ma-sfa-crm/data-deduplication-saaske/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arxiv.org/html/2310.11244v4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ldbcouncil.org/post/elements-of-instance-matching-benchmarks-a-short-overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/416920087_Entity_Matching_using_Decision_Models",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://d-nb.info/1351217534/34",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://arxiv.org/abs/2301.09521",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0167811626000571",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方） site:note.com",
+   "results": [
+    "https://note.com/atstream/n/na4971a88118f",
+    "https://note.com/atstream/n/n4b6dd8a1e381",
+    "https://note.com/anomaly_inc/n/n6d00441f4ed8",
+    "https://note.com/anomaly_inc/n/n15611efccadc",
+    "https://note.com/atstream/n/n15ddcade7e85",
+    "https://note.com/tt_biz/n/n2cc5e4bb5ec7",
+    "https://note.com/corenica_lab/n/n2d05604bc208",
+    "https://note.com/gati_suraimu/n/n1e02b198642e",
+    "https://note.com/ai__worker/n/n2b9d6a13b0d8",
+    "https://note.com/anomaly_inc/n/n97a5977ecc26"
+   ]
+  },
+  {
+   "query": "名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方） note",
+   "results": [
+    "https://note.com/atstream/n/n15ddcade7e85",
+    "https://note.com/gati_suraimu/n/n1e02b198642e",
+    "https://note.com/atstream/n/na4971a88118f",
+    "https://note.com/michibikugroup/n/n138dc00939ca",
+    "https://note.com/atstream/n/n4b6dd8a1e381",
+    "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "https://eatransform.net/nayose",
+    "https://qiita.com/hotate_2235/items/2cbdc79fc5f0cd53f87b",
+    "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/"
+   ]
+  },
+  {
+   "query": "名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方） やり方",
+   "results": [
+    "https://usonar.co.jp/blog/6065.html",
+    "https://blog.bizboost.co.jp/what-is-data-management-for-btob-marketing",
+    "https://www.salesforce.com/jp/blog/jp-duplicate-data-integration/",
+    "https://jp.sansan.com/media/aggregation-of-names/",
+    "https://www.ever-rise.co.jp/dx-blog/data-cleansing-name-identification/",
+    "https://blog.hubspot.jp/marketing/deduplication",
+    "https://sales-marker.jp/report/entity-resolution-lead-data/",
+    "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "https://note.com/atstream/n/n15ddcade7e85",
+    "https://data-viz-lab.com/data-matching-and-data-cleansing"
+   ]
+  },
+  {
+   "query": "名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方） 事例",
+   "results": [
+    "https://usonar.co.jp/blog/6065.html",
+    "https://blog.bizboost.co.jp/what-is-data-management-for-btob-marketing",
+    "https://www.ever-rise.co.jp/dx-blog/data-cleansing-name-identification/",
+    "https://note.com/atstream/n/n15ddcade7e85",
+    "https://sales-marker.jp/report/entity-resolution-lead-data/",
+    "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
+    "https://iridge.jp/blog/202507/39156/",
+    "https://usonar.co.jp/blog/5890.html",
+    "https://data-viz-lab.com/data-matching-and-data-cleansing"
+   ]
+  },
+  {
+   "query": "entity matching benchmark corner cases threshold gold standard",
+   "results": [
+    "https://arxiv.org/html/2310.11244v4",
+    "https://ldbcouncil.org/post/elements-of-instance-matching-benchmarks-a-short-overview/",
+    "https://www.researchgate.net/publication/416920087_Entity_Matching_using_Decision_Models",
+    "https://d-nb.info/1351217534/34",
+    "https://arxiv.org/abs/2301.09521",
+    "https://www.sciencedirect.com/science/article/pii/S0167811626000571",
+    "https://pubmed.ncbi.nlm.nih.gov/40514357/",
+    "https://www.thegoldensource.com/the-ins-and-outs-of-entity-matching/",
+    "https://medium.com/data-science/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c",
+    "https://deepwiki.com/ing-bank/EntityMatchingModel/8-threshold-decision-making"
+   ]
+  },
+  {
+   "query": "site:note.com 名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方）",
+   "results": [
+    "https://note.com/atstream/n/n4b6dd8a1e381",
+    "https://note.com/atstream/n/na4971a88118f",
+    "https://note.com/anomaly_inc/n/n6d00441f4ed8",
+    "https://note.com/anomaly_inc/n/n15611efccadc",
+    "https://note.com/tt_biz/n/n2cc5e4bb5ec7",
+    "https://note.com/atstream/n/n15ddcade7e85",
+    "https://note.com/corenica_lab/n/n2d05604bc208"
+   ]
+  },
+  {
+   "query": "site:x.com 名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方）",
+   "results": [
+    "https://x.com/hhayashiss/status/2068967239894843745",
+    "https://x.com/matsuura_AI_oji/status/2078055480996565233",
+    "https://x.com/ai_x_ow_jp_01/status/2107039843444560161",
+    "https://x.com/IRASUTO_WAKARU/status/2040172493231808543",
+    "https://x.com/takanishi12/status/2087433963375923620",
+    "https://x.com/ai_neko6/status/2108760609450021073",
+    "https://x.com/tanaka_ai_work/status/2058114300401820149"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方）",
+   "results": [
+    "https://www.linkedin.com/company/rosen",
+    "https://in.linkedin.com/company/cars24",
+    "https://www.linkedin.com/in/jen-cunningham",
+    "https://jp.linkedin.com/posts/datarobot-japan_datarobot-codespaceでllmを活用した名寄せ処理をやってみた-activity-7298587463697014784-zCK7",
+    "https://jp.linkedin.com/posts/shoki-kato-22b505113_生成aiを活用したテキスト分類名寄せのアイデアdatabricks-qiita-activity-7199016694948773888-osWV",
+    "https://jp.linkedin.com/posts/yutaro-endo_hubspotの名寄せと重複レコード統合マージで戻せないものと統合ルールの決め方-activity-7521394164933120000-uut9",
+    "https://jp.linkedin.com/learning/microsoft-azure-ai-fundamentals-ai-900-machine-learning-fundamentals/4217106"
+   ]
+  },
+  {
+   "query": "site:facebook.com 名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方）",
+   "results": [
+    "https://www.facebook.com/saaskecloud/photos/おすすめコンテンツのご紹介マーケティングブログデータクレンジングと名寄せデータの質を高める実践方法を公開しましたデータクレンジングの重要性とビジネスへの影響とは/996842299114322/",
+    "https://www.facebook.com/nttcoms/photos/こんにちはmdmマスターデータマネジメントエバンジェリストの水谷です先日オンラインで開催したmdmセミナー多くの方にご視聴いただき画面越しにも熱気が伝わるセミナ/1133322442150325/",
+    "https://www.facebook.com/sratohokuinc/posts/研究者の名前がデータベースに異なる形式で登録されることは学術研究や資金調達の際に混乱を招く可能性があります名寄せの課題を解決することで研究者の業績の正確な評価や/857495186385362/",
+    "https://www.facebook.com/hashup.inc/posts/住所表記の名寄せがいかに難しいかが最近話題に上っていましたが弊社サービス楽単らくだの教員名でも同じような問題がありました昨年入社のエンジニア棚橋が早速この問題を/707457648054847/",
+    "https://www.facebook.com/net.bizs/videos/セルフ名寄せサービスb-plusビープラスの紹介動画/2548219398804230/",
+    "https://www.facebook.com/WebMiningStudies/posts/2837173246302443/",
+    "https://www.facebook.com/masahiro.oyanagi/videos/件数の多さも驚きだが-本当に怖いのは名寄せだ９月２４日から１０月１６日までの２３日間国内の企業が公表した個人情報の流出恐れを含むは主要１２件だけで延べ１億件を超/1666935744848778/"
+   ]
+  },
+  {
+   "query": "名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方） note 社長",
+   "results": [
+    "https://note.com/atstream/n/n15ddcade7e85",
+    "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "https://note.com/atstream/n/na4971a88118f",
+    "https://note.com/atstream/n/n4b6dd8a1e381",
+    "https://eatransform.net/nayose",
+    "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "https://www.saaske.com/blog/ma-sfa-crm/data-deduplication-saaske/",
+    "https://data-viz-lab.com/name-collection"
+   ]
+  },
+  {
+   "query": "名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方） X 投稿",
+   "results": [
+    "https://usonar.co.jp/blog/6065.html",
+    "https://www.sapporotax.com/claude-cowork-keiri/",
+    "https://techplay.jp/community/mntsq/blog",
+    "https://hukuhuku.co.jp/glossary",
+    "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "https://eatransform.net/nayose",
+    "https://qiita.com/hotate_2235/items/2cbdc79fc5f0cd53f87b",
+    "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "https://www.saaske.com/blog/ma-sfa-crm/data-deduplication-saaske/",
+    "https://data.bfts.co.jp/blog/data-cleansing-nayose-basics"
+   ]
+  },
+  {
+   "query": "entity matching benchmark corner cases threshold gold standard site:linkedin.com",
+   "results": [
+    "https://uk.linkedin.com/in/petarvelickovic",
+    "https://www.linkedin.com/in/samuel-rodr%C3%ADguez-8904917b",
+    "https://www.linkedin.com/in/josephmcgonagle",
+    "https://rs.linkedin.com/in/vosatorp",
+    "https://www.linkedin.com/in/poorna-ravuri-0253b820b",
+    "https://dz.linkedin.com/in/aek-seif-el-islem-rahmani",
+    "https://www.linkedin.com/in/ahilya-mehta-b63712a0",
+    "https://fr.linkedin.com/in/hanh-thi-hong-tran-0b886212a",
+    "https://uk.linkedin.com/in/diogo-ribeiro-9094604a",
+    "https://uk.linkedin.com/in/wojtekbuczynski"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "実例": [
+   {
+    "quote": "figure shows the ground truth matches that Examplerun-1 found",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "and Examplerun-2 did not find.",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "detect when a pair of records is a duplicate. An example rule in the",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "other hand, are trained by domain experts who label example pairs",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "To find the best matching solution for a specific use case and to help",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "having a high relevance for common use cases, such as fine-tuning",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "industry use cases with datasets lacking a ground truth.",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "algorithm specific to the use case can be applied [20, 31].",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "about matching solutions in Section 4. Finally, we showcase Snow-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "tuality, sparsity, development set size, and corner cases [49]. Such",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ration dashboard to analyze matching results, for example the influ-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "its use-cases are rather limited, as it also does not allow general",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "called corner cases [49] to push matching solutions to their limits",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "be compatible with the objectives of the evaluation. For example,",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the real-world scenario as defined by the use case (e.g., matching",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "so that they can estimate the performance of different matching",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the performance estimated in this way is only meaningful if both",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "dataset is unknown, these numbers have to be estimated. Heise",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "metrics and evaluation strategies that try to estimate matching",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Chaudhuri et al. [7] can estimate the quality of the whole match-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "viations from the majority votes can be used to estimate the",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the ability to aggregate metrics. For example, to estimate costs, the",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "formation on how to evaluate the performance. To answer the ques-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the closure of such a result set could easily be created, this step",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "consist of multiple steps [44]. Measuring the performance between",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "these steps, as supported by Frost, can provide useful insights for",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "typically consists of the following steps:",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "duplicates [9, 18]. Typically, this step produces a final similarity",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "heterogeneity of datasets are a crucial step towards finding repre-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "framework [13] and provides 46 datasets, 20 matching solutions",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Some data matching execution frameworks also work as (par-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "frameworks or do not use a framework at all. A newer approach to",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "et al. developed a method for this estimation [33].",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "provides a framework for aggregating soft KPIs and quality metrics",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "To achieve this, Snowman optimizes every step of the evaluation",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "and Snowman a significant step in the direction of a standardized",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ing Record Linkage Methods. Technical Report wp-grlc-2012-01. German Record",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "with traditional profiling metrics and three new metrics for mea-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "solely on profiling benchmark datasets and grouped 21 benchmarks",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "according to five profiling metrics, namely schema complexity, tex-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "profiling metrics allow for better comparability of quality metrics",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "sidered. Moreover, profiling metrics that measure the difficulty or",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Frost supports a wide range of profiling metrics for measuring",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "dataset’s difficulty together with additional profiling dimensions.",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "real-world matching task. A suitability score based on profiling",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "[49] Anna Primpeli and Christian Bizer. 2020. Profiling Entity Matching Benchmark",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "http://ceur-ws.org/Vol-1486/paper_43.pdf",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "partition. While this technique is unbiased, it may also only",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1. This technique has the advantage of unbiasedly representing",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "occurrences within an attribute do not bias the𝑛𝑢𝑙𝑙𝑅𝑎𝑡𝑖𝑜 . Calculat-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "[2] Tobias Bachteler and Jörg Reiher. 2012.TDGen: A Test Data Generator for Evaluat-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "[58] Tobias Vogel, Arvid Heise, Uwe Draisbach, Dustin Lange, and Felix Naumann.",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-05T22:56:47.894576+00:00"
+}

@@ -8,636 +8,8 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-05T20:41:52.675856+00:00",
+ "researched_at": "2026-11-05T23:02:47.571314+00:00",
  "evidence": {
-  "手順・やり方": [
-   {
-    "quote": "都度計算するのではなく、要素分解がすべて完了してからまとめて数値を当てはめるのが効率的なやり方です",
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ステップ4：妥当性の検証・結論の提示",
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "前のステップでの推定値は約70万トンでしたが、実際の日本の年間コーヒー消費量（約43万トン）と比較すると、大きなズレがあることがわかります",
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのような場面では、デザイン思考やSWOT分析など、別のフレームワークや思考法を取り入れることが必要です",
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事でご紹介した4つのステップを参考に、ぜひ日々のマーケティング活動にフェルミ推定を取り入れてみてください",
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アイデア創出から顧客検証・事業計画・事業化まで、進め方を学ぶ",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新規事業の進め方や実践事例を、専門家・実務家から学ぶ",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチのやり方｜6ステップと新規事業に使える記入例",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "やり方は、目的を決める、問いを絞る、情報を探す、根拠を確かめる、整理する、次の行動を決める、の6ステップです",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新規事業40フレームワーク実践集",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "デスクリサーチのやり方は6ステップ",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査で避けたい4つのミスと修正方法",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "以下では6つのステップを、飲食店向けの発注支援サービスを考える架空の例で説明します",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "全国の飲食チェーンと、特定地域の個人店では、公開情報の量も発注業務の進め方も異なります",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、資料名やURLを後から探し直すのではなく、情報を採用するときに一緒に保存するのがコツです",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これらは絞り込む方法であり、信頼性や網羅性を保証する機能ではありません",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "6ステップを確認する →",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "具体的に、今話題の「生成AIの個人向け有料プラン」の日本市場規模を、MPCフレームワークで推定してみよう",
-    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "❶ Step 1：M（Modeling）",
-    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "フェルミ推定とは？解き方や対策方法、よくある例題を紹介 | 就職活動支援サイトunistyle",
-    "url": "https://unistyleinc.com/techniques/1459",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "フェルミ推定とは？解き方や対策方法、よくある例題を紹介",
-    "url": "https://unistyleinc.com/techniques/1459",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【ケース面接完全攻略】解き方や評価基準、対策に役立つフレームワーク・例題・本を徹底解説",
-    "url": "https://unistyleinc.com/techniques/1459",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そこでイノベーション総研では、対話の前後で、課題の理解、想定顧客、提供価値のどれが変わったかを記録する進め方を勧めます",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここでは、企画書を共有する前に点検したい4つのミスと、修正方法を紹介します",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "具体的には、既存サービスを導入しない理由、取り組みを終了した企業の公式発表、別の方法で課題を解決している例も確認します",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "初めて取り組む方が迷いやすい用語の違い、費用、進め方をまとめます",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Q. 初心者は、先にフレームワークを選ぶべきですか？",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ケース面接の解き方と対策方法を徹底解説【外コン過去問付き】",
-    "url": "https://unistyleinc.com/techniques/1459",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ケース面接対策に役立つフレームワーク、おすすめ本、数値を徹底解説",
-    "url": "https://unistyleinc.com/techniques/1459",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "フェルミ推定を解く際には基本的に下記の5つのステップに沿って解いていくと良いでしょう",
-    "url": "https://unistyleinc.com/techniques/1459",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "前提条件を相手と共有したら、次に問題を解いていくアプローチ方法を決めていきます",
-    "url": "https://unistyleinc.com/techniques/1459",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アプローチ方法とは、問題を解いていくために立てる基本的な式のことです",
-    "url": "https://unistyleinc.com/techniques/1459",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1~4のステップで自ら設定してきた計算式や導き出した数値が現実の数値と、どの程度乖離しているのかを検証します",
-    "url": "https://unistyleinc.com/techniques/1459",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コンサルティングファームを受ける人は選考過程で必ずと言っていいほどこのようなフェルミ推定のステップが設けられているので、書籍を購入するなり対策をして臨みましょう",
-    "url": "https://unistyleinc.com/techniques/1459",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "unistyleでは過去出題されたフェルミ推定の次のステップである、ケース面接のお題を複数掲載しているので気になる方は是非参考にしてみてください",
-    "url": "https://unistyleinc.com/techniques/1459",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "面接の志望動機対策|15種類の質問ごとの答え方・回答例・コツを紹介！",
-    "url": "https://unistyleinc.com/techniques/1459",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "step1：成し遂げたいこと⇒step2：きっかけとなる経験⇒step3：企業選びの軸⇒step4：業界比較⇒step5：取り組みたい仕事⇒step6：同業比較",
-    "url": "https://unistyleinc.com/techniques/1459",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事でわかることインターンシップの全体像インターンシップとはインターンシップの準備▼目次クリックで展開本記事の構成インターンシップの全体像インターンシップとは企業がインターンシップを開催する目的・メリット就活生がインターンシップに参加する目的・メリットインターンシップの概要募集はいつから？季節ごとのインターンシップ開催時期インターンシップを探す前の準備インターンシップの探し方・選び方インターンシップのエントリー方法インターンシップの選考対策インターンシップ参加時の注意点インターンシップ参加後にやるべきことインターンシップのよくある質問まとめインターンシップの全体像インターンシップESの作り方・書き方インターンシップにおけるエントリーシート(ES)の作り方についてポイントを解説しています",
-    "url": "https://unistyleinc.com/techniques/1459",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "インターンシップ選考の志望動機インターンシップにおいて企業が求める志望動機を作成する方法を解説しています",
-    "url": "https://unistyleinc.com/techniques/1459",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "就活面接練習|一人練習やおすすめサービスなど練習方法14選を徹底解説・頻出質問10選付き",
-    "url": "https://unistyleinc.com/techniques/1459",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一人でできる効果的な練習方法、友達や大学、エージェントとの練習のコツ、便利なAIアプリやサービスを徹底比較",
-    "url": "https://unistyleinc.com/techniques/1459",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「特技の選び方・特技を答える際のコツ・回答例とNG回答例・特技がない人の対処法」なども解説しています",
-    "url": "https://unistyleinc.com/techniques/1459",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "市場規模算出の目的と、思考のフレームワークである「TAM / SAM / SOM」について解説",
-    "url": "https://note.com/bon0404/n/n3912f28693b8",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "「3つの手順」と、数字の解像度を上げるための「泥臭いテクニック」",
-    "url": "https://note.com/bon0404/n/n3912f28693b8",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "実践編：市場規模を算出する「3つのステップ」",
-    "url": "https://note.com/bon0404/n/n3912f28693b8",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Step 1: すでに存在するレポートから調べる",
-    "url": "https://note.com/bon0404/n/n3912f28693b8",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Step 2：算出ロジックを組み立てる（4つのアプローチ）",
-    "url": "https://note.com/bon0404/n/n3912f28693b8",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Step 3：データの精度を高めるテクニック",
-    "url": "https://note.com/bon0404/n/n3912f28693b8",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "ではここから、私がいつも市場規模を算出するために行っていることをステップごとにご紹介します",
-    "url": "https://note.com/bon0404/n/n3912f28693b8",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "ここで私が意識しているのは、1つの計算方法に頼らず、複数の手法で計算して妥当性を検証する",
-    "url": "https://note.com/bon0404/n/n3912f28693b8",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "顧客1人、あるいは店舗1つあたりの経済活動を特定し、それを積み上げる方法",
-    "url": "https://note.com/bon0404/n/n3912f28693b8",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "「リープフロッグ（技術的飛躍）」型のビジネスに最適",
-    "url": "https://note.com/bon0404/n/n3912f28693b8",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "ここまで、技術的な手法やフレームワークについてお話ししてきましたが、改めて最後に強調したいのは",
-    "url": "https://note.com/bon0404/n/n3912f28693b8",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "『日本とアフリカ諸国を繋ぎ、社会課題解決型ビジネスを共創することで、アフリカの持続的成長に貢献する』をビジョンに日本企業のアフリカへのビジネス進出や現地での事業開発をサポートする日系コンサルティング会社です",
-    "url": "https://note.com/bon0404/n/n3912f28693b8",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル｜ k_bird｜Branding Strategist｜ASAKO",
-    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル",
-    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "正しい手順とフレームワークさえ踏めば、誰にでも習得可能な「論理的思考の技術」であり、再現性のある「方法論」だ",
-    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "よって今回は、ビジネスにおける思考ツールである「フェルミ推定のやり方」について、その本質から実務への応用手順までを徹底的に解説しよう",
-    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "推定を科学する「MPCフレームワーク」完全版――初心者からプロまで使える3ステップ",
-    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "M-P-Cフレームワーク",
-    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "この3ステップを順に踏むことで、どんな難問も解体可能になる",
-    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "、論理の設計図を作る最も重要なステップだ",
-    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "数式の設計図（モデル）が完成したら、次はその各変数に「具体的な数値」を割り当てるステップだ",
-    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "フェルミ推定「5つの解体モデル」詳説――あらゆる市場規模を因数分解する手順",
-    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "MPCフレームワークの「M（モデリング）」を成功させるには、目的に合った「型」の選択が不可欠だ",
-    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "「誰が欲しがっているか」という消費者の総量から攻める、BtoCビジネスの基本型だ",
-    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "フレームワークという「型」があっても、代入する数字という「弾丸」がなければ戦えない",
-    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "時間の使い方",
-    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "実務への応用：生成AIの市場規模予測――MPCフレームワークの全プロセス",
-    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "セルフ型リサーチ",
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "特化型データ分析",
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "セルフ型アンケートツール「QiQUMO」",
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "海外向け セルフ型アンケートツール「Global QiQUMO」",
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "セルフ型アンケートツール QiQUMO",
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "アンケート調査の種類・方法・費用相場",
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "解き方の4ステップと注意点",
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "前提条件の設定からMECEな要素分解、仮定数値の計算、結果の検証という手順とともに、得られる結果は特定の範囲にとどまる概算であることや数値化できない課題には適用できない留意点が分かります",
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "市場規模の算出方法やマーケティングへの活用法を知りたい方は「",
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "市場規模とは？算出方法とマーケティングに役立つポイントを解説",
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "今回は、フェルミ推定の基本的な概念から実践的な解き方のステップ、マーケターにとってのメリット、そして活用時の注意点まで、わかりやすく解説します",
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "フェルミ推定の解き方を、「日本の年間コーヒー消費量」を例に、4つのステップで解説します",
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "ステップ1：前提条件の確認（問題の明確化）",
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "ステップ2：要素分解をして公式を作成（因数分解）",
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "ステップ3：公式に数字を入力（計算）",
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "デスクトップリサーチ（デスクリサーチ）のやり方｜調査設計テンプレ・検索コマンド集",
-    "url": "https://consul-data-bank.com/insight/5868/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "デスクリサーチ（デスクトップリサーチ）のやり方｜調査設計テンプレ・検索コマンド集・情報ソース9選【2026年版】",
-    "url": "https://consul-data-bank.com/insight/5868/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "デスクリサーチの速さと質は、検索やAIの使い方の上手さではなく",
-    "url": "https://consul-data-bank.com/insight/5868/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "本記事では、その手順を実務のまま公開します",
-    "url": "https://consul-data-bank.com/insight/5868/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "調べる前に何を決めるべきか——デスクリサーチの基本手順4ステップ",
-    "url": "https://consul-data-bank.com/insight/5868/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "コンサルが実際に使う国内・海外の情報ソース9選と、生成AIの安全な使い方",
-    "url": "https://consul-data-bank.com/insight/5868/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "デスクリサーチの基本手順4ステップ",
-    "url": "https://consul-data-bank.com/insight/5868/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "「目的と仮説を決める → 調べる項目を設計する → 検索する → 情報を分類・評価する」の4ステップ",
-    "url": "https://consul-data-bank.com/insight/5868/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "このうち時間をかけるべきは前半の2ステップです",
-    "url": "https://consul-data-bank.com/insight/5868/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "STEP 1 調査目的の把握と仮説構築",
-    "url": "https://consul-data-bank.com/insight/5868/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "STEP 2 調査項目のリストアップ",
-    "url": "https://consul-data-bank.com/insight/5868/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "PEST・3Cなどのフレームワークで調査の設計図を作る",
-    "url": "https://consul-data-bank.com/insight/5868/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "STEP 3 キーワードの抽出と検索",
-    "url": "https://consul-data-bank.com/insight/5868/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "STEP 4 情報ソースの一次・二次の分類と評価",
-    "url": "https://consul-data-bank.com/insight/5868/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "ステップ1：調査目的の定義と仮説構築",
-    "url": "https://consul-data-bank.com/insight/5868/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "デスクリサーチのやり方｜6ステップと新規事業に使える記入例｜ナレッジ｜イノベーション総合研究所",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "TeamPro Leaders｜判断の型・実践・1on1伴走で育てる",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "新規事業の進め方、事業テーマの探し方、企業の最新動向を紹介",
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsDesk Research: What It Is, Methods & When to Use It | PRSDesk Research: Step-by-Step Guide & Tips | UXAtlasScope and financial impact of unpublished data and unused ...Desk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 ",
-    "url": "https://www.meltwater.com/en/blog/desk-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsScope and financial impact of unpublished data and unused ...Desk Research: Step-by-Step Guide & Tips | UXAtlasDesk Research: What It Is, Methods & When to Use It | PRSDesk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 ",
-    "url": "https://www.meltwater.com/en/blog/desk-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "\"EV charging\" market size filetype:pdf site:.org",
@@ -1094,6 +466,20 @@
     "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
     "pass": 3,
     "first_seen": "2026-11-04"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsDesk Research: What It Is, Methods & When to Use It | PRSDesk Research: Step-by-Step Guide & Tips | UXAtlasScope and financial impact of unpublished data and unused ...Desk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 ",
+    "url": "https://www.meltwater.com/en/blog/desk-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsScope and financial impact of unpublished data and unused ...Desk Research: Step-by-Step Guide & Tips | UXAtlasDesk Research: What It Is, Methods & When to Use It | PRSDesk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 ",
+    "url": "https://www.meltwater.com/en/blog/desk-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
    }
   ],
   "突き合わせ・推定": [
@@ -1952,6 +1338,632 @@
     "first_seen": "2026-11-04"
    }
   ],
+  "手順・やり方": [
+   {
+    "quote": "都度計算するのではなく、要素分解がすべて完了してからまとめて数値を当てはめるのが効率的なやり方です",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ステップ4：妥当性の検証・結論の提示",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前のステップでの推定値は約70万トンでしたが、実際の日本の年間コーヒー消費量（約43万トン）と比較すると、大きなズレがあることがわかります",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのような場面では、デザイン思考やSWOT分析など、別のフレームワークや思考法を取り入れることが必要です",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事でご紹介した4つのステップを参考に、ぜひ日々のマーケティング活動にフェルミ推定を取り入れてみてください",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アイデア創出から顧客検証・事業計画・事業化まで、進め方を学ぶ",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新規事業の進め方や実践事例を、専門家・実務家から学ぶ",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチのやり方｜6ステップと新規事業に使える記入例",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "やり方は、目的を決める、問いを絞る、情報を探す、根拠を確かめる、整理する、次の行動を決める、の6ステップです",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新規事業40フレームワーク実践集",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチのやり方は6ステップ",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査で避けたい4つのミスと修正方法",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "以下では6つのステップを、飲食店向けの発注支援サービスを考える架空の例で説明します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "全国の飲食チェーンと、特定地域の個人店では、公開情報の量も発注業務の進め方も異なります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、資料名やURLを後から探し直すのではなく、情報を採用するときに一緒に保存するのがコツです",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これらは絞り込む方法であり、信頼性や網羅性を保証する機能ではありません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "6ステップを確認する →",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "具体的に、今話題の「生成AIの個人向け有料プラン」の日本市場規模を、MPCフレームワークで推定してみよう",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "❶ Step 1：M（Modeling）",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "フェルミ推定とは？解き方や対策方法、よくある例題を紹介 | 就職活動支援サイトunistyle",
+    "url": "https://unistyleinc.com/techniques/1459",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "フェルミ推定とは？解き方や対策方法、よくある例題を紹介",
+    "url": "https://unistyleinc.com/techniques/1459",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【ケース面接完全攻略】解き方や評価基準、対策に役立つフレームワーク・例題・本を徹底解説",
+    "url": "https://unistyleinc.com/techniques/1459",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そこでイノベーション総研では、対話の前後で、課題の理解、想定顧客、提供価値のどれが変わったかを記録する進め方を勧めます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでは、企画書を共有する前に点検したい4つのミスと、修正方法を紹介します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "具体的には、既存サービスを導入しない理由、取り組みを終了した企業の公式発表、別の方法で課題を解決している例も確認します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "初めて取り組む方が迷いやすい用語の違い、費用、進め方をまとめます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Q. 初心者は、先にフレームワークを選ぶべきですか？",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ケース面接の解き方と対策方法を徹底解説【外コン過去問付き】",
+    "url": "https://unistyleinc.com/techniques/1459",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ケース面接対策に役立つフレームワーク、おすすめ本、数値を徹底解説",
+    "url": "https://unistyleinc.com/techniques/1459",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "フェルミ推定を解く際には基本的に下記の5つのステップに沿って解いていくと良いでしょう",
+    "url": "https://unistyleinc.com/techniques/1459",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前提条件を相手と共有したら、次に問題を解いていくアプローチ方法を決めていきます",
+    "url": "https://unistyleinc.com/techniques/1459",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アプローチ方法とは、問題を解いていくために立てる基本的な式のことです",
+    "url": "https://unistyleinc.com/techniques/1459",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1~4のステップで自ら設定してきた計算式や導き出した数値が現実の数値と、どの程度乖離しているのかを検証します",
+    "url": "https://unistyleinc.com/techniques/1459",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサルティングファームを受ける人は選考過程で必ずと言っていいほどこのようなフェルミ推定のステップが設けられているので、書籍を購入するなり対策をして臨みましょう",
+    "url": "https://unistyleinc.com/techniques/1459",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "unistyleでは過去出題されたフェルミ推定の次のステップである、ケース面接のお題を複数掲載しているので気になる方は是非参考にしてみてください",
+    "url": "https://unistyleinc.com/techniques/1459",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "面接の志望動機対策|15種類の質問ごとの答え方・回答例・コツを紹介！",
+    "url": "https://unistyleinc.com/techniques/1459",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "step1：成し遂げたいこと⇒step2：きっかけとなる経験⇒step3：企業選びの軸⇒step4：業界比較⇒step5：取り組みたい仕事⇒step6：同業比較",
+    "url": "https://unistyleinc.com/techniques/1459",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事でわかることインターンシップの全体像インターンシップとはインターンシップの準備▼目次クリックで展開本記事の構成インターンシップの全体像インターンシップとは企業がインターンシップを開催する目的・メリット就活生がインターンシップに参加する目的・メリットインターンシップの概要募集はいつから？季節ごとのインターンシップ開催時期インターンシップを探す前の準備インターンシップの探し方・選び方インターンシップのエントリー方法インターンシップの選考対策インターンシップ参加時の注意点インターンシップ参加後にやるべきことインターンシップのよくある質問まとめインターンシップの全体像インターンシップESの作り方・書き方インターンシップにおけるエントリーシート(ES)の作り方についてポイントを解説しています",
+    "url": "https://unistyleinc.com/techniques/1459",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "インターンシップ選考の志望動機インターンシップにおいて企業が求める志望動機を作成する方法を解説しています",
+    "url": "https://unistyleinc.com/techniques/1459",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "就活面接練習|一人練習やおすすめサービスなど練習方法14選を徹底解説・頻出質問10選付き",
+    "url": "https://unistyleinc.com/techniques/1459",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一人でできる効果的な練習方法、友達や大学、エージェントとの練習のコツ、便利なAIアプリやサービスを徹底比較",
+    "url": "https://unistyleinc.com/techniques/1459",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「特技の選び方・特技を答える際のコツ・回答例とNG回答例・特技がない人の対処法」なども解説しています",
+    "url": "https://unistyleinc.com/techniques/1459",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "評価される自己PRには「①結論ファースト②具体的なエピソード③入社後の貢献」の型があります",
+    "url": "https://unistyleinc.com/techniques/1459",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "丸紅(総合職)25卒インターン体験談レポートより引用丸紅の企業研究（ES・レポート・関連テクニック/コラム記事）はこちらからインターンシップ体験談レポート②PwCコンサルティング合同会社Strategy&ワークの前に基本的なロジカルシンキングやワークの進め方が説明されるため、コンサルタントとしての基礎的なスキルを学ぶことができた",
+    "url": "https://unistyleinc.com/techniques/1459",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場規模算出の目的と、思考のフレームワークである「TAM / SAM / SOM」について解説",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「3つの手順」と、数字の解像度を上げるための「泥臭いテクニック」",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "実践編：市場規模を算出する「3つのステップ」",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Step 1: すでに存在するレポートから調べる",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Step 2：算出ロジックを組み立てる（4つのアプローチ）",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Step 3：データの精度を高めるテクニック",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ではここから、私がいつも市場規模を算出するために行っていることをステップごとにご紹介します",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ここで私が意識しているのは、1つの計算方法に頼らず、複数の手法で計算して妥当性を検証する",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "顧客1人、あるいは店舗1つあたりの経済活動を特定し、それを積み上げる方法",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「リープフロッグ（技術的飛躍）」型のビジネスに最適",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ここまで、技術的な手法やフレームワークについてお話ししてきましたが、改めて最後に強調したいのは",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "『日本とアフリカ諸国を繋ぎ、社会課題解決型ビジネスを共創することで、アフリカの持続的成長に貢献する』をビジョンに日本企業のアフリカへのビジネス進出や現地での事業開発をサポートする日系コンサルティング会社です",
+    "url": "https://note.com/bon0404/n/n3912f28693b8",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル｜ k_bird｜Branding Strategist｜ASAKO",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定のやり方完全ガイド｜MPCフレームワークと5つの思考モデル",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "正しい手順とフレームワークさえ踏めば、誰にでも習得可能な「論理的思考の技術」であり、再現性のある「方法論」だ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "よって今回は、ビジネスにおける思考ツールである「フェルミ推定のやり方」について、その本質から実務への応用手順までを徹底的に解説しよう",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "推定を科学する「MPCフレームワーク」完全版――初心者からプロまで使える3ステップ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "M-P-Cフレームワーク",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この3ステップを順に踏むことで、どんな難問も解体可能になる",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "、論理の設計図を作る最も重要なステップだ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "数式の設計図（モデル）が完成したら、次はその各変数に「具体的な数値」を割り当てるステップだ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定「5つの解体モデル」詳説――あらゆる市場規模を因数分解する手順",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "MPCフレームワークの「M（モデリング）」を成功させるには、目的に合った「型」の選択が不可欠だ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「誰が欲しがっているか」という消費者の総量から攻める、BtoCビジネスの基本型だ",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フレームワークという「型」があっても、代入する数字という「弾丸」がなければ戦えない",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "時間の使い方",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "実務への応用：生成AIの市場規模予測――MPCフレームワークの全プロセス",
+    "url": "https://note.com/missiondrivencom/n/n9201e39a1296",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "セルフ型リサーチ",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特化型データ分析",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "セルフ型アンケートツール「QiQUMO」",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海外向け セルフ型アンケートツール「Global QiQUMO」",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "セルフ型アンケートツール QiQUMO",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アンケート調査の種類・方法・費用相場",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "解き方の4ステップと注意点",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "前提条件の設定からMECEな要素分解、仮定数値の計算、結果の検証という手順とともに、得られる結果は特定の範囲にとどまる概算であることや数値化できない課題には適用できない留意点が分かります",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場規模の算出方法やマーケティングへの活用法を知りたい方は「",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場規模とは？算出方法とマーケティングに役立つポイントを解説",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回は、フェルミ推定の基本的な概念から実践的な解き方のステップ、マーケターにとってのメリット、そして活用時の注意点まで、わかりやすく解説します",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フェルミ推定の解き方を、「日本の年間コーヒー消費量」を例に、4つのステップで解説します",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ステップ1：前提条件の確認（問題の明確化）",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ステップ2：要素分解をして公式を作成（因数分解）",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ステップ3：公式に数字を入力（計算）",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクトップリサーチ（デスクリサーチ）のやり方｜調査設計テンプレ・検索コマンド集",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチ（デスクトップリサーチ）のやり方｜調査設計テンプレ・検索コマンド集・情報ソース9選【2026年版】",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチの速さと質は、検索やAIの使い方の上手さではなく",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本記事では、その手順を実務のまま公開します",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "調べる前に何を決めるべきか——デスクリサーチの基本手順4ステップ",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "コンサルが実際に使う国内・海外の情報ソース9選と、生成AIの安全な使い方",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチの基本手順4ステップ",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「目的と仮説を決める → 調べる項目を設計する → 検索する → 情報を分類・評価する」の4ステップ",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このうち時間をかけるべきは前半の2ステップです",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "STEP 1 調査目的の把握と仮説構築",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "STEP 2 調査項目のリストアップ",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "PEST・3Cなどのフレームワークで調査の設計図を作る",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "STEP 3 キーワードの抽出と検索",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "STEP 4 情報ソースの一次・二次の分類と評価",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ステップ1：調査目的の定義と仮説構築",
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デスクリサーチのやり方｜6ステップと新規事業に使える記入例｜ナレッジ｜イノベーション総合研究所",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "TeamPro Leaders｜判断の型・実践・1on1伴走で育てる",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新規事業の進め方、事業テーマの探し方、企業の最新動向を紹介",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/desk-research/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
   "実例": [
    {
     "quote": "参入したい市場が決まっていると、成長予測や成功事例ばかりが目に入りがちです",
@@ -2371,12 +2383,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.intimatemerger.com/n/nd584a0f055b1?gs=c73703052d8b4786d98cc46fc5a133d1",
+    "url": "https://note.intimatemerger.com/n/nd584a0f055b1?gs=ddfc1042fded7850f9978a65479706b1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.intimatemerger.com/n/n3a013272d443?gs=4530d3efb85a7252ad4b81384374319b",
+    "url": "https://note.intimatemerger.com/n/n3a013272d443?gs=393d0b5436b46b77f3e54bb28688bbb6",
     "status": "ok",
     "method": "http"
    },
@@ -2391,7 +2403,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=cda60c31bc0e6f61dcd74606c4e421ff",
+    "url": "https://note.intimatemerger.com/n/n9012095e7eac?gs=13e1e343bda1599504d21764b4d643db",
     "status": "ok",
     "method": "http"
    },
@@ -2401,12 +2413,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/consulting_lab15/n/n6786a17f7eb2",
+    "url": "https://note.com/drneurosur/n/nd180496c06c3",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/drneurosur/n/nd180496c06c3",
+    "url": "https://note.com/consulting_lab15/n/n6786a17f7eb2",
     "status": "ok",
     "method": "http"
    },
@@ -2416,12 +2428,12 @@
     "method": "http"
    },
    {
-    "url": "https://consul-data-bank.com/insight/5868/",
+    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260925",
+    "url": "https://consul-data-bank.com/insight/5868/",
     "status": "ok",
     "method": "http"
    },
@@ -2472,11 +2484,6 @@
    },
    {
     "url": "https://gmo-research.ai/research-column/qualitative-survey",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://media.deskrex.ai/desk-research-automation-complete-2026/",
     "status": "ok",
     "method": "http"
    },
@@ -2533,12 +2540,12 @@
    "results": [
     "https://note.intimatemerger.com/n/n9012095e7eac",
     "https://note.com/ideation_/n/nab2fc14e5e47",
-    "https://note.com/consulting_lab15/n/n6786a17f7eb2",
     "https://note.com/drneurosur/n/nd180496c06c3",
+    "https://note.com/consulting_lab15/n/n6786a17f7eb2",
     "https://note.com/yutori_kun01/n/n09a6ac9fee80",
-    "https://consul-data-bank.com/insight/5868/",
     "https://www.cross-m.co.jp/column/marketing/mkc20260925",
     "https://note.kotora.jp/n/n0ec9d5ce6a6f",
+    "https://consul-data-bank.com/insight/5868/",
     "https://nano.globis.ac.jp/r/digital-glossary/article/312",
     "https://note.com/abiraunken/n/n153bb02e064f"
    ]
@@ -2569,8 +2576,7 @@
     "https://www.macromill.com/service/words/fermi-estimation/",
     "https://unistyleinc.com/techniques/1459",
     "https://www.youtube.com/watch?v=fe3EVSJ5pfw",
-    "https://gmo-research.ai/research-column/qualitative-survey",
-    "https://media.deskrex.ai/desk-research-automation-complete-2026/"
+    "https://gmo-research.ai/research-column/qualitative-survey"
    ]
   },
   {
@@ -2591,16 +2597,16 @@
   {
    "query": "site:note.com デスクリサーチで書かれていない数字を推定する方法",
    "results": [
-    "https://note.com/intimatemerger/n/n9012095e7eac",
     "https://note.com/intimatemerger/n/nd584a0f055b1",
     "https://note.com/304836/n/n13af8e7d1ebc",
     "https://note.com/diisuket/n/n7f2cfdfd775f",
-    "https://note.com/kakehi_masahide/n/ne6c2af33dffa",
-    "https://note.com/sendamasato/n/n2aa275f51bad",
     "https://note.com/intimatemerger/n/n3a013272d443",
-    "https://note.com/diisuket/n/n3015401e4406",
-    "https://note.com/majyp/n/n3a8c8cdae45c",
-    "https://note.com/miraikyoso/n/n71ef349a6d1c"
+    "https://note.com/bon0404/n/n3912f28693b8",
+    "https://note.com/diisuket/n/nc5f302c13f7f",
+    "https://note.com/manzoku/n/n395b8d50ae62",
+    "https://note.com/ai_datamimi/n/n2df21522023d",
+    "https://note.com/yakubiz_analyz/n/nb16e97837456",
+    "https://note.com/diisuket/n/nb1d2e50020af"
    ]
   },
   {
@@ -2640,12 +2646,12 @@
     "https://www.facebook.com/takuya.inoue.39982/videos/%E8%89%B2%E3%82%93%E3%81%AA%E3%81%A8%E3%81%93%E3%82%8D%E3%81%A7ai%E7%A4%BE%E5%93%A1%E3%81%9F%E3%81%A1%E3%81%AB%E9%A0%91%E5%BC%B5%E3%81%A3%E3%81%A6%E9%A0%82%E3%81%84%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E4%BC%81%E7%94%BB%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AA%E3%81%A9%E3%81%8C%E4%B8%80%E6%B0%97%E9%80%9A%E8%B2%AB%E3%81%A7%E5%87%BA%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%AF%E3%81%99%E3%81%94%E3%81%8F%E3%81%82%E3%82%8A%E3%81%8C%E3%81%9F%E3%81%84%E3%81%A7%E3%81%99%E6%A5%AD%E5%8B%99%E3%81%AE%E5%8A%B9%E7%8E%87%E5%8C%96%E3%82%84%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AA%E3%81%8F%E3%81%93%E3%82%8C/1031636489680808/",
     "https://www.facebook.com/jicavolunteer/posts/1164544365865124/",
     "https://www.facebook.com/100092715664950/posts/-recruitment-selection-process-in-japan-understanding-the-recruitment-process-in/878392998594548/",
+    "https://www.facebook.com/jicadrlc/posts/english-follows-after-japanese-%E3%82%A4%E3%83%B3%E3%83%89%E5%9B%BD%E5%88%A5%E7%A0%94%E4%BF%AE%E4%BA%BA%E3%81%A8%E9%98%B2%E7%81%BD%E6%9C%AA%E6%9D%A5%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E8%A8%AA%E5%95%8F-%E3%82%A4%E3%83%B3%E3%83%89%E5%8C%97%E6%9D%B1%E5%B7%9E%E3%81%8B%E3%82%89%E6%9D%A5%E6%97%A5%E3%81%97%E3%81%9F%E7%A0%94%E4%BF%AE%E5%93%A113%E5%90%8D%E3%81%8C5%E6%9C%8812%E6%97%A5%E7%81%AB%E3%81%AB%E5%85%B5%E5%BA%AB%E7%9C%8C/1288182670068309/",
     "https://www.facebook.com/100062616217622/videos/ai%E6%B4%BB%E7%94%A8-ai-chatgpt-claude/2508305699655051/",
-    "https://www.facebook.com/GiGWorksAddValue/posts/%E3%82%AE%E3%82%B0%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3ai%E3%81%AE%E7%B2%BE%E5%BA%A6%E3%82%92%E5%B7%A6%E5%8F%B3%E3%81%99%E3%82%8B%E3%81%AE%E3%81%AF%E7%8F%BE%E5%A0%B4%E3%83%87%E3%83%BC%E3%82%BF%E3%81%A0%E3%81%A3%E3%81%9F%E7%94%BB%E5%83%8F%E3%83%87%E3%83%BC%E3%82%BF%E5%8F%8E%E9%9B%86%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E6%96%B9%E6%B3%95%E7%94%9F%E6%88%90ai%E3%82%84%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98ai%E3%81%AE%E6%B4%BB%E7%94%A8%E3%81%8C%E9%80%B2%E3%81%BFai%E3%81%AF%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AE%E4%BB%95%E4%BA%8B%E3%82%84%E7%94%9F%E6%B4%BB%E3%81%AB%E8%BA%AB%E8%BF%91%E3%81%AA%E5%AD%98%E5%9C%A8%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/1616891346803670/",
     "https://www.facebook.com/apamanshopcom/posts/%E4%BC%8A%E5%8B%A2%E3%81%AE%E8%88%9E%E3%82%A8%E3%83%93ver%E3%81%AB%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8-%E3%81%B9%E3%81%82%E5%90%9B%E3%83%80%E3%83%B3%E3%82%B9%E4%B8%89%E9%87%8D%E7%B7%A8%E5%85%AC%E9%96%8B%E4%BC%8A%E5%8B%A2%E6%B5%B7%E8%80%81%E3%81%9F%E3%81%A1%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E3%83%80%E3%83%B3%E3%82%B9%E6%8C%AF%E4%BB%98%E3%82%92%E8%A6%9A%E3%81%88%E3%81%A6%E8%B8%8A%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%E3%83%80%E3%83%B3%E3%82%B9%E6%8C%AF%E4%BB%98%E2%91%A0%E3%81%BF%E3%81%8E%E5%90%91%E3%81%84%E3%81%A6%E2%91%A1%E3%83%9D%E3%83%BC%E3%82%BA%E2%91%A2%E3%81%B2%E3%81%A0%E3%82%8A%E5%90%91%E3%81%84%E3%81%A6%E2%91%A3%E3%83%9D%E3%83%BC%E3%82%BA%E2%91%A4%E6%AD%A3/1237640265075799/",
+    "https://www.facebook.com/GiGWorksAddValue/posts/%E3%82%AE%E3%82%B0%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3ai%E3%81%AE%E7%B2%BE%E5%BA%A6%E3%82%92%E5%B7%A6%E5%8F%B3%E3%81%99%E3%82%8B%E3%81%AE%E3%81%AF%E7%8F%BE%E5%A0%B4%E3%83%87%E3%83%BC%E3%82%BF%E3%81%A0%E3%81%A3%E3%81%9F%E7%94%BB%E5%83%8F%E3%83%87%E3%83%BC%E3%82%BF%E5%8F%8E%E9%9B%86%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E6%96%B9%E6%B3%95%E7%94%9F%E6%88%90ai%E3%82%84%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98ai%E3%81%AE%E6%B4%BB%E7%94%A8%E3%81%8C%E9%80%B2%E3%81%BFai%E3%81%AF%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AE%E4%BB%95%E4%BA%8B%E3%82%84%E7%94%9F%E6%B4%BB%E3%81%AB%E8%BA%AB%E8%BF%91%E3%81%AA%E5%AD%98%E5%9C%A8%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/1616891346803670/",
     "https://www.facebook.com/masaru.seo/posts/%E3%81%9F%E3%81%A8%E3%81%88%E3%81%93%E3%81%AE%E4%B8%96%E3%81%8B%E3%82%89%E5%8E%BB%E3%81%A3%E3%81%A6%E3%82%82%E8%AA%B0%E3%81%8B%E3%81%AE%E4%B8%AD%E3%81%A7%E7%94%9F%E3%81%8D%E3%81%A6%E3%81%84%E3%81%8F%E3%81%9D%E3%82%8C%E3%81%8C%E4%BA%BA%E9%96%93%E3%81%AA%E3%82%93%E3%81%A0%E3%81%AA%E3%81%82%E3%81%A8%E3%81%97%E3%81%BF%E3%81%98%E3%81%BF%E6%80%9D%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%9C%E3%81%B2%E8%AA%AD%E3%82%93%E3%81%A7%E3%81%BF%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/27113908091580085/",
-    "https://www.facebook.com/255098757988270",
-    "https://www.facebook.com/japanhanarealestate/posts/this-carousel-has-been-sitting-in-our-notes-for-two-months-because-we-kept-wanti/1516701897134346/"
+    "https://www.facebook.com/255098757988270"
    ]
   },
   {
@@ -2670,12 +2676,11 @@
     "https://prtimes.com/magazine/twitter-measurement-of-effectiveness/",
     "https://note.intimatemerger.com/n/n9012095e7eac",
     "https://s--line.co.jp/x-twitter-business-2026/",
-    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vKi_Tb3TFcHrfPZtBgZdGpWTU5IEzMRUr8kn7sZio5R4IJSwHtO",
+    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vKu2mvn6ArTOt4KtOF1gcZ8Z9a0ujRF7XJwAkiqED8LNZEOCZKX",
     "https://sns.userlocal.jp/column/how-to-twitter-analytics/",
     "https://www.gas-laboratory.com/courses/twitter-kw-posts-data",
-    "https://www.aspicjapan.org/asu/article/48686",
     "https://addness.co.jp/media/x-impression/",
-    "https://media.deskrex.ai/desk-research-automation-complete-2026/"
+    "https://www.aspicjapan.org/asu/article/48686"
    ]
   },
   {
@@ -2698,25 +2703,19 @@
  "new_this_run": {
   "手順・やり方": [
    {
-    "quote": "就活面接練習|一人練習やおすすめサービスなど練習方法14選を徹底解説・頻出質問10選付き",
+    "quote": "評価される自己PRには「①結論ファースト②具体的なエピソード③入社後の貢献」の型があります",
     "url": "https://unistyleinc.com/techniques/1459",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "一人でできる効果的な練習方法、友達や大学、エージェントとの練習のコツ、便利なAIアプリやサービスを徹底比較",
-    "url": "https://unistyleinc.com/techniques/1459",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「特技の選び方・特技を答える際のコツ・回答例とNG回答例・特技がない人の対処法」なども解説しています",
+    "quote": "丸紅(総合職)25卒インターン体験談レポートより引用丸紅の企業研究（ES・レポート・関連テクニック/コラム記事）はこちらからインターンシップ体験談レポート②PwCコンサルティング合同会社Strategy&ワークの前に基本的なロジカルシンキングやワークの進め方が説明されるため、コンサルタントとしての基礎的なスキルを学ぶことができた",
     "url": "https://unistyleinc.com/techniques/1459",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ]
  },
- "runs": 10,
+ "runs": 11,
  "first_researched_at": "2026-11-04T23:54:31.177110+00:00"
 }

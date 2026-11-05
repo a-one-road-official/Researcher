@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・81品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・85品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -4290,15 +4290,100 @@
 - 生産能力・設備：記載なし（読んだ44頁・検索15回）
 - 人手と仕事の差：記載なし（読んだ44頁・検索15回）
 
-## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
-- 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024
-- 事業所数・社数：記載なし（読んだ19頁・検索15回）
-- 社員数・平均社員数：記載なし（読んだ19頁・検索15回）
-- 受注金額・加工賃収入：記載なし（読んだ19頁・検索15回）
-- 1人あたり・1社あたり金額：記載なし（読んだ19頁・検索15回）
-- 生産能力・設備：記載なし（読んだ19頁・検索15回）
-- 10年推移：記載なし（読んだ19頁・検索15回）
-- 人手と仕事の差：記載なし（読んだ19頁・検索15回）
+## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74587人・2024年69553人を所管の表で取り直す・時点をそろえた裏付け・4-24・4-44）（Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024）
+- 文脈：業種・統計
+- 事業所数・社数：
+  - 「【産業横断】(3次)事業所①：結果表番号 事業所 全国 都道府県 産業分類 事業所数 売上（収入）金額」（https://www.stat.go.jp/data/kkj/kekka/zuhyou/shuukeijikou.xlsx）
+  - 「【産業横断】(3次)事業所②：結果表番号 事業所 全国 都道府県 産業分類 事業所数 年間商品販売額」（https://www.stat.go.jp/data/kkj/kekka/zuhyou/shuukeijikou.xlsx）
+  - 「【産業横断】(4次)事業所（個人含む）：結果表番号 事業所 全国 都道府県 産業分類 事業所数 売上（収入）金額」（https://www.stat.go.jp/data/kkj/kekka/zuhyou/shuukeijikou.xlsx）
+  - 「【製造業】品目別：集計事項 産出事業所数3) ○ ○ ○ ○ ○ ○ ○ ○ ○」（https://www.stat.go.jp/data/kkj/kekka/zuhyou/shuukeijikou.xlsx）
+  - 「【製造業】地域別：1) 事業所数のみ表章」（https://www.stat.go.jp/data/kkj/kekka/zuhyou/shuukeijikou.xlsx）
+  - 「品目別 品目別（６桁）産出事業所数、出荷金額、出荷数量等」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf）
+  - 「品目別 品目別（６桁）産出事業所数、出荷金額、出荷数量等」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo2.pdf）
+  - 「品目別 品目別（６桁）産出事業所数、出荷金額、出荷数量等」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo3.pdf）
+  - 「品目別 品目別（６桁）産出事業所数、出荷金額、出荷数量等」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo4.pdf）
+  - 「査」では従業者規模４⼈以上が対象）を改め、経済構造実態調査と同じく売上（出荷」（https://www.stat.go.jp/info/today/pdf/175.pdf）
+- 社員数・平均社員数：
+  - 「各産業の売上高の上位８割の範囲に含まれる法人企業（産業横断調査）1」（https://www.stat.go.jp/data/kkj/2025/kkj25leaflet.pdf）
+  - 「製造業の売上高の上位９割の範囲に含まれる法人事業所」（https://www.stat.go.jp/data/kkj/2025/kkj25leaflet.pdf）
+  - 「事業所母集団データベースを母集団とし、日本標準産業分類における大分類、中分類又は小分類ごとに売上高を上位から累積し、当該分類ごとに売上高総額の8割を達成する範囲に含まれる法人企業を調査対象とし、その報告等を基に全体を推計した上で結果表として集計した」（https://www.stat.go.jp/data/kkj/kekka/index.html）
+  - 「【産業横断】(4次)企業等（個人含む）：経済構造実態調査 産業横断調査 集計事項一覧」（https://www.stat.go.jp/data/kkj/kekka/zuhyou/shuukeijikou.xlsx）
+  - 「【産業横断】(4次)企業等（個人含む）：Ⅳ ４次公表結果（企業等に関する集計）」（https://www.stat.go.jp/data/kkj/kekka/zuhyou/shuukeijikou.xlsx）
+  - 「【産業横断】(4次)企業等（個人含む）：集計対象 地域区分 分類事項 集計事項」（https://www.stat.go.jp/data/kkj/kekka/zuhyou/shuukeijikou.xlsx）
+  - 「【産業横断】(4次)企業等（個人含む）：結果表番号 企業等 全国 産業分類 企業等数 売上（収入）金額」（https://www.stat.go.jp/data/kkj/kekka/zuhyou/shuukeijikou.xlsx）
+  - 「【産業横断】(4次)企業等（個人含む）：第１表 ○ ○ 大 ○ ○」（https://www.stat.go.jp/data/kkj/kekka/zuhyou/shuukeijikou.xlsx）
+  - 「【産業横断】(4次)企業等（個人含む）：※個人経営の企業を含む」（https://www.stat.go.jp/data/kkj/kekka/zuhyou/shuukeijikou.xlsx）
+  - 「【産業横断】(4次)事業所（個人含む）：経済構造実態調査 産業横断調査 集計事項一覧」（https://www.stat.go.jp/data/kkj/kekka/zuhyou/shuukeijikou.xlsx）
+  - 「【産業横断】(4次)事業所（個人含む）：Ⅳ ４次公表結果（事業所に関する集計）」（https://www.stat.go.jp/data/kkj/kekka/zuhyou/shuukeijikou.xlsx）
+  - 「【産業横断】(4次)事業所（個人含む）：集計対象 地域区分 分類事項 集計事項」（https://www.stat.go.jp/data/kkj/kekka/zuhyou/shuukeijikou.xlsx）
+  - 「【産業横断】(4次)事業所（個人含む）：結果表番号 事業所 全国 都道府県 産業分類 事業所数 売上（収入）金額」（https://www.stat.go.jp/data/kkj/kekka/zuhyou/shuukeijikou.xlsx）
+  - 「【産業横断】(4次)事業所（個人含む）：第１表 ○ ○ ○ 大 ○ ○」（https://www.stat.go.jp/data/kkj/kekka/zuhyou/shuukeijikou.xlsx）
+  - 「【産業横断】(4次)事業所（個人含む）：※個人経営の事業所を含む」（https://www.stat.go.jp/data/kkj/kekka/zuhyou/shuukeijikou.xlsx）
+- 受注金額・加工賃収入：
+  - 「経済構造実態調査（産業横断調査）では、産業分類別売上高総額の８割を達成する範囲に」（https://www.stat.go.jp/data/kkj/2025/happyou_202512.pdf）
+  - 「各産業の売上高の上位８割の範囲に含まれる法人企業（産業横断調査）1」（https://www.stat.go.jp/data/kkj/2025/kkj25leaflet.pdf）
+  - 「製造業の売上高の上位９割の範囲に含まれる法人事業所」（https://www.stat.go.jp/data/kkj/2025/kkj25leaflet.pdf）
+  - 「第１表 企業産業（小分類）、経営組織別企業等数及び売上（収入）金額―全国」（https://www.stat.go.jp/data/seigo/kkj/pdf/2024k1seigo_02.pdf）
+  - 「第１表 企業産業（小分類）、経営組織別企業等数、売上（収入）金額、年間商品販売額、費用総額、主な費用項目、商品売上原価及び付加価値額―全国」（https://www.stat.go.jp/data/seigo/kkj/pdf/2024k2seigo_01.pdf）
+  - 「誤 表１ 都道府県、産業大分類別売上高（売上高の上位３産業を掲載 ※）」（https://www.stat.go.jp/data/seigo/kkj/pdf/2022k3seigo_02.pdf）
+  - 「表１ 都道府県、産業大分類別売上高（売上高の上位３産業を掲載 ※）」（https://www.stat.go.jp/data/seigo/kkj/pdf/2022k3seigo_02.pdf）
+  - 「誤 表２ 都道府県、産業大分類別売上高（売上高の上位３産業を掲載 ※）」（https://www.stat.go.jp/data/seigo/kkj/pdf/2022k4seigo_01.pdf）
+  - 「表２ 都道府県、産業大分類別売上高（売上高の上位３産業を掲載 ※）」（https://www.stat.go.jp/data/seigo/kkj/pdf/2022k4seigo_01.pdf）
+  - 「誤 「製造業」では、愛知県が 53 兆 5187 億円（全国の 14.3％）と最も多く、次いで」（https://www.stat.go.jp/data/seigo/kkj/pdf/2023k3seigo_02.pdf）
+  - 「大阪府が 21 兆 7860 億円（同 5.8％）、静岡県が 19 兆 6248 億円（同 5.3％）などと」（https://www.stat.go.jp/data/seigo/kkj/pdf/2023k3seigo_02.pdf）
+  - 「正 「製造業」では、愛知県が 53 兆 5188 億円（全国の 14.3％）と最も多く、次いで」（https://www.stat.go.jp/data/seigo/kkj/pdf/2023k3seigo_02.pdf）
+  - 「誤 表１ 都道府県、産業大分類別売上高（売上高の上位３産業を掲載 ※）」（https://www.stat.go.jp/data/seigo/kkj/pdf/2023k3seigo_02.pdf）
+  - 「表１ 都道府県、産業大分類別売上高（売上高の上位３産業を掲載 ※）」（https://www.stat.go.jp/data/seigo/kkj/pdf/2023k3seigo_02.pdf）
+  - 「事業所母集団データベースを母集団とし、日本標準産業分類における大分類、中分類又は小分類ごとに売上高を上位から累積し、当該分類ごとに売上高総額の8割を達成する範囲に含まれる法人企業を調査対象とし、その報告等を基に全体を推計した上で結果表として集計した」（https://www.stat.go.jp/data/kkj/kekka/index.html）
+- 1人あたり・1社あたり金額：
+  - 「第１表 企業産業（小分類）、経営組織別企業等数、売上（収入）金額、年間商品販売額、費用総額、主な費用項目、商品売上原価及び付加価値額―全国」（https://www.stat.go.jp/data/seigo/kkj/pdf/2024k2seigo_01.pdf）
+  - 「【産業横断】(2次)企業等①：結果表番号 企業等 全国 産業分類 事業活動、生産物の種類 経営組織 資本金階級 売上（収入）金額階級 企業等数 売上（収入）金額 うち年間商品販売額 費用総額 主な費用項目 付加価値額 商品売上原価 商品手持額」（https://www.stat.go.jp/data/kkj/kekka/zuhyou/shuukeijikou.xlsx）
+  - 「(従業者29人以下※1 は粗付加価値額) ○ ○ ○ ○」（https://www.stat.go.jp/data/kkj/kekka/zuhyou/shuukeijikou.xlsx）
+  - 「Ⅰ 売上高及び付加価値額等の状況 ....................................... 1」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo2.pdf）
+  - 「１．売上高及び付加価値額 ............................................ 1」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo2.pdf）
+  - 「１．売上高及び付加価値額」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo2.pdf）
+  - 「イ 2023年の付加価値額（全産業計）は387兆7038億円で、産業大分類別にみると、「製造」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo2.pdf）
+  - 「表Ⅰ－１ 産業大分類別売上高及び付加価値額」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo2.pdf）
+  - 「※２ 本調査における付加価値額は、以下の計算式を用いて算出している」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo2.pdf）
+  - 「※３ 付加価値率は、売上高に対する付加価値額の割合である」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo2.pdf）
+  - 「※４ 年金運用収益等の変動による売上高及び付加価値額の増減が大きい産業小分類「851 社会保険事業団体」を除いた数値」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo2.pdf）
+  - 「付加価値額※２ （参考１）付加価値率※３」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo2.pdf）
+  - 「図Ⅰ－１ 産業大分類別売上高及び付加価値額の構成比」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo2.pdf）
+  - 「3000万円未満 3000万円～１億円未満 １億円～３億円未満 ３億円以上」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo2.pdf）
+  - 「3000万円未満 38.3」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo2.pdf）
+- 10年推移：
+  - 「2025年調査へのご回答ありがとうございました」（https://www.stat.go.jp/data/kkj/index.html）
+  - 「2025年調査の実施に際し、多大なご協力を賜り、誠にありがとうございました」（https://www.stat.go.jp/data/kkj/index.html）
+  - 「2022年以降、これまで毎年実施してきた「」（https://www.stat.go.jp/data/kkj/index.html）
+  - 「2023年経済構造実態調査 参考表及び2024年経済構造実態調査 一次集計結果及び二次集計結果に掲載している項目名の一部を訂正しました」（https://www.stat.go.jp/data/kkj/index.html）
+  - 「2025年12月24日」（https://www.stat.go.jp/data/kkj/index.html）
+  - 「「2024 年経済構造実態調査」における令和6年経済センサス‐基礎調査結果を反映した数値の公表について（PDF：83KB）」（https://www.stat.go.jp/data/kkj/index.html）
+  - 「「2025年経済構造実態調査」三次集計結果 産業横断調査（事業所に関する集計）」（https://www.stat.go.jp/data/kkj/index.html）
+  - 「「2025年経済構造実態調査」二次集計結果 産業横断調査（企業等に関する集計）」（https://www.stat.go.jp/data/kkj/index.html）
+  - 「「2025年経済構造実態調査」一次集計結果 産業横断調査（企業等に関する集計）」（https://www.stat.go.jp/data/kkj/index.html）
+  - 「「2024年経済構造実態調査」四次集計結果 産業横断調査（企業等に関する集計及び事業所に関する集計）」（https://www.stat.go.jp/data/kkj/index.html）
+  - 「2020年まで実施した経済構造実態調査」（https://www.stat.go.jp/data/kkj/index.html）
+  - 「「2024 年経済構造実態調査」における」（https://www.stat.go.jp/data/kkj/2025/happyou_202512.pdf）
+  - 「2024 年経済構造実態調査については、令和６年経済センサス‐基礎調査（以下「基礎調」（https://www.stat.go.jp/data/kkj/2025/happyou_202512.pdf）
+  - 「また、2025 年経済構造実態調査については基礎調査の結果を反映した最新の事業所母集」（https://www.stat.go.jp/data/kkj/2025/happyou_202512.pdf）
+  - 「団データベースを用いて集計することとしているため、前年比較に資するよう、2025 年調」（https://www.stat.go.jp/data/kkj/2025/happyou_202512.pdf）
+- 人手と仕事の差：
+  - 「⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売し」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf）
+  - 「他）、⑥減価償却費、⑦外注費、⑧広告宣伝費、⑨保険料、⑩水道光熱費、⑪通信費、⑫荷造運搬費、⑬旅費・交通費、」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf）
+  - 「①外注費（国内）、②外注費（国外）」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf）
+  - 「不動産取引業 ①用地費、②外注工事費、③土地建物購入費」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf）
+  - 「外注費 6.5%」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo2.pdf）
+  - 「外注費 1.2%」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo2.pdf）
+  - 「⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売し」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo2.pdf）
+  - 「他）、⑥減価償却費、⑦外注費、⑧広告宣伝費、⑨保険料、⑩水道光熱費、⑪通信費、⑫荷造運搬費、⑬旅費・交通費、」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo2.pdf）
+  - 「①外注費（国内）、②外注費（国外）」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo2.pdf）
+  - 「不動産取引業 ①用地費、②外注工事費、③土地建物購入費」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo2.pdf）
+  - 「⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売し」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo3.pdf）
+  - 「他）、⑥減価償却費、⑦外注費、⑧広告宣伝費、⑨保険料、⑩水道光熱費、⑪通信費、⑫荷造運搬費、⑬旅費・交通費、」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo3.pdf）
+  - 「①外注費（国内）、②外注費（国外）」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo3.pdf）
+  - 「不動産取引業 ①用地費、②外注工事費、③土地建物購入費」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo3.pdf）
+  - 「⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び」（https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo4.pdf）
+- 生産能力・設備：記載なし（読んだ36頁・検索15回）
 
 ## 経済構造実態調査・中小企業実態基本調査の標準誤差率と回収率（向きが誤差の幅を超えるか・無回答の偏り・4-44）（standard error rate response rate Japan economic structure survey SME basic survey）
 - 文脈：全体・統計
@@ -4374,15 +4459,38 @@
   - 「（2025年7月30日）」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
 - 人手と仕事の差：記載なし（読んだ49頁・検索15回）
 
-## 電気めっき業の従業者数を事業所数と同じ表で（工業統計・経済構造実態調査の細分類・平均社員数の欄に業界全体の5（626〜31）
-- 文脈：Japan electroplating industry employees establishments same table census of manufacture
-- 事業所数・社数：記載なし（読んだ24頁・検索15回）
-- 社員数・平均社員数：記載なし（読んだ24頁・検索15回）
-- 受注金額・加工賃収入：記載なし（読んだ24頁・検索15回）
-- 1人あたり・1社あたり金額：記載なし（読んだ24頁・検索15回）
-- 生産能力・設備：記載なし（読んだ24頁・検索15回）
-- 10年推移：記載なし（読んだ24頁・検索15回）
-- 人手と仕事の差：記載なし（読んだ24頁・検索15回）
+## 電気めっき業の従業者数を事業所数と同じ表で（工業統計・経済構造実態調査の細分類・平均社員数の欄に業界全体の5626〜31487人が入った失敗から・1事業所あたりを scan.py で出す・4-45）（Japan electroplating industry employees establishments same table census of manufacture）
+- 文脈：業種・統計
+- 社員数・平均社員数：
+  - 「工業統計調査 産業編 2-01 【１．産業別統計表 (産業細分類別)】 (1)従業者４人以上の事業所に関する統計表 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【１．産業別統計表 (産業細分類別)】 (1)従業者４人以上の事業所に関する統計表」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年初現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年末現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【1122】絹・人絹織物業」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【1142】絹・人絹織物機械染色業」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【1161】織物製成人男子・少年服製造業（不織布製及びレース製を含む）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【1162】織物製成人女子・少女服製造業（不織布製及びレース製を含む）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【2183】人工骨材製造業」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【3251】娯楽用具・がん具製造業（人形を除く）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【3252】人形製造業」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+- 受注金額・加工賃収入：
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年初現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年末現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+- 1人あたり・1社あたり金額：
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年初現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年末現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+- 生産能力・設備：
+  - 「有形固定資産額(従業者30人以上)［年初現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「有形固定資産額(従業者30人以上)［年末現在高］（百万円）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+- 10年推移：
+  - 「2016-04-28 00:00」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【2020】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+  - 「【2021】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
+- 事業所数・社数：記載なし（読んだ20頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ20頁・検索15回）
 
 ## 日本金型工業会の自身の公表 金型生産額・会員の数・%の欄が何の割合か（jdmia.or.jp の値16件・2019年7.3%→2024年29.25%の定義を確かめる・会員のみか全体か・4-15・4-45）（Japan Die and Mould Industry Association production value statistics members）
 - 文脈：業種・団体
@@ -4475,13 +4583,13 @@
 
 ## 日本金型工業会の公表を団体のドメインで取り直す（前回の品目は18件すべて takumi-senpai.com・団体自身0件・4-43）（Japan Die and Mould Industry Association statistics site:jdmia.or.jp）
 - 文脈：業種・団体
-- 事業所数・社数：記載なし（読んだ32頁・検索15回）
-- 社員数・平均社員数：記載なし（読んだ32頁・検索15回）
-- 受注金額・加工賃収入：記載なし（読んだ32頁・検索15回）
-- 1人あたり・1社あたり金額：記載なし（読んだ32頁・検索15回）
-- 生産能力・設備：記載なし（読んだ32頁・検索15回）
-- 10年推移：記載なし（読んだ32頁・検索15回）
-- 人手と仕事の差：記載なし（読んだ32頁・検索15回）
+- 事業所数・社数：記載なし（読んだ30頁・検索15回）
+- 社員数・平均社員数：記載なし（読んだ30頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ30頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ30頁・検索15回）
+- 生産能力・設備：記載なし（読んだ30頁・検索15回）
+- 10年推移：記載なし（読んだ30頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ30頁・検索15回）
 
 ## 電気めっき業の事業所数と従業者数を同じ表・同じ年で（工業統計 産業細分類2464・全国鍍金工業組合連合会 site:zenmekki.or.jp・別出典どうしで割らない）（Japan electroplating establishments and employees same table same year）
 - 文脈：業種・統計
@@ -4515,3 +4623,214 @@
   - 「【2021】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057）
 - 事業所数・社数：記載なし（読んだ12頁・検索15回）
 - 人手と仕事の差：記載なし（読んだ12頁・検索15回）
+
+## 工業統計表 2020年 産業別統計表のExcelを列の見出しつきで読み直す（2020-k3-data.xls の時系列表1100・産業細分類2200・前回は取得できたが数字0件・4-46）（Census of Manufacture 2020 report by industry Excel time series and detailed industry）
+- 文脈：業種・統計
+- 事業所数・社数：
+  - 「事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生：２０２０年工業統計表 産業別統計表 1200」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び：２０２０年工業統計表 産業別統計表 1300」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「INDEX：２．従業者規模別統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品：２０２０年工業統計表 産業別統計表 2200」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「（産業中分類別の事業所数、在庫額、有形固定資産額） (3) Stati：２０２０年工業統計表 産業別統計表 2300」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「INDEX：（２）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等 (2) Statisti：２０２０年工業統計表 産業別統計表 5200」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「留意事項：○ 事業所数、従業者数については令和2(2020)年6月1日現在、現金給与総額、製造品出荷額等、付加価値額などの経理事項については平成31(2019)年1月～令和元(2019)年12月の実績により調査している」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：産業分類 事業所数 従業者数 現金給与」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：製造業計：事業所数 年次 Number of establishments Years 217601事業所」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：製造業計：事業所数 年次 Number of establishments Years 191339事業所」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：製造業計：事業所数 年次 Number of establishments Years 188249事業所」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：製造業計：事業所数 年次 Number of establishments Years 185116事業所」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：製造業計：事業所数 年次 Number of establishments Years 181877事業所」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：食料品製造業：事業所数 年次 Number of establishments Years 28239事業所」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+- 社員数・平均社員数：
+  - 「INDEX：（２）従業者３０人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生：２０２０年工業統計表 産業別統計表 1200」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「INDEX：（３）従業者４～２９人の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び：２０２０年工業統計表 産業別統計表 1300」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「INDEX：（２）従業者４人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品：２０２０年工業統計表 産業別統計表 2200」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「INDEX：（３）従業者３０人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「推計による従業者３人以下の」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「INDEX：（２）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等 (2) Statisti：２０２０年工業統計表 産業別統計表 5200」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「留意事項：○ 事業所数、従業者数については令和2(2020)年6月1日現在、現金給与総額、製造品出荷額等、付加価値額などの経理事項については平成31(2019)年1月～令和元(2019)年12月の実績により調査している」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「留意事項：・従業者4人以上の製造事業所であること」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：産業分類 事業所数 従業者数 現金給与」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「（従業者29人以下は」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：年次 （人） （百万円） （百万円） （百万円） （百万円）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+- 受注金額・加工賃収入：
+  - 「事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生：２０２０年工業統計表 産業別統計表 1200」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び：２０２０年工業統計表 産業別統計表 1300」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「INDEX：（２）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等 (2) Statisti：２０２０年工業統計表 産業別統計表 5200」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「留意事項：○ 事業所数、従業者数については令和2(2020)年6月1日現在、現金給与総額、製造品出荷額等、付加価値額などの経理事項については平成31(2019)年1月～令和元(2019)年12月の実績により調査している」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：年次 （人） （百万円） （百万円） （百万円） （百万円）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「総 額 （百万円） Total cash wages and salaries （mil. yen） 33480127百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「使用額等 （百万円） Cost of raw materials, fuels and electricit 196537024百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「出荷額等 （百万円） Value of manufactured goods shipments （mil. 313128563百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「粗付加価値額） （百万円） Value added (Gross value adde 98028029百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「総 額 （百万円） Total cash wages and salaries （mil. yen） 33665749百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「使用額等 （百万円） Cost of raw materials, fuels and electricit 185992395百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「出荷額等 （百万円） Value of manufactured goods shipments （mil. 302185204百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「粗付加価値額） （百万円） Value added (Gross value adde 97341636百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「総 額 （百万円） Total cash wages and salaries （mil. yen） 34366213百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+- 1人あたり・1社あたり金額：
+  - 「留意事項：○ 事業所数、従業者数については令和2(2020)年6月1日現在、現金給与総額、製造品出荷額等、付加価値額などの経理事項については平成31(2019)年1月～令和元(2019)年12月の実績により調査している」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：年次 （人） （百万円） （百万円） （百万円） （百万円）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「総 額 （百万円） Total cash wages and salaries （mil. yen） 33480127百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「使用額等 （百万円） Cost of raw materials, fuels and electricit 196537024百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「出荷額等 （百万円） Value of manufactured goods shipments （mil. 313128563百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：製造業計：付加価値額」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「粗付加価値額） （百万円） Value added (Gross value adde 98028029百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「総 額 （百万円） Total cash wages and salaries （mil. yen） 33665749百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「使用額等 （百万円） Cost of raw materials, fuels and electricit 185992395百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「出荷額等 （百万円） Value of manufactured goods shipments （mil. 302185204百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「粗付加価値額） （百万円） Value added (Gross value adde 97341636百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「総 額 （百万円） Total cash wages and salaries （mil. yen） 34366213百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「使用額等 （百万円） Cost of raw materials, fuels and electricit 199048032百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「出荷額等 （百万円） Value of manufactured goods shipments （mil. 319035840百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+- 生産能力・設備：
+  - 「（産業中分類別の事業所数、在庫額、有形固定資産額） (3) Stati：２０２０年工業統計表 産業別統計表 2300」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+- 10年推移：
+  - 「INDEX：２０２０年工業統計表 産業別統計表 Report by Industry of the 2020 Census」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「INDEX：令和3(2021)年 8月13日公表 2021/8/13」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「留意事項：○ 事業所数、従業者数については令和2(2020)年6月1日現在、現金給与総額、製造品出荷額等、付加価値額などの経理事項については平成31(2019)年1月～令和元(2019)年12月の実績により調査している」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「留意事項：○ 時系列表中の平成27（2015）年における数値は、「平成28年経済センサス-活動調査 製造業（総務省・経済産業省）」の調査結果のうち、工業統計調査の調査範囲に合わせるため、以下の全てに該当する製造事業所について集計したものであり、斜体で表章してある」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：2020年工業統計表 産業別統計表データ 令和3(2021)年8月13日掲載」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：※ 2015年の数値（斜体部分）については、平成28年経済センサス－活動調査 製造業（産業編）（総務省・経済産業省）から転載した」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：製造業計：産業分類 年次 Industries Years 2015」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：製造業計：産業分類 年次 Industries Years 2016」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：製造業計：産業分類 年次 Industries Years 2017」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：製造業計：産業分類 年次 Industries Years 2018」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：製造業計：産業分類 年次 Industries Years 2019」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：食料品製造業：産業分類 年次 Industries Years 2015」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：食料品製造業：産業分類 年次 Industries Years 2016」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：食料品製造業：産業分類 年次 Industries Years 2017」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+  - 「1100：食料品製造業：産業分類 年次 Industries Years 2018」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/xls/2020-k3-data.xls）
+- 人手と仕事の差：記載なし（読んだ17頁・検索15回）
+
+## 工業統計表 2019年・2018年 産業別統計表（確報）の産業細分類×従業者規模（同じ表の形で年をそろえる・切れ目の前・4-26・4-46）（Census of Manufacture 2019 2018 report by industry detailed industry by size）
+- 文脈：業種・統計
+- 事業所数・社数：
+  - 「2．従業者規模別統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html）
+  - 「事業所数、事業所敷地面積及び１日当たり水源別用水量」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html）
+  - 「（1）産業細分類別事業所数、従業者数、製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html）
+  - 「（2）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html）
+  - 「事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生：２０１９年工業統計表 産業別統計表 1200」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び：２０１９年工業統計表 産業別統計表 1300」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「INDEX：２．従業者規模別統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「（産業細分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品：２０１９年工業統計表 産業別統計表 2200」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「（産業中分類別の事業所数、在庫額、有形固定資産額） (3) Stati：２０１９年工業統計表 産業別統計表 2300」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「INDEX：（２）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等 (2) Statisti：２０１９年工業統計表 産業別統計表 5200」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「留意事項：○ 事業所数、従業者数については令和元（2019）年6月1日現在、現金給与総額、製造品出荷額等、付加価値額などの経理事項については平成30年1月～12月の実績により調査している」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「1100：（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「1100：産業分類 事業所数 従業者数 現金給与」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「1100：製造業計：事業所数 年次 Number of establishments Years 202410事業所」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「1100：製造業計：事業所数 年次 Number of establishments Years 217601事業所」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+- 社員数・平均社員数：
+  - 「（1）従業者4人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html）
+  - 「（2）従業者30人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html）
+  - 「（3）従業者4～29人の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html）
+  - 「（2）従業者4人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html）
+  - 「（3）従業者30人の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html）
+  - 「従業者４人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html）
+  - 「従業者30人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html）
+  - 「推計による従業者３人以下の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html）
+  - 「（1）産業細分類別事業所数、従業者数、製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html）
+  - 「（2）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html）
+  - 「INDEX：（２）従業者３０人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生：２０１９年工業統計表 産業別統計表 1200」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「INDEX：（３）従業者４～２９人の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び：２０１９年工業統計表 産業別統計表 1300」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「INDEX：（２）従業者４人以上の事業所に関する統計表」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+- 受注金額・加工賃収入：
+  - 「（1）産業細分類別事業所数、従業者数、製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html）
+  - 「（2）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html）
+  - 「事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生：２０１９年工業統計表 産業別統計表 1200」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び：２０１９年工業統計表 産業別統計表 1300」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「INDEX：（２）都道府県別、東京特別区・政令指定都市別の産業中分類別事業所数、従業者数及び製造品出荷額等 (2) Statisti：２０１９年工業統計表 産業別統計表 5200」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「留意事項：○ 事業所数、従業者数については令和元（2019）年6月1日現在、現金給与総額、製造品出荷額等、付加価値額などの経理事項については平成30年1月～12月の実績により調査している」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「1100：（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「1100：年次 （人） （百万円） （百万円） （百万円） （百万円）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「総 額 （百万円） Total cash wages and salaries （mil. yen） 32686200百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「使用額等 （百万円） Cost of raw materials, fuels and electricit 197203841百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「出荷額等 （百万円） Value of manufactured goods shipments （mil. 305139989百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「粗付加価値額） （百万円） Value added (Gross value adde 92288871百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「総 額 （百万円） Total cash wages and salaries （mil. yen） 33480127百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「使用額等 （百万円） Cost of raw materials, fuels and electricit 196537024百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「出荷額等 （百万円） Value of manufactured goods shipments （mil. 313128563百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+- 1人あたり・1社あたり金額：
+  - 「留意事項：○ 事業所数、従業者数については令和元（2019）年6月1日現在、現金給与総額、製造品出荷額等、付加価値額などの経理事項については平成30年1月～12月の実績により調査している」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「1100：（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「1100：年次 （人） （百万円） （百万円） （百万円） （百万円）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「総 額 （百万円） Total cash wages and salaries （mil. yen） 32686200百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「使用額等 （百万円） Cost of raw materials, fuels and electricit 197203841百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「出荷額等 （百万円） Value of manufactured goods shipments （mil. 305139989百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「1100：製造業計：付加価値額」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「粗付加価値額） （百万円） Value added (Gross value adde 92288871百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「総 額 （百万円） Total cash wages and salaries （mil. yen） 33480127百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「使用額等 （百万円） Cost of raw materials, fuels and electricit 196537024百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「出荷額等 （百万円） Value of manufactured goods shipments （mil. 313128563百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「粗付加価値額） （百万円） Value added (Gross value adde 98028029百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「総 額 （百万円） Total cash wages and salaries （mil. yen） 33665749百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「使用額等 （百万円） Cost of raw materials, fuels and electricit 185992395百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「出荷額等 （百万円） Value of manufactured goods shipments （mil. 302185204百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+- 生産能力・設備：
+  - 「（産業中分類別の事業所数、在庫額、有形固定資産額） (3) Stati：２０１９年工業統計表 産業別統計表 2300」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「目次：第１表 時系列表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等、付加価値額、製造品年末在庫額、有形固定資産投資総額）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-gaikyo-data.xls）
+  - 「目次：第12表 〃 有形固定資産投資総額（ 〃 ）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-gaikyo-data.xls）
+  - 「目次：第19表 〃 有形固定資産投資総額（従業者３０人以上の事業所）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-gaikyo-data.xls）
+  - 「利用上の注意：(7) 有形固定資産投資総額 ＝ 土地の取得額 ＋ 有形固定資産(土地を除く)の取得額＋ 建設仮勘定の年間増減」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-gaikyo-data.xls）
+  - 「第1表：年 次 付 加 価 値 額 製造品年末在庫額 有形固定資産投資総額」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-gaikyo-data.xls）
+  - 「第1表：注2：有形固定資産投資総額には建設仮勘定の増減を含む」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-gaikyo-data.xls）
+  - 「第8～12表：第１２表 産業中分類別 有形固定資産投資総額」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-gaikyo-data.xls）
+  - 「第19表：第１９表 従業者規模別 有形固定資産投資総額」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-gaikyo-data.xls）
+  - 「第19表：従 業 者 規 模 有形固定資産投資総額」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-gaikyo-data.xls）
+  - 「第19表：合 計：有形固定資産投資総額 平成２９年 金 額 （百万円） 12348513百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-gaikyo-data.xls）
+  - 「第19表：合 計：有形固定資産投資総額 平成２９年 前年比 （％） 2.4％」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-gaikyo-data.xls）
+  - 「第19表：合 計：有形固定資産投資総額 平成２９年 構成比 （％） 100％」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-gaikyo-data.xls）
+  - 「第19表：合 計：有形固定資産投資総額 平成３０年 金 額 （百万円） 13826490百万円」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-gaikyo-data.xls）
+  - 「第19表：合 計：有形固定資産投資総額 平成３０年 前年比 （％） 12％」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-gaikyo-data.xls）
+- 10年推移：
+  - 「最終更新日：2020.08.07」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html）
+  - 「INDEX：1 ２０１９年工業統計表 産業別統計表 Report by Industry of the 2019 Census」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「INDEX：令和2年(2020年) 8月7日公表 2020/8/7」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「留意事項：○ 事業所数、従業者数については令和元（2019）年6月1日現在、現金給与総額、製造品出荷額等、付加価値額などの経理事項については平成30年1月～12月の実績により調査している」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「留意事項：○ 時系列表中の平成27年（2015年）における数値は、「平成28年経済センサス-活動調査 製造業（総務省・経済産業省）」の調査結果のうち、工業統計調査の調査範囲に合わせるため、以下の全てに該当する製造事業所について集計したものであり、斜体で表章してある」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「1100：2019年工業統計表 産業別統計表データ 令和2(2020)年8月7日掲載」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「1100：※ 2015年の数値（斜体部分）については、平成28年経済センサス－活動調査 製造業（産業編）（総務省・経済産業省）から転載した」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「1100：製造業計：事業所数 年次 Number of establishments Years 202410事業所」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「1100：製造業計：産業分類 年次 Industries Years 2015」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「1100：製造業計：産業分類 年次 Industries Years 2016」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「1100：製造業計：産業分類 年次 Industries Years 2017」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「1100：製造業計：産業分類 年次 Industries Years 2018」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「1100：食料品製造業：産業分類 年次 Industries Years 2015」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「1100：食料品製造業：産業分類 年次 Industries Years 2016」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+  - 「1100：食料品製造業：産業分類 年次 Industries Years 2017」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-data.xls）
+- 人手と仕事の差：
+  - 「利用上の注意：(3) 原材料使用額等 ＝ 原材料使用額 ＋ 燃料使用額 ＋ 電力使用額 ＋ 委託生産費＋ 製造等に関連する外注費 ＋ 転売した商品の仕入額」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/xls/2019-k3-gaikyo-data.xls）
+- 検索結果の抜粋：
+  - 「工業統計 調査 確報 2019年確報 産業 編 2-01 【1． 産業別 ... — 工業統計 調査 確報 2019年確報 産業 編 2-01 【1． 産業別 ... 政府統計の総合窓口 https://www.e-stat.go.jp > stat-search > database」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897）
+  - 「令和3年経済センサス‐活動調査（ 確報 ） - 佐賀県 — 令和3年経済センサス‐活動調査（ 確報 ） - 佐賀県 佐賀県 https://www.pref.saga.lg.jp > toukei > kiji003101251」（https://www.pref.saga.lg.jp/toukei/kiji003101251/index.html）
+  - 「2019年 工業統計 調査結果（ 確報 ） （ 2019年 6月1日 ... - 愛知県 — 2019年 工業統計 調査結果（ 確報 ） （ 2019年 6月1日 ... - 愛知県 愛知県 https://www.pref.aichi.jp > toukei > kougyo202006」（https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html）
+
+## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
+- 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024
+- 事業所数・社数：記載なし（読んだ19頁・検索15回）
+- 社員数・平均社員数：記載なし（読んだ19頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ19頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ19頁・検索15回）
+- 生産能力・設備：記載なし（読んだ19頁・検索15回）
+- 10年推移：記載なし（読んだ19頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ19頁・検索15回）
+
+## 電気めっき業の従業者数を事業所数と同じ表で（工業統計・経済構造実態調査の細分類・平均社員数の欄に業界全体の5（626〜31）
+- 文脈：Japan electroplating industry employees establishments same table census of manufacture
+- 事業所数・社数：記載なし（読んだ24頁・検索15回）
+- 社員数・平均社員数：記載なし（読んだ24頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ24頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ24頁・検索15回）
+- 生産能力・設備：記載なし（読んだ24頁・検索15回）
+- 10年推移：記載なし（読んだ24頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ24頁・検索15回）

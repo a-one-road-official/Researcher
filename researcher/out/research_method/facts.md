@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・81品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・84品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1914,13 +1914,63 @@
   - 「SDGsは、未来から逆算するバックキャストの思考ですから、事業戦略の中にも未来を中心とした時間軸が取り入れられています」（https://sherpaworks.jp/sherpa/backcast/）
   - 「このように、バックキャストは将来から逆算して計画を立てるのに対して、フォーキャストは過去や現在の課題から将来へと向かって計画を立てていくという違いがあります」（https://sherpaworks.jp/sherpa/backcast/）
   - 「仮説検証の考え方や手順について！ポイント・注意点まで詳しく解説」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「2-3. 解決策仮説の発散 → 有効性評価」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「参謀が「これを検証するんだ」と方向性を示す必要がある」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「顧客インタビューやA/Bテストを設計し、仮説検証のサイクルを手伝う」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「仮説を優先度順に並べ、進捗を可視化する」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「不確実性の中でも素早く仮説を立て、深く掘り下げ、行動につなげる力」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「3-1. 仮説構築力：地図のない道を切り開く」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「でも、だからこそ仮説が必要だ」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「小さな検証を繰り返して、正解にたどり着くのが参謀の仕事だ」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「参謀は「今ある情報だけで、どう進むべきか」を仮説として提示する必要がある」（https://note.com/zum_ism/n/nc502867386a8）
+- 一次情報の探し方：
+  - 「次の採用計画や組織図の再構築を起業家と練る」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「「これがいいはずだ！」って思い込みを一回横に置いて、ユーザーの声とか一次情報をコツコツ集めて」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「外部情報ちゃんと調べてる？規制とか経済統計とか、最新データ使ってる？」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「5-2. 超一次情報で「現場の空気」をつかむ」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「インタビューやデータは「一次情報」だけど、それだけじゃ足りません」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「：ファイル形式（PDFやExcel）やQRコードなど、みんなが使う標準規格」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「投資家、顧客、採用候補者、仲間、みんなを巻き込むための「話す力」「聞く力」」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「たとえば、資金調達が終わったら、次は人材採用やマーケティングに全力を注ぐ、など柔軟に学ぶ姿勢を持つ」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「チーム体制、カルチャー形成、人材採用・育成が事業戦略と同期しているか」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「独自技術、特許、ブランド力などを考える」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「→ 強みを言語化しておくと、採用競争や投資家対応でも頼れる武器になる」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「1. 採用ブランディング」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「だって、自分たちの魅力を言語化して伝えることで、採用でも営業でも社内文化でも、会社のあらゆる面が前向きに進化するから」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「5. ストーリーブックでチームも採用も強くする」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「「ただの求人票じゃなくて、会社の夢とリアルが伝わる」から、応募者のモチベーションも高まる」（https://note.com/zum_ism/n/nc502867386a8）
 - 失敗・落とし穴：
   - 「さらには、多少の失敗やミスがあったとしても、長期的に見れば取り返すことができるとか、逆にその失敗が将来の成長につながるという見方ができます」（https://sherpaworks.jp/sherpa/backcast/）
   - 「それぞれのステップの中で分析の予定を組んでおき、間違いなく定期的に振り返りができるようにしておきます」（https://sherpaworks.jp/sherpa/backcast/）
   - 「仮説検証の考え方や手順について！ポイント・注意点まで詳しく解説」（https://sherpaworks.jp/sherpa/backcast/）
+  - 「でもね、ただ遠くを見るだけじゃダメ」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「「ムラ」や「バイアス」を排除し、起業家が自分を見失わないよう支えるのがこの視点」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「1-3. 量だけじゃダメ！「行動の質」が成長のカギ」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「2. 起業家はバイアスまみれ？参謀がいなきゃヤバい理由」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「2-1. 起業家がハマりやすい6つの罠」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「：うまくいった部分だけを見て、失敗を無視」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「でも、このバイアスを放置すると、」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「2-2. バイアスをぶっ壊す！それが参謀の役目」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「ここでちょっと注意！「MBA持ってる人」とか「中小企業診断士」とか、すごそうな人はたくさんいるけど、参謀とは違うんです」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「でも、それだけじゃダメ」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「「勘だけで動く参謀」も、「知識だけ詰め込んだ参謀」もダメ」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「起業家が「ああ、もうダメだ」と言ったとき、「まだ手はある」と粘れる参謀がいるかで運命が変わる」（https://note.com/zum_ism/n/nc502867386a8）
 - 実例：
   - 「結果として、社員の士気を向上させ、離職率を下げることにつながります」（https://sherpaworks.jp/sherpa/backcast/）
-- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+  - 「例えば、「絶対に成功させる！」って叫びながら、地図も見ずに車を走らせたらどうなります？迷子確定ですよね」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「：ビジネス事例や教養が引き出しに入ってないと話にならない」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「：イメージしやすい事例で「なるほど！」って納得させるのがうまい参謀」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「結果、信頼崩壊」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「データや事例が揃うのを待っていたら、スタートアップは動けない」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「例えば、「顧客が価格を理由に購入を控えている」と仮説を立てたら、即座にアンケートやA/Bテストで確認」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「問題の背後にある構造を見抜き、他の事例に応用できる形に落とし込む必要がある」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「例えば、ある商品の売上低迷の原因が「顧客理解不足」だった場合：」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「例えば、スタートアップのカスタマーサポート改善を考える際： 「航空会社のファーストクラスの顧客対応を模倣してみたらどうか？」 既存のプロダクトに新しい価値を付加できる」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「アナロジーを乱用すると、「表面的には似ているけど、実態が違う」事例を引っ張り込んで失敗するリスクがある」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「：例えば、顧客の購入体験を図にして「どこにボトルネックがあるか」を可視化する」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「：実現したときのインパクトを視覚的に見せる（売上グラフや成功事例）」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「数値と物語のハイブリッド：成功事例や市場規模のデータで確実性を見せつつ、感情に響くストーリーで「やりたい！」と思わせる」（https://note.com/zum_ism/n/nc502867386a8）
+  - 「例えば「売上が伸びない」と言われたら、「それは顧客獲得が課題？リピート率？価格設定？」と具体的に掘り下げる」（https://note.com/zum_ism/n/nc502867386a8）
 
 ## 有価証券報告書の設備の状況・セグメント情報・将来見通しの読み方（reading annual report capex plan segment forward-looking statement）
 - 文脈：企業
@@ -2594,6 +2644,7 @@
   - 「Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
   - 「For records with incomplete or inconsistent data, use similarity scoring, fuzzy algorithms, or ML models to estimate match likelihood.」（https://www.rudderstack.com/blog/what-is-entity-resolution/）
   - 「Probabilistic methods combine several pieces of evidence and estimate how strongly a pair resembles a true match versus a non-match.」（https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/）
+  - 「9. Estimate implementation and maintenance effort」（https://dataladder.com/best-entity-resolution-software/）
 - 一次情報の探し方：
   - 「2. Data Profiling and Standardization」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「Matching records across heterogeneous datasets (e.g., SQL and NoSQL databases, spreadsheets, PDFs) can be exceptionally difficult due to different types of entities, encoding, formatting, languages, and schemas. Converting all this different type of data into a pre-defined schema through schema-matching and data exchange is a risky process and can result in the loss of valuable information.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
@@ -2602,6 +2653,7 @@
   - 「3. Linking and profiling」（https://www.rudderstack.com/blog/what-is-entity-resolution/）
   - 「PDF and DOCX manifestations of one document;」（https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/）
   - 「A repository contains five identical copies of a PDF and one later corrected edition. Checksums collapse the exact copies into one storage identity, while the corrected edition remains a distinct version linked to the same logical document.」（https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/）
+  - 「Combines profiling, cleansing, matching, deduplication and golden-record creation in a code-free workflow」（https://dataladder.com/best-entity-resolution-software/）
 - 失敗・落とし穴：
   - 「High-consequence identity systems should generally bias toward review when evidence is ambiguous.」（https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/）
 - 実例：
@@ -3100,7 +3152,7 @@
   - 「: One of the main causes of stale data is delays in data collection, often due to outdated collection methods. In systems that require real-time updates, relying on manual processes like copy-and-paste or batch processing can result in stale data. For example, the case we discussed earlier of stale data in a ticketing platform was caused by delays in data collection.」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
   - 「: When businesses rely on outdated data, they struggle to accurately understand customer needs and preferences, leading to a poor customer experience. For example, a recommendation platform using stale data may generate irrelevant suggestions, further reducing customer satisfaction.」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
   - 「, Quadratic helps users to identify stale data right from their spreadsheet interface. Suppose you’re working with large amounts of data for analysis and you quickly want to identify some stale data that is no longer relevant, you can do so by passing a text prompt in the Quadratic spreadsheet chat. Here’s an example:」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
 
 ## 統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり）（statistical time series break linking retropolation official statistics）
 - 文脈：突き合わせ・失敗
@@ -5217,3 +5269,118 @@
   - 「歴史的にも、この「ヴァイシャによる国家（第1・第2機能）の浸食・間接支配」は鮮やかな事例を残しています」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
   - 「[一般知識 / 推論合成（一般）] その結果、外部からの武力侵略や内部からの暴動（危機発生）に耐えられなくなり、再び第二機能（強権的な軍事独裁・強権政治）や第一機能（宗教的・思想的ファンダメンタリズム）への強力な先祖返り（揺り戻し）を巻き起こすことになります」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
   - 「史実における「資本流出と国家の衰退」の事例」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+
+## 専門家・関係者インタビューの裏取り（1人の証言の重み・内と外の三角測量・中間層の当事者を選ぶ・社会的に望ましい答えの偏り）（expert interview triangulation evidence weight insiders social desirability bias）
+- 文脈：裏取り
+- 手順・やり方：
+  - 「Why Do We Speak to Experts? Reviving the Strength of the Expert Interview Method | Perspectives on Politics | Cambridge Core」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「Why Do We Speak to Experts? Reviving the Strength of the Expert Interview Method」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「) have dominated the methodological debate in the social sciences. Scholars conduct causal investigations with experimental or quasi-experimental designs (Dunning」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「). This application of rigorous methods of causal inference has greatly expanded our knowledge about political behavior and its outcomes. However, despite the fact that quantitative approaches have driven the recent methodological debate in comparative politics and international relations,」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「However, despite its high practical relevance and the existence of classic works on the qualitative interview method (Aberbach and Rockman」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「), current reflection on the promises and limits of this technique is sparse. There is also little guidance offered on how to use the method most effectively (Fujii」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「, 766), often providing the empirical basis for the process tracing method (Beach and Pedersen」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「). However, the accuracy of expert prediction vis-à-vis other methods, in particular data-based approaches, is highly contested (Hanson et al.」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「Finally, expert interviews may serve as a method of」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「inside and outside experts and include them in an integrated analytical framework. The heuristic differentiation of both groups allows us to relate them to each other systematically. For their purposeful selection through the recommendations of other experts, snowball sampling and related techniques can be used (Goldstein」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「The precondition for applying this indirect assessment method is a sufficiently high number of interviewees (Lyall」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「In addition to systematically selecting experts as well as dealing with the reactivity and subjectivity of the expert-interview method, the capturing of evidence should follow clear guidelines. Researchers should ensure that the material used is representative of the whole empirical corpus and triangulate expert interviews.」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「, 731, 735). This is all the more important as due to ethical and methodological constraints qualitative research is much harder to replicate than statistical analysis. Often, expert-interview transcripts cannot be made public.」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「). Hence, this guiding principle should not make scholars reject the method in difficult cases.」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「Much of the current mainstream methodological discussion in political science has centered around the use of experimental methods and new ways of making causal inferences via statistical means. Further insightful research has discussed the methodological, psychological, and ethical issues of field-research methods such as immersion (most recently, Driscoll」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+- 突き合わせ・推定：
+  - 「, 99f.). In consequence, the evidentiary value of just one expert interview is close to zero; it needs to be cross-checked with other interviews or data streams (“triangulation,” discussed later). I would furthermore advise scholars to conduct an assessment of the motives a respondent might have to distort or conceal information before interviews start (Beach and Pedersen」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「). One group of interviewees receives the complete list of statements, while the other group gets the same one but without the sensitive statement. The comparison of the two groups’ mean answers provides “an estimate of how many respondents believe the sensitive item to be true” (Swedlund」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「External and Internal Triangulation」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「). The precondition for this triangulation is that the sources do not depend on each other (Beach and Pedersen」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+- 失敗・落とし穴：
+  - 「Dealing with Personal Biases」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「, 207–9). Interviewing inside and outside experts holds promises but also pitfalls (see the summary in」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「In addition to the selection of both inside and outside experts, it is of crucial importance to limit the possibility that respondents’ personal biases compromise the results and thereby limit expert interviews’ analytical value.」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「for different potential biases).」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「, 154). Yet external experts also have their ideological and personal predispositions that affect the answers they give. Analyzing highly contentious issues such as the support for violence or working in post-conflict and authoritarian environments makes social-desirability bias particularly salient (Lyall」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「). Social-desirability bias regularly renders responses invalid. To counter this, scholars have designed so-called list experiments to help examine “true biases and preferences that would be otherwise difficult to reveal” (Dietrich, Hardt, and Swedlund」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「To overcome the power of the good quote and avoid biases in using references, scholars should clearly catalogue the procedures guiding the aggregation and interpretation of information (Tripp」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「(Dis)Courtesy Bias: ‘Methodological Cognates,’ Data Validity, and Ethics in Violence-Adjacent Research」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+- 実例：
+  - 「). However, members of the elite are not necessarily knowledgeable about the political process or event of interest. In this case, they do not qualify as experts and the researcher should desist from selecting them as interview partners. For most research objectives, the selection of expert interview partners should therefore be problem- and expertise-centered rather than status-oriented.」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「). Inside experts are decision makers who actually shaped the political or social process of interest. In this case, expert interviews are a proxy for participant observation (Pouliot」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「The case for mid- and low-level insiders:」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「Oftentimes, scholars disregard the influence and informational advantage of inside experts who do not occupy top positions—be it election campaigners, civil society activists, or mid-level civil servants. For example, to investigate political intervention into the tax administration in two African countries (von Soest」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「). Hence, this guiding principle should not make scholars reject the method in difficult cases.」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「; for another example, Lundgren」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「Reference Archibald, Ambagtsheer, Casey and Lawless」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「Case Study Research: Putting the Quant into the Qual」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「Case Studies and Theory Development in the Social Sciences」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「Case Study Research: Principles and Practices」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「How Does Neopatrimonialism Affect the African State? The Case of Tax Collection in Zambia」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「Process Tracing and Elite Interviewing: A Case for Non-Probability Sampling」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+
+## 統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂）（revision bias significance test mean revision t-test methodological revisions）
+- 文脈：統計の版
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方）（entity matching benchmark corner cases threshold gold standard）
+- 文脈：同一性
+- 手順・やり方：
+  - 「formation on how to evaluate the performance. To answer the ques-」（https://d-nb.info/1351217534/34）
+  - 「the closure of such a result set could easily be created, this step」（https://d-nb.info/1351217534/34）
+  - 「consist of multiple steps [44]. Measuring the performance between」（https://d-nb.info/1351217534/34）
+  - 「these steps, as supported by Frost, can provide useful insights for」（https://d-nb.info/1351217534/34）
+  - 「typically consists of the following steps:」（https://d-nb.info/1351217534/34）
+  - 「duplicates [9, 18]. Typically, this step produces a final similarity」（https://d-nb.info/1351217534/34）
+  - 「heterogeneity of datasets are a crucial step towards finding repre-」（https://d-nb.info/1351217534/34）
+  - 「framework [13] and provides 46 datasets, 20 matching solutions」（https://d-nb.info/1351217534/34）
+  - 「Some data matching execution frameworks also work as (par-」（https://d-nb.info/1351217534/34）
+  - 「frameworks or do not use a framework at all. A newer approach to」（https://d-nb.info/1351217534/34）
+  - 「et al. developed a method for this estimation [33].」（https://d-nb.info/1351217534/34）
+  - 「provides a framework for aggregating soft KPIs and quality metrics」（https://d-nb.info/1351217534/34）
+  - 「To achieve this, Snowman optimizes every step of the evaluation」（https://d-nb.info/1351217534/34）
+  - 「and Snowman a significant step in the direction of a standardized」（https://d-nb.info/1351217534/34）
+  - 「ing Record Linkage Methods. Technical Report wp-grlc-2012-01. German Record」（https://d-nb.info/1351217534/34）
+- 突き合わせ・推定：
+  - 「so that they can estimate the performance of different matching」（https://d-nb.info/1351217534/34）
+  - 「the performance estimated in this way is only meaningful if both」（https://d-nb.info/1351217534/34）
+  - 「dataset is unknown, these numbers have to be estimated. Heise」（https://d-nb.info/1351217534/34）
+  - 「metrics and evaluation strategies that try to estimate matching」（https://d-nb.info/1351217534/34）
+  - 「Chaudhuri et al. [7] can estimate the quality of the whole match-」（https://d-nb.info/1351217534/34）
+  - 「viations from the majority votes can be used to estimate the」（https://d-nb.info/1351217534/34）
+  - 「the ability to aggregate metrics. For example, to estimate costs, the」（https://d-nb.info/1351217534/34）
+- 一次情報の探し方：
+  - 「with traditional profiling metrics and three new metrics for mea-」（https://d-nb.info/1351217534/34）
+  - 「solely on profiling benchmark datasets and grouped 21 benchmarks」（https://d-nb.info/1351217534/34）
+  - 「according to five profiling metrics, namely schema complexity, tex-」（https://d-nb.info/1351217534/34）
+  - 「profiling metrics allow for better comparability of quality metrics」（https://d-nb.info/1351217534/34）
+  - 「sidered. Moreover, profiling metrics that measure the difficulty or」（https://d-nb.info/1351217534/34）
+  - 「Frost supports a wide range of profiling metrics for measuring」（https://d-nb.info/1351217534/34）
+  - 「dataset’s difficulty together with additional profiling dimensions.」（https://d-nb.info/1351217534/34）
+  - 「real-world matching task. A suitability score based on profiling」（https://d-nb.info/1351217534/34）
+  - 「[49] Anna Primpeli and Christian Bizer. 2020. Profiling Entity Matching Benchmark」（https://d-nb.info/1351217534/34）
+  - 「http://ceur-ws.org/Vol-1486/paper_43.pdf」（https://d-nb.info/1351217534/34）
+- 失敗・落とし穴：
+  - 「partition. While this technique is unbiased, it may also only」（https://d-nb.info/1351217534/34）
+  - 「1. This technique has the advantage of unbiasedly representing」（https://d-nb.info/1351217534/34）
+  - 「occurrences within an attribute do not bias the𝑛𝑢𝑙𝑙𝑅𝑎𝑡𝑖𝑜 . Calculat-」（https://d-nb.info/1351217534/34）
+  - 「[2] Tobias Bachteler and Jörg Reiher. 2012.TDGen: A Test Data Generator for Evaluat-」（https://d-nb.info/1351217534/34）
+  - 「[58] Tobias Vogel, Arvid Heise, Uwe Draisbach, Dustin Lange, and Felix Naumann.」（https://d-nb.info/1351217534/34）
+- 実例：
+  - 「figure shows the ground truth matches that Examplerun-1 found」（https://d-nb.info/1351217534/34）
+  - 「and Examplerun-2 did not find.」（https://d-nb.info/1351217534/34）
+  - 「detect when a pair of records is a duplicate. An example rule in the」（https://d-nb.info/1351217534/34）
+  - 「other hand, are trained by domain experts who label example pairs」（https://d-nb.info/1351217534/34）
+  - 「To find the best matching solution for a specific use case and to help」（https://d-nb.info/1351217534/34）
+  - 「having a high relevance for common use cases, such as fine-tuning」（https://d-nb.info/1351217534/34）
+  - 「industry use cases with datasets lacking a ground truth.」（https://d-nb.info/1351217534/34）
+  - 「algorithm specific to the use case can be applied [20, 31].」（https://d-nb.info/1351217534/34）
+  - 「about matching solutions in Section 4. Finally, we showcase Snow-」（https://d-nb.info/1351217534/34）
+  - 「tuality, sparsity, development set size, and corner cases [49]. Such」（https://d-nb.info/1351217534/34）
+  - 「ration dashboard to analyze matching results, for example the influ-」（https://d-nb.info/1351217534/34）
+  - 「its use-cases are rather limited, as it also does not allow general」（https://d-nb.info/1351217534/34）
+  - 「called corner cases [49] to push matching solutions to their limits」（https://d-nb.info/1351217534/34）
+  - 「be compatible with the objectives of the evaluation. For example,」（https://d-nb.info/1351217534/34）
+  - 「the real-world scenario as defined by the use case (e.g., matching」（https://d-nb.info/1351217534/34）
