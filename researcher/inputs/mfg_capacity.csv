@@ -37,3 +37,7 @@
 e-Stat の製造業 統計表ファイル（産業細分類×従業者規模・加工賃収入額）,e-Stat economic structure survey manufacturing establishments table by detailed industry and size xlsx,site:e-stat.go.jp 経済構造実態調査 製造業事業所調査 産業別 従業者規模別 加工賃収入額;filetype:xlsx 経済構造実態調査 製造業事業所調査 産業細分類 従業者規模;filetype:xls 工業統計表 産業編 従業者規模別 加工賃収入額,一次・統計表
 中小企業実態基本調査 製造業 産業中分類×従業者規模 売上高・従業者数,SME basic survey Japan manufacturing sales per employee by industry and size,site:chusho.meti.go.jp 中小企業実態基本調査 産業中分類 従業者規模 売上高;中小企業実態基本調査 確報 金属製品製造業 1企業当たり売上高 従業者数;e-Stat 中小企業実態基本調査 製造業 従業者規模別,一次・推定の切り口
 上場の受託加工会社のEDINET有報（従業員数・売上高・設備の新設計画）,EDINET annual securities report contract manufacturing employees net sales,site:disclosure2.edinet-fsa.go.jp 熱処理 有価証券報告書 従業員の状況;有価証券報告書 めっき加工 従業員数 売上高 提出会社;有価証券報告書 金属加工 受託 設備の新設 従業員の状況,一次・有報
+全国鍍金工業組合連合会の組合員数・従業者数の推移（めっき・2本目の出どころ）,Japan electroplating association member count employees trend,全国鍍金工業組合連合会 組合員数 推移;全鍍連 事業所数 従業員数 統計;めっき業 事業所数 推移 経済センサス 2462,裏付け・めっき
+規模別の同じ表で1人あたり加工賃が規模の内側でも上がったか（生き残り・構成変化の確認・4-25）,processing fee per employee within size class trend survivorship check Japan manufacturing,工業統計 従業者規模別 加工賃収入額 従業者数 2010 2015 2019 産業中分類;経済構造実態調査 従業者規模別 加工賃収入額 2021 2022 2023;filetype:xlsx 工業統計 従業者規模別 産業中分類 加工賃収入額,生存の偏り・規模別
+鉱工業指数 生産能力指数・稼働率指数（金属製品・はん用機械・業種別の10年）,METI industrial production capacity utilization index by industry Japan,site:meti.go.jp 鉱工業指数 生産能力指数 稼働率指数 業種別;製造工業生産能力指数 金属製品工業 推移;稼働率指数 2015年基準 業種別 長期時系列,一次・能力の代理
+日本鍛造協会・日本鍛圧機械工業会の鍛造品生産量・事業所数,Japan forging association production volume establishments,日本鍛造協会 鍛造品 生産量 推移;型鍛造品 生産実績 統計 日本鍛造協会;鍛造 事業所数 従業者数 工業統計,一次・鍛造

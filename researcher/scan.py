@@ -4,7 +4,11 @@ out/<テーマ>/companies/*.json の引用から「年・数字・単位・出�
 同じ品目・同じ年に「金額」と「人数」の両方があれば、金額÷人数を【推定】1人あたりとして出す（式と出典件数つき）。
 出力：out/<テーマ>/cross.csv（全数字）、out/<テーマ>/scan_auto.md（品目ごとの結論の下書き）。解釈の最終判断は scan.md（Claude）で行う。"""
 import csv, glob, json, os, re, statistics, sys, unicodedata
-from urllib.parse import urlparse
+from urllib.parse import urlparse as _raw_urlparse
+def urlparse(u):
+    """全角文字入りの壊れたURLで落ちないようにする（search.py の ValueError と同じ失敗から）。"""
+    try: return _raw_urlparse(u or "")
+    except ValueError: return _raw_urlparse("")
 
 OUT = os.path.join(os.path.dirname(__file__), "out")
 PRIMARY = re.compile(r"(\.go\.jp|xbrl|kanpo|houjin-bangou|\.lg\.jp|e-stat|edinet|jpx\.co\.jp|boj\.or\.jp|jil\.go|meti|mhlw|stat\.go|\.or\.jp|\.ac\.jp|ir\.|/ir/|disclosure)")
@@ -237,6 +241,11 @@ def scan(topic):
         for r in rs: groups.setdefault((r["区分"], r["文脈"], r["単位"]), []).append(r)
         for (cat, ctx, u), g in sorted(groups.items(), key=lambda kv: -len(kv[1])):
             if len(g) < 2 or u in ("件",): continue
+            # 2026-11-05 走査の失敗から：「社員数・平均社員数」の欄に万円・%、「事業所数・社数」の欄に%が入り、【裏付けあり】と出た（mfg_capacity の中小企業実態基本調査・金型）。
+            # 欄の型と単位が合わない数字は、その欄の事実にしない（4-8 の欄ごとの型の確認を走査にも当てる）。件数だけ出して確度は付けない
+            if (cat.startswith("社員数") and u not in ("人",)) or (cat.startswith("事業所数") and u not in ("事業所", "社")):
+                md.append(f"- ⚠ 欄と単位が合わない：{cat}［{ctx}］に（{u}）が{len(g)}件。別の欄の混入なので確度を付けず、結論に使わない")
+                continue
             vals = [r["値"] for r in g]; prim = [r for r in g if r["一次"] == "一次"]
             lo, hi = min(vals), max(vals)
             spread = f"{hi/lo:.1f}倍" if lo > 0 else "-"
@@ -250,6 +259,12 @@ def scan(topic):
             gr = grade(g)
             md.append(f"- {gr} {cat}［{ctx}］（{u}）：{len(g)}件・一次{len(prim)}件・出典{len({src_key(r) for r in g})}か所（調査会社は1つに束ねる）・予測値{len(fut)}件、幅 {lo:g}〜{hi:g}（食い違い{spread}）")
             md.append(f"  - 書き方（4-23）：{phrasing(gr, g)}")
+            # 2026-11-05 4-25：証拠の量に引っ張られない（Heuer の競合仮説分析：大量の証拠に見えても出どころが偏れば強さではない）。
+            # 4件以上の欄で1か所のホストが半分超を出していれば、件数でなく出どころの数で読むよう印す
+            hc = {}
+            for r in g: hc[src_key(r)] = hc.get(src_key(r), 0) + 1
+            top_h, top_n = max(hc.items(), key=lambda kv: kv[1])
+            if len(g) >= 4 and top_n * 2 > len(g): md.append(f"  - ⚠ 1か所に偏り：{len(g)}件のうち{top_n}件が {top_h}。件数ではなく出どころの数（{len(hc)}か所）で確度を読む")
             ec = echoes(g)
             if ec: md.append("  - ⚠ 写しの疑い（一次でない別々の出どころが同じ値をぴったり持つ。1件に束ねて数えた）：" + "、".join(f"{v:g}{u}が{n}か所" for v, n in sorted(ec.items())[:5]) + "。元（統計・開示・調査）までたどる")
             if len({src_key(r) for r in g}) == 1: thin.append(f"{item}｜{cat}［{ctx}］")
@@ -303,6 +318,17 @@ def scan(topic):
             # 2026-11-05 4-17：黒字の会社の1人あたり売上・加工賃は1人あたり給与を下回らない（給与が下限）。下回る年は別物の混入か定義違い
             low = [y for y, v in ratio.items() if v < 1]
             if low: md.append("  - ⚠ 給与の下限割れ：" + "、".join(f"{y}年" for y in sorted(low)) + "（1人あたり金額が給与より小さい。付加価値・利益など別の欄の混入か、事業所と企業の取り違えを疑う）")
+        # 2026-11-05 4-25：生き残りの偏り・構成の変化（社会構想デザイン機構の統計リテラシー：廃業した先は統計から消える）。
+        # 1あたりの金額が上がり、同じ期間に事業所・社の数が下がっていれば、能力が上がったのではなく小さい先が退出しただけの可能性がある
+        cnt = {}; unit = {}
+        for r in rs:
+            if not r["年"] or r["予測"]: continue
+            if r["単位"] in ("事業所", "社"): cnt.setdefault(int(r["年"]), []).append(r["値"])
+            if r["単位"] == "万円" and ("あたり" in r["区分"] or re.search(r"(あたり|当たり|平均)", r["引用"])): unit.setdefault(int(r["年"]), []).append(r["値"])
+        cm = {y: statistics.median(v) for y, v in cnt.items()}; um = {y: statistics.median(v) for y, v in unit.items()}
+        tc, tu = trend(cm), trend(um)
+        if tc.startswith("下降") and tu.startswith("上昇"):
+            md.append(f"  - ⚠ 生き残り・構成変化の疑い：1あたり金額は{tu}、同じ品目の事業所・社の数は{tc}。規模別に分けた同じ表で、規模の内側でも上がっているかを確かめるまで「能力が上がった」と書かない")
         md.append("")
     # 2026-11-05 4-19：何が見つからなかったかを書く（範囲の明示）。数字が1つも取れなかった品目を並べる
     names = set()
@@ -314,6 +340,16 @@ def scan(topic):
     back = [r for r in rows if r.get("元へ戻る")]
     md += [f"## 元へ戻って取り直す数字（記事が一次を名指し・{len(back)}件・4-24）",
            *(f"- {r['品目']}｜{r['値']:g}{r['単位']}（{r['年'] or '年不明'}年）｜{r['出典']}：{r['引用'][:60]}" for r in back[:15]), *(["（なし）"] if not back else []), ""]
+    # 2026-11-05 4-25：再調査の条件を結果と一緒に残す（Deskrex のデスクリサーチ自動化：見直し期限と再調査条件を台帳に書く）。
+    # 取得から7日を超えた品目は取り直しの対象として並べる（control.yaml の run: true にする目安）
+    import datetime
+    today = datetime.date.today(); stale = []
+    for item, rs in sorted(by_item.items()):
+        ds = [r["取得日"] for r in rs if re.match(r"\d{4}-\d{2}-\d{2}$", r["取得日"] or "")]
+        if ds:
+            age = (today - datetime.date.fromisoformat(max(ds))).days
+            if age > 7: stale.append(f"- {item}：最後の取得 {max(ds)}（{age}日前）")
+    md += ["## 再調査の条件（取得から7日超・4-25）", *(stale or ["（なし）"]), ""]
     md += ["## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）", *(f"- {t}" for t in thin or ["（なし）"]), ""]
     md += ["## 数字が1つも取れなかった品目（範囲の明示）", *(f"- {n}" for n in empty or ["（なし）"]), ""]
     open(os.path.join(OUT, topic, "scan_auto.md"), "w", encoding="utf-8").write("\n".join(md))

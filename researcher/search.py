@@ -38,7 +38,11 @@ def yahoo_japan(query: str, n: int = 10) -> list[dict]:
     for a in soup.select("a"):
         h = a.find("h3")
         href = a.get("href", "")
-        if not h or not href.startswith("http") or "yahoo.co.jp" in urllib.parse.urlparse(href).netloc:
+        try:  # 2026-11-05 HEALTH（recruit_pr_verify）：「関連記事：…」のような全角文字のリンクで urlparse が ValueError を出して全体が落ちた。壊れたリンクは飛ばす
+            bad = "yahoo.co.jp" in urllib.parse.urlparse(href).netloc
+        except ValueError:
+            bad = True
+        if not h or not href.startswith("http") or bad:
             continue
         box = a.find_parent("div")
         snip = box.get_text(" ", strip=True)[:300] if box else ""
