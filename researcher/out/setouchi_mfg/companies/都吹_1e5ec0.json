@@ -1,0 +1,964 @@
+{
+ "name": "都吹",
+ "aliases": [],
+ "context": "広島県／出典:県・市の企業ガイド／求人媒体:Indeed／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T07:01:39.375510+00:00",
+ "official_url": "https://catr.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "東京都新宿区愛住町22番地 同じ住所の会社を検索",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "東京都 新宿区 愛住町 22 第3山田ビル トウキヨウト シンジユクク アイズミチヨウ 22 ダイ3ヤマダビル",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "北海道岩内郡共和町梨野舞納2番地の119",
+    "url": "https://catr.jp/company-split/11637",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "北海道札幌市中央区南十一条西18丁目2番1号",
+    "url": "https://catr.jp/company-split/11637",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "千葉県市川市南行徳1丁目22番29号",
+    "url": "https://catr.jp/company-split/11642",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県さいたま市大宮区浅間町1丁目4番地2",
+    "url": "https://catr.jp/company-split/11642",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県さいたま市大宮区浅間町1丁目4番地2",
+    "url": "https://catr.jp/company-split/11643",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県さいたま市大宮区大門町1丁目45番地2",
+    "url": "https://catr.jp/company-split/11643",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県さいたま市大宮区大門町1丁目45番地2",
+    "url": "https://catr.jp/company-split/11644",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県さいたま市大宮区浅間町1丁目4番地2",
+    "url": "https://catr.jp/company-split/11644",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "大阪市天王寺区上本町6丁目5番13号",
+    "url": "https://catr.jp/company-split/11645",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "大阪市天王寺区上本町6丁目1番55号",
+    "url": "https://catr.jp/company-split/11645",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "5億8500万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "19億2400万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "1億600万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "13億8500万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "79億6600万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "180億6800万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "8億8400万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "20億1500万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "80億8400万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "8億2800万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "25億8100万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "321億6400万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "4億5300万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "91億7900万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "177億8900万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1億4400万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1億5300万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "48億1300万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1億3500万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "9億3200万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "566億3700万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1億200万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "21億2800万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "58億8300万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "▲2696万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2081万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "5億723万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "▲799万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "23億3200万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲5億200万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲8億9700万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲9億2900万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "15億8500万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "53億3100万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "17億5100万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲7200万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲7億8600万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲6900万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "15億7700万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "24億7300万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "7億4700万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲2億4700万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲2億9000万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲9億6100万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "7億7600万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "15億3400万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "9億4100万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲2億4300万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲2億9600万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲3億4700万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "8億1200万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "13億5300万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "9億1900万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲3億2941万円",
+    "url": "https://catr.jp/company-split/11645",
+    "pass": 1
+   },
+   {
+    "quote": "56億9300万円",
+    "url": "https://catr.jp/company-split/11645",
+    "pass": 1
+   },
+   {
+    "quote": "29億6000万円",
+    "url": "https://catr.jp/company-split/11645",
+    "pass": 1
+   },
+   {
+    "quote": "6196億3300万円",
+    "url": "https://catr.jp/company-split/11645",
+    "pass": 1
+   },
+   {
+    "quote": "年収500万円〜600万円 / 昇給あり",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円〜400万円 / 昇給あり",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "都吹株式会社 【島根/益田※転勤無】冷凍食品の工場長候補＜新工場の立ち上げに携わる＞年間休日122日◇異業界歓迎！ 【仕事内容】 【島根/益田※転勤無】冷凍食品の工場長候補＜新工場の立ち上げに携わる＞年間休日122日◇異業界歓迎！ 【具体的な仕事内容】 【大型投資プロジェクトの中核人材！将来の経営幹部候補としてご活躍／前職年収保証など、柔軟な処遇相談が可能／売上高も右肩上がり！】 ■業務概要 冷凍食品製造当社益田工場の工場長候補として、工場全体の運営・マネジメントを幅広く担当いただきます",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "「益田市」工場長候補／管理職／年収380万円／500万円",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円〜549万円",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "【応募資格】 [必須] 不問 【求める人物像】 ・コミュニケーションがしっかりと取れる方 ・機械を触るのが得意な方 [歓迎] 製造業での勤務経験、管理職経験 【フィットする人物像】 応募資格をご覧下さい 【職種名】 【益田市】工場長候補（管理職）（年収380万円～500万円） 【仕事内容】 ☆冷凍豆腐、冷凍厚揚げの需要は近年増え続けており、国内でもトップクラスのシェアを有しています！ ☆2025年度より年間休日が、昨年度より８日増え、１２２日になりました！ ■担当業務詳細：製造ラインのオペレーション、機械メンテナンス、生産管理 メイン業務/機械のトラブル対応、保全業務 その他業務、一日の",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "三菱ケミカルグループ株式会社(81)",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱商事株式会社(281)",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "島根／益田／転勤無／冷凍食品の工場長候補／製造業経験活かしてキャリアアップ／日勤・年間休日122日",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "都吹株式会社 【島根/益田※転勤無】冷凍食品の工場長候補＜製造業経験活かしてキャリアアップ＞日勤・年間休日122日 【仕事内容】 【島根/益田※転勤無】冷凍食品の工場長候補＜製造業経験活かしてキャリアアップ＞日勤・年間休日122日 【具体的な仕事内容】 【新工場の立ち上げに携わる／大型投資プロジェクトの中核人材！工場長候補としてキャリアアップ◎経営幹部も目指せるキャリアパス／売上高も右肩上がり】 ■業務概要 冷凍食品製造当社益田工場の工場長候補として、工場全体の運営・マネジメントを幅広く担当いただきます",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "約30億円規模の新設・拡張工場で、生産管理・労務管理・安全衛生管理・コスト管理など",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "未経験歓迎／益田市／転勤無／冷凍食品の製造職／工場運営が目指せるポジション／日勤・年間休日122日",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "都吹株式会社 未経験歓迎◎【益田市※転勤無】冷凍食品の製造職＜工場運営が目指せるポジション＞日勤・年間休日122日 【仕事内容】 未経験歓迎◎【益田市※転勤無】冷凍食品の製造職＜工場運営が目指せるポジション＞日勤・年間休日122日 【具体的な仕事内容】 【未経験の方も安心！OJTでしっかりサポート◎工場運営のノウハウが学べる／新工場の立ち上げに携わる！キャリアアップが目指せる／売上高も右肩上がり】 ■業務概要 冷凍食品製造当社益田工場の工場長候補として、工場全体の運営・マネジメントを幅広く担当いただきます",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "約30億円規模の新設・拡張工場で、生産管理・労務管理・安全衛生管理・コスト管理な",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "島根／益田／転勤無／冷凍食品の工場長候補／新工場の立ち上げに携わる／年間休日122日異業界歓迎！",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "都吹株式会社 【島根/益田※転勤無】冷凍食品の工場長候補＜新工場の立ち上げに携わる＞年間休日122日◇異業界歓迎！ 【仕事内容】 【島根/益田※転勤無】冷凍食品の工場長候補＜新工場の立ち上げに携わる＞年間休日122日◇異業界歓迎！ 【具体的な仕事内容】 【大型投資プロジェクトの中核人材！将来の経営幹部候補としてご活躍／前職年収保証など、柔軟な処遇相談が可能／売上高も右肩上がり！】 ■業務概要 冷凍食品製造当社益田工場の工場長候補として、工場全体の運営・マネジメントを幅広く担当いただきます",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "約30億円規模の新設・拡張工場で、生産管理・労務管理・安全衛生管理・コスト管理など工場運営の中核を",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "「益田市」工場長候補／管理職／年収380万円／500万円",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "【応募資格】 [必須] 不問 【求める人物像】 ・コミュニケーションがしっかりと取れる方 ・機械を触るのが得意な方 [歓迎] 製造業での勤務経験、管理職経験 【フィットする人物像】 応募資格をご覧下さい 【職種名】 【益田市】工場長候補（管理職）（年収380万円～500万円） 【仕事内容】 ☆冷凍豆腐、冷凍厚揚げの需要は近年増え続けており、国内でもトップクラスのシェアを有しています！ ☆2025年度より年間休日が、昨年度より８日増え、１２２日になりました！ ■担当業務詳細：製造ラインのオペレーション、機械メンテナンス、生産管理 メイン業務/機械のトラブル対応、保全業務 その他業務、一日の",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "益田工場／食品工場長候補／新工場立ち上げ大規模投資プロジェクト裁量大経営幹部候補",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "都吹株式会社 【益田工場】食品工場長候補／新工場立ち上げ◆大規模投資プロジェクト◆裁量大◆経営幹部候補 【仕事内容】 【益田工場】食品工場長候補／新工場立ち上げ◆大規模投資プロジェクト◆裁量大◆経営幹部候補 【具体的な仕事内容】 【30億円規模の新工場プロジェクト／工場長候補として成長フェーズを牽引／経営層と近い距離でキャリアアップを目指せるポジションです】 ■業務概要 冷凍食品製造当社益田工場の工場長候補として、工場全体の運営・マネジメントを幅広く担当いただきます",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "約30億円規模の新設・拡張工場で、生産管理・労務管理・安全衛生管理・コスト管理など工場運営の中核を担います",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項 【雇用形態】 正社員 【給与】 月給 303,800円～420,000円 【勤務地】 東京都八王子市戸吹町２１０３ 募集情報 ・日払いあり・社宅あり ・未経験スタート多数！安心の研修制度あり ・シンプル作業で覚えやすい ・コツコツ作業が好きな方に最適 ・安定した収入＆長期勤務可能 【仕事内容】 日払い・社宅あり 工場内にて製品の製造・加工・検品・梱包などをお任せします",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "【製造職】シフト休／年休130日／残業10時間未満／東証プライム上場グループ／日本を代表するモノづくり企業を中心に大手製造業各社との信頼関係を構築／文系未経験から挑戦可能です！ 【業務内容】 工場製造品目：勤務地により自動車や半導体などの製造 職種：勤務地により組立や機械加工、検査など 入社後は同社請負現場にて勤務して頂きます",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "調理の時短や効率化に貢献する冷凍食品の専門メーカーとして、取引先の要望に応じた受託生産を強みに発展",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242697/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に健康志向の需要にマッチした豆腐の加工品では、原料となる豆腐から自社の工場で製造することで、安心で安全な製品の安定供給を実現しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242697/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "こだわりの豆腐ハンバーグや、豆腐と野菜や魚介類などを組み合わせたオリジナル製品の開発のほか、近年はたい焼き・ワッフル製品など幅広いアイテムを揃え、取引先のオーダーに応じたOEM（相手先ブランド製造）でも実績を築いています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242697/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社ではこれらを専用の加工・生産ラインで対応し、携わる社員全員が自信を持って取引先や消費者へ商品をお届けしています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242697/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社の開発・検査部門や工場は、食品に必須の厳しい安全・品質基準をクリアして、クリーンかつセキュリティに優れた環境を維持",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242697/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "三原市にある本社のほかに、広島県内、島根県と鹿児島県にも自社工場を置き、営業・開発・生産の連携体制を整え、きめ細やかな対応ができることも当社の強みです",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242697/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・久井第1工場",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242697/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・久井第2工場",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242697/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "都吹、約30億円投じ島根工場を増設、冷凍食品の生産体制を拡充｜kikai-news.net 産機通信",
+    "url": "https://note.com/sankituushin/n/na1e8c2e07b0d",
+    "pass": 3
+   },
+   {
+    "quote": "都吹、約30億円投じ島根工場を増設、冷凍食品の生産体制を拡充",
+    "url": "https://note.com/sankituushin/n/na1e8c2e07b0d",
+    "pass": 3
+   },
+   {
+    "quote": "都吹（広島県世羅郡世羅町）は10月16日、冷凍絹厚揚げの需要拡大と冷凍豆腐の新規受注に対応するため、島根県益田市の石見臨空ファクトリーパーク内にある島根工場を増設すると発表した",
+    "url": "https://note.com/sankituushin/n/na1e8c2e07b0d",
+    "pass": 3
+   },
+   {
+    "quote": "国内外に販路を拡大し、2019年には益田市に島根工場を開設",
+    "url": "https://note.com/sankituushin/n/na1e8c2e07b0d",
+    "pass": 3
+   },
+   {
+    "quote": "冷凍絹厚揚げの生産拠点として、開設から7年間で40名を超える雇用を創出してきた",
+    "url": "https://note.com/sankituushin/n/na1e8c2e07b0d",
+    "pass": 3
+   },
+   {
+    "quote": "今回の計画では、既存敷地内で工場の増築と生産設備の増強を実施し、冷凍絹厚揚げと冷凍豆腐の生産体制を拡充する",
+    "url": "https://note.com/sankituushin/n/na1e8c2e07b0d",
+    "pass": 3
+   },
+   {
+    "quote": "10月23日には県庁で立地計画認定書の交付と調印式を行い、都吹、島根県、益田市の三者が工場等の立地に関する覚書を締結する",
+    "url": "https://note.com/sankituushin/n/na1e8c2e07b0d",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "都吹株式会社 正社員の求人・転職・中途採用｜スタンバイでお仕事探し",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項 【雇用形態】 正社員 【給与】 月給 303,800円～420,000円 【勤務地】 東京都八王子市戸吹町２１０３ 募集情報 ・日払いあり・社宅あり ・未経験スタート多数！安心の研修制度あり ・シンプル作業で覚えやすい ・コツコツ作業が好きな方に最適 ・安定した収入＆長期勤務可能 【仕事内容】 日払い・社宅あり 工場内にて製品の製造・加工・検品・梱包などをお任せします",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "都吹(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242697/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただいま会社説明会のエントリー受付中です！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242697/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242697/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242697/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "都吹 株式会社 正社員の 求人 ・転職・中途採用 - スタンバイ — 都吹 株式会社 正社員の 求人 ・転職・中途採用 - スタンバイ スタンバイ https://jp.stanby.com > 正社員",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "都吹 株式会社の平均 年収 、年間給与所得情報 - doda — 都吹 株式会社の平均 年収 、年間給与所得情報 - doda doda https://doda.jp > CompanyIncome > j_id__10003330635",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10003330635/",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報 都吹 株式会社/冷凍食品製造販売 — 採用情報 都吹 株式会社/冷凍食品製造販売 都吹株式会社 https://www.tubuki.co.jp > recruit > shinsotu",
+    "url": "https://www.tubuki.co.jp/recruit/shinsotu.html",
+    "pass": 3
+   },
+   {
+    "quote": "都吹 「社員クチコミ」 就職・転職の採用企業 ... - OpenWork — 都吹 「社員クチコミ」 就職・転職の採用企業 ... - OpenWork OpenWork https://www.openwork.jp > 食品、飲料",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C10000014tQQQ",
+    "pass": 3
+   },
+   {
+    "quote": "【益田市】工場長候補(管理職) 都吹 株式会社 - パソナキャリア — 【益田市】工場長候補(管理職) 都吹 株式会社 - パソナキャリア パソナキャリア https://www.pasonacareer.jp > ... > プロジェクト管理",
+    "url": "https://www.pasonacareer.jp/job/83126874/",
+    "pass": 3
+   },
+   {
+    "quote": "都吹 (株)の 新卒採用 ・会社概要 | マイナビ2027 — 都吹 (株)の 新卒採用 ・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp242697 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242697/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用 情報 都吹 株式会社/冷凍食品製造販売 — 採用 情報 都吹 株式会社/冷凍食品製造販売 都吹株式会社 https://www.tubuki.co.jp > recruit > shinsotu",
+    "url": "https://www.tubuki.co.jp/recruit/shinsotu.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用 情報 都吹 株式会社/冷凍食品製造販売 — 採用 情報 都吹 株式会社/冷凍食品製造販売 都吹株式会社 https://www.tubuki.co.jp > recruit",
+    "url": "https://www.tubuki.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "都吹 株式会社 正社員の求人・転職・中途 採用 - スタンバイ — 都吹 株式会社 正社員の求人・転職・中途 採用 - スタンバイ スタンバイ https://jp.stanby.com > 正社員",
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "pass": 3
+   },
+   {
+    "quote": "都吹 株式会社 の求人・中途 採用 情報 - doda — 都吹 株式会社 の求人・中途 採用 情報 - doda doda https://doda.jp > CompanyJobs > j_id__10003330635",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10003330635/",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "都吹(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242697/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242697/outline.html",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "ただいま会社説明会のエントリー受付中です！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242697/outline.html",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "メキメキと頭角を現している若手社員3名の活躍にフォーカス！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp242697/outline.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "都吹 、約30億円投じ島根工場を増設、冷凍食品の生産体制を拡充 都吹 、約30億円投じ島根工場を増設、冷凍食品の生産体制を拡充 note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/sankituushin/n/na1e8c2e07b0d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "都吹、約30億円投じ島根工場を増設、冷凍食品の生産体制を拡充｜kikai-news.net 産機通信",
+    "url": "https://note.com/sankituushin/n/na1e8c2e07b0d",
+    "pass": 3
+   },
+   {
+    "quote": "都吹、約30億円投じ島根工場を増設、冷凍食品の生産体制を拡充",
+    "url": "https://note.com/sankituushin/n/na1e8c2e07b0d",
+    "pass": 3
+   },
+   {
+    "quote": "都吹（広島県世羅郡世羅町）は10月16日、冷凍絹厚揚げの需要拡大と冷凍豆腐の新規受注に対応するため、島根県益田市の石見臨空ファクトリーパーク内にある島根工場を増設すると発表した。投資額は約29億5,300万円で、2027年4月の操業開始を予定している。操業後3年間で23名の雇用増を計画している。",
+    "url": "https://note.com/sankituushin/n/na1e8c2e07b0d",
+    "pass": 3
+   },
+   {
+    "quote": "同社は1984年2月に設立し、調理冷凍食品や豆腐加工品、菓子類などの製造・販売を展開している。国内外に販路を拡大し、2019年には益田市に島根工場を開設。冷凍絹厚揚げの生産拠点として、開設から7年間で40名を超える雇用を創出してきた。",
+    "url": "https://note.com/sankituushin/n/na1e8c2e07b0d",
+    "pass": 3
+   },
+   {
+    "quote": "今回の計画では、既存敷地内で工場の増築と生産設備の増強を実施し、冷凍絹厚揚げと冷凍豆腐の生産体制を拡充する。投資額の内訳は、建物が7億9,900万円、償却資産が21億5,432万8,000円。土地取得への投資はない。",
+    "url": "https://note.com/sankituushin/n/na1e8c2e07b0d",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数は、申請時の43名から操業時に63名へ増加する計画。操業後1年で66名とし、3年間で計23名の雇用増を見込む。",
+    "url": "https://note.com/sankituushin/n/na1e8c2e07b0d",
+    "pass": 3
+   },
+   {
+    "quote": "島根県は、同計画について島根県企業立地促進条例に基づく立地計画として認定する。10月23日には県庁で立地計画認定書の交付と調印式を行い、都吹、島根県、益田市の三者が工場等の立地に関する覚書を締結する。県と益田市は、資金面や人材確保の面で同社を支援・協力する方針で、新たな雇用創出と地域産業の高度化につなげる。",
+    "url": "https://note.com/sankituushin/n/na1e8c2e07b0d",
+    "pass": 3
+   },
+   {
+    "quote": "・事業者：都吹（広島県世羅郡世羅町川尻636-1）",
+    "url": "https://note.com/sankituushin/n/na1e8c2e07b0d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "AI一手on X: \" 都吹 person agent如何如何，这也不行啊 AI一手on X: \" 都吹 person agent如何如何，这也不行啊 X https://x.com > @ffg95477791",
+    "url": "https://x.com/ffg95477791/status/2111773844902211933",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "山打根乜都吹 | Facebook Oct 21, 2026 · 🎉🎶 山打根小香港美食节 2026，约定你！ 🍜🦁 📅 日期：2026年11月6日（星期五） 📍 地点：Sandakan Sport Complex（西埔架综合体育馆） ⏰ 演出时间：傍晚6:00 – 6:30 🍜 美食、文化、欢乐，精彩不间断！ 当天除了有各式各样的美食等着大家来品尝 😋，还有精彩的舞狮表演，为美食节增添热闹喜庆 ...",
+    "url": "https://www.facebook.com/groups/520932998401908/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://catr.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/date/808b5/2026-11-05/company-split",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/c091e/47735",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/company-split/11637",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/company-split/11642",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/company-split/11643",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/company-split/11644",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/company-split/11645",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10003330635/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tubuki.co.jp/recruit/shinsotu.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp242697/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tubuki.co.jp/recruit/shinsotu.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tubuki.co.jp/recruit/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sankituushin/n/na1e8c2e07b0d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ffg95477791/status/2111773844902211933",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/520932998401908/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "都吹 求人 年収",
+   "results": [
+    "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10003330635/",
+    "https://www.tubuki.co.jp/recruit/shinsotu.html",
+    "https://www.openwork.jp/company.php?m_id=a0C10000014tQQQ",
+    "https://www.pasonacareer.jp/job/83126874/",
+    "https://jp.indeed.com/q-%E9%83%BD%E5%90%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%B1%82%E4%BA%BA.html",
+    "https://en-hyouban.com/company/10105831647/user_kuchikomi/5084334/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10003330635/",
+    "https://job.mynavi.jp/27/pc/search/corp242697/recruiting_course27058440/recruiting_course.html",
+    "https://jp.indeed.com/cmp/都吹株式会社/salaries"
+   ]
+  },
+  {
+   "query": "都吹 採用 新卒 高卒",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp242697/outline.html",
+    "https://www.tubuki.co.jp/recruit/shinsotu.html",
+    "https://www.tubuki.co.jp/recruit/",
+    "https://jp.stanby.com/r_58c66e08c72e9763ae2294fae0fb3f1a",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10003330635/",
+    "https://www.openwork.jp/user_answer.php?vid=a0A100000276D7A",
+    "https://www.pasonacareer.jp/job/83126874/",
+    "https://job.mynavi.jp/27/pc/search/corp242697/recruiting_course27058440/recruiting_course.html",
+    "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=242697&recruitingCourseId=27058440",
+    "https://www.tubuki.co.jp/recruit/cyuto.html"
+   ]
+  },
+  {
+   "query": "site:note.com 都吹",
+   "results": [
+    "https://note.com/sankituushin/n/na1e8c2e07b0d",
+    "https://note.com/kei_ookara/n/nf69ff910e4da",
+    "https://note.com/lively_camel781/n/nbd09e9079b3c",
+    "https://note.com/sankituushin/n/nac7d3fc0910f",
+    "https://note.com/hiziki3/n/n82185ac34611",
+    "https://note.com/huidonesu_v/n/n02a58e603c76",
+    "https://note.com/huidonesu_v/n/n33a85f87b93c?hl=en",
+    "https://note.com/kotobuki_10000/n/n87f273d5543c",
+    "https://note.com/rich_serval976/n/nc762076383c7",
+    "https://note.com/huidonesu_v/n/na7e0d9704959"
+   ]
+  },
+  {
+   "query": "site:x.com 都吹",
+   "results": [
+    "https://x.com/gunsui_/status/2043828373999497378",
+    "https://x.com/Soranlan/status/2099643317202096596?lang=cs",
+    "https://x.com/houchishoujo/status/2114711415240216935",
+    "https://x.com/ffg95477791/status/2111773844902211933",
+    "https://x.com/Base_Teru/status/2098155762547855369?lang=ar",
+    "https://x.com/pan_obsess/status/1846429132030464103",
+    "https://x.com/takeda_iori/status/2115324162507981086",
+    "https://x.com/AsahiBrass/status/2098346237137494151",
+    "https://x.com/oldfatfox/status/2114398876199157983",
+    "https://x.com/jakevin7/status/2048656484918243553"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 都吹",
+   "results": [
+    "https://jp.linkedin.com/in/紗耶香-戸田-1a5553359",
+    "https://tw.linkedin.com/in/yuchi-huang",
+    "https://tw.linkedin.com/in/shengwei-hsu-uefi",
+    "https://www.linkedin.com/in/daisylin17",
+    "https://www.linkedin.com/in/behzad-tangeysh-a8bbab47",
+    "https://jp.linkedin.com/in/惟吹-佐藤-754993301",
+    "https://cn.linkedin.com/in/huangweifu"
+   ]
+  },
+  {
+   "query": "site:facebook.com 都吹",
+   "results": [
+    "https://www.facebook.com/groups/520932998401908/",
+    "https://www.facebook.com/groups/151699151669647/",
+    "https://business.facebook.com/groups/1656928111070472/",
+    "https://business.facebook.com/groups/369222533193665/posts/921934871255759/",
+    "https://www.facebook.com/BlowStreetVoice/",
+    "https://www.facebook.com/kuo.small.5/videos/站在旭海草原綿延的綠毯上聽著太平洋傳來的溫柔海浪聲風會吹散過往的疲憊清晨的曙光總會溫柔地擁抱你別著急每一步前行都是在向美好的未來靠近只要勇敢前行你的堅持終將綻放/1779523439983842/",
+    "https://www.facebook.com/chang.denny.2025/videos/有人心虛插旁邊不敢過去了殊不知這十面埋伏無論你有沒有彎進來早已沒有回頭路我的愛藏不住任憑世界無情的擺佈我不怕痛不怕輸只怕是再多努力也無助如果說一切都是天意一切都/1550634116267118/"
+   ]
+  },
+  {
+   "query": "都吹 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ]
+  },
+  {
+   "query": "都吹 X 投稿",
+   "results": [
+    "https://x.com/shibuki0401",
+    "https://x.com/Shiobuki_Asuka/status/2091374446322012564",
+    "https://search.yahoo.co.jp/realtime/search/＃汐吹あすか/",
+    "https://ppp.porn/v/q21lwg/",
+    "https://www.pixiv.net/artworks/151513996",
+    "https://myfans.jp/",
+    "https://www.xvideos.com/tags/素人-投稿"
+   ]
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部9頁・検索8回）",
+  "資本金": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部9頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部9頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部9頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部9頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部9頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部9頁・検索8回）"
+ }
+}

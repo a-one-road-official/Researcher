@@ -1,0 +1,845 @@
+{
+ "name": "ニホンケミカル",
+ "aliases": [],
+ "context": "広島県三原市／出典:県・市の企業ガイド／求人媒体:Indeed;doda;エン転職／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T07:12:36.712162+00:00",
+ "official_url": "https://www.nihonchemical.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1,000万円",
+    "url": "https://www.nihonchemical.co.jp/about/company.html",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "10百万円",
+    "url": "https://en-hyouban.com/company/10105686941/salary/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "1000万円",
+    "url": "https://syukatsu-kaigi.jp/companies/5781",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "〒729-0413 広島県三原市本郷町南方8827-1 TEL (0848)86-6363 FAX (0848)86-6714",
+    "url": "https://www.nihonchemical.co.jp/about/company.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "広島県三原市本郷町南方8827番地の1",
+    "url": "https://en-hyouban.com/company/10105686941/salary/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒729-0413 広島県三原市本郷町南方8827番地の1",
+    "url": "https://syukatsu-kaigi.jp/companies/5781",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "東京都",
+    "url": "https://syukatsu-kaigi.jp/companies/5781",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "宮城県",
+    "url": "https://syukatsu-kaigi.jp/companies/5781",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "24名",
+    "url": "https://en-hyouban.com/company/10105686941/salary/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "13人",
+    "url": "https://syukatsu-kaigi.jp/companies/5781",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立年",
+    "value": "設立年：1967年",
+    "url": "https://en-hyouban.com/company/10105686941/salary/",
+    "pass": 3
+   },
+   {
+    "label": "設立日",
+    "value": "設立日：1977年5月",
+    "url": "https://syukatsu-kaigi.jp/companies/5781",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "石田雅裕",
+    "url": "https://en-hyouban.com/company/10105686941/salary/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "石田雅裕",
+    "url": "https://syukatsu-kaigi.jp/companies/5781",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "ご要望通りの加工と、ご希望通りの納期、全国の拠点で連携しあいどちらも可能にします",
+    "url": "https://www.nihonchemical.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "わたしたちは1967年創業以来、造船、橋梁、プラント、建築、鉄道、航空宇宙など幅広い分野のお客様のものづくりに携わってきました",
+    "url": "https://www.nihonchemical.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "尾道第一工場、尾道第二工場について",
+    "url": "https://www.nihonchemical.co.jp/about/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "同時に東日本の需要に応えるべく浦安工場竣工",
+    "url": "https://www.nihonchemical.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "広島県尾道市向島町日立造船旧向島西工場内に尾道工場を竣工し、造船用型鋼の切断・曲げ加工を開始",
+    "url": "https://www.nihonchemical.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "兵庫県赤穂郡上郡町に赤穂工場を開設し、ステンレス鋼管の内面ショットピーニング加工を開始",
+    "url": "https://www.nihonchemical.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)三原工場ショットラインを本社工場C棟に移設",
+    "url": "https://www.nihonchemical.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "赤穂工場設備本社工場移設（SUS第1工場）し、ステンレス鋼管の内面ショットピーニング加工を開始",
+    "url": "https://www.nihonchemical.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレス鋼管内面ショットピーニング加工工場増設（SUS第2工場）",
+    "url": "https://www.nihonchemical.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "本社B棟、浦安工場ショットラインを改造し、本社・浦安2.3mmから加工可能体制に強化",
+    "url": "https://www.nihonchemical.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "本社工場C棟の形鋼切断・曲げ設備を尾道工場同敷地内へ移設（尾道第二工場）",
+    "url": "https://www.nihonchemical.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "浦安第二工場（㈱ショット・サービス）を浦安市港12番地に移転し、ショット設備一式をリプレースして稼働開始",
+    "url": "https://www.nihonchemical.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、就業環境を少しでも改善できるように○億円規模で設備投資を行うなど、",
+    "url": "https://www.nihonchemical.co.jp/recruit/skill.html",
+    "pass": 1
+   },
+   {
+    "quote": "（入社後、半年程度の工場研修あり）",
+    "url": "https://www.nihonchemical.co.jp/recruit/sales.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、就業環境を少しでも改善できるように○億円規模で設備投資を行うなど、",
+    "url": "https://www.nihonchemical.co.jp/recruit/sales.html",
+    "pass": 1
+   },
+   {
+    "quote": "広島県三原市／株式会社メタルプロ （本社工場・尾道工場 所掌）",
+    "url": "https://www.nihonchemical.co.jp/lp/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "千葉県浦安市／株式会社エヌシーエス （浦安工場 所掌）",
+    "url": "https://www.nihonchemical.co.jp/lp/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "千葉県浦安市／株式会社ショット・サービス （浦安第2工場 所掌）",
+    "url": "https://www.nihonchemical.co.jp/lp/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和48年三原市深町に酸洗工場を建設し、鋼材の酸洗・塗装工事を始めました",
+    "url": "https://www.nihonchemical.co.jp/lp/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和56年頃には三原市に敷地約700坪の本郷工場を建設し、ショットブラスト事業を拡大",
+    "url": "https://www.nihonchemical.co.jp/lp/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、福山でのショット・塗装工事をこの本郷工場に集約し、本社の所在地を本郷工場に変更しました",
+    "url": "https://www.nihonchemical.co.jp/lp/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "平成2年、現在の本社工場となる新工場を本郷に建設、拡張移転しました",
+    "url": "https://www.nihonchemical.co.jp/lp/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "平成7年には、酸洗工場だった三原工場を薄物ショットブラスト専用の工場に改造しました",
+    "url": "https://www.nihonchemical.co.jp/lp/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "浦安第2鉄鋼団地内に浦安営業所を開設し、浦安工場を操業開始しました",
+    "url": "https://www.nihonchemical.co.jp/lp/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "平成12年、浦安工場で造船用形鋼の切断加工を開始しました",
+    "url": "https://www.nihonchemical.co.jp/lp/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "加工技術をさらに進化させ、翌年平成13年には本社工場でも造船用形鋼の切断加工を開始するなど、各工場に展開していきました",
+    "url": "https://www.nihonchemical.co.jp/lp/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "平成19年、尾道工場を竣工し形鋼加工業務を拡大していきます",
+    "url": "https://www.nihonchemical.co.jp/lp/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "同じ時期に赤穂工場を開設し、石炭火力発電用ボイラーチューブの内面ショットピーニング処理を開始しました",
+    "url": "https://www.nihonchemical.co.jp/lp/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "続いて平成24年には、関西拠点となる泉北スチールセンターを設立し、各地にニホンケミカルの拠点を増やしていきました",
+    "url": "https://www.nihonchemical.co.jp/lp/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "平成23年に発生した東日本大震災では、浦安工場も被害を受けました",
+    "url": "https://www.nihonchemical.co.jp/lp/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "平成27年、震災を乗り越えた浦安工場のショット設備一式をリプレースしました",
+    "url": "https://www.nihonchemical.co.jp/lp/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "こうして各拠点を活用した運送コストの削減、短納期を実現し現在は全国エリアをカバーしています",
+    "url": "https://www.nihonchemical.co.jp/lp/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "わたしたちは1967年創業以来、造船、橋梁、プラント、建築、鉄道、航空宇宙など幅広い分野のお客様のものづくりに携わってきました",
+    "url": "https://www.nihonchemical.co.jp/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "平鋼形鋼6軸ロボット切断システム(自動マーキン切断機)、プレスベンダや開先加工機などによる加工と職人によるガス切断・ぎょう鉄も可能で、造船・橋梁・運搬機など様々な鋼材種に対応可能です",
+    "url": "https://www.nihonchemical.co.jp/service/item.html",
+    "pass": 1
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "人口減少社会への突入、少子高齢化による人財の不足、中国、韓国の技術進歩や圧倒的な生産力など、内部外部の環境変化は枚挙にいとまがありません",
+    "url": "https://www.nihonchemical.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "人口減少社会への突入、少子高齢化による人財の不足、中国、韓国の技術進歩や圧倒的な生産力など、内部外部の環境変化は枚挙にいとまがありません",
+    "url": "https://www.nihonchemical.co.jp/about/index.html",
+    "pass": 1
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "1,000万円",
+    "url": "https://www.nihonchemical.co.jp/about/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "資本金100万円",
+    "url": "https://www.nihonchemical.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "資本金400万円に増資",
+    "url": "https://www.nihonchemical.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "資本金1,000万円に増資",
+    "url": "https://www.nihonchemical.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "賞与実績平均6ヶ月、昇給実績平均5.6%の安心待遇",
+    "url": "https://www.nihonchemical.co.jp/recruit/skill.html",
+    "pass": 1
+   },
+   {
+    "quote": "直近3年間は平均5.6%の昇給を毎年実施、賞与も平均6ヶ月の水準で支給しています",
+    "url": "https://www.nihonchemical.co.jp/recruit/skill.html",
+    "pass": 1
+   },
+   {
+    "quote": "どの勤務地に勤務いただいても、ニホンケミカルグループの一員として、給与・待遇等すべての労働条件は同一です",
+    "url": "https://www.nihonchemical.co.jp/recruit/skill.html",
+    "pass": 1
+   },
+   {
+    "quote": "月給248,500円～363,500円（一律支給手当含む）",
+    "url": "https://www.nihonchemical.co.jp/recruit/skill.html",
+    "pass": 1
+   },
+   {
+    "quote": "昇給あり（前年度実績平均5.6%／月）",
+    "url": "https://www.nihonchemical.co.jp/recruit/skill.html",
+    "pass": 1
+   },
+   {
+    "quote": "賞与あり（前年度実績合計6ヶ月分）",
+    "url": "https://www.nihonchemical.co.jp/recruit/skill.html",
+    "pass": 1
+   },
+   {
+    "quote": "マイカー通勤ガソリン代支給（上限3万円／月まで）",
+    "url": "https://www.nihonchemical.co.jp/recruit/skill.html",
+    "pass": 1
+   },
+   {
+    "quote": "住宅手当（家族持ちの場合：2万円、独身者の場合：1万5,000円／月）",
+    "url": "https://www.nihonchemical.co.jp/recruit/skill.html",
+    "pass": 1
+   },
+   {
+    "quote": "地域手当（関東地区：3万円、関西地区：2万円／月）",
+    "url": "https://www.nihonchemical.co.jp/recruit/skill.html",
+    "pass": 1
+   },
+   {
+    "quote": "家族手当（扶養配偶者：1万円、その他扶養家族1人あたり：5,000円／月）",
+    "url": "https://www.nihonchemical.co.jp/recruit/skill.html",
+    "pass": 1
+   },
+   {
+    "quote": "給付型奨学金（返済不要※最高年25万円）",
+    "url": "https://www.nihonchemical.co.jp/recruit/skill.html",
+    "pass": 1
+   },
+   {
+    "quote": "賞与実績平均6ヶ月、昇給実績平均5.6％の安心待遇",
+    "url": "https://www.nihonchemical.co.jp/recruit/sales.html",
+    "pass": 1
+   },
+   {
+    "quote": "直近3年間は平均5.6％程度の昇給を毎年実施、賞与も平均6ヶ月の水準で支給しています",
+    "url": "https://www.nihonchemical.co.jp/recruit/sales.html",
+    "pass": 1
+   },
+   {
+    "quote": "月給258,500円～373,500円（一律支給手当含む）",
+    "url": "https://www.nihonchemical.co.jp/recruit/sales.html",
+    "pass": 1
+   },
+   {
+    "quote": "昇給あり（前年度実績平均5.6％／月）",
+    "url": "https://www.nihonchemical.co.jp/recruit/sales.html",
+    "pass": 1
+   },
+   {
+    "quote": "賞与あり（前年度実績合計6ヶ月分）",
+    "url": "https://www.nihonchemical.co.jp/recruit/sales.html",
+    "pass": 1
+   },
+   {
+    "quote": "マイカー通勤ガソリン代支給（上限3万円／月まで）",
+    "url": "https://www.nihonchemical.co.jp/recruit/sales.html",
+    "pass": 1
+   },
+   {
+    "quote": "住宅手当（家族持ちの場合：2万円、独身者の場合：1万5,000円／月）",
+    "url": "https://www.nihonchemical.co.jp/recruit/sales.html",
+    "pass": 1
+   },
+   {
+    "quote": "地域手当（関東地区：3万円、関西地区：2万円／月）",
+    "url": "https://www.nihonchemical.co.jp/recruit/sales.html",
+    "pass": 1
+   },
+   {
+    "quote": "家族手当（扶養配偶者：1万円、その他扶養家族1人あたり：5,000円／月）",
+    "url": "https://www.nihonchemical.co.jp/recruit/sales.html",
+    "pass": 1
+   },
+   {
+    "quote": "給付型奨学金（返済不要※最高年25万円）",
+    "url": "https://www.nihonchemical.co.jp/recruit/sales.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニホンケミカルの年収・給与 平均年収 - エン カイシャの評判",
+    "url": "https://en-hyouban.com/company/10105686941/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ニホンケミカルの年収・給与の口コミページです",
+    "url": "https://en-hyouban.com/company/10105686941/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ニホンケミカルで働く社員や元社員が投稿した、年収・給与に関する口コミを3件掲載中",
+    "url": "https://en-hyouban.com/company/10105686941/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ニホンケミカルの年収・給与についての口コミ",
+    "url": "https://en-hyouban.com/company/10105686941/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？",
+    "url": "https://en-hyouban.com/company/10105686941/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:賞与や福利厚生は他の会社に比...",
+    "url": "https://en-hyouban.com/company/10105686941/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与や福利厚生は他の会社に比べて多く貰っていた方だと思う",
+    "url": "https://en-hyouban.com/company/10105686941/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:新入社員は、基本給13万程度...",
+    "url": "https://en-hyouban.com/company/10105686941/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "面接時に、１年に2回昇給があると言っていましたが、実際1回です",
+    "url": "https://en-hyouban.com/company/10105686941/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":働いた時間分の給与が、基本給＋残業代＋交代勤務手当、でもらえ...",
+    "url": "https://en-hyouban.com/company/10105686941/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":定期昇給、年功序列です",
+    "url": "https://en-hyouban.com/company/10105686941/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":業績連動のため、賞与の差が激しい",
+    "url": "https://en-hyouban.com/company/10105686941/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":賞与は年２回、昇給は年１回あります",
+    "url": "https://en-hyouban.com/company/10105686941/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":賞与については、通常の夏・冬の賞与の他、ここ数年連続で決算賞...",
+    "url": "https://en-hyouban.com/company/10105686941/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年収、評価制度",
+    "url": "https://syukatsu-kaigi.jp/companies/5781",
+    "pass": 3
+   },
+   {
+    "quote": "入社1年後からはどんどん年収が上がっていきますが数年で頭打ちです",
+    "url": "https://syukatsu-kaigi.jp/companies/5781",
+    "pass": 3
+   },
+   {
+    "quote": "特筆すべきスキルがなくても、20代なら同世代の平均年収より高めの年収がもらえ...",
+    "url": "https://syukatsu-kaigi.jp/companies/5781",
+    "pass": 3
+   },
+   {
+    "quote": "1000万円",
+    "url": "https://syukatsu-kaigi.jp/companies/5781",
+    "pass": 3
+   },
+   {
+    "quote": "就活会議に掲載している口コミ及び口コミに紐づく属性情報（性別、雇用時の年齢・年代、職種、年収、役職、雇用形態など）は、",
+    "url": "https://syukatsu-kaigi.jp/companies/5781",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ニホンケミカルの年収、社風、強みなど、実際に株式会社ニホンケミカルで働いていた人の口コミをもとに企業理解を深められるだけでなく、先輩の体験記やESから選考の傾向をつかんで効率的に選考対策を進めることができます",
+    "url": "https://syukatsu-kaigi.jp/companies/5781",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "詳細はエントリーされた方に別途ご案内します",
+    "url": "https://www.nihonchemical.co.jp/recruit/skill.html",
+    "pass": 1
+   },
+   {
+    "quote": "詳細はエントリーされた方に別途ご案内します",
+    "url": "https://www.nihonchemical.co.jp/recruit/sales.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニホンケミカルの新卒採用・就職・企業情報【就活会議】",
+    "url": "https://syukatsu-kaigi.jp/companies/5781",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ニホンケミカルの新卒採用・就職・企業情報",
+    "url": "https://syukatsu-kaigi.jp/companies/5781",
+    "pass": 3
+   },
+   {
+    "quote": "ぜひ、選考体験記の詳細ページにて最新情報やエントリーシート・体験記全文を確認し、選考対策に役立ててください",
+    "url": "https://syukatsu-kaigi.jp/companies/5781",
+    "pass": 3
+   },
+   {
+    "quote": "就活会議では、株式会社ニホンケミカルの評判や口コミ、選考を突破した先輩のエントリーシート、実際の選考内容を確認できる体験記、選考状況をリアルタイムで把握できる就活速報を掲載しています",
+    "url": "https://syukatsu-kaigi.jp/companies/5781",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社ニホンケミカル の給与 | Indeed (インディード) — 日本での株式会社ニホンケミカルの平均給与 株式会社ニホンケミカルの平均月給の範囲は約 26.3万円／月（製造）から約 30.6万円／月（加工）です。 給与情報は、Indeed にこれまでに掲載された66件の求人に基いた推定値です。",
+    "url": "https://jp.indeed.com/cmp/株式会社ニホンケミカル/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ニホンケミカルの平均年収、年間給与所得情報 − 転職ならdoda... — 株式会社ニホンケミカルの平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを掲載。dodaの企業情報ページでは上場企業や、大手から中小企業まで476,101社の企業情報が無料で検索・閲覧できます。ぜひ志望動機や面接対策の研究にお役立てください。",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10003303942/",
+    "pass": 3
+   },
+   {
+    "quote": "ニホンケミカルの年収・給与 平均年収も - エン カイシャの評判日本化学工業株式会社の年収・給与 | らくらく求人検索株式会社ニホンケミカル（132645）の転職・求人情報｜【エン】のエン...株式会社ニホンケミカルの採用・求人情報-engage — 株式会社ニホンケミカル の年収・給与 - エン カイシャの評判 3.3 口コミ 9 件 年収・給与 3 件 求人 0 件 フォロー数 1 人 質問 0 件 フォロー 口コミを投稿 日本化学工業株式会社の平均年収は690万円です。年代別・役職別の詳細な年収情報と業界比較を掲載。転職・就職活動の ... 株式会社ニホンケミカル（132645）の転職・求人情報。日本最大級の求人情報数を誇る転職サイト【エン転職】。株式会社ニホンケミカルのクチコミ、専任スタッフによる書類選考対策や面接対策に役立つ無料サービスが充実。求人企業からのスカウトも多数。 Ma",
+    "url": "https://en-hyouban.com/company/10105686941/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "日本化学工業株式会社の年収・給与 | らくらく求人検索株式会社ニホンケミカル（132645）の転職・求人情報｜【エン】のエン...株式会社ニホンケミカルの採用・求人情報-engage — 日本化学工業株式会社の平均年収は690万円です。年代別・役職別の詳細な年収情報と業界比較を掲載。転職・就職活動の ... 株式会社ニホンケミカル（132645）の転職・求人情報。日本最大級の求人情報数を誇る転職サイト【エン転職】。株式会社ニホンケミカルのクチコミ、専任スタッフによる書類選考対策や面接対策に役立つ無料サービスが充実。求人企業からのスカウトも多数。 May 18, 2026 · その一助として、わたしたちが持つ金属加工の技術で日本のものづくりを縁の下で支える－。 わたしたちは1967年創業以来、造船、橋梁、プラント、建築、鉄道、航空宇宙など幅広い分野のお客様のものづくりに携わってきました。",
+    "url": "https://hw-jobs.careermine.jp/salary/nippon-chemical-industrial",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ニホンケミカル（132645）の転職・求人情報｜【エン】のエン... — 株式会社ニホンケミカル（132645）の転職・求人情報。日本最大級の求人情報数を誇る転職サイト【エン転職】。株式会社ニホンケミカルのクチコミ、専任スタッフによる書類選考対策や面接対策に役立つ無料サービスが充実。求人企業からのスカウトも多数。",
+    "url": "https://employment.en-japan.com/comp-132645/",
+    "pass": 3
+   },
+   {
+    "quote": "ニホンケミカルの新卒採用・就職・企業情報【就活会議】採用情報 | 日本化学工業株式会社 - Nippon Chem日本ケミカル工業株式会社 採用サイトRECRUIT - 技能工｜株式会社ニホンケミカルエントリー | 日本ケミカル工業株式会社日本化学工業 (株)【東証プライム市場上場】の新卒採用・会社概要 | ...新卒採用募集要項・選考フロー｜採用情報｜日本化薬株式会社 RECRUITI... — ニホンケミカルの新卒採用・就職・企業情報 株式会社ニホンケミカルの社員・元社員による総合評価は--点です（口コミ回答数6件）。ESや本選考体験記は0件あります。基本情報のほか、株式会社ニホンケミカルの社員・元社員による会社の評価、過去のインターン選考の内容、内定した学生の ... 日本化学のサステナビリティ 環境 社会 ガバナンス 索引・データ集 外部評価とイニシアチブ 各種報告書 採用情報 新",
+    "url": "https://syukatsu-kaigi.jp/companies/5781",
+    "pass": 3
+   },
+   {
+    "quote": "RECRUIT - 技能工｜株式会社ニホンケミカル — 仕事紹介 『人を笑顔にする会社』 株式会社ニホンケミカルで働くと・・・ 完全週休二日制で年間休日120日以上、夜勤もナシ！ 年間休日120日+計画有休5日以上で、年間125日以上の休日があります。 製造業にありがちな夜勤はなく、お盆や年末年始は1週間以上の連休です。 1時間ごとの時間有休 ...",
+    "url": "https://www.nihonchemical.co.jp/recruit/skill.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Masashi Kimura - Assistant Manager - 日本ケミカル工業（株） | Lin...ダウ・ケミカル日本（株） - LinkedInVictor Stone M.D. (石井 喜英) - Head of Cell Therapies | Japan .....Masayoshi Yasuda - Manager | LinkedInوظائف ニホンケミカル 薬液処理 في الأردن | LinkedInSharad Dubey - sharad dubey | LinkedIn Assistant Manager - 日本ケミカル工業（株） · 現職(2017.4〜現在) 日本ケミカル工業株式会社 営業部 海外営業グループ 主任 ・海外営業(ASEAN、中国、中東、アフリカ、欧州) ・法人営業(大手自動車メーカー等) ・自動車用ケミカル販売 ・子会社管理 ",
+    "url": "https://jp.linkedin.com/in/masashi-kimura-a02ba324b",
+    "pass": 3
+   },
+   {
+    "quote": "Victor Stone M.D. (石井 喜英) - Head of Cell Therapies | Japan .....Masayoshi Yasuda - Manager | LinkedInوظائف ニホンケミカル 薬液処理 في الأردن | LinkedInSharad Dubey - sharad dubey | LinkedIn Victor Stone M.D. (石井 喜英) Head of Cell Therapies | Japan, Alloy Therapeutics, and President of 82VS Venture Studios, Dallas Manager · Experience: BASF Toda Battery Materials LLC · Education: Tokyo Institute of Technology ",
+    "url": "https://www.linkedin.com/in/victorstonemd",
+    "pass": 3
+   },
+   {
+    "quote": "Masayoshi Yasuda - Manager | LinkedInوظائف ニホンケミカル 薬液処理 في الأردن | LinkedInSharad Dubey - sharad dubey | LinkedIn Manager · Experience: BASF Toda Battery Materials LLC · Education: Tokyo Institute of Technology · Location: Hong Kong SAR · 125 connections on LinkedIn. View Masayoshi Yasuda’s profile on LinkedIn, a professional community of 1 billion members. أبرز وظائف ニホンケミカル 薬液処理 في الأردن اليوم",
+    "url": "https://hk.linkedin.com/in/masayoshi-yasuda-b0403623",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ニホンケミカル - Facebook ニホンケミカル - Facebook ... ニホンケミカル",
+    "url": "https://www.facebook.com/pages/ニホンケミカル/1967971490098268/",
+    "pass": 3
+   },
+   {
+    "quote": "ニホンケミカル - Facebook Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and post content.",
+    "url": "https://www.facebook.com/pages/ニホンケミカル/423873911051195/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員ニホンケミカル - Facebook 正社員ニホンケミカル",
+    "url": "https://www.facebook.com/正社員ニホンケミカル-151063344767345/",
+    "pass": 3
+   },
+   {
+    "quote": "日本メカケミカル株式会社 - Facebook早く乗りたいな〜 I wanna rideeeeeeee @nologo_racing_japan @nologo...日本メカケミカル株式会社 - 2025年6月10日より、新製品 「3DPR NFixa...Atsuo Harada (@atsuo.harada) • Facebook, Connect with friends 日本メカケミカル株式会社. 42 followers · 1 was here. 日本メカケミカルは、工業用化学製品のメーカーです。錆取り剤、防錆剤などを開発、製造、販売しています。 Oct 3, 2023 · 早く乗りたいな〜辰 I wanna rideeeeeeee @nologo_racing_japan @nologo_racing @izumichain #株式会社ニホンケミカル#岡山機設株式会社#三平商",
+    "url": "https://www.facebook.com/nichimecha/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nihonchemical.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonchemical.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonchemical.co.jp/about/vision.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonchemical.co.jp/about/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonchemical.co.jp/about/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonchemical.co.jp/recruit/skill.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonchemical.co.jp/recruit/sales.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonchemical.co.jp/lp/chemical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonchemical.co.jp/service/item/blasting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonchemical.co.jp/about/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonchemical.co.jp/service/item.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%8B%E3%83%9B%E3%83%B3%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10003303942/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://en-hyouban.com/company/10105686941/salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://syukatsu-kaigi.jp/companies/5781",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-chem.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/masashi-kimura-a02ba324b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/victorstonemd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://hk.linkedin.com/in/masayoshi-yasuda-b0403623",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/ニホンケミカル/1967971490098268/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/ニホンケミカル/423873911051195/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/正社員ニホンケミカル-151063344767345/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nichimecha/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ニホンケミカル 求人 年収",
+   "results": [
+    "https://jp.indeed.com/cmp/株式会社ニホンケミカル/salaries",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10003303942/",
+    "https://en-hyouban.com/company/10105686941/salary/",
+    "https://hw-jobs.careermine.jp/salary/nippon-chemical-industrial",
+    "https://employment.en-japan.com/comp-132645/",
+    "https://en-gage.net/nihonchemical_jobs/",
+    "https://jp.indeed.com/cmp/日本ケミカル工業株式会社/salaries"
+   ]
+  },
+  {
+   "query": "ニホンケミカル 採用 新卒 高卒",
+   "results": [
+    "https://syukatsu-kaigi.jp/companies/5781",
+    "https://www.nihonchemical.co.jp/recruit/skill.html",
+    "https://www.nippon-chem.co.jp/recruit/",
+    "https://jci-recruit.com/",
+    "https://www.jci-recruit.com/entry/",
+    "https://job.mynavi.jp/27/pc/search/corp291837/outline.html",
+    "https://www.nipponkayaku.co.jp/saiyou/requirements/"
+   ]
+  },
+  {
+   "query": "site:note.com ニホンケミカル",
+   "results": []
+  },
+  {
+   "query": "site:x.com ニホンケミカル",
+   "results": [
+    "https://x.com/ginnomoppu_com/status/2057604855636652504",
+    "https://x.com/pg1_joy/status/2057245721271967910",
+    "https://x.com/pg1_joy/status/2074265673132654879",
+    "https://x.com/pg1_joy",
+    "https://x.com/ChemicalShin",
+    "https://x.com/pg1_joy/status/2117871061983461764",
+    "https://x.com/U3wGKFrri195447/status/2118183487287275619"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ニホンケミカル",
+   "results": [
+    "https://jp.linkedin.com/in/泰夫-田中-050345105",
+    "https://jp.linkedin.com/in/masashi-kimura-a02ba324b",
+    "https://www.linkedin.com/in/victorstonemd",
+    "https://hk.linkedin.com/in/masayoshi-yasuda-b0403623",
+    "https://jo.linkedin.com/jobs/ニホンケミカル-薬液処理-jobs?countryRedirected=1",
+    "https://in.linkedin.com/in/sharad-dubey-698b2842",
+    "https://www.linkedin.com/company/ダウ・ケミカル日本（株）"
+   ]
+  },
+  {
+   "query": "site:facebook.com ニホンケミカル",
+   "results": [
+    "https://www.facebook.com/pages/ニホンケミカル/1967971490098268/",
+    "https://www.facebook.com/pages/ニホンケミカル/423873911051195/",
+    "https://www.facebook.com/正社員ニホンケミカル-151063344767345/",
+    "https://www.facebook.com/nichimecha/",
+    "https://www.facebook.com/atsuo.harada/",
+    "https://www.facebook.com/reel/338853695331168/",
+    "https://www.facebook.com/story.php/?story_fbid=1168503761748667&id=100057671610201"
+   ]
+  },
+  {
+   "query": "ニホンケミカル note 社長",
+   "results": [
+    "https://www.kaijipress.com/news/shipbuilding/2026/10/204978/",
+    "https://www.nihonchemical.co.jp/news/役員交代のお知らせ/",
+    "https://www.japanmetaldaily.com/articles/-/266441",
+    "https://jinjiseido.co.jp/jirei/5064/",
+    "https://www.japanmetaldaily.com/articles/-/266434",
+    "https://www.nihonchemical.co.jp/about/",
+    "https://www.hiroshima.doyu.jp/activity-report/a50035/"
+   ]
+  },
+  {
+   "query": "ニホンケミカル X 投稿",
+   "results": [
+    "https://www.nihonchemical.co.jp/",
+    "https://x.com/extra_horse/status/2083885534183866867",
+    "https://x.com/KanrininPe",
+    "https://finance.yahoo.co.jp/quote/1909.T/forum",
+    "https://search.yahoo.co.jp/realtime/search/リアルタイム検索/",
+    "https://pan-pan.co/detail/42219",
+    "https://chemical-news.com/news/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部12頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部12頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部12頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部12頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部12頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部12頁・検索8回）"
+ }
+}

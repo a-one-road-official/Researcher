@@ -1,0 +1,866 @@
+{
+ "name": "シブヤ",
+ "aliases": [],
+ "context": "広島県広島市／出典:県・市の企業ガイド／求人媒体:Indeed;doda;マイナビ転職;自社採用ページ／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T06:59:54.050495+00:00",
+ "official_url": "https://www.shibuya-group.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社・所在地",
+    "value": "〒７３８－００２１　広島県廿日市市木材港北５－８６",
+    "url": "https://www.shibuya-group.co.jp/company-information/",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒738-0021　広島県廿日市市木材港北 ５－８６ TEL:(0829) 34-4500 FAX:(0829) 34-4501",
+    "url": "https://www.shibuya-group.co.jp/company-information/",
+    "pass": 1
+   },
+   {
+    "label": "本社・工場",
+    "value": "広島県廿日市市木材港北 5-86",
+    "url": "https://www.shibuya-group.co.jp/requirements/",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "8：30～17：10",
+    "url": "https://www.shibuya-group.co.jp/requirements/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "広島県廿日市市木材港北5-86",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C10000011UV86&q_no=2",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "澁谷　和佳",
+    "url": "https://www.shibuya-group.co.jp/company-information/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役　渋谷 憲和",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C10000011UV86&q_no=2",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "建設機械・工具の製造販売",
+    "url": "https://www.shibuya-group.co.jp/company-information/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "コンクリート切断・穿孔用機械及びダイヤモンド工具の製造、販売",
+    "url": "https://www.shibuya-group.co.jp/requirements/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "１億円",
+    "url": "https://www.shibuya-group.co.jp/company-information/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "計１５８人",
+    "url": "https://www.shibuya-group.co.jp/company-information/",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "100〜499人",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C10000011UV86&q_no=2",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要取引先",
+    "value": "因幡電機産業(株)、(株)オノマシン、 (株)三金、宝物産(株)、トラスコ中山(株)、 (株)ヒシヒラ、日立建機(株)、(株)山善、ユアサ商事(株)、 (株)ワキタ、ほか（あいうえお順）",
+    "url": "https://www.shibuya-group.co.jp/company-information/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立年",
+    "value": "設立年：1953年",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C10000011UV86&q_no=2",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "求人媒体": [
+   {
+    "quote": "2026年10月3日(土)「マイナビ転職…",
+    "url": "https://www.shibuya-group.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月3日(土)、広島コンベンションホールで開催される「マイナビ転職フェア 広…",
+    "url": "https://www.shibuya-group.co.jp/",
+    "pass": 1
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "広島銀行、三菱UFJ銀行、山口銀行、",
+    "url": "https://www.shibuya-group.co.jp/company-information/",
+    "pass": 1
+   },
+   {
+    "quote": "増資500万円 広島市西区上天満町に工場・倉庫を新築",
+    "url": "https://www.shibuya-group.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "本社、両工場を統合",
+    "url": "https://www.shibuya-group.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "本社・工場 : 広島県廿日市市木材港北 5-86",
+    "url": "https://www.shibuya-group.co.jp/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "同場所に於いて株式会社農益商会を設立 資本金100万円",
+    "url": "https://www.shibuya-group.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "増資500万円 広島市西区上天満町に工場・倉庫を新築",
+    "url": "https://www.shibuya-group.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "増資2,520万円",
+    "url": "https://www.shibuya-group.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "増資6,300万円",
+    "url": "https://www.shibuya-group.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "増資8,000万円",
+    "url": "https://www.shibuya-group.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "増資1億2,710万円",
+    "url": "https://www.shibuya-group.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "シブヤの「年収・給与制度」 OpenWork",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C10000011UV86&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤの「年収・給与制度」 ＜社員のクチコミ情報＞",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C10000011UV86&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度の特徴： 給与制度： みなし残業...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C10000011UV86&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度の特徴： 給与制度： 転勤がある...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C10000011UV86&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "年収：500万円 年収内訳（基本給：36...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C10000011UV86&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "OpenWorkでは全体の平均年収だけではなく、職種別や年齢別の平均年収も掲載しています",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C10000011UV86&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "また、基本給、残業代、賞与などの給与内訳や、給与制度、評価制度の詳細も掲載しています",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C10000011UV86&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 基本給は平均の評価が貰えれば平均3%上がるイメージ",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C10000011UV86&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "「フジテック（機械・滋賀県）」の年収・給与制度",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C10000011UV86&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "40万件以上の年収データを元に作成",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C10000011UV86&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "Q.この企業の参考となる年収事例を教えてください",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C10000011UV86&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "また、給与制度（賞与・昇給・各種手当など）や評価制度には、どのような特徴がありますか？",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C10000011UV86&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "採用情報｜ダイヤモンド工具メーカーの株式会社シブヤ",
+    "url": "https://www.shibuya-group.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "社員インタビュー｜ダイヤモンド工具メーカー 株式会社シブヤの採用情報",
+    "url": "https://www.shibuya-group.co.jp/interview-maeda/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒・中途採用の募集要項｜ダイヤモンド工具メーカー 株式会社シブヤの採用情報",
+    "url": "https://www.shibuya-group.co.jp/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用エントリー｜ダイヤモンド工具メーカー 株式会社シブヤの採用情報",
+    "url": "https://www.shibuya-group.co.jp/entry/",
+    "pass": 1
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用情報 | 採用情報 | 株式会社シブヤパイピング 採用サイト",
+    "url": "https://www.shibuya-p.com/recruit/information/new_graduate/",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "社員インタビュー｜ダイヤモンド工具メーカー 株式会社シブヤの採用情報",
+    "url": "https://www.shibuya-group.co.jp/interview-maeda/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 シブヤ の平均 年収 、年間給与所得情報 - doda — 株式会社 シブヤ の平均 年収 、年間給与所得情報 - doda doda https://doda.jp > CompanyIncome > j_id__10003190587",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10003190587/",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤ の「 年収 ・給与制度」 OpenWork — シブヤ の「 年収 ・給与制度」 OpenWork OpenWork https://www.openwork.jp > 機械関連 > シブヤ",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C10000011UV86&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 シブヤ の 求人 ・中途採用情報 - doda — 株式会社 シブヤ の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10166300322",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10166300322/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 シブヤ の転職・ 求人 ・中途採用情報 - マイナビ転職 — 株式会社 シブヤ の転職・ 求人 ・中途採用情報 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company > joblist",
+    "url": "https://tenshoku.mynavi.jp/company/362114/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 シブヤ テレビジョン（26766）の転職・ 求人 情報一覧 — 株式会社 シブヤ テレビジョン（26766）の転職・ 求人 情報一覧 エン転職 https://employment.en-japan.com > comp-26766 > list",
+    "url": "https://employment.en-japan.com/comp-26766/list/",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤ 新卒 高卒 の求人情報をすべて見る （136件） — シブヤ 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 情報 - 株式会社シブヤパイピング — 新卒採用 情報 - 株式会社シブヤパイピング 株式会社シブヤパイピング https://www.shibuya-p.com > information > new_graduate",
+    "url": "https://www.shibuya-p.com/recruit/information/new_graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) シブヤ テレビジョンの 採用 データ | マイナビ2027 — (株) シブヤ テレビジョンの 採用 データ | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp93390 > employment",
+    "url": "https://job.mynavi.jp/27/pc/search/corp93390/employment.html",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤの若手経営者 No.6 楽しんで参加することが、仲間づくりの第一歩に",
+    "url": "https://note.com/shibuyasampo",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤの若手経営者 No.5 オフィスビルの日常を支える「見えない仕事」のプロフェッショナル",
+    "url": "https://note.com/shibuyasampo",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤの若手経営者 No.4 地域の仲間と渋谷を盛り上げたい",
+    "url": "https://note.com/shibuyasampo",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤの若手経営者 No.3データを育て、人を育てる",
+    "url": "https://note.com/shibuyasampo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "シブヤ 大学[公式] - note シブヤ 大学[公式] - note note https://note.com > shibuya_univ",
+    "url": "https://note.com/shibuya_univ",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤ 散歩新聞 - note シブヤ 散歩新聞 - note note https://note.com > shibuyasampo",
+    "url": "https://note.com/shibuyasampo",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤ ファッションエクスプレス｜「渋谷のラジオ」 - note シブヤ ファッションエクスプレス｜「渋谷のラジオ」 - note note https://note.com > shiburadi",
+    "url": "https://note.com/shiburadi/m/m48d3356b0edf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "シブヤ大学は、まちのあらゆる場所を教室に、多様な授業を開催しているNPO法人です。",
+    "url": "https://note.com/shibuya_univ",
+    "pass": 3
+   },
+   {
+    "quote": "2006年の開校以来、開催した授業は1,400講座以上。これまでに36,000人以上が参加しています。",
+    "url": "https://note.com/shibuya_univ",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤ大学WEBサイトの緊急メンテナンスについて",
+    "url": "https://note.com/shibuya_univ",
+    "pass": 3
+   },
+   {
+    "quote": "【参加者募集中・11月の授業】誰もが働ける社会をつくるソーシャルファームを知って、考えて、動きたくなるワークショップ 2026【第3回】ソーシャルファームのリアル（雇う人の目線から）",
+    "url": "https://note.com/shibuya_univ",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤ大学をつくる（ボランティアスタッフに登録する）",
+    "url": "https://note.com/shibuya_univ",
+    "pass": 3
+   },
+   {
+    "quote": "【開催レポート】アクティブ朗読のすゝめ 2026～詩 (うた）の世界を演じてみる～",
+    "url": "https://note.com/shibuya_univ",
+    "pass": 3
+   },
+   {
+    "quote": "【参加者募集中・11月の授業】ふわふわ芸術ラボ第３回 つくらないかもしれない美術",
+    "url": "https://note.com/shibuya_univ",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤ散歩新聞は、シブヤの散歩にまつわる様々な情報を発信するメディアです。渋谷区内外、老若男女問わず、より多くの方にシブヤ散歩の魅力を伝えて、シブヤの街を散歩してもらえるよう活動しています。詳しくは⇨",
+    "url": "https://note.com/shibuyasampo",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤ散歩新聞は、シブヤの散歩にまつわる様々な情報を発信するメディアです。渋谷区内外、老…",
+    "url": "https://note.com/shibuyasampo",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤ朝な朝な散歩 No.24 晴れ間の代々木公園ドッグラン",
+    "url": "https://note.com/shibuyasampo",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤ一歩！二歩！散歩No.4「代々木上原・大黒湯 懐かしい記憶の錯覚と『足さない』生き方」",
+    "url": "https://note.com/shibuyasampo",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤ創業ストーリーNo.12 「自分でやれるところは全部やる」からスタートする 奇貨 中川敬康さん後編",
+    "url": "https://note.com/shibuyasampo",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤ創業ストーリーNo.11 日本のクリスマスをもっと楽しく、ユニークに。奇貨 中川敬康さん前編",
+    "url": "https://note.com/shibuyasampo",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤソーギョーベースストーリーNo.12専門家が「チーム」になる未来へ 社労士オフィスM代表 森本秀規さん 後編",
+    "url": "https://note.com/shibuyasampo",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤソーギョーベースストーリーNo.11 約30年のキャリアを携えて、経営のスタートラインへ。社労士オフィスM代表 森本秀規さん前編",
+    "url": "https://note.com/shibuyasampo",
+    "pass": 3
+   },
+   {
+    "quote": "渋谷区の基幹産業である様々なファッションジャンルに特化したファッション情報番組。毎週ゲストを迎え、渋谷、原宿、裏原宿、表参道、代官山、様々なエリアのファッション情報や多様化している…",
+    "url": "https://note.com/shiburadi/m/m48d3356b0edf",
+    "pass": 3
+   },
+   {
+    "quote": "「渋谷のラジオ」——渋谷のみんなをつなげるラジオ",
+    "url": "https://note.com/shiburadi/m/m48d3356b0edf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "シブヤ 文房具    【公式】 (@shibuya_bungu) / X シブヤ 文房具    【公式】 (@shibuya_bungu) / X X https://x.com > shibuya_bungu",
+    "url": "https://x.com/shibuya_bungu",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤ スクランブルストーリーズ (@shibuya_adv) / X シブヤ スクランブルストーリーズ (@shibuya_adv) / X X https://x.com > shibuya_adv",
+    "url": "https://x.com/shibuya_adv",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤ 経済新聞 (@shibuyakeizai) / X シブヤ 経済新聞 (@shibuyakeizai) / X X https://x.com > shibuyakeizai",
+    "url": "https://x.com/shibuyakeizai",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤ DOMINION12100725 (@shibuyadominion) / X シブヤ DOMINION12100725 (@shibuyadominion) / X X https://x.com > shibuyadominion",
+    "url": "https://x.com/shibuyadominion",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "シブヤ 大学 | Shibuya -ku Tokyo - Facebook シブヤ 大学 | Shibuya -ku Tokyo - Facebook Facebook https://www.facebook.com > ... > Nonprofit organization",
+    "url": "https://www.facebook.com/shibuya.univ.net/",
+    "pass": 3
+   },
+   {
+    "quote": "シブヤ フォント (@shibuyafont) - Facebook シブヤ フォント (@shibuyafont) - Facebook Facebook https://www.facebook.com > shibuyafont",
+    "url": "https://www.facebook.com/shibuyafont/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.shibuya-group.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibuya-group.co.jp/company-profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibuya-group.co.jp/company-information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibuya-group.co.jp/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibuya-group.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibuya-group.co.jp/main-product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibuya-group.co.jp/greeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibuya-group.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibuya-group.co.jp/interview-maeda/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibuya-group.co.jp/requirements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibuya-group.co.jp/entry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.shibuya-group.co.jp/company-profile/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10003190587/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C10000011UV86&q_no=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10166300322/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shibuya-p.com/recruit/information/new_graduate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shibuya_univ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shibuyasampo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shiburadi/m/m48d3356b0edf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/shibuya_bungu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shibuya_adv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shibuyakeizai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shibuyadominion",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/shibuya.univ.net/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/shibuyafont/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "シブヤ 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10003190587/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C10000011UV86&q_no=2",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10166300322/",
+    "https://tenshoku.mynavi.jp/company/362114/joblist/",
+    "https://employment.en-japan.com/comp-26766/list/",
+    "https://en-hyouban.com/company/10091427001/salary/",
+    "https://jobtalk.jp/companies/34685/jobs",
+    "https://www.hellowork.careers/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B7%E3%83%96%E3%83%A4%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "https://en.wikipedia.org/wiki/Microsoft",
+    "https://www.microsoft.com/en-us"
+   ]
+  },
+  {
+   "query": "シブヤ 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%82%B7%E3%83%96%E3%83%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.shibuya-group.co.jp/requirements/",
+    "https://www.shibuya-p.com/recruit/information/new_graduate/",
+    "https://www.shibuya.co.jp/careers/recruitment-information/requirements/",
+    "https://job.mynavi.jp/27/pc/search/corp93390/employment.html",
+    "https://www.shibuya-foods.co.jp/recruit/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10003190587/",
+    "https://www.saiyou.shibuya-sss.co.jp/requirements/",
+    "https://job.rikunabi.com/selection/job_descriptions/eb64b41fef8814b4",
+    "https://www.shibuya-sps.co.jp/recruit/requirements/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com シブヤ",
+   "results": [
+    "https://note.com/shibuya_univ",
+    "https://note.com/shibuyasampo",
+    "https://note.com/shibuyakogyo",
+    "https://note.com/shiburadi/m/m48d3356b0edf",
+    "https://note.com/shibuya_univ/n/n2111f3c59abc",
+    "https://note.com/shibutan_tokyo",
+    "https://note.com/shibuya_univ/n/n1a3bf5f1e067",
+    "https://note.com/shiburadi/m/m666b2dd20553",
+    "https://note.com/honmachi_pm/n/n39e2db11083f",
+    "https://coomeet.chat/pt"
+   ]
+  },
+  {
+   "query": "site:x.com シブヤ",
+   "results": [
+    "https://x.com/shibuya_bungu",
+    "https://x.com/shibuya_adv",
+    "https://x.com/shibuyakeizai",
+    "https://x.com/shibuyadominion",
+    "https://x.com/shibuya_univ",
+    "https://x.com/SHIBUYA_SUSHI_M",
+    "https://x.com/shibuyanear",
+    "https://x.com/i/trending/2054464732334264666",
+    "https://x.com/shibuya2222",
+    "https://x.com/sibtv_liveworks"
+   ]
+  },
+  {
+   "query": "site:linkedin.com シブヤ",
+   "results": [
+    "https://jp.linkedin.com/company/shibuya-hoppmann",
+    "https://www.linkedin.com/company/shibuyaxyz",
+    "https://www.linkedin.com/company/%E6%BE%81%E8%B0%B7%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/company/shibuya-startup-support",
+    "https://www.linkedin.com/posts/lmlorin_pitching-shibuya-what-is-the-state-of-ai-activity-7401933978158538753-Q-rz",
+    "https://www.linkedin.com/pulse/yamaha-opens-sound-crossing-shibuya-hub-music-innovation-q6k4e",
+    "https://www.linkedin.com/company/shibuyaaa",
+    "https://www.linkedin.com/in/david-shibuya-98387811",
+    "https://www.linkedin.com/in/robert-shibuya-07077820",
+    "https://www.linkedin.com/in/timshibuya"
+   ]
+  },
+  {
+   "query": "site:facebook.com シブヤ",
+   "results": [
+    "https://www.facebook.com/shibuya.univ.net/",
+    "https://www.facebook.com/pages/Shibuya-Tokyo/114600441890814",
+    "https://www.facebook.com/shibuyafont/?locale=ja_JP",
+    "https://www.facebook.com/archpng/posts/shibuya-crossing-in-tokyo-seen-in-1952-and-in-a-modern-view-photographed-in-2023/1067302355796841/",
+    "https://www.facebook.com/shibuya.city/",
+    "https://www.facebook.com/EvgenyYorobePhotography/videos/timelapse-of-shibuya-crossing-in-tokyo-japan-known-as-the-busiest-pedestrian-cro/1334381394229499/",
+    "https://www.facebook.com/shibuyasanpo/?locale=ja_JP",
+    "https://www.facebook.com/tngjp/videos/1-day-shibuya-harajuku-itinerary-%E2%91%A0-1000-am-see-the-shibuya-scramble-from-above-y/2050265362484726/",
+    "https://www.facebook.com/shibuyaSustainable/",
+    "https://www.retailcoupons.com/walmart-promo-codes/"
+   ]
+  },
+  {
+   "query": "シブヤ note 社長",
+   "results": [
+    "https://note.com/shibuyakogyo",
+    "https://note.com/shinichi_takei",
+    "https://note.com/shiburadi",
+    "https://note.com/haru4db/n/ncd466dcb27d8",
+    "https://note.com/groovement",
+    "https://note.com/setoshohei",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/miya102/n/n92052713aa96",
+    "https://tsurupon.co.jp/confession-of-the-president-working-in-shibuya/",
+    "https://chucke.fandom.com/wiki/CEC_Remodels"
+   ]
+  },
+  {
+   "query": "シブヤ X 投稿",
+   "results": [
+    "https://x.com/SHIBUYATSUTAYA",
+    "https://biz.shibuyabunka.com/love/",
+    "https://shibuyatsutaya.tsite.jp/sips/",
+    "https://www-shibuya.jp/",
+    "https://www.instagram.com/shibuya._.x/",
+    "https://www.youtube.com/shorts/yZ6sBaWT4pE",
+    "https://www.instagram.com/reel/DHYjF89T2fk/",
+    "https://x.com/shibuya_t_comic",
+    "https://ec.saivision.jp/",
+    "https://www.microsoft.com/en-us/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部14頁・検索8回）"
+ }
+}

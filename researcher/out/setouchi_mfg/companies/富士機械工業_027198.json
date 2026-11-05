@@ -1,0 +1,991 @@
+{
+ "name": "富士機械工業",
+ "aliases": [],
+ "context": "広島県広島市／出典:県・市の企業ガイド／求人媒体:スタンバイ;マイナビ転職／想定年収:400〜649万円／従業員:不明",
+ "researched_at": "2026-11-05T07:09:35.081986+00:00",
+ "official_url": "https://www.zoominfo.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "求人媒体": [
+   {
+    "quote": "Move deals forward — urgency signals, multi-stakeholder engagement, forecasting",
+    "url": "https://www.zoominfo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify, engage, and route visitors",
+    "url": "https://www.zoominfo.com/products/recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "Automate engagement-ready data",
+    "url": "https://www.zoominfo.com/products/recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "How Wiss booked more conversations, prioritized engaged candidates with performance metrics, and reduced reliance on agencies.",
+    "url": "https://www.zoominfo.com/products/recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "Identify, engage, and route visitors",
+    "url": "https://www.zoominfo.com/about/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Automate engagement-ready data",
+    "url": "https://www.zoominfo.com/about/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Prospecting & Sales Engagement",
+    "url": "https://www.zoominfo.com/about/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Sales & Marketing Engagement",
+    "url": "https://www.zoominfo.com/about/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Identify, engage, and route visitors",
+    "url": "https://www.zoominfo.com/about/help-center",
+    "pass": 1
+   },
+   {
+    "quote": "Automate engagement-ready data",
+    "url": "https://www.zoominfo.com/about/help-center",
+    "pass": 1
+   },
+   {
+    "quote": "Identify, engage, and route visitors",
+    "url": "https://www.zoominfo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Automate engagement-ready data",
+    "url": "https://www.zoominfo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Identify, engage, and route visitors",
+    "url": "https://www.zoominfo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Automate engagement-ready data",
+    "url": "https://www.zoominfo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Identify, engage, and route visitors",
+    "url": "https://www.zoominfo.com/about/case-studies/mondaycom",
+    "pass": 1
+   },
+   {
+    "quote": "Automate engagement-ready data",
+    "url": "https://www.zoominfo.com/about/case-studies/mondaycom",
+    "pass": 1
+   },
+   {
+    "quote": "Account lists lived in one platform. Intent signals came from another. Product usage data sat in a separate database. And marketing engagement metrics were somewhere else entirely.",
+    "url": "https://www.zoominfo.com/about/case-studies/mondaycom",
+    "pass": 1
+   },
+   {
+    "quote": "CRM, product usage, and marketing engagement lived in separate tools with no unified view",
+    "url": "https://www.zoominfo.com/about/case-studies/mondaycom",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing engagement (content, webinars, downloads)",
+    "url": "https://www.zoominfo.com/about/case-studies/mondaycom",
+    "pass": 1
+   },
+   {
+    "quote": "Identify, engage, and route visitors",
+    "url": "https://www.zoominfo.com/about/case-studies/seismic",
+    "pass": 1
+   },
+   {
+    "quote": "Automate engagement-ready data",
+    "url": "https://www.zoominfo.com/about/case-studies/seismic",
+    "pass": 1
+   },
+   {
+    "quote": "“We have high expectations for our internal teams and how they engage with our potential customers,” said Toby Carrington, Chief Business Officer at Seismic. “When we talk to prospects, it needs to be highly personalized, and it needs to be thoughtful.”",
+    "url": "https://www.zoominfo.com/about/case-studies/seismic",
+    "pass": 1
+   },
+   {
+    "quote": "In fact, Copilot users across the board say they’re boosting pipelines by 23%, booking nearly 60% more meetings and demos per week. More than half of all users also say they’re the first sales team to engage with an account because of Copilot, helping teams close deals faster.",
+    "url": "https://www.zoominfo.com/about/case-studies/seismic",
+    "pass": 1
+   },
+   {
+    "quote": "Seismic is the global leader in enablement, helping organizations engage customers, enable teams, and ignite revenue growth.",
+    "url": "https://www.zoominfo.com/about/case-studies/seismic",
+    "pass": 1
+   },
+   {
+    "quote": "Identify, engage, and route visitors",
+    "url": "https://www.zoominfo.com/about/case-studies/palo-alto-networks",
+    "pass": 1
+   },
+   {
+    "quote": "Automate engagement-ready data",
+    "url": "https://www.zoominfo.com/about/case-studies/palo-alto-networks",
+    "pass": 1
+   },
+   {
+    "quote": "Identify, engage, and route visitors",
+    "url": "https://www.zoominfo.com/about/case-studies/spekit",
+    "pass": 1
+   },
+   {
+    "quote": "Automate engagement-ready data",
+    "url": "https://www.zoominfo.com/about/case-studies/spekit",
+    "pass": 1
+   },
+   {
+    "quote": ", an innovative just-in-time enablement tool, enhances sales representatives’ performance by seamlessly integrating crucial training and content into their daily workflows, transforming the way employees engage with and apply vital knowledge.",
+    "url": "https://www.zoominfo.com/about/case-studies/spekit",
+    "pass": 1
+   },
+   {
+    "quote": "Encouraging reps to use AI-driven features for more effective communication and account engagement.",
+    "url": "https://www.zoominfo.com/about/case-studies/spekit",
+    "pass": 1
+   },
+   {
+    "quote": "Leveraging the rich data from ZoomInfo, Spekit’s sales representatives can now efficiently score and prioritize accounts using a blend of firmographics, intent signals, and engagement metrics. This strategic integration ensures a fair and effective distribution of high-potential accounts across the sales team.",
+    "url": "https://www.zoominfo.com/about/case-studies/spekit",
+    "pass": 1
+   },
+   {
+    "quote": "The account scoring model reduced the time spent on identifying high-value accounts, allowing reps to focus on meaningful engagements.",
+    "url": "https://www.zoominfo.com/about/case-studies/spekit",
+    "pass": 1
+   },
+   {
+    "quote": "“The quick search filters are particularly effective, enabling searches by ‘likely to engage’ and buying groups. The most significant improvement has been the Copilot homepage, which organizes your day, showing why an account is a priority and what to mention in outreach efforts,” Perceval says.",
+    "url": "https://www.zoominfo.com/about/case-studies/spekit",
+    "pass": 1
+   },
+   {
+    "quote": "Identify, engage, and route visitors",
+    "url": "https://www.zoominfo.com/about/case-studies/snowflake",
+    "pass": 1
+   },
+   {
+    "quote": "Automate engagement-ready data",
+    "url": "https://www.zoominfo.com/about/case-studies/snowflake",
+    "pass": 1
+   },
+   {
+    "quote": "The sales data science team took their 70+ data points augmented with ZoomInfo technographic and firmographic data feeds from the DaaS pipeline to create the APS. Accounts with the highest propensity score performed better in every category and helped make sellers more productive, resulting in a 25% higher customer engagement rate and 2x higher new customer conversion rates.",
+    "url": "https://www.zoominfo.com/about/case-studies/snowflake",
+    "pass": 1
+   },
+   {
+    "quote": ". “Does engagement actually translate into any meaningful performance at the end of the year? That’s the hypothesis we work from that helps us understand if engagement actually makes sense,” Gojo says.",
+    "url": "https://www.zoominfo.com/about/case-studies/snowflake",
+    "pass": 1
+   },
+   {
+    "quote": "Maximizing every customer engagement so it’s as impactful as possible",
+    "url": "https://www.zoominfo.com/about/case-studies/snowflake",
+    "pass": 1
+   },
+   {
+    "quote": "Identify, engage, and route visitors",
+    "url": "https://www.zoominfo.com/products/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Automate engagement-ready data",
+    "url": "https://www.zoominfo.com/products/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Track website visitors and identify accounts researching solutions like yours. Surface companies with high intent scores based on content consumption, technology signals, and behavioral patterns. Focus outreach on accounts ready to engage.",
+    "url": "https://www.zoominfo.com/products/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about Engage",
+    "url": "https://www.zoominfo.com/products/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Export prospects to your CRM in one click. Sync records automatically, trigger next steps, and connect with your existing sales engagement tools to keep outreach consistent and up to date.",
+    "url": "https://www.zoominfo.com/products/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Reach your next best customer with AI-driven insights, buying signals, and automated engagement.",
+    "url": "https://www.zoominfo.com/products/sales",
+    "pass": 1
+   },
+   {
+    "quote": "ZoomInfo Copilot delivers first-mover advantage. Sellers can engage faster knowing which accounts are ready to listen, with better messaging from interactive chat summaries and better connections with AI-scripted emails to achieve higher win rates.",
+    "url": "https://www.zoominfo.com/products/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how our customers use ZoomInfo Sales to find new opportunities, engage the right buyers at the right time, and collaborate across every customer interaction.",
+    "url": "https://www.zoominfo.com/products/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Engage the right buyers",
+    "url": "https://www.zoominfo.com/products/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich lead data and create signal-driven workflows to automatically engage your customer, integrated with your customer engagement platform. Never miss a chance to act on a hot lead.",
+    "url": "https://www.zoominfo.com/products/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Higher customer engagement and retention",
+    "url": "https://www.zoominfo.com/products/sales",
+    "pass": 1
+   },
+   {
+    "quote": "富士機械工業(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp275003/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp275003/outline.html",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "ZoomInfo gives recruiting teams verified professional data to find and reach qualified talent.",
+    "url": "https://www.zoominfo.com/products/recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "Talent Autopilot, ZoomInfo’s AI recruiting agent",
+    "url": "https://www.zoominfo.com/products/recruiting",
+    "pass": 1
+   },
+   {
+    "quote": ", uses that data to discover strong fit candidates traditional searches can miss, explain why they fit and help recruiters start the conversation.",
+    "url": "https://www.zoominfo.com/products/recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "Talent Autopilot does more than hand you another list of profiles. It evaluates candidates against what you asked for and gives your recruiters the context and reasoning behind every match, so they can spend less time reviewing profiles one by one.",
+    "url": "https://www.zoominfo.com/products/recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "Once you find the right candidates, Autopilot helps create personalized outreach using verified contact information from ZoomInfo. Your recruiter reviews the candidates and stays in control of what gets sent.",
+    "url": "https://www.zoominfo.com/products/recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "Put ZoomInfo’s verified professional data to work with an AI recruiting agent built to discover candidates your searches can miss.",
+    "url": "https://www.zoominfo.com/products/recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "Create relevant candidate outreach based on the role and candidate context, with your recruiter maintaining control over what gets sent.",
+    "url": "https://www.zoominfo.com/products/recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "Need traditional sourcing tools? ZoomInfo Talent still gives recruiters powerful candidate search, filters, Boolean capabilities, professional profiles and market intelligence when they want to search themselves.",
+    "url": "https://www.zoominfo.com/products/recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "See how Talent Autopilot combines better data with better discovery to help your recruiters find candidates they may never uncover through traditional search.",
+    "url": "https://www.zoominfo.com/products/recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "Connect Talent Autopilot with your applicant tracking system (ATS), including platforms like Workday, Greenhouse, iCIMS, SAP SuccessFactors, Oracle, Lever, SmartRecruiters and others. Identify candidates already in your system, reduce duplicate work and move newly discovered candidates into the recruiting workflows your team already uses.",
+    "url": "https://www.zoominfo.com/products/recruiting",
+    "pass": 1
+   },
+   {
+    "quote": ", adding AI-powered candidate discovery without asking recruiters to replace the systems and processes already at the center of hiring.",
+    "url": "https://www.zoominfo.com/products/recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "Executive Search and Recruitment",
+    "url": "https://www.zoominfo.com/about/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Recruiting/Talent Acquisition",
+    "url": "https://www.zoominfo.com/about/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Staffing & Recruiting",
+    "url": "https://www.zoominfo.com/about/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "ZoomInfo serves sales, marketing, and recruiting teams in industries like software, manufacturing, business services, and healthcare.",
+    "url": "https://www.zoominfo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "富士機械工業(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp275003/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "どれか1つでも当てはまる方は、エントリーをお願い致します",
+    "url": "https://job.mynavi.jp/27/pc/search/corp275003/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社リクルートサイトにも採用情報を掲載していますので、是非ご覧下さい",
+    "url": "https://job.mynavi.jp/27/pc/search/corp275003/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp275003/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp275003/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "富士機械工業株式会社の企業情報 | インターンシップ・新卒採用情報からES・面接対策まで掲載！キャリタス就活",
+    "url": "https://job.career-tasu.jp/corp/00003394/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒学生のためのインターンシップ・採用情報サイト",
+    "url": "https://job.career-tasu.jp/corp/00003394/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用者数と離職者数（過去3年間）",
+    "url": "https://job.career-tasu.jp/corp/00003394/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用者数の男女別人数（過去3年間）",
+    "url": "https://job.career-tasu.jp/corp/00003394/",
+    "pass": 3
+   },
+   {
+    "quote": "自分らしい働き方で、理想のキャリアを実現できる企業の採用情報が検索できます",
+    "url": "https://job.career-tasu.jp/corp/00003394/",
+    "pass": 3
+   },
+   {
+    "quote": "ES（エントリーシート）、テスト、グループディスカッション、OBOG訪問、面接、内定までの一連の流れに沿った詳細なクチコミ情報を見ることができます",
+    "url": "https://job.career-tasu.jp/corp/00003394/",
+    "pass": 3
+   },
+   {
+    "quote": "内定者の実際のES（エントリーシート）など、具体的に役立つ情報が得られます",
+    "url": "https://job.career-tasu.jp/corp/00003394/",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "LinkedIn, Twitter, Instagram, Facebook, YouTube",
+    "url": "https://www.zoominfo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "入社半年間は先輩社員の指導もと業務を実施していただきます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp275003/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "富士機械工業株式会社の企業情報 | インターンシップ・新卒採用情報からES・面接対策まで掲載！キャリタス就活",
+    "url": "https://job.career-tasu.jp/corp/00003394/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒学生のためのインターンシップ・採用情報サイト",
+    "url": "https://job.career-tasu.jp/corp/00003394/",
+    "pass": 3
+   },
+   {
+    "quote": "入社半年間は先輩社員の指導もと業務を行っていただきます",
+    "url": "https://job.career-tasu.jp/corp/00003394/",
+    "pass": 3
+   },
+   {
+    "quote": "インターンシップ・キャリアに参加して、仕事のリアルを体験＆業界研究を進めよう！",
+    "url": "https://job.career-tasu.jp/corp/00003394/",
+    "pass": 3
+   },
+   {
+    "quote": "業種やクチコミ、日程や報酬の有無などあなたに合ったインターンシップ・キャリアを検索できます",
+    "url": "https://job.career-tasu.jp/corp/00003394/",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "富士機械工業の年収・給与・昇給・ボーナス｜Yahoo!しごとカタログ",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110004040/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "全43件の年収・給与情報を集計した結果、",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110004040/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "富士機械工業の平均年収は529万円でした",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110004040/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "これはメーカー「重電･産業用機械」業界の平均517万円より12万円ほど高い傾向があります",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110004040/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "30代で400万円を超え、その後40代で600万円を超えている",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110004040/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "30代から40代にかけての伸びが最も大きく、174万円増加しています",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110004040/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "430〜620万円",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110004040/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "590〜850万円",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110004040/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "※平均年収を基に、一般的な振れ幅（業界別係数）を考慮して算出した理論値です",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110004040/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "クボタで働く魅力のひとつは、年収水準が業界内でも安定して高めである点です",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110004040/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "基本給に加え、賞与",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110004040/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "周りの同級生達に比べれば、各種手当てや待遇も良く、賞与、昇給制度も、非常に良く、満足がいくも",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110004040/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "4億5,000万円",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110004040/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "富士機械工業株式会社の年収・給与・昇給・ボーナス",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110004040/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "富士機械工業の年収・給与 平均年収 - エン カイシャの評判",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "富士機械工業株式会社の正社員13人の回答によると平均年収は520万円、年収範囲は400～780万円です",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "カイシャの評判に掲載されている年収情報は、当該企業で就業経験のある方を対象としたアンケートを基に、有効な回答かつ、雇用形態が正社員の回答から算出しております",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトの年収情報は、ユーザーの皆様に投稿いただいた時点の回答に基づいているため、実際の年収とは異なる可能性があります",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "富士機械工業株式会社の年収・給与についての口コミ",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "本社勤務には手当はないが、大阪と東京に勤務する人は地域手当が3〜4万円つく",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給に関しては等級(役職)が上がる条件がなかなかタイミングなどが合えばいいが、なかなか難しい",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:基本給は低く、残業代及び出張...",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:給与は比較的低いが、残業代は...",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与は比較的低いが、残業代は全て出る",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:基本給はかなり安い方だと言わ...",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":昇給は4～5千円程度、賞与は4か月前後、住宅手当が１万円あり...",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":年収300万賞与年3回あり残業手当あり評価制度:昇給あり...",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":年功序列、賞与が比較的多め",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":年に1回の昇給あり（但し上長からの評価で上がったり下がったり...",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":一般的な企業とさほど変わらない給与水準だと思います",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "東芝エネルギーシステムズ株式会社の年収・給与",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":賞与は業績に連動部分と個人成果部分と固定部分からなる",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社デンソーエアシステムズの年収・給与",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":賞与は高めではある評価制度:年功序列...",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "450百万円",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "132億7,619万円（2025年8月実績）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp275003/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "132億7619万円",
+    "url": "https://job.career-tasu.jp/corp/00003394/",
+    "pass": 3
+   },
+   {
+    "quote": "132億7619万円（2025年8月期）",
+    "url": "https://job.career-tasu.jp/corp/00003394/",
+    "pass": 3
+   },
+   {
+    "quote": "職種や給与から企業データや選考の特徴まで様々な情報を掲載！",
+    "url": "https://job.career-tasu.jp/corp/00003394/",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "富士機械工業株式会社 【広島/転勤なし】経理担当（原価計算・月次決算）ニッチトップ企業・25年連続黒字経営・年休120日 【仕事内容】 【広島/転勤なし】経理担当（原価計算・月次決算）ニッチトップ企業・25年連続黒字経営・年休120日 【具体的な仕事内容】 ◎ニッチトップ企業・25年連続黒字経営！堅実経営で安定感抜群 ◎年間休日120日・完全週休2日 ■仕事内容： 経理担当として、月次決算業務や工場経理（原価計算）を中心に携わっていただきます",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110004040/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川県川崎市幸区堀川町72番地34",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "【海外出張も！世界約40か国以上に納入実績があるグローバル企業】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp275003/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【＼海外出張も！／世界約40か国以上に納入実績があるグローバル企業】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp275003/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "本社工場において、ISO9001：2000認証取得",
+    "url": "https://job.mynavi.jp/27/pc/search/corp275003/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "本社工場において、ISO14001：2004認証取得",
+    "url": "https://job.mynavi.jp/27/pc/search/corp275003/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "八本松製作所第2工場を金属印刷機の専用工場として稼動を開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp275003/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "八本松製作所、八本松第2工場において、ISO14001：2004認証取得",
+    "url": "https://job.mynavi.jp/27/pc/search/corp275003/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "スペックや機能面、そして耐久性が他社よりも優れているという高い評価から、中国やベトナム、インドネシア、タイなどの東南アジアをはじめ、中南米、ヨーロッパ、アフリカなど世界各地40カ国以上に私たちが製造した印刷機が納入され、富士機械工業というブランドが確立されています",
+    "url": "https://job.career-tasu.jp/corp/00003394/",
+    "pass": 3
+   },
+   {
+    "quote": "打合せから設計・製造、完成まで自社内の部品工場で一貫して対応し、すべての製造工程において品質管理を徹底",
+    "url": "https://job.career-tasu.jp/corp/00003394/",
+    "pass": 3
+   },
+   {
+    "quote": "安心して製品をご利用いただけるよう、メンテナンスサービス拠点を国内に３ケ所（広島本社に専門部署、東京・大阪に関係会社）、海外のお客様向けにタイのバンコク、中国の大連にメンテナンスサービス協力会社があり、お客様のご要望、ご質問、万一の製品トラブルなどにも専門スタッフが迅速に対応できる体制を整えています",
+    "url": "https://job.career-tasu.jp/corp/00003394/",
+    "pass": 3
+   },
+   {
+    "quote": "本店・府中事業所／八本松製作所 第2工場／東京支社／大阪営業所",
+    "url": "https://job.career-tasu.jp/corp/00003394/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "富士機械工業株式会社 の給与 | Indeed (インディード) — 日本での富士機械工業株式会社の平均給与 富士機械工業株式会社の平均年収は、約415万円 (社内SE) 〜772万円 (課長) です。 富士機械工業株式会社の平均月給の範囲は約 20.1万円／月（新卒採用 開発）から約 43.3万円／月（生産管理）です。 給与情報は、Indeed にこれまでに掲載された1,571件の求人 ...",
+    "url": "https://jp.indeed.com/cmp/富士機械工業株式会社/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "富士機械工業の年収・給与・昇給・ボーナス｜Yahoo!しごとカタログ — 富士機械工業株式会社の社員・元従業員による平均年収は、回答者は529万円。年収・給与・ボーナスなどの待遇に関する評判・クチコミを掲載。職種、雇用形態別、年代別などの平均年収も掲載。",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110004040/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "富士機械工業の年収・給与 平均年収も - エン カイシャの評判富士機械工業株式会社の平均年収、年間給与所得情報 − 転職ならdoda（...富士機械工業の年収・給与3件｜平均・中央値・職種・役職・年代別富士機械工業株式会社 の求人・中途採用情報 − 転職ならdoda（デュー... — 富士機械工業株式会社の平均年収は520万円、年収範囲は400～780万円です（13人の正社員の回答）。年収・給与に関する口コミを4件掲載中。「エン カイシャの評判（旧ライトハウス）」。 富士機械工業株式会社の平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで439,710社の企業情報が無料で検索・閲覧できます。 Jul 31, 2025 · 富士機械工業株式会社 (広島) 社員満足度2.00（1人回答） 2026年",
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "富士機械工業株式会社の平均年収、年間給与所得情報 − 転職ならdoda（... — 富士機械工業株式会社の平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで439,710社の企業情報が無料で検索・閲覧できます。",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10003210906/",
+    "pass": 3
+   },
+   {
+    "quote": "富士機械工業の年収・給与3件｜平均・中央値・職種・役職・年代別 — Jul 31, 2025 · 富士機械工業株式会社 (広島) 社員満足度2.00（1人回答） 2026年09月16日 更新 クチコミを投稿する フォローする 企業TOP年収3件クチコミ5件転職0件福利厚生1件Q&A0件 年収TOP給与データクチコミ・評判",
+    "url": "https://openmoney.jp/corporations/19088/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "富士機械工業 (株)の新卒採用・会社概要 | マイナビ2027富士機械 (株)の新卒採用・会社概要 | マイナビ2027富士機械工業株式会社の企業情報 | インターンシップ・新卒採用情報か...正社員 - 富士機械工業リクルートサイト富士機械工業の新卒採用・就職・企業情報【就活会議】 — 富士機械工業 (株)の会社概要ページです。マイナビ2027は、採用情報や企業情報で、就職活動をサポートします。 富士機械(株)の会社概要ページです。マイナビ2027は、富士機械(株)の採用情報や企業情報で、就職活動をサポートします。 スペックや機能面、そして耐久性が他社よりも優れているという高い評価から、中国やベトナム、インドネシア、タイなどの東南アジアをはじめ、中南米、ヨーロッパ、アフリカなど世界各地40カ国以上に私たちが製造した印刷機が納入され、富士機械工業 ... グラビア印刷機・金属印刷機・ラミネ",
+    "url": "https://job.mynavi.jp/27/pc/search/corp275003/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "富士機械 (株)の新卒採用・会社概要 | マイナビ2027富士機械工業株式会社の企業情報 | インターンシップ・新卒採用情報か...正社員 - 富士機械工業リクルートサイト富士機械工業の新卒採用・就職・企業情報【就活会議】 — 富士機械(株)の会社概要ページです。マイナビ2027は、富士機械(株)の採用情報や企業情報で、就職活動をサポートします。 スペックや機能面、そして耐久性が他社よりも優れているという高い評価から、中国やベトナム、インドネシア、タイなどの東南アジアをはじめ、中南米、ヨーロッパ、アフリカなど世界各地40カ国以上に私たちが製造した印刷機が納入され、富士機械工業 ... グラビア印刷機・金属印刷機・ラミネーター・コータ－・製造設備メーカー「富士機械工業株式会社」のリクルートサイトです。仕事内容や社員紹介、福利厚生など富士機械工業での仕事について紹介しています。 新卒採用・キャ",
+    "url": "https://job.mynavi.jp/27/pc/search/corp108733/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "富士機械工業株式会社の企業情報 | インターンシップ・新卒採用情報か... — スペックや機能面、そして耐久性が他社よりも優れているという高い評価から、中国やベトナム、インドネシア、タイなどの東南アジアをはじめ、中南米、ヨーロッパ、アフリカなど世界各地40カ国以上に私たちが製造した印刷機が納入され、富士機械工業 ...",
+    "url": "https://job.career-tasu.jp/corp/00003394/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員 - 富士機械工業リクルートサイト — グラビア印刷機・金属印刷機・ラミネーター・コータ－・製造設備メーカー「富士機械工業株式会社」のリクルートサイトです。仕事内容や社員紹介、福利厚生など富士機械工業での仕事について紹介しています。 新卒採用・キャリア採用はこちらのサイトからエントリーを受け付けています。",
+    "url": "https://fujikikaikogyo.com/recruit/employment/正社員/",
+    "pass": 3
+   },
+   {
+    "quote": "富士機械工業の新卒採用・就職・企業情報【就活会議】 — 富士機械工業の新卒採用・就職・企業情報 富士機械工業株式会社の社員・元社員による総合評価は2.7点です（口コミ回答数20件）。ESや本選考体験記は0件あります。基本情報のほか、富士機械工業株式会社の社員・元社員による会社の評価、過去のインターン選考の内容、内定した学生の志望 ...",
+    "url": "https://syukatsu-kaigi.jp/companies/6648",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "インドネシア語サービスANC 大阪 講師派遣（法人向け語学研修）、翻訳... 富士機械工業 インドネシアに現地法人印刷機メンテ強化、タイ・中国は製造機能拡充 ｜ ひろしま企業図鑑 https://t.co/3OZKApBT3z #インドネシア #インドネシア経済 #富士機械工業 #東広島 #製造業 #海外進出 #東南アジア #ビジネスニュース",
+    "url": "https://x.com/indonesian_inf_/status/2108301575055691916",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】広島経済レポート (広島経済研究所) on X: \"【本日発行 】#広... 【本日発行 】#広島経済レポート 2026年10月8日号 📰注目の #ニュース をピックアップ🔍 ・医療バイオの広島大発ベンチャー相次ぐ 企業連携など通じ技術開発、市場開拓へ ・広島でAIアシュアランス協議会が発足 ・富士機械工業がインドネシアに現地法人 …etc.",
+    "url": "https://x.com/H_keizai_report/status/2107984320723857915",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "富士機械工業株式会社 - Facebook Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and post content.",
+    "url": "https://www.facebook.com/富士機械工業株式会社-838840369537103/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.zoominfo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/products/recruiting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/about/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/about/help-center",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/about/case-studies/mondaycom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/about/case-studies/seismic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/about/case-studies/palo-alto-networks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/about/case-studies/spekit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/about/case-studies/snowflake",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/products/sales",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/cmp/%E5%AF%8C%E5%A3%AB%E6%A9%9F%E6%A2%B0%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110004040/salaries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en-hyouban.com/company/10003210906/salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp275003/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp108733/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.career-tasu.jp/corp/00003394/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/indonesian_inf_/status/2108301575055691916",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/H_keizai_report/status/2107984320723857915",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/富士機械工業株式会社-838840369537103/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "富士機械工業 求人 年収",
+   "results": [
+    "https://jp.indeed.com/cmp/富士機械工業株式会社/salaries",
+    "https://jobcatalog.yahoo.co.jp/company/1110004040/salaries/",
+    "https://en-hyouban.com/company/10003210906/salary/",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10003210906/",
+    "https://openmoney.jp/corporations/19088/salaries",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10003210906/",
+    "https://jp.indeed.com/cmp/富士機械株式会社/salaries"
+   ]
+  },
+  {
+   "query": "富士機械工業 採用 新卒 高卒",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp275003/outline.html",
+    "https://job.mynavi.jp/27/pc/search/corp108733/outline.html",
+    "https://job.career-tasu.jp/corp/00003394/",
+    "https://fujikikaikogyo.com/recruit/employment/正社員/",
+    "https://syukatsu-kaigi.jp/companies/6648",
+    "https://fujikikaikogyo.com/recruit/requirements/",
+    "https://fmc.subaru.co.jp/recruit/"
+   ]
+  },
+  {
+   "query": "site:note.com 富士機械工業",
+   "results": [
+    "https://note.com/stock1/n/n9a84fc005a61",
+    "https://note.com/nextgenbuffett/n/ne9e27cc24835",
+    "https://note.com/ryokubota/n/n625aea5f2e21",
+    "https://note.com/clipcorporation/n/n5f173266a319",
+    "https://note.com/chu_sotu/n/n4a815529c050",
+    "https://note.com/suntech_official/n/n5c8403251699",
+    "https://note.com/oh_no/n/n92f8b0176fbe"
+   ]
+  },
+  {
+   "query": "site:x.com 富士機械工業",
+   "results": [
+    "https://x.com/indonesian_inf_/status/2108301575055691916",
+    "https://x.com/H_keizai_report/status/2107984320723857915",
+    "https://x.com/Daily_Package/status/1356943834446356483",
+    "https://x.com/BlackRG250GANMA/status/2007710371940069797",
+    "https://x.com/nicecutfujigen",
+    "https://x.com/study_just2020/status/2105194387215175794",
+    "https://x.com/houjininfo/status/2045708394867339303"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 富士機械工業",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com 富士機械工業",
+   "results": [
+    "https://www.facebook.com/富士機械工業株式会社-838840369537103/",
+    "https://www.facebook.com/fujihokikai/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/株式会社-富士機械-460945760778224/",
+    "https://www.facebook.com/FUJI.GUIDE/",
+    "https://www.facebook.com/sigamachine/",
+    "https://www.facebook.com/p/株式会社-富士機械-100067210075201/"
+   ]
+  },
+  {
+   "query": "富士機械工業 note 社長",
+   "results": [
+    "https://fujikikaikogyo.com/company/message/",
+    "https://compalyze.co.jp/company/6240001036609",
+    "https://zukan.biz/maker/fujikikai-news1/",
+    "https://catr.jp/companies/6681d/35392",
+    "https://fujikikaikogyo.com/company/",
+    "https://www.nikkan.co.jp/articles/view/00581155",
+    "https://www.buffett-code.com/company/6134/governance"
+   ]
+  },
+  {
+   "query": "富士機械工業 X 投稿",
+   "results": [
+    "https://fujikikaikogyo.com/",
+    "https://fujikikaikogyo.com/products/primex/",
+    "https://en-hyouban.com/company/10003210906/user_kuchikomi/8321365/",
+    "https://www.youtube.com/@富士機械工業株式会社",
+    "https://www.instagram.com/p/DClfR-JyLTy/",
+    "https://fmc.subaru.co.jp/",
+    "https://www.fuji-kikai.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部9頁・検索8回）",
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部9頁・検索8回）",
+  "資本金": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部9頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部9頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部9頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部9頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部9頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部9頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部9頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部9頁・検索8回）"
+ }
+}

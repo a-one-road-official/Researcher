@@ -1,0 +1,559 @@
+{
+ "name": "サンセイジェネリック",
+ "aliases": [],
+ "context": "広島県福山市／出典:県・市の企業ガイド／求人媒体:Indeed;doda;自社採用ページ／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T07:12:41.279525+00:00",
+ "official_url": "https://www.sunsay.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "[ 本社・本社工場 ] 〒721-0955 広島県福山市新涯町2丁目14番3号 TEL(084)981-2770 FAX(084)981-2780 [ R&Dセンター ] 〒720-0955 広島県福山市新涯町2丁目15番31号 TEL(084)981-2770 FAX(084)981-2780 [ テクノロジーセンター ] 〒720-0955 広島県福山市新涯町2丁目14番3号 TEL(084)981-2770 FAX(084)981-2780 [ デザインセンター ] 〒722-0035 広島県尾道市土堂1丁目13番12号 TEL(084)981-2770 FAX(084)981-2780",
+    "url": "https://www.sunsay.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "広島県福山市新涯町2丁目14番3号 TEL:(084)981-2770 FAX:(084)981-2780",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "label": "ご住所 *",
+    "value": "[ 郵便番号７桁を入力すると、自動的に町名まで入力されます ] 北海道 青森県 岩手県 宮城県 秋田県 山形県 福島県 茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県 新潟県 富山県 石川県 福井県 山梨県 長野県 岐阜県 静岡県 愛知県 三重県 滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県 鳥取県 島根県 岡山県 広島県 山口県 徳島県 香川県 愛媛県 高知県 福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県 沖縄県 (都道府県) (市町村・番地)",
+    "url": "https://www.sunsay.co.jp/inquiry/?kind=5",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1984年4月1日",
+    "url": "https://www.sunsay.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "9,800万円",
+    "url": "https://www.sunsay.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "杉本 一弘 杉本 彩夏",
+    "url": "https://www.sunsay.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "45人",
+    "url": "https://www.sunsay.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "営業品目",
+    "value": "高周波電源及び高周波マッチングユニットの販売 高周波電力測定機器の開発及び販売 高周波インターロックシステムの開発及び販売 Process Chamberの開発及び販売 RF GENERATORおよびRF MATCHING BOXの修理業務 半導体ROBOTの開発、製造及び販売 半導体熱交換器の開発、製造及び販売 半導体、LCD製造装置の開発及び修理・改善工事及び仕様変更業務",
+    "url": "https://www.sunsay.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "9,800万円",
+    "url": "https://www.sunsay.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "短大卒：18万円",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "高専卒：19万円",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "年収550万/30歳",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "年収400万／24歳",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "短大卒：19万円",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "専修学校卒：18万円",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "年収450万/30歳",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "年収350万／24歳",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "短大卒：17万円",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "専修学校卒：17万円",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "高専卒：18万円",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "年収500万/30歳",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "月給：18万5,000円～50万円",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "月給：18万5,000円～35万円",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "月給：17万5,000円～28万円",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "月給：20万～40万円",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "月給：16万5,000円～30万円",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "月給：18万5,000円～33万円",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "月給：18万5,000円～30万円",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "給与については年齢、経験等を考慮の上、決定致します",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "年収に付きましては、新卒のモデルケースをご参考にしてください",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "月給 165,000円～",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "月給 16万5,000円～",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "9800万円",
+    "url": "https://helloworkplus.com/company/3405-307047-3/",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "事故最大3億円",
+    "url": "https://www.sunsay.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "リコール費用限定補償特約：1億円",
+    "url": "https://www.sunsay.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "てん補限度額…輸送中：2億円、保管･加工中：1億円",
+    "url": "https://www.sunsay.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "福山市新涯町に工場(1F) 、デザインセンター(3F) 、デザインセンター(3F)新設",
+    "url": "https://www.sunsay.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "本社 工場ISO14001 環境対策 外断熱、高気密 省エネ 改装実施",
+    "url": "https://www.sunsay.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "本社 工場ISO14001 環境対策 全エアコン 超省エネタイプに改装",
+    "url": "https://www.sunsay.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "本社 工場 ISO14001環境対策 超省エネ 節水型タイプトイレに改装(50％節水)",
+    "url": "https://www.sunsay.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "本社 工場 ISO14001環境対策 ペアー断熱ガラスに改装(消費電力10％低減)",
+    "url": "https://www.sunsay.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "本社第二工場用地取得 800坪",
+    "url": "https://www.sunsay.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "本社、本社工場、テクノロジーセンター最新自動火災警報器導入",
+    "url": "https://www.sunsay.co.jp/history/",
+    "pass": 1
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "採用情報｜サンセイジェネリック株式会社-SUNSAY GENERIC-",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "サンセイジェネリックの新卒採用・就職・会社概要とクチコミ｜就活サイト【ワンキャリア】",
+    "url": "https://www.onecareer.jp/companies/72679",
+    "pass": 3
+   },
+   {
+    "quote": "サンセイジェネリックの新卒採用・就職・会社概要とクチコミ",
+    "url": "https://www.onecareer.jp/companies/72679",
+    "pass": 3
+   },
+   {
+    "quote": "最新の情報は、各出典元、企業公式サイトおよび募集要項等をご確認ください",
+    "url": "https://www.onecareer.jp/companies/72679",
+    "pass": 3
+   },
+   {
+    "quote": "コンサル・シンクタンクのエントリーシート（ES）",
+    "url": "https://www.onecareer.jp/companies/72679",
+    "pass": 3
+   },
+   {
+    "quote": "ブライダル・美容・くらしのエントリーシート（ES）",
+    "url": "https://www.onecareer.jp/companies/72679",
+    "pass": 3
+   },
+   {
+    "quote": "公務員・団体職員のエントリーシート（ES）",
+    "url": "https://www.onecareer.jp/companies/72679",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "RCC中国放送「イマナマ！」のニュースコーナーで紹介されました！たくさんご来場いただき有難うございました！https://www.youtube.com/watch?v=3BLAZcAM3CE",
+    "url": "https://www.sunsay.co.jp/topics/index.php?id=206",
+    "pass": 1
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "ハローワークで公開されたこの法人の求人情報を helloworkplus が集計したものです",
+    "url": "https://helloworkplus.com/company/3405-307047-3/",
+    "pass": 3
+   },
+   {
+    "quote": "出典: ハローワークで公開された求人情報をもとに helloworkplus が集計",
+    "url": "https://helloworkplus.com/company/3405-307047-3/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "採用情報｜サンセイジェネリック株式会社-SUNSAY GENERIC-サンセイジェネリック 株式会社の求人一覧 （32件 ・18.0〜50.0万 ）サンセイジェネリック 株式会社 の給与 | Indeed (インディード)サンセイジェネリックの年収・給与体系・待遇の魅力｜就活サイト【ワ...サンセイの年収・報酬レポート【年収671万／役員報酬2783万】 | TX会...サンセイジェネリック 株式会社のバイト・パート・正社員求人情報 | I...サンセイジェネリック株式会社の平均年収、年間給与所得情報 − 転職な... — 給与については年齢、経験等を考慮の上、決定致します。 年収に付きましては、新卒のモデルケースをご参考にして ... サンセイジェネリック 株式会社の求人一覧。掲載求人数は32件。月給・時給の相場は18.0〜50.0万です。広島県福山市新涯町2-14-3。給与偏差値・年齢",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "サンセイジェネリック 株式会社の求人一覧 （32件 ・18.0〜50.0万 ） — サンセイジェネリック 株式会社の求人一覧。掲載求人数は32件。月給・時給の相場は18.0〜50.0万です。広島県福山市新涯町2-14-3。給与偏差値・年齢別年収データ付きでハローワーク求人を分析。ハローワーク+で。",
+    "url": "https://helloworkplus.com/company/3405-307047-3/",
+    "pass": 3
+   },
+   {
+    "quote": "サンセイジェネリック 株式会社 の給与 | Indeed (インディード) — 日本でのサンセイジェネリック 株式会社の平均給与 Indeed に掲載された求人と、この企業の従業員から寄せられたサンセイジェネリック 株式会社の給与情報を参照する。 給与情報は、Indeed にこれまでに掲載された8件の求人に基いた推定値です。",
+    "url": "https://jp.indeed.com/cmp/サンセイジェネリック　株式会社/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "サンセイジェネリックの年収・給与体系・待遇の魅力｜就活サイト【ワ... — サンセイジェネリックの年収に関する情報です。職種別の初任給や年収、賞与、昇給に関するクチコミなど、気になる待遇面を詳しく掲載しています。将来のキャリアパスやライフプランを考えるための企業研究にご活用ください。はじめてのキャリアを選ぶ、就活サイト【ワンキャリア】",
+    "url": "https://www.onecareer.jp/companies/72679/salary",
+    "pass": 3
+   },
+   {
+    "quote": "サンセイの年収・報酬レポート【年収671万／役員報酬2783万】 | TX会...サンセイジェネリック 株式会社のバイト・パート・正社員求人情報 | I...サンセイジェネリック株式会社の平均年収、年間給与所得情報 − 転職な... — Jun 24, 2026 · サンセイの年収・報酬レポートです。社員年収の評点は4、役員報酬の評点は2.5です。サンセイの平均年収は671万です。業種別としては、建設機械メーカ一の分野(平均768万)でやや低めな水準に位置します。大阪府の上場企業(平均689万)では一般的な水準に位置します。サンセイの役員(社外役員を ... サンセイジェネリック 株式会社の最新の求人は12件です。サンセイジェネリック 株式会社の求人情報、採用動向、社員クチコミ、給与などの企業情報を掲載しています。 サンセイジェネリック株式会社の平均年収（年間収入）、職種別の入社後の年収例",
+    "url": "https://tx-town.jp/corp/O2SGEdx1wXn4",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報｜サンセイジェネリック株式会社-SUNSAY GENERIC-サンセイジェネリックの新卒採用・就職・会社概要とクチコミ18 件の サンセイジェネリック の求人 | Indeed (インディード)サンセイジェネリック 株式会社の求人一覧 （32件 ・18.0〜50.0万 ）サンセイジェネリック株式会社-高周波電源・マッチングユニット、半導...サンセイジェネリック 株式会社のハローワーク求人情報一覧サンセイジェネリック 株式会社のバイト・パート・正社員求人情報 | I... — 本社・本社工場 〒721-0955 広島県福山市新涯町2丁目14番3号 TEL： (084)981-2770 FAX： (084)981-2780 サンセイジェネリックの概要、企業研究、就活対策情報です。最新のインターンシップ ・説明会情報の他、ES・GD・面接・インターン・OB訪問・リクルーターの選考内容と",
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "サンセイジェネリックの新卒採用・就職・会社概要とクチコミ — サンセイジェネリックの概要、企業研究、就活対策情報です。最新のインターンシップ ・説明会情報の他、ES・GD・面接・インターン・OB訪問・リクルーターの選考内容と先輩内定者の回答例を掲載しています。はじめてのキャリアを選ぶ、就活サイト【ワンキャリア】",
+    "url": "https://www.onecareer.jp/companies/72679",
+    "pass": 3
+   },
+   {
+    "quote": "18 件の サンセイジェネリック の求人 | Indeed (インディード) — サンセイジェネリックの求人は18件あります。新卒採用 エンジニア, ソフト開発, Cadオペレーターなどの仕事・転職・アルバイト情報もまとめて検索。",
+    "url": "https://jp.indeed.com/q-サンセイジェネリック-求人.html?vjk=efd5978e7a1ee7fe",
+    "pass": 3
+   },
+   {
+    "quote": "サンセイジェネリック株式会社-高周波電源・マッチングユニット、半導... — 高周波電源やマッチングユニット、半導体製造機器の開発・販売は、ナノテクノロジーのサンセイジェネリック株式会社 [sunsay Industries]",
+    "url": "https://www.sunsay.co.jp/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "サンセイジェネリック - Facebook サンセイジェネリック - Facebook ... サンセイジェネリック",
+    "url": "https://www.facebook.com/pages/サンセイジェネリック/402511910117827/",
+    "pass": 3
+   },
+   {
+    "quote": "就活ふくやま - 【事業者情報】 サンセイジェネリック株式会社... サンセイジェネリック株式会社は平成7年より半導体業界に進出しました。 半導体製造工程の中で使用する高周波機器を主力商品とし、エッチング工程においては、独占的な納入実績を持ちます。",
+    "url": "https://www.facebook.com/shukatsufukuyama/posts/事業者情報サンセイジェネリック株式会社サンセイジェネリック株式会社は平成7年より半導体業界に進出しました半導体製造工程の中で使用する高周波機器を主力商品としエッ/3922979287778191/",
+    "pass": 3
+   },
+   {
+    "quote": "経済リポート - ≪経済リポートWEB≫... | Facebook May 18, 2025 · ≪経済リポートWEB≫ https://keizai.info/special-feature/148816 サンセイジェネリックの社長に杉本彩夏さんが就きました。最新号の ...",
+    "url": "https://www.facebook.com/keizai.co.jp/posts/経済リポートweb-サンセイジェネリックの社長に杉本彩夏さんが就きました最新号の特集記事ですサイセイジェネリック半導体社長経済リポート福山/1163886895752077/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "経済リポート on X: \"サンセイジェネリックの社長に杉本彩夏氏が就き... May 22, 2025 · サンセイジェネリックの社長に杉本彩夏氏が就きました。最新号で紹介しております。 #サンセイジェネリック #社長 #経済 ...",
+    "url": "https://x.com/keizairipoto/status/1925680130887688615",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sunsay.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sunsay.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sunsay.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sunsay.co.jp/topics/index.php?id=206",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sunsay.co.jp/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sunsay.co.jp/inquiry/?kind=5",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sunsay.co.jp/images/btn7_off.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sunsay.co.jp/images/leftbtn1_off.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sunsay.co.jp/recruit/images/mainimg.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://helloworkplus.com/company/3405-307047-3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E3%82%B5%E3%83%B3%E3%82%BB%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AA%E3%83%83%E3%82%AF%E3%80%80%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onecareer.jp/companies/72679",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E3%82%B5%E3%83%B3%E3%82%BB%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AA%E3%83%83%E3%82%AF-%E6%B1%82%E4%BA%BA.html?vjk=efd5978e7a1ee7fe",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/pages/サンセイジェネリック/402511910117827/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/shukatsufukuyama/posts/事業者情報サンセイジェネリック株式会社サンセイジェネリック株式会社は平成7年より半導体業界に進出しました半導体製造工程の中で使用する高周波機器を主力商品としエッ/3922979287778191/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/keizai.co.jp/posts/経済リポートweb-サンセイジェネリックの社長に杉本彩夏さんが就きました最新号の特集記事ですサイセイジェネリック半導体社長経済リポート福山/1163886895752077/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/keizairipoto/status/1925680130887688615",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "サンセイジェネリック 求人 年収",
+   "results": [
+    "https://www.sunsay.co.jp/recruit/",
+    "https://helloworkplus.com/company/3405-307047-3/",
+    "https://jp.indeed.com/cmp/サンセイジェネリック　株式会社/salaries",
+    "https://www.onecareer.jp/companies/72679/salary",
+    "https://tx-town.jp/corp/O2SGEdx1wXn4",
+    "https://jp.indeed.com/cmp/サンセイジェネリック　株式会社/jobs",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10002981795/"
+   ]
+  },
+  {
+   "query": "サンセイジェネリック 採用 新卒 高卒",
+   "results": [
+    "https://www.sunsay.co.jp/recruit/",
+    "https://www.onecareer.jp/companies/72679",
+    "https://jp.indeed.com/q-サンセイジェネリック-求人.html?vjk=efd5978e7a1ee7fe",
+    "https://helloworkplus.com/company/3405-307047-3/",
+    "https://www.sunsay.co.jp/",
+    "https://www.job-net.jp/employers/1240001033247",
+    "https://jp.indeed.com/cmp/サンセイジェネリック　株式会社/jobs"
+   ]
+  },
+  {
+   "query": "site:note.com サンセイジェネリック",
+   "results": [
+    "https://note.com/062203/n/n8b0f41cc5086",
+    "https://note.com/kusuri_no_mado/n/nea04ce001836",
+    "https://note.com/haru_10th/n/n4b641a834cc7",
+    "https://note.com/uskw_pharmacist/n/nf611081e9922",
+    "https://note.com/yakuzai_ai/n/nce104bc4fd33",
+    "https://note.com/meguringosan/n/nbf2291828bf1",
+    "https://note.com/lofty_eel4688/n/na5c15cc488e6"
+   ]
+  },
+  {
+   "query": "site:x.com サンセイジェネリック",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com サンセイジェネリック",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com サンセイジェネリック",
+   "results": [
+    "https://www.facebook.com/pages/サンセイジェネリック/402511910117827/",
+    "https://www.facebook.com/shukatsufukuyama/posts/事業者情報サンセイジェネリック株式会社サンセイジェネリック株式会社は平成7年より半導体業界に進出しました半導体製造工程の中で使用する高周波機器を主力商品としエッ/3922979287778191/",
+    "https://www.facebook.com/keizai.co.jp/posts/経済リポートweb-サンセイジェネリックの社長に杉本彩夏さんが就きました最新号の特集記事ですサイセイジェネリック半導体社長経済リポート福山/1163886895752077/",
+    "https://www.facebook.com/keizai.co.jp/posts/経済リポートwebhttpskeizaiinfospecial-feature148816サンセイジェネリックの社長に杉本彩夏さんが就きました最新号の特集記事で/1163886895752077/",
+    "https://www.facebook.com/keizai.co.jp/photos/フラッシュメモリー業界とｄｒａｍ業界シェア１３を握る福山の隠れたナンバーワン企業のサンセイジェネリックの杉本一弘社長のインタビュー記事です詳細は経済リポート３月/2883813875176853/",
+    "https://www.facebook.com/keizai.co.jp/photos/プラズマ用機器の製造保守半導体製造装置などの製造保守のサンセイジェネリック福山市新涯町２はこのほど新型コロナウイルス感染対策用高濃度オゾン発生装置を開発しました/2807610029463905/",
+    "https://www.facebook.com/keizai.co.jp/photos/経済リポートwebhttpskeizaiinfospecial-feature148816サンセイジェネリックの社長に杉本彩夏さんが就きました最新号の特集記事で/1163886819085418/"
+   ]
+  },
+  {
+   "query": "サンセイジェネリック note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.sunsay.co.jp/",
+    "https://keizai.info/special-feature/148816",
+    "https://x.com/keizairipoto/status/1925680130887688615",
+    "https://compalyze.co.jp/company/1240001033247",
+    "https://www.sunsay.co.jp/company/",
+    "https://www.tsr-net.co.jp/alevel/detail/1200242_2071.html"
+   ]
+  },
+  {
+   "query": "サンセイジェネリック X 投稿",
+   "results": [
+    "https://www.sunsay.co.jp/",
+    "https://www.sunsay.co.jp/topics/index.php?id=22",
+    "https://x.com/SRDmobile/status/2115037938648219974",
+    "https://x.com/ak1syou/status/2114724857447604407",
+    "https://www.san-x.co.jp/ja/blog/2026-11-post-0706190/",
+    "https://www.sansei-rd.com/search/info/campaign_kiyaku_sanseird2.html",
+    "https://dojin.dmm.co.jp/help/twitter"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部8頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部8頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部8頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部8頁・検索8回）"
+ }
+}

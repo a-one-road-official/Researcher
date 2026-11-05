@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・41品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・44品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -216,10 +216,10 @@
   - 「: This approach uses data from transactions involving similar businesses within the same industry. By analyzing the multiples paid in these transactions, you can estimate the value of your company.」（https://aventis-advisors.com/how-to-value-a-private-company/）
   - 「: This method estimates the value of a company’s assets if they were to be sold off in a liquidation scenario. This approach is often used when a company struggles financially or faces bankruptcy.」（https://aventis-advisors.com/how-to-value-a-private-company/）
   - 「Selecting the appropriate valuation method depends on the nature of your business, the availability of data, and the purpose of the valuation. It is often helpful to use multiple methods to cross-check and validate your results.」（https://aventis-advisors.com/how-to-value-a-private-company/）
+  - 「それぞれについて「なぜこの企業がそれを求めているのか」を1行で書く（仮説でよい）」（https://note.com/restart_notes25/n/nf64264f912f9）
+  - 「自己分析で出てきた「自分が求めていること」と、Q4で調べた内容を照合する」（https://note.com/restart_notes25/n/nf64264f912f9）
   - 「会計検査院による抽出調査および国税庁による再検証データは、現行の類似業種比準方式が内包する客観的な価格乖離を明らかにしました2」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
   - 「国税庁の集計では、過去10年間に14件、推計約14億円に及ぶ税額減少事例が把握され、課税の公平性を著しく損ねている実態が是正の論拠として位置づけられました7」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「ギリシャにおいて2002年に同族企業内の承継税率が20%から2%へと大幅に引き下げられた制度変更を差の差法（Difference-in-Differences）によって検証した結果、高率課税に直面した企業は承継の前後において設備投資（有形固定資産投資）が40%以上減少することが確認されました19」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
-  - 「このような行動様式は、政府が賃上げ促進税制や中小企業投資促進税制を通じて推進してきた設備投資の拡大や賃金引き上げという政策目標と根本的に矛盾し、中小企業セクター全体の生産性向上を抑制する要因となってきました8」（https://note.com/_takumi_inoue_/n/nd615f1ed45df）
 - 一次情報の探し方：
   - 「300社以上の採用支援をしてきた経験をもとに、各大学の就活講座の講師も務め、年間3,000人以上に講演」（https://careerpark-agent.jp/column/67587）
   - 「②ホームページや採用ページ：企業の詳しい情報がわかる」（https://careerpark-agent.jp/column/67587）
@@ -280,6 +280,10 @@
   - 「就活の企業分析のやり方｜見るべき項目やフレームワーク、選考への活... — 就活の企業分析のやり方を徹底解説。企業分析を行う目的から、ミッション・IR・求人情報などの調べ方、企業・業界・競合・自分の4つの視点で整理するフレームワーク、志望動機や面接に活かすポイントまで紹介します。」（https://corp.neo-m.jp/marketer-gate/career-column/company-analysis）
   - 「企業分析のやり方とは？効果的な項目や注意点を紹介 | あばば大学 — Jul 27, 2026 · 企業分析のフレームワーク 効率よく企業分析をするには、フレームワークの活用がおすすめです。考え方の枠組みとなるフレームワークを使って分析することで、より効率的に企業理解を深められます。以下では、企業分析におすすめのフレームワークを3つ紹介します。 3C分析 3C分析とは ...」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
   - 「企業分析のやり方完全ガイド｜項目・情報源・活かし方を採用のプロが... — Apr 16, 2026 · 企業分析ノートの作り方と競合比較 集めた情報は、頭の中に置いておくだけでは面接で引き出せません。 企業分析ノート として1社ごとに整理しておくことを強くおすすめします。ノートは前述の7項目（事業内容・ビジネスモデル・強み弱み・業績・将来性・社風・求める人物像）を見出しに ...」（https://sinmido-recruit.com/columns/企業分析のやり方｜有報・四季報・ir資料を使った/）
+  - 「【企業分析のやり方・コツ】業界・社会全体の動向まで調べる — Feb 16, 2024 · 今回は企業分析のやり方についてです。 面接官は 志望企業や業界、社会動向等に関する質問を多く繰り出してきます。 しっかり分析して備えておくと面接で話が盛り上がりやすくなります。 業界により、適切なやり方が若干異なるかもしれませんが、 私のやり方を参考にチューニングしてみ ...」（https://note.com/sunakeso/n/nadc16e37f21f）
+  - 「企業分析のやり方【就活版】——投資家の5ステップを、同業3社で実際に... — Aug 11, 2026 · 投資家は違うやり方をする。 自分の金を投じる相手を、公開データから自力で評価する。 そして必ず 複数を並べる。 1社だけ見ても、その数字が高いのか低いのか判断できないからだ。 就活は自分の時間を投じる意思決定なので、同じやり方が使える。」（https://note.com/irshukatsu/n/n208897213bd4）
+  - 「ゴブリンが教える『企業分析のやり方』｜ゴブリン就活 — Apr 29, 2026 · はじめまして！ゴブリン就活です！ 就活でよく聞く「企業分析」。 でも、実際にやろうとすると、 「何を調べればいいの？」 「企業研究と何が違うの？」 「志望動機にどうつなげればいいの？」 と迷う人も多いと思います。 企業分析は、ただ会社の名前や事業内容を調べるだけではあり ...」（https://note.com/gobrinsyukatsu/n/n4ba9c3240e78）
+  - 「企業分析のやり方マニュアル｜はる｜簿記1級×企業分析の専門家 — Jan 9, 2024 · 企業分析の基本フレームワークには、以下の要素が含まれます。 1：財務諸表分析 財務諸表（損益計算書、貸借対照表、キャッシュフロー計算書）の読み解き方。 主要な財務指標（安全性、収益性、効率性など）の分析方法。 2：ビジネス分析」（https://note.com/haru2006ppe/n/n4e05d6e83690）
 
 ## 求人情報・採用ページから会社の実態を読む方法（infer company from job postings）
 - 文脈：企業
@@ -1239,7 +1243,7 @@
   - 「９ 調査結果の」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ また、工業統計調査においては、市区町村別結果等の詳細集計や個人経営事業所」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ これに基づき、乙調査の位置づけについて検討を行った結果、①甲調査という産業」（https://www.soumu.go.jp/main_content/000744047.pdf）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
 
 ## エキスパートや調査会社のリサーチャーが書いた調べ方のブログ（professional researcher blog research techniques）
 - 文脈：凄腕・実務
@@ -1323,6 +1327,8 @@
   - 「調査目的で定めたテーマの情報収集を行い、調査結果で導いた示唆から適切な意思決定をできる―これが調査それ自体による一つの成果です」（https://note.com/diisuket/n/nd52911277358）
   - 「調査目的と調査結果の部分は、必ず形式を一致させましょう」（https://note.com/diisuket/n/nd52911277358）
   - 「お題目としての調査目的では調査結果（結論）を書くことはできませんし、力技で調査結果だけを盛り上げても調査の実施価値は浸透しません」（https://note.com/diisuket/n/nd52911277358）
+- 検索結果の抜粋：
+  - 「The 15 Best Academic Blogs for 2025 | Ex OrdoThe Researcher's Source Blog | For Researchers | Springer NatureBlog — Sage Research Methods CommunityResearcher.Life: Blog Category | Researcher.LifeResearch Techniques – Types, Examples and Selection Guide — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the University of」（https://www.exordo.com/blog/the-best-academic-blogs）
 
 ## 検索演算子で一次情報・原典に寄せる方法（filetype・site・除外語）（search operators primary sources filetype site research）
 - 文脈：探し方
@@ -2765,3 +2771,106 @@
   - 「Note: The following case study conducted for a private client using SACH has been modified」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「ment based on the limited evidence available. For purposes of this case study, the analysts」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「Tools, Tutorials, Critiques and Case Studies」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+
+## 統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果（statistical literacy bias types survivorship selection measurement correlation causation）
+- 文脈：失敗・落とし穴
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 生産性の分解（内部効果・構成効果・参入退出効果）（productivity decomposition within between entry exit effect）
+- 文脈：突き合わせ・推定
+- 手順・やり方：
+  - 「これまで、集計生産性を個別企業の生産性の向上効果(内部効果)と資源配分の効率性の向上効果(再配分効果)に分解するいくつかの方法が提案され、日本経済にも適用されてきた」（https://www.rieti.go.jp/jp/publications/nts/19e069.html）
+  - 「そこで、本研究は、生産可能性フロンティアを基準とした、新しい集計生産性の分解方法を提案する」（https://www.rieti.go.jp/jp/publications/nts/19e069.html）
+  - 「型コロナウイルス感染症拡大下における労働生産性の動向を 分析し、ウィズコ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「キーワード：生産性、無形資産、利用効率、再配分、 新型コロナウイルス感染症」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「新型コロナウイルス感染症の世界的な感染拡大を受けて、経済成長のさらなる」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「について、いくつかの方法で計測し、 事実確認を行う」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「年 10 月、 「谷」 が2020 年 5 月とされているが、 新型コロナウイルス感染症の拡大による影響が」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「次に、こうした感染症拡大前の議論を前提としたうえで、新型コロナウイルス」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「そして、 第4 節では、新型コロナウイルス感染症拡大下に」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「率を確認しても低成長が続いており、2012 年 10-12 月期から新型コロナウイル」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「の成長率は 1％台前半、2012 年 10-12 月期から新型コロナウイルス感染症拡大」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「生産要素として資本と労働を考慮したコブ・ダグラス型の生産関数を想定する」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「次に、企業間の資源再配分について、 Melitz and Polanec (2015) の方法」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「４．新型コロナウイルス感染症拡大下における経済成長・労働生産性」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「わが国の経済成長と労働生産性は、新型コロナウイルス感染症拡大下におい」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+- 突き合わせ・推定：
+  - 「年の生産性低迷要因が、感染症拡大下でどのような動きとなっているか も検証」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「具体的には、 次式についてパネル推計を」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「推計にあたっては、 各国固有の要因をコントロールするために、 国別の固」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「推計期間は 1995～2017 年であ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「推計結果をみると、いずれの定式化においても、無形資産の弾性値の合計 （∑ 𝛼）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「また、 推計結果をみると、 わが国では国ダミーの推計値が大きめのマイナスと」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「本推計は、 無形」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「以上の推計結果や Brynjolfsson et al. (2017) の議論を踏まえると、グローバ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「技術進歩に関連しては、 計測上の問題により、見かけの生産性が過小推計にな」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「小西葉子 (2003)、 「生産関数の推定における人的資本の代理変数」 、 『経済科」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「表 1 推計結果：無形資産投資が労働生産性に与える影響」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「（注 2）TFPは、日本銀行スタッフによる推計値」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「（注 2）TFP（マクロベース）は、日本銀行スタッフによる推計値」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「（注 2）カーネル密度推定値」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「（注）折れ線は、カーネル密度推定値」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+- 一次情報の探し方：
+  - 「ディスカッション・ペーパー:19-E-069 [PDF:2.6MB] (英語)」（https://www.rieti.go.jp/jp/publications/nts/19e069.html）
+  - 「この手法を、1986年から2014年までの工業統計の事業所レベルのデータに適用し、5年ごとの平均値を示したのが、図2である」（https://www.rieti.go.jp/jp/publications/nts/19e069.html）
+  - 「図2：工業統計データの集計生産性分解」（https://www.rieti.go.jp/jp/publications/nts/19e069.html）
+  - 「* 本稿の内容は、 東京大学金融教育研究センター・日本銀行調査統計局第9 回共催コンファレン」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「† 日本銀行調査統計局（tomoyuki.yagi@boj.or.jp）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「‡ 日本銀行調査統計局（kakuho.furukawa@boj.or.jp）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「§ 日本銀行調査統計局（jouchi.nakajima@boj.or.jp）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「2 2005 年以降、東京大学金融教育研究センターと日本銀行調査統計局は、計 9 回にわたって共」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「統計を用いて確認するべく、法人企業統計 （四半期別調査）で計算すると、2010」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「なお、 法人企業統計ベースの労働生」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「法人企業統計における臨時従業員数は、 臨時従業員の総労働時間」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「ェアや研究開発、労働者の持つ能力や技術等の人的資産、 特許や著作権などの知」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「は統計的に有意にプラスとなっており、無形資産投資は労働生産性の成長率を」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「コノミー）を担う企業の産出量を既存統計（GDP 等）で捕捉できていない可能」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「性や、IT 関連の財やサービスの価格低下を既存統計で正確に計測できていない」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+- 失敗・落とし穴：
+  - 「ただし、残された誤りは筆者らに帰する」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「認識や起業能力に対する認識が低いほか、 失敗に対する恐れが高い （図 24）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「新興国等、産業構造の大きく異なる国や地域の比較を行う際には注意が必要で」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「2 Melitz and Polanec (2015) argue that BHC-FHK decomposition has a potential bias such that entry/」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf）
+  - 「estimates, because it is shown that there is no bias in original LM estimates (except for the level of」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf）
+- 実例：
+  - 「このノンテクニカルサマリーは、分析結果を踏まえつつ、政策的含意を中心に大胆に記述したもので、DP・PDPの一部分ではありません」（https://www.rieti.go.jp/jp/publications/nts/19e069.html）
+  - 「これらの結果、特に配分効率性の効果は、従来よく用いられてきたFoster, Haltiwanger, and Krizan (2001)の手法による分解結果とは異なるものであり、本研究によって、資源配分の効率性や企業の参入を促すことの重要性を示す定量的なエビデンスが提供されたといえる」（https://www.rieti.go.jp/jp/publications/nts/19e069.html）
+  - 「進んだ結果、過去に比べて高まっており、米国を上回る水準となっている（図 2）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「大きいため、2019 年 10-12 月期までのデータで計算した結果も参考として掲載している」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「「労働者数」 を用いるケース （労働者一人あたりの産出量） と、 労働者それぞれ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「マンアワー） 」を用いるケース（労働時間あたりの産出量）が存在する」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「3 長期停滞論に関する整理は、例えば、中野・加藤 (2017) を参照」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「みると年率換算で 1％台前半にとどまり、前述の国民経済計算を用いた結果と概」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「産とは、 その名のとおり、 物的な実態が存在しない資産であり、例えばソフトウ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「推計結果をみると、いずれの定式化においても、無形資産の弾性値の合計 （∑ 𝛼）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「また、 推計結果をみると、 わが国では国ダミーの推計値が大きめのマイナスと」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「11 例えば、Oh and Takahashi (2020) は、 無形資産の償却率として0.15 や 0.30 を用いている」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「以上の推計結果や Brynjolfsson et al. (2017) の議論を踏まえると、グローバ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「計算結果をみると、わが国の実質労働生産性の成長率は、多くの部分が内部効」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「分解結果について、まず、大企業を中心とした上」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+
+## 調査の判断台帳と再調査条件（見直し期限・取り直しの基準）（research decision log revisit conditions stale data refresh criteria）
+- 文脈：手順・やり方
+- 手順・やり方：
+  - 「Stale Data: How to Identify and Mitigate its Impact」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
+  - 「One operational layer for agents in any framework.」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
+  - 「How to Identify and Eliminate Stale Data to Optimize Business Decisions」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
+  - 「How to Identify Stale Data in Your Systems」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
+  - 「Data Governance Framework for Managing Stale Data」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
+  - 「A robust data governance framework ensures data accuracy and reliability through clear roles, policies, and accountability:」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
+  - 「A well-structured governance framework minimizes stale data risks while ensuring confidence in organizational data.」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
+  - 「: Provides a unified stream and batch processing framework to reduce latency and ensure seamless updates.」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
+- 突き合わせ・推定：
+  - 「Estimate value and cost savings from data observability.」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
+- 実例：
+  - 「Here’s how these risks manifest with real-world examples:」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
+  - 「These examples highlight the critical importance of maintaining」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
+  - 「Assign responsibilities for monitoring data freshness. For example, a multinational bank can appoint」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
+  - 「Here are key strategies, each illustrated with real-world examples of company implementations:」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
+  - 「Here are three strategies, supported by real-world examples:」（https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）

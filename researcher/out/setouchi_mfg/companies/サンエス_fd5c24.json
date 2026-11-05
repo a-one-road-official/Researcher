@@ -1,0 +1,1265 @@
+{
+ "name": "サンエス",
+ "aliases": [],
+ "context": "広島県福山市／出典:県・市の企業ガイド／求人媒体:マイナビ新卒／想定年収:600〜600万円／従業員:420",
+ "researched_at": "2026-11-05T07:12:46.944004+00:00",
+ "official_url": "https://www.sun-s.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：昭和7年（1932年）",
+    "url": "https://www.sun-s.jp/corp/about.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：昭和24年（1949年）",
+    "url": "https://www.sun-s.jp/corp/about.html",
+    "pass": 1
+   },
+   {
+    "label": "設立年",
+    "value": "設立年：1932年",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "label": "創業",
+    "value": "創業：1932年（昭和7年)",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1949年（昭和24年）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "9,700万円",
+    "url": "https://www.sun-s.jp/corp/about.html",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "97百万円",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "9,700万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "500人　(令和8年7月現在)",
+    "url": "https://www.sun-s.jp/corp/about.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "338名",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "530名（グループ全体）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "230億円/連結 150億円/単独 (令和7年度実績)",
+    "url": "https://www.sun-s.jp/corp/about.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "190億円／単独 290億円／連結 （令和4年度実績）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "190億円／単独　\n290億円／連結\n（令和4年度実績）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　佐藤 卓己",
+    "url": "https://www.sun-s.jp/corp/about.html",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役 社長",
+    "value": "佐藤 卓己 Sato Takumi",
+    "url": "https://www.sun-s.jp/corp/about.html",
+    "pass": 1
+   },
+   {
+    "label": "相談役 LD-WSE社長",
+    "value": "水野 政博 Mizuno Masahiro",
+    "url": "https://www.sun-s.jp/corp/about.html",
+    "pass": 1
+   },
+   {
+    "label": "顧問 シャープ株式会社 元代表取締役副社長",
+    "value": "三坂 重雄 Misaka Shigeo",
+    "url": "https://www.sun-s.jp/corp/about.html",
+    "pass": 1
+   },
+   {
+    "label": "顧問 株式会社ひまわりプラン 代表取締役社長",
+    "value": "蔵田 和樹 Kurata Kazuki",
+    "url": "https://www.sun-s.jp/corp/about.html",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "佐藤卓己",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "label": "代表取締役社長",
+    "value": "佐藤 卓己",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ユニフォームウェアの企画・製造・販売 電子機器・設備機器・制御機器の設計・開発・製造・販売 電子モジュールの開発・製造・販売 ミネラルウォーターの製造・販売",
+    "url": "https://www.sun-s.jp/corp/about.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "業務用ユニフォームで国内トップクラスのシェアを誇るアパレルメーカーでもあり、機械設計・電気設計・電子回路設計・制御機器開発なども行っています。 本社：広島県福山市 業種：アパレル（メーカー）、精密機器 事業： 【繊維部門】 ユニフォームウェアの企画・製造・販売 【電子部門】 電子機器・設備機器（半導体など）・制御機器の 設計・開発・製造・販売 電子モジュールの開発・製造・販売 【Ｓ・H・E(safety,health,environment)Care事業】 ミネラルウォーターの製造・販売 主な取引先 シャープ　丸紅　東レ　クラレ　他　　全国弊社製品取扱代理店",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "〒720-2124 広島県福山市神辺町大字川南741番地の1",
+    "url": "https://www.sun-s.jp/corp/about.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "広島県福山市神辺町大字川南741番地の1",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "label": "本社郵便番号",
+    "value": "720-2124",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "広島県福山市神辺町大字川南741番地の1",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社電話番号",
+    "value": "084-963-1111",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "広島県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "石川県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都、大阪府",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "神奈川県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "愛知県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "静岡県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "宮城県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "福岡県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "広島県福山市",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "取引先",
+    "value": "シャープ　丸紅　東レ　他 全国弊社製品取扱代理店",
+    "url": "https://www.sun-s.jp/corp/about.html",
+    "pass": 1
+   },
+   {
+    "label": "主な取引先",
+    "value": "シャープ　丸紅　東レ　クラレ　他　　全国弊社製品取扱代理店",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用ページ": [
+   {
+    "quote": "株式会社サンエス 新卒・キャリア採用サイト",
+    "url": "https://www.sun-s.jp/recruit-site/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年卒業予定者向け新卒採用情報は、",
+    "url": "https://www.sun-s.jp/recruit/rec01.html",
+    "pass": 1
+   },
+   {
+    "quote": "2028年卒業予定者向け新卒採用情報は、",
+    "url": "https://www.sun-s.jp/recruit/rec01.html",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用比率の公表｜CSR・ISO｜株式会社サンエス",
+    "url": "https://www.sun-s.jp/csr/csr08.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、労働施策総合推進法に基づく中途採用比率を公表しています",
+    "url": "https://www.sun-s.jp/csr/csr08.html",
+    "pass": 1
+   },
+   {
+    "quote": "労働施策総合推進法に基づく中途採用比率の公表",
+    "url": "https://www.sun-s.jp/csr/csr08.html",
+    "pass": 1
+   },
+   {
+    "quote": "労働施策総合推進法に基づく中途採用比率の公表",
+    "url": "https://www.sun-s.jp/csr/pdf/rec2026-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "中途採用比率 33% 53% 59%",
+    "url": "https://www.sun-s.jp/csr/pdf/rec2026-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "正規雇用労働者の中途採用比率を次のとおり公表します",
+    "url": "https://www.sun-s.jp/csr/pdf/rec2026-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サンエス株式会社の中途採用の転職・求人情報｜転職エージェントはマイナビ転職エージェント",
+    "url": "https://mynavi-agent.jp/corpdetail/31118/",
+    "pass": 3
+   },
+   {
+    "quote": "> サンエス株式会社の中途採用・転職・求人情報",
+    "url": "https://mynavi-agent.jp/corpdetail/31118/",
+    "pass": 3
+   },
+   {
+    "quote": "サンエス株式会社の中途採用・転職・求人情報｜ページトップ",
+    "url": "https://mynavi-agent.jp/corpdetail/31118/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)サンエスの新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年度新卒採用 【現在★秋採用実施中です★】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サンエスに興味を持たれた方は、採用サイトを訪れてみてくださいね！",
+    "url": "https://note.com/ksan_s/n/n491477ed12dd",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "9,700万円",
+    "url": "https://www.sun-s.jp/corp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "サンエスの年収・給与 平均年収 - エン カイシャの評判 (2186)",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サンエスの正社員20人の回答によると平均年収は339万円、年収範囲は250～530万円です",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "カイシャの評判に掲載されている年収情報は、当該企業で就業経験のある方を対象としたアンケートを基に、有効な回答かつ、雇用形態が正社員の回答から算出しております",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトの年収情報は、ユーザーの皆様に投稿いただいた時点の回答に基づいているため、実際の年収とは異なる可能性があります",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サンエスの年収・給与についての口コミ",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給額は年間3〜4000円ほど、役職がつかない限り大きな昇給は見込めない為、資格取得を行うなどで自身の給料を上げる必要がある",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:地方の中小企業の平均的な給与...",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "地方の中小企業の平均的な給与な気がしますが、ボーナスは低いのかもしれません",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:昇給は年1回、賞与は年2回、...",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給は年1回、賞与は年2回、その他各種手当(社員寮、通勤手当、物価高の支援金なども支給される)",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:業績が悪い時でも昇給、賞与は...",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "業績が悪い時でも昇給、賞与はあります",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:在職中は賞与は規定通り出てい...",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:在籍期間が短かかったため、昇...",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "在籍期間が短かかったため、昇給についてはわかりません",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は低額で、半年に一回の年2回です",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与が低額な理由ですが、これは自身の在籍期間の短さが原因のところがあります",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与水準：年収は比較的低いほうだと思う...",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与はほぼ無く、有給消化をすれば賞与を減らすと公言している会社なので、期待はできません",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "一部の女性社員は管理職相当の賞与を貰っている者もいるが、一般社員はひと月分もありません",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "上司に気に入られれば、若い女性社員は管理職相当の賞与を手に入れる事も可能でしょう",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与水準：ほのぼのして和気あいあいとし...",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与水準：ほのぼのして和気あいあいとした職場の為、特別に何か高い志が無く欲張らずに生活したい方には良い職場です",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:半年毎に目標を設定して、その...",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "350万円～500万円",
+    "url": "https://mynavi-agent.jp/corpdetail/31118/",
+    "pass": 3
+   },
+   {
+    "quote": "4,000万円",
+    "url": "https://mynavi-agent.jp/corpdetail/31118/",
+    "pass": 3
+   },
+   {
+    "quote": "設立年月は1981年05月、資本金は4,000万円、従業員数は101～500人です",
+    "url": "https://mynavi-agent.jp/corpdetail/31118/",
+    "pass": 3
+   },
+   {
+    "quote": "9,700万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "※賞与年2回＋決算手当支給",
+    "url": "https://www.san-esu24.co.jp/recruit/",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "230億円/連結",
+    "url": "https://www.sun-s.jp/corp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "150億円/単独",
+    "url": "https://www.sun-s.jp/corp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "光半導体事業部神辺工場拡張、フォトカプラの生産開始",
+    "url": "https://www.sun-s.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "WONDERFUL SAIGON ELECTRICS CO., LTD.（ベトナム）第三工場建設",
+    "url": "https://www.sun-s.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "190億円／単独",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "290億円／連結",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "生き残り策を模索する中、余剰人員と工場を活用してスタートさせたのが電子事業です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "SUN-S ELECTRONIC TECHNOLOGY（KUNSHAN) CO., LTD. [KSET](中国昆山)第二工場建設",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "今は、現場をこなしながら営業色の強い仕事を任されており、お客様の拠点にあわせて1年の半分近くは東京以外で過ごしています",
+    "url": "https://www.san-esu24.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "ある取引先の方は、何があっても信頼して私を指名してくださる",
+    "url": "https://note.com/ksan_s/n/n491477ed12dd",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "ハローワーク求人番号 31021-00473631",
+    "url": "https://www.sun-s.jp/recruit/rec05.html",
+    "pass": 1
+   },
+   {
+    "quote": "詳細は、ハローワークにてお尋ねください",
+    "url": "https://www.sun-s.jp/recruit/rec05.html",
+    "pass": 1
+   },
+   {
+    "quote": "サンエス株式会社の中途採用の転職・求人情報｜転職エージェントはマイナビ転職エージェント",
+    "url": "https://mynavi-agent.jp/corpdetail/31118/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし求人によって特徴や情報が異なる場合がありますので、詳細はマイナビ転職エージェントの求人ページをご確認ください",
+    "url": "https://mynavi-agent.jp/corpdetail/31118/",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ転職エージェントでは、これらの企業の求人情報を掲載しています",
+    "url": "https://mynavi-agent.jp/corpdetail/31118/",
+    "pass": 3
+   },
+   {
+    "quote": "転職エージェントならマイナビ転職エージェント",
+    "url": "https://mynavi-agent.jp/corpdetail/31118/",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビの転職エージェントだからできる、転職支援サービス",
+    "url": "https://mynavi-agent.jp/corpdetail/31118/",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ転職EXECUTIVE AGENT",
+    "url": "https://mynavi-agent.jp/corpdetail/31118/",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ転職エージェントは貴方の未来を作る転職を全力でサポート！",
+    "url": "https://mynavi-agent.jp/corpdetail/31118/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)サンエスの新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": ":新人～若手のうちはやるべきことが見えやすく、それをクリアでき...",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "建材から家具工事まで、すべてをこなせる若手のホープ",
+    "url": "https://www.san-esu24.co.jp/recruit/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "サンエスの年収・給与 平均年収 - エン カイシャの評判 (2186)株式会社 サンエス の給与 - Indeed (インディード)サンエス株式会社の中途採用の転職・求人情報｜転職エージェントはマ...サンエス 株式会社 の給与 - Indeed (インディード)サンエスの年収・給与・昇給・ボーナス（9件）｜Yahoo!しごとカタログサンエスの年収・給与 平均年収も - エン カイシャの評判 (4850)サンエス株式会社の平均年収、年間給与所得情報 − 転職ならdoda（デュ... — 株式会社サンエスの正社員20人の回答によると平均年収は339万円、年収範囲は250～530万円です。また、集計期間は2015年～2026年で回答者の平均年齢は31.9歳です。 日本での株式会社 サンエスの平均給与 株式会社 サンエスの平均月給の範囲は約 24.5万円／月（作業スタッフ）から約 39.8万円／",
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 サンエス の給与 - Indeed (インディード) — 日本での株式会社 サンエスの平均給与 株式会社 サンエスの平均月給の範囲は約 24.5万円／月（作業スタッフ）から約 39.8万円／月（外構作業員）です。 株式会社 サンエスの平均年収は、約619万円 (営業) 〜619万円 (塗装工) です。 給与情報は、Indeed にこれまでに掲載された216件の求人に基いた ...",
+    "url": "https://jp.indeed.com/cmp/株式会社-サンエス-3/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "サンエス株式会社の中途採用の転職・求人情報｜転職エージェントはマ... — サンエス株式会社の求人情報一覧ページ。 公開求人数18件（11/5時点）。 職種や勤務地での詳細の絞り込み検索ができます。 また、「年収」「年間休日120日以上」「在宅ワーク/リモート勤務可能」など、企業・職種の特色が一目でわかります。",
+    "url": "https://mynavi-agent.jp/corpdetail/31118/",
+    "pass": 3
+   },
+   {
+    "quote": "サンエス 株式会社 の給与 - Indeed (インディード) — 日本でのサンエス 株式会社の平均給与 Indeed に掲載された求人と、この企業の従業員から寄せられたサンエス 株式会社の給与情報を参照する。 給与情報は、Indeed にこれまでに掲載された27件の求人に基いた推定値です。 給与額はすべて、第三者から Indeed に寄せられた情報に基づく概算である ...",
+    "url": "https://jp.indeed.com/cmp/サンエス-株式会社/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "サンエスの年収・給与・昇給・ボーナス（9件）｜Yahoo!しごとカタログ — 株式会社サンエスの社員・元従業員による平均年収は、回答者は416万円。年収・給与・ボーナスなどの待遇に関する評判・クチコミを掲載（9件）。職種、雇用形態別、年代別などの平均年収も掲載。",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1500299703/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報｜株式会社サンエス — 株式会社サンエス [会社情報] メッセージ 会社概要 組織図 沿革 事業所一覧 グループ企業一覧 ・国内 ・海外 [事業情報] 繊維事業 電子事業 S・H・E Care事業 [採用情報] 新卒採用情報 キャリア採用情報 社内教育制度 福利厚生 [CSR・ISO] 国際規格認証取得状況 環境方針 環境報告書 情報セキュリティ ...",
+    "url": "https://www.sun-s.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)サンエスの新卒採用・会社概要 | マイナビ2027採用情報｜株式会社サンエス採用情報｜株式会社サンエスサンエスの新卒採用・就職・企業情報【就活会議】採用情報｜サンエス株式会社｜原子力施設・発電所設備・各種プラント... — 6 days ago · 2027年度新卒採用 【現在★秋採用実施中です★】 （2026/10/19更新） 株式会社サンエスに興味を持ってくださりありがとうございます。 秋採用へ向けて、たくさんのご応募ありがとうございます。 営業事務職 職種内容 商品の発注及び見積作成等営業のサポート業務全般を行います。 応募資格 【通年採用】 学歴：高卒・大卒以上 年齢：18歳~35歳未満の方 新卒・中途採用いずれも経験不問ですが営業の経験のある方歓迎致します。 勤務時間 9:00～18:00 ※実働8時間（休憩60分） 休日休暇 週休2 ... サンエスは、オフィス移転からオ",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報｜株式会社サンエスサンエスの新卒採用・就職・企業情報【就活会議】採用情報｜サンエス株式会社｜原子力施設・発電所設備・各種プラント... — サンエスは、オフィス移転からオフィス内装工事まで。創業以来30年にわたり、「オフィス関連事業」および「住宅・店舗関連事業」を中心としたサービスを展開しています。元請け会社様のPM、CMの際の、現場管理や作図などの一連したサポートが可能です。 サンエスの新卒採用・就職・企業情報 株式会社サンエスの社員・元社員による総合評価は3.7点です（口コミ回答数105件）。ESや本選考体験記は2件あります。基本情報のほか、株式会社サンエスの社員・元社員による会社の評価、過去のインターン選考の内容、内定した学生の志望動機など ... プラント求人ラボが 選ばれる3つの理由 設立40年の プラント管理会社 が運営 設立40年、全国の原子力発電所・火力発電などの管",
+    "url": "https://www.san-esu24.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "サンエスの新卒採用・就職・企業情報【就活会議】 — サンエスの新卒採用・就職・企業情報 株式会社サンエスの社員・元社員による総合評価は3.7点です（口コミ回答数105件）。ESや本選考体験記は2件あります。基本情報のほか、株式会社サンエスの社員・元社員による会社の評価、過去のインターン選考の内容、内定した学生の志望動機など ...",
+    "url": "https://syukatsu-kaigi.jp/companies/18531",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報｜サンエス株式会社｜原子力施設・発電所設備・各種プラント... — プラント求人ラボが 選ばれる3つの理由 設立40年の プラント管理会社 が運営 設立40年、全国の原子力発電所・火力発電などの管理業務を行ってきた、サンエス株式会社が運営。 業界と密だからできる、ここにしかない求人情報を多数掲載しています。",
+    "url": "http://www.sanesu-k.jp/recruit/",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "【WEB開催】■会社説明会■アパレル/精密機器",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【過去3年新卒定着率95.8％】Uターン・県内外出身の20代先輩社員も活躍中！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【2026年最新】サンエスの空調風神服を徹底調査してみた｜VARY【玉川... Apr 20, 2026 · 【2026年最新】サンエスの空調風神服を徹底調査してみた VARY【玉川産業が運営する浜松のユニフォーム提案ブランド】 2026年4月20日 18:14 目次 空調風神服が選ばれる理由 2026年モデルで進化したポイント 選べる複数モード 一目でわかるバッテリー残量",
+    "url": "https://note.com/vary_uniform/n/nda8c65069bfd",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】サンエスの空調風神服はどれを選べばいい？｜VARY【玉川... Mar 18, 2026 · 夏の作業現場で欠かせない「EFウェア（電動ファン付きウェア）」 エアークラフト・空調風神服・空調服・ウィンドコア・HOOHなど、さまざまなブランドがありますが、その中でも安全性とサポートで選ばれているのがサンエスの空調風神服です。 特に近年は、ただ涼しいだけでなく「安全に ...",
+    "url": "https://note.com/vary_uniform/n/n98e77b02abd2",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】サンエスのエクスフローズンを徹底調査してみた｜VARY【... May 11, 2026 · 猛暑時代の冷却服は本当に使えるのか？ 夏の暑さが年々厳しくなる中、空調ウェアだけでは対策しきれない。 そんな声が増えている今、注目されているのが「ペルチェ冷却ウェア」です。 その中でも今回調べてみたのが、サンエスのエクスフローズン（EXFROZEN）。 風で涼しくするのではなく ...",
+    "url": "https://note.com/vary_uniform/n/nd796a5149089",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サンエスの記事一覧｜note（ノート） Jul 10, 2024 · 株式会社サンエスさんの記事一覧です。",
+    "url": "https://note.com/ksan_s/all",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サンエスの記事一覧｜note（ノート） Jul 10, 2024 · 奉仕の心と未来へのビジョン：株式会社サンエス 角野社長インタビュー 奉仕の心と未来へのビジョン：株式会社サンエス 角野社長インタビュー 「人に恵まれた、それしかない」株式会社サンエス 角野社長インタビュー",
+    "url": "https://note.com/ksan_s/all",
+    "pass": 3
+   },
+   {
+    "quote": "「人に恵まれた、それしかない」株式会社サンエス 角野社長インタビュ... Jul 10, 2024 · 「人に恵まれた」という社長の考え方そのものが、人を惹きつける魅力とも感じました。 そんな人を大切にする株式会社サンエスでは、2019年頃から5年がかりで、2024年問題に対してきちんと取り組みました。",
+    "url": "https://note.com/ksan_s/n/n491477ed12dd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【2026年最新】サンエスの空調風神服を徹底調査してみた｜VARY【玉川産業が運営する浜松のユニフォーム提案ブランド】",
+    "url": "https://note.com/vary_uniform/n/nda8c65069bfd",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】サンエスの空調風神服を徹底調査してみた",
+    "url": "https://note.com/vary_uniform/n/nda8c65069bfd",
+    "pass": 3
+   },
+   {
+    "quote": "VARY【玉川産業が運営する浜松のユニフォーム提案ブランド】",
+    "url": "https://note.com/vary_uniform/n/nda8c65069bfd",
+    "pass": 3
+   },
+   {
+    "quote": "風向きがコントロールできるのは空調風神服だけ",
+    "url": "https://note.com/vary_uniform/n/nda8c65069bfd",
+    "pass": 3
+   },
+   {
+    "quote": "夏の現場で欠かせない存在になった空調ウェア。",
+    "url": "https://note.com/vary_uniform/n/nda8c65069bfd",
+    "pass": 3
+   },
+   {
+    "quote": "その中でも、長年支持され続けているのが空調風神服です。",
+    "url": "https://note.com/vary_uniform/n/nda8c65069bfd",
+    "pass": 3
+   },
+   {
+    "quote": "今回はラインナップをもとに、実際にどうなのかを現場目線で掘り下げていきます。",
+    "url": "https://note.com/vary_uniform/n/nda8c65069bfd",
+    "pass": 3
+   },
+   {
+    "quote": "空調風神服が選ばれ続けている理由は、この３つ。",
+    "url": "https://note.com/vary_uniform/n/nda8c65069bfd",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】サンエスの空調風神服はどれを選べばいい？｜VARY【玉川産業が運営する浜松のユニフォーム提案ブランド】",
+    "url": "https://note.com/vary_uniform/n/n98e77b02abd2",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】サンエスの空調風神服はどれを選べばいい？",
+    "url": "https://note.com/vary_uniform/n/n98e77b02abd2",
+    "pass": 3
+   },
+   {
+    "quote": "VARY【玉川産業が運営する浜松のユニフォーム提案ブランド】",
+    "url": "https://note.com/vary_uniform/n/n98e77b02abd2",
+    "pass": 3
+   },
+   {
+    "quote": "夏の作業現場で欠かせない「EFウェア（電動ファン付きウェア）」",
+    "url": "https://note.com/vary_uniform/n/n98e77b02abd2",
+    "pass": 3
+   },
+   {
+    "quote": "エアークラフト・空調風神服・空調服・ウィンドコア・HOOHなど、さまざまなブランドがありますが、その中でも",
+    "url": "https://note.com/vary_uniform/n/n98e77b02abd2",
+    "pass": 3
+   },
+   {
+    "quote": "で選ばれているのがサンエスの空調風神服です。",
+    "url": "https://note.com/vary_uniform/n/n98e77b02abd2",
+    "pass": 3
+   },
+   {
+    "quote": "特に近年は、ただ涼しいだけでなく「安全に使えるか」が重要視されています。",
+    "url": "https://note.com/vary_uniform/n/n98e77b02abd2",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、空調風神服の“バッテリー選び”が重要なのか",
+    "url": "https://note.com/vary_uniform/n/n98e77b02abd2",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】サンエスのエクスフローズンを徹底調査してみた｜VARY【玉川産業が運営する浜松のユニフォーム提案ブランド】",
+    "url": "https://note.com/vary_uniform/n/nd796a5149089",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】サンエスのエクスフローズンを徹底調査してみた",
+    "url": "https://note.com/vary_uniform/n/nd796a5149089",
+    "pass": 3
+   },
+   {
+    "quote": "VARY【玉川産業が運営する浜松のユニフォーム提案ブランド】",
+    "url": "https://note.com/vary_uniform/n/nd796a5149089",
+    "pass": 3
+   },
+   {
+    "quote": "夏の暑さが年々厳しくなる中、空調ウェアだけでは対策しきれない。",
+    "url": "https://note.com/vary_uniform/n/nd796a5149089",
+    "pass": 3
+   },
+   {
+    "quote": "そんな声が増えている今、注目されているのが「ペルチェ冷却ウェア」です。",
+    "url": "https://note.com/vary_uniform/n/nd796a5149089",
+    "pass": 3
+   },
+   {
+    "quote": "その中でも今回調べてみたのが、サンエスのエクスフローズン（EXFROZEN）。",
+    "url": "https://note.com/vary_uniform/n/nd796a5149089",
+    "pass": 3
+   },
+   {
+    "quote": "風で涼しくするのではなく、身体を直接冷やすという新しい発想の冷却ウェアですが、実際どんな特徴があるのでしょうか？",
+    "url": "https://note.com/vary_uniform/n/nd796a5149089",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、エクスフローズンの特徴や進化ポイント、弱点、他メーカーとの違いまで徹底的に調べてみました。",
+    "url": "https://note.com/vary_uniform/n/nd796a5149089",
+    "pass": 3
+   },
+   {
+    "quote": "「株式会社サンエスで働く方の声」：株式会社サンエス 江森さん・服部さん・熊野さんインタビュー",
+    "url": "https://note.com/ksan_s/all",
+    "pass": 3
+   },
+   {
+    "quote": "「株式会社サンエスってどんな職場？仕事内容は？」",
+    "url": "https://note.com/ksan_s/all",
+    "pass": 3
+   },
+   {
+    "quote": "奉仕の心と未来へのビジョン：株式会社サンエス 角野社長インタビュー",
+    "url": "https://note.com/ksan_s/all",
+    "pass": 3
+   },
+   {
+    "quote": "「人に恵まれた、それしかない」株式会社サンエス 角野社長インタビュー",
+    "url": "https://note.com/ksan_s/all",
+    "pass": 3
+   },
+   {
+    "quote": "「これからはみんなのために」株式会社サンエス 角野一樹様インタビュー",
+    "url": "https://note.com/ksan_s/all",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サンエスの東京支店を率いる“熱きリーダー”：角野一樹様インタビュー",
+    "url": "https://note.com/ksan_s/all",
+    "pass": 3
+   },
+   {
+    "quote": "「人に恵まれた、それしかない」株式会社サンエス 角野社長インタビュー｜株式会社サンエス",
+    "url": "https://note.com/ksan_s/n/n491477ed12dd",
+    "pass": 3
+   },
+   {
+    "quote": "「人に恵まれた、それしかない」株式会社サンエス 角野社長インタビュー",
+    "url": "https://note.com/ksan_s/n/n491477ed12dd",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サンエスの角野社長は、起業されて今年で30周年です。",
+    "url": "https://note.com/ksan_s/n/n491477ed12dd",
+    "pass": 3
+   },
+   {
+    "quote": "現在息子の一樹さんが取締役として活躍され、東京に支店を増やすなど、安定した成長を遂げています。",
+    "url": "https://note.com/ksan_s/n/n491477ed12dd",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、会社を立ち上げた頃は、家庭にお金を入れることができないほど、苦労した時期もあったといいます。",
+    "url": "https://note.com/ksan_s/n/n491477ed12dd",
+    "pass": 3
+   },
+   {
+    "quote": "どのようにして、その苦難を乗り越えられたのでしょうか。",
+    "url": "https://note.com/ksan_s/n/n491477ed12dd",
+    "pass": 3
+   },
+   {
+    "quote": "「人に恵まれた」という角野社長のインタビュー、ぜひ最後までご覧ください！",
+    "url": "https://note.com/ksan_s/n/n491477ed12dd",
+    "pass": 3
+   },
+   {
+    "quote": "親族の会社に新卒で入社、次期社長として期待されていたが…",
+    "url": "https://note.com/ksan_s/n/n491477ed12dd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "オフィスさん@サンエスグループ【公式】 (@sanesu_group) / X \\オフィスの課題を解決！／東京・横浜のオフィス移転をトータルサポート🏢創業55年 賃貸オフィス仲介のサンエスコーポレーションの公式アカウントです 物件情報・移転時の豆知識・中古オフィス家具情報などを発信しています💡オフィスに関するお困りごとは、お気軽にお問い合わせ ...",
+    "url": "https://x.com/sanesu_group",
+    "pass": 3
+   },
+   {
+    "quote": "オフィスさん@サンエスグループ【公式】 on X: \"\\YouTube更新のお知ら... オフィスさん@サンエスグループ【公式】 on X: \"\\YouTube更新のお知らせ🌟／ 【入出荷情報】10月19日の在庫状況 https://t.co ...",
+    "url": "https://x.com/sanesu_group/status/2112334629432959444",
+    "pass": 3
+   },
+   {
+    "quote": "サンエス on X: \"@nottanyuko 頑張って直します \" のったん/のた @nottanyuko 14h お大事に…😭 1 1 47 サンエス @sanesu_pad Show translation 頑張って直します🫠 12:18 PM · Nov 3, 2026 · 19 Views",
+    "url": "https://x.com/sanesu_pad/status/2117592222849991080",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】株式会社サンエス／ユニフォーム事業部 (@suns_uniform) / X 【公式】株式会社サンエス／ユニフォーム事業部 48 posts 【公式】株式会社サンエス／ユニフォーム事業部 @suns_uniform Show translation",
+    "url": "https://x.com/suns_uniform",
+    "pass": 3
+   },
+   {
+    "quote": "サンエス on X: \"仮想適性試験、盛り上がってきたな \" / X Oct 25, 2026 · サンエス @sanesu_pad Show translation 仮想適性試験、盛り上がってきたな🤡 11:21 AM · Oct 25, 2026 · 289 Views",
+    "url": "https://x.com/sanesu_pad/status/2114316363380793672",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "サンエス警備保障（株） | LinkedIn サンエス警備保障（株） ファシリティサービス 千葉市 花見川区、千葉県 25人のフォロワー",
+    "url": "https://jp.linkedin.com/company/サンエス警備保障（株）",
+    "pass": 3
+   },
+   {
+    "quote": "藤野 英利 - 株式会社サンエス Ph.D. of Engineering | LinkedIn100+ \"Mogey\" profiles | LinkedInThe Ultimate Guide to LinkedIn Premium for StudentsNina Georgieva Nikolova LL.M. (Freiburg i. Br.)Ana Cristina Varga - Business & Marketing | Digital ...Egidio Stasi - -- | LinkedIn 株式会社サンエス Ph.D. of Engineering · 製造業の会社でマネジメントをしています。キャリアは超伝導研究から始まり化合物半導体へ。 デバイスからモジュール、そしてコンシューマー向け製品を担当し、時に抗菌抗ウイルス評価で医療系大学と共同研究もやってきました。",
+    "url": "https://jp.linkedin.com/in/projectm721",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "東京サンエス株式会社-Tokyo San-Esu CO.,LTD. | Taito-ku Tokyo株式会社サンエス | Fukuyama-shi Hiroshima - FacebookFacebook - log in or sign up株式会社 サンエス - Facebookサンエス工業株式会社 - Facebookサンエススポーツ | Oshu-shi Iwate - Facebookサンエス株式会社 | Komatsu-shi Ishikawa - Facebook Oct 27, 2026 · 東京サンエス株式会社-Tokyo San-Esu CO.,LTD. 10月11日 (日)サンエス荒川グラベルライド【B班】はま だまだ募集中です！ B班はこれからグラベルライドを経験してみたい方向け です。 整備された自転車で、タイヤ幅32mm以上であればど なたでもご参加いただけます",
+    "url": "https://www.facebook.com/tokyosanesu/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サンエス | Fukuyama-shi Hiroshima - FacebookFacebook - log in or sign up株式会社 サンエス - Facebookサンエス工業株式会社 - Facebookサンエススポーツ | Oshu-shi Iwate - Facebookサンエス株式会社 | Komatsu-shi Ishikawa - Facebook Dec 22, 2025 · 株式会社サンエス, Fukuyama-shi. 25 likes · 2 talking about this. 作業着メーカー・サンエス。定番のブルゾンやジャケット、カーゴパンツ Connect with friends and the world around you on Facebook. Nov 10, 2025 · 株式会社 サンエス Jan 26, 2020 間近で、見",
+    "url": "https://www.facebook.com/sunsseni/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 サンエス - Facebook Nov 10, 2025 · 株式会社 サンエス Jan 26, 2020 間近で、見るの初めてですが 塗装依頼有りました。 ボブスレーの様な〜⁉️ 何ですかね〜⁉️笑笑 何でも稀少なものの様で、50数年前のオリジナルのカ ラーリングにしたいとの事で 色々ネット探すも、画像は ...",
+    "url": "https://www.facebook.com/people/株式会社-サンエス/100063183942739/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sun-s.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sun-s.jp/recruit/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sun-s.jp/recruit-site/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sun-s.jp/corp/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sun-s.jp/corp/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sun-s.jp/recruit/rec01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sun-s.jp/recruit/rec02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sun-s.jp/recruit/rec03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sun-s.jp/recruit/rec04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sun-s.jp/csr/csr08.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sun-s.jp/recruit/rec05.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sun-s.jp/recruit-site/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sun-s.jp/csr/pdf/rec2026-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sun-s.jp/img/navi-on-04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sun-s.jp/recruit/img/title.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sun-s.jp/recruit/img/ser_d_toph01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://en-hyouban.com/company/10003352186/salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E3%82%B5%E3%83%B3%E3%82%A8%E3%82%B9-3/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mynavi-agent.jp/corpdetail/31118/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.san-esu24.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vary_uniform/n/nda8c65069bfd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vary_uniform/n/n98e77b02abd2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vary_uniform/n/nd796a5149089",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ksan_s/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/sanesu_group",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sanesu_group/status/2112334629432959444",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sanesu_pad/status/2117592222849991080",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/suns_uniform",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/サンエス警備保障（株）",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/projectm721",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tokyosanesu/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sunsseni/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/株式会社-サンエス/100063183942739/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/ksan_s/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ksan_s/n/n491477ed12dd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/sanesu_pad/status/2114316363380793672",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "サンエス 求人 年収",
+   "results": [
+    "https://en-hyouban.com/company/10003352186/salary/",
+    "https://jp.indeed.com/cmp/株式会社-サンエス-3/salaries",
+    "https://mynavi-agent.jp/corpdetail/31118/",
+    "https://jp.indeed.com/cmp/サンエス-株式会社/salaries",
+    "https://jobcatalog.yahoo.co.jp/company/1500299703/salaries/",
+    "https://en-hyouban.com/company/10012544850/salary/",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10012544850/"
+   ]
+  },
+  {
+   "query": "サンエス 採用 新卒 高卒",
+   "results": [
+    "https://www.sun-s.jp/recruit/",
+    "https://job.mynavi.jp/27/pc/search/corp98257/outline.html",
+    "https://www.san-esu24.co.jp/recruit/",
+    "https://syukatsu-kaigi.jp/companies/18531",
+    "http://www.sanesu-k.jp/recruit/",
+    "https://www.sun-s.jp/recruit-site/",
+    "https://3s-inc.co.jp/recruit/"
+   ]
+  },
+  {
+   "query": "site:note.com サンエス",
+   "results": [
+    "https://note.com/vary_uniform/n/nda8c65069bfd",
+    "https://note.com/vary_uniform/n/n98e77b02abd2",
+    "https://note.com/vary_uniform/n/nd796a5149089",
+    "https://note.com/ksan_s/all",
+    "https://note.com/calm_pony5041/n/n0b8d4fabd6c8",
+    "https://note.com/kuchofuku/n/n7e5735011e30",
+    "https://note.com/kuchofuku/n/nafd0df0514f7"
+   ]
+  },
+  {
+   "query": "site:x.com サンエス",
+   "results": [
+    "https://x.com/sanesu_group",
+    "https://x.com/sanesu_group/status/2112334629432959444",
+    "https://x.com/sanesu_pad/status/2117592222849991080",
+    "https://x.com/suns_uniform",
+    "https://x.com/sanesu_pad",
+    "https://x.com/sanesu_pad/status/2117537580199621102",
+    "https://x.com/Tokyosanesu/status/2047235560809566350"
+   ]
+  },
+  {
+   "query": "site:linkedin.com サンエス",
+   "results": [
+    "https://jp.linkedin.com/company/サンエス警備保障（株）",
+    "https://jp.linkedin.com/in/projectm721",
+    "https://www.linkedin.com/pub/dir/+/Mogey/",
+    "https://www.linkedin.com/pulse/ultimate-guide-linkedin-premium-students-ashraf-malik-dymbc",
+    "https://it.linkedin.com/in/egidio-stasi-541411229",
+    "https://de.linkedin.com/in/nina-georgieva-nikolova-ll-m-freiburg-i-br-1625666b",
+    "https://ro.linkedin.com/in/ana-cristina-varga-0376257b"
+   ]
+  },
+  {
+   "query": "site:facebook.com サンエス",
+   "results": [
+    "https://www.facebook.com/tokyosanesu/",
+    "https://www.facebook.com/sunsseni/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/people/株式会社-サンエス/100063183942739/",
+    "https://www.facebook.com/p/サンエス工業株式会社-100031740922148/",
+    "https://www.facebook.com/sanssports/",
+    "https://www.facebook.com/SANESU.BOND/"
+   ]
+  },
+  {
+   "query": "サンエス note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/ksan_s/all",
+    "https://note.com/ksan_s/n/n491477ed12dd",
+    "https://san-esu.co.jp/100/",
+    "https://www.sun-s.jp/corp/about.html",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/"
+   ]
+  },
+  {
+   "query": "サンエス X 投稿",
+   "results": [
+    "https://x.com/sanesu_pad/status/2114316363380793672",
+    "https://search.yahoo.co.jp/realtime/search/＃東京サンエス/",
+    "https://www.san-x.co.jp/ja/blog/2026-03-post-0742520/",
+    "https://www.san-x.co.jp/ja/blog/2026-11-post-0706190/",
+    "https://x.com/sanx_official/status/2118176828439531938",
+    "https://xkings.jp/",
+    "https://help.x.com/ja/using-x/edit-post"
+   ]
+  }
+ ],
+ "missing": {
+  "採用人数": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部21頁・検索8回）"
+ }
+}

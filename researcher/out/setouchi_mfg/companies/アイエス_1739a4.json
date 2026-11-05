@@ -1,0 +1,835 @@
+{
+ "name": "アイエス",
+ "aliases": [],
+ "context": "広島県広島市／出典:県・市の企業ガイド／求人媒体:Indeed;doda;マイナビ転職／想定年収:300〜500万円／従業員:不明",
+ "researched_at": "2026-11-05T06:59:05.335246+00:00",
+ "official_url": "https://www.ai-esu.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創立",
+    "value": "創立：1985年",
+    "url": "https://www.ai-esu.co.jp/annai.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1988年10月",
+    "url": "https://www.ai-esu.co.jp/annai.html",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "2000万円",
+    "url": "https://www.ai-esu.co.jp/annai.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社 〒731-0103　広島市安佐南区緑井3丁目21番22号 TEL:082-877-8800(代)　FAX:082-877-3032 Head Office 3-21-22 Midorii Asaminami-ku,Hiroshima 731-0103 Japan TEL:082-877-8800　FAX:082-877-3032",
+    "url": "https://www.ai-esu.co.jp/annai.html",
+    "pass": 1
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主な取引先",
+    "value": "株式会社音戸工作所、富士重工株式会社、関東自動車工業株式会社 フタバ産業株式会社、スズキ株式会社、本田技研工業株式会社、 ダイハツ工業株式会社マツダ株式会社、トヨタ自動車株式会社、 三菱自動車工業株式会社、日産自動車株式会社海外各社、 株式会社ヒロテック　ほか",
+    "url": "https://www.ai-esu.co.jp/annai.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "2000万円",
+    "url": "https://www.ai-esu.co.jp/annai.html",
+    "pass": 1
+   },
+   {
+    "quote": "◆大阪：月給230,000円以上",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402426-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "◆東京：月給240,000円以上（地域手当10,000円含む）",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402426-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "◆昇給／年1回（7月）",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402426-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "◆賞与／年2回（6月・12月）",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402426-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "1000万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402426-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "年収1,000万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402426-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "アイエスアイ（SIer）の「年収・給与制度」 OpenWork",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000006GnQN&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "アイエスアイ（SIer）の「年収・給与制度」 ＜社員のクチコミ情報＞",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000006GnQN&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "OpenWorkでは全体の平均年収だけではなく、職種別や年齢別の平均年収も掲載しています",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000006GnQN&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "また、基本給、残業代、賞与などの給与内訳や、給与制度、評価制度の詳細も掲載しています",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000006GnQN&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "アイエスアイ（SIer）の同業界の「年収・給与制度」",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000006GnQN&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： VPが上がると50万~100万程度年収が上がる",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000006GnQN&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 固定とコミッションが分かれている 評価制度： 成長と成果のバランスで....",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000006GnQN&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 基本給、残業代、賞与で決まってくる",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000006GnQN&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "40万件以上の年収データを元に作成",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000006GnQN&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "Q.この企業の参考となる年収事例を教えてください",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000006GnQN&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "また、給与制度（賞与・昇給・各種手当など）や評価制度には、どのような特徴がありますか？",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000006GnQN&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜550万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "この220iの610万円〜ってのは多少高価には感じますが",
+    "url": "https://note.com/studiebob/n/n6275c86b7b69",
+    "pass": 3
+   },
+   {
+    "quote": "それでも年間で数十万円の費用がかかっていたんですよね",
+    "url": "https://note.com/apprentice_jp/n/nc1d29d046359",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "ダイハツ工業株式会社マツダ株式会社、トヨタ自動車株式会社、",
+    "url": "https://www.ai-esu.co.jp/annai.html",
+    "pass": 1
+   },
+   {
+    "quote": "三菱自動車工業株式会社、日産自動車株式会社海外各社、",
+    "url": "https://www.ai-esu.co.jp/annai.html",
+    "pass": 1
+   },
+   {
+    "quote": "三菱UFJ銀行広島支店、伊豫銀行広島支店",
+    "url": "https://www.ai-esu.co.jp/annai.html",
+    "pass": 1
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "工場作業員／高校新卒者募集「土日祝休み」充実した資格支援制度！成長が実感できる仕事！",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "◆工場設備の保全・・・施設を気持ちよく使う為に、整理、整頓、清掃を心掛けます",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "株式会社アイエスの求人情報／未経験からプロを目指せる！【ITエンジニア】年間休日125日 (402426)／東京都、大阪府 | 転職・求人情報サイトのマイナビ転職【掲載終了】",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402426-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "本求人はマイナビ転職の応募フォームでのみ受け付けます",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402426-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "本求人は、株式会社マイナビが運営する",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402426-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "「マイナビ転職キャリアパートナー」による人材紹介案件です",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402426-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "※個人情報について「マイナビ転職キャリアパートナー個人情報の取り扱いについて」に同意いただき、",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402426-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ転職キャリアパートナー内 株式会社アイエス採用事務局",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402426-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "上記は、株式会社マイナビ（マイナビ転職キャリアパートナー）内／株式会社アイエス採用事務局の所在地です",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402426-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "※オプトアウトをした場合、マイナビ転職の一部サービスを利用できない場合があります",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402426-5-2-1/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 アイエス エイ の 求人 ・中途採用情報 - doda — 株式会社 アイエス エイ の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__00007594390",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00007594390/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アイエス の 求人 情報 - ITエンジニア - マイナビ転職 — 株式会社 アイエス の 求人 情報 - ITエンジニア - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > ... > 株式会社アイエス",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402426-5-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "アイエス アイ（SIer）の「 年収 ・給与制度」 OpenWork — アイエス アイ（SIer）の「 年収 ・給与制度」 OpenWork OpenWork https://www.openwork.jp > ... > アイエスアイ（SIer）",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000006GnQN&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アイエス の 求人 ・中途採用情報 - doda — 株式会社 アイエス の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10025516314",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10025516314/",
+    "pass": 3
+   },
+   {
+    "quote": "アイエス エイの 年収 ・給与 平均 年収 - エン カイシャの評判 — アイエス エイの 年収 ・給与 平均 年収 - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company > salary",
+    "url": "https://en-hyouban.com/company/00007594390/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "アイエス 新卒 高卒 の求人情報をすべて見る （138件） — アイエス 新卒 高卒 の求人情報をすべて見る （138件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アイエス の 新卒採用 ・就活情報 — 株式会社 アイエス の 新卒採用 ・就活情報 Ｒｅ就活キャンパス https://www.gakujo.ne.jp > campus > company > employ",
+    "url": "https://www.gakujo.ne.jp/campus/company/employ/85874/",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【BMW】 アイエス の再来にするっ！｜鈴木BOB康昭 - note 【BMW】 アイエス の再来にするっ！｜鈴木BOB康昭 - note note https://note.com > DIY > 自動車整備",
+    "url": "https://note.com/studiebob/n/n6275c86b7b69",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アイエス アイ様】”人材のフィルター”と”採用の確率 ... 株式会社 アイエス アイ様】”人材のフィルター”と”採用の確率 ... note https://note.com > インタビュー・対談 > インタビュー・対談",
+    "url": "https://note.com/apprentice_jp/n/nc1d29d046359",
+    "pass": 3
+   },
+   {
+    "quote": "テック アイエス 【日本一生徒のことを考えるプログラミング ... テック アイエス 【日本一生徒のことを考えるプログラミング ... note https://note.com > techis",
+    "url": "https://note.com/techis",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【BMW】アイエスの再来にするっ！｜鈴木BOB康昭",
+    "url": "https://note.com/studiebob/n/n6275c86b7b69",
+    "pass": 3
+   },
+   {
+    "quote": "Studie AG創業当時、E36型のBMW3シリーズに318isというグレードがあった。",
+    "url": "https://note.com/studiebob/n/n6275c86b7b69",
+    "pass": 3
+   },
+   {
+    "quote": "1.8リッター（後期は1.9L）4気筒のDOHC",
+    "url": "https://note.com/studiebob/n/n6275c86b7b69",
+    "pass": 3
+   },
+   {
+    "quote": "最高出力は140psそこそこで、決してハイパワーなモデルではなかったけど",
+    "url": "https://note.com/studiebob/n/n6275c86b7b69",
+    "pass": 3
+   },
+   {
+    "quote": "その軽快な乗り味とシャープなハンドリングで大人気モデルとなった。",
+    "url": "https://note.com/studiebob/n/n6275c86b7b69",
+    "pass": 3
+   },
+   {
+    "quote": "このモデルをベースにリップスポイラー、フロントバンパーグリル",
+    "url": "https://note.com/studiebob/n/n6275c86b7b69",
+    "pass": 3
+   },
+   {
+    "quote": "そしてMミラーを取り付ければ外装はM3と全く同じ仕様になった。",
+    "url": "https://note.com/studiebob/n/n6275c86b7b69",
+    "pass": 3
+   },
+   {
+    "quote": "みんなそこからBBSの17インチを履いて、アシを変え、",
+    "url": "https://note.com/studiebob/n/n6275c86b7b69",
+    "pass": 3
+   },
+   {
+    "quote": "【インタビュー vol.2- 株式会社アイエスアイ様】”人材のフィルター”と”採用の確率”とは｜APPRENTICE",
+    "url": "https://note.com/apprentice_jp/n/nc1d29d046359",
+    "pass": 3
+   },
+   {
+    "quote": "【インタビュー vol.2- 株式会社アイエスアイ様】”人材のフィルター”と”採用の確率”とは",
+    "url": "https://note.com/apprentice_jp/n/nc1d29d046359",
+    "pass": 3
+   },
+   {
+    "quote": "内定直結型のエンジニア実習『APPRENTICE（アプレンティス）』公式note編集部です。",
+    "url": "https://note.com/apprentice_jp/n/nc1d29d046359",
+    "pass": 3
+   },
+   {
+    "quote": "本日はアプレンティス生を実際に採用した企業様のインタビュー記事をお届けします。",
+    "url": "https://note.com/apprentice_jp/n/nc1d29d046359",
+    "pass": 3
+   },
+   {
+    "quote": "フィンテック（FinTech）ならアイエスアイ（ISI）",
+    "url": "https://note.com/apprentice_jp/n/nc1d29d046359",
+    "pass": 3
+   },
+   {
+    "quote": "アイエスアイはフィンテック（FinTech）関連のソリューションカンパニーです。1989年創業から培ってきた決済に関するノ",
+    "url": "https://note.com/apprentice_jp/n/nc1d29d046359",
+    "pass": 3
+   },
+   {
+    "quote": "・採用をしたアプレンティス生が現在、なにを担当しているのか",
+    "url": "https://note.com/apprentice_jp/n/nc1d29d046359",
+    "pass": 3
+   },
+   {
+    "quote": "約4分程度で読むことができ、サービスの良さを感じて頂くことができる内容になっています。",
+    "url": "https://note.com/apprentice_jp/n/nc1d29d046359",
+    "pass": 3
+   },
+   {
+    "quote": "テックアイエス【日本一生徒のことを考えるプログラミングスクール】｜note",
+    "url": "https://note.com/techis",
+    "pass": 3
+   },
+   {
+    "quote": "テックアイエス【日本一生徒のことを考えるプログラミングスクール】",
+    "url": "https://note.com/techis",
+    "pass": 3
+   },
+   {
+    "quote": "テックアイエスは「どこにいても、生まれても、世界最高の教育を受けられる。」というバリューのもとに、プログラミングスクールを運営しております。",
+    "url": "https://note.com/techis",
+    "pass": 3
+   },
+   {
+    "quote": "これからもテクノロジーの力を駆使して、より多くの人の可能性を高めていくために貢献していきます。",
+    "url": "https://note.com/techis",
+    "pass": 3
+   },
+   {
+    "quote": "テックアイエスは「どこにいても、生まれても、世界最高の教育を受けられる。」というバリュー…",
+    "url": "https://note.com/techis",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "貴社のように「テックブログの記事執筆や毎日の日報提出を課題として出してください」と言われると、「IT業界が伸びているから」や「エンジニアになれば稼げる」、「リモートで働けそう」など良い面だけを見てやっている人は嫌になって自然と淘汰されていると思います",
+    "url": "https://note.com/apprentice_jp/n/nc1d29d046359",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "アイエス (@aiesu_19711208) / X アイエス (@aiesu_19711208) / X X https://x.com > aiesu_19711208",
+    "url": "https://x.com/aiesu_19711208",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by アイエス (@aiesu_19711208) / X Replies by アイエス (@aiesu_19711208) / X X https://x.com > aiesu_19711208 > with_replies",
+    "url": "https://x.com/aiesu_19711208/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "アイエス ・フィールド (@ISField_ofc) / X アイエス ・フィールド (@ISField_ofc) / X X https://x.com > ISField_ofc",
+    "url": "https://x.com/ISField_ofc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "アイエス エイ | LinkedIn アイエス エイ | LinkedIn LinkedIn https://jp.linkedin.com > company > isainc",
+    "url": "https://jp.linkedin.com/company/isainc",
+    "pass": 3
+   },
+   {
+    "quote": "（株） アイエス エイ - LinkedIn （株） アイエス エイ - LinkedIn LinkedIn https://jp.linkedin.com > company > （株）アイエスエイ",
+    "url": "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9%E3%82%A8%E3%82%A4",
+    "pass": 3
+   },
+   {
+    "quote": "张琰 - アイエス - 作業者 - LinkedIn 张琰 - アイエス - 作業者 - LinkedIn LinkedIn https://www.linkedin.com > pub > 琰-张",
+    "url": "https://www.linkedin.com/pub/%E7%90%B0-%E5%BC%A0/a6/179/660",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年注目】イーピー アイエス ティーエーエックス ... 【2026年注目】イーピー アイエス ティーエーエックス ... LinkedIn https://www.linkedin.com > pulse > 2026年注目イーピー...",
+    "url": "https://www.linkedin.com/pulse/2026%E5%B9%B4%E6%B3%A8%E7%9B%AE%E3%82%A4%E3%83%BC%E3%83%94%E3%83%BC%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%82%A8%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9%E5%8C%BB%E8%96%AC%E5%93%81%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%80%E6%96%B0%E5%8B%95%E5%90%91%E4%B8%BB%E8%A6%81%E4%BC%81%E6%A5%AD%E7%94%A8%E9%80%94%E5%88%A5%E5%88%86%E6%9E%90%E3%81%A8%E5%B0%86%E6%9D%A5%E5%B1%95%E6%9C%9B-7516227002409033729-z9oxf/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 アイエス エイ (@isa.kyoiku) - Facebook 株式会社 アイエス エイ (@isa.kyoiku) - Facebook Facebook https://www.facebook.com > ... > Businesses > Education",
+    "url": "https://www.facebook.com/isa.kyoiku/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アイエス デザイン - Facebook 株式会社 アイエス デザイン - Facebook Facebook https://www.facebook.com > ... > Plastic Fabricator",
+    "url": "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-100063511511462/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アイエス エンジニアリング (@iseng.co.jp) - Facebook 株式会社 アイエス エンジニアリング (@iseng.co.jp) - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/iseng.co.jp/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ai-esu.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ai-esu.co.jp/annai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ai-esu.co.jp/seihin.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00007594390/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/jobinfo-402426-5-2-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000006GnQN&q_no=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.issinc.co.jp/recruit/graduate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.his.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/studiebob/n/n6275c86b7b69",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/apprentice_jp/n/nc1d29d046359",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/techis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/aiesu_19711208",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/aiesu_19711208/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ISField_ofc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/isainc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9%E3%82%A8%E3%82%A4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pub/%E7%90%B0-%E5%BC%A0/a6/179/660",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/2026%E5%B9%B4%E6%B3%A8%E7%9B%AE%E3%82%A4%E3%83%BC%E3%83%94%E3%83%BC%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%82%A8%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9%E5%8C%BB%E8%96%AC%E5%93%81%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%80%E6%96%B0%E5%8B%95%E5%90%91%E4%B8%BB%E8%A6%81%E4%BC%81%E6%A5%AD%E7%94%A8%E9%80%94%E5%88%A5%E5%88%86%E6%9E%90%E3%81%A8%E5%B0%86%E6%9D%A5%E5%B1%95%E6%9C%9B-7516227002409033729-z9oxf/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/isa.kyoiku/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-100063511511462/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/iseng.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/aiesu_19711208",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アイエス 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00007594390/",
+    "https://tenshoku.mynavi.jp/jobinfo-402426-5-2-1/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000006GnQN&q_no=2",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10025516314/",
+    "https://en-hyouban.com/company/00007594390/salary/",
+    "https://job.rikunabi.com/selection/job_descriptions/e11bed3607b48aec",
+    "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "https://jobtalk.jp/companies/25164",
+    "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9%E3%82%A2%E3%82%A4/salaries"
+   ]
+  },
+  {
+   "query": "アイエス 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.issinc.co.jp/recruit/graduate",
+    "https://recruit.his.co.jp/recruit/",
+    "https://www.sis-g.co.jp/recruit-s.html",
+    "https://www.gakujo.ne.jp/campus/company/employ/85874/",
+    "https://isd-net.co.jp/recruit/newgraduate/",
+    "https://www.net-is.co.jp/recruit/",
+    "http://www.i-s-create.com/recruit/fresher/",
+    "https://www.istechnoport.com/recruite/requirements/",
+    "https://www.isb.co.jp/jinji_saiyou/recruit/graduate.html"
+   ]
+  },
+  {
+   "query": "site:note.com アイエス",
+   "results": [
+    "https://note.com/aus_ryugaku_info/n/n62bc5316d017",
+    "https://note.com/studiebob/n/n6275c86b7b69",
+    "https://note.com/apprentice_jp/n/nc1d29d046359",
+    "https://note.com/techis",
+    "https://note.com/area_analyst/n/nd4428bb16f87",
+    "https://note.com/fujikaketkys/n/n5d07afcfd300",
+    "https://note.com/powertravelers/n/nad9010122551",
+    "https://note.com/hishida_company/n/n5b55475a660e",
+    "https://note.com/good_life_/n/nb3b92abc7a1c",
+    "https://note.com/isfnet_official"
+   ]
+  },
+  {
+   "query": "site:x.com アイエス",
+   "results": [
+    "https://x.com/aiesu_19711208",
+    "https://x.com/aiesu_19711208/with_replies",
+    "https://x.com/ISField_ofc",
+    "https://x.com/aiesu_19711208/status/2115609566675108249",
+    "https://x.com/aiesu_19711208/status/2110536140721648095",
+    "https://x.com/aiesu_19711208/status/2094228680184926237",
+    "https://x.com/aiesu_19711208/status/2047118257963045296",
+    "https://x.com/aiesu_19711208/status/2069329618004320482",
+    "https://x.com/aiesu_19711208/status/1927171551083782419",
+    "https://x.com/aiesu_19711208/status/2064616866925207873"
+   ]
+  },
+  {
+   "query": "site:linkedin.com アイエス",
+   "results": [
+    "https://jp.linkedin.com/company/isainc",
+    "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9%E3%82%A8%E3%82%A4",
+    "https://www.linkedin.com/pub/%E7%90%B0-%E5%BC%A0/a6/179/660",
+    "https://www.linkedin.com/pulse/2026%E5%B9%B4%E6%B3%A8%E7%9B%AE%E3%82%A4%E3%83%BC%E3%83%94%E3%83%BC%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%82%A8%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9%E5%8C%BB%E8%96%AC%E5%93%81%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%80%E6%96%B0%E5%8B%95%E5%90%91%E4%B8%BB%E8%A6%81%E4%BC%81%E6%A5%AD%E7%94%A8%E9%80%94%E5%88%A5%E5%88%86%E6%9E%90%E3%81%A8%E5%B0%86%E6%9D%A5%E5%B1%95%E6%9C%9B-7516227002409033729-z9oxf/",
+    "https://jp.linkedin.com/in/tylerlpark",
+    "https://jp.linkedin.com/company/%E3%82%A8%E3%82%B9%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8E%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/jobs/view/instructor-at-%E3%88%B1-%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9%E3%82%A8%E3%82%A4-4379155500",
+    "https://jp.linkedin.com/in/akira-sakazume-063763170",
+    "https://www.linkedin.com/pulse/2026%E5%B9%B4%E6%B3%A8%E7%9B%AE%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%8C%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%8C%E3%82%A8%E3%83%BC%E3%82%A8%E3%83%8C%E3%82%AA%E3%83%BC%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%80%E6%96%B0-7516293868699717632-1dtnf/",
+    "https://jp.linkedin.com/company/（株）アイエスエイ"
+   ]
+  },
+  {
+   "query": "site:facebook.com アイエス",
+   "results": [
+    "https://www.facebook.com/isa.kyoiku/",
+    "https://www.facebook.com/yoko.hizuki/posts/%E3%81%93%E3%81%A1%E3%82%89%E6%98%AF%E9%9D%9E%E3%81%94%E5%8F%82%E5%8A%A0%E4%B8%8B%E3%81%95%E3%81%84%E3%81%BE%E3%81%9B%EF%B8%8F%E3%81%94%E5%A0%B1%E5%91%8A331%E3%81%AB%E7%A5%9E%E6%88%B8%E3%81%AB%E3%81%A6%E7%8F%BE%E5%9C%A8%E6%97%A5%E6%9C%AC%E3%81%AB4%E7%A4%BE%E3%81%82%E3%82%8B%E6%98%A0%E7%94%BB%E5%88%B6%E4%BD%9C%E4%BC%9A%E7%A4%BE%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AB%E6%96%B0%E3%81%9F%E3%81%AB%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89kobe%E3%81%8C%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%8C%E3%82%8A/26180387181612428/",
+    "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-100063511511462/",
+    "https://www.facebook.com/iseng.co.jp/",
+    "https://www.facebook.com/office.isgaiden/",
+    "https://www.facebook.com/is.ryugaku/",
+    "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%BA-100081869095921/",
+    "https://www.facebook.com/aiesusangyou/photos/?locale=ar_AR",
+    "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%B9%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF-61579935927992/",
+    "https://www.facebook.com/ise.jugai/"
+   ]
+  },
+  {
+   "query": "アイエス note 社長",
+   "results": [
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://x.com/sadaaki",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E8%B2%9E%E9%A1%95",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "アイエス X 投稿",
+   "results": [
+    "https://x.com/aiesu_19711208",
+    "https://en-hyouban.com/company/10006909672/",
+    "https://www.aiesu.co.jp/",
+    "https://syukatsu-kaigi.jp/companies/39133/word_mouths",
+    "https://is1986.com/",
+    "https://x.com/aiesu_19711208/status/2110536140226695312",
+    "https://www.upload-post.com/ja/platforms/x/",
+    "https://www.wantedly.com/companies/company_2679772/post_articles/1021078",
+    "https://x.com/aiesu_19711208/status/2098241606327607760",
+    "https://fitly.pics/blog/x-twitter-post-tips"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索8回）"
+ }
+}

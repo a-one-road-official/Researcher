@@ -8,7 +8,7 @@
  ],
  "context": "探し方",
  "kind": "market",
- "researched_at": "2026-11-05T05:08:52.502564+00:00",
+ "researched_at": "2026-11-05T06:59:29.039545+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -44,12 +44,12 @@
     "method": "http"
    },
    {
-    "url": "https://kinsta.com/jp/blog/google-search-operators/",
+    "url": "https://www.rhcnet.com/article/google_operator_.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://support.google.com/websearch/answer/2466433?hl=ja",
+    "url": "https://kinsta.com/jp/blog/google-search-operators/",
     "status": "ok",
     "method": "http"
    },
@@ -64,7 +64,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.rhcnet.com/article/google_operator_.html",
+    "url": "https://support.google.com/websearch/answer/2466433?hl=ja",
     "status": "ok",
     "method": "http"
    },
@@ -79,7 +79,7 @@
     "method": "http"
    },
    {
-    "url": "https://ischool.co.jp/2018-11-09/",
+    "url": "https://hack.nikkei.com/blog/search_operator/",
     "status": "ok",
     "method": "http"
    },
@@ -89,7 +89,7 @@
     "method": "http"
    },
    {
-    "url": "https://hack.nikkei.com/blog/search_operator/",
+    "url": "https://ischool.co.jp/2018-11-09/",
     "status": "ok",
     "method": "http"
    },
@@ -175,24 +175,21 @@
     "https://note.com/science_summary/n/n223612b7a530",
     "https://note.com/kyotomori/n/nd498747a7c3e",
     "https://note.com/nana_882391/n/n35ce95bb325e",
-    "https://note.com/fresh_impala9007/n/n62355267896c",
-    "https://note.com/nana_882391/n/nfc50f20bd0b3",
-    "https://note.com/harenohi_design/n/n976ff51ae1a1",
-    "https://note.com/mdp/n/nc204d39d34bc"
+    "https://note.com/fresh_impala9007/n/n62355267896c"
    ]
   },
   {
    "query": "検索演算子で一次情報・原典に寄せる方法（filetype・site・除外語） note",
    "results": [
+    "https://www.rhcnet.com/article/google_operator_.html",
     "https://kinsta.com/jp/blog/google-search-operators/",
-    "https://support.google.com/websearch/answer/2466433?hl=ja",
     "https://note.com/mdp/n/nc204d39d34bc",
     "https://developers.google.com/search/docs/monitor-debug/search-operators/all-search-site?hl=ja",
-    "https://www.rhcnet.com/article/google_operator_.html",
+    "https://support.google.com/websearch/answer/2466433?hl=ja",
     "https://help.hcl-software.com/notes/11.0.1/ja/client/sch_refine_query_r.html",
-    "https://note.com/buuchan2/n/n95bfba9e6369",
     "https://ahrefs.com/ja/blog/google-advanced-search-operators/",
     "https://hack.nikkei.com/blog/search_operator/",
+    "https://altenas.jp/blog/search-command",
     "https://note.com/hikaru_thinks/n/nebc54c341963"
    ]
   },
@@ -203,9 +200,9 @@
     "https://developers.google.com/search/docs/monitor-debug/search-operators/all-search-site?hl=ja",
     "https://support.google.com/websearch/answer/2466433?hl=ja",
     "https://www.furi-ten.com/google-search-exclusion-complete-guide-2/",
-    "https://ischool.co.jp/2018-11-09/",
-    "https://altenas.jp/blog/search-command",
     "https://hack.nikkei.com/blog/search_operator/",
+    "https://altenas.jp/blog/search-command",
+    "https://ischool.co.jp/2018-11-09/",
     "https://jp.indeed.com/career-advice/work-efficiency/google-search-operators",
     "https://seoagent.jp/blog/search-operators/",
     "https://www.sorank.com/ja/blog-geo-seo/google-search-operators"
@@ -217,12 +214,12 @@
     "https://developers.google.com/search/docs/monitor-debug/search-operators/all-search-site?hl=ja",
     "https://www.rhcnet.com/article/google_operator_.html",
     "https://hack.nikkei.com/blog/search_operator/",
-    "https://support.google.com/websearch/answer/2466433?hl=ja",
     "https://altenas.jp/blog/search-command",
+    "https://support.google.com/websearch/answer/2466433?hl=ja",
     "https://seojapan.com/column/search-modifiers-best-10/",
     "https://jp.indeed.com/career-advice/work-efficiency/google-search-operators",
-    "https://jp.strikingly.com/content/blog/google-search/",
     "https://ischool.co.jp/2018-11-09/",
+    "https://jp.strikingly.com/content/blog/google-search/",
     "https://www.sorank.com/ja/blog-geo-seo/google-search-operators"
    ]
   },
@@ -262,7 +259,8 @@
     "https://x.com/xkaseki413/status/2051160097288839258",
     "https://x.com/ChiseGomen/status/2110118589600837924",
     "https://x.com/BaronLeon86/status/2056003869734535543",
-    "https://x.com/bossnyan_ai/status/2098741815046443099"
+    "https://x.com/bossnyan_ai/status/2098741815046443099",
+    "https://x.com/hashtag/検索演算子"
    ]
   },
   {
@@ -321,16 +319,16 @@
   {
    "query": "search operators primary sources filetype site research site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/google-search-operators-elevate-your-searching-game-expert-david-gage-knioe",
     "https://www.linkedin.com/posts/kashmala-malik_19-google-search-operators-you-need-to-know-activity-7292139154753138688-75Kt",
+    "https://www.linkedin.com/pulse/google-search-operators-elevate-your-searching-game-expert-david-gage-knioe",
     "https://www.linkedin.com/pulse/search-techniques-google-ajith-thampi-joseph-q3v6c",
     "https://www.linkedin.com/pulse/authoritative-sources-101-how-find-use-reliable-vincent-d-eletto",
-    "https://www.linkedin.com/pulse/google-search-operators-master-your-searching-sree-datta-1f",
     "https://www.linkedin.com/posts/shushant-lakhyani_im-shocked-most-people-still-use-google-activity-7480123445285072896-tsIN",
+    "https://www.linkedin.com/pulse/google-search-operators-master-your-searching-sree-datta-1f",
     "https://www.linkedin.com/pulse/7-tools-enhance-your-open-source-investigations-aman-bhuiyan-zhqrc",
     "https://www.linkedin.com/posts/stevetothjr_steal-my-claude-project-that-sourced-34-rare-activity-7492565518873255937-nxPT",
-    "https://www.linkedin.com/pulse/google-dorking-guide-finding-vulnerable-systems-exposed-rere-ayodele-cwigf",
-    "https://www.linkedin.com/top-content/networking/networking-in-research/utilizing-social-media-for-research-networking/"
+    "https://www.linkedin.com/top-content/networking/networking-in-research/utilizing-social-media-for-research-networking/",
+    "https://www.linkedin.com/pulse/google-dorking-guide-finding-vulnerable-systems-exposed-rere-ayodele-cwigf"
    ]
   }
  ],
@@ -342,6 +340,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-05T05:08:52.502564+00:00"
 }

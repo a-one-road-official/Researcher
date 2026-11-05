@@ -1,0 +1,984 @@
+{
+ "name": "万田発酵",
+ "aliases": [],
+ "context": "広島県尾道市／出典:県・市の企業ガイド／求人媒体:doda;マイナビ新卒;マイナビ転職／想定年収:400〜500万円／従業員:不明",
+ "researched_at": "2026-11-05T07:07:43.904537+00:00",
+ "official_url": "https://catr.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "東京都新宿区愛住町22番地 同じ住所の会社を検索",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "東京都 新宿区 愛住町 22 第3山田ビル トウキヨウト シンジユクク アイズミチヨウ 22 ダイ3ヤマダビル",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "北海道岩内郡共和町梨野舞納2番地の119",
+    "url": "https://catr.jp/company-split/11637",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "北海道札幌市中央区南十一条西18丁目2番1号",
+    "url": "https://catr.jp/company-split/11637",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "千葉県市川市南行徳1丁目22番29号",
+    "url": "https://catr.jp/company-split/11642",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県さいたま市大宮区浅間町1丁目4番地2",
+    "url": "https://catr.jp/company-split/11642",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県さいたま市大宮区浅間町1丁目4番地2",
+    "url": "https://catr.jp/company-split/11643",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県さいたま市大宮区大門町1丁目45番地2",
+    "url": "https://catr.jp/company-split/11643",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県さいたま市大宮区大門町1丁目45番地2",
+    "url": "https://catr.jp/company-split/11644",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県さいたま市大宮区浅間町1丁目4番地2",
+    "url": "https://catr.jp/company-split/11644",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "大阪市天王寺区上本町6丁目5番13号",
+    "url": "https://catr.jp/company-split/11645",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "大阪市天王寺区上本町6丁目1番55号",
+    "url": "https://catr.jp/company-split/11645",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "5億8500万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "19億2400万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "1億600万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "13億8500万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "79億6600万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "180億6800万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "8億8400万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "20億1500万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "80億8400万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "8億2800万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "25億8100万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "321億6400万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "4億5300万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "91億7900万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "177億8900万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1億4400万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1億5300万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "48億1300万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1億3500万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "9億3200万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "566億3700万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1億200万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "21億2800万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "58億8300万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "▲2696万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2081万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "5億723万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "▲799万円",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "23億3200万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲5億200万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲8億9700万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲9億2900万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "15億8500万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "53億3100万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "17億5100万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲7200万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲7億8600万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲6900万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "15億7700万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "24億7300万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "7億4700万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲2億4700万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲2億9000万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲9億6100万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "7億7600万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "15億3400万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "9億4100万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲2億4300万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲2億9600万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲3億4700万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "8億1200万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "13億5300万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "9億1900万円",
+    "url": "https://catr.jp/companies/c091e/47735",
+    "pass": 1
+   },
+   {
+    "quote": "▲3億2941万円",
+    "url": "https://catr.jp/company-split/11645",
+    "pass": 1
+   },
+   {
+    "quote": "56億9300万円",
+    "url": "https://catr.jp/company-split/11645",
+    "pass": 1
+   },
+   {
+    "quote": "29億6000万円",
+    "url": "https://catr.jp/company-split/11645",
+    "pass": 1
+   },
+   {
+    "quote": "6196億3300万円",
+    "url": "https://catr.jp/company-split/11645",
+    "pass": 1
+   },
+   {
+    "quote": "万田発酵の年収・給与 平均年収 - エン カイシャの評判",
+    "url": "https://en-hyouban.com/company/10002876682/salary/?job_type=50",
+    "pass": 3
+   },
+   {
+    "quote": "万田発酵株式会社の正社員35人の回答によると平均年収は433万円、年収範囲は250～600万円です",
+    "url": "https://en-hyouban.com/company/10002876682/salary/?job_type=50",
+    "pass": 3
+   },
+   {
+    "quote": "カイシャの評判に掲載されている年収情報は、当該企業で就業経験のある方を対象としたアンケートを基に、有効な回答かつ、雇用形態が正社員の回答から算出しております",
+    "url": "https://en-hyouban.com/company/10002876682/salary/?job_type=50",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトの年収情報は、ユーザーの皆様に投稿いただいた時点の回答に基づいているため、実際の年収とは異なる可能性があります",
+    "url": "https://en-hyouban.com/company/10002876682/salary/?job_type=50",
+    "pass": 3
+   },
+   {
+    "quote": "万田発酵株式会社の年収・給与についての口コミ",
+    "url": "https://en-hyouban.com/company/10002876682/salary/?job_type=50",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？",
+    "url": "https://en-hyouban.com/company/10002876682/salary/?job_type=50",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "三菱ケミカルグループ株式会社(81)",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱商事株式会社(281)",
+    "url": "https://catr.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "73億円（2025年6月）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp103741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "飲食店ではキッチンやホール業務、小売店では品出しと接客、食品工場では製造、在宅ワークでは高...",
+    "url": "https://syukatsu-kaigi.jp/companies/18526",
+    "pass": 3
+   },
+   {
+    "quote": "私は小学生の時に社会見学で工場に行き、その際に地元の会社として知り、万田酵素も同時に知りました",
+    "url": "https://note.com/miyachi1994/n/n99baf6c5fbef",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "給与制度:中途採用はそこそこ給与が高め...",
+    "url": "https://en-hyouban.com/company/10002876682/salary/?job_type=50",
+    "pass": 3
+   },
+   {
+    "quote": "万田発酵(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp103741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "エントリーいただいた方には個人専用のマイページを発行いたします",
+    "url": "https://job.mynavi.jp/27/pc/search/corp103741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "マイページでは採用情報の告知や、選考の受付を行います",
+    "url": "https://job.mynavi.jp/27/pc/search/corp103741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "選考にご興味がある方は、エントリーをお願いいたします",
+    "url": "https://job.mynavi.jp/27/pc/search/corp103741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp103741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp103741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "万田発酵の新卒採用・就職・企業情報【就活会議】",
+    "url": "https://syukatsu-kaigi.jp/companies/18526",
+    "pass": 3
+   },
+   {
+    "quote": "万田発酵株式会社の新卒採用・就職・企業情報",
+    "url": "https://syukatsu-kaigi.jp/companies/18526",
+    "pass": 3
+   },
+   {
+    "quote": "ぜひ、選考体験記の詳細ページにて最新情報やエントリーシート・体験記全文を確認し、選考対策に役立ててください",
+    "url": "https://syukatsu-kaigi.jp/companies/18526",
+    "pass": 3
+   },
+   {
+    "quote": "エントリーシートで志望動機を書かされることはなっかたし、面接で聞かれることはなかった",
+    "url": "https://syukatsu-kaigi.jp/companies/18526",
+    "pass": 3
+   },
+   {
+    "quote": "就活会議では、万田発酵株式会社の評判や口コミ、選考を突破した先輩のエントリーシート、実際の選考内容を確認できる体験記、選考状況をリアルタイムで把握できる就活速報を掲載しています",
+    "url": "https://syukatsu-kaigi.jp/companies/18526",
+    "pass": 3
+   },
+   {
+    "quote": "万田発酵株式会社の事業内容、会社概要、沿革、採用情報などの企業情報を掲載しています",
+    "url": "https://note.com/miyachi1994/n/n99baf6c5fbef",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "万田発酵株式会社 の給与 - Indeed (インディード) — 万田発酵株式会社の平均年収は、約392万円 (事務) 〜547万円 (データサイエンティスト) です。 万田発酵株式会社の平均月給の範囲は約 20.0万円／月（購買）から約 34.0万円／月（飲食店ホールスタッフ）です。",
+    "url": "https://jp.indeed.com/cmp/万田発酵株式会社/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "万田発酵株式会社のキャリア・企業情報 | Indeed (インディード) — 人気の高い職種の給与を比較したり、ワークライフバランスについてのクチコミを参考にしながら、採用企業万田発酵株式会社があなたにぴったりの会社であるか事前にチェックしましょう。",
+    "url": "https://jp.indeed.com/cmp/万田発酵株式会社",
+    "pass": 3
+   },
+   {
+    "quote": "万田発酵の年収・給与 平均や役職、年代別年収も - エン カイシャの評... — 万田発酵株式会社の正社員33人の回答によると平均年収は436万円、年収範囲は250～600万円です。 また、集計期間は2015年～2026年で回答者の平均年齢は32.6歳です。",
+    "url": "https://en-hyouban.com/company/10002876682/salary/?job_type=50",
+    "pass": 3
+   },
+   {
+    "quote": "万田発酵の年収・給与 平均年収も - エン カイシャの評判万田発酵株式会社の求人・採用情報｜求人ボックス万田発酵の求人・採用情報｜求人ボックス万田発酵の年収・給与・昇給・ボーナス｜Yahoo!しごとカタログ — 万田発酵株式会社の正社員34人の回答によると平均年収は433万円、年収範囲は250～600万円です。 また、集計期間は2015年～2026年で回答者の平均年齢は32.3歳です。 【事業内容】植物 発酵 食品 (人体用)製造 【就業先部門名】その他部門 【企業名】 万田発酵株式会社 【内容】8月開始 大手 発酵 食品メーカー クリエイティブ制作 428万～↑@新大阪... 万田発酵株式会社 未経験歓迎、発酵食品の新規開拓営業 東京都 千代田区 大手町駅 年収400万円～600万円 / 賞与あり・昇給あり 正社員 【仕事内容】～マーケット開拓からお任せ・ 発酵 技術と 発酵 食品で「人",
+    "url": "https://en-hyouban.com/company/10002876682/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "万田発酵株式会社の求人・採用情報｜求人ボックス — 【事業内容】植物 発酵 食品 (人体用)製造 【就業先部門名】その他部門 【企業名】 万田発酵株式会社 【内容】8月開始 大手 発酵 食品メーカー クリエイティブ制作 428万～↑@新大阪...",
+    "url": "https://xn--pckua2a7gp15o89zb.com/万田発酵株式会社の仕事",
+    "pass": 3
+   },
+   {
+    "quote": "万田発酵 (株)の新卒採用・会社概要 | マイナビ2027万田発酵の新卒採用・就職・企業情報【就活会議】万田発酵株式会社 採用情報万田発酵の新卒採用・就職・会社概要とクチコミ万田発酵(株)の募集コース一覧 - マイナビ2027万田発酵の新卒採用・就職・会社概要とクチコミ｜就活サイト【ワンキ... — Sep 11, 2026 · 万田発酵（株）のマイナビページをご覧いただき、誠にありがとうございます！ エントリーいただいた方には個人専用のマイページを発行いたします。 マイページでは採用情報の告知や、選考の受付を行います。 万田発酵 (メーカー・製造業, 食品・飲料／広島県)の新卒採用の企業研究、就活・選考対策情報です。 会社概要から、企業の評判、先輩のESの実例、面接で聞かれた質問まで、本選考・インターンシップの対策情報を掲載しています。 万田発酵株式会社 採用情報 万田発酵株式会社の求人",
+    "url": "https://job.mynavi.jp/27/pc/search/corp103741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "万田発酵の新卒採用・就職・企業情報【就活会議】万田発酵株式会社 採用情報万田発酵の新卒採用・就職・会社概要とクチコミ万田発酵(株)の募集コース一覧 - マイナビ2027万田発酵の新卒採用・就職・会社概要とクチコミ｜就活サイト【ワンキ... — 万田発酵 (メーカー・製造業, 食品・飲料／広島県)の新卒採用の企業研究、就活・選考対策情報です。 会社概要から、企業の評判、先輩のESの実例、面接で聞かれた質問まで、本選考・インターンシップの対策情報を掲載しています。 万田発酵株式会社 採用情報 万田発酵株式会社の求人を探す 正社員 すべて 販売プロモーション 研究 データ分析・計数管理 海外営業 営業事務 法人営業 品質保証全般 検査業務 生産管理 デザイナー・クリエイティブ制作 パート・アルハイト 瀬戸内海に浮かぶ自然豊かな因島に本社を構える万田発酵株式会社は、植物発酵食品「万田酵素」を主力製",
+    "url": "https://syukatsu-kaigi.jp/companies/18526",
+    "pass": 3
+   },
+   {
+    "quote": "万田発酵株式会社 採用情報万田発酵の新卒採用・就職・会社概要とクチコミ万田発酵(株)の募集コース一覧 - マイナビ2027万田発酵の新卒採用・就職・会社概要とクチコミ｜就活サイト【ワンキ... — 万田発酵株式会社 採用情報 万田発酵株式会社の求人を探す 正社員 すべて 販売プロモーション 研究 データ分析・計数管理 海外営業 営業事務 法人営業 品質保証全般 検査業務 生産管理 デザイナー・クリエイティブ制作 パート・アルハイト 瀬戸内海に浮かぶ自然豊かな因島に本社を構える万田発酵株式会社は、植物発酵食品「万田酵素」を主力製品に、発酵食品業界のリーディングカンパニーとして成長を続けてきました。 Sep 11, 2026 · 万田発酵 (株)の募集コース一覧ページです。マイナビ2027は、採用情報や企業情報で、就職活動をサポートします。 瀬戸内海に浮かぶ自然豊かな因島に本社を構える万田発酵",
+    "url": "https://job.persona-ats.com/ja/manda",
+    "pass": 3
+   },
+   {
+    "quote": "万田発酵の新卒採用・就職・会社概要とクチコミ万田発酵(株)の募集コース一覧 - マイナビ2027万田発酵の新卒採用・就職・会社概要とクチコミ｜就活サイト【ワンキ... — 瀬戸内海に浮かぶ自然豊かな因島に本社を構える万田発酵株式会社は、植物発酵食品「万田酵素」を主力製品に、発酵食品業界のリーディングカンパニーとして成長を続けてきました。 Sep 11, 2026 · 万田発酵 (株)の募集コース一覧ページです。マイナビ2027は、採用情報や企業情報で、就職活動をサポートします。 瀬戸内海に浮かぶ自然豊かな因島に本社を構える万田発酵株式会社は、植物発酵食品「万田酵素」を主力製品に、発酵食品業界のリーディングカンパニーとして成長を続けてきました。",
+    "url": "https://www.onecareer.jp/companies/7073",
+    "pass": 3
+   },
+   {
+    "quote": "万田発酵(株)の募集コース一覧 - マイナビ2027 — Sep 11, 2026 · 万田発酵 (株)の募集コース一覧ページです。マイナビ2027は、採用情報や企業情報で、就職活動をサポートします。",
+    "url": "https://job.mynavi.jp/27/pc/search/corp103741/employment.html",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "万田発酵(株)の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp103741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "万田発酵（株）のマイナビページをご覧いただき、誠にありがとうございます！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp103741/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp103741/outline.html",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "さらに、インターンシップを通じて感じた雰囲気の良さも大きな理由です...",
+    "url": "https://syukatsu-kaigi.jp/companies/18526",
+    "pass": 3
+   },
+   {
+    "quote": "食品メーカーのインターンシップに参加してみたかったから",
+    "url": "https://syukatsu-kaigi.jp/companies/18526",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、インターンシップに参加して、新しい商品をつくっていくという姿勢...",
+    "url": "https://syukatsu-kaigi.jp/companies/18526",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "長寿高齢化している現在、健康食品への需要は高まっていると感じる",
+    "url": "https://syukatsu-kaigi.jp/companies/18526",
+    "pass": 3
+   },
+   {
+    "quote": "若手社員が住める社宅は1棟...",
+    "url": "https://syukatsu-kaigi.jp/companies/18526",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "因島から健康を届ける「万田酵素」｜宮地雄太(みやちゆうた)│瀬戸内海... May 18, 2021 · 皆さんは「万田酵素（まんだこうそ）」というものをご存知でしょうか？ いわゆる植物発酵食品なのですが、この万田酵素を生み出したのが、私の地元である因島（いんのしま）に本社を置く、万田発酵（まんだはっこう）株式会社です。",
+    "url": "https://note.com/miyachi1994/n/n99baf6c5fbef",
+    "pass": 3
+   },
+   {
+    "quote": "万田酵素 粒タイプが40%OFFの3,880円｜54種の植物を皮や種まで発酵【A... Sep 27, 2026 · この植物発酵物は国内製造と表示されています。 作り手は万田発酵。 社名に「発酵」を掲げるメーカーが、その名を冠して届けているシリーズです。 メーカーはこの商品を、食生活改善から健康を目指す方にお勧めする植物発酵食品と位置づけています。",
+    "url": "https://note.com/medisapo/n/n41f0313d64db",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "因島から健康を届ける「万田酵素」｜宮地雄太(みやちゆうた)│瀬戸内海大好きな島育ち",
+    "url": "https://note.com/miyachi1994/n/n99baf6c5fbef",
+    "pass": 3
+   },
+   {
+    "quote": "宮地雄太(みやちゆうた)│瀬戸内海大好きな島育ち",
+    "url": "https://note.com/miyachi1994/n/n99baf6c5fbef",
+    "pass": 3
+   },
+   {
+    "quote": "皆さんは「万田酵素（まんだこうそ）」というものをご存知でしょうか？",
+    "url": "https://note.com/miyachi1994/n/n99baf6c5fbef",
+    "pass": 3
+   },
+   {
+    "quote": "いわゆる植物発酵食品なのですが、この万田酵素を生み出したのが、私の地元である因島（いんのしま）に本社を置く、万田発酵（まんだはっこう）株式会社です。",
+    "url": "https://note.com/miyachi1994/n/n99baf6c5fbef",
+    "pass": 3
+   },
+   {
+    "quote": "私は小学生の時に社会見学で工場に行き、その際に地元の会社として知り、万田酵素も同時に知りました。",
+    "url": "https://note.com/miyachi1994/n/n99baf6c5fbef",
+    "pass": 3
+   },
+   {
+    "quote": "これまで、因島の特産品や観光名所、文化をお伝えしましたが、今回は変化球編。",
+    "url": "https://note.com/miyachi1994/n/n99baf6c5fbef",
+    "pass": 3
+   },
+   {
+    "quote": "こんな会社があるんだっていうのを紹介しようと思います。",
+    "url": "https://note.com/miyachi1994/n/n99baf6c5fbef",
+    "pass": 3
+   },
+   {
+    "quote": "万田酵素は、53種類の植物性原材料「果穀藻菜（かこくそうさい）」を",
+    "url": "https://note.com/miyachi1994/n/n99baf6c5fbef",
+    "pass": 3
+   },
+   {
+    "quote": "万田酵素 粒タイプが40%OFFの3,880円｜54種の植物を皮や種まで発酵【Amazon セール】｜メディサポ",
+    "url": "https://note.com/medisapo/n/n41f0313d64db",
+    "pass": 3
+   },
+   {
+    "quote": "万田酵素 粒タイプが40%OFFの3,880円｜54種の植物を皮や種まで発酵【Amazon セール】",
+    "url": "https://note.com/medisapo/n/n41f0313d64db",
+    "pass": 3
+   },
+   {
+    "quote": "万田酵素は、植物性の原材料を発酵させ、さらに熟成させて作る植物発酵食品です。その粒タイプ「STANDARD スタンダード」が、Amazon セールで40%OFFの3,880円になっています。",
+    "url": "https://note.com/medisapo/n/n41f0313d64db",
+    "pass": 3
+   },
+   {
+    "quote": "食事の内容を見直したい、毎日の習慣にひとつ良いものを加えたい。そう考えている方にこそ、手に取っていただきたい商品です。どんな素材を、どう作っているのか。その中身から順にご紹介します。",
+    "url": "https://note.com/medisapo/n/n41f0313d64db",
+    "pass": 3
+   },
+   {
+    "quote": "万田酵素 粒タイプ STANDARD スタンダード 分包 7粒 × 30包 (約 30日分)",
+    "url": "https://note.com/medisapo/n/n41f0313d64db",
+    "pass": 3
+   },
+   {
+    "quote": "万田酵素シリーズに使われている植物性原材料は、54種類にのぼります。日本国内を中心に選び抜かれた素材が、この小さな粒のもとになっています。",
+    "url": "https://note.com/medisapo/n/n41f0313d64db",
+    "pass": 3
+   },
+   {
+    "quote": "54種類もの食材を毎日の献立で自分でそろえるのは、現実にはなかなかできることではありません。それだけの素材がひとつのシリーズにまとめられていることが、万田酵素の大きな特徴です。",
+    "url": "https://note.com/medisapo/n/n41f0313d64db",
+    "pass": 3
+   },
+   {
+    "quote": "もう一つの特徴は、果実の皮や種まで原料にすることです。ふだんの料理なら捨ててしまう部分も含めて、まるごと発酵させています。",
+    "url": "https://note.com/medisapo/n/n41f0313d64db",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "万田酵素（まんだこうそ）| 万田発酵 【公式】 (@mandakohso) / X 万田発酵のルーツは広島県因島の造り酒屋。 長年の研究と発酵技術で製造しています 保存料は使用せず、発酵過程では水・熱も加えていません。 自然の力で作る”発酵”にこだわっています",
+    "url": "https://x.com/mandakohso",
+    "pass": 3
+   },
+   {
+    "quote": "万田酵素（まんだこうそ）| 万田発酵 【公式】 on X: \" モニター募集 ... 📢モニター募集 万田発酵から登場する新商品 ＃HakkoPure をお試しいただき、 リアルなレビューをくださるモニターを募集します！ 300年磨き続けた発酵技術から生まれた発酵美容食品。 内側からキレイを育てる新習慣 ぜひ試してみませんか？",
+    "url": "https://x.com/mandakohso/status/2041444619947524245",
+    "pass": 3
+   },
+   {
+    "quote": "\"#万田発酵\" - Results on X | Live Posts & Updates 万田発酵さんの万田酵素 (宇宙用)をTAUで販売します！ この度、広島県初の宇宙日本食として発酵食品「万田酵素」が認定されました。 ペースト状で粘度が高い「万田酵素」は、製品本来の形状を変えずに宇宙でも問題なく食すことができるようになってます。",
+    "url": "https://x.com/hashtag/万田発酵",
+    "pass": 3
+   },
+   {
+    "quote": "万田酵素（まんだこうそ）| 万田発酵 【公式】 on X: \"「MAQUIA公式サ... Post 万田酵素（まんだこうそ）| 万田発酵 【公式】 @mandakohso 「MAQUIA公式サイト」にて #万田酵素 が紹介されました 板野友美さんのインナーケア愛用品としてピックアップいただいています♪ぜひチェックしてみてください🍃 記事はこちら",
+    "url": "https://x.com/mandahakko/status/2039900701573419074",
+    "pass": 3
+   },
+   {
+    "quote": "万田酵素（まんだこうそ）| 万田発酵 【公式】 on X: \"お久しぶりの登... お久しぶりの登場「だいちゃん」です！ 島ごとぽるの展の「宇宙服を着ただいちゃん」、SNSに投稿してくださっている方がちらほら、、、嬉しい♪ ( *´艸`)ありがとうございます！ ちなみにこちらはいつものだいちゃんです！ #だいちゃん #万田発酵",
+    "url": "https://x.com/mandakohso/status/1833384915142164747",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "万田発酵「万田酵素」～人と地球の健康のために～\\SNS開設1周年記念キャンペーン ／... - 万田発酵「万田酵素」～人と...→→スワイプ 本日は、ジャンボカボチャをお届け！！... - 万田発酵「万...\\水の量をカンタン管理‼「ポット玉ねぎ」の栽培／... - 万田発酵「万...万田酵素の原材料vol1 【はっさく （八朔）】... - 万田発酵「万田酵...馬用万田酵素をリリースして約3ヶ月が経ちました。... - 万田発酵「万...万田発酵「万田酵素」～人と地球の健康のために～ - 万田発酵株式会社... Nov 21, 2025 · 【新商品情報×発酵のチカラ×ペット用万田酵素】 🎉ペット用万田酵素より \\愛犬・愛猫おもいの万田酵素／新商品発売🎉 販売に先駆けて 気になる商品情報をご紹介します ---------- 第4弾は 🐶愛犬・愛猫おもいの万田酵素🐱\\口腔ケア／ 愛犬・愛",
+    "url": "https://www.facebook.com/manda.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "\\SNS開設1周年記念キャンペーン ／... - 万田発酵「万田酵素」～人と... Jan 15, 2024 · 1月18日 (木)18:00開始の万田発酵公式インスタグラム配信の インスタライブを生配信で視聴 応募期間 2024年1月15日 (月)19:00～2024年2月4日 (日)23:59",
+    "url": "https://www.facebook.com/manda.co.jp/posts/772185164948474/",
+    "pass": 3
+   },
+   {
+    "quote": "→→スワイプ 本日は、ジャンボカボチャをお届け！！... - 万田発酵「万... Jul 12, 2024 · →→スワイプ 本日は、ジャンボカボチャをお届け！ ！ 現在、万田発酵ではジャンボカボチャの栽培に挑戦しています！ 沢山咲く雄花、雌花の中から大きくなりそうな雌花を1つ厳選し、 残りの花はまだ小さいうちに摘み取ります。",
+    "url": "https://www.facebook.com/manda.co.jp/posts/スワイプ本日はジャンボカボチャをお届け現在万田発酵ではジャンボカボチャの栽培に挑戦しています沢山咲く雄花雌花の中から大きくなりそうな雌花を1つ厳選し残りの花はま/888058560027800/",
+    "pass": 3
+   },
+   {
+    "quote": "\\水の量をカンタン管理‼「ポット玉ねぎ」の栽培／... - 万田発酵「万... 万田発酵の農場では大きな作物だけではなく、小さくてかわいらしい「ポット玉ねぎ」も栽培しています。 「ポット玉ねぎ」とは品種の名前ではなく、苗を育てる際などに使う9cmポリポットに入れて育てた玉ねぎのこと。",
+    "url": "https://www.facebook.com/manda.co.jp/posts/水の量をカンタン管理ポット玉ねぎの栽培万田発酵の農場では大きな作物だけではなく小さくてかわいらしいポット玉ねぎも栽培していますポット玉ねぎとは品種の名前ではなく/1825514817471841/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://catr.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/date/808b5/2026-11-05/company-split",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/c091e/47735",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/company-split/11637",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/company-split/11642",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/company-split/11643",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/company-split/11644",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/company-split/11645",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/cmp/%E4%B8%87%E7%94%B0%E7%99%BA%E9%85%B5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E4%B8%87%E7%94%B0%E7%99%BA%E9%85%B5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en-hyouban.com/company/10002876682/salary/?job_type=50",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp103741/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://syukatsu-kaigi.jp/companies/18526",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.persona-ats.com/ja/manda",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/miyachi1994/n/n99baf6c5fbef",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/medisapo/n/n41f0313d64db",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mandakohso",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mandakohso/status/2041444619947524245",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/万田発酵",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mandahakko/status/2039900701573419074",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/manda.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/manda.co.jp/posts/772185164948474/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/manda.co.jp/posts/スワイプ本日はジャンボカボチャをお届け現在万田発酵ではジャンボカボチャの栽培に挑戦しています沢山咲く雄花雌花の中から大きくなりそうな雌花を1つ厳選し残りの花はま/888058560027800/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/manda.co.jp/posts/水の量をカンタン管理ポット玉ねぎの栽培万田発酵の農場では大きな作物だけではなく小さくてかわいらしいポット玉ねぎも栽培していますポット玉ねぎとは品種の名前ではなく/1825514817471841/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mandakohso",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mandakohso/status/1833384915142164747",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "万田発酵 求人 年収",
+   "results": [
+    "https://jp.indeed.com/cmp/万田発酵株式会社/salaries",
+    "https://jp.indeed.com/cmp/万田発酵株式会社",
+    "https://en-hyouban.com/company/10002876682/salary/?job_type=50",
+    "https://en-hyouban.com/company/10002876682/salary/",
+    "https://xn--pckua2a7gp15o89zb.com/万田発酵株式会社の仕事",
+    "https://xn--pckua2a7gp15o89zb.com/万田発酵の仕事",
+    "https://jobcatalog.yahoo.co.jp/company/1100008110/salaries/"
+   ]
+  },
+  {
+   "query": "万田発酵 採用 新卒 高卒",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp103741/outline.html",
+    "https://syukatsu-kaigi.jp/companies/18526",
+    "https://job.persona-ats.com/ja/manda",
+    "https://www.onecareer.jp/companies/7073",
+    "https://job.mynavi.jp/27/pc/search/corp103741/employment.html",
+    "https://applink.onecareer.jp/companies/7073",
+    "https://www.manda.co.jp/recruit"
+   ]
+  },
+  {
+   "query": "site:note.com 万田発酵",
+   "results": [
+    "https://note.com/miyachi1994/n/n99baf6c5fbef",
+    "https://note.com/medisapo/n/n41f0313d64db",
+    "https://note.com/227takami/n/nd2c6a5d01ed2",
+    "https://note.com/makura_0005/n/nb3a7e81debd8",
+    "https://note.com/tarou_ymd_/n/n9aecccf32f58",
+    "https://note.com/lightning_farmer/n/n141c6c4d8119",
+    "https://note.com/super_whale4189/n/n9fdc8ebe4943"
+   ]
+  },
+  {
+   "query": "site:x.com 万田発酵",
+   "results": [
+    "https://x.com/mandakohso",
+    "https://x.com/mandakohso/status/2041444619947524245",
+    "https://x.com/hashtag/万田発酵",
+    "https://x.com/mandahakko/status/2039900701573419074",
+    "https://x.com/kenkoukoushin_",
+    "https://x.com/mandakohso/status/2023955645179797583",
+    "https://x.com/mandahakko/status/1622882862306365442"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 万田発酵",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com 万田発酵",
+   "results": [
+    "https://www.facebook.com/manda.co.jp/",
+    "https://www.facebook.com/manda.co.jp/posts/772185164948474/",
+    "https://www.facebook.com/manda.co.jp/posts/スワイプ本日はジャンボカボチャをお届け現在万田発酵ではジャンボカボチャの栽培に挑戦しています沢山咲く雄花雌花の中から大きくなりそうな雌花を1つ厳選し残りの花はま/888058560027800/",
+    "https://www.facebook.com/manda.co.jp/posts/水の量をカンタン管理ポット玉ねぎの栽培万田発酵の農場では大きな作物だけではなく小さくてかわいらしいポット玉ねぎも栽培していますポット玉ねぎとは品種の名前ではなく/1825514817471841/",
+    "https://www.facebook.com/manda.co.jp/posts/万田酵素の原材料vol1はっさく-八朔はっさく八朔の発祥は広島県にある因島です自然交配を繰り返し1860年頃にはっさくは偶然生まれました瀬戸内の温暖な気候が柑橘/757335959766728/",
+    "https://www.facebook.com/manda.co.jp/photos/万田発酵株式会社はコーポレートロゴマークを2013年10月１日より新しく致しました新しいロゴマークのmは人と人が手をつないでいる姿をモチーフにしていますまたそこ/608386865851315/",
+    "https://www.facebook.com/manda.co.jp/posts/馬用万田酵素をリリースして約３ヶ月が経ちました日頃よりご愛用いただいている新庄乗馬クラブ様の給餌方法をご紹介いたしますサラダ油につけることで馬用万田酵素を簡単に/1088535519980102/"
+   ]
+  },
+  {
+   "query": "万田発酵 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/万田発酵",
+    "https://www.manda.co.jp/company/greeting.html",
+    "https://www.manda.co.jp/",
+    "https://ameblo.jp/fukumoto0623/entry-12952576471.html",
+    "https://0845.boo.jp/times/archives/category/company/manda",
+    "https://www.chugoku-np.co.jp/articles/-/421188",
+    "https://compalyze.co.jp/company/5240001038572"
+   ]
+  },
+  {
+   "query": "万田発酵 X 投稿",
+   "results": [
+    "https://x.com/mandakohso",
+    "https://x.com/mandakohso/status/1833384915142164747",
+    "https://search.yahoo.co.jp/realtime/search/＃万田発酵/",
+    "https://www.instagram.com/mandakohso_official/",
+    "https://www.manda.co.jp/",
+    "https://www.instagram.com/p/DZEActNS2KV/",
+    "https://www.mandahakko.com/article/inf_guide.html"
+   ]
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部18頁・検索8回）",
+  "資本金": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部18頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部18頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部18頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部18頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部18頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部18頁・検索8回）"
+ }
+}

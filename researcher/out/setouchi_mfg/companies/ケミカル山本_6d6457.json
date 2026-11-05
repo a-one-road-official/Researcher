@@ -1,0 +1,667 @@
+{
+ "name": "ケミカル山本",
+ "aliases": [],
+ "context": "広島県廿日市市／出典:県・市の企業ガイド／求人媒体:Indeed;doda;マイナビ転職／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T07:09:55.876935+00:00",
+ "official_url": "https://gijutsu-hyakka.com/",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "製品",
+    "value": "筐体・ケース",
+    "url": "https://gijutsu-hyakka.com/challenges/fewer-process-steps/",
+    "pass": 1
+   },
+   {
+    "label": "製品の種類",
+    "value": "拘束型の FDC のほか、非拘束型の制振材、制振塗料、吸音フォーム、遮音シート、防振材をそろえている",
+    "url": "https://gijutsu-hyakka.com/components/enclosure/",
+    "pass": 1
+   },
+   {
+    "label": "製品",
+    "value": "図・試作品・仕様",
+    "url": "https://gijutsu-hyakka.com/technology/patent-literature-search/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "図：三菱電機技報・協友製作所をもとに AI（Claude）で作成",
+    "url": "https://gijutsu-hyakka.com/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都大田区京浜島に本社・工場を置く会社です（創業1938年、設立1955年）",
+    "url": "https://gijutsu-hyakka.com/technology/forging/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都千代田区に本社、山形県米沢市に工場を置く会社です（創業1921年）",
+    "url": "https://gijutsu-hyakka.com/technology/forging/",
+    "pass": 1
+   },
+   {
+    "quote": "三洋工業のサイトに載っている、アルミ鍛造の工場と大型プレス（出典：",
+    "url": "https://gijutsu-hyakka.com/technology/forging/",
+    "pass": 1
+   },
+   {
+    "quote": "250℃の工場排熱で動作し-30℃からの冷熱を生成",
+    "url": "https://gijutsu-hyakka.com/cases/process/device/",
+    "pass": 1
+   },
+   {
+    "quote": "バリ取りを制す者がモノづくりを制す、新たな研究開発拠点で目指すバリの数値化（2/2ページ）｜MONOist",
+    "url": "https://gijutsu-hyakka.com/challenges/fewer-process-steps/",
+    "pass": 1
+   },
+   {
+    "quote": "DMG森精機は、自社の新しい工場で、大型5面加工機5台と大型研削盤4台の計9台を5軸加工機3台に置き換え、工程間の搬送や段取り替えの時間を短くしようとしています",
+    "url": "https://gijutsu-hyakka.com/challenges/fewer-process-steps/",
+    "pass": 1
+   },
+   {
+    "quote": "超大型加工機9台が3台に、DMG森精機が新設の第3精密加工工場が見せた工程集約（2/2ページ）｜MONOist",
+    "url": "https://gijutsu-hyakka.com/challenges/fewer-process-steps/",
+    "pass": 1
+   },
+   {
+    "quote": "京都機械工具（KTC）は、京都府久世郡久御山町に本社（久御山工場）を置く、1950年設立の工具メーカーです（本店は京都市伏見区）",
+    "url": "https://gijutsu-hyakka.com/challenges/fewer-process-steps/",
+    "pass": 1
+   },
+   {
+    "quote": "サイベックコーポレーションは、長野県塩尻市に本社・工場を置く会社です（1973年設立）",
+    "url": "https://gijutsu-hyakka.com/challenges/fewer-process-steps/",
+    "pass": 1
+   },
+   {
+    "quote": "佐藤電機製作所は、東京都三鷹市に東京本社、山梨県山梨市に山梨工場を置く精密板金の会社です（1951年創業）",
+    "url": "https://gijutsu-hyakka.com/challenges/fewer-process-steps/",
+    "pass": 1
+   },
+   {
+    "quote": "工場の機械を動かす PLC（シーケンサ）を1ページに",
+    "url": "https://gijutsu-hyakka.com/technologies/",
+    "pass": 1
+   },
+   {
+    "quote": "AGV（無人搬送車）と AMR（自律走行搬送ロボット）を、工場・倉庫の搬送を自動化したい設計・生産技術の人向けに1ページに",
+    "url": "https://gijutsu-hyakka.com/technologies/",
+    "pass": 1
+   },
+   {
+    "quote": "（意味と仕組み・シミュレーションとの違い・工場での活用事例・ISO 23247）",
+    "url": "https://gijutsu-hyakka.com/technologies/",
+    "pass": 1
+   },
+   {
+    "quote": "（工場・設備のIoT：しくみ・通信方式の種類と選び方・導入事例とセキュリティ）",
+    "url": "https://gijutsu-hyakka.com/technologies/",
+    "pass": 1
+   },
+   {
+    "quote": "工場・設備の IoT を設計者・保全の技術者向けに1ページに",
+    "url": "https://gijutsu-hyakka.com/technologies/",
+    "pass": 1
+   },
+   {
+    "quote": "出典：静岡帆布「工場内で使用する作業用保護マスクの縫製」",
+    "url": "https://gijutsu-hyakka.com/cases/process/craft/",
+    "pass": 1
+   },
+   {
+    "quote": "出典：岸工業「埼玉県 製造工場 間仕切りブース」",
+    "url": "https://gijutsu-hyakka.com/cases/process/craft/",
+    "pass": 1
+   },
+   {
+    "quote": "出典：ロボットアームカバー「ROBO×TEX」ロボットアーム事例「自動車生産工場A社様ロボットアームカバー」",
+    "url": "https://gijutsu-hyakka.com/cases/process/craft/",
+    "pass": 1
+   },
+   {
+    "quote": "高精度射出成形技術の製品への適用（三菱電機技報 2007年12月号）｜三菱電機",
+    "url": "https://gijutsu-hyakka.com/components/enclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱電機技報（2007年）は、強度や耐熱の点から金属が使われていた部品を、PPS などの高剛性・高耐熱の樹脂に置き換える動きが進んでいるとし、後加工のいらないネットシェイプ成形で製造コストの低減が期待されるとしています",
+    "url": "https://gijutsu-hyakka.com/components/enclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "富士合成は、茨城県結城市に本社工場を置く、1941年創立の会社です（資本金3,000万円、従業員約70名）",
+    "url": "https://gijutsu-hyakka.com/components/enclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "シーシーアイ住設建材は、岐阜県関市に本社を置く、2025年4月設立の会社です（資本金1億円）",
+    "url": "https://gijutsu-hyakka.com/components/enclosure/",
+    "pass": 1
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "新潟県工業技術総合研究所「鍛造加工におけるCAE・AIを使った技能継承に向けたDXの取組」",
+    "url": "https://gijutsu-hyakka.com/technology/forging/",
+    "pass": 1
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "出典：NEWGREEN「「アイガモロボ」2 価格は税込27.5万円、2025年3月に販売開始」",
+    "url": "https://gijutsu-hyakka.com/cases/process/device/",
+    "pass": 1
+   },
+   {
+    "quote": "くいんとは、東京都府中市に本社を置く、1985年設立の会社です（資本金1,520万円）",
+    "url": "https://gijutsu-hyakka.com/components/enclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "富士合成は、茨城県結城市に本社工場を置く、1941年創立の会社です（資本金3,000万円、従業員約70名）",
+    "url": "https://gijutsu-hyakka.com/components/enclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "月給: 250,000円〜350,000円",
+    "url": "https://hellowork-plus.com/company/4240001003148/",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 173,360円〜189,120円",
+    "url": "https://hellowork-plus.com/company/4240001003148/",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 194,000円〜194,000円",
+    "url": "https://hellowork-plus.com/company/4240001003148/",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 214,000円〜310,000円",
+    "url": "https://hellowork-plus.com/company/4240001003148/",
+    "pass": 3
+   },
+   {
+    "quote": "月給: 174,240円〜190,080円",
+    "url": "https://hellowork-plus.com/company/4240001003148/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒者の賞与について：夏は寸志、冬２ヶ月程度を予定",
+    "url": "https://chemical-y-recruit.jp/requirements/freshers/",
+    "pass": 3
+   },
+   {
+    "quote": "年収、評価制度",
+    "url": "https://syukatsu-kaigi.jp/companies/4748",
+    "pass": 3
+   },
+   {
+    "quote": "社長のさじ加減で評価・年収は決まってしまう",
+    "url": "https://syukatsu-kaigi.jp/companies/4748",
+    "pass": 3
+   },
+   {
+    "quote": "社長的には一般社会の中でも立派な給料を出していると思って発言しているが、世間的には平均以下の給与体系であると云...",
+    "url": "https://syukatsu-kaigi.jp/companies/4748",
+    "pass": 3
+   },
+   {
+    "quote": "賞与の査定になる為、新しい人にテリトリーは渡さない",
+    "url": "https://syukatsu-kaigi.jp/companies/4748",
+    "pass": 3
+   },
+   {
+    "quote": "1600万円",
+    "url": "https://syukatsu-kaigi.jp/companies/4748",
+    "pass": 3
+   },
+   {
+    "quote": "就活会議に掲載している口コミ及び口コミに紐づく属性情報（性別、雇用時の年齢・年代、職種、年収、役職、雇用形態など）は、",
+    "url": "https://syukatsu-kaigi.jp/companies/4748",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ケミカル山本の年収、社風、強みなど、実際に株式会社ケミカル山本で働いていた人の口コミをもとに企業理解を深められるだけでなく、先輩の体験記やESから選考の傾向をつかんで効率的に選考対策を進めることができます",
+    "url": "https://syukatsu-kaigi.jp/companies/4748",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "出典：MJOLNIR SPACEWORKS「ISASの次世代宇宙輸送実証機『CRAFT』にMSWの無溶接アルミタンクが採用予定」",
+    "url": "https://gijutsu-hyakka.com/cases/process/device/",
+    "pass": 1
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "メカパーツ設計の秘訣（5）｜マイナビニュース（プロトラブズ）",
+    "url": "https://gijutsu-hyakka.com/components/enclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ケミカル山本のハローワーク求人情報一覧｜ハローワークプラス",
+    "url": "https://hellowork-plus.com/company/4240001003148/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ケミカル山本のハローワーク求人情報一覧",
+    "url": "https://hellowork-plus.com/company/4240001003148/",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "特許庁の YouTube チャンネルの説明によると、登録調査機関は法律にもとづいて登録を受け、特許審査に必要な先行技術調査を行う機関で、",
+    "url": "https://gijutsu-hyakka.com/technology/patent-literature-search/",
+    "pass": 1
+   },
+   {
+    "quote": "【2027卒向け】7月以降の会社説明会のお知らせ",
+    "url": "https://chemical-y-recruit.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Instagramでの情報発信も行っています！",
+    "url": "https://chemical-y-recruit.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Instagramでの情報発信も行っています！",
+    "url": "https://chemical-y-recruit.jp/requirements/freshers/",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "株式会社ケミカル山本 採用サイト › 中性塩電解焼け取り法\"のパイオニア、株式会社ケミカル山本の採用サイトです",
+    "url": "https://chemical-y-recruit.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 › 採用について › 株式会社ケミカル山本 採用サイト",
+    "url": "https://chemical-y-recruit.jp/requirements/freshers/",
+    "pass": 3
+   },
+   {
+    "quote": "ケミカル山本の新卒採用・就職・企業情報【就活会議】",
+    "url": "https://syukatsu-kaigi.jp/companies/4748",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ケミカル山本の新卒採用・就職・企業情報",
+    "url": "https://syukatsu-kaigi.jp/companies/4748",
+    "pass": 3
+   },
+   {
+    "quote": "ぜひ、選考体験記の詳細ページにて最新情報やエントリーシート・体験記全文を確認し、選考対策に役立ててください",
+    "url": "https://syukatsu-kaigi.jp/companies/4748",
+    "pass": 3
+   },
+   {
+    "quote": "就活会議では、株式会社ケミカル山本の評判や口コミ、選考を突破した先輩のエントリーシート、実際の選考内容を確認できる体験記、選考状況をリアルタイムで把握できる就活速報を掲載しています",
+    "url": "https://syukatsu-kaigi.jp/companies/4748",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社ケミカル山本 採用サイト › 中性塩電解焼け取り法\"のパイオニ... — Jul 6, 2026 · メイドインひろしま 我々ケミカル山本は、1982年の設立以降、中性塩電解処理技術のパイオニアとして、MADE IN JAPAN (HIROSHIMA)の郷土愛に溢れた高品質製品を世の中に届けます。",
+    "url": "https://chemical-y-recruit.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ケミカル山本の転職・企業概要 − 転職ならdoda（デューダ）株式会社ケミカル山本のハローワーク求人情報一覧株式会社ケミカル山本の求人 | Indeed (インディード)ケミカル山本の転職・採用情報｜社員口コミでわかる【転職会議】株式会社ケミカル山本の中途採用の転職・求人情報｜転職エージェント...株式会社ケミカル山本の転職・求人・中途採用情報|マイナビ転職 — 株式会社ケミカル山本の求人や従業員・年収・事業内容・業績・業種・所在地の情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで472,712社の企業情報が無料で検索・閲覧できます。 株式会社ケミカル山本のハローワーク求人情報一覧です。 ハローワークプラスはハローワークの求人を検索できるサイトです。 職業安定所（職安）が提供しているハローワークインターネットサービスの求人情報を掲載しています。 企業名",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10002675819/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ケミカル山本のハローワーク求人情報一覧 — 株式会社ケミカル山本のハローワーク求人情報一覧です。 ハローワークプラスはハローワークの求人を検索できるサイトです。 職業安定所（職安）が提供しているハローワークインターネットサービスの求人情報を掲載しています。",
+    "url": "https://hellowork-plus.com/company/4240001003148/",
+    "pass": 3
+   },
+   {
+    "quote": "ケミカル山本の転職・採用情報｜社員口コミでわかる【転職会議】 — ケミカル山本への転職を検討するなら【転職会議】。 社員・元社員の口コミ (全4件)から、ケミカル山本の年収・給与制度や社風、面接事例などをリサーチできます。 募集中の求人情報の他、業界ランキング・評点チャートも充実！",
+    "url": "https://jobtalk.jp/companies/134368",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ケミカル山本の中途採用の転職・求人情報｜転職エージェント... — 株式会社ケミカル山本の求人情報一覧ページ。 職種や勤務地での詳細の絞り込み検索ができます。 また、「年収」「年間休日120日以上」「在宅ワーク/リモート勤務可能」など、企業・職種の特色が一目でわかります。",
+    "url": "https://mynavi-agent.jp/corpdetail/42640/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 › 採用について › 株式会社ケミカル山本 採用サイト — 株式会社ケミカル山本は、新卒採用を通じて、優れた技術と人にやさしい環境を提供する企業です。",
+    "url": "https://chemical-y-recruit.jp/requirements/freshers/",
+    "pass": 3
+   },
+   {
+    "quote": "ケミカル山本の新卒採用・就職・企業情報【就活会議】株式会社ケミカル山本の求人 | Indeed (インディード)chemical-y-recruit.jp (株式会社ケミカル山本 採用サイト › 中性塩電...株式会社ケミカル山本の会社概要|転職・求人・中途採用情報サイトのマ...採用情報｜山本化成株式会社 — ケミカル山本 (メーカー・製造業, 機械・プラント／広島県)の新卒採用の企業研究、就活・選考対策情報です。 会社概要から、企業の評判、先輩のESの実例、面接で聞かれた質問まで、本選考・インターンシップの対策情報を掲載しています。 本社の経営管理部にて、給与計算や社会保険手続き、採用といった人事・労務業務全般をお任せします。 適性や経験に応じて経理業務も担当していただき、上場企業のバックオフィスを牽引する重要なポジションです。 中性塩電解焼け取り法\"のパイオニア、株式会社ケミカル山本",
+    "url": "https://syukatsu-kaigi.jp/companies/4748",
+    "pass": 3
+   },
+   {
+    "quote": "chemical-y-recruit.jp (株式会社ケミカル山本 採用サイト › 中性塩電... — 中性塩電解焼け取り法\"のパイオニア、株式会社ケミカル山本の採用サイトです。 仕事内容や働く環境、先輩スタッフを紹介しています。 私たちと一緒に新しい未来を創り出しましょう。 Instagram @chemicalyamamoto Server",
+    "url": "https://host.io/chemical-y-recruit.jp",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ケミカル山本の会社概要|転職・求人・中途採用情報サイトのマ... — 「株式会社ケミカル山本」の企業情報ページです。 株式会社ケミカル山本で募集中の求人（1件）や会社概要などの企業情報を掲載しています。 マイナビ転職の企業情報ページでは、さまざまな業種・職種で求人を募集している企業の情報を探せます。",
+    "url": "https://tenshoku.mynavi.jp/company/471180/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ケミカル山本 on X: \"@tanoshimidanaaa 感情のカツアゲや 男女問わず... 82 4.2K 2.2M ケミカル山本 @8313150chemical Show translation 感情のカツアゲや 男女問わずにおるよな こういう理由を与えたらどこまでも噛み付くカス",
+    "url": "https://x.com/8313150chemical/status/2113624872819864014",
+    "pass": 3
+   },
+   {
+    "quote": "ケミカル山本 on X: \"@Xri2N5tg5x10423 全体数から見てそれもらえる会... ケミカル山本 @8313150chemical 全体数から見てそれもらえる会社がどんなけ限られてるかって話やろ 11:31 PM · Jul 3, 2026 32.2KViews",
+    "url": "https://x.com/8313150chemical/status/2073293683877965889",
+    "pass": 3
+   },
+   {
+    "quote": "ケミカル山本 (@uwetsu) / Posts / X ケミカル山本 (@uwetsu) - Posts - メロコア、ラウド系が大好物 SHANK、グッフォー、ヒスパニ中心に色々聴いとります ( ´ཫ` ) | X (formerly Twitter)",
+    "url": "https://x.com/uwetsu",
+    "pass": 3
+   },
+   {
+    "quote": "ケミカル山本 on X: \"@morimoto_17 稼ぎで言えば嫉妬できる金額超えて... @morimoto_17 稼ぎで言えば嫉妬できる金額超えてるから嫉妬しようないんやけど そうではなく、こいつに金払ってる層はサラリーマンやのにその客層を深く考えずディスってんのが頭悪いって言ってんのよ 戦績もカスやしダサ坊やし",
+    "url": "https://x.com/8313150chemical/status/2113178157570498987",
+    "pass": 3
+   },
+   {
+    "quote": "ケミカル山本 on X: \"@tanoshimidanaaa 感情のカツアゲや 男女問わず... Oct 23, 2026 · 82 4.2K 2.2M ケミカル山本 @8313150chemical Show translation 感情のカツアゲや 男女問わずにおるよな こういう理由を与えたらどこまでも噛み付くカス",
+    "url": "https://x.com/8313150chemical/status/2113624872819864014",
+    "pass": 3
+   },
+   {
+    "quote": "ケミカル山本 (@uwetsu) / Posts / X Jun 21, 2016 · ケミカル山本 (@uwetsu) - Posts - メロコア、ラウド系が大好物 SHANK、グッフォー、ヒスパニ中心に色々聴いとります ( ´ཫ` ) | X (formerly Twitter)",
+    "url": "https://x.com/uwetsu",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "山本ケミカル株式会社 | Maizuru-shi Kyoto - Facebook山本ケミカル株式会社 - 今年の夏は暑かったですね。それもつい先日ま...山本ケミカル株式会社 - お知らせ 2021年1月25日 代表取締役 山本良徳...山本ケミカル株式会社 - 投稿がご無沙汰していました。 今シーズン最...ケミカル山本の溶接焼け取り機です！！！！！ 以上です！！！！ 12420...黒河工業株式会社 - サニタリー配管の溶接焼け取り #ケミカル山本 の...山本悠 - Facebook Oct 3, 2024 · お知らせ 2021年1月25日 代表取締役 山本良徳 取締役会長 山本富良夫 が就任致しました。 ご挨拶に伺うべきところですが、緊急事態宣言下でも あり、挨拶状、メール等でご案内させて頂きます。 Oct 3, 2024 · ^_^ 中野純子 and 2 others 3 山",
+    "url": "https://www.facebook.com/yamamotochemical/",
+    "pass": 3
+   },
+   {
+    "quote": "ケミカル山本の溶接焼け取り機です！！！！！ 以上です！！！！ 12420... Feb 22, 2026 · ケミカル山本の溶接焼け取り機です！ 以上です！ 😊 1242033 #dtowasse #買取屋 #ケミカル山本 #中古工具 #リサイクルショップ ケミカル山本の溶接焼け取り機です！",
+    "url": "https://www.facebook.com/drtoolwasse/videos/ケミカル山本の溶接焼け取り機です以上です1242033dtowasse-買取屋-ケミカル山本-中古工具-リサイクルショップ/1218121037151302/",
+    "pass": 3
+   },
+   {
+    "quote": "黒河工業株式会社 - サニタリー配管の溶接焼け取り #ケミカル山本 の... Jul 10, 2025 · サニタリー配管の溶接焼け取り #ケミカル山本 の焼け取り機で一発仕上げ ちなみにバフは使ってません #黒河工業株式会社 #配管屋 #特殊ガス配管工事 #産業ガス配管工事 #社員募集中",
+    "url": "https://www.facebook.com/100065135767986/posts/サニタリー配管の溶接焼け取りケミカル山本-の焼け取り機で一発仕上げちなみにバフは使ってません黒河工業株式会社配管屋-特殊ガス配管工事-産業ガス配管工事社員募集中/1106818751499307/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://gijutsu-hyakka.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gijutsu-hyakka.com/technology/forging/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gijutsu-hyakka.com/cases/process/device/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gijutsu-hyakka.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gijutsu-hyakka.com/components/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gijutsu-hyakka.com/companies/component/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gijutsu-hyakka.com/challenges/fewer-process-steps/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gijutsu-hyakka.com/technologies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gijutsu-hyakka.com/cases/process/casting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gijutsu-hyakka.com/cases/process/craft/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gijutsu-hyakka.com/components/enclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gijutsu-hyakka.com/technology/patent-literature-search/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "status": "error",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://chemical-y-recruit.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10002675819/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://hellowork-plus.com/company/4240001003148/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chemical-y-recruit.jp/requirements/freshers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chemical-y-recruit.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://syukatsu-kaigi.jp/companies/4748",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/8313150chemical/status/2113624872819864014",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/8313150chemical/status/2073293683877965889",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/uwetsu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/8313150chemical/status/2113178157570498987",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/yamamotochemical/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/drtoolwasse/videos/ケミカル山本の溶接焼け取り機です以上です1242033dtowasse-買取屋-ケミカル山本-中古工具-リサイクルショップ/1218121037151302/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100065135767986/posts/サニタリー配管の溶接焼け取りケミカル山本-の焼け取り機で一発仕上げちなみにバフは使ってません黒河工業株式会社配管屋-特殊ガス配管工事-産業ガス配管工事社員募集中/1106818751499307/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/8313150chemical/status/2113624872819864014",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/uwetsu",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ケミカル山本 求人 年収",
+   "results": [
+    "https://chemical-y-recruit.jp/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10002675819/",
+    "https://hellowork-plus.com/company/4240001003148/",
+    "https://jobtalk.jp/companies/134368",
+    "https://mynavi-agent.jp/corpdetail/42640/",
+    "https://tenshoku.mynavi.jp/company/471180/joblist/",
+    "https://jp.indeed.com/q-株式会社ケミカル山本-求人.html"
+   ]
+  },
+  {
+   "query": "ケミカル山本 採用 新卒 高卒",
+   "results": [
+    "https://chemical-y-recruit.jp/requirements/freshers/",
+    "https://chemical-y-recruit.jp/",
+    "https://syukatsu-kaigi.jp/companies/4748",
+    "https://host.io/chemical-y-recruit.jp",
+    "https://tenshoku.mynavi.jp/company/471180/",
+    "https://jp.indeed.com/q-株式会社ケミカル山本-求人.html",
+    "https://www.yamamoto-chemicals.co.jp/recruit/"
+   ]
+  },
+  {
+   "query": "site:note.com ケミカル山本",
+   "results": [
+    "https://note.com/kirik",
+    "https://note.com/okuchika/n/n6acff134b38f",
+    "https://note.com/very_tools/n/n3e1202903188",
+    "https://note.com/addp_discovery/n/nc2b57173834f",
+    "https://note.com/p_yama_film/n/n3ea44a1d84aa",
+    "https://note.com/spacewalker_jp/n/n4c0b2683bee2",
+    "https://note.com/clipcorporation/n/n789dfc79b761"
+   ]
+  },
+  {
+   "query": "site:x.com ケミカル山本",
+   "results": [
+    "https://x.com/8313150chemical/status/2113624872819864014",
+    "https://x.com/8313150chemical/status/2073293683877965889",
+    "https://x.com/uwetsu",
+    "https://x.com/8313150chemical/status/2113178157570498987",
+    "https://x.com/8313150chemical/status/2088142996403585284",
+    "https://x.com/8313150chemical/status/2102229864711622723",
+    "https://x.com/8313150chemical/status/2080269302729695710"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ケミカル山本",
+   "results": [
+    "https://jp.linkedin.com/in/裕之-山本-299458315",
+    "https://jp.linkedin.com/in/革-山本-b7128527b",
+    "https://www.linkedin.com/pub/dir/比呂志/山本",
+    "https://www.linkedin.com/in/taiki-yamamoto-524980311/ja",
+    "https://no.linkedin.com/in/hidekoyamamoto/ja",
+    "https://jp.linkedin.com/in/yamamoto-hirotsugu-1765a712a",
+    "https://jp.linkedin.com/in/seki-yamamoto（山本-夕）-20b31b192/en"
+   ]
+  },
+  {
+   "query": "site:facebook.com ケミカル山本",
+   "results": [
+    "https://www.facebook.com/yamamotochemical/",
+    "https://www.facebook.com/drtoolwasse/videos/ケミカル山本の溶接焼け取り機です以上です1242033dtowasse-買取屋-ケミカル山本-中古工具-リサイクルショップ/1218121037151302/",
+    "https://www.facebook.com/100065135767986/posts/サニタリー配管の溶接焼け取りケミカル山本-の焼け取り機で一発仕上げちなみにバフは使ってません黒河工業株式会社配管屋-特殊ガス配管工事-産業ガス配管工事社員募集中/1106818751499307/",
+    "https://www.facebook.com/p/山本悠-100011094784944/",
+    "https://www.facebook.com/yamamotochemical/posts/今年の夏は暑かったですねそれもつい先日まで室外機を冷やして空調効果をあげてco2削減と電気代削減につながるエアポレーターというものを紹介しますお時間あるときにご/1058958312904158/",
+    "https://www.facebook.com/yamamotochemical/posts/お知らせ2021年1月25日代表取締役-山本良徳取締役会長-山本富良夫が就任致しましたご挨拶に伺うべきところですが緊急事態宣言下でもあり挨拶状メール等でご案内さ/3327930263979449/",
+    "https://www.facebook.com/yamamotochemical/posts/投稿がご無沙汰していました今シーズン最初のプール濾過機の運転立ち上げでした今年どれだけプールが開設されるか分かりませんが水辺の安全自分の身を守る生涯フィットネス/3593023224136817/"
+   ]
+  },
+  {
+   "query": "ケミカル山本 note 社長",
+   "results": [
+    "https://axel.hiroshima.jp/report/talk-with-the-president_with_chemicalyamamoto/",
+    "https://chemical-y-recruit.jp/company/message/",
+    "https://axel.hiroshima.jp/event/talk-with-the-president_with_chemicalyamamoto/",
+    "https://www.syaroshi.jp/company/c_yamamoto.htm",
+    "http://ryugi.blog.shinobi.jp/化学・環境・エネルギー/ケミカル山本（シリーズno.1173）",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/03422-00.pdf",
+    "https://chemical-news.com/tag/太陽石油代表取締役社長山本堯大氏/"
+   ]
+  },
+  {
+   "query": "ケミカル山本 X 投稿",
+   "results": [
+    "https://x.com/8313150chemical/status/2113624872819864014",
+    "https://x.com/uwetsu",
+    "https://www.instagram.com/chemicalyamamoto/",
+    "https://www.youtube.com/@chemical.yamamoto",
+    "https://www.instagram.com/reel/DVsY7buAlgF/",
+    "https://www.youtube.com/@chemicalyamamoto",
+    "https://search.yahoo.co.jp/realtime/search/山本太郎/"
+   ]
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部15頁・検索8回）",
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部15頁・検索8回）",
+  "資本金": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部15頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部15頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部15頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部15頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部15頁・検索8回）"
+ }
+}

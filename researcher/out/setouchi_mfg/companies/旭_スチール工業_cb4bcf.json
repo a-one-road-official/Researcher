@@ -1,0 +1,179 @@
+{
+ "name": "旭・スチール工業",
+ "aliases": [],
+ "context": "広島県広島市／出典:県・市の企業ガイド／求人媒体:Indeed／想定年収:未取得／従業員:46",
+ "researched_at": "2026-11-05T07:07:08.670194+00:00",
+ "official_url": "https://www.asahi-steel.co.jp/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "旭・スチール工業株式会社の求人 | Indeed (インディード) — 旭・スチール工業株式会社の求人は52件あります。ライン作業, 法人営業, サービスエンジニアなどの仕事・転職・アルバイト情報もまとめて検索。",
+    "url": "https://jp.indeed.com/q-旭・スチール工業株式会社-求人.html",
+    "pass": 3
+   },
+   {
+    "quote": "朝日スチール工業の年収・給与 平均年収も - エン カイシャの評判旭工業株式会社 の給与 | Indeed (インディード)朝日スチール工業株式会社の求人・採用情報｜求人ボックス朝日スチール工業の転職・採用情報｜社員口コミでわかる【転職会議】旭・スチール工業 株式会社のハローワーク求人情報一覧「年収：330万円 年収内訳（基本給：252万円、賞与：70万円） 給与制... — 朝日スチール工業株式会社の平均年収は364万円、年収範囲は200～600万円です（14人の正社員の回答）。年収・給与に関する口コミを3件掲載中。「エン カイシャの評判（旧ライトハウス）」。 日本での旭工業株式会社の平均給与 旭工業株式会社の平均月給の範囲は約 15.2万円／月（人事・労務）から約 37.2万円／月（土木技術者）です。 旭工業株式会社の平均年収は、約288万円 (工作機械オペレーター) 〜381万円 (",
+    "url": "https://en-hyouban.com/company/10007371371/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "朝日スチール工業の転職・採用情報｜社員口コミでわかる【転職会議】旭・スチール工業 株式会社のハローワーク求人情報一覧「年収：330万円 年収内訳（基本給：252万円、賞与：70万円） 給与制... — 朝日スチール工業への転職を検討するなら【転職会議】。社員・元社員の口コミ(全73件)から、朝日スチール工業の年収・給与制度や社風、面接事例などをリサーチできます。募集中の求人情報の他、業界ランキング・評点チャートも充実！ May 10, 2022 · 旭・スチール工業 株式会社のハローワーク求人情報一覧 納品運搬兼製造補助作業員【正社員】 旭・スチール工業 株式会社 正社員 転勤なし 書類選考なし 通勤手当あり 駅近（徒歩10分以内） マイカー通勤可 朝日スチール工業への就職・転職を検討されている方が、朝日スチール工業の実情を把握するための参考情報として、「社員による会社評価・クチコミ情報」",
+    "url": "https://jobtalk.jp/companies/35467",
+    "pass": 3
+   },
+   {
+    "quote": "旭・スチール工業 株式会社のハローワーク求人情報一覧 — May 10, 2022 · 旭・スチール工業 株式会社のハローワーク求人情報一覧 納品運搬兼製造補助作業員【正社員】 旭・スチール工業 株式会社 正社員 転勤なし 書類選考なし 通勤手当あり 駅近（徒歩10分以内） マイカー通勤可",
+    "url": "https://www.job-net.jp/employers/9240001034106",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "AIキムテツコラム番外編：そもそもAIキムテツとは？｜Tetsuya Kimura会社概要｜旭・スチール工業株式会社赤字続きの｢トヨタの下請け工場｣を蘇らせた\"婿入り社長\"のインタビ...旭・スチール工業株式会社 (広島県府中市)の企業詳細 - 全国法人リス...社長も部長もみんなAI 旭鉄工のAI成功モデル | 日経BOOKプラス Jan 22, 2025 · 「AIキムテツの連載をやってるけど、noteの読者はAIキムテツが何であるか知らないので説明が必要。作ってもらえますか？」とAIキムテツに聞いて紹介文を作ってもらいました（大半は自動生成ですが無修正とはいかなかった） AIキムテツとは？ AIキムテツは、旭鉄工の木村哲也社長の知識 ... 旭・スチール工業株式会社 広島県府中市高木町669 TEL：0847-45-3660 Nov 11, 2025 · ようやく和式便器を洋式便器に",
+    "url": "https://note.com/istc_kimura/n/n1330ec1ea526",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.asahi-steel.co.jp/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/q-%E6%97%AD%E3%83%BB%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en-hyouban.com/company/10007371371/salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%9C%9D%E6%97%A5%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/istc_kimura/n/n1330ec1ea526",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "旭・スチール工業 求人 年収",
+   "results": [
+    "https://jp.indeed.com/q-旭・スチール工業株式会社-求人.html",
+    "https://en-hyouban.com/company/10007371371/salary/",
+    "https://xn--pckua2a7gp15o89zb.com/朝日スチール工業株式会社の仕事",
+    "https://jobtalk.jp/companies/35467",
+    "https://www.job-net.jp/employers/9240001034106",
+    "https://www.openwork.jp/one_answer.php?vid=a0ARC00000XXe8X&qco=2",
+    "https://jp.indeed.com/cmp/旭工業株式会社/salaries"
+   ]
+  },
+  {
+   "query": "旭・スチール工業 採用 新卒 高卒",
+   "results": []
+  },
+  {
+   "query": "site:note.com 旭・スチール工業",
+   "results": [
+    "https://money.note.com/companies/5456",
+    "https://note.com/eversteel",
+    "https://note.com/naoki_kato/n/ncccdcd48ca3b",
+    "https://note.com/303geos/n/nf392b1bdf81c",
+    "https://note.com/eversteel/n/n7b6c7010a9bd",
+    "https://note.com/yokumoku_jp/n/nd0a1e1f0ae84",
+    "https://note.com/kabuya66/n/nb0cdb087fae2"
+   ]
+  },
+  {
+   "query": "site:x.com 旭・スチール工業",
+   "results": [
+    "https://x.com/naoki_kato_0129/status/2075908010631946744",
+    "https://x.com/kagawa_CoRE/status/2103731201806934188",
+    "https://x.com/naoki_kato_0129/status/2075564851695669694",
+    "https://x.com/career_m1/status/2117903549078114537",
+    "https://x.com/study_just2020/status/2118176515531960810",
+    "https://x.com/mahologyy/status/2116674423575203989",
+    "https://x.com/study_just2020/status/2117805637438714206"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 旭・スチール工業",
+   "results": [
+    "https://www.linkedin.com/company/朝日スチール工業（株）",
+    "https://jp.linkedin.com/in/よしまさ-相原-865b8a159",
+    "https://it.linkedin.com/in/egidio-stasi-541411229",
+    "https://www.linkedin.com/",
+    "https://jp.linkedin.com/in/satoshi-智-yamashita-山下-151ab8187",
+    "https://ro.linkedin.com/in/silvia-maican-0989a117",
+    "https://id.linkedin.com/in/i-gede-satyananda-gautama-3429052ba"
+   ]
+  },
+  {
+   "query": "site:facebook.com 旭・スチール工業",
+   "results": [
+    "https://www.facebook.com/旭スチール工業-464844563578177/",
+    "https://www.facebook.com/朝日スチール工業株式会社-177202252481547/",
+    "https://www.facebook.com/asanosteel/",
+    "https://www.facebook.com/asahicarbon/",
+    "https://www.facebook.com/tsukubaremodel/",
+    "https://www.facebook.com/asahixray/",
+    "https://www.facebook.com/sunkogyou/posts/771573904661420/"
+   ]
+  },
+  {
+   "query": "旭・スチール工業 note 社長",
+   "results": [
+    "https://www.asahi-steel.co.jp/profile.htm",
+    "https://www.asahi-steel.co.jp/index_m.htm",
+    "https://note.com/istc_kimura/n/n1330ec1ea526",
+    "https://www.kensetumap.com/company/419102/profile.php",
+    "https://houjin.jp/c/9240001034106",
+    "https://note.com/nobu0345/n/nae990c70e38c",
+    "https://bookplus.nikkei.com/atcl/column/072400745/"
+   ]
+  },
+  {
+   "query": "旭・スチール工業 X 投稿",
+   "results": [
+    "https://www.asahi-steel.co.jp/index_m.htm",
+    "https://www.asahi-steel.co.jp/profile.htm",
+    "https://x.com/naoki_kato_0129/status/2075564851695669694",
+    "https://x.com/usakunsuki/status/2117589042418356237",
+    "https://xkings.jp/",
+    "https://x-sou.com/ja",
+    "https://asahi-kokan.com/"
+   ]
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索8回）",
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索8回）",
+  "資本金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索8回）",
+  "採用ページ": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索8回）",
+  "想定年収・給与": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索8回）",
+  "取引先・規模": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索8回）"
+ }
+}

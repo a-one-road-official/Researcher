@@ -1,0 +1,252 @@
+{
+ "name": "エコログ・リサイクリング・ジャパン",
+ "aliases": [],
+ "context": "広島県福山市／出典:県・市の企業ガイド／求人媒体:自社採用ページ／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T07:07:11.868012+00:00",
+ "official_url": "https://www.ecolog.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1994年3月",
+    "url": "https://www.ecolog.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "2億4000万円",
+    "url": "https://www.ecolog.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "エコログ・リサイクリング・ネットワークの運営",
+    "url": "https://www.ecolog.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "〒720-0831 広島県福山市草戸町3-11-8 TEL: 084-924-8509 / FAX: 084-921-7633",
+    "url": "https://www.ecolog.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "2億4000万円",
+    "url": "https://www.ecolog.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ECOLOG RECYCLING GmbH と業務提携 会社設立 資本金1億2000万円",
+    "url": "https://www.ecolog.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金2億4000万円に増資",
+    "url": "https://www.ecolog.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金2億6500万円に増資",
+    "url": "https://www.ecolog.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ecolog.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ecolog.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ecolog.co.jp/archive/4643/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.njlottery.com/en-us/home.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.njlottery.com/en-us/drawgames/pick4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.njlottery.com/en-us/drawgames/pick3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.premierleague.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.premierleague.com/en/matches/premier-league/2026-27",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.espn.com/soccer/schedule/_/league/eng.1",
+    "status": "http_202",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エコログ・リサイクリング・ジャパン 求人 年収",
+   "results": [
+    "https://www.njlottery.com/",
+    "https://www.njlottery.com/en-us/drawgames/pick4.html",
+    "https://www.njlottery.com/content/portal/en/drawgames/pick3.html",
+    "https://www.njlottery.com/content/portal/en/drawgames/powerball.html",
+    "https://www.njlottery.com/content/portal/en/drawgames/jerseycash.html",
+    "https://www.njlottery.com/en-us/scratch-offs.html",
+    "https://www.njlottery.com/en-us/playertools/watchdrawings.html",
+    "https://www.njlottery.com/en-us/trafficpage.html",
+    "https://www.njlottery.com/en-us/scratch-offs/01973.html",
+    "https://www.njlottery.com/en-us/playertools/claimprize.html"
+   ]
+  },
+  {
+   "query": "エコログ・リサイクリング・ジャパン 採用 新卒 高卒",
+   "results": [
+    "https://www.premierleague.com/",
+    "https://www.premierleague.com/en/matches",
+    "https://www.espn.com/soccer/schedule/_/league/eng.1",
+    "https://www.cbssports.com/soccer/premier-league/schedule/",
+    "https://www.nbcsports.com/soccer/premier-league/schedule",
+    "https://worldsoccertalk.com/premier-league-tv-schedule/",
+    "https://www.bbc.com/sport/football/premier-league/scores-fixtures",
+    "https://www.skysports.com/premier-league-scores-fixtures",
+    "https://www.foxsports.com/soccer/premier-league/schedule",
+    "https://footballschedulepro.com/schedule/pl/"
+   ]
+  },
+  {
+   "query": "site:note.com エコログ・リサイクリング・ジャパン",
+   "results": [
+    "https://www.dictionary.com/browse/+++++++++++++++++++++++vindicate",
+    "https://englishwordchamps.com/vindicate-meaning-and-examples/",
+    "https://www.merriam-webster.com/dictionary/vindicate",
+    "https://dictionary.cambridge.org/us/dictionary/english/vindicate",
+    "https://dictionary.cambridge.org/dictionary/english/vindicate?q=vindicated",
+    "https://www.definitions.net/definition/vindicate",
+    "https://en.thefreedictionary.com/vindicate",
+    "https://www.merriam-webster.com/dictionary/vindication",
+    "https://www.collinsdictionary.com/us/dictionary/english/vindicate",
+    "https://www.dictionary.net/dictionary/vindicate"
+   ]
+  },
+  {
+   "query": "site:x.com エコログ・リサイクリング・ジャパン",
+   "results": [
+    "https://bpweekly.com/",
+    "https://bpweekly.com/past-issues",
+    "https://issues.bpweekly.com/library/library.html",
+    "https://issues.bpweekly.com/library/06-25-2025/index.html",
+    "https://bpweekly.com/contact",
+    "https://bpweekly.com/advertise",
+    "https://bpweekly.com/classifieds",
+    "https://bpweekly.com/digital-media",
+    "https://bpweekly.com/ad-specs",
+    "https://bpweekly.com/mailing-list"
+   ]
+  },
+  {
+   "query": "site:linkedin.com エコログ・リサイクリング・ジャパン",
+   "results": [
+    "https://mobile-xvideos.com/tags/peeing",
+    "https://www.xvideos.com/tags/female-pissing",
+    "https://www.xvideos.com/tags/women-pissing",
+    "https://www.xnxx.com/search/women+pissing",
+    "https://www.shameless.com/categories/pissing/",
+    "https://vipwank.com/women-pissing-videos",
+    "https://xhamster.com/categories/pissing",
+    "https://tubepleasure.com/en/4/pissing/",
+    "https://xhamster.com/search/girls+peeing",
+    "https://girlspee.video/categories/"
+   ]
+  },
+  {
+   "query": "site:facebook.com エコログ・リサイクリング・ジャパン",
+   "results": [
+    "https://en.wikipedia.org/wiki/Yes_(band)",
+    "https://en.wikipedia.org/wiki/Aurora_(Yes_album)",
+    "https://simple.wikipedia.org/wiki/Yes_(band)",
+    "https://www.yesworld.com/",
+    "https://middermusic.com/yes-songs/",
+    "https://music.youtube.com/@yesofficial",
+    "https://www.youtube.com/channel/UCJ2BSIyIU84ZtJ9MiLh0jZA",
+    "https://www.youtube.com/watch?v=SVOuYquXuuc",
+    "https://music.youtube.com/playlist?list=PLHEQthZJgdMUILf2J-gIquBJyVFylA32F",
+    "https://progrock.fandom.com/wiki/Yes"
+   ]
+  },
+  {
+   "query": "エコログ・リサイクリング・ジャパン note 社長",
+   "results": [
+    "https://forums.realgm.com/boards/viewtopic.php?t=868042",
+    "https://forums.realgm.com/boards/viewtopic.php?t=1466872",
+    "https://forums.realgm.com/boards/viewtopic.php?t=2443552",
+    "https://forums.realgm.com/boards/viewtopic.php?t=2403136",
+    "https://forums.realgm.com/boards/viewtopic.php?t=2376731&start=400",
+    "https://forums.realgm.com/boards/viewtopic.php?t=2439151",
+    "https://forums.realgm.com/boards/viewtopic.php?t=2417584",
+    "https://forums.realgm.com/boards/viewtopic.php?t=1242882",
+    "https://forums.realgm.com/boards/viewtopic.php?t=1536355",
+    "https://forums.realgm.com/boards/viewtopic.php?t=2397352"
+   ]
+  },
+  {
+   "query": "エコログ・リサイクリング・ジャパン X 投稿",
+   "results": [
+    "https://www.thumbtack.com/nj/newark/exterior-construction",
+    "https://www.gardenstatehomeexteriors.com/service-areas/newark-nj/",
+    "https://signatureext.com/newark",
+    "https://www.bbb.org/us/nj/newark/category/exterior-designer",
+    "https://www.thumbtack.com/nj/newark/construction",
+    "https://www.houzz.com/professionals/general-contractor/newark-nj-us-probr0-bo~t_11786~r_5101798",
+    "https://leoslmconstructionllc.com/",
+    "https://www.yelp.com/search?find_desc=Exterior+Improvements&find_loc=Newark,+NJ",
+    "https://www.houzz.com/professionals/design-build/newark-nj-us-probr0-bo~t_11793~r_5101798",
+    "https://www.expertise.com/home-improvement/remodeling/new-jersey/newark"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用ページ": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）",
+  "取引先・規模": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索8回）"
+ }
+}

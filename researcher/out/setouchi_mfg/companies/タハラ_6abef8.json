@@ -1,0 +1,822 @@
+{
+ "name": "タハラ",
+ "aliases": [],
+ "context": "広島県廿日市市／出典:県・市の企業ガイド／求人媒体:Indeed;doda;求人ボックス／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T06:57:07.786964+00:00",
+ "official_url": "https://wood-tahara.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒738-0021 広島県廿日市市木材港北15番1号",
+    "url": "https://wood-tahara.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "インテリア建材（階段材、手摺、カウンター）、製造・販売",
+    "url": "https://wood-tahara.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：1985年4月1日",
+    "url": "https://wood-tahara.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1,000 万円",
+    "url": "https://wood-tahara.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "71名（2024年）",
+    "url": "https://wood-tahara.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年間売上高",
+    "value": "15億7000万円（2024年9月）",
+    "url": "https://wood-tahara.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "1,000 万円",
+    "url": "https://wood-tahara.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "15億7000万円（2024年9月）",
+    "url": "https://wood-tahara.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "■広島県広島市中区舟入幸町にて創業 有限会社 田原商会：資本金1,000 万円",
+    "url": "https://wood-tahara.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社タハラの年収・給料｜公開資料と求人の比較 | キャリビー",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社タハラの掲載求人の想定年収は中央値で約395万円（全国平均460万円）",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "公開資料の給与実績と、求人の想定年収は集計対象が異なります",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "年収を比較する際は、額面の金額だけでなく、福利厚生（住宅手当・退職金・確定拠出年金）、賞与の支給実績（何ヶ月分か）、残業代の支給方法（みなし残業 vs 全額支給）も含めた「総報酬」で判断することが重要です",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社タハラの確定的な平均年収は蓄積中ですが、掲載求人の想定年収（中央値）は約395万円です",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "年収は額面だけでなく、賞与の支給実績・福利厚生・残業代の支給方法まで含めた「総報酬」で比較するのが重要です",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "強み・適職から、年収相場までわかる",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "年収と一緒に、仕事との相性も",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社タハラの掲載求人の想定年収（中央値）から算出した目安です",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "投稿された年収データが集まると、より精度の高い平均年収を表示します",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "国税庁「民間給与実態統計調査」（令和5年分）",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社タハラの年収目安（約395万円）は全国平均460万円を約65万円下回ります",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "年収の比較は額面だけでなく、賞与・福利厚生を含む総報酬で見ることが大切です",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社タハラは現在、想定年収が明示された求人を1件掲載しています",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "想定年収は390〜400万円、中央値は約395万円です",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "求人の想定年収から算出（職種別の中央値の高い順）",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "想定年収は実際のオファー水準の出発点になります",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "職種・勤務地で絞り込んで、上記の年収レンジと照らし合わせてご確認ください",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "390〜400万円",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "年収 ÷ 12",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "年収 × 38年（22〜60歳）",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "手取りは扶養・控除により、生涯年収は昇給・役職により変動します",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "求人票や有価証券報告書に出てくる「年収」は、多くの場合あくまで額面（基本給＋賞与）です",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "住宅ローン審査や退職金・賞与の算定基礎になり、総報酬の中でも最も安定した土台になります",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "業績連動の比率が高い企業ほど変動が大きく、求人票の「想定年収」にどこまで含まれるかは要確認です",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "大学卒 月給252,900円",
+    "url": "https://www.tahara-mc.com/job1",
+    "pass": 3
+   },
+   {
+    "quote": "高校卒 月給212,000円",
+    "url": "https://www.tahara-mc.com/job1",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "〔事業拡大により〕第2工場取得 ■広島県廿日市市木材港北５-61",
+    "url": "https://wood-tahara.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "〔事業拡大により〕第3工場取得 ■広島県廿日市市木材港北４-52",
+    "url": "https://wood-tahara.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製造部の加工場などに、製品を作製してもらう為の資材を準備する部署です",
+    "url": "https://wood-tahara.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "【リクルート】会社説明会(2026年卒向け)実施のお知らせ",
+    "url": "https://wood-tahara.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "【リクルート】会社説明会(2026年卒向け)実施のお知らせ | 階段のタハラ",
+    "url": "https://wood-tahara.co.jp/news/%E3%80%90%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%80%91%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E4%BC%9A2026%E5%B9%B4%E5%8D%92%E5%90%91%E3%81%91%E5%AE%9F%E6%96%BD%E3%81%AE%E3%81%8A%E7%9F%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "【リクルート】会社説明会(2026年卒向け)実施のお知らせ",
+    "url": "https://wood-tahara.co.jp/news/%E3%80%90%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%80%91%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E4%BC%9A2026%E5%B9%B4%E5%8D%92%E5%90%91%E3%81%91%E5%AE%9F%E6%96%BD%E3%81%AE%E3%81%8A%E7%9F%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "【リクルート】合同説明会出展のお知らせ | 階段のタハラ",
+    "url": "https://wood-tahara.co.jp/news/%E3%80%90%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%80%91%E5%90%88%E5%90%8C%E8%AA%AC%E6%98%8E%E4%BC%9A%E5%8F%82%E5%8A%A0%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項 – 採用情報｜株式会社タハラ「TAHARA」｜電動ブロー成形機のトップメーカー",
+    "url": "https://www.tahara-mc.com/job1",
+    "pass": 3
+   },
+   {
+    "quote": "Email : recruit@tahara-mc.com",
+    "url": "https://www.tahara-mc.com/job1",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "【インターンシップ】2025年夏季インターンシップ開催のお知らせ",
+    "url": "https://wood-tahara.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "【リクルート】会社説明会(2026年卒向け)実施のお知らせ",
+    "url": "https://wood-tahara.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "他の先輩社員と変わらない扱いをしてもらい温かみ溢れる会社だなと感じました",
+    "url": "https://wood-tahara.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "【リクルート】会社説明会(2026年卒向け)実施のお知らせ | 階段のタハラ",
+    "url": "https://wood-tahara.co.jp/news/%E3%80%90%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%80%91%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E4%BC%9A2026%E5%B9%B4%E5%8D%92%E5%90%91%E3%81%91%E5%AE%9F%E6%96%BD%E3%81%AE%E3%81%8A%E7%9F%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "【リクルート】会社説明会(2026年卒向け)実施のお知らせ",
+    "url": "https://wood-tahara.co.jp/news/%E3%80%90%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%80%91%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E4%BC%9A2026%E5%B9%B4%E5%8D%92%E5%90%91%E3%81%91%E5%AE%9F%E6%96%BD%E3%81%AE%E3%81%8A%E7%9F%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "タハラ本社にて会社説明会（2026年卒向け）を実施します",
+    "url": "https://wood-tahara.co.jp/news/%E3%80%90%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%80%91%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E4%BC%9A2026%E5%B9%B4%E5%8D%92%E5%90%91%E3%81%91%E5%AE%9F%E6%96%BD%E3%81%AE%E3%81%8A%E7%9F%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "FC2でブログも開設しています",
+    "url": "https://note.com/cut_away_collar/n/nebee407713f1",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "2025年2月5日(水)13：00～17：00 マイナビ就活直前フェア [会場：広島産業会館 西展示館]",
+    "url": "https://wood-tahara.co.jp/news/%E3%80%90%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%80%91%E5%90%88%E5%90%8C%E8%AA%AC%E6%98%8E%E4%BC%9A%E5%8F%82%E5%8A%A0%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 タハラ の 求人 ・中途採用情報 - doda — 株式会社 タハラ の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10010660076",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10010660076/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 タハラ の 年収 ・給料｜公開資料と 求人 の比較 — 株式会社 タハラ の 年収 ・給料｜公開資料と 求人 の比較 キャリビー https://career-be.jp > ... > 株式会社タハラの求人",
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 タハラ の 求人 ・採用情報 - 求人ボックス — 株式会社 タハラ の 求人 ・採用情報 - 求人ボックス 求人ボックス https://求人ボックス.com > 株式会社タハラの仕事",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BF%E3%83%8F%E3%83%A9%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 タハラ の給与 - Indeed (インディード) — 株式会社 タハラ の給与 - Indeed (インディード) Indeed https://jp.indeed.com > cmp > 株式会社タハラ > salaries",
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BF%E3%83%8F%E3%83%A9/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "タハラ 新卒 高卒 の求人情報をすべて見る （136件） — タハラ 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項 – 採用 情報｜株式会社 タハラ 「 TAHARA 」 — 募集要項 – 採用 情報｜株式会社 タハラ 「 TAHARA 」 tahara-mc.com https://www.tahara-mc.com > job1",
+    "url": "https://www.tahara-mc.com/job1",
+    "pass": 3
+   },
+   {
+    "quote": "リクルート - 階段のタハラ — リクルート - 階段のタハラ 階段のタハラ https://wood-tahara.co.jp > recruit",
+    "url": "https://wood-tahara.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "機械メーカーの国内営業の求人、株式会社 タハラ - 千葉キャリ — 機械メーカーの国内営業の求人、株式会社 タハラ - 千葉キャリ chibacari.com https://www.chibacari.com > career > job > detail",
+    "url": "https://www.chibacari.com/career/job/detail/?id=20216474",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 タハラ - note 株式会社 タハラ - note note https://note.com > kaidan_concierge",
+    "url": "https://note.com/kaidan_concierge",
+    "pass": 3
+   },
+   {
+    "quote": "プーマの量産型スニーカー『 タハラ 』、放課後の校庭を埋め ... プーマの量産型スニーカー『 タハラ 』、放課後の校庭を埋め ... note https://note.com > スポーツ > ランニング・ジョギング",
+    "url": "https://note.com/cut_away_collar/n/nebee407713f1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "階段に関することや施工事例写真は弊社HPへ",
+    "url": "https://note.com/kaidan_concierge",
+    "pass": 3
+   },
+   {
+    "quote": "https://wood-tahara.co.jp/",
+    "url": "https://note.com/kaidan_concierge",
+    "pass": 3
+   },
+   {
+    "quote": "猫好きに朗報！「#階段ねこンテスト」開催🐈",
+    "url": "https://note.com/kaidan_concierge",
+    "pass": 3
+   },
+   {
+    "quote": "失われた技術と捨てた技術？！世界のロストテクノロジー",
+    "url": "https://note.com/kaidan_concierge",
+    "pass": 3
+   },
+   {
+    "quote": "プーマの量産型スニーカー『タハラ』、放課後の校庭を埋め尽くしたり。｜カッタウェイ",
+    "url": "https://note.com/cut_away_collar/n/nebee407713f1",
+    "pass": 3
+   },
+   {
+    "quote": "プーマの量産型スニーカー『タハラ』、放課後の校庭を埋め尽くしたり。",
+    "url": "https://note.com/cut_away_collar/n/nebee407713f1",
+    "pass": 3
+   },
+   {
+    "quote": "1983年、村下孝蔵の『初恋』がザ・ベストテンのチャートを賑わしていた頃、＜放課後の校庭＞※1で最もよく見かけた舶来メーカーの運動靴。",
+    "url": "https://note.com/cut_away_collar/n/nebee407713f1",
+    "pass": 3
+   },
+   {
+    "quote": "それが西ドイツ・プーマ社のスニーカー『タハラ』でした。",
+    "url": "https://note.com/cut_away_collar/n/nebee407713f1",
+    "pass": 3
+   },
+   {
+    "quote": "石灰を入れたライン引きやレーキと同様、グラウンドの備品だったのではないかと思うほど（大袈裟）普及していたこのモデルは、いわば量産型ザクやジムのような存在。",
+    "url": "https://note.com/cut_away_collar/n/nebee407713f1",
+    "pass": 3
+   },
+   {
+    "quote": "傑出した魅力や機能はないけれど、なんといってもその数で他のモデルを圧倒していたのです。",
+    "url": "https://note.com/cut_away_collar/n/nebee407713f1",
+    "pass": 3
+   },
+   {
+    "quote": "デッドストックの『タハラ』は、かく語りき。",
+    "url": "https://note.com/cut_away_collar/n/nebee407713f1",
+    "pass": 3
+   },
+   {
+    "quote": "青×白のタハラ。変色して紫がかった色合いに。",
+    "url": "https://note.com/cut_away_collar/n/nebee407713f1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 タハラ (@tahara_kaidan) / X 株式会社 タハラ (@tahara_kaidan) / X X https://x.com > tahara_kaidan",
+    "url": "https://x.com/tahara_kaidan",
+    "pass": 3
+   },
+   {
+    "quote": "タハラ ダンススタジオ (@taharadance) / X タハラ ダンススタジオ (@taharadance) / X X https://x.com > taharadance",
+    "url": "https://x.com/taharadance",
+    "pass": 3
+   },
+   {
+    "quote": "タハラ オフィスプランニング (@tahara_op) / X タハラ オフィスプランニング (@tahara_op) / X X https://x.com > tahara_op",
+    "url": "https://x.com/tahara_op",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "タハラ ハウス（有限会社 田原製材） | Hakusan-shi Ishikawa タハラ ハウス（有限会社 田原製材） | Hakusan-shi Ishikawa Facebook https://www.facebook.com > TaharaHouse",
+    "url": "https://www.facebook.com/TaharaHouse/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://wood-tahara.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wood-tahara.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wood-tahara.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wood-tahara.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wood-tahara.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wood-tahara.co.jp/news/%E3%80%90%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%80%91%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E4%BC%9A2026%E5%B9%B4%E5%8D%92%E5%90%91%E3%81%91%E5%AE%9F%E6%96%BD%E3%81%AE%E3%81%8A%E7%9F%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wood-tahara.co.jp/news/%E3%80%90%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%80%91%E5%90%88%E5%90%8C%E8%AA%AC%E6%98%8E%E4%BC%9A%E5%8F%82%E5%8A%A0%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wood-tahara.co.jp/contact-recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wood-tahara.co.jp/contact-recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10010660076/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-agent.com/viewjob/jk11a850a3baddafea/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tahara-mc.com/job1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kaidan_concierge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cut_away_collar/n/nebee407713f1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tahara_kaidan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/taharadance",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tahara_op",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TaharaHouse/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/kaidan_concierge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tahara_kaidan",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "タハラ 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10010660076/",
+    "https://www.r-agent.com/viewjob/jk11a850a3baddafea/",
+    "https://career-be.jp/companies/c-6abef829aa3375fb/salary",
+    "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BF%E3%83%8F%E3%83%A9%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BF%E3%83%8F%E3%83%A9/salaries",
+    "https://x-work.jp/kojo-sagyo/media_7188954",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10010660076/",
+    "https://www.tahara-mc.com/job1",
+    "https://jp.indeed.com/cmp/株式会社タハラ/salaries",
+    "https://xn--pckua2a7gp15o89zb.com/株式会社タハラの仕事"
+   ]
+  },
+  {
+   "query": "タハラ 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%82%BF%E3%83%8F%E3%83%A9+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.tahara-mc.com/job1",
+    "https://wood-tahara.co.jp/recruit/",
+    "https://www.r-agent.com/viewjob/jk11a850a3baddafea/",
+    "https://www.chibacari.com/career/job/detail/?id=20216474",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10010660076/",
+    "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BF%E3%83%8F%E3%83%A9%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "https://tahara-unsou.site.kagoshima.jp/recruit.html",
+    "https://x-work.jp/kojo-sagyo/media_7188954",
+    "https://tenshoku-ex.jp/job_41189899"
+   ]
+  },
+  {
+   "query": "site:note.com タハラ",
+   "results": [
+    "https://note.com/willbox/n/n7d85dc2d62f1",
+    "https://note.com/kaidan_concierge",
+    "https://note.com/cut_away_collar/n/nebee407713f1",
+    "https://note.com/kris1480mm/n/n197c277dce19",
+    "https://note.com/kaidan_concierge/n/n3c3cef5cf74e",
+    "https://note.com/kaidan_concierge/n/ndfc218d65604",
+    "https://note.com/ryuka5693/n/n33d825115f64",
+    "https://note.com/kaidan_concierge/n/n268f6ba4bf9f",
+    "https://note.com/tahara_noter",
+    "https://note.com/tarahakani"
+   ]
+  },
+  {
+   "query": "site:x.com タハラ",
+   "results": [
+    "https://x.com/tahara_kaidan",
+    "https://x.com/taharadance",
+    "https://x.com/tahara_op",
+    "https://x.com/tlIJatIR0gZKzod/status/1913927343942603108",
+    "https://x.com/tahara_kaidan/status/1755456452087689390",
+    "https://x.com/hiroyakomeiji/status/2002355290109587862",
+    "https://x.com/humbert_info/status/691602427322077185",
+    "https://x.com/taharahonatugi",
+    "https://x.com/_kitahara",
+    "https://x.com/caravan_harvest/status/170728143458549761"
+   ]
+  },
+  {
+   "query": "site:linkedin.com タハラ",
+   "results": [
+    "https://jp.linkedin.com/company/tahara-machinery-ltd",
+    "https://www.linkedin.com/company/tahara-machinery-ltd",
+    "https://www.linkedin.com/posts/tahara-machinery-ltd_extrusion-blowmolding-machine-activity-7162984042659786752-O2R7",
+    "https://www.linkedin.com/in/koki-tahara-4ba444212/ja",
+    "https://www.linkedin.com/in/steven-tahara-8914035",
+    "https://www.linkedin.com/in/tahara-dawkins-223bbb31",
+    "https://jp.linkedin.com/in/akemi-tahara-0082a322",
+    "https://jp.linkedin.com/in/yuki-tahara-454091119",
+    "https://www.linkedin.com/in/denisetahara",
+    "https://www.linkedin.com/jobs/view/【千葉-印西】海外営業-◇ブロー成型機-国内シェア85％ニッチトップ／面接1回-at-（株）タハラ-3979123844"
+   ]
+  },
+  {
+   "query": "site:facebook.com タハラ",
+   "results": [
+    "https://www.facebook.com/TaharaHouse/",
+    "https://www.facebook.com/masato.tahara/",
+    "https://www.facebook.com/tahara.harris.5/",
+    "https://www.facebook.com/hiroko.kataoka.3/",
+    "https://www.facebook.com/ayako.tahara.5/",
+    "https://www.facebook.com/ISAsurfing/videos/arigato-tahara-the-athletes-show-off-their-japanese-2026-asian-games/1095191386330868/",
+    "https://www.facebook.com/p/Tahara-Cricket-Club-100054284329659/",
+    "https://www.facebook.com/kosei.tahara.9/",
+    "https://www.facebook.com/lisa.tahara/",
+    "https://www.facebook.com/taharatosou/"
+   ]
+  },
+  {
+   "query": "タハラ note 社長",
+   "results": [
+    "https://note.com/tahara",
+    "https://note.com/kaidan_concierge",
+    "https://wood-tahara.co.jp/company/",
+    "https://note.com/tahara_noter",
+    "https://www.tahara-mc.com/job3?id=4640",
+    "https://shachomeikan.jp/industry_article/4250",
+    "https://note.com/kushimgovernance",
+    "https://work201.net/2023/01/27/tahara-3/",
+    "https://chugokukeiren.jp/info/2019/02/mfg/984/",
+    "https://ja.wikipedia.org/wiki/藤原岳史"
+   ]
+  },
+  {
+   "query": "タハラ X 投稿",
+   "results": [
+    "https://x.com/tahara_kaidan",
+    "https://wood-tahara.co.jp/",
+    "https://www.youtube.com/watch?v=8Khw-aZw4wY",
+    "https://www.taharakankou.gr.jp/news/news_detail.php?news_id=127",
+    "https://www.tahara-mc.com/2021/06/",
+    "https://www.instagram.com/tahara_kaidan/",
+    "https://www.city.tahara.aichi.jp/seisaku/kohou/1000084/1003625/1003251.html",
+    "https://syukatsu-kaigi.jp/companies/77180/word_mouths",
+    "https://jp.linkedin.com/in/yutaka-tahara-52564b67",
+    "https://x.com/_kitahara/with_replies"
+   ]
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部13頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部13頁・検索8回）"
+ }
+}
